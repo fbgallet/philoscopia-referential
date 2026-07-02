@@ -1,0 +1,17 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "diderot",
+  "stub": true,
+  "name": { "fr": "Diderot", "en": "Diderot" },
+  "fullName": { "fr": "Denis Diderot", "en": "Denis Diderot" },
+  "summary": {
+    "fr": "Philosophe et écrivain français, maître d'œuvre de l'Encyclopédie avec <ph id='d-alembert'>d'Alembert</ph>, esprit matérialiste et l'une des grandes figures des <mv id='enlightenment'>Lumières</mv>.",
+    "en": "French philosopher and writer, chief editor of the Encyclopédie with <ph id='d-alembert'>d'Alembert</ph>, a materialist mind and one of the great figures of the <mv id='enlightenment'>Enlightenment</mv>."
+  },
+  "birth": 1713,
+  "death": 1784,
+  "nationality": { "fr": "Français", "en": "French" },
+  "movements": ["enlightenment"],
+  "updatedAt": "2026-06-25T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

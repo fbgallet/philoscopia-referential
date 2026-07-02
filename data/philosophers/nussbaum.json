@@ -1,0 +1,23 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "nussbaum",
+  "stub": true,
+  "name": {
+    "fr": "Martha Nussbaum",
+    "en": "Martha Nussbaum"
+  },
+  "summary": {
+    "fr": "Philosophe américaine, qui développa avec Sen l'approche par les capabilités : une vie bonne se mesure aux possibilités réelles d'agir et d'être qu'une personne peut effectivement choisir.",
+    "en": "American philosopher who, with Sen, developed the capabilities approach: a good life is measured by the real opportunities to act and to be that a person can actually choose."
+  },
+  "birth": 1947,
+  "nationality": {
+    "fr": "Américaine",
+    "en": "American"
+  },
+  "movements": [],
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

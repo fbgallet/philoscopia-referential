@@ -1,0 +1,11 @@
+{
+  "id": "causa-sui",
+  "term": { "fr": "Cause de soi (causa sui)", "en": "Self-causation (causa sui)" },
+  "definition": {
+    "fr": "Être cause de soi (causa sui), c'est être à l'origine de son propre être. <ph id='spinoza'>Spinoza</ph> réservait ce statut à la seule substance divine. On en tire une conséquence sur la liberté : pour être l'auteur premier de mes choix, il faudrait que je me sois fait moi-même, ce qui est impossible. C'est pourquoi <ph>Galen Strawson</ph> en conclut qu'une responsabilité ultime est hors d'atteinte.",
+    "en": "To be the cause of oneself (causa sui) is to be the origin of one's own being. <ph id='spinoza'>Spinoza</ph> reserved this status for the divine substance alone. A consequence for freedom follows: to be the ultimate author of my choices, I would have had to make myself, which is impossible. This is why <ph>Galen Strawson</ph> concludes that ultimate responsibility is out of reach."
+  },
+  "relatedAxes": ["FREEDOM"],
+  "relatedTerms": ["free-will", "determinism"],
+  "updatedAt": "2026-06-20T00:00:00.000Z"
+}

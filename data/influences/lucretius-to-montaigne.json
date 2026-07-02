@@ -1,0 +1,17 @@
+{
+  "id": "lucretius-to-montaigne",
+  "from": { "kind": "PHILOSOPHER", "slug": "lucretius" },
+  "to": { "kind": "PHILOSOPHER", "slug": "montaigne" },
+  "directness": "INDIRECT",
+  "mode": "CONTINUES",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='montaigne'>Montaigne</ph> a lu et annoté le <w id='on-the-nature-of-things-lucretius'>De rerum natura</w>, dont il parsème les <w id='essays-montaigne'>Essais</w> de citations. Sa reprise du <c>naturalisme</c> de <ph id='lucretius'>Lucrèce</ph> est sélective : il en retient surtout la <c>mort</c>, la condition charnelle et le refus du dogmatisme, plus qu'un système. La lecture est directe, mais la filiation reste indirecte, faite d'emprunts littéraires sans magistère reconnu.",
+    "en": "<ph id='montaigne'>Montaigne</ph> read and annotated <w id='on-the-nature-of-things-lucretius'>On the Nature of Things</w>, which he laces with quotations throughout the <w id='essays-montaigne'>Essays</w>. His uptake of <ph id='lucretius'>Lucretius</ph>'s <c>naturalism</c> is selective: he draws above all on <c>death</c>, the bodily condition and the refusal of dogmatism, rather than on a system. The reading is direct, yet the filiation stays indirect, made of literary borrowings without acknowledged mastership."
+  },
+  "sources": [
+    { "fr": "L'exemplaire du De rerum natura annoté de la main de Montaigne (notes marginales conservées)", "en": "Montaigne's hand-annotated copy of On the Nature of Things (extant marginalia)" },
+    { "fr": "Citations de Lucrèce parmi les plus fréquentes des Essais, surtout sur la mort et la condition charnelle", "en": "Among the most frequent quotations in the Essays, especially on death and the bodily condition" }
+  ],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

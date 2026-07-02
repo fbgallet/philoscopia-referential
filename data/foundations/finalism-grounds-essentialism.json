@@ -1,0 +1,12 @@
+{
+  "id": "finalism-grounds-essentialism",
+  "ground": { "axisId": "CAUSALITY", "poleId": "FINALISM" },
+  "grounded": { "axisId": "ESSENCE", "poleId": "ESSENTIALISM" },
+  "kind": "T_T",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si chaque être tend vers une fin qui lui est propre, c'est qu'une forme, une essence, le définit et oriente son développement. Le finalisme fonde l'essentialisme : chez <ph id='aristotle'>Aristote</ph>, la <c id='four-causes'>cause finale</c> et la forme se rejoignent, et la nature d'une chose est ce qu'elle est appelée à devenir.",
+    "en": "If each being tends toward an end of its own, it is because a form, an essence, defines it and guides its development. Finalism grounds essentialism: in <ph id='aristotle'>Aristotle</ph>, the <c id='four-causes'>final cause</c> and the form coincide, and the nature of a thing is what it is meant to become."
+  },
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "confucius-to-xunzi",
+  "from": { "kind": "PHILOSOPHER", "slug": "confucius" },
+  "to": { "kind": "PHILOSOPHER", "slug": "xunzi" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='xunzi'>Xunzi</ph> se réclame de <ph id='confucius'>Confucius</ph> mais réoriente son héritage vers une nature humaine à redresser : ce sont l'étude et les <c>rites</c> qui fabriquent la vertu, non une bonté innée.",
+    "en": "<ph id='xunzi'>Xunzi</ph> claims <ph id='confucius'>Confucius</ph> as his master but reorients the inheritance toward a human nature that must be straightened: study and <c>ritual</c> manufacture virtue, not an innate goodness."
+  },
+  "sources": [
+    { "fr": "Xunzi", "en": "Xunzi" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

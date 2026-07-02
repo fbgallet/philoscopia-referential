@@ -1,0 +1,13 @@
+{
+  "id": "objective-idealism",
+  "term": { "fr": "Idéalisme objectif", "en": "Objective idealism" },
+  "definition": {
+    "fr": "Métaphysique tardive de <ph id='peirce'>Peirce</ph> selon laquelle la matière n'est qu'un « esprit affaibli », faite d'habitudes invétérées au point de devenir des lois physiques : l'esprit est premier, et le physique en est une forme figée. Elle se distingue de l'idéalisme subjectif de <ph id='berkeley'>Berkeley</ph>, pour qui les choses n'existent que perçues, car l'esprit dont il s'agit est objectif, réel indépendamment de toute perception particulière. Soutenue par le <c id='synechism'>synéchisme</c>, qui interdit de séparer matière et esprit en substances tranchées, cette doctrine refuse aussi bien le <ax id='REALITY_NATURE'>matérialisme</ax> que le dualisme.",
+    "en": "<ph id='peirce'>Peirce</ph>'s late metaphysics, according to which matter is but « effete mind », made of habits grown so inveterate as to become physical laws: mind is primary, and the physical is one of its congealed forms. It differs from <ph id='berkeley'>Berkeley</ph>'s subjective idealism, for which things exist only as perceived, because the mind in question is objective, real independently of any particular perception. Backed by <c id='synechism'>synechism</c>, which forbids separating matter and mind into clean-cut substances, this doctrine refuses both <ax id='REALITY_NATURE'>materialism</ax> and dualism."
+  },
+  "relatedAxes": ["REALITY_NATURE"],
+  "relatedTerms": ["synechism", "tychism"],
+  "figure": { "slug": "peirce", "name": { "fr": "Peirce", "en": "Peirce" } },
+  "positions": [{ "axisId": "REALITY_NATURE", "poleId": "IDEALISM" }],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

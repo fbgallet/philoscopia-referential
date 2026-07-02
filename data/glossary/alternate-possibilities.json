@@ -1,0 +1,11 @@
+{
+  "id": "alternate-possibilities",
+  "term": { "fr": "Possibilités alternatives", "en": "Alternate possibilities" },
+  "definition": {
+    "fr": "Le principe des possibilités alternatives veut qu'on ne soit responsable d'un acte que si l'on aurait pu agir autrement. Il noue <ax id='FREEDOM'>liberté</ax> et responsabilité : c'est souvent par lui qu'on argue du <c id='free-will'>libre arbitre</c>, et c'est lui que le <c id='determinism'>déterminisme</c> menace. <ph>Frankfurt</ph> l'a contesté par des contre-exemples célèbres, où l'on est tenu pour responsable d'un acte qu'on ne pouvait pourtant pas ne pas faire.",
+    "en": "The principle of alternate possibilities holds that one is responsible for an act only if one could have acted otherwise. It ties <ax id='FREEDOM'>freedom</ax> to responsibility: it is often the route by which <c id='free-will'>free will</c> is argued, and the thing <c id='determinism'>determinism</c> threatens. <ph>Frankfurt</ph> contested it with famous counter-examples, where one is held responsible for an act one nonetheless could not have failed to do."
+  },
+  "relatedAxes": ["FREEDOM"],
+  "relatedTerms": ["free-will", "determinism", "compatibilism"],
+  "updatedAt": "2026-06-20T00:00:00.000Z"
+}

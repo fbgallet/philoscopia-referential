@@ -1,0 +1,12 @@
+{
+  "id": "existentialism-grounds-project",
+  "ground": { "axisId": "ESSENCE", "poleId": "EXISTENTIALISM" },
+  "grounded": { "axisId": "TIME_ORIENTATION", "poleId": "PROJECT" },
+  "kind": "T_V",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si l'existence précède l'essence, l'homme n'est pas une chose donnée mais ce qu'il se fait en se projetant vers l'avenir. L'existentialisme fonde l'orientation vers le projet : pour <ph id='sartre'>Sartre</ph>, je suis mes actes et mes engagements à venir, et me réduire à l'instant présent serait renoncer à moi-même.",
+    "en": "If existence precedes essence, the human being is not a given thing but what they make of themselves by projecting toward the future. Existentialism grounds the orientation toward projects: for <ph id='sartre'>Sartre</ph>, I am my acts and my commitments to come, and to reduce myself to the present instant would be to give up on myself."
+  },
+  "updatedAt": "2026-06-22T00:00:00.000Z"
+}

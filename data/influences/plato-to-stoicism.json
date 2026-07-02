@@ -1,0 +1,16 @@
+{
+  "id": "plato-to-stoicism",
+  "from": { "kind": "PHILOSOPHER", "slug": "plato" },
+  "to": { "kind": "MOVEMENT", "slug": "stoicism" },
+  "directness": "INDIRECT",
+  "mode": "CONTINUES",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "La physique <mv id='stoicism'>stoïcienne</mv> puise dans le Timée de <ph id='plato'>Platon</ph> l'idée d'un cosmos vivant, ordonné et régi par une providence rationnelle, qu'elle refond en un matérialisme du souffle et du logos immanent.",
+    "en": "<mv id='stoicism'>Stoic</mv> physics draws from <ph id='plato'>Plato</ph>'s Timaeus the idea of a living cosmos, ordered and governed by a rational providence, which it recasts into a materialism of breath and immanent logos."
+  },
+  "sources": [
+    { "fr": "Platon, Timée", "en": "Plato, Timaeus" }
+  ],
+  "updatedAt": "2026-07-02T00:00:00.000Z"
+}

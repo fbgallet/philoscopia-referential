@@ -1,0 +1,94 @@
+{
+  "id": "SOCIAL_CONTRACT",
+  "relation": "OTHERS",
+  "territory": "SOCIETY_POLITICS",
+  "label": {
+    "fr": "Origine du lien social",
+    "en": "The origin of the social bond"
+  },
+  "question": {
+    "fr": "La société repose-t-elle sur un accord entre individus ou sur une communauté qui les précède ?",
+    "en": "Does society rest on an agreement between individuals, or on a community that precedes them?"
+  },
+  "stakes": {
+    "fr": "Si la société naît d'un accord entre individus, on peut la renégocier, la quitter, la refaire à notre gré ; si une communauté nous précède, nous naissons pris dans des liens et des devoirs que nous n'avons pas choisis. Se positionner, c'est dire si l'on appartient à une société par consentement ou par naissance.",
+    "en": "If society arises from an agreement among individuals, we can renegotiate it, leave it, remake it as we wish; if a community precedes us, we are born caught in bonds and duties we never chose. To take a position is to say whether we belong to a society by consent or by birth."
+  },
+  "layer": "THEORY",
+  "type": "BIPOLAR",
+  "poles": [
+    {
+      "id": "CONTRACTUALISM",
+      "label": {
+        "fr": "Contractualisme",
+        "en": "Contractualism"
+      },
+      "description": {
+        "fr": "La société et le pouvoir politique tirent leur légitimité d'un pacte, réel ou hypothétique, entre individus libres et égaux. Le lien social est une construction volontaire : ce sont les individus qui fondent l'ordre commun, et non l'inverse.",
+        "en": "Society and political power draw their legitimacy from a pact, real or hypothetical, between free and equal individuals. The social bond is a voluntary construction: individuals found the common order, not the other way around."
+      },
+      "figures": [
+        {
+          "slug": "hobbes",
+          "name": {
+            "fr": "Hobbes",
+            "en": "Hobbes"
+          }
+        },
+        {
+          "slug": "locke",
+          "name": {
+            "fr": "Locke",
+            "en": "Locke"
+          }
+        },
+        {
+          "slug": "rousseau",
+          "name": {
+            "fr": "Rousseau",
+            "en": "Rousseau"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ORGANIC_COMMUNITY",
+      "label": {
+        "fr": "Communauté organique",
+        "en": "Organic community"
+      },
+      "description": {
+        "fr": "L'homme est par nature un être social : la communauté précède l'individu, qui n'existe et ne se comprend qu'en elle. Le lien social n'est pas un contrat mais un héritage vivant, tissé de mœurs, d'institutions et de traditions transmises.",
+        "en": "Human beings are social by nature: the community precedes the individual, who exists and understands themselves only within it. The social bond is not a contract but a living inheritance, woven from customs, institutions, and transmitted traditions."
+      },
+      "figures": [
+        {
+          "slug": "aristotle",
+          "name": {
+            "fr": "Aristote",
+            "en": "Aristotle"
+          }
+        },
+        {
+          "slug": "burke",
+          "name": {
+            "fr": "Burke",
+            "en": "Burke"
+          }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 2,
+  "clusters": [
+    "TRADITION_ORDER"
+  ],
+  "relatedAxes": [
+    "RIGHTS_NATURE",
+    "AUTHORITY",
+    "BELONGING",
+    "INDIVIDUAL_SOCIETY",
+    "DISTRIBUTIVE_JUSTICE"
+  ]
+}

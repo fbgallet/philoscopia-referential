@@ -1,0 +1,11 @@
+{
+  "id": "personal-identity",
+  "term": { "fr": "L'identité personnelle", "en": "Personal identity" },
+  "definition": {
+    "fr": "L'identité personnelle est ce qui fait que je demeure, à travers le temps et les changements, une seule et même personne, et la question de savoir à quoi cela tient. Les réponses divergent : une <ax id='SELF_NATURE' pole='SUBSTANTIALISM'>substance pensante</ax> qui ne change pas (<ph id='descartes'>Descartes</ph>), la <ax id='SELF_NATURE' pole='PSYCHOLOGICAL_CONTINUITY'>continuité de la mémoire</ax> (<ph id='locke'>Locke</ph>), le <ax id='SELF_NATURE' pole='NARRATIVISM'>récit que l'on fait de sa vie</ax> (<ph>Ricœur</ph>), ou un simple <ax id='SELF_NATURE' pole='BUNDLE_THEORY'>faisceau d'états</ax> sans moi stable (<ph id='hume'>Hume</ph>, le bouddhisme). L'enjeu se noue notamment sur la survie après la mort : pour qu'il y ait survie de quelqu'un, et non persistance de quelque chose, il faut que ce qui demeure soit assez relié à la personne d'avant pour être encore elle.",
+    "en": "Personal identity is what makes me remain, through time and change, one and the same person, and the question of what this rests on. The answers diverge: an unchanging <ax id='SELF_NATURE' pole='SUBSTANTIALISM'>thinking substance</ax> (<ph id='descartes'>Descartes</ph>), the <ax id='SELF_NATURE' pole='PSYCHOLOGICAL_CONTINUITY'>continuity of memory</ax> (<ph id='locke'>Locke</ph>), the <ax id='SELF_NATURE' pole='NARRATIVISM'>story one tells of one's life</ax> (<ph>Ricoeur</ph>), or a mere <ax id='SELF_NATURE' pole='BUNDLE_THEORY'>bundle of states</ax> with no stable self (<ph id='hume'>Hume</ph>, Buddhism). The stakes are sharpest around survival after death: for there to be the survival of someone, and not the persistence of something, what remains must be tied closely enough to the earlier person to be that person still."
+  },
+  "relatedAxes": ["SELF_NATURE", "DEATH"],
+  "relatedTerms": ["anatta"],
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

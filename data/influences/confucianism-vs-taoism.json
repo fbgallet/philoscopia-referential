@@ -1,0 +1,16 @@
+{
+  "id": "confucianism-vs-taoism",
+  "from": { "kind": "MOVEMENT", "slug": "confucianism" },
+  "to": { "kind": "MOVEMENT", "slug": "taoism" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Le <mv id='taoism'>taoïsme</mv> se définit en partie contre le <mv id='confucianism'>confucianisme</mv> : là où celui-ci fonde l'ordre sur le rite et la vertu sociale, le Zhuangzi raille les convenances et oppose le spontané et le non-agir.",
+    "en": "<mv id='taoism'>Taoism</mv> partly defines itself against <mv id='confucianism'>Confucianism</mv>: where the latter grounds order in ritual and social virtue, the Zhuangzi mocks propriety and sets against it spontaneity and non-action."
+  },
+  "sources": [
+    { "fr": "Zhuangzi ; Laozi, Tao Te King", "en": "Zhuangzi; Laozi, Tao Te Ching" }
+  ],
+  "updatedAt": "2026-07-02T00:00:00.000Z"
+}

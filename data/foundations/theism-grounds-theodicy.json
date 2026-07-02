@@ -1,0 +1,12 @@
+{
+  "id": "theism-grounds-theodicy",
+  "ground": { "axisId": "GOD_EXISTENCE", "poleId": "THEISM" },
+  "grounded": { "axisId": "PROBLEM_OF_EVIL", "poleId": "THEODICY" },
+  "kind": "T_T",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si Dieu est à la fois bon, sage et tout-puissant, l'existence du mal exige d'être justifiée plutôt que de ruiner la foi. Le théisme pousse à la théodicée : <ph id='leibniz'>Leibniz</ph> soutient que ce monde, malgré ses maux, est le meilleur des mondes possibles. D'autres croyants refusent pourtant toute justification du mal, signe que le lien n'a rien de nécessaire.",
+    "en": "If God is at once good, wise and all-powerful, the existence of evil must be justified rather than allowed to ruin faith. Theism pushes toward theodicy: <ph id='leibniz'>Leibniz</ph> holds that this world, for all its evils, is the best of all possible worlds. Other believers, however, refuse any justification of evil, a sign that the link is in no way necessary."
+  },
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

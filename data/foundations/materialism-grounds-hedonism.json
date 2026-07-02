@@ -1,0 +1,12 @@
+{
+  "id": "materialism-grounds-hedonism",
+  "ground": { "axisId": "REALITY_NATURE", "poleId": "MATERIALISM" },
+  "grounded": { "axisId": "SOVEREIGN_GOOD", "poleId": "HEDONISM" },
+  "kind": "T_V",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "S'il n'existe que des corps et leurs affections, sans âme immortelle ni fin transcendante, le bien ne peut se mesurer qu'au plaisir et à l'absence de douleur. Le matérialisme fonde l'hédonisme : pour <ph id='epicurus'>Épicure</ph>, c'est parce que tout est atomes et que rien ne nous attend après la mort que la vie réussie se joue dans le plaisir bien compris.",
+    "en": "If only bodies and their affections exist, with no immortal soul or transcendent end, the good can be measured only by pleasure and the absence of pain. Materialism grounds hedonism: for <ph id='epicurus'>Epicurus</ph>, it is because all is atoms and nothing awaits us after death that a successful life plays out in well-understood pleasure."
+  },
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

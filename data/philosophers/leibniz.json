@@ -1,0 +1,782 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "leibniz",
+  "name": {
+    "fr": "Leibniz",
+    "en": "Leibniz"
+  },
+  "fullName": {
+    "fr": "Gottfried Wilhelm Leibniz",
+    "en": "Gottfried Wilhelm Leibniz"
+  },
+  "tagline": {
+    "fr": "Nous vivons dans <q>le meilleur des mondes possibles</q> : rien n'arrive sans <c>raison suffisante</c>.",
+    "en": "We live in <q>the best of all possible worlds</q>: nothing happens without a <c>sufficient reason</c>."
+  },
+  "summary": {
+    "fr": "Esprit universel du <mv id='rationalism'>rationalisme</mv> allemand, né à Leipzig au lendemain de la guerre de Trente Ans. Diplomate, juriste et bibliothécaire au service de la maison de Hanovre, il mena de front les mathématiques (il invente, en même temps que <ph>Newton</ph> et indépendamment de lui, le calcul infinitésimal, d'où une âpre querelle de priorité), la logique, la physique et la métaphysique. Il ne publia presque aucun grand livre : sa pensée vit dans une immense correspondance européenne, dans le <w>Discours de métaphysique</w>, la <w>Monadologie</w> et les seuls <w>Essais de théodicée</w> parus de son vivant. Héritier critique de <ph id='descartes'>Descartes</ph> et adversaire du nécessitarisme de <ph id='spinoza'>Spinoza</ph>, il cherche à concilier la nouvelle science mécaniste avec la <c id='free-will'>liberté</c>, la finalité et un Dieu créateur. Son <c>optimisme</c> fut tourné en dérision par <ph>Voltaire</ph> dans <w>Candide</w>, mais sa logique et son projet d'une langue universelle des concepts en font un précurseur reconnu de la logique moderne.",
+    "en": "A universal mind of German <mv id='rationalism'>rationalism</mv>, born in Leipzig in the aftermath of the Thirty Years' War. A diplomat, jurist and librarian in the service of the House of Hanover, he pursued at once mathematics (inventing, at the same time as <ph>Newton</ph> and independently of him, the infinitesimal calculus, whence a bitter priority dispute), logic, physics and metaphysics. He published almost no major book: his thought lives in a vast European correspondence, in the <w>Discourse on Metaphysics</w>, the <w>Monadology</w>, and the <w>Theodicy</w>, the only one to appear in his lifetime. A critical heir of <ph id='descartes'>Descartes</ph> and an opponent of <ph id='spinoza'>Spinoza</ph>'s necessitarianism, he sought to reconcile the new mechanistic science with <c id='free-will'>freedom</c>, finality and a creator God. His <c>optimism</c> was mocked by <ph>Voltaire</ph> in <w>Candide</w>, yet his logic and his project of a universal language of concepts make him a recognized forerunner of modern logic."
+  },
+  "birth": 1646,
+  "death": 1716,
+  "nationality": {
+    "fr": "Allemand",
+    "en": "German"
+  },
+  "movements": [
+    "rationalism"
+  ],
+  "entries": [
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0.2,
+          0.45,
+          0.25
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'éthique de Leibniz tient dans la <c>caritas sapientis</c>, la charité du sage : la justice est l'amour réglé par la sagesse, qui veut le bien d'autrui dans l'ordre de la perfection universelle. Ce souci d'autrui guidé par la connaissance unit une éthique de la vertu (la perfection de l'âme) à une part de care (la bienveillance) et de devoir (l'ordre rationnel du juste).",
+          "en": "Leibniz's ethics lies in <c>caritas sapientis</c>, the charity of the wise: justice is love regulated by wisdom, willing the good of others within the order of universal perfection. This concern for others guided by knowledge unites a virtue ethics (the perfection of the soul) with a share of care (benevolence) and of duty (the rational order of the just)."
+        },
+        "references": [
+          {
+            "fr": "Méditation sur la notion commune de la justice",
+            "en": "Meditation on the Common Concept of Justice"
+          },
+          {
+            "fr": "Codex iuris gentium, Préface",
+            "en": "Codex iuris gentium, Preface"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.9,
+          0.1,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Pour Leibniz, ce monde est le <c>meilleur des mondes possibles</c>, choisi par Dieu parmi l'infinité des possibles selon le principe du meilleur. Rien n'y arrive sans raison suffisante, et chaque substance, par l'<c>harmonie préétablie</c>, concourt à l'ordre et à la perfection de l'ensemble. La vie tient son sens de cette finalité providentielle qui l'enveloppe, à reconnaître plutôt qu'à inventer.",
+          "en": "For Leibniz, this world is the <c>best of all possible worlds</c>, chosen by God among the infinity of possibles according to the principle of the best. Nothing happens in it without a sufficient reason, and each substance, through <c>pre-established harmony</c>, contributes to the order and perfection of the whole. Life draws its meaning from this providential purpose that envelops it, to be recognized rather than invented."
+        },
+        "references": [
+          {
+            "fr": "Essais de Théodicée",
+            "en": "Theodicy"
+          },
+          {
+            "fr": "Monadologie, §§ 53-60",
+            "en": "Monadology, §§ 53-60"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.05,
+          0.05,
+          0.9,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Chez Leibniz, aucune substance ne périt vraiment : la <c>monade</c> est indestructible, et ce qu'on nomme mort n'est qu'une enveloppe et une diminution, non un anéantissement. L'âme rationnelle conserve de surcroît son individualité, sa mémoire et son identité morale, gage d'une immortalité personnelle requise par la justice divine.",
+          "en": "For Leibniz, no substance truly perishes: the <c>monad</c> is indestructible, and what we call death is only an enfolding and a diminution, not an annihilation. The rational soul moreover keeps its individuality, its memory and its moral identity, the pledge of a personal immortality required by divine justice."
+        },
+        "references": [
+          {
+            "fr": "Monadologie, §§ 73-77",
+            "en": "Monadology, §§ 73-77"
+          },
+          {
+            "fr": "Discours de métaphysique, § 34",
+            "en": "Discourse on Metaphysics, § 34"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.45,
+          0.45,
+          0.1
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Contre Locke, Leibniz fait de l'<c>inquiétude</c> (uneasiness), cette sourde poussée des petites appétitions, le ressort permanent de l'action et le moteur de notre marche vers plus de perfection. Le désir n'est pas un mal à réprimer mais une force positive, pourvu qu'il soit éclairé et ordonné au vrai bien par l'entendement : affirmation et tri raisonné s'y équilibrent.",
+          "en": "Against Locke, Leibniz makes <c>uneasiness</c>, the muffled push of the small appetitions, the permanent spring of action and the engine of our advance toward greater perfection. Desire is no evil to be repressed but a positive force, provided it is enlightened and ordered toward the true good by the understanding: affirmation and reasoned sorting balance out in him."
+        },
+        "references": [
+          {
+            "fr": "Nouveaux essais sur l'entendement humain, II, 20-21",
+            "en": "New Essays on Human Understanding, II, 20-21"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Contre l'empirisme de <ph id='locke'>Locke</ph>, pour qui rien n'est dans l'entendement qui n'ait d'abord été dans les sens, Leibniz réplique : <q>rien, sinon l'entendement lui-même</q>. L'esprit n'est pas une <c id='tabula-rasa'>table rase</c> mais porte en lui des <c id='innate-ideas'>idées innées</c> en puissance, comme des veines dans le marbre ; les vérités nécessaires (logique, mathématiques, métaphysique) ne peuvent venir de l'expérience, qui ne donne que des cas particuliers. C'est un <ax id='KNOWLEDGE_SOURCE'>rationalisme</ax> affirmé, tempéré par la reconnaissance du rôle des sens pour les vérités de fait.",
+          "en": "Against the empiricism of Locke, for whom nothing is in the understanding that was not first in the senses, Leibniz replies: <q>nothing, except the understanding itself</q>. The mind is not a <c id='tabula-rasa'>blank slate</c> but carries within it <c id='innate-ideas'>innate ideas</c> in potency, like veins in marble; necessary truths (logic, mathematics, metaphysics) cannot come from experience, which yields only particular cases. This is an avowed <ax id='KNOWLEDGE_SOURCE'>rationalism</ax>, tempered by acknowledging the role of the senses for truths of fact."
+        },
+        "references": [
+          {
+            "fr": "Nouveaux essais sur l'entendement humain, préface et livre II, ch. 1",
+            "en": "New Essays on Human Understanding, preface and book II, ch. 1"
+          },
+          {
+            "fr": "Nouveaux essais, II, 1, §2 (les veines dans le marbre)",
+            "en": "New Essays, II, 1, §2 (the veins in the marble)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Rien n'est dans l'entendement qui n'ait d'abord été dans les sens, sinon l'entendement lui-même.",
+            "en": "Nothing is in the intellect that was not first in the senses, except the intellect itself."
+          },
+          "source": {
+            "fr": "Nouveaux essais sur l'entendement humain, II, 1",
+            "en": "New Essays on Human Understanding, II, 1"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Deux principes gouvernent toute la connaissance : celui de <c>contradiction</c>, qui règle les vérités nécessaires, et celui de <c id='principle-of-sufficient-reason'>raison suffisante</c>, selon lequel rien n'est vrai sans une raison qui fasse qu'il en soit ainsi plutôt qu'autrement. Si toute vérité a sa raison, alors toute vérité est en droit analysable et démontrable : c'est le fondement du <c id='dogmatism'>dogmatisme</c> rationaliste de Leibniz, qui pousse l'idée à sa limite en rêvant d'une <c>characteristica universalis</c>, langue universelle des concepts, et d'un <c>calculus ratiocinator</c> où les désaccords se résoudraient par le calcul, comme entre deux comptables. La certitude n'est plus un idéal lointain mais le terme assignable d'une procédure réglée.",
+          "en": "Two principles govern all knowledge: that of <c>contradiction</c>, which rules necessary truths, and that of <c id='principle-of-sufficient-reason'>sufficient reason</c>, by which nothing is true without a reason why it is so rather than otherwise. If every truth has its reason, then every truth is in principle analyzable and demonstrable: this is the ground of Leibniz's rationalist <c id='dogmatism'>dogmatism</c>, which pushes the idea to its limit by dreaming of a <c>characteristica universalis</c>, a universal language of concepts, and a <c>calculus ratiocinator</c> in which disagreements would be resolved by reckoning, as between two accountants. Certainty is no longer a distant ideal but the assignable terminus of a regulated procedure."
+        },
+        "references": [
+          {
+            "fr": "De la méthode de l'universalité ; lettres sur la characteristica universalis",
+            "en": "On the Method of Universality; letters on the characteristica universalis"
+          },
+          {
+            "fr": "Monadologie, §31-32 (principes de contradiction et de raison suffisante)",
+            "en": "Monadology, §31-32 (principles of contradiction and of sufficient reason)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Quand surgira une controverse, il n'y aura pas plus besoin de discuter entre deux philosophes qu'entre deux comptables. Il leur suffira de prendre la plume, de s'asseoir et de se dire : calculons.",
+            "en": "When a controversy arises, there will be no more need of disputation between two philosophers than between two accountants. It will suffice to take their pens, sit down, and say: let us calculate."
+          },
+          "source": {
+            "fr": "De l'art combinatoire / Lettres",
+            "en": "On the Art of Combinations / Letters"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.85,
+          0.15
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Ce qui est composé suppose du simple, car un agrégat n'emprunte sa réalité qu'à ses éléments : il doit donc exister des <c>substances simples</c>, sans parties, les <c>monades</c>. Or la matière, indéfiniment divisible et étendue, n'est jamais simple : les vrais atomes de la nature ne peuvent être matériels mais d'ordre spirituel, des unités dont l'essence est perception et appétition. La matière étendue n'a plus dès lors qu'une réalité dérivée, celle d'un <c>phénomène bien fondé</c> résultant de l'agrégation des monades. Cet <ax id='REALITY_NATURE'>immatérialisme</ax> répond au <pb>problème de l'unité du réel</pb> que l'étendue cartésienne, toujours sécable, ne pouvait fonder ; il garde une teinte dualiste, l'ordre des corps et celui des âmes restant distincts mais accordés.",
+          "en": "Whatever is composite presupposes something simple, for an aggregate borrows its reality from its elements: there must therefore exist <c>simple substances</c>, without parts, the <c>monads</c>. But matter, endlessly divisible and extended, is never simple: the true atoms of nature cannot be material but must be of a spiritual order, units whose essence is perception and appetition. Extended matter then has only a derived reality, that of a <c>well-founded phenomenon</c> resulting from the aggregation of monads. This <ax id='REALITY_NATURE'>immaterialism</ax> answers the <pb>problem of the unity of the real</pb> that Cartesian extension, always divisible, could not ground; it keeps a dualist tint, the order of bodies and that of souls remaining distinct but harmonized."
+        },
+        "references": [
+          {
+            "fr": "Monadologie, §1-7 (les monades, substances simples sans fenêtres)",
+            "en": "Monadology, §1-7 (the monads, simple windowless substances)"
+          },
+          {
+            "fr": "Lettres à De Volder et à Des Bosses (phénomènes bien fondés)",
+            "en": "Letters to De Volder and Des Bosses (well-founded phenomena)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Les monades n'ont point de fenêtres par lesquelles quelque chose y puisse entrer ou sortir.",
+            "en": "The monads have no windows through which anything could enter or leave."
+          },
+          "source": {
+            "fr": "Monadologie, §7",
+            "en": "Monadology, §7"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.95
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Dieu est la substance suprême, nécessaire et personnelle, cause de l'<c>harmonie préétablie</c> et auteur du choix du meilleur monde. Leibniz le prouve par plusieurs voies : la <c>raison suffisante</c> de l'univers contingent doit être hors de lui ; les vérités éternelles supposent un entendement divin ; il reprend et corrige l'<arg>argument ontologique</arg>. C'est un <c>théisme</c> au sens plein, providentiel et créateur, et non le Dieu impersonnel de <ph id='spinoza'>Spinoza</ph>, qu'il combat.",
+          "en": "God is the supreme, necessary and personal substance, cause of the <c>pre-established harmony</c> and author of the choice of the best world. Leibniz proves him along several lines: the <c>sufficient reason</c> of the contingent universe must lie outside it; the eternal truths presuppose a divine intellect; he takes up and amends the <arg>ontological argument</arg>. This is theism in the full sense, providential and creative, not the impersonal God of <ph id='spinoza'>Spinoza</ph>, whom he opposes."
+        },
+        "references": [
+          {
+            "fr": "Monadologie, §38-45 (Dieu, raison suffisante, source des vérités éternelles)",
+            "en": "Monadology, §38-45 (God, sufficient reason, source of the eternal truths)"
+          },
+          {
+            "fr": "Essais de théodicée, §7-8 (Dieu, cause du meilleur monde)",
+            "en": "Theodicy, §7-8 (God, cause of the best world)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "COSMIC_OUTLOOK",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -1
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Rien n'arrive sans <c id='principle-of-sufficient-reason'>raison suffisante</c>, pas même la création : si Dieu a fait exister ce monde plutôt qu'un autre parmi l'infinité des <c>mondes possibles</c> qu'il conçoit, c'est que sa sagesse et sa bonté lui ont fait choisir celui qui réalise le maximum de perfection avec le minimum de moyens, <q>le meilleur des mondes possibles</q>. Le mal n'y est donc pas un démenti mais une part calculée : Dieu le permet là où il conditionne un plus grand bien d'ensemble. Cet <c>optimisme</c> répond au <pb>scandale du mal</pb> en transformant une objection contre la providence en conséquence de la perfection divine, raisonnement que <ph>Voltaire</ph> raillera dans <w>Candide</w> à travers Pangloss.",
+          "en": "Nothing happens without a <c id='principle-of-sufficient-reason'>sufficient reason</c>, not even creation: if God brought this world into being rather than another among the infinity of <c>possible worlds</c> he conceives, it is because his wisdom and goodness led him to choose the one that realizes the maximum of perfection with the least means, <q>the best of all possible worlds</q>. Evil is therefore not a refutation but a calculated part: God permits it where it conditions a greater good of the whole. This <c>optimism</c> answers the <pb>scandal of evil</pb> by turning an objection against providence into a consequence of divine perfection, the reasoning <ph>Voltaire</ph> would mock in <w>Candide</w> through Pangloss."
+        },
+        "references": [
+          {
+            "fr": "Essais de théodicée, §8-10 et §225 (le meilleur des mondes possibles)",
+            "en": "Theodicy, §8-10 and §225 (the best of all possible worlds)"
+          },
+          {
+            "fr": "Discours de métaphysique, §3 (Dieu fait tout de la manière la plus parfaite)",
+            "en": "Discourse on Metaphysics, §3 (God does everything in the most perfect way)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Il s'ensuit de la suprême perfection de Dieu qu'en produisant l'univers il a choisi le meilleur plan possible.",
+            "en": "It follows from the supreme perfection of God that in producing the universe he chose the best possible plan."
+          },
+          "source": {
+            "fr": "Monadologie, §55 ; Théodicée",
+            "en": "Monadology, §55; Theodicy"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CAUSALITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.35,
+          0.65,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Puisque les <c>monades</c> sont <q>sans fenêtres</q>, aucune substance n'agit réellement sur une autre : la coordination de l'âme et du corps, comme de toutes les substances entre elles, ne peut venir ni d'une influence directe ni des secours répétés de Dieu (l'occasionnalisme), mais d'une <c>harmonie préétablie</c> réglée dès la création, telle deux horloges accordées d'avance. D'où la réhabilitation des <ax id='CAUSALITY'>causes finales</ax> écartées par la science mécaniste : le règne des <c>causes efficientes</c> (les corps) et celui des <c>causes finales</c> (les âmes, les fins) coïncident sans se mêler. Tout s'explique mécaniquement dans le détail des phénomènes, mais la raison dernière de leur agencement est finale, inscrite dans le choix divin du meilleur. Le finalisme prime donc métaphysiquement sans abolir le mécanisme.",
+          "en": "Since the <c>monads</c> are <q>without windows</q>, no substance really acts on another: the coordination of soul and body, like that of all substances among themselves, can come neither from direct influence nor from God's repeated assistance (occasionalism), but from a <c>pre-established harmony</c> set up at creation, like two clocks tuned in advance. Hence the rehabilitation of the <ax id='CAUSALITY'>final causes</ax> set aside by mechanistic science: the realm of <c>efficient causes</c> (bodies) and that of <c>final causes</c> (souls, ends) coincide without mingling. Everything is explained mechanically in the detail of phenomena, yet the ultimate reason for their arrangement is final, inscribed in the divine choice of the best. Finalism thus takes metaphysical precedence without abolishing mechanism."
+        },
+        "references": [
+          {
+            "fr": "Discours de métaphysique, §19-22 (l'utilité des causes finales en physique)",
+            "en": "Discourse on Metaphysics, §19-22 (the usefulness of final causes in physics)"
+          },
+          {
+            "fr": "Monadologie, §79 (les âmes agissent selon les lois des causes finales, les corps selon celles des causes efficientes)",
+            "en": "Monadology, §79 (souls act by the laws of final causes, bodies by those of efficient causes)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.1
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "<dif>Si rien n'arrive sans <c id='principle-of-sufficient-reason'>raison suffisante</c>, comment l'acte peut-il rester libre ?</dif> Leibniz dénoue la <dif>difficulté</dif> en distinguant deux nécessités : est absolument nécessaire ce dont le contraire est contradictoire (les vérités de raison) ; n'est qu'hypothétiquement nécessaire ce qui suppose le libre choix divin du meilleur. L'acte humain relève du second cas : il est certain, parce qu'inscrit dans la <c>notion complète</c> de la personne, mais non nécessaire, car son contraire reste logiquement possible. Les motifs inclinent donc sans contraindre, et c'est précisément ce qui sépare Leibniz du nécessitarisme de <ph id='spinoza'>Spinoza</ph>, où tout découle de Dieu avec une nécessité géométrique. Ce <c id='compatibilism'>compatibilisme</c> raffiné concilie détermination par les raisons et contingence, d'où une valeur à peine du côté du déterminisme.",
+          "en": "<dif>If nothing happens without a <c id='principle-of-sufficient-reason'>sufficient reason</c>, how can the act remain free?</dif> Leibniz unties the <dif>difficulty</dif> by distinguishing two necessities: absolutely necessary is that whose contrary is contradictory (truths of reason); only hypothetically necessary is what presupposes God's free choice of the best. The human act belongs to the second case: it is certain, because inscribed in the person's <c>complete notion</c>, yet not necessary, for its contrary remains logically possible. Motives therefore incline without compelling, and this is precisely what separates Leibniz from the necessitarianism of <ph id='spinoza'>Spinoza</ph>, where everything follows from God with geometrical necessity. This refined <c id='compatibilism'>compatibilism</c> reconciles determination by reasons with contingency, hence a value barely on the determinist side."
+        },
+        "references": [
+          {
+            "fr": "Essais de théodicée, §43-53 et §288 (incliner sans nécessiter)",
+            "en": "Theodicy, §43-53 and §288 (inclining without necessitating)"
+          },
+          {
+            "fr": "Discours de métaphysique, §13 (la notion individuelle enveloppe tout, sans nécessité absolue)",
+            "en": "Discourse on Metaphysics, §13 (the individual notion includes everything, without absolute necessity)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Les raisons inclinent sans nécessiter.",
+            "en": "Reasons incline without necessitating."
+          },
+          "source": {
+            "fr": "Essais de théodicée",
+            "en": "Theodicy"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.8,
+          0.2,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le moi est une <c>monade</c>, substance simple et indivisible dont la <c>notion individuelle</c> enveloppe une fois pour toutes tout ce qui lui arrivera. L'identité personnelle est ainsi garantie par la permanence de cette substance, un <c>substantialisme</c> marqué. Leibniz accorde toutefois une place à la mémoire et à la continuité de la conscience (l'aperception), ce qui ajoute une nuance de continuité psychologique.",
+          "en": "The self is a <c>monad</c>, a simple, indivisible substance whose <c>individual notion</c> includes once and for all everything that will ever happen to it. Personal identity is thereby secured by the permanence of this substance, a marked <c>substantialism</c>. Leibniz nonetheless grants a role to memory and the continuity of consciousness (apperception), adding a nuance of psychological continuity."
+        },
+        "references": [
+          {
+            "fr": "Monadologie, §1-3 et §14 (la monade, substance simple ; perception et aperception)",
+            "en": "Monadology, §1-3 and §14 (the monad, simple substance; perception and apperception)"
+          },
+          {
+            "fr": "Discours de métaphysique, §8-9 (la notion individuelle de chaque substance)",
+            "en": "Discourse on Metaphysics, §8-9 (the individual notion of each substance)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRUTH_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.4,
+          0.6,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Leibniz distingue les <c>vérités de raison</c>, nécessaires, dont la négation est contradictoire, et les <c>vérités de fait</c>, contingentes, fondées sur le principe de <c>raison suffisante</c>. Dans toute proposition vraie, le prédicat est contenu dans le sujet (praedicatum inest subjecto) : la vérité est une cohérence analytique des notions, garantie par l'entendement divin. La part de correspondance demeure pour les vérités de fait, mais le cœur de la doctrine est la cohérence interne des concepts.",
+          "en": "Leibniz distinguishes <c>truths of reason</c>, necessary, whose negation is contradictory, from <c>truths of fact</c>, contingent, grounded in the principle of <c>sufficient reason</c>. In every true proposition the predicate is contained in the subject (praedicatum inest subjecto): truth is an analytic coherence of notions, secured by the divine understanding. A correspondence share remains for truths of fact, yet the heart of the doctrine is the internal coherence of concepts."
+        },
+        "references": [
+          {
+            "fr": "Monadologie, §31-36 (vérités de raison et vérités de fait)",
+            "en": "Monadology, §31-36 (truths of reason and truths of fact)"
+          },
+          {
+            "fr": "Discours de métaphysique, §8 (le prédicat est dans le sujet)",
+            "en": "Discourse on Metaphysics, §8 (the predicate is in the subject)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Dans toute proposition affirmative véritable, le prédicat est contenu dans le sujet : praedicatum inest subjecto.",
+            "en": "In every true affirmative proposition the predicate is contained in the subject: praedicatum inest subjecto."
+          },
+          "source": {
+            "fr": "Discours de métaphysique, §8 ; Generales inquisitiones",
+            "en": "Discourse on Metaphysics, §8; Generales inquisitiones"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "FAITH_REASON",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          1,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le sous-titre des <w>Essais de théodicée</w> annonce le programme : montrer la <q>conformité de la foi avec la raison</q>. Pour Leibniz, foi et raison ne peuvent jamais se contredire, puisqu'elles ont le même auteur ; la raison peut éclairer les mystères sans les épuiser, et défendre la religion contre ses détracteurs. C'est l'<ax id='FAITH_REASON'>harmonie</ax> au sens propre, contre tout fidéisme comme contre tout conflit.",
+          "en": "The subtitle of the <w>Theodicy</w> announces the program: to show the <q>conformity of faith with reason</q>. For Leibniz faith and reason can never contradict each other, since they share the same author; reason can illuminate the mysteries without exhausting them, and defend religion against its detractors. This is <ax id='FAITH_REASON'>harmony</ax> in the proper sense, against all fideism as against all conflict."
+        },
+        "references": [
+          {
+            "fr": "Essais de théodicée, Discours préliminaire de la conformité de la foi avec la raison",
+            "en": "Theodicy, Preliminary Discourse on the Conformity of Faith with Reason"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Contre l'<c id='immanence'>immanence</c> de <ph id='spinoza'>Spinoza</ph>, qui identifie Dieu et la Nature, Leibniz maintient un Dieu créateur distinct de sa création, ordonnateur transcendant qui a choisi ce monde parmi les possibles et règne sur la <c>Cité de Dieu</c>. Le monde dépend de lui sans se confondre avec lui.",
+          "en": "Against the <c id='immanence'>immanence</c> of <ph id='spinoza'>Spinoza</ph>, who identifies God with Nature, Leibniz upholds a creator God distinct from his creation, a transcendent orderer who chose this world among the possibles and reigns over the <c>City of God</c>. The world depends on him without being identical to him."
+        },
+        "references": [
+          {
+            "fr": "Monadologie, §85-90 (la Cité de Dieu, monarque parfait)",
+            "en": "Monadology, §85-90 (the City of God, perfect monarch)"
+          },
+          {
+            "fr": "Essais de théodicée (réfutation du nécessitarisme spinoziste)",
+            "en": "Theodicy (refutation of Spinozist necessitarianism)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "REDUCTION_EMERGENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.55
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Pour Leibniz, on ne peut expliquer la <c>perception</c> par la mécanique : si l'on entrait dans une machine pensante agrandie comme un moulin, on n'y trouverait que des pièces qui se poussent, jamais de quoi rendre compte d'une perception. La vie de l'âme n'est donc pas réductible aux mouvements des corps ; elle relève d'un ordre propre (les causes finales) accordé au mécanique, ce qui penche du côté émergentiste.",
+          "en": "For Leibniz, <c>perception</c> cannot be explained by mechanics: were one to enter a thinking machine enlarged like a mill, one would find only parts pushing one another, never anything to account for a perception. The life of the soul is thus not reducible to the motions of bodies; it belongs to an order of its own (final causes) harmonized with the mechanical, which leans to the emergentist side."
+        },
+        "references": [
+          {
+            "fr": "Monadologie, §17 (l'argument du moulin)",
+            "en": "Monadology, §17 (the mill argument)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Supposant qu'il y eût une machine dont la structure fît penser... on n'y trouverait que des pièces qui se poussent les unes les autres, et jamais de quoi expliquer une perception.",
+            "en": "Supposing there were a machine whose structure made it think... on visiting it one would find only parts pushing one another, and never anything to explain a perception."
+          },
+          "source": {
+            "fr": "Monadologie, §17",
+            "en": "Monadology, §17"
+          }
+        },
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SCIENCE_PLACE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Mathématicien, physicien et logicien de premier plan, Leibniz tient la science mécaniste pour pleinement valide dans son ordre, celui des <c>causes efficientes</c>. Mais elle ne saurait suffire : la physique requiert un fondement métaphysique (la force, les substances), et l'ordre des fins échappe à la seule explication mécanique. Il refuse donc le scientisme réducteur au profit d'une pluralité de niveaux d'explication accordés entre eux.",
+          "en": "A leading mathematician, physicist and logician, Leibniz holds mechanistic science to be fully valid in its order, that of <c>efficient causes</c>. But it cannot suffice: physics requires a metaphysical foundation (force, substances), and the order of ends escapes mechanical explanation alone. He therefore refuses reductive scientism in favor of a plurality of mutually harmonized levels of explanation."
+        },
+        "references": [
+          {
+            "fr": "Discours de métaphysique, §17-18 (la force, au-delà de l'étendue cartésienne)",
+            "en": "Discourse on Metaphysics, §17-18 (force, beyond Cartesian extension)"
+          },
+          {
+            "fr": "Monadologie, §79 (les deux règnes des causes efficientes et finales)",
+            "en": "Monadology, §79 (the two realms of efficient and final causes)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La <c>notion complète</c> de chaque substance individuelle contient a priori tous ses prédicats passés, présents et futurs : être César, c'est avoir de toute éternité l'essence d'où découle tout ce qu'il fera. L'individu est ainsi entièrement déterminé par son essence intelligible, conçue par Dieu avant la création, ce qui est un <c>essentialisme</c> radical.",
+          "en": "The <c>complete notion</c> of each individual substance contains a priori all its past, present and future predicates: to be Caesar is to possess from all eternity the essence from which everything he will do follows. The individual is thus wholly determined by his intelligible essence, conceived by God before creation, a radical <c>essentialism</c>."
+        },
+        "references": [
+          {
+            "fr": "Discours de métaphysique, §8-13 (la notion complète, le cas de César)",
+            "en": "Discourse on Metaphysics, §8-13 (the complete notion, the case of Caesar)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Dans les <w>Essais de théodicée</w>, le mal et la souffrance ne sont pas des scandales gratuits : Dieu les permet parce qu'ils sont des conditions nécessaires d'un bien plus grand dans l'économie du meilleur des mondes. La souffrance s'insère ainsi dans une finalité d'ensemble qui la rachète, position nettement fécondante plutôt qu'abolitionniste.",
+          "en": "In the <w>Theodicy</w>, evil and suffering are not gratuitous scandals: God permits them because they are necessary conditions of a greater good in the economy of the best of worlds. Suffering thus fits into an overall finality that redeems it, a clearly fecund rather than abolitionist position."
+        },
+        "references": [
+          {
+            "fr": "Essais de théodicée, §10-25 (mal métaphysique, physique, moral)",
+            "en": "Theodicy, §10-25 (metaphysical, physical and moral evil)"
+          },
+          {
+            "fr": "Essais de théodicée, §118-119 (le mal partiel concourt au bien du tout)",
+            "en": "Theodicy, §118-119 (partial evil contributes to the good of the whole)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.15,
+          0.55,
+          0.3
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le bonheur consiste dans un progrès continuel vers de nouveaux plaisirs et de nouvelles perfections : la félicité n'est pas un état mais un chemin (<c id='eudaimonism'>eudémonisme</c>) où l'esprit s'accroît en connaissance et en puissance (perfectionnisme). Le plaisir y est intégré, mais comme sentiment d'une perfection, non comme fin sensible, d'où un poids hédoniste mineur.",
+          "en": "Happiness consists in a continual progress toward new pleasures and new perfections: felicity is not a state but a path (<c id='eudaimonism'>eudaimonism</c>) along which the mind grows in knowledge and power (perfectionism). Pleasure is integrated, but as the feeling of a perfection, not as a sensory end, hence a minor hedonist weight."
+        },
+        "references": [
+          {
+            "fr": "Principes de la nature et de la grâce, §18 (le bonheur, progrès perpétuel vers de nouveaux plaisirs)",
+            "en": "Principles of Nature and Grace, §18 (happiness as perpetual progress toward new pleasures)"
+          },
+          {
+            "fr": "Nouveaux essais, II, 21 (la félicité, route plutôt que demeure)",
+            "en": "New Essays, II, 21 (felicity as a road rather than a dwelling)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Tout l'édifice leibnizien fait de la raison le principe de la connaissance vraie et de la conduite : les <c>petites perceptions</c> confuses et les passions doivent être éclairées par l'entendement, et l'amour même se définit comme le plaisir pris à la perfection d'autrui, jugement plutôt que pur sentiment. La pente est intellectualiste, le sentiment restant subordonné à la clarté des idées.",
+          "en": "The whole Leibnizian edifice makes reason the principle of true knowledge and conduct: confused <c>petites perceptions</c> and the passions must be clarified by the understanding, and even love is defined as the pleasure taken in another's perfection, a judgment rather than pure feeling. The leaning is intellectualist, sentiment remaining subordinate to the clarity of ideas."
+        },
+        "references": [
+          {
+            "fr": "Nouveaux essais, préface et II, 1 (les petites perceptions)",
+            "en": "New Essays, preface and II, 1 (the petites perceptions)"
+          },
+          {
+            "fr": "Codex juris gentium, préface (l'amour, plaisir pris à la perfection d'autrui)",
+            "en": "Codex juris gentium, preface (love as pleasure taken in another's perfection)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MACHINE_MIND",
+      "status": "NOT_APPLICABLE",
+      "note": {
+        "fr": "Le débat contemporain sur l'intelligence artificielle et la possibilité d'un esprit computationnel est anachronique. L'argument du moulin (Monadologie, §17) montre toutefois que Leibniz jugeait la perception inexplicable par la seule mécanique, intuition souvent rapprochée des critiques modernes du fonctionnalisme.",
+        "en": "The contemporary debate on artificial intelligence and the possibility of a computational mind is anachronistic. The mill argument (Monadology, §17) nonetheless shows that Leibniz held perception to be inexplicable by mechanics alone, an intuition often linked to modern critiques of functionalism."
+      }
+    },
+    {
+      "axisId": "HUMAN_ENHANCEMENT",
+      "status": "NOT_APPLICABLE",
+      "note": {
+        "fr": "Le débat transhumanisme / bioconservatisme sur la modification technique de la nature humaine est anachronique pour un penseur du XVIIe-XVIIIe siècle.",
+        "en": "The transhumanism / bioconservatism debate on the technical alteration of human nature is anachronistic for a seventeenth-to-eighteenth-century thinker."
+      }
+    },
+    {
+      "axisId": "PROBLEM_OF_EVIL",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.9,
+          0.1,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le mal n'est pas une réalité positive que Dieu aurait produite, mais une privation, une limitation inhérente à toute créature finie (mal métaphysique), dont découlent la souffrance (mal physique) et la faute (mal moral). Dieu ne veut pas le mal, il le permet seulement lorsqu'il est la condition d'un bien plus grand dans l'économie du tout. C'est la <c>théodicée</c>, mot que Leibniz forge pour <q>justifier Dieu</q> face à l'<arg>argument du mal</arg> : il transforme l'objection en montrant qu'un monde sans aucun mal serait moins parfait que le nôtre, et donc indigne d'un créateur sage. La position est résolument <c>justificatrice</c> plutôt que tragique ou révoltée.",
+          "en": "Evil is not a positive reality that God would have produced, but a privation, a limitation inherent in every finite creature (metaphysical evil), from which follow suffering (physical evil) and fault (moral evil). God does not will evil, he only permits it when it is the condition of a greater good in the economy of the whole. This is the <c>theodicy</c>, the word Leibniz coins to <q>justify God</q> against the <arg>argument from evil</arg>: he turns the objection around by showing that a world with no evil at all would be less perfect than ours, and so unworthy of a wise creator. The position is resolutely <c>justificatory</c> rather than tragic or rebellious."
+        },
+        "references": [
+          {
+            "fr": "Essais de théodicée",
+            "en": "Theodicy"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "REALITY_NATURE",
+      "thesis": {
+        "fr": "Les véritables atomes de la nature ne sont pas matériels mais spirituels : le réel est fait de <c>monades</c>, substances simples sans fenêtres dont chacune exprime tout l'univers à sa façon.",
+        "en": "The true atoms of nature are not material but spiritual: the real is made of <c>monads</c>, simple windowless substances, each of which expresses the whole universe in its own way."
+      }
+    },
+    {
+      "axisId": "COSMIC_OUTLOOK",
+      "thesis": {
+        "fr": "Parmi l'infinité des mondes possibles, Dieu, sage et bon, a nécessairement choisi le meilleur : nous vivons dans <q>le meilleur des mondes possibles</q>.",
+        "en": "Among the infinity of possible worlds, God, wise and good, necessarily chose the best: we live in <q>the best of all possible worlds</q>."
+      }
+    },
+    {
+      "axisId": "CAUSALITY",
+      "thesis": {
+        "fr": "Nulle substance n'agit sur une autre : l'âme et le corps s'accordent par une <c>harmonie préétablie</c> réglée d'avance par Dieu, comme deux horloges parfaitement synchrones.",
+        "en": "No substance acts on another: soul and body agree through a <c>pre-established harmony</c> set up in advance by God, like two perfectly synchronized clocks."
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "thesis": {
+        "fr": "Rien n'est sans <c id='principle-of-sufficient-reason'>raison suffisante</c> : tout vrai pouvant en droit se démontrer, on pourrait un jour trancher les querelles en calculant comme deux comptables.",
+        "en": "Nothing is without a <c id='principle-of-sufficient-reason'>sufficient reason</c>: since every truth can in principle be demonstrated, one could one day settle disputes by reckoning, as two accountants do."
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "thesis": {
+        "fr": "L'acte libre n'échappe pas à la raison qui le détermine, mais cette raison incline sans nécessiter : son contraire reste possible, donc je reste libre.",
+        "en": "The free act does not escape the reason that determines it, but that reason inclines without necessitating: its contrary remains possible, so I remain free."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

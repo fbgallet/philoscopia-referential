@@ -1,0 +1,16 @@
+{
+  "id": "empiricism-to-russell",
+  "from": { "kind": "MOVEMENT", "slug": "empiricism" },
+  "to": { "kind": "PHILOSOPHER", "slug": "russell" },
+  "directness": "ATTESTED",
+  "mode": "SYNTHESIZES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='russell'>Russell</ph> se veut l'héritier de l'<mv id='empiricism'>empirisme</mv> britannique, qu'il refonde en le fusionnant avec la nouvelle logique mathématique : les données des sens plus l'analyse logique, au lieu de l'association des idées.",
+    "en": "<ph id='russell'>Russell</ph> claims the mantle of British <mv id='empiricism'>empiricism</mv>, which he refounds by fusing it with the new mathematical logic: sense-data plus logical analysis, in place of the association of ideas."
+  },
+  "sources": [
+    { "fr": "Russell, Notre connaissance du monde extérieur", "en": "Russell, Our Knowledge of the External World" }
+  ],
+  "updatedAt": "2026-07-02T00:00:00.000Z"
+}

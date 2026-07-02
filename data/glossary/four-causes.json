@@ -1,0 +1,13 @@
+{
+  "id": "four-causes",
+  "term": { "fr": "Les quatre causes", "en": "The four causes" },
+  "definition": {
+    "fr": "Pour <ph id='aristotle'>Aristote</ph>, expliquer complètement une chose revient à répondre à quatre questions, ses quatre causes : la cause matérielle (ce dont elle est faite, le bronze d'une statue), la cause formelle (sa structure ou sa définition), la cause efficiente (ce qui la produit, le sculpteur) et la cause finale (le but en vue duquel elle existe). La cause finale est décisive : la nature ne fait rien en vain, et chaque être tend vers la fin qui lui est propre. Cette explication par les fins fonde le <kw>finalisme</kw> aristotélicien et s'articule à l'<c id='hylomorphism'>hylémorphisme</c>.",
+    "en": "For <ph id='aristotle'>Aristotle</ph>, to explain a thing fully is to answer four questions, its four causes: the material cause (what it is made of, the bronze of a statue), the formal cause (its structure or definition), the efficient cause (what produces it, the sculptor), and the final cause (the end for the sake of which it exists). The final cause is decisive: nature does nothing in vain, and each being tends toward the end proper to it. This explanation by ends grounds Aristotelian <kw>finalism</kw> and connects with <c id='hylomorphism'>hylomorphism</c>."
+  },
+  "relatedAxes": ["CAUSALITY"],
+  "relatedTerms": ["hylomorphism", "unmoved-mover"],
+  "figure": { "slug": "aristotle", "name": { "fr": "Aristote", "en": "Aristotle" } },
+  "positions": [{ "axisId": "CAUSALITY", "poleId": "FINALISM" }],
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

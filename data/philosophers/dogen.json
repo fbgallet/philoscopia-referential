@@ -1,0 +1,26 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "dogen",
+  "stub": true,
+  "name": {
+    "fr": "Dōgen",
+    "en": "Dōgen"
+  },
+  "summary": {
+    "fr": "Maître zen japonais, fondateur de l'école Sōtō, qui fit de la méditation assise (zazen) le cœur de la voie <mv id='buddhism'>bouddhiste</mv>.",
+    "en": "Japanese Zen master, founder of the Sōtō school, who made seated meditation (zazen) the heart of the <mv id='buddhism'>Buddhist</mv> path."
+  },
+  "birth": 1200,
+  "death": 1253,
+  "nationality": {
+    "fr": "Japonais",
+    "en": "Japanese"
+  },
+  "movements": [
+    "buddhism"
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

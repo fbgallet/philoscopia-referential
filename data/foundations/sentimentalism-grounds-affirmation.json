@@ -1,0 +1,12 @@
+{
+  "id": "sentimentalism-grounds-affirmation",
+  "ground": { "axisId": "EMOTIONS", "poleId": "SENTIMENTALISM" },
+  "grounded": { "axisId": "DESIRE", "poleId": "AFFIRMATION" },
+  "kind": "T_V",
+  "strength": "WEAK",
+  "explanation": {
+    "fr": "Si nos affects ne sont pas des obstacles à la raison mais une façon de sentir ce qui compte, le désir cesse d'être une pulsion à redresser : il révèle ce qui nous porte. Tenir les émotions pour une source de valeur plutôt que pour un trouble incline à affirmer ses désirs plutôt qu'à les mater, du romantisme à une lecture sensible de <ph id='nietzsche'>Nietzsche</ph>.",
+    "en": "If our affects are not obstacles to reason but a way of sensing what matters, desire ceases to be an impulse to correct: it reveals what carries us. To hold emotions to be a source of value rather than a disturbance inclines one to affirm one's desires rather than master them, from Romanticism to a sensitive reading of <ph id='nietzsche'>Nietzsche</ph>."
+  },
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

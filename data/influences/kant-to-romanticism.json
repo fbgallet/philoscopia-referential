@@ -1,0 +1,17 @@
+{
+  "id": "kant-to-romanticism",
+  "from": { "kind": "PHILOSOPHER", "slug": "kant" },
+  "to": { "kind": "MOVEMENT", "slug": "romanticism" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "La troisième Critique de <ph id='kant'>Kant</ph> arme le romantisme : sa théorie du <c id='genie'>génie</c>, à qui « la nature donne ses règles à l'art », son analyse du <c id='sublime'>sublime</c> et son imagination productrice deviennent le socle de l'esthétique romantique. Le romantisme prolonge aussi l'élan de l'idéalisme post-kantien, tout en franchissant la limite que Kant imposait à la raison : il prétend rejoindre par l'art et l'intuition cet absolu que Kant déclarait inconnaissable.",
+    "en": "<ph id='kant'>Kant</ph>'s third Critique arms Romanticism: his theory of <c id='genie'>genius</c>, to whom « nature gives the rule to art », his analysis of the <c id='sublime'>sublime</c> and his productive imagination become the bedrock of Romantic aesthetics. Romanticism also extends the momentum of post-Kantian idealism, while overstepping the limit Kant set to reason: it claims to reach, through art and intuition, the very absolute Kant declared unknowable."
+  },
+  "sources": [
+    { "fr": "Kant, Critique de la faculté de juger (1790)", "en": "Kant, Critique of the Power of Judgment (1790)" },
+    { "fr": "Isaiah Berlin, Les Racines du romantisme", "en": "Isaiah Berlin, The Roots of Romanticism" }
+  ],
+  "updatedAt": "2026-06-26T00:00:00.000Z"
+}

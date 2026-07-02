@@ -1,0 +1,16 @@
+{
+  "id": "buddhism-to-schopenhauer",
+  "from": { "kind": "MOVEMENT", "slug": "buddhism" },
+  "to": { "kind": "PHILOSOPHER", "slug": "schopenhauer" },
+  "directness": "INDIRECT",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='schopenhauer'>Schopenhauer</ph> trouve dans le <mv id='buddhism'>bouddhisme</mv> une confirmation orientale de sa pensée : la centralité de la <c>souffrance</c>, le détachement et la négation du vouloir-vivre comme voie de délivrance.",
+    "en": "<ph id='schopenhauer'>Schopenhauer</ph> finds in <mv id='buddhism'>Buddhism</mv> an Eastern confirmation of his thought: the centrality of <c>suffering</c>, detachment, and the denial of the will to live as a path of deliverance."
+  },
+  "sources": [
+    { "fr": "Schopenhauer, Parerga et Paralipomena", "en": "Schopenhauer, Parerga and Paralipomena" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

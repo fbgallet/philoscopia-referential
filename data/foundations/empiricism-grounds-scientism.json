@@ -1,0 +1,12 @@
+{
+  "id": "empiricism-grounds-scientism",
+  "ground": { "axisId": "KNOWLEDGE_SOURCE", "poleId": "EMPIRICISM" },
+  "grounded": { "axisId": "SCIENCE_PLACE", "poleId": "SCIENTISM" },
+  "kind": "T_T",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si seule l'expérience contrôlée donne un savoir véritable, alors la science devient la seule voie d'accès légitime à la connaissance, et les explications religieuses ou métaphysiques ne sont que des étapes dépassées. L'empirisme nourrit le scientisme : <ph id='comte'>Comte</ph> fait de l'état positif le terme de l'évolution de l'esprit humain.",
+    "en": "If only controlled experience yields genuine knowledge, then science becomes the only legitimate path to knowledge, and religious or metaphysical explanations are merely superseded stages. Empiricism feeds scientism: <ph id='comte'>Comte</ph> makes the positive state the culmination of the human mind's evolution."
+  },
+  "updatedAt": "2026-06-22T00:00:00.000Z"
+}

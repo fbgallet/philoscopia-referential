@@ -1,0 +1,12 @@
+{
+  "id": "the-sage",
+  "term": { "fr": "Le sage (sophos)", "en": "The sage (sophos)" },
+  "definition": {
+    "fr": "Le sage est, chez les stoïciens, la figure idéale de la sagesse et de la vertu parfaites : ses jugements sont toujours droits, et il est libéré des passions, ayant atteint l'<c id='apatheia'>apatheia</c>. Il accueille tout ce qui arrive comme conforme à la raison du monde et ne place son bien que dans ce qui dépend de lui. C'est un idéal régulateur, presque inaccessible, qui sert de norme à laquelle chacun mesure sa propre progression.",
+    "en": "For the Stoics, the sage is the ideal figure of perfect wisdom and virtue: his judgments are always right, and he is freed from the passions, having attained <c id='apatheia'>apatheia</c>. He welcomes everything that happens as in keeping with the reason of the world and locates his good only in what is up to him. He is a regulative ideal, almost out of reach, serving as the standard against which each person measures his own progress."
+  },
+  "relatedAxes": ["SOVEREIGN_GOOD", "EMOTIONS", "CONTROL_SCOPE"],
+  "relatedTerms": ["apatheia"],
+  "positions": [{ "axisId": "EMOTIONS", "poleId": "INTELLECTUALISM" }],
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

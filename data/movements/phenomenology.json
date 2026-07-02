@@ -1,0 +1,295 @@
+{
+  "kind": "MOVEMENT",
+  "id": "phenomenology",
+  "name": {
+    "fr": "Phénoménologie",
+    "en": "Phenomenology"
+  },
+  "tagline": {
+    "fr": "Revenir « aux choses mêmes » : décrire l'<c>expérience vécue</c> telle qu'elle se donne à la conscience.",
+    "en": "Returning \"to the things themselves\": describing <c>lived experience</c> as it gives itself to consciousness."
+  },
+  "summary": {
+    "fr": "Inaugurée par <ph>Edmund Husserl</ph> au tournant du XXe siècle, la phénoménologie naît d'un combat précis : contre le <c>psychologisme</c>, qui réduisait les lois logiques à de simples faits de notre esprit, et contre le <c>naturalisme</c>, qui traite la conscience comme un objet du monde parmi d'autres. Husserl forge une <kw>méthode</kw> de description rigoureuse, prolongée puis infléchie par ses héritiers, dont la divergence fait l'histoire de l'école : <ph>Heidegger</ph>, son assistant, la convertit en analytique de l'existence ( <w>Être et Temps</w>, 1927) ; <ph>Merleau-Ponty</ph> la déplace vers la perception et le corps ( <w>Phénoménologie de la perception</w>, 1945) ; <ph id='sartre'>Sartre</ph> en tire une ontologie de la liberté. De cette filiation sort l'<mv id='existentialism'>existentialisme</mv>, et son influence irrigue ensuite une grande part de la pensée française, de l'herméneutique à la déconstruction. Ce que l'école partage tient moins à une doctrine qu'à une exigence : revenir « aux choses mêmes » telles qu'elles se donnent.",
+    "en": "Inaugurated by <ph>Edmund Husserl</ph> at the turn of the twentieth century, phenomenology was born of a precise battle: against <c>psychologism</c>, which reduced the laws of logic to mere facts of our mind, and against <c>naturalism</c>, which treats consciousness as one object in the world among others. Husserl forged a <kw>method</kw> of rigorous description, extended and then bent by his heirs, whose divergence is the school's very history: <ph>Heidegger</ph>, his assistant, turned it into an analytic of existence ( <w>Being and Time</w>, 1927); <ph>Merleau-Ponty</ph> shifted it toward perception and the body ( <w>Phenomenology of Perception</w>, 1945); <ph id='sartre'>Sartre</ph> drew from it an ontology of freedom. Out of this lineage came <mv id='existentialism'>existentialism</mv>, and its influence later ran through much of French thought, from hermeneutics to deconstruction. What the school shares lies less in a doctrine than in a demand: to return \"to the things themselves\" as they give themselves."
+  },
+  "period": {
+    "from": 1900
+  },
+  "keyFigures": [
+    {
+      "slug": "husserl",
+      "name": { "fr": "Husserl", "en": "Husserl" }
+    },
+    {
+      "slug": "heidegger",
+      "name": { "fr": "Heidegger", "en": "Heidegger" }
+    },
+    {
+      "slug": "merleau-ponty",
+      "name": { "fr": "Merleau-Ponty", "en": "Merleau-Ponty" }
+    },
+    {
+      "slug": "sartre",
+      "name": { "fr": "Sartre", "en": "Sartre" }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0.8,
+          0.1,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La phénoménologie tient le sens pour <c>constitué</c>, non trouvé tout fait dans les choses : par l'intentionnalité, la conscience donne signification au monde, et le <c>Dasein</c> heideggérien est l'étant pour qui son propre être fait question. Le sens de l'existence n'est ni inscrit dans un ordre cosmique ni purement absurde : il se gagne dans la manière dont chacun assume et déploie son rapport au monde.",
+          "en": "Phenomenology holds meaning to be <c>constituted</c>, not found ready-made in things: through intentionality, consciousness gives significance to the world, and Heidegger's <c>Dasein</c> is the being for whom its own being is in question. The meaning of existence is neither inscribed in a cosmic order nor purely absurd: it is won in the way each takes up and unfolds its relation to the world."
+        },
+        "references": [
+          {
+            "fr": "Husserl, La crise des sciences européennes",
+            "en": "Husserl, The Crisis of the European Sciences"
+          },
+          {
+            "fr": "Heidegger, Être et Temps",
+            "en": "Heidegger, Being and Time"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0.85,
+          0.05,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Avec Heidegger, la phénoménologie fait de la mort une structure de l'existence : le <c>Dasein</c> est <c>être-pour-la-mort</c>, et c'est en anticipant résolument sa fin la plus propre, indépassable et non partageable, qu'il s'arrache au bavardage du « on » et se ressaisit authentiquement. La mort n'est pas un événement lointain mais ce qui, dès maintenant, individualise et donne son poids à l'exister.",
+          "en": "With Heidegger, phenomenology makes death a structure of existence: <c>Dasein</c> is <c>being-toward-death</c>, and it is by resolutely anticipating its ownmost, insuperable and non-shareable end that it tears itself from the idle talk of the \"they\" and authentically takes hold of itself. Death is not a distant event but what, here and now, individualizes existence and gives it its weight."
+        },
+        "references": [
+          {
+            "fr": "Heidegger, Être et Temps, §§ 46-53",
+            "en": "Heidegger, Being and Time, §§ 46-53"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Contre le <kw>naturalisme</kw> qui range la conscience parmi les processus déterminés, la phénoménologie restitue un sujet libre, activité intentionnelle qui donne sens au monde et ne s'y réduit pas. Husserl oppose l'esprit à la causalité de la nature ; ses héritiers, Sartre et Merleau-Ponty, radicalisent ce motif en une liberté incarnée et située. Le courant penche donc nettement du côté de la liberté, contre le déterminisme psychophysique.",
+          "en": "Against the <kw>naturalism</kw> that ranks consciousness among determined processes, phenomenology restores a free subject, an intentional activity that gives meaning to the world and is not reduced to it. Husserl sets the mind against the causality of nature; his heirs, Sartre and Merleau-Ponty, radicalize this motif into an embodied, situated freedom. The movement therefore leans clearly toward freedom, against psychophysical determinism."
+        },
+        "references": [
+          {
+            "fr": "Husserl, La crise des sciences européennes",
+            "en": "Husserl, The Crisis of the European Sciences"
+          },
+          {
+            "fr": "Merleau-Ponty, Phénoménologie de la perception",
+            "en": "Merleau-Ponty, Phenomenology of Perception"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La phénoménologie refuse l'alternative empirisme/rationalisme : contre le sensualisme qui réduit l'esprit à des impressions, et contre le rationalisme déductif, elle revient à l'intuition de ce qui se donne. L'<c id='epoche'>épochè</c> dégage les structures essentielles de l'expérience, saisies dans une <kw>intuition des essences</kw> (Wesensschau) à la fois a priori et fondée sur le vécu. D'où une position de troisième voie, proche du criticisme.",
+          "en": "Phenomenology refuses the empiricism / rationalism alternative: against the sensualism that reduces the mind to impressions, and against deductive rationalism, it returns to the intuition of what gives itself. The <c id='epoche'>epoché</c> brings out the essential structures of experience, grasped in an <kw>intuition of essences</kw> (Wesensschau) that is both a priori and grounded in lived experience. Hence a third-way position, close to criticism."
+        },
+        "references": [
+          {
+            "fr": "Husserl, Idées directrices pour une phénoménologie, I",
+            "en": "Husserl, Ideas Pertaining to a Pure Phenomenology, I"
+          },
+          {
+            "fr": "Husserl, Recherches logiques",
+            "en": "Husserl, Logical Investigations"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La phénoménologie husserlienne se veut <kw>science rigoureuse</kw>, capable de fonder le savoir contre le <kw>psychologisme</kw> et le <c>relativisme</c> sceptique. Son geste est l'<c id='epoche'>épochè</c> : suspendre la thèse naïve du monde pour revenir aux choses mêmes, telles qu'elles se donnent à la conscience. Là se trouvent des données <kw>apodictiques</kw>, indubitables parce que saisies sans intermédiaire dans l'évidence intuitive, socle d'une connaissance certaine. Cette quête d'un fondement absolu rapproche Husserl d'un <c>fondationnalisme</c> d'inspiration cartésienne, même si ses héritiers, Heidegger et Merleau-Ponty, abandonneront cet idéal d'apodicticité.",
+          "en": "Husserlian phenomenology means to be a <kw>rigorous science</kw>, able to ground knowledge against <kw>psychologism</kw> and skeptical <c>relativism</c>. Its gesture is the <c id='epoche'>epoché</c>: suspending the naive thesis of the world in order to return to the things themselves, as they give themselves to consciousness. There lie <kw>apodictic</kw> data, indubitable because grasped without intermediary in intuitive self-evidence, the bedrock of a certain knowledge. This quest for an absolute foundation brings Husserl close to a Cartesian-inspired <c>foundationalism</c>, even if his heirs, Heidegger and Merleau-Ponty, will abandon that ideal of apodicticity."
+        },
+        "references": [
+          {
+            "fr": "Husserl, La philosophie comme science rigoureuse",
+            "en": "Husserl, Philosophy as Rigorous Science"
+          },
+          {
+            "fr": "Husserl, Méditations cartésiennes",
+            "en": "Husserl, Cartesian Meditations"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.85 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "<stk>Toute explication causale présuppose déjà un monde qui apparaît à quelqu'un</stk> : la science elle-même opère sur des phénomènes donnés à une conscience qu'elle oublie. De ce constat les phénoménologues tirent un ordre de priorité : il faut d'abord décrire fidèlement comment les choses se donnent au vécu, avant d'en chercher la cause. La méthode, contre le sens commun, requiert l'<c id='epoche'>épochè</c>, mise entre parenthèses de nos thèses spontanées sur l'existence des objets, pour ne retenir que leur mode d'apparaître. C'est pourquoi Heidegger interroge l'être à partir de l'étant que nous sommes, et Merleau-Ponty fait de la perception vécue, non du fait physiologique, le premier sol de la philosophie.",
+          "en": "<stk>Every causal explanation already presupposes a world that appears to someone</stk>: science itself operates on phenomena given to a consciousness it forgets. From this observation the phenomenologists draw an order of priority: one must first describe faithfully how things give themselves to lived experience, before seeking their cause. The method, against common sense, requires the <c id='epoche'>epoché</c>, the bracketing of our spontaneous theses about the existence of objects, so as to retain only their mode of appearing. This is why Heidegger questions being from the entity that we are, and Merleau-Ponty makes lived perception, not the physiological fact, the first ground of philosophy."
+        },
+        "references": [
+          { "fr": "Husserl, Idées directrices pour une phénoménologie (1913)", "en": "Husserl, Ideas Pertaining to a Pure Phenomenology (1913)" },
+          { "fr": "Husserl, Méditations cartésiennes (1931)", "en": "Husserl, Cartesian Meditations (1931)" },
+          { "fr": "Merleau-Ponty, Phénoménologie de la perception (1945), avant-propos", "en": "Merleau-Ponty, Phenomenology of Perception (1945), preface" }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "Nous voulons revenir aux choses mêmes.",
+            "en": "We want to go back to the things themselves."
+          },
+          "source": {
+            "fr": "Husserl, Recherches logiques, II",
+            "en": "Husserl, Logical Investigations, II"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_STATUS",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.45 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le point d'appui est l'<c>intentionnalité</c> reprise de <ph>Brentano</ph> : toute conscience est conscience de quelque chose, jamais un contenu clos sur lui-même. Il s'ensuit qu'on ne peut séparer l'objet de l'acte qui le vise : le sens et l'objectivité ne sont pas des faits bruts déposés dans la nature, ils se <stk>constituent</stk> dans ce rapport. La cible est le <c>naturalisme</c> objectiviste, qui prend le monde pour un en-soi indépendant de toute conscience et oublie qu'il l'a lui-même posé. Husserl montre ainsi que les idéalités scientifiques s'enracinent dans le <c>monde de la vie</c> (Lebenswelt), oublié comme leur sol ; Merleau-Ponty rappelle que la science est une expression seconde du monde perçu. La position penche vers le constructivisme, sans verser dans le relativisme.",
+          "en": "The fulcrum is <c>intentionality</c>, taken over from <ph>Brentano</ph>: all consciousness is consciousness of something, never a content sealed upon itself. It follows that the object cannot be severed from the act that aims at it: meaning and objectivity are not brute facts deposited in nature but are <stk>constituted</stk> in that relation. The target is objectivist <c>naturalism</c>, which takes the world for an in-itself independent of all consciousness and forgets that it has itself posited it. Husserl thus shows that scientific idealities are rooted in the <c>lifeworld</c> (Lebenswelt), forgotten as their ground; Merleau-Ponty recalls that science is a second-order expression of the perceived world. The stance leans toward constructivism, without sliding into relativism."
+        },
+        "references": [
+          { "fr": "Husserl, La crise des sciences européennes et la phénoménologie transcendantale (1936)", "en": "Husserl, The Crisis of European Sciences and Transcendental Phenomenology (1936)" },
+          { "fr": "Merleau-Ponty, Phénoménologie de la perception (1945), avant-propos", "en": "Merleau-Ponty, Phenomenology of Perception (1945), preface" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.4 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Contre la réduction des affects à de simples états subjectifs irrationnels, la tradition phénoménologique leur reconnaît une portée cognitive : les <c>tonalités affectives</c> ouvrent un accès propre au monde. Heidegger fait de la <c>disposition affective (Stimmung)</c> un mode fondamental par lequel le <c>Dasein</c> se trouve d'emblée ouvert à son monde, l'<c>angoisse</c> révélant son être même ; Sartre analyse l'émotion comme une manière signifiante d'appréhender le monde, non une simple perturbation. L'affect est ainsi tenu pour révélant, sans pour autant ériger le sentiment en fondement de la morale.",
+          "en": "Against reducing affects to merely subjective, irrational states, the phenomenological tradition grants them a cognitive reach: <c>moods</c> open a distinctive access to the world. Heidegger makes <c>attunement (Stimmung)</c> a fundamental mode through which <c>Dasein</c> finds itself always already disclosed to its world, <c>anxiety</c> revealing its very being; Sartre analyzes emotion as a meaningful way of apprehending the world, not a mere disturbance. Affect is thus held to be disclosive, without thereby making feeling the foundation of morality."
+        },
+        "references": [
+          { "fr": "Heidegger, Être et Temps (1927), §29-30", "en": "Heidegger, Being and Time (1927), §29-30" },
+          { "fr": "Sartre, Esquisse d'une théorie des émotions (1939)", "en": "Sartre, Sketch for a Theory of the Emotions (1939)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "EMBODIMENT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La description de la perception révèle ce que le dualisme cartésien masque : je n'éprouve jamais mon corps comme un objet étendu posé devant une conscience, mais comme le <c>corps propre</c> à partir duquel un monde s'ordonne, avec un haut et un bas, un proche et un lointain. Mon corps n'est pas dans l'espace, il est mon ancrage dans l'espace : la perspective, la latéralité, le toucher prouvent que tout point de vue sur le monde est d'abord une position corporelle. <stk>D'où la réfutation du sujet désincarné</stk> de <ph id='descartes'>Descartes</ph> : il n'y a pas une pensée qui posséderait un corps comme un instrument, mais un <c>sujet incarné</c> pour qui percevoir et habiter le monde ne font qu'un.",
+          "en": "The description of perception reveals what Cartesian dualism conceals: I never experience my body as an extended object set before a consciousness, but as the <c>lived body</c> from which a world is ordered, with an up and a down, a near and a far. My body is not in space, it is my anchorage in space: perspective, sidedness and touch prove that every point of view on the world is first a bodily position. <stk>Hence the refutation of <ph id='descartes'>Descartes</ph>'s disembodied subject</stk>: there is no thought that would own a body as an instrument, but an <c>embodied subject</c> for whom perceiving and inhabiting the world are one and the same."
+        },
+        "references": [
+          {
+            "fr": "Merleau-Ponty, Phénoménologie de la perception ; Husserl, Idées II",
+            "en": "Merleau-Ponty, Phenomenology of Perception; Husserl, Ideas II"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "INTERIORITY",
+      "thesis": {
+        "fr": "La philosophie doit d'abord décrire fidèlement l'expérience telle qu'elle se donne en première personne, et non l'expliquer du dehors comme un fait parmi les faits.",
+        "en": "Philosophy must first describe faithfully experience as it gives itself in the first person, rather than explain it from outside as one fact among facts."
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_STATUS",
+      "thesis": {
+        "fr": "Toute conscience est conscience de quelque chose : le sens du monde ne gît pas tout fait dans la nature, il se constitue dans le rapport intentionnel du sujet à ce qui lui apparaît.",
+        "en": "All consciousness is consciousness of something: the meaning of the world does not lie ready-made in nature, it is constituted in the subject's intentional relation to what appears to it."
+      }
+    },
+    {
+      "axisId": "EMBODIMENT",
+      "thesis": {
+        "fr": "Je ne possède pas un corps comme un objet, je suis un corps vivant : c'est par lui, et non par-dessus lui, que le monde m'apparaît.",
+        "en": "I do not own a body like an object, I am a living body: it is through it, not above it, that the world appears to me."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

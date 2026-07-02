@@ -1,0 +1,16 @@
+{
+  "id": "aristotelianism-vs-bacon",
+  "from": { "kind": "MOVEMENT", "slug": "aristotelianism" },
+  "to": { "kind": "PHILOSOPHER", "slug": "bacon" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='bacon'>Bacon</ph> construit sa réforme de la méthode contre l'<mv id='aristotelianism'>aristotélisme</mv> scolastique, jugé stérile : à la <c>logique</c> syllogistique il oppose un <q>Novum Organum</q>, l'induction fondée sur l'expérience et l'observation.",
+    "en": "<ph id='bacon'>Bacon</ph> builds his reform of method against scholastic <mv id='aristotelianism'>Aristotelianism</mv>, judged barren: to syllogistic <c>logic</c> he opposes a <q>Novum Organum</q>, induction grounded in experience and observation."
+  },
+  "sources": [
+    { "fr": "Bacon, Novum Organum (1620)", "en": "Bacon, Novum Organum (1620)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

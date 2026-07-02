@@ -1,0 +1,12 @@
+{
+  "id": "anicca",
+  "term": { "fr": "Anicca (impermanence)", "en": "Anicca (impermanence)" },
+  "definition": {
+    "fr": "Anicca est la marque d'impermanence : toutes les choses conditionnées naissent, changent et se défont sans cesse, rien de durable ne se laisse saisir dans le flux. C'est le constat dont découlent le <c id='anatta'>non-soi</c> et la <c id='dukkha'>souffrance</c>, car vouloir retenir ce qui passe engendre la déception. Pour <ph id='buddha'>le Bouddha</ph>, contempler l'impermanence, y compris celle de notre propre mort, apaise l'attachement plutôt qu'il ne l'angoisse.",
+    "en": "Anicca is the mark of impermanence: all conditioned things arise, change and dissolve ceaselessly, and nothing lasting can be seized within the flux. It is the observation from which <c id='anatta'>non-self</c> and <c id='dukkha'>suffering</c> follow, for wanting to hold on to what passes breeds disappointment. For <ph id='buddha'>the Buddha</ph>, contemplating impermanence, including that of our own death, calms attachment rather than feeding dread."
+  },
+  "relatedAxes": ["SELF_NATURE", "DEATH"],
+  "relatedTerms": ["anatta", "dukkha"],
+  "figure": { "slug": "buddha", "name": { "fr": "Le Bouddha", "en": "The Buddha" } },
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

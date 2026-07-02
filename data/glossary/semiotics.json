@@ -1,0 +1,12 @@
+{
+  "id": "semiotics",
+  "term": { "fr": "Sémiotique (le signe)", "en": "Semiotics (the sign)" },
+  "definition": {
+    "fr": "Théorie générale des signes élaborée par <ph id='peirce'>Peirce</ph> : tout signe est une relation à trois termes, le <kw>representamen</kw> qui tient lieu de quelque chose, l'objet qu'il représente, et l'interprétant, l'effet de sens qu'il produit dans un esprit. Loin de se limiter au langage, la sémiotique couvre tout ce qui fait signe, et Peirce y inclut la pensée elle-même : penser, c'est manier des signes renvoyant à d'autres signes, au point que « l'homme est un signe ». Le sens ne réside donc jamais dans un objet isolé mais dans ce procès triadique d'interprétation.",
+    "en": "The general theory of signs developed by <ph id='peirce'>Peirce</ph>: every sign is a three-term relation, the <kw>representamen</kw> that stands for something, the object it represents, and the interpretant, the effect of meaning it produces in a mind. Far from being confined to language, semiotics covers everything that signifies, and Peirce includes thought itself: to think is to handle signs referring to other signs, to the point that « man is a sign ». Meaning thus never resides in an isolated object but in this triadic process of interpretation."
+  },
+  "relatedAxes": ["SELF_NATURE", "MEANING"],
+  "relatedTerms": ["pragmatic-maxim", "synechism"],
+  "figure": { "slug": "peirce", "name": { "fr": "Peirce", "en": "Peirce" } },
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "KNOWLEDGE_STATUS",
+  "relation": "TRUTH",
+  "territory": "KNOWLEDGE",
+  "label": {
+    "fr": "Statut du savoir",
+    "en": "Status of knowledge"
+  },
+  "question": {
+    "fr": "La science décrit-elle le monde tel qu'il est, ou construit-elle ses propres objets ?",
+    "en": "Does science describe the world as it is, or does it construct its own objects?"
+  },
+  "stakes": {
+    "fr": "Les théories scientifiques dévoilent-elles le réel tel qu'il est, ou sont-elles des constructions utiles, marquées par nos concepts et notre histoire ? Si elles disent le vrai, la science tranche au-dessus des opinions ; si elles construisent, son autorité n'est qu'un point de vue parmi d'autres. Se positionner, c'est dire ce qu'on peut vraiment attendre du savoir scientifique.",
+    "en": "Do scientific theories unveil the real as it is, or are they useful constructions, marked by our concepts and our history? If they state the truth, science settles matters above mere opinion; if they construct, its authority is only one point of view among others. To take a position is to say what we can truly expect of scientific knowledge."
+  },
+  "layer": "THEORY",
+  "type": "BIPOLAR",
+  "poles": [
+    {
+      "id": "SCIENTIFIC_REALISM",
+      "label": {
+        "fr": "Réalisme scientifique",
+        "en": "Scientific realism"
+      },
+      "description": {
+        "fr": "Les théories scientifiques qui réussissent décrivent, au moins approximativement, une réalité qui existe indépendamment de nous. Le progrès des sciences nous rapproche de la vérité sur la structure du monde.",
+        "en": "Successful scientific theories describe, at least approximately, a reality that exists independently of us. Scientific progress brings us closer to the truth about the structure of the world."
+      },
+      "figures": [
+        {
+          "slug": "popper",
+          "name": {
+            "fr": "Popper",
+            "en": "Popper"
+          }
+        },
+        {
+          "slug": "putnam",
+          "name": {
+            "fr": "Putnam",
+            "en": "Putnam"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CONSTRUCTIVISM",
+      "label": {
+        "fr": "Constructivisme",
+        "en": "Constructivism"
+      },
+      "description": {
+        "fr": "Le savoir est une construction historique et sociale : les paradigmes, les institutions et les rapports de pouvoir façonnent ce qui compte comme vrai à une époque donnée. La science ne reflète pas le monde, elle l'organise selon ses propres cadres.",
+        "en": "Knowledge is a historical and social construction: paradigms, institutions, and power relations shape what counts as true in a given era. Science does not mirror the world; it organizes it through its own frameworks."
+      },
+      "figures": [
+        {
+          "slug": "kuhn",
+          "name": {
+            "fr": "Kuhn",
+            "en": "Kuhn"
+          }
+        },
+        {
+          "slug": "foucault",
+          "name": {
+            "fr": "Foucault",
+            "en": "Foucault"
+          }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 3,
+  "clusters": [],
+  "relatedAxes": [
+    "MEANING",
+    "EPISTEMIC_JUSTIFICATION",
+    "SCIENTIFIC_METHOD",
+    "SCIENCE_PLACE",
+    "TRUTH_NATURE"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "simone-weil",
+  "stub": true,
+  "name": {
+    "fr": "Simone Weil",
+    "en": "Simone Weil"
+  },
+  "summary": {
+    "fr": "Philosophe et mystique française, à la croisée de l'engagement ouvrier, de l'exigence morale et d'une spiritualité de l'attention. Elle fait de l'attention pure, entendue comme une disponibilité qui suspend le moi, la racine commune de la connaissance, de la justice et de l'amour du prochain, et même une forme de prière.",
+    "en": "French philosopher and mystic, at the crossroads of labour activism, moral rigour, and a spirituality of attention. She makes pure attention, understood as an availability that suspends the self, the common root of knowledge, justice, and love of neighbour, and even a form of prayer."
+  },
+  "birth": 1909,
+  "death": 1943,
+  "nationality": {
+    "fr": "Française",
+    "en": "French"
+  },
+  "movements": [],
+  "updatedAt": "2026-07-02T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

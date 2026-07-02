@@ -1,0 +1,560 @@
+{
+  "kind": "MOVEMENT",
+  "id": "romanticism",
+  "name": {
+    "fr": "Le romantisme",
+    "en": "Romanticism"
+  },
+  "tagline": {
+    "fr": "Contre la raison froide des Lumières, les droits du sentiment, de l'imagination et du génie, et le mystère d'une nature vivante.",
+    "en": "Against the cold reason of the Enlightenment, the claims of feeling, imagination and genius, and the mystery of a living nature."
+  },
+  "summary": {
+    "fr": "Mouvement artistique, littéraire et philosophique né en Allemagne et en Angleterre au tournant du XIXe siècle, le romantisme est la grande réaction contre les <mv id='enlightenment'>Lumières</mv>. À la raison universelle, au mécanisme et au culte du progrès, il oppose les droits du sentiment, de l'<c id='imagination-creatrice'>imagination</c> et du <c id='genie'>génie</c>, le mystère d'une nature vivante et le <c id='volksgeist'>génie singulier de chaque peuple</c> comme de chaque individu. Annoncé par la sensibilité de <ph id='rousseau'>Rousseau</ph> et par le Sturm und Drang, porté par <ph id='herder'>Herder</ph>, <ph id='schelling'>Schelling</ph>, <ph id='novalis'>Novalis</ph> et <ph id='schiller'>Schiller</ph> en Allemagne, <ph id='coleridge'>Coleridge</ph> et <ph>Wordsworth</ph> en Angleterre, il refuse de réduire le réel à ce que la raison calcule. Forme culturelle des « anti-Lumières », il a nourri aussi bien les nationalismes que les avant-gardes, et reste la source de notre idée moderne de l'art comme création et expression.",
+    "en": "An artistic, literary and philosophical movement born in Germany and England at the turn of the nineteenth century, Romanticism is the great reaction against the <mv id='enlightenment'>Enlightenment</mv>. To universal reason, mechanism and the cult of progress it opposes the claims of feeling, <c id='imagination-creatrice'>imagination</c> and <c id='genie'>genius</c>, the mystery of a living nature, and the <c id='volksgeist'>singular genius of each people</c> and each individual. Heralded by the sensibility of <ph id='rousseau'>Rousseau</ph> and by the Sturm und Drang, carried by <ph id='herder'>Herder</ph>, <ph id='schelling'>Schelling</ph>, <ph id='novalis'>Novalis</ph> and <ph id='schiller'>Schiller</ph> in Germany, <ph id='coleridge'>Coleridge</ph> and <ph>Wordsworth</ph> in England, it refuses to reduce reality to what reason can calculate. The cultural form of the « Counter-Enlightenment », it fed nationalisms as much as avant-gardes, and remains the source of our modern idea of art as creation and expression."
+  },
+  "period": {
+    "from": 1795,
+    "to": 1850
+  },
+  "keyFigures": [
+    { "slug": "herder", "name": { "fr": "Herder", "en": "Herder" } },
+    { "slug": "schelling", "name": { "fr": "Schelling", "en": "Schelling" } },
+    { "slug": "novalis", "name": { "fr": "Novalis", "en": "Novalis" } },
+    { "slug": "schiller", "name": { "fr": "Schiller", "en": "Schiller" } },
+    { "slug": "coleridge", "name": { "fr": "Coleridge", "en": "Coleridge" } }
+  ],
+  "entries": [
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.05,
+          0.1,
+          0.55,
+          0.3
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le romantisme oppose à la règle kantienne et au calcul utilitaire une morale du cœur : la valeur naît du <c>sentiment</c>, de la sympathie et de la beauté de l'âme, non d'un principe abstrait. Être bon, c'est être vrai à soi-même et accordé aux autres par l'empathie, une éthique de la vertu sensible et du soin où l'authenticité du sentiment fait foi.",
+          "en": "Romanticism opposes to the Kantian rule and the utilitarian calculus a morality of the heart: value is born of <c>feeling</c>, of sympathy and of the beauty of the soul, not of an abstract principle. To be good is to be true to oneself and attuned to others through empathy, an ethics of sensible virtue and of care where the authenticity of feeling is what counts."
+        },
+        "references": [
+          {
+            "fr": "Rousseau, Émile (la conscience)",
+            "en": "Rousseau, Emile (conscience)"
+          },
+          {
+            "fr": "Schiller, Lettres sur l'éducation esthétique",
+            "en": "Schiller, On the Aesthetic Education of Man"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le romantisme ne nie pas le divin, il le déplace : contre le Dieu lointain et le mécanisme des Lumières, il le retrouve immanent dans la nature vivante, l'infini et le sentiment. De la renaissance de Spinoza à la <c>Naturphilosophie</c> de Schelling et à la nature divinisée de Wordsworth, le sacré imprègne le monde plus qu'il ne le surplombe : un panthéisme diffus plus qu'un théisme orthodoxe ou un athéisme.",
+          "en": "Romanticism does not deny the divine, it displaces it: against the remote God and the mechanism of the Enlightenment, it finds it immanent in living nature, in the infinite and in feeling. From the revival of Spinoza to Schelling's <c>Naturphilosophie</c> and Wordsworth's divinized nature, the sacred pervades the world more than it overhangs it: a diffuse pantheism rather than an orthodox theism or an atheism."
+        },
+        "references": [
+          {
+            "fr": "Schelling, Idées pour une philosophie de la nature",
+            "en": "Schelling, Ideas for a Philosophy of Nature"
+          },
+          {
+            "fr": "Wordsworth, Le Prélude",
+            "en": "Wordsworth, The Prelude"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.8 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Au primat des Lumières pour la raison froide, le romantisme oppose la vérité du sentiment : c'est par le cœur, l'enthousiasme et la passion, non par le calcul, que l'homme accède au plus profond de lui-même et du monde. <ph id='rousseau'>Rousseau</ph> en avait donné le mot d'ordre en réhabilitant la sensibilité contre les raisonneurs ; le Sturm und Drang puis les romantiques en font le ressort de l'art et de la connaissance. L'émotion n'est plus une faiblesse à maîtriser mais une faculté qui révèle.",
+          "en": "To the Enlightenment's primacy of cold reason, Romanticism opposes the truth of feeling: it is through the heart, enthusiasm and passion, not through calculation, that one reaches the deepest in oneself and in the world. <ph id='rousseau'>Rousseau</ph> had given the watchword by rehabilitating sensibility against the reasoners; the Sturm und Drang and then the Romantics make it the mainspring of art and of knowledge. Emotion is no longer a weakness to be mastered but a faculty that reveals."
+        },
+        "references": [
+          { "fr": "Rousseau, La Nouvelle Héloïse", "en": "Rousseau, Julie, or the New Heloise" },
+          { "fr": "Schiller, Lettres sur l'éducation esthétique de l'homme", "en": "Schiller, Letters on the Aesthetic Education of Man" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ART_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.85 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'art cesse d'imiter la nature pour la créer : l'œuvre jaillit du <c id='genie'>génie</c>, cette puissance originale qui ne reçoit pas ses règles du dehors mais se les donne. Contre la <c id='mimesis'>mimésis</c> classique et les canons hérités de l'âge des Lumières, le romantisme fait de l'<c id='imagination-creatrice'>imagination</c> une faculté créatrice, et de l'artiste une sorte de second créateur. L'originalité devient la valeur suprême, et l'œuvre, l'expression d'une intériorité unique.",
+          "en": "Art ceases to imitate nature in order to create it: the work springs from <c id='genie'>genius</c>, that original power which does not receive its rules from without but gives them to itself. Against classical <c id='mimesis'>mimēsis</c> and the canons inherited from the age of Enlightenment, Romanticism makes <c id='imagination-creatrice'>imagination</c> a creative faculty and the artist a kind of second creator. Originality becomes the supreme value, and the work the expression of a unique inwardness."
+        },
+        "references": [
+          { "fr": "Coleridge, Biographia Literaria", "en": "Coleridge, Biographia Literaria" },
+          { "fr": "Novalis, Fragments", "en": "Novalis, Fragments" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CAUSALITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.1, 0.2, 0.7] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "À l'univers-machine des Lumières, le romantisme oppose une nature vivante : un organisme animé, traversé de forces et d'une âme, non un système de rouages sans intériorité. La <c id='naturphilosophie'>Naturphilosophie</c> de <ph id='schelling'>Schelling</ph> pense la nature comme un sujet en devenir, où l'esprit s'éveille peu à peu à lui-même. Le mécanisme est récusé non par retour au finalisme théologique, mais au nom d'une vie qui précède et déborde ses parties.",
+          "en": "To the Enlightenment's universe-machine, Romanticism opposes a living nature: an animate organism, shot through with forces and a soul, not a system of gears without inwardness. <ph id='schelling'>Schelling</ph>'s <c id='naturphilosophie'>Naturphilosophie</c> thinks nature as a subject in becoming, in which spirit gradually awakens to itself. Mechanism is rejected not by a return to theological finalism, but in the name of a life that precedes and overflows its parts."
+        },
+        "references": [
+          { "fr": "Schelling, Idées pour une philosophie de la nature", "en": "Schelling, Ideas for a Philosophy of Nature" },
+          { "fr": "Goethe, La Métamorphose des plantes", "en": "Goethe, The Metamorphosis of Plants" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.15, 0.6, 0.25] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Contre l'universalisme abstrait des Lumières, qui mesure tous les peuples à une même raison, <ph id='herder'>Herder</ph> affirme que chaque culture porte en elle son <c id='volksgeist'>génie propre</c>, ses valeurs et son sens, incommensurables. Il n'y a pas un modèle unique de civilisation mais une diversité de formes de vie, chacune légitime en son temps et son lieu. Ce relativisme historique et culturel mine l'idée d'un progrès linéaire vers une norme universelle.",
+          "en": "Against the Enlightenment's abstract universalism, which measures all peoples by one and the same reason, <ph id='herder'>Herder</ph> holds that each culture bears within it its own <c id='volksgeist'>genius</c>, its values and its meaning, incommensurable with the others. There is no single model of civilization but a diversity of forms of life, each legitimate in its time and place. This historical and cultural relativism undermines the idea of a linear progress toward a universal norm."
+        },
+        "references": [
+          { "fr": "Herder, Une autre philosophie de l'histoire", "en": "Herder, This Too a Philosophy of History" },
+          { "fr": "Herder, Idées sur la philosophie de l'histoire de l'humanité", "en": "Herder, Ideas on the Philosophy of the History of Humanity" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "AESTHETIC_LIFE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.6 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le romantisme fait de l'art et du beau le lieu le plus haut de l'existence, parfois au-dessus de la morale et de l'utilité que privilégiaient les Lumières. Vivre poétiquement, faire de sa vie une œuvre, toucher à l'absolu par la beauté : l'esthétique devient une manière d'être, voire une voie de salut, et non un simple ornement.",
+          "en": "Romanticism makes art and beauty the highest place of existence, at times above the morality and utility the Enlightenment prized. To live poetically, to make one's life a work, to touch the absolute through beauty: the aesthetic becomes a way of being, even a path of salvation, and not a mere ornament."
+        },
+        "references": [
+          { "fr": "Schiller, Lettres sur l'éducation esthétique de l'homme", "en": "Schiller, Letters on the Aesthetic Education of Man" },
+          { "fr": "Novalis, Hymnes à la nuit", "en": "Novalis, Hymns to the Night" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SOCIAL_CONTRACT",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.5 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La nation n'est pas un agrégat d'individus liés par un contrat, mais une communauté organique, tissée d'une langue, d'une histoire et de traditions partagées. Contre la fiction contractualiste des Lumières, le romantisme retrouve, parfois aux côtés de <ph id='burke'>Burke</ph>, l'idée d'un peuple comme totalité vivante, antérieure à ses membres et qu'on n'institue pas à volonté.",
+          "en": "The nation is not an aggregate of individuals bound by a contract, but an organic community, woven of a shared language, history and traditions. Against the Enlightenment's contractualist fiction, Romanticism recovers, at times alongside <ph id='burke'>Burke</ph>, the idea of a people as a living whole, prior to its members and not instituted at will."
+        },
+        "references": [
+          { "fr": "Herder, Traité sur l'origine de la langue", "en": "Herder, Treatise on the Origin of Language" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TECHNOLOGY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.7 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Au moment où la machine et l'usine arrachent l'homme à la terre et au métier, le romantisme est le premier à nommer la perte : la puissance industrielle se paie d'un <kw>désenchantement</kw> du monde, où la nature vivante devient matière inerte et l'homme un rouage. <ph id='schiller'>Schiller</ph> pleure déjà une nature « dédivinisée » par le calcul, <ph>Blake</ph> maudit les « sombres usines sataniques ». Cette protestation inaugure la grande lignée de la critique de la technique, jusqu'à <ph id='heidegger'>Heidegger</ph> et Ellul.",
+          "en": "Just as the machine and the factory tear human beings from the land and from craft, Romanticism is the first to name the loss: industrial power is bought at the price of a <kw>disenchantment</kw> of the world, in which living nature becomes inert matter and the human a cog. <ph id='schiller'>Schiller</ph> already mourns a nature « un-godded » by calculation, <ph>Blake</ph> curses the « dark Satanic mills ». This protest opens the great lineage of the critique of technology, down to <ph id='heidegger'>Heidegger</ph> and Ellul."
+        },
+        "references": [
+          { "fr": "Schiller, Les Dieux de la Grèce", "en": "Schiller, The Gods of Greece" },
+          { "fr": "Blake, Milton (préface)", "en": "Blake, Milton (preface)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HUMAN_PLACE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.05, 0.3, 0.65] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'homme n'est pas le maître et possesseur d'une nature-objet, mais une voix dans le grand tout vivant : il s'y enracine et y communie, et c'est dans le sentiment de cette appartenance, non dans la domination, qu'il se découvre. Contre le projet baconien et cartésien de soumettre la nature, le promeneur romantique y cherche un miroir de l'âme et la présence de l'infini ; <ph id='schelling'>Schelling</ph> y voit un même esprit qui dort dans la pierre et s'éveille en nous.",
+          "en": "The human being is not the master and possessor of a nature-object, but one voice within the great living whole: rooted in it and communing with it, it is through the feeling of this belonging, not through domination, that one comes to oneself. Against the Baconian and Cartesian project of subjecting nature, the Romantic wanderer seeks in it a mirror of the soul and the presence of the infinite; <ph id='schelling'>Schelling</ph> finds there one and the same spirit that sleeps in the stone and awakens in us."
+        },
+        "references": [
+          { "fr": "Wordsworth, Tintern Abbey", "en": "Wordsworth, Tintern Abbey" },
+          { "fr": "Schelling, Idées pour une philosophie de la nature", "en": "Schelling, Ideas for a Philosophy of Nature" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ART_PURPOSE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.1, 0.6, 0.3] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si l'art crée au lieu d'imiter, c'est qu'il atteint ce que ni le concept ni la science ne peuvent dire : l'absolu, l'infini, l'unité perdue de l'esprit et de la nature. L'œuvre n'est ni ornement ni divertissement mais organe de vérité, la plus haute, là où la philosophie discursive échoue. <ph id='schelling'>Schelling</ph> couronne l'art comme l'achèvement du système, <ph id='novalis'>Novalis</ph> veut « romantiser » le monde pour lui rendre son mystère.",
+          "en": "If art creates rather than imitates, it is because it reaches what neither concept nor science can utter: the absolute, the infinite, the lost unity of spirit and nature. The work is neither ornament nor diversion but an organ of truth, the highest one, there where discursive philosophy fails. <ph id='schelling'>Schelling</ph> crowns art as the completion of the system; <ph id='novalis'>Novalis</ph> seeks to « romanticize » the world so as to give it back its mystery."
+        },
+        "references": [
+          { "fr": "Schelling, Système de l'idéalisme transcendantal", "en": "Schelling, System of Transcendental Idealism" },
+          { "fr": "Novalis, Pollen", "en": "Novalis, Pollen" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "BELONGING",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.6 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "On n'est pas homme en général mais d'abord d'une langue, d'un sol et d'un peuple, et c'est cet enracinement, non l'abstraction cosmopolite des <mv id='enlightenment'>Lumières</mv>, qui donne à une vie sa profondeur. <ph id='herder'>Herder</ph> réveille le génie propre de chaque nation dans ses chants, ses contes et sa langue ; de là naîtra, pour le meilleur et pour le pire, l'idée moderne de nation comme communauté de destin.",
+          "en": "One is not a human being in general but first of a language, a soil and a people, and it is this rootedness, not the cosmopolitan abstraction of the <mv id='enlightenment'>Enlightenment</mv>, that gives a life its depth. <ph id='herder'>Herder</ph> awakens the proper genius of each nation in its songs, its tales and its language; from this will be born, for better and for worse, the modern idea of the nation as a community of destiny."
+        },
+        "references": [
+          { "fr": "Herder, Voix des peuples dans leurs chants", "en": "Herder, Voices of the Peoples in their Songs" },
+          { "fr": "Herder, Idées sur la philosophie de l'histoire de l'humanité", "en": "Herder, Ideas on the Philosophy of the History of Humanity" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.7 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le réel le plus haut ne s'atteint pas au-dehors, dans l'action ou le fait, mais au-dedans : rêve, souvenir, nuit, profondeurs obscures du moi deviennent la vraie patrie. Le chemin du romantique vers l'infini passe par la descente en soi plutôt que par la prise sur le monde.",
+          "en": "The highest reality is not reached without, in action or fact, but within: dream, memory, night, the dark depths of the self become the true homeland. The Romantic's path toward the infinite runs through the descent into oneself rather than through a grip on the world."
+        },
+        "quote": {
+          "text": {
+            "fr": "Le chemin mystérieux va vers l'intérieur. C'est en nous, ou nulle part, qu'est l'éternité avec ses mondes, le passé et l'avenir.",
+            "en": "The mysterious path leads inward. In us, or nowhere, is eternity with its worlds, the past and the future."
+          },
+          "source": { "fr": "Novalis, Pollen", "en": "Novalis, Pollen" }
+        },
+        "references": [
+          { "fr": "Novalis, Pollen", "en": "Novalis, Pollen" },
+          { "fr": "Rousseau, Les Rêveries du promeneur solitaire", "en": "Rousseau, Reveries of the Solitary Walker" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.7, 0.2, 0.1] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Loin de tempérer ou d'éteindre le désir comme le voulaient stoïciens et épicuriens, le romantisme l'exalte comme la vie même de l'âme : c'est l'aspiration infinie, la <c id='sehnsucht'>Sehnsucht</c>, ce désir sans objet assignable qui porte vers le lointain, l'absent, l'inaccessible. L'insatisfaction n'est pas un mal à guérir mais le signe de notre vocation à l'infini.",
+          "en": "Far from tempering or extinguishing desire, as Stoics and Epicureans wished, Romanticism exalts it as the very life of the soul: it is infinite aspiration, <c id='sehnsucht'>Sehnsucht</c>, that desire with no assignable object which carries one toward the distant, the absent, the unreachable. Dissatisfaction is not an ill to be cured but the sign of our vocation to the infinite."
+        },
+        "references": [
+          { "fr": "Novalis, Henri d'Ofterdingen", "en": "Novalis, Henry of Ofterdingen" },
+          { "fr": "Schiller, Nostalgie (Sehnsucht)", "en": "Schiller, Longing (Sehnsucht)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.6 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La douleur n'est pas un accident à supprimer mais une épreuve qui approfondit et révèle : c'est dans la mélancolie, le deuil et le mal du siècle que l'âme romantique touche à sa vérité et que naît l'œuvre. Le héros souffrant, de Werther à René, fait de sa blessure le signe d'une sensibilité supérieure et de la nuit le lieu d'une révélation.",
+          "en": "Suffering is not an accident to be removed but a trial that deepens and reveals: it is in melancholy, mourning and the « mal du siècle » that the Romantic soul touches its truth and the work is born. The suffering hero, from Werther to René, makes his wound the sign of a higher sensibility and the night the place of a revelation."
+        },
+        "references": [
+          { "fr": "Goethe, Les Souffrances du jeune Werther", "en": "Goethe, The Sorrows of Young Werther" },
+          { "fr": "Chateaubriand, René", "en": "Chateaubriand, René" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "REDUCTION_EMERGENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.7 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le tout précède et déborde ses parties : un organisme, un poème, un peuple ne sont pas la somme d'éléments juxtaposés mais une unité vivante dont chaque membre tient son sens. Contre l'analyse qui décompose et le <c>mécanisme</c> qui réduit, le romantisme pense par totalités organiques, où le supérieur ne s'explique jamais par l'inférieur.",
+          "en": "The whole precedes and overflows its parts: an organism, a poem, a people are not the sum of juxtaposed elements but a living unity from which each member draws its meaning. Against the analysis that decomposes and the <c>mechanism</c> that reduces, Romanticism thinks in organic totalities, where the higher is never explained by the lower."
+        },
+        "references": [
+          { "fr": "Schelling, Idées pour une philosophie de la nature", "en": "Schelling, Ideas for a Philosophy of Nature" },
+          { "fr": "Coleridge, Biographia Literaria", "en": "Coleridge, Biographia Literaria" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "BEAUTY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.5 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le beau n'obéit plus à des proportions objectives ni aux canons hérités de l'Antiquité : il naît de l'expression d'une intériorité et se mesure à l'émotion qu'il suscite. Surtout, le romantisme déplace le centre de l'esthétique vers le <c id='sublime'>sublime</c>, cette grandeur de l'illimité, de l'informe et de l'effrayant, qui excède la mesure et ouvre sur l'infini.",
+          "en": "Beauty no longer obeys objective proportions or the canons inherited from Antiquity: it is born of the expression of an inwardness and is measured by the emotion it arouses. Above all, Romanticism shifts the centre of aesthetics toward the <c id='sublime'>sublime</c>, that grandeur of the boundless, the formless and the fearful, which exceeds all measure and opens onto the infinite."
+        },
+        "references": [
+          { "fr": "Burke, Recherche philosophique sur l'origine de nos idées du sublime et du beau", "en": "Burke, A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful" },
+          { "fr": "Schiller, Du sublime", "en": "Schiller, On the Sublime" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HUMAN_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.5 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Ce qui fait l'homme n'est pas une nature universelle et fixe mais sa langue, ses traditions, l'esprit du peuple qui l'a formé : <ph id='herder'>Herder</ph> montre que penser, sentir et juger sont d'abord des manières héritées. L'humanité n'existe qu'au pluriel de ses cultures, et l'on ne comprend un homme qu'en remontant au génie de son temps et de son lieu.",
+          "en": "What makes a human being is not a universal, fixed nature but their language, their traditions, the spirit of the people that formed them: <ph id='herder'>Herder</ph> shows that to think, feel and judge are first of all inherited ways. Humanity exists only in the plural of its cultures, and one understands a person only by going back to the genius of their time and place."
+        },
+        "references": [
+          { "fr": "Herder, Traité sur l'origine de la langue", "en": "Herder, Treatise on the Origin of Language" },
+          { "fr": "Herder, Idées sur la philosophie de l'histoire de l'humanité", "en": "Herder, Ideas on the Philosophy of the History of Humanity" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SCIENCE_PLACE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.6 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La science n'a pas le monopole du vrai : à tout ramener à la mesure et au calcul, elle manque le vivant, le singulier et le sens, que la poésie, le mythe et l'intuition saisissent mieux qu'elle. Le romantisme conteste la prétention des <mv id='enlightenment'>Lumières</mv> à ériger le savoir scientifique en modèle de toute connaissance, et réhabilite des voies d'accès au réel que la raison calculante avait disqualifiées.",
+          "en": "Science has no monopoly on the true: by reducing everything to measure and calculation, it misses the living, the singular and the meaningful, which poetry, myth and intuition grasp better than it does. Romanticism contests the <mv id='enlightenment'>Enlightenment</mv>'s claim to set scientific knowledge as the model of all knowing, and rehabilitates ways of reaching the real that calculating reason had disqualified."
+        },
+        "references": [
+          { "fr": "Novalis, Les Disciples à Saïs", "en": "Novalis, The Novices of Sais" },
+          { "fr": "Schelling, Idées pour une philosophie de la nature", "en": "Schelling, Ideas for a Philosophy of Nature" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.3 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le sacré n'est pas dans un arrière-monde séparé mais répandu dans la nature et au fond de l'âme : tout est vivant, tout est divin, et c'est l'infini qui transparaît dans le fini. Cette re-divinisation panthéiste, héritée de <ph id='spinoza'>Spinoza</ph>, voisine pourtant avec une <c id='sehnsucht'>Sehnsucht</c> de l'au-delà, une nostalgie d'un absolu jamais rejoint, qui tire le romantisme vers la transcendance autant qu'elle l'en éloigne.",
+          "en": "The sacred lies not in a separate world beyond but is spread through nature and in the depths of the soul: all is alive, all is divine, and it is the infinite that shines through the finite. This pantheist re-divinization, inherited from <ph id='spinoza'>Spinoza</ph>, nonetheless borders on a <c id='sehnsucht'>Sehnsucht</c> for the beyond, a longing for an absolute never reached, which draws Romanticism toward transcendence as much as it pulls it away."
+        },
+        "references": [
+          { "fr": "Novalis, Hymnes à la nuit", "en": "Novalis, Hymns to the Night" },
+          { "fr": "Schleiermacher, Discours sur la religion", "en": "Schleiermacher, On Religion: Speeches" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HUMAN_VISION",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.5 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Héritier de <ph id='rousseau'>Rousseau</ph>, le romantisme tient l'homme pour naturellement bon et la spontanéité du cœur pour plus sûre que les artifices de la civilisation : l'enfant, le peuple et le poète sont plus près de la vérité que l'homme policé. Cette confiance se double pourtant d'une fascination pour les abîmes de l'âme, le démoniaque et le mal, qui en tempère l'optimisme.",
+          "en": "Heir to <ph id='rousseau'>Rousseau</ph>, Romanticism holds the human being to be naturally good and the spontaneity of the heart surer than the artifices of civilization: the child, the common people and the poet are nearer the truth than polished man. Yet this confidence is doubled by a fascination with the abysses of the soul, the demonic and evil, which tempers its optimism."
+        },
+        "references": [
+          { "fr": "Rousseau, Émile, ou De l'éducation", "en": "Rousseau, Emile, or On Education" },
+          { "fr": "Schiller, Poésie naïve et sentimentale", "en": "Schiller, On Naive and Sentimental Poetry" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.15, 0.65, 0.2] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Pour le romantisme philosophique allemand, l'esprit est premier et la nature en est la manifestation visible : loin d'être une matière morte, le monde est l'œuvre et le miroir d'une activité spirituelle qui se cherche en se déployant. <ph id='schelling'>Schelling</ph> pose l'identité de l'esprit et de la nature dans l'absolu, et <ph id='novalis'>Novalis</ph> fait de l'imagination la puissance qui constitue le réel autant qu'elle le découvre.",
+          "en": "For German philosophical Romanticism, spirit is primary and nature is its visible manifestation: far from being dead matter, the world is the work and the mirror of a spiritual activity that seeks itself in unfolding. <ph id='schelling'>Schelling</ph> posits the identity of spirit and nature in the absolute, and <ph id='novalis'>Novalis</ph> makes imagination the power that constitutes the real as much as it discovers it."
+        },
+        "references": [
+          { "fr": "Schelling, Système de l'idéalisme transcendantal", "en": "Schelling, System of Transcendental Idealism" },
+          { "fr": "Novalis, Fragments", "en": "Novalis, Fragments" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "PARTIALITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.5 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Aimer l'humanité en général est une abstraction froide : c'est au proche, au familier, à ce qui est nôtre, que va d'abord le cœur, et cette partialité du sentiment vaut mieux que l'impartialité calculée des <mv id='enlightenment'>Lumières</mv>. Le romantisme préfère la chaleur des liens particuliers, la patrie, la famille, l'amitié, à la bienveillance universelle et désincarnée du cosmopolite.",
+          "en": "To love humanity in general is a cold abstraction: it is to the near, the familiar, to what is our own that the heart goes first, and this partiality of feeling is worth more than the calculated impartiality of the <mv id='enlightenment'>Enlightenment</mv>. Romanticism prefers the warmth of particular bonds, the homeland, the family, friendship, to the universal and disembodied benevolence of the cosmopolitan."
+        },
+        "references": [
+          { "fr": "Burke, Réflexions sur la Révolution de France", "en": "Burke, Reflections on the Revolution in France" },
+          { "fr": "Herder, Idées sur la philosophie de l'histoire de l'humanité", "en": "Herder, Ideas on the Philosophy of the History of Humanity" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "LOVE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.65, 0.25, 0.1, 0] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'amour romantique est tout entier aspiration et manque : il désire dans l'aimé l'infini lui-même, et c'est de cette distance jamais comblée qu'il tire son intensité. Loin de la possession tranquille, il est élan vers un absolu entrevu, nostalgie d'une union qui se dérobe, et c'est pourquoi il confine si volontiers à la nuit et à l'inaccessible.",
+          "en": "Romantic love is wholly aspiration and lack: in the beloved it desires the infinite itself, and it is from this never-filled distance that it draws its intensity. Far from tranquil possession, it is a surge toward a glimpsed absolute, the longing for a union that slips away, which is why it borders so readily on night and on the unreachable."
+        },
+        "references": [
+          { "fr": "Novalis, Hymnes à la nuit", "en": "Novalis, Hymns to the Night" },
+          { "fr": "Hölderlin, Hypérion", "en": "Hölderlin, Hyperion" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "RULE_SPIRIT",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.5 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Aucune règle abstraite ne peut enfermer la vie : le génie ne reçoit pas sa loi du dehors mais se la donne, et le cas singulier, l'exception, l'élan du cœur valent mieux que la lettre uniforme. Contre le légalisme moral des <mv id='enlightenment'>Lumières</mv> et la froideur de la maxime universelle, le romantisme se fie à l'esprit vivant, à la situation et à l'intuition sensible plutôt qu'au commandement formel.",
+          "en": "No abstract rule can enclose life: genius does not receive its law from without but gives it to itself, and the singular case, the exception, the impulse of the heart are worth more than the uniform letter. Against the moral legalism of the <mv id='enlightenment'>Enlightenment</mv> and the coldness of the universal maxim, Romanticism trusts the living spirit, the situation and sensuous intuition rather than the formal command."
+        },
+        "references": [
+          { "fr": "Schiller, Lettres sur l'éducation esthétique de l'homme", "en": "Schiller, Letters on the Aesthetic Education of Man" },
+          { "fr": "F. Schlegel, Fragments de l'Athenaeum", "en": "F. Schlegel, Athenaeum Fragments" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.6, 0.3, 0.1, 0] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le monde n'est ni un mécanisme indifférent ni un chaos absurde : il est traversé d'un sens, d'un esprit qui s'y déploie et auquel l'homme est appelé à répondre. Le sentiment romantique de l'infini et la nostalgie d'une unité perdue supposent que l'existence a une direction et une profondeur, fût-elle voilée : le sens n'est pas à inventer de toutes pièces mais à pressentir et à retrouver dans la nature, l'art et l'histoire.",
+          "en": "The world is neither an indifferent mechanism nor an absurd chaos: it is shot through with a meaning, a spirit unfolding within it to which the human being is called to respond. The Romantic feeling of the infinite and the longing for a lost unity presuppose that existence has a direction and a depth, however veiled: meaning is not to be invented from nothing but to be sensed and recovered in nature, art and history."
+        },
+        "references": [
+          { "fr": "Novalis, Les Disciples à Saïs", "en": "Novalis, The Novices of Sais" },
+          { "fr": "Schelling, Idées pour une philosophie de la nature", "en": "Schelling, Ideas for a Philosophy of Nature" }
+        ],
+        "strength": "MEDIUM"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "EMOTIONS",
+      "thesis": {
+        "fr": "La vérité de l'homme se dit dans le sentiment, l'enthousiasme et la passion, non dans la raison froide qui prétend les juger.",
+        "en": "The truth of the human being speaks in feeling, enthusiasm and passion, not in the cold reason that claims to judge them."
+      }
+    },
+    {
+      "axisId": "ART_NATURE",
+      "thesis": {
+        "fr": "L'art n'imite pas la nature, il la crée : l'œuvre jaillit du génie, qui ne reçoit pas ses règles du dehors mais se les donne.",
+        "en": "Art does not imitate nature, it creates it: the work springs from genius, which does not receive its rules from without but gives them to itself."
+      }
+    },
+    {
+      "axisId": "CAUSALITY",
+      "thesis": {
+        "fr": "La nature n'est pas une machine mais un organisme vivant, animé d'une âme et de forces que le mécanisme ne saurait épuiser.",
+        "en": "Nature is not a machine but a living organism, animated by a soul and by forces that mechanism could never exhaust."
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "thesis": {
+        "fr": "Il n'y a pas une raison universelle mais le génie propre de chaque peuple : chaque culture porte en elle sa mesure.",
+        "en": "There is no universal reason but the proper genius of each people: each culture carries its own measure within it."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-26T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

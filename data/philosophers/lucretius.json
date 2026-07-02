@@ -1,0 +1,736 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "lucretius",
+  "name": {
+    "fr": "Lucrèce",
+    "en": "Lucretius"
+  },
+  "fullName": {
+    "fr": "Titus Lucretius Carus",
+    "en": "Titus Lucretius Carus"
+  },
+  "tagline": {
+    "fr": "<q>Tant la religion put conseiller de crimes</q> : la connaissance de la nature, et elle seule, délivre de la peur.",
+    "en": "<q>So much wrong could religion prompt</q>: knowledge of nature, and it alone, frees us from fear."
+  },
+  "summary": {
+    "fr": "Poète et philosophe romain du Ier siècle av. J.-C., dont on ne sait presque rien sinon qu'il composa, en pleine crise de la République, le <w id='on-the-nature-of-things-lucretius'>De rerum natura</w>, vaste poème didactique en six livres qui est la plus complète exposition antique de l'épicurisme parvenue jusqu'à nous. Il y transpose en vers latins la physique de <ph id='epicurus'>Épicure</ph>, héritée de l'<c>atomisme</c> de <ph>Démocrite</ph> : il n'y a que des atomes et du <c>vide</c>, la nature ne fut faite ni par les dieux ni pour les hommes, et son but avoué est thérapeutique, délivrer l'humanité de la crainte des dieux et de la mort qui empoisonne la vie. Disciple fervent plus qu'inventeur de doctrine, Lucrèce donne pourtant à l'épicurisme une voix propre : la grandeur sombre du <c id='sublime'>sublime</c> matérialiste, une polémique sans concession contre la <c>religion</c> comme source de maux, et une histoire naturelle de l'humanité au livre V. Presque oublié, son poème est retrouvé en 1417 par <per>Poggio Bracciolini</per> et devient l'une des sources majeures du <c>matérialisme</c> et de la libre pensée modernes, de <ph>Gassendi</ph> à <ph>Montaigne</ph> et aux <c id='lumieres'>Lumières</c>.",
+    "en": "A Roman poet and philosopher of the first century BCE, of whom almost nothing is known except that, amid the crisis of the Republic, he composed the <w id='on-the-nature-of-things-lucretius'>De rerum natura</w>, a vast didactic poem in six books that is the fullest ancient exposition of Epicureanism to have reached us. In it he renders into Latin verse the physics of <ph id='epicurus'>Epicurus</ph>, inherited from the <c>atomism</c> of <ph>Democritus</ph>: there are only atoms and <c>void</c>, nature was made neither by the gods nor for men, and his avowed aim is therapeutic, to free humanity from the fear of the gods and of death that poisons life. A fervent disciple rather than an inventor of doctrine, Lucretius nonetheless gives Epicureanism a voice of its own: the dark grandeur of the materialist <c id='sublime'>sublime</c>, an uncompromising polemic against <c>religion</c> as a source of evils, and a natural history of humankind in book V. Nearly lost, his poem was recovered in 1417 by <per>Poggio Bracciolini</per> and became one of the chief sources of modern <c>materialism</c> and free thought, from <ph>Gassendi</ph> to <ph>Montaigne</ph> and the <c id='lumieres'>Enlightenment</c>."
+  },
+  "birth": -99,
+  "death": -55,
+  "nationality": {
+    "fr": "Romain",
+    "en": "Roman"
+  },
+  "movements": [
+    "epicureanism"
+  ],
+  "entries": [
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [1, 0, 0]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Tout part de deux principes que <ph>Lucrèce</ph> établit avant toute autre chose : rien ne naît du néant, rien n'y retourne. S'il en allait autrement, tout pourrait sortir de tout, sans semence ni saison ; or l'expérience montre des natures fixes et des cycles réglés, donc le réel se réduit à des corps premiers, les <c>atomes</c>, et au <c>vide</c> qui les laisse se mouvoir. Hors de ce couple, rien n'existe par soi : l'âme et l'esprit eux-mêmes sont des agrégats d'atomes très fins, et il n'y a aucune place pour une substance immatérielle. Ce <c>matérialisme</c> intégral, hérité de <ph>Démocrite</ph> et d'<ph id='epicurus'>Épicure</ph>, Lucrèce le déploie en système complet et le donne à voir, du grain de poussière dansant dans un rayon de soleil jusqu'à l'infini des mondes.",
+          "en": "Everything begins from two principles that <ph>Lucretius</ph> establishes before all else: nothing comes from nothing, nothing returns to nothing. Were it otherwise, anything could spring from anything, with no seed and no season; yet experience shows fixed natures and ordered cycles, so the real reduces to first bodies, the <c>atoms</c>, and the <c>void</c> that lets them move. Outside this pair nothing exists in itself: soul and mind themselves are aggregates of very fine atoms, and there is no room for any immaterial substance. This thoroughgoing <c>materialism</c>, inherited from <ph>Democritus</ph> and <ph id='epicurus'>Epicurus</ph>, Lucretius unfolds into a complete system and makes visible, from the speck of dust dancing in a sunbeam to the infinity of worlds."
+        },
+        "references": [
+          {
+            "fr": "De la nature des choses, I, 146-264 (rien ne naît du néant, rien n'y retourne)",
+            "en": "On the Nature of Things, I, 146-264 (nothing from nothing, nothing to nothing)"
+          },
+          {
+            "fr": "De la nature des choses, I, 418-448 (le tout est corps et vide)",
+            "en": "On the Nature of Things, I, 418-448 (the all is body and void)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Rien ne se crée jamais de rien par une volonté divine.",
+            "en": "Nothing is ever created out of nothing by divine power."
+          },
+          "source": {
+            "fr": "De la nature des choses, I, 150",
+            "en": "On the Nature of Things, I, 150"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "REDUCTION_EMERGENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Les qualités sensibles ne sont pas premières : la couleur, la chaleur, la saveur, et jusqu'à la vie et la sensation, naissent de l'arrangement, du mouvement et des chocs d'atomes qui, eux, n'ont ni couleur ni chaleur. Le tout n'ajoute donc rien à ses composants : il n'est que des atomes diversement disposés, et c'est la <c>configuration</c> qui explique la variété du monde. Cette explication ascendante, où le supérieur se ramène intégralement à la rencontre du plus petit, est un <ax id='REDUCTION_EMERGENCE'>réductionnisme</ax> qui prolonge la ligne de <ph>Démocrite</ph>.",
+          "en": "Sensible qualities are not primary: colour, heat, taste, even life and sensation, arise from the arrangement, motion and collisions of atoms that themselves have neither colour nor heat. The whole therefore adds nothing to its parts: it is only atoms variously disposed, and it is their <c>configuration</c> that explains the world's variety. This bottom-up explanation, in which the higher reduces entirely to the meeting of the smallest, is a <ax id='REDUCTION_EMERGENCE'>reductionism</ax> that continues the line of <ph>Democritus</ph>."
+        },
+        "references": [
+          {
+            "fr": "De la nature des choses, II, 730-864 (les atomes sont sans couleur ; la couleur naît de leur arrangement)",
+            "en": "On the Nature of Things, II, 730-864 (atoms are colourless; colour arises from their arrangement)"
+          },
+          {
+            "fr": "De la nature des choses, II, 865-990 (le sensible naît de l'insensible)",
+            "en": "On the Nature of Things, II, 865-990 (the sentient arises from the non-sentient)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CAUSALITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [1, 0, 0]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La nature ne poursuit aucune fin et ne fut réglée par aucun dessein : les choses se font par la seule rencontre mécanique des atomes au long d'un temps infini, où se sont formées toutes les combinaisons possibles et où n'ont subsisté que celles capables de durer. De là un renversement célèbre du finalisme : <q>aucun membre du corps ne fut produit pour notre usage</q>, c'est l'inverse, l'organe existe d'abord et l'usage vient après. Chercher un but à l'œil, à la main ou aux astres est donc une illusion, et <ph>Lucrèce</ph> raille ceux qui croient le monde fait pour les hommes. C'est un <ax id='CAUSALITY'>mécanisme</ax> intégral, où seule la déclinaison du <c id='clinamen'>clinamen</c> introduit du jeu sans réintroduire de fin.",
+          "en": "Nature pursues no end and was ordered by no design: things come to be through the merely mechanical encounter of atoms over infinite time, in which every possible combination has formed and only those able to endure have lasted. Hence a famous reversal of finalism: <q>no bodily member was made for our use</q>; the order is the reverse, the organ exists first and the use comes after. To seek a purpose in the eye, the hand or the stars is therefore an illusion, and <ph>Lucretius</ph> mocks those who believe the world made for men. This is a thoroughgoing <ax id='CAUSALITY'>mechanism</ax>, where only the swerve of the <c id='clinamen'>clinamen</c> introduces play without reintroducing any end."
+        },
+        "references": [
+          {
+            "fr": "De la nature des choses, IV, 823-857 (rien dans le corps ne fut fait pour servir)",
+            "en": "On the Nature of Things, IV, 823-857 (nothing in the body was made in order to serve)"
+          },
+          {
+            "fr": "De la nature des choses, V, 156-234 (le monde n'a pas été fait pour les hommes)",
+            "en": "On the Nature of Things, V, 156-234 (the world was not made for men)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Rien dans le corps ne fut produit afin que nous puissions en user : c'est ce qui est né qui crée l'usage.",
+            "en": "Nothing was born in the body that we might use it: it is the thing born that creates the use."
+          },
+          "source": {
+            "fr": "De la nature des choses, IV, 833-835",
+            "en": "On the Nature of Things, IV, 833-835"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si les atomes ne faisaient que tomber tout droit dans le vide par leur seul poids, ils ne se rencontreraient jamais et la nécessité enchaînerait toute cause à une autre sans fin : ni les chocs créateurs de mondes, ni surtout cette <q>volonté arrachée aux destins</q> que chaque vivant éprouve en s'élançant ne seraient possibles. Lucrèce pose donc le <c id='clinamen'>clinamen</c>, l'écart minime, à un instant et un lieu indéterminés, par lequel un atome dévie de sa chute, brisant la chaîne du <c id='determinism'>déterminisme</c>. C'est le texte qui nous transmet l'argument : ce grain d'<c id='indeterminism'>indétermination</c> à la racine de la matière fonde, contre le destin des physiciens, le <c id='free-will'>libre arbitre</c> dont nous avons l'évidence intérieure.",
+          "en": "If atoms did nothing but fall straight down through the void by their own weight, they would never meet, and necessity would chain every cause to another without end: neither the world-making collisions, nor above all that <q>will wrested from the fates</q> which every living thing feels as it surges forward, would be possible. Lucretius therefore posits the <c id='clinamen'>clinamen</c>, the slight swerve, at an undetermined time and place, by which an atom deviates from its fall, breaking the chain of <c id='determinism'>determinism</c>. His is the text that transmits the argument to us: this grain of <c id='indeterminism'>indeterminacy</c> at the root of matter grounds, against the physicists' fate, the <c id='free-will'>free will</c> of which we have inner evidence."
+        },
+        "references": [
+          {
+            "fr": "De la nature des choses, II, 216-293 (la déclinaison et la volonté arrachée aux destins)",
+            "en": "On the Nature of Things, II, 216-293 (the swerve and the will wrested from the fates)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "D'où vient cette volonté arrachée aux destins, par quoi nous allons où chacun se porte ? La déclinaison rompt les lois du destin.",
+            "en": "Whence comes this will wrested from the fates, by which we move wherever pleasure leads each on? The swerve breaks the decrees of fate."
+          },
+          "source": {
+            "fr": "De la nature des choses, II, 251-260",
+            "en": "On the Nature of Things, II, 251-260"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Lucrèce ne nie pas l'existence des dieux : faits d'atomes subtils, ils mènent une vie immortelle et parfaitement paisible dans les <c id='intermundia'>intermondes</c>, sans nul souci du nôtre. Mais il en tire une conséquence radicale : un être bienheureux n'a ni colère ni faveur, donc nulle <c id='providence'>providence</c> ne gouverne le monde, nul dieu ne le fit ni ne récompense ou châtie. La preuve en est le spectacle même de la nature, trop pleine de défauts pour être l'ouvrage d'une puissance divine. Cette position n'est donc pas un athéisme, dont on l'accusa, mais une théologie sans <c id='providence'>providence</c> : les dieux ne créent ni ne gouvernent rien, et la pointe en est polémique : <q>tant la religion put conseiller de crimes</q>, c'est elle, non l'impiété, qui est le véritable mal à combattre.",
+          "en": "Lucretius does not deny that the gods exist: made of subtle atoms, they lead an immortal and perfectly peaceful life in the <c id='intermundia'>intermundia</c>, with no care for ours. But he draws a radical consequence: a blessed being has neither anger nor favour, so no <c id='providence'>providence</c> governs the world, no god made it or rewards and punishes. The proof lies in the very spectacle of nature, too full of flaws to be the work of a divine power. This position is therefore not atheism, of which he was accused, but a theology without <c id='providence'>providence</c>: the gods neither create nor govern anything, and its edge is polemical: <q>so much wrong could religion prompt</q>, it is religion, not impiety, that is the true evil to be fought."
+        },
+        "references": [
+          {
+            "fr": "De la nature des choses, I, 62-101 (la religion source de crimes, le sacrifice d'Iphigénie)",
+            "en": "On the Nature of Things, I, 62-101 (religion as source of crimes, the sacrifice of Iphigenia)"
+          },
+          {
+            "fr": "De la nature des choses, V, 146-234 (les dieux des intermondes ; le monde trop défectueux pour être divin)",
+            "en": "On the Nature of Things, V, 146-234 (the gods of the intermundia; the world too flawed to be divine)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Tant la religion put conseiller de crimes.",
+            "en": "So much wrong could religion prompt."
+          },
+          "source": {
+            "fr": "De la nature des choses, I, 101",
+            "en": "On the Nature of Things, I, 101"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "PROBLEM_OF_EVIL",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0, 0, 0.15, 0.85]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Lucrèce ne raisonne pas sur un Dieu bon et tout-puissant, mais retourne l'argument du dessein : si le monde avait été fait pour nous par des dieux, il ne serait pas si <q>gravement vicié</q>. Or la plus grande part du globe est dévorée par les montagnes, les forêts et les mers, le climat afflige les hommes, la terre se refuse au labeur, les bêtes féroces et les maladies les frappent, et le nouveau-né est jeté nu, vagissant, sur le rivage de la vie. Tant de défauts prouvent que la nature n'est l'œuvre d'aucune providence : c'est moins une théodicée qu'une <ax id='PROBLEM_OF_EVIL' pole='ARGUMENT_FROM_EVIL'>preuve par le mal</ax> de l'absence de dessein divin.",
+          "en": "Lucretius does not reason about a good and all-powerful God, but turns the argument from design on its head: if the world had been made for us by gods, it would not be so <q>gravely flawed</q>. Yet the greater part of the globe is devoured by mountains, forests and seas, the climate afflicts men, the soil resists their toil, wild beasts and diseases strike them, and the newborn is cast naked and wailing on the shore of life. So many defects prove that nature is the work of no providence: this is less a theodicy than a <ax id='PROBLEM_OF_EVIL' pole='ARGUMENT_FROM_EVIL'>proof from evil</ax> of the absence of divine design."
+        },
+        "references": [
+          {
+            "fr": "De la nature des choses, V, 195-234 (le monde si défectueux ne peut être l'œuvre des dieux)",
+            "en": "On the Nature of Things, V, 195-234 (a world so flawed cannot be the work of the gods)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [1, 0, 0, 0]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Puisque l'âme est corporelle et naît, croît et vieillit avec le corps, elle se dissout avec lui : tout sentir cesse alors, et un sujet qui n'est plus ne peut éprouver aucun mal. <q>La mort n'est donc rien pour nous</q>, conclusion qu'Épicure tenait déjà ; mais Lucrèce y consacre tout le livre III et en fait une longue consolation, multipliant les preuves de la mortalité de l'âme et l'argument de la symétrie : nous ne nous affligeons pas du néant d'avant notre naissance, pourquoi craindre celui d'après notre mort, qui lui ressemble en tout ? Vouloir survivre est se contredire, car le mort n'aura plus de manque ni de regret. La consolation s'élargit à une réplique à la nature elle-même, qui reproche aux vivants leur ingratitude et leur soif de durer.",
+          "en": "Since the soul is corporeal and is born, grows and ages with the body, it dissolves with it: all feeling then ceases, and a subject who is no more can suffer no evil. <q>Death is therefore nothing to us</q>, a conclusion Epicurus already held; but Lucretius devotes the whole of book III to it and makes of it a long consolation, multiplying proofs of the soul's mortality and the symmetry argument: we do not grieve over the nothingness before our birth, so why dread the one after our death, which resembles it in all things? To wish to survive is to contradict oneself, for the dead will have neither lack nor regret. The consolation widens into a rejoinder spoken by nature herself, who reproaches the living for their ingratitude and their thirst to endure."
+        },
+        "references": [
+          {
+            "fr": "De la nature des choses, III, 417-829 (l'âme mortelle ; la mort n'est rien pour nous)",
+            "en": "On the Nature of Things, III, 417-829 (the mortal soul; death is nothing to us)"
+          },
+          {
+            "fr": "De la nature des choses, III, 830-1094 (l'argument de la symétrie ; la diatribe de la Nature)",
+            "en": "On the Nature of Things, III, 830-1094 (the symmetry argument; the diatribe of Nature)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "La mort n'est donc rien pour nous et ne nous touche en rien, puisque la nature de l'âme est tenue pour mortelle.",
+            "en": "Death, then, is nothing to us and touches us not at all, since the nature of the mind is held to be mortal."
+          },
+          "source": {
+            "fr": "De la nature des choses, III, 830-831",
+            "en": "On the Nature of Things, III, 830-831"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0, 0, 0, 1]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'âme (animus, le siège de la pensée) et le souffle vital (anima, répandu dans tout le corps) ne sont pas une substance simple ni immortelle, mais un composé d'atomes très petits et très mobiles, mêlés à la chair. Né avec le corps, ce faisceau se défait quand l'assemblage se rompt : le moi n'a aucune identité par-delà sa composition matérielle, et il ne saurait y avoir de transmigration. Lucrèce ajoute un argument propre : quand bien même nos atomes se rassembleraient à nouveau après des âges, ce ne serait pas <q>nous</q>, car le fil de la mémoire serait rompu. C'est une théorie du faisceau.",
+          "en": "The mind (animus, the seat of thought) and the vital breath (anima, spread through the whole body) are not a simple or immortal substance but a compound of very small, very mobile atoms mingled with the flesh. Born with the body, this bundle comes apart when the assemblage breaks up: the self has no identity beyond its material composition, and there can be no transmigration. Lucretius adds an argument of his own: even were our atoms to gather again after ages, it would not be <q>us</q>, for the thread of memory would be severed. This is a bundle theory."
+        },
+        "references": [
+          {
+            "fr": "De la nature des choses, III, 94-322 (animus et anima, la nature de l'âme)",
+            "en": "On the Nature of Things, III, 94-322 (animus and anima, the nature of the soul)"
+          },
+          {
+            "fr": "De la nature des choses, III, 843-861 (si nos atomes se rassemblaient, ce ne serait plus nous)",
+            "en": "On the Nature of Things, III, 843-861 (were our atoms to reassemble, it would no longer be us)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Rien n'excède la nature : il n'y a ni monde des Idées, ni providence surplombante, ni au-delà où survivre. Tout, des dieux à l'âme, appartient au seul univers des atomes et du vide. Le poème ne pousse pas le regard vers un ordre supérieur mais vers la profondeur infinie de ce monde-ci, où la pensée, ayant franchi les <q>remparts enflammés du monde</q>, parcourt l'immensité sans rencontrer de borne ni de dehors. C'est une <ax id='TRANSCENDENCE'>immanence</ax> intégrale.",
+          "en": "Nothing exceeds nature: there is no world of Ideas, no overhanging providence, no beyond in which to survive. Everything, from the gods to the soul, belongs to the single universe of atoms and void. The poem turns the gaze not toward a higher order but toward the infinite depth of this world, where thought, having crossed the <q>flaming ramparts of the world</q>, ranges through immensity meeting no bound and no outside. This is a thoroughgoing <ax id='TRANSCENDENCE'>immanence</ax>."
+        },
+        "references": [
+          {
+            "fr": "De la nature des choses, I, 62-79 (l'esprit franchit les remparts enflammés du monde)",
+            "en": "On the Nature of Things, I, 62-79 (the mind crosses the flaming ramparts of the world)"
+          },
+          {
+            "fr": "De la nature des choses, II, 1048-1089 (l'infinité des mondes)",
+            "en": "On the Nature of Things, II, 1048-1089 (the infinity of worlds)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Toute connaissance remonte aux sens, et la raison qui prétendrait les réfuter scierait la branche qui la porte : car les notions mêmes dont elle use sont tirées des sens, et l'on ne peut opposer aux sens un critère plus sûr qu'eux. Lucrèce développe la doctrine épicurienne des <c id='simulacra'>simulacres</c>, ces fines pellicules d'atomes que les corps émettent et qui, frappant les organes, produisent la perception ; il défend longuement la véracité des sens contre les illusions, qu'il impute au jugement et non à la sensation. C'est un <ax id='KNOWLEDGE_SOURCE'>empirisme</ax> radical, dressé contre le doute des sceptiques et l'innéisme platonicien.",
+          "en": "All knowledge goes back to the senses, and a reason claiming to refute them would saw off the branch that bears it: for the very notions it uses are drawn from the senses, and no criterion surer than they can be set against them. Lucretius develops the Epicurean doctrine of the <c id='simulacra'>simulacra</c>, those thin films of atoms that bodies emit and that, striking the organs, produce perception; he defends at length the truth of the senses against illusions, which he charges to judgment and not to sensation. This is a radical <ax id='KNOWLEDGE_SOURCE'>empiricism</ax>, set against the doubt of the skeptics and Platonic innatism."
+        },
+        "references": [
+          {
+            "fr": "De la nature des choses, IV, 26-238 (les simulacres et la perception)",
+            "en": "On the Nature of Things, IV, 26-238 (the simulacra and perception)"
+          },
+          {
+            "fr": "De la nature des choses, IV, 469-521 (qui réfute les sens n'a rien de plus sûr à leur opposer)",
+            "en": "On the Nature of Things, IV, 469-521 (whoever refutes the senses has nothing surer to set against them)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Contre les sceptiques qui suspendent tout assentiment, Lucrèce tient les sens pour un critère assuré et fait reposer toute la physique sur leur témoignage : qui les déclare incertains ruine du même coup la raison qui les conteste, et ne pourra même plus distinguer le vrai du faux. La sensation prise en elle-même ne trompe jamais ; l'erreur naît seulement de l'opinion ajoutée. Cette confiance en un fondement ferme de la connaissance est un <c id='dogmatism'>dogmatisme</c>, fût-il sensualiste.",
+          "en": "Against the skeptics who suspend all assent, Lucretius holds the senses to be a secure criterion and rests the whole of physics on their testimony: whoever declares them uncertain thereby ruins the reason that contests them, and will no longer be able even to tell true from false. Sensation taken in itself never deceives; error arises only from the opinion added to it. This confidence in a firm ground of knowledge is a <c id='dogmatism'>dogmatism</c>, sensualist though it be."
+        },
+        "references": [
+          {
+            "fr": "De la nature des choses, IV, 469-521 (réfutation du scepticisme)",
+            "en": "On the Nature of Things, IV, 469-521 (refutation of skepticism)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HUMAN_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le livre V propose une histoire naturelle de l'humanité sans âge d'or ni chute : les premiers hommes, plus robustes, vécurent épars comme des bêtes, sans feu, sans langage, sans lois, plus durs et plus rudes que nous. C'est le besoin, l'usage et l'imitation de la nature qui, peu à peu, firent naître le feu, les huttes, le langage articulé, les arts et les cités. L'homme n'a donc pas de nature fixe imprimée d'avance : il porte un fonds naturel commun, mais ses mœurs et ses savoirs sont l'œuvre lente de l'expérience. Le poids reste mis sur la continuité naturelle de l'animal humain, d'où une pente naturaliste tempérée par cette genèse culturelle.",
+          "en": "Book V offers a natural history of humankind with no golden age and no fall: the first men, more robust, lived scattered like beasts, without fire, language or laws, harder and rougher than we are. It was need, use and the imitation of nature that, little by little, gave rise to fire, huts, articulate speech, the arts and cities. Man therefore has no fixed nature stamped in advance: he carries a common natural ground, but his customs and skills are the slow work of experience. The weight remains on the natural continuity of the human animal, hence a naturalist leaning tempered by this cultural genesis."
+        },
+        "references": [
+          {
+            "fr": "De la nature des choses, V, 925-1027 (les premiers hommes, sauvages et épars)",
+            "en": "On the Nature of Things, V, 925-1027 (the first men, savage and scattered)"
+          },
+          {
+            "fr": "De la nature des choses, V, 1028-1457 (naissance du langage, du feu, des arts et des cités)",
+            "en": "On the Nature of Things, V, 1028-1457 (the birth of language, fire, the arts and cities)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HISTORY_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'histoire des hommes ne suit aucun plan ni aucune providence : ce sont le besoin, le hasard des découvertes et l'imitation tâtonnante qui, sans direction d'ensemble, ont conduit du sauvage aux cités. Les arts progressent par essais et par usage, mais ce progrès est ambivalent, car il apporte aussi la guerre, l'or et les ambitions qui troublent le repos. Faute de sens assigné et de terme visé, l'histoire relève donc de la <ax id='HISTORY_MEANING'>contingence</ax>, sans verser pour autant dans un déclin programmé.",
+          "en": "The history of mankind follows no plan and no providence: it is need, the chance of discoveries and groping imitation that, with no overall direction, led from the savage to the cities. The arts progress by trial and use, but this progress is ambivalent, for it also brings war, gold and the ambitions that disturb repose. Lacking any assigned meaning or aimed-at term, history therefore belongs to <ax id='HISTORY_MEANING'>contingency</ax>, without lapsing for all that into a programmed decline."
+        },
+        "references": [
+          {
+            "fr": "De la nature des choses, V, 1105-1160 (rois, propriété, ambition) et 1448-1457 (le lent progrès des arts)",
+            "en": "On the Nature of Things, V, 1105-1160 (kings, property, ambition) and 1448-1457 (the slow progress of the arts)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TECHNOLOGY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.2
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Les arts et les inventions, du métal au tissage et à la navigation, sont nés du besoin et de l'expérience, et Lucrèce les décrit sans nostalgie de l'état sauvage. Mais il n'y voit pas une marche vers le bonheur : la découverte de l'or et des métaux a armé la guerre, et le luxe attise des désirs vains que la nature ne réclame pas. Le progrès matériel laisse intact, voire aggrave, le trouble de l'âme que seule la philosophie apaise, d'où une réserve nette à l'égard de ce que les techniques apportent vraiment.",
+          "en": "The arts and inventions, from metalworking to weaving and seafaring, were born of need and experience, and Lucretius describes them without any nostalgia for the savage state. But he sees in them no march toward happiness: the discovery of gold and metals armed war, and luxury inflames the empty desires that nature does not demand. Material progress leaves untouched, indeed worsens, the trouble of soul that philosophy alone soothes, hence a clear reservation about what techniques truly bring."
+        },
+        "references": [
+          {
+            "fr": "De la nature des choses, V, 1241-1457 (métaux, guerre, luxe et le progrès ambivalent des arts)",
+            "en": "On the Nature of Things, V, 1241-1457 (metals, war, luxury and the ambivalent progress of the arts)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SOCIAL_CONTRACT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le droit et les lois ne descendent ni des dieux ni d'un ordre naturel : las des violences de la vengeance privée, les hommes consentirent d'eux-mêmes à des pactes de voisinage pour ne plus se nuire, et c'est de cet accord qu'est née la justice. <ph>Lucrèce</ph> donne ainsi, avant la lettre, une genèse contractuelle de l'ordre civil, où le juste est convention d'utilité commune et non commandement transcendant, prolongeant le <q>pacte d'utilité</q> d'<ph id='epicurus'>Épicure</ph>. C'est un <c>contractualisme</c> naturaliste.",
+          "en": "Right and laws descend neither from the gods nor from a natural order: weary of the violence of private vengeance, men of their own accord consented to neighbourly pacts so as no longer to harm one another, and from that agreement justice was born. <ph>Lucretius</ph> thus gives, before the term existed, a contractual genesis of civil order, in which the just is a convention of common advantage and not a transcendent command, extending the <q>compact of utility</q> of <ph id='epicurus'>Epicurus</ph>. This is a naturalist <c>contractualism</c>."
+        },
+        "references": [
+          {
+            "fr": "De la nature des choses, V, 1011-1027 (les pactes de voisinage) et 1136-1160 (la fondation du droit)",
+            "en": "On the Nature of Things, V, 1011-1027 (neighbourly pacts) and 1136-1160 (the founding of law)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.9, 0.1, 0]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le bien suprême est le plaisir entendu comme paix, non comme jouissance : la fin de toute la physique est l'<c id='ataraxia'>ataraxie</c>, l'état où, les peurs des dieux et de la mort dissipées, plus rien ne trouble l'âme. La nature, dit Lucrèce, ne réclame qu'une chose, un corps sans douleur et un esprit affranchi de souci et de crainte. Cette définition du souverain bien est reprise d'<ph id='epicurus'>Épicure</ph> ; Lucrèce en fait le but avoué de son poème et l'image fameuse du sage qui, du rivage, contemple sans péril les naufragés.",
+          "en": "The highest good is pleasure understood as peace, not as enjoyment: the end of the whole of physics is <c id='ataraxia'>ataraxia</c>, the state in which, the fears of the gods and of death dispelled, nothing more troubles the soul. Nature, says Lucretius, asks for only one thing, a body free of pain and a mind freed of care and dread. This definition of the sovereign good is taken over from <ph id='epicurus'>Epicurus</ph>; Lucretius makes it the avowed aim of his poem and the famous image of the sage who, from the shore, watches the shipwrecked without peril."
+        },
+        "references": [
+          {
+            "fr": "De la nature des choses, II, 1-61 (le proème : suave mari magno ; la nature réclame peu)",
+            "en": "On the Nature of Things, II, 1-61 (the proem: suave mari magno; nature asks for little)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "La nature ne réclame pour elle rien d'autre que ceci : que la douleur soit écartée du corps, et que l'esprit jouisse d'un sentiment agréable, libre de soin et de crainte.",
+            "en": "Nature cries aloud for nothing else but that pain be kept away from the body, and that the mind enjoy pleasant sensation, free of care and fear."
+          },
+          "source": {
+            "fr": "De la nature des choses, II, 16-19",
+            "en": "On the Nature of Things, II, 16-19"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.05, 0.85, 0.1]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le trouble vient de désirs sans bornes que la nature ne réclame pas : l'avidité de richesse et d'honneurs, attisée par la peur de la mort, jette les hommes dans une course sans fin. La cure consiste à connaître la limite que la nature assigne au plaisir, peu de chose suffisant à écarter la douleur ; au-delà, le désir vain ne fait qu'entretenir l'angoisse. Reprenant le tri épicurien des désirs, Lucrèce en fait le ressort d'une critique mordante de l'ambition et du luxe romains. C'est une <ax id='DESIRE'>sélection raisonnée</ax> du désir selon la nature.",
+          "en": "Disturbance comes from boundless desires that nature does not demand: the greed for wealth and honours, fanned by the fear of death, throws men into an endless race. The cure lies in knowing the limit nature sets to pleasure, little being enough to keep pain away; beyond that, empty desire only feeds anxiety. Taking up the Epicurean sorting of desires, Lucretius makes of it the spring of a biting critique of Roman ambition and luxury. This is a <ax id='DESIRE'>reasoned selection</ax> of desire according to nature."
+        },
+        "references": [
+          {
+            "fr": "De la nature des choses, II, 1-61 (les vaines terreurs et les désirs sans mesure)",
+            "en": "On the Nature of Things, II, 1-61 (empty terrors and measureless desires)"
+          },
+          {
+            "fr": "De la nature des choses, III, 59-93 (l'avidité et l'ambition nées de la peur de la mort)",
+            "en": "On the Nature of Things, III, 59-93 (greed and ambition born of the fear of death)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.85
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La souffrance n'a aucune valeur rédemptrice : elle est le mal même que tout le poème cherche à désarmer en remontant à ses causes, la fausse opinion sur les dieux et sur la mort. La grande souffrance, pour Lucrèce, n'est pas tant la douleur du corps que la terreur de l'âme, qu'aucune épreuve ne sanctifie et que la connaissance de la nature doit dissoudre. La pente est nettement abolitionniste, sans que la douleur physique elle-même reçoive le moindre sens.",
+          "en": "Suffering has no redemptive value: it is the very evil that the whole poem seeks to disarm by tracing it back to its causes, the false opinion about the gods and about death. The great suffering, for Lucretius, is not so much bodily pain as the terror of the soul, which no ordeal sanctifies and which knowledge of nature must dissolve. The leaning is clearly abolitionist, without bodily pain itself receiving the slightest meaning."
+        },
+        "references": [
+          {
+            "fr": "De la nature des choses, III, 1053-1075 (le mal-être qui pousse les hommes à fuir)",
+            "en": "On the Nature of Things, III, 1053-1075 (the malaise that drives men to flee)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Les passions qui rongent l'âme, terreurs des enfers, soif d'honneurs, fureur de l'amour, naissent d'opinions fausses sur la nature des choses : c'est donc la connaissance, non l'exhortation, qui les apaise. <q>Cette terreur de l'âme, ces ténèbres, ce n'est ni le soleil ni le jour qui peuvent les dissiper, mais l'aspect et la loi de la nature.</q> La thérapie passe par la lumière du savoir physique, ce qui marque une nette pente intellectualiste, dont témoigne aussi la fameuse analyse démystifiante de la passion amoureuse au livre IV.",
+          "en": "The passions that gnaw at the soul, dread of the underworld, thirst for honours, the fury of love, arise from false opinions about the nature of things: it is therefore knowledge, not exhortation, that calms them. <q>This terror of the mind, this darkness, can be dispelled neither by the sun nor by daylight, but only by the aspect and the law of nature.</q> The therapy proceeds through the light of physical knowledge, which marks a clear intellectualist leaning, attested too by the famous demystifying analysis of erotic passion in book IV."
+        },
+        "references": [
+          {
+            "fr": "De la nature des choses, II, 55-61 et III, 87-93 (la terreur dissipée par la loi de la nature)",
+            "en": "On the Nature of Things, II, 55-61 and III, 87-93 (terror dispelled by the law of nature)"
+          },
+          {
+            "fr": "De la nature des choses, IV, 1058-1287 (l'analyse de la passion amoureuse)",
+            "en": "On the Nature of Things, IV, 1058-1287 (the analysis of erotic passion)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "COSMIC_OUTLOOK",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'univers infini en atomes et en mondes n'est ni bon ni mauvais, ni fait pour nous : indifférent, il n'offre ni providence consolante ni hostilité tragique. Une fois dissipées les peurs des dieux et de la mort, la nature suffit au bonheur, le bien étant facile à atteindre. Cet optimisme thérapeutique côtoie pourtant la conscience aiguë de la fragilité du monde, voué lui aussi à se défaire, ce qui retient de tout enthousiasme cosmique : c'est un optimisme sobre, sans tragique mais sans providence.",
+          "en": "The universe infinite in atoms and worlds is neither good nor evil, nor made for us: indifferent, it offers neither a consoling providence nor a tragic hostility. Once the fears of the gods and of death are dispelled, nature suffices for happiness, the good being easy to attain. Yet this therapeutic optimism keeps company with an acute sense of the world's fragility, itself doomed to come undone, which holds back any cosmic enthusiasm: a sober optimism, without the tragic but without providence."
+        },
+        "references": [
+          {
+            "fr": "De la nature des choses, II, 1090-1174 (la nature sans dieux ; le monde déclinant)",
+            "en": "On the Nature of Things, II, 1090-1174 (nature without gods; the declining world)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.05, 0.65, 0.3, 0]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Nul dieu n'assigne de fin à la vie et la nature ne fut pas faite pour nous : le sens n'est donc pas inscrit dans l'ordre des choses. Mais Lucrèce ne conclut pas à l'absurde désespéré : une fois la peur ôtée, la vie trouve sa suffisance dans le plaisir stable que la nature met à notre portée, et le poème lui-même, voué à éclairer les hommes, témoigne d'un sens à construire ici-bas. La part d'absurdisme tient à l'absence de finalité cosmique, mais l'accent porte sur un sens humain bâti par la sagesse.",
+          "en": "No god assigns life an end and nature was not made for us: meaning is therefore not inscribed in the order of things. But Lucretius does not conclude to a desperate absurd: once fear is removed, life finds its sufficiency in the stable pleasure that nature places within our reach, and the poem itself, devoted to enlightening men, bears witness to a meaning to be built here below. The absurdist share lies in the absence of cosmic finality, but the stress falls on a human meaning built by wisdom."
+        },
+        "references": [
+          {
+            "fr": "De la nature des choses, V, 156-234 (le monde non fait pour les hommes) et III, 1-30 (l'éloge d'Épicure, libérateur)",
+            "en": "On the Nature of Things, V, 156-234 (the world not made for men) and III, 1-30 (the praise of Epicurus, liberator)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HOPE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'espérance, pour Lucrèce, est surtout celle d'une survie de l'âme, et c'est elle qu'il faut détruire : tant qu'on attend un au-delà ou qu'on craint les châtiments des enfers, on ne vit pas le présent. Sa thérapie est une lucidité sans illusion, qui retire son objet à l'espérance comme à la crainte et rend l'homme à la finitude paisible de cette vie. La pente est nettement du côté de la lucidité, le bonheur se gagnant dans le présent et non dans l'attente.",
+          "en": "Hope, for Lucretius, is above all the hope of a survival of the soul, and it is this that must be destroyed: as long as one awaits a beyond or fears the punishments of the underworld, one does not live the present. His therapy is a lucidity without illusion, which removes the object of hope as of fear and restores man to the peaceful finitude of this life. The leaning is clearly on the side of lucidity, happiness being won in the present and not in expectation."
+        },
+        "references": [
+          {
+            "fr": "De la nature des choses, III, 978-1023 (les châtiments des enfers, allégories des angoisses présentes)",
+            "en": "On the Nature of Things, III, 978-1023 (the punishments of the underworld, allegories of present anxieties)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.7, 0, 0.3, 0]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le critère de l'agir reste celui d'Épicure : la contribution au plaisir compris comme absence de trouble, mesurée par le calcul du bien et du mal que chaque choix apporte. Lucrèce ne théorise guère l'éthique pour elle-même, mais toute sa morale poétique vise ce résultat, l'ataraxie, et fait de la prudence éclairée par la connaissance de la nature la vertu qui y conduit. La structure est hédoniste et conséquentialiste, avec une place pour la sagesse pratique.",
+          "en": "The criterion of action remains that of Epicurus: the contribution to pleasure understood as freedom from disturbance, measured by the reckoning of the good and ill each choice brings. Lucretius scarcely theorizes ethics for its own sake, but the whole of his poetic morality aims at this outcome, ataraxia, and makes of prudence enlightened by knowledge of nature the virtue that leads to it. The structure is hedonist and consequentialist, with a place for practical wisdom."
+        },
+        "references": [
+          {
+            "fr": "De la nature des choses, II, 7-19 (le vrai bien : un corps sans douleur, un esprit sans crainte)",
+            "en": "On the Nature of Things, II, 7-19 (the true good: a body free of pain, a mind free of fear)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "BELONGING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La poursuite des honneurs et du pouvoir, qui jette les hommes les uns contre les autres, est rangée parmi les désirs vains nés de la peur de la mort : mieux vaut <q>obéir et se tenir tranquille que vouloir régir les choses par le commandement et tenir des royaumes</q>. Comme l'épicurisme dont il est le héraut, Lucrèce détourne de l'ambition civique et de la vie publique pour la sécurité du retrait, ce qui incline du côté d'une communauté restreinte plutôt que d'un cosmopolitisme actif.",
+          "en": "The pursuit of honours and power, which throws men against one another, is ranked among the empty desires born of the fear of death: better <q>to obey and keep quiet than to wish to rule affairs by command and to hold kingdoms</q>. Like the Epicureanism of which he is the herald, Lucretius turns men away from civic ambition and public life toward the security of withdrawal, which leans toward a restricted community rather than an active cosmopolitanism."
+        },
+        "references": [
+          {
+            "fr": "De la nature des choses, V, 1120-1135 (mieux vaut obéir tranquille que régner)",
+            "en": "On the Nature of Things, V, 1120-1135 (better to obey in peace than to reign)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MACHINE_MIND",
+      "status": "NOT_APPLICABLE",
+      "note": {
+        "fr": "La question de l'esprit des machines suppose des débats étrangers à l'Antiquité ; Lucrèce n'a aucune position sur ce problème contemporain.",
+        "en": "The question of machine minds presupposes debates foreign to antiquity; Lucretius holds no position on this contemporary problem."
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "REALITY_NATURE",
+      "thesis": {
+        "fr": "Il n'existe que des <c>atomes</c> et du <c>vide</c> : rien ne naît du néant ni n'y retourne, et tout le réel, jusqu'à l'âme, n'est que matière en mouvement.",
+        "en": "There exist only <c>atoms</c> and <c>void</c>: nothing comes from nothing or returns to it, and all the real, down to the soul, is but matter in motion."
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "thesis": {
+        "fr": "La <ax id='DEATH'>mort</ax> n'est rien pour nous : l'âme se dissout avec le corps, et craindre le néant d'après la mort est aussi vain que de pleurer celui d'avant la naissance.",
+        "en": "<ax id='DEATH'>Death</ax> is nothing to us: the soul dissolves with the body, and to fear the nothingness after death is as vain as to weep over the one before birth."
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "thesis": {
+        "fr": "Les dieux existent, paisibles dans les <c id='intermundia'>intermondes</c>, mais ne gouvernent rien : <q>tant la religion put conseiller de crimes</q>, et c'est d'elle, non des dieux, qu'il faut se délivrer.",
+        "en": "The gods exist, at peace in the <c id='intermundia'>intermundia</c>, but govern nothing: <q>so much wrong could religion prompt</q>, and it is from religion, not the gods, that we must be freed."
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "thesis": {
+        "fr": "Un atome peut dévier sans cause de sa chute, le <c id='clinamen'>clinamen</c> : ce grain d'indétermination brise la chaîne du destin et sauve la <q>volonté arrachée aux destins</q>.",
+        "en": "An atom can swerve from its fall without cause, the <c id='clinamen'>clinamen</c>: this grain of indeterminacy breaks the chain of fate and saves the <q>will wrested from the fates</q>."
+      }
+    },
+    {
+      "axisId": "CAUSALITY",
+      "thesis": {
+        "fr": "La nature ne poursuit aucune fin : aucun organe ne fut fait pour servir, c'est l'usage qui vient après l'être, et le monde, trop défectueux, ne fut pas fait pour nous.",
+        "en": "Nature pursues no end: no organ was made in order to serve, use comes after being, and the world, too flawed, was not made for us."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-29T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

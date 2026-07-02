@@ -1,0 +1,12 @@
+{
+  "id": "body-as-instrument-grounds-work-necessity",
+  "ground": { "axisId": "EMBODIMENT", "poleId": "BODY_AS_INSTRUMENT" },
+  "grounded": { "axisId": "WORK_MEANING", "poleId": "NECESSITY" },
+  "kind": "T_T",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si le véritable accomplissement de l'homme est dans la vie de l'esprit, ce qui relève du corps et du besoin lui reste subordonné. La conception du corps comme simple instrument soutient le travail comme nécessité : c'est le loisir, libéré du labeur et ouvert à la contemplation, qui donne son sens à l'existence, comme chez <ph id='aristotle'>Aristote</ph>.",
+    "en": "If the true accomplishment of the human being lies in the life of the mind, then what belongs to the body and to need remains subordinate to it. The conception of the body as a mere instrument supports work as necessity: it is leisure, freed from toil and open to contemplation, that gives existence its meaning, as in <ph id='aristotle'>Aristotle</ph>."
+  },
+  "updatedAt": "2026-06-22T00:00:00.000Z"
+}

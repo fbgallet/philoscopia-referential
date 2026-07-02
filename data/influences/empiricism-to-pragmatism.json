@@ -1,0 +1,19 @@
+{
+  "id": "empiricism-to-pragmatism",
+  "from": { "kind": "MOVEMENT", "slug": "empiricism" },
+  "to": { "kind": "MOVEMENT", "slug": "pragmatism" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "Le <mv id='pragmatism'>pragmatisme</mv> prolonge l'<mv id='empiricism'>empirisme</mv> en ancrant le sens et la vérité dans l'expérience, mais déplace le critère vers les <c>conséquences pratiques</c> d'une idée plutôt que vers ses origines sensorielles. James revendique d'ailleurs un <q>empirisme radical</q>.",
+    "en": "<mv id='pragmatism'>Pragmatism</mv> extends <mv id='empiricism'>empiricism</mv> by anchoring meaning and truth in experience, but shifts the criterion toward the <c>practical consequences</c> of an idea rather than its sensory origins. James indeed claims a <q>radical empiricism</q>."
+  },
+  "sources": [
+    {
+      "fr": "William James, Le Pragmatisme (1907)",
+      "en": "William James, Pragmatism (1907)"
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

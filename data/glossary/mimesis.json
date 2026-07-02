@@ -1,0 +1,12 @@
+{
+  "id": "mimesis",
+  "term": { "fr": "Mimésis (imitation)", "en": "Mimēsis (imitation)" },
+  "definition": {
+    "fr": "La mimésis (imitation) est la conception classique de l'art, formulée par <ph id='plato'>Platon</ph> et <ph id='aristotle'>Aristote</ph> : l'œuvre représente la nature ou les actions humaines, et vaut par la justesse de cette imitation. <ety>Du grec mimēsis, imitation, représentation.</ety> Le romantisme la récuse au nom de la <c id='imagination-creatrice'>création</c> : l'art ne copie plus un modèle donné, il en invente un. C'est l'enjeu de l'axe <ax id='ART_NATURE'>nature de l'art</ax>.",
+    "en": "Mimēsis (imitation) is the classical conception of art, framed by <ph id='plato'>Plato</ph> and <ph id='aristotle'>Aristotle</ph>: the work represents nature or human actions, and is worth the accuracy of that imitation. <ety>From the Greek mimēsis, imitation, representation.</ety> Romanticism rejects it in the name of <c id='imagination-creatrice'>creation</c>: art no longer copies a given model, it invents one. This is the stake of the <ax id='ART_NATURE'>nature of art</ax> axis."
+  },
+  "relatedAxes": ["ART_NATURE"],
+  "relatedTerms": ["imagination-creatrice", "genie"],
+  "positions": [{ "axisId": "ART_NATURE", "poleId": "MIMESIS" }],
+  "updatedAt": "2026-06-26T00:00:00.000Z"
+}

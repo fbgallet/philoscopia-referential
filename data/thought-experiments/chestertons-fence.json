@@ -1,0 +1,60 @@
+{
+  "id": "chestertons-fence",
+  "title": {
+    "fr": "La barrière de Chesterton",
+    "en": "Chesterton's fence"
+  },
+  "description": {
+    "fr": "Vous héritez de la gestion d'un vieux domaine. En parcourant les terres, vous tombez sur une barrière qui coupe un chemin en plein milieu, sans rien clôturer alentour : elle ne sert visiblement à rien et gêne le passage. Votre premier réflexe est de la faire abattre. Un ancien vous arrête : « Si vous ne voyez pas à quoi elle sert, je ne vous laisserai sûrement pas la détruire. Allez chercher pourquoi on l'a posée. Quand vous reviendrez me dire que vous l'avez compris, peut-être vous laisserai-je l'enlever. » L'histoire vaut pour bien plus qu'une barrière : une loi, une coutume, une institution dont l'utilité nous échappe.",
+    "en": "You inherit the running of an old estate. Walking the grounds, you come upon a fence cutting straight across a path, fencing nothing in around it: it plainly serves no purpose and gets in the way. Your first impulse is to have it torn down. An old hand stops you: \"If you don't see what it's for, I certainly won't let you destroy it. Go and find out why it was put there. When you come back and tell me you've understood, perhaps I'll let you remove it.\" The story holds for far more than a fence: a law, a custom, an institution whose use escapes us."
+  },
+  "source": {
+    "author": { "fr": "G.K. Chesterton", "en": "G.K. Chesterton" },
+    "work": { "fr": "The Thing", "en": "The Thing" },
+    "year": 1929
+  },
+  "question": {
+    "fr": "Devant une règle héritée dont vous ne voyez pas la raison, que faites-vous ?",
+    "en": "Faced with an inherited rule whose reason you cannot see, what do you do?"
+  },
+  "axisIds": ["CONSERVATISM_PROGRESSISM"],
+  "options": [
+    {
+      "id": "understand-first",
+      "label": {
+        "fr": "Je ne la touche pas tant que je n'ai pas compris. Si sa raison m'échappe, c'est peut-être moi qui manque de recul, pas elle qui est absurde : l'ordre hérité en sait souvent plus que nous.",
+        "en": "I leave it alone until I understand it. If its reason escapes me, perhaps it is I who lack perspective, not it that is absurd: the inherited order often knows more than we do."
+      },
+      "hints": [{ "axisId": "CONSERVATISM_PROGRESSISM", "value": { "kind": "scalar", "value": -0.7 } }],
+      "discussion": {
+        "fr": "C'est la prudence de <ph id='burke'>Burke</ph> : les institutions condensent une expérience que nul n'a conçue seul, et la charge de la preuve pèse sur qui veut détruire, non sur ce qui a duré.",
+        "en": "This is <ph id='burke'>Burke</ph>'s prudence: institutions condense an experience no one designed alone, and the burden of proof falls on whoever would destroy, not on what has lasted."
+      }
+    },
+    {
+      "id": "remove-it",
+      "label": {
+        "fr": "Je l'enlève. Ce n'est pas à moi de prouver qu'une règle est inutile, c'est à elle de justifier qu'elle mérite de rester. Une contrainte sans raison visible n'a aucune autorité.",
+        "en": "I remove it. It is not for me to prove a rule useless; it is for the rule to justify why it deserves to stand. A constraint with no visible reason has no authority."
+      },
+      "hints": [{ "axisId": "CONSERVATISM_PROGRESSISM", "value": { "kind": "scalar", "value": 0.7 } }],
+      "discussion": {
+        "fr": "Vous renversez la charge de la preuve, avec <ph id='condorcet'>Condorcet</ph> et les Lumières : une institution ne tire aucune autorité de sa seule ancienneté, et ce qui ne se justifie pas devant la raison doit céder.",
+        "en": "You reverse the burden of proof, with <ph id='condorcet'>Condorcet</ph> and the Enlightenment: an institution draws no authority from its age alone, and what cannot justify itself before reason must give way."
+      }
+    },
+    {
+      "id": "investigate-then-decide",
+      "label": {
+        "fr": "Je cherche d'abord pourquoi elle existe, puis je tranche : si je trouve une bonne raison, je la garde ; si je n'en trouve aucune après examen, je l'enlève.",
+        "en": "I first find out why it exists, then decide: if I find a good reason, I keep it; if I find none after a serious look, I remove it."
+      },
+      "hints": [{ "axisId": "CONSERVATISM_PROGRESSISM", "value": { "kind": "scalar", "value": 0 } }],
+      "discussion": {
+        "fr": "Vous prenez l'avertissement au sérieux sans en faire un veto : comprendre d'abord, réformer ensuite, sur preuves. C'est la voie du réformateur prudent, ni gardien ni table rase.",
+        "en": "You take the warning seriously without making it a veto: understand first, reform after, on evidence. This is the way of the prudent reformer, neither guardian nor blank slate."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-28T00:00:00.000Z"
+}

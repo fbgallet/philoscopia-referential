@@ -1,0 +1,12 @@
+{
+  "id": "intellectualism-grounds-reasoned-selection",
+  "ground": { "axisId": "EMOTIONS", "poleId": "INTELLECTUALISM" },
+  "grounded": { "axisId": "DESIRE", "poleId": "REASONED_SELECTION" },
+  "kind": "T_V",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si les passions ne sont pas des forces aveugles mais des jugements sur ce qui vaut, la raison peut les examiner et les départager. Tenir le désir pour un jugement révisable fonde le tri raisonné : on satisfait les désirs qui résistent à l'examen, on congédie ceux qui ne reposent que sur une opinion confuse. C'est le geste commun d'<ph id='epicurus'>Épicure</ph> et des stoïciens.",
+    "en": "If the passions are not blind forces but judgments about what is worth pursuing, then reason can examine and sort them. To hold desire to be a revisable judgment grounds reasoned selection: one satisfies the desires that withstand examination and dismisses those resting only on a confused opinion. This is the shared move of <ph id='epicurus'>Epicurus</ph> and the Stoics."
+  },
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

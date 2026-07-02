@@ -1,0 +1,23 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "habermas",
+  "stub": true,
+  "name": {
+    "fr": "Habermas",
+    "en": "Habermas"
+  },
+  "summary": {
+    "fr": "Philosophe et sociologue allemand, figure majeure de l'École de Francfort et théoricien de l'agir communicationnel ; dans « L'Avenir de la nature humaine » il s'oppose à l'eugénisme libéral des biotechnologies, qui compromettrait l'autonomie de l'enfant programmé et la symétrie morale entre les personnes.",
+    "en": "German philosopher and sociologist, a leading figure of the Frankfurt School and theorist of communicative action; in 'The Future of Human Nature' he opposes the liberal eugenics of biotechnology, which would compromise the autonomy of the programmed child and the moral symmetry between persons."
+  },
+  "birth": 1929,
+  "nationality": {
+    "fr": "Allemand",
+    "en": "German"
+  },
+  "movements": [],
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

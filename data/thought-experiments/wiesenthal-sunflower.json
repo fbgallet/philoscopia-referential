@@ -1,0 +1,60 @@
+{
+  "id": "wiesenthal-sunflower",
+  "title": {
+    "fr": "Pardonner au nom des morts ?",
+    "en": "Forgiving on behalf of the dead?"
+  },
+  "description": {
+    "fr": "Prisonnier d'un camp, <per>Simon Wiesenthal</per> est mené au chevet d'un jeune SS mourant. L'homme lui avoue un crime atroce commis contre des familles juives, puis le supplie : il veut, avant de mourir, le pardon d'un Juif, n'importe lequel. Wiesenthal l'écoute longuement, se lève, et sort sans un mot. Des années durant, il se demandera s'il a eu tort. Car même s'il l'avait voulu, le pouvait-il ? Les victimes, elles, sont mortes, et l'on ne pardonne, semble-t-il, que l'offense qu'on a soi-même subie. Mais alors les crimes sans survivant resteraient à jamais sans pardon possible.",
+    "en": "A prisoner in a camp, <per>Simon Wiesenthal</per> is led to the bedside of a dying young SS soldier. The man confesses an atrocious crime committed against Jewish families, then begs him: before he dies, he wants the forgiveness of a Jew, any Jew. Wiesenthal listens for a long while, rises, and leaves without a word. For years he will wonder whether he was wrong. For even had he wished to, could he have? The victims are dead, and one forgives, it seems, only the offense one has suffered oneself. But then crimes with no survivor would remain forever beyond any possible forgiveness."
+  },
+  "source": {
+    "author": { "fr": "Simon Wiesenthal", "en": "Simon Wiesenthal" },
+    "work": { "fr": "Les Fleurs de soleil", "en": "The Sunflower" },
+    "year": 1969
+  },
+  "question": {
+    "fr": "À sa place, auriez-vous pu pardonner ? Et d'abord : en aviez-vous le droit, ou le pardon n'appartient-il qu'à celui qui a été blessé ?",
+    "en": "In his place, could you have forgiven? And first of all: did you have the right to, or does forgiveness belong only to the one who was wronged?"
+  },
+  "axisIds": ["FORGIVENESS"],
+  "options": [
+    {
+      "id": "sincere-repentance",
+      "label": {
+        "fr": "Devant un repentir aussi sincère, refuser n'aurait fait qu'ajouter de la dureté au malheur : j'aurais pardonné.",
+        "en": "Faced with such sincere repentance, refusing would only have added harshness to misery: I would have forgiven."
+      },
+      "hints": [{ "axisId": "FORGIVENESS", "value": { "kind": "scalar", "value": 0.5 } }],
+      "discussion": {
+        "fr": "Vous faites du repentir la clé : c'est la logique conditionnaliste de <ph id='jankelevitch'>Jankélévitch</ph>, le pardon répond à une faute reconnue.",
+        "en": "You make repentance the key: this is <ph id='jankelevitch'>Jankélévitch</ph>'s conditionalist logic, forgiveness answering an acknowledged wrong."
+      }
+    },
+    {
+      "id": "no-standing",
+      "label": {
+        "fr": "Nul ne peut pardonner à la place des victimes : ce pardon-là n'appartenait pas à Wiesenthal.",
+        "en": "No one can forgive in the victims' place: that forgiveness was not Wiesenthal's to give."
+      },
+      "hints": [{ "axisId": "FORGIVENESS", "value": { "kind": "scalar", "value": 0.3 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous soulevez le problème du droit de pardonner : pardonner suppose d'avoir été soi-même lésé. Une condition, donc, mais d'un autre ordre que le repentir.",
+        "en": "You raise the problem of standing: to forgive presupposes having been wronged oneself. A condition, then, but of a different order than repentance."
+      }
+    },
+    {
+      "id": "unconditional-gift",
+      "label": {
+        "fr": "Le vrai pardon n'attend ni droit ni mérite : il se donne, ou il n'est rien. Se taire était se dérober.",
+        "en": "True forgiveness awaits neither standing nor merit: it is given, or it is nothing. To stay silent was to evade."
+      },
+      "hints": [{ "axisId": "FORGIVENESS", "value": { "kind": "scalar", "value": -0.6 } }],
+      "discussion": {
+        "fr": "Vous rejoignez <ph id='derrida'>Derrida</ph> : le pardon n'est lui-même que s'il pardonne l'impardonnable, sans condition ni calcul.",
+        "en": "You join <ph id='derrida'>Derrida</ph>: forgiveness is itself only if it forgives the unforgivable, without condition or calculation."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-26T00:00:00.000Z"
+}

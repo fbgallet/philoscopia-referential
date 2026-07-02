@@ -1,0 +1,17 @@
+{
+  "id": "enlightenment-vs-romanticism",
+  "from": { "kind": "MOVEMENT", "slug": "enlightenment" },
+  "to": { "kind": "MOVEMENT", "slug": "romanticism" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<mv id='romanticism'>Le romantisme</mv> naît en réaction frontale aux Lumières : à la raison universelle, au mécanisme et au culte du progrès, il oppose le sentiment, l'imagination, le génie singulier d'un peuple et le mystère d'une nature vivante. Il prolonge pourtant la sensibilité de <ph id='rousseau'>Rousseau</ph>, philosophe des Lumières devenu son propre contre-courant : la réaction romantique grandit ainsi de l'intérieur même de ce qu'elle conteste.",
+    "en": "<mv id='romanticism'>Romanticism</mv> is born in head-on reaction to the Enlightenment: to universal reason, mechanism and the cult of progress it opposes feeling, imagination, the singular genius of a people and the mystery of a living nature. It nonetheless extends the sensibility of <ph id='rousseau'>Rousseau</ph>, an Enlightenment philosopher turned into its own counter-current: the Romantic reaction thus grows from within the very thing it contests."
+  },
+  "sources": [
+    { "fr": "Isaiah Berlin, Les Racines du romantisme (1965)", "en": "Isaiah Berlin, The Roots of Romanticism (1965)" },
+    { "fr": "Herder, Une autre philosophie de l'histoire (1774)", "en": "Herder, This Too a Philosophy of History (1774)" }
+  ],
+  "updatedAt": "2026-06-25T00:00:00.000Z"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "descartes-to-transhumanism",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "descartes"
+  },
+  "to": {
+    "kind": "MOVEMENT",
+    "slug": "transhumanism"
+  },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "La formule cartésienne de l'homme « comme maître et possesseur de la nature » fournit au transhumanisme sa devise, dont il efface le prudent « comme » : la maîtrise visée n'est plus analogique mais littérale, et s'applique à la nature humaine elle-même.",
+    "en": "The Cartesian formula of man as \"master and possessor of nature\" gives transhumanism its motto, from which it erases the cautious \"as if\": the mastery sought is no longer analogical but literal, and extends to human nature itself."
+  },
+  "sources": [
+    {
+      "fr": "Descartes, Discours de la méthode, VI",
+      "en": "Descartes, Discourse on the Method, VI"
+    }
+  ],
+  "updatedAt": "2026-06-28T00:00:00.000Z"
+}

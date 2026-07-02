@@ -1,0 +1,16 @@
+{
+  "id": "nietzsche-to-heidegger",
+  "from": { "kind": "PHILOSOPHER", "slug": "nietzsche" },
+  "to": { "kind": "PHILOSOPHER", "slug": "heidegger" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='heidegger'>Heidegger</ph> consacre d'amples cours à <ph id='nietzsche'>Nietzsche</ph>, qu'il lit comme le dernier grand métaphysicien : la <c>volonté de puissance</c> et le <c>nihilisme</c> y deviennent l'achèvement et le destin de la métaphysique occidentale.",
+    "en": "<ph id='heidegger'>Heidegger</ph> devotes extensive lecture courses to <ph id='nietzsche'>Nietzsche</ph>, whom he reads as the last great metaphysician: the <c>will to power</c> and <c>nihilism</c> become the completion and the destiny of Western metaphysics."
+  },
+  "sources": [
+    { "fr": "Heidegger, Nietzsche (cours 1936-1940)", "en": "Heidegger, Nietzsche (lectures 1936-1940)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

@@ -1,0 +1,16 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "foucault",
+  "name": { "fr": "Foucault", "en": "Foucault" },
+  "summary": {
+    "fr": "Philosophe français : il analyse le savoir comme indissociable du pouvoir et des discours qui, à chaque époque, déterminent ce qui peut être tenu pour vrai.",
+    "en": "French philosopher: he analyses knowledge as inseparable from power and from the discourses that, in each era, determine what may be held to be true."
+  },
+  "nationality": { "fr": "Français", "en": "French" },
+  "birth": 1926,
+  "death": 1984,
+  "movements": [],
+  "updatedAt": "2026-06-22T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

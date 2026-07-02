@@ -1,0 +1,16 @@
+{
+  "id": "rationalism-to-kant",
+  "from": { "kind": "MOVEMENT", "slug": "rationalism" },
+  "to": { "kind": "PHILOSOPHER", "slug": "kant" },
+  "directness": "ATTESTED",
+  "mode": "SYNTHESIZES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='kant'>Kant</ph> reprend du <mv id='rationalism'>rationalisme</mv> l'exigence d'un savoir <c>a priori</c>, universel et nécessaire, mais la limite aux conditions de l'expérience possible : les concepts purs ne connaissent rien hors des phénomènes.",
+    "en": "<ph id='kant'>Kant</ph> takes from <mv id='rationalism'>rationalism</mv> the demand for <c>a priori</c> knowledge, universal and necessary, but confines it to the conditions of possible experience: pure concepts know nothing beyond appearances."
+  },
+  "sources": [
+    { "fr": "Kant, Critique de la raison pure (1781)", "en": "Kant, Critique of Pure Reason (1781)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

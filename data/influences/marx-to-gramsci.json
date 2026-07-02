@@ -1,0 +1,16 @@
+{
+  "id": "marx-to-gramsci",
+  "from": { "kind": "PHILOSOPHER", "slug": "marx" },
+  "to": { "kind": "PHILOSOPHER", "slug": "gramsci" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='gramsci'>Gramsci</ph> relit <ph id='marx'>Marx</ph> en déplaçant l'analyse de l'infrastructure vers la culture : le concept d'<c>hégémonie</c> explique comment une classe domine par le consentement et la société civile, pas seulement par la force.",
+    "en": "<ph id='gramsci'>Gramsci</ph> rereads <ph id='marx'>Marx</ph> by shifting the analysis from the economic base toward culture: the concept of <c>hegemony</c> explains how a class rules through consent and civil society, not by force alone."
+  },
+  "sources": [
+    { "fr": "Gramsci, Cahiers de prison", "en": "Gramsci, Prison Notebooks" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

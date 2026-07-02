@@ -1,0 +1,17 @@
+{
+  "id": "montaigne-vs-pascal",
+  "from": { "kind": "PHILOSOPHER", "slug": "montaigne" },
+  "to": { "kind": "PHILOSOPHER", "slug": "pascal" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='pascal'>Pascal</ph> se construit contre <ph id='montaigne'>Montaigne</ph> : il admire son portrait de la misère humaine, mais condamne sa <q>nonchalance du salut</q> et sa complaisance <c id='skepticism'>sceptique</c>. Il retourne le doute de Montaigne vers le pari et la <c id='grace'>grâce</c>, là où l'essayiste s'y reposait.",
+    "en": "<ph id='pascal'>Pascal</ph> builds himself against <ph id='montaigne'>Montaigne</ph>: he admires the portrait of human wretchedness yet condemns its <q>nonchalance about salvation</q> and its <c id='skepticism'>sceptical</c> complacency. He turns Montaigne's doubt toward the wager and <c id='grace'>grace</c>, where the essayist had merely rested in it."
+  },
+  "sources": [
+    { "fr": "Pascal, « Entretien avec M. de Sacy sur Épictète et Montaigne »", "en": "Pascal, \"Conversation with M. de Sacy on Epictetus and Montaigne\"" },
+    { "fr": "Pascal, Pensées", "en": "Pascal, Pensées" }
+  ],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

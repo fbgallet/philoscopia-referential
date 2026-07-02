@@ -1,0 +1,11 @@
+{
+  "id": "physis-nomos",
+  "term": { "fr": "Physis et nomos (nature et convention)", "en": "Physis and nomos (nature versus convention)" },
+  "definition": {
+    "fr": "L'opposition de la physis et du nomos est un grand partage de la pensée grecque : la physis désigne ce qui tient par nature, valant partout et toujours, le nomos ce qui ne tient que par la coutume et la loi des hommes, variable d'une cité à l'autre. Les sophistes l'invoquent pour dénoncer la justice comme pure convention ; les cyniques, dont <ph id='diogenes'>Diogène</ph>, en font un critère de tri : tout ce qui n'est que nomos, richesses, rangs, pudeurs, peut être défait, car seule la nature oblige. Vivre selon la physis, c'est dépouiller cet artifice jusqu'au seul besoin réel.",
+    "en": "The opposition of physis and nomos is a great divide of Greek thought: physis names what holds by nature, valid everywhere and always, while nomos names what holds only by human custom and law, varying from one city to another. The sophists invoke it to denounce justice as mere convention; the Cynics, such as <ph id='diogenes'>Diogenes</ph>, turn it into a sorting criterion: whatever is mere nomos, wealth, rank, modesties, can be undone, for nature alone binds. To live according to physis is to strip away that artifice down to real need alone."
+  },
+  "relatedAxes": ["MORAL_SCOPE", "HUMAN_NATURE"],
+  "relatedTerms": ["natural-law", "etat-de-nature"],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

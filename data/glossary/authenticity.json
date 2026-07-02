@@ -1,0 +1,13 @@
+{
+  "id": "authenticity",
+  "term": { "fr": "L'authenticité", "en": "Authenticity" },
+  "definition": {
+    "fr": "L'authenticité est l'attitude par laquelle on assume sa liberté et sa facticité, c'est-à-dire la situation héritée que l'on n'a pas choisie, sans la fuir dans <c id='bad-faith'>la mauvaise foi</c>. Chez <ph id='sartre'>Sartre</ph>, c'est se reconnaître seul responsable du sens que l'on donne à son <ax id='ESSENCE'>existence</ax> ; chez <ph>Heidegger</ph>, dont le terme provient d'abord, c'est se ressaisir comme un soi propre face au conformisme du « on ». Elle exige une lucidité intérieure et une cohérence entre ce que l'on est et ce que l'on montre.",
+    "en": "Authenticity is the stance by which one owns one's freedom and one's facticity, the inherited situation one did not choose, without fleeing it into <c id='bad-faith'>bad faith</c>. In <ph id='sartre'>Sartre</ph>, it is acknowledging oneself as solely responsible for the meaning one gives one's <ax id='ESSENCE'>existence</ax>; in <ph>Heidegger</ph>, from whom the term first comes, it is recovering oneself as one's own self against the conformism of the impersonal \"they.\" It demands an inner lucidity and a coherence between what one is and what one shows."
+  },
+  "relatedAxes": ["ESSENCE", "INTERIORITY", "SINCERITY"],
+  "relatedTerms": ["bad-faith"],
+  "figure": { "slug": "sartre", "name": { "fr": "Jean-Paul Sartre", "en": "Jean-Paul Sartre" } },
+  "positions": [{ "axisId": "ESSENCE", "poleId": "EXISTENTIALISM" }],
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

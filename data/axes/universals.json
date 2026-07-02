@@ -1,0 +1,86 @@
+{
+  "id": "UNIVERSALS",
+  "relation": "TRUTH",
+  "territory": "KNOWLEDGE",
+  "label": {
+    "fr": "Les universaux",
+    "en": "Universals"
+  },
+  "question": {
+    "fr": "Les propriétés générales existent-elles, ou ne sont-elles que des noms ?",
+    "en": "Do general properties exist, or are they merely names?"
+  },
+  "stakes": {
+    "fr": "Plusieurs choses sont « rouges », plusieurs actes sont « justes » : la rougeur ou la justice existent-elles vraiment, ou n'avons-nous que des individus et des mots pour les ranger ? Le statut de nos concepts, et ce que nos sciences prétendent décrire, en dépend.",
+    "en": "Many things are \"red\", many acts are \"just\": do redness or justice really exist, or do we have only individuals and words to sort them? The status of our concepts, and what our sciences claim to describe, depends on it."
+  },
+  "layer": "THEORY",
+  "type": "BIPOLAR_MEDIAN",
+  "poles": [
+    {
+      "id": "REALISM",
+      "label": {
+        "fr": "Réalisme des universaux",
+        "en": "Realism about universals"
+      },
+      "description": {
+        "fr": "Les propriétés générales existent réellement, et non seulement dans notre esprit : la rougeur ou le cercle sont des réalités que l'on découvre. Reste à savoir si elles existent à part des choses (Platon) ou seulement en elles (Aristote).",
+        "en": "General properties really exist, and not merely in our mind: redness or the circle are realities we discover. It remains open whether they exist apart from things (Plato) or only within them (Aristotle)."
+      },
+      "figures": [
+        {
+          "slug": "plato",
+          "name": { "fr": "Platon", "en": "Plato" }
+        },
+        {
+          "slug": "aristotle",
+          "name": { "fr": "Aristote", "en": "Aristotle" }
+        }
+      ],
+      "nuances": [
+        {
+          "fr": "Réalisme transcendant (Platon : les Idées existent séparées) et réalisme immanent (Aristote : l'universel n'existe que dans les choses singulières) sont deux versions de ce pôle.",
+          "en": "Transcendent realism (Plato: the Forms exist apart) and immanent realism (Aristotle: the universal exists only within particular things) are two versions of this pole."
+        }
+      ]
+    },
+    {
+      "id": "NOMINALISM",
+      "label": {
+        "fr": "Nominalisme",
+        "en": "Nominalism"
+      },
+      "description": {
+        "fr": "Seuls les individus existent. La rougeur n'est rien hors des choses rouges : c'est un nom que nous appliquons à des objets qui se ressemblent. Les universaux sont dans le langage, pas dans le monde.",
+        "en": "Only individuals exist. Redness is nothing apart from red things: it is a name we apply to objects that resemble one another. Universals are in language, not in the world."
+      },
+      "figures": [
+        {
+          "slug": "ockham",
+          "name": { "fr": "Occam", "en": "Ockham" }
+        }
+      ],
+      "nuances": [
+        {
+          "fr": "Occam nie qu'il existe des choses universelles, mais admet des concepts ou signes universels dans l'esprit : le nominalisme n'est pas un simple étiquetage arbitraire.",
+          "en": "Ockham denies that universal things exist, yet admits universal concepts or signs in the mind: nominalism is not mere arbitrary labelling."
+        }
+      ]
+    }
+  ],
+  "medianLabel": {
+    "fr": "Conceptualisme",
+    "en": "Conceptualism"
+  },
+  "medianDescription": {
+    "fr": "Les genres et les espèces n'existent ni comme des réalités en soi, ni comme de simples mots. Ce sont des concepts que l'esprit forme en remarquant les ressemblances entre les choses. L'universel est réel, mais dans la pensée : ni dans le ciel des Idées, ni réduit à un souffle de voix.",
+    "en": "Genera and species exist neither as realities in themselves nor as mere words. They are concepts the mind forms by noticing resemblances among things. The universal is real, but in thought: neither in a heaven of Ideas nor reduced to a breath of the voice."
+  },
+  "core": false,
+  "difficulty": 3,
+  "clusters": [],
+  "relatedAxes": [
+    "ESSENCE",
+    "REALITY_NATURE"
+  ]
+}

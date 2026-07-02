@@ -1,0 +1,623 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "socrates",
+  "name": {
+    "fr": "Socrate",
+    "en": "Socrates"
+  },
+  "tagline": {
+    "fr": "Le philosophe qui n'écrivit rien : interroger sans relâche, tenir la vertu pour un savoir, et n'être sage que de se savoir ignorant.",
+    "en": "The philosopher who wrote nothing: to question relentlessly, hold virtue to be knowledge, and be wise only in knowing oneself ignorant."
+  },
+  "summary": {
+    "fr": "Figure inaugurale de la philosophie occidentale, Athénien du Ve siècle avant notre ère qui n'écrivit rien : on ne le connaît qu'à travers ses disciples, surtout <ph id='plato'>Platon</ph> et <per>Xénophon</per>, la caricature qu'en donna le comique <per>Aristophane</per> et le témoignage d'<ph id='aristotle'>Aristote</ph>, d'où le <pb>problème socratique</pb>, la difficulté de distinguer l'homme de ses portraits. Fils d'un tailleur de pierre et d'une accoucheuse, il délaissa l'étude de la nature pour interroger ses concitoyens sur la vertu, le juste et le beau, déambulant sur l'agora et pratiquant un questionnement serré, l'<c id='elenchos'>elenchos</c>, qui démasquait les fausses certitudes. Accusé d'impiété et de corrompre la jeunesse, il fut condamné à mort par un tribunal athénien et but la ciguë ; sa défense, rapportée par Platon dans l'<w id='apology-plato'>Apologie</w>, en a fait le modèle du philosophe qui meurt pour sa mission. Il inspira directement les petites écoles socratiques, dont les <mv id='cynicism'>cyniques</mv>, et, par Platon, toute la tradition ultérieure.",
+    "en": "The inaugural figure of Western philosophy, a fifth-century-BCE Athenian who wrote nothing: he is known only through his followers, above all <ph id='plato'>Plato</ph> and <per>Xenophon</per>, the caricature drawn by the comic poet <per>Aristophanes</per>, and the testimony of <ph id='aristotle'>Aristotle</ph>, hence the <pb>Socratic problem</pb>, the difficulty of telling the man apart from his portraits. The son of a stonemason and a midwife, he gave up the study of nature to question his fellow citizens about virtue, justice and beauty, wandering the agora and practising a relentless questioning, the <c id='elenchos'>elenchus</c>, that unmasked false certainties. Charged with impiety and corrupting the youth, he was condemned to death by an Athenian court and drank the hemlock; his defence, reported by Plato in the <w id='apology-plato'>Apology</w>, made him the model of the philosopher who dies for his mission. He directly inspired the minor Socratic schools, among them the <mv id='cynicism'>Cynics</mv>, and, through Plato, the entire later tradition."
+  },
+  "birth": -470,
+  "death": -399,
+  "nationality": {
+    "fr": "Grec (Athénien)",
+    "en": "Greek (Athenian)"
+  },
+  "movements": [],
+  "entries": [
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Pour Socrate, le vrai malheur n'est pas de souffrir mais de mal agir : <q>il vaut mieux subir l'injustice que la commettre</q>. Rien d'extérieur ne peut atteindre l'homme de bien dans ce qui fait son bien, son âme ; aussi accueille-t-il l'épreuve, et sa propre condamnation, avec une fermeté qui en désamorce le caractère de mal.",
+          "en": "For Socrates, the true misfortune is not to suffer but to act wrongly: <q>it is better to suffer injustice than to commit it</q>. Nothing external can reach the good man in what makes his good, his soul; so he meets ordeal, and his own condemnation, with a steadiness that defuses its character as evil."
+        },
+        "references": [
+          {
+            "fr": "Gorgias, 469",
+            "en": "Gorgias, 469"
+          },
+          {
+            "fr": "Apologie de Socrate ; Criton",
+            "en": "Apology; Crito"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La démarche socratique tient tout entière dans la question <q>qu'est-ce que… ?</q> : qu'est-ce que le courage, la piété, la justice ? Demander la définition, c'est supposer une essence unique et stable derrière la diversité des cas particuliers, que l'examen doit dégager. Connaître cette nature commune importe plus que d'énumérer des exemples.",
+          "en": "The Socratic procedure lies entirely in the question <q>what is it?</q>: what is courage, piety, justice? To ask for the definition is to presuppose a single, stable essence behind the diversity of particular cases, one that inquiry must bring out. Knowing this common nature matters more than listing examples."
+        },
+        "references": [
+          {
+            "fr": "Platon, Euthyphron",
+            "en": "Plato, Euthyphro"
+          },
+          {
+            "fr": "Platon, Lachès et Ménon",
+            "en": "Plato, Laches and Meno"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.95 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Lors de son procès, Socrate refuse d'abandonner la philosophie même pour sauver sa vie : l'enjeu n'est pas de vivre, mais de bien vivre, et l'on ne peut bien vivre sans <pb>s'interroger sur soi</pb>. L'examen, conduit par l'<c id='elenchos'>elenchos</c>, arrache l'interlocuteur à ses opinions héritées et fait de la <c>connaissance de soi</c>, l'injonction inscrite au fronton du temple de Delphes, la condition d'une vie libre ; une existence non examinée se vit dans l'emprunt et l'illusion.",
+          "en": "At his trial, Socrates refuses to give up philosophy even to save his life: what matters is not living but living well, and one cannot live well without <pb>examining oneself</pb>. The examination, driven by the <c id='elenchos'>elenchus</c>, tears the interlocutor away from inherited opinions and makes <c>self-knowledge</c>, the Delphic injunction, the condition of a free life; an unexamined existence is lived in borrowed views and illusion."
+        },
+        "references": [
+          {
+            "fr": "Platon, Apologie, 38a (une vie sans examen ne vaut pas d'être vécue)",
+            "en": "Plato, Apology, 38a (the unexamined life is not worth living)"
+          },
+          {
+            "fr": "Platon, Apologie, 29d-30a (le philosophe ne cessera pas d'interroger)",
+            "en": "Plato, Apology, 29d-30a (the philosopher will not stop questioning)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Une vie sans examen ne vaut pas la peine d'être vécue.",
+            "en": "The unexamined life is not worth living."
+          },
+          "source": {
+            "fr": "Platon, Apologie de Socrate, 38a",
+            "en": "Plato, Apology, 38a"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.9 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si la vertu est un savoir, la mauvaise action ne peut venir que d'un défaut de savoir : <pb>nul ne se porte volontairement vers ce qu'il tient pour un mal</pb>. Socrate nie ainsi la possibilité de l'<c id='akrasia'>acrasie</c>, la faiblesse de la volonté : ce qu'on prend pour une passion l'emportant sur la raison n'est qu'une erreur de mesure entre les biens. Contre l'idée que le désir ou la colère nous gouvernent, il fait de la connaissance la cause suffisante de l'action droite.",
+          "en": "If virtue is knowledge, wrongdoing can spring only from a failure of knowledge: <pb>no one willingly goes toward what they hold to be evil</pb>. Socrates thus denies the possibility of <c id='akrasia'>akrasia</c>, weakness of will: what looks like a passion overpowering reason is really a miscalculation between goods. Against the idea that desire or anger governs us, he makes knowledge the sufficient cause of right action."
+        },
+        "references": [
+          {
+            "fr": "Platon, Protagoras, 352b-358d (la négation de l'acrasie)",
+            "en": "Plato, Protagoras, 352b-358d (the denial of akrasia)"
+          },
+          {
+            "fr": "Platon, Ménon, 77b-78b (nul ne désire le mal en le sachant tel)",
+            "en": "Plato, Meno, 77b-78b (no one desires evil knowing it as such)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.5 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'oracle de Delphes ayant déclaré que nul n'était plus sage que lui, Socrate, persuadé de ne rien savoir, enquête pour réfuter le dieu, et découvre que les hommes réputés savants ne savent pas davantage mais croient savoir. Sa supériorité tient tout entière à ce qu'il ne se figure pas connaître ce qu'il ignore : cette <c id='socratic-ignorance'>docte ignorance</c> n'est pas un <c id='skepticism'>scepticisme</c> qui renonce au vrai, mais le ressort de l'<c id='elenchos'>elenchos</c>, qui dissout les fausses certitudes pour rouvrir la recherche.",
+          "en": "After the Delphic oracle declared no one wiser than he, Socrates, convinced he knew nothing, set out to refute the god, and found that men reputed wise knew no more than he but believed they did. His superiority lies wholly in not imagining he knows what he does not: this <c id='socratic-ignorance'>learned ignorance</c> is no <c id='skepticism'>skepticism</c> that gives up on truth, but the mainspring of the <c id='elenchos'>elenchus</c>, which dissolves false certainties to reopen the inquiry."
+        },
+        "references": [
+          {
+            "fr": "Platon, Apologie, 20e-23b (l'oracle et l'enquête)",
+            "en": "Plato, Apology, 20e-23b (the oracle and the inquiry)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Ce que je ne sais pas, je ne pense pas non plus le savoir.",
+            "en": "What I do not know, I do not think I know either."
+          },
+          "source": {
+            "fr": "Platon, Apologie, 21d",
+            "en": "Plato, Apology, 21d"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.05, 0.25, 0.7] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Socrate exhorte les Athéniens à ne pas se soucier de leur corps, de leurs biens ni de leur réputation autant que de la perfection de leur <c>âme</c>. Le seul bien véritable est l'excellence de l'âme, la <c>vertu</c> : tout le reste n'a de prix que par elle, la richesse même procédant de la vertu et non l'inverse. Le souverain bien n'est donc ni le plaisir ni la simple réussite d'une vie, mais l'état d'une âme rendue bonne.",
+          "en": "Socrates urges the Athenians to care not for their body, their goods or their reputation as much as for the perfection of their <c>soul</c>. The only true good is the soul's excellence, <c>virtue</c>: everything else has worth only through it, wealth itself proceeding from virtue and not the reverse. The sovereign good is therefore neither pleasure nor a merely successful life, but the state of a soul made good."
+        },
+        "references": [
+          {
+            "fr": "Platon, Apologie, 29d-30b (le soin de l'âme)",
+            "en": "Plato, Apology, 29d-30b (the care of the soul)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Ce n'est pas des richesses que naît la vertu, mais c'est de la vertu que viennent aux hommes les richesses et tous les autres biens.",
+            "en": "It is not from wealth that virtue arises, but from virtue that wealth and every other good come to men."
+          },
+          "source": {
+            "fr": "Platon, Apologie, 30b",
+            "en": "Plato, Apology, 30b"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "UNIVERSALS",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.6 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Quand Socrate demande <q>qu'est-ce que le courage ?</q> ou <q>qu'est-ce que la piété ?</q>, il écarte l'énumération d'exemples et réclame l'unique <c>définition</c> commune à tous les cas. Aristote lui attribue en propre deux choses, les <c>raisonnements inductifs</c> et la définition universelle, tout en notant qu'il ne séparait pas ces universaux des choses, à la différence des Idées subsistantes que Platon ajoutera. Chercher l'essence une derrière le divers, c'est déjà tenir l'universel pour réel.",
+          "en": "When Socrates asks <q>what is courage?</q> or <q>what is piety?</q>, he sets aside the listing of examples and demands the single <c>definition</c> common to every case. Aristotle ascribes two things properly to him, <c>inductive arguments</c> and universal definition, while noting that he did not separate these universals from things, unlike the subsisting Forms Plato would add. To seek the one essence behind the manifold is already to hold the universal to be real."
+        },
+        "references": [
+          {
+            "fr": "Aristote, Métaphysique, M (XIII), 4, 1078b (les définitions universelles)",
+            "en": "Aristotle, Metaphysics, XIII, 4, 1078b (universal definitions)"
+          },
+          {
+            "fr": "Platon, Euthyphron, 5d-6e ; Lachès, 190d-192b (la demande de définition)",
+            "en": "Plato, Euthyphro, 5d-6e; Laches, 190d-192b (the demand for a definition)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.75, 0.15, 0.1] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La demande d'une définition unique du juste ou du courage présuppose que la vertu a une nature, la même pour tous, et non une simple convention variable. Socrate s'oppose ainsi aux <c>sophistes</c> et à leur relativisme, résumé par le mot de Protagoras, <q>l'homme est la mesure de toute chose</q> : si chacun mesure le vrai et le bien à sa guise, l'examen perdrait son objet. Le juste se découvre par la raison, il ne se décrète pas.",
+          "en": "The demand for a single definition of justice or courage presupposes that virtue has a nature, the same for all, and not a mere variable convention. Socrates thereby opposes the <c>sophists</c> and their relativism, summed up in Protagoras' saying, <q>man is the measure of all things</q>: if each measures the true and the good as they please, examination would lose its object. The just is discovered by reason, not decreed."
+        },
+        "references": [
+          {
+            "fr": "Platon, Théétète, 152a et 161c-e (la formule de Protagoras, critiquée)",
+            "en": "Plato, Theaetetus, 152a and 161c-e (Protagoras' formula, criticized)"
+          },
+          {
+            "fr": "Platon, Gorgias, 482e-484c (nature et convention)",
+            "en": "Plato, Gorgias, 482e-484c (nature and convention)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 0.1, 0.9, 0] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le critère de l'agir n'est, pour Socrate, ni le calcul des conséquences ni l'obéissance à une loi, mais l'état de l'âme dont l'acte procède : agir bien, c'est agir depuis une âme excellente. En faisant de la <c>vertu</c> le tout de la moralité et l'objet du soin de soi, il ouvre la tradition de l'<c>éthique des vertus</c> que prolongeront Aristote puis les stoïciens.",
+          "en": "For Socrates the criterion of action is neither the reckoning of consequences nor obedience to a law, but the state of the soul the act proceeds from: to act well is to act from an excellent soul. By making <c>virtue</c> the whole of morality and the object of self-care, he opens the tradition of <c>virtue ethics</c> later carried on by Aristotle and then the Stoics."
+        },
+        "references": [
+          {
+            "fr": "Platon, Apologie, 30a-b ; Criton, 47e-48a (l'âme bonne, seul vrai bien)",
+            "en": "Plato, Apology, 30a-b; Crito, 47e-48a (the good soul, the only true good)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.6 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Accusé d'<pb>impiété</pb>, Socrate répond qu'il croit aux dieux plus que ses accusateurs, et invoque le <c id='daimonion'>daimonion</c>, ce signe divin qui le détourne d'agir mal. Mais sa piété réforme la religion civique : un dieu, étant bon, ne peut être l'auteur d'aucun mal, ce qui condamne les récits homériques de dieux querelleurs et trompeurs. Théisme donc, mais moralisé et rationnel, assez éloigné du culte ordinaire pour qu'on l'ait pris pour de l'incroyance.",
+          "en": "Charged with <pb>impiety</pb>, Socrates replies that he believes in the gods more than his accusers do, and invokes the <c id='daimonion'>daimonion</c>, the divine sign that turns him away from acting wrongly. But his piety reforms civic religion: a god, being good, can be the author of no evil, which condemns the Homeric tales of quarrelsome, deceitful gods. Theism, then, but moralized and rational, remote enough from ordinary worship to have been taken for unbelief."
+        },
+        "references": [
+          {
+            "fr": "Platon, Apologie, 26b-28a, 35d (la croyance aux dieux)",
+            "en": "Plato, Apology, 26b-28a, 35d (belief in the gods)"
+          },
+          {
+            "fr": "Platon, Euthyphron, 6a-c (critique des mythes immoraux)",
+            "en": "Plato, Euthyphro, 6a-c (critique of the immoral myths)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.8, 0.2, 0, 0] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Socrate tient sa vocation d'examiner les hommes pour une <c>mission</c> que le dieu lui a confiée et qu'il ne saurait déserter : il est posté à Athènes comme à un poste de combat qu'on ne quitte pas. Le sens de sa vie lui est donc donné par un ordre divin, et les dieux ne négligent pas l'homme de bien : loin d'un sens construit ou d'un univers absurde, c'est une <c id='providence'>providence</c> qui veille.",
+          "en": "Socrates takes his calling to examine men as a <c>mission</c> entrusted to him by the god, one he cannot desert: he is stationed in Athens as at a post of battle one does not leave. The meaning of his life is thus given by a divine command, and the gods do not neglect the good man: far from a constructed meaning or an absurd universe, a <c id='providence'>providence</c> watches over it."
+        },
+        "references": [
+          {
+            "fr": "Platon, Apologie, 28d-29a (le poste assigné par le dieu)",
+            "en": "Plato, Apology, 28d-29a (the post assigned by the god)"
+          },
+          {
+            "fr": "Platon, Apologie, 41c-d (le soin des dieux pour l'homme de bien)",
+            "en": "Plato, Apology, 41c-d (the gods' care for the good man)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CONTROL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.6 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Devant ses juges, Socrate se déclare serein : on peut le tuer ou le bannir, on ne peut pas lui nuire, car le seul mal réel est de rendre son âme mauvaise, et nul ne le peut à sa place. Les biens extérieurs, le corps, la réputation, la vie même, ne sont pas en notre pouvoir et ne sont pas le vrai bien ; la vertu de l'âme, elle, dépend de nous. Les stoïciens bâtiront sur cette intuition leur <c id='dichotomy-of-control'>dichotomie du contrôle</c>.",
+          "en": "Before his judges, Socrates declares himself serene: they may kill or banish him, they cannot harm him, for the only real evil is to make one's soul bad, and no one can do that in one's stead. External goods, the body, reputation, life itself, are not in our power and are not the true good; the soul's virtue, by contrast, depends on us. The Stoics would build their <c id='dichotomy-of-control'>dichotomy of control</c> on this intuition."
+        },
+        "references": [
+          {
+            "fr": "Platon, Apologie, 30c-d (ils peuvent me tuer, non me nuire)",
+            "en": "Plato, Apology, 30c-d (they can kill me but not harm me)"
+          },
+          { "fr": "Platon, Apologie, 41c-d", "en": "Plato, Apology, 41c-d" }
+        ],
+        "quote": {
+          "text": {
+            "fr": "On peut me tuer, me bannir, me priver de mes droits : Anytos et Mélétos le peuvent, mais me nuire, non.",
+            "en": "They may kill me, banish me, strip me of my rights: Anytus and Meletus can do that, but harm me they cannot."
+          },
+          "source": {
+            "fr": "Platon, Apologie, 30c-d",
+            "en": "Plato, Apology, 30c-d"
+          }
+        },
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.5, 0, 0.5, 0] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Craindre la mort, dit Socrate, c'est <pb>se croire savant sans l'être</pb>, car nul ne sait si elle est un mal. De deux choses l'une : ou bien elle est un sommeil sans rêve, et c'est un gain, ou bien elle est un voyage de l'<c>âme</c> vers les morts, et c'est un bonheur ; dans les deux cas l'homme de bien n'a rien à redouter. La démonstration de l'immortalité viendra de Platon ; chez Socrate, la position reste suspendue entre ces deux espérances.",
+          "en": "To fear death, says Socrates, is to <pb>think oneself wise when one is not</pb>, for no one knows whether it is an evil. It is one of two things: either a dreamless sleep, and so a gain, or a journey of the <c>soul</c> to the dead, and so a blessing; in both cases the good man has nothing to fear. The proof of immortality will come from Plato; in Socrates the position stays suspended between these two hopes."
+        },
+        "references": [
+          {
+            "fr": "Platon, Apologie, 40c-41c (les deux hypothèses sur la mort)",
+            "en": "Plato, Apology, 40c-41c (the two hypotheses about death)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Craindre la mort n'est rien d'autre que se croire savant sans l'être, c'est croire savoir ce qu'on ne sait pas.",
+            "en": "To fear death is nothing other than to think oneself wise when one is not, to think one knows what one does not know."
+          },
+          "source": {
+            "fr": "Platon, Apologie, 29a",
+            "en": "Plato, Apology, 29a"
+          }
+        },
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.45 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Socrate ne cherche pas le vrai dans l'observation de la nature, dont il s'est détourné, mais dans l'examen réglé des <c id='logos'>raisons</c> : on part des opinions de l'interlocuteur et l'on suit l'argument là où il mène, jusqu'à la contradiction ou l'accord. C'est la raison en dialogue, non l'expérience sensible, qui conduit à la <c>définition</c> ; mais rien chez lui de la doctrine des <c id='innate-ideas'>idées innées</c> ou de la réminiscence, que Platon ajoutera.",
+          "en": "Socrates seeks the true not in the observation of nature, from which he has turned away, but in the regulated examination of <c id='logos'>reasons</c>: one starts from the interlocutor's opinions and follows the argument wherever it leads, to contradiction or to agreement. It is reason in dialogue, not sense experience, that yields the <c>definition</c>; yet there is nothing in him of the doctrine of <c id='innate-ideas'>innate ideas</c> or recollection, which Plato will add."
+        },
+        "references": [
+          {
+            "fr": "Platon, Phédon, 96a-99d (le détournement de la physique)",
+            "en": "Plato, Phaedo, 96a-99d (the turn away from natural science)"
+          },
+          {
+            "fr": "Cicéron, Tusculanes, V, 4, 10 (Socrate fit descendre la philosophie du ciel)",
+            "en": "Cicero, Tusculan Disputations, V, 4, 10 (Socrates brought philosophy down from the heavens)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.1, 0.5, 0.4] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Maître de ses appétits, capable de supporter le froid, la faim et le vin sans y céder, Socrate incarne l'<c>enkrateia</c>, la maîtrise de soi par la raison. Il ne supprime pas le désir comme le feront les ascètes, et ne le célèbre pas : il le soumet au tri de la raison, ne tenant pour bon que ce qui sert l'âme. Le besoin réduit est pour lui une force, non une privation.",
+          "en": "Master of his appetites, able to bear cold, hunger and wine without giving in, Socrates embodies <c>enkrateia</c>, self-mastery through reason. He neither abolishes desire as the ascetics will, nor celebrates it: he submits it to reason's sorting, holding good only what serves the soul. Reduced need is for him a strength, not a deprivation."
+        },
+        "references": [
+          {
+            "fr": "Xénophon, Mémorables, I, 2-3 ; I, 5 (la maîtrise de soi)",
+            "en": "Xenophon, Memorabilia, I, 2-3; I, 5 (self-mastery)"
+          },
+          {
+            "fr": "Platon, Banquet, 219b-220a (Socrate insensible au froid et au vin)",
+            "en": "Plato, Symposium, 219b-220a (Socrates impervious to cold and wine)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "BODILY_PLEASURES",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.1 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Indifférent au luxe, allant pieds nus et vêtu du même manteau en toute saison, Socrate ne condamne pas pour autant le plaisir : il festoie au <w id='symposium-plato'>Banquet</w> et peut boire toute la nuit sans ivresse. Sa sobriété n'est pas l'<c>ascétisme</c> qui tient le corps pour un ennemi, mais une <c>tempérance</c> qui use de tout sans en être l'esclave.",
+          "en": "Indifferent to luxury, going barefoot and wearing the same cloak in every season, Socrates does not for all that condemn pleasure: he feasts at the <w id='symposium-plato'>Symposium</w> and can drink all night without drunkenness. His sobriety is not the <c>asceticism</c> that takes the body for an enemy, but a <c>temperance</c> that uses everything without being its slave."
+        },
+        "references": [
+          {
+            "fr": "Platon, Banquet, 220a et 223c-d",
+            "en": "Plato, Symposium, 220a and 223c-d"
+          },
+          {
+            "fr": "Xénophon, Mémorables, I, 3, 5-15",
+            "en": "Xenophon, Memorabilia, I, 3, 5-15"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "AUTHORITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.35 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Dans le <w id='crito-plato'>Criton</w>, condamné injustement, Socrate refuse pourtant de s'évader : ayant vécu toute sa vie sous les lois d'Athènes et accepté leurs bienfaits, il leur doit obéissance, et leur désobéir pour se sauver serait commettre à son tour une injustice et ruiner la cité. Mais cette déférence a une limite ferme : il obéira au dieu plutôt qu'aux juges s'ils lui ordonnent de cesser de philosopher, et il a déjà refusé un ordre inique, celui d'arrêter <per>Léon de Salamine</per>.",
+          "en": "In the <w id='crito-plato'>Crito</w>, though unjustly condemned, Socrates refuses to escape: having lived his whole life under Athens' laws and accepted their benefits, he owes them obedience, and to disobey them in order to save himself would be to commit an injustice in turn and to ruin the city. Yet this deference has a firm limit: he will obey the god rather than the judges if they order him to stop philosophizing, and he has already refused an iniquitous order, that to arrest <per>Leon of Salamis</per>."
+        },
+        "references": [
+          {
+            "fr": "Platon, Criton, 50a-54d (le discours des Lois)",
+            "en": "Plato, Crito, 50a-54d (the speech of the Laws)"
+          },
+          {
+            "fr": "Platon, Apologie, 29d, 32c-d (obéir au dieu ; le refus d'arrêter Léon)",
+            "en": "Plato, Apology, 29d, 32c-d (obeying the god; the refusal to arrest Leon)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "WHO_DECIDES",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.6 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "On ne tire pas au sort le pilote d'un navire ni le médecin d'un malade : gouverner est de même un <c>savoir</c>, un art qui réclame la connaissance du bien, non l'affaire de tous indifféremment. De là la critique socratique du choix des magistrats par le sort à Athènes et de la compétence supposée du grand nombre. Platon en tirera le gouvernement des philosophes ; chez Socrate, c'est d'abord l'exigence que décide celui qui sait.",
+          "en": "One does not choose a ship's pilot or a sick man's doctor by lot: ruling is likewise a form of <c>knowledge</c>, a craft requiring knowledge of the good, not everyone's business indifferently. Hence the Socratic critique of selecting magistrates by lot at Athens and of the supposed competence of the many. Plato will draw from it the rule of philosophers; in Socrates it is first the demand that the one who knows should decide."
+        },
+        "references": [
+          {
+            "fr": "Xénophon, Mémorables, I, 2, 9 ; III, 9 (l'art de gouverner, le tirage au sort)",
+            "en": "Xenophon, Memorabilia, I, 2, 9; III, 9 (the art of ruling, selection by lot)"
+          },
+          {
+            "fr": "Platon, Gorgias, 455b-456a ; Criton, 47a-48a (l'analogie de l'expert)",
+            "en": "Plato, Gorgias, 455b-456a; Crito, 47a-48a (the expert analogy)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "PUNISHMENT",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 0, 0.85, 0.15] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Si la faute est ignorance, le coupable est moins un méchant qu'un malade de l'âme, et le châtiment doit le guérir, non lui rendre le mal pour le mal. Subir une juste peine est même un bien, puisqu'elle délivre l'âme de l'injustice qui la gâte ; punir pour se venger ne corrige rien. La sanction vaut comme <c>soin</c> et redressement, ce qui range Socrate du côté d'une justice réhabilitatrice.",
+          "en": "If wrongdoing is ignorance, the guilty party is less a villain than someone sick in soul, and punishment should cure rather than return evil for evil. To undergo a just penalty is even a good, since it frees the soul from the injustice that spoils it; punishing for revenge corrects nothing. The sanction counts as <c>care</c> and correction, placing Socrates on the side of a rehabilitative justice."
+        },
+        "references": [
+          {
+            "fr": "Platon, Gorgias, 476a-481b (le châtiment qui guérit l'âme)",
+            "en": "Plato, Gorgias, 476a-481b (punishment that heals the soul)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HUMAN_VISION",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.3 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'intellectualisme moral entraîne une vision plutôt optimiste de l'homme : si l'on ne fait le mal que par ignorance, personne n'est méchant par nature, et tout homme peut être amélioré par le savoir. Le vice n'est pas une perversité indéracinable mais un défaut de connaissance, ce qui rend l'homme <c>éducable</c> et fait de l'examen une thérapeutique de l'âme.",
+          "en": "Moral intellectualism entails a fairly optimistic view of humankind: if we do evil only through ignorance, no one is bad by nature, and every person can be improved by knowledge. Vice is not an ineradicable wickedness but a failure of knowledge, which makes the human being <c>educable</c> and turns examination into a therapy of the soul."
+        },
+        "references": [
+          {
+            "fr": "Platon, Protagoras, 345d-e ; Ménon, 87b-89a (la vertu, savoir qui s'acquiert)",
+            "en": "Plato, Protagoras, 345d-e; Meno, 87b-89a (virtue, an acquirable knowledge)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "AESTHETIC_LIFE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.5 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Ce qui décide de la valeur d'une vie est, pour Socrate, la bonté de l'âme et non l'éclat des apparences : laid comme un silène mais beau au-dedans, il juge un homme sur sa vertu, non sur son allure. Le beau n'est pas pour autant méprisé : dans le <w id='symposium-plato'>Banquet</w>, l'amour des beaux corps est le premier degré d'une montée qui, de beauté en beauté, s'élève jusqu'au Beau puis au Bien. Mais cette dialectique de l'élévation, où l'<c>éros</c> sensible n'est qu'un échelon vers l'intelligible, est déjà l'œuvre de Platon ; le <c>primat de l'éthique</c> demeure, le beau ne valant que comme chemin vers le bon.",
+          "en": "What decides the worth of a life is, for Socrates, the goodness of the soul and not the brilliance of appearances: ugly as a Silenus but beautiful within, he judges a man by his virtue, not by his looks. Beauty is not thereby despised: in the <w id='symposium-plato'>Symposium</w>, the love of beautiful bodies is the first rung of an ascent that, from beauty to beauty, rises to the Beautiful and then to the Good. But this dialectic of ascent, where sensible <c>eros</c> is only a step toward the intelligible, is already Plato's work; the <c>primacy of the ethical</c> remains, the beautiful being worth only as a path toward the good."
+        },
+        "references": [
+          {
+            "fr": "Platon, Apologie, 29d-30b (la vertu avant la réputation)",
+            "en": "Plato, Apology, 29d-30b (virtue before reputation)"
+          },
+          {
+            "fr": "Platon, Banquet, 210a-212a (l'ascension d'éros, des beaux corps au Beau)",
+            "en": "Plato, Symposium, 210a-212a (the ascent of eros, from beautiful bodies to Beauty itself)"
+          },
+          {
+            "fr": "Platon, Banquet, 215a-216a (Socrate-silène, la beauté du dedans)",
+            "en": "Plato, Symposium, 215a-216a (Socrates as Silenus, inner beauty)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CAUSALITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.2, 0.7, 0.1] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Déçu par les physiciens qui expliquent tout par des causes matérielles, Socrate raconte avoir espéré d'<ph>Anaxagore</ph> que l'Intelligence ordonnât le monde selon le meilleur, puis l'avoir trouvé n'invoquant que des mécanismes. Ce qu'il réclame, c'est l'explication par le <c>bien</c>, la fin en vue de laquelle il vaut mieux que les choses soient ainsi : un <c>finalisme</c> qui détourne la philosophie de la nature vers la valeur.",
+          "en": "Disappointed by the natural philosophers who explain everything by material causes, Socrates recounts having hoped from <ph>Anaxagoras</ph> that Mind ordered the world for the best, then finding him invoking only mechanisms. What he demands is explanation by the <c>good</c>, the end for the sake of which it is better that things be as they are: a <c>finalism</c> that turns philosophy away from nature toward value."
+        },
+        "references": [
+          {
+            "fr": "Platon, Phédon, 97b-99d (la déception devant Anaxagore)",
+            "en": "Plato, Phaedo, 97b-99d (the disappointment with Anaxagoras)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "INTERIORITY",
+      "thesis": {
+        "fr": "Une vie sans examen ne vaut pas la peine d'être vécue : se connaître et interroger sans relâche ses opinions est la tâche propre de l'homme.",
+        "en": "The unexamined life is not worth living: to know oneself and ceaselessly question one's opinions is the proper task of a human being."
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "thesis": {
+        "fr": "Nul n'est méchant volontairement : toute faute est une ignorance, car qui connaît vraiment le bien ne peut pas ne pas le faire.",
+        "en": "No one does wrong willingly: every fault is a form of ignorance, for whoever truly knows the good cannot fail to do it."
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "thesis": {
+        "fr": "Le seul savoir qui me distingue, c'est de savoir que je ne sais rien : reconnaître son ignorance est le commencement de la sagesse.",
+        "en": "The only knowledge that sets me apart is knowing that I know nothing: to recognize one's ignorance is the beginning of wisdom."
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "thesis": {
+        "fr": "Prends soin de ton âme avant tes richesses et ta réputation : rien ne vaut pour l'homme l'excellence de l'âme, et la vertu est le souverain bien.",
+        "en": "Care for your soul before your wealth and your reputation: nothing matters to a person more than the soul's excellence, and virtue is the sovereign good."
+      }
+    },
+    {
+      "axisId": "UNIVERSALS",
+      "thesis": {
+        "fr": "Savoir ce qu'est le courage ou la justice, c'est en trouver la définition unique, la même pour tous les cas : non des exemples, mais l'essence cherchée par la raison.",
+        "en": "To know what courage or justice is means finding its single definition, the same across all cases: not examples, but the essence sought by reason."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

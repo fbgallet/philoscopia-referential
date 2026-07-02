@@ -1,0 +1,13 @@
+{
+  "id": "tanha",
+  "term": { "fr": "Taṇhā (soif, avidité)", "en": "Taṇhā (craving, thirst)" },
+  "definition": {
+    "fr": "Taṇhā, littéralement la « soif », est l'avidité qui pousse à courir après le plaisir, l'existence ou même l'anéantissement. Elle constitue la deuxième des <c id='four-noble-truths'>Quatre Nobles Vérités</c> : la cause de la <c id='dukkha'>souffrance</c>, car c'est l'attachement avide qui enchaîne au cycle des renaissances. Pour <ph id='buddha'>le Bouddha</ph>, éteindre cette soif, et non la combler, est la voie de la libération.",
+    "en": "Taṇhā, literally \"thirst,\" is the craving that drives us to chase pleasure, existence, or even annihilation. It is the second of the <c id='four-noble-truths'>Four Noble Truths</c>: the cause of <c id='dukkha'>suffering</c>, for it is greedy attachment that binds us to the cycle of rebirth. For <ph id='buddha'>the Buddha</ph>, extinguishing this thirst, rather than satisfying it, is the path to liberation."
+  },
+  "relatedAxes": ["DESIRE"],
+  "relatedTerms": ["four-noble-truths", "dukkha", "nirvana"],
+  "figure": { "slug": "buddha", "name": { "fr": "Le Bouddha", "en": "The Buddha" } },
+  "positions": [{ "axisId": "DESIRE", "poleId": "DETACHMENT" }],
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "determinism-retributivism",
+  "kind": "T_V",
+  "a": { "axisId": "FREEDOM", "predicate": { "kind": "scalarRange", "min": 0.5, "max": 1 } },
+  "b": { "axisId": "PUNISHMENT", "predicate": { "kind": "minPoleWeight", "poleId": "RETRIBUTIVISM", "min": 0.5 } },
+  "explanation": {
+    "fr": "Si nos actes sont entièrement déterminés, nul n'en est vraiment l'auteur libre ; or punir pour « donner ce qui est mérité » suppose précisément cette responsabilité. Tenir les deux ensemble crée une tension : le rétributivisme réclame un mérite que le déterminisme strict retire.",
+    "en": "If our acts are fully determined, no one is truly their free author; yet punishing to “give what is deserved” presupposes exactly that responsibility. Holding both creates a tension: retributivism demands a desert that strict determinism removes."
+  },
+  "updatedAt": "2026-06-18T00:00:00.000Z"
+}

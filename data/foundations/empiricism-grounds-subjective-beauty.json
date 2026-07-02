@@ -1,0 +1,12 @@
+{
+  "id": "empiricism-grounds-subjective-beauty",
+  "ground": { "axisId": "KNOWLEDGE_SOURCE", "poleId": "EMPIRICISM" },
+  "grounded": { "axisId": "BEAUTY", "poleId": "SUBJECTIVE_BEAUTY" },
+  "kind": "T_T",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si toute connaissance vient de l'expérience sensible, la beauté n'est pas une propriété des choses mais le plaisir qu'elles éveillent en nous. L'empirisme fonde le beau subjectif : <ph id='hume'>Hume</ph> tient que la beauté n'est pas une qualité des choses mêmes, mais un sentiment dans l'esprit qui les contemple.",
+    "en": "If all knowledge comes from sense experience, beauty is not a property of things but the pleasure they arouse in us. Empiricism grounds subjective beauty: <ph id='hume'>Hume</ph> holds that beauty is no quality in things themselves, but a sentiment in the mind that contemplates them."
+  },
+  "updatedAt": "2026-06-22T00:00:00.000Z"
+}

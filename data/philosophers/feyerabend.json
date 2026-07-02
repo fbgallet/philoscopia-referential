@@ -1,0 +1,16 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "feyerabend",
+  "name": { "fr": "Feyerabend", "en": "Feyerabend" },
+  "summary": {
+    "fr": "Philosophe des sciences autrichien : « contre la méthode », il conteste l'existence d'une procédure unique de la connaissance et défend un pluralisme épistémique.",
+    "en": "Austrian philosopher of science: \"against method\", he disputes the existence of a single procedure of knowledge and defends an epistemic pluralism."
+  },
+  "nationality": { "fr": "Autrichien", "en": "Austrian" },
+  "birth": 1924,
+  "death": 1994,
+  "movements": [],
+  "updatedAt": "2026-06-22T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "hui-shi-to-zhuangzi",
+  "from": { "kind": "PHILOSOPHER", "slug": "hui-shi" },
+  "to": { "kind": "PHILOSOPHER", "slug": "zhuangzi" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Ami et principal contradicteur de <ph id='zhuangzi'>Zhuangzi</ph>, <ph id='hui-shi'>Hui Shi</ph> lui fournit, par ses paradoxes de l'École des Noms, la matière logique que Zhuangzi retourne en une pensée du relatif et de l'équivalence des points de vue.",
+    "en": "Friend and chief sparring partner of <ph id='zhuangzi'>Zhuangzi</ph>, <ph id='hui-shi'>Hui Shi</ph> supplies, through his paradoxes of the School of Names, the logical material that Zhuangzi turns into a philosophy of the relative and of the equivalence of viewpoints."
+  },
+  "sources": [
+    { "fr": "Zhuangzi, chapitre « Sous le ciel » et dialogues", "en": "Zhuangzi, chapter \"All Under Heaven\" and the dialogues" }
+  ],
+  "updatedAt": "2026-07-02T00:00:00.000Z"
+}

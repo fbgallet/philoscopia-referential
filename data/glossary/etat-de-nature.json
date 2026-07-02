@@ -1,0 +1,11 @@
+{
+  "id": "etat-de-nature",
+  "term": { "fr": "L'état de nature", "en": "The state of nature" },
+  "definition": {
+    "fr": "L'état de nature est la condition hypothétique de l'humanité avant ou sans société politique, dont les théoriciens du contrat se servent pour penser la légitimité du pouvoir. Sa figure varie selon les auteurs : pour <ph id='hobbes'>Hobbes</ph>, c'est une « guerre de tous contre tous » qui rend l'État absolu nécessaire ; pour <ph id='locke'>Locke</ph>, un état régi par une loi naturelle mais privé de juge impartial ; pour <ph id='rousseau'>Rousseau</ph>, un état paisible où l'homme solitaire, mû par l'amour de soi et la <c id='pitie'>pitié</c>, est naturellement bon, et que seule la société corrompt. Selon ce qu'on y place, on en tire des conclusions opposées sur l'homme et sur l'État.",
+    "en": "The state of nature is the hypothetical condition of humanity before or without political society, used by contract theorists to think the legitimacy of power. Its figure varies by author: for <ph id='hobbes'>Hobbes</ph> it is a « war of all against all » that makes the absolute state necessary; for <ph id='locke'>Locke</ph>, a state governed by a natural law but lacking an impartial judge; for <ph id='rousseau'>Rousseau</ph>, a peaceful state in which solitary man, moved by self-love and <c id='pitie'>pity</c>, is naturally good, and which only society corrupts. Depending on what one places there, one draws opposite conclusions about man and the state."
+  },
+  "relatedAxes": ["SOCIAL_CONTRACT", "HUMAN_VISION", "RIGHTS_NATURE"],
+  "relatedTerms": ["volonte-generale", "amour-de-soi-et-amour-propre"],
+  "updatedAt": "2026-06-25T00:00:00.000Z"
+}

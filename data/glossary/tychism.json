@@ -1,0 +1,12 @@
+{
+  "id": "tychism",
+  "term": { "fr": "Tychisme", "en": "Tychism" },
+  "definition": {
+    "fr": "Thèse de <ph id='peirce'>Peirce</ph> (du grec tuchē, le hasard) selon laquelle le hasard est une réalité objective opérant dans la nature, et non une simple mesure de notre ignorance. Les lois de la nature ne sont pas des contraintes rigides données d'avance : ce sont des habitudes qui se sont formées et se renforcent au cours d'une évolution, à partir d'une spontanéité première. Contre le mécanisme strict, le tychisme rend au monde une part d'indétermination et de croissance.",
+    "en": "<ph id='peirce'>Peirce</ph>'s thesis (from the Greek tuchē, chance) that chance is an objective reality operating in nature, not merely a measure of our ignorance. The laws of nature are not rigid constraints given in advance: they are habits that have formed and grown firmer in the course of an evolution, out of a primordial spontaneity. Against strict mechanism, tychism restores to the world a share of indeterminacy and growth."
+  },
+  "relatedAxes": ["CAUSALITY", "REDUCTION_EMERGENCE"],
+  "relatedTerms": ["synechism"],
+  "figure": { "slug": "peirce", "name": { "fr": "Peirce", "en": "Peirce" } },
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

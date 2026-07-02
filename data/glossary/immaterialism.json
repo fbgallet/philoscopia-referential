@@ -1,0 +1,13 @@
+{
+  "id": "immaterialism",
+  "term": { "fr": "Immatérialisme", "en": "Immaterialism" },
+  "definition": {
+    "fr": "L'immatérialisme est la thèse de <ph id='berkeley'>Berkeley</ph> selon laquelle il n'existe aucune <c>matière</c> indépendante de l'esprit : ce que nous appelons les corps n'est qu'une collection réglée d'idées sensibles, et seuls existent vraiment les esprits qui les perçoivent et les idées qu'ils ont. Loin de nier le monde, Berkeley prétend le sauver du <pb>scepticisme</pb> en supprimant le voile d'une matière inconnaissable interposée entre nous et lui. C'est la forme la plus radicale de l'<ax id='REALITY_NATURE' pole='IDEALISM'>idéalisme</ax>, où exister se ramène à <c id='esse-est-percipi'>être perçu</c>.",
+    "en": "Immaterialism is <ph id='berkeley'>Berkeley</ph>'s thesis that there is no mind-independent <c>matter</c>: what we call bodies is only an ordered collection of sensible ideas, and the only things that truly exist are the minds that perceive them and the ideas they have. Far from denying the world, Berkeley claims to save it from <pb>scepticism</pb> by removing the veil of an unknowable matter set between us and it. It is the most radical form of <ax id='REALITY_NATURE' pole='IDEALISM'>idealism</ax>, in which to exist comes down to <c id='esse-est-percipi'>being perceived</c>."
+  },
+  "relatedAxes": ["REALITY_NATURE"],
+  "relatedTerms": ["esse-est-percipi", "immanence", "transcendence"],
+  "figure": { "slug": "berkeley", "name": { "fr": "Berkeley", "en": "Berkeley" } },
+  "positions": [{ "axisId": "REALITY_NATURE", "poleId": "IDEALISM" }],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

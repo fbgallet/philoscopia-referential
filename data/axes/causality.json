@@ -1,0 +1,106 @@
+{
+  "id": "CAUSALITY",
+  "relation": "WORLD",
+  "territory": "NATURE_LIVING",
+  "label": {
+    "fr": "Explication de la nature",
+    "en": "Explaining nature"
+  },
+  "question": {
+    "fr": "Comment faut-il expliquer les phénomènes naturels : par des mécanismes, des finalités ou un élan vital ?",
+    "en": "How should natural phenomena be explained: by mechanisms, by purposes, or by a vital impulse?"
+  },
+  "stakes": {
+    "fr": "Selon qu'on y voit des causes aveugles, des fins poursuivies ou une vie qui se déploie, la nature devient une mécanique sans projet ou un monde qui tend vers quelque chose. Derrière la méthode d'explication, c'est la présence ou l'absence de sens dans le vivant qui se décide.",
+    "en": "Depending on whether we see blind causes, ends being pursued, or a life unfolding, nature becomes a mechanism with no purpose or a world reaching toward something. Behind the method of explanation, what is decided is the presence or absence of meaning in the living world."
+  },
+  "layer": "THEORY",
+  "type": "TRIANGULAR",
+  "poles": [
+    {
+      "id": "MECHANISM",
+      "label": {
+        "fr": "Mécanisme",
+        "en": "Mechanism"
+      },
+      "description": {
+        "fr": "La nature s'explique entièrement par des causes matérielles et des lois du mouvement, comme une immense machine. Les vivants eux-mêmes sont des mécanismes complexes, sans qu'il faille invoquer des fins ou des forces mystérieuses.",
+        "en": "Nature is fully explained by material causes and laws of motion, like an immense machine. Living beings themselves are complex mechanisms, with no need to invoke purposes or mysterious forces."
+      },
+      "figures": [
+        {
+          "slug": "descartes",
+          "name": {
+            "fr": "Descartes",
+            "en": "Descartes"
+          }
+        },
+        {
+          "slug": "la-mettrie",
+          "name": {
+            "fr": "La Mettrie",
+            "en": "La Mettrie"
+          }
+        }
+      ]
+    },
+    {
+      "id": "FINALISM",
+      "label": {
+        "fr": "Finalisme",
+        "en": "Finalism"
+      },
+      "description": {
+        "fr": "On ne comprend pleinement un phénomène naturel qu'en saisissant ce en vue de quoi il se produit : l'organe a une fonction, l'organisme tend vers sa forme accomplie. La nature est ordonnée par des fins, et pas seulement poussée par des causes.",
+        "en": "A natural phenomenon is fully understood only by grasping what it occurs for: the organ has a function, the organism tends toward its completed form. Nature is ordered by ends, not merely pushed by causes."
+      },
+      "figures": [
+        {
+          "slug": "aristotle",
+          "name": {
+            "fr": "Aristote",
+            "en": "Aristotle"
+          }
+        },
+        {
+          "slug": "leibniz",
+          "name": {
+            "fr": "Leibniz",
+            "en": "Leibniz"
+          }
+        }
+      ]
+    },
+    {
+      "id": "VITALISM",
+      "label": {
+        "fr": "Vitalisme",
+        "en": "Vitalism"
+      },
+      "description": {
+        "fr": "La vie ne se laisse réduire ni à la mécanique ni à un plan préétabli : elle est un élan créateur, imprévisible, qui invente des formes nouvelles. Comprendre le vivant exige une autre approche que celle des sciences physiques.",
+        "en": "Life cannot be reduced either to mechanics or to a pre-established plan: it is a creative, unpredictable impulse that invents new forms. Understanding the living requires a different approach from that of the physical sciences."
+      },
+      "figures": [
+        {
+          "slug": "bergson",
+          "name": {
+            "fr": "Bergson",
+            "en": "Bergson"
+          }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 2,
+  "clusters": [
+    "SCIENTIFIC_NATURALISM"
+  ],
+  "relatedAxes": [
+    "FREEDOM",
+    "REALITY_NATURE",
+    "REDUCTION_EMERGENCE",
+    "KNOWLEDGE_SOURCE"
+  ]
+}

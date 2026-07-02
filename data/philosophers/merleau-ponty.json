@@ -1,0 +1,16 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "merleau-ponty",
+  "name": { "fr": "Merleau-Ponty", "en": "Merleau-Ponty" },
+  "summary": {
+    "fr": "Philosophe français, figure de la phénoménologie : il pense le « corps propre » comme sujet de la perception et foyer de notre présence au monde.",
+    "en": "French philosopher, a leading figure of phenomenology: he thinks the \"lived body\" as the subject of perception and the locus of our presence to the world."
+  },
+  "nationality": { "fr": "Français", "en": "French" },
+  "birth": 1908,
+  "death": 1961,
+  "movements": ["phenomenology"],
+  "updatedAt": "2026-06-21T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

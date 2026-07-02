@@ -1,0 +1,85 @@
+{
+  "id": "COSMIC_OUTLOOK",
+  "relation": "SELF",
+  "territory": "EXISTENCE",
+  "label": {
+    "fr": "Tonalité du réel",
+    "en": "Tonality of reality"
+  },
+  "question": {
+    "fr": "Le monde est-il fondamentalement bon ou marqué par le tragique ?",
+    "en": "Is the world fundamentally good, or marked by the tragic?"
+  },
+  "stakes": {
+    "fr": "La même existence peut se lire comme un don digne de confiance ou comme une lutte sans réconciliation finale, et cette teinte de fond colore d'avance nos joies comme nos malheurs. Se positionner, c'est dire si l'espérance est lucidité ou aveuglement.",
+    "en": "The same existence can be read as a gift worthy of trust or as a struggle with no final reconciliation, and this background hue colours our joys and misfortunes in advance. To take a position is to say whether hope is lucidity or blindness."
+  },
+  "layer": "THEORY",
+  "type": "BIPOLAR",
+  "poles": [
+    {
+      "id": "METAPHYSICAL_OPTIMISM",
+      "label": {
+        "fr": "Optimisme métaphysique",
+        "en": "Metaphysical optimism"
+      },
+      "description": {
+        "fr": "Le réel est fondamentalement ordonné et orienté vers le bien : le mal n'est qu'une ombre locale dans un tableau d'ensemble harmonieux ou en progrès. Même les épreuves de l'histoire participent d'une rationalité qui les dépasse.",
+        "en": "Reality is fundamentally ordered and oriented toward the good: evil is only a local shadow within a harmonious or progressing whole. Even the trials of history take part in a rationality that surpasses them."
+      },
+      "figures": [
+        {
+          "slug": "leibniz",
+          "name": {
+            "fr": "Leibniz",
+            "en": "Leibniz"
+          }
+        },
+        {
+          "slug": "hegel",
+          "name": {
+            "fr": "Hegel",
+            "en": "Hegel"
+          }
+        }
+      ]
+    },
+    {
+      "id": "TRAGIC_THOUGHT",
+      "label": {
+        "fr": "Pensée tragique",
+        "en": "Tragic thought"
+      },
+      "description": {
+        "fr": "Le monde n'est ni rationnel ni bienveillant : la souffrance, le conflit et le non-sens sont au cœur de l'existence et aucune harmonie finale ne viendra les racheter. La lucidité commande de regarder ce fond tragique en face plutôt que de l'embellir.",
+        "en": "The world is neither rational nor benevolent: suffering, conflict and meaninglessness lie at the heart of existence, and no final harmony will redeem them. Lucidity demands facing this tragic ground rather than embellishing it."
+      },
+      "figures": [
+        {
+          "slug": "schopenhauer",
+          "name": {
+            "fr": "Schopenhauer",
+            "en": "Schopenhauer"
+          }
+        },
+        {
+          "slug": "camus",
+          "name": {
+            "fr": "Camus",
+            "en": "Camus"
+          }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 2,
+  "clusters": [],
+  "relatedAxes": [
+    "PROBLEM_OF_EVIL",
+    "HOPE",
+    "LIFE_MEANING",
+    "SUFFERING_MEANING",
+    "GOD_EXISTENCE"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "arendt",
+  "stub": true,
+  "name": {
+    "fr": "Hannah Arendt",
+    "en": "Hannah Arendt"
+  },
+  "summary": {
+    "fr": "Philosophe politique, qui fit du pardon et de la promesse les remèdes à l'irréversibilité et à l'imprévisibilité de l'action humaine, et analysa la « banalité du mal ».",
+    "en": "Political philosopher who made forgiveness and promising the remedies for the irreversibility and unpredictability of human action, and analysed the \"banality of evil\"."
+  },
+  "birth": 1906,
+  "death": 1975,
+  "nationality": {
+    "fr": "Américaine d'origine allemande",
+    "en": "German-born American"
+  },
+  "movements": [],
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

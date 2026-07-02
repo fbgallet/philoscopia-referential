@@ -1,0 +1,23 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "nagel",
+  "stub": true,
+  "name": {
+    "fr": "Thomas Nagel",
+    "en": "Thomas Nagel"
+  },
+  "summary": {
+    "fr": "Philosophe analytique américain, connu pour ses analyses de la subjectivité (« Quel effet cela fait-il d'être une chauve-souris ? »), de la chance morale, et du conflit entre point de vue personnel et point de vue impersonnel, sur la mort comme sur le sens et la justice.",
+    "en": "American analytic philosopher, known for his work on subjectivity (\"What is it like to be a bat?\"), moral luck, and the clash between the personal and the impersonal standpoints, on death as on meaning and justice."
+  },
+  "birth": 1937,
+  "nationality": {
+    "fr": "Américain",
+    "en": "American"
+  },
+  "movements": [],
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

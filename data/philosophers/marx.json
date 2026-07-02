@@ -1,0 +1,1182 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "marx",
+  "name": {
+    "fr": "Marx",
+    "en": "Marx"
+  },
+  "fullName": {
+    "fr": "Karl Marx",
+    "en": "Karl Marx"
+  },
+  "tagline": {
+    "fr": "<q>Les philosophes n'ont fait qu'interpréter le monde, il s'agit de le transformer.</q>",
+    "en": "<q>The philosophers have only interpreted the world; the point is to change it.</q>"
+  },
+  "summary": {
+    "fr": "Philosophe et économiste allemand du XIXe siècle, formé à l'école de <ph id='hegel'>Hegel</ph> qu'il rejoint d'abord parmi les jeunes hégéliens avant de rompre avec eux. Exilé à Paris puis à Londres après l'échec des révolutions de 1848, il mène sa <pb>critique de l'économie politique</pb> en lecteur des économistes anglais (Smith, Ricardo) et compagnon de lutte d'Engels, avec qui il rédige le <w>Manifeste du Parti communiste</w>. Son œuvre maîtresse, <w>Le Capital</w>, dont il ne publie de son vivant que le premier livre, ausculte les rouages du capitalisme là où ses prédécesseurs n'en décrivaient que la surface. Animateur de la Première Internationale, il meurt sans avoir vu triompher la révolution qu'il annonçait, mais sa pensée façonnera une part décisive de la politique, des sciences sociales et de la philosophie du XXe siècle.",
+    "en": "A nineteenth-century German philosopher and economist, trained in the school of <ph id='hegel'>Hegel</ph>, whose Young Hegelian circle he first joined before breaking with it. Exiled to Paris and then to London after the failed revolutions of 1848, he pursued his <pb>critique of political economy</pb> as a reader of the English economists (Smith, Ricardo) and a comrade-in-arms of Engels, with whom he wrote the <w>Communist Manifesto</w>. His major work, <w>Capital</w>, of which he published only the first volume in his lifetime, probes the inner workings of capitalism where his predecessors had described only its surface. An organiser of the First International, he died without seeing the revolution he foretold, yet his thought would shape a decisive part of twentieth-century politics, social science and philosophy."
+  },
+  "birth": 1818,
+  "death": 1883,
+  "nationality": {
+    "fr": "Allemand",
+    "en": "German"
+  },
+  "movements": [
+    "marxism"
+  ],
+  "entries": [
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Marx tient la souffrance des opprimés pour un mal social, produit de l'exploitation et de l'aliénation, et non pour une fatalité ou une épreuve à sanctifier. La religion qui la console est <q>l'opium du peuple</q>, voile posé sur une misère bien réelle. La tâche n'est pas de donner sens à la souffrance mais de l'abolir en transformant les conditions qui la produisent.",
+          "en": "Marx holds the suffering of the oppressed to be a social evil, the product of exploitation and alienation, not a fatality or an ordeal to be sanctified. The religion that consoles it is <q>the opium of the people</q>, a veil laid over a very real misery. The task is not to give suffering a meaning but to abolish it by transforming the conditions that produce it."
+        },
+        "references": [
+          {
+            "fr": "Critique de la philosophie du droit de Hegel, Introduction",
+            "en": "Critique of Hegel's Philosophy of Right, Introduction"
+          },
+          {
+            "fr": "Manuscrits de 1844",
+            "en": "Economic and Philosophic Manuscripts of 1844"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.2,
+          0.75,
+          0.05,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Marx récuse toute providence : le sens n'est pas inscrit dans un ordre cosmique, il s'élabore dans l'histoire par l'activité humaine. C'est dans le travail non aliéné, la transformation du monde et le projet collectif d'émancipation que l'existence trouve sa signification. Une direction immanente traverse bien l'histoire, mais elle est l'œuvre des hommes, non le dessein d'une instance qui les dépasse.",
+          "en": "Marx rejects all providence: meaning is not inscribed in a cosmic order, it is worked out in history through human activity. It is in unalienated labor, the transformation of the world and the collective project of emancipation that existence finds its significance. An immanent direction does run through history, but it is the work of human beings, not the design of an instance that surpasses them."
+        },
+        "references": [
+          {
+            "fr": "Manuscrits de 1844",
+            "en": "Economic and Philosophic Manuscripts of 1844"
+          },
+          {
+            "fr": "L'Idéologie allemande",
+            "en": "The German Ideology"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0.8,
+          0.1
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Pour Marx, la vie bonne n'est ni la quête du plaisir ni l'observance d'une vertu, mais le plein épanouissement de l'homme : le libre déploiement de ses puissances et de ses besoins, l'activité créatrice non aliénée. La richesse véritable est celle d'individus développés de façon universelle, ce que seule une société débarrassée de l'exploitation rend possible.",
+          "en": "For Marx, the good life is neither the pursuit of pleasure nor the observance of a virtue, but the full flourishing of the human being: the free unfolding of one's powers and needs, unalienated creative activity. True wealth is that of universally developed individuals, which only a society freed from exploitation makes possible."
+        },
+        "references": [
+          {
+            "fr": "Manuscrits de 1844",
+            "en": "Economic and Philosophic Manuscripts of 1844"
+          },
+          {
+            "fr": "Grundrisse",
+            "en": "Grundrisse"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.55,
+          0.4,
+          0.05
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Marx ne prêche ni ascèse ni simple consommation : il dénonce l'appauvrissement des besoins sous le capitalisme, qui rabat l'ouvrier sur la survie et fait de l'avoir le seul désir. L'émancipation vise au contraire le libre développement des besoins et des puissances humaines, l'individu riche de désirs multiples et cultivés, une affirmation du désir comme richesse à conquérir collectivement.",
+          "en": "Marx preaches neither asceticism nor mere consumption: he denounces the impoverishment of needs under capitalism, which reduces the worker to survival and makes having the only desire. Emancipation aims instead at the free development of human needs and powers, the individual rich in manifold, cultivated desires, an affirmation of desire as a wealth to be won collectively."
+        },
+        "references": [
+          {
+            "fr": "Manuscrits de 1844",
+            "en": "Economic and Philosophic Manuscripts of 1844"
+          },
+          {
+            "fr": "Grundrisse",
+            "en": "Grundrisse"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.5
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Marx récuse l'idée d'une essence humaine fixe et a-historique : ce que sont les hommes change avec leur mode de production. La nature humaine n'est pas une abstraction logée en chaque individu mais le précipité de rapports sociaux historiquement déterminés ; elle est un produit de l'histoire, non un donné antérieur à accomplir.",
+          "en": "Marx rejects the idea of a fixed, ahistorical human essence: what human beings are changes with their mode of production. Human nature is not an abstraction lodged in each individual but the precipitate of historically determined social relations; it is a product of history, not a given prior to be fulfilled."
+        },
+        "references": [
+          {
+            "fr": "Thèses sur Feuerbach, VI",
+            "en": "Theses on Feuerbach, VI"
+          },
+          {
+            "fr": "L'Idéologie allemande, I",
+            "en": "The German Ideology, I"
+          }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "L'essence humaine n'est pas une abstraction inhérente à l'individu isolé. Dans sa réalité, elle est l'ensemble des rapports sociaux.",
+            "en": "The human essence is no abstraction inherent in the isolated individual. In its reality it is the ensemble of social relations."
+          },
+          "source": {
+            "fr": "Thèses sur Feuerbach, VI",
+            "en": "Theses on Feuerbach, VI"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Contre l'idéalisme qui fait dériver le réel des idées, Marx ancre la connaissance dans les conditions matérielles et l'activité sociale : on part de ce que les hommes font et produisent, non de ce qu'ils s'imaginent. Mais il refuse aussi l'empirisme contemplatif de l'ancien matérialisme, qui reçoit passivement le donné sensible : connaître est une <c id='praxis'>praxis</c>, un rapport actif et transformateur au monde. La source reste du côté de l'expérience, mais réélaborée par la pratique plutôt que par la raison pure.",
+          "en": "Against the idealism that derives the real from ideas, Marx roots knowledge in material conditions and social activity: one starts from what human beings do and produce, not from what they imagine. Yet he also rejects the contemplative empiricism of the old materialism, which passively receives the sensory given: to know is a <c id='praxis'>praxis</c>, an active and transforming relation to the world. The source stays on the side of experience, but reworked through practice rather than through pure reason."
+        },
+        "references": [
+          {
+            "fr": "Thèses sur Feuerbach, I et V",
+            "en": "Theses on Feuerbach, I and V"
+          },
+          {
+            "fr": "L'Idéologie allemande, I",
+            "en": "The German Ideology, I"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Contre l'idéalisme spéculatif comme contre le socialisme utopique, Marx revendique pour son analyse du capital le statut d'une <c>science</c> dégageant les lois objectives du mouvement social : une connaissance certaine du réel historique est atteignable. Savoir si la pensée atteint le réel n'est d'ailleurs pas une question théorique mais pratique, elle se vérifie dans la <c id='praxis'>praxis</c>, en transformant le monde. Le doute n'est donc pas une demeure mais une étape que la pratique lève, ce qui éloigne nettement Marx du <c id='skepticism'>scepticisme</c> et de la résignation contemplative.",
+          "en": "Against speculative idealism as much as against utopian socialism, Marx claims for his analysis of capital the standing of a <c>science</c> uncovering the objective laws of social movement: a certain knowledge of historical reality is attainable. Whether thought reaches the real is, moreover, not a theoretical question but a practical one, settled in <c id='praxis'>praxis</c>, by transforming the world. Doubt is therefore no dwelling but a stage that practice lifts, which sets Marx clearly apart from <c id='skepticism'>skepticism</c> and contemplative resignation."
+        },
+        "references": [
+          {
+            "fr": "Thèses sur Feuerbach, II et XI",
+            "en": "Theses on Feuerbach, II and XI"
+          },
+          {
+            "fr": "Le Capital, Postface à la deuxième édition",
+            "en": "Capital, Afterword to the Second Edition"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HISTORY_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si l'on cherche le moteur de l'histoire, ce n'est ni la Providence ni la marche des idées qu'il faut interroger mais une contradiction interne aux sociétés : les <c>forces productives</c> que les hommes développent finissent par entrer en conflit avec les <c>rapports de production</c> hérités, et ce heurt, vécu comme <c>lutte des classes</c>, fait passer d'un <c>mode de production</c> au suivant. Marx en tire une <ax id='HISTORY_MEANING'>direction</ax> du féodalisme au capitalisme puis au communisme, non garantie par un dessein mais dégagée par l'analyse des conditions matérielles, ce qui le sépare aussi bien de la théodicée de l'histoire chez <ph id='hegel'>Hegel</ph> que des récits providentiels : d'où une lecture fortement directionnelle, sans téléologie transcendante.",
+          "en": "If one seeks the engine of history, it is neither Providence nor the march of ideas that must be questioned but a contradiction internal to societies: the <c>productive forces</c> that men develop eventually clash with the inherited <c>relations of production</c>, and this collision, lived as <c>class struggle</c>, carries one <c>mode of production</c> over into the next. Marx draws from this a <ax id='HISTORY_MEANING'>direction</ax> from feudalism through capitalism to communism, guaranteed by no design but extracted from the analysis of material conditions, which sets him apart both from <ph id='hegel'>Hegel</ph>'s theodicy of history and from providential narratives: hence a strongly directional reading, with no transcendent teleology."
+        },
+        "references": [
+          {
+            "fr": "Manifeste du Parti communiste, ch. 1",
+            "en": "Manifesto of the Communist Party, ch. 1"
+          },
+          {
+            "fr": "Préface à la Contribution à la critique de l'économie politique (1859)",
+            "en": "Preface to A Contribution to the Critique of Political Economy (1859)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "L'histoire de toute société jusqu'à nos jours n'a été que l'histoire de luttes de classes.",
+            "en": "The history of all hitherto existing society is the history of class struggles."
+          },
+          "source": {
+            "fr": "Manifeste du Parti communiste, 1848",
+            "en": "Manifesto of the Communist Party, 1848"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DISTRIBUTIVE_JUSTICE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -1
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La <c>propriété privée</c> des moyens de production n'est pas, pour Marx, un droit naturel mais le ressort même de l'<c>exploitation</c> : c'est elle qui permet de capter le surtravail de l'ouvrier, si bien que la justice distributive ne s'obtient pas en partageant mieux dans ce cadre mais en abolissant ce cadre. Il refuse pourtant d'ériger l'égalité abstraite en idéal : un droit qui mesure tous les hommes à la même aune reste un droit inégal, car les besoins diffèrent. Le communisme achevé fonde donc la répartition sur le besoin, par-delà l'horizon du droit lui-même, ce qui en fait un <ax id='DISTRIBUTIVE_JUSTICE'>égalitarisme</ax> radical opposé à toute légitimation du mérite ou du marché.",
+          "en": "For Marx, <c>private property</c> in the means of production is no natural right but the very lever of <c>exploitation</c>: it is what allows the worker's surplus labour to be captured, so that distributive justice is won not by sharing better within that framework but by abolishing the framework. Yet he refuses to enshrine abstract equality as an ideal: a right that measures all men by the same standard remains an unequal right, since needs differ. Full communism therefore grounds distribution on need, beyond the horizon of right itself, which makes it a radical <ax id='DISTRIBUTIVE_JUSTICE'>egalitarianism</ax> opposed to any legitimation of merit or of the market."
+        },
+        "references": [
+          {
+            "fr": "Critique du programme de Gotha (1875)",
+            "en": "Critique of the Gotha Programme (1875)"
+          },
+          {
+            "fr": "Manifeste du Parti communiste, ch. 2 (abolition de la propriété privée)",
+            "en": "Manifesto of the Communist Party, ch. 2 (abolition of private property)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "De chacun selon ses capacités, à chacun selon ses besoins.",
+            "en": "From each according to his ability, to each according to his needs."
+          },
+          "source": {
+            "fr": "Critique du programme de Gotha",
+            "en": "Critique of the Gotha Programme"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "WORK_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.3,
+          0.6,
+          0.1
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le travail est par essence l'acte par lequel l'homme s'objective et se reconnaît dans ce qu'il produit : c'est cette définition positive qui rend mesurable sa perversion. Or, dès lors que le produit appartient à un autre et que l'ouvrier vend sa force comme une marchandise, ce qui devait l'accomplir le mutile : Marx décompose cette <c>aliénation</c> en quatre dépossessions, du produit, de l'acte même de produire, de l'essence générique de l'homme, et d'autrui. Contre les économistes qui prennent ce rapport pour un fait naturel et contre <ph>Feuerbach</ph> qui n'en voyait que la version religieuse, il l'enracine dans la <c>propriété privée</c> et les rapports de production : le poids dominant va donc à l'<ax id='WORK_MEANING'>aliénation</ax> comme vérité du travail présent, l'accomplissement restant l'horizon d'un travail libéré.",
+          "en": "Labour is in essence the act by which man objectifies himself and recognises himself in what he produces: it is this positive definition that makes its perversion measurable. Yet once the product belongs to another and the worker sells his labour-power as a commodity, what ought to fulfil him maims him: Marx breaks this <c>alienation</c> into four dispossessions, of the product, of the act of producing itself, of man's species-essence, and of other men. Against the economists who take this relation for a natural fact and against <ph>Feuerbach</ph>, who saw only its religious version, he roots it in <c>private property</c> and the relations of production: the dominant weight therefore goes to <ax id='WORK_MEANING'>alienation</ax> as the truth of present labour, fulfilment remaining the horizon of emancipated labour."
+        },
+        "references": [
+          {
+            "fr": "Manuscrits de 1844, premier manuscrit (le travail aliéné)",
+            "en": "1844 Manuscripts, first manuscript (alienated labour)"
+          },
+          {
+            "fr": "Le Capital, livre I, sur le <c>travail abstrait</c> et le <c>fétichisme</c>",
+            "en": "Capital, vol. I, on <c>abstract labour</c> and the <c>fetishism</c> of commodities"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Le travailleur ne s'affirme donc pas dans son travail, mais s'y nie ; ne s'y sent pas à l'aise, mais malheureux.",
+            "en": "The worker therefore does not affirm himself in his labour but denies himself; does not feel content but unhappy."
+          },
+          "source": {
+            "fr": "Manuscrits de 1844",
+            "en": "1844 Manuscripts"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CONSERVATISM_PROGRESSISM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 1
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Marx ne réclame pas une réforme graduelle mais un renversement <c>révolutionnaire</c> de l'ordre social : le prolétariat doit abattre l'État bourgeois et abolir les rapports de production existants : c'est un <ax id='CONSERVATISM_PROGRESSISM'>progressisme</ax> radical, hostile à toute conservation de l'ordre établi.",
+          "en": "Marx calls not for gradual reform but for a <c>revolutionary</c> overturning of the social order: the proletariat must overthrow the bourgeois state and abolish existing relations of production: a radical <ax id='CONSERVATISM_PROGRESSISM'>progressivism</ax>, hostile to any conservation of the established order."
+        },
+        "references": [
+          {
+            "fr": "Manifeste du Parti communiste, conclusion",
+            "en": "Manifesto of the Communist Party, conclusion"
+          },
+          {
+            "fr": "Thèses sur Feuerbach, XI (transformer le monde)",
+            "en": "Theses on Feuerbach, XI (changing the world)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Les prolétaires n'ont rien à y perdre que leurs chaînes. Ils ont un monde à y gagner.",
+            "en": "The proletarians have nothing to lose but their chains. They have a world to win."
+          },
+          "source": {
+            "fr": "Manifeste du Parti communiste, 1848",
+            "en": "Manifesto of the Communist Party, 1848"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.9,
+          0.05,
+          0.05
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si l'on veut expliquer une époque, il faut partir non de ce qu'elle dit d'elle-même mais de la manière dont les hommes produisent leur vie matérielle : c'est cette inversion de l'ordre explicatif qui commande tout. Là où <ph id='hegel'>Hegel</ph> faisait de l'<ax id='REALITY_NATURE'>Esprit</ax> le sujet réel de l'histoire et des conditions concrètes ses simples manifestations, Marx déclare retourner la dialectique, qui marchait sur la tête, et la remettre <q>sur ses pieds</q> : l'<c>être social</c>, l'ensemble des rapports de production, forme la base réelle dont les idées, le droit et la religion sont la superstructure. Ce <c>matérialisme</c> n'est pourtant pas le mécanisme contemplatif des matérialistes antérieurs, qu'il leur reproche d'oublier l'activité humaine, d'où un poids écrasant au matérialisme avec une part résiduelle.",
+          "en": "To explain an age, one must start not from what it says of itself but from how men produce their material life: it is this reversal of the order of explanation that governs everything. Where <ph id='hegel'>Hegel</ph> made <ax id='REALITY_NATURE'>Spirit</ax> the real subject of history and concrete conditions its mere manifestations, Marx claims to turn the dialectic, standing on its head, the right way up, <q>on its feet</q>: <c>social being</c>, the totality of the relations of production, is the real base of which ideas, law and religion are the superstructure. Yet this <c>materialism</c> is not the contemplative mechanism of earlier materialists, whom he faults precisely for ignoring human activity, hence an overwhelming weight to materialism with a residual share."
+        },
+        "references": [
+          {
+            "fr": "Le Capital, livre I, postface à la 2e édition (la dialectique remise sur ses pieds)",
+            "en": "Capital, vol. I, afterword to the 2nd edition (the dialectic set on its feet)"
+          },
+          {
+            "fr": "L'Idéologie allemande, I (la conception matérialiste de l'histoire)",
+            "en": "The German Ideology, I (the materialist conception of history)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HUMAN_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Chercher l'essence de l'homme dans l'individu pris à part, comme une propriété qu'il porterait en lui, c'est déjà commettre l'erreur de <ph>Feuerbach</ph> : on prête à la nature ce qui est l'effet d'une histoire. Marx déplace donc le siège de l'humain hors de l'individu, dans le réseau des rapports sociaux où il est pris ; l'homme se distingue de l'animal dès qu'il produit ses moyens d'existence, et change avec les conditions qu'il produit. La conséquence est polémique : il n'y a pas de nature humaine éternelle à invoquer contre le changement social, d'où une position fortement <ax id='HUMAN_NATURE'>culturaliste</ax>, sans renier la dimension naturelle de l'être producteur.",
+          "en": "To seek the essence of man in the individual taken apart, as a property he would carry within him, is already to commit <ph>Feuerbach</ph>'s error: one ascribes to nature what is the effect of a history. Marx therefore shifts the seat of the human outside the individual, into the web of social relations in which he is caught; man distinguishes himself from the animal as soon as he produces his means of subsistence, and changes with the conditions he produces. The consequence is polemical: there is no eternal human nature to invoke against social change, hence a strongly <ax id='HUMAN_NATURE'>culturalist</ax> stance, without denying the natural dimension of the producing being."
+        },
+        "references": [
+          {
+            "fr": "Thèses sur Feuerbach, VI",
+            "en": "Theses on Feuerbach, VI"
+          },
+          {
+            "fr": "L'Idéologie allemande, I (les hommes se distinguent dès qu'ils produisent leurs moyens d'existence)",
+            "en": "The German Ideology, I (men distinguish themselves as soon as they produce their means of subsistence)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "L'essence humaine n'est pas une abstraction inhérente à l'individu isolé. Dans sa réalité, elle est l'ensemble des rapports sociaux.",
+            "en": "The human essence is no abstraction inherent in each single individual. In its reality it is the ensemble of the social relations."
+          },
+          "source": {
+            "fr": "Thèses sur Feuerbach, VI",
+            "en": "Theses on Feuerbach, VI"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 1
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La religion est une production humaine et une illusion, l'opium du peuple, à la fois protestation contre la misère réelle et consolation qui la perpétue. La critique de la religion, achevée par <ph>Feuerbach</ph> puis ramenée par Marx à ses racines sociales, est le présupposé de toute critique : un <ax id='GOD_EXISTENCE'>athéisme</ax> assumé, qui veut dissiper le ciel pour transformer la terre.",
+          "en": "Religion is a human production and an illusion, the opium of the people, at once a protest against real misery and a consolation that perpetuates it. The critique of religion, completed by <ph>Feuerbach</ph> and then traced by Marx to its social roots, is the presupposition of all critique: an avowed <ax id='GOD_EXISTENCE'>atheism</ax> that would dispel heaven in order to transform earth."
+        },
+        "references": [
+          {
+            "fr": "Contribution à la critique de la philosophie du droit de Hegel, introduction (1844)",
+            "en": "Contribution to the Critique of Hegel's Philosophy of Right, introduction (1844)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "La religion est le soupir de la créature accablée, l'âme d'un monde sans cœur, l'esprit d'une époque sans esprit. Elle est l'opium du peuple.",
+            "en": "Religion is the sigh of the oppressed creature, the heart of a heartless world, the soul of soulless conditions. It is the opium of the people."
+          },
+          "source": {
+            "fr": "Critique de la philosophie du droit de Hegel, 1844",
+            "en": "Critique of Hegel's Philosophy of Right, 1844"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "INDIVIDUAL_SOCIETY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Pour Marx, l'individu isolé des économistes classiques est une fiction : on ne comprend les hommes qu'à partir des rapports sociaux et des classes auxquels ils appartiennent. La conscience, les besoins, jusqu'aux idées, sont déterminés par l'<c>être social</c> : une position fortement <ax id='INDIVIDUAL_SOCIETY'>holiste</ax>, où le tout social prime sur l'individu pensé à part.",
+          "en": "For Marx the isolated individual of the classical economists is a fiction: men are intelligible only through the social relations and classes to which they belong. Consciousness, needs, even ideas are determined by <c>social being</c>: a strongly <ax id='INDIVIDUAL_SOCIETY'>holist</ax> stance, in which the social whole has primacy over the individual considered apart."
+        },
+        "references": [
+          {
+            "fr": "Préface à la Contribution à la critique de l'économie politique (1859)",
+            "en": "Preface to A Contribution to the Critique of Political Economy (1859)"
+          },
+          {
+            "fr": "Grundrisse, introduction (critique de l'individu isolé de Robinson)",
+            "en": "Grundrisse, introduction (critique of the isolated Robinson Crusoe individual)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Ce n'est pas la conscience des hommes qui détermine leur être ; c'est inversement leur être social qui détermine leur conscience.",
+            "en": "It is not the consciousness of men that determines their being, but, on the contrary, their social being that determines their consciousness."
+          },
+          "source": {
+            "fr": "Préface à la Critique de l'économie politique, 1859",
+            "en": "Preface to the Critique of Political Economy, 1859"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Toute la critique marxienne ramène les figures de l'au-delà, Dieu, l'État hégélien, les idées éternelles, à des projections de conditions terrestres : il n'y a pas d'<c>arrière-monde</c> à réaliser mais ce monde-ci à transformer. Le salut n'est pas attendu d'un ordre transcendant mais d'une action immanente à l'histoire, d'où une nette <ax id='TRANSCENDENCE'>immanence</ax>.",
+          "en": "The whole of Marx's critique brings the figures of the beyond, God, the Hegelian state, eternal ideas, back to projections of earthly conditions: there is no <c>backworld</c> to realise but this world to transform. Salvation is awaited not from a transcendent order but from action immanent to history, hence a marked <ax id='TRANSCENDENCE'>immanence</ax>."
+        },
+        "references": [
+          {
+            "fr": "Thèses sur Feuerbach, IV (renvoyer le monde religieux à sa base terrestre)",
+            "en": "Theses on Feuerbach, IV (resolving the religious world into its earthly basis)"
+          },
+          {
+            "fr": "Contribution à la critique de la philosophie du droit de Hegel, introduction",
+            "en": "Contribution to the Critique of Hegel's Philosophy of Right, introduction"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Tant que l'on tient la conscience pour le lieu où l'homme se rapporte à lui-même, le matérialisme de <ph>Feuerbach</ph> reste contemplatif : il saisit le réel comme objet à intérioriser, jamais comme activité à exercer. Marx renverse ce primat : c'est dans la <c id='praxis'>praxis</c>, l'activité sensible qui transforme le monde et l'homme du même geste, que se joue et se prouve ce que je suis, non dans un retour réflexif sur soi. L'examen intérieur, coupé de l'action, n'est qu'une <c>idéologie</c> de plus, et la philosophie qui s'y enferme manque sa tâche : d'où une primauté résolue de l'action sur l'introspection.",
+          "en": "So long as consciousness is held to be the place where man relates to himself, <ph>Feuerbach</ph>'s materialism stays contemplative: it grasps the real as an object to be internalised, never as an activity to be exercised. Marx overturns this primacy: it is in <c id='praxis'>praxis</c>, the sensuous activity that transforms world and man in a single gesture, that what I am is enacted and proved, not in a reflexive turn upon oneself. Inner examination cut off from action is but one more <c>ideology</c>, and the philosophy that shuts itself within it misses its task: hence a resolute primacy of action over introspection."
+        },
+        "references": [
+          {
+            "fr": "Thèses sur Feuerbach, XI",
+            "en": "Theses on Feuerbach, XI"
+          },
+          {
+            "fr": "Thèses sur Feuerbach, II (la vérité comme question pratique)",
+            "en": "Theses on Feuerbach, II (truth as a practical question)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Les philosophes n'ont fait qu'interpréter le monde de diverses manières ; ce qui importe, c'est de le transformer.",
+            "en": "The philosophers have only interpreted the world in various ways; the point, however, is to change it."
+          },
+          "source": {
+            "fr": "Thèses sur Feuerbach, XI",
+            "en": "Theses on Feuerbach, XI"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TECHNOLOGY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le développement des <c>forces productives</c>, machines comprises, est le moteur de l'histoire et la condition matérielle de l'émancipation : la grande industrie crée les moyens d'une société d'abondance. Mais sous le capitalisme la machine asservit l'ouvrier et intensifie son exploitation. Marx n'est donc ni technophobe ni naïvement optimiste : la technique est libératrice selon les rapports sociaux qui la commandent, d'où une position d'optimisme nuancé.",
+          "en": "The development of the <c>productive forces</c>, machinery included, is the motor of history and the material condition of emancipation: large-scale industry creates the means of a society of abundance. Yet under capitalism the machine enslaves the worker and intensifies his exploitation. Marx is thus neither technophobic nor naively optimistic: technology liberates according to the social relations that command it, hence a nuanced optimism."
+        },
+        "references": [
+          {
+            "fr": "Le Capital, livre I, ch. 15 (machinisme et grande industrie)",
+            "en": "Capital, vol. I, ch. 15 (machinery and large-scale industry)"
+          },
+          {
+            "fr": "Manifeste du Parti communiste, ch. 1 (le rôle révolutionnaire de la bourgeoisie et de l'industrie)",
+            "en": "Manifesto of the Communist Party, ch. 1 (the revolutionary role of the bourgeoisie and of industry)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.4
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Les conditions matérielles déterminent l'action des hommes, mais sans les en rendre simples jouets, car les hommes font leur propre histoire sans la faire arbitrairement, dans des conditions qu'ils n'ont pas choisies. Cette articulation de la <c id='determinism'>détermination</c> sociale et de l'action transformatrice penche du côté du déterminisme, sans verser dans le fatalisme : la liberté est la maîtrise collective des conditions, non le <c id='free-will'>libre arbitre</c> abstrait.",
+          "en": "Material conditions determine men's action without making them mere playthings, for men make their own history yet do not make it as they please, under circumstances they have not chosen. This articulation of social <c id='determinism'>determination</c> and transformative action leans toward determinism without lapsing into fatalism: freedom is the collective mastery of conditions, not abstract <c id='free-will'>free will</c>."
+        },
+        "references": [
+          {
+            "fr": "Le 18 Brumaire de Louis Bonaparte (1852)",
+            "en": "The Eighteenth Brumaire of Louis Bonaparte (1852)"
+          },
+          {
+            "fr": "L'Idéologie allemande, I (les circonstances font les hommes autant que les hommes font les circonstances)",
+            "en": "The German Ideology, I (circumstances make men as much as men make circumstances)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Les hommes font leur propre histoire, mais ils ne la font pas arbitrairement, dans des conditions choisies par eux, mais dans des conditions directement données et héritées du passé.",
+            "en": "Men make their own history, but they do not make it as they please; they do not make it under self-selected circumstances, but under circumstances directly given and inherited from the past."
+          },
+          "source": {
+            "fr": "Le 18 Brumaire de Louis Bonaparte",
+            "en": "The Eighteenth Brumaire of Louis Bonaparte"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_STATUS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Les idées dominantes d'une époque sont les idées de la classe dominante : la pensée juridique, morale et religieuse est une <c>idéologie</c>, un reflet inversé des rapports de production qui masque les intérêts de classe sous l'apparence de vérités universelles. Le savoir social est donc largement construit par les positions matérielles, d'où une nette pente <ax id='KNOWLEDGE_STATUS'>constructiviste</ax>, même si Marx revendique pour sa propre analyse une scientificité.",
+          "en": "The ruling ideas of an age are the ideas of the ruling class: legal, moral and religious thought is <c>ideology</c>, an inverted reflection of the relations of production that masks class interests under the guise of universal truths. Social knowledge is thus largely constructed by material positions, hence a marked <ax id='KNOWLEDGE_STATUS'>constructivist</ax> leaning, even though Marx claims a scientific status for his own analysis."
+        },
+        "references": [
+          {
+            "fr": "L'Idéologie allemande, I (les idées dominantes sont les idées de la classe dominante)",
+            "en": "The German Ideology, I (the ruling ideas are the ideas of the ruling class)"
+          },
+          {
+            "fr": "Préface à la Contribution à la critique de l'économie politique (base et superstructure)",
+            "en": "Preface to A Contribution to the Critique of Political Economy (base and superstructure)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Les pensées de la classe dominante sont aussi, à toutes les époques, les pensées dominantes.",
+            "en": "The ideas of the ruling class are in every epoch the ruling ideas."
+          },
+          "source": {
+            "fr": "L'Idéologie allemande",
+            "en": "The German Ideology"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "AUTHORITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'État est conçu comme un instrument de domination de classe, un comité qui gère les affaires communes de la classe bourgeoise ; après la <c>dictature du prolétariat</c> transitoire, l'État est appelé à <c>dépérir</c> dans la société sans classes. L'horizon est donc l'extinction du pouvoir coercitif, ce qui penche vers le pôle anarchiste, sans rejoindre l'anarchisme qui veut abolir l'État sans phase de transition.",
+          "en": "The state is conceived as an instrument of class domination, a committee for managing the common affairs of the bourgeoisie; after the transitional <c>dictatorship of the proletariat</c>, the state is meant to <c>wither away</c> in the classless society. The horizon is thus the extinction of coercive power, leaning toward the anarchist pole, without joining the anarchism that would abolish the state with no transitional phase."
+        },
+        "references": [
+          {
+            "fr": "Manifeste du Parti communiste, ch. 1 (l'État, comité de la bourgeoisie)",
+            "en": "Manifesto of the Communist Party, ch. 1 (the state as committee of the bourgeoisie)"
+          },
+          {
+            "fr": "Critique du programme de Gotha (dépérissement de l'État)",
+            "en": "Critique of the Gotha Programme (withering away of the state)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Le pouvoir politique moderne n'est que le comité qui gère les affaires communes de la classe bourgeoise tout entière.",
+            "en": "The modern state power is but a committee for managing the common affairs of the whole bourgeoisie."
+          },
+          "source": {
+            "fr": "Manifeste du Parti communiste, 1848",
+            "en": "Manifesto of the Communist Party, 1848"
+          }
+        },
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "POLITICAL_IDEAL",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.2
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Marx se veut un <c>socialiste scientifique</c> et raille les <c>socialismes utopiques</c> qui dessinent des cités idéales sans analyser les forces réelles : le communisme n'est pas un idéal à instaurer mais le mouvement réel qui abolit l'état actuel des choses. Cet ancrage dans l'analyse des rapports de force matériels tire vers le réalisme politique, même si la fin visée, la société sans classes, garde une charge utopique.",
+          "en": "Marx claims to be a <c>scientific socialist</c> and mocks the <c>utopian socialisms</c> that sketch ideal cities without analysing real forces: communism is not an ideal to be established but the real movement which abolishes the present state of things. This grounding in the analysis of material power relations pulls toward political realism, even if the goal, the classless society, retains a utopian charge."
+        },
+        "references": [
+          {
+            "fr": "L'Idéologie allemande, I (le communisme, mouvement réel)",
+            "en": "The German Ideology, I (communism as the real movement)"
+          },
+          {
+            "fr": "Manifeste du Parti communiste, ch. 3 (critique des socialismes utopiques)",
+            "en": "Manifesto of the Communist Party, ch. 3 (critique of utopian socialisms)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Le communisme n'est pas pour nous un état qui doit être créé, un idéal sur lequel la réalité devra se régler. Nous appelons communisme le mouvement réel qui abolit l'état actuel.",
+            "en": "Communism is for us not a state of affairs which is to be established, an ideal to which reality will have to adjust itself. We call communism the real movement which abolishes the present state of things."
+          },
+          "source": {
+            "fr": "L'Idéologie allemande, 1846",
+            "en": "The German Ideology, 1846"
+          }
+        },
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "WHO_DECIDES",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'émancipation des travailleurs doit être l'œuvre des travailleurs eux-mêmes : le pouvoir doit revenir aux producteurs associés, non à des experts ou à une élite gouvernante. L'éloge marxien de la <c>Commune de Paris</c>, mandats révocables et fusion du législatif et de l'exécutif, dessine une démocratie directe du peuple en armes, d'où une nette pente vers la démocratie radicale.",
+          "en": "The emancipation of the workers must be the work of the workers themselves: power must return to the associated producers, not to experts or a governing elite. Marx's praise of the <c>Paris Commune</c>, with recallable mandates and the fusion of legislative and executive, sketches a direct democracy of the armed people, hence a marked leaning toward radical democracy."
+        },
+        "references": [
+          {
+            "fr": "La Guerre civile en France (1871), sur la Commune de Paris",
+            "en": "The Civil War in France (1871), on the Paris Commune"
+          },
+          {
+            "fr": "Statuts de l'Association internationale des travailleurs (l'émancipation des travailleurs sera l'œuvre des travailleurs eux-mêmes)",
+            "en": "Rules of the International Workingmen's Association (the emancipation of the workers must be the work of the workers themselves)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.15,
+          0.25,
+          0.6
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La morale fait partie de la superstructure idéologique : le droit, la justice et la morale d'une époque expriment les rapports de production et varient avec eux, si bien qu'il n'y a pas de norme morale éternelle planant au-dessus de l'histoire. Cette historicisation des valeurs, qui les rapporte aux conditions matérielles plutôt qu'à un fondement universel, relève surtout d'un <ax id='MORAL_SCOPE'>constructivisme</ax> historique, avec une part de relativisme de classe.",
+          "en": "Morality belongs to the ideological superstructure: the law, justice and morality of an age express the relations of production and vary with them, so that no eternal moral norm hovers above history. This historicisation of values, referring them to material conditions rather than to a universal foundation, is above all a historical <ax id='MORAL_SCOPE'>constructivism</ax>, with a share of class relativism."
+        },
+        "references": [
+          {
+            "fr": "Manifeste du Parti communiste, ch. 2 (les idées morales comme produits des rapports de production)",
+            "en": "Manifesto of the Communist Party, ch. 2 (moral ideas as products of the relations of production)"
+          },
+          {
+            "fr": "L'Idéologie allemande, I (morale, religion et métaphysique comme idéologie)",
+            "en": "The German Ideology, I (morality, religion and metaphysics as ideology)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SOCIAL_CONTRACT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Marx rejette la fiction d'un pacte fondateur conclu entre individus libres : la société n'est pas issue d'un contrat volontaire mais des rapports de production dans lesquels les hommes entrent indépendamment de leur volonté. La communauté humaine réelle n'est ni un agrégat contractuel ni l'État bourgeois, mais l'association concrète des producteurs, ce qui éloigne nettement du <c>contractualisme</c>.",
+          "en": "Marx rejects the fiction of a founding pact concluded among free individuals: society springs not from a voluntary contract but from the relations of production into which men enter independently of their will. The real human community is neither a contractual aggregate nor the bourgeois state, but the concrete association of producers, which marks a clear distance from <c>contractualism</c>."
+        },
+        "references": [
+          {
+            "fr": "Grundrisse, introduction (critique du contrat et de l'individu isolé)",
+            "en": "Grundrisse, introduction (critique of the contract and the isolated individual)"
+          },
+          {
+            "fr": "Préface à la Contribution à la critique de l'économie politique (les rapports de production indépendants de la volonté)",
+            "en": "Preface to A Contribution to the Critique of Political Economy (relations of production independent of the will)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SELF_INTEREST",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Marx dénonce la société bourgeoise qui a noyé tout lien humain dans les eaux glacées du calcul égoïste, réduisant les rapports à l'intérêt et au paiement comptant. Mais loin d'ériger cet égoïsme en norme, il y voit le produit historique du capitalisme, et vise une communauté où l'épanouissement de chacun serait la condition de celui de tous : c'est une critique de l'égoïsme au nom d'une solidarité de classe, sans idéaliser un altruisme abstrait.",
+          "en": "Marx denounces the bourgeois society that has drowned every human tie in the icy water of egotistical calculation, reducing relations to interest and cash payment. Far from making this egoism a norm, he sees it as the historical product of capitalism, and aims at a community where the free development of each is the condition for the free development of all: a critique of egoism in the name of class solidarity, without idealising an abstract altruism."
+        },
+        "references": [
+          {
+            "fr": "Manifeste du Parti communiste, ch. 1 (les eaux glacées du calcul égoïste) et ch. 2",
+            "en": "Manifesto of the Communist Party, ch. 1 (the icy water of egotistical calculation) and ch. 2"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "La bourgeoisie a noyé les frissons sacrés de l'extase religieuse, de l'enthousiasme chevaleresque et de la sentimentalité petite-bourgeoise dans les eaux glacées du calcul égoïste.",
+            "en": "The bourgeoisie has drowned the most heavenly ecstasies of religious fervour, of chivalrous enthusiasm, of philistine sentimentalism, in the icy water of egotistical calculation."
+          },
+          "source": {
+            "fr": "Manifeste du Parti communiste, 1848",
+            "en": "Manifesto of the Communist Party, 1848"
+          }
+        },
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "BELONGING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Pour Marx, la solidarité décisive n'est pas nationale mais de classe : les ouvriers n'ont pas de patrie, et le mot d'ordre prolétaire appelle à dépasser les frontières au nom d'un internationalisme prolétarien. La communauté pertinente n'est ni la nation ni l'humanité abstraite, mais le prolétariat mondial, ce qui penche fortement vers le cosmopolitisme de classe.",
+          "en": "For Marx the decisive solidarity is not national but of class: the workers have no country, and the proletarian watchword calls for transcending borders in the name of a proletarian internationalism. The relevant community is neither the nation nor abstract humanity, but the world proletariat, which leans strongly toward a class cosmopolitanism."
+        },
+        "references": [
+          {
+            "fr": "Manifeste du Parti communiste, ch. 2 et conclusion (les ouvriers n'ont pas de patrie ; prolétaires de tous les pays)",
+            "en": "Manifesto of the Communist Party, ch. 2 and conclusion (the workers have no country; workers of all countries)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Prolétaires de tous les pays, unissez-vous !",
+            "en": "Workers of all countries, unite!"
+          },
+          "source": {
+            "fr": "Manifeste du Parti communiste, 1848",
+            "en": "Manifesto of the Communist Party, 1848"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HUMAN_VISION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Les vices imputés à la nature humaine, égoisme, cupidité, agressivité, sont pour Marx des produits de conditions sociales aliénantes, non une fatalité de l'espèce : changez les rapports de production et vous changez les hommes. Cet espoir d'un être humain émancipé, capable de développer librement ses facultés dans une société sans classes, traduit un <ax id='HUMAN_VISION'>optimisme anthropologique</ax> conditionnel, suspendu à la transformation des conditions.",
+          "en": "The vices imputed to human nature, selfishness, greed, aggression, are for Marx products of alienating social conditions, not a fatality of the species: change the relations of production and you change men. This hope of an emancipated human being, able to develop his faculties freely in a classless society, expresses a conditional <ax id='HUMAN_VISION'>anthropological optimism</ax>, suspended on the transformation of conditions."
+        },
+        "references": [
+          {
+            "fr": "Manuscrits de 1844 (l'homme générique et le dépassement de l'aliénation)",
+            "en": "1844 Manuscripts (species-being and the overcoming of alienation)"
+          },
+          {
+            "fr": "Thèses sur Feuerbach, III (les circonstances sont changées par les hommes)",
+            "en": "Theses on Feuerbach, III (circumstances are changed by men)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TIME_ORIENTATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0.8,
+          0.1
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La pensée de Marx est tout entière tournée vers un avenir à construire : le présent capitaliste n'a de sens que comme moment d'une transition vers la société communiste, et le passé n'est analysé que pour éclairer ce mouvement : une orientation résolument projective, qui ne peut tirer sa poésie du passé mais seulement de l'avenir.",
+          "en": "Marx's thought is wholly turned toward a future to be built: the capitalist present has meaning only as a moment of transition toward communist society, and the past is analysed only to illuminate that movement: a resolutely project-oriented stance, one that cannot draw its poetry from the past but only from the future."
+        },
+        "references": [
+          {
+            "fr": "Le 18 Brumaire de Louis Bonaparte (la poésie de l'avenir)",
+            "en": "The Eighteenth Brumaire of Louis Bonaparte (the poetry of the future)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "La révolution sociale du XIXe siècle ne peut tirer sa poésie du passé, mais seulement de l'avenir.",
+            "en": "The social revolution of the nineteenth century cannot draw its poetry from the past, but only from the future."
+          },
+          "source": {
+            "fr": "Le 18 Brumaire de Louis Bonaparte, 1852",
+            "en": "The Eighteenth Brumaire of Louis Bonaparte, 1852"
+          }
+        },
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TRUTH_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.3,
+          0.1,
+          0.6
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La vérité d'une pensée se prouve dans la <c>praxis</c>, non dans la pure théorie : c'est dans la pratique que l'homme doit prouver la réalité et la puissance de sa pensée. La question de savoir si une pensée atteint la réalité est <q>une question pratique</q> : une conception fortement pragmatiste de la vérité, sans renoncer pour autant à l'ambition de saisir le réel.",
+          "en": "The truth of a thought is proved in <c>praxis</c>, not in pure theory: in practice man must prove the reality and power of his thinking. Whether a thought attains reality is <q>a practical question</q>: a strongly pragmatist conception of truth, without renouncing the ambition to grasp the real."
+        },
+        "references": [
+          {
+            "fr": "Thèses sur Feuerbach, II",
+            "en": "Theses on Feuerbach, II"
+          },
+          {
+            "fr": "Thèses sur Feuerbach, VIII (la vie sociale est essentiellement pratique)",
+            "en": "Theses on Feuerbach, VIII (social life is essentially practical)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "C'est dans la pratique que l'homme doit prouver la vérité, c'est-à-dire la réalité et la puissance, l'en-deçà de sa pensée.",
+            "en": "In practice man must prove the truth, that is, the reality and power, the this-sidedness of his thinking."
+          },
+          "source": {
+            "fr": "Thèses sur Feuerbach, II",
+            "en": "Theses on Feuerbach, II"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SCIENCE_PLACE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Marx revendique pour son analyse du capital le statut d'une <c>science</c> rigoureuse, opposée au <c>socialisme utopique</c> : il s'agit de dégager les lois objectives du mouvement de la société capitaliste. Cette confiance dans une connaissance scientifique de l'histoire et de l'économie, modèle de toute critique sérieuse, traduit une nette pente scientiste, même si Marx ne réduit pas tout savoir aux sciences de la nature.",
+          "en": "Marx claims for his analysis of capital the status of a rigorous <c>science</c>, opposed to <c>utopian socialism</c>: the task is to lay bare the objective laws of motion of capitalist society. This confidence in a scientific knowledge of history and economics, the model of all serious critique, expresses a marked scientistic leaning, even if Marx does not reduce all knowledge to the natural sciences."
+        },
+        "references": [
+          {
+            "fr": "Le Capital, livre I, préface (les lois du mouvement de la société moderne)",
+            "en": "Capital, vol. I, preface (the laws of motion of modern society)"
+          },
+          {
+            "fr": "Manifeste du Parti communiste, ch. 3 (socialisme scientifique contre socialisme utopique)",
+            "en": "Manifesto of the Communist Party, ch. 3 (scientific against utopian socialism)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "FUTURE_GENERATIONS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le sens de l'action présente est tout entier l'émancipation des générations futures : le sacrifice révolutionnaire d'aujourd'hui se justifie par la société libérée de demain. Marx critique même l'attitude qui traiterait la terre comme une propriété : nulle société n'en est propriétaire, les hommes n'en sont que les usufruitiers et doivent la léguer améliorée aux générations suivantes, ce qui penche vers une responsabilité envers l'avenir.",
+          "en": "The meaning of present action lies wholly in the emancipation of future generations: today's revolutionary sacrifice is justified by tomorrow's liberated society. Marx even criticises treating the earth as property: no society owns it; men are merely its usufructuaries and must hand it on improved to succeeding generations, which leans toward a responsibility for the future."
+        },
+        "references": [
+          {
+            "fr": "Le Capital, livre III, ch. 46 (les hommes ne sont que les usufruitiers de la terre, à léguer améliorée)",
+            "en": "Capital, vol. III, ch. 46 (men as mere usufructuaries of the earth, to be bequeathed improved)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "AESTHETIC_LIFE",
+      "status": "NOT_APPLICABLE",
+      "note": {
+        "fr": "Marx ne thématise pas l'opposition entre une vie esthétique et une vie éthique : sa réflexion sur l'art reste subordonnée à l'analyse des conditions sociales de la production artistique, sans dessiner un art de vivre au sens de cet axe.",
+        "en": "Marx does not thematise the opposition between an aesthetic and an ethical life: his reflection on art remains subordinate to the analysis of the social conditions of artistic production, without sketching an art of living in the sense of this axis."
+      }
+    },
+    {
+      "axisId": "SOCIAL_IDENTITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.25,
+          0.75
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La classe n'est ni une donnée naturelle ni une simple idée : c'est une position objective dans les rapports de production, définie par la place que l'on occupe face aux moyens de production. Réelle et structurante, elle façonne la conscience plus qu'elle n'en procède.",
+          "en": "Class is neither a natural given nor a mere idea: it is an objective position within the relations of production, defined by one's place in relation to the means of production. Real and structuring, it shapes consciousness more than it springs from it."
+        },
+        "references": [
+          {
+            "fr": "Le Manifeste du parti communiste ; Le Capital",
+            "en": "The Communist Manifesto; Capital"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "POLITICAL_LIBERTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.4,
+          0,
+          0.6
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La liberté formelle ne vaut rien sans les conditions matérielles de l'exercer : la véritable émancipation suppose de dépasser l'aliénation et le règne de la nécessité, pour que le libre développement de chacun soit la condition du libre développement de tous. Une liberté positive et réelle, capacité effective d'agir.",
+          "en": "Formal liberty is worthless without the material conditions to exercise it: true emancipation requires overcoming alienation and the realm of necessity, so that the free development of each becomes the condition for the free development of all. A positive, real freedom, an effective capacity to act."
+        },
+        "references": [
+          {
+            "fr": "Manuscrits de 1844 ; Le Capital, III ; Manifeste",
+            "en": "Economic and Philosophic Manuscripts of 1844; Capital, III; The Communist Manifesto"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "REALITY_NATURE",
+      "thesis": {
+        "fr": "Ce ne sont pas les idées qui font l'histoire, mais la manière dont les hommes produisent leur vie : la <c>conscience</c> est déterminée par l'<c>être social</c>, non l'inverse.",
+        "en": "It is not ideas that drive history but the way men produce their life: <c>consciousness</c> is determined by <c>social being</c>, not the reverse."
+      }
+    },
+    {
+      "axisId": "WORK_MEANING",
+      "thesis": {
+        "fr": "Sous le capitalisme, le travail qui devrait accomplir l'homme le mutile : dépossédé du produit et de l'acte même de produire, l'ouvrier devient étranger à lui-même.",
+        "en": "Under capitalism, the labour that should fulfil man maims him: dispossessed of the product and of the very act of producing, the worker becomes a stranger to himself."
+      }
+    },
+    {
+      "axisId": "HISTORY_MEANING",
+      "thesis": {
+        "fr": "Toute l'histoire est l'histoire de la <c>lutte des classes</c> : le conflit entre forces productives et rapports de production pousse les sociétés du féodalisme au communisme.",
+        "en": "All history is the history of <c>class struggle</c>: the conflict between productive forces and relations of production pushes societies from feudalism to communism."
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "thesis": {
+        "fr": "La vérité d'une pensée ne se prouve pas dans la contemplation mais dans la <c id='praxis'>praxis</c> : les philosophes ont interprété le monde, il s'agit de le transformer.",
+        "en": "The truth of a thought is proved not in contemplation but in <c id='praxis'>praxis</c>: the philosophers have interpreted the world, the point is to change it."
+      }
+    },
+    {
+      "axisId": "DISTRIBUTIVE_JUSTICE",
+      "thesis": {
+        "fr": "Il faut abolir la <c>propriété privée</c> des moyens de production : dans la société sans classes, on donnera de chacun selon ses capacités, à chacun selon ses besoins.",
+        "en": "<c>Private property</c> in the means of production must be abolished: in the classless society, the rule is from each according to his ability, to each according to his needs."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

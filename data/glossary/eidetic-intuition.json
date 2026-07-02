@@ -1,0 +1,13 @@
+{
+  "id": "eidetic-intuition",
+  "term": { "fr": "Intuition eidétique (Wesensschau)", "en": "Eidetic intuition (Wesensschau)" },
+  "definition": {
+    "fr": "L'intuition eidétique est la saisie d'une <c>essence</c> (eidos) elle-même, et non d'un fait particulier. <ph id='husserl'>Husserl</ph> la met en oeuvre par la variation libre : partant d'un exemple, fût-il imaginé, on fait varier en pensée ses traits jusqu'à dégager l'invariant sans lequel la chose ne serait plus ce qu'elle est, sa structure nécessaire. Elle se distingue de la simple généralisation empirique, qui ne fait que rassembler des cas observés : l'eidos se donne avec une évidence propre, indépendante du nombre des exemples. C'est l'acte par lequel la phénoménologie devient une science <ax id='ESSENCE'>des essences</ax> et non du seul existant.",
+    "en": "Eidetic intuition is the grasping of an <c>essence</c> (eidos) itself, not of a particular fact. <ph id='husserl'>Husserl</ph> carries it out through free variation: starting from an example, even an imagined one, one varies its features in thought until the invariant emerges without which the thing would no longer be what it is, its necessary structure. It differs from mere empirical generalisation, which only gathers observed cases: the eidos gives itself with an evidence of its own, independent of how many examples there are. It is the act by which phenomenology becomes a science <ax id='ESSENCE'>of essences</ax> rather than of the merely existent."
+  },
+  "relatedAxes": ["ESSENCE", "KNOWLEDGE_SOURCE"],
+  "relatedTerms": ["phenomenological-reduction", "intentionality"],
+  "figure": { "slug": "husserl", "name": { "fr": "Husserl", "en": "Husserl" } },
+  "positions": [{ "axisId": "ESSENCE", "poleId": "ESSENTIALISM" }],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

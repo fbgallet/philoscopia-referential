@@ -1,0 +1,892 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "hume",
+  "name": {
+    "fr": "Hume",
+    "en": "Hume"
+  },
+  "fullName": {
+    "fr": "David Hume",
+    "en": "David Hume"
+  },
+  "tagline": {
+    "fr": "<q>La raison est, et ne doit qu'être, l'esclave des passions</q> : un <mv id='empiricism'>empirisme</mv> radical qui dissout le moi, la causalité et la certitude.",
+    "en": "<q>Reason is, and ought only to be, the slave of the passions</q>: a radical <mv id='empiricism'>empiricism</mv> dissolving the self, causation and certainty."
+  },
+  "summary": {
+    "fr": "Philosophe, historien et essayiste écossais, figure majeure des Lumières d'Édimbourg et de l'<mv id='empiricism'>empirisme</mv> britannique, dans le sillage de <ph id='locke'>Locke</ph> et de <ph>Berkeley</ph>. Refusé par l'université pour soupçon d'irreligion, il vécut de sa plume, d'une <w id='treatise-of-human-nature-hume'>somme</w> de jeunesse passée d'abord inaperçue à une célèbre <w id='enquiry-concerning-human-understanding-hume'>Enquête</w>, des Essais et une monumentale Histoire d'Angleterre. Son projet : appliquer la <c>méthode expérimentale</c> de <per>Newton</per> à l'esprit humain, pour voir jusqu'où l'observation, sans hypothèse métaphysique, peut conduire l'analyse de la connaissance, des passions et de la morale. Tenu pour un sceptique sulfureux de son vivant, il devint l'aiguillon de la philosophie moderne : c'est lui, dira <ph id='kant'>Kant</ph>, qui le tira de son <q>sommeil dogmatique</q>.",
+    "en": "Scottish philosopher, historian and essayist, a leading figure of the Edinburgh Enlightenment and of British <mv id='empiricism'>empiricism</mv>, following <ph id='locke'>Locke</ph> and <ph>Berkeley</ph>. Refused a university chair on suspicion of irreligion, he lived by his pen, from a youthful <w id='treatise-of-human-nature-hume'>system</w> that at first fell dead-born to a celebrated <w id='enquiry-concerning-human-understanding-hume'>Enquiry</w>, the Essays and a monumental History of England. His project: to apply <per>Newton</per>'s <c>experimental method</c> to the human mind, testing how far observation, without metaphysical hypotheses, can carry the analysis of knowledge, the passions and morality. Reckoned a scandalous sceptic in his lifetime, he became the goad of modern philosophy: it was he, <ph id='kant'>Kant</ph> would say, who roused him from his <q>dogmatic slumber</q>."
+  },
+  "birth": 1711,
+  "death": 1776,
+  "nationality": {
+    "fr": "Écossais",
+    "en": "Scottish"
+  },
+  "movements": [
+    "empiricism",
+    "skepticism"
+  ],
+  "entries": [
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Pour Hume, la souffrance est un mal que la <c>sympathie</c> et la bienveillance nous portent à soulager : la vertu se mesure à son utilité et à son agrément. Aussi range-t-il les <q>vertus monacales</q>, jeûne, pénitence, mortification, parmi les vices, car elles n'ajoutent au monde que de la souffrance sans rien produire de bon : nulle fécondité dans la douleur recherchée.",
+          "en": "For Hume, suffering is an evil that <c>sympathy</c> and benevolence move us to relieve: virtue is measured by its usefulness and agreeableness. So he ranks the <q>monkish virtues</q>, fasting, penance, mortification, among the vices, for they add to the world only suffering while producing nothing good: no fruitfulness in sought-out pain."
+        },
+        "references": [
+          {
+            "fr": "Enquête sur les principes de la morale, IX",
+            "en": "An Enquiry concerning the Principles of Morals, IX"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0.85,
+          0.05,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Hume ruine l'argument du dessein et juge la providence inconnaissable : nul sens n'est lisible dans l'ordre des choses. Mais il n'en tire ni angoisse ni révolte : le sens se trouve à hauteur d'homme, dans les plaisirs de la vie sociable, l'amitié, l'activité et la vertu utile. Une signification immanente et sereine, qui se passe d'au-delà.",
+          "en": "Hume ruins the argument from design and judges providence unknowable: no meaning is legible in the order of things. But he draws from this neither anguish nor revolt: meaning is found at human scale, in the pleasures of sociable life, friendship, activity and useful virtue. An immanent, serene significance that does without a beyond."
+        },
+        "references": [
+          {
+            "fr": "Dialogues sur la religion naturelle",
+            "en": "Dialogues concerning Natural Religion"
+          },
+          {
+            "fr": "Enquête sur les principes de la morale",
+            "en": "An Enquiry concerning the Principles of Morals"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.85,
+          0,
+          0.1,
+          0.05
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Hume réfute l'immortalité de l'âme sur tous les plans, métaphysique, moral et physique : rien n'autorise à croire que la conscience survive à la dissolution du corps. Il affronte d'ailleurs sa propre fin avec une sérénité enjouée, sans crainte ni espérance d'au-delà. La mort est le terme naturel, et la redouter n'a pas plus de sens que de regretter de n'avoir pas existé avant de naître.",
+          "en": "Hume refutes the immortality of the soul on every ground, metaphysical, moral and physical: nothing warrants the belief that consciousness survives the dissolution of the body. He faces his own end, moreover, with a cheerful serenity, without fear or hope of a beyond. Death is the natural terminus, and to dread it makes no more sense than to regret not having existed before being born."
+        },
+        "references": [
+          {
+            "fr": "De l'immortalité de l'âme",
+            "en": "Of the Immortality of the Soul"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.4,
+          0.55,
+          0.05
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Hume dessine une vie bonne sociable et tempérée : un mélange de plaisirs délicats, d'activité, d'amitié et de bienveillance. La vertu elle-même n'a de prix que par ce qu'elle a d'utile et d'agréable, à soi et aux autres ; les <q>vertus monacales</q>, jeûne et mortification, sont rejetées comme inutiles et donc vicieuses. Ni rigorisme ni pur hédonisme, mais un épanouissement humain naturel.",
+          "en": "Hume sketches a sociable, temperate good life: a blend of delicate pleasures, activity, friendship and benevolence. Virtue itself has worth only through what is useful and agreeable, to oneself and to others; the <q>monkish virtues</q>, fasting and mortification, are rejected as useless and so vicious. Neither rigorism nor pure hedonism, but a natural human flourishing."
+        },
+        "references": [
+          {
+            "fr": "Enquête sur les principes de la morale, IX",
+            "en": "An Enquiry concerning the Principles of Morals, IX"
+          },
+          {
+            "fr": "Traité de la nature humaine, III",
+            "en": "A Treatise of Human Nature, III"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.55,
+          0.4,
+          0.05
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Hume renverse le primat classique de la raison sur le désir : les passions sont les ressorts légitimes de toute action, que la raison sert sans pouvoir s'y opposer, seules les passions calmes tempérant les violentes. Nulle ascèse, donc, mais l'acceptation des désirs comme données premières de la vie, ordonnées du dedans plutôt que réprimées.",
+          "en": "Hume overturns the classical primacy of reason over desire: the passions are the legitimate springs of all action, which reason serves without being able to oppose them, only the calm passions tempering the violent ones. No asceticism, then, but the acceptance of desires as the primary data of life, ordered from within rather than repressed."
+        },
+        "references": [
+          {
+            "fr": "Traité de la nature humaine, II, 3, 3",
+            "en": "A Treatise of Human Nature, II, 3, 3"
+          }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "La raison est, et ne doit être, que l'esclave des passions.",
+            "en": "Reason is, and ought only to be, the slave of the passions."
+          },
+          "source": {
+            "fr": "Traité de la nature humaine, II, 3, 3",
+            "en": "A Treatise of Human Nature, II, 3, 3"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.2
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Hume dissout les essences fixes : nous ne connaissons aucune <c>essence réelle</c> des substances, et le <kw>moi</kw> lui-même n'est qu'un faisceau de perceptions en flux, sans noyau permanent. Ce que nous devenons se forge par la coutume et l'habitude plus que par une nature assignée, sans pour autant relever d'un libre auto-façonnement, l'homme restant largement façonné.",
+          "en": "Hume dissolves fixed essences: we know no <c>real essence</c> of substances, and the <kw>self</kw> itself is but a bundle of perceptions in flux, with no permanent core. What we become is forged by custom and habit more than by an assigned nature, without amounting for all that to a free self-fashioning, the human being remaining largely shaped."
+        },
+        "references": [
+          {
+            "fr": "Traité de la nature humaine, I, 4, 6",
+            "en": "A Treatise of Human Nature, I, 4, 6"
+          },
+          {
+            "fr": "Enquête sur l'entendement humain",
+            "en": "An Enquiry concerning Human Understanding"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.95
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Les perceptions se rangent en deux classes que sépare leur seule force : les <c>impressions</c>, vives et originaires (sensations, passions), et les <c>idées</c>, leurs copies affaiblies dans la pensée. De ce constat Hume tire un principe et un instrument : toute idée simple dérive d'une impression antérieure, donc une idée qui ne renvoie à aucune impression est vide de sens. Plus radical que la <c id='tabula-rasa'>table rase</c> de <ph id='locke'>Locke</ph>, ce critère ne se borne pas à récuser les <c id='innate-ideas'>idées innées</c> : il devient une machine à dissoudre les pseudo-concepts de la métaphysique (substance, connexion nécessaire), qu'il suffit de sommer de produire leur impression d'origine. C'est l'<mv id='empiricism'>empirisme</mv> retourné en arme critique, contre le <mv id='rationalism'>rationalisme</mv> de <ph id='descartes'>Descartes</ph>.",
+          "en": "Perceptions fall into two classes set apart by their force alone: <c>impressions</c>, vivid and original (sensations, passions), and <c>ideas</c>, their faint copies in thought. From this Hume draws both a principle and an instrument: every simple idea derives from a prior impression, so an idea answering to no impression is empty of meaning. More radical than <ph id='locke'>Locke</ph>'s <c id='tabula-rasa'>blank slate</c>, this test does not merely reject <c id='innate-ideas'>innate ideas</c>: it becomes an engine for dissolving the pseudo-concepts of metaphysics (substance, necessary connection), which one need only challenge to produce their source impression. Empiricism is thus turned into a critical weapon against the <mv id='rationalism'>rationalism</mv> of <ph id='descartes'>Descartes</ph>."
+        },
+        "references": [
+          {
+            "fr": "Enquête sur l'entendement humain, sect. II (de l'origine des idées)",
+            "en": "Enquiry Concerning Human Understanding, sect. II (of the origin of ideas)"
+          },
+          {
+            "fr": "Traité de la nature humaine, I, partie I, sect. 1",
+            "en": "A Treatise of Human Nature, I, part I, sect. 1"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Toutes nos idées ne sont que des copies de nos impressions, ou, en d'autres termes, il nous est impossible de penser quoi que ce soit que nous n'ayons pas auparavant senti.",
+            "en": "All our ideas are nothing but copies of our impressions, or, in other words, it is impossible for us to think of anything which we have not antecedently felt."
+          },
+          "source": {
+            "fr": "Enquête sur l'entendement humain, sect. II",
+            "en": "Enquiry Concerning Human Understanding, sect. II"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CAUSALITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          1,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "note": {
+        "fr": "Cet axe oppose des conceptions de la causalité dans la Nature (mécanisme, finalisme, vitalisme). Hume ne défend pas une physique vitaliste ou finaliste : sa critique est épistémologique, il nie que nous percevions une connexion nécessaire. Faute de toute finalité ou force vitale, le pôle qui lui convient est le mécanisme, par défaut et non par adhésion à une métaphysique de la matière.",
+        "en": "This axis contrasts conceptions of causation in Nature (mechanism, finalism, vitalism). Hume defends no vitalist or finalist physics: his critique is epistemological, denying that we perceive any necessary connection. Lacking any finality or vital force, the fitting pole is mechanism, by default rather than from a committed metaphysics of matter."
+      },
+      "justification": {
+        "text": {
+          "fr": "Toute idée doit dériver d'une impression : Hume cherche donc quelle impression nous donne la <c>connexion nécessaire</c> entre une cause et son effet, et n'en trouve aucune. Dans les objets, l'expérience ne livre que succession et <c>conjonction constante</c> ; jamais le lien qui obligerait l'un à suivre l'autre. La nécessité n'est donc pas dans les choses : elle est une <c>habitude</c> (custom) de l'esprit, une attente projetée par la répétition. De là le <pb>problème de l'<c id='induction'>induction</c></pb> : si rien ne nous fait percevoir le lien causal, aucune inférence du passé au futur n'est rationnellement fondée. C'est l'analyse qui, en sapant la causalité comme nécessité objective, tirera <ph id='kant'>Kant</ph> de son sommeil dogmatique. La <ax id='CAUSALITY'>finalité</ax> et la force vitale, faute de toute impression, tombent du même coup.",
+          "en": "Every idea must derive from an impression: so Hume asks which impression yields the <c>necessary connection</c> between a cause and its effect, and finds none. In objects, experience gives only succession and <c>constant conjunction</c>; never the bond that would oblige one to follow the other. Necessity is therefore not in things: it is a <c>habit</c> (custom) of the mind, an expectation projected by repetition. Hence the <pb>problem of <c id='induction'>induction</c></pb>: if nothing lets us perceive the causal link, no inference from past to future is rationally grounded. It is this analysis, by undermining causation as objective necessity, that would rouse <ph id='kant'>Kant</ph> from his dogmatic slumber. <ax id='CAUSALITY'>Finality</ax> and vital force, answering to no impression, fall with it."
+        },
+        "references": [
+          {
+            "fr": "Enquête sur l'entendement humain, sect. VII (de l'idée de connexion nécessaire)",
+            "en": "Enquiry Concerning Human Understanding, sect. VII (of the idea of necessary connexion)"
+          },
+          {
+            "fr": "Traité de la nature humaine, I, partie III, sect. 6 et 14",
+            "en": "A Treatise of Human Nature, I, part III, sect. 6 and 14"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Après une répétition de cas semblables, l'esprit est porté par l'habitude, dès l'apparition d'un événement, à en attendre le compagnon ordinaire... C'est donc le sentiment ou l'impression d'où nous tirons l'idée de pouvoir ou de connexion nécessaire.",
+            "en": "After a repetition of similar instances, the mind is carried by habit, upon the appearance of one event, to expect its usual attendant... This connexion, therefore, which we feel in the mind, is the impression from which we form the idea of power or necessary connexion."
+          },
+          "source": {
+            "fr": "Enquête sur l'entendement humain, sect. VII",
+            "en": "Enquiry Concerning Human Understanding, sect. VII"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le <pb>problème de l'<c id='induction'>induction</c></pb> conduit Hume au bord du <c id='skepticism'>scepticisme</c> : si aucun raisonnement ne justifie d'attendre que le futur ressemble au passé, nos croyances les plus assurées reposent sur la <c>coutume</c>, un instinct, et non sur la raison. Mais l'argument ne débouche pas sur la paralysie pyrrhonienne, et c'est là sa pointe : la nature est plus forte que le doute, elle nous force à croire et à agir dès que nous quittons l'étude. Hume oppose donc au <c id='skepticism'>pyrrhonisme</c> intégral, intenable dans la vie, un <q>scepticisme mitigé</q> (academical), réserve modérée qui borne l'enquête à ce que l'expérience peut atteindre.",
+          "en": "The <pb>problem of <c id='induction'>induction</c></pb> brings Hume to the edge of <c id='skepticism'>skepticism</c>: if no reasoning justifies expecting the future to resemble the past, our most assured beliefs rest on <c>custom</c>, an instinct, not on reason. But the argument does not end in Pyrrhonian paralysis, and that is its point: nature is stronger than doubt, compelling us to believe and act the moment we leave the study. Hume therefore opposes to thoroughgoing <c id='skepticism'>Pyrrhonism</c>, untenable in life, a <q>mitigated</q> (academical) skepticism, a moderate reserve that confines inquiry to what experience can reach."
+        },
+        "references": [
+          {
+            "fr": "Enquête sur l'entendement humain, sect. IV-V et sect. XII (du scepticisme académique ou mitigé)",
+            "en": "Enquiry Concerning Human Understanding, sect. IV-V and sect. XII (of the academical or sceptical philosophy)"
+          },
+          {
+            "fr": "Traité de la nature humaine, I, partie IV, sect. 1-2",
+            "en": "A Treatise of Human Nature, I, part IV, sect. 1-2"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le même critère vaut pour le <c>moi</c> : s'il existait, il faudrait l'impression qui le donne. Or l'introspection ne livre jamais un sujet permanent, seulement une perception particulière, chaleur, lumière, plaisir ou douleur, qui aussitôt fait place à une autre. Hume en infère qu'il n'y a pas de substance pensante sous les perceptions : le moi n'est qu'un <q>faisceau de perceptions</q> (bundle of perceptions) en flux perpétuel. L'<c id='personal-identity'>identité personnelle</c> que nous lui prêtons est une fiction de l'imagination, qui prend pour identité réelle la ressemblance et la continuité de ses contenus. La thèse vise <ph id='descartes'>Descartes</ph> et toute âme-substance ; c'est l'archétype de la <c>théorie du faisceau</c>.",
+          "en": "The same test applies to the <c>self</c>: if it existed, there would be an impression that gives it. But introspection never yields a permanent subject, only some particular perception, heat, light, pleasure or pain, at once replaced by another. Hume infers that there is no thinking substance beneath the perceptions: the self is but a <q>bundle of perceptions</q> in perpetual flux. The <c id='personal-identity'>personal identity</c> we ascribe to it is a fiction of the imagination, mistaking the resemblance and continuity of its contents for a real identity. The thesis targets <ph id='descartes'>Descartes</ph> and every soul-substance; it is the archetype of the <c>bundle theory</c>."
+        },
+        "references": [
+          {
+            "fr": "Traité de la nature humaine, I, partie IV, sect. 6 (de l'identité personnelle)",
+            "en": "A Treatise of Human Nature, I, part IV, sect. 6 (of personal identity)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Pour ma part, quand je pénètre le plus intimement dans ce que j'appelle moi-même, je tombe toujours sur telle ou telle perception particulière... je ne peux jamais me saisir, moi, en aucun moment sans une perception.",
+            "en": "For my part, when I enter most intimately into what I call myself, I always stumble on some particular perception or other... I never can catch myself at any time without a perception."
+          },
+          "source": {
+            "fr": "Traité de la nature humaine, I, IV, 6",
+            "en": "A Treatise of Human Nature, I, IV, 6"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La raison n'a que deux emplois : établir des relations d'idées (le démonstratif) ou inférer des faits (le causal) ; or aucun de ces actes ne meut à lui seul la volonté. Hume en conclut que la raison ne saurait produire ni empêcher une action, donc jamais s'opposer à une <c>passion</c> : seule une passion contraire le peut. La raison fixe les moyens, mais les fins viennent du <c>sentiment</c> ; on ne déclare contraire à la raison ni de préférer sa ruine au moindre désagrément d'autrui, car un désir n'est ni vrai ni faux. Renversant l'intellectualisme socratique et stoïcien qui faisait des passions des erreurs de jugement, Hume soutient un <c>sentimentalisme</c> où la raison est subordonnée à l'affect dans tout ce qui touche à l'action et au jugement moral.",
+          "en": "Reason has only two offices: to relate ideas (the demonstrative) or to infer matters of fact (the causal); yet neither act, by itself, moves the will. Hume concludes that reason can neither produce nor prevent an action, and so can never oppose a <c>passion</c>: only a contrary passion can. Reason settles the means, but ends come from <c>sentiment</c>; it is not contrary to reason to prefer one's own ruin to the slightest unease of another, for a desire is neither true nor false. Overturning the Socratic and Stoic intellectualism that made passions errors of judgement, Hume defends a <c>sentimentalism</c> in which reason is subordinate to affect in everything bearing on action and moral judgement."
+        },
+        "references": [
+          {
+            "fr": "Traité de la nature humaine, II, partie III, sect. 3 (des motifs qui influent sur la volonté)",
+            "en": "A Treatise of Human Nature, II, part III, sect. 3 (of the influencing motives of the will)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "La raison est, et ne doit qu'être, l'esclave des passions, et ne peut prétendre à d'autre rôle qu'à les servir et à leur obéir.",
+            "en": "Reason is, and ought only to be the slave of the passions, and can never pretend to any other office than to serve and obey them."
+          },
+          "source": {
+            "fr": "Traité de la nature humaine, II, III, 3",
+            "en": "A Treatise of Human Nature, II, III, 3"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.2,
+          0,
+          0.2,
+          0.6
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La distinction du bien et du mal naît d'un <c>sentiment</c> d'approbation ou de désapprobation, non d'une déduction de la raison : la morale se sent plus qu'elle ne se juge. Ce sentiment s'enracine dans la <c>sympathie</c>, capacité à partager les affects d'autrui, qui nous fait approuver les qualités utiles et agréables à soi et aux autres. D'où une éthique du <c>care</c> et du sentiment, avec une composante de <c>vertu</c> (qualités de caractère) et un souci conséquentialiste de l'utilité.",
+          "en": "The distinction of good and evil arises from a <c>sentiment</c> of approval or disapproval, not from a deduction of reason: morality is felt more than judged. This sentiment is rooted in <c>sympathy</c>, the capacity to share others' affects, which makes us approve qualities useful and agreeable to oneself and to others. Hence an ethics of <c>care</c> and sentiment, with a virtue component (qualities of character) and a consequentialist concern for utility."
+        },
+        "references": [
+          {
+            "fr": "Enquête sur les principes de la morale, sect. I et IX (le sentiment moral, l'utilité)",
+            "en": "Enquiry Concerning the Principles of Morals, sect. I and IX (moral sentiment, utility)"
+          },
+          {
+            "fr": "Traité de la nature humaine, III, partie I, sect. 1-2 (la morale n'est pas tirée de la raison)",
+            "en": "A Treatise of Human Nature, III, part I, sect. 1-2 (morals not derived from reason)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "La morale est plus proprement sentie que jugée.",
+            "en": "Morality is more properly felt than judg'd of."
+          },
+          "source": {
+            "fr": "Traité de la nature humaine, III, I, 2",
+            "en": "A Treatise of Human Nature, III, I, 2"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.2,
+          0.35,
+          0.45
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Hume relève un saut illicite dans les traités de morale : les auteurs passent sans crier gare de propositions liées par <q>est</q> à des propositions liées par <q>doit</q>, alors qu'un <bel>devoir-être</bel> nouveau ne peut se déduire d'aucun ensemble de prémisses purement descriptives (la <c>guillotine de Hume</c>). Aucune relation de faits, donc aucun acte de la seule raison, ne fonde une obligation : la valeur n'est pas une qualité des choses mais tient au <c>sentiment</c> d'approbation que le spectateur éprouve. La morale perd ainsi son fondement réaliste, contre le <c>réalisme moral</c> rationaliste qui croyait lire le bien dans l'être. Mais ce sentiment, commun à tous les hommes et réglé par l'utilité partagée, confère aux jugements une stabilité quasi universelle : la position tient du constructivisme, avec une part de relativisme, sans verser dans l'arbitraire.",
+          "en": "Hume spots an illicit leap in moral treatises: their authors slip without warning from propositions joined by <q>is</q> to propositions joined by <q>ought</q>, though a new <bel>ought</bel> cannot be deduced from any set of purely descriptive premises (<c>Hume's guillotine</c>). No relation of fact, and so no act of reason alone, can ground an obligation: value is not a quality of things but lies in the spectator's <c>sentiment</c> of approval. Morality thereby loses its realist foundation, against the rationalist <c>moral realism</c> that thought to read the good off being. Yet this sentiment, common to all human beings and regulated by shared utility, lends judgements a near-universal stability: the position is broadly constructivist, with a relativist share, without lapsing into arbitrariness."
+        },
+        "references": [
+          {
+            "fr": "Traité de la nature humaine, III, I, 1 (le passage de l'être au devoir-être)",
+            "en": "A Treatise of Human Nature, III, I, 1 (the is-ought passage)"
+          },
+          {
+            "fr": "Enquête sur les principes de la morale, sect. IX et appendice I",
+            "en": "Enquiry Concerning the Principles of Morals, sect. IX and Appendix I"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "BELIEF_ETHICS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -1
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Puisque toute croyance de fait repose sur l'expérience, sa fermeté doit se mesurer à la preuve : croire au-delà de ce que l'évidence autorise est une faute épistémique. Hume en tire une arme contre les <c>miracles</c> : un miracle est par définition une violation des lois de la nature, et ces lois sont établies par une expérience uniforme, donc par la preuve la plus complète qui soit. Le poids de l'expérience contraire est ainsi maximal ; aucun témoignage ne peut le surmonter, sauf si sa fausseté serait plus miraculeuse encore que le fait rapporté, ce qui n'arrive jamais. L'argument ne nie pas a priori le surnaturel : il montre qu'un esprit réglé sur la preuve ne saurait y assentir.",
+          "en": "Since every factual belief rests on experience, its firmness should be measured by the evidence: to believe beyond what the evidence warrants is an epistemic fault. Hume turns this into a weapon against <c>miracles</c>: a miracle is by definition a violation of the laws of nature, and those laws are established by uniform experience, hence by the fullest proof there is. The weight of contrary experience is therefore maximal; no testimony can overcome it, unless its falsehood would be more miraculous still than the reported fact, which never occurs. The argument does not deny the supernatural a priori: it shows that a mind ruled by evidence cannot assent to it."
+        },
+        "references": [
+          {
+            "fr": "Enquête sur l'entendement humain, sect. X (des miracles)",
+            "en": "Enquiry Concerning Human Understanding, sect. X (of miracles)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Un homme sage proportionne sa croyance à l'évidence.",
+            "en": "A wise man proportions his belief to the evidence."
+          },
+          "source": {
+            "fr": "Enquête sur l'entendement humain, sect. X",
+            "en": "Enquiry Concerning Human Understanding, sect. X"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.55
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Dans les <w>Dialogues sur la religion naturelle</w>, Hume démonte l'<arg>argument du dessein</arg> : l'ordre du monde n'autorise aucune inférence sûre vers un créateur infini, sage et bon, surtout face au mal. Sans professer un athéisme ferme (il maintient une vague <q>cause ou des causes</q> de l'ordre), il vide le théisme de tout contenu déterminé : la position penche nettement du côté de l'agnosticisme et de l'athéisme.",
+          "en": "In the <w>Dialogues Concerning Natural Religion</w>, Hume dismantles the <arg>argument from design</arg>: the order of the world warrants no secure inference to an infinite, wise and good creator, above all given evil. Without professing firm atheism (he allows a vague <q>cause or causes</q> of order), he empties theism of any determinate content: the position leans clearly toward agnosticism and atheism."
+        },
+        "references": [
+          {
+            "fr": "Dialogues sur la religion naturelle (notamment parties V, VIII et XI)",
+            "en": "Dialogues Concerning Natural Religion (esp. parts V, VIII and XI)"
+          },
+          {
+            "fr": "Histoire naturelle de la religion",
+            "en": "The Natural History of Religion"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.5
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Hume propose une conciliation (le <q>projet de réconciliation</q>) entre liberté et nécessité : la liberté n'est pas l'absence de causes, mais le pouvoir d'agir selon les déterminations de sa volonté, sans contrainte extérieure. Le <c id='determinism'>déterminisme</c> des actions humaines est même requis pour la responsabilité morale, car c'est le caractère qui rend compte des actes : c'est le <c id='compatibilism'>compatibilisme</c> classique.",
+          "en": "Hume proposes a reconciliation (the <q>reconciling project</q>) between liberty and necessity: liberty is not the absence of causes, but the power to act according to the determinations of one's will, free from external constraint. The <c id='determinism'>determinism</c> of human actions is even required for moral responsibility, since it is character that accounts for acts: classical <c id='compatibilism'>compatibilism</c>."
+        },
+        "references": [
+          {
+            "fr": "Enquête sur l'entendement humain, sect. VIII (de la liberté et de la nécessité)",
+            "en": "Enquiry Concerning Human Understanding, sect. VIII (of liberty and necessity)"
+          },
+          {
+            "fr": "Traité de la nature humaine, II, partie III, sect. 1-2",
+            "en": "A Treatise of Human Nature, II, part III, sect. 1-2"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "FAITH_REASON",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0,
+          0.5,
+          0.4
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Hume oppose la croyance religieuse à l'<ax id='BELIEF_ETHICS'>exigence de preuve</ax> : aucune religion fondée sur la raison ne tient, la foi excède toujours l'évidence disponible (d'où une pointe ironique de <c>fidéisme</c> quand il conclut que seul un miracle continu, la foi, fait croire au christianisme). De fait, la croyance religieuse relève d'un autre registre que la connaissance, et là où elle prétend démontrer (théologie naturelle), elle entre en conflit avec une raison rigoureuse.",
+          "en": "Hume sets religious belief against the <ax id='BELIEF_ETHICS'>demand for evidence</ax>: no religion grounded in reason holds up, faith always exceeding the available evidence (hence the ironic <c>fideist</c> twist when he concludes that only a continued miracle, faith itself, makes one believe Christianity). Religious belief thus belongs to another register than knowledge, and where it claims to demonstrate (natural theology) it conflicts with rigorous reason."
+        },
+        "references": [
+          {
+            "fr": "Enquête sur l'entendement humain, sect. X, conclusion (sur la foi)",
+            "en": "Enquiry Concerning Human Understanding, sect. X, conclusion (on faith)"
+          },
+          {
+            "fr": "Dialogues sur la religion naturelle, partie XII",
+            "en": "Dialogues Concerning Natural Religion, part XII"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TRUTH_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.6,
+          0.3,
+          0.1
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Hume distingue deux objets de l'investigation : les <c>relations d'idées</c> (mathématiques, certaines et démontrables) et les <c>faits</c> (matters of fact), dont la vérité tient à leur conformité à ce que l'expérience révèle du réel. La vérité de fait est donc affaire de correspondance avec l'expérience, tandis que la vérité des relations d'idées relève de la cohérence interne, d'où des poids partagés.",
+          "en": "Hume distinguishes two objects of inquiry: <c>relations of ideas</c> (mathematical, certain and demonstrable) and <c>matters of fact</c>, whose truth lies in their conformity to what experience reveals of the real. Factual truth is thus a matter of correspondence with experience, while the truth of relations of ideas is a matter of internal coherence, hence the split weights."
+        },
+        "references": [
+          {
+            "fr": "Enquête sur l'entendement humain, sect. IV, partie I (relations d'idées et faits)",
+            "en": "Enquiry Concerning Human Understanding, sect. IV, part I (relations of ideas and matters of fact)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.35,
+          0.25,
+          0.4
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Hume suspend toute thèse forte sur la nature ultime du réel : il tient pour une fiction la croyance à l'existence continue et indépendante des corps comme à une substance spirituelle, sans pour autant les nier dans la vie courante. Ce <c id='skepticism'>scepticisme</c> sur la substance, matérielle ou immatérielle, interdit de le classer franchement et donne des poids quasi équilibrés, avec une pointe vers le doute dualiste hérité de l'examen des perceptions.",
+          "en": "Hume suspends every strong thesis about the ultimate nature of the real: he treats as a fiction both the belief in the continued, independent existence of bodies and the belief in a spiritual substance, without denying either in ordinary life. This <c id='skepticism'>skepticism</c> about substance, material or immaterial, forbids any clear classification and yields near-balanced weights, with a slight tilt toward the dualist doubt inherited from his examination of perceptions."
+        },
+        "references": [
+          {
+            "fr": "Traité de la nature humaine, I, partie IV, sect. 2 (du scepticisme à l'égard des sens)",
+            "en": "A Treatise of Human Nature, I, part IV, sect. 2 (of scepticism with regard to the senses)"
+          },
+          {
+            "fr": "Traité de la nature humaine, I, partie IV, sect. 5 (de l'immatérialité de l'âme)",
+            "en": "A Treatise of Human Nature, I, part IV, sect. 5 (of the immateriality of the soul)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HUMAN_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Hume veut fonder une <q>science de la nature humaine</q> sur la méthode expérimentale : les mêmes ressorts (passions, <c>habitude</c>, <c>sympathie</c>) gouvernent les hommes en tout temps et tout lieu, et l'histoire est un réservoir d'observations sur des constantes. Cette uniformité de la nature humaine, indispensable à la science morale, relève d'un <c>naturalisme</c> marqué, même s'il reconnaît le poids des mœurs et de la coutume.",
+          "en": "Hume aims to ground a <q>science of human nature</q> on the experimental method: the same springs (passions, <c>habit</c>, <c>sympathy</c>) govern human beings in all times and places, and history is a store of observations on constant features. This uniformity of human nature, indispensable to moral science, reflects a marked <c>naturalism</c>, even as he acknowledges the weight of mores and custom."
+        },
+        "references": [
+          {
+            "fr": "Traité de la nature humaine, introduction (le projet d'une science de l'homme)",
+            "en": "A Treatise of Human Nature, introduction (the project of a science of man)"
+          },
+          {
+            "fr": "Enquête sur l'entendement humain, sect. VIII, partie I (l'uniformité des actions humaines)",
+            "en": "Enquiry Concerning Human Understanding, sect. VIII, part I (the uniformity of human actions)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "PARTIALITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La <c>sympathie</c>, source de l'approbation morale, est par nature inégale : nous compatissons plus vivement aux proches qu'aux lointains. Hume reconnaît cette <q>sympathie limitée</q> comme un fait premier de la nature humaine ; les règles de justice et les institutions servent précisément à corriger les effets de cette partialité, sans l'abolir. La pente est donc partialiste, tempérée par un correctif artificiel.",
+          "en": "<c>Sympathy</c>, the source of moral approval, is by nature unequal: we feel more keenly for those near us than for the distant. Hume acknowledges this <q>limited sympathy</q> as a primary fact of human nature; the rules of justice and institutions serve precisely to correct the effects of this partiality, without abolishing it. The leaning is thus partialist, tempered by an artificial corrective."
+        },
+        "references": [
+          {
+            "fr": "Traité de la nature humaine, III, partie II, sect. 1-2 (l'origine de la justice, la sympathie limitée)",
+            "en": "A Treatise of Human Nature, III, part II, sect. 1-2 (the origin of justice, limited sympathy)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SOCIAL_CONTRACT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.5
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Dans l'essai <q>Du contrat originel</q>, Hume critique la fiction d'un <c>contrat social</c> fondateur : aucun gouvernement réel ne repose sur un consentement explicite, et l'obéissance s'explique par l'<c>habitude</c>, l'utilité et l'intérêt commun, non par une promesse originaire. L'ordre politique est un fait coutumier graduellement institué, ce qui l'éloigne du contractualisme abstrait sans en faire un organicisme.",
+          "en": "In the essay <q>Of the Original Contract</q>, Hume criticizes the fiction of a founding <c>social contract</c>: no real government rests on explicit consent, and obedience is explained by <c>habit</c>, utility and common interest, not by an original promise. Political order is a customary fact gradually instituted, which distances him from abstract contractualism without making him an organicist."
+        },
+        "references": [
+          {
+            "fr": "Essais moraux, politiques et littéraires, « Du contrat originel »",
+            "en": "Essays, Moral, Political, and Literary, \"Of the Original Contract\""
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CONSERVATISM_PROGRESSISM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "EXTRAPOLATED",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Tenant l'ordre établi pour un produit de la coutume et de l'utilité éprouvée, Hume se méfie des réformes guidées par des principes abstraits et des enthousiasmes (l'enthousiasm religieux ou factieux). Sans être un réactionnaire, il valorise la stabilité des institutions et la prudence : une sensibilité plutôt <c>conservatrice</c>, prudente face au changement brusque.",
+          "en": "Holding the established order to be a product of custom and tested utility, Hume distrusts reforms driven by abstract principles and enthusiasms (religious or factious enthusiasm). Without being a reactionary, he prizes the stability of institutions and prudence: a rather <c>conservative</c> sensibility, wary of abrupt change."
+        },
+        "references": [
+          {
+            "fr": "Essais moraux, politiques et littéraires (notamment « Du contrat originel » et « De la naissance et du progrès des arts et des sciences »)",
+            "en": "Essays, Moral, Political, and Literary (esp. \"Of the Original Contract\" and \"Of the Rise and Progress of the Arts and Sciences\")"
+          }
+        ],
+        "strength": "WEAK"
+      }
+    },
+    {
+      "axisId": "BEAUTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La beauté n'est pas une qualité des choses mais existe dans l'esprit qui les contemple : elle se ramène à un <c>sentiment</c> de plaisir, comme la valeur morale. Hume n'en conclut pas à un pur arbitraire : un <q>standard du goût</q> se dégage du verdict des critiques expérimentés et délicats, ce qui tempère le subjectivisme sans le renverser.",
+          "en": "Beauty is no quality of things but exists in the mind that contemplates them: it reduces to a <c>sentiment</c> of pleasure, like moral worth. Hume does not infer sheer arbitrariness: a <q>standard of taste</q> emerges from the verdict of experienced, delicate critics, which tempers the subjectivism without overturning it."
+        },
+        "references": [
+          {
+            "fr": "Essais, « De la norme du goût »",
+            "en": "Essays, \"Of the Standard of Taste\""
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "La beauté n'est pas une qualité des choses mêmes : elle existe seulement dans l'esprit qui les contemple, et chaque esprit perçoit une beauté différente.",
+            "en": "Beauty is no quality in things themselves: it exists merely in the mind which contemplates them; and each mind perceives a different beauty."
+          },
+          "source": {
+            "fr": "Essais, « De la norme du goût »",
+            "en": "Essays, \"Of the Standard of Taste\""
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SELF_INTEREST",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.3
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Hume récuse l'<c>égoïsme</c> psychologique qui réduirait toute motivation à l'intérêt propre : il existe une <c>bienveillance</c> désintéressée et une <c>sympathie</c> réelles, sources de l'approbation morale. L'intérêt n'est donc pas le seul ressort, même s'il joue un grand rôle (l'utilité, l'origine de la justice), d'où une position modérément altruiste.",
+          "en": "Hume rejects the psychological <c>egoism</c> that would reduce all motivation to self-interest: there exists a genuine disinterested <c>benevolence</c> and real <c>sympathy</c>, the sources of moral approval. Interest is therefore not the only spring, though it plays a large part (utility, the origin of justice), hence a moderately altruistic position."
+        },
+        "references": [
+          {
+            "fr": "Enquête sur les principes de la morale, appendice II (de l'amour de soi)",
+            "en": "Enquiry Concerning the Principles of Morals, Appendix II (of self-love)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MACHINE_MIND",
+      "status": "NOT_APPLICABLE",
+      "note": {
+        "fr": "L'opposition fonctionnalisme / naturalisme biologique sur l'esprit suppose les sciences cognitives et l'intelligence artificielle du XXe siècle. Hume théorise l'esprit comme un <c>faisceau de perceptions</c> associées par des lois (ressemblance, contiguïté, causalité), mais la question de savoir si une machine pourrait penser lui est étrangère.",
+        "en": "The functionalism / biological-naturalism opposition about mind presupposes 20th-century cognitive science and artificial intelligence. Hume theorizes the mind as a <c>bundle of perceptions</c> associated by laws (resemblance, contiguity, causation), but the question whether a machine could think is foreign to him."
+      }
+    },
+    {
+      "axisId": "PROBLEM_OF_EVIL",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0,
+          0.1,
+          0.9
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Dans les <w>Dialogues sur la religion naturelle</w>, Philon reprend les vieilles questions d'Épicure : devant la masse des souffrances du monde, la bonté et la toute-puissance divines ne se laissent pas inférer de la nature. Le mal est l'écueil de la théologie naturelle.",
+          "en": "In the <w>Dialogues Concerning Natural Religion</w>, Philo revives Epicurus's old questions: faced with the world's mass of suffering, divine goodness and omnipotence cannot be inferred from nature. Evil is the reef on which natural theology runs aground."
+        },
+        "references": [
+          {
+            "fr": "Dialogues sur la religion naturelle, X-XI",
+            "en": "Dialogues Concerning Natural Religion, X-XI"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "UNIVERSALS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.75
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Reprenant Berkeley, Hume nie l'existence d'idées abstraites générales : une idée est toujours particulière, mais un mot général l'associe à d'autres qui se ressemblent et peut les rappeler. Les universaux tiennent aux mots et à l'habitude, non à des réalités.",
+          "en": "Following Berkeley, Hume denies that abstract general ideas exist: an idea is always particular, but a general word ties it to others that resemble it and can recall them. Universals are a matter of words and habit, not of realities."
+        },
+        "references": [
+          {
+            "fr": "Traité de la nature humaine, I, I, 7",
+            "en": "A Treatise of Human Nature, I, I, 7"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "CAUSALITY",
+      "thesis": {
+        "fr": "Nous ne percevons jamais la <c>connexion nécessaire</c> entre cause et effet, seulement leur <c>conjonction constante</c> : la causalité n'est qu'une <c>habitude</c> de l'esprit, et rien ne fonde rationnellement l'<c id='induction'>induction</c>.",
+        "en": "We never perceive the <c>necessary connection</c> between cause and effect, only their <c>constant conjunction</c>: causation is but a <c>habit</c> of the mind, and nothing rationally grounds <c id='induction'>induction</c>."
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "thesis": {
+        "fr": "La raison ne peut jamais à elle seule mouvoir à l'action ni fixer une fin : elle est et ne doit être que l'esclave des passions, dont elle calcule seulement les moyens.",
+        "en": "Reason can never by itself move us to act or set an end: it is and ought only to be the servant of the passions, computing nothing but their means."
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "thesis": {
+        "fr": "Quand je m'examine, je ne saisis jamais un moi mais toujours une perception : le moi n'est qu'un <q>faisceau de perceptions</q> en flux, sans substance ni <c id='personal-identity'>identité</c> réelle.",
+        "en": "When I look within, I never catch a self but always some perception: the self is only a <q>bundle of perceptions</q> in flux, with no substance and no real <c id='personal-identity'>identity</c>."
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "thesis": {
+        "fr": "D'un constat sur ce qui <bel>est</bel> on ne peut déduire ce qui <bel>doit être</bel> : la valeur ne se lit pas dans les faits, elle tient au <c>sentiment</c> d'approbation du spectateur.",
+        "en": "From what <bel>is</bel> one cannot derive what <bel>ought</bel> to be: value is not read off the facts but lies in the spectator's <c>sentiment</c> of approval."
+      }
+    },
+    {
+      "axisId": "BELIEF_ETHICS",
+      "thesis": {
+        "fr": "Il faut mesurer son assentiment à la force de la preuve : nul témoignage ne peut établir un <c>miracle</c>, car la fausseté du témoin sera toujours moins improbable que la violation des lois de la nature.",
+        "en": "One must measure one's assent to the strength of the evidence: no testimony can establish a <c>miracle</c>, for the witness being mistaken is always less improbable than a violation of the laws of nature."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

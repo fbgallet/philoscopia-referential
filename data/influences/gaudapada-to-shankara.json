@@ -1,0 +1,16 @@
+{
+  "id": "gaudapada-to-shankara",
+  "from": { "kind": "PHILOSOPHER", "slug": "gaudapada" },
+  "to": { "kind": "PHILOSOPHER", "slug": "shankara" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='shankara'>Śaṅkara</ph> systématise l'<mv id='vedanta'>Advaita Vedānta</mv> en s'appuyant explicitement sur <ph id='gaudapada'>Gauḍapāda</ph>, dont il prolonge la doctrine de la <c>non-dualité</c> de l'âme et de l'absolu.",
+    "en": "<ph id='shankara'>Śaṅkara</ph> systematises <mv id='vedanta'>Advaita Vedānta</mv> by leaning explicitly on <ph id='gaudapada'>Gauḍapāda</ph>, whose doctrine of the <c>non-duality</c> of the self and the absolute he carries on."
+  },
+  "sources": [
+    { "fr": "Śaṅkara, Commentaire des Brahma-sūtra", "en": "Śaṅkara, Commentary on the Brahma Sūtras" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

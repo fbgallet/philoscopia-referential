@@ -1,0 +1,383 @@
+{
+  "id": "DEATH",
+  "relation": "SELF",
+  "territory": "EXISTENCE",
+  "label": {
+    "fr": "La mort",
+    "en": "Death"
+  },
+  "question": {
+    "fr": "Quelle attitude adopter face à la mort ?",
+    "en": "What attitude should we take toward death?"
+  },
+  "stakes": {
+    "fr": "Selon qu'on la tient pour un simple néant, pour l'horizon qui donne à la vie son prix, pour un passage vers un au-delà ou pour un scandale à combattre, ce n'est pas la même chose de vivre. La fin qui nous attend décide en secret de l'urgence, ou de la sérénité, avec laquelle nous traversons nos jours.",
+    "en": "Whether we take it for sheer nothingness, for the horizon that gives life its worth, for a passage toward a beyond, or for an outrage to be fought, living is not the same thing. The end that awaits us secretly governs the urgency, or the serenity, with which we move through our days."
+  },
+  "layer": "VALUE",
+  "type": "CATEGORICAL",
+  "commonOpinion": "REVOLT",
+  "poles": [
+    {
+      "id": "EPICUREANISM",
+      "label": {
+        "fr": "La mort n'est rien",
+        "en": "Death is nothing"
+      },
+      "description": {
+        "fr": "La mort n'est rien pour nous : tant que nous sommes là, elle n'est pas, et quand elle est là, nous ne sommes plus. La craindre est donc irrationnel, et s'en libérer permet de jouir sereinement de la vie présente.",
+        "en": "Death is nothing to us: as long as we exist, it is not here, and when it is here, we no longer exist. Fearing it is therefore irrational, and freeing ourselves from this fear lets us enjoy the present life serenely."
+      },
+      "figures": [
+        {
+          "slug": "epicurus",
+          "name": {
+            "fr": "Épicure",
+            "en": "Epicurus"
+          }
+        }
+      ]
+    },
+    {
+      "id": "BEING_TOWARD_DEATH",
+      "label": {
+        "fr": "Être-pour-la-mort",
+        "en": "Being-toward-death"
+      },
+      "description": {
+        "fr": "Loin d'être un simple événement final, la mort est ma possibilité la plus propre : l'assumer lucidement arrache à la dispersion quotidienne et ouvre à une existence authentique. C'est en se sachant mortel que l'on devient vraiment soi-même.",
+        "en": "Far from being a mere final event, death is my ownmost possibility: facing it lucidly tears us away from everyday distraction and opens the way to an authentic existence. It is by knowing ourselves mortal that we truly become ourselves."
+      },
+      "figures": [
+        {
+          "slug": "heidegger",
+          "name": {
+            "fr": "Heidegger",
+            "en": "Heidegger"
+          }
+        }
+      ]
+    },
+    {
+      "id": "IMMORTALISM",
+      "label": {
+        "fr": "Immortalisme",
+        "en": "Immortalism"
+      },
+      "description": {
+        "fr": "La mort n'est pas la fin de tout : l'âme, ou quelque chose de nous, survit au corps. La vie présente se comprend alors comme une préparation ou un passage, et la mort perd son caractère de défaite absolue.",
+        "en": "Death is not the end of everything: the soul, or something of us, survives the body. The present life is then understood as a preparation or a passage, and death loses its character of absolute defeat."
+      },
+      "figures": [
+        {
+          "slug": "plato",
+          "name": {
+            "fr": "Platon",
+            "en": "Plato"
+          }
+        },
+        {
+          "slug": "religions",
+          "name": {
+            "fr": "les religions",
+            "en": "religions"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REVOLT",
+      "label": {
+        "fr": "Révolte / refus",
+        "en": "Revolt / refusal"
+      },
+      "description": {
+        "fr": "La mort est le mal par excellence, un scandale inacceptable, non un événement à accueillir avec sérénité. La juste attitude n'est pas de s'y résigner mais de la refuser : s'élever contre elle par la révolte lucide, ou chercher à la repousser et à la vaincre.",
+        "en": "Death is the supreme evil, an unacceptable scandal, not an event to greet with serenity. The right attitude is not to resign oneself to it but to refuse it: to rise against it in lucid revolt, or to seek to push it back and defeat it."
+      },
+      "figures": [
+        {
+          "slug": "camus",
+          "name": {
+            "fr": "Camus",
+            "en": "Camus"
+          }
+        },
+        {
+          "slug": "beauvoir",
+          "name": {
+            "fr": "Beauvoir",
+            "en": "Beauvoir"
+          }
+        }
+      ]
+    }
+  ],
+  "core": true,
+  "difficulty": 2,
+  "clusters": [],
+  "relatedAxes": [
+    "GOD_EXISTENCE",
+    "LIFE_MEANING",
+    "TIME_ORIENTATION",
+    "SELF_NATURE",
+    "HUMAN_ENHANCEMENT"
+  ],
+  "problems": [
+    {
+      "id": "before-birth-after-death",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "celui qui meurt", "en": "the one who dies" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "sphere": "EXISTENTIAL",
+      "keywords": [
+        { "fr": "symétrie", "en": "symmetry" },
+        { "fr": "privation", "en": "deprivation" },
+        { "fr": "« la mort n'est rien »", "en": "\"death is nothing\"" },
+        { "fr": "néant", "en": "non-being" }
+      ],
+      "poles": ["EPICUREANISM", "REVOLT"],
+      "anchors": [
+        { "name": { "fr": "Épicure", "en": "Epicurus" }, "kind": "PHILOSOPHER", "slug": "epicurus" },
+        { "name": { "fr": "Lucrèce", "en": "Lucretius" }, "kind": "PHILOSOPHER", "slug": "lucretius" },
+        { "name": { "fr": "Nagel", "en": "Nagel" }, "kind": "PHILOSOPHER", "slug": "nagel" }
+      ],
+      "title": { "fr": "Avant la naissance, après la mort", "en": "Before birth, after death" },
+      "explicitation": {
+        "fr": "Nous ne pleurons pas le néant qui précédait notre naissance : pourquoi redouter celui qui suivra notre mort ? Et comment la mort serait-elle un mal, s'il n'y a plus personne pour en pâtir ?",
+        "en": "We do not mourn the non-being that came before our birth: why dread the one that will follow our death? And how could death be an evil if no one is left to suffer it?"
+      }
+    },
+    {
+      "id": "finitude-a-good",
+      "resolution": "SURFACED",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "une vie entière", "en": "a whole life" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "sphere": "EXISTENTIAL",
+      "keywords": [
+        { "fr": "immortalité", "en": "immortality" },
+        { "fr": "ennui", "en": "boredom" },
+        { "fr": "Makropulos", "en": "Makropulos" },
+        { "fr": "finitude", "en": "finitude" }
+      ],
+      "poles": ["EPICUREANISM", "BEING_TOWARD_DEATH", "IMMORTALISM"],
+      "anchors": [
+        { "name": { "fr": "Williams", "en": "Williams" }, "kind": "PHILOSOPHER", "slug": "williams" },
+        { "name": { "fr": "Heidegger", "en": "Heidegger" }, "kind": "PHILOSOPHER", "slug": "heidegger" },
+        { "name": { "fr": "Épicure", "en": "Epicurus" }, "kind": "PHILOSOPHER", "slug": "epicurus" }
+      ],
+      "title": { "fr": "La finitude, un bien ?", "en": "Is finitude a good?" },
+      "explicitation": {
+        "fr": "Une vie sans terme finirait-elle par se vider de sa saveur, passions émoussées, tout déjà vécu ? Si oui, ce n'est pas malgré la mort mais grâce à elle que nos jours comptent.",
+        "en": "Would a life with no term end up drained of its savor, passions dulled, everything already lived? If so, it is not in spite of death but thanks to it that our days count."
+      },
+      "ref": { "kind": "THOUGHT_EXPERIMENT", "id": "endless-life" }
+    },
+    {
+      "id": "my-death-or-the-death",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "ma propre mort", "en": "my own death" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "sphere": "EXISTENTIAL",
+      "keywords": [
+        { "fr": "authenticité", "en": "authenticity" },
+        { "fr": "possibilité la plus propre", "en": "ownmost possibility" },
+        { "fr": "absurde", "en": "the absurd" }
+      ],
+      "poles": ["BEING_TOWARD_DEATH"],
+      "anchors": [
+        { "name": { "fr": "Heidegger", "en": "Heidegger" }, "kind": "PHILOSOPHER", "slug": "heidegger" },
+        { "name": { "fr": "Sartre", "en": "Sartre" }, "kind": "PHILOSOPHER", "slug": "sartre" }
+      ],
+      "title": { "fr": "Ma mort, ou la mort ?", "en": "My death, or death?" },
+      "explicitation": {
+        "fr": "Ma mort est-elle ma possibilité la plus propre, celle qui m'individualise et me rend à moi-même, ou une limite absurde venue du dehors, qui met fin à mes possibles sans rien me révéler ?",
+        "en": "Is my death my ownmost possibility, the one that individualizes me and returns me to myself, or an absurd limit from outside that ends my possibilities without revealing anything to me?"
+      }
+    },
+    {
+      "id": "taming-the-fear",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "la pensée de la mort", "en": "the thought of death" },
+      "mode": "PRACTICAL",
+      "relation": "SUBPROBLEM",
+      "sphere": "EXISTENTIAL",
+      "keywords": [
+        { "fr": "exercice spirituel", "en": "spiritual exercise" },
+        { "fr": "préméditation", "en": "premeditation" },
+        { "fr": "sérénité", "en": "serenity" },
+        { "fr": "« apprendre à mourir »", "en": "\"learning to die\"" }
+      ],
+      "poles": ["EPICUREANISM"],
+      "anchors": [
+        { "name": { "fr": "Épicure", "en": "Epicurus" }, "kind": "PHILOSOPHER", "slug": "epicurus" },
+        { "name": { "fr": "Sénèque", "en": "Seneca" }, "kind": "PHILOSOPHER", "slug": "seneca" },
+        { "name": { "fr": "Montaigne", "en": "Montaigne" }, "kind": "PHILOSOPHER", "slug": "montaigne" }
+      ],
+      "title": { "fr": "Apprivoiser la peur", "en": "Taming the fear" },
+      "explicitation": {
+        "fr": "Les sages ont proposé des exercices pour vivre sans la hanter, y songer chaque jour ou n'y plus penser : la philosophie peut-elle vraiment nous guérir de cette peur, ou tient-elle à nous trop fort pour céder ?",
+        "en": "The sages proposed exercises for living without being haunted by it, dwelling on it daily or not at all: can philosophy truly cure us of this fear, or does it cling to us too hard to yield?"
+      }
+    },
+    {
+      "id": "the-death-of-others",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "la mort d'un proche", "en": "the death of a loved one" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "sphere": "EXISTENTIAL",
+      "keywords": [
+        { "fr": "deuil", "en": "grief" },
+        { "fr": "perte", "en": "loss" },
+        { "fr": "autrui", "en": "the other" },
+        { "fr": "« mort en première personne »", "en": "\"death in the first person\"" }
+      ],
+      "poles": ["REVOLT", "EPICUREANISM"],
+      "anchors": [
+        { "name": { "fr": "Levinas", "en": "Levinas" }, "kind": "PHILOSOPHER", "slug": "levinas" },
+        { "name": { "fr": "Beauvoir", "en": "Beauvoir" }, "kind": "PHILOSOPHER", "slug": "beauvoir" },
+        { "name": { "fr": "Jankélévitch", "en": "Jankélévitch" }, "kind": "PHILOSOPHER", "slug": "jankelevitch" }
+      ],
+      "title": { "fr": "La mort des autres", "en": "The death of others" },
+      "explicitation": {
+        "fr": "La mort nous atteint d'abord dans celle de ceux que nous aimons : ce deuil n'est-il « rien », ou nous apprend-il, mieux que toute théorie, ce que mourir veut dire ?",
+        "en": "Death reaches us first in the death of those we love: is this grief \"nothing\", or does it teach us, better than any theory, what dying means?"
+      }
+    },
+    {
+      "id": "choosing-ones-death",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "mettre fin à sa vie", "en": "ending one's life" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "sphere": "MORAL",
+      "keywords": [
+        { "fr": "suicide", "en": "suicide" },
+        { "fr": "euthanasie", "en": "euthanasia" },
+        { "fr": "« porte ouverte »", "en": "\"open door\"" },
+        { "fr": "liberté ultime", "en": "ultimate freedom" }
+      ],
+      "anchors": [
+        { "name": { "fr": "Sénèque", "en": "Seneca" }, "kind": "PHILOSOPHER", "slug": "seneca" },
+        { "name": { "fr": "Camus", "en": "Camus" }, "kind": "PHILOSOPHER", "slug": "camus" },
+        { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" }
+      ],
+      "title": { "fr": "Choisir sa mort", "en": "Choosing one's death" },
+      "explicitation": {
+        "fr": "Devant une vie devenue insupportable, mettre fin à ses jours est-il l'ultime liberté, la « porte ouverte » des stoïciens, ou une faute envers soi et envers les autres ?",
+        "en": "Faced with a life become unbearable, is ending one's days the ultimate freedom, the Stoics' \"open door\", or a wrong against oneself and others?"
+      }
+    },
+    {
+      "id": "does-something-survive",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "l'âme", "en": "the soul" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "âme", "en": "soul" },
+        { "fr": "au-delà", "en": "afterlife" },
+        { "fr": "résurrection", "en": "resurrection" },
+        { "fr": "anéantissement", "en": "annihilation" }
+      ],
+      "poles": ["IMMORTALISM", "EPICUREANISM"],
+      "anchors": [
+        { "name": { "fr": "Platon", "en": "Plato" }, "kind": "PHILOSOPHER", "slug": "plato" },
+        { "name": { "fr": "les religions", "en": "religions" }, "kind": "TRADITION" },
+        { "name": { "fr": "Lucrèce", "en": "Lucretius" }, "kind": "PHILOSOPHER", "slug": "lucretius" }
+      ],
+      "doorways": [{ "axis": "GOD_EXISTENCE" }, { "axis": "SELF_NATURE" }],
+      "title": { "fr": "Quelque chose survit-il ?", "en": "Does anything survive?" },
+      "explicitation": {
+        "fr": "L'âme, ou quelque chose de nous, échappe-t-il à la dissolution du corps, ou la conscience s'éteint-elle avec lui : et si une part survivait, serait-ce encore vraiment nous ?",
+        "en": "Does the soul, or something of us, escape the dissolution of the body, or does consciousness go out with it: and if a part survived, would it still really be us?"
+      }
+    },
+    {
+      "id": "symbolic-immortality",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "ce qui nous survit", "en": "what outlasts us" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "sphere": "EXISTENTIAL",
+      "keywords": [
+        { "fr": "postérité", "en": "posterity" },
+        { "fr": "mémoire", "en": "memory" },
+        { "fr": "descendance", "en": "offspring" },
+        { "fr": "immortalité symbolique", "en": "symbolic immortality" }
+      ],
+      "poles": ["IMMORTALISM", "REVOLT"],
+      "anchors": [
+        { "name": { "fr": "Platon (Diotime)", "en": "Plato (Diotima)" }, "kind": "PHILOSOPHER", "slug": "plato" },
+        { "name": { "fr": "Unamuno", "en": "Unamuno" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "Arendt", "en": "Arendt" }, "kind": "PHILOSOPHER", "slug": "arendt" }
+      ],
+      "title": { "fr": "Survivre dans ses œuvres", "en": "Living on in one's works" },
+      "explicitation": {
+        "fr": "À défaut d'une survie de l'âme, se prolonger dans ce qu'on laisse, des enfants, une œuvre, une trace dans les mémoires : vraie victoire sur la mort, ou consolation qui ne nous concerne plus une fois disparus ?",
+        "en": "Failing a survival of the soul, to live on in what we leave behind, children, a work, a trace in memory: a real victory over death, or a consolation that no longer concerns us once we are gone?"
+      }
+    },
+    {
+      "id": "defeating-death",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "la condition mortelle", "en": "the mortal condition" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "sphere": "EXISTENTIAL",
+      "keywords": [
+        { "fr": "transhumanisme", "en": "transhumanism" },
+        { "fr": "prolongation de la vie", "en": "life extension" },
+        { "fr": "« la mort, une maladie »", "en": "\"death as a disease\"" }
+      ],
+      "poles": ["REVOLT"],
+      "anchors": [
+        { "name": { "fr": "Transhumanisme", "en": "Transhumanism" }, "kind": "MOVEMENT", "slug": "transhumanism" },
+        { "name": { "fr": "Jonas", "en": "Jonas" }, "kind": "PHILOSOPHER", "slug": "jonas" },
+        { "name": { "fr": "Williams", "en": "Williams" }, "kind": "PHILOSOPHER", "slug": "williams" }
+      ],
+      "doorways": [{ "axis": "HUMAN_ENHANCEMENT" }],
+      "title": { "fr": "Vaincre la mort ?", "en": "Defeating death?" },
+      "explicitation": {
+        "fr": "Et si la mort n'était plus une fatalité mais une maladie à guérir : devons-nous repousser sans fin nos limites par la technique, ou y a-t-il une sagesse à consentir à notre condition mortelle ?",
+        "en": "What if death were no longer a fate but a disease to cure: should we push back our limits endlessly through technology, or is there a wisdom in consenting to our mortal condition?"
+      }
+    },
+    {
+      "id": "does-death-void-meaning",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "le cours d'une vie", "en": "the course of a life" },
+      "mode": "DESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "vanité", "en": "futility" },
+        { "fr": "éternité", "en": "eternity" },
+        { "fr": "sens", "en": "meaning" }
+      ],
+      "anchors": [
+        { "name": { "fr": "Tolstoï", "en": "Tolstoy" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "Nagel", "en": "Nagel" }, "kind": "PHILOSOPHER", "slug": "nagel" }
+      ],
+      "doorways": [{ "axis": "LIFE_MEANING", "problem": "meaning-and-permanence" }],
+      "title": { "fr": "Tout finit : est-ce vain ?", "en": "Everything ends: is it in vain?" },
+      "explicitation": {
+        "fr": "Puisque la mort efface tout, ce que nous faisons a-t-il encore un sens, ou une chose peut-elle valoir pleinement sans durer toujours ?",
+        "en": "Since death erases everything, does what we do still have meaning, or can something be fully worthwhile without lasting forever?"
+      }
+    }
+  ]
+}

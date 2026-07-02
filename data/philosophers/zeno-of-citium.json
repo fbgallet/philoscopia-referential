@@ -1,0 +1,26 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "zeno-of-citium",
+  "stub": true,
+  "name": {
+    "fr": "Zénon de Citium",
+    "en": "Zeno of Citium"
+  },
+  "summary": {
+    "fr": "Fondateur du <mv id='stoicism'>stoïcisme</mv>, qui enseignait sous le Portique peint d'Athènes une morale de la vie selon la nature et la raison.",
+    "en": "Founder of <mv id='stoicism'>Stoicism</mv>, who taught under the Painted Porch of Athens an ethics of living according to nature and reason."
+  },
+  "birth": -334,
+  "death": -262,
+  "nationality": {
+    "fr": "Grec",
+    "en": "Greek"
+  },
+  "movements": [
+    "stoicism"
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

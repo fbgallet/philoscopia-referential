@@ -1,0 +1,1043 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "kant",
+  "name": {
+    "fr": "Kant",
+    "en": "Kant"
+  },
+  "fullName": {
+    "fr": "Emmanuel Kant",
+    "en": "Immanuel Kant"
+  },
+  "tagline": {
+    "fr": "Le <c>criticisme</c> : borner la connaissance aux <c>phénomènes</c> pour sauver la science et la liberté.",
+    "en": "<c>Critical philosophy</c>: bounding knowledge to <c>phenomena</c> to save both science and freedom."
+  },
+  "summary": {
+    "fr": "Philosophe allemand des <mv>Lumières</mv>, professeur à Königsberg dont il ne sortit jamais, figure pivot de la philosophie moderne entre l'<mv id='rationalism'>héritage rationaliste</mv> de <ph id='leibniz'>Leibniz</ph> et l'<mv id='empiricism'>empirisme</mv> de <ph id='hume'>Hume</ph>, qui dit l'avoir <q>tiré de son sommeil dogmatique</q>. Après une longue période « précritique », il publie tardivement, à près de soixante ans, les trois <w>Critiques</w> où il entreprend de soumettre la <c>raison</c> elle-même à un tribunal, pour mesurer ce qu'elle peut connaître, ce qu'elle doit faire et ce qu'il lui est permis d'espérer. Son œuvre commande tout l'<mv>idéalisme allemand</mv> qui le suit (<ph id='hegel'>Hegel</ph>) et reste, du néokantisme à <ph id='rawls'>Rawls</ph>, une référence vivante de l'éthique et de la philosophie politique.",
+    "en": "German <mv>Enlightenment</mv> philosopher, a professor at Königsberg he never left, a pivotal figure of modern philosophy standing between the <mv id='rationalism'>rationalist legacy</mv> of <ph id='leibniz'>Leibniz</ph> and the <mv id='empiricism'>empiricism</mv> of <ph id='hume'>Hume</ph>, who he says <q>woke him from his dogmatic slumber</q>. After a long \"pre-critical\" period he published late, near sixty, the three <w>Critiques</w>, in which he sets out to bring <c>reason</c> itself before a tribunal, to measure what it can know, what it ought to do and what it may hope. His work commands the whole of <mv>German idealism</mv> that followed (<ph id='hegel'>Hegel</ph>) and remains, from neo-Kantianism to <ph id='rawls'>Rawls</ph>, a living reference for ethics and political philosophy."
+  },
+  "birth": 1724,
+  "death": 1804,
+  "nationality": {
+    "fr": "Prussien",
+    "en": "Prussian"
+  },
+  "movements": [],
+  "entries": [
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.1
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Kant ne fait pas de l'absence de souffrance la fin de la morale : ce qui a un prix inconditionné est la <c>volonté bonne</c>, indépendante du plaisir et de la peine. La souffrance est ainsi moralement indifférente quant à la valeur de la personne, et l'épreuve peut même manifester la fermeté morale. Mais ce détachement se borne d'un <kw>devoir de bienfaisance</kw> qui commande de soulager la souffrance d'autrui.",
+          "en": "Kant does not make the absence of suffering the end of morality: what has unconditional worth is the <c>good will</c>, independent of pleasure and pain. Suffering is thus morally indifferent as to the worth of the person, and ordeal can even display moral firmness. But this detachment is bordered by a <kw>duty of beneficence</kw> that commands relieving the suffering of others."
+        },
+        "references": [
+          {
+            "fr": "Fondements de la métaphysique des mœurs, I-II",
+            "en": "Groundwork of the Metaphysics of Morals, I-II"
+          },
+          {
+            "fr": "Métaphysique des mœurs, Doctrine de la vertu",
+            "en": "Metaphysics of Morals, Doctrine of Virtue"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.55,
+          0.45,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le sens de la vie tient pour Kant à la <c>vocation morale</c> : devenir digne du bonheur en accomplissant la loi que la raison se donne à elle-même, ce qui relève de l'<kw>autonomie</kw>, non d'une fin reçue. Mais la réalisation du souverain bien excède nos forces et postule un ordre moral du monde garanti par Dieu : une providence rationnellement espérée vient ainsi border l'autonomie d'un horizon téléologique.",
+          "en": "The meaning of life, for Kant, lies in the <c>moral vocation</c>: to become worthy of happiness by fulfilling the law that reason gives itself, which belongs to <kw>autonomy</kw>, not to a received end. But the realization of the highest good exceeds our powers and postulates a moral world-order guaranteed by God: a rationally hoped-for providence thus borders autonomy with a teleological horizon."
+        },
+        "references": [
+          {
+            "fr": "Critique de la raison pratique, Dialectique",
+            "en": "Critique of Practical Reason, Dialectic"
+          },
+          {
+            "fr": "Idée d'une histoire universelle au point de vue cosmopolitique",
+            "en": "Idea for a Universal History with a Cosmopolitan Aim"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0.1,
+          0.8,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La raison théorique ne peut prouver que l'âme survit au corps, mais la raison pratique le <c>postule</c> : la loi morale commande une perfection que nulle vie finie n'achève, ce qui exige un progrès indéfini, donc l'immortalité de l'âme. Immortalité non démontrée mais postulée, croyance rationnelle adossée à la moralité.",
+          "en": "Theoretical reason cannot prove that the soul survives the body, but practical reason <c>postulates</c> it: the moral law commands a perfection that no finite life completes, which requires an indefinite progress, hence the immortality of the soul. An immortality not demonstrated but postulated, a rational belief resting on morality."
+        },
+        "references": [
+          {
+            "fr": "Critique de la raison pratique, Dialectique, II",
+            "en": "Critique of Practical Reason, Dialectic, II"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0.4,
+          0.5
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Les inclinations ne sont pas mauvaises en soi, mais elles ne sauraient fonder la valeur morale : une action n'a de prix que faite par <c>devoir</c>, indépendamment de tout penchant. Ce <kw>désintéressement moral</kw> exige que la volonté se rende autonome à l'égard du désir, agissant au besoin contre lui ; sans prôner l'extinction des inclinations, Kant tient à leur endroit une distance qui penche vers le détachement plus que vers leur tri eudémoniste.",
+          "en": "Inclinations are not evil in themselves, but they cannot ground moral worth: an action has value only when done from <c>duty</c>, independently of any inclination. This <kw>moral disinterestedness</kw> requires that the will make itself autonomous with regard to desire, acting against it where need be; without preaching the extinction of inclinations, Kant keeps a distance from them that leans toward detachment more than toward their eudaimonist sorting."
+        },
+        "references": [
+          {
+            "fr": "Fondements de la métaphysique des mœurs, I-II",
+            "en": "Groundwork of the Metaphysics of Morals, I-II"
+          },
+          {
+            "fr": "Critique de la raison pratique",
+            "en": "Critique of Practical Reason"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Kant reconnaît à l'homme une nature raisonnable qui n'est pas choisie : c'est l'<c>humanité</c> comme fin en soi, source de la dignité et fondement de la loi morale. Cette essence rationnelle est donnée et universelle ; mais le caractère moral, lui, se conquiert par la liberté, ce qui tempère l'essentialisme sans l'abolir.",
+          "en": "Kant grants the human being a rational nature that is not chosen: it is <c>humanity</c> as an end in itself, the source of dignity and the ground of the moral law. This rational essence is given and universal; but moral character is won through freedom, which tempers the essentialism without abolishing it."
+        },
+        "references": [
+          {
+            "fr": "Fondements de la métaphysique des mœurs, II",
+            "en": "Groundwork of the Metaphysics of Morals, II"
+          },
+          {
+            "fr": "Anthropologie du point de vue pragmatique",
+            "en": "Anthropology from a Pragmatic Point of View"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Réveillé de son <kw>sommeil dogmatique</kw> par <ph id='hume'>Hume</ph>, Kant refuse les deux voies opposées : la métaphysique <c id='dogmatism'>dogmatique</c> qui prétend connaître l'inconditionné, Dieu, l'âme, le monde comme totalité, se perd dans les <kw>antinomies</kw>, où la raison se contredit elle-même ; mais le <c id='skepticism'>scepticisme</c> humien, qui dissout la nécessité dans l'habitude, est tout aussi intenable. La voie critique tranche : il existe bien une certitude <kw>apodictique</kw>, celle des jugements synthétiques a priori, mais elle ne vaut que des <c>phénomènes</c>, les objets tels qu'ils nous apparaissent sous les formes du sujet, non des choses en soi. Certitude nécessaire et universelle, donc, mais payée d'une borne infranchissable.",
+          "en": "Roused from his <kw>dogmatic slumber</kw> by <ph id='hume'>Hume</ph>, Kant rejects both opposing paths: <c id='dogmatism'>dogmatic</c> metaphysics, which claims to know the unconditioned, God, the soul, the world as a totality, loses itself in the <kw>antinomies</kw>, where reason contradicts itself; yet Humean <c id='skepticism'>skepticism</c>, dissolving necessity into habit, is just as untenable. The critical path settles it: there is indeed an <kw>apodictic</kw> certainty, that of synthetic a priori judgments, but it holds only of <c>appearances</c>, objects as they appear to us under the forms of the subject, not of things in themselves. A necessary and universal certainty, then, but paid for with an impassable limit."
+        },
+        "references": [
+          {
+            "fr": "Critique de la raison pure, Préfaces et Dialectique transcendantale",
+            "en": "Critique of Pure Reason, Prefaces and Transcendental Dialectic"
+          },
+          {
+            "fr": "Prolégomènes à toute métaphysique future",
+            "en": "Prolegomena to Any Future Metaphysics"
+          }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "Je l'avoue franchement, c'est l'objection de David Hume qui, voici bien des années, interrompit mon sommeil dogmatique.",
+            "en": "I freely admit that it was the objection of David Hume that, many years ago, first interrupted my dogmatic slumber."
+          },
+          "source": {
+            "fr": "Prolégomènes, Préface",
+            "en": "Prolegomena, Preface"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le <stk>litige entre <mv id='rationalism'>rationalisme</mv> et <mv id='empiricism'>empirisme</mv></stk> est insoluble tant qu'on demande à un seul terme de tout porter : l'expérience seule ne fournit jamais de nécessité (objection de <ph id='hume'>Hume</ph> sur la causalité), la raison seule tourne à vide. Kant en tire la solution du <c>jugement synthétique a priori</c> : il existe des formes <c>a priori</c> de la sensibilité et de l'entendement qui structurent toute expérience possible, de sorte que la connaissance commence avec l'expérience sans en dériver tout entière. C'est le <q>renversement copernicien</q> appliqué à la connaissance, et la raison pour laquelle l'axe se fixe au centre.",
+          "en": "The <stk>dispute between <mv id='rationalism'>rationalism</mv> and <mv id='empiricism'>empiricism</mv></stk> is insoluble so long as one term is asked to carry everything: experience alone never yields necessity (<ph id='hume'>Hume</ph>'s objection about causation), reason alone runs idle. Kant's answer is the <c>synthetic a priori judgment</c>: there are <c>a priori</c> forms of sensibility and understanding that structure any possible experience, so that knowledge begins with experience without deriving wholly from it. This is the <q>Copernican turn</q> applied to knowledge, and the reason the axis settles at the centre."
+        },
+        "quote": {
+          "text": {
+            "fr": "Des pensées sans contenu sont vides, des intuitions sans concepts sont aveugles.",
+            "en": "Thoughts without content are empty, intuitions without concepts are blind."
+          },
+          "source": {
+            "fr": "Critique de la raison pure, A51/B75",
+            "en": "Critique of Pure Reason, A51/B75"
+          }
+        },
+        "references": [
+          {
+            "fr": "Critique de la raison pure, Introduction",
+            "en": "Critique of Pure Reason, Introduction"
+          },
+          {
+            "fr": "Critique de la raison pure, A51/B75",
+            "en": "Critique of Pure Reason, A51/B75"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.9,
+          0.1,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Rien n'est bon sans restriction qu'une <kw>volonté bonne</kw> : ni les talents ni le bonheur, qui peuvent servir le mal. Si la valeur morale ne tient ni à l'objet voulu ni aux conséquences, elle ne peut tenir qu'à la <stk>forme de la maxime</stk>, sa capacité à valoir comme loi pour tous. De là se déduit le <c id='categorical-imperative'>impératif catégorique</c> : agir seulement d'après une maxime que je puisse vouloir universelle. C'est un <c>déontologisme</c> qui refuse, contre l'<mv id='utilitarianism'>utilitarisme</mv>, de mesurer le devoir au résultat ; la <w id='metaphysics-of-morals-kant'>Doctrine de la vertu</w> réintroduit les vertus, mais dérivées du devoir, d'où un faible poids résiduel sur ce pôle.",
+          "en": "Nothing is good without qualification except a <kw>good will</kw>: neither talents nor happiness, which can serve evil. If moral worth lies neither in the object willed nor in the consequences, it can lie only in the <stk>form of the maxim</stk>, its fitness to hold as a law for all. From this the <c id='categorical-imperative'>categorical imperative</c> is derived: act only on a maxim I can will to be universal. This is a <c>deontology</c> that refuses, against <mv id='utilitarianism'>utilitarianism</mv>, to measure duty by outcome; the <w id='metaphysics-of-morals-kant'>Doctrine of Virtue</w> reintroduces the virtues, but as derived from duty, hence a small residual weight on that pole."
+        },
+        "quote": {
+          "text": {
+            "fr": "Agis uniquement d'après la maxime grâce à laquelle tu peux vouloir en même temps qu'elle devienne une loi universelle.",
+            "en": "Act only according to that maxim whereby you can at the same time will that it should become a universal law."
+          },
+          "source": {
+            "fr": "Fondements de la métaphysique des mœurs, section II",
+            "en": "Groundwork of the Metaphysics of Morals, section II"
+          }
+        },
+        "references": [
+          {
+            "fr": "Fondements de la métaphysique des mœurs, sections I et II",
+            "en": "Groundwork of the Metaphysics of Morals, sections I and II"
+          },
+          {
+            "fr": "Métaphysique des mœurs, Doctrine de la vertu",
+            "en": "Metaphysics of Morals, Doctrine of Virtue"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.9,
+          0,
+          0.1
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La <kw>loi morale</kw> vaut universellement pour tout être raisonnable, indépendamment des cultures et des inclinations : c'est l'universalisme le plus assumé de la tradition. Un léger poids constructiviste se justifie par l'<kw>autonomie</kw> : la loi n'est pas découverte dans le monde, la raison se la donne à elle-même.",
+          "en": "The <kw>moral law</kw> holds universally for every rational being, independently of cultures and inclinations: this is the most assertive universalism in the tradition. A slight constructivist weight is warranted by <kw>autonomy</kw>: the law is not discovered in the world, reason gives it to itself."
+        },
+        "references": [
+          {
+            "fr": "Fondements de la métaphysique des mœurs, section II",
+            "en": "Groundwork of the Metaphysics of Morals, section II"
+          },
+          {
+            "fr": "Critique de la raison pratique",
+            "en": "Critique of Practical Reason"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SINCERITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Contre <ph>Benjamin Constant</ph>, Kant soutient que la véracité est un <kw>devoir inconditionnel</kw>, même envers le meurtrier qui demande où se cache son ami : mentir détruirait le fondement de tout droit. C'est le cas d'école du rigorisme véridique.",
+          "en": "Against <ph>Benjamin Constant</ph>, Kant maintains that truthfulness is an <kw>unconditional duty</kw>, even toward the murderer asking where one's friend is hiding: lying would destroy the foundation of all right. This is the textbook case of truth-telling rigorism."
+        },
+        "references": [
+          {
+            "fr": "D'un prétendu droit de mentir par humanité",
+            "en": "On a Supposed Right to Lie from Philanthropy"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La <dif>troisième antinomie</dif> oppose un <c id='determinism'>déterminisme</c> sans faille à l'exigence d'une causalité libre, et les deux thèses paraissent également démontrables. Kant la résout par la distinction <c id='thing-in-itself'>phénomène / chose en soi</c> : le déterminisme régit l'homme comme phénomène, mais rien n'interdit de le penser comme cause <c id='free-will'>libre</c> au plan nouménal. Le <pb>devoir l'exige</pb> : « tu dois » implique « tu peux », donc la liberté est un fait de la raison pratique. D'où le rejet explicite du <c id='compatibilism'>compatibilisme</c> (un <q>misérable subterfuge</q>) ; mais la liberté restant nouménale, jamais constatée dans le monde, le score n'atteint pas l'extrême.",
+          "en": "The <dif>third antinomy</dif> sets a seamless <c id='determinism'>determinism</c> against the demand for a free causality, and both theses seem equally provable. Kant resolves it through the <c id='thing-in-itself'>phenomenon / thing-in-itself</c> distinction: determinism governs the human being as phenomenon, yet nothing forbids thinking him a <c id='free-will'>free</c> cause at the noumenal level. The <pb>moral law requires it</pb>: \"you ought\" implies \"you can\", so freedom is a fact of practical reason. Hence the explicit rejection of <c id='compatibilism'>compatibilism</c> (a <q>wretched subterfuge</q>); but since freedom stays noumenal, never observed in the world, the score stops short of the extreme."
+        },
+        "references": [
+          {
+            "fr": "Critique de la raison pure, troisième antinomie",
+            "en": "Critique of Pure Reason, Third Antinomy"
+          },
+          {
+            "fr": "Critique de la raison pratique",
+            "en": "Critique of Practical Reason"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Puisque toute connaissance est bornée aux <c>phénomènes</c>, Dieu, qui n'en est pas un, échappe à la preuve : Kant démonte une à une les <arg>preuves de l'existence de Dieu</arg> (ontologique, cosmologique, physico-théologique), la première ratant le passage du concept à l'existence. Mais ce qui est interdit au savoir est requis par la morale : sans Dieu ni immortalité, l'accord de la vertu et du bonheur (le <kw>souverain bien</kw>) resterait impensable. Dieu revient donc comme <c>postulat de la raison pratique</c>, objet d'une <c>foi rationnelle</c> et non d'un savoir, ce qui justifie un théisme modéré plutôt qu'affirmé.",
+          "en": "Since all knowledge is bounded to <c>phenomena</c>, God, who is not one, escapes proof: Kant dismantles the <arg>proofs of God's existence</arg> one by one (ontological, cosmological, physico-theological), the first failing in its leap from concept to existence. Yet what is barred to knowledge is required by morality: without God and immortality, the accord of virtue and happiness (the <kw>highest good</kw>) would stay unthinkable. God thus returns as a <c>postulate of practical reason</c>, an object of <c>rational faith</c> and not of knowledge, which warrants a moderate rather than an assertive theism."
+        },
+        "references": [
+          {
+            "fr": "Critique de la raison pure, « Idéal transcendantal »",
+            "en": "Critique of Pure Reason, \"Transcendental Ideal\""
+          },
+          {
+            "fr": "Critique de la raison pratique, Dialectique",
+            "en": "Critique of Practical Reason, Dialectic"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "BEAUTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le <kw>jugement de goût</kw> est subjectif (il ne repose sur aucun concept de l'objet) mais prétend légitimement à l'universalité. C'est exactement la position médiane nommée de l'axe, l'universalité subjective.",
+          "en": "The <kw>judgment of taste</kw> is subjective (it rests on no concept of the object) yet legitimately claims universality. This is exactly the axis's named median position, subjective universality."
+        },
+        "quote": {
+          "text": {
+            "fr": "Est beau ce qui plaît universellement sans concept.",
+            "en": "The beautiful is that which pleases universally without a concept."
+          },
+          "source": {
+            "fr": "Critique de la faculté de juger, §9",
+            "en": "Critique of the Power of Judgment, §9"
+          }
+        },
+        "references": [
+          {
+            "fr": "Critique de la faculté de juger, §6 à §9",
+            "en": "Critique of the Power of Judgment, §6-§9"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "BELONGING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Kant défend un <kw>droit cosmopolitique</kw> et l'idée d'une fédération d'États libres comme horizon de l'histoire : tout homme a un droit d'hospitalité universelle en tant que <kw>citoyen de la terre</kw>. L'État national demeure une médiation nécessaire, ce qui nuance le score.",
+          "en": "Kant defends <kw>cosmopolitan right</kw> and the idea of a federation of free states as the horizon of history: every human being has a right of universal hospitality as a <kw>citizen of the earth</kw>. The nation state remains a necessary mediation, which qualifies the score."
+        },
+        "references": [
+          {
+            "fr": "Projet de paix perpétuelle",
+            "en": "Perpetual Peace"
+          },
+          {
+            "fr": "Idée d'une histoire universelle au point de vue cosmopolitique",
+            "en": "Idea for a Universal History with a Cosmopolitan Purpose"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "PUNISHMENT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.8,
+          0.1,
+          0.1,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La peine est exigée par la justice elle-même, comme <kw>rétribution</kw> proportionnée du crime (loi du talion juridique), jamais comme simple moyen d'utilité sociale : punir quelqu'un pour dissuader les autres serait le traiter comme un moyen. C'est le rétributivisme classique.",
+          "en": "Punishment is demanded by justice itself, as <kw>retribution</kw> proportionate to the crime (juridical law of retaliation), never as a mere means of social utility: punishing someone to deter others would treat him as a means. This is classical retributivism."
+        },
+        "references": [
+          {
+            "fr": "Métaphysique des mœurs, Doctrine du droit, §49 E",
+            "en": "Metaphysics of Morals, Doctrine of Right, §49 E"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MACHINE_MIND",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.5
+      },
+      "epistemicStatus": "EXTRAPOLATED",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "<pb>Question moderne, étrangère au corpus</pb> : on peut toutefois conjecturer que Kant refuserait d'attribuer la pensée à un pur mécanisme, car la pensée exige la <kw>spontanéité de l'aperception</kw>, et il oppose l'organisme, qui s'auto-organise, à la montre, simple machine. Lecture spéculative, à présenter comme telle.",
+          "en": "<pb>A modern question, foreign to the corpus</pb>: one may nevertheless conjecture that Kant would refuse to ascribe thought to pure mechanism, since thinking requires the <kw>spontaneity of apperception</kw>, and he opposes the self-organizing organism to the watch, a mere machine. A speculative reading, to be presented as such."
+        },
+        "references": [
+          {
+            "fr": "Critique de la raison pure, déduction transcendantale (B131-B132)",
+            "en": "Critique of Pure Reason, Transcendental Deduction (B131-B132)"
+          },
+          {
+            "fr": "Critique de la faculté de juger, §65",
+            "en": "Critique of the Power of Judgment, §65"
+          }
+        ],
+        "strength": "WEAK"
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.7,
+          0.3
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si l'esprit se réglait sur les objets, on ne saurait jamais rien d'eux <c>a priori</c> ; renversons l'hypothèse, comme Copernic plaça l'observateur au centre, et faisons que les objets se règlent sur notre connaissance. Alors l'espace, le temps et les <c>catégories</c> ne sont pas des traits des choses mais les <stk>formes du sujet</stk> sous lesquelles seules un objet peut nous apparaître. La conséquence est l'<c>idéalisme transcendantal</c> : nous ne connaissons que des <c>phénomènes</c>, jamais la <c id='thing-in-itself'>chose en soi</c>. Cette borne sauve la science (les lois valent nécessairement pour tout phénomène) sans verser dans l'idéalisme de <ph>Berkeley</ph>, car la chose en soi demeure ; le dualisme phénomène / noumène ainsi maintenu interdit le pôle pleinement idéaliste.",
+          "en": "If the mind conformed to objects, we could never know anything of them <c>a priori</c>; reverse the hypothesis, as Copernicus set the observer at the centre, and let objects conform to our cognition. Then space, time and the <c>categories</c> are not features of things but the <stk>forms of the subject</stk> under which alone an object can appear to us. The consequence is <c>transcendental idealism</c>: we know only <c>phenomena</c>, never the <c id='thing-in-itself'>thing in itself</c>. This boundary saves science (its laws hold necessarily for every phenomenon) without collapsing into <ph>Berkeley</ph>'s idealism, since the thing in itself remains; the phenomenon / noumenon dualism thus kept rules out the fully idealist pole."
+        },
+        "references": [
+          {
+            "fr": "Critique de la raison pure, Esthétique transcendantale",
+            "en": "Critique of Pure Reason, Transcendental Aesthetic"
+          },
+          {
+            "fr": "Prolégomènes à toute métaphysique future, §13",
+            "en": "Prolegomena to Any Future Metaphysics, §13"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.4,
+          0.3,
+          0.3,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le « je pense » de l'<c>aperception transcendantale</c> accompagne toutes mes représentations comme unité formelle du sujet, mais Kant refuse, contre les <kw>paralogismes</kw>, d'en inférer une substance-âme connue : le moi nouménal est postulé sans être un objet de savoir. La pondération mêle donc un substantialisme régulateur à la continuité de la conscience unifiée, le pôle faisceau étant exclu.",
+          "en": "The \"I think\" of <c>transcendental apperception</c> accompanies all my representations as the formal unity of the subject, yet Kant refuses, against the <kw>paralogisms</kw>, to infer from it a known soul-substance: the noumenal self is postulated without being an object of knowledge. The weighting thus blends a regulative substantialism with the continuity of unified consciousness, the bundle pole being excluded."
+        },
+        "references": [
+          {
+            "fr": "Critique de la raison pure, déduction transcendantale (B131-B135)",
+            "en": "Critique of Pure Reason, Transcendental Deduction (B131-B135)"
+          },
+          {
+            "fr": "Critique de la raison pure, Paralogismes de la raison pure",
+            "en": "Critique of Pure Reason, Paralogisms of Pure Reason"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CAUSALITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.75,
+          0.25,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La causalité est une <kw>catégorie a priori</kw> de l'entendement qui structure tout phénomène selon la loi mécanique : la nature connue est un enchaînement <c id='determinism'>déterministe</c> d'effets et de causes. La troisième Critique ajoute une <kw>finalité</kw>, mais Kant la déclare seulement régulatrice, un principe pour juger le vivant, non un mécanisme du monde, d'où un poids finaliste minoritaire.",
+          "en": "Causality is an <kw>a priori category</kw> of the understanding that structures every phenomenon by mechanical law: known nature is a <c id='determinism'>deterministic</c> chain of cause and effect. The third Critique adds <kw>purposiveness</kw>, but Kant declares it merely regulative, a principle for judging living things rather than a mechanism of the world, hence a minority finalist weight."
+        },
+        "references": [
+          {
+            "fr": "Critique de la raison pure, Deuxième Analogie de l'expérience",
+            "en": "Critique of Pure Reason, Second Analogy of Experience"
+          },
+          {
+            "fr": "Critique de la faculté de juger, §§61-68",
+            "en": "Critique of the Power of Judgment, §§61-68"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HISTORY_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Kant lit l'histoire comme le déploiement d'un <kw>dessein de la nature</kw> : à travers l'« insociable sociabilité » des hommes, l'espèce progresse vers une constitution civile parfaite et une fédération pacifique des peuples. C'est une histoire orientée, conçue comme idée régulatrice, non comme contingence pure.",
+          "en": "Kant reads history as the unfolding of a <kw>plan of nature</kw>: through the \"unsocial sociability\" of human beings, the species advances toward a perfect civil constitution and a peaceful federation of peoples. This is a directional history, conceived as a regulative idea rather than as sheer contingency."
+        },
+        "references": [
+          {
+            "fr": "Idée d'une histoire universelle au point de vue cosmopolitique",
+            "en": "Idea for a Universal History with a Cosmopolitan Purpose"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CONSERVATISM_PROGRESSISM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Les <kw>Lumières</kw> sont la sortie de l'homme hors de sa minorité dont il est lui-même responsable. Kant fait du <kw>libre usage public de la raison</kw> le moteur d'un progrès graduel de l'humanité, ce qui le situe nettement du côté progressiste.",
+          "en": "<kw>Enlightenment</kw> is the human being's emergence from his self-incurred immaturity. Kant makes the <kw>free public use of reason</kw> the engine of a gradual progress of humanity, placing him clearly on the progressist side."
+        },
+        "quote": {
+          "text": {
+            "fr": "Sapere aude ! Aie le courage de te servir de ton propre entendement : telle est la devise des Lumières.",
+            "en": "Sapere aude! Have courage to use your own understanding: this is the motto of the Enlightenment."
+          },
+          "source": {
+            "fr": "Réponse à la question : Qu'est-ce que les Lumières ?",
+            "en": "An Answer to the Question: What Is Enlightenment?"
+          }
+        },
+        "references": [
+          {
+            "fr": "Réponse à la question : Qu'est-ce que les Lumières ?",
+            "en": "An Answer to the Question: What Is Enlightenment?"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HOPE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "« Que m'est-il permis d'espérer ? » est l'une des trois questions cardinales de la philosophie. Les <kw>postulats de la raison pratique</kw>, liberté, immortalité de l'âme et Dieu, fondent une espérance rationnelle que le <kw>souverain bien</kw>, l'accord de la vertu et du bonheur, est possible : c'est un principe espérance assumé.",
+          "en": "\"What may I hope?\" is one of the three cardinal questions of philosophy. The <kw>postulates of practical reason</kw>, freedom, immortality of the soul and God, ground a rational hope that the <kw>highest good</kw>, the accord of virtue and happiness, is possible: an avowed principle of hope."
+        },
+        "quote": {
+          "text": {
+            "fr": "Deux choses remplissent le cœur d'une admiration toujours nouvelle, le ciel étoilé au-dessus de moi et la loi morale en moi.",
+            "en": "Two things fill the mind with ever new and increasing admiration: the starry heavens above me and the moral law within me."
+          },
+          "source": {
+            "fr": "Critique de la raison pratique, Conclusion",
+            "en": "Critique of Practical Reason, Conclusion"
+          }
+        },
+        "references": [
+          {
+            "fr": "Critique de la raison pure, Canon de la raison pure",
+            "en": "Critique of Pure Reason, Canon of Pure Reason"
+          },
+          {
+            "fr": "Critique de la raison pratique, Dialectique",
+            "en": "Critique of Practical Reason, Dialectic"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "PARTIALITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Une maxime n'a de valeur morale que si je puis vouloir qu'elle devienne une <kw>loi universelle</kw> valant pour tout être raisonnable, sans exception en ma faveur ni envers mes proches. L'<c id='categorical-imperative'>impératif catégorique</c> exclut par construction tout privilège accordé à soi ou aux siens, d'où un impartialisme presque pur.",
+          "en": "A maxim has moral worth only if I can will it to become a <kw>universal law</kw> holding for every rational being, with no exception in my favour or for those close to me. The <c id='categorical-imperative'>categorical imperative</c> excludes by construction any privilege granted to oneself or one's own, hence an almost pure impartialism."
+        },
+        "references": [
+          {
+            "fr": "Fondements de la métaphysique des mœurs, section II",
+            "en": "Groundwork of the Metaphysics of Morals, section II"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "RULE_SPIRIT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le devoir s'impose comme une <kw>loi stricte</kw> que la raison se donne, et Kant en tire un <kw>rigorisme</kw> célèbre : l'interdiction de mentir ne souffre aucune exception, même pour sauver une vie. Le moindre fléchissement au profit des circonstances ruinerait l'inconditionnalité de la <kw>loi morale</kw>, ce qui place fermement Kant du côté du légalisme.",
+          "en": "Duty imposes itself as a <kw>strict law</kw> that reason gives to itself, and Kant draws from it a famous <kw>rigorism</kw>: the prohibition of lying admits no exception, even to save a life. The slightest yielding to circumstances would ruin the unconditionality of the <kw>moral law</kw>, placing Kant firmly on the legalist side."
+        },
+        "references": [
+          {
+            "fr": "D'un prétendu droit de mentir par humanité",
+            "en": "On a Supposed Right to Lie from Philanthropy"
+          },
+          {
+            "fr": "Fondements de la métaphysique des mœurs, section II",
+            "en": "Groundwork of the Metaphysics of Morals, section II"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SOCIAL_CONTRACT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'état civil repose sur un <kw>contrat originaire</kw>, non comme fait historique mais comme idée de la raison : le critère de la loi juste est qu'elle aurait pu recevoir l'assentiment de tout le peuple. La légitimité du pouvoir se fonde sur cet accord rationnel, ce qui est un contractualisme assumé.",
+          "en": "The civil condition rests on an <kw>original contract</kw>, not as a historical fact but as an idea of reason: the criterion of a just law is that it could have received the assent of the whole people. The legitimacy of power is grounded on this rational agreement, an avowed contractualism."
+        },
+        "references": [
+          {
+            "fr": "Sur le lieu commun : il se peut que ce soit juste en théorie, mais en pratique cela ne vaut rien",
+            "en": "On the Common Saying: That May Be Correct in Theory, but It Is of No Use in Practice"
+          },
+          {
+            "fr": "Métaphysique des mœurs, Doctrine du droit",
+            "en": "Metaphysics of Morals, Doctrine of Right"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.2,
+          0.8
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Rien n'est bon sans restriction qu'une <kw>volonté bonne</kw> : la moralité, et non le bonheur, est le bien suprême et la condition de toute valeur. Le souverain bien complet inclut cependant le bonheur, mais seulement proportionné à la vertu et comme la couronnant, d'où un poids <c id='eudaimonism'>eudémoniste</c> minoritaire et l'exclusion de l'<c id='hedonism'>hédonisme</c>.",
+          "en": "Nothing is good without limitation except a <kw>good will</kw>: morality, not happiness, is the supreme good and the condition of all worth. The complete highest good does include happiness, but only proportioned to virtue and as crowning it, hence a minority <c id='eudaimonism'>eudaimonist</c> weight and the exclusion of <c id='hedonism'>hedonism</c>."
+        },
+        "quote": {
+          "text": {
+            "fr": "Il n'est rien, nulle part dans le monde et même hors du monde, qu'il soit possible de penser comme bon sans restriction, si ce n'est seulement une volonté bonne.",
+            "en": "Nothing in the world, indeed nothing even beyond the world, can possibly be conceived which could be called good without qualification except a good will."
+          },
+          "source": {
+            "fr": "Fondements de la métaphysique des mœurs, section I",
+            "en": "Groundwork of the Metaphysics of Morals, section I"
+          }
+        },
+        "references": [
+          {
+            "fr": "Fondements de la métaphysique des mœurs, section I",
+            "en": "Groundwork of the Metaphysics of Morals, section I"
+          },
+          {
+            "fr": "Critique de la raison pratique, Dialectique, II",
+            "en": "Critique of Practical Reason, Dialectic, II"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_DEMAND",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'exigence morale est élevée : agir toujours par devoir et non par simple conformité, soumettre toutes ses maximes à la loi universelle. Kant tempère toutefois en distinguant les <kw>devoirs parfaits</kw>, stricts et sans exception, des <kw>devoirs imparfaits</kw> comme la bienfaisance ou le développement de ses talents, qui laissent une latitude au jugement, ce qui retient d'un maximalisme extrême.",
+          "en": "The moral demand is high: always act from duty and not from mere conformity, subjecting all one's maxims to the universal law. Kant tempers this by distinguishing <kw>perfect duties</kw>, strict and without exception, from <kw>imperfect duties</kw> such as beneficence or the cultivation of one's talents, which leave latitude to judgment, holding back from an extreme maximalism."
+        },
+        "references": [
+          {
+            "fr": "Fondements de la métaphysique des mœurs, section II",
+            "en": "Groundwork of the Metaphysics of Morals, section II"
+          },
+          {
+            "fr": "Métaphysique des mœurs, Doctrine de la vertu",
+            "en": "Metaphysics of Morals, Doctrine of Virtue"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SELF_INTEREST",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Une action n'a de valeur morale que lorsqu'elle est accomplie par devoir et non par inclination intéressée : le <kw>respect de la loi</kw> prime sur tout amour de soi. Kant ne prêche pourtant pas l'abnégation pure, car chacun a un <kw>devoir indirect</kw> à son propre bonheur, ce qui place le score du côté de l'altruisme sans l'absolutiser.",
+          "en": "An action has moral worth only when done from duty and not from self-interested inclination: <kw>respect for the law</kw> takes precedence over all self-love. Kant does not, however, preach pure self-abnegation, since each has an <kw>indirect duty</kw> toward his own happiness, placing the score on the altruist side without absolutising it."
+        },
+        "references": [
+          {
+            "fr": "Fondements de la métaphysique des mœurs, section I",
+            "en": "Groundwork of the Metaphysics of Morals, section I"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "FAITH_REASON",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.15,
+          0.55,
+          0,
+          0.3
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La raison théorique ne peut ni prouver ni réfuter Dieu, mais la raison pratique postule une <kw>foi rationnelle</kw> accordée à la morale. Foi et savoir occupent ainsi des domaines distincts, tout en s'harmonisant sous le primat du pratique, avec une nuance fidéiste car la foi reste affaire de besoin de la raison, non de preuve.",
+          "en": "Theoretical reason can neither prove nor refute God, but practical reason postulates a <kw>rational faith</kw> attuned to morality. Faith and knowledge thus occupy distinct domains while harmonising under the primacy of the practical, with a fideist nuance since faith remains a need of reason rather than a matter of proof."
+        },
+        "quote": {
+          "text": {
+            "fr": "J'ai donc dû abolir le savoir afin d'obtenir une place pour la foi.",
+            "en": "I had to deny knowledge in order to make room for faith."
+          },
+          "source": {
+            "fr": "Critique de la raison pure, Préface de la seconde édition (B XXX)",
+            "en": "Critique of Pure Reason, Preface to the Second Edition (B XXX)"
+          }
+        },
+        "references": [
+          {
+            "fr": "Critique de la raison pure, Préface de la seconde édition (B XXX)",
+            "en": "Critique of Pure Reason, Preface to the Second Edition (B XXX)"
+          },
+          {
+            "fr": "La religion dans les limites de la simple raison",
+            "en": "Religion within the Bounds of Bare Reason"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "AUTHORITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Kant affirme un devoir d'obéissance au pouvoir établi et nie tout <kw>droit de résistance</kw> ou de révolution, même contre un souverain injuste, car renverser la constitution ruinerait l'état de droit lui-même. Le citoyen garde la liberté de critiquer publiquement par sa plume, mais doit obéir.",
+          "en": "Kant asserts a duty to obey the established power and denies any <kw>right of resistance</kw> or revolution, even against an unjust sovereign, since overturning the constitution would ruin the rule of law itself. The citizen retains the freedom to criticise publicly in writing, but must obey."
+        },
+        "quote": {
+          "text": {
+            "fr": "Raisonnez tant que vous voudrez et sur tout ce que vous voudrez, mais obéissez !",
+            "en": "Argue as much as you will and about what you will, but obey!"
+          },
+          "source": {
+            "fr": "Réponse à la question : Qu'est-ce que les Lumières ?",
+            "en": "An Answer to the Question: What Is Enlightenment?"
+          }
+        },
+        "references": [
+          {
+            "fr": "Métaphysique des mœurs, Doctrine du droit, §49",
+            "en": "Metaphysics of Morals, Doctrine of Right, §49"
+          },
+          {
+            "fr": "Réponse à la question : Qu'est-ce que les Lumières ?",
+            "en": "An Answer to the Question: What Is Enlightenment?"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HUMAN_VISION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Kant soutient un <c id='radical-evil'>mal radical</c> : il y a dans la nature humaine une propension à subordonner la loi morale à l'amour de soi, et l'« insociable sociabilité » mêle en chacun un penchant à s'opposer à autrui. Ce diagnostic, tempéré par la prédisposition au bien et la perfectibilité, penche du côté d'un pessimisme anthropologique modéré.",
+          "en": "Kant maintains a <c id='radical-evil'>radical evil</c>: there is in human nature a propensity to subordinate the moral law to self-love, and \"unsocial sociability\" mixes in each a tendency to oppose others. This diagnosis, tempered by the predisposition to good and by perfectibility, leans toward a moderate anthropological pessimism."
+        },
+        "references": [
+          {
+            "fr": "La religion dans les limites de la simple raison, Première partie",
+            "en": "Religion within the Bounds of Bare Reason, Part One"
+          },
+          {
+            "fr": "Idée d'une histoire universelle au point de vue cosmopolitique, Quatrième proposition",
+            "en": "Idea for a Universal History with a Cosmopolitan Purpose, Fourth Proposition"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "RIGHTS_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.85,
+          0,
+          0,
+          0.15
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le droit se déduit a priori de la raison, non de l'utilité ni du seul droit positif : tout homme possède, en vertu de son humanité, un droit inné à la liberté, fondé sur la dignité de la personne comme fin en soi. Une version rationnelle des droits naturels.",
+          "en": "Right is derived a priori from reason, not from utility nor from positive law alone: every human being possesses, by virtue of their humanity, an innate right to freedom, grounded in the dignity of the person as an end in itself. A rational version of natural rights."
+        },
+        "references": [
+          {
+            "fr": "Métaphysique des mœurs, Doctrine du droit",
+            "en": "The Metaphysics of Morals, Doctrine of Right"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "REALITY_NATURE",
+      "thesis": {
+        "fr": "Nous ne connaissons jamais les choses telles qu'elles sont en soi, mais seulement les <c>phénomènes</c> : c'est l'esprit qui, par ses formes <c>a priori</c>, constitue l'objet de la connaissance.",
+        "en": "We never know things as they are in themselves, only <c>phenomena</c>: it is the mind that, through its <c>a priori</c> forms, constitutes the object of knowledge."
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "thesis": {
+        "fr": "Toute connaissance commence avec l'expérience, mais n'en dérive pas tout entière : sans concepts les intuitions sont aveugles, sans intuitions les concepts sont vides.",
+        "en": "All knowledge begins with experience but does not all derive from it: without concepts intuitions are blind, without intuitions concepts are empty."
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "thesis": {
+        "fr": "Une action n'a de valeur morale que par devoir, jamais par ses conséquences : agis seulement d'après une maxime que tu puisses vouloir comme <c id='categorical-imperative'>loi universelle</c>.",
+        "en": "An action has moral worth only when done from duty, never from its consequences: act only on a maxim you can will as a <c id='categorical-imperative'>universal law</c>."
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "thesis": {
+        "fr": "Comme phénomène l'homme est entièrement <c id='determinism'>déterminé</c>, mais comme <c id='thing-in-itself'>chose en soi</c> il est <c id='free-will'>libre</c> : « tu dois » implique « tu peux ».",
+        "en": "As a phenomenon the human being is fully <c id='determinism'>determined</c>, but as a <c id='thing-in-itself'>thing in itself</c> he is <c id='free-will'>free</c>: \"you ought\" implies \"you can\"."
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "thesis": {
+        "fr": "Aucune preuve théorique de Dieu ne tient, mais la morale le requiert : j'ai dû abolir le savoir pour faire place à la <c>foi rationnelle</c>.",
+        "en": "No theoretical proof of God holds, yet morality requires him: I had to deny knowledge to make room for <c>rational faith</c>."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

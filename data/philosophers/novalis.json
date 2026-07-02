@@ -1,0 +1,16 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "novalis",
+  "name": { "fr": "Novalis", "en": "Novalis" },
+  "summary": {
+    "fr": "Poète et penseur du premier romantisme allemand (de son vrai nom Friedrich von Hardenberg) : il rêve de « romantiser » le monde pour lui rendre sa magie et fait de la nuit, du rêve et de l'intériorité les voies vers l'infini.",
+    "en": "Poet and thinker of early German Romanticism (real name Friedrich von Hardenberg): he dreams of « romanticizing » the world to give it back its magic and makes night, dream and inwardness the paths toward the infinite."
+  },
+  "nationality": { "fr": "Allemand", "en": "German" },
+  "birth": 1772,
+  "death": 1801,
+  "movements": ["romanticism"],
+  "updatedAt": "2026-06-26T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

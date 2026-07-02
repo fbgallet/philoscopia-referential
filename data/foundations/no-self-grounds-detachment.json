@@ -1,0 +1,12 @@
+{
+  "id": "no-self-grounds-detachment",
+  "ground": { "axisId": "SELF_NATURE", "poleId": "BUNDLE_THEORY" },
+  "grounded": { "axisId": "DESIRE", "poleId": "DETACHMENT" },
+  "kind": "T_V",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "S'il n'y a pas de moi substantiel mais un simple flux d'états (la thèse de l'<c id='anatta'>anatta</c>), le désir, qui s'agrippe au monde au nom d'un soi à satisfaire, repose sur une illusion. Reconnaître l'absence de moi défait l'attachement par la racine : le détachement n'est plus un effort de volonté, mais la conséquence d'une vue juste.",
+    "en": "If there is no substantial self but a mere flux of states (the <c id='anatta'>anatta</c> thesis), then desire, which clings to the world in the name of a self to be satisfied, rests on an illusion. To recognize the absence of a self undoes attachment at the root: detachment is no longer an effort of will, but the consequence of a correct view."
+  },
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

@@ -1,0 +1,86 @@
+{
+  "id": "veil-of-ignorance",
+  "title": {
+    "fr": "Le voile d'ignorance",
+    "en": "The Veil of Ignorance"
+  },
+  "description": {
+    "fr": "Imaginez devoir fixer les règles de votre société, mais derrière un « voile d'ignorance » : vous ignorez encore qui vous y serez. Riche ou pauvre, doué ou non, bien ou mal né, valide ou malade, rien de cela ne vous est connu. Quelles règles de répartition choisiriez-vous, sachant que vous pourriez vous retrouver à n'importe quelle place, y compris la plus basse ?",
+    "en": "Imagine you must set the rules of your society, but from behind a \"veil of ignorance\": you do not yet know who you will be in it. Rich or poor, gifted or not, well or badly born, healthy or sick, none of this is known to you. What rules of distribution would you choose, knowing you might end up in any position at all, including the very lowest?"
+  },
+  "source": {
+    "author": {
+      "fr": "Rawls",
+      "en": "Rawls"
+    },
+    "work": {
+      "fr": "Théorie de la justice",
+      "en": "A Theory of Justice"
+    },
+    "year": 1971
+  },
+  "question": {
+    "fr": "Derrière ce voile, accepteriez-vous de fortes inégalités, ou exigeriez-vous d'abord de protéger le sort des plus défavorisés ?",
+    "en": "Behind this veil, would you accept large inequalities, or would you first insist on protecting the lot of the least advantaged?"
+  },
+  "axisIds": ["DISTRIBUTIVE_JUSTICE"],
+  "options": [
+    {
+      "id": "strict-equality",
+      "label": {
+        "fr": "Le plus sûr est l'égalité stricte, maintenue dans la durée : que personne n'ait jamais plus qu'un autre.",
+        "en": "The safest choice is strict equality, sustained over time: that no one ever has more than another."
+      },
+      "hints": [
+        { "axisId": "DISTRIBUTIVE_JUSTICE", "value": { "kind": "scalar", "value": -1 } }
+      ],
+      "discussion": {
+        "fr": "l'égalitarisme radical, qui refuse tout écart durable.",
+        "en": "radical egalitarianism, which refuses any lasting gap."
+      }
+    },
+    {
+      "id": "difference-principle",
+      "label": {
+        "fr": "Des inégalités, oui, mais à une condition : qu'elles améliorent aussi le sort des plus défavorisés. Sinon, je les refuse.",
+        "en": "Inequalities, yes, but on one condition: that they also improve the lot of the least advantaged. Otherwise I reject them."
+      },
+      "hints": [
+        { "axisId": "DISTRIBUTIVE_JUSTICE", "value": { "kind": "scalar", "value": -0.5 } }
+      ],
+      "discussion": {
+        "fr": "<ph id='rawls'>Rawls</ph> : le principe de différence.",
+        "en": "<ph id='rawls'>Rawls</ph>: the difference principle."
+      }
+    },
+    {
+      "id": "decent-floor",
+      "label": {
+        "fr": "J'assurerais à tous un socle décent, puis je laisserais les inégalités jouer librement au-dessus de ce seuil.",
+        "en": "I would guarantee everyone a decent floor, then let inequalities run freely above that threshold."
+      },
+      "hints": [
+        { "axisId": "DISTRIBUTIVE_JUSTICE", "value": { "kind": "scalar", "value": 0 } }
+      ],
+      "discussion": {
+        "fr": "le suffisantarisme : ce qui compte est que nul ne manque du nécessaire, non l'écart.",
+        "en": "sufficientarianism: what matters is that no one lacks the essentials, not the gap."
+      }
+    },
+    {
+      "id": "bet-on-liberty",
+      "label": {
+        "fr": "Je parierais sur moi : des règles qui laissent à chacun le fruit de ses efforts, quitte à risquer une place modeste plutôt que de tout niveler.",
+        "en": "I would bet on myself: rules that leave each person the fruit of their efforts, even at the risk of a modest place, rather than leveling everything."
+      },
+      "hints": [
+        { "axisId": "DISTRIBUTIVE_JUSTICE", "value": { "kind": "scalar", "value": 1 } }
+      ],
+      "discussion": {
+        "fr": "la liberté plutôt que le filet ; <ph id='nozick'>Nozick</ph> juge d'ailleurs que le voile fausse le choix en faveur de l'égalité.",
+        "en": "liberty over the safety net; <ph id='nozick'>Nozick</ph> indeed holds that the veil itself skews the choice toward equality."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-26T00:00:00.000Z"
+}

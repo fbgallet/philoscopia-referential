@@ -1,0 +1,13 @@
+{
+  "id": "de-virtue",
+  "term": { "fr": "De 德 (la vertu-puissance)", "en": "De 德 (virtue-power)" },
+  "definition": {
+    "fr": "Le de, souvent traduit par « vertu », désigne chez <ph id='laozi'>Laozi</ph> moins une qualité morale qu'une efficace spontanée : la puissance d'agir de celui qui est accordé au <c id='dao'>Dao</c> et œuvre sans forcer. Cette vertu ne se proclame ni ne se vise : « la vertu supérieure n'est pas vertueuse, c'est pourquoi elle a de la vertu ». Laozi l'oppose à la vertu délibérée et affichée des Confucéens, la bonté et la justice érigées en règles, qui n'est pour lui que le symptôme d'un Dao déjà perdu.",
+    "en": "De, often translated as \"virtue,\" denotes for <ph id='laozi'>Laozi</ph> less a moral quality than a spontaneous efficacy: the power to act of one who is attuned to the <c id='dao'>Dao</c> and works without forcing. This virtue neither proclaims nor aims at itself: \"superior virtue is not virtuous, and so it has virtue.\" Laozi sets it against the deliberate, displayed virtue of the Confucians, benevolence and righteousness erected into rules, which for him is only the symptom of a Dao already lost."
+  },
+  "relatedAxes": ["ETHICS_FOUNDATION"],
+  "relatedTerms": ["dao", "wu-wei", "ziran"],
+  "figure": { "slug": "laozi", "name": { "fr": "Laozi", "en": "Laozi" } },
+  "positions": [{ "axisId": "ETHICS_FOUNDATION", "poleId": "VIRTUE_ETHICS" }],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

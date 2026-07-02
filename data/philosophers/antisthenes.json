@@ -1,0 +1,26 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "antisthenes",
+  "stub": true,
+  "name": {
+    "fr": "Antisthène",
+    "en": "Antisthenes"
+  },
+  "summary": {
+    "fr": "Disciple de <ph id='socrates'>Socrate</ph>, souvent tenu pour le précurseur du <mv id='cynicism'>cynisme</mv>, qui plaçait la vertu et l'autosuffisance au-dessus de tout plaisir.",
+    "en": "A pupil of <ph id='socrates'>Socrates</ph>, often regarded as the forerunner of <mv id='cynicism'>Cynicism</mv>, who set virtue and self-sufficiency above all pleasure."
+  },
+  "birth": -445,
+  "death": -365,
+  "nationality": {
+    "fr": "Grec",
+    "en": "Greek"
+  },
+  "movements": [
+    "cynicism"
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

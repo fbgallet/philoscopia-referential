@@ -1,0 +1,16 @@
+{
+  "id": "tabula-rasa",
+  "term": { "fr": "La table rase", "en": "Tabula rasa" },
+  "definition": {
+    "fr": "<ety>Tabula rasa, en latin « tablette lisse »</ety>, désigne chez <ph id='locke'>Locke</ph> l'esprit à la naissance comme une page blanche, sans aucune idée innée : tout notre savoir vient de l'expérience, par la sensation et la réflexion. Cette thèse fonde l'<ax id='KNOWLEDGE_SOURCE'>empirisme</ax> et s'oppose frontalement aux <c id='innate-ideas'>idées innées</c>. Elle implique aussi que ce que nous devenons doit beaucoup à l'éducation et au milieu plutôt qu'à une nature donnée d'avance.",
+    "en": "<ety>Tabula rasa, Latin for \"scraped tablet\"</ety>, names in <ph id='locke'>Locke</ph> the mind at birth as a blank slate, with no innate ideas: all our knowledge comes from experience, through sensation and reflection. This claim grounds <ax id='KNOWLEDGE_SOURCE'>empiricism</ax> and stands squarely opposed to <c id='innate-ideas'>innate ideas</c>. It also implies that what we become owes much to education and environment rather than to a nature given in advance."
+  },
+  "relatedAxes": ["KNOWLEDGE_SOURCE", "HUMAN_NATURE"],
+  "relatedTerms": ["innate-ideas"],
+  "figure": { "slug": "locke", "name": { "fr": "John Locke", "en": "John Locke" } },
+  "positions": [
+    { "axisId": "KNOWLEDGE_SOURCE", "poleId": "EMPIRICISM" },
+    { "axisId": "HUMAN_NATURE", "poleId": "CULTURALISM" }
+  ],
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

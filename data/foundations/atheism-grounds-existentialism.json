@@ -1,0 +1,12 @@
+{
+  "id": "atheism-grounds-existentialism",
+  "ground": { "axisId": "GOD_EXISTENCE", "poleId": "ATHEISM" },
+  "grounded": { "axisId": "ESSENCE", "poleId": "EXISTENTIALISM" },
+  "kind": "T_T",
+  "strength": "STRONG",
+  "explanation": {
+    "fr": "S'il n'existe aucun Dieu artisan pour concevoir l'homme selon un plan, aucune essence humaine ne précède l'existence concrète. L'athéisme fonde ainsi l'existentialisme, pour lequel l'homme est d'abord, puis se définit par ses actes.",
+    "en": "If there is no craftsman God to conceive man according to a plan, no human essence precedes concrete existence. Atheism thus grounds existentialism, for which man first is, and only then defines himself through his acts."
+  },
+  "updatedAt": "2026-06-14T00:00:00.000Z"
+}

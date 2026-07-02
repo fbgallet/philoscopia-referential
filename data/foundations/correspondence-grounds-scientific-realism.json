@@ -1,0 +1,12 @@
+{
+  "id": "correspondence-grounds-scientific-realism",
+  "ground": { "axisId": "TRUTH_NATURE", "poleId": "CORRESPONDENCE" },
+  "grounded": { "axisId": "KNOWLEDGE_STATUS", "poleId": "SCIENTIFIC_REALISM" },
+  "kind": "T_T",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si la vérité est l'accord d'un énoncé avec une réalité indépendante de nous, alors une science qui réussit décrit, au moins approximativement, le monde tel qu'il est. La conception de la vérité comme correspondance fonde le réalisme scientifique : pour <ph id='popper'>Popper</ph>, le progrès des sciences nous rapproche de la vérité sur la structure du réel.",
+    "en": "If truth is the agreement of a statement with a reality independent of us, then a successful science describes, at least approximately, the world as it is. The correspondence conception of truth grounds scientific realism: for <ph id='popper'>Popper</ph>, the progress of the sciences brings us closer to the truth about the structure of the real."
+  },
+  "updatedAt": "2026-06-22T00:00:00.000Z"
+}

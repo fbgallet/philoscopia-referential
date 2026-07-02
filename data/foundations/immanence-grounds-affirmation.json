@@ -1,0 +1,12 @@
+{
+  "id": "immanence-grounds-affirmation",
+  "ground": { "axisId": "TRANSCENDENCE", "poleId": "IMMANENCE" },
+  "grounded": { "axisId": "DESIRE", "poleId": "AFFIRMATION" },
+  "kind": "T_V",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "S'il n'existe aucun ordre transcendant au-dessus de la vie auquel le désir devrait se soumettre, le désir cesse d'être une faute à corriger pour devenir la puissance même par laquelle la vie s'affirme. L'immanence, de <ph id='spinoza'>Spinoza</ph> à <ph id='nietzsche'>Nietzsche</ph>, fonde l'affirmation : rien de plus haut que la vie au nom de quoi la brider.",
+    "en": "If there is no transcendent order above life to which desire ought to submit, desire ceases to be a fault to correct and becomes the very power by which life affirms itself. Immanence, from <ph id='spinoza'>Spinoza</ph> to <ph id='nietzsche'>Nietzsche</ph>, grounds affirmation: there is nothing higher than life in whose name to curb it."
+  },
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

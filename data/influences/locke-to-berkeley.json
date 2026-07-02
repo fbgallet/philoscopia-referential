@@ -1,0 +1,16 @@
+{
+  "id": "locke-to-berkeley",
+  "from": { "kind": "PHILOSOPHER", "slug": "locke" },
+  "to": { "kind": "PHILOSOPHER", "slug": "berkeley" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='berkeley'>Berkeley</ph> accepte l'<mv id='empiricism'>empirisme</mv> de <ph id='locke'>Locke</ph>, pour qui toute idée vient de l'expérience, mais le radicalise jusqu'à l'<c>immatérialisme</c> : nier la substance matérielle, n'admettre que des idées perçues et des esprits qui les perçoivent.",
+    "en": "<ph id='berkeley'>Berkeley</ph> accepts the <mv id='empiricism'>empiricism</mv> of <ph id='locke'>Locke</ph>, for whom every idea comes from experience, but radicalises it into <c>immaterialism</c>: denying material substance, admitting only perceived ideas and the minds that perceive them."
+  },
+  "sources": [
+    { "fr": "Berkeley, Principes de la connaissance humaine (1710)", "en": "Berkeley, Principles of Human Knowledge (1710)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

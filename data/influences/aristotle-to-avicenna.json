@@ -1,0 +1,16 @@
+{
+  "id": "aristotle-to-avicenna",
+  "from": { "kind": "PHILOSOPHER", "slug": "aristotle" },
+  "to": { "kind": "PHILOSOPHER", "slug": "avicenna" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='avicenna'>Avicenne</ph> refonde la métaphysique d'<ph id='aristotle'>Aristote</ph> en la néoplatonisant : distinction de l'essence et de l'existence, être nécessaire, hiérarchie des intellects.",
+    "en": "<ph id='avicenna'>Avicenna</ph> recasts <ph id='aristotle'>Aristotle</ph>'s metaphysics by Neoplatonising it: the distinction of essence and existence, the necessary being, the hierarchy of intellects."
+  },
+  "sources": [
+    { "fr": "Avicenne, Le Livre de la guérison (Kitab al-Shifa)", "en": "Avicenna, The Book of Healing (Kitab al-Shifa)" }
+  ],
+  "updatedAt": "2026-07-02T00:00:00.000Z"
+}

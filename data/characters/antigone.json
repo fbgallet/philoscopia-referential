@@ -1,0 +1,167 @@
+{
+  "kind": "CHARACTER",
+  "id": "antigone",
+  "name": { "fr": "Antigone", "en": "Antigone" },
+  "tagline": {
+    "fr": "Au nom des lois non écrites, elle brave le décret de l'État.",
+    "en": "In the name of unwritten laws, she defies the state's decree."
+  },
+  "summary": {
+    "fr": "Fille d'Œdipe, Antigone se dresse au cœur de la tragédie de <ph>Sophocle</ph> : <chr>Créon</chr>, nouveau maître de Thèbes, a interdit sous peine de mort d'ensevelir son frère Polynice, tombé en assaillant la cité. Elle se tient dans ce conflit nu entre la conscience d'une jeune femme et le décret du pouvoir, entre ce que la cité ordonne et ce qu'elle croit dû aux dieux et aux siens. Reprise par <per>Anouilh</per> en 1944, elle est devenue la figure même du refus solitaire, celle qui dit non au nom d'une exigence plus haute que l'État.",
+    "en": "Daughter of Oedipus, Antigone stands at the heart of <ph>Sophocles</ph>' tragedy: <chr>Creon</chr>, the new ruler of Thebes, has forbidden, on pain of death, the burial of her brother Polynices, fallen while assaulting the city. She stands in that bare conflict between a young woman's conscience and the decree of power, between what the city commands and what she holds owed to the gods and to her own. Reworked by <per>Anouilh</per> in 1944, she became the very figure of solitary refusal, the one who says no in the name of a demand higher than the state."
+  },
+  "work": {
+    "title": { "fr": "Antigone", "en": "Antigone" },
+    "author": { "fr": "Sophocle", "en": "Sophocles" },
+    "year": -441,
+    "medium": "PLAY"
+  },
+  "entries": [
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "practicedValue": { "kind": "scalar", "value": 0.7 },
+      "declaredValue": { "kind": "scalar", "value": 0.8 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Sommée par <chr>Créon</chr> de s'expliquer, elle ne plaide pas l'erreur ni l'ignorance : elle oppose à son décret une instance qui le déborde. Ce ne sont pas les dieux qui lui ont défendu d'agir, répond-elle, et un mortel ne saurait avoir la force d'abroger les <c>lois non écrites</c> et inébranlables du ciel, qui ne datent ni d'hier ni d'aujourd'hui. Son geste, accomplir les rites au mépris de l'édit, fait passer cette conviction dans l'acte avant qu'elle ne la formule : l'ordre humain n'est légitime qu'à ne pas heurter ce qui le précède et le surplombe.",
+          "en": "Summoned by <chr>Creon</chr> to account for herself, she pleads neither mistake nor ignorance: she sets against his decree an order that overruns it. It was not the gods, she answers, who forbade her act, and no mortal could have the strength to override heaven's <c>unwritten</c> and unshakable laws, which are not of yesterday or today. Her deed, performing the rites in defiance of the edict, carries this conviction into action before she puts it into words: human order is legitimate only so far as it does not collide with what precedes and overhangs it."
+        },
+        "references": [
+          { "fr": "Deuxième épisode, face à Créon (v. 450-457), tirade des lois non écrites", "en": "Second episode, confronting Creon (ll. 450-457), the unwritten laws speech" },
+          { "fr": "Premier épisode, récit du garde : les rites accomplis malgré l'interdit", "en": "First episode, the guard's report: the rites performed despite the ban" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "AUTHORITY",
+      "status": "POSITIONED",
+      "practicedValue": { "kind": "scalar", "value": 0.6 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Mise en présence du roi, elle n'esquive ni ne nie : « Je l'ai fait, je ne le nie pas. » Cet aveu frontal est le cœur de sa défiance, elle ne désobéit pas en cachette mais conteste à <chr>Créon</chr> le droit même de commander cela. Ce qui se joue n'est pas l'anarchie : elle oppose au pouvoir une autre <c>autorité</c>, celle des dieux et du dû envers les morts, plus ancienne que la cité. Là où l'édit prétend lier la conscience, elle pose qu'aucun décret ne fonde une obéissance qui violerait cet ordre supérieur.",
+          "en": "Brought before the king, she neither evades nor denies: \"I did it, I deny nothing.\" This head-on avowal is the core of her defiance: she does not disobey in secret but contests <chr>Creon</chr>'s very right to command this. What is at stake is not anarchy: against power she sets another <c>authority</c>, that of the gods and of the due owed the dead, older than the city. Where the edict claims to bind conscience, she holds that no decree grounds an obedience that would violate this higher order."
+        },
+        "references": [
+          { "fr": "Prologue, dialogue avec Ismène : elle annonce qu'elle passera outre l'édit", "en": "Prologue, dialogue with Ismene: she announces she will defy the edict" },
+          { "fr": "Deuxième épisode : « Je l'ai fait, je ne le nie pas »", "en": "Second episode: \"I did it, I deny nothing\"" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "RULE_SPIRIT",
+      "status": "POSITIONED",
+      "practicedValue": { "kind": "scalar", "value": 0.6 },
+      "declaredValue": { "kind": "scalar", "value": 0.6 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Face à <chr>Créon</chr>, elle ne discute pas les termes du décret, elle lui dénie d'emblée la moindre force contre ce que la justice doit aux morts : la règle écrite par un mortel ne pèse rien devant un dû plus ancien qu'elle. Sa conduite n'est pas pour autant une recherche de l'<c>équité</c> souple : là où <chr>Ismène</chr> plaide la mesure et l'obéissance aux plus forts, Antigone tranche sans accommodement, comme si l'esprit de la loi divine ne tolérait aucune nuance. Elle oppose à la lettre du pouvoir, non un compromis, mais une autre lettre, intransigeante.",
+          "en": "Facing <chr>Creon</chr>, she does not debate the decree's terms: she denies it from the outset any force against what justice owes the dead, the rule a mortal wrote weighing nothing against a due older than itself. Yet her stance is no search for supple <c>equity</c>: where <chr>Ismene</chr> pleads measure and submission to the stronger, Antigone cuts through without accommodation, as if the spirit of divine law admitted no shading. To the letter of power she opposes, not a compromise, but another letter, an intransigent one."
+        },
+        "references": [
+          { "fr": "Deuxième épisode (v. 450-470) : l'édit d'un mortel ne saurait primer les lois des dieux", "en": "Second episode (ll. 450-470): a mortal's edict cannot override the laws of the gods" },
+          { "fr": "Prologue : refus de tenir compte de l'interdit malgré les avertissements d'Ismène", "en": "Prologue: refusal to heed the ban despite Ismene's warnings" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "PARTIALITY",
+      "status": "POSITIONED",
+      "practicedValue": { "kind": "scalar", "value": 0.7 },
+      "declaredValue": { "kind": "scalar", "value": 0.7 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Ce qui la met en mouvement n'est pas un devoir abstrait envers tous les morts, mais un visage : Polynice, son frère. Dès le prologue elle réclame d'agir pour lui, et déclare qu'elle est née pour partager l'amour, non la haine. Elle va plus loin dans un raisonnement célèbre et discuté : un époux ou un enfant pourraient se remplacer, mais un frère, ses parents étant morts, ne reviendra jamais, ce qui rend ce <c>lien de sang</c> irremplaçable et fonde la priorité qu'elle lui accorde. La loi divine qu'elle invoque a beau être universelle dans sa forme, elle l'exerce tout entière pour les siens.",
+          "en": "What sets her in motion is not an abstract duty toward all the dead, but a face: Polynices, her brother. From the prologue she demands to act for him, and declares she was born to share in love, not in hate. She goes further, in a famous and disputed line of reasoning: a husband or a child could be replaced, but a brother, her parents being dead, will never return, which makes this <c>bond of blood</c> irreplaceable and grounds the priority she grants it. However universal in form the divine law she invokes may be, she exercises it wholly for her own."
+        },
+        "references": [
+          { "fr": "Prologue, dialogue avec Ismène : le devoir envers Polynice", "en": "Prologue, dialogue with Ismene: the duty owed to Polynices" },
+          { "fr": "Deuxième épisode (v. 523) : « Je suis née pour partager l'amour, non la haine »", "en": "Second episode (l. 523): \"I was born to join in love, not in hate\"" },
+          { "fr": "Quatrième épisode (v. 904-915, passage contesté) : un frère est irremplaçable", "en": "Fourth episode (ll. 904-915, contested passage): a brother is irreplaceable" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "practicedValue": { "kind": "weights", "weights": [0, 0.2, 0.8, 0] },
+      "declaredValue": { "kind": "weights", "weights": [0, 0.2, 0.8, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "<spo>Antigone marche vers la mort en comptant y retrouver les siens : elle reposera chère à Polynice près de celui qui lui est cher, accueillie chez Hadès par son père, sa mère et son frère. Elle déclare que mourir avant l'heure est pour elle un gain, et son acceptation lucide du tombeau donne à sa mort la valeur d'un accomplissement choisi.</spo>",
+          "en": "<spo>Antigone walks toward death expecting to be reunited with her own: she will rest dear to Polynices beside the one dear to her, welcomed in Hades by her father, her mother and her brother. She declares that dying before her time is a gain for her, and her lucid acceptance of the tomb gives her death the value of a chosen fulfilment.</spo>"
+        },
+        "references": [
+          { "fr": "Prologue", "en": "Prologue" },
+          { "fr": "Deuxième épisode (v. 460-464)", "en": "Second episode (ll. 460-464)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SINCERITY",
+      "status": "POSITIONED",
+      "practicedValue": { "kind": "scalar", "value": -0.8 },
+      "declaredValue": { "kind": "scalar", "value": -0.7 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Antigone refuse toute dissimulation : elle somme Ismène de proclamer son acte à toute la ville plutôt que de le taire, accomplit le second rite en plein jour et avoue sans détour devant Créon. Le mensonge prudent, même protecteur, lui fait horreur.",
+          "en": "Antigone refuses all concealment: she orders Ismene to proclaim her deed to the whole city rather than keep it silent, performs the second rite in broad daylight, and confesses without evasion before Creon. The prudent lie, even a protective one, is hateful to her."
+        },
+        "references": [
+          { "fr": "Prologue : elle exige qu'Ismène crie l'acte à tous au lieu de le cacher", "en": "Prologue: she demands that Ismene shout the deed to all instead of hiding it" },
+          { "fr": "Premier et deuxième épisodes : prise sur le fait en plein jour, elle avoue aussitôt", "en": "First and second episodes: caught in the act in daylight, she confesses at once" }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "TRANSCENDENCE",
+      "thesis": {
+        "fr": "Les <c>lois non écrites</c> des dieux ne datent ni d'hier ni d'aujourd'hui, et aucun décret d'un mortel ne saurait les abroger.",
+        "en": "The gods' <c>unwritten laws</c> are not of yesterday or today, and no mortal's decree can override them."
+      }
+    },
+    {
+      "axisId": "AUTHORITY",
+      "thesis": {
+        "fr": "Je l'ai fait, je ne le nie pas : nul édit de la cité ne me lie là où il commande contre les dieux et contre les miens.",
+        "en": "I did it, I deny nothing: no edict of the city binds me where it commands against the gods and against my own."
+      }
+    },
+    {
+      "axisId": "PARTIALITY",
+      "thesis": {
+        "fr": "Je suis née pour partager l'amour, non la haine : c'est à mon frère, irremplaçable, que je dois ce que je fais.",
+        "en": "I was born to share in love, not in hate: it is to my brother, who cannot be replaced, that I owe what I do."
+      }
+    },
+    {
+      "axisId": "RULE_SPIRIT",
+      "thesis": {
+        "fr": "La lettre d'un décret humain ne pèse rien contre ce que la justice doit aux morts, et sur ce dû je ne transige pas.",
+        "en": "The letter of a human decree weighs nothing against what justice owes the dead, and on that due I will not compromise."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

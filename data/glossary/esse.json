@@ -1,0 +1,12 @@
+{
+  "id": "esse",
+  "term": { "fr": "Esse (l'acte d'être)", "en": "Esse (the act of being)" },
+  "definition": {
+    "fr": "Esse <ety>du latin esse, le verbe « être » pris comme nom, l'acte d'exister</ety> désigne, chez <ph id='aquinas'>Thomas d'Aquin</ph>, l'acte par lequel une chose existe, distinct de son essence, c'est-à-dire de ce qu'elle est. Reprenant l'<c id='hylomorphism'>hylémorphisme</c> aristotélicien, Thomas y ajoute cette distinction réelle : dans toute créature, l'essence ne possède pas d'elle-même l'existence, elle la reçoit. En Dieu seul l'essence est d'exister : il est l'<q>être subsistant lui-même</q> (ipsum esse subsistens), source qui communique l'être à tout le reste. La <ax id='ESSENCE'>nature des choses</ax> est donc bien réelle, mais radicalement dépendante, suspendue à chaque instant à l'acte d'être que Dieu lui donne.",
+    "en": "Esse <ety>from the Latin esse, the verb \"to be\" taken as a noun, the act of existing</ety> designates, in <ph id='aquinas'>Thomas Aquinas</ph>, the act by which a thing exists, distinct from its essence, that is, from what it is. Taking up Aristotelian <c id='hylomorphism'>hylomorphism</c>, Thomas adds to it this real distinction: in every creature, the essence does not possess existence of itself, it receives it. In God alone is the essence to exist: he is <q>subsistent being itself</q> (ipsum esse subsistens), the source that communicates being to all the rest. The <ax id='ESSENCE'>nature of things</ax> is therefore genuinely real, yet radically dependent, hanging at every instant on the act of being that God gives it."
+  },
+  "relatedAxes": ["ESSENCE", "REALITY_NATURE"],
+  "relatedTerms": ["hylomorphism", "analogy-of-being"],
+  "figure": { "slug": "aquinas", "name": { "fr": "Thomas d'Aquin", "en": "Thomas Aquinas" } },
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

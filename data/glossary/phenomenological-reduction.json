@@ -1,0 +1,12 @@
+{
+  "id": "phenomenological-reduction",
+  "term": { "fr": "Réduction phénoménologique (épochè transcendantale)", "en": "Phenomenological reduction (transcendental epochē)" },
+  "definition": {
+    "fr": "La réduction phénoménologique est le geste méthodique par lequel <ph id='husserl'>Husserl</ph> met entre parenthèses la position d'existence de l'<c id='natural-attitude'>attitude naturelle</c> : on cesse de tenir naïvement le monde pour simplement existant, pour décrire les phénomènes purement tels qu'ils se donnent à la <c>conscience</c>. Elle ne nie pas le monde et ne doute pas de lui : elle suspend seulement le jugement d'être afin de dégager le champ des vécus et leur <c id='intentionality'>intentionnalité</c>. Elle se distingue ainsi de l'<c id='epoche'>épochè</c> sceptique : là où le sceptique suspend par faute d'évidence, Husserl suspend pour atteindre une évidence plus originaire, celle de la <ax id='CERTAINTY'>chose se montrant elle-même</ax>.",
+    "en": "The phenomenological reduction is the methodical move by which <ph id='husserl'>Husserl</ph> brackets the existence-positing of the <c id='natural-attitude'>natural attitude</c>: one stops naively holding the world to be simply existent, in order to describe phenomena purely as they give themselves to <c>consciousness</c>. It neither denies the world nor doubts it: it only suspends the judgment of being so as to bring out the field of lived experiences and their <c id='intentionality'>intentionality</c>. It thus differs from the sceptical <c id='epoche'>epochē</c>: where the sceptic suspends for want of evidence, Husserl suspends in order to reach a more originary evidence, that of the <ax id='CERTAINTY'>thing showing itself</ax>."
+  },
+  "relatedAxes": ["CERTAINTY"],
+  "relatedTerms": ["natural-attitude", "intentionality", "epoche"],
+  "figure": { "slug": "husserl", "name": { "fr": "Husserl", "en": "Husserl" } },
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

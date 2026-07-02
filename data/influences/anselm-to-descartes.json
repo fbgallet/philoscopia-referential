@@ -1,0 +1,16 @@
+{
+  "id": "anselm-to-descartes",
+  "from": { "kind": "PHILOSOPHER", "slug": "anselm" },
+  "to": { "kind": "PHILOSOPHER", "slug": "descartes" },
+  "directness": "INDIRECT",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "L'argument ontologique d'<ph id='anselm'>Anselme</ph> reparaît, par des relais scolastiques, dans la Ve Méditation de <ph id='descartes'>Descartes</ph>, qui déduit l'existence de Dieu de son essence, sans emprunt reconnu.",
+    "en": "<ph id='anselm'>Anselm</ph>'s ontological argument resurfaces, through scholastic relays, in <ph id='descartes'>Descartes</ph>'s Fifth Meditation, which derives God's existence from his essence, with no acknowledged borrowing."
+  },
+  "sources": [
+    { "fr": "Descartes, Méditations métaphysiques, V", "en": "Descartes, Meditations on First Philosophy, V" }
+  ],
+  "updatedAt": "2026-07-02T00:00:00.000Z"
+}

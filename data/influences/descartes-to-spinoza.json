@@ -1,0 +1,16 @@
+{
+  "id": "descartes-to-spinoza",
+  "from": { "kind": "PHILOSOPHER", "slug": "descartes" },
+  "to": { "kind": "PHILOSOPHER", "slug": "spinoza" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='spinoza'>Spinoza</ph> reprend l'exigence démonstrative et la méthode de <ph id='descartes'>Descartes</ph>, mais retourne sa métaphysique : au lieu de deux substances et d'un Dieu extérieur, une seule <c>substance</c> infinie dont tout est un mode.",
+    "en": "<ph id='spinoza'>Spinoza</ph> takes up the demonstrative rigour and method of <ph id='descartes'>Descartes</ph>, but overturns his metaphysics: instead of two substances and an external God, a single infinite <c>substance</c> of which everything is a mode."
+  },
+  "sources": [
+    { "fr": "Spinoza, Éthique", "en": "Spinoza, Ethics" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

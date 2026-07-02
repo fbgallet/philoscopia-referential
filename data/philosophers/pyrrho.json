@@ -1,0 +1,392 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "pyrrho",
+  "name": {
+    "fr": "Pyrrhon",
+    "en": "Pyrrho"
+  },
+  "fullName": {
+    "fr": "Pyrrhon d'Élis",
+    "en": "Pyrrho of Elis"
+  },
+  "tagline": {
+    "fr": "Rien n'est plus ceci que cela : <c id='epoche'>ne rien décider</c>, et l'âme se tient en paix.",
+    "en": "Nothing is this any more than that: <c id='epoche'>decide nothing</c>, and the soul rests at peace."
+  },
+  "summary": {
+    "fr": "Philosophe grec d'Élis, dans le Péloponnèse, tenu pour le père du <mv id='skepticism'>scepticisme</mv> antique. Il n'a rien écrit : sa doctrine ne nous est connue que par son disciple <ph>Timon de Phlionte</ph>, puis par <ph>Énésidème</ph>, <ph>Cicéron</ph>, <ph>Diogène Laërce</ph> et <ph id='sextus-empiricus'>Sextus Empiricus</ph>, qui le réclame comme inspirateur. La tradition rapporte qu'il accompagna l'expédition d'Alexandre jusqu'en Inde, où il fréquenta les sages nus (les « gymnosophistes »), expérience souvent reliée à son idéal d'indifférence et d'imperturbabilité. Son scepticisme n'est pas d'abord une théorie de la connaissance mais une manière de vivre : un retrait existentiel devant des choses jugées indéterminées, où la <c id='epoche'>suspension du jugement</c> ouvre sur la tranquillité (<c id='ataraxia'>ataraxie</c>). Là où <ph id='sextus-empiricus'>Sextus</ph> en fera plus tard une méthode argumentée, Pyrrhon en reste à la figure du sage que rien n'émeut.",
+    "en": "A Greek philosopher of Elis, in the Peloponnese, held to be the father of ancient <mv id='skepticism'>skepticism</mv>. He wrote nothing: his doctrine is known to us only through his disciple <ph>Timon of Phlius</ph>, and then through <ph>Aenesidemus</ph>, <ph>Cicero</ph>, <ph>Diogenes Laertius</ph> and <ph id='sextus-empiricus'>Sextus Empiricus</ph>, who claims him as his inspiration. Tradition reports that he followed Alexander's expedition as far as India, where he frequented the naked sages (the \"gymnosophists\"), an experience often linked to his ideal of indifference and imperturbability. His skepticism is not in the first place a theory of knowledge but a way of life: an existential withdrawal before things judged indeterminate, in which the <c id='epoche'>suspension of judgment</c> opens onto tranquillity (<c id='ataraxia'>ataraxia</c>). Where <ph id='sextus-empiricus'>Sextus</ph> would later turn this into an argued method, Pyrrho stays with the figure of the sage whom nothing moves."
+  },
+  "birth": -360,
+  "death": -270,
+  "nationality": {
+    "fr": "Grec",
+    "en": "Greek"
+  },
+  "movements": [
+    "skepticism"
+  ],
+  "entries": [
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 1
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le témoignage d'Aristoclès, recueilli de <ph>Timon</ph>, ramène toute la sagesse à trois questions : comment les choses sont-elles par nature, quelle attitude prendre à leur égard, qu'en résulte-t-il pour nous. La réponse à la première fait l'originalité de Pyrrhon : les choses sont <dif>indéterminées, instables et indiscernables</dif>, si bien que ni nos sensations ni nos opinions ne disent le vrai ou le faux. De ce constat sur l'objet, et non d'un examen des facultés, il tire qu'il ne faut leur accorder aucune confiance et rester <c id='epoche'>sans opinion</c>. Plus radical que le faillibilisme, qui révise ses croyances, il refuse d'affirmer même que rien n'est connaissable, et se contente de dire que les choses ne sont « pas plus ceci que cela ».",
+          "en": "The testimony of Aristocles, gathered from <ph>Timon</ph>, reduces all wisdom to three questions: how are things by nature, what attitude should we take toward them, and what follows from this for us. The answer to the first is what makes Pyrrho original: things are <dif>indeterminate, unstable and indiscriminable</dif>, so that neither our sensations nor our opinions tell the true or the false. From this verdict about the object, and not from an examination of our faculties, he concludes that we should place no trust in them and remain <c id='epoche'>without opinion</c>. More radical than fallibilism, which revises its beliefs, he refuses even to assert that nothing is knowable, and is content to say that things are \"no more this than that\"."
+        },
+        "quote": {
+          "text": {
+            "fr": "Les choses ne sont pas plus ceci que cela, ni les deux à la fois, ni ni l'un ni l'autre.",
+            "en": "Things are no more this than that, nor both at once, nor neither."
+          },
+          "source": {
+            "fr": "Aristoclès, cité par Eusèbe, Préparation évangélique, XIV, 18",
+            "en": "Aristocles, cited by Eusebius, Preparation for the Gospel, XIV, 18"
+          }
+        },
+        "references": [
+          {
+            "fr": "Aristoclès (d'après Timon), cité par Eusèbe, Préparation évangélique, XIV, 18",
+            "en": "Aristocles (after Timon), cited by Eusebius, Preparation for the Gospel, XIV, 18"
+          },
+          {
+            "fr": "Diogène Laërce, Vies des philosophes, IX, 61-108",
+            "en": "Diogenes Laertius, Lives of the Philosophers, IX, 61-108"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.25,
+          0.75,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La troisième question du témoignage donne la fin visée : à qui tient les choses pour indéterminées et renonce à se prononcer, il advient d'abord <c id='aphasia'>l'aphasie</c> (ne rien dire), puis <c id='ataraxia'>l'ataraxie</c>, l'absence de trouble. Le bien suprême n'est donc ni le plaisir ni la vertu, mais une paix obtenue par soustraction : c'est en cessant de croire les choses bonnes ou mauvaises par nature qu'on cesse de les poursuivre ou de les fuir, et que le trouble tombe. <ph>Timon</ph> aurait comparé cette imperturbabilité à la <c>quiétude</c> du sage que rien n'atteint. La part eudémoniste demeure, car la tranquillité est bien l'épanouissement recherché, mais sans la fonction propre ni l'excellence de la vie réussie aristotélicienne.",
+          "en": "The testimony's third question gives the end aimed at: to one who holds things indeterminate and gives up pronouncing on them, there comes first <c id='aphasia'>aphasia</c> (saying nothing), then <c id='ataraxia'>ataraxia</c>, the absence of disturbance. The highest good is thus neither pleasure nor virtue, but a peace reached by subtraction: it is by ceasing to believe things good or bad by nature that one ceases to pursue or flee them, and the disturbance falls away. <ph>Timon</ph> is said to have likened this imperturbability to the <c>calm</c> of a sage whom nothing reaches. The eudaimonist strand remains, since tranquillity is indeed the flourishing sought, but without the proper function or the excellence of the Aristotelian successful life."
+        },
+        "references": [
+          {
+            "fr": "Aristoclès (d'après Timon), cité par Eusèbe, Préparation évangélique, XIV, 18",
+            "en": "Aristocles (after Timon), cited by Eusebius, Preparation for the Gospel, XIV, 18"
+          },
+          {
+            "fr": "Diogène Laërce, Vies des philosophes, IX, 107-108",
+            "en": "Diogenes Laertius, Lives of the Philosophers, IX, 107-108"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.25,
+          0.75
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si rien n'est bon ou mauvais par nature, alors aucun objet ne mérite qu'on le poursuive ou qu'on le craigne : Pyrrhon en tire une <c id='adiaphora'>indifférence</c> (adiaphoria) à l'égard des choses, ressort vécu de son <pb>détachement</pb>. Là où <ph id='epicurus'>Épicure</ph> trie les désirs entre nécessaires et vains, Pyrrhon ne trie pas : c'est le jugement de valeur lui-même qu'il retire, ce qui désamorce le désir à sa racine plutôt que de l'ordonner. La tradition prête au sage une telle égalité d'âme qu'il ne s'émeut de rien, sans pour autant prôner une extinction ascétique : il vit selon ce qui paraît, faim, soif, coutumes, sans s'y attacher comme à des biens.",
+          "en": "If nothing is good or bad by nature, then no object deserves to be pursued or feared: Pyrrho draws from this an <c id='adiaphora'>indifference</c> (adiaphoria) toward things, the lived spring of his <pb>detachment</pb>. Where <ph id='epicurus'>Epicurus</ph> sorts desires into the necessary and the empty, Pyrrho does not sort: it is the value judgment itself that he withdraws, which defuses desire at its root rather than ordering it. Tradition credits the sage with such evenness of soul that nothing moves him, yet without advocating an ascetic extinction: he lives by what appears, hunger, thirst, customs, without attaching to them as goods."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies des philosophes, IX, 61-66",
+            "en": "Diogenes Laertius, Lives of the Philosophers, IX, 61-66"
+          },
+          {
+            "fr": "Cicéron, Des termes extrêmes des biens et des maux, II, 35 et IV, 43",
+            "en": "Cicero, On Moral Ends, II, 35 and IV, 43"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le trouble, pour Pyrrhon, naît de l'opinion qu'une chose est bonne ou mauvaise : ôtez le jugement, l'émotion qui en dépendait tombe. C'est un intellectualisme des passions, partagé avec les stoïciens, mais il le pousse plus loin qu'eux, car il retire non seulement les faux jugements mais l'acte même de juger les choses. Une nuance le retient de l'extrême : la tradition reconnaît que le sage souffre encore du corps, du froid ou de la douleur, affections que nulle suspension n'abolit. Diogène Laërce rapporte d'ailleurs que Pyrrhon, surpris un jour à fuir un chien, avoua qu'il est <dif>difficile de dépouiller entièrement l'homme</dif>.",
+          "en": "Disturbance, for Pyrrho, arises from the opinion that a thing is good or bad: remove the judgment, and the emotion that depended on it falls away. This is an intellectualism of the passions, shared with the Stoics, but he pushes it further than they do, since he withdraws not only false judgments but the very act of judging things. One nuance holds him back from the extreme: tradition grants that the sage still suffers in the body, from cold or pain, affections no suspension abolishes. Diogenes Laertius indeed reports that Pyrrho, caught one day fleeing a dog, admitted it is <dif>hard to strip the human being away entirely</dif>."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies des philosophes, IX, 66-68",
+            "en": "Diogenes Laertius, Lives of the Philosophers, IX, 66-68"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.8,
+          0.2
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le verdict d'indétermination s'applique aussi aux valeurs : rien n'est juste ni injuste, beau ni laid « par nature », mais seulement par convention et coutume. <ph>Timon</ph> assure que pour Pyrrhon « rien n'est beau ni laid, juste ni injuste » en soi. Faute de critère permettant de trancher, le sage <c id='epoche'>suspend son jugement</c> sur l'existence de normes universelles et se règle, par défaut, sur les usages reçus, sans les tenir pour vrais. De là un universalisme nul et une mince part constructiviste, car suivre la coutume n'est pas la fonder : c'est s'y conformer en l'absence de toute vérité morale établie.",
+          "en": "The verdict of indeterminacy applies to values as well: nothing is just or unjust, beautiful or ugly \"by nature\", but only by convention and custom. <ph>Timon</ph> reports that for Pyrrho \"nothing is beautiful or ugly, just or unjust\" in itself. Lacking a criterion to decide, the sage <c id='epoche'>suspends judgment</c> on the existence of universal norms and regulates himself, by default, on received usage, without holding it true. Hence a null universalism and a thin constructivist strand, since following custom is not grounding it: it is conforming to it in the absence of any established moral truth."
+        },
+        "references": [
+          {
+            "fr": "Aristoclès (d'après Timon), cité par Eusèbe, Préparation évangélique, XIV, 18",
+            "en": "Aristocles (after Timon), cited by Eusebius, Preparation for the Gospel, XIV, 18"
+          },
+          {
+            "fr": "Diogène Laërce, Vies des philosophes, IX, 61 et 101",
+            "en": "Diogenes Laertius, Lives of the Philosophers, IX, 61 and 101"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "BELIEF_ETHICS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le geste premier de Pyrrhon est de retirer son adhésion à toute opinion : tant que les choses restent indéterminées, donner sa créance à l'une plutôt qu'à l'autre serait se précipiter. Cette retenue rejoint l'esprit <kw>évidentialiste</kw>, ne croire qu'à proportion de ce qui se montre, mais sous une forme extrême, car rien ne se montre assez pour mériter qu'on y croie. La nuance pyrrhonienne est qu'il ne fait pas de cette retenue un devoir moral : elle est l'effet vécu de l'indétermination des choses, l'impossibilité d'adhérer là où rien n'emporte la balance, plutôt qu'une règle qu'on s'imposerait.",
+          "en": "Pyrrho's first move is to withdraw his assent from every opinion: while things remain indeterminate, to grant belief to one rather than another would be to rush. This restraint meets the <kw>evidentialist</kw> spirit, to believe only in proportion to what shows itself, but in an extreme form, since nothing shows itself enough to deserve belief. The Pyrrhonian nuance is that he makes of this restraint no moral duty: it is the lived effect of the indeterminacy of things, the impossibility of assenting where nothing tips the scale, rather than a rule one would impose on oneself."
+        },
+        "references": [
+          {
+            "fr": "Aristoclès (d'après Timon), cité par Eusèbe, Préparation évangélique, XIV, 18",
+            "en": "Aristocles (after Timon), cited by Eusebius, Preparation for the Gospel, XIV, 18"
+          },
+          {
+            "fr": "Diogène Laërce, Vies des philosophes, IX, 61-62",
+            "en": "Diogenes Laertius, Lives of the Philosophers, IX, 61-62"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'indétermination de toutes choses s'étend au divin : ni l'existence ni l'inexistence des dieux n'étant établissable, le sage ne tranche pas. Cette suspension est plus radicale que <kw>l'agnosticisme</kw>, qui affirme l'indécidabilité comme une thèse, puisque Pyrrhon ne pose même pas que le divin est inconnaissable. En pratique, suivant la coutume de sa cité, il honore les dieux comme les autres, sans y attacher de croyance dogmatique. C'est cette suspension vécue, et non une position d'équilibre entre foi et athéisme, que marque ici la valeur médiane.",
+          "en": "The indeterminacy of all things extends to the divine: since neither the existence nor the non-existence of the gods can be established, the sage does not decide. This suspension is more radical than <kw>agnosticism</kw>, which asserts undecidability as a thesis, since Pyrrho does not even posit that the divine is unknowable. In practice, following the custom of his city, he honors the gods like everyone else, without attaching dogmatic belief to it. It is this lived suspension, and not a position of balance between faith and atheism, that the median value marks here."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies des philosophes, IX, 64 et 108",
+            "en": "Diogenes Laertius, Lives of the Philosophers, IX, 64 and 108"
+          },
+          {
+            "fr": "Sextus Empiricus, Esquisses pyrrhoniennes, III, 2 (sur les dieux)",
+            "en": "Sextus Empiricus, Outlines of Pyrrhonism, III, 2 (on the gods)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.1
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Pyrrhon ne prête à la souffrance ni une fécondité qui forgerait l'âme, ni le statut d'un mal absolu à abolir : ce serait deux fois la juger par nature. La plus grande part du tourment, tient-il, vient de l'opinion surajoutée que ce qui nous arrive est un mal ; retirer ce jugement allège d'autant, et il ne reste que la douleur forcée du corps. La position est donc proche de l'indifférence médiane, une souffrance désamorcée par la suspension du jugement de valeur plutôt que magnifiée ou combattue par principe.",
+          "en": "Pyrrho grants suffering neither a fruitfulness that would forge the soul, nor the status of an absolute evil to be abolished: either would be to judge it by nature twice over. The greater part of the torment, he holds, comes from the added opinion that what happens to us is an evil; to withdraw that judgment lightens it accordingly, and only the forced pain of the body remains. The position is thus close to the median indifference, a suffering defused by the suspension of the value judgment rather than magnified or fought on principle."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies des philosophes, IX, 66-68",
+            "en": "Diogenes Laertius, Lives of the Philosophers, IX, 66-68"
+          },
+          {
+            "fr": "Cicéron, Tusculanes, V (sur l'imperturbabilité du sage)",
+            "en": "Cicero, Tusculan Disputations, V (on the imperturbability of the sage)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HOPE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Espérer comme craindre, c'est juger qu'un avenir non manifeste sera bon ou mauvais : or c'est précisément ce jugement sur l'indéterminé que Pyrrhon suspend. Sans opinion sur ce que demain doit apporter, il ne suspend pas sa paix à une attente et accueille ce qui se présente. La tonalité est celle d'une tranquillité lucide plutôt que d'un principe d'espérance, mais sans le désespoir tragique, étranger à qui a renoncé à juger le futur.",
+          "en": "To hope, like to fear, is to judge that a non-evident future will be good or bad: yet it is precisely this judgment on the indeterminate that Pyrrho suspends. With no opinion about what tomorrow must bring, he does not hang his peace on an expectation, and welcomes what presents itself. The tone is one of lucid tranquillity rather than a principle of hope, yet without the tragic despair foreign to one who has given up judging the future."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies des philosophes, IX, 107-108",
+            "en": "Diogenes Laertius, Lives of the Philosophers, IX, 107-108"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le scepticisme de Pyrrhon est d'abord une attitude tournée vers l'épreuve des apparences plutôt que vers l'action transformatrice du monde, ce qui le penche du côté de la vie examinée. Mais à la différence de l'examen socratique de soi, il ne s'accompagne d'aucune doctrine de l'âme à approfondir : nul moi intérieur à déchiffrer, seulement la discipline d'un regard qui se déprend des opinions. D'où une intériorité réelle mais mince, et retenue de l'extrême.",
+          "en": "Pyrrho's skepticism is first an attitude turned toward the testing of appearances rather than the world-transforming deed, which leans it toward the examined life. But unlike the Socratic examination of the self, it carries no doctrine of the soul to be deepened: no inner self to decipher, only the discipline of a gaze that frees itself from opinions. Hence an interiority that is real but thin, and held back from the extreme."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies des philosophes, IX, 61-70",
+            "en": "Diogenes Laertius, Lives of the Philosophers, IX, 61-70"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TRUTH_NATURE",
+      "status": "NOT_APPLICABLE",
+      "note": {
+        "fr": "Tenant les choses pour indéterminées, Pyrrhon ne peut adopter aucune théorie du vrai, par correspondance, cohérence ou autre, sans contredire sa propre suspension. Il s'en tient à ce qui apparaît et ne se prononce pas sur ce qui serait vrai « par nature ».",
+        "en": "Holding things to be indeterminate, Pyrrho can adopt no theory of the true, whether by correspondence, coherence or otherwise, without contradicting his own suspension. He holds to what appears and takes no stand on what would be true \"by nature\"."
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "NOT_APPLICABLE",
+      "note": {
+        "fr": "Matérialisme, idéalisme et dualisme sont des thèses sur le réel « par nature », précisément ce que Pyrrhon déclare indéterminé et indiscernable. Trancher serait adopter le dogmatisme dont son scepticisme se déprend.",
+        "en": "Materialism, idealism and dualism are theses on the real \"by nature\", precisely what Pyrrho declares indeterminate and indiscriminable. To decide would be to adopt the dogmatism his skepticism frees itself from."
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "status": "NOT_APPLICABLE",
+      "note": {
+        "fr": "Toute théorie du moi, substance, continuité ou faisceau, est une thèse sur ce que l'âme serait par nature ; or Pyrrhon laisse cette nature indéterminée. Il parle de l'homme et de ses affections au plan de l'apparence, sans doctrine de l'identité personnelle.",
+        "en": "Every theory of the self, substance, continuity or bundle, is a thesis on what the soul would be by nature; yet Pyrrho leaves that nature indeterminate. He speaks of the human being and its affections at the level of appearance, with no doctrine of personal identity."
+      }
+    },
+    {
+      "axisId": "CAUSALITY",
+      "status": "NOT_APPLICABLE",
+      "note": {
+        "fr": "Décider entre mécanisme, finalisme et vitalisme suppose de connaître les causes cachées derrière les apparences, ce que l'indétermination pyrrhonienne interdit. Pyrrhon n'accorde que le phénomène, jamais une explication du fond des choses.",
+        "en": "To decide between mechanism, finalism and vitalism presupposes knowing the hidden causes behind appearances, which Pyrrhonian indeterminacy forbids. Pyrrho grants only the phenomenon, never an explanation of the ground of things."
+      }
+    },
+    {
+      "axisId": "MACHINE_MIND",
+      "status": "NOT_APPLICABLE",
+      "note": {
+        "fr": "Question anachronique : rien dans ce qui nous est transmis de Pyrrhon ne permet de le positionner sur la pensée des machines sans extrapolation hasardeuse.",
+        "en": "An anachronistic question: nothing in what is transmitted to us of Pyrrho allows positioning him on machine thought without hazardous extrapolation."
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "CERTAINTY",
+      "thesis": {
+        "fr": "Les choses ne sont pas plus ceci que cela : indéterminées et indiscernables, elles ne méritent ni nos sens ni nos opinions, alors <c id='epoche'>n'aie aucune opinion</c>.",
+        "en": "Things are no more this than that: indeterminate and indiscriminable, they deserve neither our senses nor our opinions, so <c id='epoche'>hold no opinion</c>."
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "thesis": {
+        "fr": "Ne cherche pas la paix : à qui cesse de juger les choses suit d'elle-même <c id='ataraxia'>l'ataraxie</c>, comme l'ombre suit le corps.",
+        "en": "Do not seek peace: to one who stops judging things, <c id='ataraxia'>ataraxia</c> follows of itself, as a shadow follows the body."
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "thesis": {
+        "fr": "Rien n'étant bon ni mauvais par nature, rien ne vaut d'être poursuivi : sois <c id='adiaphora'>indifférent</c> à tout ce qui passe, et plus rien ne te trouble.",
+        "en": "Since nothing is good or bad by nature, nothing is worth pursuing: be <c id='adiaphora'>indifferent</c> to all that passes, and nothing will trouble you any longer."
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "thesis": {
+        "fr": "Le trouble vient de l'opinion qu'une chose est un mal : retire le jugement, et la passion qui en dépendait s'éteint.",
+        "en": "Disturbance comes from the opinion that a thing is an evil: withdraw the judgment, and the passion that depended on it dies away."
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "thesis": {
+        "fr": "Rien n'est juste ni injuste par nature : devant la diversité des coutumes, <c id='epoche'>suspends ton jugement</c> et suis l'usage de ton pays sans le croire vrai.",
+        "en": "Nothing is just or unjust by nature: faced with the diversity of customs, <c id='epoche'>suspend your judgment</c> and follow the usage of your country without believing it true."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-29T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

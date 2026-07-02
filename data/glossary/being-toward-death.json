@@ -1,0 +1,12 @@
+{
+  "id": "being-toward-death",
+  "term": { "fr": "Être-pour-la-mort", "en": "Being-toward-death" },
+  "definition": {
+    "fr": "L'être-pour-la-mort désigne, chez <ph>Heidegger</ph>, le rapport par lequel l'existence humaine se comprend à partir de sa propre fin. La mort n'y est pas un simple événement à venir, mais la possibilité la plus propre de chacun, que nul ne peut assumer à sa place. La regarder en face, plutôt que de la fuir dans l'affairement quotidien, arrache à l'anonymat et ouvre à une existence <c id='authenticity'>authentique</c>. C'est l'une des grandes <ax id='DEATH'>attitudes possibles devant la mort</ax>.",
+    "en": "Being-toward-death names, in <ph>Heidegger</ph>, the relation through which human existence understands itself from its own end. Death here is not a mere event to come, but each person's ownmost possibility, which no one can take on in their place. Facing it, rather than fleeing it in everyday busyness, tears one from anonymity and opens the way to an <c id='authenticity'>authentic</c> existence. It is one of the great <ax id='DEATH'>attitudes one can take toward death</ax>."
+  },
+  "relatedAxes": ["DEATH"],
+  "relatedTerms": ["authenticity"],
+  "positions": [{ "axisId": "DEATH", "poleId": "BEING_TOWARD_DEATH" }],
+  "updatedAt": "2026-06-19T00:00:00.000Z"
+}

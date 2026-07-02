@@ -1,0 +1,26 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "crates",
+  "stub": true,
+  "name": {
+    "fr": "Cratès",
+    "en": "Crates"
+  },
+  "summary": {
+    "fr": "Philosophe <mv id='cynicism'>cynique</mv>, disciple de <ph id='diogenes'>Diogène</ph>, qui renonça à sa fortune pour une vie de pauvreté volontaire et fut le maître de <ph id='zeno-of-citium'>Zénon</ph>.",
+    "en": "<mv id='cynicism'>Cynic</mv> philosopher, a pupil of <ph id='diogenes'>Diogenes</ph>, who renounced his fortune for a life of voluntary poverty and taught <ph id='zeno-of-citium'>Zeno</ph>."
+  },
+  "birth": -365,
+  "death": -285,
+  "nationality": {
+    "fr": "Grec",
+    "en": "Greek"
+  },
+  "movements": [
+    "cynicism"
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

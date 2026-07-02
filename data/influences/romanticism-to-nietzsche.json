@@ -1,0 +1,17 @@
+{
+  "id": "romanticism-to-nietzsche",
+  "from": { "kind": "MOVEMENT", "slug": "romanticism" },
+  "to": { "kind": "PHILOSOPHER", "slug": "nietzsche" },
+  "directness": "INDIRECT",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='nietzsche'>Nietzsche</ph> hérite du romantisme plus qu'il ne l'avoue : le <c>dionysiaque</c> de La Naissance de la tragédie, l'art tenu pour « l'activité métaphysique par excellence », la révolte contre la raison socratique et les Lumières viennent de cette source, transmise par <ph id='schopenhauer'>Schopenhauer</ph> et Wagner. Mais il retourne bientôt ces armes contre le romantisme lui-même, qu'il dénonce comme nostalgie, faiblesse et fuite : il en recueille l'énergie pour en rejeter la mélancolie.",
+    "en": "<ph id='nietzsche'>Nietzsche</ph> inherits more from Romanticism than he admits: the <c>Dionysian</c> of The Birth of Tragedy, art held to be « the metaphysical activity par excellence », the revolt against Socratic reason and the Enlightenment all come from this source, transmitted through <ph id='schopenhauer'>Schopenhauer</ph> and Wagner. But he soon turns these weapons against Romanticism itself, which he denounces as nostalgia, weakness and flight: he gathers its energy in order to reject its melancholy."
+  },
+  "sources": [
+    { "fr": "Nietzsche, La Naissance de la tragédie (1872)", "en": "Nietzsche, The Birth of Tragedy (1872)" },
+    { "fr": "Nietzsche, Le Gai Savoir, § 370 (« Qu'est-ce que le romantisme ? »)", "en": "Nietzsche, The Gay Science, § 370 (« What is Romanticism? »)" }
+  ],
+  "updatedAt": "2026-06-26T00:00:00.000Z"
+}

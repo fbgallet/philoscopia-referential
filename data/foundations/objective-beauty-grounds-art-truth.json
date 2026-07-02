@@ -1,0 +1,12 @@
+{
+  "id": "objective-beauty-grounds-art-truth",
+  "ground": { "axisId": "BEAUTY", "poleId": "OBJECTIVE_BEAUTY" },
+  "grounded": { "axisId": "ART_PURPOSE", "poleId": "ART_TRUTH" },
+  "kind": "T_V",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si la beauté est une réalité liée à l'ordre et à l'essence des choses, alors la grande œuvre est celle qui donne à voir cette vérité, par-delà l'agrément. Le beau objectif fonde l'idée d'un art de vérité : pour <ph id='schopenhauer'>Schopenhauer</ph>, l'art suspend le vouloir et dévoile l'essence du monde que le concept ne peut atteindre.",
+    "en": "If beauty is a reality bound up with the order and essence of things, then the great work is the one that lets that truth be seen, beyond mere pleasure. Objective beauty grounds the idea of an art of truth: for <ph id='schopenhauer'>Schopenhauer</ph>, art suspends the will and discloses the essence of the world that the concept cannot reach."
+  },
+  "updatedAt": "2026-06-22T00:00:00.000Z"
+}

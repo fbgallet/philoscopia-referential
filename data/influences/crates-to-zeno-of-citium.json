@@ -1,0 +1,16 @@
+{
+  "id": "crates-to-zeno-of-citium",
+  "from": { "kind": "PHILOSOPHER", "slug": "crates" },
+  "to": { "kind": "PHILOSOPHER", "slug": "zeno-of-citium" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Avant de fonder le Portique, <ph id='zeno-of-citium'>Zénon</ph> fut l'élève du cynique <ph id='crates'>Cratès</ph> : il en reçoit l'idéal d'autosuffisance et la vie <q>selon la nature</q>, socle éthique qu'il refondra en système.",
+    "en": "Before founding the Stoa, <ph id='zeno-of-citium'>Zeno</ph> studied under the Cynic <ph id='crates'>Crates</ph>: from him he takes the ideal of self-sufficiency and life <q>according to nature</q>, an ethical core he would recast into a system."
+  },
+  "sources": [
+    { "fr": "Diogène Laërce, Vies et doctrines des philosophes illustres, VII", "en": "Diogenes Laërtius, Lives of the Eminent Philosophers, VII" }
+  ],
+  "updatedAt": "2026-07-02T00:00:00.000Z"
+}

@@ -1,0 +1,162 @@
+{
+  "id": "MORAL_CIRCLE",
+  "relation": "OTHERS",
+  "territory": "MORALS",
+  "label": {
+    "fr": "Cercle moral",
+    "en": "Moral circle"
+  },
+  "question": {
+    "fr": "Envers qui avons-nous des devoirs moraux ?",
+    "en": "To whom do we owe moral consideration?"
+  },
+  "stakes": {
+    "fr": "Là où l'on trace le cercle, on décide qui l'on peut utiliser sans scrupule et qui l'on doit épargner : trop étroit, il autorise la cruauté ; trop large, il rend la vie ordinaire impossible. Se positionner, c'est dire qui compte vraiment, et jusqu'où s'étend ce que nous devons aux autres êtres.",
+    "en": "Where we draw the circle, we decide whom we may use without scruple and whom we must spare: too narrow, it licenses cruelty; too wide, it makes ordinary life impossible. To take a position is to say who truly counts, and how far what we owe extends to other beings."
+  },
+  "layer": "VALUE",
+  "type": "CATEGORICAL_ORDERED",
+  "poles": [
+    {
+      "id": "ANTHROPOCENTRISM",
+      "label": {
+        "fr": "Anthropocentrisme",
+        "en": "Anthropocentrism"
+      },
+      "description": {
+        "fr": "Seuls les êtres humains ont une valeur morale propre, en raison de leur raison, de leur conscience ou de leur dignité. Les animaux et la nature peuvent mériter des égards, mais seulement de façon indirecte, par les effets que notre conduite envers eux a sur les humains.",
+        "en": "Only human beings have intrinsic moral worth, by virtue of their reason, consciousness, or dignity. Animals and nature may deserve consideration, but only indirectly, through the effects our treatment of them has on humans."
+      },
+      "figures": [
+        {
+          "slug": "descartes",
+          "name": {
+            "fr": "Descartes",
+            "en": "Descartes"
+          }
+        },
+        {
+          "slug": "kant",
+          "name": {
+            "fr": "Kant",
+            "en": "Kant"
+          }
+        }
+      ]
+    },
+    {
+      "id": "PATHOCENTRISM",
+      "label": {
+        "fr": "Pathocentrisme",
+        "en": "Pathocentrism"
+      },
+      "description": {
+        "fr": "Tout être capable de souffrir compte moralement. La question n'est pas « peuvent-ils raisonner ? » mais « peuvent-ils souffrir ? » : les animaux sensibles entrent donc dans le cercle moral, et leurs intérêts méritent une considération égale, à intérêts comparables.",
+        "en": "Every being capable of suffering counts morally. The question is not \"can they reason?\" but \"can they suffer?\": sentient animals thus enter the moral circle, and their interests deserve equal consideration where interests are comparable."
+      },
+      "figures": [
+        {
+          "slug": "bentham",
+          "name": {
+            "fr": "Bentham",
+            "en": "Bentham"
+          }
+        },
+        {
+          "slug": "singer",
+          "name": {
+            "fr": "Singer",
+            "en": "Singer"
+          }
+        }
+      ]
+    },
+    {
+      "id": "BIOCENTRISM",
+      "label": {
+        "fr": "Biocentrisme",
+        "en": "Biocentrism"
+      },
+      "description": {
+        "fr": "Tout être vivant, sensible ou non, possède une valeur propre : plantes, insectes, micro-organismes compris. L'éthique repose sur le respect de la vie en tant que telle, chaque organisme poursuivant son propre bien à sa manière.",
+        "en": "Every living being, sentient or not, has a worth of its own: plants, insects, and micro-organisms included. Ethics rests on reverence for life as such, each organism pursuing its own good in its own way."
+      },
+      "figures": [
+        {
+          "slug": "schweitzer",
+          "name": {
+            "fr": "Schweitzer",
+            "en": "Schweitzer"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ECOCENTRISM",
+      "label": {
+        "fr": "Écocentrisme",
+        "en": "Ecocentrism"
+      },
+      "description": {
+        "fr": "La valeur morale s'attache aux ensembles écologiques eux-mêmes : espèces, écosystèmes, communauté biotique dans son ensemble. Une action est juste quand elle préserve l'intégrité, la stabilité et la beauté de ces touts, dont les individus, humains compris, ne sont que des membres.",
+        "en": "Moral worth attaches to ecological wholes themselves: species, ecosystems, the biotic community as a whole. An action is right when it preserves the integrity, stability, and beauty of these wholes, of which individuals, humans included, are but members."
+      },
+      "figures": [
+        {
+          "slug": "leopold",
+          "name": {
+            "fr": "Leopold",
+            "en": "Leopold"
+          }
+        },
+        {
+          "slug": "naess",
+          "name": {
+            "fr": "Næss",
+            "en": "Næss"
+          }
+        }
+      ]
+    }
+  ],
+  "core": true,
+  "difficulty": 1,
+  "clusters": [
+    "MORAL_EXPANSION"
+  ],
+  "relatedAxes": [
+    "ETHICS_FOUNDATION",
+    "FUTURE_GENERATIONS",
+    "HUMAN_PLACE_NATURE",
+    "MACHINE_MIND",
+    "MORAL_DEMAND",
+    "MORAL_SCOPE"
+  ],
+  "problems": [
+    {
+      "id": "artificial-minds",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "une intelligence artificielle", "en": "an artificial intelligence" },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "MORAL",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "statut moral des machines", "en": "moral status of machines" },
+        { "fr": "conscience artificielle", "en": "artificial consciousness" },
+        { "fr": "sensibilité", "en": "sentience" }
+      ],
+      "poles": ["ANTHROPOCENTRISM", "PATHOCENTRISM"],
+      "anchors": [
+        { "name": { "fr": "Bentham", "en": "Bentham" }, "kind": "PHILOSOPHER", "slug": "bentham" },
+        { "name": { "fr": "Turing", "en": "Turing" }, "kind": "PHILOSOPHER" }
+      ],
+      "doorways": [{ "axis": "MACHINE_MIND" }],
+      "title": { "fr": "Une machine peut-elle compter moralement ?", "en": "Can a machine count morally?" },
+      "explicitation": {
+        "fr": "Si une intelligence artificielle disait souffrir, faudrait-il étendre jusqu'à elle le critère de la sensibilité, ou la considération morale s'arrête-t-elle au vivant, une souffrance simulée n'obligeant à rien ?",
+        "en": "If an artificial intelligence said it was suffering, should the sentience criterion be extended to it, or does moral consideration stop at the living, simulated suffering obliging us to nothing?"
+      }
+    }
+  ]
+}

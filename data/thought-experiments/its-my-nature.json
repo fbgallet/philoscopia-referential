@@ -1,0 +1,60 @@
+{
+  "id": "its-my-nature",
+  "title": {
+    "fr": "« Je suis comme ça »",
+    "en": "\"That's just how I am\""
+  },
+  "description": {
+    "fr": "Quelqu'un que vous connaissez bien recommence sans cesse : il fuit dès que les choses se compliquent, laisse tomber ceux qui comptaient sur lui, puis disparaît. Un jour, vous le lui dites. Il ne se défend même pas. Il répond, presque avec douceur : « Je sais. Mais je suis comme ça, je l'ai toujours été. On ne change pas sa nature. » Ce n'est pas une excuse qu'il vous oppose, c'est un fait qu'il constate sur lui-même, comme on constaterait la couleur de ses yeux. Reste à savoir ce que vaut ce qu'il dit là.",
+    "en": "Someone you know well keeps doing the same thing: they bolt the moment things get hard, let down those who were counting on them, then vanish. One day you tell them so. They don't even defend themselves. They answer, almost gently: \"I know. But that's how I am, I always have been. You can't change your nature.\" It isn't an excuse they throw back at you, it's a fact they note about themselves, the way one might note the color of one's eyes. What remains is to know what that claim is worth."
+  },
+  "source": {
+    "author": { "fr": "Sartre", "en": "Sartre" },
+    "work": { "fr": "L'existentialisme est un humanisme", "en": "Existentialism Is a Humanism" },
+    "year": 1946
+  },
+  "question": {
+    "fr": "Quand quelqu'un dit « c'est ma nature, je ne peux pas changer », qu'est-ce que cela vaut ?",
+    "en": "When someone says \"it's my nature, I can't change,\" what is that worth?"
+  },
+  "axisIds": ["ESSENCE"],
+  "options": [
+    {
+      "id": "true-to-nature",
+      "label": {
+        "fr": "C'est vrai. Chacun a un caractère, formé tôt et en profondeur, qu'aucune volonté ne refait à neuf. La lucidité consiste à le reconnaître et à composer avec, non à se croire libre de se réinventer.",
+        "en": "It's true. Each of us has a character, formed early and deep, that no act of will remakes from scratch. Lucidity means recognizing it and working with it, not believing oneself free to reinvent oneself."
+      },
+      "hints": [{ "axisId": "ESSENCE", "value": { "kind": "scalar", "value": -0.8 } }],
+      "discussion": {
+        "fr": "C'est l'intuition <c id='authenticity'>essentialiste</c> : une nature donnée que l'on n'a pas choisie, comme la graine porte déjà la plante. Reste la question que pose <ph id='sartre'>Sartre</ph> : ce « fond » est-il vraiment trouvé, ou est-ce ce que nos actes ont sédimenté, et qu'ils pourraient défaire ?",
+        "en": "This is the <c id='authenticity'>essentialist</c> intuition: a given nature one did not choose, as the seed already bears the plant. There remains the question <ph id='sartre'>Sartre</ph> raises: is this \"depths\" really found, or is it what our acts have laid down, and could undo?"
+      }
+    },
+    {
+      "id": "answerable-still",
+      "label": {
+        "fr": "Une part de vous est donnée, soit, mais ce que vous en faites vous revient. Invoquer sa nature pour ne pas répondre de ses actes, c'est confondre ce qu'on est et ce qu'on choisit.",
+        "en": "A part of you is given, granted, but what you make of it falls to you. To invoke one's nature so as not to answer for one's acts is to confuse what one is with what one chooses."
+      },
+      "hints": [{ "axisId": "ESSENCE", "value": { "kind": "scalar", "value": 0 } }],
+      "discussion": {
+        "fr": "La voie de <ph id='beauvoir'>Beauvoir</ph> : la situation, le tempérament, l'histoire sont donnés, mais la liberté est dans la manière dont on les reprend à son compte. On peut reconnaître un sol sans en faire un alibi.",
+        "en": "<ph id='beauvoir'>Beauvoir</ph>'s path: situation, temperament, history are given, but freedom lies in how one takes them up. One can acknowledge a ground without making it an alibi."
+      }
+    },
+    {
+      "id": "flight-from-freedom",
+      "label": {
+        "fr": "C'est de la mauvaise foi. Il n'y a pas de « nature » cachée derrière vos actes : vous n'êtes rien d'autre que ce que vous faites, et « je suis comme ça » sert à fuir la liberté qui reste la vôtre. Vous vous êtes fait ainsi, vous pouvez vous faire autre.",
+        "en": "It's bad faith. There is no hidden \"nature\" behind your acts: you are nothing but what you do, and \"that's how I am\" serves to flee the freedom that remains yours. You made yourself this way, and you can make yourself otherwise."
+      },
+      "hints": [{ "axisId": "ESSENCE", "value": { "kind": "scalar", "value": 0.8 } }],
+      "discussion": {
+        "fr": "C'est la thèse de <ph id='sartre'>Sartre</ph> : il n'y a pas de lâche par nature, seulement des actes lâches dont on se rend lâche. La <c id='bad-faith'>mauvaise foi</c> est ce mensonge à soi qui se réclame d'une essence pour ne pas avoir à se choisir.",
+        "en": "This is <ph id='sartre'>Sartre</ph>'s thesis: there is no coward by nature, only cowardly acts by which one makes oneself a coward. <c id='bad-faith'>Bad faith</c> is the lie to oneself that claims an essence so as not to have to choose oneself."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

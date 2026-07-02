@@ -1,0 +1,16 @@
+{
+  "id": "nietzsche-to-foucault",
+  "from": { "kind": "PHILOSOPHER", "slug": "nietzsche" },
+  "to": { "kind": "PHILOSOPHER", "slug": "foucault" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='foucault'>Foucault</ph> reprend de <ph id='nietzsche'>Nietzsche</ph> la méthode <c>généalogique</c> : la critique des origines et des prétentions universelles de la vérité et du sujet, qu'il déploie en analyse des rapports entre <c>savoir</c> et <c>pouvoir</c>.",
+    "en": "<ph id='foucault'>Foucault</ph> takes from <ph id='nietzsche'>Nietzsche</ph> the <c>genealogical</c> method: the critique of origins and of the universal pretensions of truth and the subject, which he unfolds into an analysis of the relations between <c>knowledge</c> and <c>power</c>."
+  },
+  "sources": [
+    { "fr": "Foucault, « Nietzsche, la généalogie, l'histoire » (1971)", "en": "Foucault, \"Nietzsche, Genealogy, History\" (1971)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

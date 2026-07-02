@@ -1,0 +1,17 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "voltaire",
+  "stub": true,
+  "name": { "fr": "Voltaire", "en": "Voltaire" },
+  "fullName": { "fr": "François-Marie Arouet, dit Voltaire", "en": "François-Marie Arouet, known as Voltaire" },
+  "summary": {
+    "fr": "Écrivain et philosophe français, figure de proue des <mv id='enlightenment'>Lumières</mv>, infatigable défenseur de la tolérance et de la raison contre le fanatisme et l'« Infâme ».",
+    "en": "French writer and philosopher, a leading figure of the <mv id='enlightenment'>Enlightenment</mv>, a tireless champion of tolerance and reason against fanaticism and the « Infamous Thing »."
+  },
+  "birth": 1694,
+  "death": 1778,
+  "nationality": { "fr": "Français", "en": "French" },
+  "movements": ["enlightenment"],
+  "updatedAt": "2026-06-25T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

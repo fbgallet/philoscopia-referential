@@ -1,0 +1,17 @@
+{
+  "id": "montaigne-to-nietzsche",
+  "from": { "kind": "PHILOSOPHER", "slug": "montaigne" },
+  "to": { "kind": "PHILOSOPHER", "slug": "nietzsche" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='nietzsche'>Nietzsche</ph> salue <ph id='montaigne'>Montaigne</ph> comme un esprit libre et un modèle : écrire le moi, affirmer le corps et la terre, gagner en gaieté de vivre par sa seule lecture. Il en reprend la franchise de l'essai et la recompose dans sa propre posture généalogique, affirmatrice de la vie.",
+    "en": "<ph id='nietzsche'>Nietzsche</ph> hails <ph id='montaigne'>Montaigne</ph> as a free spirit and a model: writing the self, affirming the body and the earth, gaining in the joy of living by his reading alone. He takes up the essay's candor and recasts it within his own genealogical, life-affirming stance."
+  },
+  "sources": [
+    { "fr": "Nietzsche, « Schopenhauer éducateur » (Considérations inactuelles III), éloge de Montaigne", "en": "Nietzsche, \"Schopenhauer as Educator\" (Untimely Meditations III), in praise of Montaigne" },
+    { "fr": "Nietzsche, fragments posthumes", "en": "Nietzsche, posthumous notebooks" }
+  ],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

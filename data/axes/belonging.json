@@ -1,0 +1,85 @@
+{
+  "id": "BELONGING",
+  "relation": "OTHERS",
+  "territory": "SOCIETY_POLITICS",
+  "label": {
+    "fr": "Appartenance",
+    "en": "Belonging"
+  },
+  "question": {
+    "fr": "Où va d'abord notre appartenance : à notre communauté, ou à l'humanité tout entière ?",
+    "en": "Where does our belonging lie first: with our own community, or with humanity as a whole?"
+  },
+  "stakes": {
+    "fr": "Privilégier les siens donne des racines mais peut fermer la porte à l'étranger ; s'ouvrir à tous élargit le cœur mais risque de n'appartenir nulle part. Trancher, c'est dire à qui nous devons quelque chose en premier, quand les loyautés proches et lointaines entrent en conflit.",
+    "en": "Favouring our own gives us roots but can shut the door on the stranger; opening to all enlarges the heart but risks belonging nowhere. To decide is to say whom we owe something to first, when near and distant loyalties come into conflict."
+  },
+  "layer": "VALUE",
+  "type": "BIPOLAR",
+  "poles": [
+    {
+      "id": "COMMUNITARIANISM",
+      "label": {
+        "fr": "Communautarisme-patriotisme",
+        "en": "Communitarianism and patriotism"
+      },
+      "description": {
+        "fr": "Nous ne sommes pas des individus abstraits : notre identité et nos attachements naissent des communautés concrètes qui nous ont formés, famille, nation, culture. La loyauté envers les siens n'est pas un préjugé, mais une vertu et la source réelle de la solidarité.",
+        "en": "We are not abstract individuals: our identity and attachments arise from the concrete communities that shaped us, family, nation, culture. Loyalty to one's own is not a prejudice but a virtue, and the real source of solidarity."
+      },
+      "figures": [
+        {
+          "slug": "macintyre",
+          "name": {
+            "fr": "MacIntyre",
+            "en": "MacIntyre"
+          }
+        },
+        {
+          "slug": "walzer",
+          "name": {
+            "fr": "Walzer",
+            "en": "Walzer"
+          }
+        }
+      ]
+    },
+    {
+      "id": "COSMOPOLITANISM",
+      "label": {
+        "fr": "Cosmopolitisme",
+        "en": "Cosmopolitanism"
+      },
+      "description": {
+        "fr": "Nous sommes d'abord citoyens du monde : la dignité humaine ne s'arrête pas aux frontières. Les appartenances locales sont contingentes, et c'est à l'humanité tout entière que nous appartenons d'abord, par-delà les patries.",
+        "en": "We are first citizens of the world: human dignity does not stop at borders. Local attachments are contingent, and it is to humanity as a whole that we belong first, beyond all homelands."
+      },
+      "figures": [
+        {
+          "slug": "diogenes",
+          "name": {
+            "fr": "Diogène",
+            "en": "Diogenes"
+          }
+        },
+        {
+          "slug": "kant",
+          "name": {
+            "fr": "Kant",
+            "en": "Kant"
+          }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 1,
+  "clusters": [
+    "TRADITION_ORDER"
+  ],
+  "relatedAxes": [
+    "PARTIALITY",
+    "SOCIAL_CONTRACT",
+    "SOVEREIGN_GOOD"
+  ]
+}

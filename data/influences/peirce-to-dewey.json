@@ -1,0 +1,16 @@
+{
+  "id": "peirce-to-dewey",
+  "from": { "kind": "PHILOSOPHER", "slug": "peirce" },
+  "to": { "kind": "PHILOSOPHER", "slug": "dewey" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='dewey'>Dewey</ph> reprend la logique de l'enquête de <ph id='peirce'>Peirce</ph> et sa <c id='community-of-inquiry'>communauté d'enquête</c>, qu'il prolonge vers l'instrumentalisme et l'enquête démocratique : la fixation de la croyance devient un processus social et expérimental orienté vers l'action.",
+    "en": "<ph id='dewey'>Dewey</ph> takes up <ph id='peirce'>Peirce</ph>'s logic of inquiry and his <c id='community-of-inquiry'>community of inquiry</c>, extending pragmatism toward instrumentalism and democratic inquiry: the fixation of belief becomes a social, experimental process oriented to action."
+  },
+  "sources": [
+    { "fr": "Dewey, « The Development of American Pragmatism » ; Logic: The Theory of Inquiry", "en": "Dewey, \"The Development of American Pragmatism\"; Logic: The Theory of Inquiry" }
+  ],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

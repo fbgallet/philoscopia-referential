@@ -1,0 +1,12 @@
+{
+  "id": "daimonion",
+  "term": { "fr": "Daimonion (signe divin)", "en": "Daimonion (divine sign)" },
+  "definition": {
+    "fr": "Le daimonion est le « signe divin » que <ph id='socrates'>Socrate</ph> dit entendre depuis l'enfance : une voix intérieure qui ne lui commande jamais rien, mais le détourne lorsqu'il est sur le point de mal agir. <ety>Du grec daimonion, diminutif de daimôn, puissance divine.</ety> Socrate l'invoque à son procès comme une marque de sa piété, et cette expérience singulière a nourri l'accusation d'introduire de « nouvelles divinités ».",
+    "en": "The daimonion is the \"divine sign\" that <ph id='socrates'>Socrates</ph> says he has heard since childhood: an inner voice that never commands him to do anything, but turns him away when he is about to act wrongly. <ety>From the Greek daimonion, a diminutive of daimōn, a divine power.</ety> Socrates invokes it at his trial as a mark of his piety, and this singular experience fed the charge of introducing \"new divinities.\""
+  },
+  "relatedAxes": ["GOD_EXISTENCE", "LIFE_MEANING"],
+  "relatedTerms": [],
+  "figure": { "slug": "socrates", "name": { "fr": "Socrate", "en": "Socrates" } },
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "antisthenes-to-diogenes",
+  "from": { "kind": "PHILOSOPHER", "slug": "antisthenes" },
+  "to": { "kind": "PHILOSOPHER", "slug": "diogenes" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='diogenes'>Diogène</ph> reprend l'idéal d'<c>autarcie</c> d'<ph id='antisthenes'>Antisthène</ph> et le pousse à l'extrême, en une pratique provocatrice de dépouillement et de liberté. La filiation directe maître-élève est traditionnelle mais discutée.",
+    "en": "<ph id='diogenes'>Diogenes</ph> takes up the ideal of <c>self-sufficiency</c> of <ph id='antisthenes'>Antisthenes</ph> and pushes it to the extreme, into a provocative practice of destitution and freedom. The direct teacher-pupil filiation is traditional but debated."
+  },
+  "sources": [
+    { "fr": "Diogène Laërce, Vies et doctrines des philosophes illustres, VI", "en": "Diogenes Laërtius, Lives of the Eminent Philosophers, VI" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

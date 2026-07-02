@@ -1,0 +1,13 @@
+{
+  "id": "praxis",
+  "term": { "fr": "Praxis", "en": "Praxis" },
+  "definition": {
+    "fr": "Chez <ph id='marx'>Marx</ph>, la praxis est l'activité par laquelle les hommes transforment le monde et, du même mouvement, se transforment eux-mêmes. Contre une philosophie qui se bornerait à interpréter le réel, elle fait du travail et de l'action collective le lieu où l'humanité change ses conditions d'existence plutôt que de les subir.",
+    "en": "In <ph id='marx'>Marx</ph>, praxis is the activity through which human beings transform the world and, in the same movement, transform themselves. Against a philosophy that would merely interpret reality, it makes labor and collective action the place where humanity changes its own conditions of existence rather than enduring them."
+  },
+  "relatedAxes": ["CONTROL_SCOPE"],
+  "relatedTerms": [],
+  "figure": { "slug": "marx", "name": { "fr": "Marx", "en": "Marx" } },
+  "positions": [{ "axisId": "CONTROL_SCOPE", "poleId": "PROMETHEANISM" }],
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

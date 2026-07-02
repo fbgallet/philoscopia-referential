@@ -1,0 +1,23 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "susan-wolf",
+  "stub": true,
+  "name": {
+    "fr": "Susan Wolf",
+    "en": "Susan Wolf"
+  },
+  "summary": {
+    "fr": "Philosophe morale américaine, qui conçoit le sens de la vie comme la rencontre de l'engagement subjectif et d'une valeur objective (« l'amour actif envers des objets dignes d'amour »).",
+    "en": "American moral philosopher who conceives the meaning of life as the meeting of subjective engagement and objective value (\"active engagement with objects worthy of love\")."
+  },
+  "birth": 1952,
+  "nationality": {
+    "fr": "Américaine",
+    "en": "American"
+  },
+  "movements": [],
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

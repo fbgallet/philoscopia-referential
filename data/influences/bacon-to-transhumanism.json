@@ -1,0 +1,25 @@
+{
+  "id": "bacon-to-transhumanism",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "bacon"
+  },
+  "to": {
+    "kind": "MOVEMENT",
+    "slug": "transhumanism"
+  },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "Le transhumanisme prolonge le programme de <ph id='bacon'>Bacon</ph> : faire de la connaissance un pouvoir effectif sur la nature, par la science expérimentale, pour soulager la condition humaine. Il en radicalise la promesse en étendant ce commandement de la nature au corps et à l'esprit humains eux-mêmes.",
+    "en": "Transhumanism extends <ph id='bacon'>Bacon</ph>'s program: turning knowledge into effective power over nature, through experimental science, to relieve the human condition. It radicalizes that promise by stretching this command of nature to the human body and mind themselves."
+  },
+  "sources": [
+    {
+      "fr": "Bacon, Novum Organum ; La Nouvelle Atlantide",
+      "en": "Bacon, Novum Organum; New Atlantis"
+    }
+  ],
+  "updatedAt": "2026-06-28T00:00:00.000Z"
+}

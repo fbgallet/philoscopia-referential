@@ -1,0 +1,16 @@
+{
+  "id": "categorical-imperative",
+  "term": { "fr": "Impératif catégorique", "en": "Categorical imperative" },
+  "definition": {
+    "fr": "L'impératif catégorique est, chez <ph id='kant'>Kant</ph>, le commandement moral qui vaut inconditionnellement, indépendamment de tout but ou désir : il s'oppose aux impératifs hypothétiques, qui ne valent que comme moyens d'une fin recherchée. Sa première formule demande de n'agir que selon une <kw>maxime</kw> dont on pourrait vouloir qu'elle devienne une loi universelle, et une autre exige de traiter l'humanité, en soi comme en autrui, toujours aussi comme une fin et jamais seulement comme un moyen. La valeur morale d'un acte tient ainsi à la forme du devoir, non à ses conséquences.",
+    "en": "The categorical imperative is, for <ph id='kant'>Kant</ph>, the moral command that holds unconditionally, independent of any aim or desire: it stands against hypothetical imperatives, which hold only as means toward some sought-after end. Its first formula demands that one act only on a <kw>maxim</kw> one could will to become a universal law, and another requires treating humanity, in oneself and in others, always also as an end and never merely as a means. The moral worth of an act thus lies in the form of duty, not in its consequences."
+  },
+  "relatedAxes": ["ETHICS_FOUNDATION", "MORAL_SCOPE", "RULE_SPIRIT", "PARTIALITY"],
+  "relatedTerms": ["thing-in-itself", "radical-evil"],
+  "figure": { "slug": "kant", "name": { "fr": "Kant", "en": "Kant" } },
+  "positions": [
+    { "axisId": "ETHICS_FOUNDATION", "poleId": "DEONTOLOGISM" },
+    { "axisId": "MORAL_SCOPE", "poleId": "UNIVERSALISM_REALISM" }
+  ],
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

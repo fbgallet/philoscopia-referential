@@ -1,0 +1,97 @@
+{
+  "id": "TRANSCENDENCE",
+  "relation": "WORLD",
+  "territory": "PHILOSOPHY_OF_RELIGION",
+  "label": {
+    "fr": "Où réside le sacré",
+    "en": "Where the sacred resides"
+  },
+  "question": {
+    "fr": "Le sacré réside-t-il dans ce monde même ou dans un au-delà qui le dépasse ?",
+    "en": "Does the sacred reside in this very world, or in a beyond that surpasses it?"
+  },
+  "stakes": {
+    "fr": "Si le sacré est ici, dans ce monde, la quête spirituelle se tourne vers la vie, la nature, le présent ; s'il habite un au-delà, ce monde devient un passage vers plus haut que lui. Se positionner, c'est dire où chercher l'absolu, et ce que vaut cette vie selon qu'il est ici ou ailleurs.",
+    "en": "If the sacred is here, in this world, the spiritual quest turns toward life, nature, the present; if it dwells in a beyond, this world becomes a passage toward something higher than itself. To take a position is to say where to seek the absolute, and what this life is worth depending on whether it lies here or elsewhere."
+  },
+  "layer": "THEORY",
+  "type": "BIPOLAR",
+  "poles": [
+    {
+      "id": "IMMANENCE",
+      "label": {
+        "fr": "Immanence",
+        "en": "Immanence"
+      },
+      "description": {
+        "fr": "Il n'y a pas d'arrière-monde : ce qui mérite d'être appelé sacré ou divin réside dans ce monde-ci, dans la nature, la vie et ses puissances. Chercher le sens ailleurs, c'est déprécier la seule réalité qui soit.",
+        "en": "There is no world behind this one: whatever deserves to be called sacred or divine resides in this world, in nature, in life and its powers. To look for meaning elsewhere is to depreciate the only reality there is."
+      },
+      "figures": [
+        {
+          "slug": "spinoza",
+          "name": {
+            "fr": "Spinoza",
+            "en": "Spinoza"
+          }
+        },
+        {
+          "slug": "nietzsche",
+          "name": {
+            "fr": "Nietzsche",
+            "en": "Nietzsche"
+          }
+        },
+        {
+          "slug": "deleuze",
+          "name": {
+            "fr": "Deleuze",
+            "en": "Deleuze"
+          }
+        }
+      ]
+    },
+    {
+      "id": "TRANSCENDENCE",
+      "label": {
+        "fr": "Transcendance",
+        "en": "Transcendence"
+      },
+      "description": {
+        "fr": "Le sacré dépasse ce monde : la vérité, le bien ou Dieu résident dans un ordre supérieur que la réalité sensible ne fait que refléter. L'existence humaine prend sens dans son rapport à cet au-delà.",
+        "en": "The sacred surpasses this world: truth, the good, or God belong to a higher order that sensible reality merely reflects. Human existence finds its meaning in its relation to this beyond."
+      },
+      "figures": [
+        {
+          "slug": "plato",
+          "name": {
+            "fr": "Platon",
+            "en": "Plato"
+          }
+        },
+        {
+          "slug": "pascal",
+          "name": {
+            "fr": "Pascal",
+            "en": "Pascal"
+          }
+        },
+        {
+          "slug": "kierkegaard",
+          "name": {
+            "fr": "Kierkegaard",
+            "en": "Kierkegaard"
+          }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 2,
+  "clusters": [],
+  "relatedAxes": [
+    "FAITH_REASON",
+    "GOD_EXISTENCE",
+    "SOVEREIGN_GOOD"
+  ]
+}

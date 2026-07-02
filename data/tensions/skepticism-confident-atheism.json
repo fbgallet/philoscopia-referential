@@ -1,0 +1,11 @@
+{
+  "id": "skepticism-confident-atheism",
+  "kind": "T_T",
+  "a": { "axisId": "CERTAINTY", "predicate": { "kind": "scalarRange", "min": 0.5, "max": 1 } },
+  "b": { "axisId": "GOD_EXISTENCE", "predicate": { "kind": "scalarRange", "min": 0.6, "max": 1 } },
+  "explanation": {
+    "fr": "Soutenir qu'on ne peut être certain de rien, puis affirmer avec assurance que Dieu n'existe pas, met deux croyances en tension : la seconde est une thèse métaphysique forte, justement le genre de certitude que le scepticisme refuse. Un scepticisme conséquent inclinerait plutôt vers l'agnosticisme.",
+    "en": "Holding that we can be certain of nothing, then confidently asserting that God does not exist, puts two beliefs in tension: the latter is a strong metaphysical claim, precisely the kind of certainty skepticism refuses. A consistent skepticism would lean toward agnosticism instead."
+  },
+  "updatedAt": "2026-06-18T00:00:00.000Z"
+}

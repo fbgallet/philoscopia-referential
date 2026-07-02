@@ -1,0 +1,26 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "arcesilaus",
+  "stub": true,
+  "name": {
+    "fr": "Arcésilas",
+    "en": "Arcesilaus"
+  },
+  "summary": {
+    "fr": "Tête de la Nouvelle Académie, qui orienta l'école de <ph id='plato'>Platon</ph> vers un <mv id='skepticism'>scepticisme</mv> dialectique contre le dogmatisme stoïcien.",
+    "en": "Head of the New Academy, who turned <ph id='plato'>Plato</ph>'s school toward a dialectical <mv id='skepticism'>Scepticism</mv> against Stoic dogmatism."
+  },
+  "birth": -316,
+  "death": -241,
+  "nationality": {
+    "fr": "Grec",
+    "en": "Greek"
+  },
+  "movements": [
+    "skepticism"
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

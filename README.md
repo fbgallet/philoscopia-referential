@@ -1,2 +1,63 @@
-# philoscopia-referential
-An open, bilingual (EN/FR) referential for mapping philosophical worldviews: 72 axes of positions, sourced profiles of philosophers and movements, influence and foundation graphs, glossary — validated, machine-readable JSON designed for reuse by humans and LLMs.
+# Philoscopia — an open referential of philosophical worldviews
+
+An open, bilingual (EN/FR) referential for mapping philosophical positions: **72 axes** covering the great debates, **sourced profiles** of philosophers and movements, **influence and foundation graphs**, a glossary and a registry of works — all as validated, machine-readable JSON, designed for reuse by humans and LLMs alike.
+
+This referential powers **Philoscopia**, a philosophical companion for discovering the worldviews of philosophers and building one's own. The data is published here so that anyone — researchers, teachers, developers, or anyone with an LLM — can explore, reuse, criticize and improve it.
+
+## What's inside
+
+Everything lives under `data/`, one JSON file per entity:
+
+| Folder | What it contains |
+|---|---|
+| `axes/` | The core of the referential: 72 axes of philosophical positions (e.g. free will, the sovereign good, the nature of truth). Each axis defines its poles, its territory and layer (descriptive theory vs value), its type (bipolar, spectrum, …), its related axes, and a map of the live sub-problems it carries. |
+| `philosophers/` | Profiles positioning a philosopher on the axes, with **sourced justifications**, a declared/practiced distinction, statuses and salience. Full profiles coexist with lightweight stubs (`"stub": true`) that mark coverage still to be authored. |
+| `movements/` | Same model for schools and movements (Stoicism, utilitarianism, …). |
+| `characters/` | Same model for fictional characters. |
+| `influences/` | A directed graph of historical filiations between figures and movements: who continued, transmitted or reacted against whom, with sources on attested edges. |
+| `foundations/` | A directed acyclic graph of grounding relations between beliefs: which descriptive belief grounds which other belief or value. |
+| `tensions/` | Justified pairs of positions that sit in tension within one profile (two incompatible beliefs, or a belief vs a value). |
+| `glossary/` | Definitions of the concepts referenced across the corpus. |
+| `works/` | A registry of the works cited or tagged in the corpus. |
+| `thought-experiments/` | Classic thought experiments (the trolley problem, the experience machine, the ring of Gyges, …) linked to the axes they put under stress. |
+
+## Browse the corpus
+
+You don't need to read JSON: every entity also has a generated, hyperlinked markdown page — semantic tags become links between pages, influence and grounding relations are shown on the pages they concern.
+
+**[Browse in English](views/en/README.md) · [Parcourir en français](views/fr/README.md)**
+
+## Data model in three points
+
+1. **Bilingual by structure.** Every reader-facing string is a `LocalizedText` object: `{ "fr": "…", "en": "…" }`. More locales may be added over time.
+2. **One entity, one file.** File names match entity ids (`philosophers/epictetus.json`, `axes/freedom.json`). Cross-references use these ids.
+The full semantics of the model — the three registers, axis types and position values, profile statuses and salience, the relation graphs — are specified in **[MODEL.md](MODEL.md)**; the sub-problem grid carried by axes (`problems`) in **[docs/problems-ontology.md](docs/problems-ontology.md)**.
+
+3. **A light semantic annotation layer.** Corpus texts carry inline tags that mark their philosophical structure, with single-quoted attributes. Referencing tags link to other entities: `<c id='eudaimonia'>` (concept → glossary), `<ph>`, `<mv>`, `<chr>` (philosopher / movement / character), `<ax id='FREEDOM'>` (axis, optionally `pole='…'`), `<te>` (thought experiment), `<w>` (work). Discursive tags mark the role of a span: `<th>` thesis, `<arg>` argument, `<obj>` objection, `<pb>` problem, `<stk>` stakes, `<dif>` difficulty, `<ex>` example, `<ety>` etymology, `<q>` quotation, `<kw>` key term, `<per>` person, `<bel>` belief. Tags wrap existing words without rewriting them. Strip them and you get plain prose; keep them and you get a semantically structured corpus.
+
+## Using this data with an LLM
+
+The corpus is designed to be directly legible by language models: give a model [MODEL.md](MODEL.md), the relevant axis files and the annotation vocabulary above, and it can position a philosopher who is not yet covered here, compare worldviews, or help you explore your own — in any interface that can read JSON. A JSON Schema bundle, a tag parser package and an MCP server are on the roadmap to make this even easier.
+
+## Provenance and how this repo is maintained
+
+This repository is a **generated export** from a private working monorepo, where the content is authored, validated (schema validation, referential integrity, tag resolution, graph acyclicity) and evaluated. Do not edit `data/` files here directly: changes are integrated upstream and re-exported (see [CONTRIBUTING](CONTRIBUTING.md) — corrections and sourced improvements are very welcome, especially from specialists of the philosophers covered).
+
+A note on completeness: some axis sub-problems are marked `"resolution": "LATENT"`; they are realized by interactive activities (questions, scenarios) in the Philoscopia apps, which are not part of this referential.
+
+## Roadmap
+
+- [ ] JSON Schemas published for every content type
+- [ ] The tag parser / validator as a small MIT-licensed package
+- [x] Generated human-readable views (one page per entity, EN + FR)
+- [ ] The full specification of the axis model, in English
+- [ ] An MCP server and prompt kits for LLM-driven exploration
+
+## Licensing
+
+- **Data and documentation** (`data/`, `*.md`): [Creative Commons Attribution-ShareAlike 4.0](LICENSE) (CC BY-SA 4.0). You may share and adapt them, including commercially, provided you credit *Philoscopia — Fabrice Gallet* and license your derivatives under the same terms.
+- **Code** (`scripts/`, and future schema/parser packages): [MIT](LICENSE-CODE).
+
+## Citation
+
+> Gallet, F. (2026). *Philoscopia: an open referential of philosophical worldviews.* https://github.com/fbgallet/philoscopia-referential

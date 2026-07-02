@@ -1,0 +1,13 @@
+{
+  "id": "privation",
+  "term": { "fr": "Privation (privatio boni)", "en": "Privation (privatio boni)" },
+  "definition": {
+    "fr": "La privation <ety>du latin privatio, action d'ôter</ety> est l'absence d'une perfection qu'une chose devrait posséder, pensée non comme une réalité positive mais comme un manque d'être. Reprise pour résoudre <ax id='PROBLEM_OF_EVIL'>le problème du mal</ax>, elle permet de nier au mal toute substance propre : le mal n'est pas une puissance rivale du bien mais un défaut, une absence de bien. <ph id='plotinus'>Plotin</ph> identifie ainsi la matière, au plus bas degré de l'être, à un quasi-néant, et c'est de lui qu'<ph id='augustine'>Augustin</ph> hérite la formule du mal comme privatio boni, privation du bien.",
+    "en": "Privation <ety>from the Latin privatio, a taking away</ety> is the absence of a perfection a thing ought to possess, conceived not as a positive reality but as a lack of being. Taken up to resolve <ax id='PROBLEM_OF_EVIL'>the problem of evil</ax>, it denies evil any substance of its own: evil is not a power rivaling the good but a defect, an absence of good. <ph id='plotinus'>Plotinus</ph> thus identifies matter, at the lowest degree of being, with a near-nothingness, and it is from him that <ph id='augustine'>Augustine</ph> inherits the formula of evil as privatio boni, the privation of good."
+  },
+  "relatedAxes": ["PROBLEM_OF_EVIL"],
+  "relatedTerms": ["the-one", "emanation"],
+  "figure": { "slug": "plotinus", "name": { "fr": "Plotin", "en": "Plotinus" } },
+  "positions": [{ "axisId": "PROBLEM_OF_EVIL", "poleId": "THEODICY" }],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

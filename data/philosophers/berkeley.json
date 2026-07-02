@@ -1,0 +1,359 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "berkeley",
+  "name": {
+    "fr": "George Berkeley",
+    "en": "George Berkeley"
+  },
+  "fullName": {
+    "fr": "George Berkeley",
+    "en": "George Berkeley"
+  },
+  "tagline": {
+    "fr": "<q>Être, c'est être perçu</q> : il n'y a pas de matière, seulement des esprits et leurs idées, tenues en ordre par Dieu.",
+    "en": "<q>To be is to be perceived</q>: there is no matter, only minds and their ideas, held in order by God."
+  },
+  "summary": {
+    "fr": "Évêque anglican et philosophe anglo-irlandais, troisième grand nom de l'<mv id='empiricism'>empirisme</mv> britannique aux côtés de <ph id='locke'>Locke</ph> et de <ph id='hume'>Hume</ph>. Né près de Kilkenny, formé au Trinity College de Dublin, il publie très jeune ses œuvres décisives, les <w id='principles-of-human-knowledge-berkeley'>Principes de la connaissance humaine</w> et les <w id='three-dialogues-berkeley'>Trois dialogues entre Hylas et Philonous</w>, avant de longs voyages, un projet avorté de collège missionnaire aux Bermudes, un séjour à Rhode Island, puis l'évêché de Cloyne. Reprenant l'empirisme de Locke pour le radicaliser, il en tire une conclusion inattendue : si toute idée vient des sens, l'idée d'une <c>matière</c> existant hors de tout esprit est un mot vide. De là son <c id='immaterialism'>immatérialisme</c>, longtemps caricaturé comme un déni du monde, que <per>Samuel Johnson</per> crut réfuter d'un coup de pied dans une pierre, et que <ph id='hume'>Hume</ph> puis <ph id='kant'>Kant</ph> durent affronter de près.",
+    "en": "Anglican bishop and Anglo-Irish philosopher, the third great name of British <mv id='empiricism'>empiricism</mv> alongside <ph id='locke'>Locke</ph> and <ph id='hume'>Hume</ph>. Born near Kilkenny and educated at Trinity College, Dublin, he published his decisive works while still young, the <w id='principles-of-human-knowledge-berkeley'>Principles of Human Knowledge</w> and the <w id='three-dialogues-berkeley'>Three Dialogues between Hylas and Philonous</w>, before long travels, a failed plan for a missionary college in Bermuda, a stay in Rhode Island, and finally the bishopric of Cloyne. Taking up Locke's empiricism in order to radicalise it, he drew an unexpected conclusion: if every idea comes from the senses, the idea of a <c>matter</c> existing outside any mind is an empty word. Hence his <c id='immaterialism'>immaterialism</c>, long caricatured as a denial of the world, which <per>Samuel Johnson</per> thought to refute by kicking a stone, and which <ph id='hume'>Hume</ph> and then <ph id='kant'>Kant</ph> had to confront at close quarters."
+  },
+  "birth": 1685,
+  "death": 1753,
+  "nationality": {
+    "fr": "Irlandais",
+    "en": "Irish"
+  },
+  "movements": [
+    "empiricism"
+  ],
+  "entries": [
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0, 1, 0]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Berkeley part d'une remarque empiriste simple : tout ce dont j'ai l'idée, je l'ai par les sens, donc comme une perception. Or supposer derrière mes perceptions une <c>matière</c> qui existerait sans être perçue, c'est supposer l'idée d'une chose dont, par définition, je ne puis avoir aucune idée : <dif>contradiction</dif>. Il retourne ainsi l'empirisme de <ph id='locke'>Locke</ph> contre la matière même : ce que nous appelons les corps n'est qu'une collection réglée d'idées sensibles, et exister, pour elles, c'est être perçues. Reste ce qui perçoit, l'esprit, seule substance véritable. Loin de nier le monde, il prétend le sauver du <pb>scepticisme</pb> en supprimant le voile d'une matière inconnaissable interposée entre nous et lui.",
+          "en": "Berkeley starts from a simple empiricist remark: whatever I have an idea of, I have it through the senses, hence as a perception. But to posit, behind my perceptions, a <c>matter</c> that would exist without being perceived is to posit the idea of a thing of which, by definition, I can have no idea: a <dif>contradiction</dif>. He thus turns <ph id='locke'>Locke</ph>'s empiricism against matter itself: what we call bodies is only an ordered collection of sensible ideas, and for them to exist is to be perceived. What remains is that which perceives, the mind, the one genuine substance. Far from denying the world, he claims to save it from <pb>scepticism</pb> by removing the veil of an unknowable matter set between us and it."
+        },
+        "quote": {
+          "text": {
+            "fr": "Leur être est d'être perçus ; il n'est pas possible qu'ils aient une existence hors des esprits qui les perçoivent.",
+            "en": "Their being is to be perceived; nor is it possible they should have any existence out of the minds which perceive them."
+          },
+          "source": {
+            "fr": "Principes de la connaissance humaine, §3",
+            "en": "Principles of Human Knowledge, §3"
+          }
+        },
+        "references": [
+          {
+            "fr": "Principes de la connaissance humaine, §§3-7",
+            "en": "Principles of Human Knowledge, §§3-7"
+          },
+          {
+            "fr": "Trois dialogues entre Hylas et Philonous, I",
+            "en": "Three Dialogues between Hylas and Philonous, I"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Tout le savoir naît de l'expérience : il n'y a pour Berkeley que des idées reçues par les sens ou réfléchies sur elles, et aucune <c id='innate-ideas'>idée innée</c>. C'est l'empirisme strict de <ph id='locke'>Locke</ph>, mais poussé plus loin que lui : Berkeley refuse même la part d'au-delà de l'expérience que Locke avait laissée subsister, la matière comme substrat inconnu. Le sensible est donné en entier, sans rien derrière lui, ce qui paradoxalement conduit cet empirisme intransigeant à une métaphysique anti-matérialiste : c'est en restant fidèle à l'expérience seule qu'on découvre qu'il n'y a que des esprits et des idées.",
+          "en": "All knowledge arises from experience: for Berkeley there are only ideas received through the senses or reflected upon, and no <c id='innate-ideas'>innate ideas</c>. This is <ph id='locke'>Locke</ph>'s strict empiricism, but carried further than Locke took it: Berkeley refuses even the remnant of a beyond-experience that Locke had let stand, matter as an unknown substratum. The sensible is given in full, with nothing behind it, which paradoxically leads this uncompromising empiricism to an anti-materialist metaphysics: it is by keeping faith with experience alone that one discovers there are only minds and ideas."
+        },
+        "references": [
+          {
+            "fr": "Principes de la connaissance humaine, Introduction et §§1-2",
+            "en": "Principles of Human Knowledge, Introduction and §§1-2"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.95
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'immatérialisme rend Dieu indispensable, et Berkeley en fait une preuve nouvelle de son existence. Mes idées sensibles ne dépendent pas de ma volonté : je n'ouvre pas les yeux sans voir ce qui s'impose à moi, dans un ordre constant que je n'ai pas fait. Si exister, pour les choses, c'est être perçues, et si elles persistent quand nul homme ne les perçoit, il faut un <c>esprit infini</c> qui les perçoit toutes et les maintient : Dieu. Le monde devient le langage que Dieu nous parle, ses idées imprimées en nous selon des lois régulières. Théisme donc très appuyé, et d'un genre rare, où Dieu n'est pas seulement créateur mais percevant continuel, garant de l'existence et de l'ordre du réel.",
+          "en": "Immaterialism makes God indispensable, and Berkeley turns this into a new proof of his existence. My sensible ideas do not depend on my will: I do not open my eyes without seeing what forces itself on me, in a constant order I did not make. If to exist, for things, is to be perceived, and if they persist when no human perceives them, then there must be an <c>infinite mind</c> that perceives them all and sustains them: God. The world becomes the language God speaks to us, his ideas imprinted on us according to regular laws. A theism, then, deeply affirmed and of a rare kind, where God is not only creator but continual perceiver, guarantor of the existence and the order of the real."
+        },
+        "references": [
+          {
+            "fr": "Principes de la connaissance humaine, §§25-33 et §§146-149",
+            "en": "Principles of Human Knowledge, §§25-33 and §§146-149"
+          },
+          {
+            "fr": "Trois dialogues entre Hylas et Philonous, II",
+            "en": "Three Dialogues between Hylas and Philonous, II"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Berkeley tient le <pb>scepticisme</pb> pour le mal à guérir, et l'immatérialisme pour son remède. Le doute moderne, dit-il, naît tout entier de la matière : dès qu'on suppose des choses réelles cachées derrière nos idées, on ne peut plus jamais savoir si nos idées leur ressemblent, d'où le <dif>voile des perceptions</dif> où s'engouffre le sceptique. Supprimez cette matière inconnaissable, et l'écart disparaît : les choses ne sont plus que ce que nous percevons, immédiatement et avec certitude. Loin du dogmatisme rationaliste de <ph id='descartes'>Descartes</ph>, qui fonde la certitude sur la raison, Berkeley la replace dans la perception sensible elle-même, sûre parce qu'elle n'a plus rien au-dehors à manquer.",
+          "en": "Berkeley takes <pb>scepticism</pb> to be the disease to cure, and immaterialism to be its remedy. Modern doubt, he says, springs entirely from matter: once one posits real things hidden behind our ideas, one can never know whether our ideas resemble them, hence the <dif>veil of perception</dif> into which the sceptic rushes. Remove that unknowable matter, and the gap vanishes: things are no more than what we perceive, immediately and with certainty. Far from the rationalist dogmatism of <ph id='descartes'>Descartes</ph>, who grounds certainty on reason, Berkeley relocates it in sensible perception itself, made secure because there is no longer anything outside it to miss."
+        },
+        "references": [
+          {
+            "fr": "Trois dialogues entre Hylas et Philonous, Préface et III",
+            "en": "Three Dialogues between Hylas and Philonous, Preface and III"
+          },
+          {
+            "fr": "Principes de la connaissance humaine, §§86-88",
+            "en": "Principles of Human Knowledge, §§86-88"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "UNIVERSALS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'introduction des <w id='principles-of-human-knowledge-berkeley'>Principes</w> ouvre par une polémique contre les <c id='abstract-general-ideas'>idées générales abstraites</c> de <ph id='locke'>Locke</ph> : on ne saurait, soutient Berkeley, former l'idée d'un triangle qui ne soit ni équilatéral ni scalène, ni d'une couleur qui ne soit aucune couleur particulière. Toute idée est singulière ; un mot devient général non parce qu'il signifie une essence abstraite, mais parce qu'un signe particulier représente indifféremment tous les individus qui lui ressemblent. C'est un nominalisme franc, et il n'est pas accessoire : pour Berkeley, c'est précisément la croyance aux abstractions qui avait permis de forger le concept vide de matière, idée d'une chose dépouillée de toute qualité perçue.",
+          "en": "The introduction to the <w id='principles-of-human-knowledge-berkeley'>Principles</w> opens with a polemic against <ph id='locke'>Locke</ph>'s <c id='abstract-general-ideas'>abstract general ideas</c>: one cannot, Berkeley argues, form the idea of a triangle that is neither equilateral nor scalene, nor of a colour that is no particular colour. Every idea is particular; a word becomes general not because it signifies an abstract essence but because a particular sign stands indifferently for all the individuals resembling it. This is an outright nominalism, and it is not incidental: for Berkeley it is precisely the belief in abstractions that had made it possible to forge the empty concept of matter, the idea of a thing stripped of every perceived quality."
+        },
+        "references": [
+          {
+            "fr": "Principes de la connaissance humaine, Introduction, §§6-20",
+            "en": "Principles of Human Knowledge, Introduction, §§6-20"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.85, 0.1, 0, 0.05]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Si les corps sont passifs, faits d'idées inertes, ce qui perçoit et veut doit être d'une tout autre nature : une substance active, simple et indivisible, que Berkeley appelle <c>esprit</c> ou <c>âme</c>. Le moi n'est donc pas une idée parmi les idées, mais ce qui les a et agit sur elles, connu non par perception mais par une <c id='notion'>notion</c> que nous avons de notre propre activité. C'est là un point de rupture nette avec <ph id='hume'>Hume</ph>, qui ne trouvera dans l'introspection qu'un <c id='personal-identity'>faisceau</c> de perceptions sans sujet : pour Berkeley, ôter le sujet percevant serait ôter ce sans quoi aucune idée n'existerait. Le moi-substance est sauvé là même où la matière-substance est niée.",
+          "en": "If bodies are passive, made of inert ideas, then that which perceives and wills must be of a wholly different nature: an active, simple and indivisible substance, which Berkeley calls <c>spirit</c> or <c>soul</c>. The self is therefore not one idea among ideas but that which has them and acts upon them, known not by perception but by a <c id='notion'>notion</c> we have of our own activity. Here is a sharp break with <ph id='hume'>Hume</ph>, who in introspection will find only a <c id='personal-identity'>bundle</c> of perceptions with no subject: for Berkeley, to remove the perceiving subject would be to remove that without which no idea would exist at all. The self as substance is saved at the very point where matter as substance is denied."
+        },
+        "references": [
+          {
+            "fr": "Principes de la connaissance humaine, §§2, 27 et 139-142",
+            "en": "Principles of Human Knowledge, §§2, 27 and 139-142"
+          },
+          {
+            "fr": "Trois dialogues entre Hylas et Philonous, III",
+            "en": "Three Dialogues between Hylas and Philonous, III"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le réel ne se tient pas par lui-même : son existence comme son ordre reposent à chaque instant sur un esprit qui le dépasse et le soutient. Dieu n'est pas une force immanente diffuse dans la nature, à la manière de <ph id='spinoza'>Spinoza</ph>, mais un esprit personnel, distinct du monde, dont les corps ne sont que le discours sensible. Le sacré, pour Berkeley, est ainsi du côté de ce qui transcende la nature perçue, même si Dieu s'y rend partout présent en nous parlant sans cesse à travers elle.",
+          "en": "The real does not stand on its own: both its existence and its order rest at every instant on a mind that surpasses and sustains it. God is not an immanent force diffused through nature, in the manner of <ph id='spinoza'>Spinoza</ph>, but a personal mind, distinct from the world, of which bodies are only the sensible discourse. The sacred, for Berkeley, thus lies on the side of what transcends perceived nature, even as God makes himself everywhere present by speaking to us ceaselessly through it."
+        },
+        "references": [
+          {
+            "fr": "Trois dialogues entre Hylas et Philonous, II",
+            "en": "Three Dialogues between Hylas and Philonous, II"
+          },
+          {
+            "fr": "Principes de la connaissance humaine, §§146-149",
+            "en": "Principles of Human Knowledge, §§146-149"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "FAITH_REASON",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.15, 0.8, 0.05, 0]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Évêque autant que philosophe, Berkeley ne voit aucune opposition entre la raison bien conduite et la foi : son immatérialisme se présente comme une démonstration rationnelle qui débouche sur l'existence de Dieu et défend la religion contre les <c>libres penseurs</c>. La raison, loin de menacer la foi, en serait l'alliée naturelle dès qu'on l'a délivrée de la matière, mère du scepticisme et de l'irréligion. Cette confiance dans l'accord de la raison et de la révélation le range du côté de l'harmonie, dans la lignée d'un <ph id='aquinas'>Thomas d'Aquin</ph>, plutôt que du fidéisme du saut.",
+          "en": "A bishop as much as a philosopher, Berkeley sees no opposition between well-conducted reason and faith: his immaterialism presents itself as a rational demonstration that issues in the existence of God and defends religion against the <c>free-thinkers</c>. Reason, far from threatening faith, would be its natural ally once freed from matter, the mother of scepticism and irreligion. This confidence in the agreement of reason and revelation ranges him on the side of harmony, in the line of an <ph id='aquinas'>Aquinas</ph>, rather than of a fideism of the leap."
+        },
+        "references": [
+          {
+            "fr": "Trois dialogues entre Hylas et Philonous, Préface",
+            "en": "Three Dialogues between Hylas and Philonous, Preface"
+          },
+          {
+            "fr": "Principes de la connaissance humaine, §§133-156",
+            "en": "Principles of Human Knowledge, §§133-156"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CAUSALITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.1, 0.9, 0]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Pour Berkeley, les idées sensibles sont absolument inertes : une idée ne peut rien produire, donc aucun corps n'est jamais une véritable cause. La seule causalité réelle est celle d'une volonté, et nous n'en avons l'expérience que dans l'activité d'un esprit. La régularité de la nature n'est dès lors pas un enchaînement mécanique de chocs, mais l'ordre constant selon lequel Dieu, cause unique, produit en nous nos idées : ce que nous prenons pour des causes naturelles ne sont que les <c>signes</c> réguliers d'effets à venir. La nature reçoit ainsi une lecture finaliste, gouvernée par les fins d'un esprit ordonnateur, à l'opposé du mécanisme de <ph id='descartes'>Descartes</ph> pour qui la matière agit par son seul mouvement.",
+          "en": "For Berkeley sensible ideas are utterly inert: an idea can produce nothing, so no body is ever a true cause. The only real causality is that of a will, and we experience it solely in the activity of a mind. The regularity of nature is therefore not a mechanical chain of impacts but the constant order by which God, the one cause, produces our ideas in us: what we take for natural causes are merely the regular <c>signs</c> of effects to come. Nature thus receives a finalist reading, governed by the ends of an ordering mind, against the mechanism of <ph id='descartes'>Descartes</ph>, for whom matter acts by its motion alone."
+        },
+        "references": [
+          {
+            "fr": "Principes de la connaissance humaine, §§25-33 et §§60-66",
+            "en": "Principles of Human Knowledge, §§25-33 and §§60-66"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_STATUS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Dans le <w>De Motu</w>, Berkeley anticipe l'<c id='instrumentalism'>instrumentalisme</c> scientifique : la force, l'attraction, l'espace absolu de la mécanique de <per>Newton</per> ne sont pas des réalités cachées que la physique découvrirait, mais des termes commodes, des fictions de calcul qui permettent de prévoir et d'ordonner les phénomènes. Le physicien ne dévoile pas des causes réelles, il établit des règles d'usage entre des signes. Cette défiance envers la prétention de la science à décrire une structure du monde indépendante de l'esprit l'éloigne du réalisme scientifique, sans relever pour autant d'un constructivisme social : c'est l'idéalisme qui en commande la coloration.",
+          "en": "In <w>De Motu</w>, Berkeley anticipates scientific <c id='instrumentalism'>instrumentalism</c>: the force, attraction and absolute space of <per>Newton</per>'s mechanics are not hidden realities that physics would uncover but convenient terms, calculational fictions that let us predict and order phenomena. The physicist does not unveil real causes; he establishes rules of use among signs. This distrust of science's claim to describe a mind-independent structure of the world removes him from scientific realism, without amounting to a social constructivism: it is idealism that gives it its colour."
+        },
+        "references": [
+          {
+            "fr": "De Motu (Du mouvement), §§1-6 et 35-42",
+            "en": "De Motu (On Motion), §§1-6 and 35-42"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "EMBODIMENT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Mon propre corps n'échappe pas à la règle générale : il est, comme tout corps, une collection d'idées sensibles que je perçois. Ce qui est moi n'est jamais ce corps perçu, mais l'esprit actif qui le perçoit et le meut. Le corps reste donc du côté de l'objet, instrument et apparence sensible plutôt que sujet de mon expérience, ce qui place Berkeley près du corps-instrument, même s'il n'a pas développé de philosophie du corps propre.",
+          "en": "My own body does not escape the general rule: it is, like any body, a collection of sensible ideas that I perceive. What is me is never this perceived body but the active mind that perceives and moves it. The body thus stays on the side of the object, instrument and sensible appearance rather than subject of my experience, which places Berkeley near the body-as-instrument, even though he developed no philosophy of the lived body."
+        },
+        "references": [
+          {
+            "fr": "Principes de la connaissance humaine, §§135-141",
+            "en": "Principles of Human Knowledge, §§135-141"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "REALITY_NATURE",
+      "thesis": {
+        "fr": "Il n'y a pas de <c>matière</c> : <q>être, c'est être perçu</q>, et les corps ne sont que des collections réglées d'idées dans des esprits.",
+        "en": "There is no <c>matter</c>: <q>to be is to be perceived</q>, and bodies are only ordered collections of ideas in minds."
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "thesis": {
+        "fr": "Si les choses existent quand nul homme ne les perçoit, c'est qu'un esprit infini les perçoit toutes : le monde est le langage par lequel Dieu nous parle.",
+        "en": "If things exist when no human perceives them, an infinite mind perceives them all: the world is the language by which God speaks to us."
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "thesis": {
+        "fr": "C'est la <c>matière</c> qui engendre le <pb>scepticisme</pb> : ôtez ce voile entre nous et les choses, et la perception redevient un savoir sûr.",
+        "en": "It is <c>matter</c> that breeds <pb>scepticism</pb>: remove that veil between us and things, and perception becomes secure knowledge again."
+      }
+    },
+    {
+      "axisId": "UNIVERSALS",
+      "thesis": {
+        "fr": "On ne peut former l'idée d'un triangle qui ne soit aucun triangle particulier : les <c id='abstract-general-ideas'>idées générales abstraites</c> sont une fiction, et c'est elle qui a forgé le concept vide de matière.",
+        "en": "One cannot form the idea of a triangle that is no particular triangle: <c id='abstract-general-ideas'>abstract general ideas</c> are a fiction, and it is this fiction that forged the empty concept of matter."
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "thesis": {
+        "fr": "C'est en restant fidèle à la seule expérience, contre <ph id='locke'>Locke</ph> lui-même, qu'on découvre qu'il n'existe rien hors des esprits et de leurs idées.",
+        "en": "It is by keeping faith with experience alone, against <ph id='locke'>Locke</ph> himself, that one discovers nothing exists outside minds and their ideas."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-29T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

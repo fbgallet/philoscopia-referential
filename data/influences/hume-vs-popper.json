@@ -1,0 +1,16 @@
+{
+  "id": "hume-vs-popper",
+  "from": { "kind": "PHILOSOPHER", "slug": "hume" },
+  "to": { "kind": "PHILOSOPHER", "slug": "popper" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='popper'>Popper</ph> tient le problème de l'<c>induction</c> de <ph id='hume'>Hume</ph>, qu'aucune accumulation d'observations ne justifie une loi, pour insoluble, et le contourne : la science ne vérifie pas, elle réfute ; une théorie ne vaut que si elle est <c>falsifiable</c>.",
+    "en": "<ph id='popper'>Popper</ph> takes <ph id='hume'>Hume</ph>'s problem of <c>induction</c>, that no accumulation of observations justifies a law, to be insoluble, and sidesteps it: science does not verify, it refutes; a theory counts only if it is <c>falsifiable</c>."
+  },
+  "sources": [
+    { "fr": "Popper, La Logique de la découverte scientifique (1934)", "en": "Popper, The Logic of Scientific Discovery (1934)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

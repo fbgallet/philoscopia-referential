@@ -1,0 +1,16 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "schelling",
+  "name": { "fr": "Schelling", "en": "Schelling" },
+  "summary": {
+    "fr": "Philosophe idéaliste allemand : sa philosophie de la nature pense le monde comme un organisme vivant où le même esprit dort dans la matière et s'éveille dans la conscience, et couronne l'art comme l'organe le plus haut de la vérité.",
+    "en": "German idealist philosopher: his philosophy of nature thinks the world as a living organism in which the same spirit sleeps in matter and awakens in consciousness, and crowns art as the highest organ of truth."
+  },
+  "nationality": { "fr": "Allemand", "en": "German" },
+  "birth": 1775,
+  "death": 1854,
+  "movements": ["romanticism"],
+  "updatedAt": "2026-06-26T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "epoche",
+  "term": { "fr": "Epochē (suspension du jugement)", "en": "Epochē (suspension of judgment)" },
+  "definition": {
+    "fr": "L'epochē désigne le geste sceptique par lequel on refuse de donner son assentiment, on ne tranche ni pour ni contre. Devant des arguments de force égale (<c id='isostheneia'>isosthéneia</c>), l'esprit cesse d'affirmer ou de nier, et cette suspension conduit à la tranquillité (<c id='ataraxia'>ataraxia</c>). <ph>Pyrrhon</ph> en fait une attitude de vie, et <ph>Sextus Empiricus</ph> en expose la méthode.",
+    "en": "Epochē names the sceptic's move of withholding assent, refusing to come down for or against a claim. Faced with arguments of equal strength (<c id='isostheneia'>isostheneia</c>), the mind stops affirming or denying, and this suspension leads to tranquillity (<c id='ataraxia'>ataraxia</c>). <ph>Pyrrho</ph> made it a way of life, and <ph>Sextus Empiricus</ph> set out its method."
+  },
+  "relatedAxes": ["CERTAINTY", "BELIEF_ETHICS"],
+  "relatedTerms": ["ataraxia", "isostheneia"],
+  "positions": [{ "axisId": "CERTAINTY", "poleId": "SKEPTICISM" }],
+  "updatedAt": "2026-06-19T00:00:00.000Z"
+}

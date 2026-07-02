@@ -1,0 +1,12 @@
+{
+  "id": "mechanism-grounds-mastery",
+  "ground": { "axisId": "CAUSALITY", "poleId": "MECHANISM" },
+  "grounded": { "axisId": "HUMAN_PLACE_NATURE", "poleId": "MASTERY" },
+  "kind": "T_V",
+  "strength": "STRONG",
+  "explanation": {
+    "fr": "Si la nature n'est qu'un vaste mécanisme régi par des lois, alors la connaître, c'est pouvoir la maîtriser et la mettre à notre service. Le mécanisme fonde l'idéal de maîtrise : <ph id='descartes'>Descartes</ph> assigne à la science de nous rendre « comme maîtres et possesseurs de la nature », et Bacon fait du savoir un pouvoir.",
+    "en": "If nature is but a vast mechanism governed by laws, then to know it is to be able to master it and put it at our service. Mechanism grounds the ideal of mastery: <ph id='descartes'>Descartes</ph> charges science with making us \"as masters and possessors of nature\", and Bacon makes knowledge a power."
+  },
+  "updatedAt": "2026-06-22T00:00:00.000Z"
+}

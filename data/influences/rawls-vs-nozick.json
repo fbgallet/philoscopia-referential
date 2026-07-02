@@ -1,0 +1,16 @@
+{
+  "id": "rawls-vs-nozick",
+  "from": { "kind": "PHILOSOPHER", "slug": "rawls" },
+  "to": { "kind": "PHILOSOPHER", "slug": "nozick" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='nozick'>Nozick</ph> formule sa théorie libertarienne de l'<c>État minimal</c> en réponse directe à <ph id='rawls'>Rawls</ph> : la justice distributive viole les <c>droits</c> individuels, car toute redistribution dispose des personnes comme de moyens.",
+    "en": "<ph id='nozick'>Nozick</ph> frames his libertarian theory of the <c>minimal state</c> as a direct response to <ph id='rawls'>Rawls</ph>: distributive justice violates individual <c>rights</c>, since any redistribution treats persons as means."
+  },
+  "sources": [
+    { "fr": "Nozick, Anarchie, État et utopie (1974)", "en": "Nozick, Anarchy, State, and Utopia (1974)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "eightfold-path",
+  "term": { "fr": "L'Octuple Sentier", "en": "The Noble Eightfold Path" },
+  "definition": {
+    "fr": "L'Octuple Sentier est la quatrième des <c id='four-noble-truths'>Quatre Nobles Vérités</c> : la voie concrète vers la cessation de la <c id='dukkha'>souffrance</c>. Il articule huit facteurs, compréhension juste, intention juste, parole juste, action juste, moyens d'existence justes, effort juste, <c id='sati'>attention juste</c> et concentration juste, qui se cultivent ensemble. Il met en œuvre <c id='the-middle-way'>la Voie du Milieu</c> que <ph id='buddha'>le Bouddha</ph> recommande, sur les plans à la fois éthique, mental et contemplatif.",
+    "en": "The Noble Eightfold Path is the fourth of the <c id='four-noble-truths'>Four Noble Truths</c>: the concrete way toward the cessation of <c id='dukkha'>suffering</c>. It articulates eight factors, right view, right intention, right speech, right action, right livelihood, right effort, <c id='sati'>right mindfulness</c> and right concentration, that are cultivated together. It enacts the <c id='the-middle-way'>Middle Way</c> that <ph id='buddha'>the Buddha</ph> recommends, on the ethical, mental and contemplative planes at once."
+  },
+  "relatedAxes": ["ATTENTION", "INTERIORITY"],
+  "relatedTerms": ["four-noble-truths", "sati", "the-middle-way", "dukkha"],
+  "figure": { "slug": "buddha", "name": { "fr": "Le Bouddha", "en": "The Buddha" } },
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "kataleptic-impression",
+  "term": { "fr": "Impression compréhensive (phantasia katalêptikê)", "en": "Kataleptic impression (phantasia katalêptikê)" },
+  "definition": {
+    "fr": "L'impression compréhensive est, pour les stoïciens, la représentation qui saisit son objet avec une telle évidence qu'elle se garantit elle-même et ne pourrait provenir d'un objet inexistant. Elle constitue le critère stoïcien de la vérité : seul ce type d'impression mérite notre <c id='synkatathesis'>assentiment</c>. Cette confiance dans un savoir certain fait du stoïcisme une école <c id='dogmatism'>dogmatique</c>, à rebours des sceptiques qui en contestaient l'existence même.",
+    "en": "The kataleptic, or cognitive, impression is for the Stoics the representation that grasps its object with such evidence that it certifies itself and could not have come from a non-existent object. It is the Stoic criterion of truth: only this kind of impression deserves our <c id='synkatathesis'>assent</c>. This confidence in a certain knowledge makes Stoicism a <c id='dogmatism'>dogmatic</c> school, against the Skeptics who disputed that such impressions even exist."
+  },
+  "relatedAxes": ["CERTAINTY", "KNOWLEDGE_SOURCE"],
+  "relatedTerms": ["dogmatism", "synkatathesis"],
+  "positions": [{ "axisId": "CERTAINTY", "poleId": "DOGMATISM" }],
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

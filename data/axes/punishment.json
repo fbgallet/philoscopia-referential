@@ -1,0 +1,381 @@
+{
+  "id": "PUNISHMENT",
+  "relation": "OTHERS",
+  "territory": "SOCIETY_POLITICS",
+  "label": {
+    "fr": "Sens de la peine",
+    "en": "The meaning of punishment"
+  },
+  "question": {
+    "fr": "Pourquoi punir : pour réparer la faute, dissuader ou réinsérer ?",
+    "en": "Why punish: to repay the wrong, to deter, or to rehabilitate?"
+  },
+  "stakes": {
+    "fr": "Punir pour faire payer la faute peut n'être qu'une vengeance habillée en justice ; punir seulement pour l'exemple ou l'efficacité peut sacrifier le coupable à l'intérêt général. Selon la réponse, la peine regarde vers le passé à solder ou vers l'avenir à protéger. Se positionner, c'est dire ce qu'on fait vraiment quand on punit.",
+    "en": "Punishing to make the guilty pay can be mere vengeance dressed as justice; punishing only to deter or for efficiency can sacrifice the offender to the common good. Depending on the answer, the penalty looks toward a past to settle or a future to protect. To take a position is to say what we are really doing when we punish."
+  },
+  "layer": "VALUE",
+  "type": "CATEGORICAL",
+  "poles": [
+    {
+      "id": "RETRIBUTIVISM",
+      "label": {
+        "fr": "Rétributivisme",
+        "en": "Retributivism"
+      },
+      "description": {
+        "fr": "On punit parce qu'une faute a été commise, et la peine doit être proportionnée à cette faute. Le châtiment rend justice au crime lui-même et respecte le coupable comme un être responsable, indépendamment de toute utilité sociale.",
+        "en": "We punish because a wrong has been committed, and the penalty must be proportionate to that wrong. Punishment does justice to the crime itself and respects the offender as a responsible being, regardless of any social utility."
+      },
+      "figures": [
+        {
+          "slug": "kant",
+          "name": {
+            "fr": "Kant",
+            "en": "Kant"
+          }
+        }
+      ]
+    },
+    {
+      "id": "DETERRENCE",
+      "label": {
+        "fr": "Dissuasion",
+        "en": "Deterrence"
+      },
+      "description": {
+        "fr": "La peine ne se justifie que par ses effets : prévenir de futurs crimes en dissuadant le coupable et les autres. Elle doit être certaine, prompte et juste assez sévère pour décourager, sans cruauté inutile.",
+        "en": "Punishment is justified only by its effects: preventing future crimes by deterring the offender and others. It must be certain, swift, and just severe enough to discourage, without needless cruelty."
+      },
+      "figures": [
+        {
+          "slug": "beccaria",
+          "name": {
+            "fr": "Beccaria",
+            "en": "Beccaria"
+          }
+        },
+        {
+          "slug": "bentham",
+          "name": {
+            "fr": "Bentham",
+            "en": "Bentham"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REHABILITATION",
+      "label": {
+        "fr": "Réhabilitation",
+        "en": "Rehabilitation"
+      },
+      "description": {
+        "fr": "La finalité de la peine est de transformer le coupable et de préparer son retour dans la société. Plutôt que de faire souffrir, il s'agit de comprendre les causes du crime et de réinsérer la personne comme membre à part entière de la communauté.",
+        "en": "The purpose of punishment is to transform the offender and prepare their return to society. Rather than inflicting suffering, the aim is to understand the causes of crime and reintegrate the person as a full member of the community."
+      },
+      "figures": [
+        {
+          "slug": "plato",
+          "name": {
+            "fr": "Platon",
+            "en": "Plato"
+          }
+        }
+      ]
+    },
+    {
+      "id": "RESTORATIVE_JUSTICE",
+      "label": {
+        "fr": "Justice réparatrice",
+        "en": "Restorative justice"
+      },
+      "description": {
+        "fr": "La peine doit d'abord réparer le tort et restaurer ce que le crime a rompu : reconnaître la victime, responsabiliser l'auteur devant elle, et rétablir l'ordre et les liens de la communauté. La justice vise moins à faire souffrir qu'à réparer, réconcilier et refaire société.",
+        "en": "Punishment should first of all repair the harm and restore what the crime has broken: acknowledge the victim, hold the offender accountable to them, and re-establish the order and bonds of the community. Justice aims less to inflict suffering than to repair, reconcile, and remake the social fabric."
+      },
+      "figures": [
+        {
+          "slug": "zehr",
+          "name": {
+            "fr": "Zehr",
+            "en": "Zehr"
+          }
+        },
+        {
+          "slug": "braithwaite",
+          "name": {
+            "fr": "Braithwaite",
+            "en": "Braithwaite"
+          }
+        }
+      ],
+      "nuances": [
+        {
+          "fr": "Racine classique : la justice corrective d'Aristote, rétablir l'équilibre rompu par le tort.",
+          "en": "Classical root: Aristotle's corrective justice, restoring the balance broken by the wrong."
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 1,
+  "clusters": [],
+  "relatedAxes": [
+    "ETHICS_FOUNDATION",
+    "FORGIVENESS",
+    "FREEDOM",
+    "SOCIAL_CONTRACT"
+  ],
+  "problems": [
+    {
+      "id": "punishing-the-innocent",
+      "resolution": "SURFACED",
+      "object": "RELATION",
+      "objectLabel": { "fr": "punir un innocent", "en": "punishing an innocent" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "bouc émissaire", "en": "scapegoat" },
+        { "fr": "utilitarisme", "en": "utilitarianism" },
+        { "fr": "sacrifice", "en": "sacrifice" },
+        { "fr": "objection", "en": "objection" }
+      ],
+      "sphere": "MORAL",
+      "poles": ["DETERRENCE", "RETRIBUTIVISM"],
+      "anchors": [
+        { "name": { "fr": "McCloskey", "en": "McCloskey" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "Rawls", "en": "Rawls" }, "kind": "PHILOSOPHER", "slug": "rawls" }
+      ],
+      "doorways": [{ "axis": "ETHICS_FOUNDATION" }],
+      "title": { "fr": "Punir un innocent pour sauver la paix ?", "en": "Punishing an innocent to keep the peace?" },
+      "explicitation": { "fr": "Si la peine ne vaut que par ses effets, sacrifier un innocent pour éviter un plus grand mal semble parfois s'imposer : mais condamner qui n'a rien fait, est-ce encore punir, ou la négation même de la justice ?", "en": "If punishment is worth only its effects, sacrificing an innocent to avert a greater harm sometimes seems required: but is condemning one who did nothing still punishment, or the very negation of justice?" },
+      "ref": { "kind": "THOUGHT_EXPERIMENT", "id": "scapegoat-punishment" }
+    },
+    {
+      "id": "offender-as-example",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "le coupable", "en": "the offender" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "moyen et fin", "en": "means and end" },
+        { "fr": "dignité", "en": "dignity" },
+        { "fr": "exemplarité", "en": "exemplarity" },
+        { "fr": "responsabilité", "en": "responsibility" }
+      ],
+      "sphere": "MORAL",
+      "poles": ["RETRIBUTIVISM", "DETERRENCE"],
+      "anchors": [
+        { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" },
+        { "name": { "fr": "Hegel", "en": "Hegel" }, "kind": "PHILOSOPHER", "slug": "hegel" }
+      ],
+      "title": { "fr": "Faire d'un coupable un exemple", "en": "Making an example of an offender" },
+      "explicitation": { "fr": "Punir pour dissuader, c'est se servir d'un homme pour en effrayer d'autres : seule la peine méritée pour ce qu'il a fait le traite-t-elle comme une personne responsable, et non comme un moyen ?", "en": "Punishing to deter is using one man to frighten others: does only the penalty deserved for what he did treat him as a responsible person, rather than as a means?" }
+    },
+    {
+      "id": "heal-or-punish",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "le coupable", "en": "the offender" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "réinsertion", "en": "rehabilitation" },
+        { "fr": "traitement", "en": "treatment" },
+        { "fr": "consentement", "en": "consent" },
+        { "fr": "État thérapeutique", "en": "therapeutic state" }
+      ],
+      "sphere": "MORAL",
+      "poles": ["REHABILITATION"],
+      "anchors": [
+        { "name": { "fr": "Platon", "en": "Plato" }, "kind": "PHILOSOPHER", "slug": "plato" },
+        { "name": { "fr": "C. S. Lewis", "en": "C. S. Lewis" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "Herbert Morris", "en": "Herbert Morris" }, "kind": "PHILOSOPHER" }
+      ],
+      "title": { "fr": "Soigner ou punir", "en": "Heal or punish" },
+      "explicitation": { "fr": "Traiter le crime comme une maladie à guérir paraît plus humain que faire souffrir ; mais refaçonner quelqu'un « pour son bien », sans limite ni son accord, le respecte-t-il moins qu'une peine méritée ?", "en": "Treating crime as a sickness to cure seems more humane than inflicting suffering; but does reshaping someone « for their own good », without limit or their consent, respect them less than a deserved penalty?" }
+    },
+    {
+      "id": "deserving-ones-punishment",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "le coupable", "en": "the offender" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "mérite", "en": "desert" },
+        { "fr": "libre arbitre", "en": "free will" },
+        { "fr": "déterminisme", "en": "determinism" },
+        { "fr": "circonstances", "en": "circumstances" }
+      ],
+      "sphere": "MORAL",
+      "poles": ["RETRIBUTIVISM"],
+      "anchors": [
+        { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" }
+      ],
+      "doorways": [{ "axis": "FREEDOM" }],
+      "title": { "fr": "Mérite-t-on sa peine ?", "en": "Do we deserve our punishment?" },
+      "explicitation": { "fr": "Punir comme mérité suppose que le coupable aurait pu agir autrement ; si son acte découle de ses causes, de sa nature et de ses circonstances, l'idée même de mérite tient-elle encore ?", "en": "Punishing as deserved presupposes the offender could have acted otherwise; if their act flows from their causes, their nature and their circumstances, does the very idea of desert still hold?" }
+    },
+    {
+      "id": "right-measure-of-the-penalty",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "la peine", "en": "the penalty" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "proportionnalité", "en": "proportionality" },
+        { "fr": "loi du talion", "en": "lex talionis" },
+        { "fr": "sévérité", "en": "severity" },
+        { "fr": "barème", "en": "scale" }
+      ],
+      "sphere": "POLITICAL",
+      "poles": ["RETRIBUTIVISM", "DETERRENCE"],
+      "anchors": [
+        { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" },
+        { "name": { "fr": "Beccaria", "en": "Beccaria" }, "kind": "PHILOSOPHER", "slug": "beccaria" },
+        { "name": { "fr": "Bentham", "en": "Bentham" }, "kind": "PHILOSOPHER", "slug": "bentham" }
+      ],
+      "title": { "fr": "La juste mesure de la peine", "en": "The right measure of the penalty" },
+      "explicitation": { "fr": "Le rétributivisme mesure la peine à la gravité du tort (œil pour œil), la dissuasion à ce qu'il faut pour décourager : deux mesures qui peuvent exiger bien plus, ou bien moins, l'une que l'autre.", "en": "Retributivism measures the penalty by the gravity of the wrong (eye for an eye), deterrence by what it takes to discourage: two measures that can demand far more, or far less, than each other." }
+    },
+    {
+      "id": "settle-the-debt-or-mend-the-bond",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "le crime", "en": "the crime" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "dette", "en": "debt" },
+        { "fr": "réparation", "en": "reparation" },
+        { "fr": "expiation", "en": "expiation" },
+        { "fr": "lien rompu", "en": "broken bond" }
+      ],
+      "sphere": "MORAL",
+      "poles": ["RETRIBUTIVISM", "RESTORATIVE_JUSTICE"],
+      "anchors": [
+        { "name": { "fr": "Hegel", "en": "Hegel" }, "kind": "PHILOSOPHER", "slug": "hegel" },
+        { "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" },
+        { "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" }
+      ],
+      "title": { "fr": "Solder la dette ou réparer le lien", "en": "Settle the debt or mend the bond" },
+      "explicitation": { "fr": "Le crime est-il une dette envers l'ordre, qu'on solde en faisant souffrir le coupable, ou une rupture entre des personnes, qu'on ne répare qu'en reconnaissant la victime et en rétablissant le lien ? Et comment une souffrance ajoutée paierait-elle un tort ?", "en": "Is the crime a debt to the order, settled by making the offender suffer, or a rupture between persons, repaired only by acknowledging the victim and restoring the bond? And how would added suffering pay for a wrong?" }
+    },
+    {
+      "id": "punishment-or-vengeance",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "la justice pénale", "en": "penal justice" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "vengeance", "en": "vengeance" },
+        { "fr": "ressentiment", "en": "ressentiment" },
+        { "fr": "impartialité", "en": "impartiality" },
+        { "fr": "tiers", "en": "third party" }
+      ],
+      "sphere": "POLITICAL",
+      "poles": ["RETRIBUTIVISM"],
+      "anchors": [
+        { "name": { "fr": "Eschyle", "en": "Aeschylus" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" },
+        { "name": { "fr": "Girard", "en": "Girard" }, "kind": "PHILOSOPHER" }
+      ],
+      "title": { "fr": "Châtiment ou vengeance", "en": "Punishment or vengeance" },
+      "explicitation": { "fr": "La peine rendue par l'institution est-elle une justice impartiale et mesurée, distincte par nature de la vengeance, ou n'est-elle que la vengeance rendue publique, ordonnée et différée ?", "en": "Is the penalty handed down by the institution an impartial, measured justice, different in kind from revenge, or only revenge made public, orderly, and deferred?" }
+    },
+    {
+      "id": "right-to-punish",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "l'État", "en": "the state" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "droit de punir", "en": "right to punish" },
+        { "fr": "légitimité", "en": "legitimacy" },
+        { "fr": "contrat social", "en": "social contract" },
+        { "fr": "souveraineté", "en": "sovereignty" }
+      ],
+      "sphere": "POLITICAL",
+      "anchors": [
+        { "name": { "fr": "Beccaria", "en": "Beccaria" }, "kind": "PHILOSOPHER", "slug": "beccaria" },
+        { "name": { "fr": "Hobbes", "en": "Hobbes" }, "kind": "PHILOSOPHER", "slug": "hobbes" },
+        { "name": { "fr": "Locke", "en": "Locke" }, "kind": "PHILOSOPHER", "slug": "locke" }
+      ],
+      "doorways": [{ "axis": "SOCIAL_CONTRACT" }],
+      "title": { "fr": "D'où vient le droit de punir ?", "en": "Where does the right to punish come from?" },
+      "explicitation": { "fr": "Qu'est-ce qui autorise l'État à infliger à une personne ce qu'aucun particulier ne pourrait lui faire : un pouvoir cédé par le contrat social, ou l'ordre moral lui-même ?", "en": "What authorizes the state to inflict on a person what no private individual could: a power ceded by the social contract, or the moral order itself?" }
+    },
+    {
+      "id": "the-death-penalty",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "la peine capitale", "en": "capital punishment" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "peine de mort", "en": "death penalty" },
+        { "fr": "irréversible", "en": "irreversible" },
+        { "fr": "dissuasion", "en": "deterrence" },
+        { "fr": "abolition", "en": "abolition" }
+      ],
+      "sphere": "POLITICAL",
+      "poles": ["RETRIBUTIVISM", "DETERRENCE", "REHABILITATION"],
+      "anchors": [
+        { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" },
+        { "name": { "fr": "Beccaria", "en": "Beccaria" }, "kind": "PHILOSOPHER", "slug": "beccaria" },
+        { "name": { "fr": "Camus", "en": "Camus" }, "kind": "PHILOSOPHER", "slug": "camus" }
+      ],
+      "title": { "fr": "La peine de mort", "en": "The death penalty" },
+      "explicitation": { "fr": "Tuer le criminel est-il la seule peine à la mesure des pires crimes (Kant), ou un châtiment qui ne dissuade pas plus qu'un autre, ferme tout retour possible et abaisse la société qui l'inflige (Beccaria, Camus) ?", "en": "Is killing the criminal the only penalty matching the worst crimes (Kant), or a punishment that deters no better than another, forecloses any return, and lowers the society that inflicts it (Beccaria, Camus)?" }
+    },
+    {
+      "id": "do-we-need-prisons",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "l'appareil pénal", "en": "the penal apparatus" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "prison", "en": "prison" },
+        { "fr": "abolitionnisme", "en": "abolitionism" },
+        { "fr": "récidive", "en": "recidivism" },
+        { "fr": "pouvoir", "en": "power" }
+      ],
+      "sphere": "POLITICAL",
+      "poles": ["REHABILITATION", "RESTORATIVE_JUSTICE"],
+      "anchors": [
+        { "name": { "fr": "Foucault", "en": "Foucault" }, "kind": "PHILOSOPHER", "slug": "foucault" },
+        { "name": { "fr": "Hulsman", "en": "Hulsman" }, "kind": "PHILOSOPHER" }
+      ],
+      "title": { "fr": "Faut-il des prisons ?", "en": "Do we need prisons?" },
+      "explicitation": { "fr": "L'enfermement amende-t-il vraiment le coupable, ou tout l'appareil pénal ne fait-il guère que produire et gérer la délinquance, au service d'un ordre et d'un pouvoir ?", "en": "Does incarceration truly reform the offender, or does the whole penal apparatus do little more than produce and manage delinquency, in the service of an order and a power?" }
+    },
+    {
+      "id": "penalty-or-clemency",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "la peine méritée", "en": "the deserved punishment" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "clémence", "en": "clemency" },
+        { "fr": "grâce", "en": "pardon" },
+        { "fr": "pardon", "en": "forgiveness" },
+        { "fr": "amnistie", "en": "amnesty" }
+      ],
+      "sphere": "POLITICAL",
+      "anchors": [
+        { "name": { "fr": "Sénèque", "en": "Seneca" }, "kind": "PHILOSOPHER", "slug": "seneca" }
+      ],
+      "doorways": [{ "axis": "FORGIVENESS", "problem": "justice-or-mercy" }],
+      "title": { "fr": "Justice ou pardon", "en": "Justice or mercy" },
+      "explicitation": { "fr": "Faut-il toujours infliger la peine méritée, ou la clémence, la grâce, le pardon peuvent-ils légitimement y faire renoncer sans trahir la justice ?", "en": "Must the deserved penalty always be inflicted, or can clemency, pardon, and forgiveness legitimately set it aside without betraying justice?" }
+    }
+  ]
+}

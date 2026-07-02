@@ -1,0 +1,12 @@
+{
+  "id": "fideism-grounds-doxastic-voluntarism",
+  "ground": { "axisId": "FAITH_REASON", "poleId": "FIDEISM" },
+  "grounded": { "axisId": "BELIEF_ETHICS", "poleId": "DOXASTIC_VOLUNTARISM" },
+  "kind": "T_V",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si la foi est un saut qui commence là où la preuve s'arrête, alors croire relève d'une décision, non d'une contrainte de l'évidence. Le fidéisme fonde le volontarisme doxastique : le pari de <ph id='pascal'>Pascal</ph> invite à parier sur Dieu faute de démonstration, faisant de la croyance un acte de la volonté.",
+    "en": "If faith is a leap that begins where proof ends, then to believe is a matter of decision, not a constraint of the evidence. Fideism grounds doxastic voluntarism: <ph id='pascal'>Pascal</ph>'s wager invites us to bet on God for want of demonstration, making belief an act of the will."
+  },
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

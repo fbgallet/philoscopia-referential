@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "anscombe",
+  "stub": true,
+  "name": {
+    "fr": "Elizabeth Anscombe",
+    "en": "Elizabeth Anscombe"
+  },
+  "summary": {
+    "fr": "Philosophe britannique, élève de Wittgenstein, qui relança l'éthique des vertus (1958) et défendit l'existence d'interdits moraux absolus.",
+    "en": "British philosopher, a student of Wittgenstein, who revived virtue ethics (1958) and defended the existence of absolute moral prohibitions."
+  },
+  "birth": 1919,
+  "death": 2001,
+  "nationality": {
+    "fr": "Britannique",
+    "en": "British"
+  },
+  "movements": [],
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "substance-dualism-grounds-free-will",
+  "ground": { "axisId": "CONSCIOUSNESS_NATURE", "poleId": "SUBSTANCE_DUALISM" },
+  "grounded": { "axisId": "FREEDOM", "poleId": "FREE_WILL" },
+  "kind": "T_T",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si l'esprit n'appartient pas à l'ordre mécanique de la matière, la volonté échappe au déterminisme des causes physiques et peut se déterminer elle-même. Le dualisme des substances soutient ainsi le <c id='free-will'>libre arbitre</c>, en soustrayant la décision à l'enchaînement des causes naturelles.",
+    "en": "If the mind does not belong to the mechanical order of matter, the will escapes the determinism of physical causes and can determine itself. Substance dualism thus supports <c id='free-will'>free will</c>, by removing decision from the chain of natural causes."
+  },
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "tripartite-soul",
+  "term": { "fr": "L'âme tripartite", "en": "The tripartite soul" },
+  "definition": {
+    "fr": "Dans <w id='republic-plato'>la République</w>, <ph id='plato'>Platon</ph> distingue trois parties de l'âme : la raison, qui connaît et doit gouverner, le cœur (thymos), siège du courage et de l'ardeur, et l'appétit, qui désire les plaisirs du corps. La justice de l'âme, comme la vertu, consiste à ce que la raison commande, le cœur la seconde et l'appétit obéisse. Cette hiérarchie fait de la bonne vie une affaire de <ax id='EMOTIONS'>direction rationnelle</ax> des passions plutôt que de leur seule écoute.",
+    "en": "In <w id='republic-plato'>the Republic</w>, <ph id='plato'>Plato</ph> distinguishes three parts of the soul: reason, which knows and should govern; the spirited part (thymos), seat of courage and drive; and appetite, which craves bodily pleasures. The justice of the soul, like virtue, consists in reason ruling, the spirited part backing it, and appetite obeying. This hierarchy makes the good life a matter of the <ax id='EMOTIONS'>rational governance</ax> of the passions rather than of merely heeding them."
+  },
+  "relatedAxes": ["EMOTIONS", "SELF_NATURE"],
+  "relatedTerms": ["theory-of-forms", "anamnesis"],
+  "figure": { "slug": "plato", "name": { "fr": "Platon", "en": "Plato" } },
+  "positions": [
+    { "axisId": "EMOTIONS", "poleId": "INTELLECTUALISM" }
+  ],
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "moksha",
+  "term": { "fr": "Mokṣa (libération)", "en": "Mokṣa (liberation)" },
+  "definition": {
+    "fr": "La mokṣa est la libération du saṃsāra, le cycle des renaissances et de la souffrance, but ultime de la vie dans le Vedānta. Elle s'obtient non par les rites ni par l'action seule, mais par la connaissance : reconnaître que le <c id='atman'>Soi</c> est identique au <c id='brahman'>Brahman</c>. Elle s'apparente, sans s'y confondre, au <c id='nirvana'>nirvāṇa</c> bouddhiste, autre figure de la délivrance.",
+    "en": "Mokṣa is release from saṃsāra, the cycle of rebirths and suffering, the ultimate aim of life in Vedānta. It is attained not through ritual or action alone but through knowledge: recognizing that the <c id='atman'>Self</c> is identical with <c id='brahman'>Brahman</c>. It is akin to, though not identical with, the Buddhist <c id='nirvana'>nirvāṇa</c>, another figure of deliverance."
+  },
+  "relatedAxes": ["LIFE_MEANING", "SUFFERING_MEANING"],
+  "relatedTerms": ["brahman", "nirvana"],
+  "positions": [{ "axisId": "LIFE_MEANING", "poleId": "TELEOLOGY" }],
+  "updatedAt": "2026-06-19T00:00:00.000Z"
+}

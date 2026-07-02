@@ -1,0 +1,79 @@
+{
+  "id": "REDUCTION_EMERGENCE",
+  "relation": "WORLD",
+  "territory": "NATURE_LIVING",
+  "label": {
+    "fr": "Tout et parties",
+    "en": "Wholes and parts"
+  },
+  "question": {
+    "fr": "Le tout s'explique-t-il entièrement par ses parties, ou possède-t-il des propriétés irréductibles ?",
+    "en": "Can a whole be fully explained by its parts, or does it have irreducible properties?"
+  },
+  "stakes": {
+    "fr": "Comprendre, est-ce toujours décomposer en éléments plus simples, ou certaines réalités, le vivant, l'esprit, ont-elles des propriétés qui disparaissent dès qu'on les démonte ? Si tout se ramène aux parties, la physique pourra un jour tout expliquer ; sinon, biologie et psychologie étudient quelque chose de réel que les sciences du plus petit manquent. Se positionner, c'est dire jusqu'où va le pouvoir d'expliquer par le bas.",
+    "en": "Is understanding always a matter of breaking things into simpler elements, or do some realities, life, mind, have properties that vanish the moment we take them apart? If everything reduces to its parts, physics may one day explain it all; if wholes are irreducible, biology and psychology study something real that the sciences of the small miss. To take a position is to say how far explanation from below can reach."
+  },
+  "layer": "THEORY",
+  "type": "BIPOLAR",
+  "poles": [
+    {
+      "id": "REDUCTIONISM",
+      "label": {
+        "fr": "Réductionnisme",
+        "en": "Reductionism"
+      },
+      "description": {
+        "fr": "Tout phénomène complexe s'explique, en dernière analyse, par ses constituants élémentaires et leurs interactions : il n'y a que des atomes et du vide. Expliquer, c'est décomposer jusqu'aux éléments les plus simples.",
+        "en": "Every complex phenomenon is explained, in the final analysis, by its elementary constituents and their interactions: there are only atoms and void. To explain is to break things down to their simplest elements."
+      },
+      "figures": [
+        {
+          "slug": "democritus",
+          "name": {
+            "fr": "Démocrite",
+            "en": "Democritus"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EMERGENTISM",
+      "label": {
+        "fr": "Émergentisme",
+        "en": "Emergentism"
+      },
+      "description": {
+        "fr": "Le tout est plus que la somme de ses parties : de l'organisation surgissent des propriétés nouvelles, comme la vie ou la pensée, qu'aucune analyse des composants isolés ne peut prédire. La complexité exige une pensée des relations et des niveaux.",
+        "en": "The whole is more than the sum of its parts: organization gives rise to new properties, such as life or thought, that no analysis of isolated components can predict. Complexity demands a way of thinking attentive to relations and levels."
+      },
+      "figures": [
+        {
+          "slug": "aristotle",
+          "name": {
+            "fr": "Aristote",
+            "en": "Aristotle"
+          }
+        },
+        {
+          "slug": "morin",
+          "name": {
+            "fr": "Morin",
+            "en": "Morin"
+          }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 3,
+  "clusters": [
+    "SCIENTIFIC_NATURALISM"
+  ],
+  "relatedAxes": [
+    "CAUSALITY",
+    "MACHINE_MIND",
+    "REALITY_NATURE",
+    "GOD_EXISTENCE"
+  ]
+}

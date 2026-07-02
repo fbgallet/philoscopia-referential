@@ -1,0 +1,12 @@
+{
+  "id": "dogmatism",
+  "term": { "fr": "Dogmatisme", "en": "Dogmatism" },
+  "definition": {
+    "fr": "Le dogmatisme désigne, au sens philosophique, la position de qui affirme détenir des vérités certaines sans soumettre ses principes à l'examen critique. Le mot vient des sceptiques anciens, qui appelaient dogmatiques toutes les écoles soutenant des thèses positives sur le réel ; il s'oppose donc au <c id='skepticism'>scepticisme</c>. <ph id='kant'>Kant</ph> disait avoir été tiré de son sommeil dogmatique par la lecture de <ph id='hume'>Hume</ph>.",
+    "en": "Dogmatism, in the philosophical sense, is the position of those who claim to hold certain truths without submitting their principles to critical examination. The word comes from the ancient skeptics, who called dogmatic every school asserting positive theses about reality; it thus stands opposed to <c id='skepticism'>skepticism</c>. <ph id='kant'>Kant</ph> said he was roused from his dogmatic slumber by reading <ph id='hume'>Hume</ph>."
+  },
+  "relatedAxes": ["CERTAINTY"],
+  "relatedTerms": ["skepticism"],
+  "positions": [{ "axisId": "CERTAINTY", "poleId": "DOGMATISM" }],
+  "updatedAt": "2026-06-11T00:00:00.000Z"
+}

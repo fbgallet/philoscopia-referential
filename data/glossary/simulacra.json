@@ -1,0 +1,11 @@
+{
+  "id": "simulacra",
+  "term": { "fr": "Les simulacres (eidôla)", "en": "Simulacra (eidola)" },
+  "definition": {
+    "fr": "Dans la physique épicurienne, les simulacres sont les fines pellicules d'<c>atomes</c> que les corps émettent sans cesse depuis leur surface et qui, frappant les sens, expliquent la perception. Plus subtils encore, ils rendent compte des rêves et de la pensée, où l'esprit saisit directement ces images flottantes. <ph id='epicurus'>Épicure</ph> y voit le mécanisme matériel de toute connaissance par les sens, et <ph id='lucretius'>Lucrèce</ph> en donne l'exposé le plus développé au livre IV du <w id='on-the-nature-of-things-lucretius'>De rerum natura</w>.",
+    "en": "In Epicurean physics, simulacra are the thin films of <c>atoms</c> that bodies continually shed from their surface and that, striking the senses, explain perception. Subtler still, they account for dreams and thought, in which the mind directly grasps these drifting images. <ph id='epicurus'>Epicurus</ph> sees in them the material mechanism of all knowledge through the senses, and <ph id='lucretius'>Lucretius</ph> gives their fullest account in book IV of the <w id='on-the-nature-of-things-lucretius'>De rerum natura</w>."
+  },
+  "relatedAxes": ["KNOWLEDGE_SOURCE"],
+  "relatedTerms": ["clinamen"],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

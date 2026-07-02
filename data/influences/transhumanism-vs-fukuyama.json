@@ -1,0 +1,29 @@
+{
+  "id": "transhumanism-vs-fukuyama",
+  "from": {
+    "kind": "MOVEMENT",
+    "slug": "transhumanism"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "fukuyama"
+  },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='fukuyama'>Fukuyama</ph> tient le transhumanisme pour « l'idée la plus dangereuse du monde » : en refaçonnant la nature humaine, l'augmentation saperait le socle d'égale dignité sur lequel reposent les droits, et risquerait de fracturer l'humanité en deux. Il oppose au projet une défense de la nature humaine comme limite normative.",
+    "en": "<ph id='fukuyama'>Fukuyama</ph> deems transhumanism 'the world's most dangerous idea': by reshaping human nature, enhancement would erode the basis of equal dignity on which rights rest, and risk splitting humanity in two. He counters the project with a defense of human nature as a normative limit."
+  },
+  "sources": [
+    {
+      "fr": "Fukuyama, Notre avenir posthumain (2002)",
+      "en": "Fukuyama, Our Posthuman Future (2002)"
+    },
+    {
+      "fr": "Fukuyama, « Transhumanism », Foreign Policy (2004)",
+      "en": "Fukuyama, 'Transhumanism', Foreign Policy (2004)"
+    }
+  ],
+  "updatedAt": "2026-06-28T00:00:00.000Z"
+}

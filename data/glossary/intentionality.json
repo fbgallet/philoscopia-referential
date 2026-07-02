@@ -1,0 +1,11 @@
+{
+  "id": "intentionality",
+  "term": { "fr": "Intentionnalité", "en": "Intentionality" },
+  "definition": {
+    "fr": "L'intentionnalité est le caractère par lequel la <c>conscience</c> est toujours conscience de quelque chose : tout vécu, percevoir, juger, désirer, vise un objet et se rapporte à lui. Reprise par <ph>Brentano</ph> à la scolastique pour distinguer le mental du physique, elle devient chez <ph id='husserl'>Husserl</ph> le fil conducteur de la <mv id='phenomenology'>phénoménologie</mv>, qui décrit les diverses manières dont un objet se donne à une visée. Elle commande la façon dont on se représente le <ax id='REALITY_NATURE'>rapport de l'esprit au réel</ax>, en nouant l'un à l'autre plutôt qu'en les posant face à face.",
+    "en": "Intentionality is the feature by which <c>consciousness</c> is always consciousness of something: every lived experience, perceiving, judging, desiring, aims at an object and refers to it. Taken over from the scholastics by <ph>Brentano</ph> to mark off the mental from the physical, it becomes in <ph id='husserl'>Husserl</ph> the guiding thread of <mv id='phenomenology'>phenomenology</mv>, which describes the various ways an object gives itself to an act. It governs how one conceives the <ax id='REALITY_NATURE'>mind's relation to the real</ax>, binding the two together rather than setting them face to face."
+  },
+  "relatedAxes": ["CONSCIOUSNESS_NATURE", "REALITY_NATURE"],
+  "relatedTerms": ["natural-attitude", "phenomenological-reduction"],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

@@ -1,0 +1,17 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "condorcet",
+  "stub": true,
+  "name": { "fr": "Condorcet", "en": "Condorcet" },
+  "fullName": { "fr": "Nicolas de Condorcet", "en": "Nicolas de Condorcet" },
+  "summary": {
+    "fr": "Mathématicien et philosophe français des <mv id='enlightenment'>Lumières</mv>, théoricien du progrès indéfini de l'esprit humain et pionnier des mathématiques sociales.",
+    "en": "French mathematician and philosopher of the <mv id='enlightenment'>Enlightenment</mv>, theorist of the indefinite progress of the human mind and a pioneer of social mathematics."
+  },
+  "birth": 1743,
+  "death": 1794,
+  "nationality": { "fr": "Français", "en": "French" },
+  "movements": ["enlightenment"],
+  "updatedAt": "2026-06-25T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

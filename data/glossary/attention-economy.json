@@ -1,0 +1,11 @@
+{
+  "id": "attention-economy",
+  "term": { "fr": "Économie de l'attention", "en": "Attention economy" },
+  "definition": {
+    "fr": "Modèle économique où l'attention humaine, devenue rare face à l'abondance d'informations, est traitée comme une ressource que des dispositifs cherchent à capter puis à monnayer. Notre temps de regard y devient la véritable marchandise, ce qui explique que tant d'outils numériques soient conçus pour nous retenir le plus longtemps possible. Le concept éclaire la <ax id='TECHNOLOGY' pole='TECHNO_CRITICISM'>critique de la technique</ax> contemporaine : un dispositif n'est plus tout à fait neutre dès lors que sa rentabilité dépend du temps qu'il nous prend.",
+    "en": "An economic model in which human attention, made scarce by the flood of information, is treated as a resource that devices seek to capture and then monetize. Our viewing time becomes the real commodity, which is why so many digital tools are built to hold us for as long as possible. The concept illuminates contemporary <ax id='TECHNOLOGY' pole='TECHNO_CRITICISM'>criticism of technology</ax>: a device is no longer quite neutral once its profitability depends on the time it takes from us."
+  },
+  "relatedAxes": ["ATTENTION", "TECHNOLOGY"],
+  "relatedTerms": ["divertissement"],
+  "updatedAt": "2026-06-22T00:00:00.000Z"
+}

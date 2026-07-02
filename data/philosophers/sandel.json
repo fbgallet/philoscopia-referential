@@ -1,0 +1,23 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "sandel",
+  "stub": true,
+  "name": {
+    "fr": "Sandel",
+    "en": "Sandel"
+  },
+  "summary": {
+    "fr": "Philosophe politique américain, professeur à Harvard, critique communautarien du libéralisme ; dans « Contre la perfection » il s'oppose à l'augmentation, qui trahirait selon lui le caractère « donné » de la vie et la part d'humilité, de solidarité et de gratitude qui s'y attache.",
+    "en": "American political philosopher at Harvard, a communitarian critic of liberalism; in 'The Case Against Perfection' he opposes enhancement, which he argues betrays the 'giftedness' of life and the humility, solidarity and gratitude bound up with it."
+  },
+  "birth": 1953,
+  "nationality": {
+    "fr": "Américain",
+    "en": "American"
+  },
+  "movements": [],
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

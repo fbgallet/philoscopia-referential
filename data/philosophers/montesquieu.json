@@ -1,0 +1,17 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "montesquieu",
+  "stub": true,
+  "name": { "fr": "Montesquieu", "en": "Montesquieu" },
+  "fullName": { "fr": "Charles-Louis de Secondat, baron de Montesquieu", "en": "Charles-Louis de Secondat, Baron de Montesquieu" },
+  "summary": {
+    "fr": "Penseur politique français des <mv id='enlightenment'>Lumières</mv>, auteur de De l'esprit des lois, théoricien de la séparation des pouvoirs et de la liberté garantie par les lois.",
+    "en": "French political thinker of the <mv id='enlightenment'>Enlightenment</mv>, author of The Spirit of the Laws, theorist of the separation of powers and of liberty secured by law."
+  },
+  "birth": 1689,
+  "death": 1755,
+  "nationality": { "fr": "Français", "en": "French" },
+  "movements": ["enlightenment"],
+  "updatedAt": "2026-06-25T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

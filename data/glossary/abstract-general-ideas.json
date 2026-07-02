@@ -1,0 +1,11 @@
+{
+  "id": "abstract-general-ideas",
+  "term": { "fr": "Idées générales abstraites", "en": "Abstract general ideas" },
+  "definition": {
+    "fr": "Doctrine selon laquelle l'esprit forme des idées générales par abstraction, en isolant ce que des individus ont de commun : l'idée d'<kw>homme</kw> en général, ou d'un triangle qui ne serait ni équilatéral ni scalène. <ph id='locke'>Locke</ph> en fait le ressort de la connaissance et du langage. <ph id='berkeley'>Berkeley</ph> le conteste : on ne peut former l'idée d'un triangle qui ne soit aucun triangle particulier ; toute idée est singulière, et un mot devient général non par une essence abstraite mais parce qu'un signe particulier représente indifféremment tous ses semblables. L'enjeu est tout l'axe des <ax id='UNIVERSALS'>universaux</ax>, du réalisme au nominalisme.",
+    "en": "The doctrine that the mind forms general ideas by abstraction, isolating what individuals have in common: the idea of <kw>man</kw> in general, or of a triangle that is neither equilateral nor scalene. <ph id='locke'>Locke</ph> makes it the mainspring of knowledge and language. <ph id='berkeley'>Berkeley</ph> denies it: one cannot form the idea of a triangle that is no particular triangle; every idea is particular, and a word becomes general not through an abstract essence but because a particular sign stands indifferently for all its likes. At stake is the whole axis of <ax id='UNIVERSALS'>universals</ax>, from realism to nominalism."
+  },
+  "relatedAxes": ["UNIVERSALS"],
+  "relatedTerms": ["immaterialism"],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

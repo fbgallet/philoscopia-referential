@@ -1,0 +1,17 @@
+{
+  "id": "romanticism-to-heidegger",
+  "from": { "kind": "MOVEMENT", "slug": "romanticism" },
+  "to": { "kind": "PHILOSOPHER", "slug": "heidegger" },
+  "directness": "INDIRECT",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='heidegger'>Heidegger</ph> reprend au romantisme sa critique du monde-machine et de la raison calculante, son écoute de la nature et son privilège du <c>poétique</c> comme accès à l'être. Sa lecture de Hölderlin, poète romantique tenu pour celui qui dit le « défaut des dieux » et le danger de la technique, est au cœur de sa pensée tardive : « habiter en poète » prolonge le rêve romantique d'un monde ré-enchanté.",
+    "en": "<ph id='heidegger'>Heidegger</ph> takes up from Romanticism its critique of the world-as-machine and of calculative reason, its listening to nature and its privileging of the <c>poetic</c> as access to being. His reading of Hölderlin, the Romantic poet held to voice the « default of the gods » and the danger of technology, lies at the heart of his late thought: « to dwell poetically » extends the Romantic dream of a re-enchanted world."
+  },
+  "sources": [
+    { "fr": "Heidegger, Approche de Hölderlin (1944)", "en": "Heidegger, Elucidations of Hölderlin's Poetry (1944)" },
+    { "fr": "Heidegger, Essais et conférences (« La question de la technique »)", "en": "Heidegger, The Question Concerning Technology (1954)" }
+  ],
+  "updatedAt": "2026-06-26T00:00:00.000Z"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "SINCERITY",
+  "relation": "OTHERS",
+  "territory": "BONDS",
+  "label": {
+    "fr": "Sincérité",
+    "en": "Sincerity"
+  },
+  "question": {
+    "fr": "Est-il parfois permis de mentir pour le bien d'autrui ?",
+    "en": "Is it sometimes permissible to lie for someone else's good?"
+  },
+  "stakes": {
+    "fr": "Faut-il toujours dire le vrai, quel qu'en soit le prix, ou peut-on mentir pour épargner ou protéger quelqu'un ? La franchise absolue peut blesser ou trahir ; autoriser le mensonge bienveillant ouvre une porte que chacun peut franchir pour ses propres raisons. Se positionner, c'est dire si respecter l'autre, c'est lui devoir la vérité ou parfois la lui épargner.",
+    "en": "Must we always tell the truth, whatever the cost, or may we lie to spare or protect someone? Absolute candour can wound or betray; allowing the well-meant lie opens a door anyone can walk through for their own reasons. To take a position is to say whether respecting someone means owing them the truth, or sometimes sparing them from it."
+  },
+  "layer": "VALUE",
+  "type": "BIPOLAR",
+  "poles": [
+    {
+      "id": "TRUTHFUL_RIGORISM",
+      "label": {
+        "fr": "Rigorisme véridique",
+        "en": "Truthful rigorism"
+      },
+      "description": {
+        "fr": "Le devoir de dire la vérité est inconditionnel : mentir, même par bonté, ruine la confiance qui rend possible toute parole et traite autrui comme un être à manipuler. Aucune bonne intention ne peut transformer un mensonge en acte juste.",
+        "en": "The duty to tell the truth is unconditional: lying, even out of kindness, destroys the trust that makes all speech possible and treats the other person as someone to be manipulated. No good intention can turn a lie into a right action."
+      },
+      "figures": [
+        {
+          "slug": "kant",
+          "name": {
+            "fr": "Kant",
+            "en": "Kant"
+          }
+        }
+      ]
+    },
+    {
+      "id": "BENEVOLENT_LYING_PERMITTED",
+      "label": {
+        "fr": "Mensonge bienveillant permis",
+        "en": "Benevolent lying permitted"
+      },
+      "description": {
+        "fr": "Dire la vérité est un devoir, mais seulement envers ceux qui y ont droit. Quand la franchise causerait un tort injuste, protéger un innocent ou épargner une souffrance inutile peut justifier de mentir : la vérité n'est pas due au bourreau.",
+        "en": "Telling the truth is a duty, but only toward those who have a right to it. When honesty would cause unjust harm, protecting an innocent person or sparing needless suffering can justify a lie: the truth is not owed to the executioner."
+      },
+      "figures": [
+        {
+          "slug": "constant",
+          "name": {
+            "fr": "Constant",
+            "en": "Constant"
+          }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 1,
+  "clusters": [],
+  "relatedAxes": [
+    "RULE_SPIRIT"
+  ]
+}

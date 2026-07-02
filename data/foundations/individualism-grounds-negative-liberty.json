@@ -1,0 +1,12 @@
+{
+  "id": "individualism-grounds-negative-liberty",
+  "ground": { "axisId": "INDIVIDUAL_SOCIETY", "poleId": "INDIVIDUALISM" },
+  "grounded": { "axisId": "POLITICAL_LIBERTY", "poleId": "NEGATIVE_LIBERTY" },
+  "kind": "T_T",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si seuls les individus et leurs choix sont réels, être libre, c'est d'abord disposer d'un espace où nul ne vient interférer. L'individualisme fonde la liberté négative : pour <ph id='mill'>Mill</ph>, la société ne peut contraindre l'individu que pour empêcher qu'il ne nuise à autrui.",
+    "en": "If only individuals and their choices are real, to be free is first of all to have a space where no one interferes. Individualism grounds negative liberty: for <ph id='mill'>Mill</ph>, society may constrain the individual only to prevent harm to others."
+  },
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

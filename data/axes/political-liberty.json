@@ -1,0 +1,125 @@
+{
+  "id": "POLITICAL_LIBERTY",
+  "relation": "OTHERS",
+  "territory": "SOCIETY_POLITICS",
+  "label": {
+    "fr": "Liberté politique",
+    "en": "Political liberty"
+  },
+  "question": {
+    "fr": "Qu'est-ce qu'être politiquement libre ?",
+    "en": "What is it to be politically free?"
+  },
+  "stakes": {
+    "fr": "Être libre, est-ce n'être pas entravé, se gouverner soi-même, ou ne dépendre du bon vouloir de personne ? Selon la réponse, ce qu'une société doit garantir, et ce dont elle doit nous protéger, change du tout au tout.",
+    "en": "To be free, is it to be unhindered, to govern oneself, or to depend on no one's good will? Depending on the answer, what a society must guarantee, and what it must protect us from, changes entirely."
+  },
+  "layer": "THEORY",
+  "type": "CATEGORICAL",
+  "poles": [
+    {
+      "id": "NEGATIVE_LIBERTY",
+      "label": {
+        "fr": "Liberté négative",
+        "en": "Negative liberty"
+      },
+      "description": {
+        "fr": "Être libre, c'est l'absence d'entraves : nul ne m'empêche d'agir comme je l'entends. La liberté se mesure à l'espace laissé sans interférence, et la loi elle-même doit se borner à protéger cet espace plutôt qu'à le restreindre.",
+        "en": "To be free is the absence of hindrance: no one prevents me from acting as I see fit. Liberty is measured by the space left without interference, and the law itself should confine itself to protecting that space rather than narrowing it."
+      },
+      "figures": [
+        {
+          "slug": "constant",
+          "name": { "fr": "Constant", "en": "Constant" }
+        },
+        {
+          "slug": "berlin",
+          "name": { "fr": "Berlin", "en": "Berlin" }
+        },
+        {
+          "slug": "hayek",
+          "name": { "fr": "Hayek", "en": "Hayek" }
+        }
+      ]
+    },
+    {
+      "id": "POSITIVE_LIBERTY",
+      "label": {
+        "fr": "Liberté positive",
+        "en": "Positive liberty"
+      },
+      "description": {
+        "fr": "Être libre, c'est se gouverner soi-même : être maître de ses désirs et, comme citoyen, prendre part aux lois auxquelles on obéit. La liberté n'est pas seulement qu'on me laisse faire, mais que je sois l'auteur de ma vie et de ma cité.",
+        "en": "To be free is to govern oneself: to be master of one's desires and, as a citizen, to share in making the laws one obeys. Liberty is not merely being left alone, but being the author of one's life and one's city."
+      },
+      "figures": [
+        {
+          "slug": "rousseau",
+          "name": { "fr": "Rousseau", "en": "Rousseau" }
+        },
+        {
+          "slug": "hegel",
+          "name": { "fr": "Hegel", "en": "Hegel" }
+        }
+      ],
+      "nuances": [
+        {
+          "fr": "Rousseau est aussi revendiqué par la tradition républicaine de la non-domination.",
+          "en": "Rousseau is also claimed by the republican non-domination tradition."
+        }
+      ]
+    },
+    {
+      "id": "NON_DOMINATION",
+      "label": {
+        "fr": "Non-domination républicaine",
+        "en": "Republican non-domination"
+      },
+      "description": {
+        "fr": "Être libre, c'est ne dépendre du pouvoir arbitraire de personne. L'esclave d'un maître bienveillant qui ne l'entrave jamais reste un esclave : il vit sous une domination toujours possible. La liberté exige des protections qui rendent l'arbitraire impossible, non sa simple absence du moment.",
+        "en": "To be free is to depend on no one's arbitrary power. The slave of a kind master who never interferes is still a slave: he lives under an ever-possible domination. Liberty requires protections that make arbitrariness impossible, not merely its present absence."
+      },
+      "figures": [
+        {
+          "slug": "pettit",
+          "name": { "fr": "Pettit", "en": "Pettit" }
+        },
+        {
+          "slug": "skinner",
+          "name": { "fr": "Skinner", "en": "Skinner" }
+        }
+      ]
+    },
+    {
+      "id": "CAPABILITY_FREEDOM",
+      "label": {
+        "fr": "Liberté-capabilité",
+        "en": "Capability freedom"
+      },
+      "description": {
+        "fr": "Être libre, ce n'est pas seulement n'être pas entravé, c'est avoir les moyens réels d'agir : sans santé, instruction ni ressources, une liberté purement formelle reste lettre morte. La liberté se mesure aux capacités effectives d'être et de faire.",
+        "en": "To be free is not merely to be unhindered, it is to have the real means to act: without health, education or resources, a purely formal liberty stays a dead letter. Liberty is measured by the effective capabilities to be and to do."
+      },
+      "figures": [
+        {
+          "slug": "sen",
+          "name": { "fr": "Sen", "en": "Sen" }
+        },
+        {
+          "slug": "nussbaum",
+          "name": { "fr": "Nussbaum", "en": "Nussbaum" }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 2,
+  "clusters": [],
+  "relatedAxes": [
+    "AUTHORITY",
+    "DISTRIBUTIVE_JUSTICE",
+    "WHO_DECIDES",
+    "INDIVIDUAL_SOCIETY",
+    "FREEDOM"
+  ]
+}

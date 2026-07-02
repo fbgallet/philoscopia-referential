@@ -1,0 +1,16 @@
+{
+  "id": "laozi-to-zhuangzi",
+  "from": { "kind": "PHILOSOPHER", "slug": "laozi" },
+  "to": { "kind": "PHILOSOPHER", "slug": "zhuangzi" },
+  "directness": "INDIRECT",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='zhuangzi'>Zhuangzi</ph> radicalise les thèmes associés au <ph id='laozi'>Laozi</ph> : le <c>dao</c>, le non-agir et la relativité des distinctions, qu'il déploie par paraboles et paradoxes plutôt qu'en maximes.",
+    "en": "<ph id='zhuangzi'>Zhuangzi</ph> radicalises the themes associated with <ph id='laozi'>Laozi</ph>: the <c>dao</c>, non-action and the relativity of distinctions, which he unfolds through parables and paradoxes rather than maxims."
+  },
+  "sources": [
+    { "fr": "Zhuangzi", "en": "Zhuangzi" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

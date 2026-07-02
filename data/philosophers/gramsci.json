@@ -1,0 +1,26 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "gramsci",
+  "stub": true,
+  "name": {
+    "fr": "Antonio Gramsci",
+    "en": "Antonio Gramsci"
+  },
+  "summary": {
+    "fr": "Théoricien <mv id='marxism'>marxiste</mv> italien, connu pour le concept d'hégémonie culturelle, élaboré dans ses Cahiers de prison.",
+    "en": "Italian <mv id='marxism'>Marxist</mv> theorist, known for the concept of cultural hegemony, developed in his Prison Notebooks."
+  },
+  "birth": 1891,
+  "death": 1937,
+  "nationality": {
+    "fr": "Italien",
+    "en": "Italian"
+  },
+  "movements": [
+    "marxism"
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

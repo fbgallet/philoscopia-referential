@@ -1,0 +1,738 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "epictetus",
+  "name": {
+    "fr": "Épictète",
+    "en": "Epictetus"
+  },
+  "tagline": {
+    "fr": "Esclave devenu maître : la <c>liberté intérieure</c> par <c id='dichotomy-of-control'>ce qui dépend de nous</c>.",
+    "en": "Slave turned teacher: <c>inner freedom</c> through <c id='dichotomy-of-control'>what is up to us</c>."
+  },
+  "summary": {
+    "fr": "Philosophe <mv id='stoicism'>stoïcien</mv> de l'époque impériale, né esclave en Phrygie puis affranchi à Rome. Formé auprès du stoïcien <per>Musonius Rufus</per>, il enseigne d'abord à Rome, d'où l'empereur Domitien l'exile avec les autres philosophes, puis fonde une école renommée à Nicopolis, en Épire. Il n'a rien écrit : son enseignement oral nous est parvenu par les notes de son disciple <per>Arrien</per>, qui composa les <w id='discourses-epictetus'>Entretiens</w> et le <w id='enchiridion-epictetus'>Manuel</w>. Cette éthique de la <c>vie bonne</c> a profondément marqué <ph>Marc Aurèle</ph>, qui le cite parmi ses maîtres, et inspire aujourd'hui les thérapies cognitivo-comportementales.",
+    "en": "<mv id='stoicism'>Stoic</mv> philosopher of the imperial era, born a slave in Phrygia and later freed in Rome. Trained under the Stoic <per>Musonius Rufus</per>, he first taught in Rome, from which the emperor Domitian banished him along with the other philosophers, then founded a celebrated school at Nicopolis in Epirus. He wrote nothing: his oral teaching reached us through the notes of his pupil <per>Arrian</per>, who composed the <w id='discourses-epictetus'>Discourses</w> and the <w id='enchiridion-epictetus'>Enchiridion</w>. This ethics of the <c>good life</c> deeply shaped <ph>Marcus Aurelius</ph>, who names him among his teachers, and today inspires cognitive behavioral therapy."
+  },
+  "birth": 50,
+  "death": 135,
+  "nationality": {
+    "fr": "Grec",
+    "en": "Greek"
+  },
+  "movements": [
+    "stoicism"
+  ],
+  "entries": [
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Pour Épictète, l'homme a une nature déterminée, la raison, parcelle du <c>logos</c> divin, qui le distingue de l'animal et lui assigne sa fonction propre. Vivre bien n'est pas s'inventer mais accomplir cette nature : agir en être raisonnable, conformément à ce que nous sommes par constitution.",
+          "en": "For Epictetus, the human being has a determinate nature, reason, a fragment of the divine <c>logos</c>, which sets him apart from the animal and assigns his proper function. To live well is not to invent oneself but to fulfill this nature: to act as a rational being, in accordance with what we are by constitution."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, I, 6 et II, 9",
+            "en": "Discourses, I, 6 and II, 9"
+          },
+          {
+            "fr": "Manuel",
+            "en": "Enchiridion"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Toute la discipline d'Épictète porte sur les <c>impressions</c> (phantasiai) : elles s'imposent à nous du dehors, matériau sensible que nous ne choisissons pas, mais le travail propre du sage est leur usage et l'assentiment qu'on leur accorde ou qu'on leur refuse. La source du matériau est empirique ; la connaissance droite tient à la rectitude du jugement qui le trie, ce qui maintient Épictète du côté de l'expérience sans abolir la part de la raison.",
+          "en": "Epictetus' whole discipline bears on <c>impressions</c> (phantasiai): they impose themselves on us from outside, sensory material we do not choose, but the sage's proper work is their use and the assent one grants or withholds. The source of the material is empirical; right knowledge depends on the correctness of the judgment that sorts it, which keeps Epictetus on the side of experience without abolishing the share of reason."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, I, 27 et II, 18",
+            "en": "Discourses, I, 27 and II, 18"
+          },
+          {
+            "fr": "Manuel, 1 et 5",
+            "en": "Enchiridion, 1 and 5"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CONTROL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le tort de tout malheur, soutient Épictète, est d'attendre son bonheur de choses qui ne sont pas en notre pouvoir. De là le geste premier, qui ouvre le <w id='enchiridion-epictetus'>Manuel</w> : trier nos affaires en deux classes selon le seul critère de la maîtrise, ce qui relève entièrement de nous (jugements, désirs, aversions) et ce qui n'en relève pas (corps, biens, réputation). La <c id='dichotomy-of-control'>dichotomie</c> n'est pas une thèse parmi d'autres mais l'opération qui conditionne toute la suite : tout <stk>trouble</stk> naît d'avoir réclamé une prise sur ce qui nous échappe. Là où les anciens stoïciens parlaient surtout du <c>destin</c> cosmique, Épictète ramène le partage à l'usage concret, ici et maintenant, de ce qui m'appartient en propre.",
+          "en": "The root of all unhappiness, Epictetus argues, is to expect one's happiness from things that are not in our power. Hence the opening move of the <w id='enchiridion-epictetus'>Enchiridion</w>: sorting our concerns into two classes by the single criterion of mastery, what is wholly up to us (judgments, desires, aversions) and what is not (body, goods, reputation). The <c id='dichotomy-of-control'>dichotomy</c> is not one thesis among others but the operation that conditions everything that follows: all <stk>disturbance</stk> arises from having claimed a hold on what eludes us. Where the older Stoics dwelt on cosmic <c>fate</c>, Epictetus brings the division down to the concrete use, here and now, of what is properly mine."
+        },
+        "quote": {
+          "text": {
+            "fr": "Il y a des choses qui dépendent de nous et d'autres qui n'en dépendent pas.",
+            "en": "Some things are within our power, while others are not."
+          },
+          "source": {
+            "fr": "Manuel, §1",
+            "en": "Enchiridion, §1"
+          }
+        },
+        "references": [
+          {
+            "fr": "Manuel, §1",
+            "en": "Enchiridion, §1"
+          },
+          {
+            "fr": "Entretiens, I, 1",
+            "en": "Discourses, I.1"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Ancien esclave, Épictète déplace toute la question de la liberté hors des chaînes et des maîtres : on peut entraver mon corps, me jeter en prison, m'exiler, mais nul, pas même Zeus, ne peut contraindre mon <c id='synkatathesis'>assentiment</c>. La liberté réelle se loge dans le seul lieu que rien d'extérieur n'atteint, la <c id='prohairesis'>prohairesis</c>, la faculté de juger et de vouloir. D'où une position <c id='compatibilism'>compatibiliste</c> tranchée : le cours du monde obéit au <c>destin</c>, mais l'usage que je fais de mes représentations reste inaliénablement mien. Contre l'idée commune qui mesure la liberté à l'absence d'obstacles, il soutient qu'un homme enchaîné peut être libre et un tyran esclave de ses désirs.",
+          "en": "A former slave, Epictetus relocates the whole question of freedom outside chains and masters: my body may be fettered, I may be jailed or exiled, but no one, not even Zeus, can compel my <c id='synkatathesis'>assent</c>. Real freedom lodges in the one place nothing external can reach, the <c id='prohairesis'>prohairesis</c>, the faculty of judging and willing. Hence a sharp <c id='compatibilism'>compatibilist</c> stance: the course of the world obeys <c>fate</c>, yet the use I make of my impressions stays inalienably mine. Against the common notion that measures freedom by the absence of obstacles, he holds that a man in chains can be free and a tyrant a slave to his desires."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, I, 1",
+            "en": "Discourses, I.1"
+          },
+          {
+            "fr": "Entretiens, I, 17",
+            "en": "Discourses, I.17"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.2,
+          0.8
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le bien réside exclusivement dans la <c>vertu</c>, c'est-à-dire dans le bon usage des <c id='phantasia'>représentations</c> et de la volonté : c'est le perfectionnisme moral stoïcien. La dimension <c id='eudaimonism'>eudémoniste</c> demeure, car cette <c>vertu</c> est aussi la voie de la sérénité (<c id='ataraxia'>ataraxie</c>), mais le plaisir n'est jamais le critère.",
+          "en": "The good resides exclusively in <c>virtue</c>, that is, in the right use of <c id='phantasia'>impressions</c> and of the will: this is Stoic moral perfectionism. A <c id='eudaimonism'>eudaimonist</c> dimension remains, since this <c>virtue</c> is also the path to serenity (<c id='ataraxia'>ataraxia</c>), but pleasure is never the criterion."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, I, 29",
+            "en": "Discourses, I.29"
+          },
+          {
+            "fr": "Manuel, §8",
+            "en": "Enchiridion, §8"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.2,
+          0.8
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Désir et aversion visent à obtenir ou à éviter : portés sur ce qui ne dépend pas de nous, ils nous vouent à manquer notre but et à subir ce que nous fuyons, donc au malheur. La première des trois disciplines, celle du désir, consiste à les rétracter de tout l'extérieur pour ne plus désirer que ce qui est en notre pouvoir, en attendant que le progrès rende le désir sûr. Pour le débutant, Épictète va jusqu'à recommander de suspendre tout désir et de n'user que de l'aversion, et encore seulement à l'égard de ce qui dépend de nous. Un tri raisonné des <c id='adiaphora'>indifférents</c> préférables subsiste en arrière-plan, mais la pente vécue est celle d'un détachement à l'égard de tout ce que la fortune peut reprendre.",
+          "en": "Desire and aversion aim at attaining or avoiding: directed at what is not up to us, they doom us to miss our aim and to suffer what we flee, hence to unhappiness. The first of the three disciplines, that of desire, is to withdraw them from everything external so as to desire only what is in our power, until progress makes desire safe. For the beginner Epictetus goes so far as to recommend suspending desire altogether and using only aversion, and that solely toward what depends on us. A reasoned sorting of the preferred <c id='adiaphora'>indifferents</c> remains in the background, but the lived tendency is detachment from all that fortune can take back."
+        },
+        "quote": {
+          "text": {
+            "fr": "Ne demande pas que les choses arrivent comme tu le veux, mais veuille qu'elles arrivent comme elles arrivent, et tu seras heureux.",
+            "en": "Do not ask that things happen as you wish, but wish them to happen as they do, and your life will go well."
+          },
+          "source": {
+            "fr": "Manuel, §8",
+            "en": "Enchiridion, §8"
+          }
+        },
+        "references": [
+          {
+            "fr": "Manuel, §2",
+            "en": "Enchiridion, §2"
+          },
+          {
+            "fr": "Manuel, §8",
+            "en": "Enchiridion, §8"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "PAST_RELATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'acceptation aimante de ce qui arrive est une prescription centrale : vouloir que les événements soient comme ils sont, et non comme nous les voudrions. C'est la matrice stoïcienne de <c id='amor-fati'>l'amor fati</c>.",
+          "en": "Loving acceptance of what happens is a central prescription: to will that events be as they are, not as we would have them. This is the Stoic matrix of <c id='amor-fati'>amor fati</c>."
+        },
+        "references": [
+          {
+            "fr": "Manuel, §8",
+            "en": "Enchiridion, §8"
+          },
+          {
+            "fr": "Entretiens, II, 14",
+            "en": "Discourses, II.14"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Toute passion enveloppe un jugement de valeur sur une chose extérieure, du type « ceci est un mal » : c'est ce jugement, non l'événement, qui constitue le <dif>trouble</dif>. Le pas décisif est d'imputer la passion à l'opinion plutôt qu'à la chose : si une émotion repose sur un jugement, et qu'un jugement peut être révisé, alors aucune passion n'est subie comme une fatalité, toutes sont corrigibles par la <c>raison</c>. Épictète en tire une conséquence éthique inhabituelle : ne jamais accuser autrui ni les circonstances de notre malaise, mais l'usage que nous faisons de nos <c id='phantasia'>représentations</c>. La <c>colère</c>, l'affliction, la peur ne sont pas des forces étrangères à dompter mais des assentiments précipités à retirer.",
+          "en": "Every passion contains a value judgment about some external thing, of the form \"this is bad\": it is that judgment, not the event, that constitutes the <dif>disturbance</dif>. The decisive step is to charge the passion to opinion rather than to the thing: if an emotion rests on a judgment, and a judgment can be revised, then no passion is suffered as a fate, all are correctable by <c>reason</c>. Epictetus draws an unusual ethical corollary: never to blame others or circumstances for our distress, but the use we make of our <c id='phantasia'>impressions</c>. <c>Anger</c>, grief and fear are not alien forces to be subdued but hasty assents to be withdrawn."
+        },
+        "quote": {
+          "text": {
+            "fr": "Ce ne sont pas les choses qui troublent les hommes, mais les jugements qu'ils portent sur les choses.",
+            "en": "Men are disturbed not by things, but by the opinions about things."
+          },
+          "source": {
+            "fr": "Manuel, §5",
+            "en": "Enchiridion, §5"
+          }
+        },
+        "references": [
+          {
+            "fr": "Manuel, §5",
+            "en": "Enchiridion, §5"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.8,
+          0.2,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le monde est ordonné par une <c id='providence'>providence</c> rationnelle et chaque être y a un rôle assigné, que la raison permet de reconnaître et d'accomplir. Une part de construction demeure, car c'est à chacun de bien jouer le rôle reçu, comme un acteur sa pièce.",
+          "en": "The world is ordered by a rational <c id='providence'>providence</c> and every being has an assigned role in it, which reason allows us to recognize and fulfill. A constructive part remains, since it falls to each of us to play the received role well, like an actor in a play."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, I, 16",
+            "en": "Discourses, I.16"
+          },
+          {
+            "fr": "Manuel, §17",
+            "en": "Enchiridion, §17"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Épictète affirme constamment l'existence d'un dieu providentiel, raison immanente du monde, qu'il célèbre dans un véritable hymne de gratitude. Ce théisme est panthéiste et cosmique plutôt que personnel, ce qui retient d'un score extrême.",
+          "en": "Epictetus constantly affirms the existence of a providential god, the immanent reason of the world, whom he celebrates in a genuine hymn of gratitude. This theism is pantheistic and cosmic rather than personal, which holds the score back from the extreme."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, I, 16",
+            "en": "Discourses, I.16"
+          },
+          {
+            "fr": "Entretiens, I, 6",
+            "en": "Discourses, I.6"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "BELONGING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Reprenant le cosmopolitisme cynique et stoïcien, Épictète invite à se dire citoyen du monde et fils de Zeus plutôt que citoyen d'une cité particulière. Les appartenances locales subsistent comme rôles à honorer, d'où une position forte mais non extrême.",
+          "en": "Taking up Cynic and Stoic cosmopolitanism, Epictetus invites us to call ourselves citizens of the world and sons of Zeus rather than citizens of a particular city. Local attachments remain as roles to honor, hence a strong but not extreme position."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, I, 9",
+            "en": "Discourses, I.9"
+          },
+          {
+            "fr": "Entretiens, II, 10",
+            "en": "Discourses, II.10"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.1,
+          0.9,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Pour Épictète, le seul bien est la <c>vertu</c>, comprise comme le bon usage des <c id='phantasia'>représentations</c> : la valeur morale tient tout entière dans l'état du caractère et de la <c id='prohairesis'>prohairesis</c>, non dans les conséquences ni dans une règle extérieure. C'est une éthique de la <c>vertu</c> au sens strict, avec une mince part déontologique dans l'idée d'accomplir fidèlement les devoirs liés à ses rôles.",
+          "en": "For Epictetus the only good is <c>virtue</c>, understood as the right use of <c id='phantasia'>impressions</c>: moral worth lies entirely in the state of the character and of the <c id='prohairesis'>prohairesis</c>, not in consequences nor in an external rule. It is a <c>virtue</c> ethics in the strict sense, with a thin deontological strand in the idea of faithfully discharging the duties attached to one's roles."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, I, 29",
+            "en": "Discourses, I.29"
+          },
+          {
+            "fr": "Manuel, §30",
+            "en": "Enchiridion, §30"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Comme tout stoïcien, Épictète est <c id='dogmatism'>dogmatique</c> face au <c id='skepticism'>scepticisme</c> académique : il existe un critère de vérité, la <c id='kataleptic-impression'>représentation compréhensive</c> (<c>phantasia katalēptikē</c>), et le <c id='the-sage'>sage</c> (<c>sophos</c>) peut donner ou refuser son <c id='synkatathesis'>assentiment</c> en connaissance de cause. Il raille ouvertement ceux qui prétendent ne rien pouvoir affirmer.",
+          "en": "Like every Stoic, Epictetus is <c id='dogmatism'>dogmatic</c> against Academic <c id='skepticism'>skepticism</c>: a criterion of truth exists, the <c id='kataleptic-impression'>cognitive impression</c> (<c>phantasia katalēptikē</c>), and the <c id='the-sage'>wise person</c> (<c>sophos</c>) can grant or withhold <c id='synkatathesis'>assent</c> advisedly. He openly mocks those who claim nothing can be asserted."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, I, 5 (contre les Académiciens)",
+            "en": "Discourses, I.5 (Against the Academics)"
+          },
+          {
+            "fr": "Entretiens, I, 27",
+            "en": "Discourses, I.27"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ATTENTION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si la passion vient d'un <c id='synkatathesis'>assentiment</c> précipité donné à une <c id='phantasia'>représentation</c>, alors c'est à l'instant où la représentation se présente, et non après coup, que tout se joue. De là la nécessité d'une attention continue à soi, la <c>prosochē</c> : interroger sans relâche chaque impression, « attends-moi un peu, laisse-moi voir qui tu es », pour ne jamais accorder mécaniquement son assentiment. Cette discipline de la vigilance, recueillement permanent sur la <c id='hegemonikon'>faculté maîtresse</c>, est ce qu'Épictète substitue à une morale de règles : non un code à appliquer mais un examen de chaque seconde, à l'opposé de la dispersion où l'âme suit ses impressions sans les filtrer.",
+          "en": "If passion comes from a hasty <c id='synkatathesis'>assent</c> granted to an <c id='phantasia'>impression</c>, then everything is decided at the moment the impression appears, not afterward. Hence the need for continuous attention to oneself, <c>prosochē</c>: relentlessly questioning each impression, \"wait for me a little, let me see who you are\", so as never to assent mechanically. This discipline of vigilance, a standing recollection upon the <c id='hegemonikon'>ruling faculty</c>, is what Epictetus puts in place of a morality of rules: not a code to apply but a scrutiny of every second, the opposite of the dispersion in which the soul follows its impressions unfiltered."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, IV, 12 (De l'attention)",
+            "en": "Discourses, IV.12 (On attention)"
+          },
+          {
+            "fr": "Manuel, §4",
+            "en": "Enchiridion, §4"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SELF_INTEREST",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La doctrine stoïcienne de l'<c id='oikeiosis'>oikeiōsis</c> élargit le souci de soi à tous les êtres raisonnables, faisant du bien d'autrui une part du mien. Épictète n'oppose pas intérêt propre et bien commun : bien jouer ses rôles sociaux, c'est servir le tout, d'où une position altruiste mais sans sacrifice de soi.",
+          "en": "The Stoic doctrine of <c id='oikeiosis'>oikeiōsis</c> widens concern for oneself to all rational beings, making another's good a part of my own. Epictetus does not oppose self-interest and the common good: playing one's social roles well is to serve the whole, hence an altruistic position that yet involves no self-sacrifice."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, II, 10 (Des rôles)",
+            "en": "Discourses, II.10 (On our stations)"
+          },
+          {
+            "fr": "Entretiens, I, 19",
+            "en": "Discourses, I.19"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "PARTIALITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le cosmopolitisme stoïcien fonde une égale considération pour tout être raisonnable, fils du même Zeus. Mais Épictète insiste aussi sur les devoirs particuliers attachés aux rôles (père, fils, citoyen), ce qui tempère l'impartialisme : une impartialité de principe vécue à travers des attaches concrètes.",
+          "en": "Stoic cosmopolitanism grounds equal regard for every rational being, a child of the same Zeus. Yet Epictetus also stresses the particular duties attached to roles (father, son, citizen), which tempers the impartialism: an impartiality of principle lived through concrete attachments."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, II, 10",
+            "en": "Discourses, II.10"
+          },
+          {
+            "fr": "Entretiens, III, 24",
+            "en": "Discourses, III.24"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.9,
+          0,
+          0.1
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La morale repose sur la <c>nature</c> : le même <c id='logos'>logos</c> habite tous les hommes, et vivre selon la nature, c'est-à-dire selon la <c>raison</c>, est une norme universelle et non conventionnelle. C'est un universalisme réaliste, fondé sur la loi divine du monde.",
+          "en": "Morality rests on <c>nature</c>: the same <c id='logos'>logos</c> dwells in all human beings, and to live according to nature, that is, according to <c>reason</c>, is a universal and non-conventional norm. This is a realist universalism, grounded in the divine law of the world."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, I, 11",
+            "en": "Discourses, I.11"
+          },
+          {
+            "fr": "Entretiens, II, 16",
+            "en": "Discourses, II.16"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'épreuve a une valeur d'entraînement : les difficultés sont les adversaires que la <c id='providence'>providence</c> nous envoie pour révéler et fortifier notre caractère, comme à l'athlète. La souffrance, bien utilisée, est féconde.",
+          "en": "Hardship has the value of training: difficulties are the opponents <c id='providence'>providence</c> sends us to reveal and strengthen our character, as for the athlete. Suffering, rightly used, is fruitful."
+        },
+        "quote": {
+          "text": {
+            "fr": "Ce sont les circonstances difficiles qui montrent les hommes.",
+            "en": "It is difficulties that show what men are."
+          },
+          "source": {
+            "fr": "Entretiens, I, 24",
+            "en": "Discourses, I.24"
+          }
+        },
+        "references": [
+          {
+            "fr": "Entretiens, I, 24 (Comment lutter contre les difficultés)",
+            "en": "Discourses, I.24 (How to struggle against difficulties)"
+          },
+          {
+            "fr": "Entretiens, I, 6",
+            "en": "Discourses, I.6"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HOPE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Espérance et crainte portent toutes deux sur l'avenir, qui ne dépend pas de nous : Épictète enseigne à ne désirer que ce qui est en notre pouvoir et à accueillir le reste, sans suspendre son bonheur à l'attente anxieuse d'un futur incertain. C'est une lucidité sereine plutôt qu'une espérance.",
+          "en": "Hope and fear both bear on the future, which is not up to us: Epictetus teaches us to desire only what is in our power and to welcome the rest, without hanging happiness on the anxious expectation of an uncertain future. This is a serene lucidity rather than a principle of hope."
+        },
+        "references": [
+          {
+            "fr": "Manuel, §2",
+            "en": "Enchiridion, §2"
+          },
+          {
+            "fr": "Entretiens, II, 16",
+            "en": "Discourses, II.16"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "BODILY_PLEASURES",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le corps et le plaisir sont des <c id='adiaphora'>indifférents</c> : il faut user des biens extérieurs avec mesure, ne s'y attacher que comme on use d'auberges de passage, et différer le plaisir pour s'assurer qu'on en reste maître. Une ascèse modérée, sans condamnation absolue du plaisir.",
+          "en": "The body and pleasure are <c id='adiaphora'>indifferents</c>: one should use external goods with measure, attach to them only as one uses a passing inn, and defer pleasure to make sure one remains its master. A moderate asceticism, with no absolute condemnation of pleasure."
+        },
+        "references": [
+          {
+            "fr": "Manuel, §11 et §34",
+            "en": "Enchiridion, §11 and §34"
+          },
+          {
+            "fr": "Manuel, §33",
+            "en": "Enchiridion, §33"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SINCERITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le progressant doit être d'une intégrité sans faille, accordant ses actes à ses jugements et ne se parant pas de ce qu'il n'est pas. Cette exigence de cohérence intérieure penche nettement vers un rigorisme de la vérité.",
+          "en": "The one making progress must be of unfailing integrity, matching deeds to judgments and not adorning oneself with what one is not. This demand for inner consistency leans clearly toward a rigorism of truthfulness."
+        },
+        "quote": {
+          "text": {
+            "fr": "Ne dis jamais que tu es philosophe : sois-le.",
+            "en": "On no occasion call yourself a philosopher: be one."
+          },
+          "source": {
+            "fr": "Manuel, §46",
+            "en": "Enchiridion, §46"
+          }
+        },
+        "references": [
+          {
+            "fr": "Manuel, §46",
+            "en": "Enchiridion, §46"
+          },
+          {
+            "fr": "Manuel, §48",
+            "en": "Enchiridion, §48"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.7, 0.1, 0.2, 0]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La mort « n'est rien de terrible », mais une opinion qui la rend telle : c'est un événement naturel, le retour des éléments au tout, qu'il faut tenir devant les yeux chaque jour sans le craindre. Le ton rejoint la sérénité épicurienne face à la mort, avec une coloration cosmique stoïcienne plutôt qu'une véritable immortalité personnelle.",
+          "en": "Death \"is nothing terrible\", but is the opinion about it that makes it so: it is a natural event, the return of the elements to the whole, to be kept daily before one's eyes without fear. The tone meets the Epicurean serenity toward death, with a Stoic cosmic coloring rather than any genuine personal immortality."
+        },
+        "references": [
+          {
+            "fr": "Manuel, §5 et §21",
+            "en": "Enchiridion, §5 and §21"
+          },
+          {
+            "fr": "Entretiens, III, 24",
+            "en": "Discourses, III.24"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MACHINE_MIND",
+      "status": "NOT_APPLICABLE",
+      "note": {
+        "fr": "Question anachronique : le corpus d'Épictète ne contient rien qui permette de le positionner sur la pensée des machines sans extrapolation hasardeuse.",
+        "en": "An anachronistic question: Epictetus's corpus contains nothing that would allow positioning him on machine thought without hazardous extrapolation."
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "CONTROL_SCOPE",
+      "thesis": {
+        "fr": "Partage d'abord tes affaires en deux : <c id='dichotomy-of-control'>ce qui dépend de toi</c> et ce qui n'en dépend pas, car tout le malheur vient d'avoir confondu les deux.",
+        "en": "First divide your concerns in two: <c id='dichotomy-of-control'>what is up to you</c> and what is not, for all unhappiness comes from having confused the two."
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "thesis": {
+        "fr": "Ce ne sont pas les choses qui nous troublent, mais nos <c id='synkatathesis'>jugements</c> sur les choses : changeons le jugement et la passion tombe.",
+        "en": "It is not things that disturb us but our <c id='synkatathesis'>judgments</c> about them: change the judgment and the passion falls away."
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "thesis": {
+        "fr": "On peut enchaîner mon corps, jamais ma <c id='prohairesis'>volonté</c> : nul, pas même Zeus, ne peut contraindre mon <c id='synkatathesis'>assentiment</c>.",
+        "en": "My body may be chained, never my <c id='prohairesis'>will</c>: no one, not even Zeus, can compel my <c id='synkatathesis'>assent</c>."
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "thesis": {
+        "fr": "Ne désire que ce qui dépend de toi : porté sur le reste, le désir te voue à manquer ton but et à subir ce que tu fuis.",
+        "en": "Desire only what is up to you: fixed on anything else, desire dooms you to miss your aim and to suffer what you flee."
+      }
+    },
+    {
+      "axisId": "ATTENTION",
+      "thesis": {
+        "fr": "À chaque <c id='phantasia'>représentation</c>, dis-lui « laisse-moi voir qui tu es » : la sagesse est une <c>attention</c> de tous les instants, jamais relâchée.",
+        "en": "To every <c id='phantasia'>impression</c> say \"let me see who you are\": wisdom is an <c>attention</c> kept at every instant, never relaxed."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

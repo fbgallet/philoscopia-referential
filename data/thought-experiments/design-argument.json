@@ -1,0 +1,88 @@
+{
+  "id": "design-argument",
+  "title": {
+    "fr": "La montre et l'horloger",
+    "en": "The Watch and the Watchmaker"
+  },
+  "description": {
+    "fr": "Vous traversez une lande déserte et trouvez une montre par terre. Jamais vous ne croiriez qu'elle s'est assemblée seule : tant de rouages ajustés à une fin trahissent une main qui les a conçus. Or, remarque Paley, l'œil qui voit, l'aile qui porte, l'ordre des astres sont des mécanismes mille fois plus subtils. Comment tant d'ordre, de beauté et de complexité, jusque dans le réglage si précis des lois de l'univers, pourraient-ils exister sans avoir été voulus ?",
+    "en": "You are crossing a deserted heath and find a watch lying on the ground. You would never believe it had assembled itself: so many gears fitted to a purpose betray a hand that designed them. Now, Paley observes, the eye that sees, the wing that carries, the order of the stars are mechanisms a thousand times more intricate. How could so much order, beauty and complexity, down to the fine tuning of the laws of the universe, exist without having been intended?"
+  },
+  "source": {
+    "author": {
+      "fr": "Paley",
+      "en": "Paley"
+    },
+    "work": {
+      "fr": "Théologie naturelle",
+      "en": "Natural Theology"
+    },
+    "year": 1802
+  },
+  "question": {
+    "fr": "Cet ordre admirable prouve-t-il un créateur qui l'a conçu, ou une apparence de dessein peut-elle naître de processus aveugles, sans aucune intention ?",
+    "en": "Does this admirable order prove a creator who designed it, or can an appearance of design arise from blind processes, with no intention at all?"
+  },
+  "axisIds": ["GOD_EXISTENCE", "COSMIC_OUTLOOK"],
+  "options": [
+    {
+      "id": "designed-order",
+      "label": {
+        "fr": "Un tel agencement ne peut être le fruit du hasard : l'œil, le vivant, l'ordre du ciel supposent un auteur qui les a conçus à dessein.",
+        "en": "Such an arrangement cannot be the work of chance: the eye, the living world, the order of the heavens presuppose an author who designed them on purpose."
+      },
+      "hints": [
+        { "axisId": "GOD_EXISTENCE", "value": { "kind": "scalar", "value": -1 } },
+        { "axisId": "COSMIC_OUTLOOK", "value": { "kind": "scalar", "value": -0.5 }, "weight": 0.5 }
+      ],
+      "discussion": {
+        "fr": "l'argument du dessein ; chez <ph id='aquinas'>Thomas d'Aquin</ph>, c'est la cinquième voie.",
+        "en": "the design argument; in <ph id='aquinas'>Aquinas</ph>, this is the fifth way."
+      }
+    },
+    {
+      "id": "fine-tuning",
+      "label": {
+        "fr": "L'ajustement si précis du monde à la vie rend un concepteur plus probable que le hasard, même si ce n'est pas une preuve.",
+        "en": "The world's precise fitness for life makes a designer more probable than chance, even if it is no proof."
+      },
+      "hints": [
+        { "axisId": "GOD_EXISTENCE", "value": { "kind": "scalar", "value": -0.5 } }
+      ],
+      "discussion": {
+        "fr": "l'argument contemporain du réglage fin : les constantes de l'univers semblent accordées pour que la vie soit possible.",
+        "en": "the contemporary fine-tuning argument: the constants of the universe seem tuned to make life possible."
+      }
+    },
+    {
+      "id": "weak-analogy",
+      "label": {
+        "fr": "L'analogie est trop faible pour conclure : le monde n'est pas une horloge, et il compte autant de désordre et de gâchis que d'harmonie.",
+        "en": "The analogy is too weak to conclude: the world is not a watch, and it holds as much disorder and waste as harmony."
+      },
+      "hints": [
+        { "axisId": "GOD_EXISTENCE", "value": { "kind": "scalar", "value": 0 } },
+        { "axisId": "COSMIC_OUTLOOK", "value": { "kind": "scalar", "value": 0.5 }, "weight": 0.5 }
+      ],
+      "discussion": {
+        "fr": "<ph id='hume'>Hume</ph> : comparer l'univers à une machine est un saut hasardeux, et le mal du monde dément sa prétendue perfection.",
+        "en": "<ph id='hume'>Hume</ph>: comparing the universe to a machine is a risky leap, and the world's evils belie its supposed perfection."
+      }
+    },
+    {
+      "id": "blind-selection",
+      "label": {
+        "fr": "Ce qui semble conçu peut naître sans dessein : des variations aveugles, triées par la survie, suffisent à produire l'apparence d'une fin.",
+        "en": "What looks designed can arise without design: blind variations, sifted by survival, suffice to produce the appearance of purpose."
+      },
+      "hints": [
+        { "axisId": "GOD_EXISTENCE", "value": { "kind": "scalar", "value": 1 } }
+      ],
+      "discussion": {
+        "fr": "l'évolution par sélection naturelle (<per>Darwin</per>, <per>Dawkins</per>) explique l'ordre du vivant sans recourir à une intention.",
+        "en": "evolution by natural selection (<per>Darwin</per>, <per>Dawkins</per>) explains the order of life without appealing to any intention."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-26T00:00:00.000Z"
+}

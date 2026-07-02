@@ -1,0 +1,12 @@
+{
+  "id": "ressentiment",
+  "term": { "fr": "Ressentiment", "en": "Ressentiment" },
+  "definition": {
+    "fr": "Le ressentiment désigne, chez <ph id='nietzsche'>Nietzsche</ph>, la rancune impuissante de qui, ne pouvant ni agir ni se venger réellement, retourne sa frustration en une vengeance imaginaire. Incapable d'affirmer sa propre force, il dévalue celle des autres et invente des valeurs qui condamnent ce qu'il ne peut atteindre. C'est cette inversion des valeurs qui se trouve, pour lui, à la racine de la morale des esclaves.",
+    "en": "Ressentiment names, in <ph id='nietzsche'>Nietzsche</ph>, the impotent rancour of those who, unable to act or take real revenge, turn their frustration into an imaginary one. Incapable of affirming their own strength, they devalue the strength of others and invent values that condemn what they cannot reach. This inversion of values lies, for him, at the root of slave morality."
+  },
+  "relatedAxes": ["ETHICS_FOUNDATION", "SELF_INTEREST", "EMOTIONS"],
+  "relatedTerms": [],
+  "figure": { "slug": "nietzsche", "name": { "fr": "Nietzsche", "en": "Nietzsche" } },
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

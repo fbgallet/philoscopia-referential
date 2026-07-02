@@ -1,0 +1,219 @@
+{
+  "id": "ESSENCE",
+  "relation": "SELF",
+  "territory": "IDENTITY_FREEDOM",
+  "label": {
+    "fr": "Essence et existence",
+    "en": "Essence and existence"
+  },
+  "question": {
+    "fr": "Avons-nous une nature qui nous précède, ou devenons-nous ce que nous choisissons d'être ?",
+    "en": "Do we have a nature that precedes us, or do we become what we choose to be?"
+  },
+  "stakes": {
+    "fr": "Si une nature nous précède, il y a une manière de nous accomplir ou de nous trahir, mais notre liberté a des bornes ; si nous nous inventons, tout devient possible, mais rien ne nous guide ni ne nous excuse. Se positionner, c'est dire ce que nous devons à ce qui nous est donné, et ce dont nous sommes seuls responsables.",
+    "en": "If a nature precedes us, there is a way to fulfil ourselves or to betray ourselves, but our freedom has limits; if we invent ourselves, everything becomes possible, but nothing guides us and nothing excuses us. To take a position is to say what we owe to what is given to us, and what we alone are answerable for."
+  },
+  "layer": "THEORY",
+  "type": "BIPOLAR",
+  "poles": [
+    {
+      "id": "ESSENTIALISM",
+      "label": {
+        "fr": "Essentialisme",
+        "en": "Essentialism"
+      },
+      "description": {
+        "fr": "Chaque être a une essence qui précède et définit son existence : il y a une nature humaine, avec ses fins propres. Bien vivre, c'est accomplir ce que cette nature appelle, comme la graine accomplit la plante.",
+        "en": "Every being has an essence that precedes and defines its existence: there is a human nature, with its own ends. Living well means fulfilling what this nature calls for, as the seed fulfills the plant."
+      },
+      "figures": [
+        {
+          "slug": "plato",
+          "name": {
+            "fr": "Platon",
+            "en": "Plato"
+          }
+        },
+        {
+          "slug": "aristotle",
+          "name": {
+            "fr": "Aristote",
+            "en": "Aristotle"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EXISTENTIALISM",
+      "label": {
+        "fr": "Existentialisme",
+        "en": "Existentialism"
+      },
+      "description": {
+        "fr": "L'existence précède l'essence : l'être humain n'est d'abord rien de défini, il se fait par ses choix et ses actes. Aucune nature ne nous assigne un destin, et invoquer une essence pour justifier ce que l'on est relève de la mauvaise foi.",
+        "en": "Existence precedes essence: a human being is at first nothing definite and makes itself through its choices and actions. No nature assigns us a destiny, and invoking an essence to justify what one is amounts to bad faith."
+      },
+      "figures": [
+        {
+          "slug": "sartre",
+          "name": {
+            "fr": "Sartre",
+            "en": "Sartre"
+          }
+        },
+        {
+          "slug": "beauvoir",
+          "name": {
+            "fr": "Beauvoir",
+            "en": "Beauvoir"
+          }
+        }
+      ]
+    }
+  ],
+  "core": true,
+  "difficulty": 2,
+  "clusters": [],
+  "relatedAxes": [
+    "SOCIAL_IDENTITY",
+    "UNIVERSALS",
+    "FREEDOM",
+    "HUMAN_NATURE",
+    "SELF_NATURE"
+  ],
+  "problems": [
+    {
+      "id": "nature-or-excuse",
+      "resolution": "SURFACED",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "une personne qui invoque sa nature", "en": "a person appealing to their nature" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "mauvaise foi", "en": "bad faith" },
+        { "fr": "« je suis comme ça »", "en": "\"that's how I am\"" },
+        { "fr": "responsabilité", "en": "responsibility" }
+      ],
+      "poles": ["ESSENTIALISM", "EXISTENTIALISM"],
+      "anchors": [
+        { "name": { "fr": "Sartre", "en": "Sartre" }, "kind": "PHILOSOPHER", "slug": "sartre" },
+        { "name": { "fr": "Beauvoir", "en": "Beauvoir" }, "kind": "PHILOSOPHER", "slug": "beauvoir" }
+      ],
+      "title": { "fr": "« C'est ma nature » : vérité ou excuse ?", "en": "\"It's my nature\": truth or excuse?" },
+      "explicitation": {
+        "fr": "Invoquer sa nature, « je suis comme ça, je ne peux pas changer », est-ce reconnaître honnêtement ce qu'on est, ou se donner une excuse pour fuir ce dont on reste responsable ?",
+        "en": "To appeal to one's nature, \"that's how I am, I can't change,\" is it an honest acknowledgment of what one is, or an excuse to flee what one remains answerable for?"
+      },
+      "ref": { "kind": "THOUGHT_EXPERIMENT", "id": "its-my-nature" }
+    },
+    {
+      "id": "find-or-invent-self",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "se réaliser", "en": "self-realization" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "authenticité", "en": "authenticity" },
+        { "fr": "« sois toi-même »", "en": "\"be yourself\"" },
+        { "fr": "deviens ce que tu es", "en": "become who you are" }
+      ],
+      "poles": ["ESSENTIALISM", "EXISTENTIALISM"],
+      "anchors": [
+        { "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" },
+        { "name": { "fr": "Sartre", "en": "Sartre" }, "kind": "PHILOSOPHER", "slug": "sartre" }
+      ],
+      "title": { "fr": "Se trouver, ou s'inventer ?", "en": "Finding oneself, or inventing oneself?" },
+      "explicitation": {
+        "fr": "L'injonction « sois toi-même » est elle-même partagée : se réaliser, est-ce mettre au jour un soi déjà là, ou s'inventer librement ? La formule « deviens ce que tu es » tente de tenir les deux.",
+        "en": "The injunction \"be yourself\" is itself divided: is self-realization bringing to light a self already there, or freely inventing one? \"Become who you are\" tries to hold both at once."
+      }
+    },
+    {
+      "id": "nature-and-norm",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "une nature humaine", "en": "a human nature" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "téléologie", "en": "teleology" },
+        { "fr": "fonction", "en": "function" },
+        { "fr": "de l'être au devoir", "en": "is–ought" },
+        { "fr": "loi naturelle", "en": "natural law" }
+      ],
+      "poles": ["ESSENTIALISM"],
+      "anchors": [
+        { "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" },
+        { "name": { "fr": "Hume", "en": "Hume" }, "kind": "PHILOSOPHER", "slug": "hume" }
+      ],
+      "title": { "fr": "Une nature qui oblige ?", "en": "A nature that binds?" },
+      "explicitation": {
+        "fr": "À supposer que nous ayons une nature, nous dit-elle comment vivre ? Connaître ce que nous sommes suffit-il à fixer ce que nous devons devenir, ou y a-t-il un saut de l'un à l'autre ?",
+        "en": "Supposing we have a nature, does it tell us how to live? Does knowing what we are settle what we ought to become, or is there a leap from the one to the other?"
+      }
+    },
+    {
+      "id": "origin-of-essence",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "l'essence des choses", "en": "the essence of things" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "universaux", "en": "universals" },
+        { "fr": "nominalisme", "en": "nominalism" },
+        { "fr": "plan divin", "en": "divine plan" }
+      ],
+      "poles": ["ESSENTIALISM", "EXISTENTIALISM"],
+      "anchors": [
+        { "name": { "fr": "Sartre", "en": "Sartre" }, "kind": "PHILOSOPHER", "slug": "sartre" },
+        { "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" }
+      ],
+      "doorways": [{ "axis": "UNIVERSALS" }],
+      "title": { "fr": "D'où vient l'essence des choses ?", "en": "Where does the essence of things come from?" },
+      "explicitation": {
+        "fr": "Si les choses ont une essence, d'où la tiennent-elles : d'un plan qui les conçoit avant qu'elles soient, de la nature elle-même, d'une convention de notre esprit, ou de rien ?",
+        "en": "If things have an essence, where do they get it: from a plan that conceives them before they exist, from nature itself, from a convention of our minds, or from nothing?"
+      }
+    },
+    {
+      "id": "natural-or-constructed-categories",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "les catégories d'identité", "en": "identity categories" },
+      "mode": "DESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "genre", "en": "gender" },
+        { "fr": "race", "en": "race" },
+        { "fr": "construction sociale", "en": "social construction" }
+      ],
+      "doorways": [{ "axis": "SOCIAL_IDENTITY" }],
+      "title": { "fr": "Genre, race : nature ou construction ?", "en": "Gender, race: nature or construction?" },
+      "explicitation": {
+        "fr": "Les grandes catégories d'identité, le genre, la race, sont-elles ancrées dans une nature, ou des constructions historiques qu'on prend pour des natures ?",
+        "en": "Are the great categories of identity, gender, race, anchored in a nature, or historical constructions we mistake for natures?"
+      }
+    },
+    {
+      "id": "is-there-human-nature",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "la nature humaine", "en": "human nature" },
+      "mode": "DESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "nature humaine", "en": "human nature" },
+        { "fr": "inné et acquis", "en": "nature and nurture" }
+      ],
+      "doorways": [{ "axis": "HUMAN_NATURE" }],
+      "title": { "fr": "Y a-t-il une nature humaine ?", "en": "Is there a human nature?" },
+      "explicitation": {
+        "fr": "Nos conduites s'expliquent-elles d'abord par une nature humaine partagée, ou par la culture qui nous façonne ?",
+        "en": "Are our behaviors explained first by a shared human nature, or by the culture that shapes us?"
+      }
+    }
+  ]
+}

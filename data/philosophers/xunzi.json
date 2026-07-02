@@ -1,0 +1,26 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "xunzi",
+  "stub": true,
+  "name": {
+    "fr": "Xunzi",
+    "en": "Xunzi"
+  },
+  "summary": {
+    "fr": "Penseur <mv id='confucianism'>confucéen</mv>, contrepoint de <ph id='mencius'>Mencius</ph>, pour qui la nature humaine est mauvaise et le bien s'acquiert par le rite et l'éducation.",
+    "en": "<mv id='confucianism'>Confucian</mv> thinker, the counterpoint to <ph id='mencius'>Mencius</ph>, for whom human nature is bad and the good is acquired through ritual and education."
+  },
+  "birth": -310,
+  "death": -235,
+  "nationality": {
+    "fr": "Chinois",
+    "en": "Chinese"
+  },
+  "movements": [
+    "confucianism"
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

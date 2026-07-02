@@ -1,0 +1,26 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "engels",
+  "stub": true,
+  "name": {
+    "fr": "Friedrich Engels",
+    "en": "Friedrich Engels"
+  },
+  "summary": {
+    "fr": "Philosophe et théoricien allemand, proche collaborateur de <ph id='marx'>Marx</ph> et coauteur du Manifeste, artisan du <mv id='marxism'>matérialisme historique</mv>.",
+    "en": "German philosopher and theorist, close collaborator of <ph id='marx'>Marx</ph> and co-author of the Manifesto, a shaper of <mv id='marxism'>historical materialism</mv>."
+  },
+  "birth": 1820,
+  "death": 1895,
+  "nationality": {
+    "fr": "Allemand",
+    "en": "German"
+  },
+  "movements": [
+    "marxism"
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

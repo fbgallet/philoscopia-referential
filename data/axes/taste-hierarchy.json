@@ -1,0 +1,75 @@
+{
+  "id": "TASTE_HIERARCHY",
+  "relation": "WORLD",
+  "territory": "AESTHETICS",
+  "label": {
+    "fr": "Hiérarchie des goûts",
+    "en": "Hierarchy of tastes"
+  },
+  "question": {
+    "fr": "Existe-t-il des plaisirs esthétiques supérieurs à d'autres, ou toute hiérarchie des goûts est-elle une construction sociale ?",
+    "en": "Are some aesthetic pleasures higher than others, or is every hierarchy of taste a social construction?"
+  },
+  "stakes": {
+    "fr": "Une symphonie vaut-elle vraiment mieux qu'une chanson populaire, ou le « bon goût » n'est-il que celui des dominants déguisé en universel ? Admettre des plaisirs plus hauts permet d'élever et d'éduquer, mais peut mépriser les joies des autres ; tout mettre sur un pied d'égalité respecte chacun, mais interdit de dire qu'une œuvre en vaut une autre. Se positionner, c'est dire si l'on peut juger les goûts sans seulement imposer le sien.",
+    "en": "Is a symphony really worth more than a pop song, or is \"good taste\" merely the taste of the dominant dressed up as universal? Admitting higher pleasures lets us uplift and educate, but can despise others' joys; putting all tastes on an equal footing respects everyone, but forbids ever saying one work is greater. To take a position is to say whether we can judge taste without simply imposing our own."
+  },
+  "layer": "THEORY",
+  "type": "BIPOLAR",
+  "poles": [
+    {
+      "id": "TASTE_ELITISM",
+      "label": {
+        "fr": "Élitisme du goût",
+        "en": "Elitism of taste"
+      },
+      "description": {
+        "fr": "Tous les goûts ne se valent pas : des juges qualifiés, formés et sensibles, reconnaissent la vraie beauté, et certains plaisirs sont qualitativement supérieurs à d'autres. Le kitsch et le raffinement ne sont pas sur le même plan.",
+        "en": "Not all tastes are equal: qualified judges, trained and sensitive, recognize true beauty, and some pleasures are qualitatively higher than others. Kitsch and refinement are not on the same level."
+      },
+      "figures": [
+        {
+          "slug": "hume",
+          "name": {
+            "fr": "Hume",
+            "en": "Hume"
+          }
+        },
+        {
+          "slug": "mill",
+          "name": {
+            "fr": "Mill",
+            "en": "Mill"
+          }
+        }
+      ]
+    },
+    {
+      "id": "TASTE_EGALITARIANISM",
+      "label": {
+        "fr": "Égalitarisme du goût",
+        "en": "Egalitarianism of taste"
+      },
+      "description": {
+        "fr": "La hiérarchie des goûts n'a rien de naturel : elle traduit des rapports de classe. La culture dite légitime est une domination déguisée en mérite esthétique, et aucun plaisir n'est intrinsèquement supérieur à un autre.",
+        "en": "The hierarchy of tastes is in no way natural: it expresses relations of class. So-called legitimate culture is domination disguised as aesthetic merit, and no pleasure is intrinsically higher than another."
+      },
+      "figures": [
+        {
+          "slug": "bourdieu",
+          "name": {
+            "fr": "Bourdieu",
+            "en": "Bourdieu"
+          }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 2,
+  "clusters": [],
+  "relatedAxes": [
+    "AESTHETIC_LIFE",
+    "BEAUTY"
+  ]
+}

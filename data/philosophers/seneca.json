@@ -1,0 +1,1037 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "seneca",
+  "name": {
+    "fr": "Sénèque",
+    "en": "Seneca"
+  },
+  "fullName": {
+    "fr": "Lucius Annaeus Seneca",
+    "en": "Lucius Annaeus Seneca"
+  },
+  "tagline": {
+    "fr": "Conseiller des puissants et maître de sagesse : faire de chaque épreuve un exercice de <c>vertu</c>.",
+    "en": "Counsellor of the powerful and master of wisdom: turning every hardship into an exercise of <c>virtue</c>."
+  },
+  "summary": {
+    "fr": "Figure majeure du <mv id='stoicism'>stoïcisme</mv> impérial, né à Cordoue vers l'an 4 avant notre ère, Sénèque fut sénateur, dramaturge et homme d'affaires fortuné avant d'être le précepteur puis le ministre de Néron, qui finit par lui ordonner de se donner la mort. Héritier du <mv id='stoicism'>Portique</mv> de Zénon et de Chrysippe, il déplace la philosophie de la théorie vers la cure de l'âme : ses <w id='on-providence-seneca'>dialogues</w> et surtout ses <w id='letters-to-lucilius-seneca'>Lettres à Lucilius</w> sont des exercices spirituels destinés à transformer celui qui les lit. Contre l'objection qu'il prêche la sagesse depuis le luxe et le pouvoir, il assume l'écart entre le sage idéal et le <c>progressant</c> qu'il dit être. Modèle de prose morale, sa pensée a nourri les Pères de l'Église, les essayistes de la Renaissance et le néostoïcisme moderne.",
+    "en": "A leading figure of imperial <mv id='stoicism'>Stoicism</mv>, born at Córdoba around 4 BCE, Seneca was a senator, playwright and wealthy man of affairs before becoming tutor and then minister to Nero, who eventually ordered him to take his own life. Heir to the <mv id='stoicism'>Stoa</mv> of Zeno and Chrysippus, he shifts philosophy from theory toward the cure of the soul: his <w id='on-providence-seneca'>dialogues</w>, and above all his <w id='letters-to-lucilius-seneca'>Letters to Lucilius</w>, are spiritual exercises meant to transform their reader. Against the charge that he preaches wisdom from amid luxury and power, he owns the gap between the ideal sage and the <c>one still making progress</c> he calls himself. A model of moral prose, his thought fed the Church Fathers, the Renaissance essayists and modern neo-Stoicism."
+  },
+  "birth": -4,
+  "death": 65,
+  "nationality": {
+    "fr": "Romain",
+    "en": "Roman"
+  },
+  "movements": [
+    "stoicism"
+  ],
+  "entries": [
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Sénèque partage l'essentialisme stoïcien : l'homme possède une nature rationnelle, étincelle du <c>logos</c>, et la sagesse consiste à la porter à son achèvement. La nature a déposé en chacun les semences de la vertu ; les développer, non se créer de rien, est la tâche de l'existence.",
+          "en": "Seneca shares the Stoic essentialism: the human being possesses a rational nature, a spark of the <c>logos</c>, and wisdom consists in bringing it to completion. Nature has placed the seeds of virtue in everyone; to develop them, not to create oneself from nothing, is the task of existence."
+        },
+        "references": [
+          {
+            "fr": "Lettres à Lucilius, 76 et 120",
+            "en": "Letters to Lucilius, 76 and 120"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CONTROL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le <stk>malheur ne vient pas des choses mais de notre prise sur elles</stk> : seul peut nous être arraché ce que nous tenons à tort pour nôtre. De là Sénèque tire la <c id='dichotomy-of-control'>dichotomie du contrôle</c> : ne compter pour siens que ses jugements et ses désirs, abandonner la fortune au hasard qui la donne et la reprend. C'est moins une thèse spéculative qu'une consigne pratique, qui rend <c id='the-sage'>le sage</c> invulnérable en réduisant la surface qu'il offre aux coups : ce qu'il porte en lui, nulle fortune ne le touche.",
+          "en": "<stk>Misfortune comes not from things but from our grip on them</stk>: only what we wrongly count as ours can be torn away. From this Seneca draws the <c id='dichotomy-of-control'>dichotomy of control</c>: to count as one's own only one's judgements and desires, surrendering fortune to the chance that gives and reclaims it. Less a speculative thesis than a practical directive, it makes <c id='the-sage'>the wise man</c> invulnerable by shrinking the surface he offers to blows: what he carries within, no fortune can reach."
+        },
+        "references": [
+          {
+            "fr": "Lettres à Lucilius, IX (le sage se suffit à lui-même)",
+            "en": "Letters to Lucilius, IX (the wise man is self-sufficient)"
+          },
+          {
+            "fr": "De la constance du sage, V-VI",
+            "en": "On the Constancy of the Wise Man, V-VI"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Toutes les pertes du sage sont sans dommage, car il porte tout son bien en lui-même.",
+            "en": "The wise man loses nothing through any loss, for he carries all his goods within himself."
+          },
+          "source": {
+            "fr": "De la constance du sage, V",
+            "en": "On the Constancy of the Wise Man, V"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.35,
+          0.65
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le <c>souverain bien</c> est la <c>vertu</c>, seule véritablement bonne ; le bonheur (<c id='eudaimonism'>vie heureuse</c>) en découle, jamais l'inverse. Les biens extérieurs sont des <c id='adiaphora'>indifférents</c> : ni la richesse, ni la santé, ni le plaisir n'entrent dans le bien. Le perfectionnement moral prime donc nettement sur tout épanouissement reçu de la fortune.",
+          "en": "The <c>sovereign good</c> is <c>virtue</c>, the only thing truly good; happiness (<c id='eudaimonism'>the happy life</c>) follows from it, never the reverse. External goods are <c id='adiaphora'>indifferents</c>: neither wealth, nor health, nor pleasure belongs to the good. Moral perfection thus clearly outweighs any flourishing received from fortune."
+        },
+        "references": [
+          {
+            "fr": "De la vie heureuse, IV-VII (la vertu seule est bonne)",
+            "en": "On the Happy Life, IV-VII (virtue alone is good)"
+          },
+          {
+            "fr": "Lettres à Lucilius, LXXVI (le seul bien est l'honnête)",
+            "en": "Letters to Lucilius, LXXVI (the only good is the honourable)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Le souverain bien est une âme qui méprise les choses du hasard et se réjouit de la vertu.",
+            "en": "The highest good is a mind that despises the gifts of chance and takes joy in virtue."
+          },
+          "source": {
+            "fr": "De la vie heureuse, IV",
+            "en": "On the Happy Life, IV"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si une passion comme la colère est un <c id='synkatathesis'>assentiment</c> de la raison à l'idée qu'on a subi un tort et qu'il faut se venger, alors elle n'est pas une force étrangère qui assiège l'âme, mais l'âme elle-même qui se trompe. D'où la conséquence que Sénèque oppose aux <ph id='aristotle'>péripatéticiens</ph> : une passion ne se <dif>modère</dif> pas, car une fois l'assentiment donné la raison a déjà cédé tout entière ; il faut la prévenir au seuil, en refusant le premier mouvement, pour viser l'<c id='apatheia'>apatheia</c> (absence de passions) plutôt qu'un juste milieu. Cet <ax id='EMOTIONS'>intellectualisme</ax> fait de la thérapie des affects une discipline du jugement.",
+          "en": "If a passion such as anger is an <c id='synkatathesis'>assent</c> of reason to the idea that one has been wronged and must take revenge, then it is no alien force besieging the soul but the soul itself going astray. Hence the consequence Seneca turns against the <ph id='aristotle'>Peripatetics</ph>: a passion cannot be <dif>moderated</dif>, for once assent is given reason has already wholly given way; it must be forestalled at the threshold by refusing the first movement, aiming at <c id='apatheia'>apatheia</c> (the absence of passions) rather than at a mean. This <ax id='EMOTIONS'>intellectualism</ax> makes the therapy of the affects a discipline of judgement."
+        },
+        "references": [
+          {
+            "fr": "De la colère, I, 8 et II, 1-4 (la colère, jugement et assentiment)",
+            "en": "On Anger, I, 8 and II, 1-4 (anger as judgement and assent)"
+          },
+          {
+            "fr": "Lettres à Lucilius, CXVI (faut-il modérer les passions ou les retrancher ?)",
+            "en": "Letters to Lucilius, CXVI (should the passions be moderated or rooted out?)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Il est plus aisé d'écarter les passions dangereuses que de les régler.",
+            "en": "It is easier to banish dangerous passions than to govern them."
+          },
+          "source": {
+            "fr": "De la colère, I, 7",
+            "en": "On Anger, I, 7"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.3,
+          0.7
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le bonheur vient de la limitation des désirs aux biens nécessaires et naturels. Sénèque prône le <c>détachement</c> à l'égard de la fortune et des biens superflus, tout en accordant une <c id='adiaphora'>sélection raisonnée</c> des préférables, qu'on peut accueillir sans s'y attacher.",
+          "en": "Happiness comes from limiting desire to necessary and natural goods. Seneca preaches <c>detachment</c> from fortune and superfluous goods, while granting a <c id='adiaphora'>reasoned selection</c> of preferred indifferents, which may be welcomed without attachment."
+        },
+        "references": [
+          {
+            "fr": "Lettres à Lucilius, II (n'est pauvre que qui désire davantage)",
+            "en": "Letters to Lucilius, II (only the one who craves more is poor)"
+          },
+          {
+            "fr": "Lettres à Lucilius, XVI et CX (les désirs naturels et nécessaires)",
+            "en": "Letters to Lucilius, XVI and CX (natural and necessary desires)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Ce n'est pas l'homme qui a peu qui est pauvre, mais celui qui désire davantage.",
+            "en": "It is not the man who has little, but the one who craves more, that is poor."
+          },
+          "source": {
+            "fr": "Lettres à Lucilius, II",
+            "en": "Letters to Lucilius, II"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "PAST_RELATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.95
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Puisque le destin adviendra de toute façon, la seule chose qui dépende de nous est de l'accompagner ou de nous y traîner : le même cours des choses nous mène, mais notre assentiment décide s'il est joug ou liberté. Sénèque pousse donc le stoïcisme au-delà de la simple résignation : non subir ce qui arrive, mais le vouloir, parce que la <c id='providence'>providence</c> l'a réglé pour le bien du tout. Cet <c id='amor-fati'>amour du destin</c> transforme la nécessité en objet de désir, et la seconde tristesse, celle de regimber contre l'inévitable, est la seule qu'on puisse s'épargner.",
+          "en": "Since fate will come to pass regardless, the one thing in our power is to walk with it or be dragged behind it: the same course of things leads us, but our assent decides whether it is a yoke or freedom. Seneca thus pushes Stoicism past mere resignation: not to endure what happens but to will it, because <c id='providence'>providence</c> has ordered it for the good of the whole. This <c id='amor-fati'>love of fate</c> turns necessity into an object of desire, and the second grief, that of struggling against the inevitable, is the only one we can spare ourselves."
+        },
+        "references": [
+          {
+            "fr": "Lettres à Lucilius, CVII (ducunt volentem fata, citant Cléanthe)",
+            "en": "Letters to Lucilius, CVII (ducunt volentem fata, quoting Cleanthes)"
+          },
+          {
+            "fr": "De la vie heureuse, XV (obéir à Dieu, c'est la liberté)",
+            "en": "On the Happy Life, XV (to obey God is freedom)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Les destins conduisent celui qui consent et traînent celui qui résiste.",
+            "en": "Fate leads the willing and drags the unwilling."
+          },
+          "source": {
+            "fr": "Lettres à Lucilius, CVII",
+            "en": "Letters to Lucilius, CVII"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.85, 0.15, 0, 0]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La mort n'étant que le terme naturel d'un emprunt rendu à la nature, le <stk>mal n'est pas en elle mais dans la crainte qu'on en a</stk>, crainte qui asservit toute la vie à son ombre. Sénèque renverse alors la peur en instrument de liberté : qui s'exerce chaque jour à mourir, et tient pour ouverte la porte de la sortie volontaire, ne peut plus être contraint par rien ni par personne. La méditation de la mort n'est donc pas morbide mais émancipatrice, et elle vaut moins pour l'au-delà, qu'il n'attend pas, que pour rendre au présent tout son prix.",
+          "en": "Since death is but the natural term of a loan repaid to nature, the <stk>evil lies not in it but in the fear of it</stk>, a fear that enslaves a whole life to its shadow. Seneca then turns that fear into an instrument of freedom: whoever rehearses dying each day, and holds the door of voluntary exit open, can no longer be coerced by anything or anyone. The meditation on death is thus not morbid but emancipatory, and it matters less for an afterlife, which he does not expect, than for restoring to the present its full worth."
+        },
+        "references": [
+          {
+            "fr": "Lettres à Lucilius, XXVI et LXX (s'exercer à la mort)",
+            "en": "Letters to Lucilius, XXVI and LXX (rehearsing death)"
+          },
+          {
+            "fr": "Lettres à Lucilius, IV (méditer la mort, c'est méditer la liberté)",
+            "en": "Letters to Lucilius, IV (to rehearse death is to rehearse freedom)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Celui qui a appris à mourir a désappris à servir.",
+            "en": "He who has learned how to die has unlearned how to be a slave."
+          },
+          "source": {
+            "fr": "Lettres à Lucilius, XXVI",
+            "en": "Letters to Lucilius, XXVI"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TIME_ORIENTATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.85,
+          0.1,
+          0.05
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La plainte courante sur la brièveté de la vie repose, selon le <w id='on-the-shortness-of-life-seneca'>De la brièveté de la vie</w>, sur une erreur de comptable : nous n'avons pas reçu peu de temps, nous en perdons beaucoup. L'argument déplace le <pb>problème du destin vers l'usage</pb> : les affairés, esclaves de mille occupations, n'ont jamais vécu, car ils renvoient sans cesse leur vie à plus tard. Seul le présent nous appartient en propre, le passé étant fixé et l'avenir incertain ; revendiquer son temps comme on défend un bien, c'est cesser de le brader et commencer enfin à vivre.",
+          "en": "The common lament over the shortness of life rests, according to <w id='on-the-shortness-of-life-seneca'>On the Shortness of Life</w>, on an accounting error: we have not been given little time, we waste a great deal of it. The argument shifts the <pb>problem from fate to use</pb>: the preoccupied, slaves to a thousand engagements, have never lived, for they keep deferring their life to later. Only the present is properly ours, the past being fixed and the future uncertain; to claim one's time as one defends a possession is to stop squandering it and to begin, at last, to live."
+        },
+        "references": [
+          {
+            "fr": "De la brièveté de la vie, I-III et XIV (nous gaspillons le temps)",
+            "en": "On the Shortness of Life, I-III and XIV (we squander time)"
+          },
+          {
+            "fr": "Lettres à Lucilius, I (revendique pour toi ton propre temps)",
+            "en": "Letters to Lucilius, I (claim your own time for yourself)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Ce n'est pas que nous ayons peu de temps, c'est que nous en perdons beaucoup.",
+            "en": "It is not that we have a short time to live, but that we waste much of it."
+          },
+          "source": {
+            "fr": "De la brièveté de la vie, I",
+            "en": "On the Shortness of Life, I"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Tout est régi par l'enchaînement du destin et la nécessité de la <c id='providence'>providence</c>. La liberté n'est pas de s'y soustraire mais d'y consentir par la raison, ce qui relève d'un <c id='compatibilism'>compatibilisme</c> stoïcien : la nécessité cosmique laisse intacte la liberté intérieure de l'assentiment.",
+          "en": "Everything is governed by the chain of fate and the necessity of <c id='providence'>providence</c>. Freedom does not lie in escaping it but in consenting to it through reason, a Stoic <c id='compatibilism'>compatibilism</c>: cosmic necessity leaves the inner freedom of assent intact."
+        },
+        "references": [
+          {
+            "fr": "De la providence, V (Dieu lui-même est lié par la nécessité qu'il a une fois posée)",
+            "en": "On Providence, V (God himself is bound by the necessity he once laid down)"
+          },
+          {
+            "fr": "Questions naturelles, II, 35-38 (le destin et l'ordre des causes)",
+            "en": "Natural Questions, II, 35-38 (fate and the order of causes)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Le créateur et maître de toutes choses a lui-même écrit les destins, mais il les suit : il a commandé une fois, il obéit toujours.",
+            "en": "The maker and ruler of all things himself wrote the decrees of fate, but he follows them: he ordained once, he obeys forever."
+          },
+          "source": {
+            "fr": "De la providence, V",
+            "en": "On Providence, V"
+          }
+        },
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Dieu n'est pas un être personnel séparé du monde mais la raison immanente qui ordonne le tout, identifiable au destin, à la <c id='providence'>providence</c> et à la nature. C'est un théisme panthéiste stoïcien, qui affirme une divinité providentielle tout en la confondant avec l'ordre du monde.",
+          "en": "God is not a personal being separate from the world but the immanent reason that orders the whole, identifiable with fate, <c id='providence'>providence</c> and nature. A Stoic pantheist theism, affirming a providential divinity while merging it with the order of the world."
+        },
+        "references": [
+          {
+            "fr": "Questions naturelles, II, 45 (les noms de Dieu : destin, providence, nature)",
+            "en": "Natural Questions, II, 45 (the names of God: fate, providence, nature)"
+          },
+          {
+            "fr": "Lettres à Lucilius, XLI (Dieu est près de toi, en toi)",
+            "en": "Letters to Lucilius, XLI (God is near you, within you)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Veux-tu l'appeler destin ? tu ne te tromperas pas. Veux-tu l'appeler providence ? tu parleras juste. Veux-tu l'appeler nature ? tu ne pécheras pas.",
+            "en": "Would you call it fate? You will not be wrong. Would you call it providence? You will speak rightly. Would you call it nature? You will not sin."
+          },
+          "source": {
+            "fr": "Questions naturelles, II, 45",
+            "en": "Natural Questions, II, 45"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le divin n'est pas un au-delà mais une présence intérieure. La raison divine (<c id='logos'>logos</c>) pénètre toute la nature et l'âme humaine en est une parcelle, conception nettement immanente du sacré.",
+          "en": "The divine is not a beyond but an inner presence. The divine reason (<c id='logos'>logos</c>) pervades all of nature and the human soul is a fragment of it, a markedly immanent conception of the sacred."
+        },
+        "references": [
+          {
+            "fr": "Lettres à Lucilius, XLI (un esprit sacré réside en nous)",
+            "en": "Letters to Lucilius, XLI (a sacred spirit dwells within us)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Un esprit sacré réside en nous, observateur et gardien de nos biens et de nos maux.",
+            "en": "A sacred spirit dwells within us, the observer and guardian of our good and our evil."
+          },
+          "source": {
+            "fr": "Lettres à Lucilius, XLI",
+            "en": "Letters to Lucilius, XLI"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.85,
+          0.15,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le monde est un cosmos ordonné par une raison (<c id='logos'>logos</c>) providentielle, et le sens de la vie humaine est de vivre conformément à cette nature rationnelle. La fin de l'homme, parcelle du tout divin, est inscrite dans l'ordre des choses : une <c>téléologie</c> cosmique fonde la morale.",
+          "en": "The world is a cosmos ordered by a providential reason (<c id='logos'>logos</c>), and the meaning of human life is to live in accordance with that rational nature. Man's end, as a fragment of the divine whole, is inscribed in the order of things: a cosmic <c>teleology</c> grounds ethics."
+        },
+        "references": [
+          {
+            "fr": "De la vie heureuse, III (vivre selon la nature)",
+            "en": "On the Happy Life, III (living according to nature)"
+          },
+          {
+            "fr": "De la providence, I et V (l'ordre providentiel du monde)",
+            "en": "On Providence, I and V (the providential order of the world)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Au <pb>problème du juste qui souffre</pb> (pourquoi la <c id='providence'>providence</c> laisse-t-elle le malheur frapper les gens de bien ?), Sénèque répond en niant la prémisse : ce qui paraît un mal n'en est pas un, car la <c>vertu</c> ne se prouve et ne se forge que sous l'épreuve, comme le soldat à l'exercice ou le pilote dans la tempête. L'adversité cesse alors d'être à supporter pour devenir à désirer : le dieu n'épargne pas ceux qu'il aime, il les éprouve, et l'homme de bien doit lutter contre l'infortune comme l'athlète contre un adversaire à sa mesure. La souffrance n'est ni absurde ni rédemptrice en soi : elle est l'occasion sans laquelle la grandeur d'âme resterait inemployée.",
+          "en": "To the <pb>problem of the suffering of the just</pb> (why does <c id='providence'>providence</c> let misfortune strike good people?), Seneca answers by denying the premise: what looks like an evil is none, for <c>virtue</c> is proved and forged only under trial, like the soldier at drill or the pilot in the storm. Adversity then ceases to be something to endure and becomes something to desire: the god does not spare those he loves but tests them, and the good man must wrestle misfortune as an athlete wrestles a worthy opponent. Suffering is neither absurd nor redemptive in itself: it is the occasion without which greatness of soul would lie unused."
+        },
+        "references": [
+          {
+            "fr": "De la providence, II-IV (l'adversité, exercice de la vertu)",
+            "en": "On Providence, II-IV (adversity as the exercise of virtue)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Le malheur est l'occasion de la vertu.",
+            "en": "Misfortune is virtue's opportunity."
+          },
+          "source": {
+            "fr": "De la providence, IV",
+            "en": "On Providence, IV"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HOPE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Sénèque, citant Hécaton, lie l'espoir à la crainte comme deux affects corrélés tournés vers l'avenir. <c id='the-sage'>Le sage</c> vit dans le présent et la nécessité acceptée plutôt que dans l'attente anxieuse d'un sort meilleur, ce qui le porte vers la lucidité sans espérance, sans nihilisme.",
+          "en": "Citing Hecato, Seneca ties hope to fear as two correlated affects turned toward the future. <c id='the-sage'>The sage</c> lives in the present and in accepted necessity rather than in the anxious expectation of a better lot, leaning toward lucidity without hope, though without nihilism."
+        },
+        "references": [
+          {
+            "fr": "Lettres à Lucilius, V (cesse d'espérer et tu cesseras de craindre)",
+            "en": "Letters to Lucilius, V (cease to hope and you will cease to fear)"
+          },
+          {
+            "fr": "Lettres à Lucilius, XIII (nous souffrons plus par l'imagination que par la réalité)",
+            "en": "Letters to Lucilius, XIII (we suffer more in imagination than in reality)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Cesse d'espérer et tu cesseras de craindre... ces deux affects marchent du même pas : l'inquiétude suit l'espérance.",
+            "en": "Cease to hope and you will cease to fear... the two march in step: anxiety follows hope."
+          },
+          "source": {
+            "fr": "Lettres à Lucilius, V",
+            "en": "Letters to Lucilius, V"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "BELONGING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Sénèque distingue deux cités : celle, restreinte, de notre naissance, et la grande cité commune aux hommes et aux dieux, mesurée par le cours du soleil. Tout homme est notre concitoyen au titre de la raison partagée, la nature nous ayant faits parents : un <ax id='BELONGING'>cosmopolitisme</ax> fondé sur l'<c id='oikeiosis'>appropriation</c> stoïcienne.",
+          "en": "Seneca distinguishes two commonwealths: the narrow one of our birth, and the great city common to gods and men, measured by the course of the sun. Every human is our fellow citizen by virtue of shared reason, nature having made us kin: a <ax id='BELONGING'>cosmopolitanism</ax> grounded in Stoic <c id='oikeiosis'>appropriation</c>."
+        },
+        "references": [
+          {
+            "fr": "De la tranquillité de l'âme, IV (les deux républiques)",
+            "en": "On the Tranquillity of the Mind, IV (the two commonwealths)"
+          },
+          {
+            "fr": "Lettres à Lucilius, XCV, 52-53 (la nature nous a faits parents)",
+            "en": "Letters to Lucilius, XCV, 52-53 (nature made us kin)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Nous sommes membres d'un grand corps... la nature nous a faits parents, nous engendrant des mêmes principes et pour les mêmes fins.",
+            "en": "We are members of one great body... nature made us kin, begetting us from the same principles and for the same ends."
+          },
+          "source": {
+            "fr": "Lettres à Lucilius, XCV",
+            "en": "Letters to Lucilius, XCV"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.1,
+          0.9,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La morale de Sénèque se règle sur la <c>vertu</c> et le caractère du <c id='the-sage'>sage</c>, non sur un calcul des conséquences ni sur une règle impérative. Vivre selon la nature et la raison, cultiver le courage, la tempérance et la justice : c'est une <ax id='ETHICS_FOUNDATION'>éthique de la vertu</ax>, où le bien est l'excellence de l'âme.",
+          "en": "Seneca's ethics is regulated by <c>virtue</c> and the character of the <c id='the-sage'>sage</c>, not by a reckoning of consequences nor by an imperative rule. To live according to nature and reason, cultivating courage, temperance and justice: this is a <ax id='ETHICS_FOUNDATION'>virtue ethics</ax>, where the good is the excellence of the soul."
+        },
+        "references": [
+          {
+            "fr": "Lettres à Lucilius, LXXVI et CXX (la vertu, seul bien et fin de la vie)",
+            "en": "Letters to Lucilius, LXXVI and CXX (virtue, the only good and the end of life)"
+          },
+          {
+            "fr": "De la vie heureuse, VIII-IX (la vertu suffit au bonheur)",
+            "en": "On the Happy Life, VIII-IX (virtue suffices for happiness)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "BODILY_PLEASURES",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le plaisir n'est pas le bien : confondre vie heureuse et vie de plaisir, c'est abaisser l'homme au rang des bêtes. Sénèque recommande une vie sobre, l'endurance volontaire de la faim et du froid, et tient le plaisir corporel pour un <c id='adiaphora'>indifférent</c> à ne pas rechercher pour lui-même, sans verser dans une mortification absolue.",
+          "en": "Pleasure is not the good: to confuse the happy life with a life of pleasure is to sink man to the level of beasts. Seneca commends a sober life, the voluntary endurance of hunger and cold, and holds bodily pleasure to be an <c id='adiaphora'>indifferent</c> not to be sought for its own sake, without lapsing into outright mortification."
+        },
+        "references": [
+          {
+            "fr": "De la vie heureuse, X-XV (contre l'assimilation du bonheur au plaisir)",
+            "en": "On the Happy Life, X-XV (against equating happiness with pleasure)"
+          },
+          {
+            "fr": "Lettres à Lucilius, XVIII et CXXIII (s'exercer à la frugalité)",
+            "en": "Letters to Lucilius, XVIII and CXXIII (rehearsing frugality)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HUMAN_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'homme est par nature un être de raison, fait pour vivre selon le <c id='logos'>logos</c> et pour la société de ses semblables : la vertu accomplit cette nature, elle ne la contrarie pas. Les vices et passions viennent d'une raison dévoyée plutôt que d'une seconde nature culturelle, position naturaliste.",
+          "en": "Man is by nature a being of reason, made to live according to the <c id='logos'>logos</c> and for the society of his fellows: virtue fulfils that nature, it does not thwart it. Vices and passions stem from a reason gone astray rather than from a cultural second nature, a naturalist position."
+        },
+        "references": [
+          {
+            "fr": "Lettres à Lucilius, LXXVI (le bien propre de l'homme est la raison)",
+            "en": "Letters to Lucilius, LXXVI (man's proper good is reason)"
+          },
+          {
+            "fr": "De la colère, II, 31 (l'homme est né pour l'entraide)",
+            "en": "On Anger, II, 31 (man is born for mutual aid)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SELF_INTEREST",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.5
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'<c id='oikeiosis'>appropriation</c> stoïcienne étend le souci de soi à tous les hommes : nés pour l'entraide, nous devons à autrui bienfaisance, clémence et secours. La <c id='generosity'>bienfaisance</c> (De beneficiis) et la douceur envers le genre humain portent Sénèque vers l'altruisme, sans nier que la vertu reste d'abord un perfectionnement de soi.",
+          "en": "Stoic <c id='oikeiosis'>appropriation</c> extends self-concern to all humans: born for mutual aid, we owe others kindness, clemency and help. <c id='generosity'>Beneficence</c> (On Benefits) and gentleness toward humankind draw Seneca toward altruism, without denying that virtue remains first a perfecting of oneself."
+        },
+        "references": [
+          {
+            "fr": "Des bienfaits, I, 1-4 (la pratique du don désintéressé)",
+            "en": "On Benefits, I, 1-4 (the practice of disinterested giving)"
+          },
+          {
+            "fr": "De la colère, II, 31 (nous sommes nés pour l'entraide)",
+            "en": "On Anger, II, 31 (we are born for mutual aid)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "PUNISHMENT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.45,
+          0.55,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Dans le <w>De clementia</w> adressé à Néron, et dans le <w id='on-anger-seneca'>De la colère</w>, Sénèque refuse la vengeance : on punit non parce qu'on a péché mais pour qu'on ne pèche plus, en regardant l'avenir, non le passé. Le châtiment vise la correction du coupable et la dissuasion d'autrui, jamais la satisfaction d'une colère rétributive.",
+          "en": "In <w>On Clemency</w>, addressed to Nero, and in <w id='on-anger-seneca'>On Anger</w>, Seneca rejects vengeance: one punishes not because a wrong has been done but so that none be done again, looking to the future, not the past. Punishment aims at correcting the offender and deterring others, never at satisfying a retributive anger."
+        },
+        "references": [
+          {
+            "fr": "De la colère, I, 16 et 19 (punir pour corriger, non pour se venger)",
+            "en": "On Anger, I, 16 and 19 (punishing to correct, not to avenge)"
+          },
+          {
+            "fr": "De la clémence, I (la clémence du prince)",
+            "en": "On Clemency, I (the clemency of the prince)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Nul homme sensé ne punit parce qu'on a péché, mais afin qu'on ne pèche plus.",
+            "en": "No wise man punishes because a wrong has been done, but so that no wrong be done again."
+          },
+          "source": {
+            "fr": "De la colère, I, 19 (citant Platon)",
+            "en": "On Anger, I, 19 (citing Plato)"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "FORGIVENESS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La clémence, vertu maîtresse du prince, dispose à la douceur dans la fixation des peines et à l'indulgence envers la faute d'autrui, par grandeur d'âme plutôt que par mérite du coupable. Cette inclination à excuser et à comprendre les errements humains penche vers une remise inconditionnelle, fondée sur la magnanimité du <c id='the-sage'>sage</c>.",
+          "en": "Clemency, the prince's master virtue, disposes one to gentleness in setting penalties and to indulgence toward another's fault, from greatness of soul rather than from the offender's desert. This inclination to excuse and to understand human failings leans toward an unconditional remission, grounded in the magnanimity of the <c id='the-sage'>sage</c>."
+        },
+        "references": [
+          {
+            "fr": "De la clémence, II, 3-7 (la clémence, inclination de l'âme à la douceur)",
+            "en": "On Clemency, II, 3-7 (clemency, the soul's inclination to gentleness)"
+          },
+          {
+            "fr": "De la colère, II, 28-34 (être indulgent, car nous faillissons tous)",
+            "en": "On Anger, II, 28-34 (being indulgent, for we all err)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Sénèque pratique et prescrit l'<c>examen de conscience</c> quotidien : chaque soir, faire comparaître son âme devant elle-même pour juger ses actes du jour. La philosophie est d'abord un soin de soi, un retour réflexif sur la vie intérieure, même s'il n'exclut pas l'action publique.",
+          "en": "Seneca practises and prescribes a daily <c>examination of conscience</c>: each evening, to summon one's soul before itself to judge the day's deeds. Philosophy is first a care of the self, a reflexive return upon the inner life, even if it does not exclude public action."
+        },
+        "references": [
+          {
+            "fr": "De la colère, III, 36 (l'examen de conscience du soir)",
+            "en": "On Anger, III, 36 (the evening examination of conscience)"
+          },
+          {
+            "fr": "Lettres à Lucilius, XVI et XXVIII (la philosophie comme soin de l'âme)",
+            "en": "Letters to Lucilius, XVI and XXVIII (philosophy as care of the soul)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Chaque jour je plaide ma cause devant moi-même... Quel défaut as-tu guéri aujourd'hui ?",
+            "en": "Every day I plead my cause before myself... What fault of yours have you cured today?"
+          },
+          "source": {
+            "fr": "De la colère, III, 36",
+            "en": "On Anger, III, 36"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "COSMIC_OUTLOOK",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'univers est gouverné par une <c id='providence'>providence</c> rationnelle et bienveillante : tout ce qui arrive concourt au bien du tout, et ce qui paraît un mal n'est qu'une épreuve ou une apparence. Cette confiance dans l'ordre divin du monde relève d'un optimisme métaphysique, loin de toute vision tragique d'un cosmos indifférent.",
+          "en": "The universe is governed by a rational and benevolent <c id='providence'>providence</c>: all that happens conduces to the good of the whole, and what seems an evil is but a trial or an appearance. This trust in the divine order of the world is a metaphysical optimism, far from any tragic vision of an indifferent cosmos."
+        },
+        "references": [
+          {
+            "fr": "De la providence, I-II (rien de mal ne peut arriver à l'homme de bien)",
+            "en": "On Providence, I-II (nothing evil can befall a good man)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "En stoïcien, Sénèque tient pour acquis qu'une connaissance vraie du monde et du bien est possible : la nature est rationnelle et la sagesse atteignable. Mais il revendique sa liberté à l'égard des écoles, jugeant les opinions par lui-même, ne se donnant à aucun maître, ce qui tempère le dogmatisme stoïcien d'un esprit éclectique.",
+          "en": "As a Stoic, Seneca takes it as settled that a true knowledge of the world and of the good is possible: nature is rational and wisdom is attainable. Yet he claims freedom from the schools, judging opinions for himself and binding himself to no master, which tempers the Stoic dogmatism with an eclectic mind."
+        },
+        "references": [
+          {
+            "fr": "Lettres à Lucilius, XII et XLV (juger par soi-même, ne jurer sur aucun maître)",
+            "en": "Letters to Lucilius, XII and XLV (judging for oneself, swearing by no master)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "INDIVIDUAL_SOCIETY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'homme est né pour la communauté et l'entraide : nous sommes les membres d'un seul grand corps, et le bien individuel s'accomplit dans le service du tout humain. Sans dissoudre l'individu dans la cité, Sénèque subordonne la retraite philosophique à un devoir d'utilité commune, ce qui penche vers une vision holiste de la société.",
+          "en": "Man is born for community and mutual aid: we are the limbs of one great body, and the individual good is fulfilled in service to the human whole. Without dissolving the individual into the city, Seneca subordinates philosophical retreat to a duty of common usefulness, leaning toward a holist view of society."
+        },
+        "references": [
+          {
+            "fr": "Lettres à Lucilius, XCV (les membres d'un même corps)",
+            "en": "Letters to Lucilius, XCV (the limbs of one body)"
+          },
+          {
+            "fr": "De l'oisiveté, III-VI (le sage doit servir la grande cité)",
+            "en": "On Leisure, III-VI (the sage must serve the great commonwealth)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.8,
+          0.05,
+          0.15
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La physique stoïcienne que Sénèque expose dans les Questions naturelles est corporaliste : seul ce qui agit ou pâtit existe, donc seuls les corps. Le principe actif lui-même, la raison divine (<c id='logos'>logos</c>), est un souffle (pneuma) matériel répandu dans le monde, ce qui range sa métaphysique du côté du matérialisme, avec une légère réserve dualiste âme-corps de surface.",
+          "en": "The Stoic physics Seneca expounds in the Natural Questions is corporealist: only what acts or is acted upon exists, hence only bodies. The active principle itself, the divine reason (<c id='logos'>logos</c>), is a material breath (pneuma) diffused through the world, placing his metaphysics on the materialist side, with only a slight surface soul-body dualism."
+        },
+        "references": [
+          {
+            "fr": "Questions naturelles, II (la nature corporelle du principe actif)",
+            "en": "Natural Questions, II (the corporeal nature of the active principle)"
+          },
+          {
+            "fr": "Lettres à Lucilius, CVI et CXVII (seuls les corps existent)",
+            "en": "Letters to Lucilius, CVI and CXVII (only bodies exist)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CAUSALITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.2,
+          0.8,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Tout l'univers est ordonné par une <c id='providence'>providence</c> qui agit en vue d'une fin, le bien du tout : la nature ne fait rien au hasard et le destin est l'enchaînement raisonné des causes vers cette fin. C'est un <ax id='CAUSALITY'>finalisme</ax> providentiel, où la nécessité mécanique des causes sert un dessein rationnel.",
+          "en": "The whole universe is ordered by a <c id='providence'>providence</c> acting toward an end, the good of the whole: nature does nothing at random and fate is the reasoned chain of causes toward that end. This is a providential <ax id='CAUSALITY'>finalism</ax>, where the mechanical necessity of causes serves a rational design."
+        },
+        "references": [
+          {
+            "fr": "De la providence, I et V (l'ordre finalisé du monde)",
+            "en": "On Providence, I and V (the purposive order of the world)"
+          },
+          {
+            "fr": "Questions naturelles, II, 45 (providence et destin)",
+            "en": "Natural Questions, II, 45 (providence and fate)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MORAL_DEMAND",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'idéal du <c id='the-sage'>sage</c> est si élevé qu'il en est presque inatteignable : il faut un effort de tous les instants, un <c>progrès</c> (prokopê) jamais relâché vers la perfection morale. Sénèque, conscient de ses propres manquements, n'en maintient pas moins une exigence maximaliste de transformation intégrale de soi.",
+          "en": "The ideal of the <c id='the-sage'>sage</c> is so lofty as to be almost unattainable: it demands an effort of every instant, a never-slackening <c>progress</c> (prokopê) toward moral perfection. Seneca, aware of his own shortcomings, nonetheless upholds a maximalist demand for a thorough transformation of the self."
+        },
+        "references": [
+          {
+            "fr": "Lettres à Lucilius, V et LXXV (le progrès moral incessant)",
+            "en": "Letters to Lucilius, V and LXXV (unceasing moral progress)"
+          },
+          {
+            "fr": "De la vie heureuse, XVII-XVIII (Sénèque reconnaît n'être pas un sage)",
+            "en": "On the Happy Life, XVII-XVIII (Seneca admits he is no sage)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MACHINE_MIND",
+      "status": "NOT_APPLICABLE",
+      "note": {
+        "fr": "La question de l'esprit artificiel et de l'intelligence des machines est anachronique pour un philosophe du Ier siècle : aucun texte de Sénèque ne s'y rapporte.",
+        "en": "The question of artificial mind and machine intelligence is anachronistic for a first-century philosopher: no text of Seneca's bears on it."
+      }
+    },
+    {
+      "axisId": "HUMAN_ENHANCEMENT",
+      "status": "NOT_APPLICABLE",
+      "note": {
+        "fr": "Le débat sur l'augmentation biotechnologique de l'humain n'a aucun équivalent dans l'horizon de Sénèque : la question est anachronique.",
+        "en": "The debate on the biotechnological enhancement of the human has no equivalent within Seneca's horizon: the question is anachronistic."
+      }
+    },
+    {
+      "axisId": "PROBLEM_OF_EVIL",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.8,
+          0.1,
+          0,
+          0.1
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Dans <w>De la providence</w>, Sénèque demande pourquoi des maux frappent les gens de bien si le monde est régi par la providence : ce ne sont pas des maux mais des épreuves que la raison divine envoie pour exercer et fortifier la vertu. Le mal apparent sert l'ordre du tout.",
+          "en": "In <w>On Providence</w>, Seneca asks why misfortunes strike good men if the world is governed by providence: they are not evils but trials the divine reason sends to exercise and strengthen virtue. Apparent evil serves the order of the whole."
+        },
+        "references": [
+          {
+            "fr": "De la providence",
+            "en": "On Providence"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "CONTROL_SCOPE",
+      "thesis": {
+        "fr": "Ne tiens pour tien que ce qu'aucune fortune ne peut t'ôter : tes jugements et tes désirs dépendent de toi, le reste ne te fut que prêté.",
+        "en": "Count as yours only what no fortune can take from you: your judgements and your desires depend on you, the rest was merely lent."
+      }
+    },
+    {
+      "axisId": "SUFFERING_MEANING",
+      "thesis": {
+        "fr": "L'adversité n'est pas un mal mais l'épreuve qui forge la <c>vertu</c> : le dieu n'épargne pas ceux qu'il aime, il les exerce.",
+        "en": "Adversity is not an evil but the trial that forges <c>virtue</c>: the god does not spare those he loves, he tests them."
+      }
+    },
+    {
+      "axisId": "TIME_ORIENTATION",
+      "thesis": {
+        "fr": "La vie n'est pas courte, nous la rendons telle : assez longue pour qui sait l'employer, elle file pour qui la renvoie sans cesse à demain.",
+        "en": "Life is not short, we make it so: long enough for whoever knows how to use it, it slips away from whoever keeps deferring it to tomorrow."
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "thesis": {
+        "fr": "La colère ne se modère pas, elle se prévient : étant un <c id='synkatathesis'>assentiment</c> de la raison à un faux jugement, il faut la retrancher au seuil, non la doser.",
+        "en": "Anger is not to be moderated but forestalled: being an <c id='synkatathesis'>assent</c> of reason to a false judgement, it must be cut off at the threshold, not metered out."
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "thesis": {
+        "fr": "S'exercer chaque jour à mourir est le chemin de la liberté : qui n'a plus peur de la mort ne peut plus être contraint par rien.",
+        "en": "To rehearse dying each day is the path to freedom: whoever no longer fears death can no longer be coerced by anything."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

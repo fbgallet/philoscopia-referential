@@ -1,0 +1,16 @@
+{
+  "id": "aristotle-to-plotinus",
+  "from": { "kind": "PHILOSOPHER", "slug": "aristotle" },
+  "to": { "kind": "PHILOSOPHER", "slug": "plotinus" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='plotinus'>Plotin</ph> intègre à son néoplatonisme des pièces majeures d'<ph id='aristotle'>Aristote</ph>, au premier chef l'Intellect comme pensée qui se pense, tout en refusant les catégories appliquées à l'intelligible.",
+    "en": "<ph id='plotinus'>Plotinus</ph> absorbs major pieces of <ph id='aristotle'>Aristotle</ph> into his Neoplatonism, foremost the Intellect as thought thinking itself, while rejecting the categories as applied to the intelligible."
+  },
+  "sources": [
+    { "fr": "Plotin, Ennéades (V et VI)", "en": "Plotinus, Enneads (V and VI)" }
+  ],
+  "updatedAt": "2026-07-02T00:00:00.000Z"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "atman",
+  "term": { "fr": "Ātman (le Soi)", "en": "Ātman (the Self)" },
+  "definition": {
+    "fr": "L'ātman désigne le Soi le plus intime, le sujet conscient qui demeure sous le flux changeant des pensées et des sensations. Dans l'Advaita Vedānta, ce Soi n'est pas un ego individuel mais s'avère identique au <c id='brahman'>Brahman</c>, l'absolu unique. Cette thèse contraste fortement avec le <c id='anatta'>non-soi</c> bouddhiste, qui nie au contraire toute substance permanente derrière l'expérience.",
+    "en": "Ātman names the innermost Self, the conscious subject that abides beneath the shifting flow of thoughts and sensations. In Advaita Vedānta this Self is not an individual ego but proves identical with <c id='brahman'>Brahman</c>, the one absolute. This claim stands in sharp contrast to the Buddhist <c id='anatta'>non-self</c>, which instead denies any permanent substance behind experience."
+  },
+  "relatedAxes": ["SELF_NATURE"],
+  "relatedTerms": ["brahman", "anatta"],
+  "positions": [{ "axisId": "SELF_NATURE", "poleId": "SUBSTANTIALISM" }],
+  "updatedAt": "2026-06-19T00:00:00.000Z"
+}

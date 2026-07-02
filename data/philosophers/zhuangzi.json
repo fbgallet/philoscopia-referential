@@ -1,0 +1,907 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "zhuangzi",
+  "name": {
+    "fr": "Zhuangzi",
+    "en": "Zhuangzi"
+  },
+  "fullName": {
+    "fr": "Zhuang Zhou 莊周, dit Zhuangzi (« Maître Zhuang »)",
+    "en": "Zhuang Zhou 莊周, called Zhuangzi (\"Master Zhuang\")"
+  },
+  "tagline": {
+    "fr": "Suis-je un homme qui a rêvé qu'il était papillon, ou un papillon qui rêve d'être homme ?",
+    "en": "Am I a man who dreamed he was a butterfly, or a butterfly dreaming he is a man?"
+  },
+  "summary": {
+    "fr": "Penseur <mv id='taoism'>taoïste</mv> chinois de la période des Royaumes combattants, traditionnellement situé au IVe siècle avant notre ère et présenté comme un petit fonctionnaire qui aurait refusé une charge ministérielle pour rester libre. Il donne son nom au <w id='zhuangzi-zhuangzi'>Zhuangzi</w>, recueil composite dont les sept « Chapitres intérieurs » lui sont attribués : un tissu de paraboles, de dialogues et de provocations logiques où l'humour fait office d'argument. Là où <ph id='laozi'>Laozi</ph> énonce le <c id='dao'>Dao</c> en aphorismes cosmiques et politiques, Zhuangzi le radicalise sur le terrain de l'existence singulière et de la connaissance : il y mène une critique des distinctions, du langage et de l'utilité dont le rêve du papillon, le boucher Ding et le bonheur des poissons sont les emblèmes. En réaction au moralisme <ph id='confucius'>confucéen</ph> et au logicien <ph id='hui-shi'>Hui Shi</ph>, son interlocuteur favori, sa pensée a irrigué le bouddhisme chan (zen) et inspiré toute une tradition de spontanéité poétique et picturale.",
+    "en": "A Chinese <mv id='taoism'>Taoist</mv> thinker of the Warring States period, traditionally placed in the fourth century BCE and presented as a minor official who is said to have refused a ministerial post to keep his freedom. He gives his name to the <w id='zhuangzi-zhuangzi'>Zhuangzi</w>, a composite collection whose seven \"Inner Chapters\" are ascribed to him: a fabric of parables, dialogues and logical provocations in which humor does the work of argument. Where <ph id='laozi'>Laozi</ph> states the <c id='dao'>Dao</c> in cosmic and political aphorisms, Zhuangzi radicalizes it on the terrain of singular existence and of knowledge: he mounts a critique of distinctions, of language and of usefulness whose emblems are the butterfly dream, Cook Ding and the happiness of fish. Reacting against <ph id='confucius'>Confucian</ph> moralism and against the logician <ph id='hui-shi'>Hui Shi</ph>, his favorite foil, his thought shaped Chan (Zen) Buddhism and inspired a whole tradition of poetic and pictorial spontaneity."
+  },
+  "birth": -369,
+  "death": -286,
+  "nationality": {
+    "fr": "Chinois",
+    "en": "Chinese"
+  },
+  "movements": [
+    "taoism"
+  ],
+  "entries": [
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Tout jugement se prononce d'un point de vue, et chaque point de vue a son « ceci » et son « cela » : ce que l'un tient pour vrai, l'autre le tient pour faux, et nul tribunal neutre ne peut les départager sans être lui-même partie. Zhuangzi en tire un <pb>scepticisme à l'égard du savoir discursif</pb> : les controverses des <ph id='confucius'>confucéens</ph> et des mohistes s'annulent, le rêve ne se distingue pas sûrement de la veille, et l'on ignore même si l'on sait quelque chose. Mais ce doute n'est pas la suspension grecque visant la <c id='ataraxia'>tranquillité</c> : il est thérapeutique et libérateur, il dissout l'anxiété de devoir avoir raison pour laisser place à un savoir souple, accordé au cours des choses.",
+          "en": "Every judgment is made from a standpoint, and each standpoint has its \"this\" and its \"that\": what one party holds true the other holds false, and no neutral tribunal can settle them without itself being a party. Zhuangzi draws from this a <pb>scepticism about discursive knowledge</pb>: the controversies of the <ph id='confucius'>Confucians</ph> and the Mohists cancel out, dream cannot be securely told from waking, and one does not even know whether one knows anything. Yet this doubt is not the Greek suspension aimed at <c id='ataraxia'>tranquillity</c>: it is therapeutic and liberating, dissolving the anxiety of having to be right so as to leave room for a supple knowing attuned to the course of things."
+        },
+        "quote": {
+          "text": {
+            "fr": "Comment saurais-je que ce que j'appelle savoir n'est pas de l'ignorance, et que ce que j'appelle ignorance n'est pas du savoir ?",
+            "en": "How do I know that what I call knowing is not really ignorance, and what I call ignorance not really knowing?"
+          },
+          "source": {
+            "fr": "Zhuangzi, ch. 2 (Discours sur l'égalité des choses)",
+            "en": "Zhuangzi, ch. 2 (On the Equality of Things)"
+          }
+        },
+        "references": [
+          {
+            "fr": "Zhuangzi, ch. 2 (Discours sur l'égalité des choses)",
+            "en": "Zhuangzi, ch. 2 (On the Equality of Things)"
+          },
+          {
+            "fr": "Zhuangzi, ch. 2 (le rêve du papillon)",
+            "en": "Zhuangzi, ch. 2 (the butterfly dream)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0.9,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le beau et le laid, le permis et le défendu, le grand et le petit ne sont pas inscrits dans les choses : ce sont des découpages corrélatifs, relatifs à l'échelle et à l'usage de qui juge. Un loriot trouve délicieux ce qui dégoûte l'homme, une belle femme fait fuir les poissons : où est le goût « correct » ? Zhuangzi généralise cette <dif>relativité des normes</dif> contre la prétention <ph id='confucius'>confucéenne</ph> à fixer le juste et le rituel. À la différence de <ph id='laozi'>Laozi</ph>, qui dissout les distinctions humaines pour les remplacer par l'unique norme du <c id='ziran'>naturel</c>, Zhuangzi ne reconstruit pas de norme positive : il invite à « égaliser » les points de vue et à se mouvoir librement entre eux, ce qui le rapproche, sans recourir à ce vocabulaire moderne, d'un relativisme des normes.",
+          "en": "Beautiful and ugly, permitted and forbidden, great and small are not inscribed in things: they are correlative carvings, relative to the scale and the use of whoever judges. An oriole finds delicious what disgusts a human; a beautiful woman makes fish flee: where is the \"correct\" taste? Zhuangzi generalizes this <dif>relativity of norms</dif> against the <ph id='confucius'>Confucian</ph> claim to fix the right and the ritual. Unlike <ph id='laozi'>Laozi</ph>, who dissolves human distinctions only to replace them with the single norm of the <c id='ziran'>natural</c>, Zhuangzi rebuilds no positive norm: he invites us to \"equalize\" viewpoints and to move freely among them, which brings him close, without that modern vocabulary, to a relativism of norms."
+        },
+        "references": [
+          {
+            "fr": "Zhuangzi, ch. 2 (Discours sur l'égalité des choses)",
+            "en": "Zhuangzi, ch. 2 (On the Equality of Things)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.55,
+          0,
+          0.45,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "À la mort de sa femme, Zhuangzi chante en battant la mesure sur une jarre : pleurer serait ignorer le cours des choses. La mort n'est pas un néant à craindre ni le passage vers une âme immortelle, mais un moment de la <c id='hua'>transformation</c> incessante (hua) : les souffles se nouent en vie comme les saisons se succèdent, puis se dénouent et se reforment ailleurs. Qui sait si le mort ne se félicite pas, comme un exilé enfin rentré ? Cette sérénité par insertion dans le grand passage des formes croise l'apaisement épicurien, mais il s'y mêle l'idée que la matière vivante se recompose sans fin, ce qui n'est ni vraiment une extinction ni une immortalité personnelle.",
+          "en": "At his wife's death Zhuangzi sings, drumming on a basin: to weep would be to ignore the course of things. Death is neither a nothingness to fear nor a passage toward an immortal soul, but a moment of ceaseless <c id='hua'>transformation</c> (hua): the vital breaths knot into life as the seasons follow one another, then unknot and reform elsewhere. Who knows whether the dead one is not rejoicing, like an exile come home at last? This serenity through insertion into the great passage of forms meets the Epicurean appeasement, yet it is laced with the idea that living matter endlessly recomposes itself, which is neither quite an extinction nor a personal immortality."
+        },
+        "quote": {
+          "text": {
+            "fr": "La vie et la mort se suivent comme le jour et la nuit. Pourquoi m'en affliger ?",
+            "en": "Life and death follow each other like day and night. Why should I grieve over it?"
+          },
+          "source": {
+            "fr": "Zhuangzi, ch. 18 (Parfaite joie)",
+            "en": "Zhuangzi, ch. 18 (Perfect Happiness)"
+          }
+        },
+        "references": [
+          {
+            "fr": "Zhuangzi, ch. 18 (Parfaite joie)",
+            "en": "Zhuangzi, ch. 18 (Perfect Happiness)"
+          },
+          {
+            "fr": "Zhuangzi, ch. 6 (Le grand maître)",
+            "en": "Zhuangzi, ch. 6 (The Great Source as Teacher)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CONTROL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le boucher Ding débite un bœuf sans jamais émousser sa lame : il ne tranche pas, il suit les interstices que la bête lui offre, et le couteau passe dans le vide. La parabole donne au <c id='wu-wei'>non-agir</c> son sens le plus concret : non l'inaction, mais l'action si épousée au réel qu'elle cesse d'être un effort. Contre le <stk>volontarisme</stk> qui plie les choses à un dessein, l'efficace vient de qui n'impose rien et glisse là où la situation cède, comme le nageur des chutes qui « entre avec le tourbillon et sort avec le remous ». Là où <ph id='laozi'>Laozi</ph> tire le non-agir vers l'art de gouverner, Zhuangzi le déploie comme une maîtrise vécue, presque corporelle, du geste juste.",
+          "en": "Cook Ding carves an ox without ever dulling his blade: he does not cut, he follows the openings the carcass offers, and the knife moves through the void. The parable gives <c id='wu-wei'>effortless action</c> its most concrete sense: not inaction, but action so wedded to the real that it ceases to be effort. Against the <stk>voluntarism</stk> that bends things to a design, efficacy comes to one who imposes nothing and slips where the situation yields, like the swimmer of the falls who \"goes in with the swirl and comes out with the eddy.\" Where <ph id='laozi'>Laozi</ph> draws non-action toward the art of governing, Zhuangzi unfolds it as a lived, almost bodily mastery of the right gesture."
+        },
+        "quote": {
+          "text": {
+            "fr": "Je ne regarde plus avec les yeux mais avec l'esprit, et la lame suit d'elle-même les interstices naturels.",
+            "en": "I no longer look with my eyes but with my spirit, and the blade follows of itself the natural openings."
+          },
+          "source": {
+            "fr": "Zhuangzi, ch. 3 (Principe vital)",
+            "en": "Zhuangzi, ch. 3 (The Secret of Caring for Life)"
+          }
+        },
+        "references": [
+          {
+            "fr": "Zhuangzi, ch. 3 (le boucher Ding)",
+            "en": "Zhuangzi, ch. 3 (Cook Ding)"
+          },
+          {
+            "fr": "Zhuangzi, ch. 19 (le nageur des chutes)",
+            "en": "Zhuangzi, ch. 19 (the swimmer of the falls)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.45,
+          0.55,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le souverain bien de Zhuangzi est la <c id='xiaoyao-you'>« libre errance »</c> (xiaoyao you) : une vie déprise des honneurs, des charges et des classements, qui se réjouit de ce qui vient et joue avec les métamorphoses du monde. Refusant la cour qui lui offre un ministère pour rester « tortue qui traîne sa queue dans la boue », il ne vise ni le plaisir accumulé ni l'accomplissement d'une fonction, mais une joie sans objet, l'aisance de qui ne s'agrippe à rien. Cette félicité n'est pas l'<c id='eudaimonism'>eudémonisme</c> grec d'une vie réussie selon une nature à parfaire, mais elle en partage l'idée d'un épanouissement, teinté d'un goût très vif pour la jubilation de l'instant.",
+          "en": "Zhuangzi's sovereign good is <c id='xiaoyao-you'>\"free and easy wandering\"</c> (xiaoyao you): a life loosened from honors, offices and rankings, that delights in whatever comes and plays with the world's metamorphoses. Refusing the court that offers him a ministry, choosing to stay \"a turtle dragging its tail in the mud,\" he aims neither at accumulated pleasure nor at the discharge of a function, but at a joy without object, the ease of one who clings to nothing. This felicity is not the Greek <c id='eudaimonism'>eudaimonism</c> of a life made good by perfecting a nature, yet it shares the idea of a flourishing, tinged with a keen taste for the jubilation of the moment."
+        },
+        "references": [
+          {
+            "fr": "Zhuangzi, ch. 1 (Libre errance)",
+            "en": "Zhuangzi, ch. 1 (Free and Easy Wandering)"
+          },
+          {
+            "fr": "Zhuangzi, ch. 17 (la tortue dans la boue)",
+            "en": "Zhuangzi, ch. 17 (the turtle in the mud)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le savoir qui compte n'est pas la connaissance discursive qui définit et argumente, mais un savoir-faire incorporé, acquis dans le commerce répété avec les choses : le boucher, le charron, le nageur ne sauraient expliquer leur art, et pourtant ils le possèdent jusqu'au bout des doigts. Cette primauté de l'expérience pratique et du contact direct sur le raisonnement abstrait penche du côté empirique, mais c'est un empirisme du geste plus que des sens, sans théorie de la perception comme source de propositions vraies.",
+          "en": "The knowledge that matters is not the discursive knowing that defines and argues, but an embodied skill acquired through repeated dealings with things: the butcher, the wheelwright, the swimmer could not explain their art, and yet they possess it to their fingertips. This primacy of practical experience and direct contact over abstract reasoning leans to the empirical side, but it is an empiricism of the gesture rather than of the senses, with no theory of perception as a source of true propositions."
+        },
+        "references": [
+          {
+            "fr": "Zhuangzi, ch. 3 (le boucher Ding)",
+            "en": "Zhuangzi, ch. 3 (Cook Ding)"
+          },
+          {
+            "fr": "Zhuangzi, ch. 13 (le charron Bian)",
+            "en": "Zhuangzi, ch. 13 (Wheelwright Bian)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MORAL_CIRCLE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.15,
+          0.35,
+          0.5
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Placer l'homme au sommet d'une échelle des êtres est pour Zhuangzi une illusion de perspective : du point de vue du <c id='dao'>Dao</c>, le pilier et le fétu, le laid et le beau, l'homme et le ver sont également des modes de la transformation, et nul n'a de privilège. Cette <stk>décentration anthropologique</stk> retire à l'humain toute mesure de toutes choses et l'inscrit comme un être parmi des myriades, frère du papillon qu'il a peut-être rêvé d'être. La pente est nettement écocentrique, même si Zhuangzi ne formule pas, comme un écologue moderne, le devoir de protéger un tout.",
+          "en": "To set the human at the summit of a ladder of beings is for Zhuangzi an illusion of perspective: from the standpoint of the <c id='dao'>Dao</c>, the pillar and the stalk, the ugly and the beautiful, the human and the worm are equally modes of transformation, and none holds a privilege. This <stk>anthropological decentering</stk> strips the human of being the measure of all things and inscribes him as one being among myriads, brother to the butterfly he may have dreamed he was. The leaning is decidedly ecocentric, even though Zhuangzi does not formulate, as a modern ecologist would, a duty to protect a whole."
+        },
+        "references": [
+          {
+            "fr": "Zhuangzi, ch. 2 (Discours sur l'égalité des choses)",
+            "en": "Zhuangzi, ch. 2 (On the Equality of Things)"
+          },
+          {
+            "fr": "Zhuangzi, ch. 17 (Les crues d'automne)",
+            "en": "Zhuangzi, ch. 17 (Autumn Floods)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HUMAN_PLACE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.15,
+          0.85
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'homme n'a ni à maîtriser la nature ni à la gérer en intendant : il lui faut « laisser les choses être ce qu'elles sont » et accorder son agir au leur. Le bonheur des poissons que Zhuangzi prétend connaître en les regardant nager, sa polémique avec <ph id='hui-shi'>Hui Shi</ph> à ce sujet, disent une continuité vécue entre l'homme et le vivant qui rend vaine toute position de surplomb. Suivre le naturel, ce n'est pas exploiter ni protéger, c'est se savoir membre du même flux, exactement à l'opposé du prométhéisme.",
+          "en": "The human is neither to master nature nor to manage it as a steward: he must \"let things be what they are\" and tune his acting to theirs. The happiness of the fish, which Zhuangzi claims to know by watching them swim, and his sparring with <ph id='hui-shi'>Hui Shi</ph> over it, bespeak a lived continuity between the human and the living that makes any vantage of oversight idle. To follow the natural is neither to exploit nor to protect, but to know oneself a member of the same flux, exactly the reverse of Prometheanism."
+        },
+        "quote": {
+          "text": {
+            "fr": "Vois comme les poissons sortent et folâtrent à leur aise : voilà le bonheur des poissons !",
+            "en": "See how the fish come out and dart about at their ease: that is the happiness of fish!"
+          },
+          "source": {
+            "fr": "Zhuangzi, ch. 17 (Les crues d'automne)",
+            "en": "Zhuangzi, ch. 17 (Autumn Floods)"
+          }
+        },
+        "references": [
+          {
+            "fr": "Zhuangzi, ch. 17 (le bonheur des poissons)",
+            "en": "Zhuangzi, ch. 17 (the happiness of fish)"
+          },
+          {
+            "fr": "Zhuangzi, ch. 7 (le maître ne s'oppose à rien)",
+            "en": "Zhuangzi, ch. 7 (Fit for Emperors and Kings)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "PAST_RELATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Tout ce qui arrive, la disgrâce comme la difformité, la maladie comme la mort, est accueilli comme une donne de la transformation à épouser sans révolte : un personnage à qui pousse une bosse l'examine en riant, prêt à voir son bras changé en coq ou sa hanche en roue. Cet acquiescement au sort rejoint l'amor fati stoïcien, mais sans le ressort d'une <c id='providence'>providence</c> rationnelle : on ne consent pas à un ordre voulu, on se laisse porter par un cours qui n'a ni dessein ni cruauté.",
+          "en": "Whatever comes, disgrace as much as deformity, sickness as much as death, is welcomed as a deal of transformation to be embraced without revolt: a character who grows a hump examines it laughing, ready to see his arm turned into a rooster or his hip into a wheel. This acquiescence to one's lot meets the Stoic amor fati, but without the spring of a rational <c id='providence'>providence</c>: one consents not to a willed order but lets oneself be carried by a course that has neither design nor cruelty."
+        },
+        "references": [
+          {
+            "fr": "Zhuangzi, ch. 6 (Le grand maître)",
+            "en": "Zhuangzi, ch. 6 (The Great Source as Teacher)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.3,
+          0.3,
+          0.4
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Zhuangzi ne prêche pas l'extinction du désir comme une discipline, mais l'allègement de l'âme avide qui s'agrippe aux gains, aux rangs et à la durée. Le sage <c id='xinzhai'>« jeûne du cœur »</c> (xinzhai), se vide de ses préférences pour épouser ce qui vient, sans pour autant mortifier le corps ni condamner les joies simples qu'il célèbre volontiers. La pente va vers le détachement, mais un détachement enjoué qui laisse passer les désirs comme des nuages plutôt qu'il ne les arrache, ce qui le distingue à la fois de l'ascèse stoïcienne et de l'affirmation du désir.",
+          "en": "Zhuangzi does not preach the extinction of desire as a discipline, but the lightening of the craving soul that clutches at gains, ranks and duration. The sage <c id='xinzhai'>\"fasts the heart\"</c> (xinzhai), empties himself of his preferences so as to espouse whatever comes, without however mortifying the body or condemning the simple joys he gladly celebrates. The leaning is toward detachment, but a playful detachment that lets desires pass like clouds rather than tearing them out, which sets him apart from Stoic asceticism as much as from the affirmation of desire."
+        },
+        "references": [
+          {
+            "fr": "Zhuangzi, ch. 4 (le jeûne du cœur)",
+            "en": "Zhuangzi, ch. 4 (the fasting of the heart)"
+          },
+          {
+            "fr": "Zhuangzi, ch. 6 (Le grand maître)",
+            "en": "Zhuangzi, ch. 6 (The Great Source as Teacher)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Chaque être a une « manière d'être ainsi de soi-même », le <c id='ziran'>ziran</c> qu'il s'agit de laisser s'accomplir : l'oiseau de mer meurt si on le traite comme un homme, et l'on mutile le canard en voulant lui allonger les pattes. Vivre bien n'est donc pas se créer librement mais épouser sa propre tournure native. Mais cette nature n'est pas une essence fixe et définie une fois pour toutes : elle est fluide, ouverte aux métamorphoses, ce qui retient Zhuangzi d'un essentialisme tranché et le place plus modérément du côté du donné contre l'invention de soi.",
+          "en": "Each being has a \"way of being so of itself,\" the <c id='ziran'>ziran</c> that is to be let unfold: the sea bird dies if treated like a man, and one cripples the duck by trying to lengthen its legs. To live well is therefore not to create oneself freely but to espouse one's own native cast. Yet this nature is no fixed essence defined once and for all: it is fluid, open to metamorphoses, which holds Zhuangzi back from a clear-cut essentialism and places him more moderately on the side of the given against self-invention."
+        },
+        "references": [
+          {
+            "fr": "Zhuangzi, ch. 18 (l'oiseau de mer)",
+            "en": "Zhuangzi, ch. 18 (the sea bird)"
+          },
+          {
+            "fr": "Zhuangzi, ch. 8 (les pattes du canard)",
+            "en": "Zhuangzi, ch. 8 (the duck's legs)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le rêve du papillon défait l'assurance d'un moi stable : au réveil, Zhuangzi ne sait plus s'il est l'homme qui a rêvé le papillon ou le papillon qui rêve l'homme. Le « moi » n'est pas une substance qui demeure sous le changement, mais un nœud provisoire dans le flux des transformations, une frontière qu'il faut « oublier » (wuwo) pour se fondre dans le cours des choses. Cette dissolution du moi substantiel, proche du faisceau d'états sans support, fait écho à l'<c id='anatta'>anatta</c> bouddhiste avant même le contact entre les deux traditions.",
+          "en": "The butterfly dream undoes the assurance of a stable self: on waking, Zhuangzi no longer knows whether he is the man who dreamed the butterfly or the butterfly dreaming the man. The \"self\" is not a substance enduring beneath change, but a provisional knot in the flux of transformations, a boundary that one must \"forget\" (wuwo) so as to merge into the course of things. This dissolution of the substantial self, close to a bundle of states without a bearer, echoes Buddhist <c id='anatta'>anatta</c> even before any contact between the two traditions."
+        },
+        "references": [
+          {
+            "fr": "Zhuangzi, ch. 2 (le rêve du papillon)",
+            "en": "Zhuangzi, ch. 2 (the butterfly dream)"
+          },
+          {
+            "fr": "Zhuangzi, ch. 6 (l'oubli assis)",
+            "en": "Zhuangzi, ch. 6 (sitting in forgetfulness)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.75
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le <c id='dao'>Dao</c> n'est pas un dieu ni un arrière-monde : il est partout, dans les choses les plus humbles, jusque, dit Zhuangzi pour provoquer, « dans la pisse et le crottin ». Le sacré ne réside pas au-dessus du monde mais coïncide avec le cours immanent de toutes les transformations, accessible à qui s'y accorde plutôt qu'à qui l'adore. Cette immanence radicale ne laisse qu'un mince reste d'inaccessible, l'obscurité du Dao d'avant les distinctions, qui retient d'un score tout à fait extrême.",
+          "en": "The <c id='dao'>Dao</c> is neither a god nor a world-behind: it is everywhere, in the humblest things, even, Zhuangzi says to provoke, \"in the piss and the dung.\" The sacred does not reside above the world but coincides with the immanent course of all transformations, accessible to whoever attunes to it rather than to whoever worships it. This radical immanence leaves only a thin residue of the inaccessible, the obscurity of the Dao before distinctions, which holds the score back from the utmost extreme."
+        },
+        "references": [
+          {
+            "fr": "Zhuangzi, ch. 22 (le Dao dans la pisse et le crottin)",
+            "en": "Zhuangzi, ch. 22 (the Dao in the piss and dung)"
+          },
+          {
+            "fr": "Zhuangzi, ch. 6 (Le grand maître)",
+            "en": "Zhuangzi, ch. 6 (The Great Source as Teacher)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La sagesse se gagne par un retour au-dedans, le <c id='xinzhai'>« jeûne du cœur »</c> et l'« oubli assis » qui vident l'esprit de ses calculs et de ses préférences pour le rendre clair comme un miroir. Le sage « emploie son cœur comme un miroir » : il reçoit sans retenir, accueille sans poursuivre. Cette quiétude contemplative prime sur l'engagement actif dans les affaires publiques, que Zhuangzi fuit ; mais elle se prolonge dans une action sans effort, de sorte que le retrait intérieur n'est pas pure inaction.",
+          "en": "Wisdom is won by a turn inward, the <c id='xinzhai'>\"fasting of the heart\"</c> and the \"sitting in forgetfulness\" that empty the mind of its calculations and preferences so as to make it clear as a mirror. The sage \"uses his heart like a mirror\": he receives without retaining, welcomes without pursuing. This contemplative quietude takes precedence over active engagement in public affairs, which Zhuangzi shuns; yet it is prolonged in an effortless action, so that the inward withdrawal is not pure inaction."
+        },
+        "quote": {
+          "text": {
+            "fr": "Le sage parfait emploie son cœur comme un miroir : il ne va au-devant de rien et n'accueille rien, il répond et ne retient pas.",
+            "en": "The perfect sage uses his heart like a mirror: he goes out to meet nothing and welcomes nothing, he responds and does not retain."
+          },
+          "source": {
+            "fr": "Zhuangzi, ch. 7",
+            "en": "Zhuangzi, ch. 7"
+          }
+        },
+        "references": [
+          {
+            "fr": "Zhuangzi, ch. 4 (le jeûne du cœur)",
+            "en": "Zhuangzi, ch. 4 (the fasting of the heart)"
+          },
+          {
+            "fr": "Zhuangzi, ch. 7 (le cœur-miroir)",
+            "en": "Zhuangzi, ch. 7 (the mirror-heart)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le sage n'est pas insensible mais il ne se laisse pas « blesser au-dedans » par ses affects : les émotions le traversent comme les saisons, sans qu'il s'y attache ni ne les nourrisse. Le trouble naît du jugement qui pose un événement comme une perte, et il se dissout quand on cesse de trier le réel en gains et en pertes, comme Zhuangzi cessant de pleurer sa femme. La pente va vers la maîtrise des passions, mais par dissolution des distinctions plutôt que par un gouvernement rationnel à la manière stoïcienne, ce qui la maintient en deçà d'un intellectualisme tranché.",
+          "en": "The sage is not unfeeling but does not let himself be \"wounded within\" by his affects: emotions pass through him like the seasons, with no clinging and no feeding of them. Disturbance arises from the judgment that posits an event as a loss, and it dissolves when one stops sorting the real into gains and losses, as Zhuangzi stops weeping for his wife. The leaning is toward mastery of the passions, but by dissolving distinctions rather than by a rational government in the Stoic manner, which keeps it short of a clear-cut intellectualism."
+        },
+        "references": [
+          {
+            "fr": "Zhuangzi, ch. 5 (ne pas se blesser au-dedans)",
+            "en": "Zhuangzi, ch. 5 (not to be wounded within)"
+          },
+          {
+            "fr": "Zhuangzi, ch. 18 (Parfaite joie)",
+            "en": "Zhuangzi, ch. 18 (Perfect Happiness)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "RULE_SPIRIT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.8
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Nulle règle ne peut anticiper la singularité de chaque situation : le wheelwright Bian ne peut transmettre son tour de main par des préceptes, et le boucher Ding ne suit aucune méthode mais les contours mêmes du réel. Le bien-agir relève d'un ajustement vivant et sans formule, qui se perd dès qu'on le fige en code. Zhuangzi se range donc résolument du côté de l'esprit contre la lettre, et plus encore : il récuse jusqu'à l'idée que la justesse puisse jamais se mettre en lettre.",
+          "en": "No rule can anticipate the singularity of each situation: Wheelwright Bian cannot pass on his knack through precepts, and Cook Ding follows no method but the very contours of the real. Right action is a living, formulaless adjustment, lost the moment one fixes it into a code. Zhuangzi thus stands resolutely on the side of the spirit against the letter, and more than that: he refuses the very idea that rightness could ever be put into letter."
+        },
+        "references": [
+          {
+            "fr": "Zhuangzi, ch. 13 (le charron Bian)",
+            "en": "Zhuangzi, ch. 13 (Wheelwright Bian)"
+          },
+          {
+            "fr": "Zhuangzi, ch. 3 (le boucher Ding)",
+            "en": "Zhuangzi, ch. 3 (Cook Ding)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0,
+          1,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Zhuangzi raille la « bienveillance » et la « justice » des <ph id='confucius'>confucéens</ph> comme des vertus affichées qui mutilent le naturel, à l'image du canard dont on allonge les pattes. La bonne conduite n'est ni l'obéissance à une règle ni un calcul de conséquences, mais l'expression d'un état intérieur accordé au <c id='dao'>Dao</c>, une excellence (de) spontanée qui ne se sait pas vertueuse. Faute de toute alternative, c'est une éthique de la vertu, mais d'une vertu qui se nie comme code et tient toute morale proclamée pour une déchéance.",
+          "en": "Zhuangzi mocks the \"benevolence\" and \"righteousness\" of the <ph id='confucius'>Confucians</ph> as paraded virtues that maim the natural, like the duck whose legs are stretched. Good conduct is neither obedience to a rule nor a reckoning of consequences, but the expression of an inner state attuned to the <c id='dao'>Dao</c>, a spontaneous excellence (de) that does not know itself virtuous. For want of any alternative, it is a virtue ethics, but of a virtue that denies itself as a code and holds every proclaimed morality to be a falling-off."
+        },
+        "references": [
+          {
+            "fr": "Zhuangzi, ch. 8 et 9",
+            "en": "Zhuangzi, ch. 8 and 9"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.7,
+          0.3
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Les mots ne peignent pas les choses : ils servent à les attraper, comme la nasse sert à prendre le poisson, et « la nasse prise, on oublie le poisson ». Leur sens tient à leur usage et à ce qu'ils permettent de faire, non à une correspondance fixe avec un référent, si bien que les disputes des logiciens sur les noms tournent à vide. Cette conception instrumentale et pragmatique du langage, où l'on peut « oublier les mots » une fois leur office rempli, penche du côté d'une théorie de l'usage avec une teinte d'intention.",
+          "en": "Words do not picture things: they serve to catch them, as the fish trap serves to catch the fish, and \"the fish caught, one forgets the trap.\" Their meaning lies in their use and in what they let one do, not in a fixed correspondence with a referent, so that the logicians' disputes about names spin idly. This instrumental, pragmatic conception of language, in which one may \"forget the words\" once their office is done, leans toward a use theory with a tint of intention."
+        },
+        "quote": {
+          "text": {
+            "fr": "La nasse sert à prendre le poisson : le poisson pris, on oublie la nasse. Les mots servent à saisir l'idée : l'idée saisie, on oublie les mots.",
+            "en": "The trap is for catching fish: once the fish is caught, the trap is forgotten. Words are for grasping the idea: once the idea is grasped, the words are forgotten."
+          },
+          "source": {
+            "fr": "Zhuangzi, ch. 26",
+            "en": "Zhuangzi, ch. 26"
+          }
+        },
+        "references": [
+          {
+            "fr": "Zhuangzi, ch. 26 (la nasse et le poisson)",
+            "en": "Zhuangzi, ch. 26 (the trap and the fish)"
+          },
+          {
+            "fr": "Zhuangzi, ch. 2",
+            "en": "Zhuangzi, ch. 2"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La souffrance n'est ni un mal à supprimer ni une épreuve rédemptrice qui forgerait le caractère : elle est un moment du flux à accueillir sans en faire un drame, comme la maladie qui transformera peut-être le bras en coq. Zhuangzi ne lui prête pas de fécondité morale à la manière de Pascal ou Nietzsche, mais il ne milite pas non plus pour son abolition : il dissout sa portée en cessant de la juger un malheur. La position penche légèrement vers l'indifférence du médian, par déprise du jugement qui constitue la peine.",
+          "en": "Suffering is neither an evil to be abolished nor a redemptive trial that would forge character: it is a moment of the flux to be welcomed without dramatizing it, like the sickness that may turn the arm into a rooster. Zhuangzi lends it no moral fecundity in the manner of Pascal or Nietzsche, but neither does he campaign for its abolition: he dissolves its weight by ceasing to judge it a misfortune. The position leans slightly toward the median indifference, through release from the judgment that constitutes the hurt."
+        },
+        "references": [
+          {
+            "fr": "Zhuangzi, ch. 6 (Le grand maître)",
+            "en": "Zhuangzi, ch. 6 (The Great Source as Teacher)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TECHNOLOGY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Un vieux jardinier refuse la machine à puiser l'eau qu'on lui propose : « qui se sert de machines acquiert un cœur de machine », et perd la pureté native de l'esprit. La méfiance de Zhuangzi ne porte pas sur l'outil en soi, qu'il manie volontiers dans ses paraboles d'artisans, mais sur l'esprit calculateur et l'astuce que l'instrument fait croître au détriment du <c id='ziran'>naturel</c>. Cette critique du « cœur machinal » le range, comme <ph id='laozi'>Laozi</ph>, parmi les ancêtres lointains de la techno-critique, mais à partir du for intérieur plus que de l'ordre politique.",
+          "en": "An old gardener refuses the water-drawing machine he is offered: \"whoever uses machines acquires a machine heart,\" and loses the native purity of the spirit. Zhuangzi's distrust bears not on the tool itself, which he gladly wields in his artisan parables, but on the calculating mind and the cunning the instrument breeds at the expense of the <c id='ziran'>natural</c>. This critique of the \"machine heart\" ranks him, like <ph id='laozi'>Laozi</ph>, among the distant ancestors of techno-criticism, but from the inner self rather than the political order."
+        },
+        "quote": {
+          "text": {
+            "fr": "Qui se sert de machines fait toutes choses machinalement ; qui fait les choses machinalement acquiert un cœur de machine.",
+            "en": "Whoever uses machines does all his work mechanically; whoever does his work mechanically grows a machine heart."
+          },
+          "source": {
+            "fr": "Zhuangzi, ch. 12",
+            "en": "Zhuangzi, ch. 12"
+          }
+        },
+        "references": [
+          {
+            "fr": "Zhuangzi, ch. 12 (le jardinier et la machine)",
+            "en": "Zhuangzi, ch. 12 (the gardener and the machine)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "AESTHETIC_LIFE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "EXTRAPOLATED",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'idéal de Zhuangzi n'est pas le devoir moral mais une existence légère, jouée, dont la grâce s'apparente à celle de l'artiste : le boucher dont la lame danse « au rythme de la Forêt des mûriers », le peintre qui se met nu pour peindre à son aise. La vie réussie y est moins affaire de rectitude que d'aisance et de beauté du geste, ce qui en fait une esthétisation de l'existence, même si le mot d'art y est anachronique et que la visée reste une libération plutôt qu'un culte du beau.",
+          "en": "Zhuangzi's ideal is not moral duty but a light, played existence whose grace is akin to the artist's: the butcher whose blade dances \"to the rhythm of the Mulberry Forest,\" the painter who strips naked to paint at his ease. The successful life is less a matter of rightness than of ease and beauty of gesture, which makes it an aestheticization of existence, even though the word art is anachronistic here and the aim remains a liberation rather than a cult of the beautiful."
+        },
+        "references": [
+          {
+            "fr": "Zhuangzi, ch. 3 (le boucher Ding)",
+            "en": "Zhuangzi, ch. 3 (Cook Ding)"
+          },
+          {
+            "fr": "Zhuangzi, ch. 21 (le peintre nu)",
+            "en": "Zhuangzi, ch. 21 (the naked painter)"
+          }
+        ],
+        "strength": "WEAK"
+      }
+    },
+    {
+      "axisId": "TIME_ORIENTATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.8,
+          0,
+          0.2
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le sage habite ce qui advient à l'instant et « voyage dans l'unique souffle » du présent, sans se projeter dans des desseins d'avenir, lesquels relèvent de l'agir forcé qu'il récuse. À la différence de <ph id='laozi'>Laozi</ph>, plus tourné vers la restauration d'un état originel, Zhuangzi insiste sur la mobilité du flux et l'adhésion à la métamorphose en cours : il reste un mince fond de retour au <c id='dao'>Dao</c> d'avant les distinctions, mais l'accent porte sur l'épousaille du présent.",
+          "en": "The sage dwells in what arises at the instant and \"travels in the single breath\" of the present, without projecting himself into designs for the future, which belong to the forced action he rejects. Unlike <ph id='laozi'>Laozi</ph>, more turned toward restoring an original state, Zhuangzi stresses the mobility of the flux and adherence to the metamorphosis under way: a thin ground of return to the <c id='dao'>Dao</c> before distinctions remains, but the accent falls on the espousal of the present."
+        },
+        "references": [
+          {
+            "fr": "Zhuangzi, ch. 6 (Le grand maître)",
+            "en": "Zhuangzi, ch. 6 (The Great Source as Teacher)"
+          },
+          {
+            "fr": "Zhuangzi, ch. 2",
+            "en": "Zhuangzi, ch. 2"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HUMAN_VISION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.45
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le mal ne tient pas à une nature humaine corrompue mais à ce qui la dénature : le savoir affecté, l'ambition, les hiérarchies et les codes moraux qui détournent chacun de sa tournure native. Laissé à son <c id='ziran'>naturel</c>, l'homme n'est ni bon ni méchant au sens moral, mais spontanément accordé au cours des choses ; c'est la civilisation qui le déchire. Cette confiance dans le naturel d'avant la culture éloigne Zhuangzi du pessimisme anthropologique, sans en faire pour autant le théoricien d'une bonté originelle aussi nette que chez Rousseau.",
+          "en": "Evil lies not in a corrupt human nature but in what denatures it: affected knowledge, ambition, hierarchies and moral codes that turn each one away from his native cast. Left to his <c id='ziran'>naturalness</c>, the human is neither good nor wicked in the moral sense, but spontaneously attuned to the course of things; it is civilization that tears him apart. This trust in the pre-cultural natural sets Zhuangzi apart from anthropological pessimism, without making him the theorist of an original goodness as sharply drawn as in Rousseau."
+        },
+        "references": [
+          {
+            "fr": "Zhuangzi, ch. 9 (Sabots de cheval)",
+            "en": "Zhuangzi, ch. 9 (Horses' Hooves)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "COSMIC_OUTLOOK",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le monde n'est pas réglé par une providence bienveillante et n'a pas de sens donné d'avance : il est un flux impersonnel de transformations sans dessein. Pourtant ce cours n'a rien de tragique pour Zhuangzi : qui s'y accorde y trouve une joie sans cause et une liberté de jeu, car la mort même n'est qu'un tour de la roue. La tonalité est sereine et insouciante plutôt qu'optimiste ou tragique, ce qui penche légèrement du côté d'un accueil heureux du réel.",
+          "en": "The world is not ruled by a benevolent providence and has no meaning given in advance: it is an impersonal flux of transformations without design. Yet this course is in no way tragic for Zhuangzi: whoever accords with it finds in it a causeless joy and a freedom of play, for death itself is but a turn of the wheel. The tonality is serene and carefree rather than optimistic or tragic, which leans slightly toward a happy welcome of the real."
+        },
+        "references": [
+          {
+            "fr": "Zhuangzi, ch. 18 (Parfaite joie)",
+            "en": "Zhuangzi, ch. 18 (Perfect Happiness)"
+          },
+          {
+            "fr": "Zhuangzi, ch. 6 (Le grand maître)",
+            "en": "Zhuangzi, ch. 6 (The Great Source as Teacher)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "INDIVIDUAL_SOCIETY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La sagesse de Zhuangzi est celle d'un individu qui se déprend des rôles, des charges et de la reconnaissance sociale pour préserver sa liberté intérieure : mieux vaut être une tortue libre dans la boue qu'une carapace vénérée au temple. La société et ses institutions, loin de constituer l'homme, le déforment en lui imposant des distinctions et des ambitions étrangères à son naturel. La priorité va clairement à l'individu singulier contre le tout social, mais par retrait et fuite plus que par revendication de droits.",
+          "en": "Zhuangzi's wisdom is that of an individual who loosens himself from roles, offices and social recognition to preserve his inner freedom: better a free turtle in the mud than a revered shell in the temple. Society and its institutions, far from constituting the human, deform him by imposing distinctions and ambitions foreign to his nature. Priority clearly goes to the singular individual against the social whole, but through withdrawal and flight rather than a claim of rights."
+        },
+        "references": [
+          {
+            "fr": "Zhuangzi, ch. 17 (la tortue dans la boue)",
+            "en": "Zhuangzi, ch. 17 (the turtle in the mud)"
+          },
+          {
+            "fr": "Zhuangzi, ch. 4 (l'arbre inutile)",
+            "en": "Zhuangzi, ch. 4 (the useless tree)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "BODILY_PLEASURES",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Zhuangzi ne mortifie pas le corps comme une prison de l'âme, ni n'érige le plaisir en fin : il le tient pour un moment du flux à accueillir avec aisance, sans avidité ni dégoût. « Nourrir le principe vital » n'est ni l'ascèse ni la débauche mais le soin de ne pas user sa vie en l'épuisant de désirs ou de craintes. La position est proprement médiane, une tempérance enjouée qui suit le naturel du corps sans en faire ni un ennemi ni une idole.",
+          "en": "Zhuangzi neither mortifies the body as a prison of the soul nor erects pleasure into an end: he takes it for a moment of the flux to be welcomed with ease, without greed or disgust. \"Caring for the vital principle\" is neither asceticism nor debauchery but the care not to wear out one's life by exhausting it in desires or fears. The position is properly median, a playful temperance that follows the natural of the body without making it either an enemy or an idol."
+        },
+        "references": [
+          {
+            "fr": "Zhuangzi, ch. 3 (Principe vital)",
+            "en": "Zhuangzi, ch. 3 (The Secret of Caring for Life)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "WORK_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.65,
+          0,
+          0.35
+        ]
+      },
+      "epistemicStatus": "EXTRAPOLATED",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Les figures d'artisans accomplis, le boucher, le charron, le sculpteur de cloches, suggèrent que le travail bien fait peut être un lieu d'épanouissement et même de communion au <c id='dao'>Dao</c>, quand le geste devient sans effort. Mais cet accomplissement tient à la spontanéité retrouvée, non au labeur ni à la production utile : l'arbre tordu et « inutile » est précisément celui qui, ne servant à rien, vit pleinement sa vie. L'éloge oscille ainsi entre l'art comme voie et la valorisation d'un loisir libre, contre l'utilité affairée.",
+          "en": "The figures of accomplished craftsmen, the butcher, the wheelwright, the bell-stand carver, suggest that well-made work can be a site of flourishing and even of communion with the <c id='dao'>Dao</c>, when the gesture becomes effortless. But this accomplishment owes to recovered spontaneity, not to toil or useful production: the gnarled, \"useless\" tree is precisely the one that, serving no purpose, lives out its full life. The praise thus wavers between art as a way and the prizing of free leisure, against busy usefulness."
+        },
+        "references": [
+          {
+            "fr": "Zhuangzi, ch. 3 (le boucher Ding)",
+            "en": "Zhuangzi, ch. 3 (Cook Ding)"
+          },
+          {
+            "fr": "Zhuangzi, ch. 4 (l'arbre inutile)",
+            "en": "Zhuangzi, ch. 4 (the useless tree)"
+          }
+        ],
+        "strength": "WEAK"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "REJECTS_ALTERNATIVE",
+      "note": {
+        "fr": "L'opposition entre libre arbitre et déterminisme, forgée par la métaphysique grecque puis chrétienne de la volonté, n'a pas d'équivalent chez Zhuangzi : il ne pense pas un sujet-volonté se demandant s'il est libre, mais une liberté d'un autre ordre, la « libre errance » de qui dissout le vouloir forcé pour épouser le cours des transformations. Le poser sur cet axe trahirait son propos.",
+        "en": "The opposition between free will and determinism, forged by Greek and then Christian metaphysics of the will, has no equivalent in Zhuangzi: he thinks not a willing-subject asking whether it is free, but a freedom of another order, the \"free and easy wandering\" of one who dissolves forced willing to espouse the course of transformations. To place him on this axis would betray his point."
+      }
+    },
+    {
+      "axisId": "MACHINE_MIND",
+      "status": "NOT_APPLICABLE",
+      "note": {
+        "fr": "Question anachronique : rien dans le corpus de Zhuangzi ne permet de le positionner sur la pensée des machines sans extrapolation hasardeuse, même si sa parabole du « cœur de machine » vise l'esprit calculateur, non la cognition artificielle.",
+        "en": "An anachronistic question: nothing in Zhuangzi's corpus allows positioning him on machine thought without hazardous extrapolation, even though his \"machine heart\" parable targets the calculating mind, not artificial cognition."
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "MORAL_SCOPE",
+      "thesis": {
+        "fr": "Le vrai et le faux, le beau et le laid n'existent que d'un point de vue : « égalise » les perspectives au lieu de tenir la tienne pour la mesure de tout.",
+        "en": "True and false, beautiful and ugly exist only from a standpoint: \"equalize\" the perspectives instead of taking yours for the measure of all."
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "thesis": {
+        "fr": "Comment savoir si je ne rêve pas en ce moment même ? Le savoir qui prétend trancher le vrai du faux est une illusion dont il faut se déprendre pour respirer.",
+        "en": "How do I know I am not dreaming at this very moment? The knowing that claims to settle true from false is an illusion to be loosened from in order to breathe."
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "thesis": {
+        "fr": "La vie et la mort se suivent comme le jour et la nuit : qui sait si le mort ne se réjouit pas comme un exilé enfin rentré ?",
+        "en": "Life and death follow each other like day and night: who knows whether the dead one does not rejoice like an exile come home at last?"
+      }
+    },
+    {
+      "axisId": "CONTROL_SCOPE",
+      "thesis": {
+        "fr": "Comme le boucher dont la lame suit les interstices et ne s'émousse jamais, n'agis pas en forçant : <c id='wu-wei'>glisse là où le réel cède</c>.",
+        "en": "Like the butcher whose blade follows the openings and never dulls, do not act by forcing: <c id='wu-wei'>slip where the real yields</c>."
+      }
+    },
+    {
+      "axisId": "HUMAN_PLACE_NATURE",
+      "thesis": {
+        "fr": "Suis-je un homme qui a rêvé le papillon, ou le papillon qui me rêve ? L'homme n'est pas la mesure du vivant, mais un mode parmi d'autres de la <c id='hua'>transformation</c>.",
+        "en": "Am I a man who dreamed the butterfly, or the butterfly dreaming me? The human is not the measure of the living, but one mode among others of <c id='hua'>transformation</c>."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-29T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

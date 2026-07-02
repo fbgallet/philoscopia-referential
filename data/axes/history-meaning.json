@@ -1,0 +1,91 @@
+{
+  "id": "HISTORY_MEANING",
+  "relation": "OTHERS",
+  "territory": "SOCIETY_POLITICS",
+  "label": {
+    "fr": "Sens de l'histoire",
+    "en": "The meaning of history"
+  },
+  "question": {
+    "fr": "L'histoire humaine suit-elle une direction, ou n'est-elle que contingence ?",
+    "en": "Does human history follow a direction, or is it sheer contingency?"
+  },
+  "stakes": {
+    "fr": "Si l'histoire va quelque part, nos combats s'additionnent et le progrès est réel ; si elle n'est qu'enchaînement de hasards, rien ne garantit que demain vaille mieux qu'hier, et tout acquis peut se perdre. Se positionner, c'est dire si l'espoir politique s'appuie sur le cours des choses ou sur nous seuls.",
+    "en": "If history goes somewhere, our struggles add up and progress is real; if it is only a chain of chance events, nothing guarantees that tomorrow will be better than yesterday, and every gain can be lost. To take a position is to say whether political hope rests on the course of things or on us alone."
+  },
+  "layer": "THEORY",
+  "type": "BIPOLAR",
+  "poles": [
+    {
+      "id": "DIRECTIONAL_HISTORY",
+      "label": {
+        "fr": "Sens-direction",
+        "en": "Directional meaning"
+      },
+      "description": {
+        "fr": "Derrière le désordre apparent des événements, l'histoire suit une logique d'ensemble : progrès de la raison, marche vers la liberté ou succession nécessaire de stades. Comprendre cette direction permet d'éclairer le présent et d'anticiper l'avenir.",
+        "en": "Behind the apparent disorder of events, history follows an overall logic: the progress of reason, a march toward freedom, or a necessary succession of stages. Grasping this direction sheds light on the present and helps anticipate the future."
+      },
+      "figures": [
+        {
+          "slug": "hegel",
+          "name": {
+            "fr": "Hegel",
+            "en": "Hegel"
+          }
+        },
+        {
+          "slug": "marx",
+          "name": {
+            "fr": "Marx",
+            "en": "Marx"
+          }
+        },
+        {
+          "slug": "condorcet",
+          "name": {
+            "fr": "Condorcet",
+            "en": "Condorcet"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CONTINGENCY",
+      "label": {
+        "fr": "Contingence",
+        "en": "Contingency"
+      },
+      "description": {
+        "fr": "L'histoire n'a ni plan ni destination : elle résulte d'actions humaines aux conséquences imprévisibles. Croire en des lois de l'histoire est une illusion, parfois dangereuse, qui sert à justifier des sacrifices au nom d'un avenir prétendument nécessaire.",
+        "en": "History has neither plan nor destination: it results from human actions with unforeseeable consequences. Belief in laws of history is an illusion, sometimes a dangerous one, used to justify sacrifices in the name of a supposedly necessary future."
+      },
+      "figures": [
+        {
+          "slug": "popper",
+          "name": {
+            "fr": "Popper",
+            "en": "Popper"
+          }
+        },
+        {
+          "slug": "aron",
+          "name": {
+            "fr": "Aron",
+            "en": "Aron"
+          }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 2,
+  "clusters": [
+    "RATIONAL_EMANCIPATION"
+  ],
+  "relatedAxes": [
+    "CONSERVATISM_PROGRESSISM",
+    "TECHNOLOGY"
+  ]
+}

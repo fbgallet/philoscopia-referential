@@ -1,0 +1,878 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "bentham",
+  "name": {
+    "fr": "Bentham",
+    "en": "Bentham"
+  },
+  "fullName": {
+    "fr": "Jeremy Bentham",
+    "en": "Jeremy Bentham"
+  },
+  "tagline": {
+    "fr": "<c>La nature a placé l'homme sous l'empire de deux maîtres, la douleur et le plaisir</c> : tout le reste en découle par calcul.",
+    "en": "<c>Nature has placed mankind under two sovereign masters, pain and pleasure</c>: all the rest follows by calculation."
+  },
+  "summary": {
+    "fr": "Juriste et réformateur anglais des Lumières tardives, fondateur de l'<mv id='utilitarianism'>utilitarisme</mv> classique, héritier de l'<mv id='empiricism'>empirisme</mv> de <ph id='locke'>Locke</ph> et de Hume et lecteur d'Helvétius et de Beccaria. Devant l'arbitraire de la common law et le fatras du droit pénal de son temps, il cherche un critère unique, mesurable et séculier pour juger lois et institutions, et le décline dans son maître livre, l'<w>Introduction aux principes de la morale et de la législation</w> (1789). Animateur du cercle des « radicaux philosophiques », concepteur du <c>Panoptique</c>, il influence durablement le droit, l'économie et la réforme politique ; <ph id='mill'>Mill</ph> en recueille et infléchit l'héritage. Sa dépouille, momifiée selon ses voeux en « auto-icône », est toujours conservée à University College de Londres.",
+    "en": "An English jurist and reformer of the late Enlightenment, founder of classical <mv id='utilitarianism'>utilitarianism</mv>, heir to the <mv id='empiricism'>empiricism</mv> of <ph id='locke'>Locke</ph> and Hume and a reader of Helvétius and Beccaria. Faced with the arbitrariness of the common law and the tangle of the penal law of his day, he sought a single, measurable, secular criterion for judging laws and institutions, set out in his major book, An <w>Introduction to the Principles of Morals and Legislation</w> (1789). The animating figure of the circle of \"philosophical radicals\" and designer of the <c>Panopticon</c>, he left a lasting mark on law, economics and political reform; <ph id='mill'>Mill</ph> gathered and reshaped his legacy. His body, mummified at his own wish into an \"auto-icon\", is still kept at University College London."
+  },
+  "birth": 1748,
+  "death": 1832,
+  "nationality": {
+    "fr": "Anglais",
+    "en": "English"
+  },
+  "movements": [
+    "utilitarianism"
+  ],
+  "entries": [
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Pour Bentham, la peine est le mal même : avec le plaisir, elle est l'un des deux maîtres souverains de la conduite, et tout le <kw>calcul</kw> moral et législatif vise à la minimiser. Aucune souffrance n'a de valeur rédemptrice ; la seule question pertinente est celle de sa quantité et de ce qui peut la réduire, pour tout être capable de la ressentir.",
+          "en": "For Bentham, pain is evil itself: together with pleasure, it is one of the two sovereign masters of conduct, and the whole moral and legislative <kw>calculus</kw> aims to minimize it. No suffering has redemptive value; the only relevant question is that of its quantity and of what can reduce it, for every being capable of feeling it."
+        },
+        "references": [
+          {
+            "fr": "Introduction aux principes de la morale et de la législation, I et IV",
+            "en": "Introduction to the Principles of Morals and Legislation, I and IV"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.05,
+          0.9,
+          0.05,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Bentham n'assigne à la vie aucune fin cosmique ou providentielle : le seul sens est celui que mesure le <kw>principe d'utilité</kw>, à savoir produire du bonheur et réduire la souffrance, pour soi et pour le plus grand nombre. Une signification entièrement immanente, ancrée dans la sensibilité, sans recours à un ordre qui nous dépasserait.",
+          "en": "Bentham assigns life no cosmic or providential end: the only meaning is the one measured by the <kw>principle of utility</kw>, namely to produce happiness and reduce suffering, for oneself and for the greatest number. A wholly immanent significance, anchored in sensibility, without recourse to an order that would surpass us."
+        },
+        "references": [
+          {
+            "fr": "Introduction aux principes de la morale et de la législation, I",
+            "en": "Introduction to the Principles of Morals and Legislation, I"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.85,
+          0,
+          0.05,
+          0.1
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Matérialiste et ennemi des fictions, Bentham ne reconnaît aucun au-delà : la mort est la simple cessation de la sensibilité, donc ni à craindre ni à entourer de superstitions. Il pousse la conséquence jusqu'à léguer son corps à la science et le faire conserver en <kw>auto-icône</kw>, geste lucide contre la terreur religieuse de la mort.",
+          "en": "A materialist and enemy of fictions, Bentham acknowledges no hereafter: death is the simple cessation of sensibility, hence neither to be feared nor surrounded with superstition. He pushes the consequence so far as to bequeath his body to science and have it preserved as an <kw>auto-icon</kw>, a lucid gesture against the religious terror of death."
+        },
+        "references": [
+          {
+            "fr": "Auto-Icon ; or, Farther Uses of the Dead to the Living",
+            "en": "Auto-Icon; or, Farther Uses of the Dead to the Living"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.5,
+          0.45,
+          0.05
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Bentham récuse expressément le <kw>principe d'ascétisme</kw>, qui tiendrait la privation pour un bien : le plaisir est le seul bien, la peine le seul mal, et la fin est de maximiser le premier. Les désirs n'ont donc pas à être éteints mais satisfaits ; le seul tri légitime est le calcul des quantités de plaisir et de peine qu'ils produisent.",
+          "en": "Bentham expressly rejects the <kw>principle of asceticism</kw>, which would hold privation to be a good: pleasure is the only good, pain the only evil, and the end is to maximize the former. Desires are therefore not to be extinguished but satisfied; the only legitimate sorting is the calculation of the quantities of pleasure and pain they produce."
+        },
+        "references": [
+          {
+            "fr": "Introduction aux principes de la morale et de la législation, I-IV",
+            "en": "Introduction to the Principles of Morals and Legislation, I-IV"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Toute la science benthamienne repose sur une nature humaine constante : l'homme est gouverné par le plaisir et la peine, partout et toujours. Cette psychologie hédonique donnée est le socle fixe à partir duquel se calculent la morale et la législation, plus qu'une nature à inventer ou à transformer.",
+          "en": "The whole of Bentham's science rests on a constant human nature: the human being is governed by pleasure and pain, everywhere and always. This given hedonic psychology is the fixed bedrock from which morals and legislation are calculated, rather than a nature to be invented or transformed."
+        },
+        "references": [
+          {
+            "fr": "Introduction aux principes de la morale et de la législation, I",
+            "en": "Introduction to the Principles of Morals and Legislation, I"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Dans la lignée empiriste, Bentham ne reconnaît de réalité qu'à ce qui s'observe et se mesure, et traque les <c>fictions</c>, ces termes comme le <kw>droit naturel</kw> qui miment la désignation d'une chose sans qu'aucun fait sensible y réponde. La certitude ne se gagne donc pas par une raison a priori posant des vérités définitives, mais par l'enregistrement des faits et le calcul ; toute prétention métaphysique à un savoir hors de l'expérience reste suspecte. La position est mesurée : non le doute du sceptique, mais la confiance dans la seule connaissance empirique, faillible et corrigible.",
+          "en": "In the empiricist line, Bentham grants reality only to what is observed and measured, and hunts down <c>fictions</c>, terms such as <kw>natural right</kw> that mimic the naming of a thing while no sensible fact answers to them. Certainty is therefore not won by an a priori reason laying down definitive truths, but by the recording of facts and by calculation; every metaphysical pretension to knowledge beyond experience stays suspect. The stance is measured: not the skeptic's doubt, but trust in empirical knowledge alone, fallible and correctable."
+        },
+        "references": [
+          {
+            "fr": "Théorie des fictions ; Chrestomathia",
+            "en": "Theory of Fictions; Chrestomathia"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Une morale ne vaut, pour Bentham, que si elle offre un critère public et démontrable, et non l'écho déguisé d'un goût personnel. Or les <pb>principes rivaux échouent à ce test</pb> : le <c>principe d'ascétisme</c> condamne le plaisir sans raison, et le <c>principe de sympathie et d'antipathie</c> érige le sentiment moral en règle sans en répondre, masquant souvent un simple <q>j'approuve</q> ou <q>je désapprouve</q>. Seule la tendance d'une action à augmenter ou diminuer le bonheur fournit une mesure extérieure et vérifiable du bien et du mal ; toute approbation qui ne s'y ramène pas n'est qu'un caprice déguisé en principe. De là un <c>conséquentialisme</c> intégral : aucune action n'est bonne ou mauvaise en elle-même, indépendamment de ses suites.",
+          "en": "A morality, for Bentham, is worth nothing unless it supplies a public, demonstrable criterion rather than the disguised echo of a personal taste. The <pb>rival principles fail this test</pb>: the <c>principle of asceticism</c> condemns pleasure for no reason, and the <c>principle of sympathy and antipathy</c> sets up moral sentiment as a rule without answering for it, often masking a bare <q>I approve</q> or <q>I disapprove</q>. Only an action's tendency to augment or diminish happiness yields an external, checkable measure of right and wrong; any approval that does not reduce to it is mere caprice dressed up as a principle. Hence a thoroughgoing <c>consequentialism</c>: no act is good or bad in itself, independently of its outcomes."
+        },
+        "references": [
+          {
+            "fr": "Introduction aux principes de la morale et de la législation, ch. I-II",
+            "en": "An Introduction to the Principles of Morals and Legislation, ch. I-II"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Par principe d'utilité on entend ce principe qui approuve ou désapprouve toute action selon la tendance qu'elle semble avoir à augmenter ou à diminuer le bonheur de la partie dont l'intérêt est en jeu.",
+            "en": "By the principle of utility is meant that principle which approves or disapproves of every action whatsoever, according to the tendency which it appears to have to augment or diminish the happiness of the party whose interest is in question."
+          },
+          "source": {
+            "fr": "Introduction aux principes de la morale et de la législation, ch. I, §2",
+            "en": "An Introduction to the Principles of Morals and Legislation, ch. I, §2"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          1,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Bentham part d'un constat qu'il tient pour un fait de nature : <c>plaisir</c> et <c>douleur</c> sont les deux seules choses que nous recherchons et fuyons effectivement comme fins. Le bien et le mal n'ont alors aucun contenu à part : nommer une chose « bonne » ne dit rien de plus que sa tendance à produire du plaisir ou à écarter de la douleur. D'où un <c id='hedonism'>hédonisme</c> à la fois psychologique et moral, qui soude le constat et la norme par les mêmes deux maîtres souverains et ne laisse aucune place à un épanouissement ou à une perfection distincts de l'agréable, contre les biens objectifs de la tradition aristotélicienne.",
+          "en": "Bentham starts from what he takes to be a fact of nature: <c>pleasure</c> and <c>pain</c> are the only two things we actually seek and shun as ends. Good and evil then have no separate content: to call a thing \"good\" says no more than that it tends to produce pleasure or ward off pain. Hence a <c id='hedonism'>hedonism</c> at once psychological and moral, welding fact to norm through the same two sovereign masters and leaving no room for a flourishing or perfection distinct from the agreeable, against the objective goods of the Aristotelian tradition."
+        },
+        "references": [
+          {
+            "fr": "Introduction aux principes de la morale et de la législation, ch. I, §1",
+            "en": "An Introduction to the Principles of Morals and Legislation, ch. I, §1"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "La nature a placé l'humanité sous l'empire de deux maîtres souverains, la douleur et le plaisir. C'est à eux seuls qu'il appartient de montrer ce que nous devons faire comme de déterminer ce que nous ferons.",
+            "en": "Nature has placed mankind under the governance of two sovereign masters, pain and pleasure. It is for them alone to point out what we ought to do, as well as to determine what we shall do."
+          },
+          "source": {
+            "fr": "Introduction aux principes de la morale et de la législation, ch. I, §1",
+            "en": "An Introduction to the Principles of Morals and Legislation, ch. I, §1"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_CIRCLE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          1,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si le seul titre à entrer dans le calcul est de pouvoir éprouver plaisir et douleur, alors la frontière de la considération morale doit suivre la <c>sensibilité</c>, et non la raison ni le langage. Bentham retourne ainsi l'argument cartésien de l'animal-machine et celui qui excluait l'esclave : ce ne sont pas la faculté de raisonner ou de parler qui ouvrent droit à la considération, mais la capacité à pâtir. La conclusion suit par cohérence du critère utilitariste lui-même : la considération s'étend à tout être sensible, ce qui le situe au <c>pathocentrisme</c> et fait de lui un précurseur de la cause animale.",
+          "en": "If the sole title to enter the calculus is to be able to feel pleasure and pain, then the boundary of moral consideration must follow <c>sentience</c>, not reason or language. Bentham thus turns back both the Cartesian argument of the animal-machine and the one that once excluded the slave: it is not the faculty of reasoning or talking that grounds a claim to consideration, but the capacity to suffer. The conclusion follows from the consistency of the utilitarian criterion itself: consideration extends to every sentient being, placing him in <c>pathocentrism</c> and making him a precursor of the animal cause."
+        },
+        "references": [
+          {
+            "fr": "Introduction aux principes de la morale et de la législation, ch. XVII, §1, note (la souffrance des animaux)",
+            "en": "An Introduction to the Principles of Morals and Legislation, ch. XVII, §1, footnote (the suffering of animals)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "La question n'est pas : peuvent-ils raisonner ? ni : peuvent-ils parler ? mais : peuvent-ils souffrir ?",
+            "en": "The question is not, Can they reason? nor, Can they talk? but, Can they suffer?"
+          },
+          "source": {
+            "fr": "Introduction aux principes de la morale et de la législation, ch. XVII",
+            "en": "An Introduction to the Principles of Morals and Legislation, ch. XVII"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DISTRIBUTIVE_JUSTICE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Dans le calcul du bonheur collectif, <q>chacun doit compter pour un, et nul pour plus d'un</q> : aucun intérêt ne pèse davantage en raison du rang ou de la naissance. Cet égalitarisme du décompte, conjugué à l'idée de l'utilité marginale décroissante des richesses, oriente Bentham vers une répartition plus égale du bien-être, sans pour autant qu'il prône une stricte égalité des biens, qui ruinerait la sécurité.",
+          "en": "In reckoning collective happiness, <q>everybody to count for one, nobody for more than one</q>: no interest weighs more by reason of rank or birth. This egalitarianism of the count, joined to the idea of the diminishing marginal utility of wealth, inclines Bentham toward a more equal distribution of well-being, without his advocating a strict equality of goods, which would wreck security."
+        },
+        "references": [
+          {
+            "fr": "Principes du code civil (l'utilité décroissante de la richesse, sécurité et égalité)",
+            "en": "Principles of the Civil Code (the diminishing utility of wealth, security and equality)"
+          },
+          {
+            "fr": "Formule rapportée par J. S. Mill, L'utilitarisme, ch. V",
+            "en": "Maxim reported by J. S. Mill, Utilitarianism, ch. V"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Chacun doit compter pour un, et nul pour plus d'un.",
+            "en": "Everybody to count for one, nobody for more than one."
+          },
+          "source": {
+            "fr": "Maxime de Bentham, rapportée par J. S. Mill",
+            "en": "Bentham's maxim, as reported by J. S. Mill"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TASTE_HIERARCHY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 1
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Puisque seule la quantité de plaisir entre dans la balance, il n'y a aucun lieu où inscrire une supériorité intrinsèque d'un plaisir sur un autre : à quantité égale, un divertissement vulgaire et un art réputé noble se valent exactement. Hiérarchiser les plaisirs selon leur dignité réintroduirait en contrebande un critère étranger au plaisir, ce que le <c id='hedonism'>principe hédoniste</c> interdit. Cet égalitarisme du goût est le point de rupture avec <ph id='mill'>Mill</ph>, qui distinguera plaisirs supérieurs et inférieurs précisément pour parer l'objection de la <q>morale à pourceaux</q> : là où Mill cède, Bentham assume jusqu'au bout la stricte quantification.",
+          "en": "Since only the quantity of pleasure enters the balance, there is nowhere to lodge an intrinsic superiority of one pleasure over another: at equal quantity, a vulgar amusement and an art reputed noble are exactly worth the same. To rank pleasures by their dignity would smuggle in a criterion foreign to pleasure, which the <c id='hedonism'>hedonist principle</c> forbids. This egalitarianism of taste is the breaking point with <ph id='mill'>Mill</ph>, who would distinguish higher and lower pleasures precisely to parry the charge of a <q>doctrine worthy only of swine</q>: where Mill gives ground, Bentham carries strict quantification through to the end."
+        },
+        "references": [
+          {
+            "fr": "The Rationale of Reward (le pushpin vaut bien la poésie)",
+            "en": "The Rationale of Reward (pushpin is as good as poetry)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "À quantité de plaisir égale, le pushpin vaut bien la poésie.",
+            "en": "Quantity of pleasure being equal, pushpin is as good as poetry."
+          },
+          "source": {
+            "fr": "The Rationale of Reward",
+            "en": "The Rationale of Reward"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "PUNISHMENT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.7,
+          0.3,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La peine est en elle-même un mal, une douleur, et ne se justifie que par l'utilité qu'elle produit : <q>toute peine est en elle-même un mal ; selon le principe d'utilité, si elle doit être admise, ce n'est que dans la mesure où elle promet d'écarter quelque mal plus grand</q>. Sa fin première est la <c>prévention</c> des délits, surtout par la dissuasion, et accessoirement par l'amendement du coupable ; Bentham récuse explicitement la <c>rétribution</c> et le talion comme un mal ajouté à un mal, sans profit.",
+          "en": "Punishment is in itself an evil, a pain, and is justified only by the utility it yields: <q>all punishment in itself is evil; upon the principle of utility, if it ought at all to be admitted, it ought only to be admitted in as far as it promises to exclude some greater evil</q>. Its first end is the <c>prevention</c> of offences, chiefly by deterrence and secondarily by the reform of the offender; Bentham explicitly rejects retribution and the lex talionis as an evil added to an evil, with no profit."
+        },
+        "references": [
+          {
+            "fr": "Introduction aux principes de la morale et de la législation, ch. XIII-XIV (les peines, leurs fins et leur mesure)",
+            "en": "An Introduction to the Principles of Morals and Legislation, ch. XIII-XIV (punishment, its ends and its measure)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Toute peine est en elle-même un mal. Selon le principe d'utilité, si elle doit être admise, ce n'est que dans la mesure où elle promet d'écarter quelque mal plus grand.",
+            "en": "All punishment in itself is evil. Upon the principle of utility, if it ought at all to be admitted, it ought only to be admitted in as far as it promises to exclude some greater evil."
+          },
+          "source": {
+            "fr": "Introduction aux principes de la morale et de la législation, ch. XIII, §2",
+            "en": "An Introduction to the Principles of Morals and Legislation, ch. XIII, §2"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          1,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le <c id='greatest-happiness-principle'>principe d'utilité</c> vaut pour tous les hommes et tous les temps : le critère du plaisir et de la douleur est un fait de nature universel, et le calcul s'applique de la même façon partout. Bentham ne relativise pas la morale aux cultures ni n'en fait une simple convention ; c'est un <c>universalisme</c> naturaliste, fondé sur la sensibilité commune à tous les êtres.",
+          "en": "The <c id='greatest-happiness-principle'>principle of utility</c> holds for all people and all times: the criterion of pleasure and pain is a universal natural fact, and the calculus applies the same way everywhere. Bentham does not relativize morality to cultures nor reduce it to mere convention; this is a naturalistic universalism, grounded in a sentience common to all beings."
+        },
+        "references": [
+          {
+            "fr": "Introduction aux principes de la morale et de la législation, ch. I-IV (le principe et sa mesure, valables universellement)",
+            "en": "An Introduction to the Principles of Morals and Legislation, ch. I-IV (the principle and its measure, universally valid)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CONSERVATISM_PROGRESSISM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Bentham juge les institutions à leur seule utilité présente, jamais à leur ancienneté : il faut réformer méthodiquement le droit, codifier les lois, abolir les survivances irrationnelles. Réformateur radical du système pénal et carcéral (le projet du <c>Panoptique</c>), il dénonce la <q>déraison</q> de la common law et milite pour une refonte rationnelle des codes. C'est un <c>progressisme</c> réformateur affirmé.",
+          "en": "Bentham judges institutions by their present utility alone, never by their antiquity: law must be methodically reformed, statutes codified, irrational survivals abolished. A radical reformer of the penal and carceral system (the <c>Panopticon</c> project), he denounces the <q>nonsense</q> of the common law and campaigns for a rational recasting of the codes. This is an avowed reformist progressivism."
+        },
+        "references": [
+          {
+            "fr": "A Fragment on Government (critique de Blackstone et de la common law)",
+            "en": "A Fragment on Government (critique of Blackstone and the common law)"
+          },
+          {
+            "fr": "Panopticon, ou la maison d'inspection",
+            "en": "Panopticon, or the Inspection-House"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La morale de Bentham est entièrement <c>séculière</c> : le bien et le mal se règlent sur le seul calcul des plaisirs et des peines, sans recours à une volonté divine. Sous le pseudonyme de Philip Beauchamp, il publie une critique de l'utilité de la religion naturelle, et l'analyse du <q>principe d'antipathie théologique</q> rejette la sanction religieuse comme fondement moral. La pente est nettement antireligieuse et critique, sans athéisme métaphysique explicitement systématisé.",
+          "en": "Bentham's morality is wholly <c>secular</c>: good and evil are settled by the sole calculus of pleasures and pains, with no recourse to a divine will. Under the pen name Philip Beauchamp he published a critique of the usefulness of natural religion, and his analysis of the <q>theological principle of antipathy</q> rejects religious sanction as a moral foundation. The leaning is markedly anti-religious and critical, without an explicitly systematized metaphysical atheism."
+        },
+        "references": [
+          {
+            "fr": "Analysis of the Influence of Natural Religion on the Temporal Happiness of Mankind (sous le nom de Philip Beauchamp)",
+            "en": "Analysis of the Influence of Natural Religion on the Temporal Happiness of Mankind (as Philip Beauchamp)"
+          },
+          {
+            "fr": "Introduction aux principes de la morale et de la législation, ch. II (le principe théologique réductible aux autres)",
+            "en": "An Introduction to the Principles of Morals and Legislation, ch. II (the theological principle reducible to the others)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "WHO_DECIDES",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Convaincu après 1809 que seuls les gouvernés ont intérêt à viser le bonheur du plus grand nombre, Bentham se rallie à la démocratie représentative : suffrage quasi universel, scrutin secret, élections fréquentes, contre les <c>intérêts sinistres</c> des classes dirigeantes. Le pouvoir doit appartenir au peuple, garant le plus sûr de l'utilité générale, et non à une élite supposée plus compétente.",
+          "en": "Persuaded after 1809 that only the governed have an interest in aiming at the happiness of the greatest number, Bentham embraced representative democracy: near-universal suffrage, the secret ballot, frequent elections, against the <c>sinister interests</c> of the ruling classes. Power should belong to the people, the surest guarantor of the general utility, not to an elite presumed more competent."
+        },
+        "references": [
+          {
+            "fr": "Plan of Parliamentary Reform (1817)",
+            "en": "Plan of Parliamentary Reform (1817)"
+          },
+          {
+            "fr": "Constitutional Code (la démocratie représentative contre les intérêts sinistres)",
+            "en": "Constitutional Code (representative democracy against sinister interests)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "RULE_SPIRIT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Bentham veut un droit entièrement codifié, clair et systématique, où chaque délit et chaque peine sont définis par avance, afin de soustraire la justice à l'arbitraire du juge et à la <q>déraison</q> de la common law. Cette confiance dans des règles explicites et préétablies, plutôt que dans le jugement prudentiel cas par cas, le situe du côté du <c>légalisme</c>, même si la règle elle-même reste justifiée par l'utilité.",
+          "en": "Bentham wants a fully codified law, clear and systematic, in which every offence and every penalty is defined in advance, so as to take justice out of the judge's discretion and out of the <q>nonsense</q> of the common law. This trust in explicit, pre-established rules rather than in case-by-case prudential judgement places him on the side of legalism, even though the rule itself remains justified by utility."
+        },
+        "references": [
+          {
+            "fr": "Of Laws in General et Constitutional Code (le projet de codification)",
+            "en": "Of Laws in General and Constitutional Code (the codification project)"
+          },
+          {
+            "fr": "A Fragment on Government (contre l'arbitraire de la common law)",
+            "en": "A Fragment on Government (against the arbitrariness of the common law)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SELF_INTEREST",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Bentham tient pour un fait que chacun est mû par son propre intérêt, la recherche de son plaisir et la fuite de sa douleur : c'est un <c>égoïsme psychologique</c>. <dif>Mais le critère moral, lui, exige de viser le bonheur du plus grand nombre : comment un mobile naturellement intéressé peut-il fonder une exigence d'impartialité ?</dif> Tout l'art du législateur consiste à aménager les <c>sanctions</c> pour que l'intérêt particulier coïncide avec l'intérêt général. La norme penche donc vers l'altruisme du décompte impartial, sur fond d'un mobile naturellement intéressé.",
+          "en": "Bentham takes it as a fact that everyone is moved by self-interest, the pursuit of one's own pleasure and the avoidance of one's own pain: a <c>psychological egoism</c>. <dif>Yet the moral criterion demands aiming at the happiness of the greatest number: how can a naturally self-interested motive ground a requirement of impartiality?</dif> The whole art of the legislator lies in arranging the <c>sanctions</c> so that private interest coincides with the general interest. The norm thus leans toward the altruism of an impartial count, against a backdrop of naturally self-interested motive."
+        },
+        "references": [
+          {
+            "fr": "Introduction aux principes de la morale et de la législation, ch. III (les quatre sanctions)",
+            "en": "An Introduction to the Principles of Morals and Legislation, ch. III (the four sanctions)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "PARTIALITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Dans le calcul de l'utilité, le plaisir et la douleur de chacun comptent à égalité, sans privilège pour soi, ses proches ou son groupe : <q>chacun pour un, nul pour plus d'un</q>. Cet <c>impartialisme</c> strict, où le bien-être de l'agent ne pèse pas plus que celui de n'importe qui d'autre, est l'un des traits les plus caractéristiques et les plus exigeants de l'utilitarisme classique.",
+          "en": "In the reckoning of utility, each person's pleasure and pain count equally, with no privilege for oneself, one's kin or one's group: <q>each to count for one, none for more than one</q>. This strict impartialism, in which the agent's own well-being weighs no more than anyone else's, is one of the most characteristic and most demanding features of classical utilitarianism."
+        },
+        "references": [
+          {
+            "fr": "Introduction aux principes de la morale et de la législation, ch. IV (l'étendue : le nombre des personnes affectées)",
+            "en": "An Introduction to the Principles of Morals and Legislation, ch. IV (extent: the number of persons affected)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Toute conduite humaine est gouvernée par la recherche du plaisir et la fuite de la douleur ; le législateur peut donc agir sur les comportements en pesant sur les motifs au moyen de <c>sanctions</c>, qui ajoutent une peine ou un plaisir à la balance. Cette psychologie des mobiles suppose des actions <c id='determinism'>déterminées</c> par leurs causes, condition même de l'efficacité du calcul pénal, sans que Bentham thématise la question métaphysique du <c id='free-will'>libre arbitre</c>.",
+          "en": "All human conduct is governed by the pursuit of pleasure and the avoidance of pain; the legislator can therefore act on behaviour by bearing on motives through <c>sanctions</c>, which add a pain or a pleasure to the balance. This psychology of motives presupposes actions <c id='determinism'>determined</c> by their causes, the very condition of the penal calculus working, though Bentham does not thematize the metaphysical question of <c id='free-will'>free will</c>."
+        },
+        "references": [
+          {
+            "fr": "Introduction aux principes de la morale et de la législation, ch. III et X (les mobiles et leur action)",
+            "en": "An Introduction to the Principles of Morals and Legislation, ch. III and X (motives and their operation)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MORAL_DEMAND",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Exiger de toujours agir de manière à produire le plus grand bonheur du plus grand nombre, en comptant chacun à égalité, fait peser sur l'agent une demande potentiellement très lourde : aucune sphère privée n'échappe par principe à l'évaluation par l'utilité. <dif>Cette exigence maximaliste se heurte toutefois au réalisme du législateur, qui sait ne pouvoir tout réglementer : le principe lui-même ne pose aucune limite a priori, alors que sa mise en oeuvre en suppose nécessairement.</dif>",
+          "en": "Requiring one always to act so as to produce the greatest happiness of the greatest number, counting each equally, lays on the agent a potentially very heavy demand: no private sphere escapes evaluation by utility in principle. <dif>This maximalist demand collides, however, with the legislator's realism, which knows it cannot regulate everything: the principle itself sets no a priori limit, whereas its implementation necessarily presupposes one.</dif>"
+        },
+        "references": [
+          {
+            "fr": "Introduction aux principes de la morale et de la législation, ch. I-IV (le principe du plus grand bonheur appliqué à toute action)",
+            "en": "An Introduction to the Principles of Morals and Legislation, ch. I-IV (the greatest happiness principle applied to every action)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Dans la lignée <mv id='empiricism'>empiriste</mv> de <ph id='locke'>Locke</ph> et de Hume, Bentham tient pour réel ce qui s'observe et se mesure, et suspecte tout terme qui ne renvoie à aucune entité sensible. C'est le ressort de sa critique des fictions : une expression comme le <c>droit naturel</c> prétend désigner une chose alors qu'aucun fait ne lui correspond, et n'est qu'un mot dont on couvre une exigence sans la justifier. Sa méthode est donc résolument inductive et naturaliste, ancrée dans l'expérience des plaisirs et des peines plutôt que dans des principes rationnels a priori, et c'est par là qu'il congédie le droit naturel.",
+          "en": "In the <mv id='empiricism'>empiricist</mv> line of <ph id='locke'>Locke</ph> and Hume, Bentham holds real only what can be observed and measured, and suspects any term that answers to no sensible entity. This drives his critique of fictions: an expression like <c>natural right</c> claims to name a thing while no fact corresponds to it, and is merely a word with which a demand is cloaked rather than justified. His method is thus resolutely inductive and naturalistic, anchored in the experience of pleasures and pains rather than in a priori rational principles, and it is on that ground that he dismisses natural rights."
+        },
+        "references": [
+          {
+            "fr": "Anarchical Fallacies (les droits naturels, du non-sens sur des échasses)",
+            "en": "Anarchical Fallacies (natural rights, nonsense upon stilts)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Les droits naturels, c'est purement et simplement du non-sens : les droits naturels et imprescriptibles, du non-sens sur des échasses.",
+            "en": "Natural rights is simple nonsense: natural and imprescriptible rights, rhetorical nonsense, nonsense upon stilts."
+          },
+          "source": {
+            "fr": "Anarchical Fallacies",
+            "en": "Anarchical Fallacies"
+          }
+        },
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "POLITICAL_IDEAL",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Bentham construit ses réformes sur la nature réelle des hommes, mus par leur intérêt, et conçoit des institutions, sanctions et mécanismes constitutionnels destinés à canaliser cet intérêt vers l'utilité générale. Ce souci d'efficacité concrète et de prise sur les <c>intérêts sinistres</c> relève d'un <c>réalisme politique</c>, même si la visée réformatrice ultime, refondre rationnellement la société entière, garde une part d'ambition quasi utopique.",
+          "en": "Bentham builds his reforms on the real nature of human beings, moved by their interest, and devises institutions, sanctions and constitutional mechanisms meant to channel that interest toward the general utility. This concern for concrete effectiveness and for gripping the <c>sinister interests</c> belongs to a political realism, even if the ultimate reforming aim, to recast the whole of society rationally, keeps a near-utopian streak of ambition."
+        },
+        "references": [
+          {
+            "fr": "Constitutional Code (institutions conçues sur les intérêts réels)",
+            "en": "Constitutional Code (institutions designed on real interests)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HUMAN_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La nature humaine se ramène pour Bentham à une donnée constante et universelle : la sensibilité au plaisir et à la douleur, ressort de toute conduite en tout lieu et tout temps. C'est sur ce socle naturel, et non sur des déterminations culturelles variables, qu'il fonde sa science de la législation, ce qui le situe nettement du côté du <c>naturalisme</c> anthropologique.",
+          "en": "Human nature reduces, for Bentham, to a constant and universal datum: sensitivity to pleasure and pain, the mainspring of all conduct in every place and time. It is on this natural footing, not on variable cultural determinations, that he founds his science of legislation, placing him clearly on the side of anthropological naturalism."
+        },
+        "references": [
+          {
+            "fr": "Introduction aux principes de la morale et de la législation, ch. I (les deux maîtres souverains, constants pour tous)",
+            "en": "An Introduction to the Principles of Morals and Legislation, ch. I (the two sovereign masters, constant for all)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "INDIVIDUAL_SOCIETY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Pour Bentham, la communauté est une fiction : son intérêt n'est que la somme des intérêts des membres qui la composent. Il n'existe pas d'entité collective dotée d'un bien propre au-dessus des individus ; le bonheur social n'est que l'agrégat des bonheurs individuels. C'est un <c>individualisme méthodologique</c> net, fondement de tout le calcul utilitariste.",
+          "en": "For Bentham, the community is a fiction: its interest is but the sum of the interests of the members who compose it. There is no collective entity with a good of its own above individuals; social happiness is but the aggregate of individual happinesses. This is a clear <c>methodological individualism</c>, the foundation of the whole utilitarian calculus."
+        },
+        "references": [
+          {
+            "fr": "Introduction aux principes de la morale et de la législation, ch. I, §4 (l'intérêt de la communauté, somme des intérêts individuels)",
+            "en": "An Introduction to the Principles of Morals and Legislation, ch. I, §4 (the interest of the community, the sum of individual interests)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "L'intérêt de la communauté, qu'est-ce donc ? La somme des intérêts des divers membres qui la composent.",
+            "en": "The interest of the community then is, what? — the sum of the interests of the several members who compose it."
+          },
+          "source": {
+            "fr": "Introduction aux principes de la morale et de la législation, ch. I, §4",
+            "en": "An Introduction to the Principles of Morals and Legislation, ch. I, §4"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "BODILY_PLEASURES",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Aucun plaisir n'est mauvais en lui-même : les plaisirs des sens figurent au même titre que les autres dans la liste que dresse Bentham, et seul leur effet quantitatif sur la balance générale importe. Loin de tout <c>ascétisme</c>, qu'il range parmi les principes erronés, il célèbre par principe tout plaisir, corporel compris, dès lors qu'il n'engendre pas plus de douleur qu'il ne procure de jouissance.",
+          "en": "No pleasure is bad in itself: the pleasures of sense appear on the same footing as the rest in Bentham's catalogue, and only their quantitative effect on the overall balance matters. Far from any asceticism, which he ranks among the mistaken principles, he celebrates on principle every pleasure, bodily ones included, so long as it breeds no more pain than it yields enjoyment."
+        },
+        "references": [
+          {
+            "fr": "Introduction aux principes de la morale et de la législation, ch. V (l'énumération des plaisirs et des peines)",
+            "en": "An Introduction to the Principles of Morals and Legislation, ch. V (the catalogue of pleasures and pains)"
+          },
+          {
+            "fr": "Introduction aux principes de la morale et de la législation, ch. II (contre le principe d'ascétisme)",
+            "en": "An Introduction to the Principles of Morals and Legislation, ch. II (against the principle of asceticism)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Bentham se défie des sentiments moraux érigés en règles : le <c>principe de sympathie et d'antipathie</c> approuve ou condamne au gré du sentiment, sans en rendre raison, et masque souvent des préjugés. À la spontanéité affective il oppose le <c>calcul félicifique</c>, procédure réflexive et quasi arithmétique de pesée des plaisirs et des peines. La morale relève ainsi d'un raisonnement méthodique plutôt que de l'émotion.",
+          "en": "Bentham distrusts moral sentiments set up as rules: the <c>principle of sympathy and antipathy</c> approves or condemns at the whim of feeling, without giving a reason, and often masks prejudice. To affective spontaneity he opposes the <c>felicific calculus</c>, a reflective, quasi-arithmetic procedure for weighing pleasures and pains. Morality thus rests on methodical reasoning rather than on emotion."
+        },
+        "references": [
+          {
+            "fr": "Introduction aux principes de la morale et de la législation, ch. II (le principe de sympathie et d'antipathie)",
+            "en": "An Introduction to the Principles of Morals and Legislation, ch. II (the principle of sympathy and antipathy)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "FORGIVENESS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "EXTRAPOLATED",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Comme toute peine est un mal qui ne se justifie que par son utilité, infliger une souffrance sans bénéfice net est <q>injustifiable</q> ; Bentham répertorie ainsi les cas où la peine est inopportune, notamment lorsqu'elle serait inefficace ou non rentable. On peut en inférer qu'excuser ou remettre la peine y obéit aux mêmes conditions d'utilité, ce qui rattache l'idée d'un pardon ou d'une indulgence à un examen conditionnel, sans que Bentham traite explicitement du pardon comme tel.",
+          "en": "Since all punishment is an evil justified only by its utility, inflicting suffering with no net benefit is <q>groundless</q>; Bentham accordingly lists the cases where punishment is unmeet, notably where it would be inefficacious or unprofitable. One may infer that excusing or remitting a penalty obeys the same conditions of utility, tying any pardon or leniency to a conditional examination, though Bentham does not treat forgiveness as such explicitly."
+        },
+        "references": [
+          {
+            "fr": "Introduction aux principes de la morale et de la législation, ch. XIII (les cas où la peine ne doit pas être infligée)",
+            "en": "An Introduction to the Principles of Morals and Legislation, ch. XIII (cases unmeet for punishment)"
+          }
+        ],
+        "strength": "WEAK"
+      }
+    },
+    {
+      "axisId": "RIGHTS_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.6,
+          0.4,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Un droit, pour Bentham, n'est rien d'autre que le bénéfice d'une obligation que la loi impose à autrui et garantit par une <c>sanction</c> : pas de loi positive, pas d'obligation, donc pas de droit. Les <q>droits naturels</q> antérieurs à toute loi sont alors une contradiction dans les termes, un voeu déguisé en fait juridique, et même un danger, car invoquer un droit imprescriptible contre la loi ouvre la porte à l'anarchie. Le rejet n'est pas nihiliste mais utilitariste : il y a bien des droits, mais c'est l'utilité, et non la nature, qui doit guider le législateur lorsqu'il les crée.",
+          "en": "A right, for Bentham, is nothing but the benefit of an obligation that the law lays on others and backs by a <c>sanction</c>: no positive law, no obligation, hence no right. <q>Natural rights</q> prior to any law are therefore a contradiction in terms, a wish dressed up as a legal fact, and even a danger, since to invoke an imprescriptible right against the law opens the door to anarchy. The rejection is not nihilist but utilitarian: there are indeed rights, but it is utility, not nature, that should guide the legislator in creating them."
+        },
+        "references": [
+          {
+            "fr": "Anarchical Fallacies ; Introduction aux principes de morale et de législation",
+            "en": "Anarchical Fallacies; Introduction to the Principles of Morals and Legislation"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "thesis": {
+        "fr": "Une seule règle juge toute action, le <c id='greatest-happiness-principle'>principe d'utilité</c> : est bon ce qui tend à augmenter le bonheur, mauvais ce qui tend à le diminuer, et rien d'autre.",
+        "en": "A single rule judges every action, the <c id='greatest-happiness-principle'>principle of utility</c>: good is what tends to augment happiness, bad what tends to diminish it, and nothing else."
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "thesis": {
+        "fr": "La nature nous a placés sous l'empire de deux maîtres, le <c id='hedonism'>plaisir</c> et la <c>douleur</c> : il n'y a pas d'autre bien que l'agréable, pas d'autre mal que le pénible.",
+        "en": "Nature has placed us under two masters, <c id='hedonism'>pleasure</c> and <c>pain</c>: there is no good but the agreeable, no evil but the painful."
+      }
+    },
+    {
+      "axisId": "TASTE_HIERARCHY",
+      "thesis": {
+        "fr": "Aucun plaisir n'est plus noble qu'un autre : à quantité égale de plaisir, un jeu d'enfant vaut bien la poésie, et seule la quantité doit compter.",
+        "en": "No pleasure is nobler than another: at equal quantity of pleasure, a child's game is as good as poetry, and quantity alone should count."
+      }
+    },
+    {
+      "axisId": "MORAL_CIRCLE",
+      "thesis": {
+        "fr": "Ce qui ouvre droit à la considération morale n'est ni la raison ni le langage mais la <c>sensibilité</c> : la question est de savoir si un être peut souffrir.",
+        "en": "What grounds a claim to moral consideration is neither reason nor language but <c>sentience</c>: the question is whether a being can suffer."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

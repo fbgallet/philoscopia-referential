@@ -1,0 +1,12 @@
+{
+  "id": "phainomena",
+  "term": { "fr": "Les apparences (phainomena)", "en": "Appearances (phainomena)" },
+  "definition": {
+    "fr": "Les phainomena sont les apparences, ce qui se montre à nous et s'impose sans qu'on en décide : que le miel paraît doux, que telle tour paraît ronde de loin. Le sceptique pyrrhonien ne conteste pas le phénomène, il s'y règle même comme seul critère de l'action, mais il <c id='epoche'>suspend son jugement</c> sur ce que les choses seraient « par nature », au-delà de leur apparence. Suivre les apparences, les inclinations naturelles et les coutumes lui permet d'agir et de vivre sans rien affirmer dogmatiquement sur le réel caché. <ph id='sextus-empiricus'>Sextus Empiricus</ph> en fait le terrain où le sceptique consent à se mouvoir.",
+    "en": "Phainomena are appearances, what shows itself to us and imposes itself without our deciding: that honey appears sweet, that a tower appears round from afar. The Pyrrhonian sceptic does not contest the appearance, indeed he regulates himself by it as the sole criterion of action, but he <c id='epoche'>suspends judgment</c> about what things would be \"by nature\", beyond how they appear. Following appearances, natural inclinations and customs lets him act and live without asserting anything dogmatic about the hidden real. <ph id='sextus-empiricus'>Sextus Empiricus</ph> makes it the ground on which the sceptic consents to move."
+  },
+  "relatedAxes": ["CERTAINTY", "MORAL_SCOPE"],
+  "relatedTerms": ["epoche", "skepticism", "dogmatism"],
+  "positions": [{ "axisId": "CERTAINTY", "poleId": "SKEPTICISM" }],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

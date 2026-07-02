@@ -1,0 +1,490 @@
+{
+  "kind": "MOVEMENT",
+  "id": "cynicism",
+  "name": {
+    "fr": "Cynisme",
+    "en": "Cynicism"
+  },
+  "tagline": {
+    "fr": "Vivre <c>selon la nature</c> et non selon la convention, libre par l'<c id='autarkeia'>autosuffisance</c> et le <c id='parrhesia'>franc-parler</c>.",
+    "en": "Living <c>according to nature</c> rather than convention, free through <c id='autarkeia'>self-sufficiency</c> and <c id='parrhesia'>frank speech</c>."
+  },
+  "summary": {
+    "fr": "Né à Athènes au IVe siècle avant notre ère, le cynisme se rattache à Socrate par <ph>Antisthène</ph>, mais c'est <ph>Diogène de Sinope</ph>, exilé qui vécut dit-on dans un tonneau, qui en fit une provocation érigée en philosophie : le scandale public, l'anecdote mordante et le geste valent ici l'argument. Le mot « cynique » vient du grec <c>kynikos</c> (« comme un chien »), un sobriquet que l'école retourna en fierté, et n'a rien de son sens péjoratif moderne. L'essentiel de la doctrine ne nous est connu qu'indirectement, par les chries (anecdotes) que compila <per>Diogène Laërce</per>, car les cyniques écrivirent peu et tinrent la philosophie pour affaire de vie plus que de traités. <ph>Cratès</ph> de Thèbes en adoucit la figure et transmit l'enseignement à <ph>Zénon de Citium</ph> : par lui, le cynisme devient l'une des racines du <mv id='stoicism'>stoïcisme</mv>, qui héritera de son cosmopolitisme et de l'idée que la vertu suffit, en lui adjoignant la physique et la logique que les cyniques dédaignaient.",
+    "en": "Born in Athens in the fourth century BCE, Cynicism traces back to Socrates through <ph>Antisthenes</ph>, but it was <ph>Diogenes of Sinope</ph>, an exile said to have lived in a barrel, who turned it into provocation raised to philosophy: here the public scandal, the biting anecdote and the gesture count for as much as the argument. The word « cynic » comes from the Greek <c>kynikos</c> (« dog-like »), a nickname the school turned into a badge of pride, and bears nothing of its modern pejorative sense. The doctrine reaches us only indirectly, through the chreiai (anecdotes) compiled by <per>Diogenes Laertius</per>, for the Cynics wrote little and held philosophy to be a matter of living rather than of treatises. <ph>Crates</ph> of Thebes softened the figure and passed the teaching to <ph>Zeno of Citium</ph>: through him Cynicism becomes one of the roots of <mv id='stoicism'>Stoicism</mv>, which would inherit its cosmopolitanism and the idea that virtue suffices, while adding the physics and logic the Cynics disdained."
+  },
+  "period": {
+    "from": -400,
+    "to": -200
+  },
+  "keyFigures": [
+    {
+      "slug": "diogenes",
+      "name": { "fr": "Diogène de Sinope", "en": "Diogenes of Sinope" }
+    },
+    {
+      "slug": "antisthenes",
+      "name": { "fr": "Antisthène", "en": "Antisthenes" }
+    },
+    {
+      "slug": "crates",
+      "name": { "fr": "Cratès", "en": "Crates" }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.05,
+          0,
+          0.95,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Pour le cynisme, la vertu est le seul bien et suffit au bonheur : elle ne s'enseigne pas en théorie mais s'acquiert par l'exercice (<c>askesis</c>), comme un art de vivre conforme à la nature. Toute l'éthique tient dans la formation d'un caractère libre et autosuffisant, indifférent aux conventions, sans règle ni calcul des conséquences.",
+          "en": "For Cynicism, virtue is the only good and suffices for happiness: it is not taught in theory but acquired through exercise (<c>askesis</c>), as an art of living in accordance with nature. The whole of ethics lies in the formation of a free, self-sufficient character, indifferent to conventions, with neither rule nor calculation of consequences."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies, VI",
+            "en": "Diogenes Laertius, Lives, VI"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Les cyniques ne professent pas un athéisme théorique, mais une irréligion pratique : Diogène raille les rites, les mystères et les oracles, et tient pour vaines les croyances et les peurs religieuses de la cité. Indifférents aux dieux du culte, ils ramènent le divin à la vertu et à la nature, ce qui les éloigne nettement du théisme sans en faire des athées militants.",
+          "en": "The Cynics profess no theoretical atheism, but a practical irreligion: Diogenes mocks the rites, the mysteries and the oracles, and holds the city's religious beliefs and fears to be vain. Indifferent to the gods of cult, they reduce the divine to virtue and to nature, which sets them clearly apart from theism without making them militant atheists."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies, VI",
+            "en": "Diogenes Laertius, Lives, VI"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le cynisme fait de l'effort pénible (<c>ponos</c>) le moyen même de la vertu : Diogène s'entraîne au froid, à la faim, au dénuement pour s'endurcir et se rendre libre. La souffrance volontairement embrassée n'est pas un mal mais une <c>askēsis</c>, une gymnastique de l'âme qui forge l'autosuffisance et affranchit des coups de la fortune.",
+          "en": "Cynicism makes painful effort (<c>ponos</c>) the very means of virtue: Diogenes trains himself to cold, hunger and destitution to harden himself and become free. Suffering voluntarily embraced is no evil but an <c>askēsis</c>, a gymnastics of the soul that forges self-sufficiency and frees one from the blows of fortune."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies, VI",
+            "en": "Diogenes Laertius, Lives, VI"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.45,
+          0.55,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Les cyniques mesurent la vie à la <c>nature</c> contre les conventions, mais ne la rapportent à aucune providence : le sens tient à la vie vertueuse, libre et autosuffisante qu'on se forge par l'exercice (<c>askēsis</c>). Plus que découvrir une fin donnée, il s'agit de conquérir une manière d'exister inconditionnée, ce qui fait pencher le sens du côté de l'œuvre humaine.",
+          "en": "The Cynics measure life against <c>nature</c> as opposed to conventions, but refer it to no providence: meaning lies in the virtuous, free and self-sufficient life one forges through exercise (<c>askēsis</c>). More than discovering a given end, the point is to win an unconditioned way of existing, which tips meaning toward human work."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies, VI",
+            "en": "Diogenes Laertius, Lives, VI"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.8,
+          0.1,
+          0.1,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Les cyniques affichent une indifférence provocante envers la mort : Diogène, dit-on, demande qu'on jette son cadavre par-dessus le mur pour les bêtes, raillant le soin des sépultures, puisqu'il ne sera plus là pour rien sentir. La mort n'est rien qui doive troubler le sage autosuffisant, et la crainte qu'on en a relève des conventions vaines qu'il s'agit justement de défaire.",
+          "en": "The Cynics flaunt a provocative indifference toward death: Diogenes, it is said, asks that his corpse be thrown over the wall to the beasts, mocking the care of burial, since he will no longer be there to feel anything. Death is nothing that should trouble the self-sufficient sage, and the fear of it belongs to the empty conventions he sets out precisely to undo."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies, VI",
+            "en": "Diogenes Laertius, Lives, VI"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le cynisme mesure la vie à la <c>nature</c> (physis) contre la <c>convention</c> (nomos) : il existe une condition humaine naturelle, autosuffisante et sans honte comme celle des animaux, que la civilisation a recouverte et qu'il faut retrouver. La nature est la norme, non une identité à inventer.",
+          "en": "Cynicism measures life against <c>nature</c> (physis) as opposed to <c>convention</c> (nomos): there is a natural human condition, self-sufficient and shameless like that of the animals, which civilization has covered over and which must be recovered. Nature is the norm, not an identity to be invented."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies, VI",
+            "en": "Diogenes Laertius, Lives, VI"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le cynique fait de la liberté (<c>eleutheria</c>) et de l'autosuffisance (<c>autarkeia</c>) le bien suprême : par l'exercice et le dépouillement, il se rend indépendant des désirs, de l'opinion et des coups de la fortune. Diogène se veut l'homme libre par excellence, maître de lui parce qu'il n'a besoin de rien. Liberté plus pratique que métaphysique : non une thèse sur le vouloir, mais la conquête d'une vie inconditionnée.",
+          "en": "The Cynic makes freedom (<c>eleutheria</c>) and self-sufficiency (<c>autarkeia</c>) the supreme good: through exercise and stripping away, he makes himself independent of desires, of opinion and of the blows of fortune. Diogenes means to be the free man par excellence, master of himself because he needs nothing. A freedom more practical than metaphysical: not a thesis about the will, but the conquest of an unconditioned life."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies, VI",
+            "en": "Diogenes Laertius, Lives, VI"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Antisthène, tête de file des cyniques, oppose au platonisme un <kw>nominalisme</kw> radical : <q>je vois bien un cheval, mais non la chevalité</q>. Seuls existent les individus sensibles, saisis par la perception ; les Idées générales sont de vains mots. Le savoir qui vaut se prend dans l'expérience et l'exercice concret, non dans la contemplation d'essences intelligibles.",
+          "en": "Antisthenes, the cynics' forerunner, opposes Platonism with a radical <kw>nominalism</kw>: <q>I can see a horse, but not horseness</q>. Only sensible individuals exist, grasped by perception; general Ideas are empty words. The knowledge that counts is taken from experience and concrete practice, not from the contemplation of intelligible essences."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies, VI",
+            "en": "Diogenes Laertius, Lives, VI"
+          },
+          {
+            "fr": "Simplicius, Commentaire des Catégories",
+            "en": "Simplicius, Commentary on the Categories"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "BELONGING",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.95 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si les frontières des cités ne sont que <c>nomos</c>, convention sans fondement dans la nature, alors aucune ne saurait commander l'appartenance d'un être raisonnable : <pb>la cité n'a pas plus de droit naturel sur moi que le hasard de ma naissance</pb>. De là le mot <c>kosmopolitēs</c> que forge Diogène, le premier à se dire citoyen du monde : non l'amour d'une patrie élargie, mais le refus d'en reconnaître aucune, l'humanité entière prise comme seul horizon. La provocation vise l'orgueil civique grec, qui faisait de l'exilé un déchu : le cynique en fait sa condition revendiquée.",
+          "en": "If the borders of cities are only <c>nomos</c>, convention without grounding in nature, then none can command the allegiance of a rational being: <pb>a city has no more natural claim on me than the accident of my birth</pb>. Hence the word <c>kosmopolitēs</c> that Diogenes coins, the first to call himself a citizen of the world: not love of an enlarged homeland, but the refusal to acknowledge any, all of humanity taken as the only horizon. The provocation strikes at Greek civic pride, which counted the exile as fallen: the Cynic makes that his claimed condition."
+        },
+        "references": [
+          { "fr": "Diogène Laërce, Vies des philosophes illustres, VI, 63", "en": "Diogenes Laertius, Lives of Eminent Philosophers, VI, 63" }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "On lui demandait d'où il était : « Citoyen du monde », répondit-il.",
+            "en": "When asked where he came from, he said: \"I am a citizen of the world.\""
+          },
+          "source": {
+            "fr": "Diogène Laërce, Vies, VI, 63",
+            "en": "Diogenes Laertius, Lives, VI, 63"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "CONTROL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.9 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "On n'est libre qu'à proportion de ce dont on peut se passer : tout besoin est une prise que le monde, la fortune ou les puissants ont sur nous. Le cynique en tire l'<c id='autarkeia'>autarkeia</c> (autosuffisance) comme but, vivre de telle sorte que rien d'extérieur ne soit nécessaire et que nul ne détienne donc rien dont nous dépendions. <stk>Quand Alexandre, maître du monde connu, lui offrit d'exaucer n'importe quel souhait</stk>, Diogène ne demanda que de s'écarter de son soleil : c'est montrer que l'homme le plus dénué, s'il ne désire rien, est plus invulnérable que le plus puissant des rois, lequel reste à la merci de ce qu'il possède.",
+          "en": "One is free only in proportion to what one can do without: every need is a hold that the world, fortune or the powerful have on us. From this the Cynic draws <c id='autarkeia'>autarkeia</c> (self-sufficiency) as the goal, living so that nothing external is necessary and no one therefore holds anything we depend on. <stk>When Alexander, master of the known world, offered to grant him any wish</stk>, Diogenes asked only that he stand out of his sunlight: this shows that the most destitute of men, if he desires nothing, is more invulnerable than the mightiest of kings, who remains at the mercy of what he owns."
+        },
+        "references": [
+          { "fr": "Diogène Laërce, Vies, VI, 38", "en": "Diogenes Laertius, Lives, VI, 38" }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "« Demande-moi ce que tu voudras. » « Ôte-toi de mon soleil. »",
+            "en": "\"Ask of me any boon you like.\" \"Stand out of my sunlight.\""
+          },
+          "source": {
+            "fr": "Diogène Laërce, Vies, VI, 38",
+            "en": "Diogenes Laertius, Lives, VI, 38"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 0.25, 0.75] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Tout ce qui peut être mal employé, ou perdu par un coup du sort, ne saurait être un vrai bien : ni la santé, ni la richesse, ni le plaisir ne passent l'épreuve. Antisthène, élève de Socrate, en conclut que seule la vertu mérite ce nom, parce qu'elle seule profite toujours et ne peut être ôtée ; une fois acquise elle ne se perd pas, et elle suffit dès lors au bonheur. Mais les cyniques durcissent l'héritage socratique sur un point décisif : <dif>la vertu n'est pas un savoir mais une force, qui s'acquiert par l'<c id='askesis'>entraînement</c> et se prouve par les actes</dif>, non par la définition, contre l'intellectualisme qui ferait du bien une science enseignable en paroles.",
+          "en": "Whatever can be misused, or lost to a stroke of fortune, cannot be a true good: neither health, nor wealth, nor pleasure passes the test. Antisthenes, a pupil of Socrates, concludes that virtue alone deserves the name, because it alone always benefits and cannot be taken away; once acquired it is not lost, and it therefore suffices for happiness. But the Cynics harden the Socratic legacy on one decisive point: <dif>virtue is not knowledge but a strength, won through <c id='askesis'>training</c> and proven by deeds</dif>, not by definition, against the intellectualism that would make the good a science teachable in words."
+        },
+        "references": [
+          { "fr": "Diogène Laërce, Vies, VI, 11", "en": "Diogenes Laertius, Lives, VI, 11" },
+          { "fr": "Diogène Laërce, Vies, VI, 104-105", "en": "Diogenes Laertius, Lives, VI, 104-105" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "BODILY_PLEASURES",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.85 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le cynisme est un ascétisme radical : par l'<c id='askesis'>askēsis</c> (entraînement), le sage se contente de l'eau, du pain et d'un manteau grossier, rejetant luxe et raffinements comme autant de servitudes. <stk>Voyant un enfant boire dans ses mains</stk>, Diogène jeta son écuelle, jugeant qu'un enfant l'avait surpassé en simplicité.",
+          "en": "Cynicism is a radical asceticism: through <c id='askesis'>askēsis</c> (training), the sage makes do with water, bread, and a coarse cloak, rejecting luxury and refinements as so many forms of bondage. <stk>Seeing a child drink from its cupped hands</stk>, Diogenes threw away his bowl, judging that a child had outdone him in simplicity."
+        },
+        "references": [
+          { "fr": "Diogène Laërce, Vies, VI, 37", "en": "Diogenes Laertius, Lives, VI, 37" },
+          { "fr": "Diogène Laërce, Vies, VI, 22-23", "en": "Diogenes Laertius, Lives, VI, 22-23" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HUMAN_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.9 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le cynisme repose tout entier sur une coupure : d'un côté la <c>physis</c> (la nature), qui fixe à l'homme des besoins simples et un même lot à tous ; de l'autre le <c>nomos</c> (la convention) des cités, qui surajoute richesses, rangs, pudeurs et honneurs sans aucun fondement dans les choses. <dif>Or l'homme se rend misérable précisément là où il prend la convention pour la nature</dif>, peinant pour des biens factices et rougissant d'actes que nul animal ne juge honteux. Vivre selon la nature, c'est donc défaire ce vernis : non un retour idéalisé à une bonté première, mais un dépouillement, ramener la conduite à ce que le besoin réel exige et tenir le reste pour fumée. La nature, ici, n'est pas norme finaliste mais critère négatif, ce qui reste quand on a ôté l'artifice.",
+          "en": "Cynicism rests entirely on one cut: on one side <c>physis</c> (nature), which sets man simple needs and one common lot; on the other the <c>nomos</c> (convention) of cities, which heaps on wealth, rank, modesties and honours with no grounding in things. <dif>And man makes himself wretched precisely where he takes convention for nature</dif>, toiling for factitious goods and blushing at acts no animal deems shameful. To live according to nature is thus to undo this varnish: not an idealised return to a primal goodness, but a stripping away, bringing conduct back to what real need requires and counting the rest as smoke. Nature here is not a teleological norm but a negative criterion, what remains once artifice is removed."
+        },
+        "references": [
+          { "fr": "Diogène Laërce, Vies, VI, 70-71", "en": "Diogenes Laertius, Lives, VI, 70-71" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SINCERITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.95 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si la honte sociale n'est que <c>nomos</c>, alors la taire ou la ménager, c'est se rendre complice du mensonge collectif sur lequel reposent les conventions. De là deux exigences solidaires. La <c id='parrhesia'>parrhēsia</c> (franc-parler) commande de dire le vrai sans détour ni flatterie, fût-ce au visage des puissants, pour qui la complaisance est devenue un dû : c'est, répondait Diogène, ce que les hommes ont de plus beau. L'<c>anaideia</c> (impudeur assumée) en est la preuve par l'acte : accomplir en public, sans rougir, ce que la pudeur convenue interdit, c'est démontrer expérimentalement que cette pudeur n'avait aucun fondement naturel. La franchise cynique n'est donc pas grossièreté gratuite mais une méthode de réfutation, qui prend le corps et le scandale pour arguments.",
+          "en": "If social shame is only <c>nomos</c>, then to keep it quiet or humour it is to become complicit in the collective lie on which conventions rest. Hence two bound demands. <c id='parrhesia'>Parrhēsia</c> (frank speech) requires telling the truth without circumlocution or flattery, even to the faces of the powerful, for whom deference has become an entitlement: it is, Diogenes answered, the finest thing men possess. <c>Anaideia</c> (deliberate shamelessness) is its proof by deed: to perform in public, without blushing, what accepted modesty forbids is to demonstrate experimentally that this modesty had no natural ground. Cynic frankness is thus no gratuitous coarseness but a method of refutation, which takes the body and the scandal as its arguments."
+        },
+        "references": [
+          { "fr": "Diogène Laërce, Vies, VI, 69", "en": "Diogenes Laertius, Lives, VI, 69" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "AUTHORITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.75 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le cynique méprise les institutions, les magistratures et les conventions civiques, qu'il tient pour des constructions arbitraires sans valeur naturelle. Cette défiance envers tout ordre établi, sans projet politique de remplacement, tend vers une forme d'<c>anarchisme</c> de l'individu autosuffisant : <stk>Diogène cherchait en plein jour, lanterne en main, un homme véritable</stk> parmi les figures du pouvoir.",
+          "en": "The Cynic despises institutions, magistracies, and civic conventions, holding them to be arbitrary constructions with no natural worth. This distrust of any established order, with no political project to replace it, tends toward a form of <c>anarchism</c> of the self-sufficient individual: <stk>Diogenes searched in broad daylight, lamp in hand, for a true human being</stk> among the figures of power."
+        },
+        "references": [
+          { "fr": "Diogène Laërce, Vies, VI, 41", "en": "Diogenes Laertius, Lives, VI, 41" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.85 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Puisque la philosophie a pour seul objet de bien vivre, et que bien vivre est une affaire de conduite, la physique, la logique et la dispute savante sont du temps perdu : on ne devient pas tempérant en définissant la tempérance. De là le rejet cynique de la théorie, qui n'est pas inculture mais cohérence avec le primat de l'<c id='praxis'>praxis</c>. <dif>Une thèse se réfute par un acte autant que par un argument</dif> : entendant nier le mouvement, Diogène, pour toute réplique, se leva et marcha. Le geste vaut démonstration, et la vie du sage, exposée au public, tient lieu de traité.",
+          "en": "Since philosophy's sole object is to live well, and living well is a matter of conduct, physics, logic and learned disputation are wasted time: one does not become temperate by defining temperance. Hence the Cynic rejection of theory, which is not lack of culture but consistency with the primacy of <c id='praxis'>praxis</c>. <dif>A thesis is refuted by an act as much as by an argument</dif>: hearing motion denied, Diogenes, for all reply, stood up and walked. The gesture serves as demonstration, and the sage's life, exposed in public, stands in for a treatise."
+        },
+        "references": [
+          { "fr": "Diogène Laërce, Vies, VI, 39", "en": "Diogenes Laertius, Lives, VI, 39" },
+          { "fr": "Diogène Laërce, Vies, VI, 70-71", "en": "Diogenes Laertius, Lives, VI, 70-71" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 0.2, 0.8] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le cynique réduit le désir au strict naturel et se détache de tout le reste : moins on désire, plus on est libre. L'<c id='askesis'>askēsis</c> consiste précisément à s'entraîner à ne plus rien vouloir des choses extérieures, de sorte que rien ne puisse manquer ni asservir.",
+          "en": "The Cynic reduces desire to the strictly natural and detaches himself from all the rest: the less one desires, the freer one is. <c id='askesis'>Askēsis</c> consists precisely in training oneself to want nothing more from external things, so that nothing can be lacking or enslaving."
+        },
+        "references": [
+          { "fr": "Diogène Laërce, Vies, VI, 105", "en": "Diogenes Laertius, Lives, VI, 105" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TASTE_HIERARCHY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.7 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le cynique tourne en dérision le raffinement, les arts de luxe et la culture distinguée comme autant de vanités sociales : ce qui passe pour bon goût n'est que <c>nomos</c>, marqueur de statut détaché du besoin naturel. La position est égalitaire, débusquant la prétention derrière les hiérarchies du goût.",
+          "en": "The Cynic mocks refinement, luxury arts, and distinguished culture as so many social vanities: what passes for good taste is mere <c>nomos</c>, a status marker detached from natural need. The stance is egalitarian, debunking the pretension behind hierarchies of taste."
+        },
+        "references": [
+          { "fr": "Diogène Laërce, Vies, VI, 24", "en": "Diogenes Laertius, Lives, VI, 24" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.85, 0.1, 0.05] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "En opposant la nature au <c>nomos</c>, le cynisme suppose un critère du bien indépendant des conventions et valable pour tous : ce qui est conforme à la nature est bon partout, ce qui n'est que coutume locale n'oblige pas. Le sage juge les moeurs au nom d'une norme naturelle universelle plutôt qu'au gré des cités.",
+          "en": "By opposing nature to <c>nomos</c>, Cynicism presupposes a criterion of the good independent of conventions and valid for all: what accords with nature is good everywhere, what is merely local custom does not bind. The sage judges customs in the name of a universal natural norm rather than according to each city."
+        },
+        "references": [
+          { "fr": "Diogène Laërce, Vies, VI, 70-71", "en": "Diogenes Laertius, Lives, VI, 70-71" }
+        ],
+        "strength": "MEDIUM"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "HUMAN_NATURE",
+      "thesis": {
+        "fr": "Presque tout ce que les hommes croient devoir à la nature n'est que <c>nomos</c>, convention sans fondement : vivre selon la nature, c'est dépouiller cet artifice jusqu'au seul besoin réel.",
+        "en": "Almost everything men believe they owe to nature is mere <c>nomos</c>, groundless convention: to live according to nature is to strip away that artifice down to real need alone."
+      }
+    },
+    {
+      "axisId": "CONTROL_SCOPE",
+      "thesis": {
+        "fr": "Qui ne désire rien d'extérieur ne dépend de personne : l'<c id='autarkeia'>autosuffisance</c> rend le plus dénué des hommes plus libre que le plus puissant des rois.",
+        "en": "Whoever desires nothing external depends on no one: <c id='autarkeia'>self-sufficiency</c> makes the most destitute of men freer than the mightiest of kings."
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "thesis": {
+        "fr": "La vertu seule est un bien, car seule on ne peut nous l'ôter ; et c'est une force qui s'acquiert par l'<c id='askesis'>entraînement</c> et se prouve par les actes, non un savoir.",
+        "en": "Virtue alone is a good, for it alone cannot be taken from us; and it is a strength won through <c id='askesis'>training</c> and proven by deeds, not a piece of knowledge."
+      }
+    },
+    {
+      "axisId": "SINCERITY",
+      "thesis": {
+        "fr": "Dire le vrai sans détour, fût-ce aux puissants, et transgresser sans rougir les pudeurs convenues : la <c id='parrhesia'>franchise</c> prouve par l'acte que la honte sociale n'a pas de fondement naturel.",
+        "en": "To speak the truth without circumlocution, even to the powerful, and to transgress accepted modesties without blushing: <c id='parrhesia'>frankness</c> proves by deed that social shame has no natural ground."
+      }
+    },
+    {
+      "axisId": "BELONGING",
+      "thesis": {
+        "fr": "Aucune cité n'a de droit naturel sur moi : je ne suis citoyen d'aucune patrie particulière mais <c>kosmopolitēs</c>, citoyen du monde entier.",
+        "en": "No city has any natural claim on me: I am citizen of no particular homeland but a <c>kosmopolitēs</c>, a citizen of the whole world."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

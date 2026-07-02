@@ -1,0 +1,12 @@
+{
+  "id": "nirvana",
+  "term": { "fr": "Nirvāṇa / Nibbāna (extinction, libération)", "en": "Nirvāṇa / Nibbāna (extinction, liberation)" },
+  "definition": {
+    "fr": "Nirvāṇa désigne <ety>littéralement l'« extinction », comme celle d'une flamme que l'on souffle</ety> : l'extinction de la <c id='tanha'>soif</c>, de la haine et de l'illusion, et avec elles de la <c id='dukkha'>souffrance</c>. Ce n'est pas un néant ni un paradis, mais un état de paix inconditionnée qui met fin au cycle des renaissances. Pour <ph id='buddha'>le Bouddha</ph>, il s'agit du but ultime du chemin, accessible dès cette vie.",
+    "en": "Nirvāṇa <ety>literally means \"extinction,\" like that of a flame blown out</ety>: the snuffing out of <c id='tanha'>craving</c>, hatred and delusion, and with them of <c id='dukkha'>suffering</c>. It is neither a void nor a paradise, but an unconditioned state of peace that ends the cycle of rebirth. For <ph id='buddha'>the Buddha</ph>, it is the ultimate goal of the path, attainable within this very life."
+  },
+  "relatedAxes": ["SUFFERING_MEANING", "LIFE_MEANING", "TRANSCENDENCE"],
+  "relatedTerms": ["dukkha", "tanha", "four-noble-truths"],
+  "figure": { "slug": "buddha", "name": { "fr": "Le Bouddha", "en": "The Buddha" } },
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

@@ -1,0 +1,613 @@
+{
+  "kind": "MOVEMENT",
+  "id": "aristotelianism",
+  "name": {
+    "fr": "Aristotélisme",
+    "en": "Aristotelianism"
+  },
+  "tagline": {
+    "fr": "Chaque être tend vers sa fin, et l'homme <c id='eudaimonism'>s'accomplit</c> en actualisant sa fonction propre, la raison.",
+    "en": "Every being tends toward its end, and humans <c id='eudaimonism'>flourish</c> by actualizing their proper function, reason."
+  },
+  "summary": {
+    "fr": "Tradition issue de l'école que <ph id='aristotle'>Aristote</ph> fonda au Lycée d'Athènes vers 335 avant notre ère, où ses disciples, les Péripatéticiens, enseignaient en se promenant. Formé chez <ph id='plato'>Platon</ph> mais en rupture avec lui, Aristote bâtit le premier système encyclopédique de la philosophie, de la logique à la biologie, à partir de l'observation patiente du monde sensible plutôt que de la contemplation d'un monde des Idées. Après une longue éclipse, son œuvre est commentée et prolongée par <ph>Averroès</ph> dans le monde arabo-musulman, puis intégrée au christianisme par <ph>Thomas d'Aquin</ph> : l'aristotélisme devient l'ossature de la <c>scolastique</c> médiévale et la référence dominante des universités, jusqu'à ce que la science moderne conteste son finalisme. Sa logique, son éthique de la vertu et son vocabulaire métaphysique irriguent encore la pensée occidentale.",
+    "en": "A tradition stemming from the school <ph id='aristotle'>Aristotle</ph> founded at the Lyceum in Athens around 335 BCE, where his disciples, the Peripatetics, taught while walking about. Trained under <ph id='plato'>Plato</ph> but breaking with him, Aristotle built philosophy's first encyclopaedic system, from logic to biology, out of the patient observation of the sensible world rather than the contemplation of a realm of Ideas. After a long eclipse, his work was commented on and extended by <ph>Averroes</ph> in the Arab-Muslim world, then absorbed into Christianity by <ph>Thomas Aquinas</ph>: Aristotelianism became the backbone of medieval <c>scholasticism</c> and the dominant authority of the universities, until modern science challenged its finalism. Its logic, its virtue ethics and its metaphysical vocabulary still run through Western thought."
+  },
+  "period": {
+    "from": -335,
+    "to": 1274
+  },
+  "keyFigures": [
+    {
+      "slug": "aristotle",
+      "name": { "fr": "Aristote", "en": "Aristotle" }
+    },
+    {
+      "slug": "aquinas",
+      "name": { "fr": "Thomas d'Aquin", "en": "Thomas Aquinas" }
+    },
+    {
+      "slug": "averroes",
+      "name": { "fr": "Averroès", "en": "Averroes" }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'aristotélisme tient la douleur et l'infortune pour de véritables maux, contre l'indifférence stoïcienne : le bonheur a besoin de biens extérieurs, et de grands malheurs peuvent l'entamer. La souffrance n'a pas de valeur en soi et doit être évitée ; mais l'homme courageux l'endure avec noblesse quand l'exige une fin bonne, sans la rechercher ni la sacraliser.",
+          "en": "Aristotelianism holds pain and misfortune to be genuine evils, against Stoic indifference: happiness needs external goods, and great misfortunes can impair it. Suffering has no value in itself and should be avoided; but the courageous person endures it nobly when a good end demands it, without seeking or sacralizing it."
+        },
+        "references": [
+          {
+            "fr": "Aristote, Éthique à Nicomaque, I et III",
+            "en": "Aristotle, Nicomachean Ethics, I and III"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.45,
+          0.1,
+          0.2,
+          0.25
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'aristotélisme tient la mort pour la fin naturelle du composé d'âme et de corps : un mal réel, qui prive de tous les biens, mais à affronter avec courage plutôt qu'à fuir ou à nier. Sauf l'intellect, dont l'éternité reste impersonnelle, rien de la personne ne survit : une finitude lucide, qui reconnaît à la mort sa gravité sans en faire ni un rien ni un passage.",
+          "en": "Aristotelianism holds death to be the natural end of the compound of soul and body: a real evil, which deprives of all goods, but to be faced with courage rather than fled or denied. Except for the intellect, whose eternity remains impersonal, nothing of the person survives: a lucid finitude, which grants death its gravity without making of it either a nothing or a passage."
+        },
+        "references": [
+          {
+            "fr": "Aristote, Éthique à Nicomaque, III",
+            "en": "Aristotle, Nicomachean Ethics, III"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.3
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Aristote forge l'analyse de l'acte volontaire : est volontaire ce dont le principe (<c>arche</c>) est dans l'agent connaissant les circonstances, par opposition à ce qui se fait par contrainte ou par ignorance. Puisque l'origine de nos actes est en nous, ils <q>dépendent de nous</q> (eph' hemin), et c'est pourquoi on loue et on blâme : la vertu comme le vice sont volontaires. Position de responsabilité, sans système déterministe ni libre arbitre métaphysique.",
+          "en": "Aristotle forges the analysis of the voluntary act: voluntary is that whose principle (<c>arche</c>) lies in the agent who knows the circumstances, as opposed to what is done under constraint or through ignorance. Since the origin of our acts is in us, they are <q>up to us</q> (eph' hemin), and that is why we praise and blame: virtue and vice alike are voluntary. A stance of responsibility, with neither a deterministic system nor a metaphysical free will."
+        },
+        "references": [
+          {
+            "fr": "Aristote, Éthique à Nicomaque, III, 1-5",
+            "en": "Aristotle, Nicomachean Ethics, III, 1-5"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 0.85, 0.15] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'argument procède de la fonction propre : comme le bien du flûtiste tient à bien remplir sa fonction, le bien de l'homme tient à l'activité qui lui est spécifique, l'exercice de la raison, que ne partagent ni la plante ni l'animal. Le souverain bien ne peut donc être le plaisir, que poursuit toute bête, contre l'<c id='hedonism'>hédonisme</c> ; ni un bien extérieur comme l'honneur, qui dépend d'autrui. C'est l'<c id='eudaimonism'>eudaimonia</c>, activité de l'âme conforme à la vertu : un accomplissement actif, et non un état possédé, qui se déploie sur toute une vie et requiert aussi des biens du corps et de la fortune.",
+          "en": "The argument proceeds from the proper function: as the flute-player's good lies in performing his function well, the human good lies in the activity specific to humans, the exercise of reason, which neither plant nor animal shares. The sovereign good thus cannot be pleasure, which every beast pursues, against <c id='hedonism'>hedonism</c>; nor an external good like honour, which depends on others. It is <c id='eudaimonism'>eudaimonia</c>, an activity of the soul in accord with virtue: an active fulfilment, not a possessed state, unfolding across a whole life and requiring also goods of body and fortune."
+        },
+        "quote": {
+          "text": {
+            "fr": "Le bien de l'homme est une activité de l'âme en accord avec la vertu, et s'il y a plusieurs vertus, en accord avec la meilleure et la plus parfaite.",
+            "en": "The good of man is an activity of the soul in accordance with virtue, and if there are several virtues, in accordance with the best and most complete."
+          },
+          "source": {
+            "fr": "Aristote, Éthique à Nicomaque, I, 7, 1098a",
+            "en": "Aristotle, Nicomachean Ethics, I, 7, 1098a"
+          }
+        },
+        "references": [
+          { "fr": "Aristote, Éthique à Nicomaque, I, 7", "en": "Aristotle, Nicomachean Ethics, I, 7" },
+          { "fr": "Thomas d'Aquin, Somme théologique, I-II, q. 1-5", "en": "Thomas Aquinas, Summa Theologiae, I-II, qq. 1-5" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 0, 1, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "On ne devient pas juste en connaissant la justice, contre l'intellectualisme socratique, ni en suivant une règle qui vaudrait identiquement pour tous : la vertu est une disposition stable du caractère, acquise par l'habitude comme un savoir-faire. D'où le <c id='golden-mean'>juste milieu</c> : le courage n'est pas une quantité fixe mais le point ajusté entre lâcheté et témérité, <dif>relatif à nous</dif> et variable selon les circonstances. Aucune formule ne peut le fixer d'avance ; seule la <c id='phronesis'>prudence</c>, raison pratique de l'homme expérimenté, le discerne dans le cas concret. C'est pourquoi le bien agir relève du jugement situé, non du calcul ni de l'obéissance.",
+          "en": "One does not become just by knowing justice, against Socratic intellectualism, nor by following a rule that would hold identically for all: virtue is a stable disposition of character, acquired by habituation like a skill. Hence the <c id='golden-mean'>mean</c>: courage is not a fixed quantity but the point adjusted between cowardice and rashness, <dif>relative to us</dif> and varying with circumstance. No formula can settle it in advance; only <c id='phronesis'>practical wisdom</c>, the practical reason of the experienced person, discerns it in the concrete case. This is why right action is a matter of situated judgement, not of calculation or obedience."
+        },
+        "quote": {
+          "text": {
+            "fr": "La vertu est une disposition à agir de façon délibérée, consistant en une médiété relative à nous, déterminée par la raison comme la déterminerait l'homme prudent.",
+            "en": "Virtue is a state of character concerned with choice, lying in a mean relative to us, this being determined by reason and in the way the person of practical wisdom would determine it."
+          },
+          "source": {
+            "fr": "Aristote, Éthique à Nicomaque, II, 6, 1106b-1107a",
+            "en": "Aristotle, Nicomachean Ethics, II, 6, 1106b-1107a"
+          }
+        },
+        "references": [
+          { "fr": "Aristote, Éthique à Nicomaque, II, 6", "en": "Aristotle, Nicomachean Ethics, II, 6" },
+          { "fr": "Thomas d'Aquin, Somme théologique, I-II, q. 55-67", "en": "Thomas Aquinas, Summa Theologiae, I-II, qq. 55-67" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CAUSALITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.1, 0.9, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le point de départ est l'observation du vivant : un gland devient chêne et non hêtre, l'organe se développe pour une fonction, signe qu'un terme oriente le processus. Tenir cette régularité pour un pur hasard de la matière, comme le mécanisme de Démocrite, n'explique rien ; il faut, outre la matière, la <c id='four-causes'>cause finale</c>, ce <dif>en vue de quoi</dif> une chose existe. Le finalisme n'est donc pas projeté sur la nature mais lu en elle, et ce sont les natures internes des êtres, non un démiurge extérieur, qui les portent vers leur fin.",
+          "en": "The starting point is the observation of living things: an acorn becomes an oak and not a beech, an organ develops for a function, signs that an end orients the process. To treat this regularity as a mere accident of matter, as Democritus' mechanism does, explains nothing; beyond matter one needs the <c id='four-causes'>final cause</c>, the <dif>that-for-the-sake-of-which</dif> a thing exists. Finalism is thus not projected onto nature but read within it, and it is the internal natures of beings, not an external craftsman, that carry them toward their end."
+        },
+        "quote": {
+          "text": {
+            "fr": "Dieu et la nature ne font rien en vain.",
+            "en": "God and nature do nothing in vain."
+          },
+          "source": {
+            "fr": "Aristote, Du ciel, I, 4, 271a ; cf. Physique, II, 8",
+            "en": "Aristotle, On the Heavens, I, 4, 271a; cf. Physics, II, 8"
+          }
+        },
+        "references": [
+          { "fr": "Aristote, Physique, II, 3 et 8", "en": "Aristotle, Physics, II, 3 and 8" },
+          { "fr": "Aristote, Métaphysique, A, 3", "en": "Aristotle, Metaphysics, A, 3" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.85 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le savoir vise l'universel et le stable : il y a donc bien des <c>essences</c>, ce par quoi une chose est ce qu'elle est, distinct de ses traits accidentels. Mais loger ces essences dans un monde séparé, comme les Idées de <ph id='plato'>Platon</ph>, redouble inutilement le réel et n'explique ni comment l'Idée fait être la chose ni où elle réside. Aristote ramène donc la <c id='hylomorphism'>forme</c> dans la substance individuelle : elle n'existe que <c id='immanence'>immanente</c> à ce cheval, à cet homme. L'essentialisme est ainsi maintenu sans dualisme des mondes, ce qui fonde la connaissance du sensible au lieu de l'en détourner.",
+          "en": "Knowledge aims at the universal and the stable: there are indeed <c>essences</c>, that by which a thing is what it is, distinct from its accidental features. But to lodge those essences in a separate world, like <ph id='plato'>Plato</ph>'s Ideas, needlessly doubles reality and explains neither how the Idea makes the thing be nor where it resides. Aristotle therefore brings the <c id='hylomorphism'>form</c> back into the individual substance: it exists only as <c id='immanence'>immanent</c> in this horse, this man. Essentialism is thus preserved without a dualism of worlds, which grounds knowledge of the sensible rather than turning away from it."
+        },
+        "references": [
+          { "fr": "Aristote, Métaphysique, Z (livre VII)", "en": "Aristotle, Metaphysics, Z (book VII)" },
+          { "fr": "Thomas d'Aquin, De l'être et de l'essence", "en": "Thomas Aquinas, On Being and Essence" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "REDUCTION_EMERGENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.65 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'âme est définie comme la <c id='hylomorphism'>forme</c>, ou l'acte premier du corps vivant organisé : le vivant n'est pas réductible à ses parties matérielles, car c'est sa forme qui l'unifie et le rend ce qu'il est. Le tout est ainsi antérieur en nature à ses parties, ce qui rapproche l'aristotélisme d'un émergentisme avant la lettre.",
+          "en": "The soul is defined as the <c id='hylomorphism'>form</c>, or first actuality, of the organized living body: a living thing is not reducible to its material parts, for it is its form that unifies it and makes it what it is. The whole is thus prior in nature to its parts, aligning Aristotelianism with a kind of emergentism avant la lettre."
+        },
+        "references": [
+          { "fr": "Aristote, De l'âme, II, 1", "en": "Aristotle, On the Soul, II, 1" },
+          { "fr": "Aristote, Les parties des animaux, I, 1", "en": "Aristotle, Parts of Animals, I, 1" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "RULE_SPIRIT",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.6 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'aristotélisme thématise l'<c>épikie (epieikeia)</c>, l'équité qui corrige la loi là où sa généralité la rend injuste dans un cas particulier. <dif>Comme aucune règle ne peut anticiper tous les cas</dif>, le juste exige le discernement de la <c id='phronesis'>prudence</c>, ce qui incline la position vers l'esprit plutôt que la lettre.",
+          "en": "Aristotelianism makes a theme of <c>epieikeia</c>, the equity that corrects the law where its generality renders it unjust in a particular case. <dif>Since no rule can anticipate every case</dif>, justice requires the discernment of <c id='phronesis'>practical wisdom</c>, tilting the position toward the spirit rather than the letter."
+        },
+        "references": [
+          { "fr": "Aristote, Éthique à Nicomaque, V, 10", "en": "Aristotle, Nicomachean Ethics, V, 10" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.5 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Contre l'innéisme platonicien, l'aristotélisme tient que toute connaissance commence dans la perception sensible : rien n'est dans l'intellect qui n'ait d'abord été dans les sens. L'induction part des particuliers perçus pour s'élever aux principes universels, d'où une position empiriste modérée, l'intellect demeurant requis pour saisir les essences.",
+          "en": "Against Platonic innatism, Aristotelianism holds that all knowledge begins in sense perception: nothing is in the intellect that was not first in the senses. Induction rises from perceived particulars to universal principles, yielding a moderately empiricist position, the intellect remaining required to grasp essences."
+        },
+        "references": [
+          { "fr": "Aristote, Seconds Analytiques, II, 19", "en": "Aristotle, Posterior Analytics, II, 19" },
+          { "fr": "Aristote, De l'âme, III, 4-8", "en": "Aristotle, On the Soul, III, 4-8" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRUTH_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.9, 0.1, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La définition aristotélicienne de la vérité est le paradigme de la correspondance : la pensée est vraie quand elle s'accorde à ce qui est dans la chose, formule que la scolastique reprendra comme adéquation de l'intellect et de la chose.",
+          "en": "The Aristotelian definition of truth is the paradigm of correspondence: thought is true when it accords with what is in the thing, a formula scholasticism would restate as the adequation of intellect and thing."
+        },
+        "quote": {
+          "text": {
+            "fr": "Dire de ce qui est qu'il n'est pas, ou de ce qui n'est pas qu'il est, est le faux ; dire de ce qui est qu'il est, et de ce qui n'est pas qu'il n'est pas, est le vrai.",
+            "en": "To say of what is that it is not, or of what is not that it is, is false; while to say of what is that it is, and of what is not that it is not, is true."
+          },
+          "source": {
+            "fr": "Aristote, Métaphysique, Γ (livre IV), 7, 1011b",
+            "en": "Aristotle, Metaphysics, Γ (book IV), 7, 1011b"
+          }
+        },
+        "references": [
+          { "fr": "Aristote, Métaphysique, Γ (livre IV), 7", "en": "Aristotle, Metaphysics, Γ (book IV), 7" },
+          { "fr": "Thomas d'Aquin, Questions disputées sur la vérité, q. 1", "en": "Thomas Aquinas, Disputed Questions on Truth, q. 1" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SOCIAL_CONTRACT",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.85 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Loin d'être un artifice contractuel, la cité est pour l'aristotélisme une réalité naturelle : l'homme est par nature un <c>animal politique</c>, et seul un dieu ou une bête pourrait vivre hors de la cité. La communauté politique est l'achèvement naturel des communautés plus simples, la famille puis le village.",
+          "en": "Far from a contractual artifice, the city is for Aristotelianism a natural reality: man is by nature a <c>political animal</c>, and only a god or a beast could live outside the city. The political community is the natural culmination of simpler communities, the household and then the village."
+        },
+        "references": [
+          { "fr": "Aristote, Politique, I, 2", "en": "Aristotle, Politics, I, 2" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "INDIVIDUAL_SOCIETY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.6 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La cité est antérieure en nature à l'individu, comme le tout l'est à la partie : isolé, l'individu ne se suffit pas et ne peut actualiser sa fin proprement humaine. Cette priorité du tout penche du côté holiste, sans dissoudre l'individu puisque la fin reste l'épanouissement des citoyens.",
+          "en": "The city is prior in nature to the individual, as the whole is to the part: in isolation the individual is not self-sufficient and cannot actualize a properly human end. This priority of the whole leans holist, without dissolving the individual, since the end remains the flourishing of citizens."
+        },
+        "references": [
+          { "fr": "Aristote, Politique, I, 2", "en": "Aristotle, Politics, I, 2" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.9, 0.1, 0, 0] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le sens de l'existence est téléologique : comme tout être tend vers sa fin propre, la vie humaine trouve son sens dans l'actualisation de sa fonction, la vie selon la raison, dont le sommet est l'activité contemplative. Le sens n'est donc ni à construire de toutes pièces ni absurde, mais inscrit dans la nature même de l'homme.",
+          "en": "The meaning of existence is teleological: since every being tends toward its proper end, human life finds its meaning in the actualization of its function, the life according to reason, whose summit is contemplative activity. Meaning is therefore neither wholly self-constructed nor absurd, but inscribed in the very nature of the human being."
+        },
+        "references": [
+          { "fr": "Aristote, Éthique à Nicomaque, X, 7-8", "en": "Aristotle, Nicomachean Ethics, X, 7-8" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.7 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'aristotélisme est <c id='dogmatism'>dogmatique</c> au sens noble : la science véritable, l'<c>epistēmē</c>, est une connaissance démonstrative qui part de premiers principes indémontrables, eux-mêmes saisis avec certitude par l'intellect. Le savoir scientifique porte sur le nécessaire et l'universel, ce qui exclut le doute <c id='skepticism'>sceptique</c> sur ses fondements, même si la <c id='phronesis'>prudence</c> reconnaît l'incertitude propre au domaine de l'agir.",
+          "en": "Aristotelianism is <c id='dogmatism'>dogmatic</c> in the noble sense: genuine science, <c>epistēmē</c>, is demonstrative knowledge proceeding from indemonstrable first principles, themselves grasped with certainty by the intellect. Scientific knowledge bears on the necessary and the universal, which excludes <c id='skepticism'>sceptical</c> doubt about its foundations, even as <c id='phronesis'>practical wisdom</c> acknowledges the inherent uncertainty of the domain of action."
+        },
+        "references": [
+          { "fr": "Aristote, Seconds Analytiques, I, 2 et II, 19", "en": "Aristotle, Posterior Analytics, I, 2 and II, 19" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.6 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'aristotélisme affirme un principe divin, le <c id='unmoved-mover'>premier moteur immobile</c>, cause finale du mouvement de l'univers qu'il meut comme l'aimé meut l'amant. Mais ce dieu d'Aristote est impersonnel : pure pensée se pensant elle-même, il n'est ni créateur ni providence et ne se soucie pas du monde. D'où une position théiste nettement non extrême, qui marque cette impersonnalité, <dif>avant que la scolastique ne l'identifie, non sans tension, au Dieu personnel et providentiel</dif>.",
+          "en": "Aristotelianism affirms a divine principle, the <c id='unmoved-mover'>unmoved mover</c>, the final cause of the universe's motion, which it moves as the beloved moves the lover. Yet Aristotle's god is impersonal: pure thought thinking itself, it is neither creator nor providence and takes no concern for the world. Hence a clearly non-extreme theist position that marks this impersonality, <dif>before scholasticism identified it, not without tension, with the personal and providential God</dif>."
+        },
+        "quote": {
+          "text": {
+            "fr": "La pensée se pense elle-même en saisissant l'intelligible, et son acte de pensée est pensée de la pensée.",
+            "en": "Thought thinks itself in grasping the intelligible, and its thinking is a thinking of thinking."
+          },
+          "source": {
+            "fr": "Aristote, Métaphysique, Λ (livre XII), 9, 1074b",
+            "en": "Aristotle, Metaphysics, Λ (book XII), 9, 1074b"
+          }
+        },
+        "references": [
+          { "fr": "Aristote, Métaphysique, Λ (livre XII), 7 et 9", "en": "Aristotle, Metaphysics, Λ (book XII), 7 and 9" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.1, 0.8, 0.1] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le désir n'est ni à affirmer sans frein ni à éteindre, mais à ordonner par la raison pratique : le <c id='golden-mean'>juste milieu</c> consiste à désirer ce qu'il faut, quand il faut et comme il faut. L'homme tempérant n'a pas supprimé l'appétit, il l'a accordé au choix délibéré, d'où une sélection raisonnée des désirs plutôt qu'un détachement ou une affirmation pure.",
+          "en": "Desire is neither to be affirmed without restraint nor extinguished, but ordered by practical reason: the <c id='golden-mean'>mean</c> consists in desiring what one ought, when and as one ought. The temperate person has not abolished appetite but brought it into accord with deliberate choice, yielding a reasoned selection of desires rather than detachment or sheer affirmation."
+        },
+        "references": [
+          { "fr": "Aristote, Éthique à Nicomaque, III, 10-12", "en": "Aristotle, Nicomachean Ethics, III, 10-12" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.2 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Contre l'intellectualisme socratique, l'aristotélisme accorde aux passions un rôle proprement éthique : éprouver la crainte, la colère ou la pitié quand il faut, envers qui il faut et comme il faut, c'est cela la vertu. Les émotions bien éduquées ont une dimension cognitive et accompagnent le jugement droit, sans pour autant le fonder à elles seules : la position est modérée, légèrement du côté du jugement.",
+          "en": "Against Socratic intellectualism, Aristotelianism grants the passions a properly ethical role: to feel fear, anger or pity when one ought, toward whom one ought and as one ought is itself virtue. Well-trained emotions carry a cognitive dimension and accompany sound judgement, without grounding it on their own: the position is moderate, leaning slightly toward judgement."
+        },
+        "references": [
+          { "fr": "Aristote, Éthique à Nicomaque, II, 5-6", "en": "Aristotle, Nicomachean Ethics, II, 5-6" },
+          { "fr": "Aristote, Rhétorique, II, 1-11", "en": "Aristotle, Rhetoric, II, 1-11" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "PARTIALITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.6 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'amitié, la <c>philia</c>, occupe deux livres entiers de l'<w id='nicomachean-ethics-aristotle'>Éthique à Nicomaque</w> et constitue un bien indispensable à la vie bonne : on a des devoirs plus grands envers ses proches, ses bienfaiteurs et ses concitoyens. Cette priorité assumée des liens particuliers, jusqu'à l'amitié civique qui tient la cité ensemble, situe l'aristotélisme du côté du partialisme.",
+          "en": "Friendship, <c>philia</c>, occupies two whole books of the <w id='nicomachean-ethics-aristotle'>Nicomachean Ethics</w> and is an indispensable good of the good life: one owes more to kin, benefactors and fellow citizens. This avowed priority of particular bonds, up to the civic friendship that holds the city together, places Aristotelianism on the partialist side."
+        },
+        "references": [
+          { "fr": "Aristote, Éthique à Nicomaque, VIII-IX", "en": "Aristotle, Nicomachean Ethics, VIII-IX" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "BODILY_PLEASURES",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.1 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'aristotélisme refuse aussi bien l'ascétisme que l'intempérance : le plaisir n'est pas le bien, mais il parachève l'activité comme la beauté parachève la jeunesse. Les plaisirs corporels sont légitimes lorsqu'ils restent dans le <c id='golden-mean'>juste milieu</c> que fixe la tempérance, d'où une position très modérée, à peine du côté de l'acceptation.",
+          "en": "Aristotelianism rejects both asceticism and intemperance: pleasure is not the good, but it completes activity as beauty completes youth. Bodily pleasures are legitimate so long as they keep to the <c id='golden-mean'>mean</c> set by temperance, yielding a very moderate position, barely on the accepting side."
+        },
+        "references": [
+          { "fr": "Aristote, Éthique à Nicomaque, X, 4-5", "en": "Aristotle, Nicomachean Ethics, X, 4-5" },
+          { "fr": "Aristote, Éthique à Nicomaque, III, 10-11", "en": "Aristotle, Nicomachean Ethics, III, 10-11" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "POLITICAL_IDEAL",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.6 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "À rebours de la cité idéale platonicienne, l'aristotélisme cherche la meilleure constitution accessible à un peuple donné, dans des conditions réelles. Le régime le plus stable est le régime mixte fondé sur une large classe moyenne, la <c>politeia</c>, qui tempère les excès de la démocratie et de l'oligarchie : un réalisme politique attentif aux circonstances.",
+          "en": "Against the Platonic ideal city, Aristotelianism seeks the best achievable constitution for a given people under real conditions. The most stable regime is the mixed one resting on a broad middle class, the <c>politeia</c>, which tempers the excesses of democracy and oligarchy: a political realism attentive to circumstances."
+        },
+        "references": [
+          { "fr": "Aristote, Politique, IV, 11", "en": "Aristotle, Politics, IV, 11" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HUMAN_PLACE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.7, 0.2, 0.1] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'ordre naturel est pour l'aristotélisme hiérarchique et finalisé : rien dans la nature n'est vain, et les plantes existent en vue des animaux, les animaux en vue de l'homme. Cet anthropocentrisme téléologique, où le reste de la nature est ordonné à l'usage humain, incline nettement vers la maîtrise, <dif>sans nier pour autant que l'homme demeure lui-même un vivant inscrit dans cet ordre</dif>.",
+          "en": "For Aristotelianism the natural order is hierarchical and goal-directed: nothing in nature is in vain, and plants exist for the sake of animals, animals for the sake of human beings. This teleological anthropocentrism, in which the rest of nature is ordered to human use, leans clearly toward mastery, <dif>without thereby denying that the human being remains a living thing within that order</dif>."
+        },
+        "references": [
+          { "fr": "Aristote, Politique, I, 8", "en": "Aristotle, Politics, I, 8" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_CIRCLE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.9, 0.1, 0, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La considération morale est réservée aux êtres doués de raison : la justice et l'amitié, au sens propre, ne peuvent exister qu'entre humains, car les animaux, dépourvus de <c id='logos'>logos</c>, ne participent pas à la communauté politique. Cet <c>anthropocentrisme</c> moral, prolongé par la scolastique, situe résolument l'aristotélisme au premier pôle, les animaux n'entrant dans le cercle que de façon marginale.",
+          "en": "Moral consideration is reserved for beings endowed with reason: justice and friendship, properly speaking, can exist only among humans, for animals, lacking <c id='logos'>logos</c>, do not share in the political community. This moral <c>anthropocentrism</c>, extended by scholasticism, places Aristotelianism firmly at the first pole, animals entering the circle only marginally."
+        },
+        "references": [
+          { "fr": "Aristote, Politique, I, 8 ; Éthique à Nicomaque, VIII, 11", "en": "Aristotle, Politics, I, 8; Nicomachean Ethics, VIII, 11" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ART_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.6 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La <w id='poetics-aristotle'>Poétique</w> conçoit l'art comme <c>mimésis</c>, imitation de l'action humaine : la tragédie représente des hommes en acte. Cette imitation n'est pas copie servile, car le poète figure ce qui pourrait arriver selon le vraisemblable et le nécessaire, mais elle reste représentation du réel plutôt que création ex nihilo, d'où une position du côté de la <c>mimésis</c>.",
+          "en": "The <w id='poetics-aristotle'>Poetics</w> conceives art as <c>mimēsis</c>, the imitation of human action: tragedy represents people in action. This imitation is no servile copy, for the poet portrays what might happen according to probability and necessity, yet it remains a representation of the real rather than creation ex nihilo, hence a position on the <c>mimēsis</c> side."
+        },
+        "references": [
+          { "fr": "Aristote, Poétique, ch. 1-4 et 9", "en": "Aristotle, Poetics, ch. 1-4 and 9" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "UNIVERSALS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Que plusieurs hommes soient dits « homme » suppose un universel réel, non un simple nom : la science porte sur lui. Mais en faire une Idée séparée, à la manière de <ph id='plato'>Platon</ph>, soulève l'objection du troisième homme, car il faudrait alors une nouvelle forme pour expliquer ce que l'homme sensible et l'Homme en soi ont en commun, et ainsi à l'infini. L'aristotélisme conserve donc le réalisme des universaux tout en les rendant <c id='immanence'>immanents</c> : le genre et l'espèce n'existent que dans les individus, et c'est l'intellect qui les en abstrait. Ni nominalisme, ni Idées subsistantes.",
+          "en": "That several men are called « man » presupposes a real universal, not a mere name: science bears on it. But to make it a separate Idea, in <ph id='plato'>Plato</ph>'s manner, raises the third-man objection, for one would then need a further form to explain what the sensible man and Man-himself have in common, and so on without end. Aristotelianism therefore keeps the realism of universals while rendering them <c id='immanence'>immanent</c>: genus and species exist only in individuals, and it is the intellect that abstracts them. Neither nominalism nor subsisting Ideas."
+        },
+        "references": [
+          {
+            "fr": "Aristote, Métaphysique, Z ; Catégories",
+            "en": "Aristotle, Metaphysics, Z; Categories"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "EMBODIMENT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si l'âme était une substance séparée logée dans le corps, comme chez <ph id='plato'>Platon</ph>, on ne comprendrait plus l'unité évidente du vivant, ni pourquoi cette âme-ci anime ce corps-ci. L'<c id='hylomorphism'>hylémorphisme</c> résout la difficulté : toute substance est un composé de matière et de forme, et l'âme est précisément la forme, l'acte, du corps organisé, comme la vision est l'acte de l'œil. Demander si l'âme et le corps sont un, conclut Aristote, est aussi vain que de le demander de la cire et de son empreinte : l'homme n'est ni un esprit emprisonné ni une simple machine, mais une seule réalité animée.",
+          "en": "If the soul were a separate substance housed in the body, as for <ph id='plato'>Plato</ph>, the evident unity of the living thing would be unintelligible, and so would the question of why this soul animates this body. <c id='hylomorphism'>Hylomorphism</c> dissolves the difficulty: every substance is a compound of matter and form, and the soul is precisely the form, the actuality, of the organized body, as sight is the actuality of the eye. To ask whether soul and body are one, Aristotle concludes, is as idle as to ask it of the wax and its imprint: the human being is neither an imprisoned spirit nor a mere machine, but a single animated reality."
+        },
+        "references": [
+          {
+            "fr": "Aristote, De l'âme, II",
+            "en": "Aristotle, On the Soul, II"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "CAUSALITY",
+      "thesis": {
+        "fr": "Expliquer une chose, c'est dire en vue de quoi elle existe : chaque être tend vers sa fin propre, et rien dans la nature n'est vain.",
+        "en": "To explain a thing is to state what it is for: every being tends toward its proper end, and nothing in nature is in vain."
+      }
+    },
+    {
+      "axisId": "EMBODIMENT",
+      "thesis": {
+        "fr": "L'âme est la <c id='hylomorphism'>forme</c> du corps vivant, non une substance logée en lui : l'homme est l'unité indissociable d'une âme et d'un corps.",
+        "en": "The soul is the <c id='hylomorphism'>form</c> of the living body, not a substance housed within it: the human being is the inseparable unity of a soul and a body."
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "thesis": {
+        "fr": "La vertu n'est ni un calcul ni l'obéissance à une règle, mais un <c id='golden-mean'>juste milieu</c> entre l'excès et le défaut, que discerne la <c id='phronesis'>prudence</c>.",
+        "en": "Virtue is neither a calculation nor obedience to a rule, but a <c id='golden-mean'>mean</c> between excess and deficiency, discerned by <c id='phronesis'>practical wisdom</c>."
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "thesis": {
+        "fr": "L'essence d'une chose est une <c id='hylomorphism'>forme</c> <c id='immanence'>immanente</c>, non une Idée séparée : la forme n'existe que dans les substances individuelles.",
+        "en": "A thing's essence is an <c id='immanence'>immanent</c> <c id='hylomorphism'>form</c>, not a separate Idea: form exists only in individual substances."
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "thesis": {
+        "fr": "Le bien suprême est l'<c id='eudaimonism'>eudaimonia</c>, activité de l'âme conforme à la vertu : l'homme s'accomplit en exerçant sa fonction propre, la raison.",
+        "en": "The supreme good is <c id='eudaimonism'>eudaimonia</c>, an activity of the soul in accord with virtue: humans flourish by exercising their proper function, reason."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

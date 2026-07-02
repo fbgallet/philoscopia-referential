@@ -1,0 +1,59 @@
+{
+  "id": "scapegoat-punishment",
+  "title": {
+    "fr": "Punir un innocent pour sauver la paix ?",
+    "en": "Punishing an innocent to keep the peace?"
+  },
+  "description": {
+    "fr": "Une petite ville est au bord de l'émeute. La foule, persuadée qu'un meurtre a été commis par un étranger et restera impuni, menace de tout brûler, ce qui fera plusieurs morts, si un coupable ne lui est pas livré. Le shérif sait qu'aucun de ses suspects n'a rien fait, mais il tient un homme qu'il pourrait faire condamner de façon crédible. En le sacrifiant, il sauverait sans doute plusieurs vies et rétablirait l'ordre ; en refusant, il respecte la vérité, mais laisse advenir le carnage.",
+    "en": "A small town is on the brink of a riot. The crowd, convinced that a murder by an outsider will go unpunished, threatens to burn everything down, killing several people, unless a culprit is handed over. The sheriff knows that none of his suspects did anything, but he holds a man he could credibly have convicted. By sacrificing him he would likely save several lives and restore order; by refusing, he honors the truth, but lets the carnage happen."
+  },
+  "source": {
+    "author": { "fr": "H. J. McCloskey", "en": "H. J. McCloskey" },
+    "year": 1957
+  },
+  "question": {
+    "fr": "À sa place, livreriez-vous l'innocent pour sauver les autres ? Et si la peine ne vaut que par ses effets, qu'est-ce qui interdit encore de le faire ?",
+    "en": "In his place, would you hand over the innocent to save the others? And if punishment is justified only by its effects, what still forbids doing so?"
+  },
+  "axisIds": ["PUNISHMENT"],
+  "options": [
+    {
+      "id": "sacrifice-for-peace",
+      "label": {
+        "fr": "Les vies sauvées pèsent plus qu'une : si la peine vaut par ce qu'elle prévient, il faut livrer l'homme.",
+        "en": "The lives saved weigh more than one: if punishment is worth what it prevents, the man must be handed over."
+      },
+      "hints": [{ "axisId": "PUNISHMENT", "value": { "kind": "weights", "weights": [0, 1, 0, 0] } }],
+      "discussion": {
+        "fr": "Vous suivez la logique conséquentialiste de la <ax id='PUNISHMENT' pole='DETERRENCE'>dissuasion</ax> : la peine se mesure à ses effets. C'est le cas que <ph id='kant'>Kant</ph> lui oppose, punir un innocent n'est plus rendre la justice ; et bien des <mv id='utilitarianism'>utilitaristes</mv> répondent qu'une telle pratique, érigée en règle, ruinerait la confiance et se retournerait contre l'utilité même qu'elle invoque (Rawls).",
+        "en": "You follow the consequentialist logic of <ax id='PUNISHMENT' pole='DETERRENCE'>deterrence</ax>: punishment is measured by its effects. This is the case <ph id='kant'>Kant</ph> turns against it, punishing an innocent is no longer doing justice; and many <mv id='utilitarianism'>utilitarians</mv> reply that such a practice, made into a rule, would ruin trust and undercut the very utility it invokes (Rawls)."
+      }
+    },
+    {
+      "id": "no-desert-no-punishment",
+      "label": {
+        "fr": "Punir qui n'a rien fait n'est pas punir : sans faute, il n'y a pas de peine méritée, mais un crime de plus.",
+        "en": "Punishing someone who did nothing is not punishing: with no wrong, there is no deserved penalty, only one more crime."
+      },
+      "hints": [{ "axisId": "PUNISHMENT", "value": { "kind": "weights", "weights": [1, 0, 0, 0] } }],
+      "discussion": {
+        "fr": "Vous rejoignez le <ax id='PUNISHMENT' pole='RETRIBUTIVISM'>rétributivisme</ax> de <ph id='kant'>Kant</ph> : le mérite est la condition même de toute peine, et nul calcul d'utilité ne peut autoriser à frapper un innocent.",
+        "en": "You join <ph id='kant'>Kant</ph>'s <ax id='PUNISHMENT' pole='RETRIBUTIVISM'>retributivism</ax>: desert is the very condition of any penalty, and no calculation of utility can license striking an innocent."
+      }
+    },
+    {
+      "id": "breaks-the-bond",
+      "label": {
+        "fr": "Condamner un innocent ne répare rien et ruine la confiance qui tient la communauté : ce serait briser ce qu'on prétend sauver.",
+        "en": "Condemning an innocent repairs nothing and ruins the trust that holds the community together: it would break the very thing one claims to save."
+      },
+      "hints": [{ "axisId": "PUNISHMENT", "value": { "kind": "weights", "weights": [0, 0, 0, 1] } }],
+      "discussion": {
+        "fr": "Vous raisonnez en termes de <ax id='PUNISHMENT' pole='RESTORATIVE_JUSTICE'>justice réparatrice</ax> : la peine doit restaurer un lien rompu, et sacrifier un innocent ne fait que le rompre davantage.",
+        "en": "You reason in terms of <ax id='PUNISHMENT' pole='RESTORATIVE_JUSTICE'>restorative justice</ax>: punishment should restore a broken bond, and sacrificing an innocent only breaks it further."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-27T00:00:00.000Z"
+}

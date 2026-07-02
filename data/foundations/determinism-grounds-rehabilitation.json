@@ -1,0 +1,12 @@
+{
+  "id": "determinism-grounds-rehabilitation",
+  "ground": { "axisId": "FREEDOM", "poleId": "DETERMINISM" },
+  "grounded": { "axisId": "PUNISHMENT", "poleId": "REHABILITATION" },
+  "kind": "T_V",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si le criminel n'aurait pas pu agir autrement, lui infliger une peine au nom d'un mérite devient injustifiable. <c id='determinism'>Le déterminisme</c> oriente alors la sanction vers la réhabilitation, qui modifie les causes du comportement plutôt qu'elle ne venge une faute libre.",
+    "en": "If the offender could not have acted otherwise, punishing him in the name of desert becomes unjustifiable. <c id='determinism'>Determinism</c> thus steers sanction toward rehabilitation, which reshapes the causes of behaviour rather than avenging a free fault."
+  },
+  "updatedAt": "2026-06-14T00:00:00.000Z"
+}

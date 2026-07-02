@@ -1,0 +1,12 @@
+{
+  "id": "directional-history-grounds-utopianism",
+  "ground": { "axisId": "HISTORY_MEANING", "poleId": "DIRECTIONAL_HISTORY" },
+  "grounded": { "axisId": "POLITICAL_IDEAL", "poleId": "UTOPIANISM" },
+  "kind": "T_V",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si l'histoire tend nécessairement vers un état meilleur, une société pleinement réconciliée cesse d'être une chimère pour devenir un but qu'on peut viser. Le sens-direction de l'histoire soutient l'utopisme politique : <ph id='marx'>Marx</ph> annonce une fin de la préhistoire humaine où s'abolissent les classes.",
+    "en": "If history tends necessarily toward a better state, a fully reconciled society ceases to be a chimera and becomes a goal one can aim at. The directional meaning of history supports political utopianism: <ph id='marx'>Marx</ph> announces an end to human prehistory in which classes are abolished."
+  },
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "atheism-grounds-relativism",
+  "ground": { "axisId": "GOD_EXISTENCE", "poleId": "ATHEISM" },
+  "grounded": { "axisId": "MORAL_SCOPE", "poleId": "RELATIVISM" },
+  "kind": "T_T",
+  "strength": "WEAK",
+  "explanation": {
+    "fr": "Si nul Dieu ne garantit l'ordre moral, certains en concluent qu'aucune norme ne vaut absolument : « si Dieu n'existe pas, tout est permis ». La « mort de Dieu » que proclame <ph id='nietzsche'>Nietzsche</ph> ébranle ainsi la prétention des valeurs à l'universalité. Le lien reste contesté : nombre d'athées défendent au contraire une morale rationnelle et universelle.",
+    "en": "If no God guarantees the moral order, some conclude that no norm holds absolutely: \"if God does not exist, everything is permitted\". The \"death of God\" proclaimed by <ph id='nietzsche'>Nietzsche</ph> thus shakes the claim of values to universality. The link remains contested: many atheists defend, on the contrary, a rational and universal morality."
+  },
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

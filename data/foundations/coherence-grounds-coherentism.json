@@ -1,0 +1,12 @@
+{
+  "id": "coherence-grounds-coherentism",
+  "ground": { "axisId": "TRUTH_NATURE", "poleId": "COHERENCE" },
+  "grounded": { "axisId": "EPISTEMIC_JUSTIFICATION", "poleId": "COHERENTISM" },
+  "kind": "T_T",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si une affirmation n'est vraie que par sa place sans contradiction dans un système d'ensemble, alors une croyance n'est justifiée que par sa cohérence avec tout le réseau des autres. La conception de la vérité comme cohérence soutient le cohérentisme : il n'y a pas de fondation ultime, mais des croyances qui se soutiennent mutuellement, du tout hégélien (<ph id='hegel'>Hegel</ph>) à la « toile » de Quine.",
+    "en": "If a statement is true only by its non-contradictory place within an overall system, then a belief is justified only by its coherence with the entire web of the others. The coherence conception of truth supports coherentism: there is no ultimate foundation, but beliefs that support one another, from the Hegelian whole (<ph id='hegel'>Hegel</ph>) to Quine's \"web\"."
+  },
+  "updatedAt": "2026-06-22T00:00:00.000Z"
+}

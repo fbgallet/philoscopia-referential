@@ -1,0 +1,16 @@
+{
+  "id": "husserl-to-heidegger",
+  "from": { "kind": "PHILOSOPHER", "slug": "husserl" },
+  "to": { "kind": "PHILOSOPHER", "slug": "heidegger" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Assistant puis successeur de <ph id='husserl'>Husserl</ph>, <ph id='heidegger'>Heidegger</ph> déplace la <mv id='phenomenology'>phénoménologie</mv> de la conscience transcendantale vers la question de l'être : non plus décrire les vécus, mais l'<c>existence</c> comme être-au-monde.",
+    "en": "Husserl's assistant and then successor, <ph id='heidegger'>Heidegger</ph> shifts <mv id='phenomenology'>phenomenology</mv> from transcendental consciousness toward the question of being: no longer describing lived experiences, but <c>existence</c> as being-in-the-world."
+  },
+  "sources": [
+    { "fr": "Heidegger, Être et Temps (1927)", "en": "Heidegger, Being and Time (1927)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

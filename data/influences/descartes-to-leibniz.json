@@ -1,0 +1,16 @@
+{
+  "id": "descartes-to-leibniz",
+  "from": { "kind": "PHILOSOPHER", "slug": "descartes" },
+  "to": { "kind": "PHILOSOPHER", "slug": "leibniz" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='leibniz'>Leibniz</ph> part des problèmes cartésiens de <c>substance</c> et de mécanisme, mais conteste la physique de l'étendue de <ph id='descartes'>Descartes</ph> pour fonder une dynamique des <c>monades</c>, points de force sans parties.",
+    "en": "<ph id='leibniz'>Leibniz</ph> starts from the Cartesian problems of <c>substance</c> and mechanism, but contests <ph id='descartes'>Descartes</ph>'s physics of extension to ground a dynamics of <c>monads</c>, points of force without parts."
+  },
+  "sources": [
+    { "fr": "Leibniz, Discours de métaphysique", "en": "Leibniz, Discourse on Metaphysics" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

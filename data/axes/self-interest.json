@@ -1,0 +1,84 @@
+{
+  "id": "SELF_INTEREST",
+  "relation": "OTHERS",
+  "territory": "BONDS",
+  "label": {
+    "fr": "Intérêt propre et autrui",
+    "en": "Self-interest and others"
+  },
+  "question": {
+    "fr": "Quelle place accorder à notre propre intérêt face à celui des autres ?",
+    "en": "What place should we give our own interest next to that of others?"
+  },
+  "stakes": {
+    "fr": "Dois-je me mettre en premier, à charge pour chacun de veiller sur soi, ou faire passer le bien des autres avant le mien ? Ne vivre que pour soi ronge les liens ; se sacrifier entièrement dissout celui-là même qui aime. Se positionner, c'est dire ce qu'on se doit à soi, et ce qu'on doit aux autres.",
+    "en": "Should I put myself first, leaving each to look after themselves, or place others' good before my own? Living only for oneself corrodes every bond; sacrificing oneself entirely dissolves the very self that loves. To take a position is to say what we owe ourselves, and what we owe others."
+  },
+  "layer": "VALUE",
+  "type": "BIPOLAR",
+  "poles": [
+    {
+      "id": "ETHICAL_EGOISM",
+      "label": {
+        "fr": "Égoïsme éthique",
+        "en": "Ethical egoism"
+      },
+      "description": {
+        "fr": "Chacun doit poursuivre son propre intérêt et s'appartenir à soi-même : le sacrifice de soi pour autrui n'est pas une vertu mais une aliénation. Une vie réussie se construit sur l'affirmation de soi, et non sur le renoncement.",
+        "en": "Each person ought to pursue their own interest and belong to themselves: self-sacrifice for others is not a virtue but a form of alienation. A successful life is built on self-affirmation, not renunciation."
+      },
+      "figures": [
+        {
+          "slug": "stirner",
+          "name": {
+            "fr": "Stirner",
+            "en": "Stirner"
+          }
+        },
+        {
+          "slug": "rand",
+          "name": {
+            "fr": "Rand",
+            "en": "Rand"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ALTRUISM",
+      "label": {
+        "fr": "Altruisme",
+        "en": "Altruism"
+      },
+      "description": {
+        "fr": "Vivre pour autrui est le cœur de la morale : le bien des autres doit passer avant notre intérêt propre. La rencontre d'autrui nous oblige et nous décentre, et c'est dans cette responsabilité pour l'autre que l'existence trouve son sens.",
+        "en": "Living for others is the heart of morality: the good of others must come before our own interest. Encountering another person obligates and decenters us, and it is in this responsibility for the other that existence finds its meaning."
+      },
+      "figures": [
+        {
+          "slug": "levinas",
+          "name": {
+            "fr": "Lévinas",
+            "en": "Levinas"
+          }
+        },
+        {
+          "slug": "comte",
+          "name": {
+            "fr": "Comte",
+            "en": "Comte"
+          }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 1,
+  "clusters": [],
+  "relatedAxes": [
+    "HUMAN_VISION",
+    "INDIVIDUAL_SOCIETY",
+    "MORAL_DEMAND",
+    "PARTIALITY"
+  ]
+}

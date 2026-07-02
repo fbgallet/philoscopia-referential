@@ -1,0 +1,13 @@
+{
+  "id": "beatific-vision",
+  "term": { "fr": "Vision béatifique", "en": "Beatific vision" },
+  "definition": {
+    "fr": "La vision béatifique est, chez <ph id='aquinas'>Thomas d'Aquin</ph>, la contemplation directe de l'essence de Dieu, dans laquelle consiste la béatitude parfaite de l'homme. Reprenant l'<c id='eudaimonism'>eudémonisme</c> d'<ph id='aristotle'>Aristote</ph>, Thomas montre qu'aucun bien fini ne comble le désir humain, qui ne s'apaise que dans le bien universel : Dieu lui-même. Cette vision est <ax id='SOVEREIGN_GOOD'>la fin dernière</ax> à laquelle la nature aspire sans pouvoir l'atteindre seule, inaccessible en cette vie et reçue par <c id='grace'>grâce</c>. Elle marque le point où l'<c id='eudaimonism'>eudémonisme</c> grec est à la fois conservé et dépassé, la félicité étant rapportée à une perfection surnaturelle.",
+    "en": "The beatific vision is, in <ph id='aquinas'>Thomas Aquinas</ph>, the direct contemplation of God's essence, in which the human being's perfect beatitude consists. Taking up <ph id='aristotle'>Aristotle</ph>'s <c id='eudaimonism'>eudaimonism</c>, Thomas shows that no finite good satisfies human desire, which is stilled only in the universal good: God himself. This vision is <ax id='SOVEREIGN_GOOD'>the final end</ax> to which nature aspires without being able to reach it alone, unreachable in this life and received by <c id='grace'>grace</c>. It marks the point where Greek <c id='eudaimonism'>eudaimonism</c> is at once preserved and surpassed, happiness being referred to a supernatural perfection."
+  },
+  "relatedAxes": ["SOVEREIGN_GOOD"],
+  "relatedTerms": ["eudaimonism", "grace"],
+  "figure": { "slug": "aquinas", "name": { "fr": "Thomas d'Aquin", "en": "Thomas Aquinas" } },
+  "positions": [{ "axisId": "SOVEREIGN_GOOD", "poleId": "MORAL_PERFECTIONISM" }],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

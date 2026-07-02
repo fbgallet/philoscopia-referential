@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "maimonides",
+  "stub": true,
+  "name": {
+    "fr": "Maïmonide",
+    "en": "Maimonides"
+  },
+  "summary": {
+    "fr": "Philosophe et rabbin juif du monde arabo-andalou, auteur du « Guide des égarés », tenant d'une théologie négative : de Dieu, on ne peut dire ce qu'il est, seulement ce qu'il n'est pas.",
+    "en": "Jewish philosopher and rabbi of the Arab-Andalusian world, author of \"The Guide for the Perplexed\", a proponent of negative theology: of God one cannot say what he is, only what he is not."
+  },
+  "birth": 1138,
+  "death": 1204,
+  "nationality": {
+    "fr": "Andalou",
+    "en": "Andalusian"
+  },
+  "movements": [],
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

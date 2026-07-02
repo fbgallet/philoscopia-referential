@@ -1,0 +1,16 @@
+{
+  "id": "augustine-to-aquinas",
+  "from": { "kind": "PHILOSOPHER", "slug": "augustine" },
+  "to": { "kind": "PHILOSOPHER", "slug": "aquinas" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='aquinas'>Thomas d'Aquin</ph> hérite d'<ph id='augustine'>Augustin</ph>, qu'il cite sans relâche, la conception du mal comme <c id='privation'>privation</c> de bien et la défense du libre arbitre face au <pb>problème du mal</pb>, ainsi que le cadre chrétien d'inspiration platonicienne. Mais il refonde ce legs sur la métaphysique d'<ph id='aristotle'>Aristote</ph>, déplaçant l'augustinisme vers une théologie de l'être.",
+    "en": "<ph id='aquinas'>Aquinas</ph> inherits from <ph id='augustine'>Augustine</ph>, whom he cites tirelessly, the conception of evil as a <c id='privation'>privation</c> of good and the free-will defence against the <pb>problem of evil</pb>, along with the broad Christian-Platonist frame. Yet he re-grounds this legacy on the metaphysics of <ph id='aristotle'>Aristotle</ph>, shifting Augustinianism toward a theology of being."
+  },
+  "sources": [
+    { "fr": "Thomas d'Aquin, Somme théologique (les nombreuses citations « Augustinus dicit »)", "en": "Aquinas, Summa Theologiae (the many \"Augustinus dicit\" citations)" }
+  ],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

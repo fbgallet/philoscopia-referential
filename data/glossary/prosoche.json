@@ -1,0 +1,14 @@
+{
+  "id": "prosoche",
+  "term": { "fr": "Prosochè", "en": "Prosochē" },
+  "definition": {
+    "fr": "La prosochè (attention) est, chez les <mv id='stoicism'>stoïciens</mv>, la vigilance continue portée à chaque instant sur les jugements et les impulsions du <c id='hegemonikon'>principe directeur</c>. Examiner chaque <c id='phantasia'>représentation</c> avant de lui donner son <c id='synkatathesis'>assentiment</c>, plutôt que de suivre mécaniquement ses impressions : telle est la posture fondamentale de l'exercice spirituel, que <ph id='epictetus'>Épictète</ph> et <ph id='marcus-aurelius'>Marc Aurèle</ph> rappellent sans cesse. C'est l'attention de tous les instants, par laquelle la sagesse se vit au présent plutôt qu'elle ne se sait.",
+    "en": "Prosochē (attention) is, for the <mv id='stoicism'>Stoics</mv>, the continuous vigilance kept at every moment on the judgments and impulses of the <c id='hegemonikon'>ruling faculty</c>. To examine each <c id='phantasia'>impression</c> before granting it <c id='synkatathesis'>assent</c>, rather than mechanically following one's impressions: such is the fundamental posture of spiritual exercise, which <ph id='epictetus'>Epictetus</ph> and <ph id='marcus-aurelius'>Marcus Aurelius</ph> never cease to recall. It is attention at every instant, by which wisdom is lived in the present rather than merely known."
+  },
+  "relatedAxes": ["ATTENTION", "INTERIORITY"],
+  "relatedTerms": ["hegemonikon", "phantasia", "synkatathesis"],
+  "positions": [
+    { "axisId": "ATTENTION", "poleId": "RECOLLECTION" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

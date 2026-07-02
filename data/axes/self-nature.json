@@ -1,0 +1,245 @@
+{
+  "id": "SELF_NATURE",
+  "relation": "SELF",
+  "territory": "IDENTITY_FREEDOM",
+  "label": {
+    "fr": "Nature du moi",
+    "en": "Nature of the self"
+  },
+  "question": {
+    "fr": "Qu'est-ce qui fait que je reste moi-même à travers le temps ?",
+    "en": "What makes me remain myself through time?"
+  },
+  "stakes": {
+    "fr": "Qu'est-ce qui fait de moi la même personne que l'enfant des vieilles photos, ou que celui que je serai dans trente ans ? Si rien de stable ne subsiste, la promesse, le remords, la fierté d'un moi passé perdent leur appui ; si un noyau demeure, aucun changement ne me refait vraiment. Se positionner, c'est dire ce qu'on retient au juste quand on dit « moi ».",
+    "en": "What makes me the same person as the child in the old photographs, or as the one I will be in thirty years? If nothing stable endures, promises, remorse, and pride in a past self lose their footing; if a core remains, no change ever truly remakes me. To take a position is to say what exactly we are holding onto when we say \"me.\""
+  },
+  "layer": "THEORY",
+  "type": "CATEGORICAL",
+  "poles": [
+    {
+      "id": "SUBSTANTIALISM",
+      "label": {
+        "fr": "Substantialisme",
+        "en": "Substantialism"
+      },
+      "description": {
+        "fr": "Le moi est une substance : une chose pensante, distincte du corps, qui demeure identique sous le flux des pensées et des expériences. Ce noyau permanent est ce que chacun désigne quand il dit « je ».",
+        "en": "The self is a substance: a thinking thing, distinct from the body, that remains identical beneath the flow of thoughts and experiences. This permanent core is what each of us refers to when saying \"I\"."
+      },
+      "figures": [
+        {
+          "slug": "descartes",
+          "name": {
+            "fr": "Descartes",
+            "en": "Descartes"
+          }
+        }
+      ]
+    },
+    {
+      "id": "PSYCHOLOGICAL_CONTINUITY",
+      "label": {
+        "fr": "Continuité psychologique",
+        "en": "Psychological continuity"
+      },
+      "description": {
+        "fr": "Ce qui fait l'identité personnelle, ce n'est pas une substance mais l'enchaînement continu des états mentaux : mémoire, caractère, intentions. Je suis la même personne qu'hier parce que mes souvenirs et mes traits psychologiques s'y relient sans rupture.",
+        "en": "What constitutes personal identity is not a substance but the continuous chain of mental states: memory, character, intentions. I am the same person as yesterday because my memories and psychological traits connect to it without interruption."
+      },
+      "figures": [
+        {
+          "slug": "locke",
+          "name": {
+            "fr": "Locke",
+            "en": "Locke"
+          }
+        },
+        {
+          "slug": "parfit",
+          "name": {
+            "fr": "Parfit",
+            "en": "Parfit"
+          }
+        }
+      ]
+    },
+    {
+      "id": "NARRATIVISM",
+      "label": {
+        "fr": "Narrativisme",
+        "en": "Narrativism"
+      },
+      "description": {
+        "fr": "Le moi se construit comme un récit : nous devenons qui nous sommes en racontant et en réinterprétant notre histoire. L'identité n'est ni donnée ni illusoire, elle est l'œuvre toujours reprise d'une vie mise en intrigue.",
+        "en": "The self is built like a story: we become who we are by telling and reinterpreting our own history. Identity is neither given nor illusory; it is the ever-resumed work of a life woven into a plot."
+      },
+      "figures": [
+        {
+          "slug": "ricoeur",
+          "name": {
+            "fr": "Ricœur",
+            "en": "Ricoeur"
+          }
+        }
+      ]
+    },
+    {
+      "id": "BUNDLE_THEORY",
+      "label": {
+        "fr": "Faisceau",
+        "en": "Bundle theory"
+      },
+      "description": {
+        "fr": "Il n'y a pas de moi permanent : seulement un faisceau de perceptions, de pensées et de sensations qui se succèdent. Le « je » est une fiction commode, et s'en déprendre peut être une libération.",
+        "en": "There is no permanent self: only a bundle of perceptions, thoughts and sensations following one another. The \"I\" is a convenient fiction, and letting go of it can be a liberation."
+      },
+      "figures": [
+        {
+          "slug": "hume",
+          "name": {
+            "fr": "Hume",
+            "en": "Hume"
+          }
+        },
+        {
+          "slug": "buddhism",
+          "name": {
+            "fr": "le bouddhisme",
+            "en": "Buddhism"
+          }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 2,
+  "clusters": [],
+  "relatedAxes": [
+    "EMBODIMENT",
+    "ESSENCE",
+    "FREEDOM",
+    "SOCIAL_IDENTITY",
+    "DEATH"
+  ],
+  "problems": [
+    {
+      "id": "the-teletransporter",
+      "resolution": "SURFACED",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "une personne", "en": "a person" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "téléportation", "en": "teletransportation" },
+        { "fr": "duplication", "en": "duplication" },
+        { "fr": "survie", "en": "survival" },
+        { "fr": "copie", "en": "copy" }
+      ],
+      "poles": ["SUBSTANTIALISM", "PSYCHOLOGICAL_CONTINUITY", "NARRATIVISM", "BUNDLE_THEORY"],
+      "anchors": [
+        { "name": { "fr": "Parfit", "en": "Parfit" }, "kind": "PHILOSOPHER", "slug": "parfit" },
+        { "name": { "fr": "Locke", "en": "Locke" }, "kind": "PHILOSOPHER", "slug": "locke" }
+      ],
+      "title": { "fr": "Le téléporteur", "en": "The teletransporter" },
+      "explicitation": { "fr": "Si l'on vous scanne ici, qu'on détruit votre corps et qu'on reconstruit sur Mars une copie exacte avec tous vos souvenirs, est-ce vous qui arrivez, ou êtes-vous mort, remplacé par un double qui se croit vous ?", "en": "If you are scanned here, your body destroyed, and an exact copy with all your memories rebuilt on Mars, is it you who arrives, or did you die, replaced by a double who believes he is you?" },
+      "ref": { "kind": "THOUGHT_EXPERIMENT", "id": "teletransporter" }
+    },
+    {
+      "id": "one-self-or-many",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "l'unité du moi", "en": "the unity of the self" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "inconscient", "en": "the unconscious" },
+        { "fr": "moi divisé", "en": "divided self" },
+        { "fr": "conflit intérieur", "en": "inner conflict" }
+      ],
+      "poles": ["SUBSTANTIALISM", "BUNDLE_THEORY"],
+      "anchors": [
+        { "name": { "fr": "Platon", "en": "Plato" }, "kind": "PHILOSOPHER", "slug": "plato" },
+        { "name": { "fr": "Freud", "en": "Freud" }, "kind": "PHILOSOPHER", "slug": "freud" }
+      ],
+      "title": { "fr": "Un moi ou plusieurs ?", "en": "One self or many?" },
+      "explicitation": { "fr": "Suis-je un sujet unifié qui dit « je », ou un assemblage de voix et de forces parfois en conflit, dont une part m'échappe et agit sans que je le sache ?", "en": "Am I a unified subject who says \"I\", or an assembly of voices and forces sometimes in conflict, part of which escapes me and acts without my knowing?" }
+    },
+    {
+      "id": "letting-go-of-the-self",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "le moi", "en": "the self" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "non-soi", "en": "non-self" },
+        { "fr": "fiction", "en": "fiction" },
+        { "fr": "libération", "en": "liberation" },
+        { "fr": "attachement", "en": "attachment" }
+      ],
+      "poles": ["BUNDLE_THEORY"],
+      "anchors": [
+        { "name": { "fr": "Hume", "en": "Hume" }, "kind": "PHILOSOPHER", "slug": "hume" },
+        { "name": { "fr": "le bouddhisme", "en": "Buddhism" }, "kind": "MOVEMENT", "slug": "buddhism" }
+      ],
+      "title": { "fr": "Se déprendre du moi", "en": "Letting go of the self" },
+      "explicitation": { "fr": "Le « je » est-il une fiction commode, qu'on prend à tort pour une chose ? Et s'en libérer serait-il une perte, ou au contraire une délivrance ?", "en": "Is the \"I\" a convenient fiction, mistaken for a thing? And would letting go of it be a loss, or rather a deliverance?" }
+    },
+    {
+      "id": "self-made-alone",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "le moi et autrui", "en": "the self and others" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "reconnaissance", "en": "recognition" },
+        { "fr": "regard d'autrui", "en": "the gaze of others" },
+        { "fr": "soi dialogique", "en": "dialogical self" }
+      ],
+      "poles": ["NARRATIVISM", "SUBSTANTIALISM"],
+      "anchors": [
+        { "name": { "fr": "Hegel", "en": "Hegel" }, "kind": "PHILOSOPHER", "slug": "hegel" },
+        { "name": { "fr": "Ricœur", "en": "Ricoeur" }, "kind": "PHILOSOPHER", "slug": "ricoeur" }
+      ],
+      "doorways": [{ "axis": "SOCIAL_IDENTITY" }],
+      "title": { "fr": "Le moi se fait-il seul ?", "en": "Is the self made alone?" },
+      "explicitation": { "fr": "Devient-on soi par la seule introspection, comme un sujet qui se suffit, ou à travers le regard et la reconnaissance d'autrui, sans qui le « je » ne se formerait pas ?", "en": "Does one become oneself through introspection alone, as a self-sufficient subject, or through the gaze and recognition of others, without whom the \"I\" would not take shape?" }
+    },
+    {
+      "id": "self-or-body",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "le moi et le corps", "en": "the self and the body" },
+      "mode": "DESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "corps", "en": "body" },
+        { "fr": "chose pensante", "en": "thinking thing" },
+        { "fr": "incarnation", "en": "embodiment" }
+      ],
+      "poles": ["SUBSTANTIALISM"],
+      "doorways": [{ "axis": "EMBODIMENT" }],
+      "title": { "fr": "Le moi ou le corps ?", "en": "The self or the body?" },
+      "explicitation": { "fr": "Suis-je une chose pensante qui se distingue de son corps, ou suis-je ce corps même, de sorte que mon identité tiendrait d'abord à lui ?", "en": "Am I a thinking thing distinct from my body, or am I this very body, so that my identity would hang first of all on it?" }
+    },
+    {
+      "id": "given-self-or-made-self",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "le moi", "en": "the self" },
+      "mode": "DESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "essence", "en": "essence" },
+        { "fr": "nature", "en": "nature" },
+        { "fr": "se faire soi-même", "en": "self-making" }
+      ],
+      "poles": ["NARRATIVISM"],
+      "doorways": [{ "axis": "ESSENCE", "problem": "find-or-invent-self" }],
+      "title": { "fr": "Un moi donné ou à faire ?", "en": "A given self or a self to make?" },
+      "explicitation": { "fr": "Ai-je une nature qui me précède et que j'aurais à découvrir, ou est-ce que je deviens ce que je choisis d'être, sans modèle fixé d'avance ?", "en": "Do I have a nature that precedes me and that I have to discover, or do I become what I choose to be, with no model fixed in advance?" }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "sidgwick-to-singer",
+  "from": { "kind": "PHILOSOPHER", "slug": "sidgwick" },
+  "to": { "kind": "PHILOSOPHER", "slug": "singer" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='singer'>Singer</ph> reprend de <ph id='sidgwick'>Sidgwick</ph> l'universalisme <c>impartial</c>, le point de vue de l'univers, et l'étend en éthique pratique : la considération morale doit s'élargir à tout être capable de souffrir.",
+    "en": "<ph id='singer'>Singer</ph> takes from <ph id='sidgwick'>Sidgwick</ph> the <c>impartial</c> universalism, the point of view of the universe, and extends it into practical ethics: moral consideration must widen to every being capable of suffering."
+  },
+  "sources": [
+    { "fr": "Singer, Questions d'éthique pratique (1979)", "en": "Singer, Practical Ethics (1979)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

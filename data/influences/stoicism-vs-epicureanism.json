@@ -1,0 +1,16 @@
+{
+  "id": "stoicism-vs-epicureanism",
+  "from": { "kind": "MOVEMENT", "slug": "stoicism" },
+  "to": { "kind": "MOVEMENT", "slug": "epicureanism" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "En retour, l'<mv id='epicureanism'>épicurisme</mv>, notamment chez Lucrèce, combat la providence et le destin <mv id='stoicism'>stoïciens</mv> au nom d'un monde sans dessein, né du hasard des atomes et où l'âme est mortelle.",
+    "en": "In return, <mv id='epicureanism'>Epicureanism</mv>, notably in Lucretius, fights <mv id='stoicism'>Stoic</mv> providence and fate in the name of a world without design, born of the chance of atoms and in which the soul is mortal."
+  },
+  "sources": [
+    { "fr": "Lucrèce, De la nature", "en": "Lucretius, On the Nature of Things" }
+  ],
+  "updatedAt": "2026-07-02T00:00:00.000Z"
+}

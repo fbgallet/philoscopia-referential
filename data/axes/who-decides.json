@@ -1,0 +1,83 @@
+{
+  "id": "WHO_DECIDES",
+  "relation": "OTHERS",
+  "territory": "SOCIETY_POLITICS",
+  "label": {
+    "fr": "Qui doit décider",
+    "en": "Who should decide"
+  },
+  "question": {
+    "fr": "Les décisions politiques appartiennent-elles à tous, ou d'abord aux plus compétents ?",
+    "en": "Do political decisions belong to everyone, or first to the most competent?"
+  },
+  "stakes": {
+    "fr": "Donner à chacun une voix égale peut confier des choix graves à l'ignorance ou à la passion ; réserver le pouvoir aux plus savants peut masquer les intérêts des puissants derrière l'« expertise » et déposséder les gens de leur propre vie. Se positionner, c'est dire d'où vient la légitimité de décider : de l'égalité de tous, ou de la compétence de quelques-uns.",
+    "en": "Giving everyone an equal voice can hand grave choices to ignorance or passion; reserving power for the most knowledgeable can hide the interests of the powerful behind \"expertise\" and strip people of a say over their own lives. To take a position is to say where the legitimacy to decide comes from: the equality of all, or the competence of a few."
+  },
+  "layer": "VALUE",
+  "type": "BIPOLAR",
+  "poles": [
+    {
+      "id": "RADICAL_DEMOCRACY",
+      "label": {
+        "fr": "Démocratie radicale",
+        "en": "Radical democracy"
+      },
+      "description": {
+        "fr": "La politique repose sur l'égale capacité de tous à délibérer et à décider : il n'existe pas d'experts du bien commun. Une société libre est celle qui s'institue elle-même, où chacun peut prendre part au pouvoir sans titre particulier à gouverner.",
+        "en": "Politics rests on everyone's equal capacity to deliberate and decide: there are no experts in the common good. A free society institutes itself, one where anyone can take part in power without any special entitlement to rule."
+      },
+      "figures": [
+        {
+          "slug": "castoriadis",
+          "name": {
+            "fr": "Castoriadis",
+            "en": "Castoriadis"
+          }
+        },
+        {
+          "slug": "ranciere",
+          "name": {
+            "fr": "Rancière",
+            "en": "Rancière"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EPISTOCRACY",
+      "label": {
+        "fr": "Épistocratie",
+        "en": "Epistocracy"
+      },
+      "description": {
+        "fr": "Gouverner exige un savoir, comme piloter un navire ou soigner un malade. Confier les décisions à des citoyens mal informés produit de mauvaises politiques : le pouvoir devrait revenir, au moins en partie, à ceux qui possèdent la compétence requise.",
+        "en": "Governing requires knowledge, like steering a ship or treating the sick. Entrusting decisions to ill-informed citizens produces bad policies: power should belong, at least in part, to those with the required competence."
+      },
+      "figures": [
+        {
+          "slug": "plato",
+          "name": {
+            "fr": "Platon",
+            "en": "Plato"
+          }
+        },
+        {
+          "slug": "brennan",
+          "name": {
+            "fr": "Brennan",
+            "en": "Brennan"
+          }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 2,
+  "clusters": [],
+  "relatedAxes": [
+    "POLITICAL_LIBERTY",
+    "AUTHORITY",
+    "DISTRIBUTIVE_JUSTICE"
+  ]
+}

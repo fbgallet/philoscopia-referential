@@ -1,0 +1,12 @@
+{
+  "id": "notion",
+  "term": { "fr": "Notion", "en": "Notion" },
+  "definition": {
+    "fr": "Terme technique de <ph id='berkeley'>Berkeley</ph> pour désigner la connaissance que nous avons des esprits et des relations, là où nous n'en pouvons avoir aucune idée. Une idée, pour lui, est toujours passive et perçue ; or l'esprit qui perçoit et veut est actif, et Dieu plus encore : nous n'avons donc pas l'idée du moi ni de Dieu, mais une <kw>notion</kw>, saisie immédiate de notre propre activité et de ce qui lui ressemble. C'est ainsi que l'<c id='immaterialism'>immatérialisme</c> peut nier la <c>matière</c> sans nier l'esprit, alors même que nul ne le perçoit comme une idée.",
+    "en": "<ph id='berkeley'>Berkeley</ph>'s technical term for the knowledge we have of spirits and relations, where we can have no idea of them at all. An idea, for him, is always passive and perceived; but the mind that perceives and wills is active, and God still more so. We therefore have no idea of the self or of God, but a <kw>notion</kw>, an immediate grasp of our own activity and of what resembles it. This is how <c id='immaterialism'>immaterialism</c> can deny <c>matter</c> without denying spirit, even though no one perceives spirit as an idea."
+  },
+  "relatedAxes": ["SELF_NATURE"],
+  "relatedTerms": ["immaterialism", "esse-est-percipi"],
+  "figure": { "slug": "berkeley", "name": { "fr": "Berkeley", "en": "Berkeley" } },
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

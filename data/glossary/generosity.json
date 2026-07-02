@@ -1,0 +1,13 @@
+{
+  "id": "generosity",
+  "term": { "fr": "Générosité", "en": "Generosity (générosité)" },
+  "definition": {
+    "fr": "Dans <w id='the-passions-of-the-soul-descartes'>Les Passions de l'âme</w>, <ph id='descartes'>Descartes</ph> fait de la générosité la clé de toutes les vertus : une juste estime de soi fondée sur le bon usage du libre arbitre, seule chose qui dépende vraiment de nous. Le généreux, se sachant maître de ses volontés, est porté à estimer autrui comme lui-même, à entreprendre avec fermeté et à excuser les fautes des autres. C'est une morale de la maîtrise des passions par la volonté.",
+    "en": "In <w id='the-passions-of-the-soul-descartes'>The Passions of the Soul</w>, <ph id='descartes'>Descartes</ph> makes générosité the key to all the virtues: a rightful self-esteem grounded in the good use of free will, the one thing truly within our power. The generous soul, knowing itself master of its volitions, is led to esteem others as itself, to undertake things firmly, and to excuse others' faults. It is an ethic of mastering the passions through the will."
+  },
+  "relatedAxes": ["ETHICS_FOUNDATION", "SELF_INTEREST", "FREEDOM", "FORGIVENESS"],
+  "relatedTerms": ["free-will"],
+  "figure": { "slug": "descartes", "name": { "fr": "Descartes", "en": "Descartes" } },
+  "positions": [{ "axisId": "ETHICS_FOUNDATION", "poleId": "VIRTUE_ETHICS" }],
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

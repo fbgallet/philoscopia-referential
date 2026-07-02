@@ -1,0 +1,549 @@
+{
+  "kind": "MOVEMENT",
+  "id": "enlightenment",
+  "name": {
+    "fr": "Les Lumières",
+    "en": "The Enlightenment"
+  },
+  "tagline": {
+    "fr": "Aie le courage de te servir de ton propre entendement : par la raison et les <c id='lumieres'>lumières</c>, l'humanité peut s'émanciper de la tutelle des autorités, de la superstition et de l'arbitraire.",
+    "en": "Dare to use your own understanding: through reason and <c id='lumieres'>enlightenment</c>, humanity can free itself from the tutelage of authority, from superstition and from arbitrary power."
+  },
+  "summary": {
+    "fr": "Vaste mouvement intellectuel européen du XVIIIe siècle, le « siècle des Lumières », qui prolonge la révolution scientifique de <per>Newton</per> et l'empirisme de <ph id='locke'>Locke</ph> pour faire de la raison critique l'instrument d'une émancipation générale. Porté en France par les philosophes, <ph id='voltaire'>Voltaire</ph>, <ph id='montesquieu'>Montesquieu</ph>, <ph id='rousseau'>Rousseau</ph>, <ph id='diderot'>Diderot</ph> et <ph id='d-alembert'>d'Alembert</ph> dont l'<w>Encyclopédie</w> dresse l'inventaire des savoirs, relayé en Écosse par <ph id='hume'>Hume</ph> et <ph id='adam-smith'>Smith</ph>, en Allemagne par l'<c id='lumieres'>Aufklärung</c> que <ph id='kant'>Kant</ph> résume d'une devise, « Sapere aude », il se diffuse par les salons, les journaux et la République des Lettres. Tournées contre « le trône et l'autel », ses idées de tolérance, de droits naturels et de gouvernement par consentement irriguent les révolutions américaine et française et les déclarations des droits. Combattu dès l'origine par <ph id='burke'>Burke</ph> et le courant contre-révolutionnaire, puis par le <mv id='romanticism'>romantisme</mv>, son héritage rationaliste sera aussi interrogé au XXe siècle, de la « dialectique de la raison » aux critiques de l'idée de progrès.",
+    "en": "A vast European intellectual movement of the eighteenth century, the « Age of Enlightenment », which extends the scientific revolution of <per>Newton</per> and the empiricism of <ph id='locke'>Locke</ph> to make critical reason the instrument of a general emancipation. Carried in France by the philosophes, <ph id='voltaire'>Voltaire</ph>, <ph id='montesquieu'>Montesquieu</ph>, <ph id='rousseau'>Rousseau</ph>, <ph id='diderot'>Diderot</ph> and <ph id='d-alembert'>d'Alembert</ph> whose <w>Encyclopédie</w> drew up an inventory of all knowledge, relayed in Scotland by <ph id='hume'>Hume</ph> and <ph id='adam-smith'>Smith</ph>, and in Germany by the <c id='lumieres'>Aufklärung</c> that <ph id='kant'>Kant</ph> summed up in a motto, « Sapere aude », it spread through the salons, the journals and the Republic of Letters. Aimed against « throne and altar », its ideas of tolerance, natural rights and government by consent ran through the American and French revolutions and the declarations of rights. Opposed from the outset by <ph id='burke'>Burke</ph> and the counter-revolutionary current, then by <mv id='romanticism'>Romanticism</mv>, its rationalist legacy would also be questioned in the twentieth century, from the « dialectic of reason » to critiques of the idea of progress."
+  },
+  "period": {
+    "from": 1685,
+    "to": 1804
+  },
+  "keyFigures": [
+    { "slug": "montesquieu", "name": { "fr": "Montesquieu", "en": "Montesquieu" } },
+    { "slug": "voltaire", "name": { "fr": "Voltaire", "en": "Voltaire" } },
+    { "slug": "rousseau", "name": { "fr": "Rousseau", "en": "Rousseau" } },
+    { "slug": "diderot", "name": { "fr": "Diderot", "en": "Diderot" } },
+    { "slug": "kant", "name": { "fr": "Kant", "en": "Kant" } },
+    { "slug": "condorcet", "name": { "fr": "Condorcet", "en": "Condorcet" } }
+  ],
+  "entries": [
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Les Lumières font de la réduction de la souffrance un objet du <c>progrès</c> : contre la torture judiciaire (Beccaria), le fanatisme et ses cruautés (Voltaire), les maladies que la science doit reculer, elles refusent qu'on sanctifie la douleur ou qu'on s'y résigne. La souffrance évitable est un mal que la raison et la réforme ont charge de combattre.",
+          "en": "The Enlightenment makes the reduction of suffering an object of <c>progress</c>: against judicial torture (Beccaria), fanaticism and its cruelties (Voltaire), the diseases that science must push back, it refuses to sanctify pain or to resign oneself to it. Avoidable suffering is an evil that reason and reform are charged with fighting."
+        },
+        "references": [
+          {
+            "fr": "Beccaria, Des délits et des peines",
+            "en": "Beccaria, On Crimes and Punishments"
+          },
+          {
+            "fr": "Voltaire, Traité sur la tolérance",
+            "en": "Voltaire, Treatise on Tolerance"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.2,
+          0.75,
+          0.05,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Les Lumières déplacent le sens de la providence et de la tradition vers l'homme lui-même : c'est par l'usage public de la <c>raison</c>, le <c>progrès</c> des connaissances et l'autonomie que l'humanité fait sa propre histoire et améliore sa condition. Même chez les déistes, le Dieu lointain ne destine plus : le sens se construit ici-bas, par l'émancipation des tutelles.",
+          "en": "The Enlightenment shifts meaning from providence and tradition toward man himself: it is through the public use of <c>reason</c>, the <c>progress</c> of knowledge and autonomy that humanity makes its own history and improves its condition. Even among the deists, the remote God no longer destines: meaning is built here below, through emancipation from tutelage."
+        },
+        "references": [
+          {
+            "fr": "Kant, Qu'est-ce que les Lumières ?",
+            "en": "Kant, What Is Enlightenment?"
+          },
+          {
+            "fr": "Condorcet, Esquisse d'un tableau historique des progrès de l'esprit humain",
+            "en": "Condorcet, Sketch for a Historical Picture of the Progress of the Human Mind"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SCIENCE_PLACE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.55 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le modèle est la physique de <per>Newton</per> : une poignée de lois mathématiques rend raison de tout le système du monde, sans qualités occultes ni fin providentielle. Les Lumières érigent cette réussite en méthode universelle, ce que la raison expérimentale a fait pour les cieux, elle peut le faire pour la morale, la politique et la religion. Aucune autorité, tradition, coutume ou révélation, n'est soustraite à l'examen ; tout doit comparaître devant le tribunal de la raison. Ce n'est pas encore le <c>scientisme</c> de <ph id='comte'>Comte</ph>, qui fera de la science positive la seule connaissance, mais la science y devient le paradigme du savoir légitime et le levier de l'émancipation.",
+          "en": "The model is the physics of <per>Newton</per>: a handful of mathematical laws accounts for the whole system of the world, with no occult qualities or providential ends. The Enlightenment turns this success into a universal method; what experimental reason has done for the heavens it can do for morals, politics and religion. No authority, tradition, custom or revelation is exempt from examination; everything must appear before the tribunal of reason. This is not yet the <c>scientism</c> of <ph id='comte'>Comte</ph>, which will make positive science the only knowledge, but science here becomes the paradigm of legitimate knowledge and the lever of emancipation."
+        },
+        "quote": {
+          "text": {
+            "fr": "Sapere aude ! Aie le courage de te servir de ton propre entendement : telle est la devise des Lumières.",
+            "en": "Sapere aude! Have the courage to use your own understanding: that is the motto of the Enlightenment."
+          },
+          "source": {
+            "fr": "Kant, Qu'est-ce que les Lumières ? (1784)",
+            "en": "Kant, What Is Enlightenment? (1784)"
+          }
+        },
+        "references": [
+          { "fr": "Kant, Qu'est-ce que les Lumières ?", "en": "Kant, What Is Enlightenment?" },
+          { "fr": "d'Alembert, Discours préliminaire de l'Encyclopédie", "en": "d'Alembert, Preliminary Discourse to the Encyclopédie" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SCIENTIFIC_METHOD",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.8, 0, 0.2] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Hostiles aux systèmes a priori et aux hypothèses gratuites, les Lumières font de l'observation et de l'expérience la source de toute physique : on remonte des faits aux lois par <c id='induction'>induction</c>, à la manière de <ph id='bacon'>Bacon</ph> dont l'<w>Encyclopédie</w> se réclame. <ph id='hume'>Hume</ph> radicalise pourtant ce programme en montrant que l'induction elle-même ne se fonde pas en raison, mais sur l'habitude. Parallèlement, le calcul des probabilités de <per>Laplace</per> et de <ph id='condorcet'>Condorcet</ph> ouvre une voie quantitative à l'incertitude.",
+          "en": "Hostile to a priori systems and gratuitous hypotheses, the Enlightenment makes observation and experiment the source of all physics: one rises from facts to laws by <c id='induction'>induction</c>, in the manner of <ph id='bacon'>Bacon</ph>, whom the <w>Encyclopédie</w> claims as its patron. <ph id='hume'>Hume</ph> nonetheless radicalizes this programme by showing that induction itself is grounded not in reason but in habit. In parallel, the calculus of probabilities of <per>Laplace</per> and <ph id='condorcet'>Condorcet</ph> opens a quantitative path to uncertainty."
+        },
+        "references": [
+          { "fr": "Bacon, Novum Organum", "en": "Bacon, Novum Organum" },
+          { "fr": "Condorcet, Essai sur l'application de l'analyse à la probabilité des décisions", "en": "Condorcet, Essay on the Application of Analysis to the Probability of Majority Decisions" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.15 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le geste inaugural est critique : contre le <c id='dogmatism'>dogmatisme</c> des métaphysiques scolaires et des vérités révélées, il s'agit de mesurer la raison à ses propres limites. Mais cette défiance n'est pas le <c id='skepticism'>scepticisme</c> destructeur de <ph id='pyrrho'>Pyrrhon</ph> : <ph id='hume'>Hume</ph> tempère son doute en un scepticisme mitigé, praticable, et <ph id='kant'>Kant</ph> en fait une critique qui borne la connaissance pour mieux la fonder. La certitude vise désormais ce qui résiste à l'examen, non ce qui s'impose par autorité, une position <c id='fallibilism'>faillibiliste</c>.",
+          "en": "The inaugural gesture is critical: against the <c id='dogmatism'>dogmatism</c> of school metaphysics and revealed truths, the task is to measure reason against its own limits. But this distrust is not the destructive <c id='skepticism'>scepticism</c> of <ph id='pyrrho'>Pyrrho</ph>: <ph id='hume'>Hume</ph> tempers his doubt into a mitigated, workable scepticism, and <ph id='kant'>Kant</ph> turns it into a critique that bounds knowledge the better to ground it. Certainty now aims at what withstands examination, not at what imposes itself by authority, a <c id='fallibilism'>fallibilist</c> stance."
+        },
+        "references": [
+          { "fr": "Kant, Critique de la raison pure (préface)", "en": "Kant, Critique of Pure Reason (preface)" },
+          { "fr": "Hume, Enquête sur l'entendement humain, sect. XII", "en": "Hume, Enquiry Concerning Human Understanding, sect. XII" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.4 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'épistémologie dominante des philosophes est celle de <ph id='locke'>Locke</ph> : l'esprit est d'abord une <c id='tabula-rasa'>table rase</c>, et toutes nos idées viennent de l'expérience. <ph id='condillac'>Condillac</ph> en tire un sensualisme intégral où les opérations mêmes de l'esprit se ramènent à des sensations transformées. Cet empirisme nourrit la critique des idées innées, armes supposées des préjugés et de l'autorité. Le courant n'est pas unanime pour autant : un versant rationaliste hérité de <ph id='descartes'>Descartes</ph> persiste, et <ph id='kant'>Kant</ph> dépassera l'alternative en montrant que l'expérience elle-même suppose des formes a priori de l'entendement.",
+          "en": "The dominant epistemology of the philosophes is that of <ph id='locke'>Locke</ph>: the mind is at first a <c id='tabula-rasa'>blank slate</c>, and all our ideas come from experience. <ph id='condillac'>Condillac</ph> draws from this a thoroughgoing sensationism in which even the operations of the mind reduce to transformed sensations. This empiricism feeds the critique of innate ideas, the supposed weapons of prejudice and authority. The current is not unanimous, however: a rationalist strand inherited from <ph id='descartes'>Descartes</ph> persists, and <ph id='kant'>Kant</ph> will go beyond the alternative by showing that experience itself presupposes a priori forms of the understanding."
+        },
+        "references": [
+          { "fr": "Locke, Essai sur l'entendement humain, livre II", "en": "Locke, Essay Concerning Human Understanding, book II" },
+          { "fr": "Condillac, Traité des sensations", "en": "Condillac, Treatise on the Sensations" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_STATUS",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.6 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La confiance newtonienne porte une thèse réaliste : les lois de la nature ne sont pas des conventions commodes mais la structure réelle d'un monde ordonné, que la raison déchiffre sans la construire. Connaître, c'est lever le voile des préjugés et des apparences pour atteindre les choses telles qu'elles sont ; l'erreur tient à l'ignorance et à l'imposture, non à une relativité constitutive du savoir. Cet objectivisme fonde l'autorité que les Lumières reconnaissent à la science contre les opinions et les traditions.",
+          "en": "Newtonian confidence carries a realist thesis: the laws of nature are not convenient conventions but the real structure of an ordered world, which reason deciphers rather than constructs. To know is to lift the veil of prejudice and appearance and reach things as they are; error stems from ignorance and imposture, not from any relativity built into knowledge itself. This objectivism grounds the authority the Enlightenment grants to science over opinions and traditions."
+        },
+        "references": [
+          { "fr": "d'Alembert, Discours préliminaire de l'Encyclopédie", "en": "d'Alembert, Preliminary Discourse to the Encyclopédie" },
+          { "fr": "Voltaire, Éléments de la philosophie de Newton", "en": "Voltaire, Elements of Newton's Philosophy" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.4 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le projet d'une science de l'homme suppose une nature humaine universelle et stable : sous la diversité des mœurs, partout les mêmes facultés, les mêmes passions, la même raison. C'est cette identité de fond qui rend possibles des droits valables pour tous et une morale qui ne soit pas le simple reflet des coutumes locales. L'essentialisme reste pourtant modéré : la nature humaine est une, mais ses facultés sont en germe et se développent par l'éducation, de sorte que l'homme est moins une essence figée qu'une capacité à se former.",
+          "en": "The project of a science of man presupposes a universal and stable human nature: beneath the diversity of customs, everywhere the same faculties, the same passions, the same reason. It is this underlying identity that makes possible rights valid for all and a morality that is not the mere reflection of local custom. Yet the essentialism remains moderate: human nature is one, but its faculties are latent and develop through education, so that man is less a fixed essence than a capacity to form himself."
+        },
+        "references": [
+          { "fr": "Hume, Enquête sur l'entendement humain, sect. VIII", "en": "Hume, Enquiry Concerning Human Understanding, sect. VIII" },
+          { "fr": "Diderot, article « Homme » de l'Encyclopédie", "en": "Diderot, article \"Homme\" in the Encyclopédie" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CONSERVATISM_PROGRESSISM",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.8 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "De l'accumulation des connaissances et de la diffusion des lumières, le courant tire une thèse neuve : l'humanité avance, et cette marche peut être consciente et voulue. Les institutions et les lois ne sont pas sacrées du seul fait d'être anciennes ; elles doivent prouver leur utilité présente, faute de quoi la réforme est légitime. <ph id='condorcet'>Condorcet</ph> pousse l'idée jusqu'à une loi de l'histoire, l'esprit humain progressant par étapes vers la vérité, la liberté et le bonheur. Contre ce credo, <ph id='burke'>Burke</ph> dressera la sagesse accumulée de la tradition : c'est l'acte de naissance du clivage entre progressisme et conservatisme.",
+          "en": "From the accumulation of knowledge and the spread of enlightenment the current draws a new thesis: humanity advances, and that march can be conscious and willed. Institutions and laws are not sacred merely for being old; they must prove their present usefulness, failing which reform is legitimate. <ph id='condorcet'>Condorcet</ph> pushes the idea to a law of history, the human mind progressing by stages toward truth, liberty and happiness. Against this creed <ph id='burke'>Burke</ph> will set the accumulated wisdom of tradition: this is the birth certificate of the divide between progressivism and conservatism."
+        },
+        "quote": {
+          "text": {
+            "fr": "La perfectibilité de l'homme est réellement indéfinie ; et le progrès de cette perfectibilité n'a d'autre terme que la durée du globe où la nature nous a jetés.",
+            "en": "The perfectibility of man is truly indefinite; and the progress of this perfectibility has no other limit than the duration of the globe on which nature has placed us."
+          },
+          "source": {
+            "fr": "Condorcet, Esquisse d'un tableau historique des progrès de l'esprit humain (1795)",
+            "en": "Condorcet, Sketch for a Historical Picture of the Progress of the Human Mind (1795)"
+          }
+        },
+        "references": [
+          { "fr": "Condorcet, Esquisse d'un tableau historique des progrès de l'esprit humain", "en": "Condorcet, Sketch for a Historical Picture of the Progress of the Human Mind" },
+          { "fr": "Turgot, Discours sur les progrès successifs de l'esprit humain", "en": "Turgot, On the Successive Advances of the Human Mind" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HISTORY_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.6 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'histoire cesse d'être une suite de règnes ou un déclin depuis un âge d'or pour devenir le développement orienté de la raison. <ph id='condorcet'>Condorcet</ph> la périodise en dix époques marchant vers l'émancipation ; <ph id='kant'>Kant</ph> y lit le déploiement, à travers même « l'insociable sociabilité » des hommes, d'un dessein de la nature vers une société cosmopolitique. Le sens n'est pas donné par une providence extérieure mais immanent au mouvement des sociétés, lisible par qui sait l'interpréter. Cette philosophie de l'histoire sera héritée par <ph id='hegel'>Hegel</ph> et <ph id='marx'>Marx</ph>.",
+          "en": "History ceases to be a succession of reigns or a decline from a golden age and becomes the directed development of reason. <ph id='condorcet'>Condorcet</ph> divides it into ten epochs marching toward emancipation; <ph id='kant'>Kant</ph> reads in it the unfolding, through the very « unsociable sociability » of men, of a design of nature toward a cosmopolitan society. Meaning is not conferred by an external providence but is immanent to the movement of societies, legible to whoever can interpret it. This philosophy of history will be inherited by <ph id='hegel'>Hegel</ph> and <ph id='marx'>Marx</ph>."
+        },
+        "references": [
+          { "fr": "Kant, Idée d'une histoire universelle au point de vue cosmopolitique", "en": "Kant, Idea for a Universal History with a Cosmopolitan Aim" },
+          { "fr": "Condorcet, Esquisse d'un tableau historique des progrès de l'esprit humain", "en": "Condorcet, Sketch for a Historical Picture of the Progress of the Human Mind" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "RIGHTS_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.7, 0.05, 0.15, 0.1] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Avant toute société et toute loi positive, l'homme possède en propre, du seul fait de sa nature raisonnable, des droits que nul pouvoir n'a conférés et que nul ne peut légitimement abolir : à la vie, à la liberté, à la propriété de sa personne. <ph id='locke'>Locke</ph> en fait la mesure de tout gouvernement, institué seulement pour les garantir. Ces droits sont universels parce qu'ils découlent d'une humanité commune, non des privilèges d'un ordre ou d'une naissance : c'est l'arme contre l'absolutisme et la société d'ordres, que la Déclaration de 1789 gravera dans le droit, « <q>les hommes naissent et demeurent libres et égaux en droits</q> ». <ph id='bentham'>Bentham</ph>, de l'intérieur du siècle, objectera pourtant qu'un droit sans loi positive n'est qu'un « non-sens sur échasses ».",
+          "en": "Prior to all society and all positive law, man possesses as his own, by the mere fact of his rational nature, rights that no power has conferred and that none may legitimately abolish: to life, to liberty, to the property of his own person. <ph id='locke'>Locke</ph> makes them the measure of every government, instituted only to secure them. These rights are universal because they flow from a common humanity, not from the privileges of an order or a birth: this is the weapon against absolutism and the society of estates, which the Declaration of 1789 will inscribe into law, « <q>men are born and remain free and equal in rights</q> ». <ph id='bentham'>Bentham</ph>, from within the century, will nonetheless object that a right without positive law is mere « nonsense upon stilts »."
+        },
+        "quote": {
+          "text": {
+            "fr": "Étant tous égaux et indépendants, nul ne doit nuire à un autre dans sa vie, sa santé, sa liberté ou ses biens.",
+            "en": "Being all equal and independent, no one ought to harm another in his life, health, liberty, or possessions."
+          },
+          "source": {
+            "fr": "Locke, Second traité du gouvernement, §6",
+            "en": "Locke, Second Treatise of Government, §6"
+          }
+        },
+        "references": [
+          { "fr": "Locke, Deux traités du gouvernement, II", "en": "Locke, Two Treatises of Government, II" },
+          { "fr": "Déclaration des droits de l'homme et du citoyen (1789)", "en": "Declaration of the Rights of Man and of the Citizen (1789)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.7, 0.15, 0.15] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si la raison est une et partout la même, alors les principes du juste valent universellement, et non par décret divin ou coutume locale. La morale se sécularise : elle ne dépend plus d'une révélation mais se fonde sur la raison ou sur des sentiments communs à tous les hommes, ce qui permet de juger les mœurs établies au lieu de s'y soumettre. <ph id='kant'>Kant</ph> en donnera la forme la plus rigoureuse, une loi morale valable pour tout être raisonnable. Le courant porte cependant sa limite en lui : l'attention de <ph id='montesquieu'>Montesquieu</ph> à la diversité des lois selon les climats et les peuples ouvre la voie au relativisme qui contestera bientôt cet universalisme.",
+          "en": "If reason is one and everywhere the same, then the principles of justice hold universally, and not by divine decree or local custom. Morality is secularized: it no longer depends on a revelation but rests on reason or on sentiments common to all men, which makes it possible to judge established mores rather than submit to them. <ph id='kant'>Kant</ph> will give it its most rigorous form, a moral law valid for every rational being. Yet the current carries its own limit within it: <ph id='montesquieu'>Montesquieu</ph>'s attention to the diversity of laws according to climate and people opens the way to the relativism that will soon contest this universalism."
+        },
+        "references": [
+          { "fr": "Kant, Fondements de la métaphysique des mœurs", "en": "Kant, Groundwork of the Metaphysics of Morals" },
+          { "fr": "Montesquieu, De l'esprit des lois, livre I", "en": "Montesquieu, The Spirit of the Laws, book I" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SOCIAL_CONTRACT",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.8 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La société politique n'est pas un ordre naturel ou voulu de Dieu, mais une institution humaine née de l'accord des individus : sa seule source de légitimité est le consentement des gouvernés, non la force ni la tradition ni le droit divin des rois. <ph id='locke'>Locke</ph> en fait un pacte révocable, que le peuple peut dénoncer si le pouvoir trahit sa fin ; <ph id='rousseau'>Rousseau</ph> en cherche la forme où, s'associant à tous, chacun « n'obéisse pourtant qu'à lui-même » et reste libre. Contre cette fiction fondatrice, <ph id='burke'>Burke</ph> opposera la communauté organique, héritée et non contractée : mais c'est le contractualisme qui fournit à l'âge des révolutions sa grammaire de la légitimité.",
+          "en": "Political society is not a natural order or one willed by God, but a human institution born of the agreement of individuals: its sole source of legitimacy is the consent of the governed, not force, tradition or the divine right of kings. <ph id='locke'>Locke</ph> makes it a revocable pact that the people may renounce if power betrays its end; <ph id='rousseau'>Rousseau</ph> seeks the form in which, uniting with all, each « still obeys only himself » and remains free. Against this founding fiction <ph id='burke'>Burke</ph> will set the organic community, inherited rather than contracted: but it is contractualism that gives the age of revolutions its grammar of legitimacy."
+        },
+        "quote": {
+          "text": {
+            "fr": "L'homme est né libre, et partout il est dans les fers.",
+            "en": "Man is born free, and everywhere he is in chains."
+          },
+          "source": {
+            "fr": "Rousseau, Du contrat social (1762), I, 1",
+            "en": "Rousseau, The Social Contract (1762), I, 1"
+          }
+        },
+        "references": [
+          { "fr": "Rousseau, Du contrat social", "en": "Rousseau, The Social Contract" },
+          { "fr": "Locke, Deux traités du gouvernement, II", "en": "Locke, Two Treatises of Government, II" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "AUTHORITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Contre l'absolutisme de droit divin, les Lumières ne prônent pas l'absence de pouvoir mais sa limitation par le droit. <ph id='montesquieu'>Montesquieu</ph> en donne le ressort : pour que « le pouvoir arrête le pouvoir », il faut séparer et équilibrer le législatif, l'exécutif et le judiciaire. La liberté n'est pas l'affranchissement de toute autorité mais la sûreté que procurent de bonnes lois. Le siècle reste pourtant traversé d'une tension : de <ph id='voltaire'>Voltaire</ph> à <ph id='diderot'>Diderot</ph>, plusieurs philosophes attendent aussi les réformes d'un despote éclairé, sans toujours la garantie constitutionnelle.",
+          "en": "Against divine-right absolutism, the Enlightenment advocates not the absence of power but its limitation by law. <ph id='montesquieu'>Montesquieu</ph> supplies the mechanism: for « power to check power », the legislative, executive and judicial must be separated and balanced. Liberty is not release from all authority but the security afforded by good laws. The century is nonetheless crossed by a tension: from <ph id='voltaire'>Voltaire</ph> to <ph id='diderot'>Diderot</ph>, several philosophes also look to the reforms of an enlightened despot, not always with a constitutional guarantee."
+        },
+        "references": [
+          { "fr": "Montesquieu, De l'esprit des lois, livre XI", "en": "Montesquieu, The Spirit of the Laws, book XI" },
+          { "fr": "Voltaire, Lettres philosophiques", "en": "Voltaire, Philosophical Letters" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "INDIVIDUAL_SOCIETY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.4 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La société se pense à partir de l'individu, et non l'inverse : c'est l'individu, sujet de droits et de raison, qui est premier, et les institutions n'existent que pour servir ses fins. Cet individualisme, prolongé par l'économie naissante de <ph id='adam-smith'>Smith</ph>, sous-tend la critique des corps, des ordres et des corporations qui enserrent la personne. <ph id='rousseau'>Rousseau</ph> fait ici exception en subordonnant l'individu à la <c id='volonte-generale'>volonté générale</c>, signe que le courant n'est pas monolithique.",
+          "en": "Society is thought from the individual, not the reverse: it is the individual, subject of rights and reason, who comes first, and institutions exist only to serve his ends. This individualism, extended by the nascent economics of <ph id='adam-smith'>Smith</ph>, underlies the critique of the bodies, estates and corporations that hem the person in. <ph id='rousseau'>Rousseau</ph> is the exception here, subordinating the individual to the <c id='volonte-generale'>general will</c>, a sign that the current is not monolithic."
+        },
+        "references": [
+          { "fr": "Locke, Deux traités du gouvernement", "en": "Locke, Two Treatises of Government" },
+          { "fr": "Adam Smith, Recherches sur la nature et les causes de la richesse des nations", "en": "Adam Smith, An Inquiry into the Nature and Causes of the Wealth of Nations" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "BELONGING",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.6 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Citoyen du monde avant que de sa cité, l'homme des Lumières revendique une appartenance qui déborde les frontières et les confessions. La raison et l'humanité étant communes, les particularismes nationaux et religieux pèsent moins que ce qui unit le genre humain. <ph id='kant'>Kant</ph> en tire un projet de droit cosmopolitique et de « paix perpétuelle » entre les nations ; la République des Lettres en offre déjà la figure vécue, communauté savante sans patrie. Ce cosmopolitisme nourrit la critique de la guerre, de l'esclavage et du fanatisme.",
+          "en": "A citizen of the world before being a citizen of his city, the man of the Enlightenment claims a belonging that overflows borders and confessions. Reason and humanity being common to all, national and religious particularisms weigh less than what unites the human race. <ph id='kant'>Kant</ph> draws from this a project of cosmopolitan right and « perpetual peace » among nations; the Republic of Letters already offers its lived figure, a learned community without a homeland. This cosmopolitanism nourishes the critique of war, slavery and fanaticism."
+        },
+        "references": [
+          { "fr": "Kant, Vers la paix perpétuelle", "en": "Kant, Toward Perpetual Peace" },
+          { "fr": "Voltaire, Dictionnaire philosophique, art. « Patrie »", "en": "Voltaire, Philosophical Dictionary, art. \"Fatherland\"" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "PUNISHMENT",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.05, 0.5, 0.35, 0.1] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "<ph id='beccaria'>Beccaria</ph> fait basculer la pénalité du registre de l'expiation à celui de l'utilité sociale : la peine ne doit pas venger le crime ni satisfaire une justice rétributive, mais le prévenir. De là découlent ses réformes, l'abolition de la torture et de la peine de mort, la proportion des peines aux délits, la certitude plutôt que la cruauté du châtiment, la prévention par l'éducation et de bonnes lois. La punition se mesure à ses effets sur le corps social, non au mal moral commis : programme réformateur que reprendra l'utilitarisme.",
+          "en": "<ph id='beccaria'>Beccaria</ph> shifts punishment from the register of expiation to that of social utility: the penalty should not avenge the crime or satisfy a retributive justice, but prevent it. From this flow his reforms, the abolition of torture and the death penalty, the proportion of penalties to offences, the certainty rather than the cruelty of punishment, and prevention through education and good laws. Punishment is measured by its effects on the social body, not by the moral evil committed: a reforming programme that utilitarianism will take up."
+        },
+        "references": [
+          { "fr": "Beccaria, Des délits et des peines (1764)", "en": "Beccaria, On Crimes and Punishments (1764)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "POLITICAL_LIBERTY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.45, 0.2, 0.3, 0.05] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La liberté politique du siècle se décline en plusieurs voix. Pour le versant libéral issu de <ph id='locke'>Locke</ph>, elle est d'abord négative : une sphère de sûreté et de propriété où l'individu n'est pas entravé. Pour <ph id='montesquieu'>Montesquieu</ph>, elle est non-domination, « le droit de faire tout ce que les lois permettent », garanti contre l'arbitraire par la <c id='separation-des-pouvoirs'>séparation des pouvoirs</c>. <ph id='rousseau'>Rousseau</ph> en propose la version positive, l'autonomie d'un peuple qui se donne ses propres lois. Ces accents distincts, parfois rivaux, partagent le refus de la sujétion arbitraire.",
+          "en": "The political liberty of the century comes in several voices. For the liberal strand descended from <ph id='locke'>Locke</ph>, it is first of all negative: a sphere of security and property in which the individual is unhindered. For <ph id='montesquieu'>Montesquieu</ph>, it is non-domination, « the right to do everything the laws permit », secured against arbitrariness by the <c id='separation-des-pouvoirs'>separation of powers</c>. <ph id='rousseau'>Rousseau</ph> proposes its positive version, the autonomy of a people that gives itself its own laws. These distinct, sometimes rival accents share the refusal of arbitrary subjection."
+        },
+        "references": [
+          { "fr": "Montesquieu, De l'esprit des lois, XI, 3-6", "en": "Montesquieu, The Spirit of the Laws, XI, 3-6" },
+          { "fr": "Rousseau, Du contrat social, livre I", "en": "Rousseau, The Social Contract, book I" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HUMAN_VISION",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.25 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Contre le dogme du péché originel, qui fait de l'homme une créature corrompue à racheter, les Lumières parient sur sa <c id='perfectibilite'>perfectibilité</c> : ses vices tiennent moins à sa nature qu'à de mauvaises institutions et à l'ignorance. Si l'esprit est une <c id='tabula-rasa'>table rase</c>, alors l'éducation peut presque tout, soutient <ph id='helvetius'>Helvétius</ph> : changez les lois, les lumières et les mœurs, et vous changez les hommes. <ph id='rousseau'>Rousseau</ph> radicalise le pari, l'homme étant naturellement bon et perverti par la société, tandis que <ph id='voltaire'>Voltaire</ph>, plus sombre, en garde la mesure. De là un optimisme tempéré, fondé non sur ce que l'homme est, mais sur ce qu'il peut devenir.",
+          "en": "Against the dogma of original sin, which makes man a corrupt creature to be redeemed, the Enlightenment wagers on his <c id='perfectibilite'>perfectibility</c>: his vices owe less to his nature than to bad institutions and to ignorance. If the mind is a <c id='tabula-rasa'>blank slate</c>, then education can do almost everything, holds <ph id='helvetius'>Helvétius</ph>: change the laws, the enlightenment and the mores, and you change men. <ph id='rousseau'>Rousseau</ph> radicalizes the wager, man being naturally good and corrupted by society, while <ph id='voltaire'>Voltaire</ph>, more sombre, keeps it within measure. Hence a tempered optimism, founded not on what man is but on what he can become."
+        },
+        "references": [
+          { "fr": "Helvétius, De l'esprit", "en": "Helvétius, On the Mind" },
+          { "fr": "Rousseau, Discours sur l'origine de l'inégalité", "en": "Rousseau, Discourse on the Origin of Inequality" },
+          { "fr": "Locke, Quelques pensées sur l'éducation", "en": "Locke, Some Thoughts Concerning Education" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TECHNOLOGY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.6 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'<w>Encyclopédie</w> accomplit un geste inédit : faire entrer les arts mécaniques, les métiers et les machines dans le savoir, à égale dignité avec les sciences. La technique n'y est pas une simple commodité mais un vecteur d'émancipation, qui arrache l'homme à la misère et au besoin et étend son empire sur la nature. Héritières du programme de <ph id='bacon'>Bacon</ph>, les Lumières lient le progrès des arts au progrès des lumières : maîtriser la nature et instruire les hommes vont de pair.",
+          "en": "The <w>Encyclopédie</w> performs an unprecedented gesture: bringing the mechanical arts, the trades and the machines into knowledge, on an equal footing with the sciences. Technology is here no mere convenience but a vehicle of emancipation, which lifts man out of misery and need and extends his dominion over nature. Heirs to <ph id='bacon'>Bacon</ph>'s programme, the Enlightenment ties the progress of the arts to the progress of enlightenment: mastering nature and instructing men go together."
+        },
+        "references": [
+          { "fr": "Diderot et d'Alembert, Encyclopédie, art. « Art »", "en": "Diderot and d'Alembert, Encyclopédie, art. \"Art\"" },
+          { "fr": "Bacon, Novum Organum", "en": "Bacon, Novum Organum" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HUMAN_PLACE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.75, 0.1, 0.15] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Dans le sillage de <ph id='bacon'>Bacon</ph> et de <ph id='descartes'>Descartes</ph>, le courant tient la nature pour un champ à connaître afin de la maîtriser et de la mettre au service de l'homme : savoir, c'est pouvoir, et le progrès des sciences vaut par les maux qu'il soulage. Cet anthropocentrisme conquérant n'est pourtant pas sans contrepoint : <ph id='rousseau'>Rousseau</ph> conteste déjà l'idée que les arts et la domestication du monde nous aient rendus meilleurs, amorçant une critique qui ne mûrira que plus tard.",
+          "en": "In the wake of <ph id='bacon'>Bacon</ph> and <ph id='descartes'>Descartes</ph>, the current treats nature as a field to be known in order to master it and put it at the service of man: knowledge is power, and the progress of the sciences is worth the ills it relieves. Yet this conquering anthropocentrism is not without counterpoint: <ph id='rousseau'>Rousseau</ph> already contests the idea that the arts and the domestication of the world have made us better, opening a critique that will only ripen later."
+        },
+        "references": [
+          { "fr": "Bacon, Novum Organum, livre I", "en": "Bacon, Novum Organum, book I" },
+          { "fr": "Buffon, Histoire naturelle", "en": "Buffon, Natural History" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CAUSALITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.55, 0.2, 0.25] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'univers newtonien se prête à une lecture mécaniste : un système de corps en mouvement réglé par des lois, sans fins ni âmes. <ph id='la-mettrie'>La Mettrie</ph> en tire la conséquence extrême avec « l'homme-machine », et le matérialisme de <ph id='holbach'>d'Holbach</ph> ramène tout à la matière et au mouvement. Le siècle n'est pas mécaniste sans reste : <ph id='diderot'>Diderot</ph> et les naturalistes prêtent à la matière une sensibilité et une activité propres, esquisse d'un vitalisme, tandis qu'un finalisme déiste persiste, qui lit dans l'ordre du monde la marque d'un grand horloger.",
+          "en": "The Newtonian universe lends itself to a mechanist reading: a system of bodies in motion governed by laws, without ends or souls. <ph id='la-mettrie'>La Mettrie</ph> draws the extreme consequence with « man a machine », and the materialism of <ph id='holbach'>d'Holbach</ph> reduces everything to matter and motion. The century is not mechanist without remainder: <ph id='diderot'>Diderot</ph> and the naturalists grant matter a sensibility and activity of its own, the sketch of a vitalism, while a deist finalism persists that reads in the order of the world the mark of a great clockmaker."
+        },
+        "references": [
+          { "fr": "La Mettrie, L'Homme-machine (1747)", "en": "La Mettrie, Man a Machine (1747)" },
+          { "fr": "d'Holbach, Système de la nature", "en": "d'Holbach, The System of Nature" },
+          { "fr": "Diderot, Le Rêve de d'Alembert", "en": "Diderot, D'Alembert's Dream" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "FAITH_REASON",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 0.25, 0.45, 0.3] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Sur la religion, le courant fait front commun là même où il diverge sur Dieu : la raison, non la révélation ni l'Église, est juge en dernière instance. Beaucoup tiennent la religion révélée pour incompatible avec elle, mêlée de superstition et de fanatisme : c'est l'« Infâme » que <ph id='voltaire'>Voltaire</ph> veut « écraser ». D'autres lui substituent une religion naturelle, ou <c id='deisme'>déisme</c>, accordée à la raison : un Dieu horloger sans miracles ni clergé. De ce primat découle l'exigence majeure de <c id='tolerance'>tolérance</c>, et la séparation du civil et du religieux : <ph id='locke'>Locke</ph> montre que nul ne peut être contraint de croire, et que le salut ne regarde pas l'État.",
+          "en": "On religion the current makes common front even where it diverges about God: reason, not revelation or the Church, is judge in the last instance. Many hold revealed religion to be incompatible with it, mixed with superstition and fanaticism: it is the « Infamous Thing » that <ph id='voltaire'>Voltaire</ph> would « crush ». Others substitute for it a natural religion, or <c id='deisme'>deism</c>, attuned to reason: a clockmaker God without miracles or clergy. From this primacy follow the cardinal demand of <c id='tolerance'>tolerance</c> and the separation of the civil from the religious: <ph id='locke'>Locke</ph> shows that no one can be compelled to believe, and that salvation is no concern of the State."
+        },
+        "references": [
+          { "fr": "Voltaire, Traité sur la tolérance", "en": "Voltaire, Treatise on Tolerance" },
+          { "fr": "Locke, Lettre sur la tolérance", "en": "Locke, A Letter Concerning Toleration" }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "SCIENCE_PLACE",
+      "thesis": {
+        "fr": "Aucune autorité, tradition, coutume ou révélation n'échappe à l'examen : tout doit comparaître devant le tribunal de la raison et y justifier ses titres.",
+        "en": "No authority, tradition, custom or revelation escapes examination: everything must appear before the tribunal of reason and there justify its claims."
+      }
+    },
+    {
+      "axisId": "CONSERVATISM_PROGRESSISM",
+      "thesis": {
+        "fr": "L'humanité progresse : par les lumières et de bonnes institutions, elle s'arrache à l'ignorance et à la servitude, et ce progrès n'a pas de terme assignable.",
+        "en": "Humanity progresses: through enlightenment and good institutions it tears itself from ignorance and servitude, and that progress has no assignable limit."
+      }
+    },
+    {
+      "axisId": "RIGHTS_NATURE",
+      "thesis": {
+        "fr": "Tout homme possède, du seul fait de sa nature raisonnable, des droits universels et inaliénables qu'aucun pouvoir ne confère et que nul ne peut légitimement abolir.",
+        "en": "Every human being possesses, by the mere fact of his rational nature, universal and inalienable rights that no power confers and that none may legitimately abolish."
+      }
+    },
+    {
+      "axisId": "SOCIAL_CONTRACT",
+      "thesis": {
+        "fr": "La seule source légitime du pouvoir est le consentement des gouvernés, non la force, la tradition ni le droit divin des rois.",
+        "en": "The only legitimate source of power is the consent of the governed, not force, tradition or the divine right of kings."
+      }
+    },
+    {
+      "axisId": "HUMAN_VISION",
+      "thesis": {
+        "fr": "L'homme n'est pas corrompu par nature mais perfectible : ses vices tiennent à l'ignorance et à de mauvaises institutions, et l'éducation peut le refaire.",
+        "en": "Man is not corrupt by nature but perfectible: his vices stem from ignorance and bad institutions, and education can remake him."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-25T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

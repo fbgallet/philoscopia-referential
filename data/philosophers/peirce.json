@@ -1,0 +1,435 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "peirce",
+  "name": {
+    "fr": "Charles Sanders Peirce",
+    "en": "Charles Sanders Peirce"
+  },
+  "fullName": {
+    "fr": "Charles Sanders Peirce",
+    "en": "Charles Sanders Peirce"
+  },
+  "tagline": {
+    "fr": "Le sens d'une idée tient dans ses <c id='pragmatic-maxim'>effets pratiques concevables</c> ; le vrai est ce sur quoi l'enquête est destinée à s'accorder.",
+    "en": "An idea's meaning lies in its <c id='pragmatic-maxim'>conceivable practical effects</c>; the true is what inquiry is fated to agree upon."
+  },
+  "summary": {
+    "fr": "Logicien, savant et philosophe américain, fondateur du <mv id='pragmatism'>pragmatisme</mv> et de la <c id='semiotics'>sémiotique</c> moderne. Formé aux sciences exactes, géodésien au service de l'État pendant trente ans, il publie en 1877-1878 dans le Popular Science Monthly la série des Illustrations de la logique de la science, dont <w id='the-fixation-of-belief-peirce'>La fixation de la croyance</w> et <w id='how-to-make-our-ideas-clear-peirce'>Comment rendre nos idées claires</w> posent la <c id='pragmatic-maxim'>maxime pragmatique</c>. C'est <ph id='william-james'>William James</ph> qui, en la reprenant, popularise le mot « pragmatisme » ; jugeant l'usage de James trop subjectif, Peirce rebaptise sa propre doctrine « <kw>pragmaticisme</kw> », mot « assez laid pour être à l'abri des ravisseurs ». Tenu à l'écart de l'université, il meurt dans la misère, laissant une œuvre immense et dispersée, redécouverte au XXe siècle, qui irrigue <ph id='dewey'>Dewey</ph>, la logique et la philosophie du langage.",
+    "en": "American logician, scientist and philosopher, founder of <mv id='pragmatism'>pragmatism</mv> and of modern <c id='semiotics'>semiotics</c>. Trained in the exact sciences, a geodesist in state service for thirty years, in 1877-1878 he published in the Popular Science Monthly the series Illustrations of the Logic of Science, of which <w id='the-fixation-of-belief-peirce'>The Fixation of Belief</w> and <w id='how-to-make-our-ideas-clear-peirce'>How to Make Our Ideas Clear</w> lay down the <c id='pragmatic-maxim'>pragmatic maxim</c>. It was <ph id='william-james'>William James</ph> who, taking it up, popularised the word « pragmatism »; judging James's use too subjective, Peirce renamed his own doctrine « pragmaticism », a word « ugly enough to be safe from kidnappers ». Kept out of academia, he died in poverty, leaving an immense, scattered body of work, rediscovered in the twentieth century, that feeds <ph id='dewey'>Dewey</ph>, logic and the philosophy of language."
+  },
+  "birth": 1839,
+  "death": 1914,
+  "nationality": {
+    "fr": "Américain",
+    "en": "American"
+  },
+  "movements": [
+    "pragmatism"
+  ],
+  "entries": [
+    {
+      "axisId": "MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.15, 0.85, 0]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Tout le pragmatisme naît d'une règle sur le sens : pour rendre claire une conception, demande quels <c id='pragmatic-maxim'>effets pratiques concevables</c> aurait son objet, car le sens ne réside nulle part ailleurs que dans ces effets. Dire qu'un diamant est dur, c'est dire qu'il résisterait à la rayure ; une idée dont on ne saurait dériver aucune différence d'expérience concevable n'a tout simplement pas de sens. Le geste rompt avec le <c>référentialisme</c> qui loge le sens dans l'objet nommé : Peirce le place dans la conduite réglée, l'habitude d'action que l'idée engage, ce qui le rapproche d'une théorie du sens comme usage, tout en gardant un ancrage expérimental qui le sépare d'un <ph>Wittgenstein</ph>. C'est une arme contre la métaphysique verbale, ces <pb>disputes où l'on croit penser sans qu'aucune différence pratique ne soit en jeu</pb>.",
+          "en": "The whole of pragmatism is born of a rule about meaning: to make a conception clear, ask what <c id='pragmatic-maxim'>conceivable practical effects</c> its object would have, for meaning resides nowhere but in those effects. To say a diamond is hard is to say it would resist being scratched; an idea from which no conceivable difference of experience could be drawn simply has no meaning. The move breaks with the <c>referentialism</c> that lodges meaning in the named object: Peirce places it in regulated conduct, the habit of action the idea engages, which brings him close to a theory of meaning as use, while keeping an experimental anchorage that sets him apart from a <ph>Wittgenstein</ph>. It is a weapon against verbal metaphysics, those <pb>disputes where one believes oneself to be thinking though no practical difference is at stake</pb>."
+        },
+        "quote": {
+          "text": {
+            "fr": "Considère quels effets, qui pourraient avoir une portée pratique concevable, nous concevons qu'a l'objet de notre conception. Alors notre conception de ces effets est le tout de notre conception de l'objet.",
+            "en": "Consider what effects, that might conceivably have practical bearings, we conceive the object of our conception to have. Then, our conception of these effects is the whole of our conception of the object."
+          },
+          "source": {
+            "fr": "Comment rendre nos idées claires (1878)",
+            "en": "How to Make Our Ideas Clear (1878)"
+          }
+        },
+        "references": [
+          {
+            "fr": "Comment rendre nos idées claires (1878)",
+            "en": "How to Make Our Ideas Clear (1878)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRUTH_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.2, 0, 0.8]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Peirce définit le vrai par le terme idéal de l'enquête, non par sa réussite immédiate : l'opinion vraie est celle sur laquelle tous ceux qui enquêtent sont destinés à finir par s'accorder, et l'objet de cette opinion finale est le réel. La vérité n'est donc ni une copie figée des choses, ni la simple cohérence d'un système, mais le point de convergence vers lequel une <c id='community-of-inquiry'>communauté d'enquêteurs</c> tend à long terme, pourvu qu'elle pousse la recherche assez loin. Cette définition, qui fait de lui une figure du pôle pragmatiste, garde pourtant un noyau réaliste qui l'éloigne de <ph id='william-james'>James</ph> : le vrai n'est pas « ce qui me réussit » ni ce qu'il m'est utile de croire, mais ce que l'enquête, contrainte par un réel indépendant de nos désirs, est fatalement amenée à reconnaître. L'utilité de l'individu n'y entre pour rien.",
+          "en": "Peirce defines the true by the ideal limit of inquiry, not by its immediate success: the true opinion is the one all who inquire are fated to come to agree upon in the end, and the object of that final opinion is the real. Truth is thus neither a frozen copy of things nor the mere coherence of a system, but the point of convergence toward which a <c id='community-of-inquiry'>community of inquirers</c> tends in the long run, provided it carries the inquiry far enough. This definition, which makes him a figure of the pragmatist pole, nonetheless keeps a realist core that sets him apart from <ph id='william-james'>James</ph>: the true is not « what works for me » nor what it is useful for me to believe, but what inquiry, constrained by a real independent of our desires, is fatally led to acknowledge. The individual's utility has no part in it."
+        },
+        "quote": {
+          "text": {
+            "fr": "L'opinion destinée à recevoir à la fin l'accord de tous ceux qui enquêtent, voilà ce que nous entendons par le vrai, et l'objet représenté dans cette opinion est le réel.",
+            "en": "The opinion which is fated to be ultimately agreed to by all who investigate, is what we mean by the truth, and the object represented in this opinion is the real."
+          },
+          "source": {
+            "fr": "Comment rendre nos idées claires (1878)",
+            "en": "How to Make Our Ideas Clear (1878)"
+          }
+        },
+        "references": [
+          {
+            "fr": "Comment rendre nos idées claires (1878)",
+            "en": "How to Make Our Ideas Clear (1878)"
+          },
+          {
+            "fr": "La fixation de la croyance (1877)",
+            "en": "The Fixation of Belief (1877)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.1
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Contre le besoin cartésien de fondations indubitables, Peirce érige la faillibilité en principe : nous ne pouvons jamais atteindre une certitude absolue ni une exactitude parfaite sur rien. Mais loin de verser dans le <c id='skepticism'>scepticisme</c>, il en tire la force de la science, qui n'avance qu'en se sachant corrigible : une croyance vaut non d'être à l'abri du <dif>doute</dif>, mais d'appartenir à un processus capable de repérer et de réparer ses propres erreurs. Le <c id='fallibilism'>faillibilisme</c> n'est pas une concession arrachée au sceptique, c'est le moteur même de l'enquête, qui ferait défaut à qui se croirait déjà arrivé. D'où une position médiane assumée, légèrement inclinée vers l'aveu sceptique de l'incertitude, mais sans renoncer au savoir.",
+          "en": "Against the Cartesian craving for indubitable foundations, Peirce erects fallibility into a principle: we can never reach absolute certainty nor perfect exactitude about anything. Yet far from sliding into <c id='skepticism'>skepticism</c>, he draws from it the strength of science, which advances only by knowing itself correctable: a belief is worth holding not because it is safe from <dif>doubt</dif>, but because it belongs to a process able to detect and repair its own errors. <c id='fallibilism'>Fallibilism</c> is not a concession wrung from the skeptic, it is the very engine of inquiry, which would be missing in anyone who believed himself already arrived. Hence an assumed middle position, leaning slightly toward the skeptical avowal of uncertainty, yet without renouncing knowledge."
+        },
+        "references": [
+          {
+            "fr": "Collected Papers, I, 8-14 (Faillibilisme)",
+            "en": "Collected Papers, I, 8-14 (Fallibilism)"
+          },
+          {
+            "fr": "La fixation de la croyance (1877)",
+            "en": "The Fixation of Belief (1877)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "EPISTEMIC_JUSTIFICATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0, 0.6, 0.4]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Peirce attaque de front le <c id='hyperbolic-doubt'>doute hyperbolique</c> de <ph id='descartes'>Descartes</ph> : on ne peut pas douter à volonté ni feindre un doute qu'on n'a pas, le doute réel naît d'une surprise, d'un heurt de l'expérience, jamais d'une décision. Il refuse aussi l'<c>intuition</c>, cette prétendue connaissance première qui ne dériverait d'aucune autre : toute pensée est inférence à partir de pensées antérieures, signe renvoyant à d'autres signes. Du coup, la justification ne repose sur aucune croyance de base indubitable, mais sur la tenue de l'ensemble : le savoir est un câble dont la solidité vient de la multitude des fibres entrelacées, non une chaîne aussi faible que son maillon le plus fragile. Cette pente <c>cohérentiste</c> se double d'un trait fiabiliste, car ce qui valide une croyance est aussi la fiabilité éprouvée de la méthode qui l'a produite.",
+          "en": "Peirce attacks head-on <ph id='descartes'>Descartes</ph>'s <c id='hyperbolic-doubt'>hyperbolic doubt</c>: one cannot doubt at will nor feign a doubt one does not have, real doubt is born of a surprise, a jolt of experience, never of a decision. He likewise rejects <c>intuition</c>, that supposed first cognition deriving from no other: all thought is inference from prior thoughts, sign referring to other signs. As a result, justification rests on no indubitable basic belief, but on the holding of the whole: knowledge is a cable whose strength comes from the multitude of intertwined fibres, not a chain as weak as its frailest link. This <c>coherentist</c> bent is doubled by a reliabilist strand, since what validates a belief is also the tested reliability of the method that produced it."
+        },
+        "quote": {
+          "text": {
+            "fr": "Le raisonnement ne devrait pas former une chaîne, plus faible que son maillon le plus faible, mais un câble dont les fibres, si ténues soient-elles, sont nombreuses et intimement liées.",
+            "en": "Reasoning should not form a chain which is no stronger than its weakest link, but a cable whose fibers may be ever so slender, provided they are sufficiently numerous and intimately connected."
+          },
+          "source": {
+            "fr": "Quelques conséquences de quatre incapacités (1868)",
+            "en": "Some Consequences of Four Incapacities (1868)"
+          }
+        },
+        "references": [
+          {
+            "fr": "Questions concernant certaines facultés revendiquées pour l'homme (1868)",
+            "en": "Questions Concerning Certain Faculties Claimed for Man (1868)"
+          },
+          {
+            "fr": "Quelques conséquences de quatre incapacités (1868)",
+            "en": "Some Consequences of Four Incapacities (1868)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SCIENTIFIC_METHOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.7, 0, 0.3]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Aucun des trois pôles ne capte exactement Peirce, qui a précisément ajouté une pièce manquante : l'<c id='abduction'>abduction</c>, l'inférence qui invente l'hypothèse, en amont de la déduction qui en tire les conséquences et de l'<c id='induction'>induction</c> qui les met à l'épreuve. La science est pour lui ce cycle complet, non l'un de ses moments. On le range malgré tout du côté de l'inductivisme, car il reste un expérimentateur qui fonde tout sur l'épreuve des faits et fait de l'induction le test décisif ; mais il prétend en désamorcer le défaut, <dif>dénoncé par <ph id='hume'>Hume</ph></dif>, en faisant valoir qu'une induction répétée se corrige elle-même à la longue. Sa formation de statisticien lui donne aussi un versant probabiliste, attentif aux fréquences et à l'erreur, qui annonce le bayésianisme sans s'y réduire. Ce qui fait la science n'est pas une règle d'inférence unique mais l'autocorrection sur le long terme d'une <c id='community-of-inquiry'>communauté</c> réglée sur le réel.",
+          "en": "None of the three poles captures Peirce exactly, for he added precisely the missing piece: <c id='abduction'>abduction</c>, the inference that invents the hypothesis, upstream of the deduction that draws out its consequences and the <c id='induction'>induction</c> that tests them. Science for him is this complete cycle, not one of its moments. He is nonetheless ranged on the inductivist side, since he remains an experimenter who grounds everything on the test of facts and makes induction the decisive trial; but he claims to defuse the flaw <dif><ph id='hume'>Hume</ph> denounced</dif> by holding that repeated induction corrects itself in the long run. His training as a statistician also gives him a probabilist strand, attentive to frequencies and to error, that foreshadows Bayesianism without reducing to it. What makes science is not a single rule of inference but the long-run self-correction of a <c id='community-of-inquiry'>community</c> accountable to the real."
+        },
+        "references": [
+          {
+            "fr": "La fixation de la croyance (1877)",
+            "en": "The Fixation of Belief (1877)"
+          },
+          {
+            "fr": "Collected Papers, V, 180-212 (sur l'abduction)",
+            "en": "Collected Papers, V, 180-212 (on abduction)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_STATUS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le réel, pour Peirce, est ce dont les caractères sont indépendants de ce que vous ou moi pouvons en penser : ma fantaisie n'y change rien, il s'impose à l'enquête. Ce <c>réalisme scientifique</c> est le pendant de sa définition de la vérité, car l'opinion finale vers laquelle l'enquête converge n'est contraignante que parce qu'un réel extérieur la force. Il s'écarte ainsi de tout <c>constructivisme</c> qui ferait du vrai une affaire de paradigme ou de consensus arbitraire : le consensus des enquêteurs n'est pas la cause de la vérité mais son symptôme, l'effet d'une réalité qui contraint tout esprit suffisamment patient à se rendre. Peirce se dit même réaliste au sens médiéval, tenant pour réelles les lois et les généralités, non les seuls individus.",
+          "en": "The real, for Peirce, is that whose characters are independent of what you or I may think of it: my fancy changes nothing in it, it forces itself upon inquiry. This <c>scientific realism</c> is the counterpart of his definition of truth, for the final opinion toward which inquiry converges is binding only because an external real compels it. He thus parts ways with any <c>constructivism</c> that would make the true a matter of paradigm or arbitrary consensus: the consensus of inquirers is not the cause of truth but its symptom, the effect of a reality that compels every sufficiently patient mind to yield. Peirce even calls himself a realist in the medieval sense, holding laws and generalities to be real, not individuals alone."
+        },
+        "references": [
+          {
+            "fr": "Comment rendre nos idées claires (1878)",
+            "en": "How to Make Our Ideas Clear (1878)"
+          },
+          {
+            "fr": "La fixation de la croyance (1877)",
+            "en": "The Fixation of Belief (1877)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Peirce est un savant pour qui toute connaissance s'éprouve à l'expérience, et le doute lui-même ne surgit que d'un heurt sensible, jamais d'une décision de l'esprit : la pente est nettement empiriste. Mais il refuse l'empirisme atomiste de la sensation pure et redonne à l'inférence, à la logique et aux généralités réelles un rôle constitutif, l'<c id='abduction'>abduction</c> introduisant des idées que nulle observation ne contient. Ni table rase ni innéisme : un empirisme tempéré par la logique, plus proche du criticisme que de <ph id='hume'>Hume</ph>.",
+          "en": "Peirce is a scientist for whom all knowledge is tested against experience, and doubt itself arises only from a sensible jolt, never from a decision of the mind: the bent is clearly empiricist. But he refuses the atomist empiricism of pure sensation and restores to inference, logic and real generalities a constitutive role, <c id='abduction'>abduction</c> introducing ideas no observation contains. Neither blank slate nor innatism: an empiricism tempered by logic, nearer to criticism than to <ph id='hume'>Hume</ph>."
+        },
+        "references": [
+          {
+            "fr": "Quelques conséquences de quatre incapacités (1868)",
+            "en": "Some Consequences of Four Incapacities (1868)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SCIENCE_PLACE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.2
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La <w id='the-fixation-of-belief-peirce'>fixation de la croyance</w> oppose quatre méthodes, ténacité, autorité, goût a priori, science, et ne retient que la dernière : seule la méthode scientifique soumet nos opinions à quelque chose d'extérieur capable de nous contredire, donc de nous corriger. Cette confiance dans la méthode rapproche Peirce d'un certain scientisme. Mais son faillibilisme et son refus de toute clôture le tiennent à distance d'un Comte : la science n'a pas réponse à tout d'un coup, elle est une marche indéfinie d'une communauté qui se sait corrigible, plus proche d'un rationalisme critique que d'un savoir souverain.",
+          "en": "<w id='the-fixation-of-belief-peirce'>The Fixation of Belief</w> sets four methods against one another, tenacity, authority, the a priori taste, science, and keeps only the last: only the scientific method submits our opinions to something external capable of contradicting, and so of correcting, us. This trust in method brings Peirce close to a certain scientism. But his fallibilism and his refusal of all closure hold him at a distance from a Comte: science has no ready answer to everything, it is the indefinite march of a community that knows itself correctable, nearer to a critical rationalism than to a sovereign knowledge."
+        },
+        "references": [
+          {
+            "fr": "La fixation de la croyance (1877)",
+            "en": "The Fixation of Belief (1877)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0, 0.2, 0.2, 0.6]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "De son refus de l'<c>intuition</c> Peirce tire une conséquence radicale sur le moi : il n'y a pas de conscience de soi immédiate, le moi est une inférence tardive, que l'enfant construit pour rendre compte de ses erreurs et de l'ignorance que les autres lui révèlent. Surtout, puisque toute pensée est signe, l'homme lui-même est un signe : ce que je suis se déploie dans le tissu sémiotique de mes pensées renvoyant à d'autres pensées, sans noyau substantiel sous le flux. On est loin de la <c>chose pensante</c> de <ph id='descartes'>Descartes</ph> ; la position penche vers le faisceau, mais un faisceau réinterprété en termes de signes plutôt que de pures perceptions.",
+          "en": "From his rejection of <c>intuition</c> Peirce draws a radical consequence about the self: there is no immediate self-consciousness, the self is a late inference, which the child constructs to account for its errors and the ignorance others reveal to it. Above all, since all thought is sign, man himself is a sign: what I am unfolds in the semiotic fabric of my thoughts referring to other thoughts, with no substantial core beneath the flux. We are far from <ph id='descartes'>Descartes</ph>'s <c>thinking thing</c>; the position leans toward the bundle, but a bundle reinterpreted in terms of signs rather than pure perceptions."
+        },
+        "quote": {
+          "text": {
+            "fr": "Le mot ou le signe que l'homme emploie est l'homme lui-même.",
+            "en": "The word or sign which man uses is the man himself."
+          },
+          "source": {
+            "fr": "Quelques conséquences de quatre incapacités (1868)",
+            "en": "Some Consequences of Four Incapacities (1868)"
+          }
+        },
+        "references": [
+          {
+            "fr": "Quelques conséquences de quatre incapacités (1868)",
+            "en": "Some Consequences of Four Incapacities (1868)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CAUSALITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.1, 0.5, 0.4]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Contre le <c>mécanisme</c> strict qui ne voit dans la nature que des lois rigides et nécessaires, Peirce soutient le <c id='tychism'>tychisme</c> : le hasard est une réalité objective, et les lois ne sont pas données d'avance mais sont des habitudes qui se sont formées et se renforcent au cours d'une évolution. Le cosmos a une histoire, il croît, et cette croissance est orientée par une tendance, l'amour évolutif ou <kw>agapasme</kw>, qui fait pencher Peirce du côté d'une explication finaliste, tout en gardant la spontanéité créatrice qui rappelle le vitalisme. Loin de la machine cartésienne, sa nature est un organisme en devenir.",
+          "en": "Against the strict <c>mechanism</c> that sees in nature only rigid, necessary laws, Peirce upholds <c id='tychism'>tychism</c>: chance is an objective reality, and laws are not given in advance but are habits that have formed and grow firmer in the course of an evolution. The cosmos has a history, it grows, and this growth is oriented by a tendency, evolutionary love or <kw>agapasm</kw>, which tips Peirce toward a finalist kind of explanation, while keeping the creative spontaneity that recalls vitalism. Far from the Cartesian machine, his nature is an organism in the making."
+        },
+        "references": [
+          {
+            "fr": "La doctrine de la nécessité examinée (1892)",
+            "en": "The Doctrine of Necessity Examined (1892)"
+          },
+          {
+            "fr": "L'amour évolutionnaire (1893)",
+            "en": "Evolutionary Love (1893)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "REDUCTION_EMERGENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le <c id='synechism'>synéchisme</c>, principe de continuité, commande chez Peirce de refuser les coupures nettes et de tenir le continu pour premier : entre matière et esprit, entre les niveaux du réel, il y a des transitions, non des sauts. La nature évolue en formant des habitudes qui font émerger des ordres nouveaux, irréductibles à la mécanique de leurs éléments. Contre le réductionnisme atomiste, c'est une métaphysique de l'émergence et de la croissance, où le tout est plus que la somme de parties d'ailleurs jamais vraiment séparées.",
+          "en": "<c id='synechism'>Synechism</c>, the principle of continuity, commands in Peirce a refusal of sharp breaks and holds the continuous to be primary: between matter and mind, between the levels of the real, there are transitions, not jumps. Nature evolves by forming habits that bring forth new orders, irreducible to the mechanics of their elements. Against atomist reductionism, this is a metaphysics of emergence and growth, where the whole is more than the sum of parts that are, besides, never truly separate."
+        },
+        "references": [
+          {
+            "fr": "La loi de l'esprit (1892)",
+            "en": "The Law of Mind (1892)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.15, 0.85, 0]
+      },
+      "epistemicStatus": "EXTRAPOLATED",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Dans sa métaphysique tardive et spéculative, Peirce se dit <c id='objective-idealism'>idéaliste objectif</c> : la seule théorie intelligible de l'univers fait de la matière un esprit affaibli, des habitudes invétérées au point de devenir des lois physiques. Ce n'est ni le <c>matérialisme</c> qui réduit l'esprit à la matière, ni l'idéalisme subjectif de <ph id='berkeley'>Berkeley</ph> pour qui le monde n'existe que perçu : l'esprit y est premier et objectif, et la continuité (<c id='synechism'>synéchisme</c>) interdit de séparer les deux en substances. La position reste fragile, énoncée dans des textes programmatiques et inachevés, d'où un statut extrapolé.",
+          "en": "In his late, speculative metaphysics Peirce calls himself an <c id='objective-idealism'>objective idealist</c>: the one intelligible theory of the universe makes matter an effete mind, habits grown so inveterate as to become physical laws. This is neither the <c>materialism</c> that reduces mind to matter, nor <ph id='berkeley'>Berkeley</ph>'s subjective idealism for which the world exists only as perceived: mind here is primary and objective, and continuity (<c id='synechism'>synechism</c>) forbids separating the two into substances. The position stays fragile, stated in programmatic, unfinished texts, hence an extrapolated status."
+        },
+        "references": [
+          {
+            "fr": "L'architecture des théories (1891)",
+            "en": "The Architecture of Theories (1891)"
+          }
+        ],
+        "strength": "WEAK"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Dans Un argument négligé en faveur de la réalité de Dieu, Peirce soutient que la libre rêverie de l'esprit, le <kw>musement</kw>, conduit naturellement à l'hypothèse de Dieu comme à la plus belle des <c id='abduction'>abductions</c>, hypothèse féconde plutôt que dogme démontré. Le Dieu de Peirce est moins le Dieu personnel des religions qu'une réalité ordonnatrice corrélée à son cosmos en croissance, d'où un théisme réel mais retenu, sans extrême.",
+          "en": "In A Neglected Argument for the Reality of God, Peirce holds that the mind's free reverie, <kw>musement</kw>, leads naturally to the hypothesis of God as to the finest of <c id='abduction'>abductions</c>, a fruitful hypothesis rather than a demonstrated dogma. Peirce's God is less the personal God of the religions than an ordering reality correlated with his growing cosmos, hence a theism real but restrained, with no extreme."
+        },
+        "references": [
+          {
+            "fr": "Un argument négligé en faveur de la réalité de Dieu (1908)",
+            "en": "A Neglected Argument for the Reality of God (1908)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "MEANING",
+      "thesis": {
+        "fr": "Pour clarifier une idée, demande quels <c id='pragmatic-maxim'>effets pratiques concevables</c> aurait son objet : son sens tout entier tient là, et nulle part ailleurs.",
+        "en": "To clarify an idea, ask what <c id='pragmatic-maxim'>conceivable practical effects</c> its object would have: its whole meaning lies there, and nowhere else."
+      }
+    },
+    {
+      "axisId": "TRUTH_NATURE",
+      "thesis": {
+        "fr": "Le vrai est l'opinion sur laquelle la <c id='community-of-inquiry'>communauté des enquêteurs</c> est destinée à finir par s'accorder, et son objet est le réel, non ce qui me réussit.",
+        "en": "The true is the opinion the <c id='community-of-inquiry'>community of inquirers</c> is fated to come to agree upon in the end, and its object is the real, not what works for me."
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "thesis": {
+        "fr": "Nous n'atteignons jamais de certitude absolue, et c'est tant mieux : la force de la science est d'être une enquête qui se sait <c id='fallibilism'>faillible</c> et se corrige.",
+        "en": "We never reach absolute certainty, and so much the better: the strength of science is to be an inquiry that knows itself <c id='fallibilism'>fallible</c> and corrects itself."
+      }
+    },
+    {
+      "axisId": "SCIENTIFIC_METHOD",
+      "thesis": {
+        "fr": "Toute découverte commence par une <c id='abduction'>abduction</c>, le pari réglé d'une hypothèse, que la déduction déplie et que l'<c id='induction'>induction</c> met à l'épreuve.",
+        "en": "Every discovery begins with an <c id='abduction'>abduction</c>, the disciplined wager of a hypothesis, which deduction unfolds and <c id='induction'>induction</c> puts to the test."
+      }
+    },
+    {
+      "axisId": "EPISTEMIC_JUSTIFICATION",
+      "thesis": {
+        "fr": "On ne peut pas douter à volonté ni partir de zéro : il n'y a pas d'<c>intuition</c> première, toute pensée est inférence à partir d'autres pensées.",
+        "en": "One cannot doubt at will nor start from scratch: there is no first <c>intuition</c>, all thought is inference from other thoughts."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-29T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

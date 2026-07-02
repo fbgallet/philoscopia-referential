@@ -1,0 +1,147 @@
+{
+  "id": "LOVE_NATURE",
+  "relation": "OTHERS",
+  "territory": "BONDS",
+  "label": {
+    "fr": "Nature de l'amour",
+    "en": "Nature of love"
+  },
+  "question": {
+    "fr": "Qu'est-ce qui est au fond de l'amour : un manque, un don, ou autre chose ?",
+    "en": "What lies at the heart of love: a lack, a gift, or something else?"
+  },
+  "stakes": {
+    "fr": "Aimer, est-ce vouloir s'emparer de ce qui nous manque, se donner sans rien attendre, être joué par des forces qui nous dépassent, ou bâtir un lien choisi qui se cultive ? Selon la réponse, l'amour peut durer ou s'éteindre une fois comblé, et il n'attend pas de nous la même chose. Se positionner, c'est dire ce qu'on cherche vraiment quand on dit aimer.",
+    "en": "To love, is it to want to seize what we lack, to give without expecting anything, to be played by forces that surpass us, or to build a chosen bond that is cultivated? Depending on the answer, love may last or die out once fulfilled, and it does not ask the same thing of us. To take a position is to say what we are really seeking when we say we love."
+  },
+  "layer": "THEORY",
+  "type": "CATEGORICAL",
+  "poles": [
+    {
+      "id": "EROS_AS_LACK",
+      "label": {
+        "fr": "Éros-manque",
+        "en": "Eros as lack"
+      },
+      "description": {
+        "fr": "Aimer, c'est désirer ce qui nous manque : la beauté, le bien, la complétude que nous n'avons pas. L'amour est élan vers ce qui pourrait nous accomplir, et ce manque même est le moteur qui élève l'âme.",
+        "en": "To love is to desire what we lack: the beauty, the good, the completeness we do not have. Love is a striving toward what might fulfill us, and this very lack is the force that lifts the soul."
+      },
+      "figures": [
+        {
+          "slug": "plato",
+          "name": {
+            "fr": "Platon",
+            "en": "Plato"
+          }
+        }
+      ]
+    },
+    {
+      "id": "AGAPE_AS_GIFT",
+      "label": {
+        "fr": "Agapè-don",
+        "en": "Agape as gift"
+      },
+      "description": {
+        "fr": "L'amour véritable ne cherche pas à combler un manque : il se donne sans condition ni calcul. Il s'adresse à l'autre pour lui-même, indépendamment de ses qualités ou de ce qu'il peut nous apporter.",
+        "en": "True love does not seek to fill a lack: it gives itself without condition or calculation. It is directed at the other person for their own sake, regardless of their qualities or what they can offer us."
+      },
+      "figures": [
+        {
+          "slug": "christianity",
+          "name": {
+            "fr": "le christianisme",
+            "en": "Christianity"
+          }
+        },
+        {
+          "slug": "levinas",
+          "name": {
+            "fr": "Lévinas",
+            "en": "Levinas"
+          }
+        }
+      ]
+    },
+    {
+      "id": "RUSE_OF_THE_SPECIES",
+      "label": {
+        "fr": "Ruse de l'espèce",
+        "en": "Ruse of the species"
+      },
+      "description": {
+        "fr": "L'amour est une illusion par laquelle la nature nous manipule : sous le sentiment le plus exalté agit l'instinct de reproduction de l'espèce. L'individu croit choisir librement, alors qu'il sert des fins qui le dépassent.",
+        "en": "Love is an illusion through which nature manipulates us: beneath the most exalted feeling operates the species' drive to reproduce. The individual believes they choose freely, when in fact they serve ends beyond themselves."
+      },
+      "figures": [
+        {
+          "slug": "schopenhauer",
+          "name": {
+            "fr": "Schopenhauer",
+            "en": "Schopenhauer"
+          }
+        }
+      ]
+    },
+    {
+      "id": "PHILIA",
+      "label": {
+        "fr": "Philia (amitié)",
+        "en": "Philia (friendship)"
+      },
+      "description": {
+        "fr": "Le cœur de l'amour n'est ni un manque à combler ni un don à sens unique : c'est le lien réciproque et choisi de l'amitié, où chacun veut le bien de l'autre pour lui-même. Nourri de temps, d'égalité et de vertu partagée, il est la forme la plus accomplie de l'amour : une vie bonne menée ensemble.",
+        "en": "The heart of love is neither a lack to fill nor a one-way gift: it is the reciprocal, chosen bond of friendship, in which each wills the other's good for the other's own sake. Fed by time, equality and shared virtue, it is love's most accomplished form: a good life led together."
+      },
+      "figures": [
+        {
+          "slug": "aristotle",
+          "name": {
+            "fr": "Aristote",
+            "en": "Aristotle"
+          }
+        },
+        {
+          "slug": "montaigne",
+          "name": {
+            "fr": "Montaigne",
+            "en": "Montaigne"
+          }
+        }
+      ]
+    }
+  ],
+  "core": true,
+  "difficulty": 2,
+  "clusters": [],
+  "relatedAxes": [
+    "DESIRE"
+  ],
+  "problems": [
+    {
+      "id": "love-and-the-will",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "aimer", "en": "loving" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "engagement", "en": "commitment" },
+        { "fr": "passion subie", "en": "passion undergone" },
+        { "fr": "promesse", "en": "promise" },
+        { "fr": "coup de foudre", "en": "falling in love" }
+      ],
+      "anchors": [
+        { "name": { "fr": "Kierkegaard", "en": "Kierkegaard" }, "kind": "PHILOSOPHER", "slug": "kierkegaard" },
+        { "name": { "fr": "Proust", "en": "Proust" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "Schopenhauer", "en": "Schopenhauer" }, "kind": "PHILOSOPHER", "slug": "schopenhauer" }
+      ],
+      "title": { "fr": "Aimer se décide-t-il ?", "en": "Is love something we decide?" },
+      "explicitation": {
+        "fr": "L'amour est-il une promesse que la volonté peut tenir dans la durée, comme l'engagement voulu par Kierkegaard, ou une passion qui nous saisit et nous quitte sans nous consulter, comme chez Proust et Schopenhauer ?",
+        "en": "Is love a promise the will can keep over time, the commitment Kierkegaard calls for, or a passion that seizes us and leaves us without asking, as in Proust and Schopenhauer?"
+      }
+    }
+  ]
+}

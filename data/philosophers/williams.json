@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "williams",
+  "stub": true,
+  "name": {
+    "fr": "Bernard Williams",
+    "en": "Bernard Williams"
+  },
+  "summary": {
+    "fr": "Philosophe moral britannique, critique de l'<mv id='utilitarianism'>utilitarisme</mv> et de l'impartialité kantienne, qui a rendu à l'intégrité, au caractère et aux attachements personnels leur place dans l'éthique (« une pensée de trop », la chance morale).",
+    "en": "British moral philosopher, critic of <mv id='utilitarianism'>utilitarianism</mv> and of Kantian impartiality, who restored integrity, character and personal attachments to their place in ethics (\"one thought too many\", moral luck)."
+  },
+  "birth": 1929,
+  "death": 2003,
+  "nationality": {
+    "fr": "Britannique",
+    "en": "British"
+  },
+  "movements": [],
+  "updatedAt": "2026-06-27T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

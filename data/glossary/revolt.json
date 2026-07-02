@@ -1,0 +1,13 @@
+{
+  "id": "revolt",
+  "term": { "fr": "La révolte", "en": "Revolt" },
+  "definition": {
+    "fr": "La révolte est, chez <ph id='camus'>Camus</ph>, le « non » lucide opposé à <c id='the-absurd'>l'absurde</c> : refuser le silence du monde sans pour autant se résigner ni se suicider. Loin d'isoler, ce refus révèle une valeur partagée par tous les hommes, ce que résume la formule « je me révolte, donc nous sommes ». Tournée vers le présent plutôt que vers l'acceptation du destin, elle s'oppose à l'<c id='amor-fati'>amor fati</c> et fonde une solidarité dans la condition commune.",
+    "en": "Revolt is, in <ph id='camus'>Camus</ph>, the lucid \"no\" set against <c id='the-absurd'>the absurd</c>: refusing the world's silence without either resigning oneself or committing suicide. Far from isolating, this refusal reveals a value shared by all human beings, captured in the formula \"I revolt, therefore we are.\" Turned toward the present rather than toward acceptance of fate, it stands opposed to <c id='amor-fati'>amor fati</c> and grounds a solidarity in the common condition."
+  },
+  "relatedAxes": ["PAST_RELATION", "SUFFERING_MEANING", "SELF_INTEREST"],
+  "relatedTerms": ["the-absurd"],
+  "figure": { "slug": "camus", "name": { "fr": "Albert Camus", "en": "Albert Camus" } },
+  "positions": [{ "axisId": "PAST_RELATION", "poleId": "REVOLT" }],
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "romanticism-to-existentialism",
+  "from": { "kind": "MOVEMENT", "slug": "romanticism" },
+  "to": { "kind": "MOVEMENT", "slug": "existentialism" },
+  "directness": "INDIRECT",
+  "mode": "CONTINUES",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<mv id='existentialism'>L'existentialisme</mv> recueille du romantisme l'exaltation de l'individu singulier contre le système et l'universel abstrait, le primat de l'<ax id='INTERIORITY'>expérience vécue</ax>, de la passion et de l'angoisse, et l'exigence d'<c id='authenticity'>authenticité</c>. <ph id='kierkegaard'>Kierkegaard</ph>, lecteur critique du romantisme et de Hegel, en est le relais décisif : le « moi » romantique, irréductible à la raison, devient l'existant qui se choisit.",
+    "en": "<mv id='existentialism'>Existentialism</mv> gathers from Romanticism the exaltation of the singular individual against the system and the abstract universal, the primacy of <ax id='INTERIORITY'>lived experience</ax>, passion and anguish, and the demand for <c id='authenticity'>authenticity</c>. <ph id='kierkegaard'>Kierkegaard</ph>, a critical reader of Romanticism and of Hegel, is its decisive relay: the Romantic « self », irreducible to reason, becomes the existing individual who chooses himself."
+  },
+  "sources": [
+    { "fr": "Charles Taylor, Les Sources du moi (1989)", "en": "Charles Taylor, Sources of the Self (1989)" },
+    { "fr": "Søren Kierkegaard, Le Concept d'ironie (1841)", "en": "Søren Kierkegaard, The Concept of Irony (1841)" }
+  ],
+  "updatedAt": "2026-06-26T00:00:00.000Z"
+}

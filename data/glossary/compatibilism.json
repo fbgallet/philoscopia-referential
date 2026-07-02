@@ -1,0 +1,11 @@
+{
+  "id": "compatibilism",
+  "term": { "fr": "Compatibilisme", "en": "Compatibilism" },
+  "definition": {
+    "fr": "Le compatibilisme soutient que la liberté et le <c id='determinism'>déterminisme</c> ne sont pas contradictoires : un acte est libre lorsqu'il découle de la volonté propre de l'agent, même si cette volonté a elle-même des causes. Cette position médiane, déjà défendue par <mv id='stoicism'>le stoïcisme</mv> avec le cylindre de Chrysippe, refuse de sacrifier la responsabilité morale aux lois de la nature. Elle redéfinit ainsi <c id='free-will'>le libre arbitre</c> comme absence de contrainte plutôt que comme pouvoir absolu de choisir autrement.",
+    "en": "Compatibilism holds that freedom and <c id='determinism'>determinism</c> are not contradictory: an act is free when it flows from the agent's own will, even if that will itself has causes. This middle position, already defended by <mv id='stoicism'>Stoicism</mv> with Chrysippus' cylinder, refuses to sacrifice moral responsibility to the laws of nature. It thereby redefines <c id='free-will'>free will</c> as the absence of constraint rather than an absolute power to have chosen otherwise."
+  },
+  "relatedAxes": ["FREEDOM"],
+  "relatedTerms": ["free-will", "determinism"],
+  "updatedAt": "2026-06-11T00:00:00.000Z"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "natural-rights-grounds-libertarianism",
+  "ground": { "axisId": "RIGHTS_NATURE", "poleId": "NATURAL_RIGHTS" },
+  "grounded": { "axisId": "DISTRIBUTIVE_JUSTICE", "poleId": "LIBERTARIANISM" },
+  "kind": "T_V",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si chacun possède des droits inviolables, à commencer par la propriété de soi et du fruit de son travail, alors redistribuer par la contrainte revient à violer ces droits. Les droits naturels fondent le libertarianisme : pour <ph id='nozick'>Nozick</ph>, une répartition est juste dès lors qu'elle résulte d'échanges libres, et l'État doit se borner à protéger les personnes.",
+    "en": "If each person holds inviolable rights, beginning with ownership of themselves and of the fruits of their labour, then redistributing by coercion amounts to violating those rights. Natural rights ground libertarianism: for <ph id='nozick'>Nozick</ph>, a distribution is just as soon as it results from free exchanges, and the state must confine itself to protecting persons."
+  },
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

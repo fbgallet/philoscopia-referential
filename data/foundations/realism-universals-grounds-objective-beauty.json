@@ -1,0 +1,12 @@
+{
+  "id": "realism-universals-grounds-objective-beauty",
+  "ground": { "axisId": "UNIVERSALS", "poleId": "REALISM" },
+  "grounded": { "axisId": "BEAUTY", "poleId": "OBJECTIVE_BEAUTY" },
+  "kind": "T_T",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si les propriétés générales existent réellement, la beauté est l'une d'elles : une perfection de la forme inscrite dans les choses, que nous découvrons plus que nous n'inventons. Le réalisme des universaux fonde le beau objectif : pour <ph id='plato'>Platon</ph>, les belles choses ne le sont que par participation à la Beauté en soi, une <c id='theory-of-forms'>Idée</c> que le sensible reflète.",
+    "en": "If general properties really exist, beauty is one of them: a perfection of form inscribed in things, which we discover more than we invent. Realism about universals grounds objective beauty: for <ph id='plato'>Plato</ph>, beautiful things are beautiful only by participation in Beauty itself, a <c id='theory-of-forms'>Form</c> that the sensible world reflects."
+  },
+  "updatedAt": "2026-06-22T00:00:00.000Z"
+}

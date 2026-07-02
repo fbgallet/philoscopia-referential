@@ -1,0 +1,12 @@
+{
+  "id": "two-truths",
+  "term": { "fr": "Les Deux Vérités (saṃvṛti / paramārtha)", "en": "The Two Truths (saṃvṛti / paramārtha)" },
+  "definition": {
+    "fr": "La doctrine des deux vérités distingue la vérité conventionnelle (saṃvṛti), celle du monde ordinaire, des choses, des mots et des usages, et la vérité ultime (paramārtha), qui révèle leur <c id='sunyata'>vacuité</c>. <ph id='nagarjuna'>Nāgārjuna</ph> y insiste : l'enseignement du Bouddha repose sur cette distinction. La vacuité n'abolit donc pas la réalité conventionnelle : elle en dévoile le statut véritable, sans nier que les choses fonctionnent et comptent dans la vie ordinaire.",
+    "en": "The doctrine of the two truths distinguishes conventional truth (saṃvṛti), that of the everyday world, of things, words, and practices, from ultimate truth (paramārtha), which reveals their <c id='sunyata'>emptiness</c>. <ph id='nagarjuna'>Nāgārjuna</ph> stresses that the Buddha's teaching rests on this distinction. Emptiness therefore does not abolish conventional reality: it discloses its true status, without denying that things work and matter in ordinary life."
+  },
+  "relatedAxes": ["TRUTH_NATURE", "KNOWLEDGE_STATUS"],
+  "relatedTerms": ["sunyata"],
+  "figure": { "slug": "nagarjuna", "name": { "fr": "Nāgārjuna", "en": "Nāgārjuna" } },
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

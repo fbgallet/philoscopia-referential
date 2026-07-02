@@ -1,0 +1,68 @@
+{
+  "id": "RULE_SPIRIT",
+  "relation": "OTHERS",
+  "territory": "MORALS",
+  "label": {
+    "fr": "Lettre ou esprit de la règle",
+    "en": "Letter or spirit of the rule"
+  },
+  "question": {
+    "fr": "Faut-il appliquer les règles à la lettre ou selon leur esprit ?",
+    "en": "Should rules be applied to the letter or according to their spirit?"
+  },
+  "stakes": {
+    "fr": "Suivre la lettre traite tout le monde pareil et barre l'arbitraire, mais peut donner des résultats absurdes ou cruels que la règle ne voulait pas ; suivre l'esprit colle au cas, mais ouvre la porte à ce que chacun interprète à sa guise. Se positionner, c'est dire où s'arrête la fidélité à la règle et où le jugement doit prendre le relais.",
+    "en": "Following the letter treats everyone alike and bars arbitrariness, but can yield absurd or cruel results the rule never intended; following the spirit fits the case, but opens the door to each interpreting as they please. To take a position is to say where fidelity to the rule ends and judgement must take over."
+  },
+  "layer": "VALUE",
+  "type": "BIPOLAR",
+  "poles": [
+    {
+      "id": "LEGALISM",
+      "label": {
+        "fr": "Légalisme",
+        "en": "Legalism"
+      },
+      "description": {
+        "fr": "Une règle juste vaut pour tous et ne souffre pas d'exception : c'est précisément ce qui la rend fiable et équitable. Admettre des accommodements au cas par cas, c'est ouvrir la porte à l'arbitraire et aux complaisances que chacun s'accorde à soi-même.",
+        "en": "A just rule holds for everyone and admits no exceptions: that is precisely what makes it reliable and fair. Allowing case-by-case accommodations opens the door to arbitrariness and to the indulgences we each grant ourselves."
+      },
+      "figures": [
+        {
+          "slug": "kant",
+          "name": {
+            "fr": "Kant",
+            "en": "Kant"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EQUITY_PHRONESIS",
+      "label": {
+        "fr": "Équité-phronèsis",
+        "en": "Equity-phronesis"
+      },
+      "description": {
+        "fr": "Aucune règle générale ne peut prévoir tous les cas particuliers : bien juger exige une sagesse pratique, la phronèsis, capable d'ajuster la règle à la situation. L'équité corrige la loi là où son application littérale deviendrait injuste, dans la fidélité à son esprit plutôt qu'à sa lettre.",
+        "en": "No general rule can anticipate every particular case: judging well requires practical wisdom, phronesis, capable of fitting the rule to the situation. Equity corrects the law where its literal application would become unjust, remaining faithful to its spirit rather than its letter."
+      },
+      "figures": [
+        {
+          "slug": "aristotle",
+          "name": {
+            "fr": "Aristote",
+            "en": "Aristotle"
+          }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 1,
+  "clusters": [],
+  "relatedAxes": [
+    "ETHICS_FOUNDATION",
+    "SINCERITY"
+  ]
+}

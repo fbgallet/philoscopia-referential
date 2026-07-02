@@ -1,0 +1,26 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "dewey",
+  "stub": true,
+  "name": {
+    "fr": "John Dewey",
+    "en": "John Dewey"
+  },
+  "summary": {
+    "fr": "Philosophe <mv id='pragmatism'>pragmatiste</mv> américain, théoricien de l'enquête et de la démocratie, figure majeure de l'éducation moderne.",
+    "en": "American <mv id='pragmatism'>pragmatist</mv> philosopher, theorist of inquiry and democracy, a major figure of modern education."
+  },
+  "birth": 1859,
+  "death": 1952,
+  "nationality": {
+    "fr": "Américain",
+    "en": "American"
+  },
+  "movements": [
+    "pragmatism"
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

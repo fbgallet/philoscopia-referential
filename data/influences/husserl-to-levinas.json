@@ -1,0 +1,16 @@
+{
+  "id": "husserl-to-levinas",
+  "from": { "kind": "PHILOSOPHER", "slug": "husserl" },
+  "to": { "kind": "PHILOSOPHER", "slug": "levinas" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='levinas'>Levinas</ph> introduit <ph id='husserl'>Husserl</ph> en France et reçoit de lui la méthode descriptive de l'<c>intentionnalité</c>, qu'il réorientera ensuite des objets vers le visage d'<c>autrui</c> et le primat de l'éthique.",
+    "en": "<ph id='levinas'>Levinas</ph> introduces <ph id='husserl'>Husserl</ph> to France and receives from him the descriptive method of <c>intentionality</c>, which he will then reorient from objects toward the face of the <c>other</c> and the primacy of ethics."
+  },
+  "sources": [
+    { "fr": "Levinas, Théorie de l'intuition dans la phénoménologie de Husserl (1930)", "en": "Levinas, The Theory of Intuition in Husserl's Phenomenology (1930)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

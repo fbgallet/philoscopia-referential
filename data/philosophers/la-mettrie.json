@@ -1,0 +1,16 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "la-mettrie",
+  "name": { "fr": "La Mettrie", "en": "La Mettrie" },
+  "summary": {
+    "fr": "Médecin et philosophe matérialiste français : dans « L'Homme-Machine », il ramène l'esprit à l'organisation du corps et fait du vivant un mécanisme.",
+    "en": "French materialist physician and philosopher: in \"Man a Machine\", he reduces mind to the body's organization and treats the living being as a mechanism."
+  },
+  "nationality": { "fr": "Français", "en": "French" },
+  "birth": 1709,
+  "death": 1751,
+  "movements": [],
+  "updatedAt": "2026-06-21T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

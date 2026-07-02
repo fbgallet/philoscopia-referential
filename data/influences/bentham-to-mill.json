@@ -1,0 +1,16 @@
+{
+  "id": "bentham-to-mill",
+  "from": { "kind": "PHILOSOPHER", "slug": "bentham" },
+  "to": { "kind": "PHILOSOPHER", "slug": "mill" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Élevé dans l'<mv id='utilitarianism'>utilitarisme</mv> de <ph id='bentham'>Bentham</ph>, <ph id='mill'>Mill</ph> en conserve le principe mais le réforme : il introduit une hiérarchie <c>qualitative</c> des plaisirs et fait place à la <c>liberté</c> individuelle contre le seul calcul des quantités.",
+    "en": "Raised in <ph id='bentham'>Bentham</ph>'s <mv id='utilitarianism'>utilitarianism</mv>, <ph id='mill'>Mill</ph> keeps its principle but reforms it: he introduces a <c>qualitative</c> hierarchy of pleasures and makes room for individual <c>liberty</c> against the mere calculus of quantities."
+  },
+  "sources": [
+    { "fr": "Mill, L'Utilitarisme (1861)", "en": "Mill, Utilitarianism (1861)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

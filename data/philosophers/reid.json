@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "reid",
+  "stub": true,
+  "name": {
+    "fr": "Thomas Reid",
+    "en": "Thomas Reid"
+  },
+  "summary": {
+    "fr": "Philosophe écossais, fondateur de l'école du sens commun, défenseur de la causalité de l'agent : la personne est une cause première, capable d'initier ses actes sans y être nécessitée.",
+    "en": "Scottish philosopher, founder of the common-sense school, defender of agent causation: a person is a first cause, able to initiate their acts without being necessitated to them."
+  },
+  "birth": 1710,
+  "death": 1796,
+  "nationality": {
+    "fr": "Écossais",
+    "en": "Scottish"
+  },
+  "movements": [],
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

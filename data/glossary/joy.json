@@ -1,0 +1,11 @@
+{
+  "id": "joy",
+  "term": { "fr": "Joie", "en": "Joy" },
+  "definition": {
+    "fr": "Dans l'usage courant, la joie est un affect agréable, un sentiment d'accomplissement. Plusieurs philosophes lui donnent un sens technique précis. Chez <ph id='spinoza'>Spinoza</ph>, la joie (laetitia) est le passage d'une moindre à une plus grande perfection, l'augmentation de notre puissance d'agir, liée au <c id='conatus'>conatus</c> : à ce titre elle est toujours bonne et l'éthique vise à la cultiver. Chez <ph>Bergson</ph>, la joie signale au contraire que la vie a réussi quelque chose, qu'une création a eu lieu, comme le signe d'une victoire de l'élan créateur.",
+    "en": "In ordinary use, joy is an agreeable affect, a feeling of fulfilment. Several philosophers give it a precise technical sense. For <ph id='spinoza'>Spinoza</ph>, joy (laetitia) is the passage from a lesser to a greater perfection, the increase of our power to act, bound up with the <c id='conatus'>conatus</c>: as such it is always good, and ethics aims to cultivate it. For <ph>Bergson</ph>, by contrast, joy signals that life has achieved something, that a creation has occurred, as the mark of a victory of the creative impulse."
+  },
+  "relatedAxes": ["EMOTIONS", "SOVEREIGN_GOOD", "BODILY_PLEASURES"],
+  "relatedTerms": ["conatus", "hedonism", "eudaimonism"],
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

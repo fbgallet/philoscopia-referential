@@ -1,0 +1,13 @@
+{
+  "id": "emanation",
+  "term": { "fr": "Émanation", "en": "Emanation" },
+  "definition": {
+    "fr": "L'émanation est, chez <ph id='plotinus'>Plotin</ph>, le mode selon lequel toute la réalité procède de l'<c id='the-one'>Un</c> par surabondance, sans choix ni division ni appauvrissement de la source, comme la lumière rayonne du soleil. Elle déploie la hiérarchie des trois <c id='hypostasis'>hypostases</c> : l'Un produit l'<c id='nous'>Intellect</c>, qui produit l'<c id='world-soul'>Âme</c>, qui ordonne le monde sensible. Ce n'est pas une création <ax id='CAUSALITY'>mécanique</ax> mais une dérivation orientée vers le bien, appelant en retour le mouvement inverse de l'<c id='epistrophe'>épistrophè</c>.",
+    "en": "Emanation is, in <ph id='plotinus'>Plotinus</ph>, the way in which all reality proceeds from the <c id='the-one'>One</c> by superabundance, without choice, division, or impoverishment of the source, as light radiates from the sun. It unfolds the hierarchy of the three <c id='hypostasis'>hypostases</c>: the One produces <c id='nous'>Intellect</c>, which produces the <c id='world-soul'>Soul</c>, which orders the sensible world. It is no <ax id='CAUSALITY'>mechanical</ax> creation but a derivation oriented toward the good, calling forth in return the reverse movement of <c id='epistrophe'>epistrophē</c>."
+  },
+  "relatedAxes": ["CAUSALITY", "REALITY_NATURE"],
+  "relatedTerms": ["the-one", "nous", "world-soul", "epistrophe", "hypostasis"],
+  "figure": { "slug": "plotinus", "name": { "fr": "Plotin", "en": "Plotinus" } },
+  "positions": [{ "axisId": "CAUSALITY", "poleId": "FINALISM" }],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

@@ -1,0 +1,101 @@
+{
+  "id": "SCIENTIFIC_METHOD",
+  "relation": "TRUTH",
+  "territory": "KNOWLEDGE",
+  "label": {
+    "fr": "Méthode scientifique",
+    "en": "Scientific method"
+  },
+  "question": {
+    "fr": "Comment la science établit-elle ses vérités ?",
+    "en": "How does science establish its truths?"
+  },
+  "stakes": {
+    "fr": "La science inspire confiance, mais comment fonde-t-elle au juste ses résultats : en généralisant l'observation, en s'exposant à la réfutation, ou en calculant des probabilités ? Ce qu'on attend d'une preuve scientifique, et ce qui sépare la science de la simple croyance, en dépend.",
+    "en": "Science commands trust, but how exactly does it ground its results: by generalising from observation, by exposing itself to refutation, or by computing probabilities? What we expect of scientific proof, and what separates science from mere belief, depends on it."
+  },
+  "layer": "THEORY",
+  "type": "TRIANGULAR",
+  "poles": [
+    {
+      "id": "INDUCTIVISM",
+      "label": {
+        "fr": "Inductivisme",
+        "en": "Inductivism"
+      },
+      "description": {
+        "fr": "La science part des faits : en observant des régularités répétées, on en tire des lois générales. L'accumulation d'observations concordantes confirme une hypothèse et fonde notre connaissance de la nature.",
+        "en": "Science starts from facts: by observing repeated regularities, we draw general laws. The accumulation of agreeing observations confirms a hypothesis and grounds our knowledge of nature."
+      },
+      "figures": [
+        {
+          "slug": "bacon",
+          "name": { "fr": "Bacon", "en": "Bacon" }
+        },
+        {
+          "slug": "mill",
+          "name": { "fr": "Mill", "en": "Mill" }
+        }
+      ],
+      "nuances": [
+        {
+          "fr": "Bacon prône une induction expérimentale et éliminative, non une simple généralisation par énumération.",
+          "en": "Bacon advocates an experimental, eliminative induction, not mere generalization by enumeration."
+        }
+      ]
+    },
+    {
+      "id": "FALSIFICATIONISM",
+      "label": {
+        "fr": "Falsificationnisme",
+        "en": "Falsificationism"
+      },
+      "description": {
+        "fr": "On ne prouve jamais une théorie, on peut seulement la réfuter. Une hypothèse est scientifique si elle s'expose à une expérience qui pourrait la démentir ; tant qu'elle y résiste, elle est corroborée, jamais établie une fois pour toutes.",
+        "en": "A theory is never proven, only refuted. A hypothesis is scientific if it exposes itself to an experiment that could disprove it; as long as it withstands them, it is corroborated, never established once and for all."
+      },
+      "figures": [
+        {
+          "slug": "popper",
+          "name": { "fr": "Popper", "en": "Popper" }
+        }
+      ]
+    },
+    {
+      "id": "BAYESIANISM",
+      "label": {
+        "fr": "Bayésianisme",
+        "en": "Bayesianism"
+      },
+      "description": {
+        "fr": "Connaître, c'est ajuster des degrés de croyance. Chaque observation révise la probabilité d'une hypothèse selon le théorème de Bayes : une preuve ne prouve pas, elle rend plus ou moins probable, à partir de ce que l'on croyait déjà.",
+        "en": "To know is to adjust degrees of belief. Each observation revises the probability of a hypothesis by Bayes' theorem: evidence does not prove, it makes more or less probable, starting from what one already believed."
+      },
+      "figures": [
+        {
+          "slug": "ramsey",
+          "name": { "fr": "Ramsey", "en": "Ramsey" }
+        },
+        {
+          "slug": "carnap",
+          "name": { "fr": "Carnap", "en": "Carnap" }
+        }
+      ],
+      "nuances": [
+        {
+          "fr": "Carnap relève d'une probabilité logique, précurseur du bayésianisme plus que du bayésianisme subjectif.",
+          "en": "Carnap's logical probability is a precursor to Bayesianism rather than subjective Bayesianism proper."
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 3,
+  "clusters": [],
+  "relatedAxes": [
+    "SCIENCE_PLACE",
+    "KNOWLEDGE_STATUS",
+    "KNOWLEDGE_SOURCE",
+    "CERTAINTY"
+  ]
+}

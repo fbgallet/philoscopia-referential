@@ -1,0 +1,16 @@
+{
+  "id": "enlightenment-to-comte",
+  "from": { "kind": "MOVEMENT", "slug": "enlightenment" },
+  "to": { "kind": "PHILOSOPHER", "slug": "comte" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='comte'>Comte</ph> systématise l'autorité que les Lumières reconnaissaient à la science : sa loi des trois états fait de l'âge « positif » l'aboutissement du progrès de l'esprit esquissé par <ph id='condorcet'>Condorcet</ph>, qu'il revendique comme son principal devancier.",
+    "en": "<ph id='comte'>Comte</ph> systematizes the authority the Enlightenment granted to science: his law of three stages makes the « positive » age the culmination of the progress of mind sketched by <ph id='condorcet'>Condorcet</ph>, whom he claims as his chief precursor."
+  },
+  "sources": [
+    { "fr": "Comte, Cours de philosophie positive (1830-1842)", "en": "Comte, Course in Positive Philosophy (1830-1842)" }
+  ],
+  "updatedAt": "2026-06-25T00:00:00.000Z"
+}

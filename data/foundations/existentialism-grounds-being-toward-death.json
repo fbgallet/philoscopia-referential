@@ -1,0 +1,12 @@
+{
+  "id": "existentialism-grounds-being-toward-death",
+  "ground": { "axisId": "ESSENCE", "poleId": "EXISTENTIALISM" },
+  "grounded": { "axisId": "DEATH", "poleId": "BEING_TOWARD_DEATH" },
+  "kind": "T_V",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si l'homme n'a pas d'essence donnée et n'est que ce qu'il se fait, alors c'est en assumant sa propre finitude qu'il s'arrache à la dispersion et devient authentiquement lui-même. L'existentialisme fonde l'être-pour-la-mort : <ph id='heidegger'>Heidegger</ph> fait de la mort assumée la possibilité la plus propre, celle qui révèle l'existence à elle-même.",
+    "en": "If the human being has no given essence and is only what they make of themselves, then it is by assuming their own finitude that they tear themselves from dispersion and become authentically themselves. Existentialism grounds being-toward-death: <ph id='heidegger'>Heidegger</ph> makes death, once assumed, one's ownmost possibility, the one that reveals existence to itself."
+  },
+  "updatedAt": "2026-06-22T00:00:00.000Z"
+}

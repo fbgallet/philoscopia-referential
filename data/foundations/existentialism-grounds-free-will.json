@@ -1,0 +1,12 @@
+{
+  "id": "existentialism-grounds-free-will",
+  "ground": { "axisId": "ESSENCE", "poleId": "EXISTENTIALISM" },
+  "grounded": { "axisId": "FREEDOM", "poleId": "FREE_WILL" },
+  "kind": "T_T",
+  "strength": "STRONG",
+  "explanation": {
+    "fr": "Si l'existence précède l'essence, aucune nature donnée ne détermine d'avance mes choix : je suis ce que je me fais, et donc radicalement libre. L'existentialisme fonde le <c id='free-will'>libre arbitre</c>, jusqu'à faire de la liberté la condition même de l'homme. Invoquer un caractère ou une nature pour s'en excuser relève alors de la <c id='bad-faith'>mauvaise foi</c>, selon <ph id='sartre'>Sartre</ph>.",
+    "en": "If existence precedes essence, no given nature settles my choices in advance: I am what I make of myself, and therefore radically free. Existentialism grounds <c id='free-will'>free will</c>, to the point of making freedom the very condition of the human being. Invoking a character or a nature to excuse oneself is then a matter of <c id='bad-faith'>bad faith</c>, according to <ph id='sartre'>Sartre</ph>."
+  },
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "HUMAN_ENHANCEMENT",
+  "relation": "SELF",
+  "territory": "BODY_LIFE",
+  "label": {
+    "fr": "Améliorer la nature humaine",
+    "en": "Enhancing human nature"
+  },
+  "question": {
+    "fr": "Devons-nous utiliser la technique pour améliorer la nature humaine au-delà du soin ?",
+    "en": "Should we use technology to enhance human nature beyond healing?"
+  },
+  "stakes": {
+    "fr": "Soigner répare ce qui défaille, mais faut-il aller plus loin, et se rendre plus fort, plus intelligent, presque immortel ? Refuser, c'est peut-être accepter des limites et des souffrances qu'on pourrait lever ; accepter, c'est risquer de dissoudre ce qui nous fait humains et de creuser un fossé entre humains augmentés et humains ordinaires. Se positionner, c'est dire ce qui, en nous, doit rester intouchable.",
+    "en": "Healing repairs what falters, but should we go further, and make ourselves stronger, smarter, all but immortal? To refuse is perhaps to accept limits and sufferings we could lift; to accept is to risk dissolving what makes us human and opening a gulf between enhanced human beings and ordinary ones. To take a position is to say what, in us, must remain untouchable."
+  },
+  "layer": "VALUE",
+  "type": "BIPOLAR",
+  "poles": [
+    {
+      "id": "TRANSHUMANISM",
+      "label": {
+        "fr": "Transhumanisme",
+        "en": "Transhumanism"
+      },
+      "description": {
+        "fr": "La nature humaine n'est pas sacrée : c'est un état transitoire que nous avons le droit, et peut-être le devoir, d'améliorer. Grâce aux biotechnologies, nous pourrions accroître nos capacités physiques et cognitives, repousser la vieillesse et la mort, et réduire la souffrance.",
+        "en": "Human nature is not sacred: it is a transitional state that we have the right, and perhaps the duty, to improve. Through biotechnology, we could expand our physical and cognitive capacities, push back aging and death, and reduce suffering."
+      },
+      "figures": [
+        {
+          "slug": "bostrom",
+          "name": {
+            "fr": "Bostrom",
+            "en": "Bostrom"
+          }
+        }
+      ]
+    },
+    {
+      "id": "BIOCONSERVATISM",
+      "label": {
+        "fr": "Bioconservatisme",
+        "en": "Bioconservatism"
+      },
+      "description": {
+        "fr": "Modifier techniquement la nature humaine est une transgression dangereuse : elle menace la dignité de la personne, l'égalité entre les générations et notre rapport au donné. La fragilité et la finitude ne sont pas des défauts à corriger, mais des conditions du sens de la vie humaine.",
+        "en": "Technologically altering human nature is a dangerous transgression: it threatens personal dignity, equality between generations, and our relation to what is given. Fragility and finitude are not flaws to be fixed, but conditions of a meaningful human life."
+      },
+      "figures": [
+        {
+          "slug": "jonas",
+          "name": {
+            "fr": "Jonas",
+            "en": "Jonas"
+          }
+        },
+        {
+          "slug": "habermas",
+          "name": {
+            "fr": "Habermas",
+            "en": "Habermas"
+          }
+        },
+        {
+          "slug": "sandel",
+          "name": {
+            "fr": "Sandel",
+            "en": "Sandel"
+          }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 1,
+  "clusters": [],
+  "relatedAxes": [
+    "HUMAN_NATURE",
+    "HUMAN_PLACE_NATURE",
+    "TECHNOLOGY",
+    "DEATH"
+  ]
+}

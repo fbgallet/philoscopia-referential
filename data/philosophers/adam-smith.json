@@ -1,0 +1,17 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "adam-smith",
+  "stub": true,
+  "name": { "fr": "Smith", "en": "Smith" },
+  "fullName": { "fr": "Adam Smith", "en": "Adam Smith" },
+  "summary": {
+    "fr": "Philosophe et économiste écossais des <mv id='enlightenment'>Lumières</mv>, auteur de la Théorie des sentiments moraux et de la Richesse des nations.",
+    "en": "Scottish philosopher and economist of the <mv id='enlightenment'>Enlightenment</mv>, author of The Theory of Moral Sentiments and The Wealth of Nations."
+  },
+  "birth": 1723,
+  "death": 1790,
+  "nationality": { "fr": "Écossais", "en": "Scottish" },
+  "movements": ["enlightenment"],
+  "updatedAt": "2026-06-25T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

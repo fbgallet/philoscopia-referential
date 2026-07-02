@@ -1,0 +1,26 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "levinas",
+  "stub": true,
+  "name": {
+    "fr": "Emmanuel Levinas",
+    "en": "Emmanuel Levinas"
+  },
+  "summary": {
+    "fr": "Philosophe français d'origine lituanienne, héritier critique de la <mv id='phenomenology'>phénoménologie</mv>, qui fit de l'éthique la philosophie première : le visage d'autrui m'oblige avant toute connaissance.",
+    "en": "French philosopher of Lithuanian origin, a critical heir of <mv id='phenomenology'>phenomenology</mv>, who made ethics first philosophy: the face of the other obligates me before all knowledge."
+  },
+  "birth": 1906,
+  "death": 1995,
+  "nationality": {
+    "fr": "Français",
+    "en": "French"
+  },
+  "movements": [
+    "phenomenology"
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

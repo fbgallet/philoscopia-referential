@@ -1,0 +1,15 @@
+{
+  "id": "anamnesis",
+  "term": { "fr": "Réminiscence", "en": "Anamnesis" },
+  "definition": {
+    "fr": "La réminiscence est la thèse de <ph id='plato'>Platon</ph> selon laquelle apprendre n'est pas recevoir un savoir du dehors, mais se ressouvenir : l'âme, avant la naissance, a contemplé <c id='theory-of-forms'>les Idées</c>, et l'enseignement ne fait que réveiller ce savoir oublié. Dans <w id='meno-plato'>le Ménon</w>, <ph id='plato'>Platon</ph> le montre en faisant retrouver à un jeune esclave une vérité géométrique par le seul questionnement. Le savoir véritable vient donc de la <ax id='KNOWLEDGE_SOURCE'>raison</ax> qui se retourne vers elle-même, non de l'expérience sensible.",
+    "en": "Anamnesis is <ph id='plato'>Plato</ph>'s thesis that learning is not receiving knowledge from outside but recollecting it: before birth the soul contemplated <c id='theory-of-forms'>the Forms</c>, and teaching merely reawakens this forgotten knowledge. In <w id='meno-plato'>the Meno</w>, <ph id='plato'>Plato</ph> shows it by leading a young slave to recover a geometric truth through questioning alone. True knowledge thus comes from <ax id='KNOWLEDGE_SOURCE'>reason</ax> turning back upon itself, not from sense experience."
+  },
+  "relatedAxes": ["KNOWLEDGE_SOURCE"],
+  "relatedTerms": ["theory-of-forms", "tripartite-soul"],
+  "figure": { "slug": "plato", "name": { "fr": "Platon", "en": "Plato" } },
+  "positions": [
+    { "axisId": "KNOWLEDGE_SOURCE", "poleId": "RATIONALISM" }
+  ],
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

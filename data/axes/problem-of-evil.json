@@ -1,0 +1,110 @@
+{
+  "id": "PROBLEM_OF_EVIL",
+  "relation": "WORLD",
+  "territory": "PHILOSOPHY_OF_RELIGION",
+  "label": {
+    "fr": "Le problème du mal",
+    "en": "The problem of evil"
+  },
+  "question": {
+    "fr": "Le mal est-il compatible avec un Dieu bon et tout-puissant ?",
+    "en": "Is evil compatible with a good and all-powerful God?"
+  },
+  "stakes": {
+    "fr": "La souffrance des innocents est l'épreuve la plus dure pour qui croit en un Dieu bon et tout-puissant : ou bien le mal se laisse réconcilier avec lui, ou bien il s'excuse par notre liberté, ou bien il le ruine. Se positionner, c'est dire si la foi peut tenir devant le malheur, ou s'y brise.",
+    "en": "The suffering of the innocent is the harshest test for anyone who believes in a good and all-powerful God: either evil can be reconciled with him, or it is excused by our freedom, or it refutes him. To take a position is to say whether faith can stand before misfortune, or breaks on it."
+  },
+  "layer": "THEORY",
+  "type": "CATEGORICAL",
+  "poles": [
+    {
+      "id": "THEODICY",
+      "label": {
+        "fr": "Théodicée",
+        "en": "Theodicy"
+      },
+      "description": {
+        "fr": "Le mal n'est qu'apparent ou nécessaire dans la perspective du tout : un Dieu infiniment sage a créé le meilleur des mondes possibles, où chaque mal concourt à un bien supérieur que nous ne voyons pas.",
+        "en": "Evil is only apparent or necessary from the standpoint of the whole: an infinitely wise God created the best of all possible worlds, where each evil contributes to a higher good we fail to see."
+      },
+      "figures": [
+        {
+          "slug": "leibniz",
+          "name": { "fr": "Leibniz", "en": "Leibniz" }
+        }
+      ]
+    },
+    {
+      "id": "FREE_WILL_DEFENSE",
+      "label": {
+        "fr": "Défense par le libre arbitre",
+        "en": "Free-will defence"
+      },
+      "description": {
+        "fr": "Le mal moral est le prix de la liberté : Dieu a voulu des créatures libres, capables d'aimer et de choisir le bien, donc capables aussi de faire le mal. La faute vient de l'homme, non du créateur.",
+        "en": "Moral evil is the price of freedom: God willed free creatures, able to love and to choose the good, hence also able to do evil. The fault lies with humanity, not the creator."
+      },
+      "figures": [
+        {
+          "slug": "augustine",
+          "name": { "fr": "Augustin", "en": "Augustine" }
+        },
+        {
+          "slug": "plantinga",
+          "name": { "fr": "Plantinga", "en": "Plantinga" }
+        }
+      ]
+    },
+    {
+      "id": "ANTI_THEODICY",
+      "label": {
+        "fr": "Révolte / anti-théodicie",
+        "en": "Revolt / anti-theodicy"
+      },
+      "description": {
+        "fr": "Vouloir justifier le mal est en soi une faute morale : aucune harmonie finale ne rachète la souffrance d'un seul enfant innocent. Devant le mal, il n'y a pas d'explication acceptable, mais une révolte ou un silence.",
+        "en": "To justify evil is itself a moral failing: no final harmony redeems the suffering of a single innocent child. Before evil there is no acceptable explanation, but revolt or silence."
+      },
+      "figures": [
+        {
+          "slug": "dostoevsky",
+          "name": { "fr": "Dostoïevski", "en": "Dostoevsky" }
+        },
+        {
+          "slug": "levinas",
+          "name": { "fr": "Levinas", "en": "Levinas" }
+        }
+      ]
+    },
+    {
+      "id": "ARGUMENT_FROM_EVIL",
+      "label": {
+        "fr": "Argument du mal (athéisme)",
+        "en": "Argument from evil (atheism)"
+      },
+      "description": {
+        "fr": "L'existence d'un mal massif et gratuit est incompatible avec un Dieu à la fois bon, tout-puissant et omniscient : ou il ne peut l'empêcher, ou il ne le veut pas. Le mal est le meilleur argument contre Dieu.",
+        "en": "The existence of massive, gratuitous evil is incompatible with a God at once good, all-powerful and all-knowing: either he cannot prevent it, or he will not. Evil is the strongest argument against God."
+      },
+      "figures": [
+        {
+          "slug": "epicurus",
+          "name": { "fr": "Épicure", "en": "Epicurus" }
+        },
+        {
+          "slug": "hume",
+          "name": { "fr": "Hume", "en": "Hume" }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 2,
+  "clusters": [],
+  "relatedAxes": [
+    "GOD_EXISTENCE",
+    "SUFFERING_MEANING",
+    "FAITH_REASON",
+    "COSMIC_OUTLOOK"
+  ]
+}

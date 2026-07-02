@@ -1,0 +1,25 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "max-more",
+  "stub": true,
+  "name": {
+    "fr": "Max More",
+    "en": "Max More"
+  },
+  "summary": {
+    "fr": "Philosophe et futurologue anglo-américain, fondateur de l'extropianisme et l'un des premiers à donner au <mv id='transhumanism'>transhumanisme</mv> une forme philosophique organisée ; il en a formulé les principes et milité pour l'auto-transformation de l'humain par la technique.",
+    "en": "Anglo-American philosopher and futurist, founder of Extropianism and one of the first to give <mv id='transhumanism'>transhumanism</mv> an organized philosophical form; he framed its principles and championed the self-transformation of the human through technology."
+  },
+  "birth": 1964,
+  "nationality": {
+    "fr": "Anglo-américain",
+    "en": "Anglo-American"
+  },
+  "movements": [
+    "transhumanism"
+  ],
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

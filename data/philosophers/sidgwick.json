@@ -1,0 +1,26 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "sidgwick",
+  "stub": true,
+  "name": {
+    "fr": "Sidgwick",
+    "en": "Sidgwick"
+  },
+  "summary": {
+    "fr": "Philosophe anglais, dont les Méthodes de l'éthique donnèrent à l'<mv id='utilitarianism'>utilitarisme</mv> sa formulation la plus rigoureuse.",
+    "en": "English philosopher, whose Methods of Ethics gave <mv id='utilitarianism'>utilitarianism</mv> its most rigorous formulation."
+  },
+  "birth": 1838,
+  "death": 1900,
+  "nationality": {
+    "fr": "Anglais",
+    "en": "English"
+  },
+  "movements": [
+    "utilitarianism"
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

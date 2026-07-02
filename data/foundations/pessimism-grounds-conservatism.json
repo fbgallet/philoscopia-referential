@@ -1,0 +1,12 @@
+{
+  "id": "pessimism-grounds-conservatism",
+  "ground": { "axisId": "HUMAN_VISION", "poleId": "ANTHROPOLOGICAL_PESSIMISM" },
+  "grounded": { "axisId": "CONSERVATISM_PROGRESSISM", "poleId": "CONSERVATISM" },
+  "kind": "T_V",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si l'homme est traversé de pulsions égoïstes et agressives que rien n'efface, la raison individuelle est trop faible pour refonder l'ordre social à neuf. Le pessimisme anthropologique soutient le conservatisme : <ph id='burke'>Burke</ph> voit dans les institutions héritées une sagesse accumulée qu'il vaut mieux réformer avec prudence que détruire.",
+    "en": "If human beings are shot through with selfish, aggressive drives that nothing erases, individual reason is too weak to refound the social order from scratch. Anthropological pessimism supports conservatism: <ph id='burke'>Burke</ph> sees in inherited institutions an accumulated wisdom better reformed with prudence than destroyed."
+  },
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

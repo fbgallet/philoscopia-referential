@@ -1,0 +1,16 @@
+{
+  "id": "heidegger-vs-levinas",
+  "from": { "kind": "PHILOSOPHER", "slug": "heidegger" },
+  "to": { "kind": "PHILOSOPHER", "slug": "levinas" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='levinas'>Levinas</ph> construit sa pensée en contestation serrée de <ph id='heidegger'>Heidegger</ph> : contre le primat de l'<c>ontologie</c>, il pose l'<c>éthique</c> comme philosophie première, le visage d'autrui précédant toute compréhension de l'être.",
+    "en": "<ph id='levinas'>Levinas</ph> builds his thought in close contestation of <ph id='heidegger'>Heidegger</ph>: against the primacy of <c>ontology</c>, he posits <c>ethics</c> as first philosophy, the face of the other preceding any understanding of being."
+  },
+  "sources": [
+    { "fr": "Levinas, Totalité et Infini (1961)", "en": "Levinas, Totality and Infinity (1961)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

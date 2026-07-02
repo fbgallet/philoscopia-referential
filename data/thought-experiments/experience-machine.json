@@ -1,0 +1,60 @@
+{
+  "id": "experience-machine",
+  "title": {
+    "fr": "La machine à expériences",
+    "en": "The experience machine"
+  },
+  "description": {
+    "fr": "Imaginez une machine capable de vous procurer toutes les expériences que vous désirez. Des neuropsychologues stimuleraient votre cerveau de sorte que vous croiriez écrire un grand roman, vous faire des amis merveilleux ou vivre les plus belles aventures, alors que vous flotteriez en réalité dans une cuve, des électrodes fixées au crâne. Une fois branché, vous ne sauriez plus que ces expériences sont simulées : de l'intérieur, votre vie serait parfaitement heureuse. Vous pouvez programmer à l'avance toute une existence de bonheur, sans risque de panne. On vous propose de vous brancher pour le reste de votre vie.",
+    "en": "Imagine a machine that could give you any experience you desire. Neuropsychologists would stimulate your brain so that you believed you were writing a great novel, making wonderful friends, or living the most thrilling adventures, while in reality you floated in a tank with electrodes attached to your skull. Once plugged in, you would no longer know the experiences are simulated: from the inside, your life would feel perfectly happy. You can program an entire lifetime of happiness in advance, with no risk of malfunction. You are offered the chance to plug in for the rest of your life."
+  },
+  "source": {
+    "author": { "fr": "Robert Nozick", "en": "Robert Nozick" },
+    "work": { "fr": "Anarchie, État et utopie", "en": "Anarchy, State, and Utopia" },
+    "year": 1974
+  },
+  "question": {
+    "fr": "Accepteriez-vous de vous brancher ? Si vous hésitez, qu'est-ce que cela révèle : qu'une vie bonne demande autre chose que des expériences agréables, aussi parfaites soient-elles ?",
+    "en": "Would you plug in? If you hesitate, what does that reveal: that a good life requires something more than pleasant experiences, however perfect they may be?"
+  },
+  "axisIds": ["SOVEREIGN_GOOD"],
+  "options": [
+    {
+      "id": "plug-in",
+      "label": {
+        "fr": "Si, de l'intérieur, ma vie est parfaitement heureuse, le reste n'a pas d'importance : je me branche.",
+        "en": "If, from the inside, my life feels perfectly happy, nothing else matters: I plug in."
+      },
+      "hints": [{ "axisId": "SOVEREIGN_GOOD", "value": { "kind": "weights", "weights": [0.8, 0.1, 0.1] } }],
+      "discussion": {
+        "fr": "Pour vous, seule compte la qualité du vécu : c'est l'<ax id='SOVEREIGN_GOOD' pole='HEDONISM'>hédonisme expérientiel</ax>, dans la lignée de <ph id='bentham'>Bentham</ph>, pour qui deux vies indiscernables de l'intérieur se valent.",
+        "en": "For you, only the quality of experience counts: this is <ax id='SOVEREIGN_GOOD' pole='HEDONISM'>experiential hedonism</ax>, in the line of <ph id='bentham'>Bentham</ph>, on which two lives indistinguishable from the inside are worth the same."
+      }
+    },
+    {
+      "id": "both-matter",
+      "label": {
+        "fr": "Je prendrais volontiers ces expériences, mais passer ma vie entière dans la cuve me priverait de quelque chose : le vécu compte, pas seulement lui.",
+        "en": "I would gladly take those experiences, but spending my whole life in the tank would deprive me of something: experience matters, but not only experience."
+      },
+      "hints": [{ "axisId": "SOVEREIGN_GOOD", "value": { "kind": "weights", "weights": [0.45, 0.45, 0.1] } }],
+      "discussion": {
+        "fr": "Vous accordez de la valeur au vécu sans y réduire la vie bonne : ce que vous hésitez à abandonner pour toujours, c'est le contact avec le réel.",
+        "en": "You value experience without reducing the good life to it: what you hesitate to give up forever is contact with reality."
+      }
+    },
+    {
+      "id": "refuse",
+      "label": {
+        "fr": "Je veux vraiment faire les choses et toucher le monde, pas seulement en avoir l'impression : je refuse.",
+        "en": "I want to actually do things and touch the world, not merely seem to: I refuse."
+      },
+      "hints": [{ "axisId": "SOVEREIGN_GOOD", "value": { "kind": "weights", "weights": [0.1, 0.6, 0.3] } }],
+      "discussion": {
+        "fr": "Vous tenez au réalisme du bien-être de <ph id='nozick'>Nozick</ph> : nous voulons être quelqu'un et agir réellement, pas seulement éprouver des états agréables.",
+        "en": "You hold to <ph id='nozick'>Nozick</ph>'s wellbeing realism: we want to be someone and to act for real, not merely to undergo pleasant states."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-27T00:00:00.000Z"
+}

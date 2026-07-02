@@ -1,0 +1,17 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "condillac",
+  "stub": true,
+  "name": { "fr": "Condillac", "en": "Condillac" },
+  "fullName": { "fr": "Étienne Bonnot de Condillac", "en": "Étienne Bonnot de Condillac" },
+  "summary": {
+    "fr": "Philosophe français des <mv id='enlightenment'>Lumières</mv>, théoricien du sensualisme : toutes les facultés de l'esprit dérivent de la sensation transformée.",
+    "en": "French philosopher of the <mv id='enlightenment'>Enlightenment</mv>, theorist of sensationism: all the faculties of the mind derive from transformed sensation."
+  },
+  "birth": 1714,
+  "death": 1780,
+  "nationality": { "fr": "Français", "en": "French" },
+  "movements": ["enlightenment"],
+  "updatedAt": "2026-06-25T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

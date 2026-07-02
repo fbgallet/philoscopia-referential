@@ -1,0 +1,12 @@
+{
+  "id": "divertissement",
+  "term": { "fr": "Divertissement", "en": "Divertissement" },
+  "definition": {
+    "fr": "Chez <ph id='pascal'>Pascal</ph>, le divertissement désigne tout ce qui nous détourne de penser à notre condition : le jeu, la chasse, le bruit, l'agitation. Ce n'est pas un simple loisir, mais une fuite, car l'homme, incapable de demeurer en repos dans une chambre, s'étourdit pour ne pas affronter sa finitude et son inquiétude. La notion donne un nom ancien à une expérience très actuelle, celle d'une attention sans cesse sollicitée qui nous tient éloignés de nous-mêmes.",
+    "en": "For <ph id='pascal'>Pascal</ph>, divertissement (diversion) names everything that turns us away from thinking about our own condition: gaming, hunting, noise, restlessness. It is not mere leisure but flight, for human beings, unable to stay quietly in a room, stun themselves so as not to face their finitude and unease. The notion gives an old name to a very present experience: an attention endlessly solicited that keeps us at a distance from ourselves."
+  },
+  "relatedAxes": ["ATTENTION"],
+  "relatedTerms": ["attention-economy"],
+  "figure": { "slug": "pascal", "name": { "fr": "Pascal", "en": "Pascal" } },
+  "updatedAt": "2026-06-22T00:00:00.000Z"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "teletransporter",
+  "title": {
+    "fr": "Le téléporteur",
+    "en": "The teletransporter"
+  },
+  "description": {
+    "fr": "Vous entrez dans un téléporteur. La machine relève l'état exact de chacune de vos cellules, détruit votre corps, puis transmet ces informations vers Mars, où un corps identique est reconstruit à partir de matière neuve. La personne qui en sort a tous vos souvenirs, votre caractère, et le sentiment de venir tout juste d'entrer dans la cabine. Convaincue d'être vous, elle reprend votre vie là où vous l'aviez laissée. D'ordinaire le voyage est sans accroc ; mais aujourd'hui, une question vous retient sur le seuil.",
+    "en": "You step into a teletransporter. The machine records the exact state of each of your cells, destroys your body, then transmits the information to Mars, where an identical body is rebuilt from fresh matter. The person who walks out has all your memories, your character, and the feeling of having just stepped into the booth. Convinced she is you, she takes up your life where you left it. Usually the trip goes without a hitch; but today, a question holds you back on the threshold."
+  },
+  "source": {
+    "author": { "fr": "Derek Parfit", "en": "Derek Parfit" },
+    "work": { "fr": "Raisons et personnes", "en": "Reasons and Persons" },
+    "year": 1984
+  },
+  "question": {
+    "fr": "La personne qui se réveille sur Mars, est-ce vous, ou êtes-vous mort dans la cabine, remplacé par une copie qui se croit vous ?",
+    "en": "Is the person who wakes on Mars you, or did you die in the booth, replaced by a copy who believes she is you?"
+  },
+  "axisIds": ["SELF_NATURE"],
+  "options": [
+    {
+      "id": "substance-did-not-travel",
+      "label": {
+        "fr": "Ce n'est pas moi : quoi qu'on ait transmis, ce que je suis vraiment n'a pas voyagé. L'original est mort, la copie est quelqu'un d'autre.",
+        "en": "It is not me: whatever was transmitted, what I truly am did not travel. The original died, the copy is someone else."
+      },
+      "hints": [{ "axisId": "SELF_NATURE", "value": { "kind": "weights", "weights": [1, 0, 0, 0] } }],
+      "discussion": {
+        "fr": "Pour vous, le moi est une substance qui ne se réduit pas à de l'information : c'est le <ax id='SELF_NATURE' pole='SUBSTANTIALISM'>substantialisme</ax> de <ph id='descartes'>Descartes</ph>, où une copie parfaite reste un autre porteur du « je ».",
+        "en": "For you, the self is a substance not reducible to information: this is <ph id='descartes'>Descartes</ph>'s <ax id='SELF_NATURE' pole='SUBSTANTIALISM'>substantialism</ax>, where a perfect copy remains a different bearer of the \"I\"."
+      }
+    },
+    {
+      "id": "memory-chain-intact",
+      "label": {
+        "fr": "C'est moi : ce qui me fait être moi, c'est la continuité de ma mémoire et de mon caractère, et la personne sur Mars l'a tout entière.",
+        "en": "It is me: what makes me myself is the continuity of my memory and character, and the person on Mars has all of it."
+      },
+      "hints": [{ "axisId": "SELF_NATURE", "value": { "kind": "weights", "weights": [0, 1, 0, 0] } }],
+      "discussion": {
+        "fr": "Vous faites de l'enchaînement des états mentaux le critère du moi : c'est la <ax id='SELF_NATURE' pole='PSYCHOLOGICAL_CONTINUITY'>continuité psychologique</ax> de <ph id='locke'>Locke</ph>. <ph id='parfit'>Parfit</ph> ajoute que cette continuité importe peut-être plus que l'identité elle-même.",
+        "en": "You make the chain of mental states the criterion of the self: this is <ph id='locke'>Locke</ph>'s <ax id='SELF_NATURE' pole='PSYCHOLOGICAL_CONTINUITY'>psychological continuity</ax>. <ph id='parfit'>Parfit</ph> adds that this continuity may matter more than identity itself."
+      }
+    },
+    {
+      "id": "story-goes-on",
+      "label": {
+        "fr": "Mon histoire se poursuit en elle : elle reprend mes projets, mes liens, mon passé comme les siens. C'est cela, être encore moi.",
+        "en": "My story continues in her: she takes up my projects, my bonds, my past as her own. That is what it is to still be me."
+      },
+      "hints": [{ "axisId": "SELF_NATURE", "value": { "kind": "weights", "weights": [0, 0, 1, 0] } }],
+      "discussion": {
+        "fr": "Vous tenez le moi pour un récit qui se continue : c'est le <ax id='SELF_NATURE' pole='NARRATIVISM'>narrativisme</ax> de <ph id='ricoeur'>Ricœur</ph>, où l'identité est l'intrigue d'une vie, ici sans rupture.",
+        "en": "You take the self to be a story that continues: this is <ph id='ricoeur'>Ricœur</ph>'s <ax id='SELF_NATURE' pole='NARRATIVISM'>narrativism</ax>, where identity is the plot of a life, here unbroken."
+      }
+    },
+    {
+      "id": "no-fact-of-the-matter",
+      "label": {
+        "fr": "La question n'a pas de réponse profonde : « moi » n'a jamais été qu'un faisceau d'états. Demander si la copie est « vraiment » moi suppose un moi qui n'existe pas.",
+        "en": "There is no deep answer: \"me\" was never more than a bundle of states. Asking whether the copy is \"really\" me assumes a self that does not exist."
+      },
+      "hints": [{ "axisId": "SELF_NATURE", "value": { "kind": "weights", "weights": [0, 0, 0, 1] } }],
+      "discussion": {
+        "fr": "Vous dissolvez la question avec la théorie du <ax id='SELF_NATURE' pole='BUNDLE_THEORY'>faisceau</ax> de <ph id='hume'>Hume</ph> et du <mv id='buddhism'>bouddhisme</mv> : ôtez la fiction d'un moi permanent, et le casse-tête disparaît.",
+        "en": "You dissolve the question with the <ax id='SELF_NATURE' pole='BUNDLE_THEORY'>bundle theory</ax> of <ph id='hume'>Hume</ph> and <mv id='buddhism'>Buddhism</mv>: remove the fiction of a permanent self, and the puzzle vanishes."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-27T00:00:00.000Z"
+}

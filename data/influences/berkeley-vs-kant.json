@@ -1,0 +1,16 @@
+{
+  "id": "berkeley-vs-kant",
+  "from": { "kind": "PHILOSOPHER", "slug": "berkeley" },
+  "to": { "kind": "PHILOSOPHER", "slug": "kant" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='kant'>Kant</ph> définit son <c>idéalisme transcendantal</c> en le démarquant de ce qu'il nomme l'<c>idéalisme dogmatique</c> de <ph id='berkeley'>Berkeley</ph>, lequel nie la matière indépendante de l'esprit. La Réfutation de l'idéalisme de la <w id='critique-of-pure-reason-kant'>Critique de la raison pure</w> vise d'abord l'idéalisme problématique de <ph id='descartes'>Descartes</ph> ; le contraste avec Berkeley, lui, est explicite et central pour le positionnement de Kant.",
+    "en": "<ph id='kant'>Kant</ph> defines his <c>transcendental idealism</c> by demarcating it from what he calls <ph id='berkeley'>Berkeley</ph>'s <c>dogmatic idealism</c>, which denies mind-independent matter. The Refutation of Idealism in the <w id='critique-of-pure-reason-kant'>Critique of Pure Reason</w> primarily targets <ph id='descartes'>Descartes</ph>'s problematic idealism; the opposition to Berkeley, however, is explicit and central to Kant's self-positioning."
+  },
+  "sources": [
+    { "fr": "Kant, Critique de la raison pure (Réfutation de l'idéalisme) ; Prolégomènes (réponse à la recension de Göttingen)", "en": "Kant, Critique of Pure Reason (Refutation of Idealism); Prolegomena (reply to the Göttingen review)" }
+  ],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

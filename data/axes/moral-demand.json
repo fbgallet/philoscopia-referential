@@ -1,0 +1,88 @@
+{
+  "id": "MORAL_DEMAND",
+  "relation": "OTHERS",
+  "territory": "MORALS",
+  "label": {
+    "fr": "Exigence morale",
+    "en": "Moral demandingness"
+  },
+  "question": {
+    "fr": "Jusqu'où la morale exige-t-elle de nous ?",
+    "en": "How much does morality demand of us?"
+  },
+  "stakes": {
+    "fr": "Suffit-il de ne nuire à personne, ou faut-il donner sans relâche tant qu'un malheur reste à soulager ? Une morale modeste laisse en paix mais peut couvrir l'indifférence ; une morale exigeante élève, mais peut nous rendre coupables de tout ce qu'on n'a pas fait. Se positionner, c'est dire où finit le devoir et où commence l'héroïsme qu'on ne peut exiger.",
+    "en": "Is it enough to harm no one, or must we give without respite as long as some misery remains to be relieved? A modest morality leaves us in peace but can cover indifference; a demanding one ennobles, but can leave us guilty of all we failed to do. To take a position is to say where duty ends and the heroism no one can require begins."
+  },
+  "layer": "VALUE",
+  "type": "BIPOLAR",
+  "poles": [
+    {
+      "id": "MINIMALISM",
+      "label": {
+        "fr": "Minimalisme",
+        "en": "Minimalism"
+      },
+      "description": {
+        "fr": "La morale exige peu de choses, mais elle les exige fermement : ne pas nuire à autrui, respecter sa liberté. Tant que je ne fais de tort à personne, ma vie ne regarde que moi, et nul ne peut m'imposer un idéal de sainteté ou de sacrifice.",
+        "en": "Morality demands few things, but it demands them firmly: do not harm others, respect their freedom. As long as I wrong no one, my life is my own business, and no one may impose on me an ideal of saintliness or sacrifice."
+      },
+      "figures": [
+        {
+          "slug": "mill",
+          "name": {
+            "fr": "Mill",
+            "en": "Mill"
+          }
+        },
+        {
+          "slug": "ogien",
+          "name": {
+            "fr": "Ogien",
+            "en": "Ogien"
+          }
+        }
+      ]
+    },
+    {
+      "id": "MAXIMALISM",
+      "label": {
+        "fr": "Maximalisme",
+        "en": "Maximalism"
+      },
+      "description": {
+        "fr": "La morale exige beaucoup : si je peux empêcher un grand mal au prix d'un sacrifice modeste, je dois le faire. Nos devoirs ne s'arrêtent pas à l'abstention de nuire, ils incluent l'aide active aux plus démunis, où qu'ils soient, et peuvent réclamer une part importante de nos ressources.",
+        "en": "Morality demands a great deal: if I can prevent a great harm at a modest cost to myself, I must do so. Our duties do not stop at refraining from harm; they include actively helping those most in need, wherever they are, and may claim a substantial share of our resources."
+      },
+      "figures": [
+        {
+          "slug": "singer",
+          "name": {
+            "fr": "Singer",
+            "en": "Singer"
+          }
+        },
+        {
+          "slug": "effective-altruism",
+          "name": {
+            "fr": "Altruisme efficace",
+            "en": "Effective altruism"
+          }
+        }
+      ]
+    }
+  ],
+  "core": true,
+  "difficulty": 1,
+  "clusters": [
+    "MORAL_EXPANSION"
+  ],
+  "relatedAxes": [
+    "ETHICS_FOUNDATION",
+    "MORAL_CIRCLE",
+    "PARTIALITY",
+    "SELF_INTEREST",
+    "FORGIVENESS",
+    "DISTRIBUTIVE_JUSTICE"
+  ]
+}

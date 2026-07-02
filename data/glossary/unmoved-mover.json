@@ -1,0 +1,13 @@
+{
+  "id": "unmoved-mover",
+  "term": { "fr": "Le premier moteur immobile", "en": "The unmoved mover" },
+  "definition": {
+    "fr": "Le premier moteur immobile est, chez <ph id='aristotle'>Aristote</ph>, le principe ultime du mouvement de l'univers : pour éviter une régression à l'infini des causes, il faut poser un terme qui meut sans être lui-même mû. Ce moteur n'agit pas mécaniquement mais comme une cause finale, en étant désiré : il meut le monde comme l'objet aimé meut celui qui l'aime. Pur acte et pensée se pensant elle-même, ce divin impersonnel n'est ni un créateur ni une providence, mais la perfection vers laquelle tout tend.",
+    "en": "The unmoved mover is, in <ph id='aristotle'>Aristotle</ph>, the ultimate principle of the universe's motion: to avoid an infinite regress of causes, one must posit a term that moves without itself being moved. This mover acts not mechanically but as a final cause, by being desired: it moves the world as the beloved object moves the one who loves it. Pure act and thought thinking itself, this impersonal divine is neither a creator nor a providence, but the perfection toward which everything tends."
+  },
+  "relatedAxes": ["GOD_EXISTENCE", "CAUSALITY"],
+  "relatedTerms": ["four-causes"],
+  "figure": { "slug": "aristotle", "name": { "fr": "Aristote", "en": "Aristotle" } },
+  "positions": [{ "axisId": "GOD_EXISTENCE", "poleId": "THEISM" }],
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "TIME_ORIENTATION",
+  "relation": "SELF",
+  "territory": "EXISTENCE",
+  "label": {
+    "fr": "Orientation temporelle",
+    "en": "Temporal orientation"
+  },
+  "question": {
+    "fr": "Vers quelle dimension du temps faut-il orienter sa vie : le présent, l'avenir ou le passé ?",
+    "en": "Toward which dimension of time should we orient our life: the present, the future, or the past?"
+  },
+  "stakes": {
+    "fr": "Vivre pour l'instant savoure la vie mais peut perdre le cap ; vivre pour l'avenir construit et prépare, mais sacrifie parfois aujourd'hui à un demain qui ne vient pas ; vivre depuis le passé honore ses racines, mais peut y enfermer. Se positionner, c'est dire où poser le poids d'une vie.",
+    "en": "Living for the moment savours life but can lose its bearings; living for the future builds and prepares, but sometimes sacrifices today to a tomorrow that never comes; living from the past honours one's roots, but can imprison us in them. To take a position is to say where to place the weight of a life."
+  },
+  "layer": "VALUE",
+  "type": "TRIANGULAR",
+  "poles": [
+    {
+      "id": "PRESENTISM",
+      "label": {
+        "fr": "Présentisme",
+        "en": "Presentism"
+      },
+      "description": {
+        "fr": "Seul le présent nous appartient : carpe diem, cueille le jour. Plutôt que de se perdre dans les regrets ou les attentes, la sagesse consiste à habiter pleinement l'instant et à goûter ce qui est là.",
+        "en": "Only the present belongs to us: carpe diem, seize the day. Rather than losing ourselves in regrets or expectations, wisdom consists in fully inhabiting the moment and savoring what is here."
+      },
+      "figures": [
+        {
+          "slug": "epicurus",
+          "name": {
+            "fr": "Épicure",
+            "en": "Epicurus"
+          }
+        },
+        {
+          "slug": "montaigne",
+          "name": {
+            "fr": "Montaigne",
+            "en": "Montaigne"
+          }
+        }
+      ]
+    },
+    {
+      "id": "PROJECT",
+      "label": {
+        "fr": "Projet",
+        "en": "Project"
+      },
+      "description": {
+        "fr": "Exister, c'est se projeter : l'être humain se définit par ce qu'il entreprend et par l'avenir qu'il se donne. La vie tire son sens de ce mouvement vers ce qui n'est pas encore, et se réduire au présent serait renoncer à soi.",
+        "en": "To exist is to project oneself: human beings are defined by what they undertake and by the future they set for themselves. Life draws its meaning from this movement toward what is not yet, and confining oneself to the present would mean giving up on oneself."
+      },
+      "figures": [
+        {
+          "slug": "sartre",
+          "name": {
+            "fr": "Sartre",
+            "en": "Sartre"
+          }
+        }
+      ]
+    },
+    {
+      "id": "MEMORY_TRANSMISSION",
+      "label": {
+        "fr": "Mémoire-transmission",
+        "en": "Memory and transmission"
+      },
+      "description": {
+        "fr": "Nous sommes des héritiers : ce que nous avons reçu du passé nous constitue et appelle à être transmis. Cultiver la mémoire, honorer ses dettes et léguer quelque chose aux générations futures donnent à la vie sa profondeur.",
+        "en": "We are heirs: what we have received from the past constitutes us and calls to be passed on. Cultivating memory, honoring our debts and leaving something to future generations give life its depth."
+      },
+      "figures": [
+        {
+          "slug": "burke",
+          "name": {
+            "fr": "Burke",
+            "en": "Burke"
+          }
+        },
+        {
+          "slug": "confucius",
+          "name": {
+            "fr": "Confucius",
+            "en": "Confucius"
+          }
+        }
+      ]
+    }
+  ],
+  "core": true,
+  "difficulty": 1,
+  "clusters": [],
+  "relatedAxes": [
+    "ATTENTION",
+    "DEATH",
+    "LIFE_MEANING",
+    "PAST_RELATION"
+  ]
+}

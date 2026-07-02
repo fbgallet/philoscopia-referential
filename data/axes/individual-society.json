@@ -1,0 +1,84 @@
+{
+  "id": "INDIVIDUAL_SOCIETY",
+  "relation": "OTHERS",
+  "territory": "SOCIETY_POLITICS",
+  "label": {
+    "fr": "Individu et société",
+    "en": "Individual and society"
+  },
+  "question": {
+    "fr": "Pour comprendre la vie sociale, faut-il partir des individus ou du tout social ?",
+    "en": "To understand social life, should we start from individuals or from the social whole?"
+  },
+  "stakes": {
+    "fr": "La société n'est-elle que des individus et leurs choix, ou un tout qui les façonne plus qu'ils ne le savent ? Selon la réponse, on explique une crise ou une coutume par des décisions personnelles ou par des structures, et l'on ne tient pas les mêmes responsables. Se positionner, c'est dire ce qui, du tout ou des parties, fait vraiment l'histoire.",
+    "en": "Is society merely individuals and their choices, or a whole that shapes them more than they know? Depending on the answer, we explain a crisis or a custom by personal decisions or by structures, and we hold different parties responsible. To take a position is to say what truly makes history: the whole, or the parts."
+  },
+  "layer": "THEORY",
+  "type": "BIPOLAR",
+  "poles": [
+    {
+      "id": "INDIVIDUALISM",
+      "label": {
+        "fr": "Individualisme",
+        "en": "Individualism"
+      },
+      "description": {
+        "fr": "La société n'est rien d'autre que les individus qui la composent et leurs interactions. Ce sont leurs choix, leurs intérêts et leurs droits qui expliquent les phénomènes sociaux, et c'est à partir d'eux qu'il faut penser les institutions.",
+        "en": "Society is nothing more than the individuals who compose it and their interactions. Their choices, interests, and rights explain social phenomena, and institutions must be conceived starting from them."
+      },
+      "figures": [
+        {
+          "slug": "locke",
+          "name": {
+            "fr": "Locke",
+            "en": "Locke"
+          }
+        },
+        {
+          "slug": "mill",
+          "name": {
+            "fr": "Mill",
+            "en": "Mill"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HOLISM",
+      "label": {
+        "fr": "Holisme",
+        "en": "Holism"
+      },
+      "description": {
+        "fr": "Le tout social est plus que la somme de ses parties : il possède ses propres lois et exerce sur les individus une influence qui les dépasse. Nos manières de penser, de sentir et d'agir sont d'abord façonnées par la société qui nous précède.",
+        "en": "The social whole is more than the sum of its parts: it has laws of its own and exerts an influence on individuals that exceeds them. Our ways of thinking, feeling, and acting are shaped first by the society that precedes us."
+      },
+      "figures": [
+        {
+          "slug": "durkheim",
+          "name": {
+            "fr": "Durkheim",
+            "en": "Durkheim"
+          }
+        },
+        {
+          "slug": "hegel",
+          "name": {
+            "fr": "Hegel",
+            "en": "Hegel"
+          }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 2,
+  "clusters": [],
+  "relatedAxes": [
+    "SOCIAL_IDENTITY",
+    "POLITICAL_LIBERTY",
+    "SELF_INTEREST",
+    "SOCIAL_CONTRACT"
+  ]
+}

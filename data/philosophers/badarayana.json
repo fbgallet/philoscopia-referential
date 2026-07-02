@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "badarayana",
+  "stub": true,
+  "name": {
+    "fr": "Bādarāyaṇa",
+    "en": "Bādarāyaṇa"
+  },
+  "summary": {
+    "fr": "Auteur traditionnel des Brahma-Sūtra, texte fondateur du <mv id='vedanta'>Vedānta</mv> qui systématise l'enseignement des Upaniṣad.",
+    "en": "Traditional author of the Brahma-Sūtra, the foundational text of <mv id='vedanta'>Vedānta</mv> systematizing the teaching of the Upaniṣads."
+  },
+  "nationality": {
+    "fr": "Indien",
+    "en": "Indian"
+  },
+  "movements": [
+    "vedanta"
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

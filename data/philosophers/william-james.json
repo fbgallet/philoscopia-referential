@@ -1,0 +1,16 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "william-james",
+  "name": { "fr": "William James", "en": "William James" },
+  "summary": {
+    "fr": "Philosophe et psychologue américain, figure du pragmatisme : il mesure la vérité d'une idée à ses effets pratiques et défend le droit de croire quand l'enjeu est vital et la preuve indécise.",
+    "en": "American philosopher and psychologist, a leading figure of pragmatism: he measures the truth of an idea by its practical effects and defends the right to believe when the stakes are vital and the evidence undecided."
+  },
+  "nationality": { "fr": "Américain", "en": "American" },
+  "birth": 1842,
+  "death": 1910,
+  "movements": ["pragmatism"],
+  "updatedAt": "2026-06-22T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

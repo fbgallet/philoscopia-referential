@@ -1,0 +1,16 @@
+{
+  "id": "popper-vs-feyerabend",
+  "from": { "kind": "PHILOSOPHER", "slug": "popper" },
+  "to": { "kind": "PHILOSOPHER", "slug": "feyerabend" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='feyerabend'>Feyerabend</ph> se forme au contact de <ph id='popper'>Popper</ph> avant de retourner son anti-dogmatisme contre lui : aucune <c>méthode</c> unique ne gouverne la science, et le progrès suppose au contraire un anarchisme épistémologique, <q>tout est bon</q>.",
+    "en": "<ph id='feyerabend'>Feyerabend</ph> is formed in contact with <ph id='popper'>Popper</ph> before turning his anti-dogmatism against him: no single <c>method</c> governs science, and progress requires, on the contrary, an epistemological anarchism, <q>anything goes</q>."
+  },
+  "sources": [
+    { "fr": "Feyerabend, Contre la méthode (1975)", "en": "Feyerabend, Against Method (1975)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

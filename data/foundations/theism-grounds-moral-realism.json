@@ -1,0 +1,12 @@
+{
+  "id": "theism-grounds-moral-realism",
+  "ground": { "axisId": "GOD_EXISTENCE", "poleId": "THEISM" },
+  "grounded": { "axisId": "MORAL_SCOPE", "poleId": "UNIVERSALISM_REALISM" },
+  "kind": "T_T",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Un Dieu créateur et législateur garantit l'existence d'un ordre moral inscrit dans la nature des choses et valable pour tous. Le théisme fournit ainsi un socle au réalisme moral universaliste, en ancrant le bien dans une volonté ou une raison divine.",
+    "en": "A creating and law-giving God guarantees a moral order written into the nature of things and binding on all. Theism thus provides a footing for universalist moral realism by anchoring the good in a divine will or reason."
+  },
+  "updatedAt": "2026-06-14T00:00:00.000Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "hume-to-bentham",
+  "from": { "kind": "PHILOSOPHER", "slug": "hume" },
+  "to": { "kind": "PHILOSOPHER", "slug": "bentham" },
+  "directness": "ATTESTED",
+  "mode": "TRANSMITS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='bentham'>Bentham</ph> rapporte qu'à la lecture de <ph id='hume'>Hume</ph> les écailles lui tombèrent des yeux : il y trouve le naturalisme psychologique et l'idée que l'<c>utilité</c> est la mesure du bien, qu'il érige en principe de l'<mv id='utilitarianism'>utilitarisme</mv>.",
+    "en": "<ph id='bentham'>Bentham</ph> reports that on reading <ph id='hume'>Hume</ph> the scales fell from his eyes: there he finds psychological naturalism and the idea that <c>utility</c> is the measure of good, which he erects into the principle of <mv id='utilitarianism'>utilitarianism</mv>."
+  },
+  "sources": [
+    { "fr": "Bentham, Introduction aux principes de la morale et de la législation (1789)", "en": "Bentham, An Introduction to the Principles of Morals and Legislation (1789)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

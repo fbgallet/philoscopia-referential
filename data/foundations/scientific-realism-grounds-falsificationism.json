@@ -1,0 +1,12 @@
+{
+  "id": "scientific-realism-grounds-falsificationism",
+  "ground": { "axisId": "KNOWLEDGE_STATUS", "poleId": "SCIENTIFIC_REALISM" },
+  "grounded": { "axisId": "SCIENTIFIC_METHOD", "poleId": "FALSIFICATIONISM" },
+  "kind": "T_T",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si la science vise une vérité qu'elle n'atteint jamais avec certitude, alors elle progresse non en prouvant ses théories mais en les exposant à ce qui pourrait les réfuter. Le réalisme scientifique soutient le falsificationnisme : <ph id='popper'>Popper</ph> tient une théorie pour scientifique dans la mesure même où elle prend le risque d'être démentie.",
+    "en": "If science aims at a truth it never attains with certainty, then it advances not by proving its theories but by exposing them to what could refute them. Scientific realism supports falsificationism: <ph id='popper'>Popper</ph> holds a theory to be scientific precisely insofar as it takes the risk of being disproved."
+  },
+  "updatedAt": "2026-06-22T00:00:00.000Z"
+}

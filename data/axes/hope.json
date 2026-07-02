@@ -1,0 +1,85 @@
+{
+  "id": "HOPE",
+  "relation": "SELF",
+  "territory": "ADVERSITY",
+  "label": {
+    "fr": "Espoir",
+    "en": "Hope"
+  },
+  "question": {
+    "fr": "L'espoir est-il une force qui fait vivre et agir, ou une illusion dont il faut se déprendre ?",
+    "en": "Is hope a force that sustains life and action, or an illusion we ought to let go of?"
+  },
+  "stakes": {
+    "fr": "L'espoir donne la force de tenir et d'agir quand tout semble perdu, mais peut nous aveugler sur ce qui est et nous faire remettre la vie à plus tard ; y renoncer peut libérer le courage de regarder le réel en face, ou tarir l'élan d'avancer. Se positionner, c'est dire si l'on peut être lucide sans cesser d'espérer.",
+    "en": "Hope gives the strength to hold on and to act when all seems lost, but it can blind us to what is and make us put life off until later; giving it up can free the courage to face the real, or dry up the drive to go on. To take a position is to say whether one can be lucid without ceasing to hope."
+  },
+  "layer": "VALUE",
+  "type": "BIPOLAR",
+  "poles": [
+    {
+      "id": "HOPE_PRINCIPLE",
+      "label": {
+        "fr": "Principe espérance",
+        "en": "The principle of hope"
+      },
+      "description": {
+        "fr": "Espérer n'est pas se bercer d'illusions : c'est une condition de l'action et du progrès. L'espérance oriente nos efforts vers ce qui n'est pas encore, soutient l'engagement moral et ouvre l'avenir comme champ du possible.",
+        "en": "To hope is not to indulge in illusions: it is a condition of action and progress. Hope directs our efforts toward what is not yet, sustains moral commitment, and opens the future as a field of possibility."
+      },
+      "figures": [
+        {
+          "slug": "kant",
+          "name": {
+            "fr": "Kant",
+            "en": "Kant"
+          }
+        },
+        {
+          "slug": "bloch",
+          "name": {
+            "fr": "Bloch",
+            "en": "Bloch"
+          }
+        }
+      ]
+    },
+    {
+      "id": "LUCIDITY_WITHOUT_HOPE",
+      "label": {
+        "fr": "Lucidité sans espoir",
+        "en": "Lucidity without hope"
+      },
+      "description": {
+        "fr": "L'espoir détourne du présent et prépare la déception : il nous fait vivre dans un avenir qui n'existe pas. La sagesse consiste à regarder le réel en face, sans consolation, et à trouver dans cette lucidité même une forme de liberté.",
+        "en": "Hope distracts us from the present and sets us up for disappointment: it makes us live in a future that does not exist. Wisdom consists in facing reality squarely, without consolation, and finding in that very lucidity a form of freedom."
+      },
+      "figures": [
+        {
+          "slug": "camus",
+          "name": {
+            "fr": "Camus",
+            "en": "Camus"
+          }
+        },
+        {
+          "slug": "schopenhauer",
+          "name": {
+            "fr": "Schopenhauer",
+            "en": "Schopenhauer"
+          }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 1,
+  "clusters": [
+    "WISDOM_ACCEPTANCE"
+  ],
+  "relatedAxes": [
+    "CONTROL_SCOPE",
+    "COSMIC_OUTLOOK",
+    "SUFFERING_MEANING"
+  ]
+}

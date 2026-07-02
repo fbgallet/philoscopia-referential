@@ -1,0 +1,12 @@
+{
+  "id": "rationalism-grounds-dogmatism",
+  "ground": { "axisId": "KNOWLEDGE_SOURCE", "poleId": "RATIONALISM" },
+  "grounded": { "axisId": "CERTAINTY", "poleId": "DOGMATISM" },
+  "kind": "T_T",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si la <ax id='KNOWLEDGE_SOURCE'>raison</ax> dispose de principes premiers et d'<c id='innate-ideas'>idées innées</c> indépendants des sens trompeurs, alors une vérité certaine et définitive est à sa portée. Le rationalisme nourrit ainsi le <c id='dogmatism'>dogmatisme</c> : c'est en cherchant un fondement que la raison ne pourrait révoquer que Descartes croit clore le doute.",
+    "en": "If <ax id='KNOWLEDGE_SOURCE'>reason</ax> commands first principles and <c id='innate-ideas'>innate ideas</c> independent of the deceptive senses, then a certain and definitive truth lies within its reach. Rationalism thus feeds <c id='dogmatism'>dogmatism</c>: it is by seeking a foundation reason could not revoke that Descartes believes he closes off doubt."
+  },
+  "updatedAt": "2026-06-19T00:00:00.000Z"
+}

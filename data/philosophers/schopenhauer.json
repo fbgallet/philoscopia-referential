@@ -1,0 +1,16 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "schopenhauer",
+  "name": { "fr": "Schopenhauer", "en": "Schopenhauer" },
+  "summary": {
+    "fr": "Philosophe allemand pessimiste : il voit dans le monde l'expression d'un vouloir-vivre aveugle, dont l'amour n'est que la ruse pour perpétuer l'espèce, et dans l'art une échappée hors du désir.",
+    "en": "German pessimist philosopher: he sees the world as the expression of a blind will-to-live, of which love is merely the ruse to perpetuate the species, and art an escape from desire."
+  },
+  "nationality": { "fr": "Allemand", "en": "German" },
+  "birth": 1788,
+  "death": 1860,
+  "movements": [],
+  "updatedAt": "2026-06-22T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

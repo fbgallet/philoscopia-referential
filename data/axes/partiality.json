@@ -1,0 +1,91 @@
+{
+  "id": "PARTIALITY",
+  "relation": "OTHERS",
+  "territory": "BONDS",
+  "label": {
+    "fr": "Partialité",
+    "en": "Partiality"
+  },
+  "question": {
+    "fr": "Est-il juste d'accorder une priorité morale à nos proches ?",
+    "en": "Is it right to give moral priority to those close to us?"
+  },
+  "stakes": {
+    "fr": "Nous sentons devoir plus à nos enfants, nos amis, nos proches qu'à des inconnus ; pourtant la morale semble réclamer une égale considération pour tous. Privilégier les siens peut glisser vers l'injustice, traiter chacun pareil peut devenir inhumain. Se positionner, c'est dire si aimer les siens et être juste tirent dans le même sens.",
+    "en": "We feel we owe more to our children, our friends, our kin than to strangers; yet morality seems to demand equal regard for all. Favouring our own can slide into injustice; treating everyone alike can become inhuman. To take a position is to say whether loving one's own and being just pull the same way."
+  },
+  "layer": "VALUE",
+  "type": "BIPOLAR_MEDIAN",
+  "poles": [
+    {
+      "id": "IMPARTIALISM",
+      "label": {
+        "fr": "Impartialisme",
+        "en": "Impartialism"
+      },
+      "description": {
+        "fr": "La morale exige de considérer chaque personne de manière égale : les intérêts d'un inconnu comptent autant que ceux d'un proche. Favoriser les siens, c'est céder à un préjugé que la raison morale doit corriger.",
+        "en": "Morality demands that we consider every person equally: a stranger's interests count as much as those of someone close to us. Favoring our own is a bias that moral reason must correct."
+      },
+      "figures": [
+        {
+          "slug": "kant",
+          "name": {
+            "fr": "Kant",
+            "en": "Kant"
+          }
+        },
+        {
+          "slug": "singer",
+          "name": {
+            "fr": "Singer",
+            "en": "Singer"
+          }
+        }
+      ]
+    },
+    {
+      "id": "PARTIALISM",
+      "label": {
+        "fr": "Partialisme",
+        "en": "Partialism"
+      },
+      "description": {
+        "fr": "Nos liens particuliers, famille, amis, communauté, fondent des obligations spéciales légitimes. Une morale qui exigerait de traiter ses proches comme des étrangers méconnaîtrait ce qui donne sens à la vie morale : le soin concret porté à ceux qui dépendent de nous.",
+        "en": "Our particular bonds, family, friends, community, ground legitimate special obligations. A morality that required us to treat loved ones like strangers would miss what gives moral life its meaning: concrete care for those who depend on us."
+      },
+      "figures": [
+        {
+          "slug": "gilligan",
+          "name": {
+            "fr": "Gilligan",
+            "en": "Gilligan"
+          }
+        },
+        {
+          "slug": "confucius",
+          "name": {
+            "fr": "Confucius",
+            "en": "Confucius"
+          }
+        }
+      ]
+    }
+  ],
+  "medianLabel": {
+    "fr": "Cercles concentriques",
+    "en": "Concentric circles"
+  },
+  "medianDescription": {
+    "fr": "Notre souci des autres se déploie en cercles : intense pour les proches, il s'étend, en s'atténuant, jusqu'aux inconnus. Loin de contredire l'impartialité, cette priorité accordée aux nôtres peut en découler : c'est auprès d'eux que nous savons et pouvons le plus, et un monde où chacun veille d'abord sur les siens prend mieux soin de tous. La tâche morale n'est pas d'abolir ces cercles, mais d'élargir vers le dehors le soin qu'on éprouve au-dedans.",
+    "en": "Our concern for others spreads out in circles: intense for those close to us, it reaches, fading as it goes, all the way to strangers. Far from contradicting impartiality, this priority given to our own can follow from it: it is with them that we know and can do the most, and a world where each tends first to their own takes better care of everyone. The moral task is not to abolish these circles but to widen outward the care we feel within."
+  },
+  "core": true,
+  "difficulty": 1,
+  "clusters": [],
+  "relatedAxes": [
+    "BELONGING",
+    "MORAL_DEMAND",
+    "SELF_INTEREST"
+  ]
+}

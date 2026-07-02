@@ -1,0 +1,109 @@
+{
+  "id": "INTERIORITY",
+  "relation": "SELF",
+  "territory": "PRESENCE",
+  "label": {
+    "fr": "Intériorité",
+    "en": "Interiority"
+  },
+  "question": {
+    "fr": "Faut-il examiner sa vie intérieure ou se réaliser d'abord dans l'action ?",
+    "en": "Should we examine our inner life, or fulfill ourselves first and foremost through action?"
+  },
+  "stakes": {
+    "fr": "Se tourner vers le dedans éclaire qui l'on est, mais peut tourner à la rumination loin du monde ; se jeter dans l'action accomplit beaucoup, mais risque d'esquiver la question de qui agit et pour quoi. Se positionner, c'est dire où le moi se trouve vraiment : dans le retour sur soi, ou dans ce qu'on fait.",
+    "en": "Turning inward sheds light on who we are, but can slide into rumination far from the world; throwing oneself into action accomplishes much, but risks dodging the question of who is acting, and for what. To take a position is to say where the self is truly found: in the return to oneself, or in what one does."
+  },
+  "layer": "VALUE",
+  "type": "BIPOLAR",
+  "poles": [
+    {
+      "id": "EXAMINED_LIFE",
+      "label": {
+        "fr": "Vie examinée",
+        "en": "The examined life"
+      },
+      "description": {
+        "fr": "Une vie sans examen ne vaut pas la peine d'être vécue : il faut régulièrement se retirer en soi-même, interroger ses opinions, ses désirs et ses actes. La connaissance de soi est la condition d'une existence lucide et véritablement libre.",
+        "en": "The unexamined life is not worth living: we must regularly withdraw into ourselves to question our opinions, desires, and actions. Self-knowledge is the condition of a lucid and genuinely free existence."
+      },
+      "figures": [
+        {
+          "slug": "socrates",
+          "name": {
+            "fr": "Socrate",
+            "en": "Socrates"
+          }
+        },
+        {
+          "slug": "montaigne",
+          "name": {
+            "fr": "Montaigne",
+            "en": "Montaigne"
+          }
+        }
+      ]
+    },
+    {
+      "id": "PRIMACY_OF_ACTION",
+      "label": {
+        "fr": "Primat de l'action",
+        "en": "Primacy of action"
+      },
+      "description": {
+        "fr": "C'est dans l'action, l'engagement et l'œuvre que l'on se découvre et que l'on se construit, non dans l'introspection. Trop scruter sa vie intérieure risque de paralyser, voire de fabriquer des problèmes imaginaires : le soi se révèle en agissant dans le monde.",
+        "en": "It is through action, commitment, and accomplishment that we discover and shape ourselves, not through introspection. Scrutinizing our inner life too closely risks paralysis, or even inventing imaginary problems: the self reveals itself by acting in the world."
+      },
+      "figures": [
+        {
+          "slug": "arendt",
+          "name": {
+            "fr": "Arendt",
+            "en": "Arendt"
+          }
+        },
+        {
+          "slug": "marx",
+          "name": {
+            "fr": "Marx",
+            "en": "Marx"
+          }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 1,
+  "clusters": [],
+  "relatedAxes": [
+    "ATTENTION",
+    "LIFE_MEANING",
+    "SOVEREIGN_GOOD"
+  ],
+  "problems": [
+    {
+      "id": "what-to-do-with-attention",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "son attention", "en": "one's attention" },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "EXISTENTIAL",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "attention", "en": "attention" },
+        { "fr": "présence", "en": "presence" },
+        { "fr": "diversion", "en": "diversion" }
+      ],
+      "poles": ["EXAMINED_LIFE"],
+      "anchors": [
+        { "name": { "fr": "Simone Weil", "en": "Simone Weil" }, "kind": "PHILOSOPHER", "slug": "simone-weil" }
+      ],
+      "doorways": [{ "axis": "ATTENTION" }],
+      "title": { "fr": "Que faire de son attention ?", "en": "What to do with one's attention?" },
+      "explicitation": {
+        "fr": "Examiner sa vie comme agir demandent une ressource que tout dispute : l'attention. Ce qu'on regarde, et ce dont on se détourne, dessine déjà une existence ; reste à savoir quelle part peut aller à la diversion.",
+        "en": "Examining one's life, like acting, demands a resource everything competes for: attention. What we look at, and what we turn from, already shapes an existence; the question is what share may go to diversion."
+      }
+    }
+  ]
+}

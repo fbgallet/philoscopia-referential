@@ -1,0 +1,12 @@
+{
+  "id": "xiaoyao-you",
+  "term": { "fr": "Xiaoyao you 逍遙遊 (la libre errance)", "en": "Xiaoyao you 逍遙遊 (free and easy wandering)" },
+  "definition": {
+    "fr": "La « libre errance » est l'idéal d'un esprit qui se promène sans entrave ni but, déprise de l'utilité, des honneurs et des points de vue fixés. Image-titre du premier chapitre du <w id='zhuangzi-zhuangzi'>Zhuangzi</w>, elle nomme une liberté qui n'est pas le libre arbitre d'une volonté, mais l'aisance joueuse de qui ne s'agrippe à rien et épouse le cours des choses en suivant le <c id='dao'>Dao</c>. Pour <ph id='zhuangzi'>Zhuangzi</ph>, c'est en ce vagabondage sans poids que se tient le <ax id='SOVEREIGN_GOOD'>souverain bien</ax>.",
+    "en": "\"Free and easy wandering\" is the ideal of a spirit that roams unhindered and aimless, loosened from usefulness, honors and fixed standpoints. The title-image of the first chapter of the <w id='zhuangzi-zhuangzi'>Zhuangzi</w>, it names a freedom that is not the free will of a willing subject, but the playful ease of one who clings to nothing and espouses the course of things by following the <c id='dao'>Dao</c>. For <ph id='zhuangzi'>Zhuangzi</ph>, it is in this weightless roaming that the <ax id='SOVEREIGN_GOOD'>sovereign good</ax> resides."
+  },
+  "relatedAxes": ["SOVEREIGN_GOOD", "FREEDOM"],
+  "relatedTerms": ["dao", "wu-wei", "ziran"],
+  "figure": { "slug": "zhuangzi", "name": { "fr": "Zhuangzi", "en": "Zhuangzi" } },
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

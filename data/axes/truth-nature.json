@@ -1,0 +1,104 @@
+{
+  "id": "TRUTH_NATURE",
+  "relation": "TRUTH",
+  "territory": "KNOWLEDGE",
+  "label": {
+    "fr": "Nature de la vérité",
+    "en": "Nature of truth"
+  },
+  "question": {
+    "fr": "Qu'est-ce qui rend une affirmation vraie ?",
+    "en": "What makes a statement true?"
+  },
+  "stakes": {
+    "fr": "Une chose est-elle vraie parce qu'elle correspond au réel, parce qu'elle s'accorde avec tout ce que nous tenons par ailleurs, ou parce qu'elle marche ? Selon la réponse, une croyance peut être utile et pourtant fausse, ou cohérente et pourtant à côté du réel. Se positionner, c'est dire ce qu'on exige au juste en demandant « est-ce vrai ? ».",
+    "en": "Is something true because it corresponds to reality, because it fits with everything else we hold, or because it works? Depending on the answer, a belief can be useful yet false, or coherent yet wide of the real. To take a position is to say what exactly we are demanding when we ask \"is it true?\""
+  },
+  "layer": "THEORY",
+  "type": "TRIANGULAR",
+  "poles": [
+    {
+      "id": "CORRESPONDENCE",
+      "label": {
+        "fr": "Correspondance",
+        "en": "Correspondence"
+      },
+      "description": {
+        "fr": "Une affirmation est vraie si elle correspond aux faits : dire le vrai, c'est dire de ce qui est qu'il est. La vérité est une relation entre nos énoncés et la réalité, indépendante de ce que nous croyons.",
+        "en": "A statement is true if it corresponds to the facts: to speak truly is to say of what is that it is. Truth is a relation between our statements and reality, independent of what we believe."
+      },
+      "figures": [
+        {
+          "slug": "aristotle",
+          "name": {
+            "fr": "Aristote",
+            "en": "Aristotle"
+          }
+        },
+        {
+          "slug": "russell",
+          "name": {
+            "fr": "Russell",
+            "en": "Russell"
+          }
+        }
+      ]
+    },
+    {
+      "id": "COHERENCE",
+      "label": {
+        "fr": "Cohérence",
+        "en": "Coherence"
+      },
+      "description": {
+        "fr": "Une affirmation est vraie si elle s'intègre sans contradiction dans un système d'ensemble : le vrai est le tout. Aucun énoncé isolé n'est vrai par lui-même, c'est sa place dans la totalité qui le justifie.",
+        "en": "A statement is true if it fits without contradiction into an overall system: the true is the whole. No isolated statement is true by itself; its place within the totality is what justifies it."
+      },
+      "figures": [
+        {
+          "slug": "hegel",
+          "name": {
+            "fr": "Hegel",
+            "en": "Hegel"
+          }
+        }
+      ]
+    },
+    {
+      "id": "PRAGMATISM",
+      "label": {
+        "fr": "Pragmatisme",
+        "en": "Pragmatism"
+      },
+      "description": {
+        "fr": "Le vrai, c'est ce qui fonctionne : une idée est vraie si elle guide efficacement l'action et résiste à l'épreuve de l'enquête. La vérité n'est pas une propriété figée mais ce vers quoi converge la recherche menée avec rigueur.",
+        "en": "The true is what works: an idea is true if it effectively guides action and withstands the test of inquiry. Truth is not a fixed property but what rigorous investigation converges toward."
+      },
+      "figures": [
+        {
+          "slug": "peirce",
+          "name": {
+            "fr": "Peirce",
+            "en": "Peirce"
+          }
+        },
+        {
+          "slug": "william-james",
+          "name": {
+            "fr": "James",
+            "en": "James"
+          }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 3,
+  "clusters": [],
+  "relatedAxes": [
+    "MEANING",
+    "CERTAINTY",
+    "KNOWLEDGE_SOURCE",
+    "KNOWLEDGE_STATUS"
+  ]
+}

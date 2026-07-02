@@ -1,0 +1,86 @@
+{
+  "id": "POLITICAL_IDEAL",
+  "relation": "OTHERS",
+  "territory": "SOCIETY_POLITICS",
+  "label": {
+    "fr": "Idéal et réel",
+    "en": "Ideal and reality"
+  },
+  "question": {
+    "fr": "La politique doit-elle viser la cité idéale ou composer avec les hommes tels qu'ils sont ?",
+    "en": "Should politics aim at the ideal city, or work with human beings as they are?"
+  },
+  "stakes": {
+    "fr": "Viser la cité idéale peut inspirer et soulever, mais aussi justifier tous les sacrifices au nom d'un avenir qui ne vient jamais ; prendre les hommes tels qu'ils sont évite les catastrophes, mais peut se résigner à l'injustice au nom du « réalisme ». Se positionner, c'est dire si la politique doit poursuivre le meilleur ou conjurer le pire.",
+    "en": "Aiming at the ideal city can inspire and uplift, but also justify every sacrifice in the name of a future that never comes; taking people as they are averts catastrophe, but can resign itself to injustice in the name of \"realism.\" To take a position is to say whether politics should pursue the best or ward off the worst."
+  },
+  "layer": "VALUE",
+  "type": "BIPOLAR",
+  "poles": [
+    {
+      "id": "UTOPIANISM",
+      "label": {
+        "fr": "Utopisme",
+        "en": "Utopianism"
+      },
+      "description": {
+        "fr": "La pensée politique doit concevoir la cité juste, même si elle n'existe nulle part. L'idéal n'est pas une chimère : il sert de modèle pour juger les sociétés réelles et d'horizon pour les transformer.",
+        "en": "Political thought must conceive the just city, even if it exists nowhere. The ideal is no idle fancy: it serves as a standard for judging actual societies and a horizon for transforming them."
+      },
+      "figures": [
+        {
+          "slug": "plato",
+          "name": {
+            "fr": "Platon",
+            "en": "Plato"
+          }
+        },
+        {
+          "slug": "more",
+          "name": {
+            "fr": "More",
+            "en": "More"
+          }
+        }
+      ]
+    },
+    {
+      "id": "POLITICAL_REALISM",
+      "label": {
+        "fr": "Réalisme politique",
+        "en": "Political realism"
+      },
+      "description": {
+        "fr": "Il faut partir de la vérité effective des choses, non des républiques imaginaires. La politique est l'art de gouverner des hommes tels qu'ils sont, avec leurs passions et leurs intérêts : qui néglige ce qui se fait pour ce qui devrait se faire court à sa perte.",
+        "en": "One must start from the effective truth of things, not from imagined republics. Politics is the art of governing people as they are, with their passions and interests: whoever neglects what is done for what ought to be done courts ruin."
+      },
+      "figures": [
+        {
+          "slug": "machiavelli",
+          "name": {
+            "fr": "Machiavel",
+            "en": "Machiavelli"
+          }
+        },
+        {
+          "slug": "hobbes",
+          "name": {
+            "fr": "Hobbes",
+            "en": "Hobbes"
+          }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 2,
+  "clusters": [
+    "RATIONAL_EMANCIPATION"
+  ],
+  "relatedAxes": [
+    "AUTHORITY",
+    "CONSERVATISM_PROGRESSISM",
+    "DISTRIBUTIVE_JUSTICE",
+    "HUMAN_VISION"
+  ]
+}

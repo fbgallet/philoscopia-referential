@@ -1,0 +1,17 @@
+{
+  "id": "sextus-empiricus-to-montaigne",
+  "from": { "kind": "PHILOSOPHER", "slug": "sextus-empiricus" },
+  "to": { "kind": "PHILOSOPHER", "slug": "montaigne" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "La redécouverte de <ph id='sextus-empiricus'>Sextus Empiricus</ph> à la Renaissance arme l'« Apologie de Raymond Sebond » : <ph id='montaigne'>Montaigne</ph> y reprend l'arsenal du <c id='skepticism'>pyrrhonisme</c>, les modes de suspension du jugement contre les prétentions de la raison. Mais il en fait un doute humain et vécu, le <q>Que sais-je ?</q>, plutôt qu'un système.",
+    "en": "The Renaissance rediscovery of <ph id='sextus-empiricus'>Sextus Empiricus</ph> arms the \"Apology for Raymond Sebond\": <ph id='montaigne'>Montaigne</ph> takes up the arsenal of <c id='skepticism'>Pyrrhonism</c>, the modes of suspending judgement against reason's claims. Yet he turns it into a humane, lived doubt, the <q>What do I know?</q>, rather than a system."
+  },
+  "sources": [
+    { "fr": "Montaigne, « Apologie de Raymond Sebond » (Essais, II, 12)", "en": "Montaigne, \"Apology for Raymond Sebond\" (Essays, II, 12)" },
+    { "fr": "Sextus Empiricus en latin (éditions d'Henri Estienne et de Gentian Hervet, 1562-1569)", "en": "Sextus Empiricus in Latin (Henri Estienne and Gentian Hervet editions, 1562-1569)" }
+  ],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

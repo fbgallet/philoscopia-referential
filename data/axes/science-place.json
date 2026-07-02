@@ -1,0 +1,77 @@
+{
+  "id": "SCIENCE_PLACE",
+  "relation": "TRUTH",
+  "territory": "KNOWLEDGE",
+  "label": {
+    "fr": "Place de la science",
+    "en": "Place of science"
+  },
+  "question": {
+    "fr": "La science est-elle la seule voie d'accès valable à la connaissance ?",
+    "en": "Is science the only valid path to knowledge?"
+  },
+  "stakes": {
+    "fr": "La science est-elle la seule voie vers le vrai, tout le reste n'étant qu'opinion, ou l'art, l'éthique, l'expérience vécue donnent-ils aussi des vérités qu'elle n'atteint pas ? En faire le seul juge écarte des pans entiers de la vie humaine ; lui refuser toute autorité particulière laisse n'importe quelle croyance se faire passer pour un savoir. Se positionner, c'est dire ce qu'on accepte comme source valable de vérité.",
+    "en": "Is science the only road to truth, all the rest being mere opinion, or do art, ethics, and lived experience also yield truths it cannot reach? Making it the sole judge dismisses whole swaths of human life; denying it any special authority lets any belief pass itself off as knowledge. To take a position is to say what we accept as a valid source of truth."
+  },
+  "layer": "THEORY",
+  "type": "BIPOLAR_MEDIAN",
+  "poles": [
+    {
+      "id": "SCIENTISM",
+      "label": {
+        "fr": "Scientisme",
+        "en": "Scientism"
+      },
+      "description": {
+        "fr": "La méthode scientifique est la forme la plus aboutie du savoir humain, appelée à remplacer les explications religieuses et métaphysiques. Toute question qui peut recevoir une réponse la recevra de la science, et d'elle seule.",
+        "en": "The scientific method is the most accomplished form of human knowledge, destined to replace religious and metaphysical explanations. Any question that can be answered will be answered by science, and by science alone."
+      },
+      "figures": [
+        {
+          "slug": "comte",
+          "name": {
+            "fr": "Comte",
+            "en": "Comte"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EPISTEMIC_PLURALISM",
+      "label": {
+        "fr": "Pluralisme épistémique",
+        "en": "Epistemic pluralism"
+      },
+      "description": {
+        "fr": "Il n'existe pas de méthode unique qui garantirait la connaissance : la science elle-même progresse en violant ses propres règles. L'art, le mythe ou les savoirs traditionnels offrent des accès au réel que rien n'autorise à disqualifier d'avance.",
+        "en": "There is no single method that guarantees knowledge: science itself advances by breaking its own rules. Art, myth, and traditional knowledge offer ways of grasping reality that nothing entitles us to dismiss in advance."
+      },
+      "figures": [
+        {
+          "slug": "feyerabend",
+          "name": {
+            "fr": "Feyerabend",
+            "en": "Feyerabend"
+          }
+        }
+      ]
+    }
+  ],
+  "medianLabel": {
+    "fr": "Rationalisme critique",
+    "en": "Critical rationalism"
+  },
+  "medianDescription": {
+    "fr": "La science est notre connaissance la plus rigoureuse, mais elle procède par conjectures toujours exposées à la réfutation. Elle n'a pas réponse à tout et n'épuise pas le réel, sans pour autant n'être qu'un savoir parmi d'autres. Sa force est précisément d'admettre ses limites et de se corriger.",
+    "en": "Science is our most rigorous knowledge, yet it proceeds by conjectures forever exposed to refutation. It does not answer everything and does not exhaust the real, and yet it is not merely one body of knowledge among others. Its strength lies precisely in acknowledging its limits and correcting itself."
+  },
+  "core": true,
+  "difficulty": 2,
+  "clusters": [],
+  "relatedAxes": [
+    "SCIENTIFIC_METHOD",
+    "FAITH_REASON",
+    "KNOWLEDGE_STATUS"
+  ]
+}

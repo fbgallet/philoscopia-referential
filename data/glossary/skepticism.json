@@ -1,0 +1,12 @@
+{
+  "id": "skepticism",
+  "term": { "fr": "Scepticisme", "en": "Skepticism" },
+  "definition": {
+    "fr": "Le scepticisme est l'attitude philosophique qui suspend ou refuse l'assentiment, au motif que nos facultés ne garantissent <ax id='CERTAINTY'>aucune certitude définitive</ax>. De <ph>Pyrrhon</ph> à <ph id='hume'>Hume</ph>, le sceptique examine les raisons de douter plutôt que d'affirmer, et s'oppose en cela au <c id='dogmatism'>dogmatisme</c>. Chez les Anciens, cette suspension du jugement n'était pas une impasse : elle visait la tranquillité de l'âme.",
+    "en": "Skepticism is the philosophical attitude that suspends or withholds assent, on the grounds that our faculties guarantee <ax id='CERTAINTY'>no definitive certainty</ax>. From <ph>Pyrrho</ph> to <ph id='hume'>Hume</ph>, the skeptic examines reasons for doubting rather than affirming, and in this stands opposed to <c id='dogmatism'>dogmatism</c>. For the ancients, this suspension of judgment was no dead end: it aimed at tranquility of mind."
+  },
+  "relatedAxes": ["CERTAINTY"],
+  "relatedTerms": ["dogmatism"],
+  "positions": [{ "axisId": "CERTAINTY", "poleId": "SKEPTICISM" }],
+  "updatedAt": "2026-06-11T00:00:00.000Z"
+}

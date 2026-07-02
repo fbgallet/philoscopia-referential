@@ -1,0 +1,16 @@
+{
+  "id": "locke-to-hume",
+  "from": { "kind": "PHILOSOPHER", "slug": "locke" },
+  "to": { "kind": "PHILOSOPHER", "slug": "hume" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='hume'>Hume</ph> pousse l'analyse lockéenne des <c>idées</c> issues de l'expérience jusqu'à ses conséquences sceptiques : une théorie associationniste de l'esprit et la dissolution de l'identité personnelle et de la causalité nécessaire.",
+    "en": "<ph id='hume'>Hume</ph> pushes Locke's analysis of <c>ideas</c> drawn from experience to its skeptical conclusions: an associationist theory of the mind and the dissolution of personal identity and of necessary causation."
+  },
+  "sources": [
+    { "fr": "Hume, Traité de la nature humaine (1739)", "en": "Hume, A Treatise of Human Nature (1739)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

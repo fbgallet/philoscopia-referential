@@ -1,0 +1,12 @@
+{
+  "id": "body-as-instrument-grounds-asceticism",
+  "ground": { "axisId": "EMBODIMENT", "poleId": "BODY_AS_INSTRUMENT" },
+  "grounded": { "axisId": "BODILY_PLEASURES", "poleId": "ASCETICISM" },
+  "kind": "T_V",
+  "strength": "STRONG",
+  "explanation": {
+    "fr": "Si le corps n'est qu'un instrument, voire une prison de l'âme, alors ses plaisirs détournent de l'essentiel et doivent être disciplinés. La conception du corps-instrument fonde l'ascétisme : de <ph id='plato'>Platon</ph>, pour qui le corps est le tombeau de l'âme, aux ascètes chrétiens, la maîtrise des désirs libère pour les biens supérieurs.",
+    "en": "If the body is merely an instrument, even a prison of the soul, then its pleasures distract from what is essential and must be disciplined. The body-as-instrument conception grounds asceticism: from <ph id='plato'>Plato</ph>, for whom the body is the tomb of the soul, to the Christian ascetics, mastery of desire frees us for the higher goods."
+  },
+  "updatedAt": "2026-06-22T00:00:00.000Z"
+}

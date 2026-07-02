@@ -1,0 +1,16 @@
+{
+  "id": "mencius-vs-xunzi",
+  "from": { "kind": "PHILOSOPHER", "slug": "mencius" },
+  "to": { "kind": "PHILOSOPHER", "slug": "xunzi" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='xunzi'>Xunzi</ph> conteste explicitement la thèse de <ph id='mencius'>Mencius</ph> : la <c>nature humaine</c> n'est pas bonne mais mauvaise, et seule la discipline des rites et de l'étude peut la corriger.",
+    "en": "<ph id='xunzi'>Xunzi</ph> explicitly contests <ph id='mencius'>Mencius</ph>'s thesis: <c>human nature</c> is not good but bad, and only the discipline of ritual and study can correct it."
+  },
+  "sources": [
+    { "fr": "Xunzi, chapitre « La nature humaine est mauvaise »", "en": "Xunzi, \"Human Nature Is Bad\"" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

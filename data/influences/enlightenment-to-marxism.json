@@ -1,0 +1,13 @@
+{
+  "id": "enlightenment-to-marxism",
+  "from": { "kind": "MOVEMENT", "slug": "enlightenment" },
+  "to": { "kind": "MOVEMENT", "slug": "marxism" },
+  "directness": "INDIRECT",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<mv id='marxism'>Le marxisme</mv> reprend des Lumières l'idée d'émancipation et d'une histoire orientée, mais en déplace le moteur : ce n'est plus le progrès des idées, c'est la lutte des classes. La raison « bourgeoise » et ses droits abstraits y deviennent l'objet même de la critique, retournés contre leur prétention à l'universel.",
+    "en": "<mv id='marxism'>Marxism</mv> takes from the Enlightenment the idea of emancipation and of a directed history, but shifts its engine: no longer the progress of ideas but the class struggle. « Bourgeois » reason and its abstract rights become the very object of critique, turned against their claim to universality."
+  },
+  "updatedAt": "2026-06-25T00:00:00.000Z"
+}

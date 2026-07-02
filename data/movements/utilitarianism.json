@@ -1,0 +1,549 @@
+{
+  "kind": "MOVEMENT",
+  "id": "utilitarianism",
+  "name": {
+    "fr": "Utilitarisme",
+    "en": "Utilitarianism"
+  },
+  "tagline": {
+    "fr": "Le bien, c'est le <c id='greatest-happiness-principle'>plus grand bonheur du plus grand nombre</c>.",
+    "en": "The good is the <c id='greatest-happiness-principle'>greatest happiness of the greatest number</c>."
+  },
+  "summary": {
+    "fr": "Né dans l'Angleterre des Lumières et de la révolution industrielle, l'utilitarisme prolonge l'<mv id='empiricism'>empirisme</mv> moral de <ph id='hume'>Hume</ph> et l'arithmétique des plaisirs d'<ph>Helvétius</ph>, que <ph id='bentham'>Bentham</ph> érige vers 1789 en principe unique de réforme. Devant un droit, des prisons et des institutions hérités et arbitraires, il cherche un critère mesurable et public du juste, soustrait à la coutume et à la <ax id='GOD_EXISTENCE'>volonté divine</ax>. <ph id='mill'>Mill</ph> en affine la psychologie et la défense, <ph>Sidgwick</ph> en éprouve la rigueur dans <q>Les Méthodes de l'éthique</q>, et le courant essaime de la réforme pénale à l'éthique animale de <ph>Singer</ph> et à l'altruisme efficace contemporain. Il demeure, face à la <mv>déontologie</mv> et à l'éthique de la <ax id='ETHICS_FOUNDATION'>vertu</ax>, l'une des grandes familles de l'éthique normative.",
+    "en": "Born in the England of the Enlightenment and the industrial revolution, utilitarianism extends the moral <mv id='empiricism'>empiricism</mv> of <ph id='hume'>Hume</ph> and the arithmetic of pleasures of <ph>Helvétius</ph>, which <ph id='bentham'>Bentham</ph> raises around 1789 into a single principle of reform. Facing an inherited and arbitrary body of law, prisons and institutions, he seeks a measurable, public criterion of the right, free of custom and of <ax id='GOD_EXISTENCE'>divine will</ax>. <ph id='mill'>Mill</ph> refines its psychology and defence, <ph>Sidgwick</ph> tests its rigour in <q>The Methods of Ethics</q>, and the movement spreads from penal reform to <ph>Singer</ph>'s animal ethics and to contemporary effective altruism. Against <mv>deontology</mv> and <ax id='ETHICS_FOUNDATION'>virtue</ax> ethics, it remains one of the major families of normative ethics."
+  },
+  "period": {
+    "from": 1789
+  },
+  "keyFigures": [
+    {
+      "slug": "bentham",
+      "name": { "fr": "Bentham", "en": "Bentham" }
+    },
+    {
+      "slug": "mill",
+      "name": { "fr": "John Stuart Mill", "en": "John Stuart Mill" }
+    },
+    {
+      "slug": "sidgwick",
+      "name": { "fr": "Sidgwick", "en": "Sidgwick" }
+    },
+    {
+      "slug": "singer",
+      "name": { "fr": "Peter Singer", "en": "Peter Singer" }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.05,
+          0.9,
+          0.05,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'utilitarisme n'assigne à la vie aucune fin transcendante : son sens se mesure à ce qu'elle apporte de bonheur et épargne de souffrance, à soi et au plus grand nombre. Tout entier immanent, ce sens se construit dans la poursuite éclairée du bien-être commun, sans ordre providentiel ni vertige du néant.",
+          "en": "Utilitarianism assigns life no transcendent end: its meaning is measured by the happiness it brings and the suffering it spares, for oneself and for the greatest number. Wholly immanent, this meaning is built in the enlightened pursuit of common welfare, without providential order or the vertigo of nothingness."
+        },
+        "references": [
+          {
+            "fr": "Bentham, Principes de la morale et de la législation",
+            "en": "Bentham, Principles of Morals and Legislation"
+          },
+          {
+            "fr": "Mill, L'Utilitarisme",
+            "en": "Mill, Utilitarianism"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.78,
+          0,
+          0.07,
+          0.15
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'utilitarisme, naturaliste et séculier, ne s'appuie sur aucune doctrine ferme de l'au-delà : Bentham tient la mort pour la simple cessation de la sensibilité, Mill laisse l'immortalité indécidable. La mort est donc avant tout la fin de la capacité de plaisir et de peine, ce qui justifie qu'on cherche à la retarder et à en réduire les souffrances, plus qu'à l'investir de sens.",
+          "en": "Utilitarianism, naturalistic and secular, rests on no firm doctrine of the hereafter: Bentham takes death to be the simple cessation of sensibility, Mill leaves immortality undecidable. Death is therefore above all the end of the capacity for pleasure and pain, which warrants seeking to postpone it and to reduce its sufferings, more than investing it with meaning."
+        },
+        "references": [
+          {
+            "fr": "Bentham, Auto-Icon ; Mill, Trois essais sur la religion",
+            "en": "Bentham, Auto-Icon; Mill, Three Essays on Religion"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.45,
+          0.5,
+          0.05
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'utilitarisme prend pour fin la satisfaction des désirs en tant qu'ils produisent du plaisir, et rejette l'ascétisme comme contraire au bonheur. Mais il trie : par le calcul des quantités chez Bentham, par la hiérarchie qualitative des plaisirs chez Mill. Affirmation du plaisir, donc, ordonnée par un tri rationnel des désirs selon leurs effets.",
+          "en": "Utilitarianism takes as its end the satisfaction of desires insofar as they produce pleasure, and rejects asceticism as contrary to happiness. But it sorts: by the calculation of quantities in Bentham, by the qualitative hierarchy of pleasures in Mill. An affirmation of pleasure, then, ordered by a rational sorting of desires according to their effects."
+        },
+        "references": [
+          {
+            "fr": "Bentham, Principes de la morale et de la législation",
+            "en": "Bentham, Principles of Morals and Legislation"
+          },
+          {
+            "fr": "Mill, L'Utilitarisme",
+            "en": "Mill, Utilitarianism"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'utilitarisme prend pour donnée une nature humaine hédonique, régie par le plaisir et la peine, socle universel du calcul des utilités. Cette psychologie commune fonde la science morale, même si Mill y greffe l'exigence d'individualité et de développement de soi, ce qui tempère l'essentialisme de Bentham.",
+          "en": "Utilitarianism takes as given a hedonic human nature, governed by pleasure and pain, the universal bedrock of the calculus of utilities. This common psychology grounds the moral science, even if Mill grafts onto it the demand for individuality and self-development, which tempers Bentham's essentialism."
+        },
+        "references": [
+          {
+            "fr": "Bentham, Principes de la morale et de la législation, I",
+            "en": "Bentham, Principles of Morals and Legislation, I"
+          },
+          {
+            "fr": "Mill, L'Utilitarisme",
+            "en": "Mill, Utilitarianism"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La conduite humaine est gouvernée par deux ressorts, le plaisir et la peine, une psychologie largement déterministe qui permet de prévoir et de réformer les comportements par les sanctions. La responsabilité n'y est pas un libre arbitre incausé mais se réinterprète en termes compatibilistes : l'utilitarisme s'attache aux causes qui meuvent les volontés plus qu'à leur prétendue spontanéité.",
+          "en": "Human conduct is governed by two springs, pleasure and pain, a broadly deterministic psychology that allows behavior to be predicted and reformed through sanctions. Responsibility here is no uncaused free will but is reinterpreted in compatibilist terms: utilitarianism attends to the causes that move wills rather than to their supposed spontaneity."
+        },
+        "references": [
+          {
+            "fr": "Bentham, Introduction aux principes de la morale et de la législation, I",
+            "en": "Bentham, Introduction to the Principles of Morals and Legislation, I"
+          },
+          {
+            "fr": "Mill, Système de logique, VI",
+            "en": "Mill, A System of Logic, VI"
+          }
+        ],
+        "strength": "MEDIUM",
+        "quote": {
+          "text": {
+            "fr": "La nature a placé l'humanité sous l'empire de deux maîtres souverains, la peine et le plaisir.",
+            "en": "Nature has placed mankind under the governance of two sovereign masters, pain and pleasure."
+          },
+          "source": {
+            "fr": "Bentham, Principes de la morale et de la législation, I",
+            "en": "Bentham, Principles of Morals and Legislation, I"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'utilitarisme prolonge l'empirisme britannique de Locke et de Hume : toute connaissance, morale comme factuelle, dérive de l'expérience, de l'observation des plaisirs, des peines et des conséquences. Nulle idée innée ni vérité a priori : l'esprit part du sensible, et le <c>calcul</c> des effets observables remplace la déduction rationnelle des principes.",
+          "en": "Utilitarianism extends the British empiricism of Locke and Hume: all knowledge, moral as well as factual, derives from experience, from the observation of pleasures, pains and consequences. No innate ideas, no a priori truths: the mind starts from the sensible, and the <c>calculation</c> of observable effects replaces the rational deduction of principles."
+        },
+        "references": [
+          {
+            "fr": "Bentham, Introduction aux principes de la morale et de la législation",
+            "en": "Bentham, Introduction to the Principles of Morals and Legislation"
+          },
+          {
+            "fr": "Mill, Système de logique",
+            "en": "Mill, A System of Logic"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le tempérament utilitariste est empiriste et anti-métaphysique : le savoir, moral comme factuel, dérive de l'expérience et des conséquences observables, jamais d'intuitions a priori tenues pour indubitables. Mill en tire une thèse forte sur la <c>faillibilité</c> : aucune opinion n'est certaine au point d'interdire qu'on la conteste, et c'est sur cette faillibilité même que se fonde la nécessité de la libre discussion. Le savoir demeure donc révisable, fait de vérités probables et amendables plutôt que de certitudes définitives.",
+          "en": "The utilitarian temper is empiricist and anti-metaphysical: knowledge, moral as well as factual, derives from experience and observable consequences, never from a priori intuitions held to be indubitable. Mill draws from this a strong thesis on <c>fallibility</c>: no opinion is certain to the point of forbidding that it be contested, and it is on this very fallibility that the need for free discussion rests. Knowledge therefore stays revisable, made of probable and amendable truths rather than definitive certainties."
+        },
+        "references": [
+          {
+            "fr": "Mill, De la liberté, ch. II",
+            "en": "Mill, On Liberty, ch. II"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [1, 0, 0, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Une action ne valant rien en elle-même, seul son effet sur le monde peut la rendre bonne ou mauvaise : tout ce qui compte moralement est le <stk>bien-être qu'elle produit ou détruit</stk>. De ce ground naît le <c>conséquentialisme</c>, qui congédie ensemble l'intention pure de la <mv>déontologie</mv> et l'excellence du caractère de l'éthique de la <c id='eudaimonism'>vertu</c> : <ph id='bentham'>Bentham</ph> ramène l'évaluation à une mesure unique, la tendance de l'acte à accroître ou diminuer le bonheur des parties concernées, contre toute règle ou tradition qui se réclamerait d'une autorité indépendante des résultats.",
+          "en": "Since an action has no worth in itself, only its effect on the world can make it good or bad: all that morally counts is the <stk>well-being it creates or destroys</stk>. From this ground springs <c>consequentialism</c>, which dismisses together the pure intention of <mv>deontology</mv> and the excellence of character of <c id='eudaimonism'>virtue</c> ethics: <ph id='bentham'>Bentham</ph> reduces evaluation to a single measure, the act's tendency to augment or diminish the happiness of the parties concerned, against any rule or tradition claiming an authority independent of outcomes."
+        },
+        "quote": {
+          "text": {
+            "fr": "La nature a placé l'humanité sous l'empire de deux maîtres souverains, la peine et le plaisir. C'est à eux seuls qu'il appartient de désigner ce que nous devons faire.",
+            "en": "Nature has placed mankind under the governance of two sovereign masters, pain and pleasure. It is for them alone to point out what we ought to do."
+          },
+          "source": {
+            "fr": "Bentham, Introduction aux principes de morale et de législation, chapitre 1",
+            "en": "Bentham, An Introduction to the Principles of Morals and Legislation, ch. 1"
+          }
+        },
+        "references": [
+          { "fr": "Bentham, Introduction aux principes de morale et de législation", "en": "Bentham, An Introduction to the Principles of Morals and Legislation" },
+          { "fr": "Mill, L'Utilitarisme", "en": "Mill, Utilitarianism" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.8, 0.2, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Pour fixer ce que les conséquences doivent maximiser, l'utilitarisme cherche la seule chose désirée pour elle-même et jamais comme moyen : c'est, répond le courant, le bonheur, soit le plaisir et l'absence de douleur. L'argument de <ph id='mill'>Mill</ph> est psychologique, la seule preuve qu'une chose est désirable étant qu'on la désire effectivement, et tout désir se ramenant en dernière instance au bonheur. Cette thèse <c id='hedonism'>hédoniste</c> et welfariste fonde le bien sur un <stk>fait de l'expérience vécue</stk>, non sur une perfection abstraite ; <ph id='mill'>Mill</ph> y ajoute une hiérarchie qualitative des plaisirs, supérieurs et inférieurs, qui en rapproche le cadre d'un <c id='eudaimonism'>eudémonisme</c> sans en sortir.",
+          "en": "To fix what consequences ought to maximize, utilitarianism seeks the one thing desired for its own sake and never as a means: it is, the movement answers, happiness, that is pleasure and the absence of pain. <ph id='mill'>Mill</ph>'s argument is psychological, the only proof that something is desirable being that it is actually desired, and every desire reducing ultimately to happiness. This <c id='hedonism'>hedonist</c> and welfarist thesis grounds the good in a <stk>fact of lived experience</stk>, not in an abstract perfection; <ph id='mill'>Mill</ph> adds a qualitative hierarchy of higher and lower pleasures that brings the framework close to a <c id='eudaimonism'>eudaimonism</c> without leaving it."
+        },
+        "references": [
+          { "fr": "Mill, L'Utilitarisme, chapitre 2", "en": "Mill, Utilitarianism, chapter 2" },
+          { "fr": "Bentham, Introduction aux principes de morale et de législation", "en": "Bentham, An Introduction to the Principles of Morals and Legislation" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "PARTIALITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.9 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si seul le bien-être compte, alors un même plaisir vaut autant quel que soit celui qui l'éprouve : aucun point de vue, ni celui de l'agent, ni celui de sa nation, ni celui d'une classe, ne possède de prééminence dans le calcul. De ce pas naît la formule, chacun compte pour un et personne pour plus d'un, et l'agrégation qui additionne sans pondérer les bonheurs individuels. Cette <c id='impartiality'>impartialité</c> stricte distingue l'utilitarisme des morales qui accordent un poids spécial aux proches ou aux compatriotes : <ph>Sidgwick</ph> en fait l'axiome de bienveillance universelle au cœur des <q>Méthodes de l'éthique</q>.",
+          "en": "If only well-being counts, then the same pleasure is worth as much whoever feels it: no standpoint, neither the agent's, nor a nation's, nor a class's, holds any pre-eminence in the calculus. From this step come the formula, everybody to count for one and nobody for more than one, and the aggregation that sums individual happinesses without weighting them. This strict <c id='impartiality'>impartiality</c> sets utilitarianism apart from moralities granting special weight to kin or compatriots: <ph>Sidgwick</ph> makes it the axiom of universal benevolence at the heart of <q>The Methods of Ethics</q>."
+        },
+        "references": [
+          { "fr": "Mill, L'Utilitarisme, chapitre 5", "en": "Mill, Utilitarianism, chapter 5" },
+          { "fr": "Sidgwick, Les Méthodes de l'éthique", "en": "Sidgwick, The Methods of Ethics" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_CIRCLE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.1, 0.9, 0, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Puisque le bien est le plaisir et le mal la souffrance, ce qui ouvre droit à la considération morale ne peut être ni la raison ni le langage, mais la seule <c>capacité à souffrir</c> : tout être qui a des intérêts à ce que sa douleur cesse compte dans le calcul. <ph id='bentham'>Bentham</ph> tire de ce critère une conséquence que les morales rationalistes refusaient, l'inclusion des animaux ; <ph>Singer</ph> y voit le principe d'<c>égale considération des intérêts</c> et dénonce le <kw>spécisme</kw> comme un préjugé de même structure que le racisme. Le cercle moral s'élargit ainsi à tout le <stk>vivant sensible</stk>, par cohérence interne et non par sentiment.",
+          "en": "Since the good is pleasure and the evil suffering, what grants moral standing can be neither reason nor speech but the <c>capacity to suffer</c> alone: every being with an interest in its pain ceasing counts in the calculus. <ph id='bentham'>Bentham</ph> draws from this criterion a consequence that rationalist moralities refused, the inclusion of animals; <ph>Singer</ph> reads it as the principle of <c>equal consideration of interests</c> and denounces <kw>speciesism</kw> as a prejudice of the same structure as racism. The moral circle thus widens to all <stk>sentient life</stk>, by internal consistency rather than by sentiment."
+        },
+        "quote": {
+          "text": {
+            "fr": "La question n'est pas : peuvent-ils raisonner ? ni : peuvent-ils parler ? mais : peuvent-ils souffrir ?",
+            "en": "The question is not, Can they reason? nor, Can they talk? but, Can they suffer?"
+          },
+          "source": {
+            "fr": "Bentham, Introduction aux principes de morale et de législation, chapitre 17, note",
+            "en": "Bentham, An Introduction to the Principles of Morals and Legislation, ch. 17, footnote"
+          }
+        },
+        "references": [
+          { "fr": "Bentham, Introduction aux principes de morale et de législation, chapitre 17", "en": "Bentham, An Introduction to the Principles of Morals and Legislation, chapter 17" },
+          { "fr": "Singer, La Libération animale", "en": "Singer, Animal Liberation" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.9 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La souffrance est pour l'utilitarisme un mal pur, sans vertu rédemptrice : elle entre négativement dans le calcul du bien-être et doit être réduite autant que possible. Les grands combats utilitaristes, réforme pénale, condition animale, pauvreté mondiale, sont des entreprises d'abolition de la souffrance.",
+          "en": "For utilitarianism, suffering is a pure evil with no redemptive virtue: it enters the welfare calculus negatively and must be reduced as far as possible. The great utilitarian campaigns, penal reform, animal welfare, global poverty, are projects for abolishing suffering."
+        },
+        "references": [
+          { "fr": "Bentham, Introduction aux principes de morale et de législation", "en": "Bentham, An Introduction to the Principles of Morals and Legislation" },
+          { "fr": "Singer, Famine, richesse et moralité", "en": "Singer, Famine, Affluence, and Morality" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "PUNISHMENT",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 0.7, 0.3, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Pour <ph id='bentham'>Bentham</ph>, toute peine est en elle-même un mal, puisqu'elle inflige une souffrance : elle ne se justifie que si elle prévient un mal plus grand, par la dissuasion et l'amendement du coupable. Le <c>rétributivisme</c>, qui punit pour punir, est rejeté comme une addition inutile de souffrance.",
+          "en": "For <ph id='bentham'>Bentham</ph>, all punishment is in itself an evil, since it inflicts suffering: it is justified only insofar as it prevents a greater evil, through deterrence and the offender's reform. <c>Retributivism</c>, punishing for punishment's sake, is rejected as a pointless addition of suffering."
+        },
+        "references": [
+          { "fr": "Bentham, Introduction aux principes de morale et de législation, chapitre 13", "en": "Bentham, An Introduction to the Principles of Morals and Legislation, chapter 13" },
+          { "fr": "Beccaria, Des délits et des peines", "en": "Beccaria, On Crimes and Punishments" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_DEMAND",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.3 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "<dif>La maximisation impartiale du bien-être tend vers une morale très exigeante : <ph>Singer</ph> soutient que nous devons donner jusqu'au point où sacrifier davantage nuirait à quelque chose de comparable, ce qui peut absorber presque tout notre superflu. Le courant reste sur ce point divisé, <ph id='mill'>Mill</ph> limitant l'intervention morale et juridique aux torts causés à autrui</dif>.",
+          "en": "<dif>Impartial maximization of well-being tends toward a highly demanding morality: <ph>Singer</ph> argues we ought to give up to the point where further sacrifice would cost something of comparable moral importance, which can absorb almost all of our surplus. On this point the movement remains divided, with <ph id='mill'>Mill</ph> restricting moral and legal interference to harms done to others</dif>."
+        },
+        "references": [
+          { "fr": "Singer, Famine, richesse et moralité", "en": "Singer, Famine, Affluence, and Morality" },
+          { "fr": "Mill, De la liberté", "en": "Mill, On Liberty" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SELF_INTEREST",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.8 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'utilitarisme exige l'<c>impartialité</c> de l'agent à l'égard de son propre bonheur : la maximisation du bien général commande de compter l'intérêt de chacun également, le sien comme celui d'autrui. La formule benthamienne, chacun compte pour un et personne pour plus d'un, est explicitement dirigée contre la priorité de soi.",
+          "en": "Utilitarianism requires the agent's <c>impartiality</c> toward their own happiness: the maximization of the general good commands that everyone's interest count equally, one's own no more than another's. <ph id='bentham'>Bentham</ph>'s formula, everybody to count for one and nobody for more than one, is explicitly aimed against giving oneself priority."
+        },
+        "references": [
+          { "fr": "Mill, L'Utilitarisme, chapitre 2", "en": "Mill, Utilitarianism, chapter 2" },
+          { "fr": "Sidgwick, Les Méthodes de l'éthique", "en": "Sidgwick, The Methods of Ethics" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DISTRIBUTIVE_JUSTICE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.3 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le bonheur de chacun pèse d'un poids égal dans le calcul, et l'<c>utilité marginale décroissante</c> donne au courant un penchant redistributif modéré : un même bien profite davantage à qui en a moins. <dif>Cette tendance reste cependant prudente, car l'utilitarisme est agrégatif et non strictement égalitariste : il maximise la somme du bien-être plus qu'il n'en égalise la répartition, ce qui pourrait en principe justifier d'accroître la souffrance d'un petit nombre pour augmenter le total</dif>.",
+          "en": "Each person's happiness carries equal weight in the calculus, and the <c>diminishing marginal utility</c> of goods gives the movement a moderate redistributive leaning: the same resource benefits more those who have less. <dif>The tendency stays cautious, however, since utilitarianism is aggregative rather than strictly egalitarian: it maximizes the sum of welfare more than it equalizes its distribution, which could in principle justify increasing the suffering of a few to raise the total</dif>."
+        },
+        "references": [
+          { "fr": "Sidgwick, Les Méthodes de l'éthique", "en": "Sidgwick, The Methods of Ethics" },
+          { "fr": "Mill, L'Utilitarisme, chapitre 5", "en": "Mill, Utilitarianism, chapter 5" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CONSERVATISM_PROGRESSISM",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.7 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'utilitarisme naît comme un programme réformateur : <ph id='bentham'>Bentham</ph> soumet le droit, les prisons et les institutions à l'épreuve de l'utilité, et rejette le respect de la tradition pour elle-même. <ph id='mill'>Mill</ph> prolonge cet élan en faveur de l'émancipation, notamment celle des femmes. Les institutions ne valent que par le bien-être qu'elles produisent, ce qui invite à les réformer dès qu'elles y manquent.",
+          "en": "Utilitarianism was born as a reformist program: <ph id='bentham'>Bentham</ph> subjected law, prisons and institutions to the test of utility, rejecting respect for tradition as such. <ph id='mill'>Mill</ph> extended this drive toward emancipation, notably of women. Institutions are worth only the well-being they produce, which licenses reforming them as soon as they fall short."
+        },
+        "references": [
+          { "fr": "Bentham, Introduction aux principes de morale et de législation", "en": "Bentham, An Introduction to the Principles of Morals and Legislation" },
+          { "fr": "Mill, L'Asservissement des femmes", "en": "Mill, The Subjection of Women" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.45, 0.05, 0.5] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le <c id='greatest-happiness-principle'>principe d'utilité</c> a une portée universelle, il vaut pour tous les êtres sensibles et en tout lieu, mais son fondement n'est pas une loi morale <c id='transcendence'>transcendante</c> : le bien est construit à partir d'un fait naturel, le plaisir et la peine. L'utilitarisme conjugue ainsi un universalisme de la règle et un ancrage naturaliste, à mi-chemin du <c>réalisme moral</c> et d'un <c>constructivisme</c> du bien à partir du bien-être.",
+          "en": "The <c id='greatest-happiness-principle'>principle of utility</c> is universal in scope, holding for all sentient beings everywhere, yet its ground is no <c id='transcendence'>transcendent</c> moral law: the good is built from a natural fact, pleasure and pain. Utilitarianism thus combines a universalism of the rule with a naturalist anchoring, midway between <c>moral realism</c> and a <c>constructivism</c> of the good out of welfare."
+        },
+        "references": [
+          { "fr": "Bentham, Introduction aux principes de morale et de législation", "en": "Bentham, An Introduction to the Principles of Morals and Legislation" },
+          { "fr": "Sidgwick, Les Méthodes de l'éthique", "en": "Sidgwick, The Methods of Ethics" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.5 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le fondement de la morale est entièrement séculier : l'utilité, non la volonté divine, mesure le bien. <ph id='bentham'>Bentham</ph>, franchement irréligieux, critique l'<c>ascétisme</c> d'origine religieuse, et <ph id='mill'>Mill</ph> conserve un agnosticisme prudent. Le courant déplace la source de l'obligation morale du ciel vers le bien-être terrestre, sans poser l'athéisme en dogme.",
+          "en": "The ground of morality is wholly secular: utility, not divine will, measures the good. <ph id='bentham'>Bentham</ph>, frankly irreligious, attacks the religiously rooted principle of <c>asceticism</c>, and <ph id='mill'>Mill</ph> keeps a cautious agnosticism. The movement shifts the source of moral obligation from heaven to earthly welfare, without erecting atheism into a dogma."
+        },
+        "references": [
+          { "fr": "Bentham, Introduction aux principes de morale et de législation, chapitre 2", "en": "Bentham, An Introduction to the Principles of Morals and Legislation, chapter 2" },
+          { "fr": "Mill, Trois essais sur la religion", "en": "Mill, Three Essays on Religion" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "RIGHTS_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.1,
+          0.9,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si le seul critère du juste est l'utilité, aucun droit ne saurait précéder la loi ni la limiter au nom de la nature : parler de droits antérieurs à toute institution, c'est, pour <ph id='bentham'>Bentham</ph>, un <kw>non-sens</kw>, et de droits imprescriptibles un <q>non-sens sur échasses</q>. Le courant ne supprime pas les droits, il les refonde : ce sont des protections que la société garantit précisément parce que leur respect stable maximise le <stk>bien-être général</stk>. Cette dérivation à partir des conséquences l'oppose frontalement aux théories du <c>droit naturel</c> et à la <mv>déontologie</mv>, qui tiennent certains droits pour des contraintes premières, indépendantes de tout calcul de résultats.",
+          "en": "If the sole criterion of the right is utility, no right can precede the law or limit it in the name of nature: to speak of rights prior to any institution is, for <ph id='bentham'>Bentham</ph>, <kw>nonsense</kw>, and of imprescriptible rights <q>nonsense upon stilts</q>. The movement does not abolish rights, it re-founds them: they are protections society secures precisely because their stable observance maximizes the <stk>general well-being</stk>. This derivation from consequences sets it squarely against theories of <c>natural right</c> and against <mv>deontology</mv>, which hold certain rights to be primary constraints, independent of any reckoning of outcomes."
+        },
+        "references": [
+          {
+            "fr": "Bentham, Anarchical Fallacies ; Mill, L'Utilitarisme, V",
+            "en": "Bentham, Anarchical Fallacies; Mill, Utilitarianism, V"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "thesis": {
+        "fr": "Une action ne vaut que par ses effets : est juste ce qui produit le plus de bien-être, et rien d'autre, ni l'intention ni la règle, ne la rend bonne.",
+        "en": "An action is worth only its effects: right is what produces the most well-being, and nothing else, neither intention nor rule, makes it good."
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "thesis": {
+        "fr": "La seule chose désirable pour elle-même est le bonheur : le <c id='hedonism'>plaisir</c> et l'absence de souffrance sont la mesure de tout bien.",
+        "en": "The only thing desirable for its own sake is happiness: <c id='hedonism'>pleasure</c> and the absence of suffering are the measure of all good."
+      }
+    },
+    {
+      "axisId": "PARTIALITY",
+      "thesis": {
+        "fr": "Chacun compte pour un, personne pour plus d'un : dans le calcul du bien, mon bonheur ne pèse pas plus que celui de n'importe qui.",
+        "en": "Each counts for one, none for more than one: in the reckoning of the good, my happiness weighs no more than anyone's."
+      }
+    },
+    {
+      "axisId": "MORAL_CIRCLE",
+      "thesis": {
+        "fr": "La question n'est pas de savoir si un être raisonne ou parle, mais s'il peut souffrir : tout être sensible entre dans le cercle moral.",
+        "en": "The question is not whether a being can reason or speak, but whether it can suffer: every sentient being enters the moral circle."
+      }
+    },
+    {
+      "axisId": "RIGHTS_NATURE",
+      "thesis": {
+        "fr": "Il n'existe pas de droits naturels antérieurs à la loi : un droit n'a de valeur que parce que le garantir sert le bien-être de tous.",
+        "en": "There are no natural rights prior to law: a right has worth only because securing it serves the well-being of all."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

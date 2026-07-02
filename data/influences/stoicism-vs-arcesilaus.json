@@ -1,0 +1,16 @@
+{
+  "id": "stoicism-vs-arcesilaus",
+  "from": { "kind": "MOVEMENT", "slug": "stoicism" },
+  "to": { "kind": "PHILOSOPHER", "slug": "arcesilaus" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Le scepticisme académique d'<ph id='arcesilaus'>Arcésilas</ph> se forge en réfutant l'épistémologie <mv id='stoicism'>stoïcienne</mv> : contre la <q>représentation compréhensive</q> censée garantir le vrai, il oppose la suspension du jugement.",
+    "en": "<ph id='arcesilaus'>Arcesilaus</ph>'s Academic skepticism is forged by refuting <mv id='stoicism'>Stoic</mv> epistemology: against the <q>cognitive impression</q> supposed to guarantee truth, he sets the suspension of judgement."
+  },
+  "sources": [
+    { "fr": "Cicéron, Academica ; Sextus Empiricus, Esquisses pyrrhoniennes", "en": "Cicero, Academica; Sextus Empiricus, Outlines of Pyrrhonism" }
+  ],
+  "updatedAt": "2026-07-02T00:00:00.000Z"
+}

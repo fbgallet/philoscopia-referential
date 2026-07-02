@@ -1,0 +1,16 @@
+{
+  "id": "empiricism-to-kant",
+  "from": { "kind": "MOVEMENT", "slug": "empiricism" },
+  "to": { "kind": "PHILOSOPHER", "slug": "kant" },
+  "directness": "ATTESTED",
+  "mode": "SYNTHESIZES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Contre le dogmatisme, <ph id='kant'>Kant</ph> retient de l'<mv id='empiricism'>empirisme</mv> que toute connaissance commence avec l'expérience ; sa Critique opère la synthèse des deux traditions : sans intuition les concepts sont vides, sans concepts les <c>intuitions</c> sont aveugles.",
+    "en": "Against dogmatism, <ph id='kant'>Kant</ph> retains from <mv id='empiricism'>empiricism</mv> that all knowledge begins with experience; his Critique synthesises the two traditions: without intuition concepts are empty, without concepts <c>intuitions</c> are blind."
+  },
+  "sources": [
+    { "fr": "Kant, Critique de la raison pure (1781)", "en": "Kant, Critique of Pure Reason (1781)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

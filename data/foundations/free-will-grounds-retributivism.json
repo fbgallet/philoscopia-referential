@@ -1,0 +1,12 @@
+{
+  "id": "free-will-grounds-retributivism",
+  "ground": { "axisId": "FREEDOM", "poleId": "FREE_WILL" },
+  "grounded": { "axisId": "PUNISHMENT", "poleId": "RETRIBUTIVISM" },
+  "kind": "T_V",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si l'agent aurait pu agir autrement, il est l'auteur véritable de sa faute et en porte le mérite ou le démérite. Le <c id='free-will'>libre arbitre</c> fonde le rétributivisme pénal : la peine est due en proportion de la faute, parce qu'elle a été librement commise. <ph id='kant'>Kant</ph> en fait une exigence de justice, et non un simple moyen de dissuasion.",
+    "en": "If the agent could have acted otherwise, they are the true author of their wrong and bear its merit or demerit. <c id='free-will'>Free will</c> grounds penal retributivism: punishment is owed in proportion to the fault, because it was freely committed. <ph id='kant'>Kant</ph> makes it a demand of justice, not a mere means of deterrence."
+  },
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

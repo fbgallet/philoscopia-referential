@@ -1,0 +1,71 @@
+{
+  "id": "fragility-of-goodness",
+  "title": {
+    "fr": "Le juste frappé par l'infortune",
+    "en": "The Just Man Struck by Misfortune"
+  },
+  "description": {
+    "fr": "Songez à un homme qui a vécu droitement : honnête, courageux, dévoué aux siens. Mais le sort s'acharne : il perd ses enfants, sa santé, ses biens, et finit dans la douleur et l'abandon. Rien ne lui est reproché, sa vertu reste entière, et pourtant sa vie s'achève dans le malheur le plus complet.",
+    "en": "Picture a man who lived an upright life: honest, courageous, devoted to those close to him. But fate turns against him: he loses his children, his health, his possessions, and ends in pain and abandonment. Nothing can be held against him, his virtue remains intact, and yet his life closes in the most utter misfortune."
+  },
+  "source": {
+    "author": {
+      "fr": "Aristote",
+      "en": "Aristotle"
+    },
+    "work": {
+      "fr": "Éthique à Nicomaque",
+      "en": "Nicomachean Ethics"
+    }
+  },
+  "question": {
+    "fr": "Sa vie fut-elle, malgré tout, une vie bonne ? Autrement dit : le bonheur est-il à l'abri de l'infortune, ou peut-il nous être arraché ?",
+    "en": "Was his life, in spite of everything, a good one? In other words: is happiness safe from misfortune, or can it be torn away from us?"
+  },
+  "axisIds": ["SOVEREIGN_GOOD"],
+  "options": [
+    {
+      "id": "virtue-suffices",
+      "label": {
+        "fr": "Sa vie fut bonne malgré tout : la vertu se suffit à elle-même, et nul malheur ne peut lui ôter sa valeur.",
+        "en": "His life was good in spite of everything: virtue is sufficient unto itself, and no misfortune can strip it of its worth."
+      },
+      "hints": [
+        { "axisId": "SOVEREIGN_GOOD", "value": { "kind": "weights", "weights": [0, 0, 1] } }
+      ],
+      "discussion": {
+        "fr": "<mv id='stoicism'>les stoïciens</mv> : le sage est heureux jusque sur la roue, car le seul vrai bien est la vertu.",
+        "en": "<mv id='stoicism'>the Stoics</mv>: the sage is happy even on the rack, for the only true good is virtue."
+      }
+    },
+    {
+      "id": "suffering-ruins",
+      "label": {
+        "fr": "Non : une vie qui s'achève dans tant de douleur et de pertes ne peut être dite bonne, si méritant que fût cet homme.",
+        "en": "No: a life that ends in so much pain and loss cannot be called good, however deserving the man was."
+      },
+      "hints": [
+        { "axisId": "SOVEREIGN_GOOD", "value": { "kind": "weights", "weights": [1, 0, 0] } }
+      ],
+      "discussion": {
+        "fr": "pour l'hédonisme, une vie se mesure au plaisir et à la peine ; <ph id='epicurus'>Épicure</ph> ferait du ressenti le juge.",
+        "en": "for hedonism, a life is measured by pleasure and pain; <ph id='epicurus'>Epicurus</ph> would make felt experience the judge."
+      }
+    },
+    {
+      "id": "fortune-mars",
+      "label": {
+        "fr": "Sa vertu rend sa vie admirable, mais l'infortune l'a bel et bien abîmée : une vie pleinement bonne demande aussi des biens extérieurs et un peu de chance.",
+        "en": "His virtue makes his life admirable, but misfortune did mar it: a fully good life also needs external goods and a measure of luck."
+      },
+      "hints": [
+        { "axisId": "SOVEREIGN_GOOD", "value": { "kind": "weights", "weights": [0, 0.8, 0.2] } }
+      ],
+      "discussion": {
+        "fr": "<ph id='aristotle'>Aristote</ph> : on n'appelle pas heureux qui finit comme Priam ; l'épanouissement requiert aussi des biens extérieurs.",
+        "en": "<ph id='aristotle'>Aristotle</ph>: we do not call happy a man who ends like Priam; flourishing also requires external goods."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-26T00:00:00.000Z"
+}

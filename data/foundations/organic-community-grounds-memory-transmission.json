@@ -1,0 +1,12 @@
+{
+  "id": "organic-community-grounds-memory-transmission",
+  "ground": { "axisId": "SOCIAL_CONTRACT", "poleId": "ORGANIC_COMMUNITY" },
+  "grounded": { "axisId": "TIME_ORIENTATION", "poleId": "MEMORY_TRANSMISSION" },
+  "kind": "T_V",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si la communauté est un héritage vivant qui me précède et me constitue, alors bien vivre, c'est recevoir ce legs et le transmettre à mon tour. La conception organique du lien social fonde l'orientation vers la mémoire et la transmission : de <ph id='burke'>Burke</ph> à <ph id='confucius'>Confucius</ph>, honorer ses dettes envers le passé et léguer aux générations futures donne à la vie sa profondeur.",
+    "en": "If the community is a living inheritance that precedes and constitutes me, then living well means receiving that legacy and passing it on in turn. The organic conception of the social bond grounds the orientation toward memory and transmission: from <ph id='burke'>Burke</ph> to <ph id='confucius'>Confucius</ph>, honouring our debts to the past and bequeathing to future generations gives life its depth."
+  },
+  "updatedAt": "2026-06-22T00:00:00.000Z"
+}

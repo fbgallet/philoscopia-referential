@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "anselm",
+  "stub": true,
+  "name": {
+    "fr": "Anselme de Cantorbéry",
+    "en": "Anselm of Canterbury"
+  },
+  "summary": {
+    "fr": "Moine et théologien médiéval, archevêque de Cantorbéry, auteur de l'argument ontologique : Dieu, « ce dont rien de plus grand ne peut être pensé », ne peut pas ne pas exister.",
+    "en": "Medieval monk and theologian, archbishop of Canterbury, author of the ontological argument: God, \"that than which nothing greater can be thought\", cannot fail to exist."
+  },
+  "birth": 1033,
+  "death": 1109,
+  "nationality": {
+    "fr": "Italien",
+    "en": "Italian"
+  },
+  "movements": [],
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

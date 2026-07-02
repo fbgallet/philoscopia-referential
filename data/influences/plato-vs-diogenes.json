@@ -1,0 +1,16 @@
+{
+  "id": "plato-vs-diogenes",
+  "from": { "kind": "PHILOSOPHER", "slug": "plato" },
+  "to": { "kind": "PHILOSOPHER", "slug": "diogenes" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='diogenes'>Diogène</ph> définit son cynisme contre <ph id='plato'>Platon</ph> : il raille la <c id='theory-of-forms'>théorie des Formes</c> (« je vois bien la coupe, non la coupéité ») et l'« homme de Platon » qu'il ridiculise avec un poulet plumé, opposant aux abstractions de l'idéaliste un naturalisme nominaliste et corporel.",
+    "en": "<ph id='diogenes'>Diogenes</ph> defines his Cynicism against <ph id='plato'>Plato</ph>: he mocks the <c id='theory-of-forms'>theory of Forms</c> (\"I see the cup, but not cupness\") and \"Plato's man\", which he ridicules with a plucked chicken, opposing to the idealist's abstractions a nominalist, bodily naturalism."
+  },
+  "sources": [
+    { "fr": "Diogène Laërce, Vies et doctrines des philosophes illustres, VI", "en": "Diogenes Laërtius, Lives of the Eminent Philosophers, VI" }
+  ],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

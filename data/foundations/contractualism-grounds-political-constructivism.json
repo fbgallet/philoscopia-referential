@@ -1,0 +1,12 @@
+{
+  "id": "contractualism-grounds-political-constructivism",
+  "ground": { "axisId": "SOCIAL_CONTRACT", "poleId": "CONTRACTUALISM" },
+  "grounded": { "axisId": "RIGHTS_NATURE", "poleId": "POLITICAL_CONSTRUCTIVISM" },
+  "kind": "T_T",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si l'ordre légitime naît d'un accord entre personnes libres et égales, les droits eux-mêmes apparaissent comme les termes d'une coopération équitable à construire, et non comme des donnés. Le contractualisme fonde le constructivisme politique : <ph id='rawls'>Rawls</ph> dérive les principes de justice d'un choix rationnel passé derrière un « voile d'ignorance ».",
+    "en": "If the legitimate order arises from an agreement among free and equal persons, then rights themselves appear as the terms of a fair cooperation to be constructed, not as givens. Contractualism grounds political constructivism: <ph id='rawls'>Rawls</ph> derives the principles of justice from a rational choice made behind a \"veil of ignorance\"."
+  },
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

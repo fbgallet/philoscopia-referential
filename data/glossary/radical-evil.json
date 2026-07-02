@@ -1,0 +1,15 @@
+{
+  "id": "radical-evil",
+  "term": { "fr": "Le mal radical", "en": "Radical evil" },
+  "definition": {
+    "fr": "Le mal radical désigne, chez <ph id='kant'>Kant</ph> dans <w id='religion-within-the-bounds-of-bare-reason-kant'>La Religion dans les limites de la simple raison</w>, une propension innée de l'être humain à subordonner la loi morale à l'amour de soi, c'est à dire à n'accorder au devoir qu'une place conditionnée par son intérêt. Radical ne veut pas dire absolu ni diabolique, mais enraciné : ce penchant tient à la racine même de notre liberté et accompagne toute volonté humaine. Il n'abolit pourtant pas la responsabilité, puisqu'il reste imputable et peut être surmonté par une révolution de l'intention morale.",
+    "en": "Radical evil designates, in <ph id='kant'>Kant</ph>'s <w id='religion-within-the-bounds-of-bare-reason-kant'>Religion within the Bounds of Bare Reason</w>, an innate propensity of the human being to subordinate the moral law to self-love, that is, to grant duty only a place conditioned by one's own interest. Radical does not mean absolute or diabolical, but rooted: this tendency lies at the very root of our freedom and accompanies every human will. It does not, however, abolish responsibility, since it remains imputable and can be overcome through a revolution in moral disposition."
+  },
+  "relatedAxes": ["HUMAN_VISION"],
+  "relatedTerms": ["categorical-imperative", "thing-in-itself"],
+  "figure": { "slug": "kant", "name": { "fr": "Kant", "en": "Kant" } },
+  "positions": [
+    { "axisId": "HUMAN_VISION", "poleId": "ANTHROPOLOGICAL_PESSIMISM" }
+  ],
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

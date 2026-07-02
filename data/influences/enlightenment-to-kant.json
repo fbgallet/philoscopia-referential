@@ -1,0 +1,17 @@
+{
+  "id": "enlightenment-to-kant",
+  "from": { "kind": "MOVEMENT", "slug": "enlightenment" },
+  "to": { "kind": "PHILOSOPHER", "slug": "kant" },
+  "directness": "ATTESTED",
+  "mode": "SYNTHESIZES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='kant'>Kant</ph> porte les Lumières à leur achèvement philosophique : il surmonte la querelle de l'<ax id='KNOWLEDGE_SOURCE'>empirisme et du rationalisme</ax> dans le criticisme, et fait de l'autonomie de la raison le cœur de sa morale comme de sa définition des Lumières, « la sortie de l'homme hors de sa minorité ».",
+    "en": "<ph id='kant'>Kant</ph> brings the Enlightenment to its philosophical completion: he overcomes the quarrel of <ax id='KNOWLEDGE_SOURCE'>empiricism and rationalism</ax> in his criticism, and makes the autonomy of reason the heart of his morality and of his very definition of Enlightenment, « man's emergence from his immaturity »."
+  },
+  "sources": [
+    { "fr": "Kant, Qu'est-ce que les Lumières ? (1784)", "en": "Kant, What Is Enlightenment? (1784)" },
+    { "fr": "Kant, Critique de la raison pure (1781)", "en": "Kant, Critique of Pure Reason (1781)" }
+  ],
+  "updatedAt": "2026-06-25T00:00:00.000Z"
+}

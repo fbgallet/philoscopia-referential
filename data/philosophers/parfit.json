@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "parfit",
+  "stub": true,
+  "name": {
+    "fr": "Derek Parfit",
+    "en": "Derek Parfit"
+  },
+  "summary": {
+    "fr": "Philosophe britannique, réductionniste sur l'identité personnelle : ce qui compte n'est pas l'identité d'un moi permanent mais la continuité psychologique, thèse qu'il tire d'expériences de pensée comme la téléportation et le dédoublement.",
+    "en": "British philosopher, a reductionist about personal identity: what matters is not the identity of a permanent self but psychological continuity, a thesis he drew from thought experiments such as teleportation and fission."
+  },
+  "birth": 1942,
+  "death": 2017,
+  "nationality": {
+    "fr": "Britannique",
+    "en": "British"
+  },
+  "movements": [],
+  "updatedAt": "2026-06-27T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

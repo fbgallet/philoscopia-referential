@@ -1,0 +1,16 @@
+{
+  "id": "berkeley-to-hume",
+  "from": { "kind": "PHILOSOPHER", "slug": "berkeley" },
+  "to": { "kind": "PHILOSOPHER", "slug": "hume" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='hume'>Hume</ph> hérite de <ph id='berkeley'>Berkeley</ph> la critique des idées <c>abstraites</c> et le recentrement de toute connaissance sur les perceptions, qu'il étend de la matière à l'esprit lui-même.",
+    "en": "<ph id='hume'>Hume</ph> inherits from <ph id='berkeley'>Berkeley</ph> the critique of <c>abstract</c> ideas and the recentring of all knowledge on perceptions, which he extends from matter to the mind itself."
+  },
+  "sources": [
+    { "fr": "Hume, Traité de la nature humaine (1739)", "en": "Hume, A Treatise of Human Nature (1739)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

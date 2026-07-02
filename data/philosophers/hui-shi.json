@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "hui-shi",
+  "stub": true,
+  "name": {
+    "fr": "Hui Shi",
+    "en": "Hui Shi"
+  },
+  "summary": {
+    "fr": "Logicien et dialecticien chinois de l'École des noms, ami et contradicteur favori de <ph id='zhuangzi'>Zhuangzi</ph>, connu pour ses paradoxes sur la relativité du grand et du petit.",
+    "en": "Chinese logician and dialectician of the School of Names, friend and favorite foil of <ph id='zhuangzi'>Zhuangzi</ph>, known for his paradoxes on the relativity of great and small."
+  },
+  "birth": -370,
+  "death": -310,
+  "nationality": {
+    "fr": "Chinois",
+    "en": "Chinese"
+  },
+  "movements": [],
+  "updatedAt": "2026-06-29T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

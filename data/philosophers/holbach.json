@@ -1,0 +1,17 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "holbach",
+  "stub": true,
+  "name": { "fr": "d'Holbach", "en": "d'Holbach" },
+  "fullName": { "fr": "Paul-Henri Thiry, baron d'Holbach", "en": "Paul-Henri Thiry, Baron d'Holbach" },
+  "summary": {
+    "fr": "Philosophe d'origine allemande, animateur des <mv id='enlightenment'>Lumières</mv> parisiennes et auteur du Système de la nature, manifeste du matérialisme athée.",
+    "en": "German-born philosopher, a host of the Parisian <mv id='enlightenment'>Enlightenment</mv> and author of The System of Nature, a manifesto of atheist materialism."
+  },
+  "birth": 1723,
+  "death": 1789,
+  "nationality": { "fr": "Français (né allemand)", "en": "French (German-born)" },
+  "movements": ["enlightenment"],
+  "updatedAt": "2026-06-25T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

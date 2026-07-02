@@ -1,0 +1,16 @@
+{
+  "id": "kierkegaard-to-sartre",
+  "from": { "kind": "PHILOSOPHER", "slug": "kierkegaard" },
+  "to": { "kind": "PHILOSOPHER", "slug": "sartre" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='sartre'>Sartre</ph> reprend de <ph id='kierkegaard'>Kierkegaard</ph> les thèmes de l'<c>angoisse</c>, du <c>choix</c> et de la singularité existentielle, en les sécularisant : l'existence précède l'essence, sans le saut de la foi qui les couronnait.",
+    "en": "<ph id='sartre'>Sartre</ph> takes from <ph id='kierkegaard'>Kierkegaard</ph> the themes of <c>anxiety</c>, <c>choice</c> and existential singularity, secularising them: existence precedes essence, without the leap of faith that had crowned them."
+  },
+  "sources": [
+    { "fr": "Sartre, L'existentialisme est un humanisme (1946)", "en": "Sartre, Existentialism Is a Humanism (1946)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

@@ -1,0 +1,488 @@
+{
+  "kind": "MOVEMENT",
+  "id": "existentialism",
+  "name": {
+    "fr": "Existentialisme",
+    "en": "Existentialism"
+  },
+  "tagline": {
+    "fr": "L'<ax id='ESSENCE'>existence précède l'essence</ax> : condamnés à être <ax id='FREEDOM'>libres</ax>, nous nous inventons.",
+    "en": "<ax id='ESSENCE'>Existence precedes essence</ax>: condemned to be <ax id='FREEDOM'>free</ax>, we invent ourselves."
+  },
+  "summary": {
+    "fr": "Courant né de la révolte de <ph>Kierkegaard</ph> contre le système de <ph id='hegel'>Hegel</ph> et de l'annonce par <ph id='nietzsche'>Nietzsche</ph> de la « mort de Dieu », qui place l'existence concrète et singulière, et non l'essence abstraite, au point de départ de la philosophie. Héritier de la <mv id='phenomenology'>phénoménologie</mv> de <ph>Husserl</ph> et de <ph id='heidegger'>Heidegger</ph>, il connaît son heure dans le Paris de l'après-guerre, où <ph id='sartre'>Sartre</ph>, <ph id='beauvoir'>Beauvoir</ph> et <ph id='camus'>Camus</ph> en font une philosophie de l'<c>engagement</c>. L'école est traversée par une fracture qui ne l'empêche pas de partager ses thèses fondatrices : un versant chrétien (Kierkegaard, Jaspers, Marcel) et un versant athée (Sartre, Beauvoir, Camus). Contre toute morale donnée et tout salut garanti, elle adresse à l'individu la question de ce qu'il fait de sa liberté, et a marqué la psychologie existentielle, la théologie, la littérature et la pensée féministe au travers du <w>Deuxième Sexe</w>.",
+    "en": "A current born of <ph>Kierkegaard</ph>'s revolt against <ph id='hegel'>Hegel</ph>'s system and of <ph id='nietzsche'>Nietzsche</ph>'s announcement of the « death of God », which takes concrete, singular existence rather than abstract essence as philosophy's starting point. Heir to the <mv id='phenomenology'>phenomenology</mv> of <ph>Husserl</ph> and <ph id='heidegger'>Heidegger</ph>, it has its hour in postwar Paris, where <ph id='sartre'>Sartre</ph>, <ph id='beauvoir'>Beauvoir</ph> and <ph id='camus'>Camus</ph> turn it into a philosophy of <c>commitment</c>. The school is split by a divide that does not stop it from sharing its founding theses: a Christian wing (Kierkegaard, Jaspers, Marcel) and an atheist one (Sartre, Beauvoir, Camus). Against every given morality and every guaranteed salvation, it puts to the individual the question of what they make of their freedom, and shaped existential psychology, theology, literature and feminist thought through <w>The Second Sex</w>."
+  },
+  "period": {
+    "from": 1843,
+    "to": 1980
+  },
+  "keyFigures": [
+    {
+      "slug": "kierkegaard",
+      "name": { "fr": "Kierkegaard", "en": "Kierkegaard" }
+    },
+    {
+      "slug": "sartre",
+      "name": { "fr": "Sartre", "en": "Sartre" }
+    },
+    {
+      "slug": "beauvoir",
+      "name": { "fr": "Simone de Beauvoir", "en": "Simone de Beauvoir" }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0.15,
+          0.5,
+          0.25
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'existentialisme refuse toute morale donnée d'avance : sans valeurs inscrites dans les choses, la vie bonne tient à l'<kw>authenticité</kw>, assumer sa liberté et sa responsabilité sans mauvaise foi. Beauvoir en tire une exigence de care : vouloir sa propre liberté, c'est vouloir celle d'autrui. Éthique de la vertu (l'authenticité) et du soin (la liberté d'autrui), plus que de la règle ou du calcul.",
+          "en": "Existentialism refuses any pre-given morality: with no values inscribed in things, the good life lies in <kw>authenticity</kw>, assuming one's freedom and responsibility without bad faith. Beauvoir draws from this a demand of care: to will one's own freedom is to will that of others. An ethics of virtue (authenticity) and of care (the freedom of others), more than of rule or calculation."
+        },
+        "references": [
+          {
+            "fr": "Sartre, L'existentialisme est un humanisme",
+            "en": "Sartre, Existentialism Is a Humanism"
+          },
+          {
+            "fr": "Beauvoir, Pour une morale de l'ambiguïté",
+            "en": "Beauvoir, The Ethics of Ambiguity"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.15,
+          0.55,
+          0.3
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'existentialisme ne reçoit pas le bien d'une nature ou d'un ciel des valeurs : la vie réussie est l'existence authentique qui assume sa liberté et se réalise dans des projets choisis. Cette auto-réalisation porte une exigence quasi morale, l'authenticité et la responsabilité contre la mauvaise foi, sans se confondre avec un plaisir ni une vertu codifiée.",
+          "en": "Existentialism does not receive the good from a nature or a heaven of values: the successful life is the authentic existence that assumes its freedom and realizes itself in chosen projects. This self-realization carries a quasi-moral demand, authenticity and responsibility against bad faith, without merging into a pleasure or a codified virtue."
+        },
+        "references": [
+          {
+            "fr": "Sartre, L'existentialisme est un humanisme",
+            "en": "Sartre, Existentialism Is a Humanism"
+          },
+          {
+            "fr": "Beauvoir, Pour une morale de l'ambiguïté",
+            "en": "Beauvoir, The Ethics of Ambiguity"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.6,
+          0.3,
+          0.1
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'existentialisme assume le désir et la passion comme part de l'engagement libre dans le monde, contre toute morale de la résignation ou de l'ascèse. Le désir n'est ni à éteindre ni seulement à discipliner : il exprime la façon dont l'existant se projette et se choisit, à reprendre lucidement plutôt qu'à fuir.",
+          "en": "Existentialism takes up desire and passion as part of free engagement in the world, against any morality of resignation or asceticism. Desire is neither to be extinguished nor merely disciplined: it expresses the way the existing self projects and chooses itself, to be lucidly assumed rather than fled."
+        },
+        "references": [
+          {
+            "fr": "Sartre, L'Être et le Néant",
+            "en": "Sartre, Being and Nothingness"
+          },
+          {
+            "fr": "Beauvoir, Pour une morale de l'ambiguïté",
+            "en": "Beauvoir, The Ethics of Ambiguity"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.2
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le courant privilégie l'<kw>existence concrète</kw>, vécue à la première personne, contre les systèmes rationnels abstraits qui prétendent tout déduire (Hegel) : la vérité qui engage se saisit dans la situation, l'angoisse, le choix, non dans une raison désincarnée. Ce n'est pas pour autant un empirisme des faits, et les figures divergent, ce qui maintient le courant près de la médiane, légèrement du côté de l'expérience vécue.",
+          "en": "The movement privileges <kw>concrete existence</kw>, lived in the first person, against the abstract rational systems that claim to deduce everything (Hegel): the truth that commits is grasped in the situation, in anguish, in choice, not in a disembodied reason. It is not for all that an empiricism of facts, and the figures diverge, which keeps the movement near the median, leaning slightly toward lived experience."
+        },
+        "references": [
+          {
+            "fr": "Kierkegaard, Post-scriptum définitif et non scientifique",
+            "en": "Kierkegaard, Concluding Unscientific Postscript"
+          },
+          {
+            "fr": "Sartre, L'existentialisme est un humanisme",
+            "en": "Sartre, Existentialism Is a Humanism"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.2
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Trait commun par-delà les divisions du courant : le refus du grand <kw>système</kw> rationnel qui prétendrait enclore le réel dans des certitudes objectives et impersonnelles, à la manière de Hegel. La vérité qui compte ne se contemple pas, elle s'éprouve et s'approprie dans l'existence, <q>la vérité est la subjectivité</q> (Kierkegaard). Sur le reste les figures divergent, de la <c>foi</c> kierkegaardienne au <c>cogito</c> que Sartre maintient comme vérité absolue, ce qui interdit de ranger franchement le courant du côté sceptique : il déplace surtout le lieu du vrai, du système vers le sujet.",
+          "en": "A common trait beyond the movement's divisions: the refusal of the grand rational <kw>system</kw> that would claim to enclose reality within objective, impersonal certainties, in Hegel's manner. The truth that matters is not contemplated, it is undergone and appropriated in existence, <q>truth is subjectivity</q> (Kierkegaard). On the rest the figures diverge, from Kierkegaardian <c>faith</c> to the <c>cogito</c> that Sartre upholds as absolute truth, which forbids ranging the movement squarely on the skeptical side: it chiefly shifts the locus of the true, from the system to the subject."
+        },
+        "references": [
+          {
+            "fr": "Kierkegaard, Post-scriptum définitif et non scientifique",
+            "en": "Kierkegaard, Concluding Unscientific Postscript"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.95 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Un objet fabriqué, un coupe-papier, présuppose dans l'esprit de l'artisan le concept et la fonction qui le définissent : son essence précède son existence. <pb>Faute d'un Dieu artisan, l'homme ne peut être pensé ainsi</pb> : il n'a pas d'essence préalable à réaliser, il existe d'abord et se définit ensuite par ce qu'il fait de lui-même. Le courant retourne ainsi tout l'<mv>essentialisme</mv>, de <ph id='plato'>Platon</ph> à la théologie : il n'y a pas de modèle de l'homme antérieur aux hommes singuliers, et <ph>Kierkegaard</ph> déjà opposait à l'essence hégélienne du système le devenir-soi de l'existant.",
+          "en": "A manufactured object, a paper-knife, presupposes in the artisan's mind the concept and function that define it: its essence precedes its existence. <pb>Lacking an artisan God, the human being cannot be thought this way</pb>: there is no prior essence to realize, the person first exists and only then defines themselves by what they make of themselves. The movement thus overturns the whole of <mv>essentialism</mv>, from <ph id='plato'>Plato</ph> to theology: there is no model of man preceding singular men, and <ph>Kierkegaard</ph> already set the existing individual's becoming-a-self against the system's Hegelian essence."
+        },
+        "quote": {
+          "text": {
+            "fr": "L'homme existe d'abord, se rencontre, surgit dans le monde, et qu'il se définit après.",
+            "en": "Man first of all exists, encounters himself, surges up in the world, and defines himself afterwards."
+          },
+          "source": {
+            "fr": "Sartre, L'existentialisme est un humanisme",
+            "en": "Sartre, Existentialism Is a Humanism"
+          }
+        },
+        "references": [
+          { "fr": "L'existentialisme est un humanisme", "en": "Existentialism Is a Humanism" },
+          { "fr": "L'Être et le Néant", "en": "Being and Nothingness" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.9 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si l'homme n'a pas d'essence reçue, rien en lui ni hors de lui ne décide à sa place : il est sa liberté même, non parce qu'il jouirait d'un libre arbitre confortable, mais parce qu'aucune valeur, aucune nature, aucun ordre ne le dispense de choisir. D'où le renversement du <c id='determinism'>déterminisme</c> : invoquer ses passions, son milieu ou son caractère pour s'excuser, c'est de la <c id='bad-faith'>mauvaise foi</c>, car ce sont mes choix qui leur donnent prise. <dif>La situation où l'homme est jeté ne contredit pas cette liberté</dif> mais en est la matière : c'est le <c>projet</c> librement assumé qui constitue l'obstacle en obstacle, contre l'illusion qu'on serait agi du dehors.",
+          "en": "If the human being has no received essence, nothing within or outside them decides in their stead: they are their freedom itself, not because they enjoy a comfortable free will, but because no value, no nature, no order spares them from choosing. Hence the reversal of <c id='determinism'>determinism</c>: to invoke one's passions, milieu or character as an excuse is <c id='bad-faith'>bad faith</c>, for it is my choices that give them their grip. <dif>The situation into which one is thrown does not contradict this freedom</dif> but is its material: it is the freely assumed <c>project</c> that constitutes an obstacle as an obstacle, against the illusion of being acted on from without."
+        },
+        "quote": {
+          "text": {
+            "fr": "L'homme est condamné à être libre. Condamné, parce qu'il ne s'est pas créé lui-même, et par ailleurs cependant libre, parce qu'une fois jeté dans le monde, il est responsable de tout ce qu'il fait.",
+            "en": "Man is condemned to be free; condemned, because he did not create himself, yet nonetheless free, because once thrown into the world, he is responsible for everything he does."
+          },
+          "source": {
+            "fr": "Sartre, L'existentialisme est un humanisme",
+            "en": "Sartre, Existentialism Is a Humanism"
+          }
+        },
+        "references": [
+          { "fr": "L'Être et le Néant", "en": "Being and Nothingness" },
+          { "fr": "L'existentialisme est un humanisme", "en": "Existentialism Is a Humanism" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 0.85, 0.15, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Parce que l'existence précède l'essence, le sens ne saurait préexister à l'existant qui le porte : ni providence, ni nature, ni progrès de l'Histoire ne livre d'avance une fin à la vie. <stk>Le sens n'est pourtant pas aboli mais déplacé</stk> : il devient une tâche, ce que chacun fait advenir par ses <c>engagements</c>. C'est là que le courant se sépare du nihilisme autant que des religions du salut, car renoncer à un sens donné n'est pas conclure à l'absurde, mais charger l'individu de répondre, comme <ph id='camus'>Camus</ph> oppose à l'absence de sens la révolte plutôt que le désespoir.",
+          "en": "Because existence precedes essence, meaning cannot pre-exist the individual who bears it: neither providence, nor nature, nor the progress of History delivers a purpose to life in advance. <stk>Yet meaning is not abolished but displaced</stk>: it becomes a task, what each person brings about through their <c>commitments</c>. Here the movement parts ways with nihilism as much as with the religions of salvation, for to give up a given meaning is not to conclude to absurdity but to charge the individual with answering, as <ph id='camus'>Camus</ph> sets revolt rather than despair against the absence of meaning."
+        },
+        "references": [
+          { "fr": "L'existentialisme est un humanisme", "en": "Existentialism Is a Humanism" },
+          { "fr": "Simone de Beauvoir, Pour une morale de l'ambiguïté", "en": "Simone de Beauvoir, The Ethics of Ambiguity" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TIME_ORIENTATION",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.1, 0.8, 0.1] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Un être sans essence ne peut se définir par ce qu'il est déjà, mais seulement par ce vers quoi il se porte : l'existence est <c>projet</c>, élan vers un avenir qu'elle a à être. <ph id='heidegger'>Heidegger</ph> nomme cette structure le devancement, et <ph id='sartre'>Sartre</ph> la reprend : c'est l'avenir visé qui éclaire rétrospectivement le passé et lui confère son sens, non l'inverse. Le primat du futur distingue ainsi le courant des sagesses du présent comme le <mv id='stoicism'>stoïcisme</mv> ou l'<mv id='epicureanism'>épicurisme</mv>, pour qui bien vivre, c'est recueillir l'instant : ici, vivre, c'est se projeter et ne jamais coïncider avec soi.",
+          "en": "A being without essence cannot be defined by what it already is, only by what it reaches toward: existence is <c>project</c>, a thrust toward a future it has to be. <ph id='heidegger'>Heidegger</ph> names this structure being-ahead-of-itself, and <ph id='sartre'>Sartre</ph> takes it up: it is the aimed-at future that retrospectively illuminates the past and gives it its meaning, not the reverse. The primacy of the future thus sets the movement apart from the wisdoms of the present such as <mv id='stoicism'>Stoicism</mv> or <mv id='epicureanism'>Epicureanism</mv>, for whom living well is gathering the instant: here, to live is to project oneself and never to coincide with oneself."
+        },
+        "references": [
+          { "fr": "L'Être et le Néant", "en": "Being and Nothingness" },
+          { "fr": "Heidegger, Être et Temps", "en": "Heidegger, Being and Time" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.15, 0.8, 0, 0.05] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Dans la tradition existentielle, la <c>finitude</c> n'est pas un accident extérieur mais ce qui individualise l'existence : pour <ph>Heidegger</ph>, le <c>Dasein</c> (l'être-là) est <c>être-pour-la-mort</c>, et l'anticipation résolue de sa mort propre arrache à l'inauthenticité, contraire de l'<c id='authenticity'>authenticité</c>. <ph id='sartre'>Sartre</ph> nuance cette thèse, mais le courant refuse unanimement l'immortalité consolatrice.",
+          "en": "In the existential tradition, <c>finitude</c> is no external accident but what individualizes existence: for <ph>Heidegger</ph>, <c>Dasein</c> (being-there) is <c>being-toward-death</c>, and resolute anticipation of one's own death wrests one from inauthenticity, the opposite of <c id='authenticity'>authenticity</c>. <ph id='sartre'>Sartre</ph> qualifies this thesis, but the movement unanimously rejects consoling immortality."
+        },
+        "references": [
+          { "fr": "Heidegger, Être et Temps", "en": "Heidegger, Being and Time" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.1, 0.4, 0.5] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "<pb>Si Dieu n'existe pas, aucune table de valeurs n'est inscrite dans un ciel intelligible</pb> : les valeurs sont créées par les choix humains. <ph id='sartre'>Sartre</ph> soutient cependant qu'en se choisissant, chacun choisit l'homme, ce qui rapproche la position d'un constructivisme plus que d'un pur relativisme.",
+          "en": "<pb>If God does not exist, no table of values is written in an intelligible heaven</pb>: values are created by human choices. <ph id='sartre'>Sartre</ph> nonetheless holds that in choosing oneself one chooses for all humanity, which brings the position closer to constructivism than to sheer relativism."
+        },
+        "references": [
+          { "fr": "L'existentialisme est un humanisme", "en": "Existentialism Is a Humanism" },
+          { "fr": "Simone de Beauvoir, Pour une morale de l'ambiguïté", "en": "Simone de Beauvoir, The Ethics of Ambiguity" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "COSMIC_OUTLOOK",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.4 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le réel existentialiste est <c>contingent</c>, gratuit, sans garantie rationnelle : la <c>nausée</c> devant l'existence brute et l'<c>angoisse</c> de la liberté donnent au courant une tonalité tragique, proche du sentiment de <c id='the-absurd'>l'absurde</c>. Elle reste toutefois tempérée par la confiance dans l'engagement et l'action.",
+          "en": "The existentialist view of reality is <c>contingent</c>, gratuitous, without rational guarantee: <c>nausea</c> before brute existence and the <c>anguish</c> of freedom give the movement a tragic tonality, close to the sense of <c id='the-absurd'>the absurd</c>. It remains tempered, however, by confidence in commitment and action."
+        },
+        "references": [
+          { "fr": "La Nausée", "en": "Nausea" },
+          { "fr": "Kierkegaard, Le Concept d'angoisse", "en": "Kierkegaard, The Concept of Anxiety" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.7 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Il y a des vérités qu'on ne peut tenir à distance comme un objet de savoir : ce qu'est la mort, l'amour ou la foi pour moi ne se laisse saisir qu'en première personne, par celui qui l'éprouve et s'y engage. <ph>Kierkegaard</ph> en tire son mot d'ordre contre <ph id='hegel'>Hegel</ph> : « la subjectivité est la vérité », car le système objectif, en pensant l'humanité en général, oublie l'existant singulier qui pense. De cette <c>intériorité</c> au <c>pour-soi</c> sartrien, le courant fait du point de vue vécu le sol de la philosophie ; mais comme exister c'est s'engager dans le monde, cette intériorité n'est pas un repli contemplatif.",
+          "en": "There are truths one cannot hold at arm's length as an object of knowledge: what death, love or faith are for me can be grasped only in the first person, by the one who undergoes them and stakes themselves on them. <ph>Kierkegaard</ph> draws from this his watchword against <ph id='hegel'>Hegel</ph>: « subjectivity is truth », for the objective system, in thinking humanity in general, forgets the singular existing individual who thinks. From this <c>inwardness</c> to the Sartrean <c>for-itself</c>, the movement makes the lived point of view the ground of philosophy; but since to exist is to commit oneself in the world, this inwardness is no contemplative withdrawal."
+        },
+        "references": [
+          { "fr": "Kierkegaard, Post-scriptum aux Miettes philosophiques", "en": "Kierkegaard, Concluding Unscientific Postscript" },
+          { "fr": "L'Être et le Néant", "en": "Being and Nothingness" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HUMAN_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.7 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le corollaire direct de la thèse de l'existence sans essence préalable est le refus d'une <c>nature humaine</c> fixe qui déterminerait à l'avance ce que nous sommes : l'homme n'est rien d'autre que ce qu'il se fait. Ce qui nous définit relève de l'autoconstruction et de la situation historique, non d'un donné biologique invariant.",
+          "en": "The direct corollary of the thesis of existence without prior essence is the refusal of a fixed <c>human nature</c> determining in advance what we are: man is nothing other than what he makes of himself. What defines us belongs to self-construction and to the historical situation, not to an invariant biological given."
+        },
+        "references": [
+          { "fr": "L'existentialisme est un humanisme", "en": "Existentialism Is a Humanism" },
+          { "fr": "Simone de Beauvoir, Le Deuxième Sexe", "en": "Simone de Beauvoir, The Second Sex" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.5 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Les affects ne sont pas de simples troubles à maîtriser par la raison : l'<c>angoisse</c>, la nausée ou le désespoir sont des tonalités révélatrices qui dévoilent la condition humaine, sa liberté et sa contingence. L'angoisse kierkegaardienne devant le possible et l'angoisse sartrienne devant la liberté donnent accès à une vérité que l'analyse intellectuelle seule manquerait.",
+          "en": "Affects are not mere disturbances to be mastered by reason: <c>anguish</c>, nausea, and despair are disclosive moods that reveal the human condition, its freedom and its contingency. <ph>Kierkegaard</ph>'s anxiety before the possible and <ph id='sartre'>Sartre</ph>'s anguish before freedom grant access to a truth that intellectual analysis alone would miss."
+        },
+        "references": [
+          { "fr": "Kierkegaard, Le Concept d'angoisse", "en": "Kierkegaard, The Concept of Anxiety" },
+          { "fr": "L'Être et le Néant", "en": "Being and Nothingness" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 0.2, 0.8, 0] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le moi n'est pas une substance fixe cachée derrière l'existence : il est une tâche, quelque chose qui se fait au fil des choix et qui n'a d'unité que celle, narrative, du projet qui le ressaisit. Pour <ph>Kierkegaard</ph>, le soi est un rapport qui se rapporte à lui-même et qu'il faut conquérir ; pour <ph id='sartre'>Sartre</ph>, le <c>pour-soi</c> n'a pas d'essence donnée. D'où une conception du soi comme construit, proche du <c>narrativisme</c>.",
+          "en": "The self is no fixed substance hidden behind existence: it is a task, something made through one's choices, whose unity is only the narrative unity of the project that takes it up. For <ph>Kierkegaard</ph> the self is a relation that relates to itself and must be won; for <ph id='sartre'>Sartre</ph> the <c>for-itself</c> has no given essence. Hence a conception of the self as constructed, close to <c>narrativism</c>."
+        },
+        "references": [
+          { "fr": "Kierkegaard, La Maladie à la mort", "en": "Kierkegaard, The Sickness unto Death" },
+          { "fr": "L'Être et le Néant", "en": "Being and Nothingness" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "EMBODIMENT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Contre le dualisme de <ph id='descartes'>Descartes</ph>, qui fait du corps une chose étendue distincte de l'esprit, l'existence se dit incarnée : je n'ai pas un corps comme on possède un instrument, je suis mon corps, point de vue ancré d'où le monde s'ouvre à moi. <ph id='merleau-ponty'>Merleau-Ponty</ph> en fait le corps propre, ni pur objet ni pure conscience, et <ph id='sartre'>Sartre</ph> ajoute qu'il est aussi ce par quoi je m'expose au regard d'autrui, qui me saisit du dehors comme une chose. C'est par le corps que je suis situé, donc engagé.",
+          "en": "Against the dualism of <ph id='descartes'>Descartes</ph>, who makes the body an extended thing distinct from the mind, existence is said to be embodied: I do not have a body as one owns an instrument, I am my body, the anchored point of view from which the world opens to me. <ph id='merleau-ponty'>Merleau-Ponty</ph> makes it the lived body, neither pure object nor pure consciousness, and <ph id='sartre'>Sartre</ph> adds that it is also that by which I expose myself to the gaze of others, who grasp me from outside as a thing. It is through the body that I am situated, and so committed."
+        },
+        "references": [
+          {
+            "fr": "Sartre, L'Être et le Néant ; Merleau-Ponty, Phénoménologie de la perception",
+            "en": "Sartre, Being and Nothingness; Merleau-Ponty, Phenomenology of Perception"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SOCIAL_IDENTITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.85,
+          0.15
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Appliquée aux identités sociales, la thèse de l'existence sans essence dément qu'elles soient des données naturelles : c'est <ph id='beauvoir'>Beauvoir</ph> qui en tire la formule décisive, « on ne naît pas femme, on le devient », faisant du genre une situation historiquement construite et non une nature. Le Juif, pour <ph id='sartre'>Sartre</ph>, n'a pas davantage d'essence : c'est le regard d'autrui qui le fixe, et reprendre cette identité comme un projet assumé, plutôt que la subir ou la fuir, relève de la liberté, non de l'essence.",
+          "en": "Applied to social identities, the thesis of existence without essence denies that they are natural givens: it is <ph id='beauvoir'>Beauvoir</ph> who draws the decisive formula, « one is not born, but rather becomes, a woman », making gender a historically constructed situation and not a nature. The Jew, for <ph id='sartre'>Sartre</ph>, likewise has no essence: it is the gaze of others that fixes them, and to take up that identity as an assumed project, rather than suffer or flee it, belongs to freedom, not to essence."
+        },
+        "references": [
+          {
+            "fr": "Sartre, Réflexions sur la question juive ; Beauvoir, Le Deuxième Sexe",
+            "en": "Sartre, Anti-Semite and Jew; Beauvoir, The Second Sex"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "ESSENCE",
+      "thesis": {
+        "fr": "L'<ax id='ESSENCE'>existence précède l'essence</ax> : l'homme n'est d'abord rien, il n'est que ce qu'il se fait.",
+        "en": "<ax id='ESSENCE'>Existence precedes essence</ax>: a human being is at first nothing, and is only what they make of themselves."
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "thesis": {
+        "fr": "L'homme est <ax id='FREEDOM'>condamné à être libre</ax> : sans nature ni valeur reçue pour le décider à sa place, il répond seul de tout ce qu'il fait.",
+        "en": "Man is <ax id='FREEDOM'>condemned to be free</ax>: with no received nature or value to decide in their stead, they alone answer for everything they do."
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "thesis": {
+        "fr": "La vérité qui compte ne s'atteint pas en survol mais en première personne : la <c>subjectivité</c> vécue de l'existant singulier, et non le système, est le sol de la philosophie.",
+        "en": "The truth that matters is reached not from above but in the first person: the lived <c>subjectivity</c> of the singular individual, not the system, is the ground of philosophy."
+      }
+    },
+    {
+      "axisId": "TIME_ORIENTATION",
+      "thesis": {
+        "fr": "Exister, c'est se <c>projeter</c> vers un avenir qu'on a à être : l'homme ne coïncide jamais avec ce qu'il est, il se devance.",
+        "en": "To exist is to <c>project</c> oneself toward a future one has to be: the human being never coincides with what they are, but runs ahead of themselves."
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "thesis": {
+        "fr": "Aucune providence ne donne d'avance un <ax id='LIFE_MEANING'>sens à la vie</ax> : le sens n'est pas trouvé mais fait, par les <c>engagements</c> que l'on assume.",
+        "en": "No providence gives life a <ax id='LIFE_MEANING'>meaning</ax> in advance: meaning is not found but made, through the <c>commitments</c> one assumes."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

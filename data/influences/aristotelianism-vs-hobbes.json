@@ -1,0 +1,16 @@
+{
+  "id": "aristotelianism-vs-hobbes",
+  "from": { "kind": "MOVEMENT", "slug": "aristotelianism" },
+  "to": { "kind": "PHILOSOPHER", "slug": "hobbes" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='hobbes'>Hobbes</ph> bâtit son mécanisme contre l'<mv id='aristotelianism'>aristotélisme</mv> scolastique, dont il raille l'<q>Aristotélité</q> : plus d'essences ni de causes finales, seulement des corps en mouvement, jusque dans la politique.",
+    "en": "<ph id='hobbes'>Hobbes</ph> builds his mechanism against scholastic <mv id='aristotelianism'>Aristotelianism</mv>, whose <q>Aristotelity</q> he mocks: no more essences or final causes, only bodies in motion, right into politics."
+  },
+  "sources": [
+    { "fr": "Hobbes, Léviathan, chapitre 46", "en": "Hobbes, Leviathan, chapter 46" }
+  ],
+  "updatedAt": "2026-07-02T00:00:00.000Z"
+}

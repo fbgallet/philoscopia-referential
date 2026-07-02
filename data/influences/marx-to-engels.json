@@ -1,0 +1,16 @@
+{
+  "id": "marx-to-engels",
+  "from": { "kind": "PHILOSOPHER", "slug": "marx" },
+  "to": { "kind": "PHILOSOPHER", "slug": "engels" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='engels'>Engels</ph> élabore avec <ph id='marx'>Marx</ph>, puis après lui, la critique de l'économie politique et la conception <c>matérialiste</c> de l'histoire, dont il assure la formulation systématique et la diffusion.",
+    "en": "<ph id='engels'>Engels</ph> works out with <ph id='marx'>Marx</ph>, and after him, the critique of political economy and the <c>materialist</c> conception of history, whose systematic formulation and diffusion he secures."
+  },
+  "sources": [
+    { "fr": "Marx et Engels, L'Idéologie allemande", "en": "Marx and Engels, The German Ideology" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "essai-genre",
+  "term": { "fr": "L'essai", "en": "The essay" },
+  "definition": {
+    "fr": "L'essai est le genre littéraire que <ph id='montaigne'>Montaigne</ph> invente avec les <w id='essays-montaigne'>Essais</w> : non un traité qui expose une doctrine, mais l'« essai », la mise à l'épreuve de son propre jugement sur un sujet quelconque. C'est une pensée en acte, provisoire et toujours révisable, qui se cherche en s'écrivant et s'autorise à se contredire d'un chapitre à l'autre. Prendre sa propre <ax id='INTERIORITY'>expérience intérieure</ax> pour matière y devient une méthode, l'auteur n'affirmant pas une vérité acquise mais éprouvant à mesure ce qu'il peut en dire.",
+    "en": "The essay is the literary genre <ph id='montaigne'>Montaigne</ph> invents with the <w id='essays-montaigne'>Essays</w>: not a treatise expounding a doctrine, but the \"essay\", the trial of his own judgment on whatever subject. It is thought in the making, provisional and always open to revision, which seeks itself in the writing and allows itself to contradict itself from one chapter to the next. Taking one's own <ax id='INTERIORITY'>inner experience</ax> for matter becomes a method here, the author asserting no settled truth but testing, as he goes, what he can say of it."
+  },
+  "relatedAxes": ["INTERIORITY"],
+  "relatedTerms": ["skepticism"],
+  "figure": { "slug": "montaigne", "name": { "fr": "Montaigne", "en": "Montaigne" } },
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

@@ -1,0 +1,487 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "bacon",
+  "name": {
+    "fr": "Bacon",
+    "en": "Bacon"
+  },
+  "fullName": {
+    "fr": "Francis Bacon",
+    "en": "Francis Bacon"
+  },
+  "tagline": {
+    "fr": "« Savoir, c'est pouvoir » : une méthode nouvelle pour commander la nature en lui obéissant.",
+    "en": "\"Knowledge is power\": a new method to command nature by obeying her."
+  },
+  "summary": {
+    "fr": "Homme d'État et philosophe anglais de la Renaissance, lord chancelier sous Jacques Ier, Francis Bacon est le grand annonciateur de la science moderne. Contre la <mv id='aristotelianism'>logique scolastique</mv> héritée d'Aristote, jugée stérile, il appelle dans le <w id='novum-organum-bacon'>Novum Organum</w> à une « grande restauration » des savoirs : une <c id='induction'>induction</c> expérimentale qui parte des faits pour découvrir les lois de la nature, et une science enfin tournée vers l'<stk>utilité</stk> et le « soulagement de la condition humaine ». Précurseur et figure tutélaire de l'<mv id='empiricism'>empirisme</mv>, il inspire la <kw>Royal Society</kw> que sa <w id='new-atlantis-bacon'>Nouvelle Atlantide</w> annonce, et <ph id='diderot'>Diderot</ph> et les encyclopédistes des Lumières le saluent comme leur maître.",
+    "en": "An English Renaissance statesman and philosopher, Lord Chancellor under James I, Francis Bacon is the great herald of modern science. Against the <mv id='aristotelianism'>scholastic logic</mv> inherited from Aristotle, judged barren, he calls in the <w id='novum-organum-bacon'>Novum Organum</w> for a \"great instauration\" of learning: an experimental <c id='induction'>induction</c> that starts from facts to uncover the laws of nature, and a science turned at last toward <stk>utility</stk> and the \"relief of man's estate.\" A forerunner and tutelary figure of <mv id='empiricism'>empiricism</mv>, he inspired the <kw>Royal Society</kw> his <w id='new-atlantis-bacon'>New Atlantis</w> foreshadows, and <ph id='diderot'>Diderot</ph> and the Enlightenment encyclopedists hailed him as their master."
+  },
+  "birth": 1561,
+  "death": 1626,
+  "nationality": {
+    "fr": "Anglais",
+    "en": "English"
+  },
+  "movements": [
+    "empiricism"
+  ],
+  "entries": [
+    {
+      "axisId": "SCIENTIFIC_METHOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.95, 0.05, 0]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le syllogisme, reproche Bacon, n'enchaîne que des notions déjà reçues : il ne découvre rien, il habille les <pb>préjugés</pb>. À cette logique d'<kw>anticipations</kw> de la nature il oppose une logique d'<kw>interprétation</kw> : ne pas voler comme l'abeille de la seule expérience ni filer comme l'araignée de la seule raison, mais remonter pas à pas des faits aux lois. Son <c id='induction'>induction</c> n'est donc pas la simple énumération qui généralise quelques cas concordants ; c'est une induction <kw>éliminative</kw>, qui dresse des tables de présence, d'absence et de degrés pour écarter méthodiquement les fausses causes et isoler la <c>forme</c> du phénomène. La science ne s'élance d'aucun système préconçu : elle se construit du bas vers le haut, par exclusion.",
+          "en": "The syllogism, Bacon objects, only links notions already received: it discovers nothing, it merely dresses up <pb>prejudice</pb>. To this logic of <kw>anticipations</kw> of nature he opposes a logic of <kw>interpretation</kw>: not to fly like the bee from experience alone, nor to spin like the spider from reason alone, but to climb step by step from facts to laws. His <c id='induction'>induction</c> is therefore not the bare enumeration that generalizes from a few agreeing cases; it is an <kw>eliminative</kw> induction, drawing up tables of presence, absence, and degrees so as to rule out false causes methodically and isolate the <c>form</c> of the phenomenon. Science sets out from no preconceived system: it is built from the bottom up, by exclusion."
+        },
+        "quote": {
+          "text": {
+            "fr": "Notre seul espoir réside dans une véritable induction.",
+            "en": "The only hope lies in a true induction."
+          },
+          "source": {
+            "fr": "Novum Organum, I, §14",
+            "en": "Novum Organum, I, §14"
+          }
+        },
+        "references": [
+          {
+            "fr": "Novum Organum, I (aphorismes 19, 95, 105)",
+            "en": "Novum Organum, I (aphorisms 19, 95, 105)"
+          },
+          {
+            "fr": "Novum Organum, II (tables et exclusion)",
+            "en": "Novum Organum, II (tables and exclusion)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Tout savoir digne de ce nom commence dans les <c>sens</c> et l'observation : c'est le <stk>fondement</stk> empiriste qui fera école chez <ph id='locke'>Locke</ph> et <ph id='hume'>Hume</ph>. Mais Bacon ne se fie pas aux sens livrés à eux-mêmes, qu'il tient pour faillibles et trompeurs ; il leur adjoint l'expérience provoquée, l'<c>experimentum</c>, et l'appareil méthodique qui les corrige. L'expérience n'est première qu'à condition d'être disciplinée : ni pur rationalisme, ni empirisme naïf, mais une raison au service de l'observation réglée.",
+          "en": "All knowledge worthy of the name begins in the <c>senses</c> and observation: this is the empiricist <stk>foundation</stk> that <ph id='locke'>Locke</ph> and <ph id='hume'>Hume</ph> will make a school of. Yet Bacon does not trust the senses left to themselves, which he holds to be fallible and deceptive; he supplements them with provoked experience, the <c>experimentum</c>, and the methodical apparatus that corrects them. Experience is primary only on condition of being disciplined: neither pure rationalism nor naive empiricism, but reason in the service of regulated observation."
+        },
+        "references": [
+          {
+            "fr": "Novum Organum, I, §50 et §95",
+            "en": "Novum Organum, I, §50 and §95"
+          },
+          {
+            "fr": "Du progrès et de la promotion des savoirs, II",
+            "en": "The Advancement of Learning, II"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_STATUS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Si la méthode vaut la peine d'être réformée, c'est qu'il existe, au fond des phénomènes, des <c>formes</c> et des lois réelles à découvrir, et non à inventer. Toute la <pb>réforme</pb> baconienne suppose une nature ordonnée, indépendante de notre esprit, dont la connaissance droite épouse la structure ; la connaissance se mesure d'ailleurs à son <stk>pouvoir</stk> opératoire sur les choses, garant qu'elle a bien saisi le réel et non une fiction de l'esprit.",
+          "en": "If method is worth reforming, it is because there are, beneath the phenomena, real <c>forms</c> and laws to be discovered, not invented. The whole Baconian <pb>reform</pb> presupposes an ordered nature, independent of our mind, whose right knowledge fits its structure; knowledge is moreover measured by its operative <stk>power</stk> over things, the warrant that it has grasped the real and not a fiction of the mind."
+        },
+        "references": [
+          {
+            "fr": "Novum Organum, II, §1-4 (la doctrine des formes)",
+            "en": "Novum Organum, II, §1-4 (the doctrine of forms)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "EPISTEMIC_JUSTIFICATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.15, 0.05, 0.8]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Avant de bâtir, Bacon veut purger l'esprit de ce qui le fausse : ce sont les quatre <c id='idols-of-the-mind'>idoles</c> (<c id='idols-of-the-mind'>idola</c>), les biais systématiques de la connaissance. Idoles de la <kw>tribu</kw>, inhérentes à l'espèce, qui prête à la nature plus d'ordre qu'elle n'en a ; idoles de la <kw>caverne</kw>, propres à chaque individu et à son histoire ; idoles du <kw>forum</kw>, que le langage et les mots mal faits glissent dans la pensée ; idoles du <kw>théâtre</kw>, les systèmes philosophiques reçus comme autant de fables jouées sur scène. Une croyance ne se justifie donc pas en remontant à une intuition première indubitable, mais par la <stk>fiabilité</stk> du processus qui la produit, une fois l'esprit décrassé de ses idoles et soumis à la règle expérimentale. La garantie est du côté de la méthode, non d'un fondement intérieur.",
+          "en": "Before building, Bacon means to purge the mind of what distorts it: these are the four <c id='idols-of-the-mind'>idols</c> (<c id='idols-of-the-mind'>idola</c>), the systematic biases of knowledge. Idols of the <kw>tribe</kw>, inherent in the species, which lends nature more order than it has; idols of the <kw>cave</kw>, proper to each individual and his history; idols of the <kw>marketplace</kw>, slipped into thought by language and ill-made words; idols of the <kw>theatre</kw>, the received philosophical systems taken as so many fables played out on a stage. A belief is therefore justified not by tracing it back to a first indubitable intuition, but by the <stk>reliability</stk> of the process that produces it, once the mind is scoured of its idols and submitted to the experimental rule. The warrant lies on the side of method, not of an inner foundation."
+        },
+        "quote": {
+          "text": {
+            "fr": "Quatre espèces d'idoles assiègent les esprits humains.",
+            "en": "Four kinds of idols beset the human mind."
+          },
+          "source": {
+            "fr": "Novum Organum, I, §39",
+            "en": "Novum Organum, I, §39"
+          }
+        },
+        "references": [
+          {
+            "fr": "Novum Organum, I, §38-68 (les idoles)",
+            "en": "Novum Organum, I, §38-68 (the idols)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TECHNOLOGY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le savoir ne vaut pas pour la contemplation mais pour ses <stk>fruits</stk> : connaître les causes, c'est pouvoir produire des effets, et la mesure d'une vérité est l'œuvre qu'elle permet. Bacon en juge par les arts mécaniques, qui n'ont cessé de croître, quand la philosophie d'école piétinait : l'imprimerie, la poudre, la boussole ont plus changé le monde que tous les systèmes. La technique n'est donc pas un sous-produit suspect du savoir, c'est sa fin légitime et le levier du <stk>progrès</stk> humain, contre la résignation qui tient la condition présente pour indépassable.",
+          "en": "Knowledge is worth not for contemplation but for its <stk>fruits</stk>: to know causes is to be able to produce effects, and the measure of a truth is the work it makes possible. Bacon judges this by the mechanical arts, which have grown without cease while the philosophy of the schools stood still: printing, gunpowder, and the compass have changed the world more than all the systems. Technology is thus no suspect by-product of knowledge but its legitimate end and the lever of human <stk>progress</stk>, against the resignation that holds the present condition to be beyond improvement."
+        },
+        "quote": {
+          "text": {
+            "fr": "Le savoir humain et la puissance humaine coïncident, car ignorer la cause, c'est manquer l'effet.",
+            "en": "Human knowledge and human power meet in one, for where the cause is not known the effect cannot be produced."
+          },
+          "source": {
+            "fr": "Novum Organum, I, §3",
+            "en": "Novum Organum, I, §3"
+          }
+        },
+        "references": [
+          {
+            "fr": "Novum Organum, I, §3, §81 et §129",
+            "en": "Novum Organum, I, §3, §81 and §129"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HUMAN_PLACE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.9, 0.1, 0]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La chute, pour Bacon, a fait perdre à l'homme son <stk>empire</stk> sur la création, et la science a pour tâche de le restaurer : commander à la nature pour le <q>soulagement de la condition humaine</q>. Mais cette maîtrise repose sur un paradoxe qui la distingue de toute domination naïve : on ne commande à la nature qu'en lui <kw>obéissant</kw>, en se pliant à ses lois pour la fléchir. Connaître d'abord, contraindre ensuite, et seulement dans le sens de ses propres causes. La nature reste une <stk>ressource</stk> à transformer au service de l'humanité, mais une ressource qui n'obéit qu'à qui l'a d'abord comprise.",
+          "en": "The Fall, for Bacon, cost humanity its <stk>dominion</stk> over creation, and science has the task of restoring it: to command nature for the <q>relief of man's estate</q>. But this mastery rests on a paradox that sets it apart from any naive domination: one commands nature only by <kw>obeying</kw> her, by bending to her laws in order to bend her. Know first, then constrain, and only along the grain of her own causes. Nature remains a <stk>resource</stk> to be transformed in the service of humanity, but a resource that obeys only those who have first understood her."
+        },
+        "quote": {
+          "text": {
+            "fr": "On ne commande à la nature qu'en lui obéissant.",
+            "en": "Nature, to be commanded, must be obeyed."
+          },
+          "source": {
+            "fr": "Novum Organum, I, §129",
+            "en": "Novum Organum, I, §129"
+          }
+        },
+        "references": [
+          {
+            "fr": "Novum Organum, I, §3 et §129",
+            "en": "Novum Organum, I, §3 and §129"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SCIENCE_PLACE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Bien avant le positivisme, Bacon érige la connaissance de la nature par la méthode en voie royale du savoir humain, seule capable de croître et de porter des fruits, là où la <mv id='aristotelianism'>philosophie d'école</mv> tourne en rond. Il ne va pas jusqu'à congédier toute autre vérité, car il réserve à la religion un domaine propre, mais il dépouille la métaphysique des Anciens de son autorité et fait de l'enquête expérimentale l'<stk>arbitre</stk> de ce que nous pouvons légitimement tenir pour connu.",
+          "en": "Long before positivism, Bacon raises the methodical knowledge of nature into the royal road of human learning, alone capable of growing and bearing fruit, where the <mv id='aristotelianism'>philosophy of the schools</mv> turns in circles. He does not go so far as to dismiss every other truth, for he reserves a domain of its own to religion, but he strips the metaphysics of the Ancients of its authority and makes experimental inquiry the <stk>arbiter</stk> of what we may legitimately hold to be known."
+        },
+        "references": [
+          {
+            "fr": "Du progrès et de la promotion des savoirs, I-II",
+            "en": "The Advancement of Learning, I-II"
+          },
+          {
+            "fr": "Novum Organum, I, §79-92",
+            "en": "Novum Organum, I, §79-92"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.2
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Bacon refuse à la fois le <c id='skepticism'>scepticisme</c> qui désespère du savoir et l'assurance dogmatique des systèmes, qui « tranchent » trop vite. Sa voie est l'ascension graduelle : monter des faits aux axiomes par degrés sûrs, sans sauter à des généralités prématurées. La certitude n'est pas un point de départ mais le terme d'une marche patiente et corrigible, où l'on ne pose rien qu'on n'ait éprouvé. C'est moins un <c id='fallibilism'>faillibilisme</c> qu'une certitude conquise lentement, par exclusion des erreurs.",
+          "en": "Bacon rejects at once the <c id='skepticism'>skepticism</c> that despairs of knowledge and the dogmatic assurance of systems, which \"decide\" too quickly. His way is gradual ascent: rising from facts to axioms by sure degrees, without leaping to premature generalities. Certainty is not a starting point but the term of a patient, correctable march, in which one posits nothing one has not tested. It is less a <c id='fallibilism'>fallibilism</c> than a certainty slowly won, by the exclusion of errors."
+        },
+        "references": [
+          {
+            "fr": "Novum Organum, I, §19-20 et §104",
+            "en": "Novum Organum, I, §19-20 and §104"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CONSERVATISM_PROGRESSISM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.75
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Contre le préjugé qui révère l'Antiquité comme l'âge de la sagesse, Bacon renverse l'argument : les Anciens étaient la jeunesse du monde, et c'est nous, venus après tant de siècles accumulés, qui sommes les véritables anciens. L'autorité des maîtres reçus n'a donc aucune valeur en soi ; le savoir n'est pas un héritage à conserver mais un chantier ouvert, indéfiniment <stk>perfectible</stk>. Cette confiance dans le pouvoir réformateur de la raison vaut d'abord pour les sciences ; en politique, le grand commis de la Couronne reste prudent, ce qui retient d'un score extrême.",
+          "en": "Against the prejudice that reveres Antiquity as the age of wisdom, Bacon reverses the argument: the Ancients were the youth of the world, and it is we, coming after so many accumulated centuries, who are the true elders. The authority of the received masters has therefore no value in itself; knowledge is not an inheritance to preserve but an open building site, indefinitely <stk>perfectible</stk>. This trust in the reforming power of reason holds first for the sciences; in politics, the great servant of the Crown remained cautious, which holds the score back from the extreme."
+        },
+        "references": [
+          {
+            "fr": "Novum Organum, I, §84",
+            "en": "Novum Organum, I, §84"
+          },
+          {
+            "fr": "Du progrès et de la promotion des savoirs, I",
+            "en": "The Advancement of Learning, I"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HISTORY_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le savoir, pour Bacon, est <stk>cumulatif</stk> : chaque génération hérite des acquis de la précédente et peut les dépasser, de sorte que l'histoire des sciences dessine une marche vers le mieux, non un cycle ni un déclin depuis un âge d'or. Sa « grande restauration » suppose que l'humanité peut progresser et que l'avenir, mieux outillé, surpassera le passé. Cette direction reste avant tout celle du savoir et de ses fruits, non une loi générale de toute l'histoire.",
+          "en": "Knowledge, for Bacon, is <stk>cumulative</stk>: each generation inherits the gains of the last and can surpass them, so that the history of the sciences traces a march toward the better, not a cycle nor a decline from a golden age. His \"great instauration\" assumes that humanity can progress and that the future, better equipped, will outdo the past. This direction remains above all that of knowledge and its fruits, not a general law of all history."
+        },
+        "references": [
+          {
+            "fr": "Novum Organum, I, §84 et §129",
+            "en": "Novum Organum, I, §84 and §129"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "FUTURE_GENERATIONS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Bacon conçoit son entreprise comme un legs : il sème pour des moissons qu'il ne verra pas, fonde un savoir dont les <stk>bénéfices</stk> reviendront aux âges futurs et travaille pour la postérité plus que pour son temps. Cette orientation vers ceux qui viendront n'est pourtant pas le principe de préservation d'un <ph id='jonas'>Jonas</ph>, qui veut protéger les générations futures de notre puissance : c'est l'inverse, l'espoir de leur transmettre cette puissance accrue comme un bienfait.",
+          "en": "Bacon conceives his enterprise as a bequest: he sows for harvests he will not see, founds a knowledge whose <stk>benefits</stk> will accrue to ages to come, and works for posterity more than for his own time. Yet this orientation toward those who will come is not the preservation principle of a <ph id='jonas'>Jonas</ph>, who seeks to shield future generations from our power: it is the reverse, the hope of handing down that increased power to them as a benefit."
+        },
+        "references": [
+          {
+            "fr": "Novum Organum, préface de la Grande Restauration",
+            "en": "Novum Organum, preface to the Great Instauration"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "POLITICAL_IDEAL",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La <w id='new-atlantis-bacon'>Nouvelle Atlantide</w> dessine une cité idéale, Bensalem, organisée autour de la « Maison de Salomon » : Bacon use du genre <stk>utopique</stk> pour figurer ce que serait une société gouvernée par la science. Mais c'est une utopie d'un genre singulier, qui ne projette pas un ordre social parfait à imposer aux hommes : elle imagine surtout l'institution du savoir collectif, et le statesman aguerri des <w id='essays-bacon'>Essais</w> reste par ailleurs un fin connaisseur des hommes tels qu'ils sont, d'où une position seulement modérée.",
+          "en": "<w id='new-atlantis-bacon'>New Atlantis</w> sketches an ideal city, Bensalem, organized around \"Salomon's House\": Bacon uses the <stk>utopian</stk> genre to picture what a society governed by science would be. But it is a utopia of a singular kind, which does not project a perfect social order to be imposed on people: it imagines above all the institution of collective knowledge, while the seasoned statesman of the <w id='essays-bacon'>Essays</w> remains a shrewd judge of human beings as they are, hence a position only moderate."
+        },
+        "references": [
+          {
+            "fr": "La Nouvelle Atlantide",
+            "en": "New Atlantis"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "WORK_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.65, 0, 0.35]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La « Maison de Salomon » fait de l'enquête sur la nature une œuvre <stk>collective</stk>, répartie en tâches coordonnées, et la place au sommet de la dignité humaine : transformer le monde par un labeur méthodique honore l'homme et l'accomplit, loin d'être une simple corvée. Reste que Bacon valorise ce travail pour ses fruits et l'utilité qu'il produit, ce qui en garde une part instrumentale.",
+          "en": "Salomon's House makes the inquiry into nature a <stk>collective</stk> work, parceled into coordinated tasks, and sets it at the summit of human dignity: to transform the world through methodical labor honors and fulfills the human being, far from being a mere chore. Still, Bacon prizes this work for its fruits and the utility it yields, which keeps an instrumental share in it."
+        },
+        "references": [
+          {
+            "fr": "La Nouvelle Atlantide (la Maison de Salomon)",
+            "en": "New Atlantis (Salomon's House)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "FAITH_REASON",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.05, 0.15, 0, 0.8]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Bacon sépare nettement les deux <stk>livres</stk> où Dieu se lit, celui des Écritures et celui de la nature : la science doit s'en tenir aux causes secondes et ne rien emprunter à la théologie, qui de son côté relève de la foi et de la révélation, non de la preuve. Confondre les deux gâte l'une et l'autre, comme le firent les scolastiques. Il garde donc à la religion son domaine propre, intact mais distinct, ce qui le situe du côté des domaines séparés plutôt que de l'harmonie thomiste.",
+          "en": "Bacon sharply separates the two <stk>books</stk> in which God may be read, that of Scripture and that of nature: science must keep to second causes and borrow nothing from theology, which for its part falls to faith and revelation, not to proof. To confuse the two spoils both, as the scholastics did. He thus keeps for religion its own domain, intact but distinct, which places him on the side of separate domains rather than Thomist harmony."
+        },
+        "references": [
+          {
+            "fr": "Du progrès et de la promotion des savoirs, II",
+            "en": "The Advancement of Learning, II"
+          },
+          {
+            "fr": "Novum Organum, I, §65 et §89",
+            "en": "Novum Organum, I, §65 and §89"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Bacon professe une foi chrétienne sincère et tient l'existence de Dieu pour assurée : c'est, soutient-il, la philosophie superficielle qui incline à l'athéisme, tandis qu'une connaissance plus profonde de la nature ramène l'esprit à la <stk>religion</stk>, car l'ordre du monde renvoie à son auteur. Le théisme n'est jamais mis en question, même si Bacon le laisse hors du champ de l'enquête scientifique.",
+          "en": "Bacon professes a sincere Christian faith and holds God's existence to be assured: it is, he argues, shallow philosophy that inclines to atheism, while a deeper knowledge of nature brings the mind back to <stk>religion</stk>, for the order of the world points to its author. Theism is never put in question, even though Bacon keeps it outside the field of scientific inquiry."
+        },
+        "quote": {
+          "text": {
+            "fr": "Un peu de philosophie incline l'esprit à l'athéisme, mais la profondeur en philosophie ramène les esprits à la religion.",
+            "en": "A little philosophy inclineth man's mind to atheism, but depth in philosophy bringeth men's minds about to religion."
+          },
+          "source": {
+            "fr": "Essais, « De l'athéisme »",
+            "en": "Essays, \"Of Atheism\""
+          }
+        },
+        "references": [
+          {
+            "fr": "Essais, « De l'athéisme »",
+            "en": "Essays, \"Of Atheism\""
+          }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "SCIENTIFIC_METHOD",
+      "thesis": {
+        "fr": "Le syllogisme ne découvre rien : seule une <c id='induction'>induction</c> expérimentale et éliminative, montant pas à pas des faits aux lois, peut interpréter la nature.",
+        "en": "The syllogism discovers nothing: only an experimental, eliminative <c id='induction'>induction</c>, rising step by step from facts to laws, can interpret nature."
+      }
+    },
+    {
+      "axisId": "TECHNOLOGY",
+      "thesis": {
+        "fr": "Savoir, c'est pouvoir : une vérité ne vaut que par les œuvres qu'elle permet, et la science a pour fin le soulagement de la condition humaine.",
+        "en": "Knowledge is power: a truth is worth only the works it makes possible, and science exists for the relief of man's estate."
+      }
+    },
+    {
+      "axisId": "HUMAN_PLACE_NATURE",
+      "thesis": {
+        "fr": "On ne commande à la nature qu'en lui obéissant : la <kw>maîtrise</kw> n'est pas une violence, c'est la connaissance de ses lois retournée en pouvoir.",
+        "en": "Nature, to be commanded, must be obeyed: <kw>mastery</kw> is not violence but the knowledge of her laws turned into power."
+      }
+    },
+    {
+      "axisId": "EPISTEMIC_JUSTIFICATION",
+      "thesis": {
+        "fr": "Avant de connaître, il faut désapprendre : quatre <c id='idols-of-the-mind'>idoles</c>, tribu, caverne, forum, théâtre, faussent d'avance tout esprit, et la méthode commence par les purger.",
+        "en": "Before knowing, one must unlearn: four <c id='idols-of-the-mind'>idols</c>, tribe, cave, marketplace, theatre, distort every mind in advance, and method begins by purging them."
+      }
+    },
+    {
+      "axisId": "CONSERVATISM_PROGRESSISM",
+      "thesis": {
+        "fr": "Les Anciens étaient la jeunesse du monde : c'est nous les véritables anciens, et le savoir n'est pas un héritage à révérer mais un chantier à rouvrir.",
+        "en": "The Ancients were the youth of the world: we are the true elders, and knowledge is no inheritance to revere but a building site to reopen."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-29T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

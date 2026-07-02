@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "clifford",
+  "stub": true,
+  "name": {
+    "fr": "William Kingdon Clifford",
+    "en": "William Kingdon Clifford"
+  },
+  "summary": {
+    "fr": "Mathématicien et philosophe britannique, auteur de « L'éthique de la croyance », où il soutient qu'il est toujours fautif de croire quoi que ce soit sur des preuves insuffisantes.",
+    "en": "British mathematician and philosopher, author of \"The Ethics of Belief\", where he argues that it is always wrong to believe anything on insufficient evidence."
+  },
+  "birth": 1845,
+  "death": 1879,
+  "nationality": {
+    "fr": "Britannique",
+    "en": "British"
+  },
+  "movements": [],
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

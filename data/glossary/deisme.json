@@ -1,0 +1,15 @@
+{
+  "id": "deisme",
+  "term": { "fr": "Le déisme", "en": "Deism" },
+  "definition": {
+    "fr": "<ety>Du latin deus, « dieu »</ety>, le déisme est la croyance en un Dieu unique fondée sur la seule raison, sans recourir à une révélation, à des miracles ni à une Église. Ce Dieu « horloger » a créé le monde et lui a donné ses lois, mais n'intervient pas dans son cours et ne se révèle pas dans un livre sacré. Religion naturelle des <mv id='enlightenment'>Lumières</mv>, le déisme se distingue aussi bien du <ax id='GOD_EXISTENCE'>théisme</ax> des religions révélées que de l'athéisme : <ph id='voltaire'>Voltaire</ph> et <ph id='rousseau'>Rousseau</ph> en furent les voix les plus célèbres, contre le matérialisme athée d'un <ph id='holbach'>d'Holbach</ph>.",
+    "en": "<ety>From the Latin deus, \"god\"</ety>, deism is belief in a single God founded on reason alone, without appeal to revelation, miracles or a Church. This « clockmaker » God created the world and gave it its laws but does not intervene in its course and is not disclosed in any sacred book. The natural religion of the <mv id='enlightenment'>Enlightenment</mv>, deism is distinct both from the <ax id='GOD_EXISTENCE'>theism</ax> of the revealed religions and from atheism: <ph id='voltaire'>Voltaire</ph> and <ph id='rousseau'>Rousseau</ph> were its most famous voices, against the atheist materialism of a <ph id='holbach'>d'Holbach</ph>."
+  },
+  "relatedAxes": ["GOD_EXISTENCE", "FAITH_REASON", "TRANSCENDENCE"],
+  "relatedTerms": ["tolerance"],
+  "positions": [
+    { "axisId": "GOD_EXISTENCE", "poleId": "THEISM" },
+    { "axisId": "FAITH_REASON", "poleId": "HARMONY" }
+  ],
+  "updatedAt": "2026-06-25T00:00:00.000Z"
+}

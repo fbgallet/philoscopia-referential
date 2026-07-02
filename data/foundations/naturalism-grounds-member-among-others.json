@@ -1,0 +1,12 @@
+{
+  "id": "naturalism-grounds-member-among-others",
+  "ground": { "axisId": "HUMAN_NATURE", "poleId": "NATURALISM" },
+  "grounded": { "axisId": "HUMAN_PLACE_NATURE", "poleId": "MEMBER_AMONG_OTHERS" },
+  "kind": "T_V",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si l'homme est un être naturel parmi les vivants, sans position privilégiée, alors il n'est pas le maître de la nature mais un membre d'une communauté d'interdépendances. Le naturalisme fonde l'idée de l'homme comme membre parmi d'autres : de la continuité darwinienne à l'écologie profonde, toute forme de vie a une valeur propre, indépendante de son utilité pour nous.",
+    "en": "If the human being is a natural being among the living, with no privileged position, then they are not the master of nature but a member of a web of interdependence. Naturalism grounds the idea of the human as one member among others: from Darwinian continuity to deep ecology, every form of life has a worth of its own, independent of its usefulness to us."
+  },
+  "updatedAt": "2026-06-22T00:00:00.000Z"
+}

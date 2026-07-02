@@ -1,0 +1,12 @@
+{
+  "id": "epistrophe",
+  "term": { "fr": "Épistrophè (la conversion, le retour)", "en": "Epistrophē (conversion, reversion)" },
+  "definition": {
+    "fr": "Épistrophè <ety>du grec epistrophê, action de se retourner, de revenir</ety> désigne, dans le néoplatonisme de <ph id='plotinus'>Plotin</ph>, le retour de chaque degré de réalité vers son principe, mouvement inverse de l'<c id='emanation'>émanation</c> qui le complète. Ce qui procède de l'<c id='the-one'>Un</c> tend à s'y reconvertir, et la procession ne s'achève que par cette reversion. Pour l'âme humaine, l'épistrophè est l'ascension contemplative qui la ramène à sa source, jusqu'à l'<c id='henosis'>union</c>.",
+    "en": "Epistrophē <ety>from the Greek epistrophê, a turning around, a returning</ety> designates, in the Neoplatonism of <ph id='plotinus'>Plotinus</ph>, the return of each level of reality toward its principle, the reverse movement of <c id='emanation'>emanation</c> that completes it. What proceeds from the <c id='the-one'>One</c> tends to convert back to it, and procession is achieved only through this reversion. For the human soul, epistrophē is the contemplative ascent that brings it back to its source, up to <c id='henosis'>union</c>."
+  },
+  "relatedAxes": ["LIFE_MEANING", "INTERIORITY"],
+  "relatedTerms": ["emanation", "the-one", "henosis"],
+  "figure": { "slug": "plotinus", "name": { "fr": "Plotin", "en": "Plotinus" } },
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

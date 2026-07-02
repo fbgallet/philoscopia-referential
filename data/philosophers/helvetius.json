@@ -1,0 +1,17 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "helvetius",
+  "stub": true,
+  "name": { "fr": "Helvétius", "en": "Helvétius" },
+  "fullName": { "fr": "Claude-Adrien Helvétius", "en": "Claude-Adrien Helvétius" },
+  "summary": {
+    "fr": "Philosophe matérialiste français des <mv id='enlightenment'>Lumières</mv>, partisan d'un sensualisme radical pour qui l'éducation et le milieu font presque tout l'homme.",
+    "en": "French materialist philosopher of the <mv id='enlightenment'>Enlightenment</mv>, advocate of a radical sensationism for whom education and environment make almost the whole of man."
+  },
+  "birth": 1715,
+  "death": 1771,
+  "nationality": { "fr": "Français", "en": "French" },
+  "movements": ["enlightenment"],
+  "updatedAt": "2026-06-25T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

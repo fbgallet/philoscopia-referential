@@ -1,0 +1,78 @@
+{
+  "id": "PAST_RELATION",
+  "relation": "SELF",
+  "territory": "ADVERSITY",
+  "label": {
+    "fr": "Rapport au passé",
+    "en": "Relation to the past"
+  },
+  "question": {
+    "fr": "Face à ce qui est arrivé et ne peut être changé, faut-il l'aimer ou se révolter ?",
+    "en": "Faced with what has happened and cannot be changed, should we embrace it or rebel against it?"
+  },
+  "stakes": {
+    "fr": "Accepter, voire aimer ce qui fut, apaise et réconcilie, mais peut ressembler à un consentement à l'inacceptable ; se révolter garde vivant le sentiment que cela n'aurait pas dû être, mais peut nous river à une blessure qui ne guérit pas. Se positionner, c'est dire comment vivre avec l'irréversible.",
+    "en": "Accepting, even loving, what has been brings peace and reconciliation, but can look like consenting to the unacceptable; revolting keeps alive the sense that it should not have been, but can rivet us to a wound that will not heal. To take a position is to say how to live with the irreversible."
+  },
+  "layer": "VALUE",
+  "type": "BIPOLAR",
+  "poles": [
+    {
+      "id": "AMOR_FATI",
+      "label": {
+        "fr": "Amor fati",
+        "en": "Amor fati"
+      },
+      "description": {
+        "fr": "Vouloir que rien ne soit autrement, ni en avant, ni en arrière : non pas seulement supporter ce qui est arrivé, mais l'aimer comme partie intégrante de sa vie. Le regret et le ressentiment empoisonnent l'existence ; consentir au destin libère.",
+        "en": "To want nothing to be different, not forward, not backward: not merely to endure what has happened, but to love it as an integral part of one's life. Regret and resentment poison existence; consenting to fate sets us free."
+      },
+      "figures": [
+        {
+          "slug": "stoics",
+          "name": {
+            "fr": "les stoïciens",
+            "en": "the Stoics"
+          }
+        },
+        {
+          "slug": "nietzsche",
+          "name": {
+            "fr": "Nietzsche",
+            "en": "Nietzsche"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REVOLT",
+      "label": {
+        "fr": "Révolte",
+        "en": "Revolt"
+      },
+      "description": {
+        "fr": "Consentir à tout ce qui est arrivé, c'est risquer de bénir aussi l'injustice et le mal. La dignité humaine exige de maintenir le refus : reconnaître ce qui fut sans jamais l'approuver, et puiser dans cette révolte la force d'agir.",
+        "en": "To consent to everything that has happened is to risk blessing injustice and evil as well. Human dignity demands that we maintain our refusal: acknowledging what was without ever endorsing it, and drawing from this revolt the strength to act."
+      },
+      "figures": [
+        {
+          "slug": "camus",
+          "name": {
+            "fr": "Camus",
+            "en": "Camus"
+          }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 2,
+  "clusters": [
+    "WISDOM_ACCEPTANCE"
+  ],
+  "relatedAxes": [
+    "CONTROL_SCOPE",
+    "FORGIVENESS",
+    "TIME_ORIENTATION"
+  ]
+}

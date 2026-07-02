@@ -1,0 +1,12 @@
+{
+  "id": "materialism-grounds-mechanism",
+  "ground": { "axisId": "REALITY_NATURE", "poleId": "MATERIALISM" },
+  "grounded": { "axisId": "CAUSALITY", "poleId": "MECHANISM" },
+  "kind": "T_T",
+  "strength": "STRONG",
+  "explanation": {
+    "fr": "Une réalité faite uniquement de matière n'agit que par contact et transfert de mouvement, sans fins ni forces vitales. Le matérialisme appelle ainsi une lecture mécaniste de la causalité, où tout effet s'explique par ses antécédents physiques.",
+    "en": "A reality made only of matter acts solely through contact and the transfer of motion, with no ends or vital forces. Materialism therefore calls for a mechanistic reading of causality, where every effect is explained by its physical antecedents."
+  },
+  "updatedAt": "2026-06-14T00:00:00.000Z"
+}

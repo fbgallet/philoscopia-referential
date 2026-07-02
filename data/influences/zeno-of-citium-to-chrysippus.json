@@ -1,0 +1,16 @@
+{
+  "id": "zeno-of-citium-to-chrysippus",
+  "from": { "kind": "PHILOSOPHER", "slug": "zeno-of-citium" },
+  "to": { "kind": "PHILOSOPHER", "slug": "chrysippus" },
+  "directness": "INDIRECT",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Reçue par l'intermédiaire de Cléanthe, la doctrine de <ph id='zeno-of-citium'>Zénon</ph> est systématisée par Chrysippe en logique, physique et éthique, au point qu'on disait dans l'Antiquité <q>sans Chrysippe, pas de Portique</q>.",
+    "en": "Passed on through Cleanthes, <ph id='zeno-of-citium'>Zeno</ph>'s doctrine was systematised by Chrysippus across logic, physics and ethics, so thoroughly that antiquity said <q>without Chrysippus, no Stoa</q>."
+  },
+  "sources": [
+    { "fr": "Diogène Laërce, Vies et doctrines des philosophes illustres, VII", "en": "Diogenes Laërtius, Lives of the Eminent Philosophers, VII" }
+  ],
+  "updatedAt": "2026-07-02T00:00:00.000Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "confucius-to-mencius",
+  "from": { "kind": "PHILOSOPHER", "slug": "confucius" },
+  "to": { "kind": "PHILOSOPHER", "slug": "mencius" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='mencius'>Mencius</ph> prolonge l'éthique de <ph id='confucius'>Confucius</ph> en la dotant d'un fondement : la <c>bonté</c> native du cœur humain, qu'il suffit de cultiver, contre les doctrines de l'intérêt.",
+    "en": "<ph id='mencius'>Mencius</ph> carries on the ethics of <ph id='confucius'>Confucius</ph> and gives it a ground: the innate <c>goodness</c> of the human heart, which one need only cultivate, against doctrines of self-interest."
+  },
+  "sources": [
+    { "fr": "Mencius (Mengzi)", "en": "Mencius (Mengzi)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

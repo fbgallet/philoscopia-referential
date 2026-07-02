@@ -1,0 +1,13 @@
+{
+  "id": "the-absurd",
+  "term": { "fr": "L'absurde", "en": "The absurd" },
+  "definition": {
+    "fr": "L'absurde naît, selon <ph id='camus'>Camus</ph>, de la rencontre entre le désir humain de sens et le silence déraisonnable du monde : ni l'homme ni le monde ne sont absurdes en eux-mêmes, c'est leur confrontation qui l'est. <ph id='camus'>Camus</ph> écarte les deux issues faciles que sont le suicide et l'espoir religieux, et propose de vivre l'absurde dans la révolte lucide. <chr id='meursault'>Meursault</chr>, le narrateur de <w id='the-stranger-camus'>L'Étranger</w>, en est l'incarnation romanesque.",
+    "en": "The absurd arises, according to <ph id='camus'>Camus</ph>, from the encounter between the human desire for meaning and the unreasonable silence of the world: neither man nor the world is absurd in itself, only their confrontation is. <ph id='camus'>Camus</ph> rejects the two easy ways out, suicide and religious hope, and proposes living the absurd in lucid revolt. <chr id='meursault'>Meursault</chr>, the narrator of <w id='the-stranger-camus'>The Stranger</w>, is its fictional embodiment."
+  },
+  "relatedAxes": ["LIFE_MEANING", "COSMIC_OUTLOOK"],
+  "relatedTerms": [],
+  "figure": { "slug": "camus", "name": { "fr": "Camus", "en": "Camus" } },
+  "positions": [{ "axisId": "LIFE_MEANING", "poleId": "ABSURDISM" }],
+  "updatedAt": "2026-06-11T00:00:00.000Z"
+}

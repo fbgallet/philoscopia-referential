@@ -1,0 +1,600 @@
+{
+  "kind": "MOVEMENT",
+  "id": "platonism",
+  "name": {
+    "fr": "Platonisme",
+    "en": "Platonism"
+  },
+  "tagline": {
+    "fr": "Le réel véritable n'est pas le sensible mais les <c id='theory-of-forms'>Idées</c>, et l'âme s'élève vers le Bien.",
+    "en": "The truly real is not the sensible but the <c id='theory-of-forms'>Forms</c>, and the soul ascends toward the Good."
+  },
+  "summary": {
+    "fr": "Tradition issue de l'Académie, l'école que <ph id='plato'>Platon</ph> fonda près d'Athènes vers 387 avant notre ère et qui se perpétua plusieurs siècles. Héritier de Socrate et adversaire des sophistes, Platon cherche, contre leur <pb>relativisme</pb> et le flux héraclitéen, un fondement stable au savoir et à la justice, qu'il déploie dans des dialogues, la <w id='republic-plato'>République</w>, le <w id='phaedo-plato'>Phédon</w>, le <w id='symposium-plato'>Banquet</w>, où le raisonnement dialectique tient lieu de méthode. Après l'Académie ancienne, la tradition se renouvelle dans le néoplatonisme de <ph>Plotin</ph> au IIIe siècle, puis s'éteint avec la fermeture de l'école d'Athènes en 529. Reprise par <ph>Augustin</ph> et la patristique, elle a façonné durablement la métaphysique, la théologie et la mystique occidentales, et reste, selon le mot de Whitehead, l'horizon dont toute la philosophie postérieure serait une série de notes.",
+    "en": "A tradition issuing from the Academy, the school <ph id='plato'>Plato</ph> founded near Athens around 387 BCE and which lasted several centuries. Heir to Socrates and adversary of the sophists, Plato seeks, against their <pb>relativism</pb> and the Heraclitean flux, a stable foundation for knowledge and justice, which he unfolds in dialogues, the <w id='republic-plato'>Republic</w>, the <w id='phaedo-plato'>Phaedo</w>, the <w id='symposium-plato'>Symposium</w>, where dialectical reasoning serves as method. After the early Academy, the tradition was renewed in the Neoplatonism of <ph>Plotinus</ph> in the third century, then died out with the closing of the Athenian school in 529. Taken up by <ph>Augustine</ph> and the Church Fathers, it lastingly shaped Western metaphysics, theology and mysticism, and remains, in Whitehead's phrase, the horizon to which all later philosophy is a series of footnotes."
+  },
+  "period": {
+    "from": -387,
+    "to": 529
+  },
+  "keyFigures": [
+    {
+      "slug": "plato",
+      "name": { "fr": "Platon", "en": "Plato" }
+    },
+    {
+      "slug": "plotinus",
+      "name": { "fr": "Plotin", "en": "Plotinus" }
+    },
+    {
+      "slug": "augustine",
+      "name": { "fr": "Augustin", "en": "Augustine" }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le platonisme tient la souffrance pour potentiellement purificatrice : le châtiment juste guérit l'âme, et la conversion vers l'intelligible exige un arrachement douloureux au monde sensible et aux plaisirs du corps. L'épreuve sépare l'âme de ce qui l'asservit et la rapproche du vrai, ce qui lui confère une valeur que la vie facile ignore.",
+          "en": "Platonism holds suffering to be potentially purifying: just punishment heals the soul, and the conversion toward the intelligible demands a painful tearing away from the sensible world and the pleasures of the body. Ordeal separates the soul from what enslaves it and brings it closer to the true, which gives it a value that an easy life ignores."
+        },
+        "references": [
+          {
+            "fr": "Platon, Gorgias ; Phédon",
+            "en": "Plato, Gorgias; Phaedo"
+          },
+          {
+            "fr": "Platon, République, VII",
+            "en": "Plato, Republic, VII"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.05,
+          0.45,
+          0.5
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le platonisme ordonne l'âme à trois étages, où la raison doit gouverner les appétits avec l'appui du cœur : laissés à eux-mêmes, les désirs du corps asservissent et troublent. La sagesse consiste à les maîtriser et à <c>sublimer</c> l'eros, à détourner sa force du sensible vers le Beau et le Bien intelligibles. Tri sévère des désirs, donc, qui penche vers leur dépassement plus que vers leur satisfaction.",
+          "en": "Platonism orders the soul in three tiers, where reason must govern the appetites with the help of spirit: left to themselves, the desires of the body enslave and trouble. Wisdom consists in mastering them and in <c>sublimating</c> eros, in turning its force away from the sensible toward intelligible Beauty and the Good. A severe sorting of desires, then, leaning toward their transcendence more than their satisfaction."
+        },
+        "references": [
+          {
+            "fr": "Platon, République, IV et IX",
+            "en": "Plato, Republic, IV and IX"
+          },
+          {
+            "fr": "Platon, Banquet ; Phèdre",
+            "en": "Plato, Symposium; Phaedrus"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.95 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le primat de l'essence découle de la séparation des Idées : si la Forme existe en soi, hors du temps et des choses, alors le « ce que c'est » précède en droit toute existence singulière, qui se borne à l'imiter. Une chose n'est ce qu'elle est que par <c>participation</c> (methexis, le rapport par lequel le sensible tient son être de l'intelligible) à un modèle qu'elle ne fonde pas et ne modifie pas. L'essence n'est donc ni abstraite des cas par l'esprit, ni postérieure aux individus : elle est antérieure et causale. C'est l'essentialisme à sa source, dont l'existentialisme renversera plus tard l'ordre.",
+          "en": "The priority of essence follows from the separation of the Forms: if the Form exists in itself, outside time and outside things, then the «what it is» precedes by right any singular existence, which merely imitates it. A thing is what it is only by <c>participation</c> (methexis, the relation by which the sensible derives its being from the intelligible) in a model it neither grounds nor alters. Essence is thus neither abstracted from cases by the mind nor posterior to individuals: it is prior and causal. This is essentialism at its source, whose order existentialism will later reverse."
+        },
+        "references": [
+          { "fr": "Platon, République, livres VI-VII", "en": "Plato, Republic, books VI-VII" },
+          { "fr": "Platon, Phédon, 100b-102a", "en": "Plato, Phaedo, 100b-102a" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 0.85, 0.15] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le réel se mesure à la stabilité de l'être : ce qui demeure identique est plus réel que ce qui flotte entre l'être et le non-être. Or le sensible, toujours en devenir, n'a qu'un être emprunté, tenu par <c>participation</c> (le rapport par lequel le sensible tient son être de l'intelligible) à l'intelligible qui le fonde. De là un <c>dualisme</c> (la division du réel en deux ordres, l'intelligible et le sensible, l'âme et le corps) hiérarchisé, deux mondes mais non à égalité : le sensible est l'ombre, l'intelligible la source. L'<kw>allégorie de la caverne</kw> en fait un argument sur la condition humaine, prisonnière des copies tant qu'elle n'a pas converti son regard. Contre le matérialisme, ce n'est pas le corps qui fonde l'âme, mais l'intelligible qui fonde le sensible.",
+          "en": "Reality is measured by the stability of being: what stays self-identical is more real than what wavers between being and non-being. Now the sensible, always in becoming, has only a borrowed being, held by <c>participation</c> (the relation by which the sensible derives its being from the intelligible) in the intelligible that grounds it. Hence a hierarchical <c>dualism</c> (the division of the real into two orders, the intelligible and the sensible, soul and body), two worlds but not on a par: the sensible is the shadow, the intelligible the source. The <kw>allegory of the cave</kw> turns this into an argument about the human condition, prisoner of copies until it has converted its gaze. Against materialism, it is not the body that grounds the soul, but the intelligible that grounds the sensible."
+        },
+        "quote": {
+          "text": {
+            "fr": "Cette demeure, c'est la prison ; la lumière du feu qui s'y trouve, c'est le soleil ; et la montée vers le haut, c'est l'ascension de l'âme vers le lieu intelligible.",
+            "en": "This dwelling is the prison; the light of the fire in it is the sun; and the upward journey is the ascent of the soul into the intelligible region."
+          },
+          "source": {
+            "fr": "Platon, République, VII, 517b",
+            "en": "Plato, Republic, VII, 517b"
+          }
+        },
+        "references": [
+          { "fr": "Platon, République, 514a-517a, allégorie de la caverne", "en": "Plato, Republic, 514a-517a, allegory of the cave" },
+          { "fr": "Plotin, Ennéades, V", "en": "Plotinus, Enneads, V" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.95 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'argument procède par analogie solaire : de même que le soleil donne aux choses d'être vues et de croître sans être lui-même la vue ni les choses, le Bien donne aux Idées d'être connues et d'être, sans être lui-même une Idée parmi elles. Un principe qui rend l'être possible ne saurait donc figurer au rang des êtres qu'il fonde : il faut le poser <c id='transcendence'>au-delà de l'essence</c>. <ph>Plotin</ph> radicalise ce pas en faisant de l'Un l'origine d'où tout procède par émanation, ineffable parce qu'antérieur à toute détermination. Cette <c id='transcendence'>transcendance</c> du fondement sépare le platonisme du divin <c id='immanence'>immanent</c> des stoïciens, mêlé à la matière du monde.",
+          "en": "The argument proceeds by a solar analogy: just as the sun lets things be seen and grow without being itself either sight or the things, the Good lets the Forms be known and be, without being itself a Form among them. A principle that makes being possible cannot then rank among the beings it grounds: it must be set <c id='transcendence'>beyond essence</c>. <ph>Plotinus</ph> radicalises this step by making the One the origin from which all proceeds by emanation, ineffable because prior to every determination. This <c id='transcendence'>transcendence</c> of the ground sets Platonism apart from the <c id='immanence'>immanent</c> divine of the Stoics, mixed into the matter of the world."
+        },
+        "quote": {
+          "text": {
+            "fr": "Le Bien n'est pas l'être, mais il est encore au-dessus et au-delà de l'être, le surpassant en dignité et en puissance.",
+            "en": "The Good is not being, but still beyond being, surpassing it in dignity and power."
+          },
+          "source": {
+            "fr": "Platon, République, VI, 509b",
+            "en": "Plato, Republic, VI, 509b"
+          }
+        },
+        "references": [
+          { "fr": "Platon, République, 509b, le Bien au-delà de l'essence", "en": "Plato, Republic, 509b, the Good beyond essence" },
+          { "fr": "Plotin, Ennéades, VI, 9, sur l'Un", "en": "Plotinus, Enneads, VI, 9, on the One" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.9 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le point de départ est un <pb>paradoxe de l'apprentissage</pb> posé dans le Ménon : on ne peut chercher ni ce qu'on connaît déjà, ni ce qu'on ignore tout à fait, faute de pouvoir le reconnaître. La <c id='anamnesis'>réminiscence</c> tranche le dilemme : l'âme, ayant contemplé les Idées avant la naissance, ne découvre rien d'absolument neuf mais se ressouvient, comme le montre l'esclave du Ménon retrouvant un théorème sous la seule conduite des questions. Le platonisme est donc un <c>rationalisme</c> (doctrine qui fait de la raison, non des sens, la source de la connaissance véritable) conséquent : puisque la sensation ne porte que sur le changeant et ne livre qu'opinion, le savoir véritable ne peut venir des sens mais de la raison qui retourne en elle-même. C'est l'envers exact de l'empirisme, pour qui rien n'est dans l'intellect qui n'ait d'abord été dans les sens.",
+          "en": "The starting point is a <pb>paradox of learning</pb> set out in the Meno: one can search neither for what one already knows nor for what one is wholly ignorant of, being then unable to recognise it. <c id='anamnesis'>Recollection</c> cuts the dilemma: having contemplated the Forms before birth, the soul discovers nothing absolutely new but remembers, as the slave of the Meno recovers a theorem under the mere guidance of questions. Platonism is thus a consistent <c>rationalism</c> (the doctrine that makes reason, not the senses, the source of true knowledge): since sensation bears only on the changing and yields mere opinion, true knowledge cannot come from the senses but from reason turning back upon itself. This is the exact reverse of empiricism, for which nothing is in the intellect that was not first in the senses."
+        },
+        "references": [
+          { "fr": "Platon, Ménon, 80d-86c, la réminiscence", "en": "Plato, Meno, 80d-86c, recollection" },
+          { "fr": "Platon, République, 509d-511e, la ligne divisée", "en": "Plato, Republic, 509d-511e, the divided line" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.8 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Contre le <pb>relativisme sophistique</pb>, le platonisme affirme qu'une science véritable, l'<c>épistémè</c> (la science stable du vrai, opposée à la simple opinion, doxa), des Idées est accessible, distincte de la simple opinion. Le sage peut atteindre une connaissance stable et certaine de ce qui est éternel, position nettement <c id='dogmatism'>dogmatique</c> au sens classique.",
+          "en": "Against <pb>sophistic relativism</pb>, Platonism holds that a true science, <c>epistēmē</c> (stable scientific knowledge of the true, opposed to mere opinion, doxa), of the Forms is attainable, distinct from mere opinion. The wise can reach stable and certain knowledge of what is eternal, a markedly <c id='dogmatism'>dogmatic</c> stance in the classical sense."
+        },
+        "references": [
+          { "fr": "Platon, Théétète, 201d-210a, savoir et opinion", "en": "Plato, Theaetetus, 201d-210a, knowledge and opinion" },
+          { "fr": "Platon, République, 477a-480a", "en": "Plato, Republic, 477a-480a" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 0.4, 0.6] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le souverain bien platonicien est l'assimilation au divin par l'ascension de l'âme vers le Bien, qui suppose l'ordre des vertus et la justice de l'âme. La félicité, l'<c id='eudaimonism'>eudaimonia</c>, en découle, mais elle se subordonne à une perfection morale et contemplative qui passe par la conversion du regard hors du sensible.",
+          "en": "The Platonic sovereign good is assimilation to the divine through the soul's ascent toward the Good, which presupposes the order of the virtues and the justice of the soul. Happiness, <c id='eudaimonism'>eudaimonia</c>, follows from it, but is subordinated to a moral and contemplative perfection that requires turning one's gaze away from the sensible."
+        },
+        "references": [
+          { "fr": "Platon, République, livre IV, sur la justice de l'âme", "en": "Plato, Republic, book IV, on the justice of the soul" },
+          { "fr": "Platon, Théétète, 176a-b, l'assimilation au dieu", "en": "Plato, Theaetetus, 176a-b, assimilation to god" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "BEAUTY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.9 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le platonisme tient une beauté objective : la <c id='theory-of-forms'>Forme du Beau</c> est une réalité en soi, éternelle et identique, dont les beautés sensibles ne sont que de pâles participations. Le beau ne dépend pas du goût du spectateur mais d'une essence que la raison peut contempler.",
+          "en": "Platonism holds an objective beauty: the <c id='theory-of-forms'>Form of the Beautiful</c> is a reality in itself, eternal and self-identical, of which sensible beauties are only pale participations. Beauty does not depend on the beholder's taste but on an essence that reason can contemplate."
+        },
+        "quote": {
+          "text": {
+            "fr": "Une beauté qui d'abord existe éternellement, qui n'est sujette ni à naître ni à périr, ni à croître ni à décroître ; qui de plus n'est point belle en telle partie et laide en telle autre.",
+            "en": "A beauty that always is, neither coming to be nor passing away, neither increasing nor diminishing; nor again beautiful in one part and ugly in another."
+          },
+          "source": {
+            "fr": "Platon, Banquet, 211a",
+            "en": "Plato, Symposium, 211a"
+          }
+        },
+        "references": [
+          { "fr": "Platon, Banquet, 210a-211d, l'échelle du beau", "en": "Plato, Symposium, 210a-211d, the ladder of beauty" },
+          { "fr": "Platon, Hippias majeur", "en": "Plato, Greater Hippias" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "LOVE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.85, 0.1, 0.05, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'éros platonicien est désir né d'un manque : enfant de Poros et de Penia, il cherche à posséder ce qui lui fait défaut, le beau et le bien. De la beauté des corps, l'amant s'élève par degrés jusqu'à la <c id='theory-of-forms'>Forme du Beau</c>, selon l'<kw>échelle du Banquet</kw>.",
+          "en": "Platonic eros is desire born of lack: child of Poros and Penia, it seeks to possess what it wants, the beautiful and the good. From the beauty of bodies the lover ascends by degrees to the <c id='theory-of-forms'>Form of the Beautiful</c>, along the <kw>ladder of the Symposium</kw>."
+        },
+        "references": [
+          { "fr": "Platon, Banquet, 201d-212c, discours de Diotime", "en": "Plato, Symposium, 201d-212c, speech of Diotima" },
+          { "fr": "Platon, Phèdre, 244a-257b", "en": "Plato, Phaedrus, 244a-257b" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 0, 1, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le platonisme affirme l'immortalité de l'âme, démontrée dans le <w id='phaedo-plato'>Phédon</w> par sa parenté avec les Idées et son caractère simple et indissoluble. La mort n'est que la séparation de l'âme et du corps, et le philosophe s'y exerce sa vie durant.",
+          "en": "Platonism affirms the immortality of the soul, argued in the <w id='phaedo-plato'>Phaedo</w> from its kinship with the Forms and its simple, indissoluble nature. Death is but the separation of soul and body, and the philosopher rehearses it throughout his life."
+        },
+        "references": [
+          { "fr": "Platon, Phédon, 64a, 78b-80b, la mort comme exercice", "en": "Plato, Phaedo, 64a, 78b-80b, death as practice" },
+          { "fr": "Platon, République, 608d-611a, l'immortalité de l'âme", "en": "Plato, Republic, 608d-611a, the immortality of the soul" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "BODILY_PLEASURES",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.8 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'ascétisme platonicien repose sur l'image du corps comme <ety>tombeau de l'âme (sôma/sêma)</ety> et sur la défiance envers les plaisirs sensibles, qui enchaînent l'âme au devenir et entravent son ascension vers l'intelligible. La purification consiste à se détacher du corps autant que possible.",
+          "en": "Platonic asceticism rests on the image of the body as the <ety>tomb of the soul (sōma/sēma)</ety> and on distrust of sensible pleasures, which chain the soul to becoming and hamper its ascent toward the intelligible. Purification consists in detaching oneself from the body as far as possible."
+        },
+        "references": [
+          { "fr": "Platon, Phédon, 64c-67b, la purification", "en": "Plato, Phaedo, 64c-67b, purification" },
+          { "fr": "Platon, Gorgias, 493a, le corps comme tombeau", "en": "Plato, Gorgias, 493a, the body as tomb" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.8 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le platonisme pose un principe divin ordonnateur : le <c>Démiurge</c> (l'artisan divin du Timée qui ordonne le monde sur le modèle des Idées) du Timée façonne le monde sur le modèle des Idées, et l'Un de Plotin est la source d'où tout procède. Cette orientation théiste, sans être celle d'un dieu personnel chez Platon, prépare la théologie chrétienne d'Augustin.",
+          "en": "Platonism posits an ordering divine principle: the <c>Demiurge</c> (the divine craftsman of the Timaeus who orders the world after the model of the Forms) of the Timaeus shapes the world after the model of the Forms, and Plotinus' One is the source from which all proceeds. This theistic orientation, not that of a personal god in Plato, prepares the Christian theology of Augustine."
+        },
+        "references": [
+          { "fr": "Platon, Timée, 28a-30c, le Démiurge", "en": "Plato, Timaeus, 28a-30c, the Demiurge" },
+          { "fr": "Plotin, Ennéades, V, 1-2 ; Augustin, Confessions, VII", "en": "Plotinus, Enneads, V, 1-2; Augustine, Confessions, VII" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 0.1, 0.9, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La morale platonicienne est une <c>éthique des vertus</c> (morale centrée sur le caractère et l'excellence de l'agent plutôt que sur la règle ou la conséquence) : bien agir, c'est réaliser en soi la justice, comprise comme l'harmonie de l'<c id='tripartite-soul'>âme tripartite</c>, chaque partie accomplissant sa fonction propre sous le gouvernement de la raison. La vertu se ramène in fine à la connaissance du Bien.",
+          "en": "Platonic ethics is a <c>virtue ethics</c> (a morality centred on the agent's character and excellence rather than on the rule or the consequence): to act well is to realize justice within oneself, understood as the harmony of the <c id='tripartite-soul'>tripartite soul</c>, each part performing its proper function under the rule of reason. Virtue is ultimately reducible to knowledge of the Good."
+        },
+        "references": [
+          { "fr": "Platon, République, livre IV, 441c-444e, la justice de l'âme", "en": "Plato, Republic, book IV, 441c-444e, the justice of the soul" },
+          { "fr": "Platon, Ménon, 87c-89a, la vertu comme savoir", "en": "Plato, Meno, 87c-89a, virtue as knowledge" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.9, 0.05, 0.05] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Contre le <pb>relativisme des sophistes</pb>, pour qui l'homme est la mesure de toutes choses, le platonisme fonde les valeurs sur des réalités objectives : les <c id='theory-of-forms'>Formes</c> du Juste, du Bien et du Beau existent en soi et valent universellement, indépendamment des conventions et des opinions. La morale a un fondement métaphysique réel.",
+          "en": "Against the <pb>relativism of the sophists</pb>, for whom man is the measure of all things, Platonism grounds values in objective realities: the <c id='theory-of-forms'>Forms</c> of the Just, the Good and the Beautiful exist in themselves and hold universally, independent of conventions and opinions. Morality has a real metaphysical foundation."
+        },
+        "references": [
+          { "fr": "Platon, Théétète, 152a, réfutation de Protagoras", "en": "Plato, Theaetetus, 152a, refutation of Protagoras" },
+          { "fr": "Platon, République, 504d-509c, la Forme du Bien", "en": "Plato, Republic, 504d-509c, the Form of the Good" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.75 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le platonisme est <c>intellectualiste</c> (doctrine qui subordonne les passions à la raison et fait du savoir la condition du bien agir) : dans l'image du char ailé, figure de l'<c id='tripartite-soul'>âme tripartite</c>, la raison est le cocher qui doit conduire et maîtriser les deux chevaux, l'ardeur et l'appétit. Les passions ne sont pas mauvaises en elles-mêmes, mais elles n'ont de valeur que disciplinées et soumises au gouvernement de la raison.",
+          "en": "Platonism is <c>intellectualist</c> (the doctrine that subordinates the passions to reason and makes knowledge the condition of acting well): in the image of the winged chariot, a figure of the <c id='tripartite-soul'>tripartite soul</c>, reason is the charioteer who must guide and master the two horses, spirit and appetite. The passions are not evil in themselves, but they have worth only when disciplined and subjected to the rule of reason."
+        },
+        "references": [
+          { "fr": "Platon, Phèdre, 246a-254e, l'attelage ailé", "en": "Plato, Phaedrus, 246a-254e, the winged chariot" },
+          { "fr": "Platon, République, livre IV, 439d-441c", "en": "Plato, Republic, book IV, 439d-441c" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.9, 0.1, 0, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le platonisme est foncièrement <c>téléologique</c> (qui explique les êtres par la fin, le telos, vers laquelle ils tendent) : le monde est ordonné par le Démiurge en vue du meilleur, sur le modèle des Idées, et toute chose tend vers le Bien comme vers sa fin. L'existence humaine trouve son sens dans cette orientation de l'âme vers le principe qui ordonne le tout.",
+          "en": "Platonism is fundamentally <c>teleological</c> (explaining beings by the end, the telos, toward which they tend): the world is ordered by the Demiurge for the best, after the model of the Forms, and everything tends toward the Good as toward its end. Human existence finds its meaning in this orientation of the soul toward the principle that orders the whole."
+        },
+        "references": [
+          { "fr": "Platon, Timée, 29d-30c, l'ordre du monde", "en": "Plato, Timaeus, 29d-30c, the ordering of the world" },
+          { "fr": "Platon, République, 505a-509c, le Bien comme fin", "en": "Plato, Republic, 505a-509c, the Good as end" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.9, 0.1, 0, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le moi platonicien est une <c>substance</c> (une réalité subsistant par soi, support permanent de l'identité) : l'âme est une réalité simple, immatérielle et immortelle, distincte du corps et apparentée aux <c id='theory-of-forms'>Idées</c>. C'est elle qui constitue l'identité véritable de la personne, le corps n'étant qu'un vêtement provisoire dont elle se sépare à la mort.",
+          "en": "The Platonic self is a <c>substance</c> (a reality subsisting in itself, the permanent bearer of identity): the soul is a simple, immaterial and immortal reality, distinct from the body and akin to the <c id='theory-of-forms'>Forms</c>. It constitutes the person's true identity, the body being only a provisional garment from which it separates at death."
+        },
+        "references": [
+          { "fr": "Platon, Phédon, 78b-80b, la simplicité de l'âme", "en": "Plato, Phaedo, 78b-80b, the simplicity of the soul" },
+          { "fr": "Platon, République, 611b-612a", "en": "Plato, Republic, 611b-612a" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ART_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.85 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Pour le platonisme, l'art est <c>mimésis</c> (imitation, copie d'une copie du réel) : le peintre copie l'objet sensible, lui-même copie de la Forme, si bien que l'œuvre se trouve à trois degrés de la vérité, éloignée deux fois du réel. C'est pourquoi Platon se défie des poètes et les soumet à la censure dans la cité juste.",
+          "en": "For Platonism, art is <c>mimēsis</c> (imitation, a copy of a copy of the real): the painter copies the sensible object, itself a copy of the Form, so that the work stands at three removes from truth, twice removed from the real. This is why Plato distrusts the poets and submits them to censorship in the just city."
+        },
+        "references": [
+          { "fr": "Platon, République, livre X, 595a-602c, l'art comme imitation", "en": "Plato, Republic, book X, 595a-602c, art as imitation" },
+          { "fr": "Platon, République, livre III, 386a-398b", "en": "Plato, Republic, book III, 386a-398b" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "WHO_DECIDES",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.9 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le platonisme est <c>épistocratique</c> (qui réserve le pouvoir à ceux qui détiennent le savoir) : le pouvoir doit revenir à ceux qui savent, les <c>philosophes-rois</c> (les gardiens-philosophes de la cité juste, seuls aptes à gouverner), seuls capables de contempler la <c id='theory-of-forms'>Forme du Bien</c> et donc de gouverner avec justice. La démocratie, qui confie les décisions à l'opinion de la foule ignorante, est jugée corruptrice.",
+          "en": "Platonism is <c>epistocratic</c> (reserving power for those who hold knowledge): power should fall to those who know, the <c>philosopher-kings</c> (the philosopher-guardians of the just city, alone fit to govern), alone able to contemplate the <c id='theory-of-forms'>Form of the Good</c> and so to govern justly. Democracy, which entrusts decisions to the opinion of the ignorant multitude, is judged corrupting."
+        },
+        "references": [
+          { "fr": "Platon, République, 473c-474c, le philosophe-roi", "en": "Plato, Republic, 473c-474c, the philosopher-king" },
+          { "fr": "Platon, République, livre VIII, 555b-562a, critique de la démocratie", "en": "Plato, Republic, book VIII, 555b-562a, critique of democracy" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "POLITICAL_IDEAL",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.85 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La République dessine une <c>cité idéale</c> (politeia, la constitution juste réglée sur le modèle des Idées), modèle paradigmatique de la justice fondé sur les Idées plutôt que sur l'expérience politique existante. <dif>Cet <c>utopisme</c> (la prétention à régler la cité sur un ordre parfait conçu a priori) assume que l'organisation de la cité doit se régler sur un ordre intelligible parfait, quitte à se heurter aux faits.</dif>",
+          "en": "The Republic sketches an <c>ideal city</c> (politeia, the just constitution ruled by the model of the Forms), a paradigmatic model of justice founded on the Forms rather than on existing political experience. <dif>This <c>utopianism</c> (the claim to rule the city by a perfect order conceived a priori) assumes that the organization of the city should be ruled by a perfect intelligible order, even at the cost of clashing with facts.</dif>"
+        },
+        "references": [
+          { "fr": "Platon, République, livres II-V, la cité juste", "en": "Plato, Republic, books II-V, the just city" },
+          { "fr": "Platon, République, 472b-473b, la cité comme modèle", "en": "Plato, Republic, 472b-473b, the city as paradigm" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TASTE_HIERARCHY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.8 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Du fait de la beauté objective et de la hiérarchie des biens, le platonisme implique un <kw>élitisme du goût</kw> : tous les plaisirs et tous les objets ne se valent pas, et les plaisirs de l'intellect, ordonnés au vrai et au beau, sont objectivement supérieurs aux plaisirs du corps. La gradation suit l'échelle qui mène du sensible à l'intelligible.",
+          "en": "Owing to objective beauty and the hierarchy of goods, Platonism implies a <kw>hierarchy of taste</kw>: not all pleasures and objects are of equal worth, and the pleasures of the intellect, ordered to the true and the beautiful, are objectively superior to those of the body. The gradation follows the ladder leading from the sensible to the intelligible."
+        },
+        "references": [
+          { "fr": "Platon, Philèbe, 51a-53c, la hiérarchie des plaisirs", "en": "Plato, Philebus, 51a-53c, the hierarchy of pleasures" },
+          { "fr": "Platon, République, 580d-587a, les plaisirs comparés", "en": "Plato, Republic, 580d-587a, pleasures compared" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "UNIVERSALS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.95
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'argument part de l'objet du savoir et de la définition : la science porte sur ce qui est un, stable et identique, or nul objet sensible ne l'est, lui qui naît, change et périt. Le <kw>un sur le multiple</kw> exige donc une réalité distincte, le même Beau dont tous les beaux participent. Le platonisme franchit alors le pas décisif que refusera <ph id='aristotle'>Aristote</ph> : il <c id='theory-of-forms'>sépare</c> cette Idée des choses, au lieu de la loger en elles comme forme immanente. C'est ce qui le distingue à la fois du nominalisme, pour qui l'universel n'est qu'un nom, et de l'hylémorphisme aristotélicien.",
+          "en": "The argument starts from the object of knowledge and of definition: science bears on what is one, stable and self-identical, yet no sensible object is so, coming to be, changing and perishing. The <kw>one over the many</kw> therefore demands a distinct reality, the same Beautiful in which all beautiful things share. Platonism then takes the decisive step <ph id='aristotle'>Aristotle</ph> will refuse: it <c id='theory-of-forms'>separates</c> this Form from things rather than lodging it in them as an immanent form. This sets it apart both from nominalism, for which the universal is only a name, and from Aristotelian hylomorphism."
+        },
+        "references": [
+          {
+            "fr": "Platon, La République, VI-VII",
+            "en": "Plato, Republic, VI-VII"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "EMBODIMENT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'argument de la parenté tire la conclusion de la métaphysique des Idées : ce qui connaît l'intelligible doit lui ressembler, or l'âme saisit des réalités simples, invisibles et immuables ; elle est donc elle-même de cette nature, et ce qui est simple ne peut se décomposer ni périr. Le corps, au contraire, par ses besoins et ses passions, brouille la contemplation et enchaîne l'âme au sensible : d'où l'image du corps comme <ety>tombeau de l'âme (sôma/sêma)</ety>. Le moi véritable est donc l'âme, et non le composé. C'est récuser d'avance la thèse, prêtée à un pythagoricien dans le <w id='phaedo-plato'>Phédon</w>, qui ferait de l'âme une simple harmonie du corps, périssant avec lui.",
+          "en": "The argument from kinship draws its conclusion from the metaphysics of the Forms: what knows the intelligible must resemble it, and the soul grasps realities that are simple, invisible and unchanging; it is therefore itself of that nature, and what is simple cannot be decomposed or perish. The body, by contrast, through its needs and passions, blurs contemplation and chains the soul to the sensible: hence the image of the body as the <ety>tomb of the soul (sōma/sēma)</ety>. The true self is thus the soul, not the compound. This rules out in advance the thesis, ascribed to a Pythagorean in the <w id='phaedo-plato'>Phaedo</w>, that would make the soul a mere attunement of the body, perishing with it."
+        },
+        "references": [
+          {
+            "fr": "Platon, Phédon",
+            "en": "Plato, Phaedo"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CONSCIOUSNESS_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.8,
+          0.2,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Ce qui pense ne peut être de même nature que ce qui est pensé du dehors : l'âme connaît les Idées immatérielles, elle se meut elle-même et survit aux états du corps, autant de traits qu'aucune disposition de la matière ne saurait produire. La conscience relève donc d'un autre ordre que le sensible, antérieur et indépendant de lui, et non d'un agencement corporel qui l'engendrerait. Le platonisme refuse ainsi par avance toute réduction de l'esprit à la matière, là où les stoïciens feront de l'âme un souffle corporel.",
+          "en": "What thinks cannot be of the same nature as what is thought from without: the soul knows the immaterial Forms, it moves itself and outlasts the body's states, traits no arrangement of matter could produce. Consciousness thus belongs to an order other than the sensible, prior to and independent of it, not to a bodily configuration that would generate it. Platonism thereby refuses in advance any reduction of mind to matter, where the Stoics will make the soul a corporeal breath."
+        },
+        "references": [
+          {
+            "fr": "Platon, Phédon ; Phèdre",
+            "en": "Plato, Phaedo; Phaedrus"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "UNIVERSALS",
+      "thesis": {
+        "fr": "Le Beau, le Juste, le Cercle existent en eux-mêmes, séparés des choses qui les imitent : ces <c id='theory-of-forms'>Idées</c> sont plus réelles que le sensible, non de simples noms ni des formes immanentes.",
+        "en": "The Beautiful, the Just, the Circle exist in themselves, separate from the things that imitate them: these <c id='theory-of-forms'>Forms</c> are more real than the sensible, not mere names nor forms immanent in things."
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "thesis": {
+        "fr": "Le monde sensible n'est que l'ombre du monde intelligible : ce que nous prenons pour le réel n'est qu'un jeu de copies, et le philosophe seul sort de la caverne vers la lumière des Idées.",
+        "en": "The sensible world is but the shadow of the intelligible world: what we take for reality is only a play of copies, and the philosopher alone leaves the cave for the light of the Forms."
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "thesis": {
+        "fr": "Connaître, ce n'est pas recueillir des sensations mais se ressouvenir : l'âme, par la <c id='anamnesis'>réminiscence</c>, retrouve en elle les Idées qu'elle a contemplées avant la naissance.",
+        "en": "To know is not to gather sensations but to recollect: through <c id='anamnesis'>recollection</c>, the soul recovers within itself the Forms it contemplated before birth."
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "thesis": {
+        "fr": "Le principe suprême, le Bien puis l'Un, se tient <c id='transcendence'>au-delà de l'être et de l'essence</c> : source de toute réalité, il n'est lui-même aucune des choses dont il est la cause.",
+        "en": "The supreme principle, the Good then the One, stands <c id='transcendence'>beyond being and essence</c>: source of all reality, it is itself none of the things of which it is the cause."
+      }
+    },
+    {
+      "axisId": "EMBODIMENT",
+      "thesis": {
+        "fr": "L'âme immortelle, apparentée aux Idées, est le moi véritable ; le corps n'est qu'un tombeau dont il faut se délier pour contempler le vrai.",
+        "en": "The immortal soul, akin to the Forms, is the true self; the body is but a tomb from which one must loosen oneself to contemplate truth."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

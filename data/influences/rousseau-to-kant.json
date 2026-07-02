@@ -1,0 +1,16 @@
+{
+  "id": "rousseau-to-kant",
+  "from": { "kind": "PHILOSOPHER", "slug": "rousseau" },
+  "to": { "kind": "PHILOSOPHER", "slug": "kant" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='kant'>Kant</ph> reconnaît devoir à <ph id='rousseau'>Rousseau</ph> d'avoir appris à honorer l'homme : il reprend la dignité de la personne et l'<c>autonomie</c> morale, déplaçant le centre de la philosophie de la connaissance vers la liberté pratique.",
+    "en": "<ph id='kant'>Kant</ph> acknowledges owing to <ph id='rousseau'>Rousseau</ph> that he learned to honour mankind: he takes up the dignity of the person and moral <c>autonomy</c>, shifting the centre of philosophy from knowledge toward practical freedom."
+  },
+  "sources": [
+    { "fr": "Kant, Fondements de la métaphysique des mœurs (1785)", "en": "Kant, Groundwork of the Metaphysics of Morals (1785)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

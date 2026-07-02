@@ -1,0 +1,16 @@
+{
+  "id": "epicureanism-to-utilitarianism",
+  "from": { "kind": "MOVEMENT", "slug": "epicureanism" },
+  "to": { "kind": "MOVEMENT", "slug": "utilitarianism" },
+  "directness": "INDIRECT",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "Filiation reconstruite, non revendiquée : l'hédonisme de l'<mv id='epicureanism'>épicurisme</mv>, qui mesure le bien au plaisir et à l'absence de trouble, préfigure de loin le calcul des peines et des plaisirs de l'<mv id='utilitarianism'>utilitarisme</mv>, que Bentham refonde toutefois sur le bonheur collectif.",
+    "en": "A reconstructed, unclaimed filiation: the hedonism of <mv id='epicureanism'>Epicureanism</mv>, which measures the good by pleasure and the absence of disturbance, distantly prefigures the calculus of pains and pleasures of <mv id='utilitarianism'>Utilitarianism</mv>, which Bentham nonetheless refounds on collective happiness."
+  },
+  "sources": [
+    { "fr": "Bentham, Introduction aux principes de morale et de législation", "en": "Bentham, An Introduction to the Principles of Morals and Legislation" }
+  ],
+  "updatedAt": "2026-07-02T00:00:00.000Z"
+}

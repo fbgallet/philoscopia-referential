@@ -1,0 +1,16 @@
+{
+  "id": "buddha-to-nagarjuna",
+  "from": { "kind": "PHILOSOPHER", "slug": "buddha" },
+  "to": { "kind": "PHILOSOPHER", "slug": "nagarjuna" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='nagarjuna'>Nāgārjuna</ph> relit l'enseignement du <ph id='buddha'>Bouddha</ph> sur la coproduction conditionnée et en fait une doctrine systématique de la <c>vacuité</c>, fondant l'école Madhyamaka et sa voie médiane.",
+    "en": "<ph id='nagarjuna'>Nāgārjuna</ph> rereads the <ph id='buddha'>Buddha</ph>'s teaching on dependent origination and turns it into a systematic doctrine of <c>emptiness</c>, founding the Madhyamaka school and its middle way."
+  },
+  "sources": [
+    { "fr": "Nāgārjuna, Stances du milieu par excellence (Mūlamadhyamakakārikā)", "en": "Nāgārjuna, Fundamental Verses on the Middle Way (Mūlamadhyamakakārikā)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

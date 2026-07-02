@@ -1,0 +1,16 @@
+{
+  "id": "hegel-vs-kierkegaard",
+  "from": { "kind": "PHILOSOPHER", "slug": "hegel" },
+  "to": { "kind": "PHILOSOPHER", "slug": "kierkegaard" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='kierkegaard'>Kierkegaard</ph> définit son projet contre le <c>système</c> de <ph id='hegel'>Hegel</ph> : la médiation dialectique dissout l'<c>existence</c> singulière, alors que l'individu, dans l'angoisse et le choix, ne se laisse pas absorber par l'universel.",
+    "en": "<ph id='kierkegaard'>Kierkegaard</ph> defines his project against <ph id='hegel'>Hegel</ph>'s <c>system</c>: dialectical mediation dissolves singular <c>existence</c>, whereas the individual, in anxiety and choice, will not be absorbed into the universal."
+  },
+  "sources": [
+    { "fr": "Kierkegaard, Post-scriptum définitif et non scientifique aux Miettes philosophiques (1846)", "en": "Kierkegaard, Concluding Unscientific Postscript to the Philosophical Fragments (1846)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

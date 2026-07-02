@@ -1,0 +1,12 @@
+{
+  "id": "synkatathesis",
+  "term": { "fr": "Assentiment (sunkatathesis)", "en": "Assent (synkatathesis)" },
+  "definition": {
+    "fr": "L'assentiment est l'acte par lequel l'esprit approuve une impression, la tient pour vraie, ou au contraire la suspend. Pour les stoïciens, c'est précisément ce qui dépend de nous : les impressions s'imposent du dehors, mais y consentir ou non relève de notre seule <c id='prohairesis'>prohairesis</c>. La sagesse consiste donc à ne donner son assentiment qu'aux <c id='kataleptic-impression'>impressions compréhensives</c>, et à le refuser aux jugements précipités d'où naissent les passions.",
+    "en": "Assent is the act by which the mind approves an impression, takes it to be true, or instead withholds. For the Stoics, this is exactly what is up to us: impressions force themselves on us from outside, but consenting to them or not belongs to our <c id='prohairesis'>prohairesis</c> alone. Wisdom therefore lies in granting assent only to <c id='kataleptic-impression'>kataleptic impressions</c>, and refusing it to the hasty judgments from which the passions arise."
+  },
+  "relatedAxes": ["FREEDOM", "CERTAINTY", "CONTROL_SCOPE"],
+  "relatedTerms": ["prohairesis", "dichotomy-of-control", "kataleptic-impression"],
+  "positions": [{ "axisId": "CONTROL_SCOPE", "poleId": "DICHOTOMY_OF_CONTROL" }],
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

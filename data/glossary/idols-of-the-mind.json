@@ -1,0 +1,16 @@
+{
+  "id": "idols-of-the-mind",
+  "term": {
+    "fr": "Idoles de l'esprit (idola)",
+    "en": "Idols of the mind (idola)"
+  },
+  "definition": {
+    "fr": "Pour <ph id='bacon'>Bacon</ph>, les idoles de l'esprit sont les sources systématiques d'erreur qui faussent la connaissance et que l'esprit doit purger avant de pouvoir pratiquer une véritable <c id='induction'>induction</c>. Il en distingue quatre : les idoles de la tribu, communes à toute l'espèce humaine, qui prête à la nature plus d'ordre qu'elle n'en a ; les idoles de la caverne, propres à l'histoire de chaque individu ; les idoles du forum, glissées dans la pensée par le langage et les mots mal faits ; et les idoles du théâtre, les systèmes et dogmes reçus, joués comme des fables sur une scène. C'est parce qu'une croyance se justifie par la <ax id='EPISTEMIC_JUSTIFICATION' pole='RELIABILISM'>fiabilité de la méthode qui la produit</ax>, et non par une intuition première, qu'il faut d'abord décrasser l'esprit de ses idoles.",
+    "en": "For <ph id='bacon'>Bacon</ph>, the idols of the mind are the systematic sources of error that distort knowledge and that the mind must purge before it can practise a true <c id='induction'>induction</c>. He distinguishes four: the idols of the tribe, common to the whole human species, which lends nature more order than it has; the idols of the cave, proper to each individual's history; the idols of the marketplace, slipped into thought by language and ill-made words; and the idols of the theatre, the received systems and dogmas, played out like fables on a stage. It is because a belief is justified by the <ax id='EPISTEMIC_JUSTIFICATION' pole='RELIABILISM'>reliability of the method that produces it</ax>, and not by some first intuition, that the mind must first be scoured of its idols."
+  },
+  "relatedAxes": ["EPISTEMIC_JUSTIFICATION"],
+  "relatedTerms": ["induction"],
+  "figure": { "slug": "bacon", "name": { "fr": "Bacon", "en": "Bacon" } },
+  "positions": [{ "axisId": "EPISTEMIC_JUSTIFICATION", "poleId": "RELIABILISM" }],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

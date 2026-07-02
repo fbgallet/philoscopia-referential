@@ -1,0 +1,16 @@
+{
+  "id": "sartre-to-beauvoir",
+  "from": { "kind": "PHILOSOPHER", "slug": "sartre" },
+  "to": { "kind": "PHILOSOPHER", "slug": "beauvoir" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "En dialogue constant avec <ph id='sartre'>Sartre</ph>, <ph id='beauvoir'>Beauvoir</ph> transforme les catégories de <c>liberté</c> et de situation en une éthique de l'ambiguïté et en analyse de l'<c>oppression</c> sexuée, là où l'existentialisme restait abstrait.",
+    "en": "In constant dialogue with <ph id='sartre'>Sartre</ph>, <ph id='beauvoir'>Beauvoir</ph> transforms the categories of <c>freedom</c> and situation into an ethics of ambiguity and an analysis of gendered <c>oppression</c>, where existentialism had stayed abstract."
+  },
+  "sources": [
+    { "fr": "Beauvoir, Pour une morale de l'ambiguïté (1947)", "en": "Beauvoir, The Ethics of Ambiguity (1947)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

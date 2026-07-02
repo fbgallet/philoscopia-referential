@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "chrysippus",
+  "stub": true,
+  "name": {
+    "fr": "Chrysippe",
+    "en": "Chrysippus"
+  },
+  "summary": {
+    "fr": "Troisième chef du Portique et grand logicien <mv id='stoicism'>stoïcien</mv>, qui défendit un déterminisme compatible avec la responsabilité, distinguant le destin extérieur de l'assentiment qui dépend de nous.",
+    "en": "Third head of the Stoa and a great <mv id='stoicism'>Stoic</mv> logician, who defended a determinism compatible with responsibility, distinguishing external fate from the assent that is up to us."
+  },
+  "birth": -279,
+  "death": -206,
+  "nationality": {
+    "fr": "Grec",
+    "en": "Greek"
+  },
+  "movements": [],
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

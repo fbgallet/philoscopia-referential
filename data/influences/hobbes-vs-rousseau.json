@@ -1,0 +1,16 @@
+{
+  "id": "hobbes-vs-rousseau",
+  "from": { "kind": "PHILOSOPHER", "slug": "hobbes" },
+  "to": { "kind": "PHILOSOPHER", "slug": "rousseau" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='rousseau'>Rousseau</ph> renverse l'<c id='etat-de-nature'>état de nature</c> de <ph id='hobbes'>Hobbes</ph> : loin d'être une « guerre de tous contre tous », il est paisible, et l'homme y est naturellement bon, mû par l'amour de soi et la <c id='pitie'>pitié</c>, non par la peur et l'orgueil. Hobbes, lui reproche Rousseau, a projeté sur l'homme naturel les passions de l'homme déjà social ; ce n'est pas la nature mais la société qui rend l'homme méchant.",
+    "en": "<ph id='rousseau'>Rousseau</ph> reverses <ph id='hobbes'>Hobbes</ph>'s <c id='etat-de-nature'>state of nature</c>: far from a « war of all against all », it is peaceful, and man within it is naturally good, moved by self-love and <c id='pitie'>pity</c>, not by fear and pride. Hobbes, Rousseau charges, projected onto natural man the passions of already-social man; it is not nature but society that makes man wicked."
+  },
+  "sources": [
+    { "fr": "Rousseau, Discours sur l'origine de l'inégalité (1755)", "en": "Rousseau, Discourse on the Origin of Inequality (1755)" }
+  ],
+  "updatedAt": "2026-06-25T00:00:00.000Z"
+}

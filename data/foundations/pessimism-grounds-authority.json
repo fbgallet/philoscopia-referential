@@ -1,0 +1,12 @@
+{
+  "id": "pessimism-grounds-authority",
+  "ground": { "axisId": "HUMAN_VISION", "poleId": "ANTHROPOLOGICAL_PESSIMISM" },
+  "grounded": { "axisId": "AUTHORITY", "poleId": "AUTHORITY" },
+  "kind": "T_V",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si l'homme est par nature porté à la violence et à l'intérêt propre, l'absence de pouvoir commun le livre à la guerre de tous contre tous. Le pessimisme anthropologique justifie ainsi une autorité forte, seule capable de garantir la paix civile.",
+    "en": "If man is by nature inclined to violence and self-interest, the absence of a common power leaves him to the war of all against all. Anthropological pessimism thus justifies a strong authority, the only thing able to guarantee civil peace."
+  },
+  "updatedAt": "2026-06-14T00:00:00.000Z"
+}

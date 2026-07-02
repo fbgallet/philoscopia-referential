@@ -1,0 +1,16 @@
+{
+  "id": "descartes-to-husserl",
+  "from": { "kind": "PHILOSOPHER", "slug": "descartes" },
+  "to": { "kind": "PHILOSOPHER", "slug": "husserl" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='husserl'>Husserl</ph> reprend de <ph id='descartes'>Descartes</ph> la quête d'un fondement apodictique enraciné dans l'ego, le retour au <q>je pense</q> comme sol indubitable du savoir. Mais il en récuse le pas décisif : l'ego de la réduction n'est plus une substance pensante isolée du monde, c'est l'ego transcendantal dont l'analyse déploie la vie intentionnelle.",
+    "en": "<ph id='husserl'>Husserl</ph> takes up from <ph id='descartes'>Descartes</ph> the quest for an apodictic ground rooted in the ego, the return to the <q>I think</q> as the indubitable soil of knowledge. But he rejects its decisive step: the ego of the reduction is no longer a thinking substance cut off from the world, it is the transcendental ego whose analysis unfolds intentional life."
+  },
+  "sources": [
+    { "fr": "Husserl, Méditations cartésiennes", "en": "Husserl, Cartesian Meditations" }
+  ],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

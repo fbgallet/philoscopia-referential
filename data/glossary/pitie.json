@@ -1,0 +1,16 @@
+{
+  "id": "pitie",
+  "term": { "fr": "La pitié", "en": "Pity (pitié)" },
+  "definition": {
+    "fr": "Chez <ph id='rousseau'>Rousseau</ph>, la pitié est la répugnance naturelle et innée à voir souffrir un être sensible, antérieure à toute réflexion et à toute morale. Avec l'amour de soi, elle est l'un des deux principes de l'homme naturel : en nous identifiant à celui qui souffre, elle tempère notre intérêt propre et fonde, avant la raison, toutes les vertus sociales. C'est sur ce sentiment, non sur un calcul ni un devoir, que Rousseau bâtit la morale, et il l'étend à « tout être sensible ».",
+    "en": "In <ph id='rousseau'>Rousseau</ph>, pity is the natural, innate reluctance to see a sentient being suffer, prior to all reflection and all morality. Together with self-love it is one of the two principles of natural man: by making us identify with the one who suffers, it tempers our self-interest and grounds, before reason, all the social virtues. It is on this feeling, not on a calculation or a duty, that Rousseau builds morality, and he extends it to « every sentient being »."
+  },
+  "relatedAxes": ["SELF_INTEREST", "EMOTIONS", "ETHICS_FOUNDATION", "MORAL_CIRCLE"],
+  "relatedTerms": ["amour-de-soi-et-amour-propre"],
+  "figure": { "slug": "rousseau", "name": { "fr": "Jean-Jacques Rousseau", "en": "Jean-Jacques Rousseau" } },
+  "positions": [
+    { "axisId": "SELF_INTEREST", "poleId": "ALTRUISM" },
+    { "axisId": "EMOTIONS", "poleId": "SENTIMENTALISM" }
+  ],
+  "updatedAt": "2026-06-25T00:00:00.000Z"
+}

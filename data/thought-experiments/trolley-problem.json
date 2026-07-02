@@ -1,0 +1,53 @@
+{
+  "id": "trolley-problem",
+  "title": {
+    "fr": "Le dilemme du tramway",
+    "en": "The trolley problem"
+  },
+  "description": {
+    "fr": "Un tramway hors de contrôle dévale la pente. Sur la voie, droit devant, cinq personnes travaillent et ne peuvent pas s'échapper à temps. Vous vous trouvez près d'un aiguillage : en l'actionnant, vous pouvez dévier le tramway sur une voie secondaire. Mais sur cette voie travaille une personne, qui sera tuée si vous agissez. Si vous ne faites rien, les cinq meurent ; si vous actionnez l'aiguillage, une seule personne meurt, par votre geste. Vous n'avez que quelques secondes pour décider.",
+    "en": "A runaway trolley is hurtling down the track. Straight ahead, five people are working on the line and cannot escape in time. You are standing next to a switch: by pulling it, you can divert the trolley onto a side track. But one person is working on that track, and will be killed if you act. If you do nothing, the five die; if you pull the switch, one person dies, by your hand. You have only seconds to decide."
+  },
+  "source": {
+    "author": { "fr": "Philippa Foot", "en": "Philippa Foot" },
+    "year": 1967
+  },
+  "question": {
+    "fr": "Actionneriez-vous l'aiguillage ? Et qu'est-ce qui rend un tel choix juste ou injuste : le nombre de vies sauvées, ou le fait de causer soi-même une mort ?",
+    "en": "Would you pull the switch? And what makes such a choice right or wrong: the number of lives saved, or the fact of causing a death yourself?"
+  },
+  "axisIds": ["ETHICS_FOUNDATION"],
+  "options": [
+    {
+      "id": "pull-for-the-many",
+      "label": {
+        "fr": "J'actionne l'aiguillage : une vie perdue contre cinq sauvées, le bilan est ce qui compte.",
+        "en": "I pull the switch: one life lost against five saved, the outcome is what counts."
+      },
+      "hints": [
+        { "axisId": "ETHICS_FOUNDATION", "value": { "kind": "weights", "weights": [1, 0, 0, 0] } }
+      ]
+    },
+    {
+      "id": "refuse-to-kill",
+      "label": {
+        "fr": "Je n'actionne rien : causer délibérément une mort reste interdit, quel que soit le nombre de vies en jeu.",
+        "en": "I do nothing: deliberately causing a death remains forbidden, whatever the number of lives at stake."
+      },
+      "hints": [
+        { "axisId": "ETHICS_FOUNDATION", "value": { "kind": "weights", "weights": [0, 1, 0, 0] } }
+      ]
+    },
+    {
+      "id": "what-a-good-person-does",
+      "label": {
+        "fr": "Je me demande ce que ferait quelqu'un de juste et de courageux, et j'agis ainsi, sans m'en remettre à un calcul ni à une règle absolue.",
+        "en": "I ask what a just and courageous person would do, and act accordingly, relying neither on a calculation nor on an absolute rule."
+      },
+      "hints": [
+        { "axisId": "ETHICS_FOUNDATION", "value": { "kind": "weights", "weights": [0, 0, 1, 0] } }
+      ]
+    }
+  ],
+  "updatedAt": "2026-06-11T00:00:00.000Z"
+}

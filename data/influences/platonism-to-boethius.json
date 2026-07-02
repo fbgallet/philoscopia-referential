@@ -1,0 +1,16 @@
+{
+  "id": "platonism-to-boethius",
+  "from": { "kind": "MOVEMENT", "slug": "platonism" },
+  "to": { "kind": "PHILOSOPHER", "slug": "boethius" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "La Consolation de Philosophie de <ph id='boethius'>Boèce</ph> respire le <mv id='platonism'>platonisme</mv> tardif : remontée de l'âme vers le Bien, providence ordonnatrice, mal privé d'être, dans une prose qui christianise l'héritage sans le citer.",
+    "en": "<ph id='boethius'>Boethius</ph>'s Consolation of Philosophy breathes late <mv id='platonism'>Platonism</mv>: the soul's ascent toward the Good, an ordering providence, evil deprived of being, in a prose that Christianises the heritage without citing it."
+  },
+  "sources": [
+    { "fr": "Boèce, La Consolation de Philosophie", "en": "Boethius, The Consolation of Philosophy" }
+  ],
+  "updatedAt": "2026-07-02T00:00:00.000Z"
+}

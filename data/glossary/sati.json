@@ -1,0 +1,13 @@
+{
+  "id": "sati",
+  "term": { "fr": "Sati (attention, pleine conscience)", "en": "Sati (mindfulness)" },
+  "definition": {
+    "fr": "Sati est l'attention lucide et soutenue portée à ce qui se présente : le corps, les sensations, les états mentaux et les phénomènes, observés sans s'y agripper ni les fuir. Facteur de <c id='eightfold-path'>l'Octuple Sentier</c>, elle est le sol sur lequel se développe la concentration et se dénoue l'attachement. Pour <ph id='buddha'>le Bouddha</ph>, c'est par cette présence attentive, et non par la dispersion, que l'on voit clairement l'<c id='anicca'>impermanence</c> des choses.",
+    "en": "Sati is the lucid, sustained attention brought to whatever presents itself: the body, feelings, mental states and phenomena, observed without grasping at them or fleeing them. A factor of the <c id='eightfold-path'>Noble Eightfold Path</c>, it is the ground on which concentration develops and attachment unravels. For <ph id='buddha'>the Buddha</ph>, it is through this attentive presence, not through dispersion, that one clearly sees the <c id='anicca'>impermanence</c> of things."
+  },
+  "relatedAxes": ["ATTENTION"],
+  "relatedTerms": ["eightfold-path", "anicca", "anatta"],
+  "figure": { "slug": "buddha", "name": { "fr": "Le Bouddha", "en": "The Buddha" } },
+  "positions": [{ "axisId": "ATTENTION", "poleId": "RECOLLECTION" }],
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

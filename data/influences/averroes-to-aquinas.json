@@ -1,0 +1,16 @@
+{
+  "id": "averroes-to-aquinas",
+  "from": { "kind": "PHILOSOPHER", "slug": "averroes" },
+  "to": { "kind": "PHILOSOPHER", "slug": "aquinas" },
+  "directness": "ATTESTED",
+  "mode": "TRANSMITS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Les commentaires d'<ph id='averroes'>Averroès</ph> transmettent <ph id='aristotle'>Aristote</ph> au monde latin et façonnent la lecture qu'en fait <ph id='aquinas'>Thomas d'Aquin</ph>, lequel combat pourtant la thèse averroïste de l'unicité de l'<c>intellect</c>.",
+    "en": "<ph id='averroes'>Averroes</ph>'s commentaries transmit <ph id='aristotle'>Aristotle</ph> to the Latin world and shape <ph id='aquinas'>Aquinas</ph>'s reading of him, even as Aquinas combats the Averroist thesis of the unicity of the <c>intellect</c>."
+  },
+  "sources": [
+    { "fr": "Thomas d'Aquin, De l'unité de l'intellect contre les averroïstes", "en": "Aquinas, On the Unity of the Intellect against the Averroists" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

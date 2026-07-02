@@ -1,0 +1,85 @@
+{
+  "id": "HUMAN_NATURE",
+  "relation": "WORLD",
+  "territory": "NATURE_LIVING",
+  "label": {
+    "fr": "Nature et culture",
+    "en": "Nature and culture"
+  },
+  "question": {
+    "fr": "Les comportements humains s'expliquent-ils d'abord par la nature ou par la culture ?",
+    "en": "Are human behaviors explained primarily by nature or by culture?"
+  },
+  "stakes": {
+    "fr": "Si nos conduites tiennent à notre nature, elles changent difficilement et certaines différences paraissent données d'avance ; si elles viennent de la culture, presque tout pourrait être autre, au risque de nier des contraintes bien réelles. Se positionner, c'est dire ce qui, en l'humain, peut être transformé, et ce que l'éducation et la politique peuvent espérer.",
+    "en": "If our conduct stems from our nature, it changes only with difficulty and some differences seem given in advance; if it comes from culture, almost everything could be otherwise, at the risk of denying very real constraints. To take a position is to say what, in the human being, can be transformed, and what education and politics can hope to achieve."
+  },
+  "layer": "THEORY",
+  "type": "BIPOLAR",
+  "poles": [
+    {
+      "id": "NATURALISM",
+      "label": {
+        "fr": "Naturalisme",
+        "en": "Naturalism"
+      },
+      "description": {
+        "fr": "L'être humain est d'abord un être naturel : ses comportements, ses désirs et même ses institutions s'enracinent dans une histoire biologique et des pulsions communes à l'espèce. La culture ne fait que moduler un fond naturel qui la précède.",
+        "en": "Human beings are first of all natural beings: their behaviors, desires, and even institutions are rooted in a biological history and in drives shared by the species. Culture merely modulates a natural foundation that precedes it."
+      },
+      "figures": [
+        {
+          "slug": "darwin",
+          "name": {
+            "fr": "Darwin",
+            "en": "Darwin"
+          }
+        },
+        {
+          "slug": "freud",
+          "name": {
+            "fr": "Freud",
+            "en": "Freud"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CULTURALISM",
+      "label": {
+        "fr": "Culturalisme",
+        "en": "Culturalism"
+      },
+      "description": {
+        "fr": "Ce que nous prenons pour la nature humaine varie profondément d'une société à l'autre : les règles, les rôles et les manières de sentir sont des constructions culturelles. L'humain est l'être qui n'a pas de nature fixe, mais des cultures plurielles.",
+        "en": "What we take for human nature varies profoundly from one society to another: rules, roles, and ways of feeling are cultural constructions. The human is the being with no fixed nature, but with plural cultures."
+      },
+      "figures": [
+        {
+          "slug": "levi-strauss",
+          "name": {
+            "fr": "Lévi-Strauss",
+            "en": "Lévi-Strauss"
+          }
+        },
+        {
+          "slug": "mead",
+          "name": {
+            "fr": "Mead",
+            "en": "Mead"
+          }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 2,
+  "clusters": [],
+  "relatedAxes": [
+    "SOCIAL_IDENTITY",
+    "ESSENCE",
+    "HUMAN_ENHANCEMENT",
+    "HUMAN_VISION",
+    "SOVEREIGN_GOOD"
+  ]
+}

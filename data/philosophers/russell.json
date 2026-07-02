@@ -1,0 +1,16 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "russell",
+  "name": { "fr": "Russell", "en": "Russell" },
+  "summary": {
+    "fr": "Logicien et philosophe britannique : rationaliste et athée, il tient la croyance religieuse pour contraire à l'exigence de preuve et défend une morale sans Dieu.",
+    "en": "British logician and philosopher: a rationalist and atheist, he holds religious belief to run counter to the demand for evidence and defends a morality without God."
+  },
+  "nationality": { "fr": "Britannique", "en": "British" },
+  "birth": 1872,
+  "death": 1970,
+  "movements": [],
+  "updatedAt": "2026-06-21T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

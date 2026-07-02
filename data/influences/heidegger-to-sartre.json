@@ -1,0 +1,16 @@
+{
+  "id": "heidegger-to-sartre",
+  "from": { "kind": "PHILOSOPHER", "slug": "heidegger" },
+  "to": { "kind": "PHILOSOPHER", "slug": "sartre" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='sartre'>Sartre</ph> existentialise les analyses de <ph id='heidegger'>Heidegger</ph>, l'être-au-monde, la <c>facticité</c>, l'angoisse, dans un cadre centré sur la <c>liberté</c> et le projet, que Heidegger récusera comme un contresens humaniste.",
+    "en": "<ph id='sartre'>Sartre</ph> existentialises <ph id='heidegger'>Heidegger</ph>'s analyses, being-in-the-world, <c>facticity</c>, anxiety, within a framework centred on <c>freedom</c> and project, which Heidegger would reject as a humanist misreading."
+  },
+  "sources": [
+    { "fr": "Sartre, L'Être et le Néant (1943)", "en": "Sartre, Being and Nothingness (1943)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

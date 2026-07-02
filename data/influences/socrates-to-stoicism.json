@@ -1,0 +1,16 @@
+{
+  "id": "socrates-to-stoicism",
+  "from": { "kind": "PHILOSOPHER", "slug": "socrates" },
+  "to": { "kind": "MOVEMENT", "slug": "stoicism" },
+  "directness": "INDIRECT",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Le <mv id='stoicism'>stoïcisme</mv> se réclame de <ph id='socrates'>Socrate</ph> comme modèle du sage : la vertu comme savoir, l'unité des vertus et l'idée que nul n'est méchant volontairement passent des dialogues à l'éthique du Portique.",
+    "en": "<mv id='stoicism'>Stoicism</mv> claims <ph id='socrates'>Socrates</ph> as its model of the sage: virtue as knowledge, the unity of the virtues and the idea that no one does wrong willingly pass from the dialogues into the ethics of the Stoa."
+  },
+  "sources": [
+    { "fr": "Diogène Laërce, VII ; les dialogues socratiques de Platon", "en": "Diogenes Laërtius, VII; Plato's Socratic dialogues" }
+  ],
+  "updatedAt": "2026-07-02T00:00:00.000Z"
+}

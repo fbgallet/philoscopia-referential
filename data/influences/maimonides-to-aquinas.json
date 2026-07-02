@@ -1,0 +1,16 @@
+{
+  "id": "maimonides-to-aquinas",
+  "from": { "kind": "PHILOSOPHER", "slug": "maimonides" },
+  "to": { "kind": "PHILOSOPHER", "slug": "aquinas" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='aquinas'>Thomas</ph> discute abondamment <q>Rabbi Moïse</q> sur la foi et la raison, la création dans le temps et la théologie négative, tantôt le suivant, tantôt le corrigeant.",
+    "en": "<ph id='aquinas'>Aquinas</ph> discusses <q>Rabbi Moses</q> at length on faith and reason, creation in time and negative theology, at times following him, at times correcting him."
+  },
+  "sources": [
+    { "fr": "Thomas d'Aquin, Somme théologique ; Somme contre les Gentils", "en": "Aquinas, Summa Theologiae; Summa contra Gentiles" }
+  ],
+  "updatedAt": "2026-07-02T00:00:00.000Z"
+}

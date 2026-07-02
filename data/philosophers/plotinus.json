@@ -1,0 +1,745 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "plotinus",
+  "name": {
+    "fr": "Plotin",
+    "en": "Plotinus"
+  },
+  "fullName": {
+    "fr": "Plotin",
+    "en": "Plotinus"
+  },
+  "tagline": {
+    "fr": "Tout découle de l'<c id='the-one'>Un</c> qui est par delà l'être : philosopher, c'est remonter vers lui, « la fuite du seul vers le Seul ».",
+    "en": "All things flow from the <c id='the-one'>One</c> beyond being: to philosophize is to ascend back to it, \"the flight of the alone to the Alone\"."
+  },
+  "summary": {
+    "fr": "Philosophe de langue grecque de l'Antiquité tardive (vers 204-270), né en Égypte romaine et formé à Alexandrie auprès d'<ph>Ammonios Saccas</ph>, Plotin enseigne ensuite à Rome, où il fonde un cercle de disciples. Il est le principal fondateur de ce qu'on appellera le <mv id='platonism'>néoplatonisme</mv> : non un système nouveau, à ses yeux, mais l'explicitation fidèle de <ph id='plato'>Platon</ph>, qu'il systématise et infléchit vers la mystique. Il n'a écrit que tard et sans souci d'ordre ; ses traités furent réunis et édités après sa mort par son disciple <ph>Porphyre</ph>, qui les classa en six groupes de neuf, les <w id='enneads-plotinus'>Ennéades</w>. Sa pensée des trois principes, l'Un, l'Intellect et l'Âme, irriguera la théologie chrétienne, en particulier <ph id='augustine'>Augustin</ph>, ainsi que les traditions juive et musulmane, jusqu'à la Renaissance florentine.",
+    "en": "A Greek-speaking philosopher of late antiquity (c. 204-270), born in Roman Egypt and trained in Alexandria under <ph>Ammonius Saccas</ph>, Plotinus then taught in Rome, where he gathered a circle of disciples. He is the chief founder of what would be called <mv id='platonism'>Neoplatonism</mv>: in his own eyes not a new system but the faithful unfolding of <ph id='plato'>Plato</ph>, whom he systematizes and bends toward mysticism. He wrote only late and without concern for order; his treatises were collected and edited after his death by his pupil <ph>Porphyry</ph>, who arranged them into six groups of nine, the <w id='enneads-plotinus'>Enneads</w>. His thought of the three principles, the One, the Intellect and the Soul, would feed Christian theology, above all <ph id='augustine'>Augustine</ph>, as well as the Jewish and Islamic traditions, down to the Florentine Renaissance."
+  },
+  "birth": 204,
+  "death": 270,
+  "nationality": {
+    "fr": "Grec",
+    "en": "Greek"
+  },
+  "movements": [
+    "platonism"
+  ],
+  "entries": [
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le principe premier ne peut être ni un être ni une pensée, car tout être est déjà multiple, distinct de ce qu'il pense : pour fonder la multiplicité sans en relever, il faut un <c id='the-one'>Un</c> absolument simple, « par delà l'être » et par delà l'<c id='nous'>intellect</c>, dont rien ne se dit en propre. Plotin radicalise ainsi le <pb>Bien au-dessus de l'essence</pb> de <ph id='plato'>Platon</ph> en une transcendance pure. Mais l'<c id='emanation'>émanation</c> tempère l'éloignement : l'Un déborde sans se diviser ni s'appauvrir, et reste présent à tout ce qui procède de lui, plus intime à l'âme qu'elle-même. D'où une transcendance forte mais non sans une <dif>immanence graduée</dif>, qui retient d'un score extrême.",
+          "en": "The first principle can be neither a being nor a thought, for every being is already manifold, distinct from what it thinks: to ground multiplicity without belonging to it, there must be an absolutely simple <c id='the-one'>One</c>, \"beyond being\" and beyond <c id='nous'>intellect</c>, of which nothing can properly be said. Plotinus thus radicalizes <ph id='plato'>Plato</ph>'s <pb>Good above essence</pb> into a pure transcendence. Yet <c id='emanation'>emanation</c> tempers the distance: the One overflows without dividing or diminishing itself, and stays present to all that proceeds from it, more inward to the soul than the soul is to itself. Hence a strong transcendence, but not without a <dif>graded immanence</dif>, which holds the score back from the extreme."
+        },
+        "quote": {
+          "text": {
+            "fr": "Il n'est aucune des choses dont il est le principe ; il est tel pourtant que, sans qu'on en puisse rien affirmer, ni le nom, ni la raison, nous pouvons cependant dire quelque chose à son sujet.",
+            "en": "It is none of the things of which it is the source; such is its nature that, though nothing can be affirmed of it, not name, not reason, we can yet say something concerning it."
+          },
+          "source": {
+            "fr": "Ennéades, V, 3, 13-14",
+            "en": "Enneads, V, 3, 13-14"
+          }
+        },
+        "references": [
+          {
+            "fr": "Ennéades, VI, 9 (Du Bien ou de l'Un)",
+            "en": "Enneads, VI, 9 (On the Good, or the One)"
+          },
+          {
+            "fr": "Ennéades, V, 3 et V, 5",
+            "en": "Enneads, V, 3 and V, 5"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Toute la métaphysique de Plotin culmine dans un principe unique et absolu, l'<c id='the-one'>Un</c>, source de tout ce qui est et terme du retour de l'âme : il y a bien un divin premier, et l'athéisme est sans objet. Mais ce principe n'est pas le Dieu personnel et créateur du monothéisme : il est impersonnel, « par delà l'être », ne connaît pas, ne veut pas, ne crée pas par décision mais déborde par nécessité de sa surabondance. Ce théisme métaphysique sans providence personnelle ni création <c>ex nihilo</c> retient d'un score extrême, tout en restant nettement du côté de l'affirmation d'un absolu divin.",
+          "en": "Plotinus's whole metaphysics culminates in a single, absolute principle, the <c id='the-one'>One</c>, source of all that is and term of the soul's return: a first divine principle exists, and atheism is beside the point. But this principle is not the personal, creating God of monotheism: it is impersonal, \"beyond being\", does not know, does not will, does not create by decision but overflows by the necessity of its superabundance. This metaphysical theism, without personal providence or creation <c>ex nihilo</c>, holds the score back from the extreme while remaining firmly on the side of affirming a divine absolute."
+        },
+        "references": [
+          {
+            "fr": "Ennéades, VI, 9",
+            "en": "Enneads, VI, 9"
+          },
+          {
+            "fr": "Ennéades, V, 1 (Des trois hypostases principielles)",
+            "en": "Enneads, V, 1 (On the Three Primary Hypostases)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.3,
+          0.7
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le bonheur ne tient ni au plaisir ni même à la seule vie vertueuse : la <c>vertu</c> n'est qu'un premier degré, une purification qui détache l'âme du sensible et la rend semblable au divin. Le souverain bien véritable est au-delà, dans la <c>contemplation</c> de l'Intellect puis dans l'union avec l'<c id='the-one'>Un</c>, où l'âme rejoint sa source. Plotin reprend l'eudémonisme grec, la vie heureuse comme activité de la meilleure part de nous, mais en déplace le sommet : la félicité n'est plus l'excellence de l'agir mais une remontée contemplative qui passe la vertu morale elle-même. Le sage parfait, déjà uni à l'intelligible, demeure heureux jusque dans l'infortune, car son vrai moi n'y est pas atteint.",
+          "en": "Happiness lies neither in pleasure nor even in the virtuous life alone: <c>virtue</c> is only a first degree, a purification that detaches the soul from the sensible and makes it like the divine. The true sovereign good is beyond, in the <c>contemplation</c> of the Intellect and then in union with the <c id='the-one'>One</c>, where the soul rejoins its source. Plotinus takes up Greek eudaimonism, the happy life as the activity of our best part, but shifts its summit: blessedness is no longer the excellence of action but a contemplative ascent that passes beyond moral virtue itself. The perfect sage, already united to the intelligible, stays happy even in misfortune, for his true self is not reached by it."
+        },
+        "quote": {
+          "text": {
+            "fr": "Telle est la vie des dieux et des hommes divins et bienheureux : un détachement de tout ce qui est ici-bas, la fuite du seul vers le Seul.",
+            "en": "This is the life of gods and of godlike and blessed men: a deliverance from all things here below, the flight of the alone to the Alone."
+          },
+          "source": {
+            "fr": "Ennéades, VI, 9, 11",
+            "en": "Enneads, VI, 9, 11"
+          }
+        },
+        "references": [
+          {
+            "fr": "Ennéades, I, 4 (Du bonheur)",
+            "en": "Enneads, I, 4 (On Well-Being)"
+          },
+          {
+            "fr": "Ennéades, I, 2 (Des vertus)",
+            "en": "Enneads, I, 2 (On Virtues)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.65,
+          0.35
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le réel se déploie en une hiérarchie de degrés d'être, de l'<c id='the-one'>Un</c> à la matière : plus une chose est une et intelligible, plus elle est réelle ; plus elle est dispersée dans le sensible, moins elle l'est. Le monde sensible n'est donc pas illusoire mais c'est le degré le plus bas, une image affaiblie produite par l'<c id='world-soul'>Âme</c> qui ordonne et anime le cosmos. La matière, au bas de l'échelle, est presque néant, pur manque. Cette priorité de l'esprit penche fortement vers l'idéalisme, mais c'est une gradation platonicienne, et non l'idéalisme d'un <ph id='berkeley'>Berkeley</ph> pour qui être c'est être perçu : il subsiste une dualité de l'intelligible et du sensible, d'où un poids résiduel au dualisme.",
+          "en": "The real unfolds as a hierarchy of degrees of being, from the <c id='the-one'>One</c> down to matter: the more a thing is one and intelligible, the more real it is; the more dispersed in the sensible, the less. The sensible world is therefore not illusory but the lowest degree, a faint image produced by the <c id='world-soul'>Soul</c> that orders and animates the cosmos. Matter, at the bottom of the scale, is all but nothing, sheer lack. This priority of mind leans strongly toward idealism, but it is a Platonic gradation, not the idealism of a <ph id='berkeley'>Berkeley</ph> for whom to be is to be perceived: a duality of intelligible and sensible persists, hence a residual weight on dualism."
+        },
+        "references": [
+          {
+            "fr": "Ennéades, V, 1 et V, 2",
+            "en": "Enneads, V, 1 and V, 2"
+          },
+          {
+            "fr": "Ennéades, IV, 8 (De la descente de l'âme dans les corps)",
+            "en": "Enneads, IV, 8 (On the Descent of the Soul into Bodies)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "PROBLEM_OF_EVIL",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.75,
+          0,
+          0.25,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si tout procède d'un principe parfaitement bon, d'où vient le mal ? Plotin refuse d'en faire un principe positif, une puissance rivale du Bien : le mal n'a pas d'être propre, il est <c id='privation'>privation</c>, manque de bien, défaut d'être au degré le plus bas de la procession. Il l'identifie à la matière comme limite ultime où la lumière de l'Un s'éteint, non comme une force mais comme une absence. Le mal moral n'est dès lors qu'une âme qui se détourne du supérieur vers l'inférieur. Cette résorption du mal dans le non-être, qui sauve la bonté du tout sans nier la réalité de notre épreuve, est une forme de théodicie ; elle léguera à <ph id='augustine'>Augustin</ph> l'idée du mal comme <c id='privation'>privatio boni</c>.",
+          "en": "If all things proceed from a perfectly good principle, whence comes evil? Plotinus refuses to make it a positive principle, a power rivaling the Good: evil has no being of its own, it is <c id='privation'>privation</c>, a lack of good, a defect of being at the lowest degree of the procession. He identifies it with matter as the ultimate limit where the light of the One fades out, not as a force but as an absence. Moral evil is then merely a soul turning away from the higher toward the lower. This dissolution of evil into non-being, which saves the goodness of the whole without denying the reality of our ordeal, is a form of theodicy; it will bequeath to <ph id='augustine'>Augustine</ph> the idea of evil as <c id='privation'>privatio boni</c>."
+        },
+        "references": [
+          {
+            "fr": "Ennéades, I, 8 (De ce que sont et d'où viennent les maux)",
+            "en": "Enneads, I, 8 (On What Evils Are and Whence They Come)"
+          },
+          {
+            "fr": "Ennéades, III, 2-3 (De la providence)",
+            "en": "Enneads, III, 2-3 (On Providence)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le mouvement même de l'être est circulaire : toute chose procède de l'<c id='the-one'>Un</c> par <c id='emanation'>émanation</c> puis tend à y retourner, et le retour (<c id='epistrophe'>épistrophè</c>) est inscrit dans la nature de ce qui est issu du Bien. Le sens de la vie humaine n'est donc ni à inventer ni absent : il est donné par cette structure, l'âme ayant à reparcourir consciemment le chemin de sa source. Vivre pleinement, c'est convertir son regard, se détourner du dehors et remonter vers l'origine dont on n'est jamais entièrement séparé.",
+          "en": "The very movement of being is circular: each thing proceeds from the <c id='the-one'>One</c> by <c id='emanation'>emanation</c> and then tends to return to it, and the return (<c id='epistrophe'>epistrophē</c>) is inscribed in the nature of whatever issues from the Good. The meaning of human life is therefore neither to be invented nor absent: it is given by this structure, the soul having consciously to retrace the path to its source. To live fully is to convert one's gaze, to turn away from the outside and climb back toward the origin from which one is never wholly cut off."
+        },
+        "references": [
+          {
+            "fr": "Ennéades, VI, 9",
+            "en": "Enneads, VI, 9"
+          },
+          {
+            "fr": "Ennéades, V, 1",
+            "en": "Enneads, V, 1"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CAUSALITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          1,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'<c id='emanation'>émanation</c> n'est pas une production mécanique mais une dérivation orientée vers le bien : chaque <c id='hypostasis'>hypostase</c> engendre l'inférieure parce que le parfait, par surabondance, ne peut que rayonner, et tout ce qui en procède est aimanté par le retour vers son principe. La causalité est donc foncièrement finale, suspendue au Bien comme à sa fin, à l'opposé d'un univers de chocs aveugles. La nature elle-même produit en contemplant, comme un sommeil de l'âme qui imite l'intelligible.",
+          "en": "<c id='emanation'>Emanation</c> is not a mechanical production but a derivation oriented toward the good: each <c id='hypostasis'>hypostasis</c> begets the lower one because the perfect, by superabundance, cannot but radiate, and all that proceeds from it is drawn by the return toward its principle. Causality is therefore fundamentally final, suspended from the Good as its end, the opposite of a universe of blind collisions. Nature itself produces by contemplating, like a sleep of the soul that imitates the intelligible."
+        },
+        "references": [
+          {
+            "fr": "Ennéades, III, 8 (De la nature, de la contemplation et de l'Un)",
+            "en": "Enneads, III, 8 (On Nature, Contemplation and the One)"
+          },
+          {
+            "fr": "Ennéades, V, 4",
+            "en": "Enneads, V, 4"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le moi n'est pas le composé corporel mais l'<c>âme</c>, substance immatérielle et immortelle, et plus profondément encore l'intellect en nous. Plotin pousse l'intériorité jusqu'à une thèse singulière : la partie la plus haute de l'âme ne descend jamais tout entière dans le corps, mais demeure en permanence dans l'intelligible. Notre vrai moi est ce sommet inaltéré dont nous avons d'ordinaire perdu conscience, absorbés que nous sommes par la vie sensible. Se connaître, c'est s'éveiller à cette identité supérieure, plus réelle que la personne empirique.",
+          "en": "The self is not the bodily composite but the <c>soul</c>, an immaterial and immortal substance, and more deeply still the intellect within us. Plotinus presses inwardness to a singular thesis: the highest part of the soul never wholly descends into the body but abides permanently in the intelligible. Our true self is that unaltered summit, of which we have usually lost awareness, absorbed as we are in sensible life. To know oneself is to awaken to this higher identity, more real than the empirical person."
+        },
+        "references": [
+          {
+            "fr": "Ennéades, IV, 8, 8 (l'âme non descendue)",
+            "en": "Enneads, IV, 8, 8 (the undescended soul)"
+          },
+          {
+            "fr": "Ennéades, I, 1 (Qu'est-ce que l'animal et qu'est-ce que l'homme)",
+            "en": "Enneads, I, 1 (What Is the Living Being, and What Is Man)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0,
+          1,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'<c>âme</c> étant une substance simple, immatérielle et apparentée à l'intelligible, elle ne se décompose pas et survit à la dissolution du corps : Plotin reprend et développe l'<ax id='DEATH' pole='IMMORTALISM'>immortalité</ax> du <w id='phaedo-plato'>Phédon</w> de <ph id='plato'>Platon</ph>. La mort n'est qu'un dépouillement, la libération de l'âme hors de son enveloppe corporelle, et donc rien de redoutable pour qui a déjà appris à vivre tourné vers le haut. Le sage s'y exerce dès cette vie, en détachant son moi véritable du corps.",
+          "en": "The <c>soul</c> being a simple substance, immaterial and akin to the intelligible, it does not decompose and survives the body's dissolution: Plotinus takes up and develops the <ax id='DEATH' pole='IMMORTALISM'>immortality</ax> of <ph id='plato'>Plato</ph>'s <w id='phaedo-plato'>Phaedo</w>. Death is only a stripping away, the liberation of the soul from its bodily envelope, and so nothing to be feared by one who has already learned to live turned upward. The sage rehearses it in this life, by detaching his true self from the body."
+        },
+        "references": [
+          {
+            "fr": "Ennéades, IV, 7 (De l'immortalité de l'âme)",
+            "en": "Enneads, IV, 7 (On the Immortality of the Soul)"
+          },
+          {
+            "fr": "Ennéades, I, 9 (Du suicide raisonnable)",
+            "en": "Enneads, I, 9 (On Leaving the Body)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Les <c id='theory-of-forms'>Idées</c> de <ph id='plato'>Platon</ph> reçoivent chez Plotin un lieu propre : elles sont les pensées de l'<c id='nous'>Intellect</c>, qui les contemple éternellement dans une unité où penser et être coïncident. L'essence de chaque chose est ainsi sa Forme intelligible, antérieure et supérieure à son existence sensible, qui n'en est qu'un reflet. L'essentialisme platonicien est donc maintenu et même renforcé, l'intelligible devenant le contenu vivant d'un esprit divin.",
+          "en": "<ph id='plato'>Plato</ph>'s <c id='theory-of-forms'>Forms</c> receive in Plotinus a proper home: they are the thoughts of the <c id='nous'>Intellect</c>, which contemplates them eternally in a unity where thinking and being coincide. The essence of each thing is thus its intelligible Form, prior and superior to its sensible existence, which is only a reflection of it. Platonic essentialism is therefore preserved and even reinforced, the intelligible becoming the living content of a divine mind."
+        },
+        "references": [
+          {
+            "fr": "Ennéades, V, 5 (Que les intelligibles ne sont pas hors de l'Intellect)",
+            "en": "Enneads, V, 5 (That the Intelligibles Are Not Outside the Intellect)"
+          },
+          {
+            "fr": "Ennéades, V, 9",
+            "en": "Enneads, V, 9"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "UNIVERSALS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Comme tout platonicien, Plotin tient les universaux pour des réalités en soi, plus réelles que les individus : les Formes intelligibles existent indépendamment des choses sensibles, dont elles sont les modèles. Mais il les loge dans l'<c id='nous'>Intellect</c> divin plutôt que dans un ciel séparé, ce qui en fait des universaux ante rem pensés par un esprit éternel.",
+          "en": "Like every Platonist, Plotinus holds universals to be realities in themselves, more real than individuals: the intelligible Forms exist independently of sensible things, of which they are the models. But he lodges them in the divine <c id='nous'>Intellect</c> rather than in a separate heaven, which makes them universals ante rem thought by an eternal mind."
+        },
+        "references": [
+          {
+            "fr": "Ennéades, V, 9 (De l'Intellect, des Idées et de l'être)",
+            "en": "Enneads, V, 9 (On Intellect, the Forms and Being)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le chemin vers le principe ne passe pas par le dehors mais par un retournement de l'âme sur elle-même : « rentre en toi-même et regarde ». Puisque l'<c id='the-one'>Un</c> est présent au plus intime de nous, plus proche de l'âme qu'elle-même, c'est en se recueillant, en sculptant sa propre statue intérieure, que l'on s'élève à lui. Cette primauté absolue de l'intériorité contemplative sur l'agir extérieur fait de la vie examinée le tout de la philosophie, et anticipe l'intériorité augustinienne.",
+          "en": "The path to the principle runs not through the outside but through a turning of the soul upon itself: \"withdraw into yourself and look\". Since the <c id='the-one'>One</c> is present at our innermost, closer to the soul than the soul is to itself, it is by gathering oneself, by sculpting one's own inner statue, that one rises to it. This absolute primacy of contemplative inwardness over outward action makes the examined life the whole of philosophy, and anticipates Augustinian interiority."
+        },
+        "quote": {
+          "text": {
+            "fr": "Rentre en toi-même et regarde : si tu ne te vois pas encore beau, fais comme le sculpteur d'une statue qui doit devenir belle.",
+            "en": "Withdraw into yourself and look: and if you do not find yourself beautiful yet, act as does the sculptor of a statue that is to be made beautiful."
+          },
+          "source": {
+            "fr": "Ennéades, I, 6, 9",
+            "en": "Enneads, I, 6, 9"
+          }
+        },
+        "references": [
+          {
+            "fr": "Ennéades, I, 6 (Du beau)",
+            "en": "Enneads, I, 6 (On Beauty)"
+          },
+          {
+            "fr": "Ennéades, VI, 9, 7",
+            "en": "Enneads, VI, 9, 7"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "EMBODIMENT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le moi véritable étant l'<c>âme</c>, le corps n'en est que l'instrument et l'enveloppe provisoire, le lieu bas où l'âme s'attarde et risque de s'oublier. Porphyre rapporte que Plotin « semblait avoir honte d'être dans un corps » et refusait qu'on fît son portrait. Le corps n'est pas le sujet que nous sommes mais ce dont nous avons à nous déprendre pour remonter, ce qui place Plotin à l'extrême du corps-instrument.",
+          "en": "The true self being the <c>soul</c>, the body is only its instrument and provisional envelope, the low place where the soul lingers and risks forgetting itself. Porphyry reports that Plotinus \"seemed ashamed to be in a body\" and refused to have his portrait made. The body is not the subject we are but that from which we must free ourselves in order to ascend, which places Plotinus at the extreme of the body-as-instrument."
+        },
+        "references": [
+          {
+            "fr": "Porphyre, Vie de Plotin, 1",
+            "en": "Porphyry, Life of Plotinus, 1"
+          },
+          {
+            "fr": "Ennéades, IV, 8 ; I, 1",
+            "en": "Enneads, IV, 8; I, 1"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "BODILY_PLEASURES",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Les plaisirs du corps attachent l'âme au plus bas degré de l'être et la détournent de sa remontée : la première vertu, dite « purificatrice », consiste précisément à s'en détacher pour rendre l'âme à elle-même. Sans condamner le corps comme un mal positif, Plotin prône une ascèse résolue, le sage tenant les besoins corporels pour de simples nécessités à satisfaire au minimum, jamais pour des fins.",
+          "en": "Bodily pleasures bind the soul to the lowest degree of being and turn it away from its ascent: the first virtue, the \"purificatory\" one, consists precisely in detaching from them so as to return the soul to itself. Without condemning the body as a positive evil, Plotinus urges a resolute asceticism, the sage holding bodily needs to be mere necessities to be met at a minimum, never ends."
+        },
+        "references": [
+          {
+            "fr": "Ennéades, I, 2 (Des vertus)",
+            "en": "Enneads, I, 2 (On Virtues)"
+          },
+          {
+            "fr": "Ennéades, I, 4",
+            "en": "Enneads, I, 4"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.2,
+          0.8
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le désir tourné vers les choses sensibles disperse l'âme et l'enchaîne au multiple ; la sagesse demande de l'en retirer pour le réorienter tout entier vers le haut. Plotin ne supprime pas l'élan désirant mais le convertit en <c>éros</c> de l'intelligible et de l'Un : l'âme ne s'apaise qu'en cessant de désirer ce qui est au-dessous d'elle. La pente vécue est donc celle d'un détachement à l'égard du sensible, plus austère encore que chez <ph id='plato'>Platon</ph>.",
+          "en": "Desire turned toward sensible things disperses the soul and chains it to the manifold; wisdom demands withdrawing it so as to redirect it wholly upward. Plotinus does not abolish the desiring drive but converts it into an <c>erōs</c> for the intelligible and the One: the soul finds rest only by ceasing to desire what is beneath it. The lived tendency is therefore detachment from the sensible, more austere still than in <ph id='plato'>Plato</ph>."
+        },
+        "references": [
+          {
+            "fr": "Ennéades, III, 5 (De l'amour)",
+            "en": "Enneads, III, 5 (On Love)"
+          },
+          {
+            "fr": "Ennéades, VI, 7, 22-35",
+            "en": "Enneads, VI, 7, 22-35"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Les passions appartiennent au composé de l'âme et du corps, non au moi supérieur, qui en reste indemne : l'âme vraiment elle-même n'est pas affectée, et c'est seulement sa part inférieure, tournée vers le corps, qui pâtit. Plotin tient donc les émotions pour des troubles à dominer par la conversion vers l'intelligible, dans la lignée intellectualiste, même si son intérêt se porte moins sur leur analyse psychologique que sur le moyen de leur échapper.",
+          "en": "The passions belong to the compound of soul and body, not to the higher self, which stays unaffected by them: the soul truly itself is not moved, and only its lower part, turned toward the body, suffers. Plotinus therefore holds emotions to be disturbances to be mastered by conversion toward the intelligible, in the intellectualist line, even if his interest bears less on their psychological analysis than on the means of escaping them."
+        },
+        "references": [
+          {
+            "fr": "Ennéades, I, 1, 7-9",
+            "en": "Enneads, I, 1, 7-9"
+          },
+          {
+            "fr": "Ennéades, III, 6 (De l'impassibilité des incorporels)",
+            "en": "Enneads, III, 6 (On the Impassibility of the Incorporeal)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.8
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La connaissance véritable ne vient pas des sens, qui n'atteignent que des images du sensible, mais de l'intellect tourné vers l'intelligible, qu'il contemple du dedans : l'âme retrouve en elle les Formes parce qu'elle procède de l'<c id='nous'>Intellect</c>. Au sommet, la connaissance suprême n'est même plus discursive mais une saisie immédiate, voire une union qui passe la pensée. Cette source intérieure et rationnelle de la connaissance, contre tout empirisme, place Plotin nettement du côté du rationalisme.",
+          "en": "True knowledge comes not from the senses, which reach only images of the sensible, but from the intellect turned toward the intelligible, which it contemplates from within: the soul recovers the Forms within itself because it proceeds from the <c id='nous'>Intellect</c>. At the summit, the highest knowledge is no longer even discursive but an immediate grasp, indeed a union that surpasses thought. This inward, rational source of knowledge, against all empiricism, places Plotinus firmly on the side of rationalism."
+        },
+        "references": [
+          {
+            "fr": "Ennéades, V, 3 (Des hypostases qui connaissent)",
+            "en": "Enneads, V, 3 (On the Knowing Hypostases)"
+          },
+          {
+            "fr": "Ennéades, V, 5",
+            "en": "Enneads, V, 5"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Plotin construit une métaphysique affirmative et architecturée, assurée d'atteindre le vrai par l'intellect : il y a une science de l'intelligible, et l'Intellect possède une connaissance infaillible de ses objets, qui sont ses propres pensées. Cette confiance le situe du côté du dogmatisme. Elle est pourtant tempérée, à l'égard de l'<c id='the-one'>Un</c>, par une réserve presque sceptique : du principe suprême, rien ne se dit en propre, et le discours n'en approche que par négations.",
+          "en": "Plotinus builds an affirmative, architectured metaphysics, confident of reaching the true through the intellect: there is a science of the intelligible, and the Intellect possesses an infallible knowledge of its objects, which are its own thoughts. This confidence sets him on the side of dogmatism. It is tempered, however, regarding the <c id='the-one'>One</c>, by an almost skeptical reserve: of the supreme principle nothing can properly be said, and discourse approaches it only through negations."
+        },
+        "references": [
+          {
+            "fr": "Ennéades, V, 5",
+            "en": "Enneads, V, 5"
+          },
+          {
+            "fr": "Ennéades, VI, 9, 3-4",
+            "en": "Enneads, VI, 9, 3-4"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "LOVE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.85,
+          0.15,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Plotin prolonge l'<c>éros</c> du <w id='symposium-plato'>Banquet</w> de <ph id='plato'>Platon</ph> : l'amour est cet élan né du manque qui porte l'âme du beau sensible vers le Beau intelligible, et de là vers l'<c id='the-one'>Un</c>, source de toute beauté. C'est un amour ascensionnel, désir de s'unir à ce dont on procède. Une note de don affleure pourtant, car l'Un, lui, ne manque de rien et déborde par pure surabondance, ce qui inverse le manque au sommet.",
+          "en": "Plotinus extends the <c>erōs</c> of <ph id='plato'>Plato</ph>'s <w id='symposium-plato'>Symposium</w>: love is that drive born of lack which carries the soul from sensible beauty toward intelligible Beauty, and thence toward the <c id='the-one'>One</c>, source of all beauty. It is an ascending love, a desire to be united with that from which one proceeds. A note of gift nonetheless surfaces, for the One itself lacks nothing and overflows by pure superabundance, which reverses the lack at the summit."
+        },
+        "references": [
+          {
+            "fr": "Ennéades, III, 5 (De l'amour)",
+            "en": "Enneads, III, 5 (On Love)"
+          },
+          {
+            "fr": "Ennéades, VI, 7, 31-34",
+            "en": "Enneads, VI, 7, 31-34"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ATTENTION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.85
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Toute la discipline plotinienne est un recueillement : il faut rassembler l'âme dispersée dans le multiple sensible, la concentrer et la rendre attentive à sa source intérieure pour s'élever à la contemplation. L'union avec l'<c id='the-one'>Un</c> exige le silence des sens et de la pensée discursive, un retrait total au-dedans. C'est l'opposé même de toute dispersion féconde.",
+          "en": "The whole Plotinian discipline is a recollection: one must gather the soul dispersed in the sensible manifold, concentrate it and make it attentive to its inner source so as to rise to contemplation. Union with the <c id='the-one'>One</c> requires the silence of the senses and of discursive thought, a total withdrawal within. It is the very opposite of any fruitful dispersion."
+        },
+        "references": [
+          {
+            "fr": "Ennéades, VI, 9, 7-11",
+            "en": "Enneads, VI, 9, 7-11"
+          },
+          {
+            "fr": "Ennéades, V, 1, 12",
+            "en": "Enneads, V, 1, 12"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          1,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Les normes ne sont ni conventionnelles ni construites mais fondées dans l'ordre objectif de l'être : le bien est l'<c id='the-one'>Un</c> lui-même, principe et fin de tout, et la valeur d'une chose tient à son degré de proximité avec lui. La hiérarchie des vertus reflète cette échelle réelle de l'être, d'où un universalisme réaliste enraciné dans la métaphysique.",
+          "en": "Norms are neither conventional nor constructed but grounded in the objective order of being: the good is the <c id='the-one'>One</c> itself, principle and end of all, and a thing's worth lies in its degree of nearness to it. The hierarchy of virtues mirrors this real scale of being, hence a realist universalism rooted in metaphysics."
+        },
+        "references": [
+          {
+            "fr": "Ennéades, I, 2 (Des vertus)",
+            "en": "Enneads, I, 2 (On Virtues)"
+          },
+          {
+            "fr": "Ennéades, VI, 9",
+            "en": "Enneads, VI, 9"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "AESTHETIC_LIFE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le beau n'a de prix que comme degré et tremplin vers le haut : la beauté sensible reflète la beauté intelligible, qui reflète à son tour le Bien, et l'amour du beau est le premier pas de la remontée vers l'<c id='the-one'>Un</c>. La vie esthétique n'est donc pas une fin en soi mais reste subordonnée à la fin spirituelle, le beau ne valant que comme ce qui révèle et conduit au principe.",
+          "en": "Beauty has worth only as a degree and a springboard upward: sensible beauty reflects intelligible beauty, which in turn reflects the Good, and love of the beautiful is the first step of the ascent toward the <c id='the-one'>One</c>. The aesthetic life is therefore not an end in itself but stays subordinate to the spiritual end, the beautiful counting only as that which reveals and leads to the principle."
+        },
+        "references": [
+          {
+            "fr": "Ennéades, I, 6 (Du beau)",
+            "en": "Enneads, I, 6 (On Beauty)"
+          },
+          {
+            "fr": "Ennéades, V, 8 (De la beauté intelligible)",
+            "en": "Enneads, V, 8 (On the Intelligible Beauty)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MACHINE_MIND",
+      "status": "NOT_APPLICABLE",
+      "note": {
+        "fr": "Question anachronique : les Ennéades ne contiennent rien qui permette de positionner Plotin sur la pensée des machines sans extrapolation hasardeuse.",
+        "en": "An anachronistic question: the Enneads contain nothing that would allow positioning Plotinus on machine thought without hazardous extrapolation."
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "TRANSCENDENCE",
+      "thesis": {
+        "fr": "Le principe de tout est un <c id='the-one'>Un</c> par delà l'être et par delà la pensée : on ne peut rien en dire, on ne peut que remonter jusqu'à lui.",
+        "en": "The principle of all is a <c id='the-one'>One</c> beyond being and beyond thought: nothing can be said of it, one can only ascend back to it."
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "thesis": {
+        "fr": "Tout procède de l'<c id='the-one'>Un</c> et tout aspire à y retourner : le sens d'une vie est cette remontée vers la source dont elle n'est jamais tout à fait séparée.",
+        "en": "All things flow from the <c id='the-one'>One</c> and all things aspire to return to it: the meaning of a life is this ascent back to the source from which it was never wholly cut off."
+      }
+    },
+    {
+      "axisId": "PROBLEM_OF_EVIL",
+      "thesis": {
+        "fr": "Le mal n'est pas une puissance : il n'a aucun être propre, il n'est que <c id='privation'>privation</c>, manque de bien au plus bas degré de l'émanation.",
+        "en": "Evil is not a power: it has no being of its own, it is only <c id='privation'>privation</c>, a lack of good at the lowest degree of emanation."
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "thesis": {
+        "fr": "La vertu n'est qu'un commencement : le souverain bien est l'union contemplative avec l'<c id='the-one'>Un</c>, « la fuite du seul vers le Seul ».",
+        "en": "Virtue is only a beginning: the sovereign good is contemplative union with the <c id='the-one'>One</c>, \"the flight of the alone to the Alone\"."
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "thesis": {
+        "fr": "Ton vrai moi n'est pas descendu dans le corps : sa part la plus haute demeure toujours dans l'intelligible, et te connaître, c'est t'y éveiller.",
+        "en": "Your true self has not descended into the body: its highest part abides always in the intelligible, and to know yourself is to awaken to it."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-29T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

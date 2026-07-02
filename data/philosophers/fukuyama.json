@@ -1,0 +1,23 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "fukuyama",
+  "stub": true,
+  "name": {
+    "fr": "Fukuyama",
+    "en": "Fukuyama"
+  },
+  "summary": {
+    "fr": "Politiste et philosophe politique américain, connu pour « La Fin de l'histoire » puis pour sa critique du <mv id='transhumanism'>transhumanisme</mv> : dans « Notre avenir posthumain », il y voit l'idée la plus dangereuse du monde, menaçant une nature humaine qu'il tient pour le socle de l'égale dignité et des droits.",
+    "en": "American political scientist and philosopher, known for 'The End of History' and then for his critique of <mv id='transhumanism'>transhumanism</mv>: in 'Our Posthuman Future' he calls it the world's most dangerous idea, threatening a human nature he holds to be the basis of equal dignity and rights."
+  },
+  "birth": 1952,
+  "nationality": {
+    "fr": "Américain",
+    "en": "American"
+  },
+  "movements": [],
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

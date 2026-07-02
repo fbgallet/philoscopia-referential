@@ -1,0 +1,12 @@
+{
+  "id": "pessimism-grounds-political-realism",
+  "ground": { "axisId": "HUMAN_VISION", "poleId": "ANTHROPOLOGICAL_PESSIMISM" },
+  "grounded": { "axisId": "POLITICAL_IDEAL", "poleId": "POLITICAL_REALISM" },
+  "kind": "T_V",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si la nature humaine est durablement imparfaite, espérer une cité parfaite expose à l'aveuglement et à la tyrannie des bonnes intentions. Le pessimisme anthropologique recommande donc un réalisme politique, attentif aux rapports de force réels plutôt qu'aux idéaux.",
+    "en": "If human nature is lastingly imperfect, hoping for a perfect city invites blindness and the tyranny of good intentions. Anthropological pessimism therefore recommends political realism, attentive to actual balances of power rather than to ideals."
+  },
+  "updatedAt": "2026-06-14T00:00:00.000Z"
+}

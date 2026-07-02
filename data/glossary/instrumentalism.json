@@ -1,0 +1,11 @@
+{
+  "id": "instrumentalism",
+  "term": { "fr": "Instrumentalisme", "en": "Instrumentalism" },
+  "definition": {
+    "fr": "L'instrumentalisme tient qu'une technique n'est en elle-même ni bonne ni mauvaise : elle n'est qu'un moyen neutre, dont la valeur dépend entièrement de l'usage qu'on en fait. La responsabilité revient alors à l'usager, non à l'objet, selon la formule courante « ce n'est pas l'outil, c'est l'usage ». Position médiane entre le <ax id='TECHNOLOGY' pole='TECHNO_OPTIMISM'>techno-optimisme</ax> et la <ax id='TECHNOLOGY' pole='TECHNO_CRITICISM'>techno-critique</ax>, elle est contestée par ceux qui montrent qu'un dispositif conçu pour produire une certaine conduite n'est jamais tout à fait neutre.",
+    "en": "Instrumentalism holds that a technology is in itself neither good nor bad: it is merely a neutral means whose value depends entirely on the use made of it. Responsibility then falls on the user, not the object, as the common phrase has it: « it's not the tool, it's the use ». A middle position between <ax id='TECHNOLOGY' pole='TECHNO_OPTIMISM'>techno-optimism</ax> and <ax id='TECHNOLOGY' pole='TECHNO_CRITICISM'>techno-criticism</ax>, it is challenged by those who show that a device designed to produce a certain behaviour is never quite neutral."
+  },
+  "relatedAxes": ["TECHNOLOGY"],
+  "relatedTerms": ["attention-economy"],
+  "updatedAt": "2026-06-22T00:00:00.000Z"
+}

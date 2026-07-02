@@ -1,0 +1,77 @@
+{
+  "id": "BELIEF_ETHICS",
+  "relation": "TRUTH",
+  "territory": "KNOWLEDGE",
+  "label": {
+    "fr": "Éthique de la croyance",
+    "en": "Ethics of belief"
+  },
+  "question": {
+    "fr": "Peut-on légitimement croire sans preuves suffisantes ?",
+    "en": "Can we legitimately believe without sufficient evidence?"
+  },
+  "stakes": {
+    "fr": "Exiger une preuve pour tout met à l'abri de l'erreur, mais condamne au doute là où il faut pourtant croire pour aimer, s'engager ou espérer. Se positionner, c'est dire si croire sans garantie est une faute contre la raison ou une nécessité de la vie.",
+    "en": "Demanding proof for everything guards against error, but leaves us in doubt just where we must nonetheless believe in order to love, commit, or hope. To take a position is to say whether believing without guarantee is an offence against reason or a necessity of life."
+  },
+  "layer": "VALUE",
+  "type": "BIPOLAR",
+  "poles": [
+    {
+      "id": "EVIDENTIALISM",
+      "label": {
+        "fr": "Évidentialisme",
+        "en": "Evidentialism"
+      },
+      "description": {
+        "fr": "Il est toujours fautif, pour quiconque, de croire quoi que ce soit sur la base de preuves insuffisantes. Croire à la légère n'est pas seulement une erreur intellectuelle, c'est un manquement moral qui affaiblit la confiance commune.",
+        "en": "It is wrong, always and for anyone, to believe anything on insufficient evidence. Believing carelessly is not merely an intellectual mistake but a moral failing that erodes our shared trust."
+      },
+      "figures": [
+        {
+          "slug": "clifford",
+          "name": {
+            "fr": "Clifford",
+            "en": "Clifford"
+          }
+        }
+      ]
+    },
+    {
+      "id": "DOXASTIC_VOLUNTARISM",
+      "label": {
+        "fr": "Non-évidentialisme",
+        "en": "Non-evidentialism"
+      },
+      "description": {
+        "fr": "Quand les preuves ne tranchent pas et que l'enjeu est vital, nous avons le droit, parfois même le devoir, de croire au-delà de ce que l'évidence garantit. Certaines vérités ne se révèlent qu'à celui qui ose d'abord parier sur elles.",
+        "en": "When the evidence is inconclusive and the stakes are vital, we have the right, sometimes even the duty, to believe beyond what the evidence guarantees. Some truths reveal themselves only to those who first dare to wager on them."
+      },
+      "figures": [
+        {
+          "slug": "william-james",
+          "name": {
+            "fr": "W. James",
+            "en": "W. James"
+          }
+        },
+        {
+          "slug": "pascal",
+          "name": {
+            "fr": "Pascal",
+            "en": "Pascal"
+          }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 2,
+  "clusters": [],
+  "relatedAxes": [
+    "CERTAINTY",
+    "FAITH_REASON",
+    "GOD_EXISTENCE",
+    "SOVEREIGN_GOOD"
+  ]
+}

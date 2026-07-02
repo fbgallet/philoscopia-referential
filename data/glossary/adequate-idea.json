@@ -1,0 +1,13 @@
+{
+  "id": "adequate-idea",
+  "term": { "fr": "Idée adéquate", "en": "Adequate idea" },
+  "definition": {
+    "fr": "Chez <ph id='spinoza'>Spinoza</ph>, une idée adéquate est une idée vraie saisie par ses causes, qui porte en elle les marques intrinsèques du vrai, par opposition à l'idée inadéquate, mutilée et confuse, que nous tirons de l'expérience commune. Connaître adéquatement, c'est comprendre les choses comme nécessaires : c'est la voie de la raison et de la liberté, car l'esprit qui forme des idées adéquates devient cause de ses propres affects au lieu de les subir.",
+    "en": "For <ph id='spinoza'>Spinoza</ph>, an adequate idea is a true idea grasped through its causes, bearing the intrinsic marks of truth, as opposed to the mutilated and confused inadequate ideas we draw from ordinary experience. To know adequately is to understand things as necessary: this is the path of reason and of freedom, since a mind forming adequate ideas becomes the cause of its own affects instead of undergoing them."
+  },
+  "relatedAxes": ["KNOWLEDGE_SOURCE", "FREEDOM", "CERTAINTY"],
+  "relatedTerms": ["conatus", "determinism", "immanence"],
+  "figure": { "slug": "spinoza", "name": { "fr": "Spinoza", "en": "Spinoza" } },
+  "positions": [{ "axisId": "KNOWLEDGE_SOURCE", "poleId": "RATIONALISM" }],
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

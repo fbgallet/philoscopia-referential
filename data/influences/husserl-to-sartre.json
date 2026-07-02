@@ -1,0 +1,16 @@
+{
+  "id": "husserl-to-sartre",
+  "from": { "kind": "PHILOSOPHER", "slug": "husserl" },
+  "to": { "kind": "PHILOSOPHER", "slug": "sartre" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='sartre'>Sartre</ph> reprend de <ph id='husserl'>Husserl</ph> l'<c>intentionnalité</c>, toute conscience est conscience de quelque chose, mais la radicalise : la conscience, vidée de tout contenu substantiel, n'est que néantisation et liberté.",
+    "en": "<ph id='sartre'>Sartre</ph> takes from <ph id='husserl'>Husserl</ph> <c>intentionality</c>, all consciousness is consciousness of something, but radicalises it: consciousness, emptied of all substantial content, is nothing but nihilation and freedom."
+  },
+  "sources": [
+    { "fr": "Sartre, La Transcendance de l'Ego (1936)", "en": "Sartre, The Transcendence of the Ego (1936)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

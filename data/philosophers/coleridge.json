@@ -1,0 +1,16 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "coleridge",
+  "name": { "fr": "Coleridge", "en": "Coleridge" },
+  "summary": {
+    "fr": "Poète et critique anglais, passeur de l'idéalisme allemand outre-Manche : il distingue l'imagination créatrice de la simple fantaisie et fait du poète un écho fini de la création infinie.",
+    "en": "English poet and critic, who carried German idealism across the Channel: he distinguishes the creative imagination from mere fancy and makes the poet a finite echo of the infinite creation."
+  },
+  "nationality": { "fr": "Anglais", "en": "English" },
+  "birth": 1772,
+  "death": 1834,
+  "movements": ["romanticism"],
+  "updatedAt": "2026-06-26T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

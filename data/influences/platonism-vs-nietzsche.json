@@ -1,0 +1,16 @@
+{
+  "id": "platonism-vs-nietzsche",
+  "from": { "kind": "MOVEMENT", "slug": "platonism" },
+  "to": { "kind": "PHILOSOPHER", "slug": "nietzsche" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='nietzsche'>Nietzsche</ph> définit sa tâche comme un <q>renversement du platonisme</q> : contre le <mv id='platonism'>platonisme</mv> et son <q>monde vrai</q> qui dévalorise le sensible, il veut rendre à la terre et au corps leur innocence.",
+    "en": "<ph id='nietzsche'>Nietzsche</ph> defines his task as an <q>inversion of Platonism</q>: against <mv id='platonism'>Platonism</mv> and its <q>true world</q> that devalues the sensible, he means to restore innocence to the earth and the body."
+  },
+  "sources": [
+    { "fr": "Nietzsche, Le Crépuscule des idoles ; fragments posthumes", "en": "Nietzsche, Twilight of the Idols; posthumous fragments" }
+  ],
+  "updatedAt": "2026-07-02T00:00:00.000Z"
+}

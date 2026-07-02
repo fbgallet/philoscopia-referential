@@ -1,0 +1,12 @@
+{
+  "id": "materialism-grounds-pathocentrism",
+  "ground": { "axisId": "REALITY_NATURE", "poleId": "MATERIALISM" },
+  "grounded": { "axisId": "MORAL_CIRCLE", "poleId": "PATHOCENTRISM" },
+  "kind": "T_V",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si l'homme n'est pas une âme à part mais un animal parmi les animaux, aucune frontière métaphysique ne sépare radicalement ses intérêts de ceux des autres êtres sensibles. Le matérialisme soutient le pathocentrisme : ce qui compte moralement n'est pas la raison, mais la capacité de souffrir, partagée avec les bêtes. <ph id='bentham'>Bentham</ph> en tire que la vraie question est « peuvent-ils souffrir ? », argument que <ph id='singer'>Singer</ph> reprend contre le spécisme.",
+    "en": "If the human being is not a soul apart but an animal among animals, no metaphysical boundary radically separates its interests from those of other sentient beings. Materialism supports pathocentrism: what matters morally is not reason but the capacity to suffer, shared with the beasts. <ph id='bentham'>Bentham</ph> concludes that the real question is \"can they suffer?\", an argument <ph id='singer'>Singer</ph> revives against speciesism."
+  },
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

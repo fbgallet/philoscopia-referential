@@ -1,0 +1,12 @@
+{
+  "id": "logos",
+  "term": { "fr": "Logos", "en": "Logos" },
+  "definition": {
+    "fr": "Le logos est le principe rationnel qui ordonne le cosmos et le parcourt comme une raison immanente. <per>Héraclite</per> en fait la loi commune qui régit tout devenir, et les stoïciens l'identifient au divin lui-même, raison séminale dont chaque être porte une parcelle. Vivre selon la raison, c'est alors accorder son propre <c id='hegemonikon'>hégémonikon</c> à ce logos universel.",
+    "en": "The logos is the rational principle that orders the cosmos and runs through it as an immanent reason. <per>Heraclitus</per> makes it the common law governing all becoming, and the Stoics identify it with the divine itself, a seminal reason of which every being holds a share. To live according to reason is then to align one's own <c id='hegemonikon'>hēgemonikon</c> with this universal logos."
+  },
+  "relatedAxes": ["LIFE_MEANING", "GOD_EXISTENCE", "CAUSALITY"],
+  "relatedTerms": ["providence", "hegemonikon"],
+  "positions": [{ "axisId": "LIFE_MEANING", "poleId": "TELEOLOGY" }],
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

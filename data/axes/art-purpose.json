@@ -1,0 +1,123 @@
+{
+  "id": "ART_PURPOSE",
+  "relation": "WORLD",
+  "territory": "AESTHETICS",
+  "label": {
+    "fr": "Finalité de l'art",
+    "en": "Purpose of art"
+  },
+  "question": {
+    "fr": "À quoi sert l'art : à procurer du plaisir, à révéler le vrai ou à transformer le monde ?",
+    "en": "What is art for: to give pleasure, to reveal truth, or to transform the world?"
+  },
+  "stakes": {
+    "fr": "Selon la réponse, une œuvre qui plaît sans rien dire, ou qui dérange sans plaire, n'a pas la même valeur, et l'on ne sacre pas les mêmes chefs-d'œuvre. C'est le critère même de ce qui fait une grande œuvre qui se décide ici.",
+    "en": "Depending on the answer, a work that pleases without saying anything, or unsettles without pleasing, holds a different value, and we crown different masterpieces. What is decided here is the very measure of what makes a work great."
+  },
+  "layer": "VALUE",
+  "type": "TRIANGULAR",
+  "poles": [
+    {
+      "id": "ART_PLEASURE",
+      "label": {
+        "fr": "Plaisir",
+        "en": "Pleasure"
+      },
+      "description": {
+        "fr": "L'art n'a pas à être utile, moral ou militant : sa seule fin est la beauté et le plaisir de la forme. Le soumettre à une cause extérieure, c'est le trahir et le rabaisser au rang d'instrument.",
+        "en": "Art does not have to be useful, moral, or militant: its sole end is beauty and the pleasure of form. To subordinate it to an external cause is to betray it and reduce it to a mere instrument."
+      },
+      "figures": [
+        {
+          "slug": "gautier",
+          "name": {
+            "fr": "Gautier",
+            "en": "Gautier"
+          }
+        },
+        {
+          "slug": "mallarme",
+          "name": {
+            "fr": "Mallarmé",
+            "en": "Mallarmé"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ART_TRUTH",
+      "label": {
+        "fr": "Vérité",
+        "en": "Truth"
+      },
+      "description": {
+        "fr": "L'art est une voie de connaissance : il dévoile une vérité que le concept ne peut atteindre, l'essence du monde, l'éclosion de l'être ou le temps retrouvé. Sa grandeur tient à ce qu'il nous fait voir, non au plaisir ni à la cause qu'il sert.",
+        "en": "Art is a path to knowledge: it discloses a truth that the concept cannot reach, the essence of the world, the opening of being, or time regained. Its greatness lies in what it lets us see, not in the pleasure it gives or the cause it serves."
+      },
+      "figures": [
+        {
+          "slug": "schopenhauer",
+          "name": {
+            "fr": "Schopenhauer",
+            "en": "Schopenhauer"
+          }
+        },
+        {
+          "slug": "heidegger",
+          "name": {
+            "fr": "Heidegger",
+            "en": "Heidegger"
+          }
+        },
+        {
+          "slug": "proust",
+          "name": {
+            "fr": "Proust",
+            "en": "Proust"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ART_TRANSFORMATION",
+      "label": {
+        "fr": "Transformation",
+        "en": "Transformation"
+      },
+      "description": {
+        "fr": "L'artiste vit dans son époque et ne peut s'en laver les mains : son œuvre éveille les consciences, dénonce les injustices et participe aux combats de son temps. Prétendre rester neutre, c'est déjà prendre parti.",
+        "en": "The artist lives in his own time and cannot wash his hands of it: his work awakens consciences, denounces injustice, and takes part in the struggles of the age. Claiming to remain neutral is already taking sides."
+      },
+      "figures": [
+        {
+          "slug": "sartre",
+          "name": {
+            "fr": "Sartre",
+            "en": "Sartre"
+          }
+        },
+        {
+          "slug": "brecht",
+          "name": {
+            "fr": "Brecht",
+            "en": "Brecht"
+          }
+        },
+        {
+          "slug": "hugo",
+          "name": {
+            "fr": "Hugo",
+            "en": "Hugo"
+          }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 1,
+  "clusters": [],
+  "relatedAxes": [
+    "AESTHETIC_LIFE",
+    "ART_NATURE"
+  ]
+}

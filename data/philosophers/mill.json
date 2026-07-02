@@ -1,0 +1,1002 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "mill",
+  "name": {
+    "fr": "Mill",
+    "en": "Mill"
+  },
+  "fullName": {
+    "fr": "John Stuart Mill",
+    "en": "John Stuart Mill"
+  },
+  "tagline": {
+    "fr": "<c id='greatest-happiness-principle'>Le plus grand bonheur du plus grand nombre</c>, et sur soi-même, l'individu reste souverain.",
+    "en": "<c id='greatest-happiness-principle'>The greatest happiness of the greatest number</c>, and over himself the individual remains sovereign."
+  },
+  "summary": {
+    "fr": "Figure majeure du libéralisme britannique et héritier de l'<mv id='utilitarianism'>utilitarisme</mv> de <ph id='bentham'>Bentham</ph>, philosophe, économiste, logicien et réformateur, il fut soumis dès l'enfance par son père James Mill à une éducation intensive destinée à en faire le porte-parole du <c>radicalisme philosophique</c>. La crise de dépression qu'il traverse à vingt ans le conduit à élargir cet héritage, en y faisant droit à la culture des sentiments, à la liberté individuelle et à une conception plus exigeante du bonheur. Empiriste rigoureux dans le <w>Système de logique</w>, il expose sa morale dans <w>L'Utilitarisme</w>, sa philosophie politique dans <w>De la liberté</w> et son féminisme dans <w>L'Asservissement des femmes</w>, tout en siégeant au Parlement. Penseur charnière du XIXe siècle, il demeure une référence centrale des débats sur la liberté, la démocratie et le fondement de la morale.",
+    "en": "A major figure of British liberalism and heir to <ph id='bentham'>Bentham</ph>'s <mv id='utilitarianism'>utilitarianism</mv>, philosopher, economist, logician and reformer, he was subjected from childhood by his father James Mill to an intensive education meant to make him the spokesman of <c>philosophical radicalism</c>. The depressive crisis he undergoes at twenty leads him to broaden that inheritance, making room within it for the cultivation of the feelings, for individual liberty and for a more demanding conception of happiness. A rigorous empiricist in the <w>System of Logic</w>, he sets out his ethics in <w>Utilitarianism</w>, his political philosophy in <w>On Liberty</w> and his feminism in <w>The Subjection of Women</w>, while serving in Parliament. A pivotal nineteenth-century thinker, he remains a central reference in debates on liberty, democracy and the foundation of morality."
+  },
+  "birth": 1806,
+  "death": 1873,
+  "nationality": {
+    "fr": "Anglais",
+    "en": "English"
+  },
+  "movements": [
+    "utilitarianism"
+  ],
+  "entries": [
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Fidèle à l'utilitarisme, Mill fait de la réduction de la souffrance, avec l'accroissement du bonheur, la fin même de la morale : aucune douleur n'est bonne en soi. Il reconnaît que l'effort et l'épreuve peuvent développer le caractère, mais ne renonce jamais à l'objectif d'un monde où la souffrance évitable serait abolie par le progrès moral et social.",
+          "en": "Faithful to utilitarianism, Mill makes the reduction of suffering, together with the increase of happiness, the very end of morality: no pain is good in itself. He acknowledges that effort and ordeal can develop character, but never relinquishes the goal of a world where avoidable suffering would be abolished through moral and social progress."
+        },
+        "references": [
+          {
+            "fr": "L'Utilitarisme, II",
+            "en": "Utilitarianism, II"
+          },
+          {
+            "fr": "De la liberté",
+            "en": "On Liberty"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0.85,
+          0.05,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Mill ne fait dépendre le sens d'aucune finalité cosmique, qu'il tient pour indécidable : il le situe dans le développement de l'individualité et dans le dévouement à des fins qui dépassent l'intérêt propre, jusqu'au service de l'humanité. Une vie a du prix par les facultés qu'elle déploie et le bien qu'elle fait, sens immanent et cultivé, non reçu d'en haut.",
+          "en": "Mill makes meaning depend on no cosmic purpose, which he holds undecidable: he locates it in the development of individuality and in devotion to ends beyond one's own interest, up to the service of humanity. A life has worth through the faculties it unfolds and the good it does, an immanent, cultivated meaning, not received from on high."
+        },
+        "references": [
+          {
+            "fr": "De la liberté, III",
+            "en": "On Liberty, III"
+          },
+          {
+            "fr": "L'Utilitarisme, II-III",
+            "en": "Utilitarianism, II-III"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.7,
+          0,
+          0.2,
+          0.1
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Mill juge l'immortalité de l'âme ni prouvable ni réfutable par la raison : l'expérience plaide plutôt pour la fin de la conscience avec le corps, mais la question reste ouverte. Il concède que l'espérance d'une vie future, sans fondement assuré, peut avoir une valeur pour la conduite, sans qu'on puisse s'y appuyer comme sur un savoir.",
+          "en": "Mill judges the immortality of the soul neither provable nor refutable by reason: experience rather pleads for the end of consciousness with the body, but the question stays open. He grants that the hope of a future life, though without secure foundation, may have value for conduct, without one's being able to rely on it as on knowledge."
+        },
+        "references": [
+          {
+            "fr": "Trois essais sur la religion (Théisme)",
+            "en": "Three Essays on Religion (Theism)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.35,
+          0.6,
+          0.05
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Mill corrige l'hédonisme de Bentham par une hiérarchie qualitative : tous les désirs et plaisirs ne se valent pas, ceux qui engagent les facultés supérieures sont plus dignes que ceux du corps. Le tri ne porte plus seulement sur la quantité mais sur la qualité des plaisirs, sur un fond d'affirmation de la satisfaction comme fin de la vie.",
+          "en": "Mill corrects Bentham's hedonism with a qualitative hierarchy: not all desires and pleasures are equal, those that engage the higher faculties are worthier than those of the body. The sorting no longer bears on quantity alone but on the quality of pleasures, against a background that affirms satisfaction as the end of life."
+        },
+        "references": [
+          {
+            "fr": "L'Utilitarisme, ch. II",
+            "en": "Utilitarianism, ch. II"
+          }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "Il vaut mieux être un Socrate insatisfait qu'un imbécile satisfait.",
+            "en": "It is better to be Socrates dissatisfied than a fool satisfied."
+          },
+          "source": {
+            "fr": "L'Utilitarisme, ch. II",
+            "en": "Utilitarianism, ch. II"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.1
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Contre l'idée d'une nature fixe à couler dans les moules de la coutume, Mill tient que <q>la nature humaine n'est pas une machine, mais un arbre</q> qui doit croître et se déployer de l'intérieur. Chacun a à choisir son propre plan de vie : l'individualité et le développement de soi l'emportent sur tout modèle préétabli, même si un fond organique demeure à cultiver.",
+          "en": "Against the idea of a fixed nature to be poured into the molds of custom, Mill holds that <q>human nature is not a machine, but a tree</q> that must grow and unfold from within. Each has to choose his own plan of life: individuality and self-development prevail over any preset model, even if an organic ground remains to be cultivated."
+        },
+        "references": [
+          {
+            "fr": "De la liberté, ch. III",
+            "en": "On Liberty, ch. III"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Mill cherche à fonder la morale sur un fait, non sur une intuition indémontrable : la seule preuve qu'une chose est désirable, soutient-il, est qu'on la désire effectivement, et chacun désire en dernier ressort le bonheur. De là le <c id='greatest-happiness-principle'>principe du plus grand bonheur</c> comme unique critère du juste, et le <c>conséquentialisme</c> qu'il oppose à l'intuitionnisme moral comme au <c id='categorical-imperative'>devoir kantien</c> : il reproche à Kant de ne pouvoir, en pratique, écarter une maxime universalisable qu'en invoquant la désirabilité de ses conséquences, réintroduisant ainsi l'utilité qu'il prétendait congédier.",
+          "en": "Mill seeks to ground morality on a fact rather than an undemonstrable intuition: the only proof that a thing is desirable, he argues, is that people actually desire it, and what everyone ultimately desires is happiness. Thence the <c id='greatest-happiness-principle'>greatest happiness principle</c> as the sole criterion of the right, and the <c>consequentialism</c> he opposes to moral intuitionism and to <c id='categorical-imperative'>Kantian duty</c> alike: he charges Kant with being unable, in practice, to rule out a universalisable maxim except by invoking the desirability of its consequences, thus smuggling back the very utility he claimed to dismiss."
+        },
+        "references": [
+          {
+            "fr": "L'Utilitarisme (1863), ch. 2 (la doctrine du plus grand bonheur)",
+            "en": "Utilitarianism (1863), ch. 2 (the greatest happiness doctrine)"
+          },
+          {
+            "fr": "L'Utilitarisme, ch. 1 (critique de l'a priori kantien)",
+            "en": "Utilitarianism, ch. 1 (critique of the Kantian a priori)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Les actions sont bonnes dans la mesure où elles tendent à promouvoir le bonheur, et mauvaises dans la mesure où elles tendent à produire le contraire du bonheur.",
+            "en": "Actions are right in proportion as they tend to promote happiness, wrong as they tend to produce the reverse of happiness."
+          },
+          "source": {
+            "fr": "L'Utilitarisme, ch. 2",
+            "en": "Utilitarianism, ch. 2"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.7,
+          0.3,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Contre l'objection ancienne qui ravale l'<c id='hedonism'>hédonisme</c> au rang d'une morale de pourceaux, Mill répond qu'elle se trompe non sur le plaisir mais sur l'homme : nos facultés supérieures réclament un bonheur d'une autre nature. D'où sa rupture avec le calcul purement quantitatif de <ph id='bentham'>Bentham</ph> : les plaisirs diffèrent aussi en <stk>qualité</stk>, et ceux de l'intelligence, des sentiments et de l'imagination l'emportent intrinsèquement, parce que celui qui connaît les deux ne consentirait pour rien à descendre. Au cœur de l'argument, un <c>sentiment de dignité</c> que blesserait une existence bornée aux satisfactions du corps, ce qui infléchit l'hédonisme millien vers un épanouissement proche de l'<c id='eudaimonism'>eudémonisme</c>.",
+          "en": "Against the old objection that brands <c id='hedonism'>hedonism</c> a doctrine fit for swine, Mill replies that it errs not about pleasure but about man: our higher faculties demand a happiness of another kind. Hence his break with <ph id='bentham'>Bentham</ph>'s purely quantitative calculus: pleasures differ in <stk>quality</stk> as well, and those of the intellect, the feelings and the imagination intrinsically prevail, because whoever knows both would not consent for anything to sink to the lower. At the heart of the argument lies a <c>sense of dignity</c> that an existence confined to bodily satisfactions would wound, which tilts Mill's hedonism toward a flourishing close to <c id='eudaimonism'>eudaimonism</c>."
+        },
+        "references": [
+          {
+            "fr": "L'Utilitarisme, ch. 2 (qualité contre quantité des plaisirs)",
+            "en": "Utilitarianism, ch. 2 (quality versus quantity of pleasures)"
+          },
+          {
+            "fr": "L'Utilitarisme, ch. 4 (le bonheur, seule chose désirable comme fin)",
+            "en": "Utilitarianism, ch. 4 (happiness, the only thing desirable as an end)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Il vaut mieux être un homme insatisfait qu'un porc satisfait ; mieux vaut être Socrate insatisfait qu'un imbécile satisfait.",
+            "en": "It is better to be a human being dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied."
+          },
+          "source": {
+            "fr": "L'Utilitarisme, ch. 2",
+            "en": "Utilitarianism, ch. 2"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TASTE_HIERARCHY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Distinguer des plaisirs supérieurs soulève une difficulté : à quoi mesurer une <stk>qualité</stk> qui, par définition, ne se réduit pas à la quantité ? La réponse originale de Mill est un critère empirique : le seul juge est l'expérience comparée, et la préférence constante de ceux qui ont également connu les deux ordres de plaisir, les <c>juges compétents</c>. Or leur verdict penche vers les plaisirs de l'esprit, fût-ce au prix d'un contentement moindre. L'<ax id='TASTE_HIERARCHY'>élitisme du goût</ax> qui en résulte n'est donc pas affaire de naissance ni de classe, mais de culture et d'expérience accessibles en droit à tous.",
+          "en": "Distinguishing higher pleasures raises a difficulty: by what measure does one rank a <stk>quality</stk> that, by definition, does not reduce to quantity? Mill's original answer is an empirical criterion: the only judge is comparative experience, the settled preference of those who have known both orders of pleasure alike, the <c>competent judges</c>. Their verdict leans toward the pleasures of the mind, even at the cost of a lesser contentment. The resulting <ax id='TASTE_HIERARCHY'>taste elitism</ax> is therefore no matter of birth or class but of cultivation and experience, in principle open to all."
+        },
+        "references": [
+          {
+            "fr": "L'Utilitarisme, ch. 2 (le verdict des juges compétents)",
+            "en": "Utilitarianism, ch. 2 (the verdict of the competent judges)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "AUTHORITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Toute conduite se partage en ce qui ne regarde que l'agent et ce qui touche autrui : de cette distinction Mill tire que la contrainte n'est jamais légitime dans la première sphère, où nul n'est meilleur juge de son bien que l'intéressé lui-même. Le <c>principe de non-nuisance</c> (harm principle) en découle : empêcher le tort fait à autrui est le seul titre du pouvoir social, jamais le bien supposé de la personne. Mill vise ainsi le <stk>paternalisme</stk> de l'État comme la <c>tyrannie de la majorité</c>, ce despotisme diffus de l'opinion qui, dans une démocratie, menace l'individu plus sûrement que le tyran d'autrefois.",
+          "en": "All conduct divides into what concerns the agent alone and what affects others: from this distinction Mill draws that coercion is never legitimate in the first sphere, where no one is a better judge of his own good than the person concerned. The <c>harm principle</c> follows: preventing harm to others is the only warrant for social power, never a person's supposed good. Mill thereby targets state <stk>paternalism</stk> and the <c>tyranny of the majority</c> alike, that diffuse despotism of opinion which, in a democracy, threatens the individual more surely than the tyrant of old."
+        },
+        "references": [
+          {
+            "fr": "De la liberté (1859), ch. 1 (énoncé du principe de non-nuisance)",
+            "en": "On Liberty (1859), ch. 1 (statement of the harm principle)"
+          },
+          {
+            "fr": "De la liberté, ch. 1 (la tyrannie de la majorité)",
+            "en": "On Liberty, ch. 1 (the tyranny of the majority)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Le seul objet qui autorise les hommes, individuellement ou collectivement, à troubler la liberté d'action de quiconque, est la protection de soi-même.",
+            "en": "The only purpose for which power can be rightfully exercised over any member of a civilised community, against his will, is to prevent harm to others."
+          },
+          "source": {
+            "fr": "De la liberté, ch. 1",
+            "en": "On Liberty, ch. 1"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "INDIVIDUAL_SOCIETY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.75
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Parce qu'aucune forme de vie ne vaut a priori pour tous et que nul ne sait d'avance ce qui lui convient, Mill érige la liberté en condition d'<c>expériences de vie</c> par lesquelles chacun éprouve et façonne son propre caractère. L'<c>individualité</c> n'est donc pas un simple agrément privé mais le ressort de tout progrès : c'est des esprits originaux que naissent les vérités et les usages nouveaux dont la société entière hérite. D'où sa cible, le <c>despotisme de la coutume</c> et le conformisme qui nivellent les caractères et tarissent cette source, menace d'autant plus pressante que se renforce le pouvoir de l'opinion de masse.",
+          "en": "Because no form of life holds a priori for everyone and no one knows in advance what suits him, Mill makes liberty the condition of those <c>experiments of living</c> through which each tests and shapes his own character. <c>Individuality</c> is therefore no mere private amenity but the mainspring of all progress: it is from original minds that the new truths and practices the whole of society inherits arise. Hence his target, the <c>despotism of custom</c> and the conformism that level characters and dry up that source, a threat all the more pressing as the power of mass opinion grows."
+        },
+        "references": [
+          {
+            "fr": "De la liberté, ch. 3 (de l'individualité comme élément du bien-être)",
+            "en": "On Liberty, ch. 3 (of individuality as one of the elements of well-being)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "La nature humaine n'est pas une machine que l'on construit sur un modèle, mais un arbre qui doit croître et se développer de tous côtés.",
+            "en": "Human nature is not a machine to be built after a model, but a tree, which requires to grow and develop itself on all sides."
+          },
+          "source": {
+            "fr": "De la liberté, ch. 3",
+            "en": "On Liberty, ch. 3"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Toute connaissance dérive de l'expérience : Mill nie l'existence de vérités <c id='innate-ideas'>innées</c> ou connues a priori, y compris en mathématiques, qu'il tient pour des généralisations inductives très bien confirmées. Le <w>Système de logique</w> érige l'<c>induction</c> en méthode fondamentale de toute science : c'est un <ax id='KNOWLEDGE_SOURCE'>empirisme</ax> radical, dans la lignée de <ph id='locke'>Locke</ph> et <ph id='hume'>Hume</ph>.",
+          "en": "All knowledge derives from experience: Mill denies any <c id='innate-ideas'>innate</c> or a priori truths, even in mathematics, which he holds to be very well-confirmed inductive generalisations. The <w>System of Logic</w> makes <c>induction</c> the fundamental method of every science: a radical <ax id='KNOWLEDGE_SOURCE'>empiricism</ax>, in the line of <ph id='locke'>Locke</ph> and <ph id='hume'>Hume</ph>."
+        },
+        "references": [
+          {
+            "fr": "Système de logique (1843), livre II (le caractère inductif des vérités mathématiques)",
+            "en": "A System of Logic (1843), book II (the inductive character of mathematical truths)"
+          },
+          {
+            "fr": "Système de logique, livre III (les méthodes de l'induction)",
+            "en": "A System of Logic, book III (the methods of induction)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CONSERVATISM_PROGRESSISM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Réformateur convaincu, Mill voit dans le <c>progrès</c> de l'humanité l'horizon de la morale et de la politique. Il milite pour l'extension du suffrage, l'éducation populaire, les réformes sociales et, dans <w>L'Asservissement des femmes</w>, pour l'émancipation des femmes, qu'il porte aussi au Parlement. La liberté de pensée vaut précisément parce qu'elle est le moteur de l'amélioration humaine.",
+          "en": "A committed reformer, Mill sees in the <c>progress</c> of humanity the horizon of morals and politics. He campaigns for the extension of the suffrage, popular education, social reform and, in <w>The Subjection of Women</w>, for the emancipation of women, which he also carries into Parliament. Freedom of thought matters precisely because it is the engine of human improvement."
+        },
+        "references": [
+          {
+            "fr": "L'Asservissement des femmes (1869), ch. 1 (l'égalité des sexes comme exigence du progrès)",
+            "en": "The Subjection of Women (1869), ch. 1 (sexual equality as a demand of progress)"
+          },
+          {
+            "fr": "De la liberté, ch. 2 (la liberté d'opinion, condition du progrès)",
+            "en": "On Liberty, ch. 2 (freedom of opinion as a condition of progress)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "WHO_DECIDES",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.45
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Mill juge un régime à deux titres : ce qu'il fait des affaires publiques et ce qu'il fait des citoyens. La démocratie représentative l'emporte parce qu'elle développe le mieux ceux qui y prennent part, mais cette même participation expose à l'incompétence et à la <c>tyrannie de la majorité</c>. Sa réponse cherche à concilier les deux exigences : un <c>vote plural</c> qui n'exclut personne du suffrage mais pondère les voix selon l'instruction, afin que le nombre ne fasse pas taire la compétence, ce qui l'incline vers l'<ax id='WHO_DECIDES'>épistocratie</ax>.",
+          "en": "Mill judges a regime on two counts: what it does for public affairs and what it does to the citizens. Representative democracy wins because it best develops those who take part in it, yet that very participation exposes it to incompetence and the <c>tyranny of the majority</c>. His answer seeks to reconcile the two demands: a <c>plural voting</c> scheme that excludes no one from the franchise but weights votes by education, so that number does not silence competence, which inclines him toward <ax id='WHO_DECIDES'>epistocracy</ax>."
+        },
+        "references": [
+          {
+            "fr": "Considérations sur le gouvernement représentatif (1861), ch. 8 (le vote plural)",
+            "en": "Considerations on Representative Government (1861), ch. 8 (plural voting)"
+          },
+          {
+            "fr": "Considérations sur le gouvernement représentatif, ch. 3 (supériorité du gouvernement représentatif)",
+            "en": "Considerations on Representative Government, ch. 3 (the superiority of representative government)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DISTRIBUTIVE_JUSTICE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.45
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Soucieux de la condition ouvrière, Mill critique la répartition des richesses issue du laissez-faire et se montre, dans ses dernières années, favorable à des formes de socialisme coopératif et à des limites à l'héritage. Le principe d'utilité, qui compte également le bonheur de chacun, et l'utilité marginale décroissante du revenu inclinent sa <c>justice distributive</c> vers l'<ax id='DISTRIBUTIVE_JUSTICE'>égalitarisme</ax>, sans abolir le marché.",
+          "en": "Concerned with the condition of workers, Mill criticises the distribution of wealth under laissez-faire and, in his later years, leans toward forms of cooperative socialism and limits on inheritance. The principle of utility, which counts each person's happiness equally, and the diminishing marginal utility of income tilt his <c>distributive justice</c> toward <ax id='DISTRIBUTIVE_JUSTICE'>egalitarianism</ax>, without abolishing the market."
+        },
+        "references": [
+          {
+            "fr": "Principes d'économie politique (1848), livre II (de la distribution, du socialisme et de l'héritage)",
+            "en": "Principles of Political Economy (1848), book II (on distribution, socialism and inheritance)"
+          },
+          {
+            "fr": "L'Utilitarisme, ch. 5 (chacun compte pour un, le bonheur de tous également)",
+            "en": "Utilitarianism, ch. 5 (each to count for one, all happiness counted equally)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MORAL_CIRCLE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.25,
+          0.75,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Puisque le critère moral est le plaisir et la peine, le cercle de la considération morale s'étend à tous les <c>êtres sensibles</c> capables de souffrir, et non aux seuls humains : c'est un <c>pathocentrisme</c>. Mill compte explicitement le bonheur des animaux dans le calcul utilitariste et soutient les premières législations contre la cruauté envers eux.",
+          "en": "Since the moral criterion is pleasure and pain, the circle of moral concern extends to all <c>sentient beings</c> capable of suffering, not to humans alone: a <c>pathocentrism</c>. Mill explicitly counts the happiness of animals in the utilitarian calculus and supports early legislation against cruelty toward them."
+        },
+        "references": [
+          {
+            "fr": "L'Utilitarisme, ch. 2 (le bonheur de toutes les créatures sensibles)",
+            "en": "Utilitarianism, ch. 2 (the happiness of all sentient creatures)"
+          },
+          {
+            "fr": "Whewell on Moral Philosophy (1852), sur la prise en compte des animaux",
+            "en": "Whewell on Moral Philosophy (1852), on the moral standing of animals"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "PARTIALITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Dans le calcul du bonheur, <q>chacun compte pour un, nul ne compte pour plus d'un</q> : l'utilitarisme exige une stricte <ax id='PARTIALITY'>impartialité</ax>, un spectateur strictement désintéressé et bienveillant. Le bonheur de l'agent ne pèse pas plus que celui d'un étranger, ce que Mill rapproche de la règle d'or de Jésus de Nazareth.",
+          "en": "In the calculus of happiness, <q>everybody to count for one, nobody for more than one</q>: utilitarianism demands a strict <ax id='PARTIALITY'>impartiality</ax>, a strictly disinterested and benevolent spectator. The agent's own happiness counts no more than a stranger's, which Mill likens to the golden rule of Jesus of Nazareth."
+        },
+        "references": [
+          {
+            "fr": "L'Utilitarisme, ch. 2 (le spectateur désintéressé et bienveillant)",
+            "en": "Utilitarianism, ch. 2 (the disinterested and benevolent spectator)"
+          },
+          {
+            "fr": "L'Utilitarisme, ch. 5 (chacun compte pour un, formule attribuée à Bentham)",
+            "en": "Utilitarianism, ch. 5 (each to count for one, the formula ascribed to Bentham)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SELF_INTEREST",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La fin morale n'est pas le bonheur de l'agent mais le bonheur général : la vertu de l'utilitarisme est l'<ax id='SELF_INTEREST'>altruisme</ax>, le dévouement au bien de tous. Mill admire à ce titre l'esprit de sacrifice quand il sert le bonheur d'autrui, tout en niant qu'un sacrifice qui n'augmente la somme de bonheur de personne ait la moindre valeur.",
+          "en": "The moral end is not the agent's happiness but the general happiness: the utilitarian virtue is <ax id='SELF_INTEREST'>altruism</ax>, devotion to the good of all. Mill accordingly admires the spirit of sacrifice when it serves another's happiness, while denying any value to a sacrifice that increases no one's sum of happiness."
+        },
+        "references": [
+          {
+            "fr": "L'Utilitarisme, ch. 2 (le sacrifice n'a de valeur que s'il accroît le bonheur)",
+            "en": "Utilitarianism, ch. 2 (sacrifice has value only if it increases happiness)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "BELONGING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le principe d'utilité ne connaît pas de frontières : le bonheur de l'humanité tout entière en est la mesure, ce qui donne à la morale millienne une portée <ax id='BELONGING'>cosmopolite</ax>. Mill condamne l'esclavage où qu'il se trouve et juge le progrès à l'aune de l'amélioration du sort de tous les hommes, par-delà l'appartenance nationale.",
+          "en": "The principle of utility knows no borders: the happiness of all humanity is its measure, giving Mill's morality a <ax id='BELONGING'>cosmopolitan</ax> reach. He condemns slavery wherever it occurs and judges progress by the improvement of the lot of all mankind, beyond national belonging."
+        },
+        "references": [
+          {
+            "fr": "L'Utilitarisme, ch. 2 (le bonheur de l'ensemble des êtres concernés)",
+            "en": "Utilitarianism, ch. 2 (the happiness of all concerned)"
+          },
+          {
+            "fr": "The Contest in America (1862), contre l'esclavage",
+            "en": "The Contest in America (1862), against slavery"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MORAL_DEMAND",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Maximiser le bonheur général expose à une <dif>exigence morale</dif> potentiellement très lourde, puisque toute action peut être pesée à l'aune du plus grand bien. Mill tempère pourtant ce maximalisme : la conduite quotidienne se règle sur des règles secondaires éprouvées, et il n'attend pas de chacun le mobile constant du bien universel, mais seulement qu'il ne nuise pas et contribue à l'occasion.",
+          "en": "Maximising the general happiness exposes one to a potentially very heavy <dif>moral demand</dif>, since any action can be weighed against the greatest good. Yet Mill tempers this maximalism: everyday conduct is governed by tried secondary rules, and he does not expect from everyone the constant motive of the universal good, only that one do no harm and contribute on occasion."
+        },
+        "references": [
+          {
+            "fr": "L'Utilitarisme, ch. 2 (les règles secondaires et le mobile des actions)",
+            "en": "Utilitarianism, ch. 2 (the secondary rules and the motive of actions)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "RULE_SPIRIT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.2
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Mill se défend de devoir recalculer l'utilité à chaque acte : l'humanité a accumulé, par l'expérience, des <c>règles secondaires</c> (ne pas mentir, ne pas tuer) qui condensent les leçons sur ce qui sert le bonheur. Ces règles guident la conduite ordinaire, mais elles restent subordonnées au principe d'utilité et peuvent céder en cas de conflit : un légalisme tempéré, ouvert à l'<ax id='RULE_SPIRIT'>équité</ax>.",
+          "en": "Mill denies that utility must be recomputed at each act: humanity has accumulated, through experience, <c>secondary rules</c> (do not lie, do not kill) that condense the lessons of what serves happiness. These rules guide ordinary conduct, yet remain subordinate to the principle of utility and may yield in cases of conflict: a tempered legalism, open to <ax id='RULE_SPIRIT'>equity</ax>."
+        },
+        "references": [
+          {
+            "fr": "L'Utilitarisme, ch. 2 (les corollaires du principe et les cas de conflit de règles)",
+            "en": "Utilitarianism, ch. 2 (the corollaries of the principle and conflicts of rules)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "PUNISHMENT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.65,
+          0.35,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La justice elle-même se ramène pour Mill à une exigence d'utilité : la peine ne se justifie pas par la <c>rétribution</c> d'une faute passée mais par ses effets, la <c>dissuasion</c> et la protection de la société, accessoirement l'amendement du coupable. Il refuse l'idée d'un mérite du châtiment indépendant de ses conséquences, sans exclure la <c>réhabilitation</c>.",
+          "en": "Justice itself reduces, for Mill, to a demand of utility: punishment is justified not by the <c>retribution</c> of a past wrong but by its effects, the <c>deterrence</c> and protection of society, and secondarily the reform of the offender. He rejects the notion of a desert of punishment independent of its consequences, without excluding <c>rehabilitation</c>."
+        },
+        "references": [
+          {
+            "fr": "L'Utilitarisme, ch. 5 (la justice et l'idée de châtiment ramenées à l'utilité)",
+            "en": "Utilitarianism, ch. 5 (justice and punishment reduced to utility)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.2
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Mill tient nos volitions pour causées comme tout phénomène, conformément au principe de causalité universelle ; mais il refuse d'y voir une fatalité : le caractère lui-même peut être modifié par nos désirs et nos efforts. Cette doctrine, qu'il distingue du fatalisme, est un <c id='compatibilism'>compatibilisme</c> qui concilie <c id='determinism'>déterminisme</c> causal et <c id='free-will'>liberté</c> morale effective.",
+          "en": "Mill holds our volitions to be caused like every phenomenon, in keeping with the principle of universal causation; but he refuses to read this as fate: character itself can be reshaped by our desires and efforts. This doctrine, which he distinguishes from fatalism, is a <c id='compatibilism'>compatibilism</c> reconciling causal <c id='determinism'>determinism</c> with an effective moral <c id='free-will'>freedom</c>."
+        },
+        "references": [
+          {
+            "fr": "Système de logique, livre VI, ch. 2 (de la liberté et de la nécessité)",
+            "en": "A System of Logic, book VI, ch. 2 (of liberty and necessity)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SCIENCE_PLACE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le <w>Système de logique</w> entend étendre la méthode inductive des sciences de la nature aux faits moraux et sociaux, fondant une <c>science de l'homme</c> (les sciences morales). Cette confiance dans l'unité de la méthode scientifique et son extension au social marque une nette pente <ax id='SCIENCE_PLACE'>scientiste</ax>, sans pour autant nier la spécificité des phénomènes humains.",
+          "en": "The <w>System of Logic</w> aims to extend the inductive method of the natural sciences to moral and social facts, grounding a <c>science of man</c> (the moral sciences). This confidence in the unity of scientific method and its extension to the social marks a clear <ax id='SCIENCE_PLACE'>scientistic</ax> leaning, without thereby denying the specificity of human phenomena."
+        },
+        "references": [
+          {
+            "fr": "Système de logique, livre VI (de la logique des sciences morales)",
+            "en": "A System of Logic, book VI (on the logic of the moral sciences)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.85,
+          0.05,
+          0.1
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le principe d'utilité vaut comme critère universel du bien, le même pour tous les hommes et tous les temps : Mill ne relativise pas la morale aux cultures. Le bien y est un fait objectif, le bonheur, mesurable par ses effets, ce qui le range du côté d'un <ax id='MORAL_SCOPE'>universalisme</ax> naturaliste plutôt que du relativisme.",
+          "en": "The principle of utility serves as a universal criterion of the good, the same for all men and all ages: Mill does not relativise morality to cultures. The good is an objective fact, happiness, measurable by its effects, which ranks him on the side of a naturalistic <ax id='MORAL_SCOPE'>universalism</ax> rather than relativism."
+        },
+        "references": [
+          {
+            "fr": "L'Utilitarisme, ch. 2 et 4 (le principe du plus grand bonheur comme critère universel)",
+            "en": "Utilitarianism, ch. 2 and 4 (the greatest happiness principle as a universal criterion)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HUMAN_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Pour l'empiriste qu'est Mill, l'esprit est largement façonné par l'expérience, l'éducation et l'association des idées plutôt que par une nature fixe. Dans <w>L'Asservissement des femmes</w>, il soutient que la prétendue <c>nature</c> féminine est en réalité un produit de la coutume et de l'éducation : un <ax id='HUMAN_NATURE'>culturalisme</ax> qui fait du caractère une construction sociale modifiable.",
+          "en": "For the empiricist Mill, the mind is largely shaped by experience, education and the association of ideas rather than by a fixed nature. In <w>The Subjection of Women</w> he argues that the alleged feminine <c>nature</c> is in fact a product of custom and education: a <ax id='HUMAN_NATURE'>culturalism</ax> that makes character a modifiable social construction."
+        },
+        "references": [
+          {
+            "fr": "L'Asservissement des femmes, ch. 1 (le caractère des femmes, produit de l'éducation)",
+            "en": "The Subjection of Women, ch. 1 (women's character as a product of upbringing)"
+          },
+          {
+            "fr": "Système de logique, livre VI, ch. 4-5 (l'éthologie, science de la formation du caractère)",
+            "en": "A System of Logic, book VI, ch. 4-5 (ethology, the science of the formation of character)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Élevé sans religion, Mill examine la question de Dieu en termes de <pb>preuve empirique</pb> : l'argument du dessein rend tout au plus probable un créateur de <stk>puissance et de bonté limitées</stk>, jamais un Dieu tout-puissant compatible avec le mal du monde. Cet agnosticisme, qui n'admet qu'un faible espoir d'au-delà, le situe légèrement du côté de l'incroyance.",
+          "en": "Raised without religion, Mill examines the question of God in terms of <pb>empirical proof</pb>: the argument from design makes at most probable a creator of <stk>limited power and goodness</stk>, never an omnipotent God compatible with the world's evil. This agnosticism, which allows only a faint hope of an afterlife, places him slightly on the side of unbelief."
+        },
+        "references": [
+          {
+            "fr": "Trois essais sur la religion (posthume, 1874), Théisme",
+            "en": "Three Essays on Religion (posthumous, 1874), Theism"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.55
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Réduire une opinion au silence présuppose qu'on la sait fausse, donc qu'on se croit <c>infaillible</c> : or nul ne l'est, et l'histoire est pleine de vérités d'abord persécutées. De cette faillibilité Mill tire l'exigence de débat : étouffer une opinion peut nous priver d'une vérité, et même fausse, elle aiguise par la contradiction la vérité reçue, qui sans cela dégénère en <c>dogme mort</c>, professé sans en saisir le sens. Le doute n'est donc pas chez lui scepticisme paralysant mais condition d'un savoir vivant, ce qui le range, sans renoncer à la vérité, du côté du <ax id='CERTAINTY'>faillibilisme</ax>.",
+          "en": "To silence an opinion presupposes that one knows it false, hence that one believes oneself <c>infallible</c>: yet no one is, and history is full of truths first persecuted. From this fallibility Mill draws the demand for debate: suppressing an opinion may rob us of a truth, and even a false one sharpens, by contradiction, the received truth, which without it decays into a <c>dead dogma</c> professed without grasp of its meaning. Doubt for him is thus no paralysing scepticism but the condition of living knowledge, which ranks him, without surrendering truth, on the side of <ax id='CERTAINTY'>fallibilism</ax>."
+        },
+        "references": [
+          {
+            "fr": "De la liberté, ch. 2 (l'argument de la faillibilité et le dogme mort)",
+            "en": "On Liberty, ch. 2 (the argument from fallibility and the dead dogma)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Réduire au silence une opinion, c'est voler l'humanité ; ceux qui dissentent plus encore que ceux qui la partagent.",
+            "en": "To silence the expression of an opinion is to rob the human race; those who dissent from it still more than those who hold it."
+          },
+          "source": {
+            "fr": "De la liberté, ch. 2",
+            "en": "On Liberty, ch. 2"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SINCERITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La véracité figure parmi les règles dont l'utilité est la plus haute, car la confiance mutuelle est le fondement du bien-être social, et l'affaiblir nuit à tous. Mill tient donc le mensonge pour gravement néfaste ; mais, l'utilité restant le critère ultime, il admet de rares exceptions reconnues, ce qui le maintient nettement, sans absolutisme, du côté du rigorisme de la vérité.",
+          "en": "Truthfulness ranks among the rules of highest utility, for mutual trust is the foundation of social well-being, and to weaken it harms all. Mill thus holds lying to be gravely harmful; but, utility remaining the ultimate criterion, he admits rare recognised exceptions, which keeps him clearly, without absolutism, on the side of truthful rigorism."
+        },
+        "references": [
+          {
+            "fr": "L'Utilitarisme, ch. 2 (la véracité, règle d'utilité transcendante, et ses exceptions)",
+            "en": "Utilitarianism, ch. 2 (veracity, a rule of transcendent utility, and its exceptions)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La crise de dépression que Mill traverse à vingt ans lui révèle l'insuffisance d'une vie purement analytique : la lecture de la poésie de Wordsworth lui rend le sentiment de la valeur de la <c>culture intérieure</c> et du développement des affects. Sans renoncer à l'action réformatrice, il accorde dès lors une place réelle à la <ax id='INTERIORITY'>vie examinée</ax> et à la formation de soi.",
+          "en": "The depressive crisis Mill undergoes at twenty reveals to him the insufficiency of a purely analytic life: reading Wordsworth's poetry restores his sense of the value of <c>inner culture</c> and the cultivation of the feelings. Without renouncing reforming action, he henceforth grants a real place to the <ax id='INTERIORITY'>examined life</ax> and self-formation."
+        },
+        "references": [
+          {
+            "fr": "Autobiographie (posthume, 1873), ch. 5 (une crise dans mon histoire mentale)",
+            "en": "Autobiography (posthumous, 1873), ch. 5 (a crisis in my mental history)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.15
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Formé par son père dans le culte de l'analyse et du raisonnement, Mill mesure après sa crise que le seul intellect dessèche : il faut aussi cultiver les <c>sentiments</c> et la sensibilité, que la poésie et l'art nourrissent. Sans renier la primauté de la raison dans la connaissance, il fait droit aux émotions comme part irréductible d'une vie bonne, d'où une position quasi centrale.",
+          "en": "Trained by his father in the cult of analysis and reasoning, Mill realises after his crisis that intellect alone withers: one must also cultivate the <c>feelings</c> and sensibility, which poetry and art nourish. Without denying reason's primacy in knowledge, he gives the emotions their due as an irreducible part of a good life, hence a near-central position."
+        },
+        "references": [
+          {
+            "fr": "Autobiographie, ch. 5 (la culture des sentiments et la dette envers Wordsworth)",
+            "en": "Autobiography, ch. 5 (the cultivation of the feelings and the debt to Wordsworth)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MACHINE_MIND",
+      "status": "NOT_APPLICABLE",
+      "note": {
+        "fr": "La question de l'esprit des machines (intelligence artificielle, fonctionnalisme) est postérieure à Mill et ne se pose pas dans son œuvre.",
+        "en": "The question of machine minds (artificial intelligence, functionalism) postdates Mill and does not arise in his work."
+      }
+    },
+    {
+      "axisId": "SCIENTIFIC_METHOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.85,
+          0.1,
+          0.05
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le <w>Système de logique</w> codifie l'induction : ce sont les méthodes expérimentales (concordance, différence) qui, à partir de l'observation des régularités, établissent les lois de la nature. La connaissance scientifique se construit du particulier vers le général.",
+          "en": "The <w>System of Logic</w> codifies induction: it is the experimental methods (agreement, difference) that, from the observation of regularities, establish the laws of nature. Scientific knowledge is built from the particular toward the general."
+        },
+        "references": [
+          {
+            "fr": "Système de logique, livre III",
+            "en": "A System of Logic, Book III"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "RIGHTS_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.1,
+          0.9,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Mill rejette les droits naturels antérieurs à toute société et fonde les droits sur l'utilité : avoir un droit, c'est avoir quelque chose que la société doit nous garantir parce que son maintien sert le bien-être général, l'utilité prise au sens le plus large, fondée sur les intérêts permanents de l'homme.",
+          "en": "Mill rejects natural rights prior to any society and grounds rights in utility: to have a right is to have something society ought to secure for us because doing so serves the general well-being, utility in the largest sense, grounded in the permanent interests of humanity."
+        },
+        "references": [
+          {
+            "fr": "L'Utilitarisme, ch. V ; De la liberté",
+            "en": "Utilitarianism, ch. V; On Liberty"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "POLITICAL_LIBERTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.8,
+          0.1,
+          0,
+          0.1
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le principe de <w>De la liberté</w> est négatif : le seul motif légitime de contraindre un individu est d'empêcher qu'il ne nuise à autrui. Sur lui-même, sur son corps et son esprit, chacun est souverain. La liberté se mesure à l'espace soustrait à l'interférence.",
+          "en": "The principle of <w>On Liberty</w> is negative: the only legitimate ground for constraining an individual is to prevent harm to others. Over himself, over his own body and mind, each is sovereign. Liberty is measured by the space shielded from interference."
+        },
+        "references": [
+          {
+            "fr": "De la liberté, ch. I",
+            "en": "On Liberty, ch. I"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "AUTHORITY",
+      "thesis": {
+        "fr": "Sur ce qui ne concerne que lui-même, l'individu est souverain : la société ne peut le contraindre que pour empêcher le tort fait à autrui, jamais pour son propre bien.",
+        "en": "Over what concerns himself alone, the individual is sovereign: society may coerce him only to prevent harm to others, never for his own good."
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "thesis": {
+        "fr": "Les plaisirs diffèrent en qualité et pas seulement en quantité : <kw>mieux vaut être Socrate insatisfait qu'un imbécile satisfait</kw>.",
+        "en": "Pleasures differ in quality and not in quantity alone: <kw>better to be Socrates dissatisfied than a fool satisfied</kw>."
+      }
+    },
+    {
+      "axisId": "INDIVIDUAL_SOCIETY",
+      "thesis": {
+        "fr": "Le libre développement de l'<c>individualité</c> n'est pas un luxe privé mais la condition même du progrès, et la source à laquelle s'abreuve la société entière.",
+        "en": "The free development of <c>individuality</c> is no private luxury but the very condition of progress, the source from which society as a whole draws."
+      }
+    },
+    {
+      "axisId": "TASTE_HIERARCHY",
+      "thesis": {
+        "fr": "Le seul juge de la valeur des plaisirs est celui qui a l'expérience des deux : le verdict des <c>juges compétents</c> place au sommet les plaisirs de l'esprit.",
+        "en": "The only judge of the worth of pleasures is the one acquainted with both: the verdict of the <c>competent judges</c> sets the pleasures of the mind at the top."
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "thesis": {
+        "fr": "Faire taire une opinion, c'est se prétendre infaillible : même une vérité, jamais contestée, dégénère en <c>dogme mort</c>.",
+        "en": "To silence an opinion is to claim infallibility: even a truth, if never contested, decays into a <c>dead dogma</c>."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

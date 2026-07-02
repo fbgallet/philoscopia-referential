@@ -1,0 +1,184 @@
+{
+  "kind": "CHARACTER",
+  "id": "meursault",
+  "name": { "fr": "Meursault", "en": "Meursault" },
+  "tagline": {
+    "fr": "L'étranger lucide, indifférent devant l'absurde et les conventions des hommes.",
+    "en": "The lucid outsider, indifferent before the absurd and human convention."
+  },
+  "summary": {
+    "fr": "Employé de bureau à Alger et narrateur de <w id='the-stranger-camus'>L'Étranger</w>, Meursault est un homme sans histoire et sans illusions, qui dit ne pas savoir s'il a aimé sa mère et ne voit guère de raison de changer de vie. Il habite la sensation présente, le soleil, la mer, le tabac, étranger aux comédies sociales et au langage des sentiments attendus. <ph id='camus'>Camus</ph> le pose dans un monde sans providence ni arrière-monde, indifférent au sort des hommes : il incarne <c id='the-absurd'>l'homme absurde</c>, celui qui vit sans tricher avec ce divorce entre l'attente humaine et le silence du monde.",
+    "en": "An office clerk in Algiers and the narrator of <w id='the-stranger-camus'>The Stranger</w>, Meursault is a man without a story and without illusions, who says he does not know whether he loved his mother and sees little reason to change his life. He inhabits present sensation, the sun, the sea, tobacco, a stranger to social play-acting and to the language of expected feeling. <ph id='camus'>Camus</ph> places him in a world without providence or any beyond, indifferent to the fate of men: he embodies <c id='the-absurd'>the absurd man</c>, the one who lives without cheating about this divorce between human longing and the silence of the world."
+  },
+  "work": {
+    "title": { "fr": "L'Étranger", "en": "The Stranger" },
+    "author": { "fr": "Camus", "en": "Camus" },
+    "year": 1942,
+    "medium": "NOVEL"
+  },
+  "entries": [
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "practicedValue": { "kind": "weights", "weights": [0.05, 0.15, 0.8, 0] },
+      "declaredValue": { "kind": "weights", "weights": [0, 0.1, 0.9, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Devant chaque grand choix, Meursault répond qu'au fond cela n'a pas d'importance : épouser Marie ou non, accepter le poste de Paris ou rester, on peut dire oui sans que rien ne pèse vraiment dans la balance. Ce n'est pas indifférence calculée mais évidence vécue : aucune vie ne lui paraît justifiée par un but supérieur ni par un <c id='the-absurd'>au-delà</c>, de sorte que toutes se valent et qu'aucune fin ne vient les ordonner.",
+          "en": "Faced with every major choice, Meursault answers that at bottom it does not matter: to marry Marie or not, to take the Paris post or stay, one can say yes without anything really weighing in the balance. This is not a calculated indifference but a lived self-evidence: no life seems to him justified by a higher aim or by any <c id='the-absurd'>beyond</c>, so that all are worth the same and no end comes to order them."
+        },
+        "references": [
+          { "fr": "Partie I, chapitre 5 : réponses à Marie sur le mariage et au patron sur Paris", "en": "Part I, chapter 5: his answers to Marie about marriage and to his boss about Paris" },
+          { "fr": "Partie II, chapitre 5 : son indifférence réaffirmée à tout but supérieur", "en": "Part II, chapter 5: his reaffirmed indifference to any higher aim" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "practicedValue": { "kind": "scalar", "value": 0.8 },
+      "declaredValue": { "kind": "scalar", "value": 0.9 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Meursault déclare simplement ne pas croire en Dieu et tient la question pour sans importance. Sa vie entière se déroule sans la moindre référence religieuse, et il décline, avec constance mais sans hostilité, les consolations de la foi qu'on cherche à lui imposer.",
+          "en": "Meursault simply declares that he does not believe in God and holds the question to be unimportant. His whole life unfolds without the slightest religious reference, and he declines, steadily but without hostility, the consolations of faith that others try to impose on him."
+        },
+        "references": [
+          { "fr": "Partie II : sa réponse sans détour à ceux qui l'exhortent à croire", "en": "Part II: his straightforward answer to those who urge him to believe" },
+          { "fr": "Partie II, chapitre 5 : son refus constant des consolations religieuses", "en": "Part II, chapter 5: his steady refusal of religious consolation" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TIME_ORIENTATION",
+      "status": "POSITIONED",
+      "practicedValue": { "kind": "weights", "weights": [0.8, 0.05, 0.15] },
+      "declaredValue": { "kind": "weights", "weights": [0.8, 0.1, 0.1] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Tout ce qui occupe et comble Meursault tient dans l'instant des sensations : le bain avec Marie, la cigarette fumée près du cercueil, le dimanche passé à regarder la rue du balcon. Quand son patron lui offre une situation à Paris, il la décline sans projet ni ambition, jugeant qu'on ne change jamais vraiment de vie. Privé de ce présent, il n'use du souvenir que pour tuer le temps, signe qu'il vivait jusque-là sans le secours d'aucun avenir ni d'aucun passé.",
+          "en": "Everything that occupies and fulfills Meursault holds within the instant of sensation: swimming with Marie, the cigarette smoked beside the coffin, the Sunday spent watching the street from the balcony. When his boss offers him a post in Paris, he declines it with no project or ambition, judging that one never really changes one's life. Deprived of that present, he uses memory only to kill time, a sign that he had lived until then with no recourse to any future or any past."
+        },
+        "references": [
+          { "fr": "Partie I, chapitre 5 : le refus du poste à Paris", "en": "Part I, chapter 5: the refusal of the Paris post" },
+          { "fr": "Partie I, chapitre 2 : le dimanche au balcon, pure présence au spectacle de la rue", "en": "Part I, chapter 2: Sunday on the balcony, pure presence to the street scene" },
+          { "fr": "Partie II, chapitre 2 : l'inventaire des souvenirs de sa chambre pour occuper le temps", "en": "Part II, chapter 2: the inventory of his room's memories to fill time" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SINCERITY",
+      "status": "POSITIONED",
+      "practicedValue": { "kind": "scalar", "value": -0.9 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Quand Marie lui demande s'il l'aime, Meursault répond simplement que non sans doute, plutôt que de dire ce qu'elle attend ; il ne joue aucune douleur à l'enterrement de sa mère et avoue qu'il aurait préféré ne pas la voir morte. Il ne sait pas plus tricher pour se sauver que pour plaire : dire ce qu'il éprouve, et rien d'autre, lui est une nécessité plus forte que son propre intérêt.",
+          "en": "When Marie asks whether he loves her, Meursault simply answers that he probably does not, rather than saying what she hopes to hear; he plays no grief at his mother's funeral and admits he would rather not have seen her dead. He can no more cheat to save himself than to please: to say what he feels, and nothing else, is for him a necessity stronger than his own interest."
+        },
+        "references": [
+          { "fr": "Partie I, chapitre 4 : à Marie qui demande s'il l'aime, il répond que cela ne veut rien dire, mais que non sans doute", "en": "Part I, chapter 4: to Marie asking whether he loves her, he answers that it means nothing, but probably not" },
+          { "fr": "Partie I, chapitres 1-2 : l'absence de tout chagrin feint aux obsèques de sa mère", "en": "Part I, chapters 1-2: the absence of any feigned grief at his mother's funeral" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "practicedValue": { "kind": "scalar", "value": 0.4 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Sa conduite n'est jamais gouvernée par la délibération rationnelle mais par les états du corps : la fatigue à l'enterrement, le soleil et la chaleur qui accablent sa conduite sur la plage. Il rapporte ses affects sans les maîtriser ni les juger, mais il ne leur prête pas non plus de vérité morale : c'est un sentimentalisme de fait, sensoriel, non revendiqué.",
+          "en": "His conduct is never governed by rational deliberation but by bodily states: fatigue at the funeral, the sun and heat that overwhelm his conduct on the beach. He reports his affects without mastering or judging them, yet he grants them no moral truth either: a de facto, sensory sentimentalism, never claimed as a doctrine."
+        },
+        "references": [
+          { "fr": "Partie I, chapitre 6 : la scène de la plage, sous l'emprise du soleil", "en": "Part I, chapter 6: the beach scene, under the sway of the sun" },
+          { "fr": "Partie I, chapitre 1 : la veillée et l'enterrement, dominés par la fatigue et la chaleur", "en": "Part I, chapter 1: the vigil and the funeral, dominated by fatigue and heat" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "practicedValue": { "kind": "weights", "weights": [0.6, 0.4, 0, 0] },
+      "declaredValue": { "kind": "weights", "weights": [0.6, 0.4, 0, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "<spo>Dans sa cellule, Meursault apprivoise sa mort : puisque tout le monde est condamné, mourir à trente ans ou à soixante-dix importe peu, et il écarte tout au-delà, ne souhaitant qu'une vie où il pourrait se souvenir de celle-ci. Cette confrontation lucide avec l'exécution, loin de le briser, le rend disponible au bonheur d'avoir vécu.</spo>",
+          "en": "<spo>In his cell, Meursault tames his death: since everyone is condemned, dying at thirty or at seventy matters little, and he dismisses any afterlife, wishing only for a life in which he could remember this one. This lucid confrontation with execution, far from breaking him, makes him open to the happiness of having lived.</spo>"
+        },
+        "references": [
+          { "fr": "Partie II, chapitre 5", "en": "Part II, chapter 5" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "COSMIC_OUTLOOK",
+      "status": "POSITIONED",
+      "practicedValue": { "kind": "scalar", "value": 0.6 },
+      "declaredValue": { "kind": "scalar", "value": 0.8 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Meursault ne cherche jamais dans les événements un sens ou une intention cachée : les choses lui arrivent comme le soleil chauffe ou la mer porte, sans bienveillance ni hostilité. Le même astre qui rend voluptueux le bain accable de sa puissance aveugle sur la plage : c'est le signe d'un univers sans providence, où nulle harmonie ne veille sur les hommes. Devant ce monde, il se tient sans révolte ni consolation métaphysique : une lucidité tranquille qui n'attend de la nature aucune tendresse qu'elle n'a pas.",
+          "en": "Meursault never looks for a meaning or a hidden intention in events: things happen to him as the sun warms or the sea bears him up, with neither benevolence nor hostility. The very star that makes the swim voluptuous bears down with its blind force on the beach: the mark of a universe without providence, where no harmony watches over men. Before this world he holds himself with no revolt and no metaphysical consolation: a calm lucidity that expects from nature no tenderness it does not have."
+        },
+        "references": [
+          { "fr": "Partie I, chapitre 6 : le soleil, puissance aveugle ni bienveillante ni hostile", "en": "Part I, chapter 6: the sun, a blind force neither benevolent nor hostile" },
+          { "fr": "Partie I, chapitre 2 : le regard distant et sensoriel sur le monde", "en": "Part I, chapter 2: the distant, sensory gaze upon the world" }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "COSMIC_OUTLOOK",
+      "thesis": {
+        "fr": "Le monde n'a ni providence ni dessein : il est tendrement indifférent, et le même soleil qui comble peut écraser.",
+        "en": "The world has no providence and no design: it is tenderly indifferent, and the same sun that fulfills can crush."
+      }
+    },
+    {
+      "axisId": "SINCERITY",
+      "thesis": {
+        "fr": "On ne dit que ce que l'on éprouve, même quand mentir sauverait : feindre un chagrin ou un amour est impossible.",
+        "en": "One says only what one feels, even when lying would save: to feign a grief or a love is impossible."
+      }
+    },
+    {
+      "axisId": "TIME_ORIENTATION",
+      "thesis": {
+        "fr": "Seul compte l'instant des sensations : nul projet, nul avenir à bâtir, car on ne change jamais vraiment de vie.",
+        "en": "Only the instant of sensation counts: no project, no future to build, for one never really changes one's life."
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "thesis": {
+        "fr": "Toutes les vies se valent et rien n'a vraiment d'importance : aucun but supérieur ne vient justifier l'existence.",
+        "en": "All lives are worth the same and nothing really matters: no higher aim comes to justify existence."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

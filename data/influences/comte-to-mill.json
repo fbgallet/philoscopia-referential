@@ -1,0 +1,16 @@
+{
+  "id": "comte-to-mill",
+  "from": { "kind": "PHILOSOPHER", "slug": "comte" },
+  "to": { "kind": "PHILOSOPHER", "slug": "mill" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='mill'>Mill</ph> correspond avec <ph id='comte'>Comte</ph> et adopte la méthode positive, l'explication par les lois plutôt que par les causes ultimes, tout en rejetant sa religion de l'Humanité et son mépris de la liberté individuelle.",
+    "en": "<ph id='mill'>Mill</ph> corresponds with <ph id='comte'>Comte</ph> and adopts the positive method, explanation by laws rather than by ultimate causes, while rejecting his religion of Humanity and his contempt for individual liberty."
+  },
+  "sources": [
+    { "fr": "Mill, Auguste Comte et le positivisme", "en": "Mill, Auguste Comte and Positivism" }
+  ],
+  "updatedAt": "2026-07-02T00:00:00.000Z"
+}

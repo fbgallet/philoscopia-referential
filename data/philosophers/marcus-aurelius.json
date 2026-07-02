@@ -1,0 +1,863 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "marcus-aurelius",
+  "name": {
+    "fr": "Marc Aurèle",
+    "en": "Marcus Aurelius"
+  },
+  "tagline": {
+    "fr": "Empereur et philosophe : au cœur du pouvoir, rester juste et serein, accordé à la <c id='logos'>raison</c> du monde.",
+    "en": "Emperor and philosopher: at the heart of power, staying just and serene, in tune with the <c id='logos'>reason</c> of the world."
+  },
+  "summary": {
+    "fr": "Empereur romain de 161 à 180 et dernier des « bons empereurs » de la dynastie des Antonins, Marc Aurèle fut adopté par <per>Antonin le Pieux</per> et gouverna un Empire éprouvé par les guerres du Danube et par une grande peste. <mv id='stoicism'>Stoïcien</mv>, il fut décisivement marqué par la lecture des <w id='discourses-epictetus'>Entretiens</w> d'<ph id='epictetus'>Épictète</ph>, que lui transmit son maître <per>Rusticus</per>, et il hérite du Portique romain de <ph id='seneca'>Sénèque</ph>. Ses <w id='meditations-marcus-aurelius'>Pensées pour moi-même</w>, carnet rédigé en grec au fil des campagnes et jamais destiné à la publication, ne sont pas un traité mais une suite d'exhortations qu'il s'adresse à lui-même pour se reconduire chaque jour à la vie selon la <c id='logos'>raison</c>. Devenues l'un des grands classiques de la spiritualité, elles offrent le rare témoignage d'un homme de pouvoir cherchant, dans l'exercice quotidien, à rester juste et serein.",
+    "en": "Roman emperor from 161 to 180 and the last of the « good emperors » of the Antonine dynasty, Marcus Aurelius was adopted by <per>Antoninus Pius</per> and governed an empire strained by wars on the Danube and by a great plague. A <mv id='stoicism'>Stoic</mv>, he was decisively shaped by reading the <w id='discourses-epictetus'>Discourses</w> of <ph id='epictetus'>Epictetus</ph>, passed to him by his teacher <per>Rusticus</per>, and he inherits the Roman Stoa of <ph id='seneca'>Seneca</ph>. His <w id='meditations-marcus-aurelius'>Meditations</w>, a notebook written in Greek over the course of his campaigns and never meant for publication, are not a treatise but a series of exhortations addressed to himself, to lead himself back each day to a life according to <c id='logos'>reason</c>. Become one of the great classics of spiritual life, they offer the rare testimony of a man of power striving, in daily exercise, to remain just and serene."
+  },
+  "birth": 121,
+  "death": 180,
+  "nationality": {
+    "fr": "Romain",
+    "en": "Roman"
+  },
+  "movements": [
+    "stoicism"
+  ],
+  "entries": [
+    {
+      "axisId": "INTERIORITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.6 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Puisque le <dif>trouble</dif> ne vient pas des choses mais du jugement qu'on porte sur elles, le lieu où l'on retrouve toujours le calme n'est pas un lieu du monde mais le <c id='hegemonikon'>principe directeur</c>, cette part de soi que rien d'extérieur n'atteint. Marc Aurèle en fait une citadelle où il est toujours loisible de se replier, en revenant à ses <c id='phantasia'>représentations</c> pour y rétablir l'ordre. Mais ce retrait n'est pas une fuite hors de l'action : le carnet des <w id='meditations-marcus-aurelius'>Pensées</w> en est l'exercice même, qu'on quitte aussitôt pour retourner à sa tâche d'homme et d'empereur.",
+          "en": "Since <dif>disturbance</dif> comes not from things but from the judgment we pass on them, the place where calm is always to be found is no place in the world but the <c id='hegemonikon'>ruling faculty</c>, the part of oneself nothing external can reach. Marcus makes of it a citadel into which one may always withdraw, returning to one's <c id='phantasia'>impressions</c> to set them back in order. Yet this retreat is no flight from action: the notebook of the <w id='meditations-marcus-aurelius'>Meditations</w> is that very exercise, left at once to return to one's task as a man and an emperor."
+        },
+        "quote": {
+          "text": {
+            "fr": "On cherche des retraites à la campagne, au bord de la mer, dans les montagnes ; mais nulle part l'homme ne se retire dans plus de calme que dans sa propre âme.",
+            "en": "Men seek retreats for themselves, in the country, by the sea, in the hills; but nowhere can a man withdraw into more quiet than into his own soul."
+          },
+          "source": {
+            "fr": "Pensées pour moi-même, IV, 3",
+            "en": "Meditations, IV, 3"
+          }
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, IV, 3", "en": "Meditations, IV, 3" },
+          { "fr": "Pensées pour moi-même, VII, 59", "en": "Meditations, VII, 59" },
+          { "fr": "Pensées pour moi-même, VIII, 48", "en": "Meditations, VIII, 48" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TIME_ORIENTATION",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.85, 0.1, 0.05] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "On ne peut être dépouillé ni du passé, qui n'est plus, ni de l'avenir, qu'on n'a pas encore : ce qu'on perd en mourant n'est jamais que ce point insécable, l'instant présent, le même pour qui meurt vieux et pour qui meurt jeune. Marc Aurèle en tire la dévaluation de la <stk>gloire posthume</stk>, puisque ceux qui se souviendraient de moi mourront à leur tour, et la concentration sur la tâche du moment, à mener comme si elle était la dernière. Cette méditation de l'éphémère, plus insistante chez lui que chez aucun stoïcien, n'invite pas à jouir de l'instant mais à l'habiter dignement.",
+          "en": "One can be stripped neither of the past, which is no more, nor of the future, which is not yet: what we lose in dying is only ever that indivisible point, the present instant, the same for the man who dies old and the man who dies young. From this Marcus draws the deflation of <stk>posthumous glory</stk>, since those who might remember me will die in their turn, and the concentration on the task at hand, to be carried out as if it were the last. This meditation on transience, more insistent in him than in any Stoic, summons us not to enjoy the moment but to inhabit it worthily."
+        },
+        "quote": {
+          "text": {
+            "fr": "Personne ne perd d'autre vie que celle qu'il vit, ni n'en vit d'autre que celle qu'il perd.",
+            "en": "No one loses any other life than the one he now lives, nor lives any other than the one he now loses."
+          },
+          "source": {
+            "fr": "Pensées pour moi-même, II, 14",
+            "en": "Meditations, II, 14"
+          }
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, II, 14", "en": "Meditations, II, 14" },
+          { "fr": "Pensées pour moi-même, III, 10", "en": "Meditations, III, 10" },
+          { "fr": "Pensées pour moi-même, XII, 26", "en": "Meditations, XII, 26" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.85, 0.05, 0.1, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le cosmos est un tout ordonné par le <c id='logos'>logos</c>, et l'homme, parcelle de cette raison, y a sa place et sa fonction : bien vivre, c'est s'y accorder. Mais Marc Aurèle introduit un trait peu stoïcien, l'<pb>alternative « providence ou atomes »</pb> qu'il agite sans relâche : ou bien le monde est <c id='providence'>providence</c>, ou bien il n'est qu'un tourbillon d'atomes, et dans les deux cas le sage doit garder son âme droite. Il retombe toujours du côté de l'ordre rationnel, mais cette hypothèse récurrente trahit une lucidité inquiète qui le distingue de la sérénité doctrinale d'<ph id='epictetus'>Épictète</ph>.",
+          "en": "The cosmos is a whole ordered by the <c id='logos'>logos</c>, and man, a fragment of that reason, holds his place and function within it: to live well is to fall in with it. Yet Marcus introduces an un-Stoic note, the <pb>« providence or atoms » alternative</pb> he keeps turning over: either the world is <c id='providence'>providence</c>, or it is no more than a swirl of atoms, and in either case the wise man must keep his soul upright. He always comes down on the side of rational order, but this recurring hypothesis betrays a restless lucidity that sets him apart from the doctrinal serenity of <ph id='epictetus'>Epictetus</ph>."
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, IV, 4", "en": "Meditations, IV, 4" },
+          { "fr": "Pensées pour moi-même, IX, 28", "en": "Meditations, IX, 28" },
+          { "fr": "Pensées pour moi-même, XII, 14", "en": "Meditations, XII, 14" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.6, 0.35, 0.05, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si tout, dans le cosmos, naît du changement et y retourne, la mort n'est qu'une transformation parmi d'autres, la dissolution des éléments dans le tout d'où ils venaient : rien de ce qui est conforme à la <c id='logos'>nature</c> ne saurait être un mal. Mais Marc Aurèle ne se contente pas d'en désamorcer la terreur ; il la tient chaque jour devant les yeux pour gouverner l'action présente, de sorte que la conscience aiguë de la mort, plus qu'une consolation, devient l'aiguillon d'une vie droite. Sa note propre est l'image du fruit mûr : quitter la vie comme l'olive tombe, en bénissant la terre qui l'a portée.",
+          "en": "If everything in the cosmos arises from change and returns to it, death is but one transformation among others, the dissolution of the elements back into the whole they came from: nothing in keeping with <c id='logos'>nature</c> can be an evil. But Marcus does not merely defuse its terror; he keeps it daily before his eyes to govern present action, so that an acute awareness of death, more than a consolation, becomes the spur to a life rightly lived. His own note is the image of the ripe fruit: to leave life as the olive falls, blessing the earth that bore it."
+        },
+        "quote": {
+          "text": {
+            "fr": "Quitte la vie comme l'olive mûre qui tombe, bénissant la nature qui l'a produite et reconnaissante envers l'arbre qui l'a portée.",
+            "en": "Pass out of life as a ripe olive falls, blessing the nature that produced it and giving thanks to the tree on which it grew."
+          },
+          "source": {
+            "fr": "Pensées pour moi-même, IV, 48",
+            "en": "Meditations, IV, 48"
+          }
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, II, 17", "en": "Meditations, II, 17" },
+          { "fr": "Pensées pour moi-même, IV, 48", "en": "Meditations, IV, 48" },
+          { "fr": "Pensées pour moi-même, IX, 3", "en": "Meditations, IX, 3" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.85 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Comme tout stoïcien, Marc Aurèle tient la passion pour un <c id='synkatathesis'>assentiment</c> donné à un faux jugement, donc pour une erreur corrigible et non une fatalité ; mais il en fait surtout l'instrument d'une éthique de la <c>douceur</c>. Le raisonnement qu'il s'oppose à lui-même contre la <c>colère</c> est serré : celui qui me fait tort se trompe sur le bien et le mal, or nul ne se trompe volontairement ; il est mon parent, né de la même <c id='logos'>raison</c> ; il ne peut me léser dans la seule chose qui soit mienne, mon <c id='prohairesis'>jugement</c> ; lui en vouloir ajouterait à son tort le mien. Comprendre l'ignorance d'autrui dissout le ressentiment avant qu'il se forme.",
+          "en": "Like every Stoic, Marcus holds a passion to be an <c id='synkatathesis'>assent</c> given to a false judgment, hence a correctable error and no fatality; but he turns it above all into the instrument of an ethics of <c>gentleness</c>. The reasoning he urges on himself against <c>anger</c> is tight: the one who wrongs me is mistaken about good and evil, and no one errs willingly; he is my kinsman, born of the same <c id='logos'>reason</c>; he cannot harm me in the one thing that is mine, my <c id='prohairesis'>judgment</c>; and to resent him would add his wrong to my own. Understanding another's ignorance dissolves resentment before it forms."
+        },
+        "quote": {
+          "text": {
+            "fr": "Dès le matin, dis-toi par avance : je rencontrerai un indiscret, un ingrat, un insolent ; mais aucun ne peut m'enchaîner au mal, ni m'irriter contre un parent.",
+            "en": "Begin each day by telling yourself: today I shall meet the meddler, the ungrateful, the insolent; but none can bind me to what is base, nor make me angry at a kinsman."
+          },
+          "source": {
+            "fr": "Pensées pour moi-même, II, 1",
+            "en": "Meditations, II, 1"
+          }
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, II, 1", "en": "Meditations, II, 1" },
+          { "fr": "Pensées pour moi-même, XI, 18", "en": "Meditations, XI, 18" },
+          { "fr": "Pensées pour moi-même, IX, 42", "en": "Meditations, IX, 42" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CONTROL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.9 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Reprenant la <c id='dichotomy-of-control'>dichotomie</c> d'<ph id='epictetus'>Épictète</ph>, Marc Aurèle ramène sans cesse son esprit au seul domaine maîtrisable : les choses extérieures ne touchent pas l'âme, qui ne se trouble que par le jugement qu'elle y ajoute ; ôte ce jugement, retire le « je suis lésé », et le tort lui-même disparaît.",
+          "en": "Taking up the <c id='dichotomy-of-control'>dichotomy</c> of <ph id='epictetus'>Epictetus</ph>, Marcus continually brings his mind back to the one masterable domain: external things do not touch the soul, which is disturbed only by the judgment it adds to them; remove that judgment, drop the « I am harmed », and the harm itself is gone."
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, V, 19", "en": "Meditations, V, 19" },
+          { "fr": "Pensées pour moi-même, VI, 52", "en": "Meditations, VI, 52" },
+          { "fr": "Pensées pour moi-même, VIII, 47", "en": "Meditations, VIII, 47" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 0.1, 0.9] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le seul bien réside dans la <c>vertu</c>, c'est-à-dire dans la rectitude du <c id='hegemonikon'>principe directeur</c> ; santé, honneurs et plaisirs ne sont que des <c id='adiaphora'>indifférents</c> dont nul bon usage ne fait des biens. Rien, répète-t-il, n'égale la justice, la vérité et la tempérance d'une âme.",
+          "en": "The only good lies in <c>virtue</c>, that is, in the rightness of the <c id='hegemonikon'>ruling faculty</c>; health, honours and pleasures are mere <c id='adiaphora'>indifferents</c> that no good use turns into goods. Nothing, he repeats, equals the justice, truth and temperance of a soul."
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, II, 5", "en": "Meditations, II, 5" },
+          { "fr": "Pensées pour moi-même, III, 6", "en": "Meditations, III, 6" },
+          { "fr": "Pensées pour moi-même, VI, 41", "en": "Meditations, VI, 41" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "PAST_RELATION",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.9 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si le monde est un seul vivant traversé par une même <c id='logos'>raison</c>, aucun événement n'est isolé ni accidentel : ce qui m'advient était de toute éternité tissé avec moi dans la trame du tout (la <c id='sympatheia'>sympatheia</c>, sympathie cosmique des choses entre elles). Marc Aurèle va plus loin que la résignation : non pas supporter ce qui arrive, mais l'aimer, car le souhaiter autre reviendrait à exiger que l'univers entier fût autre. La <stk>révolte</stk> n'est dès lors pas tant interdite qu'absurde, la partie ne pouvant accuser le tout dont elle procède : c'est l'<c id='amor-fati'>amour du destin</c> comme forme la plus haute du consentement.",
+          "en": "If the world is a single living being run through by one <c id='logos'>reason</c>, no event is isolated or accidental: what befalls me was, from all eternity, woven together with me into the fabric of the whole (the <c id='sympatheia'>sympatheia</c>, the cosmic sympathy of things with one another). Marcus goes beyond resignation: not to endure what happens but to love it, since to wish it otherwise would be to demand that the entire universe be otherwise. <stk>Revolt</stk> is then not so much forbidden as absurd, the part being unable to accuse the whole from which it issues: this is <c id='amor-fati'>love of fate</c> as the highest form of consent."
+        },
+        "quote": {
+          "text": {
+            "fr": "Tout ce qui s'accorde avec toi, ô Univers, s'accorde avec moi : rien de ce qui vient à temps pour toi n'est pour moi trop tôt ni trop tard.",
+            "en": "All that is in tune with you, O Universe, is in tune with me: nothing that comes in season for you is too early or too late for me."
+          },
+          "source": {
+            "fr": "Pensées pour moi-même, IV, 23",
+            "en": "Meditations, IV, 23"
+          }
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, IV, 23", "en": "Meditations, IV, 23" },
+          { "fr": "Pensées pour moi-même, V, 8", "en": "Meditations, V, 8" },
+          { "fr": "Pensées pour moi-même, X, 5", "en": "Meditations, X, 5" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SELF_INTEREST",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.65 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "De la nature rationnelle et sociale de l'homme, Marc Aurèle déduit que mon bien et celui de la communauté ne font qu'un : doué de <c id='logos'>raison</c> comme tout être humain, je suis à la cité du monde ce que le membre est au corps, et le membre qui se sépare se mutile. L'<c id='oikeiosis'>appropriation</c> stoïcienne prend ici un tour singulier, car c'est un empereur qui se rappelle au seuil de chaque journée que sa tâche propre est l'acte juste accompli pour le commun : la <c>vertu</c> n'est pas une perfection solitaire mais tout entière tournée vers la coopération.",
+          "en": "From the rational and social nature of man, Marcus deduces that my good and the community's are one: endowed with <c id='logos'>reason</c> like every human being, I am to the city of the world what the limb is to the body, and the limb that severs itself is maimed. Stoic <c id='oikeiosis'>appropriation</c> takes a singular turn here, for it is an emperor who reminds himself at the threshold of each day that his own task is the just act done for the common good: <c>virtue</c> is no solitary perfection but is turned wholly toward cooperation."
+        },
+        "quote": {
+          "text": {
+            "fr": "Ce qui n'est pas utile à l'essaim n'est pas utile non plus à l'abeille.",
+            "en": "What is not good for the swarm is not good for the bee either."
+          },
+          "source": {
+            "fr": "Pensées pour moi-même, VI, 54",
+            "en": "Meditations, VI, 54"
+          }
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, V, 1", "en": "Meditations, V, 1" },
+          { "fr": "Pensées pour moi-même, VI, 54", "en": "Meditations, VI, 54" },
+          { "fr": "Pensées pour moi-même, VII, 13", "en": "Meditations, VII, 13" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 0.3, 0.7] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le désir porté sur ce qui ne dépend pas de nous arrache l'âme à sa nature et la livre au trouble ; il faut le rétracter de l'extérieur et consentir au cours des choses. La <c id='adiaphora'>sélection</c> raisonnée des préférables subsiste, de sorte qu'il s'agit moins d'éteindre tout désir que de le redresser vers le seul bien véritable.",
+          "en": "Desire fixed on what is not up to us tears the soul from its nature and gives it over to disturbance; it must be withdrawn from externals and consent given to the course of things. A reasoned <c id='adiaphora'>selection</c> of the preferable remains, so that the point is less to extinguish all desire than to redirect it toward the one true good."
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, II, 16", "en": "Meditations, II, 16" },
+          { "fr": "Pensées pour moi-même, III, 6", "en": "Meditations, III, 6" },
+          { "fr": "Pensées pour moi-même, XI, 16", "en": "Meditations, XI, 16" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ATTENTION",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.85 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'exercice fondamental est la <c id='prosoche'>prosochè</c>, attention vigilante portée à chaque instant sur ses jugements et ses impulsions : surveiller la <c id='phantasia'>représentation</c> à mesure qu'elle se présente, c'est se recueillir sur le <c id='hegemonikon'>principe directeur</c> au lieu de se laisser disperser au fil des impressions.",
+          "en": "The fundamental exercise is <c id='prosoche'>prosochē</c>, the vigilant attention turned at every moment on one's judgments and impulses: to watch the <c id='phantasia'>impression</c> as it arises is to recollect oneself upon the <c id='hegemonikon'>ruling faculty</c> rather than be scattered along the stream of impressions."
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, III, 4", "en": "Meditations, III, 4" },
+          { "fr": "Pensées pour moi-même, IV, 22", "en": "Meditations, IV, 22" },
+          { "fr": "Pensées pour moi-même, VII, 54", "en": "Meditations, VII, 54" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 0.1, 0.9, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La valeur morale tient tout entière dans l'excellence du caractère et la droiture de l'intention, non dans les conséquences ni dans une règle extérieure : une <ax id='ETHICS_FOUNDATION'>éthique de la vertu</ax>, avec une mince part déontologique dans l'idée d'accomplir fidèlement la fonction attachée à ses rôles.",
+          "en": "Moral worth lies wholly in excellence of character and rightness of intention, not in consequences nor in an external rule: a <ax id='ETHICS_FOUNDATION'>virtue ethics</ax>, with a thin deontological strand in the idea of faithfully discharging the function attached to one's roles."
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, V, 1", "en": "Meditations, V, 1" },
+          { "fr": "Pensées pour moi-même, III, 6", "en": "Meditations, III, 6" },
+          { "fr": "Pensées pour moi-même, XI, 1", "en": "Meditations, XI, 1" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "BELONGING",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.8 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "De la <c id='logos'>raison</c> commune à tous les hommes, Marc Aurèle conclut à une cité unique du monde dont chacun est citoyen avant d'appartenir à sa patrie. La formule est sienne : citoyen de Rome en tant qu'Antonin, mais citoyen du monde en tant qu'homme, la première appartenance se subordonnant à la seconde.",
+          "en": "From the <c id='logos'>reason</c> common to all men, Marcus concludes to a single city of the world of which each is a citizen before belonging to his homeland. The formula is his own: a citizen of Rome as Antoninus, but a citizen of the world as a man, the first belonging subordinate to the second."
+        },
+        "quote": {
+          "text": {
+            "fr": "Ma cité et ma patrie, en tant qu'Antonin, c'est Rome ; en tant qu'homme, c'est le monde.",
+            "en": "As Antoninus, my city and homeland is Rome; as a man, it is the world."
+          },
+          "source": {
+            "fr": "Pensées pour moi-même, VI, 44",
+            "en": "Meditations, VI, 44"
+          }
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, VI, 44", "en": "Meditations, VI, 44" },
+          { "fr": "Pensées pour moi-même, III, 11", "en": "Meditations, III, 11" },
+          { "fr": "Pensées pour moi-même, IV, 4", "en": "Meditations, IV, 4" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.7 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Marc Aurèle affirme des dieux providentiels identifiés à la <c id='logos'>raison</c> immanente du cosmos, théisme panthéiste plutôt que personnel. L'<pb>hypothèse « ou bien des atomes »</pb>, qu'il garde toujours ouverte, ne renverse pas cette conviction mais lui ôte toute prétention dogmatique : il croit la <c id='providence'>providence</c> sans pouvoir la prouver.",
+          "en": "Marcus affirms providential gods identified with the immanent <c id='logos'>reason</c> of the cosmos, a pantheist rather than personal theism. The <pb>« or else atoms » hypothesis</pb> he always keeps open does not overturn this conviction but strips it of any dogmatic claim: he believes in <c id='providence'>providence</c> without being able to prove it."
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, II, 11", "en": "Meditations, II, 11" },
+          { "fr": "Pensées pour moi-même, XII, 28", "en": "Meditations, XII, 28" },
+          { "fr": "Pensées pour moi-même, VI, 44", "en": "Meditations, VI, 44" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.9, 0, 0.1] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Une même loi de <c id='logos'>raison</c> traverse tous les êtres rationnels : le bien et le mal ne tiennent ni aux cités ni aux conventions mais à la nature commune. Un cosmos, une loi, une raison partagée, répète-t-il, fondent un universalisme moral réaliste.",
+          "en": "One law of <c id='logos'>reason</c> runs through all rational beings: good and evil hold neither of cities nor of conventions but of the common nature. One cosmos, one law, one shared reason, he repeats, ground a realist moral universalism."
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, IV, 4", "en": "Meditations, IV, 4" },
+          { "fr": "Pensées pour moi-même, VII, 9", "en": "Meditations, VII, 9" },
+          { "fr": "Pensées pour moi-même, X, 6", "en": "Meditations, X, 6" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "INDIVIDUAL_SOCIETY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.7 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Les êtres raisonnables sont les membres d'un seul corps, non de simples parties juxtaposées : l'individu ne s'accomplit qu'en œuvrant pour le tout, et l'acte antisocial se retranche lui-même de la nature. Vision holiste, où le bien commun n'est pas une contrainte mais l'achèvement de la nature individuelle.",
+          "en": "Rational beings are the limbs of one body, not mere parts set side by side: the individual is fulfilled only in working for the whole, and the antisocial act cuts itself off from nature. A holist view, in which the common good is no constraint but the completion of the individual's nature."
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, VII, 13", "en": "Meditations, VII, 13" },
+          { "fr": "Pensées pour moi-même, II, 1", "en": "Meditations, II, 1" },
+          { "fr": "Pensées pour moi-même, IX, 23", "en": "Meditations, IX, 23" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "EMBODIMENT",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.7 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Marc Aurèle dévalue le corps avec une crudité célèbre : il le décompose en ses éléments, un peu de chair, de sang et d'os, réduit la nourriture et l'union des corps à leurs processus organiques, et oppose à cette matière périssable le seul <c id='hegemonikon'>principe directeur</c>. Le corps n'est qu'un <c id='adiaphora'>instrument</c> prêté à l'âme, ce qui range nettement Marc Aurèle du côté du corps-instrument, sans pourtant le mépriser jusqu'à l'ascèse mortifiante.",
+          "en": "Marcus demeans the body with a famous bluntness: he decomposes it into its elements, a little flesh, blood and bone, reduces food and the union of bodies to their organic processes, and sets against this perishable matter the <c id='hegemonikon'>ruling faculty</c> alone. The body is but an <c id='adiaphora'>instrument</c> lent to the soul, which places Marcus squarely on the body-as-instrument side, without yet despising it into a mortifying asceticism."
+        },
+        "quote": {
+          "text": {
+            "fr": "Ce que je suis, ce n'est qu'un peu de chair, un peu de souffle, et le principe directeur.",
+            "en": "What I am is only a little flesh, a little breath, and the ruling part."
+          },
+          "source": {
+            "fr": "Pensées pour moi-même, II, 2",
+            "en": "Meditations, II, 2"
+          }
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, II, 2", "en": "Meditations, II, 2" },
+          { "fr": "Pensées pour moi-même, VI, 13", "en": "Meditations, VI, 13" },
+          { "fr": "Pensées pour moi-même, VIII, 24", "en": "Meditations, VIII, 24" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.1 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Tout s'enchaîne selon le <c id='determinism'>destin</c> et la <c id='providence'>providence</c>, mais l'âme garde le pouvoir de juger et de consentir : nul événement ne peut contraindre l'<c id='synkatathesis'>assentiment</c> du <c id='hegemonikon'>principe directeur</c>. C'est le <c id='compatibilism'>compatibilisme</c> stoïcien, la nécessité cosmique laissant intacte la liberté intérieure ; la position penche à peine vers le déterminisme, car la trame des causes enveloppe tout le reste.",
+          "en": "Everything is linked by <c id='determinism'>fate</c> and <c id='providence'>providence</c>, yet the soul keeps the power to judge and to consent: no event can compel the <c id='synkatathesis'>assent</c> of the <c id='hegemonikon'>ruling faculty</c>. This is Stoic <c id='compatibilism'>compatibilism</c>, cosmic necessity leaving inner freedom intact; the position leans only slightly toward determinism, since the web of causes enfolds all the rest."
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, VIII, 47", "en": "Meditations, VIII, 47" },
+          { "fr": "Pensées pour moi-même, XII, 10", "en": "Meditations, XII, 10" },
+          { "fr": "Pensées pour moi-même, V, 10", "en": "Meditations, V, 10" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.6, 0.1, 0.1, 0.2] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Marc Aurèle identifie le vrai moi non au corps ni au souffle, mais au <c id='hegemonikon'>principe directeur</c>, l'intelligence qui juge et gouverne. Cette âme rationnelle, parcelle du divin, fait surtout de lui un <c>substantialiste</c> du moi ; mais son insistance sur le flux perpétuel, où le corps est un fleuve et la mémoire une fumée, y mêle une note d'impermanence proche de la conception en <c>faisceau</c>.",
+          "en": "Marcus identifies the true self not with the body or the breath but with the <c id='hegemonikon'>ruling faculty</c>, the intelligence that judges and governs. This rational soul, a fragment of the divine, makes him chiefly a <c>substantialist</c> about the self; yet his insistence on perpetual flux, where the body is a river and memory a vapour, blends in a note of impermanence close to the <c>bundle</c> conception."
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, II, 2", "en": "Meditations, II, 2" },
+          { "fr": "Pensées pour moi-même, III, 5", "en": "Meditations, III, 5" },
+          { "fr": "Pensées pour moi-même, V, 11", "en": "Meditations, V, 11" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.4 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'épreuve n'est ni à fuir ni à pleurer : l'âme convertit en matière de <c>vertu</c> ce qui prétendait l'entraver, et l'obstacle à l'action devient l'action même. Position entre l'<c id='adiaphora'>indifférence</c> stoïcienne, qui tient la douleur pour un rien, et la fécondité active de l'adversité, qui en fait l'occasion du progrès.",
+          "en": "Hardship is neither to be fled nor wept over: the soul turns into material for <c>virtue</c> what claimed to thwart it, and the impediment to action becomes the action itself. The stance sits between Stoic <c id='adiaphora'>indifference</c>, which counts pain as nothing, and the active fecundity of adversity, which makes it the occasion of progress."
+        },
+        "quote": {
+          "text": {
+            "fr": "Ce qui fait obstacle à l'action sert l'action, et ce qui barre la route devient la route.",
+            "en": "What stands in the way of action advances action. What blocks the road becomes the road."
+          },
+          "source": {
+            "fr": "Pensées pour moi-même, V, 20",
+            "en": "Meditations, V, 20"
+          }
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, IV, 1", "en": "Meditations, IV, 1" },
+          { "fr": "Pensées pour moi-même, V, 20", "en": "Meditations, V, 20" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "PARTIALITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le cosmopolitisme fonde une égale considération pour tout être raisonnable ; mais Marc Aurèle pense ce souci en cercles, des proches à la cité puis à l'humanité, chacun portant ses devoirs propres. Il se tient ainsi sur la position médiane des cercles concentriques, ni pur impartialisme ni partialité assumée.",
+          "en": "Cosmopolitanism grounds an equal regard for every rational being; but Marcus thinks this concern in circles, from kin to city to humankind, each carrying its own duties. He thus stands on the median position of concentric circles, neither pure impartialism nor avowed partiality."
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, III, 11", "en": "Meditations, III, 11" },
+          { "fr": "Pensées pour moi-même, VII, 13", "en": "Meditations, VII, 13" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "FORGIVENESS",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.3 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Qui fait le mal l'ignore : on ne saurait lui en vouloir comme à un coupable libre, mais l'instruire, ou le supporter et passer outre. Cette inclination à excuser, fondée sur la faute involontaire, penche vers une remise généreuse, sans aller jusqu'à une doctrine du pardon inconditionnel.",
+          "en": "The wrongdoer acts in ignorance: one cannot resent him as a free culprit, but should instruct him, or bear with him and let it pass. This inclination to excuse, grounded in the involuntary fault, leans toward a generous remission, without reaching a doctrine of unconditional forgiveness."
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, II, 1", "en": "Meditations, II, 1" },
+          { "fr": "Pensées pour moi-même, IX, 42", "en": "Meditations, IX, 42" },
+          { "fr": "Pensées pour moi-même, XI, 18", "en": "Meditations, XI, 18" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HOPE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.6 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Espérance et crainte se tiennent par la main, tournées vers un avenir qui ne dépend pas de nous : Marc Aurèle se prescrit de n'en rien attendre et de s'en tenir au présent consenti. Que rien de l'avenir ne te trouble, écrit-il, car tu l'affronteras, s'il le faut, avec la même raison qu'aujourd'hui : c'est une lucidité sereine plutôt qu'un principe espérance.",
+          "en": "Hope and fear go hand in hand, both turned toward a future not up to us: Marcus prescribes himself to expect nothing of it and to hold to the consented present. Let nothing in the future trouble you, he writes, for you will meet it, if you must, with the same reason as today: a serene lucidity rather than a principle of hope."
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, VII, 8", "en": "Meditations, VII, 8" },
+          { "fr": "Pensées pour moi-même, XII, 1", "en": "Meditations, XII, 1" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "BODILY_PLEASURES",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.55 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Décomposer les objets du désir en dénoue le prestige : ce mets n'est qu'un cadavre d'animal, ce vin du jus de raisin, l'union des corps un simple frottement. Le plaisir étant un <c id='adiaphora'>indifférent</c>, il faut en user avec sobriété et sans s'y asservir, ascèse mesurée plutôt que mortification.",
+          "en": "To break the objects of desire into their parts dissolves their prestige: this dish is only an animal's carcass, this wine grape juice, the union of bodies a mere rubbing. Pleasure being an <c id='adiaphora'>indifferent</c>, one should use it soberly and without enslavement to it, a measured asceticism rather than mortification."
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, VI, 13", "en": "Meditations, VI, 13" },
+          { "fr": "Pensées pour moi-même, III, 2", "en": "Meditations, III, 2" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "COSMIC_OUTLOOK",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.5 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le monde providentiel est foncièrement bon et ordonné, ce qui range Marc Aurèle du côté de l'optimisme métaphysique : tout ce qui arrive convient au tout. Mais sa contemplation incessante de la vanité, du flux et de l'oubli donne à cet ordre une coloration mélancolique qui retient la position loin de l'optimisme serein d'un <ph id='leibniz'>Leibniz</ph>.",
+          "en": "The providential world is fundamentally good and ordered, which places Marcus on the side of metaphysical optimism: all that happens befits the whole. But his unceasing contemplation of vanity, flux and oblivion lends that order a melancholy hue which holds the position well short of a <ph id='leibniz'>Leibniz</ph>'s serene optimism."
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, II, 3", "en": "Meditations, II, 3" },
+          { "fr": "Pensées pour moi-même, IV, 23", "en": "Meditations, IV, 23" },
+          { "fr": "Pensées pour moi-même, IV, 32", "en": "Meditations, IV, 32" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.8 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le divin n'est pas un au-delà : la <c id='logos'>raison</c> traverse et anime le cosmos, et l'âme humaine en est une parcelle détachée. Conception nettement <c id='immanence'>immanente</c> du sacré, sans arrière-monde.",
+          "en": "The divine is no beyond: <c id='logos'>reason</c> runs through and animates the cosmos, and the human soul is a fragment broken off from it. A markedly <c id='immanence'>immanent</c> conception of the sacred, with no world behind the world."
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, XII, 26", "en": "Meditations, XII, 26" },
+          { "fr": "Pensées pour moi-même, VIII, 54", "en": "Meditations, VIII, 54" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CAUSALITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.3, 0.7, 0] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le destin est l'enchaînement rationnel des causes orienté vers le bien du tout : la causalité est foncièrement <ax id='CAUSALITY'>finaliste</ax>, providentielle. L'hypothèse récurrente des atomes y introduit toutefois une part de pur mécanisme, comme une alternative que Marc Aurèle tient pour pensable.",
+          "en": "Fate is the rational chaining of causes directed toward the good of the whole: causality is fundamentally <ax id='CAUSALITY'>finalist</ax>, providential. The recurring atoms hypothesis nonetheless introduces a share of sheer mechanism, an alternative Marcus holds to be thinkable."
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, IV, 4", "en": "Meditations, IV, 4" },
+          { "fr": "Pensées pour moi-même, IX, 1", "en": "Meditations, IX, 1" },
+          { "fr": "Pensées pour moi-même, IX, 28", "en": "Meditations, IX, 28" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HUMAN_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.6 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'homme est par nature un être de <c id='logos'>raison</c> fait pour la société ; la vertu accomplit cette nature, et le vice n'en est qu'un dévoiement, non une seconde nature acquise. Position naturaliste, où vivre selon la nature et vivre selon la raison coïncident.",
+          "en": "Man is by nature a being of <c id='logos'>reason</c> made for society; virtue fulfils that nature, and vice is but a straying from it, not an acquired second nature. A naturalist position, in which living according to nature and living according to reason coincide."
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, VIII, 12", "en": "Meditations, VIII, 12" },
+          { "fr": "Pensées pour moi-même, V, 1", "en": "Meditations, V, 1" },
+          { "fr": "Pensées pour moi-même, IV, 29", "en": "Meditations, IV, 29" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "PROBLEM_OF_EVIL",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.9, 0.1, 0, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Ce qui paraît un mal a sa place dans l'ordre providentiel ou sert d'épreuve à la <c>vertu</c> : rien n'arrive à un homme qu'il ne soit, par nature, fait pour supporter. C'est une <ax id='PROBLEM_OF_EVIL'>théodicée</ax> stoïcienne, complétée d'une part d'imputation du mal moral à l'ignorance plutôt qu'à la malice.",
+          "en": "What seems an evil has its place in the providential order or serves as a trial of <c>virtue</c>: nothing befalls a man that he is not, by nature, fitted to bear. A Stoic <ax id='PROBLEM_OF_EVIL'>theodicy</ax>, rounded out by charging moral evil to ignorance rather than malice."
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, II, 11", "en": "Meditations, II, 11" },
+          { "fr": "Pensées pour moi-même, IV, 8", "en": "Meditations, IV, 8" },
+          { "fr": "Pensées pour moi-même, V, 18", "en": "Meditations, V, 18" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.55 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "En stoïcien, Marc Aurèle tient pour acquis qu'un savoir vrai du bien et de la nature est possible, et il est en ce sens <c id='dogmatism'>dogmatique</c>, non <c id='skepticism'>sceptique</c>. Mais son refrain selon lequel « tout est jugement » (la valeur que nous ajoutons aux choses) et son ton d'humilité tempèrent la doctrine : il affirme moins un système qu'il ne s'exhorte à voir droit.",
+          "en": "As a Stoic, Marcus takes it as settled that a true knowledge of the good and of nature is possible, and in that sense he is a <c id='dogmatism'>dogmatist</c>, not a <c id='skepticism'>sceptic</c>. But his refrain that « everything is judgment » (the value we add to things) and his tone of humility temper the doctrine: he asserts a system less than he exhorts himself to see straight."
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, IV, 3", "en": "Meditations, IV, 3" },
+          { "fr": "Pensées pour moi-même, VIII, 47", "en": "Meditations, VIII, 47" },
+          { "fr": "Pensées pour moi-même, XII, 8", "en": "Meditations, XII, 8" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.6 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Chaque chose a sa nature propre et sa fin : celle de l'homme est de vivre selon la <c id='logos'>raison</c>, et toute la morale consiste à accomplir cette essence reçue. Cet <ax id='ESSENCE'>essentialisme</ax> stoïcien fait précéder l'existence d'une définition de l'homme, contre toute idée d'une liberté qui se créerait sans modèle.",
+          "en": "Each thing has its own nature and end: man's is to live according to <c id='logos'>reason</c>, and all morality consists in fulfilling that received essence. This Stoic <ax id='ESSENCE'>essentialism</ax> sets a definition of man before his existence, against any idea of a freedom that would create itself without a model."
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, V, 1", "en": "Meditations, V, 1" },
+          { "fr": "Pensées pour moi-même, VIII, 12", "en": "Meditations, VIII, 12" },
+          { "fr": "Pensées pour moi-même, X, 2", "en": "Meditations, X, 2" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HUMAN_VISION",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Marc Aurèle oscille : la <w id='meditations-marcus-aurelius'>méditation du matin</w> annonce des hommes indiscrets, ingrats et violents, regard sans illusion sur les conduites ; mais il tient leur faute pour une <dif>ignorance corrigible</dif>, non une méchanceté de nature. Cette tension le place au point médian, là où la nature humaine n'est ni bonne ni mauvaise mais éducable.",
+          "en": "Marcus oscillates: the <w id='meditations-marcus-aurelius'>morning meditation</w> forecasts meddling, ungrateful and violent men, an unillusioned look at conduct; yet he holds their fault to be a <dif>correctable ignorance</dif>, not a malice of nature. This tension places him at the median point, where human nature is neither good nor evil but educable."
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, II, 1", "en": "Meditations, II, 1" },
+          { "fr": "Pensées pour moi-même, IX, 42", "en": "Meditations, IX, 42" },
+          { "fr": "Pensées pour moi-même, XI, 18", "en": "Meditations, XI, 18" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MORAL_DEMAND",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.7 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'exigence est sans relâche : ne plus discourir sur ce que doit être l'homme de bien, mais l'être, à l'instant, sans délai ni excuse. Cet appel à l'effort de tous les moments, où chaque acte engage la <c>vertu</c> entière, relève d'un maximalisme moral, tempéré seulement par la <c id='dichotomy-of-control'>limite de ce qui dépend de nous</c>.",
+          "en": "The demand is unrelenting: to stop discoursing on what the good man should be, and to be one, now, without delay or excuse. This call to an effort of every instant, in which each act engages the whole of <c>virtue</c>, is a moral maximalism, tempered only by the <c id='dichotomy-of-control'>limit of what is up to us</c>."
+        },
+        "quote": {
+          "text": {
+            "fr": "Ne dissertons plus sur ce que doit être l'homme de bien : soyons-le.",
+            "en": "Waste no more time arguing what a good man should be. Be one."
+          },
+          "source": {
+            "fr": "Pensées pour moi-même, X, 16",
+            "en": "Meditations, X, 16"
+          }
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, V, 1", "en": "Meditations, V, 1" },
+          { "fr": "Pensées pour moi-même, X, 16", "en": "Meditations, X, 16" },
+          { "fr": "Pensées pour moi-même, XII, 1", "en": "Meditations, XII, 1" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HUMAN_PLACE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.15, 0.15, 0.7] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'homme n'est pas un empire dans un empire mais une partie du tout cosmique, apparenté à tous les êtres qui en procèdent : étant une partie, dit-il, je ne me plaindrai d'aucune part qui m'est assignée par le tout. Plus que maître ou gardien du monde, Marc Aurèle se voit membre parmi d'autres d'un seul grand vivant.",
+          "en": "Man is no empire within an empire but a part of the cosmic whole, akin to all the beings that issue from it: being a part, he says, I shall be discontented with nothing the whole assigns me. More than master or steward of the world, Marcus sees himself as one member among others of a single great living being."
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, X, 6", "en": "Meditations, X, 6" },
+          { "fr": "Pensées pour moi-même, IX, 9", "en": "Meditations, IX, 9" },
+          { "fr": "Pensées pour moi-même, IV, 40", "en": "Meditations, IV, 40" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "PUNISHMENT",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 0.2, 0.7, 0.1] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Devant celui qui faute, le premier geste de Marc Aurèle est de l'instruire et de lui montrer son erreur, car il agit par ignorance du bien ; à défaut, le supporter. La peine, s'il l'envisage, vise donc la correction de l'égaré bien plus que le châtiment de sa faute, dans l'esprit de la réhabilitation.",
+          "en": "Faced with the wrongdoer, Marcus's first move is to instruct him and show him his error, for he acts in ignorance of the good; failing that, to bear with him. Punishment, where he contemplates it, thus aims at correcting the strayed far more than at requiting his fault, in the spirit of rehabilitation."
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, IX, 42", "en": "Meditations, IX, 42" },
+          { "fr": "Pensées pour moi-même, V, 28", "en": "Meditations, V, 28" },
+          { "fr": "Pensées pour moi-même, XI, 18", "en": "Meditations, XI, 18" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "AUTHORITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.2 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Marc Aurèle loue chez son père adoptif <per>Antonin</per> un pouvoir mesuré, respectueux des lois et de la liberté des gouvernés, et se forme l'idée d'un État administré selon l'égalité et la liberté de parole. Détenteur de l'autorité suprême, il en conçoit l'exercice comme un service réglé plutôt que comme une domination, ce qui l'incline vers un <ax id='AUTHORITY'>constitutionnalisme</ax> tempérant l'autorité par la loi.",
+          "en": "Marcus praises in his adoptive father <per>Antoninus</per> a measured power, respectful of the laws and of the freedom of the governed, and forms the idea of a state administered by equality and freedom of speech. Holder of supreme authority, he conceives its exercise as a regulated service rather than a domination, which inclines him toward a <ax id='AUTHORITY'>constitutionalism</ax> that tempers authority by law."
+        },
+        "references": [
+          { "fr": "Pensées pour moi-même, I, 14", "en": "Meditations, I, 14" },
+          { "fr": "Pensées pour moi-même, I, 16", "en": "Meditations, I, 16" },
+          { "fr": "Pensées pour moi-même, VI, 30", "en": "Meditations, VI, 30" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MACHINE_MIND",
+      "status": "NOT_APPLICABLE",
+      "note": {
+        "fr": "Question anachronique : aucun texte des Pensées ne permet de positionner Marc Aurèle sur la pensée des machines sans extrapolation hasardeuse.",
+        "en": "An anachronistic question: nothing in the Meditations allows Marcus to be positioned on machine thought without hazardous extrapolation."
+      }
+    },
+    {
+      "axisId": "HUMAN_ENHANCEMENT",
+      "status": "NOT_APPLICABLE",
+      "note": {
+        "fr": "Le débat sur l'augmentation biotechnologique de l'humain est hors de l'horizon d'un empereur du IIᵉ siècle : la question est anachronique.",
+        "en": "The debate on the biotechnological enhancement of the human lies outside the horizon of a second-century emperor: the question is anachronistic."
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "INTERIORITY",
+      "thesis": {
+        "fr": "Tu n'as pas besoin de te retirer à la campagne ni au bord de la mer : à toute heure tu peux rentrer en toi-même, car nulle retraite n'est plus tranquille que sa propre <c id='hegemonikon'>âme</c>.",
+        "en": "You need no retreat in the country or by the sea: at any hour you can withdraw into yourself, for nowhere is there a calmer retreat than one's own <c id='hegemonikon'>soul</c>."
+      }
+    },
+    {
+      "axisId": "TIME_ORIENTATION",
+      "thesis": {
+        "fr": "Nul ne perd jamais d'autre vie que celle qu'il vit à l'instant : habite ce seul présent, fais-en bien l'unique tâche, car la gloire la plus durable, vue de haut, n'est qu'un souffle.",
+        "en": "No one ever loses any life but the one he lives at this instant: inhabit this present alone, do its one task well, for the most lasting fame, seen from above, is only a breath."
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "thesis": {
+        "fr": "Que le monde soit <c id='providence'>providence</c> ou simple tourbillon d'atomes, ton devoir ne change pas ; mais tout, en moi, atteste qu'une <c id='logos'>raison</c> ordonne le tout, et bien vivre, c'est m'accorder à cette nature.",
+        "en": "Whether the world is <c id='providence'>providence</c> or a mere swirl of atoms, your duty is unchanged; but everything in me attests that a <c id='logos'>reason</c> orders the whole, and to live well is to fall in with this nature."
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "thesis": {
+        "fr": "Tiens chaque jour la mort devant tes yeux : simple transformation de la nature, elle n'a rien de terrible, et c'est elle qui rend son prix à l'acte présent, à accomplir comme s'il était le dernier.",
+        "en": "Keep death daily before your eyes: a mere transformation of nature, it holds nothing terrible, and it is death that gives the present act its worth, to be done as if it were the last."
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "thesis": {
+        "fr": "Dès l'aurore, dis-toi que tu rencontreras l'ingrat, le violent, le fourbe : ils errent faute de discerner le bien du mal, ils sont tes parents par la <c id='logos'>raison</c>, et nul ne peut te nuire vraiment ni, donc, t'irriter.",
+        "en": "At dawn, tell yourself you will meet the ungrateful, the violent, the deceitful: they err for want of telling good from evil, they are your kin through <c id='logos'>reason</c>, and none can truly harm you, nor, therefore, anger you."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "wilt-chamberlain",
+  "title": {
+    "fr": "Wilt Chamberlain, la liberté contre l'égalité",
+    "en": "Wilt Chamberlain: Liberty against Equality"
+  },
+  "description": {
+    "fr": "Partons d'une société où les richesses sont réparties exactement comme vous la jugez juste, à parts égales si vous voulez. Un joueur de basket très admiré, Wilt Chamberlain, propose ses matchs ; un million de spectateurs, ravis, glissent chacun de leur plein gré une petite pièce pour le voir jouer. À la fin de la saison, il est devenu bien plus riche que tous les autres. Personne n'a été lésé, chacun a donné ce qu'il voulait, et pourtant la belle égalité du départ a disparu.",
+    "en": "Start from a society where wealth is distributed exactly as you judge just, in equal shares if you like. A much-admired basketball player, Wilt Chamberlain, offers his games; a million delighted spectators each freely drop a small coin to watch him play. By the end of the season he has become far richer than everyone else. No one was wronged, each gave what they wished, and yet the fine equality of the start has vanished."
+  },
+  "source": {
+    "author": {
+      "fr": "Nozick",
+      "en": "Nozick"
+    },
+    "work": {
+      "fr": "Anarchie, État et utopie",
+      "en": "Anarchy, State, and Utopia"
+    },
+    "year": 1974
+  },
+  "question": {
+    "fr": "Cette nouvelle inégalité est-elle injuste ? Et pour la corriger, faudrait-il interdire à des gens d'utiliser librement ce qui leur appartient ?",
+    "en": "Is this new inequality unjust? And to correct it, would we have to forbid people from freely using what belongs to them?"
+  },
+  "axisIds": ["DISTRIBUTIVE_JUSTICE"],
+  "options": [
+    {
+      "id": "free-transfers-just",
+      "label": {
+        "fr": "Rien d'injuste : si le départ était juste et chaque transfert libre, le résultat l'est aussi ; corriger reviendrait à interdire des échanges volontaires.",
+        "en": "Nothing unjust: if the starting point was just and each transfer free, so is the result; correcting it would mean banning voluntary exchanges."
+      },
+      "hints": [
+        { "axisId": "DISTRIBUTIVE_JUSTICE", "value": { "kind": "scalar", "value": 1 } }
+      ],
+      "discussion": {
+        "fr": "<ph id='nozick'>Nozick</ph> : « la liberté défait les schémas », la justice tient à l'origine des possessions.",
+        "en": "<ph id='nozick'>Nozick</ph>: \"liberty upsets patterns\"; justice depends on how holdings arose."
+      }
+    },
+    {
+      "id": "decent-floor",
+      "label": {
+        "fr": "Tant que nul ne tombe sous un seuil décent, ces écarts ne me choquent pas : c'est la misère, pas l'inégalité, qu'il faut empêcher.",
+        "en": "As long as no one falls below a decent floor, these gaps do not trouble me: it is destitution, not inequality, that must be prevented."
+      },
+      "hints": [
+        { "axisId": "DISTRIBUTIVE_JUSTICE", "value": { "kind": "scalar", "value": 0 } }
+      ],
+      "discussion": {
+        "fr": "le suffisantarisme : l'important est le plancher, pas l'écart.",
+        "en": "sufficientarianism: what matters is the floor, not the gap."
+      }
+    },
+    {
+      "id": "benefit-worst-off",
+      "label": {
+        "fr": "De tels écarts ne sont acceptables que s'ils profitent aussi aux plus défavorisés, par exemple par l'impôt ; sinon il faut les corriger.",
+        "en": "Such gaps are acceptable only if they also benefit the least advantaged, through taxation for instance; otherwise they should be corrected."
+      },
+      "hints": [
+        { "axisId": "DISTRIBUTIVE_JUSTICE", "value": { "kind": "scalar", "value": -0.5 } }
+      ],
+      "discussion": {
+        "fr": "<ph id='rawls'>Rawls</ph> : l'inégalité n'est juste que si elle améliore le sort des plus mal lotis.",
+        "en": "<ph id='rawls'>Rawls</ph>: inequality is just only if it improves the lot of the worst off."
+      }
+    },
+    {
+      "id": "continual-correction",
+      "label": {
+        "fr": "Une société juste ne laisse pas de tels écarts se creuser : il faut les corriger en continu vers l'égalité.",
+        "en": "A just society does not let such gaps widen: they must be continually corrected back toward equality."
+      },
+      "hints": [
+        { "axisId": "DISTRIBUTIVE_JUSTICE", "value": { "kind": "scalar", "value": -1 } }
+      ],
+      "discussion": {
+        "fr": "l'égalitarisme strict : l'égalité doit être maintenue, non figée au départ.",
+        "en": "strict egalitarianism: equality must be maintained, not fixed once at the start."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-26T00:00:00.000Z"
+}

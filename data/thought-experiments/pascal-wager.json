@@ -1,0 +1,73 @@
+{
+  "id": "pascal-wager",
+  "title": {
+    "fr": "Le pari de Pascal",
+    "en": "Pascal's Wager"
+  },
+  "description": {
+    "fr": "Vous ignorez si Dieu existe : la raison, dit Pascal, ne peut ni le prouver ni le réfuter. Mais vous ne pouvez pas vous abstenir, car vivre comme s'il n'existait pas, c'est déjà avoir misé contre. Alors pesez la mise. Si vous pariez sur Dieu et qu'il existe, vous gagnez une éternité de bonheur ; s'il n'existe pas, vous n'aurez renoncé qu'à peu de chose, quelques plaisirs d'une vie finie. Si vous pariez contre et qu'il existe, vous perdez ce bonheur infini. Or un gain infini, même peu probable, l'emporte sur tout enjeu fini : parier sur son existence serait donc le choix le plus raisonnable, non parce qu'il serait vrai, mais parce qu'il serait le plus avantageux.",
+    "en": "You cannot know whether God exists: reason, says Pascal, can neither prove nor disprove it. Yet you cannot abstain, for to live as though God did not exist is already to have bet against. So weigh the stakes. Bet on God, and if God exists you win an eternity of happiness; if not, you will have given up little, a few pleasures of a finite life. Bet against, and if God exists you lose that infinite happiness. But an infinite gain, however unlikely, outweighs any finite stake: to bet on God's existence would thus be the most reasonable choice, not because it is true, but because it pays best."
+  },
+  "source": {
+    "author": {
+      "fr": "Pascal",
+      "en": "Pascal"
+    },
+    "work": {
+      "fr": "Pensées",
+      "en": "Pensées"
+    },
+    "year": 1670
+  },
+  "question": {
+    "fr": "Un avantage peut-il tenir lieu de raison de croire ? Et peut-on seulement décider de croire ce dont on n'est pas convaincu ?",
+    "en": "Can an advantage stand in for a reason to believe? And can one even decide to believe what one is not convinced of?"
+  },
+  "axisIds": ["GOD_EXISTENCE", "BELIEF_ETHICS"],
+  "options": [
+    {
+      "id": "wise-bet",
+      "label": {
+        "fr": "Le pari est raisonnable : un bonheur éternel, même incertain, vaut infiniment plus que les quelques renoncements d'une vie finie ; devant un tel écart, miser sur Dieu s'impose.",
+        "en": "The wager is reasonable: an eternal happiness, even if uncertain, is worth infinitely more than the few renunciations of a finite life; faced with such a gap, betting on God is the obvious move."
+      },
+      "hints": [
+        { "axisId": "GOD_EXISTENCE", "value": { "kind": "scalar", "value": -0.5 }, "weight": 0.5 },
+        { "axisId": "BELIEF_ETHICS", "value": { "kind": "scalar", "value": 0.5 } }
+      ],
+      "discussion": {
+        "fr": "<ph id='pascal'>Pascal</ph> : le calcul des enjeux, un gain infini l'emporte sur une mise finie.",
+        "en": "<ph id='pascal'>Pascal</ph>: the calculus of stakes, an infinite gain outweighs a finite wager."
+      }
+    },
+    {
+      "id": "cannot-will-belief",
+      "label": {
+        "fr": "On ne choisit pas de croire : la conviction ne se commande pas plus que l'amour.",
+        "en": "One does not choose to believe: conviction can no more be willed than love."
+      },
+      "hints": [
+        { "axisId": "BELIEF_ETHICS", "value": { "kind": "scalar", "value": -0.5 } }
+      ],
+      "discussion": {
+        "fr": "l'objection du volontarisme doxastique : croire n'est pas un acte de volonté.",
+        "en": "the objection from doxastic voluntarism: believing is not an act of will."
+      }
+    },
+    {
+      "id": "which-god",
+      "label": {
+        "fr": "Quel Dieu ? Le calcul vaudrait pour mille religions rivales sans dire laquelle choisir.",
+        "en": "Which God? The calculation would hold for a thousand rival religions without saying which to choose."
+      },
+      "hints": [
+        { "axisId": "GOD_EXISTENCE", "value": { "kind": "scalar", "value": 0 }, "weight": 0.5 }
+      ],
+      "discussion": {
+        "fr": "l'objection des dieux multiples : le pari ne désigne aucun Dieu en particulier.",
+        "en": "the many-gods objection: the wager points to no God in particular."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-26T00:00:00.000Z"
+}

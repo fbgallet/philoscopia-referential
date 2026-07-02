@@ -1,0 +1,16 @@
+{
+  "id": "aristotle-to-boethius",
+  "from": { "kind": "PHILOSOPHER", "slug": "aristotle" },
+  "to": { "kind": "PHILOSOPHER", "slug": "boethius" },
+  "directness": "ATTESTED",
+  "mode": "TRANSMITS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='boethius'>Boèce</ph> se donne pour tâche de traduire et commenter l'Organon d'<ph id='aristotle'>Aristote</ph> : il en fera le seul Aristote logique connu du haut Moyen Âge latin.",
+    "en": "<ph id='boethius'>Boethius</ph> set himself the task of translating and commenting on <ph id='aristotle'>Aristotle</ph>'s Organon: he thereby became the only logical Aristotle known to the early Latin Middle Ages."
+  },
+  "sources": [
+    { "fr": "Boèce, traductions et commentaires de l'Organon d'Aristote", "en": "Boethius, translations and commentaries on Aristotle's Organon" }
+  ],
+  "updatedAt": "2026-07-02T00:00:00.000Z"
+}

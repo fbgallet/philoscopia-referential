@@ -1,0 +1,13 @@
+{
+  "id": "master-slave-morality",
+  "term": { "fr": "Morale des maîtres et des esclaves", "en": "Master and slave morality" },
+  "definition": {
+    "fr": "Dans la <w id='on-the-genealogy-of-morality-nietzsche'>Généalogie de la morale</w>, <ph id='nietzsche'>Nietzsche</ph> distingue deux origines de nos valeurs. La morale des maîtres part de soi : elle nomme « bon » ce qui est noble, fort, affirmatif, et « mauvais » ce qui est faible. La morale des esclaves naît au contraire du <c id='ressentiment'>ressentiment</c> : elle commence par condamner le puissant comme « méchant » pour se dire ensuite « bonne », inversant ainsi les valeurs. Selon le point de vue d'où l'on juge, le « bien » ne désigne donc pas la même chose.",
+    "en": "In <w id='on-the-genealogy-of-morality-nietzsche'>On the Genealogy of Morals</w>, <ph id='nietzsche'>Nietzsche</ph> distinguishes two origins of our values. Master morality starts from itself: it calls \"good\" what is noble, strong, and affirmative, and \"bad\" what is weak. Slave morality, by contrast, is born of <c id='ressentiment'>ressentiment</c>: it begins by condemning the powerful as \"evil\" in order then to call itself \"good\", thereby inverting values. Depending on the standpoint from which one judges, \"good\" thus no longer names the same thing."
+  },
+  "relatedAxes": ["ETHICS_FOUNDATION", "MORAL_SCOPE"],
+  "relatedTerms": ["ressentiment"],
+  "figure": { "slug": "nietzsche", "name": { "fr": "Nietzsche", "en": "Nietzsche" } },
+  "positions": [{ "axisId": "MORAL_SCOPE", "poleId": "RELATIVISM" }],
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

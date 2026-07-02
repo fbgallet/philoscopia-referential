@@ -1,0 +1,79 @@
+{
+  "id": "MACHINE_MIND",
+  "relation": "WORLD",
+  "territory": "MIND_CONSCIOUSNESS",
+  "label": {
+    "fr": "Une machine peut-elle penser",
+    "en": "Can a machine think"
+  },
+  "question": {
+    "fr": "Une machine pourrait-elle un jour véritablement penser ?",
+    "en": "Could a machine ever truly think?"
+  },
+  "stakes": {
+    "fr": "Si penser n'est qu'une affaire de fonction, peu importe la matière, alors une machine pourrait penser pour de bon, et nous lui devrions peut-être quelque chose ; s'il y faut de la chair vivante, la machine la plus brillante ne fait qu'imiter. Se positionner, c'est dire ce qui fait un esprit, et ce que nous reconnaîtrions à une machine qui semble penser.",
+    "en": "If thinking is only a matter of function, the material being beside the point, then a machine could genuinely think, and we might owe it something; if it takes living flesh, even the most brilliant machine merely imitates. To take a position is to say what makes a mind, and what we would grant a machine that seems to think."
+  },
+  "layer": "THEORY",
+  "type": "BIPOLAR",
+  "poles": [
+    {
+      "id": "FUNCTIONALISM",
+      "label": {
+        "fr": "Fonctionnalisme",
+        "en": "Functionalism"
+      },
+      "description": {
+        "fr": "Penser, c'est traiter de l'information d'une certaine manière, quel que soit le support qui réalise ce traitement. Si une machine accomplit les mêmes fonctions qu'un cerveau, rien ne permet de lui refuser la pensée.",
+        "en": "To think is to process information in a certain way, whatever the substrate that carries out this processing. If a machine performs the same functions as a brain, there is no ground for denying that it thinks."
+      },
+      "figures": [
+        {
+          "slug": "turing",
+          "name": {
+            "fr": "Turing",
+            "en": "Turing"
+          }
+        },
+        {
+          "slug": "dennett",
+          "name": {
+            "fr": "Dennett",
+            "en": "Dennett"
+          }
+        }
+      ]
+    },
+    {
+      "id": "BIOLOGICAL_NATURALISM",
+      "label": {
+        "fr": "Biologisme de la conscience",
+        "en": "Biological naturalism"
+      },
+      "description": {
+        "fr": "Manipuler des symboles ne suffit pas à penser : un programme peut simuler la compréhension sans rien comprendre. La conscience est un phénomène biologique, produit par les propriétés causales propres du cerveau vivant.",
+        "en": "Manipulating symbols is not enough to think: a program can simulate understanding without understanding anything. Consciousness is a biological phenomenon, produced by the specific causal powers of the living brain."
+      },
+      "figures": [
+        {
+          "slug": "searle",
+          "name": {
+            "fr": "Searle",
+            "en": "Searle"
+          }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 2,
+  "clusters": [
+    "SCIENTIFIC_NATURALISM"
+  ],
+  "relatedAxes": [
+    "CONSCIOUSNESS_NATURE",
+    "REALITY_NATURE",
+    "REDUCTION_EMERGENCE",
+    "MORAL_CIRCLE"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "FUTURE_GENERATIONS",
+  "relation": "WORLD",
+  "territory": "NATURE_LIVING",
+  "label": {
+    "fr": "Générations futures",
+    "en": "Future generations"
+  },
+  "question": {
+    "fr": "Avons-nous des devoirs envers les générations futures ?",
+    "en": "Do we have duties toward future generations?"
+  },
+  "stakes": {
+    "fr": "Peut-on devoir quelque chose à des êtres qui n'existent pas encore, ne réclament rien, et que nos choix feront naître tels ou tels ? Leur faire une place peut peser lourd sur les vivants ; les ignorer, c'est hypothéquer un monde que nous ne verrons pas. Se positionner, c'est dire jusqu'où notre responsabilité s'étend dans le temps.",
+    "en": "Can we owe anything to beings who do not yet exist, who claim nothing, and whom our choices will bring into being as they will be? Making room for them can weigh heavily on the living; ignoring them means mortgaging a world we will never see. To take a position is to say how far our responsibility extends in time."
+  },
+  "layer": "VALUE",
+  "type": "BIPOLAR",
+  "poles": [
+    {
+      "id": "RESPONSIBILITY_PRINCIPLE",
+      "label": {
+        "fr": "Principe responsabilité",
+        "en": "Responsibility principle"
+      },
+      "description": {
+        "fr": "Notre puissance d'agir s'étend désormais aux conditions de vie des générations à venir : nous avons le devoir d'agir de façon que les effets de nos actions soient compatibles avec la permanence d'une vie authentiquement humaine sur Terre. L'avenir lointain entre dans le champ de la morale.",
+        "en": "Our power to act now extends to the living conditions of generations to come: we have a duty to act so that the effects of our actions remain compatible with the permanence of genuinely human life on Earth. The distant future enters the scope of morality."
+      },
+      "figures": [
+        {
+          "slug": "jonas",
+          "name": {
+            "fr": "Jonas",
+            "en": "Jonas"
+          }
+        }
+      ]
+    },
+    {
+      "id": "PRESENT_PRIORITY",
+      "label": {
+        "fr": "Priorité au présent",
+        "en": "Priority to the present"
+      },
+      "description": {
+        "fr": "Nos obligations vont d'abord aux personnes qui existent ici et maintenant : leurs besoins sont réels et urgents, tandis que les intérêts d'individus futurs restent hypothétiques et incertains. Sacrifier le présent à un avenir lointain serait injuste envers les vivants.",
+        "en": "Our obligations are owed first to the people who exist here and now: their needs are real and urgent, whereas the interests of future individuals remain hypothetical and uncertain. Sacrificing the present to a distant future would be unjust to the living."
+      },
+      "figures": [],
+      "orphan": true
+    }
+  ],
+  "core": false,
+  "difficulty": 1,
+  "clusters": [
+    "MORAL_EXPANSION"
+  ],
+  "relatedAxes": [
+    "HUMAN_PLACE_NATURE",
+    "MORAL_CIRCLE",
+    "CONSERVATISM_PROGRESSISM"
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "ATTENTION",
+  "relation": "SELF",
+  "territory": "PRESENCE",
+  "label": {
+    "fr": "Attention et divertissement",
+    "en": "Attention and diversion"
+  },
+  "question": {
+    "fr": "Se divertir, est-ce fuir ce qui compte ou un art de vivre ?",
+    "en": "Is diverting oneself a flight from what matters, or an art of living?"
+  },
+  "stakes": {
+    "fr": "Nous passons une part croissante de nos vies à nous divertir, et des industries entières se disputent désormais chaque minute de notre attention. Fuite devant ce qui compte, ou art d'habiter une existence que nul ne peut vivre en permanence face à l'essentiel ? Se positionner, c'est dire ce que valent les heures qu'on ne consacre à rien d'important.",
+    "en": "We spend a growing share of our lives diverting ourselves, and whole industries now compete for every minute of our attention. A flight from what matters, or the art of inhabiting a life no one can spend forever face to face with the essential? To take a position is to say what the hours we give to nothing important are worth."
+  },
+  "layer": "VALUE",
+  "type": "BIPOLAR",
+  "poles": [
+    {
+      "id": "RECOLLECTION",
+      "label": {
+        "fr": "Recueillement",
+        "en": "Recollection"
+      },
+      "description": {
+        "fr": "Le divertissement est une fuite : ce qui compte, notre condition, la mort, ce qui nous est confié, demande d'être regardé en face, et la diversion nous en détourne précisément quand cela pèse. La réponse est le recueillement : rassembler son attention, se rendre présent à l'essentiel, fût-il inconfortable, plutôt que de s'étourdir.",
+        "en": "Diversion is a flight: what matters, our condition, death, what is entrusted to us, asks to be faced, and diversion turns us away from it precisely when it weighs. The response is recollection: to gather one's attention and become present to the essential, however uncomfortable, rather than to numb oneself."
+      },
+      "figures": [
+        {
+          "slug": "simone-weil",
+          "name": {
+            "fr": "Simone Weil",
+            "en": "Simone Weil"
+          }
+        },
+        {
+          "slug": "pascal",
+          "name": {
+            "fr": "Pascal",
+            "en": "Pascal"
+          }
+        }
+      ],
+      "nuances": [
+        {
+          "fr": "Pascal : le divertissement est à la fois un aveuglement et une consolation inévitable de la misère sans Dieu ; sa critique vise ce qu'il empêche, chercher, non le plaisir lui-même.",
+          "en": "Pascal: diversion is at once a blindness and an unavoidable consolation for misery without God; his critique targets what it prevents, seeking, not the pleasure itself."
+        }
+      ]
+    },
+    {
+      "id": "DIVERSION",
+      "label": {
+        "fr": "Diversion assumée",
+        "en": "Diversion embraced"
+      },
+      "description": {
+        "fr": "Se divertir n'est pas trahir sa vie, c'est la rendre habitable : nul ne peut regarder en permanence la mort ou le malheur en face, et la diversion soulage, guérit parfois, remet en mouvement. Savoir se distraire, changer d'objet, jouer, converser, est un art de vivre et une sagesse, non une faiblesse dont il faudrait rougir.",
+        "en": "To divert oneself is not to betray one's life but to make it livable: no one can stare forever at death or misfortune, and diversion relieves, sometimes heals, sets us moving again. Knowing how to be distracted, to change objects, to play, to converse, is an art of living and a wisdom, not a weakness to blush at."
+      },
+      "figures": [
+        {
+          "slug": "montaigne",
+          "name": {
+            "fr": "Montaigne",
+            "en": "Montaigne"
+          }
+        },
+        {
+          "slug": "hume",
+          "name": {
+            "fr": "Hume",
+            "en": "Hume"
+          }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 1,
+  "clusters": [
+    "WISDOM_ACCEPTANCE"
+  ],
+  "relatedAxes": [
+    "INTERIORITY",
+    "TIME_ORIENTATION",
+    "HUMAN_VISION",
+    "TECHNOLOGY"
+  ],
+  "problems": [
+    {
+      "id": "pascal-restlessness",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "l'homme au repos", "en": "the person at rest" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "repos", "en": "rest" },
+        { "fr": "ennui", "en": "boredom" },
+        { "fr": "misère de la condition", "en": "misery of the condition" }
+      ],
+      "poles": ["RECOLLECTION"],
+      "anchors": [
+        { "name": { "fr": "Pascal", "en": "Pascal" }, "kind": "PHILOSOPHER", "slug": "pascal" }
+      ],
+      "doorways": [{ "axis": "HUMAN_VISION" }],
+      "title": { "fr": "Pourquoi ne supportons-nous pas le repos ?", "en": "Why can we not bear rest?" },
+      "explicitation": {
+        "fr": "« Tout le malheur des hommes vient d'une seule chose, qui est de ne savoir pas demeurer en repos dans une chambre » : si nous fuyons le calme, est-ce la misère de notre condition qui remonte dès que le bruit cesse, comme le diagnostique Pascal, ou l'esprit est-il simplement fait pour le mouvement plus que pour le face-à-face avec soi ?",
+        "en": "\"All of humanity's unhappiness comes from one thing, not knowing how to stay quietly in a room\": if we flee calm, is it the misery of our condition surfacing the moment the noise stops, as Pascal diagnoses, or is the mind simply made for movement rather than for facing itself?"
+      }
+    },
+    {
+      "id": "captured-attention",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "les dispositifs de captation", "en": "attention-capturing devices" },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "EXISTENTIAL",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "économie de l'attention", "en": "attention economy" },
+        { "fr": "captation", "en": "capture" },
+        { "fr": "temps de cerveau disponible", "en": "available brain time" }
+      ],
+      "poles": ["DIVERSION"],
+      "anchors": [
+        { "name": { "fr": "l'économie de l'attention", "en": "the attention economy" }, "kind": "TRADITION" }
+      ],
+      "doorways": [{ "axis": "TECHNOLOGY" }],
+      "title": { "fr": "L'attention captée", "en": "Captured attention" },
+      "explicitation": {
+        "fr": "Quand des dispositifs entiers sont conçus pour capter chaque minute disponible, se divertir est-il encore un choix qu'on assume, ou faut-il défendre son attention comme un bien rare, la diversion cessant d'être un art dès qu'elle est administrée ?",
+        "en": "When entire devices are designed to capture every available minute, is diverting oneself still a choice one owns, or must attention be defended as a scarce good, diversion ceasing to be an art the moment it is administered?"
+      }
+    }
+  ]
+}

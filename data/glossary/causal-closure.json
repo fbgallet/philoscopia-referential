@@ -1,0 +1,11 @@
+{
+  "id": "causal-closure",
+  "term": { "fr": "Clôture causale", "en": "Causal closure" },
+  "definition": {
+    "fr": "La clôture causale est la thèse selon laquelle le monde physique forme une chaîne de causes complète : tout effet physique a une cause elle-même physique, sans intervention venue d'un autre ordre de réalité. Elle est une pièce maîtresse du <c id='determinism'>déterminisme</c> appliqué à nos décisions, puisque le cerveau qui délibère appartient à cet ordre physique. En philosophie de l'esprit, elle pèse aussi contre l'idée d'une âme immatérielle qui agirait sur le corps : si rien ne manque du côté des causes physiques, une cause d'un autre genre n'aurait nulle part où s'insérer. Elle n'entraîne pourtant pas à elle seule que tout soit joué d'avance : encore faut-il savoir si ces causes fixent une issue unique ou laissent du jeu.",
+    "en": "Causal closure is the thesis that the physical world forms a complete chain of causes: every physical effect has a cause that is itself physical, with no intervention from some other order of reality. It is a cornerstone of <c id='determinism'>determinism</c> as applied to our decisions, since the brain that deliberates belongs to that physical order. In the philosophy of mind, it also tells against the idea of an immaterial soul acting on the body: if nothing is missing on the side of physical causes, a cause of another kind would have nowhere to insert itself. Yet it does not by itself entail that everything is settled in advance: it remains to be seen whether those causes fix a single outcome or leave some play."
+  },
+  "relatedAxes": ["FREEDOM", "CAUSALITY", "CONSCIOUSNESS_NATURE", "REDUCTION_EMERGENCE"],
+  "relatedTerms": ["determinism", "indeterminism", "principle-of-sufficient-reason", "free-will"],
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

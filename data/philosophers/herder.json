@@ -1,0 +1,16 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "herder",
+  "name": { "fr": "Herder", "en": "Herder" },
+  "summary": {
+    "fr": "Philosophe et théologien allemand, figure de proue des anti-Lumières : il soutient que chaque peuple a son génie propre, inscrit dans sa langue et ses traditions, et que l'humanité n'existe qu'au pluriel de ses cultures.",
+    "en": "German philosopher and theologian, a leading figure of the Counter-Enlightenment: he holds that each people has its own genius, inscribed in its language and traditions, and that humanity exists only in the plural of its cultures."
+  },
+  "nationality": { "fr": "Allemand", "en": "German" },
+  "birth": 1744,
+  "death": 1803,
+  "movements": ["romanticism"],
+  "updatedAt": "2026-06-26T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

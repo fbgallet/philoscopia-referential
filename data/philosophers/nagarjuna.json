@@ -1,0 +1,569 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "nagarjuna",
+  "name": {
+    "fr": "Nāgārjuna",
+    "en": "Nāgārjuna"
+  },
+  "tagline": {
+    "fr": "Tout est <c id='sunyata'>vide (śūnyatā, vacuité)</c> de <c id='svabhava'>nature propre (svabhāva)</c> : c'est la <c id='pratityasamutpada'>coproduction conditionnée</c> qui tient lieu d'essence.",
+    "en": "Everything is <c id='sunyata'>empty (śūnyatā, emptiness)</c> of <c id='svabhava'>inherent existence (svabhāva)</c>: <c id='pratityasamutpada'>dependent origination</c> stands in place of essence."
+  },
+  "summary": {
+    "fr": "Penseur indien du <mv id='buddhism'>bouddhisme</mv> mahāyāna, actif vers 150-250 de notre ère (dates incertaines), tenu pour le fondateur de l'école <c id='the-middle-way'>Madhyamaka (la Voie du Milieu)</c>, l'un des deux grands courants philosophiques du Mahāyāna. Son œuvre maîtresse, les <w>Stances du milieu par excellence (Mūlamadhyamakakārikā)</w>, mène une critique serrée, chapitre après chapitre, des catégories que les écoles bouddhiques antérieures, en particulier l'Abhidharma, tenaient pour les composants ultimes du réel. Là où le <ph id='buddha'>Bouddha</ph> visait surtout la délivrance du <c id='dukkha'>mal-être (duḥkha)</c>, Nāgārjuna en tire les conséquences logiques et métaphysiques, au risque que sa critique paraisse tout dissoudre, d'où l'objection sceptique à laquelle répond la <w>Vigrahavyāvartanī (Réfutation des objections)</w>. Commenté par <c>Candrakīrti</c> et Bhāviveka, il devient une référence centrale du bouddhisme tibétain, où le Madhyamaka est l'aboutissement du cursus philosophique, comme du bouddhisme d'Asie de l'Est, dont l'école <c>Sanlun</c> (les « Trois Traités ») prolonge sa pensée en Chine.",
+    "en": "Indian thinker of Mahāyāna <mv id='buddhism'>Buddhism</mv>, active around 150-250 CE (dates uncertain), regarded as the founder of the <c id='the-middle-way'>Madhyamaka (the Middle Way)</c> school, one of the two great philosophical currents of the Mahāyāna. His masterwork, the <w>Fundamental Verses on the Middle Way (Mūlamadhyamakakārikā)</w>, mounts a tight, chapter-by-chapter critique of the categories that the earlier Buddhist schools, the Abhidharma above all, held to be the ultimate constituents of the real. Where the <ph id='buddha'>Buddha</ph> aimed chiefly at release from <c id='dukkha'>dis-ease (duḥkha)</c>, Nāgārjuna draws out its logical and metaphysical consequences, at the risk of seeming to dissolve everything, hence the skeptical objection answered in the <w>Vigrahavyāvartanī (The Dispeller of Disputes)</w>. Commented on by <c>Candrakīrti</c> and Bhāviveka, he became a central reference for Tibetan Buddhism, where Madhyamaka crowns the philosophical curriculum, and for East Asian Buddhism, whose Sanlun (the \"Three Treatises\") school carried his thought into China."
+  },
+  "birth": 150,
+  "death": 250,
+  "nationality": {
+    "fr": "Indien",
+    "en": "Indian"
+  },
+  "movements": [
+    "buddhism"
+  ],
+  "entries": [
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0,
+          0.4,
+          0.5
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le Mahayana de Nagarjuna place au sommet l'idéal du <c>bodhisattva</c>, qui renonce à sa propre extinction tant que tous les êtres ne sont pas délivrés : la <c>compassion</c> universelle, indissociable de la sagesse de la vacuité, devient le ressort de toute l'éthique. Un souci d'autrui sans limite, porté par la vertu, prime sur toute règle ou tout calcul.",
+          "en": "Nagarjuna's Mahayana places at the summit the ideal of the <c>bodhisattva</c>, who renounces his own extinction until all beings are delivered: universal <c>compassion</c>, inseparable from the wisdom of emptiness, becomes the spring of the whole of ethics. A boundless concern for others, borne by virtue, prevails over any rule or calculation."
+        },
+        "references": [
+          {
+            "fr": "Précieuse Guirlande (Ratnāvalī)",
+            "en": "Precious Garland (Ratnāvalī)"
+          },
+          {
+            "fr": "Shantideva, Bodhicaryāvatāra",
+            "en": "Shantideva, Bodhicaryāvatāra"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.3,
+          0.3,
+          0.4,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Nagarjuna reprend la vue bouddhiste de la mort comme passage dans le cycle des renaissances, mais la lit à la lumière de la vacuité : naissance et mort sont elles-mêmes vides de nature propre. La mort n'est donc ni un terme absolu ni la survie d'une âme, mais une transition conditionnée, une étape parmi d'autres, jusqu'à ce que la sagesse défasse le cycle. Position d'équilibre, sans le pôle du refus.",
+          "en": "Nagarjuna takes up the Buddhist view of death as a passage within the cycle of rebirths, but reads it in the light of emptiness: birth and death are themselves empty of inherent nature. Death is therefore neither an absolute terminus nor the survival of a soul, but a conditioned transition, one stage among others, until wisdom undoes the cycle. A balanced position, without the pole of refusal."
+        },
+        "references": [
+          {
+            "fr": "Stances du milieu (Mūlamadhyamakakārikā), XXV",
+            "en": "Fundamental Verses on the Middle Way (Mūlamadhyamakakārikā), XXV"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.05,
+          0.25,
+          0.7
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le souverain bien reste, pour Nagarjuna, la <c>libération</c> (nirvana), mais comprise à la lumière de la vacuité : voir que le samsara et le nirvana sont également vides, c'est cesser de saisir et se libérer. La voie du bodhisattva y joint la <c>compassion</c> pour tous les êtres. Une perfection spirituelle par la sagesse, au-delà du plaisir comme de la simple vertu mondaine.",
+          "en": "The highest good remains, for Nagarjuna, <c>liberation</c> (nirvana), but understood in the light of emptiness: to see that samsara and nirvana are equally empty is to cease grasping and to be freed. The bodhisattva path adds to this <c>compassion</c> for all beings. A spiritual perfection through wisdom, beyond pleasure as much as beyond mere worldly virtue."
+        },
+        "references": [
+          {
+            "fr": "Stances du milieu (Mūlamadhyamakakārikā), XXV",
+            "en": "Fundamental Verses on the Middle Way (Mūlamadhyamakakārikā), XXV"
+          },
+          {
+            "fr": "Précieuse Guirlande (Ratnāvalī)",
+            "en": "Precious Garland (Ratnāvalī)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "NOT_APPLICABLE",
+      "note": {
+        "fr": "L'antinomie du libre arbitre et du déterminisme présuppose des agents et des causes dotés d'existence propre (svabhava), que le Madhyamaka tient pour vides. Conventionnellement, le karma et l'action opèrent ; ultimement, ni une volonté autonome ni une chaîne causale rigide ne sont réelles. Trancher pour un pôle reviendrait à réifier ce que la doctrine des <c>deux vérités</c> dissout.",
+        "en": "The antinomy of free will and determinism presupposes agents and causes endowed with inherent existence (svabhava), which Madhyamaka holds to be empty. Conventionally, karma and action operate; ultimately, neither an autonomous will nor a rigid causal chain is real. To settle on a pole would reify what the doctrine of the <c>two truths</c> dissolves."
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "NOT_APPLICABLE",
+      "note": {
+        "fr": "Le Madhyamaka de Nagarjuna ne se situe pas sur l'axe empirisme/rationalisme : il met en cause les <c>moyens de connaissance</c> (pramāṇa) eux-mêmes, refusant qu'aucun, perception ou raisonnement, soit auto-fondé. La connaissance conventionnelle s'appuie sur l'usage et l'expérience ordinaires, mais la vérité ultime procède d'une analyse dialectique qui dissout toute thèse positive, y compris épistémologique. Forcer une source unique trahirait la doctrine des <c>deux vérités</c>.",
+        "en": "Nagarjuna's Madhyamaka does not sit on the empiricism / rationalism axis: it calls into question the <c>means of knowledge</c> (pramāṇa) themselves, denying that any, perception or reasoning, is self-established. Conventional knowledge rests on ordinary usage and experience, but ultimate truth proceeds from a dialectical analysis that dissolves every positive thesis, epistemology included. Forcing a single source would betray the doctrine of the <c>two truths</c>."
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'argument est un <stk>raisonnement par l'absurde sur la notion même d'essence</stk> : une <c id='svabhava'>nature propre</c> (svabhāva, l'essence qui ferait qu'une chose serait par elle-même, indépendamment du reste) devrait, par définition, être non produite et invariable ; or tout ce que nous rencontrons naît de causes et de conditions, donc varie. Une essence engendrée serait fabriquée, ce qui contredit son concept. Nāgārjuna retourne ainsi contre l'Abhidharma sa propre analyse : les écoles substantialistes décomposaient les choses en facteurs ultimes (dharma) dotés de nature propre ; il montre que ces facteurs, étant eux-mêmes conditionnés, sont à leur tour <c id='sunyata'>vides (śūnyatā)</c>. <dif>Il faut le distinguer de l'existentialisme</dif> : la chose n'est pas vide d'essence pour se créer librement, mais parce que l'idée d'une essence fixe est incohérente.",
+          "en": "The argument is a <stk>reductio on the very notion of essence</stk>: an <c id='svabhava'>inherent existence</c> (svabhāva, the essence by which a thing would be of itself, independently of everything else) would, by definition, have to be unproduced and unchanging; yet everything we meet arises from causes and conditions, and so changes. An essence that came to be would be fabricated, which contradicts its concept. Nāgārjuna thus turns the Abhidharma's own analysis against it: the substantialist schools resolved things into ultimate factors (dharmas) endowed with inherent existence; he shows that these factors, being themselves conditioned, are in turn <c id='sunyata'>empty (śūnyatā)</c>. <dif>It must be distinguished from existentialism</dif>: the thing is empty of essence not so that it may freely create itself, but because the notion of a fixed essence is incoherent."
+        },
+        "references": [
+          {
+            "fr": "Mūlamadhyamakakārikā (Stances du milieu par excellence), ch. XV (l'examen de la nature propre)",
+            "en": "Mūlamadhyamakakārikā (Fundamental Verses on the Middle Way), ch. XV (the examination of svabhāva)"
+          },
+          {
+            "fr": "Mūlamadhyamakakārikā, ch. XXIV (l'examen des Nobles Vérités)",
+            "en": "Mūlamadhyamakakārikā, ch. XXIV (the examination of the Noble Truths)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Que la nature propre puisse être produite par des causes et des conditions, cela n'a pas de sens : produite par des causes et des conditions, la nature propre serait fabriquée.",
+            "en": "It is not tenable that inherent existence should arise from causes and conditions: an inherent existence arisen from causes and conditions would be something fabricated."
+          },
+          "source": {
+            "fr": "Mūlamadhyamakakārikā, XV, 1-2",
+            "en": "Mūlamadhyamakakārikā, XV, 1-2"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'analyse bouddhique classique dissolvait la personne en agrégats (corps, sensations, perceptions, formations, conscience), mais traitait ces agrégats comme les éléments ultimes du réel. Nāgārjuna objecte que la critique s'est arrêtée trop tôt : appliqué à la relation du feu et du combustible, son examen montre que le sujet et ses constituants ne sont ni identiques ni séparés, donc dépourvus de <c id='svabhava'>nature propre</c>. Le <c id='anatta'>non-soi (anattā)</c> vaut alors aussi des agrégats eux-mêmes, à leur tour <c id='sunyata'>vides (śūnyatā)</c> : le moi est un pur faisceau de processus dépendants, sans aucun terme ultime qui le porterait, théorie du faisceau poussée à son terme.",
+          "en": "Classical Buddhist analysis dissolved the person into aggregates (body, sensations, perceptions, formations, consciousness), but treated those aggregates as the ultimate elements of the real. Nāgārjuna objects that the critique stopped too soon: applied to the relation of fire and fuel, his examination shows that the subject and its constituents are neither identical nor separate, and so lack <c id='svabhava'>inherent existence</c>. <c id='anatta'>Not-self (anattā)</c> then holds of the aggregates themselves, in turn <c id='sunyata'>empty (śūnyatā)</c>: the self is a pure bundle of dependent processes, with no ultimate term to bear it, bundle theory carried to its limit."
+        },
+        "references": [
+          {
+            "fr": "Mūlamadhyamakakārikā (Stances du milieu par excellence), ch. XVIII (l'examen du soi et des phénomènes)",
+            "en": "Mūlamadhyamakakārikā (Fundamental Verses on the Middle Way), ch. XVIII (the examination of self and phenomena)"
+          },
+          {
+            "fr": "Mūlamadhyamakakārikā, ch. X (l'examen du feu et du combustible)",
+            "en": "Mūlamadhyamakakārikā, ch. X (the examination of fire and fuel)"
+          }
+        ],
+        "strength": "STRONG"
+      },
+      "note": {
+        "fr": "À la limite, la <c>vacuité de la vacuité</c> (śūnyatā n'est pas non plus une nature propre) interdit de réifier même le faisceau en une thèse ultime : le faisceau vaut au plan conventionnel, non comme dernier mot ontologique.",
+        "en": "At the limit, the <c>emptiness of emptiness</c> (śūnyatā is itself not an inherent nature) forbids reifying even the bundle into an ultimate thesis: the bundle holds at the conventional level, not as a final ontological word."
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "CONTEXTUALIST",
+      "note": {
+        "fr": "La méthode du <c id='catuskoti'>tétralemme</c> (catuṣkoṭi, qui examine les quatre cas : est, n'est pas, les deux, ni l'un ni l'autre) refuse les options métaphysiques au lieu de trancher. La <c id='sunyata'>vacuité (śūnyatā)</c> n'est ni un matérialisme, ni un idéalisme, ni un dualisme : poser quoi que ce soit comme réel par <c id='svabhava'>nature propre</c> retombe dans l'erreur réfutée. Nāgārjuna se tient au milieu, sans affirmer une nature ultime du réel.",
+        "en": "The method of the <c id='catuskoti'>tetralemma</c> (catuṣkoṭi, which examines the four cases: it is, it is not, both, neither) refuses the metaphysical options rather than settling them. <c id='sunyata'>Emptiness (śūnyatā)</c> is neither materialism, nor idealism, nor dualism: positing anything as real by <c id='svabhava'>inherent existence</c> falls back into the refuted error. Nāgārjuna keeps to the middle, affirming no ultimate nature of the real."
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "CONTEXTUALIST",
+      "note": {
+        "fr": "Dans la <w>Vigrahavyāvartanī (Réfutation des objections)</w>, Nāgārjuna répond à l'objection sceptique : <q>si tu n'as aucune thèse, tu ne peux rien réfuter</q>. Il assume précisément n'avoir aucune thèse propre à établir, sa <c id='sunyata'>vacuité (śūnyatā)</c> n'étant pas une position dogmatique de plus mais la dissolution de toutes. Ce n'est ni le dogmatisme d'une vérité possédée ni le scepticisme d'une suspension du jugement, mais une troisième voie qui défait l'opposition même.",
+        "en": "In the <w>Vigrahavyāvartanī (The Dispeller of Disputes)</w>, Nāgārjuna meets the skeptical objection: <q>if you have no thesis, you can refute nothing</q>. He owns precisely that he has no thesis of his own to establish, his <c id='sunyata'>emptiness (śūnyatā)</c> being not one more dogmatic position but the dissolving of them all. This is neither the dogmatism of a possessed truth nor the skepticism of suspended judgment, but a third way that undoes the opposition itself."
+      }
+    },
+    {
+      "axisId": "TRUTH_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0.4,
+          0.5
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La distinction répond à une objection redoutable : si tout est vide, la souffrance, le chemin et l'enseignement du Bouddha le sont aussi, et la vacuité paraît tout ruiner. Nāgārjuna y répond en distinguant deux registres de vérité, non deux mondes : au plan <c id='two-truths'>conventionnel</c>, le langage et les pratiques ordinaires sont pleinement valides ; au plan ultime, rien n'a de <c id='svabhava'>nature propre</c>. Loin de s'exclure, ils se conditionnent : on ne peut montrer du doigt l'ultime qu'en se servant du conventionnel, et qui prend la vacuité pour une thèse ultime sur le réel <q>se perd, comme on saisit mal un serpent</q>. La vérité conventionnelle vaut ainsi par sa cohérence d'usage et son efficacité sur le chemin, non par une correspondance à des essences.",
+          "en": "The distinction answers a formidable objection: if everything is empty, then suffering, the path, and the Buddha's teaching are empty too, and emptiness seems to wreck everything. Nāgārjuna meets it by distinguishing two registers of truth, not two worlds: at the <c id='two-truths'>conventional</c> level, language and ordinary practices are fully valid; at the ultimate level, nothing has <c id='svabhava'>inherent existence</c>. Far from excluding each other, they are mutually conditioning: the ultimate can only be pointed to by means of the conventional, and whoever takes emptiness for an ultimate thesis about the real <q>is lost, as one is by a wrongly grasped snake</q>. Conventional truth thus holds by its coherence of usage and its efficacy on the path, not by a correspondence to essences."
+        },
+        "references": [
+          {
+            "fr": "Mūlamadhyamakakārikā (Stances du milieu par excellence), XXIV, 8-10 (les deux vérités)",
+            "en": "Mūlamadhyamakakārikā (Fundamental Verses on the Middle Way), XXIV, 8-10 (the two truths)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "L'enseignement du Dharma par les bouddhas repose sur deux vérités : la vérité d'enveloppement mondain et la vérité au sens ultime. Sans s'appuyer sur le conventionnel, l'ultime n'est pas enseigné ; sans atteindre l'ultime, le nirvāṇa n'est pas obtenu.",
+            "en": "The Dharma taught by the buddhas rests on two truths: the conventional, worldly truth and the truth in the ultimate sense. Without relying on the conventional, the ultimate is not taught; without reaching the ultimate, nirvāṇa is not attained."
+          },
+          "source": {
+            "fr": "Mūlamadhyamakakārikā, XXIV, 8-10",
+            "en": "Mūlamadhyamakakārikā, XXIV, 8-10"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CAUSALITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.6,
+          0,
+          0.4
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "<pb>Comment une chose est-elle produite ?</pb> L'ouvrage s'ouvre sur ce problème et l'attaque par les quatre branches possibles : une chose ne peut naître ni d'elle-même (elle serait déjà là), ni d'une autre dotée de <c id='svabhava'>nature propre</c> (deux essences séparées ne sauraient se conditionner), ni des deux, ni sans cause. Si la causalité réelle suppose des termes à nature propre, elle est incohérente. Le pas original n'est pas d'abolir la causalité mais de l'identifier à la vacuité : précisément parce que les choses naissent en dépendance, elles n'ont pas de nature propre. <c id='pratityasamutpada'>Coproduction conditionnée (pratītyasamutpāda)</c> et <c id='sunyata'>vacuité (śūnyatā)</c> sont alors deux noms d'un même fait, sans agent ni dessein, ce qui exclut le finalisme.",
+          "en": "<pb>How is a thing produced?</pb> The work opens on this problem and attacks it through its four possible branches: a thing can arise neither from itself (it would already be there), nor from another endowed with <c id='svabhava'>inherent existence</c> (two separate essences could not condition one another), nor from both, nor without a cause. If real causation presupposes terms with inherent existence, it is incoherent. The original step is not to abolish causation but to identify it with emptiness: precisely because things arise in dependence, they have no inherent existence. <c id='pratityasamutpada'>Dependent origination (pratītyasamutpāda)</c> and <c id='sunyata'>emptiness (śūnyatā)</c> are then two names for one fact, with no agent and no design, which excludes finalism."
+        },
+        "references": [
+          {
+            "fr": "Mūlamadhyamakakārikā (Stances du milieu par excellence), ch. I (l'examen des conditions)",
+            "en": "Mūlamadhyamakakārikā (Fundamental Verses on the Middle Way), ch. I (the examination of conditions)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Jamais et nulle part rien n'existe qui soit né de soi, d'autre, des deux, ou sans cause.",
+            "en": "Never and nowhere does anything exist that is arisen from itself, from another, from both, or without a cause."
+          },
+          "source": {
+            "fr": "Mūlamadhyamakakārikā, I, 1",
+            "en": "Mūlamadhyamakakārikā, I, 1"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.95
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'argument tire la conséquence de la vacuité universelle : si <c>saṃsāra (le cycle des renaissances conditionnées)</c> et <c id='nirvana'>nirvāṇa (l'extinction)</c> avaient chacun une <c id='svabhava'>nature propre</c>, un abîme les séparerait et l'on ne pourrait jamais passer de l'un à l'autre. Mais l'un et l'autre sont également <c id='sunyata'>vides (śūnyatā)</c>, donc privés de la frontière essentielle qui les opposerait. <stk>Le saut métaphysique vers un au-delà s'effondre</stk> : le nirvāṇa n'est pas un autre lieu à rejoindre, c'est le saṃsāra correctement vu, dépouillé de la saisie qui le faisait souffrir. D'où une immanence radicale, sans arrière-monde, qui démarque le Madhyamaka des conceptions du salut comme évasion hors du monde.",
+          "en": "The argument draws out the consequence of universal emptiness: if <c>saṃsāra (the cycle of conditioned rebirths)</c> and <c id='nirvana'>nirvāṇa (extinction)</c> each had an <c id='svabhava'>inherent existence</c>, a gulf would separate them and one could never pass from the one to the other. But both are equally <c id='sunyata'>empty (śūnyatā)</c>, and so lack the essential boundary that would set them in opposition. <stk>The metaphysical leap toward a beyond collapses</stk>: nirvāṇa is no other place to be reached, it is saṃsāra rightly seen, stripped of the grasping that made it suffering. Hence a radical immanence, with no backworld, which sets Madhyamaka apart from conceptions of salvation as escape out of the world."
+        },
+        "references": [
+          {
+            "fr": "Mūlamadhyamakakārikā (Stances du milieu par excellence), ch. XXV (l'examen du nirvāṇa)",
+            "en": "Mūlamadhyamakakārikā (Fundamental Verses on the Middle Way), ch. XXV (the examination of nirvāṇa)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Il n'y a aucune différence entre le saṃsāra et le nirvāṇa ; il n'y a aucune différence entre le nirvāṇa et le saṃsāra.",
+            "en": "There is no difference at all between saṃsāra and nirvāṇa; there is no difference at all between nirvāṇa and saṃsāra."
+          },
+          "source": {
+            "fr": "Mūlamadhyamakakārikā, XXV, 19",
+            "en": "Mūlamadhyamakakārikā, XXV, 19"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Héritier du <mv id='buddhism'>bouddhisme</mv>, Nāgārjuna ne reconnaît aucun Dieu créateur : sa critique de toute production par une cause à <c id='svabhava'>nature propre</c> sape d'avance l'idée d'un premier principe qui se poserait lui-même. La libération ne vient d'aucune grâce mais de la compréhension de la <c id='sunyata'>vacuité (śūnyatā)</c>. C'est un non-théisme, tenu sans polémique militante contre la croyance.",
+          "en": "An heir of <mv id='buddhism'>Buddhism</mv>, Nāgārjuna acknowledges no creator God: his critique of any production by a cause with <c id='svabhava'>inherent existence</c> undercuts in advance the idea of a self-positing first principle. Liberation comes from no grace but from understanding <c id='sunyata'>emptiness (śūnyatā)</c>. This is a non-theism, held without militant polemic against belief."
+        },
+        "references": [
+          {
+            "fr": "Mūlamadhyamakakārikā (Stances du milieu par excellence), ch. I (l'examen des conditions, contre une cause auto-suffisante)",
+            "en": "Mūlamadhyamakakārikā (Fundamental Verses on the Middle Way), ch. I (the examination of conditions, against a self-sufficient cause)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.1,
+          0.9
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Nāgārjuna reprend le diagnostic bouddhique : la <c id='tanha'>soif (taṇhā, le désir avide qui s'attache)</c> et la saisie nourrissent le cycle des renaissances. Mais il en éclaire la racine : on s'attache parce qu'on prête aux objets une <c id='svabhava'>nature propre</c> ; voir leur <c id='sunyata'>vacuité (śūnyatā)</c> dénoue l'attachement à sa source. La voie reste celle du détachement, ici fondé sur la lucidité métaphysique.",
+          "en": "Nāgārjuna takes up the Buddhist diagnosis: <c id='tanha'>craving (taṇhā, the grasping thirst that clings)</c> and appropriation feed the cycle of rebirth. But he illuminates its root: one clings because one ascribes to objects an <c id='svabhava'>inherent existence</c>; seeing their <c id='sunyata'>emptiness (śūnyatā)</c> loosens attachment at its source. The path remains one of detachment, here grounded in metaphysical lucidity."
+        },
+        "references": [
+          {
+            "fr": "Mūlamadhyamakakārikā (Stances du milieu par excellence), ch. XXIII (l'examen des erreurs)",
+            "en": "Mūlamadhyamakakārikā (Fundamental Verses on the Middle Way), ch. XXIII (the examination of errors)"
+          },
+          {
+            "fr": "Mūlamadhyamakakārikā, ch. XXVI (l'examen des douze membres de l'existence)",
+            "en": "Mūlamadhyamakakārikā, ch. XXVI (the examination of the twelve links of existence)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.85
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "<pb>Tout le projet vise la cessation de la souffrance et des renaissances conditionnées</pb> : Nāgārjuna ne donne à la souffrance aucune valeur rédemptrice, elle est un effet de l'ignorance et de la saisie, à dissoudre par la vue de la <c id='sunyata'>vacuité (śūnyatā)</c>. C'est en comprenant l'absence de <c id='svabhava'>nature propre</c> que cesse la <c>fabrication mentale</c> (prapañca, la prolifération conceptuelle) qui entretient le mal-être : pente nettement abolitionniste.",
+          "en": "<pb>The whole project aims at the cessation of suffering and of conditioned rebirth</pb>: Nāgārjuna grants suffering no redemptive value, it being an effect of ignorance and grasping, to be dissolved by seeing <c id='sunyata'>emptiness (śūnyatā)</c>. It is in grasping the absence of <c id='svabhava'>inherent existence</c> that the <c>mental fabrication</c> (prapañca, conceptual proliferation) sustaining dis-ease comes to rest: a clearly abolitionist leaning."
+        },
+        "references": [
+          {
+            "fr": "Mūlamadhyamakakārikā (Stances du milieu par excellence), XVIII, 5 (la cessation de la prolifération conceptuelle)",
+            "en": "Mūlamadhyamakakārikā (Fundamental Verses on the Middle Way), XVIII, 5 (the cessation of conceptual proliferation)"
+          },
+          {
+            "fr": "Mūlamadhyamakakārikā, ch. XXVI (l'examen des douze membres)",
+            "en": "Mūlamadhyamakakārikā, ch. XXVI (the examination of the twelve links)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Pour Nāgārjuna, les affects affligeants tiennent à une méprise intellectuelle : croire que les choses ont une <c id='svabhava'>nature propre</c> et s'y attacher. C'est donc une compréhension juste, la vue de la <c id='sunyata'>vacuité (śūnyatā)</c>, qui défait l'émotion perturbatrice à sa racine. La transformation passe par la connaissance, ce qui rapproche d'un intellectualisme thérapeutique, sans nier le rôle de la pratique méditative.",
+          "en": "For Nāgārjuna, afflictive affects rest on an intellectual mistake: believing that things have an <c id='svabhava'>inherent existence</c> and clinging to it. It is therefore right understanding, the seeing of <c id='sunyata'>emptiness (śūnyatā)</c>, that undoes the disturbing emotion at its root. Transformation proceeds through knowledge, which aligns with a therapeutic intellectualism, without denying the role of meditative practice."
+        },
+        "references": [
+          {
+            "fr": "Mūlamadhyamakakārikā (Stances du milieu par excellence), ch. XXIII (l'examen des erreurs et des souillures mentales)",
+            "en": "Mūlamadhyamakakārikā (Fundamental Verses on the Middle Way), ch. XXIII (the examination of errors and mental defilements)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ATTENTION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Nāgārjuna hérite de la discipline bouddhique du recueillement : la délivrance suppose un esprit rassemblé, capable de soutenir l'analyse jusqu'à l'apaisement de la <c>prolifération conceptuelle (prapañca)</c>. Voir la <c id='sunyata'>vacuité (śūnyatā)</c> n'est pas une dispersion mais une attention pénétrante et continue portée sur le surgissement conditionné des phénomènes, d'où une nette pente vers le recueillement.",
+          "en": "Nāgārjuna inherits the Buddhist discipline of recollection: liberation presupposes a gathered mind, able to sustain the analysis until the <c>conceptual proliferation (prapañca)</c> is stilled. Seeing <c id='sunyata'>emptiness (śūnyatā)</c> is not a scattering but a penetrating, continuous attention turned upon the conditioned arising of phenomena, hence a clear leaning toward recollection."
+        },
+        "references": [
+          {
+            "fr": "Mūlamadhyamakakārikā (Stances du milieu par excellence), XVIII, 5 (l'apaisement de la prolifération)",
+            "en": "Mūlamadhyamakakārikā (Fundamental Verses on the Middle Way), XVIII, 5 (the stilling of proliferation)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_STATUS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.85
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Aucune description ne saisit une réalité dotée de <c id='svabhava'>nature propre</c>, puisqu'il n'y en a pas : les catégories et les distinctions du savoir relèvent de la <c>vérité conventionnelle</c>, des constructions dépendantes et utiles, jamais le reflet d'essences en soi. Nos énoncés ordonnent un monde <c id='sunyata'>vide (śūnyatā)</c> plutôt qu'ils ne reflètent des structures indépendantes : c'est un constructivisme épistémique marqué, au plan conventionnel.",
+          "en": "No description grasps a reality endowed with <c id='svabhava'>inherent existence</c>, since there is none: the categories and distinctions of knowledge belong to <c>conventional truth</c>, dependent and useful constructions, never the mirror of essences in themselves. Our statements order an <c id='sunyata'>empty (śūnyatā)</c> world rather than reflecting independent structures: a pronounced epistemic constructivism, at the conventional level."
+        },
+        "references": [
+          {
+            "fr": "Mūlamadhyamakakārikā (Stances du milieu par excellence), XXIV, 8-10 (les deux vérités)",
+            "en": "Mūlamadhyamakakārikā (Fundamental Verses on the Middle Way), XXIV, 8-10 (the two truths)"
+          },
+          {
+            "fr": "Vigrahavyāvartanī (Réfutation des objections), sur les moyens de connaissance (pramāṇa)",
+            "en": "Vigrahavyāvartanī (The Dispeller of Disputes), on the means of knowledge (pramāṇa)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La voie est d'abord un travail d'analyse et de vision : examiner les phénomènes pour en dénouer la saisie et apaiser la <c>prolifération conceptuelle (prapañca)</c>. La transformation se joue dans la juste compréhension intérieure plutôt que dans l'action sur le monde extérieur, même si la <c>compassion (karuṇā)</c> du Mahāyāna l'oriente vers autrui.",
+          "en": "The path is first a labor of analysis and vision: examining phenomena so as to loosen grasping and still the <c>conceptual proliferation (prapañca)</c>. Transformation turns on right inner understanding rather than on action upon the outer world, even though the Mahāyāna's <c>compassion (karuṇā)</c> orients it toward others."
+        },
+        "references": [
+          {
+            "fr": "Mūlamadhyamakakārikā (Stances du milieu par excellence), ch. XVIII (l'examen du soi et des phénomènes)",
+            "en": "Mūlamadhyamakakārikā (Fundamental Verses on the Middle Way), ch. XVIII (the examination of self and phenomena)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.8,
+          0.1,
+          0.1,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Comme tout le <mv id='buddhism'>bouddhisme</mv>, le Madhyamaka ordonne l'existence à une fin assignable : la libération de la souffrance par la compréhension de la <c id='sunyata'>vacuité (śūnyatā)</c>. Ce terme n'est pas posé par un créateur mais découvert comme la nature des choses, d'où une structure téléologique, que l'identité de <c>saṃsāra</c> et de <c id='nirvana'>nirvāṇa</c> rapatrie tout entière dans ce monde-ci.",
+          "en": "Like all of <mv id='buddhism'>Buddhism</mv>, Madhyamaka orders existence toward an assignable end: liberation from suffering through the understanding of <c id='sunyata'>emptiness (śūnyatā)</c>. This end is set not by a creator but discovered as the nature of things, hence a teleological structure, which the identity of <c>saṃsāra</c> and <c id='nirvana'>nirvāṇa</c> brings back entirely into this very world."
+        },
+        "references": [
+          {
+            "fr": "Mūlamadhyamakakārikā (Stances du milieu par excellence), ch. XXV (l'examen du nirvāṇa)",
+            "en": "Mūlamadhyamakakārikā (Fundamental Verses on the Middle Way), ch. XXV (the examination of nirvāṇa)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "ESSENCE",
+      "thesis": {
+        "fr": "Aucune chose n'a de <c id='svabhava'>nature propre (svabhāva)</c> : tout est <c id='sunyata'>vide (śūnyatā)</c>, et la vacuité elle-même n'est pas une essence cachée mais encore vide.",
+        "en": "Nothing has an <c id='svabhava'>inherent existence (svabhāva)</c>: everything is <c id='sunyata'>empty (śūnyatā)</c>, and emptiness itself is no hidden essence but is empty in turn."
+      }
+    },
+    {
+      "axisId": "CAUSALITY",
+      "thesis": {
+        "fr": "Être vide et naître en dépendance sont une seule et même chose : la <c id='pratityasamutpada'>coproduction conditionnée (pratītyasamutpāda)</c> tient lieu de toute essence.",
+        "en": "To be empty and to arise dependently are one and the same: <c id='pratityasamutpada'>dependent origination (pratītyasamutpāda)</c> stands in the place of any essence."
+      }
+    },
+    {
+      "axisId": "TRUTH_NATURE",
+      "thesis": {
+        "fr": "Il y a <c id='two-truths'>deux vérités</c> : sans le langage conventionnel, on n'enseigne pas la vacuité ultime, et qui confond les deux registres se méprend sur l'une comme sur l'autre.",
+        "en": "There are <c id='two-truths'>two truths</c>: without conventional language the ultimate emptiness cannot be taught, and whoever confounds the two registers mistakes both."
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "thesis": {
+        "fr": "Entre <c>saṃsāra</c> et <c id='nirvana'>nirvāṇa</c> il n'y a aucune différence : la délivrance n'est pas un ailleurs, mais la juste vision de ce monde conditionné.",
+        "en": "Between <c>saṃsāra</c> and <c id='nirvana'>nirvāṇa</c> there is no difference at all: liberation is no elsewhere, but the right seeing of this conditioned world."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

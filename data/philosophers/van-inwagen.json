@@ -1,0 +1,23 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "van-inwagen",
+  "stub": true,
+  "name": {
+    "fr": "Peter van Inwagen",
+    "en": "Peter van Inwagen"
+  },
+  "summary": {
+    "fr": "Métaphysicien américain, auteur de l'« argument de conséquence » contre le compatibilisme : si le déterminisme est vrai, nos actes sont les conséquences de lois et d'un passé hors de notre prise.",
+    "en": "American metaphysician, author of the \"consequence argument\" against compatibilism: if determinism is true, our acts are the consequences of laws and a past beyond our control."
+  },
+  "birth": 1942,
+  "nationality": {
+    "fr": "Américain",
+    "en": "American"
+  },
+  "movements": [],
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

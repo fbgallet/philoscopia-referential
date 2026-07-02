@@ -1,0 +1,12 @@
+{
+  "id": "rationalism-grounds-foundationalism",
+  "ground": { "axisId": "KNOWLEDGE_SOURCE", "poleId": "RATIONALISM" },
+  "grounded": { "axisId": "EPISTEMIC_JUSTIFICATION", "poleId": "FOUNDATIONALISM" },
+  "kind": "T_T",
+  "strength": "STRONG",
+  "explanation": {
+    "fr": "Si la raison bien conduite peut atteindre des vérités certaines, le savoir doit reposer sur des croyances de base, immédiatement évidentes, dont tout le reste se déduit. Le rationalisme fonde le fondationnalisme : <ph id='descartes'>Descartes</ph> cherche dans le cogito le point fixe indubitable sur lequel rebâtir toute la connaissance.",
+    "en": "If properly guided reason can reach certain truths, knowledge must rest on basic beliefs, immediately evident, from which all the rest is deduced. Rationalism grounds foundationalism: <ph id='descartes'>Descartes</ph> seeks in the cogito the indubitable fixed point on which to rebuild all knowledge."
+  },
+  "updatedAt": "2026-06-22T00:00:00.000Z"
+}

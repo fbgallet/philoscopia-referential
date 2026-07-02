@@ -1,0 +1,126 @@
+{
+  "id": "RIGHTS_NATURE",
+  "relation": "OTHERS",
+  "territory": "SOCIETY_POLITICS",
+  "label": {
+    "fr": "Nature des droits",
+    "en": "Nature of rights"
+  },
+  "question": {
+    "fr": "D'où viennent les droits ?",
+    "en": "Where do rights come from?"
+  },
+  "stakes": {
+    "fr": "Quand on parle de « droits de l'homme », s'agit-il de réalités inscrites dans notre nature, de règles que les sociétés instituent, ou d'outils justifiés par leurs bienfaits ? Ce que l'on peut revendiquer, et ce qu'aucune loi ne devrait pouvoir retirer, en dépend.",
+    "en": "When we speak of \"human rights\", are they realities inscribed in our nature, rules that societies institute, or tools justified by their benefits? What we can claim, and what no law should be able to take away, depends on it."
+  },
+  "layer": "THEORY",
+  "type": "CATEGORICAL",
+  "poles": [
+    {
+      "id": "NATURAL_RIGHTS",
+      "label": {
+        "fr": "Droits naturels",
+        "en": "Natural rights"
+      },
+      "description": {
+        "fr": "Les droits sont inhérents à la personne, antérieurs à l'État et au droit positif : on les découvre, on ne les octroie pas. Une loi qui les viole est injuste, fût-elle parfaitement légale.",
+        "en": "Rights are inherent in the person, prior to the state and to positive law: they are discovered, not granted. A law that violates them is unjust, even if perfectly legal."
+      },
+      "figures": [
+        {
+          "slug": "locke",
+          "name": { "fr": "Locke", "en": "Locke" }
+        }
+      ],
+      "nuances": [
+        {
+          "fr": "Le fondement varie : droit naturel et loi divine (Locke), ou dignité et autonomie rationnelle de la personne (Kant).",
+          "en": "The grounding varies: natural law and divine law (Locke), or the dignity and rational autonomy of the person (Kant)."
+        }
+      ]
+    },
+    {
+      "id": "LEGAL_POSITIVISM",
+      "label": {
+        "fr": "Positivisme juridique",
+        "en": "Legal positivism"
+      },
+      "description": {
+        "fr": "Il n'y a de droits que ceux qu'une autorité établit effectivement. Parler de droits naturels avant toute loi, c'est, selon le mot de Bentham, « un non-sens sur échasses » : un droit sans institution pour le garantir n'est qu'un vœu.",
+        "en": "There are no rights but those an authority actually establishes. To speak of natural rights prior to any law is, in Bentham's phrase, \"nonsense upon stilts\": a right with no institution to secure it is mere wishing."
+      },
+      "figures": [
+        {
+          "slug": "bentham",
+          "name": { "fr": "Bentham", "en": "Bentham" }
+        },
+        {
+          "slug": "hart",
+          "name": { "fr": "Hart", "en": "Hart" }
+        },
+        {
+          "slug": "kelsen",
+          "name": { "fr": "Kelsen", "en": "Kelsen" }
+        }
+      ],
+      "nuances": [
+        {
+          "fr": "Le rejet des droits naturels par Bentham tient aussi à son utilitarisme, ce qui le rapproche du pôle voisin.",
+          "en": "Bentham's rejection of natural rights also stems from his utilitarianism, which brings him close to the neighbouring pole."
+        },
+        {
+          "fr": "Hart, positiviste sur la validité du droit, a pourtant défendu un droit naturel à une liberté égale.",
+          "en": "Hart, a positivist about the validity of law, nonetheless defended one natural right, to equal liberty."
+        }
+      ]
+    },
+    {
+      "id": "RIGHTS_UTILITY",
+      "label": {
+        "fr": "Droits et utilité",
+        "en": "Rights from utility"
+      },
+      "description": {
+        "fr": "Les droits ne sont ni inscrits dans la nature ni de purs décrets : ce sont des protections solides que l'on reconnaît parce que les garantir sert le bien-être de tous. Leur force vient de leur utilité durable, non d'une origine surnaturelle.",
+        "en": "Rights are neither inscribed in nature nor mere decrees: they are robust protections we recognise because securing them serves the well-being of all. Their force comes from their lasting usefulness, not from a supernatural origin."
+      },
+      "figures": [
+        {
+          "slug": "mill",
+          "name": { "fr": "Mill", "en": "Mill" }
+        }
+      ]
+    },
+    {
+      "id": "POLITICAL_CONSTRUCTIVISM",
+      "label": {
+        "fr": "Constructivisme politique",
+        "en": "Political constructivism"
+      },
+      "description": {
+        "fr": "Les droits ne sont ni naturels, ni de purs décrets, ni de simples calculs d'utilité : ce sont les termes d'une coopération équitable, construits par la délibération entre personnes libres et égales, et servant de critères de légitimité politique.",
+        "en": "Rights are neither natural, nor mere decrees, nor simple calculations of utility: they are the terms of fair cooperation, constructed through deliberation among free and equal persons, and serving as standards of political legitimacy."
+      },
+      "figures": [
+        {
+          "slug": "rawls",
+          "name": { "fr": "Rawls", "en": "Rawls" }
+        },
+        {
+          "slug": "habermas",
+          "name": { "fr": "Habermas", "en": "Habermas" }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 3,
+  "clusters": [],
+  "relatedAxes": [
+    "DISTRIBUTIVE_JUSTICE",
+    "SOCIAL_CONTRACT",
+    "AUTHORITY",
+    "MORAL_SCOPE"
+  ]
+}

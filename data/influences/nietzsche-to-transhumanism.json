@@ -1,0 +1,25 @@
+{
+  "id": "nietzsche-to-transhumanism",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "nietzsche"
+  },
+  "to": {
+    "kind": "MOVEMENT",
+    "slug": "transhumanism"
+  },
+  "directness": "INDIRECT",
+  "mode": "REINTERPRETS",
+  "strength": "WEAK",
+  "note": {
+    "fr": "Le transhumanisme se réclame parfois du <c>surhumain</c> de <ph id='nietzsche'>Nietzsche</ph>, réinterprété en posthumain biotechnologique. La filiation est largement une surinterprétation : le dépassement nietzschéen est spirituel et tragique, non technique, et Nietzsche serait sans doute très critique de ce désir de contrôle absolu, où il verrait un refus du devenir et de la finitude, une <c>haine de la vie</c> contraire à l'amor fati.",
+    "en": "Transhumanism sometimes claims <ph id='nietzsche'>Nietzsche</ph>'s <c>overman</c>, reinterpreted as a biotechnological posthuman. The lineage is largely an over-reading: the Nietzschean overcoming is spiritual and tragic, not technical, and Nietzsche would likely be deeply critical of this craving for absolute control, in which he would see a refusal of becoming and finitude, a <c>hatred of life</c> contrary to amor fati."
+  },
+  "sources": [
+    {
+      "fr": "Sorgner, « Nietzsche, the Overhuman, and Transhumanism » (2009)",
+      "en": "Sorgner, 'Nietzsche, the Overhuman, and Transhumanism' (2009)"
+    }
+  ],
+  "updatedAt": "2026-06-28T00:00:00.000Z"
+}

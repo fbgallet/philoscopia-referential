@@ -1,0 +1,12 @@
+{
+  "id": "autarkeia",
+  "term": { "fr": "Autarkeia (autosuffisance)", "en": "Autarkeia (self-sufficiency)" },
+  "definition": {
+    "fr": "L'autarkeia désigne l'autosuffisance du sage, son indépendance à l'égard des biens extérieurs : richesse, réputation, confort ne lui sont pas nécessaires pour être heureux. Le bonheur tient à ce qui dépend de nous (<c id='dichotomy-of-control'>la dichotomie du contrôle</c>), non aux circonstances. Elle est centrale chez les cyniques, dont <ph>Diogène</ph>, et chez les stoïciens, et s'accompagne d'une sérénité imperturbable (<c id='apatheia'>apatheia</c>).",
+    "en": "Autarkeia names the sage's self-sufficiency, their independence from external goods: wealth, reputation, and comfort are not required for happiness. Well-being rests on what is up to us (<c id='dichotomy-of-control'>the dichotomy of control</c>), not on circumstances. It is central to the Cynics, such as <ph>Diogenes</ph>, and to the Stoics, and goes hand in hand with an unshakeable calm (<c id='apatheia'>apatheia</c>)."
+  },
+  "relatedAxes": ["CONTROL_SCOPE", "SOVEREIGN_GOOD"],
+  "relatedTerms": ["apatheia"],
+  "positions": [{ "axisId": "CONTROL_SCOPE", "poleId": "DICHOTOMY_OF_CONTROL" }],
+  "updatedAt": "2026-06-19T00:00:00.000Z"
+}

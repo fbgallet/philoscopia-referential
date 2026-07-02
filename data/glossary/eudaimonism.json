@@ -1,0 +1,12 @@
+{
+  "id": "eudaimonism",
+  "term": { "fr": "Eudémonisme", "en": "Eudaimonism" },
+  "definition": {
+    "fr": "L'eudémonisme fait du bonheur (eudaimonia) la fin suprême de l'existence humaine, entendu non comme une somme de plaisirs mais comme l'accomplissement d'une vie réussie. Pour <ph id='aristotle'>Aristote</ph>, qui le théorise dans <w id='nicomachean-ethics-aristotle'>l'Éthique à Nicomaque</w>, ce bonheur réside dans l'activité vertueuse de l'âme conforme à la raison. Il se distingue ainsi de <c id='hedonism'>l'hédonisme</c>, qui identifie le bien au plaisir ressenti.",
+    "en": "Eudaimonism makes happiness (eudaimonia) the supreme end of human existence, understood not as a sum of pleasures but as the fulfillment of a flourishing life. For <ph id='aristotle'>Aristotle</ph>, who works it out in the <w id='nicomachean-ethics-aristotle'>Nicomachean Ethics</w>, this happiness lies in the virtuous activity of the soul in accordance with reason. It thus differs from <c id='hedonism'>hedonism</c>, which identifies the good with felt pleasure."
+  },
+  "relatedAxes": ["SOVEREIGN_GOOD"],
+  "relatedTerms": ["hedonism"],
+  "positions": [{ "axisId": "SOVEREIGN_GOOD", "poleId": "EUDAIMONISM" }],
+  "updatedAt": "2026-06-11T00:00:00.000Z"
+}

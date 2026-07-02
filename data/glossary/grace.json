@@ -1,0 +1,11 @@
+{
+  "id": "grace",
+  "term": { "fr": "Grâce", "en": "Grace" },
+  "definition": {
+    "fr": "La grâce est, dans la théologie chrétienne, le secours surnaturel que Dieu accorde gratuitement à l'homme pour l'élever au-delà de ses forces naturelles et l'orienter vers sa fin dernière. Elle ne se mérite pas et n'est pas due : c'est un don. Selon la formule que résume <ph id='aquinas'>Thomas d'Aquin</ph>, <q>la grâce ne détruit pas la nature mais l'achève</q> : loin de contredire la raison ou la liberté, elle les présuppose et les parfait. Ainsi, sans la grâce, la volonté peut accomplir un bien naturel mais ne saurait s'orienter d'elle-même vers la <c id='beatific-vision'>vision de Dieu</c>. La doctrine fut au cœur de débats majeurs, sur l'accord de la grâce et du <c id='free-will'>libre arbitre</c>, qui opposèrent notamment <ph id='augustine'>Augustin</ph> à ses adversaires puis traversèrent toute la modernité.",
+    "en": "Grace is, in Christian theology, the supernatural help God freely grants to the human being to raise him beyond his natural powers and orient him toward his final end. It cannot be earned and is not owed: it is a gift. According to the formula summed up by <ph id='aquinas'>Thomas Aquinas</ph>, <q>grace does not destroy nature but perfects it</q>: far from contradicting reason or freedom, it presupposes and completes them. Thus, without grace, the will can accomplish a natural good but cannot of itself orient itself toward the <c id='beatific-vision'>vision of God</c>. The doctrine lay at the heart of major debates, over the accord of grace and <c id='free-will'>free will</c>, which set <ph id='augustine'>Augustine</ph> against his opponents and then ran through the whole of modernity."
+  },
+  "relatedAxes": ["FAITH_REASON", "FREEDOM"],
+  "relatedTerms": ["free-will", "beatific-vision", "providence"],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

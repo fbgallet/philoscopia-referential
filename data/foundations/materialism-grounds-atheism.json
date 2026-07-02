@@ -1,0 +1,12 @@
+{
+  "id": "materialism-grounds-atheism",
+  "ground": { "axisId": "REALITY_NATURE", "poleId": "MATERIALISM" },
+  "grounded": { "axisId": "GOD_EXISTENCE", "poleId": "ATHEISM" },
+  "kind": "T_T",
+  "strength": "STRONG",
+  "explanation": {
+    "fr": "Si tout ce qui existe est matière en mouvement, il ne reste aucune place pour une substance spirituelle infinie. Poser <ax id='REALITY_NATURE'>le matérialisme</ax> revient donc à fermer l'espace ontologique qu'occuperait Dieu, ce qui conduit naturellement à l'athéisme.",
+    "en": "If everything that exists is matter in motion, there is no room left for an infinite spiritual substance. Holding <ax id='REALITY_NATURE'>materialism</ax> thus closes off the ontological space God would occupy, which leads naturally to atheism."
+  },
+  "updatedAt": "2026-06-14T00:00:00.000Z"
+}

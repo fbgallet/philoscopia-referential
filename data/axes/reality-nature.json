@@ -1,0 +1,109 @@
+{
+  "id": "REALITY_NATURE",
+  "relation": "WORLD",
+  "territory": "MIND_CONSCIOUSNESS",
+  "label": {
+    "fr": "Nature de l'esprit et du réel",
+    "en": "Nature of mind and reality"
+  },
+  "question": {
+    "fr": "De quoi la réalité est-elle faite : de matière, d'esprit, ou des deux ?",
+    "en": "What is reality made of: matter, mind, or both?"
+  },
+  "stakes": {
+    "fr": "Selon ce qu'on tient pour fondamental, nos pensées, notre conscience et le sens même de nos expériences ont un statut très différent : simple résultat de processus physiques, ou réalité qu'on ne peut entièrement y réduire. De là dépend aussi notre place dans le monde, et ce qu'une science du réel peut espérer expliquer.",
+    "en": "Depending on what we take to be fundamental, our thoughts, our consciousness, and the very meaning of our experiences have a very different status: a mere result of physical processes, or a reality that cannot be fully reduced to them. On this too depend our place in the world, and what a science of the real can hope to explain."
+  },
+  "layer": "THEORY",
+  "type": "CATEGORICAL",
+  "poles": [
+    {
+      "id": "MATERIALISM",
+      "label": {
+        "fr": "Matérialisme",
+        "en": "Materialism"
+      },
+      "description": {
+        "fr": "Tout ce qui existe est matériel, y compris la pensée, qui n'est qu'un produit de l'organisation de la matière. L'esprit n'est pas une substance à part : il s'explique entièrement par le corps et le cerveau.",
+        "en": "Everything that exists is material, including thought, which is merely a product of how matter is organized. Mind is not a separate substance: it can be fully explained by the body and the brain."
+      },
+      "figures": [
+        {
+          "slug": "democritus",
+          "name": {
+            "fr": "Démocrite",
+            "en": "Democritus"
+          }
+        },
+        {
+          "slug": "la-mettrie",
+          "name": {
+            "fr": "La Mettrie",
+            "en": "La Mettrie"
+          }
+        }
+      ]
+    },
+    {
+      "id": "IDEALISM",
+      "label": {
+        "fr": "Idéalisme",
+        "en": "Idealism"
+      },
+      "description": {
+        "fr": "La réalité est fondamentalement de nature spirituelle ou mentale : ce que nous appelons le monde n'existe que pour un esprit qui le perçoit ou le pense. La matière, loin d'être première, dépend de l'esprit.",
+        "en": "Reality is fundamentally spiritual or mental in nature: what we call the world exists only for a mind that perceives or thinks it. Matter, far from being primary, depends on mind."
+      },
+      "figures": [
+        {
+          "slug": "berkeley",
+          "name": {
+            "fr": "Berkeley",
+            "en": "Berkeley"
+          }
+        },
+        {
+          "slug": "hegel",
+          "name": {
+            "fr": "Hegel",
+            "en": "Hegel"
+          }
+        }
+      ]
+    },
+    {
+      "id": "DUALISM",
+      "label": {
+        "fr": "Dualisme",
+        "en": "Dualism"
+      },
+      "description": {
+        "fr": "Le corps et l'esprit sont deux réalités distinctes : la matière, étendue et mesurable, et la pensée, immatérielle et consciente. Aucune des deux ne se réduit à l'autre, même si elles interagissent en nous.",
+        "en": "Body and mind are two distinct realities: matter, extended and measurable, and thought, immaterial and conscious. Neither can be reduced to the other, even though they interact within us."
+      },
+      "figures": [
+        {
+          "slug": "descartes",
+          "name": {
+            "fr": "Descartes",
+            "en": "Descartes"
+          }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 2,
+  "clusters": [
+    "SCIENTIFIC_NATURALISM"
+  ],
+  "relatedAxes": [
+    "UNIVERSALS",
+    "CONSCIOUSNESS_NATURE",
+    "EMBODIMENT",
+    "CAUSALITY",
+    "MACHINE_MIND",
+    "REDUCTION_EMERGENCE",
+    "CERTAINTY"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "transcendence-grounds-teleology",
+  "ground": { "axisId": "TRANSCENDENCE", "poleId": "TRANSCENDENCE" },
+  "grounded": { "axisId": "LIFE_MEANING", "poleId": "TELEOLOGY" },
+  "kind": "T_V",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si le sens et la valeur reposent en un principe qui dépasse le monde donné, la vie humaine reçoit sa destination de cet au-delà. <c id='transcendence'>La transcendance</c> fonde ainsi une lecture téléologique de l'existence, ordonnée à une fin qui la précède.",
+    "en": "If meaning and value rest in a principle beyond the given world, human life receives its destination from that beyond. <c id='transcendence'>Transcendence</c> thus grounds a teleological reading of existence, ordered toward an end that precedes it."
+  },
+  "updatedAt": "2026-06-14T00:00:00.000Z"
+}

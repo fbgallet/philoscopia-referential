@@ -1,0 +1,13 @@
+{
+  "id": "bad-faith",
+  "term": { "fr": "La mauvaise foi", "en": "Bad faith" },
+  "definition": {
+    "fr": "La mauvaise foi est, chez <ph id='sartre'>Sartre</ph>, le mensonge que l'on se fait à soi-même pour fuir sa liberté radicale, en se traitant comme une chose dotée d'une nature fixe. Le serveur qui surjoue son rôle, ou celui qui se dit « né ainsi », se rassurent en niant qu'ils choisissent à chaque instant ce qu'ils sont. C'est une fuite devant l'angoisse de l'<ax id='ESSENCE'>existence</ax> sans <kw>essence</kw> préalable, l'illusion de coïncider avec un être tout fait.",
+    "en": "Bad faith, in <ph id='sartre'>Sartre</ph>, is the lie one tells oneself in order to flee one's radical freedom, by treating oneself as a thing endowed with a fixed nature. The waiter who overplays his role, or the person who claims to be \"born that way,\" reassure themselves by denying that they choose at every moment what they are. It is a flight from the anguish of <ax id='ESSENCE'>existence</ax> without prior <kw>essence</kw>, the illusion of coinciding with a ready-made being."
+  },
+  "relatedAxes": ["ESSENCE", "FREEDOM"],
+  "relatedTerms": ["authenticity"],
+  "figure": { "slug": "sartre", "name": { "fr": "Jean-Paul Sartre", "en": "Jean-Paul Sartre" } },
+  "positions": [{ "axisId": "ESSENCE", "poleId": "EXISTENTIALISM" }],
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

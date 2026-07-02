@@ -1,0 +1,16 @@
+{
+  "id": "nietzsche-to-camus",
+  "from": { "kind": "PHILOSOPHER", "slug": "nietzsche" },
+  "to": { "kind": "PHILOSOPHER", "slug": "camus" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='camus'>Camus</ph> lit <ph id='nietzsche'>Nietzsche</ph> en héritier critique : il reprend le diagnostic du nihilisme et l'amour du destin, mais les retourne en une éthique de la mesure, l'absurde appelant la révolte plutôt que l'approbation de tout.",
+    "en": "<ph id='camus'>Camus</ph> reads <ph id='nietzsche'>Nietzsche</ph> as a critical heir: he takes up the diagnosis of nihilism and the love of fate, but turns them into an ethics of measure, the absurd calling for revolt rather than the approval of everything."
+  },
+  "sources": [
+    { "fr": "Camus, Le Mythe de Sisyphe ; L'Homme révolté", "en": "Camus, The Myth of Sisyphus; The Rebel" }
+  ],
+  "updatedAt": "2026-07-02T00:00:00.000Z"
+}

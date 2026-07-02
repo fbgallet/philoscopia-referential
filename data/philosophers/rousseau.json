@@ -1,0 +1,554 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "rousseau",
+  "name": { "fr": "Rousseau", "en": "Rousseau" },
+  "fullName": { "fr": "Jean-Jacques Rousseau", "en": "Jean-Jacques Rousseau" },
+  "nationality": { "fr": "Genevois", "en": "Genevan" },
+  "birth": 1712,
+  "death": 1778,
+  "movements": ["enlightenment"],
+  "summary": {
+    "fr": "Né à Genève en 1712, autodidacte devenu l'un des plus grands écrivains du siècle, Jean-Jacques Rousseau occupe une place singulière dans les <mv id='enlightenment'>Lumières</mv> : philosophe du contrat et de la souveraineté du peuple, d'abord collaborateur de l'<w>Encyclopédie</w>, il se brouille pourtant avec <ph id='voltaire'>Voltaire</ph>, <ph id='diderot'>Diderot</ph> et <ph id='d-alembert'>d'Alembert</ph>. Son premier Discours soutient que les sciences et les arts ont corrompu les mœurs, et toute son œuvre oppose à la civilisation la bonté de l'homme naturel. Par la souveraineté populaire du Contrat social, l'éducation selon la nature de l'Émile et la religion du cœur du vicaire savoyard, il marque la pensée révolutionnaire et, par son culte du sentiment et de la nature, annonce le <mv id='romanticism'>romantisme</mv>. <ph id='kant'>Kant</ph>, qui l'appelait « le Newton du monde moral », lui doit sa morale de l'autonomie.",
+    "en": "Born in Geneva in 1712, a self-taught man who became one of the greatest writers of the century, Jean-Jacques Rousseau holds a singular place within the <mv id='enlightenment'>Enlightenment</mv>: a philosopher of the contract and of popular sovereignty, at first a contributor to the <w>Encyclopédie</w>, he nonetheless fell out with <ph id='voltaire'>Voltaire</ph>, <ph id='diderot'>Diderot</ph> and <ph id='d-alembert'>d'Alembert</ph>. His first Discourse argues that the sciences and arts have corrupted morals, and his whole work opposes to civilization the goodness of natural man. Through the popular sovereignty of the Social Contract, the education according to nature of Émile and the religion of the heart of the Savoyard vicar, he marks revolutionary thought and, by his cult of feeling and nature, heralds <mv id='romanticism'>Romanticism</mv>. <ph id='kant'>Kant</ph>, who called him « the Newton of the moral world », owes him his morality of autonomy."
+  },
+  "entries": [
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Rousseau ne valorise pas la souffrance pour elle-même, mais il lui reconnaît une fécondité : la <c>pitié</c>, premier mouvement naturel, naît de la souffrance d'autrui éprouvée comme la nôtre, et fonde toute humanité. L'épreuve et la mélancolie approfondissent l'âme sensible, ce qui annonce la valorisation romantique du sentiment douloureux, loin de l'insensibilité du mondain.",
+          "en": "Rousseau does not value suffering for its own sake, but he grants it a fruitfulness: <c>pity</c>, the first natural movement, is born of another's suffering felt as our own, and grounds all humanity. Ordeal and melancholy deepen the feeling soul, which heralds the Romantic valuing of painful sentiment, far from the worldly person's insensibility."
+        },
+        "references": [
+          {
+            "fr": "Discours sur l'origine de l'inégalité",
+            "en": "Discourse on the Origin of Inequality"
+          },
+          {
+            "fr": "Émile, IV",
+            "en": "Emile, IV"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.55,
+          0.45,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La <c>Profession de foi du Vicaire savoyard</c> affirme un Dieu bon, une providence et une âme immortelle, et fait de la <c>conscience</c> la voix infaillible de la nature en nous : un ordre donné, auquel la vie droite s'accorde. Mais le sens le plus intime, Rousseau le trouve dans le <kw>sentiment de l'existence</kw> et l'authenticité du moi, retrouvés loin des artifices sociaux, part proprement humaine et intérieure.",
+          "en": "The <c>Profession of Faith of the Savoyard Vicar</c> affirms a good God, a providence and an immortal soul, and makes <c>conscience</c> the infallible voice of nature within us: a given order, with which the upright life accords. But the most intimate meaning Rousseau finds in the <kw>sentiment of existence</kw> and the authenticity of the self, recovered far from social artifice, a properly human and inward share."
+        },
+        "references": [
+          {
+            "fr": "Émile, IV (Profession de foi du Vicaire savoyard)",
+            "en": "Emile, IV (Profession of Faith of the Savoyard Vicar)"
+          },
+          {
+            "fr": "Rêveries du promeneur solitaire",
+            "en": "Reveries of the Solitary Walker"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SOCIAL_CONTRACT",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.9 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Puisque nul n'a d'autorité naturelle sur son semblable et que la force ne fait pas droit, l'ordre légitime ne peut reposer que sur une convention. Rousseau cherche la forme d'association où chacun, se donnant à tous, ne se donne à personne, et « n'obéisse pourtant qu'à lui-même » : par l'aliénation de chacun à la <c id='volonte-generale'>volonté générale</c>, le sujet reste libre en obéissant à une loi dont il est coauteur. Contre <ph id='hobbes'>Hobbes</ph>, le pacte n'institue pas un maître mais un corps politique souverain.",
+          "en": "Since no one has natural authority over his fellow and force creates no right, the legitimate order can rest only on a convention. Rousseau seeks the form of association in which each, giving himself to all, gives himself to no one, and « still obeys only himself »: through each person's alienation to the <c id='volonte-generale'>general will</c>, the subject remains free in obeying a law of which he is co-author. Against <ph id='hobbes'>Hobbes</ph>, the pact institutes not a master but a sovereign body politic."
+        },
+        "quote": {
+          "text": {
+            "fr": "Trouver une forme d'association par laquelle chacun, s'unissant à tous, n'obéisse pourtant qu'à lui-même et reste aussi libre qu'auparavant.",
+            "en": "To find a form of association by which each, uniting with all, still obeys only himself and remains as free as before."
+          },
+          "source": { "fr": "Rousseau, Du contrat social, I, 6", "en": "Rousseau, The Social Contract, I, 6" }
+        },
+        "references": [
+          { "fr": "Rousseau, Du contrat social, livres I-II", "en": "Rousseau, The Social Contract, books I-II" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HUMAN_VISION",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.7 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "« L'homme est naturellement bon » : ses vices ne sont pas dans sa nature mais dans l'histoire qui l'en a écarté. À l'état de nature règnent l'amour de soi et la <c id='pitie'>pitié</c>, non la méchanceté ; ce sont la propriété, les comparaisons et l'<c id='amour-de-soi-et-amour-propre'>amour-propre</c> qui engendrent l'inégalité et la domination. Rousseau retourne ainsi le dogme du péché originel et déplace la faute de la nature vers la société : ce ne sont pas les hommes qu'il faut d'abord corriger, mais les institutions.",
+          "en": "« Man is naturally good »: his vices lie not in his nature but in the history that has drawn him from it. In the state of nature, self-love and <c id='pitie'>pity</c> reign, not wickedness; it is property, comparison and <c id='amour-de-soi-et-amour-propre'>amour-propre</c> that breed inequality and domination. Rousseau thus overturns the dogma of original sin and shifts the fault from nature to society: it is not men who must first be corrected, but institutions."
+        },
+        "quote": {
+          "text": {
+            "fr": "Tout est bien sortant des mains de l'Auteur des choses, tout dégénère entre les mains de l'homme.",
+            "en": "Everything is good as it leaves the hands of the Author of things; everything degenerates in the hands of man."
+          },
+          "source": { "fr": "Rousseau, Émile, livre I", "en": "Rousseau, Emile, book I" }
+        },
+        "references": [
+          { "fr": "Rousseau, Discours sur l'origine de l'inégalité", "en": "Rousseau, Discourse on the Origin of Inequality" },
+          { "fr": "Rousseau, Émile, livre I", "en": "Rousseau, Emile, book I" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TECHNOLOGY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.5 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Couronné en 1750 pour avoir soutenu le paradoxe que le rétablissement des sciences et des arts a corrompu les mœurs, Rousseau frappe l'espoir cardinal des Lumières : le progrès des lumières et des techniques n'entraîne pas le progrès moral, il l'érode. Le luxe et les arts polissent les apparences tout en amollissant les âmes et en masquant les vices sous des dehors policés. Ce n'est pas l'éloge de l'ignorance, mais le refus de l'équation, centrale au siècle, entre civilisation et amélioration de l'homme.",
+          "en": "Crowned in 1750 for defending the paradox that the revival of the sciences and arts has corrupted morals, Rousseau strikes at the Enlightenment's cardinal hope: the progress of knowledge and the arts does not bring moral progress, it erodes it. Luxury and the arts polish appearances while softening souls and masking vices beneath civil exteriors. This is no praise of ignorance, but a refusal of the century's central equation between civilization and the improvement of man."
+        },
+        "quote": {
+          "text": {
+            "fr": "Nos âmes se sont corrompues à mesure que nos sciences et nos arts se sont avancés à la perfection.",
+            "en": "Our souls have grown corrupt in proportion as our sciences and arts have advanced toward perfection."
+          },
+          "source": { "fr": "Rousseau, Discours sur les sciences et les arts (1750)", "en": "Rousseau, Discourse on the Sciences and Arts (1750)" }
+        },
+        "references": [
+          { "fr": "Rousseau, Discours sur les sciences et les arts", "en": "Rousseau, Discourse on the Sciences and Arts" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.7 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Contre l'intellectualisme qui fait de la raison le juge du bien, Rousseau loge la moralité dans un sentiment : la <c>conscience</c>, « instinct divin », nous fait aimer le bien avant de le comprendre, et la <c id='pitie'>pitié</c>, répugnance naturelle à voir souffrir, fonde la sociabilité avant tout calcul. Le cœur précède et déborde la raison. Cette réhabilitation du sentiment, déployée dans La Nouvelle Héloïse, ouvre la voie au <mv id='romanticism'>romantisme</mv>.",
+          "en": "Against the intellectualism that makes reason the judge of the good, Rousseau lodges morality in a feeling: <c>conscience</c>, a « divine instinct », makes us love the good before we understand it, and <c id='pitie'>pity</c>, the natural reluctance to see suffering, grounds sociability before any calculation. The heart precedes and overflows reason. This rehabilitation of feeling, unfolded in Julie, or the New Heloise, opens the way to <mv id='romanticism'>Romanticism</mv>."
+        },
+        "quote": {
+          "text": {
+            "fr": "Conscience ! conscience ! instinct divin, immortelle et céleste voix.",
+            "en": "Conscience! conscience! divine instinct, immortal and heavenly voice."
+          },
+          "source": { "fr": "Rousseau, Émile, Profession de foi du vicaire savoyard", "en": "Rousseau, Emile, Profession of Faith of the Savoyard Vicar" }
+        },
+        "references": [
+          { "fr": "Rousseau, Émile, Profession de foi du vicaire savoyard", "en": "Rousseau, Emile, Profession of Faith of the Savoyard Vicar" },
+          { "fr": "Rousseau, Julie ou la Nouvelle Héloïse", "en": "Rousseau, Julie, or the New Heloise" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "POLITICAL_LIBERTY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.05, 0.8, 0.15, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La liberté n'est pas l'absence d'entrave ni le droit de tout faire, mais l'obéissance à la loi qu'on s'est prescrite : une liberté positive, l'autonomie du citoyen. L'homme civil échange son indépendance naturelle contre la liberté morale, seule qui le rende vraiment maître de lui. C'est pourquoi celui qui refuse d'obéir à la <c id='volonte-generale'>volonté générale</c>, écrit Rousseau dans une formule redoutable, sera « forcé d'être libre ».",
+          "en": "Liberty is not the absence of hindrance or the right to do anything, but obedience to the law one has prescribed to oneself: a positive liberty, the autonomy of the citizen. Civil man exchanges his natural independence for moral liberty, the only kind that truly makes him master of himself. This is why whoever refuses to obey the <c id='volonte-generale'>general will</c>, Rousseau writes in a formidable phrase, shall be « forced to be free »."
+        },
+        "quote": {
+          "text": {
+            "fr": "L'obéissance à la loi qu'on s'est prescrite est liberté.",
+            "en": "Obedience to the law one has prescribed to oneself is liberty."
+          },
+          "source": { "fr": "Rousseau, Du contrat social, I, 8", "en": "Rousseau, The Social Contract, I, 8" }
+        },
+        "references": [
+          { "fr": "Rousseau, Du contrat social, I, 7-8", "en": "Rousseau, The Social Contract, I, 7-8" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DISTRIBUTIVE_JUSTICE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.7 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le second Discours fait de l'inégalité le mal politique majeur : née de la propriété, elle dénature l'amour de soi en <c id='amour-de-soi-et-amour-propre'>amour-propre</c> et institue la domination. Pas de liberté réelle là où les écarts de fortune permettent d'acheter et de se vendre. Position résolument égalitariste, qui le sépare du libéralisme lockéen de la propriété et inspirera la pensée révolutionnaire.",
+          "en": "The second Discourse makes inequality the major political evil: born of property, it warps self-love into <c id='amour-de-soi-et-amour-propre'>amour-propre</c> and institutes domination. There is no real liberty where gaps of fortune allow some to buy and others to sell themselves. A resolutely egalitarian stance, which sets him apart from Lockean property liberalism and will inspire revolutionary thought."
+        },
+        "quote": {
+          "text": {
+            "fr": "Que nul citoyen ne soit assez opulent pour en pouvoir acheter un autre, et nul assez pauvre pour être contraint de se vendre.",
+            "en": "That no citizen be rich enough to buy another, and none poor enough to be forced to sell himself."
+          },
+          "source": { "fr": "Rousseau, Du contrat social, II, 11", "en": "Rousseau, The Social Contract, II, 11" }
+        },
+        "references": [
+          { "fr": "Rousseau, Discours sur l'origine de l'inégalité", "en": "Rousseau, Discourse on the Origin of Inequality" },
+          { "fr": "Rousseau, Du contrat social, II, 11", "en": "Rousseau, The Social Contract, II, 11" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.6, 0.35, 0.05] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Loin de l'extinction stoïcienne ou bouddhiste, Rousseau tient le désir et l'imagination pour la source même du sentiment d'exister : on jouit moins de ce qu'on possède que de ce qu'on espère, et le bonheur est dans l'élan, non dans la pleine satisfaction. Mais cette affirmation n'est pas sans tri : il faut suivre les désirs simples nés de l'amour de soi et de la <c id='pitie'>pitié</c>, et se garder de ceux, insatiables, que l'<c id='amour-de-soi-et-amour-propre'>amour-propre</c> enfle par la comparaison.",
+          "en": "Far from Stoic or Buddhist extinction, Rousseau takes desire and imagination to be the very source of the feeling of existence: one enjoys less what one possesses than what one hopes for, and happiness lies in the striving, not in full satisfaction. Yet this affirmation is not without sorting: one must follow the simple desires born of self-love and <c id='pitie'>pity</c>, and beware of those insatiable ones that <c id='amour-de-soi-et-amour-propre'>amour-propre</c> inflates through comparison."
+        },
+        "quote": {
+          "text": {
+            "fr": "Malheur à qui n'a plus rien à désirer ! il perd pour ainsi dire tout ce qu'il possède.",
+            "en": "Woe to him who has nothing left to desire! He loses, as it were, all that he possesses."
+          },
+          "source": { "fr": "Rousseau, Julie ou la Nouvelle Héloïse, VI", "en": "Rousseau, Julie, or the New Heloise, VI" }
+        },
+        "references": [
+          { "fr": "Rousseau, Julie ou la Nouvelle Héloïse, VI", "en": "Rousseau, Julie, or the New Heloise, VI" },
+          { "fr": "Rousseau, Émile, livre II", "en": "Rousseau, Emile, book II" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "WHO_DECIDES",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.9 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La souveraineté réside dans le peuple ; elle est inaliénable et indivisible, et ne peut donc être représentée. Rousseau pousse la démocratie jusqu'à la souveraineté directe, le peuple assemblé faisant lui-même la loi, contre toute épistocratie comme contre le gouvernement purement représentatif. La représentation, à ses yeux, dépossède le citoyen de la liberté même qu'elle prétend servir.",
+          "en": "Sovereignty resides in the people; it is inalienable and indivisible, and therefore cannot be represented. Rousseau pushes democracy to direct sovereignty, the assembled people themselves making the law, against any epistocracy as against purely representative government. Representation, in his eyes, dispossesses the citizen of the very liberty it claims to serve."
+        },
+        "quote": {
+          "text": {
+            "fr": "À l'instant qu'un peuple se donne des représentants, il n'est plus libre ; il n'est plus.",
+            "en": "The instant a people gives itself representatives, it is no longer free; it no longer exists."
+          },
+          "source": { "fr": "Rousseau, Du contrat social, III, 15", "en": "Rousseau, The Social Contract, III, 15" }
+        },
+        "references": [
+          { "fr": "Rousseau, Du contrat social, III, 15", "en": "Rousseau, The Social Contract, III, 15" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "INDIVIDUAL_SOCIETY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.5 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le pacte ne juxtapose pas des individus : il les transforme en un corps moral et collectif, un « moi commun » doté d'une volonté propre. Le citoyen tient son être et sa liberté de cette totalité, à laquelle il s'aliène tout entier. Contre l'individualisme des Lumières, Rousseau penche du côté holiste, sans dissoudre l'individu puisque la fin reste sa liberté.",
+          "en": "The pact does not juxtapose individuals: it transforms them into a moral and collective body, a « common self » endowed with a will of its own. The citizen draws his being and his liberty from this whole, to which he alienates himself entirely. Against the individualism of the Enlightenment, Rousseau leans holist, without dissolving the individual, since the end remains his liberty."
+        },
+        "references": [
+          { "fr": "Rousseau, Du contrat social, I, 6", "en": "Rousseau, The Social Contract, I, 6" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CONSERVATISM_PROGRESSISM",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.15 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Rousseau n'est ni un progressiste qui attend le salut de la civilisation, ni un conservateur qui vénère la tradition établie. Il récuse l'idée, centrale au siècle, que le progrès des lumières porte celui des mœurs, et prend l'homme naturel pour étalon critique du présent ; mais il appelle une refondation politique radicale, non le maintien de l'ordre ancien. D'où une position en retrait du progressisme des Lumières, sans bascule dans le conservatisme.",
+          "en": "Rousseau is neither a progressive who expects salvation from civilization, nor a conservative who venerates established tradition. He rejects the century's central idea that the progress of enlightenment carries that of morals, and takes natural man as a critical yardstick for the present; yet he calls for a radical political refounding, not the maintenance of the old order. Hence a position drawn back from Enlightenment progressivism, without tipping into conservatism."
+        },
+        "references": [
+          { "fr": "Rousseau, Discours sur les sciences et les arts", "en": "Rousseau, Discourse on the Sciences and Arts" },
+          { "fr": "Rousseau, Du contrat social", "en": "Rousseau, The Social Contract" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SCIENCE_PLACE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.3 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Si la science accroît le savoir, elle n'est pour Rousseau ni le modèle du bien vivre ni la voie de la vertu : l'érudition et les arts naissent souvent de l'oisiveté et de la vanité, et flattent l'<c id='amour-de-soi-et-amour-propre'>amour-propre</c> plus qu'ils n'élèvent l'âme. Le savoir du cœur et de la conscience importe plus que celui des académies, d'où une nette mise en cause de l'autorité que le siècle reconnaît à la science.",
+          "en": "If science increases knowledge, it is for Rousseau neither the model of good living nor the path of virtue: erudition and the arts often spring from idleness and vanity, and flatter <c id='amour-de-soi-et-amour-propre'>amour-propre</c> more than they elevate the soul. The knowledge of the heart and of conscience matters more than that of the academies, hence a clear challenge to the authority the century grants to science."
+        },
+        "references": [
+          { "fr": "Rousseau, Discours sur les sciences et les arts", "en": "Rousseau, Discourse on the Sciences and Arts" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HUMAN_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.4 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La nature est chez Rousseau une norme : l'homme naturel, ses besoins simples et ses sentiments spontanés servent de mesure pour juger l'homme social et ses artifices. Si l'éducation et les institutions façonnent l'homme, c'est en l'écartant d'une bonté première qu'il s'agit de retrouver, non de dépasser. D'où un naturalisme, où la culture est suspecte de dénaturer plutôt que d'accomplir.",
+          "en": "Nature, for Rousseau, is a norm: natural man, his simple needs and spontaneous feelings serve as the measure for judging social man and his artifices. If education and institutions shape man, they do so by drawing him from a primal goodness that must be recovered, not surpassed. Hence a naturalism in which culture is suspected of denaturing rather than fulfilling."
+        },
+        "references": [
+          { "fr": "Rousseau, Discours sur l'origine de l'inégalité", "en": "Rousseau, Discourse on the Origin of Inequality" },
+          { "fr": "Rousseau, Émile", "en": "Rousseau, Emile" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.3 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'homme se distingue de l'animal moins par l'entendement que par la <c id='perfectibilite'>perfectibilité</c>, cette faculté de se transformer indéfiniment qui le laisse sans nature fixée d'avance. Ce que l'homme est, il le devient par son histoire ; sa nature même est d'être indéterminé, ce qui annonce de loin l'idée que l'existence précède l'essence.",
+          "en": "Man differs from the animal less by understanding than by <c id='perfectibilite'>perfectibility</c>, that faculty of transforming oneself indefinitely which leaves him with no nature fixed in advance. What man is, he becomes through his history; his very nature is to be undetermined, which distantly heralds the idea that existence precedes essence."
+        },
+        "references": [
+          { "fr": "Rousseau, Discours sur l'origine de l'inégalité", "en": "Rousseau, Discourse on the Origin of Inequality" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.7 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Nul n'a poussé plus loin l'exploration du moi intérieur : les Confessions inaugurent l'autobiographie du sujet singulier, et les Rêveries font de l'examen de soi et du sentiment intérieur le lieu de la vérité. Contre le primat de l'action publique, Rousseau valorise le retour sur soi, la solitude et l'écoute de la <c>conscience</c>.",
+          "en": "No one has pushed the exploration of the inner self further: the Confessions inaugurate the autobiography of the singular subject, and the Reveries make self-examination and inner feeling the place of truth. Against the primacy of public action, Rousseau prizes the return upon oneself, solitude and the listening to <c>conscience</c>."
+        },
+        "references": [
+          { "fr": "Rousseau, Les Confessions", "en": "Rousseau, The Confessions" },
+          { "fr": "Rousseau, Les Rêveries du promeneur solitaire", "en": "Rousseau, Reveries of the Solitary Walker" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "AESTHETIC_LIFE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.5 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Si Rousseau exalte le sentiment et la nature, il ne fait pas de l'art le lieu suprême de l'existence : dans la Lettre à d'Alembert, il dénonce le théâtre qui amollit les mœurs et flatte les passions. L'éthique prime l'esthétique, la vertu l'emporte sur le goût. C'est en quoi il se distingue déjà des romantiques esthètes qu'il inspire pourtant.",
+          "en": "Though Rousseau exalts feeling and nature, he does not make art the highest place of existence: in the Letter to d'Alembert, he denounces the theatre that softens morals and flatters the passions. Ethics takes precedence over aesthetics, virtue over taste. In this he already differs from the aesthete Romantics he nonetheless inspires."
+        },
+        "references": [
+          { "fr": "Rousseau, Lettre à d'Alembert sur les spectacles", "en": "Rousseau, Letter to d'Alembert on the Theatre" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HUMAN_PLACE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.15, 0.35, 0.5] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Contre le projet baconien de se rendre maître et possesseur de la nature, Rousseau oppose l'harmonie de l'homme avec un ordre naturel dont l'éloignement fait son malheur. La nature n'est pas un matériau à exploiter mais un modèle et un refuge ; l'homme y est d'abord un vivant parmi d'autres, non un souverain.",
+          "en": "Against the Baconian project of making oneself master and possessor of nature, Rousseau sets the harmony of man with a natural order whose loss makes his unhappiness. Nature is not a material to exploit but a model and a refuge; in it man is first of all a living being among others, not a sovereign."
+        },
+        "references": [
+          { "fr": "Rousseau, Discours sur l'origine de l'inégalité", "en": "Rousseau, Discourse on the Origin of Inequality" },
+          { "fr": "Rousseau, Les Rêveries du promeneur solitaire", "en": "Rousseau, Reveries of the Solitary Walker" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.5 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La Profession de foi du vicaire savoyard affirme un Dieu, auteur d'un ordre du monde que le cœur reconnaît, et l'immortalité de l'âme. Mais ce théisme est celui d'une religion naturelle, ou <c id='deisme'>déisme</c> : Rousseau récuse les preuves de la théologie comme les dogmes révélés, et se sépare nettement de l'athéisme matérialiste d'un <ph id='holbach'>d'Holbach</ph>.",
+          "en": "The Profession of Faith of the Savoyard Vicar affirms a God, author of an order of the world that the heart recognizes, and the immortality of the soul. But this theism is that of a natural religion, or <c id='deisme'>deism</c>: Rousseau rejects the proofs of theology as well as revealed dogmas, and parts clearly from the atheist materialism of a <ph id='holbach'>d'Holbach</ph>."
+        },
+        "references": [
+          { "fr": "Rousseau, Émile, Profession de foi du vicaire savoyard", "en": "Rousseau, Emile, Profession of Faith of the Savoyard Vicar" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "FAITH_REASON",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.4, 0.35, 0.05, 0.2] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La foi du vicaire ne repose ni sur l'autorité de l'Église ni sur une démonstration, mais sur le sentiment intérieur : c'est le cœur qui atteste Dieu là où la raison hésite. Cette religion de la <c>conscience</c>, à mi-chemin du fidéisme et d'une harmonie de la foi et de la raison naturelle, annonce le sentiment religieux des romantiques et de <ph>Schleiermacher</ph>.",
+          "en": "The vicar's faith rests neither on the authority of the Church nor on a demonstration, but on inner feeling: it is the heart that attests to God where reason wavers. This religion of <c>conscience</c>, midway between fideism and a harmony of faith with natural reason, heralds the religious feeling of the Romantics and of <ph>Schleiermacher</ph>."
+        },
+        "references": [
+          { "fr": "Rousseau, Émile, Profession de foi du vicaire savoyard", "en": "Rousseau, Emile, Profession of Faith of the Savoyard Vicar" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.05, 0.2, 0.45, 0.3] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le fondement de la morale n'est ni le calcul des conséquences ni une règle abstraite, mais deux mouvements naturels du cœur : l'amour de soi bien ordonné et la <c id='pitie'>pitié</c>, sentiment immédiat qui nous fait souffrir du mal d'autrui. La <c>conscience</c>, instinct du bien, précède la raison. On est proche d'une éthique de la vertu et du soin, où le sentiment fonde l'obligation plutôt que la loi.",
+          "en": "The foundation of morality is neither the calculation of consequences nor an abstract rule, but two natural movements of the heart: well-ordered self-love and <c id='pitie'>pity</c>, the immediate feeling that makes us suffer at another's harm. <c>Conscience</c>, the instinct for the good, precedes reason. This is close to an ethics of virtue and of care, where feeling, rather than law, grounds obligation."
+        },
+        "references": [
+          { "fr": "Rousseau, Émile, Profession de foi du vicaire savoyard", "en": "Rousseau, Emile, Profession of Faith of the Savoyard Vicar" },
+          { "fr": "Rousseau, Discours sur l'origine de l'inégalité", "en": "Rousseau, Discourse on the Origin of Inequality" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SELF_INTEREST",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.4 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "À l'égoïsme que la société fabrique par l'<c id='amour-de-soi-et-amour-propre'>amour-propre</c>, Rousseau oppose la <c id='pitie'>pitié</c>, antérieure à toute réflexion, qui tempère l'amour de soi par l'identification à l'être qui souffre. L'homme n'est pas naturellement porté à nuire ; c'est la dénaturation sociale qui l'oppose à autrui. Position penchant vers l'altruisme, fondée sur un sentiment et non sur un devoir.",
+          "en": "To the egoism that society manufactures through <c id='amour-de-soi-et-amour-propre'>amour-propre</c>, Rousseau opposes <c id='pitie'>pity</c>, prior to all reflection, which tempers self-love by identification with the suffering being. Man is not naturally inclined to harm; it is social denaturing that sets him against others. A stance leaning toward altruism, grounded in a feeling rather than in a duty."
+        },
+        "references": [
+          { "fr": "Rousseau, Discours sur l'origine de l'inégalité", "en": "Rousseau, Discourse on the Origin of Inequality" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TIME_ORIENTATION",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.6, 0.2, 0.2] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Dans les Rêveries, Rousseau décrit ces instants où, sans passé ni avenir, l'âme se suffit à elle-même dans le pur « sentiment de l'existence ». Le bonheur n'est ni dans le projet ni dans la mémoire, mais dans la présence pleine à l'instant et à la nature. Cette valorisation du présent éprouvé inspirera la sensibilité romantique.",
+          "en": "In the Reveries, Rousseau describes those moments when, with neither past nor future, the soul suffices to itself in the pure « feeling of existence ». Happiness lies neither in the project nor in memory, but in full presence to the moment and to nature. This prizing of the lived present will inspire the Romantic sensibility."
+        },
+        "references": [
+          { "fr": "Rousseau, Les Rêveries du promeneur solitaire, 5e promenade", "en": "Rousseau, Reveries of the Solitary Walker, Fifth Walk" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.55, 0.2, 0.25] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La <c>conscience</c>, « juge infaillible du bien et du mal », parle en tout homme : ses verdicts ne dépendent pas des coutumes locales mais d'un sentiment commun à l'espèce. Rousseau maintient ainsi un universalisme moral, même s'il reconnaît, en législateur de la Pologne ou de la Corse, que les institutions doivent s'ajuster au génie particulier de chaque peuple.",
+          "en": "<c>Conscience</c>, the « infallible judge of good and evil », speaks in every man: its verdicts depend not on local customs but on a feeling common to the species. Rousseau thus maintains a moral universalism, even though, as legislator for Poland or Corsica, he acknowledges that institutions must be fitted to the particular genius of each people."
+        },
+        "references": [
+          { "fr": "Rousseau, Émile, Profession de foi du vicaire savoyard", "en": "Rousseau, Emile, Profession of Faith of the Savoyard Vicar" },
+          { "fr": "Rousseau, Considérations sur le gouvernement de Pologne", "en": "Rousseau, Considerations on the Government of Poland" }
+        ],
+        "strength": "MEDIUM"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "SOCIAL_CONTRACT",
+      "thesis": {
+        "fr": "« L'homme est né libre, et partout il est dans les fers » : seul un pacte où chacun, s'unissant à tous, n'obéit qu'à lui-même peut fonder une autorité légitime.",
+        "en": "« Man is born free, and everywhere he is in chains »: only a pact in which each, uniting with all, obeys only himself can found a legitimate authority."
+      }
+    },
+    {
+      "axisId": "HUMAN_VISION",
+      "thesis": {
+        "fr": "L'homme est naturellement bon ; ce sont la propriété, les comparaisons et la société qui l'ont corrompu.",
+        "en": "Man is naturally good; it is property, comparison and society that have corrupted him."
+      }
+    },
+    {
+      "axisId": "TECHNOLOGY",
+      "thesis": {
+        "fr": "Le progrès des sciences et des arts n'a pas amélioré les mœurs, il les a corrompues : civilisation ne veut pas dire amélioration morale.",
+        "en": "The progress of the sciences and arts has not improved morals, it has corrupted them: civilization does not mean moral improvement."
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "thesis": {
+        "fr": "La conscience est un sentiment, non un calcul : c'est le cœur, et la pitié, qui nous disent le bien avant la froide raison.",
+        "en": "Conscience is a feeling, not a calculation: it is the heart, and pity, that tell us the good before cold reason."
+      }
+    },
+    {
+      "axisId": "POLITICAL_LIBERTY",
+      "thesis": {
+        "fr": "Être libre, ce n'est pas faire ce qu'on veut, c'est n'obéir qu'aux lois qu'on s'est prescrites : la liberté est autonomie.",
+        "en": "To be free is not to do what one wants, it is to obey only the laws one has prescribed to oneself: liberty is autonomy."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-25T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

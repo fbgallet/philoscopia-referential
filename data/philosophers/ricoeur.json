@@ -1,0 +1,26 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "ricoeur",
+  "stub": true,
+  "name": {
+    "fr": "Paul Ricœur",
+    "en": "Paul Ricœur"
+  },
+  "summary": {
+    "fr": "Philosophe français de l'herméneutique, théoricien de l'identité narrative, qui pensa le soi « comme un autre » à travers les récits par lesquels une vie se comprend.",
+    "en": "French philosopher of hermeneutics, theorist of narrative identity, who thought the self « as another » through the stories by which a life understands itself."
+  },
+  "birth": 1913,
+  "death": 2005,
+  "nationality": {
+    "fr": "Français",
+    "en": "French"
+  },
+  "movements": [
+    "phenomenology"
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

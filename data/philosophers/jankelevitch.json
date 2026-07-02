@@ -1,0 +1,16 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "jankelevitch",
+  "name": { "fr": "Jankélévitch", "en": "Jankélévitch" },
+  "summary": {
+    "fr": "Philosophe français de la morale et de la musique. Sur le pardon : il refuse le pardon facile ; certains crimes, restés sans repentir, demeurent impardonnables, et les pardonner trahirait les victimes.",
+    "en": "French philosopher of morality and music. On forgiveness: he refuses cheap forgiveness; some crimes, met with no repentance, remain unforgivable, and to forgive them would betray the victims."
+  },
+  "nationality": { "fr": "Français", "en": "French" },
+  "birth": 1903,
+  "death": 1985,
+  "movements": [],
+  "updatedAt": "2026-06-26T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

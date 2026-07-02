@@ -1,0 +1,12 @@
+{
+  "id": "universalism-grounds-deontologism",
+  "ground": { "axisId": "MORAL_SCOPE", "poleId": "UNIVERSALISM_REALISM" },
+  "grounded": { "axisId": "ETHICS_FOUNDATION", "poleId": "DEONTOLOGISM" },
+  "kind": "T_V",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "S'il existe des normes objectives valables pour tout être raisonnable, le critère du juste est la conformité au devoir, et non le calcul des effets. L'universalisme moral fonde le déontologisme : <ph id='kant'>Kant</ph> tire de la raison un <c id='categorical-imperative'>impératif catégorique</c> qui vaut sans condition, indépendamment des conséquences.",
+    "en": "If there are objective norms valid for every rational being, the criterion of right action is conformity to duty, not the calculation of effects. Moral universalism grounds deontologism: <ph id='kant'>Kant</ph> derives from reason a <c id='categorical-imperative'>categorical imperative</c> that holds unconditionally, regardless of consequences."
+  },
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

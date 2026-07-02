@@ -1,0 +1,16 @@
+{
+  "id": "epicurus-to-lucretius",
+  "from": { "kind": "PHILOSOPHER", "slug": "epicurus" },
+  "to": { "kind": "PHILOSOPHER", "slug": "lucretius" },
+  "directness": "INDIRECT",
+  "mode": "TRANSMITS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Trois siècles après <ph id='epicurus'>Épicure</ph>, <ph id='lucretius'>Lucrèce</ph> transmet au monde romain, dans un grand poème, sa physique <c>atomiste</c> et son éthique de libération de la crainte des dieux et de la mort.",
+    "en": "Three centuries after <ph id='epicurus'>Epicurus</ph>, <ph id='lucretius'>Lucretius</ph> transmits to the Roman world, in a great poem, his <c>atomist</c> physics and his ethics of release from the fear of the gods and of death."
+  },
+  "sources": [
+    { "fr": "Lucrèce, De la nature (De rerum natura)", "en": "Lucretius, On the Nature of Things (De rerum natura)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "tetrapharmakos",
+  "term": { "fr": "Le tétrapharmakos (le quadruple remède)", "en": "The tetrapharmakos (the fourfold cure)" },
+  "definition": {
+    "fr": "Le tétrapharmakos est le « quadruple remède » épicurien, formule condensée de la sagesse de <ph id='epicurus'>Épicure</ph> : les dieux ne sont pas à craindre, la mort n'est rien pour nous, le plaisir est facile à atteindre, la douleur est facile à supporter. <ety>Du grec, le « médicament à quatre composants ».</ety> Ces quatre maximes congédient les angoisses majeures et ouvrent la voie à l'<c id='ataraxia'>ataraxie</c> ; elles prolongent l'<c id='hedonism'>hédonisme</c> épicurien comme thérapeutique de l'âme.",
+    "en": "The tetrapharmakos is the Epicurean \"fourfold cure\", a condensed formula of the wisdom of <ph id='epicurus'>Epicurus</ph>: the gods are not to be feared, death is nothing to us, pleasure is easy to attain, pain is easy to bear. <ety>From the Greek, the \"four-component remedy\".</ety> These four maxims dismiss the major anxieties and open the way to <c id='ataraxia'>ataraxia</c>; they extend Epicurean <c id='hedonism'>hedonism</c> as a therapy of the soul."
+  },
+  "relatedAxes": ["DEATH", "SUFFERING_MEANING", "GOD_EXISTENCE"],
+  "relatedTerms": ["ataraxia", "hedonism"],
+  "figure": { "slug": "epicurus", "name": { "fr": "Épicure", "en": "Epicurus" } },
+  "positions": [
+    { "axisId": "DEATH", "poleId": "EPICUREANISM" },
+    { "axisId": "SUFFERING_MEANING", "poleId": "ABOLITIONISM" }
+  ],
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

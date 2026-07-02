@@ -1,0 +1,1056 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "confucius",
+  "name": {
+    "fr": "Confucius",
+    "en": "Confucius"
+  },
+  "fullName": {
+    "fr": "Kong Qiu (Kongzi, « Maître Kong »)",
+    "en": "Kong Qiu (Kongzi, \"Master Kong\")"
+  },
+  "tagline": {
+    "fr": "Devenir pleinement humain en cultivant le <c>ren 仁 (la vertu d'humanité)</c> et en honorant les <c>li 禮 (les rites)</c>.",
+    "en": "Becoming fully human by cultivating <c>ren 仁 (humaneness)</c> and honouring the <c>li 禮 (rites)</c>."
+  },
+  "summary": {
+    "fr": "Maître itinérant de la Chine des Printemps et Automnes (VIe-Ve siècle avant notre ère), né dans le petit État de Lu à une époque de guerres et de délitement de l'ordre féodal des Zhou. Magistrat un temps, puis conseiller errant cherchant en vain un prince pour appliquer ses vues, il forme surtout des disciples : ses propos, recueillis après sa mort dans <w>les Entretiens (Lunyu)</w>, sont la source première de sa pensée et fondent le <mv id='confucianism'>confucianisme</mv>. Face au désordre de son temps, sa réponse n'est ni religieuse ni juridique mais éthique : reformer la personne et les relations pour régénérer la société, par l'étude des Anciens et la <c>culture de soi</c>. Tenu pour le premier éducateur chinois, érigé en figure tutélaire de l'État impérial qui fit de ses textes la base des examens mandarinaux, il demeure une référence majeure des cultures d'Asie orientale.",
+    "en": "An itinerant master of Spring-and-Autumn China (sixth to fifth century BCE), born in the small state of Lu in an age of warfare and of the unravelling of the Zhou feudal order. A magistrate for a time, then a wandering counsellor vainly seeking a ruler to apply his views, he formed disciples above all: his sayings, collected after his death in <w>the Analects (Lunyu)</w>, are the primary source of his thought and ground <mv id='confucianism'>Confucianism</mv>. To the disorder of his age his answer is neither religious nor legal but ethical: to reform the person and the relationships so as to regenerate society, through the study of the Ancients and <c>self-cultivation</c>. Regarded as China's first educator and later raised into the tutelary figure of the imperial state, which made his texts the basis of the mandarin examinations, he remains a major reference of East Asian cultures."
+  },
+  "birth": -551,
+  "death": -479,
+  "nationality": {
+    "fr": "Chinois",
+    "en": "Chinese"
+  },
+  "movements": [
+    "confucianism"
+  ],
+  "entries": [
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'adversité n'est pas pour Confucius un pur malheur : c'est dans l'épreuve que se révèle et se trempe l'homme de bien, qui reste droit quand le vulgaire se débande. Mencius systématise cette fécondité : quand le Ciel va confier une grande mission à quelqu'un, il commence par <q>exercer son cœur par la souffrance et ses membres par la peine</q>, afin de fortifier ce qui lui manquait.",
+          "en": "Adversity is not for Confucius a pure misfortune: it is in ordeal that the gentleman is revealed and tempered, staying upright where lesser men give way. Mencius systematizes this fruitfulness: when Heaven is about to confer a great mission on someone, it first <q>exercises his heart with suffering and his sinews with toil</q>, so as to strengthen what he lacked."
+        },
+        "references": [
+          {
+            "fr": "Entretiens (Lunyu), XV.2",
+            "en": "Analects (Lunyu), XV.2"
+          },
+          {
+            "fr": "Mencius, VI B, 15",
+            "en": "Mencius, VI B, 15"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.6,
+          0.4,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le sens, pour Confucius, s'enracine dans le <c>Mandat du Ciel</c> (Tian ming) : un ordre normatif, une Voie qui dépasse l'individu et à laquelle il revient d'accorder sa conduite. Mais cet ordre ne s'accomplit que par l'effort humain, la culture de soi, les rites et la justice des relations : la vie prend sens en réalisant, ici-bas, la part qui nous échoit dans l'harmonie voulue par le Ciel.",
+          "en": "Meaning, for Confucius, is rooted in the <c>Mandate of Heaven</c> (Tian ming): a normative order, a Way that surpasses the individual and to which one must attune one's conduct. But this order is fulfilled only through human effort, self-cultivation, the rites and the justice of relationships: life takes on meaning by realizing, here below, the share that falls to us in the harmony willed by Heaven."
+        },
+        "references": [
+          {
+            "fr": "Entretiens (Lunyu), II.4 et XVI.8",
+            "en": "Analects (Lunyu), II.4 and XVI.8"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.5,
+          0.1,
+          0.4,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Interrogé sur la mort et les esprits, Confucius détourne vers la vie : <q>tu ne sais pas encore servir les vivants, comment saurais-tu servir les morts ?</q>. Il écarte la spéculation sur l'au-delà sans la nier, et reporte le soin sur la conduite présente. Mais le culte des ancêtres maintient une continuité : les morts demeurent présents par la mémoire et les rites, une forme de survie dans la lignée.",
+          "en": "Asked about death and the spirits, Confucius redirects attention to life: <q>you do not yet know how to serve the living, how could you know how to serve the dead?</q>. He sets aside speculation about the hereafter without denying it, and shifts care onto present conduct. But the cult of ancestors maintains a continuity: the dead remain present through memory and the rites, a form of survival in the lineage."
+        },
+        "references": [
+          {
+            "fr": "Entretiens (Lunyu), XI.12",
+            "en": "Analects (Lunyu), XI.12"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.15,
+          0.7,
+          0.15
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le confucianisme ne condamne pas le désir mais le civilise par les <c>rites</c> et le sens de la convenance : on satisfait ses penchants dans les formes justes et à la juste mesure. L'idéal est l'accord parfait du désir et de la norme, que Confucius dit n'avoir atteint qu'au terme d'une longue culture de soi.",
+          "en": "Confucianism does not condemn desire but civilizes it through the <c>rites</c> and the sense of propriety: one satisfies one's inclinations in the right forms and to the right measure. The ideal is the perfect accord of desire and norm, which Confucius says he reached only at the end of a long self-cultivation."
+        },
+        "references": [
+          {
+            "fr": "Entretiens (Lunyu), II.4 et XII.1",
+            "en": "Analects (Lunyu), II.4 and XII.1"
+          }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "À soixante-dix ans, je suivais les désirs de mon cœur sans jamais franchir la règle.",
+            "en": "At seventy, I could follow my heart's desire without overstepping the line."
+          },
+          "source": {
+            "fr": "Entretiens, II.4",
+            "en": "Analects, II.4"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.1
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Confucius dit peu de la nature humaine, sinon que <q>par nature les hommes sont proches, par la pratique ils s'éloignent</q>. Le fond commun est ténu, et c'est la culture de soi, l'étude et les rites qui font le gentilhomme : l'essentiel se joue dans la formation plus que dans une essence donnée, d'où une position presque centrale, à peine inclinée vers le donné.",
+          "en": "Confucius says little of human nature, save that <q>by nature men are close, by practice they grow apart</q>. The common ground is thin, and it is self-cultivation, study and the rites that make the gentleman: what is essential plays out in formation more than in a given essence, hence a position near the center, barely inclined toward the given."
+        },
+        "references": [
+          {
+            "fr": "Entretiens (Lunyu), XVII.2 et V.13",
+            "en": "Analects (Lunyu), XVII.2 and V.13"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.2
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Confucius partage le sort entre ce qui relève du Ciel et ce qui dépend de nous : la durée de la vie, la richesse et les honneurs tiennent au <c>décret</c> (ming) que le sage accueille sans s'y aliéner ; mais devenir pleinement <c>humain</c> (ren) ne dépend que de soi. La fortune extérieure est ainsi largement déterminée, tandis que la perfection morale demeure l'œuvre toujours possible d'une volonté.",
+          "en": "Confucius divides one's lot between what belongs to Heaven and what depends on us: the span of life, wealth and honors hang on the <c>decree</c> (ming) that the sage welcomes without surrendering to it; but to become fully <c>humane</c> (ren) depends on oneself alone. Outer fortune is thus largely determined, while moral perfection remains the ever-possible work of the will."
+        },
+        "references": [
+          {
+            "fr": "Entretiens (Lunyu), XII.5 et VII.29",
+            "en": "Analects (Lunyu), XII.5 and VII.29"
+          },
+          {
+            "fr": "Entretiens, XX.3",
+            "en": "Analects, XX.3"
+          }
+        ],
+        "strength": "MEDIUM",
+        "quote": {
+          "text": {
+            "fr": "Le vouloir-humain est-il donc loin ? Dès que je le veux, le voici.",
+            "en": "Is humaneness far off? No sooner do I desire it than it is here."
+          },
+          "source": {
+            "fr": "Entretiens, VII.29",
+            "en": "Analects, VII.29"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.1,
+          0.8,
+          0.1
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Parce que la moralité ne se laisse ni codifier en règles ni réduire au calcul des effets, ce qu'il faut former, c'est une personne, son <c>caractère</c> et son discernement situé. De là le déplacement de l'évaluation de l'acte vers l'agent : la mesure du bien est le <c>junzi 君子 (l'homme de noble caractère)</c> habité par le <c>ren 仁 (l'humanité)</c>, et cette vertu ne se décrète pas, elle s'acquiert par une longue culture de soi et l'imitation des modèles. La <c>vertu</c> n'est pas l'obéissance à une loi mais une disposition intérieure rendue stable par l'habitude, ce qui ancre la fondation du côté de l'éthique des vertus. Subsiste une part déontologique dans la fidélité aux <c>li 禮 (les rites)</c> et une part de <ax id='ETHICS_FOUNDATION'>sollicitude</ax> dans le primat de l'affection familiale.",
+          "en": "Because morality can neither be codified into rules nor reduced to a reckoning of outcomes, what must be formed is a person, their <c>character</c> and their situated discernment. Hence the shift of appraisal from the act to the agent: the measure of the good is the <c>junzi 君子 (person of noble character)</c> animated by <c>ren 仁 (humaneness)</c>, and this virtue cannot be decreed, it is won through long self-cultivation and the imitation of exemplars. <c>Virtue</c> is not obedience to a law but an inner disposition made stable by habit, which anchors the foundation on the side of virtue ethics. A deontological share remains in fidelity to the <c>li 禮 (rites)</c>, and a share of <ax id='ETHICS_FOUNDATION'>care</ax> in the primacy of familial affection."
+        },
+        "references": [
+          {
+            "fr": "Entretiens (Lunyu), XII, 1-2 (le ren et la maîtrise de soi par les rites)",
+            "en": "Analects (Lunyu), XII, 1-2 (ren and self-mastery through the rites)"
+          },
+          {
+            "fr": "Entretiens, IV, 5 et VI, 30 (le junzi ne s'écarte jamais de l'humanité)",
+            "en": "Analects, IV, 5 and VI, 30 (the junzi never departs from humaneness)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Se vaincre soi-même et revenir aux rites, voilà l'humanité (ren).",
+            "en": "To master oneself and return to the rites: that is humaneness (ren)."
+          },
+          "source": {
+            "fr": "Entretiens, XII, 1",
+            "en": "Analects, XII, 1"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "PARTIALITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La vertu d'humanité ne tombe pas du ciel d'un principe abstrait : elle pousse à partir de l'affection vécue dans la famille, puis s'étend par cercles concentriques. La <c>xiao (piété filiale)</c> est donc présentée comme la racine même du <c>ren 仁 (l'humanité)</c>, et c'est ce qui justifie une faveur graduée plutôt qu'une égale considération pour tous. Le <pb>cas du fils qui couvre la faute de son père</pb>, où le maître donne raison à la solidarité familiale contre la dénonciation, est l'épreuve délibérée de cette thèse : si l'on coupait l'amour de sa source affective et partiale, on tarirait la moralité elle-même, contre tout impartialisme qui prétend aimer également les inconnus et les siens.",
+          "en": "Humaneness does not descend from an abstract principle: it grows out of the affection lived in the family and then radiates in concentric circles. <c>Xiao (filial piety)</c> is accordingly presented as the very root of <c>ren 仁 (humaneness)</c>, and this is what licenses a graded favour rather than equal regard for all. The <pb>case of the son who screens his father's fault</pb>, where the master sides with family solidarity against denunciation, is the deliberate test of the thesis: to sever love from its partial, affective source would dry up morality itself, against any impartialism that claims to love strangers and kin alike."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, I, 2 (la piété filiale, racine de l'humanité)",
+            "en": "Analects, I, 2 (filial piety, the root of humaneness)"
+          },
+          {
+            "fr": "Entretiens, XIII, 18 (le père couvre le fils, le fils couvre le père)",
+            "en": "Analects, XIII, 18 (the father screens the son, the son screens the father)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Le droit chemin est là : le père couvre son fils, le fils couvre son père.",
+            "en": "Uprightness lies in this: the father screens his son, and the son screens his father."
+          },
+          "source": {
+            "fr": "Entretiens, XIII, 18",
+            "en": "Analects, XIII, 18"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CONSERVATISM_PROGRESSISM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le présupposé est que la <c id='dao'>Voie (dao)</c> a déjà été pleinement réalisée par les sages rois et les <c>li 禮 (les rites)</c> de la dynastie Zhou, et que le désordre du temps vient de leur dégradation, non d'un manque de nouveauté. Si le bien a un précédent accompli, alors la tâche rationnelle est de restaurer et de transmettre, non d'inventer : se déclarer transmetteur et non créateur n'est donc pas une modestie mais une thèse, le refus de fonder la norme sur l'invention présente. La référence normative est le passé exemplaire, ce qui en fait un <ax id='CONSERVATISM_PROGRESSISM'>conservateur</ax> au sens fort, à rebours de toute foi dans le progrès.",
+          "en": "The premise is that the <c id='dao'>Way (dao)</c> was already fully realized by the sage-kings and the <c>li 禮 (rites)</c> of the Zhou dynasty, and that the disorder of the age stems from their decay, not from a want of novelty. If the good has an accomplished precedent, the rational task is to restore and transmit it, not to invent: to call oneself a transmitter and not a maker is therefore not modesty but a thesis, the refusal to ground the norm in present invention. The normative reference is the exemplary past, which makes him a <ax id='CONSERVATISM_PROGRESSISM'>conservative</ax> in the strong sense, against any faith in progress."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, VII, 1 (je transmets et n'invente pas, j'aime et je crois aux Anciens)",
+            "en": "Analects, VII, 1 (I transmit and do not create, I love and trust the Ancients)"
+          },
+          {
+            "fr": "Entretiens, III, 14 (Confucius suit les Zhou)",
+            "en": "Analects, III, 14 (Confucius follows the Zhou)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Je transmets et je n'invente pas ; j'aime les Anciens et je leur fais confiance.",
+            "en": "I transmit and do not create; I love the Ancients and trust them."
+          },
+          "source": {
+            "fr": "Entretiens, VII, 1",
+            "en": "Analects, VII, 1"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TIME_ORIENTATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0.05,
+          0.85
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le temps confucéen est orienté vers le passé comme modèle : <q>ranimer l'ancien pour comprendre le nouveau</q>, telle est la marche du maître. L'étude des Anciens, des rituels et des odes transmet une sagesse à incarner ; l'avenir compte moins comme projet à inventer que comme continuité à préserver. C'est une orientation de <ax id='TIME_ORIENTATION'>mémoire et de transmission</ax>.",
+          "en": "Confucian time is oriented toward the past as a model: <q>reviving the old to understand the new</q> is the master's way. Studying the Ancients, the rituals and the odes transmits a wisdom to embody; the future counts less as a project to invent than as a continuity to preserve. This is an orientation of <ax id='TIME_ORIENTATION'>memory and transmission</ax>."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, II, 11 (ranimer l'ancien pour connaître le nouveau)",
+            "en": "Analects, II, 11 (reviving the old to know the new)"
+          },
+          {
+            "fr": "Entretiens, VII, 19 (un homme épris d'antiquité, infatigable à s'instruire)",
+            "en": "Analects, VII, 19 (a man fond of antiquity, untiring in his study)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Qui ranime l'ancien pour comprendre le nouveau est digne d'être un maître.",
+            "en": "He who revives the old to understand the new is fit to be a teacher."
+          },
+          "source": {
+            "fr": "Entretiens, II, 11",
+            "en": "Analects, II, 11"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "BELONGING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'individu n'existe que pris dans un tissu de relations particulières : famille, lignage, communauté, État, ordonnés par les <c>li 禮 (les rites)</c>. La <c>xiao (piété filiale)</c> et la loyauté envers les siens priment sur toute appartenance abstraite à l'humanité, ce qui ancre Confucius du côté du <ax id='BELONGING'>communautarisme</ax>.",
+          "en": "The individual exists only as caught in a fabric of particular relationships: family, lineage, community, state, ordered by the <c>li 禮 (rites)</c>. <c>Xiao (filial piety)</c> and loyalty to one's own take priority over any abstract belonging to humanity, anchoring Confucius on the side of <ax id='BELONGING'>communitarianism</ax>."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, I, 2 (l'ordre familial, fondement de l'ordre social)",
+            "en": "Analects, I, 2 (the familial order, foundation of the social order)"
+          },
+          {
+            "fr": "Entretiens, XII, 11 (que le père soit père, le fils fils)",
+            "en": "Analects, XII, 11 (let the father be a father, the son a son)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SOCIAL_CONTRACT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.9
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La société n'est pas un pacte entre individus libres et égaux, mais un ordre <c>organique</c> calqué sur la famille : l'État prolonge les relations naturelles de parenté et d'autorité. La <c>zhengming (rectification des noms)</c> assigne à chacun sa place et son devoir, le prince devant être prince et le sujet sujet, comme le père doit être père. C'est une <ax id='SOCIAL_CONTRACT'>communauté organique</ax>.",
+          "en": "Society is not a pact among free and equal individuals, but an <c>organic</c> order modelled on the family: the state continues the natural relations of kinship and authority. <c>Zhengming (the rectification of names)</c> assigns each his place and duty, the ruler to be a ruler and the subject a subject, as the father must be a father. This is an <ax id='SOCIAL_CONTRACT'>organic community</ax>."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, XII, 11 (que le prince soit prince, le sujet sujet)",
+            "en": "Analects, XII, 11 (let the ruler be a ruler, the subject a subject)"
+          },
+          {
+            "fr": "Entretiens, II, 21 (la piété filiale étendue est déjà gouverner)",
+            "en": "Analects, II, 21 (filial piety extended is already governing)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "INDIVIDUAL_SOCIETY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La personne ne se comprend qu'à travers ses rôles et ses relations : on est fils, frère, sujet, ami, et c'est en accomplissant ces relations selon les <c>li 禮 (les rites)</c> qu'on devient pleinement humain. L'identité est relationnelle, non monadique : la pente est nettement holiste, même si la culture de soi conserve une exigence personnelle irréductible.",
+          "en": "A person is intelligible only through their roles and relations: one is a son, a brother, a subject, a friend, and it is by fulfilling these relations according to the <c>li 禮 (rites)</c> that one becomes fully human. Identity is relational, not monadic: the leaning is markedly holist, even if self-cultivation keeps an irreducibly personal demand."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, XII, 11 (la définition de chacun par sa relation)",
+            "en": "Analects, XII, 11 (each defined by his relation)"
+          },
+          {
+            "fr": "Entretiens, II, 5-8 (les devoirs relationnels de la piété filiale)",
+            "en": "Analects, II, 5-8 (the relational duties of filial piety)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SINCERITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'argument part d'une fonction du langage : un nom (« père », « prince », « ami ») n'étiquette pas seulement, il prescrit un devoir attaché au rôle. Dès lors un mot employé de travers, ou démenti par les actes, dérègle l'ordre qu'il était censé tenir, et la <c>zhengming (rectification des noms)</c> devient la condition même d'une société qui fonctionne. La véracité cesse d'être une affaire privée de conscience : la fidélité de la parole (<c>xin</c>) et la sincérité (<c>cheng</c>) sont requises parce que le mensonge et l'écart entre le dire et le faire désagrègent le tissu social. De là un <dif>rigorisme de la véracité</dif>, où le <c>junzi 君子 (l'homme de bien)</c> rougit que ses paroles dépassent ses actes.",
+          "en": "The argument starts from a function of language: a name (\"father\", \"ruler\", \"friend\") does not merely label, it prescribes a duty bound to the role. A word misused, or belied by deeds, therefore unsettles the very order it was meant to uphold, and <c>zhengming (the rectification of names)</c> becomes the condition of a working society. Truthfulness ceases to be a private matter of conscience: trustworthiness of speech (<c>xin</c>) and sincerity (<c>cheng</c>) are demanded because lying and the gap between word and deed dissolve the social fabric. Hence a <dif>rigorism of truthfulness</dif>, in which the <c>junzi 君子 (person of noble character)</c> is ashamed when his words outrun his deeds."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, XIII, 3 (la rectification des noms)",
+            "en": "Analects, XIII, 3 (the rectification of names)"
+          },
+          {
+            "fr": "Entretiens, XIV, 27 (le junzi a honte que ses paroles dépassent ses actes)",
+            "en": "Analects, XIV, 27 (the junzi is ashamed when his words exceed his deeds)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Si les noms ne sont pas corrects, le langage n'est pas conforme à la vérité des choses ; alors les affaires ne peuvent réussir.",
+            "en": "If names are not correct, language is not in accord with the truth of things; then affairs cannot succeed."
+          },
+          "source": {
+            "fr": "Entretiens, XIII, 3",
+            "en": "Analects, XIII, 3"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.3
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La voie confucéenne est une culture de soi exigeante : le disciple Zengzi <q>s'examine chaque jour sur trois points</q>, et le perfectionnement intérieur du <c>ren 仁 (l'humanité)</c> conditionne toute action droite. Mais cette intériorité n'est pas contemplative : elle se vérifie et s'accomplit dans la conduite, le service et les <c>li 禮 (les rites)</c>, d'où une position modérée du côté de la vie examinée, équilibrée par le primat de l'agir.",
+          "en": "The Confucian way is a demanding self-cultivation: the disciple Zengzi <q>examines himself daily on three points</q>, and the inner perfecting of <c>ren 仁 (humaneness)</c> conditions all right action. Yet this interiority is not contemplative: it is tested and completed in conduct, service and the <c>li 禮 (rites)</c>, hence a moderate position on the examined-life side, balanced by the primacy of action."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, I, 4 (Zengzi s'examine chaque jour sur trois points)",
+            "en": "Analects, I, 4 (Zengzi examines himself daily on three points)"
+          },
+          {
+            "fr": "Entretiens, IV, 17 (voyant un homme de valeur, songe à l'égaler ; en voyant un médiocre, examine-toi)",
+            "en": "Analects, IV, 17 (seeing a worthy man, think of equalling him; seeing an unworthy one, examine yourself)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Chaque jour je m'examine sur trois points : ai-je été fidèle en agissant pour autrui, sincère envers mes amis, et ai-je pratiqué ce qui m'a été enseigné ?",
+            "en": "Each day I examine myself on three points: have I been faithful in acting for others, sincere with my friends, and have I practised what was taught to me?"
+          },
+          "source": {
+            "fr": "Entretiens, I, 4",
+            "en": "Analects, I, 4"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "RULE_SPIRIT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Les <c>li 禮 (les rites)</c> sont une forme indispensable, mais ils ne valent rien sans l'esprit qui les anime : <q>un homme sans humanité, qu'a-t-il à faire des rites ?</q>. Le rituel doit être exécuté avec le sentiment juste, et le maître ajuste son enseignement à chaque disciple : la lettre sans le coeur est vide. La pente va donc vers l'<ax id='RULE_SPIRIT'>équité et le discernement</ax>, sans abolir la forme rituelle.",
+          "en": "The <c>li 禮 (rites)</c> are an indispensable form, but worthless without the spirit that animates them: <q>a man without humaneness, what has he to do with the rites?</q>. Ritual must be performed with the right feeling, and the master tailors his teaching to each disciple: the letter without the heart is empty. The leaning is thus toward <ax id='RULE_SPIRIT'>equity and discernment</ax>, without abolishing the ritual form."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, III, 3 (sans humanité, à quoi bon les rites ?)",
+            "en": "Analects, III, 3 (without humaneness, what use are the rites?)"
+          },
+          {
+            "fr": "Entretiens, XI, 22 (le maître répond différemment à chaque disciple)",
+            "en": "Analects, XI, 22 (the master answers each disciple differently)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Un homme sans humanité, qu'a-t-il à faire des rites ? Un homme sans humanité, qu'a-t-il à faire de la musique ?",
+            "en": "A man without humaneness, what has he to do with the rites? A man without humaneness, what has he to do with music?"
+          },
+          "source": {
+            "fr": "Entretiens, III, 3",
+            "en": "Analects, III, 3"
+          }
+        },
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "AUTHORITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'argument repose sur une psychologie de l'obéissance : la contrainte par les lois et les châtiments n'obtient qu'un évitement sans honte, une soumission extérieure qui se défait dès que la surveillance cesse, tandis que l'exemple vertueux du gouvernant fait naître chez le peuple le sens de l'honneur et une adhésion intériorisée. Mieux vaut donc une autorité qui rayonne, <q>comme l'étoile polaire</q> autour de laquelle les astres se rangent, qu'une autorité qui réprime. Cette légitimation de la hiérarchie par le bien des gouvernés s'oppose frontalement au gouvernement par la seule force et la peine, et l'autorité y reste subordonnée à la vertu de qui l'exerce.",
+          "en": "The argument rests on a psychology of obedience: coercion by laws and punishments wins only a shameless avoidance, an outward compliance that dissolves the moment surveillance lifts, whereas the ruler's virtuous example awakens in the people a sense of honour and an internalized assent. Better, then, an authority that radiates, <q>like the pole star</q> around which the other stars arrange themselves, than one that represses. This legitimation of hierarchy by the good of the governed stands squarely against rule by force and penalty alone, and authority here remains subordinate to the virtue of the one who wields it."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, II, 1 (gouverner par la vertu, comme l'étoile polaire)",
+            "en": "Analects, II, 1 (governing by virtue, like the pole star)"
+          },
+          {
+            "fr": "Entretiens, II, 3 (gouverner par la vertu et les rites plutôt que par les châtiments)",
+            "en": "Analects, II, 3 (governing by virtue and the rites rather than by punishments)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Gouvernez le peuple par la vertu, maintenez-le par les rites, et il aura le sentiment de l'honneur et viendra à vous.",
+            "en": "Lead the people by virtue, keep them in order by the rites, and they will have a sense of shame and come to you."
+          },
+          "source": {
+            "fr": "Entretiens, II, 3",
+            "en": "Analects, II, 3"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_DEMAND",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.8
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'exigence morale est maximaliste : devenir <c>junzi 君子 (homme de noble caractère)</c> est une tâche de toute une vie, jamais achevée, où l'on doit <q>se vaincre soi-même</q> sans relâche. Le disciple Zengzi parle d'un fardeau lourd et d'une route longue, car il porte le <c>ren 仁 (l'humanité)</c> jusqu'à la mort. La morale ne se contente pas d'un minimum de non-nuisance : elle réclame un perfectionnement continu de la personne.",
+          "en": "The moral demand is maximalist: to become a <c>junzi 君子 (person of noble character)</c> is a lifelong, never-finished task, in which one must <q>master oneself</q> relentlessly. The disciple Zengzi speaks of a heavy burden and a long road, for he carries <c>ren 仁 (humaneness)</c> until death. Morality does not rest content with a minimum of non-harm: it calls for a continuous perfecting of the person."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, VIII, 7 (le fardeau est lourd et la route longue, car il porte l'humanité jusqu'à la mort)",
+            "en": "Analects, VIII, 7 (the burden is heavy and the road long, for he carries humaneness until death)"
+          },
+          {
+            "fr": "Entretiens, XII, 1 (se vaincre soi-même et revenir aux rites)",
+            "en": "Analects, XII, 1 (to master oneself and return to the rites)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.05,
+          0.25,
+          0.7
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le bien suprême est l'excellence morale de la personne accomplie, le <c>junzi 君子 (l'homme de noble caractère)</c> parvenu à la pleine <c>vertu d'humanité</c> : un <ax id='SOVEREIGN_GOOD'>perfectionnisme moral</ax>. Une part d'épanouissement subsiste, car la pratique de la vertu procure une joie sereine, mais le plaisir sensible n'est jamais le critère.",
+          "en": "The sovereign good is the moral excellence of the accomplished person, the <c>junzi 君子 (person of noble character)</c> who has attained full <c>humaneness</c>: a <ax id='SOVEREIGN_GOOD'>moral perfectionism</ax>. A share of flourishing remains, for the practice of virtue yields a serene joy, yet sensory pleasure is never the criterion."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, VII, 15 (la joie au sein d'une vie frugale, l'injuste richesse comme nuage flottant)",
+            "en": "Analects, VII, 15 (joy amid a frugal life, unjust wealth as a passing cloud)"
+          },
+          {
+            "fr": "Entretiens, IV, 5 (le junzi ne quitte jamais l'humanité, fût-ce le temps d'un repas)",
+            "en": "Analects, IV, 5 (the junzi never abandons humaneness, not even for the space of a meal)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La moralité confucéenne ne réprime pas les sentiments mais les cultive et les ordonne : le deuil sincère importe plus que la stricte observance, et c'est l'affection vécue, l'amour des parents, qui fonde la <c>xiao (piété filiale)</c>. Les <c>li 禮 (les rites)</c> donnent une forme juste aux émotions plutôt qu'ils ne les effacent, d'où une pente sentimentaliste modérée, tempérée par l'exigence de discernement.",
+          "en": "Confucian morality does not repress feelings but cultivates and orders them: sincere mourning matters more than strict observance, and it is lived affection, love of one's parents, that grounds <c>xiao (filial piety)</c>. The <c>li 禮 (rites)</c> give emotions a fitting form rather than erasing them, hence a moderate sentimentalist leaning, tempered by the demand for discernment."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, III, 4 (dans le deuil, mieux vaut la douleur sincère que la stricte observance)",
+            "en": "Analects, III, 4 (in mourning, real grief is better than strict observance)"
+          },
+          {
+            "fr": "Entretiens, XVII, 21 (le deuil de trois ans et l'affection due aux parents)",
+            "en": "Analects, XVII, 21 (the three-year mourning and the affection owed to parents)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SELF_INTEREST",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.4
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le <c>junzi 君子 (l'homme de bien)</c> se soucie de la justice (<c>yi</c>) là où l'homme de peu se soucie du gain : la vertu d'humanité implique d'aider les autres à se tenir debout et de ne pas leur infliger ce qu'on ne voudrait pas subir (la règle d'or sous forme négative, le <c>shu</c>, réciprocité). C'est une orientation altruiste, sans renoncement de soi : on s'élève soi-même en élevant autrui.",
+          "en": "The <c>junzi 君子 (person of noble character)</c> minds righteousness (<c>yi</c>) where the petty man minds gain: humaneness means helping others to stand and not inflicting on them what one would not wish for oneself (the golden rule in negative form, <c>shu</c>, reciprocity). This is an altruistic orientation, without self-renunciation: one raises oneself by raising others."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, IV, 16 (le junzi connaît la justice, l'homme de peu le profit)",
+            "en": "Analects, IV, 16 (the junzi understands righteousness, the petty man profit)"
+          },
+          {
+            "fr": "Entretiens, XV, 24 et VI, 30 (ne pas infliger à autrui ce qu'on ne veut pas subir ; aider autrui à se tenir debout)",
+            "en": "Analects, XV, 24 and VI, 30 (not inflicting on others what you would not wish; helping others to stand)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Ce que tu ne veux pas qu'on te fasse, ne le fais pas à autrui.",
+            "en": "What you do not wish for yourself, do not do to others."
+          },
+          "source": {
+            "fr": "Entretiens, XV, 24",
+            "en": "Analects, XV, 24"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.7,
+          0.15,
+          0.15
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La <c id='dao'>Voie (dao)</c> et le <c>ren 仁 (l'humanité)</c> valent comme normes objectives, ancrées dans l'ordre du Ciel (<c>tian</c>) et la sagesse des Anciens : le bien n'est pas affaire de convention arbitraire. Mais cette objectivité s'incarne dans des <c>li 禮 (des rites)</c> historiquement situés, hérités d'une tradition, ce qui laisse une part au caractère institué de la norme.",
+          "en": "The <c id='dao'>Way (dao)</c> and <c>ren 仁 (humaneness)</c> hold as objective norms, anchored in the order of Heaven (<c>tian</c>) and the wisdom of the Ancients: the good is not a matter of arbitrary convention. Yet this objectivity is embodied in historically situated <c>li 禮 (rites)</c>, inherited from a tradition, which leaves some room for the instituted character of the norm."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, IV, 8 (entendre la Voie au matin, mourir le soir sans regret)",
+            "en": "Analects, IV, 8 (hearing the Way in the morning, one may die content at evening)"
+          },
+          {
+            "fr": "Entretiens, VII, 23 (le Ciel a engendré la vertu qui est en moi)",
+            "en": "Analects, VII, 23 (Heaven has begotten the virtue that is in me)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HUMAN_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "<q>Par nature les hommes sont proches les uns des autres ; par la pratique ils s'éloignent</q> : la nature commune ne suffit pas, c'est l'étude, l'habitude et les <c>li 禮 (les rites)</c> qui font la différence morale entre les hommes. Confucius mise sur la formation et la culture (<c>wen</c>) plus que sur un donné inné, d'où une pente culturaliste.",
+          "en": "<q>By nature men are close to one another; by practice they grow apart</q>: shared nature is not enough, it is study, habit and the <c>li 禮 (rites)</c> that make the moral difference between men. Confucius stakes everything on formation and culture (<c>wen</c>) more than on an innate endowment, hence a culturalist leaning."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, XVII, 2 (par nature proches, par la pratique éloignés)",
+            "en": "Analects, XVII, 2 (by nature close, by practice far apart)"
+          },
+          {
+            "fr": "Entretiens, XVI, 9 (les degrés du savoir : inné, acquis par l'étude, acquis dans la difficulté)",
+            "en": "Analects, XVI, 9 (the grades of knowing: innate, gained by study, gained through difficulty)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Par nature, les hommes sont proches les uns des autres ; par la pratique, ils s'éloignent.",
+            "en": "By nature men are close to one another; through practice they grow far apart."
+          },
+          "source": {
+            "fr": "Entretiens, XVII, 2",
+            "en": "Analects, XVII, 2"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HUMAN_VISION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Confucius croit l'homme perfectible : tout être humain peut, par l'étude et l'effort, s'élever vers le <c>ren 仁 (l'humanité)</c>, et il enseigne <q>sans distinction de classe</q>. Cet optimisme reste mesuré : les sages sont rares, la plupart trahissent la Voie, et le maître se désole de n'avoir pas vu d'homme qui aime la vertu autant que les plaisirs. La confiance dans l'éducabilité l'emporte néanmoins.",
+          "en": "Confucius holds man to be perfectible: any human being can, through study and effort, rise toward <c>ren 仁 (humaneness)</c>, and he teaches <q>without distinction of class</q>. This optimism stays measured: the wise are rare, most betray the Way, and the master laments never having met one who loves virtue as much as pleasures. Yet trust in educability prevails."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, XV, 38 (dans l'enseignement, il n'y a pas de distinction de classe)",
+            "en": "Analects, XV, 38 (in teaching there are no distinctions of class)"
+          },
+          {
+            "fr": "Entretiens, IX, 17 (je n'ai pas vu d'homme qui aime la vertu comme les plaisirs)",
+            "en": "Analects, IX, 17 (I have not seen one who loves virtue as he loves pleasure)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DISTRIBUTIVE_JUSTICE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Confucius s'inquiète moins de la pauvreté que de l'inégalité et du désordre : <q>ce qui afflige le gouvernant, ce n'est pas le petit nombre mais l'inégalité, non la pauvreté mais l'instabilité</q>. Le souverain doit pourvoir au bien-être du peuple avant de l'instruire, ce qui dénote une sensibilité à la répartition équitable des ressources, dans le cadre d'un ordre hiérarchique.",
+          "en": "Confucius worries less about poverty than about inequality and disorder: <q>what troubles the ruler is not scarcity of people but unequal distribution, not poverty but instability</q>. The sovereign must provide for the people's welfare before instructing them, which betrays a concern for the equitable sharing of resources, within a hierarchical order."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, XVI, 1 (ce qui afflige n'est pas la pauvreté mais l'inégalité)",
+            "en": "Analects, XVI, 1 (what is to be feared is not poverty but inequality)"
+          },
+          {
+            "fr": "Entretiens, XIII, 9 (enrichir le peuple, puis l'instruire)",
+            "en": "Analects, XIII, 9 (enrich the people, then instruct them)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.2
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Confucius reconnaît le <c>Ciel (tian)</c> comme une instance qui ordonne le cours des choses et fonde sa mission, et il respecte le culte des ancêtres et des esprits, à honorer <q>tout en s'en tenant à distance</q>. Mais sa visée reste résolument tournée vers l'ici-bas : <q>ne sachant pas encore servir les hommes, comment servir les esprits ?</q>. La transcendance est affirmée, mais subordonnée à l'éthique du monde humain.",
+          "en": "Confucius acknowledges <c>Heaven (tian)</c> as an instance ordering the course of things and grounding his mission, and he respects the cult of ancestors and spirits, to be honoured <q>while keeping one's distance</q>. Yet his aim stays firmly turned to this world: <q>not yet able to serve men, how could one serve the spirits?</q>. Transcendence is affirmed, but subordinated to the ethics of the human world."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, XI, 11 (ne sachant pas servir les hommes, comment servir les esprits ?)",
+            "en": "Analects, XI, 11 (not yet able to serve men, how serve the spirits?)"
+          },
+          {
+            "fr": "Entretiens, VI, 20 (honorer les esprits tout en s'en tenant à distance)",
+            "en": "Analects, VI, 20 (honour the spirits but keep them at a distance)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "WHO_DECIDES",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le pouvoir doit revenir aux plus sages et aux plus vertueux, non au nombre : on promeut les hommes droits, on écarte les pervers, et <q>on peut faire suivre une voie au peuple, non la lui faire comprendre</q>. Cette confiance dans le gouvernement des meilleurs, formés par l'étude et la vertu, est nettement épistocratique.",
+          "en": "Power should fall to the wisest and most virtuous, not to the many: one promotes the upright, sets aside the crooked, and <q>the people may be made to follow a path, not made to understand it</q>. This trust in the rule of the best, formed by study and virtue, is markedly epistocratic."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, II, 19 (promouvoir les hommes droits par-dessus les pervers)",
+            "en": "Analects, II, 19 (promote the upright over the crooked)"
+          },
+          {
+            "fr": "Entretiens, VIII, 9 (on peut faire suivre une voie au peuple, non la lui faire comprendre)",
+            "en": "Analects, VIII, 9 (the people may be made to follow, not to understand)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "PUNISHMENT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0.1,
+          0.4,
+          0.4
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Confucius préfère prévenir la faute en formant le sens moral plutôt que la punir : gouverner par les châtiments donne un peuple qui les évite sans honte, gouverner par la vertu et les <c>li 禮 (les rites)</c> lui donne le sens de l'honneur et le corrige de l'intérieur. La fin visée est l'amendement moral, non la rétribution ni la seule dissuasion : <q>tuer pour gouverner, à quoi bon ?</q>. La sanction, quand elle s'impose, doit restaurer l'harmonie et réintégrer le fautif dans la communauté plutôt que l'en retrancher.",
+          "en": "Confucius prefers to prevent wrongdoing by forming the moral sense rather than punishing it: governing by punishments yields a people that evades them without shame, governing by virtue and the <c>li 禮 (rites)</c> gives them honour and reforms them from within. The aim is moral amendment, not retribution or mere deterrence: <q>why kill in order to govern?</q>. Punishment, when it must come, should restore harmony and reintegrate the offender into the community rather than cast them out."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, II, 3 (les châtiments donnent un peuple sans honte ; la vertu le corrige)",
+            "en": "Analects, II, 3 (punishments yield a shameless people; virtue reforms them)"
+          },
+          {
+            "fr": "Entretiens, XII, 19 (à quoi bon tuer pour gouverner ?)",
+            "en": "Analects, XII, 19 (what use is killing in order to govern?)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le savoir confucéen se gagne par l'étude assidue des Anciens, l'observation et l'expérience pratique, conjuguées à la réflexion : <q>apprendre sans réfléchir est vain, réfléchir sans apprendre est dangereux</q>. La connaissance n'est pas spéculation pure mais sagesse à appliquer, ancrée dans la tradition et l'examen du réel, d'où une pente empiriste tempérée par l'exigence de réflexion.",
+          "en": "Confucian knowledge is won by assiduous study of the Ancients, observation and practical experience, joined to reflection: <q>learning without thought is vain, thought without learning is perilous</q>. Knowledge is not pure speculation but wisdom to be applied, anchored in tradition and the scrutiny of the real, hence an empiricist leaning tempered by the demand for reflection."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, II, 15 (apprendre sans réfléchir, réfléchir sans apprendre)",
+            "en": "Analects, II, 15 (learning without thought, thought without learning)"
+          },
+          {
+            "fr": "Entretiens, VII, 8 et II, 17 (étude active ; savoir ce qu'on sait et ce qu'on ignore)",
+            "en": "Analects, VII, 8 and II, 17 (active study; knowing what one knows and does not know)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Apprendre sans réfléchir est vain ; réfléchir sans apprendre est dangereux.",
+            "en": "Learning without thought is labour lost; thought without learning is perilous."
+          },
+          "source": {
+            "fr": "Entretiens, II, 15",
+            "en": "Analects, II, 15"
+          }
+        },
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.2
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Confucius enseigne une honnêteté épistémique mesurée : <q>tenir pour su ce que tu sais, et pour ignoré ce que tu ignores, voilà le vrai savoir</q>. Il se garde de trancher sur l'au-delà ou les esprits et reconnaît n'être pas né savant. Sans verser dans le scepticisme, il fait place au doute et à l'ignorance assumée, d'où une légère inclinaison hors du dogmatisme.",
+          "en": "Confucius teaches a measured epistemic honesty: <q>to hold as known what you know, and as unknown what you do not, that is true knowledge</q>. He refrains from pronouncing on the beyond or the spirits and admits he was not born knowing. Without lapsing into scepticism, he makes room for doubt and avowed ignorance, hence a slight tilt away from dogmatism."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, II, 17 (tenir pour su ce qu'on sait, pour ignoré ce qu'on ignore)",
+            "en": "Analects, II, 17 (to hold as known what you know, as unknown what you do not)"
+          },
+          {
+            "fr": "Entretiens, VII, 19 (je ne suis pas né savant ; j'aime l'antiquité et m'y applique)",
+            "en": "Analects, VII, 19 (I was not born knowing; I love antiquity and study it diligently)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "CONTEXTUALIST",
+      "note": {
+        "fr": "Confucius reconnaît le <c>Ciel (tian)</c> et honore les esprits, mais sa pensée ne relève pas du théisme personnel ni de l'athéisme : le Ciel est un ordre moral impersonnel plutôt qu'un dieu créateur, et le maître écarte délibérément les questions sur l'au-delà pour se consacrer aux affaires humaines. L'axe, taillé pour la tradition occidentale, ne capte pas adéquatement cette position.",
+        "en": "Confucius acknowledges <c>Heaven (tian)</c> and honours the spirits, but his thought is neither personal theism nor atheism: Heaven is an impersonal moral order rather than a creator god, and the master deliberately sets aside questions about the beyond to attend to human affairs. The axis, cut for the Western tradition, does not adequately capture this position."
+      }
+    },
+    {
+      "axisId": "TECHNOLOGY",
+      "status": "NOT_APPLICABLE",
+      "note": {
+        "fr": "Axe anachronique : la question du rapport à la technologie comme puissance de transformation du monde ne se pose pas dans la Chine du VIe siècle avant notre ère et n'est jamais thématisée dans les Entretiens.",
+        "en": "Anachronistic axis: the question of our relation to technology as a world-transforming power does not arise in sixth-century-BCE China and is never thematized in the Analects."
+      }
+    },
+    {
+      "axisId": "MACHINE_MIND",
+      "status": "NOT_APPLICABLE",
+      "note": {
+        "fr": "Axe anachronique : aucune réflexion sur l'esprit artificiel ou la possibilité d'une pensée mécanique n'a de sens dans le contexte de Confucius.",
+        "en": "Anachronistic axis: no reflection on artificial mind or the possibility of mechanical thought has any place in Confucius's context."
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "PARTIALITY",
+      "thesis": {
+        "fr": "On ne devient humain qu'en aimant d'abord les siens : la <c>xiao (piété filiale)</c> est la racine du <c>ren 仁 (l'humanité)</c>, et l'affection doit rester graduée, non également répartie entre tous.",
+        "en": "One becomes humane only by first loving one's own: <c>xiao (filial piety)</c> is the root of <c>ren 仁 (humaneness)</c>, and affection must stay graded, not spread equally over all."
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "thesis": {
+        "fr": "Ce qu'il faut former n'est pas une règle mais une personne : la mesure du bien est le <c>junzi 君子 (l'homme de noble caractère)</c>, dont la vertu d'<c>ren 仁 (humanité)</c> s'acquiert par la culture de soi.",
+        "en": "What must be formed is not a rule but a person: the measure of the good is the <c>junzi 君子 (person of noble character)</c>, whose virtue of <c>ren 仁 (humaneness)</c> is won through self-cultivation."
+      }
+    },
+    {
+      "axisId": "CONSERVATISM_PROGRESSISM",
+      "thesis": {
+        "fr": "La <c id='dao'>Voie</c> a déjà été accomplie par les Anciens : je transmets et n'invente rien, car restaurer leur héritage vaut mieux qu'inventer une morale nouvelle.",
+        "en": "The <c id='dao'>Way</c> was already realized by the Ancients: I transmit and invent nothing, for restoring their heritage is worth more than inventing a new morality."
+      }
+    },
+    {
+      "axisId": "SINCERITY",
+      "thesis": {
+        "fr": "L'ordre social tient à l'exactitude des mots : si les noms ne sont pas rectifiés, les devoirs attachés aux rôles se défont, et tout commence par la <c>zhengming (rectification des noms)</c>.",
+        "en": "Social order hangs on the exactness of words: if names are not rectified, the duties bound to roles unravel, and everything begins with <c>zhengming (the rectification of names)</c>."
+      }
+    },
+    {
+      "axisId": "AUTHORITY",
+      "thesis": {
+        "fr": "On gouverne par la vertu et l'exemple, non par la peur : les châtiments font un peuple qui se dérobe sans honte, l'exemple du prince lui donne le sens de l'honneur.",
+        "en": "One governs by virtue and example, not by fear: punishments make a people that evades without shame, while the ruler's example gives them a sense of honour."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

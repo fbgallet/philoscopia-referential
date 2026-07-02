@@ -1,0 +1,17 @@
+{
+  "id": "seneca-to-montaigne",
+  "from": { "kind": "PHILOSOPHER", "slug": "seneca" },
+  "to": { "kind": "PHILOSOPHER", "slug": "montaigne" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='seneca'>Sénèque</ph>, avec Plutarque, est la grande source morale des Essais : <ph id='montaigne'>Montaigne</ph> prolonge la méditation <mv id='stoicism'>stoïcienne</mv> sur la mort, la constance et l'examen de soi. Puis il la détend vers une sagesse plus naturelle et fluctuante, fidèle au mouvement plutôt qu'à la fermeté du sage.",
+    "en": "<ph id='seneca'>Seneca</ph>, alongside Plutarch, is the chief moral source of the Essays: <ph id='montaigne'>Montaigne</ph> continues the <mv id='stoicism'>Stoic</mv> meditation on death, constancy and self-examination. He then loosens it toward a more natural, fluctuating wisdom, faithful to flux rather than to the sage's firmness."
+  },
+  "sources": [
+    { "fr": "Montaigne, Essais (notamment les premiers chapitres « stoïciens »)", "en": "Montaigne, Essays (esp. the early \"Stoic\" chapters)" },
+    { "fr": "Sénèque, Lettres à Lucilius", "en": "Seneca, Letters to Lucilius" }
+  ],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

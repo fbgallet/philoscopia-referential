@@ -1,0 +1,12 @@
+{
+  "id": "objective-beauty-grounds-taste-elitism",
+  "ground": { "axisId": "BEAUTY", "poleId": "OBJECTIVE_BEAUTY" },
+  "grounded": { "axisId": "TASTE_HIERARCHY", "poleId": "TASTE_ELITISM" },
+  "kind": "T_T",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si certaines choses sont belles en elles-mêmes, alors tous les jugements de goût ne se valent pas : il en est de plus justes, et l'éducation du regard permet de mieux percevoir ce qui est réellement beau. Le beau objectif soutient une hiérarchie des goûts, où l'œil exercé du connaisseur a autorité sur le caprice.",
+    "en": "If some things are beautiful in themselves, then not all judgments of taste are equal: some are more correct, and educating one's eye lets one better perceive what is truly beautiful. Objective beauty supports a hierarchy of taste, where the trained eye of the connoisseur has authority over mere whim."
+  },
+  "updatedAt": "2026-06-22T00:00:00.000Z"
+}

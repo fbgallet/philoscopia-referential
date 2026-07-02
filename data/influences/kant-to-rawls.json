@@ -1,0 +1,16 @@
+{
+  "id": "kant-to-rawls",
+  "from": { "kind": "PHILOSOPHER", "slug": "kant" },
+  "to": { "kind": "PHILOSOPHER", "slug": "rawls" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='rawls'>Rawls</ph> revendique une reprise politique du <c>constructivisme</c> moral de <ph id='kant'>Kant</ph> : la position originelle et le voile d'ignorance reformulent l'exigence kantienne de traiter chacun comme une fin et de fonder des principes universalisables.",
+    "en": "<ph id='rawls'>Rawls</ph> claims a political revival of <ph id='kant'>Kant</ph>'s moral <c>constructivism</c>: the original position and the veil of ignorance recast the Kantian demand to treat each person as an end and to ground universalisable principles."
+  },
+  "sources": [
+    { "fr": "Rawls, Théorie de la justice (1971)", "en": "Rawls, A Theory of Justice (1971)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

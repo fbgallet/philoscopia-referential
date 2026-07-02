@@ -1,0 +1,19 @@
+{
+  "id": "cynicism-to-stoicism",
+  "from": { "kind": "MOVEMENT", "slug": "cynicism" },
+  "to": { "kind": "MOVEMENT", "slug": "stoicism" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Zénon de Citium fut l'élève de Cratès le Cynique : le <mv id='stoicism'>stoïcisme</mv> reprend du <mv id='cynicism'>cynisme</mv> l'idéal d'autosuffisance et la vie <q>selon la nature</q>, mais en tempère la provocation et l'anticonformisme en l'intégrant à une physique et une logique systématiques.",
+    "en": "Zeno of Citium was a pupil of Crates the Cynic: <mv id='stoicism'>Stoicism</mv> takes from <mv id='cynicism'>Cynicism</mv> the ideal of self-sufficiency and life <q>according to nature</q>, but tempers its provocation and anticonformism by embedding it in a systematic physics and logic."
+  },
+  "sources": [
+    {
+      "fr": "Diogène Laërce, Vies et doctrines des philosophes illustres, livre VII",
+      "en": "Diogenes Laërtius, Lives of the Eminent Philosophers, Book VII"
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

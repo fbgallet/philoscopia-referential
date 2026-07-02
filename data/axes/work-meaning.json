@@ -1,0 +1,102 @@
+{
+  "id": "WORK_MEANING",
+  "relation": "WORLD",
+  "territory": "WORK_TECHNOLOGY",
+  "label": {
+    "fr": "Sens du travail",
+    "en": "Meaning of work"
+  },
+  "question": {
+    "fr": "Le travail nous accomplit-il, nous aliène-t-il, ou n'est-il qu'une nécessité ?",
+    "en": "Does work fulfill us, alienate us, or is it merely a necessity?"
+  },
+  "stakes": {
+    "fr": "Le travail est-il le lieu où l'on se réalise et trouve sa place parmi les autres, ou ce qui nous épuise et nous dépossède, du temps pris sur le reste de l'existence ? Y voir un accomplissement peut nous réduire à notre métier ; n'y voir qu'une corvée peut vider de sens une part énorme de nos journées. Se positionner, c'est dire quelle place le travail mérite dans une vie réussie.",
+    "en": "Is work the place where we realize ourselves and find our place among others, or what wears us down and dispossesses us, time taken from the rest of our existence? Seeing it as fulfilment can reduce us to our jobs; seeing it as mere drudgery can drain a huge part of our days of meaning. To take a position is to say what place work deserves in a good life."
+  },
+  "layer": "THEORY",
+  "type": "TRIANGULAR",
+  "poles": [
+    {
+      "id": "FULFILLMENT",
+      "label": {
+        "fr": "Accomplissement",
+        "en": "Fulfillment"
+      },
+      "description": {
+        "fr": "Par le travail, l'être humain transforme le monde et se transforme lui-même : il objective ses facultés, gagne la reconnaissance d'autrui et se forme comme sujet. Le travail est ainsi un chemin d'humanisation, non une simple corvée.",
+        "en": "Through work, human beings transform the world and transform themselves: they objectify their faculties, win the recognition of others, and shape themselves as subjects. Work is thus a path of humanization, not a mere chore."
+      },
+      "figures": [
+        {
+          "slug": "hegel",
+          "name": {
+            "fr": "Hegel",
+            "en": "Hegel"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ALIENATION",
+      "label": {
+        "fr": "Aliénation",
+        "en": "Alienation"
+      },
+      "description": {
+        "fr": "Dans ses formes dominantes, le travail dépossède le travailleur : il devient étranger à son activité, à son produit et à lui-même, réduit à un rouage cadencé par la machine. Le sens du travail est confisqué tant que ses conditions ne sont pas transformées.",
+        "en": "In its dominant forms, work dispossesses the worker: one becomes a stranger to one's activity, one's product, and oneself, reduced to a cog paced by the machine. The meaning of work remains confiscated as long as its conditions are not transformed."
+      },
+      "figures": [
+        {
+          "slug": "marx",
+          "name": {
+            "fr": "Marx",
+            "en": "Marx"
+          }
+        },
+        {
+          "slug": "simone-weil",
+          "name": {
+            "fr": "Simone Weil",
+            "en": "Simone Weil"
+          }
+        }
+      ]
+    },
+    {
+      "id": "NECESSITY",
+      "label": {
+        "fr": "Nécessité, le loisir comme fin",
+        "en": "Necessity, leisure as the end"
+      },
+      "description": {
+        "fr": "Le travail répond aux besoins de la vie, mais il n'est pas la fin de l'existence : c'est le loisir, entendu comme temps libéré pour la pensée, l'action ou la contemplation, qui donne son sens à la vie humaine. Nous travaillons pour pouvoir ne pas travailler.",
+        "en": "Work answers the needs of life, but it is not the end of existence: leisure, understood as time freed for thought, action, or contemplation, is what gives human life its meaning. We work in order to be free not to work."
+      },
+      "figures": [
+        {
+          "slug": "aristotle",
+          "name": {
+            "fr": "Aristote",
+            "en": "Aristotle"
+          }
+        },
+        {
+          "slug": "arendt",
+          "name": {
+            "fr": "Arendt",
+            "en": "Arendt"
+          }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 1,
+  "clusters": [],
+  "relatedAxes": [
+    "LIFE_MEANING",
+    "TECHNOLOGY"
+  ]
+}

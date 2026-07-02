@@ -1,0 +1,16 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "comte",
+  "name": { "fr": "Comte", "en": "Comte" },
+  "summary": {
+    "fr": "Philosophe français, fondateur du positivisme : il tient la science pour le stade ultime du savoir, appelé à remplacer la théologie et la métaphysique.",
+    "en": "French philosopher, founder of positivism: he holds science to be the ultimate stage of knowledge, destined to replace theology and metaphysics."
+  },
+  "nationality": { "fr": "Français", "en": "French" },
+  "birth": 1798,
+  "death": 1857,
+  "movements": [],
+  "updatedAt": "2026-06-22T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

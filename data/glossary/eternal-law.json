@@ -1,0 +1,11 @@
+{
+  "id": "eternal-law",
+  "term": { "fr": "Loi éternelle", "en": "Eternal law" },
+  "definition": {
+    "fr": "La loi éternelle est, dans la pensée de <ph id='aquinas'>Thomas d'Aquin</ph>, la raison même de Dieu en tant qu'elle gouverne l'univers et ordonne chaque être à sa fin. Elle est le plan <c id='providence'>providentiel</c> qui préside à toute la création, antérieur à toute loi humaine et à toute volonté particulière. Les autres lois en dérivent : la <c id='natural-law'>loi naturelle</c> n'en est que la part à laquelle la créature raisonnable accède par sa raison, tandis que la loi humaine en applique les exigences aux circonstances. Elle exprime ainsi que l'ordre du monde n'est pas un hasard aveugle mais l'effet d'une sagesse qui le règle de toute éternité.",
+    "en": "The eternal law is, in the thought of <ph id='aquinas'>Thomas Aquinas</ph>, God's very reason insofar as it governs the universe and orders each being to its end. It is the <c id='providence'>providential</c> plan presiding over the whole of creation, prior to any human law and to any particular will. The other laws derive from it: the <c id='natural-law'>natural law</c> is only the share of it that the rational creature reaches through reason, while human law applies its requirements to circumstances. It thus expresses that the order of the world is not blind chance but the effect of a wisdom that regulates it from all eternity."
+  },
+  "relatedAxes": ["MORAL_SCOPE", "GOD_EXISTENCE"],
+  "relatedTerms": ["natural-law", "providence"],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

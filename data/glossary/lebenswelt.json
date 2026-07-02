@@ -1,0 +1,13 @@
+{
+  "id": "lebenswelt",
+  "term": { "fr": "Monde de la vie (Lebenswelt)", "en": "Life-world (Lebenswelt)" },
+  "definition": {
+    "fr": "Le monde de la vie est le monde tel qu'il est perçu, vécu et tenu pour acquis avant toute théorie : le sol d'expérience commun où nous nous mouvons et nous comprenons. <ph id='husserl'>Husserl</ph> en fait le thème majeur de la <w id='crisis-of-the-european-sciences-husserl'>Crise des sciences européennes</w> : les sciences exactes oublient que leurs idéalités se construisent sur ce monde sensible et le présupposent, au point de prendre leur méthode pour l'être même. Restituer le monde de la vie, c'est rendre à la science <ax id='SCIENCE_PLACE'>sa place de savoir dérivé</ax>, reconduit à l'expérience qui lui donne sens.",
+    "en": "The life-world is the world as perceived, lived and taken for granted prior to all theory: the shared ground of experience in which we move and understand ourselves. <ph id='husserl'>Husserl</ph> makes it the central theme of the <w id='crisis-of-the-european-sciences-husserl'>Crisis of the European Sciences</w>: the exact sciences forget that their idealities are built upon this sensed world and presuppose it, to the point of mistaking their method for being itself. To recover the life-world is to restore science to <ax id='SCIENCE_PLACE'>its place as a derived knowledge</ax>, led back to the experience that gives it meaning."
+  },
+  "relatedAxes": ["SCIENCE_PLACE"],
+  "relatedTerms": ["natural-attitude", "phenomenological-reduction"],
+  "figure": { "slug": "husserl", "name": { "fr": "Husserl", "en": "Husserl" } },
+  "positions": [{ "axisId": "SCIENCE_PLACE", "poleId": "EPISTEMIC_PLURALISM" }],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

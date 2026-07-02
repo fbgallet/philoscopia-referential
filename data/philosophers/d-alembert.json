@@ -1,0 +1,17 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "d-alembert",
+  "stub": true,
+  "name": { "fr": "d'Alembert", "en": "d'Alembert" },
+  "fullName": { "fr": "Jean le Rond d'Alembert", "en": "Jean le Rond d'Alembert" },
+  "summary": {
+    "fr": "Mathématicien et philosophe français, codirecteur de l'Encyclopédie, dont il signa le Discours préliminaire, manifeste de l'esprit des <mv id='enlightenment'>Lumières</mv>.",
+    "en": "French mathematician and philosopher, co-editor of the Encyclopédie, whose Preliminary Discourse he wrote, a manifesto of the spirit of the <mv id='enlightenment'>Enlightenment</mv>."
+  },
+  "birth": 1717,
+  "death": 1783,
+  "nationality": { "fr": "Français", "en": "French" },
+  "movements": ["enlightenment"],
+  "updatedAt": "2026-06-25T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

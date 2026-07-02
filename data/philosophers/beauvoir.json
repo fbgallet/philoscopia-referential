@@ -1,0 +1,899 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "beauvoir",
+  "name": {
+    "fr": "Beauvoir",
+    "en": "Beauvoir"
+  },
+  "fullName": {
+    "fr": "Simone de Beauvoir",
+    "en": "Simone de Beauvoir"
+  },
+  "tagline": {
+    "fr": "<q>On ne naît pas femme : on le devient</q> : une liberté toujours <c>située</c>, vouée à vouloir celle des autres.",
+    "en": "<q>One is not born, but rather becomes, a woman</q>: a freedom always <c>situated</c>, bound to will the freedom of others."
+  },
+  "summary": {
+    "fr": "Philosophe française du XXe siècle, figure du <mv id='existentialism'>existentialisme</mv> aux côtés de <ph id='sartre'>Sartre</ph>, formée à la <mv id='phenomenology'>phénoménologie</mv> de <ph>Husserl</ph> et de <ph id='merleau-ponty'>Merleau-Ponty</ph>. Romancière, mémorialiste et théoricienne, elle est surtout l'autrice du <w>Deuxième Sexe</w> (1949), enquête qui croise biologie, histoire, psychanalyse et marxisme pour comprendre la condition faite aux femmes, et de <w>Pour une morale de l'ambiguïté</w> (1947), où elle tente l'éthique que l'existentialisme avait promise sans l'écrire. Longtemps reçue comme la disciple de Sartre, elle est aujourd'hui relue comme une penseuse à part entière, fondatrice du féminisme philosophique contemporain et source majeure des théories du genre.",
+    "en": "A French philosopher of the twentieth century, a figure of <mv id='existentialism'>existentialism</mv> alongside <ph id='sartre'>Sartre</ph>, trained in the <mv id='phenomenology'>phenomenology</mv> of <ph>Husserl</ph> and <ph id='merleau-ponty'>Merleau-Ponty</ph>. A novelist, memoirist and theorist, she is above all the author of <w>The Second Sex</w> (1949), an inquiry that weaves together biology, history, psychoanalysis and Marxism to understand the condition imposed on women, and of <w>The Ethics of Ambiguity</w> (1947), where she attempts the ethics existentialism had promised without writing it. Long received as Sartre's disciple, she is now read as a thinker in her own right, the founder of contemporary philosophical feminism and a major source of gender theory."
+  },
+  "birth": 1908,
+  "death": 1986,
+  "nationality": {
+    "fr": "Française",
+    "en": "French"
+  },
+  "movements": [
+    "existentialism",
+    "phenomenology"
+  ],
+  "entries": [
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0.2,
+          0,
+          0.7
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Pour Beauvoir, la mort n'est jamais naturelle : c'est une violence, un <c>scandale</c> injustifiable qui brise les projets et fait outrage à la vie, fût-elle longue et consentie. À l'accueillir avec sérénité, elle préfère la révolte et l'indignation, refusant de parer d'un sens ce qui n'est qu'une défaite. La mort des siens, vécue de près, lui apparaît comme une rupture inacceptable, non comme un accomplissement.",
+          "en": "For Beauvoir, death is never natural: it is a violence, an unjustifiable <c>scandal</c> that shatters projects and outrages life, however long and consented to. Rather than greet it with serenity, she prefers revolt and indignation, refusing to dress up as meaningful what is only a defeat. The death of loved ones, witnessed up close, appears to her as an unacceptable rupture, not a fulfillment."
+        },
+        "references": [
+          {
+            "fr": "Une mort très douce",
+            "en": "A Very Easy Death"
+          },
+          {
+            "fr": "La Vieillesse",
+            "en": "The Coming of Age"
+          }
+        ],
+        "strength": "MEDIUM",
+        "quote": {
+          "text": {
+            "fr": "Il n'y a pas de mort naturelle.",
+            "en": "There is no natural death."
+          },
+          "source": {
+            "fr": "Une mort très douce",
+            "en": "A Very Easy Death"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.15,
+          0.55,
+          0.3
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le bien, pour Beauvoir, n'est ni le plaisir ni une nature à accomplir, mais l'existence authentique qui assume sa liberté et se réalise dans des projets ouverts. Cette réalisation de soi est inséparable d'une exigence morale : vouloir sa propre liberté, c'est vouloir aussi celle d'autrui. Auto-réalisation et valeur de la liberté s'y nouent, contre la démission du <c>sérieux</c>.",
+          "en": "The good, for Beauvoir, is neither pleasure nor a nature to be fulfilled, but the authentic existence that assumes its freedom and realizes itself in open projects. This self-realization is inseparable from a moral demand: to will one's own freedom is also to will that of others. Self-realization and the value of freedom are knotted together, against the abdication of <c>seriousness</c>."
+        },
+        "references": [
+          {
+            "fr": "Pour une morale de l'ambiguïté",
+            "en": "The Ethics of Ambiguity"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.6,
+          0.3,
+          0.1
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Beauvoir refuse de mutiler le désir au nom d'un ordre supérieur : assumer son existence, c'est aussi reprendre ses passions et ses désirs dans un projet libre, contre la démission de <c>l'esprit de sérieux</c> qui les soumet à des valeurs figées. Le désir n'est ni à éteindre ni seulement à trier, mais à assumer lucidement comme élan vers le monde et vers autrui.",
+          "en": "Beauvoir refuses to mutilate desire in the name of a higher order: to take up one's existence is also to take up one's passions and desires in a free project, against the abdication of the <c>spirit of seriousness</c> that subjects them to fixed values. Desire is neither to be extinguished nor merely sorted, but to be lucidly assumed as an impulse toward the world and toward others."
+        },
+        "references": [
+          {
+            "fr": "Pour une morale de l'ambiguïté",
+            "en": "The Ethics of Ambiguity"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Phénoménologue, Beauvoir tient le savoir pour enraciné dans l'expérience vécue et incarnée : le corps n'est pas un objet parmi d'autres mais le point de vue situé d'où le monde prend sens. Sa méthode, dans <w>Le Deuxième Sexe</w>, part de données concrètes, biologie, histoire, témoignages, plutôt que d'un principe rationnel posé a priori. Cela la range du côté de l'expérience, sans en faire une empiriste classique, puisque l'expérience est toujours celle d'une liberté en situation.",
+          "en": "A phenomenologist, Beauvoir holds knowledge to be rooted in lived, embodied experience: the body is not one object among others but the situated standpoint from which the world takes on meaning. Her method, in <w>The Second Sex</w>, starts from concrete data, biology, history, testimony, rather than from a rational principle laid down a priori. This sets her on the side of experience, without making her a classical empiricist, since experience is always that of a freedom in situation."
+        },
+        "references": [
+          {
+            "fr": "Le Deuxième Sexe, Introduction",
+            "en": "The Second Sex, Introduction"
+          },
+          {
+            "fr": "Pour une morale de l'ambiguïté",
+            "en": "The Ethics of Ambiguity"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'<kw>ambiguïté</kw> de la condition humaine est à assumer, non à fuir : c'est précisément ce que refuse <c>l'esprit de sérieux</c>, qui se rassure en tenant les valeurs pour des vérités fixes, inscrites dans les choses. Or rien n'est donné d'avance, ni le sens ni le bien : ils se constituent dans le projet libre, toujours révisables et sans garantie. De là une défiance de principe envers les certitudes absolues, qui masquent une démission, sans pour autant verser dans le <c id='skepticism'>scepticisme</c>, puisque la liberté fonde des valeurs réelles quoique non fondées en nature.",
+          "en": "The <kw>ambiguity</kw> of the human condition is to be taken up, not fled: this is exactly what the <c>spirit of seriousness</c> refuses, reassuring itself by treating values as fixed truths inscribed in things. Yet nothing is given in advance, neither meaning nor the good: they take shape in the free project, always revisable and without guarantee. Hence a principled wariness toward absolute certainties, which mask an abdication, without thereby lapsing into <c id='skepticism'>skepticism</c>, since freedom grounds values that are real though not founded in any nature."
+        },
+        "references": [
+          {
+            "fr": "Pour une morale de l'ambiguïté",
+            "en": "The Ethics of Ambiguity"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 1
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Beauvoir reprend la thèse existentialiste selon laquelle, pour l'humain, l'existence précède l'essence : aucune nature ne définit d'avance ce qu'il doit être. Sa formule <q>on ne naît pas femme : on le devient</q> en est l'application la plus célèbre : le <kw>féminin</kw> n'est pas une essence donnée mais un devenir façonné par la culture, que chacune a pourtant à reprendre dans un projet libre.",
+          "en": "Beauvoir takes up the existentialist thesis that, for the human being, existence precedes essence: no nature defines in advance what one must be. Her formula <q>one is not born, but rather becomes, a woman</q> is its most famous application: the <kw>feminine</kw> is not a given essence but a becoming shaped by culture, which each woman must nonetheless take up in a free project."
+        },
+        "references": [
+          {
+            "fr": "Le Deuxième Sexe (1949), t. II, ouverture (\"on ne naît pas femme\")",
+            "en": "The Second Sex (1949), vol. II, opening (\"one is not born a woman\")"
+          },
+          {
+            "fr": "Pour une morale de l'ambiguïté (1947)",
+            "en": "The Ethics of Ambiguity (1947)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "On ne naît pas femme : on le devient. Aucun destin biologique, psychique, économique ne définit la figure que revêt au sein de la société la femelle humaine.",
+            "en": "One is not born, but rather becomes, a woman. No biological, psychic, or economic destiny defines the figure that the human female assumes within society."
+          },
+          "source": {
+            "fr": "Le Deuxième Sexe, t. II",
+            "en": "The Second Sex, vol. II"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HUMAN_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Toute conscience, par un mouvement qu'aucun sexe ne fonde, pose en face d'elle un <q>Autre</q> qu'elle dévalue pour s'affirmer comme l'essentiel : le racisme, l'antisémitisme et l'oppression des femmes partagent cette structure. Le propre de la condition féminine, et l'énigme que Beauvoir veut résoudre, est que les femmes ont consenti à ce rôle d'Autre absolu sans le retourner, faute d'un <c>passé</c>, d'une solidarité et d'un travail communs. Les caractères dits féminins ne sont donc pas une <kw>nature</kw> mais le produit de cette situation instituée, d'où un <ax id='HUMAN_NATURE'>culturalisme</ax> qui reconnaît le donné corporel sans jamais lui laisser fixer le destin.",
+          "en": "Every consciousness, by a movement no sex grounds, sets up before itself an <q>Other</q> it devalues in order to assert itself as the essential one: racism, antisemitism and the oppression of women share this structure. What is peculiar to the feminine condition, and the riddle Beauvoir means to solve, is that women have consented to this role of absolute Other without turning it back, lacking a shared <c>past</c>, solidarity and common labour. The so-called feminine traits are therefore not a <kw>nature</kw> but the product of this instituted situation, hence a <ax id='HUMAN_NATURE'>culturalism</ax> that grants the bodily given without ever letting it settle one's destiny."
+        },
+        "references": [
+          {
+            "fr": "Le Deuxième Sexe (1949), Introduction (la femme comme \"<c>l'Autre</c>\")",
+            "en": "The Second Sex (1949), Introduction (woman as \"<c>the Other</c>\")"
+          },
+          {
+            "fr": "Le Deuxième Sexe, t. II, \"Formation\"",
+            "en": "The Second Sex, vol. II, \"Formative Years\""
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Une liberté n'est jamais pure spontanéité : elle s'exerce toujours depuis un corps, une histoire et une place sociale qui ouvrent ou ferment l'éventail de ses possibles. De ce caractère <c>situé</c> Beauvoir tire son désaccord avec le <ph id='sartre'>Sartre</ph> de L'Être et le Néant, pour qui même l'esclave demeure ontologiquement libre : dire cela, c'est confondre la liberté avec sa simple possibilité, et masquer que l'oppression <stk>mutile concrètement la liberté</stk> en barrant l'avenir et les moyens de se projeter. La liberté reste donc le fait premier, mais elle peut être lésée du dehors, ce qui rend l'oppression intelligible comme tort et non seulement comme malheur.",
+          "en": "A freedom is never pure spontaneity: it is always exercised from a body, a history and a social place that open or close the range of its possibles. From this <c>situated</c> character Beauvoir derives her break with the <ph id='sartre'>Sartre</ph> of Being and Nothingness, for whom even the slave remains ontologically free: to say so is to confuse freedom with its bare possibility, and to hide that oppression <stk>concretely mutilates freedom</stk> by sealing off the future and the means to project oneself. Freedom thus remains the primary fact, yet it can be injured from without, which makes oppression intelligible as a wrong and not merely a misfortune."
+        },
+        "references": [
+          {
+            "fr": "Pour une morale de l'ambiguïté (1947), sur la liberté située et l'oppression",
+            "en": "The Ethics of Ambiguity (1947), on situated freedom and oppression"
+          },
+          {
+            "fr": "Le Deuxième Sexe (1949), Introduction (la situation de la femme)",
+            "en": "The Second Sex (1949), Introduction (the situation of woman)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Il n'y a de liberté qu'engagée, et qui se veut en voulant le dévoilement de l'être à travers un monde.",
+            "en": "There is freedom only as engaged, willing itself by willing the disclosure of being through a world."
+          },
+          "source": {
+            "fr": "Pour une morale de l'ambiguïté",
+            "en": "The Ethics of Ambiguity"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0.1,
+          0.5,
+          0.3
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si Dieu est mort et qu'aucune valeur ne tombe d'un ciel, le <pb>fondement de la morale</pb> ne peut être que la liberté elle-même, seule chose qui se pose comme inconditionnellement désirable en se choisissant. Mais une liberté ne peut se vouloir cohérente sans vouloir aussi les autres libertés qui donnent un monde et un sens à son projet : telle est la réponse de Beauvoir au reproche de nihilisme adressé à l'existentialisme. Elle refuse pour autant toute règle universelle posée d'avance, car le bien se décide chaque fois dans l'épaisseur d'une situation singulière, d'où une éthique de l'engagement et de la <c>responsabilité envers autrui</c>, sans recette ni alibi.",
+          "en": "If God is dead and no value falls from any heaven, the <pb>foundation of morality</pb> can only be freedom itself, the one thing that posits itself as unconditionally desirable in choosing itself. But a freedom cannot coherently will itself without also willing the other freedoms that give a world and a meaning to its project: this is Beauvoir's reply to the charge of nihilism levelled at existentialism. She nonetheless refuses any universal rule fixed in advance, for the good is decided each time within the thickness of a singular situation, hence an ethics of engagement and <c>responsibility toward others</c>, with no recipe and no alibi."
+        },
+        "references": [
+          {
+            "fr": "Pour une morale de l'ambiguïté (1947), \"La liberté et la libération\"",
+            "en": "The Ethics of Ambiguity (1947), \"Freedom and Liberation\""
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SELF_INTEREST",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Mon projet ne prend forme qu'en dévoilant un monde, et ce monde n'a de relief que peuplé d'autres libertés qui le reprennent et le prolongent : c'est pourquoi <q>vouloir l'homme libre, c'est vouloir qu'il y ait de l'être</q>. La <pb>tension entre soi et autrui</pb>, que la tradition résout en sacrifiant l'un à l'autre, se dissout donc à la racine : ma liberté ne s'accomplit pas malgré celle des autres mais par elle, si bien qu'opprimer quiconque, c'est appauvrir le sens même de ce que je vise. De là un altruisme qui n'est ni devoir imposé du dehors ni renoncement, mais l'exigence interne d'une liberté lucide sur ses propres conditions.",
+          "en": "My project takes shape only by disclosing a world, and that world has relief only when peopled with other freedoms that take it up and extend it: this is why <q>to will man free is to will that there be being</q>. The <pb>tension between self and other</pb>, which tradition resolves by sacrificing one to the other, thus dissolves at the root: my freedom is fulfilled not despite the freedom of others but through it, so that to oppress anyone is to impoverish the very meaning of what I aim at. Hence an altruism that is neither a duty imposed from without nor a renunciation, but the internal requirement of a freedom lucid about its own conditions."
+        },
+        "references": [
+          {
+            "fr": "Pour une morale de l'ambiguïté (1947), \"Ambiguïté et liberté\"",
+            "en": "The Ethics of Ambiguity (1947), \"Ambiguity and Freedom\""
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 1
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Beauvoir est athée : élevée dans un catholicisme fervent, elle rompt avec la foi à l'adolescence et n'y reviendra pas. Son existentialisme part d'un monde sans Dieu où l'humain, n'ayant aucune valeur garantie d'en haut, doit faire surgir lui-même le sens et fonder sa morale sur sa seule liberté.",
+          "en": "Beauvoir is an atheist: raised in fervent Catholicism, she broke with faith in adolescence and never returned to it. Her existentialism starts from a world without God in which the human being, having no value guaranteed from above, must himself bring forth meaning and ground his morality on his freedom alone."
+        },
+        "references": [
+          {
+            "fr": "Mémoires d'une jeune fille rangée (1958), la perte de la foi",
+            "en": "Memoirs of a Dutiful Daughter (1958), the loss of faith"
+          },
+          {
+            "fr": "Pour une morale de l'ambiguïté (1947), une morale sans Dieu",
+            "en": "The Ethics of Ambiguity (1947), a morality without God"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.05,
+          0.85,
+          0.1,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Dans un monde sans valeurs données ni finalité transcendante, l'existence n'a d'autre sens que celui que la liberté lui invente par ses projets : le sens est <c>construit</c>, jamais reçu. Beauvoir reconnaît la part de gratuité et d'<c>ambiguïté</c> de la condition humaine, sans en faire un absurde stérile : ce vide est précisément ce qui rend la création de sens à la fois possible et requise.",
+          "en": "In a world without given values or transcendent purpose, existence has no meaning other than the one freedom invents for it through its projects: meaning is <c>constructed</c>, never received. Beauvoir acknowledges the gratuitousness and <c>ambiguity</c> of the human condition, without turning it into a sterile absurd: this void is precisely what makes the creation of meaning both possible and required."
+        },
+        "references": [
+          {
+            "fr": "Pour une morale de l'ambiguïté (1947), sur le sens et la gratuité de l'existence",
+            "en": "The Ethics of Ambiguity (1947), on the meaning and gratuitousness of existence"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.15,
+          0.1,
+          0.75
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Les valeurs ne sont ni inscrites dans un ciel intelligible ni purement relatives : elles sont instituées par des libertés qui se reconnaissent mutuellement et s'engagent. Beauvoir part toujours de situations singulières et historiques, mais la liberté qu'elle érige en exigence vaut pour tous : un <c>constructivisme</c> situé, qui universalise sans relativisme ni réalisme moral.",
+          "en": "Values are neither inscribed in an intelligible heaven nor purely relative: they are instituted by freedoms that recognize one another and commit themselves. Beauvoir always starts from singular, historical situations, yet the freedom she sets up as a requirement holds for all: a situated <c>constructivism</c>, universalizing without relativism or moral realism."
+        },
+        "references": [
+          {
+            "fr": "Pour une morale de l'ambiguïté (1947), la fondation des valeurs par la liberté",
+            "en": "The Ethics of Ambiguity (1947), the grounding of values in freedom"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SINCERITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Beauvoir reprend la critique existentialiste de la <c id='bad-faith'>mauvaise foi</c> : se mentir à soi-même pour fuir sa liberté et sa responsabilité. L'<c id='authenticity'>authenticité</c> consiste à assumer lucidement l'<c>ambiguïté</c> de la condition humaine, sans se réfugier dans un rôle figé, dans le sérieux des valeurs toutes faites ou dans l'image que l'on donne aux autres. La véracité envers soi est une exigence morale forte.",
+          "en": "Beauvoir takes up the existentialist critique of <c id='bad-faith'>bad faith</c>: lying to oneself to flee one's freedom and responsibility. <c id='authenticity'>Authenticity</c> consists in lucidly assuming the <c>ambiguity</c> of the human condition, without taking refuge in a fixed role, in the seriousness of ready-made values, or in the image one presents to others. Truthfulness toward oneself is a strong moral requirement."
+        },
+        "references": [
+          {
+            "fr": "Pour une morale de l'ambiguïté (1947), figures de la fuite (le sérieux, le sub-homme)",
+            "en": "The Ethics of Ambiguity (1947), figures of evasion (the serious man, the sub-man)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "INDIVIDUAL_SOCIETY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.2
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'individu libre reste la source du sens et des valeurs, mais il n'existe pas hors d'un tissu de relations : il se constitue dans le regard d'autrui, dans des institutions et des conditions historiques qui le situent. Beauvoir tient ensemble l'irréductibilité de la liberté singulière et la dépendance concrète à l'égard du collectif, d'où une position à peine inclinée vers le pôle relationnel.",
+          "en": "The free individual remains the source of meaning and values, yet does not exist outside a web of relations: he is constituted in the gaze of others, in institutions and historical conditions that situate him. Beauvoir holds together the irreducibility of singular freedom and a concrete dependence on the collective, hence a position only slightly inclined toward the relational pole."
+        },
+        "references": [
+          {
+            "fr": "Pour une morale de l'ambiguïté (1947), liberté et monde commun",
+            "en": "The Ethics of Ambiguity (1947), freedom and the common world"
+          },
+          {
+            "fr": "Le Deuxième Sexe (1949), la femme située dans des rapports sociaux",
+            "en": "The Second Sex (1949), woman situated within social relations"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "PARTIALITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'éthique de l'ambiguïté part toujours de la situation concrète et des liens singuliers, non d'un point de vue surplombant et impartial : on s'engage à partir de là où l'on est, auprès de ceux à qui l'on est lié. Mais cet ancrage partial s'ouvre à l'exigence universelle de vouloir la liberté de tous, ce qui modère la pente partialiste.",
+          "en": "The ethics of ambiguity always starts from the concrete situation and from singular bonds, not from an overarching, impartial standpoint: one commits from where one is, alongside those to whom one is tied. Yet this partial anchoring opens onto the universal requirement of willing the freedom of all, which tempers the partialist leaning."
+        },
+        "references": [
+          {
+            "fr": "Pour une morale de l'ambiguïté (1947), l'engagement à partir de la situation",
+            "en": "The Ethics of Ambiguity (1947), engagement from within the situation"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.2,
+          0.6,
+          0.2
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le soi n'est pas une substance ni une essence fixe : il est ce qu'il se fait à travers ses choix et son histoire. Dans <w>Le Deuxième Sexe</w> comme dans ses Mémoires, le sujet apparaît comme un <c>devenir</c> constitué par un récit de vie, une suite de projets repris et réinterprétés, sans noyau donné une fois pour toutes, d'où une nette dominante narrativiste.",
+          "en": "The self is neither a substance nor a fixed essence: it is what it makes of itself through its choices and its history. In <w>The Second Sex</w> as in her Memoirs, the subject appears as a <c>becoming</c> constituted by a life-narrative, a series of projects taken up and reinterpreted, with no core given once and for all, hence a clear narrativist dominance."
+        },
+        "references": [
+          {
+            "fr": "Le Deuxième Sexe (1949), le devenir-femme",
+            "en": "The Second Sex (1949), becoming-woman"
+          },
+          {
+            "fr": "Mémoires d'une jeune fille rangée (1958)",
+            "en": "Memoirs of a Dutiful Daughter (1958)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La souffrance de l'oppression n'a aucune fécondité rédemptrice : elle est un mal à combattre, et toute morale qui la justifierait au nom d'un avenir radieux est une mystification que Beauvoir dénonce. Sans nier la part de finitude et d'échec inhérente à toute existence, elle penche vers l'abolition concrète des souffrances évitables plutôt que vers leur sacralisation.",
+          "en": "The suffering of oppression has no redemptive fruitfulness: it is an evil to be fought, and any morality that would justify it in the name of a radiant future is a mystification Beauvoir denounces. Without denying the share of finitude and failure inherent in any existence, she leans toward the concrete abolition of avoidable suffering rather than toward its sacralization."
+        },
+        "references": [
+          {
+            "fr": "Pour une morale de l'ambiguïté (1947), critique du sacrifice du présent à l'avenir",
+            "en": "The Ethics of Ambiguity (1947), critique of sacrificing the present to the future"
+          },
+          {
+            "fr": "Le Deuxième Sexe (1949), la souffrance comme produit de l'oppression",
+            "en": "The Second Sex (1949), suffering as a product of oppression"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CONSERVATISM_PROGRESSISM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Beauvoir est résolument émancipatrice : <w>Le Deuxième Sexe</w> est un appel à transformer les structures qui font de la femme <c>l'Autre</c>, et son engagement (féminisme, anticolonialisme, soutien aux luttes d'émancipation) vise l'abolition des oppressions héritées. Les traditions qui figent les rôles relèvent pour elle de l'<c>aliénation</c>, non d'un ordre à conserver.",
+          "en": "Beauvoir is resolutely emancipatory: <w>The Second Sex</w> is a call to transform the structures that make woman <c>the Other</c>, and her engagement (feminism, anticolonialism, support for liberation struggles) aims at abolishing inherited oppressions. The traditions that fix roles are, for her, <c>alienation</c>, not an order to be conserved."
+        },
+        "references": [
+          {
+            "fr": "Le Deuxième Sexe (1949), perspective de libération",
+            "en": "The Second Sex (1949), perspective of liberation"
+          },
+          {
+            "fr": "La Force des choses (1963), engagements politiques",
+            "en": "Force of Circumstance (1963), political engagements"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Sans Dieu ni arrière-monde, le sens et les valeurs se jouent entièrement dans ce monde-ci, dans l'<kw>immanence</kw> des projets humains et de l'histoire. Beauvoir donne pourtant au mot <kw>transcendance</kw> un sens existentiel particulier : non un au-delà, mais le dépassement par lequel la liberté s'arrache vers l'avenir, l'oppression consistant à enfermer autrui dans l'immanence d'une condition figée.",
+          "en": "With no God or backworld, meaning and values play out entirely in this world, in the <kw>immanence</kw> of human projects and history. Beauvoir nonetheless gives the word <kw>transcendence</kw> a particular existential sense: not a beyond, but the surpassing by which freedom thrusts toward the future, oppression consisting in confining the other to the immanence of a fixed condition."
+        },
+        "references": [
+          {
+            "fr": "Le Deuxième Sexe (1949), Introduction (transcendance et immanence)",
+            "en": "The Second Sex (1949), Introduction (transcendence and immanence)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "COSMIC_OUTLOOK",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La condition humaine est foncièrement <c>ambiguë</c> : nous sommes à la fois liberté et <c>facticité</c>, sujet et chose, conscience et corps voué à la mort, sans réconciliation possible dans une harmonie garantie. Beauvoir assume cette tension comme une donnée tragique de l'existence, qu'il s'agit de vivre lucidement plutôt que de fuir, sans pour autant verser dans le désespoir.",
+          "en": "The human condition is fundamentally <c>ambiguous</c>: we are at once freedom and <c>facticity</c>, subject and thing, consciousness and a body doomed to death, with no reconciliation possible in a guaranteed harmony. Beauvoir assumes this tension as a tragic given of existence, to be lived lucidly rather than fled, yet without lapsing into despair."
+        },
+        "references": [
+          {
+            "fr": "Pour une morale de l'ambiguïté (1947), l'ambiguïté de la condition humaine",
+            "en": "The Ethics of Ambiguity (1947), the ambiguity of the human condition"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.4,
+          0.1,
+          0.5
+        ]
+      },
+      "epistemicStatus": "EXTRAPOLATED",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Beauvoir n'élabore pas de métaphysique systématique, mais sa phénoménologie d'inspiration existentialiste suppose une réalité matérielle et corporelle première, comprise à travers la conscience qui lui donne sens. Le corps, ni pure chose ni pure idée, est vécu comme <q>situation</q>, ce qui interdit de la ranger franchement dans le matérialisme ou l'idéalisme.",
+          "en": "Beauvoir elaborates no systematic metaphysics, but her existentialist-inflected phenomenology presupposes a primary material and bodily reality, grasped through the consciousness that gives it meaning. The body, neither pure thing nor pure idea, is lived as <q>situation</q>, which forbids ranging her squarely under materialism or idealism."
+        },
+        "references": [
+          {
+            "fr": "Le Deuxième Sexe (1949), \"Les données de la biologie\" et le corps comme situation",
+            "en": "The Second Sex (1949), \"The Data of Biology\" and the body as situation"
+          }
+        ],
+        "strength": "WEAK"
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'examen lucide de soi importe, mais la liberté ne se prouve et ne se réalise que dans l'<kw>action</kw> et l'engagement : on ne devient ce que l'on est qu'en agissant dans le monde, non dans la seule contemplation intérieure. La pente va vers le primat de l'action, sans abandonner l'exigence de lucidité.",
+          "en": "Lucid self-examination matters, but freedom proves and realizes itself only in <kw>action</kw> and engagement: one becomes what one is only by acting in the world, not in inner contemplation alone. The leaning goes toward the primacy of action, without abandoning the demand for lucidity."
+        },
+        "references": [
+          {
+            "fr": "Pour une morale de l'ambiguïté (1947), la liberté qui se réalise dans l'action",
+            "en": "The Ethics of Ambiguity (1947), freedom realized in action"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "BODILY_PLEASURES",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Loin de tout ascétisme, Beauvoir revendique le corps et la sexualité comme dimensions pleines de l'existence, à vivre librement et non sous le poids de la honte ou des tabous imposés aux femmes. La libération inclut la réappropriation du désir et du plaisir comme part assumée de la liberté incarnée.",
+          "en": "Far from any asceticism, Beauvoir reclaims the body and sexuality as full dimensions of existence, to be lived freely and not under the weight of shame or of taboos imposed on women. Liberation includes the reappropriation of desire and pleasure as an assumed part of embodied freedom."
+        },
+        "references": [
+          {
+            "fr": "Le Deuxième Sexe (1949), t. I, \"L'initiation sexuelle\" et la sexualité féminine",
+            "en": "The Second Sex (1949), vol. I, on sexual initiation and female sexuality"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TIME_ORIENTATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0.8,
+          0.1
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'existence est structurée par le <c>projet</c> : la liberté se définit par l'avenir qu'elle vise et vers lequel elle se dépasse. Beauvoir pense l'oppression précisément comme la privation d'avenir, l'enfermement dans un présent répétitif sans ouverture sur des fins librement posées, ce qui confirme le primat de la temporalité du projet.",
+          "en": "Existence is structured by the <c>project</c>: freedom is defined by the future it aims at and toward which it surpasses itself. Beauvoir conceives oppression precisely as the deprivation of a future, confinement in a repetitive present with no opening onto freely posited ends, which confirms the primacy of the temporality of the project."
+        },
+        "references": [
+          {
+            "fr": "Pour une morale de l'ambiguïté (1947), la liberté comme projet vers l'avenir",
+            "en": "The Ethics of Ambiguity (1947), freedom as a project toward the future"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DISTRIBUTIVE_JUSTICE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "EXTRAPOLATED",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Proche du marxisme et engagée à gauche, Beauvoir voit dans les inégalités matérielles une entrave concrète à la liberté des opprimés : la libération exige de transformer les conditions économiques et sociales, et non seulement les mentalités. Cette pente égalitariste reste toutefois inférée de ses engagements plus que d'une théorie systématique de la justice distributive.",
+          "en": "Close to Marxism and committed on the left, Beauvoir sees material inequalities as a concrete obstacle to the freedom of the oppressed: liberation requires transforming economic and social conditions, not merely mentalities. This egalitarian leaning is, however, inferred from her engagements more than from any systematic theory of distributive justice."
+        },
+        "references": [
+          {
+            "fr": "Le Deuxième Sexe (1949), conditions matérielles de l'émancipation",
+            "en": "The Second Sex (1949), the material conditions of emancipation"
+          },
+          {
+            "fr": "La Force des choses (1963), engagements de gauche",
+            "en": "Force of Circumstance (1963), her commitments on the left"
+          }
+        ],
+        "strength": "WEAK"
+      }
+    },
+    {
+      "axisId": "HUMAN_VISION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Pour Beauvoir, l'humain n'est ni bon ni mauvais par nature, puisqu'il n'a pas de nature : il est ce qu'il se fait, capable du meilleur engagement comme de la pire complicité avec l'oppression. La valeur morale dépend de l'usage qu'on fait de sa liberté, ce qui interdit tout verdict d'ensemble, optimiste ou pessimiste, sur la nature humaine.",
+          "en": "For Beauvoir, the human being is neither good nor bad by nature, since it has no nature: it is what it makes of itself, capable of the noblest engagement as of the basest complicity with oppression. Moral worth depends on the use one makes of one's freedom, which forbids any blanket verdict, optimistic or pessimistic, on human nature."
+        },
+        "references": [
+          {
+            "fr": "Pour une morale de l'ambiguïté (1947), la liberté entre engagement et fuite",
+            "en": "The Ethics of Ambiguity (1947), freedom between engagement and evasion"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "AUTHORITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Beauvoir se méfie des autorités qui figent les individus dans des rôles imposés (patriarcat, traditions, dogmes) et tient l'obéissance non interrogée pour une forme de mauvaise foi. Sans prôner l'abolition de toute institution, elle subordonne la légitimité d'un pouvoir à ce qu'il élargit ou non la liberté concrète de chacun, d'où une nette défiance à l'égard de l'autorité.",
+          "en": "Beauvoir distrusts authorities that fix individuals in imposed roles (patriarchy, traditions, dogmas) and treats unquestioned obedience as a form of bad faith. Without advocating the abolition of all institutions, she makes a power's legitimacy depend on whether it widens each person's concrete freedom, hence a marked wariness toward authority."
+        },
+        "references": [
+          {
+            "fr": "Le Deuxième Sexe (1949), critique de l'autorité patriarcale",
+            "en": "The Second Sex (1949), critique of patriarchal authority"
+          },
+          {
+            "fr": "Pour une morale de l'ambiguïté (1947), le \"sérieux\" et la soumission aux valeurs établies",
+            "en": "The Ethics of Ambiguity (1947), the \"serious man\" and submission to established values"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "WORK_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.6,
+          0.3,
+          0.1
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Beauvoir voit dans le travail et l'activité productive un levier décisif d'émancipation : accéder au travail, c'est pour la femme conquérir l'indépendance économique et la transcendance par le projet, contre l'enfermement dans l'immanence domestique. Le travail aliéné existe (et relève alors de l'oppression), mais le travail librement assumé est d'abord voie d'accomplissement.",
+          "en": "Beauvoir sees work and productive activity as a decisive lever of emancipation: gaining access to work means, for woman, winning economic independence and transcendence through the project, against confinement in domestic immanence. Alienated labour exists (and then belongs to oppression), but freely assumed work is first of all a path of fulfilment."
+        },
+        "references": [
+          {
+            "fr": "Le Deuxième Sexe (1949), t. II, \"Vers la libération\" (le travail et l'indépendance)",
+            "en": "The Second Sex (1949), vol. II, \"Toward Liberation\" (work and independence)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SOCIAL_IDENTITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.9,
+          0.1
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si aucun destin biologique, psychique ou économique ne fixe d'avance ce qu'est une femme, alors la <kw>féminité</kw> ne peut être une essence : elle est le résultat d'une <c>élaboration</c> que la civilisation impose à la femelle humaine. Beauvoir dissocie ici le sexe, donnée corporelle, et le devenir-femme façonné par l'éducation, le droit et le regard d'<c>autrui</c>, fondant la distinction que reprendront les théories du genre. La conséquence est politique : ce qui s'est construit dans l'histoire peut s'y défaire, contre tout naturalisme qui justifierait la hiérarchie des sexes par la nature.",
+          "en": "If no biological, psychic or economic destiny settles in advance what a woman is, then <kw>femininity</kw> cannot be an essence: it is the outcome of an <c>elaboration</c> civilization imposes on the human female. Beauvoir here pries apart sex, a bodily given, and the becoming-woman shaped by upbringing, law and the gaze of <c>others</c>, grounding the distinction the theories of gender would take up. The consequence is political: what was built in history can be undone there, against any naturalism that would justify the hierarchy of the sexes by nature."
+        },
+        "references": [
+          {
+            "fr": "Le Deuxième Sexe (1949), t. II, ouverture",
+            "en": "The Second Sex (1949), vol. II, opening"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "On ne naît pas femme : on le devient.",
+            "en": "One is not born, but rather becomes, a woman."
+          },
+          "source": {
+            "fr": "Le Deuxième Sexe, t. II",
+            "en": "The Second Sex, vol. II"
+          }
+        },
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "SOCIAL_IDENTITY",
+      "thesis": {
+        "fr": "On ne naît pas femme : on le devient, car la <kw>féminité</kw> n'est pas une nature mais une situation construite par toute une <c>civilisation</c>.",
+        "en": "One is not born, but rather becomes, a woman, for <kw>femininity</kw> is not a nature but a situation constructed by a whole <c>civilization</c>."
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "thesis": {
+        "fr": "La liberté est toujours <c>située</c> : l'oppression ne laisse pas l'opprimé intérieurement libre, elle mutile concrètement son pouvoir de se projeter.",
+        "en": "Freedom is always <c>situated</c>: oppression does not leave the oppressed inwardly free, it concretely mutilates their power to project themselves."
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "thesis": {
+        "fr": "Dans un monde sans Dieu, la liberté est le seul fondement de la morale : agir bien, c'est vouloir sa liberté en voulant celle d'autrui, sans règle donnée d'avance.",
+        "en": "In a world without God, freedom is the only foundation of morality: to act well is to will one's freedom by willing that of others, with no rule given in advance."
+      }
+    },
+    {
+      "axisId": "SELF_INTEREST",
+      "thesis": {
+        "fr": "Ma liberté ne s'accomplit pas contre celle des autres mais à travers elle : opprimer quiconque, c'est appauvrir le sens même de mon propre projet.",
+        "en": "My freedom is fulfilled not against the freedom of others but through it: to oppress anyone is to impoverish the very meaning of my own project."
+      }
+    },
+    {
+      "axisId": "HUMAN_NATURE",
+      "thesis": {
+        "fr": "La femme a été faite <c>l'Autre</c> de l'homme : un sujet réduit à l'inessentiel par la culture, et que rien dans sa biologie ne destinait à ce rang.",
+        "en": "Woman has been made man's <c>Other</c>: a subject reduced to the inessential by culture, with nothing in her biology destining her to that rank."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

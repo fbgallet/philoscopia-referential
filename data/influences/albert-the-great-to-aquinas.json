@@ -1,0 +1,16 @@
+{
+  "id": "albert-the-great-to-aquinas",
+  "from": { "kind": "PHILOSOPHER", "slug": "albert-the-great" },
+  "to": { "kind": "PHILOSOPHER", "slug": "aquinas" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Maître de <ph id='aquinas'>Thomas d'Aquin</ph> à Cologne, <ph id='albert-the-great'>Albert le Grand</ph> l'initie à l'étude systématique d'Aristote et à l'accord de la philosophie naturelle avec la foi.",
+    "en": "<ph id='aquinas'>Thomas Aquinas</ph>'s master at Cologne, <ph id='albert-the-great'>Albert the Great</ph> introduces him to the systematic study of Aristotle and to reconciling natural philosophy with faith."
+  },
+  "sources": [
+    { "fr": "Tradition biographique : Guillaume de Tocco, Vie de saint Thomas d'Aquin", "en": "Biographical tradition: William of Tocco, Life of St Thomas Aquinas" }
+  ],
+  "updatedAt": "2026-07-02T00:00:00.000Z"
+}

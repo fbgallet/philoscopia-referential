@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "boethius",
+  "stub": true,
+  "name": {
+    "fr": "Boèce",
+    "en": "Boethius"
+  },
+  "summary": {
+    "fr": "Philosophe romain de l'Antiquité tardive, auteur de la « Consolation de Philosophie », qui chercha à concilier la prescience divine et la liberté humaine en plaçant Dieu hors du temps.",
+    "en": "Roman philosopher of late antiquity, author of \"The Consolation of Philosophy\", who sought to reconcile divine foreknowledge with human freedom by placing God outside time."
+  },
+  "birth": 477,
+  "death": 524,
+  "nationality": {
+    "fr": "Romain",
+    "en": "Roman"
+  },
+  "movements": [],
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

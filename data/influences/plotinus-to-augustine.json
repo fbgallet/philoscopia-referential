@@ -1,0 +1,16 @@
+{
+  "id": "plotinus-to-augustine",
+  "from": { "kind": "PHILOSOPHER", "slug": "plotinus" },
+  "to": { "kind": "PHILOSOPHER", "slug": "augustine" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='augustine'>Augustin</ph> reçoit des néoplatoniciens, <ph id='plotinus'>Plotin</ph> au premier chef, une métaphysique de l'<c>intériorité</c> et de l'ascension de l'âme vers l'immatériel, qu'il reconfigure dans la théologie chrétienne.",
+    "en": "<ph id='augustine'>Augustine</ph> receives from the Neoplatonists, <ph id='plotinus'>Plotinus</ph> foremost, a metaphysics of <c>inwardness</c> and of the soul's ascent toward the immaterial, which he reconfigures within Christian theology."
+  },
+  "sources": [
+    { "fr": "Augustin, Confessions, VII, 9", "en": "Augustine, Confessions, VII.9" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

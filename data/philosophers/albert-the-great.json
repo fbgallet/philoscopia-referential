@@ -1,0 +1,26 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "albert-the-great",
+  "stub": true,
+  "name": {
+    "fr": "Albert le Grand",
+    "en": "Albert the Great"
+  },
+  "summary": {
+    "fr": "Théologien et savant dominicain allemand, l'un des premiers à commenter l'ensemble du corpus d'Aristote pour l'Occident latin ; maître de Thomas d'Aquin, à qui il transmit le goût des sciences de la nature et de l'aristotélisme.",
+    "en": "German Dominican theologian and naturalist, among the first to comment on the whole Aristotelian corpus for the Latin West; the teacher of Aquinas, to whom he passed on a taste for the natural sciences and for Aristotelianism."
+  },
+  "birth": 1200,
+  "death": 1280,
+  "nationality": {
+    "fr": "Allemand",
+    "en": "German"
+  },
+  "movements": [
+    "aristotelianism"
+  ],
+  "updatedAt": "2026-06-29T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

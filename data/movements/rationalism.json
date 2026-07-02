@@ -1,0 +1,419 @@
+{
+  "kind": "MOVEMENT",
+  "id": "rationalism",
+  "name": {
+    "fr": "Rationalisme",
+    "en": "Rationalism"
+  },
+  "tagline": {
+    "fr": "La <ax id='KNOWLEDGE_SOURCE'>raison, et non les sens</ax>, donne accès à l'ordre vrai du réel.",
+    "en": "<ax id='KNOWLEDGE_SOURCE'>Reason, not the senses</ax>, gives access to the true order of reality."
+  },
+  "summary": {
+    "fr": "Courant continental né au cœur du XVIIe siècle, à l'âge de la révolution scientifique de <per>Galilée</per> et de <per>Kepler</per>, quand le succès des mathématiques dans l'étude de la nature semble appeler une refondation du savoir sur des bases aussi sûres. Sa lignée va de <ph id='descartes'>Descartes</ph>, qui ouvre la voie avec les <w id='meditations-descartes'>Méditations</w> et le <w>Discours de la méthode</w>, à <ph id='spinoza'>Spinoza</ph>, qui en tire dans l'<w id='ethics-spinoza'>Éthique</w> un système géométrique, puis à <ph id='leibniz'>Leibniz</ph>, qui le couronne dans la <w>Monadologie</w>. Le <pb>problème</pb> auquel il répond est celui des fondements : sur quoi assurer une connaissance certaine après la ruine de la physique scolastique et la menace du <c id='skepticism'>scepticisme</c> ? Face à l'<mv id='empiricism'>empirisme</mv> de <ph id='locke'>Locke</ph> et <ph id='hume'>Hume</ph>, qui fait dériver tout savoir de l'expérience, l'école sera réputée dépassée par la synthèse de <ph id='kant'>Kant</ph>, qui en retient la part a priori tout en lui ôtant sa prétention à connaître les choses en soi. Elle n'en a pas moins fixé pour des siècles l'idéal moderne de la science et reste l'un des deux pôles autour desquels s'organise l'épistémologie classique.",
+    "en": "A continental current born in the heart of the 17th century, in the age of the scientific revolution of <per>Galileo</per> and <per>Kepler</per>, when the success of mathematics in studying nature seemed to call for a rebuilding of knowledge on equally secure foundations. Its lineage runs from <ph id='descartes'>Descartes</ph>, who opens the way with the <w id='meditations-descartes'>Meditations</w> and the <w>Discourse on the Method</w>, to <ph id='spinoza'>Spinoza</ph>, who draws from it in the <w id='ethics-spinoza'>Ethics</w> a geometric system, and on to <ph id='leibniz'>Leibniz</ph>, who crowns it in the <w>Monadology</w>. The <pb>problem</pb> it addresses is that of foundations: on what can certain knowledge be secured after the collapse of scholastic physics and under the threat of <c id='skepticism'>skepticism</c>? Against the <mv id='empiricism'>empiricism</mv> of <ph id='locke'>Locke</ph> and <ph id='hume'>Hume</ph>, which derives all knowledge from experience, the school would be held to be superseded by <ph id='kant'>Kant</ph>'s synthesis, which keeps its a priori component while stripping away its claim to know things in themselves. Even so it fixed the modern ideal of science for centuries and remains one of the two poles around which classical epistemology is organised."
+  },
+  "period": {
+    "from": 1637,
+    "to": 1716
+  },
+  "keyFigures": [
+    {
+      "slug": "descartes",
+      "name": { "fr": "Descartes", "en": "Descartes" }
+    },
+    {
+      "slug": "spinoza",
+      "name": { "fr": "Spinoza", "en": "Spinoza" }
+    },
+    {
+      "slug": "leibniz",
+      "name": { "fr": "Leibniz", "en": "Leibniz" }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.05,
+          0.1,
+          0.8,
+          0.05
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Les rationalistes convergent vers une éthique de la vertu intellectualisée : le bien tient à la perfection et à la puissance de l'âme raisonnable. La <c id='generosity'>générosité</c> de Descartes, la béatitude active de Spinoza, la sagesse de Leibniz font de la vie morale l'épanouissement d'un caractère éclairé par la raison, plus que l'obéissance à une loi ou le calcul des effets.",
+          "en": "The rationalists converge on an intellectualized virtue ethics: the good lies in the perfection and power of the rational soul. Descartes' <c id='generosity'>generosity</c>, Spinoza's active blessedness, Leibniz's wisdom make moral life the flourishing of a character enlightened by reason, more than obedience to a law or the calculation of effects."
+        },
+        "references": [
+          {
+            "fr": "Spinoza, Éthique, IV-V",
+            "en": "Spinoza, Ethics, IV-V"
+          },
+          {
+            "fr": "Descartes, Les passions de l'âme",
+            "en": "Descartes, The Passions of the Soul"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0.55,
+          0.35
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Les rationalistes convergent vers un souverain bien intellectuel : la perfection et la joie de l'âme qui connaît. Le contentement ferme de Descartes, la <c>béatitude</c> de Spinoza comme amour intellectuel de Dieu, la perfection croissante chez Leibniz placent la vie bonne dans l'exercice accompli de la raison, où s'unissent épanouissement et vertu, plus que dans le plaisir.",
+          "en": "The rationalists converge on an intellectual highest good: the perfection and joy of the knowing soul. Descartes' firm contentment, Spinoza's <c>blessedness</c> as the intellectual love of God, and Leibniz's increasing perfection place the good life in the accomplished exercise of reason, where flourishing and virtue unite, more than in pleasure."
+        },
+        "references": [
+          {
+            "fr": "Spinoza, Éthique, V",
+            "en": "Spinoza, Ethics, V"
+          },
+          {
+            "fr": "Descartes, Les passions de l'âme",
+            "en": "Descartes, The Passions of the Soul"
+          },
+          {
+            "fr": "Leibniz, Monadologie",
+            "en": "Leibniz, Monadology"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.85 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le <stk>point décisif</stk> est qu'une vérité nécessaire et universelle ne peut venir des sens : ceux-ci ne livrent que des cas particuliers et contingents, jamais le « cela ne peut pas être autrement » des mathématiques. Il faut donc une source non sensible, et ce sera l'<c id='innate-ideas'>entendement</c> et ses <c id='innate-ideas'>idées innées</c>. <ph id='leibniz'>Leibniz</ph> retourne contre l'<mv id='empiricism'>empirisme</mv> sa propre maxime : si rien n'est dans l'esprit qui n'ait d'abord été dans les sens, encore faut-il en excepter l'intellect lui-même, dont les structures rendent toute expérience pensable. Là où <ph id='hume'>Hume</ph> ne voit dans les sens que des impressions, <ph id='spinoza'>Spinoza</ph> distingue cette connaissance confuse du premier genre de la connaissance par <c id='adequate-idea'>idées adéquates</c>, seule à saisir les choses par leurs causes.",
+          "en": "The <stk>decisive point</stk> is that a necessary and universal truth cannot come from the senses: these yield only particular, contingent cases, never the « it cannot be otherwise » of mathematics. A non-sensory source is therefore required, and it is the <c id='innate-ideas'>understanding</c> with its <c id='innate-ideas'>innate ideas</c>. <ph id='leibniz'>Leibniz</ph> turns the <mv id='empiricism'>empiricist</mv> maxim against itself: if nothing is in the mind that was not first in the senses, one must still except the intellect itself, whose structures make any experience thinkable. Where <ph id='hume'>Hume</ph> sees in the senses only impressions, <ph id='spinoza'>Spinoza</ph> sets this confused knowledge of the first kind apart from knowledge through <c id='adequate-idea'>adequate ideas</c>, the only kind that grasps things through their causes."
+        },
+        "quote": {
+          "text": {
+            "fr": "Rien n'est dans l'entendement qui n'ait été d'abord dans les sens, sinon l'entendement lui-même.",
+            "en": "Nothing is in the intellect that was not first in the senses, except the intellect itself."
+          },
+          "source": {
+            "fr": "Leibniz, Nouveaux essais sur l'entendement humain, II, 1",
+            "en": "Leibniz, New Essays on Human Understanding, II, 1"
+          }
+        },
+        "references": [
+          { "fr": "Descartes, Méditations métaphysiques, III", "en": "Descartes, Meditations on First Philosophy, III" },
+          { "fr": "Leibniz, Nouveaux essais sur l'entendement humain, II, 1", "en": "Leibniz, New Essays on Human Understanding, II, 1" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.85 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Pour répondre au <c id='skepticism'>scepticisme</c>, il ne suffit pas d'accumuler des opinions probables : il faut une vérité que nul argument ne puisse ébranler. <ph id='descartes'>Descartes</ph> en fait sa <stk>stratégie</stk>, poussant le <c id='hyperbolic-doubt'>doute hyperbolique</c> jusqu'à l'hypothèse du malin génie pour ne retenir que ce qui y résiste : l'acte même de penser, qui survit à tout doute possible. Ce roc une fois trouvé, l'<dif>enjeu</dif> est de propager sa certitude au reste du savoir, et le modèle en est la géométrie : ordonner les connaissances <c>more geometrico</c>, d'axiomes évidents vers leurs conséquences nécessaires, comme <ph id='spinoza'>Spinoza</ph> déduit l'<w id='ethics-spinoza'>Éthique</w> à la manière des géomètres. La certitude visée n'est pas une assurance psychologique mais l'évidence contraignante de la démonstration.",
+          "en": "To answer <c id='skepticism'>skepticism</c> it is not enough to pile up probable opinions: a truth is needed that no argument can shake. <ph id='descartes'>Descartes</ph> makes this his <stk>strategy</stk>, pushing <c id='hyperbolic-doubt'>hyperbolic doubt</c> as far as the hypothesis of the evil demon so as to keep only what survives it: the very act of thinking, which outlasts every possible doubt. Once that rock is found, the <dif>task</dif> is to propagate its certainty to the rest of knowledge, and the model for this is geometry: ordering knowledge <c>more geometrico</c>, from self-evident axioms to their necessary consequences, as <ph id='spinoza'>Spinoza</ph> deduces the <w id='ethics-spinoza'>Ethics</w> in the manner of the geometers. The certainty aimed at is not a psychological assurance but the compelling self-evidence of demonstration."
+        },
+        "quote": {
+          "text": {
+            "fr": "Je pense, donc je suis.",
+            "en": "I think, therefore I am."
+          },
+          "source": {
+            "fr": "Descartes, Discours de la méthode, quatrième partie",
+            "en": "Descartes, Discourse on the Method, part four"
+          }
+        },
+        "references": [
+          { "fr": "Descartes, Méditations métaphysiques, II", "en": "Descartes, Meditations on First Philosophy, II" },
+          { "fr": "Spinoza, Éthique, prologue de la partie I", "en": "Spinoza, Ethics, opening of Part I" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.85 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Dieu n'est pas reçu de la foi mais exigé par la raison : sans lui, la déduction ne tiendrait pas. <ph id='descartes'>Descartes</ph> en a besoin pour franchir le <c>cogito</c> et garantir que nos idées claires ne sont pas l'œuvre d'un trompeur, et il en donne des preuves dans la troisième et la cinquième <w id='meditations-descartes'>Méditation</w>. <ph id='spinoza'>Spinoza</ph> l'identifie à la <c>substance</c> unique et nécessaire dont tout découle (<c id='causa-sui'>Deus sive Natura</c>), <ph id='leibniz'>Leibniz</ph> le déduit du <c id='principle-of-sufficient-reason'>principe de raison suffisante</c> comme ce qui rend raison de l'existence du monde et fonde l'<c>harmonie préétablie</c>. <dif>La doctrine n'est pas uniforme : le Dieu personnel créateur de Descartes, le Dieu immanent de Spinoza et le Dieu parfaitement rationnel de Leibniz diffèrent profondément.</dif> Ce qu'ils partagent tient d'un air de famille : un principe divin que la raison établit et qui garantit l'intelligibilité du monde, plutôt qu'un Dieu d'abord personnel et révélé.",
+          "en": "God is not received from faith but required by reason: without him the deduction would not hold. <ph id='descartes'>Descartes</ph> needs him to move beyond the <c>cogito</c> and guarantee that our clear ideas are not the work of a deceiver, and he proves him in the Third and Fifth <w id='meditations-descartes'>Meditation</w>. <ph id='spinoza'>Spinoza</ph> identifies him with the single, necessary <c>substance</c> from which everything follows (<c id='causa-sui'>Deus sive Natura</c>), and <ph id='leibniz'>Leibniz</ph> deduces him from the <c id='principle-of-sufficient-reason'>principle of sufficient reason</c> as that which accounts for the existence of the world and grounds the <c>pre-established harmony</c>. <dif>The doctrine is not uniform: Descartes' personal creator God, Spinoza's immanent God and Leibniz's perfectly rational God differ deeply.</dif> What they share is a family resemblance: a divine principle that reason establishes and that secures the intelligibility of the world, rather than a primarily personal, revealed God."
+        },
+        "references": [
+          { "fr": "Descartes, Méditations métaphysiques, V", "en": "Descartes, Meditations on First Philosophy, V" },
+          { "fr": "Spinoza, Éthique, I, propositions 11 et 14", "en": "Spinoza, Ethics, I, propositions 11 and 14" },
+          { "fr": "Leibniz, Monadologie, §§ 36-45", "en": "Leibniz, Monadology, §§ 36-45" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRUTH_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.55, 0.45, 0] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La vérité est conçue comme adéquation de l'idée à son objet, mais une adéquation garantie de l'intérieur par la cohérence rationnelle : pour Spinoza, l'ordre et la connexion des idées sont les mêmes que l'ordre et la connexion des choses, et le vrai est sa propre norme. Le critère cartésien de l'<c>idée claire et distincte</c> et l'enchaînement déductif rapprochent l'école d'un idéal où correspondance et cohérence se confondent.",
+          "en": "Truth is conceived as the adequacy of an idea to its object, but an adequacy secured from within by rational coherence: for Spinoza the order and connection of ideas is the same as the order and connection of things, and the true is its own standard. The Cartesian criterion of the <c>clear and distinct idea</c> and the deductive chaining of reasons draw the school toward an ideal in which correspondence and coherence converge."
+        },
+        "references": [
+          { "fr": "Spinoza, Éthique, II, proposition 7 et scolie de la proposition 43", "en": "Spinoza, Ethics, II, proposition 7 and scholium to proposition 43" },
+          { "fr": "Descartes, Méditations métaphysiques, IV", "en": "Descartes, Meditations on First Philosophy, IV" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.85, 0.15, 0, 0] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le moi est pensé comme une <c>substance</c> ou une chose simple, non comme un faisceau d'impressions : Descartes définit le sujet comme chose pensante (<c>res cogitans</c>), substance dont toute l'essence est de penser, et Leibniz fait de l'âme une <c>monade</c>, substance simple indivisible. La position substantialiste est la plus nette chez ces deux auteurs.",
+          "en": "The self is thought as a <c>substance</c> or a simple thing, not as a bundle of impressions: Descartes defines the subject as a thinking thing (<c>res cogitans</c>), a substance whose whole essence is to think, and Leibniz makes the soul a <c>monad</c>, a simple indivisible substance. The substantialist position is clearest in these two thinkers."
+        },
+        "references": [
+          { "fr": "Descartes, Méditations métaphysiques, II", "en": "Descartes, Meditations on First Philosophy, II" },
+          { "fr": "Leibniz, Monadologie, §§ 1-7", "en": "Leibniz, Monadology, §§ 1-7" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SCIENCE_PLACE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.6 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Les mathématiques sont le modèle de toute connaissance certaine : Descartes, inventeur de la géométrie analytique, fait de l'ordre des raisons mathématiques le paradigme de la méthode, et Leibniz, co-inventeur du calcul infinitésimal, rêve d'une <c>caractéristique universelle</c> qui transformerait tout désaccord en calcul. La confiance dans une science déductive unifiée incline l'école vers un fort optimisme épistémique.",
+          "en": "Mathematics is the model of all certain knowledge: Descartes, inventor of analytic geometry, makes the order of mathematical reasons the paradigm of method, and Leibniz, co-inventor of the infinitesimal calculus, dreams of a <c>universal characteristic</c> that would turn every disagreement into a calculation. Confidence in a unified deductive science inclines the school toward a strong epistemic optimism."
+        },
+        "references": [
+          { "fr": "Descartes, Discours de la méthode, deuxième partie", "en": "Descartes, Discourse on the Method, part two" },
+          { "fr": "Leibniz, Discours de métaphysique", "en": "Leibniz, Discourse on Metaphysics" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CAUSALITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.6, 0.4, 0] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Si la raison peut connaître le réel a priori, c'est que le réel est de part en part rationnel : rien n'existe ni n'arrive sans une raison qui le rende intelligible, faute de quoi il resterait des faits bruts opaques à la pensée. Ce postulat, que <ph id='leibniz'>Leibniz</ph> érige en <c id='principle-of-sufficient-reason'>principe de raison suffisante</c>, commande tout le rationalisme et le sépare de l'<mv id='empiricism'>empirisme</mv> de <ph id='hume'>Hume</ph>, pour qui la causalité n'est qu'une habitude d'associer des impressions, non une connexion nécessaire. La nature physique est lue de façon mécaniste, par figures et mouvements chez <ph id='descartes'>Descartes</ph> comme par lois nécessaires chez <ph id='spinoza'>Spinoza</ph>, mais la finalité réintervient au plan métaphysique, <ph id='leibniz'>Leibniz</ph> subordonnant le mécanisme des corps à des fins voulues par Dieu.",
+          "en": "If reason can know the real a priori, it is because the real is rational through and through: nothing exists or happens without a reason that makes it intelligible, on pain of leaving brute facts opaque to thought. This postulate, which <ph id='leibniz'>Leibniz</ph> raises into the <c id='principle-of-sufficient-reason'>principle of sufficient reason</c>, governs the whole of rationalism and divides it from the <mv id='empiricism'>empiricism</mv> of <ph id='hume'>Hume</ph>, for whom causality is only a habit of associating impressions, not a necessary connection. Physical nature is read mechanistically, through figures and motions in <ph id='descartes'>Descartes</ph> and through necessary laws in <ph id='spinoza'>Spinoza</ph>, but finality returns at the metaphysical level, with <ph id='leibniz'>Leibniz</ph> subordinating the mechanism of bodies to ends willed by God."
+        },
+        "references": [
+          { "fr": "Leibniz, Monadologie, §§ 31-32", "en": "Leibniz, Monadology, §§ 31-32" },
+          { "fr": "Descartes, Principes de la philosophie, partie II", "en": "Descartes, Principles of Philosophy, part II" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.8 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La déduction a besoin de prémisses : pour démontrer les propriétés d'une chose, il faut partir d'une définition de son essence, et cette essence doit être saisissable par le seul entendement, sans recours à l'expérience. D'où l'essentialisme de l'école : les choses ont des essences intelligibles et définissables que la raison atteint a priori. <ph id='spinoza'>Spinoza</ph> déduit ainsi toutes les propriétés de la <c>substance</c> de sa seule définition, et <ph id='descartes'>Descartes</ph> saisit l'essence de la matière comme pure étendue, par l'analyse du morceau de cire plutôt que par les sens. C'est l'inverse exact de l'<mv id='empiricism'>empirisme</mv>, pour qui aucune essence ne précède l'observation des cas particuliers.",
+          "en": "Deduction needs premises: to demonstrate a thing's properties one must start from a definition of its essence, and that essence must be graspable by the understanding alone, without recourse to experience. Hence the school's essentialism: things have intelligible, definable essences that reason reaches a priori. <ph id='spinoza'>Spinoza</ph> thus deduces all the properties of <c>substance</c> from its definition alone, and <ph id='descartes'>Descartes</ph> grasps the essence of matter as pure extension, through the analysis of the piece of wax rather than through the senses. This is the exact reverse of <mv id='empiricism'>empiricism</mv>, for which no essence precedes the observation of particular cases."
+        },
+        "references": [
+          { "fr": "Spinoza, Éthique, I, définitions et premières propositions", "en": "Spinoza, Ethics, I, definitions and first propositions" },
+          { "fr": "Descartes, Principes de la philosophie, partie I", "en": "Descartes, Principles of Philosophy, part I" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.65 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Les passions relèvent de l'idée confuse et doivent être maîtrisées par l'entendement : Descartes en propose une analyse mécanique et un art de les régler par la connaissance, et Spinoza tient qu'une passion cesse d'être passion dès que nous en formons une <c>idée claire et distincte</c>. La rectification de l'affect par la raison rapproche l'école d'un intellectualisme moral.",
+          "en": "The passions stem from confused ideas and must be mastered by the understanding: Descartes offers a mechanical analysis and an art of governing them through knowledge, and Spinoza holds that an emotion ceases to be a passion as soon as we form a <c>clear and distinct idea</c> of it. Correcting affect by reason draws the school toward a moral intellectualism."
+        },
+        "references": [
+          { "fr": "Descartes, Les passions de l'âme", "en": "Descartes, The Passions of the Soul" },
+          { "fr": "Spinoza, Éthique, V, proposition 3", "en": "Spinoza, Ethics, V, proposition 3" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_STATUS",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.8 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'école est résolument réaliste sur le savoir : la raison ne construit pas son objet, elle atteint l'ordre réel des choses tel qu'il est en soi. L'ordre et la connexion des idées sont les mêmes que l'ordre et la connexion des choses, écrit Spinoza, l'idée vraie s'accordant avec son idéat. Les <c>idées claires et distinctes</c> de Descartes saisissent l'essence réelle des choses, et l'ordre intelligible des monades chez Leibniz est l'architecture même du réel : connaître, c'est lire la structure du monde, non la fabriquer.",
+          "en": "The school is firmly realist about knowledge: reason does not construct its object, it reaches the real order of things as it is in itself. The order and connection of ideas is the same as the order and connection of things, writes Spinoza, the true idea agreeing with what it represents. Descartes' <c>clear and distinct ideas</c> grasp the real essence of things, and the intelligible order of Leibniz's monads is the very architecture of reality: to know is to read the structure of the world, not to fabricate it."
+        },
+        "quote": {
+          "text": {
+            "fr": "L'ordre et la connexion des idées sont les mêmes que l'ordre et la connexion des choses.",
+            "en": "The order and connection of ideas is the same as the order and connection of things."
+          },
+          "source": {
+            "fr": "Spinoza, Éthique, II, proposition 7",
+            "en": "Spinoza, Ethics, II, proposition 7"
+          }
+        },
+        "references": [
+          { "fr": "Spinoza, Éthique, II, proposition 7", "en": "Spinoza, Ethics, II, proposition 7" },
+          { "fr": "Descartes, Méditations métaphysiques, V", "en": "Descartes, Meditations on First Philosophy, V" },
+          { "fr": "Leibniz, Monadologie, §§ 56-62", "en": "Leibniz, Monadology, §§ 56-62" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.8, 0.1, 0.1] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Corollaire du réalisme métaphysique : les vérités, y compris pratiques, sont objectives et accessibles à la raison, non relatives à la culture ou à l'individu. Spinoza déduit le vrai bien de la nature de la substance, more geometrico, comme une vérité nécessaire et universelle, et Leibniz fonde la justice sur des vérités éternelles inscrites dans l'entendement divin. La raison, partout la même, donne accès à un ordre normatif universel.",
+          "en": "A corollary of the metaphysical realism: truths, practical ones included, are objective and accessible to reason, not relative to a culture or an individual. Spinoza deduces the true good from the nature of substance, more geometrico, as a necessary and universal truth, and Leibniz grounds justice on eternal truths inscribed in the divine understanding. Reason, everywhere the same, gives access to a universal normative order."
+        },
+        "references": [
+          { "fr": "Spinoza, Éthique, IV, préface et propositions 18-37", "en": "Spinoza, Ethics, IV, preface and propositions 18-37" },
+          { "fr": "Leibniz, Méditation sur la notion commune de la justice", "en": "Leibniz, Meditation on the Common Concept of Justice" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "BELIEF_ETHICS",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.85 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La norme de l'assentiment est l'évidence : on ne doit affirmer que ce que l'entendement perçoit clairement et distinctement. Descartes fait de l'erreur une faute de la volonté qui juge au-delà de ce que l'entendement conçoit clairement, et prescrit de suspendre l'assentiment hors de l'évidence. Pour Spinoza, c'est l'<c id='adequate-idea'>idée adéquate</c> qui emporte une affirmation nécessaire et vraie. L'assentiment est ainsi réglé sur la clarté de l'idée, non sur la volonté de croire.",
+          "en": "The norm of assent is evidence: one should affirm only what the understanding perceives clearly and distinctly. Descartes makes error a fault of the will judging beyond what the understanding clearly conceives, and prescribes withholding assent outside of evidence. For Spinoza it is the <c id='adequate-idea'>adequate idea</c> that carries a necessary and true affirmation. Assent is thus regulated by the clarity of the idea, not by a will to believe."
+        },
+        "references": [
+          { "fr": "Descartes, Méditations métaphysiques, IV", "en": "Descartes, Meditations on First Philosophy, IV" },
+          { "fr": "Spinoza, Éthique, II, proposition 49", "en": "Spinoza, Ethics, II, proposition 49" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "EPISTEMIC_JUSTIFICATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.85,
+          0.1,
+          0.05
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Toute justification, sous peine de régression à l'infini, doit s'arrêter sur des principes qui ne dépendent d'aucun autre : le rationalisme tranche en posant que ces points d'arrêt sont des vérités premières que l'intuition intellectuelle saisit avec évidence, et non des données sensibles toujours révisables. C'est un <c>fondationnalisme</c> conséquent : le savoir s'édifie comme un édifice déductif, des axiomes vers les théorèmes, chaque pas conservant la certitude du précédent. Contre l'<mv id='empiricism'>empirisme</mv>, qui adosse la justification à des impressions singulières incapables de fonder le nécessaire, l'évidence rationnelle seule peut servir de socle, parce qu'elle se voit indubitable au moment où on la conçoit.",
+          "en": "Every justification, on pain of an infinite regress, must come to rest on principles that depend on no other: rationalism settles the matter by holding that these stopping points are first truths grasped with self-evidence by intellectual intuition, not ever-revisable sense data. This is a thoroughgoing <c>foundationalism</c>: knowledge is built like a deductive edifice, from axioms toward theorems, each step preserving the certainty of the last. Against <mv id='empiricism'>empiricism</mv>, which backs justification onto singular impressions unable to ground the necessary, rational self-evidence alone can serve as the base, because it shows itself indubitable in the very act of being conceived."
+        },
+        "references": [
+          {
+            "fr": "Descartes, Méditations ; Spinoza, Éthique",
+            "en": "Descartes, Meditations; Spinoza, Ethics"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "thesis": {
+        "fr": "Les sens ne livrent que du particulier et du contingent : seul l'<c id='innate-ideas'>entendement</c>, avec ses idées innées, atteint les vérités nécessaires et universelles.",
+        "en": "The senses yield only the particular and the contingent: the <c id='innate-ideas'>understanding</c> alone, with its innate ideas, reaches necessary and universal truths."
+      }
+    },
+    {
+      "axisId": "EPISTEMIC_JUSTIFICATION",
+      "thesis": {
+        "fr": "Le savoir certain s'édifie en partant de principes premiers évidents et en déduisant le reste, <c>more geometrico</c>, comme on démontre un théorème.",
+        "en": "Certain knowledge is built by starting from self-evident first principles and deducing the rest, <c>more geometrico</c>, as one proves a theorem."
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "thesis": {
+        "fr": "Le <c id='skepticism'>scepticisme</c> n'a pas le dernier mot : il existe des vérités qu'aucun doute ne peut ébranler, et la raison les atteint.",
+        "en": "<c id='skepticism'>Skepticism</c> does not have the last word: there are truths no doubt can shake, and reason attains them."
+      }
+    },
+    {
+      "axisId": "CAUSALITY",
+      "thesis": {
+        "fr": "Rien n'existe ni n'arrive sans raison : le réel est de part en part intelligible, et la <c id='principle-of-sufficient-reason'>raison suffisante</c> de chaque chose peut être trouvée.",
+        "en": "Nothing exists or happens without a reason: the real is intelligible through and through, and the <c id='principle-of-sufficient-reason'>sufficient reason</c> of each thing can be found."
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "thesis": {
+        "fr": "Les choses ont des essences intelligibles que l'esprit définit a priori : on peut en déduire les propriétés sans rien attendre de l'expérience.",
+        "en": "Things have intelligible essences that the mind defines a priori: one can deduce their properties without awaiting anything from experience."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "subjective-beauty-grounds-taste-egalitarianism",
+  "ground": { "axisId": "BEAUTY", "poleId": "SUBJECTIVE_BEAUTY" },
+  "grounded": { "axisId": "TASTE_HIERARCHY", "poleId": "TASTE_EGALITARIANISM" },
+  "kind": "T_T",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si la beauté n'est qu'un sentiment qui varie selon les individus et les cultures, alors aucun goût n'est plus vrai qu'un autre. Le beau subjectif soutient l'égalité des goûts : des goûts et des couleurs on ne discute pas, et nul n'a qualité pour imposer les siens comme la norme.",
+    "en": "If beauty is only a sentiment that varies across individuals and cultures, then no taste is truer than another. Subjective beauty supports the equality of tastes: there is no disputing about tastes, and no one is entitled to impose their own as the norm."
+  },
+  "updatedAt": "2026-06-22T00:00:00.000Z"
+}

@@ -1,0 +1,26 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "metrodorus",
+  "stub": true,
+  "name": {
+    "fr": "Métrodore",
+    "en": "Metrodorus"
+  },
+  "summary": {
+    "fr": "Disciple le plus proche d'<ph id='epicurus'>Épicure</ph> et second maître du <mv id='epicureanism'>Jardin</mv>.",
+    "en": "The closest disciple of <ph id='epicurus'>Epicurus</ph> and the second master of the <mv id='epicureanism'>Garden</mv>."
+  },
+  "birth": -331,
+  "death": -278,
+  "nationality": {
+    "fr": "Grec",
+    "en": "Greek"
+  },
+  "movements": [
+    "epicureanism"
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

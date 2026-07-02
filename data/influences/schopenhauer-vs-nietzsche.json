@@ -1,0 +1,19 @@
+{
+  "id": "schopenhauer-vs-nietzsche",
+  "from": { "kind": "PHILOSOPHER", "slug": "schopenhauer" },
+  "to": { "kind": "PHILOSOPHER", "slug": "nietzsche" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Jeune, <ph id='nietzsche'>Nietzsche</ph> reconnaît en <ph id='schopenhauer'>Schopenhauer</ph> son éducateur et hérite de sa lecture tragique de l'existence et de la centralité de la <c>volonté</c>. Il retourne ensuite l'héritage : contre le pessimisme et la négation du <c>vouloir-vivre</c>, il oppose l'affirmation de la vie et la <c>volonté de puissance</c>.",
+    "en": "As a young man, <ph id='nietzsche'>Nietzsche</ph> hails <ph id='schopenhauer'>Schopenhauer</ph> as his educator and inherits his tragic reading of existence and the centrality of the <c>will</c>. He then turns the inheritance around: against pessimism and the denial of the <c>will to live</c>, he sets the affirmation of life and the <c>will to power</c>."
+  },
+  "sources": [
+    {
+      "fr": "Nietzsche, Schopenhauer éducateur, Considérations inactuelles III (1874)",
+      "en": "Nietzsche, Schopenhauer as Educator, Untimely Meditations III (1874)"
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

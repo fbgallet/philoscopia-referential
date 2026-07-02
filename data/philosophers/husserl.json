@@ -1,0 +1,314 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "husserl",
+  "name": {
+    "fr": "Husserl",
+    "en": "Husserl"
+  },
+  "fullName": {
+    "fr": "Edmund Husserl",
+    "en": "Edmund Husserl"
+  },
+  "tagline": {
+    "fr": "« Aux choses mêmes ! » : décrire la <c>conscience</c> qui vise toujours quelque chose.",
+    "en": "\"To the things themselves!\": describing the <c>consciousness</c> that always intends something."
+  },
+  "summary": {
+    "fr": "Fondateur de la <mv id='phenomenology'>phénoménologie</mv>, d'abord mathématicien formé auprès de Weierstrass avant de se tourner vers la philosophie sous l'influence de <ph>Brentano</ph>, dont il reprend la notion d'<c id='intentionality'>intentionnalité</c>. Avec les <w id='logical-investigations-husserl'>Recherches logiques</w>, il rompt avec le <c id='psychologism'>psychologisme</c> ambiant et entreprend de refonder la philosophie comme science rigoureuse, fidèle au mot d'ordre « <q>aux choses mêmes</q> ». Les <w id='ideas-i-husserl'>Idées directrices</w> opèrent son tournant transcendantal, les <w id='cartesian-meditations-husserl'>Méditations cartésiennes</w> affrontent le problème d'autrui, et la <w id='crisis-of-the-european-sciences-husserl'>Crise des sciences européennes</w> introduit le <c id='lebenswelt'>monde de la vie</c>. Professeur à Göttingen puis à Fribourg, écarté par le régime nazi en raison de ses origines juives, il forme et inspire toute une postérité, de <ph id='heidegger'>Heidegger</ph>, son assistant, à <ph id='merleau-ponty'>Merleau-Ponty</ph>, <ph id='sartre'>Sartre</ph> et <ph id='levinas'>Levinas</ph>.",
+    "en": "Founder of <mv id='phenomenology'>phenomenology</mv>, first a mathematician trained under Weierstrass before turning to philosophy under the influence of <ph>Brentano</ph>, from whom he takes up the notion of <c id='intentionality'>intentionality</c>. With the <w id='logical-investigations-husserl'>Logical Investigations</w> he breaks with the prevailing <c id='psychologism'>psychologism</c> and undertakes to refound philosophy as a rigorous science, faithful to the watchword \"<q>to the things themselves</q>\". The <w id='ideas-i-husserl'>Ideas</w> carry out his transcendental turn, the <w id='cartesian-meditations-husserl'>Cartesian Meditations</w> confront the problem of the other, and the <w id='crisis-of-the-european-sciences-husserl'>Crisis of the European Sciences</w> introduces the <c id='lebenswelt'>life-world</c>. A professor at Göttingen and then Freiburg, barred by the Nazi regime on account of his Jewish origins, he trained and inspired a whole posterity, from <ph id='heidegger'>Heidegger</ph>, his assistant, to <ph id='merleau-ponty'>Merleau-Ponty</ph>, <ph id='sartre'>Sartre</ph> and <ph id='levinas'>Levinas</ph>."
+  },
+  "birth": 1859,
+  "death": 1938,
+  "nationality": {
+    "fr": "Allemand",
+    "en": "German"
+  },
+  "movements": [
+    "phenomenology"
+  ],
+  "entries": [
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.7 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Devant le <stk>relativisme</stk> que le <c id='psychologism'>psychologisme</c> faisait peser sur la logique et le scepticisme historiciste de son temps, Husserl pose à la philosophie l'exigence d'une <q>science rigoureuse</q> : non pas une opinion de plus, mais un savoir doté d'une évidence <c>apodictique</c>, indubitable. Il reprend pour cela le geste fondateur de <ph id='descartes'>Descartes</ph>, la recherche d'un sol absolument certain, mais le déplace : ce sol n'est pas une substance pensante, c'est l'évidence des vécus eux-mêmes, donnés en personne au regard qui les décrit. La <c id='phenomenological-reduction'>réduction phénoménologique</c> ne suspend pas pour douter, mais pour atteindre ce qui résiste à tout doute, le champ de la conscience tel qu'il se montre.",
+          "en": "Faced with the <stk>relativism</stk> that <c id='psychologism'>psychologism</c> brought to bear on logic, and the historicist scepticism of his day, Husserl sets philosophy the demand of a <q>rigorous science</q>: not one more opinion, but knowledge possessed of an <c>apodictic</c>, indubitable evidence. For this he takes up the founding move of <ph id='descartes'>Descartes</ph>, the search for an absolutely certain ground, but displaces it: that ground is not a thinking substance, it is the self-evidence of lived experiences themselves, given in person to the gaze that describes them. The <c id='phenomenological-reduction'>phenomenological reduction</c> suspends not in order to doubt, but to reach what resists all doubt, the field of consciousness as it shows itself."
+        },
+        "references": [
+          { "fr": "La philosophie comme science rigoureuse (1911)", "en": "Philosophy as Rigorous Science (1911)" },
+          { "fr": "Méditations cartésiennes, Méditation I", "en": "Cartesian Meditations, First Meditation" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.8 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Contre l'empirisme qui ne voit dans les essences que des noms ou des habitudes de l'esprit, Husserl soutient que nous avons une <pb>intuition des essences</pb> elles-mêmes (Wesensschau) : à partir d'un exemple, fût-il imaginé, la variation libre fait apparaître l'invariant sans lequel la chose ne serait plus ce qu'elle est, sa structure nécessaire. Le rouge, le nombre, la mélodie, l'acte de juger ont chacun une <c>essence</c> idéale que je peux saisir avec évidence, indépendamment de tout fait. La phénoménologie est ainsi une science <kw>eidétique</kw>, du général et du nécessaire, et non un relevé du seulement existant ; l'<ax id='ESSENCE' pole='EXISTENTIALISM'>existence précède l'essence</ax> de ses héritiers lui restera étrangère.",
+          "en": "Against the empiricism that sees in essences only names or habits of mind, Husserl holds that we have an <pb>intuition of essences</pb> themselves (Wesensschau): starting from an example, even an imagined one, free variation brings out the invariant without which the thing would no longer be what it is, its necessary structure. Red, number, a melody, the act of judging each have an ideal <c>essence</c> I can grasp with evidence, independently of any fact. Phenomenology is thus an <kw>eidetic</kw> science, of the general and the necessary, not a record of the merely existent; the <ax id='ESSENCE' pole='EXISTENTIALISM'>existence precedes essence</ax> of his heirs will remain foreign to him."
+        },
+        "references": [
+          { "fr": "Idées directrices pour une phénoménologie (Ideen I), §1-4", "en": "Ideas I, §1-4" },
+          { "fr": "Recherches logiques, II", "en": "Logical Investigations, II" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La position de Husserl n'épouse ni l'<ax id='KNOWLEDGE_SOURCE' pole='EMPIRICISM'>empirisme</ax>, qui rabat tout savoir sur la sensation, ni le <ax id='KNOWLEDGE_SOURCE' pole='RATIONALISM'>rationalisme</ax> qui déduit le réel de la seule raison : c'est là sa <dif>singularité</dif>. Son « principe des principes » est que toute intuition donatrice originaire est source de droit de la connaissance, mais l'intuition n'est pas que sensible. À côté de la perception du fait, il y a une <c id='eidetic-intuition'>intuition des essences</c>, donation immédiate du général, qui a sa propre évidence. La connaissance se règle ainsi non sur une faculté privilégiée, mais sur le donné lui-même, tel qu'il se présente : un troisième terme, intuitionniste, qui passe entre les deux pôles classiques plutôt que de les arbitrer.",
+          "en": "Husserl's position espouses neither <ax id='KNOWLEDGE_SOURCE' pole='EMPIRICISM'>empiricism</ax>, which reduces all knowledge to sensation, nor the <ax id='KNOWLEDGE_SOURCE' pole='RATIONALISM'>rationalism</ax> that deduces the real from reason alone: this is its <dif>distinctiveness</dif>. His \"principle of principles\" is that every originarily giving intuition is a source of right for knowledge, but intuition is not only sensory. Alongside the perception of fact there is an <c id='eidetic-intuition'>intuition of essences</c>, an immediate giving of the general with its own evidence. Knowledge is thus governed not by a privileged faculty but by the given itself, as it presents itself: a third, intuitionist term that passes between the two classic poles rather than arbitrating them."
+        },
+        "references": [
+          { "fr": "Idées directrices (Ideen I), §24 (« principe des principes »)", "en": "Ideas I, §24 (the \"principle of principles\")" },
+          { "fr": "Recherches logiques, VI", "en": "Logical Investigations, VI" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SCIENCE_PLACE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.6 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Husserl ne conteste pas la fécondité des sciences exactes, mais leur prétention à dire seules le réel. Depuis <per>Galilée</per>, la nature est traitée comme un pur tissu mathématique, et l'on oublie que ce vêtement d'idéalités recouvre le <c id='lebenswelt'>monde de la vie</c> (Lebenswelt), le monde sensible, perçu, vécu, qui est le sol et la source de sens de toute théorie. L'<dif>objectivisme</dif> qui prend la mesure pour la chose même est une abstraction qui se prend pour le tout : la science présuppose toujours une expérience pré-scientifique qu'elle ne peut fonder elle-même. D'où une place de la science seconde, dérivée, qui doit être reconduite à son origine vécue plutôt qu'érigée en mesure unique du vrai.",
+          "en": "Husserl does not contest the fruitfulness of the exact sciences, but their claim to state the real on their own. Since <per>Galileo</per>, nature has been treated as a pure mathematical fabric, and we forget that this garment of idealities covers over the <c id='lebenswelt'>life-world</c> (Lebenswelt), the sensed, perceived, lived world that is the ground and source of meaning of every theory. The <dif>objectivism</dif> that takes the measure for the thing itself is an abstraction mistaking itself for the whole: science always presupposes a pre-scientific experience it cannot itself ground. Hence a derived, second place for science, which must be led back to its lived origin rather than set up as the sole measure of truth."
+        },
+        "quote": {
+          "text": {
+            "fr": "Le vêtement d'idées des sciences mathématiques fait prendre pour l'être vrai ce qui n'est qu'une méthode.",
+            "en": "The garment of ideas of the mathematical sciences makes us take for true being what is only a method."
+          },
+          "source": { "fr": "La Crise des sciences européennes, §9", "en": "The Crisis of the European Sciences, §9" }
+        },
+        "references": [
+          { "fr": "La Crise des sciences européennes, §9 et §33-34", "en": "The Crisis of the European Sciences, §9 and §33-34" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 0.8, 0.2] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Après la réduction, Husserl soutient que toute objectivité est <c>constituée</c> par la conscience transcendantale : le monde n'a de sens et de validité d'être que comme corrélat des actes qui le visent, jamais comme une réalité absolue posée hors d'eux. C'est un <ax id='REALITY_NATURE' pole='IDEALISM'>idéalisme transcendantal</ax>, mais qu'il faut distinguer avec soin de celui de <ph id='berkeley'>Berkeley</ph> : il ne nie pas l'existence du monde et ne le résout pas en sensations dans un esprit ; il analyse comment le monde se donne et fait sens pour une conscience. Le réel n'est pas une illusion, il est ce qui se constitue dans et pour la subjectivité ; reste une part de réalisme, car la chose perçue garde sa transcendance face à la conscience, se donnant toujours par esquisses, jamais épuisée.",
+          "en": "After the reduction, Husserl holds that all objectivity is <c>constituted</c> by transcendental consciousness: the world has meaning and validity of being only as the correlate of the acts that intend it, never as an absolute reality posited outside them. This is a <ax id='REALITY_NATURE' pole='IDEALISM'>transcendental idealism</ax>, but one to be carefully distinguished from <ph id='berkeley'>Berkeley</ph>'s: it does not deny the world's existence nor dissolve it into sensations in a mind; it analyses how the world gives itself and makes sense for a consciousness. The real is no illusion, it is what is constituted in and for subjectivity; a measure of realism remains, since the perceived thing keeps its transcendence over against consciousness, always given by profiles, never exhausted."
+        },
+        "references": [
+          { "fr": "Idées directrices (Ideen I), §49-55", "en": "Ideas I, §49-55" },
+          { "fr": "Méditations cartésiennes, Méditation IV", "en": "Cartesian Meditations, Fourth Meditation" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "EPISTEMIC_JUSTIFICATION",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.9, 0.05, 0.05] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Husserl est résolument <c>fondationnaliste</c> : il cherche un fondement dernier et absolu du savoir, une base d'évidences originaires sur lesquelles tout le reste puisse s'édifier sans cercle ni régression. Ce socle n'est ni une cohérence du système ni la fiabilité d'un processus, mais l'évidence donatrice, la chose se montrant elle-même en personne. La phénoménologie se veut « philosophie première », discipline des principes qui justifie les autres sciences sans rien emprunter d'elles, ce qui range Husserl du côté de la quête cartésienne d'un commencement absolu plutôt que du côté du réseau de croyances mutuellement portées.",
+          "en": "Husserl is resolutely <c>foundationalist</c>: he seeks a last and absolute foundation of knowledge, a base of originary evidences on which all the rest can be built without circle or regress. This bedrock is neither a coherence of the system nor the reliability of a process, but giving evidence, the thing showing itself in person. Phenomenology means to be \"first philosophy\", the discipline of principles that justifies the other sciences while borrowing nothing from them, which places Husserl with the Cartesian quest for an absolute beginning rather than with a web of mutually supporting beliefs."
+        },
+        "references": [
+          { "fr": "Méditations cartésiennes, Méditation I-II", "en": "Cartesian Meditations, First-Second Meditation" },
+          { "fr": "Idées directrices (Ideen I), §24", "en": "Ideas I, §24" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TRUTH_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.8, 0.2, 0] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Pour Husserl, la vérité n'a rien d'une convention ni d'une simple cohérence interne : elle est l'accord plein d'une visée signitive avec son objet donné en personne, le « remplissement » par lequel ce qui était seulement visé vient à l'intuition. Le vrai est l'identité de l'objet visé et de l'objet donné, ce qui le maintient du côté de la correspondance, mais d'une correspondance vécue, mesurée à l'évidence intuitive plutôt qu'à une copie de faits.",
+          "en": "For Husserl truth is no convention nor mere internal coherence: it is the full agreement of a signitive intention with its object given in person, the \"fulfilment\" by which what was only intended comes to intuition. The true is the identity of the intended and the given object, which keeps him on the side of correspondence, but a lived correspondence measured by intuitive evidence rather than by a copy of facts."
+        },
+        "references": [
+          { "fr": "Recherches logiques, VI, §36-39", "en": "Logical Investigations, VI, §36-39" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "UNIVERSALS",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.7 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Husserl défend l'être idéal des objets généraux : le nombre, la proposition, l'espèce ne sont pas des fictions ni de simples mots, mais des unités identiques, intemporelles, que des actes multiples peuvent viser et reconnaître comme les mêmes. Contre le <ax id='UNIVERSALS' pole='NOMINALISM'>nominalisme</ax> et l'abstractionnisme empiriste, il soutient que l'espèce se donne dans une intuition propre. Cet idéalisme des significations reste toutefois sans hypostase platonicienne séparée : les essences sont objectives, non un monde de Formes subsistant en soi.",
+          "en": "Husserl defends the ideal being of general objects: number, the proposition, the species are no fictions nor mere words, but identical, timeless unities that many acts can intend and recognise as the same. Against <ax id='UNIVERSALS' pole='NOMINALISM'>nominalism</ax> and empiricist abstractionism, he holds that the species gives itself in an intuition of its own. This idealism of meanings is yet without a separate Platonic hypostasis: essences are objective, not a world of Forms subsisting in itself."
+        },
+        "references": [
+          { "fr": "Recherches logiques, II (« L'unité idéale de l'espèce »)", "en": "Logical Investigations, II (\"The ideal unity of the species\")" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.85, 0, 0.15] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La grande bataille de Husserl est dirigée contre le <c>relativisme</c> : faire dépendre la validité du vrai d'une espèce, d'une culture ou d'une constitution psychique, c'est se contredire soi-même, car cette thèse se voudrait elle-même universellement vraie. Ce qu'il établit pour la logique, il l'étend en droit à toute norme : il y a des validités idéales, indépendantes des faits qui les pensent. Son combat porte sur le statut des normes intellectuelles plus que sur les valeurs morales, qu'il a peu thématisées ; mais l'esprit en est nettement universaliste, hostile à tout réduire à des conventions variables.",
+          "en": "Husserl's great battle is aimed at <c>relativism</c>: to make the validity of the true depend on a species, a culture or a psychic constitution is to contradict oneself, since that very thesis would claim to be universally true. What he establishes for logic he extends by right to any norm: there are ideal validities, independent of the facts that think them. His fight bears on the status of intellectual norms more than on moral values, which he little thematised; but its spirit is clearly universalist, hostile to reducing everything to variable conventions."
+        },
+        "references": [
+          { "fr": "Recherches logiques, I, §32-39 (réfutation du relativisme)", "en": "Logical Investigations, I, §32-39 (the refutation of relativism)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.7 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Toute la méthode de Husserl est un retour réflexif sur la <c>conscience</c> : suspendre l'<c id='natural-attitude'>attitude naturelle</c> tournée vers les choses pour porter le regard sur les vécus eux-mêmes et leur manière de viser. La vérité se cherche dans la description patiente de la vie intérieure de l'esprit, non dans l'action ou la transformation du monde. C'est une philosophie de la <c>réflexion</c> par excellence, qui fait de l'examen du voir, du juger, du percevoir la tâche première du philosophe.",
+          "en": "Husserl's whole method is a reflective return upon <c>consciousness</c>: suspending the <c id='natural-attitude'>natural attitude</c> turned toward things in order to bring the gaze onto the lived experiences themselves and their way of intending. Truth is sought in the patient description of the mind's inner life, not in action or the transformation of the world. It is a philosophy of <c>reflection</c> par excellence, making the examination of seeing, judging and perceiving the philosopher's first task."
+        },
+        "references": [
+          { "fr": "Idées directrices (Ideen I), §27-32, §50", "en": "Ideas I, §27-32, §50" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "EMBODIMENT",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.5 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Dans la cinquième des <w id='cartesian-meditations-husserl'>Méditations cartésiennes</w>, Husserl distingue le corps-objet (Körper), chose parmi les choses, du <c>corps propre</c> (Leib), corps vivant que je suis, lieu de mes sensations et organe de toute perception. C'est par mon corps vécu que j'éprouve autrui comme un autre moi-même, par appréhension analogisante de son corps. Il ouvre ainsi l'analyse de la corporéité vécue que <ph id='merleau-ponty'>Merleau-Ponty</ph> portera plus loin, mais sans en faire le sujet ultime de la perception : le corps propre y reste subordonné à la conscience constituante, ce qui retient d'un score plus tranché.",
+          "en": "In the fifth of the <w id='cartesian-meditations-husserl'>Cartesian Meditations</w>, Husserl distinguishes the body-object (Körper), a thing among things, from the <c>lived body</c> (Leib), the living body I am, seat of my sensations and organ of all perception. It is through my lived body that I experience the other as another self, by an analogising apprehension of their body. He thus opens the analysis of lived corporeality that <ph id='merleau-ponty'>Merleau-Ponty</ph> will carry further, but without making the body the ultimate subject of perception: there the lived body remains subordinate to constituting consciousness, which holds the score back from the extreme."
+        },
+        "references": [
+          { "fr": "Méditations cartésiennes, Méditation V", "en": "Cartesian Meditations, Fifth Meditation" },
+          { "fr": "Idées directrices II (Ideen II)", "en": "Ideas II" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HUMAN_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.5 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Husserl s'oppose avec constance au <ax id='HUMAN_NATURE' pole='NATURALISM'>naturalisme</ax> qui voudrait traiter la conscience comme un fait psychique parmi les faits de la nature, justiciable des seules lois causales. Le <c id='psychologism'>psychologisme</c> qu'il combat est précisément cette naturalisation de l'esprit. La conscience a un mode d'être propre, celui du sens et de la visée, irréductible à la chose : elle relève d'une description eidétique, non d'une explication naturaliste. Sans nier que l'homme soit aussi un être de nature, il refuse que sa vie spirituelle s'y laisse résorber.",
+          "en": "Husserl steadily opposes the <ax id='HUMAN_NATURE' pole='NATURALISM'>naturalism</ax> that would treat consciousness as one psychic fact among the facts of nature, answerable to causal laws alone. The <c id='psychologism'>psychologism</c> he combats is precisely this naturalising of mind. Consciousness has a mode of being of its own, that of meaning and intending, irreducible to the thing: it calls for an eidetic description, not a naturalistic explanation. Without denying that the human being is also a being of nature, he refuses to let spiritual life be absorbed into it."
+        },
+        "references": [
+          { "fr": "La philosophie comme science rigoureuse (1911)", "en": "Philosophy as Rigorous Science (1911)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TECHNOLOGY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.4 },
+      "epistemicStatus": "EXTRAPOLATED",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Sans thématiser la technique pour elle-même, Husserl en prépare la critique : la mathématisation galiléenne de la nature engendre une « technicisation » du savoir, où l'on manipule des formules et des procédés dont on a oublié le sens originaire, vidés de l'intuition qui les fondait. Cette dénonciation d'un savoir devenu pur calcul opératoire, coupé de son sol vécu, annonce la techno-critique que <ph id='heidegger'>Heidegger</ph> radicalisera. Position prudente, déduite du diagnostic de la Crise plus que d'une philosophie explicite de la technique.",
+          "en": "Without thematising technology for its own sake, Husserl prepares its critique: the Galilean mathematisation of nature breeds a \"technicisation\" of knowledge, in which one manipulates formulae and procedures whose originary meaning has been forgotten, emptied of the intuition that grounded them. This denunciation of a knowledge become pure operative calculation, cut off from its lived ground, foreshadows the techno-criticism <ph id='heidegger'>Heidegger</ph> will radicalise. A cautious position, drawn from the diagnosis of the Crisis rather than from an explicit philosophy of technology."
+        },
+        "references": [
+          { "fr": "La Crise des sciences européennes, §9", "en": "The Crisis of the European Sciences, §9" }
+        ],
+        "strength": "WEAK"
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "NO_POSITION",
+      "note": {
+        "fr": "Husserl a peu développé d'éthique systématique : on trouve des leçons d'éthique et une réflexion tardive sur le « renouveau » (articles Kaizo) qui appellent une vie rationnelle et un amour vocationnel des valeurs, mais le corpus reste trop mince et trop peu tranché pour fixer un critère du juste sans extrapolation hasardeuse.",
+        "en": "Husserl developed little systematic ethics: there are lectures on ethics and a late reflection on \"renewal\" (the Kaizo articles) calling for a rational life and a vocational love of values, but the corpus stays too thin and too unsettled to fix a criterion of the right without hazardous extrapolation."
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "CERTAINTY",
+      "thesis": {
+        "fr": "La philosophie doit devenir <q>science rigoureuse</q> : un savoir d'évidence <c>apodictique</c>, fondé sur les choses se donnant elles-mêmes au regard qui les décrit.",
+        "en": "Philosophy must become a <q>rigorous science</q>: knowledge of <c>apodictic</c> evidence, grounded on things giving themselves to the gaze that describes them."
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "thesis": {
+        "fr": "On voit les essences comme on voit des couleurs : par variation libre, la conscience saisit l'invariant nécessaire d'une chose, son <c>essence</c> idéale, et non un simple mot.",
+        "en": "We see essences as we see colours: by free variation, consciousness grasps a thing's necessary invariant, its ideal <c>essence</c>, not a mere word."
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "thesis": {
+        "fr": "Entre l'empirisme et le rationalisme, une troisième voie : toute <c>intuition</c> donatrice fait droit, et l'on intuitionne aussi le général, non la seule sensation.",
+        "en": "Between empiricism and rationalism, a third way: every giving <c>intuition</c> is a source of right, and we intuit the general too, not sensation alone."
+      }
+    },
+    {
+      "axisId": "SCIENCE_PLACE",
+      "thesis": {
+        "fr": "La science a oublié son sol : le <c id='lebenswelt'>monde de la vie</c>, perçu et vécu, précède et fonde toute idéalisation, que l'objectivisme galiléen prend à tort pour l'être même.",
+        "en": "Science has forgotten its ground: the perceived, lived <c id='lebenswelt'>life-world</c> precedes and grounds every idealisation, which Galilean objectivism wrongly takes for being itself."
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "thesis": {
+        "fr": "Le monde n'a de sens et d'être que comme <c>corrélat</c> d'une conscience qui le constitue : un idéalisme transcendantal qui décrit le monde, sans le nier.",
+        "en": "The world has meaning and being only as the <c>correlate</c> of a consciousness that constitutes it: a transcendental idealism that describes the world without denying it."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-29T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

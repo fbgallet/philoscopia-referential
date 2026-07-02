@@ -1,0 +1,16 @@
+{
+  "id": "epicurus-to-seneca",
+  "from": { "kind": "PHILOSOPHER", "slug": "epicurus" },
+  "to": { "kind": "PHILOSOPHER", "slug": "seneca" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "Par-delà la rivalité des écoles, <ph id='seneca'>Sénèque</ph> cite et s'approprie <ph id='epicurus'>Épicure</ph> comme autorité morale dans ses Lettres, sur la mort, l'amitié et la juste mesure des désirs.",
+    "en": "Across the rivalry of the schools, <ph id='seneca'>Seneca</ph> quotes and appropriates <ph id='epicurus'>Epicurus</ph> as a moral authority in his Letters, on death, friendship and the right measure of desire."
+  },
+  "sources": [
+    { "fr": "Sénèque, Lettres à Lucilius", "en": "Seneca, Letters to Lucilius" }
+  ],
+  "updatedAt": "2026-07-02T00:00:00.000Z"
+}

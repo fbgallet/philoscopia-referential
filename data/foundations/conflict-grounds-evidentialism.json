@@ -1,0 +1,12 @@
+{
+  "id": "conflict-grounds-evidentialism",
+  "ground": { "axisId": "FAITH_REASON", "poleId": "CONFLICT" },
+  "grounded": { "axisId": "BELIEF_ETHICS", "poleId": "EVIDENTIALISM" },
+  "kind": "T_V",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si croire sans preuve suffisante trahit l'exigence rationnelle, alors on a le devoir de proportionner ses croyances aux preuves. La thèse d'un conflit entre foi et raison fonde l'éthique évidentialiste de la croyance, dont <ph id='russell'>Russell</ph> est un héraut : ne rien tenir pour vrai au-delà de ce que les raisons autorisent.",
+    "en": "If believing without sufficient evidence betrays the demands of reason, then one has a duty to proportion one's beliefs to the evidence. The thesis of a conflict between faith and reason grounds the evidentialist ethics of belief, of which <ph id='russell'>Russell</ph> is a herald: to hold nothing true beyond what the reasons permit."
+  },
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "dichotomy-of-control",
+  "term": { "fr": "Dichotomie du contrôle", "en": "Dichotomy of control" },
+  "definition": {
+    "fr": "La dichotomie du contrôle est la distinction stoïcienne entre ce qui dépend de nous (jugements, désirs, volonté) et ce qui n'en dépend pas (corps, réputation, fortune). Formulée par <ph id='epictetus'>Épictète</ph> dès l'ouverture du <w id='enchiridion-epictetus'>Manuel</w>, elle prescrit de concentrer l'effort sur le premier domaine et d'accueillir le second avec sérénité. Cœur pratique du <mv id='stoicism'>stoïcisme</mv>, elle prépare <c id='amor-fati'>l'amor fati</c>.",
+    "en": "The dichotomy of control is the Stoic distinction between what is up to us (judgments, desires, will) and what is not (body, reputation, fortune). Formulated by <ph id='epictetus'>Epictetus</ph> at the very opening of the <w id='enchiridion-epictetus'>Enchiridion</w>, it prescribes focusing effort on the former domain and meeting the latter with serenity. The practical core of <mv id='stoicism'>Stoicism</mv>, it paves the way for <c id='amor-fati'>amor fati</c>."
+  },
+  "relatedAxes": ["CONTROL_SCOPE"],
+  "relatedTerms": ["amor-fati"],
+  "figure": { "slug": "epictetus", "name": { "fr": "Épictète", "en": "Epictetus" } },
+  "positions": [{ "axisId": "CONTROL_SCOPE", "poleId": "DICHOTOMY_OF_CONTROL" }],
+  "updatedAt": "2026-06-11T00:00:00.000Z"
+}

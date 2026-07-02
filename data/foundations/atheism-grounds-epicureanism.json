@@ -1,0 +1,12 @@
+{
+  "id": "atheism-grounds-epicureanism",
+  "ground": { "axisId": "GOD_EXISTENCE", "poleId": "ATHEISM" },
+  "grounded": { "axisId": "DEATH", "poleId": "EPICUREANISM" },
+  "kind": "T_V",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si Dieu n'existe pas et qu'aucune vie ne suit la mort, mourir n'est qu'un retour au néant, où il n'y a personne pour souffrir d'être mort. L'athéisme rejoint la consolation d'<ph id='epicurus'>Épicure</ph> : « la mort n'est rien pour nous », et s'en libérer rend à la vie présente toute sa valeur.",
+    "en": "If God does not exist and no life follows death, then to die is only a return to nothingness, where there is no one left to suffer being dead. Atheism meets the consolation of <ph id='epicurus'>Epicurus</ph>: \"death is nothing to us\", and freeing oneself from its fear restores the full value of the present life."
+  },
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

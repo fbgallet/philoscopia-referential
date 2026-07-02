@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "brentano",
+  "stub": true,
+  "name": {
+    "fr": "Franz Brentano",
+    "en": "Franz Brentano"
+  },
+  "summary": {
+    "fr": "Philosophe et psychologue autrichien qui réhabilita la notion d'intentionnalité comme marque du psychique ; maître de Husserl, il fut l'un des ferments de la phénoménologie naissante.",
+    "en": "Austrian philosopher and psychologist who revived the notion of intentionality as the mark of the mental; Husserl's teacher, he was one of the seeds of nascent phenomenology."
+  },
+  "birth": 1838,
+  "death": 1917,
+  "nationality": {
+    "fr": "Autrichien",
+    "en": "Austrian"
+  },
+  "movements": [],
+  "updatedAt": "2026-06-29T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

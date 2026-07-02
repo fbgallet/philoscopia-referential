@@ -1,0 +1,13 @@
+{
+  "id": "five-ways",
+  "term": { "fr": "Les cinq voies", "en": "The Five Ways" },
+  "definition": {
+    "fr": "Les cinq voies sont les cinq démonstrations <ety>a posteriori, c'est-à-dire à partir des effets observés</ety> par lesquelles <ph id='aquinas'>Thomas d'Aquin</ph> établit l'existence de Dieu. Chacune part d'un fait d'expérience et remonte, pour éviter une régression à l'infini, jusqu'à un premier terme : le mouvement conduit à un premier moteur, la causalité à une cause incausée, la contingence à un être nécessaire, les degrés de perfection à un être souverainement parfait, et l'ordre des fins à une intelligence qui dirige la nature. Contre <ph id='anselm'>Anselme</ph>, Thomas refuse de déduire Dieu du seul concept : son existence ne nous est pas évidente par soi, elle se prouve à partir du monde sensible. Les cinq voies sont devenues le modèle classique de la <ax id='GOD_EXISTENCE'>preuve rationnelle de Dieu</ax>.",
+    "en": "The Five Ways are the five <ety>a posteriori demonstrations, that is, arguments from observed effects</ety> by which <ph id='aquinas'>Thomas Aquinas</ph> establishes God's existence. Each starts from a fact of experience and rises, to avoid an infinite regress, to a first term: motion leads to a first mover, causation to an uncaused cause, contingency to a necessary being, the degrees of perfection to a supremely perfect being, and the ordering of ends to an intelligence directing nature. Against <ph id='anselm'>Anselm</ph>, Thomas refuses to deduce God from the concept alone: his existence is not self-evident to us, it is proved from the sensible world. The Five Ways have become the classic model of the <ax id='GOD_EXISTENCE'>rational proof of God</ax>."
+  },
+  "relatedAxes": ["GOD_EXISTENCE", "CAUSALITY"],
+  "relatedTerms": ["unmoved-mover", "principle-of-sufficient-reason"],
+  "figure": { "slug": "aquinas", "name": { "fr": "Thomas d'Aquin", "en": "Thomas Aquinas" } },
+  "positions": [{ "axisId": "GOD_EXISTENCE", "poleId": "THEISM" }],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

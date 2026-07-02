@@ -1,0 +1,16 @@
+{
+  "id": "volonte-generale",
+  "term": { "fr": "La volonté générale", "en": "The general will" },
+  "definition": {
+    "fr": "Concept central du Contrat social de <ph id='rousseau'>Rousseau</ph> : la volonté générale est la volonté du corps politique tout entier orientée vers le bien commun, et non la somme des intérêts particuliers (la « volonté de tous »). En obéissant à la loi qu'il a contribué à vouloir comme citoyen, l'individu n'obéit qu'à lui-même et reste libre : c'est la liberté politique comme autonomie. Souvent discutée, l'idée fonde une <ax id='POLITICAL_LIBERTY' pole='POSITIVE_LIBERTY'>liberté positive</ax> et une légitimité démocratique, mais son invocation pour « forcer à être libre » a aussi nourri la critique d'un risque autoritaire.",
+    "en": "A central concept of <ph id='rousseau'>Rousseau</ph>'s Social Contract: the general will is the will of the entire body politic directed toward the common good, not the sum of particular interests (the « will of all »). In obeying the law he helped to will as a citizen, the individual obeys only himself and remains free: this is political liberty as autonomy. Much debated, the idea grounds a <ax id='POLITICAL_LIBERTY' pole='POSITIVE_LIBERTY'>positive liberty</ax> and a democratic legitimacy, but its invocation to « force men to be free » has also fed the critique of an authoritarian risk."
+  },
+  "relatedAxes": ["SOCIAL_CONTRACT", "POLITICAL_LIBERTY", "WHO_DECIDES"],
+  "relatedTerms": ["separation-des-pouvoirs"],
+  "figure": { "slug": "rousseau", "name": { "fr": "Jean-Jacques Rousseau", "en": "Jean-Jacques Rousseau" } },
+  "positions": [
+    { "axisId": "SOCIAL_CONTRACT", "poleId": "CONTRACTUALISM" },
+    { "axisId": "POLITICAL_LIBERTY", "poleId": "POSITIVE_LIBERTY" }
+  ],
+  "updatedAt": "2026-06-25T00:00:00.000Z"
+}

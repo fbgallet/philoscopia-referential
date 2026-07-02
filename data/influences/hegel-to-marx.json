@@ -1,0 +1,16 @@
+{
+  "id": "hegel-to-marx",
+  "from": { "kind": "PHILOSOPHER", "slug": "hegel" },
+  "to": { "kind": "PHILOSOPHER", "slug": "marx" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='marx'>Marx</ph> conserve la <c>dialectique</c> de <ph id='hegel'>Hegel</ph> mais la remet <q>sur ses pieds</q> : ce n'est plus l'Esprit mais les rapports matériels de production qui meuvent l'histoire, dont l'idéel n'est que le reflet.",
+    "en": "<ph id='marx'>Marx</ph> keeps <ph id='hegel'>Hegel</ph>'s <c>dialectic</c> but stands it <q>on its feet</q>: it is no longer Spirit but the material relations of production that move history, of which the ideal is only the reflection."
+  },
+  "sources": [
+    { "fr": "Marx, Postface à la deuxième édition du Capital (1873)", "en": "Marx, Afterword to the Second Edition of Capital (1873)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

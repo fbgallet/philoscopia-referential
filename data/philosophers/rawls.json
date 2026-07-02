@@ -1,0 +1,16 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "rawls",
+  "name": { "fr": "Rawls", "en": "Rawls" },
+  "summary": {
+    "fr": "Philosophe politique américain : il refonde le contrat social par l'idée de justice comme équité, des principes choisis derrière un « voile d'ignorance » qui corrigent les inégalités non méritées.",
+    "en": "American political philosopher: he refounds the social contract through the idea of justice as fairness, principles chosen behind a \"veil of ignorance\" that correct undeserved inequalities."
+  },
+  "nationality": { "fr": "Américain", "en": "American" },
+  "birth": 1921,
+  "death": 2002,
+  "movements": [],
+  "updatedAt": "2026-06-21T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

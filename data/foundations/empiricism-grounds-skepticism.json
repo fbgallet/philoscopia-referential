@@ -1,0 +1,12 @@
+{
+  "id": "empiricism-grounds-skepticism",
+  "ground": { "axisId": "KNOWLEDGE_SOURCE", "poleId": "EMPIRICISM" },
+  "grounded": { "axisId": "CERTAINTY", "poleId": "SKEPTICISM" },
+  "kind": "T_T",
+  "strength": "WEAK",
+  "explanation": {
+    "fr": "Poussé à sa limite, l'<ax id='KNOWLEDGE_SOURCE'>empirisme</ax> conduit au doute : si tout savoir vient des sens, rien ne garantit les vérités qui les dépassent, comme la nécessité d'une cause ou la régularité de l'avenir. C'est le chemin de <ph id='hume'>Hume</ph>, du sensualisme au <c id='skepticism'>scepticisme</c>. Le lien reste contesté : un empirisme modéré, chez Locke, n'a rien de sceptique.",
+    "en": "Pressed to its limit, <ax id='KNOWLEDGE_SOURCE'>empiricism</ax> leads to doubt: if all knowledge comes from the senses, nothing guarantees the truths that outrun them, such as the necessity of a cause or the regularity of the future. This is <ph id='hume'>Hume</ph>'s road, from sensationism to <c id='skepticism'>skepticism</c>. The link stays contested: a moderate empiricism, in Locke, is in no way skeptical."
+  },
+  "updatedAt": "2026-06-19T00:00:00.000Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "epicureanism-vs-stoicism",
+  "from": { "kind": "MOVEMENT", "slug": "epicureanism" },
+  "to": { "kind": "MOVEMENT", "slug": "stoicism" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Rivalité fondatrice de l'époque hellénistique : le <mv id='stoicism'>stoïcisme</mv> forge nombre de ses thèses contre l'<mv id='epicureanism'>épicurisme</mv>, opposant à la déviation des atomes et au plaisir la providence, le destin et la vertu comme seul bien.",
+    "en": "A founding rivalry of the Hellenistic age: <mv id='stoicism'>Stoicism</mv> forges many of its theses against <mv id='epicureanism'>Epicureanism</mv>, setting against the swerve of atoms and pleasure the doctrines of providence, fate and virtue as the only good."
+  },
+  "sources": [
+    { "fr": "Cicéron, Du destin ; Des termes extrêmes des biens et des maux", "en": "Cicero, On Fate; On the Ends of Good and Evil" }
+  ],
+  "updatedAt": "2026-07-02T00:00:00.000Z"
+}

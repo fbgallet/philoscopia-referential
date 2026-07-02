@@ -1,0 +1,924 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "nietzsche",
+  "name": {
+    "fr": "Nietzsche",
+    "en": "Nietzsche"
+  },
+  "fullName": {
+    "fr": "Friedrich Nietzsche",
+    "en": "Friedrich Nietzsche"
+  },
+  "tagline": {
+    "fr": "<w id='beyond-good-and-evil-nietzsche'>Par-delà bien et mal</w> : la <c id='will-to-power'>volonté de puissance</c> contre la morale du <c id='ressentiment'>ressentiment</c>.",
+    "en": "<w id='beyond-good-and-evil-nietzsche'>Beyond good and evil</w>: the <c id='will-to-power'>will to power</c> against the morality of <c id='ressentiment'>resentment</c>."
+  },
+  "summary": {
+    "fr": "Philosophe et philologue allemand, professeur à Bâle à vingt-quatre ans avant que la maladie ne l'écarte. D'abord marqué par <ph>Schopenhauer</ph> et le compositeur <per>Wagner</per>, dont il se détache, il mène une critique radicale de la métaphysique, de la morale et du christianisme, dans un style d'aphorismes et de <c>généalogie</c>. Sombré dans la folie en 1889, longtemps défiguré par des récupérations posthumes, il s'impose comme l'une des sources majeures de la pensée du XXe siècle, de la psychanalyse à l'existentialisme.",
+    "en": "A German philosopher and philologist, a professor at Basel at twenty-four before illness forced him to withdraw. First marked by <ph>Schopenhauer</ph> and the composer <per>Wagner</per>, from whom he broke away, he waged a radical critique of metaphysics, morality and Christianity, in a style of aphorisms and <c>genealogy</c>. Having sunk into madness in 1889 and long disfigured by posthumous misappropriations, he stands as one of the major sources of twentieth-century thought, from psychoanalysis to existentialism."
+  },
+  "birth": 1844,
+  "death": 1900,
+  "nationality": {
+    "fr": "Allemand",
+    "en": "German"
+  },
+  "movements": [],
+  "entries": [
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.35,
+          0.6,
+          0,
+          0.05
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Nietzsche congédie l'au-delà chrétien comme une calomnie de la vie, et refuse aussi de faire de la mort un mal absolu : il prêche une <kw>mort libre</kw>, choisie à la bonne heure, qui couronne l'existence au lieu de la subir. Mourir sa propre mort, au sommet, c'est faire de sa fin un acte et un accomplissement, dans l'<c>amor fati</c> qui dit oui jusqu'à l'éternel retour.",
+          "en": "Nietzsche dismisses the Christian beyond as a slander on life, and likewise refuses to make death an absolute evil: he preaches a <kw>free death</kw>, chosen at the right hour, that crowns existence instead of merely undergoing it. To die one's own death, at the summit, is to make one's end an act and a fulfillment, in the <c>amor fati</c> that says yes even to the eternal return."
+        },
+        "references": [
+          {
+            "fr": "Ainsi parlait Zarathoustra, De la mort libre",
+            "en": "Thus Spoke Zarathustra, On Free Death"
+          },
+          {
+            "fr": "Crépuscule des idoles",
+            "en": "Twilight of the Idols"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.2,
+          0.7,
+          0.1
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Nietzsche raille aussi bien le bonheur-plaisir des utilitaristes que la morale du devoir : le bien n'est ni la jouissance ni la vertu désintéressée. Il est l'<kw>élévation de la vie</kw>, l'épanouissement de la puissance et le dépassement de soi, la <c>grande santé</c> de qui ose se créer et dire oui à l'existence. Un eudémonisme transvalué, où la réussite se mesure à la force et à la grandeur, non au confort.",
+          "en": "Nietzsche mocks the pleasure-happiness of the utilitarians as much as the morality of duty: the good is neither enjoyment nor disinterested virtue. It is the <kw>enhancement of life</kw>, the flourishing of power and self-overcoming, the <c>great health</c> of one who dares to create himself and to say yes to existence. A transvalued eudaimonism, where success is measured by strength and greatness, not by comfort."
+        },
+        "references": [
+          {
+            "fr": "Crépuscule des idoles, Maximes et traits",
+            "en": "Twilight of the Idols, Maxims and Arrows"
+          },
+          {
+            "fr": "Le Gai Savoir, IV-V",
+            "en": "The Gay Science, IV-V"
+          },
+          {
+            "fr": "Ainsi parlait Zarathoustra",
+            "en": "Thus Spoke Zarathustra"
+          }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "L'homme ne tend pas au bonheur ; seul l'Anglais le fait.",
+            "en": "Man does not strive for happiness; only the Englishman does."
+          },
+          "source": {
+            "fr": "Crépuscule des idoles, Maximes et traits, 12",
+            "en": "Twilight of the Idols, Maxims and Arrows, 12"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Nietzsche retourne la hiérarchie platonicienne : ce n'est pas la raison qui atteindrait le vrai contre des sens trompeurs, ce sont les sens qui ne mentent pas, et la raison qui falsifie leur témoignage du devenir en y substituant l'<kw>être</kw>, l'unité, la chose. L'arrière-monde intelligible, de Platon à Kant, est une fiction née de la décadence. Mais Nietzsche ne verse pas dans l'empirisme naïf : il n'est ni fait brut ni perception immaculée, toute connaissance est <c>interprétation</c> depuis une perspective, commandée par les besoins de la vie et la volonté de puissance. Empirisme du corps et des sens, donc, mais radicalisé en <kw>perspectivisme</kw>.",
+          "en": "Nietzsche overturns the Platonic hierarchy: it is not reason that would reach the true against deceiving senses, it is the senses that do not lie, and reason that falsifies their testimony of becoming by substituting <kw>being</kw>, unity, the thing. The intelligible back-world, from Plato to Kant, is a fiction born of decadence. But Nietzsche does not lapse into naive empiricism: there is neither brute fact nor immaculate perception, all knowledge is <c>interpretation</c> from a perspective, governed by the needs of life and the will to power. An empiricism of the body and the senses, then, but radicalized into <kw>perspectivism</kw>."
+        },
+        "references": [
+          {
+            "fr": "Crépuscule des idoles, La raison dans la philosophie",
+            "en": "Twilight of the Idols, Reason in Philosophy"
+          },
+          {
+            "fr": "Par-delà bien et mal, §§ 16-17",
+            "en": "Beyond Good and Evil, §§ 16-17"
+          }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "Il n'existe qu'une vision perspective, qu'un connaître perspectif.",
+            "en": "There is only a perspectival seeing, only a perspectival knowing."
+          },
+          "source": {
+            "fr": "Généalogie de la morale, III, § 12",
+            "en": "On the Genealogy of Morals, III, § 12"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La souffrance est pour Nietzsche une condition de grandissement : ce qui ne me tue pas me rend plus fort, et la <stk>discipline de la grande souffrance</stk> a produit toutes les élévations de l'humanité. Il méprise explicitement les morales qui font de l'abolition de la souffrance le but suprême.",
+          "en": "For Nietzsche suffering is a condition of growth: what does not kill me makes me stronger, and the <stk>discipline of great suffering</stk> has produced every elevation of humanity. He explicitly despises moralities that make the abolition of suffering the supreme goal."
+        },
+        "references": [
+          {
+            "fr": "Par-delà bien et mal, §225",
+            "en": "Beyond Good and Evil, §225"
+          },
+          {
+            "fr": "Crépuscule des idoles, « Maximes et flèches », §8",
+            "en": "Twilight of the Idols, \"Maxims and Arrows\", §8"
+          },
+          {
+            "fr": "Le Gai Savoir, §338",
+            "en": "The Gay Science, §338"
+          }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "Ce qui ne me fait pas mourir me rend plus fort.",
+            "en": "What does not kill me makes me stronger."
+          },
+          "source": {
+            "fr": "Crépuscule des idoles, « Maximes et flèches », §8",
+            "en": "Twilight of the Idols, \"Maxims and Arrows\", §8"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "PAST_RELATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'<c id='eternal-recurrence'>éternel retour</c> fonctionne comme une épreuve : si un démon t'annonçait que tu revivras cette vie à l'identique, infiniment, le maudirais-tu, ou serait-ce ta plus grande joie ? Dire oui à chaque instant, c'est l'<c id='amor-fati'>amor fati</c> : non la résignation de <ph>Schopenhauer</ph>, mais l'affirmation la plus haute, aimer le nécessaire au point d'en vouloir le retour éternel.",
+          "en": "<c id='eternal-recurrence'>Eternal recurrence</c> works as a test: if a demon told you that you will relive this very life, identically, infinitely, would you curse him, or would it be your greatest joy? To say yes to every instant is <c id='amor-fati'>amor fati</c>: not <ph>Schopenhauer</ph>'s resignation, but the highest affirmation, to love the necessary so much that one wills its eternal return."
+        },
+        "references": [
+          {
+            "fr": "Ecce Homo, « Pourquoi je suis si avisé », §10",
+            "en": "Ecce Homo, \"Why I Am So Clever\", §10"
+          },
+          {
+            "fr": "Le Gai Savoir, §276 et §341",
+            "en": "The Gay Science, §276 and §341"
+          }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "Ma formule pour la grandeur de l'homme est amor fati : ne rien vouloir d'autre que ce qui est, ni en avant, ni en arrière, ni dans toute l'éternité.",
+            "en": "My formula for greatness in a human being is amor fati: that one wants nothing to be different, not forward, not backward, not in all eternity."
+          },
+          "source": {
+            "fr": "Ecce Homo, « Pourquoi je suis si avisé », §10",
+            "en": "Ecce Homo, \"Why I Am So Clever\", §10"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Nietzsche ne démontre pas l'inexistence de Dieu : il constate que la foi au Dieu moral est devenue intenable dans notre propre culture, minée par l'exigence de vérité qu'elle avait nourrie, et que <q>nous l'avons tué</q>. Il en tire la conséquence qu'on n'ose pas regarder : privées de leur socle, nos valeurs suprêmes vacillent, c'est le <c>nihilisme</c>, à la fois danger et chance d'une création de valeurs nouvelles.",
+          "en": "Nietzsche does not prove God's non-existence: he observes that faith in the moral God has become untenable within our own culture, undermined by the very will to truth it had fostered, and that <q>we have killed him</q>. He draws the consequence we dare not look at: deprived of their ground, our highest values totter, this is <c>nihilism</c>, at once the danger and the chance of a creation of new values."
+        },
+        "references": [
+          {
+            "fr": "Le Gai Savoir, §125",
+            "en": "The Gay Science, §125"
+          },
+          {
+            "fr": "L'Antéchrist",
+            "en": "The Antichrist"
+          }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "Dieu est mort ! Dieu reste mort ! Et c'est nous qui l'avons tué !",
+            "en": "God is dead! God remains dead! And we have killed him!"
+          },
+          "source": {
+            "fr": "Le Gai Savoir, §125",
+            "en": "The Gay Science, §125"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Zarathoustra exhorte à rester fidèle à la terre et à ne pas croire ceux qui parlent d'espérances supraterrestres. Toute la critique des « arrière-mondes » fait de Nietzsche le penseur de l'<c id='immanence'>immanence</c> radicale : la vie ne doit être justifiée par rien d'extérieur à elle, et toute <c id='transcendence'>transcendance</c> est démasquée comme une fuite hors du réel.",
+          "en": "Zarathustra exhorts us to remain faithful to the earth and not to believe those who speak of supra-earthly hopes. The whole critique of \"hinterworlds\" makes Nietzsche the thinker of radical <c id='immanence'>immanence</c>: life must be justified by nothing outside itself, and every <c id='transcendence'>transcendence</c> is unmasked as a flight from the real."
+        },
+        "references": [
+          {
+            "fr": "Ainsi parlait Zarathoustra, Prologue, §3",
+            "en": "Thus Spoke Zarathustra, Prologue, §3"
+          },
+          {
+            "fr": "Ainsi parlait Zarathoustra, « Des hallucinés de l'arrière-monde »",
+            "en": "Thus Spoke Zarathustra, \"On the Afterworldly\""
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.8,
+          0.2
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Plutôt que de demander si les valeurs morales sont vraies, Nietzsche demande ce qu'elles valent et d'où elles viennent : c'est la méthode <w id='on-the-genealogy-of-morality-nietzsche'>généalogique</w>. Elle découvre que le couple <c id='master-slave-morality'>bien / mal</c> est né du <c id='ressentiment'>ressentiment</c> des faibles, renversant le « bon / mauvais » aristocratique. Les morales ne sont donc pas des faits mais les symptômes de types de vie, à évaluer et, au besoin, à <kw>transmuer</kw>.",
+          "en": "Rather than asking whether moral values are true, Nietzsche asks what they are worth and where they come from: this is the <w id='on-the-genealogy-of-morality-nietzsche'>genealogical</w> method. It uncovers that the <c id='master-slave-morality'>good / evil</c> pair was born of the <c id='ressentiment'>ressentiment</c> of the weak, inverting the aristocratic « good / bad ». Moralities are thus not facts but symptoms of types of life, to be assessed and, where needed, <kw>transvalued</kw>."
+        },
+        "references": [
+          {
+            "fr": "Généalogie de la morale",
+            "en": "On the Genealogy of Morality"
+          },
+          {
+            "fr": "Par-delà bien et mal, §108",
+            "en": "Beyond Good and Evil, §108"
+          }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "Il n'y a pas de phénomènes moraux, seulement une interprétation morale des phénomènes.",
+            "en": "There are no moral phenomena, only a moral interpretation of phenomena."
+          },
+          "source": {
+            "fr": "Par-delà bien et mal, §108",
+            "en": "Beyond Good and Evil, §108"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.85,
+          0.1,
+          0.05
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Contre l'idée que le vivant cherche d'abord à se conserver, Nietzsche pose que toute force veut s'accroître : c'est la <c id='will-to-power'>volonté de puissance</c>. Les pulsions ne sont donc pas à extirper, cette <q>castration</q> que prêche l'<c>idéal ascétique</c>, mais à mettre en forme : <kw>donner du style</kw> à ses passions, les sublimer au service d'une vie plus intense, plutôt que les éteindre ou s'y abandonner.",
+          "en": "Against the idea that the living first seek to preserve themselves, Nietzsche holds that every force wills to grow: this is the <c id='will-to-power'>will to power</c>. The drives are therefore not to be extirpated, the <q>castration</q> preached by the <c>ascetic ideal</c>, but to be shaped: to <kw>give style</kw> to one's passions, to sublimate them in the service of a more intense life, rather than extinguish them or surrender to them."
+        },
+        "references": [
+          {
+            "fr": "Crépuscule des idoles, « La morale comme contre-nature »",
+            "en": "Twilight of the Idols, \"Morality as Anti-Nature\""
+          },
+          {
+            "fr": "Le Gai Savoir, §290",
+            "en": "The Gay Science, §290"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "BODILY_PLEASURES",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La troisième dissertation de la <w id='on-the-genealogy-of-morality-nietzsche'>Généalogie</w> démonte l'<c>idéal ascétique</c> comme symptôme d'une vie déclinante, et Zarathoustra réhabilite le corps, la « grande raison », contre les contempteurs du corps. La célébration nietzschéenne vise toutefois la santé et la force plus que la jouissance.",
+          "en": "The third essay of the <w id='on-the-genealogy-of-morality-nietzsche'>Genealogy</w> dismantles the <c>ascetic ideal</c> as a symptom of declining life, and Zarathustra rehabilitates the body, the \"great reason\", against the despisers of the body. Nietzschean celebration, however, aims at health and strength more than enjoyment."
+        },
+        "references": [
+          {
+            "fr": "Généalogie de la morale, III",
+            "en": "On the Genealogy of Morality, III"
+          },
+          {
+            "fr": "Ainsi parlait Zarathoustra, « Des contempteurs du corps »",
+            "en": "Thus Spoke Zarathustra, \"On the Despisers of the Body\""
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "COSMIC_OUTLOOK",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Dès la <w id='the-birth-of-tragedy-nietzsche'>Naissance de la tragédie</w>, Nietzsche pense le fond du réel comme chaos douloureux, sans providence ni harmonie préétablie : c'est la pensée tragique. Mais contre le pessimisme résigné de <ph>Schopenhauer</ph>, il en fait l'occasion d'une <c>affirmation dionysiaque</c>, d'où une position tragique sans être extrême.",
+          "en": "From <w id='the-birth-of-tragedy-nietzsche'>The Birth of Tragedy</w> onward, Nietzsche conceives the ground of reality as painful chaos, without providence or pre-established harmony: this is tragic thought. But against <ph>Schopenhauer</ph>'s resigned pessimism, he turns it into the occasion for a <c>Dionysian affirmation</c>, hence a tragic but not extreme position."
+        },
+        "references": [
+          {
+            "fr": "La Naissance de la tragédie",
+            "en": "The Birth of Tragedy"
+          },
+          {
+            "fr": "Le Gai Savoir, §370",
+            "en": "The Gay Science, §370"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Sa <c>psychologie des pulsions</c> fait des affects la source réelle des pensées et des valeurs : la raison consciente n'est qu'une surface tardive du jeu des instincts. La position est déduite de ce principe répété plutôt que d'une thèse frontale sur le statut des émotions.",
+          "en": "His <c>psychology of drives</c> makes affects the real source of thoughts and values: conscious reason is only a late surface of the play of instincts. The position is inferred from this repeated principle rather than from a frontal thesis on the status of emotions."
+        },
+        "references": [
+          {
+            "fr": "Par-delà bien et mal, §3 et §187",
+            "en": "Beyond Good and Evil, §3 and §187"
+          },
+          {
+            "fr": "Le Gai Savoir, §333",
+            "en": "The Gay Science, §333"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "REJECTS_ALTERNATIVE",
+      "note": {
+        "fr": "Nietzsche dissout l'<pb>alternative</pb> : le <c id='free-will'>libre arbitre</c> est une fiction inventée pour rendre l'homme punissable, mais la « volonté non libre » est à ses yeux une autre mythologie, celle de la cause et de l'effet réifiés (Par-delà bien et mal, §21). Il déplace la question vers les volontés fortes et faibles.",
+        "en": "Nietzsche dissolves the <pb>alternative</pb>: <c id='free-will'>free will</c> is a fiction invented to make man punishable, but the \"unfree will\" is in his eyes another mythology, that of reified cause and effect (Beyond Good and Evil, §21). He shifts the question toward strong and weak wills."
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "« Deviens ce que tu es » : il n'y a pas d'essence humaine fixe à réaliser, mais une tâche de <kw>création de soi</kw>. Le sujet, l'âme, le « je » substantiel sont des illusions grammaticales ; ce que nous sommes est l'œuvre toujours ouverte de l'auto-façonnage, du <q>donner du style à son caractère</q>.",
+          "en": "\"Become what you are\": there is no fixed human essence to realize, but a task of <kw>self-creation</kw>. The subject, the soul, the substantial \"I\" are grammatical illusions; what we are is the ever-open work of self-fashioning, of <q>giving style to one's character</q>."
+        },
+        "references": [
+          {
+            "fr": "Le Gai Savoir, §290",
+            "en": "The Gay Science, §290"
+          },
+          {
+            "fr": "Ecce Homo, sous-titre « Comment on devient ce que l'on est »",
+            "en": "Ecce Homo, subtitle \"How One Becomes What One Is\""
+          }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "Deviens ce que tu es.",
+            "en": "Become what you are."
+          },
+          "source": {
+            "fr": "Le Gai Savoir, §270 ; Ecce Homo, sous-titre",
+            "en": "The Gay Science, §270; Ecce Homo, subtitle"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Il n'existe pas de regard depuis nulle part : toute connaissance est l'optique d'une <c id='will-to-power'>volonté</c>, une interprétation au service de quelque intérêt vital. L'idéal d'une vérité « objective » et désintéressée est lui-même une valeur, plutôt hostile à la vie. Ce <c>perspectivisme</c> n'est pourtant pas un relativisme plat : on peut hiérarchiser les perspectives selon leur fécondité, et c'est en multipliant les points de vue qu'on gagne en « objectivité ».",
+          "en": "There is no view from nowhere: all knowledge is the optics of a <c id='will-to-power'>will</c>, an interpretation in the service of some vital interest. The ideal of an « objective », disinterested truth is itself a value, and a rather life-hostile one. Yet this <c>perspectivism</c> is no flat relativism: perspectives can be ranked by their fruitfulness, and it is by multiplying viewpoints that one gains in « objectivity »."
+        },
+        "references": [
+          {
+            "fr": "Fragments posthumes, automne 1885-1886, 7[60]",
+            "en": "Posthumous Fragments, autumn 1885-1886, 7[60]"
+          },
+          {
+            "fr": "Par-delà bien et mal, §34",
+            "en": "Beyond Good and Evil, §34"
+          }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "Il n'y a pas de faits, seulement des interprétations.",
+            "en": "There are no facts, only interpretations."
+          },
+          "source": {
+            "fr": "Fragments posthumes, automne 1885-1886, 7[60]",
+            "en": "Posthumous Fragments, autumn 1885-1886, 7[60]"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "TRUTH_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.05,
+          0.15,
+          0.8
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Dès <w id='on-truth-and-lie-in-a-nonmoral-sense-nietzsche'>Vérité et mensonge au sens extra-moral</w>, la vérité est définie comme une armée mobile de métaphores oubliées, une <kw>erreur utile</kw> sans laquelle une espèce ne pourrait vivre. La valeur d'un jugement se mesure à sa fécondité pour la vie, non à sa correspondance au réel : position d'inspiration pragmatiste.",
+          "en": "Already in <w id='on-truth-and-lie-in-a-nonmoral-sense-nietzsche'>On Truth and Lie in a Nonmoral Sense</w>, truth is defined as a mobile army of forgotten metaphors, a <kw>useful error</kw> without which a species could not live. The value of a judgment is measured by its fruitfulness for life, not by its correspondence to reality: a pragmatist-leaning position."
+        },
+        "references": [
+          {
+            "fr": "Vérité et mensonge au sens extra-moral, §1",
+            "en": "On Truth and Lie in a Nonmoral Sense, §1"
+          },
+          {
+            "fr": "Par-delà bien et mal, §4",
+            "en": "Beyond Good and Evil, §4"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.75,
+          0.25,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La mort de Dieu prive l'existence de toute fin donnée d'avance et ouvre le risque du <c>nihilisme</c>, ce que reflète une part d'<c id='the-absurd'>absurde</c>. Mais la réponse de Nietzsche est la <kw>transmutation des valeurs</kw> et la création de sens par la <c id='will-to-power'>volonté de puissance</c> : un sens construit, non découvert. Aucune téléologie cosmique n'est admise.",
+          "en": "The death of God strips existence of any pre-given end and opens the danger of <c>nihilism</c>, which a share of the <c id='the-absurd'>absurd</c> reflects. But Nietzsche's answer is the <kw>transvaluation of values</kw> and the creation of meaning through the <c id='will-to-power'>will to power</c>: meaning constructed, not discovered. No cosmic teleology is admitted."
+        },
+        "references": [
+          {
+            "fr": "Le Gai Savoir, §125 et §301",
+            "en": "The Gay Science, §125 and §301"
+          },
+          {
+            "fr": "Ainsi parlait Zarathoustra, « Des mille et un buts »",
+            "en": "Thus Spoke Zarathustra, \"On the Thousand and One Goals\""
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SELF_INTEREST",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Nietzsche fait de la pitié et de l'altruisme des valeurs de <c>décadence</c>, hostiles à la vie, et oppose à la morale du dévouement l'<kw>affirmation de soi</kw> du type fort. L'objection contre l'idéal du sacrifice de soi traverse toute son œuvre, même s'il ne prône pas un calcul égoïste vulgaire mais l'épanouissement de la puissance propre.",
+          "en": "Nietzsche treats pity and altruism as values of <c>decadence</c>, hostile to life, and opposes to the morality of devotion the <kw>self-affirmation</kw> of the strong type. The objection against the ideal of self-sacrifice runs through his whole work, even if he advocates not vulgar egoistic calculation but the flourishing of one's own power."
+        },
+        "references": [
+          {
+            "fr": "L'Antéchrist, §2 et §7",
+            "en": "The Antichrist, §2 and §7"
+          },
+          {
+            "fr": "Généalogie de la morale, Préface, §5",
+            "en": "On the Genealogy of Morality, Preface, §5"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "AESTHETIC_LIFE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Ce n'est qu'en tant que phénomène esthétique que l'existence et le monde sont justifiés à jamais : la thèse de la <w id='the-birth-of-tragedy-nietzsche'>Naissance de la tragédie</w> subordonne le sens de la vie au registre esthétique plutôt que moral. L'art, et non la morale, est l'activité proprement métaphysique de l'homme.",
+          "en": "It is only as an aesthetic phenomenon that existence and the world are eternally justified: the thesis of <w id='the-birth-of-tragedy-nietzsche'>The Birth of Tragedy</w> subordinates the meaning of life to the aesthetic rather than the moral register. Art, not morality, is the truly metaphysical activity of man."
+        },
+        "references": [
+          {
+            "fr": "La Naissance de la tragédie, §5 et §24",
+            "en": "The Birth of Tragedy, §5 and §24"
+          },
+          {
+            "fr": "La Naissance de la tragédie, « Essai d'autocritique », §5",
+            "en": "The Birth of Tragedy, \"Attempt at a Self-Criticism\", §5"
+          }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "Ce n'est qu'en tant que phénomène esthétique que l'existence et le monde apparaissent comme justifiés à jamais.",
+            "en": "It is only as an aesthetic phenomenon that existence and the world are eternally justified."
+          },
+          "source": {
+            "fr": "La Naissance de la tragédie, §5",
+            "en": "The Birth of Tragedy, §5"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "HISTORY_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.75
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La <c>généalogie</c> est une méthode anti-téléologique : elle traque le commencement bas et contingent des valeurs et démasque la croyance au <kw>progrès moral</kw> comme une illusion optimiste. L'histoire n'a ni sens ni direction inscrits ; elle est jeu de forces et de hasards réinterprétés après coup.",
+          "en": "<c>Genealogy</c> is an anti-teleological method: it tracks the low and contingent beginnings of values and unmasks the belief in <kw>moral progress</kw> as an optimistic illusion. History bears no inscribed meaning or direction; it is a play of forces and chances reinterpreted after the fact."
+        },
+        "references": [
+          {
+            "fr": "Généalogie de la morale, II, §12",
+            "en": "On the Genealogy of Morality, II, §12"
+          },
+          {
+            "fr": "Crépuscule des idoles, « Flâneries inactuelles », §44",
+            "en": "Twilight of the Idols, \"Skirmishes of an Untimely Man\", §44"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.85,
+          0.15,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La critique des « arrière-mondes » et l'exhortation à rester fidèle à la terre rabattent tout sur l'<c id='immanence'>immanence</c> sensible : le corps, les forces, ce monde-ci. Sans souscrire à un matérialisme mécaniste qu'il raille aussi, Nietzsche refuse tout monde vrai derrière le phénomène, ce qui le situe du côté d'une ontologie de ce monde plutôt que de l'idéalisme.",
+          "en": "The critique of \"hinterworlds\" and the call to remain faithful to the earth bring everything back to sensuous <c id='immanence'>immanence</c>: the body, forces, this world. Without subscribing to a mechanistic materialism he also mocks, Nietzsche refuses any true world behind the phenomenon, which places him on the side of a this-worldly ontology rather than idealism."
+        },
+        "references": [
+          {
+            "fr": "Crépuscule des idoles, « Comment le monde vrai devint enfin une fable »",
+            "en": "Twilight of the Idols, \"How the True World Finally Became a Fable\""
+          },
+          {
+            "fr": "Ainsi parlait Zarathoustra, Prologue, §3",
+            "en": "Thus Spoke Zarathustra, Prologue, §3"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.1,
+          0.15,
+          0.75
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Pour Nietzsche le « moi » unifié est une fiction : le sujet n'est qu'une <kw>multiplicité de pulsions</kw> en lutte, une société d'instincts dont l'unité apparente résulte d'un commandement provisoire. Cette dissolution de l'ego substantiel rapproche fortement sa psychologie d'une théorie du faisceau, déduite de ses analyses plutôt que professée sous ce nom.",
+          "en": "For Nietzsche the unified \"self\" is a fiction: the subject is only a <kw>multiplicity of drives</kw> in struggle, a society of instincts whose apparent unity results from a provisional command. This dissolution of the substantial ego brings his psychology close to a bundle theory, inferred from his analyses rather than professed under that name."
+        },
+        "references": [
+          {
+            "fr": "Par-delà bien et mal, §12 et §19",
+            "en": "Beyond Good and Evil, §12 and §19"
+          },
+          {
+            "fr": "Fragments posthumes, 1885, 40[42]",
+            "en": "Posthumous Fragments, 1885, 40[42]"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.05,
+          0,
+          0.95,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Au-delà de sa critique de « la » morale, l'éthique positive de Nietzsche valorise des qualités de caractère, la force, la noblesse, la <c id='generosity'>générosité</c> du fort, plus que des règles ou des conséquences. Sa <c id='master-slave-morality'>morale des maîtres</c> se laisse lire comme une <kw>éthique des vertus</kw> de la puissance, inférée de son éloge des types accomplis.",
+          "en": "Beyond his critique of \"morality\", Nietzsche's positive ethics prizes traits of character, strength, nobility, the <c id='generosity'>generosity</c> of the strong, rather than rules or consequences. His <c id='master-slave-morality'>master morality</c> reads as a <kw>virtue ethics</kw> of power, inferred from his praise of accomplished types."
+        },
+        "references": [
+          {
+            "fr": "Par-delà bien et mal, §260",
+            "en": "Beyond Good and Evil, §260"
+          },
+          {
+            "fr": "Généalogie de la morale, I, §10",
+            "en": "On the Genealogy of Morality, I, §10"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TIME_ORIENTATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.7,
+          0.3,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'<c id='eternal-recurrence'>éternel retour</c> et l'<c id='amor-fati'>amor fati</c> commandent d'aimer l'instant assez pour en vouloir l'éternelle répétition : le poids tombe sur la plénitude du présent affirmé. Une part de projet demeure, car le <c id='ubermensch'>surhumain</c> est une tâche à accomplir, mais Nietzsche dévalorise l'excès de mémoire historique qui paralyse l'action.",
+          "en": "<c id='eternal-recurrence'>Eternal recurrence</c> and <c id='amor-fati'>amor fati</c> command us to love the moment enough to will its eternal repetition: the weight falls on the fullness of the affirmed present. A share of project remains, since the <c id='ubermensch'>overhuman</c> is a task to accomplish, but Nietzsche devalues the excess of historical memory that paralyzes action."
+        },
+        "references": [
+          {
+            "fr": "Le Gai Savoir, §341",
+            "en": "The Gay Science, §341"
+          },
+          {
+            "fr": "Seconde Considération inactuelle, §1",
+            "en": "On the Use and Abuse of History for Life, §1"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HUMAN_VISION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'homme est une corde tendue entre la bête et le <c id='ubermensch'>surhumain</c>, quelque chose qui doit être surmonté : Nietzsche porte un regard sévère sur l'humanité grégaire, médiocre et marquée par le <c id='ressentiment'>ressentiment</c> de son temps. Mais ce diagnostic critique s'accompagne d'une confiance dans la possibilité d'une élévation, ce qui tempère le pessimisme.",
+          "en": "Man is a rope stretched between beast and <c id='ubermensch'>overhuman</c>, something that shall be overcome: Nietzsche casts a severe gaze on the gregarious, mediocre humanity of his age, marked by <c id='ressentiment'>ressentiment</c>. But this critical diagnosis comes with confidence in the possibility of an elevation, which tempers the pessimism."
+        },
+        "references": [
+          {
+            "fr": "Ainsi parlait Zarathoustra, Prologue, §3 et §4",
+            "en": "Thus Spoke Zarathustra, Prologue, §3 and §4"
+          },
+          {
+            "fr": "Généalogie de la morale, I, §11",
+            "en": "On the Genealogy of Morality, I, §11"
+          }
+        ],
+        "strength": "MEDIUM",
+        "quote": {
+          "text": {
+            "fr": "L'homme est quelque chose qui doit être surmonté.",
+            "en": "Man is something that shall be overcome."
+          },
+          "source": {
+            "fr": "Ainsi parlait Zarathoustra, Prologue, §3",
+            "en": "Thus Spoke Zarathustra, Prologue, §3"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "EMBODIMENT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "<q>Il y a plus de raison dans ton corps que dans ta meilleure sagesse.</q> Pour Nietzsche, le moi conscient n'est qu'un instrument du soi corporel, qui pense, évalue et veut à travers nous. Mépriser le corps est le ressentiment des contempteurs du corps.",
+          "en": "<q>There is more reason in your body than in your best wisdom.</q> For Nietzsche, the conscious self is but an instrument of the bodily self, which thinks, evaluates and wills through us. To despise the body is the resentment of the despisers of the body."
+        },
+        "references": [
+          {
+            "fr": "Ainsi parlait Zarathoustra, « Des contempteurs du corps »",
+            "en": "Thus Spoke Zarathustra, \"On the Despisers of the Body\""
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "UNIVERSALS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.8
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Les concepts naissent en égalant ce qui n'est pas égal : oubliant les différences singulières, nous forgeons des formes et des essences là où il n'y a que des cas uniques et changeants. L'universel est une fiction utile, non une réalité.",
+          "en": "Concepts arise by equating what is not equal: forgetting singular differences, we forge forms and essences where there are only unique, shifting cases. The universal is a useful fiction, not a reality."
+        },
+        "references": [
+          {
+            "fr": "Vérité et mensonge au sens extra-moral",
+            "en": "On Truth and Lie in an Extra-Moral Sense"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "MORAL_SCOPE",
+      "thesis": {
+        "fr": "Il n'existe pas de morale universelle : toute morale est la création d'un type de vie, qu'une <c>généalogie</c> ramène à ses origines.",
+        "en": "There is no universal morality: every morality is the creation of a type of life, which a <c>genealogy</c> traces back to its origins."
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "thesis": {
+        "fr": "Tout ce qui vit veut non se conserver mais croître : la <c id='will-to-power'>volonté de puissance</c> est à affirmer, non à éteindre.",
+        "en": "All that lives wills not to preserve itself but to grow: the <c id='will-to-power'>will to power</c> is to be affirmed, not extinguished."
+      }
+    },
+    {
+      "axisId": "PAST_RELATION",
+      "thesis": {
+        "fr": "La grandeur, c'est l'<c id='amor-fati'>amor fati</c> : vouloir que tout revienne éternellement, ne rien désirer d'autre que ce qui est.",
+        "en": "Greatness is <c id='amor-fati'>amor fati</c>: to will that everything recur eternally, to desire nothing other than what is."
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "thesis": {
+        "fr": "<c>Dieu est mort</c>, et nous l'avons tué : cet événement sape tous nos repères et nous somme de créer de nouvelles valeurs.",
+        "en": "<c>God is dead</c>, and we have killed him: this event undermines all our bearings and demands that we create new values."
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "thesis": {
+        "fr": "Toute connaissance est une perspective : il n'existe aucun point de vue absolu, seulement des interprétations au service de la vie.",
+        "en": "All knowledge is a perspective: there is no absolute standpoint, only interpretations in the service of life."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-23T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

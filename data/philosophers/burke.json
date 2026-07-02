@@ -1,0 +1,16 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "burke",
+  "name": { "fr": "Burke", "en": "Burke" },
+  "summary": {
+    "fr": "Homme politique et penseur anglo-irlandais : critique de la Révolution française, il voit dans les institutions héritées une sagesse accumulée et préfère la réforme prudente à la refondation.",
+    "en": "Anglo-Irish statesman and thinker: a critic of the French Revolution, he sees in inherited institutions an accumulated wisdom and prefers prudent reform to wholesale refounding."
+  },
+  "nationality": { "fr": "Anglo-Irlandais", "en": "Anglo-Irish" },
+  "birth": 1729,
+  "death": 1797,
+  "movements": [],
+  "updatedAt": "2026-06-21T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

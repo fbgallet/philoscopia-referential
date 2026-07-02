@@ -1,0 +1,118 @@
+{
+  "id": "FAITH_REASON",
+  "relation": "WORLD",
+  "territory": "PHILOSOPHY_OF_RELIGION",
+  "label": {
+    "fr": "Foi et raison",
+    "en": "Faith and reason"
+  },
+  "question": {
+    "fr": "Quel rapport la foi entretient-elle avec la raison : accord, conflit ou indifférence ?",
+    "en": "How do faith and reason relate to each other: agreement, conflict, or indifference?"
+  },
+  "stakes": {
+    "fr": "Peut-on croire et raisonner sans trahir l'un ou l'autre ? Les forcer à s'accorder risque de tordre les deux, les déclarer ennemis oblige à choisir son camp, les séparer les protège mais rend la foi muette devant le savoir. Se positionner, c'est dire quelle place une conviction religieuse peut tenir pour qui veut aussi penser librement.",
+    "en": "Can one believe and reason without betraying either? Forcing them to agree risks distorting both, declaring them enemies forces one to pick a side, separating them protects each but leaves faith mute before knowledge. To take a position is to say what place a religious conviction can hold for someone who also wants to think freely."
+  },
+  "layer": "THEORY",
+  "type": "CATEGORICAL",
+  "poles": [
+    {
+      "id": "FIDEISM",
+      "label": {
+        "fr": "Fidéisme",
+        "en": "Fideism"
+      },
+      "description": {
+        "fr": "La foi échappe à la raison : Dieu se rencontre par le cœur, l'engagement ou le saut, non par la démonstration. Vouloir prouver la foi, c'est méconnaître sa nature, qui commence là où le calcul s'arrête.",
+        "en": "Faith eludes reason: God is encountered through the heart, through commitment or a leap, not through demonstration. Trying to prove faith misunderstands its nature, which begins where calculation ends."
+      },
+      "figures": [
+        {
+          "slug": "pascal",
+          "name": {
+            "fr": "Pascal",
+            "en": "Pascal"
+          }
+        },
+        {
+          "slug": "kierkegaard",
+          "name": {
+            "fr": "Kierkegaard",
+            "en": "Kierkegaard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HARMONY",
+      "label": {
+        "fr": "Harmonie",
+        "en": "Harmony"
+      },
+      "description": {
+        "fr": "Foi et raison ne peuvent se contredire, car elles procèdent de la même source de vérité. La raison peut établir certaines vérités sur Dieu, et la foi achève ce que la raison commence.",
+        "en": "Faith and reason cannot contradict each other, for they proceed from the same source of truth. Reason can establish certain truths about God, and faith completes what reason begins."
+      },
+      "figures": [
+        {
+          "slug": "aquinas",
+          "name": {
+            "fr": "Thomas d'Aquin",
+            "en": "Aquinas"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CONFLICT",
+      "label": {
+        "fr": "Conflit",
+        "en": "Conflict"
+      },
+      "description": {
+        "fr": "Foi et raison sont en opposition : croire sans preuve suffisante, c'est renoncer à l'exigence rationnelle. L'examen critique des croyances religieuses conduit à les rejeter ou, au minimum, à les suspendre.",
+        "en": "Faith and reason stand in opposition: believing without sufficient evidence means abandoning the demands of rationality. Critical examination of religious beliefs leads to rejecting them or, at the very least, suspending them."
+      },
+      "figures": [
+        {
+          "slug": "russell",
+          "name": {
+            "fr": "Russell",
+            "en": "Russell"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SEPARATE_DOMAINS",
+      "label": {
+        "fr": "Domaines séparés",
+        "en": "Separate domains"
+      },
+      "description": {
+        "fr": "Science et religion répondent à des questions différentes : l'une décrit les faits, l'autre traite du sens et des valeurs. Tant que chacune reste sur son terrain, il n'y a ni conflit ni concurrence.",
+        "en": "Science and religion answer different questions: one describes facts, the other deals with meaning and values. As long as each stays on its own ground, there is neither conflict nor competition."
+      },
+      "figures": [
+        {
+          "slug": "gould",
+          "name": {
+            "fr": "Gould",
+            "en": "Gould"
+          }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 2,
+  "clusters": [],
+  "relatedAxes": [
+    "PROBLEM_OF_EVIL",
+    "BELIEF_ETHICS",
+    "GOD_EXISTENCE",
+    "SCIENCE_PLACE",
+    "TRANSCENDENCE"
+  ]
+}

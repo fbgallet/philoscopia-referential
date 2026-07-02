@@ -1,0 +1,12 @@
+{
+  "id": "holism-grounds-positive-liberty",
+  "ground": { "axisId": "INDIVIDUAL_SOCIETY", "poleId": "HOLISM" },
+  "grounded": { "axisId": "POLITICAL_LIBERTY", "poleId": "POSITIVE_LIBERTY" },
+  "kind": "T_T",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si l'individu ne se réalise qu'au sein du tout social, être libre n'est pas qu'on me laisse en paix, mais que je prenne part au gouvernement de ma cité. Le holisme soutient la liberté positive : chez <ph id='rousseau'>Rousseau</ph>, on n'est libre qu'en obéissant à la loi qu'on s'est prescrite, et chez <ph id='hegel'>Hegel</ph>, la liberté s'accomplit dans les institutions.",
+    "en": "If the individual is realized only within the social whole, to be free is not to be left in peace but to take part in the government of one's city. Holism supports positive liberty: in <ph id='rousseau'>Rousseau</ph>, one is free only by obeying the law one has prescribed for oneself, and in <ph id='hegel'>Hegel</ph>, freedom is fulfilled within institutions."
+  },
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

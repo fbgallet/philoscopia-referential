@@ -1,0 +1,578 @@
+{
+  "kind": "MOVEMENT",
+  "id": "taoism",
+  "name": {
+    "fr": "Taoïsme",
+    "en": "Taoism"
+  },
+  "tagline": {
+    "fr": "Épouser <c id='dao'>le dao 道 (la Voie)</c> par le <c id='wu-wei'>wu wei 無為 (le non-agir, l'action sans forçage)</c>, et retrouver la <c id='ziran'>ziran 自然 (spontanéité du naturel)</c>.",
+    "en": "Following <c id='dao'>the dao 道 (the Way)</c> through <c id='wu-wei'>wu wei 無為 (non-action, action without forcing)</c>, and recovering <c id='ziran'>ziran 自然 (the spontaneity of the natural)</c>."
+  },
+  "summary": {
+    "fr": "Tradition née dans la Chine des Royaumes combattants (Ve-IIIe siècle avant notre ère), une époque de guerres et d'effondrement de l'ordre qui poussait chaque école à proposer un remède au désordre. Le taoïsme dit philosophique se constitue autour de deux textes : le <w>Dao De Jing (Tao Te King)</w>, recueil aphoristique attribué à <ph>Laozi</ph> (Lao-tseu), figure peut-être légendaire, et le <w>Zhuangzi</w> (Tchouang-tseu), suite de récits, paraboles et dialogues d'une grande liberté d'invention. Là où le <mv id='confucianism'>confucianisme</mv> de <ph id='confucius'>Confucius</ph> répondait à la crise par les rites, l'étude et le devoir social, le taoïsme cherche le salut dans le retrait, le naturel et la critique de l'artifice. Recueilli plus tard avec le <w>Liezi</w>, ce courant nourrira à partir des Han un taoïsme religieux, avec ses divinités, ses techniques de longue vie et ses recherches d'immortalité, distinct de la veine philosophique première. Sa sensibilité a profondément imprégné la poésie, la peinture et la médecine chinoises, le chan (l'ancêtre du zen) en Asie, et nourrit aujourd'hui en Occident un imaginaire de la simplicité et de l'accord avec la nature.",
+    "en": "A tradition born in the China of the Warring States (5th-3rd century BCE), an age of war and the collapse of order that pressed each school to offer a cure for the disorder. So-called philosophical Taoism forms around two texts: the <w>Dao De Jing (Tao Te Ching)</w>, an aphoristic collection ascribed to <ph>Laozi</ph> (Lao Tzu), a perhaps legendary figure, and the <w>Zhuangzi</w> (Chuang Tzu), a sequence of tales, parables and dialogues of great inventive freedom. Where the <mv id='confucianism'>Confucianism</mv> of <ph id='confucius'>Confucius</ph> answered the crisis with ritual, study and social duty, Taoism seeks deliverance in withdrawal, naturalness and the critique of artifice. Gathered later alongside the <w>Liezi</w>, this current would feed, from the Han onward, a religious Taoism with its deities, its longevity techniques and its quest for immortality, distinct from the original philosophical vein. Its sensibility deeply shaped Chinese poetry, painting and medicine, the Chan school (the ancestor of Zen) across Asia, and today nourishes in the West an imaginary of simplicity and accord with nature."
+  },
+  "period": {
+    "from": -400
+  },
+  "keyFigures": [
+    {
+      "slug": "laozi",
+      "name": { "fr": "Laozi", "en": "Laozi" }
+    },
+    {
+      "slug": "zhuangzi",
+      "name": { "fr": "Zhuangzi", "en": "Zhuangzi" }
+    },
+    {
+      "slug": "liezi",
+      "name": { "fr": "Liezi", "en": "Liezi" }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.05,
+          0,
+          0.9,
+          0.05
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le taoïsme se défie des règles morales explicites, qu'il tient pour le signe d'une vertu déjà perdue : à la codification confucéenne il oppose la <c>vertu</c> (te) spontanée de qui s'accorde au Tao. La vie bonne n'obéit ni à des principes ni à un calcul, elle découle d'un caractère cultivé dans la simplicité et le naturel, d'où une éthique de la vertu d'un genre paradoxal, sans effort.",
+          "en": "Taoism is wary of explicit moral rules, which it takes as the sign of an already-lost virtue: to Confucian codification it opposes the spontaneous <c>virtue</c> (te) of one who accords with the Tao. The good life obeys neither principles nor a calculation, it flows from a character cultivated in simplicity and naturalness, hence a virtue ethics of a paradoxical, effortless kind."
+        },
+        "references": [
+          {
+            "fr": "Laozi, Dao De Jing, ch. 38",
+            "en": "Laozi, Tao Te Ching, ch. 38"
+          },
+          {
+            "fr": "Zhuangzi",
+            "en": "Zhuangzi"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "CONTEXTUALIST",
+      "note": {
+        "fr": "Le <c>Tao</c> n'est pas un Dieu : ni personne, ni créateur, ni législateur, il est le principe impersonnel et le cours spontané d'où tout procède et où tout retourne. Le taoïsme philosophique ne relève donc ni du théisme ni de l'athéisme, qui présupposent l'idée d'un dieu personnel à affirmer ou à nier ; il pense un fondement du monde d'une tout autre nature.",
+        "en": "The <c>Tao</c> is not a God: neither a person, nor a creator, nor a lawgiver, it is the impersonal principle and the spontaneous course from which everything proceeds and to which everything returns. Philosophical Taoism therefore falls under neither theism nor atheism, which presuppose the idea of a personal god to affirm or to deny; it thinks a ground of the world of an entirely different nature."
+      }
+    },
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.1
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le taoïsme n'oppose à la souffrance ni croisade ni valorisation : il invite à accueillir l'alternance du sort sans la juger, comme le vieillard de la parabole qui ne sait si la perte de son cheval est un mal ou un bien. La douleur naît surtout de la résistance et du désir ; s'accorder au cours des choses par le <c>wu-wei</c> en désamorce le tourment, position proche de l'équanimité.",
+          "en": "Taoism opposes to suffering neither crusade nor valuing: it invites one to welcome the alternation of fortune without judging it, like the old man in the parable who does not know whether the loss of his horse is bad or good. Pain arises above all from resistance and desire; attuning oneself to the course of things through <c>wu-wei</c> defuses its torment, a position close to equanimity."
+        },
+        "references": [
+          {
+            "fr": "Zhuangzi",
+            "en": "Zhuangzi"
+          },
+          {
+            "fr": "Huainanzi (le vieillard de la frontière)",
+            "en": "Huainanzi (the old man of the frontier)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.8,
+          0.2,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Pour le taoïsme, le <c>Tao</c> est la source et l'ordre de toutes choses, le cours spontané auquel l'existence appartient. Le sens ne s'invente pas, il se trouve en s'accordant à ce cours par le <c>wu-wei</c> et la simplicité, en renonçant aux fins artificielles que l'homme se forge. Vivre bien, c'est épouser une trame qui nous précède et nous excède, sans pourtant le dessein personnel d'un dieu.",
+          "en": "For Taoism, the <c>Tao</c> is the source and order of all things, the spontaneous course to which existence belongs. Meaning is not invented but found by attuning oneself to this course through <c>wu-wei</c> and simplicity, renouncing the artificial ends man forges for himself. To live well is to wed a fabric that precedes and exceeds us, yet without the personal design of a god."
+        },
+        "references": [
+          {
+            "fr": "Laozi, Dao De Jing",
+            "en": "Laozi, Tao Te Ching"
+          },
+          {
+            "fr": "Zhuangzi",
+            "en": "Zhuangzi"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.25,
+          0.6,
+          0.15
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le bien taoïste est l'épanouissement par l'accord avec le Tao : suivre sa nature spontanée (<c>ziran</c>), agir sans forcer (<c>wu-wei</c>), goûter la simplicité et le contentement. Ce n'est ni la vertu confucéenne ni la poursuite des plaisirs, mais une vie aisée et accordée, où la santé, la longévité et la paix intérieure naissent de l'harmonie avec le cours des choses.",
+          "en": "The Taoist good is flourishing through accord with the Tao: following one's spontaneous nature (<c>ziran</c>), acting without forcing (<c>wu-wei</c>), savoring simplicity and contentment. It is neither Confucian virtue nor the pursuit of pleasures, but an easeful, attuned life, where health, longevity and inner peace arise from harmony with the course of things."
+        },
+        "references": [
+          {
+            "fr": "Laozi, Dao De Jing",
+            "en": "Laozi, Tao Te Ching"
+          },
+          {
+            "fr": "Zhuangzi",
+            "en": "Zhuangzi"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le taoïsme tient que chaque être a sa nature spontanée (<c>ziran</c>), reçue du Tao, et s'épanouit en la suivant plutôt qu'en se façonnant. Le sage revient au <c>bloc non taillé</c> (pu), la simplicité originelle, contre les distorsions de l'artifice et de la convention : préserver une nature donnée, non en créer une.",
+          "en": "Taoism holds that each being has its spontaneous nature (<c>ziran</c>), received from the Tao, and flourishes by following it rather than by fashioning itself. The sage returns to the <c>uncarved block</c> (pu), original simplicity, against the distortions of artifice and convention: to preserve a given nature, not to create one."
+        },
+        "references": [
+          {
+            "fr": "Laozi, Dao De Jing, ch. 28 et 19",
+            "en": "Laozi, Tao Te Ching, ch. 28 and 19"
+          },
+          {
+            "fr": "Zhuangzi",
+            "en": "Zhuangzi"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le sage taoïste n'affirme pas un vouloir autonome : il agit par <c>wu-wei</c>, le non-agir, en s'effaçant pour épouser le cours spontané des choses (<c>ziran</c>). Vouloir, forcer, imposer un moi, c'est contrarier le Tao et s'épuiser ; la liberté véritable est cet accord sans effort avec la nécessité naturelle, plus proche d'une adhésion au déterminé que d'un libre arbitre conquérant.",
+          "en": "The Taoist sage asserts no autonomous will: he acts by <c>wu-wei</c>, non-action, effacing himself to wed the spontaneous course of things (<c>ziran</c>). To will, to force, to impose a self, is to thwart the Tao and exhaust oneself; true freedom is this effortless accord with natural necessity, closer to an assent to the determined than to a conquering free will."
+        },
+        "references": [
+          {
+            "fr": "Laozi, Dao De Jing, ch. 37 et 63",
+            "en": "Laozi, Tao Te Ching, ch. 37 and 63"
+          },
+          {
+            "fr": "Zhuangzi",
+            "en": "Zhuangzi"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le taoïsme se défie du savoir conceptuel et livresque, qui découpe et nomme alors que le Tao excède toute parole : <q>le Tao qu'on peut nommer n'est pas le Tao éternel</q>. La vraie connaissance n'est pas accumulation rationnelle mais désapprentissage et accord intuitif avec le cours des choses, un savoir du concret et du spontané plus proche de l'expérience vécue que de la raison discursive.",
+          "en": "Taoism is wary of conceptual, bookish knowledge, which carves up and names while the Tao exceeds all speech: <q>the Tao that can be named is not the eternal Tao</q>. True knowledge is not rational accumulation but unlearning and intuitive accord with the course of things, a knowing of the concrete and the spontaneous, closer to lived experience than to discursive reason."
+        },
+        "references": [
+          {
+            "fr": "Laozi, Dao De Jing, ch. 1 et 48",
+            "en": "Laozi, Tao Te Ching, ch. 1 and 48"
+          },
+          {
+            "fr": "Zhuangzi",
+            "en": "Zhuangzi"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CONTROL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.9 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le monde suit déjà sa propre <c id='ziran'>ziran 自然 (spontanéité du naturel)</c> : prétendre le redresser par la volonté, la loi ou l'effort calculé, c'est briser cet ordre et engendrer le contraire de ce qu'on vise, comme on ruine une plante en tirant sur ses pousses. De cette observation le taoïsme tire le <c id='wu-wei'>wu wei 無為 (le non-agir, l'action sans forçage)</c> : non l'inertie, mais une efficacité par épousement plutôt que par contrainte, à l'image de l'eau qui, la plus souple, vient à bout du dur en se pliant à lui. <stk>Là où le <mv id='confucianism'>confucianisme</mv> veut réformer l'homme par l'effort moral et le rituel, le taoïste tient que toute action volontariste aggrave le désordre qu'elle veut corriger</stk> : c'est le revers exact d'un <c id='dichotomy-of-control'>prométhéisme</c> de la maîtrise.",
+          "en": "The world already follows its own <c id='ziran'>ziran 自然 (the spontaneity of the natural)</c>: to set it right by will, by law or by calculated effort is to break that order and produce the opposite of what one intends, as one kills a plant by pulling at its shoots. From this observation Taoism draws <c id='wu-wei'>wu wei 無為 (non-action, action without forcing)</c>: not inertia, but an efficacy through espousal rather than constraint, like water that, being the most yielding, wears down the hard by giving way to it. <stk>Where <mv id='confucianism'>Confucianism</mv> would reform man through moral effort and ritual, the Taoist holds that all willful action deepens the very disorder it means to mend</stk>: it is the exact reverse of a <c id='dichotomy-of-control'>Promethean</c> drive to mastery."
+        },
+        "references": [
+          { "fr": "Laozi, Dao De Jing (Tao Te King), ch. 43, 78", "en": "Laozi, Dao De Jing (Tao Te Ching), ch. 43, 78" },
+          { "fr": "Zhuangzi, ch. 6 (Le grand maître vénérable)", "en": "Zhuangzi, ch. 6 (The Great and Venerable Teacher)" }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "Rien au monde n'est plus souple et plus faible que l'eau ; pourtant, pour attaquer ce qui est dur et fort, rien ne la surpasse.",
+            "en": "Nothing in the world is softer and weaker than water; yet for attacking what is hard and strong nothing surpasses it."
+          },
+          "source": {
+            "fr": "Laozi, Dao De Jing, ch. 78",
+            "en": "Laozi, Dao De Jing, ch. 78"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "HUMAN_PLACE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 0.1, 0.9] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Toute chose, jusqu'au ciel et à la terre, prend modèle sur plus originaire qu'elle, et au terme de la série le <c id='dao'>dao 道 (la Voie)</c> ne prend modèle que sur la <c id='ziran'>ziran 自然 (ce qui est ainsi de soi-même)</c> : l'homme n'occupe donc aucune place de surplomb, il est un être parmi les êtres, suspendu au même ordre. <stk>La place juste n'est pas de soumettre la nature mais de s'y conformer comme on suit une pente</stk> : prétendre la corriger, c'est se croire plus sage que ce qui nous a faits. Le taoïsme renverse ainsi l'anthropocentrisme implicite des écoles qui font de l'ordre humain, des rites et du gouvernement le sommet du réel.",
+          "en": "Everything, up to heaven and earth, models itself on what is more original than it is, and at the end of the chain the <c id='dao'>dao 道 (the Way)</c> models itself only on <c id='ziran'>ziran 自然 (what is so of itself)</c>: the human being therefore holds no commanding place, but is one creature among others, hanging on the same order. <stk>The right place is not to subdue nature but to conform to it as one follows a slope</stk>: to claim to correct it is to think oneself wiser than what made us. Taoism thus overturns the implicit anthropocentrism of schools that make the human order, the rites and government the summit of reality."
+        },
+        "references": [
+          { "fr": "Laozi, Dao De Jing, ch. 25", "en": "Laozi, Dao De Jing, ch. 25" },
+          { "fr": "Zhuangzi, ch. 17 (Les crues d'automne)", "en": "Zhuangzi, ch. 17 (Autumn Floods)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.85 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Une source qui engendre tout ne peut se tenir hors de ce qu'elle engendre : si le <c id='dao'>dao 道 (la Voie)</c> est l'origine des dix mille êtres, il les habite tous au lieu de régner sur eux depuis un arrière-monde. Loin du dieu personnel et transcendant qui crée par décret et commande de l'extérieur, le dao est <c id='immanence'>immanent</c> et impersonnel : il fait croître sans posséder, agit sans s'attribuer le mérite. D'où la provocation de Zhuangzi, interrogé sur le lieu du dao : il est jusque dans la fourmi, le brin d'herbe, la tuile, et même l'ordure, car ce qui est partout ne saurait manquer dans le plus vil.",
+          "en": "A source that engenders everything cannot stand outside what it engenders: if the <c id='dao'>dao 道 (the Way)</c> is the origin of the ten thousand things, it inhabits them all rather than reigning over them from a world beyond. Far from a personal, transcendent god who creates by decree and commands from without, the dao is <c id='immanence'>immanent</c> and impersonal: it makes things grow without possessing them, acts without claiming the merit. Hence Zhuangzi's provocation when asked where the dao is: it is in the ant, the blade of grass, the tile, and even the dung, for what is everywhere cannot be missing from the lowliest thing."
+        },
+        "references": [
+          { "fr": "Zhuangzi, ch. 22 (La connaissance voyageait vers le nord)", "en": "Zhuangzi, ch. 22 (Knowledge Wandered North)" },
+          { "fr": "Laozi, Dao De Jing, ch. 34", "en": "Laozi, Dao De Jing, ch. 34" }
+        ],
+        "strength": "MEDIUM",
+        "quote": {
+          "text": {
+            "fr": "Il n'est aucun lieu où le dao ne soit.",
+            "en": "There is no place where the dao is not."
+          },
+          "source": {
+            "fr": "Zhuangzi, ch. 22",
+            "en": "Zhuangzi, ch. 22"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.7 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Nommer, c'est découper le réel en catégories opposées (le grand et le petit, le vrai et le faux), or le <c id='dao'>dao 道 (la Voie)</c> est le fond indivis d'où ces distinctions procèdent : aucun mot ne peut donc le saisir sans le trahir. <dif>Le langage convient aux choses délimitées, jamais à la source qui les engendre toutes</dif>. Zhuangzi en tire un perspectivisme radical : chaque jugement parle depuis un point de vue situé, la dispute ne fait qu'opposer deux partialités sans juge qui les surplombe, et prétendre trancher universellement, c'est prendre son perchoir pour le centre du monde. D'où un <c id='skepticism'>scepticisme</c> qui vise moins à nier qu'à dissoudre la prétention au savoir certain et à délivrer du besoin d'avoir raison.",
+          "en": "To name is to carve reality into opposed categories (great and small, true and false), yet the <c id='dao'>dao 道 (the Way)</c> is the undivided ground from which those distinctions proceed: no word can grasp it without betraying it. <dif>Language fits bounded things, never the source that engenders them all</dif>. Zhuangzi draws from this a radical perspectivism: every judgment speaks from a situated standpoint, disputation merely sets two partialities against each other with no judge above them, and to claim a universal verdict is to mistake one's perch for the center of the world. Hence a <c id='skepticism'>skepticism</c> that aims less to deny than to dissolve the claim to certain knowledge and to free one from the need to be right."
+        },
+        "references": [
+          { "fr": "Laozi, Dao De Jing, ch. 1", "en": "Laozi, Dao De Jing, ch. 1" },
+          { "fr": "Zhuangzi, ch. 2 (De l'égalité des choses)", "en": "Zhuangzi, ch. 2 (On the Equality of Things)" }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "Le dao qu'on peut nommer dao n'est pas le dao constant.",
+            "en": "The dao that can be told is not the constant dao."
+          },
+          "source": {
+            "fr": "Laozi, Dao De Jing, ch. 1",
+            "en": "Laozi, Dao De Jing, ch. 1"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 0.15, 0.85] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Les désirs raffinés ne naissent pas du besoin mais de l'artifice qui les fabrique : ce sont les cinq couleurs, les cinq saveurs et la convoitise des biens rares qui aveuglent l'œil et égarent le cœur, en sorte que multiplier les objets désirables ne comble jamais mais creuse le manque. <stk>La course aux richesses et aux honneurs disperse l'esprit et l'éloigne du <c id='dao'>dao 道 (la Voie)</c></stk> : le remède n'est pas de mieux satisfaire le désir mais de le tarir à sa source, en revenant à <c>pu 樸 (la simplicité, le bloc de bois brut non taillé)</c>. Aussi nul malheur n'est-il pire, pour Laozi, que de ne pas savoir se suffire : le contentement de qui désire peu est une richesse que rien d'extérieur ne menace.",
+          "en": "Refined desires arise not from need but from the artifice that manufactures them: it is the five colors, the five flavors and the craving for rare goods that blind the eye and lead the heart astray, so that multiplying desirable objects never fills the lack but hollows it. <stk>The pursuit of wealth and honors scatters the mind and draws it away from <c id='dao'>the dao 道 (the Way)</c></stk>: the remedy is not to satisfy desire better but to dry it at its source, returning to <c>pu 樸 (simplicity, the uncarved block of wood)</c>. Thus no misfortune, for Laozi, is worse than not knowing when one has enough: the contentment of one who desires little is a wealth that nothing external can threaten."
+        },
+        "references": [
+          { "fr": "Laozi, Dao De Jing, ch. 12, 46", "en": "Laozi, Dao De Jing, ch. 12, 46" },
+          { "fr": "Laozi, Dao De Jing, ch. 19", "en": "Laozi, Dao De Jing, ch. 19" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "AUTHORITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.55 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le bon souverain taoïste est celui qui gouverne le moins : il pratique le <c id='wu-wei'>wu wei 無為 (le non-agir)</c> en politique, allège les lois et les contraintes, et laisse le peuple suivre sa <c id='ziran'>ziran 自然 (pente naturelle)</c>. <stk>Multiplier interdits et règlements ne fait qu'accroître le désordre</stk>, d'où une inclination libertaire proche de l'<c>anarchisme</c>.",
+          "en": "The good Taoist ruler is the one who governs least: he practices <c id='wu-wei'>wu wei 無為 (non-action)</c> in politics, lightens laws and constraints, and lets the people follow their <c id='ziran'>ziran 自然 (natural bent)</c>. <stk>Multiplying prohibitions and regulations only increases disorder</stk>, hence a libertarian leaning close to <c>anarchism</c>."
+        },
+        "references": [
+          { "fr": "Laozi, Dao De Jing, ch. 57, 60", "en": "Laozi, Dao De Jing, ch. 57, 60" },
+          { "fr": "Zhuangzi, ch. 11 (Laisser être, ne pas contraindre)", "en": "Zhuangzi, ch. 11 (Letting Be and Exercising Forbearance)" }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Gouverner un grand État, c'est comme faire frire un petit poisson.",
+            "en": "Governing a great state is like cooking a small fish."
+          },
+          "source": {
+            "fr": "Laozi, Dao De Jing, ch. 60",
+            "en": "Laozi, Dao De Jing, ch. 60"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "RULE_SPIRIT",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.75 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Si l'on doit codifier le devoir et la bienséance, c'est que la vertu vécue a déjà disparu : pour Laozi, l'apparition même des règles est le symptôme d'une chute, non son remède. Le taoïsme retourne ainsi contre le <mv id='confucianism'>confucianisme</mv> son propre programme : <dif>les rites, l'étude et la morale ostentatoire qu'il érige en voie du redressement social trahissent en réalité la perte du <c id='dao'>dao 道 (la Voie)</c></dif>, et l'effort pour les imposer durcit les cœurs au lieu de les accorder. À l'application rigide d'un code, le sage substitue une <c id='phronesis'>spontanéité ajustée</c> au cas présent, sans modèle fixe : conduite réglée non par la lettre mais par la <c id='ziran'>ziran 自然 (spontanéité du naturel)</c> de chaque situation.",
+          "en": "If duty and propriety must be codified, it is because lived virtue has already vanished: for Laozi, the very appearance of rules is the symptom of a fall, not its cure. Taoism thus turns Confucianism's own program against it: <dif>the rites, study and ostentatious morality that <mv id='confucianism'>Confucianism</mv> raises into the path of social repair in fact betray the loss of <c id='dao'>the dao 道 (the Way)</c></dif>, and the effort to enforce them hardens hearts instead of attuning them. For the rigid application of a code the sage substitutes a <c id='phronesis'>spontaneity attuned</c> to the case at hand, with no fixed model: conduct governed not by the letter but by the <c id='ziran'>ziran 自然 (spontaneity of the natural)</c> of each situation."
+        },
+        "references": [
+          { "fr": "Laozi, Dao De Jing, ch. 18, 38", "en": "Laozi, Dao De Jing, ch. 18, 38" },
+          { "fr": "Zhuangzi, ch. 3 (Principe nourricier de la vie)", "en": "Zhuangzi, ch. 3 (The Secret of Caring for Life)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TECHNOLOGY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.8 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Une méfiance primitiviste traverse le taoïsme : <pb>les inventions et les machines engendrent l'esprit calculateur et corrompent la simplicité</pb>. Zhuangzi rapporte l'histoire du vieux jardinier qui refuse une machine à élever l'eau, par crainte que qui a une machine au cœur perde sa pureté native ; Laozi rêve d'un petit pays où, malgré des outils, on n'en userait pas.",
+          "en": "A primitivist distrust runs through Taoism: <pb>contrivances and machines breed the calculating mind and corrupt simplicity</pb>. Zhuangzi tells of the old gardener who refuses a water-raising machine, fearing that whoever keeps a machine in his heart loses his native purity; Laozi dreams of a small country where, though tools exist, none would be used."
+        },
+        "references": [
+          { "fr": "Zhuangzi, ch. 12 (Ciel et Terre)", "en": "Zhuangzi, ch. 12 (Heaven and Earth)" },
+          { "fr": "Laozi, Dao De Jing, ch. 80", "en": "Laozi, Dao De Jing, ch. 80" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.4 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Zhuangzi cultive une équanimité qui n'est pas refus des affects mais refus de s'y laisser enchaîner : comprendre que tout est transformation incessante apaise le trouble. <stk>Le sage ne laisse ni le gain ni la perte, ni la joie ni la peine altérer la paix intérieure</stk> ; il accueille les événements comme le cours naturel des choses, sans s'y attacher.",
+          "en": "Zhuangzi cultivates an equanimity that is not the refusal of feeling but the refusal of being enslaved to it: understanding that all is ceaseless transformation calms disturbance. <stk>The sage lets neither gain nor loss, neither joy nor grief disturb his inner peace</stk>; he welcomes events as the natural course of things, without clinging to them."
+        },
+        "references": [
+          { "fr": "Zhuangzi, ch. 5 (Le signe de la vertu accomplie)", "en": "Zhuangzi, ch. 5 (The Sign of Virtue Complete)" },
+          { "fr": "Zhuangzi, ch. 6 (Le grand maître vénérable)", "en": "Zhuangzi, ch. 6 (The Great and Venerable Teacher)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.55, 0.1, 0.35, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "<dif>Les trois pôles de cet axe cernent mal la vision taoïste : la mort n'y est ni néant à apprivoiser ni promesse d'immortalité de l'âme, mais un simple moment de la transformation universelle</dif>, comparable au passage des saisons. À la mort de sa femme, Zhuangzi cesse de pleurer et chante en battant la mesure sur une jarre, comprenant qu'elle dort désormais dans la grande chambre du cosmos. La crainte de la mort s'y dissout dans le consentement au changement.",
+          "en": "<dif>The three poles of this axis fit the Taoist view poorly: death is neither a nothingness to be tamed nor the promise of an immortal soul, but simply a moment of universal transformation</dif>, like the turning of the seasons. At his wife's death, Zhuangzi stops weeping and sings while drumming on a basin, understanding that she now sleeps in the great chamber of the cosmos. The fear of death dissolves into consent to change."
+        },
+        "references": [
+          { "fr": "Zhuangzi, ch. 18 (La joie parfaite)", "en": "Zhuangzi, ch. 18 (Perfect Happiness)" },
+          { "fr": "Zhuangzi, ch. 6 (Le grand maître vénérable)", "en": "Zhuangzi, ch. 6 (The Great and Venerable Teacher)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.1, 0.8, 0.1] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le perspectivisme de Zhuangzi débouche sur un relativisme : <stk>ce qui est beau, juste ou utile pour l'un ne l'est pas pour l'autre</stk>, et nul point de vue ne surplombe les autres. L'homme dort dans l'humidité et tombe malade, mais non l'anguille ; qui des deux connaît le bon habitat ? Les distinctions morales tranchées perdent leur prétention à l'universalité.",
+          "en": "Zhuangzi's perspectivism issues in a relativism: <stk>what is beautiful, right, or useful for one is not so for another</stk>, and no standpoint overlooks the rest. A man sleeping in the damp falls ill, but not the eel; which of the two knows the right dwelling? Sharp moral distinctions lose their claim to universality."
+        },
+        "references": [
+          { "fr": "Zhuangzi, ch. 2 (De l'égalité des choses)", "en": "Zhuangzi, ch. 2 (On the Equality of Things)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.55 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La voie taoïste passe par un travail intérieur de vacuité : <c>le jeûne du cœur (xin zhai)</c> et l'oubli assis vident l'esprit du savoir et des distinctions pour le rendre disponible au <c id='dao'>dao 道 (la Voie)</c>. La transformation visée est moins l'action efficace dans le monde que l'accord intime avec l'ordre des choses, par un dépouillement de soi.",
+          "en": "The Taoist path goes through an inner work of emptiness: <c>the fasting of the heart-mind (xin zhai)</c> and sitting in oblivion empty the mind of knowledge and distinctions, making it available to <c id='dao'>the dao 道 (the Way)</c>. The transformation sought is less effective action in the world than an intimate accord with the order of things, through a stripping-away of the self."
+        },
+        "references": [
+          { "fr": "Zhuangzi, ch. 4 (Dans le monde des hommes)", "en": "Zhuangzi, ch. 4 (In the World of Men)" },
+          { "fr": "Zhuangzi, ch. 6 (Le grand maître vénérable)", "en": "Zhuangzi, ch. 6 (The Great and Venerable Teacher)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.7, 0.2, 0.1] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "<dif>La cosmologie taoïste se laisse mal réduire aux catégories occidentales</dif> : le réel est un flux continu de <c>qi 氣 (le souffle, l'énergie qui anime toute chose)</c>, sans coupure nette entre matière et esprit, ce qui rapproche le taoïsme d'un monisme à coloration matérialiste plutôt que d'un idéalisme ou d'un dualisme. Le <c id='dao'>dao 道 (la Voie)</c>, source indifférenciée d'où naissent le Un, puis le Deux, puis les dix mille êtres, n'est ni pur esprit séparé de la matière ni esprit individuel : tout procède d'un même fond énergétique.",
+          "en": "<dif>Taoist cosmology resists reduction to Western categories</dif>: reality is a continuous flux of <c>qi 氣 (the breath, the energy animating all things)</c>, with no sharp break between matter and mind, which places Taoism closer to a monism of materialist coloring than to idealism or dualism. The <c id='dao'>dao 道 (the Way)</c>, the undifferentiated source from which the One, then the Two, then the ten thousand things arise, is neither pure spirit set apart from matter nor an individual mind: everything proceeds from a single energetic ground."
+        },
+        "references": [
+          { "fr": "Laozi, Dao De Jing, ch. 42", "en": "Laozi, Dao De Jing, ch. 42" },
+          { "fr": "Zhuangzi, ch. 22 (La connaissance voyageait vers le nord)", "en": "Zhuangzi, ch. 22 (Knowledge Wandered North)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "COSMIC_OUTLOOK",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.7 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'univers taoïste est foncièrement bienveillant et fiable pour qui s'accorde à lui : le <c id='dao'>dao 道 (la Voie)</c> nourrit toute chose sans la posséder, et l'ordre spontané du monde pourvoit de lui-même quand l'homme cesse de le contrarier. <stk>Le mal et le désordre naissent du forçage humain, non d'une faille du cosmos</stk> : il y a là une confiance profonde dans l'ordre des choses.",
+          "en": "The Taoist universe is fundamentally benign and trustworthy for whoever attunes to it: <c id='dao'>the dao 道 (the Way)</c> nourishes all things without possessing them, and the spontaneous order of the world provides of itself once humans stop thwarting it. <stk>Evil and disorder spring from human forcing, not from a flaw in the cosmos</stk>: there is here a deep trust in the order of things."
+        },
+        "references": [
+          { "fr": "Laozi, Dao De Jing, ch. 34, 51", "en": "Laozi, Dao De Jing, ch. 34, 51" },
+          { "fr": "Laozi, Dao De Jing, ch. 73", "en": "Laozi, Dao De Jing, ch. 73" }
+        ],
+        "strength": "MEDIUM"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "CONTROL_SCOPE",
+      "thesis": {
+        "fr": "Le monde s'ordonne de lui-même : qui agit par <c id='wu-wei'>wu wei 無為 (non-agir)</c>, sans forcer, accomplit tout, tandis que vouloir tout maîtriser ne fait qu'aggraver le désordre.",
+        "en": "The world orders itself: whoever acts by <c id='wu-wei'>wu wei 無為 (non-action)</c>, without forcing, accomplishes all, while the will to master everything only deepens the disorder."
+      }
+    },
+    {
+      "axisId": "RULE_SPIRIT",
+      "thesis": {
+        "fr": "Quand on doit codifier les rites et la morale, c'est que la vertu vivante est déjà perdue : mieux vaut la <c id='ziran'>ziran 自然 (spontanéité du naturel)</c> ajustée au cas présent qu'un code rigide.",
+        "en": "When rites and morality must be codified, living virtue is already lost: better the <c id='ziran'>ziran 自然 (spontaneity of the natural)</c> attuned to the case at hand than a rigid code."
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "thesis": {
+        "fr": "Le <c id='dao'>dao 道 (la Voie)</c> qu'on peut nommer n'est pas le dao éternel : nos distinctions du vrai et du faux dépendent du point de vue, et nulle dispute ne les surplombe.",
+        "en": "The <c id='dao'>dao 道 (the Way)</c> that can be named is not the eternal dao: our distinctions of true and false depend on the standpoint, and no disputation stands above them."
+      }
+    },
+    {
+      "axisId": "HUMAN_PLACE_NATURE",
+      "thesis": {
+        "fr": "L'homme n'est pas le maître de la nature mais un être parmi les êtres : la sagesse est de prendre modèle sur l'ordre spontané du monde, non de le soumettre.",
+        "en": "Man is not the master of nature but one creature among others: wisdom is to take the spontaneous order of the world as one's model, not to subdue it."
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "thesis": {
+        "fr": "Le <c id='dao'>dao 道 (la Voie)</c> n'est pas un dieu d'au-delà : source <c id='immanence'>immanente</c> de toute chose, il les engendre toutes sans les posséder et ne se trouve nulle part hors d'elles.",
+        "en": "The <c id='dao'>dao 道 (the Way)</c> is not a god of the beyond: the <c id='immanence'>immanent</c> source of all things, it engenders them all without possessing them and is found nowhere outside them."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

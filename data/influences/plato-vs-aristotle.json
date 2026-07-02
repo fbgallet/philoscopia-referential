@@ -1,0 +1,16 @@
+{
+  "id": "plato-vs-aristotle",
+  "from": { "kind": "PHILOSOPHER", "slug": "plato" },
+  "to": { "kind": "PHILOSOPHER", "slug": "aristotle" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Formé vingt ans à l'Académie, <ph id='aristotle'>Aristote</ph> garde de <ph id='plato'>Platon</ph> l'exigence de science et de définition, mais rejette la séparation des <c>Idées</c> : la forme n'existe que dans les substances individuelles, pas dans un monde à part.",
+    "en": "Trained for twenty years at the Academy, <ph id='aristotle'>Aristotle</ph> keeps from <ph id='plato'>Plato</ph> the demand for science and definition, but rejects the separation of the <c>Forms</c>: form exists only in individual substances, not in a world apart."
+  },
+  "sources": [
+    { "fr": "Aristote, Métaphysique, A, 9", "en": "Aristotle, Metaphysics, I.9" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

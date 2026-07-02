@@ -1,0 +1,109 @@
+{
+  "id": "EMOTIONS",
+  "relation": "WORLD",
+  "territory": "MIND_CONSCIOUSNESS",
+  "label": {
+    "fr": "Statut des émotions",
+    "en": "Status of emotions"
+  },
+  "question": {
+    "fr": "Les émotions sont-elles un obstacle à la pensée ou une source de connaissance ?",
+    "en": "Are emotions an obstacle to thought or a source of knowledge?"
+  },
+  "stakes": {
+    "fr": "Faut-il se défier de ce qu'on ressent, trouble qui brouille le jugement, ou y entendre une perception fine de ce qui compte vraiment ? Se positionner, c'est dire jusqu'où suivre nos émotions quand elles contredisent la raison froide.",
+    "en": "Should we distrust what we feel, a disturbance that clouds judgement, or hear in it a fine perception of what really matters? To take a position is to say how far to follow our emotions when they contradict cold reason."
+  },
+  "layer": "THEORY",
+  "type": "BIPOLAR",
+  "poles": [
+    {
+      "id": "INTELLECTUALISM",
+      "label": {
+        "fr": "Intellectualisme",
+        "en": "Intellectualism"
+      },
+      "description": {
+        "fr": "Les émotions troublent le jugement : assentiments précipités ou mouvements confus, elles déforment plus souvent qu'elles ne révèlent ce qui compte. Seule la raison, en les examinant, peut démêler ce qu'elles disent de vrai.",
+        "en": "Emotions cloud judgment: hasty assents or confused stirrings, they distort more often than they reveal what matters. Only reason, by examining them, can sort out what truth they carry."
+      },
+      "figures": [
+        {
+          "slug": "stoics",
+          "name": {
+            "fr": "les stoïciens",
+            "en": "the Stoics"
+          }
+        },
+        {
+          "slug": "descartes",
+          "name": {
+            "fr": "Descartes",
+            "en": "Descartes"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SENTIMENTALISM",
+      "label": {
+        "fr": "Sentimentalisme",
+        "en": "Sentimentalism"
+      },
+      "description": {
+        "fr": "Les émotions ne sont pas l'ennemi de la pensée : elles nous orientent, nous motivent et nous renseignent sur ce qui compte. La raison seule est impuissante à juger et à agir sans le concours du sentiment.",
+        "en": "Emotions are not the enemy of thought: they orient us, motivate us, and inform us about what matters. Reason alone is powerless to judge and to act without the help of feeling."
+      },
+      "figures": [
+        {
+          "slug": "hume",
+          "name": {
+            "fr": "Hume",
+            "en": "Hume"
+          }
+        },
+        {
+          "slug": "nussbaum",
+          "name": {
+            "fr": "Nussbaum",
+            "en": "Nussbaum"
+          }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 1,
+  "clusters": [],
+  "relatedAxes": [
+    "DESIRE",
+    "KNOWLEDGE_SOURCE"
+  ],
+  "problems": [
+    {
+      "id": "emotion-as-judgment",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "une émotion", "en": "an emotion" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "cognitivisme", "en": "cognitivism" },
+        { "fr": "jugement de valeur", "en": "value judgment" },
+        { "fr": "affect", "en": "affect" },
+        { "fr": "théorie des sentiments", "en": "feeling theory" }
+      ],
+      "poles": ["INTELLECTUALISM", "SENTIMENTALISM"],
+      "anchors": [
+        { "name": { "fr": "les stoïciens", "en": "the Stoics" }, "kind": "MOVEMENT", "slug": "stoicism" },
+        { "name": { "fr": "William James", "en": "William James" }, "kind": "PHILOSOPHER", "slug": "william-james" },
+        { "name": { "fr": "Nussbaum", "en": "Nussbaum" }, "kind": "PHILOSOPHER", "slug": "nussbaum" }
+      ],
+      "title": { "fr": "L'émotion est-elle un jugement ?", "en": "Is an emotion a judgment?" },
+      "explicitation": {
+        "fr": "La peur qui me saisit est-elle une pensée qui évalue un danger, comme le soutiennent les stoïciens puis le cognitivisme contemporain, ou un mouvement du corps éprouvé avant toute pensée, comme le veut William James ? Ce qui juge peut être discuté et corrigé ; ce qui secoue ne peut être qu'apprivoisé.",
+        "en": "Is the fear that grips me a thought appraising a danger, as the Stoics and then contemporary cognitivism hold, or a bodily stirring felt before any thought, as William James would have it? What judges can be argued with and corrected; what shakes us can only be tamed."
+      }
+    }
+  ]
+}

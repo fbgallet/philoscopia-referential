@@ -1,0 +1,12 @@
+{
+  "id": "substance-dualism-grounds-anthropocentrism",
+  "ground": { "axisId": "CONSCIOUSNESS_NATURE", "poleId": "SUBSTANCE_DUALISM" },
+  "grounded": { "axisId": "MORAL_CIRCLE", "poleId": "ANTHROPOCENTRISM" },
+  "kind": "T_V",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si seule l'âme rationnelle confère une intériorité véritable, les animaux, privés de cette substance pensante, ne sont que des mécanismes sans dignité propre. Le dualisme des substances soutient l'anthropocentrisme moral : chez <ph id='descartes'>Descartes</ph>, la « bête-machine » n'entre pas dans le cercle de nos devoirs directs. Le lien est toutefois moins net chez les anthropocentristes qui, tel <ph id='kant'>Kant</ph>, fondent la dignité sur la raison plutôt que sur une âme-substance.",
+    "en": "If only the rational soul confers genuine inwardness, animals, lacking this thinking substance, are nothing but mechanisms without worth of their own. Substance dualism supports moral anthropocentrism: for <ph id='descartes'>Descartes</ph>, the \"animal-machine\" does not enter the circle of our direct duties. The link is looser, however, among anthropocentrists who, like <ph id='kant'>Kant</ph>, ground dignity in reason rather than in a soul-substance."
+  },
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "theism-grounds-teleology",
+  "ground": { "axisId": "GOD_EXISTENCE", "poleId": "THEISM" },
+  "grounded": { "axisId": "LIFE_MEANING", "poleId": "TELEOLOGY" },
+  "kind": "T_V",
+  "strength": "STRONG",
+  "explanation": {
+    "fr": "Si un Dieu créateur a voulu le monde, l'existence s'inscrit dans un dessein qui la dépasse et lui assigne une fin. Le théisme fonde la conception téléologique du sens : la vie a une <c id='providence'>providence</c> à découvrir et à laquelle accorder sa conduite, des <mv id='stoicism'>stoïciens</mv> au christianisme.",
+    "en": "If a creator God willed the world, existence belongs to a design that surpasses it and assigns it an end. Theism grounds the teleological view of meaning: life has a <c id='providence'>providence</c> to discover and to align one's conduct with, from the <mv id='stoicism'>Stoics</mv> to Christianity."
+  },
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

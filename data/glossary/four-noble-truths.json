@@ -1,0 +1,13 @@
+{
+  "id": "four-noble-truths",
+  "term": { "fr": "Les Quatre Nobles Vérités", "en": "The Four Noble Truths" },
+  "definition": {
+    "fr": "Les Quatre Nobles Vérités forment le cœur de l'enseignement que <ph id='buddha'>le Bouddha</ph> délivre dès son premier sermon : il y a la <c id='dukkha'>souffrance</c>, elle a une origine, la <c id='tanha'>soif</c>, cette origine peut cesser, le <c id='nirvana'>nirvāṇa</c>, et il existe un chemin qui y mène, <c id='eightfold-path'>l'Octuple Sentier</c>. Leur structure est celle d'un diagnostic médical : un mal, sa cause, son pronostic, son traitement. C'est moins un dogme à croire qu'un cadre à vérifier par l'expérience.",
+    "en": "The Four Noble Truths form the heart of the teaching <ph id='buddha'>the Buddha</ph> delivers in his very first sermon: there is <c id='dukkha'>suffering</c>, it has an origin, <c id='tanha'>craving</c>, that origin can cease, <c id='nirvana'>nirvāṇa</c>, and there is a path that leads there, the <c id='eightfold-path'>Noble Eightfold Path</c>. Their structure is that of a medical diagnosis: an ailment, its cause, its prognosis, its treatment. They are less a dogma to be believed than a framework to be tested in experience."
+  },
+  "relatedAxes": ["SUFFERING_MEANING"],
+  "relatedTerms": ["dukkha", "tanha", "nirvana", "eightfold-path"],
+  "figure": { "slug": "buddha", "name": { "fr": "Le Bouddha", "en": "The Buddha" } },
+  "positions": [{ "axisId": "SUFFERING_MEANING", "poleId": "ABOLITIONISM" }],
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

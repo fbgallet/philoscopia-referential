@@ -1,0 +1,15 @@
+{
+  "id": "apatheia",
+  "term": { "fr": "Apatheia (l'absence de passions)", "en": "Apatheia (freedom from the passions)" },
+  "definition": {
+    "fr": "L'apatheia est l'état du sage stoïcien libéré des passions, ces émotions excessives nées de jugements erronés sur ce qui est bon ou mauvais. <ph id='epictetus'>Épictète</ph> ne prône pas l'insensibilité : il s'agit de ne plus être troublé par ce qui ne dépend pas de nous, en corrigeant ses jugements. C'est le versant émotionnel de la <c id='dichotomy-of-control'>dichotomie du contrôle</c>, fruit de la raison plutôt que d'un cœur de pierre.",
+    "en": "Apatheia is the state of the Stoic sage freed from the passions, those excessive emotions born of mistaken judgments about what is good or bad. <ph id='epictetus'>Epictetus</ph> does not preach insensibility: the point is to no longer be disturbed by what is not up to us, by correcting one's judgments. It is the emotional side of the <c id='dichotomy-of-control'>dichotomy of control</c>, a fruit of reason rather than a heart of stone."
+  },
+  "relatedAxes": ["EMOTIONS", "DESIRE"],
+  "relatedTerms": ["dichotomy-of-control"],
+  "figure": { "slug": "epictetus", "name": { "fr": "Épictète", "en": "Epictetus" } },
+  "positions": [
+    { "axisId": "EMOTIONS", "poleId": "INTELLECTUALISM" }
+  ],
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

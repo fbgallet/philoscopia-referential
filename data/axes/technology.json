@@ -1,0 +1,109 @@
+{
+  "id": "TECHNOLOGY",
+  "relation": "WORLD",
+  "territory": "WORK_TECHNOLOGY",
+  "label": {
+    "fr": "Rapport à la technique",
+    "en": "Relation to technology"
+  },
+  "question": {
+    "fr": "Le progrès technique améliore-t-il la condition humaine ?",
+    "en": "Does technological progress improve the human condition?"
+  },
+  "stakes": {
+    "fr": "Chaque outil nouveau nous libère d'anciennes peines, mais crée des dépendances et des pouvoirs qu'on maîtrise mal ; la technique sert-elle nos fins, ou transforme-t-elle silencieusement nos désirs et jusqu'à ce que nous sommes ? Se positionner, c'est dire si le progrès technique est une promesse à saisir ou une emprise à surveiller.",
+    "en": "Each new tool frees us from old burdens, but breeds dependencies and powers we barely control; does technology serve our ends, or silently transform our desires and even who we are? To take a position is to say whether technical progress is a promise to seize or a hold to keep watch over."
+  },
+  "layer": "VALUE",
+  "type": "BIPOLAR_MEDIAN",
+  "poles": [
+    {
+      "id": "TECHNO_OPTIMISM",
+      "label": {
+        "fr": "Techno-optimisme",
+        "en": "Techno-optimism"
+      },
+      "description": {
+        "fr": "La technique est le grand levier du progrès humain : elle libère du besoin, recule la souffrance et étend notre pouvoir sur la nature. Les problèmes qu'elle crée appellent davantage d'ingéniosité, non un retour en arrière.",
+        "en": "Technology is the great lever of human progress: it frees us from need, pushes back suffering, and extends our power over nature. The problems it creates call for more ingenuity, not a step backward."
+      },
+      "figures": [
+        {
+          "slug": "bacon",
+          "name": {
+            "fr": "Bacon",
+            "en": "Bacon"
+          }
+        },
+        {
+          "slug": "condorcet",
+          "name": {
+            "fr": "Condorcet",
+            "en": "Condorcet"
+          }
+        }
+      ]
+    },
+    {
+      "id": "TECHNO_CRITICISM",
+      "label": {
+        "fr": "Techno-critique",
+        "en": "Techno-criticism"
+      },
+      "description": {
+        "fr": "La technique n'est pas un simple outil neutre : elle impose sa propre logique, transforme notre rapport au monde et peut nous déposséder de ce qui fait la valeur de l'existence. Son développement appelle vigilance, limites et interrogation sur les fins.",
+        "en": "Technology is not a mere neutral tool: it imposes its own logic, transforms our relation to the world, and can dispossess us of what gives existence its value. Its development calls for vigilance, limits, and questioning of ends."
+      },
+      "figures": [
+        {
+          "slug": "heidegger",
+          "name": {
+            "fr": "Heidegger",
+            "en": "Heidegger"
+          }
+        },
+        {
+          "slug": "ellul",
+          "name": {
+            "fr": "Ellul",
+            "en": "Ellul"
+          }
+        },
+        {
+          "slug": "anders",
+          "name": {
+            "fr": "Anders",
+            "en": "Anders"
+          }
+        }
+      ],
+      "nuances": [
+        {
+          "fr": "Marx critique l'usage capitaliste de la machine, non l'outil lui-même : la technique pourrait servir l'émancipation dans d'autres rapports sociaux.",
+          "en": "Marx criticizes the capitalist use of the machine, not the tool itself: technology could serve emancipation under different social relations."
+        }
+      ]
+    }
+  ],
+  "core": true,
+  "difficulty": 1,
+  "clusters": [
+    "RATIONAL_EMANCIPATION"
+  ],
+  "medianLabel": {
+    "fr": "Instrumentalisme",
+    "en": "Instrumentalism"
+  },
+  "medianDescription": {
+    "fr": "La technique n'est en elle-même ni bénédiction ni malédiction : c'est un moyen, et tout dépend de l'usage qu'on en fait. Un même outil peut soigner ou détruire. Le vrai problème n'est pas la technique, mais les fins que nous lui assignons et la sagesse de ceux qui s'en servent.",
+    "en": "Technology is in itself neither blessing nor curse: it is a means, and everything depends on the use we make of it. The same tool can heal or destroy. The real problem is not technology but the ends we set for it and the wisdom of those who wield it."
+  },
+  "relatedAxes": [
+    "CONSERVATISM_PROGRESSISM",
+    "HISTORY_MEANING",
+    "HUMAN_ENHANCEMENT",
+    "HUMAN_PLACE_NATURE",
+    "WORK_MEANING",
+    "ATTENTION"
+  ]
+}

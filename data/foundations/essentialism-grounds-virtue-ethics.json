@@ -1,0 +1,12 @@
+{
+  "id": "essentialism-grounds-virtue-ethics",
+  "ground": { "axisId": "ESSENCE", "poleId": "ESSENTIALISM" },
+  "grounded": { "axisId": "ETHICS_FOUNDATION", "poleId": "VIRTUE_ETHICS" },
+  "kind": "T_V",
+  "strength": "STRONG",
+  "explanation": {
+    "fr": "Si l'être humain a une nature et une fonction propres, bien agir, c'est exceller dans l'accomplissement de cette fonction, c'est-à-dire être vertueux. L'essentialisme fonde l'éthique des vertus : <ph id='aristotle'>Aristote</ph> définit le bien de l'homme par l'activité excellente de la raison, affaire de caractère plus que de règles.",
+    "en": "If the human being has a nature and a function of its own, acting well means excelling in the fulfilment of that function, that is, being virtuous. Essentialism grounds virtue ethics: <ph id='aristotle'>Aristotle</ph> defines the human good by the excellent activity of reason, a matter of character more than of rules."
+  },
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

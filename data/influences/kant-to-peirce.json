@@ -1,0 +1,16 @@
+{
+  "id": "kant-to-peirce",
+  "from": { "kind": "PHILOSOPHER", "slug": "kant" },
+  "to": { "kind": "PHILOSOPHER", "slug": "peirce" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='peirce'>Peirce</ph> lit <ph id='kant'>Kant</ph> de près et le retravaille beaucoup : il refond la table des catégories et l'architectonique de la première <w id='critique-of-pure-reason-kant'>Critique</w> dans sa propre triade (priméité, secondéité, tiercéité) et dans son <c>réalisme</c> des universaux. Kant reste le philosophe à partir duquel il pense, même là où il le corrige.",
+    "en": "<ph id='peirce'>Peirce</ph> reads <ph id='kant'>Kant</ph> closely and works through him at length: he recasts the table of categories and the architectonic of the first <w id='critique-of-pure-reason-kant'>Critique</w> into his own triad (Firstness, Secondness, Thirdness) and his <c>realism</c> about universals. Kant remains the philosopher from whom he thinks, even where he corrects him."
+  },
+  "sources": [
+    { "fr": "Peirce, Collected Papers (engagement répété avec la Critique de la raison pure)", "en": "Peirce, Collected Papers (recurring engagement with the Critique of Pure Reason)" }
+  ],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

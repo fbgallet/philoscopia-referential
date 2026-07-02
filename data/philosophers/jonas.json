@@ -1,0 +1,16 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "jonas",
+  "name": { "fr": "Jonas", "en": "Jonas" },
+  "summary": {
+    "fr": "Philosophe allemand : penseur de la responsabilité envers les générations futures, il fonde une éthique de la vie qui oppose à la toute-puissance technique la valeur du donné naturel.",
+    "en": "German philosopher: a thinker of responsibility toward future generations, he founds an ethics of life that sets the worth of the natural given against technological omnipotence."
+  },
+  "nationality": { "fr": "Allemand", "en": "German" },
+  "birth": 1903,
+  "death": 1993,
+  "movements": [],
+  "updatedAt": "2026-06-21T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

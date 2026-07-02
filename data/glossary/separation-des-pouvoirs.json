@@ -1,0 +1,15 @@
+{
+  "id": "separation-des-pouvoirs",
+  "term": { "fr": "La séparation des pouvoirs", "en": "The separation of powers" },
+  "definition": {
+    "fr": "Principe formulé par <ph id='montesquieu'>Montesquieu</ph> dans De l'esprit des lois : pour garantir la liberté et empêcher l'abus, les trois fonctions de l'État, faire la loi (législatif), l'exécuter (exécutif) et juger (judiciaire), doivent être confiées à des organes distincts qui se limitent mutuellement. « C'est une expérience éternelle que tout homme qui a du pouvoir est porté à en abuser » : il faut donc que, « par la disposition des choses, le pouvoir arrête le pouvoir ». Pièce maîtresse du constitutionnalisme des <mv id='enlightenment'>Lumières</mv>, ce dispositif inspirera les constitutions américaine et française.",
+    "en": "A principle formulated by <ph id='montesquieu'>Montesquieu</ph> in The Spirit of the Laws: to secure liberty and prevent abuse, the three functions of the state, making the law (legislative), executing it (executive) and judging (judiciary), must be entrusted to distinct bodies that check one another. « It is an eternal experience that every man who has power is led to abuse it »: so it must be that, « by the arrangement of things, power checks power ». A centerpiece of the constitutionalism of the <mv id='enlightenment'>Enlightenment</mv>, this device would inspire the American and French constitutions."
+  },
+  "relatedAxes": ["AUTHORITY", "POLITICAL_LIBERTY"],
+  "relatedTerms": ["volonte-generale"],
+  "figure": { "slug": "montesquieu", "name": { "fr": "Montesquieu", "en": "Montesquieu" } },
+  "positions": [
+    { "axisId": "POLITICAL_LIBERTY", "poleId": "NON_DOMINATION" }
+  ],
+  "updatedAt": "2026-06-25T00:00:00.000Z"
+}

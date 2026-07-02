@@ -1,0 +1,16 @@
+{
+  "id": "the-one",
+  "term": { "fr": "l'Un (le principe premier)", "en": "the One" },
+  "definition": {
+    "fr": "Chez <ph id='plotinus'>Plotin</ph>, l'Un est le principe premier de toute réalité, absolument simple et ineffable, « par delà l'être » et par delà l'<c id='nous'>Intellect</c> : on ne peut rien en affirmer en propre, et il s'identifie au Bien. Tout en procède par <c id='emanation'>émanation</c>, comme une source qui déborde sans se diviser ni s'appauvrir. Vers lui se fait le retour de l'âme, jusqu'à l'<c id='henosis'>union mystique</c> qui passe la pensée et la dualité.",
+    "en": "For <ph id='plotinus'>Plotinus</ph>, the One is the first principle of all reality, absolutely simple and ineffable, \"beyond being\" and beyond <c id='nous'>Intellect</c>: nothing can properly be affirmed of it, and it is identical with the Good. Everything proceeds from it by <c id='emanation'>emanation</c>, like a source that overflows without dividing or diminishing itself. Toward it the soul makes its return, up to the <c id='henosis'>mystical union</c> that surpasses thought and duality."
+  },
+  "relatedAxes": ["TRANSCENDENCE", "GOD_EXISTENCE"],
+  "relatedTerms": ["emanation", "nous", "henosis", "hypostasis"],
+  "figure": { "slug": "plotinus", "name": { "fr": "Plotin", "en": "Plotinus" } },
+  "positions": [
+    { "axisId": "TRANSCENDENCE", "poleId": "TRANSCENDENCE" },
+    { "axisId": "GOD_EXISTENCE", "poleId": "THEISM" }
+  ],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

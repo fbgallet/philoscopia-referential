@@ -1,0 +1,12 @@
+{
+  "id": "social-realism-grounds-alienation",
+  "ground": { "axisId": "SOCIAL_IDENTITY", "poleId": "SOCIAL_REALISM" },
+  "grounded": { "axisId": "WORK_MEANING", "poleId": "ALIENATION" },
+  "kind": "T_T",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si les catégories sociales comme la classe sont des réalités matérielles objectives, et non de simples idées, alors le rapport de production peut réellement déposséder le travailleur de son activité et de lui-même. Le réalisme social fonde l'aliénation : <ph id='marx'>Marx</ph> montre comment, sous le salariat, le travail devient étranger à celui qui l'accomplit.",
+    "en": "If social categories like class are objective material realities, and not mere ideas, then the relation of production can genuinely dispossess the worker of their activity and of themselves. Social realism grounds alienation: <ph id='marx'>Marx</ph> shows how, under wage labour, work becomes foreign to the one who performs it."
+  },
+  "updatedAt": "2026-06-22T00:00:00.000Z"
+}

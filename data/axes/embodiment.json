@@ -1,0 +1,95 @@
+{
+  "id": "EMBODIMENT",
+  "relation": "SELF",
+  "territory": "BODY_LIFE",
+  "label": {
+    "fr": "Être ou avoir un corps",
+    "en": "Being or having a body"
+  },
+  "question": {
+    "fr": "Suis-je mon corps, ou ai-je un corps ?",
+    "en": "Am I my body, or do I have a body?"
+  },
+  "stakes": {
+    "fr": "Tenir le corps pour un instrument, c'est pouvoir s'en distancier, le réparer, le quitter en pensée ; s'y identifier, c'est que rien de moi ne subsiste quand il souffre ou s'épuise. Notre rapport à la maladie, au plaisir, au vieillissement et à notre propre animalité se décide ici.",
+    "en": "To treat the body as an instrument is to be able to stand back from it, repair it, leave it behind in thought; to identify with it is for nothing of me to remain when it suffers or wears out. Our relation to illness, to pleasure, to ageing and to our own animality is decided here."
+  },
+  "layer": "THEORY",
+  "type": "BIPOLAR_MEDIAN",
+  "poles": [
+    {
+      "id": "BODY_AS_INSTRUMENT",
+      "label": {
+        "fr": "Corps-instrument",
+        "en": "The body as instrument"
+      },
+      "description": {
+        "fr": "Le moi véritable est l'esprit, l'âme ou la pensée ; le corps est un véhicule, parfois une prison, que j'utilise et que je peux considérer comme un objet distinct de moi. Je « possède » un corps plus que je ne le suis.",
+        "en": "The true self is the mind, the soul or thought; the body is a vehicle, sometimes a prison, that I use and can regard as an object distinct from me. I \"have\" a body more than I am one."
+      },
+      "figures": [
+        {
+          "slug": "plato",
+          "name": { "fr": "Platon", "en": "Plato" }
+        },
+        {
+          "slug": "descartes",
+          "name": { "fr": "Descartes", "en": "Descartes" }
+        }
+      ],
+      "nuances": [
+        {
+          "fr": "Descartes a pourtant insisté, dans ses derniers écrits, sur une véritable union de l'âme et du corps, au-delà du simple pilote dans son navire.",
+          "en": "Descartes nonetheless insisted, in his later writings, on a genuine union of soul and body, beyond the mere pilot in a ship."
+        }
+      ]
+    },
+    {
+      "id": "LIVED_BODY",
+      "label": {
+        "fr": "Corps-sujet",
+        "en": "The lived body"
+      },
+      "description": {
+        "fr": "Je ne suis pas un esprit logé dans une machine : je suis ce corps vivant qui perçoit, agit et habite le monde. La pensée elle-même naît de cet ancrage charnel et de notre condition d'organisme animal façonné par l'évolution.",
+        "en": "I am not a mind housed in a machine: I am this living body that perceives, acts and inhabits the world. Thought itself arises from this carnal anchoring and from our condition as an animal organism shaped by evolution."
+      },
+      "figures": [
+        {
+          "slug": "merleau-ponty",
+          "name": { "fr": "Merleau-Ponty", "en": "Merleau-Ponty" }
+        },
+        {
+          "slug": "nietzsche",
+          "name": { "fr": "Nietzsche", "en": "Nietzsche" }
+        },
+        {
+          "slug": "varela",
+          "name": { "fr": "Varela", "en": "Varela" }
+        }
+      ],
+      "nuances": [
+        {
+          "fr": "Varela relève surtout de l'énaction, le couplage de l'organisme et de son monde, plus que de la thèse « je suis mon corps » au sens strict.",
+          "en": "Varela belongs above all to enaction, the coupling of organism and world, more than to the strict \"I am my body\" thesis."
+        }
+      ]
+    }
+  ],
+  "medianLabel": {
+    "fr": "Union de l'âme et du corps",
+    "en": "Soul-body union"
+  },
+  "medianDescription": {
+    "fr": "Je ne suis ni un esprit qui pilote un corps-machine, ni un pur organisme. Âme et corps forment une union si étroite que je ne fais qu'un avec lui : je suis mon corps autant que je l'ai. C'est par lui que j'éprouve, j'agis et j'habite le monde.",
+    "en": "I am neither a mind steering a body-machine nor a mere organism. Soul and body form a union so close that I am one with it: I am my body as much as I have it. It is through my body that I feel, act and inhabit the world."
+  },
+  "core": false,
+  "difficulty": 2,
+  "clusters": [],
+  "relatedAxes": [
+    "SELF_NATURE",
+    "REALITY_NATURE",
+    "BODILY_PLEASURES"
+  ]
+}

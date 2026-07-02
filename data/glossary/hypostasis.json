@@ -1,0 +1,11 @@
+{
+  "id": "hypostasis",
+  "term": { "fr": "Hypostase", "en": "Hypostasis" },
+  "definition": {
+    "fr": "Une hypostase <ety>du grec hupostasis, ce qui se tient dessous, fondement, subsistance</ety> est un niveau de réalité qui subsiste réellement, une substance au sens fort. Dans le néoplatonisme de <ph id='plotinus'>Plotin</ph>, le terme désigne les trois principes hiérarchisés qui structurent tout le réel : l'<c id='the-one'>Un</c>, l'<c id='nous'>Intellect</c> et l'<c id='world-soul'>Âme</c>, chacun procédant du précédent par <c id='emanation'>émanation</c>. La théologie chrétienne reprendra le mot pour penser les trois personnes de la Trinité.",
+    "en": "A hypostasis <ety>from the Greek hupostasis, that which stands beneath, ground, subsistence</ety> is a level of reality that really subsists, a substance in the strong sense. In the Neoplatonism of <ph id='plotinus'>Plotinus</ph>, the term designates the three hierarchical principles that structure all reality: the <c id='the-one'>One</c>, <c id='nous'>Intellect</c>, and the <c id='world-soul'>Soul</c>, each proceeding from the previous one by <c id='emanation'>emanation</c>. Christian theology would borrow the word to think the three persons of the Trinity."
+  },
+  "relatedAxes": ["REALITY_NATURE", "TRANSCENDENCE"],
+  "relatedTerms": ["the-one", "nous", "world-soul", "emanation"],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

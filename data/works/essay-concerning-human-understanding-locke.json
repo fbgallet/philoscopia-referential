@@ -1,0 +1,11 @@
+{
+  "id": "essay-concerning-human-understanding-locke",
+  "title": { "fr": "Essai sur l'entendement humain", "en": "Essay Concerning Human Understanding" },
+  "author": { "slug": "locke", "name": { "fr": "John Locke", "en": "John Locke" } },
+  "year": 1689,
+  "presentation": {
+    "fr": "L'œuvre fondatrice de l'empirisme classique, où Locke réfute les <c id='innate-ideas'>idées innées</c> et soutient que l'esprit est à l'origine une <c id='tabula-rasa'>table rase</c> que seule l'expérience remplit. Il y trace aussi les bornes de l'entendement et fonde l'<kw>identité personnelle</kw> sur la continuité de la conscience.",
+    "en": "The founding work of classical empiricism, in which Locke refutes <c id='innate-ideas'>innate ideas</c> and holds that the mind is originally a <c id='tabula-rasa'>blank slate</c> filled only by experience. He also maps the bounds of the understanding and grounds <kw>personal identity</kw> in the continuity of consciousness."
+  },
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

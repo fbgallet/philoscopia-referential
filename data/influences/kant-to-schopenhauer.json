@@ -1,0 +1,16 @@
+{
+  "id": "kant-to-schopenhauer",
+  "from": { "kind": "PHILOSOPHER", "slug": "kant" },
+  "to": { "kind": "PHILOSOPHER", "slug": "schopenhauer" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='schopenhauer'>Schopenhauer</ph> adopte le partage kantien entre <c>phénomène</c> et chose en soi, mais identifie cette dernière à la <c>volonté</c> : une poussée aveugle et sans fin dont le monde des représentations n'est que la manifestation.",
+    "en": "<ph id='schopenhauer'>Schopenhauer</ph> adopts the Kantian division between <c>appearance</c> and thing-in-itself, but identifies the latter with the <c>will</c>: a blind, endless striving of which the world of representations is only the manifestation."
+  },
+  "sources": [
+    { "fr": "Schopenhauer, Le Monde comme volonté et représentation (1818)", "en": "Schopenhauer, The World as Will and Representation (1818)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

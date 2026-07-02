@@ -1,0 +1,12 @@
+{
+  "id": "social-construction-grounds-knowledge-constructivism",
+  "ground": { "axisId": "SOCIAL_IDENTITY", "poleId": "SOCIAL_CONSTRUCTION" },
+  "grounded": { "axisId": "KNOWLEDGE_STATUS", "poleId": "CONSTRUCTIVISM" },
+  "kind": "T_T",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si les catégories par lesquelles nous pensons sont des produits contingents de l'histoire et des rapports de pouvoir, le savoir lui-même n'échappe pas à cette emprise. Le constructionnisme social fonde le constructivisme du savoir : <ph id='foucault'>Foucault</ph> montre que chaque époque détermine, par ses discours et ses institutions, ce qui peut y être tenu pour vrai.",
+    "en": "If the categories through which we think are contingent products of history and power relations, knowledge itself does not escape that grip. Social constructionism grounds constructivism about knowledge: <ph id='foucault'>Foucault</ph> shows that each era determines, through its discourses and institutions, what may there be held to be true."
+  },
+  "updatedAt": "2026-06-22T00:00:00.000Z"
+}

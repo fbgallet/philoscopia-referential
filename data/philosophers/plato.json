@@ -1,0 +1,1025 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "plato",
+  "name": {
+    "fr": "Platon",
+    "en": "Plato"
+  },
+  "tagline": {
+    "fr": "Le monde sensible n'est qu'une ombre : le réel et le bien sont les <c id='theory-of-forms'>Idées</c>.",
+    "en": "The sensible world is but a shadow: the real and the good are the <c id='theory-of-forms'>Forms</c>."
+  },
+  "summary": {
+    "fr": "Athénien né dans une famille aristocratique, disciple de <ph>Socrate</ph> dont la condamnation à mort le détourna de la carrière politique, Platon (vers 428-348 av. J.-C.) fonde vers 387 l'Académie, qui survivra près de neuf siècles. Tout son œuvre est écrite en dialogues, où la voix de Socrate mène l'enquête : ce choix littéraire fait de la <c>dialectique</c>, l'examen contradictoire des opinions, la méthode même de la philosophie. Il y affronte le défi des <per>sophistes</per> et du <pb>relativisme</pb> de son temps, la question « comment vivre et gouverner justement ? » héritée du procès de Socrate, et celle d'un savoir stable dans un monde changeant. De la <w id='republic-plato'>République</w> au <w id='timaeus-plato'>Timée</w> et aux <w id='laws-plato'>Lois</w>, son influence est telle que toute la tradition occidentale a pu être lue, selon le mot de Whitehead, comme « une série de notes en bas de page à Platon ».",
+    "en": "An Athenian born into an aristocratic family, a disciple of <ph>Socrates</ph> whose execution turned him away from a political career, Plato (c. 428-348 BCE) founded the Academy around 387, an institution that would last nearly nine centuries. His entire work is written in dialogues, with Socrates' voice leading the inquiry: this literary choice makes <c>dialectic</c>, the contradictory examination of opinions, the very method of philosophy. In them he confronts the challenge of the <per>sophists</per> and the <pb>relativism</pb> of his day, the question \"how should one live and govern justly?\" inherited from Socrates' trial, and the problem of stable knowledge in a changing world. From the <w id='republic-plato'>Republic</w> to the <w id='timaeus-plato'>Timaeus</w> and the <w id='laws-plato'>Laws</w>, his influence is such that the whole Western tradition has been read, in Whitehead's phrase, as \"a series of footnotes to Plato\"."
+  },
+  "birth": -428,
+  "death": -348,
+  "nationality": {
+    "fr": "Grec",
+    "en": "Greek"
+  },
+  "movements": [
+    "platonism"
+  ],
+  "entries": [
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Platon ne tient pas la souffrance pour un simple mal à fuir : le juste <c>châtiment</c> est un remède qui guérit l'âme de l'injustice, et il vaut mieux le subir que d'y échapper. Plus largement, l'accès au vrai exige un arrachement douloureux au sensible, l'ascension hors de la caverne éblouissant d'abord celui qu'on délivre : l'épreuve a une vertu purificatrice et formatrice.",
+          "en": "Plato does not hold suffering to be a mere evil to flee: just <c>punishment</c> is a remedy that heals the soul of injustice, and it is better to undergo it than to escape it. More broadly, access to the true demands a painful tearing away from the sensible, the ascent out of the cave at first dazzling the one set free: ordeal has a purifying and forming virtue."
+        },
+        "references": [
+          {
+            "fr": "Gorgias, 476-479",
+            "en": "Gorgias, 476-479"
+          },
+          {
+            "fr": "République, VII (allégorie de la caverne)",
+            "en": "Republic, VII (allegory of the cave)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -1
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Platon est l'une des sources majeures de l'essentialisme : chaque chose sensible n'est ce qu'elle est qu'en participant à une <kw>Forme</kw> intelligible, éternelle et immuable, qui constitue son essence véritable. La <c id='theory-of-forms'>théorie des Idées</c>, surtout dans le <w id='phaedo-plato'>Phédon</w> et la <w id='republic-plato'>République</w>, fait de l'essence un être séparé, antérieur et supérieur à l'existence individuelle.",
+          "en": "Plato is one of the major sources of essentialism: each sensible thing is what it is only by participating in an intelligible, eternal and immutable <kw>Form</kw> that constitutes its true essence. The <c id='theory-of-forms'>theory of Forms</c>, especially in the <w id='phaedo-plato'>Phaedo</w> and the <w id='republic-plato'>Republic</w>, makes essence a separate being, prior and superior to individual existence."
+        },
+        "references": [
+          {
+            "fr": "Phédon, 74a-75d",
+            "en": "Phaedo, 74a-75d"
+          },
+          {
+            "fr": "République, V, 476a-480a",
+            "en": "Republic, V, 476a-480a"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.7,
+          0.3
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'argument part d'un <pb>constat</pb> hérité d'Héraclite : le sensible est en flux perpétuel, et de ce qui ne cesse de devenir on ne peut avoir de science. Si pourtant nous connaissons l'égal, le juste, le cercle, c'est qu'il existe des objets stables et intelligibles dont les choses sensibles ne sont que des reflets imparfaits : voilà le degré supérieur de réalité. L'allégorie de la caverne, où les prisonniers prennent les ombres pour le réel, dramatise ce <c id='transcendence'>renversement</c>. Subsiste pourtant un <dif>dualisme</dif> que Platon ne résorbe pas, deux ordres distincts maintenus côte à côte, dont le rapport de « participation » demeure problématique, comme il le reconnaît lui-même dans le <w>Parménide</w>.",
+          "en": "The argument starts from a <pb>premise</pb> inherited from Heraclitus: the sensible is in perpetual flux, and of what never ceases to become there can be no science. Yet since we do know the equal, the just, the circle, there must exist stable, intelligible objects of which sensible things are only imperfect reflections: this is the higher degree of reality. The allegory of the cave, where prisoners take shadows for the real, dramatizes this <c id='transcendence'>reversal</c>. A <dif>dualism</dif> Plato never dissolves remains, two distinct orders held side by side, whose relation of \"participation\" stays problematic, as he himself concedes in the <w>Parmenides</w>."
+        },
+        "references": [
+          {
+            "fr": "République, VII, 514a-518b (allégorie de la caverne)",
+            "en": "Republic, VII, 514a-518b (allegory of the cave)"
+          },
+          {
+            "fr": "Timée, 27d-29d",
+            "en": "Timaeus, 27d-29d"
+          }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "De telles personnes ne tiendraient-elles pas pour la réalité rien d'autre que les ombres des objets fabriqués ?",
+            "en": "To them, would not the truth be literally nothing but the shadows of the artificial objects?"
+          },
+          "source": {
+            "fr": "République, VII, 515c",
+            "en": "Republic, VII, 515c"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si l'âme connaît l'intelligible éternel et immuable, c'est qu'elle lui est apparentée : ce qui saisit le simple doit être simple aussi. De cette parenté Platon conclut que le moi véritable n'est pas le composé corporel mais l'âme, substance immatérielle qui préexiste à la naissance et survit à la mort. L'<w>Alcibiade</w> radicalise le partage : l'homme n'est ni son corps ni le composé des deux, il « est » son âme, le corps n'étant qu'un instrument dont elle se sert. Cette identification de la personne à une <ax id='SELF_NATURE'>substance</ax> séparable, contre l'idée d'un soi tributaire de l'incarnation, fonde toute la psychologie et l'eschatologie platoniciennes.",
+          "en": "If the soul knows the eternal and unchanging intelligible, it is because it is akin to it: what grasps the simple must itself be simple. From this kinship Plato concludes that the true self is not the bodily composite but the soul, an immaterial substance that preexists birth and survives death. The <w>Alcibiades</w> sharpens the divide: a person is neither the body nor the compound of both, but \"is\" the soul, the body being merely an instrument it uses. This identification of the person with a separable <ax id='SELF_NATURE'>substance</ax>, against any self bound up with embodiment, grounds the whole of Platonic psychology and eschatology."
+        },
+        "references": [
+          {
+            "fr": "Phédon, 78b-80b",
+            "en": "Phaedo, 78b-80b"
+          },
+          {
+            "fr": "Alcibiade, 129e-130c",
+            "en": "Alcibiades, 129e-130c"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'analogie du soleil porte l'argument : de même que le soleil rend les choses visibles et les fait croître, le Bien donne aux Idées d'être connues et d'être tout court. Comme cause à la fois de l'intelligibilité et de l'existence, le Bien ne peut être lui-même une essence parmi d'autres : il les surpasse, situé « par delà l'essence ». Platon pousse ainsi la <c id='transcendence'>transcendance</c> à son point extrême, à l'opposé d'une <c id='immanence'>immanence</c> qui logerait le principe dans le monde, et fait de toute la dialectique une ascension, hors de la caverne, vers ce principe séparé que l'âme ne contemple qu'au prix d'une conversion du regard.",
+          "en": "The analogy of the sun carries the argument: just as the sun makes things visible and makes them grow, the Good gives the Forms their being known and their being at all. As the cause of both intelligibility and existence, the Good cannot itself be one essence among others: it surpasses them, set \"beyond essence\". Plato thus pushes <c id='transcendence'>transcendence</c> to its extreme, against any <c id='immanence'>immanence</c> that would lodge the principle within the world, and makes the whole of dialectic an ascent, out of the cave, toward this separate principle that the soul beholds only at the price of a conversion of its gaze."
+        },
+        "references": [
+          {
+            "fr": "République, VI, 508e-509b",
+            "en": "Republic, VI, 508e-509b"
+          },
+          {
+            "fr": "Banquet, 210a-212a",
+            "en": "Symposium, 210a-212a"
+          }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "Le Bien n'est pas l'essence, mais bien au-dessus d'elle, la surpassant en dignité et en puissance.",
+            "en": "The Good is not essence, but still transcends essence in dignity and power."
+          },
+          "source": {
+            "fr": "République, VI, 509b",
+            "en": "Republic, VI, 509b"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La doctrine répond au <pb>paradoxe du Ménon</pb> : on ne peut chercher ni ce qu'on sait déjà, ni ce qu'on ignore, faute de pouvoir le reconnaître. Platon en tire que tout apprentissage doit être un ressouvenir, l'<c id='anamnesis'>anamnèse</c>, de Formes que l'âme a contemplées avant la naissance. La preuve est expérimentale, non assertée : interrogé selon la seule méthode des questions, l'esclave du <w id='meno-plato'>Ménon</w>, qui n'a jamais appris la géométrie, retrouve de lui-même un théorème, ce qui exclut qu'il l'ait reçu des sens. La connaissance vient donc du dedans, de la raison tournée vers l'intelligible, contre tout empirisme.",
+          "en": "The doctrine answers the <pb>paradox of the Meno</pb>: one can seek neither what one already knows nor what one wholly ignores, having no way to recognize it. Plato concludes that all learning must be a recollection, <c id='anamnesis'>anamnesis</c>, of Forms the soul contemplated before birth. The proof is experimental, not asserted: questioned by the method of questions alone, the slave boy of the <w id='meno-plato'>Meno</w>, who never learned geometry, recovers a theorem on his own, which rules out his having received it through the senses. Knowledge therefore comes from within, from reason turned toward the intelligible, against all empiricism."
+        },
+        "references": [
+          {
+            "fr": "Ménon, 81a-86c",
+            "en": "Meno, 81a-86c"
+          },
+          {
+            "fr": "Phédon, 72e-77a",
+            "en": "Phaedo, 72e-77a"
+          }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "Chercher et apprendre ne sont donc, au total, que réminiscence.",
+            "en": "Seeking and learning are in fact nothing but recollection."
+          },
+          "source": {
+            "fr": "Ménon, 81d",
+            "en": "Meno, 81d"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Contre le <pb>relativisme sophistique</pb>, Platon affirme, surtout dans les dialogues centraux, qu'un savoir stable, l'<kw>épistémè</kw>, est possible : il porte sur les Idées et se distingue rigoureusement de la simple opinion, la <kw>doxa</kw>, variable et sans fondement. Cette confiance dans une science de l'être le rapproche du <c id='dogmatism'>dogmatisme</c>, même si la forme interrogative des dialogues tempère toute systématisation.",
+          "en": "Against <pb>sophistic relativism</pb>, Plato holds, especially in the central dialogues, that stable knowledge, <kw>epistēmē</kw>, is possible: it bears on the Forms and is rigorously distinct from mere opinion, <kw>doxa</kw>, shifting and groundless. This confidence in a science of being brings him close to <c id='dogmatism'>dogmatism</c>, even if the interrogative form of the dialogues tempers any systematisation."
+        },
+        "references": [
+          {
+            "fr": "République, V, 476d-480a",
+            "en": "Republic, V, 476d-480a"
+          },
+          {
+            "fr": "Théétète, 187a-201c",
+            "en": "Theaetetus, 187a-201c"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.25,
+          0.75
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le souverain bien est l'assimilation au divin par la contemplation du Bien et la justice de l'âme, un perfectionnisme moral où l'existence ordonnée selon la vertu vaut par elle-même. La dimension <c id='eudaimonism'>eudémoniste</c> subsiste, car cette vie de l'âme juste est présentée comme la plus heureuse, le plaisir restant subordonné et trompeur.",
+          "en": "The sovereign good is likeness to the divine through contemplation of the Good and the justice of the soul, a moral perfectionism in which a life ordered by virtue is worth choosing for itself. A <c id='eudaimonism'>eudaimonist</c> dimension remains, since this life of the just soul is presented as the happiest, with pleasure kept subordinate and deceptive."
+        },
+        "references": [
+          {
+            "fr": "République, IX, 580a-588a",
+            "en": "Republic, IX, 580a-588a"
+          },
+          {
+            "fr": "Théétète, 176a-b",
+            "en": "Theaetetus, 176a-b"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le <w id='timaeus-plato'>Timée</w> présente un <kw>Démiurge</kw>, dieu artisan et bon, qui ordonne le monde en regardant les Idées comme des modèles ; les <w id='laws-plato'>Lois</w> affirment l'existence des dieux et la providence contre l'athéisme. Ce théisme rationnel et impersonnel, sans création ex nihilo ni dieu unique au sens monothéiste, retient d'un score extrême.",
+          "en": "The <w id='timaeus-plato'>Timaeus</w> presents a <kw>Demiurge</kw>, a good craftsman-god who orders the world by looking to the Forms as models; the <w id='laws-plato'>Laws</w> assert the existence of gods and providence against atheism. This rational, impersonal theism, with no creation ex nihilo and no single God in the monotheist sense, holds the score back from the extreme."
+        },
+        "references": [
+          {
+            "fr": "Timée, 28a-30c",
+            "en": "Timaeus, 28a-30c"
+          },
+          {
+            "fr": "Lois, X, 885b-907d",
+            "en": "Laws, X, 885b-907d"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0, 0, 1, 0]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le <w id='phaedo-plato'>Phédon</w> ne pose pas la survie, il l'argumente, par quatre preuves enchaînées : la génération des contraires, l'<c id='anamnesis'>anamnèse</c> qui suppose une connaissance antérieure à la naissance, l'affinité de l'âme avec l'intelligible simple et indestructible, enfin l'argument de l'essence, l'âme portant en elle la vie ne pouvant admettre son contraire. Le raisonnement s'appuie sur le <ax id='SELF_NATURE'>dualisme</ax> de l'âme et du corps : ce qui est simple ne se décompose pas, donc ne périt pas. La mort cesse alors d'être un anéantissement pour devenir le passage de l'âme vers l'intelligible, et la philosophie elle-même, comme détachement du corps, en est l'apprentissage anticipé.",
+          "en": "The <w id='phaedo-plato'>Phaedo</w> does not posit survival, it argues for it, through four linked proofs: the generation of opposites, <c id='anamnesis'>recollection</c> which presupposes knowledge prior to birth, the soul's affinity with the simple and indestructible intelligible, and finally the essence argument, the soul that carries life within it being unable to admit its contrary. The reasoning rests on the <ax id='SELF_NATURE'>dualism</ax> of soul and body: what is simple does not decompose, hence does not perish. Death then ceases to be annihilation and becomes the soul's passage toward the intelligible, and philosophy itself, as detachment from the body, is its anticipated rehearsal."
+        },
+        "references": [
+          {
+            "fr": "Phédon, 64a, 102a-107b",
+            "en": "Phaedo, 64a, 102a-107b"
+          },
+          {
+            "fr": "République, X, 614a-621d (mythe d'Er)",
+            "en": "Republic, X, 614a-621d (myth of Er)"
+          }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "Ceux qui s'attachent droitement à la philosophie s'exercent à mourir.",
+            "en": "Those who practise philosophy in the right way are in training for dying."
+          },
+          "source": {
+            "fr": "Phédon, 67e",
+            "en": "Phaedo, 67e"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "BODILY_PLEASURES",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le dualisme âme-corps invite à se détacher des plaisirs du corps, qui « clouent » l'âme au sensible et l'empêchent de connaître : le philosophe les réduit autant que possible. La position reste mesurée, car le <w id='philebus-plato'>Philèbe</w> accorde une place aux plaisirs purs et vrais dans une vie mêlée bien ordonnée.",
+          "en": "The soul-body dualism calls for detachment from bodily pleasures, which \"rivet\" the soul to the sensible and hinder knowledge: the philosopher reduces them as far as possible. The stance stays measured, for the <w id='philebus-plato'>Philebus</w> grants a place to pure, true pleasures within a well-ordered mixed life."
+        },
+        "references": [
+          {
+            "fr": "Phédon, 64c-67b, 82e-83d",
+            "en": "Phaedo, 64c-67b, 82e-83d"
+          },
+          {
+            "fr": "Philèbe, 63e-64a",
+            "en": "Philebus, 63e-64a"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "LOVE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.85,
+          0.15,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Dans le <w id='symposium-plato'>Banquet</w>, Diotime définit l'éros comme désir né du manque : enfant de Pénia (la Pauvreté) et de Poros (l'Expédient), l'amour désire ce qu'il n'a pas et tend à le posséder. Cet élan ascensionnel s'élève des beaux corps jusqu'à la Beauté en soi, ce qui donne un poids résiduel au don.",
+          "en": "In the <w id='symposium-plato'>Symposium</w>, Diotima defines erōs as desire born of lack: child of Penia (Poverty) and Poros (Resource), love desires what it does not have and strives to possess it. This upward drive rises from beautiful bodies to Beauty itself, which lends a residual weight to gift."
+        },
+        "references": [
+          {
+            "fr": "Banquet, 199c-204c",
+            "en": "Symposium, 199c-204c"
+          },
+          {
+            "fr": "Phèdre, 244a-257b",
+            "en": "Phaedrus, 244a-257b"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "BEAUTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -1
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La beauté n'est ni une affaire de goût ni un attribut des choses : il existe une <kw>Forme du Beau</kw>, éternelle, absolue, qui ne naît ni ne périt, et à laquelle les belles choses participent. C'est l'objectivisme esthétique à son point le plus pur, terme de l'ascension amoureuse du <w id='symposium-plato'>Banquet</w>.",
+          "en": "Beauty is neither a matter of taste nor an attribute of things: there exists a <kw>Form of the Beautiful</kw>, eternal and absolute, which neither comes to be nor perishes, and in which beautiful things participate. This is aesthetic objectivism at its purest, the terminus of the erotic ascent of the <w id='symposium-plato'>Symposium</w>."
+        },
+        "references": [
+          {
+            "fr": "Banquet, 210e-211b",
+            "en": "Symposium, 210e-211b"
+          },
+          {
+            "fr": "Hippias majeur, 287c-289d",
+            "en": "Greater Hippias, 287c-289d"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "POLITICAL_IDEAL",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La <w id='republic-plato'>République</w> construit la cité juste en pensée, modèle idéal réglé sur la Forme du Bien, avec ses trois classes, la communauté des biens et des femmes pour les gardiens, et l'éducation comme art de tourner l'âme. C'est un utopisme normatif assumé : la cité réelle doit se conformer au paradigme, non l'inverse.",
+          "en": "The <w id='republic-plato'>Republic</w> builds the just city in thought, an ideal model ruled by the Form of the Good, with its three classes, community of property and of women among the guardians, and education as the art of turning the soul. This is an avowed normative utopianism: the actual city must conform to the paradigm, not the reverse."
+        },
+        "references": [
+          {
+            "fr": "République, II-V, 369a-473e",
+            "en": "Republic, II-V, 369a-473e"
+          },
+          {
+            "fr": "République, IX, 592a-b",
+            "en": "Republic, IX, 592a-b"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "WHO_DECIDES",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'argument procède par analogie avec les <kw>technai</kw>, les arts : on ne confie pas le gouvernail au nombre mais au pilote qui sait, et l'on jugerait fou un navire où l'équipage choisirait son capitaine à la voix. Gouverner est de même un savoir, celui du Bien et de la justice, qui ne s'acquiert qu'au terme d'une longue éducation. Platon en déduit, contre la <ax id='WHO_DECIDES'>démocratie</ax> athénienne qui a condamné <ph>Socrate</ph>, que l'autorité doit revenir à la compétence et non à l'opinion du plus grand nombre. La thèse est d'autant plus tranchante qu'elle s'attaque au régime dominant de sa cité.",
+          "en": "The argument proceeds by analogy with the <kw>technai</kw>, the crafts: one entrusts the helm not to the many but to the pilot who knows, and a ship where the crew elected its captain by acclamation would be deemed mad. Governing is likewise a knowledge, that of the Good and of justice, acquired only through a long education. From this Plato infers, against the Athenian <ax id='WHO_DECIDES'>democracy</ax> that condemned <ph>Socrates</ph>, that authority must fall to competence and not to the opinion of the greater number. The thesis cuts all the deeper for striking at his own city's ruling regime."
+        },
+        "references": [
+          {
+            "fr": "République, V, 473c-e",
+            "en": "Republic, V, 473c-e"
+          },
+          {
+            "fr": "République, VI, 488a-489d (métaphore du navire)",
+            "en": "Republic, VI, 488a-489d (the ship metaphor)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ART_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'art est <kw>mimèsis</kw>, imitation : le peintre et le poète copient les choses sensibles, qui sont elles-mêmes des copies des Idées, produisant ainsi une image au troisième degré, éloignée du vrai. Cette définition de l'art comme reproduction, et non création, fonde la critique des poètes et leur bannissement de la cité.",
+          "en": "Art is <kw>mimēsis</kw>, imitation: painter and poet copy sensible things, which are themselves copies of the Forms, thus producing an image at the third remove, far from the truth. This definition of art as reproduction, not creation, grounds the critique of the poets and their banishment from the city."
+        },
+        "references": [
+          {
+            "fr": "République, X, 595a-602c",
+            "en": "Republic, X, 595a-602c"
+          },
+          {
+            "fr": "Sophiste, 235d-236c",
+            "en": "Sophist, 235d-236c"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0,
+          1,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'éthique platonicienne est une éthique des vertus : le bien de l'homme tient à l'état de son âme, et la <kw>justice</kw> est définie comme l'harmonie de ses trois parties, chacune accomplissant sa fonction propre sous la conduite de la raison. La vie bonne n'est pas affaire de règles ni de calcul des conséquences, mais d'un caractère ordonné et vertueux.",
+          "en": "Platonic ethics is an ethics of virtue: a person's good lies in the state of the soul, and <kw>justice</kw> is defined as the harmony of its three parts, each performing its own function under the rule of reason. The good life is not a matter of rules or of calculating consequences but of an ordered, virtuous character."
+        },
+        "references": [
+          {
+            "fr": "République, IV, 441c-444e",
+            "en": "Republic, IV, 441c-444e"
+          },
+          {
+            "fr": "Gorgias, 506c-508c",
+            "en": "Gorgias, 506c-508c"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          1,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Contre le relativisme de Protagoras, pour qui « l'homme est la mesure de toutes choses », Platon fonde les valeurs sur des Formes objectives, le <kw>Juste</kw> en soi et le <kw>Bien</kw> en soi, qui ne dépendent ni des conventions ni des opinions. Le bien et le juste sont universels et réels, connaissables par la raison.",
+          "en": "Against the relativism of Protagoras, for whom \"man is the measure of all things\", Plato grounds values in objective Forms, the <kw>Just</kw> itself and the <kw>Good</kw> itself, which depend on neither convention nor opinion. Good and justice are universal and real, knowable by reason."
+        },
+        "references": [
+          {
+            "fr": "Théétète, 152a, 170a-172b",
+            "en": "Theaetetus, 152a, 170a-172b"
+          },
+          {
+            "fr": "République, VI, 504e-509b",
+            "en": "Republic, VI, 504e-509b"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'<c id='tripartite-soul'>âme est tripartite</c> et c'est la raison qui doit gouverner : l'image du <kw>char ailé</kw> du <w id='phaedrus-plato'>Phèdre</w> montre le cocher (l'intellect) maîtrisant le cheval docile (l'ardeur) et le cheval rétif (l'appétit). Les passions ne sont pas des guides mais des forces à discipliner et à ordonner sous le commandement du logos.",
+          "en": "The <c id='tripartite-soul'>soul is tripartite</c> and reason must govern it: the image of the <kw>winged chariot</kw> in the <w id='phaedrus-plato'>Phaedrus</w> shows the charioteer (intellect) mastering the obedient horse (spirit) and the unruly horse (appetite). The passions are not guides but forces to be disciplined and ordered under the command of logos."
+        },
+        "references": [
+          {
+            "fr": "Phèdre, 246a-254e",
+            "en": "Phaedrus, 246a-254e"
+          },
+          {
+            "fr": "République, IV, 439d-441c",
+            "en": "Republic, IV, 439d-441c"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Tout l'ordre des choses est orienté vers le <kw>Bien</kw>, principe et fin de toute réalité : dans le <w id='timaeus-plato'>Timée</w>, le Démiurge façonne le monde aussi beau et bon que possible en regardant le modèle éternel. La vie humaine trouve son sens dans cette téléologie cosmique, en s'assimilant autant que possible au divin et à l'ordre du tout.",
+          "en": "The whole order of things is directed toward the <kw>Good</kw>, the principle and end of all reality: in the <w id='timaeus-plato'>Timaeus</w> the Demiurge fashions the world as beautiful and good as possible by looking to the eternal model. Human life finds its meaning in this cosmic teleology, by becoming as far as possible like the divine and the order of the whole."
+        },
+        "references": [
+          {
+            "fr": "Timée, 29d-30c, 47a-c",
+            "en": "Timaeus, 29d-30c, 47a-c"
+          },
+          {
+            "fr": "République, VI, 505a-b",
+            "en": "Republic, VI, 505a-b"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "INDIVIDUAL_SOCIETY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La <w id='republic-plato'>République</w> étudie la justice d'abord dans la cité, « écriture en gros caractères », pour la déchiffrer ensuite dans l'âme : le tout politique est premier et éclaire la partie individuelle. La cité est un organisme dont chaque classe est un membre, et le bien commun prime sur l'intérêt privé, jusqu'à l'abolition de la propriété et de la famille chez les gardiens.",
+          "en": "The <w id='republic-plato'>Republic</w> examines justice first in the city, \"writ large\", in order then to read it in the soul: the political whole is prior and illuminates the individual part. The city is an organism in which each class is a member, and the common good takes precedence over private interest, to the point of abolishing property and family among the guardians."
+        },
+        "references": [
+          {
+            "fr": "République, II, 368c-369a",
+            "en": "Republic, II, 368c-369a"
+          },
+          {
+            "fr": "République, V, 462a-466d",
+            "en": "Republic, V, 462a-466d"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.4,
+          0.6
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Les appétits forment la partie la plus basse de l'âme et doivent être <kw>maîtrisés</kw> et réduits sous la conduite de la raison, car l'âme livrée à ses désirs devient « un tonneau percé » que rien ne comble. Platon ne prône pas l'extinction du désir mais sa réorientation : l'éros sublimé devient l'élan qui porte l'âme vers le Beau et le Bien.",
+          "en": "The appetites form the lowest part of the soul and must be <kw>mastered</kw> and curtailed under reason's guidance, for a soul given over to its desires becomes a \"leaky jar\" that nothing can fill. Plato preaches not the extinction of desire but its redirection: sublimated erōs becomes the drive that carries the soul toward the Beautiful and the Good."
+        },
+        "references": [
+          {
+            "fr": "Gorgias, 493a-494a",
+            "en": "Gorgias, 493a-494a"
+          },
+          {
+            "fr": "République, IX, 571a-580a",
+            "en": "Republic, IX, 571a-580a"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "AESTHETIC_LIFE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La beauté joue un rôle anagogique unique : elle est la seule Forme qui resplendit dans le sensible et qui, par l'éros, met l'âme en marche vers l'intelligible. Mais elle reste subordonnée au Bien et à la justice : la poésie séduisante est bannie de la cité si elle corrompt l'âme, et le beau ne vaut qu'en tant qu'il conduit au vrai et au bien.",
+          "en": "Beauty plays a unique anagogic role: it is the only Form that shines forth in the sensible and, through erōs, sets the soul moving toward the intelligible. Yet it remains subordinate to the Good and to justice: seductive poetry is banished from the city if it corrupts the soul, and the beautiful is valuable only insofar as it leads to the true and the good."
+        },
+        "references": [
+          {
+            "fr": "Phèdre, 250d-251b",
+            "en": "Phaedrus, 250d-251b"
+          },
+          {
+            "fr": "République, III, 401b-403c",
+            "en": "Republic, III, 401b-403c"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ART_PURPOSE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.5,
+          0.5
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'art n'est jamais jugé sur le plaisir qu'il procure mais sur sa vérité et son effet moral : la poésie mimétique est condamnée parce qu'elle flatte la partie inférieure de l'âme et s'éloigne du vrai. Inversement, la <w id='republic-plato'>République</w> admet une musique et des récits réglés qui forment le caractère et accordent l'âme à l'harmonie, faisant de l'art un instrument de formation.",
+          "en": "Art is never judged by the pleasure it gives but by its truth and its moral effect: mimetic poetry is condemned for flattering the soul's lower part and straying from the truth. Conversely, the <w id='republic-plato'>Republic</w> admits a regulated music and stories that shape character and tune the soul to harmony, making art an instrument of formation."
+        },
+        "references": [
+          {
+            "fr": "République, X, 605a-608b",
+            "en": "Republic, X, 605a-608b"
+          },
+          {
+            "fr": "République, III, 398c-401d",
+            "en": "Republic, III, 398c-401d"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TASTE_HIERARCHY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Il existe une hiérarchie objective des plaisirs et des objets de l'âme : dans la <w id='republic-plato'>République</w>, seul le philosophe, qui a goûté aux trois sortes de plaisirs, peut juger lesquels sont les plus vrais, et son verdict fait des plaisirs de la connaissance les plus hauts. Les plaisirs ne se valent pas, et la compétence à les hiérarchiser n'appartient qu'à l'âme bien réglée.",
+          "en": "There is an objective hierarchy of pleasures and of the soul's objects: in the <w id='republic-plato'>Republic</w>, only the philosopher, who has tasted all three kinds of pleasure, can judge which are truest, and his verdict ranks the pleasures of knowledge highest. Pleasures are not of equal worth, and competence to rank them belongs only to the well-ordered soul."
+        },
+        "references": [
+          {
+            "fr": "République, IX, 580d-583a",
+            "en": "Republic, IX, 580d-583a"
+          },
+          {
+            "fr": "Philèbe, 51a-53c",
+            "en": "Philebus, 51a-53c"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRUTH_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.8,
+          0.2,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La vérité est l'adéquation de l'âme à ce qui est réellement, les Idées : le discours vrai « dit les choses comme elles sont », tandis que le faux les dit autrement qu'elles ne sont. Cette conception, proche d'une correspondance à l'être intelligible, comporte une part de cohérence, la connaissance vraie formant un système dialectique relié au principe du Bien.",
+          "en": "Truth is the soul's correspondence with what really is, the Forms: true discourse \"says of things that they are as they are\", whereas the false says them otherwise than they are. This conception, close to correspondence with intelligible being, carries a coherentist component, true knowledge forming a dialectical system bound to the principle of the Good."
+        },
+        "references": [
+          {
+            "fr": "Sophiste, 262e-263d",
+            "en": "Sophist, 262e-263d"
+          },
+          {
+            "fr": "Cratyle, 385b-c",
+            "en": "Cratylus, 385b-c"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "FAITH_REASON",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          1,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le divin n'est pas l'objet d'une foi opposée à la raison mais se saisit par l'intellect : le Bien et les Idées tiennent lieu de principe divin, et les <w id='laws-plato'>Lois</w> entendent démontrer rationnellement l'existence des dieux. Les mythes (caverne, Er, attelage) ne contredisent pas le logos mais le prolongent là où la démonstration s'arrête, dans une continuité du religieux et du rationnel.",
+          "en": "The divine is not the object of a faith opposed to reason but is grasped by intellect: the Good and the Forms serve as the divine principle, and the <w id='laws-plato'>Laws</w> set out to prove the existence of gods rationally. The myths (the cave, Er, the chariot) do not contradict the logos but extend it where demonstration stops, in a continuity of the religious and the rational."
+        },
+        "references": [
+          {
+            "fr": "Lois, X, 893b-899d",
+            "en": "Laws, X, 893b-899d"
+          },
+          {
+            "fr": "République, VII, 517b-c",
+            "en": "Republic, VII, 517b-c"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DISTRIBUTIVE_JUSTICE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La justice de la cité repose sur une répartition selon la fonction et l'aptitude naturelle de chacun : à chacun la tâche pour laquelle son âme est faite, et la communauté des biens chez les gardiens supprime la richesse privée comme source de discorde. Le principe « à chacun selon sa nature et sa fonction », étranger au mérite marchand, penche vers une distribution fixée par le tout plutôt que par le libre échange.",
+          "en": "The justice of the city rests on a distribution according to each person's function and natural aptitude: to each the task for which the soul is suited, and the community of goods among the guardians abolishes private wealth as a source of discord. This principle of \"to each according to nature and function\", foreign to market desert, leans toward a distribution fixed by the whole rather than by free exchange."
+        },
+        "references": [
+          {
+            "fr": "République, IV, 433a-434c",
+            "en": "Republic, IV, 433a-434c"
+          },
+          {
+            "fr": "République, III, 416d-417b",
+            "en": "Republic, III, 416d-417b"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HUMAN_VISION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'homme ordinaire est prisonnier de la caverne, enchaîné à l'ombre et à l'opinion, et la plupart des âmes sont dominées par les appétits : l'élévation vers le vrai est rare, difficile et réservée à un petit nombre. Sans être un pessimisme noir, cette vision insiste sur l'aveuglement spontané de l'âme, que seule une longue éducation peut redresser.",
+          "en": "The ordinary person is a prisoner in the cave, chained to shadow and opinion, and most souls are ruled by the appetites: the ascent toward the true is rare, hard and reserved for a few. Without being a dark pessimism, this view stresses the soul's spontaneous blindness, which only a long education can set right."
+        },
+        "references": [
+          {
+            "fr": "République, VII, 514a-517a",
+            "en": "Republic, VII, 514a-517a"
+          },
+          {
+            "fr": "Phèdre, 248a-249d",
+            "en": "Phaedrus, 248a-249d"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "WORK_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.2,
+          0,
+          0.8
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La cité naît de ce que nul n'est autosuffisant : la division du travail répond à la nécessité de pourvoir aux besoins, chacun produisant le mieux ce pour quoi sa nature le destine. Le travail artisanal vaut comme fonction au service du tout plus que comme accomplissement de soi, l'épanouissement le plus haut restant réservé à la vie contemplative du philosophe.",
+          "en": "The city arises because no one is self-sufficient: the division of labour answers the necessity of providing for needs, each producing best what nature fits him for. Manual work counts as a function in the service of the whole rather than as self-fulfilment, the highest flourishing being reserved for the philosopher's contemplative life."
+        },
+        "references": [
+          {
+            "fr": "République, II, 369b-371e",
+            "en": "Republic, II, 369b-371e"
+          },
+          {
+            "fr": "République, IV, 421e-423d",
+            "en": "Republic, IV, 421e-423d"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MACHINE_MIND",
+      "status": "NOT_APPLICABLE",
+      "note": {
+        "fr": "Question anachronique : rien dans les dialogues ne permet de positionner Platon sur la pensée des machines sans extrapolation hasardeuse.",
+        "en": "An anachronistic question: nothing in the dialogues allows positioning Plato on machine thought without hazardous extrapolation."
+      }
+    },
+    {
+      "axisId": "UNIVERSALS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.95
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La théorie des Idées est le réalisme des universaux par excellence : le beau, le juste, le cercle existent en soi, hors du sensible, et les choses particulières n'en sont que des reflets imparfaits. L'universel est plus réel que l'individu.",
+          "en": "The theory of Forms is realism about universals par excellence: the beautiful, the just, the circle exist in themselves, beyond the sensible, and particular things are only imperfect reflections of them. The universal is more real than the individual."
+        },
+        "references": [
+          {
+            "fr": "La République, VI-VII ; Phédon",
+            "en": "Republic, VI-VII; Phaedo"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "EMBODIMENT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Dans le <w>Phédon</w>, le corps est le tombeau de l'âme : il l'entrave, la trompe par les sens et la détourne de la contemplation du vrai. Le philosophe s'exerce à mourir, c'est-à-dire à séparer l'âme du corps. Le moi véritable est l'âme.",
+          "en": "In the <w>Phaedo</w>, the body is the tomb of the soul: it hinders it, deceives it through the senses and turns it away from the contemplation of truth. The philosopher practises dying, that is, separating soul from body. The true self is the soul."
+        },
+        "references": [
+          {
+            "fr": "Phédon, 64a-67b",
+            "en": "Phaedo, 64a-67b"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "REALITY_NATURE",
+      "thesis": {
+        "fr": "Le monde sensible n'est pas le vrai réel : derrière lui existent des <c id='theory-of-forms'>Idées</c> intelligibles, éternelles et immuables, dont les choses ne sont que des copies imparfaites.",
+        "en": "The sensible world is not what is truly real: behind it exist intelligible <c id='theory-of-forms'>Forms</c>, eternal and unchanging, of which things are only imperfect copies."
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "thesis": {
+        "fr": "Apprendre, c'est se ressouvenir : par l'<c id='anamnesis'>anamnèse</c>, l'âme retrouve les Idées qu'elle a contemplées avant la naissance, non par les sens mais par la raison.",
+        "en": "To learn is to recollect: through <c id='anamnesis'>anamnesis</c>, the soul recovers the Forms it contemplated before birth, not by the senses but by reason."
+      }
+    },
+    {
+      "axisId": "WHO_DECIDES",
+      "thesis": {
+        "fr": "Gouverner est un savoir, non une affaire d'opinion : tant que les philosophes ne seront pas rois, les cités ne cesseront pas leurs maux.",
+        "en": "Governing is a knowledge, not a matter of opinion: until philosophers become kings, cities will not cease from their ills."
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "thesis": {
+        "fr": "L'âme est immortelle : la mort n'est pas un anéantissement mais sa séparation d'avec le corps, et bien philosopher, c'est s'exercer à mourir.",
+        "en": "The soul is immortal: death is no annihilation but its separation from the body, and to philosophize rightly is to practise dying."
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "thesis": {
+        "fr": "Le moi véritable n'est pas le corps mais l'âme, substance simple et immatérielle dont le corps n'est qu'un instrument provisoire.",
+        "en": "The true self is not the body but the soul, a simple, immaterial substance for which the body is only a provisional instrument."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

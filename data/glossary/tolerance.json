@@ -1,0 +1,14 @@
+{
+  "id": "tolerance",
+  "term": { "fr": "La tolérance", "en": "Tolerance" },
+  "definition": {
+    "fr": "La tolérance est le refus de contraindre les consciences : nul ne doit être persécuté pour ses croyances ou ses opinions, en matière religieuse d'abord. <ph id='locke'>Locke</ph> en donne l'argument dans la Lettre sur la tolérance, la foi ne se commande pas et le salut ne relève pas de l'État ; <ph id='voltaire'>Voltaire</ph> en fait un combat contre le fanatisme. Valeur cardinale des <mv id='enlightenment'>Lumières</mv>, elle prépare la liberté de conscience et la séparation du civil et du religieux. La tolérance n'est pas l'indifférence : on peut désapprouver une opinion et défendre le droit de l'exprimer.",
+    "en": "Tolerance is the refusal to coerce consciences: no one should be persecuted for their beliefs or opinions, first of all in religious matters. <ph id='locke'>Locke</ph> gives the argument in A Letter Concerning Toleration, faith cannot be commanded and salvation is no business of the state; <ph id='voltaire'>Voltaire</ph> makes it a battle against fanaticism. A cardinal value of the <mv id='enlightenment'>Enlightenment</mv>, it prepares freedom of conscience and the separation of the civil from the religious. Tolerance is not indifference: one may disapprove of an opinion and defend the right to express it."
+  },
+  "relatedAxes": ["FAITH_REASON", "BELONGING"],
+  "relatedTerms": ["deisme"],
+  "positions": [
+    { "axisId": "FAITH_REASON", "poleId": "SEPARATE_DOMAINS" }
+  ],
+  "updatedAt": "2026-06-25T00:00:00.000Z"
+}

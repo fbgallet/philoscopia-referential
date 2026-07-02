@@ -1,0 +1,13 @@
+{
+  "id": "esse-est-percipi",
+  "term": { "fr": "Esse est percipi (être, c'est être perçu)", "en": "Esse est percipi (to be is to be perceived)" },
+  "definition": {
+    "fr": "<ety>Du latin esse, être, et percipi, être perçu.</ety> Formule par laquelle <ph id='berkeley'>Berkeley</ph> résume son <c id='immaterialism'>immatérialisme</c> : l'existence d'une chose sensible ne consiste en rien d'autre que dans le fait d'être perçue par un esprit. Une couleur, un son, une saveur n'ont aucun être hors de la perception qu'on en a, et supposer un corps qui existerait sans être perçu de personne, c'est se contredire. Ce qui persiste quand nul homme ne le perçoit n'échappe pas à la règle : il faut alors un <ax id='REALITY_NATURE' pole='IDEALISM'>esprit infini</ax> qui le perçoit toujours, Dieu.",
+    "en": "<ety>From the Latin esse, to be, and percipi, to be perceived.</ety> The formula by which <ph id='berkeley'>Berkeley</ph> sums up his <c id='immaterialism'>immaterialism</c>: the existence of a sensible thing consists in nothing other than its being perceived by a mind. A colour, a sound, a taste has no being apart from the perception one has of it, and to posit a body that would exist while perceived by no one is to contradict oneself. What persists when no human perceives it does not escape the rule: there must then be an <ax id='REALITY_NATURE' pole='IDEALISM'>infinite mind</ax> that perceives it always, God."
+  },
+  "relatedAxes": ["REALITY_NATURE"],
+  "relatedTerms": ["immaterialism", "notion"],
+  "figure": { "slug": "berkeley", "name": { "fr": "Berkeley", "en": "Berkeley" } },
+  "positions": [{ "axisId": "REALITY_NATURE", "poleId": "IDEALISM" }],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "imagination-creatrice",
+  "term": { "fr": "Imagination créatrice", "en": "Creative imagination" },
+  "definition": {
+    "fr": "Pour le romantisme, l'imagination n'est pas la faculté qui combine des images empruntées, mais une puissance créatrice qui produit du nouveau et donne forme au réel. <ph id='coleridge'>Coleridge</ph> la distingue de la simple fantaisie (fancy) : l'imagination « primaire » répète en l'homme l'acte créateur infini, l'imagination « secondaire » est celle de l'artiste. Elle devient ainsi l'organe par lequel l'esprit ne reflète pas le monde mais le <ax id='ART_NATURE'>recrée</ax>.",
+    "en": "For Romanticism, imagination is not the faculty that combines borrowed images but a creative power that brings forth the new and gives form to reality. <ph id='coleridge'>Coleridge</ph> distinguishes it from mere fancy: the « primary » imagination repeats in the human being the infinite creative act, the « secondary » is the artist's. It thus becomes the organ by which the mind does not reflect the world but <ax id='ART_NATURE'>recreates</ax> it."
+  },
+  "relatedAxes": ["ART_NATURE", "REALITY_NATURE"],
+  "relatedTerms": ["genie", "mimesis"],
+  "figure": { "slug": "coleridge", "name": { "fr": "Coleridge", "en": "Coleridge" } },
+  "positions": [{ "axisId": "ART_NATURE", "poleId": "CREATION" }],
+  "updatedAt": "2026-06-26T00:00:00.000Z"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "knowledge-constructivism-grounds-epistemic-pluralism",
+  "ground": { "axisId": "KNOWLEDGE_STATUS", "poleId": "CONSTRUCTIVISM" },
+  "grounded": { "axisId": "SCIENCE_PLACE", "poleId": "EPISTEMIC_PLURALISM" },
+  "kind": "T_T",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si la science est une construction historique parmi d'autres, façonnée par ses paradigmes, alors elle n'a aucun monopole sur l'accès au réel. Le constructivisme du savoir fonde le pluralisme épistémique : <ph id='feyerabend'>Feyerabend</ph> soutient qu'aucune méthode unique ne garantit la connaissance et que la science elle-même progresse en transgressant ses propres règles.",
+    "en": "If science is one historical construction among others, shaped by its paradigms, then it holds no monopoly on access to the real. Constructivism about knowledge grounds epistemic pluralism: <ph id='feyerabend'>Feyerabend</ph> holds that no single method guarantees knowledge and that science itself advances by breaking its own rules."
+  },
+  "updatedAt": "2026-06-22T00:00:00.000Z"
+}

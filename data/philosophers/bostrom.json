@@ -1,0 +1,25 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "bostrom",
+  "stub": true,
+  "name": {
+    "fr": "Nick Bostrom",
+    "en": "Nick Bostrom"
+  },
+  "summary": {
+    "fr": "Philosophe suédois, fondateur du Future of Humanity Institute à Oxford, figure majeure du <mv id='transhumanism'>transhumanisme</mv> contemporain ; il a théorisé la dignité posthumaine, les <c id='existential-risk'>risques existentiels</c> et les dangers d'une superintelligence artificielle.",
+    "en": "Swedish philosopher, founder of the Future of Humanity Institute at Oxford and a leading figure of contemporary <mv id='transhumanism'>transhumanism</mv>; he theorized posthuman dignity, <c id='existential-risk'>existential risk</c> and the dangers of artificial superintelligence."
+  },
+  "birth": 1973,
+  "nationality": {
+    "fr": "Suédois",
+    "en": "Swedish"
+  },
+  "movements": [
+    "transhumanism"
+  ],
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

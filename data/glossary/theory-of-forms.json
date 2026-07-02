@@ -1,0 +1,17 @@
+{
+  "id": "theory-of-forms",
+  "term": { "fr": "Théorie des Idées", "en": "Theory of Forms" },
+  "definition": {
+    "fr": "La théorie des Idées (ou des Formes) de <ph id='plato'>Platon</ph> pose qu'au-delà des choses sensibles, changeantes et imparfaites, existent des réalités intelligibles, éternelles et parfaites : les Idées, comme le Beau ou le Juste en soi. Les objets du monde ne sont que des copies participant de ces modèles, dont seule la raison peut avoir la <kw>science</kw> véritable. Cette double réalité fonde <c id='anamnesis'>la réminiscence</c> et donne son sens à la quête philosophique d'une vérité <ax id='TRANSCENDENCE'>transcendante</ax>.",
+    "en": "<ph id='plato'>Plato</ph>'s theory of Forms (or Ideas) holds that beyond sensible things, which are changing and imperfect, there exist intelligible realities that are eternal and perfect: the Forms, such as the Beautiful or the Just in itself. The objects of the world are only copies participating in these models, of which reason alone can have true <kw>knowledge</kw>. This twofold reality grounds <c id='anamnesis'>recollection</c> and gives the philosophical quest its meaning as the search for a <ax id='TRANSCENDENCE'>transcendent</ax> truth."
+  },
+  "relatedAxes": ["ESSENCE", "REALITY_NATURE", "TRANSCENDENCE"],
+  "relatedTerms": ["anamnesis", "tripartite-soul"],
+  "figure": { "slug": "plato", "name": { "fr": "Platon", "en": "Plato" } },
+  "positions": [
+    { "axisId": "ESSENCE", "poleId": "ESSENTIALISM" },
+    { "axisId": "REALITY_NATURE", "poleId": "IDEALISM" },
+    { "axisId": "TRANSCENDENCE", "poleId": "TRANSCENDENCE" }
+  ],
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

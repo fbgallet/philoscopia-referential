@@ -1,0 +1,16 @@
+{
+  "id": "kierkegaard-vs-camus",
+  "from": { "kind": "PHILOSOPHER", "slug": "kierkegaard" },
+  "to": { "kind": "PHILOSOPHER", "slug": "camus" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "Dans Le Mythe de Sisyphe, <ph id='camus'>Camus</ph> qualifie de <q>suicide philosophique</q> le saut de la foi de <ph id='kierkegaard'>Kierkegaard</ph> : l'absurde se définit contre cette échappée religieuse, comme exigence de lucidité sans consolation.",
+    "en": "In The Myth of Sisyphus, <ph id='camus'>Camus</ph> calls <ph id='kierkegaard'>Kierkegaard</ph>'s leap of faith <q>philosophical suicide</q>: the absurd defines itself against that religious escape, as a demand for lucidity without consolation."
+  },
+  "sources": [
+    { "fr": "Camus, Le Mythe de Sisyphe", "en": "Camus, The Myth of Sisyphus" }
+  ],
+  "updatedAt": "2026-07-02T00:00:00.000Z"
+}

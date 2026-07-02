@@ -1,0 +1,25 @@
+{
+  "id": "transhumanism-vs-habermas",
+  "from": {
+    "kind": "MOVEMENT",
+    "slug": "transhumanism"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "habermas"
+  },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='habermas'>Habermas</ph> conteste l'eugénisme libéral que porte le transhumanisme : un être génétiquement programmé par d'autres ne pourrait plus se vivre comme l'unique auteur de sa vie, ce qui rompt la symétrie et la réciprocité morales entre les personnes et entre les générations.",
+    "en": "<ph id='habermas'>Habermas</ph> challenges the liberal eugenics transhumanism carries: a being genetically programmed by others could no longer experience itself as the sole author of its life, breaking the moral symmetry and reciprocity between persons and between generations."
+  },
+  "sources": [
+    {
+      "fr": "Habermas, L'Avenir de la nature humaine (2001)",
+      "en": "Habermas, The Future of Human Nature (2001)"
+    }
+  ],
+  "updatedAt": "2026-06-28T00:00:00.000Z"
+}

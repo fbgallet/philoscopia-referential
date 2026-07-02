@@ -1,0 +1,13 @@
+{
+  "id": "hua",
+  "term": { "fr": "Hua 化 (la transformation)", "en": "Hua 化 (transformation)" },
+  "definition": {
+    "fr": "La hua est la mutation incessante par laquelle les choses passent les unes dans les autres : l'homme qui rêve qu'il est papillon, la vie qui se dénoue en mort comme les saisons se succèdent. Loin d'être un mal à conjurer, elle est le cours même du réel, sans dessein ni cruauté, que le sage accueille et chevauche plutôt qu'il ne lui résiste. <ph id='zhuangzi'>Zhuangzi</ph> en fait le ressort de sa sérénité devant la <ax id='DEATH'>mort</ax> : qui se sait un nœud provisoire dans ce flux n'a plus à s'affliger de s'y défaire, et consent à son sort par <ax id='PAST_RELATION' pole='AMOR_FATI'>amour du destin</ax>.",
+    "en": "Hua is the ceaseless mutation by which things pass into one another: the man who dreams he is a butterfly, life unknotting into death as the seasons follow one another. Far from an evil to be warded off, it is the very course of the real, without design or cruelty, which the sage welcomes and rides rather than resists. <ph id='zhuangzi'>Zhuangzi</ph> makes it the spring of his serenity before <ax id='DEATH'>death</ax>: one who knows himself a provisional knot in this flux no longer needs to grieve at coming undone, and consents to his lot out of <ax id='PAST_RELATION' pole='AMOR_FATI'>love of fate</ax>."
+  },
+  "relatedAxes": ["DEATH", "PAST_RELATION"],
+  "relatedTerms": ["dao", "ziran"],
+  "figure": { "slug": "zhuangzi", "name": { "fr": "Zhuangzi", "en": "Zhuangzi" } },
+  "positions": [{ "axisId": "PAST_RELATION", "poleId": "AMOR_FATI" }],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

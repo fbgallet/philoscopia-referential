@@ -1,0 +1,16 @@
+{
+  "id": "peirce-to-william-james",
+  "from": { "kind": "PHILOSOPHER", "slug": "peirce" },
+  "to": { "kind": "PHILOSOPHER", "slug": "william-james" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='william-james'>James</ph> popularise et assouplit la maxime <c>pragmatiste</c> de <ph id='peirce'>Peirce</ph>, qui liait le sens d'une idée à ses effets concevables, en l'orientant vers une théorie psychologique et pluraliste de la <c>vérité</c> et de la croyance.",
+    "en": "<ph id='william-james'>James</ph> popularises and loosens the <c>pragmatist</c> maxim of <ph id='peirce'>Peirce</ph>, which tied the meaning of an idea to its conceivable effects, steering it toward a psychological, pluralist theory of <c>truth</c> and belief."
+  },
+  "sources": [
+    { "fr": "James, Le Pragmatisme (1907)", "en": "James, Pragmatism (1907)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

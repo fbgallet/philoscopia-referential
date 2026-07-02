@@ -1,0 +1,16 @@
+{
+  "id": "skepticism-vs-descartes",
+  "from": { "kind": "MOVEMENT", "slug": "skepticism" },
+  "to": { "kind": "PHILOSOPHER", "slug": "descartes" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='descartes'>Descartes</ph> reprend les arguments du <mv id='skepticism'>scepticisme</mv> (illusion des sens, rêve, malin génie) mais en renverse l'usage : le <c>doute</c> radical devient méthode pour atteindre une certitude indubitable qui le surmonte.",
+    "en": "<ph id='descartes'>Descartes</ph> takes up the arguments of <mv id='skepticism'>Skepticism</mv> (the illusion of the senses, the dream, the evil genius) but reverses their use: radical <c>doubt</c> becomes a method for reaching an indubitable certainty that overcomes it."
+  },
+  "sources": [
+    { "fr": "Descartes, Méditations métaphysiques (1641)", "en": "Descartes, Meditations on First Philosophy (1641)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

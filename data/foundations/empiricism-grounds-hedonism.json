@@ -1,0 +1,12 @@
+{
+  "id": "empiricism-grounds-hedonism",
+  "ground": { "axisId": "KNOWLEDGE_SOURCE", "poleId": "EMPIRICISM" },
+  "grounded": { "axisId": "SOVEREIGN_GOOD", "poleId": "HEDONISM" },
+  "kind": "T_V",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si toute connaissance, y compris celle du bien, vient de l'expérience, c'est dans le plaisir et la douleur éprouvés que se lit ce qui vaut, car ce sont les seules valeurs données directement aux sens. L'empirisme fonde l'hédonisme : <ph id='bentham'>Bentham</ph> fait du plaisir et de la peine les « maîtres souverains » à partir desquels tout bien se mesure.",
+    "en": "If all knowledge, including knowledge of the good, comes from experience, then it is in felt pleasure and pain that what is worthwhile is read, for they are the only values given directly to the senses. Empiricism grounds hedonism: <ph id='bentham'>Bentham</ph> makes pleasure and pain the 'sovereign masters' by which every good is measured."
+  },
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

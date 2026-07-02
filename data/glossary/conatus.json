@@ -1,0 +1,13 @@
+{
+  "id": "conatus",
+  "term": { "fr": "Conatus", "en": "Conatus" },
+  "definition": {
+    "fr": "Le conatus est, chez <ph id='spinoza'>Spinoza</ph>, l'effort par lequel chaque chose s'efforce de persévérer dans son être, et qui constitue son essence même (<w id='ethics-spinoza'>Éthique</w>, III). Chez l'homme, rapporté à la fois à l'esprit et au corps, cet effort se nomme désir : loin d'être un manque à corriger, il est la puissance d'exister que l'éthique vise à augmenter. <ety>Du latin conari, s'efforcer.</ety>",
+    "en": "The conatus is, for <ph id='spinoza'>Spinoza</ph>, the striving by which each thing endeavours to persevere in its being, and which constitutes its very essence (<w id='ethics-spinoza'>Ethics</w>, III). In human beings, referred to mind and body alike, this striving is called desire: far from a lack to be corrected, it is the power of existing that ethics seeks to increase. <ety>From the Latin conari, to strive.</ety>"
+  },
+  "relatedAxes": ["DESIRE", "SELF_INTEREST", "ESSENCE"],
+  "relatedTerms": ["adequate-idea", "immanence"],
+  "figure": { "slug": "spinoza", "name": { "fr": "Spinoza", "en": "Spinoza" } },
+  "positions": [{ "axisId": "DESIRE", "poleId": "AFFIRMATION" }],
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "scientism-grounds-techno-optimism",
+  "ground": { "axisId": "SCIENCE_PLACE", "poleId": "SCIENTISM" },
+  "grounded": { "axisId": "TECHNOLOGY", "poleId": "TECHNO_OPTIMISM" },
+  "kind": "T_V",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si la science est la forme la plus haute du savoir, appelée à résoudre les problèmes humains, alors la technique qui en découle est le grand levier du progrès. Le scientisme fonde le techno-optimisme : de Bacon à <ph id='comte'>Comte</ph>, on attend du savoir appliqué qu'il recule le besoin et la souffrance, et l'on tient ses revers pour des défis appelant plus de technique encore.",
+    "en": "If science is the highest form of knowledge, destined to solve human problems, then the technology that flows from it is the great lever of progress. Scientism grounds techno-optimism: from Bacon to <ph id='comte'>Comte</ph>, applied knowledge is expected to push back need and suffering, and its setbacks are taken as challenges calling for yet more technology."
+  },
+  "updatedAt": "2026-06-22T00:00:00.000Z"
+}

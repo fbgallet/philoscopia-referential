@@ -1,0 +1,16 @@
+{
+  "id": "spinoza-to-hegel",
+  "from": { "kind": "PHILOSOPHER", "slug": "spinoza" },
+  "to": { "kind": "PHILOSOPHER", "slug": "hegel" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='hegel'>Hegel</ph> tient le spinozisme pour un passage obligé : <q>commencer à philosopher, c'est être spinoziste</q>. Il reprend l'exigence d'un <c>absolu</c> unique, mais reproche à la substance de <ph id='spinoza'>Spinoza</ph> d'être inerte et la refait sujet.",
+    "en": "<ph id='hegel'>Hegel</ph> holds Spinozism to be an unavoidable passage: <q>to begin to philosophise is to be a Spinozist</q>. He takes up the demand for a single <c>absolute</c>, but faults <ph id='spinoza'>Spinoza</ph>'s substance for being inert and remakes it as subject."
+  },
+  "sources": [
+    { "fr": "Hegel, Leçons sur l'histoire de la philosophie", "en": "Hegel, Lectures on the History of Philosophy" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

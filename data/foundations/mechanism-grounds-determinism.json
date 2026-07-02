@@ -1,0 +1,12 @@
+{
+  "id": "mechanism-grounds-determinism",
+  "ground": { "axisId": "CAUSALITY", "poleId": "MECHANISM" },
+  "grounded": { "axisId": "FREEDOM", "poleId": "DETERMINISM" },
+  "kind": "T_T",
+  "strength": "STRONG",
+  "explanation": {
+    "fr": "Si chaque événement physique est intégralement produit par des causes antérieures, alors nos choix, en tant qu'événements de ce monde, le sont aussi. Le mécanisme étendu à l'esprit fonde donc <c id='determinism'>le déterminisme</c> et prive d'objet le <c id='free-will'>libre arbitre</c>.",
+    "en": "If every physical event is wholly produced by prior causes, then our choices, as events in this world, are too. Mechanism extended to the mind thus grounds <c id='determinism'>determinism</c> and leaves <c id='free-will'>free will</c> without an object."
+  },
+  "updatedAt": "2026-06-14T00:00:00.000Z"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fideisme",
+  "term": { "fr": "Le fidéisme", "en": "Fideism" },
+  "definition": {
+    "fr": "<ety>Du latin fides, « foi »</ety>, le fidéisme est la thèse selon laquelle la vérité religieuse repose sur la foi, non sur la raison, trop faible pour atteindre Dieu et prouver quoi que ce soit de lui. Chez <ph id='montaigne'>Montaigne</ph>, il découle paradoxalement du <c id='skepticism'>scepticisme</c> : dans l'<w id='essays-montaigne'>Apologie de Raimond Sebond</w>, ruiner les prétentions de la raison ne détruit pas la foi mais lui ôte ses faux appuis, la religion ne pouvant dès lors tenir que de la grâce et de l'autorité. Le fidéisme sépare ainsi <ax id='FAITH_REASON'>foi et raison</ax> en les hiérarchisant, là où d'autres veulent les accorder ou les opposer.",
+    "en": "<ety>From the Latin fides, \"faith\"</ety>, fideism is the thesis that religious truth rests on faith, not on reason, which is too weak to reach God and prove anything of him. In <ph id='montaigne'>Montaigne</ph> it follows paradoxically from <c id='skepticism'>skepticism</c>: in the <w id='essays-montaigne'>Apology for Raymond Sebond</w>, ruining reason's claims does not destroy faith but strips it of its false supports, religion being thereafter able to hold only by grace and authority. Fideism thus separates <ax id='FAITH_REASON'>faith and reason</ax> while ranking them, where others would have them agree or clash."
+  },
+  "relatedAxes": ["FAITH_REASON"],
+  "relatedTerms": ["skepticism", "deisme", "tolerance"],
+  "positions": [{ "axisId": "FAITH_REASON", "poleId": "FIDEISM" }],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

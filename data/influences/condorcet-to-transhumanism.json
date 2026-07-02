@@ -1,0 +1,25 @@
+{
+  "id": "condorcet-to-transhumanism",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "condorcet"
+  },
+  "to": {
+    "kind": "MOVEMENT",
+    "slug": "transhumanism"
+  },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='condorcet'>Condorcet</ph> avait déjà inscrit dans le progrès des Lumières la perfectibilité indéfinie de l'homme, jusqu'à l'allongement possible de la vie humaine. Le transhumanisme reprend cette espérance et lui donne les moyens des biotechnologies.",
+    "en": "<ph id='condorcet'>Condorcet</ph> had already written into the Enlightenment idea of progress the indefinite perfectibility of man, up to the possible lengthening of human life. Transhumanism takes up this hope and hands it the means of biotechnology."
+  },
+  "sources": [
+    {
+      "fr": "Condorcet, Esquisse d'un tableau historique des progrès de l'esprit humain (1795)",
+      "en": "Condorcet, Sketch for a Historical Picture of the Progress of the Human Mind (1795)"
+    }
+  ],
+  "updatedAt": "2026-06-28T00:00:00.000Z"
+}

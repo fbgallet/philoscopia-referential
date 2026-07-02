@@ -1,0 +1,867 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "epicurus",
+  "name": {
+    "fr": "Épicure",
+    "en": "Epicurus"
+  },
+  "fullName": {
+    "fr": "Épicure de Samos",
+    "en": "Epicurus of Samos"
+  },
+  "tagline": {
+    "fr": "<c id='hedonism'>Le plaisir est le commencement et la fin de la vie heureuse</c> : non la débauche, mais l'absence de trouble.",
+    "en": "<c id='hedonism'>Pleasure is the beginning and the end of the happy life</c>: not debauchery, but freedom from disturbance."
+  },
+  "summary": {
+    "fr": "Philosophe grec de l'âge hellénistique, Épicure fonde vers 306 av. J.-C. l'école du Jardin à Athènes, communauté ouverte aux femmes et aux esclaves où l'on vit à l'écart de la cité. Dans un monde déstabilisé par la chute des cités libres, il conçoit la philosophie comme une médecine de l'âme : <q>vaine est la parole du philosophe qui ne soigne aucune souffrance humaine</q>. Reprenant l'<c>atomisme</c> de <ph>Démocrite</ph>, il en tire une physique destinée à délivrer les hommes de la peur des dieux et de la mort, et fonde toute sa morale sur l'analyse du <c id='hedonism'>plaisir</c>. Son œuvre, presque entièrement perdue, nous est connue par trois lettres et les <w id='principal-doctrines-epicurus'>Maximes capitales</w> transmises par <per>Diogène Laërce</per>, et surtout par le grand poème de <ph>Lucrèce</ph>. Longtemps caricaturé en jouisseur et accusé d'impiété, l'épicurisme fut l'un des principaux courants de l'Antiquité, rival du <mv id='stoicism'>stoïcisme</mv>, et nourrit la pensée matérialiste moderne.",
+    "en": "A Greek philosopher of the Hellenistic age, Epicurus founded the school of the Garden in Athens around 306 BCE, a community open to women and slaves where one lived withdrawn from the city. In a world unsettled by the fall of the free cities, he conceived philosophy as a medicine of the soul: <q>empty is the word of the philosopher that heals no human suffering</q>. Taking up the <c>atomism</c> of <ph>Democritus</ph>, he drew from it a physics meant to free men from the fear of the gods and of death, and grounded his whole ethics on the analysis of <c id='hedonism'>pleasure</c>. His work, almost entirely lost, reaches us through three letters and the <w id='principal-doctrines-epicurus'>Principal Doctrines</w> preserved by <per>Diogenes Laertius</per>, and above all through the great poem of <ph>Lucretius</ph>. Long caricatured as a sensualist and charged with impiety, Epicureanism was one of antiquity's main currents, rival to <mv id='stoicism'>Stoicism</mv>, and nourished modern materialist thought."
+  },
+  "birth": -341,
+  "death": -270,
+  "nationality": {
+    "fr": "Grec",
+    "en": "Greek"
+  },
+  "movements": [
+    "epicureanism"
+  ],
+  "entries": [
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.05,
+          0.85,
+          0.1,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Les dieux d'Épicure, bienheureux et lointains, ne gouvernent ni ne destinent rien : nulle providence n'assigne de fin à la vie. Le sens est tout entier du côté humain, dans la vie bonne à notre portée, l'<c>ataraxie</c>, l'amitié et les plaisirs simples bien mesurés. Délivrée de la crainte des dieux et de la mort, l'existence trouve en elle-même sa suffisance.",
+          "en": "Epicurus' gods, blessed and remote, neither govern nor destine anything: no providence assigns life an end. Meaning lies wholly on the human side, in the good life within our reach, <c>ataraxia</c>, friendship and simple, well-measured pleasures. Freed from the fear of the gods and of death, existence finds its sufficiency in itself."
+        },
+        "references": [
+          {
+            "fr": "Lettre à Ménécée",
+            "en": "Letter to Menoeceus"
+          },
+          {
+            "fr": "Maximes capitales",
+            "en": "Principal Doctrines"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Épicure lit dans la nature elle-même la fin de l'homme : dès le berceau, avant tout raisonnement, l'animal recherche le plaisir et fuit la douleur. Cette constitution naturelle donnée définit le souverain bien et la vie réussie, un essentialisme des fins naturelles inscrit dans un cadre matérialiste.",
+          "en": "Epicurus reads the human end in nature itself: from the cradle, before any reasoning, the animal seeks pleasure and shuns pain. This given natural constitution defines the sovereign good and the successful life, an essentialism of natural ends set within a materialist frame."
+        },
+        "references": [
+          {
+            "fr": "Lettre à Ménécée",
+            "en": "Letter to Menoeceus"
+          },
+          {
+            "fr": "Cicéron, Des fins, I",
+            "en": "Cicero, On Ends, I"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.9,
+          0.1,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le critère est tiré de la nature même du vivant : dès la naissance, tout être recherche le <c id='hedonism'>plaisir</c> et fuit la douleur, sans qu'aucun raisonnement l'en persuade, ce qui prouve que le plaisir est le bien premier et connaturel. Mais Épicure redéfinit ce que vaut ce plaisir : son sommet n'est pas la jouissance en mouvement, qui ne fait que combler un manque, c'est l'état stable où, le manque une fois comblé, plus rien ne reste à ajouter, l'<c id='ataraxia'>ataraxie</c> de l'âme et l'aponie du corps. Le plaisir a donc une limite, l'<dif>absence de toute douleur</dif>, ce qui le rend pleinement accessible et retourne l'objection que le plaisir serait insatiable. C'est là sa rupture avec le plaisir vulgaire et avec l'eudémonisme intellectualiste de <ph id='plato'>Platon</ph> et d'<ph id='aristotle'>Aristote</ph>.",
+          "en": "The criterion is drawn from the very nature of the living being: from birth, every creature pursues <c id='hedonism'>pleasure</c> and shuns pain without any reasoning persuading it, which proves pleasure to be the first, connatural good. But Epicurus redefines what this pleasure is worth: its summit is not enjoyment in motion, which merely fills a lack, but the stable state in which, once the lack is filled, nothing remains to be added, the <c id='ataraxia'>ataraxia</c> of the soul and the aponia of the body. Pleasure therefore has a limit, the <dif>absence of all pain</dif>, which makes it fully attainable and turns back the objection that pleasure is insatiable. This is his break both with vulgar pleasure and with the intellectualist eudaimonism of <ph id='plato'>Plato</ph> and <ph id='aristotle'>Aristotle</ph>."
+        },
+        "references": [
+          {
+            "fr": "Lettre à Ménécée, 128-129",
+            "en": "Letter to Menoeceus, 128-129"
+          },
+          {
+            "fr": "Maximes capitales, III et XVIII (limites du plaisir)",
+            "en": "Principal Doctrines, III and XVIII (the limits of pleasure)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Le plaisir est le commencement et la fin de la vie bienheureuse.",
+            "en": "Pleasure is the beginning and the end of the blessed life."
+          },
+          "source": {
+            "fr": "Lettre à Ménécée, 128",
+            "en": "Letter to Menoeceus, 128"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [1, 0, 0, 0]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'argument repose sur deux prémisses tirées de la physique : tout bien et tout mal résident dans la <c>sensation</c>, et la mort, dissolution des atomes de l'âme, est précisément privation totale de sensation. Il s'ensuit que la mort ne peut être un mal pour personne, car le sujet qui en pâtirait n'existe jamais en même temps qu'elle : <q>tant que nous sommes, elle n'est pas là ; quand elle est là, nous ne sommes plus</q>. La peur de mourir vise donc un néant, et craindre un état où l'on ne sera pas est aussi vain que de s'affliger du temps d'avant sa naissance. Ce raisonnement, deuxième volet du <c id='tetrapharmakos'>tétrapharmakos</c>, retire son objet à l'angoisse qui, selon Épicure, empoisonne toute la vie.",
+          "en": "The argument rests on two premises drawn from physics: all good and evil reside in <c>sensation</c>, and death, the dissolution of the soul's atoms, is precisely the total privation of sensation. It follows that death can be an evil for no one, since the subject who would suffer it never coexists with it: <q>while we are, it is not present; when it is present, we are no more</q>. The fear of dying therefore targets a nothingness, and to dread a state in which one will not be is as empty as grieving over the time before one's birth. This reasoning, the second plank of the <c id='tetrapharmakos'>tetrapharmakos</c>, removes the object of the anxiety that, on Epicurus' view, poisons the whole of life."
+        },
+        "references": [
+          {
+            "fr": "Lettre à Ménécée, 124-125",
+            "en": "Letter to Menoeceus, 124-125"
+          },
+          {
+            "fr": "Maximes capitales, II",
+            "en": "Principal Doctrines, II"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "La mort n'est rien pour nous ; car ce qui est dissous est privé de sensation, et ce qui est privé de sensation n'est rien pour nous.",
+            "en": "Death is nothing to us; for that which is dissolved is without sensation, and that which lacks sensation is nothing to us."
+          },
+          "source": {
+            "fr": "Maximes capitales, II",
+            "en": "Principal Doctrines, II"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.05,
+          0.85,
+          0.1
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le malheur vient de désirs qu'on ne peut combler ou dont la satisfaction n'apaise rien : la thérapie consiste donc à trier les <c>désirs</c> selon qu'ils sont fondés en nature et nécessaires au bonheur. Les désirs naturels et nécessaires, peu nombreux, sont faciles à satisfaire ; les désirs vains, nés d'une opinion sans limite comme la gloire ou la richesse, sont insatiables et n'apportent que trouble. La sagesse ne réprime donc pas le désir en bloc, contre l'ascèse cynique, ni ne l'affranchit de toute borne : elle l'instruit, en bornant ce qu'il faut vouloir à ce que la nature réclame et qu'elle rend aisé. C'est une <ax id='DESIRE'>sélection raisonnée</ax> qui rend le bonheur à la portée de tous.",
+          "en": "Unhappiness comes from desires one cannot fulfil, or whose satisfaction soothes nothing: the therapy is therefore to sort <c>desires</c> by whether they are grounded in nature and necessary to happiness. The natural and necessary desires, few in number, are easily met; the empty desires, born of a limitless opinion such as glory or wealth, are insatiable and yield only disturbance. Wisdom thus neither suppresses desire wholesale, against Cynic asceticism, nor frees it from all bounds: it schools it, confining what one should want to what nature demands and makes easy. This is a <ax id='DESIRE'>reasoned selection</ax> that brings happiness within everyone's reach."
+        },
+        "references": [
+          {
+            "fr": "Lettre à Ménécée, 127-130",
+            "en": "Letter to Menoeceus, 127-130"
+          },
+          {
+            "fr": "Maximes capitales, XXIX et XXX (classification des désirs)",
+            "en": "Principal Doctrines, XXIX and XXX (the classification of desires)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Parmi les désirs, les uns sont naturels et nécessaires, les autres naturels et non nécessaires, les autres ni naturels ni nécessaires, mais nés d'une opinion vide.",
+            "en": "Of the desires, some are natural and necessary, some natural but not necessary, and some neither natural nor necessary but arising from empty opinion."
+          },
+          "source": {
+            "fr": "Maximes capitales, XXIX",
+            "en": "Principal Doctrines, XXIX"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La souffrance n'a aucune valeur rédemptrice : elle est le mal même que toute la thérapeutique épicurienne cherche à abolir. Le <c id='tetrapharmakos'>tétrapharmakos</c> rassure : la douleur intense est brève, la douleur durable est légère, et le sage peut rester heureux <q>même sur le chevalet</q> par le souvenir des plaisirs passés. Loin de sanctifier le <dif>mal à supporter</dif>, Épicure enseigne à le neutraliser, d'où une nette pente abolitionniste.",
+          "en": "Suffering has no redemptive value: it is the very evil that the whole of Epicurean therapy seeks to abolish. The <c id='tetrapharmakos'>tetrapharmakos</c> reassures: intense pain is brief, lasting pain is mild, and the sage can stay happy <q>even on the rack</q> through the memory of past pleasures. Far from sanctifying the <dif>evil to be endured</dif>, Epicurus teaches how to neutralize it, hence a clear abolitionist leaning."
+        },
+        "references": [
+          {
+            "fr": "Maximes capitales, IV (la douleur ne dure pas continûment dans la chair)",
+            "en": "Principal Doctrines, IV (pain does not last continuously in the flesh)"
+          },
+          {
+            "fr": "Diogène Laërce, Vies, X, 118 (le sage heureux même dans les tourments)",
+            "en": "Diogenes Laertius, Lives, X, 118 (the sage happy even amid torments)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          1,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Tout ce qui existe se réduit à des <c>atomes</c> et au <c>vide</c> : rien ne naît du non-être, rien ne s'y dissout, le tout est corps et espace. L'âme elle-même est faite d'atomes très subtils et se dissout à la mort. C'est un <c>matérialisme</c> intégral, hérité de <ph>Démocrite</ph> et développé par <ph>Lucrèce</ph>, sans place pour une réalité immatérielle.",
+          "en": "All that exists reduces to <c>atoms</c> and <c>void</c>: nothing comes from non-being, nothing dissolves into it, the whole is body and space. The soul itself is made of very fine atoms and dissolves at death. This is a thoroughgoing <c>materialism</c>, inherited from <ph>Democritus</ph> and developed by <ph>Lucretius</ph>, with no room for any immaterial reality."
+        },
+        "references": [
+          {
+            "fr": "Lettre à Hérodote, 39-44 (atomes et vide, rien ne naît du néant)",
+            "en": "Letter to Herodotus, 39-44 (atoms and void, nothing comes from nothing)"
+          },
+          {
+            "fr": "Lucrèce, De la nature des choses, I-II",
+            "en": "Lucretius, On the Nature of Things, I-II"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Le tout est constitué de corps et de vide.",
+            "en": "The totality of things is made of bodies and void."
+          },
+          "source": {
+            "fr": "Lettre à Hérodote, 39",
+            "en": "Letter to Herodotus, 39"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le <c id='determinism'>déterminisme</c> de <ph>Démocrite</ph>, où les atomes tombent en lignes parallèles selon une nécessité sans faille, rend la responsabilité impossible et réduit l'homme à une marionnette : si tout est joué d'avance, blâmer ou délibérer n'a plus de sens. Épicure répond par le <c id='clinamen'>clinamen</c>, l'écart minime, sans cause et imprévisible, par lequel un atome dévie de sa chute à un moment indéterminé : il introduit ainsi un grain d'<c id='indeterminism'>indétermination</c> dans la matière même, à la racine des composés, d'où peut émerger une action qui ne soit pas tout entière l'effet d'antécédents. Le but est moins métaphysique que pratique : sauver le <c id='free-will'>libre arbitre</c>, car l'esclavage du <q>destin</q> des physiciens serait pire encore que la crainte des dieux.",
+          "en": "<ph>Democritus</ph>' <c id='determinism'>determinism</c>, in which atoms fall in parallel lines by an unbroken necessity, makes responsibility impossible and reduces man to a puppet: if all is settled in advance, to blame or to deliberate loses its sense. Epicurus answers with the <c id='clinamen'>clinamen</c>, the slight, uncaused and unpredictable swerve by which an atom deviates from its fall at an undetermined moment: he thereby introduces a grain of <c id='indeterminism'>indeterminacy</c> into matter itself, at the root of compounds, from which an action can emerge that is not wholly the effect of antecedents. The aim is less metaphysical than practical: to save <c id='free-will'>free will</c>, for enslavement to the physicists' <q>fate</q> would be worse even than the fear of the gods."
+        },
+        "references": [
+          {
+            "fr": "Lucrèce, De la nature des choses, II, 251-293 (la déclinaison)",
+            "en": "Lucretius, On the Nature of Things, II, 251-293 (the swerve)"
+          },
+          {
+            "fr": "Lettre à Ménécée, 133-134 (mieux vaut les mythes que l'esclavage du destin)",
+            "en": "Letter to Menoeceus, 133-134 (better the myths than slavery to fate)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.3
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Épicure part de la prénotion commune des dieux comme êtres bienheureux et incorruptibles, et la prend au sérieux jusqu'au bout : un être parfaitement heureux ne connaît ni colère ni faveur, car le souci et l'effort de gouverner un monde trahiraient un besoin, donc une imperfection. Il s'ensuit que les dieux, relégués dans les <c>intermondes</c>, n'exercent aucune <c id='providence'>providence</c> et ne distribuent ni récompense ni châtiment : la piété populaire, qui les imagine jaloux et vengeurs, est la véritable impiété. Cette théologie n'est donc pas un athéisme honteux, dont on l'accusa, mais une stratégie thérapeutique, le premier remède du <c id='tetrapharmakos'>tétrapharmakos</c> qui retire à la peur des dieux son fondement.",
+          "en": "Epicurus starts from the common preconception of the gods as blessed and incorruptible beings, and takes it seriously to the end: a perfectly happy being knows neither anger nor favour, for the care and toil of governing a world would betray a need, hence an imperfection. It follows that the gods, set apart in the <c>intermundia</c>, exercise no <c id='providence'>providence</c> and dispense neither reward nor punishment: popular piety, which pictures them jealous and vengeful, is the real impiety. This theology is therefore not a covert atheism, of which he was accused, but a therapeutic strategy, the first remedy of the <c id='tetrapharmakos'>tetrapharmakos</c>, which removes the ground of the fear of the gods."
+        },
+        "references": [
+          {
+            "fr": "Lettre à Ménécée, 123-124 (les dieux bienheureux, sans souci des hommes)",
+            "en": "Letter to Menoeceus, 123-124 (the blessed gods, unconcerned with men)"
+          },
+          {
+            "fr": "Maximes capitales, I (l'être bienheureux et incorruptible ne connaît ni trouble ni colère)",
+            "en": "Principal Doctrines, I (the blessed and incorruptible being knows neither trouble nor anger)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "L'être bienheureux et incorruptible n'a pas de soucis lui-même et n'en cause pas à autrui ; il n'est donc accessible ni à la colère ni à la faveur.",
+            "en": "The blessed and incorruptible being neither has trouble itself nor causes trouble to another; hence it is moved neither by anger nor by favour."
+          },
+          "source": {
+            "fr": "Maximes capitales, I",
+            "en": "Principal Doctrines, I"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si la <c>sensation</c> est notre seul contact avec le réel, elle doit être la mesure de toute vérité : on ne peut récuser une perception qu'au nom d'une autre, jamais au nom de la raison, qui n'a rien d'autre à juger. De là la Canonique, qui érige la sensation en premier critère et fait dériver tout concept de la répétition des perceptions, sédimentée en <c>prénotions</c> (prolepses) servant ensuite à reconnaître et à nommer. La raison ne fait qu'élaborer ces données ; il n'y a pas d'<c id='innate-ideas'>idées innées</c>, et l'esprit naît vierge de tout contenu. C'est un <ax id='KNOWLEDGE_SOURCE'>empirisme</ax> radical, dressé contre l'innéisme platonicien.",
+          "en": "If <c>sensation</c> is our only contact with the real, it must be the measure of all truth: a perception can be challenged only in the name of another, never in the name of reason, which has nothing else to judge by. Hence the Canonic, which sets sensation up as the first criterion and derives every concept from the repetition of perceptions, sedimented into <c>preconceptions</c> (prolepses) that then serve to recognise and name. Reason only elaborates these data; there are no <c id='innate-ideas'>innate ideas</c>, and the mind is born void of all content. This is a radical <ax id='KNOWLEDGE_SOURCE'>empiricism</ax>, set against Platonic innatism."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies, X, 31-33 (la Canonique : sensations, prénotions, affections)",
+            "en": "Diogenes Laertius, Lives, X, 31-33 (the Canonic: sensations, preconceptions, feelings)"
+          },
+          {
+            "fr": "Lettre à Hérodote, 37-38 (s'en tenir aux sensations et aux prénotions)",
+            "en": "Letter to Herodotus, 37-38 (holding to sensations and preconceptions)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Contre le <c id='skepticism'>scepticisme</c>, Épicure tient que <q>toutes les sensations sont vraies</q> : la sensation, infaillible parce qu'irrationnelle et sans mémoire, ne se trompe jamais ; l'erreur naît seulement du jugement que l'opinion ajoute. Cette confiance dans un critère assuré de vérité est un <c id='dogmatism'>dogmatisme</c>, fût-il fondé sur les sens plutôt que sur la raison.",
+          "en": "Against <c id='skepticism'>skepticism</c>, Epicurus holds that <q>all sensations are true</q>: sensation, infallible because irrational and memoryless, never errs; error arises only from the judgment that opinion adds. This confidence in a secure criterion of truth is a <c id='dogmatism'>dogmatism</c>, even if grounded on the senses rather than reason."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies, X, 31-32 (toutes les sensations sont vraies)",
+            "en": "Diogenes Laertius, Lives, X, 31-32 (all sensations are true)"
+          },
+          {
+            "fr": "Lucrèce, De la nature des choses, IV, 469-521 (défense de la véracité des sens)",
+            "en": "Lucretius, On the Nature of Things, IV, 469-521 (defence of the truth of the senses)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Il n'existe aucun ordre transcendant, aucun monde des Idées ni providence surplombant la nature : tout, y compris l'âme et les dieux, appartient au seul univers des atomes et du vide. Le sens et le bonheur se trouvent ici-bas, dans la <c>sensation</c> et l'<c id='ataraxia'>ataraxie</c>, sans recours à un au-delà. C'est une <ax id='TRANSCENDENCE'>immanence</ax> intégrale.",
+          "en": "There is no transcendent order, no world of Ideas nor providence overhanging nature: everything, including the soul and the gods, belongs to the single universe of atoms and void. Meaning and happiness are found here below, in <c>sensation</c> and <c id='ataraxia'>ataraxia</c>, with no recourse to a beyond. This is a thoroughgoing <ax id='TRANSCENDENCE'>immanence</ax>."
+        },
+        "references": [
+          {
+            "fr": "Lettre à Hérodote, 63-67 (l'âme corporelle, dissoute à la mort)",
+            "en": "Letter to Herodotus, 63-67 (the corporeal soul, dissolved at death)"
+          },
+          {
+            "fr": "Lucrèce, De la nature des choses, III (mortalité de l'âme)",
+            "en": "Lucretius, On the Nature of Things, III (the mortality of the soul)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "BODILY_PLEASURES",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.2
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Bien que le plaisir soit le bien, Épicure prône une <c>sobriété</c> mesurée : le plus haut plaisir n'est pas l'abondance des jouissances mais l'absence de douleur, qu'un peu de pain et d'eau suffit à procurer. <q>Quand nous disons que le plaisir est la fin, nous ne parlons pas des plaisirs des débauchés</q> mais de l'absence de souffrance du corps et de trouble de l'âme. La valeur penche légèrement vers l'ascèse, par frugalité plus que par mépris du corps.",
+          "en": "Although pleasure is the good, Epicurus advocates a measured <c>sobriety</c>: the highest pleasure is not the abundance of enjoyments but the absence of pain, which a little bread and water suffices to procure. <q>When we say that pleasure is the end, we do not mean the pleasures of the dissolute</q> but the absence of pain in the body and of trouble in the soul. The value leans slightly toward asceticism, out of frugality rather than contempt for the body."
+        },
+        "references": [
+          {
+            "fr": "Lettre à Ménécée, 130-132 (l'éloge de la frugalité)",
+            "en": "Letter to Menoeceus, 130-132 (the praise of frugality)"
+          },
+          {
+            "fr": "Maximes capitales, XV (la richesse selon la nature est facile à obtenir)",
+            "en": "Principal Doctrines, XV (the wealth required by nature is easily obtained)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Le pain et l'eau procurent le plaisir le plus élevé quand on les porte à des lèvres qui en ont besoin.",
+            "en": "Bread and water confer the highest pleasure when one brings them to needy lips."
+          },
+          "source": {
+            "fr": "Sentences vaticanes, 59 (cf. Lettre à Ménécée)",
+            "en": "Vatican Sayings, 59 (cf. Letter to Menoeceus)"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Les troubles de l'âme, surtout les peurs des dieux et de la mort, naissent d'opinions fausses sur la nature : c'est donc la connaissance exacte de la <c>physique</c> qui guérit l'angoisse. <q>Vaine est la parole du philosophe qui ne soigne aucune souffrance humaine</q> : la thérapie des passions passe par le raisonnement et la compréhension des limites du désir, ce qui marque une pente intellectualiste.",
+          "en": "The troubles of the soul, above all the fears of the gods and of death, arise from false opinions about nature: it is therefore exact knowledge of <c>physics</c> that cures anxiety. <q>Empty is the word of the philosopher that heals no human suffering</q>: the therapy of the passions proceeds through reasoning and an understanding of the limits of desire, which marks an intellectualist leaning."
+        },
+        "references": [
+          {
+            "fr": "Lettre à Hérodote, 81-82 (la physique délivre des frayeurs)",
+            "en": "Letter to Herodotus, 81-82 (physics frees us from fears)"
+          },
+          {
+            "fr": "Sentences vaticanes, 54 (la philosophie comme médecine de l'âme)",
+            "en": "Vatican Sayings, 54 (philosophy as medicine of the soul)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "COSMIC_OUTLOOK",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'univers, infini en atomes et en mondes, n'est ni hostile ni tragique : une fois dissipées les craintes des dieux et de la mort, la nature offre tout ce qu'il faut au bonheur, le bien étant facile à atteindre. Cet optimisme thérapeutique, où le bonheur est <q>à la portée de tous</q>, écarte la vision tragique sans verser dans une providence bienveillante.",
+          "en": "The universe, infinite in atoms and worlds, is neither hostile nor tragic: once the fears of the gods and of death are dispelled, nature offers all that is needed for happiness, the good being easy to attain. This therapeutic optimism, where happiness is <q>within everyone's reach</q>, sets aside the tragic vision without lapsing into a benevolent providence."
+        },
+        "references": [
+          {
+            "fr": "Lettre à Ménécée, 122 et 133 (le bonheur accessible, le sage et le destin)",
+            "en": "Letter to Menoeceus, 122 and 133 (accessible happiness, the sage and fate)"
+          },
+          {
+            "fr": "Maximes capitales, XXVII-XXVIII (l'amitié et la confiance)",
+            "en": "Principal Doctrines, XXVII-XXVIII (friendship and confidence)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "BELONGING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.2
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La devise <q>vis caché</q> (lathe biôsas) détourne le sage de la vie publique : la cité, ses honneurs et ses ambitions sont sources de trouble, et la sécurité véritable se trouve dans le retrait et l'amitié, non dans l'engagement civique. Cette préférence pour une communauté élective restreinte, le Jardin, plutôt que pour un cosmopolitisme actif, incline légèrement vers le communautarisme.",
+          "en": "The motto <q>live unnoticed</q> (lathe biosas) turns the sage away from public life: the city, its honours and ambitions are sources of disturbance, and true security lies in withdrawal and friendship, not in civic engagement. This preference for a small elective community, the Garden, over an active cosmopolitanism inclines slightly toward communitarianism."
+        },
+        "references": [
+          {
+            "fr": "Sentences vaticanes, 58 (se libérer de la prison des affaires publiques)",
+            "en": "Vatican Sayings, 58 (freeing oneself from the prison of public affairs)"
+          },
+          {
+            "fr": "Maximes capitales, XIV (la sécurité par la retraite loin de la foule)",
+            "en": "Principal Doctrines, XIV (security through withdrawal from the crowd)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Vis caché.",
+            "en": "Live unnoticed."
+          },
+          "source": {
+            "fr": "Fragment 551 Usener (lathe biôsas)",
+            "en": "Fragment 551 Usener (lathe biosas)"
+          }
+        },
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.7,
+          0,
+          0.3,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le critère de l'action est sa contribution au plaisir compris comme absence de trouble : il faut peser par le calcul (le <q>calcul des plaisirs et des peines</q>) ce que chaque choix apporte de bien et de mal. Cette structure conséquentialiste, hédoniste, accorde toutefois une place à la prudence (<c id='phronesis'>phronèsis</c>) comme vertu cardinale, d'où une part de vertu : <q>on ne peut vivre agréablement sans vivre avec prudence, honnêteté et justice</q>.",
+          "en": "The criterion of action is its contribution to pleasure understood as freedom from disturbance: one must weigh by reckoning (the <q>calculus of pleasures and pains</q>) the good and ill each choice brings. This consequentialist, hedonist structure nonetheless grants a place to prudence (<c id='phronesis'>phronesis</c>) as the cardinal virtue, hence a share of virtue ethics: <q>one cannot live pleasantly without living prudently, honourably and justly</q>."
+        },
+        "references": [
+          {
+            "fr": "Lettre à Ménécée, 129-132 (le calcul des plaisirs ; la prudence, source des vertus)",
+            "en": "Letter to Menoeceus, 129-132 (the calculus of pleasures; prudence, the source of the virtues)"
+          },
+          {
+            "fr": "Maximes capitales, V (vivre agréablement, prudemment, honnêtement et justement)",
+            "en": "Principal Doctrines, V (living pleasantly, prudently, honourably and justly)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SELF_INTEREST",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le point de départ est la recherche par chacun de son propre bonheur, ce qui paraît égoïste ; mais l'<c>amitié</c>, qui naît de l'utilité, devient pour Épicure le plus grand des biens que la sagesse procure et une valeur recherchée pour elle-même. <q>De tous les biens que la sagesse prépare, le plus grand de beaucoup est l'amitié</q> : l'intérêt bien compris s'épanouit ainsi en lien désintéressé.",
+          "en": "The starting point is each person's pursuit of his own happiness, which seems egoistic; but <c>friendship</c>, born of utility, becomes for Epicurus the greatest of the goods that wisdom procures and a thing sought for its own sake. <q>Of all that wisdom provides for the blessedness of the whole life, much the greatest is friendship</q>: self-interest rightly understood thus blossoms into a disinterested bond."
+        },
+        "references": [
+          {
+            "fr": "Maximes capitales, XXVII (l'amitié, le plus grand des biens)",
+            "en": "Principal Doctrines, XXVII (friendship, the greatest of goods)"
+          },
+          {
+            "fr": "Sentences vaticanes, 23 et 39 (l'amitié recherchée pour elle-même)",
+            "en": "Vatican Sayings, 23 and 39 (friendship sought for its own sake)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SOCIAL_CONTRACT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La <c>justice</c> n'a rien d'absolu ni de naturel en soi : elle est un <q>pacte d'utilité</q> conclu pour ne pas se nuire mutuellement, variable selon les lieux et les circonstances. Cette conception conventionnaliste, où le juste se réduit à un contrat fondé sur l'intérêt commun, est un <c>contractualisme</c> avant la lettre.",
+          "en": "<c>Justice</c> is nothing absolute or natural in itself: it is a <q>compact of utility</q> made so as not to harm one another, varying with place and circumstance. This conventionalist conception, where the just reduces to a contract grounded in common advantage, is an early form of <c>contractualism</c>."
+        },
+        "references": [
+          {
+            "fr": "Maximes capitales, XXXI-XXXVIII (la justice comme pacte d'utilité)",
+            "en": "Principal Doctrines, XXXI-XXXVIII (justice as a compact of utility)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "La justice naturelle est un pacte d'utilité conclu en vue de ne pas se nuire les uns aux autres et de ne pas en subir de dommage.",
+            "en": "Natural justice is a compact of advantage, made to the end that men may neither harm one another nor be harmed."
+          },
+          "source": {
+            "fr": "Maximes capitales, XXXI",
+            "en": "Principal Doctrines, XXXI"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HOPE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le bonheur épicurien se gagne dans le présent : il faut savoir jouir du bien présent et se garder de tout suspendre à l'attente d'un avenir incertain, car <q>le futur n'est ni tout à fait nôtre, ni tout à fait non nôtre</q>. Cette défiance envers l'espérance, qui détourne du plaisir actuel, incline du côté de la lucidité, sans virer au désespoir.",
+          "en": "Epicurean happiness is won in the present: one must know how to enjoy the present good and beware of hanging everything on the expectation of an uncertain future, for <q>the future is neither wholly ours nor wholly not ours</q>. This distrust of hope, which diverts us from present pleasure, leans toward lucidity, without tipping into despair."
+        },
+        "references": [
+          {
+            "fr": "Sentences vaticanes, 14 et 47 (jouir du présent, ne pas vivre dans l'attente)",
+            "en": "Vatican Sayings, 14 and 47 (enjoying the present, not living in expectation)"
+          },
+          {
+            "fr": "Lettre à Ménécée, 127 (le futur n'est ni tout à fait nôtre ni tout à fait non nôtre)",
+            "en": "Letter to Menoeceus, 127 (the future is neither wholly ours nor wholly not ours)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "PAST_RELATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La mémoire des plaisirs passés est une ressource du bonheur : le sage la convoque pour rester serein dans la douleur présente, et la gratitude pour ce qui fut tempère le regret. Cette manière d'accueillir le passé comme un bien à savourer, plutôt que de le contester, penche vers une acceptation sereine du côté de l'amor fati.",
+          "en": "The memory of past pleasures is a resource for happiness: the sage summons it to stay serene amid present pain, and gratitude for what has been tempers regret. This way of welcoming the past as a good to be savoured, rather than contesting it, leans toward a serene acceptance on the amor fati side."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies, X, 22 (la lettre d'adieu d'Épicure, joie du souvenir malgré les douleurs)",
+            "en": "Diogenes Laertius, Lives, X, 22 (Epicurus' farewell letter, joy of recollection amid pains)"
+          },
+          {
+            "fr": "Cicéron, Des termes extrêmes des biens et des maux, I (le souvenir des biens passés)",
+            "en": "Cicero, On Moral Ends, I (the memory of past goods)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La sagesse exige un examen lucide de soi et de ses désirs : il faut <q>méditer jour et nuit</q> les préceptes qui mènent à l'<c id='ataraxia'>ataraxie</c>, distinguer en soi les désirs vains des désirs naturels, et veiller sur ses opinions. Cette pratique réflexive, plus tournée vers la quiétude intérieure que vers l'action dans le monde, relève d'une vie examinée.",
+          "en": "Wisdom demands a lucid examination of oneself and of one's desires: one must <q>meditate day and night</q> on the precepts that lead to <c id='ataraxia'>ataraxia</c>, distinguish within oneself empty desires from natural ones, and keep watch over one's opinions. This reflective practice, turned more toward inner quietude than toward action in the world, belongs to the examined life."
+        },
+        "references": [
+          {
+            "fr": "Lettre à Ménécée, 122 et 135 (méditer ces préceptes jour et nuit)",
+            "en": "Letter to Menoeceus, 122 and 135 (meditate on these precepts day and night)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CAUSALITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          1,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le monde résulte de la seule rencontre mécanique des atomes dans le vide, sans aucune <c>cause finale</c> ni dessein : la nature ne fut pas faite pour les hommes, et c'est une erreur de chercher un but aux organes ou aux astres. <ph>Lucrèce</ph> raille explicitement l'illusion finaliste. C'est un <ax id='CAUSALITY'>mécanisme</ax> intégral, tempéré seulement par le hasard du <c id='clinamen'>clinamen</c>.",
+          "en": "The world results from the merely mechanical encounter of atoms in the void, without any <c>final cause</c> or design: nature was not made for men, and it is an error to seek a purpose in organs or stars. <ph>Lucretius</ph> explicitly mocks the finalist illusion. This is a thoroughgoing <ax id='CAUSALITY'>mechanism</ax>, tempered only by the chance of the <c id='clinamen'>clinamen</c>."
+        },
+        "references": [
+          {
+            "fr": "Lucrèce, De la nature des choses, IV, 823-857 (contre la finalité des organes)",
+            "en": "Lucretius, On the Nature of Things, IV, 823-857 (against the purposiveness of organs)"
+          },
+          {
+            "fr": "Lettre à Hérodote, 76-77 (les phénomènes célestes sans intervention divine)",
+            "en": "Letter to Herodotus, 76-77 (celestial phenomena without divine intervention)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'âme n'est pas une substance simple et immortelle mais un agrégat d'atomes très fins répartis dans le corps : elle se forme avec lui et se disperse à la mort, comme l'<c>atomisme</c> l'exige. Le moi se réduit ainsi à une composition matérielle transitoire, ce qui correspond à une théorie du faisceau plutôt qu'à un sujet substantiel.",
+          "en": "The soul is not a simple, immortal substance but an aggregate of very fine atoms distributed through the body: it forms with the body and scatters at death, as <c>atomism</c> requires. The self thus reduces to a transient material composition, which corresponds to a bundle theory rather than to a substantial subject."
+        },
+        "references": [
+          {
+            "fr": "Lettre à Hérodote, 63-68 (la nature corporelle de l'âme)",
+            "en": "Letter to Herodotus, 63-68 (the corporeal nature of the soul)"
+          },
+          {
+            "fr": "Lucrèce, De la nature des choses, III, 417-829 (l'âme matérielle et mortelle)",
+            "en": "Lucretius, On the Nature of Things, III, 417-829 (the material, mortal soul)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MACHINE_MIND",
+      "status": "NOT_APPLICABLE",
+      "note": {
+        "fr": "La question de l'esprit des machines (fonctionnalisme contre naturalisme biologique) est étrangère à l'Antiquité ; Épicure n'a aucune position sur ce débat contemporain.",
+        "en": "The question of machine minds (functionalism versus biological naturalism) is foreign to antiquity; Epicurus holds no position on this contemporary debate."
+      }
+    },
+    {
+      "axisId": "TECHNOLOGY",
+      "status": "NOT_APPLICABLE",
+      "note": {
+        "fr": "Le débat techno-optimisme contre techno-criticisme suppose la technique industrielle moderne ; il n'a pas de sens pour Épicure.",
+        "en": "The debate between techno-optimism and techno-criticism presupposes modern industrial technology; it is meaningless for Epicurus."
+      }
+    },
+    {
+      "axisId": "PROBLEM_OF_EVIL",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0,
+          0.05,
+          0.95
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le dilemme dit épicurien, transmis par Lactance, conclut qu'un Dieu à la fois bon et tout-puissant est incompatible avec l'existence du mal : ou il veut l'empêcher sans le pouvoir, ou il le peut sans le vouloir. Chez Épicure, les dieux bienheureux ne se mêlent pas du monde.",
+          "en": "The so-called Epicurean dilemma, transmitted by Lactantius, concludes that a God at once good and all-powerful is incompatible with the existence of evil: either he wishes to prevent it and cannot, or he can and will not. For Epicurus, the blessed gods do not meddle with the world."
+        },
+        "references": [
+          {
+            "fr": "Lactance, De la colère de Dieu, 13 (dilemme attribué) ; Lettre à Ménécée",
+            "en": "Lactantius, On the Anger of God, 13 (attributed dilemma); Letter to Menoeceus"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "thesis": {
+        "fr": "Le souverain bien est le <c id='hedonism'>plaisir</c>, mais le vrai plaisir n'est pas la jouissance : c'est l'<c id='ataraxia'>ataraxie</c>, l'état stable où, toute douleur ôtée, rien ne manque plus.",
+        "en": "The sovereign good is <c id='hedonism'>pleasure</c>, but true pleasure is not enjoyment: it is <c id='ataraxia'>ataraxia</c>, the stable state in which, once all pain is removed, nothing more is lacking."
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "thesis": {
+        "fr": "La <ax id='DEATH'>mort</ax> n'est rien pour nous : là où elle est, nous ne sommes plus, et nul ne peut pâtir d'un état où il n'existe pas.",
+        "en": "<ax id='DEATH'>Death</ax> is nothing to us: where it is, we no longer are, and no one can suffer a state in which he does not exist."
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "thesis": {
+        "fr": "Tous les <c>désirs</c> ne se valent pas : seuls comptent ceux qui sont naturels et nécessaires, faciles à combler, et c'est en les triant qu'on rend le bonheur accessible à tous.",
+        "en": "Not all <c>desires</c> are equal: only those that are natural and necessary, easily met, matter, and it is by sorting them that happiness is made attainable for all."
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "thesis": {
+        "fr": "Un atome peut dévier sans cause de sa chute, le <c id='clinamen'>clinamen</c> : ce grain d'indétermination dans la matière sauve le <c id='free-will'>libre arbitre</c> du destin des physiciens.",
+        "en": "An atom can swerve from its fall without cause, the <c id='clinamen'>clinamen</c>: this grain of indeterminacy in matter saves <c id='free-will'>free will</c> from the physicists' fate."
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "thesis": {
+        "fr": "Les dieux existent mais ne s'occupent en rien des hommes : parfaitement heureux, ils ne connaissent ni colère ni <c id='providence'>providence</c>, et n'ont donc pas à être craints.",
+        "en": "The gods exist but take no part in human affairs: perfectly happy, they know neither anger nor <c id='providence'>providence</c>, and so are not to be feared."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

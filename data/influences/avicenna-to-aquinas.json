@@ -1,0 +1,16 @@
+{
+  "id": "avicenna-to-aquinas",
+  "from": { "kind": "PHILOSOPHER", "slug": "avicenna" },
+  "to": { "kind": "PHILOSOPHER", "slug": "aquinas" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='aquinas'>Thomas d'Aquin</ph> reprend d'<ph id='avicenna'>Avicenne</ph> la distinction réelle de l'essence et de l'existence, mais la recompose : là où Avicenne fait de l'existence un accident qui s'ajoute à l'essence, Thomas la pense comme l'acte d'être (<c id='esse'>esse</c>) que Dieu confère, corrigeant ainsi son modèle au sein de sa propre métaphysique de l'être.",
+    "en": "<ph id='aquinas'>Aquinas</ph> takes up from <ph id='avicenna'>Avicenna</ph> the real distinction of essence and existence, but recasts it: where Avicenna treats existence as an accident added to essence, Aquinas thinks it as the act of being (<c id='esse'>esse</c>) that God confers, thereby correcting his model within his own metaphysics of being."
+  },
+  "sources": [
+    { "fr": "Thomas d'Aquin, De ente et essentia ; Somme contre les Gentils", "en": "Aquinas, De ente et essentia; Summa contra Gentiles" }
+  ],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

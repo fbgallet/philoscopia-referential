@@ -1,0 +1,11 @@
+{
+  "id": "avidya",
+  "term": { "fr": "Avidyā (l'ignorance)", "en": "Avidyā (ignorance)" },
+  "definition": {
+    "fr": "L'avidyā désigne l'ignorance sans commencement qui voile la réalité véritable et fait prendre le multiple pour l'ultime. Dans l'Advaita Vedānta, c'est elle qui surimpose la pluralité du monde et le moi individuel sur l'unique <c id='brahman'>brahman</c>, comme on croit voir un serpent là où n'est qu'une corde. Elle n'est pas une faute mais une erreur cognitive, et seule la <c id='jnana'>connaissance libératrice</c> peut la dissiper, révélant le <c id='atman'>Soi</c> qu'elle masquait.",
+    "en": "Avidyā names the beginningless ignorance that veils true reality and makes one mistake the manifold for the ultimate. In Advaita Vedānta it is what superimposes the world's plurality and the individual ego onto the one <c id='brahman'>brahman</c>, as one believes one sees a snake where there is only a rope. It is not a fault but a cognitive error, and only <c id='jnana'>liberating knowledge</c> can dispel it, revealing the <c id='atman'>Self</c> it had concealed."
+  },
+  "relatedAxes": ["SELF_NATURE", "REALITY_NATURE"],
+  "relatedTerms": ["jnana", "brahman", "atman", "maya"],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "liezi",
+  "stub": true,
+  "name": {
+    "fr": "Liezi",
+    "en": "Liezi"
+  },
+  "summary": {
+    "fr": "Maître <mv id='taoism'>taoïste</mv> semi-légendaire, auteur supposé du Liezi, recueil de récits sur la spontanéité et l'acceptation du cours des choses.",
+    "en": "Semi-legendary <mv id='taoism'>Taoist</mv> master, reputed author of the Liezi, a collection of tales on spontaneity and acceptance of the course of things."
+  },
+  "nationality": {
+    "fr": "Chinois",
+    "en": "Chinese"
+  },
+  "movements": [
+    "taoism"
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "MORAL_SCOPE",
+  "relation": "OTHERS",
+  "territory": "MORALS",
+  "label": {
+    "fr": "Statut des normes (métaéthique)",
+    "en": "Status of norms (metaethics)"
+  },
+  "question": {
+    "fr": "Les normes morales valent-elles pour tous, partout et toujours ?",
+    "en": "Do moral norms hold for everyone, everywhere, and always?"
+  },
+  "stakes": {
+    "fr": "Si la morale vaut partout, on peut condamner l'esclavage ou la torture où qu'ils se pratiquent, au risque d'imposer nos normes comme mesure de toutes ; si elle dépend des cultures, on respecte les différences, mais on perd tout droit de dénoncer la cruauté ailleurs. Se positionner, c'est dire si « c'est leur culture » clôt toute discussion morale.",
+    "en": "If morality holds everywhere, we can condemn slavery or torture wherever they are practised, at the risk of imposing our norms as the measure of all; if it depends on cultures, we respect differences but lose any right to denounce cruelty elsewhere. To take a position is to say whether \"it's their culture\" ends every moral argument."
+  },
+  "layer": "THEORY",
+  "type": "TRIANGULAR",
+  "poles": [
+    {
+      "id": "UNIVERSALISM_REALISM",
+      "label": {
+        "fr": "Universalisme",
+        "en": "Universalism"
+      },
+      "description": {
+        "fr": "Il existe des normes morales objectives, valables pour tous les êtres raisonnables, indépendamment des cultures et des époques. La raison peut les découvrir : ce qui est juste ne dépend ni de nos préférences ni de nos coutumes.",
+        "en": "There are objective moral norms, valid for all rational beings, independently of cultures and eras. Reason can discover them: what is right depends neither on our preferences nor on our customs."
+      },
+      "figures": [
+        {
+          "slug": "kant",
+          "name": {
+            "fr": "Kant",
+            "en": "Kant"
+          }
+        }
+      ]
+    },
+    {
+      "id": "RELATIVISM",
+      "label": {
+        "fr": "Relativisme",
+        "en": "Relativism"
+      },
+      "description": {
+        "fr": "Les normes morales varient selon les cultures, les époques et les perspectives : aucune ne peut prétendre à une validité absolue. Ce que nous appelons « le bien » est l'expression d'une coutume, d'une histoire ou d'une forme de vie particulière.",
+        "en": "Moral norms vary across cultures, eras, and perspectives: none can claim absolute validity. What we call \"the good\" expresses a particular custom, history, or form of life."
+      },
+      "nuances": [
+        {
+          "fr": "La théorie de l'erreur (Mackie : tous les jugements moraux sont faux) et le non-cognitivisme (Ayer : ils n'affirment rien, ils expriment) sont rangés de ce côté faute de pôle dédié ; ce sont des positions métaéthiques distinctes du relativisme culturel.",
+          "en": "Error theory (Mackie: all moral judgments are false) and non-cognitivism (Ayer: they assert nothing, they express) are filed on this side for want of a dedicated pole; they are metaethical positions distinct from cultural relativism."
+        }
+      ],
+      "figures": [
+        {
+          "slug": "montaigne",
+          "name": {
+            "fr": "Montaigne",
+            "en": "Montaigne"
+          }
+        },
+        {
+          "slug": "nietzsche",
+          "name": {
+            "fr": "Nietzsche",
+            "en": "Nietzsche"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CONSTRUCTIVISM",
+      "label": {
+        "fr": "Constructivisme",
+        "en": "Constructivism"
+      },
+      "description": {
+        "fr": "Les normes morales ne sont ni découvertes dans la nature des choses ni simplement relatives : elles sont construites par des procédures rationnelles équitables, comme la délibération sous un voile d'ignorance ou la discussion entre égaux. Leur validité tient à la légitimité du processus qui les engendre.",
+        "en": "Moral norms are neither discovered in the nature of things nor merely relative: they are constructed through fair rational procedures, such as deliberation behind a veil of ignorance or discussion among equals. Their validity rests on the legitimacy of the process that generates them."
+      },
+      "figures": [
+        {
+          "slug": "rawls",
+          "name": {
+            "fr": "Rawls",
+            "en": "Rawls"
+          }
+        },
+        {
+          "slug": "habermas",
+          "name": {
+            "fr": "Habermas",
+            "en": "Habermas"
+          }
+        }
+      ]
+    }
+  ],
+  "core": true,
+  "difficulty": 2,
+  "clusters": [],
+  "relatedAxes": [
+    "RIGHTS_NATURE",
+    "ETHICS_FOUNDATION",
+    "MORAL_CIRCLE"
+  ]
+}

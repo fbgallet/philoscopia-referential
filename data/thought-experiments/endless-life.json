@@ -1,0 +1,60 @@
+{
+  "id": "endless-life",
+  "title": {
+    "fr": "La vie sans fin",
+    "en": "The endless life"
+  },
+  "description": {
+    "fr": "Elina Makropulos a bu, à trente-sept ans, un élixir qui suspend la mort. Trois siècles plus tard, elle a tout connu, tout aimé, tout perdu plusieurs fois. Les passions se sont émoussées, les rencontres se répètent, plus rien n'a le goût du neuf : sa vie interminable s'est figée dans une indifférence glacée, et elle finit par refuser de renouveler l'élixir, comme on consent enfin au repos. Son histoire pose une question gênante : et si la mort, loin d'être seulement ce qui nous menace, était aussi ce qui donne à nos jours leur prix ?",
+    "en": "At thirty-seven, Elina Makropulos drank an elixir that suspends death. Three centuries later, she has known everything, loved everything, lost everything several times over. Passions have dulled, encounters repeat, nothing tastes new any longer: her unending life has frozen into a glacial indifference, and she finally refuses to renew the elixir, as one at last consents to rest. Her story raises an uncomfortable question: what if death, far from being only what threatens us, were also what gives our days their worth?"
+  },
+  "source": {
+    "author": { "fr": "Bernard Williams", "en": "Bernard Williams" },
+    "work": { "fr": "Le cas Makropulos", "en": "The Makropulos Case" },
+    "year": 1973
+  },
+  "question": {
+    "fr": "Accepteriez-vous une vie sans fin ? Si vous hésitez, qu'est-ce que cela révèle de la place que la mort tient dans une vie qui a du sens ?",
+    "en": "Would you accept an endless life? If you hesitate, what does that reveal about the place death holds in a life that has meaning?"
+  },
+  "axisIds": ["DEATH"],
+  "options": [
+    {
+      "id": "would-refuse",
+      "label": {
+        "fr": "Je refuserais : une vie sans horizon perdrait sa saveur. C'est parce que mon temps est compté qu'il a du prix.",
+        "en": "I would refuse: a life without horizon would lose its savor. It is because my time is finite that it has worth."
+      },
+      "hints": [{ "axisId": "DEATH", "value": { "kind": "weights", "weights": [0.5, 0.5, 0, 0] } }],
+      "discussion": {
+        "fr": "Vous faites de la finitude une condition du sens : intuition partagée par l'épicurien, qui savoure le présent, et par Heidegger, pour qui la mort donne son poids à l'existence.",
+        "en": "You make finitude a condition of meaning: an intuition shared by the Epicurean, who savors the present, and by Heidegger, for whom death gives existence its weight."
+      }
+    },
+    {
+      "id": "would-accept",
+      "label": {
+        "fr": "Je l'accepterais volontiers : il y a toujours à apprendre, à aimer, à découvrir. L'ennui d'Elina trahit un manque d'imagination, pas une loi de la vie.",
+        "en": "I would gladly accept it: there is always more to learn, to love, to discover. Elina's boredom betrays a failure of imagination, not a law of life."
+      },
+      "hints": [{ "axisId": "DEATH", "value": { "kind": "weights", "weights": [0, 0, 1, 0] } }],
+      "discussion": {
+        "fr": "Vous refusez de faire de la mort un bien : si quelque chose de nous pouvait durer sans se figer, ce serait à désirer, non à craindre.",
+        "en": "You refuse to make death a good: if something of us could last without freezing over, it would be worth desiring, not fearing."
+      }
+    },
+    {
+      "id": "only-if-growing",
+      "label": {
+        "fr": "Seulement si je pouvais continuer de changer et de me renouveler : c'est la répétition, non la durée, qui a perdu Elina.",
+        "en": "Only if I could keep changing and renewing myself: it is repetition, not duration, that undid Elina."
+      },
+      "hints": [{ "axisId": "DEATH", "value": { "kind": "weights", "weights": [0.15, 0.7, 0.15, 0] } }],
+      "discussion": {
+        "fr": "Vous déplacez la question vers ce qui fait qu'une vie reste vivante : un projet toujours ouvert, plutôt qu'une simple addition de jours.",
+        "en": "You shift the question toward what keeps a life alive: an ever-open project, rather than a mere addition of days."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-19T00:00:00.000Z"
+}

@@ -1,0 +1,444 @@
+{
+  "kind": "MOVEMENT",
+  "id": "pragmatism",
+  "name": {
+    "fr": "Pragmatisme",
+    "en": "Pragmatism"
+  },
+  "tagline": {
+    "fr": "Une idée vaut ce que vaut sa différence pratique : le vrai est ce qui se vérifie dans l'<c>enquête</c>.",
+    "en": "An idea is worth the practical difference it makes: the true is what gets verified in <c>inquiry</c>."
+  },
+  "summary": {
+    "fr": "Première philosophie proprement américaine, née dans l'Amérique d'après la guerre de Sécession, au sein du <kw>Metaphysical Club</kw> qui réunit à Cambridge, vers 1872, <ph>Charles Sanders Peirce</ph>, <ph>William James</ph> et quelques juristes et savants soucieux de penser sans dogmes. Peirce en forge la méthode, James la diffuse au grand public, <ph>John Dewey</ph> l'élargit en une vaste philosophie de l'<c>expérience</c>, de l'éducation et de la démocratie, avant que <ph>Richard Rorty</ph> ne la ranime à la fin du XXe siècle. Marqué par le darwinisme, qui fait de la pensée un organe d'adaptation et non un miroir, et par l'idéal démocratique d'une enquête collective sans autorité ultime, le pragmatisme cherche à sortir des querelles stériles entre <mv id='rationalism'>rationalisme</mv> et <mv id='empiricism'>empirisme</mv> en ramenant tout débat à ce qui ferait, concrètement, une différence. Longtemps éclipsé par la philosophie analytique, il connaît depuis un net regain et reste la matrice de tout un courant américain en éthique, en éducation et en théorie sociale.",
+    "en": "The first distinctively American philosophy, born in the United States after the Civil War, within the <kw>Metaphysical Club</kw> that gathered in Cambridge around 1872 <ph>Charles Sanders Peirce</ph>, <ph>William James</ph> and a few jurists and scientists intent on thinking without dogmas. Peirce forged its method, James spread it to a wide public, <ph>John Dewey</ph> broadened it into a vast philosophy of <c>experience</c>, education and democracy, before <ph>Richard Rorty</ph> revived it late in the twentieth century. Shaped by Darwinism, which casts thought as an organ of adaptation rather than a mirror, and by the democratic ideal of a collective inquiry with no final authority, pragmatism sought to escape the sterile quarrels between <mv id='rationalism'>rationalism</mv> and <mv id='empiricism'>empiricism</mv> by referring every dispute back to what would, concretely, make a difference. Long eclipsed by analytic philosophy, it has since seen a marked revival and remains the matrix of a whole American strand in ethics, education and social theory."
+  },
+  "period": {
+    "from": 1870
+  },
+  "keyFigures": [
+    {
+      "slug": "peirce",
+      "name": { "fr": "Charles Sanders Peirce", "en": "Charles Sanders Peirce" }
+    },
+    {
+      "slug": "william-james",
+      "name": { "fr": "William James", "en": "William James" }
+    },
+    {
+      "slug": "dewey",
+      "name": { "fr": "John Dewey", "en": "John Dewey" }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.45,
+          0,
+          0.4,
+          0.15
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le pragmatisme tient la morale pour expérimentale : pas de fin fixe ni de loi a priori, mais une intelligence qui, en situation, évalue les conduites à leurs effets sur l'expérience et la croissance. Dewey y joint la formation de dispositions et d'habitudes (une part de vertu) et le souci des conséquences sociales. Le juste se décide à l'épreuve, comme une hypothèse à vérifier.",
+          "en": "Pragmatism holds morality to be experimental: no fixed end or a priori law, but an intelligence that, in situation, evaluates conduct by its effects on experience and growth. Dewey joins to this the formation of dispositions and habits (a share of virtue) and the concern for social consequences. The right is decided in the testing, like a hypothesis to be verified."
+        },
+        "references": [
+          {
+            "fr": "Dewey, Théorie de la vie morale",
+            "en": "Dewey, Theory of the Moral Life"
+          },
+          {
+            "fr": "Dewey, Reconstruction en philosophie",
+            "en": "Dewey, Reconstruction in Philosophy"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le pragmatisme est <c>méliriste</c> : il tient les maux et les souffrances pour des problèmes concrets à réduire par l'intelligence en acte et la réforme sociale, non pour une fatalité à interpréter. Dewey refuse aussi bien la résignation que la consolation métaphysique : la tâche est d'agir sur les conditions qui produisent la souffrance évitable, en pariant sur leur amélioration possible.",
+          "en": "Pragmatism is <c>meliorist</c>: it holds evils and sufferings to be concrete problems to be reduced through intelligence in action and social reform, not a fatality to be interpreted. Dewey refuses both resignation and metaphysical consolation: the task is to act on the conditions that produce avoidable suffering, wagering on their possible improvement."
+        },
+        "references": [
+          {
+            "fr": "Dewey, Reconstruction en philosophie",
+            "en": "Dewey, Reconstruction in Philosophy"
+          },
+          {
+            "fr": "Dewey, Le Public et ses problèmes",
+            "en": "Dewey, The Public and Its Problems"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0.85,
+          0.05,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le pragmatisme ne reçoit pas le sens d'un ordre tout fait : il se fabrique dans l'action, par la <c>croissance</c> de l'expérience et la résolution des problèmes qui rendent la vie plus riche. Dewey récuse les fins fixes au profit d'un sens ouvert et méliriste, et James fait de la confiance en l'avenir une foi qui aide à le réaliser : signification humaine, pratique et révisable.",
+          "en": "Pragmatism does not receive meaning from a ready-made order: it is fashioned in action, through the <c>growth</c> of experience and the resolution of problems that make life richer. Dewey rejects fixed ends in favor of an open, meliorist meaning, and James makes confidence in the future a faith that helps to realize it: a human, practical and revisable significance."
+        },
+        "references": [
+          {
+            "fr": "Dewey, Reconstruction en philosophie",
+            "en": "Dewey, Reconstruction in Philosophy"
+          },
+          {
+            "fr": "James, La Volonté de croire",
+            "en": "James, The Will to Believe"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.2,
+          0.7,
+          0.1
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Pour le pragmatisme, le bien n'est pas une fin fixe à contempler mais la <c>croissance</c> elle-même : l'enrichissement continu de l'expérience, le développement des capacités, la résolution intelligente des problèmes qui rend la vie plus pleine. Dewey récuse l'idée d'un souverain bien immuable au profit d'un épanouissement ouvert et révisable.",
+          "en": "For pragmatism, the good is not a fixed end to contemplate but <c>growth</c> itself: the continuous enrichment of experience, the development of capacities, the intelligent resolution of problems that makes life fuller. Dewey rejects the idea of an immutable highest good in favor of an open, revisable flourishing."
+        },
+        "references": [
+          {
+            "fr": "Dewey, Reconstruction en philosophie",
+            "en": "Dewey, Reconstruction in Philosophy"
+          },
+          {
+            "fr": "Dewey, Démocratie et éducation",
+            "en": "Dewey, Democracy and Education"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.45,
+          0.5,
+          0.05
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le pragmatisme naturalise le désir : loin de l'opposer à la raison, Dewey y voit le ressort de la valeur, l'<c>intérêt</c> qui meut l'enquête et oriente la conduite. Le désir n'est ni à éteindre ni à suivre tel quel, mais à éduquer par l'intelligence, qui le transforme en fin réfléchie : une affirmation du désir ordonnée par son examen pratique.",
+          "en": "Pragmatism naturalizes desire: far from opposing it to reason, Dewey sees in it the spring of value, the <c>interest</c> that moves inquiry and orients conduct. Desire is neither to be extinguished nor followed as is, but to be educated by intelligence, which turns it into a reflective end: an affirmation of desire ordered by its practical examination."
+        },
+        "references": [
+          {
+            "fr": "Dewey, La Quête de la certitude",
+            "en": "Dewey, The Quest for Certainty"
+          },
+          {
+            "fr": "Dewey, Théorie de la valuation",
+            "en": "Dewey, Theory of Valuation"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "William James récuse le <kw>bloc-univers</kw> du déterminisme, où l'avenir serait déjà contenu dans le passé, au profit d'un monde ouvert où le hasard, la nouveauté et le choix sont réels. Son argument est autant moral que théorique : sans futurs alternatifs véritables, le regret et l'effort perdent leur sens. Par sa lignée jamesienne, le pragmatisme penche pour le libre arbitre et l'indéterminisme, même si les figures en nuancent la portée.",
+          "en": "William James rejects the determinist <kw>block universe</kw>, in which the future would already be contained in the past, in favor of an open world where chance, novelty and choice are real. His argument is as moral as it is theoretical: without genuine alternative futures, regret and effort lose their sense. Through its Jamesian lineage, pragmatism leans toward free will and indeterminism, even if its figures qualify the claim."
+        },
+        "references": [
+          {
+            "fr": "James, Le Dilemme du déterminisme",
+            "en": "James, The Dilemma of Determinism"
+          },
+          {
+            "fr": "James, Principes de psychologie",
+            "en": "James, The Principles of Psychology"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TRUTH_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.1, 0.15, 0.75] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Demander d'une idée si elle « copie » fidèlement un réel donné est, pour James, un <pb>faux problème</pb> : une copie qu'on ne saurait confronter à son modèle ne fait aucune différence repérable. Reste alors un seul critère opérant : une idée est vraie si, mise à l'épreuve, elle nous guide sans heurt à travers l'<c>expérience</c>, relie nos croyances et tient ses promesses. Le vrai devient ainsi un <kw>processus</kw>, ce qui se <c>vérifie</c> dans le cours de l'<c>enquête</c>, et non une propriété déjà inscrite dans l'énoncé. La thèse vise le réalisme de la correspondance partagé par le <mv id='rationalism'>rationalisme</mv> comme par l'<mv id='empiricism'>empirisme</mv> classique : Peirce la tempère pourtant en plaçant à l'horizon de l'enquête indéfiniment poursuivie une opinion finale sur laquelle les chercheurs convergeraient, ce qui réintroduit une forme régulatrice de réalité.",
+          "en": "Asking whether an idea faithfully « copies » a given reality is, for James, a <pb>pseudo-problem</pb>: a copy we could never set beside its model makes no detectable difference. One workable criterion then remains: an idea is true if, put to the test, it guides us smoothly through <c>experience</c>, knits our beliefs together and keeps its promises. The true thereby becomes a <kw>process</kw>, what gets <c>verified</c> in the course of <c>inquiry</c>, and not a property already lodged in the statement. The thesis targets the correspondence realism shared by <mv id='rationalism'>rationalism</mv> and classical <mv id='empiricism'>empiricism</mv> alike: Peirce tempers it, though, by placing at the horizon of indefinitely pursued inquiry a final opinion on which investigators would converge, which reintroduces a regulative form of reality."
+        },
+        "references": [
+          { "fr": "Peirce, « Comment rendre nos idées claires » (1878)", "en": "Peirce, 'How to Make Our Ideas Clear' (1878)" },
+          { "fr": "James, Le Pragmatisme (1907), leçons II et VI", "en": "James, Pragmatism (1907), lectures II and VI" }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "Le vrai, pour le dire très brièvement, n'est que ce qui nous réussit dans l'ordre de la pensée.",
+            "en": "The true, to put it very briefly, is only the expedient in the way of our thinking."
+          },
+          "source": {
+            "fr": "James, Le Pragmatisme, leçon VI",
+            "en": "James, Pragmatism, lecture VI"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.6 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Aucune croyance ne repose sur un fondement premier et indubitable : c'est l'erreur du <c id='dogmatism'>dogmatisme</c>, et celle du doute cartésien, que de chercher hors de l'<c>enquête</c> un socle qui la garantirait du dehors. Peirce renverse l'ordre : on ne part jamais de zéro, mais d'un tissu de croyances héritées que seul un doute réel, né d'une difficulté concrète, vient ébranler, jamais un doute feint posé par principe. De là le <c id='fallibilism'>faillibilisme</c> : nos opinions les mieux assurées restent corrigibles par l'expérience à venir, sans qu'aucune n'échappe en droit à la révision. La position se distingue ainsi à la fois de la quête rationaliste d'un point de départ certain et du <c id='skepticism'>scepticisme</c> qui, faute de ce point, suspendrait l'action : on enquête depuis l'intérieur de croyances révisables, sans dehors qui les fonde.",
+          "en": "No belief rests on a first, indubitable foundation: it is the error of <c id='dogmatism'>dogmatism</c>, and of Cartesian doubt, to seek outside <c>inquiry</c> a bedrock that would secure it from without. Peirce reverses the order: one never starts from scratch but from a fabric of inherited beliefs that only a real doubt, sprung from a concrete difficulty, can unsettle, never a feigned doubt posited on principle. Hence <c id='fallibilism'>fallibilism</c>: our best-assured opinions stay correctable by future experience, none escaping revision by right. The position thereby parts company both with the rationalist quest for a certain starting point and with the <c id='skepticism'>skepticism</c> that, lacking such a point, would suspend action: one inquires from within revisable beliefs, with no outside to ground them."
+        },
+        "references": [
+          { "fr": "Peirce, « La fixation de la croyance » (1877)", "en": "Peirce, 'The Fixation of Belief' (1877)" },
+          { "fr": "Dewey, Logique : la théorie de l'enquête (1938)", "en": "Dewey, Logic: The Theory of Inquiry (1938)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_STATUS",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.6 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'<c>enquête</c>, pour Dewey, ne reflète pas passivement un objet préexistant : elle transforme une situation indéterminée en une situation déterminée, et façonne ainsi ses propres objets de connaissance. Le savoir est une construction active, instrumentale, située dans une pratique, plutôt que le décalque d'une réalité indépendante. La tendance est <c>constructiviste</c>, sans nier toute résistance du réel.",
+          "en": "<c>Inquiry</c>, for Dewey, does not passively mirror a pre-existing object: it transforms an indeterminate situation into a determinate one, and so shapes its own objects of knowledge. Knowing is an active, instrumental construction, embedded in a practice, rather than the tracing of an independent reality. The leaning is <c>constructivist</c>, without denying that reality offers resistance."
+        },
+        "references": [
+          { "fr": "Dewey, Logique : la théorie de l'enquête (1938)", "en": "Dewey, Logic: The Theory of Inquiry (1938)" },
+          { "fr": "Dewey, La Quête de la certitude (1929)", "en": "Dewey, The Quest for Certainty (1929)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.55 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le pragmatisme s'enracine dans l'expérience plutôt que dans la raison pure : James élabore un <kw>empirisme radical</kw> où les relations elles-mêmes sont données dans le flux de l'expérience, et Dewey ancre toute pensée dans la transaction de l'organisme avec son milieu. La connaissance procède de l'expérimentation et de ses conséquences observables, dans la filiation de l'<mv id='empiricism'>empirisme</mv> britannique, qu'il prolonge en le débarrassant de l'idée d'une donnée sensible inerte.",
+          "en": "Pragmatism is rooted in experience rather than pure reason: James develops a <kw>radical empiricism</kw> in which relations themselves are given within the flux of experience, and Dewey grounds all thought in the organism's transaction with its environment. Knowledge proceeds from experimentation and its observable consequences, in the lineage of British <mv id='empiricism'>empiricism</mv>, which it extends while ridding it of the idea of an inert sense datum."
+        },
+        "references": [
+          { "fr": "James, Essais d'empirisme radical (1912)", "en": "James, Essays in Radical Empiricism (1912)" },
+          { "fr": "Dewey, L'Expérience et la nature (1925)", "en": "Dewey, Experience and Nature (1925)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.7 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Une croyance n'est pas un état mental contemplatif mais une <bel>habitude d'action</bel> : ce qui la distingue d'une autre, c'est la conduite à laquelle elle dispose, ainsi que l'établit Peirce. La pensée naît alors d'une rupture dans l'action, le doute, et ne s'apaise que par le rétablissement d'une conduite assurée, la croyance fixée. L'<c>enquête</c> n'est donc pas un spectacle posé devant un monde déjà fait : elle est, chez Dewey, la transformation active d'une situation troublée en une situation maîtrisée, un segment de l'agir continu de l'organisme avec son milieu. La thèse récuse le partage hérité entre la theoria contemplative et la <c id='praxis'>praxis</c> subordonnée, partage qui dévalorisait le faire au profit du voir : pour le pragmatisme, connaître est une espèce d'agir, et le « spectateur » désengagé est une fiction philosophique.",
+          "en": "A belief is not a contemplative mental state but a <bel>habit of action</bel>: what tells one belief from another is the conduct it disposes us toward, as Peirce establishes. Thought then arises from a break in action, doubt, and is stilled only by the restoration of settled conduct, fixed belief. <c>Inquiry</c> is thus no spectacle set before a ready-made world: in Dewey it is the active transformation of a troubled situation into a controlled one, a stretch of the organism's continuous dealing with its environment. The thesis rejects the inherited split between contemplative theoria and subordinate <c id='praxis'>praxis</c>, a split that demeaned doing in favor of seeing: for pragmatism, to know is a kind of acting, and the detached « spectator » is a philosophical fiction."
+        },
+        "references": [
+          { "fr": "Peirce, « Comment rendre nos idées claires » (1878)", "en": "Peirce, 'How to Make Our Ideas Clear' (1878)" },
+          { "fr": "Dewey, Démocratie et éducation (1916)", "en": "Dewey, Democracy and Education (1916)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CONSERVATISM_PROGRESSISM",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.75 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le <c>méliorisme</c> tient le monde pour ni fatalement bon ni fatalement mauvais, mais améliorable par l'effort intelligent : c'est le ressort du réformisme de Dewey, qui investit l'éducation et la démocratie comme leviers d'un progrès graduel et expérimental. <stk>La société n'est pas un ordre à conserver mais un chantier à réviser sans cesse</stk>, par essais, erreurs et corrections.",
+          "en": "<c>Meliorism</c> holds the world to be neither fatally good nor fatally bad, but improvable through intelligent effort: this drives Dewey's reformism, which invests education and democracy as levers of gradual, experimental progress. <stk>Society is not an order to be preserved but a project to be revised without end</stk>, through trial, error and correction."
+        },
+        "references": [
+          { "fr": "Dewey, Le Public et ses problèmes (1927)", "en": "Dewey, The Public and Its Problems (1927)" },
+          { "fr": "James, Le Pragmatisme (1907), leçon VIII", "en": "James, Pragmatism (1907), lecture VIII" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SCIENCE_PLACE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.4 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le pragmatisme érige la <kw>méthode expérimentale</kw> des sciences en modèle de toute <c>enquête</c> rationnelle, y compris morale et sociale, mais sans réduire toute valeur au mesurable : James défend les droits de l'expérience religieuse et morale, et Dewey refuse de tenir la science pour l'unique forme de sens. La position est donc favorable à la science tout en restant pluraliste, à distance du <kw>scientisme</kw>.",
+          "en": "Pragmatism erects the sciences' <kw>experimental method</kw> as the model of all rational <c>inquiry</c>, moral and social included, yet without reducing all value to the measurable: James defends the rights of religious and moral experience, and Dewey refuses to treat science as the only form of meaning. The stance is therefore favorable to science while remaining pluralist, keeping its distance from scientism."
+        },
+        "references": [
+          { "fr": "Dewey, La Quête de la certitude (1929)", "en": "Dewey, The Quest for Certainty (1929)" },
+          { "fr": "James, La Volonté de croire (1897)", "en": "James, The Will to Believe (1897)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.1, 0.2, 0.7] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Les valeurs morales ne sont pour les pragmatistes ni des essences éternelles à découvrir ni de pures conventions arbitraires : elles s'élaborent et se justifient dans l'<c>enquête</c>, à l'épreuve de leurs conséquences sur l'expérience partagée. Dewey traite les jugements de valeur comme des hypothèses révisables, soumises au même test pratique que les énoncés de fait. Le bien se construit dans la délibération sociale.",
+          "en": "Moral values, for the pragmatists, are neither eternal essences to be discovered nor purely arbitrary conventions: they are worked out and justified within <c>inquiry</c>, tested by their consequences for shared experience. Dewey treats value judgments as revisable hypotheses, submitted to the same practical test as statements of fact. The good is constructed in social deliberation."
+        },
+        "references": [
+          { "fr": "Dewey, Reconstruction en philosophie (1920)", "en": "Dewey, Reconstruction in Philosophy (1920)" },
+          { "fr": "Dewey, La Théorie de la valuation (1939)", "en": "Dewey, Theory of Valuation (1939)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.6 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "<dif>Le pragmatisme se défie des essences fixes posées avant l'expérience</dif> : les concepts, les espèces, les institutions sont des produits d'une histoire et d'une pratique, façonnés par leurs fonctions plutôt que donnés une fois pour toutes. Dewey, marqué par le darwinisme, pense les formes comme des stabilisations provisoires dans un devenir : le faire et le devenir priment l'être achevé. La tendance est existentialiste au sens large du primat de l'existence sur l'essence.",
+          "en": "<dif>Pragmatism distrusts fixed essences posited before experience</dif>: concepts, species and institutions are products of a history and a practice, shaped by their functions rather than given once and for all. Dewey, marked by Darwinism, thinks of forms as provisional stabilizations within a becoming: doing and becoming take priority over finished being. The leaning is existentialist in the broad sense of the primacy of existence over essence."
+        },
+        "references": [
+          { "fr": "Dewey, L'Influence de Darwin sur la philosophie (1910)", "en": "Dewey, The Influence of Darwin on Philosophy (1910)" },
+          { "fr": "James, Le Pragmatisme (1907), leçon IV", "en": "James, Pragmatism (1907), lecture IV" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.1, 0.8, 0.1]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Deux idées entre lesquelles on ne saurait imaginer aucune différence d'effets pratiques ont, pour Peirce, exactement le même sens : telle est la <kw>maxime pragmatique</kw>, règle de clarté plus exigeante que les « idées claires et distinctes » de <ph id='descartes'>Descartes</ph>. Pour fixer le sens d'un concept, on recense l'ensemble des conséquences sensibles ou pratiques qu'on en attendrait, et rien de plus : ce répertoire d'effets concevables épuise la signification. La portée est polémique : une dispute métaphysique dont aucune issue ne ferait de différence dans l'expérience est ainsi reconduite à un <pb>conflit verbal</pb> dépourvu d'objet. C'est le geste fondateur du courant, dont dérivent et sa conception du vrai et son rejet des pseudo-problèmes, et qui le sépare d'une sémantique référentielle où le sens précéderait tout usage.",
+          "en": "Two ideas between which we could imagine no difference of practical effects have, for Peirce, exactly the same meaning: such is the <kw>pragmatic maxim</kw>, a rule of clarity more demanding than the « clear and distinct ideas » of <ph id='descartes'>Descartes</ph>. To fix a concept's meaning, one lists the whole set of sensible or practical consequences one would expect from it, and nothing more: that inventory of conceivable effects exhausts the meaning. Its bearing is polemical: a metaphysical dispute whose outcome would make no difference to experience is thereby reduced to a <pb>verbal conflict</pb> with no object. This is the current's founding gesture, from which both its conception of truth and its dismissal of pseudo-problems derive, and which sets it apart from a referential semantics where meaning would precede all use."
+        },
+        "references": [
+          {
+            "fr": "Peirce, Comment rendre nos idées claires ; James, Le Pragmatisme",
+            "en": "Peirce, How to Make Our Ideas Clear; James, Pragmatism"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "MEANING",
+      "thesis": {
+        "fr": "Tout le sens d'une idée tient dans ses effets pratiques concevables : là où aucune différence d'effets n'est imaginable, il n'y a pas deux idées mais une seule, et la querelle est verbale.",
+        "en": "The whole meaning of an idea lies in its conceivable practical effects: where no difference of effects can be imagined, there are not two ideas but one, and the quarrel is merely verbal."
+      }
+    },
+    {
+      "axisId": "TRUTH_NATURE",
+      "thesis": {
+        "fr": "Le vrai n'est pas une copie d'un réel déjà fait mais ce qui se <c>vérifie</c> dans l'<c>enquête</c> : une idée devient vraie en nous guidant avec succès à travers l'<c>expérience</c>.",
+        "en": "The true is not a copy of a ready-made reality but what gets <c>verified</c> in <c>inquiry</c>: an idea becomes true by guiding us successfully through <c>experience</c>."
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "thesis": {
+        "fr": "Aucune croyance ne repose sur un fondement premier indubitable : on enquête toujours depuis des croyances héritées et <c id='fallibilism'>faillibles</c>, qu'aucune certitude définitive ne met à l'abri de la révision.",
+        "en": "No belief rests on a first, indubitable foundation: we always inquire from inherited and <c id='fallibilism'>fallible</c> beliefs that no final certainty shields from revision."
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "thesis": {
+        "fr": "Penser, c'est agir : une croyance est une <bel>habitude d'action</bel>, et l'<c>enquête</c> ne contemple pas le monde, elle transforme une situation troublée en une situation maîtrisée.",
+        "en": "To think is to act: a belief is a <bel>habit of action</bel>, and <c>inquiry</c> does not contemplate the world but turns a troubled situation into a controlled one."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

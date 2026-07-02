@@ -1,0 +1,825 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "locke",
+  "name": {
+    "fr": "Locke",
+    "en": "Locke"
+  },
+  "fullName": {
+    "fr": "John Locke",
+    "en": "John Locke"
+  },
+  "tagline": {
+    "fr": "L'esprit est d'abord une <c id='tabula-rasa'>table rase</c> ; le pouvoir, un dépôt révocable du peuple.",
+    "en": "The mind is first a <c id='tabula-rasa'>blank slate</c>; power, a revocable trust of the people."
+  },
+  "summary": {
+    "fr": "Médecin et philosophe anglais du Siècle des lumières naissant, tenu pour le père de l'<mv id='empiricism'>empirisme</mv> classique et du libéralisme politique. Lié au comte de Shaftesbury, mêlé aux luttes contre l'absolutisme des Stuart, il connaît l'exil aux Provinces-Unies et ne publie ses grands ouvrages qu'au retour, après la Glorieuse Révolution de 1688. Son <w id='essay-concerning-human-understanding-locke'>Essai sur l'entendement humain</w> entreprend de mesurer la portée et les limites de la connaissance humaine, contre le <mv id='rationalism'>rationalisme</mv> de <ph id='descartes'>Descartes</ph> ; ses <w id='two-treatises-of-government-locke'>Traités du gouvernement civil</w>, écrits contre l'absolutisme, refondent la légitimité du pouvoir, et sa <w id='letter-concerning-toleration-locke'>Lettre sur la tolérance</w> sépare l'Église de l'État. Méthode patiente, attentive à l'usage ordinaire de l'esprit, plus soucieuse de <c>probabilité</c> que de système. Sa postérité est immense : il inspire les Lumières, et ses thèses sur les droits naturels et le consentement nourrissent la révolution américaine comme la Révolution française.",
+    "en": "An English physician and philosopher of the dawning Enlightenment, regarded as the father of classical <mv id='empiricism'>empiricism</mv> and of political liberalism. Attached to the Earl of Shaftesbury, caught up in the struggles against Stuart absolutism, he was exiled to the Dutch Republic and published his major works only on his return, after the Glorious Revolution of 1688. His <w id='essay-concerning-human-understanding-locke'>Essay Concerning Human Understanding</w> sets out to gauge the reach and the limits of human knowledge, against the <mv id='rationalism'>rationalism</mv> of <ph id='descartes'>Descartes</ph>; his <w id='two-treatises-of-government-locke'>Two Treatises of Government</w>, written against absolutism, recast the legitimacy of power, and his <w id='letter-concerning-toleration-locke'>Letter Concerning Toleration</w> separates Church from State. His method is patient, attentive to the ordinary working of the mind, more concerned with <c>probability</c> than with system. His legacy is immense: he shaped the Enlightenment, and his theses on natural rights and consent fed both the American Revolution and the French Revolution."
+  },
+  "birth": 1632,
+  "death": 1704,
+  "nationality": {
+    "fr": "Anglais",
+    "en": "English"
+  },
+  "movements": [
+    "empiricism"
+  ],
+  "entries": [
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Dans la psychologie lockienne, la peine est, avec le plaisir, le ressort de toute action : nous fuyons naturellement la douleur, et le bien se mesure pour une part à ce qui en délivre. La souffrance n'a pas de valeur propre, elle est un mal à éviter et à soulager, même si l'horizon chrétien de Locke lui laisse une place dans l'épreuve de cette vie.",
+          "en": "In Lockean psychology, pain is, together with pleasure, the spring of all action: we naturally flee pain, and the good is measured in part by what delivers us from it. Suffering has no value of its own, it is an evil to be avoided and relieved, even if Locke's Christian horizon leaves it a place in the trial of this life."
+        },
+        "references": [
+          {
+            "fr": "Essai sur l'entendement humain, II, 20-21",
+            "en": "Essay concerning Human Understanding, II, 20-21"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.65,
+          0.35,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Chrétien, Locke tient l'homme pour l'ouvrage et la propriété de Dieu, placé dans le monde pour y accomplir ses fins selon la loi naturelle qu'éclaire la raison. Ce cadre providentiel donne à la vie sa direction ; mais Locke y joint une large part humaine, la libre poursuite du bonheur et le soin de soi, qui n'attend pas son sens d'une révélation.",
+          "en": "A Christian, Locke holds man to be the workmanship and property of God, set in the world to fulfill his ends according to the natural law that reason illumines. This providential frame gives life its direction; but Locke joins to it a large human share, the free pursuit of happiness and the care of oneself, which does not await its meaning from a revelation."
+        },
+        "references": [
+          {
+            "fr": "Traité du gouvernement civil, II",
+            "en": "Second Treatise of Government, II"
+          },
+          {
+            "fr": "Essai sur l'entendement humain, II, 21",
+            "en": "Essay concerning Human Understanding, II, 21"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0.1,
+          0.8,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Chrétien, Locke attend une vie future, mais la fonde sur la <c>résurrection</c> promise plutôt que sur une immortalité naturelle de l'âme, dont il doute (il envisage même une matière capable de penser). C'est Dieu qui ressuscite et récompense, l'au-delà étant un don, non une propriété intrinsèque de l'esprit.",
+          "en": "A Christian, Locke looks for a future life, but grounds it on the promised <c>resurrection</c> rather than on a natural immortality of the soul, which he doubts (he even entertains a matter capable of thinking). It is God who raises and rewards, the hereafter being a gift, not an intrinsic property of the mind."
+        },
+        "references": [
+          {
+            "fr": "Le Christianisme raisonnable",
+            "en": "The Reasonableness of Christianity"
+          },
+          {
+            "fr": "Essai sur l'entendement humain, IV, 3",
+            "en": "Essay concerning Human Understanding, IV, 3"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.3,
+          0.6,
+          0.1
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Locke fait du désir une <c>inquiétude</c> (uneasiness), l'aiguillon qui meut l'action vers ce qui manque. Mais l'homme a le pouvoir de <kw>suspendre</kw> la poursuite d'un désir pour l'examiner et juger s'il mène au vrai bien : la liberté tient à ce délai réflexif, qui trie les désirs au lieu de les suivre aveuglément, sans pour autant les éteindre.",
+          "en": "Locke makes desire an <c>uneasiness</c>, the goad that moves action toward what is lacking. But a person has the power to <kw>suspend</kw> the pursuit of a desire in order to examine it and judge whether it leads to the true good: freedom lies in this reflective delay, which sorts desires instead of following them blindly, without for all that extinguishing them."
+        },
+        "references": [
+          {
+            "fr": "Essai sur l'entendement humain, II, 21",
+            "en": "Essay concerning Human Understanding, II, 21"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Locke refuse les essences innées : l'esprit naît comme une <kw>table rase</kw>, et ce qu'une personne devient tient à l'expérience et à l'éducation. En métaphysique, nous n'atteignons que des <c>essences nominales</c>, nos propres classements, non la nature réelle des choses, ce qui ôte à l'essence son rôle déterminant.",
+          "en": "Locke refuses innate essences: the mind is born a <kw>blank slate</kw>, and what a person becomes owes to experience and education. In metaphysics, we reach only <c>nominal essences</c>, our own classifications, not the real nature of things, which strips essence of its determining role."
+        },
+        "references": [
+          {
+            "fr": "Essai sur l'entendement humain, II, 1 et III, 3",
+            "en": "Essay concerning Human Understanding, II, 1 and III, 3"
+          },
+          {
+            "fr": "Quelques pensées sur l'éducation",
+            "en": "Some Thoughts concerning Education"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si une idée était vraiment <c id='innate-ideas'>innée</c>, elle serait universellement reconnue ; or ni « ce qui est est » ni aucun principe moral ne l'est des enfants, des idiots ou des peuples lointains. Locke retourne ainsi l'argument cartésien du consentement universel contre <ph id='descartes'>Descartes</ph> et l'école rationaliste : l'esprit à la naissance est une <c id='tabula-rasa'>table rase</c>, et toute idée se laisse retracer jusqu'à la sensation (les objets extérieurs) ou la réflexion (les opérations de l'esprit sur ses propres idées). Le pari est fort : montrer que ces deux seules sources suffisent à composer tout le contenu de la pensée, jusqu'aux notions les plus abstraites.",
+          "en": "If an idea were truly <c id='innate-ideas'>innate</c>, it would be universally acknowledged; yet neither \"whatever is, is\" nor any moral principle is so to children, idiots or distant peoples. Locke thus turns the Cartesian argument from universal consent against <ph id='descartes'>Descartes</ph> and the rationalist school: the mind at birth is a <c id='tabula-rasa'>blank slate</c>, and every idea can be traced back to sensation (external objects) or reflection (the mind's operations on its own ideas). The wager is bold: to show that these two sources alone suffice to compose the whole content of thought, down to the most abstract notions."
+        },
+        "references": [
+          {
+            "fr": "Essai sur l'entendement humain, I (contre les idées innées) et II, ch. 1 (sensation et réflexion)",
+            "en": "Essay Concerning Human Understanding, I (against innate ideas) and II, ch. 1 (sensation and reflection)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Supposons donc que l'esprit soit, comme on dit, un papier blanc, vide de tout caractère, sans aucune idée : comment vient-il à en être pourvu ? ... À cela je réponds d'un seul mot : par l'expérience.",
+            "en": "Let us suppose the mind to be, as we say, white paper, void of all characters, without any ideas: how comes it to be furnished? ... To this I answer, in one word, from experience."
+          },
+          "source": {
+            "fr": "Essai sur l'entendement humain, II, ch. 1, §2",
+            "en": "Essay Concerning Human Understanding, II, ch. 1, §2"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.4
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Locke borne l'entendement : la connaissance certaine et démonstrative est rare, limitée aux mathématiques et à quelques vérités morales ou métaphysiques. Sur les choses existantes et les matières de fait, nous n'avons qu'un savoir <c>probable</c>, fondé sur l'expérience et le témoignage. Sans verser dans le <c id='skepticism'>scepticisme</c>, il prône une défiance mesurée envers nos prétentions à la certitude.",
+          "en": "Locke bounds the understanding: certain, demonstrative knowledge is rare, confined to mathematics and a few moral or metaphysical truths. About existing things and matters of fact we have only <c>probable</c> knowledge, resting on experience and testimony. Without lapsing into <c id='skepticism'>skepticism</c>, he urges a measured distrust of our claims to certainty."
+        },
+        "references": [
+          {
+            "fr": "Essai sur l'entendement humain, IV, ch. 2-3 (degrés et étendue de la connaissance) et ch. 15-16 (la probabilité)",
+            "en": "Essay Concerning Human Understanding, IV, ch. 2-3 (degrees and extent of knowledge) and ch. 15-16 (probability)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_STATUS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.2
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Locke distingue l'<c>essence réelle</c> d'une chose (sa constitution interne, inconnue de nous) et son <c>essence nominale</c> (l'idée abstraite que nous formons à partir des qualités observables, par laquelle nous la classons). Les genres et espèces sont ainsi en partie l'<dif>ouvrage de l'entendement</dif> ; mais Locke maintient une réalité indépendante des qualités premières des corps, ce qui ancre sa position du côté d'un <ax id='KNOWLEDGE_STATUS'>réalisme</ax> prudent plutôt que d'un constructivisme assumé.",
+          "en": "Locke distinguishes a thing's <c>real essence</c> (its inner constitution, unknown to us) from its <c>nominal essence</c> (the abstract idea we form from observable qualities, by which we sort it). Genera and species are thus partly the <dif>workmanship of the understanding</dif>; yet Locke holds to a mind-independent reality of bodies' primary qualities, which anchors his position toward a cautious <ax id='KNOWLEDGE_STATUS'>realism</ax> rather than an avowed constructivism."
+        },
+        "references": [
+          {
+            "fr": "Essai sur l'entendement humain, III, ch. 3 et ch. 6 (essence réelle et essence nominale)",
+            "en": "Essay Concerning Human Understanding, III, ch. 3 and ch. 6 (real and nominal essence)"
+          },
+          {
+            "fr": "Essai sur l'entendement humain, II, ch. 8 (qualités premières et secondes)",
+            "en": "Essay Concerning Human Understanding, II, ch. 8 (primary and secondary qualities)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "BELIEF_ETHICS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Puisque notre savoir des faits reste borné au <c>probable</c>, l'usage correct de l'entendement n'est pas de croire fermement, mais de mesurer son assentiment aux preuves : la fermeté de la croyance doit suivre exactement le poids des raisons. D'où une norme proprement <c>évidentialiste</c>, où croire au-delà de ce que les preuves autorisent devient une faute, non contre la prudence, mais contre la raison elle-même. Locke en tire l'arme dirigée contre l'<dif>enthousiasme</dif>, cette prétention à une lumière intérieure qui dispense de preuve, et fonde sur elle son exigence de tolérance : une conviction non examinée n'autorise personne à l'imposer à autrui.",
+          "en": "Since our knowledge of matters of fact stays bounded to the <c>probable</c>, the right use of the understanding is not to believe firmly but to measure assent to evidence: the firmness of belief must exactly track the weight of the grounds. Hence a properly <c>evidentialist</c> norm, on which to believe beyond what the proofs warrant becomes a fault, not against prudence, but against reason itself. Locke makes of it the weapon aimed at <dif>enthusiasm</dif>, the claim to an inner light that dispenses with proof, and grounds on it his demand for toleration: an unexamined conviction entitles no one to impose it on others."
+        },
+        "references": [
+          {
+            "fr": "Essai sur l'entendement humain, IV, ch. 16 (les degrés d'assentiment) et ch. 19 (l'enthousiasme)",
+            "en": "Essay Concerning Human Understanding, IV, ch. 16 (the degrees of assent) and ch. 19 (enthusiasm)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Le degré de notre assentiment doit être réglé sur les fondements de probabilité de la chose.",
+            "en": "The mind, if it will proceed rationally, ought to examine all the grounds of probability ... and upon a due balancing the whole, reject or receive it, with a more or less firm assent, proportionably to the preponderancy of the greater grounds of probability."
+          },
+          "source": {
+            "fr": "Essai sur l'entendement humain, IV, ch. 15-16 (la probabilité et les degrés d'assentiment)",
+            "en": "Essay Concerning Human Understanding, IV, ch. 15-16 (probability and the degrees of assent)"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "FAITH_REASON",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.75,
+          0,
+          0.25
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Pour Locke la foi et la raison ne s'opposent pas : le christianisme est <kw>raisonnable</kw>, et la raison est le dernier juge de ce qui peut compter comme révélation divine. La foi ne contredit jamais les vérités claires de la raison, mais lui ajoute des vérités au-delà de sa portée, qu'elle authentifie : une <c>harmonie</c> avec une part de domaines distincts (le magistrat ne juge pas le salut, la révélation ne renverse pas l'évidence).",
+          "en": "For Locke faith and reason do not conflict: Christianity is <kw>reasonable</kw>, and reason is the last judge of what may count as divine revelation. Faith never contradicts the clear truths of reason but adds truths beyond its reach, which reason authenticates: a <c>harmony</c> with a measure of separate domains (the magistrate does not judge salvation, revelation does not overturn evidence)."
+        },
+        "references": [
+          {
+            "fr": "Le Christianisme raisonnable (1695)",
+            "en": "The Reasonableness of Christianity (1695)"
+          },
+          {
+            "fr": "Essai sur l'entendement humain, IV, ch. 18 (foi et raison, et leurs limites respectives)",
+            "en": "Essay Concerning Human Understanding, IV, ch. 18 (faith and reason, and their respective provinces)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Locke tient l'existence de Dieu pour l'une des rares vérités démontrables : à partir de notre propre existence, il infère, par la causalité, un être éternel, tout-puissant et intelligent. Ce <c>théisme</c> chrétien sous-tend sa morale (la loi naturelle est volonté divine) et sa politique (les droits naturels nous viennent du Créateur).",
+          "en": "Locke holds God's existence to be one of the few demonstrable truths: from our own existence he infers, by causal reasoning, an eternal, all-powerful, intelligent being. This Christian <c>theism</c> underpins his ethics (natural law is the divine will) and his politics (natural rights come from the Creator)."
+        },
+        "references": [
+          {
+            "fr": "Essai sur l'entendement humain, IV, ch. 10 (la démonstration de l'existence de Dieu)",
+            "en": "Essay Concerning Human Understanding, IV, ch. 10 (the demonstration of God's existence)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          1,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Locke détache l'<c>identité personnelle</c> de la substance, qu'elle soit matérielle ou spirituelle : ce qui fait de moi la même personne dans le temps, c'est la continuité de la <c>conscience</c>, et notamment la mémoire qui rattache mes actions passées à mon présent. La personne est ainsi un terme <dif>forensique</dif>, lié à l'imputation : une <ax id='SELF_NATURE'>continuité psychologique</ax> avant la lettre.",
+          "en": "Locke detaches <c>personal identity</c> from substance, whether material or spiritual: what makes me the same person over time is the continuity of <c>consciousness</c>, and notably the memory linking my past actions to my present. Person is thus a <dif>forensic</dif> term, bound to imputation: <ax id='SELF_NATURE'>psychological continuity</ax> before the name existed."
+        },
+        "references": [
+          {
+            "fr": "Essai sur l'entendement humain, II, ch. 27 (« De l'identité et de la diversité »)",
+            "en": "Essay Concerning Human Understanding, II, ch. 27 (\"Of Identity and Diversity\")"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "L'identité personnelle s'étend aussi loin que la conscience peut remonter sur une action ou une pensée passée.",
+            "en": "As far as this consciousness can be extended backwards to any past action or thought, so far reaches the identity of that person."
+          },
+          "source": {
+            "fr": "Essai sur l'entendement humain, II, ch. 27, §9",
+            "en": "Essay Concerning Human Understanding, II, ch. 27, §9"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HUMAN_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.75
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Conséquence directe de la <c id='tabula-rasa'>table rase</c> : ce que devient un homme tient bien plus à l'éducation, à l'habitude et au milieu qu'à une nature donnée d'avance. Locke estime que la quasi-totalité des différences entre les hommes vient de la formation reçue, ce qui fait de lui un tenant fort du <ax id='HUMAN_NATURE'>culturalisme</ax>.",
+          "en": "A direct consequence of the <c id='tabula-rasa'>blank slate</c>: what a man becomes owes far more to education, habit and environment than to any nature given in advance. Locke reckons that nearly all the differences among men come from the upbringing they receive, making him a strong proponent of <ax id='HUMAN_NATURE'>culturalism</ax>."
+        },
+        "references": [
+          {
+            "fr": "Quelques pensées sur l'éducation, §1 (« neuf hommes sur dix sont ce qu'ils sont par l'éducation »)",
+            "en": "Some Thoughts Concerning Education, §1 (\"nine parts of ten are what they are by their education\")"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Des hommes que nous rencontrons, neuf sur dix sont ce qu'ils sont, bons ou mauvais, utiles ou non, par leur éducation.",
+            "en": "Of all the men we meet with, nine parts of ten are what they are, good or evil, useful or not, by their education."
+          },
+          "source": {
+            "fr": "Quelques pensées sur l'éducation, §1",
+            "en": "Some Thoughts Concerning Education, §1"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SOCIAL_CONTRACT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.95
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Nul n'a par nature autorité sur un autre : tous étant libres et égaux dans l'<c>état de nature</c>, aucun pouvoir politique ne peut être légitime sans le <c>consentement</c> de ceux qui s'y soumettent. De cette prémisse Locke tire un contrat d'un type tout autre que celui de <ph id='hobbes'>Hobbes</ph> : on ne s'y dessaisit pas de ses droits au profit d'un souverain absolu, on confie au gouvernement un simple <c>dépôt</c> (trust), assorti d'une fin, préserver les vies, les libertés et les biens. Le pouvoir reste donc conditionnel et révocable, alors que le pacte hobbesien était une aliénation sans retour. C'est l'assise du libéralisme politique.",
+          "en": "No one has authority over another by nature: all being free and equal in the <c>state of nature</c>, no political power can be legitimate without the <c>consent</c> of those who submit to it. From this premise Locke draws a contract of an altogether different kind from <ph id='hobbes'>Hobbes</ph>'s: one does not surrender one's rights to an absolute sovereign, one entrusts government with a mere <c>trust</c>, bound to an end, the preservation of lives, liberties and estates. Power thus stays conditional and revocable, where the Hobbesian pact was an alienation beyond recall. This is the foundation of political liberalism."
+        },
+        "references": [
+          {
+            "fr": "Traités du gouvernement civil, II, ch. 8 (« Du commencement des sociétés politiques »)",
+            "en": "Two Treatises of Government, II, ch. 8 (\"Of the Beginning of Political Societies\")"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "AUTHORITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.45
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si le pouvoir n'est qu'un <c>dépôt</c> reçu pour préserver les <c>droits naturels</c>, alors il est borné par sa fin même : il ne peut s'étendre au-delà du bien commun, ni gouverner par décrets arbitraires, ni prélever sans consentement. Locke en déduit l'agencement institutionnel (primauté du législatif, <c>séparation des pouvoirs</c>) et, surtout, la conséquence que <ph id='hobbes'>Hobbes</ph> refusait : le gouvernant qui trahit le dépôt se met lui-même en état de guerre avec le peuple, qui recouvre alors un <c>droit de résistance</c>. Loin d'ouvrir au désordre, ce droit est l'ultime garantie contre la tyrannie, le juge n'étant autre que le peuple lésé.",
+          "en": "If power is but a <c>trust</c> received to preserve <c>natural rights</c>, then it is bounded by its very end: it cannot reach beyond the common good, nor rule by arbitrary decrees, nor tax without consent. Locke derives from this the institutional arrangement (supremacy of the legislative, <c>separation of powers</c>) and, above all, the consequence <ph id='hobbes'>Hobbes</ph> refused: a ruler who betrays the trust puts himself in a state of war with the people, who thereby recover a <c>right of resistance</c>. Far from opening the door to disorder, this right is the last guarantee against tyranny, the judge being none other than the wronged people."
+        },
+        "references": [
+          {
+            "fr": "Traités du gouvernement civil, II, ch. 18-19 (de la tyrannie et de la dissolution du gouvernement)",
+            "en": "Two Treatises of Government, II, ch. 18-19 (of tyranny and the dissolution of government)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "WHO_DECIDES",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.55
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Une fois la communauté formée par consentement, elle se meut comme un seul corps selon la <c>règle de la majorité</c> : la décision appartient au plus grand nombre, faute de quoi le pacte serait vain. La légitimité du pouvoir vient du peuple et de son assentiment, non d'une compétence réservée à des experts, ce qui place Locke du côté démocratique de l'axe.",
+          "en": "Once the community is formed by consent, it moves as one body by the <c>rule of the majority</c>: the decision belongs to the greater number, else the compact would be void. Legitimacy springs from the people and their assent, not from a competence reserved to experts, which places Locke on the democratic side of the axis."
+        },
+        "references": [
+          {
+            "fr": "Traités du gouvernement civil, II, ch. 8, §95-99 (la règle de la majorité)",
+            "en": "Two Treatises of Government, II, ch. 8, §95-99 (the rule of the majority)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DISTRIBUTIVE_JUSTICE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.65
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si la terre est donnée en commun à tous, comment un bien peut-il devenir mien sans le consentement de chacun ? La réponse de Locke part d'un titre antérieur à tout pacte : chacun est propriétaire de sa propre personne, donc du <c>travail</c> de son corps. En mêlant ce travail à une chose commune, j'y incorpore quelque chose qui est déjà mien et l'en retire légitimement, sans devoir l'accord d'autrui. La <c>propriété</c> est ainsi un droit naturel fondé sur le travail, antérieur à l'État, ce qui place Locke du côté <ax id='DISTRIBUTIVE_JUSTICE'>libertarien</ax> de l'axe. Mais la fameuse <c>clause lockéenne</c>, en laisser « assez et d'aussi bon pour les autres », y inscrit d'emblée une limite morale à l'appropriation.",
+          "en": "If the earth is given in common to all, how can a thing become mine without each person's consent? Locke's answer starts from a title prior to any compact: every man owns his own person, and therefore the <c>labour</c> of his body. By mixing that labour with something held in common, I join to it something already mine and rightfully withdraw it, owing no one's agreement. <c>Property</c> is thus a natural right grounded in labour, prior to the state, which places Locke toward the <ax id='DISTRIBUTIVE_JUSTICE'>libertarian</ax> end of the axis. Yet the famous <c>Lockean proviso</c>, that \"enough, and as good\" be left for others, inscribes from the outset a moral limit on appropriation."
+        },
+        "references": [
+          {
+            "fr": "Traités du gouvernement civil, II, ch. 5 (« De la propriété », travail et clause lockéenne)",
+            "en": "Two Treatises of Government, II, ch. 5 (\"Of Property\", labour and the Lockean proviso)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Le travail de son corps et l'ouvrage de ses mains sont proprement à lui : ce qu'il a tiré de l'état où la nature l'avait laissé, il y a joint son travail, et y a ajouté quelque chose qui est à lui.",
+            "en": "The labour of his body and the work of his hands, we may say, are properly his. Whatsoever then he removes out of the state that nature hath provided ... he hath mixed his labour with, and thereby makes it his property."
+          },
+          "source": {
+            "fr": "Traités du gouvernement civil, II, ch. 5, §27",
+            "en": "Two Treatises of Government, II, ch. 5, §27"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "INDIVIDUAL_SOCIETY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'individu est premier : porteur de <c>droits naturels</c> (vie, liberté, biens) dans l'<c>état de nature</c>, il n'entre en société que par son propre consentement et pour mieux protéger ces droits. La communauté est un agrégat d'individus libres et égaux, non un tout organique qui les précéderait : <ax id='INDIVIDUAL_SOCIETY'>individualisme</ax> méthodologique et normatif.",
+          "en": "The individual is primary: bearer of <c>natural rights</c> (life, liberty, estate) in the <c>state of nature</c>, he enters society only by his own consent and the better to protect those rights. The community is an aggregate of free and equal individuals, not an organic whole that would precede them: methodological and normative <ax id='INDIVIDUAL_SOCIETY'>individualism</ax>."
+        },
+        "references": [
+          {
+            "fr": "Traités du gouvernement civil, II, ch. 2 (l'état de nature) et ch. 8 (le consentement individuel)",
+            "en": "Two Treatises of Government, II, ch. 2 (the state of nature) and ch. 8 (individual consent)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "POLITICAL_IDEAL",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Locke conçoit des institutions praticables, ajustées aux hommes tels qu'ils sont : un état de nature vivable mais incommode, des gouvernements faillibles qu'il faut borner et pouvoir révoquer. Loin d'une cité idéale, il vise des garanties concrètes (<c>séparation des pouvoirs</c>, primauté du législatif, <c>droit de résistance</c>), ce qui relève d'un <c>réalisme politique</c> tempéré par des principes de droit.",
+          "en": "Locke designs workable institutions fitted to men as they are: a livable but inconvenient state of nature, fallible governments that must be bounded and revocable. Far from an ideal city, he aims at concrete guarantees (<c>separation of powers</c>, supremacy of the legislative, <c>right of resistance</c>), which makes for a <c>political realism</c> tempered by principles of right."
+        },
+        "references": [
+          {
+            "fr": "Traités du gouvernement civil, II, ch. 9 (les inconvénients de l'état de nature) et ch. 11-13 (l'étendue et les bornes du pouvoir)",
+            "en": "Two Treatises of Government, II, ch. 9 (the inconveniences of the state of nature) and ch. 11-13 (the extent and limits of power)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SINCERITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La <c>tolérance</c> de Locke repose sur l'idée que la <ax id='FAITH_REASON'>foi</ax> sincère ne peut être contrainte : l'assentiment intérieur doit suivre la conviction, jamais la dissimulation ou la profession forcée. Cette exigence de véracité intérieure, jointe à sa règle d'<c>évidentialisme</c>, le porte vers un rigorisme de la sincérité, sans qu'il thématise pour autant une casuistique du mensonge.",
+          "en": "Locke's <c>toleration</c> rests on the idea that sincere <ax id='FAITH_REASON'>faith</ax> cannot be coerced: inner assent must follow conviction, never dissimulation or forced profession. This demand for inner truthfulness, joined to his <c>evidentialist</c> rule, inclines him toward a rigorism of sincerity, though he does not thematize a casuistry of lying as such."
+        },
+        "references": [
+          {
+            "fr": "Lettre sur la tolérance (la foi forcée n'est pas une foi)",
+            "en": "A Letter Concerning Toleration (forced faith is no faith)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Locke loge la liberté non dans la volonté (la question « la volonté est-elle libre ? » est mal posée) mais dans le <c>pouvoir</c> qu'a l'agent de suspendre la poursuite d'un désir pour examiner et délibérer avant d'agir. Cette capacité d'arrêter et d'évaluer ses désirs penche du côté du <ax id='FREEDOM'>libre arbitre</ax>, dans une analyse prudente plutôt que dans une métaphysique tranchée.",
+          "en": "Locke locates liberty not in the will (the question \"is the will free?\" is ill-framed) but in the agent's <c>power</c> to suspend the pursuit of a desire so as to examine and deliberate before acting. This capacity to halt and weigh one's desires leans toward <ax id='FREEDOM'>free will</ax>, in a careful analysis rather than a clear-cut metaphysics."
+        },
+        "references": [
+          {
+            "fr": "Essai sur l'entendement humain, II, ch. 21 (« De la puissance », la liberté et la suspension du désir)",
+            "en": "Essay Concerning Human Understanding, II, ch. 21 (\"Of Power\", liberty and the suspension of desire)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.35,
+          0,
+          0.65
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Locke admet une réalité corporelle dotée de <c>qualités premières</c> (étendue, figure, mouvement) que nos idées copient, mais aussi un esprit pensant ; et il avoue ne pas savoir si Dieu n'aurait pu donner à la matière la faculté de penser. Ce dualisme prudent du corps et de l'esprit, doublé d'un solide réalisme des corps, écarte aussi bien l'idéalisme que le matérialisme strict, d'où des poids partagés entre matérialisme et dualisme.",
+          "en": "Locke admits a bodily reality endowed with <c>primary qualities</c> (extension, figure, motion) that our ideas copy, but also a thinking mind; and he confesses he cannot know whether God might not have given matter the power to think. This cautious dualism of body and mind, alongside a solid realism of bodies, rules out both idealism and strict materialism, hence weights shared between materialism and dualism."
+        },
+        "references": [
+          {
+            "fr": "Essai sur l'entendement humain, II, ch. 8 (qualités premières et secondes) et IV, ch. 3, §6 (la matière pensante)",
+            "en": "Essay Concerning Human Understanding, II, ch. 8 (primary and secondary qualities) and IV, ch. 3, §6 (thinking matter)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.25,
+          0.6,
+          0.15,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Locke pense une <c>loi naturelle</c>, accessible à la raison et fondée sur la volonté de Dieu, qui prescrit des devoirs (ne pas nuire à autrui dans sa vie, sa liberté, ses biens) : une morale d'obligation, proche du <ax id='ETHICS_FOUNDATION'>déontologisme</ax>. Il y mêle toutefois la considération des récompenses et peines, et donc des conséquences, qui motivent l'obéissance, d'où un poids conséquentialiste secondaire.",
+          "en": "Locke conceives a <c>natural law</c>, accessible to reason and grounded in God's will, which prescribes duties (not to harm another in life, liberty or possessions): a morality of obligation, close to <ax id='ETHICS_FOUNDATION'>deontologism</ax>. He nonetheless mixes in the consideration of rewards and punishments, and so of consequences, which motivate obedience, hence a secondary consequentialist weight."
+        },
+        "references": [
+          {
+            "fr": "Essais sur la loi de nature (1664) ; Traités du gouvernement civil, II, ch. 2 (la loi de nature)",
+            "en": "Essays on the Law of Nature (1664); Two Treatises of Government, II, ch. 2 (the law of nature)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.55,
+          0.45,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Locke tient que le bien est ce qui produit du <c>plaisir</c> et le mal ce qui produit de la <c>peine</c> ; le bonheur, somme des plaisirs, est ce que tous recherchent. Mais l'homme prudent, capable de suspendre ses désirs, vise un bonheur durable et bien examiné plutôt que les plaisirs immédiats, ce qui tempère l'hédonisme d'un souci d'épanouissement raisonnable.",
+          "en": "Locke holds that good is what produces <c>pleasure</c> and evil what produces <c>pain</c>; happiness, the sum of pleasures, is what all pursue. But the prudent man, able to suspend his desires, aims at a lasting, well-examined happiness rather than at immediate pleasures, which tempers the hedonism with a concern for reasonable flourishing."
+        },
+        "references": [
+          {
+            "fr": "Essai sur l'entendement humain, II, ch. 20 (plaisir et peine) et ch. 21, §§51-60 (la poursuite du vrai bonheur)",
+            "en": "Essay Concerning Human Understanding, II, ch. 20 (pleasure and pain) and ch. 21, §§51-60 (the pursuit of true happiness)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CONSERVATISM_PROGRESSISM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "En justifiant le <c>droit de résistance</c> et la révocabilité du gouvernement, Locke offre à la Glorieuse Révolution sa théorie et rompt avec l'ordre du droit divin. Sa confiance dans le progrès du savoir par l'expérience et dans la réforme de l'éducation le situe du côté réformateur, sans radicalité révolutionnaire, d'où une valeur modérément progressiste.",
+          "en": "By justifying the <c>right of resistance</c> and the revocability of government, Locke gives the Glorious Revolution its theory and breaks with the order of divine right. His confidence in the growth of knowledge through experience and in the reform of education places him on the reforming side, without revolutionary radicalism, hence a moderately progressive value."
+        },
+        "references": [
+          {
+            "fr": "Traités du gouvernement civil, II, ch. 19 (la dissolution du gouvernement)",
+            "en": "Two Treatises of Government, II, ch. 19 (the dissolution of government)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MACHINE_MIND",
+      "status": "NOT_APPLICABLE",
+      "note": {
+        "fr": "Question anachronique : la comparaison de l'esprit à une machine calculante est postérieure de plusieurs siècles à Locke, qui ne la thématise pas.",
+        "en": "Anachronistic question: comparing the mind to a computing machine postdates Locke by centuries, and he does not address it."
+      }
+    },
+    {
+      "axisId": "TECHNOLOGY",
+      "status": "NOT_APPLICABLE",
+      "note": {
+        "fr": "Locke ne développe pas de position sur la technique comme thème philosophique distinct ; l'axe relève de débats postérieurs.",
+        "en": "Locke develops no position on technology as a distinct philosophical theme; the axis belongs to later debates."
+      }
+    },
+    {
+      "axisId": "RIGHTS_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.9,
+          0,
+          0.05,
+          0.05
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'état de nature n'est pas une licence : il est régi par une <c>loi naturelle</c> que la raison découvre. Comme tous les hommes sont l'ouvrage d'un même Créateur, envoyés au monde par son ordre et pour son service, nul n'a le droit de détruire autrui ni de le réduire à sa merci. De cette égalité originelle Locke déduit, non un simple devoir de ne pas nuire, mais des droits subjectifs corrélatifs, à la vie, à la liberté et aux biens, que chacun porte avant tout gouvernement. Le pouvoir n'est dès lors légitime que pour les garantir ; les violer le rend tyrannique. Ces « <kw>droits inaliénables</kw> » passeront presque mot pour mot dans la Déclaration d'indépendance américaine.",
+          "en": "The state of nature is no licence: it is governed by a <c>law of nature</c> that reason discovers. Since all men are the workmanship of one Maker, sent into the world by his order and about his business, none has the right to destroy another or to put him under his absolute power. From this original equality Locke derives, not a mere duty not to harm, but correlative subjective rights, to life, liberty and estate, that each bears prior to any government. Power is therefore legitimate only to secure them; to violate them makes it tyrannical. These \"<kw>unalienable rights</kw>\" would pass almost word for word into the American Declaration of Independence."
+        },
+        "references": [
+          {
+            "fr": "Second Traité du gouvernement civil, II-V",
+            "en": "Second Treatise of Government, II-V"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "EPISTEMIC_JUSTIFICATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.75,
+          0.15,
+          0.1
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Tout notre savoir vient de l'expérience : il se compose à partir d'idées simples reçues par sensation et réflexion, auxquelles l'esprit ne peut rien ajouter. Ces idées simples forment le socle sur lequel s'édifie la connaissance, un fondationnalisme empiriste.",
+          "en": "All our knowledge comes from experience: it is built up from simple ideas received through sensation and reflection, to which the mind can add nothing. These simple ideas form the base on which knowledge is erected, an empiricist foundationalism."
+        },
+        "references": [
+          {
+            "fr": "Essai sur l'entendement humain, II",
+            "en": "An Essay Concerning Human Understanding, II"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "thesis": {
+        "fr": "Il n'existe aucune <c id='innate-ideas'>idée innée</c> : l'esprit naît <c id='tabula-rasa'>table rase</c>, et la sensation et la réflexion suffisent à former toutes nos idées.",
+        "en": "There are no <c id='innate-ideas'>innate ideas</c>: the mind is born a <c id='tabula-rasa'>blank slate</c>, and sensation and reflection suffice to form all our ideas."
+      }
+    },
+    {
+      "axisId": "SOCIAL_CONTRACT",
+      "thesis": {
+        "fr": "Nul ne peut être soumis à un pouvoir politique sans son <c>consentement</c> : le gouvernement n'est qu'un <c>dépôt</c> reçu du peuple, non un ordre imposé d'en haut.",
+        "en": "No one can be subject to a political power without their <c>consent</c>: government is only a <c>trust</c> received from the people, not an order imposed from above."
+      }
+    },
+    {
+      "axisId": "DISTRIBUTIVE_JUSTICE",
+      "thesis": {
+        "fr": "C'est le <c>travail</c> qui crée la <c>propriété</c> : en mêlant mon labeur à une chose commune, je me l'approprie légitimement, avant tout État.",
+        "en": "It is <c>labour</c> that creates <c>property</c>: by mixing my toil with something held in common, I rightfully make it mine, prior to any state."
+      }
+    },
+    {
+      "axisId": "AUTHORITY",
+      "thesis": {
+        "fr": "Quand un gouvernement trahit les <c>droits naturels</c> qu'il devait protéger, il se met en guerre avec le peuple, qui retrouve un <c>droit de résistance</c>.",
+        "en": "When a government betrays the <c>natural rights</c> it was meant to protect, it puts itself at war with the people, who recover a <c>right of resistance</c>."
+      }
+    },
+    {
+      "axisId": "BELIEF_ETHICS",
+      "thesis": {
+        "fr": "Il faut proportionner la fermeté de sa croyance aux preuves : croire au-delà de ce que les raisons autorisent est une faute contre la raison.",
+        "en": "One must proportion the firmness of belief to the evidence: to believe beyond what the grounds warrant is a fault against reason."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

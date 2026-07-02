@@ -1,0 +1,16 @@
+{
+  "id": "vedanta-to-schopenhauer",
+  "from": { "kind": "MOVEMENT", "slug": "vedanta" },
+  "to": { "kind": "PHILOSOPHER", "slug": "schopenhauer" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='schopenhauer'>Schopenhauer</ph> puise dans les Upaniṣad et le <mv id='vedanta'>Vedānta</mv>, qu'il vénère, le motif du <c>voile</c> des apparences (Māyā) et l'unité métaphysique derrière la pluralité, qu'il retraduit dans sa philosophie de la volonté.",
+    "en": "<ph id='schopenhauer'>Schopenhauer</ph> draws from the Upaniṣads and <mv id='vedanta'>Vedānta</mv>, which he revered, the motif of the <c>veil</c> of appearances (Māyā) and the metaphysical unity behind plurality, which he retranslates into his philosophy of the will."
+  },
+  "sources": [
+    { "fr": "Schopenhauer, Le Monde comme volonté et représentation (1818)", "en": "Schopenhauer, The World as Will and Representation (1818)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

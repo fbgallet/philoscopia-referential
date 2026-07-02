@@ -1,0 +1,99 @@
+{
+  "id": "HUMAN_PLACE_NATURE",
+  "relation": "WORLD",
+  "territory": "NATURE_LIVING",
+  "label": {
+    "fr": "Place de l'homme dans la nature",
+    "en": "Humanity's place in nature"
+  },
+  "question": {
+    "fr": "Quelle place l'être humain doit-il occuper dans la nature : maître, gardien ou simple membre ?",
+    "en": "What place should human beings hold in nature: master, guardian, or simply one member among others?"
+  },
+  "stakes": {
+    "fr": "Sommes-nous les propriétaires d'une nature à exploiter, les gardiens responsables d'un jardin confié, ou une espèce parmi d'autres sans droit particulier ? Selon la réponse, ce qu'on s'autorise à faire des forêts, des bêtes et du climat n'a plus les mêmes limites. Se positionner, c'est fixer ce que la nature peut légitimement attendre de nous.",
+    "en": "Are we the owners of a nature to exploit, the caretakers responsible for a garden entrusted to us, or one species among others with no special right? Depending on the answer, what we allow ourselves to do to forests, animals, and the climate no longer has the same limits. To take a position is to set what nature can legitimately expect of us."
+  },
+  "layer": "VALUE",
+  "type": "TRIANGULAR",
+  "poles": [
+    {
+      "id": "MASTERY",
+      "label": {
+        "fr": "Maîtrise",
+        "en": "Mastery"
+      },
+      "description": {
+        "fr": "Par la connaissance et la technique, l'être humain a vocation à se rendre comme maître et possesseur de la nature, pour soulager sa condition et améliorer la vie. La nature est une ressource à comprendre et à transformer au service de l'humanité.",
+        "en": "Through knowledge and technology, human beings are called to make themselves as masters and possessors of nature, to relieve their condition and improve life. Nature is a resource to be understood and transformed in the service of humanity."
+      },
+      "figures": [
+        {
+          "slug": "descartes",
+          "name": {
+            "fr": "Descartes",
+            "en": "Descartes"
+          }
+        },
+        {
+          "slug": "bacon",
+          "name": {
+            "fr": "Bacon",
+            "en": "Bacon"
+          }
+        }
+      ]
+    },
+    {
+      "id": "STEWARDSHIP",
+      "label": {
+        "fr": "Gardiennage",
+        "en": "Stewardship"
+      },
+      "description": {
+        "fr": "La puissance technique de l'humanité lui confère une responsabilité inédite : préserver la nature et les conditions d'une vie authentiquement humaine. L'homme n'est ni propriétaire ni simple élément du monde, mais son gardien.",
+        "en": "Humanity's technological power confers an unprecedented responsibility: to preserve nature and the conditions of an authentically human life. Humans are neither owners of the world nor mere elements of it, but its guardians."
+      },
+      "figures": [
+        {
+          "slug": "jonas",
+          "name": {
+            "fr": "Jonas",
+            "en": "Jonas"
+          }
+        }
+      ]
+    },
+    {
+      "id": "MEMBER_AMONG_OTHERS",
+      "label": {
+        "fr": "Membre parmi d'autres",
+        "en": "Member among others"
+      },
+      "description": {
+        "fr": "L'être humain n'occupe aucune position privilégiée dans la nature : il est un vivant parmi d'autres, inséré dans un réseau d'interdépendances. Toutes les formes de vie ont une valeur propre, indépendante de leur utilité pour nous.",
+        "en": "Human beings hold no privileged position in nature: they are one living being among others, embedded in a web of interdependence. All forms of life have intrinsic value, independent of their usefulness to us."
+      },
+      "figures": [
+        {
+          "slug": "naess",
+          "name": {
+            "fr": "Næss",
+            "en": "Næss"
+          }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 1,
+  "clusters": [
+    "MORAL_EXPANSION"
+  ],
+  "relatedAxes": [
+    "FUTURE_GENERATIONS",
+    "HUMAN_ENHANCEMENT",
+    "MORAL_CIRCLE",
+    "TECHNOLOGY"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "schiller",
+  "name": { "fr": "Schiller", "en": "Schiller" },
+  "summary": {
+    "fr": "Poète, dramaturge et philosophe allemand : il cherche dans la beauté et l'éducation esthétique la réconciliation de la sensibilité et de la raison, et une voie vers la liberté de l'homme.",
+    "en": "German poet, playwright and philosopher: he seeks in beauty and aesthetic education the reconciliation of sensibility and reason, and a path toward human freedom."
+  },
+  "nationality": { "fr": "Allemand", "en": "German" },
+  "birth": 1759,
+  "death": 1805,
+  "movements": ["romanticism"],
+  "updatedAt": "2026-06-26T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

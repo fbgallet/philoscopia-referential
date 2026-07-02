@@ -1,0 +1,16 @@
+{
+  "id": "epictetus-to-marcus-aurelius",
+  "from": { "kind": "PHILOSOPHER", "slug": "epictetus" },
+  "to": { "kind": "PHILOSOPHER", "slug": "marcus-aurelius" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='marcus-aurelius'>Marc Aurèle</ph> reprend d'<ph id='epictetus'>Épictète</ph>, qu'il cite avec gratitude, la discipline du jugement et la distinction entre <c>ce qui dépend de nous</c> et ce qui n'en dépend pas, exercée chaque jour dans ses notes personnelles.",
+    "en": "<ph id='marcus-aurelius'>Marcus Aurelius</ph> takes up from <ph id='epictetus'>Epictetus</ph>, whom he gratefully credits, the discipline of judgement and the distinction between <c>what is up to us</c> and what is not, practised daily in his private notes."
+  },
+  "sources": [
+    { "fr": "Marc Aurèle, Pensées pour moi-même, I, 7", "en": "Marcus Aurelius, Meditations, I.7" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

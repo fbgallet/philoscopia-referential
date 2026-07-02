@@ -1,0 +1,11 @@
+{
+  "id": "letter-to-herodotus-epicurus",
+  "title": { "fr": "Lettre à Hérodote", "en": "Letter to Herodotus" },
+  "author": { "slug": "epicurus", "name": { "fr": "Épicure", "en": "Epicurus" } },
+  "year": -300,
+  "presentation": {
+    "fr": "Lettre où <ph id='epicurus'>Épicure</ph> expose en abrégé sa physique atomiste : l'univers n'est fait que d'atomes et de vide, et tout phénomène s'explique par leur mouvement, sans intervention divine. Elle fonde la libération des peurs visée par sa morale.",
+    "en": "A letter in which <ph id='epicurus'>Epicurus</ph> sets out his atomist physics in summary: the universe is made only of atoms and void, and every phenomenon is explained by their motion, with no divine intervention. It grounds the liberation from fears at which his ethics aims."
+  },
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

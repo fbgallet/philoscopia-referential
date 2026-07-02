@@ -1,0 +1,252 @@
+{
+  "kind": "MOVEMENT",
+  "id": "transhumanism",
+  "name": {
+    "fr": "Transhumanisme",
+    "en": "Transhumanism"
+  },
+  "tagline": {
+    "fr": "Prolonger, augmenter, voire abolir la condition humaine par la technique : vieillissement, maladie et mort comme des problèmes à résoudre.",
+    "en": "Extending, augmenting, even abolishing the human condition through technology: aging, disease and death as problems to be solved."
+  },
+  "summary": {
+    "fr": "Courant de pensée contemporain, né dans les années 1980-1990 dans le sillage de la cybernétique et des biotechnologies, qui tient la <c>nature humaine</c> non pour un donné intangible mais pour un point de départ à dépasser : par la médecine, la génétique, les prothèses et l'intelligence artificielle, l'être humain pourrait <ax id='HUMAN_ENHANCEMENT' pole='TRANSHUMANISM'>augmenter ses capacités physiques et mentales</ax>, prolonger indéfiniment sa vie, voire <ax id='DEATH' pole='IMMORTALISM'>vaincre la mort</ax>. Le mot est forgé par le biologiste <per>Julian Huxley</per> en 1957, mais le mouvement s'organise plus tard autour de figures comme <ph id='max-more'>Max More</ph>, <ph id='bostrom'>Nick Bostrom</ph> ou <per>Ray Kurzweil</per>, et de l'idée de <c id='singularity'>Singularité</c>. Héritier des <mv id='enlightenment'>Lumières</mv> et de leur foi dans le <c>progrès</c>, il prolonge le projet moderne de maîtrise de la nature jusqu'à l'humain lui-même, et nourrit de vives controverses éthiques sur les limites, l'égalité d'accès et le sens d'une vie sans terme. Le mouvement reste lui-même divers, des extropiens libertariens aux transhumanistes démocrates : tous ne placent pas au même rang l'augmentation des capacités, la fin du <c>vieillissement</c> et l'immortalité.",
+    "en": "A contemporary current of thought, born in the 1980s-1990s in the wake of cybernetics and biotechnology, which holds <c>human nature</c> to be not an untouchable given but a starting point to be surpassed: through medicine, genetics, prosthetics and artificial intelligence, the human being could <ax id='HUMAN_ENHANCEMENT' pole='TRANSHUMANISM'>augment its physical and mental capacities</ax>, extend its life indefinitely, even <ax id='DEATH' pole='IMMORTALISM'>defeat death</ax>. The word was coined by the biologist <per>Julian Huxley</per> in 1957, but the movement took organized form later around figures such as <ph id='max-more'>Max More</ph>, <ph id='bostrom'>Nick Bostrom</ph> and <per>Ray Kurzweil</per>, and the idea of the <c id='singularity'>Singularity</c>. Heir to the <mv id='enlightenment'>Enlightenment</mv> and its faith in <c>progress</c>, it extends the modern project of mastering nature to the human being itself, and stirs sharp ethical controversy over limits, equality of access, and the meaning of a life without end. The movement is itself diverse, from libertarian Extropians to democratic transhumanists: not all give equal weight to capacity enhancement, the end of <c>aging</c> and immortality."
+  },
+  "period": {
+    "from": 1990
+  },
+  "keyFigures": [
+    {
+      "slug": "bostrom",
+      "name": {
+        "fr": "Nick Bostrom",
+        "en": "Nick Bostrom"
+      }
+    },
+    {
+      "slug": "max-more",
+      "name": {
+        "fr": "Max More",
+        "en": "Max More"
+      }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "HUMAN_ENHANCEMENT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -1
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Là où le bioconservatisme voit dans la nature humaine une limite à respecter, le transhumanisme tient le corps et l'esprit donnés pour un point de départ contingent, façonné par une évolution aveugle. Rien ne sanctifie cet héritage : empêcher la médecine, la génétique ou l'augmentation cognitive d'étendre nos capacités au nom de la « nature » serait une superstition. L'<c>augmentation</c> n'est que la continuation délibérée de ce que la culture et la technique font depuis toujours.",
+          "en": "Where bioconservatism sees in human nature a limit to be respected, transhumanism treats the body and mind we are given as a contingent starting point, shaped by blind evolution. Nothing sanctifies this inheritance: to forbid medicine, genetics or cognitive enhancement from extending our capacities in the name of \"nature\" would be a superstition. <c>Enhancement</c> is merely the deliberate continuation of what culture and technology have always done."
+        },
+        "references": [
+          {
+            "fr": "More, « Transhumanism: Toward a Futurist Philosophy »",
+            "en": "More, 'Transhumanism: Toward a Futurist Philosophy'"
+          },
+          {
+            "fr": "Bostrom, « In Defense of Posthuman Dignity »",
+            "en": "Bostrom, 'In Defense of Posthuman Dignity'"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0,
+          0.8,
+          0.2
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le transhumanisme rompt avec les sagesses de l'acceptation : la mort n'est ni un néant indifférent, comme chez <ph id='epicurus'>Épicure</ph>, ni l'horizon qui donnerait son prix à la vie, comme chez <ph id='heidegger'>Heidegger</ph>, mais le plus grand des dommages et un <pb>problème technique</pb>. Le <c>vieillissement</c> y est requalifié en maladie guérissable. Subsiste une part de révolte : refuser la <c>finitude</c> comme une injustice à combattre, non comme un destin à apprivoiser.",
+          "en": "Transhumanism breaks with the wisdoms of acceptance: death is neither an indifferent nothingness, as for <ph id='epicurus'>Epicurus</ph>, nor the horizon that would give life its worth, as for <ph id='heidegger'>Heidegger</ph>, but the greatest of harms and a <pb>technical problem</pb>. Aging is recast as a curable disease. A share of revolt remains: to refuse <c>finitude</c> as an injustice to be fought, not a fate to be tamed."
+        },
+        "references": [
+          {
+            "fr": "Bostrom, « The Fable of the Dragon-Tyrant »",
+            "en": "Bostrom, 'The Fable of the Dragon-Tyrant'"
+          },
+          {
+            "fr": "de Grey, Ending Aging",
+            "en": "de Grey, Ending Aging"
+          }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "Nous ne tolérerons plus la tyrannie du vieillissement et de la mort.",
+            "en": "We will no longer tolerate the tyranny of aging and death."
+          },
+          "source": {
+            "fr": "Max More, « Lettre à Dame Nature » (1999)",
+            "en": "Max More, 'A Letter to Mother Nature' (1999)"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Il n'y a pas d'essence humaine fixe que l'augmentation viendrait trahir : ce qu'on appelle « nature humaine » est un état transitoire dans un processus d'auto-transformation. L'humain est un chantier inachevé, un pont vers le <c id='posthuman'>posthumain</c> plutôt qu'une forme accomplie ; sa valeur tient aux capacités et aux expériences qu'un être peut déployer, non à la conservation d'un type. La position reste toutefois <c>naturaliste</c> : elle ne nie pas toute nature donnée, elle en récuse le caractère sacré et définitif.",
+          "en": "There is no fixed human essence that enhancement would betray: what we call \"human nature\" is a transitory state within a process of self-transformation. The human is an unfinished work, a bridge toward the <c id='posthuman'>posthuman</c> rather than a completed form; its value lies in the capacities and experiences a being can unfold, not in the preservation of a type. The stance remains <c>naturalist</c>, however: it does not deny any given nature, it denies that nature is sacred and final."
+        },
+        "references": [
+          {
+            "fr": "More, « On Becoming Posthuman »",
+            "en": "More, 'On Becoming Posthuman'"
+          },
+          {
+            "fr": "Bostrom, « Why I Want to Be a Posthuman When I Grow Up »",
+            "en": "Bostrom, 'Why I Want to Be a Posthuman When I Grow Up'"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TECHNOLOGY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La technique n'est ni un outil neutre ni une force aliénante, mais le principal moteur d'émancipation de la condition humaine : ce qui nous a tirés de la rareté et de la maladie peut nous affranchir de nos limites biologiques mêmes. Les <c id='existential-risk'>risques existentiels</c> qu'elle fait courir ne justifient pas le renoncement, mais une accélération prudente et orientée. L'avenir désirable se construit en repoussant les frontières du possible technique, non en s'en défiant.",
+          "en": "Technology is neither a neutral tool nor an alienating force, but the chief engine of emancipation from the human condition: what pulled us out of scarcity and disease can free us from our very biological limits. The <c id='existential-risk'>existential risks</c> it raises do not warrant renunciation, but a prudent, steered acceleration. A desirable future is built by pushing back the frontiers of the technically possible, not by distrusting them."
+        },
+        "references": [
+          {
+            "fr": "Kurzweil, The Singularity Is Near",
+            "en": "Kurzweil, The Singularity Is Near"
+          },
+          {
+            "fr": "Bostrom, Superintelligence",
+            "en": "Bostrom, Superintelligence"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CONSERVATISM_PROGRESSISM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.95
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le transhumanisme porte à sa limite la foi des <mv id='enlightenment'>Lumières</mv> dans le progrès : non seulement les savoirs et les institutions, mais l'être humain lui-même peut et doit être amélioré. Aucune tradition, aucun ordre hérité n'a d'autorité qui résisterait à une amélioration démontrable ; le passé n'est qu'un point de départ que la raison et la technique ont vocation à dépasser.",
+          "en": "Transhumanism carries the <mv id='enlightenment'>Enlightenment</mv>'s faith in progress to its limit: not only knowledge and institutions, but the human being itself can and must be improved. No tradition, no inherited order holds an authority that would withstand a demonstrable improvement; the past is merely a starting point that reason and technology are meant to surpass."
+        },
+        "references": [
+          {
+            "fr": "More, « The Extropian Principles »",
+            "en": "More, 'The Extropian Principles'"
+          },
+          {
+            "fr": "Condorcet, Esquisse d'un tableau historique des progrès de l'esprit humain (filiation)",
+            "en": "Condorcet, Sketch for a Historical Picture of the Progress of the Human Mind (lineage)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HUMAN_PLACE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.85,
+          0.1,
+          0.05
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Prolongeant le projet cartésien de se rendre « maître et possesseur de la nature », dont il abandonne jusqu'au prudent « comme », le transhumanisme étend cette maîtrise à la nature humaine elle-même. L'humain n'est ni un simple membre de l'ordre naturel auquel se conformer, ni seulement son gardien, mais l'agent appelé à le reconfigurer et à diriger consciemment sa propre évolution : la nature n'a pas de normativité, elle est matière à transformer.",
+          "en": "Extending the Cartesian project of making ourselves \"masters and possessors of nature\", from which it drops even the prudent \"as if\", transhumanism stretches that mastery to human nature itself. The human is neither a mere member of the natural order to conform to, nor only its steward, but the agent called to reconfigure it and to consciously steer its own evolution: nature has no normativity, it is material to be transformed."
+        },
+        "references": [
+          {
+            "fr": "Descartes, Discours de la méthode, VI",
+            "en": "Descartes, Discourse on the Method, VI"
+          },
+          {
+            "fr": "More, « A Letter to Mother Nature »",
+            "en": "More, 'A Letter to Mother Nature'"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "HUMAN_ENHANCEMENT",
+      "thesis": {
+        "fr": "Augmenter l'être humain au-delà de ses limites naturelles n'est pas une transgression mais une tâche : la « nature humaine » est un point de départ contingent, non une norme à préserver.",
+        "en": "Augmenting the human being beyond its natural limits is not a transgression but a task: \"human nature\" is a contingent starting point, not a norm to be preserved."
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "thesis": {
+        "fr": "La mort n'est pas le destin qui donne son prix à la vie, mais le plus grand des maux et un problème technique : le vieillissement est une maladie, et la vaincre, un objectif.",
+        "en": "Death is not the fate that gives life its worth, but the greatest of evils and a technical problem: aging is a disease, and defeating it, a goal."
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "thesis": {
+        "fr": "Il n'y a pas d'essence humaine achevée : l'humain est un être en transition, un pont vers le <c id='posthuman'>posthumain</c>, défini par ce qu'il peut devenir, non par ce qu'il est.",
+        "en": "There is no finished human essence: the human is a being in transition, a bridge toward the <c id='posthuman'>posthuman</c>, defined by what it can become, not by what it is."
+      }
+    },
+    {
+      "axisId": "TECHNOLOGY",
+      "thesis": {
+        "fr": "La technique est le moteur de l'émancipation humaine : ce qui nous a affranchis de la rareté peut nous affranchir de nos limites biologiques mêmes.",
+        "en": "Technology is the engine of human emancipation: what freed us from scarcity can free us from our very biological limits."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

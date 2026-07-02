@@ -1,0 +1,11 @@
+{
+  "id": "induction",
+  "term": { "fr": "Induction", "en": "Induction" },
+  "definition": {
+    "fr": "L'induction est le raisonnement qui va du particulier au général, ou du passé à l'avenir : ayant toujours vu le soleil se lever, j'en conclus qu'il se lèvera demain. C'est le ressort de toute connaissance tirée de l'expérience, et donc de la science. <ph id='hume'>Hume</ph> en a pourtant montré la fragilité : rien ne prouve que la nature restera demain ce qu'elle a été, et notre confiance en cette régularité tient à l'habitude plus qu'à la raison. Ce « problème de l'induction » pèse sur le <ax id='CERTAINTY'>rapport à la certitude</ax> autant que sur la <ax id='KNOWLEDGE_SOURCE'>source de nos connaissances</ax>.",
+    "en": "Induction is the reasoning that moves from the particular to the general, or from the past to the future: having always seen the sun rise, I conclude that it will rise tomorrow. It is the mainspring of all knowledge drawn from experience, and so of science. Yet <ph id='hume'>Hume</ph> exposed its fragility: nothing proves that nature will remain tomorrow what it has been, and our confidence in that regularity rests on habit more than on reason. This \"problem of induction\" bears on our <ax id='CERTAINTY'>relation to certainty</ax> as much as on the <ax id='KNOWLEDGE_SOURCE'>source of our knowledge</ax>."
+  },
+  "relatedAxes": ["CERTAINTY", "KNOWLEDGE_SOURCE"],
+  "relatedTerms": ["fallibilism", "skepticism"],
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

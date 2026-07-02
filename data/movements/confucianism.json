@@ -1,0 +1,539 @@
+{
+  "kind": "MOVEMENT",
+  "id": "confucianism",
+  "name": {
+    "fr": "Confucianisme",
+    "en": "Confucianism"
+  },
+  "tagline": {
+    "fr": "Se cultiver soi-même pour devenir <c>un homme de bien (junzi)</c>, et ordonner le monde par les <c>rites (li 禮)</c> et l'humanité.",
+    "en": "Cultivating oneself into <c>a person of noble character (junzi)</c>, and ordering the world through <c>ritual propriety (li 禮)</c> and humaneness."
+  },
+  "summary": {
+    "fr": "Tradition née des <w>Entretiens (Lunyu)</w> de <ph id='confucius'>Confucius</ph> (Kongzi) dans la Chine en crise des Printemps et Automnes, et adossée aux Classiques anciens (les Odes, les Documents, les Rites). Au siècle des Royaumes combattants, deux héritiers la portent en sens opposés : <ph>Mencius</ph> tient la nature humaine pour spontanément bonne, dotée de germes de vertu qu'il suffit de cultiver, tandis que <ph>Xunzi</ph> la juge mauvaise et confie aux <c>rites (li 禮)</c> et à l'éducation le soin de la redresser. Écartée puis réhabilitée sous les Han, l'école devient l'orthodoxie impériale et la matière des concours mandarinaux, qui durant des siècles recrutent les fonctionnaires sur la maîtrise des Classiques. Le néo-confucianisme de l'époque Song lui adjoint une métaphysique du <c>li</c> (principe) et du qi (souffle). Diffusée dans toute l'Asie orientale, en Corée, au Japon et au Vietnam, cette pensée répond à une question constante : comment refaire l'ordre social et politique par la transformation morale des personnes plutôt que par la force.",
+    "en": "A tradition born from the <w>Analects (Lunyu)</w> of <ph id='confucius'>Confucius</ph> (Kongzi) in the China in crisis of the Spring and Autumn period, and anchored in the ancient Classics (the Odes, the Documents, the Rites). In the age of the Warring States two heirs carried it in opposite directions: <ph>Mencius</ph> held human nature to be spontaneously good, endowed with sprouts of virtue that one need only cultivate, while <ph>Xunzi</ph> judged it bad and entrusted the <c>rites (li 禮)</c> and education with the task of straightening it. Sidelined and then rehabilitated under the Han, the school became the imperial orthodoxy and the matter of the mandarin examinations, which for centuries recruited officials on their mastery of the Classics. The Neo-Confucianism of the Song era added to it a metaphysics of <c>li</c> (principle) and qi (vital energy). Spread across all of East Asia, in Korea, Japan and Vietnam, this thought answers one constant question: how to remake social and political order through the moral transformation of persons rather than by force."
+  },
+  "period": {
+    "from": -500
+  },
+  "keyFigures": [
+    {
+      "slug": "confucius",
+      "name": { "fr": "Confucius", "en": "Confucius" }
+    },
+    {
+      "slug": "mencius",
+      "name": { "fr": "Mencius", "en": "Mencius" }
+    },
+    {
+      "slug": "xunzi",
+      "name": { "fr": "Xunzi", "en": "Xunzi" }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "CONTEXTUALIST",
+      "note": {
+        "fr": "La pensée confucéenne ne se range ni sous le théisme personnel ni sous l'athéisme : le <c>Ciel (tian)</c> y est un ordre moral et un principe régulateur plus qu'un Dieu créateur et personnel. Confucius honore les esprits et les ancêtres mais s'abstient d'en disserter, reportant l'attention sur les devoirs de cette vie. L'alternative occidentale « Dieu existe / n'existe pas » ne capture pas cette position.",
+        "en": "Confucian thought falls under neither personal theism nor atheism: <c>Heaven (tian)</c> is here a moral order and a regulating principle more than a personal creator God. Confucius honors the spirits and the ancestors but refrains from discoursing on them, shifting attention onto the duties of this life. The Western alternative \"God exists / does not exist\" does not capture this position."
+      }
+    },
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le confucianisme reconnaît à l'épreuve une fécondité formatrice : c'est dans l'adversité que se distingue l'homme de bien, et Mencius enseigne que le Ciel endurcit par la souffrance et la peine ceux qu'il destine à de hautes tâches. L'épreuve n'est pas un pur malheur mais l'occasion de tremper le caractère et d'affermir la vertu.",
+          "en": "Confucianism grants ordeal a formative fruitfulness: it is in adversity that the gentleman is distinguished, and Mencius teaches that Heaven hardens through suffering and toil those it destines for high tasks. Ordeal is no pure misfortune but the occasion to temper character and to strengthen virtue."
+        },
+        "references": [
+          {
+            "fr": "Mencius, VI B, 15",
+            "en": "Mencius, VI B, 15"
+          },
+          {
+            "fr": "Entretiens (Lunyu), XV.2",
+            "en": "Analects (Lunyu), XV.2"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.6,
+          0.4,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le confucianisme inscrit le sens dans le <c>Mandat du Ciel</c>, ordre normatif et Voie qui dépassent l'individu ; mais cet ordre ne vaut qu'accompli dans la culture de soi, les rites et la rectitude des relations humaines. Le sens est ainsi reçu d'un ordre céleste et réalisé par l'effort éthique, jamais livré au seul arbitre individuel ni tenu pour absent.",
+          "en": "Confucianism sets meaning within the <c>Mandate of Heaven</c>, a normative order and Way that surpass the individual; but this order holds only as accomplished in self-cultivation, the rites and the rectitude of human relationships. Meaning is thus received from a heavenly order and realized through ethical effort, never left to individual choice alone nor held to be absent."
+        },
+        "references": [
+          {
+            "fr": "Entretiens (Lunyu)",
+            "en": "Analects (Lunyu)"
+          },
+          {
+            "fr": "Doctrine du Milieu (Zhongyong)",
+            "en": "Doctrine of the Mean (Zhongyong)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.5,
+          0.1,
+          0.4,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le confucianisme détourne de la spéculation sur l'au-delà pour reporter le soin sur la vie et les devoirs présents, mais entoure la mort de rites et perpétue le culte des ancêtres. Les défunts demeurent ainsi présents dans la mémoire et la piété de la lignée : non un anéantissement à craindre, ni vraiment une survie de l'âme, mais une continuité par la <c>piété filiale</c> et la transmission.",
+          "en": "Confucianism turns away from speculation about the hereafter to shift care onto present life and duties, but surrounds death with rites and perpetuates the cult of ancestors. The dead thus remain present in the memory and piety of the lineage: not an annihilation to be feared, nor truly a survival of the soul, but a continuity through <c>filial piety</c> and transmission."
+        },
+        "references": [
+          {
+            "fr": "Entretiens (Lunyu) ; Classique de la piété filiale",
+            "en": "Analects (Lunyu); Classic of Filial Piety"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.05,
+          0.3,
+          0.65
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le souverain bien confucéen est moral : devenir pleinement <c>humain</c> (ren), homme de bien (junzi) accompli par une longue culture de soi, les rites et l'étude. Cette excellence morale est aussi un épanouissement, l'homme réalisant sa vocation propre dans la société et les relations justes, mais le plaisir n'y est jamais la fin.",
+          "en": "The Confucian highest good is moral: to become fully <c>humane</c> (ren), an exemplary person (junzi) accomplished through long self-cultivation, the rites and study. This moral excellence is also a flourishing, the human being realizing his proper vocation in society and right relationships, but pleasure is never the end."
+        },
+        "references": [
+          {
+            "fr": "Entretiens (Lunyu)",
+            "en": "Analects (Lunyu)"
+          },
+          {
+            "fr": "Mencius",
+            "en": "Mencius"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.15,
+          0.7,
+          0.15
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le confucianisme civilise le désir par les <c>rites</c> et la convenance plutôt qu'il ne l'éteint ou l'affirme sans frein : on satisfait ses penchants dans les formes justes et à la juste mesure. L'éducation morale vise l'accord du désir et de la norme, où la convenance devient seconde nature et où le bien se fait sans contrainte.",
+          "en": "Confucianism civilizes desire through the <c>rites</c> and propriety rather than extinguishing it or affirming it without restraint: one satisfies one's inclinations in the right forms and to the right measure. Moral education aims at the accord of desire and norm, where propriety becomes second nature and the good is done without constraint."
+        },
+        "references": [
+          {
+            "fr": "Entretiens (Lunyu), II.4 et XII.1",
+            "en": "Analects (Lunyu), II.4 and XII.1"
+          },
+          {
+            "fr": "Xunzi (sur les rites et les désirs)",
+            "en": "Xunzi (on rites and desires)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.2
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le confucianisme suppose une nature humaine commune, tenue pour bonne dans son orthodoxie (les quatre germes de Mencius), mais qui ne s'accomplit que par une longue culture de soi, l'étude et les rites. Essentialisme modéré, donc : une essence donnée, dont la réalisation dépend pourtant tout entière de la formation.",
+          "en": "Confucianism assumes a common human nature, held to be good in its orthodoxy (Mencius' four sprouts), but one that is fulfilled only through long self-cultivation, study and the rites. A moderate essentialism, then: a given essence, whose realization nonetheless depends entirely on formation."
+        },
+        "references": [
+          {
+            "fr": "Mencius, II A et VI A",
+            "en": "Mencius, II A and VI A"
+          },
+          {
+            "fr": "Entretiens, XVII.2",
+            "en": "Analects, XVII.2"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.2
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le confucianisme partage le sort entre le Ciel et l'homme : la durée de la vie, la richesse et les honneurs relèvent du décret (ming) que le sage accepte, mais la culture de soi et la vertu dépendent entièrement de la volonté. Le perfectionnement moral est toujours à portée de qui le veut, ce qui place le courant du côté d'une liberté morale, sur fond d'acceptation du destin extérieur.",
+          "en": "Confucianism divides one's lot between Heaven and humanity: the span of life, wealth and honors fall under the decree (ming) that the sage accepts, but self-cultivation and virtue depend entirely on the will. Moral betterment is always within reach of whoever wills it, which sets the movement on the side of a moral freedom, against a background of accepted outward destiny."
+        },
+        "references": [
+          {
+            "fr": "Entretiens (Lunyu), XII.5",
+            "en": "Analects (Lunyu), XII.5"
+          },
+          {
+            "fr": "Mencius, VII A",
+            "en": "Mencius, VII A"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le savoir confucéen se gagne par l'étude, l'observation et l'imitation des Anciens, non par des idées innées. Apprendre, c'est s'imprégner des textes, des rites et des exemples, une formation patiente par l'expérience et la tradition plutôt que par déduction rationnelle ; le maître se dit lui-même non point né savant, mais amoureux de l'antiquité et prompt à l'y chercher.",
+          "en": "Confucian knowledge is won through study, observation and the imitation of the ancients, not through innate ideas. To learn is to steep oneself in the texts, the rites and the examples, a patient formation through experience and tradition rather than through rational deduction; the Master himself claims to be not one born wise, but a lover of antiquity, quick to seek it there."
+        },
+        "references": [
+          {
+            "fr": "Entretiens (Lunyu), VII.1 et VII.20",
+            "en": "Analects (Lunyu), VII.1 and VII.20"
+          },
+          {
+            "fr": "Entretiens, II.15",
+            "en": "Analects, II.15"
+          }
+        ],
+        "strength": "MEDIUM",
+        "quote": {
+          "text": {
+            "fr": "Je ne suis pas de ceux qui sont nés avec le savoir ; j'aime les anciens et je m'empresse de les y chercher.",
+            "en": "I am not one who was born with knowledge; I love the ancients and earnestly seek it there."
+          },
+          "source": {
+            "fr": "Entretiens, VII.20",
+            "en": "Analects, VII.20"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.2
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La sagesse confucéenne tient dans une <kw>humilité épistémique</kw> mesurée : <q>savoir qu'on sait ce qu'on sait, et qu'on ignore ce qu'on ignore, voilà le savoir</q>. Confucius écarte la spéculation sur les esprits ou sur la mort, faute d'avoir d'abord compris la vie, et préfère à la métaphysique l'étude des textes, des rites et de l'exemple des sages. Ni doute systématique ni système dogmatique : une confiance pratique dans la Voie, qui se prouve dans la conduite plutôt que dans la théorie.",
+          "en": "Confucian wisdom rests on a measured <kw>epistemic humility</kw>: <q>to know that you know what you know, and to know that you do not know what you do not know, that is knowledge</q>. Confucius sets aside speculation about spirits or about death, not yet having understood life, and prefers to metaphysics the study of the texts, the rites and the example of the sages. Neither systematic doubt nor dogmatic system: a practical trust in the Way, proven in conduct rather than in theory."
+        },
+        "references": [
+          {
+            "fr": "Entretiens (Lunyu), II.17 et XI.12",
+            "en": "Analects (Lunyu), II.17 and XI.12"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 0.1, 0.9, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Aucune loi ni aucun calcul ne peut tenir lieu d'un caractère droit : ce qui fait le bien, c'est la disposition acquise d'où l'acte juste jaillit naturellement, et non une règle extérieure qu'on applique. De là le primat de la culture de soi (xiushen) sur la prescription : la vie morale est l'acquisition graduelle des vertus, le <c>ren 仁 (l'humanité)</c> au premier chef, dont la figure achevée est le <c>junzi (l'homme de bien)</c>. C'est pourquoi le confucianisme se défie des solutions par décret, qu'il s'agisse de l'amour universel décrété par les Mohistes ou de l'ordre imposé par la loi pénale des Légistes : seule la transformation du cœur produit un agent fiable.",
+          "en": "No law and no calculation can stand in for an upright character: what makes the good is the acquired disposition from which the right act springs naturally, not an external rule one applies. Hence the primacy of self-cultivation (xiushen) over prescription: the moral life is the gradual acquisition of virtues, chief among them <c>ren 仁 (humaneness)</c>, whose accomplished figure is the <c>junzi (the person of noble character)</c>. This is why Confucianism distrusts solutions by decree, whether the universal love decreed by the Mohists or the order imposed by the penal law of the Legalists: only the transformation of the heart yields a reliable agent."
+        },
+        "references": [
+          { "fr": "Confucius, Entretiens (Lunyu)", "en": "Confucius, Analects (Lunyu)" },
+          { "fr": "Mencius (Mengzi), II A 6", "en": "Mencius (Mengzi), 2A6" }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "L'homme de bien recherche en lui-même, l'homme de peu recherche chez les autres.",
+            "en": "The noble person seeks it in himself; the small person seeks it in others."
+          },
+          "source": {
+            "fr": "Confucius, Entretiens (Lunyu), XV, 21",
+            "en": "Confucius, Analects (Lunyu), 15.21"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "PARTIALITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.8 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'affection réelle ne naît pas d'un principe abstrait mais du lien vécu, et c'est dans la famille qu'elle s'apprend d'abord, par la <c>piété filiale (xiao)</c>, avant de s'étendre par cercles à la communauté et au monde. <stk>De cet enracinement dépend la possibilité même d'une morale praticable</stk> : un amour qui prétend embrasser tous les hommes également ne tient à rien et ne meut personne. C'est l'objection décisive contre l'<c>amour impartial (jian'ai)</c> des Mohistes : Mencius leur reproche de traiter leur propre père comme un passant, ce qui revient à abolir l'humanité même au nom de l'humanité de tous. Aimer selon les degrés, ce n'est pas faillir à l'universel, c'est lui donner la seule racine qui le rende effectif.",
+          "en": "Real affection does not arise from an abstract principle but from the lived bond, and it is in the family that it is first learned, through <c>filial piety (xiao)</c>, before extending outward in circles to community and world. <stk>On this rootedness depends the very possibility of a workable morality</stk>: a love claiming to embrace all people equally holds to nothing and moves no one. This is the decisive objection to the Mohists' <c>impartial love (jian'ai)</c>: Mencius charges them with treating one's own father as a passing stranger, which amounts to abolishing humaneness itself in the name of humaneness for all. To love by degrees is not to fail the universal but to give it the only root that makes it effective."
+        },
+        "references": [
+          { "fr": "Mencius (Mengzi), III B 9", "en": "Mencius (Mengzi), 3B9" },
+          { "fr": "Confucius, Entretiens (Lunyu), I, 2", "en": "Confucius, Analects (Lunyu), 1.2" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CONSERVATISM_PROGRESSISM",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.8 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'ordre humain a déjà été réalisé une fois, par les sages-rois de l'antiquité (Yao, Shun, les Zhou) : il existe donc un modèle accompli à ressaisir, et non une voie à inventer de toutes pièces. Le présent est en désordre précisément parce qu'il a rompu avec lui, d'où la tâche : transmettre et raviver les <c>rites (li 禮)</c> reçus plutôt que les remplacer. Cette confiance dans le legs distingue le confucianisme à la fois du naturalisme <mv id='taoism'>taoïste</mv>, qui voudrait défaire l'artifice des rites pour retrouver la spontanéité du <c id='dao'>dao</c>, et de l'innovation <mv>légiste</mv>, qui fonde l'ordre sur des lois nouvelles indifférentes au passé. Pour le confucéen, l'autorité morale ne se décrète pas : elle se reçoit d'une tradition éprouvée.",
+          "en": "Human order has already been realized once, by the sage-kings of antiquity (Yao, Shun, the Zhou): there is therefore an accomplished model to recover, not a Way to invent from scratch. The present is in disorder precisely because it has broken with that model, hence the task: to transmit and revive the inherited <c>rites (li 禮)</c> rather than replace them. This trust in the legacy sets Confucianism apart both from <mv id='taoism'>Daoist</mv> naturalism, which would undo the artifice of the rites to recover the spontaneity of the <c id='dao'>dao</c>, and from <mv>Legalist</mv> innovation, which grounds order on new laws indifferent to the past. For the Confucian, moral authority is not decreed: it is received from a tested tradition."
+        },
+        "references": [
+          { "fr": "Confucius, Entretiens (Lunyu), VII, 1", "en": "Confucius, Analects (Lunyu), 7.1" },
+          { "fr": "Confucius, Entretiens (Lunyu), III, 14", "en": "Confucius, Analects (Lunyu), 3.14" }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "Je transmets et je n'invente pas ; je crois aux Anciens et je les aime.",
+            "en": "I transmit but do not innovate; I trust in and love the ancients."
+          },
+          "source": {
+            "fr": "Confucius, Entretiens (Lunyu), VII, 1",
+            "en": "Confucius, Analects (Lunyu), 7.1"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "BELONGING",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.8 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'identité morale du sujet confucéen est tissée par ses appartenances : la famille, le lignage, la communauté locale et l'État ordonné par les <c>rites (li 禮)</c>. On ne devient pleinement homme qu'au sein de ces relations (<c>les cinq relations cardinales</c>), et non comme individu abstrait ou citoyen indifférencié du monde.",
+          "en": "The moral identity of the Confucian subject is woven from its belongings: the family, the lineage, the local community, and the state ordered by the <c>rites (li 禮)</c>. One becomes fully human only within these relationships (<c>the five cardinal relations</c>), not as an abstract individual or an undifferentiated citizen of the world."
+        },
+        "references": [
+          { "fr": "Mencius (Mengzi), III A 4", "en": "Mencius (Mengzi), 3A4" },
+          { "fr": "Confucius, Entretiens (Lunyu), XII, 11", "en": "Confucius, Analects (Lunyu), 12.11" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SOCIAL_CONTRACT",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.85 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Puisque la personne n'existe que prise dans ses relations, l'ordre social ne se construit pas par convention entre individus déjà constitués mais se rétablit quand chacun comble la fonction de son nom : que le prince soit prince, le père père, le fils fils. C'est le sens de la <c>rectification des noms (zhengming 正名)</c> : nommer correctement n'est pas un jeu logique, c'est le préalable de tout gouvernement, car le désordre commence là où les noms et les conduites se disjoignent. Cette voie écarte le contrat, qui suppose des individus antérieurs à leurs liens, autant que la solution légiste : ce n'est pas la sanction qui aligne les actes sur les rôles, mais la honte qu'éprouve celui qui déchoit de son nom.",
+          "en": "Since the person exists only as caught within its relations, social order is not built by convention among already-constituted individuals but is restored when each fulfills the function of his name: let the ruler be ruler, the father father, the son son. Such is the sense of the <c>rectification of names (zhengming 正名)</c>: naming correctly is no logical game but the precondition of all government, for disorder begins where names and conduct come apart. This way sets aside the contract, which presupposes individuals prior to their bonds, as much as the Legalist solution: it is not punishment that aligns acts with roles, but the shame felt by one who falls short of his name."
+        },
+        "references": [
+          { "fr": "Confucius, Entretiens (Lunyu), XII, 11", "en": "Confucius, Analects (Lunyu), 12.11" },
+          { "fr": "Confucius, Entretiens (Lunyu), XIII, 3", "en": "Confucius, Analects (Lunyu), 13.3" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TIME_ORIENTATION",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.1, 0.1, 0.8] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le confucianisme oriente l'existence vers la transmission : le passé des sages-rois est le modèle à étudier, à ressaisir et à léguer, et le culte des ancêtres ancre le présent dans la continuité des générations. Apprendre, c'est revisiter l'ancien pour en tirer le neuf : la mémoire est le ressort de la vie morale et politique.",
+          "en": "Confucianism orients existence toward transmission: the past of the sage-kings is the model to study, recover, and hand down, and the veneration of ancestors anchors the present in the continuity of the generations. To learn is to revisit the old so as to draw the new from it: memory is the mainspring of moral and political life."
+        },
+        "references": [
+          { "fr": "Confucius, Entretiens (Lunyu), II, 11", "en": "Confucius, Analects (Lunyu), 2.11" },
+          { "fr": "Confucius, Entretiens (Lunyu), I, 9", "en": "Confucius, Analects (Lunyu), 1.9" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.4 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La <c>culture de soi (xiushen)</c> est au cœur de la voie confucéenne : l'examen quotidien de sa conduite précède et fonde l'action sur le monde, selon la séquence de <w>La Grande Étude (Daxue)</w>, qui va de la rectification du cœur au gouvernement de l'empire. Maître Zeng se dit s'examiner chaque jour sur trois points : loyauté, fidélité, étude. Mais cette intériorité reste tournée vers la pratique relationnelle, jamais vers la pure contemplation.",
+          "en": "<c>Self-cultivation (xiushen)</c> lies at the heart of the Confucian Way: the daily examination of one's conduct precedes and grounds action upon the world, following the sequence of <w>The Great Learning (Daxue)</w>, which runs from rectifying the heart to governing the realm. Master Zeng says he examines himself daily on three points: loyalty, faithfulness, study. Yet this inwardness remains turned toward relational practice, never toward pure contemplation."
+        },
+        "references": [
+          { "fr": "Confucius, Entretiens (Lunyu), I, 4", "en": "Confucius, Analects (Lunyu), 1.4" },
+          { "fr": "La Grande Étude (Daxue)", "en": "The Great Learning (Daxue)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "INDIVIDUAL_SOCIETY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.7 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'homme confucéen n'existe pleinement que pris dans le réseau de ses relations : le moi se constitue par ses rôles et ses devoirs envers autrui, non comme atome autonome antérieur à la société. L'accomplissement personnel et l'ordre du tout social sont solidaires : se cultiver soi-même, c'est déjà œuvrer à l'harmonie de la famille, de l'État et du monde.",
+          "en": "The Confucian person exists fully only as caught within the web of his relations: the self is constituted by its roles and duties toward others, not as an autonomous atom prior to society. Personal accomplishment and the order of the social whole are bound together: to cultivate oneself is already to work for the harmony of family, state, and world."
+        },
+        "references": [
+          { "fr": "La Grande Étude (Daxue)", "en": "The Great Learning (Daxue)" },
+          { "fr": "Confucius, Entretiens (Lunyu), VI, 30", "en": "Confucius, Analects (Lunyu), 6.30" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "AUTHORITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.7 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Gouverner par la loi et le châtiment obtient au mieux des sujets qui évitent la peine sans rougir de la faute : la contrainte règle les actes mais laisse les cœurs intacts, et l'ordre ainsi tenu reste extérieur et fragile. Gouverner par la vertu et l'exemple, au contraire, donne le sens de la honte et un cœur réformé, donc une obéissance qui vient d'elle-même. C'est l'argument décisif du confucianisme contre les <mv>Légistes</mv> : l'autorité hiérarchique qu'il assume, du prince comme du père, n'est légitime que morale et bienveillante, jamais domination arbitraire, car son efficacité tient à sa capacité d'attirer plutôt que de forcer.",
+          "en": "Governing by law and punishment yields at best subjects who avoid the penalty without blushing at the fault: coercion regulates acts but leaves hearts untouched, and the order so kept stays external and fragile. Governing by virtue and example, by contrast, gives a sense of shame and a reformed heart, hence an obedience that comes of itself. This is Confucianism's decisive argument against the <mv>Legalists</mv>: the hierarchical authority it embraces, of ruler and of father alike, is legitimate only as moral and benevolent, never as arbitrary domination, for its efficacy lies in its power to attract rather than to compel."
+        },
+        "references": [
+          { "fr": "Confucius, Entretiens (Lunyu), II, 1", "en": "Confucius, Analects (Lunyu), 2.1" },
+          { "fr": "Confucius, Entretiens (Lunyu), II, 3", "en": "Confucius, Analects (Lunyu), 2.3" }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "Qui gouverne par la vertu est comparable à l'étoile polaire : elle demeure en place, et toutes les étoiles se tournent vers elle.",
+            "en": "He who governs by virtue may be compared to the pole star, which keeps its place while all the other stars turn toward it."
+          },
+          "source": {
+            "fr": "Confucius, Entretiens (Lunyu), II, 1",
+            "en": "Confucius, Analects (Lunyu), 2.1"
+          }
+        }
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "PARTIALITY",
+      "thesis": {
+        "fr": "On doit aimer par degrés, à partir des siens : l'<c>amour impartial (jian'ai)</c> qui traite son père comme un passant n'aime en vérité personne.",
+        "en": "One must love by degrees, beginning with one's own: the <c>impartial love (jian'ai)</c> that treats one's father like a stranger in truth loves no one."
+      }
+    },
+    {
+      "axisId": "AUTHORITY",
+      "thesis": {
+        "fr": "Conduits par le châtiment, les hommes obéissent sans honte ; conduits par la vertu et l'exemple, ils se corrigent d'eux-mêmes.",
+        "en": "Led by punishment, people obey without shame; led by virtue and example, they reform of their own accord."
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "thesis": {
+        "fr": "C'est le caractère qu'il faut transformer, non la règle qu'il faut prescrire : on devient bon en cultivant le <c>ren 仁 (l'humanité)</c> jusqu'à la figure du <c>junzi</c>.",
+        "en": "It is character that must be transformed, not a rule prescribed: one becomes good by cultivating <c>ren 仁 (humaneness)</c> up to the figure of the <c>junzi</c>."
+      }
+    },
+    {
+      "axisId": "CONSERVATISM_PROGRESSISM",
+      "thesis": {
+        "fr": "La voie n'est pas à inventer mais à retrouver : les sages-rois l'ont déjà réalisée, et c'est en transmettant leurs <c>rites (li 禮)</c> qu'on refait l'ordre.",
+        "en": "The Way is not to be invented but recovered: the sage-kings already realized it, and it is by transmitting their <c>rites (li 禮)</c> that order is remade."
+      }
+    },
+    {
+      "axisId": "SOCIAL_CONTRACT",
+      "thesis": {
+        "fr": "L'ordre tient quand chacun comble la fonction de son nom, que le prince soit prince et le fils fils : telle est la <c>rectification des noms (zhengming 正名)</c>.",
+        "en": "Order holds when each fulfills the function of his name, the ruler being ruler and the son son: such is the <c>rectification of names (zhengming 正名)</c>."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

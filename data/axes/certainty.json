@@ -1,0 +1,301 @@
+{
+  "id": "CERTAINTY",
+  "relation": "TRUTH",
+  "territory": "KNOWLEDGE",
+  "label": {
+    "fr": "Rapport à la certitude",
+    "en": "Relation to certainty"
+  },
+  "question": {
+    "fr": "Pouvons-nous atteindre des certitudes définitives ?",
+    "en": "Can we reach definitive certainties?"
+  },
+  "stakes": {
+    "fr": "Si rien n'est jamais sûr, plus aucun savoir ne tient et l'action perd son appui ; mais se croire certain, c'est risquer de fermer les yeux et de ne plus rien apprendre. Se positionner, c'est dire si le doute est une honnêteté ou une impasse.",
+    "en": "If nothing is ever certain, no knowledge holds firm and action loses its footing; yet to believe oneself certain is to risk shutting one's eyes and learning nothing more. To take a position is to say whether doubt is a form of honesty or a dead end."
+  },
+  "layer": "THEORY",
+  "type": "BIPOLAR_MEDIAN",
+  "poles": [
+    {
+      "id": "DOGMATISM",
+      "label": {
+        "fr": "Dogmatisme",
+        "en": "Dogmatism"
+      },
+      "description": {
+        "fr": "La raison bien conduite peut établir des vérités certaines et définitives, qui servent de fondations au savoir. Douter est une étape, pas une destination.",
+        "en": "Properly guided reason can establish certain and definitive truths that serve as foundations for knowledge. Doubt is a stage, not a destination."
+      },
+      "figures": [
+        {
+          "slug": "descartes",
+          "name": {
+            "fr": "Descartes",
+            "en": "Descartes"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SKEPTICISM",
+      "label": {
+        "fr": "Scepticisme",
+        "en": "Skepticism"
+      },
+      "description": {
+        "fr": "Aucune certitude définitive n'est accessible : à toute thèse s'oppose une thèse contraire de force égale. La sagesse consiste à suspendre son jugement.",
+        "en": "No definitive certainty is within reach: every thesis faces an opposing thesis of equal strength. Wisdom consists in suspending judgment."
+      },
+      "figures": [
+        {
+          "slug": "pyrrho",
+          "name": {
+            "fr": "Pyrrhon",
+            "en": "Pyrrho"
+          }
+        },
+        {
+          "slug": "hume",
+          "name": {
+            "fr": "Hume",
+            "en": "Hume"
+          }
+        }
+      ]
+    }
+  ],
+  "medianLabel": {
+    "fr": "Faillibilisme",
+    "en": "Fallibilism"
+  },
+  "medianDescription": {
+    "fr": "On peut tenir des croyances solides et justifiées tout en sachant qu'elles pourraient être fausses. Entre la certitude qui s'interdit le doute et le scepticisme qui doute de tout, le faillibilisme assume un savoir toujours révisable : on avance avec ses meilleures raisons, prêt à se corriger.",
+    "en": "We can hold firm, well-justified beliefs while knowing they might be wrong. Between a certainty that forbids all doubt and a skepticism that doubts everything, fallibilism embraces knowledge that is always open to revision: we proceed on our best reasons, ready to correct ourselves."
+  },
+  "core": true,
+  "difficulty": 1,
+  "clusters": [],
+  "relatedAxes": [
+    "EPISTEMIC_JUSTIFICATION",
+    "BELIEF_ETHICS",
+    "KNOWLEDGE_SOURCE",
+    "TRUTH_NATURE",
+    "SCIENTIFIC_METHOD",
+    "REALITY_NATURE"
+  ],
+  "problems": [
+    {
+      "id": "radical-doubt",
+      "resolution": "SURFACED",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "celui qui doute", "en": "the one who doubts" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "doute hyperbolique", "en": "hyperbolic doubt" },
+        { "fr": "rêve", "en": "dream" },
+        { "fr": "malin génie", "en": "evil genius" },
+        { "fr": "cogito", "en": "cogito" }
+      ],
+      "poles": ["DOGMATISM", "SKEPTICISM"],
+      "anchors": [
+        { "name": { "fr": "Descartes", "en": "Descartes" }, "kind": "PHILOSOPHER", "slug": "descartes" },
+        { "name": { "fr": "Pyrrhon", "en": "Pyrrho" }, "kind": "PHILOSOPHER", "slug": "pyrrho" }
+      ],
+      "title": { "fr": "Qu'est-ce qui résiste au doute ?", "en": "What resists doubt?" },
+      "explicitation": {
+        "fr": "En poussant le doute jusqu'au bout, rêve, illusion, un trompeur possible, reste-t-il quelque chose qui résiste, ou faut-il admettre qu'aucune certitude ne tient ?",
+        "en": "Pushing doubt to its limit, dream, illusion, a possible deceiver, does anything resist, or must we admit that no certainty holds?"
+      },
+      "ref": { "kind": "THOUGHT_EXPERIMENT", "id": "dream-argument" }
+    },
+    {
+      "id": "claim-without-proof",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "une affirmation", "en": "a claim" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "assurance", "en": "assurance" },
+        { "fr": "preuve", "en": "proof" },
+        { "fr": "suspendre son jugement", "en": "suspending judgment" }
+      ],
+      "poles": ["DOGMATISM"],
+      "anchors": [
+        { "name": { "fr": "Clifford", "en": "Clifford" }, "kind": "PHILOSOPHER", "slug": "clifford" },
+        { "name": { "fr": "William James", "en": "William James" }, "kind": "PHILOSOPHER", "slug": "william-james" }
+      ],
+      "doorways": [{ "axis": "BELIEF_ETHICS" }],
+      "title": { "fr": "Sûr de soi, sûr du vrai ?", "en": "Sure of yourself, sure of the truth?" },
+      "explicitation": {
+        "fr": "Une conviction affichée avec aplomb, sans preuve, doit-elle emporter l'adhésion, ou faut-il exiger des raisons avant de croire, fût-ce au prix de l'inconfort de suspendre son jugement ?",
+        "en": "Should a conviction asserted with aplomb but no proof carry the day, or must we demand reasons before believing, even at the discomfort of suspending judgment?"
+      }
+    },
+    {
+      "id": "lone-conviction",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "ma conviction face aux autres", "en": "my conviction against others" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "désaccord", "en": "disagreement" },
+        { "fr": "consensus", "en": "consensus" },
+        { "fr": "se fier à soi", "en": "trusting oneself" }
+      ],
+      "poles": ["DOGMATISM", "SKEPTICISM"],
+      "anchors": [],
+      "title": { "fr": "Seul à voir clair ?", "en": "Alone in seeing clearly?" },
+      "explicitation": {
+        "fr": "Quand tous pensent le contraire de moi, est-ce le signe que je me trompe, ou le lucide est-il parfois seul contre la foule : jusqu'où s'en remettre au jugement des autres ?",
+        "en": "When everyone thinks the opposite of me, is it a sign that I am wrong, or is the clear-sighted one sometimes alone against the crowd: how far should I defer to others' judgment?"
+      }
+    },
+    {
+      "id": "mathematical-certainty",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "un système d'axiomes", "en": "an axiomatic system" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "axiomes", "en": "axioms" },
+        { "fr": "postulats", "en": "postulates" },
+        { "fr": "théorème d'incomplétude", "en": "incompleteness theorem" },
+        { "fr": "a priori", "en": "a priori" }
+      ],
+      "poles": ["DOGMATISM"],
+      "anchors": [
+        { "name": { "fr": "Descartes", "en": "Descartes" }, "kind": "PHILOSOPHER", "slug": "descartes" },
+        { "name": { "fr": "Gödel", "en": "Gödel" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "Hilbert", "en": "Hilbert" }, "kind": "PHILOSOPHER" }
+      ],
+      "title": { "fr": "Les mathématiques, hors de doute ?", "en": "Mathematics, beyond doubt?" },
+      "explicitation": {
+        "fr": "Longtemps modèle même de la certitude, les mathématiques échappent-elles à tout doute, ou le choix des axiomes et les limites révélées par les théorèmes d'incomplétude montrent-ils que, même là, la certitude a un horizon ?",
+        "en": "Long the very model of certainty, do mathematics escape all doubt, or do the choice of axioms and the limits revealed by the incompleteness theorems show that even here certainty has a horizon?"
+      }
+    },
+    {
+      "id": "humes-induction",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "une loi tirée de l'expérience", "en": "a law drawn from experience" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "induction", "en": "induction" },
+        { "fr": "habitude", "en": "habit" },
+        { "fr": "uniformité de la nature", "en": "uniformity of nature" }
+      ],
+      "poles": ["SKEPTICISM"],
+      "anchors": [
+        { "name": { "fr": "Hume", "en": "Hume" }, "kind": "PHILOSOPHER", "slug": "hume" },
+        { "name": { "fr": "Popper", "en": "Popper" }, "kind": "PHILOSOPHER", "slug": "popper" }
+      ],
+      "doorways": [{ "axis": "SCIENTIFIC_METHOD" }],
+      "title": { "fr": "Demain ressemblera-t-il à hier ?", "en": "Will tomorrow resemble yesterday?" },
+      "explicitation": {
+        "fr": "Le soleil s'est toujours levé, mais qu'est-ce qui garantit qu'il se lèvera demain ? Aucune accumulation d'observations ne prouve une loi : notre confiance dans l'avenir tient-elle à la raison, ou à la seule habitude ?",
+        "en": "The sun has always risen, but what guarantees it will rise tomorrow? No accumulation of observations proves a law: does our trust in the future rest on reason, or on habit alone?"
+      }
+    },
+    {
+      "id": "living-without-certainty",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "agir et juger", "en": "acting and judging" },
+      "mode": "PRACTICAL",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "suspension du jugement", "en": "suspension of judgment" },
+        { "fr": "faillibilisme", "en": "fallibilism" },
+        { "fr": "ataraxie", "en": "ataraxia" }
+      ],
+      "poles": ["SKEPTICISM"],
+      "anchors": [
+        { "name": { "fr": "Pyrrhon", "en": "Pyrrho" }, "kind": "PHILOSOPHER", "slug": "pyrrho" },
+        { "name": { "fr": "Sextus Empiricus", "en": "Sextus Empiricus" }, "kind": "PHILOSOPHER", "slug": "sextus-empiricus" },
+        { "name": { "fr": "Hume", "en": "Hume" }, "kind": "PHILOSOPHER", "slug": "hume" },
+        { "name": { "fr": "Peirce", "en": "Peirce" }, "kind": "PHILOSOPHER", "slug": "peirce" }
+      ],
+      "title": { "fr": "Vivre sans certitude", "en": "Living without certainty" },
+      "explicitation": {
+        "fr": "Si rien n'est certain, peut-on encore agir et choisir, ou suspendre son jugement rend-il la vie impossible : le faillibilisme, agir sur ses meilleures raisons en restant révisable, est-il l'issue ?",
+        "en": "If nothing is certain, can we still act and choose, or does suspending judgment make life impossible: is fallibilism, acting on one's best reasons while staying open to revision, the way out?"
+      }
+    },
+    {
+      "id": "peer-disagreement",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "le jugement d'un pair", "en": "a peer's judgment" },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "EPISTEMIC",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "pair épistémique", "en": "epistemic peer" },
+        { "fr": "conciliation", "en": "conciliation" },
+        { "fr": "fermeté", "en": "steadfastness" },
+        { "fr": "isosthénie", "en": "isostheneia" }
+      ],
+      "poles": ["DOGMATISM", "SKEPTICISM"],
+      "anchors": [
+        { "name": { "fr": "Sextus Empiricus", "en": "Sextus Empiricus" }, "kind": "PHILOSOPHER", "slug": "sextus-empiricus" }
+      ],
+      "title": { "fr": "Le désaccord d'un égal", "en": "When an equal disagrees" },
+      "explicitation": {
+        "fr": "Quand quelqu'un d'aussi informé et rigoureux que moi conclut l'inverse, dois-je tempérer ma confiance, comme le sceptique qui érige l'isosthénie en règle, ou puis-je tenir bon au nom de l'examen que j'ai moi-même conduit ?",
+        "en": "When someone as informed and rigorous as I am reaches the opposite conclusion, must I temper my confidence, like the skeptic who makes isostheneia a rule, or may I hold firm on the strength of the examination I have carried out myself?"
+      }
+    },
+    {
+      "id": "the-regress",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "la chaîne des raisons", "en": "the chain of reasons" },
+      "mode": "DESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "régression à l'infini", "en": "infinite regress" },
+        { "fr": "trilemme", "en": "trilemma" },
+        { "fr": "fondement", "en": "foundation" }
+      ],
+      "anchors": [
+        { "name": { "fr": "Sextus Empiricus", "en": "Sextus Empiricus" }, "kind": "PHILOSOPHER", "slug": "sextus-empiricus" }
+      ],
+      "doorways": [{ "axis": "EPISTEMIC_JUSTIFICATION" }],
+      "title": { "fr": "Justifier, jusqu'où ?", "en": "Justify, how far?" },
+      "explicitation": {
+        "fr": "Toute raison s'appuie sur une autre raison : la chaîne s'arrête-t-elle sur un fondement, tourne-t-elle en cercle, ou se perd-elle à l'infini ? C'est le levier du sceptique.",
+        "en": "Every reason rests on another reason: does the chain stop at a foundation, turn in a circle, or run off to infinity? This is the skeptic's lever."
+      }
+    },
+    {
+      "id": "world-or-appearances",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "le monde extérieur", "en": "the external world" },
+      "mode": "DESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "représentations", "en": "representations" },
+        { "fr": "voile des perceptions", "en": "veil of perception" },
+        { "fr": "réalisme", "en": "realism" }
+      ],
+      "anchors": [
+        { "name": { "fr": "Berkeley", "en": "Berkeley" }, "kind": "PHILOSOPHER", "slug": "berkeley" },
+        { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" }
+      ],
+      "doorways": [{ "axis": "REALITY_NATURE" }],
+      "title": { "fr": "Le monde, ou nos représentations ?", "en": "The world, or our representations?" },
+      "explicitation": {
+        "fr": "À supposer même que nos perceptions soient cohérentes, atteignent-elles les choses telles qu'elles sont, ou seulement nos représentations, sans moyen de comparer les deux ?",
+        "en": "Even granting our perceptions are coherent, do they reach things as they are, or only our representations, with no way to compare the two?"
+      }
+    }
+  ]
+}

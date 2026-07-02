@@ -1,0 +1,20 @@
+{
+  "id": "singularity",
+  "term": {
+    "fr": "Singularité technologique",
+    "en": "Technological singularity"
+  },
+  "definition": {
+    "fr": "Point hypothétique où une intelligence artificielle capable de se perfectionner elle-même déclencherait une accélération explosive et incontrôlable du progrès, au-delà de toute anticipation humaine. Forgée par le mathématicien Vernor Vinge et popularisée par <per>Ray Kurzweil</per>, l'idée est centrale au <mv id='transhumanism'>transhumanisme</mv>, qui y voit l'horizon d'un basculement vers le <c id='posthuman'>posthumain</c> ; ses critiques y dénoncent une eschatologie technologique invérifiable.",
+    "en": "A hypothetical point at which an artificial intelligence able to improve itself would trigger an explosive, uncontrollable acceleration of progress, beyond all human anticipation. Coined by the mathematician Vernor Vinge and popularized by <per>Ray Kurzweil</per>, the idea is central to <mv id='transhumanism'>transhumanism</mv>, which sees in it the threshold of a shift toward the <c id='posthuman'>posthuman</c>; its critics denounce an unfalsifiable technological eschatology."
+  },
+  "relatedAxes": [
+    "TECHNOLOGY",
+    "HUMAN_ENHANCEMENT"
+  ],
+  "relatedTerms": [
+    "posthuman",
+    "existential-risk"
+  ],
+  "updatedAt": "2026-06-28T00:00:00.000Z"
+}

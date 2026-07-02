@@ -1,0 +1,948 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "sartre",
+  "name": {
+    "fr": "Sartre",
+    "en": "Sartre"
+  },
+  "fullName": {
+    "fr": "Jean-Paul Sartre",
+    "en": "Jean-Paul Sartre"
+  },
+  "tagline": {
+    "fr": "<th>L'existence précède l'essence</th> : l'homme n'est rien d'autre que ce qu'il se fait.",
+    "en": "<th>Existence precedes essence</th>: man is nothing but what he makes of himself."
+  },
+  "summary": {
+    "fr": "Philosophe, romancier et dramaturge français, figure centrale de l'<mv id='existentialism'>existentialisme</mv> athée et de la vie intellectuelle d'après-guerre. Nourri de la <mv id='phenomenology'>phénoménologie</mv> de <ph>Husserl</ph> et <ph>Heidegger</ph>, il bâtit dans <w>L'Être et le Néant</w> (1943) une philosophie de la conscience et de la liberté, qu'il prolonge en morale de l'engagement. Compagnon de <ph id='beauvoir'>Simone de Beauvoir</ph> et animateur des <w>Temps modernes</w>, il incarne l'intellectuel engagé : Résistance, anticolonialisme, refus du prix Nobel en 1964, puis rapprochement avec le <mv id='marxism'>marxisme</mv>.",
+    "en": "A French philosopher, novelist and playwright, the central figure of atheistic <mv id='existentialism'>existentialism</mv> and of postwar intellectual life. Steeped in the <mv id='phenomenology'>phenomenology</mv> of <ph>Husserl</ph> and <ph>Heidegger</ph>, he built in <w>Being and Nothingness</w> (1943) a philosophy of consciousness and freedom, which he extended into an ethics of commitment. Companion of <ph id='beauvoir'>Simone de Beauvoir</ph> and editor of <w>Les Temps modernes</w>, he embodied the engaged intellectual: the Resistance, anti-colonialism, his refusal of the Nobel Prize in 1964, then his move toward <mv id='marxism'>Marxism</mv>."
+  },
+  "birth": 1905,
+  "death": 1980,
+  "nationality": {
+    "fr": "Français",
+    "en": "French"
+  },
+  "movements": [
+    "existentialism",
+    "phenomenology"
+  ],
+  "entries": [
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Sartre refuse toute justification rédemptrice de la souffrance : sans Dieu ni providence, nulle <kw>théodicée</kw> ne la rachète, et lui prêter un sens caché serait une fuite de mauvaise foi. La souffrance est un fait contingent que la liberté doit assumer et, autant que possible, transformer par l'action ; elle n'a que le sens que nous lui donnons, non une fécondité inscrite dans l'ordre des choses.",
+          "en": "Sartre refuses any redemptive justification of suffering: without God or providence, no <kw>theodicy</kw> redeems it, and to lend it a hidden meaning would be a flight into bad faith. Suffering is a contingent fact that freedom must assume and, as far as possible, transform through action; it has only the meaning we give it, not a fruitfulness inscribed in the order of things."
+        },
+        "references": [
+          {
+            "fr": "L'Être et le Néant",
+            "en": "Being and Nothingness"
+          },
+          {
+            "fr": "L'existentialisme est un humanisme",
+            "en": "Existentialism Is a Humanism"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.75,
+          0,
+          0.1,
+          0.15
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Sartre récuse explicitement l'<c>être-pour-la-mort</c> de Heidegger : loin d'être ma possibilité la plus propre, qui donnerait sens à ma vie, la mort est un fait absurde et extérieur, la pure suppression de mes possibles. Elle ne s'attend ni ne s'assume comme mienne, elle me livre au regard d'autrui. Le sens vient de la liberté en cours, jamais de la mort, qu'il s'agit moins d'apprivoiser que de ne pas laisser commander la vie.",
+          "en": "Sartre explicitly rejects Heidegger's <c>being-toward-death</c>: far from being my ownmost possibility, which would give my life meaning, death is an absurd, external fact, the sheer suppression of my possibilities. It is neither awaited nor assumed as mine, it hands me over to the gaze of others. Meaning comes from freedom in progress, never from death, which is less to be tamed than to be kept from governing life."
+        },
+        "references": [
+          {
+            "fr": "L'Être et le Néant, IV (Ma mort)",
+            "en": "Being and Nothingness, IV (My Death)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.15,
+          0.55,
+          0.3
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Faute de valeurs données, le bien ne se reçoit pas, il se fait : c'est l'existence authentique qui assume sa liberté et son projet sans se réfugier dans la mauvaise foi ni dans une essence rassurante. La vie réussie est celle qui se réalise lucidement dans l'action et l'engagement, plus qu'une vertu codifiée ou un plaisir poursuivi.",
+          "en": "Lacking given values, the good is not received but made: it is the authentic existence that assumes its freedom and its project without taking refuge in bad faith or in a reassuring essence. The successful life is the one that lucidly realizes itself in action and engagement, more than a codified virtue or a pursued pleasure."
+        },
+        "references": [
+          {
+            "fr": "L'existentialisme est un humanisme",
+            "en": "Existentialism Is a Humanism"
+          },
+          {
+            "fr": "L'Être et le Néant, IV",
+            "en": "Being and Nothingness, IV"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.55,
+          0.3,
+          0.15
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Pour Sartre, le désir n'est pas un accident à corriger mais la façon dont le pour-soi, manque d'être, se jette vers le monde et vers autrui : la liberté s'éprouve dans l'engagement désirant, à assumer plutôt qu'à fuir. L'analyse de <w>L'Être et le Néant</w> le marque pourtant d'un tragique, le désir de coïncider enfin avec soi étant une <q>passion inutile</q>.",
+          "en": "For Sartre, desire is not an accident to be corrected but the way the for-itself, a lack of being, throws itself toward the world and toward others: freedom is experienced in desiring engagement, to be assumed rather than fled. The analysis of <w>Being and Nothingness</w> nonetheless marks it with a tragic note, the desire to coincide at last with oneself being a <q>useless passion</q>."
+        },
+        "references": [
+          {
+            "fr": "L'Être et le Néant, IV",
+            "en": "Being and Nothingness, IV"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.2
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'ontologie phénoménologique de Sartre part du vécu de la conscience, l'angoisse, la nausée, le regard d'autrui, plutôt que de déductions rationnelles ou de purs faits sensibles. La conscience est d'emblée rapport intentionnel au monde concret, et c'est en le décrivant qu'on la connaît. Mais le <c>cogito</c> préréflexif demeure un point d'appui de type cartésien, ce qui maintient Sartre près de la médiane, légèrement du côté de l'expérience décrite.",
+          "en": "Sartre's phenomenological ontology starts from the lived experience of consciousness, anguish, nausea, the look of the other, rather than from rational deductions or pure sensory facts. Consciousness is from the outset an intentional relation to the concrete world, and it is by describing it that one knows it. But the pre-reflective <c>cogito</c> remains a Cartesian-type foothold, which keeps Sartre near the median, leaning slightly toward described experience."
+        },
+        "references": [
+          {
+            "fr": "L'Être et le Néant, Introduction",
+            "en": "Being and Nothingness, Introduction"
+          },
+          {
+            "fr": "L'Imaginaire",
+            "en": "The Imaginary"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.2
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Contre tout <c>relativisme</c>, Sartre maintient qu'il faut un point de départ absolu, et qu'il n'en est pas d'autre que le <c>cogito</c> : la conscience qui se saisit elle-même, immédiate et à la portée de tous. Mais cette certitude est étroite : elle livre l'existence du sujet, non une essence, une nature humaine ou des valeurs, qui toutes font défaut puisque <kw>l'existence précède l'essence</kw>. Fondationnaliste sur ce seul point d'appui et démuni de toute autre certitude donnée, Sartre se tient près du partage, côté assurance par le cogito, côté vertige pour tout le reste.",
+          "en": "Against all <c>relativism</c>, Sartre insists that there must be an absolute starting point, and that there is none other than the <c>cogito</c>: consciousness grasping itself, immediate and within everyone's reach. But this certainty is narrow: it yields the subject's existence, not an essence, a human nature or values, all of which are wanting, since <kw>existence precedes essence</kw>. Foundationalist on this single foothold yet stripped of any other given certainty, Sartre stands near the divide, on the side of assurance through the cogito, on the side of vertigo for all the rest."
+        },
+        "references": [
+          {
+            "fr": "L'existentialisme est un humanisme",
+            "en": "Existentialism Is a Humanism"
+          },
+          {
+            "fr": "L'Être et le Néant, Introduction (le cogito préréflexif)",
+            "en": "Being and Nothingness, Introduction (the pre-reflective cogito)"
+          }
+        ],
+        "strength": "MEDIUM",
+        "quote": {
+          "text": {
+            "fr": "Il ne peut y avoir de vérité autre, au point de départ, que celle-ci : je pense, donc je suis, c'est là la vérité absolue de la conscience s'atteignant elle-même.",
+            "en": "There can be no truth other, at the starting point, than this: I think, therefore I am; that is the absolute truth of consciousness attaining itself."
+          },
+          "source": {
+            "fr": "L'existentialisme est un humanisme",
+            "en": "Existentialism Is a Humanism"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 1
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Pour un objet fabriqué, le coupe-papier, l'essence (le concept de l'artisan) précède l'existence ; la tradition pensait l'homme de même, créé selon une <kw>nature humaine</kw> conçue par Dieu. Ôtez le créateur, et l'ordre s'inverse pour l'homme seul : il <ex>existe d'abord, sans définition préalable</ex>, et c'est de n'être d'abord rien qu'il tire l'entière responsabilité de se faire.",
+          "en": "For a manufactured object, the paper-knife, essence (the artisan's concept) precedes existence; tradition thought of man likewise, created according to a <kw>human nature</kw> conceived by God. Remove the creator, and the order reverses for man alone: he <ex>exists first, with no prior definition</ex>, and it is from being nothing at the outset that he draws the full responsibility of making himself."
+        },
+        "references": [
+          {
+            "fr": "L'existentialisme est un humanisme (1946)",
+            "en": "Existentialism Is a Humanism (1946)"
+          },
+          {
+            "fr": "L'Être et le Néant, Introduction et 1re partie (le pour-soi)",
+            "en": "Being and Nothingness, Introduction and Part 1 (the for-itself)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "L'homme existe d'abord, se rencontre, surgit dans le monde, et qu'il se définit après. L'homme, tel que le conçoit l'existentialiste, s'il n'est pas définissable, c'est qu'il n'est d'abord rien. Il ne sera qu'ensuite, et il sera tel qu'il se sera fait.",
+            "en": "Man first exists, encounters himself, surges up in the world, and defines himself afterward. If man as the existentialist conceives him is indefinable, it is because at first he is nothing. He will not be anything until later, and then he will be what he makes of himself."
+          },
+          "source": {
+            "fr": "L'existentialisme est un humanisme",
+            "en": "Existentialism Is a Humanism"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La liberté n'est pas une propriété de l'homme mais le mode d'être de la conscience : le <c>pour-soi</c> néantise toute situation, qui ne le détermine donc jamais et ne prend sens qu'à la lumière de son <c>projet</c>. Même les obstacles, même la <c>facticité</c> (corps, passé, situation), ne sont des limites que pour une liberté qui les vise ; <q>condamné</q>, l'homme l'est parce qu'il n'a pas choisi d'être libre et ne peut pourtant pas ne pas choisir.",
+          "en": "Freedom is not a property man has but the mode of being of consciousness: the <c>for-itself</c> nihilates every situation, which therefore never determines it and takes on meaning only in the light of its <c>project</c>. Even obstacles, even <c>facticity</c> (body, past, situation), are limits only for a freedom that aims at them; <q>condemned</q> man is, because he did not choose to be free and yet cannot but choose."
+        },
+        "references": [
+          {
+            "fr": "L'Être et le Néant, 4e partie, ch. 1 (être et faire : la liberté)",
+            "en": "Being and Nothingness, Part 4, ch. 1 (being and doing: freedom)"
+          },
+          {
+            "fr": "L'existentialisme est un humanisme (l'homme est condamné à être libre)",
+            "en": "Existentialism Is a Humanism (man is condemned to be free)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "L'homme est condamné à être libre. Condamné, parce qu'il ne s'est pas créé lui-même, et par ailleurs cependant libre, parce qu'une fois jeté dans le monde, il est responsable de tout ce qu'il fait.",
+            "en": "Man is condemned to be free. Condemned, because he did not create himself, yet nonetheless free, because once thrown into the world, he is responsible for everything he does."
+          },
+          "source": {
+            "fr": "L'existentialisme est un humanisme",
+            "en": "Existentialism Is a Humanism"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 1
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Sartre est résolument athée : son <mv id='existentialism'>existentialisme</mv> se définit comme la tentative de tirer toutes les conséquences d'une position athée cohérente. Si Dieu n'existe pas, il n'y a aucun artisan divin pour avoir conçu une <kw>essence</kw> de l'homme, et donc aucune valeur inscrite dans un ciel intelligible : tout est à inventer. L'absence de Dieu n'est pas regrettée, elle est le point de départ assumé.",
+          "en": "Sartre is resolutely atheist: his <mv id='existentialism'>existentialism</mv> defines itself as the attempt to draw all the consequences of a coherent atheist position. If God does not exist, there is no divine craftsman to have conceived an <kw>essence</kw> of man, and so no value inscribed in an intelligible heaven: everything must be invented. The absence of God is not lamented, it is the assumed starting point."
+        },
+        "references": [
+          {
+            "fr": "L'existentialisme est un humanisme (existentialisme athée)",
+            "en": "Existentialism Is a Humanism (atheistic existentialism)"
+          },
+          {
+            "fr": "L'Être et le Néant, conclusion (l'idée de Dieu, en-soi-pour-soi, est contradictoire)",
+            "en": "Being and Nothingness, conclusion (the idea of God, in-itself-for-itself, is contradictory)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "L'existentialisme n'est pas autre chose qu'un effort pour tirer toutes les conséquences d'une position athée cohérente.",
+            "en": "Existentialism is nothing else but an attempt to draw all the consequences of a coherent atheist position."
+          },
+          "source": {
+            "fr": "L'existentialisme est un humanisme",
+            "en": "Existentialism Is a Humanism"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -1
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Sans Dieu ni ordre suprasensible, il n'existe aucun <c>arrière-monde</c> où des valeurs ou un sens seraient déposés d'avance : tout se joue dans l'immanence du monde où l'homme est jeté et qu'il a à façonner. Le sens et les valeurs ne descendent pas d'un au-delà, ils naissent du <c>projet</c> de la conscience finie, ici-bas. La position est donc nettement immanentiste.",
+          "en": "With no God and no supra-sensible order, there is no <c>backworld</c> where values or meaning are deposited in advance: everything plays out in the immanence of the world into which man is thrown and which he must shape. Meaning and values do not descend from a beyond, they arise from the <c>project</c> of finite consciousness, here below. The position is therefore clearly immanentist."
+        },
+        "references": [
+          {
+            "fr": "L'existentialisme est un humanisme (pas de valeurs a priori, délaissement)",
+            "en": "Existentialism Is a Humanism (no a priori values, abandonment)"
+          },
+          {
+            "fr": "L'Être et le Néant (la transcendance comme structure du pour-soi vers le monde, non vers un au-delà)",
+            "en": "Being and Nothingness (transcendence as the for-itself's structure toward the world, not toward a beyond)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.85,
+          0.15,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Aucune <c>téléologie</c> ne préside à l'existence : l'être est d'abord contingent, de trop, sans raison d'être, comme l'éprouve la <c>nausée</c> du héros de Roquentin. Le sens n'est donc ni donné ni découvert mais <kw>construit</kw> par les choix et les engagements de chacun, qui inventent leurs propres valeurs. Une part d'absurdité subsiste, comme arrière-fond de cette contingence radicale, mais elle n'est pas, comme chez <ph id='camus'>Camus</ph>, le dernier mot.",
+          "en": "No <c>teleology</c> presides over existence: being is first of all contingent, de trop (superfluous), without reason to be, as the <c>nausea</c> of the hero Roquentin reveals. Meaning is therefore neither given nor discovered but <kw>constructed</kw> through each person's choices and commitments, which invent their own values. A measure of absurdity remains, as the backdrop of this radical contingency, but it is not, as in <ph id='camus'>Camus</ph>, the last word."
+        },
+        "references": [
+          {
+            "fr": "La Nausée (1938), l'expérience de la contingence",
+            "en": "Nausea (1938), the experience of contingency"
+          },
+          {
+            "fr": "L'existentialisme est un humanisme (l'homme invente ses valeurs)",
+            "en": "Existentialism Is a Humanism (man invents his values)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.25,
+          0.75,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Toute conscience est conscience de quelque chose : elle n'est donc aucune <c>substance</c>, aucun moi-chose logé en elle, mais une présence à soi séparée d'elle-même par un <c>néant</c>. C'est cet écart, et non un ego (contre <ph id='descartes'>Descartes</ph> et <ph>Husserl</ph>), qui fait que le <c>pour-soi</c> <q>n'est jamais ce qu'il est et est ce qu'il n'est pas</q> : condition de sa liberté et de sa temporalité.",
+          "en": "All consciousness is consciousness of something: it is therefore no <c>substance</c>, no thing-self lodged within it, but a presence to itself separated from itself by a <c>nothingness</c>. It is this gap, not an ego (against <ph id='descartes'>Descartes</ph> and <ph>Husserl</ph>), that makes the <c>for-itself</c> <q>never what it is and is what it is not</q>: the condition of its freedom and its temporality."
+        },
+        "references": [
+          {
+            "fr": "L'Être et le Néant, 1re partie, ch. 1 (le pour-soi n'est pas ce qu'il est)",
+            "en": "Being and Nothingness, Part 1, ch. 1 (the for-itself is not what it is)"
+          },
+          {
+            "fr": "L'Être et le Néant, 2e partie (l'ego transcendant ; cf. La Transcendance de l'Ego)",
+            "en": "Being and Nothingness, Part 2 (the transcendent ego; cf. The Transcendence of the Ego)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "La conscience est un être pour lequel il est dans son être question de son être en tant que cet être implique un être autre que lui : elle n'est jamais ce qu'elle est et est ce qu'elle n'est pas.",
+            "en": "Consciousness is a being such that in its being its being is in question insofar as this being implies a being other than itself: it is never what it is and is what it is not."
+          },
+          "source": {
+            "fr": "L'Être et le Néant, Introduction",
+            "en": "Being and Nothingness, Introduction"
+          }
+        },
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SINCERITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La <c id='bad-faith'>mauvaise foi</c> pose une énigme : mentir suppose de connaître la vérité qu'on cache, alors qu'ici le trompeur et le trompé ne font qu'un. Sartre la résout par la non-coïncidence du <c>pour-soi</c> : n'étant pas une chose, je puis me fuir en jouant à en être une, <ex>tel le garçon de café qui se fait pleinement « garçon de café »</ex>. Manquer ainsi à l'<c id='authenticity'>authenticité</c>, c'est refuser sa propre liberté.",
+          "en": "<c id='bad-faith'>Bad faith</c> poses a puzzle: to lie one must know the truth one hides, yet here deceiver and deceived are one and the same. Sartre resolves it through the non-coincidence of the <c>for-itself</c>: not being a thing, I can flee myself by playing at being one, <ex>like the café waiter who makes himself wholly a « café waiter »</ex>. To fail <c id='authenticity'>authenticity</c> in this way is to refuse one's own freedom."
+        },
+        "references": [
+          {
+            "fr": "L'Être et le Néant, 1re partie, ch. 2 (la mauvaise foi, le garçon de café)",
+            "en": "Being and Nothingness, Part 1, ch. 2 (bad faith, the café waiter)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.2,
+          0.8
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Sans valeurs inscrites dans un ciel intelligible, l'homme les <kw>crée</kw> par ses choix ; mais Sartre refuse d'en conclure au pur arbitraire. Choisir, c'est tenir pour bon ce que l'on choisit, et donc le proposer comme image de l'homme : <q>en se choisissant, il choisit tous les hommes</q>. La création des valeurs engage ainsi une responsabilité quasi universelle, sans recourir, comme <ph id='kant'>Kant</ph>, à une loi de la raison.",
+          "en": "With no values inscribed in an intelligible heaven, man <kw>creates</kw> them through his choices; but Sartre refuses to conclude that this is mere arbitrariness. To choose is to hold what one chooses as good, and so to propose it as an image of man: <q>in choosing himself, he chooses all men</q>. The creation of values thus carries a near-universal responsibility, without resorting, as <ph id='kant'>Kant</ph> does, to a law of reason."
+        },
+        "references": [
+          {
+            "fr": "L'existentialisme est un humanisme (choisir, c'est choisir pour tous)",
+            "en": "Existentialism Is a Humanism (to choose is to choose for all)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Quand nous disons que l'homme se choisit, nous entendons que chacun d'entre nous se choisit, mais par là nous voulons dire aussi qu'en se choisissant il choisit tous les hommes.",
+            "en": "When we say that man chooses himself, we mean that each of us chooses himself, but by that we also mean that in choosing himself he chooses all men."
+          },
+          "source": {
+            "fr": "L'existentialisme est un humanisme",
+            "en": "Existentialism Is a Humanism"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.15,
+          0.15,
+          0.7,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Sartre refuse toute morale de règles a priori : <ex>au jeune homme déchiré entre rester près de sa mère et rejoindre la Résistance</ex>, aucune doctrine, ni l'amour chrétien ni le devoir kantien, ne dicte la réponse : aucune morale générale ne peut indiquer ce qu'il y a à faire. Reste le primat de l'agent qui se fait par ses actes, proche d'une éthique de la vertu refondée sur la liberté et l'authenticité, sans table de valeurs ni calcul d'utilité.",
+          "en": "Sartre rejects any morality of a priori rules: <ex>to the young man torn between staying with his mother and joining the Resistance</ex>, no doctrine, neither Christian love nor Kantian duty, dictates the answer: no general ethics can show what is to be done. What remains is the primacy of the agent who makes himself through his acts, close to a virtue ethics refounded on freedom and authenticity, without a table of values or a reckoning of utility."
+        },
+        "references": [
+          {
+            "fr": "L'existentialisme est un humanisme (l'exemple du jeune homme, l'invention morale)",
+            "en": "Existentialism Is a Humanism (the example of the young man, moral invention)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.3
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Dans son <w>Esquisse d'une théorie des émotions</w>, Sartre tient l'émotion pour une conduite signifiante, non pour un simple trouble subi : c'est une <kw>transformation magique du monde</kw> par laquelle la conscience, ne pouvant agir réellement sur une situation, la métamorphose pour la rendre supportable. L'émotion relève donc d'une intentionnalité et d'un sens, davantage que d'un pur mécanisme intellectualisable ; mais comme elle reste une conduite seconde, dégradée par rapport à l'action lucide, la pente sentimentaliste demeure mesurée.",
+          "en": "In his <w>Sketch for a Theory of the Emotions</w>, Sartre takes emotion to be a meaningful conduct, not a mere undergone disturbance: it is a <kw>magical transformation of the world</kw> by which consciousness, unable to act really on a situation, metamorphoses it to make it bearable. Emotion thus belongs to intentionality and meaning rather than to pure intellectualizable mechanism; but since it remains a second-order conduct, degraded relative to lucid action, the sentimentalist leaning stays moderate."
+        },
+        "references": [
+          {
+            "fr": "Esquisse d'une théorie des émotions (1939)",
+            "en": "Sketch for a Theory of the Emotions (1939)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La conscience est tout entière tournée vers le dehors : il n'y a pas de vie intérieure repliée sur soi, car la conscience est intentionnelle, toujours conscience de quelque chose, et l'ego lui-même est un objet transcendant, dans le monde. L'homme se révèle non par introspection mais par ses actes et son <c>engagement</c>. La pente va donc vers le primat de l'action, même si la lucidité réflexive reste requise.",
+          "en": "Consciousness is wholly turned outward: there is no inner life folded upon itself, for consciousness is intentional, always consciousness of something, and the ego itself is a transcendent object, in the world. Man reveals himself not through introspection but through his acts and his <c>engagement</c>. The leaning thus runs toward the primacy of action, even if reflective lucidity remains required."
+        },
+        "references": [
+          {
+            "fr": "La Transcendance de l'Ego (1936)",
+            "en": "The Transcendence of the Ego (1936)"
+          },
+          {
+            "fr": "L'existentialisme est un humanisme (l'homme est la somme de ses actes)",
+            "en": "Existentialism Is a Humanism (man is the sum of his acts)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "L'homme n'est rien d'autre que la série de ses actes, il n'est rien d'autre que sa vie.",
+            "en": "Man is nothing other than the series of his acts, he is nothing other than his life."
+          },
+          "source": {
+            "fr": "L'existentialisme est un humanisme",
+            "en": "Existentialism Is a Humanism"
+          }
+        },
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TIME_ORIENTATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.15,
+          0.8,
+          0.05
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le <c>pour-soi</c> est tendu vers l'avenir : il se définit par le <c>projet</c>, ce vers-quoi il se jette en avant, et n'est jamais figé dans son passé, qu'il a toujours à reprendre et à resignifier. Vivre, c'est se pro-jeter ; le présent lui-même n'a sens que rapporté à ce que l'on se fait être. L'orientation est donc résolument celle du projet, non de la mémoire ni du pur instant.",
+          "en": "The <c>for-itself</c> is stretched toward the future: it defines itself by the <c>project</c>, that toward which it throws itself forward, and is never fixed in its past, which it must always take up and re-signify. To live is to pro-ject oneself; the present itself has meaning only in relation to what one makes oneself be. The orientation is therefore resolutely that of the project, not of memory nor of the bare instant."
+        },
+        "references": [
+          {
+            "fr": "L'Être et le Néant, 2e partie, ch. 2 (la temporalité, l'ekstase du futur)",
+            "en": "Being and Nothingness, Part 2, ch. 2 (temporality, the ecstasis of the future)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "COSMIC_OUTLOOK",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'existence est contingente et sans justification : l'être-en-soi est de trop, gratuit, et la conscience surgit dans un monde qui ne lui promet rien. La condition humaine est marquée par <stk>l'angoisse, le délaissement et le désespoir</stk>, et par l'échec de tout désir d'absolu (l'homme est une passion inutile). Cette tonalité tragique de la finitude penche nettement vers la pensée tragique, sans aller cependant jusqu'à un pessimisme défaitiste, puisque la liberté reste un point d'appui.",
+          "en": "Existence is contingent and without justification: being-in-itself is de trop (superfluous), gratuitous, and consciousness arises in a world that promises it nothing. The human condition is marked by <stk>anguish, abandonment and despair</stk>, and by the failure of every craving for the absolute (man is a useless passion). This tragic tone of finitude leans clearly toward tragic thought, without however reaching a defeatist pessimism, since freedom remains a foothold."
+        },
+        "references": [
+          {
+            "fr": "L'Être et le Néant, conclusion (l'homme est une passion inutile)",
+            "en": "Being and Nothingness, conclusion (man is a useless passion)"
+          },
+          {
+            "fr": "La Nausée (la contingence, l'être de trop)",
+            "en": "Nausea (contingency, being superfluous)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "L'homme est une passion inutile.",
+            "en": "Man is a useless passion."
+          },
+          "source": {
+            "fr": "L'Être et le Néant, conclusion",
+            "en": "Being and Nothingness, conclusion"
+          }
+        },
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HUMAN_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 1
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Sartre nie l'existence d'une <kw>nature humaine</kw> : faute de Dieu pour la concevoir, il n'y a pas d'essence commune fixant d'avance ce que sont les hommes. Il distingue toutefois une <kw>condition humaine</kw>, l'ensemble des limites a priori de l'existence (être dans le monde, y travailler, y mourir parmi d'autres), qui n'est pas une nature donnée mais le cadre commun où chacun se fait. La position est donc fortement culturaliste, l'homme étant ce qu'il se fait, non ce qu'il est par nature.",
+          "en": "Sartre denies any <kw>human nature</kw>: lacking a God to conceive it, there is no common essence fixing in advance what humans are. He does distinguish a <kw>human condition</kw>, the set of a priori limits of existence (being in the world, laboring there, dying there among others), which is not a given nature but the common frame within which each person makes himself. The position is therefore strongly culturalist, man being what he makes himself, not what he is by nature."
+        },
+        "references": [
+          {
+            "fr": "L'existentialisme est un humanisme (il n'y a pas de nature humaine, mais une condition humaine)",
+            "en": "Existentialism Is a Humanism (there is no human nature, but a human condition)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.4,
+          0.1,
+          0.5
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'ontologie de <w>L'Être et le Néant</w> oppose deux régions d'être : l'<c>en-soi</c>, plein, opaque, ce qu'il est, et le <c>pour-soi</c>, la conscience, néant qui fait surgir le monde et les significations. Ce n'est pas un dualisme de substances à la <ph id='descartes'>Descartes</ph>, car le pour-soi n'est aucune chose pensante, mais une fissure dans l'être ; ce n'est pas non plus un matérialisme, la conscience n'étant pas réductible à l'en-soi. La position se tient entre une base d'être brut et l'irréductibilité du surgissement conscient, d'où des poids partagés.",
+          "en": "The ontology of <w>Being and Nothingness</w> sets two regions of being against each other: the <c>in-itself</c>, full, opaque, what it is, and the <c>for-itself</c>, consciousness, a nothingness that brings forth the world and its meanings. This is not a substance dualism in <ph id='descartes'>Descartes</ph>'s manner, since the for-itself is no thinking thing but a fissure in being; nor is it a materialism, consciousness not being reducible to the in-itself. The position stands between a basis of brute being and the irreducibility of conscious upsurge, hence the shared weights."
+        },
+        "references": [
+          {
+            "fr": "L'Être et le Néant, Introduction (l'en-soi et le pour-soi)",
+            "en": "Being and Nothingness, Introduction (the in-itself and the for-itself)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SELF_INTEREST",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Vouloir sa propre liberté, c'est du même mouvement vouloir celle d'autrui. Le Sartre engagé, de plus en plus proche du marxisme après 1945, fait de la solidarité et de la lutte contre l'oppression un prolongement de cette exigence. La position penche vers l'altruisme par responsabilité, sans renoncer à l'ancrage de chacun dans son propre projet libre.",
+          "en": "To will one's own freedom is, by the same movement, to will that of others. The engaged Sartre, drawing ever closer to Marxism after 1945, makes solidarity and the struggle against oppression an extension of this demand. The position leans toward an altruism of responsibility, without giving up each person's grounding in his own free project."
+        },
+        "references": [
+          {
+            "fr": "L'existentialisme est un humanisme (vouloir la liberté d'autrui)",
+            "en": "Existentialism Is a Humanism (willing the freedom of others)"
+          },
+          {
+            "fr": "Critique de la raison dialectique (1960), l'engagement et la praxis collective",
+            "en": "Critique of Dialectical Reason (1960), commitment and collective praxis"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Je ne puis prendre ma liberté pour but que si je prends également celle des autres pour but.",
+            "en": "I cannot take my freedom as an end unless I take that of others equally as an end."
+          },
+          "source": {
+            "fr": "L'existentialisme est un humanisme",
+            "en": "Existentialism Is a Humanism"
+          }
+        },
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "INDIVIDUAL_SOCIETY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.1
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le premier Sartre part de la liberté individuelle de la conscience, irréductible, ce qui ancre fortement sa pensée du côté de l'individu. Mais le second Sartre, celui de la <w>Critique de la raison dialectique</w>, articule cette liberté à la matière et à l'histoire : l'individu se fait dans des ensembles collectifs (le <c>groupe en fusion</c>, le <c>pratico-inerte</c>) qui le conditionnent en retour. La position oscille ainsi autour d'un quasi-équilibre, légèrement déplacé vers le collectif par cette évolution.",
+          "en": "The early Sartre starts from the individual freedom of consciousness, irreducible, which anchors his thought firmly on the side of the individual. But the later Sartre, of the <w>Critique of Dialectical Reason</w>, articulates this freedom with matter and history: the individual makes himself within collective wholes (the <c>group-in-fusion</c>, the <c>practico-inert</c>) that condition him in return. The position thus hovers near a balance, shifted slightly toward the collective by this evolution."
+        },
+        "references": [
+          {
+            "fr": "Critique de la raison dialectique (1960), le groupe en fusion et le pratico-inerte",
+            "en": "Critique of Dialectical Reason (1960), the group-in-fusion and the practico-inert"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HISTORY_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le second Sartre tente une synthèse de l'existentialisme et du <mv id='marxism'>marxisme</mv> : l'histoire n'est pas une pure contingence, mais le procès dialectique par lequel les hommes font leur histoire à partir de conditions matérielles qu'ils n'ont pas choisies. Il maintient cependant l'irréductibilité de la <c>praxis</c> libre contre tout déterminisme historique rigide, d'où une orientation directionnelle modérée, sans téléologie garantie.",
+          "en": "The later Sartre attempts a synthesis of existentialism and <mv id='marxism'>Marxism</mv>: history is not pure contingency but the dialectical process by which men make their history out of material conditions they did not choose. He nonetheless maintains the irreducibility of free <c>praxis</c> against any rigid historical determinism, hence a moderate directional orientation, with no guaranteed teleology."
+        },
+        "references": [
+          {
+            "fr": "Questions de méthode (1957) et Critique de la raison dialectique (1960)",
+            "en": "Search for a Method (1957) and Critique of Dialectical Reason (1960)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "WORK_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.25,
+          0.6,
+          0.15
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Sous l'influence du <mv id='marxism'>marxisme</mv>, Sartre analyse le travail dans la rareté comme le lieu où la <c>praxis</c> humaine se fige en <c>pratico-inerte</c>, se retourne contre ceux qui l'ont produite et engendre l'<kw>aliénation</kw>. Le travail demeure néanmoins le mode par lequel l'homme transforme le monde et s'y objective, ce qui lui laisse une part d'accomplissement possible, par-delà sa figure aliénée dominante.",
+          "en": "Under the influence of <mv id='marxism'>Marxism</mv>, Sartre analyzes labor in scarcity as the site where human <c>praxis</c> congeals into the <c>practico-inert</c>, turns back against those who produced it and breeds <kw>alienation</kw>. Yet labor remains the mode through which man transforms the world and objectifies himself in it, which leaves it a measure of possible fulfillment, beyond its dominant alienated figure."
+        },
+        "references": [
+          {
+            "fr": "Critique de la raison dialectique (1960), la rareté, le pratico-inerte, l'aliénation",
+            "en": "Critique of Dialectical Reason (1960), scarcity, the practico-inert, alienation"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HOPE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'existentialisme assume le désespoir au sens technique : on ne compte que sur ce qui dépend de notre volonté, sans se reposer sur l'espérance d'un secours extérieur, d'une Providence ou d'un sens garanti de l'histoire. Agir sans espoir, ce n'est pas résignation mais lucidité : l'action vaut par elle-même, non par l'attente d'un résultat assuré. La pente va donc vers une lucidité sans espérance, plus que vers le principe espérance.",
+          "en": "Existentialism assumes despair in a technical sense: one reckons only on what depends on one's own will, without leaning on the hope of outside rescue, of Providence or of a guaranteed meaning to history. To act without hope is not resignation but lucidity: action is worth something in itself, not through the expectation of an assured outcome. The leaning thus runs toward a lucidity without hope, rather than toward a principle of hope."
+        },
+        "references": [
+          {
+            "fr": "L'existentialisme est un humanisme (l'angoisse, le délaissement, le désespoir)",
+            "en": "Existentialism Is a Humanism (anguish, abandonment, despair)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Quoi qu'il en soit des choses que je veux, il y aura toujours cette possibilité que les choses se produisent autrement que je ne veux : il faut agir sans espoir.",
+            "en": "Whatever the things I want, there will always be this possibility that things come about otherwise than I want: one must act without hope."
+          },
+          "source": {
+            "fr": "L'existentialisme est un humanisme",
+            "en": "Existentialism Is a Humanism"
+          }
+        },
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "AUTHORITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Sartre, intellectuel engagé et contestataire, refuse les autorités constituées qui figent l'homme dans un rôle ou nient sa liberté : il décline le prix Nobel en 1964 pour ne pas se laisser institutionnaliser, soutient les luttes anticoloniales et la révolte de 1968. Sans théoriser un anarchisme systématique, sa méfiance constante envers l'État, les institutions et toute autorité aliénante penche nettement vers ce pôle.",
+          "en": "Sartre, an engaged and dissenting intellectual, refuses the constituted authorities that fix man in a role or deny his freedom: he declines the Nobel Prize in 1964 so as not to be institutionalized, supports anti-colonial struggles and the revolt of 1968. Without theorizing a systematic anarchism, his constant distrust of the state, of institutions and of all alienating authority leans clearly toward that pole."
+        },
+        "references": [
+          {
+            "fr": "Refus du prix Nobel de littérature (1964) ; engagements politiques (anticolonialisme, mai 1968)",
+            "en": "Refusal of the Nobel Prize in Literature (1964); political commitments (anti-colonialism, May 1968)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MACHINE_MIND",
+      "status": "NOT_APPLICABLE",
+      "note": {
+        "fr": "La question de l'esprit des machines (intelligence artificielle) n'est pas thématisée par Sartre, dont l'analyse de la conscience comme pour-soi intentionnel précède le débat contemporain sur le fonctionnalisme.",
+        "en": "The question of machine minds (artificial intelligence) is not addressed by Sartre, whose analysis of consciousness as intentional for-itself predates the contemporary debate on functionalism."
+      }
+    },
+    {
+      "axisId": "EMBODIMENT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Je ne possède pas un corps comme un objet : j'existe mon corps. Dans <w>L'Être et le Néant</w>, le corps est le point de vue que je suis sur le monde, et le corps-pour-autrui me fait éprouver mon objectité sous le regard. Le corps est vécu, non instrument.",
+          "en": "I do not have a body like an object: I exist my body. In <w>Being and Nothingness</w>, the body is the point of view I am upon the world, and the body-for-others makes me feel my objectness under the gaze. The body is lived, not an instrument."
+        },
+        "references": [
+          {
+            "fr": "L'Être et le Néant, IIIe partie, « Le corps »",
+            "en": "Being and Nothingness, Part III, \"The Body\""
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SOCIAL_IDENTITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.85,
+          0.15
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'existence précède l'essence : aucune nature ne fixe d'avance ce que l'on est. Le Juif, montre Sartre, est en partie fait par la situation et le regard de l'antisémite. Les identités sociales sont construites, non données.",
+          "en": "Existence precedes essence: no nature fixes in advance what one is. The Jew, Sartre shows, is in part made by the situation and the antisemite's gaze. Social identities are constructed, not given."
+        },
+        "references": [
+          {
+            "fr": "Réflexions sur la question juive ; L'existentialisme est un humanisme",
+            "en": "Anti-Semite and Jew; Existentialism Is a Humanism"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "ESSENCE",
+      "thesis": {
+        "fr": "Chez l'homme, l'existence précède l'essence : il surgit d'abord sans nature donnée, puis se définit par ses actes.",
+        "en": "In man, existence precedes essence: he first arises with no given nature, then defines himself through his acts."
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "thesis": {
+        "fr": "L'homme est <q>condamné à être libre</q> : ni le passé ni la situation ne le déterminent, et aucune circonstance ne l'excuse.",
+        "en": "Man is <q>condemned to be free</q>: neither past nor situation determines him, and no circumstance excuses him."
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "thesis": {
+        "fr": "La conscience n'est aucune chose : elle est un <c>néant</c> séparé de soi, qui n'est jamais ce qu'il est et est ce qu'il n'est pas.",
+        "en": "Consciousness is no thing: it is a <c>nothingness</c> separated from itself, which is never what it is and is what it is not."
+      }
+    },
+    {
+      "axisId": "SINCERITY",
+      "thesis": {
+        "fr": "On peut se mentir à soi-même : la <c id='bad-faith'>mauvaise foi</c> consiste à se traiter en chose pour fuir sa liberté, contre l'exigence d'<c id='authenticity'>authenticité</c>.",
+        "en": "One can lie to oneself: <c id='bad-faith'>bad faith</c> is treating oneself as a thing to flee one's freedom, against the demand for <c id='authenticity'>authenticity</c>."
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "thesis": {
+        "fr": "En me choisissant, je choisis l'homme : créer ses valeurs sans modèle engage la responsabilité de l'humanité entière.",
+        "en": "In choosing myself, I choose man: creating one's values with no model commits the whole of humanity."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-23T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "newton-to-enlightenment",
+  "from": { "kind": "PHILOSOPHER", "slug": "newton" },
+  "to": { "kind": "MOVEMENT", "slug": "enlightenment" },
+  "directness": "ATTESTED",
+  "mode": "TRANSMITS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "La mécanique de <ph id='newton'>Newton</ph>, qui déduit le système du monde de quelques lois mathématiques, devient le paradigme du savoir pour les Lumières : <ph id='voltaire'>Voltaire</ph> la popularise en France, et le programme d'étendre la « méthode newtonienne » à la morale et à la société traverse tout le siècle.",
+    "en": "<ph id='newton'>Newton</ph>'s mechanics, deducing the system of the world from a few mathematical laws, becomes the Enlightenment's paradigm of knowledge: <ph id='voltaire'>Voltaire</ph> popularizes it in France, and the programme of extending the « Newtonian method » to morals and society runs through the whole century."
+  },
+  "sources": [
+    { "fr": "Voltaire, Éléments de la philosophie de Newton (1738)", "en": "Voltaire, Elements of Newton's Philosophy (1738)" },
+    { "fr": "d'Alembert, Discours préliminaire de l'Encyclopédie", "en": "d'Alembert, Preliminary Discourse to the Encyclopédie" }
+  ],
+  "updatedAt": "2026-06-25T00:00:00.000Z"
+}

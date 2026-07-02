@@ -1,0 +1,12 @@
+{
+  "id": "empiricism-grounds-nominalism",
+  "ground": { "axisId": "KNOWLEDGE_SOURCE", "poleId": "EMPIRICISM" },
+  "grounded": { "axisId": "UNIVERSALS", "poleId": "NOMINALISM" },
+  "kind": "T_T",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si rien n'entre dans l'esprit qui ne soit d'abord passé par les sens, et que les sens ne nous livrent que des individus, alors les propriétés générales ne sont pas des réalités mais des noms. L'empirisme incline au nominalisme : pour <ph id='hume'>Hume</ph>, l'idée générale n'est qu'un terme attaché à des impressions particulières qui se ressemblent.",
+    "en": "If nothing enters the mind that has not first passed through the senses, and the senses deliver only individuals, then general properties are not realities but names. Empiricism inclines toward nominalism: for <ph id='hume'>Hume</ph>, the general idea is merely a term attached to particular impressions that resemble one another."
+  },
+  "updatedAt": "2026-06-22T00:00:00.000Z"
+}

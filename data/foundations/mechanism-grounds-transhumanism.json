@@ -1,0 +1,12 @@
+{
+  "id": "mechanism-grounds-transhumanism",
+  "ground": { "axisId": "CAUSALITY", "poleId": "MECHANISM" },
+  "grounded": { "axisId": "HUMAN_ENHANCEMENT", "poleId": "TRANSHUMANISM" },
+  "kind": "T_V",
+  "strength": "WEAK",
+  "explanation": {
+    "fr": "Si le corps vivant est une machine régie par des lois physiques, il peut en principe être réparé, augmenté et reconfiguré comme tout mécanisme. La conception mécaniste du vivant, dont <ph id='la-mettrie'>La Mettrie</ph> fit jadis « l'homme-machine », nourrit le transhumanisme de <ph id='bostrom'>Bostrom</ph>, pour qui la nature humaine n'est pas un donné sacré mais un état perfectible. Le lien reste une inférence contestable : le mécanisme classique ne visait pas l'amélioration, mais il en lève l'interdit de principe.",
+    "en": "If the living body is a machine governed by physical laws, it can in principle be repaired, augmented and reconfigured like any mechanism. The mechanistic view of the living, which <ph id='la-mettrie'>La Mettrie</ph> once turned into \"man a machine\", feeds the transhumanism of <ph id='bostrom'>Bostrom</ph>, for which human nature is not a sacred given but a perfectible state. The link remains a contestable inference: classical mechanism did not aim at enhancement, but it removes the objection to it in principle."
+  },
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

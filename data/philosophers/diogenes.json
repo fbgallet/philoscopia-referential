@@ -1,0 +1,652 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "diogenes",
+  "name": {
+    "fr": "Diogène de Sinope",
+    "en": "Diogenes of Sinope"
+  },
+  "fullName": {
+    "fr": "Diogène de Sinope, dit le Cynique",
+    "en": "Diogenes of Sinope, the Cynic"
+  },
+  "tagline": {
+    "fr": "« Citoyen du monde », libre par l'<c id='autarkeia'>autosuffisance</c> : tout ce qu'on possède finit par nous posséder.",
+    "en": "\"A citizen of the world\", free through <c id='autarkeia'>self-sufficiency</c>: whatever you own ends up owning you."
+  },
+  "summary": {
+    "fr": "Figure la plus célèbre du <mv id='cynicism'>cynisme</mv>, Diogène naquit à Sinope, sur le Pont, d'où il fut banni, dit-on, pour une affaire de fausse monnaie, avant de mener à Athènes puis à Corinthe une vie de mendiant philosophe. Il se rattache à Socrate par <ph>Antisthène</ph>, dont il radicalisa l'enseignement jusqu'à la provocation : il vécut dans une jarre, ne possédant qu'un manteau, une besace et un bâton, et fit du scandale public sa méthode. <ph>Platon</ph> l'aurait appelé « un Socrate devenu fou ». Il n'a laissé aucun écrit assuré, et toute notre connaissance de lui passe par les anecdotes (chries) que rapporte trois siècles plus tard <per>Diogène Laërce</per> dans le livre VI de ses <w>Vies des philosophes illustres</w>, ce qui rend la frontière incertaine entre l'homme et la légende. Par son disciple <ph>Cratès</ph>, qui forma <ph>Zénon de Citium</ph>, son éthique de la vertu et son cosmopolitisme passèrent au <mv id='stoicism'>stoïcisme</mv>.",
+    "en": "The most famous figure of <mv id='cynicism'>Cynicism</mv>, Diogenes was born in Sinope, on the Black Sea, from which he was banished, it is said, over a matter of debased coinage, before leading in Athens and then Corinth the life of a philosopher-beggar. He traces back to Socrates through <ph>Antisthenes</ph>, whose teaching he radicalised into provocation: he lived in a jar, owning only a cloak, a satchel and a staff, and made public scandal his method. <ph>Plato</ph> is said to have called him \"a Socrates gone mad\". He left no certain writings, and all our knowledge of him passes through the anecdotes (chreiai) reported three centuries later by <per>Diogenes Laertius</per> in Book VI of his <w>Lives of Eminent Philosophers</w>, which leaves the line between the man and the legend uncertain. Through his pupil <ph>Crates</ph>, who taught <ph>Zeno of Citium</ph>, his ethics of virtue and his cosmopolitanism passed into <mv id='stoicism'>Stoicism</mv>."
+  },
+  "birth": -412,
+  "death": -323,
+  "nationality": {
+    "fr": "Grec",
+    "en": "Greek"
+  },
+  "movements": [
+    "cynicism"
+  ],
+  "entries": [
+    {
+      "axisId": "HUMAN_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Tout le geste de Diogène repose sur une coupure entre la <c id='physis-nomos'>physis</c> (la nature), qui fixe à l'homme des besoins simples et un même lot à tous, et le <c id='physis-nomos'>nomos</c> (la convention) des cités, qui surajoute richesses, rangs et pudeurs sans fondement dans les choses. <dif>L'homme se rend misérable précisément là où il prend la convention pour la nature</dif>, peinant pour des biens factices et rougissant d'actes que nul animal ne juge honteux. Vivre selon la nature, c'est donc défaire ce vernis : non un retour idéalisé à une bonté première, mais un dépouillement qui ramène la conduite au seul besoin réel. La nature n'est pas ici une norme finaliste, mais un critère négatif, ce qui reste quand on a ôté l'artifice.",
+          "en": "Diogenes' whole gesture rests on a cut between <c id='physis-nomos'>physis</c> (nature), which sets man simple needs and one common lot, and the <c id='physis-nomos'>nomos</c> (convention) of cities, which heaps on wealth, rank and modesties with no grounding in things. <dif>Man makes himself wretched precisely where he takes convention for nature</dif>, toiling for factitious goods and blushing at acts no animal deems shameful. To live according to nature is thus to undo this varnish: not an idealised return to a primal goodness, but a stripping away that brings conduct back to real need alone. Nature here is not a teleological norm but a negative criterion, what remains once artifice is removed."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies, VI, 70-71",
+            "en": "Diogenes Laertius, Lives, VI, 70-71"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CONTROL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.95
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "On n'est libre qu'à proportion de ce dont on peut se passer : tout besoin est une prise que le monde, la fortune ou les puissants ont sur nous. De là l'<c id='autarkeia'>autarkeia</c> (autosuffisance) comme but, vivre de telle sorte que rien d'extérieur ne soit nécessaire et que nul ne détienne donc rien dont nous dépendions. <stk>Quand Alexandre, maître du monde connu, lui offrit d'exaucer n'importe quel souhait</stk>, Diogène ne demanda qu'à ce qu'il s'écartât de son soleil : l'homme le plus dénué, s'il ne désire rien, est plus invulnérable que le plus puissant des rois, lequel reste à la merci de ce qu'il possède. Les stoïciens reprendront plus tard cette opération sous la forme de la <ax id='CONTROL_SCOPE' pole='DICHOTOMY_OF_CONTROL'>dichotomie</ax> du contrôle, mais Diogène la mène par les actes et le dénuement plutôt que par le jugement intérieur, sans en faire une thèse réglée.",
+          "en": "One is free only in proportion to what one can do without: every need is a hold that the world, fortune or the powerful have on us. Hence <c id='autarkeia'>autarkeia</c> (self-sufficiency) as the goal, living so that nothing external is necessary and no one therefore holds anything we depend on. <stk>When Alexander, master of the known world, offered to grant him any wish</stk>, Diogenes asked only that he stand out of his sunlight: the most destitute of men, if he desires nothing, is more invulnerable than the mightiest of kings, who remains at the mercy of what he owns. The Stoics would later take up this operation as the <ax id='CONTROL_SCOPE' pole='DICHOTOMY_OF_CONTROL'>dichotomy</ax> of control, but Diogenes carries it out through deeds and destitution rather than inner judgment, without turning it into a settled thesis."
+        },
+        "quote": {
+          "text": {
+            "fr": "« Demande-moi ce que tu voudras. » « Ôte-toi de mon soleil. »",
+            "en": "\"Ask of me any boon you like.\" \"Stand out of my sunlight.\""
+          },
+          "source": {
+            "fr": "Diogène Laërce, Vies, VI, 38",
+            "en": "Diogenes Laertius, Lives, VI, 38"
+          }
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies, VI, 38",
+            "en": "Diogenes Laertius, Lives, VI, 38"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SINCERITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.95
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si la honte sociale n'est que <c id='physis-nomos'>nomos</c>, la taire revient à se faire complice du mensonge collectif sur lequel reposent les conventions. De là deux exigences solidaires. La <c id='parrhesia'>parrhēsia</c> (franc-parler) commande de dire le vrai sans détour ni flatterie, fût-ce au visage des puissants : interrogé sur ce que les hommes ont de plus beau, Diogène répondit, le franc-parler. L'<c id='anaideia'>anaideia</c> (impudeur assumée) en est la preuve par l'acte : accomplir en public, sans rougir, ce que la pudeur convenue interdit, c'est démontrer expérimentalement que cette pudeur n'avait aucun fondement naturel. La franchise cynique n'est donc pas grossièreté gratuite, mais une méthode de réfutation qui prend le corps et le scandale pour arguments.",
+          "en": "If social shame is only <c id='physis-nomos'>nomos</c>, to keep it quiet is to become complicit in the collective lie on which conventions rest. Hence two bound demands. <c id='parrhesia'>Parrhēsia</c> (frank speech) requires telling the truth without circumlocution or flattery, even to the faces of the powerful: asked what is the finest thing among men, Diogenes answered, frank speech. <c id='anaideia'>Anaideia</c> (deliberate shamelessness) is its proof by deed: to perform in public, without blushing, what accepted modesty forbids is to demonstrate experimentally that this modesty had no natural ground. Cynic frankness is thus no gratuitous coarseness but a method of refutation that takes the body and the scandal as its arguments."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies, VI, 69",
+            "en": "Diogenes Laertius, Lives, VI, 69"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "BELONGING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.95
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si les frontières des cités ne sont que <c id='physis-nomos'>nomos</c>, convention sans fondement dans la nature, aucune ne saurait commander l'appartenance d'un être raisonnable : <pb>une cité n'a pas plus de droit naturel sur moi que le hasard de ma naissance</pb>. De là le mot <c id='cosmopolitanism'>kosmopolitēs</c> que Diogène est le premier à se donner, citoyen du monde : non l'amour d'une patrie élargie, mais le refus d'en reconnaître aucune, l'humanité entière prise comme seul horizon. La provocation vise l'orgueil civique grec, qui faisait de l'exilé un déchu : le banni de Sinope retourne sa condition en revendication. Les stoïciens hériteront du mot, mais l'adosseront à une cité cosmique réglée par le <c id='logos'>logos</c> ; chez Diogène il reste d'abord un geste de refus, sans cosmologie.",
+          "en": "If the borders of cities are only <c id='physis-nomos'>nomos</c>, convention without grounding in nature, none can command the allegiance of a rational being: <pb>a city has no more natural claim on me than the accident of my birth</pb>. Hence the word <c id='cosmopolitanism'>kosmopolitēs</c> that Diogenes is the first to take for himself, a citizen of the world: not love of an enlarged homeland, but the refusal to acknowledge any, all of humanity taken as the only horizon. The provocation strikes at Greek civic pride, which counted the exile as fallen: the banished man of Sinope turns his condition into a claim. The Stoics would inherit the word, but back it with a cosmic city ordered by the <c id='logos'>logos</c>; in Diogenes it stays first of all a gesture of refusal, with no cosmology."
+        },
+        "quote": {
+          "text": {
+            "fr": "On lui demandait d'où il était : « Citoyen du monde », répondit-il.",
+            "en": "When asked where he came from, he said: \"I am a citizen of the world.\""
+          },
+          "source": {
+            "fr": "Diogène Laërce, Vies, VI, 63",
+            "en": "Diogenes Laertius, Lives, VI, 63"
+          }
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies, VI, 63",
+            "en": "Diogenes Laertius, Lives, VI, 63"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.2,
+          0.8
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Tout ce qui peut être mal employé, ou perdu par un coup du sort, ne saurait être un vrai bien : ni la santé, ni la richesse, ni le plaisir ne passent l'épreuve. Seule la <c>vertu</c> mérite ce nom, parce qu'elle seule profite toujours et ne peut être ôtée ; une fois acquise elle suffit au bonheur. Mais Diogène durcit l'héritage socratique sur un point décisif : <dif>la vertu n'est pas un savoir mais une force, qui s'acquiert par l'<c id='askesis'>entraînement</c> et se prouve par les actes</dif>, non par la définition, contre l'intellectualisme qui ferait du bien une science enseignable en paroles. Une mince part eudémoniste demeure, car cette vie selon la nature est aussi présentée comme la plus heureuse.",
+          "en": "Whatever can be misused, or lost to a stroke of fortune, cannot be a true good: neither health, nor wealth, nor pleasure passes the test. Only <c>virtue</c> deserves the name, because it alone always benefits and cannot be taken away; once acquired it suffices for happiness. But Diogenes hardens the Socratic legacy on one decisive point: <dif>virtue is not knowledge but a strength, won through <c id='askesis'>training</c> and proven by deeds</dif>, not by definition, against the intellectualism that would make the good a science teachable in words. A thin eudaimonist strand remains, since this life according to nature is also presented as the happiest."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies, VI, 11 et 104-105",
+            "en": "Diogenes Laertius, Lives, VI, 11 and 104-105"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "BODILY_PLEASURES",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'ascèse de Diogène est radicale : par l'<c id='askesis'>askēsis</c> (entraînement), il se contente d'eau, de pain et d'un manteau grossier, s'exerçant au froid et à la faim pour s'endurcir. <stk>Voyant un enfant boire dans ses mains</stk>, il jeta son écuelle, jugeant qu'un enfant l'avait surpassé en simplicité. La position n'est pourtant pas un pur ascétisme méprisant le corps, et c'est là sa nuance propre : ce qui est conforme à la nature ne fait jamais honte, et Diogène assume en public les fonctions corporelles les plus crues. Le luxe et le raffinement, eux, sont rejetés comme servitudes, non parce que le plaisir serait mauvais, mais parce que le besoin factice asservit. D'où un ascétisme du superflu plus qu'une condamnation du corps.",
+          "en": "Diogenes' asceticism is radical: through <c id='askesis'>askēsis</c> (training), he makes do with water, bread and a coarse cloak, hardening himself to cold and hunger. <stk>Seeing a child drink from its cupped hands</stk>, he threw away his bowl, judging that a child had outdone him in simplicity. Yet the stance is not a pure asceticism that despises the body, and this is its own nuance: whatever accords with nature is never shameful, and Diogenes performs the crudest bodily functions in public. Luxury and refinement, on the other hand, are rejected as forms of bondage, not because pleasure would be bad, but because factitious need enslaves. Hence an asceticism of the superfluous rather than a condemnation of the body."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies, VI, 37 et 22-23",
+            "en": "Diogenes Laertius, Lives, VI, 37 and 22-23"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.15,
+          0.85
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Moins on désire, plus on est libre : le désir des choses extérieures est la chaîne même par laquelle le monde nous tient. L'<c id='askesis'>askēsis</c> consiste à s'entraîner à n'avoir besoin de rien, de sorte que rien ne puisse manquer ni asservir. Diogène ne vise pas le tri raisonné des plaisirs à la manière d'Épicure, mais une réduction du désir au strict naturel, détaché de tout le reste. La pente est celle de l'extinction des désirs factices, non leur affirmation.",
+          "en": "The less one desires, the freer one is: the desire for external things is the very chain by which the world holds us. <c id='askesis'>Askēsis</c> consists in training oneself to need nothing, so that nothing can be lacking or enslaving. Diogenes does not aim at a reasoned sorting of pleasures in the manner of Epicurus, but at a reduction of desire to the strictly natural, detached from all the rest. The tendency is toward the extinction of factitious desires, not their affirmation."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies, VI, 105",
+            "en": "Diogenes Laertius, Lives, VI, 105"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Puisque la philosophie a pour seul objet de bien vivre, et que bien vivre est affaire de conduite, la physique, la logique et la dispute savante sont du temps perdu : on ne devient pas tempérant en définissant la tempérance. De là le primat de la <c id='praxis'>praxis</c> sur la théorie, qui n'est pas inculture mais cohérence. <dif>Une thèse se réfute par un acte autant que par un argument</dif> : entendant nier le mouvement, Diogène, pour toute réplique, se leva et marcha. Le geste vaut démonstration, et la vie du sage, exposée au public, tient lieu de traité.",
+          "en": "Since philosophy's sole object is to live well, and living well is a matter of conduct, physics, logic and learned disputation are wasted time: one does not become temperate by defining temperance. Hence the primacy of <c id='praxis'>praxis</c> over theory, which is not lack of culture but consistency. <dif>A thesis is refuted by an act as much as by an argument</dif>: hearing motion denied, Diogenes, for all reply, stood up and walked. The gesture serves as demonstration, and the sage's life, exposed in public, stands in for a treatise."
+        },
+        "quote": {
+          "text": {
+            "fr": "Comme on argumentait qu'il n'y a pas de mouvement, il se leva et se mit à marcher.",
+            "en": "When someone argued that there is no such thing as motion, he got up and walked about."
+          },
+          "source": {
+            "fr": "Diogène Laërce, Vies, VI, 39",
+            "en": "Diogenes Laertius, Lives, VI, 39"
+          }
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies, VI, 39 et 70-71",
+            "en": "Diogenes Laertius, Lives, VI, 39 and 70-71"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "AESTHETIC_LIFE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.8
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Tout ce qui ne sert pas à la vertu, beaux-arts, raffinements, élégance, est tenu pour vanité sociale : la seule oeuvre à façonner est sa propre conduite. Diogène ne vit pas pour la beauté mais pour la rectitude, et raille la culture distinguée comme un masque du <c id='physis-nomos'>nomos</c>. La forme de vie prime de loin sur la forme esthétique, ce qui le range nettement du côté du primat de l'éthique, même si son existence provocante a, par contrecoup, quelque chose d'une performance.",
+          "en": "Whatever does not serve virtue, fine arts, refinements, elegance, is held to be social vanity: the only work to be shaped is one's own conduct. Diogenes lives not for beauty but for rectitude, and mocks distinguished culture as a mask of <c id='physis-nomos'>nomos</c>. The form of life takes clear precedence over aesthetic form, which places him firmly on the side of the primacy of the ethical, even if his provocative existence has, by ricochet, something of a performance about it."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies, VI, 24 et 27-28",
+            "en": "Diogenes Laertius, Lives, VI, 24 and 27-28"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SELF_INTEREST",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La fin que Diogène poursuit est d'abord sa propre <c id='autarkeia'>autosuffisance</c> : il ne prêche pas le dévouement à autrui mais l'affranchissement de soi à l'égard des besoins et de l'opinion. Pourtant son franc-parler se veut un service rendu aux autres, qu'il prétend soigner comme un médecin l'âme malade de la cité, et son cosmopolitisme refuse de hiérarchiser les humains. L'égoïsme y est donc moins éthique que méthodique : se rendre indépendant pour pouvoir dire à tous une vérité utile, sans rien attendre d'eux.",
+          "en": "The end Diogenes pursues is first his own <c id='autarkeia'>self-sufficiency</c>: he preaches not devotion to others but self-liberation from need and opinion. Yet his frank speech means to be a service to others, whom he claims to treat as a physician treats the sick soul of the city, and his cosmopolitanism refuses to rank human beings. The self-concern here is thus less ethical than methodical: making oneself independent so as to be able to tell everyone a useful truth, while expecting nothing from them."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies, VI, 30 et 63",
+            "en": "Diogenes Laertius, Lives, VI, 30 and 63"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "AUTHORITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.8
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si les institutions, les magistratures et les honneurs civiques ne sont que <c id='physis-nomos'>nomos</c>, alors aucune autorité établie ne tient un titre naturel à commander : Diogène méprise les puissants, raille les assemblées et ne reconnaît d'ordre qu'à la nature. La défiance va sans projet politique de remplacement : on peut, par analogie, y lire un <c>anarchisme</c> de l'individu autosuffisant plutôt qu'une doctrine de la cité, et la position reste inférée d'anecdotes plus qu'affirmée en thèse. <stk>Sa lanterne en plein jour, cherchant un homme</stk>, vise d'abord les figures du pouvoir et de la réputation.",
+          "en": "If institutions, magistracies and civic honours are only <c id='physis-nomos'>nomos</c>, then no established authority holds a natural title to command: Diogenes despises the powerful, mocks the assemblies, and recognises order in nature alone. The distrust comes with no political project to replace what it rejects: by analogy one may read in it an <c>anarchism</c> of the self-sufficient individual rather than a doctrine of the city, and the position stays inferred from anecdotes more than asserted as a thesis. <stk>His lamp in broad daylight, searching for a man</stk>, is aimed first at the figures of power and reputation."
+        },
+        "quote": {
+          "text": {
+            "fr": "Ayant allumé une lanterne en plein jour, il disait : « Je cherche un homme. »",
+            "en": "He lit a lamp in broad daylight and said: \"I am looking for a man.\""
+          },
+          "source": {
+            "fr": "Diogène Laërce, Vies, VI, 41",
+            "en": "Diogenes Laertius, Lives, VI, 41"
+          }
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies, VI, 41",
+            "en": "Diogenes Laertius, Lives, VI, 41"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.8,
+          0.1,
+          0.1
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "En opposant la nature au <c id='physis-nomos'>nomos</c>, Diogène suppose un critère du bien indépendant des conventions et valable pour tous : ce qui est conforme à la nature est bon partout, ce qui n'est que coutume locale n'oblige pas. Il juge donc les moeurs au nom d'une norme naturelle universelle, et c'est ce qui autorise le cosmopolitisme. Mais l'arme est à double tranchant : la même critique du <c id='physis-nomos'>nomos</c> nourrit un <dif>relativisme de fait</dif>, puisque Diogène souligne avec délectation combien les pudeurs et les interdits varient d'un peuple à l'autre, preuve qu'aucun ne tient de la nature. La part relativiste reste secondaire, mise au service d'un naturalisme normatif.",
+          "en": "By opposing nature to <c id='physis-nomos'>nomos</c>, Diogenes presupposes a criterion of the good independent of conventions and valid for all: what accords with nature is good everywhere, what is merely local custom does not bind. He therefore judges customs in the name of a universal natural norm, and this is what licenses the cosmopolitanism. But the weapon is double-edged: the same critique of <c id='physis-nomos'>nomos</c> feeds a <dif>de facto relativism</dif>, since Diogenes delights in stressing how modesties and prohibitions vary from one people to another, proof that none derives from nature. The relativist strand stays secondary, put to the service of a normative naturalism."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies, VI, 70-73",
+            "en": "Diogenes Laertius, Lives, VI, 70-73"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.05,
+          0,
+          0.95,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La valeur morale tient tout entière dans l'état du caractère, libre et autosuffisant : c'est une éthique de la <c>vertu</c> au sens strict, où nulle règle extérieure ni nul calcul des conséquences ne fonde le bien. La vertu ne s'enseigne pas en paroles mais s'acquiert par l'exercice (<c id='askesis'>askēsis</c>), comme un art. Diogène va plus loin que l'éthique de la vertu ordinaire : il en fait une discipline corporelle, un entraînement à la dureté et au manque, plus proche de la gymnastique de l'athlète que de la délibération du sage.",
+          "en": "Moral worth lies entirely in the state of the character, free and self-sufficient: this is a <c>virtue</c> ethics in the strict sense, where neither an external rule nor a calculation of consequences grounds the good. Virtue is not taught in words but acquired through exercise (<c id='askesis'>askēsis</c>), like an art. Diogenes goes further than ordinary virtue ethics: he makes it a bodily discipline, a training in hardness and want, closer to an athlete's gymnastics than to a sage's deliberation."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies, VI, 70-71",
+            "en": "Diogenes Laertius, Lives, VI, 70-71"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Diogène fait de la liberté (<c>eleutheria</c>) le bien suprême, mais la déplace tout entière du côté pratique : être libre, ce n'est pas trancher une question métaphysique sur le vouloir, c'est se rendre indépendant des désirs, de l'opinion et des coups de la fortune par le dépouillement. La question du libre arbitre ne l'occupe pas ; sa liberté est une conquête existentielle, l'autosuffisance du sage qui n'a besoin de rien. Le positionnement reste donc prudent et inféré, le corpus ne livrant aucune thèse explicite sur le déterminisme.",
+          "en": "Diogenes makes freedom (<c>eleutheria</c>) the supreme good, but shifts it entirely to the practical side: to be free is not to settle a metaphysical question about the will, it is to make oneself independent of desires, opinion and the blows of fortune through stripping away. The question of free will does not occupy him; his freedom is an existential conquest, the self-sufficiency of the sage who needs nothing. The positioning therefore stays cautious and inferred, the corpus offering no explicit thesis on determinism."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies, VI, 71",
+            "en": "Diogenes Laertius, Lives, VI, 71"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Diogène suppose une condition humaine naturelle, faite de besoins simples et sans honte comme celle des animaux, que la civilisation a recouverte et qu'il faut retrouver : la nature est une norme à dégager, non une identité à inventer. Mais cette nature reste pour lui un critère négatif, ce qui subsiste une fois l'artifice ôté, sans la métaphysique d'une essence fixe ; d'où une position naturaliste modérée plutôt qu'un essentialisme appuyé.",
+          "en": "Diogenes presupposes a natural human condition, made of simple needs and shameless like that of the animals, which civilization has covered over and which must be recovered: nature is a norm to be uncovered, not an identity to be invented. But this nature remains for him a negative criterion, what subsists once artifice is removed, without the metaphysics of a fixed essence; hence a moderate naturalist position rather than an emphatic essentialism."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies, VI, 70-71",
+            "en": "Diogenes Laertius, Lives, VI, 70-71"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TASTE_HIERARCHY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.8
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Diogène tourne en dérision le raffinement, les arts de luxe et la culture distinguée comme autant de vanités : ce qui passe pour bon goût n'est que <c id='physis-nomos'>nomos</c>, marqueur de statut détaché du besoin naturel. Devant les offrandes dorées d'un temple, devant les colonnes et les statues, il ne voit que prétention. La position est égalitaire, débusquant l'imposture derrière les hiérarchies du goût.",
+          "en": "Diogenes mocks refinement, luxury arts and distinguished culture as so many vanities: what passes for good taste is mere <c id='physis-nomos'>nomos</c>, a status marker detached from natural need. Before a temple's gilded offerings, before its columns and statues, he sees only pretension. The stance is egalitarian, debunking the imposture behind hierarchies of taste."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies, VI, 24 et 60",
+            "en": "Diogenes Laertius, Lives, VI, 24 and 60"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'effort pénible (<c>ponos</c>) est le moyen même de la vertu : Diogène s'entraîne au froid, à la faim et au dénuement pour s'endurcir et se rendre libre, embrassant en hiver les statues couvertes de neige et roulant son tonneau sur le sable brûlant. La souffrance volontairement choisie n'est pas un mal mais une gymnastique de l'âme, qui forge l'<c id='autarkeia'>autosuffisance</c> et affranchit des coups de la fortune. C'est l'épreuve recherchée, non subie, qui fait le sage.",
+          "en": "Painful effort (<c>ponos</c>) is the very means of virtue: Diogenes trains himself to cold, hunger and destitution to harden himself and become free, embracing snow-covered statues in winter and rolling his jar over burning sand. Suffering voluntarily chosen is no evil but a gymnastics of the soul that forges <c id='autarkeia'>self-sufficiency</c> and frees one from the blows of fortune. It is hardship sought, not undergone, that makes the sage."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies, VI, 23 et 71",
+            "en": "Diogenes Laertius, Lives, VI, 23 and 71"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.85,
+          0.05,
+          0.1,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Diogène affiche une indifférence provocante envers la mort : il demande, dit-on, qu'on jette son cadavre par-dessus le mur pour les bêtes, et raille le soin des sépultures, puisqu'il ne sera plus là pour rien sentir. La crainte de mourir relève des conventions vaines qu'il s'agit précisément de défaire ; la mort n'est rien qui doive troubler le sage autosuffisant. La sérénité rejoint le ton épicurien, sans aucune promesse d'immortalité personnelle.",
+          "en": "Diogenes flaunts a provocative indifference toward death: he asks, it is said, that his corpse be thrown over the wall to the beasts, and mocks the care of burial, since he will no longer be there to feel anything. The fear of dying belongs to the empty conventions he sets out precisely to undo; death is nothing that should trouble the self-sufficient sage. The serenity meets the Epicurean tone, with no promise of personal immortality."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies, VI, 79",
+            "en": "Diogenes Laertius, Lives, VI, 79"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Diogène ne professe pas un athéisme théorique mais une irréligion pratique : il raille les rites, les mystères et les oracles, et tient pour vaines les croyances et les peurs religieuses de la cité. Voyant les offrandes des rescapés d'un naufrage, il observait qu'elles seraient bien plus nombreuses si l'on comptait aussi ceux qui ont péri. Indifférent aux dieux du culte, il ramène le divin à la nature et à la vertu, ce qui l'éloigne du théisme sans en faire un athée militant.",
+          "en": "Diogenes professes no theoretical atheism but a practical irreligion: he mocks rites, mysteries and oracles, and holds the city's religious beliefs and fears to be vain. Seeing the votive offerings of shipwreck survivors, he remarked that they would be far more numerous if those who had perished had dedicated theirs too. Indifferent to the gods of cult, he reduces the divine to nature and to virtue, which sets him apart from theism without making him a militant atheist."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies, VI, 24, 42 et 59",
+            "en": "Diogenes Laertius, Lives, VI, 24, 42 and 59"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Héritier d'<ph>Antisthène</ph> et de son <kw>nominalisme</kw>, Diogène ne reconnaît que les individus sensibles et tient les Idées générales de Platon pour de vains mots : « je vois bien une table et une coupe, disait-on dans cette lignée, mais non la tablité ni la coupéité ». Le savoir qui compte se prend dans l'expérience et l'exercice concret, non dans la contemplation d'essences intelligibles. C'est un empirisme nominaliste, plus polémique que systématique.",
+          "en": "Heir to <ph>Antisthenes</ph> and his <kw>nominalism</kw>, Diogenes recognises only sensible individuals and holds Plato's general Ideas to be empty words: \"I can see a table and a cup, ran this line of thought, but not tablehood or cuphood\". The knowledge that counts is taken from experience and concrete practice, not from the contemplation of intelligible essences. It is a nominalist empiricism, more polemical than systematic."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies, VI, 53",
+            "en": "Diogenes Laertius, Lives, VI, 53"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "PARTIALITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le cosmopolitisme de Diogène nie tout privilège naturel des proches : la patrie, la famille et la cité n'étant que <c id='physis-nomos'>nomos</c>, elles ne fondent aucune obligation particulière que la nature reconnaîtrait. Tout être raisonnable vaut également, par-delà l'arbitraire de la naissance. La position penche vers l'impartialité, mais reste inférée : Diogène ne théorise pas les devoirs, il dissout les loyautés conventionnelles plus qu'il ne construit une éthique impartiale positive.",
+          "en": "Diogenes' cosmopolitanism denies any natural privilege of one's near ones: homeland, family and city being only <c id='physis-nomos'>nomos</c>, they ground no particular obligation that nature would recognise. Every rational being counts equally, beyond the arbitrariness of birth. The position leans toward impartiality, but stays inferred: Diogenes does not theorise duties, he dissolves conventional loyalties more than he builds a positive impartial ethics."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies, VI, 72",
+            "en": "Diogenes Laertius, Lives, VI, 72"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "WORK_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.15,
+          0.25,
+          0.6
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le seul labeur qui vaille, pour Diogène, est l'effort sur soi (<c>ponos</c>), l'entraînement à la vertu ; le travail rémunéré, l'amassage de richesses et la course aux occupations utiles relèvent de la servitude conventionnelle qui enchaîne aux besoins factices. Mendiant assumé, il tient l'oisiveté studieuse du sage pour la fin, et l'activité affairée pour un moyen au mieux toléré : on ne travaille que pour pouvoir cesser de dépendre. La valeur n'est pas dans la production mais dans la liberté conquise en s'en passant.",
+          "en": "The only labour worth anything, for Diogenes, is the effort on oneself (<c>ponos</c>), the training in virtue; paid work, the amassing of wealth and the race for useful occupations belong to a conventional servitude that chains one to factitious needs. An avowed beggar, he holds the sage's studious leisure to be the end, and busy activity a means at best tolerated: one works only so as to be able to stop depending. Worth lies not in production but in the freedom won by doing without it."
+        },
+        "references": [
+          {
+            "fr": "Diogène Laërce, Vies, VI, 49 et 56",
+            "en": "Diogenes Laertius, Lives, VI, 49 and 56"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MACHINE_MIND",
+      "status": "NOT_APPLICABLE",
+      "note": {
+        "fr": "Question anachronique : les anecdotes sur Diogène ne contiennent rien qui permette de le positionner sur la pensée des machines sans extrapolation hasardeuse.",
+        "en": "An anachronistic question: the anecdotes about Diogenes contain nothing that would allow positioning him on machine thought without hazardous extrapolation."
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "CONTROL_SCOPE",
+      "thesis": {
+        "fr": "Qui ne désire rien d'extérieur ne dépend de personne : l'<c id='autarkeia'>autosuffisance</c> rend le plus dénué des hommes plus libre que le plus puissant des rois.",
+        "en": "Whoever desires nothing external depends on no one: <c id='autarkeia'>self-sufficiency</c> makes the most destitute of men freer than the mightiest of kings."
+      }
+    },
+    {
+      "axisId": "HUMAN_NATURE",
+      "thesis": {
+        "fr": "Presque tout ce que les hommes croient devoir à la nature n'est que <c id='physis-nomos'>nomos</c>, convention sans fondement : vivre selon la nature, c'est dépouiller cet artifice jusqu'au seul besoin réel.",
+        "en": "Almost everything men believe they owe to nature is mere <c id='physis-nomos'>nomos</c>, groundless convention: to live according to nature is to strip away that artifice down to real need alone."
+      }
+    },
+    {
+      "axisId": "SINCERITY",
+      "thesis": {
+        "fr": "Dire le vrai sans détour, fût-ce aux puissants, et transgresser sans rougir les pudeurs convenues : la <c id='parrhesia'>franchise</c> prouve par l'acte que la honte sociale n'a pas de fondement naturel.",
+        "en": "To speak the truth without circumlocution, even to the powerful, and to transgress accepted modesties without blushing: <c id='parrhesia'>frankness</c> proves by deed that social shame has no natural ground."
+      }
+    },
+    {
+      "axisId": "BELONGING",
+      "thesis": {
+        "fr": "Aucune cité n'a de droit naturel sur moi : je ne suis citoyen d'aucune patrie particulière mais <c id='cosmopolitanism'>kosmopolitēs</c>, citoyen du monde entier.",
+        "en": "No city has any natural claim on me: I am citizen of no particular homeland but a <c id='cosmopolitanism'>kosmopolitēs</c>, a citizen of the whole world."
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "thesis": {
+        "fr": "La vertu seule est un bien, car seule on ne peut nous l'ôter ; et c'est une force qui s'acquiert par l'<c id='askesis'>entraînement</c> et se prouve par les actes, non un savoir.",
+        "en": "Virtue alone is a good, for it alone cannot be taken from us; and it is a strength won through <c id='askesis'>training</c> and proven by deeds, not a piece of knowledge."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-29T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

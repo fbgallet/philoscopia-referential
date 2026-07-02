@@ -1,0 +1,16 @@
+{
+  "id": "enlightenment-to-utilitarianism",
+  "from": { "kind": "MOVEMENT", "slug": "enlightenment" },
+  "to": { "kind": "MOVEMENT", "slug": "utilitarianism" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "L'<mv id='utilitarianism'>utilitarisme</mv> hérite de la morale séculière et réformatrice des Lumières : le principe d'utilité de <ph id='bentham'>Bentham</ph> prolonge la pénalité réformée de <ph id='beccaria'>Beccaria</ph> et le calcul des peines et des plaisirs déjà présent chez <ph id='helvetius'>Helvétius</ph>.",
+    "en": "<mv id='utilitarianism'>Utilitarianism</mv> inherits the secular, reforming morality of the Enlightenment: <ph id='bentham'>Bentham</ph>'s principle of utility extends <ph id='beccaria'>Beccaria</ph>'s reformed penal thought and the calculus of pains and pleasures already present in <ph id='helvetius'>Helvétius</ph>."
+  },
+  "sources": [
+    { "fr": "Bentham, Introduction aux principes de la morale et de la législation (1789)", "en": "Bentham, An Introduction to the Principles of Morals and Legislation (1789)" }
+  ],
+  "updatedAt": "2026-06-25T00:00:00.000Z"
+}

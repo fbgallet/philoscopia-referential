@@ -1,0 +1,16 @@
+{
+  "id": "perfectibilite",
+  "term": { "fr": "La perfectibilité", "en": "Perfectibility" },
+  "definition": {
+    "fr": "Forgée par <ph id='rousseau'>Rousseau</ph> dans le Discours sur l'origine de l'inégalité, la perfectibilité désigne la faculté proprement humaine de se transformer et de se modifier indéfiniment, pour le meilleur comme pour le pire. Là où l'animal est tout entier réglé par son instinct, l'homme n'a pas de nature figée : il se fait par son histoire, son éducation et ses institutions. Cette plasticité fonde l'optimisme des <mv id='enlightenment'>Lumières</mv>, pour qui les vices tiennent au milieu plutôt qu'à une nature corrompue ; chez <ph id='condorcet'>Condorcet</ph>, elle devient le ressort d'un progrès sans terme.",
+    "en": "Coined by <ph id='rousseau'>Rousseau</ph> in the Discourse on the Origin of Inequality, perfectibility names the properly human faculty of transforming and modifying oneself indefinitely, for better and for worse. Where the animal is wholly governed by instinct, man has no fixed nature: he makes himself through his history, his education and his institutions. This plasticity grounds the optimism of the <mv id='enlightenment'>Enlightenment</mv>, for which vices stem from environment rather than from a corrupt nature; in <ph id='condorcet'>Condorcet</ph> it becomes the mainspring of a progress without end."
+  },
+  "relatedAxes": ["HUMAN_VISION", "CONSERVATISM_PROGRESSISM", "ESSENCE"],
+  "relatedTerms": ["tabula-rasa", "lumieres"],
+  "figure": { "slug": "rousseau", "name": { "fr": "Jean-Jacques Rousseau", "en": "Jean-Jacques Rousseau" } },
+  "positions": [
+    { "axisId": "HUMAN_VISION", "poleId": "ANTHROPOLOGICAL_OPTIMISM" },
+    { "axisId": "CONSERVATISM_PROGRESSISM", "poleId": "PROGRESSISM" }
+  ],
+  "updatedAt": "2026-06-25T00:00:00.000Z"
+}

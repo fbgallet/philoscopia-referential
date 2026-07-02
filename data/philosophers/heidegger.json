@@ -1,0 +1,18 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "heidegger",
+  "name": { "fr": "Heidegger", "en": "Heidegger" },
+  "summary": {
+    "fr": "Philosophe allemand de l'être : il pense l'existence humaine comme un être-pour-la-mort et voit dans la technique moderne un arraisonnement du monde qui en voile le sens.",
+    "en": "German philosopher of being: he conceives human existence as a being-toward-death and sees in modern technology an enframing of the world that veils its meaning."
+  },
+  "nationality": { "fr": "Allemand", "en": "German" },
+  "birth": 1889,
+  "death": 1976,
+  "movements": [
+    "phenomenology"
+  ],
+  "updatedAt": "2026-06-22T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

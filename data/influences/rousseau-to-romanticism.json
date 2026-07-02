@@ -1,0 +1,17 @@
+{
+  "id": "rousseau-to-romanticism",
+  "from": { "kind": "PHILOSOPHER", "slug": "rousseau" },
+  "to": { "kind": "MOVEMENT", "slug": "romanticism" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<mv id='romanticism'>Le romantisme</mv> reconnaît en <ph id='rousseau'>Rousseau</ph> son précurseur : il reprend et radicalise sa réhabilitation du sentiment contre la raison, son culte de la nature et de l'authenticité du moi, et sa critique de la civilisation. Les Confessions et les Rêveries inaugurent l'exploration romantique de l'intériorité, et la « religion du cœur » du vicaire savoyard annonce le sentiment religieux des romantiques.",
+    "en": "<mv id='romanticism'>Romanticism</mv> recognizes <ph id='rousseau'>Rousseau</ph> as its precursor: it takes up and radicalizes his rehabilitation of feeling against reason, his cult of nature and of the authenticity of the self, and his critique of civilization. The Confessions and the Reveries inaugurate the Romantic exploration of inwardness, and the « religion of the heart » of the Savoyard vicar heralds the religious feeling of the Romantics."
+  },
+  "sources": [
+    { "fr": "Ernst Cassirer, Le Problème Jean-Jacques Rousseau (1932)", "en": "Ernst Cassirer, The Question of Jean-Jacques Rousseau (1932)" },
+    { "fr": "Isaiah Berlin, Les Racines du romantisme", "en": "Isaiah Berlin, The Roots of Romanticism" }
+  ],
+  "updatedAt": "2026-06-25T00:00:00.000Z"
+}

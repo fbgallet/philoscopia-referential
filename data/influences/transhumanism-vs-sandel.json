@@ -1,0 +1,25 @@
+{
+  "id": "transhumanism-vs-sandel",
+  "from": {
+    "kind": "MOVEMENT",
+    "slug": "transhumanism"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "sandel"
+  },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='sandel'>Sandel</ph> voit dans l'augmentation l'expression d'une volonté prométhéenne de maîtrise : vouloir tout choisir et tout optimiser ferait perdre le sens du « donné » de la vie, et avec lui l'humilité, la solidarité et la gratitude qui s'enracinent dans ce que nous n'avons pas choisi.",
+    "en": "<ph id='sandel'>Sandel</ph> sees in enhancement the expression of a Promethean will to mastery: wanting to choose and optimize everything would lose the sense of life's 'giftedness', and with it the humility, solidarity and gratitude rooted in what we did not choose."
+  },
+  "sources": [
+    {
+      "fr": "Sandel, Contre la perfection (2007)",
+      "en": "Sandel, The Case Against Perfection (2007)"
+    }
+  ],
+  "updatedAt": "2026-06-28T00:00:00.000Z"
+}

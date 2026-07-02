@@ -1,0 +1,26 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "mencius",
+  "stub": true,
+  "name": {
+    "fr": "Mencius",
+    "en": "Mencius"
+  },
+  "summary": {
+    "fr": "Penseur <mv id='confucianism'>confucéen</mv>, héritier de <ph id='confucius'>Confucius</ph>, célèbre pour sa thèse de la bonté naturelle de l'homme.",
+    "en": "<mv id='confucianism'>Confucian</mv> thinker, heir to <ph id='confucius'>Confucius</ph>, famous for his thesis that human nature is innately good."
+  },
+  "birth": -372,
+  "death": -289,
+  "nationality": {
+    "fr": "Chinois",
+    "en": "Chinese"
+  },
+  "movements": [
+    "confucianism"
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

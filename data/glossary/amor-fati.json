@@ -1,0 +1,13 @@
+{
+  "id": "amor-fati",
+  "term": { "fr": "Amor fati", "en": "Amor fati" },
+  "definition": {
+    "fr": "L'amor fati, ou amour du destin, est l'attitude qui consiste à vouloir les événements tels qu'ils sont arrivés, sans rien regretter ni rien souhaiter d'autre. Présente chez les stoïciens comme <ph id='epictetus'>Épictète</ph>, la formule est revendiquée par <ph id='nietzsche'>Nietzsche</ph> dans <w id='the-gay-science-nietzsche'>Le Gai Savoir</w> comme la plus haute affirmation de la vie. Elle prolonge <c id='dichotomy-of-control'>la dichotomie du contrôle</c> en transformant la simple acceptation du passé en amour.",
+    "en": "Amor fati, the love of fate, is the attitude of willing events exactly as they have happened, regretting nothing and wishing nothing otherwise. Present among Stoics such as <ph id='epictetus'>Epictetus</ph>, the formula is claimed by <ph id='nietzsche'>Nietzsche</ph> in <w id='the-gay-science-nietzsche'>The Gay Science</w> as the highest affirmation of life. It extends <c id='dichotomy-of-control'>the dichotomy of control</c> by turning mere acceptance of the past into love."
+  },
+  "relatedAxes": ["PAST_RELATION"],
+  "relatedTerms": ["dichotomy-of-control"],
+  "figure": { "slug": "nietzsche", "name": { "fr": "Nietzsche", "en": "Nietzsche" } },
+  "positions": [{ "axisId": "PAST_RELATION", "poleId": "AMOR_FATI" }],
+  "updatedAt": "2026-06-11T00:00:00.000Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "husserl-to-ricoeur",
+  "from": { "kind": "PHILOSOPHER", "slug": "husserl" },
+  "to": { "kind": "PHILOSOPHER", "slug": "ricoeur" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='ricoeur'>Ricœur</ph> traduit et commente <ph id='husserl'>Husserl</ph>, dont il prolonge la méthode descriptive ; il l'articule ensuite à une <c>herméneutique</c> du symbole et du récit, là où la phénoménologie directe atteint ses limites.",
+    "en": "<ph id='ricoeur'>Ricoeur</ph> translates and annotates <ph id='husserl'>Husserl</ph>, whose descriptive method he carries on; he then articulates it with a <c>hermeneutics</c> of symbol and narrative, where direct phenomenology reaches its limits."
+  },
+  "sources": [
+    { "fr": "Ricœur, traduction et commentaire des Idées directrices I de Husserl (1950)", "en": "Ricoeur, translation and commentary of Husserl's Ideas I (1950)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "intellectual-love-of-god",
+  "term": { "fr": "Amour intellectuel de Dieu", "en": "Intellectual love of God" },
+  "definition": {
+    "fr": "Chez <ph id='spinoza'>Spinoza</ph>, l'amour intellectuel de Dieu (amor Dei intellectualis) est le sommet de la connaissance : par les <c id='adequate-idea'>idées adéquates</c>, l'esprit saisit les choses sous l'aspect de l'éternité et, par là, connaît et aime Dieu, c'est-à-dire la <c id='immanence'>Nature</c>. Cette <c id='joy'>joie</c> accompagnée de l'idée de Dieu constitue la béatitude, qui n'est pas la récompense de la vertu mais la vertu même.",
+    "en": "For <ph id='spinoza'>Spinoza</ph>, the intellectual love of God (amor Dei intellectualis) is the summit of knowledge: through <c id='adequate-idea'>adequate ideas</c> the mind grasps things under the aspect of eternity and so knows and loves God, that is, <c id='immanence'>Nature</c>. This <c id='joy'>joy</c> accompanied by the idea of God constitutes blessedness, which is not the reward of virtue but virtue itself."
+  },
+  "relatedAxes": ["SOVEREIGN_GOOD", "GOD_EXISTENCE", "KNOWLEDGE_SOURCE"],
+  "relatedTerms": ["adequate-idea", "conatus", "joy", "immanence"],
+  "figure": { "slug": "spinoza", "name": { "fr": "Spinoza", "en": "Spinoza" } },
+  "positions": [{ "axisId": "SOVEREIGN_GOOD", "poleId": "MORAL_PERFECTIONISM" }],
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

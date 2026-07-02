@@ -1,0 +1,69 @@
+{
+  "id": "the-eternal-return",
+  "title": {
+    "fr": "L'éternel retour",
+    "en": "The eternal return"
+  },
+  "description": {
+    "fr": "Imaginez qu'un soir, dans votre plus grande solitude, un démon se glisse auprès de vous et vous dise : « Cette vie, telle que tu la vis et l'as vécue, il te faudra la revivre encore une fois et d'innombrables fois ; et il n'y aura rien de nouveau, mais chaque douleur, chaque plaisir, chaque pensée, et ce moment même, reviendront dans le même ordre. » Le sablier de l'existence serait retourné sans fin, et vous avec lui. <ph id='nietzsche'>Nietzsche</ph> ne demande pas si la chose est vraie : il en fait une épreuve. Car la question qu'elle pose vous atteint aujourd'hui : voudriez-vous revivre éternellement vos journées telles que vous les remplissez ? L'<c id='eternal-recurrence'>éternel retour</c> est moins une cosmologie qu'un test : aimez-vous assez votre vie pour la vouloir, identique, à jamais ?",
+    "en": "Imagine that one night, in your loneliest solitude, a demon slips beside you and says: « This life, as you live it now and have lived it, you will have to live once more and countless times more; and there will be nothing new in it, but every pain, every pleasure, every thought, and this very moment, will return in the same order. » The hourglass of existence would be turned over endlessly, and you with it. <ph id='nietzsche'>Nietzsche</ph> does not ask whether this is true: he makes it a trial. For the question it raises reaches you today: would you want to live your days, as you fill them, over and over forever? <c id='eternal-recurrence'>Eternal recurrence</c> is less a cosmology than a test: do you love your life enough to will it, identical, for all time?"
+  },
+  "source": {
+    "author": { "fr": "Nietzsche", "en": "Nietzsche" },
+    "work": { "fr": "Le Gai Savoir", "en": "The Gay Science" },
+    "year": 1882
+  },
+  "question": {
+    "fr": "Cette pensée vous écraserait-elle, ou la salueriez-vous comme une bonne nouvelle ? Ce que vous répondez en dit long sur le temps que vous vivez.",
+    "en": "Would this thought crush you, or would you welcome it as good news? What you answer says a great deal about the time you are living."
+  },
+  "axisIds": ["TIME_ORIENTATION", "PAST_RELATION"],
+  "options": [
+    {
+      "id": "would-embrace",
+      "label": {
+        "fr": "Je la voudrais : si je devais tout revivre à l'identique, je dirais oui. C'est le signe que je vis vraiment mes journées, sans les suspendre à un plus tard.",
+        "en": "I would want it: if I had to live it all again, identical, I would say yes. That is the sign that I truly live my days, without hanging them on some later time."
+      },
+      "hints": [
+        { "axisId": "TIME_ORIENTATION", "value": { "kind": "weights", "weights": [0.6, 0.2, 0.2] } },
+        { "axisId": "PAST_RELATION", "value": { "kind": "scalar", "value": -0.8 } }
+      ],
+      "discussion": {
+        "fr": "C'est l'amour du destin, l'<c id='amor-fati'>amor fati</c> de Nietzsche : vouloir sa vie telle qu'elle est, c'est l'habiter pleinement, sans la fuir vers hier ni vers demain.",
+        "en": "This is the love of fate, Nietzsche's <c id='amor-fati'>amor fati</c>: to will your life as it is means to inhabit it fully, without fleeing toward yesterday or tomorrow."
+      }
+    },
+    {
+      "id": "would-be-crushed",
+      "label": {
+        "fr": "Elle m'écraserait : tant de jours passés à courir, à attendre, à remettre à demain. Je ne voudrais pas les revivre tels quels.",
+        "en": "It would crush me: so many days spent rushing, waiting, putting off until tomorrow. I would not want to live them again as they are."
+      },
+      "hints": [
+        { "axisId": "TIME_ORIENTATION", "value": { "kind": "weights", "weights": [0.6, 0.15, 0.25] } },
+        { "axisId": "PAST_RELATION", "value": { "kind": "scalar", "value": 0.4 } }
+      ],
+      "discussion": {
+        "fr": "C'est le diagnostic de Sénèque retourné en épreuve : une vie qu'on ne voudrait pas revivre est une vie qu'on n'habite pas vraiment. Le test ne juge pas, il réveille.",
+        "en": "This is Seneca's diagnosis turned into a trial: a life one would not want to relive is a life one does not truly inhabit. The test does not judge, it awakens."
+      }
+    },
+    {
+      "id": "change-first",
+      "label": {
+        "fr": "Seulement si je pouvais d'abord changer ma façon de vivre le temps : alors, peut-être, je pourrais vouloir ce retour.",
+        "en": "Only if I could first change the way I live my time: then, perhaps, I could will this return."
+      },
+      "hints": [
+        { "axisId": "TIME_ORIENTATION", "value": { "kind": "weights", "weights": [0.55, 0.2, 0.25] } },
+        { "axisId": "PAST_RELATION", "value": { "kind": "scalar", "value": 0 } }
+      ],
+      "discussion": {
+        "fr": "Vous laissez la pensée faire son travail : elle ne vous dit pas comment vivre, elle vous rend sensible à l'écart entre la vie que vous menez et celle que vous voudriez pouvoir vouloir.",
+        "en": "You let the thought do its work: it does not tell you how to live, it makes you feel the gap between the life you lead and the one you would want to be able to will."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

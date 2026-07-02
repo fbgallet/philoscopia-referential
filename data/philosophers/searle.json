@@ -1,0 +1,15 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "searle",
+  "name": { "fr": "Searle", "en": "Searle" },
+  "summary": {
+    "fr": "Philosophe américain de l'esprit et du langage : contre le fonctionnalisme, il tient la conscience pour un phénomène biologique, produit par les pouvoirs causaux propres du cerveau vivant.",
+    "en": "American philosopher of mind and language: against functionalism, he holds consciousness to be a biological phenomenon, produced by the specific causal powers of the living brain."
+  },
+  "nationality": { "fr": "Américain", "en": "American" },
+  "birth": 1932,
+  "movements": [],
+  "updatedAt": "2026-06-21T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

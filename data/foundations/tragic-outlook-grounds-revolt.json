@@ -1,0 +1,12 @@
+{
+  "id": "tragic-outlook-grounds-revolt",
+  "ground": { "axisId": "COSMIC_OUTLOOK", "poleId": "TRAGIC_THOUGHT" },
+  "grounded": { "axisId": "PAST_RELATION", "poleId": "REVOLT" },
+  "kind": "T_V",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si le monde n'est ni rationnel ni bienveillant, si la souffrance et le non-sens sont au cœur du réel, la lucidité refuse à la fois le suicide et l'espérance consolatrice. La pensée tragique fonde alors une attitude de révolte, qui maintient la tension du vivre sans se résigner, comme chez <ph id='camus'>Camus</ph>.",
+    "en": "If the world is neither rational nor benevolent, if suffering and meaninglessness lie at the heart of the real, lucidity refuses both suicide and consoling hope. Tragic thought then grounds an attitude of revolt, which keeps the tension of living alive without resignation, as in <ph id='camus'>Camus</ph>."
+  },
+  "updatedAt": "2026-07-02T00:00:00.000Z"
+}

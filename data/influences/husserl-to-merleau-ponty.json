@@ -1,0 +1,16 @@
+{
+  "id": "husserl-to-merleau-ponty",
+  "from": { "kind": "PHILOSOPHER", "slug": "husserl" },
+  "to": { "kind": "PHILOSOPHER", "slug": "merleau-ponty" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='merleau-ponty'>Merleau-Ponty</ph> prolonge les analyses du dernier <ph id='husserl'>Husserl</ph> sur le <c>monde de la vie</c> et le corps propre, mais ancre toute la phénoménologie dans la <c>perception</c> incarnée plutôt que dans une conscience pure.",
+    "en": "<ph id='merleau-ponty'>Merleau-Ponty</ph> carries on the late <ph id='husserl'>Husserl</ph>'s analyses of the <c>life-world</c> and the lived body, but anchors the whole of phenomenology in embodied <c>perception</c> rather than in a pure consciousness."
+  },
+  "sources": [
+    { "fr": "Merleau-Ponty, Phénoménologie de la perception (1945)", "en": "Merleau-Ponty, Phenomenology of Perception (1945)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

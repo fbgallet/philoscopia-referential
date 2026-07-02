@@ -1,0 +1,373 @@
+{
+  "id": "FREEDOM",
+  "relation": "SELF",
+  "territory": "IDENTITY_FREEDOM",
+  "label": {
+    "fr": "Liberté de la volonté",
+    "en": "Freedom of the will"
+  },
+  "question": {
+    "fr": "Sommes-nous réellement libres de nos choix, ou sont-ils déterminés ?",
+    "en": "Are we genuinely free in our choices, or are they determined?"
+  },
+  "stakes": {
+    "fr": "Nous délibérons comme si l'avenir restait ouvert, mais nos choix ont des causes. Si tout était déterminé d'avance, que resterait-il du mérite, de la faute, de la responsabilité ? C'est tout notre rapport à nous-mêmes et à autrui qui est en jeu.",
+    "en": "We deliberate as if the future were open, yet our choices have causes. If everything were settled in advance, what would remain of merit, fault, responsibility? Our whole relation to ourselves and to others is at stake."
+  },
+  "layer": "THEORY",
+  "type": "BIPOLAR_MEDIAN",
+  "commonOpinion": "FREE_WILL",
+  "poles": [
+    {
+      "id": "FREE_WILL",
+      "label": {
+        "fr": "Libre arbitre",
+        "en": "Free will"
+      },
+      "description": {
+        "fr": "La volonté a le pouvoir de se déterminer elle-même : face à une alternative, j'aurais pu choisir autrement. Cette liberté radicale fonde la responsabilité et la dignité de la personne, même si elle peut peser comme un fardeau.",
+        "en": "The will has the power to determine itself: faced with an alternative, I could have chosen otherwise. This radical freedom grounds personal responsibility and dignity, even if it can weigh on us like a burden."
+      },
+      "figures": [
+        {
+          "slug": "descartes",
+          "name": {
+            "fr": "Descartes",
+            "en": "Descartes"
+          }
+        },
+        {
+          "slug": "sartre",
+          "name": {
+            "fr": "Sartre",
+            "en": "Sartre"
+          }
+        },
+        {
+          "slug": "kant",
+          "name": {
+            "fr": "Kant",
+            "en": "Kant"
+          }
+        }
+      ]
+    },
+    {
+      "id": "DETERMINISM",
+      "label": {
+        "fr": "Déterminisme dur",
+        "en": "Hard determinism"
+      },
+      "description": {
+        "fr": "Nos choix résultent de causes qui nous échappent : nature, histoire, inconscient. Le sentiment de liberté vient de ce que nous ignorons ce qui nous détermine, comme une pierre lancée qui se croirait libre de voler.",
+        "en": "Our choices result from causes beyond our grasp: nature, history, the unconscious. The feeling of freedom comes from our ignorance of what determines us, like a thrown stone believing itself free to fly."
+      },
+      "figures": [
+        {
+          "slug": "spinoza",
+          "name": {
+            "fr": "Spinoza",
+            "en": "Spinoza"
+          }
+        },
+        {
+          "slug": "freud",
+          "name": {
+            "fr": "Freud",
+            "en": "Freud"
+          }
+        }
+      ]
+    }
+  ],
+  "medianLabel": {
+    "fr": "Compatibilisme",
+    "en": "Compatibilism"
+  },
+  "medianDescription": {
+    "fr": "Le compatibilisme renonce au libre arbitre au sens fort, ce pouvoir de choisir autrement face à une alternative, mais conçoit une liberté à l'intérieur de la nécessité. Être libre, ce n'est pas échapper aux causes, c'est n'être pas contraint du dehors : j'agis librement quand mon acte découle de mes propres désirs et de mes raisons, non d'une force qui me violente. La liberté s'oppose à la contrainte extérieure, non à la nécessité intérieure de l'agent.",
+    "en": "Compatibilism gives up free will in the strong sense, the power to have chosen otherwise when faced with an alternative, but conceives a freedom within necessity itself. To be free is not to escape causation but to be unconstrained from without: I act freely when my act flows from my own desires and reasons, not from a force that overrides me. Freedom is opposed to external constraint, not to the inner necessity of the agent."
+  },
+  "core": true,
+  "difficulty": 2,
+  "clusters": [
+    "SCIENTIFIC_NATURALISM"
+  ],
+  "relatedAxes": [
+    "CAUSALITY",
+    "ESSENCE",
+    "PUNISHMENT",
+    "SELF_NATURE",
+    "POLITICAL_LIBERTY",
+    "CONSCIOUSNESS_NATURE",
+    "CONTROL_SCOPE",
+    "DISTRIBUTIVE_JUSTICE",
+    "DESIRE"
+  ],
+  "problems": [
+    {
+      "id": "could-have-done-otherwise",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "un choix", "en": "a choice" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "possibilités alternatives", "en": "alternate possibilities" },
+        { "fr": "imputabilité", "en": "accountability" },
+        { "fr": "argument de conséquence", "en": "consequence argument" },
+        { "fr": "incompatibilisme", "en": "incompatibilism" }
+      ],
+      "poles": ["FREE_WILL", "DETERMINISM"],
+      "anchors": [
+        { "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" },
+        { "name": { "fr": "van Inwagen", "en": "van Inwagen" }, "kind": "PHILOSOPHER", "slug": "van-inwagen" }
+      ],
+      "doorways": [
+        { "axis": "PUNISHMENT" },
+        { "axis": "DISTRIBUTIVE_JUSTICE", "problem": "desert-and-lottery" }
+      ],
+      "title": { "fr": "Aurais-je pu agir autrement ?", "en": "Could I have done otherwise?" },
+      "explicitation": { "fr": "On reproche à cet homme un délit qu'il reconnaît, mais son histoire et son cerveau l'y ont poussé : pouvait-il vraiment agir autrement, et si non, en est-il responsable ?", "en": "A man admits to an offence, but his history and his brain pushed him to it: could he really have acted otherwise, and if not, is he responsible for it?" }
+    },
+    {
+      "id": "freedom-without-alternatives",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "un acte", "en": "an act" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "compatibilisme", "en": "compatibilism" },
+        { "fr": "responsivité aux raisons", "en": "reasons-responsiveness" },
+        { "fr": "libre adhésion", "en": "identification" },
+        { "fr": "cas de Frankfurt", "en": "Frankfurt cases" }
+      ],
+      "anchors": [
+        { "name": { "fr": "Hume", "en": "Hume" }, "kind": "PHILOSOPHER", "slug": "hume" },
+        { "name": { "fr": "Frankfurt", "en": "Frankfurt" }, "kind": "PHILOSOPHER", "slug": "frankfurt" },
+        { "name": { "fr": "Fischer", "en": "Fischer" }, "kind": "PHILOSOPHER" }
+      ],
+      "title": { "fr": "Libre sans pouvoir faire autrement ?", "en": "Free without being able to do otherwise?" },
+      "explicitation": { "fr": "Même si je ne pouvais pas faire autrement, suis-je libre quand mon acte vient de mes propres désirs et de mes raisons, sans rien qui me force contre moi-même ?", "en": "Even if I could not have done otherwise, am I free when my act springs from my own desires and reasons, with nothing forcing me against myself?" }
+    },
+    {
+      "id": "exculpating-cause",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "un acte", "en": "an act" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "neurosciences", "en": "neuroscience" },
+        { "fr": "neuroéthique", "en": "neuroethics" },
+        { "fr": "responsabilité pénale", "en": "criminal responsibility" },
+        { "fr": "circonstances atténuantes", "en": "mitigating circumstances" }
+      ],
+      "poles": ["DETERMINISM"],
+      "title": { "fr": "Une cause qui disculpe", "en": "A cause that excuses" },
+      "explicitation": { "fr": "Quand une cause précise, ici une tumeur au cerveau, est à l'origine d'un acte, on hésite à tenir l'auteur pour responsable : mais cette cause diffère-t-elle vraiment des mille autres, hérédité, histoire, chimie, qui pèsent sur chacun de nos choix ?", "en": "When a specific cause, here a brain tumor, lies at the origin of an act, we hesitate to hold the agent responsible: but does that cause really differ from the thousand others, heredity, history, brain chemistry, that weigh on every one of our choices?" }
+    },
+    {
+      "id": "agent-causation",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "la volonté", "en": "the will" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "causalité de l'agent", "en": "agent causation" },
+        { "fr": "cause non causée", "en": "uncaused cause" },
+        { "fr": "libre arbitre libertarien", "en": "libertarian free will" }
+      ],
+      "poles": ["FREE_WILL"],
+      "anchors": [
+        { "name": { "fr": "Reid", "en": "Reid" }, "kind": "PHILOSOPHER", "slug": "reid" },
+        { "name": { "fr": "Chisholm", "en": "Chisholm" }, "kind": "PHILOSOPHER" }
+      ],
+      "doorways": [{ "axis": "SELF_NATURE" }],
+      "title": { "fr": "Un sujet qui s'initie lui-même", "en": "A self that initiates itself" },
+      "explicitation": { "fr": "Y a-t-il en nous un pouvoir capable d'amorcer une action sans être lui-même entièrement causé, ou tout pouvoir d'agir n'est-il qu'un maillon dans la chaîne des causes ?", "en": "Is there in us a power able to initiate an action without itself being wholly caused, or is every power to act merely one link in the chain of causes?" }
+    },
+    {
+      "id": "transparent-self",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "le moi", "en": "the self" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "inconscient", "en": "the unconscious" },
+        { "fr": "introspection", "en": "introspection" },
+        { "fr": "motivations cachées", "en": "hidden motives" }
+      ],
+      "poles": ["DETERMINISM"],
+      "anchors": [{ "name": { "fr": "Freud", "en": "Freud" }, "kind": "PHILOSOPHER", "slug": "freud" }],
+      "doorways": [{ "axis": "CONSCIOUSNESS_NATURE" }],
+      "title": { "fr": "Qui décide en moi ?", "en": "Who decides within me?" },
+      "explicitation": { "fr": "Suis-je transparent à moi-même quand je choisis, ou des forces que j'ignore décident-elles à ma place sous l'apparence d'un choix libre ?", "en": "Am I transparent to myself when I choose, or do forces I am unaware of decide in my place, under the appearance of a free choice?" }
+    },
+    {
+      "id": "causal-closure",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "un choix", "en": "a choice" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "déterminisme causal", "en": "causal determinism" },
+        { "fr": "démon de Laplace", "en": "Laplace's demon" },
+        { "fr": "clôture causale", "en": "causal closure" },
+        { "fr": "physicalisme", "en": "physicalism" }
+      ],
+      "poles": ["DETERMINISM"],
+      "anchors": [{ "name": { "fr": "Laplace", "en": "Laplace" }, "kind": "PHILOSOPHER" }],
+      "doorways": [{ "axis": "CAUSALITY" }],
+      "title": { "fr": "Le choix dans l'ordre des causes", "en": "The choice within the order of causes" },
+      "explicitation": { "fr": "Un choix est un événement du monde physique : s'inscrit-il dans la même chaîne de causes que tout le reste, au point d'être en principe prévisible ?", "en": "A choice is an event in the physical world: does it belong to the same chain of causes as everything else, so that it was in principle predictable?" }
+    },
+    {
+      "id": "reasons-vs-causes",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "un motif", "en": "a motive" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "motifs", "en": "motives" },
+        { "fr": "rationalisation", "en": "rationalization" },
+        { "fr": "intentionnalité", "en": "intentionality" },
+        { "fr": "philosophie de l'action", "en": "philosophy of action" }
+      ],
+      "anchors": [{ "name": { "fr": "Davidson", "en": "Davidson" }, "kind": "PHILOSOPHER" }],
+      "title": { "fr": "Une raison est-elle une cause ?", "en": "Is a reason a cause?" },
+      "explicitation": { "fr": "Quand j'agis pour une raison, cette raison explique-t-elle mon acte comme le ferait une cause, ou y a-t-il deux manières irréductibles de rendre compte d'une action ?", "en": "When I act for a reason, does that reason explain my act the way a cause would, or are there two irreducible ways of accounting for an action?" }
+    },
+    {
+      "id": "dilemma-necessity-chance",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "un choix", "en": "a choice" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "indéterminisme", "en": "indeterminism" },
+        { "fr": "contingence", "en": "contingency" },
+        { "fr": "aléatoire", "en": "randomness" },
+        { "fr": "objection de la chance", "en": "luck objection" },
+        { "fr": "liberté d'indifférence", "en": "liberty of indifference" },
+        { "fr": "petites perceptions", "en": "minute perceptions" }
+      ],
+      "poles": ["FREE_WILL"],
+      "anchors": [
+        { "name": { "fr": "Descartes", "en": "Descartes" }, "kind": "PHILOSOPHER", "slug": "descartes" },
+        { "name": { "fr": "Leibniz", "en": "Leibniz" }, "kind": "PHILOSOPHER", "slug": "leibniz" },
+        { "name": { "fr": "van Inwagen", "en": "van Inwagen" }, "kind": "PHILOSOPHER", "slug": "van-inwagen" }
+      ],
+      "title": { "fr": "Nécessité ou hasard", "en": "Necessity or chance" },
+      "explicitation": { "fr": "Si nos choix ne sont pas déterminés, en sont-ils plus libres, ou seulement livrés au hasard ? La liberté se réduit-elle à l'absence de cause ?", "en": "If our choices are not determined, are they any freer for it, or merely left to chance? Does freedom come down to the absence of a cause?" }
+    },
+    {
+      "id": "determinism-or-fatalism",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "mes efforts", "en": "my efforts" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "argument paresseux", "en": "idle argument" },
+        { "fr": "déterminisme conditionnel", "en": "conditional determinism" },
+        { "fr": "efficacité de la délibération", "en": "efficacy of deliberation" },
+        { "fr": "Chrysippe", "en": "Chrysippus" }
+      ],
+      "poles": ["DETERMINISM"],
+      "anchors": [
+        { "name": { "fr": "les stoïciens", "en": "the Stoics" }, "kind": "MOVEMENT", "slug": "stoicism" },
+        { "name": { "fr": "Chrysippe", "en": "Chrysippus" }, "kind": "PHILOSOPHER", "slug": "chrysippus" }
+      ],
+      "title": { "fr": "Déterminisme ou fatalisme ?", "en": "Determinism or fatalism?" },
+      "explicitation": { "fr": "Si tout a une cause, mes efforts sont-ils vains, puisque l'issue serait de toute façon écrite, ou comptent-ils au contraire, étant eux-mêmes des causes parmi les autres ?", "en": "If everything has a cause, are my efforts in vain, since the outcome would be settled either way, or do they on the contrary count, being themselves causes among others?" }
+    },
+    {
+      "id": "escape-or-understand-causes",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "l'ordre des causes", "en": "the order of causes" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "cause adéquate", "en": "adequate cause" },
+        { "fr": "compatibilisme", "en": "compatibilism" },
+        { "fr": "autonomie rationnelle", "en": "rational autonomy" }
+      ],
+      "anchors": [{ "name": { "fr": "Spinoza", "en": "Spinoza" }, "kind": "PHILOSOPHER", "slug": "spinoza" }],
+      "title": { "fr": "Échapper aux causes, ou les comprendre ?", "en": "Escaping the causes, or understanding them?" },
+      "explicitation": { "fr": "Être libre, est-ce ne dépendre d'aucune cause, ou comprendre ce qui nous détermine, au point d'agir en accord avec cette nécessité plutôt que de la subir ?", "en": "Is being free to depend on no cause, or to understand what determines us, to the point of acting in accord with that necessity rather than undergoing it?" }
+    },
+    {
+      "id": "predestination-and-freedom",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "la providence", "en": "divine providence" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "grâce", "en": "grace" },
+        { "fr": "qadar", "en": "qadar" },
+        { "fr": "compatibilisme théologique", "en": "theological compatibilism" },
+        { "fr": "décret divin", "en": "divine decree" }
+      ],
+      "anchors": [
+        { "name": { "fr": "Augustin", "en": "Augustine" }, "kind": "PHILOSOPHER", "slug": "augustine" },
+        { "name": { "fr": "Boèce", "en": "Boethius" }, "kind": "PHILOSOPHER", "slug": "boethius" },
+        { "name": { "fr": "Calvin", "en": "Calvin" }, "kind": "PHILOSOPHER" }
+      ],
+      "title": { "fr": "Tout décidé, et pourtant libre ?", "en": "All decided, and yet free?" },
+      "explicitation": { "fr": "Certaines religions affirment à la fois que tout est entre les mains de Dieu, prédestination ou destin, et que nous restons libres et responsables : ces deux croyances peuvent-elles tenir ensemble, ou l'une ruine-t-elle l'autre ?", "en": "Some religions affirm both that everything is in God's hands, predestination or fate, and that we remain free and responsible: can these two beliefs hold together, or does one ruin the other?" }
+    },
+    {
+      "id": "master-or-slave-of-desires",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "la loi qu'on se donne", "en": "the law one gives oneself" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "autonomie", "en": "autonomy" },
+        { "fr": "maîtrise de soi", "en": "self-mastery" },
+        { "fr": "akrasia", "en": "akrasia" },
+        { "fr": "tempérance", "en": "temperance" }
+      ],
+      "poles": ["FREE_WILL"],
+      "anchors": [
+        { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" },
+        { "name": { "fr": "Platon", "en": "Plato" }, "kind": "PHILOSOPHER", "slug": "plato" }
+      ],
+      "doorways": [{ "axis": "DESIRE", "problem": "desire-hierarchy" }],
+      "title": { "fr": "Faire ce qu'on veut, ou se gouverner soi-même ?", "en": "Doing as one pleases, or governing oneself?" },
+      "explicitation": { "fr": "Être libre, est-ce faire ce dont on a envie sur le moment, ou se gouverner soi-même, au risque que celui qui suit tous ses désirs en devienne l'esclave ?", "en": "Is being free to do what one feels like in the moment, or to govern oneself, at the risk that whoever follows their every desire becomes its slave?" }
+    },
+    {
+      "id": "inner-or-outer-freedom",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "l'ordre social", "en": "the social order" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "liberté négative", "en": "negative liberty" },
+        { "fr": "liberté positive", "en": "positive liberty" },
+        { "fr": "coercition", "en": "coercion" },
+        { "fr": "domination", "en": "domination" }
+      ],
+      "sphere": "POLITICAL",
+      "anchors": [
+        { "name": { "fr": "Épictète", "en": "Epictetus" }, "kind": "PHILOSOPHER", "slug": "epictetus" },
+        { "name": { "fr": "Berlin", "en": "Berlin" }, "kind": "PHILOSOPHER", "slug": "berlin" }
+      ],
+      "doorways": [{ "axis": "POLITICAL_LIBERTY" }],
+      "title": { "fr": "Liberté intérieure ou liberté extérieure ?", "en": "Inner freedom or outer freedom?" },
+      "explicitation": { "fr": "Qu'est-ce qui décide le plus de notre liberté : nos dispositions intérieures, ou les contraintes extérieures du pouvoir et de la société ? Et l'une rend-elle l'autre possible : peut-on être libre en esprit sous l'oppression, ou libre au-dehors sans l'être au-dedans ?", "en": "What weighs most in our freedom: our inner dispositions, or the outer constraints of power and society? And does one make the other possible: can one be free in spirit under oppression, or free outwardly without being free within?" }
+    }
+  ]
+}

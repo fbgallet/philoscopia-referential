@@ -1,0 +1,16 @@
+{
+  "id": "plato-to-plotinus",
+  "from": { "kind": "PHILOSOPHER", "slug": "plato" },
+  "to": { "kind": "PHILOSOPHER", "slug": "plotinus" },
+  "directness": "INDIRECT",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='plotinus'>Plotin</ph> relit <ph id='plato'>Platon</ph> par ses textes, six siècles après, et en tire le <mv id='platonism'>néoplatonisme</mv> : une métaphysique hiérarchique de l'<c>Un</c>, de l'Intellect et de l'Âme qui dépasse la lettre des dialogues.",
+    "en": "<ph id='plotinus'>Plotinus</ph> rereads <ph id='plato'>Plato</ph> through his texts, six centuries later, and draws from them <mv id='platonism'>Neoplatonism</mv>: a hierarchical metaphysics of the <c>One</c>, the Intellect and the Soul that goes beyond the letter of the dialogues."
+  },
+  "sources": [
+    { "fr": "Plotin, Ennéades", "en": "Plotinus, Enneads" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

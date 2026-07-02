@@ -1,0 +1,16 @@
+{
+  "id": "pyrrho-to-sextus-empiricus",
+  "from": { "kind": "PHILOSOPHER", "slug": "pyrrho" },
+  "to": { "kind": "PHILOSOPHER", "slug": "sextus-empiricus" },
+  "directness": "INDIRECT",
+  "mode": "TRANSMITS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='sextus-empiricus'>Sextus Empiricus</ph> codifie des siècles plus tard la tradition issue de <ph id='pyrrho'>Pyrrhon</ph> : <c>suspension du jugement</c> et opposition équilibrée des arguments, dont ses écrits sont la principale source conservée.",
+    "en": "<ph id='sextus-empiricus'>Sextus Empiricus</ph> codifies, centuries later, the tradition stemming from <ph id='pyrrho'>Pyrrho</ph>: <c>suspension of judgement</c> and the balanced opposition of arguments, of which his writings are the chief surviving source."
+  },
+  "sources": [
+    { "fr": "Sextus Empiricus, Esquisses pyrrhoniennes", "en": "Sextus Empiricus, Outlines of Pyrrhonism" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "universalism-grounds-natural-rights",
+  "ground": { "axisId": "MORAL_SCOPE", "poleId": "UNIVERSALISM_REALISM" },
+  "grounded": { "axisId": "RIGHTS_NATURE", "poleId": "NATURAL_RIGHTS" },
+  "kind": "T_T",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "S'il existe des normes morales objectives valables pour tout être raisonnable, alors la personne possède des droits antérieurs à l'État, que nulle loi ne saurait légitimement abolir. L'universalisme moral fonde les droits naturels : chez <ph id='locke'>Locke</ph> comme chez <ph id='kant'>Kant</ph>, une loi qui les viole reste injuste, fût-elle parfaitement légale.",
+    "en": "If there are objective moral norms valid for every rational being, then the person holds rights prior to the state, which no law could legitimately abolish. Moral universalism grounds natural rights: for <ph id='locke'>Locke</ph> as for <ph id='kant'>Kant</ph>, a law that violates them remains unjust, even if perfectly legal."
+  },
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

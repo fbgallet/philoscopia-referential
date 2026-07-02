@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "freud",
+  "stub": true,
+  "name": {
+    "fr": "Sigmund Freud",
+    "en": "Sigmund Freud"
+  },
+  "summary": {
+    "fr": "Fondateur de la psychanalyse, qui soutint que le moi n'est pas maître dans sa propre maison : des désirs et des motifs inconscients gouvernent une part de nos pensées et de nos actes.",
+    "en": "Founder of psychoanalysis, who held that the self is not master in its own house: unconscious desires and motives govern part of our thoughts and acts."
+  },
+  "birth": 1856,
+  "death": 1939,
+  "nationality": {
+    "fr": "Autrichien",
+    "en": "Austrian"
+  },
+  "movements": [],
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

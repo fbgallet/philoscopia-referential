@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "gaudapada",
+  "stub": true,
+  "name": {
+    "fr": "Gauḍapāda",
+    "en": "Gauḍapāda"
+  },
+  "summary": {
+    "fr": "Penseur de l'Advaita <mv id='vedanta'>Vedānta</mv>, prédécesseur de <ph id='shankara'>Śaṅkara</ph>, dont la Kārikā systématisa la non-dualité.",
+    "en": "Advaita <mv id='vedanta'>Vedānta</mv> thinker, a predecessor of <ph id='shankara'>Śaṅkara</ph>, whose Kārikā systematized non-duality."
+  },
+  "nationality": {
+    "fr": "Indien",
+    "en": "Indian"
+  },
+  "movements": [
+    "vedanta"
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

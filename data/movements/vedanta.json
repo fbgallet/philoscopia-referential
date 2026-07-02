@@ -1,0 +1,422 @@
+{
+  "kind": "MOVEMENT",
+  "id": "vedanta",
+  "name": {
+    "fr": "Vedānta (Advaita)",
+    "en": "Vedānta (Advaita)"
+  },
+  "tagline": {
+    "fr": "Le <c id='atman'>Soi (ātman)</c> est identique à l'<c id='brahman'>absolu (brahman)</c> : connaître cette unité, c'est se libérer.",
+    "en": "The <c id='atman'>Self (ātman)</c> is identical to the <c id='brahman'>absolute (brahman)</c>: to know this unity is to be free."
+  },
+  "summary": {
+    "fr": "Le Vedānta (« fin du Veda ») est la grande tradition qui interprète les <w>Upaniṣad</w>, ces textes spéculatifs qui closent le corpus védique, à travers le triple canon (prasthāna-traya) que forment ces <w>Upaniṣad</w>, les <c>Brahma-Sūtra</c> attribués à <ph>Bādarāyaṇa</ph> (vers le IIe siècle) et la <w>Bhagavad-Gītā</w>. Son école la plus influente, l'Advaita (« non-deux »), reçut sa forme systématique de <ph>Gauḍapāda</ph> puis surtout de <ph>Śaṅkara</ph> vers le VIIIe siècle, dans un contexte de débat serré avec le bouddhisme, dont elle reprend des outils tout en le combattant, et avec les écoles réalistes et dualistes (Nyāya, <c>Sāṅkhya</c>, Mīmāṃsā ritualiste). Le problème qu'elle affronte est celui de la <c>saṃsāra</c> et du <c>karman</c> : comment sortir définitivement du cycle des renaissances et de la souffrance qu'il porte. Le Vedānta n'est pas monolithique : aux côtés de l'Advaita non-dualiste se dressent le Viśiṣṭādvaita théiste de Rāmānuja (non-dualisme qualifié) et le Dvaita dualiste de Madhva, qui maintiennent une distinction réelle entre l'âme et Dieu. Porté à l'époque moderne par <per>Vivekananda</per> et le néo-vedānta, il est devenu l'une des matrices de l'hindouisme contemporain et la philosophie indienne la plus reçue en Occident, de <ph id='schopenhauer'>Schopenhauer</ph> aux spiritualités du XXe siècle.",
+    "en": "Vedānta (\"the end of the Veda\") is the great tradition that interprets the <w>Upaniṣads</w>, the speculative texts that close the Vedic corpus, through the threefold canon (prasthāna-traya) formed by those <w>Upaniṣads</w>, the <c>Brahma-Sūtras</c> ascribed to <ph>Bādarāyaṇa</ph> (around the second century) and the <w>Bhagavad-Gītā</w>. Its most influential school, Advaita (\"not-two\"), received its systematic form from <ph>Gauḍapāda</ph> and then above all from <ph>Śaṅkara</ph> around the eighth century, amid a close debate with Buddhism, whose tools it borrows even as it fights it, and with the realist and dualist schools (Nyāya, <c>Sāṅkhya</c>, ritualist Mīmāṃsā). The problem it confronts is that of <c>saṃsāra</c> and <c>karman</c>: how to win final release from the cycle of rebirths and the suffering it carries. Vedānta is not monolithic: alongside non-dualist Advaita stand the theistic Viśiṣṭādvaita of Rāmānuja (qualified non-dualism) and the dualist Dvaita of Madhva, which uphold a real distinction between the soul and God. Carried into the modern era by <per>Vivekananda</per> and the neo-Vedānta, it has become one of the matrices of contemporary Hinduism and the most widely received Indian philosophy in the West, from <ph id='schopenhauer'>Schopenhauer</ph> to twentieth-century spiritualities."
+  },
+  "period": {
+    "from": 700
+  },
+  "keyFigures": [
+    {
+      "slug": "shankara",
+      "name": { "fr": "Śaṅkara", "en": "Śaṅkara" }
+    },
+    {
+      "slug": "gaudapada",
+      "name": { "fr": "Gauḍapāda", "en": "Gauḍapāda" }
+    },
+    {
+      "slug": "badarayana",
+      "name": { "fr": "Bādarāyaṇa", "en": "Bādarāyaṇa" }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.05,
+          0.5,
+          0.45,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'éthique du védânta s'enracine dans le <c>dharma</c>, le devoir propre à chacun selon son ordre et sa place, à accomplir pour lui-même. La <c>Bhagavad-Gita</c> en donne la formule, l'action désintéressée (nishkama karma) : agir sans attachement aux fruits, par devoir et non par calcul. À quoi s'ajoute la culture du détachement et de la connaissance de soi, vertu qui mène à la libération.",
+          "en": "Vedanta's ethics is rooted in <c>dharma</c>, the duty proper to each according to one's order and station, to be fulfilled for its own sake. The <c>Bhagavad Gita</c> gives its formula, disinterested action (nishkama karma): to act without attachment to the fruits, from duty and not from calculation. To which is added the cultivation of detachment and self-knowledge, a virtue leading to liberation."
+        },
+        "references": [
+          {
+            "fr": "Bhagavad-Gita, II-III",
+            "en": "Bhagavad Gita, II-III"
+          },
+          {
+            "fr": "Shankara",
+            "en": "Shankara"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.05,
+          0.25,
+          0.7
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le souverain bien du védânta est la <c>libération</c> (moksha) : l'affranchissement du cycle des renaissances par la connaissance que le Soi (atman) est identique au Brahman. Ce n'est ni un plaisir ni une vertu mondaine, mais la réalisation suprême, félicité (ananda) au-delà de toute satisfaction sensible, qui suppose détachement et discipline spirituelle.",
+          "en": "The highest good of Vedanta is <c>liberation</c> (moksha): release from the cycle of rebirths through the knowledge that the Self (atman) is identical with Brahman. It is neither a pleasure nor a worldly virtue, but the supreme realization, a bliss (ananda) beyond all sensible satisfaction, which presupposes detachment and spiritual discipline."
+        },
+        "references": [
+          {
+            "fr": "Upanishads (Chandogya, Mundaka)",
+            "en": "Upanishads (Chandogya, Mundaka)"
+          },
+          {
+            "fr": "Shankara, Le Joyau de la discrimination",
+            "en": "Shankara, The Crest-Jewel of Discrimination"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Au plan empirique, le moi incarné (jiva) est lié par le <c>karma</c> et enveloppé dans la <c>maya</c> : ses actes portent leurs fruits et le maintiennent dans le cycle des renaissances, un ordre largement déterminé. La vraie liberté n'est donc pas l'autodétermination d'un vouloir, mais la <c>libération</c> (moksha), reconnaissance que le Soi (atman) est identique au Brahman, par-delà l'ordre causal des actes.",
+          "en": "At the empirical level, the embodied self (jiva) is bound by <c>karma</c> and wrapped in <c>maya</c>: its acts bear their fruits and keep it within the cycle of rebirths, a largely determined order. True freedom is therefore not the self-determination of a will, but <c>liberation</c> (moksha), the recognition that the Self (atman) is identical with Brahman, beyond the causal order of acts."
+        },
+        "references": [
+          {
+            "fr": "Shankara, Commentaire des Brahma-sutra",
+            "en": "Shankara, Commentary on the Brahma Sutras"
+          },
+          {
+            "fr": "Upanishads (Katha, Mundaka)",
+            "en": "Upanishads (Katha, Mundaka)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.05, 0.85, 0.1] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le critère du réel, pour l'Advaita, est la permanence : n'est pleinement réel que ce qui ne se dément jamais à travers les états et ne se résorbe en rien d'autre. Or toute chose multiple naît, change et disparaît, et l'expérience de l'éveil dissout le monde du rêve comme la veille dissout l'illusion : la pluralité n'a donc qu'une réalité empirique, dépendante, <c id='maya'>māyā (apparence)</c> superposée par l'<c>avidyā</c> au seul <c id='brahman'>brahman</c> (l'absolu, conscience-être-félicité, sat-cit-ānanda), qui demeure identique. <dif>Contre le dualisme du <c>Sāṅkhya</c>, qui pose deux principes irréductibles, l'esprit (puruṣa) et la nature (prakṛti)</dif>, l'Advaita refuse toute dualité ultime : il n'y a pas deux réels, mais un seul, dont la matière n'est que l'apparaître. Et contre le matérialiste, il objecte que la conscience qui atteste toute chose ne peut elle-même être un objet matériel parmi d'autres.",
+          "en": "The criterion of the real, for Advaita, is permanence: only what is never contradicted across states and resolves into nothing else is fully real. But every plural thing arises, changes and passes, and the experience of waking dissolves the dream-world as waking dissolves illusion: plurality therefore has only an empirical, dependent reality, <c id='maya'>māyā (appearance)</c> superimposed by <c>avidyā</c> upon <c id='brahman'>brahman</c> (the absolute, being-consciousness-bliss, sat-cit-ānanda) alone, which remains self-identical. <dif>Against the dualism of <c>Sāṅkhya</c>, which posits two irreducible principles, spirit (puruṣa) and nature (prakṛti)</dif>, Advaita refuses any ultimate duality: there are not two reals but one, of which matter is only the appearing. And against the materialist it objects that the consciousness which attests every thing cannot itself be one material object among others."
+        },
+        "references": [
+          { "fr": "Śaṅkara, Commentaire des Brahma-Sūtra (Brahma-Sūtra-Bhāṣya), I", "en": "Śaṅkara, Commentary on the Brahma-Sūtras (Brahma-Sūtra-Bhāṣya), I" },
+          { "fr": "Chāndogya Upaniṣad, VI", "en": "Chāndogya Upaniṣad, VI" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [1, 0, 0, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'argument décisif est celui du témoin : tout ce que je peux nier ou objectiver, le corps, les sensations, les pensées qui défilent, je le saisis comme « cela », distinct du « je » qui l'observe ; ce sujet-témoin ne peut donc jamais être réduit à l'objet qu'il éclaire, et la conscience qui rendrait possible son propre néant devrait, pour le constater, subsister. Ce Soi-conscience, condition de toute expérience, est non composé, et ce qui n'est pas composé ne peut se défaire : il est éternel, et son identité au <c id='brahman'>brahman</c> est l'enseignement même des « grandes paroles » des <w>Upaniṣad</w>. <dif>C'est ici que l'Advaita se sépare frontalement du bouddhisme</dif> : là où l'<c id='anatta'>anattā (non-soi)</c> ne voit derrière le flux des agrégats qu'une série impermanente sans sujet, l'Advaita rétorque qu'aucun flux ne saurait apparaître comme flux sans une conscience stable qui le traverse et l'atteste.",
+          "en": "The decisive argument is that of the witness: whatever I can deny or objectify, the body, the sensations, the passing thoughts, I grasp as \"that,\" distinct from the \"I\" that observes it; this witnessing subject can therefore never be reduced to the object it lights up, and the consciousness that would establish its own annihilation would have, in order to observe it, to remain. This Self-consciousness, the condition of all experience, is uncompounded, and what is uncompounded cannot fall apart: it is eternal, and its identity with <c id='brahman'>brahman</c> is the very teaching of the \"great sayings\" of the <w>Upaniṣads</w>. <dif>Here Advaita parts squarely from Buddhism</dif>: where <c id='anatta'>anattā (non-self)</c> sees behind the flux of aggregates only an impermanent series without a subject, Advaita retorts that no flux could appear as a flux without a stable consciousness running through it and attesting to it."
+        },
+        "references": [
+          { "fr": "Bṛhadāraṇyaka Upaniṣad ; Chāndogya Upaniṣad, VI, 8 (tat tvam asi)", "en": "Bṛhadāraṇyaka Upaniṣad; Chāndogya Upaniṣad, VI, 8 (tat tvam asi)" },
+          { "fr": "Śaṅkara, Commentaire des Brahma-Sūtra (Brahma-Sūtra-Bhāṣya)", "en": "Śaṅkara, Commentary on the Brahma-Sūtras (Brahma-Sūtra-Bhāṣya)" }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "Tu es cela.",
+            "en": "Thou art that."
+          },
+          "source": {
+            "fr": "Chāndogya Upaniṣad, VI, 8, 7 (tat tvam asi)",
+            "en": "Chāndogya Upaniṣad, VI, 8, 7 (tat tvam asi)"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.9, 0.1, 0, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si le Soi est déjà <c id='brahman'>brahman</c> et n'est tombé dans la <c>saṃsāra</c> que par méprise, alors la fin de l'existence n'est pas un but à inventer mais une vérité à recouvrer : le sens est inscrit dans la structure du réel, et la vie a pour terme la <c id='moksha'>mokṣa (libération)</c>, retour conscient du Soi à ce qu'il n'a jamais cessé d'être. Cette téléologie spirituelle se démarque sur deux fronts : contre l'absurdité d'une existence sans direction, elle pose une fin objective ; mais contre la ritualisme de la Mīmāṃsā, qui faisait du sens l'accomplissement correct des actes védiques en vue de fruits futurs, elle objecte qu'aucune action, par nature productrice de fruits et donc de nouveau <c>karman</c>, ne peut libérer : seule le peut la connaissance de ce qui est déjà accompli.",
+          "en": "If the Self is already <c id='brahman'>brahman</c> and has fallen into <c>saṃsāra</c> only through error, then the end of existence is not a goal to be invented but a truth to be recovered: meaning is inscribed in the structure of the real, and life has for its term <c id='moksha'>mokṣa (liberation)</c>, the conscious return of the Self to what it has never ceased to be. This spiritual teleology marks itself off on two fronts: against the absurdity of an existence without direction, it posits an objective end; but against the ritualism of Mīmāṃsā, which made meaning the correct performance of Vedic acts for the sake of future fruits, it objects that no action, by nature productive of fruits and so of fresh <c>karman</c>, can liberate: only the knowledge of what is already accomplished can."
+        },
+        "references": [
+          { "fr": "Śaṅkara, Commentaire des Brahma-Sūtra (Brahma-Sūtra-Bhāṣya), I, 1, 4", "en": "Śaṅkara, Commentary on the Brahma-Sūtras (Brahma-Sūtra-Bhāṣya), I, 1, 4" },
+          { "fr": "Kaṭha Upaniṣad", "en": "Kaṭha Upaniṣad" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 0.1, 0.9] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La voie de la connaissance suppose le détachement (vairāgya) : tant que le sujet désire les objets du monde empirique, il reste pris dans la <c id='maya'>māyā (apparence)</c> et dans l'identification au corps et au mental. L'Advaita prescrit le renoncement (saṃnyāsa) et la discrimination (viveka) entre l'éternel et le périssable, afin de tourner le désir vers la seule libération. Le désir des choses extérieures est à éteindre.",
+          "en": "The path of knowledge presupposes detachment (vairāgya): so long as the subject desires the objects of the empirical world, it remains caught in <c id='maya'>māyā (appearance)</c> and in identification with body and mind. Advaita prescribes renunciation (saṃnyāsa) and discrimination (viveka) between the eternal and the perishable, so as to turn desire toward liberation alone. Desire for external things is to be extinguished."
+        },
+        "references": [
+          { "fr": "Śaṅkara (attribué), Vivekacūḍāmaṇi", "en": "Śaṅkara (attributed), Vivekacūḍāmaṇi" },
+          { "fr": "Kaṭha Upaniṣad, I, 2-3", "en": "Kaṭha Upaniṣad, I, 2-3" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.7 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La souffrance, pour l'Advaita, n'a pas sa source dans l'être mais dans une erreur de connaissance, l'<c>avidyā</c> : c'est la superposition (adhyāsa) qui fait prendre le Soi pour le corps et l'apparence pour le réel, comme on voit un serpent là où il n'y a qu'une corde. <dif>Or une illusion ne se rachète pas, elle se dissipe</dif> : dès que la corde est reconnue, la peur du serpent s'évanouit sans laisser de trace, et nul acte ni mérite n'a été requis. C'est pourquoi l'Advaita rejette la voie où la souffrance serait féconde ou rédemptrice : puisque sa cause est cognitive, seule la connaissance libératrice (jñāna) l'abolit à la racine, et non l'épreuve endurée ni l'œuvre accomplie.",
+          "en": "Suffering, for Advaita, has its source not in being but in an error of knowledge, <c>avidyā</c>: it is the superimposition (adhyāsa) that takes the Self for the body and the appearance for the real, as one sees a snake where there is only a rope. <dif>But an illusion is not redeemed, it is dispelled</dif>: the moment the rope is recognized, the fear of the snake vanishes without a trace, and no act or merit was needed. This is why Advaita rejects the path on which suffering would be fruitful or redemptive: since its cause is cognitive, only liberating knowledge (jñāna) abolishes it at the root, not endured hardship nor accomplished work."
+        },
+        "references": [
+          { "fr": "Śaṅkara, Commentaire des Brahma-Sūtra (Brahma-Sūtra-Bhāṣya), introduction (adhyāsa)", "en": "Śaṅkara, Commentary on the Brahma-Sūtras (Brahma-Sūtra-Bhāṣya), introduction (adhyāsa)" },
+          { "fr": "Gauḍapāda, Māṇḍūkya-Kārikā", "en": "Gauḍapāda, Māṇḍūkya-Kārikā" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.7 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'Advaita est dogmatique au sens où il tient pour certaine une vérité libératrice définitive : l'identité du <c id='atman'>ātman (le Soi)</c> et du <c id='brahman'>brahman</c>, attestée par l'écriture (śruti) et confirmée par la réalisation directe. Loin de tout <c id='skepticism'>scepticisme</c>, la connaissance qui libère est tenue pour indubitable et sans retour, car elle coïncide avec la nature même du sujet connaissant.",
+          "en": "Advaita is dogmatic in the sense that it holds a final liberating truth to be certain: the identity of the <c id='atman'>ātman (the Self)</c> and <c id='brahman'>brahman</c>, attested by scripture (śruti) and confirmed by direct realization. Far from any <c id='skepticism'>skepticism</c>, the knowledge that liberates is held to be indubitable and irreversible, since it coincides with the very nature of the knowing subject."
+        },
+        "references": [
+          { "fr": "Śaṅkara, Commentaire des Brahma-Sūtra (Brahma-Sūtra-Bhāṣya), I", "en": "Śaṅkara, Commentary on the Brahma-Sūtras (Brahma-Sūtra-Bhāṣya), I" },
+          { "fr": "Muṇḍaka Upaniṣad", "en": "Muṇḍaka Upaniṣad" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.85 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'identité de chacun n'est pas à construire par ses choix : elle est une essence donnée et éternelle, le <c id='atman'>ātman (le Soi)</c>, qui précède toute existence et toute action. L'itinéraire spirituel ne crée rien, il dévoile ce qui est déjà : devenir soi, c'est reconnaître l'essence intemporelle que l'<c>avidyā (ignorance)</c> masquait. C'est un essentialisme radical.",
+          "en": "One's identity is not to be constructed through one's choices: it is a given, eternal essence, the <c id='atman'>ātman (the Self)</c>, which precedes all existence and all action. The spiritual path creates nothing, it unveils what already is: to become oneself is to recognize the timeless essence that <c>avidyā (ignorance)</c> had concealed. This is a radical essentialism."
+        },
+        "references": [
+          { "fr": "Bṛhadāraṇyaka Upaniṣad, IV", "en": "Bṛhadāraṇyaka Upaniṣad, IV" },
+          { "fr": "Śaṅkara, Commentaire des Brahma-Sūtra (Brahma-Sūtra-Bhāṣya)", "en": "Śaṅkara, Commentary on the Brahma-Sūtras (Brahma-Sūtra-Bhāṣya)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.85 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La voie advaitique est tout entière tournée vers l'intériorité : la libération se joue dans la connaissance de soi, par l'écoute de l'enseignement (śravaṇa), la réflexion (manana) et la méditation profonde (nididhyāsana). Ce n'est pas dans l'action sur le monde, mais dans le retour réflexif sur le sujet connaissant que se dévoile l'absolu. La vie examinée, jusqu'à la racine du « je », prime sur l'agir extérieur.",
+          "en": "The Advaitic path is wholly turned toward interiority: liberation is decided in self-knowledge, through hearing the teaching (śravaṇa), reflection (manana) and deep meditation (nididhyāsana). It is not in action upon the world but in the reflexive turn upon the knowing subject that the absolute is disclosed. The examined life, down to the root of the \"I,\" takes precedence over outward action."
+        },
+        "references": [
+          { "fr": "Śaṅkara (attribué), Vivekacūḍāmaṇi", "en": "Śaṅkara (attributed), Vivekacūḍāmaṇi" },
+          { "fr": "Bṛhadāraṇyaka Upaniṣad, II, 4, 5", "en": "Bṛhadāraṇyaka Upaniṣad, II, 4, 5" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.6 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Comme la servitude tient à une erreur cognitive, la <c>avidyā (ignorance)</c>, c'est le savoir, et non la culture des sentiments, qui transforme le sujet. Les émotions et l'attachement sont des effets de la fausse identification au corps et au mental, que la discrimination (viveka) entre le réel et l'apparent vient corriger. Le ressort de la libération est intellectuel, ce qui incline vers l'intellectualisme.",
+          "en": "Since bondage rests on a cognitive error, <c>avidyā (ignorance)</c>, it is knowledge, not the cultivation of feeling, that transforms the subject. Emotions and attachment are effects of the false identification with body and mind, which discrimination (viveka) between the real and the apparent comes to correct. The lever of liberation is intellectual, which inclines toward intellectualism."
+        },
+        "references": [
+          { "fr": "Śaṅkara (attribué), Vivekacūḍāmaṇi", "en": "Śaṅkara (attributed), Vivekacūḍāmaṇi" },
+          { "fr": "Śaṅkara, Commentaire des Brahma-Sūtra (Brahma-Sūtra-Bhāṣya)", "en": "Śaṅkara, Commentary on the Brahma-Sūtras (Brahma-Sūtra-Bhāṣya)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.45 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "<dif>Le statut du <c id='brahman'>brahman</c> est délicat à situer</dif> : il est à la fois le fondement immanent de tout ce qui apparaît et l'absolu qui transcende toute détermination, au-delà des noms et des formes (nirguṇa). Le monde n'a pas d'être propre séparé de lui, ce qui interdit un arrière-monde au sens dualiste, mais le réel ultime excède radicalement l'ordre des apparences. La position penche vers la <c id='transcendence'>transcendance</c>, tempérée par une non-dualité où l'absolu n'est pas non plus simplement <c id='immanence'>immanent</c> au monde.",
+          "en": "<dif>The status of <c id='brahman'>brahman</c> is delicate to place</dif>: it is at once the immanent ground of all that appears and the absolute that transcends every determination, beyond names and forms (nirguṇa). The world has no being of its own apart from it, which rules out a dualist world-beyond, yet the ultimate real radically exceeds the order of appearances. The stance leans toward <c id='transcendence'>transcendence</c>, tempered by a non-duality in which the absolute is not simply <c id='immanence'>immanent</c> to the world either."
+        },
+        "references": [
+          { "fr": "Māṇḍūkya Upaniṣad ; Gauḍapāda, Māṇḍūkya-Kārikā", "en": "Māṇḍūkya Upaniṣad; Gauḍapāda, Māṇḍūkya-Kārikā" },
+          { "fr": "Śaṅkara, Commentaire des Brahma-Sūtra (Brahma-Sūtra-Bhāṣya)", "en": "Śaṅkara, Commentary on the Brahma-Sūtras (Brahma-Sūtra-Bhāṣya)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.5 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Un absolu qui est conscience-être-félicité sans seconde ne peut, à la rigueur, recevoir aucune détermination : le qualifier (« créateur », « bon », « personnel »), c'est l'opposer à autre chose, donc le limiter. L'Advaita en tire la distinction décisive de deux registres : sur le plan <c>ultime (pāramārthika)</c>, l'absolu est sans attributs (nirguṇa <c id='brahman'>brahman</c>), au-delà de toute qualification ; sur le plan <c>conventionnel (vyāvahārika)</c>, ce même absolu, vu à travers la <c id='maya'>māyā</c>, se présente comme un Dieu personnel et créateur (saguṇa brahman, Īśvara), objet légitime de dévotion. Ce n'est donc ni l'athéisme, qui nierait l'absolu, ni le théisme personnel classique, qui en ferait le terme dernier : contre Rāmānuja et les écoles dévotionnelles, l'Advaita subordonne le Dieu personnel à un absolu impersonnel dont il n'est que la figure conventionnelle.",
+          "en": "An absolute that is being-consciousness-bliss without a second can, strictly, receive no determination: to qualify it (\"creator,\" \"good,\" \"personal\") is to set it against something else, hence to limit it. From this Advaita draws its decisive distinction of two registers: on the <c>ultimate plane (pāramārthika)</c>, the absolute is without attributes (nirguṇa <c id='brahman'>brahman</c>), beyond all qualification; on the <c>conventional plane (vyāvahārika)</c>, that same absolute, seen through <c id='maya'>māyā</c>, appears as a personal, creator God (saguṇa brahman, Īśvara), a legitimate object of devotion. This is therefore neither atheism, which would deny the absolute, nor classical personal theism, which would make it the final term: against Rāmānuja and the devotional schools, Advaita subordinates the personal God to an impersonal absolute of which it is only the conventional figure."
+        },
+        "references": [
+          { "fr": "Śaṅkara, Commentaire des Brahma-Sūtra (Brahma-Sūtra-Bhāṣya), I, 1", "en": "Śaṅkara, Commentary on the Brahma-Sūtras (Brahma-Sūtra-Bhāṣya), I, 1" },
+          { "fr": "Māṇḍūkya Upaniṣad", "en": "Māṇḍūkya Upaniṣad" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TRUTH_NATURE",
+      "status": "NOT_APPLICABLE",
+      "note": {
+        "fr": "L'apport décisif de l'Advaita en matière de vérité n'est pas une théorie de ce qui rend un énoncé vrai (correspondance, cohérence ou efficacité), mais une stratification en deux niveaux : la vérité <c>conventionnelle (vyāvahārika)</c>, valable pour l'expérience ordinaire dans la <c id='maya'>māyā (apparence)</c>, et la vérité <c>ultime (pāramārthika)</c>, celle de l'absolu non-duel. Cette structure à <c id='two-truths'>deux vérités</c>, voisine de celle du bouddhisme, ne se laisse pas réduire aux trois pôles de cet axe.",
+        "en": "Advaita's decisive contribution on truth is not a theory of what makes a statement true (correspondence, coherence or success), but a stratification into two levels: <c>conventional truth (vyāvahārika)</c>, valid for ordinary experience within <c id='maya'>māyā (appearance)</c>, and <c>ultimate truth (pāramārthika)</c>, that of the non-dual absolute. This <c id='two-truths'>two-truths</c> structure, kin to that of Buddhism, cannot be reduced to the three poles of this axis."
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "CONTEXTUALIST",
+      "note": {
+        "fr": "La connaissance qui libère ne relève ni de l'empirisme ni du rationalisme pur tels que les oppose cet axe : son moyen propre (pramāṇa) est l'écriture révélée (śruti, les <w>Upaniṣad</w>), car l'identité du Soi et de l'absolu ne peut être ni perçue par les sens ni démontrée par la seule raison. La raison y a un rôle subordonné, écarter les objections et interpréter le texte, et l'aboutissement est une réalisation directe. Le couple empirisme/rationalisme ne capture donc pas cette épistémologie scripturaire et réalisatrice.",
+        "en": "The knowledge that liberates falls under neither empiricism nor pure rationalism as this axis opposes them: its proper means (pramāṇa) is revealed scripture (śruti, the <w>Upaniṣads</w>), since the identity of the Self and the absolute can be neither perceived by the senses nor demonstrated by reason alone. Reason plays a subordinate role, removing objections and interpreting the text, and the outcome is a direct realization. The empiricism/rationalism pair therefore fails to capture this scriptural and realizational epistemology."
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.2,
+          0.2,
+          0.6,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Pour le védânta, le Soi (atman) est éternel et ne meurt pas : la mort n'atteint que le corps et la personne empirique, tandis que l'atman transmigre de vie en vie selon le karma. C'est donc d'abord un immortalisme (le Soi survit, indestructible), doublé d'un passage (la mort n'est qu'une étape) et d'une préparation (bien mourir oriente la suite), jusqu'à la <c>libération</c> (moksha) qui dissout la transmigration elle-même.",
+          "en": "For Vedanta, the Self (atman) is eternal and does not die: death reaches only the body and the empirical person, while the atman transmigrates from life to life according to karma. It is therefore first an immortalism (the Self survives, indestructible), coupled with a passage (death is but a stage) and a preparation (dying well orients what follows), until the <c>liberation</c> (moksha) that dissolves transmigration itself."
+        },
+        "references": [
+          {
+            "fr": "Bhagavad-Gita, II",
+            "en": "Bhagavad Gita, II"
+          },
+          {
+            "fr": "Katha Upanishad",
+            "en": "Katha Upanishad"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "REALITY_NATURE",
+      "thesis": {
+        "fr": "Seul le <c id='brahman'>brahman</c>, conscience pure, est réel ; la pluralité du monde n'est que <c id='maya'>māyā</c>, apparence superposée à l'absolu un.",
+        "en": "Only <c id='brahman'>brahman</c>, pure consciousness, is real; the plurality of the world is mere <c id='maya'>māyā</c>, appearance superimposed on the one absolute."
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "thesis": {
+        "fr": "Le <c id='atman'>Soi (ātman)</c> est identique au <c id='brahman'>brahman</c> : « tu es cela » (tat tvam asi), et nul flux d'agrégats ne saurait apparaître sans ce témoin permanent.",
+        "en": "The <c id='atman'>Self (ātman)</c> is identical with <c id='brahman'>brahman</c>: \"thou art that\" (tat tvam asi), and no flux of aggregates could appear without this permanent witness."
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "thesis": {
+        "fr": "L'absolu ultime est sans attributs (nirguṇa) ; le Dieu personnel créateur n'en est que la figure <c>conventionnelle (vyāvahārika)</c>, vue à travers la <c id='maya'>māyā</c>.",
+        "en": "The ultimate absolute is without attributes (nirguṇa); the personal creator God is only its <c>conventional (vyāvahārika)</c> figure, seen through <c id='maya'>māyā</c>."
+      }
+    },
+    {
+      "axisId": "SUFFERING_MEANING",
+      "thesis": {
+        "fr": "La souffrance procède d'une erreur de connaissance, non de l'être : comme la peur d'un serpent qui n'était qu'une corde, elle se dissipe, elle ne se rachète pas.",
+        "en": "Suffering arises from an error of knowledge, not from being: like the fear of a snake that was only a rope, it is dispelled, not redeemed."
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "thesis": {
+        "fr": "La fin de la vie est la <c id='moksha'>mokṣa</c> : non un but à construire mais le retour conscient du Soi à ce qu'il a toujours été, par la connaissance et non par l'acte.",
+        "en": "The end of life is <c id='moksha'>mokṣa</c>: not a goal to be built but the conscious return of the Self to what it has always been, through knowledge and not through act."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

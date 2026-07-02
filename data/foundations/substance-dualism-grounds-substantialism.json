@@ -1,0 +1,12 @@
+{
+  "id": "substance-dualism-grounds-substantialism",
+  "ground": { "axisId": "CONSCIOUSNESS_NATURE", "poleId": "SUBSTANCE_DUALISM" },
+  "grounded": { "axisId": "SELF_NATURE", "poleId": "SUBSTANTIALISM" },
+  "kind": "T_T",
+  "strength": "STRONG",
+  "explanation": {
+    "fr": "Si l'esprit est une substance distincte du corps, le moi qui dit « je » est cette chose pensante, identique à elle-même sous le flux des expériences. Le dualisme des substances fonde le substantialisme : l'<c id='personal-identity'>identité personnelle</c> repose sur la permanence de l'âme, et non sur la mémoire ou le récit. C'est la position de <ph id='descartes'>Descartes</ph>.",
+    "en": "If the mind is a substance distinct from the body, the self that says \"I\" is this thinking thing, identical to itself beneath the flow of experiences. Substance dualism grounds substantialism: <c id='personal-identity'>personal identity</c> rests on the permanence of the soul, not on memory or narrative. This is <ph id='descartes'>Descartes</ph>' position."
+  },
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

@@ -1,0 +1,248 @@
+{
+  "id": "FORGIVENESS",
+  "relation": "OTHERS",
+  "territory": "BONDS",
+  "label": {
+    "fr": "Pardon",
+    "en": "Forgiveness"
+  },
+  "question": {
+    "fr": "Le pardon doit-il être inconditionnel, ou dépend-il du repentir du coupable ?",
+    "en": "Should forgiveness be unconditional, or does it depend on the wrongdoer's repentance?"
+  },
+  "stakes": {
+    "fr": "Pardonner sans condition peut libérer la victime, mais semble effacer la faute et n'exiger rien du coupable ; le réserver au repentir préserve la justice, mais enchaîne celui qui a souffert au remords de l'autre. Se positionner, c'est dire si le pardon est un don qu'on se fait à soi-même ou une dette que le coupable doit d'abord racheter.",
+    "en": "Forgiving without condition can free the victim, but seems to wipe away the wrong and ask nothing of the offender; reserving it for repentance preserves justice, but chains the one who suffered to the other's remorse. To take a position is to say whether forgiveness is a gift one grants oneself or a debt the guilty must first redeem."
+  },
+  "layer": "VALUE",
+  "type": "BIPOLAR",
+  "poles": [
+    {
+      "id": "UNCONDITIONALISM",
+      "label": {
+        "fr": "Inconditionnalisme",
+        "en": "Unconditionalism"
+      },
+      "description": {
+        "fr": "Le pardon véritable ne pardonne que l'impardonnable : s'il exige des excuses, une réparation ou un repentir, il n'est plus qu'un échange. Le pardon authentique est un don gratuit, sans condition, qui excède toute logique de mérite.",
+        "en": "True forgiveness forgives only the unforgivable: if it requires apologies, reparation, or repentance, it is merely a transaction. Genuine forgiveness is a free, unconditional gift that exceeds any logic of desert."
+      },
+      "figures": [
+        {
+          "slug": "derrida",
+          "name": {
+            "fr": "Derrida",
+            "en": "Derrida"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CONDITIONALISM",
+      "label": {
+        "fr": "Conditionnalisme",
+        "en": "Conditionalism"
+      },
+      "description": {
+        "fr": "Le pardon suppose que le coupable reconnaisse sa faute et la regrette : pardonner à qui ne demande rien, c'est trahir les victimes et banaliser le mal. Certains crimes, restés sans repentir, demeurent impardonnables.",
+        "en": "Forgiveness presupposes that the wrongdoer acknowledges and regrets their fault: forgiving someone who asks for nothing betrays the victims and trivializes the wrong. Some crimes, met with no repentance, remain unforgivable."
+      },
+      "figures": [
+        {
+          "slug": "jankelevitch",
+          "name": {
+            "fr": "Jankélévitch",
+            "en": "Jankélévitch"
+          }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 1,
+  "clusters": [],
+  "relatedAxes": [
+    "PAST_RELATION",
+    "PUNISHMENT",
+    "MORAL_DEMAND"
+  ],
+  "problems": [
+    {
+      "id": "the-unforgivable",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "la faute", "en": "the wrong" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "irrémissible", "en": "irremissible" },
+        { "fr": "atrocité", "en": "atrocity" },
+        { "fr": "imprescriptible", "en": "imprescriptible" },
+        { "fr": "monstrueux", "en": "monstrous" }
+      ],
+      "sphere": "MORAL",
+      "poles": ["CONDITIONALISM"],
+      "anchors": [{ "name": { "fr": "Jankélévitch", "en": "Jankélévitch" }, "kind": "PHILOSOPHER", "slug": "jankelevitch" }],
+      "title": { "fr": "Y a-t-il de l'impardonnable ?", "en": "Is there anything unforgivable?" },
+      "explicitation": { "fr": "Certaines fautes, certains crimes sont-ils trop grands pour être un jour pardonnés, ou rien n'est-il par principe au-delà du pardon ?", "en": "Are some wrongs, some crimes too great ever to be forgiven, or is nothing in principle beyond forgiveness?" }
+    },
+    {
+      "id": "forgiving-in-the-victims-place",
+      "resolution": "SURFACED",
+      "object": "RELATION",
+      "objectLabel": { "fr": "le pardon", "en": "forgiveness" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "qualité pour agir", "en": "standing to forgive" },
+        { "fr": "tiers", "en": "third party" },
+        { "fr": "légitimité", "en": "legitimacy" },
+        { "fr": "représentation", "en": "representation" }
+      ],
+      "sphere": "MORAL",
+      "title": { "fr": "Pardonner à la place des victimes ?", "en": "Forgiving in the victims' place?" },
+      "explicitation": { "fr": "A-t-on le droit de pardonner un tort fait à un autre, ou seule la victime peut-elle pardonner, de sorte que pardonner en son nom serait une usurpation ?", "en": "Does one have the right to forgive a wrong done to another, or can only the victim forgive, so that forgiving in their name would be a usurpation?" },
+      "ref": { "kind": "THOUGHT_EXPERIMENT", "id": "wiesenthal-sunflower" }
+    },
+    {
+      "id": "separate-person-from-deed",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "le coupable", "en": "the wrongdoer" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "haïr le péché non le pécheur", "en": "hate the sin, not the sinner" },
+        { "fr": "condamnation", "en": "condemnation" },
+        { "fr": "dignité", "en": "dignity" }
+      ],
+      "sphere": "MORAL",
+      "poles": ["UNCONDITIONALISM"],
+      "anchors": [
+        { "name": { "fr": "la tradition chrétienne", "en": "the Christian tradition" }, "kind": "TRADITION" },
+        { "name": { "fr": "Arendt", "en": "Arendt" }, "kind": "PHILOSOPHER", "slug": "arendt" }
+      ],
+      "title": { "fr": "La personne et l'acte", "en": "The person and the deed" },
+      "explicitation": { "fr": "Pardonner, est-ce distinguer le coupable de sa faute pour l'accueillir par-delà ce qu'il a commis, ou est-ce excuser l'acte lui-même et trahir ceux qui en ont souffert ?", "en": "Is forgiving to distinguish the wrongdoer from their wrong, in order to receive them beyond what they did, or is it to excuse the deed itself and betray those who suffered from it?" }
+    },
+    {
+      "id": "self-forgiveness",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "soi-même", "en": "oneself" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "remords", "en": "remorse" },
+        { "fr": "amour-propre", "en": "self-regard" },
+        { "fr": "réparation morale", "en": "moral repair" },
+        { "fr": "auto-indulgence", "en": "self-indulgence" }
+      ],
+      "sphere": "MORAL",
+      "anchors": [
+        { "name": { "fr": "Murphy", "en": "Murphy" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "Holmgren", "en": "Holmgren" }, "kind": "PHILOSOPHER" }
+      ],
+      "title": { "fr": "Se pardonner à soi-même ?", "en": "Forgiving oneself?" },
+      "explicitation": { "fr": "Peut-on, et doit-on, se pardonner à soi-même, ou n'est-ce qu'une manière de s'excuser et d'échapper à la culpabilité qu'on mérite ?", "en": "Can one, and should one, forgive oneself, or is it merely a way of excusing oneself and escaping the guilt one deserves?" }
+    },
+    {
+      "id": "forgiving-is-not-excusing",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "le pardon", "en": "forgiveness" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "ressentiment", "en": "resentment" },
+        { "fr": "complaisance", "en": "condoning" },
+        { "fr": "minimisation", "en": "downplaying" },
+        { "fr": "acquittement", "en": "letting off" }
+      ],
+      "sphere": "MORAL",
+      "anchors": [
+        { "name": { "fr": "Arendt", "en": "Arendt" }, "kind": "PHILOSOPHER", "slug": "arendt" },
+        { "name": { "fr": "Griswold", "en": "Griswold" }, "kind": "PHILOSOPHER", "slug": "griswold" }
+      ],
+      "title": { "fr": "Pardonner, excuser, oublier", "en": "Forgiving, excusing, forgetting" },
+      "explicitation": { "fr": "Le pardon se distingue d'excuser, d'oublier ou de tolérer : en reste-t-il un une fois qu'on a retiré tout ce qui n'est qu'effacement de la faute ?", "en": "Forgiveness differs from excusing, forgetting, or condoning: does any of it remain once we have stripped away everything that is merely an erasing of the wrong?" }
+    },
+    {
+      "id": "forgiveness-and-the-irreversible",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "l'irréversible", "en": "the irreversible" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "remède au passé", "en": "remedy for the past" },
+        { "fr": "délivrance", "en": "release" },
+        { "fr": "recommencement", "en": "new beginning" }
+      ],
+      "sphere": "MORAL",
+      "anchors": [{ "name": { "fr": "Arendt", "en": "Arendt" }, "kind": "PHILOSOPHER", "slug": "arendt" }],
+      "doorways": [{ "axis": "PAST_RELATION" }],
+      "title": { "fr": "Défaire l'irréparable", "en": "Undoing the irreparable" },
+      "explicitation": { "fr": "Ce qui est fait ne peut être défait : le pardon est-il le seul pouvoir qui nous délivre de l'irréversible, en nous libérant du poids de ce qui a eu lieu ?", "en": "What is done cannot be undone: is forgiveness the only power that releases us from the irreversible, freeing us from the weight of what took place?" }
+    },
+    {
+      "id": "justice-or-mercy",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "la peine méritée", "en": "the deserved punishment" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "clémence", "en": "clemency" },
+        { "fr": "châtiment", "en": "punishment" },
+        { "fr": "rétribution", "en": "retribution" },
+        { "fr": "amnistie", "en": "amnesty" }
+      ],
+      "sphere": "MORAL",
+      "doorways": [{ "axis": "PUNISHMENT" }],
+      "title": { "fr": "Justice ou miséricorde", "en": "Justice or mercy" },
+      "explicitation": { "fr": "Pardonner, est-ce renoncer à la justice et laisser le mal impuni, ou la justice et le pardon visent-ils deux choses différentes, qui peuvent coexister ?", "en": "Is forgiving to give up on justice and leave the wrong unpunished, or do justice and forgiveness aim at two different things that can coexist?" }
+    },
+    {
+      "id": "political-forgiveness",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "la communauté", "en": "the community" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "justice transitionnelle", "en": "transitional justice" },
+        { "fr": "mémoire collective", "en": "collective memory" },
+        { "fr": "crimes de masse", "en": "mass atrocities" },
+        { "fr": "Mandela", "en": "Mandela" }
+      ],
+      "sphere": "POLITICAL",
+      "anchors": [{ "name": { "fr": "les commissions Vérité et Réconciliation", "en": "the Truth and Reconciliation commissions" }, "kind": "TRADITION" }],
+      "doorways": [{ "axis": "PUNISHMENT" }],
+      "title": { "fr": "Le pardon des peuples", "en": "The forgiveness of peoples" },
+      "explicitation": { "fr": "Une nation peut-elle pardonner, par l'amnistie ou la réconciliation, les crimes commis en son sein, ou le pardon n'a-t-il de sens qu'entre les personnes qui ont vécu le tort ?", "en": "Can a nation forgive, through amnesty or reconciliation, the crimes committed within it, or does forgiveness make sense only between the persons who lived through the wrong?" }
+    },
+    {
+      "id": "owed-or-supererogatory",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "le pardon", "en": "forgiveness" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "surérogation", "en": "supererogation" },
+        { "fr": "repentir", "en": "repentance" },
+        { "fr": "magnanimité", "en": "magnanimity" },
+        { "fr": "exigence morale", "en": "moral demand" }
+      ],
+      "sphere": "MORAL",
+      "anchors": [
+        { "name": { "fr": "Joseph Butler", "en": "Joseph Butler" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "Griswold", "en": "Griswold" }, "kind": "PHILOSOPHER", "slug": "griswold" }
+      ],
+      "doorways": [{ "axis": "MORAL_DEMAND" }],
+      "title": { "fr": "Un devoir ou un surcroît ?", "en": "A duty, or something more?" },
+      "explicitation": { "fr": "Doit-on le pardon, comme une obligation envers qui se repent, ou est-il un don gratuit, au-delà du devoir, qu'on ne saurait exiger de personne ?", "en": "Is forgiveness owed, as an obligation toward the one who repents, or is it a free gift, beyond duty, that can be demanded of no one?" }
+    }
+  ]
+}

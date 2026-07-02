@@ -1,0 +1,16 @@
+{
+  "id": "badarayana-to-shankara",
+  "from": { "kind": "PHILOSOPHER", "slug": "badarayana" },
+  "to": { "kind": "PHILOSOPHER", "slug": "shankara" },
+  "directness": "ATTESTED",
+  "mode": "TRANSMITS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Les <w id='brahma-sutras-badarayana'>Brahma Sūtra</w> de <ph id='badarayana'>Bādarāyaṇa</ph> sont le texte de base que <ph id='shankara'>Śaṅkara</ph> commente : il les transmet en les lisant de façon non duelle (son Brahma-sūtra-bhāṣya), fondant l'<mv id='vedanta'>Advaita</mv> sur cette autorité et y ancrant l'identité de l'âme et du <c id='brahman'>brahman</c>.",
+    "en": "<ph id='badarayana'>Bādarāyaṇa</ph>'s <w id='brahma-sutras-badarayana'>Brahma Sūtras</w> are the base text that <ph id='shankara'>Śaṅkara</ph> comments on: he transmits them by reading them non-dualistically (his Brahma Sūtra Bhāṣya), grounding <mv id='vedanta'>Advaita</mv> on that authority and anchoring there the identity of the self and <c id='brahman'>brahman</c>."
+  },
+  "sources": [
+    { "fr": "Śaṅkara, Brahma-sūtra-bhāṣya (Commentaire des Brahma-sūtra)", "en": "Śaṅkara, Brahma Sūtra Bhāṣya (Commentary on the Brahma Sūtras)" }
+  ],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "aphasia",
+  "term": { "fr": "L'aphasie (le non-affirmer)", "en": "Aphasia (non-assertion)" },
+  "definition": {
+    "fr": "L'aphasie est le « ne rien dire » du sceptique : <ety>du grec a- privatif et phasis, l'affirmation</ety>, elle désigne le fait de ne proférer aucune assertion sur ce qui n'est pas évident. Elle est le versant verbal de la <c id='epoche'>suspension du jugement</c> : devant des raisons d'égale force (<c id='isostheneia'>isosthéneia</c>), le sceptique ne se tait pas tout à fait, mais il s'abstient de poser que les choses sont ainsi plutôt qu'autrement. Ses propres formules, « pas plus ceci que cela », se disent elles-mêmes sans prétention au vrai, comme un purgatif qui s'élimine avec ce qu'il chasse.",
+    "en": "Aphasia is the sceptic's \"saying nothing\": <ety>from the Greek a- privative and phasis, assertion</ety>, it names the refusal to utter any assertion about what is not evident. It is the verbal side of <c id='epoche'>suspension of judgment</c>: faced with reasons of equal strength (<c id='isostheneia'>isostheneia</c>), the sceptic does not fall entirely silent, but he abstains from positing that things are thus rather than otherwise. His own formulas, \"no more this than that\", are themselves uttered with no claim to truth, like a purge that is voided along with what it expels."
+  },
+  "relatedAxes": ["CERTAINTY"],
+  "relatedTerms": ["epoche", "isostheneia", "skepticism"],
+  "positions": [{ "axisId": "CERTAINTY", "poleId": "SKEPTICISM" }],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

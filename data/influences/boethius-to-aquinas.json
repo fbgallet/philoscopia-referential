@@ -1,0 +1,16 @@
+{
+  "id": "boethius-to-aquinas",
+  "from": { "kind": "PHILOSOPHER", "slug": "boethius" },
+  "to": { "kind": "PHILOSOPHER", "slug": "aquinas" },
+  "directness": "ATTESTED",
+  "mode": "TRANSMITS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='boethius'>Boèce</ph> transmet au monde latin le vocabulaire logique et métaphysique (personne, nature, éternité) et la méthode des opuscules théologiques que <ph id='aquinas'>Thomas</ph> reprend et commente.",
+    "en": "<ph id='boethius'>Boethius</ph> hands the Latin world its logical and metaphysical vocabulary (person, nature, eternity) and the method of the theological tractates that <ph id='aquinas'>Aquinas</ph> takes up and comments on."
+  },
+  "sources": [
+    { "fr": "Boèce, Opuscula sacra ; La Consolation de Philosophie", "en": "Boethius, Opuscula sacra; The Consolation of Philosophy" }
+  ],
+  "updatedAt": "2026-07-02T00:00:00.000Z"
+}

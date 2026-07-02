@@ -1,0 +1,17 @@
+{
+  "id": "locke-to-enlightenment",
+  "from": { "kind": "PHILOSOPHER", "slug": "locke" },
+  "to": { "kind": "MOVEMENT", "slug": "enlightenment" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "L'<w id='essay-concerning-human-understanding-locke'>Essai</w> de <ph id='locke'>Locke</ph> donne aux philosophes leur épistémologie, la <c id='tabula-rasa'>table rase</c> et la critique des idées innées ; ses <w id='two-treatises-of-government-locke'>Deux traités</w> et sa <w id='letter-concerning-toleration-locke'>Lettre sur la tolérance</w> leur fournissent les droits naturels, le gouvernement par consentement et la <c id='tolerance'>tolérance</c>. <ph id='voltaire'>Voltaire</ph> le célèbre dès les Lettres philosophiques comme le modèle du sage anglais.",
+    "en": "<ph id='locke'>Locke</ph>'s <w id='essay-concerning-human-understanding-locke'>Essay</w> gives the philosophes their epistemology, the <c id='tabula-rasa'>blank slate</c> and the critique of innate ideas; his <w id='two-treatises-of-government-locke'>Two Treatises</w> and <w id='letter-concerning-toleration-locke'>Letter Concerning Toleration</w> supply them with natural rights, government by consent and <c id='tolerance'>tolerance</c>. <ph id='voltaire'>Voltaire</ph> hails him from the Philosophical Letters onward as the model of the English sage."
+  },
+  "sources": [
+    { "fr": "Voltaire, Lettres philosophiques (1734)", "en": "Voltaire, Philosophical Letters (1734)" },
+    { "fr": "d'Alembert, Discours préliminaire de l'Encyclopédie", "en": "d'Alembert, Preliminary Discourse to the Encyclopédie" }
+  ],
+  "updatedAt": "2026-06-25T00:00:00.000Z"
+}

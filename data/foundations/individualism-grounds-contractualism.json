@@ -1,0 +1,12 @@
+{
+  "id": "individualism-grounds-contractualism",
+  "ground": { "axisId": "INDIVIDUAL_SOCIETY", "poleId": "INDIVIDUALISM" },
+  "grounded": { "axisId": "SOCIAL_CONTRACT", "poleId": "CONTRACTUALISM" },
+  "kind": "T_T",
+  "strength": "STRONG",
+  "explanation": {
+    "fr": "Si la société n'est rien d'autre que les individus qui la composent, alors l'ordre commun ne peut tirer sa légitimité que d'un accord entre eux. L'individualisme méthodologique fonde le contractualisme : de <ph id='hobbes'>Hobbes</ph> à <ph id='locke'>Locke</ph>, ce sont des individus libres et égaux qui instituent le pouvoir par un pacte, et non une communauté qui les précède.",
+    "en": "If society is nothing more than the individuals who compose it, then the common order can draw its legitimacy only from an agreement among them. Methodological individualism grounds contractualism: from <ph id='hobbes'>Hobbes</ph> to <ph id='locke'>Locke</ph>, it is free and equal individuals who institute power through a pact, not a community that precedes them."
+  },
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

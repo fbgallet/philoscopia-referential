@@ -1,0 +1,95 @@
+{
+  "id": "AUTHORITY",
+  "relation": "OTHERS",
+  "territory": "SOCIETY_POLITICS",
+  "label": {
+    "fr": "Rapport à l'autorité",
+    "en": "Relation to authority"
+  },
+  "question": {
+    "fr": "Une autorité politique qui commande et contraint est-elle nécessaire, ou faut-il s'en émanciper ?",
+    "en": "Is a political authority that commands and coerces necessary, or should we free ourselves from it?"
+  },
+  "stakes": {
+    "fr": "Tout dépend de ce qu'on attend des humains livrés à eux-mêmes : capables de s'ordonner seuls, ou voués au désordre sans un pouvoir qui tranche. Se positionner, c'est fixer jusqu'où va le devoir d'obéir, et où commence le droit de refuser.",
+    "en": "It all turns on what we expect of human beings left to themselves: able to order their own affairs, or bound for disorder without a power to settle disputes. To take a position is to set how far the duty to obey extends, and where the right to refuse begins."
+  },
+  "layer": "VALUE",
+  "type": "BIPOLAR_MEDIAN",
+  "poles": [
+    {
+      "id": "AUTHORITY",
+      "label": {
+        "fr": "Autorité",
+        "en": "Authority"
+      },
+      "description": {
+        "fr": "Sans une autorité commune capable de trancher et de contraindre, la vie sociale sombre dans le conflit ou le chaos. L'État, loin d'être une simple domination, est la condition de la paix, du droit et même de la liberté concrète.",
+        "en": "Without a common authority able to decide and to coerce, social life collapses into conflict or chaos. The state, far from being mere domination, is the condition of peace, law, and even concrete freedom."
+      },
+      "figures": [
+        {
+          "slug": "hobbes",
+          "name": {
+            "fr": "Hobbes",
+            "en": "Hobbes"
+          }
+        },
+        {
+          "slug": "hegel",
+          "name": {
+            "fr": "Hegel",
+            "en": "Hegel"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ANARCHISM",
+      "label": {
+        "fr": "Anarchisme",
+        "en": "Anarchism"
+      },
+      "description": {
+        "fr": "Toute autorité imposée d'en haut est une domination illégitime qui mutile la liberté. La société peut s'organiser elle-même par la libre association, l'entraide et le fédéralisme, sans État ni hiérarchie de commandement.",
+        "en": "Any authority imposed from above is an illegitimate domination that mutilates freedom. Society can organize itself through free association, mutual aid, and federalism, without a state or chains of command."
+      },
+      "figures": [
+        {
+          "slug": "bakunin",
+          "name": {
+            "fr": "Bakounine",
+            "en": "Bakunin"
+          }
+        },
+        {
+          "slug": "proudhon",
+          "name": {
+            "fr": "Proudhon",
+            "en": "Proudhon"
+          }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 2,
+  "clusters": [
+    "TRADITION_ORDER"
+  ],
+  "medianLabel": {
+    "fr": "Constitutionnalisme",
+    "en": "Constitutionalism"
+  },
+  "medianDescription": {
+    "fr": "Un pouvoir est nécessaire, mais il n'est légitime que s'il est limité. Entre l'obéissance due à l'autorité et le refus de toute domination, le constitutionnalisme soumet le pouvoir à des règles et à des droits : on obéit, mais aux lois plutôt qu'aux hommes, et nul ne se tient au-dessus d'elles.",
+    "en": "Power is necessary, but it is legitimate only if it is limited. Between the obedience owed to authority and the refusal of all domination, constitutionalism subjects power to rules and rights: we obey, but laws rather than men, and no one stands above them."
+  },
+  "relatedAxes": [
+    "POLITICAL_LIBERTY",
+    "RIGHTS_NATURE",
+    "POLITICAL_IDEAL",
+    "SOCIAL_CONTRACT",
+    "WHO_DECIDES"
+  ]
+}

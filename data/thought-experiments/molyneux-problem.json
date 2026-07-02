@@ -1,0 +1,60 @@
+{
+  "id": "molyneux-problem",
+  "title": {
+    "fr": "Le problème de Molyneux",
+    "en": "Molyneux's problem"
+  },
+  "description": {
+    "fr": "Imaginez un homme aveugle de naissance, qui a appris à reconnaître au toucher un cube et une sphère : les mains posées dessus, il sait dire lequel est lequel. Un jour, par une opération, il recouvre la vue. On place devant lui, sans qu'il puisse les toucher, le cube et la sphère. Pourra-t-il, du seul regard, dire lequel est le cube et lequel la sphère ?",
+    "en": "Imagine a man blind from birth who has learned to tell a cube from a sphere by touch: hands on them, he can say which is which. One day, through an operation, he gains his sight. The cube and the sphere are set before him, without his being able to touch them. Will he be able, by sight alone, to say which is the cube and which the sphere?"
+  },
+  "source": {
+    "author": { "fr": "Molyneux", "en": "Molyneux" },
+    "work": { "fr": "rapporté dans l'Essai de Locke", "en": "reported in Locke's Essay" },
+    "year": 1688
+  },
+  "question": {
+    "fr": "Reconnaîtra-t-il les formes du seul regard, ou tout est-il à apprendre des sens ?",
+    "en": "Will he recognize the shapes by sight alone, or is everything to be learned from the senses?"
+  },
+  "axisIds": ["KNOWLEDGE_SOURCE"],
+  "options": [
+    {
+      "id": "recognizes-at-once",
+      "label": {
+        "fr": "Oui, il les reconnaîtrait aussitôt : l'idée d'un cube, d'une sphère, l'esprit la possède déjà ; l'œil ne fait que retrouver ce que la raison et le toucher savaient.",
+        "en": "Yes, he would recognize them at once: the idea of a cube, of a sphere, the mind already holds; the eye merely finds again what reason and touch already knew."
+      },
+      "hints": [{ "axisId": "KNOWLEDGE_SOURCE", "value": { "kind": "scalar", "value": 0.7 } }],
+      "discussion": {
+        "fr": "<ph id='leibniz'>Leibniz</ph> penchait pour cette réponse : la figure est un objet de raison, commun à la vue et au toucher, que l'esprit peut rapporter à l'idée qu'il en a déjà.",
+        "en": "<ph id='leibniz'>Leibniz</ph> leaned toward this answer: shape is an object of reason, common to sight and touch, which the mind can refer to the idea it already holds of it."
+      }
+    },
+    {
+      "id": "mind-frames-it",
+      "label": {
+        "fr": "Du seul regard, non : il ne verrait d'abord que des taches sans nom. Mais son esprit n'est pas vide pour autant : il apporte la forme de l'espace où la vue et le toucher viennent se ranger. L'expérience donne la matière, l'esprit le cadre.",
+        "en": "By sight alone, no: at first he would see only nameless patches. Yet his mind is not empty for all that: it brings the form of space in which sight and touch come to be ordered. Experience gives the matter, the mind the frame."
+      },
+      "hints": [{ "axisId": "KNOWLEDGE_SOURCE", "value": { "kind": "scalar", "value": 0 } }],
+      "discussion": {
+        "fr": "C'est l'esprit de <ph id='kant'>Kant</ph> : percevoir un objet suppose déjà des formes, l'espace au premier chef, que l'esprit met en œuvre ; sans elles, la sensation resterait aveugle.",
+        "en": "This is <ph id='kant'>Kant</ph>'s spirit: to perceive an object already presupposes forms, space foremost, that the mind brings to work; without them, sensation would remain blind."
+      }
+    },
+    {
+      "id": "must-learn",
+      "label": {
+        "fr": "Non : il ne verrait d'abord que des taches de lumière, dénuées de sens, jusqu'à ce qu'il apprenne, en touchant et en regardant, à les relier. Toutes nos idées, même celle de forme, se construisent par les sens.",
+        "en": "No: at first he would see only patches of light, void of meaning, until he learns, by touching and looking, to connect them. All our ideas, even that of shape, are built up through the senses."
+      },
+      "hints": [{ "axisId": "KNOWLEDGE_SOURCE", "value": { "kind": "scalar", "value": -0.7 } }],
+      "discussion": {
+        "fr": "<ph id='locke'>Locke</ph> et <ph id='berkeley'>Berkeley</ph> répondaient non : rien ne relie d'avance une idée de la vue à une idée du toucher, c'est l'expérience seule qui tisse ce lien. Les cas réels d'opérés vont plutôt dans ce sens.",
+        "en": "<ph id='locke'>Locke</ph> and <ph id='berkeley'>Berkeley</ph> answered no: nothing links a visual idea to a tactile one in advance; experience alone weaves that connection. Real cases of the newly-sighted tend to bear this out."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

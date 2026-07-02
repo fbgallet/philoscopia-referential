@@ -1,0 +1,284 @@
+{
+  "id": "LIFE_MEANING",
+  "relation": "SELF",
+  "territory": "EXISTENCE",
+  "label": {
+    "fr": "Le sens de la vie",
+    "en": "The meaning of life"
+  },
+  "question": {
+    "fr": "Que faire face à l'énigme du sens de la vie ?",
+    "en": "How should we respond to the enigma of life's meaning?"
+  },
+  "stakes": {
+    "fr": "L'énigme est commune : le sens de la vie ne se montre pas, et chacun connaît des heures de désorientation où plus rien ne semble l'indiquer. S'il y a un sens, il est à chercher et à déchiffrer ; s'il n'y en a pas, reste à le créer, à se révolter ou à y renoncer. Se positionner, c'est dire quelle attitude tenir face à cette obscurité, et ce qui peut donner un prix à nos jours.",
+    "en": "The enigma is a common one: the meaning of life does not show itself, and everyone knows hours of disorientation when nothing seems to point to it. If there is a meaning, it must be sought and deciphered; if there is none, what remains is to create it, to revolt, or to give it up. To take a position is to say what attitude to hold in the face of this obscurity, and what can give our days their worth."
+  },
+  "layer": "VALUE",
+  "type": "CATEGORICAL",
+  "poles": [
+    {
+      "id": "TELEOLOGY",
+      "label": {
+        "fr": "Téléologie-providence",
+        "en": "Teleology and providence"
+      },
+      "description": {
+        "fr": "Le sens existe, mais il ne se donne pas d'emblée : l'existence s'inscrit dans un ordre du monde ou un dessein providentiel qu'il faut apprendre à déchiffrer. Face à l'énigme, la tâche est de chercher cette finalité, de s'y fier même quand elle reste obscure, et d'y accorder sa conduite.",
+        "en": "Meaning exists, but it does not give itself at once: existence belongs to a world order or a providential design that must be learned and deciphered. Faced with the enigma, the task is to seek that purpose, to trust it even while it remains obscure, and to align one's conduct with it."
+      },
+      "figures": [
+        {
+          "slug": "stoics",
+          "name": {
+            "fr": "les stoïciens",
+            "en": "the Stoics"
+          }
+        },
+        {
+          "slug": "christianity",
+          "name": {
+            "fr": "le christianisme",
+            "en": "Christianity"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CONSTRUCTED_MEANING",
+      "label": {
+        "fr": "Sens construit",
+        "en": "Constructed meaning"
+      },
+      "description": {
+        "fr": "Si le sens se dérobe, c'est qu'aucun n'est inscrit dans les choses : il n'y a rien à découvrir, tout à faire. Face à l'énigme, la réponse est de créer soi-même la signification de sa vie par ses choix et ses projets, et cette liberté nous rend pleinement responsables de ce que nous devenons.",
+        "en": "If meaning eludes us, it is because none is written into things: there is nothing to discover, everything to make. Faced with the enigma, the answer is to create the significance of one's life through one's choices and projects, and this freedom makes us fully responsible for what we become."
+      },
+      "figures": [
+        {
+          "slug": "sartre",
+          "name": {
+            "fr": "Sartre",
+            "en": "Sartre"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ABSURDISM",
+      "label": {
+        "fr": "Absurdisme",
+        "en": "Absurdism"
+      },
+      "description": {
+        "fr": "Ni sens à découvrir, ni sens de rechange : l'absurde naît de la rencontre entre notre soif de sens et le silence du monde, et aucune réponse ne viendra. Face à l'énigme, il s'agit de tenir sans tricher : vivre lucidement dans la révolte, sans espoir ni résignation.",
+        "en": "No meaning to discover, and no substitute for it: the absurd arises from the clash between our thirst for meaning and the silence of the world, and no answer will come. Faced with the enigma, the point is to hold out without cheating: to live lucidly in revolt, without hope or resignation."
+      },
+      "figures": [
+        {
+          "slug": "camus",
+          "name": {
+            "fr": "Camus",
+            "en": "Camus"
+          }
+        }
+      ]
+    },
+    {
+      "id": "RENUNCIATION",
+      "label": {
+        "fr": "Renoncement",
+        "en": "Renunciation"
+      },
+      "description": {
+        "fr": "Puisque aucun sens n'est donné et que rien ne le remplace vraiment, le tourment vient de l'exigence elle-même. Face à l'énigme, la réponse lucide est le renoncement : détacher son vouloir, cesser de demander à la vie ce qu'elle ne contient pas, et trouver dans ce retrait une paix sans illusion.",
+        "en": "Since no meaning is given and nothing truly replaces it, the torment comes from the demand itself. Faced with the enigma, the lucid response is renunciation: to detach the will, to stop asking of life what it does not contain, and to find in this withdrawal a peace without illusion."
+      },
+      "figures": [
+        {
+          "slug": "schopenhauer",
+          "name": {
+            "fr": "Schopenhauer",
+            "en": "Schopenhauer"
+          }
+        }
+      ]
+    }
+  ],
+  "core": true,
+  "difficulty": 1,
+  "clusters": [],
+  "relatedAxes": [
+    "COSMIC_OUTLOOK",
+    "DEATH",
+    "INTERIORITY",
+    "SOVEREIGN_GOOD",
+    "TIME_ORIENTATION",
+    "WORK_MEANING",
+    "GOD_EXISTENCE"
+  ],
+  "problems": [
+    {
+      "id": "meaning-inscribed",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "l'ordre des choses", "en": "the order of things" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "sens donné", "en": "given meaning" },
+        { "fr": "providence", "en": "providence" },
+        { "fr": "monde muet", "en": "silent world" }
+      ],
+      "poles": ["TELEOLOGY"],
+      "anchors": [
+        { "name": { "fr": "les stoïciens", "en": "the Stoics" }, "kind": "MOVEMENT", "slug": "stoicism" },
+        { "name": { "fr": "Camus", "en": "Camus" }, "kind": "PHILOSOPHER", "slug": "camus" }
+      ],
+      "doorways": [{ "axis": "COSMIC_OUTLOOK" }],
+      "title": { "fr": "Un sens est-il inscrit dans les choses ?", "en": "Is meaning inscribed in things?" },
+      "explicitation": {
+        "fr": "Le monde porte-t-il un ordre ou un dessein qui nous précède, comme l'affirment stoïciens et providentialismes, ou est-il muet ? Construire son sens, se révolter ou renoncer partagent le même constat de départ : rien n'est donné.",
+        "en": "Does the world carry an order or design that precedes us, as the Stoics and providentialisms hold, or is it silent? Constructing one's meaning, revolting, or renouncing all share the same starting point: nothing is given."
+      }
+    },
+    {
+      "id": "the-absurd",
+      "resolution": "SURFACED",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "une existence", "en": "an existence" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "absurde", "en": "the absurd" },
+        { "fr": "Sisyphe", "en": "Sisyphus" },
+        { "fr": "révolte", "en": "revolt" },
+        { "fr": "saut de la foi", "en": "leap of faith" }
+      ],
+      "poles": ["TELEOLOGY", "CONSTRUCTED_MEANING", "ABSURDISM", "RENUNCIATION"],
+      "anchors": [
+        { "name": { "fr": "Camus", "en": "Camus" }, "kind": "PHILOSOPHER", "slug": "camus" },
+        { "name": { "fr": "Sartre", "en": "Sartre" }, "kind": "PHILOSOPHER", "slug": "sartre" },
+        { "name": { "fr": "Kierkegaard", "en": "Kierkegaard" }, "kind": "PHILOSOPHER", "slug": "kierkegaard" }
+      ],
+      "title": { "fr": "Le rocher de Sisyphe", "en": "Sisyphus and his rock" },
+      "explicitation": { "fr": "Quand notre soif de sens se heurte au silence du monde, où loger une réponse : dans une fin qui nous dépasse, dans le sens qu'on se donne, ou dans la seule révolte lucide d'une vie sans réponse ?", "en": "When our thirst for meaning meets the silence of the world, where can an answer lie: in an end that surpasses us, in the meaning we give ourselves, or in the lucid revolt of a life with no answer?" },
+      "ref": { "kind": "THOUGHT_EXPERIMENT", "id": "sisyphus-rock" }
+    },
+    {
+      "id": "meaning-of-or-in-life",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "une vie", "en": "a life" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "sens de la vie", "en": "meaning of life" },
+        { "fr": "sens dans la vie", "en": "meaning in life" },
+        { "fr": "projets", "en": "projects" }
+      ],
+      "poles": ["TELEOLOGY", "CONSTRUCTED_MEANING"],
+      "anchors": [
+        { "name": { "fr": "Susan Wolf", "en": "Susan Wolf" }, "kind": "PHILOSOPHER", "slug": "susan-wolf" },
+        { "name": { "fr": "Thaddeus Metz", "en": "Thaddeus Metz" }, "kind": "PHILOSOPHER" }
+      ],
+      "title": { "fr": "Un sens à la vie, ou dans la vie ?", "en": "Meaning of life, or in life?" },
+      "explicitation": { "fr": "La vie a-t-elle un sens d'ensemble, une réponse à « pourquoi tout cela ? », ou seulement des sens locaux, ceux qu'on trouve dans un amour, une œuvre, un engagement, même si le tout n'en a aucun ?", "en": "Does life have an overall meaning, an answer to « why all this? », or only local meanings, the ones we find in a love, a work, a commitment, even if the whole has none?" }
+    },
+    {
+      "id": "meaning-and-permanence",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "le temps d'une vie", "en": "the span of a life" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "vanité", "en": "futility" },
+        { "fr": "éternité", "en": "eternity" },
+        { "fr": "tout finit", "en": "everything ends" }
+      ],
+      "poles": ["TELEOLOGY", "ABSURDISM"],
+      "anchors": [
+        { "name": { "fr": "Tolstoï", "en": "Tolstoy" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "Nagel", "en": "Nagel" }, "kind": "PHILOSOPHER", "slug": "nagel" }
+      ],
+      "doorways": [{ "axis": "DEATH" }],
+      "title": { "fr": "Faut-il que ça dure ?", "en": "Must it last?" },
+      "explicitation": { "fr": "Si tout finit, par la mort puis l'effacement de toute trace, ce que nous faisons est-il vain, ou une chose peut-elle avoir pleinement un sens sans durer toujours ?", "en": "If everything ends, through death and then the erasure of every trace, is what we do in vain, or can something have full meaning without lasting forever?" }
+    },
+    {
+      "id": "nihilism-after-frameworks",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "les cadres du sens", "en": "the frameworks of meaning" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "nihilisme", "en": "nihilism" },
+        { "fr": "mort de Dieu", "en": "death of God" },
+        { "fr": "grands récits", "en": "grand narratives" }
+      ],
+      "poles": ["ABSURDISM", "CONSTRUCTED_MEANING"],
+      "anchors": [
+        { "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" },
+        { "name": { "fr": "Dostoïevski", "en": "Dostoevsky" }, "kind": "PHILOSOPHER" }
+      ],
+      "doorways": [{ "axis": "COSMIC_OUTLOOK" }],
+      "title": { "fr": "Et si rien n'avait de sens ?", "en": "What if nothing meant anything?" },
+      "explicitation": { "fr": "Quand s'effacent les cadres qui donnaient sens, Dieu, l'Histoire, le progrès, reste-t-il un sens possible, ou s'ouvre le vertige où plus rien ne vaut rien ?", "en": "When the frameworks that gave meaning fall away, God, History, progress, does any meaning remain possible, or does the vertigo open in which nothing is worth anything?" }
+    },
+    {
+      "id": "any-meaning-at-all",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "une vie vouée à quelque chose", "en": "a life devoted to something" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "valeur objective", "en": "objective worth" },
+        { "fr": "futilité", "en": "triviality" },
+        { "fr": "engagement", "en": "engagement" }
+      ],
+      "poles": ["CONSTRUCTED_MEANING", "TELEOLOGY"],
+      "anchors": [
+        { "name": { "fr": "Susan Wolf", "en": "Susan Wolf" }, "kind": "PHILOSOPHER", "slug": "susan-wolf" },
+        { "name": { "fr": "Richard Taylor", "en": "Richard Taylor" }, "kind": "PHILOSOPHER" }
+      ],
+      "title": { "fr": "N'importe quel sens fait-il l'affaire ?", "en": "Will any meaning do?" },
+      "explicitation": { "fr": "Une vie peut-elle être pleine de sens si elle se voue à quelque chose d'insignifiant, voire de mauvais, ou le sens exige-t-il que la chose en vaille objectivement la peine ?", "en": "Can a life be full of meaning if it is devoted to something trivial, or even bad, or does meaning require that the thing be objectively worth it?" }
+    },
+    {
+      "id": "meaning-without-god",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "l'ordre du monde", "en": "the order of the world" },
+      "mode": "DESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "Dieu", "en": "God" },
+        { "fr": "providence", "en": "providence" },
+        { "fr": "sécularisation", "en": "secularization" }
+      ],
+      "poles": ["TELEOLOGY"],
+      "doorways": [{ "axis": "GOD_EXISTENCE", "problem": "meaning-needs-god" }],
+      "title": { "fr": "Un sens sans Dieu ?", "en": "Meaning without God?" },
+      "explicitation": { "fr": "Le sens de l'existence suppose-t-il un ordre divin qui nous dépasse, ou peut-il tenir entièrement sans Dieu, sur des bases tout humaines ?", "en": "Does the meaning of existence presuppose a divine order that surpasses us, or can it hold entirely without God, on wholly human grounds?" }
+    },
+    {
+      "id": "meaning-over-happiness",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "une vie", "en": "a life" },
+      "mode": "DESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "bonheur", "en": "happiness" },
+        { "fr": "vie réussie", "en": "successful life" },
+        { "fr": "épreuve", "en": "hardship" }
+      ],
+      "doorways": [{ "axis": "SOVEREIGN_GOOD", "problem": "happiness-or-meaning" }],
+      "title": { "fr": "Bonheur ou sens", "en": "Happiness or meaning" },
+      "explicitation": { "fr": "Une vie réussie est-elle forcément heureuse, ou peut-elle valoir par son sens tout en étant difficile, exigeante, parfois malheureuse ?", "en": "Is a successful life necessarily happy, or can it be worthwhile through its meaning while being hard, demanding, at times unhappy?" }
+    }
+  ]
+}

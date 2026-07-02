@@ -1,0 +1,12 @@
+{
+  "id": "socratic-ignorance",
+  "term": { "fr": "Ignorance socratique", "en": "Socratic ignorance" },
+  "definition": {
+    "fr": "L'ignorance socratique est la conscience de son propre non-savoir, que <ph id='socrates'>Socrate</ph> tient pour la seule sagesse à sa portée : averti par l'oracle de Delphes qu'il est le plus sage des hommes, il comprend que sa supériorité tient à ce qu'il ne croit pas savoir ce qu'il ignore. Cette « docte ignorance » n'est pas un renoncement au vrai, mais le point de départ de toute recherche et le ressort de l'<c id='elenchos'>elenchos</c>. L'expression « docte ignorance » est d'ailleurs forgée bien plus tard, au XVe siècle, par Nicolas de Cues.",
+    "en": "Socratic ignorance is the awareness of one's own lack of knowledge, which <ph id='socrates'>Socrates</ph> holds to be the only wisdom within his reach: told by the Delphic oracle that he is the wisest of men, he understands that his superiority lies in not believing he knows what he does not. This \"learned ignorance\" is no renunciation of truth, but the starting point of all inquiry and the mainspring of the <c id='elenchos'>elenchus</c>. The phrase \"learned ignorance,\" docta ignorantia, is in fact coined much later, in the fifteenth century, by Nicholas of Cusa."
+  },
+  "relatedAxes": ["CERTAINTY"],
+  "relatedTerms": ["elenchos", "skepticism"],
+  "figure": { "slug": "socrates", "name": { "fr": "Socrate", "en": "Socrates" } },
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

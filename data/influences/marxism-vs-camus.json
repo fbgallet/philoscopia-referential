@@ -1,0 +1,16 @@
+{
+  "id": "marxism-vs-camus",
+  "from": { "kind": "MOVEMENT", "slug": "marxism" },
+  "to": { "kind": "PHILOSOPHER", "slug": "camus" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "L'Homme révolté s'écrit contre le <mv id='marxism'>marxisme</mv> comme religion de l'Histoire : <ph id='camus'>Camus</ph> refuse que la fin révolutionnaire justifie la terreur et oppose la révolte, qui pose une limite, à la révolution qui l'abolit.",
+    "en": "The Rebel is written against <mv id='marxism'>Marxism</mv> as a religion of History: <ph id='camus'>Camus</ph> refuses that the revolutionary end justify terror and sets revolt, which posits a limit, against the revolution that abolishes it."
+  },
+  "sources": [
+    { "fr": "Camus, L'Homme révolté", "en": "Camus, The Rebel" }
+  ],
+  "updatedAt": "2026-07-02T00:00:00.000Z"
+}

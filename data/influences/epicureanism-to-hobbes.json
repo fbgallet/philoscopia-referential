@@ -1,0 +1,16 @@
+{
+  "id": "epicureanism-to-hobbes",
+  "from": { "kind": "MOVEMENT", "slug": "epicureanism" },
+  "to": { "kind": "PHILOSOPHER", "slug": "hobbes" },
+  "directness": "INDIRECT",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "Le matérialisme de l'<mv id='epicureanism'>épicurisme</mv> parvient à <ph id='hobbes'>Hobbes</ph> par un relais documenté mais indirect, son ami Gassendi, restaurateur d'Épicure dans le cercle de Mersenne : atomes, crainte et pacte y préfigurent sa physique et son contrat.",
+    "en": "The materialism of <mv id='epicureanism'>Epicureanism</mv> reaches <ph id='hobbes'>Hobbes</ph> through a documented but indirect relay, his friend Gassendi, restorer of Epicurus in Mersenne's circle: atoms, fear and covenant there prefigure his physics and his contract."
+  },
+  "sources": [
+    { "fr": "Gassendi, Syntagma philosophicum ; le cercle de Mersenne", "en": "Gassendi, Syntagma philosophicum; the Mersenne circle" }
+  ],
+  "updatedAt": "2026-07-02T00:00:00.000Z"
+}

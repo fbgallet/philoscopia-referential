@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "berlin",
+  "stub": true,
+  "name": {
+    "fr": "Isaiah Berlin",
+    "en": "Isaiah Berlin"
+  },
+  "summary": {
+    "fr": "Historien des idées et penseur libéral, défenseur du pluralisme des valeurs (des biens ultimes et inconciliables) et de la distinction entre liberté négative et liberté positive.",
+    "en": "Historian of ideas and liberal thinker, defender of value pluralism (ultimate goods that are real yet irreconcilable) and of the distinction between negative and positive liberty."
+  },
+  "birth": 1909,
+  "death": 1997,
+  "nationality": {
+    "fr": "Britannique",
+    "en": "British"
+  },
+  "movements": [],
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

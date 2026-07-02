@@ -1,0 +1,11 @@
+{
+  "id": "academica-cicero",
+  "title": { "fr": "Académiques", "en": "Academica" },
+  "author": { "slug": "cicero", "name": { "fr": "Cicéron", "en": "Cicero" } },
+  "year": -45,
+  "presentation": {
+    "fr": "Dialogue consacré à la théorie de la connaissance, opposant le <c id='dogmatism'>dogmatisme</c> stoïcien et son critère de la <c id='kataleptic-impression'>représentation cataleptique</c> au <c id='skepticism'>scepticisme</c> de la Nouvelle Académie. C'est une source majeure pour l'épistémologie antique.",
+    "en": "A dialogue devoted to the theory of knowledge, opposing Stoic <c id='dogmatism'>dogmatism</c> and its criterion of the <c id='kataleptic-impression'>kataleptic impression</c> to the <c id='skepticism'>scepticism</c> of the New Academy. It is a major source for ancient epistemology."
+  },
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

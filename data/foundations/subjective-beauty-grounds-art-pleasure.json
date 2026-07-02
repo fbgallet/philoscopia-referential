@@ -1,0 +1,12 @@
+{
+  "id": "subjective-beauty-grounds-art-pleasure",
+  "ground": { "axisId": "BEAUTY", "poleId": "SUBJECTIVE_BEAUTY" },
+  "grounded": { "axisId": "ART_PURPOSE", "poleId": "ART_PLEASURE" },
+  "kind": "T_V",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si le beau n'est rien d'autre que le plaisir qu'une forme procure, alors l'art n'a d'autre fin que ce plaisir même, sans avoir à servir le vrai ni une cause. Le beau subjectif fonde l'art pour l'art : l'œuvre se suffit à elle-même, et la soumettre à une fin extérieure reviendrait à la rabaisser.",
+    "en": "If beauty is nothing but the pleasure a form gives, then art has no end other than that pleasure itself, without having to serve truth or a cause. Subjective beauty grounds art for art's sake: the work is sufficient unto itself, and subordinating it to an external end would only debase it."
+  },
+  "updatedAt": "2026-06-22T00:00:00.000Z"
+}

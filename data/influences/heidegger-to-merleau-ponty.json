@@ -1,0 +1,16 @@
+{
+  "id": "heidegger-to-merleau-ponty",
+  "from": { "kind": "PHILOSOPHER", "slug": "heidegger" },
+  "to": { "kind": "PHILOSOPHER", "slug": "merleau-ponty" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='merleau-ponty'>Merleau-Ponty</ph> reprend l'<c>être-au-monde</c> de <ph id='heidegger'>Heidegger</ph> et le monde pré-théorique, mais les reconduit au corps percevant : c'est la <c>chair</c>, et non l'analytique de l'être, qui ouvre originairement le monde.",
+    "en": "<ph id='merleau-ponty'>Merleau-Ponty</ph> takes up <ph id='heidegger'>Heidegger</ph>'s <c>being-in-the-world</c> and the pre-theoretical world, but redirects them to the perceiving body: it is the <c>flesh</c>, not the analytic of being, that originally opens the world."
+  },
+  "sources": [
+    { "fr": "Merleau-Ponty, Phénoménologie de la perception (1945)", "en": "Merleau-Ponty, Phenomenology of Perception (1945)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

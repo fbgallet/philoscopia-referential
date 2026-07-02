@@ -1,0 +1,17 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "beccaria",
+  "stub": true,
+  "name": { "fr": "Beccaria", "en": "Beccaria" },
+  "fullName": { "fr": "Cesare Beccaria", "en": "Cesare Beccaria" },
+  "summary": {
+    "fr": "Juriste et philosophe italien des <mv id='enlightenment'>Lumières</mv>, auteur de Des délits et des peines, fondateur de la pensée pénale moderne contre la torture et la peine de mort.",
+    "en": "Italian jurist and philosopher of the <mv id='enlightenment'>Enlightenment</mv>, author of On Crimes and Punishments, founder of modern penal thought against torture and the death penalty."
+  },
+  "birth": 1738,
+  "death": 1794,
+  "nationality": { "fr": "Italien", "en": "Italian" },
+  "movements": ["enlightenment"],
+  "updatedAt": "2026-06-25T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

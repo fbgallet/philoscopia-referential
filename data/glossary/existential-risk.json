@@ -1,0 +1,27 @@
+{
+  "id": "existential-risk",
+  "term": {
+    "fr": "Risque existentiel",
+    "en": "Existential risk"
+  },
+  "definition": {
+    "fr": "Chez <ph id='bostrom'>Nick Bostrom</ph>, menace susceptible soit d'anéantir l'humanité, soit de réduire de façon permanente et drastique le déploiement de son potentiel. La catégorie justifie une attention prioritaire aux dangers de long terme, intelligence artificielle ou biotechnologies, au cœur du <mv id='transhumanism'>transhumanisme</mv> prudent et du long-termisme qui en est issu.",
+    "en": "For <ph id='bostrom'>Nick Bostrom</ph>, a threat liable either to annihilate humanity or to permanently and drastically curtail the unfolding of its potential. The category warrants priority attention to long-term dangers, artificial intelligence or biotechnology, central to cautious <mv id='transhumanism'>transhumanism</mv> and the longtermism it gave rise to."
+  },
+  "relatedAxes": [
+    "TECHNOLOGY",
+    "FUTURE_GENERATIONS"
+  ],
+  "relatedTerms": [
+    "singularity",
+    "posthuman"
+  ],
+  "figure": {
+    "slug": "bostrom",
+    "name": {
+      "fr": "Nick Bostrom",
+      "en": "Nick Bostrom"
+    }
+  },
+  "updatedAt": "2026-06-28T00:00:00.000Z"
+}

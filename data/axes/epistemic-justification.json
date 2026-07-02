@@ -1,0 +1,84 @@
+{
+  "id": "EPISTEMIC_JUSTIFICATION",
+  "relation": "TRUTH",
+  "territory": "KNOWLEDGE",
+  "label": {
+    "fr": "Justification de la croyance",
+    "en": "Justification of belief"
+  },
+  "question": {
+    "fr": "Qu'est-ce qui rend une croyance justifiée ?",
+    "en": "What makes a belief justified?"
+  },
+  "stakes": {
+    "fr": "Des pseudo-sciences aux rumeurs, mille croyances se présentent comme justifiées : encore faut-il savoir sur quoi cette garantie repose, des certitudes premières, l'accord de l'ensemble, ou des méthodes éprouvées. Selon la réponse, on ne trace pas au même endroit la frontière entre le savoir et ce qui n'en a que l'apparence.",
+    "en": "From pseudo-sciences to rumours, countless beliefs present themselves as justified: what remains is to know what that warrant rests on, first certainties, the agreement of the whole, or methods that have proven themselves. Depending on the answer, we draw the line between knowledge and what merely looks like it in a different place."
+  },
+  "layer": "THEORY",
+  "type": "TRIANGULAR",
+  "poles": [
+    {
+      "id": "FOUNDATIONALISM",
+      "label": {
+        "fr": "Fondationnalisme",
+        "en": "Foundationalism"
+      },
+      "description": {
+        "fr": "Le savoir repose sur des croyances de base, immédiatement certaines, qui n'ont besoin d'aucune autre pour se justifier : tout le reste s'édifie sur elles, comme un bâtiment sur ses fondations.",
+        "en": "Knowledge rests on basic beliefs, immediately certain, that need no others to justify themselves: everything else is built upon them, like a building on its foundations."
+      },
+      "figures": [
+        {
+          "slug": "descartes",
+          "name": { "fr": "Descartes", "en": "Descartes" }
+        }
+      ]
+    },
+    {
+      "id": "COHERENTISM",
+      "label": {
+        "fr": "Cohérentisme",
+        "en": "Coherentism"
+      },
+      "description": {
+        "fr": "Aucune croyance n'est justifiée toute seule : elle l'est par sa place dans un ensemble cohérent, où chacune se soutient des autres. Une idée tient si elle s'accorde sans contradiction avec tout le réseau de notre expérience, sans fondation ultime.",
+        "en": "No belief is justified on its own: it is justified by its place in a coherent whole, where each supports the others. An idea holds if it fits without contradiction into the entire web of our experience, with no ultimate foundation."
+      },
+      "figures": [
+        {
+          "slug": "quine",
+          "name": { "fr": "Quine", "en": "Quine" }
+        },
+        {
+          "slug": "davidson",
+          "name": { "fr": "Davidson", "en": "Davidson" }
+        }
+      ]
+    },
+    {
+      "id": "RELIABILISM",
+      "label": {
+        "fr": "Fiabilisme",
+        "en": "Reliabilism"
+      },
+      "description": {
+        "fr": "Une croyance est justifiée si elle est produite par un processus fiable, la perception, la mémoire, un raisonnement valide, même si celui qui la tient ne saurait en faire la preuve. Ce qui compte n'est pas de pouvoir justifier, mais d'avoir été bien formé.",
+        "en": "A belief is justified if it is produced by a reliable process, perception, memory, sound reasoning, even if the one who holds it could not prove it. What matters is not being able to justify it, but having been formed in the right way."
+      },
+      "figures": [
+        {
+          "slug": "goldman",
+          "name": { "fr": "Goldman", "en": "Goldman" }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 3,
+  "clusters": [],
+  "relatedAxes": [
+    "CERTAINTY",
+    "KNOWLEDGE_SOURCE",
+    "KNOWLEDGE_STATUS"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "naturalism-grounds-ruse-of-the-species",
+  "ground": { "axisId": "HUMAN_NATURE", "poleId": "NATURALISM" },
+  "grounded": { "axisId": "LOVE_NATURE", "poleId": "RUSE_OF_THE_SPECIES" },
+  "kind": "T_T",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si l'homme est d'abord un être naturel mû par des pulsions communes à l'espèce, l'amour cesse d'être un mystère pour devenir le masque du désir de reproduction. Le naturalisme fonde la « ruse de l'espèce » : <ph id='schopenhauer'>Schopenhauer</ph> voit sous la passion la plus exaltée le vouloir-vivre qui se sert des amants pour perpétuer l'espèce.",
+    "en": "If the human being is first of all a natural being driven by impulses shared with the species, love ceases to be a mystery and becomes the mask of the drive to reproduce. Naturalism grounds the \"ruse of the species\": <ph id='schopenhauer'>Schopenhauer</ph> sees beneath the most exalted passion the will-to-live that uses lovers to perpetuate the species."
+  },
+  "updatedAt": "2026-06-22T00:00:00.000Z"
+}

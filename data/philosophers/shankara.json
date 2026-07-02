@@ -1,0 +1,505 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "shankara",
+  "name": {
+    "fr": "Śaṅkara",
+    "en": "Śaṅkara"
+  },
+  "fullName": {
+    "fr": "Ādi Śaṅkara",
+    "en": "Adi Shankara"
+  },
+  "tagline": {
+    "fr": "« <q>Tu es cela</q> » : le soi et l'absolu ne font qu'un, et le reconnaître délivre.",
+    "en": "\"<q>Thou art that</q>\": the self and the absolute are one, and to know it liberates."
+  },
+  "summary": {
+    "fr": "Maître de l'<mv id='vedanta'>Advaita Vedānta</mv>, la branche non-dualiste du Vedānta, traditionnellement situé en Inde vers 700-750 (sa datation reste discutée). Il systématise une lecture des <w>Upaniṣad</w> où le soi (<c id='atman'>ātman</c>) et l'absolu (<c id='brahman'>brahman</c>) sont une seule et même réalité, contre les écoles dualistes et ritualistes de son temps. On lui doit de grands commentaires (<w>bhāṣya</w>) sur les <w id='brahma-sutras-badarayana'>Brahma Sūtra</w> de <ph id='badarayana'>Bādarāyaṇa</ph>, sur les principales <w>Upaniṣad</w> et sur la <w>Bhagavad Gītā</w>, ainsi que des traités didactiques comme l'<w id='upadesasahasri-shankara'>Upadeśasāhasrī</w>. Héritier de <ph id='gaudapada'>Gauḍapāda</ph>, il fait de la voie de la connaissance (<c id='jnana'>jñāna</c>) le cœur de sa doctrine, et la tradition lui rattache la fondation de monastères (maṭha) qui pérenniseront son école. Son non-dualisme reste à ce jour le courant le plus influent de la philosophie hindoue.",
+    "en": "Master of <mv id='vedanta'>Advaita Vedānta</mv>, the non-dualist branch of Vedānta, traditionally placed in India around 700-750 (his dating remains debated). He systematized a reading of the <w>Upaniṣads</w> in which the self (<c id='atman'>ātman</c>) and the absolute (<c id='brahman'>brahman</c>) are one and the same reality, against the dualist and ritualist schools of his day. To him we owe great commentaries (<w>bhāṣya</w>) on <ph id='badarayana'>Bādarāyaṇa</ph>'s <w id='brahma-sutras-badarayana'>Brahma Sūtras</w>, on the principal <w>Upaniṣads</w> and on the <w>Bhagavad Gītā</w>, as well as didactic treatises such as the <w id='upadesasahasri-shankara'>Upadeśasāhasrī</w>. Heir to <ph id='gaudapada'>Gauḍapāda</ph>, he makes the path of knowledge (<c id='jnana'>jñāna</c>) the heart of his doctrine, and tradition credits him with founding the monasteries (maṭha) that would perpetuate his school. His non-dualism remains to this day the most influential current of Hindu philosophy."
+  },
+  "birth": 700,
+  "death": 750,
+  "nationality": {
+    "fr": "Indien",
+    "en": "Indian"
+  },
+  "movements": [
+    "vedanta"
+  ],
+  "entries": [
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0, 1, 0]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Une seule réalité existe sans second, le <c id='brahman'>brahman</c>, pure conscience : ni la matière ni la multiplicité des choses ne sont des substances autonomes. Le <stk>monde des objets</stk> n'est pas un pur néant, mais il n'a qu'une réalité empirique (vyāvahārika), surimposée sur le brahman par l'ignorance, comme on voit un serpent là où il n'y a qu'une corde. Cet idéalisme est sui generis : il ne fait pas du monde le contenu d'un esprit fini, à la manière de <ph>Berkeley</ph>, mais le rapporte tout entier à l'unique conscience absolue dont les choses ne sont que l'apparence. La <dif>question</dif> n'est donc pas « esprit ou matière ? » mais « le multiple est-il réel ? », à quoi Śaṅkara répond par la non-dualité.",
+          "en": "A single reality exists without a second, <c id='brahman'>brahman</c>, pure consciousness: neither matter nor the plurality of things are autonomous substances. The <stk>world of objects</stk> is not sheer nothingness, but it holds only an empirical reality (vyāvahārika), superimposed on brahman by ignorance, as one sees a snake where there is only a rope. This idealism is sui generis: it does not make the world the content of a finite mind, in <ph>Berkeley</ph>'s manner, but refers it wholly to the one absolute consciousness of which things are merely the appearance. The <dif>question</dif> is thus not \"mind or matter?\" but \"is the manifold real?\", to which Śaṅkara answers by non-duality."
+        },
+        "quote": {
+          "text": {
+            "fr": "Le brahman est réel, le monde est apparence, et le soi n'est rien d'autre que le brahman.",
+            "en": "Brahman is real, the world is appearance, and the self is nothing other than brahman."
+          },
+          "source": {
+            "fr": "formule attribuée à Śaṅkara (Brahmajñānāvalīmālā)",
+            "en": "verse attributed to Śaṅkara (Brahmajñānāvalīmālā)"
+          }
+        },
+        "references": [
+          {
+            "fr": "Commentaire sur les Brahma Sūtra, I, 1, 1-4",
+            "en": "Commentary on the Brahma Sūtras, I.1.1-4"
+          },
+          {
+            "fr": "Upadeśasāhasrī",
+            "en": "Upadeśasāhasrī"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [1, 0, 0, 0]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le soi véritable, l'<c id='atman'>ātman</c>, n'est ni le corps, ni le mental, ni la suite changeante des états psychiques : il est la conscience pure, témoin permanent et toujours présent que présuppose toute expérience. On ne peut le nier sans le confirmer, car celui qui nierait serait encore lui. Śaṅkara prend ainsi le contre-pied exact de la <dif>thèse du faisceau</dif> : là où l'on ne trouverait qu'un flux d'impressions sans support, comme le soutiendra <ph>Hume</ph> ou, avant lui, le <c id='anatta'>non-soi</c> (anātman) bouddhiste, il maintient un sujet irréductible. Mais ce noyau permanent n'est pas une âme individuelle parmi d'autres : il est identique en tous et identique au <c id='brahman'>brahman</c>, ce qui radicalise le substantialisme tout en le dépersonnalisant.",
+          "en": "The true self, the <c id='atman'>ātman</c>, is neither the body, nor the mind, nor the changing sequence of psychic states: it is pure consciousness, the permanent ever-present witness that every experience presupposes. It cannot be denied without being confirmed, for the one who would deny it would still be it. Śaṅkara thus takes the exact opposite of the <dif>bundle thesis</dif>: where one would find only a flux of impressions without a bearer, as <ph>Hume</ph> would hold, or before him the Buddhist <c id='anatta'>not-self</c> (anātman), he maintains an irreducible subject. Yet this permanent core is not one individual soul among others: it is identical in all and identical to <c id='brahman'>brahman</c>, which radicalizes substantialism while depersonalizing it."
+        },
+        "references": [
+          {
+            "fr": "Upadeśasāhasrī, II (partie en prose), sur « tu es cela »",
+            "en": "Upadeśasāhasrī, II (prose part), on \"thou art that\""
+          },
+          {
+            "fr": "Commentaire sur la Bṛhadāraṇyaka Upaniṣad",
+            "en": "Commentary on the Bṛhadāraṇyaka Upaniṣad"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Śaṅkara distingue deux niveaux de l'absolu : un Dieu personnel, créateur et objet de dévotion (saguṇa brahman, Īśvara), réel au plan empirique, et, au plan ultime, un <c id='brahman'>brahman</c> sans attributs (<c id='nirguna-brahman'>nirguṇa</c>), au-delà de toute personne et de toute relation. Au regard de notre axe, ce n'est pas un athéisme : l'absolu est bien le fondement de tout. Mais ce n'est pas non plus le théisme d'un créateur souverain distinct du monde, car le Dieu personnel est lui-même une figure conventionnelle que la connaissance ultime traverse. La <dif>tension</dif> entre dévotion et savoir libérateur est ainsi désamorcée par la hiérarchie des deux vérités : Dieu pour qui chemine, l'impersonnel pour qui sait, d'où une position théiste mais retenue.",
+          "en": "Śaṅkara distinguishes two levels of the absolute: a personal God, creator and object of devotion (saguṇa brahman, Īśvara), real at the empirical level, and, at the ultimate level, a <c id='brahman'>brahman</c> without attributes (<c id='nirguna-brahman'>nirguṇa</c>), beyond all personhood and all relation. With respect to our axis this is not an atheism: the absolute is indeed the ground of everything. But neither is it the theism of a sovereign creator distinct from the world, for the personal God is himself a conventional figure that ultimate knowledge passes through. The <dif>tension</dif> between devotion and liberating knowledge is thus dissolved by the hierarchy of the two truths: God for the one who journeys, the impersonal for the one who knows, hence a theist but restrained position."
+        },
+        "references": [
+          {
+            "fr": "Commentaire sur les Brahma Sūtra, I, 1",
+            "en": "Commentary on the Brahma Sūtras, I.1"
+          },
+          {
+            "fr": "Commentaire sur la Bhagavad Gītā",
+            "en": "Commentary on the Bhagavad Gītā"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le <c id='brahman'>brahman</c> est à la fois le plus intime, présent au cœur de chacun comme son propre soi, et l'absolu qui excède radicalement le monde sensible : ce dernier n'a qu'une réalité empirique tenue pour <c id='maya'>illusion</c> (māyā) au regard de l'ultime. La balance penche vers la transcendance, non au sens d'un arrière-monde séparé, mais parce que la <stk>vérité</stk> ne se trouve pas dans le donné : elle exige de traverser l'apparence du multiple pour rejoindre l'unique réel. L'immanence est réelle, mais c'est l'immanence d'un absolu qui, en lui-même, ne dépend de rien de mondain.",
+          "en": "<c id='brahman'>Brahman</c> is at once the most intimate, present in the heart of each as one's own self, and the absolute that radically exceeds the sensible world: the latter holds only an empirical reality, taken as <c id='maya'>illusion</c> (māyā) in the light of the ultimate. The balance tips toward transcendence, not in the sense of a separate backworld, but because <stk>truth</stk> is not found in the given: it requires passing through the appearance of the manifold to reach the one real. Immanence is real, but it is the immanence of an absolute that, in itself, depends on nothing worldly."
+        },
+        "references": [
+          {
+            "fr": "Commentaire sur les Brahma Sūtra, II, 1",
+            "en": "Commentary on the Brahma Sūtras, II.1"
+          },
+          {
+            "fr": "Upadeśasāhasrī",
+            "en": "Upadeśasāhasrī"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.4
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Sur le brahman, qui n'est ni perçu ni inféré à partir du monde, la seule source valide est la révélation (śruti), la parole des <w>Upaniṣad</w> : l'expérience sensible ne donne que le multiple, et le raisonnement seul ne peut établir l'absolu. Mais Śaṅkara n'est pas un fidéiste : la raison (yukti) est indispensable pour interpréter l'Écriture, lever ses apparentes contradictions et réfuter les écoles rivales, et l'enseignement ne sauve que lorsqu'il devient expérience directe du soi. Le matériau premier n'est donc pas empirique mais scripturaire et rationnel, ce qui le situe du côté de la raison sans en faire un rationaliste pur, l'autorité du témoignage révélé restant première.",
+          "en": "On brahman, which is neither perceived nor inferred from the world, the only valid source is revelation (śruti), the word of the <w>Upaniṣads</w>: sense experience gives only the manifold, and reasoning alone cannot establish the absolute. But Śaṅkara is no fideist: reason (yukti) is indispensable to interpret Scripture, resolve its apparent contradictions and refute rival schools, and the teaching saves only when it becomes direct experience of the self. The primary material is thus not empirical but scriptural and rational, which places him on the side of reason without making him a pure rationalist, the authority of revealed testimony remaining first."
+        },
+        "references": [
+          {
+            "fr": "Commentaire sur les Brahma Sūtra, I, 1, 3-4",
+            "en": "Commentary on the Brahma Sūtras, I.1.3-4"
+          },
+          {
+            "fr": "Upadeśasāhasrī",
+            "en": "Upadeśasāhasrī"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La connaissance libératrice (vidyā) n'est pas une opinion probable mais une certitude définitive qui, une fois levée l'ignorance, ne peut plus être contredite, comme la corde reconnue dissipe à jamais le serpent cru. Le doute appartient au domaine de l'ignorance, non au savoir du soi, qui est immédiat et auto-évident. Śaṅkara argumente d'ailleurs en dogmatique contre les sceptiques et les écoles rivales, tenant pour acquis qu'une vérité ultime est accessible et démontrable.",
+          "en": "Liberating knowledge (vidyā) is not a probable opinion but a definitive certainty which, once ignorance is removed, can no longer be contradicted, as the rope once recognized dispels the snake forever. Doubt belongs to the domain of ignorance, not to the knowledge of the self, which is immediate and self-evident. Śaṅkara argues moreover as a dogmatist against the skeptics and rival schools, taking it as settled that an ultimate truth is accessible and demonstrable."
+        },
+        "references": [
+          {
+            "fr": "Upadeśasāhasrī",
+            "en": "Upadeśasāhasrī"
+          },
+          {
+            "fr": "Commentaire sur les Brahma Sūtra, II, 2",
+            "en": "Commentary on the Brahma Sūtras, II.2"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0, 0.6, 0.4]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le bien suprême est la <c id='moksha'>délivrance</c> (mokṣa), comprise comme reconnaissance de l'identité du soi et de l'absolu : non un plaisir, non même une vertu pour elle-même, mais l'accomplissement de ce que l'on est déjà. Cette délivrance est décrite comme félicité (ānanda), béatitude qui est la nature même du <c id='brahman'>brahman</c> : on est tout près d'un eudémonisme, le souverain bien étant la plénitude réalisée de l'être. La part de perfectionnement subsiste, car la voie exige discipline, renoncement et purification du mental, mais ces moyens ne créent pas la délivrance : ils écartent ce qui la voilait.",
+          "en": "The sovereign good is <c id='moksha'>liberation</c> (mokṣa), understood as the recognition of the identity of the self and the absolute: not a pleasure, not even a virtue for its own sake, but the achievement of what one already is. This liberation is described as bliss (ānanda), a beatitude that is the very nature of <c id='brahman'>brahman</c>: we are close to a eudaimonism, the sovereign good being the realized fullness of being. A perfectionist strand remains, since the path demands discipline, renunciation and purification of the mind, but these means do not create liberation: they remove what was veiling it."
+        },
+        "references": [
+          {
+            "fr": "Commentaire sur la Taittirīya Upaniṣad (sur l'ānanda)",
+            "en": "Commentary on the Taittirīya Upaniṣad (on ānanda)"
+          },
+          {
+            "fr": "Upadeśasāhasrī",
+            "en": "Upadeśasāhasrī"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0, 0.15, 0.85]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le désir des objets enchaîne au <c id='samsara'>saṃsāra</c>, le cycle des renaissances : il naît de l'ignorance qui prend le soi pour le corps et court après ce qui lui manque. Parmi les conditions de la connaissance, Śaṅkara place le renoncement (vairāgya) aux fruits des actes, ici-bas comme dans l'au-delà, et la quête ardente de la seule délivrance. La pente est nettement celle du détachement : non parce que le plaisir serait coupable, mais parce que tout désir tourné vers le multiple manque l'unique réel et le seul bien stable. Un tri subsiste en arrière-plan, le désir de libération (mumukṣutva) étant lui-même cultivé, mais comme désir qui doit s'éteindre une fois son terme atteint.",
+          "en": "Desire for objects binds one to <c id='samsara'>saṃsāra</c>, the cycle of rebirths: it arises from the ignorance that takes the self for the body and chases after what it lacks. Among the conditions of knowledge, Śaṅkara places renunciation (vairāgya) of the fruits of action, here and hereafter, and the ardent quest for liberation alone. The slope is clearly that of detachment: not because pleasure would be culpable, but because every desire turned toward the manifold misses the one real and the only stable good. A sorting remains in the background, the desire for liberation (mumukṣutva) being itself cultivated, but as a desire meant to extinguish once its end is reached."
+        },
+        "references": [
+          {
+            "fr": "Commentaire sur les Brahma Sūtra, I, 1, 1 (les quatre prérequis)",
+            "en": "Commentary on the Brahma Sūtras, I.1.1 (the fourfold prerequisite)"
+          },
+          {
+            "fr": "Commentaire sur la Bhagavad Gītā",
+            "en": "Commentary on the Bhagavad Gītā"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.85, 0.15, 0, 0]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'existence s'inscrit dans un ordre dont la fin est fixée d'avance : sortir du cycle des renaissances et retrouver l'identité du soi et du <c id='brahman'>brahman</c>. Le sens n'est pas une création arbitraire de l'individu mais la reconnaissance d'une vérité déjà là, voilée par l'ignorance ; toute vie est orientée, qu'elle le sache ou non, vers cette délivrance. Une part de cheminement personnel subsiste, car c'est à chacun de parcourir la voie, mais le terme n'est pas inventé : il est découvert.",
+          "en": "Existence belongs to an order whose end is fixed in advance: to leave the cycle of rebirths and recover the identity of the self and <c id='brahman'>brahman</c>. Meaning is not an arbitrary creation of the individual but the recognition of a truth already there, veiled by ignorance; every life is oriented, whether it knows it or not, toward this liberation. A measure of personal journeying remains, since it falls to each to walk the path, but the end is not invented: it is discovered."
+        },
+        "references": [
+          {
+            "fr": "Commentaire sur la Bhagavad Gītā",
+            "en": "Commentary on the Bhagavad Gītā"
+          },
+          {
+            "fr": "Upadeśasāhasrī",
+            "en": "Upadeśasāhasrī"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.1, 0, 0.9, 0]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le soi (<c id='atman'>ātman</c>) n'est jamais né et ne meurt jamais : la mort n'affecte que le composé corps-mental, non la conscience qui en est le témoin. À cet égard, Śaṅkara relève de l'immortalisme, la vie présente étant un passage en vue de la délivrance. Mais l'encodage demande une nuance : ce qui est immortel n'est pas l'âme individuelle, qui se défait avec ses renaissances, mais le soi impersonnel identique en tous. Pour qui a réalisé cette identité, la mort n'est même plus un événement à craindre, ce qui ajoute une coloration proche du « la mort n'est rien » : elle ne peut rien retrancher à ce qui, par essence, n'a jamais été dans le temps.",
+          "en": "The self (<c id='atman'>ātman</c>) is never born and never dies: death touches only the body-mind compound, not the consciousness that witnesses it. In this respect Śaṅkara belongs to immortalism, the present life being a passage toward liberation. But the encoding calls for a nuance: what is immortal is not the individual soul, which unravels with its rebirths, but the impersonal self identical in all. For the one who has realized this identity, death is no longer even an event to fear, which adds a coloring close to \"death is nothing\": it can subtract nothing from what, in essence, was never in time."
+        },
+        "quote": {
+          "text": {
+            "fr": "Il n'est jamais né et jamais ne meurt ; non engendré, permanent, éternel, il n'est pas tué quand le corps est tué.",
+            "en": "It is never born and never dies; unborn, abiding, eternal, it is not slain when the body is slain."
+          },
+          "source": {
+            "fr": "Bhagavad Gītā, II, 20, commentée par Śaṅkara",
+            "en": "Bhagavad Gītā, II.20, as commented by Śaṅkara"
+          }
+        },
+        "references": [
+          {
+            "fr": "Commentaire sur la Bhagavad Gītā, II, 11-30",
+            "en": "Commentary on the Bhagavad Gītā, II.11-30"
+          },
+          {
+            "fr": "Commentaire sur la Kaṭha Upaniṣad",
+            "en": "Commentary on the Kaṭha Upaniṣad"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La souffrance appartient au <c id='samsara'>saṃsāra</c> et à l'ignorance qui identifie le soi au corps : elle n'a pas de valeur rédemptrice propre, elle est un mal lié à la condition empirique, dont la racine est l'<c id='avidya'>erreur</c> (avidyā). Le but n'est pas de l'assumer ni de la sanctifier mais de la défaire à sa source, en dissipant l'ignorance par la connaissance : le soi réalisé, témoin impassible, n'est plus atteint par elle. La position rejoint donc l'idée d'une abolition de la souffrance, par voie de savoir plutôt que de simple soulagement.",
+          "en": "Suffering belongs to <c id='samsara'>saṃsāra</c> and to the ignorance that identifies the self with the body: it has no redemptive value of its own, it is an evil bound to the empirical condition whose root is <c id='avidya'>error</c> (avidyā). The aim is not to assume or sanctify it but to undo it at its source, by dispelling ignorance through knowledge: the realized self, an impassive witness, is no longer reached by it. The position thus meets the idea of an abolition of suffering, by way of knowledge rather than mere relief."
+        },
+        "references": [
+          {
+            "fr": "Commentaire sur la Bhagavad Gītā",
+            "en": "Commentary on the Bhagavad Gītā"
+          },
+          {
+            "fr": "Upadeśasāhasrī",
+            "en": "Upadeśasāhasrī"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La délivrance s'obtient par la connaissance (jñāna), non par l'émotion ni la seule dévotion : c'est l'ignorance, erreur de l'intellect, qui asservit, et c'est un savoir juste qui libère. La discipline préalable inclut la tranquillité (śama) et la maîtrise des passions, qui troublent le discernement entre le réel et l'apparent. L'affect n'est donc pas la voie d'accès à la vérité ni le ressort de la libération, ce qui penche du côté d'un intellectualisme, sans que les émotions soient pour autant niées au plan empirique.",
+          "en": "Liberation is reached through knowledge (jñāna), not through emotion or devotion alone: it is ignorance, an error of the intellect, that enslaves, and a right knowing that frees. The preparatory discipline includes tranquillity (śama) and mastery of the passions, which trouble the discernment between the real and the apparent. Affect is thus neither the access route to truth nor the spring of liberation, which leans toward an intellectualism, without emotions being denied at the empirical level."
+        },
+        "references": [
+          {
+            "fr": "Commentaire sur les Brahma Sūtra, I, 1, 1",
+            "en": "Commentary on the Brahma Sūtras, I.1.1"
+          },
+          {
+            "fr": "Upadeśasāhasrī",
+            "en": "Upadeśasāhasrī"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "BODILY_PLEASURES",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le renoncement (saṃnyāsa) au monde et à ses jouissances est tenu pour la condition la plus favorable à la connaissance libératrice : le sage idéal de Śaṅkara est l'ascète errant, détaché des plaisirs du corps comme de tout bien mondain. Les plaisirs sensibles attachent au composé corps-mental que la voie invite précisément à dépasser. C'est un ascétisme prononcé, qui ne tient pas le corps pour mauvais en soi mais le subordonne entièrement à la quête de la délivrance.",
+          "en": "Renunciation (saṃnyāsa) of the world and its enjoyments is held to be the condition most favorable to liberating knowledge: Śaṅkara's ideal sage is the wandering ascetic, detached from bodily pleasures as from every worldly good. Sensible pleasures bind one to the body-mind compound that the path invites one precisely to transcend. It is a pronounced asceticism, which does not hold the body to be evil in itself but subordinates it entirely to the quest for liberation."
+        },
+        "references": [
+          {
+            "fr": "Upadeśasāhasrī",
+            "en": "Upadeśasāhasrī"
+          },
+          {
+            "fr": "Commentaire sur la Bhagavad Gītā",
+            "en": "Commentary on the Bhagavad Gītā"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Contre les ritualistes (Mīmāṃsā) pour qui l'accomplissement des actes prescrits est la voie, Śaṅkara soutient que l'action ne délivre pas : elle reste dans le champ de l'ignorance et ne produit que des fruits transitoires. Seul le retournement vers l'intérieur, l'enquête sur « qui suis-je ? » et la connaissance du soi, conduit à la libération. La discipline est faite d'écoute de l'enseignement (śravaṇa), de réflexion (manana) et de méditation (nididhyāsana) : un examen patient tourné vers le témoin de toute expérience, à l'opposé d'une primauté de l'agir au-dehors.",
+          "en": "Against the ritualists (Mīmāṃsā), for whom the performance of prescribed acts is the way, Śaṅkara holds that action does not liberate: it stays within the field of ignorance and yields only transient fruits. Only the turn inward, the inquiry into \"who am I?\" and the knowledge of the self, leads to liberation. The discipline consists of hearing the teaching (śravaṇa), reflection (manana) and meditation (nididhyāsana): a patient examination turned toward the witness of all experience, the opposite of a primacy of outward action."
+        },
+        "references": [
+          {
+            "fr": "Commentaire sur les Brahma Sūtra, I, 1 (connaissance vs action)",
+            "en": "Commentary on the Brahma Sūtras, I.1 (knowledge vs action)"
+          },
+          {
+            "fr": "Upadeśasāhasrī",
+            "en": "Upadeśasāhasrī"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Il y a en chacun une essence éternelle et déterminée, le soi (<c id='atman'>ātman</c>), qui ne se fait pas par ses choix mais est de toute éternité ce qu'il est, identique au <c id='brahman'>brahman</c>. L'existence empirique, avec son histoire et ses actes, n'ajoute rien à cette nature : elle la voile seulement. C'est un essentialisme fort, à l'exact opposé de l'idée que l'existence précèderait l'essence, puisque la tâche n'est pas de se créer mais de reconnaître ce que l'on a toujours été.",
+          "en": "There is in each a determinate, eternal essence, the self (<c id='atman'>ātman</c>), which does not make itself by its choices but is from all eternity what it is, identical to <c id='brahman'>brahman</c>. Empirical existence, with its history and acts, adds nothing to this nature: it only veils it. This is a strong essentialism, the exact opposite of the idea that existence would precede essence, since the task is not to create oneself but to recognize what one has always been."
+        },
+        "references": [
+          {
+            "fr": "Upadeśasāhasrī",
+            "en": "Upadeśasāhasrī"
+          },
+          {
+            "fr": "Commentaire sur la Bhagavad Gītā, II",
+            "en": "Commentary on the Bhagavad Gītā, II"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MACHINE_MIND",
+      "status": "NOT_APPLICABLE",
+      "note": {
+        "fr": "Question anachronique : le corpus de Śaṅkara ne contient rien qui permette de le positionner sur la pensée des machines sans extrapolation hasardeuse. On peut tout au plus noter que la conscience-témoin, irréductible à tout composé, n'est par principe pas un processus que l'on pourrait fabriquer.",
+        "en": "An anachronistic question: Śaṅkara's corpus contains nothing that would allow positioning him on machine thought without hazardous extrapolation. At most one may note that witness-consciousness, irreducible to any compound, is in principle not a process one could manufacture."
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "SELF_NATURE",
+      "thesis": {
+        "fr": "Tu n'es ni ton corps ni ton mental : ton soi véritable (<c id='atman'>ātman</c>) est la conscience-témoin, et elle est identique à l'absolu, le <c id='brahman'>brahman</c>.",
+        "en": "You are neither your body nor your mind: your true self (<c id='atman'>ātman</c>) is witness-consciousness, and it is identical to the absolute, <c id='brahman'>brahman</c>."
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "thesis": {
+        "fr": "Une seule réalité existe sans second ; la multiplicité du monde n'est qu'une <c id='maya'>apparence</c> surimposée sur le brahman par l'ignorance, comme un serpent vu sur une corde.",
+        "en": "A single reality exists without a second; the world's plurality is but an <c id='maya'>appearance</c> superimposed on brahman by ignorance, like a snake seen on a rope."
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "thesis": {
+        "fr": "Aucun acte ni aucun rite ne délivre : seule la <c id='jnana'>connaissance</c> du soi, en dissipant l'ignorance, libère, car on ne devient pas le brahman, on l'est déjà.",
+        "en": "No act and no rite liberates: only <c id='jnana'>knowledge</c> of the self, by dispelling ignorance, frees, for one does not become brahman, one already is it."
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "thesis": {
+        "fr": "Le Dieu personnel est réel pour qui chemine, mais l'ultime est un <c id='brahman'>brahman</c> sans attributs, au-delà de toute personne : deux niveaux de vérité, non deux dieux.",
+        "en": "The personal God is real for the one who journeys, but the ultimate is a <c id='brahman'>brahman</c> without attributes, beyond all personhood: two levels of truth, not two gods."
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "thesis": {
+        "fr": "Le bien suprême, la <c id='moksha'>délivrance</c>, n'est pas un état à conquérir mais la reconnaissance de ce que l'on est déjà : la félicité même du brahman.",
+        "en": "The sovereign good, <c id='moksha'>liberation</c>, is not a state to be won but the recognition of what one already is: the very bliss of brahman."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-29T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

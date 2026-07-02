@@ -1,0 +1,142 @@
+{
+  "id": "CONSCIOUSNESS_NATURE",
+  "relation": "WORLD",
+  "territory": "MIND_CONSCIOUSNESS",
+  "label": {
+    "fr": "Nature de la conscience",
+    "en": "Nature of consciousness"
+  },
+  "question": {
+    "fr": "Quelle est la nature de la conscience et son rapport à la réalité physique ?",
+    "en": "What is the nature of consciousness and its relation to physical reality?"
+  },
+  "stakes": {
+    "fr": "Mes états vécus, la douleur, le rouge que je vois, le goût du café, ne sont-ils que des processus cérébraux, ou bien quelque chose leur échappe-t-il ? La place de l'esprit dans la nature, et ce qu'une science du cerveau pourra jamais expliquer, se jouent ici.",
+    "en": "My lived states, pain, the red I see, the taste of coffee, are they nothing but brain processes, or does something in them escape? The place of mind in nature, and what a science of the brain could ever hope to explain, are at play here."
+  },
+  "layer": "THEORY",
+  "type": "CATEGORICAL",
+  "poles": [
+    {
+      "id": "REDUCTIVE_PHYSICALISM",
+      "label": {
+        "fr": "Physicalisme réducteur",
+        "en": "Reductive physicalism"
+      },
+      "description": {
+        "fr": "La conscience n'est rien d'autre que l'activité du cerveau : les états mentaux sont des états physiques, que la science identifiera un jour. Il n'y a pas de mystère résiduel, seulement une complexité encore mal connue.",
+        "en": "Consciousness is nothing but the brain's activity: mental states are physical states that science will one day identify. There is no residual mystery, only complexity still poorly understood."
+      },
+      "figures": [
+        {
+          "slug": "smart",
+          "name": { "fr": "Smart", "en": "Smart" }
+        },
+        {
+          "slug": "place",
+          "name": { "fr": "Place", "en": "Place" }
+        }
+      ]
+    },
+    {
+      "id": "SUBSTANCE_DUALISM",
+      "label": {
+        "fr": "Dualisme des substances",
+        "en": "Substance dualism"
+      },
+      "description": {
+        "fr": "L'esprit et le corps sont deux substances distinctes : la conscience n'est pas le cerveau, mais une réalité d'une autre nature, l'âme, qui pourrait en principe exister à part. C'est la vision spontanée, et celle de nombreuses religions.",
+        "en": "Mind and body are two distinct substances: consciousness is not the brain but a reality of another nature, the soul, which could in principle exist apart. This is the spontaneous view, and that of many religions."
+      },
+      "figures": [
+        {
+          "slug": "descartes",
+          "name": { "fr": "Descartes", "en": "Descartes" }
+        },
+        {
+          "slug": "swinburne",
+          "name": { "fr": "Swinburne", "en": "Swinburne" }
+        }
+      ]
+    },
+    {
+      "id": "PROPERTY_DUALISM",
+      "label": {
+        "fr": "Dualisme des propriétés",
+        "en": "Property dualism"
+      },
+      "description": {
+        "fr": "Le cerveau est physique, mais il possède des propriétés irréductibles : l'effet que cela fait de voir du rouge ou de souffrir. Ce vécu qualitatif ne se laisse pas réduire aux neurones, et c'est là le « problème difficile » de la conscience.",
+        "en": "The brain is physical, but it has irreducible properties: what it is like to see red or to suffer. This qualitative feel cannot be reduced to neurons, and this is the \"hard problem\" of consciousness."
+      },
+      "figures": [
+        {
+          "slug": "chalmers",
+          "name": { "fr": "Chalmers", "en": "Chalmers" }
+        }
+      ]
+    },
+    {
+      "id": "PANPSYCHISM",
+      "label": {
+        "fr": "Panpsychisme",
+        "en": "Panpsychism"
+      },
+      "description": {
+        "fr": "L'expérience n'a pas surgi par miracle dans un univers mort : une forme d'intériorité est une propriété fondamentale de la matière, présente partout à des degrés divers, dont notre conscience serait la forme la plus élaborée.",
+        "en": "Experience did not arise by miracle in a dead universe: a form of inwardness is a fundamental property of matter, present everywhere in varying degrees, of which our consciousness would be the most elaborate form."
+      },
+      "figures": [
+        {
+          "slug": "strawson",
+          "name": { "fr": "Strawson", "en": "Strawson" }
+        },
+        {
+          "slug": "goff",
+          "name": { "fr": "Goff", "en": "Goff" }
+        }
+      ],
+      "nuances": [
+        {
+          "fr": "Galen Strawson présente sa position comme un « physicalisme réel », non comme l'ajout d'un esprit à une matière par ailleurs inerte.",
+          "en": "Galen Strawson frames his view as a \"real physicalism\", not as adding mind to otherwise inert matter."
+        }
+      ]
+    },
+    {
+      "id": "ILLUSIONISM",
+      "label": {
+        "fr": "Illusionnisme",
+        "en": "Illusionism"
+      },
+      "description": {
+        "fr": "Le vécu qualitatif que nous croyons saisir par introspection est une illusion que le cerveau se fait sur lui-même. Il n'y a pas de qualia à expliquer : seulement des mécanismes qui nous font croire qu'il y en a.",
+        "en": "The qualitative feel we think we grasp by introspection is an illusion the brain makes about itself. There are no qualia to explain: only mechanisms that make us believe there are."
+      },
+      "figures": [
+        {
+          "slug": "dennett",
+          "name": { "fr": "Dennett", "en": "Dennett" }
+        },
+        {
+          "slug": "frankish",
+          "name": { "fr": "Frankish", "en": "Frankish" }
+        }
+      ],
+      "nuances": [
+        {
+          "fr": "Dennett rejette les qualia tels qu'on les conçoit d'ordinaire, non l'existence de la vie consciente.",
+          "en": "Dennett rejects qualia as ordinarily conceived, not the existence of conscious life."
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 2,
+  "clusters": [],
+  "relatedAxes": [
+    "MACHINE_MIND",
+    "REALITY_NATURE",
+    "FREEDOM"
+  ]
+}

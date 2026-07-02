@@ -1,0 +1,16 @@
+{
+  "id": "heidegger-vs-jonas",
+  "from": { "kind": "PHILOSOPHER", "slug": "heidegger" },
+  "to": { "kind": "PHILOSOPHER", "slug": "jonas" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "Élève de <ph id='heidegger'>Heidegger</ph>, <ph id='jonas'>Jonas</ph> rompt avec son existentialisme indifférent à la nature pour fonder une ontologie du <c>vivant</c> et une éthique de la <c>responsabilité</c> envers les générations futures.",
+    "en": "A pupil of <ph id='heidegger'>Heidegger</ph>, <ph id='jonas'>Jonas</ph> breaks with his existentialism, indifferent to nature, to found an ontology of the <c>living</c> and an ethics of <c>responsibility</c> toward future generations."
+  },
+  "sources": [
+    { "fr": "Jonas, Le Principe responsabilité (1979)", "en": "Jonas, The Imperative of Responsibility (1979)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

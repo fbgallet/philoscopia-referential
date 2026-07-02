@@ -1,0 +1,11 @@
+{
+  "id": "nous",
+  "term": { "fr": "l'Intellect (Noûs)", "en": "Nous (Intellect)" },
+  "definition": {
+    "fr": "Noûs <ety>du grec noûs, esprit, intelligence</ety> désigne en philosophie grecque l'intellect ou la pensée. Dans le néoplatonisme de <ph id='plotinus'>Plotin</ph>, il prend un sens technique : l'Intellect est la deuxième <c id='hypostasis'>hypostase</c>, l'esprit divin et éternel qui procède de l'<c id='the-one'>Un</c> et contemple en lui-même les <c id='theory-of-forms'>Idées</c>, dans une unité où penser et être coïncident. Il importe de distinguer cette hypostase, principe métaphysique, de l'« intellect » au sens courant de faculté mentale individuelle.",
+    "en": "Nous <ety>from the Greek noûs, mind, intelligence</ety> designates intellect or thought in Greek philosophy. In the Neoplatonism of <ph id='plotinus'>Plotinus</ph> it takes a technical sense: Intellect is the second <c id='hypostasis'>hypostasis</c>, the divine, eternal mind that proceeds from the <c id='the-one'>One</c> and contemplates within itself the <c id='theory-of-forms'>Forms</c>, in a unity where thinking and being coincide. This hypostasis, a metaphysical principle, must be distinguished from \"intellect\" in the ordinary sense of an individual mental faculty."
+  },
+  "relatedAxes": ["REALITY_NATURE", "ESSENCE"],
+  "relatedTerms": ["the-one", "world-soul", "hypostasis", "theory-of-forms"],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "thing-in-itself",
+  "term": { "fr": "La chose en soi", "en": "The thing-in-itself" },
+  "definition": {
+    "fr": "La chose en soi, ou noumène, désigne chez <ph id='kant'>Kant</ph> la réalité telle qu'elle est indépendamment de la manière dont nous la percevons. Nous ne connaissons jamais que des phénomènes, c'est à dire les choses telles qu'elles nous apparaissent à travers les formes de notre sensibilité, l'espace et le temps, et les catégories de notre entendement. La chose en soi reste donc pensable mais inconnaissable, et cette limite trace pour Kant la frontière du savoir.",
+    "en": "The thing-in-itself, or noumenon, designates in <ph id='kant'>Kant</ph> reality as it is independently of the way we perceive it. We only ever know phenomena, that is, things as they appear to us through the forms of our sensibility, space and time, and the categories of our understanding. The thing-in-itself thus remains thinkable but unknowable, and this limit traces, for Kant, the boundary of knowledge."
+  },
+  "relatedAxes": ["REALITY_NATURE", "KNOWLEDGE_SOURCE", "KNOWLEDGE_STATUS"],
+  "relatedTerms": ["categorical-imperative", "radical-evil"],
+  "figure": { "slug": "kant", "name": { "fr": "Kant", "en": "Kant" } },
+  "positions": [
+    { "axisId": "REALITY_NATURE", "poleId": "IDEALISM" }
+  ],
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

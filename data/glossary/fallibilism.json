@@ -1,0 +1,11 @@
+{
+  "id": "fallibilism",
+  "term": { "fr": "Faillibilisme", "en": "Fallibilism" },
+  "definition": {
+    "fr": "Le faillibilisme tient une position médiane sur la <ax id='CERTAINTY'>certitude</ax> : un savoir est possible, mais aucune de nos affirmations n'est définitivement à l'abri d'une révision. On peut donc croire avec de bonnes raisons sans jamais prétendre à une vérité close. Cette voie évite à la fois la prétention du <c id='dogmatism'>dogmatisme</c> et la paralysie du <c id='skepticism'>scepticisme</c> radical, en faisant de la révisabilité la marque de toute connaissance honnête.",
+    "en": "Fallibilism holds a middle position on <ax id='CERTAINTY'>certainty</ax>: knowledge is possible, yet none of our claims is ever definitively safe from revision. One can therefore believe on good grounds without ever claiming a closed truth. This path avoids both the pretension of <c id='dogmatism'>dogmatism</c> and the paralysis of radical <c id='skepticism'>skepticism</c>, making revisability the mark of all honest knowledge."
+  },
+  "relatedAxes": ["CERTAINTY"],
+  "relatedTerms": ["dogmatism", "skepticism"],
+  "updatedAt": "2026-06-19T00:00:00.000Z"
+}

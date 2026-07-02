@@ -1,0 +1,16 @@
+{
+  "id": "augustine-to-anselm",
+  "from": { "kind": "PHILOSOPHER", "slug": "augustine" },
+  "to": { "kind": "PHILOSOPHER", "slug": "anselm" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='anselm'>Anselme</ph> prolonge la méthode augustinienne du <q>credo ut intelligam</q>, la foi cherchant l'intelligence, jusqu'à l'argument dit ontologique du Proslogion.",
+    "en": "<ph id='anselm'>Anselm</ph> extends the Augustinian method of <q>credo ut intelligam</q>, faith seeking understanding, all the way to the so-called ontological argument of the Proslogion."
+  },
+  "sources": [
+    { "fr": "Augustin, Confessions ; Anselme, Proslogion", "en": "Augustine, Confessions; Anselm, Proslogion" }
+  ],
+  "updatedAt": "2026-07-02T00:00:00.000Z"
+}

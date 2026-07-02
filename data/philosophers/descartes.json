@@ -1,0 +1,925 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "descartes",
+  "name": {
+    "fr": "Descartes",
+    "en": "Descartes"
+  },
+  "fullName": {
+    "fr": "René Descartes",
+    "en": "René Descartes"
+  },
+  "tagline": {
+    "fr": "<q>Je pense, donc je suis</q> : refonder tout le savoir sur un sol indubitable.",
+    "en": "<q>I think, therefore I am</q>: refounding all knowledge on indubitable ground."
+  },
+  "summary": {
+    "fr": "Mathématicien, physicien et philosophe français, formé chez les jésuites de La Flèche puis longtemps installé aux Provinces-Unies, où il publie l'essentiel de son œuvre à l'écart des autorités universitaires. Tenu pour le père de la philosophie moderne et fondateur du <mv id='rationalism'>rationalisme</mv> continental, il rompt avec la <pb>scolastique aristotélicienne</pb> héritée du Moyen Âge et entreprend, dans le <w id='meditations-descartes'>Discours de la méthode</w> puis les <w id='meditations-descartes'>Méditations métaphysiques</w>, de refonder l'ensemble du savoir sur une méthode unique inspirée des mathématiques. Inventeur de la géométrie analytique, il prépare la physique mécaniste qui culminera chez <ph>Newton</ph>. Sa pensée suscite aussitôt débats et objections, de <ph id='spinoza'>Spinoza</ph> à <ph id='leibniz'>Leibniz</ph>, et structure encore les querelles modernes sur l'esprit, le corps et la connaissance.",
+    "en": "French mathematician, physicist and philosopher, schooled by the Jesuits at La Flèche and long settled in the Dutch Republic, where he published most of his work away from the university authorities. Regarded as the father of modern philosophy and founder of continental <mv id='rationalism'>rationalism</mv>, he breaks with the <pb>Aristotelian scholasticism</pb> inherited from the Middle Ages and undertakes, in the <w id='meditations-descartes'>Discourse on Method</w> and then the <w id='meditations-descartes'>Meditations on First Philosophy</w>, to refound the whole of knowledge on a single method modelled on mathematics. The inventor of analytic geometry, he paves the way for the mechanistic physics that would culminate in <ph>Newton</ph>. His thought at once drew debate and objection, from <ph id='spinoza'>Spinoza</ph> to <ph id='leibniz'>Leibniz</ph>, and still frames modern disputes about mind, body and knowledge."
+  },
+  "birth": 1596,
+  "death": 1650,
+  "nationality": {
+    "fr": "Français",
+    "en": "French"
+  },
+  "movements": [
+    "rationalism"
+  ],
+  "entries": [
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Proche en cela des stoïciens, Descartes tient que l'adversité est l'occasion d'éprouver ses propres forces : la <c id='generosity'>générosité</c>, ferme résolution de bien user de son libre arbitre, procure un <kw>contentement intérieur</kw> que rien d'extérieur ne peut ôter, et qui naît justement de l'effort de bien faire malgré l'épreuve. La souffrance, maîtrisée par le jugement, devient ainsi matière à une satisfaction de soi légitime, non un pur mal.",
+          "en": "Close in this to the Stoics, Descartes holds that adversity is the occasion to test one's own strength: <c id='generosity'>generosity</c>, the firm resolve to use one's free will well, yields an <kw>inner contentment</kw> that nothing external can remove, and that arises precisely from the effort to do well despite the ordeal. Suffering, mastered by judgment, thus becomes matter for a legitimate self-satisfaction, not a pure evil."
+        },
+        "references": [
+          {
+            "fr": "Les passions de l'âme, art. 147-148 et 190",
+            "en": "The Passions of the Soul, arts. 147-148 and 190"
+          },
+          {
+            "fr": "Lettres à Élisabeth",
+            "en": "Letters to Princess Elisabeth"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.55,
+          0.45,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Descartes croit en un Dieu provident et en l'immortalité de l'âme, qui inscrivent la vie dans un ordre voulu et la promettent à une fin ; mais il bannit les causes finales de la connaissance, jugeant la sagesse divine impénétrable. Le sens accessible se déplace alors vers l'homme : le bon usage du <c id='free-will'>libre arbitre</c>, la perfection de la raison et le contentement de la <c id='generosity'>générosité</c>, une œuvre à accomplir plus qu'une finalité à contempler.",
+          "en": "Descartes believes in a provident God and in the immortality of the soul, which set life within a willed order and promise it an end; but he banishes final causes from knowledge, judging divine wisdom impenetrable. Accessible meaning then shifts toward the human: the right use of <c id='free-will'>free will</c>, the perfection of reason and the contentment of <c id='generosity'>generosity</c>, a work to accomplish more than a purpose to contemplate."
+        },
+        "references": [
+          {
+            "fr": "Méditations métaphysiques, IV",
+            "en": "Meditations on First Philosophy, IV"
+          },
+          {
+            "fr": "Les passions de l'âme, art. 153-156",
+            "en": "The Passions of the Soul, arts. 153-156"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.05,
+          0.05,
+          0.9,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le dualisme cartésien sépare réellement l'âme, substance pensante, du corps, substance étendue : rien dans la nature de l'esprit ne dépend du corps, dont la mort ne saurait donc l'atteindre. Descartes présente comme un but explicite des <w>Méditations</w> de démontrer, contre les libertins, l'immortalité de l'âme. La mort n'est que la défaillance d'une machine, l'âme lui survivant.",
+          "en": "Cartesian dualism really separates the soul, a thinking substance, from the body, an extended substance: nothing in the nature of the mind depends on the body, whose death therefore cannot reach it. Descartes presents it as an explicit aim of the <w>Meditations</w> to demonstrate, against the libertines, the immortality of the soul. Death is but the breakdown of a machine, the soul surviving it."
+        },
+        "references": [
+          {
+            "fr": "Méditations métaphysiques, Épître dédicatoire et VI",
+            "en": "Meditations on First Philosophy, Dedicatory Letter and VI"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.3,
+          0.4,
+          0.3
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Descartes tient les passions pour utiles quand elles sont bien réglées : il ne s'agit ni de les supprimer ni de les suivre, mais d'en rendre l'âme maîtresse par le jugement et une volonté ferme. D'inspiration stoïcienne, sa morale par provision borne le vouloir à ce qui dépend de nous et invite à changer ses désirs plutôt que l'ordre du monde. Mais il y joint l'affirmation d'un désir guidé par la raison : la vertu est de faire résolument ce qu'on juge le meilleur, source d'un contentement intérieur même dans l'échec. Détachement, tri et affirmation s'y équilibrent.",
+          "en": "Descartes holds the passions to be useful when well governed: the point is neither to suppress nor to follow them, but to make the soul their master through judgment and a firm will. Stoic in inspiration, his provisional morality bounds the will to what depends on us and counsels changing one's desires rather than the order of the world. Yet he joins to this the affirmation of a desire guided by reason: virtue lies in resolutely doing what one judges best, the source of an inner contentment even in failure. Detachment, sorting and affirmation balance out in him."
+        },
+        "references": [
+          {
+            "fr": "Discours de la méthode, III",
+            "en": "Discourse on Method, III"
+          },
+          {
+            "fr": "Les passions de l'âme, art. 144-148 et 211-212",
+            "en": "The Passions of the Soul, arts. 144-148 and 211-212"
+          }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "Tâcher toujours plutôt à me vaincre que la fortune, et à changer mes désirs que l'ordre du monde.",
+            "en": "To strive always to master myself rather than fortune, and to change my desires rather than the order of the world."
+          },
+          "source": {
+            "fr": "Discours de la méthode, III",
+            "en": "Discourse on Method, III"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Contre le <c id='skepticism'>scepticisme</c>, Descartes retourne l'arme du doute : il pousse celui-ci jusqu'à l'<c id='hyperbolic-doubt'>hyperbole</c>, supposant un <kw>malin génie</kw> qui le tromperait sur tout, pour voir si quelque chose y résiste. Or l'acte même de douter suppose un sujet qui doute : je puis tout révoquer en doute, sauf que je pense, et donc que je suis. Le <c>cogito</c> n'est pas un dogme posé d'avance mais une certitude conquise par le doute lui-même, point d'appui indubitable d'où l'on peut reconstruire tout le savoir. La conclusion est ainsi fermement <c id='dogmatism'>dogmatique</c> : une certitude pleine est atteignable, et le scepticisme se réfute en s'exerçant à fond.",
+          "en": "Against <c id='skepticism'>skepticism</c>, Descartes turns doubt against itself: he drives it to the point of <c id='hyperbolic-doubt'>hyperbole</c>, supposing an <kw>evil genius</kw> who deceives him about everything, to see whether anything withstands it. Yet the very act of doubting presupposes a subject who doubts: I can call everything into doubt except that I am thinking, and therefore that I am. The <c>cogito</c> is no dogma laid down in advance but a certainty won through doubt itself, an indubitable foothold from which the whole of knowledge can be rebuilt. The conclusion is thus firmly <c id='dogmatism'>dogmatic</c>: full certainty is attainable, and skepticism refutes itself when pushed to its limit."
+        },
+        "references": [
+          {
+            "fr": "Méditations métaphysiques, I et II",
+            "en": "Meditations on First Philosophy, I and II"
+          },
+          {
+            "fr": "Discours de la méthode, IV",
+            "en": "Discourse on Method, IV"
+          }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "Je pense, donc je suis.",
+            "en": "I think, therefore I am."
+          },
+          "source": {
+            "fr": "Discours de la méthode, IV",
+            "en": "Discourse on Method, IV"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Puisque les sens nous trompent et ne livrent que des qualités confuses, ils ne peuvent fonder une science certaine : seul l'entendement, qui conçoit clairement l'étendue géométrique sous les apparences sensibles (l'analyse du <kw>morceau de cire</kw>), atteint la nature des choses. Descartes en infère que les concepts fondateurs, l'idée de Dieu, celle de l'étendue, les vérités mathématiques, ne sauraient venir de l'expérience : ils sont des <c id='innate-ideas'>idées innées</c>, déposées dans l'entendement. Toute science se ramène alors à l'intuition de natures simples et à la déduction qui les enchaîne, sur le modèle des mathématiques, ce qui le sépare nettement de l'empirisme à venir, pour qui rien n'est dans l'esprit qui n'ait d'abord été dans les sens.",
+          "en": "Since the senses deceive us and yield only confused qualities, they cannot ground a certain science: only the understanding, which conceives geometrical extension clearly beneath the sensory appearances (the analysis of the <kw>piece of wax</kw>), reaches the nature of things. Descartes infers that the founding concepts, the idea of God, of extension, the mathematical truths, cannot come from experience: they are <c id='innate-ideas'>innate ideas</c> placed in the understanding. All science then reduces to the intuition of simple natures and the deduction that links them, on the model of mathematics, which sharply separates him from the coming empiricism, for which nothing is in the mind that was not first in the senses."
+        },
+        "references": [
+          {
+            "fr": "Méditations métaphysiques, III et V",
+            "en": "Meditations on First Philosophy, III and V"
+          },
+          {
+            "fr": "Règles pour la direction de l'esprit, III",
+            "en": "Rules for the Direction of the Mind, III"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Descartes fait de la volonté la faculté infinie de l'âme, ce par quoi nous sommes le plus à l'image de Dieu : c'est elle, et non l'entendement borné, qui peut tout affirmer ou nier. Cette liberté du <c id='free-will'>libre arbitre</c> est l'expérience la plus immédiate que nous ayons de nous-mêmes.",
+          "en": "Descartes makes the will the infinite faculty of the soul, that in which we most resemble God: it is the will, not the limited understanding, that can affirm or deny anything. This freedom of <c id='free-will'>free will</c> is the most immediate experience we have of ourselves."
+        },
+        "references": [
+          {
+            "fr": "Méditations métaphysiques, IV",
+            "en": "Meditations on First Philosophy, IV"
+          },
+          {
+            "fr": "Les passions de l'âme, art. 41 et 152",
+            "en": "The Passions of the Soul, arts. 41 and 152"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.05,
+          0.05,
+          0.9
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le réel se partage en deux substances irréductibles : la <c>chose pensante (res cogitans)</c>, dont l'essence est la pensée, et la <c>chose étendue (res extensa)</c>, dont l'essence est l'étendue géométrique. C'est le <kw>dualisme</kw> cartésien, qui fonde la possibilité d'une physique entièrement matérielle et d'une âme immatérielle.",
+          "en": "Reality divides into two irreducible substances: the <c>thinking thing (res cogitans)</c>, whose essence is thought, and the <c>extended thing (res extensa)</c>, whose essence is geometrical extension. This is Cartesian <kw>dualism</kw>, which grounds the possibility of an entirely material physics and an immaterial soul."
+        },
+        "references": [
+          {
+            "fr": "Méditations métaphysiques, VI",
+            "en": "Meditations on First Philosophy, VI"
+          },
+          {
+            "fr": "Principes de la philosophie, I, art. 51-54",
+            "en": "Principles of Philosophy, I, arts. 51-54"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.9,
+          0.1,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le moi est une substance, une <c>chose qui pense</c>, dont l'existence est saisie immédiatement dans le <c>cogito</c> et dont l'identité ne dépend ni du corps ni de la mémoire. C'est un <kw>substantialisme</kw> du sujet, qui assure aussi l'immortalité de l'âme.",
+          "en": "The self is a substance, a <c>thinking thing</c>, whose existence is grasped immediately in the <c>cogito</c> and whose identity depends on neither body nor memory. This is a <kw>substantialism</kw> of the subject, which also secures the soul's immortality."
+        },
+        "references": [
+          {
+            "fr": "Méditations métaphysiques, II",
+            "en": "Meditations on First Philosophy, II"
+          },
+          {
+            "fr": "Discours de la méthode, IV",
+            "en": "Discourse on Method, IV"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CAUSALITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.85,
+          0.15,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La nature matérielle s'explique entièrement par les lois du mouvement et la figure des parties : le corps des vivants, et les animaux eux-mêmes, sont des <kw>machines</kw>, dépourvues d'âme. Descartes exclut de la physique la recherche des causes finales, qu'il réserve à Dieu, d'où une part résiduelle de <kw>finalisme</kw> théologique.",
+          "en": "Material nature is fully explained by the laws of motion and the shape of parts: the bodies of living beings, and animals themselves, are <kw>machines</kw>, devoid of soul. Descartes banishes the search for final causes from physics, reserving them to God, hence a residual share of theological <kw>finalism</kw>."
+        },
+        "references": [
+          {
+            "fr": "Discours de la méthode, V",
+            "en": "Discourse on Method, V"
+          },
+          {
+            "fr": "Principes de la philosophie, I, art. 28 et II",
+            "en": "Principles of Philosophy, I, art. 28 and II"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le <c>cogito</c> n'assure d'abord que ma propre existence : tant qu'un <kw>malin génie</kw> pourrait me tromper jusque dans mes évidences, le doute n'est pas vaincu. Prouver Dieu devient donc la pièce maîtresse du système. Descartes en donne deux preuves : l'idée d'infini présente en moi, qui ne peut venir d'un être fini, exige une cause infinie (Méditation III) ; et l'existence appartient à l'essence de l'être parfait comme l'égalité des angles à celle du triangle, preuve <kw>ontologique</kw> (Méditation V). Or un Dieu parfait ne saurait être trompeur, la tromperie marquant un défaut : sa véracité garantit donc que ce que je conçois clairement et distinctement est vrai. Loin du simple théisme reçu, la position est la clé de voûte qui lève le doute et fonde toute la science.",
+          "en": "The <c>cogito</c> at first secures only my own existence: so long as an <kw>evil genius</kw> could deceive me even in my self-evident truths, doubt is not defeated. Proving God therefore becomes the keystone of the system. Descartes offers two proofs: the idea of infinity within me, which cannot arise from a finite being, demands an infinite cause (Meditation III); and existence belongs to the essence of the perfect being as the equality of its angles belongs to the triangle, the <kw>ontological</kw> proof (Meditation V). Now a perfect God cannot be a deceiver, deception betraying a defect: his veracity therefore guarantees that what I conceive clearly and distinctly is true. Far from inherited theism, the position is the keystone that lifts doubt and grounds the whole of science."
+        },
+        "references": [
+          {
+            "fr": "Méditations métaphysiques, III et V",
+            "en": "Meditations on First Philosophy, III and V"
+          },
+          {
+            "fr": "Discours de la méthode, IV",
+            "en": "Discourse on Method, IV"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRUTH_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.85,
+          0.15,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le critère de la vérité est l'évidence : est vrai ce que je conçois selon des <c>idées claires et distinctes</c>, et cette adéquation de l'idée à son objet est garantie par la véracité divine. La conception cartésienne relève donc de la correspondance, avec une exigence interne de cohérence dans l'enchaînement des raisons.",
+          "en": "The criterion of truth is evidence: what I conceive through <c>clear and distinct ideas</c> is true, and this adequacy of the idea to its object is guaranteed by divine veracity. The Cartesian conception thus belongs to the correspondence theory, with an internal demand for coherence in the chaining of reasons."
+        },
+        "references": [
+          {
+            "fr": "Méditations métaphysiques, III et IV",
+            "en": "Meditations on First Philosophy, III and IV"
+          },
+          {
+            "fr": "Principes de la philosophie, I, art. 45",
+            "en": "Principles of Philosophy, I, art. 45"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HUMAN_PLACE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.85,
+          0.1,
+          0.05
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Dès lors que la nature matérielle n'est plus qu'étendue régie par les lois du mouvement, connaître les forces des corps comme on connaît un mécanisme permet de les appliquer à tous les usages, médecine en tête. Descartes substitue à la <kw>philosophie spéculative</kw> de l'École, qui contemple les essences, une <kw>philosophie pratique</kw> qui transforme : la fin du savoir n'est plus de comprendre un ordre donné mais de l'asservir. La nature cesse d'être une communauté ou une mère pour devenir un domaine à posséder, un programme qui inaugure le rapport technicien moderne au monde.",
+          "en": "Once material nature is nothing but extension governed by the laws of motion, knowing the forces of bodies as one knows a mechanism allows them to be applied to every use, medicine first of all. Descartes replaces the <kw>speculative philosophy</kw> of the Schools, which contemplates essences, with a <kw>practical philosophy</kw> that transforms: the end of knowledge is no longer to understand a given order but to harness it. Nature ceases to be a community or a mother and becomes a domain to be possessed, a programme that inaugurates the modern technological relation to the world."
+        },
+        "references": [
+          {
+            "fr": "Discours de la méthode, VI",
+            "en": "Discourse on Method, VI"
+          }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "comme maîtres et possesseurs de la nature",
+            "en": "as masters and possessors of nature"
+          },
+          "source": {
+            "fr": "Discours de la méthode, VI",
+            "en": "Discourse on Method, VI"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "TECHNOLOGY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Pour Descartes, la science nouvelle a une fin pratique : produire des techniques, des arts mécaniques et une médecine qui prolongeraient la vie et soulageraient la condition humaine. Cet optimisme dans le pouvoir transformateur du savoir appliqué annonce <c>le techno-optimisme</c>, sans pour autant constituer une thèse explicite sur la technique comme telle.",
+          "en": "For Descartes, the new science has a practical end: to yield techniques, mechanical arts, and a medicine that would prolong life and relieve the human condition. This optimism in the transformative power of applied knowledge anticipates <c>techno-optimism</c>, though it never forms an explicit thesis about technology as such."
+        },
+        "references": [
+          {
+            "fr": "Discours de la méthode, VI",
+            "en": "Discourse on Method, VI"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Dans <w id='the-passions-of-the-soul-descartes'>Les passions de l'âme</w>, les passions sont des mouvements de l'âme causés par les esprits du corps : elles ne sont ni à supprimer ni à suivre aveuglément, mais à régler par la raison et par une volonté ferme. La maîtrise tient à un usage éclairé du jugement, ce qui penche vers <kw>l'intellectualisme</kw> sans rejeter la valeur des passions bien ordonnées.",
+          "en": "In <w id='the-passions-of-the-soul-descartes'>The Passions of the Soul</w>, the passions are motions of the soul caused by the body's spirits: they are neither to be suppressed nor blindly followed, but governed by reason and a firm will. Mastery lies in an enlightened use of judgment, which leans toward <kw>intellectualism</kw> without denying the worth of well-ordered passions."
+        },
+        "references": [
+          {
+            "fr": "Les passions de l'âme, art. 27-50 et 211-212",
+            "en": "The Passions of the Soul, arts. 27-50 and 211-212"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SCIENCE_PLACE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Descartes pense un savoir unifié : toutes les sciences ne sont qu'une seule et même sagesse humaine, qu'il figure par l'arbre dont la métaphysique est la racine, la physique le tronc et les sciences appliquées les branches. Cette unité méthodique du savoir penche vers <c>le scientisme</c>, même si la racine en reste métaphysique.",
+          "en": "Descartes conceives a unified knowledge: all the sciences are but one single human wisdom, which he pictures as a tree whose root is metaphysics, whose trunk is physics, and whose branches are the applied sciences. This methodic unity of knowledge leans toward <c>scientism</c>, even though its root remains metaphysical."
+        },
+        "references": [
+          {
+            "fr": "Principes de la philosophie, Lettre-préface",
+            "en": "Principles of Philosophy, Preface"
+          },
+          {
+            "fr": "Règles pour la direction de l'esprit, I",
+            "en": "Rules for the Direction of the Mind, I"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MACHINE_MIND",
+      "status": "NOT_APPLICABLE",
+      "note": {
+        "fr": "Descartes tient les animaux pour des machines et conçoit un test du langage pour distinguer l'homme de l'automate, mais son dualisme situe la pensée hors de toute mécanique : appliquer l'axe fonctionnalisme/naturalisme biologique exigerait une extrapolation anachronique trop forte pour être positionnée.",
+        "en": "Descartes holds animals to be machines and devises a language test to tell man from automaton, yet his dualism places thought outside all mechanism: applying the functionalism / biological-naturalism axis would require an anachronistic extrapolation too strong to be positioned."
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Toute la démarche cartésienne est un retrait au-dedans : c'est en se détournant des sens et du monde, dans la solitude de la méditation, que l'esprit se saisit lui-même comme <c>chose qui pense</c>. Le <c>cogito</c> est conquis par une introspection méthodique, l'examen réflexif de ses propres pensées devenant le sol de toute certitude.",
+          "en": "The whole Cartesian procedure is a withdrawal inward: it is by turning away from the senses and the world, in the solitude of meditation, that the mind grasps itself as a <c>thing that thinks</c>. The <c>cogito</c> is won through methodic introspection, the reflective examination of one's own thoughts becoming the ground of all certainty."
+        },
+        "references": [
+          {
+            "fr": "Méditations métaphysiques, I et II",
+            "en": "Meditations on First Philosophy, I and II"
+          },
+          {
+            "fr": "Discours de la méthode, IV",
+            "en": "Discourse on Method, IV"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_CIRCLE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Privés de pensée et donc d'âme, les animaux ne sont chez Descartes que des <kw>automates</kw>, la fameuse <kw>bête-machine</kw> : ils ne sentent ni ne souffrent au sens propre, leurs cris n'étant que des effets mécaniques. La considération morale se restreint dès lors aux seuls êtres pensants, un <kw>anthropocentrisme</kw> strict.",
+          "en": "Deprived of thought and therefore of soul, animals are for Descartes mere <kw>automata</kw>, the famous <kw>beast-machine</kw>: they neither feel nor suffer in the proper sense, their cries being only mechanical effects. Moral consideration is thereby restricted to thinking beings alone, a strict <kw>anthropocentrism</kw>."
+        },
+        "references": [
+          {
+            "fr": "Discours de la méthode, V",
+            "en": "Discourse on Method, V"
+          },
+          {
+            "fr": "Lettre au marquis de Newcastle, 23 novembre 1646",
+            "en": "Letter to the Marquess of Newcastle, 23 November 1646"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_STATUS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Les <c>idées claires et distinctes</c> atteignent le réel tel qu'il est : garanties par la véracité d'un Dieu non trompeur, elles ne sont pas des constructions de l'esprit mais l'appréhension vraie de la nature des choses, comme l'étendue géométrique du monde matériel. C'est un <kw>réalisme scientifique</kw> fort, fondé en métaphysique.",
+          "en": "<c>Clear and distinct ideas</c> reach the real as it is: guaranteed by the veracity of a non-deceiving God, they are not constructions of the mind but the true apprehension of the nature of things, such as the geometrical extension of the material world. This is a strong, metaphysically grounded <kw>scientific realism</kw>."
+        },
+        "references": [
+          {
+            "fr": "Méditations métaphysiques, V et VI",
+            "en": "Meditations on First Philosophy, V and VI"
+          },
+          {
+            "fr": "Principes de la philosophie, I, art. 45 et II, art. 4",
+            "en": "Principles of Philosophy, I, art. 45 and II, art. 4"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "REDUCTION_EMERGENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le corps vivant, y compris le corps humain, s'explique intégralement comme une <kw>machine</kw> : circulation, digestion, mouvement des membres se ramènent aux seules lois de la figure et du mouvement, sans qu'aucun principe vital surajouté soit requis. La vie est <kw>réduite</kw> à la mécanique, l'âme restant d'un autre ordre.",
+          "en": "The living body, the human body included, is fully explained as a <kw>machine</kw>: circulation, digestion, and the motion of the limbs reduce to the sole laws of shape and motion, with no superadded vital principle required. Life is <kw>reduced</kw> to mechanism, the soul belonging to another order entirely."
+        },
+        "references": [
+          {
+            "fr": "Discours de la méthode, V",
+            "en": "Discourse on Method, V"
+          },
+          {
+            "fr": "Traité de l'homme",
+            "en": "Treatise on Man"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "FAITH_REASON",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.05,
+          0.85,
+          0,
+          0.1
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Dédiant ses Méditations à la Sorbonne, Descartes soutient que l'existence de Dieu et l'immortalité de l'âme, vérités de foi, peuvent être <arg>démontrées par la raison naturelle</arg>. Foi et raison s'accordent donc : loin de se contredire, la philosophie vient confirmer et fonder rationnellement les enseignements de la religion.",
+          "en": "Dedicating his Meditations to the Sorbonne, Descartes argues that the existence of God and the immortality of the soul, truths of faith, can be <arg>demonstrated by natural reason</arg>. Faith and reason thus agree: far from contradicting each other, philosophy comes to confirm and rationally ground the teachings of religion."
+        },
+        "references": [
+          {
+            "fr": "Méditations métaphysiques, Épître dédicatoire à la Sorbonne",
+            "en": "Meditations on First Philosophy, Dedicatory Letter to the Sorbonne"
+          },
+          {
+            "fr": "Discours de la méthode, IV",
+            "en": "Discourse on Method, IV"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.85
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Chaque substance a un attribut principal qui constitue son essence : la pensée pour l'esprit, l'étendue pour le corps. Cette détermination d'une nature fixe, antérieure et définissante, relève d'un <kw>essentialisme</kw> marqué, l'existence du moi étant elle-même connue à travers son essence de chose pensante.",
+          "en": "Each substance has a principal attribute that constitutes its essence: thought for the mind, extension for the body. This determination of a fixed nature, prior and defining, amounts to a pronounced <kw>essentialism</kw>, the self's very existence being known through its essence as a thinking thing."
+        },
+        "references": [
+          {
+            "fr": "Principes de la philosophie, I, art. 53",
+            "en": "Principles of Philosophy, I, art. 53"
+          },
+          {
+            "fr": "Méditations métaphysiques, II et VI",
+            "en": "Meditations on First Philosophy, II and VI"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0.6,
+          0.3
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Descartes ne développe pas d'éthique systématique, mais la <kw>morale par provision</kw> et l'analyse de la <c id='generosity'>générosité</c> dans <w id='the-passions-of-the-soul-descartes'>Les passions de l'âme</w> font tenir le souverain bien dans le bon usage du <c id='free-will'>libre arbitre</c> et la fermeté du jugement, source d'une satisfaction intérieure stable proche d'un <c id='eudaimonism'>eudémonisme</c> de la maîtrise de soi.",
+          "en": "Descartes develops no systematic ethics, but the <kw>provisional morality</kw> and the analysis of <c id='generosity'>generosity</c> in <w id='the-passions-of-the-soul-descartes'>The Passions of the Soul</w> locate the sovereign good in the right use of <c id='free-will'>free will</c> and firmness of judgment, the source of a stable inner contentment close to a self-mastery <c id='eudaimonism'>eudaimonism</c>."
+        },
+        "references": [
+          {
+            "fr": "Discours de la méthode, III",
+            "en": "Discourse on Method, III"
+          },
+          {
+            "fr": "Les passions de l'âme, art. 153-156 et 212",
+            "en": "The Passions of the Soul, arts. 153-156 and 212"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.05,
+          0.2,
+          0.7,
+          0.05
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La morale des <w id='the-passions-of-the-soul-descartes'>Passions de l'âme</w> tient dans une vertu maîtresse, la <c id='generosity'>générosité</c> : connaître que rien ne nous appartient en propre que la libre disposition de nos volontés, et se sentir une ferme résolution d'en bien user. <stk>Le juste se décide moins sur la règle ou les conséquences que sur la qualité de celui qui agit</stk> : la générosité est comme la clef de toutes les autres vertus et le remède général contre les dérèglements des passions, ce qui ancre Descartes dans une éthique de la vertu, avec une part de devoir dans la fermeté du jugement.",
+          "en": "The morality of <w id='the-passions-of-the-soul-descartes'>The Passions of the Soul</w> rests on a master virtue, <c id='generosity'>generosity</c>: to know that nothing truly belongs to us but the free disposal of our will, and to feel within ourselves a firm resolution to use it well. <stk>The right is decided less by rule or consequence than by the quality of the one who acts</stk>: generosity is like the key to all the other virtues and the general remedy against the disorders of the passions, which anchors Descartes in a virtue ethics, with a share of duty in the firmness of judgment."
+        },
+        "references": [
+          {
+            "fr": "Les passions de l'âme, art. 153-156 et 161",
+            "en": "The Passions of the Soul, arts. 153-156 and 161"
+          },
+          {
+            "fr": "Lettre à Élisabeth, 18 mai 1645",
+            "en": "Letter to Princess Elisabeth, 18 May 1645"
+          }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "La générosité, qui est comme la clef de toutes les autres vertus.",
+            "en": "Generosity, which is as it were the key to all the other virtues."
+          },
+          "source": {
+            "fr": "Les passions de l'âme, art. 161",
+            "en": "The Passions of the Soul, art. 161"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "SELF_INTEREST",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La <c id='generosity'>générosité</c> cartésienne unit une légitime estime de soi, fondée sur le bon usage du <c id='free-will'>libre arbitre</c>, et l'estime d'autrui : reconnaissant en tout homme ce même pouvoir de bien vouloir, les généreux sont naturellement portés à bien faire envers les autres et à n'estimer rien de plus grand que de leur être utiles. <dif>Le souci de soi n'est donc pas évincé mais réconcilié avec la bienveillance</dif>, ce qui penche modérément du côté d'autrui sans verser dans l'oubli de soi.",
+          "en": "Cartesian <c id='generosity'>generosity</c> unites a legitimate self-esteem, grounded in the right use of <c id='free-will'>free will</c>, with esteem for others: recognizing in every person this same power of willing well, the generous are naturally inclined to do good toward others and to value nothing more highly than being useful to them. <dif>Self-concern is thus not displaced but reconciled with benevolence</dif>, which leans moderately toward others without lapsing into self-forgetfulness."
+        },
+        "references": [
+          {
+            "fr": "Les passions de l'âme, art. 153-156",
+            "en": "The Passions of the Soul, arts. 153-156"
+          },
+          {
+            "fr": "Lettre à Élisabeth, 6 octobre 1645",
+            "en": "Letter to Princess Elisabeth, 6 October 1645"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "FORGIVENESS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "De la <c id='generosity'>générosité</c> découle une disposition à excuser plutôt qu'à mépriser : ceux qui sont généreux, écrit Descartes, ne sauraient avoir de mépris pour personne, et étant portés à excuser les fautes d'autrui, ils croient que celui qui les commet le fait plutôt par manque de connaissance que par manque de bonne volonté. <pb>Faut-il subordonner le pardon au repentir du coupable ?</pb> Cette indulgence de principe, antérieure à toute réparation, penche vers une clémence proche de l'inconditionnel.",
+          "en": "From <c id='generosity'>generosity</c> follows a readiness to excuse rather than to despise: the generous, Descartes writes, can hold no one in contempt, and being inclined to excuse the faults of others, they believe that whoever commits them does so rather through lack of knowledge than through lack of goodwill. <pb>Must forgiveness be made to depend on the wrongdoer's repentance?</pb> This principled leniency, prior to any reparation, leans toward a clemency close to the unconditional."
+        },
+        "references": [
+          {
+            "fr": "Les passions de l'âme, art. 154 et 187",
+            "en": "The Passions of the Soul, arts. 154 and 187"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "EPISTEMIC_JUSTIFICATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.9, 0.1, 0]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le projet des <w>Méditations métaphysiques</w> est expressément fondationnaliste : abattre toutes les opinions douteuses pour rebâtir le savoir sur un premier principe inébranlable, le <q>cogito</q>, dont la certitude soutient ensuite tout l'édifice. La connaissance repose sur des fondations indubitables, non sur la seule cohérence d'un réseau de croyances.",
+          "en": "The project of the <w>Meditations on First Philosophy</w> is expressly foundationalist: to tear down every doubtful opinion and rebuild knowledge on a single unshakeable first principle, the <q>cogito</q>, whose certainty then supports the whole edifice. Knowledge rests on indubitable foundations, not on the mere coherence of a web of beliefs."
+        },
+        "references": [
+          {
+            "fr": "Méditations métaphysiques, I-II",
+            "en": "Meditations on First Philosophy, I-II"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CONSCIOUSNESS_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0, 0.9, 0.1, 0, 0]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'argument repose sur un principe : ce que je conçois clairement et distinctement comme pouvant exister à part existe réellement à part, Dieu pouvant le créer ainsi. Or je puis concevoir mon esprit, pure <c>chose pensante</c> (<c>res cogitans</c>), sans rien lui attribuer de corporel, et le corps, pure <c>étendue</c> (<c>res extensa</c>), sans pensée. Mon essence est donc de penser, et l'esprit est réellement distinct du corps, une substance d'une autre nature que le cerveau. Ce <kw>dualisme des substances</kw> rompt avec l'âme aristotélicienne, forme d'un corps, et libère du même coup la matière pour une physique purement mécaniste ; mais il lègue le problème, que Descartes peinera à résoudre, de leur union et de leur interaction.",
+          "en": "The argument rests on a principle: what I clearly and distinctly conceive as able to exist apart really exists apart, since God could create it so. Now I can conceive my mind, pure <c>thinking thing</c> (<c>res cogitans</c>), with nothing corporeal attributed to it, and body, pure <c>extension</c> (<c>res extensa</c>), with no thought. My essence is therefore to think, and the mind is really distinct from the body, a substance of another nature than the brain. This <kw>substance dualism</kw> breaks with the Aristotelian soul, form of a body, and at one stroke frees matter for a purely mechanistic physics; yet it bequeaths the problem, which Descartes will struggle to solve, of their union and interaction."
+        },
+        "references": [
+          {
+            "fr": "Méditations métaphysiques, VI",
+            "en": "Meditations on First Philosophy, VI"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "EMBODIMENT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le moi véritable est la chose pensante ; le corps est une machine, distincte de l'âme, à laquelle celle-ci est jointe. <dif>Descartes reconnaît pourtant une union substantielle de l'âme et du corps</dif> et refuse l'image du pilote dans son navire, ce qui tempère un peu le pur instrumentalisme.",
+          "en": "The true self is the thinking thing; the body is a machine, distinct from the soul, to which the soul is joined. <dif>Descartes nonetheless acknowledges a substantial union of soul and body</dif> and rejects the image of the pilot in his ship, which tempers the pure instrumentalism somewhat."
+        },
+        "references": [
+          {
+            "fr": "Méditations métaphysiques, VI ; Lettres à Élisabeth",
+            "en": "Meditations on First Philosophy, VI; Letters to Elisabeth"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "CONSCIOUSNESS_NATURE",
+      "thesis": {
+        "fr": "L'esprit et le corps sont deux substances réellement distinctes : je puis concevoir la <c>chose pensante</c> sans rien de corporel, donc mon essence est de penser, non d'être étendu.",
+        "en": "Mind and body are two really distinct substances: I can conceive the <c>thinking thing</c> with nothing corporeal, so my essence is to think, not to be extended."
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "thesis": {
+        "fr": "Je puis douter de tout, sauf que je doute : <q>je pense, donc je suis</q> résiste au <c id='hyperbolic-doubt'>doute le plus radical</c> et devient le sol indubitable de tout le savoir.",
+        "en": "I can doubt everything except that I doubt: <q>I think, therefore I am</q> withstands the most <c id='hyperbolic-doubt'>radical doubt</c> and becomes the indubitable ground of all knowledge."
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "thesis": {
+        "fr": "Les sens trompent : seule la raison, par l'intuition de natures simples et la déduction, atteint le vrai, à partir d'<c id='innate-ideas'>idées innées</c> que l'expérience n'a pas mises en nous.",
+        "en": "The senses deceive: only reason, by the intuition of simple natures and deduction, reaches the true, starting from <c id='innate-ideas'>innate ideas</c> that experience did not put in us."
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "thesis": {
+        "fr": "Un Dieu parfait existe et ne saurait me tromper : sa véracité seule garantit que mes <c>idées claires et distinctes</c> sont vraies, et lève ainsi le doute.",
+        "en": "A perfect God exists and cannot deceive me: his veracity alone guarantees that my <c>clear and distinct ideas</c> are true, and so lifts doubt."
+      }
+    },
+    {
+      "axisId": "HUMAN_PLACE_NATURE",
+      "thesis": {
+        "fr": "La science ne doit plus contempler la nature mais la transformer : en connaissant les forces des corps, l'homme se rend <q>comme maître et possesseur</q> du monde matériel.",
+        "en": "Science should no longer contemplate nature but transform it: by knowing the forces of bodies, man makes himself <q>as master and possessor</q> of the material world."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

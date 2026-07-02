@@ -1,0 +1,83 @@
+{
+  "id": "BEAUTY",
+  "relation": "WORLD",
+  "territory": "AESTHETICS",
+  "label": {
+    "fr": "Le beau",
+    "en": "Beauty"
+  },
+  "question": {
+    "fr": "La beauté est-elle dans les choses elles-mêmes ou dans le regard de celui qui les contemple ?",
+    "en": "Is beauty in things themselves or in the eye of the beholder?"
+  },
+  "stakes": {
+    "fr": "Si la beauté tient aux choses, on peut éduquer son regard, débattre, avoir tort ; si elle n'est qu'en nous, les goûts ne se discutent plus et tout jugement se vaut. C'est la possibilité même d'un beau partagé, par-delà les préférences, qui est en jeu.",
+    "en": "If beauty belongs to things, we can train our eye, argue, be wrong; if it lies only in us, taste is beyond dispute and every judgement is as good as any other. What is at stake is the very possibility of a shared beauty, beyond mere preference."
+  },
+  "layer": "THEORY",
+  "type": "BIPOLAR_MEDIAN",
+  "poles": [
+    {
+      "id": "OBJECTIVE_BEAUTY",
+      "label": {
+        "fr": "Beau objectif",
+        "en": "Objective beauty"
+      },
+      "description": {
+        "fr": "La beauté est une propriété réelle des choses, fondée sur l'harmonie, la proportion ou la perfection de la forme. Certaines œuvres sont belles en elles-mêmes, que nous sachions ou non les apprécier.",
+        "en": "Beauty is a real property of things, grounded in harmony, proportion, or perfection of form. Some works are beautiful in themselves, whether or not we know how to appreciate them."
+      },
+      "figures": [
+        {
+          "slug": "plato",
+          "name": {
+            "fr": "Platon",
+            "en": "Plato"
+          }
+        },
+        {
+          "slug": "classicism",
+          "name": {
+            "fr": "le classicisme",
+            "en": "classicism"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SUBJECTIVE_BEAUTY",
+      "label": {
+        "fr": "Beau subjectif",
+        "en": "Subjective beauty"
+      },
+      "description": {
+        "fr": "La beauté n'existe pas dans les choses mais dans l'esprit qui les contemple : dire qu'un objet est beau, c'est exprimer le plaisir qu'il nous procure. Les goûts varient selon les individus et les cultures, sans qu'aucun ne soit le vrai.",
+        "en": "Beauty does not exist in things but in the mind that contemplates them: to call an object beautiful is to express the pleasure it gives us. Tastes vary across individuals and cultures, and none of them is the true one."
+      },
+      "figures": [
+        {
+          "slug": "hume",
+          "name": {
+            "fr": "Hume",
+            "en": "Hume"
+          }
+        }
+      ]
+    }
+  ],
+  "medianLabel": {
+    "fr": "Universalité subjective (Kant)",
+    "en": "Subjective universality (Kant)"
+  },
+  "medianDescription": {
+    "fr": "Le beau n'est pas une propriété de l'objet, mais il n'est pas non plus une simple affaire de goût personnel. Quand je dis qu'une chose est belle, j'exprime un plaisir subjectif tout en prétendant que chacun devrait l'éprouver. Le jugement de goût est subjectif par sa source, universel par sa prétention.",
+    "en": "Beauty is not a property of the object, yet it is not a mere matter of personal taste either. When I call something beautiful, I voice a subjective pleasure while claiming that everyone ought to feel it too. The judgment of taste is subjective in its source, universal in its claim."
+  },
+  "core": false,
+  "difficulty": 1,
+  "clusters": [],
+  "relatedAxes": [
+    "ART_NATURE",
+    "TASTE_HIERARCHY"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "coutume",
+  "term": { "fr": "La coutume", "en": "Custom" },
+  "definition": {
+    "fr": "La coutume est l'usage établi, le pli des habitudes qu'un peuple reçoit de son lieu et de son temps et qu'il finit par prendre pour la nature même. <ph id='montaigne'>Montaigne</ph> en fait sa « <q>violente et traîtresse maîtresse d'école</q> » : c'est elle qui façonne ce que chacun tient pour naturel et raisonnable, et donc le grand ressort de la croyance contre lequel il retourne son <c id='skepticism'>scepticisme</c>. Voir que nos certitudes morales tiennent à l'<ax id='MORAL_SCOPE'>usage du pays</ax> plutôt qu'à la raison désarme le fanatisme, mais nourrit aussi une prudence devant le changement, l'autorité des lois tenant à leur ancienneté plus qu'à leur fondement.",
+    "en": "Custom is established usage, the fold of habit a people receives from its place and time and ends up taking for nature itself. <ph id='montaigne'>Montaigne</ph> makes it his \"<q>violent and treacherous schoolmistress</q>\": it shapes what each of us holds to be natural and reasonable, and is thus the great engine of belief against which he turns his <c id='skepticism'>skepticism</c>. Seeing that our moral certainties owe to the <ax id='MORAL_SCOPE'>usages of one's country</ax> rather than to reason disarms fanaticism, yet also feeds a wariness of change, since the authority of laws lies in their antiquity more than in their foundation."
+  },
+  "relatedAxes": ["MORAL_SCOPE", "CONSERVATISM_PROGRESSISM", "SOCIAL_IDENTITY"],
+  "relatedTerms": ["skepticism", "tolerance"],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

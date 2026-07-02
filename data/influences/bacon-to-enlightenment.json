@@ -1,0 +1,16 @@
+{
+  "id": "bacon-to-enlightenment",
+  "from": { "kind": "PHILOSOPHER", "slug": "bacon" },
+  "to": { "kind": "MOVEMENT", "slug": "enlightenment" },
+  "directness": "ATTESTED",
+  "mode": "TRANSMITS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='bacon'>Bacon</ph> lègue aux Lumières le programme d'un savoir fondé sur l'expérience et tourné vers l'utilité, « savoir, c'est pouvoir ». <ph id='diderot'>Diderot</ph> et <ph id='d-alembert'>d'Alembert</ph> le saluent comme l'inspirateur de l'<w>Encyclopédie</w>, dont le Discours préliminaire dresse sa généalogie des sciences.",
+    "en": "<ph id='bacon'>Bacon</ph> bequeaths to the Enlightenment the programme of a knowledge founded on experience and turned toward utility, « knowledge is power ». <ph id='diderot'>Diderot</ph> and <ph id='d-alembert'>d'Alembert</ph> salute him as the inspiration of the <w>Encyclopédie</w>, whose Preliminary Discourse traces his genealogy of the sciences."
+  },
+  "sources": [
+    { "fr": "d'Alembert, Discours préliminaire de l'Encyclopédie (1751)", "en": "d'Alembert, Preliminary Discourse to the Encyclopédie (1751)" }
+  ],
+  "updatedAt": "2026-06-25T00:00:00.000Z"
+}

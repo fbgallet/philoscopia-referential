@@ -1,0 +1,12 @@
+{
+  "id": "political-constructivism-grounds-egalitarianism",
+  "ground": { "axisId": "RIGHTS_NATURE", "poleId": "POLITICAL_CONSTRUCTIVISM" },
+  "grounded": { "axisId": "DISTRIBUTIVE_JUSTICE", "poleId": "EGALITARIANISM" },
+  "kind": "T_V",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si les droits sont les termes d'une coopération équitable choisis entre égaux, une société juste doit corriger les inégalités que nul n'a méritées, celles de la naissance et des talents. Le constructivisme politique fonde l'égalitarisme : <ph id='rawls'>Rawls</ph> n'admet les inégalités que si elles profitent aussi aux plus défavorisés.",
+    "en": "If rights are the terms of a fair cooperation chosen among equals, a just society must correct the inequalities no one has deserved, those of birth and talent. Political constructivism grounds egalitarianism: <ph id='rawls'>Rawls</ph> admits inequalities only if they also benefit the least advantaged."
+  },
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

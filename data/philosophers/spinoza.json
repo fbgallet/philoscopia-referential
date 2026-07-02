@@ -1,0 +1,853 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "spinoza",
+  "name": {
+    "fr": "Spinoza",
+    "en": "Spinoza"
+  },
+  "fullName": {
+    "fr": "Baruch Spinoza",
+    "en": "Baruch Spinoza"
+  },
+  "tagline": {
+    "fr": "<c id='immanence'>Dieu, c'est la Nature</c> : connaître la nécessité pour accéder à la béatitude.",
+    "en": "<c id='immanence'>God is Nature</c>: knowing necessity as the path to blessedness."
+  },
+  "summary": {
+    "fr": "Penseur <mv id='rationalism'>rationaliste</mv> du Siècle d'or hollandais, héritier de <ph id='descartes'>Descartes</ph> et de la tradition juive d'Amsterdam, dont sa communauté l'exclut à vingt-trois ans pour ses idées. Polisseur de lentilles refusant les honneurs académiques, il expose dans <w id='ethics-spinoza'>l'Éthique</w>, écrite <kw>more geometrico</kw> et publiée après sa mort, un système qui part de Dieu pour repenser la liberté, les passions et le bonheur. Longtemps maudit comme athée, il est redécouvert au XIXe siècle et demeure une référence majeure de la philosophie de l'immanence.",
+    "en": "A <mv id='rationalism'>rationalist</mv> thinker of the Dutch Golden Age, heir to <ph id='descartes'>Descartes</ph> and to the Jewish tradition of Amsterdam, whose community excommunicated him at twenty-three for his ideas. A lens-grinder who declined academic honours, he set out in <w id='ethics-spinoza'>the Ethics</w>, written <kw>more geometrico</kw> and published after his death, a system that starts from God to rethink freedom, the passions and happiness. Long cursed as an atheist, he was rediscovered in the nineteenth century and remains a major reference for the philosophy of immanence."
+  },
+  "birth": 1632,
+  "death": 1677,
+  "nationality": {
+    "fr": "Néerlandais",
+    "en": "Dutch"
+  },
+  "movements": [
+    "rationalism"
+  ],
+  "entries": [
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Chez Spinoza, l'<c>essence</c> actuelle d'une chose n'est rien d'autre que son <c>conatus</c>, l'effort par lequel elle persévère dans son être : tout, l'homme compris, agit et existe en suivant la nécessité de sa nature. Loin d'être indéterminé, chaque être enveloppe une essence éternelle qui se déduit de la substance ; ce qu'il peut, ce qu'il devient, découle de ce qu'il est.",
+          "en": "For Spinoza, the actual <c>essence</c> of a thing is nothing but its <c>conatus</c>, the striving by which it perseveres in its being: everything, the human being included, acts and exists by following the necessity of its nature. Far from indeterminate, each being involves an eternal essence deduced from substance; what it can do, what it becomes, follows from what it is."
+        },
+        "references": [
+          {
+            "fr": "Éthique, III, prop. 6-7",
+            "en": "Ethics, III, props. 6-7"
+          },
+          {
+            "fr": "Éthique, II, déf. 2",
+            "en": "Ethics, II, def. 2"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.95
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si tout découle de la nature de Dieu avec la même <c id='determinism'>nécessité</c> que les propriétés du triangle découlent de son essence, aucune volonté ne saurait s'en excepter. L'argument explique du même coup l'illusion du <c id='free-will'>libre arbitre</c> : <ex>telle une pierre lancée qui se croirait libre</ex>, nous avons conscience de nos désirs mais ignorons les causes qui les déterminent.",
+          "en": "If everything follows from God's nature with the same <c id='determinism'>necessity</c> as a triangle's properties follow from its essence, no act of will can be an exception. The argument also explains the illusion of <c id='free-will'>free will</c>: <ex>like a thrown stone that would believe itself free</ex>, we are conscious of our desires but ignorant of the causes that determine them."
+        },
+        "references": [
+          {
+            "fr": "Éthique, I, prop. 29 et appendice",
+            "en": "Ethics, I, prop. 29 and appendix"
+          },
+          {
+            "fr": "Lettre 58 à Schuller (la pierre qui se croit libre)",
+            "en": "Letter 58 to Schuller (the stone that thinks itself free)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Une pierre reçoit d'une cause extérieure qui la pousse une certaine quantité de mouvement... Concevez maintenant que cette pierre, tandis qu'elle continue de se mouvoir, pense et sache qu'elle fait effort, autant qu'elle peut, pour se mouvoir. Cette pierre, assurément, puisqu'elle n'a conscience que de son effort, croira être tout à fait libre.",
+            "en": "A stone receives from an external cause that pushes it a certain quantity of motion... Now conceive that this stone, while it continues to move, thinks and knows that it is striving, as far as it can, to move. This stone, surely, since it is conscious only of its striving, will believe itself entirely free."
+          },
+          "source": {
+            "fr": "Lettre 58 à Schuller",
+            "en": "Letter 58 to Schuller"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -1
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Spinoza déduit l'immanence de sa définition de la <c>substance</c> : étant <c>cause de soi</c> et infinie, il ne peut y en avoir qu'une, hors de laquelle rien ne se conçoit. Dieu ne saurait donc être un créateur transcendant séparé du monde, comme chez <ph id='descartes'>Descartes</ph> ou la théologie : il en est la <c id='immanence'>cause immanente</c>, et le réel tout entier n'est que la déduction de sa nature.",
+          "en": "Spinoza derives immanence from his definition of <c>substance</c>: being <c>cause of itself</c> and infinite, there can be only one, outside which nothing can be conceived. God therefore cannot be a transcendent creator set apart from the world, as in <ph id='descartes'>Descartes</ph> or in theology: he is its <c id='immanence'>immanent cause</c>, and the whole of reality is but the deduction of his nature."
+        },
+        "references": [
+          {
+            "fr": "Éthique, I, prop. 18 (Dieu, cause immanente)",
+            "en": "Ethics, I, prop. 18 (God, immanent cause)"
+          },
+          {
+            "fr": "Éthique, IV, préface (Deus sive Natura)",
+            "en": "Ethics, IV, preface (Deus sive Natura)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Dieu existe nécessairement, mais ce n'est pas le Dieu personnel et transcendant du théisme classique : c'est la <c>substance</c> unique, infinie, identique à la Nature (<c>panthéisme</c>). Sans providence ni volonté anthropomorphe, ce Dieu est si éloigné du théisme courant que Spinoza fut accusé d'athéisme ; d'où une valeur intermédiaire du côté du théisme, qui marque l'affirmation d'un Dieu tout en signalant sa nature impersonnelle.",
+          "en": "God exists necessarily, but is not the personal, transcendent God of classical theism: it is the single, infinite <c>substance</c>, identical with Nature (<c>pantheism</c>). Lacking providence or anthropomorphic will, this God is so remote from ordinary theism that Spinoza was charged with atheism; hence an intermediate value on the theist side, affirming a God while flagging its impersonal nature."
+        },
+        "references": [
+          {
+            "fr": "Éthique, I, prop. 11 (Dieu existe nécessairement)",
+            "en": "Ethics, I, prop. 11 (God necessarily exists)"
+          },
+          {
+            "fr": "Éthique, I, prop. 15 et 14 (substance unique)",
+            "en": "Ethics, I, props. 14-15 (single substance)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Tout ce qui est, est en Dieu, et rien ne peut sans Dieu être ni être conçu.",
+            "en": "Whatever is, is in God, and nothing can be or be conceived without God."
+          },
+          "source": {
+            "fr": "Éthique, I, prop. 15",
+            "en": "Ethics, I, prop. 15"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La connaissance vraie procède des <c id='adequate-idea'>idées adéquates</c> par enchaînement déductif, non de l'expérience sensible, source d'idées confuses (premier genre de connaissance). Le sommet est le <c>troisième genre de connaissance</c>, la <c>science intuitive</c>, qui saisit les choses dans leur nécessité à partir de l'essence de Dieu : c'est un <ax id='KNOWLEDGE_SOURCE'>rationalisme</ax> assumé.",
+          "en": "True knowledge proceeds from <c id='adequate-idea'>adequate ideas</c> by deductive chaining, not from sense experience, the source of confused ideas (the first kind of knowledge). Its summit is the <c>third kind of knowledge</c>, <c>intuitive science</c>, which grasps things in their necessity from the essence of God: an unabashed <ax id='KNOWLEDGE_SOURCE'>rationalism</ax>."
+        },
+        "references": [
+          {
+            "fr": "Éthique, II, prop. 40, scolie 2 (les trois genres de connaissance)",
+            "en": "Ethics, II, prop. 40, scholium 2 (the three kinds of knowledge)"
+          },
+          {
+            "fr": "Traité de la réforme de l'entendement",
+            "en": "Treatise on the Emendation of the Intellect"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Ce genre de connaissance procède de l'idée adéquate de l'essence formelle de certains attributs de Dieu à la connaissance adéquate de l'essence des choses.",
+            "en": "This kind of knowledge proceeds from an adequate idea of the formal essence of certain attributes of God to the adequate knowledge of the essence of things."
+          },
+          "source": {
+            "fr": "Éthique, II, prop. 40, scolie 2",
+            "en": "Ethics, II, prop. 40, scholium 2"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'<w id='ethics-spinoza'>Éthique</w> est démontrée <kw>more geometrico</kw>, à la manière des géomètres : définitions, axiomes, propositions et démonstrations. Cette architecture déductive témoigne d'un <c id='dogmatism'>dogmatisme</c> rationaliste, la conviction qu'une connaissance vraie et certaine de la totalité du réel est possible.",
+          "en": "The <w id='ethics-spinoza'>Ethics</w> is demonstrated <kw>more geometrico</kw>, in the manner of the geometers: definitions, axioms, propositions and proofs. This deductive architecture attests a rationalist <c id='dogmatism'>dogmatism</c>, the conviction that true and certain knowledge of the whole of reality is attainable."
+        },
+        "references": [
+          {
+            "fr": "Éthique (titre complet : Éthique démontrée selon l'ordre géométrique)",
+            "en": "Ethics (full title: Ethics Demonstrated in Geometrical Order)"
+          },
+          {
+            "fr": "Traité de la réforme de l'entendement, sur la certitude de l'idée vraie",
+            "en": "Treatise on the Emendation of the Intellect, on the certainty of the true idea"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.7,
+          0.3,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Chaque chose, comme mode fini de la <c>puissance</c> de Dieu, tend à persévérer dans son être : ce <c id='conatus'>conatus</c> est son essence actuelle. Le désir n'est donc pas un manque à combler, contre toute une tradition platonicienne, mais l'affirmation même de notre être ; la sagesse ne l'éteint pas, elle sélectionne par la raison ce qui accroît la <c id='joy'>puissance d'agir</c>.",
+          "en": "Each thing, as a finite mode of God's <c>power</c>, tends to persevere in its being: this <c id='conatus'>conatus</c> is its actual essence. Desire is therefore not a lack to be filled, against a whole Platonic tradition, but the very affirmation of our being; wisdom does not extinguish it but uses reason to select what increases the <c id='joy'>power to act</c>."
+        },
+        "references": [
+          {
+            "fr": "Éthique, III, prop. 9, scolie et définitions des affects (le désir, essence de l'homme)",
+            "en": "Ethics, III, prop. 9, scholium and definitions of the affects (desire, the essence of man)"
+          },
+          {
+            "fr": "Éthique, III, prop. 6-7 (conatus)",
+            "en": "Ethics, III, props. 6-7 (conatus)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Le désir est l'essence même de l'homme, en tant qu'on la conçoit comme déterminée à faire quelque chose par une affection donnée d'elle-même.",
+            "en": "Desire is the very essence of man, insofar as it is conceived as determined to do something by a given affection of itself."
+          },
+          "source": {
+            "fr": "Éthique, III, définitions des affects, déf. 1",
+            "en": "Ethics, III, definitions of the affects, def. 1"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0.5,
+          0.4
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le sommet de la connaissance, le <c>troisième genre</c>, saisit les choses en Dieu ; cette <c id='adequate-idea'>connaissance adéquate</c> engendre nécessairement une joie rapportée à sa cause, l'<c id='intellectual-love-of-god'>amour intellectuel de Dieu</c>. D'où le renversement propre à Spinoza : <q>la béatitude n'est pas le prix de la vertu, mais la vertu même</q>, car connaître adéquatement, c'est déjà être puissant et libre.",
+          "en": "The summit of knowledge, the <c>third kind</c>, grasps things in God; this <c id='adequate-idea'>adequate knowledge</c> necessarily generates a joy referred to its cause, the <c id='intellectual-love-of-god'>intellectual love of God</c>. Hence the reversal peculiar to Spinoza: <q>blessedness is not the reward of virtue, but virtue itself</q>, for to know adequately is already to be powerful and free."
+        },
+        "references": [
+          {
+            "fr": "Éthique, V, prop. 32-36 (amour intellectuel de Dieu, béatitude)",
+            "en": "Ethics, V, props. 32-36 (intellectual love of God, blessedness)"
+          },
+          {
+            "fr": "Éthique, V, prop. 42 (la béatitude n'est pas le prix de la vertu mais la vertu même)",
+            "en": "Ethics, V, prop. 42 (blessedness is not the reward of virtue but virtue itself)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "La béatitude n'est pas le prix de la vertu, mais la vertu même.",
+            "en": "Blessedness is not the reward of virtue, but virtue itself."
+          },
+          "source": {
+            "fr": "Éthique, V, prop. 42",
+            "en": "Ethics, V, prop. 42"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Puisque les <c>affects</c> suivent de la nécessité naturelle au même titre que tout le reste, les blâmer est vain : Spinoza propose de les traiter <q>comme s'il était question de lignes et de plans</q>. Son argument thérapeutique est précis : une passion est une idée confuse, donc une passivité ; en former une <c id='adequate-idea'>idée claire</c> la convertit en action, si bien que comprendre un affect, c'est déjà s'en affranchir, non le réprimer.",
+          "en": "Since the <c>affects</c> follow from natural necessity like everything else, blaming them is futile: Spinoza proposes to treat them <q>as if it were a question of lines and planes</q>. His therapeutic argument is precise: a passion is a confused idea, hence a passivity; forming a <c id='adequate-idea'>clear idea</c> of it turns it into an action, so that to understand an affect is already to free oneself from it, not to repress it."
+        },
+        "references": [
+          {
+            "fr": "Éthique, III, préface (étudier les affects géométriquement)",
+            "en": "Ethics, III, preface (studying the affects geometrically)"
+          },
+          {
+            "fr": "Éthique, V, prop. 3 (un affect dont on forme une idée claire cesse d'être passion)",
+            "en": "Ethics, V, prop. 3 (an affect of which we form a clear idea ceases to be a passion)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "Je traiterai des actions et des appétits humains comme s'il était question de lignes, de plans et de corps.",
+            "en": "I shall treat human actions and appetites just as if it were a question of lines, planes, and bodies."
+          },
+          "source": {
+            "fr": "Éthique, III, préface",
+            "en": "Ethics, III, preface"
+          }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "PAST_RELATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.85
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Comprendre que tout arrive par <c id='determinism'>nécessité</c> diminue le pouvoir des <dif>passions tristes</dif> sur l'esprit : nous nous affligeons moins de ce que nous savons inévitable. Cette acceptation sereine de la nécessité préfigure <c id='amor-fati'>l'amor fati</c>, sans révolte contre ce qui doit être.",
+          "en": "Understanding that everything happens by <c id='determinism'>necessity</c> lessens the power of <dif>sad passions</dif> over the mind: we grieve less over what we know to be inevitable. This serene acceptance of necessity prefigures <c id='amor-fati'>amor fati</c>, without revolt against what must be."
+        },
+        "references": [
+          {
+            "fr": "Éthique, V, prop. 6 (l'esprit pâtit moins des affects qu'il rapporte à la nécessité)",
+            "en": "Ethics, V, prop. 6 (the mind suffers less from affects it refers to necessity)"
+          }
+        ],
+        "quote": {
+          "text": {
+            "fr": "J'ai pris grand soin de ne pas tourner en dérision les actions humaines, de ne pas les déplorer, de ne pas les détester, mais de les comprendre.",
+            "en": "I have taken great care not to deride human actions, nor to bewail them, nor to detest them, but to understand them."
+          },
+          "source": {
+            "fr": "Traité politique, I, 4",
+            "en": "Political Treatise, I, 4"
+          }
+        },
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.05,
+          0.95,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Spinoza rejette toute <ax id='CAUSALITY'>finalité</ax> dans la Nature : les <c>causes finales</c> sont une fiction humaine, une projection de nos désirs sur un monde qui n'agit qu'en vertu de la nécessité de sa nature. Le sens n'est pas donné par une <c>téléologie</c> cosmique mais construit par l'effort de l'esprit vers la connaissance et la joie.",
+          "en": "Spinoza rejects all <ax id='CAUSALITY'>final causes</ax> in Nature: <c>final causes</c> are a human fiction, a projection of our desires onto a world that acts only by the necessity of its nature. Meaning is not given by a cosmic <c>teleology</c> but constructed through the mind's striving toward knowledge and joy."
+        },
+        "references": [
+          {
+            "fr": "Éthique, I, appendice (la critique des causes finales)",
+            "en": "Ethics, I, appendix (the critique of final causes)"
+          },
+          {
+            "fr": "Éthique, IV, préface (le bien et le mal sont des notions relatives à nous)",
+            "en": "Ethics, IV, preface (good and evil as notions relative to us)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SELF_INTEREST",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Chercher son propre <c>utile</c> est le fondement même de la vertu, mais l'utile bien compris, guidé par la raison, conduit l'homme à rechercher ce qui lui est commun avec les autres : <q>rien n'est plus utile à l'homme que l'homme</q>. Le <c id='conatus'>conatus</c> éclairé converge ainsi vers la concorde, sans devenir altruisme désintéressé.",
+          "en": "Seeking one's own <c>advantage</c> is the very foundation of virtue, but advantage rightly understood, guided by reason, leads man to seek what he has in common with others: <q>nothing is more useful to man than man</q>. Enlightened <c id='conatus'>conatus</c> thus converges on concord, without becoming disinterested altruism."
+        },
+        "references": [
+          {
+            "fr": "Éthique, IV, prop. 18, scolie (chercher son utile, fondement de la vertu)",
+            "en": "Ethics, IV, prop. 18, scholium (seeking one's advantage, the foundation of virtue)"
+          },
+          {
+            "fr": "Éthique, IV, prop. 35, corollaire (rien de plus utile à l'homme que l'homme)",
+            "en": "Ethics, IV, prop. 35, corollary (nothing more useful to man than man)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.33,
+          0.33,
+          0.34
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Spinoza est <c>moniste</c> : une seule <c>substance</c>, Dieu ou la Nature, dont la pensée et l'étendue sont deux <c>attributs</c> exprimant la même réalité sous deux aspects (<q>l'ordre et la connexion des idées sont les mêmes que l'ordre et la connexion des choses</q>). Sa position ne se range donc dans aucune des trois cases : elle se tient au centre, ni matérialiste (l'étendue n'est pas première) ni idéaliste (la pensée non plus), et son <c>dualisme des attributs</c> n'est pas le dualisme de deux substances. D'où des poids quasi égaux.",
+          "en": "Spinoza is a <c>monist</c>: a single <c>substance</c>, God or Nature, of which thought and extension are two <c>attributes</c> expressing the same reality under two aspects (<q>the order and connection of ideas is the same as the order and connection of things</q>). His position therefore fits none of the three slots: it stands at the centre, neither materialist (extension is not primary) nor idealist (nor is thought), and its <c>dualism of attributes</c> is not a dualism of two substances. Hence near-equal weights."
+        },
+        "references": [
+          {
+            "fr": "Éthique, II, prop. 7 (parallélisme des idées et des choses)",
+            "en": "Ethics, II, prop. 7 (parallelism of ideas and things)"
+          },
+          {
+            "fr": "Éthique, I, déf. 4 et prop. 14 (les attributs de la substance unique)",
+            "en": "Ethics, I, def. 4 and prop. 14 (the attributes of the single substance)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "AUTHORITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.4
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Dans le <w id='theological-political-treatise-spinoza'>Traité théologico-politique</w>, Spinoza soutient que la fin de l'État est la liberté et défend la <c>liberté de penser</c> et de s'exprimer comme condition de la paix civile et du progrès du savoir. Sans être anarchiste, il borne fortement l'autorité, surtout religieuse, au nom de cette liberté.",
+          "en": "In the <w id='theological-political-treatise-spinoza'>Theological-Political Treatise</w>, Spinoza argues that the end of the state is freedom and defends <c>freedom of thought</c> and expression as a condition of civil peace and the growth of knowledge. Without being an anarchist, he sharply limits authority, religious authority above all, in the name of that freedom."
+        },
+        "references": [
+          {
+            "fr": "Traité théologico-politique, ch. 20 (la liberté de philosopher)",
+            "en": "Theological-Political Treatise, ch. 20 (the freedom to philosophize)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CAUSALITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.9,
+          0,
+          0.1
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Spinoza rejette explicitement les <ax id='CAUSALITY'>causes finales</ax> comme une illusion humaine : la Nature n'agit en vue d'aucune fin, tout en découle par la seule nécessité de <c>causes efficientes</c>. C'est un <c>mécanisme</c> intégral, où l'idée d'un dessein providentiel n'est qu'un préjugé.",
+          "en": "Spinoza explicitly rejects <ax id='CAUSALITY'>final causes</ax> as a human illusion: Nature acts toward no end, everything following from it by the sole necessity of <c>efficient causes</c>. This is a thoroughgoing <c>mechanism</c>, where the idea of a providential design is mere prejudice."
+        },
+        "references": [
+          {
+            "fr": "Éthique, I, appendice (la critique des causes finales)",
+            "en": "Ethics, I, appendix (the critique of final causes)"
+          },
+          {
+            "fr": "Éthique, I, prop. 16 et 29 (tout suit nécessairement de la nature divine)",
+            "en": "Ethics, I, props. 16 and 29 (all follows necessarily from the divine nature)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "POLITICAL_IDEAL",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le <w id='political-treatise-spinoza'>Traité politique</w> s'ouvre sur un refus de railler, déplorer ou maudire les actions humaines : il faut les comprendre comme on étudie des phénomènes naturels, et prendre les hommes tels qu'ils sont. Spinoza conçoit ainsi des institutions adaptées à la nature réelle des <c>passions</c>, non à un idéal chimérique, ce qui est un <c>réalisme politique</c> assumé.",
+          "en": "The <w id='political-treatise-spinoza'>Political Treatise</w> opens by refusing to deride, bewail or curse human actions: they must be understood as one studies natural phenomena, taking men as they are. Spinoza accordingly devises institutions fitted to the real nature of the <c>passions</c>, not to a chimerical ideal, an avowed <c>political realism</c>."
+        },
+        "references": [
+          {
+            "fr": "Traité politique, ch. 1, §1 et §4 (comprendre les actions humaines, non les déplorer)",
+            "en": "Political Treatise, ch. 1, §1 and §4 (understanding human actions, not deploring them)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SOCIAL_CONTRACT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Dans le <w id='theological-political-treatise-spinoza'>Traité théologico-politique</w>, l'État naît d'un transfert du <c>droit naturel</c> : pour vivre en sûreté, les individus conviennent de remettre à la collectivité leur pouvoir d'agir à leur guise. Cette dérivation de la cité à partir d'un pacte relève du <c>contractualisme</c>, même si Spinoza l'ancre dans la puissance plutôt que dans une obligation morale.",
+          "en": "In the <w id='theological-political-treatise-spinoza'>Theological-Political Treatise</w>, the state arises from a transfer of <c>natural right</c>: to live in safety, individuals agree to hand the community their power to act as they please. This derivation of the polity from a pact is <c>contractualism</c>, even if Spinoza grounds it in power rather than in a moral obligation."
+        },
+        "references": [
+          {
+            "fr": "Traité théologico-politique, ch. 16 (le fondement de l'État, transfert du droit)",
+            "en": "Theological-Political Treatise, ch. 16 (the foundation of the state, transfer of right)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0,
+          0.9,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La <c>vertu</c> se confond avec la <c>puissance</c>, l'aptitude à agir sous la conduite de la raison et selon les lois de sa propre nature : agir par vertu, c'est persévérer dans son être en cherchant ce qui l'augmente. Cette <c id='eudaimonism'>éthique de la vertu</c> naturaliste, centrée sur le <c id='conatus'>conatus</c> et l'épanouissement de la puissance d'agir, ne se règle ni sur le devoir ni sur le seul calcul des conséquences.",
+          "en": "<c>Virtue</c> coincides with <c>power</c>, the capacity to act under the guidance of reason and according to the laws of one's own nature: to act from virtue is to persevere in being by seeking what increases it. This naturalistic <c id='eudaimonism'>virtue ethics</c>, centered on the <c id='conatus'>conatus</c> and the flourishing of the power to act, is governed neither by duty nor by the mere reckoning of consequences."
+        },
+        "references": [
+          {
+            "fr": "Éthique, IV, déf. 8 et prop. 20 (la vertu, puissance d'agir selon sa nature)",
+            "en": "Ethics, IV, def. 8 and prop. 20 (virtue, the power to act according to one's nature)"
+          },
+          {
+            "fr": "Éthique, IV, prop. 24 (agir par vertu, c'est agir sous la conduite de la raison)",
+            "en": "Ethics, IV, prop. 24 (to act from virtue is to act under the guidance of reason)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "BODILY_PLEASURES",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La <c id='joy'>joie</c> est par elle-même bonne, car elle marque le passage à une plus grande perfection et accroît la puissance d'agir ; user des plaisirs avec mesure relève de l'homme sage. Spinoza raille la <q>superstition triste et farouche</q> qui interdit le plaisir : rien n'autorise à penser qu'un dieu se réjouisse de notre privation. La modération vient seulement de ce que la raison doit régler ces plaisirs.",
+          "en": "<c id='joy'>Joy</c> is good in itself, for it marks the passage to a greater perfection and increases the power to act; to make moderate use of pleasures befits the wise. Spinoza mocks the <q>savage and sad superstition</q> that forbids pleasure: nothing warrants thinking a god delights in our privation. The moderation comes only from reason's task of regulating these pleasures."
+        },
+        "references": [
+          {
+            "fr": "Éthique, IV, prop. 45, scolie (contre la superstition triste qui interdit le plaisir)",
+            "en": "Ethics, IV, prop. 45, scholium (against the sad superstition that forbids pleasure)"
+          },
+          {
+            "fr": "Éthique, III, déf. des affects (la joie, passage à une plus grande perfection)",
+            "en": "Ethics, III, definitions of the affects (joy, the passage to a greater perfection)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La <c>tristesse</c> est toujours le passage à une moindre perfection, une diminution de la puissance d'agir : elle n'a par elle-même aucune valeur rédemptrice. La sagesse consiste à la réduire en comprenant ses causes, jamais à la rechercher ou à la sacraliser, d'où une nette pente abolitionniste.",
+          "en": "<c>Sadness</c> is always the passage to a lesser perfection, a diminution of the power to act: in itself it has no redemptive value. Wisdom consists in reducing it by understanding its causes, never in seeking or sacralizing it, hence a clear abolitionist leaning."
+        },
+        "references": [
+          {
+            "fr": "Éthique, III, prop. 11, scolie et déf. des affects (la tristesse, passage à une moindre perfection)",
+            "en": "Ethics, III, prop. 11, scholium and definitions of the affects (sadness, the passage to a lesser perfection)"
+          },
+          {
+            "fr": "Éthique, IV, prop. 41 (la joie n'est jamais directement mauvaise, la tristesse jamais directement bonne)",
+            "en": "Ethics, IV, prop. 41 (joy is never directly bad, sadness never directly good)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.7,
+          0.05,
+          0.2,
+          0.05
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Pour l'homme libre, la crainte de mourir est une passion née d'<c id='adequate-idea'>idées inadéquates</c>, à dissoudre par la connaissance : l'homme libre ne pense à rien moins qu'à la mort. L'<c>éternité de l'esprit</c> qu'il évoque n'est pas une survie personnelle dans la durée, d'où une part résiduelle d'immortalisme. Et si tout être s'efforce de persévérer dans l'être (<c>conatus</c>), ce refus métaphysique de sa propre destruction reste second devant la sérénité du sage.",
+          "en": "For the free man, the fear of dying is a passion born of <c id='adequate-idea'>inadequate ideas</c>, to be dissolved through knowledge: a free man thinks of nothing less than of death. The <c>eternity of the mind</c> he speaks of is no personal survival in duration, hence a residual share of immortalism. And though every being strives to persevere in its being (<c>conatus</c>), this metaphysical refusal of its own destruction stays secondary to the sage's serenity."
+        },
+        "references": [
+          {
+            "fr": "Éthique, IV, prop. 67",
+            "en": "Ethics, IV, prop. 67"
+          },
+          {
+            "fr": "Éthique, V, prop. 38-39",
+            "en": "Ethics, V, props. 38-39"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HOPE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "EXTRAPOLATED",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'espoir et la crainte sont des <c>affects</c> corrélés, des joies et des tristesses inconstantes nées d'<c id='adequate-idea'>idées inadéquates</c> sur un avenir incertain : qui espère redoute. On peut en inférer que l'homme conduit par la raison vivrait moins d'espérance que de lucidité, agissant par la connaissance de la nécessité plutôt qu'en attendant un sort meilleur, sans que Spinoza fasse de cette lucidité un idéal thématisé.",
+          "en": "Hope and fear are correlated <c>affects</c>, inconstant joys and sorrows born of <c id='adequate-idea'>inadequate ideas</c> about an uncertain future: whoever hopes also dreads. One may infer that the man led by reason would live less by hope than by lucidity, acting from the knowledge of necessity rather than awaiting a better lot, though Spinoza never thematizes this lucidity as an ideal."
+        },
+        "references": [
+          {
+            "fr": "Éthique, III, déf. des affects 12-13 (l'espoir et la crainte)",
+            "en": "Ethics, III, definitions of the affects 12-13 (hope and fear)"
+          },
+          {
+            "fr": "Éthique, IV, prop. 47 (les affects d'espoir et de crainte ne peuvent être bons par eux-mêmes)",
+            "en": "Ethics, IV, prop. 47 (the affects of hope and fear cannot be good in themselves)"
+          }
+        ],
+        "strength": "WEAK"
+      }
+    },
+    {
+      "axisId": "EPISTEMIC_JUSTIFICATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.8,
+          0.15,
+          0.05
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'<w>Éthique</w> est démontrée « à la manière des géomètres » : tout le savoir se déduit de définitions et d'axiomes premiers, et l'idée adéquate porte en elle-même sa certitude, l'idée vraie étant son propre critère. C'est un fondationnalisme rationaliste.",
+          "en": "The <w>Ethics</w> is demonstrated \"in the geometrical manner\": all knowledge is deduced from first definitions and axioms, and an adequate idea carries its certainty within itself, a true idea being its own standard. This is a rationalist foundationalism."
+        },
+        "references": [
+          {
+            "fr": "Éthique, I ; Traité de la réforme de l'entendement",
+            "en": "Ethics, I; Treatise on the Emendation of the Intellect"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CONSCIOUSNESS_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0,
+          0.3,
+          0.7,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La pensée et l'étendue sont deux attributs d'une seule substance : l'esprit est l'idée du corps, ni réductible à lui ni séparable de lui. « Tous les individus sont animés à des degrés divers » : une position proche du monisme à double aspect et du panpsychisme.",
+          "en": "Thought and extension are two attributes of one substance: the mind is the idea of the body, neither reducible to it nor separable from it. \"All individuals are animate in varying degrees\": a position close to dual-aspect monism and panpsychism."
+        },
+        "references": [
+          {
+            "fr": "Éthique, II, prop. 7 et 13 (scolie)",
+            "en": "Ethics, II, props. 7 and 13 (scholium)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "EMBODIMENT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'esprit est l'idée du corps : il n'y a ni âme logée dans une machine ni pur corps, mais une seule réalité exprimée sous deux attributs. Spinoza incarne l'unité psychophysique, à égale distance du corps-instrument et du corps-sujet.",
+          "en": "The mind is the idea of the body: there is neither a soul housed in a machine nor a mere body, but a single reality expressed under two attributes. Spinoza embodies psychophysical unity, equidistant from the body-as-instrument and the lived body."
+        },
+        "references": [
+          {
+            "fr": "Éthique, II, prop. 13",
+            "en": "Ethics, II, prop. 13"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "UNIVERSALS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Les notions universelles comme « homme » ou « cheval » ne sont pas des réalités : elles naissent de la confusion d'images trop nombreuses que l'esprit ne peut distinguer. Ce sont des êtres de raison, non des choses ; Spinoza est nominaliste.",
+          "en": "Universal notions such as \"man\" or \"horse\" are not realities: they arise from the confusion of too many images the mind cannot distinguish. They are beings of reason, not things; Spinoza is a nominalist."
+        },
+        "references": [
+          {
+            "fr": "Éthique, II, prop. 40, scolie 1",
+            "en": "Ethics, II, prop. 40, scholium 1"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "TRANSCENDENCE",
+      "thesis": {
+        "fr": "Il n'existe qu'une seule substance, <c id='immanence'>Dieu ou la Nature</c> : rien n'existe hors d'elle, et aucun arrière-monde ne double le réel.",
+        "en": "There is only one substance, <c id='immanence'>God, or Nature</c>: nothing exists outside it, and no world beyond doubles the real."
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "thesis": {
+        "fr": "Le <c id='free-will'>libre arbitre</c> est une illusion : tout, y compris nos volontés, découle par <c id='determinism'>nécessité</c> de causes antérieures.",
+        "en": "<c id='free-will'>Free will</c> is an illusion: everything, our volitions included, follows by <c id='determinism'>necessity</c> from prior causes."
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "thesis": {
+        "fr": "L'essence de l'homme est le désir lui-même, le <c id='conatus'>conatus</c> par lequel chaque chose s'efforce de persévérer dans son être.",
+        "en": "Man's essence is desire itself, the <c id='conatus'>conatus</c> by which each thing strives to persevere in its being."
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "thesis": {
+        "fr": "Les passions ne sont pas des fautes à réprimer mais des phénomènes naturels : nous nous en libérons en les comprenant, non en les combattant.",
+        "en": "The passions are not faults to repress but natural phenomena: we free ourselves from them by understanding them, not by fighting them."
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "thesis": {
+        "fr": "La <c id='intellectual-love-of-god'>béatitude</c> n'est pas la récompense de la vertu : elle est la vertu même, la joie de connaître les choses par leur nécessité.",
+        "en": "<c id='intellectual-love-of-god'>Blessedness</c> is not the reward of virtue: it is virtue itself, the joy of knowing things through their necessity."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-23T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

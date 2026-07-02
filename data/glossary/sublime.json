@@ -1,0 +1,12 @@
+{
+  "id": "sublime",
+  "term": { "fr": "Le sublime", "en": "The sublime" },
+  "definition": {
+    "fr": "Le sublime est ce qui, par sa grandeur ou sa puissance, excède toute mesure et nos facultés : l'océan déchaîné, la haute montagne, l'orage, l'infini. <ph id='burke'>Burke</ph> le distingue du beau par le mélange de terreur et de plaisir qu'il procure, et <ph id='kant'>Kant</ph> y voit l'éveil, face à la démesure de la nature, du sentiment de notre vocation supra-sensible. Le romantisme en fait le cœur de son esthétique, là où la beauté tranquille cède à l'émotion de l'illimité.",
+    "en": "The sublime is what, by its grandeur or power, exceeds all measure and our faculties: the raging ocean, the high mountain, the storm, the infinite. <ph id='burke'>Burke</ph> distinguishes it from the beautiful by the mixture of terror and pleasure it brings, and <ph id='kant'>Kant</ph> sees in it the awakening, before nature's excess, of the feeling of our supra-sensible vocation. Romanticism makes it the heart of its aesthetics, where tranquil beauty yields to the emotion of the boundless."
+  },
+  "relatedAxes": ["BEAUTY", "AESTHETIC_LIFE"],
+  "relatedTerms": ["genie"],
+  "positions": [{ "axisId": "BEAUTY", "poleId": "SUBJECTIVE_BEAUTY" }],
+  "updatedAt": "2026-06-26T00:00:00.000Z"
+}

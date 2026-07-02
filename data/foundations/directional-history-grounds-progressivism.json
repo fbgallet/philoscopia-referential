@@ -1,0 +1,12 @@
+{
+  "id": "directional-history-grounds-progressivism",
+  "ground": { "axisId": "HISTORY_MEANING", "poleId": "DIRECTIONAL_HISTORY" },
+  "grounded": { "axisId": "CONSERVATISM_PROGRESSISM", "poleId": "PROGRESSISM" },
+  "kind": "T_V",
+  "strength": "STRONG",
+  "explanation": {
+    "fr": "Si l'histoire suit une marche vers plus de raison et de liberté, alors les injustices héritées ne sont pas un ordre sacré mais des étapes à dépasser. Le sens-direction de l'histoire fonde le progressisme : de Condorcet à <ph id='marx'>Marx</ph>, comprendre le mouvement de l'histoire, c'est se donner les moyens de le hâter.",
+    "en": "If history follows a march toward more reason and freedom, then inherited injustices are not a sacred order but stages to be surpassed. The directional meaning of history grounds progressivism: from Condorcet to <ph id='marx'>Marx</ph>, to understand the movement of history is to give oneself the means to hasten it."
+  },
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

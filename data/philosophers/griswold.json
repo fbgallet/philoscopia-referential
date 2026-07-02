@@ -1,0 +1,23 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "griswold",
+  "stub": true,
+  "name": {
+    "fr": "Charles Griswold",
+    "en": "Charles Griswold"
+  },
+  "summary": {
+    "fr": "Philosophe américain, auteur d'une exploration philosophique du pardon, qu'il analyse comme un renoncement conditionnel au ressentiment, distinct de l'excuse et de l'oubli.",
+    "en": "American philosopher, author of a philosophical exploration of forgiveness, which he analyses as a conditional forswearing of resentment, distinct from excuse and from forgetting."
+  },
+  "birth": 1951,
+  "nationality": {
+    "fr": "Américain",
+    "en": "American"
+  },
+  "movements": [],
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

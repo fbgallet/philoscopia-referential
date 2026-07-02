@@ -1,0 +1,685 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "laozi",
+  "name": {
+    "fr": "Laozi",
+    "en": "Laozi"
+  },
+  "fullName": {
+    "fr": "Laozi 老子 (« le Vieux Maître »)",
+    "en": "Laozi 老子 (\"the Old Master\")"
+  },
+  "tagline": {
+    "fr": "Le <c id='wu-wei'>non-agir</c> : l'eau, qui ne lutte jamais, vient à bout du roc.",
+    "en": "<c id='wu-wei'>Non-action</c>: water, which never struggles, wears down the rock."
+  },
+  "summary": {
+    "fr": "Sage chinois semi-légendaire, traditionnellement situé au VIe siècle avant notre ère et présenté par la tradition comme un archiviste de la cour des Zhou et un aîné de <ph id='confucius'>Confucius</ph>. La critique historique tient désormais le personnage pour incertain et date le <w id='dao-de-jing-laozi'>Dao De Jing</w> qu'on lui attribue plutôt des IVe-IIIe siècles avant notre ère. Ce bref recueil d'aphorismes, devenu l'un des textes les plus traduits au monde, est le socle du <mv id='taoism'>taoïsme</mv> : il y déploie le <c id='dao'>Dao</c>, voie ineffable et source de toute chose, le <c id='wu-wei'>wu-wei</c> (non-agir) et le <c id='ziran'>ziran</c> (la spontanéité naturelle). En réaction au ritualisme confucéen et aux écoles légistes, sa pensée a irrigué la culture chinoise, le bouddhisme chan (zen) et, en Occident, tout un courant écologique et anti-productiviste.",
+    "en": "A semi-legendary Chinese sage, traditionally placed in the sixth century BCE and presented by tradition as an archivist at the Zhou court and an elder of <ph id='confucius'>Confucius</ph>. Historical scholarship now regards the figure as uncertain and dates the <w id='dao-de-jing-laozi'>Dao De Jing</w> attributed to him rather to the fourth-third centuries BCE. This brief collection of aphorisms, now one of the most translated texts in the world, is the foundation of <mv id='taoism'>Taoism</mv>: it unfolds the <c id='dao'>Dao</c>, the ineffable way and source of all things, <c id='wu-wei'>wu wei</c> (non-action) and <c id='ziran'>ziran</c> (natural spontaneity). Reacting against Confucian ritualism and the Legalist schools, his thought shaped Chinese culture, Chan (Zen) Buddhism and, in the West, a whole ecological and anti-productivist current."
+  },
+  "birth": -571,
+  "death": -471,
+  "nationality": {
+    "fr": "Chinois",
+    "en": "Chinese"
+  },
+  "movements": [
+    "taoism"
+  ],
+  "entries": [
+    {
+      "axisId": "CONTROL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Contre le <stk>volontarisme</stk> qui veut plier le cours des choses à un dessein, Laozi observe que l'intervention forcée se retourne contre elle-même : plus on saisit, plus on perd, plus on légifère, plus naissent les voleurs. Le <c id='wu-wei'>wu-wei</c> n'est pas la passivité mais l'art d'épouser le <c id='ziran'>cours spontané</c> des choses, comme l'eau qui contourne l'obstacle sans le combattre : agir sans forcer, et tout s'accomplit. C'est l'envers exact du <c>prométhéisme</c> qui mesure l'homme à sa prise sur le monde.",
+          "en": "Against the <stk>voluntarism</stk> that would bend the course of things to a design, Laozi observes that forced intervention turns against itself: the more one grasps, the more one loses; the more laws are made, the more thieves arise. <c id='wu-wei'>Wu wei</c> is not passivity but the art of espousing the <c id='ziran'>spontaneous course</c> of things, like water that flows around the obstacle without fighting it: act without forcing, and everything is accomplished. It is the exact reverse of the <c>Prometheanism</c> that measures the human by their grip on the world."
+        },
+        "quote": {
+          "text": {
+            "fr": "Le Dao est constamment non-agissant, et pourtant rien n'est laissé inaccompli.",
+            "en": "The Dao does nothing, and yet nothing is left undone."
+          },
+          "source": {
+            "fr": "Dao De Jing, ch. 37",
+            "en": "Dao De Jing, ch. 37"
+          }
+        },
+        "references": [
+          {
+            "fr": "Dao De Jing, ch. 37 et 48",
+            "en": "Dao De Jing, ch. 37 and 48"
+          },
+          {
+            "fr": "Dao De Jing, ch. 57 et 64",
+            "en": "Dao De Jing, ch. 57 and 64"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TECHNOLOGY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le <pb>perfectionnement des moyens</pb> n'est pas pour Laozi un progrès mais une source d'agitation et de ruse qui éloigne du <c id='dao'>Dao</c>. Sa cité idéale possède des machines et des armes mais on ne s'en sert pas : la multiplication des outils habiles fait croître l'artifice et le désir, là où la <c id='ziran'>simplicité</c> ramène à l'essentiel. Cette méfiance envers l'ingéniosité instrumentale, posée bien avant <ph id='heidegger'>Heidegger</ph> et Ellul, fait de lui un ancêtre lointain de la techno-critique.",
+          "en": "The <pb>refinement of means</pb> is for Laozi not progress but a source of agitation and cunning that estranges us from the <c id='dao'>Dao</c>. His ideal community owns machines and weapons but does not use them: multiplying clever tools breeds artifice and desire, whereas <c id='ziran'>simplicity</c> brings one back to essentials. This distrust of instrumental ingenuity, voiced long before <ph id='heidegger'>Heidegger</ph> and Ellul, makes him a distant ancestor of techno-criticism."
+        },
+        "quote": {
+          "text": {
+            "fr": "Plus il y a d'outils habiles, plus l'État sombre dans le désordre.",
+            "en": "The more clever tools there are, the more the state sinks into disorder."
+          },
+          "source": {
+            "fr": "Dao De Jing, ch. 57",
+            "en": "Dao De Jing, ch. 57"
+          }
+        },
+        "references": [
+          {
+            "fr": "Dao De Jing, ch. 80",
+            "en": "Dao De Jing, ch. 80"
+          },
+          {
+            "fr": "Dao De Jing, ch. 57",
+            "en": "Dao De Jing, ch. 57"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.25,
+          0.75
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Ce ne sont pas les besoins qui troublent l'homme mais les désirs fabriqués par la convoitise : « les cinq couleurs aveuglent l'œil ». La sagesse consiste à diminuer les désirs et à se contenter, car « savoir se contenter, c'est la vraie richesse » et « nul désastre n'est pire que de ne pas savoir se suffire ». Le détachement vise moins une extinction <mv id='buddhism'>bouddhiste</mv> du désir qu'un retour au <c id='ziran'>naturel</c> : satisfaire le ventre, non l'œil avide.",
+          "en": "It is not needs that trouble us but the desires manufactured by craving: \"the five colors blind the eye.\" Wisdom lies in diminishing desires and being content, for \"to know contentment is true wealth\" and \"no disaster is worse than not knowing what is enough.\" The detachment aims less at a <mv id='buddhism'>Buddhist</mv> extinction of desire than at a return to the <c id='ziran'>natural</c>: to fill the belly, not the craving eye."
+        },
+        "references": [
+          {
+            "fr": "Dao De Jing, ch. 12 et 19",
+            "en": "Dao De Jing, ch. 12 and 19"
+          },
+          {
+            "fr": "Dao De Jing, ch. 33, 44 et 46",
+            "en": "Dao De Jing, ch. 33, 44 and 46"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le <c id='dao'>Dao</c> n'est pas un dieu séparé qui ordonnerait le monde d'en haut : il est la matrice immanente d'où tout surgit et où tout retourne, qui « engendre les dix mille êtres » sans les commander, qui les nourrit sans les posséder. Le sacré, ici, n'a pas d'arrière-monde : il coïncide avec le cours même de la <c>nature</c>. Cette immanence retient pourtant un reste d'inaccessible, car le Dao demeure obscur et antérieur à toute distinction, ce qui empêche un score extrême.",
+          "en": "The <c id='dao'>Dao</c> is not a separate god ordering the world from above: it is the immanent matrix from which all things arise and to which all return, which \"gives birth to the ten thousand beings\" without commanding them, nourishing them without possessing them. The sacred, here, has no world-behind: it coincides with the very course of <c>nature</c>. Yet this immanence keeps a residue of the inaccessible, since the Dao remains obscure and prior to all distinction, which holds the score back from the extreme."
+        },
+        "references": [
+          {
+            "fr": "Dao De Jing, ch. 25 et 51",
+            "en": "Dao De Jing, ch. 25 and 51"
+          },
+          {
+            "fr": "Dao De Jing, ch. 4 et 42",
+            "en": "Dao De Jing, ch. 4 and 42"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HUMAN_PLACE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.25,
+          0.75
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "« L'homme prend modèle sur la terre, la terre sur le ciel, le ciel sur le Dao, et le Dao sur ce qui est ainsi de soi-même » : loin de dominer la nature, l'homme s'insère dans un emboîtement où il prend rang après elle. Il n'est ni maître ni gardien chargé d'une mission, mais un être parmi d'autres appelé à suivre le <c id='ziran'>cours spontané</c> du vivant. Cette inscription humble dans l'ordre naturel le rapproche de l'écologie profonde de Næss.",
+          "en": "\"The human takes the earth as model, the earth the heavens, the heavens the Dao, and the Dao that which is so of itself\": far from dominating nature, the human is set within a nesting in which he ranks after it. He is neither master nor steward charged with a mission, but one being among others called to follow the <c id='ziran'>spontaneous course</c> of the living. This humble inscription within the natural order brings him close to the deep ecology of Næss."
+        },
+        "quote": {
+          "text": {
+            "fr": "L'homme prend modèle sur la terre, la terre sur le ciel, le ciel sur le Dao, et le Dao sur lui-même.",
+            "en": "The human models himself on the earth, the earth on heaven, heaven on the Dao, and the Dao on itself."
+          },
+          "source": {
+            "fr": "Dao De Jing, ch. 25",
+            "en": "Dao De Jing, ch. 25"
+          }
+        },
+        "references": [
+          {
+            "fr": "Dao De Jing, ch. 25",
+            "en": "Dao De Jing, ch. 25"
+          },
+          {
+            "fr": "Dao De Jing, ch. 51 et 64",
+            "en": "Dao De Jing, ch. 51 and 64"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "AUTHORITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.55
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le bon prince gouverne par <c id='wu-wei'>non-intervention</c> : le meilleur souverain est celui dont le peuple sait à peine l'existence, et quand l'ouvrage est accompli, chacun dit « cela s'est fait de soi-même ». Moins l'État légifère, taxe et s'agite, mieux le peuple se porte. Ce n'est pas tout à fait l'anarchisme, puisqu'un sage-roi demeure et qu'un ordre subsiste, mais un gouvernement minimal qui se fait oublier, à l'opposé du légisme contemporain.",
+          "en": "The good prince governs by <c id='wu-wei'>non-interference</c>: the best ruler is the one whose people barely know he exists, and when the work is done, each says \"it happened of itself.\" The less the state legislates, taxes and agitates, the better the people fare. This is not quite anarchism, since a sage-king remains and an order subsists, but a minimal government that effaces itself, the opposite of the contemporary Legalists."
+        },
+        "quote": {
+          "text": {
+            "fr": "Gouverner un grand royaume, c'est comme faire frire un petit poisson.",
+            "en": "Governing a great state is like frying a small fish."
+          },
+          "source": {
+            "fr": "Dao De Jing, ch. 60",
+            "en": "Dao De Jing, ch. 60"
+          }
+        },
+        "references": [
+          {
+            "fr": "Dao De Jing, ch. 17 et 60",
+            "en": "Dao De Jing, ch. 17 and 60"
+          },
+          {
+            "fr": "Dao De Jing, ch. 57 et 75",
+            "en": "Dao De Jing, ch. 57 and 75"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0,
+          1,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Laozi se défie des codes et des devoirs proclamés : « quand le grand Dao est perdu surgissent la bonté et la justice », signe d'une vertu déjà tombée dans l'artifice. La bonne action n'est pas l'obéissance à une règle ni le calcul d'un résultat, mais l'expression d'un état intérieur accordé au Dao, la <c id='de-virtue'>vertu</c> (de) qui agit sans s'afficher comme vertueuse. C'est, par défaut de toute alternative, une éthique de la vertu, mais une vertu spontanée qui se nie comme code dès qu'on la nomme.",
+          "en": "Laozi distrusts proclaimed codes and duties: \"when the great Dao is lost, benevolence and righteousness arise,\" a sign of a virtue already fallen into artifice. Right action is neither obedience to a rule nor the calculation of an outcome, but the expression of an inner state attuned to the Dao, the <c id='de-virtue'>virtue</c> (de) that acts without parading itself as virtuous. It is, for want of any alternative, a virtue ethics, but a spontaneous virtue that denies itself as a code the moment it is named."
+        },
+        "references": [
+          {
+            "fr": "Dao De Jing, ch. 18, 19 et 38",
+            "en": "Dao De Jing, ch. 18, 19 and 38"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "RULE_SPIRIT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La multiplication des règles est pour Laozi un symptôme de décadence, non un remède. La rectitude ne se laisse pas codifier, elle vient d'un accord souple et vivant avec la situation, ce qui place Laozi du côté de l'esprit contre la lettre, par méfiance même de toute lettre.",
+          "en": "The proliferation of rules is for Laozi a symptom of decadence, not a remedy. Rightness cannot be codified; it comes from a supple, living accord with the situation, which places Laozi on the side of the spirit against the letter, out of distrust of every letter."
+        },
+        "quote": {
+          "text": {
+            "fr": "Plus il y a de lois et d'édits, plus se multiplient les voleurs et les brigands.",
+            "en": "The more laws and edicts there are, the more thieves and robbers multiply."
+          },
+          "source": {
+            "fr": "Dao De Jing, ch. 57",
+            "en": "Dao De Jing, ch. 57"
+          }
+        },
+        "references": [
+          {
+            "fr": "Dao De Jing, ch. 57 et 38",
+            "en": "Dao De Jing, ch. 57 and 38"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HUMAN_VISION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le mal ne vient pas d'une nature humaine corrompue mais de ce qui la corrompt : le savoir affecté, la convoitise, les institutions qui dressent l'homme contre son <c id='ziran'>naturel</c>. « Abolis la sagesse, rejette le savoir, et le peuple y gagnera cent fois » : il suffit de retrancher l'artifice pour que reparaisse une bonté originelle, comme le bois brut avant qu'on le sculpte. Cette confiance dans le naturel, proche de <ph id='rousseau'>Rousseau</ph>, l'éloigne du pessimisme.",
+          "en": "Evil does not come from a corrupt human nature but from what corrupts it: affected knowledge, craving, institutions that pit a person against their <c id='ziran'>naturalness</c>. \"Abolish wisdom, discard knowledge, and the people will benefit a hundredfold\": it suffices to cut away artifice for an original goodness to reappear, like uncarved wood before it is sculpted. This trust in the natural, close to <ph id='rousseau'>Rousseau</ph>, sets him apart from pessimism."
+        },
+        "references": [
+          {
+            "fr": "Dao De Jing, ch. 19 et 28",
+            "en": "Dao De Jing, ch. 19 and 28"
+          },
+          {
+            "fr": "Dao De Jing, ch. 3 et 65",
+            "en": "Dao De Jing, ch. 3 and 65"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Chaque être a une nature propre, sa <c id='ziran'>manière d'être ainsi de soi-même</c>, que la sagesse consiste à laisser s'accomplir plutôt qu'à contrarier. Vivre bien, ce n'est pas s'inventer librement mais retrouver le <c id='pu'>bloc brut</c> (pu), la simplicité non taillée qu'on avait avant que la culture ne la sculpte. L'idéal n'est pas la création de soi mais le retour à une nature donnée.",
+          "en": "Each being has its own nature, its <c id='ziran'>way of being so of itself</c>, which wisdom consists in letting unfold rather than thwarting. To live well is not to invent oneself freely but to recover the <c id='pu'>uncarved block</c> (pu), the unhewn simplicity one had before culture sculpted it. The ideal is not self-creation but a return to a given nature."
+        },
+        "references": [
+          {
+            "fr": "Dao De Jing, ch. 28 et 19",
+            "en": "Dao De Jing, ch. 28 and 19"
+          },
+          {
+            "fr": "Dao De Jing, ch. 32 et 37",
+            "en": "Dao De Jing, ch. 32 and 37"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.4
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "« Le Dao qu'on peut nommer n'est pas le Dao constant » : le réel ultime échappe au langage et aux concepts, qui découpent et figent ce qui est fluide. Laozi raille le savoir affairé et exalte un « savoir ne pas savoir », mais ce n'est pas le <c id='skepticism'>scepticisme</c> de la suspension : c'est une connaissance plus haute, intuitive et silencieuse, accordée au Dao. Le doute porte sur le savoir discursif, non sur l'accès au vrai, d'où une position médiane penchant vers la défiance.",
+          "en": "\"The Dao that can be named is not the constant Dao\": ultimate reality eludes language and concepts, which carve up and fix what is fluid. Laozi mocks busy knowledge and exalts a \"knowing not-knowing,\" but this is not the <c id='skepticism'>skepticism</c> of suspended judgment: it is a higher, intuitive and silent knowledge, attuned to the Dao. The doubt bears on discursive knowledge, not on access to truth, hence a median position leaning toward distrust."
+        },
+        "quote": {
+          "text": {
+            "fr": "Le Dao qu'on peut nommer n'est pas le Dao constant.",
+            "en": "The Dao that can be named is not the constant Dao."
+          },
+          "source": {
+            "fr": "Dao De Jing, ch. 1",
+            "en": "Dao De Jing, ch. 1"
+          }
+        },
+        "references": [
+          {
+            "fr": "Dao De Jing, ch. 1 et 56",
+            "en": "Dao De Jing, ch. 1 and 56"
+          },
+          {
+            "fr": "Dao De Jing, ch. 48 et 71",
+            "en": "Dao De Jing, ch. 48 and 71"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.55
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "« Sans franchir sa porte, on connaît le monde ; sans regarder par la fenêtre, on voit la voie du ciel » : la sagesse ne se gagne pas dans l'agitation extérieure mais dans un retour au-dedans, par le vide et le silence. Cette culture du recueillement et de la quiétude intérieure prime sur l'engagement actif dans les affaires, sans renier toutefois une action juste, celle qui ne force pas.",
+          "en": "\"Without going out the door, one knows the world; without looking through the window, one sees the way of heaven\": wisdom is not won in outward agitation but in a turn inward, through emptiness and stillness. This cultivation of recollection and inner quietude takes precedence over active engagement in affairs, without however disowning a right action, the kind that does not force."
+        },
+        "references": [
+          {
+            "fr": "Dao De Jing, ch. 47 et 16",
+            "en": "Dao De Jing, ch. 47 and 16"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "BODILY_PLEASURES",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "« Les cinq saveurs émoussent le palais, la course et la chasse affolent le cœur » : la surabondance sensorielle use et égare, et le sage préfère la sobriété, « le ventre plutôt que l'œil ». Ce n'est pas un ascétisme de mortification mais une frugalité accordée au <c id='ziran'>naturel</c>, qui retranche l'excès sans condamner le plaisir simple.",
+          "en": "\"The five flavors dull the palate, racing and hunting madden the heart\": sensory excess wears and misleads, and the sage prefers sobriety, \"the belly rather than the eye.\" This is not an asceticism of mortification but a frugality attuned to the <c id='ziran'>natural</c>, which trims excess without condemning simple pleasure."
+        },
+        "references": [
+          {
+            "fr": "Dao De Jing, ch. 12",
+            "en": "Dao De Jing, ch. 12"
+          },
+          {
+            "fr": "Dao De Jing, ch. 9 et 67",
+            "en": "Dao De Jing, ch. 9 and 67"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "POLITICAL_IDEAL",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le chapitre 80 dessine une cité rêvée : un petit pays peu peuplé, où l'on renonce aux machines et aux voyages, où l'on retrouve la corde nouée pour compter, et où les villages voisins s'entendent chanter sans jamais se visiter. Cette nostalgie d'une simplicité d'avant la civilisation est un idéal régulateur tourné vers le passé, plus utopique que réaliste, même s'il se veut un retour et non une construction.",
+          "en": "Chapter 80 sketches a dreamed community: a small, sparsely peopled country that forgoes machines and travel, returns to knotted cords for counting, where neighboring villages hear each other's singing yet never visit. This nostalgia for a pre-civilizational simplicity is a regulative ideal turned toward the past, more utopian than realist, even though it presents itself as a return rather than a construction."
+        },
+        "references": [
+          {
+            "fr": "Dao De Jing, ch. 80",
+            "en": "Dao De Jing, ch. 80"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CONSERVATISM_PROGRESSISM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Laozi ne croit pas que l'histoire monte vers le mieux : le mouvement propre du Dao est le retour, et la civilisation a fait déchoir l'homme de sa simplicité première. Mais sa visée n'est pas la conservation des institutions, des rites et des hiérarchies, qu'il critique tout autant : c'est un primitivisme qui veut remonter en-deçà de la tradition, ce qui le situe du côté du refus du progrès sans en faire un conservateur des formes établies.",
+          "en": "Laozi does not believe history climbs toward the better: the proper movement of the Dao is return, and civilization has made the human fall from his original simplicity. But his aim is not the conservation of institutions, rites and hierarchies, which he criticizes just as much: it is a primitivism that would go back behind tradition itself, which places him on the side of refusing progress without making him a conservator of established forms."
+        },
+        "references": [
+          {
+            "fr": "Dao De Jing, ch. 18, 19 et 38",
+            "en": "Dao De Jing, ch. 18, 19 and 38"
+          },
+          {
+            "fr": "Dao De Jing, ch. 16 et 25",
+            "en": "Dao De Jing, ch. 16 and 25"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le sage cultive le calme et le vide du cœur, et l'on retrouve « le ciel et la terre ne sont pas bienveillants », image d'une sérénité sans attendrissement. Le trouble émotionnel naît de l'attachement et du désir, c'est-à-dire d'un mauvais rapport au cours des choses, et se dissout dans la quiétude. La pente est à la maîtrise des affects, mais sans l'intellectualisme stoïcien d'une raison qui juge : c'est plutôt un apaisement par le retour au naturel.",
+          "en": "The sage cultivates calm and an empty heart, and one finds \"heaven and earth are not benevolent,\" an image of serenity without sentimentality. Emotional disturbance arises from attachment and desire, that is, from a wrong relation to the course of things, and dissolves in quietude. The leaning is toward mastery of the affects, but without the Stoic intellectualism of a judging reason: rather an appeasement through return to the natural."
+        },
+        "references": [
+          {
+            "fr": "Dao De Jing, ch. 5 et 16",
+            "en": "Dao De Jing, ch. 5 and 16"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TIME_ORIENTATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.65,
+          0,
+          0.35
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le sage taoïste habite l'instant présent et le cours qui s'écoule, sans se projeter dans des desseins d'avenir, lesquels relèvent justement de l'agir forcé qu'il récuse. Subsiste pourtant une orientation vers un état originel à retrouver, le Dao d'avant les distinctions, qui donne à sa pensée une part de mémoire-retour. L'avenir comme projet, lui, est presque absent.",
+          "en": "The Taoist sage dwells in the present moment and the flowing course, without projecting himself into designs for the future, which belong precisely to the forced action he rejects. Yet there remains an orientation toward an original state to be recovered, the Dao before distinctions, which lends his thought a strand of memory-return. The future as project is all but absent."
+        },
+        "references": [
+          {
+            "fr": "Dao De Jing, ch. 16 et 64",
+            "en": "Dao De Jing, ch. 16 and 64"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SELF_INTEREST",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le sage « ne thésaurise pas : plus il donne aux autres, plus il possède ». L'effacement de soi, le fait de se tenir en retrait et de ne pas se mettre en avant, est paradoxalement ce qui élève et conserve : c'est en ne luttant pour rien qu'on devient indispensable. L'altruisme y est moins un devoir qu'un effet du non-agir, qui dissout l'égoïsme calculateur sans le retourner en sacrifice héroïque.",
+          "en": "The sage \"hoards nothing: the more he gives to others, the more he has.\" Self-effacement, holding back and not pushing oneself forward, is paradoxically what raises and preserves one: it is by struggling for nothing that one becomes indispensable. Altruism here is less a duty than an effect of non-action, which dissolves calculating egoism without turning it into heroic sacrifice."
+        },
+        "references": [
+          {
+            "fr": "Dao De Jing, ch. 81",
+            "en": "Dao De Jing, ch. 81"
+          },
+          {
+            "fr": "Dao De Jing, ch. 7 et 66",
+            "en": "Dao De Jing, ch. 7 and 66"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "COSMIC_OUTLOOK",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le monde n'est pas réglé par une providence bienveillante : « le ciel et la terre ne sont pas bienveillants, ils traitent les dix mille êtres comme des chiens de paille », avec l'indifférence d'un processus impersonnel. Pourtant ce cours impersonnel n'est pas tragique : qui s'y accorde trouve la paix, et l'alternance des contraires garantit qu'aucun extrême ne dure. C'est une tonalité sereine et sans illusion plutôt qu'un optimisme métaphysique.",
+          "en": "The world is not ruled by a benevolent providence: \"heaven and earth are not benevolent, they treat the ten thousand beings as straw dogs,\" with the indifference of an impersonal process. Yet this impersonal course is not tragic: whoever accords with it finds peace, and the alternation of opposites ensures no extreme lasts. It is a serene, unillusioned tonality rather than a metaphysical optimism."
+        },
+        "references": [
+          {
+            "fr": "Dao De Jing, ch. 5",
+            "en": "Dao De Jing, ch. 5"
+          },
+          {
+            "fr": "Dao De Jing, ch. 2 et 58",
+            "en": "Dao De Jing, ch. 2 and 58"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.6,
+          0.4,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Les distinctions du beau et du laid, du bien et du mal, sont pour Laozi des découpages corrélatifs que l'esprit projette : « tous savent que le beau est beau, et voilà le laid ». On pourrait y lire un relativisme. Mais ces oppositions sont relatives à un fond qui ne l'est pas, le Dao et le cours de la nature, qui fournit une norme : suivre le naturel. La norme est donc réelle et universelle, même si elle dissout les codes humains particuliers.",
+          "en": "The distinctions of beautiful and ugly, good and bad, are for Laozi correlative carvings the mind projects: \"all know the beautiful as beautiful, and there is the ugly.\" One might read a relativism here. But these oppositions are relative to a ground that is not, the Dao and the course of nature, which supplies a norm: to follow the natural. The norm is thus real and universal, even as it dissolves particular human codes."
+        },
+        "references": [
+          {
+            "fr": "Dao De Jing, ch. 2",
+            "en": "Dao De Jing, ch. 2"
+          },
+          {
+            "fr": "Dao De Jing, ch. 25 et 51",
+            "en": "Dao De Jing, ch. 25 and 51"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "REJECTS_ALTERNATIVE",
+      "note": {
+        "fr": "L'opposition entre libre arbitre et déterminisme, forgée par la métaphysique grecque puis chrétienne de la volonté, n'a pas d'équivalent dans le Dao De Jing : Laozi ne pense pas un sujet-volonté qui se demanderait s'il est libre, mais invite à dissoudre le vouloir forcé dans l'accord au cours des choses. Le poser sur cet axe trahirait son propos.",
+        "en": "The opposition between free will and determinism, forged by Greek and then Christian metaphysics of the will, has no equivalent in the Dao De Jing: Laozi does not think a willing-subject asking whether it is free, but invites one to dissolve forced willing into accord with the course of things. To place him on this axis would betray his point."
+      }
+    },
+    {
+      "axisId": "MACHINE_MIND",
+      "status": "NOT_APPLICABLE",
+      "note": {
+        "fr": "Question anachronique : rien dans le corpus de Laozi ne permet de le positionner sur la pensée des machines sans extrapolation hasardeuse.",
+        "en": "An anachronistic question: nothing in Laozi's corpus allows positioning him on machine thought without hazardous extrapolation."
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "CONTROL_SCOPE",
+      "thesis": {
+        "fr": "<c id='wu-wei'>N'agis pas en forçant</c> : épouse le cours spontané des choses comme l'eau contourne l'obstacle, et rien ne reste inaccompli.",
+        "en": "<c id='wu-wei'>Act without forcing</c>: espouse the spontaneous course of things as water flows around the obstacle, and nothing is left undone."
+      }
+    },
+    {
+      "axisId": "HUMAN_PLACE_NATURE",
+      "thesis": {
+        "fr": "L'homme prend modèle sur la terre, la terre sur le ciel, le ciel sur le <c id='dao'>Dao</c> : sa place est de suivre la nature, non de la maîtriser.",
+        "en": "The human models himself on the earth, the earth on heaven, heaven on the <c id='dao'>Dao</c>: his place is to follow nature, not to master it."
+      }
+    },
+    {
+      "axisId": "TECHNOLOGY",
+      "thesis": {
+        "fr": "Multiplier les outils habiles fait croître l'artifice et le désir : la vraie richesse est dans la <c id='ziran'>simplicité</c>, non dans le perfectionnement des moyens.",
+        "en": "Multiplying clever tools breeds artifice and desire: true wealth lies in <c id='ziran'>simplicity</c>, not in the refinement of means."
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "thesis": {
+        "fr": "Quand le grand <c id='dao'>Dao</c> est perdu surgissent la bonté et la justice : la vertu proclamée est déjà une vertu déchue.",
+        "en": "When the great <c id='dao'>Dao</c> is lost, benevolence and righteousness arise: a proclaimed virtue is already a fallen one."
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "thesis": {
+        "fr": "Nul désastre n'est pire que de ne pas savoir se suffire : diminue tes désirs et tu retrouveras le <c id='pu'>bloc brut</c> avant toute convoitise.",
+        "en": "No disaster is worse than not knowing what is enough: lessen your desires and you recover the <c id='pu'>uncarved block</c> before all craving."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-29T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

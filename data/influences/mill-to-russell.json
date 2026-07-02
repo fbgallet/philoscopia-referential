@@ -1,0 +1,16 @@
+{
+  "id": "mill-to-russell",
+  "from": { "kind": "PHILOSOPHER", "slug": "mill" },
+  "to": { "kind": "PHILOSOPHER", "slug": "russell" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "Filleul laïc de <ph id='mill'>Mill</ph>, <ph id='russell'>Russell</ph> hérite de son empirisme et de son libéralisme : la connaissance ancrée dans l'expérience et la défense des libertés traversent toute son œuvre publique.",
+    "en": "<ph id='mill'>Mill</ph>'s secular godson, <ph id='russell'>Russell</ph> inherits his empiricism and liberalism: knowledge grounded in experience and the defence of liberties run through all his public work."
+  },
+  "sources": [
+    { "fr": "Russell, Autobiographie", "en": "Russell, Autobiography" }
+  ],
+  "updatedAt": "2026-07-02T00:00:00.000Z"
+}

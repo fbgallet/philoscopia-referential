@@ -1,0 +1,54 @@
+{
+  "id": "ring-of-gyges",
+  "title": {
+    "fr": "L'anneau de Gygès",
+    "en": "The ring of Gyges"
+  },
+  "description": {
+    "fr": "Gygès, simple berger au service du roi de Lydie, découvre dans une faille ouverte par un orage un anneau d'or au doigt d'un cadavre. Il s'en empare et s'aperçoit bientôt qu'en tournant le chaton vers l'intérieur de sa main, il devient invisible. Fort de ce pouvoir, il se fait envoyer auprès du roi, séduit la reine, assassine le souverain et s'empare du trône : invisible, il peut tout faire sans jamais être puni. Glaucon, qui raconte cette histoire à Socrate, en tire un défi : si le juste et l'injuste possédaient chacun un tel anneau, ils se conduiraient, dit-il, exactement de la même manière. Personne ne serait juste de son plein gré, mais seulement par crainte du regard des autres et du châtiment.",
+    "en": "Gyges, a simple shepherd in the service of the king of Lydia, discovers a gold ring on the finger of a corpse, in a chasm opened by a storm. He takes it and soon notices that by turning the bezel toward the inside of his hand, he becomes invisible. Armed with this power, he gets himself sent to the king's court, seduces the queen, murders the sovereign, and seizes the throne: invisible, he can do anything without ever being punished. Glaucon, who tells this story to Socrates, draws a challenge from it: if the just man and the unjust man each had such a ring, he claims, they would behave in exactly the same way. No one is just willingly, but only for fear of being seen and punished."
+  },
+  "source": {
+    "author": { "fr": "Platon", "en": "Plato" },
+    "work": { "fr": "La République, livre II", "en": "The Republic, Book II" },
+    "year": -380
+  },
+  "question": {
+    "fr": "Si vous possédiez cet anneau, resteriez-vous juste ? Et si oui, pourquoi : par habitude, par intérêt bien compris, ou parce que la justice vaut pour elle-même, même sans témoin ?",
+    "en": "If you owned this ring, would you remain just? And if so, why: out of habit, out of enlightened self-interest, or because justice is worth pursuing for its own sake, even with no one watching?"
+  },
+  "axisIds": ["SELF_INTEREST", "ETHICS_FOUNDATION"],
+  "options": [
+    {
+      "id": "serve-myself",
+      "label": {
+        "fr": "Je m'en servirais pour moi : sans regard ni châtiment, autant poursuivre librement mon propre intérêt.",
+        "en": "I would use it for myself: with no one watching and no punishment, I might as well freely pursue my own interest."
+      },
+      "hints": [
+        { "axisId": "SELF_INTEREST", "value": { "kind": "scalar", "value": -1 } }
+      ]
+    },
+    {
+      "id": "stay-just-anyway",
+      "label": {
+        "fr": "Je resterais juste : le bien d'autrui passe avant le mien, anneau ou pas, et l'invisibilité n'y change rien.",
+        "en": "I would stay just: the good of others comes before my own, ring or no ring, and invisibility changes nothing."
+      },
+      "hints": [
+        { "axisId": "SELF_INTEREST", "value": { "kind": "scalar", "value": 1 } }
+      ]
+    },
+    {
+      "id": "balance-both",
+      "label": {
+        "fr": "Je chercherais un équilibre : prendre soin de moi sans nuire aux autres, sans me sacrifier ni les sacrifier.",
+        "en": "I would seek a balance: looking after myself without harming others, sacrificing neither them nor me."
+      },
+      "hints": [
+        { "axisId": "SELF_INTEREST", "value": { "kind": "scalar", "value": 0 } }
+      ]
+    }
+  ],
+  "updatedAt": "2026-06-11T00:00:00.000Z"
+}

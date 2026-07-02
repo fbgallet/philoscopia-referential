@@ -1,0 +1,17 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "newton",
+  "stub": true,
+  "name": { "fr": "Newton", "en": "Newton" },
+  "fullName": { "fr": "Isaac Newton", "en": "Isaac Newton" },
+  "summary": {
+    "fr": "Mathématicien et physicien anglais, auteur des Principia, dont la mécanique céleste devint pour les <mv id='enlightenment'>Lumières</mv> le modèle même de la raison appliquée à la nature.",
+    "en": "English mathematician and physicist, author of the Principia, whose celestial mechanics became for the <mv id='enlightenment'>Enlightenment</mv> the very model of reason applied to nature."
+  },
+  "birth": 1643,
+  "death": 1727,
+  "nationality": { "fr": "Anglais", "en": "English" },
+  "movements": [],
+  "updatedAt": "2026-06-25T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "leibniz-to-russell",
+  "from": { "kind": "PHILOSOPHER", "slug": "leibniz" },
+  "to": { "kind": "PHILOSOPHER", "slug": "russell" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "Le livre de <ph id='russell'>Russell</ph> sur <ph id='leibniz'>Leibniz</ph> (1900) est une matrice de la philosophie analytique : il y montre que la métaphysique leibnizienne repose sur sa logique, programme qu'il retourne en méthode d'analyse.",
+    "en": "<ph id='russell'>Russell</ph>'s book on <ph id='leibniz'>Leibniz</ph> (1900) is a seedbed of analytic philosophy: he shows there that Leibniz's metaphysics rests on his logic, a programme he turns into a method of analysis."
+  },
+  "sources": [
+    { "fr": "Russell, La Philosophie de Leibniz (1900)", "en": "Russell, A Critical Exposition of the Philosophy of Leibniz (1900)" }
+  ],
+  "updatedAt": "2026-07-02T00:00:00.000Z"
+}

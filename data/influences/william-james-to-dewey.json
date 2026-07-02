@@ -1,0 +1,16 @@
+{
+  "id": "william-james-to-dewey",
+  "from": { "kind": "PHILOSOPHER", "slug": "william-james" },
+  "to": { "kind": "PHILOSOPHER", "slug": "dewey" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='dewey'>Dewey</ph> prolonge le <mv id='pragmatism'>pragmatisme</mv> de <ph id='william-james'>James</ph>, l'accent sur l'<c>expérience</c> et les conséquences des idées, en l'orientant vers la logique de l'enquête, l'éducation et la démocratie.",
+    "en": "<ph id='dewey'>Dewey</ph> carries on <ph id='william-james'>James</ph>'s <mv id='pragmatism'>pragmatism</mv>, the emphasis on <c>experience</c> and the consequences of ideas, steering it toward the logic of inquiry, education and democracy."
+  },
+  "sources": [
+    { "fr": "Dewey, Logique : la théorie de l'enquête (1938)", "en": "Dewey, Logic: The Theory of Inquiry (1938)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

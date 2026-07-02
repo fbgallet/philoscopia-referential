@@ -1,0 +1,94 @@
+{
+  "id": "HUMAN_VISION",
+  "relation": "WORLD",
+  "territory": "NATURE_LIVING",
+  "label": {
+    "fr": "Vision de l'homme",
+    "en": "Vision of humanity"
+  },
+  "question": {
+    "fr": "L'être humain est-il fondamentalement bon ou porté au mal ?",
+    "en": "Are human beings fundamentally good or inclined toward evil?"
+  },
+  "stakes": {
+    "fr": "Croire l'humain bon, c'est pouvoir lui faire confiance, alléger les règles, parier sur la liberté ; le croire porté au mal, c'est juger nécessaires lois, contrôles et garde-fous pour tenir la vie commune. Se positionner, c'est dire jusqu'où faire confiance aux autres, et de combien de contraintes une société a besoin.",
+    "en": "To believe humans good is to be able to trust them, loosen the rules, bet on freedom; to believe them prone to evil is to deem laws, controls, and safeguards necessary to hold common life together. To take a position is to say how far to trust others, and how many constraints a society needs."
+  },
+  "layer": "THEORY",
+  "type": "BIPOLAR_MEDIAN",
+  "poles": [
+    {
+      "id": "ANTHROPOLOGICAL_OPTIMISM",
+      "label": {
+        "fr": "Optimisme anthropologique",
+        "en": "Anthropological optimism"
+      },
+      "description": {
+        "fr": "L'être humain est naturellement bon, ou du moins porté à la pitié et à la bienveillance : c'est la société, avec ses inégalités et ses rivalités, qui le corrompt. La méchanceté est un produit de l'histoire, non de la nature.",
+        "en": "Human beings are naturally good, or at least inclined to pity and benevolence: it is society, with its inequalities and rivalries, that corrupts them. Wickedness is a product of history, not of nature."
+      },
+      "figures": [
+        {
+          "slug": "rousseau",
+          "name": {
+            "fr": "Rousseau",
+            "en": "Rousseau"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ANTHROPOLOGICAL_PESSIMISM",
+      "label": {
+        "fr": "Pessimisme anthropologique",
+        "en": "Anthropological pessimism"
+      },
+      "description": {
+        "fr": "L'être humain est traversé par l'égoïsme, l'amour-propre et des pulsions agressives que rien n'efface entièrement. Les institutions, les lois et la morale sont des digues nécessaires contre une violence toujours possible.",
+        "en": "Human beings are shot through with selfishness, self-regard, and aggressive drives that nothing fully erases. Institutions, laws, and morality are necessary dams against an ever-possible violence."
+      },
+      "figures": [
+        {
+          "slug": "hobbes",
+          "name": {
+            "fr": "Hobbes",
+            "en": "Hobbes"
+          }
+        },
+        {
+          "slug": "pascal",
+          "name": {
+            "fr": "Pascal",
+            "en": "Pascal"
+          }
+        },
+        {
+          "slug": "freud",
+          "name": {
+            "fr": "Freud",
+            "en": "Freud"
+          }
+        }
+      ]
+    }
+  ],
+  "medianLabel": {
+    "fr": "Plasticité morale",
+    "en": "Moral plasticity"
+  },
+  "medianDescription": {
+    "fr": "L'être humain n'est bon ni mauvais par nature : il est malléable. Ni ange ni bête, il devient ce que l'éducation, les habitudes et les institutions font de lui. Sa vraie caractéristique est cette plasticité, cette capacité à être façonné, pour le meilleur comme pour le pire.",
+    "en": "Human beings are neither good nor evil by nature: they are malleable. Neither angel nor beast, a person becomes what upbringing, habit and institutions make of them. Our defining trait is this plasticity, this capacity to be shaped, for better and for worse."
+  },
+  "core": true,
+  "difficulty": 1,
+  "clusters": [
+    "TRADITION_ORDER"
+  ],
+  "relatedAxes": [
+    "HUMAN_NATURE",
+    "POLITICAL_IDEAL",
+    "SELF_INTEREST",
+    "ATTENTION"
+  ]
+}

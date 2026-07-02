@@ -1,0 +1,12 @@
+{
+  "id": "pragmatic-maxim",
+  "term": { "fr": "Maxime pragmatique", "en": "Pragmatic maxim" },
+  "definition": {
+    "fr": "Règle de clarification du sens énoncée par <ph id='peirce'>Peirce</ph> dans <w id='how-to-make-our-ideas-clear-peirce'>Comment rendre nos idées claires</w> : pour saisir le sens d'une conception, on considère quels effets pratiques concevables, observables ou expérimentaux, son objet aurait ; tout le sens de la conception tient dans ces effets, et rien d'autre. Deux idées qui n'entraînent aucune différence pratique concevable ont le même sens. Peirce la voulait outil de clarté logique, non critère de vérité ; il forgea plus tard « <kw>pragmaticisme</kw> » pour la distinguer de l'usage qu'en fit <ph id='william-james'>James</ph>.",
+    "en": "A rule for clarifying meaning stated by <ph id='peirce'>Peirce</ph> in <w id='how-to-make-our-ideas-clear-peirce'>How to Make Our Ideas Clear</w>: to grasp the meaning of a conception, consider what conceivable practical effects, observable or experimental, its object would have; the whole meaning of the conception lies in those effects, and nothing more. Two ideas that entail no conceivable practical difference have the same meaning. Peirce intended it as a tool of logical clarity, not a criterion of truth; he later coined « pragmaticism » to set it apart from the use <ph id='william-james'>James</ph> made of it."
+  },
+  "relatedAxes": ["MEANING", "TRUTH_NATURE"],
+  "relatedTerms": ["fallibilism", "abduction"],
+  "figure": { "slug": "peirce", "name": { "fr": "Peirce", "en": "Peirce" } },
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

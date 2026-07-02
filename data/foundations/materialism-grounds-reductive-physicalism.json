@@ -1,0 +1,12 @@
+{
+  "id": "materialism-grounds-reductive-physicalism",
+  "ground": { "axisId": "REALITY_NATURE", "poleId": "MATERIALISM" },
+  "grounded": { "axisId": "CONSCIOUSNESS_NATURE", "poleId": "REDUCTIVE_PHYSICALISM" },
+  "kind": "T_T",
+  "strength": "STRONG",
+  "explanation": {
+    "fr": "Si tout ce qui existe est matériel, la conscience ne peut être qu'une propriété du cerveau : les états mentaux sont des états physiques, que la science finira par identifier. Le matérialisme conduit ainsi au physicalisme réducteur, qui refuse à l'esprit toute réalité distincte de l'activité neuronale.",
+    "en": "If everything that exists is material, consciousness can only be a property of the brain: mental states are physical states that science will eventually identify. Materialism thus leads to reductive physicalism, which denies mind any reality distinct from neural activity."
+  },
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

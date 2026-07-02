@@ -1,0 +1,16 @@
+{
+  "id": "aristotle-to-averroes",
+  "from": { "kind": "PHILOSOPHER", "slug": "aristotle" },
+  "to": { "kind": "PHILOSOPHER", "slug": "averroes" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='averroes'>Averroès</ph>, « le Commentateur », fait d'<ph id='aristotle'>Aristote</ph> l'axe de sa philosophie et en rédige de grands commentaires visant à restituer la doctrine authentique, contre les lectures néoplatonisantes.",
+    "en": "<ph id='averroes'>Averroes</ph>, \"the Commentator\", makes <ph id='aristotle'>Aristotle</ph> the axis of his philosophy and writes great commentaries aimed at recovering the authentic doctrine, against Neoplatonising readings."
+  },
+  "sources": [
+    { "fr": "Averroès, Grand Commentaire de la Métaphysique d'Aristote", "en": "Averroes, Long Commentary on Aristotle's Metaphysics" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

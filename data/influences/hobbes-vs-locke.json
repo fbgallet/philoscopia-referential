@@ -1,0 +1,16 @@
+{
+  "id": "hobbes-vs-locke",
+  "from": { "kind": "PHILOSOPHER", "slug": "hobbes" },
+  "to": { "kind": "PHILOSOPHER", "slug": "locke" },
+  "directness": "INDIRECT",
+  "mode": "REACTS_AGAINST",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "Sans jamais nommer <ph id='hobbes'>Hobbes</ph>, <ph id='locke'>Locke</ph> construit son contrat contre l'absolutisme hobbesien : mêmes matériaux, l'état de nature et le pacte, mais retournés en un pouvoir limité et révocable. Filiation reconstruite par les historiens.",
+    "en": "Without ever naming <ph id='hobbes'>Hobbes</ph>, <ph id='locke'>Locke</ph> builds his contract against Hobbesian absolutism: the same materials, the state of nature and the covenant, but turned into a limited and revocable power. A filiation reconstructed by historians."
+  },
+  "sources": [
+    { "fr": "Locke, Deux traités du gouvernement", "en": "Locke, Two Treatises of Government" }
+  ],
+  "updatedAt": "2026-07-02T00:00:00.000Z"
+}

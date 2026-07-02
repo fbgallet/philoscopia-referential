@@ -1,0 +1,16 @@
+{
+  "id": "aristotle-to-aquinas",
+  "from": { "kind": "PHILOSOPHER", "slug": "aristotle" },
+  "to": { "kind": "PHILOSOPHER", "slug": "aquinas" },
+  "directness": "ATTESTED",
+  "mode": "SYNTHESIZES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='aquinas'>Thomas d'Aquin</ph> intègre la physique, la psychologie et la métaphysique d'<ph id='aristotle'>Aristote</ph>, « le Philosophe », à une vaste synthèse avec le dogme chrétien, faisant de la raison aristotélicienne l'instrument de la <c>théologie</c>.",
+    "en": "<ph id='aquinas'>Aquinas</ph> integrates the physics, psychology and metaphysics of <ph id='aristotle'>Aristotle</ph>, \"the Philosopher\", into a vast synthesis with Christian doctrine, making Aristotelian reason the instrument of <c>theology</c>."
+  },
+  "sources": [
+    { "fr": "Thomas d'Aquin, Somme théologique", "en": "Aquinas, Summa Theologiae" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

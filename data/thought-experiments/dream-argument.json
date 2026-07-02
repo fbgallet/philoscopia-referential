@@ -1,0 +1,82 @@
+{
+  "id": "dream-argument",
+  "title": {
+    "fr": "Le rêve et le malin génie",
+    "en": "The dream and the evil demon"
+  },
+  "description": {
+    "fr": "Il vous est sûrement arrivé de rêver une scène si vive que, sur le moment, rien ne la distinguait de la réalité. Mais alors, qu'est-ce qui vous assure qu'en cet instant précis vous ne rêvez pas ? Descartes pousse l'épreuve plus loin : imaginez un esprit tout-puissant et trompeur, un malin génie, employant toute sa ruse à vous faire tenir pour vrai ce qui est faux, jusqu'au ciel, à la terre et à votre propre corps. Tant que cette hypothèse n'est pas écartée, presque toutes vos croyances pourraient être fausses sans que vous puissiez le savoir.",
+    "en": "You have surely dreamed a scene so vivid that, in the moment, nothing set it apart from reality. But then, what assures you that at this very instant you are not dreaming? Descartes presses the test further: imagine an all-powerful, deceiving mind, an evil demon, bending all its cunning to make you take the false for true, down to the sky, the earth, and your own body. As long as this hypothesis is not ruled out, almost all your beliefs could be false without your being able to know it."
+  },
+  "source": {
+    "author": { "fr": "Descartes", "en": "Descartes" },
+    "work": { "fr": "Méditations métaphysiques", "en": "Meditations on First Philosophy" },
+    "year": 1641
+  },
+  "question": {
+    "fr": "Face à ce doute, que vous reste-t-il ? Quelque chose résiste-t-il à l'épreuve, ou faut-il admettre qu'aucune certitude définitive n'est à notre portée ?",
+    "en": "Faced with this doubt, what remains to you? Does anything withstand the test, or must we admit that no definitive certainty is within our reach?"
+  },
+  "axisIds": ["CERTAINTY", "KNOWLEDGE_SOURCE"],
+  "options": [
+    {
+      "id": "cogito-resists",
+      "label": {
+        "fr": "Une chose résiste : même trompé, je pense, donc je suis. Là est le roc d'une certitude.",
+        "en": "One thing resists: even deceived, I think, therefore I am. There lies the rock of a certainty."
+      },
+      "hints": [
+        { "axisId": "CERTAINTY", "value": { "kind": "scalar", "value": -0.6 } },
+        { "axisId": "KNOWLEDGE_SOURCE", "value": { "kind": "scalar", "value": 0.5 }, "weight": 0.5 }
+      ],
+      "discussion": {
+        "fr": "C'est le cogito de Descartes : le doute lui-même atteste un sujet qui doute. La raison, non les sens, fournit ce premier point fixe.",
+        "en": "This is Descartes' cogito: doubt itself attests a subject who doubts. Reason, not the senses, provides this first fixed point."
+      }
+    },
+    {
+      "id": "senses-unreliable",
+      "label": {
+        "fr": "La leçon, c'est que les sens peuvent tromper : un savoir solide ne peut reposer sur eux seuls.",
+        "en": "The lesson is that the senses can deceive: solid knowledge cannot rest on them alone."
+      },
+      "hints": [
+        { "axisId": "KNOWLEDGE_SOURCE", "value": { "kind": "scalar", "value": 0.6 } }
+      ],
+      "discussion": {
+        "fr": "Vous tirez l'argument du côté rationaliste : si l'expérience est faillible jusqu'à la racine, c'est ailleurs qu'il faut chercher le fondement.",
+        "en": "You pull the argument toward rationalism: if experience is fallible to the root, the foundation must be sought elsewhere."
+      }
+    },
+    {
+      "id": "doubt-everything",
+      "label": {
+        "fr": "Rien ne résiste vraiment : si même cela peut être mis en doute, aucune certitude n'est définitive.",
+        "en": "Nothing truly resists: if even this can be doubted, no certainty is definitive."
+      },
+      "hints": [
+        { "axisId": "CERTAINTY", "value": { "kind": "scalar", "value": 0.8 } }
+      ],
+      "discussion": {
+        "fr": "Vous prolongez le doute en scepticisme : l'hypothèse du trompeur n'épargne, selon vous, aucune de nos prétentions au vrai.",
+        "en": "You extend the doubt into skepticism: the deceiver hypothesis spares, on your view, none of our claims to truth."
+      }
+    },
+    {
+      "id": "cannot-live-it",
+      "label": {
+        "fr": "C'est un jeu d'école : dans la vie réelle, je ne peux pas douter sérieusement du monde que j'éprouve.",
+        "en": "It is a classroom game: in real life, I cannot seriously doubt the world I experience."
+      },
+      "hints": [
+        { "axisId": "CERTAINTY", "value": { "kind": "scalar", "value": 0 } },
+        { "axisId": "KNOWLEDGE_SOURCE", "value": { "kind": "scalar", "value": -0.5 }, "weight": 0.5 }
+      ],
+      "discussion": {
+        "fr": "C'est la riposte de Hume : la nature nous contraint à croire ce que le doute ne peut réfuter. La confiance dans l'expérience reprend ses droits.",
+        "en": "This is Hume's retort: nature compels us to believe what doubt cannot refute. Trust in experience reclaims its rights."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-19T00:00:00.000Z"
+}

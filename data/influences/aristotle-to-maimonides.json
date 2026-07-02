@@ -1,0 +1,16 @@
+{
+  "id": "aristotle-to-maimonides",
+  "from": { "kind": "PHILOSOPHER", "slug": "aristotle" },
+  "to": { "kind": "PHILOSOPHER", "slug": "maimonides" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Le Guide des égarés de <ph id='maimonides'>Maïmonide</ph> entreprend d'accorder la physique et la métaphysique d'<ph id='aristotle'>Aristote</ph> avec la Torah, quitte à en limiter la portée sur la création du monde.",
+    "en": "<ph id='maimonides'>Maimonides</ph>'s Guide for the Perplexed sets out to reconcile <ph id='aristotle'>Aristotle</ph>'s physics and metaphysics with the Torah, even at the cost of limiting his reach on the creation of the world."
+  },
+  "sources": [
+    { "fr": "Maïmonide, Le Guide des égarés", "en": "Maimonides, The Guide for the Perplexed" }
+  ],
+  "updatedAt": "2026-07-02T00:00:00.000Z"
+}

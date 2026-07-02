@@ -1,0 +1,373 @@
+{
+  "id": "ETHICS_FOUNDATION",
+  "relation": "OTHERS",
+  "territory": "MORALS",
+  "label": {
+    "fr": "Critère du juste",
+    "en": "Criterion of right action"
+  },
+  "question": {
+    "fr": "Qu'est-ce qui rend une action moralement bonne ?",
+    "en": "What makes an action morally good?"
+  },
+  "stakes": {
+    "fr": "Une même action peut être approuvée ou condamnée selon qu'on regarde ses résultats, la règle qu'elle suit, le caractère qu'elle révèle ou l'attention qu'elle porte à autrui. Se positionner, c'est choisir laquelle de ces boussoles suivre quand elles n'indiquent pas la même direction.",
+    "en": "One and the same action can be approved or condemned depending on whether we look at its results, the rule it follows, the character it reveals, or the care it shows toward others. To take a position is to choose which of these compasses to follow when they do not point the same way."
+  },
+  "layer": "VALUE",
+  "type": "CATEGORICAL",
+  "poles": [
+    {
+      "id": "CONSEQUENTIALISM",
+      "label": {
+        "fr": "Conséquentialisme",
+        "en": "Consequentialism"
+      },
+      "description": {
+        "fr": "Une action est bonne si elle produit les meilleures conséquences possibles, par exemple le plus grand bonheur du plus grand nombre. Ce ne sont ni les intentions ni les règles qui comptent en dernier ressort, mais les effets réels de nos choix sur le monde.",
+        "en": "An action is good if it produces the best possible consequences, for instance the greatest happiness for the greatest number. What ultimately matters is neither intentions nor rules, but the actual effects of our choices on the world."
+      },
+      "figures": [
+        {
+          "slug": "mill",
+          "name": {
+            "fr": "Mill",
+            "en": "Mill"
+          }
+        },
+        {
+          "slug": "bentham",
+          "name": {
+            "fr": "Bentham",
+            "en": "Bentham"
+          }
+        }
+      ]
+    },
+    {
+      "id": "DEONTOLOGISM",
+      "label": {
+        "fr": "Déontologisme",
+        "en": "Deontologism"
+      },
+      "description": {
+        "fr": "Une action est bonne si elle est conforme au devoir, c'est-à-dire à des principes valables pour tous, indépendamment de ses conséquences. Certains actes, comme mentir ou traiter autrui comme un simple moyen, restent interdits même quand ils seraient utiles.",
+        "en": "An action is good if it conforms to duty, that is, to principles valid for everyone, regardless of its consequences. Some acts, such as lying or treating others as mere means, remain forbidden even when they would be useful."
+      },
+      "figures": [
+        {
+          "slug": "kant",
+          "name": {
+            "fr": "Kant",
+            "en": "Kant"
+          }
+        }
+      ]
+    },
+    {
+      "id": "VIRTUE_ETHICS",
+      "label": {
+        "fr": "Éthique des vertus",
+        "en": "Virtue ethics"
+      },
+      "description": {
+        "fr": "La question morale fondamentale n'est pas « que dois-je faire ? » mais « qui dois-je être ? ». Bien agir, c'est agir comme le ferait une personne vertueuse : courageuse, juste, tempérante, prudente. La morale est affaire de caractère et d'éducation, pas seulement de règles ou de calculs.",
+        "en": "The fundamental moral question is not \"what should I do?\" but \"who should I be?\". Acting well means acting as a virtuous person would: courageous, just, temperate, practically wise. Morality is a matter of character and education, not merely of rules or calculations."
+      },
+      "figures": [
+        {
+          "slug": "aristotle",
+          "name": {
+            "fr": "Aristote",
+            "en": "Aristotle"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CARE_ETHICS",
+      "label": {
+        "fr": "Éthique du care",
+        "en": "Ethics of care"
+      },
+      "description": {
+        "fr": "La morale s'enracine dans l'attention concrète portée aux personnes vulnérables et dans les relations de soin qui nous lient les uns aux autres. Plutôt que des principes abstraits et impartiaux, elle valorise la sollicitude, la responsabilité envers autrui et la prise en compte des situations particulières.",
+        "en": "Morality is rooted in concrete attentiveness to vulnerable people and in the caring relationships that bind us to one another. Rather than abstract, impartial principles, it values responsiveness, responsibility toward others, and sensitivity to particular situations."
+      },
+      "figures": [
+        {
+          "slug": "gilligan",
+          "name": {
+            "fr": "Gilligan",
+            "en": "Gilligan"
+          }
+        },
+        {
+          "slug": "noddings",
+          "name": {
+            "fr": "Noddings",
+            "en": "Noddings"
+          }
+        }
+      ]
+    }
+  ],
+  "core": true,
+  "difficulty": 2,
+  "clusters": [],
+  "relatedAxes": [
+    "MORAL_CIRCLE",
+    "MORAL_DEMAND",
+    "MORAL_SCOPE",
+    "PARTIALITY",
+    "PUNISHMENT",
+    "RULE_SPIRIT",
+    "GOD_EXISTENCE"
+  ],
+  "problems": [
+    {
+      "id": "consequences-or-the-forbidden-act",
+      "resolution": "SURFACED",
+      "object": "RELATION",
+      "objectLabel": { "fr": "un acte", "en": "an act" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "tramway", "en": "trolley" },
+        { "fr": "dilemme", "en": "dilemma" },
+        { "fr": "sacrifier un pour cinq", "en": "sacrifice one for five" },
+        { "fr": "fin et moyens", "en": "ends and means" }
+      ],
+      "sphere": "MORAL",
+      "poles": ["CONSEQUENTIALISM", "DEONTOLOGISM"],
+      "anchors": [
+        { "name": { "fr": "Mill", "en": "Mill" }, "kind": "PHILOSOPHER", "slug": "mill" },
+        { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" }
+      ],
+      "title": { "fr": "Les conséquences ou l'interdit", "en": "The consequences or the forbidden act" },
+      "explicitation": { "fr": "Faut-il juger un acte à ses seules conséquences, quitte à en sacrifier un pour en sauver cinq, ou certains actes restent-ils interdits quoi qu'il en coûte ?", "en": "Should an act be judged by its consequences alone, even if that means sacrificing one to save five, or do some acts stay forbidden whatever the cost?" },
+      "ref": { "kind": "THOUGHT_EXPERIMENT", "id": "trolley-problem" }
+    },
+    {
+      "id": "saving-a-loved-one",
+      "resolution": "SURFACED",
+      "object": "RELATION",
+      "objectLabel": { "fr": "un geste pour un proche", "en": "an act for a loved one" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "une pensée de trop", "en": "one thought too many" },
+        { "fr": "impartialité", "en": "impartiality" },
+        { "fr": "attachement", "en": "attachment" },
+        { "fr": "motif", "en": "motive" }
+      ],
+      "sphere": "MORAL",
+      "poles": ["CONSEQUENTIALISM", "DEONTOLOGISM", "VIRTUE_ETHICS", "CARE_ETHICS"],
+      "anchors": [
+        { "name": { "fr": "Bernard Williams", "en": "Bernard Williams" }, "kind": "PHILOSOPHER", "slug": "williams" }
+      ],
+      "doorways": [{ "axis": "PARTIALITY" }],
+      "title": { "fr": "Sauver un proche plutôt qu'un inconnu", "en": "Saving a loved one rather than a stranger" },
+      "explicitation": { "fr": "On sauve l'être aimé sans hésiter ; mais ce qui rend ce geste bon est-il un calcul, une règle qui l'autorise, un bon caractère, ou le lien lui-même, dont aucune morale ne devrait exiger qu'on le justifie ?", "en": "We save the one we love without hesitating; but is what makes that act good a calculation, a rule that permits it, good character, or the bond itself, which no morality should require us to justify?" },
+      "ref": { "kind": "THOUGHT_EXPERIMENT", "id": "williams-rescue" }
+    },
+    {
+      "id": "being-good-or-acting-rightly",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "l'agent", "en": "the agent" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "caractère", "en": "character" },
+        { "fr": "qui dois-je être", "en": "who should I be" },
+        { "fr": "vertu", "en": "virtue" }
+      ],
+      "sphere": "MORAL",
+      "poles": ["VIRTUE_ETHICS"],
+      "anchors": [
+        { "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" },
+        { "name": { "fr": "Anscombe", "en": "Anscombe" }, "kind": "PHILOSOPHER", "slug": "anscombe" }
+      ],
+      "title": { "fr": "Être bon ou bien agir", "en": "Being good or acting rightly" },
+      "explicitation": { "fr": "La morale est-elle affaire d'actes à juger un par un selon des règles, ou d'abord du caractère d'une personne, de qui l'on est et de la façon dont on a appris à voir les situations ?", "en": "Is morality a matter of acts to be judged one by one against rules, or first of all a matter of a person's character, of who one is and how one has learned to see situations?" }
+    },
+    {
+      "id": "can-virtue-be-taught",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "l'agent", "en": "the agent" },
+      "mode": "PRACTICAL",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "akrasia", "en": "akrasia" },
+        { "fr": "faiblesse de la volonté", "en": "weakness of will" },
+        { "fr": "habitude", "en": "habit" },
+        { "fr": "éducation morale", "en": "moral education" }
+      ],
+      "poles": ["VIRTUE_ETHICS"],
+      "anchors": [
+        { "name": { "fr": "Socrate", "en": "Socrates" }, "kind": "PHILOSOPHER", "slug": "socrates" },
+        { "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" }
+      ],
+      "title": { "fr": "Peut-on apprendre à être bon ?", "en": "Can one learn to be good?" },
+      "explicitation": { "fr": "La bonté s'enseigne-t-elle, comme un savoir, ou s'acquiert-elle par l'habitude ? Et comment se fait-il qu'on connaisse parfois le bien sans parvenir à le faire ?", "en": "Can goodness be taught, like a body of knowledge, or is it acquired through habit? And how is it that we sometimes know the good yet fail to do it?" }
+    },
+    {
+      "id": "absolute-prohibitions",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "l'acte", "en": "the act" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "interdit absolu", "en": "absolute prohibition" },
+        { "fr": "mentir", "en": "lying" },
+        { "fr": "fins et moyens", "en": "ends and means" },
+        { "fr": "bombe à retardement", "en": "ticking bomb" }
+      ],
+      "sphere": "MORAL",
+      "poles": ["DEONTOLOGISM", "CONSEQUENTIALISM"],
+      "anchors": [
+        { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" },
+        { "name": { "fr": "Anscombe", "en": "Anscombe" }, "kind": "PHILOSOPHER", "slug": "anscombe" }
+      ],
+      "title": { "fr": "Y a-t-il des actes absolument interdits ?", "en": "Are there absolutely forbidden acts?" },
+      "explicitation": { "fr": "Certains actes, comme mentir ou faire périr un innocent, restent-ils défendus même lorsqu'ils éviteraient un désastre, ou tout cède-t-il devant l'ampleur des conséquences ?", "en": "Do some acts, such as lying or letting an innocent die, stay forbidden even when they would avert a disaster, or does everything give way before the scale of the consequences?" }
+    },
+    {
+      "id": "moral-luck",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "l'acte", "en": "the act" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "chance morale", "en": "moral luck" },
+        { "fr": "le chauffard chanceux", "en": "the lucky driver" },
+        { "fr": "circonstances", "en": "circumstances" },
+        { "fr": "responsabilité", "en": "responsibility" }
+      ],
+      "sphere": "MORAL",
+      "poles": ["CONSEQUENTIALISM", "DEONTOLOGISM"],
+      "anchors": [
+        { "name": { "fr": "Williams", "en": "Williams" }, "kind": "PHILOSOPHER", "slug": "williams" },
+        { "name": { "fr": "Nagel", "en": "Nagel" }, "kind": "PHILOSOPHER", "slug": "nagel" }
+      ],
+      "title": { "fr": "La part de la chance", "en": "The part luck plays" },
+      "explicitation": { "fr": "On juge plus durement le chauffard qui a renversé un enfant que celui, tout aussi imprudent, qui a eu la chance de n'en croiser aucun : la valeur morale d'un acte dépend-elle de résultats que l'on ne maîtrise pas ?", "en": "We judge the reckless driver who ran over a child more harshly than the equally reckless one who happened to meet none: does the moral worth of an act depend on results we do not control?" }
+    },
+    {
+      "id": "rivals-or-facets",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "le critère moral", "en": "the moral criterion" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "monisme", "en": "monism" },
+        { "fr": "pluralisme des valeurs", "en": "value pluralism" },
+        { "fr": "convergence", "en": "convergence" },
+        { "fr": "devoirs prima facie", "en": "prima facie duties" }
+      ],
+      "sphere": "MORAL",
+      "poles": ["CONSEQUENTIALISM", "DEONTOLOGISM", "VIRTUE_ETHICS", "CARE_ETHICS"],
+      "anchors": [
+        { "name": { "fr": "Ross", "en": "Ross" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "Parfit", "en": "Parfit" }, "kind": "PHILOSOPHER", "slug": "parfit" },
+        { "name": { "fr": "Berlin", "en": "Berlin" }, "kind": "PHILOSOPHER", "slug": "berlin" }
+      ],
+      "title": { "fr": "Rivales ou complémentaires", "en": "Rivals or facets" },
+      "explicitation": { "fr": "Conséquences, devoir, vertu, sollicitude : sont-ce des théories rivales dont une seule peut être vraie, ou les facettes d'une même morale que rien n'oblige à unifier ?", "en": "Consequences, duty, virtue, care: are these rival theories of which only one can be true, or the facets of a single morality that nothing compels us to unify?" }
+    },
+    {
+      "id": "is-morality-impartial",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "le point de vue moral", "en": "the moral standpoint" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "impartialité", "en": "impartiality" },
+        { "fr": "une voix différente", "en": "a different voice" },
+        { "fr": "sollicitude", "en": "care" },
+        { "fr": "universalité", "en": "universality" }
+      ],
+      "sphere": "MORAL",
+      "poles": ["CARE_ETHICS", "DEONTOLOGISM"],
+      "anchors": [
+        { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" },
+        { "name": { "fr": "Gilligan", "en": "Gilligan" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "Noddings", "en": "Noddings" }, "kind": "PHILOSOPHER" }
+      ],
+      "doorways": [{ "axis": "PARTIALITY" }],
+      "title": { "fr": "Le point de vue moral est-il impartial ?", "en": "Is the moral standpoint impartial?" },
+      "explicitation": { "fr": "Juger moralement, est-ce s'élever à des principes qui valent pour tous sans considération de personne, ou l'attention concrète portée à ceux qui nous sont proches est-elle le cœur même de la morale ?", "en": "Is judging morally a matter of rising to principles that hold for everyone regardless of persons, or is concrete attentiveness to those close to us the very heart of morality?" }
+    },
+    {
+      "id": "authority-of-morality",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "la morale", "en": "morality" },
+      "mode": "DESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "fondement", "en": "grounding" },
+        { "fr": "obligation", "en": "obligation" },
+        { "fr": "raison ou sentiment", "en": "reason or sentiment" },
+        { "fr": "loi morale", "en": "moral law" }
+      ],
+      "anchors": [
+        { "name": { "fr": "Hume", "en": "Hume" }, "kind": "PHILOSOPHER", "slug": "hume" },
+        { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" }
+      ],
+      "doorways": [{ "axis": "MORAL_SCOPE" }, { "axis": "GOD_EXISTENCE" }],
+      "title": { "fr": "D'où la morale tire-t-elle son autorité ?", "en": "Where does morality get its authority?" },
+      "explicitation": { "fr": "Qu'est-ce qui rend un critère moral obligatoire pour nous : la raison, la nature, un sentiment partagé, la société, ou Dieu ? Et si rien ne le fonde, la morale a-t-elle encore prise ?", "en": "What makes a moral criterion binding on us: reason, nature, a shared sentiment, society, or God? And if nothing grounds it, does morality still have any hold?" }
+    },
+    {
+      "id": "is-morality-too-demanding",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "l'exigence morale", "en": "the moral demand" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "exigence", "en": "demandingness" },
+        { "fr": "l'enfant qui se noie", "en": "the drowning child" },
+        { "fr": "sacrifice", "en": "sacrifice" },
+        { "fr": "surérogation", "en": "supererogation" }
+      ],
+      "sphere": "MORAL",
+      "poles": ["CONSEQUENTIALISM"],
+      "anchors": [
+        { "name": { "fr": "Singer", "en": "Singer" }, "kind": "PHILOSOPHER", "slug": "singer" }
+      ],
+      "doorways": [{ "axis": "MORAL_DEMAND" }],
+      "title": { "fr": "Une morale trop exigeante ?", "en": "A morality too demanding?" },
+      "explicitation": { "fr": "Si seul compte le plus grand bien, la morale semble exiger de tout sacrifier pour les autres, sans limite : peut-elle vraiment réclamer cela, ou doit-elle laisser une place à nos vies propres ?", "en": "If only the greatest good counts, morality seems to demand sacrificing everything for others without limit: can it really ask that, or must it leave room for our own lives?" }
+    },
+    {
+      "id": "rule-or-situation",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "le jugement moral", "en": "moral judgment" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "règle", "en": "rule" },
+        { "fr": "cas par cas", "en": "case by case" },
+        { "fr": "prudence", "en": "practical wisdom" },
+        { "fr": "exception", "en": "exception" }
+      ],
+      "sphere": "MORAL",
+      "poles": ["DEONTOLOGISM", "VIRTUE_ETHICS", "CARE_ETHICS"],
+      "anchors": [
+        { "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" }
+      ],
+      "doorways": [{ "axis": "RULE_SPIRIT" }],
+      "title": { "fr": "La règle ou la situation", "en": "The rule or the situation" },
+      "explicitation": { "fr": "Bien agir, est-ce appliquer des principes valables d'avance, ou juger chaque situation dans sa singularité, au risque que la règle et le cas ne coïncident jamais tout à fait ?", "en": "Is acting well a matter of applying principles fixed in advance, or of judging each situation in its singularity, at the risk that rule and case never quite coincide?" }
+    }
+  ]
+}

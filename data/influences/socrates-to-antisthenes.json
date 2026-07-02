@@ -1,0 +1,16 @@
+{
+  "id": "socrates-to-antisthenes",
+  "from": { "kind": "PHILOSOPHER", "slug": "socrates" },
+  "to": { "kind": "PHILOSOPHER", "slug": "antisthenes" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Auditeur de <ph id='socrates'>Socrate</ph>, <ph id='antisthenes'>Antisthène</ph> retient de lui l'ascèse morale et l'<c>autosuffisance</c> de la vertu, qu'il radicalise jusqu'au mépris des conventions, matrice du <mv id='cynicism'>cynisme</mv>.",
+    "en": "A listener of <ph id='socrates'>Socrates</ph>, <ph id='antisthenes'>Antisthenes</ph> keeps from him moral askēsis and the <c>self-sufficiency</c> of virtue, which he radicalises into a contempt for convention, the seedbed of <mv id='cynicism'>Cynicism</mv>."
+  },
+  "sources": [
+    { "fr": "Diogène Laërce, Vies et doctrines des philosophes illustres, VI", "en": "Diogenes Laërtius, Lives of the Eminent Philosophers, VI" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

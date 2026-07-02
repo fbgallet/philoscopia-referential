@@ -1,0 +1,13 @@
+{
+  "id": "will-to-power",
+  "term": { "fr": "Volonté de puissance", "en": "Will to power" },
+  "definition": {
+    "fr": "La volonté de puissance désigne chez <ph id='nietzsche'>Nietzsche</ph> la pulsion fondamentale du vivant : non pas une simple volonté de survivre ni un désir de domination, mais la tendance de toute force à croître, à se surmonter et à créer. Elle explique aussi bien les valeurs que nous posons que la vie qui se dépasse elle-même. L'expression <w>Der Wille zur Macht</w>, restée fragmentaire de son vivant, fut réunie après sa mort par ses éditeurs.",
+    "en": "Will to power names, in <ph id='nietzsche'>Nietzsche</ph>, the fundamental drive of all living things: not a mere will to survive nor a desire to dominate, but the tendency of every force to grow, to overcome itself, and to create. It accounts both for the values we posit and for life surpassing itself. The phrase <w>Der Wille zur Macht</w>, left fragmentary in his lifetime, was assembled after his death by his editors."
+  },
+  "relatedAxes": ["DESIRE", "SELF_INTEREST", "ESSENCE"],
+  "relatedTerms": [],
+  "figure": { "slug": "nietzsche", "name": { "fr": "Nietzsche", "en": "Nietzsche" } },
+  "positions": [{ "axisId": "DESIRE", "poleId": "AFFIRMATION" }],
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

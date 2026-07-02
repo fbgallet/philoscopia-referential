@@ -1,0 +1,16 @@
+{
+  "id": "augustine-to-descartes",
+  "from": { "kind": "PHILOSOPHER", "slug": "augustine" },
+  "to": { "kind": "PHILOSOPHER", "slug": "descartes" },
+  "directness": "INDIRECT",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "Le <q>cogito</q> de <ph id='descartes'>Descartes</ph> a un précédent augustinien fameux, le <q>si fallor, sum</q> : <ph id='augustine'>Augustin</ph> lui lègue la certitude de soi tirée du doute même et le tour vers l'intériorité, que Descartes refond en fondement de la connaissance, sans se reconnaître d'emprunt.",
+    "en": "<ph id='descartes'>Descartes</ph>'s <q>cogito</q> has a famous Augustinian precedent, the <q>si fallor, sum</q>: <ph id='augustine'>Augustine</ph> bequeaths him the self-certainty drawn from doubt itself and the turn toward interiority, which Descartes recasts as the foundation of knowledge, acknowledging no borrowing."
+  },
+  "sources": [
+    { "fr": "Augustin, La Cité de Dieu, XI, 26 ; Descartes, lettre à Colvius (1640)", "en": "Augustine, The City of God, XI, 26; Descartes, letter to Colvius (1640)" }
+  ],
+  "updatedAt": "2026-07-02T00:00:00.000Z"
+}

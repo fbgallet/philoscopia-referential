@@ -1,0 +1,12 @@
+{
+  "id": "finalism-grounds-bioconservatism",
+  "ground": { "axisId": "CAUSALITY", "poleId": "FINALISM" },
+  "grounded": { "axisId": "HUMAN_ENHANCEMENT", "poleId": "BIOCONSERVATISM" },
+  "kind": "T_V",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si la nature est ordonnée par des fins et que chaque organisme tend vers sa forme accomplie, vouloir refaire techniquement l'humain revient à violer un ordre porteur de sens. Le finalisme soutient le bioconservatisme : chez <ph id='jonas'>Jonas</ph>, la finitude et la vulnérabilité ne sont pas des défauts à corriger, mais des conditions d'une vie proprement humaine.",
+    "en": "If nature is ordered by ends and each organism tends toward its completed form, seeking to technologically remake the human amounts to violating a meaningful order. Finalism supports bioconservatism: for <ph id='jonas'>Jonas</ph>, finitude and vulnerability are not flaws to be corrected, but conditions of a properly human life."
+  },
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

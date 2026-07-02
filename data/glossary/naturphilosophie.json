@@ -1,0 +1,13 @@
+{
+  "id": "naturphilosophie",
+  "term": { "fr": "Naturphilosophie (philosophie de la nature)", "en": "Naturphilosophie (philosophy of nature)" },
+  "definition": {
+    "fr": "La Naturphilosophie est la philosophie de la nature élaborée par <ph id='schelling'>Schelling</ph> : la nature n'y est pas une matière inerte mais un organisme vivant, un même esprit qui sommeille dans la pierre, rêve dans la plante et s'éveille à lui-même dans la conscience. Nature et esprit ne sont que deux degrés d'une seule puissance créatrice. Contre le <c>mécanisme</c> des Lumières, elle pense le monde comme une <ax id='CAUSALITY'>vie qui se développe</ax> par degrés et polarités.",
+    "en": "Naturphilosophie is the philosophy of nature developed by <ph id='schelling'>Schelling</ph>: nature is not inert matter but a living organism, one and the same spirit that slumbers in the stone, dreams in the plant and awakens to itself in consciousness. Nature and spirit are but two degrees of a single creative power. Against the <c>mechanism</c> of the Enlightenment, it thinks the world as a <ax id='CAUSALITY'>life that unfolds</ax> through degrees and polarities."
+  },
+  "relatedAxes": ["CAUSALITY", "REALITY_NATURE"],
+  "relatedTerms": [],
+  "figure": { "slug": "schelling", "name": { "fr": "Schelling", "en": "Schelling" } },
+  "positions": [{ "axisId": "CAUSALITY", "poleId": "VITALISM" }],
+  "updatedAt": "2026-06-26T00:00:00.000Z"
+}

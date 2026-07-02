@@ -1,0 +1,12 @@
+{
+  "id": "correspondence-grounds-mimesis",
+  "ground": { "axisId": "TRUTH_NATURE", "poleId": "CORRESPONDENCE" },
+  "grounded": { "axisId": "ART_NATURE", "poleId": "MIMESIS" },
+  "kind": "T_T",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si dire le vrai, c'est s'accorder à une réalité indépendante, alors l'art aussi peut viser à représenter fidèlement le monde et les actions humaines. La conception de la vérité comme correspondance soutient la mimésis : pour <ph id='aristotle'>Aristote</ph>, l'art imite la nature, et sa valeur tient à la justesse et à la profondeur de cette imitation.",
+    "en": "If to speak the truth is to accord with an independent reality, then art too can aim to represent the world and human actions faithfully. The correspondence conception of truth supports mimesis: for <ph id='aristotle'>Aristotle</ph>, art imitates nature, and its value lies in the accuracy and depth of that imitation."
+  },
+  "updatedAt": "2026-06-22T00:00:00.000Z"
+}

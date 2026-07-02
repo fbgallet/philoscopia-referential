@@ -1,0 +1,19 @@
+{
+  "id": "hume-vs-kant",
+  "from": { "kind": "PHILOSOPHER", "slug": "hume" },
+  "to": { "kind": "PHILOSOPHER", "slug": "kant" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='hume'>Hume</ph> tire de l'empirisme une conclusion sceptique : aucune impression ne nous livre la <c>connexion nécessaire</c> entre une cause et son effet, seulement une habitude. <ph id='kant'>Kant</ph> dit en avoir été tiré de son <q>sommeil dogmatique</q> et bâtit la philosophie critique contre ce scepticisme, en logeant la causalité dans les conditions a priori de l'expérience plutôt que dans les choses.",
+    "en": "<ph id='hume'>Hume</ph> draws a skeptical conclusion from empiricism: no impression delivers the <c>necessary connection</c> between a cause and its effect, only habit does. <ph id='kant'>Kant</ph> says this woke him from his <q>dogmatic slumber</q>, and he builds critical philosophy against that skepticism, lodging causality in the a priori conditions of experience rather than in things themselves."
+  },
+  "sources": [
+    {
+      "fr": "Kant, Prolégomènes à toute métaphysique future (1783)",
+      "en": "Kant, Prolegomena to Any Future Metaphysics (1783)"
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

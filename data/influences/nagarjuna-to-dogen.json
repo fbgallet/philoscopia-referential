@@ -1,0 +1,16 @@
+{
+  "id": "nagarjuna-to-dogen",
+  "from": { "kind": "PHILOSOPHER", "slug": "nagarjuna" },
+  "to": { "kind": "PHILOSOPHER", "slug": "dogen" },
+  "directness": "INDIRECT",
+  "mode": "TRANSMITS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "Par la tradition mahāyāna et chan, <ph id='dogen'>Dōgen</ph> hérite d'une compréhension de la <c>vacuité</c> fortement marquée par <ph id='nagarjuna'>Nāgārjuna</ph>, qu'il met en œuvre dans sa pensée de l'assise méditative et de l'impermanence.",
+    "en": "Through the Mahāyāna and Chan traditions, <ph id='dogen'>Dōgen</ph> inherits an understanding of <c>emptiness</c> strongly marked by <ph id='nagarjuna'>Nāgārjuna</ph>, which he enacts in his thought of seated meditation and impermanence."
+  },
+  "sources": [
+    { "fr": "Dōgen, Shōbōgenzō", "en": "Dōgen, Shōbōgenzō" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

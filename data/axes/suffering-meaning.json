@@ -1,0 +1,91 @@
+{
+  "id": "SUFFERING_MEANING",
+  "relation": "SELF",
+  "territory": "ADVERSITY",
+  "label": {
+    "fr": "Sens de la souffrance",
+    "en": "The meaning of suffering"
+  },
+  "question": {
+    "fr": "La souffrance peut-elle avoir une valeur, ou faut-il chercher à l'éliminer autant que possible ?",
+    "en": "Can suffering have value, or should we strive to eliminate it as much as possible?"
+  },
+  "stakes": {
+    "fr": "La souffrance nous fait-elle grandir, mûrir, comprendre, ou n'est-elle qu'un mal qu'il faut réduire partout où c'est possible ? Lui prêter une valeur peut conduire à magnifier ou à tolérer l'intolérable ; ne vouloir que l'abolir peut nous faire fuir toute épreuve qui nous aurait fait mûrir. Se positionner, c'est dire quoi faire de notre douleur et de celle des autres.",
+    "en": "Does suffering make us grow, mature, understand, or is it only an evil to be reduced wherever we can? Granting it value can lead to glorifying or tolerating the intolerable; wanting only to abolish it can make us flee every ordeal that might have ripened us. To take a position is to say what to do with our own pain and that of others."
+  },
+  "layer": "VALUE",
+  "type": "BIPOLAR_MEDIAN",
+  "poles": [
+    {
+      "id": "REDEMPTIVE_FECUNDITY",
+      "label": {
+        "fr": "Fécondité-rédemption",
+        "en": "Fecundity and redemption"
+      },
+      "description": {
+        "fr": "La souffrance n'est pas un pur mal : elle peut grandir, approfondir, transformer. Épreuve qui rapproche de l'essentiel ou résistance qui forge les forts, elle porte en elle une fécondité que la vie facile ne connaît pas.",
+        "en": "Suffering is not pure evil: it can elevate, deepen, and transform. As an ordeal that draws us closer to what is essential, or a resistance that forges the strong, it carries a fruitfulness that an easy life never knows."
+      },
+      "figures": [
+        {
+          "slug": "pascal",
+          "name": {
+            "fr": "Pascal",
+            "en": "Pascal"
+          }
+        },
+        {
+          "slug": "nietzsche",
+          "name": {
+            "fr": "Nietzsche",
+            "en": "Nietzsche"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ABOLITIONISM",
+      "label": {
+        "fr": "Abolitionnisme",
+        "en": "Abolitionism"
+      },
+      "description": {
+        "fr": "La souffrance est un mal sans contrepartie : rien ne la justifie ni ne la rachète. La tâche morale et pratique consiste à la prévenir et à la réduire partout où c'est possible, pour soi comme pour les autres.",
+        "en": "Suffering is an evil with no redeeming counterpart: nothing justifies or redeems it. The moral and practical task is to prevent and reduce it wherever possible, for oneself and for others."
+      },
+      "figures": [
+        {
+          "slug": "epicurus",
+          "name": {
+            "fr": "Épicure",
+            "en": "Epicurus"
+          }
+        },
+        {
+          "slug": "utilitarianism",
+          "name": {
+            "fr": "l'utilitarisme",
+            "en": "utilitarianism"
+          }
+        }
+      ]
+    }
+  ],
+  "core": true,
+  "difficulty": 1,
+  "clusters": [],
+  "medianLabel": {
+    "fr": "Indifférence stoïcienne",
+    "en": "Stoic indifference"
+  },
+  "medianDescription": {
+    "fr": "La souffrance n'est ni une épreuve qui élève ou rachète, ni un pur mal qu'il faudrait abolir à tout prix. Elle fait partie des choses « indifférentes » : ce n'est pas elle qui décide de notre bonheur, mais le jugement que nous portons sur elle et la fermeté avec laquelle nous la traversons.",
+    "en": "Suffering is neither a trial that ennobles or redeems, nor a sheer evil to be abolished at any cost. It belongs among the indifferents, in itself neither good nor bad: it is not suffering that decides our happiness, but the judgment we pass on it and the steadiness with which we endure it."
+  },
+  "relatedAxes": [
+    "PROBLEM_OF_EVIL",
+    "COSMIC_OUTLOOK",
+    "HOPE"
+  ]
+}

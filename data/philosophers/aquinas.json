@@ -1,0 +1,922 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "aquinas",
+  "name": {
+    "fr": "Thomas d'Aquin",
+    "en": "Thomas Aquinas"
+  },
+  "fullName": {
+    "fr": "Thomas d'Aquin",
+    "en": "Thomas Aquinas"
+  },
+  "tagline": {
+    "fr": "La <c id='grace'>grâce</c> ne détruit pas la nature mais l'achève : <ph id='aristotle'>Aristote</ph> au service de la foi chrétienne.",
+    "en": "<c id='grace'>Grace</c> does not destroy nature but perfects it: <ph id='aristotle'>Aristotle</ph> placed at the service of Christian faith."
+  },
+  "summary": {
+    "fr": "Né au château de Roccasecca dans le royaume de Sicile, Thomas entre tout jeune chez les <c>dominicains</c>, ordre mendiant voué à la prédication et à l'étude, contre le vœu de sa famille qui le séquestre une année durant. À Paris puis à Cologne, il est l'élève d'<ph id='albert-the-great'>Albert le Grand</ph>, qui lui transmet le goût des sciences de la nature et de l'<ph id='aristotle'>Aristote</ph> redécouvert par les commentateurs arabes, <ph id='avicenna'>Avicenne</ph> et <ph id='averroes'>Averroès</ph>. Maître en théologie à l'Université de Paris au moment où l'aristotélisme inquiète l'autorité ecclésiastique, il entreprend, dans la <w id='summa-theologiae-aquinas'>Somme théologique</w> et la <w id='summa-contra-gentiles-aquinas'>Somme contre les Gentils</w>, de montrer que la raison philosophique et la foi révélée, loin de se contredire, s'accordent. Sa pensée, d'abord contestée puis condamnée en partie en 1277, devient la charpente de la scolastique et, depuis <per>Léon XIII</per>, la philosophie de référence de l'Église catholique.",
+    "en": "Born at the castle of Roccasecca in the kingdom of Sicily, Thomas entered while still young the <c>Dominican</c> order, a mendicant order devoted to preaching and study, against the will of his family, who held him captive for a year. At Paris and then Cologne he was the pupil of <ph id='albert-the-great'>Albert the Great</ph>, who passed on to him a taste for the natural sciences and for the <ph id='aristotle'>Aristotle</ph> rediscovered through the Arab commentators <ph id='avicenna'>Avicenna</ph> and <ph id='averroes'>Averroes</ph>. A master of theology at the University of Paris at the very moment when Aristotelianism was alarming the Church authorities, he set out, in the <w id='summa-theologiae-aquinas'>Summa Theologiae</w> and the <w id='summa-contra-gentiles-aquinas'>Summa contra Gentiles</w>, to show that philosophical reason and revealed faith, far from contradicting each other, agree. His thought, first contested and then partly condemned in 1277, became the framework of Scholasticism and, since <per>Leo XIII</per>, the reference philosophy of the Catholic Church."
+  },
+  "birth": 1225,
+  "death": 1274,
+  "nationality": {
+    "fr": "Italien",
+    "en": "Italian"
+  },
+  "movements": [
+    "aristotelianism"
+  ],
+  "entries": [
+    {
+      "axisId": "FAITH_REASON",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.05, 0.9, 0, 0.05]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "<pb>La raison et la foi peuvent-elles se contredire ?</pb> Thomas répond non, et son argument tient à une thèse sur leur source commune : un même Dieu est l'auteur de la nature, qui donne à la raison ses lumières, et de la Révélation ; une vérité ne saurait donc en démentir une autre. Contre l'<c>averroïsme</c> de la double vérité, qui réservait à la philosophie un domaine indépendant, il distingue sans les opposer : la raison établit par elle-même les <c>préambules de la foi</c> (l'existence de Dieu, l'immortalité de l'âme), tandis que les mystères proprement révélés, comme la Trinité, la surpassent sans la contredire. Là où un argument paraît réfuter la foi, c'est qu'il est mal conduit, et la philosophie elle-même peut en montrer le défaut.",
+          "en": "<pb>Can reason and faith contradict each other?</pb> Thomas answers no, and his argument rests on a thesis about their shared source: one and the same God is the author of nature, which gives reason its light, and of Revelation; one truth therefore cannot belie another. Against the <c>Averroist</c> doctrine of double truth, which reserved an independent domain for philosophy, he distinguishes without opposing: reason establishes by itself the <c>preambles of faith</c> (the existence of God, the immortality of the soul), while the properly revealed mysteries, such as the Trinity, surpass reason without contradicting it. Where an argument seems to refute the faith, it is because it is badly conducted, and philosophy itself can expose the flaw."
+        },
+        "references": [
+          {
+            "fr": "Somme contre les Gentils, I, 3-9",
+            "en": "Summa contra Gentiles, I, 3-9"
+          },
+          {
+            "fr": "Somme théologique, Ia, q. 1, a. 8",
+            "en": "Summa Theologiae, Ia, q. 1, a. 8"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.95
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Thomas refuse à la fois le fidéisme, qui tiendrait l'existence de Dieu pour une simple affaire de foi, et l'argument <c>ontologique</c> d'<ph id='anselm'>Anselme</ph>, qui prétendait la déduire du seul concept : pour un esprit fini, l'existence de Dieu n'est pas évidente par soi, elle se démontre <stk>à partir des effets</stk>. De là les <c id='five-ways'>cinq voies</c>, qui partent toutes d'un fait d'expérience (le mouvement, la causalité, le contingent, les degrés de perfection, l'ordre des fins) et remontent, pour éviter une régression à l'infini, jusqu'à un premier terme : moteur immobile, cause incausée, être nécessaire. Le théisme est donc tenu pour rationnellement établi, et non pas seulement cru.",
+          "en": "Thomas rejects both fideism, which would treat God's existence as a mere matter of faith, and <ph id='anselm'>Anselm</ph>'s <c>ontological</c> argument, which claimed to deduce it from the concept alone: for a finite mind, God's existence is not self-evident, it is demonstrated <stk>from effects</stk>. Hence the <c id='five-ways'>Five Ways</c>, which all start from a fact of experience (motion, causation, contingency, degrees of perfection, the ordering of ends) and rise, to avoid an infinite regress, to a first term: an unmoved mover, an uncaused cause, a necessary being. Theism is thus held to be rationally established, and not merely believed."
+        },
+        "quote": {
+          "text": {
+            "fr": "Tout ce qui est mû est mû par un autre ; il faut donc en venir à un premier moteur qui ne soit mû par rien, et c'est lui que tous appellent Dieu.",
+            "en": "Whatever is moved is moved by another; we must therefore arrive at a first mover moved by nothing, and this everyone understands to be God."
+          },
+          "source": {
+            "fr": "Somme théologique, Ia, q. 2, a. 3 (la première voie)",
+            "en": "Summa Theologiae, Ia, q. 2, a. 3 (the first way)"
+          }
+        },
+        "references": [
+          {
+            "fr": "Somme théologique, Ia, q. 2, a. 3 (les cinq voies)",
+            "en": "Summa Theologiae, Ia, q. 2, a. 3 (the Five Ways)"
+          },
+          {
+            "fr": "Somme contre les Gentils, I, 13",
+            "en": "Summa contra Gentiles, I, 13"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.05, 0.35, 0.6]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Reprenant l'<c id='eudaimonism'>eudémonisme</c> d'<ph id='aristotle'>Aristote</ph>, Thomas accorde que toute action vise une fin dernière, le bonheur ; mais il montre qu'aucun bien fini, ni richesse, ni honneur, ni plaisir, ni même la contemplation philosophique, ne peut combler le désir naturel de l'homme, qui ne s'apaise que dans le bien universel. Or seul Dieu est ce bien sans limite : la béatitude parfaite ne peut donc consister qu'en la <c id='beatific-vision'>vision béatifique</c>, la contemplation de l'essence divine, inaccessible en cette vie et reçue par grâce. L'eudémonisme grec est ainsi conservé mais dépassé, le souverain bien étant rapporté à un perfectionnement que la nature appelle sans pouvoir l'atteindre seule.",
+          "en": "Taking up <ph id='aristotle'>Aristotle</ph>'s <c id='eudaimonism'>eudaimonism</c>, Thomas grants that every action aims at a final end, happiness; but he shows that no finite good, neither wealth, nor honour, nor pleasure, nor even philosophical contemplation, can satisfy the human being's natural desire, which is stilled only in the universal good. Now God alone is that good without limit: perfect beatitude can therefore consist only in the <c id='beatific-vision'>beatific vision</c>, the contemplation of the divine essence, unreachable in this life and received by grace. Greek eudaimonism is thus preserved yet surpassed, the sovereign good being referred to a perfecting that nature calls for without being able to attain it on its own."
+        },
+        "quote": {
+          "text": {
+            "fr": "La béatitude ultime et parfaite ne peut être que dans la vision de l'essence divine.",
+            "en": "Ultimate and perfect beatitude can lie only in the vision of the divine essence."
+          },
+          "source": {
+            "fr": "Somme théologique, Ia-IIae, q. 3, a. 8",
+            "en": "Summa Theologiae, Ia-IIae, q. 3, a. 8"
+          }
+        },
+        "references": [
+          {
+            "fr": "Somme théologique, Ia-IIae, q. 1-5",
+            "en": "Summa Theologiae, Ia-IIae, q. 1-5"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.9, 0, 0.1]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Les normes morales ne sont pour Thomas ni des conventions variables ni des décrets arbitraires de Dieu : elles ont un fondement objectif dans la <c id='natural-law'>loi naturelle</c>, participation de la créature raisonnable à la <c id='eternal-law'>loi éternelle</c> par laquelle Dieu ordonne toutes choses à leur fin. Tout homme y a accès par sa raison, à partir du premier précepte « faire le bien et éviter le mal », d'où se déduisent les inclinations fondamentales (conserver sa vie, vivre en société, connaître la vérité). La morale est donc universelle et connaissable de tous, croyants ou non, ce qui range Thomas du côté de l'universalisme réaliste ; une mince réserve tient à ce que les préceptes seconds admettent des déterminations variables selon les circonstances.",
+          "en": "Moral norms are for Thomas neither variable conventions nor arbitrary divine decrees: they have an objective ground in the <c id='natural-law'>natural law</c>, the rational creature's participation in the <c id='eternal-law'>eternal law</c> by which God orders all things to their end. Every human being has access to it through reason, starting from the first precept \"do good and avoid evil\", from which the fundamental inclinations follow (to preserve one's life, to live in society, to know the truth). Morality is therefore universal and knowable by all, believers or not, which places Thomas on the side of realist universalism; a slight reservation lies in the fact that the secondary precepts admit of variable determinations according to circumstances."
+        },
+        "references": [
+          {
+            "fr": "Somme théologique, Ia-IIae, q. 91 et q. 94",
+            "en": "Summa Theologiae, Ia-IIae, q. 91 and q. 94"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.05, 0.25, 0.7, 0]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le critère du juste se loge pour Thomas dans la <c>vertu</c>, disposition stable qui parfait l'agent : il reprend les quatre vertus cardinales d'<ph id='aristotle'>Aristote</ph> (prudence, justice, courage, tempérance) et les ordonne à la fin dernière. Mais l'éthique des vertus s'articule à la loi naturelle, qui fournit la règle objective que la <c id='phronesis'>prudence</c> applique au cas singulier, d'où une part déontologique : l'agent vertueux est celui dont les dispositions s'accordent à l'ordre rationnel des fins. Au sommet, les vertus acquises par l'habitude sont couronnées par les vertus théologales, foi, espérance et charité, infuses par grâce, qui orientent l'homme vers une fin qui dépasse sa nature.",
+          "en": "The criterion of the right lies for Thomas in <c>virtue</c>, a stable disposition that perfects the agent: he takes up <ph id='aristotle'>Aristotle</ph>'s four cardinal virtues (prudence, justice, courage, temperance) and orders them to the final end. But virtue ethics is articulated with the natural law, which supplies the objective rule that <c id='phronesis'>prudence</c> applies to the singular case, hence a deontological strand: the virtuous agent is the one whose dispositions agree with the rational order of ends. At the summit, the virtues acquired by habit are crowned by the theological virtues, faith, hope and charity, infused by grace, which orient the human being toward an end that surpasses his nature."
+        },
+        "references": [
+          {
+            "fr": "Somme théologique, Ia-IIae, q. 55-67 ; IIa-IIae",
+            "en": "Summa Theologiae, Ia-IIae, q. 55-67; IIa-IIae"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Thomas reprend l'<c id='hylomorphism'>hylémorphisme</c> aristotélicien, tout être sensible étant composé de matière et de forme, mais il y ajoute une distinction décisive : dans toute créature, l'essence (ce que la chose est) se distingue réellement de l'<c id='esse'>esse</c> (l'acte d'exister). Une essence ne possède pas d'elle-même l'existence, elle la reçoit ; en Dieu seul l'essence est d'exister, il est l'<q>être subsistant lui-même</q>. La nature des choses est donc bien réelle et définie, mais elle est radicalement dépendante, suspendue à l'acte d'être que Dieu lui communique. Un essentialisme, mais réordonné par la primauté de l'existence comme acte.",
+          "en": "Thomas takes up Aristotelian <c id='hylomorphism'>hylomorphism</c>, every sensible being being a compound of matter and form, but adds a decisive distinction: in every creature, the essence (what the thing is) is really distinct from the <c id='esse'>esse</c> (the act of existing). An essence does not possess existence of itself, it receives it; in God alone is the essence to exist, he being <q>subsistent being itself</q>. The nature of things is therefore genuinely real and defined, yet radically dependent, hanging on the act of being that God communicates to it. An essentialism, but reordered by the primacy of existence as act."
+        },
+        "references": [
+          {
+            "fr": "L'Être et l'Essence (De ente et essentia), 4-5",
+            "en": "On Being and Essence (De ente et essentia), 4-5"
+          },
+          {
+            "fr": "Somme théologique, Ia, q. 3, a. 4",
+            "en": "Summa Theologiae, Ia, q. 3, a. 4"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.7, 0.1, 0.2, 0]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Contre le dualisme <ph id='plato'>platonicien</ph> qui fait de l'âme un pilote logé dans le corps, Thomas tient l'âme pour la <c>forme</c> du corps au sens aristotélicien : l'homme n'est pas une âme se servant d'un corps mais une unité substantielle, un seul être dont l'âme est le principe formel. Le moi est donc une substance, mais une substance hylémorphique, et non un pur esprit. La difficulté propre au christianisme, l'immortalité personnelle, est résolue en faisant de l'âme humaine une forme certes unie au corps mais subsistante, capable d'opérations (l'intellection) qui ne dépendent pas d'un organe, et donc de survivre à la mort en attendant la résurrection.",
+          "en": "Against the <ph id='plato'>Platonic</ph> dualism that makes the soul a pilot lodged in the body, Thomas holds the soul to be the <c>form</c> of the body in the Aristotelian sense: the human being is not a soul using a body but a substantial unity, a single being whose soul is the formal principle. The self is therefore a substance, but a hylomorphic substance, not a pure spirit. The difficulty proper to Christianity, personal immortality, is resolved by making the human soul a form indeed united to the body yet subsistent, capable of operations (intellection) that do not depend on an organ, and thus able to survive death while awaiting the resurrection."
+        },
+        "references": [
+          {
+            "fr": "Somme théologique, Ia, q. 75-76",
+            "en": "Summa Theologiae, Ia, q. 75-76"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "EMBODIMENT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.1
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "De l'union substantielle de l'âme et du corps découle un refus du <c>corps-instrument</c> : le corps n'est pas une prison ni un outil dont l'âme se servirait, il entre dans la définition même de l'homme, qui ne pense qu'à partir des sens et de l'<c>image</c> (phantasme). Sans aller jusqu'au corps-sujet de la phénoménologie, Thomas occupe la position médiane d'une union étroite où l'âme a besoin du corps pour exercer ses opérations propres.",
+          "en": "From the substantial union of soul and body follows a refusal of the <c>body-as-instrument</c>: the body is neither a prison nor a tool the soul would make use of, it enters into the very definition of the human being, who thinks only from the senses and the <c>image</c> (phantasm). Without going so far as phenomenology's lived body, Thomas occupies the median position of a close union in which the soul needs the body to exercise its own operations."
+        },
+        "references": [
+          {
+            "fr": "Somme théologique, Ia, q. 76, a. 1 ; q. 84, a. 7",
+            "en": "Summa Theologiae, Ia, q. 76, a. 1; q. 84, a. 7"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CAUSALITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.1, 0.85, 0.05]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Thomas hérite des quatre <c id='four-causes'>causes</c> d'<ph id='aristotle'>Aristote</ph> et de la primauté de la cause finale : tout agent agit en vue d'une fin, et c'est cette orientation qui rend la nature intelligible. Mais il radicalise le finalisme en le rapportant à Dieu : l'ordre des fins observable dans le monde, qui culmine dans la cinquième voie, suppose une intelligence qui dirige les êtres dépourvus de connaissance vers leur but, comme la flèche est dirigée par l'archer. La nature n'est donc pas une mécanique aveugle mais un ordre voulu, où chaque chose tend par sa forme vers la perfection qui lui revient.",
+          "en": "Thomas inherits <ph id='aristotle'>Aristotle</ph>'s four <c id='four-causes'>causes</c> and the primacy of the final cause: every agent acts for the sake of an end, and it is this orientation that makes nature intelligible. But he radicalizes finalism by referring it to God: the order of ends observable in the world, which culminates in the fifth way, presupposes an intelligence directing the beings devoid of knowledge toward their goal, as the arrow is directed by the archer. Nature is therefore not a blind mechanism but a willed order, in which each thing tends by its form toward the perfection that belongs to it."
+        },
+        "references": [
+          {
+            "fr": "Somme théologique, Ia, q. 2, a. 3 (la cinquième voie) ; q. 44, a. 4",
+            "en": "Summa Theologiae, Ia, q. 2, a. 3 (the fifth way); q. 44, a. 4"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.15, 0.15, 0.7]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Thomas n'est ni matérialiste, le réel comportant des substances spirituelles (Dieu, les anges, l'âme intellective), ni idéaliste, le monde sensible ayant une consistance propre. Sa position approche d'un dualisme modéré : la créature humaine est composée d'un corps matériel et d'une âme spirituelle subsistante, mais ce dualisme est tempéré par l'unité hylémorphique, qui refuse de tenir l'homme pour deux substances juxtaposées comme le fera <ph id='descartes'>Descartes</ph>.",
+          "en": "Thomas is neither a materialist, the real including spiritual substances (God, the angels, the intellective soul), nor an idealist, the sensible world having a consistency of its own. His position approaches a moderate dualism: the human creature is composed of a material body and a subsistent spiritual soul, but this dualism is tempered by the hylomorphic unity, which refuses to treat the human being as two juxtaposed substances, as <ph id='descartes'>Descartes</ph> later would."
+        },
+        "references": [
+          {
+            "fr": "Somme théologique, Ia, q. 75-76",
+            "en": "Summa Theologiae, Ia, q. 75-76"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "UNIVERSALS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Sur la querelle des universaux, Thomas tient un réalisme modéré qui prétend concilier <ph id='plato'>Platon</ph> et <ph id='aristotle'>Aristote</ph> : l'universel existe de trois façons, comme idée dans l'intellect divin avant la chose, comme forme commune dans les individus, et comme concept abstrait dans notre esprit après la chose. Il refuse donc autant le réalisme platonicien des formes séparées que le nominalisme qui n'y verrait que des noms : l'universel est réellement fondé dans les choses, mais n'existe comme universel que dans l'intellect qui l'abstrait.",
+          "en": "On the quarrel of universals, Thomas holds a moderate realism that claims to reconcile <ph id='plato'>Plato</ph> and <ph id='aristotle'>Aristotle</ph>: the universal exists in three ways, as an idea in the divine intellect before the thing, as a common form in the individuals, and as an abstract concept in our mind after the thing. He thus refuses both the Platonic realism of separate forms and the nominalism that would see in them only names: the universal is really grounded in things, yet exists as a universal only in the intellect that abstracts it."
+        },
+        "references": [
+          {
+            "fr": "L'Être et l'Essence (De ente et essentia), 3-4",
+            "en": "On Being and Essence (De ente et essentia), 3-4"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.3
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Thomas refuse l'<c id='innate-ideas'>innéisme</c> et pose, à la suite d'<ph id='aristotle'>Aristote</ph>, que toute connaissance commence par les sens, l'intellect étant d'abord comme une <c id='tabula-rasa'>table rase</c> où rien n'est écrit. Mais l'empirisme est tempéré : l'<c id='agent-intellect'>intellect agent</c> ne reçoit pas passivement le sensible, il en abstrait la forme intelligible, dégageant l'universel du particulier perçu. La connaissance part donc de l'expérience sans s'y réduire, ce qui maintient Thomas du côté empirique sans en faire un empiriste strict, l'activité de l'esprit ayant sa part irréductible.",
+          "en": "Thomas refuses <c id='innate-ideas'>innatism</c> and holds, following <ph id='aristotle'>Aristotle</ph>, that all knowledge begins with the senses, the intellect being at first like a <c id='tabula-rasa'>blank slate</c> on which nothing is written. But the empiricism is tempered: the <c id='agent-intellect'>agent intellect</c> does not passively receive the sensible, it abstracts from it the intelligible form, drawing the universal out of the perceived particular. Knowledge therefore starts from experience without reducing to it, which keeps Thomas on the empirical side without making him a strict empiricist, the activity of the mind having its irreducible share."
+        },
+        "quote": {
+          "text": {
+            "fr": "Il n'y a rien dans l'intellect qui n'ait d'abord été dans les sens.",
+            "en": "There is nothing in the intellect that was not first in the senses."
+          },
+          "source": {
+            "fr": "Questions disputées sur la vérité, q. 2, a. 3, arg. 19",
+            "en": "Disputed Questions on Truth, q. 2, a. 3, arg. 19"
+          }
+        },
+        "references": [
+          {
+            "fr": "Somme théologique, Ia, q. 84-85",
+            "en": "Summa Theologiae, Ia, q. 84-85"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRUTH_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.9, 0.05, 0.05]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Thomas donne sa formule classique à la conception <c>correspondantiste</c> : la vérité est l'<c>adéquation de la chose et de l'intellect</c>, l'accord de la pensée avec ce qui est. Mais il la fonde théologiquement : les choses sont vraies parce qu'elles sont conformes à l'idée que Dieu en a, et notre connaissance est vraie quand elle se règle sur elles. La vérité est donc d'abord dans l'intellect, divin puis humain, et la correspondance entre l'esprit et le réel a elle-même son origine en Dieu.",
+          "en": "Thomas gives its classic formula to the <c>correspondence</c> conception: truth is the <c>adequation of thing and intellect</c>, the agreement of thought with what is. But he grounds it theologically: things are true because they conform to the idea God has of them, and our knowledge is true when it is regulated by them. Truth is therefore first in the intellect, divine then human, and the correspondence between mind and the real itself has its origin in God."
+        },
+        "quote": {
+          "text": {
+            "fr": "La vérité est l'adéquation de la chose et de l'intellect.",
+            "en": "Truth is the adequation of thing and intellect."
+          },
+          "source": {
+            "fr": "Questions disputées sur la vérité, q. 1, a. 1",
+            "en": "Disputed Questions on Truth, q. 1, a. 1"
+          }
+        },
+        "references": [
+          {
+            "fr": "Questions disputées sur la vérité, q. 1, a. 1-2",
+            "en": "Disputed Questions on Truth, q. 1, a. 1-2"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Confiant dans le pouvoir de la raison de démontrer (l'existence de Dieu, les principes de la morale), Thomas se range du côté du <c id='dogmatism'>dogmatisme</c> : la science procède de principes premiers évidents vers des conclusions certaines, et le doute systématique n'a pas de place. Cette assurance est toutefois tempérée par la conscience des limites de l'esprit fini, qui ne saisit pas l'essence de Dieu et doit recevoir par la foi ce qui excède sa portée.",
+          "en": "Confident in reason's power to demonstrate (God's existence, the principles of morality), Thomas takes the side of <c id='dogmatism'>dogmatism</c>: science proceeds from self-evident first principles to certain conclusions, and systematic doubt has no place. This assurance is nonetheless tempered by an awareness of the limits of the finite mind, which does not grasp God's essence and must receive by faith what exceeds its reach."
+        },
+        "references": [
+          {
+            "fr": "Somme théologique, Ia, q. 1, a. 2 ; q. 2",
+            "en": "Summa Theologiae, Ia, q. 1, a. 2; q. 2"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Thomas tient un <c id='free-will'>libre arbitre</c> réel, qu'il fonde dans l'intellect : parce que la volonté est mue par le bien tel que la raison le présente, et qu'aucun bien fini ne s'impose absolument à elle, l'homme délibère et choisit librement parmi les moyens. Mais cette liberté n'est pas absolue : la volonté est nécessairement portée vers le bien en général, elle ne se choisit pas elle-même à partir de rien, et surtout, sans la <c id='grace'>grâce</c>, elle ne peut s'orienter vers sa fin surnaturelle. D'où une position libertarienne mesurée, qui articule la liberté de la créature à la motion divine plutôt que de les opposer.",
+          "en": "Thomas holds a real <c id='free-will'>free will</c>, which he grounds in the intellect: because the will is moved by the good as reason presents it, and no finite good imposes itself on it absolutely, the human being deliberates and freely chooses among the means. But this freedom is not absolute: the will is necessarily borne toward the good in general, it does not choose itself out of nothing, and above all, without <c id='grace'>grace</c>, it cannot orient itself toward its supernatural end. Hence a measured libertarian position, articulating the creature's freedom with divine motion rather than opposing them."
+        },
+        "references": [
+          {
+            "fr": "Somme théologique, Ia, q. 83 ; Ia-IIae, q. 109-114 (la grâce)",
+            "en": "Summa Theologiae, Ia, q. 83; Ia-IIae, q. 109-114 (grace)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "PROBLEM_OF_EVIL",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.45, 0.45, 0.1, 0]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "<pb>Comment un Dieu bon peut-il laisser exister le mal ?</pb> Thomas reprend d'<ph id='augustine'>Augustin</ph> la thèse que le mal n'est pas une chose ni une substance créée par Dieu, mais une <c>privation</c>, un manque d'être ou de bien qui devrait être là, comme la cécité est l'absence de vue. Dieu ne crée donc pas le mal, il permet le mal physique en vue d'un plus grand bien dans l'ordre de l'ensemble, et le mal moral par respect du libre arbitre, sans lequel il n'y aurait ni vertu ni mérite. Le profil mêle ainsi la théodicée (le mal ordonné au bien du tout) et la défense par le libre arbitre héritée d'Augustin.",
+          "en": "<pb>How can a good God allow evil to exist?</pb> Thomas takes from <ph id='augustine'>Augustine</ph> the thesis that evil is not a thing nor a substance created by God, but a <c>privation</c>, a lack of being or of good that ought to be there, as blindness is the absence of sight. God therefore does not create evil; he permits physical evil for the sake of a greater good in the order of the whole, and moral evil out of respect for free will, without which there would be neither virtue nor merit. The profile thus blends theodicy (evil ordered to the good of the whole) and the free-will defence inherited from Augustine."
+        },
+        "references": [
+          {
+            "fr": "Somme théologique, Ia, q. 48-49",
+            "en": "Summa Theologiae, Ia, q. 48-49"
+          },
+          {
+            "fr": "Somme contre les Gentils, III, 71",
+            "en": "Summa contra Gentiles, III, 71"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Dieu est pour Thomas radicalement <c id='transcendence'>transcendant</c>, distinct du monde qu'il crée de rien, et son essence dépasse tout ce que nous pouvons concevoir : nous ne savons de lui par la raison que ce qu'il n'est pas (théologie négative). Pourtant la transcendance n'est pas pure séparation, car Dieu est aussi intimement présent à toute chose comme la cause qui lui donne l'être à chaque instant. Cette articulation se dit par l'<c id='analogy-of-being'>analogie de l'être</c> : les perfections des créatures (bonté, sagesse) se trouvent en Dieu, mais à un degré éminent et selon un mode qui nous échappe, ni purement identique (univocité) ni purement étranger (équivocité).",
+          "en": "God is for Thomas radically <c id='transcendence'>transcendent</c>, distinct from the world he creates out of nothing, and his essence surpasses everything we can conceive: by reason we know of him only what he is not (negative theology). Yet transcendence is not sheer separation, for God is also intimately present to every thing as the cause that gives it being at each instant. This articulation is expressed by the <c id='analogy-of-being'>analogy of being</c>: the perfections of creatures (goodness, wisdom) are found in God, but in an eminent degree and in a mode that escapes us, neither purely identical (univocity) nor purely alien (equivocity)."
+        },
+        "references": [
+          {
+            "fr": "Somme théologique, Ia, q. 3 (la simplicité divine) ; q. 13 (les noms divins)",
+            "en": "Summa Theologiae, Ia, q. 3 (divine simplicity); q. 13 (the divine names)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0, 0, 1, 0]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La mort sépare l'âme du corps, mais l'âme intellective, parce qu'elle subsiste par elle-même, ne périt pas : elle survit dans l'attente de la résurrection des corps, où l'homme sera de nouveau complet. La mort n'est donc ni un pur néant ni l'horizon ultime, mais un passage vers la vie éternelle et, pour le juste, vers la vision de Dieu. C'est un immortalisme proprement chrétien, qui conjugue l'immortalité de l'âme et la résurrection de la chair.",
+          "en": "Death separates the soul from the body, but the intellective soul, because it subsists in itself, does not perish: it survives awaiting the resurrection of bodies, where the human being will once again be complete. Death is therefore neither sheer nothingness nor the ultimate horizon, but a passage toward eternal life and, for the just, toward the vision of God. This is a properly Christian immortalism, joining the immortality of the soul to the resurrection of the flesh."
+        },
+        "references": [
+          {
+            "fr": "Somme théologique, Ia, q. 75, a. 6 ; Suppl., q. 75",
+            "en": "Summa Theologiae, Ia, q. 75, a. 6; Suppl., q. 75"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.95, 0.05, 0, 0]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le sens de la vie est pour Thomas donné, inscrit dans une <c id='providence'>providence</c> qui ordonne chaque être à sa fin : l'homme est créé pour connaître et aimer Dieu, et toute son existence trouve sa direction dans ce retour vers son origine. Une mince part de construction subsiste, puisqu'il revient à chacun de coopérer librement à cette fin par ses actes, mais l'orientation fondamentale n'est ni inventée ni absurde, elle est reçue d'un ordre voulu.",
+          "en": "The meaning of life is for Thomas given, inscribed in a <c id='providence'>providence</c> that orders every being to its end: the human being is created to know and love God, and all his existence finds its direction in this return toward its origin. A slight constructive part remains, since it falls to each one to cooperate freely with this end through his acts, but the fundamental orientation is neither invented nor absurd, it is received from a willed order."
+        },
+        "references": [
+          {
+            "fr": "Somme contre les Gentils, III, 25 et 37",
+            "en": "Summa contra Gentiles, III, 25 and 37"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HOPE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'espérance est chez Thomas l'une des trois vertus théologales : tendue vers le bien futur ardu mais possible qu'est la béatitude, elle s'appuie sur le secours de la grâce divine. Loin d'une lucidité sans espoir, l'existence chrétienne est orientée par l'attente confiante d'une fin qui dépasse les forces de la nature, ce qui place Thomas à l'extrême du pôle de l'espérance.",
+          "en": "Hope is for Thomas one of the three theological virtues: stretched toward the arduous but possible future good that is beatitude, it relies on the help of divine grace. Far from a lucidity without hope, Christian existence is oriented by the confident expectation of an end that surpasses the powers of nature, which places Thomas at the extreme of the pole of hope."
+        },
+        "references": [
+          {
+            "fr": "Somme théologique, IIa-IIae, q. 17-22",
+            "en": "Summa Theologiae, IIa-IIae, q. 17-22"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.1, 0.7, 0.2]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Thomas ne condamne pas le désir : les passions et les appétits sont bons en eux-mêmes, voulus par Dieu, et la vertu de tempérance ne les éteint pas mais les règle selon la raison, à la manière du <c id='golden-mean'>juste milieu</c> aristotélicien. Le tri raisonné l'emporte donc, mais il est ordonné à une fin ultime : tout désir fini n'est que le signe d'un désir naturel de Dieu, seul capable de l'apaiser, ce qui infléchit l'équilibre sans verser dans le détachement.",
+          "en": "Thomas does not condemn desire: the passions and appetites are good in themselves, willed by God, and the virtue of temperance does not extinguish them but orders them according to reason, after the manner of the Aristotelian <c id='golden-mean'>mean</c>. Reasoned selection therefore prevails, but it is ordered to an ultimate end: every finite desire is only the sign of a natural desire for God, alone able to still it, which inflects the balance without lapsing into detachment."
+        },
+        "references": [
+          {
+            "fr": "Somme théologique, Ia-IIae, q. 22-48 (les passions) ; IIa-IIae, q. 141",
+            "en": "Summa Theologiae, Ia-IIae, q. 22-48 (the passions); IIa-IIae, q. 141"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Contre l'idéal stoïcien d'extinction des passions, Thomas leur accorde une valeur morale propre : intégrées à la vertu et réglées par la raison, la compassion, la crainte ou la juste colère parfont l'acte bon au lieu de le troubler. L'homme vertueux n'est pas l'impassible mais celui dont les affects suivent le jugement droit, ce qui penche modérément vers une réhabilitation des émotions sans abdiquer le primat de la raison.",
+          "en": "Against the Stoic ideal of extinguishing the passions, Thomas grants them a properly moral value: integrated into virtue and ordered by reason, compassion, fear or just anger perfect the good act instead of disturbing it. The virtuous person is not the impassive one but the one whose affects follow right judgment, which leans moderately toward a rehabilitation of the emotions without giving up the primacy of reason."
+        },
+        "references": [
+          {
+            "fr": "Somme théologique, Ia-IIae, q. 24 (la bonté des passions)",
+            "en": "Summa Theologiae, Ia-IIae, q. 24 (the goodness of the passions)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SOCIAL_CONTRACT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Reprenant l'<c>animal politique</c> d'<ph id='aristotle'>Aristote</ph>, Thomas tient la société pour naturelle et non issue d'un pacte : l'homme est porté par sa nature à vivre en communauté, car seul il ne peut subvenir à ses besoins ni développer sa raison. La cité n'est donc pas un artifice né de la peur, comme le soutiendront les contractualistes, mais l'accomplissement d'une inclination inscrite dans la nature humaine et voulue par Dieu, ordonnée au bien commun.",
+          "en": "Taking up <ph id='aristotle'>Aristotle</ph>'s <c>political animal</c>, Thomas holds society to be natural and not born of a pact: the human being is led by his nature to live in community, since alone he can neither provide for his needs nor develop his reason. The city is therefore not an artifice born of fear, as the contractualists will hold, but the fulfilment of an inclination inscribed in human nature and willed by God, ordered to the common good."
+        },
+        "references": [
+          {
+            "fr": "Du gouvernement royal (De regno), I, 1",
+            "en": "On Kingship (De regno), I, 1"
+          },
+          {
+            "fr": "Somme théologique, Ia, q. 96, a. 4",
+            "en": "Summa Theologiae, Ia, q. 96, a. 4"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "AUTHORITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'autorité politique est pour Thomas légitime et naturelle, car même un état d'innocence aurait requis une direction du tout vers le bien commun. Mais cette autorité n'est pas absolue : elle est tenue de servir le bien commun et reste soumise à la loi naturelle ; une <c>loi injuste</c>, contraire au bien ou à la loi divine, n'oblige pas en conscience et n'est plus une loi mais une violence. D'où une position favorable à l'autorité, mais bornée par une norme supérieure qui la juge.",
+          "en": "Political authority is for Thomas legitimate and natural, since even a state of innocence would have required a direction of the whole toward the common good. But this authority is not absolute: it is bound to serve the common good and remains subject to the natural law; an <c>unjust law</c>, contrary to the good or to the divine law, does not bind in conscience and is no longer a law but a kind of violence. Hence a position favourable to authority, yet bounded by a higher norm that judges it."
+        },
+        "references": [
+          {
+            "fr": "Somme théologique, Ia-IIae, q. 96, a. 4 (la loi injuste)",
+            "en": "Summa Theologiae, Ia-IIae, q. 96, a. 4 (the unjust law)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "POLITICAL_IDEAL",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Suivant <ph id='aristotle'>Aristote</ph> plutôt que la cité idéale de <ph id='plato'>Platon</ph>, Thomas raisonne sur les régimes réels et tient la monarchie tempérée pour le meilleur gouvernement, à condition qu'elle serve le bien commun et soit retenue de devenir tyrannie. Ce réalisme prudent, attentif aux circonstances et aux moyens de prévenir l'abus du pouvoir, l'éloigne de l'utopisme sans le porter au cynisme machiavélien.",
+          "en": "Following <ph id='aristotle'>Aristotle</ph> rather than <ph id='plato'>Plato</ph>'s ideal city, Thomas reasons about actual regimes and holds tempered monarchy to be the best government, provided it serves the common good and is restrained from becoming tyranny. This prudent realism, attentive to circumstances and to the means of preventing the abuse of power, distances him from utopianism without carrying him to Machiavellian cynicism."
+        },
+        "references": [
+          {
+            "fr": "Du gouvernement royal (De regno), I, 1-6",
+            "en": "On Kingship (De regno), I, 1-6"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "RIGHTS_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.85, 0.15, 0, 0]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La doctrine thomiste de la <c id='natural-law'>loi naturelle</c> est l'ancêtre médiéval des droits naturels : il existe un juste qui ne dépend pas de la volonté du législateur mais de la nature ordonnée par Dieu, et la loi humaine ne fait que déterminer ou appliquer cette norme antérieure. Le droit positif tire sa validité de sa conformité au droit naturel ; il n'est pas tenu pour une pure création du souverain, ce qui range Thomas du côté des droits naturels contre le positivisme juridique à venir.",
+          "en": "The Thomist doctrine of <c id='natural-law'>natural law</c> is the medieval ancestor of natural rights: there is a just that does not depend on the legislator's will but on the nature ordered by God, and human law only determines or applies this prior norm. Positive law derives its validity from its conformity to natural law; it is not held to be a sheer creation of the sovereign, which places Thomas on the side of natural rights against the legal positivism to come."
+        },
+        "references": [
+          {
+            "fr": "Somme théologique, Ia-IIae, q. 95, a. 2",
+            "en": "Summa Theologiae, Ia-IIae, q. 95, a. 2"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DISTRIBUTIVE_JUSTICE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.2
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Thomas reprend la justice distributive aristotélicienne, proportionnée au mérite et au rang, mais la tempère par la destination universelle des biens : la propriété privée est légitime pour l'usage et l'administration, non absolue, et en cas de nécessité extrême le pauvre qui prend de quoi survivre ne vole pas, car alors tout est commun. Cette limitation du droit de propriété au profit du nécessiteux nuance le penchant méritocratique vers une exigence de suffisance.",
+          "en": "Thomas takes up Aristotelian distributive justice, proportioned to merit and rank, but tempers it with the universal destination of goods: private property is legitimate for use and administration, not absolute, and in case of extreme necessity the poor person who takes what he needs to survive does not steal, since then all things are common. This limitation of the right of property in favour of the needy qualifies the meritocratic leaning toward a requirement of sufficiency."
+        },
+        "references": [
+          {
+            "fr": "Somme théologique, IIa-IIae, q. 61 (justice distributive) ; q. 66, a. 7 (le vol par nécessité)",
+            "en": "Summa Theologiae, IIa-IIae, q. 61 (distributive justice); q. 66, a. 7 (theft in necessity)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "RULE_SPIRIT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Reprenant l'<c>équité</c> (epieikeia) d'<ph id='aristotle'>Aristote</ph>, Thomas tient que la loi, par sa généralité, peut faillir dans le cas singulier où son application littérale contredirait l'intention du législateur et le bien commun : il faut alors s'en écarter pour suivre ce que la justice et le bien commun requièrent. La règle n'est donc pas une lettre à appliquer mécaniquement mais l'expression d'une intention raisonnable que la prudence interprète, ce qui penche vers l'esprit contre le légalisme.",
+          "en": "Taking up <ph id='aristotle'>Aristotle</ph>'s <c>equity</c> (epieikeia), Thomas holds that the law, by its generality, can fail in the singular case where its literal application would contradict the legislator's intention and the common good: one must then depart from it to follow what justice and the common good require. The rule is therefore not a letter to be applied mechanically but the expression of a reasonable intention that prudence interprets, which leans toward the spirit against legalism."
+        },
+        "references": [
+          {
+            "fr": "Somme théologique, IIa-IIae, q. 120 (l'epieikeia)",
+            "en": "Summa Theologiae, IIa-IIae, q. 120 (epieikeia)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_CIRCLE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.9, 0.1, 0, 0]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Thomas reprend la hiérarchie aristotélicienne des vivants, les créatures inférieures étant ordonnées à l'usage de l'homme, seul fait à l'image de Dieu et doté d'une âme raisonnable immortelle. La charité s'adresse aux personnes, non aux bêtes, et la cruauté envers les animaux n'est blâmable qu'indirectement, parce qu'elle endurcit le cœur. C'est un anthropocentrisme marqué, tempéré par l'idée que toute créature, en tant qu'elle est, est bonne et reflète son Créateur.",
+          "en": "Thomas takes up the Aristotelian hierarchy of living beings, the lower creatures being ordered to the use of the human being, alone made in God's image and endowed with an immortal rational soul. Charity is owed to persons, not to beasts, and cruelty toward animals is blameworthy only indirectly, because it hardens the heart. This is a marked anthropocentrism, tempered by the idea that every creature, insofar as it is, is good and reflects its Creator."
+        },
+        "references": [
+          {
+            "fr": "Somme contre les Gentils, III, 112",
+            "en": "Summa contra Gentiles, III, 112"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HUMAN_PLACE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.6, 0.3, 0.1]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "De l'ordre des créatures à l'homme découle une vision où la nature est confiée à son usage, mais cet usage est encadré : l'homme n'est pas propriétaire absolu, il administre une création qui reste l'œuvre de Dieu et qui porte partout sa trace. La position incline vers la maîtrise, mais une maîtrise responsable, plus proche de la gérance que de l'exploitation prométhéenne que la modernité revendiquera.",
+          "en": "From the ordering of creatures to the human being follows a vision in which nature is entrusted to his use, but this use is framed: the human being is not an absolute owner, he administers a creation that remains God's work and bears its trace everywhere. The position leans toward mastery, but a responsible mastery, closer to stewardship than to the Promethean exploitation modernity will claim."
+        },
+        "references": [
+          {
+            "fr": "Somme contre les Gentils, III, 112 ; Somme théologique, Ia, q. 96",
+            "en": "Summa contra Gentiles, III, 112; Summa Theologiae, Ia, q. 96"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "WORK_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.4, 0.1, 0.5]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le travail relève d'abord de la nécessité de pourvoir à la vie, mais Thomas, héritier de la règle monastique, lui reconnaît une dignité que l'Antiquité grecque lui refusait : il discipline le corps, écarte l'oisiveté et permet l'aumône. Il reste pourtant ordonné à une fin plus haute, le loisir contemplatif (otium) où l'esprit se tourne vers Dieu, qui demeure supérieur à la vie active. D'où un poids partagé entre la nécessité et une forme d'accomplissement.",
+          "en": "Work belongs first to the necessity of providing for life, but Thomas, heir to the monastic rule, recognizes in it a dignity that Greek antiquity denied it: it disciplines the body, wards off idleness and makes almsgiving possible. It remains nonetheless ordered to a higher end, the contemplative leisure (otium) in which the mind turns toward God, which stays superior to the active life. Hence a weight shared between necessity and a form of fulfilment."
+        },
+        "references": [
+          {
+            "fr": "Somme théologique, IIa-IIae, q. 187, a. 3 ; q. 182 (vie active et contemplative)",
+            "en": "Summa Theologiae, IIa-IIae, q. 187, a. 3; q. 182 (active and contemplative life)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "PARTIALITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La charité elle-même est ordonnée, soutient Thomas : nous devons aimer tous les hommes, mais non également tous, car l'ordre de la nature veut qu'on secoure d'abord ses proches, parents et concitoyens, à qui nous sommes liés plus étroitement. Cette hiérarchie des devoirs, fondée sur la proximité réelle, inscrit Thomas du côté du partialisme, sans exclure pour autant l'universalité de principe de l'amour du prochain.",
+          "en": "Charity itself is ordered, Thomas argues: we ought to love all human beings, but not all equally, for the order of nature requires that we first help those close to us, parents and fellow citizens, to whom we are more tightly bound. This hierarchy of duties, grounded in real proximity, places Thomas on the side of partialism, without thereby excluding the universality in principle of love of neighbour."
+        },
+        "references": [
+          {
+            "fr": "Somme théologique, IIa-IIae, q. 26 (l'ordre de la charité)",
+            "en": "Summa Theologiae, IIa-IIae, q. 26 (the order of charity)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "LOVE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.2, 0.8, 0, 0]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'amour suprême est pour Thomas la <c>charité</c> (caritas), traduction latine de l'agapè chrétienne : amour de bienveillance qui veut le bien de l'autre pour lui-même, et qui descend de Dieu vers la créature plutôt que de monter du manque vers le bien, comme l'<c>éros</c> platonicien. La charité est même définie comme une amitié de l'homme avec Dieu, qui rend possible d'aimer le prochain en Dieu. Le don l'emporte donc nettement, sans que l'élan du désir vers le bien soit nié.",
+          "en": "The supreme love is for Thomas <c>charity</c> (caritas), the Latin rendering of Christian agape: a love of benevolence that wills the other's good for the other's sake, and that descends from God toward the creature rather than rising from lack toward the good, as Platonic <c>eros</c> does. Charity is even defined as a friendship of the human being with God, which makes it possible to love one's neighbour in God. The gift therefore clearly prevails, without the upward thrust of desire toward the good being denied."
+        },
+        "references": [
+          {
+            "fr": "Somme théologique, IIa-IIae, q. 23 (la charité comme amitié)",
+            "en": "Summa Theologiae, IIa-IIae, q. 23 (charity as friendship)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "BODILY_PLEASURES",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Contre le mépris du corps de certaines traditions, Thomas tient les plaisirs corporels pour bons en eux-mêmes, voulus par Dieu et nécessaires à la vie : le plaisir parachève l'opération naturelle. Mais la vertu de tempérance les soumet à la raison et à la fin dernière, sans les condamner ni les exalter. D'où une position d'équilibre, à égale distance de l'ascétisme et de la célébration, fidèle au <c id='golden-mean'>juste milieu</c>.",
+          "en": "Against the contempt for the body found in certain traditions, Thomas holds bodily pleasures to be good in themselves, willed by God and necessary to life: pleasure completes the natural operation. But the virtue of temperance submits them to reason and to the final end, neither condemning nor exalting them. Hence a position of balance, equidistant from asceticism and celebration, faithful to the <c id='golden-mean'>mean</c>."
+        },
+        "references": [
+          {
+            "fr": "Somme théologique, Ia-IIae, q. 34 (la bonté des plaisirs)",
+            "en": "Summa Theologiae, Ia-IIae, q. 34 (the goodness of pleasures)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MACHINE_MIND",
+      "status": "NOT_APPLICABLE",
+      "note": {
+        "fr": "Question anachronique : le corpus de Thomas d'Aquin ne permet pas de le positionner sur la pensée des machines sans extrapolation hasardeuse.",
+        "en": "An anachronistic question: Aquinas's corpus does not allow positioning him on machine thought without hazardous extrapolation."
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "FAITH_REASON",
+      "thesis": {
+        "fr": "La <c id='grace'>grâce</c> ne détruit pas la nature mais l'achève : la raison et la foi, venues du même Dieu, ne peuvent se contredire et collaborent.",
+        "en": "<c id='grace'>Grace</c> does not destroy nature but perfects it: reason and faith, coming from the same God, cannot contradict each other and work together."
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "thesis": {
+        "fr": "L'existence de Dieu n'est pas un simple article de foi : elle se démontre par cinq voies qui, partant du monde sensible, remontent jusqu'à un premier terme nécessaire.",
+        "en": "God's existence is not a mere article of faith: it is demonstrated by five ways that, starting from the sensible world, rise to a first necessary term."
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "thesis": {
+        "fr": "Il existe une <c id='natural-law'>loi naturelle</c>, participation de la raison humaine à la <c id='eternal-law'>loi éternelle</c> de Dieu, qui fonde une morale objective et universelle accessible à tous.",
+        "en": "There is a <c id='natural-law'>natural law</c>, the human reason's participation in God's <c id='eternal-law'>eternal law</c>, which grounds an objective and universal morality accessible to all."
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "thesis": {
+        "fr": "L'âme n'est pas un pilote logé dans le corps mais sa <c>forme</c> : l'homme est une seule substance, unité du corps et de l'âme, et non deux choses juxtaposées.",
+        "en": "The soul is not a pilot lodged in the body but its <c>form</c>: the human being is a single substance, the unity of body and soul, not two juxtaposed things."
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "thesis": {
+        "fr": "Aucun bien fini ne comble le désir de l'homme : la béatitude parfaite ne peut consister qu'en la <c id='beatific-vision'>vision</c> de Dieu, que la nature appelle sans pouvoir l'atteindre seule.",
+        "en": "No finite good satisfies the human being's desire: perfect beatitude can consist only in the <c id='beatific-vision'>vision</c> of God, which nature calls for without being able to reach it alone."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-29T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

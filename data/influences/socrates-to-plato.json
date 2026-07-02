@@ -1,0 +1,16 @@
+{
+  "id": "socrates-to-plato",
+  "from": { "kind": "PHILOSOPHER", "slug": "socrates" },
+  "to": { "kind": "PHILOSOPHER", "slug": "plato" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='plato'>Platon</ph>, disciple de <ph id='socrates'>Socrate</ph>, fait de lui le personnage central de ses dialogues et prolonge son questionnement sur la <c>définition</c> et la vertu, qu'il déploie ensuite en une métaphysique des <c>Idées</c> que Socrate n'avait jamais formulée.",
+    "en": "<ph id='plato'>Plato</ph>, a pupil of <ph id='socrates'>Socrates</ph>, makes him the central figure of his dialogues and carries on his questioning of <c>definition</c> and virtue, which he then unfolds into a metaphysics of the <c>Forms</c> that Socrates never stated."
+  },
+  "sources": [
+    { "fr": "Platon, Apologie de Socrate ; Phédon", "en": "Plato, Apology; Phaedo" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

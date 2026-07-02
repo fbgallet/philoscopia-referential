@@ -1,0 +1,13 @@
+{
+  "id": "dukkha",
+  "term": { "fr": "Dukkha (souffrance, insatisfaction)", "en": "Dukkha (suffering, unsatisfactoriness)" },
+  "definition": {
+    "fr": "Dukkha est la première des <c id='four-noble-truths'>Quatre Nobles Vérités</c> : l'existence conditionnée est traversée par une insatisfaction foncière. Le terme déborde la douleur, il désigne aussi le caractère décevant et instable de tout ce qui passe, jusqu'aux plaisirs qui ne durent pas. Pour <ph id='buddha'>le Bouddha</ph>, reconnaître lucidement dukkha n'est pas du pessimisme mais le point de départ d'une libération possible.",
+    "en": "Dukkha is the first of the <c id='four-noble-truths'>Four Noble Truths</c>: conditioned existence is pervaded by a basic unsatisfactoriness. The term goes beyond pain, naming also the disappointing, unstable character of everything that passes, down to pleasures that do not last. For <ph id='buddha'>the Buddha</ph>, lucidly acknowledging dukkha is not pessimism but the starting point of a possible liberation."
+  },
+  "relatedAxes": ["SUFFERING_MEANING", "COSMIC_OUTLOOK"],
+  "relatedTerms": ["four-noble-truths", "tanha", "anicca", "nirvana"],
+  "figure": { "slug": "buddha", "name": { "fr": "Le Bouddha", "en": "The Buddha" } },
+  "positions": [{ "axisId": "SUFFERING_MEANING", "poleId": "ABOLITIONISM" }],
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

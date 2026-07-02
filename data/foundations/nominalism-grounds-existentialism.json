@@ -1,0 +1,12 @@
+{
+  "id": "nominalism-grounds-existentialism",
+  "ground": { "axisId": "UNIVERSALS", "poleId": "NOMINALISM" },
+  "grounded": { "axisId": "ESSENCE", "poleId": "EXISTENTIALISM" },
+  "kind": "T_T",
+  "strength": "WEAK",
+  "explanation": {
+    "fr": "Si seuls les individus existent et que les universaux ne sont que des noms, alors il n'y a pas de nature humaine inscrite dans les choses, antérieure aux individus singuliers. Le nominalisme ouvre la voie à l'existentialisme : faute d'essence générale de l'homme, chacun se définit par son existence et ses actes, comme le soutient <ph id='sartre'>Sartre</ph>. Le lien est une affinité plus qu'une filiation explicite.",
+    "en": "If only individuals exist and universals are merely names, then there is no human nature inscribed in things, prior to singular individuals. Nominalism opens the way to existentialism: lacking a general essence of the human, each person is defined by their existence and acts, as <ph id='sartre'>Sartre</ph> maintains. The link is an affinity more than an explicit lineage."
+  },
+  "updatedAt": "2026-06-22T00:00:00.000Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "brentano-to-husserl",
+  "from": { "kind": "PHILOSOPHER", "slug": "brentano" },
+  "to": { "kind": "PHILOSOPHER", "slug": "husserl" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='brentano'>Brentano</ph>, dont <ph id='husserl'>Husserl</ph> fut l'élève direct, lui transmet la thèse que toute conscience est conscience de quelque chose, l'<c id='intentionality'>intentionnalité</c> comme marque du psychique, germe de la phénoménologie. Husserl reconnaît cette dette mais transforme l'intentionnalité descriptive de son maître en structure transcendantale de la conscience constituante.",
+    "en": "<ph id='brentano'>Brentano</ph>, whose direct pupil <ph id='husserl'>Husserl</ph> was, transmits to him the thesis that all consciousness is consciousness OF something, <c id='intentionality'>intentionality</c> as the mark of the mental, the seed of phenomenology. Husserl acknowledges the debt yet transforms his teacher's descriptive intentionality into a transcendental structure of constituting consciousness."
+  },
+  "sources": [
+    { "fr": "Husserl, Recherches logiques ; sa reconnaissance de Brentano comme son maître", "en": "Husserl, Logical Investigations; his acknowledgment of Brentano as his teacher" }
+  ],
+  "updatedAt": "2026-06-29T00:00:00.000Z"
+}

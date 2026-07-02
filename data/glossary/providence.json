@@ -1,0 +1,12 @@
+{
+  "id": "providence",
+  "term": { "fr": "Providence (pronoia)", "en": "Providence (pronoia)" },
+  "definition": {
+    "fr": "La providence est l'ordonnancement rationnel et bienveillant du tout par le <c id='logos'>logos</c> divin : pour les stoïciens, rien n'arrive en vain, et chaque événement trouve sa place dans l'enchaînement raisonnable du monde. Cette confiance dans un cosmos bien réglé fonde un optimisme métaphysique et invite à accueillir le destin plutôt qu'à s'y opposer. Elle s'oppose au hasard pur que les épicuriens, eux, plaçaient au cœur des choses.",
+    "en": "Providence is the rational, benevolent ordering of the whole by the divine <c id='logos'>logos</c>: for the Stoics, nothing happens in vain, and every event has its place in the reasonable concatenation of the world. This trust in a well-ordered cosmos grounds a metaphysical optimism and invites us to welcome fate rather than resist it. It stands against the pure chance that the Epicureans, by contrast, placed at the heart of things."
+  },
+  "relatedAxes": ["GOD_EXISTENCE", "LIFE_MEANING", "COSMIC_OUTLOOK"],
+  "relatedTerms": ["logos"],
+  "positions": [{ "axisId": "COSMIC_OUTLOOK", "poleId": "METAPHYSICAL_OPTIMISM" }],
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

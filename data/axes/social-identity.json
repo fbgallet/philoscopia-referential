@@ -1,0 +1,88 @@
+{
+  "id": "SOCIAL_IDENTITY",
+  "relation": "OTHERS",
+  "territory": "SOCIETY_POLITICS",
+  "label": {
+    "fr": "Identité sociale",
+    "en": "Social identity"
+  },
+  "question": {
+    "fr": "Les catégories comme le genre, la race ou la classe sont-elles naturelles, construites, ou des réalités sociales objectives ?",
+    "en": "Are categories like gender, race or class natural, constructed, or objective social realities?"
+  },
+  "stakes": {
+    "fr": "Selon que ces catégories sont des faits de nature, de simples idées qu'on pourrait dissiper en changeant les mots, ou des forces sociales bien réelles, on ne combat pas les inégalités de la même façon. Se positionner, c'est dire ce qui, dans l'ordre social, peut être défait, et ce qu'on ne peut que reconnaître.",
+    "en": "Depending on whether these categories are facts of nature, mere ideas we could dispel by changing our words, or very real social forces, we fight inequality in quite different ways. To take a position is to say what, in the social order, can be undone, and what can only be acknowledged."
+  },
+  "layer": "THEORY",
+  "type": "TRIANGULAR",
+  "poles": [
+    {
+      "id": "SOCIAL_NATURALISM",
+      "label": {
+        "fr": "Naturalisme social",
+        "en": "Social naturalism"
+      },
+      "description": {
+        "fr": "Les grandes catégories sociales recoupent des différences réelles, en partie naturelles ou biologiques : elles ne sont pas de pures inventions, et les ignorer ne les fait pas disparaître.",
+        "en": "The major social categories track real, partly natural or biological differences: they are not pure inventions, and ignoring them does not make them disappear."
+      },
+      "figures": [],
+      "orphan": true
+    },
+    {
+      "id": "SOCIAL_CONSTRUCTION",
+      "label": {
+        "fr": "Construction sociale",
+        "en": "Social construction"
+      },
+      "description": {
+        "fr": "Ces catégories ne sont pas des donnés de nature mais des produits contingents de l'histoire, de la culture et des rapports de pouvoir, institués par des normes et des discours qui les font passer pour naturels. Ce qui a été construit peut être déconstruit : on ne naît pas femme, on le devient.",
+        "en": "These categories are not natural givens but contingent products of history, culture and power relations, instituted by norms and discourses that make them pass for natural. What has been constructed can be deconstructed: one is not born, but rather becomes, a woman."
+      },
+      "figures": [
+        {
+          "slug": "beauvoir",
+          "name": { "fr": "Beauvoir", "en": "Beauvoir" }
+        },
+        {
+          "slug": "foucault",
+          "name": { "fr": "Foucault", "en": "Foucault" }
+        },
+        {
+          "slug": "butler",
+          "name": { "fr": "Butler", "en": "Butler" }
+        }
+      ]
+    },
+    {
+      "id": "SOCIAL_REALISM",
+      "label": {
+        "fr": "Réalisme social",
+        "en": "Social realism"
+      },
+      "description": {
+        "fr": "Ces catégories ne sont ni naturelles ni de simples idées qu'on dissoudrait par la pensée : socialement produites, elles n'en sont pas moins objectivement réelles, inscrites dans les institutions, les rapports matériels et les hiérarchies. La classe est un rapport de production, la race une position sociale qui a des effets bien concrets.",
+        "en": "These categories are neither natural nor mere ideas that thought could dissolve: socially produced, they are nonetheless objectively real, embedded in institutions, material relations and hierarchies. Class is a relation to production, race a social position with very concrete effects."
+      },
+      "figures": [
+        {
+          "slug": "marx",
+          "name": { "fr": "Marx", "en": "Marx" }
+        },
+        {
+          "slug": "haslanger",
+          "name": { "fr": "Haslanger", "en": "Haslanger" }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 2,
+  "clusters": [],
+  "relatedAxes": [
+    "HUMAN_NATURE",
+    "INDIVIDUAL_SOCIETY",
+    "ESSENCE"
+  ]
+}

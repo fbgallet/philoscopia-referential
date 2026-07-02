@@ -1,0 +1,16 @@
+{
+  "id": "mill-to-sidgwick",
+  "from": { "kind": "PHILOSOPHER", "slug": "mill" },
+  "to": { "kind": "PHILOSOPHER", "slug": "sidgwick" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='sidgwick'>Sidgwick</ph> systématise l'<mv id='utilitarianism'>utilitarisme</mv> après <ph id='mill'>Mill</ph> en le rendant plus rigoureux et plus exigeant du point de vue de l'<c>impartialité</c>, cherchant à le concilier avec les intuitions du sens commun.",
+    "en": "<ph id='sidgwick'>Sidgwick</ph> systematises <mv id='utilitarianism'>utilitarianism</mv> after <ph id='mill'>Mill</ph>, making it more rigorous and more demanding in point of <c>impartiality</c>, seeking to reconcile it with the intuitions of common sense."
+  },
+  "sources": [
+    { "fr": "Sidgwick, Les Méthodes de l'éthique (1874)", "en": "Sidgwick, The Methods of Ethics (1874)" }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z"
+}

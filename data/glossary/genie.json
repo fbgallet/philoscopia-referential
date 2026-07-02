@@ -1,0 +1,12 @@
+{
+  "id": "genie",
+  "term": { "fr": "Génie", "en": "Genius" },
+  "definition": {
+    "fr": "Le génie est le pouvoir créateur original qui ne reçoit pas ses règles du dehors mais les invente : par lui, la nature donne sa loi à l'art, selon le mot de <ph id='kant'>Kant</ph>. Le romantisme en fait sa figure centrale, l'artiste-créateur qui ne copie aucun modèle et tire de soi une œuvre sans précédent. Il déplace ainsi la valeur de l'<ax id='ART_NATURE'>imitation vers l'originalité</ax> et fonde le culte moderne de l'artiste.",
+    "en": "Genius is the original creative power that does not receive its rules from without but invents them: through it, in Kant's phrase, nature gives the rule to art. Romanticism makes it its central figure, the artist-creator who copies no model and draws from himself a work without precedent. It thereby shifts value from <ax id='ART_NATURE'>imitation to originality</ax> and founds the modern cult of the artist."
+  },
+  "relatedAxes": ["ART_NATURE", "AESTHETIC_LIFE"],
+  "relatedTerms": ["sublime", "imagination-creatrice"],
+  "positions": [{ "axisId": "ART_NATURE", "poleId": "CREATION" }],
+  "updatedAt": "2026-06-26T00:00:00.000Z"
+}

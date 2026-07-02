@@ -1,0 +1,13 @@
+{
+  "id": "anatta",
+  "term": { "fr": "Anattā (non-soi)", "en": "Anattā (non-self)" },
+  "definition": {
+    "fr": "Anattā est la thèse selon laquelle il n'existe aucun soi permanent caché derrière les agrégats changeants qui composent une personne : le corps, les sensations, les perceptions, les formations mentales et la conscience. Ce que nous prenons pour un « moi » substantiel n'est qu'un flux de processus impersonnels et <c id='anicca'>impermanents</c>. Pour <ph id='buddha'>le Bouddha</ph>, saisir l'absence de soi desserre l'attachement et ouvre la voie de la libération.",
+    "en": "Anattā is the claim that there is no permanent self hidden behind the changing aggregates that make up a person: the body, sensations, perceptions, mental formations and consciousness. What we take to be a substantial \"I\" is only a flux of impersonal, <c id='anicca'>impermanent</c> processes. For <ph id='buddha'>the Buddha</ph>, grasping the absence of self loosens attachment and opens the path to liberation."
+  },
+  "relatedAxes": ["SELF_NATURE"],
+  "relatedTerms": ["anicca", "dukkha", "nirvana"],
+  "figure": { "slug": "buddha", "name": { "fr": "Le Bouddha", "en": "The Buddha" } },
+  "positions": [{ "axisId": "SELF_NATURE", "poleId": "BUNDLE_THEORY" }],
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

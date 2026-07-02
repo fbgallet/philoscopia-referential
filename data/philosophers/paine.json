@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "paine",
+  "stub": true,
+  "name": {
+    "fr": "Thomas Paine",
+    "en": "Thomas Paine"
+  },
+  "summary": {
+    "fr": "Penseur des révolutions américaine et française, défenseur des droits naturels qui, contre Burke, refusait l'autorité des morts sur les vivants.",
+    "en": "Thinker of the American and French revolutions, defender of natural rights who, against Burke, denied the authority of the dead over the living."
+  },
+  "birth": 1737,
+  "death": 1809,
+  "nationality": {
+    "fr": "Anglo-américain",
+    "en": "Anglo-American"
+  },
+  "movements": [],
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

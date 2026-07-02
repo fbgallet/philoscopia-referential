@@ -1,0 +1,17 @@
+{
+  "id": "spinoza-to-romanticism",
+  "from": { "kind": "PHILOSOPHER", "slug": "spinoza" },
+  "to": { "kind": "MOVEMENT", "slug": "romanticism" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<mv id='romanticism'>Le romantisme</mv> réveille <ph id='spinoza'>Spinoza</ph>, longtemps tenu pour maudit : la querelle du panthéisme (Jacobi, 1785) le remet au centre, et son Dieu-nature unique, immanent et vivant, devient l'âme de la <c id='naturphilosophie'>Naturphilosophie</c> de <ph id='schelling'>Schelling</ph> comme de la piété cosmique de <ph id='novalis'>Novalis</ph>. Les romantiques en font moins le géomètre froid de l'Éthique qu'un mystique de l'unité du tout, « l'homme ivre de Dieu ».",
+    "en": "<mv id='romanticism'>Romanticism</mv> reawakens <ph id='spinoza'>Spinoza</ph>, long held to be accursed: the pantheism controversy (Jacobi, 1785) places him back at the centre, and his single, immanent, living God-nature becomes the soul of <ph id='schelling'>Schelling</ph>'s <c id='naturphilosophie'>Naturphilosophie</c> and of <ph id='novalis'>Novalis</ph>'s cosmic piety. The Romantics make of him less the cold geometer of the Ethics than a mystic of the unity of the whole, the « God-intoxicated man »."
+  },
+  "sources": [
+    { "fr": "F. H. Jacobi, Lettres sur la doctrine de Spinoza (1785)", "en": "F. H. Jacobi, Letters on the Doctrine of Spinoza (1785)" },
+    { "fr": "Frederick Beiser, The Fate of Reason (1987)", "en": "Frederick Beiser, The Fate of Reason (1987)" }
+  ],
+  "updatedAt": "2026-06-26T00:00:00.000Z"
+}

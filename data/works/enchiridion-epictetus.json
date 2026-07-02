@@ -1,0 +1,11 @@
+{
+  "id": "enchiridion-epictetus",
+  "title": { "fr": "Manuel", "en": "Enchiridion" },
+  "author": { "slug": "epictetus", "name": { "fr": "Épictète", "en": "Epictetus" } },
+  "year": 125,
+  "presentation": {
+    "fr": "Bref recueil des préceptes d'<ph id='epictetus'>Épictète</ph> compilé par son disciple Arrien, le Manuel condense en quelques pages l'essentiel de l'éthique stoïcienne. Il s'ouvre sur la <c id='dichotomy-of-control'>distinction entre ce qui dépend de nous et ce qui n'en dépend pas</c>, fil conducteur de toute la sagesse pratique.",
+    "en": "A short collection of <ph id='epictetus'>Epictetus</ph>'s precepts compiled by his pupil Arrian, the Enchiridion condenses the essentials of Stoic ethics into a few pages. It opens with the <c id='dichotomy-of-control'>distinction between what is up to us and what is not</c>, the guiding thread of all practical wisdom."
+  },
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "frankfurt",
+  "stub": true,
+  "name": {
+    "fr": "Harry Frankfurt",
+    "en": "Harry Frankfurt"
+  },
+  "summary": {
+    "fr": "Philosophe américain, connu pour ses « cas de Frankfurt » (être responsable sans avoir pu agir autrement) et pour une liberté conçue comme adhésion réfléchie à ses propres désirs.",
+    "en": "American philosopher, known for his \"Frankfurt cases\" (being responsible without being able to do otherwise) and for a freedom conceived as reflective endorsement of one's own desires."
+  },
+  "birth": 1929,
+  "death": 2023,
+  "nationality": {
+    "fr": "Américain",
+    "en": "American"
+  },
+  "movements": [],
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

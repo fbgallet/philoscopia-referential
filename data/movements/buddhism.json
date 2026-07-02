@@ -1,0 +1,516 @@
+{
+  "kind": "MOVEMENT",
+  "id": "buddhism",
+  "name": {
+    "fr": "Bouddhisme",
+    "en": "Buddhism"
+  },
+  "tagline": {
+    "fr": "Comprendre la <c id='dukkha'>souffrance (dukkha)</c> et l'éteindre en se libérant de la <c id='tanha'>soif (taṇhā)</c> et de l'illusion d'un moi.",
+    "en": "Understanding <c id='dukkha'>suffering (dukkha)</c> and ending it by releasing the <c id='tanha'>craving (taṇhā)</c> and the illusion of a self."
+  },
+  "summary": {
+    "fr": "Le bouddhisme naît de l'éveil de <ph>Siddhārtha Gautama, le Bouddha</ph>, vers le Ve siècle avant notre ère dans la plaine du Gange, et de la communauté de pratiquants, la <c>communauté monastique (saṅgha)</c>, qu'il rassemble autour de lui. La tradition se transmet par les Trois Joyaux, le Bouddha, sa doctrine (le <c>Dharma</c>) et le saṅgha, et par un vaste canon de discours d'abord récités puis fixés par écrit. Face à un problème de fond, l'<c id='dukkha'>insatisfaction (dukkha)</c> qui traverse toute existence soumise au cycle des renaissances, l'enseignement s'est diffusé dans toute l'Asie et différencié en grands véhicules : le Theravāda du Sud, le Mahāyāna de Chine, de Corée et du Japon, le Vajrayāna tibétain. Il a été approfondi par <ph id='nagarjuna'>Nāgārjuna</ph>, penseur de la vacuité, et <ph>Dōgen</ph>, maître du zen, tout en gardant un noyau doctrinal et pratique commun.",
+    "en": "Buddhism arises from the awakening of <ph>Siddhārtha Gautama, the Buddha</ph>, around the fifth century BCE in the Ganges plain, and from the community of practitioners, the <c>monastic community (saṅgha)</c>, that he gathered around him. The tradition is carried by the Three Jewels, the Buddha, his teaching (the <c>Dharma</c>), and the saṅgha, and by a vast canon of discourses first recited and later written down. Addressing one underlying problem, the <c id='dukkha'>unsatisfactoriness (dukkha)</c> that pervades every existence bound to the cycle of rebirth, the teaching spread across Asia and branched into great vehicles: the Theravāda of the South, the Mahāyāna of China, Korea, and Japan, and the Tibetan Vajrayāna. It was deepened by <ph id='nagarjuna'>Nāgārjuna</ph>, thinker of emptiness, and <ph>Dōgen</ph>, master of Zen, while keeping a shared doctrinal and practical core."
+  },
+  "period": {
+    "from": -500
+  },
+  "keyFigures": [
+    {
+      "slug": "buddha",
+      "name": { "fr": "Le Bouddha", "en": "The Buddha" }
+    },
+    {
+      "slug": "nagarjuna",
+      "name": { "fr": "Nāgārjuna", "en": "Nāgārjuna" }
+    },
+    {
+      "slug": "dogen",
+      "name": { "fr": "Dōgen", "en": "Dōgen" }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.15,
+          0,
+          0.45,
+          0.4
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le bouddhisme fonde la morale sur la culture de la vertu (<c>sila</c>) et sur la compassion (<c>karuna</c>) et la bienveillance envers tous les êtres sensibles, jusqu'aux animaux. Le mérite tient à la qualité de l'intention et à la transformation de l'esprit plus qu'à l'obéissance à une loi ; les conséquences comptent par les fruits karmiques qu'elles portent.",
+          "en": "Buddhism grounds morality on the cultivation of virtue (<c>sila</c>) and on compassion (<c>karuna</c>) and loving-kindness toward all sentient beings, down to animals. Merit lies in the quality of intention and the transformation of the mind more than in obedience to a law; consequences count through the karmic fruits they carry."
+        },
+        "references": [
+          {
+            "fr": "Dhammapada",
+            "en": "Dhammapada"
+          },
+          {
+            "fr": "Metta Sutta",
+            "en": "Metta Sutta"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.3,
+          0.3,
+          0.4,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Pour le bouddhisme, la mort n'est ni anéantissement d'un soi ni survie d'une âme, mais un passage dans le cycle des renaissances réglé par le karma : une simple étape, à préparer pourtant avec soin, car l'état d'esprit du mourant oriente la renaissance, et quelque chose se continue sans qu'aucune âme permanente ne demeure. Une position d'équilibre, jusqu'à la libération qui seule arrête le cycle.",
+          "en": "For Buddhism, death is neither the annihilation of a self nor the survival of a soul, but a passage within the cycle of rebirths governed by karma: a mere stage, yet one to be carefully prepared, since the dying person's state of mind orients the rebirth, and something continues without any permanent soul remaining. A balanced position, until the liberation that alone halts the cycle."
+        },
+        "references": [
+          {
+            "fr": "Bardo Thödol (Livre des morts tibétain)",
+            "en": "Bardo Thödol (Tibetan Book of the Dead)"
+          },
+          {
+            "fr": "Suttas sur la renaissance",
+            "en": "Suttas on rebirth"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0.25,
+          0.65
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le bouddhisme place le souverain bien dans le <c>nirvana</c>, la cessation de la soif et de la souffrance, paix suprême au-delà du plaisir et de la douleur. Il se conquiert par la voie aux huit branches, qui unit sagesse, conduite éthique et méditation : une perfection libératrice, et non un bonheur de jouissance ni une simple droiture morale.",
+          "en": "Buddhism places the highest good in <c>nirvana</c>, the cessation of craving and suffering, a supreme peace beyond pleasure and pain. It is won through the eightfold path, which unites wisdom, ethical conduct and meditation: a liberating perfection, not a happiness of enjoyment nor a mere moral uprightness."
+        },
+        "references": [
+          {
+            "fr": "Sermon de Bénarès (les quatre nobles vérités)",
+            "en": "Sermon at Benares (the four noble truths)"
+          },
+          {
+            "fr": "Dhammapada, XXV",
+            "en": "Dhammapada, XXV"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le bouddhisme nie toute essence permanente : il n'y a pas de soi (<c>anatta</c>), seulement un flux d'agrégats impermanents et conditionnés, sans noyau substantiel qui persisterait. La négation de l'essence est radicale, mais elle ne débouche pas sur une liberté d'auto-création : c'est l'idée même d'un soi fixe qui se dissout.",
+          "en": "Buddhism denies any permanent essence: there is no self (<c>anatta</c>), only a flux of impermanent, conditioned aggregates, with no substantial core that would persist. The denial of essence is radical, but it issues in no freedom of self-creation: it is the very idea of a fixed self that dissolves."
+        },
+        "references": [
+          {
+            "fr": "Samyutta Nikaya, XXII (les agrégats)",
+            "en": "Samyutta Nikaya, XXII (the aggregates)"
+          },
+          {
+            "fr": "Milindapañha (la parabole du char)",
+            "en": "Milindapañha (the parable of the chariot)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.2
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le bouddhisme tient tout phénomène pour coproduit conditionné : il n'est pas de volonté incausée d'un soi substantiel, et le sentiment d'être un libre auteur procède de l'ignorance. Mais loin du fatalisme, l'intention (cetana) est l'acte karmique par excellence, et elle s'éduque : la voie est un effort réel pour transformer son propre conditionnement, entre déterminisme et libre arbitre.",
+          "en": "Buddhism holds every phenomenon to be dependently arisen: there is no uncaused will of a substantial self, and the sense of being a free author proceeds from ignorance. But far from fatalism, intention (cetana) is the karmic act par excellence, and it can be trained: the path is a real effort to transform one's own conditioning, between determinism and free will."
+        },
+        "references": [
+          {
+            "fr": "Samyutta Nikaya, XII",
+            "en": "Samyutta Nikaya, XII"
+          },
+          {
+            "fr": "Dhammapada, I",
+            "en": "Dhammapada, I"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le bouddhisme fait de l'examen personnel et de l'expérience directe, non de l'autorité ou de la tradition, la source du savoir libérateur. La connaissance décisive procède d'une perception affinée par la méditation, plus que d'une intellection a priori : on éprouve par soi-même la racine de la souffrance et sa cessation, comme on vérifie un remède en l'appliquant.",
+          "en": "Buddhism makes personal examination and direct experience, not authority or tradition, the source of liberating knowledge. Decisive knowledge proceeds from a perception refined by meditation, more than from a priori intellection: one tests for oneself the root of suffering and its cessation, as one verifies a remedy by applying it."
+        },
+        "references": [
+          {
+            "fr": "Kalama Sutta (Anguttara Nikaya III.65)",
+            "en": "Kalama Sutta (Anguttara Nikaya III.65)"
+          },
+          {
+            "fr": "Satipatthana Sutta",
+            "en": "Satipatthana Sutta"
+          }
+        ],
+        "strength": "MEDIUM",
+        "quote": {
+          "text": {
+            "fr": "Ne vous fiez pas à l'ouï-dire ni à la tradition, mais quand vous savez par vous-mêmes : ceci est salutaire, alors adoptez-le.",
+            "en": "Do not go by hearsay or tradition, but when you know for yourselves: this is wholesome, then take it up."
+          },
+          "source": {
+            "fr": "Kalama Sutta",
+            "en": "Kalama Sutta"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.2
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le Bouddha détourne de la spéculation métaphysique : aux questions sur l'éternité du monde ou sur l'au-delà, il oppose le <kw>silence</kw>, comme le blessé n'a pas à connaître l'archer avant qu'on retire la flèche de la plaie. La vérité ne s'établit pas par l'autorité, la tradition ou le raisonnement seul, mais s'éprouve par l'expérience directe, <q>viens et vois</q>. La position est plus pragmatique que sceptique : nul dogme certain à embrasser, mais une voie dont chacun vérifie par lui-même l'efficacité, le <c>Dharma</c> se réalisant dans l'<kw>intuition méditative</kw>.",
+          "en": "The Buddha turns away from metaphysical speculation: to questions about the eternity of the world or the hereafter he opposes <kw>silence</kw>, just as the wounded man need not know the archer before the arrow is drawn from the wound. Truth is not established by authority, tradition or reasoning alone, but tested in direct experience, <q>come and see</q>. The stance is more pragmatic than skeptical: no certain dogma to embrace, but a path whose efficacy each verifies for oneself, the <c>Dharma</c> realized in <kw>meditative insight</kw>."
+        },
+        "references": [
+          {
+            "fr": "Kalama Sutta (Anguttara Nikaya)",
+            "en": "Kalama Sutta (Anguttara Nikaya)"
+          },
+          {
+            "fr": "Cula-Malunkyovada Sutta (la parabole de la flèche)",
+            "en": "Cula-Malunkyovada Sutta (the parable of the arrow)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 0.1, 0, 0.9] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Cherchez le moi parmi les cinq agrégats (forme, sensation, perception, formations, conscience) et vous ne trouvez que leur flux changeant : aucun d'eux n'est stable, ni vôtre, ni un sujet qui les porterait. De cette analyse le bouddhisme tire le <c id='anatta'>non-soi (anattā)</c> contre l'<c id='atman'>ātman</c> des Upaniṣad, ce Soi permanent identifié au <c id='brahman'>Brahman</c> : là où le <mv id='vedanta'>Vedānta</mv> postule un sujet immuable sous le devenir, le Bouddha tient que postuler un tel substrat est précisément la <c>méprise (avidyā)</c> qui nourrit l'attachement. Le sujet n'est qu'un faisceau de processus impermanents, ce qui fait du bouddhisme la grande figure historique de la théorie du faisceau.",
+          "en": "Look for the self among the five aggregates (form, feeling, perception, formations, consciousness) and you find only their shifting flux: none of them is stable, none is yours, none is a subject bearing them. From this analysis Buddhism draws <c id='anatta'>not-self (anattā)</c> against the <c id='atman'>ātman</c> of the Upaniṣads, that permanent Self identified with <c id='brahman'>Brahman</c>: where <mv id='vedanta'>Vedānta</mv> posits an unchanging subject beneath becoming, the Buddha holds that positing such a substrate is precisely the <c>delusion (avidyā)</c> that feeds attachment. The subject is only a bundle of impermanent processes, which makes Buddhism the great historical instance of bundle theory."
+        },
+        "references": [
+          { "fr": "Anattalakkhaṇa Sutta (le discours sur la caractéristique du non-soi)", "en": "Anattalakkhaṇa Sutta (the discourse on the not-self characteristic)" },
+          { "fr": "Nāgārjuna, Mūlamadhyamakakārikā (Stances du milieu)", "en": "Nāgārjuna, Mūlamadhyamakakārikā (Fundamental Verses on the Middle Way)" }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "La forme est non-soi, la sensation est non-soi, la perception est non-soi, les formations sont non-soi, la conscience est non-soi.",
+            "en": "Form is not-self, feeling is not-self, perception is not-self, formations are not-self, consciousness is not-self."
+          },
+          "source": {
+            "fr": "Anattalakkhaṇa Sutta (Saṃyutta Nikāya 22.59)",
+            "en": "Anattalakkhaṇa Sutta (Saṃyutta Nikāya 22.59)"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 0.05, 0.95] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "<pb>Si la souffrance a une cause repérable, elle peut être supprimée en s'attaquant à cette cause</pb> : par la <c id='pratityasamutpada'>coproduction conditionnée (pratītyasamutpāda)</c>, la deuxième Noble Vérité remonte de la souffrance à la <c id='tanha'>soif (taṇhā)</c>, ce désir avide qui s'attache aux plaisirs, à l'existence ou à la non-existence et fait tourner la roue des renaissances. De là suit que la libération n'exige pas d'assouvir le désir ni de le réprimer de force, mais d'en éteindre la racine, la soif elle-même : le bouddhisme se range ainsi nettement du côté du détachement, non par mépris du plaisir mais parce que l'avidité est le moteur même du mal-être.",
+          "en": "<pb>If suffering has a locatable cause, it can be removed by addressing that cause</pb>: through <c id='pratityasamutpada'>dependent origination (pratītyasamutpāda)</c>, the second Noble Truth traces suffering back to <c id='tanha'>craving (taṇhā)</c>, the grasping thirst that clings to pleasures, to existence, or to non-existence and keeps the wheel of rebirth turning. It follows that liberation requires neither satisfying desire nor forcibly repressing it, but extinguishing its root, the thirst itself: Buddhism thus falls squarely on the side of detachment, not from contempt for pleasure but because craving is the very engine of dis-ease."
+        },
+        "references": [
+          { "fr": "Dhammacakkappavattana Sutta (le sermon de Bénarès)", "en": "Dhammacakkappavattana Sutta (the sermon at Benares)" },
+          { "fr": "Dhammapada, ch. XXIV (la soif)", "en": "Dhammapada, ch. XXIV (Craving)" }
+        ],
+        "strength": "STRONG",
+        "quote": {
+          "text": {
+            "fr": "Voici la noble vérité sur l'origine de la souffrance : c'est cette soif qui produit le renouvellement de l'existence.",
+            "en": "This is the noble truth of the origin of suffering: it is this craving which leads to renewed existence."
+          },
+          "source": {
+            "fr": "Dhammacakkappavattana Sutta (Saṃyutta Nikāya 56.11)",
+            "en": "Dhammacakkappavattana Sutta (Saṃyutta Nikāya 56.11)"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.85 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le Bouddha procède comme un médecin, et c'est ce schéma qui commande la position : les <c id='four-noble-truths'>quatre Nobles Vérités</c> énoncent le mal (la <c id='dukkha'>souffrance (dukkha)</c>), son étiologie (la soif), son pronostic (la cessation est possible) et son traitement (le chemin). Une fois la souffrance ainsi tenue pour un symptôme guérissable, elle ne peut plus avoir de valeur rédemptrice : <stk>l'exalter comme une épreuve sanctifiante serait s'attacher au mal au lieu de le soigner</stk>. Contre toute spiritualité du sacrifice, le but déclaré est l'extinction complète de la souffrance, ce qui range le bouddhisme du côté de l'abolitionnisme.",
+          "en": "The Buddha proceeds like a physician, and it is this schema that drives the position: the <c id='four-noble-truths'>Four Noble Truths</c> state the disease (<c id='dukkha'>suffering, dukkha</c>), its cause (craving), its prognosis (cessation is possible), and its cure (the path). Once suffering is treated as a curable symptom, it can carry no redemptive value: <stk>to exalt it as a sanctifying trial would be to cling to the disease rather than treat it</stk>. Against every spirituality of sacrifice, the declared goal is the complete extinction of suffering, which places Buddhism on the abolitionist side."
+        },
+        "references": [
+          { "fr": "Dhammacakkappavattana Sutta (le sermon de Bénarès)", "en": "Dhammacakkappavattana Sutta (the sermon at Benares)" },
+          { "fr": "Dhammapada, ch. XX (le chemin)", "en": "Dhammapada, ch. XX (The Path)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ATTENTION",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.9 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si le moi est une illusion née de l'inattention, c'est l'attention soutenue qui la défait : la <c id='sati'>pleine conscience</c> (sati, l'attention présente et continue) n'est pas une simple détente mais l'outil de connaissance qui rend l'<c id='anicca'>impermanence (anicca)</c> et le <c id='anatta'>non-soi (anattā)</c> directement observables dans l'expérience. Membre de l'<c id='eightfold-path'>Octuple Sentier</c>, elle s'exerce, selon le Satipaṭṭhāna Sutta, sur le corps, les sensations, l'esprit et les phénomènes, contre la dispersion. Le recueillement n'est donc pas une fin en soi mais le moyen même par lequel la compréhension libératrice s'installe, ce qui fait du bouddhisme une discipline du recueillement par excellence.",
+          "en": "If the self is an illusion born of inattention, it is sustained attention that undoes it: <c id='sati'>mindfulness</c> (sati, continuous present attention) is no mere relaxation but the instrument of knowledge that makes <c id='anicca'>impermanence (anicca)</c> and <c id='anatta'>not-self (anattā)</c> directly observable in experience. A limb of the <c id='eightfold-path'>Eightfold Path</c>, it is exercised, according to the Satipaṭṭhāna Sutta, upon the body, feelings, mind, and phenomena, against scattering. Recollection is thus not an end in itself but the very means by which liberating understanding takes hold, which makes Buddhism a discipline of recollection par excellence."
+        },
+        "references": [
+          { "fr": "Satipaṭṭhāna Sutta (le discours sur les fondements de l'attention)", "en": "Satipaṭṭhāna Sutta (the discourse on the foundations of mindfulness)" },
+          { "fr": "Dhammapada, ch. II (la vigilance)", "en": "Dhammapada, ch. II (Heedfulness)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.85, 0.1, 0.05, 0] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Puisque la cessation de la souffrance est possible, elle fournit à l'existence un <stk>terme</stk> vers lequel tout s'ordonne : se libérer du cycle des renaissances pour atteindre le <c id='nirvana'>nirvāṇa</c> (l'extinction de l'avidité, de la haine et de l'illusion). Le sens n'est donc ni à inventer par chacun ni décrété par un créateur, contrairement aux fins fixées par un Dieu : il est découvert comme la nature même des choses, ce qui donne au bouddhisme une structure téléologique sans transcendance, le but étant inscrit dans la possibilité de l'extinction et non dans une volonté extérieure.",
+          "en": "Since the cessation of suffering is possible, it gives existence an <stk>end</stk> toward which everything is ordered: to be freed from the cycle of rebirths so as to reach <c id='nirvana'>nirvāṇa</c> (the going-out of greed, hatred, and delusion). Meaning is therefore neither invented by each person nor decreed by a creator, unlike ends fixed by a God: it is discovered as the very nature of things, which gives Buddhism a teleological structure without transcendence, the goal lying in the possibility of extinction rather than in any external will."
+        },
+        "references": [
+          { "fr": "Dhammacakkappavattana Sutta (le sermon de Bénarès)", "en": "Dhammacakkappavattana Sutta (the sermon at Benares)" },
+          { "fr": "Dhammapada, ch. XXVI (le brahmane)", "en": "Dhammapada, ch. XXVI (The Brahmin)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.7 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La transformation visée passe d'abord par l'examen intérieur : observer ses propres états mentaux, ses <c id='tanha'>impulsions (taṇhā)</c> et ses représentations dans la méditation et l'introspection. La vie bonne se joue dans le travail sur l'esprit plus que dans l'action extérieure, même si la <c>conduite éthique (sīla)</c> en est le support.",
+          "en": "The transformation aimed at proceeds first through inner examination: observing one's own mental states, <c id='tanha'>impulses (taṇhā)</c>, and perceptions in meditation and introspection. The good life turns on work upon the mind more than on outward action, even though <c>ethical conduct (sīla)</c> is its support."
+        },
+        "references": [
+          { "fr": "Dhammapada, ch. I (les paires)", "en": "Dhammapada, ch. I (The Pairs)" },
+          { "fr": "Satipaṭṭhāna Sutta (le discours sur les fondements de l'attention)", "en": "Satipaṭṭhāna Sutta (the discourse on the foundations of mindfulness)" }
+        ],
+        "strength": "MEDIUM",
+        "quote": {
+          "text": {
+            "fr": "Tout ce que nous sommes résulte de nos pensées : c'est fondé sur nos pensées, c'est fait de nos pensées.",
+            "en": "All that we are is the result of what we have thought: it is founded on our thoughts, it is made up of our thoughts."
+          },
+          "source": {
+            "fr": "Dhammapada, I, 1",
+            "en": "Dhammapada, I, 1"
+          }
+        }
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.55 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La racine ultime de la souffrance et des émotions affligeantes est l'<c>ignorance (avidyā)</c>, la méprise sur la nature impermanente et sans-soi du réel. Avidité, haine et illusion se dissolvent par la vue juste et la compréhension pénétrante : c'est par la connaissance que se transforme l'affect, ce qui rapproche le bouddhisme d'un intellectualisme thérapeutique, tempéré par le rôle central de la pratique méditative.",
+          "en": "The ultimate root of suffering and afflictive emotions is <c>ignorance (avidyā)</c>, the misapprehension of the impermanent, selfless nature of reality. Greed, hatred, and delusion dissolve through right view and penetrating understanding: it is by knowledge that affect is transformed, which aligns Buddhism with a therapeutic intellectualism, tempered by the central role of meditative practice."
+        },
+        "references": [
+          { "fr": "Dhammacakkappavattana Sutta (le sermon de Bénarès)", "en": "Dhammacakkappavattana Sutta (the sermon at Benares)" },
+          { "fr": "Dhammapada, ch. XX (le chemin)", "en": "Dhammapada, ch. XX (The Path)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "BODILY_PLEASURES",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.3 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le sermon de Bénarès écarte deux extrêmes, la recherche des plaisirs sensuels et la mortification, au profit de la <c id='the-middle-way'>Voie du Milieu</c>. Sans condamner le corps, le bouddhisme tient les plaisirs sensoriels pour des attachements qui entretiennent la soif, et prône une sobriété mesurée : la tendance est ascétique, mais modérée et sans excès de rigueur.",
+          "en": "The sermon at Benares sets aside two extremes, the pursuit of sensual pleasures and self-mortification, in favor of the <c id='the-middle-way'>Middle Way</c>. Without condemning the body, Buddhism treats sensory pleasures as attachments that feed craving, and commends measured sobriety: the tendency is ascetic, but moderate and free of harsh rigor."
+        },
+        "references": [
+          { "fr": "Dhammacakkappavattana Sutta (le sermon de Bénarès)", "en": "Dhammacakkappavattana Sutta (the sermon at Benares)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "PARTIALITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.7 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La <c>bienveillance (mettā, l'amour bienveillant)</c> et la <c>compassion (karuṇā)</c> se cultivent envers tous les êtres sans distinction : la pratique consiste justement à étendre l'amour bienveillant au-delà des proches, à l'indifférent puis à l'ennemi. La dissolution du moi séparé ôte sa base à la préférence partiale, orientant le bouddhisme vers un impartialisme bienveillant.",
+          "en": "<c>Loving-kindness (mettā)</c> and <c>compassion (karuṇā)</c> are cultivated toward all beings without distinction: the practice consists precisely in extending loving-kindness beyond loved ones, to the indifferent and then to the enemy. Dissolving the separate self removes the basis of partial preference, orienting Buddhism toward a benevolent impartialism."
+        },
+        "references": [
+          { "fr": "Karaṇīya Mettā Sutta (le discours sur l'amour bienveillant)", "en": "Karaṇīya Mettā Sutta (the discourse on loving-kindness)" },
+          { "fr": "Dhammapada, ch. I (les paires)", "en": "Dhammapada, ch. I (The Pairs)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_CIRCLE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.05, 0.85, 0.07, 0.03] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La <c>non-violence (ahiṃsā)</c> et la première règle de discipline étendent la considération morale à tous les êtres sensibles, capables de souffrir, et non aux seuls humains. La compassion vise expressément l'ensemble des vivants pris dans le cycle des renaissances, ce qui place le bouddhisme du côté du pathocentrisme.",
+          "en": "<c>Non-harming (ahiṃsā)</c> and the first precept extend moral consideration to all sentient beings capable of suffering, not to humans alone. Compassion expressly takes in the whole of living beings caught in the cycle of rebirth, which places Buddhism on the pathocentric side."
+        },
+        "references": [
+          { "fr": "Karaṇīya Mettā Sutta (le discours sur l'amour bienveillant)", "en": "Karaṇīya Mettā Sutta (the discourse on loving-kindness)" },
+          { "fr": "Dhammapada, ch. X (le bâton)", "en": "Dhammapada, ch. X (Violence)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.6 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Un être lui-même soumis au devenir et à la souffrance ne saurait être la source du salut : c'est pourquoi le bouddhisme est <c>non-théiste</c>. Les <c>divinités (devas)</c> peuplent bien la cosmologie, mais elles sont prises dans le cycle des <c>renaissances</c>, donc impuissantes à libérer, et un Dieu créateur n'expliquerait pas la souffrance qu'il aurait fait naître. Contre le théisme brahmanique, la libération ne dépend alors d'aucune grâce mais de l'effort et de la compréhension propres ; cette absence de créateur est tenue avec sérénité, sans polémique militante contre la croyance.",
+          "en": "A being itself subject to becoming and suffering cannot be the source of salvation: this is why Buddhism is <c>non-theist</c>. <c>Deities (devas)</c> do populate the cosmology, but they are caught in the cycle of <c>rebirth</c> and hence powerless to liberate, and a creator God would not account for the suffering he would have brought into being. Against Brahmanical theism, liberation therefore depends on no grace but on one's own effort and understanding; this absence of a creator is held serenely, without militant polemic against belief."
+        },
+        "references": [
+          { "fr": "Brahmajāla Sutta (le discours du filet de Brahmā)", "en": "Brahmajāla Sutta (the discourse on the all-embracing net)" },
+          { "fr": "Aggañña Sutta (le discours sur les origines)", "en": "Aggañña Sutta (the discourse on origins)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "SELF_NATURE",
+      "thesis": {
+        "fr": "Il n'y a pas de soi : ce que vous prenez pour un moi permanent n'est qu'un flux d'agrégats impermanents, sans <c id='atman'>ātman</c> qui les porte.",
+        "en": "There is no self: what you take for a permanent ego is only a flux of impermanent aggregates, with no <c id='atman'>ātman</c> bearing them."
+      }
+    },
+    {
+      "axisId": "SUFFERING_MEANING",
+      "thesis": {
+        "fr": "La <c id='dukkha'>souffrance (dukkha)</c> est un mal-être à guérir, jamais une épreuve à sanctifier : tout l'enseignement vise sa cessation complète.",
+        "en": "<c id='dukkha'>Suffering (dukkha)</c> is a dis-ease to be cured, never a trial to be sanctified: the whole teaching aims at its complete cessation."
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "thesis": {
+        "fr": "La racine de la souffrance est la <c id='tanha'>soif (taṇhā)</c> : se libérer, ce n'est pas combler le désir mais en éteindre l'avidité même.",
+        "en": "The root of suffering is <c id='tanha'>craving (taṇhā)</c>: to be freed is not to satisfy desire but to extinguish its very grasping."
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "thesis": {
+        "fr": "Le sens de l'existence n'est ni inventé ni décrété par un Dieu : c'est le <c id='nirvana'>nirvāṇa</c>, terme découvert comme la nature même des choses.",
+        "en": "The meaning of existence is neither invented nor decreed by a God: it is <c id='nirvana'>nirvāṇa</c>, an end discovered as the very nature of things."
+      }
+    },
+    {
+      "axisId": "ATTENTION",
+      "thesis": {
+        "fr": "C'est l'attention soutenue qui défait l'illusion du moi : la <c id='sati'>pleine conscience (sati)</c> rend l'<c id='anicca'>impermanence</c> directement observable.",
+        "en": "It is sustained attention that undoes the illusion of the self: <c id='sati'>mindfulness (sati)</c> makes <c id='anicca'>impermanence</c> directly observable."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}
