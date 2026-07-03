@@ -1,0 +1,25 @@
+{
+  "id": "hume-to-adam-smith",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "hume"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "adam-smith"
+  },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Ami intime de <ph id='hume'>Hume</ph>, <ph id='adam-smith'>Smith</ph> prolonge sa morale des sentiments : la <c>sympathie</c> est le ressort du jugement moral. Il la refond toutefois autour du spectateur impartial, tribunal intérieur qui corrige nos partialités.",
+    "en": "A close friend of <ph id='hume'>Hume</ph>, <ph id='adam-smith'>Smith</ph> extends his morality of sentiments: <c>sympathy</c> is the spring of moral judgment. He recasts it, however, around the impartial spectator, an inner tribunal that corrects our partialities."
+  },
+  "sources": [
+    {
+      "fr": "Smith, Théorie des sentiments moraux (1759)",
+      "en": "Smith, The Theory of Moral Sentiments (1759)"
+    }
+  ],
+  "updatedAt": "2026-07-03T00:00:00.000Z"
+}

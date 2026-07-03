@@ -341,6 +341,7 @@ L'existence précède l'essence : aucune nature ne fixe d'avance ce que l'on est
 ## Influence sur
 
 - **[Beauvoir](../philosophers/beauvoir.md)** (réinterprète) : En dialogue constant avec [Sartre](../philosophers/sartre.md), [Beauvoir](../philosophers/beauvoir.md) transforme les catégories de liberté et de situation en une éthique de l'ambiguïté et en analyse de l'oppression sexuée, là où l'existentialisme restait abstrait.
+- **[Frantz Fanon](../philosophers/fanon.md)** (réinterprète) : [Fanon](../philosophers/fanon.md) reprend de [Sartre](../philosophers/sartre.md), qui préfacera Les Damnés de la terre, la liberté en situation et le rôle du regard d'autrui, pour penser l'aliénation coloniale et la violence libératrice ; il lui reproche pourtant, dès « Orphée noir », de dissoudre l'expérience noire dans une dialectique abstraite.
 
 ---
 

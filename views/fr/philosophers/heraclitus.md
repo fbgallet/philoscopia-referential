@@ -8,6 +8,10 @@ Penseur présocratique du devenir : tout s'écoule, on ne descend pas deux fois 
 
 > Profil embryonnaire : seule cette mini-fiche existe pour l'instant, les positions sourcées sur les axes restent à rédiger. Contributions bienvenues.
 
+## Influence sur
+
+- **[Stoïcisme](../movements/stoicism.md)** (prolonge) : Le [stoïcisme](../movements/stoicism.md) reprend d'[Héraclite](../philosophers/heraclitus.md) sa physique du feu et du logos : un principe rationnel et divin traverse et ordonne un cosmos en perpétuel devenir, jusqu'à l'embrasement qui le résorbe et le régénère.
+
 ---
 
 *Généré depuis le corpus JSON de `data/`. Ne pas éditer à la main, voir [CONTRIBUTING](../../../CONTRIBUTING.md).*

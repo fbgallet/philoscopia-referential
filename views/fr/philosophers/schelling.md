@@ -2,7 +2,7 @@
 
 # Schelling
 
-*1775 – 1854 · Allemand · [Le romantisme](../movements/romanticism.md)*
+*1775 – 1854 · Allemand · [Le romantisme](../movements/romanticism.md), [Idéalisme allemand](../movements/german-idealism.md)*
 
 Philosophe idéaliste allemand : sa philosophie de la nature pense le monde comme un organisme vivant où le même esprit dort dans la matière et s'éveille dans la conscience, et couronne l'art comme l'organe le plus haut de la vérité.
 

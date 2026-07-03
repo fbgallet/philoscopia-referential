@@ -2,7 +2,7 @@
 
 # Bernard Williams
 
-*1929 – 2003 · British*
+*1929 – 2003 · British · [Analytic Philosophy](../movements/analytic-philosophy.md)*
 
 British moral philosopher, critic of [utilitarianism](../movements/utilitarianism.md) and of Kantian impartiality, who restored integrity, character and personal attachments to their place in ethics ("one thought too many", moral luck).
 

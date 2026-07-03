@@ -135,7 +135,6 @@ My own body does not escape the general rule: it is, like any body, a collection
 ## Influence on
 
 - **[Hume](../philosophers/hume.md)** (reinterprets) : [Hume](../philosophers/hume.md) inherits from [Berkeley](../philosophers/berkeley.md) the critique of abstract ideas and the recentring of all knowledge on perceptions, which he extends from matter to the mind itself.
-- **[Kant](../philosophers/kant.md)** (reacts against) : [Kant](../philosophers/kant.md) defines his transcendental idealism by demarcating it from what he calls [Berkeley](../philosophers/berkeley.md)'s dogmatic idealism, which denies mind-independent matter. The Refutation of Idealism in the *[Critique of Pure Reason](../works/critique-of-pure-reason-kant.md)* primarily targets [Descartes](../philosophers/descartes.md)'s problematic idealism; the opposition to Berkeley, however, is explicit and central to Kant's self-positioning.
 
 ---
 

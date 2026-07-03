@@ -246,10 +246,6 @@ Formal rights (to vote, to contract, to own) leave economic compulsion intact: t
 
 *Sources : Marx, 1844 Manuscripts; Capital, III*
 
-## Influenced by
-
-- **[The Enlightenment](../movements/enlightenment.md)** (reinterprets) : [Marxism](../movements/marxism.md) takes from the Enlightenment the idea of emancipation and of a directed history, but shifts its engine: no longer the progress of ideas but the class struggle. « Bourgeois » reason and its abstract rights become the very object of critique, turned against their claim to universality.
-
 ## Influence on
 
 - **[Camus](../philosophers/camus.md)** (reacts against) : The Rebel is written against [Marxism](../movements/marxism.md) as a religion of History: [Camus](../philosophers/camus.md) refuses that the revolutionary end justify terror and sets revolt, which posits a limit, against the revolution that abolishes it.

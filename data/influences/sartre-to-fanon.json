@@ -1,0 +1,29 @@
+{
+  "id": "sartre-to-fanon",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "sartre"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "fanon"
+  },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='fanon'>Fanon</ph> reprend de <ph id='sartre'>Sartre</ph>, qui préfacera <w>Les Damnés de la terre</w>, la liberté en situation et le rôle du regard d'autrui, pour penser l'aliénation coloniale et la violence libératrice ; il lui reproche pourtant, dès « Orphée noir », de dissoudre l'expérience noire dans une dialectique abstraite.",
+    "en": "<ph id='fanon'>Fanon</ph> takes from <ph id='sartre'>Sartre</ph>, who will preface <w>The Wretched of the Earth</w>, freedom-in-situation and the role of the other's gaze, in order to think colonial alienation and liberating violence; yet he reproaches him, as early as \"Black Orpheus\", for dissolving black experience into an abstract dialectic."
+  },
+  "sources": [
+    {
+      "fr": "Sartre, préface aux Damnés de la terre (1961)",
+      "en": "Sartre, preface to The Wretched of the Earth (1961)"
+    },
+    {
+      "fr": "Fanon, Peau noire, masques blancs",
+      "en": "Fanon, Black Skin, White Masks"
+    }
+  ],
+  "updatedAt": "2026-07-03T00:00:00.000Z"
+}

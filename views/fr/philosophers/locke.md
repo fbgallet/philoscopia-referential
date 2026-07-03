@@ -2,7 +2,7 @@
 
 # John Locke
 
-*1632 – 1704 · Anglais · [Empirisme](../movements/empiricism.md)*
+*1632 – 1704 · Anglais · [Empirisme](../movements/empiricism.md), [Libéralisme](../movements/liberalism.md)*
 
 Médecin et philosophe anglais du Siècle des lumières naissant, tenu pour le père de l'[empirisme](../movements/empiricism.md) classique et du libéralisme politique. Lié au comte de Shaftesbury, mêlé aux luttes contre l'absolutisme des Stuart, il connaît l'exil aux Provinces-Unies et ne publie ses grands ouvrages qu'au retour, après la Glorieuse Révolution de 1688. Son *[Essai sur l'entendement humain](../works/essay-concerning-human-understanding-locke.md)* entreprend de mesurer la portée et les limites de la connaissance humaine, contre le [rationalisme](../movements/rationalism.md) de [Descartes](../philosophers/descartes.md) ; ses *[Traités du gouvernement civil](../works/two-treatises-of-government-locke.md)*, écrits contre l'absolutisme, refondent la légitimité du pouvoir, et sa *[Lettre sur la tolérance](../works/letter-concerning-toleration-locke.md)* sépare l'Église de l'État. Méthode patiente, attentive à l'usage ordinaire de l'esprit, plus soucieuse de probabilité que de système. Sa postérité est immense : il inspire les Lumières, et ses thèses sur les droits naturels et le consentement nourrissent la révolution américaine comme la Révolution française.
 
@@ -315,6 +315,7 @@ Tout notre savoir vient de l'expérience : il se compose à partir d'idées simp
 ## Influence sur
 
 - **[George Berkeley](../philosophers/berkeley.md)** (réinterprète) : [Berkeley](../philosophers/berkeley.md) accepte l'[empirisme](../movements/empiricism.md) de [Locke](../philosophers/locke.md), pour qui toute idée vient de l'expérience, mais le radicalise jusqu'à l'immatérialisme : nier la substance matérielle, n'admettre que des idées perçues et des esprits qui les perçoivent.
+- **[Condillac](../philosophers/condillac.md)** (réinterprète) : [Condillac](../philosophers/condillac.md) radicalise l'empirisme de [Locke](../philosophers/locke.md) en sensualisme : par la fiction d'une statue qu'on éveille sens après sens, il entreprend de dériver toutes les facultés de la seule sensation, supprimant la réflexion que Locke tenait pour une source distincte.
 - **[Les Lumières](../movements/enlightenment.md)** (prolonge) : L'*[Essai](../works/essay-concerning-human-understanding-locke.md)* de [Locke](../philosophers/locke.md) donne aux philosophes leur épistémologie, la [table rase](../glossary/tabula-rasa.md) et la critique des idées innées ; ses *[Deux traités](../works/two-treatises-of-government-locke.md)* et sa *[Lettre sur la tolérance](../works/letter-concerning-toleration-locke.md)* leur fournissent les droits naturels, le gouvernement par consentement et la [tolérance](../glossary/tolerance.md). [Voltaire](../philosophers/voltaire.md) le célèbre dès les Lettres philosophiques comme le modèle du sage anglais.
 - **[Hume](../philosophers/hume.md)** (réinterprète) : [Hume](../philosophers/hume.md) pousse l'analyse lockéenne des idées issues de l'expérience jusqu'à ses conséquences sceptiques : une théorie associationniste de l'esprit et la dissolution de l'identité personnelle et de la causalité nécessaire.
 

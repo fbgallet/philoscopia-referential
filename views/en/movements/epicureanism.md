@@ -230,7 +230,7 @@ The soul is corporeal: an assembly of very fine atoms that dissolves at death li
 
 ## Influenced by
 
-- **[Stoicism](../movements/stoicism.md)** (reacts against) : In return, [Epicureanism](../movements/epicureanism.md), notably in Lucretius, fights [Stoic](../movements/stoicism.md) providence and fate in the name of a world without design, born of the chance of atoms and in which the soul is mortal.
+- **[Stoicism](../movements/stoicism.md)** (reacts against) : [Epicureanism](../movements/epicureanism.md), notably in [Lucretius](../philosophers/lucretius.md), fights [Stoic](../movements/stoicism.md) providence and fate in the name of a world without design, born of the chance of atoms and in which the soul is mortal.
 
 ## Influence on
 

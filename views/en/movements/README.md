@@ -2,13 +2,17 @@
 
 # Movements
 
+- [Analytic Philosophy](analytic-philosophy.md) (1900 – ?) : Philosophy delivers neither truths about the world nor an art of living: it [clarifies thought](../axes/metaphilosophy.md), through the logical analysis of language and concepts.
 - [Aristotelianism](aristotelianism.md) (335 BCE – 1274) : Every being tends toward its end, and humans [flourish](../glossary/eudaimonism.md) by actualizing their proper function, reason.
 - [Buddhism](buddhism.md) (500 BCE – ?) : Understanding [suffering (dukkha)](../glossary/dukkha.md) and ending it by releasing the [craving (taṇhā)](../glossary/tanha.md) and the illusion of a self.
 - [Confucianism](confucianism.md) (500 BCE – ?) : Cultivating oneself into a person of noble character (junzi), and ordering the world through ritual propriety (li 禮) and humaneness.
 - [Cynicism](cynicism.md) (400 BCE – 200 BCE) : Living according to nature rather than convention, free through [self-sufficiency](../glossary/autarkeia.md) and [frank speech](../glossary/parrhesia.md).
 - [Empiricism](empiricism.md) (1620 – 1776) : All our ideas come from experience: nothing is in the mind that was not first in the senses.
+- [Environmental Ethics](environmental-ethics.md) (1949 – ?) : To widen the [moral circle](../axes/moral-circle.md) beyond the human: animals, the living, ecosystems count, and the human being is not nature's master but a [member](../axes/human-place-nature.md) of a community.
 - [Epicureanism](epicureanism.md) (307 BCE – 200) : [Pleasure as the absence of disturbance](../glossary/hedonism.md): freeing oneself from vain fears to live an [untroubled life](../glossary/ataraxia.md).
 - [Existentialism](existentialism.md) (1843 – 1980) : [Existence precedes essence](../axes/essence.md): condemned to be [free](../axes/freedom.md), we invent ourselves.
+- [German Idealism](german-idealism.md) (1781 – 1831) : The real is not matter foreign to mind but [Spirit](../axes/reality-nature.md) unfolding: reason can know the absolute that [Kant](../philosophers/kant.md) declared out of reach.
+- [Liberalism](liberalism.md) (1689 – ?) : The [individual](../axes/individual-society.md) and their liberties first: power is legitimate only when limited, grounded in consent and bounded by rights.
 - [Marxism](marxism.md) (1848 – ?) : The philosophers have only interpreted the world: the point is to **change** it.
 - [Phenomenology](phenomenology.md) (1900 – ?) : Returning "to the things themselves": describing lived experience as it gives itself to consciousness.
 - [Platonism](platonism.md) (387 BCE – 529) : The truly real is not the sensible but the [Forms](../glossary/theory-of-forms.md), and the soul ascends toward the Good.

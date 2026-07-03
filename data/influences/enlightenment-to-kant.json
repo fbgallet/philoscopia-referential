@@ -3,7 +3,7 @@
   "from": { "kind": "MOVEMENT", "slug": "enlightenment" },
   "to": { "kind": "PHILOSOPHER", "slug": "kant" },
   "directness": "ATTESTED",
-  "mode": "SYNTHESIZES",
+  "mode": "CONTINUES",
   "strength": "STRONG",
   "note": {
     "fr": "<ph id='kant'>Kant</ph> porte les Lumières à leur achèvement philosophique : il surmonte la querelle de l'<ax id='KNOWLEDGE_SOURCE'>empirisme et du rationalisme</ax> dans le criticisme, et fait de l'autonomie de la raison le cœur de sa morale comme de sa définition des Lumières, « la sortie de l'homme hors de sa minorité ».",

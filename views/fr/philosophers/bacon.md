@@ -182,7 +182,7 @@ Bacon professe une foi chrétienne sincère et tient l'existence de Dieu pour as
 
 ## Influence sur
 
-- **[Les Lumières](../movements/enlightenment.md)** (transmet) : [Bacon](../philosophers/bacon.md) lègue aux Lumières le programme d'un savoir fondé sur l'expérience et tourné vers l'utilité, « savoir, c'est pouvoir ». [Diderot](../philosophers/diderot.md) et [d'Alembert](../philosophers/d-alembert.md) le saluent comme l'inspirateur de l'Encyclopédie, dont le Discours préliminaire dresse sa généalogie des sciences.
+- **[Les Lumières](../movements/enlightenment.md)** (prolonge) : [Bacon](../philosophers/bacon.md) lègue aux Lumières le programme d'un savoir fondé sur l'expérience et tourné vers l'utilité, « savoir, c'est pouvoir ». [Diderot](../philosophers/diderot.md) et [d'Alembert](../philosophers/d-alembert.md) le saluent comme l'inspirateur de l'Encyclopédie, dont le Discours préliminaire dresse sa généalogie des sciences.
 - **[Transhumanisme](../movements/transhumanism.md)** (prolonge) : Le transhumanisme prolonge le programme de [Bacon](../philosophers/bacon.md) : faire de la connaissance un pouvoir effectif sur la nature, par la science expérimentale, pour soulager la condition humaine. Il en radicalise la promesse en étendant ce commandement de la nature au corps et à l'esprit humains eux-mêmes.
 
 ---

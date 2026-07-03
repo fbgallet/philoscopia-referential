@@ -204,6 +204,7 @@ Appliquée aux identités sociales, la thèse de l'existence sans essence démen
 
 ## Influencé par
 
+- **[Phénoménologie](../movements/phenomenology.md)** (prolonge) : L'existentialisme du XXe siècle hérite de la [phénoménologie](../movements/phenomenology.md) sa méthode : décrire les phénomènes tels qu'ils se donnent à la conscience, en deçà des théories. Mais il en déplace l'objet, de la conscience constituante vers l'existence concrète, la liberté, l'angoisse et le corps : [Sartre](../philosophers/sartre.md) tire de l'intentionnalité une conscience vouée au néant et au choix, [Heidegger](../philosophers/heidegger.md) refonde la description en analytique de l'être-au-monde. Les héritiers refaçonnent jusqu'à la méthode elle-même, [Merleau-Ponty](../philosophers/merleau-ponty.md) l'ancrant dans le corps percevant.
 - **[Le romantisme](../movements/romanticism.md)** (prolonge) : [L'existentialisme](../movements/existentialism.md) recueille du romantisme l'exaltation de l'individu singulier contre le système et l'universel abstrait, le primat de l'[expérience vécue](../axes/interiority.md), de la passion et de l'angoisse, et l'exigence d'[authenticité](../glossary/authenticity.md). [Kierkegaard](../philosophers/kierkegaard.md), lecteur critique du romantisme et de Hegel, en est le relais décisif : le « moi » romantique, irréductible à la raison, devient l'existant qui se choisit.
 
 ---

@@ -1,0 +1,29 @@
+{
+  "id": "ryder-to-singer",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "ryder"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "singer"
+  },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='singer'>Singer</ph> emprunte à <ph id='ryder'>Ryder</ph> le terme de <kw>spécisme</kw>, le préjugé qui exclut les animaux du cercle moral au seul motif de l'espèce, et en fait le pivot de sa défense de la libération animale.",
+    "en": "<ph id='singer'>Singer</ph> borrows from <ph id='ryder'>Ryder</ph> the term <kw>speciesism</kw>, the prejudice that excludes animals from the moral circle on the sole ground of species, and makes it the pivot of his defense of animal liberation."
+  },
+  "sources": [
+    {
+      "fr": "Singer, La Libération animale (1975)",
+      "en": "Singer, Animal Liberation (1975)"
+    },
+    {
+      "fr": "Ryder, « Speciesism » (1970)",
+      "en": "Ryder, \"Speciesism\" (1970)"
+    }
+  ],
+  "updatedAt": "2026-07-03T00:00:00.000Z"
+}

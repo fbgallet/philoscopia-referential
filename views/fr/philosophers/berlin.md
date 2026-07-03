@@ -2,7 +2,7 @@
 
 # Isaiah Berlin
 
-*1909 – 1997 · Britannique*
+*1909 – 1997 · Britannique · [Libéralisme](../movements/liberalism.md)*
 
 Historien des idées et penseur libéral, défenseur du pluralisme des valeurs (des biens ultimes et inconciliables) et de la distinction entre liberté négative et liberté positive.
 

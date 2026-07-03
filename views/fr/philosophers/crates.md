@@ -10,7 +10,7 @@ Philosophe [cynique](../movements/cynicism.md), disciple de [Diogène](../philos
 
 ## Influencé par
 
-- **[Diogène de Sinope](../philosophers/diogenes.md)** (prolonge) : [Cratès](../philosophers/crates.md) adopte directement auprès de [Diogène](../philosophers/diogenes.md) le mode de vie cynique, qu'il adoucit en une figure plus douce et philanthrope ; il sera le maître de Zénon, relais vers le stoïcisme.
+- **[Diogène de Sinope](../philosophers/diogenes.md)** (prolonge) : Disciple de [Diogène](../philosophers/diogenes.md), [Cratès](../philosophers/crates.md) reprend le mode de vie cynique mais l'infléchit vers une figure plus douce et philanthrope ; maître de Zénon, il sera le relais vers le stoïcisme.
 
 ## Influence sur
 

@@ -8,6 +8,10 @@ Philosophe français des [Lumières](../movements/enlightenment.md), théoricien
 
 > Profil embryonnaire : seule cette mini-fiche existe pour l'instant, les positions sourcées sur les axes restent à rédiger. Contributions bienvenues.
 
+## Influencé par
+
+- **[Locke](../philosophers/locke.md)** (réinterprète) : [Condillac](../philosophers/condillac.md) radicalise l'empirisme de [Locke](../philosophers/locke.md) en sensualisme : par la fiction d'une statue qu'on éveille sens après sens, il entreprend de dériver toutes les facultés de la seule sensation, supprimant la réflexion que Locke tenait pour une source distincte.
+
 ---
 
 *Généré depuis le corpus JSON de `data/`. Ne pas éditer à la main, voir [CONTRIBUTING](../../../CONTRIBUTING.md).*

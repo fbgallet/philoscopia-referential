@@ -1,0 +1,25 @@
+{
+  "id": "hume-vs-reid",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "hume"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "reid"
+  },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='reid'>Reid</ph> bâtit sa philosophie du sens commun contre le scepticisme de <ph id='hume'>Hume</ph> : si les principes de l'empirisme mènent à douter du monde extérieur et du moi, c'est qu'il faut leur préférer les certitudes premières que la nature impose à tout homme.",
+    "en": "<ph id='reid'>Reid</ph> builds his common-sense philosophy against <ph id='hume'>Hume</ph>'s skepticism: if the principles of empiricism lead to doubting the external world and the self, they should yield to the first certainties that nature imposes on every human being."
+  },
+  "sources": [
+    {
+      "fr": "Reid, Recherche sur l'esprit humain d'après les principes du sens commun (1764)",
+      "en": "Reid, An Inquiry into the Human Mind on the Principles of Common Sense (1764)"
+    }
+  ],
+  "updatedAt": "2026-07-03T00:00:00.000Z"
+}

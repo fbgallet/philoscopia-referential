@@ -305,10 +305,12 @@ Au fond de l'amour, Spinoza ne voit ni manque ni don mais une joie : aimer, c'es
 ## Influencé par
 
 - **[Descartes](../philosophers/descartes.md)** (réinterprète) : [Spinoza](../philosophers/spinoza.md) reprend l'exigence démonstrative et la méthode de [Descartes](../philosophers/descartes.md), mais retourne sa métaphysique : au lieu de deux substances et d'un Dieu extérieur, une seule substance infinie dont tout est un mode.
+- **[Machiavel](../philosophers/machiavelli.md)** (réinterprète) : [Spinoza](../philosophers/spinoza.md) salue en [Machiavel](../philosophers/machiavelli.md) un esprit très pénétrant et reprend son réalisme, l'analyse des hommes tels qu'ils sont ; mais il met cette lucidité au service d'une fin inverse, la démocratie et la liberté, non le maintien du prince.
 
 ## Influence sur
 
 - **[Hegel](../philosophers/hegel.md)** (réinterprète) : [Hegel](../philosophers/hegel.md) tient le spinozisme pour un passage obligé : « commencer à philosopher, c'est être spinoziste ». Il reprend l'exigence d'un absolu unique, mais reproche à la substance de [Spinoza](../philosophers/spinoza.md) d'être inerte et la refait sujet.
+- **[Arne Næss](../philosophers/naess.md)** (réinterprète) : [Næss](../philosophers/naess.md) fonde son écologie profonde sur [Spinoza](../philosophers/spinoza.md) : la Nature comme unique substance dont nous sommes des modes, et la réalisation de soi élargie à l'ensemble du vivant, contre l'homme séparé et maître.
 - **[Le romantisme](../movements/romanticism.md)** (réinterprète) : [Le romantisme](../movements/romanticism.md) réveille [Spinoza](../philosophers/spinoza.md), longtemps tenu pour maudit : la querelle du panthéisme (Jacobi, 1785) le remet au centre, et son Dieu-nature unique, immanent et vivant, devient l'âme de la [Naturphilosophie](../glossary/naturphilosophie.md) de [Schelling](../philosophers/schelling.md) comme de la piété cosmique de [Novalis](../philosophers/novalis.md). Les romantiques en font moins le géomètre froid de l'Éthique qu'un mystique de l'unité du tout, « l'homme ivre de Dieu ».
 
 ---

@@ -2,7 +2,7 @@
   "id": "plato-to-plotinus",
   "from": { "kind": "PHILOSOPHER", "slug": "plato" },
   "to": { "kind": "PHILOSOPHER", "slug": "plotinus" },
-  "directness": "INDIRECT",
+  "directness": "ATTESTED",
   "mode": "REINTERPRETS",
   "strength": "STRONG",
   "note": {

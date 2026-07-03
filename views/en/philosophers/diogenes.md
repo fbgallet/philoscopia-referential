@@ -257,7 +257,7 @@ An anachronistic question: the anecdotes about Diogenes contain nothing that wou
 
 ## Influence on
 
-- **[Crates](../philosophers/crates.md)** (continues) : [Crates](../philosophers/crates.md) takes the Cynic way of life directly from [Diogenes](../philosophers/diogenes.md), softening it into a gentler, philanthropic figure; he would be Zeno's teacher, the relay toward Stoicism.
+- **[Crates](../philosophers/crates.md)** (continues) : A disciple of [Diogenes](../philosophers/diogenes.md), [Crates](../philosophers/crates.md) takes up the Cynic way of life but inflects it into a gentler, philanthropic figure; Zeno's teacher, he would be the relay toward Stoicism.
 
 ---
 

@@ -1,0 +1,17 @@
+{
+  "id": "enlightenment-to-liberalism",
+  "from": { "kind": "MOVEMENT", "slug": "enlightenment" },
+  "to": { "kind": "MOVEMENT", "slug": "liberalism" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Le libéralisme politique prolonge les <mv id='enlightenment'>Lumières</mv> : il y puise les droits naturels de l'individu, la tolérance, le gouvernement fondé sur le consentement et la défiance envers tout pouvoir absolu. <ph id='montesquieu'>Montesquieu</ph> ajoute la séparation des pouvoirs comme garantie contre le despotisme. Des Lumières le libéralisme retient l'individu majeur, capable de se conduire par sa propre raison.",
+    "en": "Political liberalism extends the <mv id='enlightenment'>Enlightenment</mv>: from it, it draws the natural rights of the individual, toleration, government founded on consent, and distrust of any absolute power. <ph id='montesquieu'>Montesquieu</ph> adds the separation of powers as a safeguard against despotism. From the Enlightenment liberalism keeps the individual come of age, capable of conducting themselves by their own reason."
+  },
+  "sources": [
+    { "fr": "Montesquieu, De l'esprit des lois (1748)", "en": "Montesquieu, The Spirit of the Laws (1748)" },
+    { "fr": "Kant, Qu'est-ce que les Lumières ? (1784)", "en": "Kant, What Is Enlightenment? (1784)" }
+  ],
+  "updatedAt": "2026-07-03T00:00:00.000Z"
+}

@@ -16,6 +16,7 @@ Philosophe allemand pessimiste : il voit dans le monde l'expression d'un vouloir
 
 ## Influence sur
 
+- **[Sigmund Freud](../philosophers/freud.md)** (réinterprète) : [Freud](../philosophers/freud.md) retrouve chez [Schopenhauer](../philosophers/schopenhauer.md), qu'il dit avoir peu lu, l'intuition d'une volonté aveugle sous la conscience claire : le primat de la pulsion, le refoulement et la sexualité comme force obscure y sont pressentis avant d'être mis au jour par la psychanalyse.
 - **[Nietzsche](../philosophers/nietzsche.md)** (réagit contre) : Jeune, [Nietzsche](../philosophers/nietzsche.md) reconnaît en [Schopenhauer](../philosophers/schopenhauer.md) son éducateur et hérite de sa lecture tragique de l'existence et de la centralité de la volonté. Il retourne ensuite l'héritage : contre le pessimisme et la négation du vouloir-vivre, il oppose l'affirmation de la vie et la volonté de puissance.
 
 ---

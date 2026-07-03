@@ -32,7 +32,7 @@ Against the voluntarism that would bend the course of things to a design, Laozi 
 
 *positioned · explicit in the texts · major*
 
-Techno-optimism 90% · Techno-criticism 10%
+Techno-criticism 90% · Techno-optimism 10%
 
 The refinement of means is for Laozi not progress but a source of agitation and cunning that estranges us from the [Dao](../glossary/dao.md). His ideal community owns machines and weapons but does not use them: multiplying clever tools breeds artifice and desire, whereas [simplicity](../glossary/ziran.md) brings one back to essentials. This distrust of instrumental ingenuity, voiced long before [Heidegger](../philosophers/heidegger.md) and Ellul, makes him a distant ancestor of techno-criticism.
 

@@ -317,9 +317,11 @@ Following Berkeley, Hume denies that abstract general ideas exist: an idea is al
 
 ## Influence on
 
-- **[Bentham](../philosophers/bentham.md)** (transmits) : [Bentham](../philosophers/bentham.md) reports that on reading [Hume](../philosophers/hume.md) the scales fell from his eyes: there he finds psychological naturalism and the idea that utility is the measure of good, which he erects into the principle of [utilitarianism](../movements/utilitarianism.md).
+- **[Smith](../philosophers/adam-smith.md)** (continues) : A close friend of [Hume](../philosophers/hume.md), [Smith](../philosophers/adam-smith.md) extends his morality of sentiments: sympathy is the spring of moral judgment. He recasts it, however, around the impartial spectator, an inner tribunal that corrects our partialities.
+- **[Bentham](../philosophers/bentham.md)** (continues) : [Bentham](../philosophers/bentham.md) reports that on reading [Hume](../philosophers/hume.md) the scales fell from his eyes: there he finds psychological naturalism and the idea that utility is the measure of good, which he erects into the principle of [utilitarianism](../movements/utilitarianism.md).
 - **[Kant](../philosophers/kant.md)** (reacts against) : [Hume](../philosophers/hume.md) draws a skeptical conclusion from empiricism: no impression delivers the necessary connection between a cause and its effect, only habit does. [Kant](../philosophers/kant.md) says this woke him from his “dogmatic slumber”, and he builds critical philosophy against that skepticism, lodging causality in the a priori conditions of experience rather than in things themselves.
 - **[Popper](../philosophers/popper.md)** (reacts against) : [Popper](../philosophers/popper.md) takes [Hume](../philosophers/hume.md)'s problem of induction, that no accumulation of observations justifies a law, to be insoluble, and sidesteps it: science does not verify, it refutes; a theory counts only if it is falsifiable.
+- **[Thomas Reid](../philosophers/reid.md)** (reacts against) : [Reid](../philosophers/reid.md) builds his common-sense philosophy against [Hume](../philosophers/hume.md)'s skepticism: if the principles of empiricism lead to doubting the external world and the self, they should yield to the first certainties that nature imposes on every human being.
 
 ---
 

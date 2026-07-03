@@ -2,7 +2,7 @@
 
 # Isaiah Berlin
 
-*1909 – 1997 · British*
+*1909 – 1997 · British · [Liberalism](../movements/liberalism.md)*
 
 Historian of ideas and liberal thinker, defender of value pluralism (ultimate goods that are real yet irreconcilable) and of the distinction between negative and positive liberty.
 

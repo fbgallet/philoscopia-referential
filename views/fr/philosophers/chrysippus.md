@@ -14,7 +14,7 @@ Troisième chef du Portique et grand logicien [stoïcien](../movements/stoicism.
 
 ## Influence sur
 
-- **[Épictète](../philosophers/epictetus.md)** (prolonge) : [Chrysippe](../philosophers/chrysippus.md) fournit le socle doctrinal que [Épictète](../philosophers/epictetus.md) commente et cite en autorité : l'analyse de l'assentiment et le partage entre ce qui « dépend de nous » et le reste.
+- **[Épictète](../philosophers/epictetus.md)** (prolonge) : [Chrysippe](../philosophers/chrysippus.md) fournit le socle doctrinal qu'[Épictète](../philosophers/epictetus.md) commente et cite en autorité : l'analyse de l'assentiment et le partage entre ce qui « dépend de nous » et le reste.
 
 ---
 

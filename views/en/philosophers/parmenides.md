@@ -8,6 +8,10 @@ Founder of ontology: his poem On Nature opposes the way of truth, Being one, imm
 
 > Stub profile: only this mini-card exists so far; the sourced axis positions remain to be authored. Contributions welcome.
 
+## Influence on
+
+- **[Plato](../philosophers/plato.md)** (reinterprets) : [Plato](../philosophers/plato.md) inherits from [Parmenides](../philosophers/parmenides.md) the demand for a stable, intelligible being, the bedrock of his theory of Forms; but to account for error and change he commits, in the Sophist, a "parricide", admitting against the master a measure of non-being.
+
 ---
 
 *Generated from the JSON corpus in `data/`. Do not edit by hand; see [CONTRIBUTING](../../../CONTRIBUTING.md).*

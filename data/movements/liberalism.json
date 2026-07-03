@@ -1,0 +1,136 @@
+{
+  "kind": "MOVEMENT",
+  "id": "liberalism",
+  "name": {
+    "fr": "Libéralisme",
+    "en": "Liberalism"
+  },
+  "tagline": {
+    "fr": "L'<ax id='INDIVIDUAL_SOCIETY' pole='INDIVIDUALISM'>individu</ax> et ses libertés d'abord : le pouvoir n'est légitime que limité, fondé sur le consentement et borné par des droits.",
+    "en": "The <ax id='INDIVIDUAL_SOCIETY' pole='INDIVIDUALISM'>individual</ax> and their liberties first: power is legitimate only when limited, grounded in consent and bounded by rights."
+  },
+  "summary": {
+    "fr": "Tradition politique née avec <ph id='locke'>Locke</ph> et la révolution anglaise, qui place l'individu, ses <ax id='POLITICAL_LIBERTY' pole='NEGATIVE_LIBERTY'>libertés</ax> et ses droits au principe de l'ordre politique. Contre l'absolutisme, elle tient que le pouvoir procède du consentement des gouvernés, qu'il doit rester limité et rendre des comptes, et qu'une sphère de la vie privée échappe de droit à l'État. <ph id='mill'>Mill</ph> en donne la charte avec le principe de non-nuisance ; <ph>Constant</ph> et <ph id='berlin'>Berlin</ph> la pensent comme liberté des modernes et liberté négative ; <ph id='rawls'>Rawls</ph> la refonde au XXe siècle en conciliant libertés fondamentales et justice sociale. Famille plurielle, du libéralisme économique de <ph id='adam-smith'>Smith</ph> au libéralisme social, elle partage le refus de sacrifier l'individu au tout.",
+    "en": "A political tradition born with <ph id='locke'>Locke</ph> and the English Revolution, which sets the individual, their <ax id='POLITICAL_LIBERTY' pole='NEGATIVE_LIBERTY'>liberties</ax> and their rights at the foundation of political order. Against absolutism, it holds that power derives from the consent of the governed, that it must remain limited and accountable, and that a sphere of private life is by right beyond the reach of the state. <ph id='mill'>Mill</ph> gives it its charter with the harm principle; <ph>Constant</ph> and <ph id='berlin'>Berlin</ph> conceive it as the liberty of the moderns and negative liberty; <ph id='rawls'>Rawls</ph> recasts it in the twentieth century, reconciling basic liberties with social justice. A plural family, from the economic liberalism of <ph id='adam-smith'>Smith</ph> to social liberalism, it shares the refusal to sacrifice the individual to the whole."
+  },
+  "period": {
+    "from": 1689
+  },
+  "keyFigures": [
+    {
+      "slug": "locke",
+      "name": { "fr": "Locke", "en": "Locke" }
+    },
+    {
+      "slug": "mill",
+      "name": { "fr": "Mill", "en": "Mill" }
+    },
+    {
+      "slug": "rawls",
+      "name": { "fr": "Rawls", "en": "Rawls" }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "INDIVIDUAL_SOCIETY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le libéralisme part de l'<ax id='INDIVIDUAL_SOCIETY' pole='INDIVIDUALISM'>individu</ax>, non du tout social : les institutions se pensent à partir des personnes, de leurs choix et de leurs droits, non l'inverse. La société n'est pas un organisme qui préexisterait à ses membres et les subordonnerait à sa fin, mais une association au service de fins individuelles. De là le primat des droits de la personne sur les exigences de la collectivité.",
+          "en": "Liberalism starts from the <ax id='INDIVIDUAL_SOCIETY' pole='INDIVIDUALISM'>individual</ax>, not from the social whole: institutions are conceived starting from persons, their choices and their rights, not the reverse. Society is not an organism that would precede its members and subordinate them to its end, but an association in the service of individual ends. Hence the primacy of the rights of the person over the demands of the collective."
+        },
+        "references": [
+          {
+            "fr": "Locke, Deux traités du gouvernement",
+            "en": "Locke, Two Treatises of Government"
+          },
+          {
+            "fr": "Mill, De la liberté",
+            "en": "Mill, On Liberty"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "POLITICAL_LIBERTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.65, 0.05, 0.05, 0.25]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La liberté que le libéralisme classique met au premier plan est d'abord <ax id='POLITICAL_LIBERTY' pole='NEGATIVE_LIBERTY'>négative</ax> : un espace où chacun agit à sa guise sans entrave, que la loi doit protéger plutôt que restreindre. <ph>Constant</ph> l'oppose à la liberté des Anciens, <ph id='berlin'>Berlin</ph> en fait sa liberté négative, <ph id='mill'>Mill</ph> la borne par le seul principe de non-nuisance. Son aile sociale y ajoute les moyens réels de l'exercer, la <ax id='POLITICAL_LIBERTY' pole='CAPABILITY_FREEDOM'>liberté-capabilité</ax>, sans renoncer au primat de la non-interférence.",
+          "en": "The liberty that classical liberalism foregrounds is first of all <ax id='POLITICAL_LIBERTY' pole='NEGATIVE_LIBERTY'>negative</ax>: a space where each acts as they see fit without hindrance, which the law should protect rather than restrict. <ph>Constant</ph> opposes it to the liberty of the ancients, <ph id='berlin'>Berlin</ph> makes it his negative liberty, <ph id='mill'>Mill</ph> bounds it by the harm principle alone. Its social wing adds the real means to exercise it, <ax id='POLITICAL_LIBERTY' pole='CAPABILITY_FREEDOM'>capability freedom</ax>, without giving up the primacy of non-interference."
+        },
+        "references": [
+          {
+            "fr": "Constant, De la liberté des Anciens comparée à celle des Modernes (1819)",
+            "en": "Constant, The Liberty of the Ancients Compared with that of the Moderns (1819)"
+          },
+          {
+            "fr": "Berlin, Deux conceptions de la liberté (1958)",
+            "en": "Berlin, Two Concepts of Liberty (1958)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "RIGHTS_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.4, 0, 0.25, 0.35]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Toutes ses variantes s'accordent qu'il existe des droits qui limitent le pouvoir et qu'aucune majorité ne peut abolir à sa guise ; elles divergent sur leur fondement, ce qui étale le courant sur plusieurs voies : <ax id='RIGHTS_NATURE' pole='NATURAL_RIGHTS'>droits naturels</ax> antérieurs à l'État chez <ph id='locke'>Locke</ph>, garanties justifiées par leur <ax id='RIGHTS_NATURE' pole='RIGHTS_UTILITY'>utilité</ax> chez <ph id='mill'>Mill</ph>, termes d'une coopération équitable <ax id='RIGHTS_NATURE' pole='POLITICAL_CONSTRUCTIVISM'>construits</ax> par la délibération chez <ph id='rawls'>Rawls</ph>. Le refus commun est celui du positivisme pur, pour qui il n'est de droit que ce que l'autorité décrète.",
+          "en": "All its variants agree that there exist rights which limit power and which no majority may abolish at will; they diverge on their grounding, which spreads the current across several paths: <ax id='RIGHTS_NATURE' pole='NATURAL_RIGHTS'>natural rights</ax> prior to the state in <ph id='locke'>Locke</ph>, guarantees justified by their <ax id='RIGHTS_NATURE' pole='RIGHTS_UTILITY'>utility</ax> in <ph id='mill'>Mill</ph>, terms of fair cooperation <ax id='RIGHTS_NATURE' pole='POLITICAL_CONSTRUCTIVISM'>constructed</ax> through deliberation in <ph id='rawls'>Rawls</ph>. The shared refusal is of pure positivism, for which there is no right but what authority decrees."
+        },
+        "references": [
+          {
+            "fr": "Locke, Deux traités du gouvernement",
+            "en": "Locke, Two Treatises of Government"
+          },
+          {
+            "fr": "Rawls, Théorie de la justice (1971)",
+            "en": "Rawls, A Theory of Justice (1971)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "INDIVIDUAL_SOCIETY",
+      "thesis": {
+        "fr": "Les institutions sont au service de l'<ax id='INDIVIDUAL_SOCIETY' pole='INDIVIDUALISM'>individu</ax> et de ses fins, non l'inverse : nul ne peut être sacrifié au tout social.",
+        "en": "Institutions serve the <ax id='INDIVIDUAL_SOCIETY' pole='INDIVIDUALISM'>individual</ax> and their ends, not the reverse: no one may be sacrificed to the social whole."
+      }
+    },
+    {
+      "axisId": "POLITICAL_LIBERTY",
+      "thesis": {
+        "fr": "Être libre, c'est d'abord n'être pas entravé : la loi doit protéger la <ax id='POLITICAL_LIBERTY' pole='NEGATIVE_LIBERTY'>sphère où chacun agit à sa guise</ax>, non la restreindre.",
+        "en": "To be free is first of all to be unhindered: the law should protect the <ax id='POLITICAL_LIBERTY' pole='NEGATIVE_LIBERTY'>space where each acts as they see fit</ax>, not narrow it."
+      }
+    }
+  ],
+  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

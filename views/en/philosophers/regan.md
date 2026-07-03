@@ -2,7 +2,7 @@
 
 # Tom Regan
 
-*1938 – 2017 · American*
+*1938 – 2017 · American · [Environmental Ethics](../movements/environmental-ethics.md)*
 
 American philosopher, a theorist of animal rights: against Singer's utilitarianism, he holds that animals are "subjects-of-a-life" with inherent value, and so with rights that cannot be sacrificed to collective welfare.
 

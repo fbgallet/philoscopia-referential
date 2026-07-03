@@ -1,0 +1,25 @@
+{
+  "id": "schopenhauer-to-freud",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "schopenhauer"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "freud"
+  },
+  "directness": "INDIRECT",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='freud'>Freud</ph> retrouve chez <ph id='schopenhauer'>Schopenhauer</ph>, qu'il dit avoir peu lu, l'intuition d'une volonté aveugle sous la conscience claire : le primat de la pulsion, le refoulement et la sexualité comme force obscure y sont pressentis avant d'être mis au jour par la psychanalyse.",
+    "en": "<ph id='freud'>Freud</ph> finds in <ph id='schopenhauer'>Schopenhauer</ph>, whom he says he read little, the intuition of a blind will beneath clear consciousness: the primacy of drive, repression, and sexuality as an obscure force are sensed there before psychoanalysis brings them to light."
+  },
+  "sources": [
+    {
+      "fr": "Freud, Contribution à l'histoire du mouvement psychanalytique (1914)",
+      "en": "Freud, On the History of the Psychoanalytic Movement (1914)"
+    }
+  ],
+  "updatedAt": "2026-07-03T00:00:00.000Z"
+}

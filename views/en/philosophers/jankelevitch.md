@@ -8,6 +8,10 @@ French philosopher of morality and music. On forgiveness: he refuses cheap forgi
 
 > Stub profile: only this mini-card exists so far; the sourced axis positions remain to be authored. Contributions welcome.
 
+## Influenced by
+
+- **[Henri Bergson](../philosophers/bergson.md)** (continues) : A great reader of [Bergson](../philosophers/bergson.md), to whom he devotes his first book, [Jankélévitch](../philosophers/jankelevitch.md) extends his thought of duration and intuition into a philosophy of the instant, of the irreversible, and of the "I-know-not-what".
+
 ---
 
 *Generated from the JSON corpus in `data/`. Do not edit by hand; see [CONTRIBUTING](../../../CONTRIBUTING.md).*

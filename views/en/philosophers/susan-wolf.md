@@ -2,7 +2,7 @@
 
 # Susan Wolf
 
-*1952 – ? · American*
+*1952 – ? · American · [Analytic Philosophy](../movements/analytic-philosophy.md)*
 
 American moral philosopher who conceives the meaning of life as the meeting of subjective engagement and objective value ("active engagement with objects worthy of love").
 

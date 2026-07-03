@@ -8,6 +8,10 @@ Historien de la philosophie antique, il a montré que la philosophie ancienne é
 
 > Profil embryonnaire : seule cette mini-fiche existe pour l'instant, les positions sourcées sur les axes restent à rédiger. Contributions bienvenues.
 
+## Influence sur
+
+- **[Foucault](../philosophers/foucault.md)** (réinterprète) : [Foucault](../philosophers/foucault.md) emprunte à [Hadot](../philosophers/hadot.md) les exercices spirituels antiques et le « souci de soi », qu'il refond en une esthétique de l'existence, self-fashioning que Hadot lui reprochera d'avoir coupé de sa visée universelle.
+
 ---
 
 *Généré depuis le corpus JSON de `data/`. Ne pas éditer à la main, voir [CONTRIBUTING](../../../CONTRIBUTING.md).*

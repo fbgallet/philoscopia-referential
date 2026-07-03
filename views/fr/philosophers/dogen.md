@@ -10,7 +10,7 @@ Maître zen japonais, fondateur de l'école Sōtō, qui fit de la méditation as
 
 ## Influencé par
 
-- **[Nāgārjuna](../philosophers/nagarjuna.md)** (transmet) : Par la tradition mahāyāna et chan, [Dōgen](../philosophers/dogen.md) hérite d'une compréhension de la vacuité fortement marquée par [Nāgārjuna](../philosophers/nagarjuna.md), qu'il met en œuvre dans sa pensée de l'assise méditative et de l'impermanence.
+- **[Nāgārjuna](../philosophers/nagarjuna.md)** (réinterprète) : Par la tradition mahāyāna et chan, [Dōgen](../philosophers/dogen.md) hérite d'une compréhension de la vacuité fortement marquée par [Nāgārjuna](../philosophers/nagarjuna.md), qu'il met en œuvre dans sa pensée de l'assise méditative et de l'impermanence.
 
 ---
 

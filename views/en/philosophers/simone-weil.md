@@ -8,6 +8,10 @@ French philosopher and mystic, at the crossroads of labour activism, moral rigou
 
 > Stub profile: only this mini-card exists so far; the sourced axis positions remain to be authored. Contributions welcome.
 
+## Influenced by
+
+- **[Plato](../philosophers/plato.md)** (reinterprets) : [Weil](../philosophers/simone-weil.md) reads [Plato](../philosophers/plato.md) as a mystic: the Good beyond being, the conversion of the gaze out of the cave become in her the waiting for God and attention, a Christianized Platonism in which the true is received rather than conquered.
+
 ---
 
 *Generated from the JSON corpus in `data/`. Do not edit by hand; see [CONTRIBUTING](../../../CONTRIBUTING.md).*

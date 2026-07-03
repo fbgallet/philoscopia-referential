@@ -3,7 +3,7 @@
   "from": { "kind": "PHILOSOPHER", "slug": "bacon" },
   "to": { "kind": "MOVEMENT", "slug": "enlightenment" },
   "directness": "ATTESTED",
-  "mode": "TRANSMITS",
+  "mode": "CONTINUES",
   "strength": "STRONG",
   "note": {
     "fr": "<ph id='bacon'>Bacon</ph> lègue aux Lumières le programme d'un savoir fondé sur l'expérience et tourné vers l'utilité, « savoir, c'est pouvoir ». <ph id='diderot'>Diderot</ph> et <ph id='d-alembert'>d'Alembert</ph> le saluent comme l'inspirateur de l'<w>Encyclopédie</w>, dont le Discours préliminaire dresse sa généalogie des sciences.",

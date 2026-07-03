@@ -2,7 +2,7 @@
 
 # Bernard Williams
 
-*1929 – 2003 · Britannique*
+*1929 – 2003 · Britannique · [Philosophie analytique](../movements/analytic-philosophy.md)*
 
 Philosophe moral britannique, critique de l'[utilitarisme](../movements/utilitarianism.md) et de l'impartialité kantienne, qui a rendu à l'intégrité, au caractère et aux attachements personnels leur place dans l'éthique (« une pensée de trop », la chance morale).
 

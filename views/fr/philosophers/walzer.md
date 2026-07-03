@@ -8,6 +8,10 @@ Philosophe politique américain : il a renouvelé la théorie de la guerre juste
 
 > Profil embryonnaire : seule cette mini-fiche existe pour l'instant, les positions sourcées sur les axes restent à rédiger. Contributions bienvenues.
 
+## Influencé par
+
+- **[Rawls](../philosophers/rawls.md)** (réagit contre) : [Walzer](../philosophers/walzer.md) conteste l'universalisme de [Rawls](../philosophers/rawls.md) : il n'y a pas de principes de justice valables partout, mais des biens sociaux dont chaque communauté fixe le sens ; la justice consiste à respecter les frontières entre ces sphères plutôt qu'à appliquer une formule unique.
+
 ---
 
 *Généré depuis le corpus JSON de `data/`. Ne pas éditer à la main, voir [CONTRIBUTING](../../../CONTRIBUTING.md).*

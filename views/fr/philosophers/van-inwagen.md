@@ -2,7 +2,7 @@
 
 # Peter van Inwagen
 
-*1942 – ? · Américain*
+*1942 – ? · Américain · [Philosophie analytique](../movements/analytic-philosophy.md)*
 
 Métaphysicien américain, auteur de l'« argument de conséquence » contre le compatibilisme : si le déterminisme est vrai, nos actes sont les conséquences de lois et d'un passé hors de notre prise.
 

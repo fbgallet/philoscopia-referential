@@ -204,6 +204,7 @@ Applied to social identities, the thesis of existence without essence denies tha
 
 ## Influenced by
 
+- **[Phenomenology](../movements/phenomenology.md)** (continues) : Twentieth-century existentialism inherits its method from [phenomenology](../movements/phenomenology.md): to describe phenomena as they give themselves to consciousness, prior to theories. But it shifts the object, from constituting consciousness toward concrete existence, freedom, anguish and the body: [Sartre](../philosophers/sartre.md) draws from intentionality a consciousness given over to nothingness and choice, [Heidegger](../philosophers/heidegger.md) recasts description as an analytic of being-in-the-world. The heirs reshape even the method itself, [Merleau-Ponty](../philosophers/merleau-ponty.md) anchoring it in the perceiving body.
 - **[Romanticism](../movements/romanticism.md)** (continues) : [Existentialism](../movements/existentialism.md) gathers from Romanticism the exaltation of the singular individual against the system and the abstract universal, the primacy of [lived experience](../axes/interiority.md), passion and anguish, and the demand for [authenticity](../glossary/authenticity.md). [Kierkegaard](../philosophers/kierkegaard.md), a critical reader of Romanticism and of Hegel, is its decisive relay: the Romantic « self », irreducible to reason, becomes the existing individual who chooses himself.
 
 ---

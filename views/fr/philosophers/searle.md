@@ -2,7 +2,7 @@
 
 # Searle
 
-*1932 – ? · Américain*
+*1932 – ? · Américain · [Philosophie analytique](../movements/analytic-philosophy.md)*
 
 Philosophe américain de l'esprit et du langage : contre le fonctionnalisme, il tient la conscience pour un phénomène biologique, produit par les pouvoirs causaux propres du cerveau vivant.
 

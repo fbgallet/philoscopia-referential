@@ -2,7 +2,7 @@
   "id": "lucretius-to-montaigne",
   "from": { "kind": "PHILOSOPHER", "slug": "lucretius" },
   "to": { "kind": "PHILOSOPHER", "slug": "montaigne" },
-  "directness": "INDIRECT",
+  "directness": "ATTESTED",
   "mode": "CONTINUES",
   "strength": "MEDIUM",
   "note": {

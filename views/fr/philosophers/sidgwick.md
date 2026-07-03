@@ -14,6 +14,7 @@ Philosophe anglais, dont les Méthodes de l'éthique donnèrent à l'[utilitaris
 
 ## Influence sur
 
+- **[Derek Parfit](../philosophers/parfit.md)** (prolonge) : [Parfit](../philosophers/parfit.md) tient [Sidgwick](../philosophers/sidgwick.md) pour le plus grand des utilitaristes et reprend son « point de vue de l'univers », l'exigence d'impartialité, qu'il approfondit dans une recherche de convergence entre les grandes théories morales.
 - **[Singer](../philosophers/singer.md)** (prolonge) : [Singer](../philosophers/singer.md) reprend de [Sidgwick](../philosophers/sidgwick.md) l'universalisme impartial, le point de vue de l'univers, et l'étend en éthique pratique : la considération morale doit s'élargir à tout être capable de souffrir.
 
 ---

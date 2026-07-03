@@ -2,7 +2,7 @@
 
 # Rawls
 
-*1921 – 2002 · Américain*
+*1921 – 2002 · Américain · [Libéralisme](../movements/liberalism.md)*
 
 Philosophe politique américain : il refonde le contrat social par l'idée de justice comme équité, des principes choisis derrière un « voile d'ignorance » qui corrigent les inégalités non méritées.
 
@@ -15,6 +15,7 @@ Philosophe politique américain : il refonde le contrat social par l'idée de ju
 ## Influence sur
 
 - **[Nozick](../philosophers/nozick.md)** (réagit contre) : [Nozick](../philosophers/nozick.md) formule sa théorie libertarienne de l'État minimal en réponse directe à [Rawls](../philosophers/rawls.md) : la justice distributive viole les droits individuels, car toute redistribution dispose des personnes comme de moyens.
+- **[Michael Walzer](../philosophers/walzer.md)** (réagit contre) : [Walzer](../philosophers/walzer.md) conteste l'universalisme de [Rawls](../philosophers/rawls.md) : il n'y a pas de principes de justice valables partout, mais des biens sociaux dont chaque communauté fixe le sens ; la justice consiste à respecter les frontières entre ces sphères plutôt qu'à appliquer une formule unique.
 
 ---
 

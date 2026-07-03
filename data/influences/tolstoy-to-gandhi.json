@@ -1,0 +1,29 @@
+{
+  "id": "tolstoy-to-gandhi",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "tolstoy"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "gandhi"
+  },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='gandhi'>Gandhi</ph> reconnaît en <ph id='tolstoy'>Tolstoï</ph>, avec qui il correspond, un maître de la non-violence : la loi d'amour et le refus chrétien de rendre le mal par le mal, qu'il transpose en méthode d'action politique de masse, la <c>satyagraha</c>.",
+    "en": "<ph id='gandhi'>Gandhi</ph> recognizes in <ph id='tolstoy'>Tolstoy</ph>, with whom he corresponds, a master of nonviolence: the law of love and the Christian refusal to return evil for evil, which he transposes into a method of mass political action, <c>satyagraha</c>."
+  },
+  "sources": [
+    {
+      "fr": "Tolstoï, Lettre à un Hindou (1908)",
+      "en": "Tolstoy, A Letter to a Hindu (1908)"
+    },
+    {
+      "fr": "Gandhi, Autobiographie ou Mes expériences de vérité",
+      "en": "Gandhi, An Autobiography or The Story of My Experiments with Truth"
+    }
+  ],
+  "updatedAt": "2026-07-03T00:00:00.000Z"
+}

@@ -2,7 +2,7 @@
 
 # Jonas
 
-*1903 – 1993 · German*
+*1903 – 1993 · German · [Environmental Ethics](../movements/environmental-ethics.md)*
 
 German philosopher: a thinker of responsibility toward future generations, he founds an ethics of life that sets the worth of the natural given against technological omnipotence.
 

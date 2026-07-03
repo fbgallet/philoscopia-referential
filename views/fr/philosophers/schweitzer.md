@@ -2,7 +2,7 @@
 
 # Albert Schweitzer
 
-*1875 – 1965 · Franco-allemand*
+*1875 – 1965 · Franco-allemand · [Éthique environnementale](../movements/environmental-ethics.md)*
 
 Théologien, médecin et philosophe alsacien : il fait du « respect de la vie » le principe premier de l'éthique, toute volonté de vivre, et non la seule sensibilité, méritant d'être préservée.
 

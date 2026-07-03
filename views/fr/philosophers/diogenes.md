@@ -257,7 +257,7 @@ Question anachronique : les anecdotes sur Diogène ne contiennent rien qui perme
 
 ## Influence sur
 
-- **[Cratès](../philosophers/crates.md)** (prolonge) : [Cratès](../philosophers/crates.md) adopte directement auprès de [Diogène](../philosophers/diogenes.md) le mode de vie cynique, qu'il adoucit en une figure plus douce et philanthrope ; il sera le maître de Zénon, relais vers le stoïcisme.
+- **[Cratès](../philosophers/crates.md)** (prolonge) : Disciple de [Diogène](../philosophers/diogenes.md), [Cratès](../philosophers/crates.md) reprend le mode de vie cynique mais l'infléchit vers une figure plus douce et philanthrope ; maître de Zénon, il sera le relais vers le stoïcisme.
 
 ---
 

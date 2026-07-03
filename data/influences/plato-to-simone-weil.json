@@ -1,0 +1,29 @@
+{
+  "id": "plato-to-simone-weil",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "plato"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "simone-weil"
+  },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='simone-weil'>Weil</ph> lit <ph id='plato'>Platon</ph> en mystique : le Bien au-delà de l'être, la conversion du regard hors de la caverne deviennent chez elle attente de Dieu et <c>attention</c>, un platonisme christianisé où le vrai se reçoit plus qu'il ne se conquiert.",
+    "en": "<ph id='simone-weil'>Weil</ph> reads <ph id='plato'>Plato</ph> as a mystic: the Good beyond being, the conversion of the gaze out of the cave become in her the waiting for God and <c>attention</c>, a Christianized Platonism in which the true is received rather than conquered."
+  },
+  "sources": [
+    {
+      "fr": "Weil, La Source grecque",
+      "en": "Weil, Intimations of Christianity Among the Ancient Greeks"
+    },
+    {
+      "fr": "Weil, Intuitions préchrétiennes",
+      "en": "Weil, Pre-Christian Intuitions"
+    }
+  ],
+  "updatedAt": "2026-07-03T00:00:00.000Z"
+}

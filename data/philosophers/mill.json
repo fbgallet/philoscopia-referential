@@ -23,9 +23,7 @@
     "fr": "Anglais",
     "en": "English"
   },
-  "movements": [
-    "utilitarianism"
-  ],
+  "movements": ["utilitarianism", "liberalism"],
   "entries": [
     {
       "axisId": "SUFFERING_MEANING",
@@ -995,7 +993,7 @@
       }
     }
   ],
-  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "updatedAt": "2026-07-03T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

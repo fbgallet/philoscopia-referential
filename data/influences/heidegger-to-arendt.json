@@ -1,0 +1,25 @@
+{
+  "id": "heidegger-to-arendt",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "heidegger"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "arendt"
+  },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "Élève de <ph id='heidegger'>Heidegger</ph>, <ph id='arendt'>Arendt</ph> déplace son analyse de l'existence vers le politique : contre le primat de la mort, elle pense la <c>natalité</c>, la capacité de commencer, et l'action concertée entre les hommes comme lieu propre de la liberté.",
+    "en": "<ph id='heidegger'>Heidegger</ph>'s student, <ph id='arendt'>Arendt</ph> shifts his analysis of existence toward the political: against the primacy of death, she thinks <c>natality</c>, the capacity to begin, and concerted action among human beings as the proper site of freedom."
+  },
+  "sources": [
+    {
+      "fr": "Arendt, Condition de l'homme moderne (1958)",
+      "en": "Arendt, The Human Condition (1958)"
+    }
+  ],
+  "updatedAt": "2026-07-03T00:00:00.000Z"
+}

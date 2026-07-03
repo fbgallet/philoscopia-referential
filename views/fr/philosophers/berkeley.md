@@ -135,7 +135,6 @@ Mon propre corps n'échappe pas à la règle générale : il est, comme tout cor
 ## Influence sur
 
 - **[Hume](../philosophers/hume.md)** (réinterprète) : [Hume](../philosophers/hume.md) hérite de [Berkeley](../philosophers/berkeley.md) la critique des idées abstraites et le recentrement de toute connaissance sur les perceptions, qu'il étend de la matière à l'esprit lui-même.
-- **[Kant](../philosophers/kant.md)** (réagit contre) : [Kant](../philosophers/kant.md) définit son idéalisme transcendantal en le démarquant de ce qu'il nomme l'idéalisme dogmatique de [Berkeley](../philosophers/berkeley.md), lequel nie la matière indépendante de l'esprit. La Réfutation de l'idéalisme de la *[Critique de la raison pure](../works/critique-of-pure-reason-kant.md)* vise d'abord l'idéalisme problématique de [Descartes](../philosophers/descartes.md) ; le contraste avec Berkeley, lui, est explicite et central pour le positionnement de Kant.
 
 ---
 

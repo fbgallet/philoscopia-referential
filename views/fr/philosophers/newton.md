@@ -10,7 +10,7 @@ Mathématicien et physicien anglais, auteur des Principia, dont la mécanique c�
 
 ## Influence sur
 
-- **[Les Lumières](../movements/enlightenment.md)** (transmet) : La mécanique de [Newton](../philosophers/newton.md), qui déduit le système du monde de quelques lois mathématiques, devient le paradigme du savoir pour les Lumières : [Voltaire](../philosophers/voltaire.md) la popularise en France, et le programme d'étendre la « méthode newtonienne » à la morale et à la société traverse tout le siècle.
+- **[Les Lumières](../movements/enlightenment.md)** (prolonge) : La mécanique de [Newton](../philosophers/newton.md), qui déduit le système du monde de quelques lois mathématiques, devient le paradigme du savoir pour les Lumières : [Voltaire](../philosophers/voltaire.md) la popularise en France, et le programme d'étendre la « méthode newtonienne » à la morale et à la société traverse tout le siècle.
 
 ---
 

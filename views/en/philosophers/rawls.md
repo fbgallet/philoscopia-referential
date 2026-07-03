@@ -2,7 +2,7 @@
 
 # Rawls
 
-*1921 – 2002 · American*
+*1921 – 2002 · American · [Liberalism](../movements/liberalism.md)*
 
 American political philosopher: he refounds the social contract through the idea of justice as fairness, principles chosen behind a "veil of ignorance" that correct undeserved inequalities.
 
@@ -15,6 +15,7 @@ American political philosopher: he refounds the social contract through the idea
 ## Influence on
 
 - **[Nozick](../philosophers/nozick.md)** (reacts against) : [Nozick](../philosophers/nozick.md) frames his libertarian theory of the minimal state as a direct response to [Rawls](../philosophers/rawls.md): distributive justice violates individual rights, since any redistribution treats persons as means.
+- **[Michael Walzer](../philosophers/walzer.md)** (reacts against) : [Walzer](../philosophers/walzer.md) contests [Rawls](../philosophers/rawls.md)'s universalism: there are no principles of justice valid everywhere, but social goods whose meaning each community fixes; justice consists in respecting the boundaries between these spheres rather than applying a single formula.
 
 ---
 

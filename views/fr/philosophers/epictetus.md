@@ -254,7 +254,7 @@ Question anachronique : le corpus d'Épictète ne contient rien qui permette de 
 
 ## Influencé par
 
-- **[Chrysippe](../philosophers/chrysippus.md)** (prolonge) : [Chrysippe](../philosophers/chrysippus.md) fournit le socle doctrinal que [Épictète](../philosophers/epictetus.md) commente et cite en autorité : l'analyse de l'assentiment et le partage entre ce qui « dépend de nous » et le reste.
+- **[Chrysippe](../philosophers/chrysippus.md)** (prolonge) : [Chrysippe](../philosophers/chrysippus.md) fournit le socle doctrinal qu'[Épictète](../philosophers/epictetus.md) commente et cite en autorité : l'analyse de l'assentiment et le partage entre ce qui « dépend de nous » et le reste.
 
 ## Influence sur
 

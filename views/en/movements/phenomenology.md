@@ -108,6 +108,10 @@ The description of perception reveals what Cartesian dualism conceals: I never e
 
 *Sources : Merleau-Ponty, Phenomenology of Perception; Husserl, Ideas II*
 
+## Influence on
+
+- **[Existentialism](../movements/existentialism.md)** (continues) : Twentieth-century existentialism inherits its method from [phenomenology](../movements/phenomenology.md): to describe phenomena as they give themselves to consciousness, prior to theories. But it shifts the object, from constituting consciousness toward concrete existence, freedom, anguish and the body: [Sartre](../philosophers/sartre.md) draws from intentionality a consciousness given over to nothingness and choice, [Heidegger](../philosophers/heidegger.md) recasts description as an analytic of being-in-the-world. The heirs reshape even the method itself, [Merleau-Ponty](../philosophers/merleau-ponty.md) anchoring it in the perceiving body.
+
 ---
 
 *Generated from the JSON corpus in `data/`. Do not edit by hand; see [CONTRIBUTING](../../../CONTRIBUTING.md).*

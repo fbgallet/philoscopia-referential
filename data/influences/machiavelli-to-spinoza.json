@@ -1,0 +1,25 @@
+{
+  "id": "machiavelli-to-spinoza",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "machiavelli"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "spinoza"
+  },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='spinoza'>Spinoza</ph> salue en <ph id='machiavelli'>Machiavel</ph> un esprit très pénétrant et reprend son réalisme, l'analyse des hommes tels qu'ils sont ; mais il met cette lucidité au service d'une fin inverse, la démocratie et la liberté, non le maintien du prince.",
+    "en": "<ph id='spinoza'>Spinoza</ph> salutes <ph id='machiavelli'>Machiavelli</ph> as a most penetrating mind and takes up his realism, the analysis of human beings as they are; but he puts that lucidity in the service of an opposite end, democracy and freedom, not the preservation of the prince."
+  },
+  "sources": [
+    {
+      "fr": "Spinoza, Traité politique, ch. V et X",
+      "en": "Spinoza, Political Treatise, ch. V and X"
+    }
+  ],
+  "updatedAt": "2026-07-03T00:00:00.000Z"
+}

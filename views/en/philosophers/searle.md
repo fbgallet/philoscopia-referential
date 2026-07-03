@@ -2,7 +2,7 @@
 
 # Searle
 
-*1932 – ? · American*
+*1932 – ? · American · [Analytic Philosophy](../movements/analytic-philosophy.md)*
 
 American philosopher of mind and language: against functionalism, he holds consciousness to be a biological phenomenon, produced by the specific causal powers of the living brain.
 

@@ -222,7 +222,7 @@ Suffering is neither an evil to be abolished nor a redemptive trial that would f
 
 *positioned · inferable · minor*
 
-Techno-optimism 80% · Techno-criticism 20%
+Techno-criticism 80% · Techno-optimism 20%
 
 An old gardener refuses the water-drawing machine he is offered: "whoever uses machines acquires a machine heart," and loses the native purity of the spirit. Zhuangzi's distrust bears not on the tool itself, which he gladly wields in his artisan parables, but on the calculating mind and the cunning the instrument breeds at the expense of the [natural](../glossary/ziran.md). This critique of the "machine heart" ranks him, like [Laozi](../philosophers/laozi.md), among the distant ancestors of techno-criticism, but from the inner self rather than the political order.
 

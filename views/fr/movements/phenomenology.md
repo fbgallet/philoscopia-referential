@@ -108,6 +108,10 @@ La description de la perception révèle ce que le dualisme cartésien masque : 
 
 *Sources : Merleau-Ponty, Phénoménologie de la perception ; Husserl, Idées II*
 
+## Influence sur
+
+- **[Existentialisme](../movements/existentialism.md)** (prolonge) : L'existentialisme du XXe siècle hérite de la [phénoménologie](../movements/phenomenology.md) sa méthode : décrire les phénomènes tels qu'ils se donnent à la conscience, en deçà des théories. Mais il en déplace l'objet, de la conscience constituante vers l'existence concrète, la liberté, l'angoisse et le corps : [Sartre](../philosophers/sartre.md) tire de l'intentionnalité une conscience vouée au néant et au choix, [Heidegger](../philosophers/heidegger.md) refonde la description en analytique de l'être-au-monde. Les héritiers refaçonnent jusqu'à la méthode elle-même, [Merleau-Ponty](../philosophers/merleau-ponty.md) l'ancrant dans le corps percevant.
+
 ---
 
 *Généré depuis le corpus JSON de `data/`. Ne pas éditer à la main, voir [CONTRIBUTING](../../../CONTRIBUTING.md).*

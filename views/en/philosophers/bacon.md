@@ -182,7 +182,7 @@ Bacon professes a sincere Christian faith and holds God's existence to be assure
 
 ## Influence on
 
-- **[The Enlightenment](../movements/enlightenment.md)** (transmits) : [Bacon](../philosophers/bacon.md) bequeaths to the Enlightenment the programme of a knowledge founded on experience and turned toward utility, « knowledge is power ». [Diderot](../philosophers/diderot.md) and [d'Alembert](../philosophers/d-alembert.md) salute him as the inspiration of the Encyclopédie, whose Preliminary Discourse traces his genealogy of the sciences.
+- **[The Enlightenment](../movements/enlightenment.md)** (continues) : [Bacon](../philosophers/bacon.md) bequeaths to the Enlightenment the programme of a knowledge founded on experience and turned toward utility, « knowledge is power ». [Diderot](../philosophers/diderot.md) and [d'Alembert](../philosophers/d-alembert.md) salute him as the inspiration of the Encyclopédie, whose Preliminary Discourse traces his genealogy of the sciences.
 - **[Transhumanism](../movements/transhumanism.md)** (continues) : Transhumanism extends [Bacon](../philosophers/bacon.md)'s program: turning knowledge into effective power over nature, through experimental science, to relieve the human condition. It radicalizes that promise by stretching this command of nature to the human body and mind themselves.
 
 ---

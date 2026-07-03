@@ -1,0 +1,109 @@
+{
+  "kind": "MOVEMENT",
+  "id": "environmental-ethics",
+  "name": {
+    "fr": "Éthique environnementale",
+    "en": "Environmental Ethics"
+  },
+  "tagline": {
+    "fr": "Étendre le <ax id='MORAL_CIRCLE'>cercle moral</ax> au-delà de l'humain : animaux, vivant, écosystèmes comptent, et l'homme n'est pas maître de la nature mais <ax id='HUMAN_PLACE_NATURE' pole='MEMBER_AMONG_OTHERS'>membre</ax> d'une communauté.",
+    "en": "To widen the <ax id='MORAL_CIRCLE'>moral circle</ax> beyond the human: animals, the living, ecosystems count, and the human being is not nature's master but a <ax id='HUMAN_PLACE_NATURE' pole='MEMBER_AMONG_OTHERS'>member</ax> of a community."
+  },
+  "summary": {
+    "fr": "Courant né au XXe siècle de la crise écologique et de la question animale, qui conteste l'anthropocentrisme dominant : la valeur morale ne s'arrête pas à l'humanité. <ph id='leopold'>Leopold</ph> et sa land ethic étendent la communauté morale aux sols, aux eaux et aux espèces ; <ph id='naess'>Næss</ph> fonde l'écologie profonde sur la valeur propre de tout vivant et l'homme comme membre parmi d'autres ; <ph id='singer'>Singer</ph> et <ph id='regan'>Regan</ph> portent la cause animale, l'un au nom de la souffrance, l'autre des droits ; <ph id='schweitzer'>Schweitzer</ph> prêche le respect de la vie, <ph id='jonas'>Jonas</ph> une responsabilité envers les générations futures. Famille traversée de tensions, du souci de l'individu sensible à celui des touts écologiques, elle partage le refus de tenir la nature pour une simple ressource.",
+    "en": "A current born in the twentieth century from the ecological crisis and the animal question, which contests the dominant anthropocentrism: moral worth does not stop at humanity. <ph id='leopold'>Leopold</ph> and his land ethic extend the moral community to soils, waters and species; <ph id='naess'>Næss</ph> grounds deep ecology in the intrinsic worth of all living things and the human as one member among others; <ph id='singer'>Singer</ph> and <ph id='regan'>Regan</ph> carry the animal cause, one in the name of suffering, the other of rights; <ph id='schweitzer'>Schweitzer</ph> preaches reverence for life, <ph id='jonas'>Jonas</ph> a responsibility toward future generations. A family shot through with tensions, from concern for the sentient individual to concern for ecological wholes, it shares the refusal to treat nature as a mere resource."
+  },
+  "period": {
+    "from": 1949
+  },
+  "keyFigures": [
+    {
+      "slug": "leopold",
+      "name": { "fr": "Leopold", "en": "Leopold" }
+    },
+    {
+      "slug": "naess",
+      "name": { "fr": "Næss", "en": "Næss" }
+    },
+    {
+      "slug": "singer",
+      "name": { "fr": "Singer", "en": "Singer" }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "MORAL_CIRCLE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0, 0.35, 0.2, 0.45]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le geste fondateur du courant est d'élargir le <ax id='MORAL_CIRCLE'>cercle moral</ax> au-delà des seuls humains, contre l'<ax id='MORAL_CIRCLE' pole='ANTHROPOCENTRISM'>anthropocentrisme</ax> de la tradition. Où tracer la nouvelle frontière divise la famille : à tout être <ax id='MORAL_CIRCLE' pole='PATHOCENTRISM'>sensible</ax> capable de souffrir pour <ph id='singer'>Singer</ph>, à tout être <ax id='MORAL_CIRCLE' pole='BIOCENTRISM'>vivant</ax> pour <ph id='schweitzer'>Schweitzer</ph>, aux <ax id='MORAL_CIRCLE' pole='ECOCENTRISM'>ensembles écologiques</ax> eux-mêmes pour <ph id='leopold'>Leopold</ph> et <ph id='naess'>Næss</ph>. Toutes récusent l'idée que seul l'homme compte.",
+          "en": "The founding gesture of the current is to widen the <ax id='MORAL_CIRCLE'>moral circle</ax> beyond humans alone, against the tradition's <ax id='MORAL_CIRCLE' pole='ANTHROPOCENTRISM'>anthropocentrism</ax>. Where to draw the new boundary divides the family: to every <ax id='MORAL_CIRCLE' pole='PATHOCENTRISM'>sentient</ax> being capable of suffering for <ph id='singer'>Singer</ph>, to every <ax id='MORAL_CIRCLE' pole='BIOCENTRISM'>living</ax> being for <ph id='schweitzer'>Schweitzer</ph>, to <ax id='MORAL_CIRCLE' pole='ECOCENTRISM'>ecological wholes</ax> themselves for <ph id='leopold'>Leopold</ph> and <ph id='naess'>Næss</ph>. All reject the idea that the human alone counts."
+        },
+        "references": [
+          {
+            "fr": "Singer, La Libération animale (1975)",
+            "en": "Singer, Animal Liberation (1975)"
+          },
+          {
+            "fr": "Leopold, Almanach d'un comté des sables (1949)",
+            "en": "Leopold, A Sand County Almanac (1949)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HUMAN_PLACE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0, 0.4, 0.6]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Contre le programme de <ph id='descartes'>Descartes</ph> et <ph id='bacon'>Bacon</ph>, l'homme « maître et possesseur de la nature », le courant refuse la <ax id='HUMAN_PLACE_NATURE' pole='MASTERY'>maîtrise</ax> comme rapport premier au monde naturel. Il se partage entre deux réponses : l'homme <ax id='HUMAN_PLACE_NATURE' pole='MEMBER_AMONG_OTHERS'>membre parmi d'autres</ax> d'une communauté du vivant, sans position privilégiée, chez <ph id='naess'>Næss</ph> et <ph id='leopold'>Leopold</ph> ; ou <ax id='HUMAN_PLACE_NATURE' pole='STEWARDSHIP'>gardien</ax> responsable que sa puissance même oblige, chez <ph id='jonas'>Jonas</ph>.",
+          "en": "Against the program of <ph id='descartes'>Descartes</ph> and <ph id='bacon'>Bacon</ph>, the human as \"master and possessor of nature\", the current refuses <ax id='HUMAN_PLACE_NATURE' pole='MASTERY'>mastery</ax> as the primary relation to the natural world. It divides between two answers: the human as a <ax id='HUMAN_PLACE_NATURE' pole='MEMBER_AMONG_OTHERS'>member among others</ax> of a community of the living, with no privileged position, in <ph id='naess'>Næss</ph> and <ph id='leopold'>Leopold</ph>; or the responsible <ax id='HUMAN_PLACE_NATURE' pole='STEWARDSHIP'>steward</ax> whom their very power obliges, in <ph id='jonas'>Jonas</ph>."
+        },
+        "references": [
+          {
+            "fr": "Næss, Écologie, communauté et style de vie (1976)",
+            "en": "Næss, Ecology, Community and Lifestyle (1976)"
+          },
+          {
+            "fr": "Jonas, Le Principe responsabilité (1979)",
+            "en": "Jonas, The Imperative of Responsibility (1979)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "MORAL_CIRCLE",
+      "thesis": {
+        "fr": "La valeur morale ne s'arrête pas à l'humanité : le <ax id='MORAL_CIRCLE'>cercle</ax> doit s'ouvrir aux animaux sensibles, au vivant, voire aux écosystèmes.",
+        "en": "Moral worth does not stop at humanity: the <ax id='MORAL_CIRCLE'>circle</ax> must open to sentient animals, to the living, even to ecosystems."
+      }
+    },
+    {
+      "axisId": "HUMAN_PLACE_NATURE",
+      "thesis": {
+        "fr": "L'homme n'est pas le <ax id='HUMAN_PLACE_NATURE' pole='MASTERY'>maître</ax> de la nature mais un <ax id='HUMAN_PLACE_NATURE' pole='MEMBER_AMONG_OTHERS'>membre</ax> de la communauté du vivant, ou son gardien responsable.",
+        "en": "The human is not nature's <ax id='HUMAN_PLACE_NATURE' pole='MASTERY'>master</ax> but a <ax id='HUMAN_PLACE_NATURE' pole='MEMBER_AMONG_OTHERS'>member</ax> of the community of the living, or its responsible steward."
+      }
+    }
+  ],
+  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

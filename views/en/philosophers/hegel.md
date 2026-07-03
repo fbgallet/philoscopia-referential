@@ -2,7 +2,7 @@
 
 # Hegel
 
-*1770 – 1831 · German*
+*1770 – 1831 · German · [German Idealism](../movements/german-idealism.md)*
 
 German philosopher of spirit and history: he conceives the real as a rational unfolding, and freedom as fulfilled within the institutions of the state, not against them.
 
@@ -10,7 +10,6 @@ German philosopher of spirit and history: he conceives the real as a rational un
 
 ## Influenced by
 
-- **[Kant](../philosophers/kant.md)** (reinterprets) : [Hegel](../philosophers/hegel.md) transforms [Kant](../philosophers/kant.md)'s criticism into absolute idealism: he contests the fixity of the Kantian oppositions, appearance and thing-in-itself, by absorbing them into the dialectical movement of spirit.
 - **[Spinoza](../philosophers/spinoza.md)** (reinterprets) : [Hegel](../philosophers/hegel.md) holds Spinozism to be an unavoidable passage: “to begin to philosophise is to be a Spinozist”. He takes up the demand for a single absolute, but faults [Spinoza](../philosophers/spinoza.md)'s substance for being inert and remakes it as subject.
 
 ## Influence on

@@ -1,0 +1,25 @@
+{
+  "id": "locke-to-condillac",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "locke"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "condillac"
+  },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='condillac'>Condillac</ph> radicalise l'empirisme de <ph id='locke'>Locke</ph> en sensualisme : par la fiction d'une statue qu'on éveille sens après sens, il entreprend de dériver toutes les facultés de la seule sensation, supprimant la réflexion que Locke tenait pour une source distincte.",
+    "en": "<ph id='condillac'>Condillac</ph> radicalizes <ph id='locke'>Locke</ph>'s empiricism into sensationalism: through the fiction of a statue awakened sense by sense, he undertakes to derive all the faculties from sensation alone, doing away with the reflection Locke held to be a distinct source."
+  },
+  "sources": [
+    {
+      "fr": "Condillac, Traité des sensations (1754)",
+      "en": "Condillac, Treatise on the Sensations (1754)"
+    }
+  ],
+  "updatedAt": "2026-07-03T00:00:00.000Z"
+}

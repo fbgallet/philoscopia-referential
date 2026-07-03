@@ -1,0 +1,25 @@
+{
+  "id": "rawls-vs-walzer",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "rawls"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "walzer"
+  },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='walzer'>Walzer</ph> conteste l'universalisme de <ph id='rawls'>Rawls</ph> : il n'y a pas de principes de justice valables partout, mais des biens sociaux dont chaque communauté fixe le sens ; la justice consiste à respecter les frontières entre ces sphères plutôt qu'à appliquer une formule unique.",
+    "en": "<ph id='walzer'>Walzer</ph> contests <ph id='rawls'>Rawls</ph>'s universalism: there are no principles of justice valid everywhere, but social goods whose meaning each community fixes; justice consists in respecting the boundaries between these spheres rather than applying a single formula."
+  },
+  "sources": [
+    {
+      "fr": "Walzer, Sphères de justice (1983)",
+      "en": "Walzer, Spheres of Justice (1983)"
+    }
+  ],
+  "updatedAt": "2026-07-03T00:00:00.000Z"
+}

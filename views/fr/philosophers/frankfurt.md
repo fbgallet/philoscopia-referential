@@ -2,7 +2,7 @@
 
 # Harry Frankfurt
 
-*1929 – 2023 · Américain*
+*1929 – 2023 · Américain · [Philosophie analytique](../movements/analytic-philosophy.md)*
 
 Philosophe américain, connu pour ses « cas de Frankfurt » (être responsable sans avoir pu agir autrement) et pour une liberté conçue comme adhésion réfléchie à ses propres désirs.
 

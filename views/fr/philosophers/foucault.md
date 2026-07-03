@@ -10,6 +10,7 @@ Philosophe français : il analyse le savoir comme indissociable du pouvoir et de
 
 ## Influencé par
 
+- **[Pierre Hadot](../philosophers/hadot.md)** (réinterprète) : [Foucault](../philosophers/foucault.md) emprunte à [Hadot](../philosophers/hadot.md) les exercices spirituels antiques et le « souci de soi », qu'il refond en une esthétique de l'existence, self-fashioning que Hadot lui reprochera d'avoir coupé de sa visée universelle.
 - **[Nietzsche](../philosophers/nietzsche.md)** (prolonge) : [Foucault](../philosophers/foucault.md) reprend de [Nietzsche](../philosophers/nietzsche.md) la méthode généalogique : la critique des origines et des prétentions universelles de la vérité et du sujet, qu'il déploie en analyse des rapports entre savoir et pouvoir.
 
 ---

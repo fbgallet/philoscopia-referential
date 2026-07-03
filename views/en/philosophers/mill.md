@@ -2,7 +2,7 @@
 
 # John Stuart Mill
 
-*1806 – 1873 · English · [Utilitarianism](../movements/utilitarianism.md)*
+*1806 – 1873 · English · [Utilitarianism](../movements/utilitarianism.md), [Liberalism](../movements/liberalism.md)*
 
 A major figure of British liberalism and heir to [Bentham](../philosophers/bentham.md)'s [utilitarianism](../movements/utilitarianism.md), philosopher, economist, logician and reformer, he was subjected from childhood by his father James Mill to an intensive education meant to make him the spokesman of philosophical radicalism. The depressive crisis he undergoes at twenty leads him to broaden that inheritance, making room within it for the cultivation of the feelings, for individual liberty and for a more demanding conception of happiness. A rigorous empiricist in the System of Logic, he sets out his ethics in Utilitarianism, his political philosophy in On Liberty and his feminism in The Subjection of Women, while serving in Parliament. A pivotal nineteenth-century thinker, he remains a central reference in debates on liberty, democracy and the foundation of morality.
 

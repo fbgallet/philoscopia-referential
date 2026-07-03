@@ -2,7 +2,7 @@
 
 # Jonas
 
-*1903 – 1993 · Allemand*
+*1903 – 1993 · Allemand · [Éthique environnementale](../movements/environmental-ethics.md)*
 
 Philosophe allemand : penseur de la responsabilité envers les générations futures, il fonde une éthique de la vie qui oppose à la toute-puissance technique la valeur du donné naturel.
 

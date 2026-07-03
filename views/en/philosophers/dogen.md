@@ -10,7 +10,7 @@ Japanese Zen master, founder of the Sōtō school, who made seated meditation (z
 
 ## Influenced by
 
-- **[Nāgārjuna](../philosophers/nagarjuna.md)** (transmits) : Through the Mahāyāna and Chan traditions, [Dōgen](../philosophers/dogen.md) inherits an understanding of emptiness strongly marked by [Nāgārjuna](../philosophers/nagarjuna.md), which he enacts in his thought of seated meditation and impermanence.
+- **[Nāgārjuna](../philosophers/nagarjuna.md)** (reinterprets) : Through the Mahāyāna and Chan traditions, [Dōgen](../philosophers/dogen.md) inherits an understanding of emptiness strongly marked by [Nāgārjuna](../philosophers/nagarjuna.md), which he enacts in his thought of seated meditation and impermanence.
 
 ---
 

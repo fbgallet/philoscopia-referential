@@ -284,7 +284,7 @@ Question anachronique : rien dans les Essais ne permet de situer Montaigne sur l
 
 Philia (amitié) 95% · Agapè-don 5%
 
-Reprenant la [philia](../glossary/philia.md) d'[Aristote](../philosophers/aristotle.md) mais la portant à l'incandescence, Montaigne réserve, dans le chapitre « De l'amitié » de ses *[Essais](../works/essays-montaigne.md)*, le nom d'amitié à un lien unique, librement choisi, qui passe avant l'amour-passion : l'ardeur amoureuse n'est qu'un feu volage et changeant, tandis que l'amitié parfaite est une chaleur constante où deux âmes « se mêlent et se confondent l'une en l'autre ». Il la dit sans autre fondement qu'elle-même, irréductible à l'utilité, au plaisir ou au devoir de parenté. De sa communion avec La Boétie, il ne sait donner d'autre raison que l'évidence réciproque des deux êtres.
+Reprenant la [philia](../glossary/philia.md) d'[Aristote](../philosophers/aristotle.md) mais la portant à l'incandescence, Montaigne réserve, dans le chapitre « De l'amitié » de ses *[Essais](../works/essays-montaigne.md)*, le nom d'amitié à un lien unique, librement choisi, qui passe avant l'amour-passion : l'ardeur amoureuse n'est qu'un feu volage et changeant, tandis que l'amitié parfaite est une chaleur constante où deux âmes « se mêlent et se confondent l'une en l'autre ». Il la dit sans autre fondement qu'elle-même, irréductible à l'utilité, au plaisir ou au devoir de parenté ; chacun s'y donne sans réserve, part de don qui excède le simple échange de bons offices. De sa communion avec La Boétie, il ne sait donner d'autre raison que l'évidence réciproque des deux êtres.
 
 > « Parce que c'était lui, parce que c'était moi. » (Essais, I, 28 (« De l'amitié »))
 

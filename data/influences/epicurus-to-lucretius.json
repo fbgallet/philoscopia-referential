@@ -2,7 +2,7 @@
   "id": "epicurus-to-lucretius",
   "from": { "kind": "PHILOSOPHER", "slug": "epicurus" },
   "to": { "kind": "PHILOSOPHER", "slug": "lucretius" },
-  "directness": "INDIRECT",
+  "directness": "ATTESTED",
   "mode": "TRANSMITS",
   "strength": "STRONG",
   "note": {

@@ -1,0 +1,25 @@
+{
+  "id": "bergson-to-william-james",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "bergson"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "william-james"
+  },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='william-james'>James</ph> salue en <ph id='bergson'>Bergson</ph> un allié contre l'intellectualisme : il reprend sa critique des concepts figés et sa durée mouvante pour nourrir son empirisme radical et son univers pluraliste.",
+    "en": "<ph id='william-james'>James</ph> hails <ph id='bergson'>Bergson</ph> as an ally against intellectualism: he takes up his critique of frozen concepts and his flowing duration to feed his radical empiricism and his pluralistic universe."
+  },
+  "sources": [
+    {
+      "fr": "James, Un univers pluraliste (1909)",
+      "en": "James, A Pluralistic Universe (1909)"
+    }
+  ],
+  "updatedAt": "2026-07-03T00:00:00.000Z"
+}

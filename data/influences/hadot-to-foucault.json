@@ -1,0 +1,29 @@
+{
+  "id": "hadot-to-foucault",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "hadot"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "foucault"
+  },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='foucault'>Foucault</ph> emprunte à <ph id='hadot'>Hadot</ph> les <c>exercices spirituels</c> antiques et le « souci de soi », qu'il refond en une esthétique de l'existence, self-fashioning que Hadot lui reprochera d'avoir coupé de sa visée universelle.",
+    "en": "<ph id='foucault'>Foucault</ph> borrows from <ph id='hadot'>Hadot</ph> the ancient <c>spiritual exercises</c> and the \"care of the self\", which he recasts into an aesthetics of existence, a self-fashioning Hadot will reproach him for having cut off from its universal aim."
+  },
+  "sources": [
+    {
+      "fr": "Foucault, Histoire de la sexualité III, Le Souci de soi (1984)",
+      "en": "Foucault, The History of Sexuality III, The Care of the Self (1984)"
+    },
+    {
+      "fr": "Hadot, Exercices spirituels et philosophie antique",
+      "en": "Hadot, Philosophy as a Way of Life"
+    }
+  ],
+  "updatedAt": "2026-07-03T00:00:00.000Z"
+}

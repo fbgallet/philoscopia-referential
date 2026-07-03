@@ -1,0 +1,29 @@
+{
+  "id": "heraclitus-to-stoicism",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "heraclitus"
+  },
+  "to": {
+    "kind": "MOVEMENT",
+    "slug": "stoicism"
+  },
+  "directness": "INDIRECT",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Le <mv id='stoicism'>stoïcisme</mv> reprend d'<ph id='heraclitus'>Héraclite</ph> sa physique du feu et du <c>logos</c> : un principe rationnel et divin traverse et ordonne un cosmos en perpétuel devenir, jusqu'à l'embrasement qui le résorbe et le régénère.",
+    "en": "<mv id='stoicism'>Stoicism</mv> takes up from <ph id='heraclitus'>Heraclitus</ph> its physics of fire and <c>logos</c>: a rational, divine principle pervades and orders a cosmos in perpetual becoming, down to the conflagration that reabsorbs and regenerates it."
+  },
+  "sources": [
+    {
+      "fr": "Cléanthe, Hymne à Zeus",
+      "en": "Cleanthes, Hymn to Zeus"
+    },
+    {
+      "fr": "Diogène Laërce, Vies et doctrines des philosophes illustres, VII",
+      "en": "Diogenes Laertius, Lives of the Eminent Philosophers, VII"
+    }
+  ],
+  "updatedAt": "2026-07-03T00:00:00.000Z"
+}

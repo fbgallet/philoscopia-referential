@@ -214,7 +214,7 @@ By opposing nature to nomos, Cynicism presupposes a criterion of the good indepe
 
 ## Influence on
 
-- **[Stoicism](../movements/stoicism.md)** (continues) : Zeno of Citium was a pupil of Crates the Cynic: [Stoicism](../movements/stoicism.md) takes from [Cynicism](../movements/cynicism.md) the ideal of self-sufficiency and life “according to nature”, but tempers its provocation and anticonformism by embedding it in a systematic physics and logic.
+- **[Stoicism](../movements/stoicism.md)** (continues) : [Stoicism](../movements/stoicism.md) arises in the wake of [Cynicism](../movements/cynicism.md), from which it takes the ideal of self-sufficiency, life “according to nature” and cosmopolitanism; but it tempers its provocation and anticonformism by embedding it in a systematic physics and logic, where virtue is no longer a defiance of convention but accord with the reason that orders the world.
 
 ---
 

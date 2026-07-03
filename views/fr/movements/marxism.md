@@ -246,10 +246,6 @@ Les droits formels (voter, contracter, posséder) laissent intacte la contrainte
 
 *Sources : Marx, Manuscrits de 1844 ; Le Capital, III*
 
-## Influencé par
-
-- **[Les Lumières](../movements/enlightenment.md)** (réinterprète) : [Le marxisme](../movements/marxism.md) reprend des Lumières l'idée d'émancipation et d'une histoire orientée, mais en déplace le moteur : ce n'est plus le progrès des idées, c'est la lutte des classes. La raison « bourgeoise » et ses droits abstraits y deviennent l'objet même de la critique, retournés contre leur prétention à l'universel.
-
 ## Influence sur
 
 - **[Camus](../philosophers/camus.md)** (réagit contre) : L'Homme révolté s'écrit contre le [marxisme](../movements/marxism.md) comme religion de l'Histoire : [Camus](../philosophers/camus.md) refuse que la fin révolutionnaire justifie la terreur et oppose la révolte, qui pose une limite, à la révolution qui l'abolit.

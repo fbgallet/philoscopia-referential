@@ -1,0 +1,29 @@
+{
+  "id": "spinoza-to-naess",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "spinoza"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "naess"
+  },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='naess'>Næss</ph> fonde son écologie profonde sur <ph id='spinoza'>Spinoza</ph> : la Nature comme unique substance dont nous sommes des modes, et la réalisation de soi élargie à l'ensemble du vivant, contre l'homme séparé et maître.",
+    "en": "<ph id='naess'>Næss</ph> grounds his deep ecology in <ph id='spinoza'>Spinoza</ph>: Nature as the one substance of which we are modes, and self-realization widened to the whole of the living, against the separate, mastering human being."
+  },
+  "sources": [
+    {
+      "fr": "Næss, « Spinoza and Ecology » (1977)",
+      "en": "Næss, \"Spinoza and Ecology\" (1977)"
+    },
+    {
+      "fr": "Næss, Écologie, communauté et style de vie (1976)",
+      "en": "Næss, Ecology, Community and Lifestyle (1976)"
+    }
+  ],
+  "updatedAt": "2026-07-03T00:00:00.000Z"
+}

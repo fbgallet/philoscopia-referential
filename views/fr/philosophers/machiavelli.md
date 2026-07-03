@@ -8,6 +8,10 @@ Secrétaire de la république de Florence et fondateur de la pensée politique m
 
 > Profil embryonnaire : seule cette mini-fiche existe pour l'instant, les positions sourcées sur les axes restent à rédiger. Contributions bienvenues.
 
+## Influence sur
+
+- **[Spinoza](../philosophers/spinoza.md)** (réinterprète) : [Spinoza](../philosophers/spinoza.md) salue en [Machiavel](../philosophers/machiavelli.md) un esprit très pénétrant et reprend son réalisme, l'analyse des hommes tels qu'ils sont ; mais il met cette lucidité au service d'une fin inverse, la démocratie et la liberté, non le maintien du prince.
+
 ---
 
 *Généré depuis le corpus JSON de `data/`. Ne pas éditer à la main, voir [CONTRIBUTING](../../../CONTRIBUTING.md).*

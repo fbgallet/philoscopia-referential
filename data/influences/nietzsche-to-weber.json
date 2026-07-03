@@ -1,0 +1,29 @@
+{
+  "id": "nietzsche-to-weber",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "nietzsche"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "weber"
+  },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='weber'>Weber</ph>, pour qui l'honnêteté d'un penseur se mesure à sa position envers <ph id='nietzsche'>Nietzsche</ph> et Marx, transpose en sociologie le soupçon généalogique : l'analyse des valeurs, du ressentiment et du « désenchantement du monde » doit beaucoup au diagnostic nietzschéen.",
+    "en": "<ph id='weber'>Weber</ph>, for whom a thinker's honesty is measured by his stance toward <ph id='nietzsche'>Nietzsche</ph> and Marx, transposes the genealogical suspicion into sociology: his analysis of values, of ressentiment and of the \"disenchantment of the world\" owes much to the Nietzschean diagnosis."
+  },
+  "sources": [
+    {
+      "fr": "Weber, Le Savant et le politique",
+      "en": "Weber, Science as a Vocation / Politics as a Vocation"
+    },
+    {
+      "fr": "Weber, L'Éthique protestante et l'esprit du capitalisme",
+      "en": "Weber, The Protestant Ethic and the Spirit of Capitalism"
+    }
+  ],
+  "updatedAt": "2026-07-03T00:00:00.000Z"
+}

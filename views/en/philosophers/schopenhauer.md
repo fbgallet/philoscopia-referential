@@ -16,6 +16,7 @@ German pessimist philosopher: he sees the world as the expression of a blind wil
 
 ## Influence on
 
+- **[Sigmund Freud](../philosophers/freud.md)** (reinterprets) : [Freud](../philosophers/freud.md) finds in [Schopenhauer](../philosophers/schopenhauer.md), whom he says he read little, the intuition of a blind will beneath clear consciousness: the primacy of drive, repression, and sexuality as an obscure force are sensed there before psychoanalysis brings them to light.
 - **[Nietzsche](../philosophers/nietzsche.md)** (reacts against) : As a young man, [Nietzsche](../philosophers/nietzsche.md) hails [Schopenhauer](../philosophers/schopenhauer.md) as his educator and inherits his tragic reading of existence and the centrality of the will. He then turns the inheritance around: against pessimism and the denial of the will to live, he sets the affirmation of life and the will to power.
 
 ---

@@ -2,7 +2,7 @@
 
 # Thomas Paine
 
-*1737 – 1809 · Anglo-American*
+*1737 – 1809 · Anglo-American · [Liberalism](../movements/liberalism.md)*
 
 Thinker of the American and French revolutions, defender of natural rights who, against Burke, denied the authority of the dead over the living.
 

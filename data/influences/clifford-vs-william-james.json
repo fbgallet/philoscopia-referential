@@ -1,0 +1,29 @@
+{
+  "id": "clifford-vs-william-james",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "clifford"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "william-james"
+  },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "« The Will to Believe » de <ph id='william-james'>James</ph> répond frontalement à <ph id='clifford'>Clifford</ph> : contre la maxime qu'il est toujours fautif de croire sans preuve suffisante, James défend le droit, sur les questions vitales que la preuve ne tranche pas, de risquer une croyance.",
+    "en": "<ph id='william-james'>James</ph>'s \"The Will to Believe\" answers <ph id='clifford'>Clifford</ph> head-on: against the maxim that it is always wrong to believe on insufficient evidence, James defends the right, on the vital questions that evidence cannot settle, to risk a belief."
+  },
+  "sources": [
+    {
+      "fr": "James, La Volonté de croire (1896)",
+      "en": "James, The Will to Believe (1896)"
+    },
+    {
+      "fr": "Clifford, « L'Éthique de la croyance » (1877)",
+      "en": "Clifford, \"The Ethics of Belief\" (1877)"
+    }
+  ],
+  "updatedAt": "2026-07-03T00:00:00.000Z"
+}

@@ -16,6 +16,7 @@ Philosophe allemand de l'être : il pense l'existence humaine comme un être-pou
 
 ## Influence sur
 
+- **[Hannah Arendt](../philosophers/arendt.md)** (réinterprète) : Élève de [Heidegger](../philosophers/heidegger.md), [Arendt](../philosophers/arendt.md) déplace son analyse de l'existence vers le politique : contre le primat de la mort, elle pense la natalité, la capacité de commencer, et l'action concertée entre les hommes comme lieu propre de la liberté.
 - **[Merleau-Ponty](../philosophers/merleau-ponty.md)** (réinterprète) : [Merleau-Ponty](../philosophers/merleau-ponty.md) reprend l'être-au-monde de [Heidegger](../philosophers/heidegger.md) et le monde pré-théorique, mais les reconduit au corps percevant : c'est la chair, et non l'analytique de l'être, qui ouvre originairement le monde.
 - **[Sartre](../philosophers/sartre.md)** (réinterprète) : [Sartre](../philosophers/sartre.md) existentialise les analyses de [Heidegger](../philosophers/heidegger.md), l'être-au-monde, la facticité, l'angoisse, dans un cadre centré sur la liberté et le projet, que Heidegger récusera comme un contresens humaniste.
 - **[Jonas](../philosophers/jonas.md)** (réagit contre) : Élève de [Heidegger](../philosophers/heidegger.md), [Jonas](../philosophers/jonas.md) rompt avec son existentialisme indifférent à la nature pour fonder une ontologie du vivant et une éthique de la responsabilité envers les générations futures.

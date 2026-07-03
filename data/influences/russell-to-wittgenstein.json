@@ -1,0 +1,29 @@
+{
+  "id": "russell-to-wittgenstein",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "russell"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "wittgenstein"
+  },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Élève de <ph id='russell'>Russell</ph> à Cambridge, <ph id='wittgenstein'>Wittgenstein</ph> reçoit de lui la logique nouvelle et l'analyse comme méthode, mais retourne cet héritage : le <w>Tractatus</w> refond l'atomisme logique en une théorie du langage comme image du monde, jusqu'à cette limite où ce qui compte le plus « ne peut que se montrer ». Russell reconnaîtra en retour la profondeur de son ancien élève.",
+    "en": "<ph id='russell'>Russell</ph>'s student at Cambridge, <ph id='wittgenstein'>Wittgenstein</ph> received from him the new logic and analysis as method, but turned that inheritance around: the <w>Tractatus</w> recasts logical atomism into a theory of language as a picture of the world, up to that limit where what matters most \"can only show itself\". Russell, in turn, acknowledged the depth of his former pupil."
+  },
+  "sources": [
+    {
+      "fr": "Wittgenstein, Tractatus logico-philosophicus (1921)",
+      "en": "Wittgenstein, Tractatus Logico-Philosophicus (1921)"
+    },
+    {
+      "fr": "Russell, introduction au Tractatus",
+      "en": "Russell, introduction to the Tractatus"
+    }
+  ],
+  "updatedAt": "2026-07-03T00:00:00.000Z"
+}

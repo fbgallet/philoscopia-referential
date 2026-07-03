@@ -317,9 +317,11 @@ Reprenant Berkeley, Hume nie l'existence d'idées abstraites générales : une i
 
 ## Influence sur
 
-- **[Bentham](../philosophers/bentham.md)** (transmet) : [Bentham](../philosophers/bentham.md) rapporte qu'à la lecture de [Hume](../philosophers/hume.md) les écailles lui tombèrent des yeux : il y trouve le naturalisme psychologique et l'idée que l'utilité est la mesure du bien, qu'il érige en principe de l'[utilitarisme](../movements/utilitarianism.md).
+- **[Smith](../philosophers/adam-smith.md)** (prolonge) : Ami intime de [Hume](../philosophers/hume.md), [Smith](../philosophers/adam-smith.md) prolonge sa morale des sentiments : la sympathie est le ressort du jugement moral. Il la refond toutefois autour du spectateur impartial, tribunal intérieur qui corrige nos partialités.
+- **[Bentham](../philosophers/bentham.md)** (prolonge) : [Bentham](../philosophers/bentham.md) rapporte qu'à la lecture de [Hume](../philosophers/hume.md) les écailles lui tombèrent des yeux : il y trouve le naturalisme psychologique et l'idée que l'utilité est la mesure du bien, qu'il érige en principe de l'[utilitarisme](../movements/utilitarianism.md).
 - **[Kant](../philosophers/kant.md)** (réagit contre) : [Hume](../philosophers/hume.md) tire de l'empirisme une conclusion sceptique : aucune impression ne nous livre la connexion nécessaire entre une cause et son effet, seulement une habitude. [Kant](../philosophers/kant.md) dit en avoir été tiré de son « sommeil dogmatique » et bâtit la philosophie critique contre ce scepticisme, en logeant la causalité dans les conditions a priori de l'expérience plutôt que dans les choses.
 - **[Popper](../philosophers/popper.md)** (réagit contre) : [Popper](../philosophers/popper.md) tient le problème de l'induction de [Hume](../philosophers/hume.md), qu'aucune accumulation d'observations ne justifie une loi, pour insoluble, et le contourne : la science ne vérifie pas, elle réfute ; une théorie ne vaut que si elle est falsifiable.
+- **[Thomas Reid](../philosophers/reid.md)** (réagit contre) : [Reid](../philosophers/reid.md) bâtit sa philosophie du sens commun contre le scepticisme de [Hume](../philosophers/hume.md) : si les principes de l'empirisme mènent à douter du monde extérieur et du moi, c'est qu'il faut leur préférer les certitudes premières que la nature impose à tout homme.
 
 ---
 

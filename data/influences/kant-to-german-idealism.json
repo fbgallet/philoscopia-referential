@@ -1,0 +1,17 @@
+{
+  "id": "kant-to-german-idealism",
+  "from": { "kind": "PHILOSOPHER", "slug": "kant" },
+  "to": { "kind": "MOVEMENT", "slug": "german-idealism" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "L'idéalisme allemand naît de <ph id='kant'>Kant</ph> et contre lui : il reprend son tournant transcendantal, le sujet qui constitue l'expérience, mais refuse la <c>chose en soi</c> inconnaissable où Kant arrêtait la raison. <ph id='hegel'>Hegel</ph> tient cette limite pour une inconséquence et transforme le criticisme en idéalisme absolu, où la raison rejoint la totalité du réel ; il conteste la fixité des oppositions kantiennes, phénomène et chose en soi, en les intégrant au mouvement <c>dialectique</c> de l'Esprit. Kant, lui, avait explicitement récusé ce dépassement.",
+    "en": "German Idealism is born from <ph id='kant'>Kant</ph> and against him: it takes up his transcendental turn, the subject that constitutes experience, but refuses the unknowable <c>thing in itself</c> at which Kant halted reason. <ph id='hegel'>Hegel</ph> treats that limit as an inconsistency and transforms criticism into absolute idealism, in which reason reaches the totality of the real; he contests the fixity of the Kantian oppositions, appearance and thing in itself, by integrating them into the <c>dialectical</c> movement of Spirit. Kant, for his part, had explicitly disowned this overcoming."
+  },
+  "sources": [
+    { "fr": "Hegel, Science de la logique", "en": "Hegel, Science of Logic" },
+    { "fr": "Hegel, Encyclopédie des sciences philosophiques (§ sur la philosophie critique)", "en": "Hegel, Encyclopedia of the Philosophical Sciences (§ on critical philosophy)" }
+  ],
+  "updatedAt": "2026-07-03T00:00:00.000Z"
+}

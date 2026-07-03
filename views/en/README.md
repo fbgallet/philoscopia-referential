@@ -3,8 +3,8 @@
 # Corpus
 
 - [Axes](axes/README.md) (75)
-- [Philosophers](philosophers/README.md) (143)
-- [Movements](movements/README.md) (20)
+- [Philosophers](philosophers/README.md) (144)
+- [Movements](movements/README.md) (24)
 - [Characters](characters/README.md) (2)
 - [Glossary](glossary/README.md) (179)
 - [Works](works/README.md) (90)

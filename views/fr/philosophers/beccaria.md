@@ -8,6 +8,10 @@ Juriste et philosophe italien des [Lumières](../movements/enlightenment.md), au
 
 > Profil embryonnaire : seule cette mini-fiche existe pour l'instant, les positions sourcées sur les axes restent à rédiger. Contributions bienvenues.
 
+## Influence sur
+
+- **[Bentham](../philosophers/bentham.md)** (prolonge) : [Bentham](../philosophers/bentham.md) salue en [Beccaria](../philosophers/beccaria.md) un maître : sa réforme pénale, qui mesure la peine à l'utilité sociale et non à la vengeance, offre le premier modèle du calcul des peines et des plaisirs que l'utilitarisme érige en principe.
+
 ---
 
 *Généré depuis le corpus JSON de `data/`. Ne pas éditer à la main, voir [CONTRIBUTING](../../../CONTRIBUTING.md).*

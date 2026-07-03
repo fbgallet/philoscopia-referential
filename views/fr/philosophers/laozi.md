@@ -32,7 +32,7 @@ Contre le volontarisme qui veut plier le cours des choses à un dessein, Laozi o
 
 *positionné · explicite dans les textes · majeure*
 
-Techno-optimisme 90% · Techno-critique 10%
+Techno-critique 90% · Techno-optimisme 10%
 
 Le perfectionnement des moyens n'est pas pour Laozi un progrès mais une source d'agitation et de ruse qui éloigne du [Dao](../glossary/dao.md). Sa cité idéale possède des machines et des armes mais on ne s'en sert pas : la multiplication des outils habiles fait croître l'artifice et le désir, là où la [simplicité](../glossary/ziran.md) ramène à l'essentiel. Cette méfiance envers l'ingéniosité instrumentale, posée bien avant [Heidegger](../philosophers/heidegger.md) et Ellul, fait de lui un ancêtre lointain de la techno-critique.
 

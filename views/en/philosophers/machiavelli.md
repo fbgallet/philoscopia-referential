@@ -8,6 +8,10 @@ Secretary of the Florentine republic and founder of modern political thought: he
 
 > Stub profile: only this mini-card exists so far; the sourced axis positions remain to be authored. Contributions welcome.
 
+## Influence on
+
+- **[Spinoza](../philosophers/spinoza.md)** (reinterprets) : [Spinoza](../philosophers/spinoza.md) salutes [Machiavelli](../philosophers/machiavelli.md) as a most penetrating mind and takes up his realism, the analysis of human beings as they are; but he puts that lucidity in the service of an opposite end, democracy and freedom, not the preservation of the prince.
+
 ---
 
 *Generated from the JSON corpus in `data/`. Do not edit by hand; see [CONTRIBUTING](../../../CONTRIBUTING.md).*

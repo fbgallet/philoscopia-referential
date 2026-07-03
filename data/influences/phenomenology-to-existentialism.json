@@ -1,0 +1,18 @@
+{
+  "id": "phenomenology-to-existentialism",
+  "from": { "kind": "MOVEMENT", "slug": "phenomenology" },
+  "to": { "kind": "MOVEMENT", "slug": "existentialism" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "L'existentialisme du XXe siècle hérite de la <mv id='phenomenology'>phénoménologie</mv> sa méthode : décrire les phénomènes tels qu'ils se donnent à la conscience, en deçà des théories. Mais il en déplace l'objet, de la conscience constituante vers l'existence concrète, la <c>liberté</c>, l'angoisse et le corps : <ph id='sartre'>Sartre</ph> tire de l'intentionnalité une conscience vouée au néant et au choix, <ph id='heidegger'>Heidegger</ph> refonde la description en analytique de l'être-au-monde. Les héritiers refaçonnent jusqu'à la méthode elle-même, <ph id='merleau-ponty'>Merleau-Ponty</ph> l'ancrant dans le corps percevant.",
+    "en": "Twentieth-century existentialism inherits its method from <mv id='phenomenology'>phenomenology</mv>: to describe phenomena as they give themselves to consciousness, prior to theories. But it shifts the object, from constituting consciousness toward concrete existence, <c>freedom</c>, anguish and the body: <ph id='sartre'>Sartre</ph> draws from intentionality a consciousness given over to nothingness and choice, <ph id='heidegger'>Heidegger</ph> recasts description as an analytic of being-in-the-world. The heirs reshape even the method itself, <ph id='merleau-ponty'>Merleau-Ponty</ph> anchoring it in the perceiving body."
+  },
+  "sources": [
+    { "fr": "Husserl, Idées directrices pour une phénoménologie", "en": "Husserl, Ideas Pertaining to a Pure Phenomenology" },
+    { "fr": "Sartre, L'Être et le Néant", "en": "Sartre, Being and Nothingness" },
+    { "fr": "Heidegger, Être et Temps", "en": "Heidegger, Being and Time" }
+  ],
+  "updatedAt": "2026-07-03T00:00:00.000Z"
+}

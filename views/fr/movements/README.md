@@ -8,11 +8,15 @@
 - [Cynisme](cynicism.md) (400 av. J.-C. – 200 av. J.-C.) : Vivre selon la nature et non selon la convention, libre par l'[autosuffisance](../glossary/autarkeia.md) et le [franc-parler](../glossary/parrhesia.md).
 - [Empirisme](empiricism.md) (1620 – 1776) : Toutes nos idées viennent de l'expérience : rien n'est dans l'esprit qui n'ait d'abord été dans les sens.
 - [Épicurisme](epicureanism.md) (307 av. J.-C. – 200) : Le [plaisir comme absence de trouble](../glossary/hedonism.md) : se libérer des vaines peurs pour vivre une [vie tranquille](../glossary/ataraxia.md).
+- [Éthique environnementale](environmental-ethics.md) (1949 – ?) : Étendre le [cercle moral](../axes/moral-circle.md) au-delà de l'humain : animaux, vivant, écosystèmes comptent, et l'homme n'est pas maître de la nature mais [membre](../axes/human-place-nature.md) d'une communauté.
 - [Existentialisme](existentialism.md) (1843 – 1980) : L'[existence précède l'essence](../axes/essence.md) : condamnés à être [libres](../axes/freedom.md), nous nous inventons.
+- [Idéalisme allemand](german-idealism.md) (1781 – 1831) : Le réel n'est pas matière étrangère à l'esprit mais [Esprit](../axes/reality-nature.md) qui se déploie : la raison peut connaître l'absolu que [Kant](../philosophers/kant.md) disait hors d'atteinte.
 - [Le romantisme](romanticism.md) (1795 – 1850) : Contre la raison froide des Lumières, les droits du sentiment, de l'imagination et du génie, et le mystère d'une nature vivante.
 - [Les Lumières](enlightenment.md) (1685 – 1804) : Aie le courage de te servir de ton propre entendement : par la raison et les [lumières](../glossary/lumieres.md), l'humanité peut s'émanciper de la tutelle des autorités, de la superstition et de l'arbitraire.
+- [Libéralisme](liberalism.md) (1689 – ?) : L'[individu](../axes/individual-society.md) et ses libertés d'abord : le pouvoir n'est légitime que limité, fondé sur le consentement et borné par des droits.
 - [Marxisme](marxism.md) (1848 – ?) : Les philosophes n'ont fait qu'interpréter le monde : il s'agit de le **transformer**.
 - [Phénoménologie](phenomenology.md) (1900 – ?) : Revenir « aux choses mêmes » : décrire l'expérience vécue telle qu'elle se donne à la conscience.
+- [Philosophie analytique](analytic-philosophy.md) (1900 – ?) : La philosophie n'apporte ni vérités sur le monde ni art de vivre : elle [clarifie la pensée](../axes/metaphilosophy.md), par l'analyse logique du langage et des concepts.
 - [Platonisme](platonism.md) (387 av. J.-C. – 529) : Le réel véritable n'est pas le sensible mais les [Idées](../glossary/theory-of-forms.md), et l'âme s'élève vers le Bien.
 - [Pragmatisme](pragmatism.md) (1870 – ?) : Une idée vaut ce que vaut sa différence pratique : le vrai est ce qui se vérifie dans l'enquête.
 - [Rationalisme](rationalism.md) (1637 – 1716) : La [raison, et non les sens](../axes/knowledge-source.md), donne accès à l'ordre vrai du réel.

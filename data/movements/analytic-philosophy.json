@@ -1,0 +1,81 @@
+{
+  "kind": "MOVEMENT",
+  "id": "analytic-philosophy",
+  "name": {
+    "fr": "Philosophie analytique",
+    "en": "Analytic Philosophy"
+  },
+  "tagline": {
+    "fr": "La philosophie n'apporte ni vérités sur le monde ni art de vivre : elle <ax id='METAPHILOSOPHY' pole='CLARIFICATION'>clarifie la pensée</ax>, par l'analyse logique du langage et des concepts.",
+    "en": "Philosophy delivers neither truths about the world nor an art of living: it <ax id='METAPHILOSOPHY' pole='CLARIFICATION'>clarifies thought</ax>, through the logical analysis of language and concepts."
+  },
+  "summary": {
+    "fr": "Née au tournant du XXe siècle de la révolte de <ph id='russell'>Russell</ph> et de <ph>Moore</ph> contre l'idéalisme alors régnant, et armée par la logique nouvelle de <ph>Frege</ph>, la philosophie analytique fait de l'<c>analyse</c> logique du langage et des concepts sa méthode, et de la clarté son idéal. À la construction de grands systèmes elle préfère l'examen patient d'arguments précis ; à sa pointe, elle tient bien des problèmes philosophiques pour des confusions de langage, à dissoudre plutôt qu'à résoudre. <ph id='wittgenstein'>Wittgenstein</ph> en illustre les deux âges : il rêve d'abord d'un langage aux contours logiques stricts, où l'on ne dirait que ce qui peut être clairement dit, avant de se tourner vers le langage de tous les jours, dont la variété des usages fait, selon lui, s'évanouir bien des problèmes philosophiques. Plus une tradition-méthode qu'une doctrine commune, elle rassemble des positions très diverses et domine depuis la philosophie de langue anglaise, de l'épistémologie à l'éthique.",
+    "en": "Born at the turn of the twentieth century from the revolt of <ph id='russell'>Russell</ph> and <ph>Moore</ph> against the then-reigning idealism, and armed with the new logic of <ph>Frege</ph>, analytic philosophy makes the logical <c>analysis</c> of language and concepts its method, and clarity its ideal. To the building of grand systems it prefers the patient examination of precise arguments; at its sharpest, it holds many philosophical problems to be confusions of language, to be dissolved rather than solved. <ph id='wittgenstein'>Wittgenstein</ph> illustrates its two ages: he first dreams of a language with strict logical contours, in which one would say only what can be clearly said, before turning to everyday language, whose sheer variety of uses makes, on his account, many philosophical problems evaporate. More a method-tradition than a shared doctrine, it gathers widely divergent positions and has dominated English-language philosophy ever since, from epistemology to ethics."
+  },
+  "period": {
+    "from": 1900
+  },
+  "keyFigures": [
+    {
+      "slug": "russell",
+      "name": { "fr": "Russell", "en": "Russell" }
+    },
+    {
+      "slug": "wittgenstein",
+      "name": { "fr": "Wittgenstein", "en": "Wittgenstein" }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "METAPHILOSOPHY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0, 0, 0, 1]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Ce qui unit la tradition analytique n'est pas une thèse sur le monde mais une idée de la tâche philosophique : <ax id='METAPHILOSOPHY' pole='CLARIFICATION'>clarifier la pensée</ax>. Philosopher, c'est analyser concepts et arguments, en éprouver les fondements et dénouer les confusions, souvent nichées dans une grammaire trompeuse. La clarté n'y est pas un préalable au travail : elle en est le but. De la logique de <ph id='russell'>Russell</ph> à l'attention au langage ordinaire du second <ph id='wittgenstein'>Wittgenstein</ph>, la méthode prime sur le système.",
+          "en": "What unites the analytic tradition is not a thesis about the world but a conception of the philosophical task: to <ax id='METAPHILOSOPHY' pole='CLARIFICATION'>clarify thought</ax>. To philosophize is to analyze concepts and arguments, to test their grounds and untangle confusions, often lodged in a misleading grammar. Clarity here is not a preliminary to the work: it is its goal. From <ph id='russell'>Russell</ph>'s logic to the later <ph id='wittgenstein'>Wittgenstein</ph>'s attention to ordinary language, method takes precedence over system."
+        },
+        "quote": {
+          "text": {
+            "fr": "La philosophie est une lutte contre l'ensorcellement de notre entendement par les moyens de notre langage.",
+            "en": "Philosophy is a battle against the bewitchment of our intelligence by means of language."
+          },
+          "source": {
+            "fr": "Wittgenstein, Recherches philosophiques, § 109",
+            "en": "Wittgenstein, Philosophical Investigations, § 109"
+          }
+        },
+        "references": [
+          {
+            "fr": "Russell, « De la dénotation » (1905)",
+            "en": "Russell, \"On Denoting\" (1905)"
+          },
+          {
+            "fr": "Wittgenstein, Recherches philosophiques",
+            "en": "Wittgenstein, Philosophical Investigations"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "METAPHILOSOPHY",
+      "thesis": {
+        "fr": "La tâche de la philosophie n'est pas de bâtir des systèmes mais de <ax id='METAPHILOSOPHY' pole='CLARIFICATION'>clarifier la pensée</ax> : analyser le langage et les concepts, dissoudre les faux problèmes.",
+        "en": "Philosophy's task is not to build systems but to <ax id='METAPHILOSOPHY' pole='CLARIFICATION'>clarify thought</ax>: to analyze language and concepts, and to dissolve pseudo-problems."
+      }
+    }
+  ],
+  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

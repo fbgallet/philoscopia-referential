@@ -215,7 +215,7 @@ Comme tout le [bouddhisme](../movements/buddhism.md), le Madhyamaka ordonne l'ex
 
 ## Influence sur
 
-- **[Dōgen](../philosophers/dogen.md)** (transmet) : Par la tradition mahāyāna et chan, [Dōgen](../philosophers/dogen.md) hérite d'une compréhension de la vacuité fortement marquée par [Nāgārjuna](../philosophers/nagarjuna.md), qu'il met en œuvre dans sa pensée de l'assise méditative et de l'impermanence.
+- **[Dōgen](../philosophers/dogen.md)** (réinterprète) : Par la tradition mahāyāna et chan, [Dōgen](../philosophers/dogen.md) hérite d'une compréhension de la vacuité fortement marquée par [Nāgārjuna](../philosophers/nagarjuna.md), qu'il met en œuvre dans sa pensée de l'assise méditative et de l'impermanence.
 
 ---
 

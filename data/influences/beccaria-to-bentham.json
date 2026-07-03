@@ -1,0 +1,29 @@
+{
+  "id": "beccaria-to-bentham",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "beccaria"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "bentham"
+  },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='bentham'>Bentham</ph> salue en <ph id='beccaria'>Beccaria</ph> un maître : sa réforme pénale, qui mesure la peine à l'utilité sociale et non à la vengeance, offre le premier modèle du calcul des peines et des plaisirs que l'utilitarisme érige en principe.",
+    "en": "<ph id='bentham'>Bentham</ph> hails <ph id='beccaria'>Beccaria</ph> as a master: his penal reform, which measures punishment by social utility rather than vengeance, offers the first model of the calculus of pains and pleasures that utilitarianism erects into a principle."
+  },
+  "sources": [
+    {
+      "fr": "Beccaria, Des délits et des peines (1764)",
+      "en": "Beccaria, On Crimes and Punishments (1764)"
+    },
+    {
+      "fr": "Bentham, Introduction aux principes de la morale et de la législation",
+      "en": "Bentham, Introduction to the Principles of Morals and Legislation"
+    }
+  ],
+  "updatedAt": "2026-07-03T00:00:00.000Z"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "augustine-to-arendt",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "augustine"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "arendt"
+  },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='arendt'>Arendt</ph> consacre sa thèse à l'amour chez <ph id='augustine'>Augustin</ph>, où elle puise le motif qui traversera son œuvre : l'homme comme « commencement » qui, en naissant, introduit du neuf dans le monde.",
+    "en": "<ph id='arendt'>Arendt</ph> devotes her dissertation to love in <ph id='augustine'>Augustine</ph>, where she draws the motif that will run through her work: the human being as a \"beginning\" who, in being born, introduces something new into the world."
+  },
+  "sources": [
+    {
+      "fr": "Arendt, Le Concept d'amour chez Augustin (1929)",
+      "en": "Arendt, Love and Saint Augustine (1929)"
+    }
+  ],
+  "updatedAt": "2026-07-03T00:00:00.000Z"
+}

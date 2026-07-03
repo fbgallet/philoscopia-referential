@@ -1,0 +1,25 @@
+{
+  "id": "bergson-to-jankelevitch",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "bergson"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "jankelevitch"
+  },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Grand lecteur de <ph id='bergson'>Bergson</ph>, auquel il consacre son premier livre, <ph id='jankelevitch'>Jankélévitch</ph> prolonge sa pensée de la <c>durée</c> et de l'intuition dans une philosophie de l'instant, de l'irréversible et du « je-ne-sais-quoi ».",
+    "en": "A great reader of <ph id='bergson'>Bergson</ph>, to whom he devotes his first book, <ph id='jankelevitch'>Jankélévitch</ph> extends his thought of <c>duration</c> and intuition into a philosophy of the instant, of the irreversible, and of the \"I-know-not-what\"."
+  },
+  "sources": [
+    {
+      "fr": "Jankélévitch, Henri Bergson (1931)",
+      "en": "Jankélévitch, Henri Bergson (1931)"
+    }
+  ],
+  "updatedAt": "2026-07-03T00:00:00.000Z"
+}

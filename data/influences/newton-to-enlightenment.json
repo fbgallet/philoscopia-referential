@@ -3,7 +3,7 @@
   "from": { "kind": "PHILOSOPHER", "slug": "newton" },
   "to": { "kind": "MOVEMENT", "slug": "enlightenment" },
   "directness": "ATTESTED",
-  "mode": "TRANSMITS",
+  "mode": "CONTINUES",
   "strength": "STRONG",
   "note": {
     "fr": "La mécanique de <ph id='newton'>Newton</ph>, qui déduit le système du monde de quelques lois mathématiques, devient le paradigme du savoir pour les Lumières : <ph id='voltaire'>Voltaire</ph> la popularise en France, et le programme d'étendre la « méthode newtonienne » à la morale et à la société traverse tout le siècle.",

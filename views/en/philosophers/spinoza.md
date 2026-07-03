@@ -305,10 +305,12 @@ At the heart of love Spinoza sees neither lack nor gift but a joy: to love is to
 ## Influenced by
 
 - **[Descartes](../philosophers/descartes.md)** (reinterprets) : [Spinoza](../philosophers/spinoza.md) takes up the demonstrative rigour and method of [Descartes](../philosophers/descartes.md), but overturns his metaphysics: instead of two substances and an external God, a single infinite substance of which everything is a mode.
+- **[Machiavelli](../philosophers/machiavelli.md)** (reinterprets) : [Spinoza](../philosophers/spinoza.md) salutes [Machiavelli](../philosophers/machiavelli.md) as a most penetrating mind and takes up his realism, the analysis of human beings as they are; but he puts that lucidity in the service of an opposite end, democracy and freedom, not the preservation of the prince.
 
 ## Influence on
 
 - **[Hegel](../philosophers/hegel.md)** (reinterprets) : [Hegel](../philosophers/hegel.md) holds Spinozism to be an unavoidable passage: “to begin to philosophise is to be a Spinozist”. He takes up the demand for a single absolute, but faults [Spinoza](../philosophers/spinoza.md)'s substance for being inert and remakes it as subject.
+- **[Arne Næss](../philosophers/naess.md)** (reinterprets) : [Næss](../philosophers/naess.md) grounds his deep ecology in [Spinoza](../philosophers/spinoza.md): Nature as the one substance of which we are modes, and self-realization widened to the whole of the living, against the separate, mastering human being.
 - **[Romanticism](../movements/romanticism.md)** (reinterprets) : [Romanticism](../movements/romanticism.md) reawakens [Spinoza](../philosophers/spinoza.md), long held to be accursed: the pantheism controversy (Jacobi, 1785) places him back at the centre, and his single, immanent, living God-nature becomes the soul of [Schelling](../philosophers/schelling.md)'s [Naturphilosophie](../glossary/naturphilosophie.md) and of [Novalis](../philosophers/novalis.md)'s cosmic piety. The Romantics make of him less the cold geometer of the Ethics than a mystic of the unity of the whole, the « God-intoxicated man ».
 
 ---

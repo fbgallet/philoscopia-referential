@@ -1,0 +1,29 @@
+{
+  "id": "wittgenstein-to-anscombe",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "wittgenstein"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "anscombe"
+  },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Élève, traductrice et exécutrice littéraire de <ph id='wittgenstein'>Wittgenstein</ph>, <ph id='anscombe'>Anscombe</ph> prolonge sa manière : elle porte l'attention au langage ordinaire vers l'action et l'intention, fondant la philosophie de l'action contemporaine.",
+    "en": "<ph id='wittgenstein'>Wittgenstein</ph>'s student, translator and literary executor, <ph id='anscombe'>Anscombe</ph> extends his manner: she carries the attention to ordinary language toward action and intention, founding contemporary philosophy of action."
+  },
+  "sources": [
+    {
+      "fr": "Anscombe, L'Intention (1957)",
+      "en": "Anscombe, Intention (1957)"
+    },
+    {
+      "fr": "Anscombe, traduction des Recherches philosophiques",
+      "en": "Anscombe, translation of the Philosophical Investigations"
+    }
+  ],
+  "updatedAt": "2026-07-03T00:00:00.000Z"
+}

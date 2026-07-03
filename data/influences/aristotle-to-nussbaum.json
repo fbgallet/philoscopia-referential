@@ -1,0 +1,29 @@
+{
+  "id": "aristotle-to-nussbaum",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "aristotle"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "nussbaum"
+  },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='nussbaum'>Nussbaum</ph> renoue avec l'éthique d'<ph id='aristotle'>Aristote</ph> : le bien humain est l'épanouissement de capacités propres à notre nature. Elle en tire l'approche des <c>capabilités</c>, liste des libertés réelles qu'une société juste doit garantir à chacun.",
+    "en": "<ph id='nussbaum'>Nussbaum</ph> renews the ethics of <ph id='aristotle'>Aristotle</ph>: the human good is the flourishing of capacities proper to our nature. From it she draws the <c>capabilities</c> approach, a list of the real freedoms a just society must guarantee to each person."
+  },
+  "sources": [
+    {
+      "fr": "Nussbaum, Femmes et développement humain (2000)",
+      "en": "Nussbaum, Women and Human Development (2000)"
+    },
+    {
+      "fr": "Nussbaum, « Non-Relative Virtues: An Aristotelian Approach »",
+      "en": "Nussbaum, \"Non-Relative Virtues: An Aristotelian Approach\""
+    }
+  ],
+  "updatedAt": "2026-07-03T00:00:00.000Z"
+}

@@ -323,7 +323,8 @@ Un droit, pour Bentham, n'est rien d'autre que le bénéfice d'une obligation qu
 
 ## Influencé par
 
-- **[Hume](../philosophers/hume.md)** (transmet) : [Bentham](../philosophers/bentham.md) rapporte qu'à la lecture de [Hume](../philosophers/hume.md) les écailles lui tombèrent des yeux : il y trouve le naturalisme psychologique et l'idée que l'utilité est la mesure du bien, qu'il érige en principe de l'[utilitarisme](../movements/utilitarianism.md).
+- **[Beccaria](../philosophers/beccaria.md)** (prolonge) : [Bentham](../philosophers/bentham.md) salue en [Beccaria](../philosophers/beccaria.md) un maître : sa réforme pénale, qui mesure la peine à l'utilité sociale et non à la vengeance, offre le premier modèle du calcul des peines et des plaisirs que l'utilitarisme érige en principe.
+- **[Hume](../philosophers/hume.md)** (prolonge) : [Bentham](../philosophers/bentham.md) rapporte qu'à la lecture de [Hume](../philosophers/hume.md) les écailles lui tombèrent des yeux : il y trouve le naturalisme psychologique et l'idée que l'utilité est la mesure du bien, qu'il érige en principe de l'[utilitarisme](../movements/utilitarianism.md).
 
 ## Influence sur
 

@@ -3,7 +3,7 @@
   "from": { "kind": "PHILOSOPHER", "slug": "nagarjuna" },
   "to": { "kind": "PHILOSOPHER", "slug": "dogen" },
   "directness": "INDIRECT",
-  "mode": "TRANSMITS",
+  "mode": "REINTERPRETS",
   "strength": "MEDIUM",
   "note": {
     "fr": "Par la tradition mahāyāna et chan, <ph id='dogen'>Dōgen</ph> hérite d'une compréhension de la <c>vacuité</c> fortement marquée par <ph id='nagarjuna'>Nāgārjuna</ph>, qu'il met en œuvre dans sa pensée de l'assise méditative et de l'impermanence.",

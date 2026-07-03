@@ -222,7 +222,7 @@ La souffrance n'est ni un mal à supprimer ni une épreuve rédemptrice qui forg
 
 *positionné · inférable · mineure*
 
-Techno-optimisme 80% · Techno-critique 20%
+Techno-critique 80% · Techno-optimisme 20%
 
 Un vieux jardinier refuse la machine à puiser l'eau qu'on lui propose : « qui se sert de machines acquiert un cœur de machine », et perd la pureté native de l'esprit. La méfiance de Zhuangzi ne porte pas sur l'outil en soi, qu'il manie volontiers dans ses paraboles d'artisans, mais sur l'esprit calculateur et l'astuce que l'instrument fait croître au détriment du [naturel](../glossary/ziran.md). Cette critique du « cœur machinal » le range, comme [Laozi](../philosophers/laozi.md), parmi les ancêtres lointains de la techno-critique, mais à partir du for intérieur plus que de l'ordre politique.
 

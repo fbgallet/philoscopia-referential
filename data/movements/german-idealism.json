@@ -1,0 +1,160 @@
+{
+  "kind": "MOVEMENT",
+  "id": "german-idealism",
+  "name": {
+    "fr": "Idéalisme allemand",
+    "en": "German Idealism"
+  },
+  "tagline": {
+    "fr": "Le réel n'est pas matière étrangère à l'esprit mais <ax id='REALITY_NATURE' pole='IDEALISM'>Esprit</ax> qui se déploie : la raison peut connaître l'absolu que <ph id='kant'>Kant</ph> disait hors d'atteinte.",
+    "en": "The real is not matter foreign to mind but <ax id='REALITY_NATURE' pole='IDEALISM'>Spirit</ax> unfolding: reason can know the absolute that <ph id='kant'>Kant</ph> declared out of reach."
+  },
+  "summary": {
+    "fr": "Grand système post-kantien qui, de <ph id='fichte'>Fichte</ph> à <ph id='hegel'>Hegel</ph> en passant par <ph id='schelling'>Schelling</ph>, radicalise le tournant critique de <ph id='kant'>Kant</ph> tout en franchissant la limite qu'il avait posée : là où Kant déclarait la <c>chose en soi</c> inconnaissable, l'idéalisme allemand tient que la raison, déployée en <c>système</c>, peut rejoindre l'<c>absolu</c>. Le réel n'est plus matière opaque mais <ax id='REALITY_NATURE' pole='IDEALISM'>Esprit</ax> ou sujet qui se pose lui-même et se comprend au terme d'un mouvement <c>dialectique</c>. Chez Hegel, ce déploiement devient histoire : l'Esprit se réalise dans le temps comme progrès de la conscience de la liberté. Porté par la Révolution française et l'élan du <mv id='romanticism'>romantisme</mv>, le courant s'éteint avec la mort de Hegel en 1831, aussitôt renversé par <ph id='marx'>Marx</ph>, qui le remet « sur ses pieds », et par <ph id='kierkegaard'>Kierkegaard</ph>, qui lui oppose l'existant singulier.",
+    "en": "A grand post-Kantian system which, from <ph id='fichte'>Fichte</ph> through <ph id='schelling'>Schelling</ph> to <ph id='hegel'>Hegel</ph>, radicalizes <ph id='kant'>Kant</ph>'s critical turn while crossing the limit he had set: where Kant declared the <c>thing in itself</c> unknowable, German Idealism holds that reason, unfolded into a <c>system</c>, can reach the <c>absolute</c> itself. The real is no longer opaque matter but <ax id='REALITY_NATURE' pole='IDEALISM'>Spirit</ax>, or a subject that posits itself and comes to understand itself at the end of a <c>dialectical</c> movement. In Hegel this unfolding becomes history: Spirit realizes itself in time as the progress of the consciousness of freedom. Carried by the French Revolution and the momentum of <mv id='romanticism'>Romanticism</mv>, the current dies out with Hegel's death in 1831, at once overturned by <ph id='marx'>Marx</ph>, who sets it \"back on its feet\", and by <ph id='kierkegaard'>Kierkegaard</ph>, who sets the singular existing individual against it."
+  },
+  "period": {
+    "from": 1781,
+    "to": 1831
+  },
+  "keyFigures": [
+    {
+      "slug": "fichte",
+      "name": { "fr": "Fichte", "en": "Fichte" }
+    },
+    {
+      "slug": "schelling",
+      "name": { "fr": "Schelling", "en": "Schelling" }
+    },
+    {
+      "slug": "hegel",
+      "name": { "fr": "Hegel", "en": "Hegel" }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0, 0.95, 0.05]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'idéalisme allemand porte l'<ax id='REALITY_NATURE' pole='IDEALISM'>idéalisme</ax> à son sommet : le fond du réel n'est pas la matière mais l'esprit. Mais ce n'est plus l'idéalisme d'un <ph id='berkeley'>Berkeley</ph>, pour qui les choses n'existent qu'en tant que perçues par des esprits finis : c'est un idéalisme absolu, où la nature et l'histoire sont les moments d'un même Esprit qui se pense et se reconnaît dans son autre. <ph id='schelling'>Schelling</ph> pose l'identité de la nature et de l'esprit ; <ph id='hegel'>Hegel</ph> fait de la <c>substance</c> un sujet.",
+          "en": "German Idealism carries <ax id='REALITY_NATURE' pole='IDEALISM'>idealism</ax> to its summit: the ground of the real is not matter but mind. Yet it is no longer the idealism of a <ph id='berkeley'>Berkeley</ph>, for whom things exist only insofar as they are perceived by finite minds: it is an absolute idealism, in which nature and history are the moments of one and the same Spirit that thinks itself and recognizes itself in its other. <ph id='schelling'>Schelling</ph> posits the identity of nature and mind; <ph id='hegel'>Hegel</ph> makes <c>substance</c> a subject."
+        },
+        "quote": {
+          "text": {
+            "fr": "Tout dépend de ceci : saisir et exprimer le vrai non comme substance, mais tout autant comme sujet.",
+            "en": "Everything turns on grasping and expressing the true not only as substance, but equally as subject."
+          },
+          "source": {
+            "fr": "Hegel, Phénoménologie de l'esprit, Préface",
+            "en": "Hegel, Phenomenology of Spirit, Preface"
+          }
+        },
+        "references": [
+          {
+            "fr": "Hegel, Phénoménologie de l'esprit (Préface)",
+            "en": "Hegel, Phenomenology of Spirit (Preface)"
+          },
+          {
+            "fr": "Schelling, Système de l'idéalisme transcendantal",
+            "en": "Schelling, System of Transcendental Idealism"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "METAPHILOSOPHY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.85, 0.1, 0, 0.05]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Pour l'idéalisme allemand, la philosophie n'est ni exercice de vie ni critique du langage : elle est le savoir qui <ax id='METAPHILOSOPHY' pole='CONTEMPLATION'>embrasse la totalité du réel</ax> dans un <c>système</c>. Contre la limite que <ph id='kant'>Kant</ph> imposait à la raison, elle prétend connaître l'<c>absolu</c> lui-même, non plus au-delà des phénomènes mais comme le tout de ce qui se déploie. <ph id='hegel'>Hegel</ph> en donne l'image fameuse : la pensée vient comprendre son époque une fois celle-ci accomplie.",
+          "en": "For German Idealism, philosophy is neither an exercise of life nor a critique of language: it is the knowledge that <ax id='METAPHILOSOPHY' pole='CONTEMPLATION'>embraces the totality of the real</ax> within a <c>system</c>. Against the limit Kant imposed on reason, it claims to know the <c>absolute</c> itself, no longer beyond appearances but as the whole of what unfolds. <ph id='hegel'>Hegel</ph> gives it its famous image: thought comes to understand its age only once that age is complete."
+        },
+        "quote": {
+          "text": {
+            "fr": "La chouette de Minerve ne prend son vol qu'à la tombée de la nuit.",
+            "en": "The owl of Minerva takes flight only at the falling of dusk."
+          },
+          "source": {
+            "fr": "Hegel, Principes de la philosophie du droit, Préface",
+            "en": "Hegel, Elements of the Philosophy of Right, Preface"
+          }
+        },
+        "references": [
+          {
+            "fr": "Hegel, Principes de la philosophie du droit (Préface)",
+            "en": "Hegel, Elements of the Philosophy of Right (Preface)"
+          },
+          {
+            "fr": "Hegel, Encyclopédie des sciences philosophiques",
+            "en": "Hegel, Encyclopedia of the Philosophical Sciences"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HISTORY_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Surtout chez <ph id='hegel'>Hegel</ph>, l'histoire a un <ax id='HISTORY_MEANING' pole='DIRECTIONAL_HISTORY'>sens</ax> : non une suite de hasards mais le déploiement rationnel de l'Esprit, « le progrès dans la conscience de la liberté ». Peuples et grands hommes sont les instruments par lesquels l'universel avance, souvent à leur insu, par la <kw>ruse de la raison</kw>. Cette philosophie de l'histoire, où la contradiction est moteur, sera l'héritage le plus explosif du courant : <ph id='marx'>Marx</ph> en retient la marche orientée, en substituant les rapports de production à l'Esprit.",
+          "en": "Above all in <ph id='hegel'>Hegel</ph>, history has a <ax id='HISTORY_MEANING' pole='DIRECTIONAL_HISTORY'>direction</ax>: not a string of accidents but the rational unfolding of Spirit, \"the progress of the consciousness of freedom\". Peoples and great men are the instruments through which the universal advances, often unbeknownst to them, by the <kw>cunning of reason</kw>. This philosophy of history, in which contradiction is the engine, will be the movement's most explosive legacy: <ph id='marx'>Marx</ph> keeps its directed march while substituting the relations of production for Spirit."
+        },
+        "references": [
+          {
+            "fr": "Hegel, La Raison dans l'histoire (Leçons sur la philosophie de l'histoire)",
+            "en": "Hegel, Reason in History (Lectures on the Philosophy of History)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "REALITY_NATURE",
+      "thesis": {
+        "fr": "Le fond du réel n'est pas la matière mais l'<ax id='REALITY_NATURE' pole='IDEALISM'>Esprit</ax> qui se pense lui-même : la substance est aussi sujet.",
+        "en": "The ground of the real is not matter but <ax id='REALITY_NATURE' pole='IDEALISM'>Spirit</ax> thinking itself: substance is also subject."
+      }
+    },
+    {
+      "axisId": "METAPHILOSOPHY",
+      "thesis": {
+        "fr": "La raison, déployée en <c>système</c>, peut connaître l'<c>absolu</c> que <ph id='kant'>Kant</ph> déclarait hors d'atteinte.",
+        "en": "Reason, unfolded into a <c>system</c>, can know the <c>absolute</c> that <ph id='kant'>Kant</ph> declared out of reach."
+      }
+    },
+    {
+      "axisId": "HISTORY_MEANING",
+      "thesis": {
+        "fr": "L'histoire a un sens : elle est le progrès de l'Esprit dans la <ax id='HISTORY_MEANING' pole='DIRECTIONAL_HISTORY'>conscience de la liberté</ax>.",
+        "en": "History has a direction: it is the progress of Spirit in the <ax id='HISTORY_MEANING' pole='DIRECTIONAL_HISTORY'>consciousness of freedom</ax>."
+      }
+    }
+  ],
+  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

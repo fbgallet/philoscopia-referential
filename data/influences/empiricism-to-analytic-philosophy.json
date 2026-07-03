@@ -1,0 +1,17 @@
+{
+  "id": "empiricism-to-analytic-philosophy",
+  "from": { "kind": "MOVEMENT", "slug": "empiricism" },
+  "to": { "kind": "MOVEMENT", "slug": "analytic-philosophy" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "La philosophie analytique se veut l'héritière de l'<mv id='empiricism'>empirisme</mv> britannique, dont elle reprend l'ancrage du savoir dans l'expérience et la défiance envers la métaphysique spéculative. Mais elle le refond en le fusionnant avec la logique moderne : à l'association des idées elle substitue l'analyse logique des propositions, dont <ph id='russell'>Russell</ph> est le pont. L'empirisme logique du Cercle de Vienne en radicalise le programme, le vérifiable seul ayant un sens.",
+    "en": "Analytic philosophy sees itself as the heir of British <mv id='empiricism'>empiricism</mv>, from which it takes the anchoring of knowledge in experience and the distrust of speculative metaphysics. But it recasts it by fusing it with modern logic: for the association of ideas it substitutes the logical analysis of propositions, of which <ph id='russell'>Russell</ph> is the bridge. The logical empiricism of the Vienna Circle radicalizes the program, only the verifiable having meaning."
+  },
+  "sources": [
+    { "fr": "Russell, Notre connaissance du monde extérieur (1914)", "en": "Russell, Our Knowledge of the External World (1914)" },
+    { "fr": "Ayer, Langage, vérité et logique (1936)", "en": "Ayer, Language, Truth and Logic (1936)" }
+  ],
+  "updatedAt": "2026-07-03T00:00:00.000Z"
+}

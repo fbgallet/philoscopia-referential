@@ -364,11 +364,13 @@ Dans le Phédon, le corps est le tombeau de l'âme : il l'entrave, la trompe par
 
 ## Influencé par
 
+- **[Parménide](../philosophers/parmenides.md)** (réinterprète) : [Platon](../philosophers/plato.md) hérite de [Parménide](../philosophers/parmenides.md) l'exigence d'un être stable et intelligible, socle de sa théorie des Formes ; mais pour rendre compte de l'erreur et du changement, il commet dans le Sophiste un « parricide », admettant contre le maître une part de non-être.
 - **[Socrate](../philosophers/socrates.md)** (prolonge) : [Platon](../philosophers/plato.md), disciple de [Socrate](../philosophers/socrates.md), fait de lui le personnage central de ses dialogues et prolonge son questionnement sur la définition et la vertu, qu'il déploie ensuite en une métaphysique des Idées que Socrate n'avait jamais formulée.
 
 ## Influence sur
 
 - **[Plotin](../philosophers/plotinus.md)** (réinterprète) : [Plotin](../philosophers/plotinus.md) relit [Platon](../philosophers/plato.md) par ses textes, six siècles après, et en tire le [néoplatonisme](../movements/platonism.md) : une métaphysique hiérarchique de l'Un, de l'Intellect et de l'Âme qui dépasse la lettre des dialogues.
+- **[Simone Weil](../philosophers/simone-weil.md)** (réinterprète) : [Weil](../philosophers/simone-weil.md) lit [Platon](../philosophers/plato.md) en mystique : le Bien au-delà de l'être, la conversion du regard hors de la caverne deviennent chez elle attente de Dieu et attention, un platonisme christianisé où le vrai se reçoit plus qu'il ne se conquiert.
 - **[Stoïcisme](../movements/stoicism.md)** (prolonge) : La physique [stoïcienne](../movements/stoicism.md) puise dans le Timée de [Platon](../philosophers/plato.md) l'idée d'un cosmos vivant, ordonné et régi par une providence rationnelle, qu'elle refond en un matérialisme du souffle et du logos immanent.
 - **[Aristote](../philosophers/aristotle.md)** (réagit contre) : Formé vingt ans à l'Académie, [Aristote](../philosophers/aristotle.md) garde de [Platon](../philosophers/plato.md) l'exigence de science et de définition, mais rejette la séparation des Idées : la forme n'existe que dans les substances individuelles, pas dans un monde à part.
 - **[Diogène de Sinope](../philosophers/diogenes.md)** (réagit contre) : [Diogène](../philosophers/diogenes.md) définit son cynisme contre [Platon](../philosophers/plato.md) : il raille la [théorie des Formes](../glossary/theory-of-forms.md) (« je vois bien la coupe, non la coupéité ») et l'« homme de Platon » qu'il ridiculise avec un poulet plumé, opposant aux abstractions de l'idéaliste un naturalisme nominaliste et corporel.

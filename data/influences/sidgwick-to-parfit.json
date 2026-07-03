@@ -1,0 +1,25 @@
+{
+  "id": "sidgwick-to-parfit",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "sidgwick"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "parfit"
+  },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='parfit'>Parfit</ph> tient <ph id='sidgwick'>Sidgwick</ph> pour le plus grand des utilitaristes et reprend son « point de vue de l'univers », l'exigence d'impartialité, qu'il approfondit dans une recherche de convergence entre les grandes théories morales.",
+    "en": "<ph id='parfit'>Parfit</ph> regards <ph id='sidgwick'>Sidgwick</ph> as the greatest of the utilitarians and takes up his \"point of view of the universe\", the demand for impartiality, which he deepens in a search for convergence among the great moral theories."
+  },
+  "sources": [
+    {
+      "fr": "Parfit, On What Matters (2011)",
+      "en": "Parfit, On What Matters (2011)"
+    }
+  ],
+  "updatedAt": "2026-07-03T00:00:00.000Z"
+}

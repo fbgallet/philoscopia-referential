@@ -214,7 +214,7 @@ En opposant la nature au nomos, le cynisme suppose un critère du bien indépend
 
 ## Influence sur
 
-- **[Stoïcisme](../movements/stoicism.md)** (prolonge) : Zénon de Citium fut l'élève de Cratès le Cynique : le [stoïcisme](../movements/stoicism.md) reprend du [cynisme](../movements/cynicism.md) l'idéal d'autosuffisance et la vie « selon la nature », mais en tempère la provocation et l'anticonformisme en l'intégrant à une physique et une logique systématiques.
+- **[Stoïcisme](../movements/stoicism.md)** (prolonge) : Le [stoïcisme](../movements/stoicism.md) naît dans le prolongement du [cynisme](../movements/cynicism.md), dont il reprend l'idéal d'autosuffisance, la vie « selon la nature » et le cosmopolitisme ; mais il en tempère la provocation et l'anticonformisme en l'intégrant à une physique et une logique systématiques, où la vertu n'est plus un défi aux conventions mais l'accord avec la raison qui ordonne le monde.
 
 ---
 

@@ -16,6 +16,7 @@ German philosopher of being: he conceives human existence as a being-toward-deat
 
 ## Influence on
 
+- **[Hannah Arendt](../philosophers/arendt.md)** (reinterprets) : [Heidegger](../philosophers/heidegger.md)'s student, [Arendt](../philosophers/arendt.md) shifts his analysis of existence toward the political: against the primacy of death, she thinks natality, the capacity to begin, and concerted action among human beings as the proper site of freedom.
 - **[Merleau-Ponty](../philosophers/merleau-ponty.md)** (reinterprets) : [Merleau-Ponty](../philosophers/merleau-ponty.md) takes up [Heidegger](../philosophers/heidegger.md)'s being-in-the-world and the pre-theoretical world, but redirects them to the perceiving body: it is the flesh, not the analytic of being, that originally opens the world.
 - **[Sartre](../philosophers/sartre.md)** (reinterprets) : [Sartre](../philosophers/sartre.md) existentialises [Heidegger](../philosophers/heidegger.md)'s analyses, being-in-the-world, facticity, anxiety, within a framework centred on freedom and project, which Heidegger would reject as a humanist misreading.
 - **[Jonas](../philosophers/jonas.md)** (reacts against) : A pupil of [Heidegger](../philosophers/heidegger.md), [Jonas](../philosophers/jonas.md) breaks with his existentialism, indifferent to nature, to found an ontology of the living and an ethics of responsibility toward future generations.

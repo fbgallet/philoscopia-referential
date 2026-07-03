@@ -166,6 +166,7 @@ Husserl developed little systematic ethics: there are lectures on ethics and a l
 - **[Merleau-Ponty](../philosophers/merleau-ponty.md)** (reinterprets) : [Merleau-Ponty](../philosophers/merleau-ponty.md) carries on the late [Husserl](../philosophers/husserl.md)'s analyses of the life-world and the lived body, but anchors the whole of phenomenology in embodied perception rather than in a pure consciousness.
 - **[Paul Ricœur](../philosophers/ricoeur.md)** (continues) : [Ricoeur](../philosophers/ricoeur.md) translates and annotates [Husserl](../philosophers/husserl.md), whose descriptive method he carries on; he then articulates it with a hermeneutics of symbol and narrative, where direct phenomenology reaches its limits.
 - **[Sartre](../philosophers/sartre.md)** (reinterprets) : [Sartre](../philosophers/sartre.md) takes from [Husserl](../philosophers/husserl.md) intentionality, all consciousness is consciousness of something, but radicalises it: consciousness, emptied of all substantial content, is nothing but nihilation and freedom.
+- **[Derrida](../philosophers/derrida.md)** (reacts against) : [Derrida](../philosophers/derrida.md) forms deconstruction through his engagement with [Husserl](../philosophers/husserl.md), whose texts he comments: he tracks the privilege granted to presence and to the voice, and shows that the sign and différance work through a consciousness Husserl believed immediate to itself.
 
 ---
 

@@ -166,6 +166,7 @@ Husserl a peu développé d'éthique systématique : on trouve des leçons d'ét
 - **[Merleau-Ponty](../philosophers/merleau-ponty.md)** (réinterprète) : [Merleau-Ponty](../philosophers/merleau-ponty.md) prolonge les analyses du dernier [Husserl](../philosophers/husserl.md) sur le monde de la vie et le corps propre, mais ancre toute la phénoménologie dans la perception incarnée plutôt que dans une conscience pure.
 - **[Paul Ricœur](../philosophers/ricoeur.md)** (prolonge) : [Ricœur](../philosophers/ricoeur.md) traduit et commente [Husserl](../philosophers/husserl.md), dont il prolonge la méthode descriptive ; il l'articule ensuite à une herméneutique du symbole et du récit, là où la phénoménologie directe atteint ses limites.
 - **[Sartre](../philosophers/sartre.md)** (réinterprète) : [Sartre](../philosophers/sartre.md) reprend de [Husserl](../philosophers/husserl.md) l'intentionnalité, toute conscience est conscience de quelque chose, mais la radicalise : la conscience, vidée de tout contenu substantiel, n'est que néantisation et liberté.
+- **[Derrida](../philosophers/derrida.md)** (réagit contre) : [Derrida](../philosophers/derrida.md) forme la déconstruction au contact de [Husserl](../philosophers/husserl.md), dont il commente les textes : il y traque le privilège accordé à la présence et à la voix, et montre que le signe et la différance travaillent une conscience que Husserl croyait immédiate à elle-même.
 
 ---
 

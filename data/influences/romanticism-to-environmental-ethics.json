@@ -1,0 +1,19 @@
+{
+  "id": "romanticism-to-environmental-ethics",
+  "from": {
+    "kind": "MOVEMENT",
+    "slug": "romanticism"
+  },
+  "to": {
+    "kind": "MOVEMENT",
+    "slug": "environmental-ethics"
+  },
+  "directness": "INDIRECT",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "L'éthique environnementale hérite du <mv id='romanticism'>romantisme</mv>, souvent sans le dire, sa révolte contre la nature réduite à une machine et à une réserve de matières : la nature vivante, sublime, digne de respect pour elle-même, que l'écologie transforme en valeur morale et non plus seulement esthétique.",
+    "en": "Environmental ethics inherits from <mv id='romanticism'>Romanticism</mv>, often without saying so, its revolt against nature reduced to a machine and a stock of resources: the living, sublime nature, worthy of respect for itself, which ecology turns into a moral value and no longer merely an aesthetic one."
+  },
+  "updatedAt": "2026-07-03T00:00:00.000Z"
+}

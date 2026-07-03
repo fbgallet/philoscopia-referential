@@ -10,6 +10,8 @@ Philosophe et psychologue américain, figure du pragmatisme : il mesure la véri
 
 ## Influencé par
 
+- **[Henri Bergson](../philosophers/bergson.md)** (réinterprète) : [James](../philosophers/william-james.md) salue en [Bergson](../philosophers/bergson.md) un allié contre l'intellectualisme : il reprend sa critique des concepts figés et sa durée mouvante pour nourrir son empirisme radical et son univers pluraliste.
+- **[William Kingdon Clifford](../philosophers/clifford.md)** (réagit contre) : « The Will to Believe » de [James](../philosophers/william-james.md) répond frontalement à [Clifford](../philosophers/clifford.md) : contre la maxime qu'il est toujours fautif de croire sans preuve suffisante, James défend le droit, sur les questions vitales que la preuve ne tranche pas, de risquer une croyance.
 - **[Charles Sanders Peirce](../philosophers/peirce.md)** (réinterprète) : [James](../philosophers/william-james.md) popularise et assouplit la maxime pragmatiste de [Peirce](../philosophers/peirce.md), qui liait le sens d'une idée à ses effets concevables, en l'orientant vers une théorie psychologique et pluraliste de la vérité et de la croyance.
 
 ## Influence sur

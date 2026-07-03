@@ -2,7 +2,7 @@
 
 # Hegel
 
-*1770 – 1831 · Allemand*
+*1770 – 1831 · Allemand · [Idéalisme allemand](../movements/german-idealism.md)*
 
 Philosophe allemand de l'esprit et de l'histoire : il pense le réel comme déploiement rationnel, et la liberté comme accomplie dans les institutions de l'État, non contre elles.
 
@@ -10,7 +10,6 @@ Philosophe allemand de l'esprit et de l'histoire : il pense le réel comme dépl
 
 ## Influencé par
 
-- **[Kant](../philosophers/kant.md)** (réinterprète) : [Hegel](../philosophers/hegel.md) transforme le criticisme de [Kant](../philosophers/kant.md) en idéalisme absolu : il conteste la fixité des oppositions kantiennes, phénomène et chose en soi, en les intégrant au mouvement dialectique de l'esprit.
 - **[Spinoza](../philosophers/spinoza.md)** (réinterprète) : [Hegel](../philosophers/hegel.md) tient le spinozisme pour un passage obligé : « commencer à philosopher, c'est être spinoziste ». Il reprend l'exigence d'un absolu unique, mais reproche à la substance de [Spinoza](../philosophers/spinoza.md) d'être inerte et la refait sujet.
 
 ## Influence sur

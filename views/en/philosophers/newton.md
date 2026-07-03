@@ -10,7 +10,7 @@ English mathematician and physicist, author of the Principia, whose celestial me
 
 ## Influence on
 
-- **[The Enlightenment](../movements/enlightenment.md)** (transmits) : [Newton](../philosophers/newton.md)'s mechanics, deducing the system of the world from a few mathematical laws, becomes the Enlightenment's paradigm of knowledge: [Voltaire](../philosophers/voltaire.md) popularizes it in France, and the programme of extending the « Newtonian method » to morals and society runs through the whole century.
+- **[The Enlightenment](../movements/enlightenment.md)** (continues) : [Newton](../philosophers/newton.md)'s mechanics, deducing the system of the world from a few mathematical laws, becomes the Enlightenment's paradigm of knowledge: [Voltaire](../philosophers/voltaire.md) popularizes it in France, and the programme of extending the « Newtonian method » to morals and society runs through the whole century.
 
 ---
 

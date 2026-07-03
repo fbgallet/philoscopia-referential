@@ -2,7 +2,7 @@
 
 # Aldo Leopold
 
-*1887 – 1948 · Américain*
+*1887 – 1948 · Américain · [Éthique environnementale](../movements/environmental-ethics.md)*
 
 Écologue et forestier américain : sa « land ethic » élargit la communauté morale à la terre elle-même, sols, eaux, plantes et animaux, une action étant juste quand elle préserve l'intégrité, la stabilité et la beauté de la communauté biotique.
 

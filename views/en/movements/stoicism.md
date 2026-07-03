@@ -298,15 +298,16 @@ The world is governed by a providential divine reason: what appears as evil has 
 
 ## Influenced by
 
-- **[Cynicism](../movements/cynicism.md)** (continues) : Zeno of Citium was a pupil of Crates the Cynic: [Stoicism](../movements/stoicism.md) takes from [Cynicism](../movements/cynicism.md) the ideal of self-sufficiency and life “according to nature”, but tempers its provocation and anticonformism by embedding it in a systematic physics and logic.
+- **[Cynicism](../movements/cynicism.md)** (continues) : [Stoicism](../movements/stoicism.md) arises in the wake of [Cynicism](../movements/cynicism.md), from which it takes the ideal of self-sufficiency, life “according to nature” and cosmopolitanism; but it tempers its provocation and anticonformism by embedding it in a systematic physics and logic, where virtue is no longer a defiance of convention but accord with the reason that orders the world.
 - **[Epicureanism](../movements/epicureanism.md)** (reacts against) : A founding rivalry of the Hellenistic age: [Stoicism](../movements/stoicism.md) forges many of its theses against [Epicureanism](../movements/epicureanism.md), setting against the swerve of atoms and pleasure the doctrines of providence, fate and virtue as the only good.
+- **[Heraclitus](../philosophers/heraclitus.md)** (continues) : [Stoicism](../movements/stoicism.md) takes up from [Heraclitus](../philosophers/heraclitus.md) its physics of fire and logos: a rational, divine principle pervades and orders a cosmos in perpetual becoming, down to the conflagration that reabsorbs and regenerates it.
 - **[Plato](../philosophers/plato.md)** (continues) : [Stoic](../movements/stoicism.md) physics draws from [Plato](../philosophers/plato.md)'s Timaeus the idea of a living cosmos, ordered and governed by a rational providence, which it recasts into a materialism of breath and immanent logos.
 - **[Socrates](../philosophers/socrates.md)** (continues) : [Stoicism](../movements/stoicism.md) claims [Socrates](../philosophers/socrates.md) as its model of the sage: virtue as knowledge, the unity of the virtues and the idea that no one does wrong willingly pass from the dialogues into the ethics of the Stoa.
 
 ## Influence on
 
 - **[Arcesilaus](../philosophers/arcesilaus.md)** (reacts against) : [Arcesilaus](../philosophers/arcesilaus.md)'s Academic skepticism is forged by refuting [Stoic](../movements/stoicism.md) epistemology: against the “cognitive impression” supposed to guarantee truth, he sets the suspension of judgement.
-- **[Epicureanism](../movements/epicureanism.md)** (reacts against) : In return, [Epicureanism](../movements/epicureanism.md), notably in Lucretius, fights [Stoic](../movements/stoicism.md) providence and fate in the name of a world without design, born of the chance of atoms and in which the soul is mortal.
+- **[Epicureanism](../movements/epicureanism.md)** (reacts against) : [Epicureanism](../movements/epicureanism.md), notably in [Lucretius](../philosophers/lucretius.md), fights [Stoic](../movements/stoicism.md) providence and fate in the name of a world without design, born of the chance of atoms and in which the soul is mortal.
 
 ---
 

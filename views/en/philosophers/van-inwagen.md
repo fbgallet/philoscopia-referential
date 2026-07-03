@@ -2,7 +2,7 @@
 
 # Peter van Inwagen
 
-*1942 – ? · American*
+*1942 – ? · American · [Analytic Philosophy](../movements/analytic-philosophy.md)*
 
 American metaphysician, author of the "consequence argument" against compatibilism: if determinism is true, our acts are the consequences of laws and a past beyond our control.
 

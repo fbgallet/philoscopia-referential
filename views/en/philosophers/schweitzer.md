@@ -2,7 +2,7 @@
 
 # Albert Schweitzer
 
-*1875 – 1965 · Franco-German*
+*1875 – 1965 · Franco-German · [Environmental Ethics](../movements/environmental-ethics.md)*
 
 Alsatian theologian, physician, and philosopher: he made "reverence for life" the first principle of ethics, every will-to-live, not sentience alone, deserving to be preserved.
 

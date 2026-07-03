@@ -2,7 +2,7 @@
 
 # Thomas Nagel
 
-*1937 – ? · American*
+*1937 – ? · American · [Analytic Philosophy](../movements/analytic-philosophy.md)*
 
 American analytic philosopher, known for his work on subjectivity ("What is it like to be a bat?"), moral luck, and the clash between the personal and the impersonal standpoints, on death as on meaning and justice.
 

@@ -1,0 +1,29 @@
+{
+  "id": "parmenides-to-plato",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "parmenides"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "plato"
+  },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='plato'>Platon</ph> hérite de <ph id='parmenides'>Parménide</ph> l'exigence d'un être stable et intelligible, socle de sa théorie des Formes ; mais pour rendre compte de l'erreur et du changement, il commet dans le Sophiste un « parricide », admettant contre le maître une part de non-être.",
+    "en": "<ph id='plato'>Plato</ph> inherits from <ph id='parmenides'>Parmenides</ph> the demand for a stable, intelligible being, the bedrock of his theory of Forms; but to account for error and change he commits, in the Sophist, a \"parricide\", admitting against the master a measure of non-being."
+  },
+  "sources": [
+    {
+      "fr": "Platon, Le Sophiste",
+      "en": "Plato, Sophist"
+    },
+    {
+      "fr": "Platon, Parménide",
+      "en": "Plato, Parmenides"
+    }
+  ],
+  "updatedAt": "2026-07-03T00:00:00.000Z"
+}

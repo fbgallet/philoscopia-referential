@@ -364,11 +364,13 @@ In the Phaedo, the body is the tomb of the soul: it hinders it, deceives it thro
 
 ## Influenced by
 
+- **[Parmenides](../philosophers/parmenides.md)** (reinterprets) : [Plato](../philosophers/plato.md) inherits from [Parmenides](../philosophers/parmenides.md) the demand for a stable, intelligible being, the bedrock of his theory of Forms; but to account for error and change he commits, in the Sophist, a "parricide", admitting against the master a measure of non-being.
 - **[Socrates](../philosophers/socrates.md)** (continues) : [Plato](../philosophers/plato.md), a pupil of [Socrates](../philosophers/socrates.md), makes him the central figure of his dialogues and carries on his questioning of definition and virtue, which he then unfolds into a metaphysics of the Forms that Socrates never stated.
 
 ## Influence on
 
 - **[Plotinus](../philosophers/plotinus.md)** (reinterprets) : [Plotinus](../philosophers/plotinus.md) rereads [Plato](../philosophers/plato.md) through his texts, six centuries later, and draws from them [Neoplatonism](../movements/platonism.md): a hierarchical metaphysics of the One, the Intellect and the Soul that goes beyond the letter of the dialogues.
+- **[Simone Weil](../philosophers/simone-weil.md)** (reinterprets) : [Weil](../philosophers/simone-weil.md) reads [Plato](../philosophers/plato.md) as a mystic: the Good beyond being, the conversion of the gaze out of the cave become in her the waiting for God and attention, a Christianized Platonism in which the true is received rather than conquered.
 - **[Stoicism](../movements/stoicism.md)** (continues) : [Stoic](../movements/stoicism.md) physics draws from [Plato](../philosophers/plato.md)'s Timaeus the idea of a living cosmos, ordered and governed by a rational providence, which it recasts into a materialism of breath and immanent logos.
 - **[Aristotle](../philosophers/aristotle.md)** (reacts against) : Trained for twenty years at the Academy, [Aristotle](../philosophers/aristotle.md) keeps from [Plato](../philosophers/plato.md) the demand for science and definition, but rejects the separation of the Forms: form exists only in individual substances, not in a world apart.
 - **[Diogenes of Sinope](../philosophers/diogenes.md)** (reacts against) : [Diogenes](../philosophers/diogenes.md) defines his Cynicism against [Plato](../philosophers/plato.md): he mocks the [theory of Forms](../glossary/theory-of-forms.md) ("I see the cup, but not cupness") and "Plato's man", which he ridicules with a plucked chicken, opposing to the idealist's abstractions a nominalist, bodily naturalism.

@@ -215,7 +215,7 @@ Like all of [Buddhism](../movements/buddhism.md), Madhyamaka orders existence to
 
 ## Influence on
 
-- **[Dōgen](../philosophers/dogen.md)** (transmits) : Through the Mahāyāna and Chan traditions, [Dōgen](../philosophers/dogen.md) inherits an understanding of emptiness strongly marked by [Nāgārjuna](../philosophers/nagarjuna.md), which he enacts in his thought of seated meditation and impermanence.
+- **[Dōgen](../philosophers/dogen.md)** (reinterprets) : Through the Mahāyāna and Chan traditions, [Dōgen](../philosophers/dogen.md) inherits an understanding of emptiness strongly marked by [Nāgārjuna](../philosophers/nagarjuna.md), which he enacts in his thought of seated meditation and impermanence.
 
 ---
 

@@ -323,7 +323,8 @@ A right, for Bentham, is nothing but the benefit of an obligation that the law l
 
 ## Influenced by
 
-- **[Hume](../philosophers/hume.md)** (transmits) : [Bentham](../philosophers/bentham.md) reports that on reading [Hume](../philosophers/hume.md) the scales fell from his eyes: there he finds psychological naturalism and the idea that utility is the measure of good, which he erects into the principle of [utilitarianism](../movements/utilitarianism.md).
+- **[Beccaria](../philosophers/beccaria.md)** (continues) : [Bentham](../philosophers/bentham.md) hails [Beccaria](../philosophers/beccaria.md) as a master: his penal reform, which measures punishment by social utility rather than vengeance, offers the first model of the calculus of pains and pleasures that utilitarianism erects into a principle.
+- **[Hume](../philosophers/hume.md)** (continues) : [Bentham](../philosophers/bentham.md) reports that on reading [Hume](../philosophers/hume.md) the scales fell from his eyes: there he finds psychological naturalism and the idea that utility is the measure of good, which he erects into the principle of [utilitarianism](../movements/utilitarianism.md).
 
 ## Influence on
 

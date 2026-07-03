@@ -298,15 +298,16 @@ Le monde est régi par une raison divine providentielle : ce qui paraît un mal 
 
 ## Influencé par
 
-- **[Cynisme](../movements/cynicism.md)** (prolonge) : Zénon de Citium fut l'élève de Cratès le Cynique : le [stoïcisme](../movements/stoicism.md) reprend du [cynisme](../movements/cynicism.md) l'idéal d'autosuffisance et la vie « selon la nature », mais en tempère la provocation et l'anticonformisme en l'intégrant à une physique et une logique systématiques.
+- **[Cynisme](../movements/cynicism.md)** (prolonge) : Le [stoïcisme](../movements/stoicism.md) naît dans le prolongement du [cynisme](../movements/cynicism.md), dont il reprend l'idéal d'autosuffisance, la vie « selon la nature » et le cosmopolitisme ; mais il en tempère la provocation et l'anticonformisme en l'intégrant à une physique et une logique systématiques, où la vertu n'est plus un défi aux conventions mais l'accord avec la raison qui ordonne le monde.
 - **[Épicurisme](../movements/epicureanism.md)** (réagit contre) : Rivalité fondatrice de l'époque hellénistique : le [stoïcisme](../movements/stoicism.md) forge nombre de ses thèses contre l'[épicurisme](../movements/epicureanism.md), opposant à la déviation des atomes et au plaisir la providence, le destin et la vertu comme seul bien.
+- **[Héraclite](../philosophers/heraclitus.md)** (prolonge) : Le [stoïcisme](../movements/stoicism.md) reprend d'[Héraclite](../philosophers/heraclitus.md) sa physique du feu et du logos : un principe rationnel et divin traverse et ordonne un cosmos en perpétuel devenir, jusqu'à l'embrasement qui le résorbe et le régénère.
 - **[Platon](../philosophers/plato.md)** (prolonge) : La physique [stoïcienne](../movements/stoicism.md) puise dans le Timée de [Platon](../philosophers/plato.md) l'idée d'un cosmos vivant, ordonné et régi par une providence rationnelle, qu'elle refond en un matérialisme du souffle et du logos immanent.
 - **[Socrate](../philosophers/socrates.md)** (prolonge) : Le [stoïcisme](../movements/stoicism.md) se réclame de [Socrate](../philosophers/socrates.md) comme modèle du sage : la vertu comme savoir, l'unité des vertus et l'idée que nul n'est méchant volontairement passent des dialogues à l'éthique du Portique.
 
 ## Influence sur
 
 - **[Arcésilas](../philosophers/arcesilaus.md)** (réagit contre) : Le scepticisme académique d'[Arcésilas](../philosophers/arcesilaus.md) se forge en réfutant l'épistémologie [stoïcienne](../movements/stoicism.md) : contre la « représentation compréhensive » censée garantir le vrai, il oppose la suspension du jugement.
-- **[Épicurisme](../movements/epicureanism.md)** (réagit contre) : En retour, l'[épicurisme](../movements/epicureanism.md), notamment chez Lucrèce, combat la providence et le destin [stoïciens](../movements/stoicism.md) au nom d'un monde sans dessein, né du hasard des atomes et où l'âme est mortelle.
+- **[Épicurisme](../movements/epicureanism.md)** (réagit contre) : L'[épicurisme](../movements/epicureanism.md), notamment chez [Lucrèce](../philosophers/lucretius.md), combat la providence et le destin [stoïciens](../movements/stoicism.md) au nom d'un monde sans dessein, né du hasard des atomes et où l'âme est mortelle.
 
 ---
 

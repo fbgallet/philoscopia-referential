@@ -2,7 +2,7 @@
 
 # John Locke
 
-*1632 – 1704 · English · [Empiricism](../movements/empiricism.md)*
+*1632 – 1704 · English · [Empiricism](../movements/empiricism.md), [Liberalism](../movements/liberalism.md)*
 
 An English physician and philosopher of the dawning Enlightenment, regarded as the father of classical [empiricism](../movements/empiricism.md) and of political liberalism. Attached to the Earl of Shaftesbury, caught up in the struggles against Stuart absolutism, he was exiled to the Dutch Republic and published his major works only on his return, after the Glorious Revolution of 1688. His *[Essay Concerning Human Understanding](../works/essay-concerning-human-understanding-locke.md)* sets out to gauge the reach and the limits of human knowledge, against the [rationalism](../movements/rationalism.md) of [Descartes](../philosophers/descartes.md); his *[Two Treatises of Government](../works/two-treatises-of-government-locke.md)*, written against absolutism, recast the legitimacy of power, and his *[Letter Concerning Toleration](../works/letter-concerning-toleration-locke.md)* separates Church from State. His method is patient, attentive to the ordinary working of the mind, more concerned with probability than with system. His legacy is immense: he shaped the Enlightenment, and his theses on natural rights and consent fed both the American Revolution and the French Revolution.
 
@@ -315,6 +315,7 @@ All our knowledge comes from experience: it is built up from simple ideas receiv
 ## Influence on
 
 - **[George Berkeley](../philosophers/berkeley.md)** (reinterprets) : [Berkeley](../philosophers/berkeley.md) accepts the [empiricism](../movements/empiricism.md) of [Locke](../philosophers/locke.md), for whom every idea comes from experience, but radicalises it into immaterialism: denying material substance, admitting only perceived ideas and the minds that perceive them.
+- **[Condillac](../philosophers/condillac.md)** (reinterprets) : [Condillac](../philosophers/condillac.md) radicalizes [Locke](../philosophers/locke.md)'s empiricism into sensationalism: through the fiction of a statue awakened sense by sense, he undertakes to derive all the faculties from sensation alone, doing away with the reflection Locke held to be a distinct source.
 - **[The Enlightenment](../movements/enlightenment.md)** (continues) : [Locke](../philosophers/locke.md)'s *[Essay](../works/essay-concerning-human-understanding-locke.md)* gives the philosophes their epistemology, the [blank slate](../glossary/tabula-rasa.md) and the critique of innate ideas; his *[Two Treatises](../works/two-treatises-of-government-locke.md)* and *[Letter Concerning Toleration](../works/letter-concerning-toleration-locke.md)* supply them with natural rights, government by consent and [tolerance](../glossary/tolerance.md). [Voltaire](../philosophers/voltaire.md) hails him from the Philosophical Letters onward as the model of the English sage.
 - **[Hume](../philosophers/hume.md)** (reinterprets) : [Hume](../philosophers/hume.md) pushes Locke's analysis of ideas drawn from experience to its skeptical conclusions: an associationist theory of the mind and the dissolution of personal identity and of necessary causation.
 

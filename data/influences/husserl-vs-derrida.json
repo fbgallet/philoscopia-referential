@@ -1,0 +1,25 @@
+{
+  "id": "husserl-vs-derrida",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "husserl"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "derrida"
+  },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='derrida'>Derrida</ph> forme la déconstruction au contact de <ph id='husserl'>Husserl</ph>, dont il commente les textes : il y traque le privilège accordé à la présence et à la voix, et montre que le signe et la différance travaillent une conscience que Husserl croyait immédiate à elle-même.",
+    "en": "<ph id='derrida'>Derrida</ph> forms deconstruction through his engagement with <ph id='husserl'>Husserl</ph>, whose texts he comments: he tracks the privilege granted to presence and to the voice, and shows that the sign and différance work through a consciousness Husserl believed immediate to itself."
+  },
+  "sources": [
+    {
+      "fr": "Derrida, La Voix et le phénomène (1967)",
+      "en": "Derrida, Speech and Phenomena (1967)"
+    }
+  ],
+  "updatedAt": "2026-07-03T00:00:00.000Z"
+}

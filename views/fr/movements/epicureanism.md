@@ -230,7 +230,7 @@ L'âme est corporelle : un assemblage d'atomes très fins qui se dissout à la m
 
 ## Influencé par
 
-- **[Stoïcisme](../movements/stoicism.md)** (réagit contre) : En retour, l'[épicurisme](../movements/epicureanism.md), notamment chez Lucrèce, combat la providence et le destin [stoïciens](../movements/stoicism.md) au nom d'un monde sans dessein, né du hasard des atomes et où l'âme est mortelle.
+- **[Stoïcisme](../movements/stoicism.md)** (réagit contre) : L'[épicurisme](../movements/epicureanism.md), notamment chez [Lucrèce](../philosophers/lucretius.md), combat la providence et le destin [stoïciens](../movements/stoicism.md) au nom d'un monde sans dessein, né du hasard des atomes et où l'âme est mortelle.
 
 ## Influence sur
 
