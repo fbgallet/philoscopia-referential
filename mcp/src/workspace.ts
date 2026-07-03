@@ -84,7 +84,17 @@ export class Workspace {
 
   init(locale: Locale): string {
     if (this.exists()) throw new Error(`A workspace already exists at ${this.dir}.`);
-    mkdirSync(join(this.dir, "journal"), { recursive: true });
+    try {
+      mkdirSync(join(this.dir, "journal"), { recursive: true });
+    } catch (error) {
+      const code = (error as { code?: string }).code ?? "error";
+      throw new Error(
+        `Cannot create the workspace at ${this.dir} (${code}). ` +
+          `Check the --workspace path in the MCP client config: it must be an absolute, ` +
+          `writable path (e.g. under your home folder); "~" is not expanded in JSON configs. ` +
+          `Omit --workspace to use the default ~/my-philosophy.`,
+      );
+    }
     const now = new Date().toISOString();
     this.write("philoscopia", {
       format: 1,

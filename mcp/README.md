@@ -19,13 +19,13 @@ With Claude Desktop (or any MCP client), add to the configuration:
   "mcpServers": {
     "philoscopia": {
       "command": "npx",
-      "args": ["-y", "philoscopia-mcp", "--workspace", "/Users/you/my-philosophy"]
+      "args": ["-y", "philoscopia-mcp"]
     }
   }
 }
 ```
 
-Options: `--workspace <dir>` (default `$PHILOSCOPIA_WORKSPACE`, then `~/my-philosophy`) and `--locale fr|en` (once a workspace exists, its manifest's locale wins).
+Options: `--workspace <dir>` (default `$PHILOSCOPIA_WORKSPACE`, then `~/my-philosophy`) and `--locale fr|en` (once a workspace exists, its manifest's locale wins). In a JSON client config, pass `--workspace` an **absolute** path — `~` is only expanded by a shell.
 
 ## Tools
 
