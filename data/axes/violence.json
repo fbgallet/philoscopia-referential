@@ -1,0 +1,172 @@
+{
+  "id": "VIOLENCE",
+  "relation": "OTHERS",
+  "territory": "SOCIETY_POLITICS",
+  "label": {
+    "fr": "La violence",
+    "en": "Violence"
+  },
+  "question": {
+    "fr": "La violence peut-elle être légitime ?",
+    "en": "Can violence be legitimate?"
+  },
+  "stakes": {
+    "fr": "Face à l'agression, à l'injustice, à l'oppression, le recours à la force finit toujours par se présenter, comme tentation ou comme nécessité. Refuser toute violence par principe, l'admettre en dernier recours sous des règles strictes, la tenir pour l'instrument ordinaire du politique, ou y voir le chemin de libération des opprimés : chaque réponse engage une conception de la morale, du pouvoir et de l'histoire.",
+    "en": "In the face of aggression, injustice, and oppression, resort to force always ends up presenting itself, as a temptation or a necessity. Refusing all violence on principle, admitting it as a last resort under strict rules, treating it as the ordinary instrument of politics, or seeing in it the oppressed's path to liberation: each answer commits a conception of morality, power, and history."
+  },
+  "layer": "VALUE",
+  "type": "CATEGORICAL_ORDERED",
+  "commonOpinion": "JUST_WAR",
+  "poles": [
+    {
+      "id": "PACIFISM",
+      "label": {
+        "fr": "Pacifisme",
+        "en": "Pacifism"
+      },
+      "description": {
+        "fr": "Aucune cause ne justifie de verser le sang : la violence avilit celui qui l'exerce, appelle la violence en retour et corrompt les fins mêmes qu'elle prétend servir. La non-violence n'est pas une passivité mais une force : résister au mal sans le reproduire, jusqu'à désarmer l'adversaire au lieu de l'abattre.",
+        "en": "No cause justifies shedding blood: violence degrades the one who wields it, calls forth violence in return, and corrupts the very ends it claims to serve. Nonviolence is not passivity but a force: resisting evil without reproducing it, disarming the adversary rather than striking them down."
+      },
+      "figures": [
+        {
+          "slug": "tolstoy",
+          "name": {
+            "fr": "Tolstoï",
+            "en": "Tolstoy"
+          }
+        },
+        {
+          "slug": "gandhi",
+          "name": {
+            "fr": "Gandhi",
+            "en": "Gandhi"
+          }
+        }
+      ]
+    },
+    {
+      "id": "JUST_WAR",
+      "label": {
+        "fr": "Guerre juste",
+        "en": "Just war"
+      },
+      "description": {
+        "fr": "La violence est un mal, mais un mal parfois nécessaire pour empêcher un mal plus grand : défendre les innocents, repousser l'agression. Elle ne peut être que l'exception, enserrée dans des conditions strictes : cause juste, autorité légitime, dernier recours, proportion des moyens, protection des non-combattants.",
+        "en": "Violence is an evil, but sometimes a necessary one, to prevent a greater evil: defending the innocent, repelling aggression. It can only ever be the exception, hedged in by strict conditions: just cause, legitimate authority, last resort, proportionate means, protection of non-combatants."
+      },
+      "figures": [
+        {
+          "slug": "augustine",
+          "name": {
+            "fr": "Augustin",
+            "en": "Augustine"
+          }
+        },
+        {
+          "slug": "aquinas",
+          "name": {
+            "fr": "Thomas d'Aquin",
+            "en": "Aquinas"
+          }
+        },
+        {
+          "slug": "walzer",
+          "name": {
+            "fr": "Walzer",
+            "en": "Walzer"
+          }
+        }
+      ],
+      "nuances": [
+        {
+          "fr": "Chez Augustin, la guerre juste reste enchâssée dans une éthique chrétienne de la paix : la non-résistance vaut pour soi, la défense armée pour le prochain, confiée à l'autorité publique.",
+          "en": "In Augustine, just war remains embedded in a Christian ethics of peace: non-resistance holds for oneself, armed defense for one's neighbor, entrusted to public authority."
+        }
+      ]
+    },
+    {
+      "id": "INSTRUMENTAL_VIOLENCE",
+      "label": {
+        "fr": "La force, instrument du politique",
+        "en": "Force as an instrument of politics"
+      },
+      "description": {
+        "fr": "Le politique ne se moralise pas : tout ordre repose en dernier ressort sur la contrainte, et l'État se définit par le monopole de la violence légitime. La question n'est pas de savoir si la force est bonne, mais si elle est employée à propos : qui gouverne doit savoir en user, avec économie et lucidité, sous peine de livrer la cité au chaos ou à plus violent que soi.",
+        "en": "Politics cannot be moralized: every order rests, in the last resort, on coercion, and the state is defined by its monopoly on legitimate violence. The question is not whether force is good, but whether it is used aptly: whoever governs must know how to wield it, sparingly and lucidly, or surrender the city to chaos or to someone more violent."
+      },
+      "figures": [
+        {
+          "slug": "machiavelli",
+          "name": {
+            "fr": "Machiavel",
+            "en": "Machiavelli"
+          }
+        },
+        {
+          "slug": "clausewitz",
+          "name": {
+            "fr": "Clausewitz",
+            "en": "Clausewitz"
+          }
+        },
+        {
+          "slug": "weber",
+          "name": {
+            "fr": "Weber",
+            "en": "Weber"
+          }
+        }
+      ],
+      "nuances": [
+        {
+          "fr": "Machiavel assume la position en moraliste du politique ; Clausewitz et Weber la formulent d'abord comme un constat (la guerre continue la politique, l'État monopolise la violence légitime), que ce pôle assume comme position : gouverner, c'est accepter d'user de la contrainte.",
+          "en": "Machiavelli owns the stance as a moralist of politics; Clausewitz and Weber first state it as a finding (war continues politics, the state monopolizes legitimate violence), which this pole takes up as a position: to govern is to accept the use of coercion."
+        }
+      ]
+    },
+    {
+      "id": "EMANCIPATORY_VIOLENCE",
+      "label": {
+        "fr": "Violence émancipatrice",
+        "en": "Emancipatory violence"
+      },
+      "description": {
+        "fr": "Là où la domination est elle-même une violence installée, exploitation, colonisation, ordre inique maintenu par la force, la violence des opprimés n'est pas un mal mais une réplique : le moyen de briser un système qui ne cédera jamais de lui-même, et, pour l'opprimé, une manière de reconquérir son humanité niée.",
+        "en": "Where domination is itself an entrenched violence, exploitation, colonization, an iniquitous order upheld by force, the violence of the oppressed is not an evil but a reply: the means of breaking a system that will never yield of its own accord, and, for the oppressed, a way of reclaiming their denied humanity."
+      },
+      "figures": [
+        {
+          "slug": "fanon",
+          "name": {
+            "fr": "Fanon",
+            "en": "Fanon"
+          }
+        },
+        {
+          "slug": "sorel",
+          "name": {
+            "fr": "Sorel",
+            "en": "Sorel"
+          }
+        }
+      ],
+      "nuances": [
+        {
+          "fr": "Deux versions distinctes : chez Fanon, la contre-violence anticoloniale, réplique à une domination totale ; chez Sorel, la violence prolétarienne comme mythe mobilisateur de la grève générale, plus proche d'une éthique de l'action que d'un calcul stratégique.",
+          "en": "Two distinct versions: in Fanon, anticolonial counter-violence, a reply to total domination; in Sorel, proletarian violence as the mobilizing myth of the general strike, closer to an ethic of action than to strategic calculation."
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 1,
+  "clusters": [],
+  "relatedAxes": [
+    "POLITICAL_IDEAL",
+    "AUTHORITY",
+    "PUNISHMENT",
+    "SOCIAL_CONTRACT",
+    "FORGIVENESS"
+  ]
+}

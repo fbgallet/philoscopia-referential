@@ -58,7 +58,7 @@ Only virtue, or the good will, has unconditional worth: the good life is the mor
 
 ## Related axes
 
-[Beauty in life](../axes/aesthetic-life.md) · [Bodily pleasures](../axes/bodily-pleasures.md) · [Relation to desire](../axes/desire.md) · [The meaning of life](../axes/life-meaning.md) · [Nature and culture](../axes/human-nature.md) · [Scope of action](../axes/control-scope.md) · [Interiority](../axes/interiority.md) · [Where the sacred resides](../axes/transcendence.md) · [Belonging](../axes/belonging.md) · [Ethics of belief](../axes/belief-ethics.md) · [Distributive justice](../axes/distributive-justice.md)
+[Beauty in life](../axes/aesthetic-life.md) · [Bodily pleasures](../axes/bodily-pleasures.md) · [Relation to desire](../axes/desire.md) · [The meaning of life](../axes/life-meaning.md) · [Nature and culture](../axes/human-nature.md) · [Scope of action](../axes/control-scope.md) · [Interiority](../axes/interiority.md) · [Where the sacred resides](../axes/transcendence.md) · [Belonging](../axes/belonging.md) · [Ethics of belief](../axes/belief-ethics.md) · [Distributive justice](../axes/distributive-justice.md) · [The point of philosophy](../axes/metaphilosophy.md)
 
 ---
 

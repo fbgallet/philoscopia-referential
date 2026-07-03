@@ -18,6 +18,18 @@ Buddhism arises from the awakening of Siddhārtha Gautama, the Buddha, around th
 
 ## Positions
 
+### [Being and becoming](../axes/being-becoming.md)
+
+*positioned · explicit in the texts · major*
+
+Becoming and flux 90% · Permanence of being 10%
+
+**Impermanence** (anicca) is the first of the three marks of existence: every conditioned phenomenon arises, transforms, and ceases, with no substance subsisting beneath the flux, neither in things nor in us (**anattā**, non-self). Taking things to be stable is precisely the illusion that breeds attachment and suffering; wisdom consists in seeing arising and ceasing.
+
+> “Whatever is subject to arising is subject to ceasing.” (Samyutta Nikāya (canonical formula))
+
+*Sources : Dhammapada, 277-279 (the three marks) · Samyutta Nikāya, 56.11*
+
 ### [Criterion of right action](../axes/ethics-foundation.md)
 
 *positioned · inferable · minor*

@@ -1,0 +1,95 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/fbgallet/philoscopia-referential/blob/main/schemas/workspace/inquiries.schema.json",
+  "title": "workspace/inquiries",
+  "description": "The user's own open questions and problems. Part of the user workspace format (my-philosophy/): monolingual, personal, local-first files written by the Philoscopia MCP server and exploration skills. Structure only; write-time rules (e.g. POSITIONED requires a value, ref resolution against the pinned referential) are enforced by the tools.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^[a-z0-9][a-z0-9-]*$"
+      },
+      "statement": {
+        "type": "string",
+        "minLength": 1
+      },
+      "kind": {
+        "type": "string",
+        "enum": [
+          "QUESTION",
+          "TENSION",
+          "DILEMMA",
+          "CLARIFICATION",
+          "EXPLORATION"
+        ]
+      },
+      "status": {
+        "type": "string",
+        "enum": [
+          "ACTIVE",
+          "DORMANT",
+          "RESOLVED"
+        ]
+      },
+      "priority": {
+        "type": "string",
+        "enum": [
+          "HIGH",
+          "MEDIUM",
+          "LOW"
+        ]
+      },
+      "anchors": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "pattern": "^(ax:[A-Z][A-Z0-9_]*|pole:[A-Z][A-Z0-9_]*\\/[A-Z][A-Z0-9_]*|(c|ph|mv|chr|te|w|problem):[a-z0-9][a-z0-9-]*)$"
+        }
+      },
+      "relatedBeliefs": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9-]*$"
+        }
+      },
+      "reflections": {
+        "type": "string"
+      },
+      "resolution": {
+        "anyOf": [
+          {
+            "type": "string"
+          },
+          {
+            "type": "null"
+          }
+        ]
+      },
+      "sessions": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "pattern": "^journal\\/[a-z0-9][a-z0-9-]*\\.md$"
+        }
+      },
+      "createdAt": {
+        "type": "string"
+      },
+      "updatedAt": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "id",
+      "statement",
+      "kind",
+      "status",
+      "createdAt",
+      "updatedAt"
+    ],
+    "additionalProperties": false
+  }
+}

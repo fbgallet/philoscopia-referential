@@ -214,7 +214,7 @@ Against Socratic intellectualism, Aristotelianism grants the passions a properly
 
 Partialism 80% · Impartialism 20%
 
-Friendship, philia, occupies two whole books of the *[Nicomachean Ethics](../works/nicomachean-ethics-aristotle.md)* and is an indispensable good of the good life: one owes more to kin, benefactors and fellow citizens. This avowed priority of particular bonds, up to the civic friendship that holds the city together, places Aristotelianism on the partialist side.
+Friendship, [philia](../glossary/philia.md), occupies two whole books of the *[Nicomachean Ethics](../works/nicomachean-ethics-aristotle.md)* and is an indispensable good of the good life: one owes more to kin, benefactors and fellow citizens. This avowed priority of particular bonds, up to the civic friendship that holds the city together, places Aristotelianism on the partialist side.
 
 *Sources : Aristotle, Nicomachean Ethics, VIII-IX*
 

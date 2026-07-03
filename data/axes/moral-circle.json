@@ -130,9 +130,109 @@
     "HUMAN_PLACE_NATURE",
     "MACHINE_MIND",
     "MORAL_DEMAND",
-    "MORAL_SCOPE"
+    "MORAL_SCOPE",
+    "RIGHTS_NATURE"
   ],
   "problems": [
+    {
+      "id": "moral-status-criterion",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "un être vivant", "en": "a living being" },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "MORAL",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "peuvent-ils souffrir ?", "en": "can they suffer?" },
+        { "fr": "sensibilité", "en": "sentience" },
+        { "fr": "dignité rationnelle", "en": "rational dignity" }
+      ],
+      "poles": ["ANTHROPOCENTRISM", "PATHOCENTRISM"],
+      "anchors": [
+        { "name": { "fr": "Bentham", "en": "Bentham" }, "kind": "PHILOSOPHER", "slug": "bentham" },
+        { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" },
+        { "name": { "fr": "Descartes", "en": "Descartes" }, "kind": "PHILOSOPHER", "slug": "descartes" }
+      ],
+      "doorways": [{ "axis": "MORAL_SCOPE" }],
+      "title": { "fr": "Le critère du statut moral", "en": "The criterion of moral status" },
+      "explicitation": {
+        "fr": "Qu'est-ce qui donne à un être une valeur morale : la raison, comme le pensait Kant, ou la simple capacité de souffrir, comme le demandait Bentham ? Selon le seuil retenu, le cercle des êtres qui comptent s'ouvre ou se referme.",
+        "en": "What gives a being moral worth: reason, as Kant held, or the mere capacity to suffer, as Bentham asked? Depending on the threshold chosen, the circle of beings that count opens or narrows."
+      }
+    },
+    {
+      "id": "species-privilege",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "un animal non humain", "en": "a non-human animal" },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "MORAL",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "spécisme", "en": "speciesism" },
+        { "fr": "argument des cas marginaux", "en": "argument from marginal cases" },
+        { "fr": "dissanalogie", "en": "disanalogy" }
+      ],
+      "poles": ["ANTHROPOCENTRISM", "PATHOCENTRISM"],
+      "anchors": [
+        { "name": { "fr": "Ryder", "en": "Ryder" }, "kind": "PHILOSOPHER", "slug": "ryder" },
+        { "name": { "fr": "Singer", "en": "Singer" }, "kind": "PHILOSOPHER", "slug": "singer" },
+        { "name": { "fr": "Scruton", "en": "Scruton" }, "kind": "PHILOSOPHER" }
+      ],
+      "title": { "fr": "Le privilège de l'espèce", "en": "The privilege of the species" },
+      "explicitation": {
+        "fr": "Préférer les siens parce qu'ils sont de notre espèce, est-ce un devoir naturel ou un préjugé arbitraire, comparable au racisme ? Et si des nourrissons ou des humains très diminués comptent sans posséder la raison, l'espèce peut-elle encore servir de critère ?",
+        "en": "Is favouring one's own because they belong to our species a natural duty or an arbitrary prejudice, comparable to racism? And if infants or severely impaired humans count without possessing reason, can species still serve as the criterion?"
+      }
+    },
+    {
+      "id": "reverence-for-life",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "une plante, un insecte", "en": "a plant, an insect" },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "MORAL",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "respect de la vie", "en": "reverence for life" },
+        { "fr": "vouloir-vivre", "en": "will to live" },
+        { "fr": "valeur inhérente du vivant", "en": "inherent worth of the living" }
+      ],
+      "poles": ["PATHOCENTRISM", "BIOCENTRISM"],
+      "anchors": [
+        { "name": { "fr": "Schweitzer", "en": "Schweitzer" }, "kind": "PHILOSOPHER", "slug": "schweitzer" },
+        { "name": { "fr": "Paul Taylor", "en": "Paul Taylor" }, "kind": "PHILOSOPHER" }
+      ],
+      "title": { "fr": "La révérence pour la vie", "en": "Reverence for life" },
+      "explicitation": {
+        "fr": "Faut-il, pour compter, être capable de souffrir, ou suffit-il d'être vivant ? Un arbre, un insecte poursuivent leur propre bien : méritent-ils à ce titre notre respect, ou le vivant sans sensibilité ne nous oblige-t-il à rien ?",
+        "en": "To count, must one be capable of suffering, or is it enough to be alive? A tree, an insect pursue a good of their own: do they deserve our respect on that ground, or does life without sentience oblige us to nothing?"
+      }
+    },
+    {
+      "id": "animal-minds",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "la vie mentale d'un animal", "en": "an animal's mental life" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "autres esprits", "en": "other minds" },
+        { "fr": "animal-machine", "en": "animal-machine" },
+        { "fr": "conscience animale", "en": "animal consciousness" }
+      ],
+      "poles": ["ANTHROPOCENTRISM", "PATHOCENTRISM"],
+      "anchors": [
+        { "name": { "fr": "Descartes", "en": "Descartes" }, "kind": "PHILOSOPHER", "slug": "descartes" },
+        { "name": { "fr": "Nagel", "en": "Nagel" }, "kind": "PHILOSOPHER" }
+      ],
+      "doorways": [{ "axis": "MACHINE_MIND" }],
+      "title": { "fr": "La vie intérieure des bêtes", "en": "The inner life of animals" },
+      "explicitation": {
+        "fr": "Tout le débat suppose que les animaux ressentent quelque chose : mais peut-on le savoir ? Descartes voyait en eux des machines sans conscience ; comment être sûr qu'il y a « un effet que cela fait » d'être une chauve-souris ?",
+        "en": "The whole debate assumes that animals feel something: but can we know it? Descartes saw them as machines without consciousness; how can we be sure there is \"something it is like\" to be a bat?"
+      }
+    },
     {
       "id": "artificial-minds",
       "resolution": "LATENT",
@@ -156,6 +256,107 @@
       "explicitation": {
         "fr": "Si une intelligence artificielle disait souffrir, faudrait-il étendre jusqu'à elle le critère de la sensibilité, ou la considération morale s'arrête-t-elle au vivant, une souffrance simulée n'obligeant à rien ?",
         "en": "If an artificial intelligence said it was suffering, should the sentience criterion be extended to it, or does moral consideration stop at the living, simulated suffering obliging us to nothing?"
+      }
+    },
+    {
+      "id": "welfare-or-rights",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "le traitement d'un animal", "en": "the treatment of an animal" },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "MORAL",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "sujet d'une vie", "en": "subject-of-a-life" },
+        { "fr": "droits des animaux", "en": "animal rights" },
+        { "fr": "considération égale des intérêts", "en": "equal consideration of interests" }
+      ],
+      "poles": ["PATHOCENTRISM"],
+      "anchors": [
+        { "name": { "fr": "Singer", "en": "Singer" }, "kind": "PHILOSOPHER", "slug": "singer" },
+        { "name": { "fr": "Regan", "en": "Regan" }, "kind": "PHILOSOPHER", "slug": "regan" }
+      ],
+      "doorways": [{ "axis": "RIGHTS_NATURE" }],
+      "title": { "fr": "Bien-être ou droits", "en": "Welfare or rights" },
+      "explicitation": {
+        "fr": "Admettre que les animaux comptent, est-ce mettre leurs intérêts dans la balance du plus grand bien, quitte à les sacrifier s'il le faut, ou leur reconnaître des droits inviolables parce qu'ils sont eux aussi les sujets d'une vie ?",
+        "en": "To grant that animals count, is it to place their interests on the scales of the greater good, sacrificing them if need be, or to recognise inviolable rights in them because they too are subjects-of-a-life?"
+      }
+    },
+    {
+      "id": "wild-animal-suffering",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "la prédation dans la nature", "en": "predation in nature" },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "MORAL",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "souffrance animale sauvage", "en": "wild animal suffering" },
+        { "fr": "prédation", "en": "predation" },
+        { "fr": "intervention dans la nature", "en": "intervention in nature" }
+      ],
+      "poles": ["PATHOCENTRISM", "ECOCENTRISM"],
+      "anchors": [
+        { "name": { "fr": "Singer", "en": "Singer" }, "kind": "PHILOSOPHER", "slug": "singer" },
+        { "name": { "fr": "McMahan", "en": "McMahan" }, "kind": "PHILOSOPHER" }
+      ],
+      "doorways": [{ "axis": "HUMAN_PLACE_NATURE" }],
+      "title": { "fr": "La souffrance des animaux sauvages", "en": "The suffering of wild animals" },
+      "explicitation": {
+        "fr": "Si la souffrance des animaux nous oblige, celle qu'ils s'infligent entre eux nous oblige-t-elle aussi ? Devrions-nous intervenir contre la prédation et les maux de la nature que nous n'avons pas causés, ou est-ce présumer que nous avons à les corriger ?",
+        "en": "If the suffering of animals binds us, does the suffering they inflict on one another bind us too? Should we intervene against predation and the ills of nature that we did not cause, or is that to presume it falls to us to correct them?"
+      }
+    },
+    {
+      "id": "animal-exploitation",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "l'élevage et l'abattage", "en": "farming and slaughter" },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "MORAL",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "élevage industriel", "en": "factory farming" },
+        { "fr": "végétarisme", "en": "vegetarianism" },
+        { "fr": "exploitation animale", "en": "animal exploitation" }
+      ],
+      "poles": ["ANTHROPOCENTRISM", "PATHOCENTRISM"],
+      "anchors": [
+        { "name": { "fr": "Singer", "en": "Singer" }, "kind": "PHILOSOPHER", "slug": "singer" }
+      ],
+      "doorways": [{ "axis": "MORAL_DEMAND" }],
+      "title": { "fr": "Faut-il cesser d'exploiter les animaux ?", "en": "Must we stop using animals?" },
+      "explicitation": {
+        "fr": "Si les animaux sensibles comptent vraiment, l'élevage industriel, l'abattage et l'expérimentation deviennent-ils des maux qu'il faut cesser, jusqu'à changer nos vies et nos assiettes, ou peut-on leur devoir des égards sans renoncer à s'en servir ?",
+        "en": "If sentient animals truly count, do factory farming, slaughter, and experimentation become wrongs that must end, even to the point of changing our lives and our plates, or can we owe them consideration without giving up the use we make of them?"
+      }
+    },
+    {
+      "id": "individual-or-whole",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "la communauté biotique", "en": "the biotic community" },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "MORAL",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "land ethic", "en": "land ethic" },
+        { "fr": "communauté biotique", "en": "biotic community" },
+        { "fr": "écologie profonde", "en": "deep ecology" },
+        { "fr": "critique de Sagoff", "en": "Sagoff's critique" }
+      ],
+      "poles": ["PATHOCENTRISM", "ECOCENTRISM"],
+      "anchors": [
+        { "name": { "fr": "Leopold", "en": "Leopold" }, "kind": "PHILOSOPHER", "slug": "leopold" },
+        { "name": { "fr": "Næss", "en": "Næss" }, "kind": "PHILOSOPHER", "slug": "naess" },
+        { "name": { "fr": "Sagoff", "en": "Sagoff" }, "kind": "PHILOSOPHER" }
+      ],
+      "doorways": [{ "axis": "HUMAN_PLACE_NATURE" }],
+      "title": { "fr": "L'individu ou le tout", "en": "The individual or the whole" },
+      "explicitation": {
+        "fr": "L'écologie valorise l'intégrité de la communauté biotique, quitte à abattre les animaux d'une espèce envahissante pour préserver l'ensemble : la valeur est-elle dans le tout, ou dans chaque individu sensible que cette gestion sacrifie ?",
+        "en": "Ecology values the integrity of the biotic community, even to culling the animals of an invasive species to preserve the whole: does worth lie in the whole, or in each sentient individual that such management sacrifices?"
       }
     }
   ]

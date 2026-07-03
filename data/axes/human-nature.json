@@ -74,7 +74,9 @@
   ],
   "core": false,
   "difficulty": 2,
-  "clusters": [],
+  "clusters": [
+    "NATURE_CONSTRUCTION"
+  ],
   "relatedAxes": [
     "SOCIAL_IDENTITY",
     "ESSENCE",

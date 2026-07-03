@@ -29,7 +29,7 @@ History has neither plan nor destination: it results from human actions with unf
 
 ## Related axes
 
-[Tradition and transformation](../axes/conservatism-progressism.md) · [Relation to technology](../axes/technology.md)
+[Tradition and transformation](../axes/conservatism-progressism.md) · [Relation to technology](../axes/technology.md) · [The point of philosophy](../axes/metaphilosophy.md)
 
 ---
 

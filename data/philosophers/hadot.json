@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "hadot",
+  "stub": true,
+  "name": {
+    "fr": "Pierre Hadot",
+    "en": "Pierre Hadot"
+  },
+  "summary": {
+    "fr": "Historien de la philosophie antique, il a montré que la philosophie ancienne était moins un système de doctrines qu'une manière de vivre : un ensemble d'exercices spirituels, méditation, examen de conscience, attention au présent, destinés à transformer celui qui les pratique.",
+    "en": "Historian of ancient philosophy who showed that ancient philosophy was less a system of doctrines than a way of life: a set of spiritual exercises, meditation, self-examination, attention to the present moment, meant to transform the one who practices them."
+  },
+  "birth": 1922,
+  "death": 2010,
+  "nationality": {
+    "fr": "Français",
+    "en": "French"
+  },
+  "movements": [],
+  "updatedAt": "2026-07-02T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

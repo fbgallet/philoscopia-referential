@@ -6,6 +6,7 @@
 
 - [Éthique de la croyance](belief-ethics.md) : Peut-on légitimement croire sans preuves suffisantes ?
 - [Justification de la croyance](epistemic-justification.md) : Qu'est-ce qui rend une croyance justifiée ?
+- [Le but de la philosophie](metaphilosophy.md) : À quoi sert la philosophie ?
 - [Le sens des mots](meaning.md) : D'où les mots tiennent-ils leur sens ?
 - [Les universaux](universals.md) : Les propriétés générales existent-elles, ou ne sont-elles que des noms ?
 - [Méthode scientifique](scientific-method.md) : Comment la science établit-elle ses vérités ?
@@ -47,6 +48,7 @@
 - [Individu et société](individual-society.md) : Pour comprendre la vie sociale, faut-il partir des individus ou du tout social ?
 - [Intérêt propre et autrui](self-interest.md) : Quelle place accorder à notre propre intérêt face à celui des autres ?
 - [Justice distributive](distributive-justice.md) : Comment les richesses et les ressources doivent-elles être réparties dans la société ?
+- [La violence](violence.md) : La violence peut-elle être légitime ?
 - [Lettre ou esprit de la règle](rule-spirit.md) : Faut-il appliquer les règles à la lettre ou selon leur esprit ?
 - [Liberté politique](political-liberty.md) : Qu'est-ce qu'être politiquement libre ?
 - [Nature de l'amour](love-nature.md) : Qu'est-ce qui est au fond de l'amour : un manque, un don, ou autre chose ?
@@ -70,6 +72,7 @@
 - [Foi et raison](faith-reason.md) : Quel rapport la foi entretient-elle avec la raison : accord, conflit ou indifférence ?
 - [Générations futures](future-generations.md) : Avons-nous des devoirs envers les générations futures ?
 - [Hiérarchie des goûts](taste-hierarchy.md) : Existe-t-il des plaisirs esthétiques supérieurs à d'autres, ou toute hiérarchie des goûts est-elle une construction sociale ?
+- [L'être et le devenir](being-becoming.md) : Le réel est-il, au fond, ce qui demeure ou ce qui devient ?
 - [Le beau](beauty.md) : La beauté est-elle dans les choses elles-mêmes ou dans le regard de celui qui les contemple ?
 - [Le beau dans la vie](aesthetic-life.md) : Le beau est-il au cœur d'une vie réussie, ou un luxe secondaire au regard de l'éthique et de l'utile ?
 - [Le problème du mal](problem-of-evil.md) : Le mal est-il compatible avec un Dieu bon et tout-puissant ?

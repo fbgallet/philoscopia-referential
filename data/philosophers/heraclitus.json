@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "heraclitus",
+  "stub": true,
+  "name": {
+    "fr": "Héraclite",
+    "en": "Heraclitus"
+  },
+  "summary": {
+    "fr": "Penseur présocratique du devenir : tout s'écoule, on ne descend pas deux fois dans le même fleuve, et le monde est un feu toujours vivant réglé par le logos, unité des contraires en perpétuelle tension.",
+    "en": "Presocratic thinker of becoming: everything flows, one cannot step into the same river twice, and the world is an ever-living fire governed by the logos, a unity of opposites in perpetual tension."
+  },
+  "birth": -544,
+  "death": -480,
+  "nationality": {
+    "fr": "Grec (Éphèse)",
+    "en": "Greek (Ephesus)"
+  },
+  "movements": [],
+  "updatedAt": "2026-07-02T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

@@ -324,6 +324,16 @@ If no biological, psychic or economic destiny settles in advance what a woman is
 
 *Sources : The Second Sex (1949), vol. II, opening*
 
+### [Nature of love](../axes/love-nature.md)
+
+*positioned · inferable · minor*
+
+Philia (friendship) 70% · Agape as gift 30%
+
+Beauvoir criticizes the love in which woman alienates herself and makes herself the other's object: the woman in love who loses herself in the beloved, for want of a project of her own, is a figure of bad faith. To this love-as-lack that seeks to complete itself in another, she opposes authentic love, the reciprocal bond of two freedoms that recognize and choose one another without either dissolving into the other. It is an existential [philia](../glossary/philia.md), made of mutual recognition, in which the share of gift lies in each willing the other's freedom as their own.
+
+*Sources : The Second Sex (1949), vol. II, "The Woman in Love"*
+
 ## Influenced by
 
 - **[Sartre](../philosophers/sartre.md)** (reinterprets) : In constant dialogue with [Sartre](../philosophers/sartre.md), [Beauvoir](../philosophers/beauvoir.md) transforms the categories of freedom and situation into an ethics of ambiguity and an analysis of gendered oppression, where existentialism had stayed abstract.

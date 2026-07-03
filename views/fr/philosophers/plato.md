@@ -16,6 +16,18 @@ Athénien né dans une famille aristocratique, disciple de Socrate dont la conda
 
 ## Positions
 
+### [L'être et le devenir](../axes/being-becoming.md)
+
+*positionné · explicite dans les textes · majeure*
+
+Permanence de l'être 90% · Devenir et flux 10%
+
+Le sensible, en perpétuel devenir, ne peut être objet de science : on n'y rencontre rien de stable à connaître. Ce qui est réellement, ce sont les **Formes intelligibles**, immuables et éternelles, dont les choses changeantes ne sont que des participations. Platon accorde pourtant au devenir sa consistance propre : le monde sensible n'est pas rien, il est une image mobile de l'éternité.
+
+> « Qu'est-ce qui est toujours, sans jamais devenir, et qu'est-ce qui devient toujours, sans être jamais ? » (Timée, 27d)
+
+*Sources : Timée, 27d-28a · République, VI-VII · Cratyle, 439c-440*
+
 ### [Sens de la souffrance](../axes/suffering-meaning.md)
 
 *positionné · inférable · mineure*

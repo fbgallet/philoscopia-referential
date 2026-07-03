@@ -75,7 +75,9 @@
   },
   "core": false,
   "difficulty": 1,
-  "clusters": [],
+  "clusters": [
+    "NATURE_CONSTRUCTION"
+  ],
   "relatedAxes": [
     "ART_NATURE",
     "TASTE_HIERARCHY"

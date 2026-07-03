@@ -34,7 +34,7 @@ La science est notre connaissance la plus rigoureuse, mais elle procède par con
 
 ## Axes liés
 
-[Méthode scientifique](../axes/scientific-method.md) · [Foi et raison](../axes/faith-reason.md) · [Statut du savoir](../axes/knowledge-status.md)
+[Méthode scientifique](../axes/scientific-method.md) · [Foi et raison](../axes/faith-reason.md) · [Statut du savoir](../axes/knowledge-status.md) · [Le but de la philosophie](../axes/metaphilosophy.md)
 
 ---
 

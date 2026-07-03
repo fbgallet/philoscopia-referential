@@ -1,0 +1,132 @@
+{
+  "id": "METAPHILOSOPHY",
+  "relation": "TRUTH",
+  "territory": "KNOWLEDGE",
+  "label": {
+    "fr": "Le but de la philosophie",
+    "en": "The point of philosophy"
+  },
+  "question": {
+    "fr": "À quoi sert la philosophie ?",
+    "en": "What is philosophy for?"
+  },
+  "stakes": {
+    "fr": "Quiconque ouvre un livre de philosophie en attend quelque chose : comprendre enfin le monde, changer la société, apprendre à mieux vivre, ou se défaire des questions mal posées, quand une opinion répandue ne la juge pas tout simplement inutile, dépassée par les sciences. Les philosophes eux-mêmes n'ont cessé de se disputer leur propre vocation ; ce site, qui vous invite à élaborer votre vision du monde, prend lui-même position dans ce débat.",
+    "en": "Anyone who opens a book of philosophy expects something from it: finally understanding the world, changing society, learning to live better, or shedding badly posed questions — when a widespread opinion does not simply deem it useless, superseded by the sciences. Philosophers themselves have never stopped quarreling over their own vocation; this site, which invites you to build your own worldview, itself takes a stand in that debate."
+  },
+  "layer": "VALUE",
+  "type": "CATEGORICAL",
+  "poles": [
+    {
+      "id": "CONTEMPLATION",
+      "label": {
+        "fr": "Comprendre le monde",
+        "en": "Understanding the world"
+      },
+      "description": {
+        "fr": "La philosophie accomplit sa vocation en comprenant : saisir l'ordre des choses, rendre le réel intelligible, est la plus haute activité dont nous soyons capables, et n'a pas à servir autre chose qu'elle-même. Le savoir n'est pas ici un moyen mais la fin : la pensée vient embrasser ce qui est, comme la chouette de Minerve prend son envol au crépuscule.",
+        "en": "Philosophy fulfills its vocation by understanding: grasping the order of things, making the real intelligible, is the highest activity we are capable of, and it need serve nothing beyond itself. Knowledge here is not a means but the end: thought comes to embrace what is, as the owl of Minerva takes flight at dusk."
+      },
+      "figures": [
+        {
+          "slug": "aristotle",
+          "name": {
+            "fr": "Aristote",
+            "en": "Aristotle"
+          }
+        },
+        {
+          "slug": "hegel",
+          "name": {
+            "fr": "Hegel",
+            "en": "Hegel"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WORLD_TRANSFORMATION",
+      "label": {
+        "fr": "Transformer le monde",
+        "en": "Changing the world"
+      },
+      "description": {
+        "fr": "Interpréter le monde ne suffit pas : ce qui importe, c'est de le transformer. Une philosophie qui laisse les choses en l'état trahit sa tâche ; penser, c'est critiquer les injustices et les dominations, éclairer l'action collective, travailler à l'émancipation. La valeur d'une idée se mesure à ce qu'elle change dans le monde.",
+        "en": "Interpreting the world is not enough: the point is to change it. A philosophy that leaves things as they are betrays its task; to think is to criticize injustice and domination, to inform collective action, to work for emancipation. The worth of an idea is measured by what it changes in the world."
+      },
+      "figures": [
+        {
+          "slug": "marx",
+          "name": {
+            "fr": "Marx",
+            "en": "Marx"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SELF_TRANSFORMATION",
+      "label": {
+        "fr": "Se transformer soi-même",
+        "en": "Transforming oneself"
+      },
+      "description": {
+        "fr": "La philosophie est un exercice avant d'être un discours : une manière de vivre qui travaille les désirs, les peurs et les jugements pour transformer celui qui la pratique. « Vaine est la parole du philosophe qui ne soigne aucune souffrance humaine » : elle vaut comme médecine de l'âme et art de vivre, non comme système.",
+        "en": "Philosophy is an exercise before it is a discourse: a way of life that works on our desires, fears, and judgments so as to transform the one who practices it. \"Empty is the word of the philosopher that heals no human suffering\": its worth is that of medicine for the soul and an art of living, not of a system."
+      },
+      "figures": [
+        {
+          "slug": "hadot",
+          "name": {
+            "fr": "Hadot",
+            "en": "Hadot"
+          }
+        },
+        {
+          "slug": "stoicism",
+          "name": {
+            "fr": "les stoïciens",
+            "en": "the Stoics"
+          }
+        },
+        {
+          "slug": "epicurus",
+          "name": {
+            "fr": "Épicure",
+            "en": "Epicurus"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CLARIFICATION",
+      "label": {
+        "fr": "Clarifier la pensée",
+        "en": "Clarifying thought"
+      },
+      "description": {
+        "fr": "La philosophie ne délivre ni vérités sur le monde ni recettes de vie : elle apprend à penser. Sa tâche est d'examiner d'un œil critique toute croyance, toute prétention, tout concept, d'en éprouver les fondements et de dénouer les confusions ; à sa pointe, elle montre que bien des grands problèmes sont des nœuds du langage, à dissoudre plutôt qu'à résoudre. La clarté n'est pas ici un préalable : elle est le but même.",
+        "en": "Philosophy delivers neither truths about the world nor recipes for living: it teaches us how to think. Its task is to examine critically every belief, every claim, every concept, to test their grounds and untangle confusions; at its sharpest, it shows that many of the great problems are knots in language, to be dissolved rather than solved. Clarity is not a preliminary here: it is the very goal."
+      },
+      "figures": [
+        {
+          "slug": "wittgenstein",
+          "name": {
+            "fr": "Wittgenstein",
+            "en": "Wittgenstein"
+          }
+        }
+      ]
+    }
+  ],
+  "core": true,
+  "difficulty": 1,
+  "clusters": [],
+  "relatedAxes": [
+    "SCIENCE_PLACE",
+    "LIFE_MEANING",
+    "SOVEREIGN_GOOD",
+    "MEANING",
+    "HISTORY_MEANING"
+  ]
+}

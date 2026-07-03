@@ -324,6 +324,16 @@ Si aucun destin biologique, psychique ou économique ne fixe d'avance ce qu'est 
 
 *Sources : Le Deuxième Sexe (1949), t. II, ouverture*
 
+### [Nature de l'amour](../axes/love-nature.md)
+
+*positionné · inférable · mineure*
+
+Philia (amitié) 70% · Agapè-don 30%
+
+Beauvoir critique l'amour où la femme s'aliène et se fait l'objet de l'autre : l'amoureuse qui se perd dans l'aimé, faute de projet propre, est une figure de la mauvaise foi. À cet amour-manque qui veut se compléter dans un autre, elle oppose l'amour authentique, lien réciproque de deux libertés qui se reconnaissent et se choisissent sans que l'une se dissolve dans l'autre. C'est une [philia](../glossary/philia.md) existentielle, faite de reconnaissance mutuelle, où la part de don tient à ce que chacun veut la liberté de l'autre comme la sienne.
+
+*Sources : Le Deuxième Sexe (1949), t. II, « L'amoureuse »*
+
 ## Influencé par
 
 - **[Sartre](../philosophers/sartre.md)** (réinterprète) : En dialogue constant avec [Sartre](../philosophers/sartre.md), [Beauvoir](../philosophers/beauvoir.md) transforme les catégories de liberté et de situation en une éthique de l'ambiguïté et en analyse de l'oppression sexuée, là où l'existentialisme restait abstrait.

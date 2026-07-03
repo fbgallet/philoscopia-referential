@@ -16,6 +16,18 @@ A Greek philosopher of the Hellenistic age, Epicurus founded the school of the G
 
 ## Positions
 
+### [The point of philosophy](../axes/metaphilosophy.md)
+
+*positioned · explicit in the texts · major*
+
+Transforming oneself 100%
+
+Philosophy is medicine for the soul: its word is empty if it heals no suffering. Young or old, it is never too early nor too late to philosophize, that is, to work at the health of the soul; even the study of nature has no other end than to dispel the fears, of the gods and of death, that trouble our life.
+
+> “Empty is the word of the philosopher that heals no human suffering.” (fr. 221 Usener (Porphyry, Letter to Marcella, 31))
+
+*Sources : Letter to Menoeceus, 122 · Principal Doctrines, XI*
+
 ### [The meaning of life](../axes/life-meaning.md)
 
 *positioned · inferable · minor*
@@ -293,6 +305,18 @@ Argument from evil (atheism) 95% · Revolt / anti-theodicy 5%
 The so-called Epicurean dilemma, transmitted by Lactantius, concludes that a God at once good and all-powerful is incompatible with the existence of evil: either he wishes to prevent it and cannot, or he can and will not. For Epicurus, the blessed gods do not meddle with the world.
 
 *Sources : Lactantius, On the Anger of God, 13 (attributed dilemma); Letter to Menoeceus*
+
+### [Nature of love](../axes/love-nature.md)
+
+*positioned · explicit in the texts · major*
+
+Philia (friendship) 90% · Eros as lack 10%
+
+The Epicurean sage seeks neither passion nor the ecstasy of union, but [friendship](../glossary/philia.md): of all the things wisdom provides for the happiness of a whole life, he makes it the greatest (*[Principal Doctrines](../works/principal-doctrines-epicurus.md)*, *[Vatican Sayings](../works/vatican-sayings-epicurus.md)*). Born at first from the need for security, it frees us from the fear of others and sustains [ataraxia](../glossary/ataraxia.md); yet Epicurus moves from calculation to bond, for the sage comes to cherish the friend for his own sake and would, if need be, risk his life for him. This is a friendship with neither heaven nor the instinct of the species, reciprocal and cultivated in the Garden; only the trace of its utilitarian origin leaves it a slight share of lack being filled.
+
+> “Of all the things that wisdom provides for the happiness of a whole life, by far the greatest is the possession of friendship.” (Principal Doctrines, XXVII)
+
+*Sources : Principal Doctrines, XXVII · Vatican Sayings, 23, 34 and 52*
 
 ## Influence on
 

@@ -1,0 +1,100 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/fbgallet/philoscopia-referential/blob/main/schemas/works.schema.json",
+  "title": "works",
+  "description": "A work in the registry, the target of a <w id='…'> tag. Generated from the source Zod schemas. This captures structure only; cross-file and cross-field rules (reference resolution, graph acyclicity, pole-count-by-type, weights summing to 1, etc.) are enforced by the corpus validator, not expressible in JSON Schema.",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]*$"
+    },
+    "title": {
+      "type": "object",
+      "properties": {
+        "fr": {
+          "type": "string",
+          "minLength": 1
+        },
+        "en": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "fr",
+        "en"
+      ],
+      "additionalProperties": false
+    },
+    "originalTitle": {
+      "type": "string"
+    },
+    "author": {
+      "type": "object",
+      "properties": {
+        "slug": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9-]*$"
+        },
+        "name": {
+          "type": "object",
+          "properties": {
+            "fr": {
+              "type": "string",
+              "minLength": 1
+            },
+            "en": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "required": [
+            "fr",
+            "en"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "required": [
+        "slug",
+        "name"
+      ],
+      "additionalProperties": false
+    },
+    "year": {
+      "type": "integer",
+      "minimum": -9007199254740991,
+      "maximum": 9007199254740991
+    },
+    "presentation": {
+      "type": "object",
+      "properties": {
+        "fr": {
+          "type": "string",
+          "minLength": 1
+        },
+        "en": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "fr",
+        "en"
+      ],
+      "additionalProperties": false
+    },
+    "updatedAt": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "id",
+    "title",
+    "author",
+    "presentation",
+    "updatedAt"
+  ],
+  "additionalProperties": false
+}

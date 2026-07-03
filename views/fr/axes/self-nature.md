@@ -53,7 +53,7 @@ Il n'y a pas de moi permanent : seulement un faisceau de perceptions, de pensée
 
 ## Axes liés
 
-[Être ou avoir un corps](../axes/embodiment.md) · [Essence et existence](../axes/essence.md) · [Liberté de la volonté](../axes/freedom.md) · [Identité sociale](../axes/social-identity.md) · [La mort](../axes/death.md)
+[Être ou avoir un corps](../axes/embodiment.md) · [Essence et existence](../axes/essence.md) · [Liberté de la volonté](../axes/freedom.md) · [Identité sociale](../axes/social-identity.md) · [La mort](../axes/death.md) · [L'être et le devenir](../axes/being-becoming.md)
 
 ---
 

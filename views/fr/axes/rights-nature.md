@@ -48,7 +48,7 @@ Les droits ne sont ni naturels, ni de purs décrets, ni de simples calculs d'uti
 
 ## Axes liés
 
-[Justice distributive](../axes/distributive-justice.md) · [Origine du lien social](../axes/social-contract.md) · [Rapport à l'autorité](../axes/authority.md) · [Statut des normes (métaéthique)](../axes/moral-scope.md)
+[Justice distributive](../axes/distributive-justice.md) · [Origine du lien social](../axes/social-contract.md) · [Rapport à l'autorité](../axes/authority.md) · [Statut des normes (métaéthique)](../axes/moral-scope.md) · [Cercle moral](../axes/moral-circle.md)
 
 ---
 

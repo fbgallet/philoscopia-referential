@@ -879,6 +879,29 @@
         ],
         "strength": "STRONG"
       }
+    },
+    {
+      "axisId": "LOVE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.5, 0.2, 0, 0.3]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Dans <w id='the-passions-of-the-soul-descartes'>Les passions de l'âme</w>, l'amour est une passion, une émotion de l'âme causée par les esprits du corps, qui incline la volonté à se joindre aux objets qui paraissent lui convenir. Descartes y distingue deux amours : l'amour de <c>concupiscence</c>, qui désire pour soi ce dont on manque, et l'amour de bienveillance, qui veut le bien de l'aimé. À la passion reçue s'ajoute la <c id='generosity'>générosité</c>, disposition ferme à bien user de son libre arbitre, à estimer autrui et à s'unir à lui, qui règle et ennoblit l'amour au lieu de le subir.",
+          "en": "In <w id='the-passions-of-the-soul-descartes'>The Passions of the Soul</w>, love is a passion, an emotion of the soul caused by the body's spirits, that inclines the will to join itself to objects which appear suitable to it. Descartes distinguishes two loves: the love of <c>concupiscence</c>, which desires for oneself what one lacks, and the love of benevolence, which wills the good of the beloved. To the passion undergone is added <c id='generosity'>generosity</c>, the firm disposition to make good use of one's free will, to esteem others and to unite with them, which governs and ennobles love instead of merely suffering it."
+        },
+        "references": [
+          {
+            "fr": "Les passions de l'âme, art. 79-83 (l'amour) ; art. 153-156 (la générosité)",
+            "en": "The Passions of the Soul, arts. 79-83 (love); arts. 153-156 (generosity)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
     }
   ],
   "structuring": [
@@ -918,7 +941,7 @@
       }
     }
   ],
-  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "updatedAt": "2026-07-03T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

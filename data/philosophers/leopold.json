@@ -1,0 +1,16 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "leopold",
+  "name": { "fr": "Aldo Leopold", "en": "Aldo Leopold" },
+  "summary": {
+    "fr": "Écologue et forestier américain : sa « land ethic » élargit la communauté morale à la terre elle-même, sols, eaux, plantes et animaux, une action étant juste quand elle préserve l'intégrité, la stabilité et la beauté de la communauté biotique.",
+    "en": "American ecologist and forester: his \"land ethic\" widens the moral community to the land itself, soils, waters, plants, and animals, an action being right when it preserves the integrity, stability, and beauty of the biotic community."
+  },
+  "nationality": { "fr": "Américain", "en": "American" },
+  "birth": 1887,
+  "death": 1948,
+  "movements": [],
+  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

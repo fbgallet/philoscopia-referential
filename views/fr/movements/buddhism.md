@@ -18,6 +18,18 @@ Le bouddhisme naît de l'éveil de Siddhārtha Gautama, le Bouddha, vers le Ve s
 
 ## Positions
 
+### [L'être et le devenir](../axes/being-becoming.md)
+
+*positionné · explicite dans les textes · majeure*
+
+Devenir et flux 90% · Permanence de l'être 10%
+
+L'**impermanence** (anicca) est la première des trois marques de l'existence : tout phénomène conditionné naît, se transforme et cesse, sans qu'aucune substance ne subsiste sous le flux, ni dans les choses ni en nous (**anattā**, le non-soi). Tenir les choses pour stables est précisément l'illusion qui engendre l'attachement et la souffrance ; la sagesse consiste à voir le surgir et le cesser.
+
+> « Tout ce qui est sujet à l'apparition est sujet à la cessation. » (Samyutta Nikāya (formule canonique))
+
+*Sources : Dhammapada, 277-279 (les trois marques) · Samyutta Nikāya, 56, 11*
+
 ### [Critère du juste](../axes/ethics-foundation.md)
 
 *positionné · inférable · mineure*

@@ -37,7 +37,11 @@ The full semantics of the model — the three registers, axis types and position
 
 ## Using this data with an LLM
 
-The corpus is designed to be directly legible by language models: give a model [MODEL.md](MODEL.md), the relevant axis files and the annotation vocabulary above, and it can position a philosopher who is not yet covered here, compare worldviews, or help you explore your own — in any interface that can read JSON. A JSON Schema bundle, a tag parser package and an MCP server are on the roadmap to make this even easier.
+The easiest way: the **[MCP server](mcp/)** (`npx philoscopia-mcp`). It serves the whole referential to any MCP-capable assistant and maintains your own philosophical profile in a local, private `my-philosophy/` folder — plain JSON and markdown you own, validated against the published schemas, no network calls. On top of it, six **[exploration skills](skills/)** give your assistant the conversational craft: `philo-discover` (uncover positions you didn't know you held), `philo-examine` (Socratic testing of a belief), `philo-compare` (face to face with a figure), `philo-read` (follow the thread of a text together), `philo-concept` (experience what a concept changes), `philo-articulate` (train saying what you think).
+
+**What this is not.** Said plainly: an AI companion does not replace a living conversation with humans — a friend, a teacher, a philosopher; it does not replace reading the philosophers themselves, because following the thread of a thought is an experience of its own (the reading skill brings texts *into* the practice precisely for that reason); and it does not replace the lived practice of one's principles. The system is designed to point toward all three.
+
+The corpus is also directly legible by language models without any tooling: give a model [MODEL.md](MODEL.md), the relevant axis files and the annotation vocabulary above, and it can position a philosopher who is not yet covered here, compare worldviews, or help you explore your own — in any interface that can read JSON.
 
 ## Provenance and how this repo is maintained
 
@@ -47,11 +51,12 @@ A note on completeness: some axis sub-problems are marked `"resolution": "LATENT
 
 ## Roadmap
 
-- [ ] JSON Schemas published for every content type
+- [x] [JSON Schemas](schemas/) published for every content type
 - [ ] The tag parser / validator as a small MIT-licensed package
 - [x] Generated human-readable views (one page per entity, EN + FR)
 - [ ] The full specification of the axis model, in English
-- [ ] An MCP server and prompt kits for LLM-driven exploration
+- [x] An [MCP server](mcp/) for LLM-driven exploration and self-profiling
+- [x] [Exploration skills](skills/) (guided discovery, Socratic examination, figure comparison)
 
 ## Licensing
 

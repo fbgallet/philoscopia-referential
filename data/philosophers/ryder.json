@@ -1,0 +1,15 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "ryder",
+  "name": { "fr": "Richard Ryder", "en": "Richard Ryder" },
+  "summary": {
+    "fr": "Psychologue et philosophe britannique : il forge en 1970 le terme « spécisme » pour désigner la discrimination fondée sur l'espèce, qu'il range aux côtés du racisme et du sexisme.",
+    "en": "British psychologist and philosopher: in 1970 he coined the term \"speciesism\" for discrimination based on species, placing it alongside racism and sexism."
+  },
+  "nationality": { "fr": "Britannique", "en": "British" },
+  "birth": 1940,
+  "movements": [],
+  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

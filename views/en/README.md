@@ -2,11 +2,11 @@
 
 # Corpus
 
-- [Axes](axes/README.md) (72)
-- [Philosophers](philosophers/README.md) (124)
+- [Axes](axes/README.md) (75)
+- [Philosophers](philosophers/README.md) (143)
 - [Movements](movements/README.md) (20)
 - [Characters](characters/README.md) (2)
-- [Glossary](glossary/README.md) (176)
+- [Glossary](glossary/README.md) (179)
 - [Works](works/README.md) (90)
 - [Thought experiments](thought-experiments/README.md) (19)
 

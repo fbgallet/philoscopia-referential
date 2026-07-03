@@ -1,0 +1,16 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "regan",
+  "name": { "fr": "Tom Regan", "en": "Tom Regan" },
+  "summary": {
+    "fr": "Philosophe américain, théoricien des droits des animaux : contre l'utilitarisme de Singer, il soutient que les animaux sont des « sujets d'une vie » dotés d'une valeur inhérente, et donc de droits qu'on ne peut sacrifier au bien-être collectif.",
+    "en": "American philosopher, a theorist of animal rights: against Singer's utilitarianism, he holds that animals are \"subjects-of-a-life\" with inherent value, and so with rights that cannot be sacrificed to collective welfare."
+  },
+  "nationality": { "fr": "Américain", "en": "American" },
+  "birth": 1938,
+  "death": 2017,
+  "movements": [],
+  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

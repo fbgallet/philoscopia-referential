@@ -807,6 +807,39 @@
         ],
         "strength": "STRONG"
       }
+    },
+    {
+      "axisId": "LOVE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.15, 0.25, 0, 0.6]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Au fond de l'amour, Spinoza ne voit ni manque ni don mais une joie : aimer, c'est passer à une plus grande perfection, joie rapportée à l'idée de sa cause (<w id='ethics-spinoza'>Éthique</w>, III). L'amour n'est donc pas l'élan d'un vide vers ce qui le comblerait, mais l'effort (<c>conatus</c>) de la puissance vers ce qui l'accroît, ce qui garde un air de parenté avec l'<c id='eros'>éros</c> sans en avoir le pathos du manque. Entre les hommes, cet effort culmine dans l'amitié des êtres guidés par la raison, qui s'accordent en nature, se sont mutuellement utiles et ne veulent rien pour eux qu'ils ne veuillent aussi pour autrui : une <c id='philia'>philia</c> rationnelle, réciproque et choisie. Au sommet, l'<c id='intellectual-love-of-god'>amour intellectuel de Dieu</c> excède tout lien interpersonnel : amour sans retour où le sage n'exige pas d'être aimé en retour, il tient du don désintéressé plus que de la possession.",
+          "en": "At the heart of love Spinoza sees neither lack nor gift but a joy: to love is to pass to a greater perfection, a joy referred to the idea of its cause (<w id='ethics-spinoza'>Ethics</w>, III). Love is therefore not the surge of a void toward what would fill it, but the striving (<c>conatus</c>) of power toward what increases it, which keeps a kinship with <c id='eros'>eros</c> without its pathos of lack. Among human beings this striving culminates in the friendship of those guided by reason, who agree in nature, are mutually useful and want nothing for themselves that they do not also want for others: a rational <c id='philia'>philia</c>, reciprocal and chosen. At the summit, the <c id='intellectual-love-of-god'>intellectual love of God</c> exceeds every interpersonal bond: a love without return, in which the sage does not require to be loved back, closer to disinterested gift than to possession."
+        },
+        "quote": {
+          "text": {
+            "fr": "Qui aime Dieu ne peut faire effort pour que Dieu l'aime en retour.",
+            "en": "He who loves God cannot strive that God should love him in return."
+          },
+          "source": {
+            "fr": "Éthique, V, prop. 19",
+            "en": "Ethics, V, prop. 19"
+          }
+        },
+        "references": [
+          {
+            "fr": "Éthique, III (définition de l'amour) ; IV, prop. 35-37 et 70-71 (l'amitié des hommes raisonnables) ; V, prop. 19 et 32-37 (l'amour intellectuel de Dieu)",
+            "en": "Ethics, III (definition of love); IV, props. 35-37 and 70-71 (the friendship of reasonable people); V, props. 19 and 32-37 (the intellectual love of God)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
     }
   ],
   "structuring": [
@@ -846,7 +879,7 @@
       }
     }
   ],
-  "updatedAt": "2026-06-23T00:00:00.000Z",
+  "updatedAt": "2026-07-03T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

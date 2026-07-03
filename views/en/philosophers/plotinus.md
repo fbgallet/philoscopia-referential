@@ -168,7 +168,7 @@ Bodily pleasures bind the soul to the lowest degree of being and turn it away fr
 
 Extinction and detachment 80% · Reasoned selection 20%
 
-Desire turned toward sensible things disperses the soul and chains it to the manifold; wisdom demands withdrawing it so as to redirect it wholly upward. Plotinus does not abolish the desiring drive but converts it into an erōs for the intelligible and the One: the soul finds rest only by ceasing to desire what is beneath it. The lived tendency is therefore detachment from the sensible, more austere still than in [Plato](../philosophers/plato.md).
+Desire turned toward sensible things disperses the soul and chains it to the manifold; wisdom demands withdrawing it so as to redirect it wholly upward. Plotinus does not abolish the desiring drive but converts it into an [erōs](../glossary/eros.md) for the intelligible and the One: the soul finds rest only by ceasing to desire what is beneath it. The lived tendency is therefore detachment from the sensible, more austere still than in [Plato](../philosophers/plato.md).
 
 *Sources : Enneads, III, 5 (On Love) · Enneads, VI, 7, 22-35*
 
@@ -208,7 +208,7 @@ Plotinus builds an affirmative, architectured metaphysics, confident of reaching
 
 Eros as lack 85% · Agape as gift 15%
 
-Plotinus extends the erōs of [Plato](../philosophers/plato.md)'s *[Symposium](../works/symposium-plato.md)*: love is that drive born of lack which carries the soul from sensible beauty toward intelligible Beauty, and thence toward the [One](../glossary/the-one.md), source of all beauty. It is an ascending love, a desire to be united with that from which one proceeds. A note of gift nonetheless surfaces, for the One itself lacks nothing and overflows by pure superabundance, which reverses the lack at the summit.
+Plotinus extends the [erōs](../glossary/eros.md) of [Plato](../philosophers/plato.md)'s *[Symposium](../works/symposium-plato.md)*: love is that drive born of lack which carries the soul from sensible beauty toward intelligible Beauty, and thence toward the [One](../glossary/the-one.md), source of all beauty. It is an ascending love, a desire to be united with that from which one proceeds. A note of gift nonetheless surfaces, for the One itself lacks nothing and overflows by pure superabundance, which reverses the lack at the summit.
 
 *Sources : Enneads, III, 5 (On Love) · Enneads, VI, 7, 31-34*
 

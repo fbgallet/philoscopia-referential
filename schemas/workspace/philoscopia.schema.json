@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/fbgallet/philoscopia-referential/blob/main/schemas/workspace/philoscopia.schema.json",
+  "title": "workspace/philoscopia",
+  "description": "Workspace manifest: format version, locale, referential pin. Part of the user workspace format (my-philosophy/): monolingual, personal, local-first files written by the Philoscopia MCP server and exploration skills. Structure only; write-time rules (e.g. POSITIONED requires a value, ref resolution against the pinned referential) are enforced by the tools.",
+  "type": "object",
+  "properties": {
+    "format": {
+      "type": "number",
+      "const": 1
+    },
+    "locale": {
+      "type": "string",
+      "pattern": "^[a-z]{2}(-[A-Z]{2})?$"
+    },
+    "createdAt": {
+      "type": "string"
+    },
+    "referential": {
+      "type": "object",
+      "properties": {
+        "source": {
+          "type": "string",
+          "pattern": "^https:\\/\\/\\S+$"
+        },
+        "syncedAt": {
+          "type": "string"
+        },
+        "commit": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "source",
+        "syncedAt"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "format",
+    "locale",
+    "createdAt",
+    "referential"
+  ],
+  "additionalProperties": false
+}

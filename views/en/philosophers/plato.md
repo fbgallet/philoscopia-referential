@@ -16,6 +16,18 @@ An Athenian born into an aristocratic family, a disciple of Socrates whose execu
 
 ## Positions
 
+### [Being and becoming](../axes/being-becoming.md)
+
+*positioned · explicit in the texts · major*
+
+Permanence of being 90% · Becoming and flux 10%
+
+The sensible, in perpetual becoming, cannot be an object of knowledge: nothing stable is to be found in it to know. What really is are the **intelligible Forms**, immutable and eternal, of which changing things are only participations. Yet Plato grants becoming its own consistency: the sensible world is not nothing, it is a moving image of eternity.
+
+> “What is that which always is and has no becoming, and what is that which is always becoming and never is?” (Timaeus, 27d)
+
+*Sources : Timaeus, 27d-28a · Republic, VI-VII · Cratylus, 439c-440*
+
 ### [The meaning of suffering](../axes/suffering-meaning.md)
 
 *positioned · inferable · minor*

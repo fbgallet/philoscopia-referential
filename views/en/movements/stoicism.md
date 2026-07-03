@@ -18,6 +18,18 @@ A school founded in Athens by Zeno of Citium around 300 BCE, which taught under 
 
 ## Positions
 
+### [The point of philosophy](../axes/metaphilosophy.md)
+
+*positioned · explicit in the texts · major*
+
+Transforming oneself 80% · Understanding the world 20%
+
+Stoic philosophy is an exercise (**askêsis**) more than a body of knowledge: a daily discipline of judgment, desire, and action, whose raw material is the very life of the one who practices it. Physics and logic keep their place, but in the service of the art of living: to know the order of the world is to learn to consent to it.
+
+> “The subject-matter of the art of living is each person's own life.” (Epictetus, Discourses, I.15.2)
+
+*Sources : Epictetus, Discourses, I.15 · Seneca, Letters to Lucilius, 16*
+
 ### [Essence and existence](../axes/essence.md)
 
 *positioned · explicit in the texts · minor*

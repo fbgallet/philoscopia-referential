@@ -4,6 +4,7 @@
 
 - [Abduction](abduction.md)
 - [Acrasie (faiblesse de la volonté)](akrasia.md)
+- [Agapè (amour-don)](agape.md)
 - [Amor fati](amor-fati.md)
 - [Amour intellectuel de Dieu](intellectual-love-of-god.md)
 - [Anaideia (impudence)](anaideia.md)
@@ -41,6 +42,7 @@
 - [Émanation](emanation.md)
 - [Épistrophè (la conversion, le retour)](epistrophe.md)
 - [Epochē (suspension du jugement)](epoche.md)
+- [Éros (amour-désir)](eros.md)
 - [Esse (l'acte d'être)](esse.md)
 - [Esse est percipi (être, c'est être perçu)](esse-est-percipi.md)
 - [Être-pour-la-mort](being-toward-death.md)
@@ -140,6 +142,7 @@
 - [Obligations spéciales](special-obligations.md)
 - [Parrhēsia (franc-parler)](parrhesia.md)
 - [Phantasia (représentation)](phantasia.md)
+- [Philia (amitié)](philia.md)
 - [Physis et nomos (nature et convention)](physis-nomos.md)
 - [Piété filiale](filial-piety.md)
 - [Possibilités alternatives](alternate-possibilities.md)

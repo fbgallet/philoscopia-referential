@@ -28,6 +28,43 @@
   ],
   "entries": [
     {
+      "axisId": "METAPHILOSOPHY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0, 0, 1, 0]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La philosophie est une médecine de l'âme : sa parole est vaine si elle ne soigne aucune souffrance. Jeune ou vieux, il n'est jamais trop tôt ni trop tard pour philosopher, c'est-à-dire pour travailler à la santé de l'âme ; même l'étude de la nature n'a d'autre fin que de dissiper les craintes, des dieux et de la mort, qui troublent la vie.",
+          "en": "Philosophy is medicine for the soul: its word is empty if it heals no suffering. Young or old, it is never too early nor too late to philosophize, that is, to work at the health of the soul; even the study of nature has no other end than to dispel the fears, of the gods and of death, that trouble our life."
+        },
+        "quote": {
+          "text": {
+            "fr": "Vaine est la parole du philosophe qui ne soigne aucune souffrance humaine.",
+            "en": "Empty is the word of the philosopher that heals no human suffering."
+          },
+          "source": {
+            "fr": "fragment 221 Usener (Porphyre, Lettre à Marcella, 31)",
+            "en": "fr. 221 Usener (Porphyry, Letter to Marcella, 31)"
+          }
+        },
+        "references": [
+          {
+            "fr": "Lettre à Ménécée, 122",
+            "en": "Letter to Menoeceus, 122"
+          },
+          {
+            "fr": "Maximes capitales, XI",
+            "en": "Principal Doctrines, XI"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
       "axisId": "LIFE_MEANING",
       "status": "POSITIONED",
       "declaredValue": {
@@ -821,6 +858,43 @@
         ],
         "strength": "MEDIUM"
       }
+    },
+    {
+      "axisId": "LOVE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.1, 0, 0, 0.9]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le sage épicurien ne cherche ni la passion ni l'extase de l'union, mais l'<c id='philia'>amitié</c> : de tous les biens que la sagesse procure pour le bonheur de la vie entière, il en fait le plus grand (<w id='principal-doctrines-epicurus'>Maximes capitales</w>, <w id='vatican-sayings-epicurus'>Sentences vaticanes</w>). Née d'abord du besoin de sécurité, elle affranchit de la crainte d'autrui et soutient l'<c id='ataraxia'>ataraxie</c> ; mais Épicure passe du calcul au lien, car le sage finit par chérir l'ami pour lui-même et risquerait au besoin sa vie pour lui. C'est une amitié sans ciel ni instinct d'espèce, réciproque et cultivée dans le <c>Jardin</c> ; seule la trace de son origine utilitaire lui laisse une faible part de manque comblé.",
+          "en": "The Epicurean sage seeks neither passion nor the ecstasy of union, but <c id='philia'>friendship</c>: of all the things wisdom provides for the happiness of a whole life, he makes it the greatest (<w id='principal-doctrines-epicurus'>Principal Doctrines</w>, <w id='vatican-sayings-epicurus'>Vatican Sayings</w>). Born at first from the need for security, it frees us from the fear of others and sustains <c id='ataraxia'>ataraxia</c>; yet Epicurus moves from calculation to bond, for the sage comes to cherish the friend for his own sake and would, if need be, risk his life for him. This is a friendship with neither heaven nor the instinct of the species, reciprocal and cultivated in the <c>Garden</c>; only the trace of its utilitarian origin leaves it a slight share of lack being filled."
+        },
+        "quote": {
+          "text": {
+            "fr": "De tout ce que la sagesse procure pour le bonheur de la vie entière, de bien loin le plus grand est l'acquisition de l'amitié.",
+            "en": "Of all the things that wisdom provides for the happiness of a whole life, by far the greatest is the possession of friendship."
+          },
+          "source": {
+            "fr": "Maximes capitales, XXVII",
+            "en": "Principal Doctrines, XXVII"
+          }
+        },
+        "references": [
+          {
+            "fr": "Maximes capitales, XXVII",
+            "en": "Principal Doctrines, XXVII"
+          },
+          {
+            "fr": "Sentences vaticanes, 23, 34 et 52",
+            "en": "Vatican Sayings, 23, 34 and 52"
+          }
+        ],
+        "strength": "STRONG"
+      }
     }
   ],
   "structuring": [
@@ -860,7 +934,7 @@
       }
     }
   ],
-  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "updatedAt": "2026-07-03T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

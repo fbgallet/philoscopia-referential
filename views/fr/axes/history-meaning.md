@@ -29,7 +29,7 @@ L'histoire n'a ni plan ni destination : elle résulte d'actions humaines aux con
 
 ## Axes liés
 
-[Tradition et transformation](../axes/conservatism-progressism.md) · [Rapport à la technique](../axes/technology.md)
+[Tradition et transformation](../axes/conservatism-progressism.md) · [Rapport à la technique](../axes/technology.md) · [Le but de la philosophie](../axes/metaphilosophy.md)
 
 ---
 

@@ -16,6 +16,18 @@ Philosophe grec de l'âge hellénistique, Épicure fonde vers 306 av. J.-C. l'é
 
 ## Positions
 
+### [Le but de la philosophie](../axes/metaphilosophy.md)
+
+*positionné · explicite dans les textes · majeure*
+
+Se transformer soi-même 100%
+
+La philosophie est une médecine de l'âme : sa parole est vaine si elle ne soigne aucune souffrance. Jeune ou vieux, il n'est jamais trop tôt ni trop tard pour philosopher, c'est-à-dire pour travailler à la santé de l'âme ; même l'étude de la nature n'a d'autre fin que de dissiper les craintes, des dieux et de la mort, qui troublent la vie.
+
+> « Vaine est la parole du philosophe qui ne soigne aucune souffrance humaine. » (fragment 221 Usener (Porphyre, Lettre à Marcella, 31))
+
+*Sources : Lettre à Ménécée, 122 · Maximes capitales, XI*
+
 ### [Le sens de la vie](../axes/life-meaning.md)
 
 *positionné · inférable · mineure*
@@ -293,6 +305,18 @@ Argument du mal (athéisme) 95% · Révolte / anti-théodicie 5%
 Le dilemme dit épicurien, transmis par Lactance, conclut qu'un Dieu à la fois bon et tout-puissant est incompatible avec l'existence du mal : ou il veut l'empêcher sans le pouvoir, ou il le peut sans le vouloir. Chez Épicure, les dieux bienheureux ne se mêlent pas du monde.
 
 *Sources : Lactance, De la colère de Dieu, 13 (dilemme attribué) ; Lettre à Ménécée*
+
+### [Nature de l'amour](../axes/love-nature.md)
+
+*positionné · explicite dans les textes · majeure*
+
+Philia (amitié) 90% · Éros-manque 10%
+
+Le sage épicurien ne cherche ni la passion ni l'extase de l'union, mais l'[amitié](../glossary/philia.md) : de tous les biens que la sagesse procure pour le bonheur de la vie entière, il en fait le plus grand (*[Maximes capitales](../works/principal-doctrines-epicurus.md)*, *[Sentences vaticanes](../works/vatican-sayings-epicurus.md)*). Née d'abord du besoin de sécurité, elle affranchit de la crainte d'autrui et soutient l'[ataraxie](../glossary/ataraxia.md) ; mais Épicure passe du calcul au lien, car le sage finit par chérir l'ami pour lui-même et risquerait au besoin sa vie pour lui. C'est une amitié sans ciel ni instinct d'espèce, réciproque et cultivée dans le Jardin ; seule la trace de son origine utilitaire lui laisse une faible part de manque comblé.
+
+> « De tout ce que la sagesse procure pour le bonheur de la vie entière, de bien loin le plus grand est l'acquisition de l'amitié. » (Maximes capitales, XXVII)
+
+*Sources : Maximes capitales, XXVII · Sentences vaticanes, 23, 34 et 52*
 
 ## Influence sur
 

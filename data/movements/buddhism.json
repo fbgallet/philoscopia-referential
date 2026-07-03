@@ -32,6 +32,43 @@
   ],
   "entries": [
     {
+      "axisId": "BEING_BECOMING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'<kw>impermanence</kw> (anicca) est la première des trois marques de l'existence : tout phénomène conditionné naît, se transforme et cesse, sans qu'aucune substance ne subsiste sous le flux, ni dans les choses ni en nous (<kw>anattā</kw>, le non-soi). Tenir les choses pour stables est précisément l'illusion qui engendre l'attachement et la souffrance ; la sagesse consiste à voir le surgir et le cesser.",
+          "en": "<kw>Impermanence</kw> (anicca) is the first of the three marks of existence: every conditioned phenomenon arises, transforms, and ceases, with no substance subsisting beneath the flux, neither in things nor in us (<kw>anattā</kw>, non-self). Taking things to be stable is precisely the illusion that breeds attachment and suffering; wisdom consists in seeing arising and ceasing."
+        },
+        "quote": {
+          "text": {
+            "fr": "Tout ce qui est sujet à l'apparition est sujet à la cessation.",
+            "en": "Whatever is subject to arising is subject to ceasing."
+          },
+          "source": {
+            "fr": "Samyutta Nikāya (formule canonique)",
+            "en": "Samyutta Nikāya (canonical formula)"
+          }
+        },
+        "references": [
+          {
+            "fr": "Dhammapada, 277-279 (les trois marques)",
+            "en": "Dhammapada, 277-279 (the three marks)"
+          },
+          {
+            "fr": "Samyutta Nikāya, 56, 11",
+            "en": "Samyutta Nikāya, 56.11"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
       "axisId": "ETHICS_FOUNDATION",
       "status": "POSITIONED",
       "declaredValue": {
@@ -509,7 +546,7 @@
       }
     }
   ],
-  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "updatedAt": "2026-07-02T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

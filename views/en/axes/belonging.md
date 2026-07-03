@@ -14,7 +14,7 @@ Favouring our own gives us roots but can shut the door on the stranger; opening 
 
 We are not abstract individuals: our identity and attachments arise from the concrete communities that shaped us, family, nation, culture. Loyalty to one's own is not a prejudice but a virtue, and the real source of solidarity.
 
-*MacIntyre · Walzer*
+*MacIntyre · [Walzer](../philosophers/walzer.md)*
 
 ### Cosmopolitanism
 

@@ -1,0 +1,23 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "walzer",
+  "stub": true,
+  "name": {
+    "fr": "Michael Walzer",
+    "en": "Michael Walzer"
+  },
+  "summary": {
+    "fr": "Philosophe politique américain : il a renouvelé la théorie de la guerre juste en l'ancrant dans les droits des personnes et l'expérience morale commune, entre interdits stricts (les non-combattants) et cas limites (l'urgence suprême).",
+    "en": "American political philosopher: he renewed just war theory by grounding it in the rights of persons and in shared moral experience, between strict prohibitions (non-combatants) and limit cases (the supreme emergency)."
+  },
+  "birth": 1935,
+  "nationality": {
+    "fr": "Américain",
+    "en": "American"
+  },
+  "movements": [],
+  "updatedAt": "2026-07-02T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

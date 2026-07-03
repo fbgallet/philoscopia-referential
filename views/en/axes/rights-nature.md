@@ -48,7 +48,7 @@ Rights are neither natural, nor mere decrees, nor simple calculations of utility
 
 ## Related axes
 
-[Distributive justice](../axes/distributive-justice.md) · [The origin of the social bond](../axes/social-contract.md) · [Relation to authority](../axes/authority.md) · [Status of norms (metaethics)](../axes/moral-scope.md)
+[Distributive justice](../axes/distributive-justice.md) · [The origin of the social bond](../axes/social-contract.md) · [Relation to authority](../axes/authority.md) · [Status of norms (metaethics)](../axes/moral-scope.md) · [Moral circle](../axes/moral-circle.md)
 
 ---
 

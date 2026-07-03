@@ -36,7 +36,7 @@ Forgiveness presupposes that the wrongdoer acknowledges and regrets their fault:
 
 ## Related axes
 
-[Relation to the past](../axes/past-relation.md) · [The meaning of punishment](../axes/punishment.md) · [Moral demandingness](../axes/moral-demand.md)
+[Relation to the past](../axes/past-relation.md) · [The meaning of punishment](../axes/punishment.md) · [Moral demandingness](../axes/moral-demand.md) · [Violence](../axes/violence.md)
 
 ---
 

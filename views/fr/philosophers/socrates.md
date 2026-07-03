@@ -232,7 +232,7 @@ L'intellectualisme moral entraîne une vision plutôt optimiste de l'homme : si 
 
 Primat de l'éthique 75% · Esthétisme 25%
 
-Ce qui décide de la valeur d'une vie est, pour Socrate, la bonté de l'âme et non l'éclat des apparences : laid comme un silène mais beau au-dedans, il juge un homme sur sa vertu, non sur son allure. Le beau n'est pas pour autant méprisé : dans le *[Banquet](../works/symposium-plato.md)*, l'amour des beaux corps est le premier degré d'une montée qui, de beauté en beauté, s'élève jusqu'au Beau puis au Bien. Mais cette dialectique de l'élévation, où l'éros sensible n'est qu'un échelon vers l'intelligible, est déjà l'œuvre de Platon ; le primat de l'éthique demeure, le beau ne valant que comme chemin vers le bon.
+Ce qui décide de la valeur d'une vie est, pour Socrate, la bonté de l'âme et non l'éclat des apparences : laid comme un silène mais beau au-dedans, il juge un homme sur sa vertu, non sur son allure. Le beau n'est pas pour autant méprisé : dans le *[Banquet](../works/symposium-plato.md)*, l'amour des beaux corps est le premier degré d'une montée qui, de beauté en beauté, s'élève jusqu'au Beau puis au Bien. Mais cette dialectique de l'élévation, où l'[éros](../glossary/eros.md) sensible n'est qu'un échelon vers l'intelligible, est déjà l'œuvre de Platon ; le primat de l'éthique demeure, le beau ne valant que comme chemin vers le bon.
 
 *Sources : Platon, Apologie, 29d-30b (la vertu avant la réputation) · Platon, Banquet, 210a-212a (l'ascension d'éros, des beaux corps au Beau) · Platon, Banquet, 215a-216a (Socrate-silène, la beauté du dedans)*
 

@@ -41,7 +41,7 @@ Body and mind are two distinct realities: matter, extended and measurable, and t
 
 ## Related axes
 
-[Universals](../axes/universals.md) · [Nature of consciousness](../axes/consciousness-nature.md) · [Being or having a body](../axes/embodiment.md) · [Explaining nature](../axes/causality.md) · [Can a machine think](../axes/machine-mind.md) · [Wholes and parts](../axes/reduction-emergence.md) · [Relation to certainty](../axes/certainty.md)
+[Universals](../axes/universals.md) · [Nature of consciousness](../axes/consciousness-nature.md) · [Being or having a body](../axes/embodiment.md) · [Explaining nature](../axes/causality.md) · [Can a machine think](../axes/machine-mind.md) · [Wholes and parts](../axes/reduction-emergence.md) · [Relation to certainty](../axes/certainty.md) · [Being and becoming](../axes/being-becoming.md)
 
 ---
 

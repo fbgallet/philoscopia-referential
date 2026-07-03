@@ -1,0 +1,252 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/fbgallet/philoscopia-referential/blob/main/schemas/workspace/profile.schema.json",
+  "title": "workspace/profile",
+  "description": "The user's positions on the referential's axes, with reasons and elicitation history. Part of the user workspace format (my-philosophy/): monolingual, personal, local-first files written by the Philoscopia MCP server and exploration skills. Structure only; write-time rules (e.g. POSITIONED requires a value, ref resolution against the pinned referential) are enforced by the tools.",
+  "type": "object",
+  "properties": {
+    "entries": {
+      "type": "object",
+      "propertyNames": {
+        "type": "string",
+        "pattern": "^[A-Z][A-Z0-9_]*$"
+      },
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "string",
+            "enum": [
+              "POSITIONED",
+              "EXPLORING",
+              "NO_POSITION",
+              "CONTEXTUALIST",
+              "REJECTS_ALTERNATIVE",
+              "NOT_APPLICABLE"
+            ]
+          },
+          "value": {
+            "oneOf": [
+              {
+                "type": "object",
+                "properties": {
+                  "kind": {
+                    "type": "string",
+                    "const": "scalar"
+                  },
+                  "value": {
+                    "type": "number",
+                    "minimum": -1,
+                    "maximum": 1
+                  }
+                },
+                "required": [
+                  "kind",
+                  "value"
+                ],
+                "additionalProperties": false
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "kind": {
+                    "type": "string",
+                    "const": "weights"
+                  },
+                  "weights": {
+                    "minItems": 2,
+                    "type": "array",
+                    "items": {
+                      "type": "number",
+                      "minimum": 0,
+                      "maximum": 1
+                    }
+                  }
+                },
+                "required": [
+                  "kind",
+                  "weights"
+                ],
+                "additionalProperties": false
+              }
+            ]
+          },
+          "confidence": {
+            "type": "string",
+            "enum": [
+              "HIGH",
+              "MEDIUM",
+              "LOW"
+            ]
+          },
+          "salience": {
+            "type": "string",
+            "enum": [
+              "MAJOR",
+              "MINOR",
+              "NOT_RELEVANT"
+            ]
+          },
+          "rationale": {
+            "type": "string"
+          },
+          "reasons": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "statement": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "stance": {
+                  "type": "string",
+                  "enum": [
+                    "SUPPORTS",
+                    "OBJECTION_MET"
+                  ]
+                },
+                "origin": {
+                  "type": "string",
+                  "enum": [
+                    "OWN",
+                    "PROPOSED"
+                  ]
+                },
+                "at": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "statement",
+                "stance",
+                "origin",
+                "at"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "updatedAt": {
+            "type": "string"
+          },
+          "history": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "at": {
+                  "type": "string"
+                },
+                "value": {
+                  "oneOf": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "kind": {
+                          "type": "string",
+                          "const": "scalar"
+                        },
+                        "value": {
+                          "type": "number",
+                          "minimum": -1,
+                          "maximum": 1
+                        }
+                      },
+                      "required": [
+                        "kind",
+                        "value"
+                      ],
+                      "additionalProperties": false
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "kind": {
+                          "type": "string",
+                          "const": "weights"
+                        },
+                        "weights": {
+                          "minItems": 2,
+                          "type": "array",
+                          "items": {
+                            "type": "number",
+                            "minimum": 0,
+                            "maximum": 1
+                          }
+                        }
+                      },
+                      "required": [
+                        "kind",
+                        "weights"
+                      ],
+                      "additionalProperties": false
+                    }
+                  ]
+                },
+                "provenance": {
+                  "type": "object",
+                  "properties": {
+                    "modality": {
+                      "type": "string",
+                      "enum": [
+                        "common-opinion",
+                        "thought-experiment",
+                        "dilemma",
+                        "affinity",
+                        "theory",
+                        "quote",
+                        "problem",
+                        "concept",
+                        "examination",
+                        "self-declared",
+                        "import"
+                      ]
+                    },
+                    "ref": {
+                      "anyOf": [
+                        {
+                          "type": "string",
+                          "pattern": "^(ax:[A-Z][A-Z0-9_]*|pole:[A-Z][A-Z0-9_]*\\/[A-Z][A-Z0-9_]*|(c|ph|mv|chr|te|w|problem):[a-z0-9][a-z0-9-]*)$"
+                        },
+                        {
+                          "type": "string",
+                          "pattern": "^[a-z0-9][a-z0-9-]*$"
+                        }
+                      ]
+                    }
+                  },
+                  "required": [
+                    "modality"
+                  ],
+                  "additionalProperties": false
+                },
+                "session": {
+                  "type": "string",
+                  "pattern": "^journal\\/[a-z0-9][a-z0-9-]*\\.md$"
+                },
+                "note": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "at",
+                "provenance"
+              ],
+              "additionalProperties": false
+            }
+          }
+        },
+        "required": [
+          "status",
+          "updatedAt",
+          "history"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "entries"
+  ],
+  "additionalProperties": false
+}

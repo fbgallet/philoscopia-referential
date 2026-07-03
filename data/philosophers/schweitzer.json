@@ -1,0 +1,16 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "schweitzer",
+  "name": { "fr": "Albert Schweitzer", "en": "Albert Schweitzer" },
+  "summary": {
+    "fr": "Théologien, médecin et philosophe alsacien : il fait du « respect de la vie » le principe premier de l'éthique, toute volonté de vivre, et non la seule sensibilité, méritant d'être préservée.",
+    "en": "Alsatian theologian, physician, and philosopher: he made \"reverence for life\" the first principle of ethics, every will-to-live, not sentience alone, deserving to be preserved."
+  },
+  "nationality": { "fr": "Franco-allemand", "en": "Franco-German" },
+  "birth": 1875,
+  "death": 1965,
+  "movements": [],
+  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

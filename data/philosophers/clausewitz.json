@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "clausewitz",
+  "stub": true,
+  "name": {
+    "fr": "Clausewitz",
+    "en": "Clausewitz"
+  },
+  "summary": {
+    "fr": "Officier et théoricien prussien de la guerre : sa formule fameuse fait de la guerre « la continuation de la politique par d'autres moyens », un instrument rationnel subordonné aux fins de l'État, toujours menacé pourtant par sa propre montée aux extrêmes.",
+    "en": "Prussian officer and theorist of war: his famous formula makes war \"the continuation of politics by other means\", a rational instrument subordinated to the ends of the state, yet always threatened by its own escalation to extremes."
+  },
+  "birth": 1780,
+  "death": 1831,
+  "nationality": {
+    "fr": "Prussien",
+    "en": "Prussian"
+  },
+  "movements": [],
+  "updatedAt": "2026-07-02T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

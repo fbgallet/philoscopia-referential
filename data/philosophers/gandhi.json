@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "gandhi",
+  "stub": true,
+  "name": {
+    "fr": "Gandhi",
+    "en": "Gandhi"
+  },
+  "summary": {
+    "fr": "Meneur de l'indépendance indienne et théoricien de la non-violence : la satyagraha, force de la vérité, fait de la désobéissance civile et du refus de nuire une arme politique capable de désarmer l'oppresseur sans l'humilier.",
+    "en": "Leader of Indian independence and theorist of nonviolence: satyagraha, the force of truth, turns civil disobedience and the refusal to harm into a political weapon able to disarm the oppressor without humiliating him."
+  },
+  "birth": 1869,
+  "death": 1948,
+  "nationality": {
+    "fr": "Indien",
+    "en": "Indian"
+  },
+  "movements": [],
+  "updatedAt": "2026-07-02T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

@@ -701,6 +701,39 @@
         "fr": "Question anachronique : rien dans les Essais ne permet de situer Montaigne sur la pensée des machines sans extrapolation hasardeuse.",
         "en": "An anachronistic question: nothing in the Essays allows situating Montaigne on machine thought without hazardous extrapolation."
       }
+    },
+    {
+      "axisId": "LOVE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0, 0.05, 0, 0.95]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Reprenant la <c id='philia'>philia</c> d'<ph id='aristotle'>Aristote</ph> mais la portant à l'incandescence, Montaigne réserve, dans le chapitre « De l'amitié » de ses <w id='essays-montaigne'>Essais</w>, le nom d'amitié à un lien unique, librement choisi, qui passe avant l'amour-passion : l'ardeur amoureuse n'est qu'un feu volage et changeant, tandis que l'amitié parfaite est une chaleur constante où deux âmes <q>se mêlent et se confondent l'une en l'autre</q>. Il la dit sans autre fondement qu'elle-même, irréductible à l'utilité, au plaisir ou au devoir de parenté. De sa communion avec <per>La Boétie</per>, il ne sait donner d'autre raison que l'évidence réciproque des deux êtres.",
+          "en": "Taking up <ph id='aristotle'>Aristotle</ph>'s <c id='philia'>philia</c> but raising it to a white heat, Montaigne reserves, in the chapter \"On friendship\" of his <w id='essays-montaigne'>Essays</w>, the name of friendship for a single, freely chosen bond that comes before love-as-passion: amorous ardour is but a fickle, shifting fire, whereas perfect friendship is a steady warmth in which two souls <q>mingle and blend into one another</q>. He holds it to have no ground but itself, irreducible to usefulness, to pleasure or to the duty of kinship. Of his communion with <per>La Boétie</per> he can give no reason other than the mutual self-evidence of the two beings."
+        },
+        "quote": {
+          "text": {
+            "fr": "Parce que c'était lui, parce que c'était moi.",
+            "en": "Because it was he, because it was I."
+          },
+          "source": {
+            "fr": "Essais, I, 28 (« De l'amitié »)",
+            "en": "Essays, I, 28 (\"On friendship\")"
+          }
+        },
+        "references": [
+          {
+            "fr": "Essais, I, 28 (« De l'amitié »)",
+            "en": "Essays, I, 28 (\"On friendship\")"
+          }
+        ],
+        "strength": "STRONG"
+      }
     }
   ],
   "structuring": [
@@ -740,7 +773,7 @@
       }
     }
   ],
-  "updatedAt": "2026-06-29T00:00:00.000Z",
+  "updatedAt": "2026-07-03T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

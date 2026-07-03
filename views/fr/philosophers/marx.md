@@ -16,6 +16,30 @@ Philosophe et économiste allemand du XIXe siècle, formé à l'école de [Hegel
 
 ## Positions
 
+### [La violence](../axes/violence.md)
+
+*positionné · explicite dans les textes · mineure*
+
+Violence émancipatrice 80% · La force, instrument du politique 20%
+
+La classe dominante ne cède jamais d'elle-même : l'émancipation du prolétariat passe par la conquête révolutionnaire du pouvoir, et la violence y joue le rôle d'**accoucheuse de l'histoire**, moyen au service d'un ordre nouveau plutôt que valeur en soi. Marx concède pourtant que dans certains pays, aux institutions ouvertes, une transition pacifique n'est pas exclue : la violence est un instrument de l'émancipation, non son essence.
+
+> « La violence est l'accoucheuse de toute vieille société grosse d'une société nouvelle. » (Le Capital, livre I, chap. XXXI)
+
+*Sources : Le Capital, livre I, chap. XXXI · Manifeste du Parti communiste, IV · Discours d'Amsterdam (1872)*
+
+### [Le but de la philosophie](../axes/metaphilosophy.md)
+
+*positionné · explicite dans les textes · majeure*
+
+Transformer le monde 100%
+
+La onzième des **Thèses sur Feuerbach** retourne la vocation de la philosophie : interpréter le monde, comme les philosophes s'y sont bornés, laisse intactes les conditions matérielles qui produisent la misère et l'**aliénation**. La critique doit devenir pratique : s'incarner dans les luttes qui transforment les rapports sociaux, jusqu'à ce que la philosophie s'accomplisse en se réalisant.
+
+> « Les philosophes n'ont fait qu'interpréter le monde de diverses manières ; ce qui importe, c'est de le transformer. » (Thèses sur Feuerbach, XI (1845))
+
+*Sources : Thèses sur Feuerbach, XI · L'Idéologie allemande (1846)*
+
 ### [Sens de la souffrance](../axes/suffering-meaning.md)
 
 *positionné · explicite dans les textes · mineure*

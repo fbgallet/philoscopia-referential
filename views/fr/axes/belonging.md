@@ -14,7 +14,7 @@ Privilégier les siens donne des racines mais peut fermer la porte à l'étrange
 
 Nous ne sommes pas des individus abstraits : notre identité et nos attachements naissent des communautés concrètes qui nous ont formés, famille, nation, culture. La loyauté envers les siens n'est pas un préjugé, mais une vertu et la source réelle de la solidarité.
 
-*MacIntyre · Walzer*
+*MacIntyre · [Walzer](../philosophers/walzer.md)*
 
 ### Cosmopolitisme
 

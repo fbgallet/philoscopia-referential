@@ -168,7 +168,7 @@ Les plaisirs du corps attachent l'âme au plus bas degré de l'être et la déto
 
 Extinction-détachement 80% · Tri raisonné 20%
 
-Le désir tourné vers les choses sensibles disperse l'âme et l'enchaîne au multiple ; la sagesse demande de l'en retirer pour le réorienter tout entier vers le haut. Plotin ne supprime pas l'élan désirant mais le convertit en éros de l'intelligible et de l'Un : l'âme ne s'apaise qu'en cessant de désirer ce qui est au-dessous d'elle. La pente vécue est donc celle d'un détachement à l'égard du sensible, plus austère encore que chez [Platon](../philosophers/plato.md).
+Le désir tourné vers les choses sensibles disperse l'âme et l'enchaîne au multiple ; la sagesse demande de l'en retirer pour le réorienter tout entier vers le haut. Plotin ne supprime pas l'élan désirant mais le convertit en [éros](../glossary/eros.md) de l'intelligible et de l'Un : l'âme ne s'apaise qu'en cessant de désirer ce qui est au-dessous d'elle. La pente vécue est donc celle d'un détachement à l'égard du sensible, plus austère encore que chez [Platon](../philosophers/plato.md).
 
 *Sources : Ennéades, III, 5 (De l'amour) · Ennéades, VI, 7, 22-35*
 
@@ -208,7 +208,7 @@ Plotin construit une métaphysique affirmative et architecturée, assurée d'att
 
 Éros-manque 85% · Agapè-don 15%
 
-Plotin prolonge l'éros du *[Banquet](../works/symposium-plato.md)* de [Platon](../philosophers/plato.md) : l'amour est cet élan né du manque qui porte l'âme du beau sensible vers le Beau intelligible, et de là vers l'[Un](../glossary/the-one.md), source de toute beauté. C'est un amour ascensionnel, désir de s'unir à ce dont on procède. Une note de don affleure pourtant, car l'Un, lui, ne manque de rien et déborde par pure surabondance, ce qui inverse le manque au sommet.
+Plotin prolonge l'[éros](../glossary/eros.md) du *[Banquet](../works/symposium-plato.md)* de [Platon](../philosophers/plato.md) : l'amour est cet élan né du manque qui porte l'âme du beau sensible vers le Beau intelligible, et de là vers l'[Un](../glossary/the-one.md), source de toute beauté. C'est un amour ascensionnel, désir de s'unir à ce dont on procède. Une note de don affleure pourtant, car l'Un, lui, ne manque de rien et déborde par pure surabondance, ce qui inverse le manque au sommet.
 
 *Sources : Ennéades, III, 5 (De l'amour) · Ennéades, VI, 7, 31-34*
 

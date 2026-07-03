@@ -16,6 +16,30 @@ Born at Stagira in Macedon, Aristotle joined [Plato](../philosophers/plato.md)'s
 
 ## Positions
 
+### [Being and becoming](../axes/being-becoming.md)
+
+*positioned · explicit in the texts · major*
+
+Permanence of being 50% · Becoming and flux 50%
+
+Against Parmenides, who made change unthinkable (being cannot come from non-being), Aristotle distinguishes **potentiality** and **actuality**: becoming is not an emergence out of nothing but the actualization of what was potential, within a persisting substrate. Substance endures through the change of its accidents, form realizes itself in matter: being and becoming cease to be rivals, becoming is the way beings accomplish their form.
+
+> “Nature is a principle of motion and change.” (Physics, III.1 (200b))
+
+*Sources : Physics, I.8 · Metaphysics, IX (Theta)*
+
+### [The point of philosophy](../axes/metaphilosophy.md)
+
+*positioned · explicit in the texts · major*
+
+Understanding the world 75% · Transforming oneself 25%
+
+First science is born of wonder and is pursued for its own sake, not for its usefulness: like the free man, it is its own end. And the **theoretical life**, the activity of what is most divine in us, is the highest happiness. Yet Aristotle keeps a place for the practical aim: we do not study ethics to know what virtue is, but to become good.
+
+> “This alone of all the sciences is free, for it alone exists for its own sake.” (Metaphysics, I.2 (982b))
+
+*Sources : Metaphysics, I.1-2 · Nicomachean Ethics, X.7-8 · Nicomachean Ethics, II.2 (1103b)*
+
 ### [The meaning of suffering](../axes/suffering-meaning.md)
 
 *positioned · inferable · minor*
@@ -315,6 +339,18 @@ Realism about universals 80% · Nominalism 20%
 Against Plato, Aristotle rejects separate Forms: the universal is real, but it exists only within individuals, as their form. The form of the horse does not exist apart from singular horses, yet it is genuinely real in them. This is an immanent realism.
 
 *Sources : Metaphysics, Z; Categories, 5*
+
+### [Nature of love](../axes/love-nature.md)
+
+*positioned · explicit in the texts · major*
+
+Philia (friendship) 90% · Agape as gift 10%
+
+Against Platonic [erōs](../glossary/eros.md), which makes love the desire for a beauty one does not possess, Aristotle sets at the summit not lack but the bond: [philia](../glossary/philia.md). In books VIII and IX of the *[Nicomachean Ethics](../works/nicomachean-ethics-aristotle.md)*, he distinguishes three friendships by their spring, the useful, the pleasant and the good; the first two are fragile, for they love the other for what he provides. Perfect friendship, that of good people who wish each other well for the other's own sake, is stable, rare and reciprocal, to the point that the friend counts as an extension of oneself. Far from being a supplement to the good life, it is a constitutive part of it: no one, however well supplied with all other goods, would choose to live without friends.
+
+> “The friend is another self.” (Nicomachean Ethics, IX, 4)
+
+*Sources : Nicomachean Ethics, VIII-IX (the three friendships; the friend as another self) · Nicomachean Ethics, IX, 9 (happiness and the need for friends)*
 
 ## Influenced by
 

@@ -1,0 +1,12 @@
+{
+  "id": "eros",
+  "term": { "fr": "Éros (amour-désir)", "en": "Eros (love as desire)" },
+  "definition": {
+    "fr": "Terme grec désignant l'amour comme désir : aimer, c'est tendre vers ce qu'on n'a pas et qu'on juge beau ou bon. <ety>Du grec érôs, distinct de philia, l'amitié, et d'agapè, le don</ety>. Dans le <w id='symposium-plato'>Banquet</w>, <ph id='plato'>Platon</ph> en fait l'enfant de Pénia (la Pauvreté) et de Poros (l'Expédient) : né du manque, l'éros s'élance des beaux corps jusqu'à la beauté en soi. Sur l'axe <ax id='LOVE_NATURE'>nature de l'amour</ax>, il donne son nom au pôle du manque, face à l'<c id='agape'>agapè</c>-don et à la <c id='philia'>philia</c>-amitié.",
+    "en": "The Greek term for love as desire: to love is to reach for what one does not have and judges beautiful or good. <ety>From the Greek erōs, distinct from philia, friendship, and agapē, gift</ety>. In the <w id='symposium-plato'>Symposium</w>, <ph id='plato'>Plato</ph> makes it the child of Penia (Poverty) and Poros (Resource): born of lack, erōs surges from beautiful bodies up to beauty itself. On the <ax id='LOVE_NATURE'>nature of love</ax> axis, it gives its name to the pole of lack, facing <c id='agape'>agape</c> as gift and <c id='philia'>philia</c> as friendship."
+  },
+  "relatedAxes": ["LOVE_NATURE", "DESIRE"],
+  "relatedTerms": ["agape", "philia"],
+  "positions": [{ "axisId": "LOVE_NATURE", "poleId": "EROS_AS_LACK" }],
+  "updatedAt": "2026-07-03T00:00:00.000Z"
+}

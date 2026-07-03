@@ -290,6 +290,18 @@ Les notions universelles comme « homme » ou « cheval » ne sont pas des réal
 
 *Sources : Éthique, II, prop. 40, scolie 1*
 
+### [Nature de l'amour](../axes/love-nature.md)
+
+*positionné · inférable · majeure*
+
+Philia (amitié) 60% · Agapè-don 25% · Éros-manque 15%
+
+Au fond de l'amour, Spinoza ne voit ni manque ni don mais une joie : aimer, c'est passer à une plus grande perfection, joie rapportée à l'idée de sa cause (*[Éthique](../works/ethics-spinoza.md)*, III). L'amour n'est donc pas l'élan d'un vide vers ce qui le comblerait, mais l'effort (conatus) de la puissance vers ce qui l'accroît, ce qui garde un air de parenté avec l'[éros](../glossary/eros.md) sans en avoir le pathos du manque. Entre les hommes, cet effort culmine dans l'amitié des êtres guidés par la raison, qui s'accordent en nature, se sont mutuellement utiles et ne veulent rien pour eux qu'ils ne veuillent aussi pour autrui : une [philia](../glossary/philia.md) rationnelle, réciproque et choisie. Au sommet, l'[amour intellectuel de Dieu](../glossary/intellectual-love-of-god.md) excède tout lien interpersonnel : amour sans retour où le sage n'exige pas d'être aimé en retour, il tient du don désintéressé plus que de la possession.
+
+> « Qui aime Dieu ne peut faire effort pour que Dieu l'aime en retour. » (Éthique, V, prop. 19)
+
+*Sources : Éthique, III (définition de l'amour) ; IV, prop. 35-37 et 70-71 (l'amitié des hommes raisonnables) ; V, prop. 19 et 32-37 (l'amour intellectuel de Dieu)*
+
 ## Influencé par
 
 - **[Descartes](../philosophers/descartes.md)** (réinterprète) : [Spinoza](../philosophers/spinoza.md) reprend l'exigence démonstrative et la méthode de [Descartes](../philosophers/descartes.md), mais retourne sa métaphysique : au lieu de deux substances et d'un Dieu extérieur, une seule substance infinie dont tout est un mode.

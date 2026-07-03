@@ -58,7 +58,7 @@ Seule la vertu, ou la bonne volonté, a une valeur inconditionnelle : la vie bon
 
 ## Axes liés
 
-[Le beau dans la vie](../axes/aesthetic-life.md) · [Plaisirs corporels](../axes/bodily-pleasures.md) · [Rapport au désir](../axes/desire.md) · [Le sens de la vie](../axes/life-meaning.md) · [Nature et culture](../axes/human-nature.md) · [Périmètre d'action](../axes/control-scope.md) · [Intériorité](../axes/interiority.md) · [Où réside le sacré](../axes/transcendence.md) · [Appartenance](../axes/belonging.md) · [Éthique de la croyance](../axes/belief-ethics.md) · [Justice distributive](../axes/distributive-justice.md)
+[Le beau dans la vie](../axes/aesthetic-life.md) · [Plaisirs corporels](../axes/bodily-pleasures.md) · [Rapport au désir](../axes/desire.md) · [Le sens de la vie](../axes/life-meaning.md) · [Nature et culture](../axes/human-nature.md) · [Périmètre d'action](../axes/control-scope.md) · [Intériorité](../axes/interiority.md) · [Où réside le sacré](../axes/transcendence.md) · [Appartenance](../axes/belonging.md) · [Éthique de la croyance](../axes/belief-ethics.md) · [Justice distributive](../axes/distributive-justice.md) · [Le but de la philosophie](../axes/metaphilosophy.md)
 
 ---
 

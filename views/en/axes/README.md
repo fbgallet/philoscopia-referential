@@ -13,6 +13,7 @@
 - [Source of knowledge](knowledge-source.md) : Where does our knowledge come from: sensory experience or reason?
 - [Status of knowledge](knowledge-status.md) : Does science describe the world as it is, or does it construct its own objects?
 - [The meaning of words](meaning.md) : Where do words get their meaning?
+- [The point of philosophy](metaphilosophy.md) : What is philosophy for?
 - [Universals](universals.md) : Do general properties exist, or are they merely names?
 
 ## The self
@@ -60,12 +61,14 @@
 - [The meaning of punishment](punishment.md) : Why punish: to repay the wrong, to deter, or to rehabilitate?
 - [The origin of the social bond](social-contract.md) : Does society rest on an agreement between individuals, or on a community that precedes them?
 - [Tradition and transformation](conservatism-progressism.md) : Should we preserve the legacy of our institutions, or transform society in the name of progress?
+- [Violence](violence.md) : Can violence be legitimate?
 - [Who should decide](who-decides.md) : Do political decisions belong to everyone, or first to the most competent?
 
 ## The world
 
 - [Beauty](beauty.md) : Is beauty in things themselves or in the eye of the beholder?
 - [Beauty in life](aesthetic-life.md) : Is beauty at the heart of a flourishing life, or a secondary luxury next to ethics and usefulness?
+- [Being and becoming](being-becoming.md) : Is the real, at bottom, what endures or what becomes?
 - [Can a machine think](machine-mind.md) : Could a machine ever truly think?
 - [Existence of God](god-existence.md) : Does God exist?
 - [Explaining nature](causality.md) : How should natural phenomena be explained: by mechanisms, by purposes, or by a vital impulse?

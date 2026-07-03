@@ -74,13 +74,16 @@
   ],
   "core": true,
   "difficulty": 2,
-  "clusters": [],
+  "clusters": [
+    "NATURE_CONSTRUCTION"
+  ],
   "relatedAxes": [
     "SOCIAL_IDENTITY",
     "UNIVERSALS",
     "FREEDOM",
     "HUMAN_NATURE",
-    "SELF_NATURE"
+    "SELF_NATURE",
+    "BEING_BECOMING"
   ],
   "problems": [
     {

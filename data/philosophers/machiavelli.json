@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "machiavelli",
+  "stub": true,
+  "name": {
+    "fr": "Machiavel",
+    "en": "Machiavelli"
+  },
+  "summary": {
+    "fr": "Secrétaire de la république de Florence et fondateur de la pensée politique moderne : il décrit le pouvoir tel qu'il s'exerce et non tel qu'il devrait être, apprenant au prince à user de la force et de la ruse quand la nécessité l'exige, pour fonder et maintenir l'État.",
+    "en": "Secretary of the Florentine republic and founder of modern political thought: he describes power as it is actually exercised, not as it ought to be, teaching the prince to use force and cunning when necessity demands, to found and preserve the state."
+  },
+  "birth": 1469,
+  "death": 1527,
+  "nationality": {
+    "fr": "Italien",
+    "en": "Italian"
+  },
+  "movements": [],
+  "updatedAt": "2026-07-02T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

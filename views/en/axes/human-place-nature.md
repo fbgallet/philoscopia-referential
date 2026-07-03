@@ -26,7 +26,7 @@ Humanity's technological power confers an unprecedented responsibility: to prese
 
 Human beings hold no privileged position in nature: they are one living being among others, embedded in a web of interdependence. All forms of life have intrinsic value, independent of their usefulness to us.
 
-*Næss*
+*[Næss](../philosophers/naess.md)*
 
 ## Grounding relations
 

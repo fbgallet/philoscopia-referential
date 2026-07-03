@@ -427,8 +427,8 @@
       "salience": "MINOR",
       "justification": {
         "text": {
-          "fr": "L'amitié, la <c>philia</c>, occupe deux livres entiers de l'<w id='nicomachean-ethics-aristotle'>Éthique à Nicomaque</w> et constitue un bien indispensable à la vie bonne : on a des devoirs plus grands envers ses proches, ses bienfaiteurs et ses concitoyens. Cette priorité assumée des liens particuliers, jusqu'à l'amitié civique qui tient la cité ensemble, situe l'aristotélisme du côté du partialisme.",
-          "en": "Friendship, <c>philia</c>, occupies two whole books of the <w id='nicomachean-ethics-aristotle'>Nicomachean Ethics</w> and is an indispensable good of the good life: one owes more to kin, benefactors and fellow citizens. This avowed priority of particular bonds, up to the civic friendship that holds the city together, places Aristotelianism on the partialist side."
+          "fr": "L'amitié, la <c id='philia'>philia</c>, occupe deux livres entiers de l'<w id='nicomachean-ethics-aristotle'>Éthique à Nicomaque</w> et constitue un bien indispensable à la vie bonne : on a des devoirs plus grands envers ses proches, ses bienfaiteurs et ses concitoyens. Cette priorité assumée des liens particuliers, jusqu'à l'amitié civique qui tient la cité ensemble, situe l'aristotélisme du côté du partialisme.",
+          "en": "Friendship, <c id='philia'>philia</c>, occupies two whole books of the <w id='nicomachean-ethics-aristotle'>Nicomachean Ethics</w> and is an indispensable good of the good life: one owes more to kin, benefactors and fellow citizens. This avowed priority of particular bonds, up to the civic friendship that holds the city together, places Aristotelianism on the partialist side."
         },
         "references": [
           { "fr": "Aristote, Éthique à Nicomaque, VIII-IX", "en": "Aristotle, Nicomachean Ethics, VIII-IX" }
@@ -606,7 +606,7 @@
       }
     }
   ],
-  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "updatedAt": "2026-07-03T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

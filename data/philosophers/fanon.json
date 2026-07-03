@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "fanon",
+  "stub": true,
+  "name": {
+    "fr": "Frantz Fanon",
+    "en": "Frantz Fanon"
+  },
+  "summary": {
+    "fr": "Psychiatre et penseur anticolonial né en Martinique, engagé dans la lutte d'indépendance algérienne : il analyse la colonisation comme une violence totale, qui ne peut être brisée que par la violence des colonisés, moment de leur désaliénation et de la reconquête de leur humanité.",
+    "en": "Psychiatrist and anticolonial thinker born in Martinique, engaged in the Algerian independence struggle: he analyzes colonization as a total violence that can only be broken by the violence of the colonized, the moment of their disalienation and of the reclaiming of their humanity."
+  },
+  "birth": 1925,
+  "death": 1961,
+  "nationality": {
+    "fr": "Franco-martiniquais",
+    "en": "French (Martinique)"
+  },
+  "movements": [],
+  "updatedAt": "2026-07-02T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

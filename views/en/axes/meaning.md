@@ -22,7 +22,7 @@ A word's meaning is what it refers to in the world: a name designates an object,
 
 A word's meaning is not a thing it stands for but its employment: meaning is use. We learn what a word means by seeing how it is used in the language games of shared life.
 
-*Wittgenstein*
+*[Wittgenstein](../philosophers/wittgenstein.md)*
 
 ### Speaker's intention
 
@@ -34,7 +34,7 @@ Meaning lies in what the speaker seeks to get recognised: to communicate is to g
 
 ## Related axes
 
-[Nature of truth](../axes/truth-nature.md) · [Status of knowledge](../axes/knowledge-status.md)
+[Nature of truth](../axes/truth-nature.md) · [Status of knowledge](../axes/knowledge-status.md) · [The point of philosophy](../axes/metaphilosophy.md)
 
 ---
 

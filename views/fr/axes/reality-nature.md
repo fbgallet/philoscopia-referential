@@ -41,7 +41,7 @@ Le corps et l'esprit sont deux réalités distinctes : la matière, étendue et 
 
 ## Axes liés
 
-[Les universaux](../axes/universals.md) · [Nature de la conscience](../axes/consciousness-nature.md) · [Être ou avoir un corps](../axes/embodiment.md) · [Explication de la nature](../axes/causality.md) · [Une machine peut-elle penser](../axes/machine-mind.md) · [Tout et parties](../axes/reduction-emergence.md) · [Rapport à la certitude](../axes/certainty.md)
+[Les universaux](../axes/universals.md) · [Nature de la conscience](../axes/consciousness-nature.md) · [Être ou avoir un corps](../axes/embodiment.md) · [Explication de la nature](../axes/causality.md) · [Une machine peut-elle penser](../axes/machine-mind.md) · [Tout et parties](../axes/reduction-emergence.md) · [Rapport à la certitude](../axes/certainty.md) · [L'être et le devenir](../axes/being-becoming.md)
 
 ---
 

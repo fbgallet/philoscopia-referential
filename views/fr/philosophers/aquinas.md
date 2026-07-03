@@ -16,6 +16,18 @@ Né au château de Roccasecca dans le royaume de Sicile, Thomas entre tout jeune
 
 ## Positions
 
+### [La violence](../axes/violence.md)
+
+*positionné · explicite dans les textes · mineure*
+
+Guerre juste 100%
+
+La Somme systématise la **guerre juste** en trois conditions : l'autorité du prince (nul particulier ne peut déclarer la guerre), la cause juste (punir une faute, repousser l'injustice) et l'intention droite (viser le bien et la paix, non la vengeance ou la cupidité). La force n'est pas mauvaise en soi : elle est un instrument de la justice quand ces conditions sont réunies, comme le glaive remis au pouvoir public.
+
+> « Pour qu'une guerre soit juste, trois conditions sont requises : l'autorité du prince, une cause juste, une intention droite. » (Somme théologique, II-II, q. 40, a. 1)
+
+*Sources : Somme théologique, II-II, q. 40 · Somme théologique, II-II, q. 64, a. 7 (légitime défense, double effet)*
+
 ### [Foi et raison](../axes/faith-reason.md)
 
 *positionné · explicite dans les textes · majeure*
@@ -346,11 +358,13 @@ La charité elle-même est ordonnée, soutient Thomas : nous devons aimer tous l
 
 ### [Nature de l'amour](../axes/love-nature.md)
 
-*positionné · inférable · mineure*
+*positionné · explicite dans les textes · mineure*
 
-Agapè-don 80% · Éros-manque 20%
+Agapè-don 55% · Philia (amitié) 35% · Éros-manque 10%
 
-L'amour suprême est pour Thomas la charité (caritas), traduction latine de l'agapè chrétienne : amour de bienveillance qui veut le bien de l'autre pour lui-même, et qui descend de Dieu vers la créature plutôt que de monter du manque vers le bien, comme l'éros platonicien. La charité est même définie comme une amitié de l'homme avec Dieu, qui rend possible d'aimer le prochain en Dieu. Le don l'emporte donc nettement, sans que l'élan du désir vers le bien soit nié.
+L'amour suprême est pour Thomas la charité (caritas), traduction latine de l'[agapè](../glossary/agape.md) : amour de bienveillance qui veut le bien de l'autre et qui descend de Dieu vers la créature plutôt que de monter du manque vers le bien, comme l'[éros](../glossary/eros.md) platonicien. Mais Thomas en donne une définition précise et décisive : la charité est une [amitié](../glossary/philia.md) (amicitia) de l'homme avec Dieu, fondée sur la communication de la béatitude, et toute amitié suppose une bienveillance mutuelle et un partage. Le don reste premier, puisque c'est Dieu qui aime le premier et rend cette amitié possible par grâce, mais il prend la forme réciproque de la philia, non celle d'un don à sens unique ; l'ancien élan du désir vers le bien n'en subsiste pas moins comme une part résiduelle.
+
+> « La charité est une certaine amitié de l'homme avec Dieu. » (Somme théologique, IIa-IIae, q. 23, a. 1)
 
 *Sources : Somme théologique, IIa-IIae, q. 23 (la charité comme amitié)*
 

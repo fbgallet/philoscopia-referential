@@ -320,6 +320,16 @@ Le moi véritable est la chose pensante ; le corps est une machine, distincte de
 
 *Sources : Méditations métaphysiques, VI ; Lettres à Élisabeth*
 
+### [Nature de l'amour](../axes/love-nature.md)
+
+*positionné · inférable · mineure*
+
+Éros-manque 50% · Philia (amitié) 30% · Agapè-don 20%
+
+Dans *[Les passions de l'âme](../works/the-passions-of-the-soul-descartes.md)*, l'amour est une passion, une émotion de l'âme causée par les esprits du corps, qui incline la volonté à se joindre aux objets qui paraissent lui convenir. Descartes y distingue deux amours : l'amour de concupiscence, qui désire pour soi ce dont on manque, et l'amour de bienveillance, qui veut le bien de l'aimé. À la passion reçue s'ajoute la [générosité](../glossary/generosity.md), disposition ferme à bien user de son libre arbitre, à estimer autrui et à s'unir à lui, qui règle et ennoblit l'amour au lieu de le subir.
+
+*Sources : Les passions de l'âme, art. 79-83 (l'amour) ; art. 153-156 (la générosité)*
+
 ## Influencé par
 
 - **[Anselme de Cantorbéry](../philosophers/anselm.md)** (réinterprète) : L'argument ontologique d'[Anselme](../philosophers/anselm.md) reparaît, par des relais scolastiques, dans la Ve Méditation de [Descartes](../philosophers/descartes.md), qui déduit l'existence de Dieu de son essence, sans emprunt reconnu.

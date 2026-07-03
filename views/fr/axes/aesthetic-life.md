@@ -20,7 +20,7 @@ Le beau est ce qui justifie et accomplit l'existence : faire de sa vie une œuvr
 
 Le beau est subordonné au bien et à l'utile : un agrément second, voire une séduction suspecte des apparences. La vie bonne se mesure à la droiture morale, pas au raffinement esthétique, et l'art doit servir cette fin sous peine de n'être qu'un luxe.
 
-*[Platon](../philosophers/plato.md) · Tolstoï*
+*[Platon](../philosophers/plato.md) · [Tolstoï](../philosophers/tolstoy.md)*
 
 ## Relations de fondation
 

@@ -478,8 +478,8 @@
       "salience": "MINOR",
       "justification": {
         "text": {
-          "fr": "Le désir tourné vers les choses sensibles disperse l'âme et l'enchaîne au multiple ; la sagesse demande de l'en retirer pour le réorienter tout entier vers le haut. Plotin ne supprime pas l'élan désirant mais le convertit en <c>éros</c> de l'intelligible et de l'Un : l'âme ne s'apaise qu'en cessant de désirer ce qui est au-dessous d'elle. La pente vécue est donc celle d'un détachement à l'égard du sensible, plus austère encore que chez <ph id='plato'>Platon</ph>.",
-          "en": "Desire turned toward sensible things disperses the soul and chains it to the manifold; wisdom demands withdrawing it so as to redirect it wholly upward. Plotinus does not abolish the desiring drive but converts it into an <c>erōs</c> for the intelligible and the One: the soul finds rest only by ceasing to desire what is beneath it. The lived tendency is therefore detachment from the sensible, more austere still than in <ph id='plato'>Plato</ph>."
+          "fr": "Le désir tourné vers les choses sensibles disperse l'âme et l'enchaîne au multiple ; la sagesse demande de l'en retirer pour le réorienter tout entier vers le haut. Plotin ne supprime pas l'élan désirant mais le convertit en <c id='eros'>éros</c> de l'intelligible et de l'Un : l'âme ne s'apaise qu'en cessant de désirer ce qui est au-dessous d'elle. La pente vécue est donc celle d'un détachement à l'égard du sensible, plus austère encore que chez <ph id='plato'>Platon</ph>.",
+          "en": "Desire turned toward sensible things disperses the soul and chains it to the manifold; wisdom demands withdrawing it so as to redirect it wholly upward. Plotinus does not abolish the desiring drive but converts it into an <c id='eros'>erōs</c> for the intelligible and the One: the soul finds rest only by ceasing to desire what is beneath it. The lived tendency is therefore detachment from the sensible, more austere still than in <ph id='plato'>Plato</ph>."
         },
         "references": [
           {
@@ -591,8 +591,8 @@
       "salience": "MINOR",
       "justification": {
         "text": {
-          "fr": "Plotin prolonge l'<c>éros</c> du <w id='symposium-plato'>Banquet</w> de <ph id='plato'>Platon</ph> : l'amour est cet élan né du manque qui porte l'âme du beau sensible vers le Beau intelligible, et de là vers l'<c id='the-one'>Un</c>, source de toute beauté. C'est un amour ascensionnel, désir de s'unir à ce dont on procède. Une note de don affleure pourtant, car l'Un, lui, ne manque de rien et déborde par pure surabondance, ce qui inverse le manque au sommet.",
-          "en": "Plotinus extends the <c>erōs</c> of <ph id='plato'>Plato</ph>'s <w id='symposium-plato'>Symposium</w>: love is that drive born of lack which carries the soul from sensible beauty toward intelligible Beauty, and thence toward the <c id='the-one'>One</c>, source of all beauty. It is an ascending love, a desire to be united with that from which one proceeds. A note of gift nonetheless surfaces, for the One itself lacks nothing and overflows by pure superabundance, which reverses the lack at the summit."
+          "fr": "Plotin prolonge l'<c id='eros'>éros</c> du <w id='symposium-plato'>Banquet</w> de <ph id='plato'>Platon</ph> : l'amour est cet élan né du manque qui porte l'âme du beau sensible vers le Beau intelligible, et de là vers l'<c id='the-one'>Un</c>, source de toute beauté. C'est un amour ascensionnel, désir de s'unir à ce dont on procède. Une note de don affleure pourtant, car l'Un, lui, ne manque de rien et déborde par pure surabondance, ce qui inverse le manque au sommet.",
+          "en": "Plotinus extends the <c id='eros'>erōs</c> of <ph id='plato'>Plato</ph>'s <w id='symposium-plato'>Symposium</w>: love is that drive born of lack which carries the soul from sensible beauty toward intelligible Beauty, and thence toward the <c id='the-one'>One</c>, source of all beauty. It is an ascending love, a desire to be united with that from which one proceeds. A note of gift nonetheless surfaces, for the One itself lacks nothing and overflows by pure superabundance, which reverses the lack at the summit."
         },
         "references": [
           {
@@ -738,7 +738,7 @@
       }
     }
   ],
-  "updatedAt": "2026-06-29T00:00:00.000Z",
+  "updatedAt": "2026-07-03T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

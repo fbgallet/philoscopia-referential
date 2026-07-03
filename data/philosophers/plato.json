@@ -24,6 +24,47 @@
   ],
   "entries": [
     {
+      "axisId": "BEING_BECOMING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le sensible, en perpétuel devenir, ne peut être objet de science : on n'y rencontre rien de stable à connaître. Ce qui est réellement, ce sont les <kw>Formes intelligibles</kw>, immuables et éternelles, dont les choses changeantes ne sont que des participations. Platon accorde pourtant au devenir sa consistance propre : le monde sensible n'est pas rien, il est une image mobile de l'éternité.",
+          "en": "The sensible, in perpetual becoming, cannot be an object of knowledge: nothing stable is to be found in it to know. What really is are the <kw>intelligible Forms</kw>, immutable and eternal, of which changing things are only participations. Yet Plato grants becoming its own consistency: the sensible world is not nothing, it is a moving image of eternity."
+        },
+        "quote": {
+          "text": {
+            "fr": "Qu'est-ce qui est toujours, sans jamais devenir, et qu'est-ce qui devient toujours, sans être jamais ?",
+            "en": "What is that which always is and has no becoming, and what is that which is always becoming and never is?"
+          },
+          "source": {
+            "fr": "Timée, 27d",
+            "en": "Timaeus, 27d"
+          }
+        },
+        "references": [
+          {
+            "fr": "Timée, 27d-28a",
+            "en": "Timaeus, 27d-28a"
+          },
+          {
+            "fr": "République, VI-VII",
+            "en": "Republic, VI-VII"
+          },
+          {
+            "fr": "Cratyle, 439c-440",
+            "en": "Cratylus, 439c-440"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
       "axisId": "SUFFERING_MEANING",
       "status": "POSITIONED",
       "declaredValue": {
@@ -1018,7 +1059,7 @@
       }
     }
   ],
-  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "updatedAt": "2026-07-02T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

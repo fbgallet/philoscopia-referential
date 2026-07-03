@@ -28,6 +28,84 @@
   ],
   "entries": [
     {
+      "axisId": "VIOLENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0, 0, 0.2, 0.8]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La classe dominante ne cède jamais d'elle-même : l'émancipation du prolétariat passe par la conquête révolutionnaire du pouvoir, et la violence y joue le rôle d'<kw>accoucheuse de l'histoire</kw>, moyen au service d'un ordre nouveau plutôt que valeur en soi. Marx concède pourtant que dans certains pays, aux institutions ouvertes, une transition pacifique n'est pas exclue : la violence est un instrument de l'émancipation, non son essence.",
+          "en": "The ruling class never yields of its own accord: the emancipation of the proletariat requires the revolutionary conquest of power, and violence there plays the role of the <kw>midwife of history</kw>, a means in the service of a new order rather than a value in itself. Yet Marx concedes that in certain countries with open institutions a peaceful transition is not ruled out: violence is an instrument of emancipation, not its essence."
+        },
+        "quote": {
+          "text": {
+            "fr": "La violence est l'accoucheuse de toute vieille société grosse d'une société nouvelle.",
+            "en": "Force is the midwife of every old society pregnant with a new one."
+          },
+          "source": {
+            "fr": "Le Capital, livre I, chap. XXXI",
+            "en": "Capital, vol. I, ch. 31"
+          }
+        },
+        "references": [
+          {
+            "fr": "Le Capital, livre I, chap. XXXI",
+            "en": "Capital, vol. I, ch. 31"
+          },
+          {
+            "fr": "Manifeste du Parti communiste, IV",
+            "en": "Manifesto of the Communist Party, IV"
+          },
+          {
+            "fr": "Discours d'Amsterdam (1872)",
+            "en": "Amsterdam speech (1872)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "METAPHILOSOPHY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0, 1, 0, 0]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La onzième des <kw>Thèses sur Feuerbach</kw> retourne la vocation de la philosophie : interpréter le monde, comme les philosophes s'y sont bornés, laisse intactes les conditions matérielles qui produisent la misère et l'<kw>aliénation</kw>. La critique doit devenir pratique : s'incarner dans les luttes qui transforment les rapports sociaux, jusqu'à ce que la philosophie s'accomplisse en se réalisant.",
+          "en": "The eleventh of the <kw>Theses on Feuerbach</kw> overturns philosophy's vocation: interpreting the world, as philosophers have confined themselves to doing, leaves untouched the material conditions that produce misery and <kw>alienation</kw>. Critique must become practical: it must take flesh in the struggles that transform social relations, until philosophy fulfills itself by being realized."
+        },
+        "quote": {
+          "text": {
+            "fr": "Les philosophes n'ont fait qu'interpréter le monde de diverses manières ; ce qui importe, c'est de le transformer.",
+            "en": "The philosophers have only interpreted the world, in various ways; the point is to change it."
+          },
+          "source": {
+            "fr": "Thèses sur Feuerbach, XI (1845)",
+            "en": "Theses on Feuerbach, XI (1845)"
+          }
+        },
+        "references": [
+          {
+            "fr": "Thèses sur Feuerbach, XI",
+            "en": "Theses on Feuerbach, XI"
+          },
+          {
+            "fr": "L'Idéologie allemande (1846)",
+            "en": "The German Ideology (1846)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
       "axisId": "SUFFERING_MEANING",
       "status": "POSITIONED",
       "declaredValue": {
@@ -1175,7 +1253,7 @@
       }
     }
   ],
-  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "updatedAt": "2026-07-02T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

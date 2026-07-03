@@ -232,7 +232,7 @@ Moral intellectualism entails a fairly optimistic view of humankind: if we do ev
 
 Primacy of the ethical 75% · Aestheticism 25%
 
-What decides the worth of a life is, for Socrates, the goodness of the soul and not the brilliance of appearances: ugly as a Silenus but beautiful within, he judges a man by his virtue, not by his looks. Beauty is not thereby despised: in the *[Symposium](../works/symposium-plato.md)*, the love of beautiful bodies is the first rung of an ascent that, from beauty to beauty, rises to the Beautiful and then to the Good. But this dialectic of ascent, where sensible eros is only a step toward the intelligible, is already Plato's work; the primacy of the ethical remains, the beautiful being worth only as a path toward the good.
+What decides the worth of a life is, for Socrates, the goodness of the soul and not the brilliance of appearances: ugly as a Silenus but beautiful within, he judges a man by his virtue, not by his looks. Beauty is not thereby despised: in the *[Symposium](../works/symposium-plato.md)*, the love of beautiful bodies is the first rung of an ascent that, from beauty to beauty, rises to the Beautiful and then to the Good. But this dialectic of ascent, where sensible [eros](../glossary/eros.md) is only a step toward the intelligible, is already Plato's work; the primacy of the ethical remains, the beautiful being worth only as a path toward the good.
 
 *Sources : Plato, Apology, 29d-30b (virtue before reputation) · Plato, Symposium, 210a-212a (the ascent of eros, from beautiful bodies to Beauty itself) · Plato, Symposium, 215a-216a (Socrates as Silenus, inner beauty)*
 

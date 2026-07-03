@@ -33,7 +33,7 @@ Power is necessary, but it is legitimate only if it is limited. Between the obed
 
 ## Related axes
 
-[Political liberty](../axes/political-liberty.md) · [Nature of rights](../axes/rights-nature.md) · [Ideal and reality](../axes/political-ideal.md) · [The origin of the social bond](../axes/social-contract.md) · [Who should decide](../axes/who-decides.md)
+[Political liberty](../axes/political-liberty.md) · [Nature of rights](../axes/rights-nature.md) · [Ideal and reality](../axes/political-ideal.md) · [The origin of the social bond](../axes/social-contract.md) · [Who should decide](../axes/who-decides.md) · [Violence](../axes/violence.md)
 
 ---
 

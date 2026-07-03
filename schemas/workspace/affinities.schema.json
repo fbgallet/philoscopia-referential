@@ -1,0 +1,69 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/fbgallet/philoscopia-referential/blob/main/schemas/workspace/affinities.schema.json",
+  "title": "workspace/affinities",
+  "description": "Loves & hates: raw discovery material. Part of the user workspace format (my-philosophy/): monolingual, personal, local-first files written by the Philoscopia MCP server and exploration skills. Structure only; write-time rules (e.g. POSITIONED requires a value, ref resolution against the pinned referential) are enforced by the tools.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^[a-z0-9][a-z0-9-]*$"
+      },
+      "feeling": {
+        "type": "string",
+        "enum": [
+          "LOVE",
+          "HATE"
+        ]
+      },
+      "subject": {
+        "type": "string",
+        "minLength": 1
+      },
+      "category": {
+        "type": "string",
+        "enum": [
+          "PERSON",
+          "ACTIVITY",
+          "PLACE",
+          "OBJECT",
+          "ART",
+          "LIFESTYLE",
+          "SITUATION"
+        ]
+      },
+      "why": {
+        "type": "string"
+      },
+      "revealedBeliefs": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9-]*$"
+        }
+      },
+      "relatedAxes": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "pattern": "^ax:[A-Z][A-Z0-9_]*$"
+        }
+      },
+      "createdAt": {
+        "type": "string"
+      },
+      "updatedAt": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "id",
+      "feeling",
+      "subject",
+      "createdAt"
+    ],
+    "additionalProperties": false
+  }
+}

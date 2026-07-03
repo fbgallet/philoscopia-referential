@@ -16,6 +16,18 @@ Born at the castle of Roccasecca in the kingdom of Sicily, Thomas entered while 
 
 ## Positions
 
+### [Violence](../axes/violence.md)
+
+*positioned · explicit in the texts · minor*
+
+Just war 100%
+
+The Summa systematizes **just war** under three conditions: the authority of the sovereign (no private person may declare war), a just cause (punishing a fault, repelling injustice), and a rightful intention (aiming at the good and at peace, not vengeance or greed). Force is not evil in itself: it is an instrument of justice when these conditions are met, like the sword entrusted to public power.
+
+> “For a war to be just, three things are necessary: the authority of the sovereign, a just cause, and a rightful intention.” (Summa Theologiae, II-II, q. 40, a. 1)
+
+*Sources : Summa Theologiae, II-II, q. 40 · Summa Theologiae, II-II, q. 64, a. 7 (self-defense, double effect)*
+
 ### [Faith and reason](../axes/faith-reason.md)
 
 *positioned · explicit in the texts · major*
@@ -346,11 +358,13 @@ Charity itself is ordered, Thomas argues: we ought to love all human beings, but
 
 ### [Nature of love](../axes/love-nature.md)
 
-*positioned · inferable · minor*
+*positioned · explicit in the texts · minor*
 
-Agape as gift 80% · Eros as lack 20%
+Agape as gift 55% · Philia (friendship) 35% · Eros as lack 10%
 
-The supreme love is for Thomas charity (caritas), the Latin rendering of Christian agape: a love of benevolence that wills the other's good for the other's sake, and that descends from God toward the creature rather than rising from lack toward the good, as Platonic eros does. Charity is even defined as a friendship of the human being with God, which makes it possible to love one's neighbour in God. The gift therefore clearly prevails, without the upward thrust of desire toward the good being denied.
+The supreme love is for Thomas charity (caritas), the Latin rendering of [agape](../glossary/agape.md): a love of benevolence that wills the other's good and descends from God toward the creature rather than rising from lack toward the good, as Platonic [eros](../glossary/eros.md) does. But Thomas gives it a precise and decisive definition: charity is a [friendship](../glossary/philia.md) (amicitia) of the human being with God, founded on the sharing of beatitude, and every friendship supposes mutual benevolence and a communion. The gift remains primary, since it is God who loves first and makes this friendship possible by grace, yet it takes the reciprocal form of philia, not that of a one-way gift; the old upward thrust of desire toward the good nonetheless persists as a residual share.
+
+> “Charity is a certain friendship of the human being with God.” (Summa Theologiae, IIa-IIae, q. 23, a. 1)
 
 *Sources : Summa Theologiae, IIa-IIae, q. 23 (charity as friendship)*
 

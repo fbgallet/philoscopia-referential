@@ -18,6 +18,18 @@
 
 ## Positions
 
+### [Le but de la philosophie](../axes/metaphilosophy.md)
+
+*positionné · explicite dans les textes · majeure*
+
+Se transformer soi-même 80% · Comprendre le monde 20%
+
+La philosophie stoïcienne est un exercice (**askêsis**) plus qu'un savoir : une discipline quotidienne du jugement, du désir et de l'action, dont la matière est la vie même de celui qui la pratique. La physique et la logique y gardent leur place, mais au service de l'art de vivre : connaître l'ordre du monde, c'est apprendre à y consentir.
+
+> « La matière de l'art de vivre, c'est la vie de chacun. » (Épictète, Entretiens, I, 15, 2)
+
+*Sources : Épictète, Entretiens, I, 15 · Sénèque, Lettres à Lucilius, 16*
+
 ### [Essence et existence](../axes/essence.md)
 
 *positionné · explicite dans les textes · mineure*

@@ -34,7 +34,7 @@ Science is our most rigorous knowledge, yet it proceeds by conjectures forever e
 
 ## Related axes
 
-[Scientific method](../axes/scientific-method.md) · [Faith and reason](../axes/faith-reason.md) · [Status of knowledge](../axes/knowledge-status.md)
+[Scientific method](../axes/scientific-method.md) · [Faith and reason](../axes/faith-reason.md) · [Status of knowledge](../axes/knowledge-status.md) · [The point of philosophy](../axes/metaphilosophy.md)
 
 ---
 

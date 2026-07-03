@@ -853,6 +853,29 @@
         },
         "strength": "STRONG"
       }
+    },
+    {
+      "axisId": "LOVE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0, 0.3, 0, 0.7]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Beauvoir critique l'amour où la femme s'aliène et se fait l'objet de l'autre : l'<c>amoureuse</c> qui se perd dans l'aimé, faute de projet propre, est une figure de la <c>mauvaise foi</c>. À cet amour-manque qui veut se compléter dans un autre, elle oppose l'amour authentique, lien réciproque de deux libertés qui se reconnaissent et se choisissent sans que l'une se dissolve dans l'autre. C'est une <c id='philia'>philia</c> existentielle, faite de reconnaissance mutuelle, où la part de don tient à ce que chacun veut la liberté de l'autre comme la sienne.",
+          "en": "Beauvoir criticizes the love in which woman alienates herself and makes herself the other's object: the <c>woman in love</c> who loses herself in the beloved, for want of a project of her own, is a figure of <c>bad faith</c>. To this love-as-lack that seeks to complete itself in another, she opposes authentic love, the reciprocal bond of two freedoms that recognize and choose one another without either dissolving into the other. It is an existential <c id='philia'>philia</c>, made of mutual recognition, in which the share of gift lies in each willing the other's freedom as their own."
+        },
+        "references": [
+          {
+            "fr": "Le Deuxième Sexe (1949), t. II, « L'amoureuse »",
+            "en": "The Second Sex (1949), vol. II, \"The Woman in Love\""
+          }
+        ],
+        "strength": "MEDIUM"
+      }
     }
   ],
   "structuring": [
@@ -892,7 +915,7 @@
       }
     }
   ],
-  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "updatedAt": "2026-07-03T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

@@ -16,6 +16,30 @@ Né à Stagire en Macédoine, Aristote rejoint à dix-sept ans l'Académie de [P
 
 ## Positions
 
+### [L'être et le devenir](../axes/being-becoming.md)
+
+*positionné · explicite dans les textes · majeure*
+
+Permanence de l'être 50% · Devenir et flux 50%
+
+Contre Parménide, qui rendait le changement impensable (l'être ne saurait venir du non-être), Aristote distingue la **puissance** et l'**acte** : le devenir n'est pas surgissement du néant mais actualisation de ce qui était en puissance, dans un substrat qui persiste. La substance dure à travers le changement de ses accidents, la forme se réalise dans la matière : l'être et le devenir cessent d'être des rivaux, le devenir est la voie par laquelle les êtres accomplissent leur forme.
+
+> « La nature est un principe de mouvement et de changement. » (Physique, III, 1 (200b))
+
+*Sources : Physique, I, 8 · Métaphysique, Θ*
+
+### [Le but de la philosophie](../axes/metaphilosophy.md)
+
+*positionné · explicite dans les textes · majeure*
+
+Comprendre le monde 75% · Se transformer soi-même 25%
+
+La science première naît de l'étonnement et se recherche pour elle-même, non pour son utilité : comme l'homme libre, elle est à elle-même sa propre fin. Et la **vie théorétique**, activité de ce qu'il y a de plus divin en nous, est le bonheur le plus haut. Aristote réserve pourtant une part à la visée pratique : l'éthique ne s'étudie pas pour savoir ce qu'est la vertu, mais pour devenir bon.
+
+> « Cette science est la seule de toutes qui soit libre, car seule elle est à elle-même sa propre fin. » (Métaphysique, A, 2 (982b))
+
+*Sources : Métaphysique, A, 1-2 · Éthique à Nicomaque, X, 7-8 · Éthique à Nicomaque, II, 2 (1103b)*
+
 ### [Sens de la souffrance](../axes/suffering-meaning.md)
 
 *positionné · inférable · mineure*
@@ -315,6 +339,18 @@ Réalisme des universaux 80% · Nominalisme 20%
 Contre Platon, Aristote refuse des Idées séparées : l'universel est réel, mais il n'existe que dans les individus, comme leur forme. La forme du cheval n'existe pas hors des chevaux singuliers, mais elle est bien réelle en eux. C'est un réalisme immanent.
 
 *Sources : Métaphysique, Z ; Catégories, 5*
+
+### [Nature de l'amour](../axes/love-nature.md)
+
+*positionné · explicite dans les textes · majeure*
+
+Philia (amitié) 90% · Agapè-don 10%
+
+Contre l'[éros](../glossary/eros.md) platonicien qui fait de l'amour un désir du beau qu'on n'a pas, Aristote place au sommet non le manque mais le lien : la [philia](../glossary/philia.md). Dans les livres VIII et IX de l'*[Éthique à Nicomaque](../works/nicomachean-ethics-aristotle.md)*, il distingue trois amitiés selon leur ressort, l'utile, le plaisant et le bien ; les deux premières sont fragiles, car elles aiment l'autre pour ce qu'il procure. L'amitié parfaite, celle des gens de bien qui se veulent mutuellement du bien pour l'autre lui-même, est stable, rare et réciproque, au point que l'ami compte comme un prolongement de soi ; vouloir son bien pour lui seul, sans rien attendre en retour, y garde une part de don au cœur même de la réciprocité. Loin d'être un supplément à la vie bonne, elle en est une part constitutive : nul, fût-il comblé de tous les autres biens, ne choisirait de vivre sans amis.
+
+> « L'ami est un autre soi-même. » (Éthique à Nicomaque, IX, 4)
+
+*Sources : Éthique à Nicomaque, VIII-IX (les trois amitiés ; l'ami comme autre soi-même) · Éthique à Nicomaque, IX, 9 (le bonheur et le besoin d'amis)*
 
 ## Influencé par
 

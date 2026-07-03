@@ -1,0 +1,87 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/fbgallet/philoscopia-referential/blob/main/schemas/workspace/practices.schema.json",
+  "title": "workspace/practices",
+  "description": "What the user actually does: routines, rules, exercises. Part of the user workspace format (my-philosophy/): monolingual, personal, local-first files written by the Philoscopia MCP server and exploration skills. Structure only; write-time rules (e.g. POSITIONED requires a value, ref resolution against the pinned referential) are enforced by the tools.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^[a-z0-9][a-z0-9-]*$"
+      },
+      "statement": {
+        "type": "string",
+        "minLength": 1
+      },
+      "kind": {
+        "type": "string",
+        "enum": [
+          "PRACTICE",
+          "ATTITUDE",
+          "RULE_OF_ACTION",
+          "EXERCISE"
+        ]
+      },
+      "frequency": {
+        "type": "string",
+        "enum": [
+          "DAILY",
+          "WEEKLY",
+          "MONTHLY",
+          "AS_NEEDED"
+        ]
+      },
+      "consistency": {
+        "default": "GOOD",
+        "type": "string",
+        "enum": [
+          "EXCELLENT",
+          "GOOD",
+          "INCONSISTENT",
+          "STRUGGLING",
+          "ABANDONED"
+        ]
+      },
+      "purpose": {
+        "type": "string"
+      },
+      "method": {
+        "type": "string"
+      },
+      "inspiredBy": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "pattern": "^(ph|mv):[a-z0-9][a-z0-9-]*$"
+        }
+      },
+      "servesBeliefs": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9-]*$"
+        }
+      },
+      "feedback": {
+        "type": "string"
+      },
+      "createdAt": {
+        "type": "string"
+      },
+      "updatedAt": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "id",
+      "statement",
+      "kind",
+      "frequency",
+      "createdAt",
+      "updatedAt"
+    ],
+    "additionalProperties": false
+  }
+}

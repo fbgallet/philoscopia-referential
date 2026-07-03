@@ -538,8 +538,8 @@
       "salience": "MINOR",
       "justification": {
         "text": {
-          "fr": "Ce qui décide de la valeur d'une vie est, pour Socrate, la bonté de l'âme et non l'éclat des apparences : laid comme un silène mais beau au-dedans, il juge un homme sur sa vertu, non sur son allure. Le beau n'est pas pour autant méprisé : dans le <w id='symposium-plato'>Banquet</w>, l'amour des beaux corps est le premier degré d'une montée qui, de beauté en beauté, s'élève jusqu'au Beau puis au Bien. Mais cette dialectique de l'élévation, où l'<c>éros</c> sensible n'est qu'un échelon vers l'intelligible, est déjà l'œuvre de Platon ; le <c>primat de l'éthique</c> demeure, le beau ne valant que comme chemin vers le bon.",
-          "en": "What decides the worth of a life is, for Socrates, the goodness of the soul and not the brilliance of appearances: ugly as a Silenus but beautiful within, he judges a man by his virtue, not by his looks. Beauty is not thereby despised: in the <w id='symposium-plato'>Symposium</w>, the love of beautiful bodies is the first rung of an ascent that, from beauty to beauty, rises to the Beautiful and then to the Good. But this dialectic of ascent, where sensible <c>eros</c> is only a step toward the intelligible, is already Plato's work; the <c>primacy of the ethical</c> remains, the beautiful being worth only as a path toward the good."
+          "fr": "Ce qui décide de la valeur d'une vie est, pour Socrate, la bonté de l'âme et non l'éclat des apparences : laid comme un silène mais beau au-dedans, il juge un homme sur sa vertu, non sur son allure. Le beau n'est pas pour autant méprisé : dans le <w id='symposium-plato'>Banquet</w>, l'amour des beaux corps est le premier degré d'une montée qui, de beauté en beauté, s'élève jusqu'au Beau puis au Bien. Mais cette dialectique de l'élévation, où l'<c id='eros'>éros</c> sensible n'est qu'un échelon vers l'intelligible, est déjà l'œuvre de Platon ; le <c>primat de l'éthique</c> demeure, le beau ne valant que comme chemin vers le bon.",
+          "en": "What decides the worth of a life is, for Socrates, the goodness of the soul and not the brilliance of appearances: ugly as a Silenus but beautiful within, he judges a man by his virtue, not by his looks. Beauty is not thereby despised: in the <w id='symposium-plato'>Symposium</w>, the love of beautiful bodies is the first rung of an ascent that, from beauty to beauty, rises to the Beautiful and then to the Good. But this dialectic of ascent, where sensible <c id='eros'>eros</c> is only a step toward the intelligible, is already Plato's work; the <c>primacy of the ethical</c> remains, the beautiful being worth only as a path toward the good."
         },
         "references": [
           {
@@ -616,7 +616,7 @@
       }
     }
   ],
-  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "updatedAt": "2026-07-03T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

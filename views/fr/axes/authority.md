@@ -33,7 +33,7 @@ Un pouvoir est nécessaire, mais il n'est légitime que s'il est limité. Entre 
 
 ## Axes liés
 
-[Liberté politique](../axes/political-liberty.md) · [Nature des droits](../axes/rights-nature.md) · [Idéal et réel](../axes/political-ideal.md) · [Origine du lien social](../axes/social-contract.md) · [Qui doit décider](../axes/who-decides.md)
+[Liberté politique](../axes/political-liberty.md) · [Nature des droits](../axes/rights-nature.md) · [Idéal et réel](../axes/political-ideal.md) · [Origine du lien social](../axes/social-contract.md) · [Qui doit décider](../axes/who-decides.md) · [La violence](../axes/violence.md)
 
 ---
 

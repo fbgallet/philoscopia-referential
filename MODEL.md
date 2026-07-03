@@ -1,6 +1,6 @@
 # The model
 
-This document specifies the semantics of the JSON corpus: what an axis, a position, a profile and the relation graphs mean. Read it before contributing, and give it to an LLM alongside the data when you use the referential programmatically. (The layout of the repository is in the [README](README.md); the sub-problem grid carried by axes has [its own document](docs/problems-ontology.md).)
+This document specifies the semantics of the JSON corpus: what an axis, a position, a profile and the relation graphs mean. Read it before contributing, and give it to an LLM alongside the data when you use the referential programmatically. (The layout of the repository is in the [README](README.md); the machine-checkable structure of each file is in [`schemas/`](schemas/); the sub-problem grid carried by axes has [its own document](docs/problems-ontology.md).)
 
 ## Three registers
 

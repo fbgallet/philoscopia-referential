@@ -79,7 +79,9 @@
   ],
   "core": false,
   "difficulty": 2,
-  "clusters": [],
+  "clusters": [
+    "NATURE_CONSTRUCTION"
+  ],
   "relatedAxes": [
     "HUMAN_NATURE",
     "INDIVIDUAL_SOCIETY",

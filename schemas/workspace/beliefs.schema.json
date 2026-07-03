@@ -1,0 +1,142 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/fbgallet/philoscopia-referential/blob/main/schemas/workspace/beliefs.schema.json",
+  "title": "workspace/beliefs",
+  "description": "Personal beliefs on the problems-ontology grid, with a personal foundation graph. Part of the user workspace format (my-philosophy/): monolingual, personal, local-first files written by the Philoscopia MCP server and exploration skills. Structure only; write-time rules (e.g. POSITIONED requires a value, ref resolution against the pinned referential) are enforced by the tools.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^[a-z0-9][a-z0-9-]*$"
+      },
+      "statement": {
+        "type": "string",
+        "minLength": 1
+      },
+      "mode": {
+        "type": "string",
+        "enum": [
+          "DESCRIPTIVE",
+          "PRESCRIPTIVE",
+          "PRACTICAL"
+        ]
+      },
+      "object": {
+        "type": "string",
+        "enum": [
+          "INDIVIDUAL",
+          "RELATION",
+          "STRUCTURE"
+        ]
+      },
+      "sphere": {
+        "type": "string",
+        "pattern": "^[A-Z][A-Z0-9_]*$"
+      },
+      "status": {
+        "default": "HELD",
+        "type": "string",
+        "enum": [
+          "HELD",
+          "SUSPENDED",
+          "ABANDONED",
+          "SUPERSEDED"
+        ]
+      },
+      "adherence": {
+        "type": "string",
+        "enum": [
+          "STRONG",
+          "MODERATE",
+          "WEAK"
+        ]
+      },
+      "revisedFrom": {
+        "anyOf": [
+          {
+            "type": "string",
+            "pattern": "^[a-z0-9][a-z0-9-]*$"
+          },
+          {
+            "type": "null"
+          }
+        ]
+      },
+      "supersededBy": {
+        "type": "string",
+        "pattern": "^[a-z0-9][a-z0-9-]*$"
+      },
+      "topics": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "relatedAxes": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "pattern": "^ax:[A-Z][A-Z0-9_]*$"
+        }
+      },
+      "grounds": {
+        "type": "array",
+        "items": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^[a-z0-9][a-z0-9-]*$"
+            },
+            {
+              "type": "string",
+              "pattern": "^(ax:[A-Z][A-Z0-9_]*|pole:[A-Z][A-Z0-9_]*\\/[A-Z][A-Z0-9_]*|(c|ph|mv|chr|te|w|problem):[a-z0-9][a-z0-9-]*)$"
+            }
+          ]
+        }
+      },
+      "challengedBy": {
+        "type": "array",
+        "items": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^[a-z0-9][a-z0-9-]*$"
+            },
+            {
+              "type": "string",
+              "pattern": "^(ax:[A-Z][A-Z0-9_]*|pole:[A-Z][A-Z0-9_]*\\/[A-Z][A-Z0-9_]*|(c|ph|mv|chr|te|w|problem):[a-z0-9][a-z0-9-]*)$"
+            }
+          ]
+        }
+      },
+      "rationale": {
+        "type": "string"
+      },
+      "sessions": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "pattern": "^journal\\/[a-z0-9][a-z0-9-]*\\.md$"
+        }
+      },
+      "createdAt": {
+        "type": "string"
+      },
+      "updatedAt": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "id",
+      "statement",
+      "mode",
+      "adherence",
+      "createdAt",
+      "updatedAt"
+    ],
+    "additionalProperties": false
+  }
+}

@@ -37,6 +37,43 @@
   ],
   "entries": [
     {
+      "axisId": "METAPHILOSOPHY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.2, 0, 0.8, 0]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La philosophie stoïcienne est un exercice (<kw>askêsis</kw>) plus qu'un savoir : une discipline quotidienne du jugement, du désir et de l'action, dont la matière est la vie même de celui qui la pratique. La physique et la logique y gardent leur place, mais au service de l'art de vivre : connaître l'ordre du monde, c'est apprendre à y consentir.",
+          "en": "Stoic philosophy is an exercise (<kw>askêsis</kw>) more than a body of knowledge: a daily discipline of judgment, desire, and action, whose raw material is the very life of the one who practices it. Physics and logic keep their place, but in the service of the art of living: to know the order of the world is to learn to consent to it."
+        },
+        "quote": {
+          "text": {
+            "fr": "La matière de l'art de vivre, c'est la vie de chacun.",
+            "en": "The subject-matter of the art of living is each person's own life."
+          },
+          "source": {
+            "fr": "Épictète, Entretiens, I, 15, 2",
+            "en": "Epictetus, Discourses, I.15.2"
+          }
+        },
+        "references": [
+          {
+            "fr": "Épictète, Entretiens, I, 15",
+            "en": "Epictetus, Discourses, I.15"
+          },
+          {
+            "fr": "Sénèque, Lettres à Lucilius, 16",
+            "en": "Seneca, Letters to Lucilius, 16"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
       "axisId": "ESSENCE",
       "status": "POSITIONED",
       "declaredValue": {
@@ -599,7 +636,7 @@
       }
     }
   ],
-  "updatedAt": "2026-06-23T00:00:00.000Z",
+  "updatedAt": "2026-07-02T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

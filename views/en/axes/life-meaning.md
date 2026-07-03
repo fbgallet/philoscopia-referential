@@ -53,7 +53,7 @@ Since no meaning is given and nothing truly replaces it, the torment comes from 
 
 ## Related axes
 
-[Tonality of reality](../axes/cosmic-outlook.md) · [Death](../axes/death.md) · [Interiority](../axes/interiority.md) · [The highest good](../axes/sovereign-good.md) · [Temporal orientation](../axes/time-orientation.md) · [Meaning of work](../axes/work-meaning.md) · [Existence of God](../axes/god-existence.md)
+[Tonality of reality](../axes/cosmic-outlook.md) · [Death](../axes/death.md) · [Interiority](../axes/interiority.md) · [The highest good](../axes/sovereign-good.md) · [Temporal orientation](../axes/time-orientation.md) · [Meaning of work](../axes/work-meaning.md) · [Existence of God](../axes/god-existence.md) · [The point of philosophy](../axes/metaphilosophy.md)
 
 ---
 

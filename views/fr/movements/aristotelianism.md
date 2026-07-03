@@ -214,7 +214,7 @@ Contre l'intellectualisme socratique, l'aristotélisme accorde aux passions un r
 
 Partialisme 80% · Impartialisme 20%
 
-L'amitié, la philia, occupe deux livres entiers de l'*[Éthique à Nicomaque](../works/nicomachean-ethics-aristotle.md)* et constitue un bien indispensable à la vie bonne : on a des devoirs plus grands envers ses proches, ses bienfaiteurs et ses concitoyens. Cette priorité assumée des liens particuliers, jusqu'à l'amitié civique qui tient la cité ensemble, situe l'aristotélisme du côté du partialisme.
+L'amitié, la [philia](../glossary/philia.md), occupe deux livres entiers de l'*[Éthique à Nicomaque](../works/nicomachean-ethics-aristotle.md)* et constitue un bien indispensable à la vie bonne : on a des devoirs plus grands envers ses proches, ses bienfaiteurs et ses concitoyens. Cette priorité assumée des liens particuliers, jusqu'à l'amitié civique qui tient la cité ensemble, situe l'aristotélisme du côté du partialisme.
 
 *Sources : Aristote, Éthique à Nicomaque, VIII-IX*
 

@@ -47,7 +47,7 @@ Existence precedes essence: a human being is at first nothing definite and makes
 
 ## Related axes
 
-[Social identity](../axes/social-identity.md) · [Universals](../axes/universals.md) · [Freedom of the will](../axes/freedom.md) · [Nature and culture](../axes/human-nature.md) · [Nature of the self](../axes/self-nature.md)
+[Social identity](../axes/social-identity.md) · [Universals](../axes/universals.md) · [Freedom of the will](../axes/freedom.md) · [Nature and culture](../axes/human-nature.md) · [Nature of the self](../axes/self-nature.md) · [Being and becoming](../axes/being-becoming.md)
 
 ---
 

@@ -290,6 +290,18 @@ Universal notions such as "man" or "horse" are not realities: they arise from th
 
 *Sources : Ethics, II, prop. 40, scholium 1*
 
+### [Nature of love](../axes/love-nature.md)
+
+*positioned · inferable · major*
+
+Philia (friendship) 60% · Agape as gift 25% · Eros as lack 15%
+
+At the heart of love Spinoza sees neither lack nor gift but a joy: to love is to pass to a greater perfection, a joy referred to the idea of its cause (*[Ethics](../works/ethics-spinoza.md)*, III). Love is therefore not the surge of a void toward what would fill it, but the striving (conatus) of power toward what increases it, which keeps a kinship with [eros](../glossary/eros.md) without its pathos of lack. Among human beings this striving culminates in the friendship of those guided by reason, who agree in nature, are mutually useful and want nothing for themselves that they do not also want for others: a rational [philia](../glossary/philia.md), reciprocal and chosen. At the summit, the [intellectual love of God](../glossary/intellectual-love-of-god.md) exceeds every interpersonal bond: a love without return, in which the sage does not require to be loved back, closer to disinterested gift than to possession.
+
+> “He who loves God cannot strive that God should love him in return.” (Ethics, V, prop. 19)
+
+*Sources : Ethics, III (definition of love); IV, props. 35-37 and 70-71 (the friendship of reasonable people); V, props. 19 and 32-37 (the intellectual love of God)*
+
 ## Influenced by
 
 - **[Descartes](../philosophers/descartes.md)** (reinterprets) : [Spinoza](../philosophers/spinoza.md) takes up the demonstrative rigour and method of [Descartes](../philosophers/descartes.md), but overturns his metaphysics: instead of two substances and an external God, a single infinite substance of which everything is a mode.

@@ -16,6 +16,30 @@ A nineteenth-century German philosopher and economist, trained in the school of 
 
 ## Positions
 
+### [Violence](../axes/violence.md)
+
+*positioned · explicit in the texts · minor*
+
+Emancipatory violence 80% · Force as an instrument of politics 20%
+
+The ruling class never yields of its own accord: the emancipation of the proletariat requires the revolutionary conquest of power, and violence there plays the role of the **midwife of history**, a means in the service of a new order rather than a value in itself. Yet Marx concedes that in certain countries with open institutions a peaceful transition is not ruled out: violence is an instrument of emancipation, not its essence.
+
+> “Force is the midwife of every old society pregnant with a new one.” (Capital, vol. I, ch. 31)
+
+*Sources : Capital, vol. I, ch. 31 · Manifesto of the Communist Party, IV · Amsterdam speech (1872)*
+
+### [The point of philosophy](../axes/metaphilosophy.md)
+
+*positioned · explicit in the texts · major*
+
+Changing the world 100%
+
+The eleventh of the **Theses on Feuerbach** overturns philosophy's vocation: interpreting the world, as philosophers have confined themselves to doing, leaves untouched the material conditions that produce misery and **alienation**. Critique must become practical: it must take flesh in the struggles that transform social relations, until philosophy fulfills itself by being realized.
+
+> “The philosophers have only interpreted the world, in various ways; the point is to change it.” (Theses on Feuerbach, XI (1845))
+
+*Sources : Theses on Feuerbach, XI · The German Ideology (1846)*
+
 ### [The meaning of suffering](../axes/suffering-meaning.md)
 
 *positioned · explicit in the texts · minor*

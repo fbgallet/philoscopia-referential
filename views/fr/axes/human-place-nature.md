@@ -26,7 +26,7 @@ La puissance technique de l'humanité lui confère une responsabilité inédite 
 
 L'être humain n'occupe aucune position privilégiée dans la nature : il est un vivant parmi d'autres, inséré dans un réseau d'interdépendances. Toutes les formes de vie ont une valeur propre, indépendante de leur utilité pour nous.
 
-*Næss*
+*[Næss](../philosophers/naess.md)*
 
 ## Relations de fondation
 

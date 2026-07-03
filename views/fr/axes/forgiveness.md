@@ -36,7 +36,7 @@ Le pardon suppose que le coupable reconnaisse sa faute et la regrette : pardonne
 
 ## Axes liés
 
-[Rapport au passé](../axes/past-relation.md) · [Sens de la peine](../axes/punishment.md) · [Exigence morale](../axes/moral-demand.md)
+[Rapport au passé](../axes/past-relation.md) · [Sens de la peine](../axes/punishment.md) · [Exigence morale](../axes/moral-demand.md) · [La violence](../axes/violence.md)
 
 ---
 

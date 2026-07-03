@@ -20,7 +20,7 @@ Political thought must conceive the just city, even if it exists nowhere. The id
 
 One must start from the effective truth of things, not from imagined republics. Politics is the art of governing people as they are, with their passions and interests: whoever neglects what is done for what ought to be done courts ruin.
 
-*Machiavelli · [Hobbes](../philosophers/hobbes.md)*
+*[Machiavelli](../philosophers/machiavelli.md) · [Hobbes](../philosophers/hobbes.md)*
 
 ## Grounding relations
 
@@ -29,7 +29,7 @@ One must start from the effective truth of things, not from imagined republics. 
 
 ## Related axes
 
-[Relation to authority](../axes/authority.md) · [Tradition and transformation](../axes/conservatism-progressism.md) · [Distributive justice](../axes/distributive-justice.md) · [Vision of humanity](../axes/human-vision.md)
+[Relation to authority](../axes/authority.md) · [Tradition and transformation](../axes/conservatism-progressism.md) · [Distributive justice](../axes/distributive-justice.md) · [Vision of humanity](../axes/human-vision.md) · [Violence](../axes/violence.md)
 
 ---
 

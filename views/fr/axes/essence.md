@@ -47,7 +47,7 @@ L'existence précède l'essence : l'être humain n'est d'abord rien de défini, 
 
 ## Axes liés
 
-[Identité sociale](../axes/social-identity.md) · [Les universaux](../axes/universals.md) · [Liberté de la volonté](../axes/freedom.md) · [Nature et culture](../axes/human-nature.md) · [Nature du moi](../axes/self-nature.md)
+[Identité sociale](../axes/social-identity.md) · [Les universaux](../axes/universals.md) · [Liberté de la volonté](../axes/freedom.md) · [Nature et culture](../axes/human-nature.md) · [Nature du moi](../axes/self-nature.md) · [L'être et le devenir](../axes/being-becoming.md)
 
 ---
 

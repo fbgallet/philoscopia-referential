@@ -26,7 +26,7 @@ A natural phenomenon is fully understood only by grasping what it occurs for: th
 
 Life cannot be reduced either to mechanics or to a pre-established plan: it is a creative, unpredictable impulse that invents new forms. Understanding the living requires a different approach from that of the physical sciences.
 
-*Bergson*
+*[Bergson](../philosophers/bergson.md)*
 
 ## Grounding relations
 
@@ -41,7 +41,7 @@ Life cannot be reduced either to mechanics or to a pre-established plan: it is a
 
 ## Related axes
 
-[Freedom of the will](../axes/freedom.md) · [Nature of mind and reality](../axes/reality-nature.md) · [Wholes and parts](../axes/reduction-emergence.md) · [Source of knowledge](../axes/knowledge-source.md)
+[Freedom of the will](../axes/freedom.md) · [Nature of mind and reality](../axes/reality-nature.md) · [Wholes and parts](../axes/reduction-emergence.md) · [Source of knowledge](../axes/knowledge-source.md) · [Being and becoming](../axes/being-becoming.md)
 
 ---
 

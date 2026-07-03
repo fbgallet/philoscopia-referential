@@ -320,6 +320,16 @@ The true self is the thinking thing; the body is a machine, distinct from the so
 
 *Sources : Meditations on First Philosophy, VI; Letters to Elisabeth*
 
+### [Nature of love](../axes/love-nature.md)
+
+*positioned · inferable · minor*
+
+Eros as lack 50% · Philia (friendship) 30% · Agape as gift 20%
+
+In *[The Passions of the Soul](../works/the-passions-of-the-soul-descartes.md)*, love is a passion, an emotion of the soul caused by the body's spirits, that inclines the will to join itself to objects which appear suitable to it. Descartes distinguishes two loves: the love of concupiscence, which desires for oneself what one lacks, and the love of benevolence, which wills the good of the beloved. To the passion undergone is added [generosity](../glossary/generosity.md), the firm disposition to make good use of one's free will, to esteem others and to unite with them, which governs and ennobles love instead of merely suffering it.
+
+*Sources : The Passions of the Soul, arts. 79-83 (love); arts. 153-156 (generosity)*
+
 ## Influenced by
 
 - **[Anselm of Canterbury](../philosophers/anselm.md)** (reinterprets) : [Anselm](../philosophers/anselm.md)'s ontological argument resurfaces, through scholastic relays, in [Descartes](../philosophers/descartes.md)'s Fifth Meditation, which derives God's existence from his essence, with no acknowledged borrowing.

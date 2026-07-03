@@ -22,7 +22,7 @@ Le sens d'un mot, c'est ce à quoi il renvoie dans le monde : un nom désigne un
 
 Le sens d'un mot n'est pas une chose qu'il représente, mais son emploi : la signification, c'est l'usage. On apprend ce que veut dire un mot en voyant comment on s'en sert dans les jeux de langage de la vie commune.
 
-*Wittgenstein*
+*[Wittgenstein](../philosophers/wittgenstein.md)*
 
 ### Intention du locuteur
 
@@ -34,7 +34,7 @@ Le sens tient à ce que celui qui parle cherche à faire reconnaître : communiq
 
 ## Axes liés
 
-[Nature de la vérité](../axes/truth-nature.md) · [Statut du savoir](../axes/knowledge-status.md)
+[Nature de la vérité](../axes/truth-nature.md) · [Statut du savoir](../axes/knowledge-status.md) · [Le but de la philosophie](../axes/metaphilosophy.md)
 
 ---
 

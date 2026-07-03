@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "sorel",
+  "stub": true,
+  "name": {
+    "fr": "Georges Sorel",
+    "en": "Georges Sorel"
+  },
+  "summary": {
+    "fr": "Théoricien révolutionnaire français : ses Réflexions sur la violence opposent la violence prolétarienne de la grève générale, mythe mobilisateur qui régénère l'action, à la force de l'État bourgeois, et influencèrent aussi bien l'extrême gauche que des courants nationalistes.",
+    "en": "French revolutionary theorist: his Reflections on Violence opposes the proletarian violence of the general strike, a mobilizing myth that regenerates action, to the force of the bourgeois state, and influenced the far left and nationalist currents alike."
+  },
+  "birth": 1847,
+  "death": 1922,
+  "nationality": {
+    "fr": "Français",
+    "en": "French"
+  },
+  "movements": [],
+  "updatedAt": "2026-07-02T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

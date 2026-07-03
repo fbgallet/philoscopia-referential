@@ -32,7 +32,7 @@ Human beings are social by nature: the community precedes the individual, who ex
 
 ## Related axes
 
-[Nature of rights](../axes/rights-nature.md) · [Relation to authority](../axes/authority.md) · [Belonging](../axes/belonging.md) · [Individual and society](../axes/individual-society.md) · [Distributive justice](../axes/distributive-justice.md)
+[Nature of rights](../axes/rights-nature.md) · [Relation to authority](../axes/authority.md) · [Belonging](../axes/belonging.md) · [Individual and society](../axes/individual-society.md) · [Distributive justice](../axes/distributive-justice.md) · [Violence](../axes/violence.md)
 
 ---
 

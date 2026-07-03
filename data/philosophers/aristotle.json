@@ -26,6 +26,84 @@
   "movements": ["aristotelianism"],
   "entries": [
     {
+      "axisId": "BEING_BECOMING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Contre Parménide, qui rendait le changement impensable (l'être ne saurait venir du non-être), Aristote distingue la <kw>puissance</kw> et l'<kw>acte</kw> : le devenir n'est pas surgissement du néant mais actualisation de ce qui était en puissance, dans un substrat qui persiste. La substance dure à travers le changement de ses accidents, la forme se réalise dans la matière : l'être et le devenir cessent d'être des rivaux, le devenir est la voie par laquelle les êtres accomplissent leur forme.",
+          "en": "Against Parmenides, who made change unthinkable (being cannot come from non-being), Aristotle distinguishes <kw>potentiality</kw> and <kw>actuality</kw>: becoming is not an emergence out of nothing but the actualization of what was potential, within a persisting substrate. Substance endures through the change of its accidents, form realizes itself in matter: being and becoming cease to be rivals, becoming is the way beings accomplish their form."
+        },
+        "quote": {
+          "text": {
+            "fr": "La nature est un principe de mouvement et de changement.",
+            "en": "Nature is a principle of motion and change."
+          },
+          "source": {
+            "fr": "Physique, III, 1 (200b)",
+            "en": "Physics, III.1 (200b)"
+          }
+        },
+        "references": [
+          {
+            "fr": "Physique, I, 8",
+            "en": "Physics, I.8"
+          },
+          {
+            "fr": "Métaphysique, Θ",
+            "en": "Metaphysics, IX (Theta)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "METAPHILOSOPHY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0.75, 0, 0.25, 0]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La science première naît de l'étonnement et se recherche pour elle-même, non pour son utilité : comme l'homme libre, elle est à elle-même sa propre fin. Et la <kw>vie théorétique</kw>, activité de ce qu'il y a de plus divin en nous, est le bonheur le plus haut. Aristote réserve pourtant une part à la visée pratique : l'éthique ne s'étudie pas pour savoir ce qu'est la vertu, mais pour devenir bon.",
+          "en": "First science is born of wonder and is pursued for its own sake, not for its usefulness: like the free man, it is its own end. And the <kw>theoretical life</kw>, the activity of what is most divine in us, is the highest happiness. Yet Aristotle keeps a place for the practical aim: we do not study ethics to know what virtue is, but to become good."
+        },
+        "quote": {
+          "text": {
+            "fr": "Cette science est la seule de toutes qui soit libre, car seule elle est à elle-même sa propre fin.",
+            "en": "This alone of all the sciences is free, for it alone exists for its own sake."
+          },
+          "source": {
+            "fr": "Métaphysique, A, 2 (982b)",
+            "en": "Metaphysics, I.2 (982b)"
+          }
+        },
+        "references": [
+          {
+            "fr": "Métaphysique, A, 1-2",
+            "en": "Metaphysics, I.1-2"
+          },
+          {
+            "fr": "Éthique à Nicomaque, X, 7-8",
+            "en": "Nicomachean Ethics, X.7-8"
+          },
+          {
+            "fr": "Éthique à Nicomaque, II, 2 (1103b)",
+            "en": "Nicomachean Ethics, II.2 (1103b)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
       "axisId": "SUFFERING_MEANING",
       "status": "POSITIONED",
       "declaredValue": {
@@ -787,6 +865,43 @@
         ],
         "strength": "STRONG"
       }
+    },
+    {
+      "axisId": "LOVE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [0, 0.1, 0, 0.9]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Contre l'<c id='eros'>éros</c> platonicien qui fait de l'amour un désir du beau qu'on n'a pas, Aristote place au sommet non le manque mais le lien : la <c id='philia'>philia</c>. Dans les livres VIII et IX de l'<w id='nicomachean-ethics-aristotle'>Éthique à Nicomaque</w>, il distingue trois amitiés selon leur ressort, l'utile, le plaisant et le bien ; les deux premières sont fragiles, car elles aiment l'autre pour ce qu'il procure. L'amitié parfaite, celle des gens de bien qui se veulent mutuellement du bien pour l'autre lui-même, est stable, rare et réciproque, au point que l'ami compte comme un prolongement de soi ; vouloir son bien pour lui seul, sans rien attendre en retour, y garde une part de don au cœur même de la réciprocité. Loin d'être un supplément à la vie bonne, elle en est une part constitutive : nul, fût-il comblé de tous les autres biens, ne choisirait de vivre sans amis.",
+          "en": "Against Platonic <c id='eros'>erōs</c>, which makes love the desire for a beauty one does not possess, Aristotle sets at the summit not lack but the bond: <c id='philia'>philia</c>. In books VIII and IX of the <w id='nicomachean-ethics-aristotle'>Nicomachean Ethics</w>, he distinguishes three friendships by their spring, the useful, the pleasant and the good; the first two are fragile, for they love the other for what he provides. Perfect friendship, that of good people who wish each other well for the other's own sake, is stable, rare and reciprocal, to the point that the friend counts as an extension of oneself. Far from being a supplement to the good life, it is a constitutive part of it: no one, however well supplied with all other goods, would choose to live without friends."
+        },
+        "quote": {
+          "text": {
+            "fr": "L'ami est un autre soi-même.",
+            "en": "The friend is another self."
+          },
+          "source": {
+            "fr": "Éthique à Nicomaque, IX, 4",
+            "en": "Nicomachean Ethics, IX, 4"
+          }
+        },
+        "references": [
+          {
+            "fr": "Éthique à Nicomaque, VIII-IX (les trois amitiés ; l'ami comme autre soi-même)",
+            "en": "Nicomachean Ethics, VIII-IX (the three friendships; the friend as another self)"
+          },
+          {
+            "fr": "Éthique à Nicomaque, IX, 9 (le bonheur et le besoin d'amis)",
+            "en": "Nicomachean Ethics, IX, 9 (happiness and the need for friends)"
+          }
+        ],
+        "strength": "STRONG"
+      }
     }
   ],
   "structuring": [
@@ -826,7 +941,7 @@
       }
     }
   ],
-  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "updatedAt": "2026-07-03T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

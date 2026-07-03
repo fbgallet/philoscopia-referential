@@ -278,6 +278,18 @@ Montaigne seeks the meaning of life neither in a cosmic order nor in an afterlif
 
 An anachronistic question: nothing in the Essays allows situating Montaigne on machine thought without hazardous extrapolation.
 
+### [Nature of love](../axes/love-nature.md)
+
+*positioned · explicit in the texts · major*
+
+Philia (friendship) 95% · Agape as gift 5%
+
+Taking up [Aristotle](../philosophers/aristotle.md)'s [philia](../glossary/philia.md) but raising it to a white heat, Montaigne reserves, in the chapter "On friendship" of his *[Essays](../works/essays-montaigne.md)*, the name of friendship for a single, freely chosen bond that comes before love-as-passion: amorous ardour is but a fickle, shifting fire, whereas perfect friendship is a steady warmth in which two souls “mingle and blend into one another”. He holds it to have no ground but itself, irreducible to usefulness, to pleasure or to the duty of kinship. Of his communion with La Boétie he can give no reason other than the mutual self-evidence of the two beings.
+
+> “Because it was he, because it was I.” (Essays, I, 28 ("On friendship"))
+
+*Sources : Essays, I, 28 ("On friendship")*
+
 ## Influenced by
 
 - **[Lucretius](../philosophers/lucretius.md)** (continues) : [Montaigne](../philosophers/montaigne.md) read and annotated *[On the Nature of Things](../works/on-the-nature-of-things-lucretius.md)*, which he laces with quotations throughout the *[Essays](../works/essays-montaigne.md)*. His uptake of [Lucretius](../philosophers/lucretius.md)'s naturalism is selective: he draws above all on death, the bodily condition and the refusal of dogmatism, rather than on a system. The reading is direct, yet the filiation stays indirect, made of literary borrowings without acknowledged mastership.

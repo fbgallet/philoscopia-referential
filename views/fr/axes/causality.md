@@ -26,7 +26,7 @@ On ne comprend pleinement un phénomène naturel qu'en saisissant ce en vue de q
 
 La vie ne se laisse réduire ni à la mécanique ni à un plan préétabli : elle est un élan créateur, imprévisible, qui invente des formes nouvelles. Comprendre le vivant exige une autre approche que celle des sciences physiques.
 
-*Bergson*
+*[Bergson](../philosophers/bergson.md)*
 
 ## Relations de fondation
 
@@ -41,7 +41,7 @@ La vie ne se laisse réduire ni à la mécanique ni à un plan préétabli : ell
 
 ## Axes liés
 
-[Liberté de la volonté](../axes/freedom.md) · [Nature de l'esprit et du réel](../axes/reality-nature.md) · [Tout et parties](../axes/reduction-emergence.md) · [Source de la connaissance](../axes/knowledge-source.md)
+[Liberté de la volonté](../axes/freedom.md) · [Nature de l'esprit et du réel](../axes/reality-nature.md) · [Tout et parties](../axes/reduction-emergence.md) · [Source de la connaissance](../axes/knowledge-source.md) · [L'être et le devenir](../axes/being-becoming.md)
 
 ---
 

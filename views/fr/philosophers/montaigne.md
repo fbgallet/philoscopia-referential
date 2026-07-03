@@ -278,6 +278,18 @@ Montaigne ne cherche pas le sens de la vie dans un ordre cosmique ni dans un au-
 
 Question anachronique : rien dans les Essais ne permet de situer Montaigne sur la pensée des machines sans extrapolation hasardeuse.
 
+### [Nature de l'amour](../axes/love-nature.md)
+
+*positionné · explicite dans les textes · majeure*
+
+Philia (amitié) 95% · Agapè-don 5%
+
+Reprenant la [philia](../glossary/philia.md) d'[Aristote](../philosophers/aristotle.md) mais la portant à l'incandescence, Montaigne réserve, dans le chapitre « De l'amitié » de ses *[Essais](../works/essays-montaigne.md)*, le nom d'amitié à un lien unique, librement choisi, qui passe avant l'amour-passion : l'ardeur amoureuse n'est qu'un feu volage et changeant, tandis que l'amitié parfaite est une chaleur constante où deux âmes « se mêlent et se confondent l'une en l'autre ». Il la dit sans autre fondement qu'elle-même, irréductible à l'utilité, au plaisir ou au devoir de parenté. De sa communion avec La Boétie, il ne sait donner d'autre raison que l'évidence réciproque des deux êtres.
+
+> « Parce que c'était lui, parce que c'était moi. » (Essais, I, 28 (« De l'amitié »))
+
+*Sources : Essais, I, 28 (« De l'amitié »)*
+
 ## Influencé par
 
 - **[Lucrèce](../philosophers/lucretius.md)** (prolonge) : [Montaigne](../philosophers/montaigne.md) a lu et annoté le *[De rerum natura](../works/on-the-nature-of-things-lucretius.md)*, dont il parsème les *[Essais](../works/essays-montaigne.md)* de citations. Sa reprise du naturalisme de [Lucrèce](../philosophers/lucretius.md) est sélective : il en retient surtout la mort, la condition charnelle et le refus du dogmatisme, plus qu'un système. La lecture est directe, mais la filiation reste indirecte, faite d'emprunts littéraires sans magistère reconnu.

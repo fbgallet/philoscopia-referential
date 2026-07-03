@@ -1,0 +1,112 @@
+{
+  "id": "BEING_BECOMING",
+  "relation": "WORLD",
+  "territory": "NATURE_LIVING",
+  "label": {
+    "fr": "L'être et le devenir",
+    "en": "Being and becoming"
+  },
+  "question": {
+    "fr": "Le réel est-il, au fond, ce qui demeure ou ce qui devient ?",
+    "en": "Is the real, at bottom, what endures or what becomes?"
+  },
+  "stakes": {
+    "fr": "Tout ce que nous voyons naît, change et périt ; et pourtant nous cherchons partout ce qui demeure : des lois stables, des choses identiques, un moi qui reste le même. Le fond du réel est-il un être immuable dont le changement n'est que la surface, ou un flux dont les choses stables ne sont que des ralentissements provisoires ? De la réponse dépend jusqu'à la manière de comprendre le monde : par des formes fixes ou par des processus.",
+    "en": "Everything we see is born, changes, and perishes; and yet we look everywhere for what endures: stable laws, identical things, a self that stays the same. Is the ground of the real an immutable being of which change is only the surface, or a flux in which stable things are merely temporary slowings? On the answer hangs even the way we understand the world: through fixed forms or through processes."
+  },
+  "layer": "THEORY",
+  "type": "BIPOLAR_MEDIAN",
+  "poles": [
+    {
+      "id": "PERMANENCE",
+      "label": {
+        "fr": "Permanence de l'être",
+        "en": "Permanence of being"
+      },
+      "description": {
+        "fr": "Ce qui est réellement ne peut ni naître ni périr : le changement, qui fait qu'une chose est puis n'est plus, contredit l'être même. Le devenir sensible est apparence, opinion des mortels ou monde des ombres ; la pensée n'atteint le vrai qu'en s'élevant à ce qui demeure, l'Être immuable ou les Formes éternelles.",
+        "en": "What really is can neither come to be nor perish: change, whereby a thing is and then is not, contradicts being itself. Sensible becoming is appearance, the opinion of mortals or a world of shadows; thought reaches the true only by rising to what endures, immutable Being or the eternal Forms."
+      },
+      "figures": [
+        {
+          "slug": "parmenides",
+          "name": {
+            "fr": "Parménide",
+            "en": "Parmenides"
+          }
+        },
+        {
+          "slug": "plato",
+          "name": {
+            "fr": "Platon",
+            "en": "Plato"
+          }
+        }
+      ],
+      "nuances": [
+        {
+          "fr": "Platon n'abolit pas le devenir : le sensible changeant garde sa consistance d'image mobile de l'éternité ; seule la connaissance véritable exige l'immuable.",
+          "en": "Plato does not abolish becoming: the changing sensible keeps its consistency as a moving image of eternity; only genuine knowledge requires the immutable."
+        }
+      ]
+    },
+    {
+      "id": "FLUX",
+      "label": {
+        "fr": "Devenir et flux",
+        "en": "Becoming and flux"
+      },
+      "description": {
+        "fr": "On ne se baigne pas deux fois dans le même fleuve : le réel est processus, écoulement, création continue, et la stabilité n'est qu'un rythme lent ou une vue de l'esprit. Les choses ne sont pas des substances qui durent mais des événements qui se font ; saisir le monde, c'est épouser son mouvement au lieu de le figer en concepts.",
+        "en": "You cannot step into the same river twice: the real is process, flow, continuous creation, and stability is only a slow rhythm or a construct of the mind. Things are not substances that endure but events in the making; to grasp the world is to follow its movement rather than freeze it into concepts."
+      },
+      "figures": [
+        {
+          "slug": "heraclitus",
+          "name": {
+            "fr": "Héraclite",
+            "en": "Heraclitus"
+          }
+        },
+        {
+          "slug": "bergson",
+          "name": {
+            "fr": "Bergson",
+            "en": "Bergson"
+          }
+        },
+        {
+          "slug": "whitehead",
+          "name": {
+            "fr": "Whitehead",
+            "en": "Whitehead"
+          }
+        }
+      ],
+      "nuances": [
+        {
+          "fr": "Penser le flux n'est pas nier toute stabilité : le logos d'Héraclite règle le devenir, et les « sociétés » de Whitehead sont des motifs qui durent ; la stabilité y est réelle, mais dérivée du processus.",
+          "en": "Thinking flux is not denying all stability: Heraclitus' logos governs becoming, and Whitehead's \"societies\" are enduring patterns; stability there is real, but derivative of process."
+        }
+      ]
+    }
+  ],
+  "medianLabel": {
+    "fr": "Hylémorphisme (Aristote)",
+    "en": "Hylomorphism (Aristotle)"
+  },
+  "medianDescription": {
+    "fr": "Le changement n'est ni une illusion ni la dissolution de toute chose : c'est le passage de la puissance à l'acte au sein d'une substance qui persiste. La forme demeure tandis que la matière se transforme : la graine devient arbre sans cesser d'être ce vivant-là. L'être et le devenir ne s'excluent pas ; le devenir est la manière dont les êtres se réalisent. Aristote est l'emblème de cette voie médiane, mais toute pensée de la substance qui persiste à travers le changement l'habite.",
+    "en": "Change is neither an illusion nor the dissolution of all things: it is the passage from potentiality to actuality within a substance that persists. The form endures while the matter is transformed: the seed becomes a tree without ceasing to be that living thing. Being and becoming do not exclude each other; becoming is the way beings realize themselves. Aristotle is the emblem of this middle way, but any thought of substance persisting through change inhabits it."
+  },
+  "core": false,
+  "difficulty": 2,
+  "clusters": [],
+  "relatedAxes": [
+    "REALITY_NATURE",
+    "CAUSALITY",
+    "ESSENCE",
+    "SELF_NATURE",
+    "UNIVERSALS"
+  ]
+}

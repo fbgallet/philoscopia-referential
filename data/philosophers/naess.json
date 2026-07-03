@@ -1,0 +1,16 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "naess",
+  "name": { "fr": "Arne Næss", "en": "Arne Næss" },
+  "summary": {
+    "fr": "Philosophe norvégien, fondateur de l'« écologie profonde » : à l'écologie superficielle, soucieuse des seuls intérêts humains, il oppose la reconnaissance d'une valeur intrinsèque de toutes les formes de vie.",
+    "en": "Norwegian philosopher, founder of \"deep ecology\": against a shallow ecology concerned only with human interests, he affirms the intrinsic value of all forms of life."
+  },
+  "nationality": { "fr": "Norvégien", "en": "Norwegian" },
+  "birth": 1912,
+  "death": 2009,
+  "movements": [],
+  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

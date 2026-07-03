@@ -20,7 +20,7 @@ La pensée politique doit concevoir la cité juste, même si elle n'existe nulle
 
 Il faut partir de la vérité effective des choses, non des républiques imaginaires. La politique est l'art de gouverner des hommes tels qu'ils sont, avec leurs passions et leurs intérêts : qui néglige ce qui se fait pour ce qui devrait se faire court à sa perte.
 
-*Machiavel · [Hobbes](../philosophers/hobbes.md)*
+*[Machiavel](../philosophers/machiavelli.md) · [Hobbes](../philosophers/hobbes.md)*
 
 ## Relations de fondation
 
@@ -29,7 +29,7 @@ Il faut partir de la vérité effective des choses, non des républiques imagina
 
 ## Axes liés
 
-[Rapport à l'autorité](../axes/authority.md) · [Tradition et transformation](../axes/conservatism-progressism.md) · [Justice distributive](../axes/distributive-justice.md) · [Vision de l'homme](../axes/human-vision.md)
+[Rapport à l'autorité](../axes/authority.md) · [Tradition et transformation](../axes/conservatism-progressism.md) · [Justice distributive](../axes/distributive-justice.md) · [Vision de l'homme](../axes/human-vision.md) · [La violence](../axes/violence.md)
 
 ---
 

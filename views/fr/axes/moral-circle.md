@@ -26,17 +26,25 @@ Tout être capable de souffrir compte moralement. La question n'est pas « peuve
 
 Tout être vivant, sensible ou non, possède une valeur propre : plantes, insectes, micro-organismes compris. L'éthique repose sur le respect de la vie en tant que telle, chaque organisme poursuivant son propre bien à sa manière.
 
-*Schweitzer*
+*[Schweitzer](../philosophers/schweitzer.md)*
 
 ### Écocentrisme
 
 La valeur morale s'attache aux ensembles écologiques eux-mêmes : espèces, écosystèmes, communauté biotique dans son ensemble. Une action est juste quand elle préserve l'intégrité, la stabilité et la beauté de ces touts, dont les individus, humains compris, ne sont que des membres.
 
-*Leopold · Næss*
+*[Leopold](../philosophers/leopold.md) · [Næss](../philosophers/naess.md)*
 
 ## Problèmes vifs
 
+- **Le critère du statut moral** : Qu'est-ce qui donne à un être une valeur morale : la raison, comme le pensait Kant, ou la simple capacité de souffrir, comme le demandait Bentham ? Selon le seuil retenu, le cercle des êtres qui comptent s'ouvre ou se referme.
+- **Le privilège de l'espèce** : Préférer les siens parce qu'ils sont de notre espèce, est-ce un devoir naturel ou un préjugé arbitraire, comparable au racisme ? Et si des nourrissons ou des humains très diminués comptent sans posséder la raison, l'espèce peut-elle encore servir de critère ?
+- **La révérence pour la vie** : Faut-il, pour compter, être capable de souffrir, ou suffit-il d'être vivant ? Un arbre, un insecte poursuivent leur propre bien : méritent-ils à ce titre notre respect, ou le vivant sans sensibilité ne nous oblige-t-il à rien ?
+- **La vie intérieure des bêtes** : Tout le débat suppose que les animaux ressentent quelque chose : mais peut-on le savoir ? Descartes voyait en eux des machines sans conscience ; comment être sûr qu'il y a « un effet que cela fait » d'être une chauve-souris ?
 - **Une machine peut-elle compter moralement ?** : Si une intelligence artificielle disait souffrir, faudrait-il étendre jusqu'à elle le critère de la sensibilité, ou la considération morale s'arrête-t-elle au vivant, une souffrance simulée n'obligeant à rien ?
+- **Bien-être ou droits** : Admettre que les animaux comptent, est-ce mettre leurs intérêts dans la balance du plus grand bien, quitte à les sacrifier s'il le faut, ou leur reconnaître des droits inviolables parce qu'ils sont eux aussi les sujets d'une vie ?
+- **La souffrance des animaux sauvages** : Si la souffrance des animaux nous oblige, celle qu'ils s'infligent entre eux nous oblige-t-elle aussi ? Devrions-nous intervenir contre la prédation et les maux de la nature que nous n'avons pas causés, ou est-ce présumer que nous avons à les corriger ?
+- **Faut-il cesser d'exploiter les animaux ?** : Si les animaux sensibles comptent vraiment, l'élevage industriel, l'abattage et l'expérimentation deviennent-ils des maux qu'il faut cesser, jusqu'à changer nos vies et nos assiettes, ou peut-on leur devoir des égards sans renoncer à s'en servir ?
+- **L'individu ou le tout** : L'écologie valorise l'intégrité de la communauté biotique, quitte à abattre les animaux d'une espèce envahissante pour préserver l'ensemble : la valeur est-elle dans le tout, ou dans chaque individu sensible que cette gestion sacrifie ?
 
 ## Relations de fondation
 
@@ -45,7 +53,7 @@ La valeur morale s'attache aux ensembles écologiques eux-mêmes : espèces, éc
 
 ## Axes liés
 
-[Critère du juste](../axes/ethics-foundation.md) · [Générations futures](../axes/future-generations.md) · [Place de l'homme dans la nature](../axes/human-place-nature.md) · [Une machine peut-elle penser](../axes/machine-mind.md) · [Exigence morale](../axes/moral-demand.md) · [Statut des normes (métaéthique)](../axes/moral-scope.md)
+[Critère du juste](../axes/ethics-foundation.md) · [Générations futures](../axes/future-generations.md) · [Place de l'homme dans la nature](../axes/human-place-nature.md) · [Une machine peut-elle penser](../axes/machine-mind.md) · [Exigence morale](../axes/moral-demand.md) · [Statut des normes (métaéthique)](../axes/moral-scope.md) · [Nature des droits](../axes/rights-nature.md)
 
 ---
 

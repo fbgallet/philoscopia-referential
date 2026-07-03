@@ -1,0 +1,101 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/fbgallet/philoscopia-referential/blob/main/schemas/workspace/concepts.schema.json",
+  "title": "workspace/concepts",
+  "description": "Adopted glossary concepts and personal working definitions. Part of the user workspace format (my-philosophy/): monolingual, personal, local-first files written by the Philoscopia MCP server and exploration skills. Structure only; write-time rules (e.g. POSITIONED requires a value, ref resolution against the pinned referential) are enforced by the tools.",
+  "type": "array",
+  "items": {
+    "anyOf": [
+      {
+        "type": "object",
+        "properties": {
+          "ref": {
+            "type": "string",
+            "pattern": "^c:[a-z0-9][a-z0-9-]*$"
+          },
+          "clarity": {
+            "type": "string",
+            "enum": [
+              "CLEAR",
+              "SOMEWHAT_CLEAR",
+              "FUZZY",
+              "UNDEFINED"
+            ]
+          },
+          "note": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "ref"
+        ],
+        "additionalProperties": false
+      },
+      {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9][a-z0-9-]*$"
+          },
+          "term": {
+            "type": "string",
+            "minLength": 1
+          },
+          "definition": {
+            "type": "string",
+            "minLength": 1
+          },
+          "clarity": {
+            "type": "string",
+            "enum": [
+              "CLEAR",
+              "SOMEWHAT_CLEAR",
+              "FUZZY",
+              "UNDEFINED"
+            ]
+          },
+          "importance": {
+            "type": "string",
+            "enum": [
+              "FOUNDATIONAL",
+              "INFORMATIONAL"
+            ]
+          },
+          "relatedConcepts": {
+            "type": "array",
+            "items": {
+              "anyOf": [
+                {
+                  "type": "string",
+                  "pattern": "^[a-z0-9][a-z0-9-]*$"
+                },
+                {
+                  "type": "string",
+                  "pattern": "^(ax:[A-Z][A-Z0-9_]*|pole:[A-Z][A-Z0-9_]*\\/[A-Z][A-Z0-9_]*|(c|ph|mv|chr|te|w|problem):[a-z0-9][a-z0-9-]*)$"
+                }
+              ]
+            }
+          },
+          "notes": {
+            "type": "string"
+          },
+          "createdAt": {
+            "type": "string"
+          },
+          "updatedAt": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "id",
+          "term",
+          "definition",
+          "clarity",
+          "createdAt"
+        ],
+        "additionalProperties": false
+      }
+    ]
+  }
+}
