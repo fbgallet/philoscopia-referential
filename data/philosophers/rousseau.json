@@ -2,6 +2,10 @@
   "kind": "PHILOSOPHER",
   "id": "rousseau",
   "name": { "fr": "Rousseau", "en": "Rousseau" },
+  "aliases": {
+    "fr": ["rousseauiste", "rousseauisme"],
+    "en": ["Rousseauian", "Rousseauist"]
+  },
   "fullName": { "fr": "Jean-Jacques Rousseau", "en": "Jean-Jacques Rousseau" },
   "nationality": { "fr": "Genevois", "en": "Genevan" },
   "birth": 1712,

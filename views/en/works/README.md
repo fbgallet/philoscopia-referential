@@ -72,6 +72,7 @@
 - *[Crito](crito-plato.md)* : Plato (399 BCE)
 - *[Meno](meno-plato.md)* : Plato (385 BCE)
 - *[Symposium](symposium-plato.md)* : Plato (385 BCE)
+- *[Gorgias](gorgias-plato.md)* : Plato (380 BCE)
 - *[Phaedo](phaedo-plato.md)* : Plato (380 BCE)
 - *[Republic](republic-plato.md)* : Plato (375 BCE)
 - *[Phaedrus](phaedrus-plato.md)* : Plato (370 BCE)

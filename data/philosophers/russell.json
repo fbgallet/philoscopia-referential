@@ -3,6 +3,10 @@
   "stub": true,
   "id": "russell",
   "name": { "fr": "Russell", "en": "Russell" },
+  "aliases": {
+    "fr": ["russellien", "russellienne"],
+    "en": ["Russellian"]
+  },
   "summary": {
     "fr": "Logicien et philosophe britannique : rationaliste et athée, il tient la croyance religieuse pour contraire à l'exigence de preuve et défend une morale sans Dieu.",
     "en": "British logician and philosopher: a rationalist and atheist, he holds religious belief to run counter to the demand for evidence and defends a morality without God."

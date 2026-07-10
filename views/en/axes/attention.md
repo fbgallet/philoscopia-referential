@@ -28,6 +28,7 @@ To divert oneself is not to betray one's life but to make it livable: no one can
 
 - **Why can we not bear rest?** : "All of humanity's unhappiness comes from one thing, not knowing how to stay quietly in a room": if we flee calm, is it the misery of our condition surfacing the moment the noise stops, as Pascal diagnoses, or is the mind simply made for movement rather than for facing itself?
 - **Captured attention** : When entire devices are designed to capture every available minute, is diverting oneself still a choice one owns, or must attention be defended as a scarce good, diversion ceasing to be an art the moment it is administered?
+- **Reclaiming attention** : Faced with devices designed to capture it, can we really reclaim our attention by working at it, withdrawing, fasting from the feed, returning to the present, or do such techniques only paper over a trouble far larger than us?
 
 ## Grounding relations
 

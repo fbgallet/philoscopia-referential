@@ -1,6 +1,7 @@
 {
   "id": "free-will",
   "term": { "fr": "Libre arbitre", "en": "Free will" },
+  "aliases": { "fr": ["libre-arbitre"] },
   "definition": {
     "fr": "Le libre arbitre est le pouvoir de la volonté de se déterminer elle-même : face à une alternative, l'agent aurait pu choisir autrement. Il est souvent tenu pour la condition de la responsabilité morale, et <ph id='kant'>Kant</ph> en fait le fondement même de la moralité. La question de savoir si nous sommes <ax id='FREEDOM'>réellement libres de nos choix</ax> l'oppose frontalement au <c id='determinism'>déterminisme</c>.",
     "en": "Free will is the power of the will to determine itself: faced with an alternative, the agent could have chosen otherwise. It is widely held to be the condition of moral responsibility, and <ph id='kant'>Kant</ph> makes it the very foundation of morality. The question of whether we are <ax id='FREEDOM'>genuinely free in our choices</ax> sets it in direct opposition to <c id='determinism'>determinism</c>."

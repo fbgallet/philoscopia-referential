@@ -1,6 +1,10 @@
 {
   "id": "indeterminism",
   "term": { "fr": "Indéterminisme", "en": "Indeterminism" },
+  "aliases": {
+    "fr": ["indéterministe"],
+    "en": ["indeterministic", "indeterminist"]
+  },
   "definition": {
     "fr": "L'indéterminisme est la thèse selon laquelle tous les événements ne sont pas entièrement fixés par leurs causes : certains, comme en physique quantique, ne sont que probables. Il s'oppose au <c id='determinism'>déterminisme</c>. Attention toutefois : l'indéterminisme n'est pas la liberté. Un hasard n'est pas un choix, et substituer le dé à la nécessité ne suffit pas à faire de nous les auteurs de nos actes.",
     "en": "Indeterminism is the thesis that not all events are fully fixed by their causes: some, as in quantum physics, are only probable. It opposes <c id='determinism'>determinism</c>. Note, however: indeterminism is not freedom. Chance is not choice, and replacing necessity with the roll of a die does not suffice to make us the authors of our acts."

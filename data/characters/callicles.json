@@ -1,0 +1,284 @@
+{
+  "kind": "CHARACTER",
+  "id": "callicles",
+  "name": { "fr": "Calliclès", "en": "Callicles" },
+  "tagline": {
+    "fr": "Dans le Gorgias, il oppose à Socrate le droit du plus fort : la nature veut que le supérieur commande, jouisse sans frein et prenne davantage.",
+    "en": "In the Gorgias, he confronts Socrates with the right of the stronger: nature wills that the superior rule, enjoy without restraint, and take more."
+  },
+  "summary": {
+    "fr": "Jeune Athénien ambitieux du dème d'Acharnes, hôte du sophiste <ph id='gorgias'>Gorgias</ph> et sur le point d'entrer dans la vie politique, Calliclès est le dernier et le plus redoutable des trois interlocuteurs du <w id='gorgias-plato'>Gorgias</w> de <ph id='plato'>Platon</ph>. Là où Gorgias puis <per>Polos</per> reculent, gagnés par la honte, il reprend l'argument sans fard et pousse jusqu'au bout la thèse que les autres n'osaient assumer : la morale reçue n'est qu'un piège tendu aux forts par la multitude des faibles. Personnage peut-être inspiré d'un homme réel mais connu de nous par le seul Platon, il incarne l'un des adversaires les plus redoutables que Socrate ait eu à affronter, proche du <ph id='thrasymachus'>Thrasymaque</ph> de la République et une figure que les lecteurs de <ph id='nietzsche'>Nietzsche</ph> ont souvent rapprochée de sa morale des maîtres.",
+    "en": "An ambitious young Athenian of the deme of Acharnae, host to the sophist <ph id='gorgias'>Gorgias</ph> and about to enter political life, Callicles is the last and most formidable of the three interlocutors of <ph id='plato'>Plato</ph>'s <w id='gorgias-plato'>Gorgias</w>. Where Gorgias and then <per>Polus</per> retreat, overcome by shame, he takes up the argument without disguise and pushes to its limit the thesis the others dared not own: received morality is only a trap laid for the strong by the multitude of the weak. A character perhaps drawn from a real man but known to us through Plato alone, he embodies one of the most formidable adversaries Socrates ever had to face, close to the <ph id='thrasymachus'>Thrasymachus</ph> of the Republic and a figure whom readers of <ph id='nietzsche'>Nietzsche</ph> have often likened to his morality of masters."
+  },
+  "work": {
+    "title": { "fr": "Gorgias", "en": "Gorgias" },
+    "author": { "fr": "Platon", "en": "Plato" },
+    "year": -380,
+    "medium": "OTHER"
+  },
+  "entries": [
+    {
+      "axisId": "MORAL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.2, 0.6, 0.2] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Calliclès démasque la justice reçue comme une invention : les faibles, étant le grand nombre, ont forgé les lois et les mots de « juste » et d'« injuste » pour brider les forts et se garantir l'égalité. Cette justice n'est que <c id='physis-nomos'>convention</c> (nomos), variable et intéressée ; la seule norme réelle est celle de la nature (physis), où le meilleur commande et détient davantage. Sa position mêle ainsi un relativisme corrosif envers la morale établie et l'affirmation d'un droit naturel du plus fort qu'il tient, lui, pour un fait.",
+          "en": "Callicles unmasks received justice as a contrivance: the weak, being the majority, framed the laws and the words \"just\" and \"unjust\" to bridle the strong and secure equality for themselves. That justice is mere <c id='physis-nomos'>convention</c> (nomos), variable and self-serving; the only real norm is that of nature (physis), where the better rules and holds more. His position thus blends a corrosive relativism toward established morality with the assertion of a natural right of the stronger that he takes to be a fact."
+        },
+        "references": [
+          { "fr": "Platon, Gorgias, 482e-484c (la distinction nature/loi)", "en": "Plato, Gorgias, 482e-484c (the nature/law distinction)" },
+          { "fr": "Platon, Gorgias, 483b-d (les faibles font les lois)", "en": "Plato, Gorgias, 483b-d (the weak make the laws)" }
+        ],
+        "quote": {
+          "text": {
+            "fr": "La nature démontre qu'il est juste que celui qui vaut mieux ait plus que celui qui vaut moins, et le plus fort que le plus faible.",
+            "en": "Nature herself shows that it is just for the better to have more than the worse, and the more capable than the less."
+          },
+          "source": { "fr": "Platon, Gorgias, 483d", "en": "Plato, Gorgias, 483d" }
+        },
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.9, 0.1, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Contre la <c>tempérance</c>, il soutient que bien vivre, c'est laisser ses désirs devenir aussi grands que possible au lieu de les rogner, puis avoir le courage de les combler ; la <c id='akolasia'>licence</c> déployée sans frein est la vertu même. Socrate lui oppose le tonneau percé, l'âme insatiable qu'aucun flux ne remplit ; Calliclès l'assume, préférant la vie qui coule sans cesse à celle de la pierre, immobile et comblée.",
+          "en": "Against <c>temperance</c>, he holds that living well means letting one's desires grow as large as possible instead of pruning them, then having the courage to fill them; <c id='akolasia'>license</c> unleashed without restraint is virtue itself. Socrates counters with the leaky jar, the insatiable soul no inflow can fill; Callicles embraces it, preferring the life that ceaselessly streams and refills to that of the stone, motionless and sated."
+        },
+        "references": [
+          { "fr": "Platon, Gorgias, 491e-492c (l'éloge de l'intempérance)", "en": "Plato, Gorgias, 491e-492c (the praise of intemperance)" },
+          { "fr": "Platon, Gorgias, 493a-494c (le tonneau percé)", "en": "Plato, Gorgias, 493a-494c (the leaky jar)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SELF_INTEREST",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.9 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Son principe est que chacun doit poursuivre son avantage et que le supérieur a raison d'avoir plus (<c id='pleonexia'>pleonexia</c>) : se contenter d'une part égale, quand on vaut mieux, est le fait d'un esclave. Le sacrifice de soi et la modération sont les valeurs par lesquelles les faibles domestiquent les forts.",
+          "en": "His principle is that each should pursue their own advantage and that the superior man is right to have more (<c id='pleonexia'>pleonexia</c>): to content oneself with an equal share, when one is worth more, is the mark of a slave. Self-sacrifice and moderation are the values by which the weak tame the strong."
+        },
+        "references": [
+          { "fr": "Platon, Gorgias, 483c-d", "en": "Plato, Gorgias, 483c-d" },
+          { "fr": "Platon, Gorgias, 490a-491d", "en": "Plato, Gorgias, 490a-491d" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.9, 0.1, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Sommé de dire le bien, il identifie sans détour l'agréable et le bon : vivre bien, c'est éprouver le plus de <c id='hedonism'>plaisir</c> possible. Ce n'est pas l'<c id='ataraxia'>ataraxie</c> mesurée d'Épicure mais un hédonisme de l'intensité. Serré par Socrate, qui lui fait admettre des plaisirs vils, il lâchera du terrain, mais la thèse de départ reste son affirmation propre.",
+          "en": "Pressed to say what the good is, he flatly identifies the pleasant and the good: to live well is to feel as much <c id='hedonism'>pleasure</c> as possible. This is not Epicurus's measured <c id='ataraxia'>ataraxia</c> but a hedonism of intensity. Cornered by Socrates, who makes him grant that even base pleasures count, he gives ground, but the opening thesis remains his own avowal."
+        },
+        "references": [
+          { "fr": "Platon, Gorgias, 494e-495a (l'agréable et le bon sont un)", "en": "Plato, Gorgias, 494e-495a (the pleasant and the good are one)" },
+          { "fr": "Platon, Gorgias, 495a-499b (la réfutation socratique)", "en": "Plato, Gorgias, 495a-499b (the Socratic refutation)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.9 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "À l'examen de soi socratique, il oppose que la philosophie est charmante chez le jeune homme mais rend ridicule et impuissant l'adulte qui s'y attarde, ignorant des lois et des affaires, exposé à être giflé sans recours. La vie est dans l'<c>action</c>, la réputation et le pouvoir ; il presse Socrate d'abandonner ces vétilles pour « la musique des affaires ».",
+          "en": "To Socratic self-examination he opposes that philosophy is charming in a young man but makes the grown man who lingers over it ridiculous and helpless, ignorant of the laws and of affairs, exposed to being slapped with no recourse. Life lies in <c>action</c>, reputation and power; he presses Socrates to give up such trifles for \"the music of affairs\"."
+        },
+        "references": [
+          { "fr": "Platon, Gorgias, 484c-486d (l'éloge puis la critique de la philosophie)", "en": "Plato, Gorgias, 484c-486d (the praise then the critique of philosophy)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "METAPHILOSOPHY",
+      "status": "REJECTS_ALTERNATIVE",
+      "salience": "MAJOR",
+      "note": {
+        "fr": "Calliclès ne choisit aucune fonction de la philosophie : sa position est qu'elle n'en a aucune. Bonne tout au plus comme jeu de formation pour la jeunesse, elle n'est qu'un passe-temps sans valeur pour l'adulte, qu'il presse d'y renoncer au profit de l'action et du pouvoir.",
+        "en": "Callicles picks no function for philosophy: his position is that it has none. Fit at most as a formative game for the young, it is a worthless pastime for the grown man, whom he urges to abandon it for action and power."
+      }
+    },
+    {
+      "axisId": "BODILY_PLEASURES",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.9 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Prolongeant son éloge du désir, il tient les plaisirs du corps pour la matière même du bonheur : l'homme fort a le droit de se les procurer largement ; l'<c>ascétisme</c> n'est qu'une morale de l'impuissance déguisée en sagesse.",
+          "en": "Extending his praise of desire, he takes bodily pleasures to be the very stuff of happiness: the strong man has the right to procure them amply; <c>asceticism</c> is only a morality of impotence dressed up as wisdom."
+        },
+        "references": [
+          { "fr": "Platon, Gorgias, 491e-492c", "en": "Plato, Gorgias, 491e-492c" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "POLITICAL_LIBERTY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.85, 0, 0.15, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La liberté, pour lui, c'est l'absence de toute entrave ; il rejette expressément la liberté comme gouvernement de soi, la jugeant servitude : comment serait heureux qui est esclave de quoi que ce soit, fût-ce de sa propre <c>tempérance</c> ? La seule liberté est de faire ce qu'on veut, appétits déployés.",
+          "en": "Liberty, for him, is the absence of all restraint; he expressly rejects liberty as self-government, judging it servitude: how could one be happy who is a slave to anything, even to one's own <c>temperance</c>? The only freedom is to do as one pleases, appetites unfurled."
+        },
+        "references": [
+          { "fr": "Platon, Gorgias, 491e-492c", "en": "Plato, Gorgias, 491e-492c" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "WHO_DECIDES",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.6 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Gouverner et détenir plus revient de droit aux « meilleurs et plus intelligents », non à la foule que le hasard assemble ; son critère du « meilleur » n'est pas le savoir socratique du bien, mais la capacité à vouloir et à obtenir. C'est une aristocratie de la nature, aux antipodes de l'égalité démocratique athénienne.",
+          "en": "To rule and to hold more belongs by right to \"the better and more intelligent\", not to the crowd that chance assembles; his criterion of the \"better\" is not the Socratic knowledge of the good but the capacity to will and to obtain. It is an aristocracy of nature, at the opposite pole from Athenian democratic equality."
+        },
+        "references": [
+          { "fr": "Platon, Gorgias, 483c-d ; 490a", "en": "Plato, Gorgias, 483c-d; 490a" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HUMAN_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.8 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Tout son argumentaire érige la <c id='physis-nomos'>nature</c> en norme : ce que font les bêtes entre elles, les cités entre elles, les forts sur les faibles, voilà la justice « selon la nature », que la convention humaine vient seulement masquer. Il cite les conquêtes, l'expédition de Xerxès, et le vers de <per>Pindare</per> faisant de la loi le « roi » qui justifie la violence du plus fort.",
+          "en": "His whole case erects <c id='physis-nomos'>nature</c> into a norm: what beasts do among themselves, cities among themselves, the strong over the weak, that is justice \"according to nature\", which human convention only masks. He cites the conquests, the expedition of Xerxes, and <per>Pindar</per>'s line making law the \"king\" that justifies the violence of the stronger."
+        },
+        "references": [
+          { "fr": "Platon, Gorgias, 483d-484b (nature, animaux, cités, Pindare)", "en": "Plato, Gorgias, 483d-484b (nature, animals, cities, Pindar)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HUMAN_VISION",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.6 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Chacun, s'il l'osait, poursuivrait son avantage et voudrait posséder plus que les autres : la modération affichée n'est qu'un aveu de faiblesse ou une ruse. Ce fond d'égoïsme et de rivalité, que la loi contient sans l'abolir, le range du côté d'un pessimisme anthropologique.",
+          "en": "Everyone, if they dared, would pursue their own advantage and want to possess more than others: displayed moderation is only an admission of weakness or a ruse. This bedrock of egoism and rivalry, which law contains without abolishing, places him on the side of an anthropological pessimism."
+        },
+        "references": [
+          { "fr": "Platon, Gorgias, 483b-c ; 491e-492a", "en": "Plato, Gorgias, 483b-c; 491e-492a" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DISTRIBUTIVE_JUSTICE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.55 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Il conteste l'égalité des parts comme une extorsion des faibles : la répartition juste, selon la nature, donne davantage au supérieur, non une portion identique à tous. Son refus de l'égalitarisme ne se fonde pas sur la propriété de soi ou le mérite du travail, mais sur la supériorité naturelle ; c'est par ce rejet du partage égal qu'il rejoint, de loin, le versant anti-redistributif.",
+          "en": "He contests equal shares as an extortion by the weak: just distribution, according to nature, gives more to the superior, not an identical portion to all. His rejection of egalitarianism rests not on self-ownership or the desert of labor but on natural superiority; it is by this refusal of equal sharing that he meets, from afar, the anti-redistributive side."
+        },
+        "references": [
+          { "fr": "Platon, Gorgias, 483c ; 490a-491a", "en": "Plato, Gorgias, 483c; 490a-491a" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "VIOLENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 0.15, 0.7, 0.15] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Puisque la nature donne au fort le droit de prendre, la contrainte et la conquête ne sont pas un mal à contenir mais l'expression normale de l'ordre : le vers de <per>Pindare</per> et l'exemple de Xerxès marchant sur la Grèce lui servent à légitimer la force comme fondement du droit. La violence du puissant n'a pas à se justifier devant une morale : elle est la justice même.",
+          "en": "Since nature gives the strong the right to take, coercion and conquest are not an evil to be contained but the normal expression of order: <per>Pindar</per>'s line and the example of Xerxes marching on Greece serve him to legitimate force as the ground of right. The violence of the powerful need not justify itself before a morality: it is justice itself."
+        },
+        "references": [
+          { "fr": "Platon, Gorgias, 483d-484b", "en": "Plato, Gorgias, 483d-484b" }
+        ],
+        "strength": "MEDIUM"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "MORAL_SCOPE",
+      "thesis": {
+        "fr": "Ce qu'on nomme justice n'est que la <c id='physis-nomos'>convention</c> par laquelle les faibles brident les forts ; selon la nature, le meilleur doit commander à l'inférieur et posséder davantage.",
+        "en": "What is called justice is only the <c id='physis-nomos'>convention</c> by which the weak bridle the strong; by nature, the better should rule the inferior and possess more."
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "thesis": {
+        "fr": "Bien vivre, ce n'est pas rogner ses <c>désirs</c> mais les laisser grandir autant qu'ils peuvent, puis avoir la force de les combler : la licence est la vertu même.",
+        "en": "To live well is not to prune one's <c>desires</c> but to let them grow as large as they can, then to have the strength to fill them: license is virtue itself."
+      }
+    },
+    {
+      "axisId": "SELF_INTEREST",
+      "thesis": {
+        "fr": "Se contenter d'une part égale quand on vaut mieux est une âme d'esclave : l'homme supérieur poursuit son avantage et prend ce que sa force lui donne.",
+        "en": "To content oneself with an equal share when one is worth more is a slave's soul: the superior man pursues his own advantage and takes what his strength affords him."
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "thesis": {
+        "fr": "L'agréable et le bon ne font qu'un : le souverain bien, c'est éprouver le plus de <c id='hedonism'>plaisir</c> possible, et rien d'autre.",
+        "en": "The pleasant and the good are one: the sovereign good is to feel as much <c id='hedonism'>pleasure</c> as possible, and nothing else."
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "thesis": {
+        "fr": "La philosophie est un jeu d'enfant : passé la jeunesse, elle rend l'homme ridicule et sans défense ; la vie est dans l'action, non dans l'examen de soi.",
+        "en": "Philosophy is a child's game: past youth it makes a man ridiculous and defenceless; life is in action, not in self-examination."
+      }
+    }
+  ],
+  "updatedAt": "2026-07-07T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

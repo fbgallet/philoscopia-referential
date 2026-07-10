@@ -22,7 +22,7 @@
           "TENSION",
           "DILEMMA",
           "CLARIFICATION",
-          "EXPLORATION"
+          "DOUBT"
         ]
       },
       "status": {
@@ -39,6 +39,13 @@
           "HIGH",
           "MEDIUM",
           "LOW"
+        ]
+      },
+      "tensionType": {
+        "type": "string",
+        "enum": [
+          "T_T",
+          "T_V"
         ]
       },
       "anchors": {

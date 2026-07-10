@@ -59,6 +59,9 @@ export function computeSummary(corpus: Corpus, ws: Workspace, locale: Locale) {
     .filter((b) => b.status === "HELD" && b.mode === "PRESCRIPTIVE" && !(b.grounds?.length))
     .map((b) => b.id);
 
+  // Refs written against another corpus version: surfaced, never a failure.
+  const danglingRefs = ws.danglingRefs();
+
   return {
     coverage: {
       touched: Object.keys(entries).length,
@@ -83,15 +86,12 @@ export function computeSummary(corpus: Corpus, ws: Workspace, locale: Locale) {
     staleEntries: stale,
     openWork: {
       activeInquiries: ws.list("inquiries", { status: "ACTIVE" }).map((q) => q.id),
-      strugglingPractices: ws
-        .list("practices")
-        .filter((p) => p.consistency === "STRUGGLING")
-        .map((p) => p.id),
       fuzzyConcepts: ws
         .list("concepts")
         .filter((c) => c.clarity === "FUZZY" || c.clarity === "UNDEFINED")
         .map((c) => c.id ?? c.ref),
     },
+    ...(danglingRefs.length > 0 ? { danglingRefs } : {}),
   };
 }
 
@@ -164,10 +164,12 @@ export function renderSummaryMd(corpus: Corpus, ws: Workspace, locale: Locale): 
     lines.push("");
   }
 
-  const practices = ws.list("practices").filter((p) => p.consistency !== "ABANDONED");
+  const practices = ws.list("practices");
   if (practices.length > 0) {
     lines.push(`## ${T.practices[locale]}`, "");
-    for (const practice of practices) lines.push(`- ${practice.statement} (${practice.frequency})`);
+    for (const practice of practices) {
+      lines.push(`- ${practice.statement}${practice.frequency ? ` (${practice.frequency})` : ""}`);
+    }
     lines.push("");
   }
 

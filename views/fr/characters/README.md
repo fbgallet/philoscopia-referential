@@ -3,6 +3,7 @@
 # Personnages
 
 - [Antigone](antigone.md) (Antigone, Sophocle)
+- [Calliclès](callicles.md) (Gorgias, Platon)
 - [Meursault](meursault.md) (L'Étranger, Camus)
 
 ---

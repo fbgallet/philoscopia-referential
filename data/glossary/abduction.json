@@ -1,6 +1,7 @@
 {
   "id": "abduction",
   "term": { "fr": "Abduction", "en": "Abduction" },
+  "aliases": { "fr": ["abductif", "inférence à la meilleure explication"], "en": ["abductive", "inference to the best explanation"] },
   "definition": {
     "fr": "Troisième forme d'inférence isolée par <ph id='peirce'>Peirce</ph>, à côté de la déduction et de l'<c id='induction'>induction</c> : devant un fait surprenant, l'abduction propose l'hypothèse qui, si elle était vraie, le rendrait attendu. Elle ne prouve rien, mais elle est le seul mode de raisonnement qui introduit une idée nouvelle ; la déduction en tire les conséquences et l'induction les met à l'épreuve. C'est le moment créateur de l'enquête, le pari réglé qui ouvre la recherche.",
     "en": "The third form of inference isolated by <ph id='peirce'>Peirce</ph>, beside deduction and <c id='induction'>induction</c>: faced with a surprising fact, abduction proposes the hypothesis which, if true, would render it a matter of course. It proves nothing, but it is the only mode of reasoning that introduces a new idea; deduction draws out its consequences and induction tests them. It is the creative moment of inquiry, the disciplined guess that opens research."

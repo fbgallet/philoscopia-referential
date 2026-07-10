@@ -1,6 +1,7 @@
 {
   "id": "lumieres",
   "term": { "fr": "Les Lumières", "en": "Enlightenment" },
+  "aliases": { "fr": ["Aufklärung"], "en": ["Aufklärung"] },
   "definition": {
     "fr": "Les Lumières (en allemand <kw>Aufklärung</kw>) désignent à la fois un mouvement intellectuel du XVIIIe siècle et l'idéal qui le porte : l'usage public et autonome de la raison contre les préjugés, l'autorité et la superstition. <ph id='kant'>Kant</ph> en donne la définition la plus célèbre, « la sortie de l'homme hors de l'état de minorité dont il est lui-même responsable », et la devise « Sapere aude », ose savoir. Penser par soi-même plutôt que se laisser guider : tel est le geste qui relie la confiance dans la <ax id='SCIENCE_PLACE'>science</ax>, le <ax id='CONSERVATISM_PROGRESSISM' pole='PROGRESSISM'>progrès</ax> et l'émancipation.",
     "en": "The Enlightenment (in German <kw>Aufklärung</kw>) names both an eighteenth-century intellectual movement and the ideal that drives it: the public and autonomous use of reason against prejudice, authority and superstition. <ph id='kant'>Kant</ph> gives its most famous definition, « man's emergence from his self-incurred immaturity », and the motto « Sapere aude », dare to know. To think for oneself rather than be led: such is the gesture that links confidence in <ax id='SCIENCE_PLACE'>science</ax>, <ax id='CONSERVATISM_PROGRESSISM' pole='PROGRESSISM'>progress</ax> and emancipation."

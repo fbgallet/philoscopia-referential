@@ -1,0 +1,40 @@
+name: Profile — complete a stub or propose a figure
+description: Offer to author a full profile for a stub, or propose a philosopher/movement/character not yet covered.
+title: "[profile] "
+labels: ["profile", "help-wanted"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Open this issue before writing.** A profile is a structured, sourced positioning across many axes; authoring one cold rarely fits the model on the first try. We will share the authoring method and the exact axis definitions you'll need, so your effort lands mergeable. Profiles marked `"stub": true` are placeholders explicitly waiting for this.
+  - type: input
+    id: figure
+    attributes:
+      label: Figure
+      description: Name, and the entity id if a stub already exists (e.g. `hannah-arendt`).
+      placeholder: hannah-arendt
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: This is
+      options:
+        - Completing an existing stub
+        - Proposing a figure not yet in the corpus
+      default: 0
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: What you'd cover and why
+      description: Which debates/axes this figure speaks to most, the primary texts you'd rely on, and how far you intend to go (a few core axes vs. a full profile).
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Primary sources you'd use
+    validations:
+      required: false

@@ -6,6 +6,10 @@
     "fr": "Averroès",
     "en": "Averroes"
   },
+  "aliases": {
+    "fr": ["Ibn Rushd", "averroïste", "averroïsme"],
+    "en": ["Ibn Rushd", "Averroist", "Averroism"]
+  },
   "summary": {
     "fr": "Philosophe et médecin andalou, grand commentateur d'<ph id='aristotle'>Aristote</ph>, dont l'œuvre transmit l'<mv id='aristotelianism'>aristotélisme</mv> à l'Occident latin.",
     "en": "Andalusian philosopher and physician, the great commentator on <ph id='aristotle'>Aristotle</ph>, whose work carried <mv id='aristotelianism'>Aristotelianism</mv> to the Latin West."

@@ -3,6 +3,10 @@
   "stub": true,
   "id": "schiller",
   "name": { "fr": "Schiller", "en": "Schiller" },
+  "aliases": {
+    "fr": ["schillérien", "schillérienne"],
+    "en": ["Schillerian"]
+  },
   "summary": {
     "fr": "Poète, dramaturge et philosophe allemand : il cherche dans la beauté et l'éducation esthétique la réconciliation de la sensibilité et de la raison, et une voie vers la liberté de l'homme.",
     "en": "German poet, playwright and philosopher: he seeks in beauty and aesthetic education the reconciliation of sensibility and reason, and a path toward human freedom."

@@ -1,0 +1,35 @@
+name: Translation improvement
+description: A French or English string reads as a calque, is inaccurate, or is missing.
+title: "[i18n] "
+labels: ["translation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Every reader-facing string is `{ "fr": …, "en": … }`, and each language should read idiomatically in its own right, never as a word-for-word tracing of the other. If you are comfortable in only one language, that is fine — propose it and say so.
+  - type: input
+    id: file
+    attributes:
+      label: File or entity
+      description: The entity id or path in data/, and which field if you know it.
+      placeholder: philosophers/nietzsche — entries[…].justification
+    validations:
+      required: true
+  - type: dropdown
+    id: lang
+    attributes:
+      label: Language affected
+      options:
+        - French (fr)
+        - English (en)
+        - Both
+      default: 0
+    validations:
+      required: true
+  - type: textarea
+    id: current-vs-proposed
+    attributes:
+      label: Current wording → proposed wording
+      description: Paste the current string and your suggestion. A one-line reason (calque, wrong register, mistranslation) helps.
+    validations:
+      required: true

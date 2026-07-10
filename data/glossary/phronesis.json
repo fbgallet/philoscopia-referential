@@ -1,6 +1,7 @@
 {
   "id": "phronesis",
   "term": { "fr": "Prudence (phronèsis)", "en": "Practical wisdom (phronesis)" },
+  "aliases": { "fr": ["phronèsis"], "en": ["phronesis"] },
   "definition": {
     "fr": "La <ety>phronèsis</ety> est, chez <ph id='aristotle'>Aristote</ph>, la sagesse pratique : la disposition qui permet de délibérer correctement sur ce qui est bon pour soi et pour la vie en général, puis d'agir en conséquence. Distincte du savoir théorique, elle ne suit pas une règle fixe mais perçoit le juste dans le cas singulier, ce qui en fait la vertu qui guide toutes les autres, notamment dans la recherche du <c id='golden-mean'>juste milieu</c>. C'est elle qui, devant la lettre rigide de la loi, sait viser l'équité plutôt que le pur légalisme.",
     "en": "<ety>Phronesis</ety> is, in <ph id='aristotle'>Aristotle</ph>, practical wisdom: the disposition that lets one deliberate well about what is good for oneself and for life in general, and then act accordingly. Unlike theoretical knowledge, it follows no fixed rule but discerns the right course in the particular case, which makes it the virtue that guides all the others, notably in the pursuit of the <c id='golden-mean'>golden mean</c>. Faced with the rigid letter of the law, it knows how to aim at equity rather than mere legalism."

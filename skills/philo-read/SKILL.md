@@ -43,7 +43,7 @@ Only now, and only on clarified ground. Which pole does the passage defend, with
 
 - A position moved or confirmed by the text → `record_position`, provenance `quote`, ref `w:…` (or `theory`/`ph:…` when it's the author's doctrine more than the passage), the reason in the user's words.
 - A concept the text runs on → `add_entry` concepts if adopted (pairs with a philo-concept session).
-- An unresolved comprehension difficulty → `inquiry` (kind CLARIFICATION) with the passage referenced; an unresolved receivability difficulty → `inquiry` (kind QUESTION or TENSION). Precisely located non-understanding is a reading achievement, not a failure.
+- An unresolved comprehension difficulty → `inquiry` (kind CLARIFICATION) with the passage referenced; an unresolved receivability difficulty → `inquiry` (kind QUESTION). A text that genuinely shakes one of the user's own convictions → kind DOUBT (`relatedBeliefs` naming it), ready material for a philo-examine session. Precisely located non-understanding is a reading achievement, not a failure.
 - Close: `log_session` (touched: `w:…`, `ph:…`, axes; include the user's best paraphrase and the difficulties worked, in an "In their words" section), `profile_summary` with `writeSummaryMd: true`.
 
 ## Conduct

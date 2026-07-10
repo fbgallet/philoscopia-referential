@@ -3,6 +3,7 @@
   "id": "newton",
   "stub": true,
   "name": { "fr": "Newton", "en": "Newton" },
+  "aliases": { "fr": ["newtonien", "newtonienne"], "en": ["Newtonian"] },
   "fullName": { "fr": "Isaac Newton", "en": "Isaac Newton" },
   "summary": {
     "fr": "Mathématicien et physicien anglais, auteur des Principia, dont la mécanique céleste devint pour les <mv id='enlightenment'>Lumières</mv> le modèle même de la raison appliquée à la nature.",

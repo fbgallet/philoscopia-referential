@@ -3,6 +3,10 @@
   "stub": true,
   "id": "augustine",
   "name": { "fr": "Augustin", "en": "Augustine" },
+  "aliases": {
+    "fr": ["augustinien", "augustinienne", "augustinisme"],
+    "en": ["Augustinian", "Augustinianism"]
+  },
   "summary": {
     "fr": "Père de l'Église et philosophe : il fait du libre arbitre la source du mal moral et de la grâce le ressort du salut, mariant héritage platonicien et christianisme.",
     "en": "Church Father and philosopher: he makes free will the source of moral evil and grace the mainspring of salvation, wedding the Platonic heritage to Christianity."

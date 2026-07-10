@@ -3,6 +3,7 @@
   "stub": true,
   "id": "derrida",
   "name": { "fr": "Derrida", "en": "Derrida" },
+  "aliases": { "fr": ["derridien", "derridienne"], "en": ["Derridean"] },
   "summary": {
     "fr": "Philosophe français, fondateur de la déconstruction. Sur le pardon : le pardon véritable ne pardonne que l'impardonnable, comme un don inconditionnel qui excède toute logique d'échange ou de mérite.",
     "en": "French philosopher, founder of deconstruction. On forgiveness: true forgiveness forgives only the unforgivable, an unconditional gift that exceeds any logic of exchange or desert."

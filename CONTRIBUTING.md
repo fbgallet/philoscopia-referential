@@ -4,6 +4,8 @@ Corrections and sourced improvements are very welcome — this referential gets 
 
 Start by reading **[MODEL.md](MODEL.md)** (the semantics of axes, positions, statuses and graphs) and, for anything touching an axis's `problems`, **[docs/problems-ontology.md](docs/problems-ontology.md)**.
 
+The fastest way in is an **[issue form](../../issues/new/choose)**: challenge a position, file a correction, fix an influence edge, improve a translation, or offer a profile. Each form asks for exactly the ids and sources needed to act without a round-trip. A pull request is just as welcome — see the integration flow below.
+
 ## What helps most
 
 - **Challenging a position.** If a philosopher's placement on an axis seems wrong or too coarse, open an issue (or a PR) explaining why, **with sources** (primary texts first, standard commentaries second). This is the single most valuable contribution.
@@ -23,7 +25,9 @@ Start by reading **[MODEL.md](MODEL.md)** (the semantics of axes, positions, sta
 
 ## How changes are integrated
 
-This repository is a generated export of a private working monorepo where authoring, validation and evaluation happen. Accepted contributions are integrated upstream and come back in the next export — so a merged change may be reformatted slightly, and `data/` should never be edited outside this flow. Your contribution is credited in the pull request history.
+This repository is a generated export of a private working monorepo where authoring, validation and evaluation happen. Accepted contributions are integrated upstream and come back in the next export — so a merged change may be reformatted slightly, and the mirror refreshes on the next export rather than at merge time. Your contribution is credited in the commit history (`Co-authored-by`).
+
+Edit `data/**` JSON only. **`views/` and `schemas/` are generated** — `views/` from the data, `schemas/` from the upstream Zod schemas — so edits there are overwritten on the next export; report a problem in a generated view as an issue against the underlying `data/` file instead.
 
 For anything substantial (a new profile, a disputed repositioning), **please open an issue before writing**: it saves you work and lets us share the relevant method and definitions.
 

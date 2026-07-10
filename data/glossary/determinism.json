@@ -1,6 +1,7 @@
 {
   "id": "determinism",
   "term": { "fr": "Déterminisme", "en": "Determinism" },
+  "aliases": { "fr": ["déterministe"], "en": ["deterministic", "determinist"] },
   "definition": {
     "fr": "Le déterminisme est la thèse selon laquelle tout événement, y compris nos choix, résulte nécessairement de causes antérieures conformément aux lois de la nature. Si elle est vraie, nos décisions semblent fixées avant même que nous délibérions, ce qui menace <c id='free-will'>le libre arbitre</c>. Pour <ph id='spinoza'>Spinoza</ph>, le sentiment de liberté vient seulement de ce que nous ignorons les causes qui nous déterminent ; le <c id='compatibilism'>compatibilisme</c> tente, lui, de concilier cette thèse avec une forme de liberté.",
     "en": "Determinism is the thesis that every event, including our choices, necessarily results from prior causes in accordance with the laws of nature. If it is true, our decisions seem fixed before we even deliberate, which threatens <c id='free-will'>free will</c>. For <ph id='spinoza'>Spinoza</ph>, the feeling of freedom comes only from our ignorance of the causes that determine us; <c id='compatibilism'>compatibilism</c>, for its part, tries to reconcile the thesis with a form of freedom."

@@ -19,21 +19,8 @@
         "type": "string",
         "enum": [
           "DESCRIPTIVE",
-          "PRESCRIPTIVE",
-          "PRACTICAL"
+          "PRESCRIPTIVE"
         ]
-      },
-      "object": {
-        "type": "string",
-        "enum": [
-          "INDIVIDUAL",
-          "RELATION",
-          "STRUCTURE"
-        ]
-      },
-      "sphere": {
-        "type": "string",
-        "pattern": "^[A-Z][A-Z0-9_]*$"
       },
       "status": {
         "default": "HELD",
@@ -41,8 +28,7 @@
         "enum": [
           "HELD",
           "SUSPENDED",
-          "ABANDONED",
-          "SUPERSEDED"
+          "ABANDONED"
         ]
       },
       "adherence": {
@@ -52,21 +38,6 @@
           "MODERATE",
           "WEAK"
         ]
-      },
-      "revisedFrom": {
-        "anyOf": [
-          {
-            "type": "string",
-            "pattern": "^[a-z0-9][a-z0-9-]*$"
-          },
-          {
-            "type": "null"
-          }
-        ]
-      },
-      "supersededBy": {
-        "type": "string",
-        "pattern": "^[a-z0-9][a-z0-9-]*$"
       },
       "topics": {
         "type": "array",

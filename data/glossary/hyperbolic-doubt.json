@@ -1,6 +1,10 @@
 {
   "id": "hyperbolic-doubt",
   "term": { "fr": "Doute hyperbolique", "en": "Hyperbolic doubt" },
+  "aliases": {
+    "fr": ["doute cartésien"],
+    "en": ["Cartesian doubt"]
+  },
   "definition": {
     "fr": "Méthode inventée par <ph id='descartes'>Descartes</ph> : pousser le doute à l'extrême, jusqu'à l'<pb>hypothèse d'un malin génie</pb> qui tromperait sur tout, afin de ne retenir comme vrai que ce qui résiste absolument. Ce doute n'est pas <c id='skepticism'>sceptique</c> mais provisoire et méthodique : il sert à dégager un point fixe, le <kw>cogito</kw>, et à refonder la connaissance. Descartes qualifie lui-même ces doutes d'« hyperboliques » dans la <w id='meditations-descartes'>Méditation sixième</w>, une fois la certitude reconquise.",
     "en": "A method devised by <ph id='descartes'>Descartes</ph>: pushing doubt to its extreme, up to the <pb>hypothesis of an evil genius</pb> deceiving us about everything, so as to keep as true only what withstands it absolutely. This doubt is not <c id='skepticism'>sceptical</c> but provisional and methodic: it serves to isolate a fixed point, the <kw>cogito</kw>, and to rebuild knowledge. Descartes himself calls these doubts \"hyperbolical\" in the <w id='meditations-descartes'>Sixth Meditation</w>, once certainty has been regained."

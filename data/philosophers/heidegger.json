@@ -3,6 +3,10 @@
   "stub": true,
   "id": "heidegger",
   "name": { "fr": "Heidegger", "en": "Heidegger" },
+  "aliases": {
+    "fr": ["heideggérien", "heideggérienne"],
+    "en": ["Heideggerian"]
+  },
   "summary": {
     "fr": "Philosophe allemand de l'être : il pense l'existence humaine comme un être-pour-la-mort et voit dans la technique moderne un arraisonnement du monde qui en voile le sens.",
     "en": "German philosopher of being: he conceives human existence as a being-toward-death and sees in modern technology an enframing of the world that veils its meaning."

@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "gorgias",
+  "stub": true,
+  "name": {
+    "fr": "Gorgias",
+    "en": "Gorgias"
+  },
+  "summary": {
+    "fr": "Sophiste et rhéteur grec originaire de Léontinoi en Sicile, l'un des maîtres d'éloquence les plus célèbres de son temps ; il donne son nom au dialogue de Platon où Socrate met en question le pouvoir de la rhétorique.",
+    "en": "Greek sophist and rhetorician from Leontini in Sicily, one of the most celebrated masters of eloquence of his age; he gives his name to Plato's dialogue in which Socrates calls the power of rhetoric into question."
+  },
+  "birth": -483,
+  "death": -375,
+  "nationality": {
+    "fr": "Grec (Sicile)",
+    "en": "Greek (Sicily)"
+  },
+  "movements": [],
+  "updatedAt": "2026-07-07T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

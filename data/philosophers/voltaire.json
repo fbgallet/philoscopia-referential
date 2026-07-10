@@ -3,6 +3,10 @@
   "id": "voltaire",
   "stub": true,
   "name": { "fr": "Voltaire", "en": "Voltaire" },
+  "aliases": {
+    "fr": ["voltairien", "voltairienne", "Arouet"],
+    "en": ["Voltairean", "Voltairian", "Arouet"]
+  },
   "fullName": { "fr": "François-Marie Arouet, dit Voltaire", "en": "François-Marie Arouet, known as Voltaire" },
   "summary": {
     "fr": "Écrivain et philosophe français, figure de proue des <mv id='enlightenment'>Lumières</mv>, infatigable défenseur de la tolérance et de la raison contre le fanatisme et l'« Infâme ».",

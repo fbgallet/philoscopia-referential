@@ -3,6 +3,10 @@
   "stub": true,
   "id": "hobbes",
   "name": { "fr": "Hobbes", "en": "Hobbes" },
+  "aliases": {
+    "fr": ["hobbesien", "hobbesienne"],
+    "en": ["Hobbesian"]
+  },
   "summary": {
     "fr": "Philosophe politique anglais : partant d'une vision sombre de l'homme, il fonde l'État sur un contrat par lequel chacun renonce à sa violence pour échapper à la guerre de tous contre tous.",
     "en": "English political philosopher: starting from a dark view of humanity, he founds the state on a contract by which each person renounces their own violence to escape the war of all against all."

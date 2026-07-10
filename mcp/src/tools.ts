@@ -7,8 +7,12 @@ import type { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
 import { z } from "zod";
 import {
   axesDigest,
+  axisView,
+  entityView,
   pickLocale,
+  positionSlice,
   searchCorpus,
+  stripMachineFields,
   type Corpus,
   type Locale,
 } from "./corpus.js";
@@ -51,7 +55,7 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
     {
       title: "List the axes",
       description:
-        "Compact digest of the referential's axes (id, question, poles, type). Start here to pick an axis. Optionally filter by relation: TRUTH, SELF, OTHERS or WORLD.",
+        "The axis map (id, question, poles), grouped by relation. Start here to pick an axis; pass relation (TRUTH, SELF, OTHERS or WORLD) to fetch a quarter of it.",
       inputSchema: { relation: z.enum(["TRUTH", "SELF", "OTHERS", "WORLD"]).optional() },
     },
     async ({ relation }) => asText(axesDigest(corpus, locale, relation)),
@@ -62,13 +66,33 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
     {
       title: "Read one axis",
       description:
-        "The full axis file: poles with descriptions and anchor figures, stakes, named median, related axes, and its map of live sub-problems (SURFACED and LATENT seeds for deepening).",
+        "One axis (~600 tokens): poles with descriptions and anchor figures, stakes, named median, related axes. Its sub-problem map is separate: problemCount > 0 means get_axis_problems has material.",
       inputSchema: { axisId: z.string().describe("Axis id, e.g. FREEDOM") },
     },
     async ({ axisId }) => {
       const axis = corpus.axes.get(axisId.toUpperCase());
       if (!axis) return asError(new Error(`Unknown axis "${axisId}". Use list_axes or search.`));
-      return asText(pickLocale(axis, locale));
+      return asText(axisView(pickLocale(axis, locale)));
+    },
+  );
+
+  server.registerTool(
+    "get_axis_problems",
+    {
+      title: "Read an axis's sub-problems",
+      description:
+        "The axis's map of live sub-problems (~1-2k tokens; SURFACED and LATENT seeds for deepening). Only when the conversation explores the axis in depth — never just to situate it.",
+      inputSchema: { axisId: z.string().describe("Axis id, e.g. FREEDOM") },
+    },
+    async ({ axisId }) => {
+      const axis = corpus.axes.get(axisId.toUpperCase());
+      if (!axis) return asError(new Error(`Unknown axis "${axisId}". Use list_axes or search.`));
+      const problems = Array.isArray(axis.problems) ? pickLocale(axis.problems, locale) : [];
+      return asText(
+        problems.length > 0
+          ? { axisId: axis.id, problems }
+          : { axisId: axis.id, problems, note: "No sub-problem map recorded for this axis yet." },
+      );
     },
   );
 
@@ -77,13 +101,53 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
     {
       title: "Read a referential entity",
       description:
-        "Fetch any referential entity by prefixed ref: ph:epictetus (philosopher, incl. positions), mv:stoicism, chr:… (character), c:… (glossary concept), te:… (thought experiment), w:… (work), ax:… (axis).",
-      inputSchema: { ref: z.string().describe("Prefixed ref, e.g. ph:epictetus") },
+        "Any entity by prefixed ref: ph:epictetus, mv:stoicism, chr:… (character), c:… (concept), te:… (thought experiment), w:… (work), ax:… (axis). A figure arrives as a DIGEST (~1k tokens): identity, structuring theses, and every position WITHOUT its justification — get_position supplies the justifications you actually discuss. full:true (~5-8k tokens) only for a whole-figure portrait, or when you do not know the figure at all.",
+      inputSchema: {
+        ref: z.string().describe("Prefixed ref, e.g. ph:epictetus"),
+        full: z.boolean().optional().describe("Whole profile (unknown figure / full portrait)"),
+      },
     },
-    async ({ ref }) => {
+    async ({ ref, full }) => {
       const entity = corpus.byRef.get(ref);
       if (!entity) return asError(new Error(`"${ref}" not found. Prefixes: ax, ph, mv, chr, c, te, w.`));
-      return asText(pickLocale(entity, locale));
+      const flat = pickLocale(entity, locale);
+      return asText(full ? stripMachineFields(flat, ref.startsWith("ax:")) : entityView(ref, flat));
+    },
+  );
+
+  server.registerTool(
+    "get_position",
+    {
+      title: "Read a figure's position on an axis",
+      description:
+        "One figure's position on ONE axis (axisId) or several at once (axisIds), each with its sourced justification (~300 tokens per axis). The default read whenever the question concerns a figure on an axis; batch one figure's axes in a single call.",
+      inputSchema: {
+        ref: z.string().describe("Figure ref: ph:…, mv:… or chr:…"),
+        axisId: z.string().optional().describe("Axis id, e.g. FREEDOM"),
+        axisIds: z.array(z.string()).min(1).max(12).optional().describe("Several axis ids at once"),
+      },
+    },
+    async ({ ref, axisId, axisIds }) => {
+      const entity = corpus.byRef.get(ref);
+      if (!entity) return asError(new Error(`"${ref}" not found. Prefixes: ax, ph, mv, chr, c, te, w.`));
+      const ids = axisIds?.length ? axisIds : axisId ? [axisId] : null;
+      if (!ids) return asError(new Error("get_position requires axisId or axisIds."));
+      const flat = pickLocale(entity, locale);
+      try {
+        if (ids.length === 1) return asText(positionSlice(ref, flat, ids[0]));
+        // Batch: a missing axis yields an inline error entry, the rest answer.
+        const positions = ids.map((id) => {
+          try {
+            const { ref: _ref, name: _name, ...slice } = positionSlice(ref, flat, id);
+            return slice;
+          } catch (error) {
+            return { axisId: id.toUpperCase(), error: (error as Error).message };
+          }
+        });
+        return asText({ ref, name: flat.name ?? flat.label, positions });
+      } catch (error) {
+        return asError(error);
+      }
     },
   );
 
@@ -137,7 +201,7 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
     {
       title: "Create the workspace",
       description:
-        "Create the my-philosophy/ folder (manifest, empty profile and collections, journal/). Fails if one already exists.",
+        "Create the my-philosophy/ folder (manifest, empty profile and collections, journal/). Fails if one already exists; foreign files in the folder (a web vault's session.json, notes/…) are left untouched.",
       inputSchema: { locale: z.enum(["fr", "en"]).optional() },
     },
     async (args) => {
@@ -153,14 +217,15 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
     "get_profile",
     {
       title: "Read the user's profile",
-      description: "The user's positions on the axes (profile.json), optionally one axis only.",
+      description:
+        "The user's own positions. Without axisId: a compact digest, one line per touched axis. With axisId: that entry in full (rationale, reasons, last 3 history records). Read it before comparing, examining or recording — never page through axes you will not discuss.",
       inputSchema: { axisId: z.string().optional() },
     },
     async ({ axisId }) => {
       try {
-        const profile = ws.profile();
-        if (axisId) return asText(profile.entries[axisId.toUpperCase()] ?? null);
-        return asText(profile);
+        if (!axisId) return asText(ws.profileDigest());
+        const entry = ws.profileEntry(axisId);
+        return asText(entry ?? { axisId: axisId.toUpperCase(), note: "No entry on this axis yet." });
       } catch (error) {
         return asError(error);
       }
@@ -223,10 +288,60 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
     {
       title: "Add a workspace entry",
       description:
-        "Append one entry to a collection: beliefs (personal beliefs; fields per the published schema), concepts, affinities (loves & hates), inquiries (open questions), practices. The id is generated if omitted; the file is schema-validated before writing.",
+        "Append one entry to a personal collection (schema-validated; id generated if omitted). Sentences (statement, definition, why…) are the USER's words. Required per collection — beliefs: statement + mode + adherence (a conviction that IS an axis position goes through record_position instead); inquiries (a live questioning): statement + kind (DOUBT = putting one of their OWN convictions to the test, name it in relatedBeliefs); concepts: term + definition + clarity, or ref (c:…) to adopt a referential concept; affinities (a love or hate): feeling + subject — MODELS live here: an admired figure/lifestyle/school is feeling LOVE + exemplar true (an anti-model: HATE + exemplar true), with figureRef and facets; practices (what they actually DO): statement + kind.",
       inputSchema: {
         collection: z.enum(COLLECTIONS),
-        entry: z.record(z.string(), z.any()).describe("The entry object, per schemas/workspace/<collection>.schema.json"),
+        entry: z.object({
+          id: z.string().optional().describe("Omit: generated from the main sentence"),
+          statement: z.string().optional().describe("beliefs/inquiries/practices: the user's sentence"),
+          mode: z.enum(["DESCRIPTIVE", "PRESCRIPTIVE"]).optional().describe("beliefs: the is/ought split (you classify)"),
+          adherence: z.enum(["STRONG", "MODERATE", "WEAK"]).optional().describe("beliefs"),
+          status: z
+            .enum(["HELD", "SUSPENDED", "ABANDONED", "ACTIVE", "DORMANT", "RESOLVED"])
+            .optional()
+            .describe("beliefs (default HELD) / inquiries (default ACTIVE)"),
+          topics: z.array(z.string()).optional().describe("beliefs: free-text themes"),
+          relatedAxes: z.array(z.string()).optional().describe("beliefs/affinities: ax:… refs"),
+          grounds: z.array(z.string()).optional().describe("beliefs: belief ids or pole:… refs that ground this one"),
+          challengedBy: z.array(z.string()).optional().describe("beliefs: belief ids or refs in tension with it"),
+          rationale: z.string().optional().describe("beliefs"),
+          ref: z.string().optional().describe("concepts: c:… ref to adopt a referential concept"),
+          term: z.string().optional().describe("concepts (personal)"),
+          definition: z.string().optional().describe("concepts (personal): the user's working definition"),
+          clarity: z.enum(["CLEAR", "SOMEWHAT_CLEAR", "FUZZY", "UNDEFINED"]).optional().describe("concepts: honest self-knowledge, not a grade"),
+          relatedConcepts: z.array(z.string()).optional().describe("concepts: ids or c:… refs"),
+          note: z.string().optional().describe("concepts (adopted): personal gloss"),
+          notes: z.string().optional().describe("concepts (personal)"),
+          feeling: z.enum(["LOVE", "HATE"]).optional().describe("affinities"),
+          subject: z.string().optional().describe("affinities: the loved/hated thing (a model's name goes here)"),
+          category: z
+            .enum(["PERSON", "RELATION", "STRUCTURE", "IDEA", "ANIMAL", "ACTIVITY", "PLACE", "OBJECT", "ART", "LIFESTYLE", "SITUATION"])
+            .optional()
+            .describe("affinities (RELATION = family/friend/community; STRUCTURE = institution/order; IDEA = a value/ideal)"),
+          why: z.string().optional().describe("affinities: the user's paragraph (for a model: what inspires them)"),
+          exemplar: z.boolean().optional().describe("affinities: true = a model (LOVE) or anti-model (HATE) the user orients themselves by"),
+          facets: z
+            .array(z.enum(["THEORY", "POSITION", "THINKING_STYLE", "COMMITMENTS", "ACTIONS", "ATTITUDES"]))
+            .optional()
+            .describe("affinities (exemplar only): what inspires them, several allowed"),
+          figureRef: z.string().optional().describe("affinities (exemplar only): ph:/mv:/chr: ref when the subject is a referential figure"),
+          revealedBeliefs: z.array(z.string()).optional().describe("affinities: belief ids this feeling reveals"),
+          kind: z
+            .enum(["QUESTION", "TENSION", "DILEMMA", "CLARIFICATION", "DOUBT", "PRACTICE", "ATTITUDE", "RULE_OF_ACTION", "EXERCISE"])
+            .optional()
+            .describe("inquiries / practices"),
+          tensionType: z.enum(["T_T", "T_V"]).optional().describe("inquiries (kind TENSION only): belief↔belief (T_T) or belief↔value (T_V)"),
+          priority: z.enum(["HIGH", "MEDIUM", "LOW"]).optional().describe("inquiries"),
+          anchors: z.array(z.string()).optional().describe("inquiries: problem:…/ax:… refs"),
+          relatedBeliefs: z.array(z.string()).optional().describe("inquiries: belief ids (a TENSION's two poles; a DOUBT's tested conviction)"),
+          reflections: z.string().optional().describe("inquiries"),
+          frequency: z.enum(["DAILY", "WEEKLY", "MONTHLY", "AS_NEEDED"]).optional().describe("practices: neutral cadence descriptor"),
+          purpose: z.string().optional().describe("practices"),
+          method: z.string().optional().describe("practices: how, incl. a bad-day fallback"),
+          inspiredBy: z.array(z.string()).optional().describe("practices: ph:…/mv:… refs"),
+          servesBeliefs: z.array(z.string()).optional().describe("practices: belief ids this practice serves"),
+          feedback: z.string().optional().describe("practices"),
+        }),
       },
     },
     async ({ collection, entry }) => {
@@ -243,11 +358,11 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
     {
       title: "Update a workspace entry",
       description:
-        "Shallow-merge a patch into one entry (by id, or by ref for adopted concepts). To supersede a belief: add the new belief first, then patch the old one with status SUPERSEDED and supersededBy.",
+        "Shallow-merge a patch into one entry (by id, or by c:… ref for adopted concepts); null deletes an optional field. A substantive revision of a belief is a NEW belief: add it first, then retire the old one with status ABANDONED — the trajectory is the treasure.",
       inputSchema: {
         collection: z.enum(COLLECTIONS),
         id: z.string(),
-        patch: z.record(z.string(), z.any()),
+        patch: z.record(z.string(), z.any()).describe("Fields per schemas/workspace/<collection>.schema.json (same fields as add_entry)"),
       },
     },
     async ({ collection, id, patch }) => {
@@ -263,16 +378,20 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
     "list_entries",
     {
       title: "List workspace entries",
-      description: "Read a collection, optionally filtered by status or free-text match.",
+      description:
+        "One personal collection, compact (one line per entry, with ids); filter by status, kind, axis or text — or pass id for ONE entry in full. Use it before add_entry to link entries (grounds, relatedBeliefs, servesBeliefs) and avoid duplicates.",
       inputSchema: {
         collection: z.enum(COLLECTIONS),
+        id: z.string().optional().describe("Return this entry in full"),
         status: z.string().optional(),
-        text: z.string().optional(),
+        kind: z.string().optional(),
+        axis: z.string().optional().describe("Only entries touching this axis (relatedAxes/anchors)"),
+        text: z.string().optional().describe("Case-insensitive substring"),
       },
     },
-    async ({ collection, status, text }) => {
+    async ({ collection, id, status, kind, axis, text }) => {
       try {
-        return asText(ws.list(collection, { status, text }));
+        return asText(ws.listView(collection, { id, status, kind, axis, text }));
       } catch (error) {
         return asError(error);
       }
@@ -306,7 +425,7 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
     {
       title: "Summarize the profile",
       description:
-        "Coverage (by relation, core axes), structuring positions, tensions triggered by the referential's tension rules, ungrounded prescriptive beliefs, stale entries, open work. Set writeSummaryMd to also regenerate the human-readable summary.md portrait.",
+        "Coverage (by relation, core axes), structuring positions, tensions triggered by the referential's tension rules, ungrounded prescriptive beliefs, stale entries, open work, dangling refs (written against another corpus version — signal, never fix silently). Set writeSummaryMd to also regenerate the human-readable summary.md portrait.",
       inputSchema: { writeSummaryMd: z.boolean().optional() },
     },
     async ({ writeSummaryMd }) => {
@@ -325,7 +444,7 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
     {
       title: "Archive closed records",
       description:
-        "Move closed records (SUPERSEDED/ABANDONED beliefs, RESOLVED inquiries, ABANDONED practices) to archive/, keeping active files lean. Nothing is deleted.",
+        "Move closed records (ABANDONED beliefs, RESOLVED inquiries) to archive/, keeping active files lean. Nothing is deleted; only the format's own files are touched.",
       inputSchema: {},
     },
     async () => {

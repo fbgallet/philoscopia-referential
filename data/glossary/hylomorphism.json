@@ -1,6 +1,10 @@
 {
   "id": "hylomorphism",
   "term": { "fr": "Hylémorphisme", "en": "Hylomorphism" },
+  "aliases": {
+    "fr": ["hylémorphique"],
+    "en": ["hylomorphic"]
+  },
   "definition": {
     "fr": "L'hylémorphisme (du grec <ety>hulê</ety>, matière, et <ety>morphê</ety>, forme) est la thèse d'<ph id='aristotle'>Aristote</ph> selon laquelle tout être sensible est l'union indissociable d'une matière et d'une forme : le bronze est la matière de la statue, sa figure en est la forme. Ni la matière nue ni la forme pure n'existent séparément dans le monde sensible, c'est leur composition qui constitue la substance concrète. La forme n'est pas une simple disposition réductible à la matière : elle organise et actualise celle-ci, faisant émerger ce qu'est réellement la chose.",
     "en": "Hylomorphism (from Greek <ety>hule</ety>, matter, and <ety>morphe</ety>, form) is <ph id='aristotle'>Aristotle</ph>'s thesis that every sensible being is the inseparable union of a matter and a form: bronze is the matter of the statue, its shape is the form. Neither bare matter nor pure form exists separately in the sensible world; it is their composition that constitutes the concrete substance. Form is not a mere arrangement reducible to matter: it organizes and actualizes the matter, bringing out what the thing really is."

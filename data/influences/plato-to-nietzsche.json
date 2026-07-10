@@ -1,0 +1,16 @@
+{
+  "id": "plato-to-nietzsche",
+  "from": { "kind": "PHILOSOPHER", "slug": "plato" },
+  "to": { "kind": "PHILOSOPHER", "slug": "nietzsche" },
+  "directness": "INDIRECT",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "L'influence ne passe pas par les thèses propres de <ph id='plato'>Platon</ph>, mais par son personnage <chr id='callicles'>Calliclès</chr> : dans le <w id='gorgias-plato'>Gorgias</w>, Platon met dans sa bouche le droit du plus fort et la dénonciation de la morale des faibles pour mieux les réfuter. <ph id='nietzsche'>Nietzsche</ph> réactive cette position immoraliste, que la critique rapproche de sa morale des maîtres, et la retourne contre la morale d'inspiration socratique et platonicienne.",
+    "en": "The influence runs not through <ph id='plato'>Plato</ph>'s own theses but through his character <chr id='callicles'>Callicles</chr>: in the <w id='gorgias-plato'>Gorgias</w>, Plato puts into his mouth the right of the stronger and the denunciation of the morality of the weak, precisely in order to refute them. <ph id='nietzsche'>Nietzsche</ph> reactivates this immoralist position, which scholars liken to his morality of masters, and turns it against the morality of Socratic and Platonic inspiration."
+  },
+  "sources": [
+    { "fr": "Rapprochement classique de la critique (E. R. Dodds, commentaire du Gorgias) ; Nietzsche, La Généalogie de la morale", "en": "A standard scholarly comparison (E. R. Dodds, commentary on the Gorgias); Nietzsche, On the Genealogy of Morality" }
+  ],
+  "updatedAt": "2026-07-07T00:00:00.000Z"
+}

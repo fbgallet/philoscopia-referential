@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "thrasymachus",
+  "stub": true,
+  "name": {
+    "fr": "Thrasymaque",
+    "en": "Thrasymachus"
+  },
+  "summary": {
+    "fr": "Sophiste grec de Chalcédoine, connu surtout comme interlocuteur du premier livre de la République de Platon, où il soutient avec véhémence que la justice n'est que l'intérêt du plus fort.",
+    "en": "Greek sophist from Chalcedon, known above all as the interlocutor of the first book of Plato's Republic, where he vehemently maintains that justice is nothing but the advantage of the stronger."
+  },
+  "birth": -459,
+  "death": -400,
+  "nationality": {
+    "fr": "Grec",
+    "en": "Greek"
+  },
+  "movements": [],
+  "updatedAt": "2026-07-07T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

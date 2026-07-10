@@ -1,0 +1,44 @@
+name: Influence edge
+description: A missing, wrong or mis-dated filiation between figures or movements (who continued, transmitted or reacted against whom).
+title: "[influence] <from> → <to>: "
+labels: ["influences"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The influence graph is **selective and sourced**: it records attested filiations, not every possible resemblance. An edge needs a source establishing that the link is real, not merely plausible.
+  - type: input
+    id: from
+    attributes:
+      label: From (the influence)
+      description: Entity id or name of the influencing figure/movement.
+      placeholder: kant
+    validations:
+      required: true
+  - type: input
+    id: to
+    attributes:
+      label: To (the influenced)
+      description: Entity id or name of the influenced figure/movement.
+      placeholder: schopenhauer
+    validations:
+      required: true
+  - type: dropdown
+    id: change
+    attributes:
+      label: What should change
+      options:
+        - Add this edge
+        - Correct its direction
+        - Correct its dating or nature (continuation / transmission / reaction)
+        - Remove it (not attested)
+      default: 0
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Source for the attested link
+      description: A text, correspondence, or standard scholarship establishing the filiation.
+    validations:
+      required: true

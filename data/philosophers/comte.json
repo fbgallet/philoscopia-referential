@@ -3,6 +3,7 @@
   "stub": true,
   "id": "comte",
   "name": { "fr": "Comte", "en": "Comte" },
+  "aliases": { "fr": ["comtien", "comtienne"], "en": ["Comtean"] },
   "summary": {
     "fr": "Philosophe français, fondateur du positivisme : il tient la science pour le stade ultime du savoir, appelé à remplacer la théologie et la métaphysique.",
     "en": "French philosopher, founder of positivism: he holds science to be the ultimate stage of knowledge, destined to replace theology and metaphysics."

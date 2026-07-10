@@ -3,6 +3,10 @@
   "stub": true,
   "id": "kierkegaard",
   "name": { "fr": "Kierkegaard", "en": "Kierkegaard" },
+  "aliases": {
+    "fr": ["kierkegaardien", "kierkegaardienne"],
+    "en": ["Kierkegaardian"]
+  },
   "summary": {
     "fr": "Philosophe danois, précurseur de l'existentialisme : il fait de la foi un saut au-delà de la raison et de l'amour un engagement de la volonté plus qu'une passion subie.",
     "en": "Danish philosopher, a forerunner of existentialism: he makes faith a leap beyond reason and love a commitment of the will rather than a passion undergone."

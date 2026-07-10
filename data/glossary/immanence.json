@@ -1,6 +1,10 @@
 {
   "id": "immanence",
   "term": { "fr": "Immanence", "en": "Immanence" },
+  "aliases": {
+    "fr": ["immanent", "immanente"],
+    "en": ["immanent"]
+  },
   "definition": {
     "fr": "L'immanence caractérise ce qui demeure intérieur à un domaine, sans recours à un principe extérieur : un sens, des valeurs ou un divin qui n'existent que dans le monde lui-même. <ph id='spinoza'>Spinoza</ph> en est la grande figure classique, avec un Dieu identifié à la nature, et <ph id='nietzsche'>Nietzsche</ph> la radicalise en appelant à rester fidèle à la terre. Elle s'oppose à <c id='transcendence'>la transcendance</c>, qui place le fondement au-delà du monde.",
     "en": "Immanence characterizes what remains interior to a domain, without appeal to an external principle: a meaning, values, or a divine that exist only within the world itself. <ph id='spinoza'>Spinoza</ph> is its great classical figure, with a God identified with nature, and <ph id='nietzsche'>Nietzsche</ph> radicalizes it by calling on us to remain faithful to the earth. It stands opposed to <c id='transcendence'>transcendence</c>, which places the ground beyond the world."

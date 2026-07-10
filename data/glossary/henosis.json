@@ -1,6 +1,10 @@
 {
   "id": "henosis",
   "term": { "fr": "Hénôsis (union mystique)", "en": "Henōsis (mystical union)" },
+  "aliases": {
+    "fr": ["henosis", "union mystique"],
+    "en": ["henosis", "mystical union"]
+  },
   "definition": {
     "fr": "Hénôsis <ety>du grec henôsis, unification, de hen, l'un</ety> désigne, chez <ph id='plotinus'>Plotin</ph>, l'union de l'âme avec l'<c id='the-one'>Un</c> au terme de sa remontée. Au-delà de la <c>contemplation</c> de l'<c id='nous'>Intellect</c>, l'âme dépouillée de tout, et même de la pensée, touche son principe dans un instant où s'efface la dualité du sujet et de l'objet : « la fuite du seul vers le Seul ». C'est le sommet de la vie spirituelle, indicible, que Plotin dit avoir lui-même atteint quelques fois.",
     "en": "Henōsis <ety>from the Greek henôsis, unification, from hen, one</ety> designates, in <ph id='plotinus'>Plotinus</ph>, the soul's union with the <c id='the-one'>One</c> at the term of its ascent. Beyond the <c>contemplation</c> of <c id='nous'>Intellect</c>, the soul, stripped of everything, even of thought, touches its principle in an instant where the duality of subject and object is effaced: \"the flight of the alone to the Alone\". It is the summit of the spiritual life, unsayable, which Plotinus claims to have reached himself a few times."

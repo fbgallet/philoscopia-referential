@@ -1,0 +1,49 @@
+name: Challenge a position
+description: A philosopher, movement or character seems mis-placed on an axis (wrong pole, too coarse, missing nuance).
+title: "[position] <figure> on <AXIS>: "
+labels: ["position", "needs-sources"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The single most valuable contribution. A placement is a **sourced claim**, so a challenge is only actionable with sources — primary texts first, standard commentary second. Read the axis's own definition (its poles and territory) before arguing: a position value means what MODEL.md says it means, which is often narrower than the everyday word.
+  - type: input
+    id: figure
+    attributes:
+      label: Figure
+      description: The entity id as in data/ (e.g. `epictetus`, `stoicism`), or their usual name if you are unsure of the id.
+      placeholder: epictetus
+    validations:
+      required: true
+  - type: input
+    id: axis
+    attributes:
+      label: Axis
+      description: The axis id (uppercase, e.g. `FREEDOM`) or its title.
+      placeholder: FREEDOM
+    validations:
+      required: true
+  - type: textarea
+    id: current-vs-proposed
+    attributes:
+      label: Current placement vs. what you propose
+      description: What does the corpus say today, and what should it say instead (pole, and if relevant the status — declared/practiced — or salience)?
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources
+      description: Works and passages that support your reading. Primary texts first. Unsourced repositioning cannot be merged.
+      placeholder: |
+        - Epictetus, Discourses I.1 (on what is "up to us")
+        - Long, A. A. (2002), Epictetus, ch. 3
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else
+      description: Competing readings, why this matters, whether both languages are affected.
+    validations:
+      required: false

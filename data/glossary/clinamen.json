@@ -1,6 +1,7 @@
 {
   "id": "clinamen",
   "term": { "fr": "Le clinamen (la déclinaison des atomes)", "en": "The clinamen (the swerve of atoms)" },
+  "aliases": { "fr": ["clinamen"], "en": ["clinamen"] },
   "definition": {
     "fr": "Le clinamen est l'infime écart par lequel les atomes, dans leur chute, dévient spontanément de la verticale. <ph id='epicurus'>Épicure</ph> introduit cette déclinaison pour briser un enchaînement causal strict et sauver ainsi la <c id='free-will'>liberté</c> humaine face au <c id='determinism'>déterminisme</c> rigide. C'est <per>Lucrèce</per> qui en donne l'exposé le plus célèbre dans le <w id='on-the-nature-of-things-lucretius'>De rerum natura</w>.",
     "en": "The clinamen is the slight swerve by which atoms, in their fall, spontaneously deviate from the vertical. <ph id='epicurus'>Epicurus</ph> introduces this swerve to break a strict causal chain and so to save human <c id='free-will'>free will</c> against rigid <c id='determinism'>determinism</c>. It is <per>Lucretius</per> who gives its most famous account in the <w id='on-the-nature-of-things-lucretius'>De rerum natura</w>."

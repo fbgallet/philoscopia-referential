@@ -1,6 +1,7 @@
 {
   "id": "volksgeist",
   "term": { "fr": "Volksgeist (génie du peuple)", "en": "Volksgeist (spirit of a people)" },
+  "aliases": { "fr": ["esprit du peuple"], "en": ["spirit of the people"] },
   "definition": {
     "fr": "Le Volksgeist, ou esprit du peuple, est le génie singulier d'une nation, qui s'exprime dans sa langue, ses chants, ses mœurs et son histoire, et fait l'unité vivante d'une culture. L'idée vient de <ph id='herder'>Herder</ph>, qui affirme contre l'universalisme des Lumières que chaque peuple porte sa propre mesure ; le mot, lui, se répand surtout après lui, notamment chez Hegel. Elle fonde l'<ax id='HUMAN_NATURE'>idée que l'homme est d'abord façonné par sa culture</ax>, et nourrira le nationalisme moderne.",
     "en": "The Volksgeist, or spirit of a people, is the singular genius of a nation, expressed in its language, its songs, its customs and its history, and forming the living unity of a culture. The idea comes from <ph id='herder'>Herder</ph>, who holds, against the Enlightenment's universalism, that each people carries its own measure; the word itself spreads mainly after him, notably in Hegel. It grounds the <ax id='HUMAN_NATURE'>idea that a human being is first shaped by their culture</ax>, and would feed modern nationalism."

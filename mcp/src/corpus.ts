@@ -133,22 +133,116 @@ export function searchCorpus(
   return results;
 }
 
-/** The compact axes digest: everything an agent needs to pick an axis. */
+/** Relation order of the grouped digest (stable across calls). */
+const RELATIONS = ["TRUTH", "SELF", "OTHERS", "WORLD"] as const;
+
+/**
+ * The compact axes digest, grouped by relation: everything an agent needs to
+ * PICK an axis, nothing more (get_axis has the rest). Poles are compact
+ * "POLE_ID: label" strings; the taxonomy fields (territory/layer/core/type)
+ * stay out — the model never selects on them. Token discipline: this lands
+ * verbatim in the host's context. Mirrors the web companion's digest.
+ */
 export function axesDigest(corpus: Corpus, locale: Locale, relation?: string) {
-  return [...corpus.axes.values()]
-    .filter((axis) => !relation || axis.relation === relation)
-    .map((axis) => ({
+  const groups: Record<string, any[]> = Object.fromEntries(RELATIONS.map((r) => [r, []]));
+  for (const axis of corpus.axes.values()) {
+    (groups[axis.relation] ??= []).push({
       id: axis.id,
-      relation: axis.relation,
-      territory: axis.territory,
-      layer: axis.layer,
-      type: axis.type,
-      core: axis.core,
       label: pickLocale(axis.label, locale),
       question: pickLocale(axis.question, locale),
-      poles: axis.poles.map((p: any) => ({ id: p.id, label: pickLocale(p.label, locale) })),
+      poles: axis.poles.map((p: any) => `${p.id}: ${pickLocale(p.label, locale)}`),
       ...(axis.medianLabel ? { median: pickLocale(axis.medianLabel, locale) } : {}),
-    }));
+    });
+  }
+  return relation ? (groups[relation] ?? []) : groups;
+}
+
+// ── Scoped views (token discipline) ─────────────────────────────────────────
+// Whatever a tool returns stays in the host's conversation context for good:
+// the default views carry only what the current question can use, and the tool
+// descriptions tell the model how to widen. All views take a pickLocale'd
+// (locale-flattened) entity. Mirrors the web companion engine
+// (philo-profiles apps/web/src/lib/companion/engine.ts) — keep both in sync.
+
+/** Machine/authoring fields the model never uses. */
+const MACHINE_FIELDS = ["updatedAt", "validation", "aliases"] as const;
+/** Axis fields that serve the referential's taxonomy, never a conversation. */
+const AXIS_MACHINE_FIELDS = ["clusters", "difficulty", "layer", "core", "territory"] as const;
+
+export function stripMachineFields(flat: any, isAxis: boolean): any {
+  const out = { ...flat };
+  for (const key of MACHINE_FIELDS) delete out[key];
+  if (isAxis) for (const key of AXIS_MACHINE_FIELDS) delete out[key];
+  return out;
+}
+
+/** get_axis view: the axis minus its sub-problem map (80% of the file's
+ * bytes); problemCount > 0 signals that get_axis_problems has material. */
+export function axisView(flat: any): any {
+  const { problems, ...rest } = stripMachineFields(flat, true);
+  const count = Array.isArray(problems) ? problems.length : 0;
+  return count > 0 ? { ...rest, problemCount: count } : rest;
+}
+
+/** Compact rendering of a PositionValue: "-0.6" (scalar) | "[0.7,0.3]" (weights). */
+export const positionValueText = (value: any): string | null => {
+  if (!value || typeof value !== "object") return null;
+  if (typeof value.value === "number") return String(value.value);
+  if (Array.isArray(value.weights)) return `[${value.weights.join(",")}]`;
+  return JSON.stringify(value);
+};
+
+/** One position as a compact line (see POSITIONS_FORMAT) — repeated JSON keys
+ * over ~40 entries are half a digest's weight, so text lines win. */
+const positionLine = (entry: any): string => {
+  const parts: string[] = [entry.axisId];
+  const declared = positionValueText(entry.declaredValue);
+  if (declared) parts.push(declared);
+  const practiced = positionValueText(entry.practicedValue);
+  if (practiced) parts.push(`practiced ${practiced}`);
+  const status = [entry.status, entry.epistemicStatus].filter(Boolean).join("/");
+  if (status) parts.push(status);
+  if (entry.salience) parts.push(String(entry.salience));
+  if (entry.note) parts.push(String(entry.note));
+  return parts.join(" · ");
+};
+
+const POSITIONS_FORMAT =
+  "AXIS_ID · value (scalar in [-1,1] | [pole weights]) · STATUS/EPISTEMIC · SALIENCE · note — justifications via get_position";
+
+/** get_entity default view. Figures with positions are digested: summary and
+ * voice dropped, entries rendered as compact lines WITHOUT their
+ * justifications (get_position serves the ones actually discussed). Stubs
+ * pass through whole (their summary is all they have). Axes as axisView. */
+export function entityView(ref: string, flat: any): any {
+  if (ref.startsWith("ax:")) return axisView(flat);
+  if (!/^(ph|mv|chr):/.test(ref)) return stripMachineFields(flat, false);
+  const clean = stripMachineFields(flat, false);
+  if (!Array.isArray(clean.entries)) return clean;
+  const { entries, summary: _summary, voice: _voice, ...identity } = clean;
+  return { ...identity, positionsFormat: POSITIONS_FORMAT, positions: entries.map(positionLine) };
+}
+
+/** One figure's position on ONE axis: the scoped slice behind get_position. */
+export function positionSlice(ref: string, flat: any, axisId: string): any {
+  if (!Array.isArray(flat.entries)) {
+    throw new Error(`"${ref}" has no per-axis positions. Use get_entity or get_axis instead.`);
+  }
+  const id = axisId.toUpperCase();
+  const entry = flat.entries.find((e: any) => e?.axisId === id);
+  if (!entry) {
+    throw new Error(`"${ref}" has no recorded position on axis "${id}". Use get_entity for its digest.`);
+  }
+  const structuring = Array.isArray(flat.structuring)
+    ? flat.structuring.find((s: any) => s?.axisId === id)
+    : undefined;
+  return {
+    ref,
+    name: flat.name ?? flat.label,
+    axisId: id,
+    position: entry,
+    ...(structuring ? { structuring } : {}),
+  };
 }
 
 /** Weight of one pole in a position value, following MODEL.md conventions. */

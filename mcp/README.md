@@ -39,9 +39,11 @@ Referential (read-only):
 
 | Tool | Purpose |
 |---|---|
-| `list_axes` | Compact digest of all axes (id, question, poles) — the entry point |
-| `get_axis` | One full axis: poles, stakes, anchor figures, live sub-problems |
-| `get_entity` | Any entity by prefixed ref: `ph:epictetus`, `c:eudaimonia`, `te:trolley-problem`… |
+| `list_axes` | Compact digest of all axes (id, question, poles), grouped by relation — the entry point |
+| `get_axis` | One axis: poles, stakes, anchor figures (sub-problems split out, see below) |
+| `get_axis_problems` | The axis's map of live sub-problems, for in-depth exploration |
+| `get_entity` | Any entity by prefixed ref: `ph:epictetus`, `c:eudaimonia`… — figures arrive as a digest (`full:true` for the whole profile) |
+| `get_position` | One figure's sourced position on one axis (`axisId`) or several (`axisIds`) |
 | `search` | Substring search across the whole corpus (diacritics-insensitive) |
 | `get_tensions_for` | Position pairs in tension involving an axis |
 | `get_foundations_for` | Grounding relations (belief → belief/value) involving an axis |
@@ -57,7 +59,7 @@ Workspace (local files, schema-validated on every write):
 | `profile_summary` | Coverage, triggered tensions, ungrounded beliefs, open work; optionally regenerates the readable `summary.md` |
 | `compact` | Move closed records to `archive/` (nothing is deleted) |
 
-The workspace file format is specified by the published [JSON Schemas](../schemas/workspace/); every write is validated against them, plus the rules schemas cannot carry (a POSITIONED entry needs a value, values must fit the axis's pole shape, referential refs must resolve).
+The workspace file format is specified by the published [JSON Schemas](../schemas/workspace/); every write is validated against them, plus the rules schemas cannot carry (a POSITIONED entry needs a value, values must fit the axis's pole shape, referential refs must resolve). The server only ever touches the files the format names: extra files another writer keeps in the same folder (e.g. the web app's local vault: `session.json`, `notes/`, `Inbox.md`) are ignored, and a ref that stopped resolving after a corpus update is surfaced by `profile_summary`, never a write blocker.
 
 ## Going further: the exploration skills
 

@@ -1,6 +1,10 @@
 {
   "id": "innate-ideas",
   "term": { "fr": "Les idées innées", "en": "Innate ideas" },
+  "aliases": {
+    "fr": ["innéisme", "idée innée"],
+    "en": ["innatism", "innate idea"]
+  },
   "definition": {
     "fr": "Les idées innées sont, pour <ph id='descartes'>Descartes</ph>, des idées que l'esprit porte en lui avant toute expérience, comme l'idée de Dieu, celle du moi, ou les vérités mathématiques. Elles ne viennent ni des sens ni du dehors, mais de la structure même de la pensée, ce qui ancre la connaissance dans la <ax id='KNOWLEDGE_SOURCE'>raison</ax>. Cette thèse rationaliste s'oppose à l'empirisme, qui tient l'esprit pour une <c id='tabula-rasa'>table rase</c> tout entière façonnée par l'expérience.",
     "en": "Innate ideas are, for <ph id='descartes'>Descartes</ph>, ideas the mind holds within itself prior to any experience, such as the idea of God, of the self, or mathematical truths. They come neither from the senses nor from outside, but from the very structure of thought, which anchors knowledge in <ax id='KNOWLEDGE_SOURCE'>reason</ax>. This rationalist claim stands opposed to empiricism, which holds the mind to be a <c id='tabula-rasa'>blank slate</c> wholly shaped by experience."

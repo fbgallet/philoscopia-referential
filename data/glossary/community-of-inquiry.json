@@ -1,6 +1,7 @@
 {
   "id": "community-of-inquiry",
   "term": { "fr": "Communauté des chercheurs (communauté d'enquête)", "en": "Community of inquiry" },
+  "aliases": { "fr": ["communauté d'enquête"] },
   "definition": {
     "fr": "Chez <ph id='peirce'>Peirce</ph>, la communauté indéfinie de tous ceux qui enquêtent, dont l'opinion finale, celle sur laquelle ils sont destinés à s'accorder au terme idéal de la recherche, définit la <ax id='TRUTH_NATURE'>vérité</ax> et le réel. Aucun individu ni aucune génération ne possède le vrai à lui seul : il est le point de convergence d'une enquête poursuivie assez loin, contrainte par un réel indépendant de nos désirs. Cette communauté n'est pas la cause de la vérité mais le lieu où elle se manifeste, ce qui ancre le <c id='fallibilism'>faillibilisme</c> dans un projet collectif et autocorrecteur.",
     "en": "In <ph id='peirce'>Peirce</ph>, the indefinite community of all who inquire, whose final opinion, the one they are fated to agree upon at the ideal end of inquiry, defines <ax id='TRUTH_NATURE'>truth</ax> and the real. No individual and no generation possesses the true on its own: it is the point of convergence of an inquiry pushed far enough, constrained by a real independent of our desires. This community is not the cause of truth but the place where it shows itself, which anchors <c id='fallibilism'>fallibilism</c> in a collective, self-correcting project."

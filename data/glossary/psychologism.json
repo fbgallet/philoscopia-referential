@@ -1,6 +1,7 @@
 {
   "id": "psychologism",
   "term": { "fr": "Psychologisme", "en": "Psychologism" },
+  "aliases": { "fr": ["psychologiste"], "en": ["psychologistic"] },
   "definition": {
     "fr": "Le psychologisme est la thèse qui ramène les lois logiques ou idéales à de simples lois empiriques de l'esprit : les principes de la logique ne seraient que des régularités de notre façon de penser, variables et contingentes. <ph id='husserl'>Husserl</ph> le réfute dans les Prolégomènes des <w id='logical-investigations-husserl'>Recherches logiques</w> : faire dépendre la <ax id='TRUTH_NATURE'>validité du vrai</ax> de la constitution psychique aboutit à un <c>relativisme</c> qui se contredit lui-même, car cette thèse se voudrait elle-même universellement vraie. Aux lois idéales, intemporelles, il oppose ainsi leur irréductibilité aux faits psychiques qui les pensent.",
     "en": "Psychologism is the thesis that reduces logical or ideal laws to mere empirical laws of the mind: the principles of logic would be only regularities of how we happen to think, variable and contingent. <ph id='husserl'>Husserl</ph> refutes it in the Prolegomena to the <w id='logical-investigations-husserl'>Logical Investigations</w>: to make the <ax id='TRUTH_NATURE'>validity of the true</ax> depend on a psychic constitution leads to a self-refuting <c>relativism</c>, since that very thesis would claim to be universally true. Against it he sets the ideal, timeless laws and their irreducibility to the psychic facts that think them."

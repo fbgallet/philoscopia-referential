@@ -28,6 +28,7 @@ Se divertir n'est pas trahir sa vie, c'est la rendre habitable : nul ne peut reg
 
 - **Pourquoi ne supportons-nous pas le repos ?** : « Tout le malheur des hommes vient d'une seule chose, qui est de ne savoir pas demeurer en repos dans une chambre » : si nous fuyons le calme, est-ce la misère de notre condition qui remonte dès que le bruit cesse, comme le diagnostique Pascal, ou l'esprit est-il simplement fait pour le mouvement plus que pour le face-à-face avec soi ?
 - **L'attention captée** : Quand des dispositifs entiers sont conçus pour capter chaque minute disponible, se divertir est-il encore un choix qu'on assume, ou faut-il défendre son attention comme un bien rare, la diversion cessant d'être un art dès qu'elle est administrée ?
+- **Reprendre son attention** : Face à des dispositifs conçus pour la capter, peut-on vraiment se réapproprier son attention en s'y exerçant, se retirer, jeûner du flux, revenir au présent, ou ces techniques ne font-elles que colmater un mal qui nous dépasse ?
 
 ## Relations de fondation
 

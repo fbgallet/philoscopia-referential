@@ -1,6 +1,7 @@
 {
   "id": "principle-of-sufficient-reason",
   "term": { "fr": "Principe de raison suffisante", "en": "Principle of sufficient reason" },
+  "aliases": { "fr": ["raison suffisante"], "en": ["sufficient reason"] },
   "definition": {
     "fr": "Le principe de raison suffisante énonce que rien n'arrive sans une raison qui fait qu'il en est ainsi plutôt qu'autrement. Formulé par <ph id='leibniz'>Leibniz</ph>, il est au cœur du <c id='determinism'>déterminisme</c> : si tout effet a sa raison dans ses causes, une décision sans cause serait une exception inintelligible. Le récuser, ce n'est pas trouver une liberté, c'est renoncer à expliquer.",
     "en": "The principle of sufficient reason states that nothing happens without a reason that makes it so rather than otherwise. Formulated by <ph id='leibniz'>Leibniz</ph>, it lies at the heart of <c id='determinism'>determinism</c>: if every effect has its reason in its causes, a causeless decision would be an unintelligible exception. To reject it is not to find a freedom, but to give up explaining."

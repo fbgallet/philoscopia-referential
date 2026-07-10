@@ -1,6 +1,10 @@
 {
   "id": "impartiality",
   "term": { "fr": "Impartialité", "en": "Impartiality" },
+  "aliases": {
+    "fr": ["impartial", "impartiale"],
+    "en": ["impartial"]
+  },
   "definition": {
     "fr": "L'impartialité est l'exigence de compter chaque personne également, sans privilégier quiconque en raison de ses liens avec nous. Du point de vue moral impartial, la souffrance d'un inconnu pèse autant que celle d'un proche, et favoriser les siens apparaît comme un <bel>penchant</bel> que la raison doit corriger. <ph id='kant'>Kant</ph> en fait une condition de la loi morale ; <ph id='singer'>Singer</ph> l'étend à tout être capable de souffrir. <dif>Son revers est l'exigence parfois écrasante qu'elle impose, et la distance qu'elle peut creuser avec nos attachements les plus chers.</dif>",
     "en": "Impartiality is the demand to count every person equally, favoring no one on the grounds of their ties to us. From the impartial moral point of view, a stranger's suffering weighs as much as a loved one's, and favoring our own appears as a <bel>leaning</bel> that reason must correct. <ph id='kant'>Kant</ph> makes it a condition of the moral law; <ph id='singer'>Singer</ph> extends it to every being capable of suffering. <dif>Its flip side is the sometimes crushing demand it imposes, and the distance it can open up with our dearest attachments.</dif>"

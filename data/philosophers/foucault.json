@@ -3,6 +3,7 @@
   "stub": true,
   "id": "foucault",
   "name": { "fr": "Foucault", "en": "Foucault" },
+  "aliases": { "fr": ["foucaldien", "foucaldienne"], "en": ["Foucauldian"] },
   "summary": {
     "fr": "Philosophe français : il analyse le savoir comme indissociable du pouvoir et des discours qui, à chaque époque, déterminent ce qui peut être tenu pour vrai.",
     "en": "French philosopher: he analyses knowledge as inseparable from power and from the discourses that, in each era, determine what may be held to be true."

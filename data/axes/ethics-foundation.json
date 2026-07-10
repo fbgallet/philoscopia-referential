@@ -211,7 +211,8 @@
         { "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" }
       ],
       "title": { "fr": "Peut-on apprendre à être bon ?", "en": "Can one learn to be good?" },
-      "explicitation": { "fr": "La bonté s'enseigne-t-elle, comme un savoir, ou s'acquiert-elle par l'habitude ? Et comment se fait-il qu'on connaisse parfois le bien sans parvenir à le faire ?", "en": "Can goodness be taught, like a body of knowledge, or is it acquired through habit? And how is it that we sometimes know the good yet fail to do it?" }
+      "explicitation": { "fr": "La bonté s'enseigne-t-elle, comme un savoir, ou s'acquiert-elle par l'habitude ? Et comment se fait-il qu'on connaisse parfois le bien sans parvenir à le faire ?", "en": "Can goodness be taught, like a body of knowledge, or is it acquired through habit? And how is it that we sometimes know the good yet fail to do it?" },
+      "practices": ["imitating-the-prudent", "the-inner-sculptor", "evening-examen", "listening-to-conscience"]
     },
     {
       "id": "absolute-prohibitions",

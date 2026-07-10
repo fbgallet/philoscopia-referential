@@ -3,6 +3,7 @@
   "stub": true,
   "id": "pascal",
   "name": { "fr": "Pascal", "en": "Pascal" },
+  "aliases": { "fr": ["pascalien", "pascalienne"], "en": ["Pascalian"] },
   "summary": {
     "fr": "Mathématicien et philosophe français : penseur du « pari », il tient la foi pour affaire de cœur plus que de raison et fait de la misère humaine le chemin qui mène à Dieu.",
     "en": "French mathematician and philosopher: thinker of the \"wager\", he holds faith to be a matter of the heart more than of reason and makes human wretchedness the path that leads to God."

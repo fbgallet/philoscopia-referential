@@ -1,6 +1,7 @@
 {
   "id": "golden-mean",
   "term": { "fr": "Le juste milieu", "en": "The golden mean" },
+  "aliases": { "fr": ["mésotès"], "en": ["mesotes"] },
   "definition": {
     "fr": "Le juste milieu (en grec <ety>mésotès</ety>) est la conception <ph id='aristotle'>Aristote</ph>licienne de la vertu comme position médiane entre un excès et un défaut : le courage se tient entre la témérité et la lâcheté, la générosité entre la prodigalité et l'avarice. Ce milieu n'est pas une moyenne arithmétique fixe, mais le point ajusté à la situation, déterminé par <c id='phronesis'>la prudence</c> de l'homme avisé. La vertu est ainsi un état stable de l'âme qui vise le juste degré dans les passions et les actions.",
     "en": "The golden mean (Greek <ety>mesotes</ety>) is <ph id='aristotle'>Aristotle</ph>'s conception of virtue as a middle position between an excess and a deficiency: courage stands between recklessness and cowardice, generosity between prodigality and stinginess. This mean is not a fixed arithmetic average but the point fitted to the situation, settled by the <c id='phronesis'>practical wisdom</c> of the prudent person. Virtue is thus a stable disposition of the soul aiming at the right degree in feelings and actions."

@@ -3,6 +3,10 @@
   "stub": true,
   "id": "burke",
   "name": { "fr": "Burke", "en": "Burke" },
+  "aliases": {
+    "fr": ["burkéen", "burkéenne"],
+    "en": ["Burkean"]
+  },
   "summary": {
     "fr": "Homme politique et penseur anglo-irlandais : critique de la Révolution française, il voit dans les institutions héritées une sagesse accumulée et préfère la réforme prudente à la refondation.",
     "en": "Anglo-Irish statesman and thinker: a critic of the French Revolution, he sees in inherited institutions an accumulated wisdom and prefers prudent reform to wholesale refounding."

@@ -72,6 +72,7 @@
 - *[Criton](crito-plato.md)* : Platon (399 av. J.-C.)
 - *[Ménon](meno-plato.md)* : Platon (385 av. J.-C.)
 - *[Banquet](symposium-plato.md)* : Platon (385 av. J.-C.)
+- *[Gorgias](gorgias-plato.md)* : Platon (380 av. J.-C.)
 - *[Phédon](phaedo-plato.md)* : Platon (380 av. J.-C.)
 - *[République](republic-plato.md)* : Platon (375 av. J.-C.)
 - *[Phèdre](phaedrus-plato.md)* : Platon (370 av. J.-C.)

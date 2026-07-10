@@ -1,0 +1,13 @@
+{
+  "id": "pleonexia",
+  "term": { "fr": "Pleonexia (le désir d'avoir plus)", "en": "Pleonexia (the drive to have more)" },
+  "aliases": { "fr": ["pleonexia"], "en": ["pleonexia"] },
+  "definition": {
+    "fr": "La pleonexia est le désir d'avoir toujours plus que sa part et plus qu'autrui : l'appétit de l'emporter, de posséder et de dominer au-delà de ce qui revient à chacun. La pensée grecque y voit une racine de l'injustice, que la tempérance et l'égalité viennent contenir. Dans le <w id='gorgias-plato'>Gorgias</w>, <chr id='callicles'>Calliclès</chr> la retourne en droit naturel : l'homme supérieur a raison de vouloir davantage, et se contenter d'une part égale serait, selon lui, une âme d'esclave.",
+    "en": "Pleonexia is the desire to have always more than one's share and more than others: the appetite to prevail, to possess and to dominate beyond what falls to each. Greek thought sees in it a root of injustice, held in check by temperance and equality. In the <w id='gorgias-plato'>Gorgias</w>, <chr id='callicles'>Callicles</chr> turns it into a natural right: the superior man is right to want more, and to be content with an equal share would be, in his view, a slave's soul."
+  },
+  "relatedAxes": ["SELF_INTEREST", "DISTRIBUTIVE_JUSTICE", "MORAL_SCOPE"],
+  "relatedTerms": ["physis-nomos", "akolasia"],
+  "positions": [{ "axisId": "SELF_INTEREST", "poleId": "ETHICAL_EGOISM" }],
+  "updatedAt": "2026-07-07T00:00:00.000Z"
+}

@@ -26,6 +26,10 @@
         "type": "string",
         "enum": [
           "PERSON",
+          "RELATION",
+          "STRUCTURE",
+          "IDEA",
+          "ANIMAL",
           "ACTIVITY",
           "PLACE",
           "OBJECT",
@@ -36,6 +40,27 @@
       },
       "why": {
         "type": "string"
+      },
+      "exemplar": {
+        "type": "boolean"
+      },
+      "facets": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "enum": [
+            "THEORY",
+            "POSITION",
+            "THINKING_STYLE",
+            "COMMITMENTS",
+            "ACTIONS",
+            "ATTITUDES"
+          ]
+        }
+      },
+      "figureRef": {
+        "type": "string",
+        "pattern": "^(ph|mv|chr):[a-z0-9][a-z0-9-]*$"
       },
       "revealedBeliefs": {
         "type": "array",

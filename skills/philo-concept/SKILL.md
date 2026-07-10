@@ -23,7 +23,7 @@ For a word the user leans on heavily ("authenticity", "energy", their private co
 1. **Candidate definition.** They attempt one sentence: "X is…". Don't polish it for them.
 2. **Counterexample testing** (the Socratic core). Too wide: find something that fits the definition but isn't X. Too narrow: an X the definition excludes. Borderline cases: what do they reveal about the real criterion in use? Iterate the definition through 2-3 rounds — the user rewrites it each time (formulation first).
 3. **Distinctions.** What neighbors must X be distinguished from (the near-synonym that isn't one)? Check the glossary for existing neighbors (`search`); naming the difference sharpens both.
-4. **What work does it do?** A personal concept earns its keep by what it lets the user think or decide. If it does real work, record it: `add_entry` concepts (personal shape: `term`, `definition` in its final user-written form, `clarity`, `importance`), linked via `relatedConcepts` to its referential neighbors.
+4. **What work does it do?** A personal concept earns its keep by what it lets the user think or decide. If it does real work, record it: `add_entry` concepts (personal shape: `term`, `definition` in its final user-written form, `clarity`), linked via `relatedConcepts` to its referential neighbors.
 
 ## Conduct
 

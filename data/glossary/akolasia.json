@@ -1,0 +1,16 @@
+{
+  "id": "akolasia",
+  "term": { "fr": "Akolasia (intempérance)", "en": "Akolasia (intemperance)" },
+  "aliases": { "fr": ["akolasia"], "en": ["akolasia"] },
+  "definition": {
+    "fr": "L'akolasia est l'intempérance ou la licence : l'absence de maîtrise de soi, l'abandon aux appétits qu'on ne cherche ni à trier ni à retenir. <ety>Du grec a- privatif et kolazein, réprimer ou châtier : littéralement ce qui n'est pas contenu.</ety> Elle est l'exact opposé de la sōphrosynē, la tempérance, que la morale grecque tient pour une vertu cardinale. Là où la tradition la condamne, <chr id='callicles'>Calliclès</chr> en fait, dans le <w id='gorgias-plato'>Gorgias</w>, la condition même du bonheur : laisser ses <ax id='DESIRE'>désirs</ax> grandir sans frein et avoir la force de les combler.",
+    "en": "Akolasia is intemperance or license: the lack of self-mastery, the surrender to appetites one neither sorts nor restrains. <ety>From Greek a- (privative) and kolazein, to restrain or chastise: literally, the uncurbed.</ety> It is the exact opposite of sōphrosynē, temperance, which Greek ethics holds to be a cardinal virtue. Where the tradition condemns it, <chr id='callicles'>Callicles</chr>, in the <w id='gorgias-plato'>Gorgias</w>, makes it the very condition of happiness: letting one's <ax id='DESIRE'>desires</ax> grow unchecked and having the strength to fill them."
+  },
+  "relatedAxes": ["DESIRE", "BODILY_PLEASURES", "SOVEREIGN_GOOD"],
+  "relatedTerms": ["pleonexia", "hedonism"],
+  "positions": [
+    { "axisId": "DESIRE", "poleId": "AFFIRMATION" },
+    { "axisId": "BODILY_PLEASURES", "poleId": "CELEBRATION" }
+  ],
+  "updatedAt": "2026-07-07T00:00:00.000Z"
+}

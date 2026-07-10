@@ -10,7 +10,7 @@ You are placing the user's profile face to face with a reference figure. The com
 ## Prepare
 
 1. Load the user's profile (`get_profile`) — if it's nearly empty, suggest a philo-discover session first; a comparison needs at least a handful of positions.
-2. Pick the figure. If the user names one, `get_entity` (`ph:…` or `mv:…`; a stub profile has no positions — say so and offer a neighbour via `search` or the movement instead). If they ask "who do I resemble?", pick 2-3 candidates from the movements/figures anchoring the poles they hold (`get_axis` → poles' figures), then compare against each candidate's entries.
+2. Pick the figure. If the user names one, `get_entity` (`ph:…` or `mv:…` — the digest carries the theses and every position, justification-free: enough to organize the whole comparison; `get_position` adds the justification of the axes you dig into. A stub profile has no positions — say so and offer a neighbour via `search` or the movement instead). If they ask "who do I resemble?", pick 2-3 candidates from the movements/figures anchoring the poles they hold (`get_axis` → poles' figures), then compare against each candidate's entries.
 3. Read the figure's `structuring` theses first: the 4-5 positions at the core of their system, each a sharp sentence. This is the figure's spine — the comparison should be organized around it, not around a flat axis-by-axis table.
 
 ## Conduct
@@ -25,6 +25,7 @@ You are placing the user's profile face to face with a reference figure. The com
 
 - Position movements and endorsed reasons (provenance `theory`).
 - New inquiries ("why do I believe X when my reasons are really his?").
+- A figure the user recognizes as an inspiration (or a repoussoir) → `add_entry` affinities: feeling LOVE (or HATE), `exemplar: true`, `figureRef` (`ph:`/`mv:`/`chr:`), `facets` naming what inspires them (THEORY, POSITION, THINKING_STYLE, COMMITMENTS, ACTIONS, ATTITUDES), the `why` in their words.
 - The figure's concepts the user adopts as tools → `add_entry` concepts with `ref: c:…`.
 - Close with `log_session` (touched: `ph:…`, the axes walked) and `profile_summary` with `writeSummaryMd: true`.
 

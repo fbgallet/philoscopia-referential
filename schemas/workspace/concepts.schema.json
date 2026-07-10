@@ -55,13 +55,6 @@
               "UNDEFINED"
             ]
           },
-          "importance": {
-            "type": "string",
-            "enum": [
-              "FOUNDATIONAL",
-              "INFORMATIONAL"
-            ]
-          },
           "relatedConcepts": {
             "type": "array",
             "items": {

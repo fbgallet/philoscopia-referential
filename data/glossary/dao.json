@@ -1,6 +1,7 @@
 {
   "id": "dao",
   "term": { "fr": "Dao 道 (la Voie)", "en": "Dao 道 (the Way)" },
+  "aliases": { "fr": ["tao"], "en": ["tao"] },
   "definition": {
     "fr": "Le Dao, ou « la Voie », est dans la pensée taoïste la source ineffable et le cours spontané de toutes choses : un principe qui précède toute distinction et que le langage ne peut saisir sans le trahir. Il n'est ni un dieu ni une loi imposée du dehors, mais le mouvement même de la réalité, auquel le sage s'accorde par le <c id='wu-wei'>wu wei</c> en suivant le <c id='ziran'>ziran</c>. Il marque un fondement qui se tient à la limite de la <c id='transcendence'>transcendance</c> et de l'immanence : au-delà des choses, et pourtant tout entier dans leur déploiement.",
     "en": "The Dao, or \"the Way,\" is in Taoist thought the ineffable source and spontaneous course of all things: a principle that precedes every distinction and that language cannot grasp without betraying it. It is neither a god nor a law imposed from outside, but the very movement of reality, to which the sage attunes through <c id='wu-wei'>wu wei</c> by following <c id='ziran'>ziran</c>. It marks a ground poised at the edge of <c id='transcendence'>transcendence</c> and immanence: beyond things, and yet wholly within their unfolding."

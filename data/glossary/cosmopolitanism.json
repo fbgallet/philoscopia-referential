@@ -1,6 +1,7 @@
 {
   "id": "cosmopolitanism",
   "term": { "fr": "Cosmopolitisme", "en": "Cosmopolitanism" },
+  "aliases": { "fr": ["citoyen du monde"], "en": ["citizen of the world"] },
   "definition": {
     "fr": "Le cosmopolitisme tient que l'on est d'abord citoyen du monde (kosmos), et non d'une cité particulière : la communauté morale s'étend à l'humanité entière, par-delà l'arbitraire des frontières et de la naissance. Le mot kosmopolitēs est forgé par <ph id='diogenes'>Diogène</ph>, qui en fait un refus provocateur de toute patrie ; les stoïciens le reprennent en l'adossant à une cité universelle réglée par le <c id='logos'>logos</c>. Il s'oppose à l'enracinement dans une <ax id='BELONGING'>appartenance</ax> locale et tend à relativiser les <c id='special-obligations'>devoirs particuliers</c> envers les proches.",
     "en": "Cosmopolitanism holds that one is first a citizen of the world (kosmos), not of a particular city: the moral community extends to all of humanity, beyond the arbitrariness of borders and of birth. The word kosmopolitēs is coined by <ph id='diogenes'>Diogenes</ph>, who turns it into a provocative refusal of any homeland; the Stoics take it up by backing it with a universal city ordered by the <c id='logos'>logos</c>. It stands against rootedness in a local <ax id='BELONGING'>belonging</ax> and tends to relativise the <c id='special-obligations'>special obligations</c> owed to one's near ones."

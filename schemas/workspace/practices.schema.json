@@ -33,17 +33,6 @@
           "AS_NEEDED"
         ]
       },
-      "consistency": {
-        "default": "GOOD",
-        "type": "string",
-        "enum": [
-          "EXCELLENT",
-          "GOOD",
-          "INCONSISTENT",
-          "STRUGGLING",
-          "ABANDONED"
-        ]
-      },
       "purpose": {
         "type": "string"
       },
@@ -78,7 +67,6 @@
       "id",
       "statement",
       "kind",
-      "frequency",
       "createdAt",
       "updatedAt"
     ],

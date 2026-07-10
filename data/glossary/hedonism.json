@@ -1,6 +1,10 @@
 {
   "id": "hedonism",
   "term": { "fr": "Hédonisme", "en": "Hedonism" },
+  "aliases": {
+    "fr": ["hédoniste"],
+    "en": ["hedonistic", "hedonist"]
+  },
   "definition": {
     "fr": "L'hédonisme fait du plaisir le souverain bien et le critère ultime de la vie réussie. Il peut être prudent et calculateur, comme chez <ph id='epicurus'>Épicure</ph> qui ne retient que les plaisirs simples et nécessaires, et sa version moderne inspire <mv id='utilitarianism'>l'utilitarisme</mv>. <te id='experience-machine'>La machine à expériences</te> de Nozick met à l'épreuve sa thèse centrale, l'idée que seul le plaisir ressenti compte ; il se distingue en cela de <c id='eudaimonism'>l'eudémonisme</c>, qui vise le bonheur comme accomplissement.",
     "en": "Hedonism makes pleasure the sovereign good and the ultimate criterion of a successful life. It can be prudent and calculating, as with <ph id='epicurus'>Epicurus</ph>, who retains only simple and necessary pleasures, and its modern version inspires <mv id='utilitarianism'>utilitarianism</mv>. Nozick's <te id='experience-machine'>experience machine</te> tests its central claim, the idea that only felt pleasure matters; in this it differs from <c id='eudaimonism'>eudaimonism</c>, which aims at happiness as fulfillment."

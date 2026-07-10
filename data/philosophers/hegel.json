@@ -3,6 +3,10 @@
   "stub": true,
   "id": "hegel",
   "name": { "fr": "Hegel", "en": "Hegel" },
+  "aliases": {
+    "fr": ["hégélien", "hégélienne", "hégélianisme"],
+    "en": ["Hegelian", "Hegelianism"]
+  },
   "summary": {
     "fr": "Philosophe allemand de l'esprit et de l'histoire : il pense le réel comme déploiement rationnel, et la liberté comme accomplie dans les institutions de l'État, non contre elles.",
     "en": "German philosopher of spirit and history: he conceives the real as a rational unfolding, and freedom as fulfilled within the institutions of the state, not against them."

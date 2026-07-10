@@ -136,6 +136,34 @@
         "fr": "Quand des dispositifs entiers sont conçus pour capter chaque minute disponible, se divertir est-il encore un choix qu'on assume, ou faut-il défendre son attention comme un bien rare, la diversion cessant d'être un art dès qu'elle est administrée ?",
         "en": "When entire devices are designed to capture every available minute, is diverting oneself still a choice one owns, or must attention be defended as a scarce good, diversion ceasing to be an art the moment it is administered?"
       }
+    },
+    {
+      "id": "reclaiming-attention",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "l'exercice de l'attention", "en": "the exercise of attention" },
+      "mode": "PRACTICAL",
+      "sphere": "EXISTENTIAL",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "hygiène numérique", "en": "digital hygiene" },
+        { "fr": "déprise", "en": "disengagement" },
+        { "fr": "pleine conscience", "en": "mindfulness" },
+        { "fr": "recueillement", "en": "recollection" }
+      ],
+      "poles": ["RECOLLECTION"],
+      "anchors": [
+        { "name": { "fr": "Pascal", "en": "Pascal" }, "kind": "PHILOSOPHER", "slug": "pascal" },
+        { "name": { "fr": "Simone Weil", "en": "Simone Weil" }, "kind": "PHILOSOPHER", "slug": "simone-weil" },
+        { "name": { "fr": "les traditions contemplatives", "en": "the contemplative traditions" }, "kind": "TRADITION" }
+      ],
+      "doorways": [{ "axis": "TECHNOLOGY" }],
+      "title": { "fr": "Reprendre son attention", "en": "Reclaiming attention" },
+      "explicitation": {
+        "fr": "Face à des dispositifs conçus pour la capter, peut-on vraiment se réapproprier son attention en s'y exerçant, se retirer, jeûner du flux, revenir au présent, ou ces techniques ne font-elles que colmater un mal qui nous dépasse ?",
+        "en": "Faced with devices designed to capture it, can we really reclaim our attention by working at it, withdrawing, fasting from the feed, returning to the present, or do such techniques only paper over a trouble far larger than us?"
+      },
+      "practices": ["staying-quiet-in-a-room", "the-fasting-of-the-heart-mind", "the-inward-turn", "the-present-task", "naming-what-the-feed-takes", "reclaiming-your-time"]
     }
   ]
 }

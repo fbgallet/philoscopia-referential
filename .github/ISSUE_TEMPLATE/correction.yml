@@ -1,0 +1,43 @@
+name: Correction (fact, source or glossary)
+description: A factual error, a wrong or missing source on a justification, or a glossary fix (definition, etymology, related terms).
+title: "[fix] "
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        For anything that is a straightforward error rather than a debatable placement. If you are contesting where a figure sits on an axis, use **Challenge a position** instead.
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Kind of correction
+      options:
+        - Factual error (date, attribution, name, work)
+        - Source (wrong, misquoted, or missing on an existing justification)
+        - Glossary (definition, etymology, related terms)
+        - Typo / formatting / tag
+      default: 0
+    validations:
+      required: true
+  - type: input
+    id: file
+    attributes:
+      label: File or entity
+      description: The entity id or path in data/ (e.g. `glossary/eudaimonia`, `works/ethics-spinoza`).
+      placeholder: glossary/eudaimonia
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What is wrong, and the correction
+      description: Quote the current text and give the fix. For both languages if it affects both.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources
+      description: Required for factual and source corrections; helpful for glossary.
+    validations:
+      required: false

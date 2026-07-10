@@ -1,6 +1,10 @@
 {
   "id": "greatest-happiness-principle",
   "term": { "fr": "Le principe du plus grand bonheur", "en": "Greatest happiness principle" },
+  "aliases": {
+    "fr": ["le plus grand bien du plus grand nombre"],
+    "en": ["greatest good for the greatest number"]
+  },
   "definition": {
     "fr": "Le principe du plus grand bonheur, formulé par <ph id='bentham'>Bentham</ph> puis repris par <ph id='mill'>Mill</ph>, énonce que l'action juste est celle qui maximise le bonheur de l'ensemble des êtres concernés. La moralité ne se juge alors ni à l'intention ni au respect d'une règle, mais aux <ax id='ETHICS_FOUNDATION'>conséquences</ax> : il faut peser plaisirs et peines pour le plus grand nombre. Reposant sur l'idée que le bien dernier est le plaisir, il prolonge l'<c id='hedonism'>hédonisme</c> à l'échelle collective.",
     "en": "The greatest happiness principle, formulated by <ph id='bentham'>Bentham</ph> and taken up by <ph id='mill'>Mill</ph>, holds that the right act is the one that maximizes the happiness of all those affected. Morality is then judged neither by intention nor by adherence to a rule, but by <ax id='ETHICS_FOUNDATION'>consequences</ax>: one must weigh pleasures and pains for the greatest number. Resting on the idea that the ultimate good is pleasure, it extends <c id='hedonism'>hedonism</c> to a collective scale."
