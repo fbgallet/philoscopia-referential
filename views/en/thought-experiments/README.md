@@ -15,11 +15,13 @@
 - [The eternal return](the-eternal-return.md) (Nietzsche)
 - [The experience machine](experience-machine.md) (Robert Nozick)
 - [The Just Man Struck by Misfortune](fragility-of-goodness.md) (Aristotle)
+- [The Milgram experiment](milgram.md) (Stanley Milgram)
 - [The ring of Gyges](ring-of-gyges.md) (Plato)
 - [The teletransporter](teletransporter.md) (Derek Parfit)
 - [The trolley problem](trolley-problem.md) (Philippa Foot)
 - [The Veil of Ignorance](veil-of-ignorance.md) (Rawls)
 - [The Watch and the Watchmaker](design-argument.md) (Paley)
+- [To each their customs?](funeral-customs.md) (Herodotus)
 - [Wilt Chamberlain: Liberty against Equality](wilt-chamberlain.md) (Nozick)
 
 ---

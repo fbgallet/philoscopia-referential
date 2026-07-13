@@ -1,0 +1,74 @@
+{
+  "id": "control-dichotomy-sour-grapes-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "CONTROL_SCOPE", "poleId": "DICHOTOMY_OF_CONTROL" },
+  "name": { "fr": "La liberté du renard", "en": "The fox's freedom" },
+  "claim": {
+    "fr": "Ne vouloir que ce qui dépend de soi, n'est-ce pas régler ses désirs sur son impuissance ?",
+    "en": "To want only what depends on you, is that not tailoring your desires to your powerlessness?"
+  },
+  "summary": {
+    "fr": "La sérénité du sage pourrait n'être qu'un renoncement déguisé : on cesse de vouloir ce qu'on ne peut atteindre, puis on appelle cela liberté.",
+    "en": "The sage's serenity might be only a disguised renunciation: we stop wanting what we cannot reach, then call it freedom."
+  },
+  "development": [
+    {
+      "fr": "Le sage dit ne plus rien désirer de ce qu'il ne maîtrise pas. Mais comment a-t-il appris à ne plus le vouloir ? Souvent en se persuadant que cela ne valait pas d'être voulu.",
+      "en": "The sage says he no longer desires anything he does not control. But how did he learn to stop wanting it? Often by persuading himself that it was not worth wanting."
+    },
+    {
+      "fr": "C'est le geste du renard de la fable, qui déclare les raisins trop verts parce qu'il ne peut les atteindre. <ph id='nietzsche'>Nietzsche</ph> y voyait le ressort d'une morale de la résignation : faute de pouvoir, on érige son impuissance en vertu.",
+      "en": "It is the gesture of the fox in the fable, who declares the grapes too sour because he cannot reach them. <ph id='nietzsche'>Nietzsche</ph> saw in it the mainspring of a morality of resignation: lacking power, one makes a virtue of one's powerlessness."
+    },
+    {
+      "fr": "Si ma sérénité exige de ne désirer que ce que je suis sûr d'obtenir, elle ne grandit qu'à mesure que se rétrécit ce à quoi je tiens. C'est une paix réelle, mais payée d'un appauvrissement de la vie.",
+      "en": "If my serenity requires desiring only what I am sure to obtain, it grows only as what I care about shrinks. It is a real peace, but paid for by an impoverishment of life."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la liberté du sage pourrait n'être pas une conquête, mais un renoncement déguisé : la tranquillité de qui a cessé de vouloir, faute de pouvoir.",
+    "en": "So the sage's freedom might be no conquest, but a renunciation in disguise: the calm of one who has ceased to want, for want of power."
+  },
+  "difficulty": 2,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "L'objection touche juste : ma tranquillité ressemble parfois à des attentes que j'ai rabaissées. Il me faut aussi tenir à des choses qui ne dépendent pas de moi, et agir pour elles.",
+        "en": "The objection hits home: my calm sometimes looks like expectations I have lowered. I must also hold to things that do not depend on me, and act for them."
+      },
+      "hints": [{ "axisId": "CONTROL_SCOPE", "value": { "kind": "scalar", "value": 0 }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous rendez à l'action une part de ce que l'acceptation avait écarté : la voie du discernement.",
+        "en": "You hand back to action a share of what acceptance had set aside: the path of discernment."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je garde la voie stoïcienne, mais je la sépare du reniement : accepter ce que je ne peux changer, sans me convaincre que rien au-dehors ne vaut d'être désiré.",
+        "en": "I keep the Stoic path, but set it apart from self-denial: to accept what I cannot change, without convincing myself that nothing outside is worth desiring."
+      },
+      "hints": [{ "axisId": "CONTROL_SCOPE", "value": { "kind": "scalar", "value": -0.3 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous tenez l'acceptation dans son sens exact : non rapetisser ses désirs, mais ne pas remettre sa paix au hasard.",
+        "en": "You hold acceptance in its exact sense: not shrinking your desires, but not leaving your peace to chance."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : voir lucidement ce qui ne dépend pas de moi n'est pas du dépit. Le calme du sage est plus plein, non plus pauvre, que l'inquiétude de qui veut tout.",
+        "en": "I refute it: seeing clearly what does not depend on me is not spite. The sage's calm is fuller, not poorer, than the restlessness of one who wants everything."
+      },
+      "hints": [{ "axisId": "CONTROL_SCOPE", "value": { "kind": "scalar", "value": -1 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous distinguez la sérénité du renoncement amer : renoncer à l'emprise sur le monde n'est pas renoncer à la vie.",
+        "en": "You distinguish serenity from bitter renunciation: to give up your grip on the world is not to give up on life."
+      }
+    }
+  ],
+  "problems": ["acceptance-or-resignation"],
+  "targets": ["control-dichotomy-inner-sovereignty"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

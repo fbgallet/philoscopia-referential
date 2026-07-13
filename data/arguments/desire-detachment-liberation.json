@@ -1,0 +1,55 @@
+{
+  "id": "desire-detachment-liberation",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "DESIRE", "poleId": "DETACHMENT" },
+  "name": { "fr": "La racine de la souffrance", "en": "The root of suffering" },
+  "claim": {
+    "fr": "Le désir nous enchaîne à ce qui nous échappe : s'en libérer, c'est tarir la source du tourment.",
+    "en": "Desire chains us to what escapes us: to free oneself from it is to dry up the source of torment."
+  },
+  "summary": {
+    "fr": "Vouloir ce qui ne dépend pas de nous, c'est remettre sa paix entre les mains du hasard ; en relâchant cette prise, on cesse d'être l'esclave de ce qu'on ne maîtrise pas.",
+    "en": "To want what does not depend on us is to place our peace in the hands of chance; by loosening that grip, we cease to be the slave of what we do not control."
+  },
+  "development": [
+    {
+      "fr": "Désirer, c'est attendre quelque chose du monde : que tel événement arrive, que telle personne demeure, que telle chose nous revienne. Or rien de tout cela ne <ax id='CONTROL_SCOPE' pole='DICHOTOMY_OF_CONTROL'>dépend entièrement de nous</ax>.",
+      "en": "To desire is to expect something of the world: that this event happen, that this person stay, that this thing come back to us. Yet none of that <ax id='CONTROL_SCOPE' pole='DICHOTOMY_OF_CONTROL'>depends entirely on us</ax>."
+    },
+    {
+      "fr": "Notre souffrance naît précisément de cet écart : non des choses elles-mêmes, mais de notre exigence qu'elles soient autres qu'elles ne sont. Le <mv id='buddhism'>bouddhisme</mv> nomme cette soif <c id='tanha'>tanha</c>, et y voit l'origine du <c id='dukkha'>dukkha</c> ; les <mv id='stoicism'>stoïciens</mv> rappellent que rien ne nous trouble que notre jugement sur ce qui ne nous appartient pas.",
+      "en": "Our suffering arises precisely from this gap: not from things themselves, but from our demand that they be other than they are. <mv id='buddhism'>Buddhism</mv> calls this thirst <c id='tanha'>tanha</c>, and sees in it the origin of <c id='dukkha'>dukkha</c>; the <mv id='stoicism'>Stoics</mv> remind us that nothing troubles us but our judgment about what is not ours."
+    },
+    {
+      "fr": "Si la souffrance vient de l'attachement, la délivrance vient d'en relâcher la prise : non plus exiger, mais accueillir. Ne plus vouloir que les choses soient autres, c'est leur ôter tout pouvoir de nous blesser.",
+      "en": "If suffering comes from attachment, deliverance comes from loosening its grip: no longer to demand, but to welcome. To stop wanting things to be otherwise is to strip them of all power to wound us."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc apaiser ses désirs n'est pas se mutiler, mais se rendre libre : c'est reprendre à l'extérieur le gouvernement de sa propre paix.",
+    "en": "So to quiet one's desires is not to maim oneself, but to set oneself free: it is to take back from the outside the governing of one's own peace."
+  },
+  "deepenings": [
+    {
+      "id": "what-depends-on-us",
+      "label": { "fr": "Ce qui dépend de nous", "en": "What depends on us" },
+      "targetStep": 2,
+      "development": [
+        {
+          "fr": "<ph id='epictetus'>Épictète</ph> partage tout en deux : ce qui dépend de nous (nos jugements, nos désirs) et ce qui n'en dépend pas (le corps, la fortune, l'opinion d'autrui) ; toute la sagesse tient à ne désirer que le premier. C'est la <c id='dichotomy-of-control'>dichotomie du contrôle</c>.",
+          "en": "<ph id='epictetus'>Epictetus</ph> divides everything in two: what depends on us (our judgments, our desires) and what does not (the body, fortune, the opinion of others); all wisdom lies in desiring only the first. This is the <c id='dichotomy-of-control'>dichotomy of control</c>."
+        },
+        {
+          "fr": "Le <mv id='buddhism'>bouddhisme</mv> va plus loin : l'extinction de la soif est le <c id='nirvana'>nirvana</c> lui-même, non un vide morne, mais la fin de ce qui nous brûlait.",
+          "en": "<mv id='buddhism'>Buddhism</mv> goes further: the extinction of thirst is <c id='nirvana'>nirvana</c> itself, not a dull emptiness, but the end of what was burning us."
+        }
+      ],
+      "source": { "author": { "fr": "Épictète", "en": "Epictetus" }, "figures": [{ "name": { "fr": "Épictète", "en": "Epictetus" }, "kind": "PHILOSOPHER", "slug": "epictetus" }], "work": { "fr": "Manuel", "en": "Enchiridion" }, "workId": "enchiridion-epictetus" }
+    }
+  ],
+  "difficulty": 1,
+  "source": { "author": { "fr": "Épictète ; le Bouddha", "en": "Epictetus; the Buddha" }, "figures": [{ "name": { "fr": "Épictète", "en": "Epictetus" }, "kind": "PHILOSOPHER", "slug": "epictetus" }, { "name": { "fr": "Le Bouddha", "en": "The Buddha" }, "kind": "PHILOSOPHER", "slug": "buddha" }], "work": { "fr": "Manuel ; les quatre nobles vérités", "en": "Enchiridion; the four noble truths" } },
+  "test": "desire-detachment-paradox-objection",
+  "problems": ["lack-or-power"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

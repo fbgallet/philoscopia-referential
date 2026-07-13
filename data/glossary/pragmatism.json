@@ -1,0 +1,13 @@
+{
+  "id": "pragmatism",
+  "term": { "fr": "Pragmatisme", "en": "Pragmatism" },
+  "aliases": { "fr": ["pragmatiste"], "en": ["pragmatist"] },
+  "definition": {
+    "fr": "Le pragmatisme juge une idée à ses effets pratiques : la vérité d'une croyance n'est pas sa correspondance à un réel figé, mais ce qu'elle permet de faire, de prévoir et de résoudre. Né aux États-Unis avec <ph id='peirce'>Peirce</ph>, <ph id='william-james'>William James</ph> et Dewey, il définit le vrai comme ce qui « réussit » à l'épreuve de l'expérience. On lui objecte de confondre le vrai et l'utile. À distinguer du sens courant de « pragmatique », simple réalisme pratique.",
+    "en": "Pragmatism judges an idea by its practical effects: the truth of a belief is not its correspondence to a fixed reality, but what it lets us do, predict and resolve. Born in the United States with <ph id='peirce'>Peirce</ph>, <ph id='william-james'>William James</ph> and Dewey, it defines the true as what \"works\" under the test of experience. The standard objection is that it conflates the true and the useful. To be distinguished from the everyday sense of \"pragmatic\", mere practical realism."
+  },
+  "relatedAxes": ["TRUTH_NATURE", "KNOWLEDGE_STATUS"],
+  "relatedTerms": [],
+  "positions": [{ "axisId": "TRUTH_NATURE", "poleId": "PRAGMATISM" }],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

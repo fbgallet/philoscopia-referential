@@ -1,0 +1,92 @@
+{
+  "id": "project-deferred-life",
+  "kind": "OBJECTS",
+  "position": { "axisId": "TIME_ORIENTATION", "poleId": "PROJECT" },
+  "name": { "fr": "On remet toujours de vivre", "en": "We always put off living" },
+  "claim": {
+    "fr": "À toujours vivre pour demain, on s'aperçoit trop tard qu'on n'a jamais vécu.",
+    "en": "By always living for tomorrow, one realizes too late that one has never lived."
+  },
+  "summary": {
+    "fr": "Sénèque le reprochait déjà aux affairés : occupé à préparer sa vie, on la dépense tout entière à la remettre, et l'on meurt en pleins préparatifs.",
+    "en": "Seneca already reproached the busy with it: occupied in preparing one's life, one spends the whole of it deferring it, and one dies in the midst of the preparations."
+  },
+  "development": [
+    {
+      "fr": "Admettons qu'exister soit se projeter. Le danger n'en est que plus grand : car le projet repousse toujours la vie au moment où il sera accompli, et ce moment, sans cesse, recule.",
+      "en": "Suppose that to exist is to project oneself. The danger is only the greater: for the project always pushes life off to the moment when it will be accomplished, and that moment endlessly recedes."
+    },
+    {
+      "fr": "<ph id='seneca'>Sénèque</ph>, dans <w id='on-the-shortness-of-life-seneca'>De la brièveté de la vie</w>, l'observait chez les affairés de Rome : tout entiers à leurs entreprises, ils vivaient comme s'ils devaient vivre toujours, remettant le meilleur à plus tard. Ils règlent leur vie sur le lointain, et la mort les surprend en pleins préparatifs, avant qu'ils aient commencé de vivre.",
+      "en": "<ph id='seneca'>Seneca</ph>, in <w id='on-the-shortness-of-life-seneca'>On the Shortness of Life</w>, observed it among the busy men of Rome: wholly given to their undertakings, they lived as though they would live forever, putting off the best until later. They arrange their lives for the far off, and death surprises them in the midst of their preparations, before they have begun to live."
+    },
+    {
+      "fr": "Ce report n'est pas un accident du projet, c'en est la pente : l'agitation qui se croit utile est souvent un <c id='divertissement'>divertissement</c> de plus, qui remplit les heures pour n'avoir pas à se demander si on les vit. On gagne du temps partout, sauf à vivre.",
+      "en": "This deferral is no accident of the project, it is its slope: the busyness that thinks itself useful is often one more <c id='divertissement'>divertissement</c>, filling the hours so as not to have to ask whether one is living them. We save time everywhere, except at living."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc se projeter sans fin peut être la plus subtile façon de manquer sa vie : non par paresse, mais à force de la préparer au lieu de la vivre.",
+    "en": "So to project oneself without end can be the subtlest way of missing one's life: not out of laziness, but by dint of preparing it instead of living it."
+  },
+  "deepenings": [
+    {
+      "id": "the-busy",
+      "label": { "fr": "Les affairés selon Sénèque", "en": "The busy, according to Seneca" },
+      "targetStep": 1,
+      "development": [
+        {
+          "fr": "Sénèque ne vise pas les paresseux, mais les plus actifs, magistrats, ambitieux, gens accablés d'affaires, qui n'ont jamais une heure à eux ; il les nomme les « occupés ».",
+          "en": "Seneca does not target the idle, but the most active, magistrates, the ambitious, men overwhelmed with affairs, who never have an hour to themselves; he calls them the « occupied »."
+        },
+        {
+          "fr": "Son reproche n'est pas qu'ils travaillent, mais qu'ils ne s'appartiennent jamais : leur temps est à tous, sauf à eux. « La vie est longue, si l'on sait s'en servir », écrit-il : ce n'est pas le temps qui manque, c'est nous qui nous manquons à nous-mêmes.",
+          "en": "His reproach is not that they work, but that they never belong to themselves: their time is everyone's, except their own. « Life is long, if you know how to use it », he writes: it is not time that is lacking, it is we who are lacking to ourselves."
+        }
+      ],
+      "source": { "author": { "fr": "Sénèque", "en": "Seneca" }, "figures": [{ "name": { "fr": "Sénèque", "en": "Seneca" }, "kind": "PHILOSOPHER", "slug": "seneca" }], "work": { "fr": "De la brièveté de la vie", "en": "On the Shortness of Life" }, "workId": "on-the-shortness-of-life-seneca" }
+    }
+  ],
+  "difficulty": 2,
+  "source": { "author": { "fr": "Sénèque", "en": "Seneca" }, "figures": [{ "name": { "fr": "Sénèque", "en": "Seneca" }, "kind": "PHILOSOPHER", "slug": "seneca" }], "work": { "fr": "De la brièveté de la vie", "en": "On the Shortness of Life" }, "workId": "on-the-shortness-of-life-seneca", "year": 49 },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "Sénèque a raison : à force de préparer ma vie, je la remets sans cesse. Le seul temps que j'aie, c'est maintenant, et c'est lui que je veux vivre.",
+        "en": "Seneca is right: by dint of preparing my life, I keep deferring it. The only time I have is now, and it is now that I want to live."
+      },
+      "hints": [{ "axisId": "TIME_ORIENTATION", "value": { "kind": "weights", "weights": [0.7, 0.15, 0.15] }, "weight": 2 }],
+      "discussion": {
+        "fr": "L'objection vous fait passer du projet au présent : non plus vivre pour demain, mais cesser de remettre à demain le fait de vivre.",
+        "en": "The objection moves you from the project to the present: no longer to live for tomorrow, but to stop putting off until tomorrow the act of living."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je continue de me projeter, mais je m'oblige à vivre en chemin : un but, oui, à condition de ne pas y suspendre tous mes jours.",
+        "en": "I keep projecting myself, but I make myself live along the way: a goal, yes, provided I do not hang all my days on it."
+      },
+      "hints": [{ "axisId": "TIME_ORIENTATION", "value": { "kind": "weights", "weights": [0.25, 0.6, 0.15] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous gardez le projet en lui ôtant son venin : avancer vers un but sans cesser d'habiter le trajet.",
+        "en": "You keep the project while drawing its venom: to move toward a goal without ceasing to inhabit the journey."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Vivre pour un but n'est pas le remettre : c'est le but qui donne à chaque jour sa direction et son goût. Sénèque condamne l'affairé, pas celui qui sait pourquoi il agit.",
+        "en": "To live for a goal is not to defer it: it is the goal that gives each day its direction and its savor. Seneca condemns the busybody, not the one who knows why he acts."
+      },
+      "hints": [{ "axisId": "TIME_ORIENTATION", "value": { "kind": "weights", "weights": [0, 1, 0] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous distinguez l'agitation et le projet : ce n'est pas se projeter qui fait manquer sa vie, c'est s'agiter sans savoir vers quoi.",
+        "en": "You distinguish busyness from the project: it is not projecting oneself that makes one miss one's life, it is bustling about without knowing toward what."
+      }
+    }
+  ],
+  "targets": ["project-exist-is-to-project"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

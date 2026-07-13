@@ -1,0 +1,13 @@
+{
+  "id": "essentialism",
+  "term": { "fr": "Essentialisme", "en": "Essentialism" },
+  "aliases": { "fr": ["essentialiste"], "en": ["essentialist"] },
+  "definition": {
+    "fr": "L'essentialisme tient que les choses ont une essence, un ensemble de propriétés nécessaires qui font qu'elles sont ce qu'elles sont, indépendamment de nos conventions : il y a une nature du triangle, du chêne, peut-être de l'homme. <ph id='plato'>Platon</ph> la situe dans les Idées, <ph id='aristotle'>Aristote</ph> dans la forme immanente aux choses. La question resurgit vivement à propos du vivant, des genres et de l'identité, où l'on soupçonne l'essence de figer et d'exclure. Il s'oppose à l'<c id='existentialism'>existentialisme</c> et, sur les genres, au <c id='nominalism'>nominalisme</c>.",
+    "en": "Essentialism holds that things have an essence, a set of necessary properties that make them what they are, independent of our conventions: there is a nature of the triangle, of the oak, perhaps of the human being. <ph id='plato'>Plato</ph> locates it in the Ideas, <ph id='aristotle'>Aristotle</ph> in the form immanent to things. The question flares up again around living kinds, gender and identity, where essence is suspected of fixing and excluding. It stands against <c id='existentialism'>existentialism</c> and, on kinds, against <c id='nominalism'>nominalism</c>."
+  },
+  "relatedAxes": ["ESSENCE", "UNIVERSALS"],
+  "relatedTerms": ["existentialism", "nominalism", "theory-of-forms"],
+  "positions": [{ "axisId": "ESSENCE", "poleId": "ESSENTIALISM" }],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

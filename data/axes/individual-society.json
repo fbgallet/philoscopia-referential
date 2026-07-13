@@ -19,6 +19,7 @@
   "poles": [
     {
       "id": "INDIVIDUALISM",
+      "concept": "individualism",
       "label": {
         "fr": "Individualisme",
         "en": "Individualism"
@@ -46,6 +47,7 @@
     },
     {
       "id": "HOLISM",
+      "concept": "holism",
       "label": {
         "fr": "Holisme",
         "en": "Holism"

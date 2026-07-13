@@ -1,0 +1,50 @@
+{
+  "id": "techno-criticism-autonomous-system",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "TECHNOLOGY", "poleId": "TECHNO_CRITICISM" },
+  "name": { "fr": "La technique a sa logique", "en": "Technology's own logic" },
+  "claim": {
+    "fr": "Passé une certaine échelle, la technique ne se contente plus de servir nos fins : elle impose les siennes.",
+    "en": "Past a certain scale, technology no longer merely serves our ends: it imposes its own."
+  },
+  "summary": {
+    "fr": "Devenue un système, la technique transforme notre rapport au temps et aux autres sans que personne ne l'ait choisi, et souvent sans retour.",
+    "en": "Become a system, technology transforms our relation to time and to others without anyone having chosen it, and often irreversibly."
+  },
+  "development": [
+    {
+      "fr": "Un outil isolé sert qui s'en sert. Mais nos techniques ne sont plus des outils isolés : elles forment un système qui a sa logique propre, l'efficacité, la mesure, la croissance, et nos vies finissent par s'y ajuster.",
+      "en": "An isolated tool serves whoever uses it. But our technologies are no longer isolated tools: they form a system with its own logic, efficiency, measurement, growth, and our lives end up adjusting to it."
+    },
+    {
+      "fr": "Le fil d'actualité n'a pas attendu votre intention : il a été conçu, à l'échelle de millions de personnes, pour prélever de l'attention (l'<c id='attention-economy'>économie de l'attention</c>). Ce qu'il transforme, ce n'est pas tel usage, c'est notre rapport au temps, à l'ennui, à la présence des autres, sans que personne ne l'ait choisi.",
+      "en": "The feed did not wait for your intention: it was designed, on the scale of millions, to extract attention (the <c id='attention-economy'>attention economy</c>). What it transforms is not this or that use, it is our relation to time, to boredom, to the presence of others, without anyone having chosen it."
+    },
+    {
+      "fr": "Et ces transformations sont souvent sans retour. <ph id='jonas'>Hans Jonas</ph> en tirait un devoir nouveau : quand notre pouvoir engage durablement nos vies et celles qui suivront, la prudence n'est plus timidité, c'est responsabilité.",
+      "en": "And these transformations are often irreversible. <ph id='jonas'>Hans Jonas</ph> drew from this a new duty: when our power lastingly commits our lives and those that follow, prudence is no longer timidity, it is responsibility."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc se méfier n'est pas refuser le progrès : c'est reconnaître qu'un système devenu si puissant demande qu'on interroge ses fins, et pas seulement ses usages.",
+    "en": "So to be wary is not to refuse progress: it is to recognize that a system grown so powerful demands that we question its ends, and not only its uses."
+  },
+  "deepenings": [
+    {
+      "id": "the-technical-system",
+      "label": { "fr": "Le système technicien", "en": "The technical system" },
+      "targetStep": 0,
+      "development": [
+        {
+          "fr": "Le sociologue Jacques Ellul nommait « autonomie de la technique » ce moment où l'ensemble des moyens cesse d'obéir à nos fins pour suivre sa seule loi, l'efficacité : non plus des outils que nous choisissons, mais un milieu qui nous choisit.",
+          "en": "The sociologist Jacques Ellul called « the autonomy of technology » the moment when the totality of means stops obeying our ends and follows its single law, efficiency: no longer tools we choose, but an environment that chooses us."
+        }
+      ],
+      "source": { "author": { "fr": "Jacques Ellul", "en": "Jacques Ellul" }, "figures": [{ "name": { "fr": "Jacques Ellul", "en": "Jacques Ellul" }, "kind": "PHILOSOPHER" }], "work": { "fr": "Le Système technicien", "en": "The Technological System" }, "year": 1977 }
+    }
+  ],
+  "difficulty": 2,
+  "source": { "author": { "fr": "Hans Jonas", "en": "Hans Jonas" }, "figures": [{ "name": { "fr": "Jonas", "en": "Jonas" }, "kind": "PHILOSOPHER", "slug": "jonas" }], "work": { "fr": "Le Principe responsabilité", "en": "The Imperative of Responsibility" }, "year": 1979 },
+  "test": "techno-criticism-proves-too-much-objection",
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

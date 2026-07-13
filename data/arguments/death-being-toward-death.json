@@ -1,0 +1,55 @@
+{
+  "id": "death-being-toward-death",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "DEATH", "poleId": "BEING_TOWARD_DEATH" },
+  "name": { "fr": "L'argument de l'authenticité", "en": "The authenticity argument" },
+  "claim": {
+    "fr": "C'est en assumant ma mort que je deviens vraiment moi-même.",
+    "en": "It is by taking on my death that I truly become myself."
+  },
+  "summary": {
+    "fr": "Seule, indépassable, toujours mienne, la mort assumée arrache à la dispersion quotidienne et ouvre à une vie choisie.",
+    "en": "Solitary, unsurpassable, always mine, death once faced tears us from everyday dispersion and opens a chosen life."
+  },
+  "development": [
+    {
+      "fr": "Dans l'affairement quotidien, je vis le plus souvent comme « on » vit : dispersé dans les tâches, les rumeurs et les opinions de tous, je remets à plus tard la question de ce que je veux vraiment.",
+      "en": "In everyday busyness, I mostly live as \"one\" lives: scattered among tasks, rumors and everyone's opinions, I keep postponing the question of what I truly want."
+    },
+    {
+      "fr": "La mort, elle, ne se délègue pas : nul ne peut mourir à ma place, et nul ne sait quand. Elle est ma possibilité la plus propre, celle qui m'isole et que rien ne dépasse.",
+      "en": "Death, however, cannot be delegated: no one can die in my place, and no one knows when. It is my ownmost possibility, the one that sets me apart and that nothing surpasses."
+    },
+    {
+      "fr": "L'assumer lucidement, au lieu de la fuir, ramène d'un coup à l'essentiel : ce temps fini est le mien, et c'est à moi d'en répondre, ici, maintenant.",
+      "en": "Facing it lucidly, instead of fleeing it, brings me at once back to the essential: this finite time is mine, and it is for me to answer for it, here, now."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc regarder la mort en face n'est pas morbide : c'est la condition d'une existence <c id='authenticity'>authentique</c>, choisie plutôt que subie.",
+    "en": "Therefore facing death is not morbid: it is the condition of an <c id='authenticity'>authentic</c> existence, chosen rather than undergone."
+  },
+  "deepenings": [
+    {
+      "id": "the-they",
+      "label": { "fr": "Fuir dans le « on »", "en": "Fleeing into the \"they\"" },
+      "targetStep": 0,
+      "development": [
+        {
+          "fr": "<ph>Heidegger</ph> remarque que la mort est partout euphémisée : « on meurt », dit-on, comme s'il s'agissait d'un fait anonyme et lointain, jamais de ma mort à moi.",
+          "en": "<ph>Heidegger</ph> notes that death is everywhere softened: \"one dies,\" we say, as if it were an anonymous and distant fact, never my own death."
+        },
+        {
+          "fr": "Cette fuite est rassurante mais coûteuse : en me cachant ma finitude, elle me dérobe aussi l'urgence qui pourrait rendre ma vie vraiment mienne.",
+          "en": "This flight is reassuring but costly: by hiding my finitude from me, it also robs me of the urgency that could make my life truly mine."
+        }
+      ],
+      "source": { "author": { "fr": "Heidegger", "en": "Heidegger" }, "figures": [{ "name": { "fr": "Heidegger", "en": "Heidegger" }, "kind": "PHILOSOPHER", "slug": "heidegger" }], "work": { "fr": "Être et Temps", "en": "Being and Time" }, "year": 1927 }
+    }
+  ],
+  "difficulty": 2,
+  "source": { "author": { "fr": "Heidegger", "en": "Heidegger" }, "figures": [{ "name": { "fr": "Heidegger", "en": "Heidegger" }, "kind": "PHILOSOPHER", "slug": "heidegger" }], "work": { "fr": "Être et Temps", "en": "Being and Time" }, "year": 1927 },
+  "test": "death-morbid-rumination",
+  "problems": ["finitude-a-good", "my-death-or-the-death"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

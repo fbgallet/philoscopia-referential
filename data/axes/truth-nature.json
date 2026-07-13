@@ -66,6 +66,7 @@
     },
     {
       "id": "PRAGMATISM",
+      "concept": "pragmatism",
       "label": {
         "fr": "Pragmatisme",
         "en": "Pragmatism"
@@ -99,6 +100,7 @@
     "MEANING",
     "CERTAINTY",
     "KNOWLEDGE_SOURCE",
-    "KNOWLEDGE_STATUS"
+    "KNOWLEDGE_STATUS",
+    "MORAL_SCOPE"
   ]
 }

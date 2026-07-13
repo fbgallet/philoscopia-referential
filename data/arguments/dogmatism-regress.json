@@ -1,0 +1,88 @@
+{
+  "id": "dogmatism-regress",
+  "kind": "OBJECTS",
+  "position": { "axisId": "CERTAINTY", "poleId": "DOGMATISM" },
+  "name": { "fr": "Le trilemme d'Agrippa", "en": "Agrippa's trilemma" },
+  "claim": {
+    "fr": "Tout fondement réclame un autre fondement, sans fin.",
+    "en": "Every foundation calls for a further foundation, without end."
+  },
+  "development": [
+    {
+      "fr": "Toute affirmation tenue pour certaine doit être justifiée par une raison qui la soutient ; sinon, elle est posée arbitrairement.",
+      "en": "Every claim taken to be certain must be justified by a reason that supports it; otherwise it is posited arbitrarily."
+    },
+    {
+      "fr": "Mais cette raison réclame à son tour une justification, et celle-ci une autre, indéfiniment.",
+      "en": "But that reason in turn calls for a justification, and this one for another, indefinitely."
+    },
+    {
+      "fr": "Pour arrêter la chaîne, trois issues seulement, toutes décevantes : poursuivre à l'infini, tourner en <kw>cercle</kw> (la raison s'appuie sur ce qu'elle devait prouver), ou s'arrêter d'autorité sur une affirmation posée sans preuve.",
+      "en": "To halt the chain, only three exits, all disappointing: continue to infinity, turn in a <kw>circle</kw> (the reason leans on what it was meant to prove), or stop by fiat on a claim posited without proof."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc aucune croyance n'atteint un fondement vraiment dernier : la certitude définitive que réclame le dogmatisme reste hors d'atteinte.",
+    "en": "Therefore no belief reaches a truly final foundation: the definitive certainty dogmatism demands stays out of reach."
+  },
+  "difficulty": 2,
+  "source": { "author": { "fr": "Agrippa (rapporté par Sextus Empiricus)", "en": "Agrippa (reported by Sextus Empiricus)" }, "figures": [{ "name": { "fr": "Agrippa", "en": "Agrippa" }, "kind": "PHILOSOPHER" }, { "name": { "fr": "Sextus Empiricus", "en": "Sextus Empiricus" }, "kind": "PHILOSOPHER", "slug": "sextus-empiricus" }] },
+  "deepenings": [
+    {
+      "id": "cartesian-circle",
+      "label": { "fr": "Le cercle cartésien", "en": "The Cartesian circle" },
+      "targetStep": 2,
+      "development": [
+        {
+          "fr": "On a reproché à Descartes ce cercle même : il garantit l'évidence par la véracité de Dieu, mais il établit l'existence de Dieu par des idées qu'il dit évidentes.",
+          "en": "Descartes was charged with this very circle: he secures evidence by the truthfulness of God, yet he establishes God's existence from ideas he calls evident."
+        },
+        {
+          "fr": "Si le fondement présuppose ce qu'il fonde, la certitude première n'est plus première : elle emprunte sa garantie à ce qu'elle devait garantir.",
+          "en": "If the foundation presupposes what it founds, the first certainty is no longer first: it borrows its warrant from what it was meant to warrant."
+        }
+      ]
+    }
+  ],
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "La régression est imparable : aucune de mes croyances n'est définitivement fondée. Mieux vaut suspendre.",
+        "en": "The regress is unanswerable: none of my beliefs is definitively grounded. Better to suspend."
+      },
+      "hints": [{ "axisId": "CERTAINTY", "value": { "kind": "scalar", "value": 0.5 }, "weight": 1.5 }],
+      "discussion": {
+        "fr": "Vous laissez le trilemme dissoudre la prétention au fondement : votre position glisse vers le <c id='skepticism'>scepticisme</c>.",
+        "en": "You let the trilemma dissolve the claim to a foundation: your position slides toward <c id='skepticism'>skepticism</c>."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "J'abandonne les fondements indubitables, mais je garde un savoir solide quoique révisable.",
+        "en": "I give up indubitable foundations, but I keep knowledge that is solid though revisable."
+      },
+      "hints": [{ "axisId": "CERTAINTY", "value": { "kind": "scalar", "value": 0 }, "weight": 1 }],
+      "discussion": {
+        "fr": "C'est le <c id='fallibilism'>faillibilisme</c> : on peut bien fonder ses croyances sans exiger qu'aucune ne soit jamais révisable.",
+        "en": "This is <c id='fallibilism'>fallibilism</c>: one can ground one's beliefs without demanding that none ever be revisable."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : certains points de départ s'imposent d'eux-mêmes, comme le cogito, et n'appellent aucune preuve plus ancienne.",
+        "en": "I refute it: some starting points impose themselves, like the cogito, and call for no prior proof."
+      },
+      "hints": [{ "axisId": "CERTAINTY", "value": { "kind": "scalar", "value": -1 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "C'est la réponse fondationnaliste : il existe des évidences premières qui arrêtent la régression sans arbitraire.",
+        "en": "This is the foundationalist reply: there are first self-evident truths that halt the regress without arbitrariness."
+      }
+    }
+  ],
+  "problems": ["the-regress"],
+  "targets": ["dogmatism-cogito"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

@@ -87,6 +87,7 @@
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
       "justification": {
+        "argumentIds": ["control-dichotomy-inner-sovereignty"],
         "text": {
           "fr": "Le tort de tout malheur, soutient Épictète, est d'attendre son bonheur de choses qui ne sont pas en notre pouvoir. De là le geste premier, qui ouvre le <w id='enchiridion-epictetus'>Manuel</w> : trier nos affaires en deux classes selon le seul critère de la maîtrise, ce qui relève entièrement de nous (jugements, désirs, aversions) et ce qui n'en relève pas (corps, biens, réputation). La <c id='dichotomy-of-control'>dichotomie</c> n'est pas une thèse parmi d'autres mais l'opération qui conditionne toute la suite : tout <stk>trouble</stk> naît d'avoir réclamé une prise sur ce qui nous échappe. Là où les anciens stoïciens parlaient surtout du <c>destin</c> cosmique, Épictète ramène le partage à l'usage concret, ici et maintenant, de ce qui m'appartient en propre.",
           "en": "The root of all unhappiness, Epictetus argues, is to expect one's happiness from things that are not in our power. Hence the opening move of the <w id='enchiridion-epictetus'>Enchiridion</w>: sorting our concerns into two classes by the single criterion of mastery, what is wholly up to us (judgments, desires, aversions) and what is not (body, goods, reputation). The <c id='dichotomy-of-control'>dichotomy</c> is not one thesis among others but the operation that conditions everything that follows: all <stk>disturbance</stk> arises from having claimed a hold on what eludes us. Where the older Stoics dwelt on cosmic <c>fate</c>, Epictetus brings the division down to the concrete use, here and now, of what is properly mine."
@@ -731,7 +732,7 @@
       }
     }
   ],
-  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "updatedAt": "2026-07-12T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

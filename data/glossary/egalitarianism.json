@@ -1,0 +1,13 @@
+{
+  "id": "egalitarianism",
+  "term": { "fr": "Égalitarisme", "en": "Egalitarianism" },
+  "aliases": { "fr": ["égalitariste"], "en": ["egalitarian"] },
+  "definition": {
+    "fr": "L'égalitarisme juge qu'une société n'est juste que si elle corrige les inégalités dont les personnes ne sont pas responsables, celles de la naissance, des talents ou des circonstances. Loin d'abolir la liberté, il y voit la condition d'une coopération équitable entre égaux. <ph id='rawls'>Rawls</ph> le refonde par l'équité, <ph id='marx'>Marx</ph> vise « à chacun selon ses besoins », d'autres l'égalité des chances ou des capabilités. Il s'oppose au <c id='libertarianism'>libertarianisme</c>.",
+    "en": "Egalitarianism holds that a society is just only if it corrects the inequalities for which people are not responsible, those of birth, talent or circumstance. Far from abolishing freedom, it sees in it the condition of fair cooperation among equals. <ph id='rawls'>Rawls</ph> refounds it on fairness, <ph id='marx'>Marx</ph> aims at \"to each according to their needs\", others at equality of opportunity or of capabilities. It stands against <c id='libertarianism'>libertarianism</c>."
+  },
+  "relatedAxes": ["DISTRIBUTIVE_JUSTICE", "POLITICAL_LIBERTY"],
+  "relatedTerms": ["libertarianism"],
+  "positions": [{ "axisId": "DISTRIBUTIVE_JUSTICE", "poleId": "EGALITARIANISM" }],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

@@ -1,0 +1,90 @@
+{
+  "id": "techno-optimism-condition-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "TECHNOLOGY", "poleId": "TECHNO_OPTIMISM" },
+  "name": { "fr": "Le progrès des moyens", "en": "Progress of means" },
+  "claim": {
+    "fr": "La technique multiplie nos moyens, mais un surcroît de moyens n'est pas par lui-même une vie meilleure.",
+    "en": "Technology multiplies our means, but a surplus of means is not by itself a better life."
+  },
+  "summary": {
+    "fr": "Mesurer le progrès à la croissance de nos moyens, c'est confondre la puissance avec la vie bonne : un moyen ne vaut que par la fin qu'il sert.",
+    "en": "Measuring progress by the growth of our means is to confuse power with the good life: a means is worth only the end it serves."
+  },
+  "development": [
+    {
+      "fr": "Accordons à l'optimiste son point de départ : nos moyens d'agir, de produire, de communiquer ont grandi comme jamais. Mais il en conclut aussitôt que notre condition s'est améliorée, et c'est ce pas qu'il faut examiner.",
+      "en": "Grant the optimist his starting point: our means of acting, producing, communicating have grown as never before. But he at once concludes that our condition has improved, and it is that step which must be examined."
+    },
+    {
+      "fr": "Car un moyen ne vaut que par la fin qu'il sert : disposer de plus d'outils ne rend la vie meilleure que si ces outils servent ce qui la rend bonne. Multiplier les moyens sans interroger les fins, c'est gagner en puissance, non nécessairement en bonheur ni en liberté.",
+      "en": "For a means is worth only the end it serves: having more tools makes life better only if those tools serve what makes life good. To multiply means without questioning ends is to gain in power, not necessarily in happiness or freedom."
+    },
+    {
+      "fr": "Or la même puissance qui écarte d'anciens maux en fait naître de nouveaux : elle crée des besoins qu'on ignorait, des dépendances, des formes inédites de fatigue et de solitude. Le bilan n'est donc pas le simple ajout que l'optimiste suppose, et rien ne garantit qu'il penche du bon côté pour la vie elle-même.",
+      "en": "And the very power that removes old ills gives rise to new ones: it creates needs we never had, dependencies, unprecedented forms of fatigue and solitude. The reckoning is thus not the simple addition the optimist assumes, and nothing guarantees it tips the right way for life itself."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc de la croissance de nos moyens, on ne peut pas conclure le progrès de notre condition : c'est passer de la puissance à la vie bonne par un saut que rien n'assure.",
+    "en": "So from the growth of our means one cannot conclude the progress of our condition: it is a leap from power to the good life that nothing secures."
+  },
+  "deepenings": [
+    {
+      "id": "rousseau-suspicion",
+      "label": { "fr": "Le soupçon de Rousseau", "en": "Rousseau's suspicion" },
+      "summary": {
+        "fr": "L'exemple historique de l'écart entre progrès des moyens et progrès des mœurs.",
+        "en": "The historical example of the gap between progress in means and progress in morals."
+      },
+      "development": [
+        {
+          "fr": "Dès le XVIIIᵉ siècle, <ph id='rousseau'>Rousseau</ph> soutenait, dans son premier discours, que le progrès des sciences et des arts avait poli les manières sans rendre les hommes meilleurs ni plus heureux : la première illustration éclatante de l'écart entre l'avancée des moyens et celle de la condition.",
+          "en": "As early as the eighteenth century, <ph id='rousseau'>Rousseau</ph> argued, in his first discourse, that the progress of the sciences and arts had polished manners without making people better or happier: the first striking illustration of the gap between the advance of means and that of the condition."
+        }
+      ],
+      "source": { "author": { "fr": "Rousseau", "en": "Rousseau" }, "figures": [{ "name": { "fr": "Rousseau", "en": "Rousseau" }, "kind": "PHILOSOPHER", "slug": "rousseau" }], "work": { "fr": "Discours sur les sciences et les arts", "en": "Discourse on the Sciences and Arts" }, "year": 1750 }
+    }
+  ],
+  "difficulty": 3,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est décisif : j'avais pris la croissance de nos moyens pour celle de nos vies.",
+        "en": "That is decisive: I had taken the growth of our means for the growth of our lives."
+      },
+      "hints": [{ "axisId": "TECHNOLOGY", "value": { "kind": "scalar", "value": 1 }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous ne niez pas la puissance de la technique, vous cessez d'y lire d'office un mieux-vivre.",
+        "en": "You don't deny technology's power; you stop reading it automatically as a better way of living."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je nuance : la technique ne fait pas le bonheur, mais elle écarte de grands obstacles, la douleur, la faim, l'ignorance.",
+        "en": "I qualify: technology does not make happiness, but it removes great obstacles, pain, hunger, ignorance."
+      },
+      "hints": [{ "axisId": "TECHNOLOGY", "value": { "kind": "scalar", "value": 0 }, "weight": 1.5 }],
+      "discussion": {
+        "fr": "Vous distinguez désormais ce que la technique peut, écarter des maux, de ce qu'elle ne peut pas, donner un sens.",
+        "en": "You now distinguish what technology can do, remove ills, from what it cannot, give meaning."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : écarter la souffrance et l'ignorance, c'est déjà rendre la vie meilleure ; le reste dépend de nous.",
+        "en": "I refute it: removing suffering and ignorance already makes life better; the rest is up to us."
+      },
+      "hints": [{ "axisId": "TECHNOLOGY", "value": { "kind": "scalar", "value": -1 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous tenez la réduction des maux pour un progrès réel de la condition, et renvoyez le sens à la liberté de chacun.",
+        "en": "You hold the reduction of ills to be a real progress of the condition, and refer meaning to each person's freedom."
+      }
+    }
+  ],
+  "targets": ["techno-optimism-emancipation"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

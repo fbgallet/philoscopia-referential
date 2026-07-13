@@ -1,0 +1,13 @@
+{
+  "id": "empiricism",
+  "term": { "fr": "Empirisme", "en": "Empiricism" },
+  "aliases": { "fr": ["empiriste"], "en": ["empiricist"] },
+  "definition": {
+    "fr": "L'empirisme fait dériver toute connaissance de l'expérience sensible : l'esprit est d'abord une <c id='tabula-rasa'>page blanche</c> que les sens remplissent, et même les idées les plus abstraites se ramènent à des impressions. <ph id='locke'>Locke</ph> puis <ph id='hume'>Hume</ph> en font l'arme contre les <c id='innate-ideas'>idées innées</c> ; poussé à bout, il conduit Hume au scepticisme sur la causalité. Il s'oppose au <c id='rationalism'>rationalisme</c>, pour qui la raison possède ses propres ressources.",
+    "en": "Empiricism derives all knowledge from sense experience: the mind is first a <c id='tabula-rasa'>blank slate</c> that the senses fill in, and even the most abstract ideas trace back to impressions. <ph id='locke'>Locke</ph> and then <ph id='hume'>Hume</ph> make it the weapon against <c id='innate-ideas'>innate ideas</c>; pushed to the limit, it leads Hume to skepticism about causation. It stands against <c id='rationalism'>rationalism</c>, for which reason has resources of its own."
+  },
+  "relatedAxes": ["KNOWLEDGE_SOURCE", "SCIENTIFIC_METHOD"],
+  "relatedTerms": ["rationalism", "tabula-rasa", "innate-ideas"],
+  "positions": [{ "axisId": "KNOWLEDGE_SOURCE", "poleId": "EMPIRICISM" }],
+  "updatedAt": "2026-07-11T00:00:00.000Z"
+}

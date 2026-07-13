@@ -28,6 +28,18 @@ We are heirs: what we have received from the past constitutes us and calls to be
 
 *[Burke](../philosophers/burke.md) · [Confucius](../philosophers/confucius.md)*
 
+## Arguments
+
+- *Presentism* · for : [The only time that is ours](../arguments/present-only-time-ours.md)
+- *Presentism* · against : [A life is not a heap of instants](../arguments/present-narrative-identity.md)
+- *Presentism* · against : [The instant that slips by](../arguments/present-shallow-flight.md)
+- *Project* · for : [To exist is to project oneself](../arguments/project-exist-is-to-project.md)
+- *Project* · against : [We always put off living](../arguments/project-deferred-life.md)
+- *Project* · against : [The future is not yours](../arguments/project-future-not-ours.md)
+- *Memory and transmission* · for : [We are heirs](../arguments/memory-we-are-heirs.md)
+- *Memory and transmission* · against : [A borrowed life](../arguments/memory-borrowed-life.md)
+- *Memory and transmission* · against : [You will not be there](../arguments/memory-transmission-illusion.md)
+
 ## Grounding relations
 
 - *[Nature of the self](../axes/self-nature.md) : Bundle theory* grounds *[Temporal orientation](../axes/time-orientation.md) : Presentism* : If there is no permanent self but a succession of states, then neither the past nor the future of a stable "I" has any real hold: only the present instant is inhabited. Bundle theory grounds presentism: following [Hume](../philosophers/hume.md), letting go of a substantial self invites us to seize the day rather than project ourselves forward or dwell on regret.

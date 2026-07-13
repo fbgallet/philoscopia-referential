@@ -1,0 +1,74 @@
+{
+  "id": "control-prometheanism-hubris-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "CONTROL_SCOPE", "poleId": "PROMETHEANISM" },
+  "name": { "fr": "La démesure et le retour du réel", "en": "Overreach and the world's recoil" },
+  "claim": {
+    "fr": "À vouloir étendre sa maîtrise sans fin, on multiplie les occasions d'être vaincu.",
+    "en": "By striving to extend your mastery without end, you multiply the occasions of being defeated."
+  },
+  "summary": {
+    "fr": "Qui mesure sa paix à son pouvoir de transformer reste sans recours le jour où il bute sur l'intransformable, que ce soit la mort ou un réel qui se venge de qui le force.",
+    "en": "Whoever measures his peace by his power to transform is left without recourse the day he runs up against the untransformable, be it death or a world that takes revenge on those who force it."
+  },
+  "development": [
+    {
+      "fr": "Le projet prométhéen mesure la sagesse à ce qu'on parvient à changer. Mais il y a toujours plus à changer : chaque limite repoussée en découvre une autre, et l'effort ne connaît jamais de repos.",
+      "en": "The Promethean project measures wisdom by what one manages to change. But there is always more to change: each limit pushed back uncovers another, and the effort never knows rest."
+    },
+    {
+      "fr": "Surtout, le réel garde le dernier mot. La maladie, le deuil, le vieillissement, la mort finissent par déjouer les plans les mieux faits ; et la nature qu'on croyait dompter se rappelle parfois durement à ceux qui la forcent, comme ces antibiotiques dont l'usage à outrance a fait surgir des bactéries qu'ils ne guérissent plus.",
+      "en": "Above all, the real has the last word. Illness, grief, aging, death end up foiling the best-laid plans; and the nature we thought we had tamed sometimes reminds, harshly, those who force it, like those antibiotics whose overuse has bred bacteria they no longer cure."
+    },
+    {
+      "fr": "Qui a placé toute sa paix dans le pouvoir de transformer se retrouve sans recours le jour où il bute sur l'intransformable. La <kw>démesure</kw>, ce que les Grecs nommaient l'hybris, appelait dans leurs tragédies un châtiment : non par superstition, mais parce qu'elle oublie la mesure des choses.",
+      "en": "Whoever has placed all his peace in the power to transform finds himself without recourse the day he runs up against the untransformable. <kw>Overreach</kw>, what the Greeks called hubris, called down a punishment in their tragedies: not out of superstition, but because it forgets the measure of things."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc l'ambition de tout maîtriser, faute de reconnaître une part d'irréductible, prépare ses propres défaites et l'amertume qui les suit.",
+    "en": "So the ambition to master everything, for want of acknowledging a share of the irreducible, prepares its own defeats and the bitterness that follows them."
+  },
+  "difficulty": 2,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "L'objection porte : il est plus sage de concentrer mes efforts sur moi que de m'épuiser à plier le monde.",
+        "en": "The objection lands: it is wiser to focus my efforts on myself than to wear myself out bending the world."
+      },
+      "hints": [{ "axisId": "CONTROL_SCOPE", "value": { "kind": "scalar", "value": -1 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous renversez la priorité : la maîtrise commence au-dedans, là où elle est sûre.",
+        "en": "You reverse the priority: mastery begins within, where it is sure."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je garde l'élan, mais je lui reconnais une limite : agir sans relâche sur le possible, sans nier qu'il existe de l'irréductible.",
+        "en": "I keep the drive, but grant it a limit: to act tirelessly on the possible, without denying that there is an irreducible."
+      },
+      "hints": [{ "axisId": "CONTROL_SCOPE", "value": { "kind": "scalar", "value": 0 }, "weight": 0.7 }],
+      "discussion": {
+        "fr": "Vous gardez l'ambition tout en faisant sa place à l'inévitable : la voie du discernement.",
+        "en": "You keep the ambition while making room for the inevitable: the path of discernment."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : ce qu'on appelle « irréductible » a presque toujours reculé devant ceux qui n'y ont pas cru. La mesure d'aujourd'hui était la démesure d'hier.",
+        "en": "I refute it: what we call « irreducible » has nearly always given way before those who refused to believe in it. Today's measure was yesterday's overreach."
+      },
+      "hints": [{ "axisId": "CONTROL_SCOPE", "value": { "kind": "scalar", "value": 1 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous tenez la limite pour provisoire : l'histoire des sciences et des luttes vous donne souvent raison.",
+        "en": "You hold the limit to be provisional: the history of science and of struggles often proves you right."
+      }
+    }
+  ],
+  "problems": ["tranquillity-or-achievement"],
+  "targets": ["control-prometheanism-progress"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

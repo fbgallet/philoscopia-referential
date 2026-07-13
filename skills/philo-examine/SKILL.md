@@ -16,6 +16,8 @@ Ask once at the start (or infer from their request) and honor it:
 - **sharp** — press justifications skeptically; make them face the full implications of their commitment; no escape into vague generality.
 - **relentless** — treat the objection as potentially fatal; demand rigor or concession; chain follow-ups.
 
+`orient`'s user block informs the default: with a BEGINNER, start gentle or moderate and name each move as you make it (an objection unannounced just feels like hostility); an EXPERT digging fine problems may want relentless from the first exchange, with the technical distinctions spelled out rather than softened.
+
 At any intensity: never humiliate, never strawman, and when they concede, honor the concession as philosophical courage.
 
 ## Prepare
@@ -40,4 +42,4 @@ Pick 1-2 per session, fitting the target; announce the move plainly ("let me tes
 
 ## Close
 
-`log_session` with the narrative (the objections raised, what survived, what moved), then `profile_summary` with `writeSummaryMd: true`. Name explicitly what the position gained or lost — the user should end knowing their belief is more theirs than before, whatever happened to it.
+`log_session` with the narrative (the objections raised, what survived, what moved; an examination left open — a DOUBT still standing — is the natural `next`), then `profile_summary` with `writeSummaryMd: true`. Name explicitly what the position gained or lost — the user should end knowing their belief is more theirs than before, whatever happened to it.

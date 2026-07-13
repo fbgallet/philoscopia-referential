@@ -1,0 +1,81 @@
+{
+  "id": "determinism-responsibility-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "FREEDOM", "poleId": "DETERMINISM" },
+  "name": { "fr": "L'argument de la responsabilité", "en": "The responsibility argument" },
+  "claim": {
+    "fr": "Si tout est déterminé, plus personne n'est responsable de rien.",
+    "en": "If everything is determined, no one is responsible for anything."
+  },
+  "development": [
+    {
+      "fr": "Tenir quelqu'un pour responsable, le louer ou le punir, suppose qu'il aurait pu <c id='alternate-possibilities'>agir autrement</c> qu'il ne l'a fait.",
+      "en": "Holding someone responsible, praising or punishing them, presupposes that they could have <c id='alternate-possibilities'>acted otherwise</c> than they did."
+    },
+    {
+      "fr": "De même, délibérer n'a de sens que si l'issue n'est pas déjà jouée au moment où l'on pèse le pour et le contre.",
+      "en": "Likewise, deliberating makes sense only if the outcome is not already settled as one weighs the pros and cons."
+    },
+    {
+      "fr": "Un déterminisme strict retire ces deux présupposés d'un coup, et avec eux une part de ce qui structure le droit et la vie morale.",
+      "en": "A strict determinism removes both presuppositions at once, and with them part of what structures law and moral life."
+    },
+    {
+      "fr": "Ce coût n'est pas une réfutation, mais il pèse : une thèse qui dissout la responsabilité doit en payer le prix, ou montrer comment la sauver autrement.",
+      "en": "This cost is no refutation, but it weighs: a thesis that dissolves responsibility must pay the price, or show how to save it otherwise."
+    }
+  ],
+  "difficulty": 2,
+  "conclusion": {
+    "fr": "Un déterminisme strict prive donc la responsabilité de son fondement habituel.",
+    "en": "A strict determinism therefore strips responsibility of its usual ground."
+  },
+  "deepenings": [
+    {
+      "id": "remorse",
+      "label": { "fr": "Le témoignage du remords", "en": "The testimony of remorse" },
+      "targetStep": 0,
+      "development": [
+        {
+          "fr": "Le remords n'est pas un simple regret : il s'accompagne de la pensée tenace « j'aurais pu, et j'aurais dû, agir autrement ».",
+          "en": "Remorse is not mere regret: it carries the stubborn thought \"I could have, and should have, acted otherwise\"."
+        },
+        {
+          "fr": "Cette expérience morale, partagée et difficile à congédier, donne corps à l'idée d'alternatives réelles que le déterminisme strict déclare illusoires.",
+          "en": "This moral experience, widely shared and hard to dismiss, gives body to the idea of real alternatives that strict determinism declares illusory."
+        }
+      ]
+    }
+  ],
+  "responses": [
+    {
+      "id": "revise",
+      "label": { "fr": "L'objection porte : j'admets une marge de liberté réelle dans nos choix.", "en": "The objection lands: I grant a real margin of freedom in our choices." },
+      "hints": [{ "axisId": "FREEDOM", "value": { "kind": "scalar", "value": -1 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Le coût moral l'emporte : votre position bascule vers une liberté réelle.",
+        "en": "The moral cost makes you step back: your position moves away from strict determinism."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": { "fr": "Je maintiens le déterminisme, mais je sauve la responsabilité comme utilité sociale, non comme libre arbitre.", "en": "I keep determinism, but I salvage responsibility as a social usefulness, not as free will." },
+      "hints": [{ "axisId": "FREEDOM", "value": { "kind": "scalar", "value": 0 }, "weight": 0.7 }],
+      "discussion": {
+        "fr": "Réponse <c id='compatibilism'>compatibiliste</c> : blâmer et punir gardent un sens comme leviers, même sans pouvoir de choisir autrement.",
+        "en": "A <c id='compatibilism'>compatibilist</c> answer: blame and punishment keep a sense as levers, even without a power to choose otherwise."
+      }
+    },
+    {
+      "id": "refute",
+      "label": { "fr": "Je réfute : délibération et responsabilité sont compatibles avec des causes, elles font partie du processus.", "en": "I refute it: deliberation and responsibility are compatible with causes; they are part of the process." },
+      "hints": [{ "axisId": "FREEDOM", "value": { "kind": "scalar", "value": 1 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous niez que « déterminé » implique « non responsable » : c'est l'option compatibiliste forte, qui tient le déterminisme sans rien céder sur la morale.",
+        "en": "You deny that \"determined\" entails \"not responsible\": the strong compatibilist option, holding determinism while conceding nothing on morality."
+      }
+    }
+  ],
+  "problems": ["could-have-done-otherwise"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

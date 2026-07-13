@@ -32,7 +32,7 @@ La question morale fondamentale n'est pas « que dois-je faire ? » mais « qui 
 
 La morale s'enracine dans l'attention concrète portée aux personnes vulnérables et dans les relations de soin qui nous lient les uns aux autres. Plutôt que des principes abstraits et impartiaux, elle valorise la sollicitude, la responsabilité envers autrui et la prise en compte des situations particulières.
 
-*Gilligan · Noddings*
+*[Gilligan](../philosophers/gilligan.md) · Noddings*
 
 ## Problèmes vifs
 

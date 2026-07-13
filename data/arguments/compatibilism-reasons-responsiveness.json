@@ -1,0 +1,37 @@
+{
+  "id": "compatibilism-reasons-responsiveness",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "FREEDOM", "median": true },
+  "name": { "fr": "La liberté comme absence de contrainte", "en": "Freedom as the absence of constraint" },
+  "claim": {
+    "fr": "Être libre, c'est agir selon ses propres raisons, non sans cause.",
+    "en": "To be free is to act from one's own reasons, not without a cause."
+  },
+  "summary": {
+    "fr": "La liberté ne s'oppose pas à la cause mais à la contrainte : un acte est libre quand il découle de notre propre délibération.",
+    "en": "Freedom is opposed not to cause but to constraint: an act is free when it flows from our own deliberation."
+  },
+  "development": [
+    {
+      "fr": "Comparez le toxicomane, poussé par un désir qu'il désavoue, et la personne qui pèse ses raisons puis agit en conséquence : tous deux ont des causes, mais seul le second agit librement.",
+      "en": "Compare the addict, driven by a craving he disowns, and the person who weighs her reasons and then acts accordingly: both have causes, but only the latter acts freely."
+    },
+    {
+      "fr": "La liberté ne s'oppose donc pas à la <kw>cause</kw>, mais à la <kw>contrainte</kw> : est libre l'acte qui découle de ma propre volonté, fût-elle elle-même déterminée.",
+      "en": "Freedom is therefore opposed not to the <kw>cause</kw>, but to <kw>constraint</kw>: free is the act that flows from my own will, even if that will is itself determined."
+    },
+    {
+      "fr": "Ainsi liberté et <c id='determinism'>déterminisme</c> se réconcilient : je suis l'auteur de mes actes dès lors qu'ils passent par ma délibération, sans qu'il faille un pouvoir d'échapper aux causes.",
+      "en": "Thus freedom and <c id='determinism'>determinism</c> are reconciled: I am the author of my acts so long as they pass through my deliberation, with no need for a power to escape causes."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc on peut être libre et responsable dans un monde déterminé : c'est la thèse du <c id='compatibilism'>compatibilisme</c>.",
+    "en": "So one can be free and responsible in a determined world: this is the thesis of <c id='compatibilism'>compatibilism</c>."
+  },
+  "difficulty": 2,
+  "source": { "author": { "fr": "Hume", "en": "Hume" }, "figures": [{ "name": { "fr": "Hume", "en": "Hume" }, "kind": "PHILOSOPHER", "slug": "hume" }], "work": { "fr": "Enquête sur l'entendement humain", "en": "An Enquiry concerning Human Understanding" }, "workId": "enquiry-concerning-human-understanding-hume", "year": 1748 },
+  "test": "compatibilism-consequence-argument",
+  "problems": ["master-or-slave-of-desires"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "desire-timid-life-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "DESIRE", "poleId": "REASONED_SELECTION" },
+  "name": { "fr": "L'objection de la vie rétrécie", "en": "The shrunken-life objection" },
+  "claim": {
+    "fr": "À ne vouloir que le sûr et le simple, on s'épargne le trouble, mais on manque aussi la grandeur.",
+    "en": "By wanting only the safe and the simple, one is spared trouble, but also misses greatness."
+  },
+  "summary": {
+    "fr": "La prudence qui retranche les désirs sans mesure retranche du même coup l'amour, l'ambition, le risque : une vie sans trouble peut être une vie qui n'aura jamais pleinement vécu.",
+    "en": "The prudence that prunes limitless desires prunes at the same stroke love, ambition, risk: a life without trouble may be a life that will never have fully lived."
+  },
+  "development": [
+    {
+      "fr": "Le tri promet la paix en réservant le désir aux objets simples et sûrs, ceux dont la satisfaction ne dépend que de nous.",
+      "en": "Sorting promises peace by reserving desire for simple and safe objects, those whose satisfaction depends only on us."
+    },
+    {
+      "fr": "Mais ce que l'on écarte ainsi n'est pas seulement le superflu : c'est aussi tout ce qui, par nature, excède la mesure et échappe à notre maîtrise, l'amour qui peut être perdu, l'œuvre qui peut échouer, l'ambition qui peut blesser. Or c'est souvent de là que vient ce qui donne à une vie sa hauteur.",
+      "en": "But what one thus sets aside is not only the superfluous: it is also all that, by nature, exceeds measure and escapes our control, the love that can be lost, the work that can fail, the ambition that can wound. And it is often from there that what gives a life its height comes."
+    },
+    {
+      "fr": "La prudence épicurienne achète la tranquillité au prix de l'intensité : elle se met à l'abri du tourment, mais aussi de ce qui ne s'obtient qu'en acceptant de trembler. À trop mesurer ses désirs, on risque une vie sans reproche et sans éclat.",
+      "en": "Epicurean prudence buys tranquility at the price of intensity: it shelters itself from torment, but also from what is gained only by agreeing to tremble. By measuring one's desires too closely, one risks a life beyond reproach and without radiance."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc le tri, en nous protégeant du trouble, peut nous priver du meilleur : il reste à savoir si une vie bonne est une vie sans peine, ou une vie pleinement vécue.",
+    "en": "So sorting, in protecting us from trouble, may deprive us of the best: it remains to be seen whether a good life is a life without pain, or a life fully lived."
+  },
+  "deepenings": [
+    {
+      "id": "pleasure-at-rest",
+      "label": { "fr": "Le plaisir en repos suffit-il ?", "en": "Is pleasure at rest enough?" },
+      "targetStep": 2,
+      "development": [
+        {
+          "fr": "<ph id='epicurus'>Épicure</ph> tient le plaisir suprême pour un état stable, l'absence de douleur et de trouble, non pour l'excitation qui s'élève et retombe.",
+          "en": "<ph id='epicurus'>Epicurus</ph> holds the highest pleasure to be a stable state, the absence of pain and trouble, and not the excitement that rises and falls."
+        },
+        {
+          "fr": "Mais on peut lui objecter, comme certains dès l'Antiquité, qu'un plaisir purement « en repos » ressemble à s'y méprendre à l'absence de désir, et qu'une vie qui ne veut plus rien d'incertain a déjà, par prudence, renoncé à beaucoup vivre.",
+          "en": "But one may object, as some did already in antiquity, that a purely « static » pleasure looks all but indistinguishable from the absence of desire, and that a life wanting nothing uncertain has already, out of prudence, given up much living."
+        }
+      ]
+    }
+  ],
+  "difficulty": 2,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "À force de me protéger, je passe à côté de ce qui ferait le prix d'une vie. Mieux vaut désirer fort, quitte à souffrir, que ne plus rien risquer.",
+        "en": "By always protecting myself, I miss what would make a life worth it. Better to desire strongly, even at the cost of suffering, than to risk nothing."
+      },
+      "hints": [{ "axisId": "DESIRE", "value": { "kind": "weights", "weights": [0.8, 0.15, 0.05] }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous renversez le critère : ce n'est plus l'absence de trouble qui mesure une vie bonne, mais l'intensité de ce qu'on ose vouloir.",
+        "en": "You overturn the criterion: it is no longer the absence of trouble that measures a good life, but the intensity of what one dares to want."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je garde le tri, mais je lui fais une place pour le risque : certains désirs incertains valent qu'on s'expose, même au prix de la paix.",
+        "en": "I keep the sorting, but make room in it for risk: some uncertain desires are worth the exposure, even at the cost of peace."
+      },
+      "hints": [{ "axisId": "DESIRE", "value": { "kind": "weights", "weights": [0.45, 0.5, 0.05] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous desserrez la prudence sans l'abandonner : trier, oui, mais en gardant quelques désirs qui débordent la mesure, parce qu'ils en valent la peine.",
+        "en": "You loosen prudence without abandoning it: sort, yes, but keeping a few desires that exceed measure, because they are worth it."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Ce que vous appelez grandeur n'est souvent qu'agitation. Le sage ne fuit pas la vie, il cesse de la suspendre à ce qu'il ne maîtrise pas.",
+        "en": "What you call greatness is often mere agitation. The sage does not flee life, he stops hanging it on what he does not control."
+      },
+      "hints": [{ "axisId": "DESIRE", "value": { "kind": "weights", "weights": [0, 1, 0] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous tenez la réponse d'<ph id='epicurus'>Épicure</ph> : la vraie richesse est de jouir simplement de ce qui est là, et c'est l'illimité, non la mesure, qui appauvrit.",
+        "en": "You hold <ph id='epicurus'>Epicurus</ph>'s reply: true wealth is to enjoy simply what is here, and it is the limitless, not measure, that impoverishes."
+      }
+    }
+  ],
+  "problems": ["desire-hierarchy"],
+  "targets": ["desire-reasoned-selection-ataraxia"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

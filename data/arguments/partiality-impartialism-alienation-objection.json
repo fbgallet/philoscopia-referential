@@ -1,0 +1,70 @@
+{
+  "id": "partiality-impartialism-alienation-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "PARTIALITY", "poleId": "IMPARTIALISM" },
+  "name": { "fr": "Une pensée de trop", "en": "One thought too many" },
+  "claim": {
+    "fr": "Une morale qui soumet vos attachements à un tribunal impartial vous sépare de ce qui donne sens à votre vie.",
+    "en": "A morality that puts your attachments before an impartial tribunal cuts you off from what gives your life meaning."
+  },
+  "development": [
+    {
+      "fr": "Voyant votre conjoint et un inconnu se noyer, si vous vous demandez d'abord si l'impartialité vous permet de sauver le vôtre, vous avez déjà eu, comme on l'a dit, une pensée de trop.",
+      "en": "Seeing your spouse and a stranger drowning, if you first ask whether impartiality permits you to save your own, you have already had, as it has been said, one thought too many."
+    },
+    {
+      "fr": "Nos amours, nos fidélités, nos gratitudes ne sont pas des préférences qu'on justifie : ce sont elles qui font le prix d'une vie.",
+      "en": "Our loves, our loyalties, our gratitudes are not preferences one justifies: they are what make a life worth living."
+    },
+    {
+      "fr": "Exiger qu'elles rendent des comptes à une égalité abstraite, c'est se rendre étranger à soi-même au nom de la morale.",
+      "en": "To demand that they answer to an abstract equality is to make oneself a stranger to oneself in the name of morality."
+    }
+  ],
+  "conclusion": {
+    "fr": "Une impartialité qui condamne l'attachement se retourne donc contre ce qu'elle prétendait servir : une vie humaine digne d'être vécue.",
+    "en": "An impartiality that condemns attachment thus turns against what it claimed to serve: a human life worth living."
+  },
+  "difficulty": 2,
+  "source": { "author": { "fr": "Bernard Williams", "en": "Bernard Williams" }, "figures": [{ "name": { "fr": "Bernard Williams", "en": "Bernard Williams" }, "kind": "PHILOSOPHER", "slug": "williams" }], "work": { "fr": "La Fortune morale", "en": "Moral Luck" }, "year": 1981 },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "L'objection porte : mes attachements ne sont pas un biais à corriger, ils ont une valeur propre.",
+        "en": "The objection lands: my attachments are not a bias to be corrected, they have a worth of their own."
+      },
+      "hints": [{ "axisId": "PARTIALITY", "value": { "kind": "scalar", "value": 1 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous reconnaissez aux liens une dignité que l'impartialité stricte leur refusait.",
+        "en": "You grant the bonds a dignity that strict impartiality denied them."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je garde l'égalité comme principe, mais j'admets que la vie morale commence dans le soin des proches.",
+        "en": "I keep equality as a principle, but I admit that moral life begins in caring for those close to us."
+      },
+      "hints": [{ "axisId": "PARTIALITY", "value": { "kind": "scalar", "value": 0 }, "weight": 0.7 }],
+      "discussion": {
+        "fr": "Vous faites une place aux liens sans renoncer à l'égalité : la voie des cercles concentriques.",
+        "en": "You make room for the bonds without giving up equality: the path of concentric circles."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : qu'un attachement me soit cher ne le rend pas juste ; la raison morale doit savoir le corriger.",
+        "en": "I refute it: that an attachment is dear to me does not make it just; moral reason must be able to correct it."
+      },
+      "hints": [{ "axisId": "PARTIALITY", "value": { "kind": "scalar", "value": -1 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous maintenez que la valeur d'un être ne dépend pas de la place qu'il tient dans votre cœur.",
+        "en": "You maintain that the worth of a person does not depend on the place they hold in your heart."
+      }
+    }
+  ],
+  "targets": ["partiality-impartialism-equal-weight"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

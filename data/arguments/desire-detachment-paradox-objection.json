@@ -1,0 +1,90 @@
+{
+  "id": "desire-detachment-paradox-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "DESIRE", "poleId": "DETACHMENT" },
+  "name": { "fr": "Le désir de ne plus désirer", "en": "The desire to desire no more" },
+  "claim": {
+    "fr": "Vouloir s'affranchir du désir est encore un désir : on ne sort pas si aisément de ce qu'on prétend quitter.",
+    "en": "To want to free oneself from desire is still a desire: one does not so easily leave what one claims to quit."
+  },
+  "summary": {
+    "fr": "Aspirer à la paix, c'est encore désirer ; et qui se détache de tout risque de se détacher aussi des autres et de ce qui appelle, à bon droit, notre souci.",
+    "en": "To aspire to peace is still to desire; and whoever detaches from everything risks detaching also from others and from what rightly calls for our care."
+  },
+  "development": [
+    {
+      "fr": "Le détachement vise à éteindre le désir pour atteindre la paix. Mais cette paix, on la veut : aspirer à la sérénité, travailler à se libérer, c'est encore désirer quelque chose, et fortement.",
+      "en": "Detachment aims to extinguish desire in order to reach peace. But this peace, one wants it: to aspire to serenity, to work at freeing oneself, is still to desire something, and strongly."
+    },
+    {
+      "fr": "Le désir ne se laisse donc pas supprimer du dehors : on le déplace, du monde vers la délivrance elle-même. Vouloir ne plus rien vouloir reste une volonté, qui se prendrait elle-même pour cible.",
+      "en": "Desire, then, cannot be removed from outside: one displaces it, from the world toward deliverance itself. To want to want nothing more is still a willing, one that would take itself as its target."
+    },
+    {
+      "fr": "Et si l'on parvenait vraiment à tout lâcher, que resterait-il ? Celui qui ne tient plus à rien ne tient plus non plus à la justice, aux siens, au sort du monde : à se rendre invulnérable, on risque de se rendre indifférent.",
+      "en": "And if one truly managed to let go of all, what would remain? Whoever holds to nothing no longer holds to justice, to their own, to the fate of the world: in making oneself invulnerable, one risks making oneself indifferent."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc le détachement ne peut être total sans se contredire ou se glacer : il lui faut, lui aussi, garder certains désirs, ceux qui valent qu'on s'y attache.",
+    "en": "So detachment cannot be total without contradicting itself or growing cold: it too must keep certain desires, those worth holding to."
+  },
+  "deepenings": [
+    {
+      "id": "compassion-and-detachment",
+      "label": { "fr": "Se détacher sans se fermer", "en": "To detach without closing off" },
+      "targetStep": 2,
+      "development": [
+        {
+          "fr": "Le <mv id='buddhism'>bouddhisme</mv> ne prêche pas l'indifférence : à l'extinction de la soif égoïste répond la compassion pour tout ce qui souffre ; le détachement y vise l'avidité, non le souci d'autrui.",
+          "en": "<mv id='buddhism'>Buddhism</mv> does not preach indifference: to the extinction of selfish thirst answers compassion for all that suffers; detachment there aims at craving, not at the care for others."
+        },
+        {
+          "fr": "Mais l'objection demeure : pourquoi garder ce souci-là, qui est encore un attachement, et écarter les autres ? Il faut donc, au sein même du détachement, un tri entre les désirs qu'on tient pour justes et ceux qu'on rejette.",
+          "en": "But the objection remains: why keep that care, which is still an attachment, and set aside the rest? One needs, then, within detachment itself, a sorting between the desires one holds just and those one rejects."
+        }
+      ]
+    }
+  ],
+  "difficulty": 2,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "On ne supprime pas tout désir, et l'on ne devrait pas. Mieux vaut choisir ceux qui valent d'être gardés que prétendre n'en avoir aucun.",
+        "en": "One does not remove all desire, and one should not. Better to choose those worth keeping than to claim to have none."
+      },
+      "hints": [{ "axisId": "DESIRE", "value": { "kind": "weights", "weights": [0.1, 0.8, 0.1] }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous passez de l'extinction au discernement : non plus « aucun désir », mais « les justes désirs », ce qui est déjà la voie du tri.",
+        "en": "You move from extinction to discernment: no longer « no desire », but « the right desires », which is already the path of sorting."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je garde le détachement comme direction, en l'admettant impossible à parfaire : on s'allège de la plupart de ses désirs, sans illusion de les abolir tous.",
+        "en": "I keep detachment as a direction, while granting it cannot be perfected: one lightens most of one's desires, without the illusion of abolishing them all."
+      },
+      "hints": [{ "axisId": "DESIRE", "value": { "kind": "weights", "weights": [0.05, 0.35, 0.6] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous tenez le détachement pour un chemin plus que pour un état : on desserre la prise sans jamais prétendre l'avoir tout à fait lâchée.",
+        "en": "You hold detachment as a path more than a state: one loosens the grip without ever claiming to have wholly let go."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "L'aspiration à la paix n'est pas un désir comme les autres, c'est celui qui les apaise. Quant au souci d'autrui, le détachement ne l'éteint pas, il le purifie de l'avidité.",
+        "en": "The aspiration to peace is not a desire like the others, it is the one that quiets them. As for the care for others, detachment does not extinguish it, it purifies it of craving."
+      },
+      "hints": [{ "axisId": "DESIRE", "value": { "kind": "weights", "weights": [0, 0, 1] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous maintenez la voie : il est un désir qui défait les désirs, comme un feu qui s'éteint d'avoir tout consumé.",
+        "en": "You hold to the path: there is a desire that undoes desires, like a fire that goes out from having consumed everything."
+      }
+    }
+  ],
+  "targets": ["desire-detachment-liberation"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

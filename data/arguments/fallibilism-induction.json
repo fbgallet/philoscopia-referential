@@ -1,0 +1,88 @@
+{
+  "id": "fallibilism-induction",
+  "kind": "OBJECTS",
+  "position": { "axisId": "CERTAINTY", "median": true },
+  "name": { "fr": "Le problème de l'induction", "en": "The problem of induction" },
+  "claim": {
+    "fr": "Qu'est-ce qui garantit que demain ressemblera à hier ?",
+    "en": "What guarantees that tomorrow will resemble yesterday?"
+  },
+  "development": [
+    {
+      "fr": "Le faillibiliste fait confiance à la méthode des sciences, qui généralise à partir de l'expérience : le soleil s'est toujours levé, donc il se lèvera ; ce remède a guéri, donc il guérira.",
+      "en": "The fallibilist trusts the method of the sciences, which generalizes from experience: the sun has always risen, so it will rise; this remedy has cured, so it will cure."
+    },
+    {
+      "fr": "Mais <ph id='hume'>Hume</ph> l'a montré : ce passage du passé à l'avenir ne se démontre pas. Que la nature demeure demain ce qu'elle était hier, aucune expérience ne peut l'établir, puisque toute expérience appartient déjà au passé.",
+      "en": "But <ph id='hume'>Hume</ph> showed it: this passage from past to future cannot be demonstrated. That nature will remain tomorrow what it was yesterday, no experience can establish, since every experience already belongs to the past."
+    },
+    {
+      "fr": "Notre confiance dans l'<c id='induction'>induction</c> repose donc sur une simple habitude, non sur une preuve. Le faillibiliste se croyait raisonnable ; il s'aperçoit que son savoir le mieux fondé tient à un acte de foi qu'il ne peut justifier.",
+      "en": "Our confidence in <c id='induction'>induction</c> therefore rests on mere habit, not on proof. The fallibilist thought himself reasonable; he finds that his best-grounded knowledge hangs on an act of faith he cannot justify."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc le savoir révisable que vante le faillibiliste repose, à sa base, sur une croyance que rien ne fonde : son assurance était prématurée.",
+    "en": "So the revisable knowledge the fallibilist vaunts rests, at its base, on a belief that nothing grounds: his assurance was premature."
+  },
+  "difficulty": 2,
+  "source": { "author": { "fr": "Hume", "en": "Hume" }, "figures": [{ "name": { "fr": "Hume", "en": "Hume" }, "kind": "PHILOSOPHER", "slug": "hume" }], "work": { "fr": "Enquête sur l'entendement humain", "en": "An Enquiry concerning Human Understanding" }, "workId": "enquiry-concerning-human-understanding-hume", "year": 1748 },
+  "deepenings": [
+    {
+      "id": "habit-for-reason",
+      "label": { "fr": "L'habitude tient lieu de raison", "en": "Habit stands in for reason" },
+      "targetStep": 2,
+      "development": [
+        {
+          "fr": "Pour Hume, ce n'est pas la raison qui nous fait attendre l'avenir semblable au passé, c'est la coutume : nous avons si souvent vu le feu brûler que nous ne pouvons plus l'imaginer autrement.",
+          "en": "For Hume, it is not reason that makes us expect the future to resemble the past, it is custom: we have so often seen fire burn that we can no longer imagine it otherwise."
+        },
+        {
+          "fr": "Cette habitude est utile, vitale même, mais elle ne prouve rien : elle explique pourquoi nous croyons, non pourquoi nous aurions raison de croire.",
+          "en": "This habit is useful, vital even, but it proves nothing: it explains why we believe, not why we would be right to believe."
+        }
+      ]
+    }
+  ],
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "L'objection est décisive : si même la régularité de la nature ne peut se prouver, alors aucun de nos savoirs n'est vraiment fondé. Je penche pour le doute.",
+        "en": "The objection is decisive: if even the regularity of nature cannot be proved, then none of our knowledge is truly grounded. I lean toward doubt."
+      },
+      "hints": [{ "axisId": "CERTAINTY", "value": { "kind": "scalar", "value": 1 }, "weight": 1.5 }],
+      "discussion": {
+        "fr": "Vous laissez le problème de l'induction emporter votre confiance : votre position glisse vers le <c id='skepticism'>scepticisme</c>.",
+        "en": "You let the problem of induction carry off your confidence: your position slides toward <c id='skepticism'>skepticism</c>."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Si la connaissance a besoin d'un sol ferme que l'expérience ne donne pas, c'est ailleurs, du côté de la raison, qu'il faut le chercher.",
+        "en": "If knowledge needs a firm ground that experience does not give, then it must be sought elsewhere, on the side of reason."
+      },
+      "hints": [{ "axisId": "CERTAINTY", "value": { "kind": "scalar", "value": -0.5 }, "weight": 0.7 }],
+      "discussion": {
+        "fr": "Vous cherchez sous le savoir empirique un fondement rationnel : c'est le geste du <c id='dogmatism'>dogmatisme</c>, qui veut des certitudes premières.",
+        "en": "You seek a rational foundation beneath empirical knowledge: this is the gesture of <c id='dogmatism'>dogmatism</c>, which wants first certainties."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : l'induction n'a pas besoin d'être prouvée pour être raisonnable. Nous corrigeons nos attentes quand elles déçoivent, et c'est tout ce que le faillibilisme demande.",
+        "en": "I refute it: induction need not be proved to be reasonable. We correct our expectations when they disappoint us, and that is all fallibilism asks."
+      },
+      "hints": [{ "axisId": "CERTAINTY", "value": { "kind": "scalar", "value": 0 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous assumez l'induction comme une pratique révisable plutôt qu'un dogme à prouver : l'objection laisse le <c id='fallibilism'>faillibilisme</c> intact.",
+        "en": "You take on induction as a revisable practice rather than a dogma to be proved: the objection leaves <c id='fallibilism'>fallibilism</c> intact."
+      }
+    }
+  ],
+  "problems": ["humes-induction"],
+  "targets": ["fallibilism-science"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

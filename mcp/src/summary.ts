@@ -86,6 +86,11 @@ export function computeSummary(corpus: Corpus, ws: Workspace, locale: Locale) {
     staleEntries: stale,
     openWork: {
       activeInquiries: ws.list("inquiries", { status: "ACTIVE" }).map((q) => q.id),
+      // The reading list is half the register's value: in-progress and to-read.
+      openReadings: ws
+        .list("readings")
+        .filter((r) => r.status === "READING" || r.status === "TO_READ")
+        .map((r) => r.id),
       fuzzyConcepts: ws
         .list("concepts")
         .filter((c) => c.clarity === "FUZZY" || c.clarity === "UNDEFINED")
@@ -113,6 +118,12 @@ const T = {
   beliefs: { en: "Strongly held beliefs", fr: "Croyances fermes" },
   inquiries: { en: "Open questions", fr: "Questions ouvertes" },
   practices: { en: "Current practices", fr: "Pratiques en cours" },
+  quotes: { en: "Florilège (kept quotes)", fr: "Florilège" },
+  readings: { en: "Readings — in progress and to read", fr: "Lectures, en cours et à lire" },
+  readingStatus: {
+    en: { READING: "reading", TO_READ: "to read" } as Record<string, string>,
+    fr: { READING: "en cours", TO_READ: "à lire" } as Record<string, string>,
+  },
   recent: { en: "Moved recently", fr: "A bougé récemment" },
 } as const;
 
@@ -169,6 +180,28 @@ export function renderSummaryMd(corpus: Corpus, ws: Workspace, locale: Locale): 
     lines.push(`## ${T.practices[locale]}`, "");
     for (const practice of practices) {
       lines.push(`- ${practice.statement}${practice.frequency ? ` (${practice.frequency})` : ""}`);
+    }
+    lines.push("");
+  }
+
+  const quotes = ws.list("quotes");
+  if (quotes.length > 0) {
+    lines.push(`## ${T.quotes[locale]}`, "");
+    for (const quote of quotes) {
+      lines.push(`> ${quote.text}${quote.source ? ` — *${quote.source}*` : ""}`, "");
+    }
+  }
+
+  const openReadings = ws
+    .list("readings")
+    .filter((r) => r.status === "READING" || r.status === "TO_READ")
+    .sort((a) => (a.status === "READING" ? -1 : 1));
+  if (openReadings.length > 0) {
+    lines.push(`## ${T.readings[locale]}`, "");
+    for (const reading of openReadings) {
+      const title = reading.title ?? reading.workRef?.slice(2) ?? reading.id;
+      const who = reading.author ? ` (${reading.author})` : "";
+      lines.push(`- **${title}**${who} — ${T.readingStatus[locale][reading.status]}`);
     }
     lines.push("");
   }

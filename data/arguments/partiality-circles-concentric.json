@@ -1,0 +1,52 @@
+{
+  "id": "partiality-circles-concentric",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "PARTIALITY", "median": true },
+  "name": { "fr": "Les cercles concentriques", "en": "The concentric circles" },
+  "claim": {
+    "fr": "Tous comptent également, mais la sollicitude se déploie par cercles, du proche au lointain.",
+    "en": "Everyone counts equally, but concern unfolds in circles, from the near to the far."
+  },
+  "summary": {
+    "fr": "L'égale valeur de tous au fondement, la priorité aux proches dans l'acte : la partialité comme forme vécue de l'égalité.",
+    "en": "The equal worth of all at the foundation, priority to those close to us in action: partiality as the lived form of equality."
+  },
+  "development": [
+    {
+      "fr": "Imaginez-vous au centre de cercles emboîtés : vous d'abord, puis vos proches, vos amis, vos concitoyens, et tout autour l'humanité entière.",
+      "en": "Picture yourself at the center of nested circles: yourself first, then those close to you, your friends, your fellow citizens, and all around them the whole of humanity."
+    },
+    {
+      "fr": "Nous devons de la considération à chacun, mais nous ne pouvons prendre soin effectivement que de nos proches ; un monde où chacun veille d'abord sur son cercle est aussi celui où chacun a le plus de chances d'être protégé.",
+      "en": "We owe consideration to each, but we can effectively care only for those near us; a world in which each watches first over their own circle is also the one in which each has the best chance of being protected."
+    },
+    {
+      "fr": "La partialité n'est alors pas une entorse à l'égalité, mais sa forme vécue : la tâche morale, disaient les <mv id='stoicism'>stoïciens</mv>, est de resserrer peu à peu les cercles, d'étendre au lointain l'attention due au proche.",
+      "en": "Partiality is then not a breach of equality, but its lived form: the moral task, the <mv id='stoicism'>Stoics</mv> said, is to draw the circles gradually inward, extending to the distant the attention owed to the near."
+    }
+  ],
+  "conclusion": {
+    "fr": "On peut donc tenir l'égale valeur de tous au fondement, et la priorité aux proches dans l'acte : c'est l'<c id='oikeiosis'>appropriation</c> graduée des cercles concentriques.",
+    "en": "One can therefore hold the equal worth of all at the foundation, and priority to those close to us in action: this is the graded <c id='oikeiosis'>appropriation</c> of the concentric circles."
+  },
+  "deepenings": [
+    {
+      "id": "two-level-morality",
+      "label": { "fr": "Une seule morale, à deux niveaux", "en": "One morality, on two levels" },
+      "development": [
+        {
+          "fr": "On distingue parfois deux niveaux du jugement moral. À un niveau réfléchi, impartial, on justifie les règles ; au niveau quotidien, on cultive l'amour des siens, précisément parce que c'est, vu d'en haut, ce qui sert le mieux le bien de tous.",
+          "en": "Two levels of moral thinking are sometimes distinguished. At a reflective, impartial level, one justifies the rules; at the everyday level, one cultivates love for one's own, precisely because that is, seen from above, what best serves the good of all."
+        },
+        {
+          "fr": "La partialité devient alors ce que l'impartialité elle-même recommande : non plus son contraire, mais sa mise en œuvre. <mv id='utilitarianism'>Cette idée</mv> répond au soupçon d'instabilité.",
+          "en": "Partiality then becomes what impartiality itself recommends: no longer its opposite, but its implementation. <mv id='utilitarianism'>This idea</mv> answers the charge of instability."
+        }
+      ],
+      "source": { "author": { "fr": "R. M. Hare", "en": "R. M. Hare" }, "figures": [{ "name": { "fr": "R. M. Hare", "en": "R. M. Hare" }, "kind": "PHILOSOPHER" }], "work": { "fr": "La Pensée morale", "en": "Moral Thinking" }, "year": 1981 }
+    }
+  ],
+  "difficulty": 2,
+  "test": "partiality-circles-conflict",
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

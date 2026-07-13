@@ -22,11 +22,32 @@ Technology is not a mere neutral tool: it imposes its own logic, transforms our 
 
 - Marx criticizes the capitalist use of the machine, not the tool itself: technology could serve emancipation under different social relations.
 
-*[Heidegger](../philosophers/heidegger.md) · Ellul · Anders*
+*[Heidegger](../philosophers/heidegger.md) · [Ellul](../philosophers/ellul.md) · [Anders](../philosophers/anders.md)*
 
 ### Instrumentalism (median position)
 
 Technology is in itself neither blessing nor curse: it is a means, and everything depends on the use we make of it. The same tool can heal or destroy. The real problem is not technology but the ends we set for it and the wisdom of those who wield it.
+
+## Live problems
+
+- **Is the tool neutral?** : A tool, we are told, is neither good nor bad in itself, everything depending on its use; but does a weapon, or a news feed engineered to capture the eye, really carry no slope of its own?
+- **The mastery of nature** : Since Bacon and Descartes, technology has promised to make us "as it were masters and possessors of nature"; it has pushed back hunger and disease, but it also unleashes forces no one governs: is this half-kept mastery on its way, or contradictory in its very principle?
+- **Power and wisdom** : Technical means accumulate: each generation inherits the machines and knowledge of all those before it; the wisdom to use them, however, cannot be stockpiled and must be won anew by each of us. Is this gap between power and discernment a lag that education could close, or does it widen by its very nature?
+- **The remedy and the poison** : Plato already feared that writing would weaken the very memory it claimed to serve; every tool that extends us relieves us of a capacity, down to the assistant that now thinks in our place: where does service end, where does dispossession begin?
+- **Choosing our technologies** : No one voted for the smartphone or for artificial intelligence, yet they reorganize our lives: can the adoption of a technology be a common decision, or is it a force that imposes itself and gets debated only after the fact?
+- **Repairing or enhancing the human** : When technology no longer transforms the world but its author, healing shades into enhancing: that threshold is a question in its own right.
+
+## Arguments
+
+- *Techno-optimism* · for : [The great lever](../arguments/techno-optimism-emancipation.md)
+- *Techno-optimism* · against : [Progress of means](../arguments/techno-optimism-condition-objection.md)
+- *Techno-optimism* · against : [Solutionism](../arguments/techno-optimism-solutionism-objection.md)
+- *Techno-criticism* · for : [Technology's own logic](../arguments/techno-criticism-autonomous-system.md)
+- *Techno-criticism* · against : [The charge of nostalgia](../arguments/techno-criticism-moral-panic-objection.md)
+- *Techno-criticism* · against : [Proving too much](../arguments/techno-criticism-proves-too-much-objection.md)
+- *Instrumentalism* · for : [Not the tool, the use](../arguments/instrumentalism-use-decides.md)
+- *Instrumentalism* · against : [An unequal contest](../arguments/instrumentalism-captation-objection.md)
+- *Instrumentalism* · against : [No tool is neutral](../arguments/instrumentalism-non-neutrality-objection.md)
 
 ## Grounding relations
 

@@ -55,6 +55,13 @@
               "UNDEFINED"
             ]
           },
+          "relatedAxes": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^(ax:[A-Z][A-Z0-9_]*|problem:[a-z0-9][a-z0-9-]*)$"
+            }
+          },
           "relatedConcepts": {
             "type": "array",
             "items": {

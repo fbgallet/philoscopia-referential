@@ -22,6 +22,15 @@ Telling the truth is a duty, but only toward those who have a right to it. When 
 
 *Constant*
 
+## Arguments
+
+- *Truthful rigorism* · for : [The argument from trust](../arguments/sincerity-rigorism-trust.md)
+- *Truthful rigorism* · against : [Honesty without regard](../arguments/sincerity-honesty-cruelty-objection.md)
+- *Truthful rigorism* · against : [The arbitrary line](../arguments/sincerity-rigorism-arbitrary-line.md)
+- *Benevolent lying permitted* · for : [The right to the truth](../arguments/sincerity-benevolent-right-to-truth.md)
+- *Benevolent lying permitted* · against : [The lie that infantilizes](../arguments/sincerity-benevolent-paternalism-objection.md)
+- *Benevolent lying permitted* · against : [The lie comes back](../arguments/sincerity-benevolent-trust-collapse.md)
+
 ## Related axes
 
 [Letter or spirit of the rule](../axes/rule-spirit.md)

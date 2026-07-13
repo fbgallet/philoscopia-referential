@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "anders",
+  "stub": true,
+  "name": {
+    "fr": "Günther Anders",
+    "en": "Günther Anders"
+  },
+  "summary": {
+    "fr": "Philosophe allemand de l'ère atomique : notre capacité de produire dépasse désormais notre capacité d'imaginer ce que nous produisons, un « décalage prométhéen » qui rend l'homme comme obsolète devant ses propres œuvres.",
+    "en": "German philosopher of the atomic age: our capacity to produce now outstrips our capacity to imagine what we produce, a \"Promethean gap\" that leaves humanity all but outdated beside its own works."
+  },
+  "birth": 1902,
+  "death": 1992,
+  "nationality": {
+    "fr": "Allemand",
+    "en": "German"
+  },
+  "movements": [],
+  "updatedAt": "2026-07-13T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

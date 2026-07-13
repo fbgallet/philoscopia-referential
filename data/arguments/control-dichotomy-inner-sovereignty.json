@@ -1,0 +1,55 @@
+{
+  "id": "control-dichotomy-inner-sovereignty",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "CONTROL_SCOPE", "poleId": "DICHOTOMY_OF_CONTROL" },
+  "name": { "fr": "La citadelle intérieure", "en": "The inner citadel" },
+  "claim": {
+    "fr": "La seule liberté qu'on ne peut vous reprendre est celle de votre jugement.",
+    "en": "The one freedom no one can take from you is that of your own judgment."
+  },
+  "summary": {
+    "fr": "Suspendre sa paix à ce qui ne dépend pas de soi, c'est la remettre au hasard ; la reporter sur ce qui dépend de soi, c'est la mettre à l'abri.",
+    "en": "To hang your peace on what does not depend on you is to leave it to chance; to rest it on what does depend on you is to put it out of harm's reach."
+  },
+  "development": [
+    {
+      "fr": "De tout ce qui nous arrive, une part seule est vraiment en notre pouvoir : non les événements, ni le corps, ni l'opinion d'autrui, mais l'usage que nous faisons de nos représentations, notre <c id='prohairesis'>faculté de juger et de vouloir</c>.",
+      "en": "Of all that happens to us, one part alone is truly in our power: not events, nor the body, nor the opinion of others, but the use we make of our impressions, our <c id='prohairesis'>faculty of judging and willing</c>."
+    },
+    {
+      "fr": "Attacher son bonheur à ce qui ne dépend pas de nous, c'est le confier à ce qui peut nous être ôté : la fortune donne et reprend la santé, les biens, les êtres aimés. Qui y suspend sa paix vit suspendu à ce qu'il ne maîtrise pas.",
+      "en": "To pin your happiness on what does not depend on you is to entrust it to what can be taken away: fortune gives and takes back health, possessions, the people we love. Whoever hangs his peace on these lives hanging on what he does not control."
+    },
+    {
+      "fr": "Reporter au contraire son effort sur ce qui dépend de nous, c'est bâtir une liberté que rien d'extérieur n'entame : on peut m'enchaîner, me ruiner, me bannir, on ne peut pas me faire juger qu'un mal m'atteint si je n'y consens pas.",
+      "en": "To turn your effort instead toward what depends on you is to build a freedom nothing external can touch: I can be chained, ruined, banished, but no one can make me judge that an evil reaches me if I do not consent to it."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc concentrer sa vie sur ce qui dépend de soi n'est pas se résigner, c'est conquérir la seule maîtrise qui ne dépende d'aucune circonstance.",
+    "en": "So to focus your life on what depends on you is not to resign yourself, it is to win the one mastery that hangs on no circumstance."
+  },
+  "deepenings": [
+    {
+      "id": "what-is-up-to-us",
+      "label": { "fr": "Ce qui dépend de nous", "en": "What is up to us" },
+      "targetStep": 0,
+      "development": [
+        {
+          "fr": "<ph id='epictetus'>Épictète</ph> ouvre son <w id='enchiridion-epictetus'>Manuel</w> par ce partage : il y a des choses qui dépendent de nous, et d'autres qui n'en dépendent pas. Dépendent de nous l'opinion, l'élan vers l'action, le désir et l'aversion ; n'en dépendent pas le corps, les biens, la réputation. C'est la <c id='dichotomy-of-control'>dichotomie du contrôle</c>.",
+          "en": "<ph id='epictetus'>Epictetus</ph> opens his <w id='enchiridion-epictetus'>Enchiridion</w> with this division: some things are up to us, and others are not. Up to us are opinion, the impulse to act, desire and aversion; not up to us are the body, possessions, reputation. This is the <c id='dichotomy-of-control'>dichotomy of control</c>."
+        },
+        {
+          "fr": "Réduire ainsi le périmètre de nos attentes rejoint le <ax id='DESIRE' pole='DETACHMENT'>détachement</ax> : moins on tient à ce qu'on ne maîtrise pas, moins on s'expose à en souffrir.",
+          "en": "Narrowing the scope of our expectations in this way meets <ax id='DESIRE' pole='DETACHMENT'>detachment</ax>: the less we cling to what we do not control, the less we expose ourselves to suffering from it."
+        }
+      ],
+      "source": { "author": { "fr": "Épictète", "en": "Epictetus" }, "figures": [{ "name": { "fr": "Épictète", "en": "Epictetus" }, "kind": "PHILOSOPHER", "slug": "epictetus" }], "work": { "fr": "Manuel", "en": "Enchiridion" }, "workId": "enchiridion-epictetus" }
+    }
+  ],
+  "difficulty": 1,
+  "source": { "author": { "fr": "Épictète", "en": "Epictetus" }, "figures": [{ "name": { "fr": "Épictète", "en": "Epictetus" }, "kind": "PHILOSOPHER", "slug": "epictetus" }], "work": { "fr": "Manuel", "en": "Enchiridion" }, "workId": "enchiridion-epictetus" },
+  "test": "control-dichotomy-sour-grapes-objection",
+  "problems": ["master-of-our-judgments"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

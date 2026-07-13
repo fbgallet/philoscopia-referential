@@ -44,6 +44,22 @@ Le compatibilisme renonce au libre arbitre au sens fort, ce pouvoir de choisir a
 - **Faire ce qu'on veut, ou se gouverner soi-même ?** : Être libre, est-ce faire ce dont on a envie sur le moment, ou se gouverner soi-même, au risque que celui qui suit tous ses désirs en devienne l'esclave ?
 - **Liberté intérieure ou liberté extérieure ?** : Qu'est-ce qui décide le plus de notre liberté : nos dispositions intérieures, ou les contraintes extérieures du pouvoir et de la société ? Et l'une rend-elle l'autre possible : peut-on être libre en esprit sous l'oppression, ou libre au-dehors sans l'être au-dedans ?
 
+## Arguments
+
+- *Libre arbitre* · pour : [L'argument de l'expérience de la délibération](../arguments/free-will-experience.md)
+- *Libre arbitre* · pour : [L'argument de la responsabilité morale](../arguments/free-will-responsibility.md)
+- *Libre arbitre* · contre : [Le cas de Frankfurt](../arguments/free-will-frankfurt-case.md)
+- *Libre arbitre* · contre : [L'argument de l'illusion](../arguments/freedom-determinist-illusion.md)
+- *Déterminisme dur* · pour : [L'argument de la clôture causale](../arguments/determinism-causal-closure.md)
+- *Déterminisme dur* · pour : [L'argument de l'impossible auto-création](../arguments/determinism-no-self-creation.md)
+- *Déterminisme dur* · contre : [L'objection de l'indéterminisme](../arguments/determinism-indeterminism.md)
+- *Déterminisme dur* · contre : [L'argument de la responsabilité](../arguments/determinism-responsibility-objection.md)
+- *Compatibilisme* · pour : [La liberté comme cause adéquate](../arguments/compatibilism-adequate-cause.md)
+- *Compatibilisme* · pour : [L'argument des attitudes réactives](../arguments/compatibilism-reactive-attitudes.md)
+- *Compatibilisme* · pour : [La liberté comme absence de contrainte](../arguments/compatibilism-reasons-responsiveness.md)
+- *Compatibilisme* · contre : [L'argument de la conséquence](../arguments/compatibilism-consequence-argument.md)
+- *Compatibilisme* · contre : [Le faux-fuyant](../arguments/compatibilism-subterfuge.md)
+
 ## Relations de fondation
 
 - *[Liberté de la volonté](../axes/freedom.md) : Déterminisme dur* fonde *[Sens de la peine](../axes/punishment.md) : Réhabilitation* : Si le criminel n'aurait pas pu agir autrement, lui infliger une peine au nom d'un mérite devient injustifiable. [Le déterminisme](../glossary/determinism.md) oriente alors la sanction vers la réhabilitation, qui modifie les causes du comportement plutôt qu'elle ne venge une faute libre.

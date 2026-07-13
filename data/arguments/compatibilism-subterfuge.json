@@ -1,0 +1,71 @@
+{
+  "id": "compatibilism-subterfuge",
+  "kind": "OBJECTS",
+  "position": { "axisId": "FREEDOM", "median": true },
+  "name": { "fr": "Le faux-fuyant", "en": "The subterfuge" },
+  "claim": {
+    "fr": "Redéfinir la liberté, n'est-ce pas esquiver la vraie question ?",
+    "en": "Redefining freedom, is that not dodging the real question?"
+  },
+  "development": [
+    {
+      "fr": "La question était : pouvions-nous agir autrement ? Le compatibiliste y répond en changeant le sens du mot « libre », non en y répondant.",
+      "en": "The question was: could we have acted otherwise? The compatibilist answers it by changing the meaning of the word \"free\", not by answering it."
+    },
+    {
+      "fr": "<ph id='kant'>Kant</ph> y voyait un « misérable subterfuge » ; <per>William James</per>, un « bourbier d'échappatoires ». La liberté qui compte vraiment, disent-ils, c'est le pouvoir d'<c id='alternate-possibilities'>agir autrement</c>, que le déterminisme retire.",
+      "en": "<ph id='kant'>Kant</ph> called it a \"wretched subterfuge\"; <per>William James</per>, a \"quagmire of evasion\". The freedom that truly matters, they say, is the power to <c id='alternate-possibilities'>do otherwise</c>, which determinism removes."
+    },
+    {
+      "fr": "Appeler « libre » un acte entièrement déterminé, ce serait sauver le mot en perdant la chose : la responsabilité, le mérite, le remords supposent davantage qu'une absence de contrainte extérieure.",
+      "en": "To call an entirely determined act \"free\" would be to save the word while losing the thing: responsibility, merit, remorse presuppose more than the mere absence of external constraint."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc le compromis compatibiliste est peut-être un mot sur un problème : ou la liberté est réelle, ou elle ne l'est pas.",
+    "en": "So the compatibilist compromise may be a word over a problem: either freedom is real, or it is not."
+  },
+  "difficulty": 2,
+  "source": { "author": { "fr": "Kant, William James", "en": "Kant, William James" }, "figures": [{ "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" }, { "name": { "fr": "William James", "en": "William James" }, "kind": "PHILOSOPHER", "slug": "william-james" }] },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "Vous avez raison : si la liberté compatibiliste n'est qu'un mot, c'est une liberté réelle, le pouvoir d'agir autrement, qu'il faut.",
+        "en": "You are right: if compatibilist freedom is only a word, what we need is a real freedom, the power to do otherwise."
+      },
+      "hints": [{ "axisId": "FREEDOM", "value": { "kind": "scalar", "value": -1 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous refusez le compromis par le haut : vous exigez un <c id='free-will'>libre arbitre</c> véritable, capable d'échapper aux causes.",
+        "en": "You refuse the compromise from above: you demand a genuine <c id='free-will'>free will</c>, able to escape causes."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "À l'inverse : si ni la liberté compatibiliste ni le pouvoir d'agir autrement ne tiennent, mieux vaut l'admettre, nous ne sommes pas libres.",
+        "en": "The other way: if neither compatibilist freedom nor the power to do otherwise holds, better admit it, we are not free."
+      },
+      "hints": [{ "axisId": "FREEDOM", "value": { "kind": "scalar", "value": 0.5 }, "weight": 0.7 }],
+      "discussion": {
+        "fr": "Vous refusez le compromis par le bas : plutôt qu'une liberté redéfinie, vous penchez vers un <c id='determinism'>déterminisme</c> assumé.",
+        "en": "You refuse the compromise from below: rather than a redefined freedom, you lean toward an avowed <c id='determinism'>determinism</c>."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : la liberté qui compte n'est pas un pouvoir magique d'échapper aux causes, mais l'absence de contrainte. Ce n'est pas un mot, c'est l'essentiel.",
+        "en": "I refute it: the freedom that matters is not a magic power to escape causes, but the absence of constraint. That is no word, it is what matters."
+      },
+      "hints": [{ "axisId": "FREEDOM", "value": { "kind": "scalar", "value": 0 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous tenez le <c id='compatibilism'>compatibilisme</c> pour une thèse, non une esquive : agir selon ses raisons suffit à être libre.",
+        "en": "You hold <c id='compatibilism'>compatibilism</c> to be a thesis, not an evasion: acting from one's reasons suffices to be free."
+      }
+    }
+  ],
+  "problems": ["could-have-done-otherwise"],
+  "targets": ["compatibilism-adequate-cause", "compatibilism-reasons-responsiveness"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

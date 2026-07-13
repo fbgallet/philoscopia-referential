@@ -1,0 +1,53 @@
+{
+  "id": "sincerity-rigorism-trust",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "SINCERITY", "poleId": "TRUTHFUL_RIGORISM" },
+  "name": { "fr": "L'argument de la confiance", "en": "The argument from trust" },
+  "claim": {
+    "fr": "Le mensonge, même bienveillant, détruit ce qui rend la parole possible.",
+    "en": "A lie, even a benevolent one, destroys what makes speech possible."
+  },
+  "summary": {
+    "fr": "Mentir exploite la confiance qui fonde toute parole ; une seule exception, et la présomption de sincérité s'effrite.",
+    "en": "Lying exploits the trust that grounds all speech; allow one exception, and the presumption of sincerity crumbles."
+  },
+  "development": [
+    {
+      "fr": "Quand je parle, je demande tacitement à autrui de me croire ; toute communication repose sur cette présomption de sincérité.",
+      "en": "When I speak, I tacitly ask the other to believe me; all communication rests on this presumption of sincerity."
+    },
+    {
+      "fr": "Mentir, c'est exploiter cette confiance pour conduire l'autre là où il n'irait pas s'il savait : je le traite alors en <c id='categorical-imperative'>simple moyen</c> au service de mes fins.",
+      "en": "To lie is to exploit that trust in order to lead the other where they would not go if they knew: I then treat them as a <c id='categorical-imperative'>mere means</c> to my ends."
+    },
+    {
+      "fr": "Qu'une seule exception soit admise, et chacun se met à redouter le mensonge dit « pour son bien » : la présomption de sincérité s'effrite, et avec elle le lien que la parole tisse.",
+      "en": "Allow a single exception, and everyone starts to dread the lie told \"for their own good\": the presumption of sincerity crumbles, and with it the bond that speech weaves."
+    }
+  ],
+  "conclusion": {
+    "fr": "Le devoir de véracité est donc sans exception, car il protège non pas une règle abstraite, mais la confiance même dont vivent nos relations.",
+    "en": "The duty of truthfulness is therefore without exception, for it protects not an abstract rule, but the very trust on which our relationships live."
+  },
+  "deepenings": [
+    {
+      "id": "self-defeating-lie",
+      "label": { "fr": "Et un mensonge, juste cette fois ?", "en": "And one lie, just this once?" },
+      "targetStep": 2,
+      "development": [
+        {
+          "fr": "Si chacun se permettait de mentir dès que cela l'arrange, ou même « pour le bien », plus personne ne croirait personne.",
+          "en": "If everyone allowed themselves to lie whenever it suited them, or even \"for the good\", no one would believe anyone anymore."
+        },
+        {
+          "fr": "Le mensonge se ruine donc lui-même dès qu'on en fait une règle : c'est pourquoi <ph id='kant'>Kant</ph> y voit une faute qu'aucune fin, si bonne soit-elle, ne rachète.",
+          "en": "The lie thus undoes itself the moment it is made a rule: this is why <ph id='kant'>Kant</ph> sees in it a wrong that no end, however good, redeems."
+        }
+      ],
+      "source": { "author": { "fr": "Kant", "en": "Kant" }, "figures": [{ "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" }], "work": { "fr": "Sur un prétendu droit de mentir par humanité", "en": "On a Supposed Right to Lie from Philanthropy" }, "year": 1797 }
+    }
+  ],
+  "difficulty": 2,
+  "test": "sincerity-rigorism-arbitrary-line",
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

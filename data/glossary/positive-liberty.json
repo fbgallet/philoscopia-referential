@@ -1,0 +1,13 @@
+{
+  "id": "positive-liberty",
+  "term": { "fr": "Liberté positive", "en": "Positive liberty" },
+  "aliases": { "en": ["positive freedom"] },
+  "definition": {
+    "fr": "La liberté positive définit la liberté comme autonomie : être libre, ce n'est pas seulement qu'on me laisse faire, c'est me gouverner moi-même, être maître de mes désirs et, comme citoyen, l'auteur des lois auxquelles j'obéis. <ph id='rousseau'>Rousseau</ph> et <ph id='hegel'>Hegel</ph> en sont les grandes figures, dans le sillage de l'autonomie kantienne. <ph id='berlin'>Berlin</ph> la tient pour la plus noble des libertés mais aussi la plus exposée au dévoiement, quand « libérer » se retourne en contrainte au nom du « vrai moi ». Elle s'oppose à la <c id='negative-liberty'>liberté négative</c>.",
+    "en": "Positive liberty defines freedom as autonomy: to be free is not merely to be left alone, but to govern oneself, to be master of one's desires and, as a citizen, the author of the laws one obeys. <ph id='rousseau'>Rousseau</ph> and <ph id='hegel'>Hegel</ph> are its great figures, in the wake of Kantian autonomy. <ph id='berlin'>Berlin</ph> holds it to be the noblest of liberties but also the most exposed to perversion, when \"liberating\" turns into coercion in the name of the \"true self\". It stands against <c id='negative-liberty'>negative liberty</c>."
+  },
+  "relatedAxes": ["POLITICAL_LIBERTY", "FREEDOM"],
+  "relatedTerms": ["negative-liberty"],
+  "positions": [{ "axisId": "POLITICAL_LIBERTY", "poleId": "POSITIVE_LIBERTY" }],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

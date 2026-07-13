@@ -1,0 +1,53 @@
+{
+  "id": "sincerity-benevolent-right-to-truth",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "SINCERITY", "poleId": "BENEVOLENT_LYING_PERMITTED" },
+  "name": { "fr": "Le droit à la vérité", "en": "The right to the truth" },
+  "claim": {
+    "fr": "On ne doit la vérité qu'à celui qui a le droit de l'entendre.",
+    "en": "We owe the truth only to those who have a right to hear it."
+  },
+  "summary": {
+    "fr": "Dire le vrai est un devoir envers autrui ; nul n'a droit à une vérité dont il userait pour nuire.",
+    "en": "Telling the truth is a duty toward others; no one has a right to a truth they would use to harm."
+  },
+  "development": [
+    {
+      "fr": "Dire la vérité est un devoir, mais un devoir envers autrui : il suppose, chez celui qui la reçoit, un droit correspondant à la connaître.",
+      "en": "Telling the truth is a duty, but a duty toward others: it presupposes, in the one who receives it, a corresponding right to know it."
+    },
+    {
+      "fr": "Or nul n'a droit à une vérité dont il se servirait pour nuire : celui qui vous demande où se cache sa proie n'a aucun titre à votre franchise.",
+      "en": "But no one has a right to a truth they would use to do harm: the one who asks you where his prey is hiding has no claim to your candor."
+    },
+    {
+      "fr": "Quand la vérité ne servirait qu'à blesser un innocent ou à armer une injustice, mentir pour le protéger honore l'esprit de la sincérité mieux que sa lettre.",
+      "en": "When the truth would serve only to wound an innocent or to arm an injustice, lying to protect them honors the spirit of sincerity better than its letter."
+    }
+  ],
+  "conclusion": {
+    "fr": "Mentir peut donc être juste lorsque la vérité, due à personne en pareil cas, ne ferait qu'un tort sans contrepartie.",
+    "en": "Lying can therefore be right when the truth, owed to no one in such a case, would do only an uncompensated harm."
+  },
+  "deepenings": [
+    {
+      "id": "constant-versus-kant",
+      "label": { "fr": "D'où vient l'idée d'un « droit à la vérité » ?", "en": "Where does the idea of a \"right to the truth\" come from?" },
+      "targetStep": 0,
+      "development": [
+        {
+          "fr": "Benjamin Constant objectait à Kant qu'un devoir de vérité sans la moindre exception rendrait toute vie commune impossible : faudrait-il livrer un ami traqué à son poursuivant ?",
+          "en": "Benjamin Constant objected to Kant that a duty of truth without the slightest exception would make all common life impossible: would one have to hand over a hunted friend to his pursuer?"
+        },
+        {
+          "fr": "Kant lui répondit qu'aucune exception n'était tolérable, sous peine de ruiner le principe lui-même. C'est de cette controverse que vient la formule du droit à la vérité.",
+          "en": "Kant replied that no exception was tolerable, on pain of ruining the principle itself. It is from this controversy that the formula of the right to the truth comes."
+        }
+      ],
+      "source": { "author": { "fr": "Benjamin Constant", "en": "Benjamin Constant" }, "figures": [{ "name": { "fr": "Benjamin Constant", "en": "Benjamin Constant" }, "kind": "PHILOSOPHER" }], "work": { "fr": "Des réactions politiques", "en": "On Political Reactions" }, "year": 1797 }
+    }
+  ],
+  "difficulty": 2,
+  "test": "sincerity-benevolent-trust-collapse",
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

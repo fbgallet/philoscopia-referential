@@ -1,0 +1,13 @@
+{
+  "id": "transhumanism",
+  "term": { "fr": "Transhumanisme", "en": "Transhumanism" },
+  "aliases": { "fr": ["transhumaniste"], "en": ["transhumanist"] },
+  "definition": {
+    "fr": "Le transhumanisme tient que l'humanité peut et doit se transformer elle-même par la technique, biotechnologies, prothèses, intelligence artificielle, pour augmenter ses capacités physiques et mentales, voire abolir la vieillesse et la mort. Il prolonge la foi des Lumières dans le progrès en l'appliquant à la nature humaine elle-même, tenue non comme un donné sacré mais comme un point de départ perfectible. <ph id='bostrom'>Bostrom</ph> en est un théoricien majeur. Il s'oppose au bioconservatisme, qui veut préserver une nature humaine à ne pas franchir.",
+    "en": "Transhumanism holds that humanity can and should transform itself through technology, biotechnologies, prosthetics, artificial intelligence, to enhance its physical and mental capacities, and even to abolish aging and death. It extends the Enlightenment faith in progress by applying it to human nature itself, taken not as a sacred given but as a perfectible starting point. <ph id='bostrom'>Bostrom</ph> is one of its major theorists. It stands against bioconservatism, which seeks to preserve a human nature not to be overstepped."
+  },
+  "relatedAxes": ["HUMAN_ENHANCEMENT", "TECHNOLOGY"],
+  "relatedTerms": [],
+  "positions": [{ "axisId": "HUMAN_ENHANCEMENT", "poleId": "TRANSHUMANISM" }],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

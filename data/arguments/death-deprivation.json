@@ -1,0 +1,71 @@
+{
+  "id": "death-deprivation",
+  "kind": "OBJECTS",
+  "position": { "axisId": "DEATH", "poleId": "EPICUREANISM" },
+  "name": { "fr": "L'argument de la privation", "en": "The deprivation argument" },
+  "claim": {
+    "fr": "La mort est un mal parce qu'elle nous prive de tout ce que la vie nous aurait offert.",
+    "en": "Death is an evil because it deprives us of all that life would have offered us."
+  },
+  "development": [
+    {
+      "fr": "Tous les maux ne sont pas des douleurs ressenties : être trahi à son insu, ou voir ses œuvres ruinées après sa mort, nous lèse sans que nous l'éprouvions.",
+      "en": "Not all evils are felt pains: being betrayed without knowing it, or having one's work ruined after death, harms us without our feeling it."
+    },
+    {
+      "fr": "Or la mort nous retranche tout ce que nous aurions vécu de bon : c'est une privation, et une privation peut être un mal même si nul ne reste pour la sentir.",
+      "en": "But death cuts off everything good we would have lived: it is a deprivation, and a deprivation can be an evil even if no one remains to feel it."
+    },
+    {
+      "fr": "La symétrie avec le temps d'avant la naissance ne tient pas : ce qui me précédait ne pouvait rien m'ôter, tandis que la mort interrompt une vie déjà en cours, riche de projets qu'elle réduit à néant.",
+      "en": "The symmetry with the time before birth does not hold: what preceded me could take nothing from me, whereas death interrupts a life already under way, full of projects it reduces to nothing."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc l'indifférence épicurienne va trop loin : il reste raisonnable de tenir la mort pour une perte véritable.",
+    "en": "Therefore Epicurean indifference goes too far: it remains reasonable to regard death as a genuine loss."
+  },
+  "difficulty": 2,
+  "source": { "author": { "fr": "Thomas Nagel", "en": "Thomas Nagel" }, "figures": [{ "name": { "fr": "Thomas Nagel", "en": "Thomas Nagel" }, "kind": "PHILOSOPHER", "slug": "nagel" }], "work": { "fr": "La mort (Questions mortelles)", "en": "Death (Mortal Questions)" }, "year": 1979 },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est juste : la mort est une perte, pas un rien. Et c'est justement parce qu'elle prive que ma vie finie a tant de prix.",
+        "en": "That's right: death is a loss, not a nothing. And it is precisely because it deprives that my finite life is so precious."
+      },
+      "hints": [{ "axisId": "DEATH", "value": { "kind": "weights", "weights": [0.1, 0.8, 0.1, 0] }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous cessez de neutraliser la mort : la tenir pour une privation, c'est laisser la finitude donner son poids à l'existence, comme dans l'<c id='being-toward-death'>être-pour-la-mort</c>.",
+        "en": "You stop neutralizing death: treating it as a deprivation lets finitude give existence its weight, as in <c id='being-toward-death'>being-toward-death</c>."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je garde la sérénité épicurienne, mais sans nier la perte : ne pas craindre la mort n'oblige pas à la dire indifférente.",
+        "en": "I keep the Epicurean serenity, but without denying the loss: not fearing death does not require calling it indifferent."
+      },
+      "hints": [{ "axisId": "DEATH", "value": { "kind": "weights", "weights": [0.55, 0.35, 0.1, 0] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous distinguez deux choses : la peur, qu'on peut dissoudre, et la valeur de ce qui est perdu, qu'on peut reconnaître. La sérénité n'est pas l'aveuglement.",
+        "en": "You distinguish two things: the fear, which can be dissolved, and the value of what is lost, which can be acknowledged. Serenity is not blindness."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : sans sujet qui demeure, il n'y a personne à qui la privation soit un mal. La symétrie tient.",
+        "en": "I refute it: with no subject remaining, there is no one for whom the deprivation is an evil. The symmetry holds."
+      },
+      "hints": [{ "axisId": "DEATH", "value": { "kind": "weights", "weights": [1, 0, 0, 0] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous maintenez l'exigence épicurienne : un mal réclame quelqu'un pour le subir, et la mort ne laisse personne. La crainte reste sans objet.",
+        "en": "You hold to the Epicurean requirement: an evil requires someone to undergo it, and death leaves no one. The fear stays groundless."
+      }
+    }
+  ],
+  "problems": ["before-birth-after-death", "finitude-a-good"],
+  "targets": ["death-epicurean-symmetry"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

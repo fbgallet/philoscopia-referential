@@ -1,0 +1,12 @@
+{
+  "id": "realism-of-universals",
+  "term": { "fr": "Réalisme des universaux", "en": "Realism about universals" },
+  "definition": {
+    "fr": "Le réalisme des universaux tient que les propriétés générales existent réellement, et pas seulement dans nos esprits ou nos mots : la rougeur, le cercle ou la justice sont des réalités que l'on découvre. <ph id='plato'>Platon</ph> les place dans un monde intelligible séparé, la <c id='theory-of-forms'>théorie des Formes</c> ; <ph id='aristotle'>Aristote</ph> les loge dans les choses mêmes, comme leurs formes. Face à lui, le <c id='nominalism'>nominalisme</c> n'y voit que des noms.",
+    "en": "Realism about universals holds that general properties really exist, and not only in our minds or our words: redness, the circle or justice are realities to be discovered. <ph id='plato'>Plato</ph> places them in a separate intelligible world, the <c id='theory-of-forms'>theory of Forms</c>; <ph id='aristotle'>Aristotle</ph> lodges them in things themselves, as their forms. Facing it, <c id='nominalism'>nominalism</c> sees in them nothing but names."
+  },
+  "relatedAxes": ["UNIVERSALS", "ESSENCE"],
+  "relatedTerms": ["nominalism", "theory-of-forms"],
+  "positions": [{ "axisId": "UNIVERSALS", "poleId": "REALISM" }],
+  "updatedAt": "2026-07-11T00:00:00.000Z"
+}

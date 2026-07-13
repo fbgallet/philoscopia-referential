@@ -1,0 +1,68 @@
+{
+  "id": "sincerity-benevolent-paternalism-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "SINCERITY", "poleId": "BENEVOLENT_LYING_PERMITTED" },
+  "name": { "fr": "Le mensonge qui infantilise", "en": "The lie that infantilizes" },
+  "claim": {
+    "fr": "Mentir « pour le bien » d'autrui, c'est décider à sa place de ce qu'il peut supporter.",
+    "en": "Lying \"for the good\" of another is deciding in their place what they can bear."
+  },
+  "development": [
+    {
+      "fr": "Le mensonge bienveillant suppose que je sais, mieux que l'autre, ce qui est bon pour lui : je le juge trop fragile pour la vérité.",
+      "en": "The benevolent lie assumes that I know, better than the other, what is good for them: I judge them too fragile for the truth."
+    },
+    {
+      "fr": "C'est lui refuser le respect dû à un être capable de raison, et le traiter en <kw>enfant</kw> qu'on ménage plutôt qu'en adulte qu'on informe.",
+      "en": "It denies them the respect owed to a being capable of reason, treating them as a <kw>child</kw> to be handled rather than an adult to be informed."
+    },
+    {
+      "fr": "Souvent, du reste, le mensonge épargne d'abord celui qui le dit : il s'évite une conversation difficile et nomme cela de la bonté.",
+      "en": "Often, besides, the lie spares first the one who tells it: he spares himself a hard conversation and calls it kindness."
+    }
+  ],
+  "conclusion": {
+    "fr": "Sous couvert de le protéger, le mensonge bienveillant retire à autrui ce à quoi il a droit : la vérité, et la liberté d'en juger.",
+    "en": "Under cover of protecting them, the benevolent lie takes from the other what is theirs by right: the truth, and the freedom to judge it."
+  },
+  "difficulty": 2,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "L'objection porte : en mentant pour épargner, je prive l'autre d'un choix qui lui revient.",
+        "en": "The objection lands: by lying to spare them, I deprive the other of a choice that is theirs to make."
+      },
+      "hints": [{ "axisId": "SINCERITY", "value": { "kind": "scalar", "value": -1 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous accordez que le respect d'autrui passe avant le souci de l'épargner : la vérité lui est due.",
+        "en": "You grant that respect for the other comes before the wish to spare them: the truth is owed to them."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je maintiens qu'un mensonge peut être bon, mais seulement pour épargner une souffrance vraiment inutile, jamais par confort.",
+        "en": "I maintain that a lie can be good, but only to spare a truly pointless suffering, never out of convenience."
+      },
+      "hints": [{ "axisId": "SINCERITY", "value": { "kind": "scalar", "value": 0.5 }, "weight": 0.7 }],
+      "discussion": {
+        "fr": "Vous resserrez la permission : non pour vous éviter une gêne, mais pour protéger qui ne peut rien tirer de la vérité.",
+        "en": "You narrow the permission: not to spare yourself discomfort, but to protect someone who can gain nothing from the truth."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : reconnaître qu'une vérité serait dévastatrice et inutile, ce n'est pas mépriser autrui, c'est en prendre soin.",
+        "en": "I refute it: to recognize that a truth would be devastating and useless is not to disdain the other, it is to care for them."
+      },
+      "hints": [{ "axisId": "SINCERITY", "value": { "kind": "scalar", "value": 1 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous tenez la bienveillance pour une forme d'égard, non de mépris : épargner n'est pas infantiliser.",
+        "en": "You hold kindness to be a form of regard, not of contempt: to spare someone is not to infantilize them."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-22T00:00:00.000Z"
+}

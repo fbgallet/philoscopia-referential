@@ -1,0 +1,13 @@
+{
+  "id": "consequentialism",
+  "term": { "fr": "Conséquentialisme", "en": "Consequentialism" },
+  "aliases": { "fr": ["conséquentialiste"], "en": ["consequentialist"] },
+  "definition": {
+    "fr": "Le conséquentialisme juge une action à ses seules conséquences : est bon ce qui produit le meilleur état du monde, quelles que soient les intentions ou les règles suivies. Sa version la plus célèbre est l'<mv id='utilitarianism'>utilitarisme</mv> de <ph id='bentham'>Bentham</ph> et <ph id='mill'>Mill</ph>, qui maximise le bonheur du plus grand nombre selon le <c id='greatest-happiness-principle'>principe du plus grand bonheur</c>. Son adversaire classique est le <c id='deontologism'>déontologisme</c> ; on lui objecte qu'il pourrait sacrifier l'innocent au bien du plus grand nombre.",
+    "en": "Consequentialism judges an action by its consequences alone: good is what produces the best state of the world, whatever the intentions or the rules followed. Its most famous version is the <mv id='utilitarianism'>utilitarianism</mv> of <ph id='bentham'>Bentham</ph> and <ph id='mill'>Mill</ph>, which maximizes the happiness of the greatest number according to the <c id='greatest-happiness-principle'>greatest happiness principle</c>. Its classic opponent is <c id='deontologism'>deontologism</c>; the standard objection is that it could sacrifice the innocent to the good of the greater number."
+  },
+  "relatedAxes": ["ETHICS_FOUNDATION"],
+  "relatedTerms": ["deontologism", "greatest-happiness-principle", "hedonism"],
+  "positions": [{ "axisId": "ETHICS_FOUNDATION", "poleId": "CONSEQUENTIALISM" }],
+  "updatedAt": "2026-07-11T00:00:00.000Z"
+}

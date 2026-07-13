@@ -1,0 +1,13 @@
+{
+  "id": "finalism",
+  "term": { "fr": "Finalisme", "en": "Finalism" },
+  "aliases": { "fr": ["finaliste", "finalité", "cause finale"], "en": ["finalist", "final cause"] },
+  "definition": {
+    "fr": "Le finalisme explique les phénomènes naturels par les fins en vue desquelles ils se produisent : l'œil est fait pour voir, la graine tend à devenir arbre. Contre le seul jeu des causes matérielles, il tient la nature pour ordonnée, orientée vers des formes accomplies. <ph id='aristotle'>Aristote</ph> en fait la cause finale, l'une de ses <c id='four-causes'>quatre causes</c> ; <ph id='leibniz'>Leibniz</ph> la prolonge à l'échelle d'un monde voulu pour le mieux. Il s'oppose au <c id='mechanism'>mécanisme</c>, qui n'admet que des causes efficientes.",
+    "en": "Finalism explains natural phenomena by the ends for which they occur: the eye is made for seeing, the seed tends toward becoming a tree. Against the mere play of material causes, it holds nature to be ordered, directed toward completed forms. <ph id='aristotle'>Aristotle</ph> makes this the final cause, one of his <c id='four-causes'>four causes</c>; <ph id='leibniz'>Leibniz</ph> extends it to the scale of a world willed for the best. It stands against <c id='mechanism'>mechanism</c>, which admits only efficient causes."
+  },
+  "relatedAxes": ["CAUSALITY", "LIFE_MEANING"],
+  "relatedTerms": ["mechanism", "vitalism", "four-causes"],
+  "positions": [{ "axisId": "CAUSALITY", "poleId": "FINALISM" }],
+  "updatedAt": "2026-07-11T00:00:00.000Z"
+}

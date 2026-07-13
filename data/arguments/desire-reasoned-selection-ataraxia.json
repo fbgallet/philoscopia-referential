@@ -1,0 +1,55 @@
+{
+  "id": "desire-reasoned-selection-ataraxia",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "DESIRE", "poleId": "REASONED_SELECTION" },
+  "name": { "fr": "La mesure épicurienne", "en": "The Epicurean measure" },
+  "claim": {
+    "fr": "Trier ses désirs, c'est se délivrer de ceux qui, par nature, ne peuvent rassasier.",
+    "en": "To sort your desires is to free yourself from those that, by nature, can never satisfy."
+  },
+  "summary": {
+    "fr": "Nos troubles viennent des désirs sans limite ; les reconnaître et s'en défaire, en satisfaisant les seuls désirs simples, ouvre un contentement que rien d'extérieur ne menace.",
+    "en": "Our troubles come from limitless desires; recognizing and shedding them, while satisfying only the simple ones, opens a contentment that nothing external can threaten."
+  },
+  "development": [
+    {
+      "fr": "Nos plus grands tourments ne naissent pas du manque de pain, mais de désirs sans limite naturelle : toujours plus de richesse, de pouvoir, de reconnaissance. Comme rien ne les rassasie, ils ne laissent jamais en repos.",
+      "en": "Our greatest torments do not arise from a lack of bread, but from desires with no natural limit: ever more wealth, power, recognition. As nothing sates them, they never leave us at rest."
+    },
+    {
+      "fr": "Or les désirs se laissent distinguer : les uns sont naturels et faciles à satisfaire, et leur satisfaction suffit à ôter la douleur ; les autres sont vains et sans mesure, et c'est de les poursuivre que vient le trouble, non de ne pas les atteindre.",
+      "en": "Now desires can be told apart: some are natural and easy to satisfy, and satisfying them suffices to remove pain; others are empty and measureless, and it is from pursuing them, not from failing to reach them, that trouble comes."
+    },
+    {
+      "fr": "En examinant ses désirs pour satisfaire les premiers et congédier les seconds, on atteint un <ax id='SOVEREIGN_GOOD' pole='HEDONISM'>plaisir</ax> qui ne dépend plus de ce qu'on ne maîtrise pas : non l'excitation de l'assouvissement, mais l'<c id='ataraxia'>ataraxie</c>, cette absence de trouble, stable parce qu'elle ne tient qu'à soi.",
+      "en": "By examining one's desires so as to satisfy the first and dismiss the second, one reaches a <ax id='SOVEREIGN_GOOD' pole='HEDONISM'>pleasure</ax> that no longer depends on what one does not control: not the excitement of gratification, but <c id='ataraxia'>ataraxia</c>, that absence of trouble, stable because it rests on oneself alone."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la sagesse n'est ni d'enflammer ses désirs ni de les éteindre tous, mais de les mesurer : un contentement sobre, et durable parce qu'il est à notre portée.",
+    "en": "So wisdom is neither to inflame one's desires nor to extinguish them all, but to measure them: a sober contentment, and lasting because it is within our reach."
+  },
+  "deepenings": [
+    {
+      "id": "the-fourfold-remedy",
+      "label": { "fr": "Le quadruple remède", "en": "The fourfold remedy" },
+      "targetStep": 2,
+      "development": [
+        {
+          "fr": "Les épicuriens résumaient leur sagesse en quatre formules, le <c id='tetrapharmakos'>tetrapharmakos</c> : les dieux ne sont pas à craindre, la mort n'est rien, le bonheur est facile à atteindre, la douleur est facile à supporter.",
+          "en": "The Epicureans summed up their wisdom in four formulas, the <c id='tetrapharmakos'>tetrapharmakos</c>: the gods are not to be feared, death is nothing, happiness is easy to attain, pain is easy to bear."
+        },
+        {
+          "fr": "Le tri des désirs en est le cœur pratique : c'est parce que le bonheur tient à peu de chose, des désirs simples et vrais, qu'il est « facile à atteindre » et hors de portée de la fortune.",
+          "en": "The sorting of desires is its practical heart: it is because happiness rests on little, on simple and true desires, that it is « easy to attain » and beyond the reach of fortune."
+        }
+      ],
+      "source": { "author": { "fr": "Épicure", "en": "Epicurus" }, "figures": [{ "name": { "fr": "Épicure", "en": "Epicurus" }, "kind": "PHILOSOPHER", "slug": "epicurus" }], "work": { "fr": "Lettre à Ménécée", "en": "Letter to Menoeceus" }, "workId": "letter-to-menoeceus-epicurus" }
+    }
+  ],
+  "difficulty": 1,
+  "source": { "author": { "fr": "Épicure", "en": "Epicurus" }, "figures": [{ "name": { "fr": "Épicure", "en": "Epicurus" }, "kind": "PHILOSOPHER", "slug": "epicurus" }], "work": { "fr": "Lettre à Ménécée", "en": "Letter to Menoeceus" }, "workId": "letter-to-menoeceus-epicurus" },
+  "test": "desire-timid-life-objection",
+  "problems": ["desire-hierarchy", "insatiable-desire"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

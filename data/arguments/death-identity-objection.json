@@ -1,0 +1,92 @@
+{
+  "id": "death-identity-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "DEATH", "poleId": "IMMORTALISM" },
+  "name": { "fr": "L'objection de l'identité", "en": "The identity objection" },
+  "claim": {
+    "fr": "Même si quelque chose survit, rien ne garantit que ce soit encore moi.",
+    "en": "Even if something survives, nothing guarantees it would still be me."
+  },
+  "summary": {
+    "fr": "Une âme sans corps, sans mémoire, sans les liens d'une vie : à quoi reconnaîtrait-on que c'est la même personne, et non simplement quelque chose ?",
+    "en": "A soul without a body, without memory, without the ties of a life: by what would one recognize it as the same person, and not simply something?"
+  },
+  "development": [
+    {
+      "fr": "Admettons qu'une part de nous échappe à la mort. Encore faut-il que cette part soit moi, et non un résidu impersonnel : une survie qui ne serait celle de personne ne consolerait de rien.",
+      "en": "Suppose some part of us escapes death. That part must still be me, and not an impersonal remnant: a survival that would be no one's would console no one."
+    },
+    {
+      "fr": "Or ce qui fait que je suis moi, qu'on le cherche dans un corps, dans la continuité d'une mémoire ou dans le récit d'une vie, tient à cette vie même, à ses attaches et à son histoire. Qu'on retranche tout cela, et l'on peine à dire en quoi ce qui demeure serait encore la même personne.",
+      "en": "But what makes me myself, whether one seeks it in a body, in the continuity of a memory, or in the story of a life, holds to that very life, to its ties and its history. Strip all that away, and it becomes hard to say in what way what remains would still be the same person."
+    },
+    {
+      "fr": "L'espérance se trouve alors prise en tenaille : ou bien ce qui survit me ressemble assez pour être moi, et il y faudrait presque un corps et une mémoire ; ou bien c'est une pure âme, et l'on a du mal à y reconnaître quelqu'un.",
+      "en": "The hope is then caught in a vise: either what survives resembles me enough to be me, and it would take almost a body and a memory; or it is a pure soul, and one struggles to recognize anyone in it."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc l'immortalité, à supposer qu'elle ait lieu, pourrait sauver quelque chose en perdant précisément la personne : ce qui survivrait ne serait peut-être plus mon <c id='personal-identity'>identité</c>.",
+    "en": "So immortality, supposing it occurs, might save something while losing precisely the person: what would survive may no longer be my <c id='personal-identity'>identity</c>."
+  },
+  "deepenings": [
+    {
+      "id": "memory-and-narrative",
+      "label": { "fr": "Mémoire et récit", "en": "Memory and narrative" },
+      "targetStep": 1,
+      "development": [
+        {
+          "fr": "<ph id='locke'>Locke</ph> lie l'identité non à une substance, mais à la continuité de la conscience et du souvenir : je suis le même que celui dont je me rappelle les actes.",
+          "en": "<ph id='locke'>Locke</ph> ties identity not to a substance but to the continuity of consciousness and memory: I am the same as the one whose deeds I remember."
+        },
+        {
+          "fr": "<ph>Ricœur</ph> y ajoute le récit : une personne est l'histoire qu'elle se raconte et que les autres racontent d'elle. Dans les deux cas, la survie d'une âme sans mémoire ni histoire ne serait celle de personne en particulier.",
+          "en": "<ph>Ricoeur</ph> adds narrative to this: a person is the story they tell themselves and that others tell of them. In both cases, the survival of a soul without memory or history would be no one's in particular."
+        }
+      ]
+    }
+  ],
+  "difficulty": 2,
+  "source": { "author": { "fr": "Locke, Ricœur", "en": "Locke, Ricoeur" }, "figures": [{ "name": { "fr": "Locke", "en": "Locke" }, "kind": "PHILOSOPHER", "slug": "locke" }, { "name": { "fr": "Paul Ricœur", "en": "Paul Ricœur" }, "kind": "PHILOSOPHER", "slug": "ricoeur" }] },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est vrai : ce qui survivrait sans corps ni mémoire ne serait plus vraiment moi. Autant assumer que je finis avec mon corps.",
+        "en": "True: what would survive without body or memory would no longer really be me. Better to accept that I end with my body."
+      },
+      "hints": [{ "axisId": "DEATH", "value": { "kind": "weights", "weights": [0.15, 0.7, 0.15, 0] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous laissez l'objection trancher : assumer la finitude plutôt qu'une survie qui ne serait celle de personne, c'est la voie de l'<c id='being-toward-death'>être-pour-la-mort</c>.",
+        "en": "You let the objection decide: to accept finitude rather than a survival that would be no one's is the path of <c id='being-toward-death'>being-toward-death</c>."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je garde l'espérance, mais sans prétendre savoir ce qui demeure : un sens qui me dépasse, plutôt qu'un double de moi-même.",
+        "en": "I keep the hope, but without claiming to know what remains: a meaning that exceeds me, rather than a double of myself."
+      },
+      "hints": [{ "axisId": "DEATH", "value": { "kind": "weights", "weights": [0.1, 0.3, 0.6, 0] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous déplacez l'espérance du « moi qui dure » vers <ax id='DEATH' pole='IMMORTALISM'>un sens qui excède la personne</ax>.",
+        "en": "You shift the hope from the \"self that endures\" toward <ax id='DEATH' pole='IMMORTALISM'>a meaning that exceeds the person</ax>."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : ce qui fait le moi n'est pas le corps mais la conscience, et c'est elle, justement, que l'on espère voir durer.",
+        "en": "I refute it: what makes the self is not the body but consciousness, and it is precisely that which one hopes will endure."
+      },
+      "hints": [{ "axisId": "DEATH", "value": { "kind": "weights", "weights": [0.05, 0.1, 0.85, 0] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous tenez la conscience pour le vrai siège de l'identité : c'est la réponse de <ph id='plato'>Platon</ph> et de <ph id='descartes'>Descartes</ph>.",
+        "en": "You hold consciousness to be the true seat of identity: this is the reply of <ph id='plato'>Plato</ph> and <ph id='descartes'>Descartes</ph>."
+      }
+    }
+  ],
+  "problems": ["does-something-survive"],
+  "targets": ["death-immortalist-hope"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

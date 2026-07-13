@@ -1,0 +1,69 @@
+{
+  "id": "partiality-impartialism-demandingness",
+  "kind": "OBJECTS",
+  "position": { "axisId": "PARTIALITY", "poleId": "IMPARTIALISM" },
+  "name": { "fr": "L'exigence sans fin", "en": "The endless demand" },
+  "claim": {
+    "fr": "Si chacun compte également, votre vie entière devient une faute.",
+    "en": "If everyone counts equally, your whole life becomes a failing."
+  },
+  "development": [
+    {
+      "fr": "Si la peine d'un inconnu pèse autant que celle d'un proche, chaque euro dépensé pour un plaisir dont je pourrais me passer est un euro dû à qui meurt faute de soins.",
+      "en": "If a stranger's pain weighs as much as a loved one's, every euro spent on a pleasure I could do without is a euro owed to someone dying for want of care."
+    },
+    {
+      "fr": "L'impartialité stricte ne laisse aucun répit : offrir un cadeau à mon enfant plutôt que de sauver un enfant lointain devient, à chaque instant, un manquement.",
+      "en": "Strict impartiality grants no respite: giving my child a gift rather than saving a distant child becomes, at every moment, a dereliction."
+    },
+    {
+      "fr": "Une morale qu'aucun être humain ne peut tenir, et qui condamne jusqu'à l'amour porté aux siens, s'est peut-être trompée sur ce qu'est la morale.",
+      "en": "A morality that no human being can keep, and that condemns even the love we bear our own, may have mistaken what morality is."
+    }
+  ],
+  "conclusion": {
+    "fr": "Une exigence que nul ne peut vivre, et qui fait de l'attachement une faute, se réfute peut-être d'elle-même.",
+    "en": "A demand that no one can live by, and that turns attachment into a fault, may refute itself."
+  },
+  "difficulty": 3,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "Vous avez raison : une morale qui condamne tout soin particulier et fait de la vie ordinaire une faute permanente s'est trompée sur ce qu'elle peut exiger.",
+        "en": "You are right: a morality that condemns all particular care and makes ordinary life a permanent fault has mistaken what it can demand."
+      },
+      "hints": [{ "axisId": "PARTIALITY", "value": { "kind": "scalar", "value": 1 }, "weight": 1.5 }],
+      "discussion": {
+        "fr": "Vous rendez aux liens leur légitimité : l'exigence impartiale a une limite.",
+        "en": "You restore the bonds' legitimacy: the impartial demand has a limit."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je maintiens l'égale valeur de chacun, mais je reconnais des bornes à ce qu'elle peut réclamer de nous : la partialité a sa place.",
+        "en": "I maintain the equal worth of each, but I recognize limits to what it can demand of us: partiality has its place."
+      },
+      "hints": [{ "axisId": "PARTIALITY", "value": { "kind": "scalar", "value": 0 }, "weight": 0.7 }],
+      "discussion": {
+        "fr": "Vous gardez le fondement impartial en lui donnant une forme vivable : les cercles concentriques.",
+        "en": "You keep the impartial foundation while giving it a livable form: the concentric circles."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : qu'une exigence soit lourde ne la rend pas fausse ; mieux vaut un idéal qu'on approche mal qu'un confort qu'on baptise morale.",
+        "en": "I refute it: that a demand is heavy does not make it false; better an ideal we fall short of than a comfort we christen morality."
+      },
+      "hints": [{ "axisId": "PARTIALITY", "value": { "kind": "scalar", "value": -1 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous assumez la demande : la difficulté d'un devoir n'en dispense pas.",
+        "en": "You accept the demand: the difficulty of a duty does not excuse us from it."
+      }
+    }
+  ],
+  "targets": ["partiality-impartialism-equal-weight"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

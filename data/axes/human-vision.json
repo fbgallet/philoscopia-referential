@@ -85,10 +85,216 @@
   "clusters": [
     "TRADITION_ORDER"
   ],
+  "problems": [
+    {
+      "id": "obedience-and-evil",
+      "resolution": "SURFACED",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "l'homme ordinaire sous l'autorité",
+        "en": "the ordinary person under authority"
+      },
+      "mode": "DESCRIPTIVE",
+      "keywords": [
+        { "fr": "banalité du mal", "en": "banality of evil" },
+        { "fr": "obéissance à l'autorité", "en": "obedience to authority" },
+        { "fr": "situationnisme", "en": "situationism" }
+      ],
+      "poles": ["ANTHROPOLOGICAL_OPTIMISM", "ANTHROPOLOGICAL_PESSIMISM"],
+      "anchors": [
+        { "name": { "fr": "Arendt", "en": "Arendt" }, "kind": "PHILOSOPHER", "slug": "arendt" },
+        { "name": { "fr": "Hobbes", "en": "Hobbes" }, "kind": "PHILOSOPHER", "slug": "hobbes" }
+      ],
+      "ref": { "kind": "THOUGHT_EXPERIMENT", "id": "milgram" },
+      "title": {
+        "fr": "Des gens ordinaires, un ordre à exécuter",
+        "en": "Ordinary people, an order to carry out"
+      },
+      "explicitation": {
+        "fr": "Que des gens ordinaires infligent le pire sur un simple ordre : est-ce une méchanceté latente qui se réveille, ou la preuve que ce sont les circonstances, non la nature, qui décident de nos actes ?",
+        "en": "That ordinary people inflict the worst on a mere order: is it a latent cruelty waking up, or proof that circumstances, not nature, decide our acts?"
+      }
+    },
+    {
+      "id": "origin-of-evil",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "la source de nos actes mauvais",
+        "en": "the source of our bad acts"
+      },
+      "mode": "DESCRIPTIVE",
+      "keywords": [
+        { "fr": "amour-propre", "en": "amour-propre" },
+        { "fr": "pulsion de mort", "en": "death drive" },
+        { "fr": "péché originel", "en": "original sin" },
+        { "fr": "société corruptrice", "en": "corrupting society" }
+      ],
+      "poles": ["ANTHROPOLOGICAL_OPTIMISM", "ANTHROPOLOGICAL_PESSIMISM"],
+      "anchors": [
+        { "name": { "fr": "Rousseau", "en": "Rousseau" }, "kind": "PHILOSOPHER", "slug": "rousseau" },
+        { "name": { "fr": "Augustin", "en": "Augustine" }, "kind": "PHILOSOPHER", "slug": "augustine" },
+        { "name": { "fr": "Freud", "en": "Freud" }, "kind": "PHILOSOPHER", "slug": "freud" },
+        { "name": { "fr": "Hobbes", "en": "Hobbes" }, "kind": "PHILOSOPHER", "slug": "hobbes" }
+      ],
+      "title": {
+        "fr": "D'où vient le mal en l'homme ?",
+        "en": "Where does evil in humans come from?"
+      },
+      "explicitation": {
+        "fr": "Si l'homme fait le mal, ce penchant est-il en lui dès l'origine, comme une pulsion ou une nature déchue, ou naît-il du dehors, de la comparaison sociale et des inégalités ? Selon la réponse, la méchanceté est notre fond ou notre produit.",
+        "en": "If humans do evil, is that bent in them from the start, a drive or a fallen nature, or does it arise from without, from social comparison and inequality? Depending on the answer, wickedness is our depth or our product."
+      }
+    },
+    {
+      "id": "perfectibility",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "la capacité humaine de changer",
+        "en": "the human capacity to change"
+      },
+      "mode": "DESCRIPTIVE",
+      "keywords": [
+        { "fr": "perfectibilité", "en": "perfectibility" },
+        { "fr": "éducabilité", "en": "educability" },
+        { "fr": "bois tordu de l'humanité", "en": "crooked timber of humanity" }
+      ],
+      "poles": ["ANTHROPOLOGICAL_OPTIMISM", "ANTHROPOLOGICAL_PESSIMISM"],
+      "anchors": [
+        { "name": { "fr": "Rousseau", "en": "Rousseau" }, "kind": "PHILOSOPHER", "slug": "rousseau" },
+        { "name": { "fr": "Condorcet", "en": "Condorcet" }, "kind": "PHILOSOPHER", "slug": "condorcet" },
+        { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" }
+      ],
+      "doorways": [{ "axis": "MORAL_DEMAND", "problem": "what-humans-can-bear" }],
+      "title": {
+        "fr": "Jusqu'où peut-on changer l'homme ?",
+        "en": "How far can human beings be changed?"
+      },
+      "explicitation": {
+        "fr": "Le pari de l'éducation suppose qu'on peut refaire l'homme, l'adoucir, le rendre meilleur. Mais y a-t-il des travers immuables, un « bois tordu » qu'aucune éducation ne redresse jamais ?",
+        "en": "The wager of education assumes we can remake people, soften them, better them. But are there immovable flaws, a \"crooked timber\" that no education ever straightens?"
+      }
+    },
+    {
+      "id": "half-angel-half-beast",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "l'être humain partagé",
+        "en": "the divided human being"
+      },
+      "mode": "DESCRIPTIVE",
+      "keywords": [
+        { "fr": "grandeur et misère", "en": "greatness and wretchedness" },
+        { "fr": "roseau pensant", "en": "thinking reed" }
+      ],
+      "poles": ["ANTHROPOLOGICAL_OPTIMISM", "ANTHROPOLOGICAL_PESSIMISM"],
+      "anchors": [
+        { "name": { "fr": "Pascal", "en": "Pascal" }, "kind": "PHILOSOPHER", "slug": "pascal" }
+      ],
+      "doorways": [{ "axis": "ATTENTION", "problem": "pascal-restlessness" }],
+      "title": {
+        "fr": "Mi-ange, mi-bête",
+        "en": "Half angel, half beast"
+      },
+      "explicitation": {
+        "fr": "L'homme est-il un être partagé, capable en même temps du plus haut et du plus bas, grand par cela même qui le rend misérable, ou cette image dramatique n'est-elle qu'une façon d'ennoblir un simple animal en le disant déchu ?",
+        "en": "Is the human a divided being, capable at once of the highest and the lowest, great through the very thing that makes it wretched, or is this dramatic image merely a way of ennobling a mere animal by calling it fallen?"
+      }
+    },
+    {
+      "id": "is-there-a-human-nature",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "une nature humaine",
+        "en": "a human nature"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "nature humaine", "en": "human nature" },
+        { "fr": "l'existence précède l'essence", "en": "existence precedes essence" }
+      ],
+      "anchors": [
+        { "name": { "fr": "Sartre", "en": "Sartre" }, "kind": "PHILOSOPHER", "slug": "sartre" },
+        { "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" }
+      ],
+      "doorways": [{ "axis": "HUMAN_NATURE" }],
+      "title": {
+        "fr": "Y a-t-il une nature humaine ?",
+        "en": "Is there a human nature?"
+      },
+      "explicitation": {
+        "fr": "Demander si l'homme est bon ou mauvais suppose qu'il a une nature. Mais peut-être n'y a-t-il pas d'essence donnée : l'homme se ferait alors lui-même, sans modèle reçu.",
+        "en": "Asking whether humans are good or evil assumes they have a nature. But perhaps there is no given essence: humans would then make themselves, with no received model."
+      }
+    },
+    {
+      "id": "is-there-real-altruism",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "nos meilleures actions",
+        "en": "our best actions"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "égoïsme psychologique", "en": "psychological egoism" },
+        { "fr": "amour-propre caché", "en": "hidden self-love" }
+      ],
+      "anchors": [
+        { "name": { "fr": "Hobbes", "en": "Hobbes" }, "kind": "PHILOSOPHER", "slug": "hobbes" },
+        { "name": { "fr": "La Rochefoucauld", "en": "La Rochefoucauld" }, "kind": "PHILOSOPHER" }
+      ],
+      "doorways": [{ "axis": "SELF_INTEREST" }],
+      "title": {
+        "fr": "L'altruisme existe-t-il vraiment ?",
+        "en": "Does genuine altruism exist?"
+      },
+      "explicitation": {
+        "fr": "Nos actions les plus généreuses cachent-elles toujours un intérêt, un besoin d'être aimé, une vanité ? S'il n'existe aucun acte vraiment désintéressé, parler de bonté perd son sens.",
+        "en": "Do our most generous acts always hide an interest, a need to be loved, a vanity? If no truly disinterested act exists, talk of goodness loses its meaning."
+      }
+    },
+    {
+      "id": "institutions-for-devils",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "les institutions",
+        "en": "institutions"
+      },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "POLITICAL",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "un peuple de démons", "en": "a nation of devils" },
+        { "fr": "tout homme est un fripon", "en": "every man a knave" }
+      ],
+      "anchors": [
+        { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" },
+        { "name": { "fr": "Madison", "en": "Madison" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "Hume", "en": "Hume" }, "kind": "PHILOSOPHER", "slug": "hume" }
+      ],
+      "doorways": [{ "axis": "POLITICAL_IDEAL" }],
+      "title": {
+        "fr": "Des institutions pour des anges, ou pour des démons ?",
+        "en": "Institutions for angels, or for devils?"
+      },
+      "explicitation": {
+        "fr": "Faut-il concevoir les lois en comptant sur la vertu des citoyens, ou les bâtir de sorte que « même un peuple de démons » soit contraint d'agir bien ? La vision qu'on a de l'homme commande le type d'institutions qu'on juge nécessaire.",
+        "en": "Should laws be designed counting on citizens' virtue, or built so that \"even a nation of devils\" would be forced to act well? One's vision of humanity governs the kind of institutions one deems necessary."
+      }
+    }
+  ],
   "relatedAxes": [
     "HUMAN_NATURE",
     "POLITICAL_IDEAL",
     "SELF_INTEREST",
-    "ATTENTION"
+    "ATTENTION",
+    "MORAL_DEMAND"
   ]
 }

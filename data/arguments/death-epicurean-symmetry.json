@@ -1,0 +1,56 @@
+{
+  "id": "death-epicurean-symmetry",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "DEATH", "poleId": "EPICUREANISM" },
+  "name": { "fr": "L'argument de la symétrie", "en": "The symmetry argument" },
+  "claim": {
+    "fr": "La mort ne peut être un mal, car là où elle est, nous ne sommes plus.",
+    "en": "Death cannot be an evil, for where it is, we no longer are."
+  },
+  "summary": {
+    "fr": "Rien ne reste pour souffrir de la mort, et le néant d'après ressemble au néant d'avant la naissance, qui ne nous trouble pas.",
+    "en": "Nothing remains to suffer death, and the nothingness after resembles the nothingness before birth, which does not trouble us."
+  },
+  "development": [
+    {
+      "fr": "Un mal n'est un mal que pour quelqu'un qui l'éprouve : la douleur, la perte, la peur supposent un sujet présent pour les ressentir.",
+      "en": "An evil is an evil only for someone who undergoes it: pain, loss, fear all presuppose a subject present to feel them."
+    },
+    {
+      "fr": "Or dans la mort, il n'y a plus personne : « tant que nous sommes, la mort n'est pas là ; quand la mort est là, nous ne sommes plus ». Il n'y a donc nul sujet à qui elle puisse nuire.",
+      "en": "But in death there is no one left: \"while we exist, death is not here; when death is here, we no longer exist.\" There is therefore no subject it could harm."
+    },
+    {
+      "fr": "<ph>Lucrèce</ph> ajoute une symétrie : l'éternité qui a précédé notre naissance ne nous afflige pas ; pourquoi celle qui suivra notre mort, qui lui ressemble en tout, nous effraierait-elle ?",
+      "en": "<ph>Lucretius</ph> adds a symmetry: the eternity that preceded our birth does not distress us; why should the one that follows our death, which resembles it in every respect, frighten us?"
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc craindre la mort est sans objet : s'en délivrer permet de jouir sereinement de la vie présente.",
+    "en": "Therefore fearing death is groundless: freeing ourselves from it lets us serenely enjoy the present life."
+  },
+  "deepenings": [
+    {
+      "id": "menoeceus",
+      "label": { "fr": "« La mort n'est rien pour nous »", "en": "\"Death is nothing to us\"" },
+      "targetStep": 1,
+      "development": [
+        {
+          "fr": "Épicure écrit à Ménécée que se familiariser avec l'idée que la mort n'est rien pour nous rend la vie mortelle joyeuse, non en ajoutant un temps infini, mais en ôtant le désir d'immortalité.",
+          "en": "Epicurus writes to Menoeceus that becoming familiar with the idea that death is nothing to us makes mortal life joyful, not by adding endless time, but by removing the craving for immortality."
+        },
+        {
+          "fr": "Le sage ne redoute donc pas de ne plus vivre, comme il ne souffre pas de n'avoir pas vécu plus tôt : c'est le même néant, indifférent dans les deux sens.",
+          "en": "The sage therefore does not dread no longer living, just as he does not suffer from not having lived earlier: it is the same nothingness, indifferent in both directions."
+        }
+      ],
+      "source": { "author": { "fr": "Épicure", "en": "Epicurus" }, "figures": [{ "name": { "fr": "Épicure", "en": "Epicurus" }, "kind": "PHILOSOPHER", "slug": "epicurus" }], "work": { "fr": "Lettre à Ménécée", "en": "Letter to Menoeceus" }, "workId": "letter-to-menoeceus-epicurus" }
+    }
+  ],
+  "difficulty": 1,
+  "source": { "author": { "fr": "Épicure, Lucrèce", "en": "Epicurus, Lucretius" }, "figures": [{ "name": { "fr": "Épicure", "en": "Epicurus" }, "kind": "PHILOSOPHER", "slug": "epicurus" }, { "name": { "fr": "Lucrèce", "en": "Lucretius" }, "kind": "PHILOSOPHER", "slug": "lucretius" }], "work": { "fr": "Lettre à Ménécée ; De la nature", "en": "Letter to Menoeceus; On the Nature of Things" } },
+  "relatedThoughtExperiment": "endless-life",
+  "test": "death-deprivation",
+  "problems": ["before-birth-after-death", "taming-the-fear"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

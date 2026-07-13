@@ -1,0 +1,13 @@
+{
+  "id": "negative-liberty",
+  "term": { "fr": "Liberté négative", "en": "Negative liberty" },
+  "aliases": { "en": ["negative freedom"] },
+  "definition": {
+    "fr": "La liberté négative définit la liberté comme absence d'entraves : je suis libre dans la mesure où nul ne m'empêche d'agir comme je l'entends. Elle se mesure à l'étendue du domaine laissé sans interférence, et assigne à la loi de le protéger plutôt que de le réduire. <ph id='berlin'>Berlin</ph> en fait l'un de ses « deux concepts de liberté » ; Constant l'associait déjà à la liberté des Modernes, <ph id='nozick'>Nozick</ph> et Hayek à la défense du marché. Elle s'oppose à la <c id='positive-liberty'>liberté positive</c>.",
+    "en": "Negative liberty defines freedom as the absence of hindrance: I am free to the extent that no one prevents me from acting as I see fit. It is measured by the extent of the domain left without interference, and assigns to the law the task of protecting it rather than narrowing it. <ph id='berlin'>Berlin</ph> makes it one of his \"two concepts of liberty\"; Constant had already tied it to the liberty of the Moderns, <ph id='nozick'>Nozick</ph> and Hayek to the defense of the market. It stands against <c id='positive-liberty'>positive liberty</c>."
+  },
+  "relatedAxes": ["POLITICAL_LIBERTY", "FREEDOM"],
+  "relatedTerms": ["positive-liberty"],
+  "positions": [{ "axisId": "POLITICAL_LIBERTY", "poleId": "NEGATIVE_LIBERTY" }],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "dogmatism-history-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "CERTAINTY", "poleId": "DOGMATISM" },
+  "name": { "fr": "Le cimetière des certitudes", "en": "The graveyard of certainties" },
+  "claim": {
+    "fr": "Tant de vérités tenues pour définitives ont fini par tomber.",
+    "en": "So many truths once held as final have ended up falling."
+  },
+  "development": [
+    {
+      "fr": "À chaque époque, les esprits les plus rigoureux ont tenu pour définitivement acquises des vérités que la suite a renversées : que la Terre se tenait immobile au centre du monde, que l'espace et le temps étaient les mêmes partout et pour tous, que la mécanique de Newton disait le dernier mot sur le mouvement.",
+      "en": "In every age, the most rigorous minds held as settled for good truths that what came after overturned: that the Earth stood motionless at the centre of the world, that space and time were the same everywhere and for everyone, that Newton's mechanics had the last word on motion."
+    },
+    {
+      "fr": "Ces convictions n'étaient pas des opinions en l'air : elles s'appuyaient sur les meilleures preuves de leur temps, et les plus savants les croyaient à l'abri de toute révision.",
+      "en": "These convictions were no idle opinions: they rested on the best evidence of their day, and the most learned believed them safe from any revision."
+    },
+    {
+      "fr": "Or si les certitudes les mieux établies d'hier sont les erreurs reconnues d'aujourd'hui, rien n'assure que les nôtres connaîtront un autre sort : le même raisonnement, appliqué à notre époque, devrait nous rendre prudents.",
+      "en": "But if the best-established certainties of yesterday are the acknowledged errors of today, nothing assures us that ours will meet a different fate: the same reasoning, applied to our own age, should make us cautious."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc aucune vérité, si assurée soit-elle, ne peut se déclarer définitivement à l'abri : le propre du savoir est d'être un jour révisé.",
+    "en": "So no truth, however assured, can declare itself definitively safe: it is the nature of knowledge to be revised one day."
+  },
+  "difficulty": 1,
+  "deepenings": [
+    {
+      "id": "pessimistic-induction",
+      "label": { "fr": "L'induction pessimiste", "en": "The pessimistic induction" },
+      "targetStep": 2,
+      "development": [
+        {
+          "fr": "Les philosophes des sciences ont donné un nom à cet argument : l'<kw>induction pessimiste</kw>. Puisque la plupart des théories jadis tenues pour vraies ont fini par être abandonnées, il serait imprudent de croire les nôtres soustraites à ce mouvement.",
+          "en": "Philosophers of science have given this argument a name: the <kw>pessimistic induction</kw>. Since most theories once held to be true have ended up abandoned, it would be rash to believe ours exempt from that movement."
+        },
+        {
+          "fr": "On peut lui résister en distinguant, dans une théorie dépassée, ce qui a malgré tout été conservé : Newton n'est pas faux partout, il reste exact dans son domaine. Le progrès garderait ainsi un noyau, sans livrer pour autant de certitude close.",
+          "en": "One can resist it by distinguishing, within a superseded theory, what was nonetheless kept: Newton is not wrong everywhere, he remains exact within his domain. Progress would thus preserve a core, without yielding any closed certainty for all that."
+        }
+      ],
+      "source": { "author": { "fr": "Larry Laudan", "en": "Larry Laudan" }, "figures": [{ "name": { "fr": "Larry Laudan", "en": "Larry Laudan" }, "kind": "PHILOSOPHER" }] }
+    }
+  ],
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "L'histoire est sans appel : si nos meilleures certitudes ont toujours fini par céder, mieux vaut ne plus se fier à aucune et suspendre son jugement.",
+        "en": "History is final: if our best certainties have always given way in the end, better to trust none of them and suspend judgment."
+      },
+      "hints": [{ "axisId": "CERTAINTY", "value": { "kind": "scalar", "value": 1 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous tirez de la faillibilité du passé une défiance générale : votre position glisse vers le <c id='skepticism'>scepticisme</c>.",
+        "en": "You draw a general distrust from the fallibility of the past: your position slides toward <c id='skepticism'>skepticism</c>."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "J'abandonne l'idée de vérités définitives, mais je garde un savoir solide, que je tiens pour le meilleur disponible et prêt à être corrigé.",
+        "en": "I give up the idea of definitive truths, but I keep solid knowledge, which I hold as the best available and ready to be corrected."
+      },
+      "hints": [{ "axisId": "CERTAINTY", "value": { "kind": "scalar", "value": 0 }, "weight": 0.7 }],
+      "discussion": {
+        "fr": "Vous gardez la connaissance en lui ôtant sa prétention au définitif : c'est le <c id='fallibilism'>faillibilisme</c>.",
+        "en": "You keep knowledge while stripping it of its claim to the definitive: this is <c id='fallibilism'>fallibilism</c>."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : ces exemples viennent des sciences de la nature, qui avancent par révision. D'autres vérités semblent d'une autre étoffe : le cogito, ou les vérités de la logique et du calcul, résistent là où les théories physiques passent.",
+        "en": "I refute it: these examples come from the natural sciences, which advance by revision. Other truths seem of a different fabric: the cogito, or the truths of logic and arithmetic, hold where physical theories pass away."
+      },
+      "hints": [{ "axisId": "CERTAINTY", "value": { "kind": "scalar", "value": -1 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous distinguez les savoirs empiriques, révisables, des vérités de raison qui, elles, semblent tenir : il y aurait bien des certitudes définitives, mais pas n'importe lesquelles.",
+        "en": "You distinguish empirical knowledge, which is revisable, from truths of reason, which do seem to hold: there would indeed be definitive certainties, but not just any of them."
+      }
+    }
+  ],
+  "problems": ["claim-without-proof"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

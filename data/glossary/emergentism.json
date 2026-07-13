@@ -1,0 +1,13 @@
+{
+  "id": "emergentism",
+  "term": { "fr": "Émergentisme", "en": "Emergentism" },
+  "aliases": { "fr": ["émergentiste", "émergence"], "en": ["emergentist", "emergence"] },
+  "definition": {
+    "fr": "L'émergentisme tient que le tout est plus que la somme de ses parties : de l'organisation d'éléments simples surgissent des propriétés nouvelles, la vie, la conscience, qu'aucune loi des composants ne laissait prévoir. L'eau mouille sans que l'hydrogène ni l'oxygène ne mouillent : la propriété « émerge » au niveau supérieur. <ph id='aristotle'>Aristote</ph> l'annonce avec la forme, la biologie et les sciences de la complexité la renouvellent. Il s'oppose au <c id='reductionism'>réductionnisme</c>.",
+    "en": "Emergentism holds that the whole is more than the sum of its parts: from the organization of simple elements arise new properties, life, consciousness, that no law of the components let one foresee. Water is wet though neither hydrogen nor oxygen is: the property \"emerges\" at the higher level. <ph id='aristotle'>Aristotle</ph> foreshadows it with form, biology and the sciences of complexity renew it. It stands against <c id='reductionism'>reductionism</c>."
+  },
+  "relatedAxes": ["REDUCTION_EMERGENCE", "BEING_BECOMING"],
+  "relatedTerms": ["reductionism", "vitalism"],
+  "positions": [{ "axisId": "REDUCTION_EMERGENCE", "poleId": "EMERGENTISM" }],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

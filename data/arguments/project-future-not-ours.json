@@ -1,0 +1,91 @@
+{
+  "id": "project-future-not-ours",
+  "kind": "OBJECTS",
+  "position": { "axisId": "TIME_ORIENTATION", "poleId": "PROJECT" },
+  "name": { "fr": "L'avenir n'est pas à vous", "en": "The future is not yours" },
+  "claim": {
+    "fr": "Miser sa vie sur l'avenir, c'est la suspendre à ce qui ne dépend pas de nous.",
+    "en": "To stake your life on the future is to hang it on what does not depend on us."
+  },
+  "summary": {
+    "fr": "Le projet remet le sens de la vie à demain ; mais demain n'est promis à personne, et tout l'édifice tient à un fil que nous ne tenons pas.",
+    "en": "The project defers the meaning of life to tomorrow; but tomorrow is promised to no one, and the whole edifice hangs by a thread we do not hold."
+  },
+  "development": [
+    {
+      "fr": "Se définir par ses projets, c'est placer le sens de sa vie dans ce qui n'est pas encore : un but à atteindre, une œuvre à finir, un avenir à bâtir.",
+      "en": "To define oneself by one's projects is to place the meaning of one's life in what is not yet: a goal to reach, a work to finish, a future to build."
+    },
+    {
+      "fr": "Or de tout cela, presque rien ne <c id='dichotomy-of-control'>dépend vraiment de nous</c>. Une maladie, un accident, un revers, et l'édifice patiemment dressé s'effondre. Celui qui n'est heureux qu'une fois le but atteint confie son bonheur à la fortune, qui ne le lui doit pas.",
+      "en": "Yet of all this, almost nothing <c id='dichotomy-of-control'>truly depends on us</c>. An illness, an accident, a setback, and the patiently raised edifice collapses. Whoever is happy only once the goal is reached entrusts his happiness to fortune, which owes him nothing."
+    },
+    {
+      "fr": "Pire : le but atteint, un autre se lève aussitôt. Toujours tendu vers l'étape suivante, l'homme de projet ne jouit jamais d'arriver ; il vit en sursis, dans l'attente d'un repos qu'il repousse lui-même.",
+      "en": "Worse: the goal once reached, another rises at once. Always straining toward the next stage, the man of projects never enjoys arriving; he lives on borrowed time, awaiting a rest he himself keeps pushing back."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc faire reposer sa vie sur l'avenir, c'est bâtir sur un sol qui n'est pas à soi : reste à savoir s'il est sage d'y loger tout le prix de ses jours.",
+    "en": "So to rest one's life on the future is to build on ground that is not one's own: it remains to be seen whether it is wise to lodge there the whole worth of one's days."
+  },
+  "deepenings": [
+    {
+      "id": "fortune",
+      "label": { "fr": "La part de la fortune", "en": "The share of fortune" },
+      "targetStep": 1,
+      "development": [
+        {
+          "fr": "Les Anciens nommaient « fortune » tout ce qui, dans une vie, ne tient pas à notre volonté : la santé, le succès, le temps qui nous est laissé. Le projet en dépend de part en part.",
+          "en": "The ancients called « fortune » all that, in a life, does not rest on our will: health, success, the time we are granted. The project depends on it through and through."
+        },
+        {
+          "fr": "C'est pourquoi les sagesses de l'acceptation conseillent de ne pas attacher son repos à ce qu'on ne maîtrise pas : non pour renoncer à agir, mais pour ne pas remettre son bonheur entre des mains qui ne sont pas les siennes.",
+          "en": "This is why the wisdoms of acceptance advise not to fasten one's peace to what one does not control: not to give up acting, but so as not to place one's happiness in hands that are not one's own."
+        }
+      ],
+      "source": { "author": { "fr": "Épictète", "en": "Epictetus" }, "figures": [{ "name": { "fr": "Épictète", "en": "Epictetus" }, "kind": "PHILOSOPHER", "slug": "epictetus" }], "work": { "fr": "Manuel", "en": "Enchiridion" }, "workId": "enchiridion-epictetus" }
+    }
+  ],
+  "difficulty": 2,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est vrai : à tout miser sur demain, je risque de ne jamais vivre. Mieux vaut tenir au présent, le seul qui soit sûr.",
+        "en": "It is true: by staking everything on tomorrow, I risk never living. Better to hold to the present, the only sure thing."
+      },
+      "hints": [{ "axisId": "TIME_ORIENTATION", "value": { "kind": "weights", "weights": [0.65, 0.2, 0.15] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous ramenez le poids de la vie vers l'instant : puisque l'avenir échappe, autant habiter le seul temps dont vous disposiez.",
+        "en": "You bring the weight of life back toward the instant: since the future escapes, you might as well inhabit the only time you have."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je garde mes projets, mais je cesse d'y suspendre tout mon bonheur : agir vers un but, sans me promettre que je l'atteindrai.",
+        "en": "I keep my projects, but I stop hanging all my happiness on them: to act toward a goal, without promising myself I will reach it."
+      },
+      "hints": [{ "axisId": "TIME_ORIENTATION", "value": { "kind": "weights", "weights": [0.3, 0.6, 0.1] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous gardez l'élan en lâchant la prise : viser, sans faire dépendre votre paix de l'arrivée.",
+        "en": "You keep the momentum while loosening your grip: to aim, without making your peace depend on arrival."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Ne rien risquer parce que tout peut échouer, ce serait ne rien entreprendre. Une vie sans projet, à l'abri de la fortune, n'est plus une vie.",
+        "en": "To risk nothing because all can fail would be to undertake nothing. A life without a project, sheltered from fortune, is no longer a life."
+      },
+      "hints": [{ "axisId": "TIME_ORIENTATION", "value": { "kind": "weights", "weights": [0, 1, 0] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous assumez la fragilité du projet : le prix d'une vie tendue vers un but vaut l'incertitude qui l'accompagne.",
+        "en": "You accept the fragility of the project: the worth of a life strained toward a goal is worth the uncertainty that comes with it."
+      }
+    }
+  ],
+  "targets": ["project-exist-is-to-project"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

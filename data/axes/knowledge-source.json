@@ -19,6 +19,7 @@
   "poles": [
     {
       "id": "EMPIRICISM",
+      "concept": "empiricism",
       "label": {
         "fr": "Empirisme",
         "en": "Empiricism"
@@ -46,6 +47,7 @@
     },
     {
       "id": "RATIONALISM",
+      "concept": "rationalism",
       "label": {
         "fr": "Rationalisme",
         "en": "Rationalism"

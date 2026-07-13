@@ -1,0 +1,13 @@
+{
+  "id": "natural-rights",
+  "term": { "fr": "Droits naturels", "en": "Natural rights" },
+  "aliases": { "fr": ["droit naturel"], "en": ["natural right"] },
+  "definition": {
+    "fr": "La doctrine des droits naturels tient que certains droits sont inhérents à la personne, antérieurs à l'État et au droit positif : on les découvre, on ne les octroie pas, et une loi qui les viole reste injuste fût-elle légale. <ph id='locke'>Locke</ph> les fonde sur la loi naturelle pour justifier le droit de résistance ; <ph id='kant'>Kant</ph> les rattache à la dignité et à l'autonomie de la personne. Ils inspirent les déclarations des droits de l'homme, contre le positivisme juridique pour qui il n'est de droits que ceux qu'une autorité institue.",
+    "en": "The doctrine of natural rights holds that certain rights are inherent in the person, prior to the state and to positive law: they are discovered, not granted, and a law that violates them remains unjust even if perfectly legal. <ph id='locke'>Locke</ph> grounds them in natural law to justify the right of resistance; <ph id='kant'>Kant</ph> ties them to the dignity and autonomy of the person. They inspire the declarations of human rights, against legal positivism, for which there are no rights but those an authority institutes."
+  },
+  "relatedAxes": ["RIGHTS_NATURE", "SOCIAL_CONTRACT", "MORAL_SCOPE"],
+  "relatedTerms": ["contractualism", "libertarianism"],
+  "positions": [{ "axisId": "RIGHTS_NATURE", "poleId": "NATURAL_RIGHTS" }],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

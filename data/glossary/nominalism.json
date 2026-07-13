@@ -1,0 +1,13 @@
+{
+  "id": "nominalism",
+  "term": { "fr": "Nominalisme", "en": "Nominalism" },
+  "aliases": { "fr": ["nominaliste"], "en": ["nominalist"] },
+  "definition": {
+    "fr": "Le nominalisme soutient que seuls les individus existent : les propriétés générales, comme la rougeur ou l'humanité, ne sont pas des réalités mais des noms, <ety>du latin nomen</ety>, que nous appliquons à des choses qui se ressemblent. Guillaume d'Ockham en est la grande figure médiévale, au cœur de la querelle des universaux. Il s'oppose au <c id='realism-of-universals'>réalisme des universaux</c>, pour qui la rougeur ou le cercle existent réellement, à part ou dans les choses.",
+    "en": "Nominalism holds that only individuals exist: general properties, such as redness or humanity, are not realities but names, <ety>from the Latin nomen</ety>, that we apply to things that resemble one another. William of Ockham is its great medieval figure, at the heart of the quarrel over universals. It stands against <c id='realism-of-universals'>realism about universals</c>, for which redness or the circle really exist, apart from things or within them."
+  },
+  "relatedAxes": ["UNIVERSALS", "ESSENCE"],
+  "relatedTerms": ["realism-of-universals"],
+  "positions": [{ "axisId": "UNIVERSALS", "poleId": "NOMINALISM" }],
+  "updatedAt": "2026-07-11T00:00:00.000Z"
+}

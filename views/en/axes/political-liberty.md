@@ -43,7 +43,7 @@ To be free is not merely to be unhindered, it is to have the real means to act: 
 
 ## Related axes
 
-[Relation to authority](../axes/authority.md) · [Distributive justice](../axes/distributive-justice.md) · [Who should decide](../axes/who-decides.md) · [Individual and society](../axes/individual-society.md) · [Freedom of the will](../axes/freedom.md)
+[Relation to authority](../axes/authority.md) · [Distributive justice](../axes/distributive-justice.md) · [Who should decide](../axes/who-decides.md) · [Individual and society](../axes/individual-society.md) · [Freedom of the will](../axes/freedom.md) · [Moral demandingness](../axes/moral-demand.md)
 
 ---
 

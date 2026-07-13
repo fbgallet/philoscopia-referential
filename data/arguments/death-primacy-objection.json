@@ -1,0 +1,93 @@
+{
+  "id": "death-primacy-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "DEATH", "poleId": "BEING_TOWARD_DEATH" },
+  "name": { "fr": "L'objection du primat de la mort", "en": "The primacy-of-death objection" },
+  "claim": {
+    "fr": "Ce n'est pas la mort, mais la vie et les autres, qui nous rendent à nous-mêmes.",
+    "en": "It is not death, but life and others, that return us to ourselves."
+  },
+  "summary": {
+    "fr": "Un amour, une vocation, un visage nous arrachent à la dispersion autant que la pensée de la fin : faire de la mort le seul révélateur est arbitraire.",
+    "en": "A love, a calling, a face tear us from dispersion as much as the thought of the end: making death the sole revealer is arbitrary."
+  },
+  "development": [
+    {
+      "fr": "Que la pensée de la fin puisse réveiller une existence assoupie, soit. Mais elle n'a pas ce pouvoir à elle seule : un amour, une vocation, la venue d'un enfant nous tirent tout autant de l'indifférence et nous mettent en demeure de répondre.",
+      "en": "That the thought of the end can rouse a slumbering existence, granted. But it does not have this power alone: a love, a calling, the birth of a child draw us out of indifference just as much, and put us under summons to answer."
+    },
+    {
+      "fr": "<ph>Levinas</ph> va plus loin : ce qui m'appelle vraiment hors de moi, c'est le visage d'autrui, sa fragilité qui me rend responsable, et non ma mort, la plus solitaire et la plus muette des relations.",
+      "en": "<ph>Levinas</ph> goes further: what truly calls me out of myself is the face of the other, its frailty that makes me responsible, and not my death, the most solitary and most silent of relations."
+    },
+    {
+      "fr": "À faire de la seule mort la source de l'<c id='authenticity'>authenticité</c>, on risque l'inverse du but recherché : un repli sur sa propre fin, là où c'est peut-être l'attention au monde qui ouvre une vie.",
+      "en": "By making death alone the source of <c id='authenticity'>authenticity</c>, one risks the opposite of the goal sought: a withdrawal onto one's own end, where it may be attention to the world that opens a life."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc rien n'oblige à prendre la mort pour seul maître : la vie a d'autres voies, peut-être plus sûres, pour nous rendre à nous-mêmes.",
+    "en": "So nothing compels us to take death as our only master: life has other paths, perhaps surer ones, to return us to ourselves."
+  },
+  "deepenings": [
+    {
+      "id": "the-face",
+      "label": { "fr": "Le visage plutôt que la mort", "en": "The face rather than death" },
+      "targetStep": 1,
+      "development": [
+        {
+          "fr": "Pour <ph>Levinas</ph>, la philosophie de l'être-pour-la-mort reste centrée sur soi : même angoissée, elle me ramène à ma propre existence.",
+          "en": "For <ph>Levinas</ph>, the philosophy of being-toward-death remains centered on the self: even in anguish, it brings me back to my own existence."
+        },
+        {
+          "fr": "La vraie sortie de soi vient d'autrui, dont l'appel me précède et me déborde : je me découvre responsable avant même de l'avoir choisi.",
+          "en": "The true departure from self comes from the other, whose call precedes and exceeds me: I find myself responsible even before having chosen to be."
+        }
+      ],
+      "source": { "author": { "fr": "Levinas", "en": "Levinas" }, "figures": [{ "name": { "fr": "Emmanuel Levinas", "en": "Emmanuel Levinas" }, "kind": "PHILOSOPHER", "slug": "levinas" }], "work": { "fr": "Totalité et Infini", "en": "Totality and Infinity" }, "year": 1961 }
+    }
+  ],
+  "difficulty": 2,
+  "source": { "author": { "fr": "Levinas", "en": "Levinas" }, "figures": [{ "name": { "fr": "Emmanuel Levinas", "en": "Emmanuel Levinas" }, "kind": "PHILOSOPHER", "slug": "levinas" }], "work": { "fr": "Totalité et Infini", "en": "Totality and Infinity" }, "year": 1961 },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est juste : c'est la vie, ceux que j'aime, ce qui m'engage, qui me rendent à moi-même, plus que la pensée de ma fin.",
+        "en": "True: it is life, those I love, what commits me, that return me to myself, more than the thought of my end."
+      },
+      "hints": [{ "axisId": "DEATH", "value": { "kind": "weights", "weights": [0.65, 0.2, 0.15, 0] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous détournez le regard de la fin vers le présent et ceux qui vous entourent : c'est ce que recommande aussi <ph id='epicurus'>Épicure</ph>, pour qui mieux vaut cultiver la vie que méditer la mort.",
+        "en": "You turn your gaze from the end toward the present and those around you: this too is what <ph id='epicurus'>Epicurus</ph> recommends, for whom it is better to cultivate life than to meditate on death."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je maintiens que la mort éclaire la vie, mais j'accorde qu'elle n'est pas seule à le faire.",
+        "en": "I maintain that death lights up life, but I grant it is not alone in doing so."
+      },
+      "hints": [{ "axisId": "DEATH", "value": { "kind": "weights", "weights": [0.2, 0.65, 0.15, 0] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous gardez à la finitude son pouvoir d'éveil, sans lui en faire le monopole.",
+        "en": "You keep finitude's power to awaken, without granting it a monopoly."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : si ces expériences nous réveillent, c'est déjà parce que notre temps est compté. La mort reste l'horizon qui leur donne leur prix.",
+        "en": "I refute it: if these experiences wake us, it is already because our time is counted. Death remains the horizon that gives them their worth."
+      },
+      "hints": [{ "axisId": "DEATH", "value": { "kind": "weights", "weights": [0.05, 0.9, 0.05, 0] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Réplique classique : la finitude n'est pas une révélation parmi d'autres, c'est leur condition à toutes. C'est le cœur de l'<c id='being-toward-death'>être-pour-la-mort</c>.",
+        "en": "A classic reply: finitude is not one revelation among others, it is the condition of them all. This is the heart of <c id='being-toward-death'>being-toward-death</c>."
+      }
+    }
+  ],
+  "problems": ["my-death-or-the-death"],
+  "targets": ["death-being-toward-death"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

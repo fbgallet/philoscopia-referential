@@ -1,0 +1,74 @@
+{
+  "id": "control-dichotomy-quietism-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "CONTROL_SCOPE", "poleId": "DICHOTOMY_OF_CONTROL" },
+  "name": { "fr": "Le reproche de résignation", "en": "The charge of resignation" },
+  "claim": {
+    "fr": "Se concentrer sur soi peut conduire à accepter ce qu'il faudrait changer.",
+    "en": "Focusing on oneself can lead to accepting what ought to be changed."
+  },
+  "summary": {
+    "fr": "À ranger le monde du côté de l'inévitable, la dichotomie du contrôle risque de conseiller la passivité devant des maux que l'effort pourrait corriger.",
+    "en": "By filing the world under the inevitable, the dichotomy of control risks counseling passivity before ills that effort could correct."
+  },
+  "development": [
+    {
+      "fr": "La <c id='dichotomy-of-control'>dichotomie du contrôle</c> range d'un côté nos jugements, de l'autre presque tout le reste : la maladie, la pauvreté, l'injustice, l'ordre social. Tout cela, elle invite à l'accueillir sans en troubler sa paix.",
+      "en": "The <c id='dichotomy-of-control'>dichotomy of control</c> places our judgments on one side and almost everything else on the other: illness, poverty, injustice, the social order. All of that, it invites us to take in without letting it disturb our peace."
+    },
+    {
+      "fr": "Or beaucoup de ces « fatalités » n'en sont pas : la maladie recule devant la médecine, la misère devant l'action, l'injustice devant ceux qui la combattent. Les tenir d'avance pour hors de notre pouvoir, c'est parfois se tromper sur ce pouvoir.",
+      "en": "Yet many of these so-called inevitabilities are nothing of the sort: illness recedes before medicine, destitution before action, injustice before those who fight it. To deem them beyond our power in advance is sometimes to be mistaken about that power."
+    },
+    {
+      "fr": "Le risque est alors moral autant que pratique : une sagesse qui apaise en détournant le regard de ce qu'on pourrait corriger ressemble à une consolation pour qui renonce. <ph id='marx'>Marx</ph> le résumait d'un trait : les philosophes n'ont fait qu'interpréter le monde, il s'agit de le transformer.",
+      "en": "The risk is then moral as much as practical: a wisdom that soothes by turning its gaze from what could be corrected looks like a consolation for those who give up. <ph id='marx'>Marx</ph> put it in a single stroke: philosophers have only interpreted the world; the point is to change it."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la dichotomie du contrôle, en traçant trop tôt la frontière de l'inévitable, risque de baptiser sagesse ce qui n'est que résignation.",
+    "en": "So the dichotomy of control, by drawing the line of the inevitable too soon, risks christening as wisdom what is only resignation."
+  },
+  "difficulty": 2,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "L'objection porte : bien des limites que je croyais subir peuvent en réalité être repoussées par l'effort.",
+        "en": "The objection lands: many limits I thought I had to endure can in fact be pushed back by effort."
+      },
+      "hints": [{ "axisId": "CONTROL_SCOPE", "value": { "kind": "scalar", "value": 1 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous déplacez la frontière : ce que vous rangiez dans l'inévitable, vous le rendez à l'action.",
+        "en": "You shift the boundary: what you filed under the inevitable, you hand back to action."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je garde la dichotomie, mais j'élargis ce qui dépend de nous : agir là où c'est possible, n'accepter que l'irrémédiable.",
+        "en": "I keep the dichotomy, but I widen what depends on us: to act where it is possible, and accept only the irremediable."
+      },
+      "hints": [{ "axisId": "CONTROL_SCOPE", "value": { "kind": "scalar", "value": 0 }, "weight": 0.7 }],
+      "discussion": {
+        "fr": "D'une frontière fixe vous passez à une frontière mouvante : c'est déjà la voie du discernement.",
+        "en": "From a fixed boundary you move to a shifting one: already the path of discernment."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : se concentrer sur soi n'interdit pas d'agir ; le stoïcien remplit son rôle, mais sans suspendre sa paix au résultat.",
+        "en": "I refute it: focusing on oneself does not forbid acting; the Stoic plays his part, but without hanging his peace on the outcome."
+      },
+      "hints": [{ "axisId": "CONTROL_SCOPE", "value": { "kind": "scalar", "value": -1 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous séparez l'effort de l'attachement au résultat : on peut agir pleinement sans remettre sa sérénité au hasard.",
+        "en": "You separate effort from attachment to the result: one can act fully without leaving one's serenity to chance."
+      }
+    }
+  ],
+  "problems": ["acceptance-or-resignation"],
+  "targets": ["control-dichotomy-inner-sovereignty"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

@@ -3,8 +3,10 @@
 # Expériences de pensée
 
 - [« Je suis comme ça »](its-my-nature.md) (Sartre)
+- [Chacun ses coutumes ?](funeral-customs.md) (Hérodote)
 - [L'anneau de Gygès](ring-of-gyges.md) (Platon)
 - [L'éternel retour](the-eternal-return.md) (Nietzsche)
+- [L'expérience de Milgram](milgram.md) (Stanley Milgram)
 - [La barrière de Chesterton](chestertons-fence.md) (G.K. Chesterton)
 - [La machine à expériences](experience-machine.md) (Robert Nozick)
 - [La montre et l'horloger](design-argument.md) (Paley)

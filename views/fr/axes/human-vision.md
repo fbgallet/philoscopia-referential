@@ -26,6 +26,16 @@ L'être humain est traversé par l'égoïsme, l'amour-propre et des pulsions agr
 
 L'être humain n'est bon ni mauvais par nature : il est malléable. Ni ange ni bête, il devient ce que l'éducation, les habitudes et les institutions font de lui. Sa vraie caractéristique est cette plasticité, cette capacité à être façonné, pour le meilleur comme pour le pire.
 
+## Problèmes vifs
+
+- **Des gens ordinaires, un ordre à exécuter** : Que des gens ordinaires infligent le pire sur un simple ordre : est-ce une méchanceté latente qui se réveille, ou la preuve que ce sont les circonstances, non la nature, qui décident de nos actes ? → [L'expérience de Milgram](../thought-experiments/milgram.md)
+- **D'où vient le mal en l'homme ?** : Si l'homme fait le mal, ce penchant est-il en lui dès l'origine, comme une pulsion ou une nature déchue, ou naît-il du dehors, de la comparaison sociale et des inégalités ? Selon la réponse, la méchanceté est notre fond ou notre produit.
+- **Jusqu'où peut-on changer l'homme ?** : Le pari de l'éducation suppose qu'on peut refaire l'homme, l'adoucir, le rendre meilleur. Mais y a-t-il des travers immuables, un « bois tordu » qu'aucune éducation ne redresse jamais ?
+- **Mi-ange, mi-bête** : L'homme est-il un être partagé, capable en même temps du plus haut et du plus bas, grand par cela même qui le rend misérable, ou cette image dramatique n'est-elle qu'une façon d'ennoblir un simple animal en le disant déchu ?
+- **Y a-t-il une nature humaine ?** : Demander si l'homme est bon ou mauvais suppose qu'il a une nature. Mais peut-être n'y a-t-il pas d'essence donnée : l'homme se ferait alors lui-même, sans modèle reçu.
+- **L'altruisme existe-t-il vraiment ?** : Nos actions les plus généreuses cachent-elles toujours un intérêt, un besoin d'être aimé, une vanité ? S'il n'existe aucun acte vraiment désintéressé, parler de bonté perd son sens.
+- **Des institutions pour des anges, ou pour des démons ?** : Faut-il concevoir les lois en comptant sur la vertu des citoyens, ou les bâtir de sorte que « même un peuple de démons » soit contraint d'agir bien ? La vision qu'on a de l'homme commande le type d'institutions qu'on juge nécessaire.
+
 ## Relations de fondation
 
 - *[Vision de l'homme](../axes/human-vision.md) : Optimisme anthropologique* fonde *[Rapport à l'autorité](../axes/authority.md) : Anarchisme* : Si l'homme est naturellement bon et que c'est la société qui le corrompt, l'autorité imposée d'en haut apparaît moins comme un remède que comme la source du mal. L'optimisme anthropologique nourrit l'anarchisme : la bonté foncière qu'affirme [Rousseau](../philosophers/rousseau.md) ouvre la voie à l'idée d'une société qui s'organiserait sans domination, par la libre association.
@@ -35,7 +45,7 @@ L'être humain n'est bon ni mauvais par nature : il est malléable. Ni ange ni b
 
 ## Axes liés
 
-[Nature et culture](../axes/human-nature.md) · [Idéal et réel](../axes/political-ideal.md) · [Intérêt propre et autrui](../axes/self-interest.md) · [Attention et divertissement](../axes/attention.md)
+[Nature et culture](../axes/human-nature.md) · [Idéal et réel](../axes/political-ideal.md) · [Intérêt propre et autrui](../axes/self-interest.md) · [Attention et divertissement](../axes/attention.md) · [Exigence morale](../axes/moral-demand.md)
 
 ---
 

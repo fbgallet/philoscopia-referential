@@ -53,7 +53,7 @@ Moral worth attaches to ecological wholes themselves: species, ecosystems, the b
 
 ## Related axes
 
-[Criterion of right action](../axes/ethics-foundation.md) · [Future generations](../axes/future-generations.md) · [Humanity's place in nature](../axes/human-place-nature.md) · [Can a machine think](../axes/machine-mind.md) · [Moral demandingness](../axes/moral-demand.md) · [Status of norms (metaethics)](../axes/moral-scope.md) · [Nature of rights](../axes/rights-nature.md)
+[Criterion of right action](../axes/ethics-foundation.md) · [Future generations](../axes/future-generations.md) · [Humanity's place in nature](../axes/human-place-nature.md) · [Can a machine think](../axes/machine-mind.md) · [Moral demandingness](../axes/moral-demand.md) · [Status of norms (metaethics)](../axes/moral-scope.md) · [Nature of rights](../axes/rights-nature.md) · [Partiality](../axes/partiality.md)
 
 ---
 

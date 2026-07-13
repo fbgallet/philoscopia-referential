@@ -1,0 +1,73 @@
+{
+  "id": "instrumentalism-captation-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "TECHNOLOGY", "median": true },
+  "name": { "fr": "Le combat inégal", "en": "An unequal contest" },
+  "claim": {
+    "fr": "Opposer votre seule volonté à une industrie qui étudie vos faiblesses, c'est un combat perdu d'avance.",
+    "en": "Pitting your will alone against an industry that studies your weaknesses is a contest lost in advance."
+  },
+  "summary": {
+    "fr": "La liberté de l'usage demeure, mais elle ne pèse pas le poids qu'on lui prête face à des moyens immenses réglés pour la déjouer.",
+    "en": "The freedom of use remains, but it does not carry the weight ascribed to it against vast means tuned to outwit it."
+  },
+  "development": [
+    {
+      "fr": "Accordons que l'usage dépend de vous. Mais cet usage se décide-t-il à armes égales ? D'un côté, votre volonté d'un soir, fatiguée, distraite. De l'autre, des milliers d'ingénieurs dont le métier est de la prendre en défaut.",
+      "en": "Grant that the use depends on you. But is that use decided on equal terms? On one side, your will of an evening, tired, distracted. On the other, thousands of engineers whose job is to catch it off guard."
+    },
+    {
+      "fr": "Le fil d'actualité est essayé, mesuré, ajusté sur des millions de personnes pour trouver ce qui vous fait rester : récompense imprévisible, défilement sans bord, chiffres qui flattent. C'est l'<c id='attention-economy'>économie de l'attention</c> : votre temps de regard est la marchandise, et tout est réglé pour en prélever davantage.",
+      "en": "The feed is tested, measured, tuned on millions of people to find what keeps you there: unpredictable reward, borderless scrolling, flattering numbers. This is the <c id='attention-economy'>attention economy</c>: your viewing time is the commodity, and everything is set to extract more of it."
+    },
+    {
+      "fr": "Dire alors « il suffit d'en faire bon usage », c'est attendre de votre seule volonté qu'elle l'emporte sur des moyens immenses, étudiés et sans cesse ajustés pour la prendre en défaut. La liberté de l'usage demeure, mais elle n'a pas le poids qu'on lui prête.",
+      "en": "To say then « one need only use it well » is to expect your will alone to prevail over vast means, studied and ceaselessly adjusted to catch it out. The freedom of use remains, but it does not carry the weight ascribed to it."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc renvoyer le problème au seul usage revient à charger l'individu d'un combat que l'objet, lui, n'a pas livré loyalement.",
+    "en": "So to refer the problem to use alone is to burden the individual with a contest that the object, for its part, did not fight fairly."
+  },
+  "difficulty": 3,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est décisif : ma volonté ne fait pas le poids contre un dispositif conçu pour la déjouer, l'usage seul ne suffit pas.",
+        "en": "That is decisive: my will is no match for a device built to outwit it; use alone is not enough."
+      },
+      "hints": [{ "axisId": "TECHNOLOGY", "value": { "kind": "scalar", "value": 1 }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous cessez de tout attendre de la discipline personnelle, et reconnaissez à l'objet une force qu'il faut affronter autrement.",
+        "en": "You stop expecting everything from personal discipline, and grant the object a force that must be met by other means."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je nuance : le combat est inégal, raison de plus pour s'armer, par des règles, des outils de limite, des moments sans écran.",
+        "en": "I qualify: the contest is unequal, all the more reason to arm oneself, with rules, limit-setting tools, screen-free times."
+      },
+      "hints": [{ "axisId": "TECHNOLOGY", "value": { "kind": "scalar", "value": 0 }, "weight": 1.5 }],
+      "discussion": {
+        "fr": "Vous gardez la responsabilité de l'usage, mais vous cessez de la croire suffisante à elle seule.",
+        "en": "You keep responsibility for use, but you stop believing it sufficient on its own."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : on m'a appris à résister à bien des sollicitations, la publicité, le sucre, le jeu ; celle-ci n'est pas d'une autre nature.",
+        "en": "I refute it: I have been taught to resist many solicitations, advertising, sugar, gambling; this one is no different in kind."
+      },
+      "hints": [{ "axisId": "TECHNOLOGY", "value": { "kind": "scalar", "value": 0 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous rangez la captation parmi les tentations ordinaires, que l'éducation et l'habitude apprennent à tenir.",
+        "en": "You place captation among ordinary temptations, which upbringing and habit teach us to hold in check."
+      }
+    }
+  ],
+  "targets": ["instrumentalism-use-decides"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

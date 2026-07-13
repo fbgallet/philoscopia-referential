@@ -1,0 +1,54 @@
+{
+  "id": "project-exist-is-to-project",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "TIME_ORIENTATION", "poleId": "PROJECT" },
+  "name": { "fr": "Exister, c'est se projeter", "en": "To exist is to project oneself" },
+  "claim": {
+    "fr": "L'homme n'est pas une chose donnée : il n'est que ce qu'il se fait en se projetant vers l'avenir.",
+    "en": "Man is not a given thing: he is only what he makes of himself by projecting toward the future."
+  },
+  "summary": {
+    "fr": "Se réduire à l'instant, ce serait renoncer à soi ; une vie humaine se définit par ce qu'elle vise, ses engagements, ses œuvres, ce vers quoi elle se dépasse.",
+    "en": "To reduce oneself to the instant would be to give up on oneself; a human life is defined by what it aims at, its commitments, its works, what it surpasses itself toward."
+  },
+  "development": [
+    {
+      "fr": "Une pierre est ce qu'elle est, tout entière dans le présent. L'homme, lui, n'est jamais tout à fait donné : il se rapporte sans cesse à ce qu'il n'est pas encore, ce qu'il veut devenir, faire, accomplir.",
+      "en": "A stone is what it is, wholly in the present. Man, by contrast, is never quite given: he relates ceaselessly to what he is not yet, what he wants to become, to do, to accomplish."
+    },
+    {
+      "fr": "C'est ce que veut dire <ph id='sartre'>Sartre</ph> : l'<ax id='ESSENCE' pole='EXISTENTIALISM'>existence précède l'essence</ax>. Nul ne naît avec une nature toute faite ; nous sommes nos actes et nos engagements à venir, et c'est en nous projetant que nous nous donnons une figure.",
+      "en": "This is what <ph id='sartre'>Sartre</ph> means: <ax id='ESSENCE' pole='EXISTENTIALISM'>existence precedes essence</ax>. No one is born with a ready-made nature; we are our acts and our commitments to come, and it is by projecting ourselves that we give ourselves a shape."
+    },
+    {
+      "fr": "Dès lors, se replier sur le seul instant, refuser de se projeter, ce serait se traiter en chose, renoncer à ce qui fait de nous des sujets. Ce repli a un nom, la <c id='bad-faith'>mauvaise foi</c> : se cacher sa propre liberté en se faisant passer pour un être sans avenir.",
+      "en": "From then on, to fall back on the instant alone, to refuse to project oneself, would be to treat oneself as a thing, to give up what makes us subjects. This retreat has a name, <c id='bad-faith'>bad faith</c>: hiding one's own freedom from oneself by passing for a being with no future."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc vivre, pour un homme, c'est se tendre vers ce qui n'est pas encore : non se perdre dans l'avenir, mais s'y reconnaître comme l'auteur de ce qu'on devient.",
+    "en": "So to live, for a human being, is to strain toward what is not yet: not to lose oneself in the future, but to recognize oneself there as the author of what one becomes."
+  },
+  "deepenings": [
+    {
+      "id": "the-stone-and-the-self",
+      "label": { "fr": "Pourquoi nous ne sommes pas des choses", "en": "Why we are not things" },
+      "targetStep": 0,
+      "development": [
+        {
+          "fr": "Une chose coïncide avec elle-même ; une conscience, jamais. Je ne suis pas mon métier comme l'encrier est encrier : je le suis sur le mode de l'avoir-à-être, c'est-à-dire en m'y projetant.",
+          "en": "A thing coincides with itself; a consciousness, never. I am not my occupation the way the inkwell is an inkwell: I am it in the mode of having-to-be it, that is, by projecting myself into it."
+        },
+        {
+          "fr": "Cette distance à soi est notre liberté même : parce que rien ne me fixe une fois pour toutes, je suis responsable de ce que je fais de moi, et ce « ce que je fais » est tourné vers demain.",
+          "en": "This distance from oneself is our very freedom: because nothing fixes me once and for all, I am responsible for what I make of myself, and that « what I make » is turned toward tomorrow."
+        }
+      ],
+      "source": { "author": { "fr": "Sartre", "en": "Sartre" }, "figures": [{ "name": { "fr": "Sartre", "en": "Sartre" }, "kind": "PHILOSOPHER", "slug": "sartre" }], "work": { "fr": "L'Être et le Néant", "en": "Being and Nothingness" } }
+    }
+  ],
+  "difficulty": 2,
+  "source": { "author": { "fr": "Sartre", "en": "Sartre" }, "figures": [{ "name": { "fr": "Sartre", "en": "Sartre" }, "kind": "PHILOSOPHER", "slug": "sartre" }], "work": { "fr": "L'existentialisme est un humanisme", "en": "Existentialism Is a Humanism" } },
+  "test": "project-deferred-life",
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

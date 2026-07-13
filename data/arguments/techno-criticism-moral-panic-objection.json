@@ -1,0 +1,72 @@
+{
+  "id": "techno-criticism-moral-panic-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "TECHNOLOGY", "poleId": "TECHNO_CRITICISM" },
+  "name": { "fr": "Le procès en passéisme", "en": "The charge of nostalgia" },
+  "claim": {
+    "fr": "À chaque époque, on a annoncé que la nouvelle technique nous perdrait ; à chaque fois, on s'en est accommodé.",
+    "en": "In every age, the new technology was said to be our undoing; every time, we made our peace with it."
+  },
+  "summary": {
+    "fr": "La défiance envers la technique répète une peur ancienne au bilan calamiteux, et tient les usagers pour des dupes passives.",
+    "en": "Mistrust of technology repeats an old fear with a dismal track record, and treats users as passive dupes."
+  },
+  "development": [
+    {
+      "fr": "La défiance envers la technique a une longue histoire, et un piètre bilan de prédictions. <ph id='plato'>Platon</ph> craignait l'écriture, d'autres le roman, le train, la télévision : chaque fois, l'annonce d'un esprit ramolli, d'un lien défait, d'une jeunesse perdue.",
+      "en": "Mistrust of technology has a long history, and a poor record of predictions. <ph id='plato'>Plato</ph> feared writing, others the novel, the railway, television: each time, the announcement of a softened mind, a broken bond, a lost generation."
+    },
+    {
+      "fr": "Or nous avons appris à vivre avec tout cela. Ce qu'on prenait pour la fin d'un monde n'était que l'inconfort d'une habitude à prendre. La <kw>panique morale</kw> en dit souvent moins sur l'objet qu'elle accuse que sur la peur de ceux qui vieillissent avec lui.",
+      "en": "Yet we learned to live with all of it. What was taken for the end of a world was only the discomfort of a habit to be formed. The <kw>moral panic</kw> often says less about the object it accuses than about the fear of those growing old alongside it."
+    },
+    {
+      "fr": "Pire, cette défiance traite les gens en victimes passives, incapables de juger et de se conduire. À force de voir partout des dupes manipulées, on méprise la liberté ordinaire des usagers, et l'on ne propose, faute de mieux, qu'un refus que personne ne suivra.",
+      "en": "Worse, this mistrust treats people as passive victims, incapable of judging and conducting themselves. By seeing manipulated dupes everywhere, one comes to scorn the ordinary freedom of users, and offers, for want of better, only a refusal no one will follow."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc se méfier de la technique, c'est peut-être répéter une peur ancienne qui s'est toujours trompée, et tenir les gens pour moins libres qu'ils ne sont.",
+    "en": "So to mistrust technology may be to repeat an old fear that has always been wrong, and to take people for less free than they are."
+  },
+  "difficulty": 2,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "L'objection porte : je rejouais peut-être une peur ancienne, et je sous-estimais notre faculté de nous adapter.",
+        "en": "The objection lands: I was perhaps replaying an old fear, and underestimating our capacity to adapt."
+      },
+      "hints": [{ "axisId": "TECHNOLOGY", "value": { "kind": "scalar", "value": 0 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous desserrez votre défiance : ce qui inquiète aujourd'hui pourrait, comme hier, devenir une habitude maîtrisée.",
+        "en": "You loosen your mistrust: what worries us today might, as before, become a mastered habit."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je précise : me méfier n'est pas tout rejeter ; je distingue les techniques selon ce qu'elles nous font, sans condamner la technique en bloc.",
+        "en": "I refine it: to be wary is not to reject everything; I distinguish technologies by what they do to us, without condemning technology wholesale."
+      },
+      "hints": [{ "axisId": "TECHNOLOGY", "value": { "kind": "scalar", "value": 0.5 }, "weight": 0.8 }],
+      "discussion": {
+        "fr": "Vous gardez la défiance, mais vous la rendez sélective : toutes les techniques ne se valent pas devant ce reproche.",
+        "en": "You keep your wariness, but make it selective: not all technologies are alike before this charge."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : qu'on se soit trompé hier ne prouve rien pour aujourd'hui ; un dispositif fait pour capter l'attention n'est pas une nouveauté de plus.",
+        "en": "I refute it: that we were wrong before proves nothing for today; a device built to capture attention is not just one more novelty."
+      },
+      "hints": [{ "axisId": "TECHNOLOGY", "value": { "kind": "scalar", "value": 1 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous refusez l'amalgame : la peur du train ne ressemble pas à une industrie qui mesure et exploite votre attention.",
+        "en": "You reject the conflation: fear of the railway is nothing like an industry that measures and exploits your attention."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-22T00:00:00.000Z"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "vitalism",
+  "term": { "fr": "Vitalisme", "en": "Vitalism" },
+  "aliases": { "fr": ["vitaliste", "élan vital"], "en": ["vitalist", "élan vital"] },
+  "definition": {
+    "fr": "Le vitalisme soutient que la vie ne se réduit pas aux lois de la physique et de la chimie : le vivant possède un principe propre, un élan que la matière inerte ne suffit pas à expliquer. Ni pure mécanique, ni plan fixé d'avance, la vie invente des formes imprévisibles. <ph id='bergson'>Bergson</ph> en donne la version la plus célèbre avec l'« élan vital », par distinction du <c id='mechanism'>mécanisme</c> comme du <c id='finalism'>finalisme</c>.",
+    "en": "Vitalism holds that life cannot be reduced to the laws of physics and chemistry: living beings have a principle of their own, an impulse that inert matter is not enough to explain. Neither sheer mechanics nor a plan fixed in advance, life invents unpredictable forms. <ph id='bergson'>Bergson</ph> gives its most famous version with the élan vital, setting it apart from <c id='mechanism'>mechanism</c> and <c id='finalism'>finalism</c> alike."
+  },
+  "relatedAxes": ["CAUSALITY", "REDUCTION_EMERGENCE", "BEING_BECOMING"],
+  "relatedTerms": ["mechanism", "finalism", "naturphilosophie"],
+  "positions": [{ "axisId": "CAUSALITY", "poleId": "VITALISM" }],
+  "updatedAt": "2026-07-11T00:00:00.000Z"
+}

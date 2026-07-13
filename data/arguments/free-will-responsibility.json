@@ -1,0 +1,64 @@
+{
+  "id": "free-will-responsibility",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "FREEDOM", "poleId": "FREE_WILL" },
+  "name": { "fr": "L'argument de la responsabilité morale", "en": "The moral-responsibility argument" },
+  "claim": {
+    "fr": "Sans pouvoir choisir autrement, je ne serais responsable de rien.",
+    "en": "Without the power to choose otherwise, I would be responsible for nothing."
+  },
+  "development": [
+    {
+      "fr": "Quand je délibère, je tiens plusieurs cours d'action pour ouverts : je pèse des raisons précisément parce que je crois que l'issue n'est pas encore fixée.",
+      "en": "When I deliberate, I treat several courses of action as open: I weigh reasons precisely because I believe the outcome is not yet settled."
+    },
+    {
+      "fr": "Or tenir quelqu'un pour <kw>responsable</kw>, le louer ou le blâmer, suppose qu'il aurait pu <c id='alternate-possibilities'>agir autrement</c> qu'il ne l'a fait.",
+      "en": "But holding someone <kw>responsible</kw>, praising or blaming them, presupposes that they could have <c id='alternate-possibilities'>acted otherwise</c> than they did."
+    },
+    {
+      "fr": "Nous tenons pourtant cette responsabilité pour réelle, dans le droit comme dans la morale ; il faut donc lui reconnaître sa condition, un pouvoir de choisir autrement.",
+      "en": "Yet we hold that responsibility to be real, in law as in morals; we must therefore grant it its condition, a power to choose otherwise."
+    }
+  ],
+  "conclusion": {
+    "fr": "Nous disposons donc d'un <c id='free-will'>libre arbitre</c>, condition de la responsabilité morale.",
+    "en": "We therefore have <c id='free-will'>free will</c>, the condition of moral responsibility."
+  },
+  "deepenings": [
+    {
+      "id": "why-alternatives",
+      "label": { "fr": "Pourquoi la responsabilité exige-t-elle de pouvoir agir autrement ?", "en": "Why does responsibility require the power to act otherwise?" },
+      "targetStep": 1,
+      "development": [
+        {
+          "fr": "Si une seule issue était possible, reprocher son acte à un agent reviendrait à reprocher à une horloge de sonner : le blâme ne vise un agent que là où une alternative lui était ouverte.",
+          "en": "If only one outcome were possible, blaming an agent for their act would be like blaming a clock for striking: blame addresses an agent only where an alternative was open to them."
+        },
+        {
+          "fr": "C'est pourquoi le droit excuse qui a agi sous contrainte absolue : nul n'est tenu responsable de ce qu'il ne pouvait éviter.",
+          "en": "This is why the law excuses those who acted under absolute constraint: no one is held responsible for what they could not avoid."
+        }
+      ]
+    },
+    {
+      "id": "kant-ought-can",
+      "label": { "fr": "La formule kantienne : « tu dois, donc tu peux »", "en": "Kant's formula: \"you ought, therefore you can\"" },
+      "development": [
+        {
+          "fr": "<ph id='kant'>Kant</ph> renverse l'ordre : ce n'est pas la liberté qui se prouve d'abord, c'est le devoir moral qui l'atteste.",
+          "en": "<ph id='kant'>Kant</ph> reverses the order: it is not freedom that is proved first, it is moral duty that attests to it."
+        },
+        {
+          "fr": "Si une exigence morale m'oblige réellement, elle me suppose capable d'y répondre : le « tu dois » implique le « tu peux », donc une volonté libre.",
+          "en": "If a moral demand genuinely binds me, it presupposes me able to meet it: the \"you ought\" implies the \"you can\", hence a free will."
+        }
+      ],
+      "source": { "author": { "fr": "Kant", "en": "Kant" }, "figures": [{ "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" }], "work": { "fr": "Critique de la raison pratique", "en": "Critique of Practical Reason" }, "workId": "critique-of-practical-reason-kant", "year": 1788 }
+    }
+  ],
+  "difficulty": 1,
+  "test": "free-will-frankfurt-case",
+  "problems": ["could-have-done-otherwise", "freedom-without-alternatives"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

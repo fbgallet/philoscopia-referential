@@ -53,7 +53,7 @@ La valeur morale s'attache aux ensembles écologiques eux-mêmes : espèces, éc
 
 ## Axes liés
 
-[Critère du juste](../axes/ethics-foundation.md) · [Générations futures](../axes/future-generations.md) · [Place de l'homme dans la nature](../axes/human-place-nature.md) · [Une machine peut-elle penser](../axes/machine-mind.md) · [Exigence morale](../axes/moral-demand.md) · [Statut des normes (métaéthique)](../axes/moral-scope.md) · [Nature des droits](../axes/rights-nature.md)
+[Critère du juste](../axes/ethics-foundation.md) · [Générations futures](../axes/future-generations.md) · [Place de l'homme dans la nature](../axes/human-place-nature.md) · [Une machine peut-elle penser](../axes/machine-mind.md) · [Exigence morale](../axes/moral-demand.md) · [Statut des normes (métaéthique)](../axes/moral-scope.md) · [Nature des droits](../axes/rights-nature.md) · [Partialité](../axes/partiality.md)
 
 ---
 

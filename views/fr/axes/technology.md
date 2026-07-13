@@ -22,11 +22,32 @@ La technique n'est pas un simple outil neutre : elle impose sa propre logique, t
 
 - Marx critique l'usage capitaliste de la machine, non l'outil lui-même : la technique pourrait servir l'émancipation dans d'autres rapports sociaux.
 
-*[Heidegger](../philosophers/heidegger.md) · Ellul · Anders*
+*[Heidegger](../philosophers/heidegger.md) · [Ellul](../philosophers/ellul.md) · [Anders](../philosophers/anders.md)*
 
 ### Instrumentalisme (position médiane)
 
 La technique n'est en elle-même ni bénédiction ni malédiction : c'est un moyen, et tout dépend de l'usage qu'on en fait. Un même outil peut soigner ou détruire. Le vrai problème n'est pas la technique, mais les fins que nous lui assignons et la sagesse de ceux qui s'en servent.
+
+## Problèmes vifs
+
+- **L'outil est-il neutre ?** : Un outil ne serait ni bon ni mauvais, tout dépendrait de l'usage ; mais une arme, ou un fil d'actualité conçu pour capter le regard, n'ont-ils vraiment aucune pente propre ?
+- **La maîtrise de la nature** : Depuis Bacon et Descartes, la technique promet de nous rendre « comme maîtres et possesseurs de la nature » ; elle a fait reculer la faim et la maladie, mais déchaîne aussi des forces que nul ne gouverne : cette maîtrise à moitié tenue est-elle en chemin, ou contradictoire dans son principe ?
+- **La puissance et la sagesse** : Les moyens techniques s'accumulent : chaque génération hérite des machines et des savoirs de toutes les précédentes ; la sagesse d'en user, elle, ne se stocke pas et doit être reconquise par chacun. Ce fossé entre la puissance et le discernement est-il un retard qu'une éducation pourrait combler, ou se creuse-t-il par nature ?
+- **Le remède et le poison** : Platon craignait déjà que l'écriture n'affaiblisse la mémoire qu'elle prétendait servir ; chaque outil qui nous prolonge nous décharge d'une capacité, jusqu'à l'assistant qui pense à notre place : où finit le service, où commence la dépossession ?
+- **Choisir ses techniques** : Nul n'a voté pour le smartphone ni pour l'intelligence artificielle, qui réorganisent pourtant nos vies : l'adoption d'une technique peut-elle être une décision commune, ou est-ce une force qui s'impose et qu'on ne discute qu'après coup ?
+- **Réparer ou augmenter l'humain** : Quand la technique ne transforme plus le monde mais son auteur, soigner glisse vers augmenter : ce seuil est une question à part entière.
+
+## Arguments
+
+- *Techno-optimisme* · pour : [Le grand levier](../arguments/techno-optimism-emancipation.md)
+- *Techno-optimisme* · contre : [Le progrès des moyens](../arguments/techno-optimism-condition-objection.md)
+- *Techno-optimisme* · contre : [Le solutionnisme](../arguments/techno-optimism-solutionism-objection.md)
+- *Techno-critique* · pour : [La technique a sa logique](../arguments/techno-criticism-autonomous-system.md)
+- *Techno-critique* · contre : [Le procès en passéisme](../arguments/techno-criticism-moral-panic-objection.md)
+- *Techno-critique* · contre : [La preuve trop forte](../arguments/techno-criticism-proves-too-much-objection.md)
+- *Instrumentalisme* · pour : [Ce n'est pas l'outil, c'est l'usage](../arguments/instrumentalism-use-decides.md)
+- *Instrumentalisme* · contre : [Le combat inégal](../arguments/instrumentalism-captation-objection.md)
+- *Instrumentalisme* · contre : [L'outil n'est pas neutre](../arguments/instrumentalism-non-neutrality-objection.md)
 
 ## Relations de fondation
 

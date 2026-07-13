@@ -1,0 +1,49 @@
+{
+  "id": "techno-optimism-emancipation",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "TECHNOLOGY", "poleId": "TECHNO_OPTIMISM" },
+  "name": { "fr": "Le grand levier", "en": "The great lever" },
+  "claim": {
+    "fr": "Aucune sagesse n'a jamais reculé la faim, la douleur et la mort comme l'ont fait nos techniques.",
+    "en": "No wisdom has ever pushed back hunger, pain, and death the way our technologies have."
+  },
+  "summary": {
+    "fr": "L'histoire le montre : c'est la technique, et non les bonnes intentions, qui a tenu les promesses d'émancipation de l'humanité.",
+    "en": "History shows it: it is technology, not good intentions, that has kept humanity's promises of emancipation."
+  },
+  "development": [
+    {
+      "fr": "Avant nos outils, la vie humaine était brève, exposée, accablée de tâches. La charrue, l'imprimerie, le vaccin, le moteur : chaque technique a élargi ce qu'un être humain peut savoir, faire et espérer. C'est le sens du projet de <ph id='descartes'>Descartes</ph>, qui assignait au savoir de nous rendre <q>comme maîtres et possesseurs de la nature</q>.",
+      "en": "Before our tools, human life was short, exposed, weighed down by toil. The plough, the printing press, the vaccine, the engine: each technology widened what a human being can know, do, and hope for. This is the meaning of <ph id='descartes'>Descartes</ph>'s project, which charged knowledge with making us <q>as masters and possessors of nature</q>."
+    },
+    {
+      "fr": "Le fil d'actualité que vous faisiez défiler ce soir appartient à cette lignée : jamais une part aussi grande du savoir, des œuvres, des voix lointaines n'a été à portée de main. Ce que nous appelons distraction est l'envers d'une abondance inouïe.",
+      "en": "The feed you were scrolling tonight belongs to this lineage: never has so vast a share of knowledge, of works, of distant voices been within arm's reach. What we call distraction is the flip side of an unheard-of abundance."
+    },
+    {
+      "fr": "Et chaque nouveauté, en son temps, a fait peur : <ph id='plato'>Platon</ph> redoutait déjà que l'écriture ne ruine la mémoire. Pourtant nous n'échangerions pas l'écriture contre l'oubli. L'inquiétude présente est sans doute, elle aussi, l'inconfort d'un seuil.",
+      "en": "And every novelty, in its day, caused fear: <ph id='plato'>Plato</ph> already dreaded that writing would ruin memory. Yet we would not trade writing for forgetfulness. The present anxiety is surely, too, the discomfort of a threshold."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc parier sur la technique n'est pas naïveté : c'est reconnaître le levier qui, seul, a tenu ses promesses d'émancipation.",
+    "en": "So to bet on technology is not naivety: it is to recognize the lever that, alone, has kept its promises of emancipation."
+  },
+  "deepenings": [
+    {
+      "id": "writing-and-memory",
+      "label": { "fr": "L'écriture et la mémoire", "en": "Writing and memory" },
+      "targetStep": 2,
+      "development": [
+        {
+          "fr": "Dans le <w id='phaedrus-plato'>Phèdre</w>, <ph id='plato'>Platon</ph> fait dire au roi Thamous que l'écriture, loin de fortifier la mémoire, la laissera s'atrophier : on croira savoir parce qu'on aura noté. La crainte n'était pas absurde, elle s'est pourtant retournée en un gain immense.",
+          "en": "In the <w id='phaedrus-plato'>Phaedrus</w>, <ph id='plato'>Plato</ph> has King Thamus say that writing, far from strengthening memory, will let it wither: people will believe they know because they have written it down. The fear was not absurd, yet it turned into an immense gain."
+        }
+      ],
+      "source": { "author": { "fr": "Platon", "en": "Plato" }, "figures": [{ "name": { "fr": "Platon", "en": "Plato" }, "kind": "PHILOSOPHER", "slug": "plato" }], "work": { "fr": "Phèdre", "en": "Phaedrus" }, "workId": "phaedrus-plato" }
+    }
+  ],
+  "difficulty": 1,
+  "test": "techno-optimism-condition-objection",
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

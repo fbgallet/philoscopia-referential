@@ -19,6 +19,7 @@
   "poles": [
     {
       "id": "EGALITARIANISM",
+      "concept": "egalitarianism",
       "label": {
         "fr": "Égalitarisme",
         "en": "Egalitarianism"
@@ -46,6 +47,7 @@
     },
     {
       "id": "LIBERTARIANISM",
+      "concept": "libertarianism",
       "label": {
         "fr": "Libertarianisme",
         "en": "Libertarianism"
@@ -100,218 +102,613 @@
       "id": "equality-of-what",
       "resolution": "LATENT",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "l'avantage à répartir", "en": "the advantage to distribute" },
+      "objectLabel": {
+        "fr": "l'avantage à répartir",
+        "en": "the advantage to distribute"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "monnaie de la justice", "en": "currency of justice" },
-        { "fr": "capabilités", "en": "capabilities" },
-        { "fr": "biens premiers", "en": "primary goods" },
-        { "fr": "fonctionnements", "en": "functionings" }
+        {
+          "fr": "monnaie de la justice",
+          "en": "currency of justice"
+        },
+        {
+          "fr": "capabilités",
+          "en": "capabilities"
+        },
+        {
+          "fr": "biens premiers",
+          "en": "primary goods"
+        },
+        {
+          "fr": "fonctionnements",
+          "en": "functionings"
+        }
       ],
       "sphere": "POLITICAL",
-      "poles": ["EGALITARIANISM"],
-      "anchors": [
-        { "name": { "fr": "Sen", "en": "Sen" }, "kind": "PHILOSOPHER" },
-        { "name": { "fr": "Nussbaum", "en": "Nussbaum" }, "kind": "PHILOSOPHER", "slug": "nussbaum" },
-        { "name": { "fr": "Dworkin", "en": "Dworkin" }, "kind": "PHILOSOPHER" },
-        { "name": { "fr": "Rawls", "en": "Rawls" }, "kind": "PHILOSOPHER", "slug": "rawls" }
+      "poles": [
+        "EGALITARIANISM"
       ],
-      "doorways": [{ "axis": "SOVEREIGN_GOOD" }],
-      "title": { "fr": "L'égalité de quoi ?", "en": "Equality of what?" },
-      "explicitation": { "fr": "Pour répartir équitablement, faut-il égaliser les revenus, les ressources, le bien-être ou les capacités réelles d'agir ? On ne peut être juste sans dire d'abord de quel avantage on parle.", "en": "To distribute fairly, should one equalize incomes, resources, well-being, or each person's real capabilities to act? One cannot be just without first saying which advantage is at issue." }
+      "anchors": [
+        {
+          "name": {
+            "fr": "Sen",
+            "en": "Sen"
+          },
+          "kind": "PHILOSOPHER"
+        },
+        {
+          "name": {
+            "fr": "Nussbaum",
+            "en": "Nussbaum"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "nussbaum"
+        },
+        {
+          "name": {
+            "fr": "Dworkin",
+            "en": "Dworkin"
+          },
+          "kind": "PHILOSOPHER"
+        },
+        {
+          "name": {
+            "fr": "Rawls",
+            "en": "Rawls"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "rawls"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "SOVEREIGN_GOOD"
+        }
+      ],
+      "title": {
+        "fr": "L'égalité de quoi ?",
+        "en": "Equality of what?"
+      },
+      "explicitation": {
+        "fr": "Pour répartir équitablement, faut-il égaliser les revenus, les ressources, le bien-être ou les capacités réelles d'agir ? On ne peut être juste sans dire d'abord de quel avantage on parle.",
+        "en": "To distribute fairly, should one equalize incomes, resources, well-being, or each person's real capabilities to act? One cannot be just without first saying which advantage is at issue."
+      }
     },
     {
       "id": "desert-and-lottery",
       "resolution": "LATENT",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "le mérite", "en": "desert" },
+      "objectLabel": {
+        "fr": "le mérite",
+        "en": "desert"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "dû", "en": "what is owed" },
-        { "fr": "responsabilité", "en": "responsibility" },
-        { "fr": "hasard de la naissance", "en": "accident of birth" },
-        { "fr": "circonstances", "en": "unchosen circumstances" }
+        {
+          "fr": "dû",
+          "en": "what is owed"
+        },
+        {
+          "fr": "responsabilité",
+          "en": "responsibility"
+        },
+        {
+          "fr": "hasard de la naissance",
+          "en": "accident of birth"
+        },
+        {
+          "fr": "circonstances",
+          "en": "unchosen circumstances"
+        }
       ],
       "sphere": "MORAL",
-      "poles": ["LIBERTARIANISM", "EGALITARIANISM"],
-      "anchors": [
-        { "name": { "fr": "Rawls", "en": "Rawls" }, "kind": "PHILOSOPHER", "slug": "rawls" },
-        { "name": { "fr": "Sandel", "en": "Sandel" }, "kind": "PHILOSOPHER" }
+      "poles": [
+        "LIBERTARIANISM",
+        "EGALITARIANISM"
       ],
-      "doorways": [{ "axis": "FREEDOM", "problem": "could-have-done-otherwise" }],
-      "title": { "fr": "Mérite ou loterie naturelle ?", "en": "Desert or natural lottery?" },
-      "explicitation": { "fr": "Méritons-nous les fruits de talents et d'efforts dont nous ne sommes pas les auteurs ultimes ? Si nos dons tiennent à une loterie naturelle, la méritocratie est-elle juste ?", "en": "Do we deserve the fruits of talents and efforts of which we are not the ultimate authors? If our gifts come down to a natural lottery, is meritocracy just?" }
+      "anchors": [
+        {
+          "name": {
+            "fr": "Rawls",
+            "en": "Rawls"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "rawls"
+        },
+        {
+          "name": {
+            "fr": "Sandel",
+            "en": "Sandel"
+          },
+          "kind": "PHILOSOPHER"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "FREEDOM",
+          "problem": "could-have-done-otherwise"
+        }
+      ],
+      "title": {
+        "fr": "Mérite ou loterie naturelle ?",
+        "en": "Desert or natural lottery?"
+      },
+      "explicitation": {
+        "fr": "Méritons-nous les fruits de talents et d'efforts dont nous ne sommes pas les auteurs ultimes ? Si nos dons tiennent à une loterie naturelle, la méritocratie est-elle juste ?",
+        "en": "Do we deserve the fruits of talents and efforts of which we are not the ultimate authors? If our gifts come down to a natural lottery, is meritocracy just?"
+      }
     },
     {
       "id": "need-merit-equality",
       "resolution": "LATENT",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "la part de chacun", "en": "each one's share" },
+      "objectLabel": {
+        "fr": "la part de chacun",
+        "en": "each one's share"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "proportionnalité", "en": "proportionality" },
-        { "fr": "récompense", "en": "reward" },
-        { "fr": "Marx", "en": "Marx" },
-        { "fr": "égalitarisme strict", "en": "strict equality" }
+        {
+          "fr": "proportionnalité",
+          "en": "proportionality"
+        },
+        {
+          "fr": "récompense",
+          "en": "reward"
+        },
+        {
+          "fr": "Marx",
+          "en": "Marx"
+        },
+        {
+          "fr": "égalitarisme strict",
+          "en": "strict equality"
+        }
       ],
       "sphere": "POLITICAL",
-      "poles": ["EGALITARIANISM", "LIBERTARIANISM"],
-      "anchors": [{ "name": { "fr": "Marx", "en": "Marx" }, "kind": "PHILOSOPHER", "slug": "marx" }],
-      "title": { "fr": "À chacun selon quoi ?", "en": "To each according to what?" },
-      "explicitation": { "fr": "Faut-il répartir selon les besoins, selon le mérite, ou également entre tous ? Trois critères du juste partage qui dessinent trois sociétés différentes.", "en": "Should we distribute according to need, according to merit, or equally among all? Three criteria of the just share that sketch three different societies." }
+      "poles": [
+        "EGALITARIANISM",
+        "LIBERTARIANISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Marx",
+            "en": "Marx"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "marx"
+        }
+      ],
+      "title": {
+        "fr": "À chacun selon quoi ?",
+        "en": "To each according to what?"
+      },
+      "explicitation": {
+        "fr": "Faut-il répartir selon les besoins, selon le mérite, ou également entre tous ? Trois critères du juste partage qui dessinent trois sociétés différentes.",
+        "en": "Should we distribute according to need, according to merit, or equally among all? Three criteria of the just share that sketch three different societies."
+      }
     },
     {
       "id": "pattern-or-process",
       "resolution": "SURFACED",
       "object": "STRUCTURE",
-      "objectLabel": { "fr": "une répartition", "en": "a distribution" },
+      "objectLabel": {
+        "fr": "une répartition",
+        "en": "a distribution"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "modèle", "en": "pattern" },
-        { "fr": "processus", "en": "process" },
-        { "fr": "habilitation", "en": "entitlement" },
-        { "fr": "la liberté défait les modèles", "en": "liberty upsets patterns" }
+        {
+          "fr": "modèle",
+          "en": "pattern"
+        },
+        {
+          "fr": "processus",
+          "en": "process"
+        },
+        {
+          "fr": "habilitation",
+          "en": "entitlement"
+        },
+        {
+          "fr": "la liberté défait les modèles",
+          "en": "liberty upsets patterns"
+        }
       ],
       "sphere": "POLITICAL",
-      "poles": ["LIBERTARIANISM", "EGALITARIANISM"],
-      "anchors": [
-        { "name": { "fr": "Nozick", "en": "Nozick" }, "kind": "PHILOSOPHER", "slug": "nozick" },
-        { "name": { "fr": "Locke", "en": "Locke" }, "kind": "PHILOSOPHER", "slug": "locke" },
-        { "name": { "fr": "Rawls", "en": "Rawls" }, "kind": "PHILOSOPHER", "slug": "rawls" }
+      "poles": [
+        "LIBERTARIANISM",
+        "EGALITARIANISM"
       ],
-      "title": { "fr": "Un résultat juste, ou des échanges justes ?", "en": "A just outcome, or just exchanges?" },
-      "explicitation": { "fr": "Une répartition est-elle juste selon le résultat qu'elle produit, un certain partage des richesses, ou selon la manière dont chacun a légitimement acquis ce qu'il détient, par le travail et l'échange libre ?", "en": "Is a distribution just by the outcome it produces, a certain sharing of wealth, or by the way each person legitimately came to hold what they have, through labor and free exchange?" },
-      "ref": { "kind": "THOUGHT_EXPERIMENT", "id": "wilt-chamberlain" }
+      "anchors": [
+        {
+          "name": {
+            "fr": "Nozick",
+            "en": "Nozick"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "nozick"
+        },
+        {
+          "name": {
+            "fr": "Locke",
+            "en": "Locke"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "locke"
+        },
+        {
+          "name": {
+            "fr": "Rawls",
+            "en": "Rawls"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "rawls"
+        }
+      ],
+      "title": {
+        "fr": "Un résultat juste, ou des échanges justes ?",
+        "en": "A just outcome, or just exchanges?"
+      },
+      "explicitation": {
+        "fr": "Une répartition est-elle juste selon le résultat qu'elle produit, un certain partage des richesses, ou selon la manière dont chacun a légitimement acquis ce qu'il détient, par le travail et l'échange libre ?",
+        "en": "Is a distribution just by the outcome it produces, a certain sharing of wealth, or by the way each person legitimately came to hold what they have, through labor and free exchange?"
+      },
+      "ref": {
+        "kind": "THOUGHT_EXPERIMENT",
+        "id": "wilt-chamberlain"
+      }
     },
     {
       "id": "original-position",
       "resolution": "SURFACED",
       "object": "STRUCTURE",
-      "objectLabel": { "fr": "les principes de la société", "en": "society's principles" },
+      "objectLabel": {
+        "fr": "les principes de la société",
+        "en": "society's principles"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "position originelle", "en": "original position" },
-        { "fr": "principe de différence", "en": "difference principle" },
-        { "fr": "équité", "en": "fairness" },
-        { "fr": "contrat social", "en": "social contract" }
+        {
+          "fr": "position originelle",
+          "en": "original position"
+        },
+        {
+          "fr": "principe de différence",
+          "en": "difference principle"
+        },
+        {
+          "fr": "équité",
+          "en": "fairness"
+        },
+        {
+          "fr": "contrat social",
+          "en": "social contract"
+        }
       ],
       "sphere": "POLITICAL",
-      "poles": ["EGALITARIANISM"],
-      "anchors": [{ "name": { "fr": "Rawls", "en": "Rawls" }, "kind": "PHILOSOPHER", "slug": "rawls" }],
-      "doorways": [{ "axis": "SOCIAL_CONTRACT" }],
-      "title": { "fr": "Choisir sans connaître sa place", "en": "Choosing without knowing one's place" },
-      "explicitation": { "fr": "Quels principes de partage choisirions-nous si nous ignorions la place que nous occuperons, riches ou pauvres, doués ou non ? Ce voile garantit-il l'impartialité, ou la fausse-t-il ?", "en": "What principles of distribution would we choose if we did not know the place we will occupy, rich or poor, gifted or not? Does this veil secure impartiality, or does it skew it?" },
-      "ref": { "kind": "THOUGHT_EXPERIMENT", "id": "veil-of-ignorance" }
+      "poles": [
+        "EGALITARIANISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Rawls",
+            "en": "Rawls"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "rawls"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "SOCIAL_CONTRACT"
+        }
+      ],
+      "title": {
+        "fr": "Choisir sans connaître sa place",
+        "en": "Choosing without knowing one's place"
+      },
+      "explicitation": {
+        "fr": "Quels principes de partage choisirions-nous si nous ignorions la place que nous occuperons, riches ou pauvres, doués ou non ? Ce voile garantit-il l'impartialité, ou la fausse-t-il ?",
+        "en": "What principles of distribution would we choose if we did not know the place we will occupy, rich or poor, gifted or not? Does this veil secure impartiality, or does it skew it?"
+      },
+      "ref": {
+        "kind": "THOUGHT_EXPERIMENT",
+        "id": "veil-of-ignorance"
+      }
     },
     {
       "id": "self-ownership",
       "resolution": "LATENT",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "soi-même et son travail", "en": "oneself and one's labor" },
+      "objectLabel": {
+        "fr": "soi-même et son travail",
+        "en": "oneself and one's labor"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "droits individuels", "en": "individual rights" },
-        { "fr": "fiscalité", "en": "taxation" },
-        { "fr": "libre disposition", "en": "self-determination" },
-        { "fr": "patrimoine", "en": "wealth" }
+        {
+          "fr": "droits individuels",
+          "en": "individual rights"
+        },
+        {
+          "fr": "fiscalité",
+          "en": "taxation"
+        },
+        {
+          "fr": "libre disposition",
+          "en": "self-determination"
+        },
+        {
+          "fr": "patrimoine",
+          "en": "wealth"
+        }
       ],
       "sphere": "MORAL",
-      "poles": ["LIBERTARIANISM"],
-      "anchors": [
-        { "name": { "fr": "Nozick", "en": "Nozick" }, "kind": "PHILOSOPHER", "slug": "nozick" },
-        { "name": { "fr": "Locke", "en": "Locke" }, "kind": "PHILOSOPHER", "slug": "locke" }
+      "poles": [
+        "LIBERTARIANISM"
       ],
-      "doorways": [{ "axis": "RIGHTS_NATURE" }],
-      "title": { "fr": "Propriétaire de soi-même", "en": "Owning oneself" },
-      "explicitation": { "fr": "Si je m'appartiens et possède les fruits de mon travail, prélever l'impôt sur mes gains est-il une forme de travail forcé, ou la propriété suppose-t-elle déjà un ordre social qui la rend possible ?", "en": "If I own myself and the fruits of my labor, is taxing my earnings a kind of forced labor, or does property already presuppose a social order that makes it possible?" }
+      "anchors": [
+        {
+          "name": {
+            "fr": "Nozick",
+            "en": "Nozick"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "nozick"
+        },
+        {
+          "name": {
+            "fr": "Locke",
+            "en": "Locke"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "locke"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "RIGHTS_NATURE"
+        }
+      ],
+      "title": {
+        "fr": "Propriétaire de soi-même",
+        "en": "Owning oneself"
+      },
+      "explicitation": {
+        "fr": "Si je m'appartiens et possède les fruits de mon travail, prélever l'impôt sur mes gains est-il une forme de travail forcé, ou la propriété suppose-t-elle déjà un ordre social qui la rend possible ?",
+        "en": "If I own myself and the fruits of my labor, is taxing my earnings a kind of forced labor, or does property already presuppose a social order that makes it possible?"
+      }
     },
     {
       "id": "sufficiency-floor",
       "resolution": "LATENT",
       "object": "STRUCTURE",
-      "objectLabel": { "fr": "le seuil de suffisance", "en": "the threshold of enough" },
+      "objectLabel": {
+        "fr": "le seuil de suffisance",
+        "en": "the threshold of enough"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "suffisantarisme", "en": "sufficientarianism" },
-        { "fr": "plancher", "en": "floor" },
-        { "fr": "minimum vital", "en": "basic minimum" },
-        { "fr": "dignité", "en": "dignity" }
+        {
+          "fr": "suffisantarisme",
+          "en": "sufficientarianism"
+        },
+        {
+          "fr": "plancher",
+          "en": "floor"
+        },
+        {
+          "fr": "minimum vital",
+          "en": "basic minimum"
+        },
+        {
+          "fr": "dignité",
+          "en": "dignity"
+        }
       ],
       "sphere": "POLITICAL",
-      "anchors": [{ "name": { "fr": "Frankfurt", "en": "Frankfurt" }, "kind": "PHILOSOPHER", "slug": "frankfurt" }],
-      "title": { "fr": "Juste assez ?", "en": "Just enough?" },
-      "explicitation": { "fr": "La justice est-elle satisfaite dès que chacun a de quoi mener une vie décente ? Reste à savoir ce que signifie avoir assez, et au nom de quoi l'on juge un seuil suffisant.", "en": "Is justice satisfied once everyone has the means to lead a decent life? What remains is to say what having enough means, and in the name of what a threshold is deemed sufficient." }
+      "anchors": [
+        {
+          "name": {
+            "fr": "Frankfurt",
+            "en": "Frankfurt"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "frankfurt"
+        }
+      ],
+      "title": {
+        "fr": "Juste assez ?",
+        "en": "Just enough?"
+      },
+      "explicitation": {
+        "fr": "La justice est-elle satisfaite dès que chacun a de quoi mener une vie décente ? Reste à savoir ce que signifie avoir assez, et au nom de quoi l'on juge un seuil suffisant.",
+        "en": "Is justice satisfied once everyone has the means to lead a decent life? What remains is to say what having enough means, and in the name of what a threshold is deemed sufficient."
+      }
     },
     {
       "id": "relational-equality",
       "resolution": "LATENT",
       "object": "STRUCTURE",
-      "objectLabel": { "fr": "les rapports sociaux", "en": "social relations" },
+      "objectLabel": {
+        "fr": "les rapports sociaux",
+        "en": "social relations"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "statut", "en": "status" },
-        { "fr": "égaux entre pairs", "en": "equality among peers" },
-        { "fr": "oppression", "en": "oppression" },
-        { "fr": "reconnaissance", "en": "recognition" }
+        {
+          "fr": "statut",
+          "en": "status"
+        },
+        {
+          "fr": "égaux entre pairs",
+          "en": "equality among peers"
+        },
+        {
+          "fr": "oppression",
+          "en": "oppression"
+        },
+        {
+          "fr": "reconnaissance",
+          "en": "recognition"
+        }
       ],
       "sphere": "POLITICAL",
-      "poles": ["EGALITARIANISM"],
-      "anchors": [
-        { "name": { "fr": "Anderson", "en": "Anderson" }, "kind": "PHILOSOPHER" },
-        { "name": { "fr": "Scheffler", "en": "Scheffler" }, "kind": "PHILOSOPHER" }
+      "poles": [
+        "EGALITARIANISM"
       ],
-      "title": { "fr": "Égalité de parts ou de rapports ?", "en": "Equality of shares, or of relations?" },
-      "explicitation": { "fr": "L'égalité est-elle affaire de parts à répartir, ou d'abord une certaine relation entre les personnes, sans domination ni hiérarchie, où nul ne se trouve au-dessus d'autrui ?", "en": "Is equality a matter of shares to be distributed, or first of all a certain relation between persons, without domination or hierarchy, in which no one stands above another?" }
+      "anchors": [
+        {
+          "name": {
+            "fr": "Anderson",
+            "en": "Anderson"
+          },
+          "kind": "PHILOSOPHER"
+        },
+        {
+          "name": {
+            "fr": "Scheffler",
+            "en": "Scheffler"
+          },
+          "kind": "PHILOSOPHER"
+        }
+      ],
+      "title": {
+        "fr": "Égalité de parts ou de rapports ?",
+        "en": "Equality of shares, or of relations?"
+      },
+      "explicitation": {
+        "fr": "L'égalité est-elle affaire de parts à répartir, ou d'abord une certaine relation entre les personnes, sans domination ni hiérarchie, où nul ne se trouve au-dessus d'autrui ?",
+        "en": "Is equality a matter of shares to be distributed, or first of all a certain relation between persons, without domination or hierarchy, in which no one stands above another?"
+      }
     },
     {
       "id": "scope-global-justice",
       "resolution": "LATENT",
       "object": "STRUCTURE",
-      "objectLabel": { "fr": "les frontières", "en": "borders" },
+      "objectLabel": {
+        "fr": "les frontières",
+        "en": "borders"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "RELATED",
       "keywords": [
-        { "fr": "cosmopolitisme", "en": "cosmopolitanism" },
-        { "fr": "devoirs envers les lointains", "en": "duties to distant others" },
-        { "fr": "aide internationale", "en": "global aid" },
-        { "fr": "pauvreté mondiale", "en": "world poverty" }
+        {
+          "fr": "cosmopolitisme",
+          "en": "cosmopolitanism"
+        },
+        {
+          "fr": "devoirs envers les lointains",
+          "en": "duties to distant others"
+        },
+        {
+          "fr": "aide internationale",
+          "en": "global aid"
+        },
+        {
+          "fr": "pauvreté mondiale",
+          "en": "world poverty"
+        }
       ],
       "sphere": "POLITICAL",
       "anchors": [
-        { "name": { "fr": "Singer", "en": "Singer" }, "kind": "PHILOSOPHER", "slug": "singer" },
-        { "name": { "fr": "Pogge", "en": "Pogge" }, "kind": "PHILOSOPHER" },
-        { "name": { "fr": "Nagel", "en": "Nagel" }, "kind": "PHILOSOPHER", "slug": "nagel" }
+        {
+          "name": {
+            "fr": "Singer",
+            "en": "Singer"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "singer"
+        },
+        {
+          "name": {
+            "fr": "Pogge",
+            "en": "Pogge"
+          },
+          "kind": "PHILOSOPHER"
+        },
+        {
+          "name": {
+            "fr": "Nagel",
+            "en": "Nagel"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "nagel"
+        }
       ],
-      "doorways": [{ "axis": "MORAL_DEMAND" }],
-      "title": { "fr": "La justice s'arrête-t-elle aux frontières ?", "en": "Does justice stop at borders?" },
-      "explicitation": { "fr": "Devons-nous la même justice distributive à l'humanité entière, ou nos obligations de partage s'arrêtent-elles aux membres de notre communauté politique ?", "en": "Do we owe the same distributive justice to all of humanity, or do our duties of sharing stop at the members of our own political community?" }
+      "doorways": [
+        {
+          "axis": "MORAL_DEMAND",
+          "problem": "charity-or-justice"
+        }
+      ],
+      "title": {
+        "fr": "La justice s'arrête-t-elle aux frontières ?",
+        "en": "Does justice stop at borders?"
+      },
+      "explicitation": {
+        "fr": "Devons-nous la même justice distributive à l'humanité entière, ou nos obligations de partage s'arrêtent-elles aux membres de notre communauté politique ?",
+        "en": "Do we owe the same distributive justice to all of humanity, or do our duties of sharing stop at the members of our own political community?"
+      }
     },
     {
       "id": "liberty-vs-equality",
       "resolution": "LATENT",
       "object": "STRUCTURE",
-      "objectLabel": { "fr": "l'ordre politique", "en": "the political order" },
+      "objectLabel": {
+        "fr": "l'ordre politique",
+        "en": "the political order"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "RELATED",
       "keywords": [
-        { "fr": "contrainte", "en": "coercion" },
-        { "fr": "état-providence", "en": "welfare state" },
-        { "fr": "impôt", "en": "tax" },
-        { "fr": "arbitrage", "en": "trade-off" }
+        {
+          "fr": "contrainte",
+          "en": "coercion"
+        },
+        {
+          "fr": "état-providence",
+          "en": "welfare state"
+        },
+        {
+          "fr": "impôt",
+          "en": "tax"
+        },
+        {
+          "fr": "arbitrage",
+          "en": "trade-off"
+        }
       ],
       "sphere": "POLITICAL",
-      "poles": ["EGALITARIANISM", "LIBERTARIANISM"],
-      "doorways": [{ "axis": "POLITICAL_LIBERTY" }],
-      "title": { "fr": "L'égalité contre la liberté ?", "en": "Equality against liberty?" },
-      "explicitation": { "fr": "Toute redistribution restreint-elle la liberté de ceux que l'on taxe, ou la liberté réelle suppose-t-elle déjà une certaine égalité des moyens ?", "en": "Does every redistribution restrict the liberty of those it taxes, or does real liberty already presuppose a certain equality of means?" }
+      "poles": [
+        "EGALITARIANISM",
+        "LIBERTARIANISM"
+      ],
+      "doorways": [
+        {
+          "axis": "POLITICAL_LIBERTY"
+        }
+      ],
+      "title": {
+        "fr": "L'égalité contre la liberté ?",
+        "en": "Equality against liberty?"
+      },
+      "explicitation": {
+        "fr": "Toute redistribution restreint-elle la liberté de ceux que l'on taxe, ou la liberté réelle suppose-t-elle déjà une certaine égalité des moyens ?",
+        "en": "Does every redistribution restrict the liberty of those it taxes, or does real liberty already presuppose a certain equality of means?"
+      }
     }
   ]
 }

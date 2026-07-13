@@ -43,7 +43,7 @@
 
 ## Axes liés
 
-[Rapport à l'autorité](../axes/authority.md) · [Justice distributive](../axes/distributive-justice.md) · [Qui doit décider](../axes/who-decides.md) · [Individu et société](../axes/individual-society.md) · [Liberté de la volonté](../axes/freedom.md)
+[Rapport à l'autorité](../axes/authority.md) · [Justice distributive](../axes/distributive-justice.md) · [Qui doit décider](../axes/who-decides.md) · [Individu et société](../axes/individual-society.md) · [Liberté de la volonté](../axes/freedom.md) · [Exigence morale](../axes/moral-demand.md)
 
 ---
 

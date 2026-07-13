@@ -101,9 +101,206 @@
   "core": true,
   "difficulty": 2,
   "clusters": [],
+  "problems": [
+    {
+      "id": "disagreement-of-peoples",
+      "resolution": "SURFACED",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "les coutumes des autres peuples",
+        "en": "the customs of other peoples"
+      },
+      "mode": "DESCRIPTIVE",
+      "keywords": [
+        { "fr": "argument de la diversité", "en": "argument from disagreement" },
+        { "fr": "ethnocentrisme", "en": "ethnocentrism" },
+        { "fr": "coutume", "en": "custom" }
+      ],
+      "poles": ["UNIVERSALISM_REALISM", "RELATIVISM", "CONSTRUCTIVISM"],
+      "anchors": [
+        { "name": { "fr": "Montaigne", "en": "Montaigne" }, "kind": "PHILOSOPHER", "slug": "montaigne" },
+        { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" }
+      ],
+      "ref": { "kind": "THOUGHT_EXPERIMENT", "id": "funeral-customs" },
+      "title": {
+        "fr": "Chacun ses coutumes ?",
+        "en": "To each their customs?"
+      },
+      "explicitation": {
+        "fr": "Des peuples s'horrifient mutuellement de leurs usages, chacun tenant le sien pour évident. Ce désaccord profond prouve-t-il qu'aucune morale n'est vraie, ou peut-on encore juger que certaines valent mieux que d'autres ?",
+        "en": "Peoples horrify one another with their usages, each holding its own self-evident. Does this deep disagreement prove no morality is true, or can we still judge some better than others?"
+      }
+    },
+    {
+      "id": "are-there-moral-truths",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "un fait moral",
+        "en": "a moral fact"
+      },
+      "mode": "DESCRIPTIVE",
+      "keywords": [
+        { "fr": "réalisme moral", "en": "moral realism" },
+        { "fr": "théorie de l'erreur", "en": "error theory" },
+        { "fr": "loi de Hume", "en": "Hume's law" },
+        { "fr": "être et devoir-être", "en": "is and ought" }
+      ],
+      "poles": ["UNIVERSALISM_REALISM", "RELATIVISM"],
+      "anchors": [
+        { "name": { "fr": "Platon", "en": "Plato" }, "kind": "PHILOSOPHER", "slug": "plato" },
+        { "name": { "fr": "Hume", "en": "Hume" }, "kind": "PHILOSOPHER", "slug": "hume" },
+        { "name": { "fr": "Mackie", "en": "Mackie" }, "kind": "PHILOSOPHER" }
+      ],
+      "doorways": [{ "axis": "ETHICS_FOUNDATION" }, { "axis": "TRUTH_NATURE" }],
+      "title": {
+        "fr": "Y a-t-il des vérités morales ?",
+        "en": "Are there moral truths?"
+      },
+      "explicitation": {
+        "fr": "Quand je dis « c'est mal », est-ce que je décris quelque chose de réel, une propriété des actes, ou seulement mes préférences ? Rien dans les faits ne contient un « il faut » : d'où viendrait alors la vérité d'un jugement moral ?",
+        "en": "When I say \"that is wrong\", am I describing something real, a property of acts, or only my preferences? Nothing in the facts contains an \"ought\": where, then, would the truth of a moral judgment come from?"
+      }
+    },
+    {
+      "id": "limits-of-tolerance",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "la critique d'une autre culture",
+        "en": "the critique of another culture"
+      },
+      "mode": "DESCRIPTIVE",
+      "keywords": [
+        { "fr": "paradoxe de la tolérance", "en": "paradox of tolerance" },
+        { "fr": "relativisme de la distance", "en": "relativism of distance" },
+        { "fr": "autoréfutation", "en": "self-refutation" }
+      ],
+      "poles": ["RELATIVISM"],
+      "anchors": [
+        { "name": { "fr": "Williams", "en": "Williams" }, "kind": "PHILOSOPHER", "slug": "williams" },
+        { "name": { "fr": "Montaigne", "en": "Montaigne" }, "kind": "PHILOSOPHER", "slug": "montaigne" }
+      ],
+      "title": {
+        "fr": "Tolérer, jusqu'où ?",
+        "en": "Tolerance, how far?"
+      },
+      "explicitation": {
+        "fr": "Si toutes les morales se valent, au nom de quoi condamner l'esclavage ou la cruauté ailleurs ? Et « il faut respecter les autres cultures » n'est-il pas lui-même une règle qu'on prétend valable pour tous ?",
+        "en": "If all moralities are equal, in whose name condemn slavery or cruelty elsewhere? And is \"we must respect other cultures\" not itself a rule claimed to hold for all?"
+      }
+    },
+    {
+      "id": "found-imposed-or-made",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "la règle morale",
+        "en": "the moral rule"
+      },
+      "mode": "DESCRIPTIVE",
+      "keywords": [
+        { "fr": "nomos et physis", "en": "nomos and physis" },
+        { "fr": "loi du plus fort", "en": "might makes right" },
+        { "fr": "voile d'ignorance", "en": "veil of ignorance" },
+        { "fr": "procédure équitable", "en": "fair procedure" }
+      ],
+      "poles": ["UNIVERSALISM_REALISM", "RELATIVISM", "CONSTRUCTIVISM"],
+      "anchors": [
+        { "name": { "fr": "Thrasymaque", "en": "Thrasymachus" }, "kind": "PHILOSOPHER", "slug": "thrasymachus" },
+        { "name": { "fr": "Platon", "en": "Plato" }, "kind": "PHILOSOPHER", "slug": "plato" },
+        { "name": { "fr": "Rawls", "en": "Rawls" }, "kind": "PHILOSOPHER", "slug": "rawls" },
+        { "name": { "fr": "Habermas", "en": "Habermas" }, "kind": "PHILOSOPHER", "slug": "habermas" }
+      ],
+      "title": {
+        "fr": "Trouvée, imposée, ou construite ?",
+        "en": "Found, imposed, or made?"
+      },
+      "explicitation": {
+        "fr": "Une norme est-elle inscrite dans la nature des choses, n'est-elle que la loi du plus fort déguisée en justice, ou la fabriquons-nous par une procédure équitable ? Et une règle seulement construite peut-elle encore obliger ?",
+        "en": "Is a norm inscribed in the nature of things, is it merely might dressed up as justice, or do we make it through a fair procedure? And can a rule that is merely constructed still bind?"
+      }
+    },
+    {
+      "id": "rights-natural-or-instituted",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "les droits",
+        "en": "rights"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "droits naturels", "en": "natural rights" },
+        { "fr": "droit positif", "en": "positive law" }
+      ],
+      "anchors": [
+        { "name": { "fr": "Locke", "en": "Locke" }, "kind": "PHILOSOPHER", "slug": "locke" },
+        { "name": { "fr": "Bentham", "en": "Bentham" }, "kind": "PHILOSOPHER", "slug": "bentham" }
+      ],
+      "doorways": [{ "axis": "RIGHTS_NATURE" }],
+      "title": {
+        "fr": "Les droits : naturels ou institués ?",
+        "en": "Rights: natural or instituted?"
+      },
+      "explicitation": {
+        "fr": "Les droits de l'homme sont-ils découverts, inscrits dans notre nature avant toute loi, ou institués par des conventions qu'on pourrait défaire ?",
+        "en": "Are human rights discovered, inscribed in our nature before any law, or instituted by conventions we could undo?"
+      }
+    },
+    {
+      "id": "which-morality",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "le critère du juste",
+        "en": "the criterion of right"
+      },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "MORAL",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "vertu, devoir, conséquences", "en": "virtue, duty, consequences" }
+      ],
+      "doorways": [{ "axis": "ETHICS_FOUNDATION" }],
+      "title": {
+        "fr": "Quelle morale ?",
+        "en": "Which morality?"
+      },
+      "explicitation": {
+        "fr": "Savoir si une morale peut être objective ne dit pas encore laquelle : le juste se mesure-t-il aux conséquences, au devoir, aux vertus, ou au soin porté aux proches ?",
+        "en": "Knowing whether a morality can be objective does not yet say which one: is the right measured by consequences, duty, virtues, or care for those close to us?"
+      }
+    },
+    {
+      "id": "norms-for-whom",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "le cercle des êtres qui comptent",
+        "en": "the circle of beings that count"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "cercle moral", "en": "moral circle" }
+      ],
+      "doorways": [{ "axis": "MORAL_CIRCLE" }],
+      "title": {
+        "fr": "Pour qui les normes valent-elles ?",
+        "en": "For whom do norms hold?"
+      },
+      "explicitation": {
+        "fr": "Des normes universelles, mais universelles pour qui ? La question du statut des règles rejoint celle des êtres qu'elles obligent et protègent : où s'arrête le cercle de ceux qui comptent ?",
+        "en": "Universal norms, but universal for whom? The status of rules meets the question of the beings they bind and protect: where does the circle of those who count end?"
+      }
+    }
+  ],
   "relatedAxes": [
     "RIGHTS_NATURE",
     "ETHICS_FOUNDATION",
-    "MORAL_CIRCLE"
+    "MORAL_CIRCLE",
+    "TRUTH_NATURE"
   ]
 }

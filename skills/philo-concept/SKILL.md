@@ -27,7 +27,8 @@ For a word the user leans on heavily ("authenticity", "energy", their private co
 
 ## Conduct
 
+- Scale to the person (`orient`'s user block): with a BEGINNER, one everyday situation, plain words, and the concept's tradition kept for later — the tipping matters more than the lineage; an EXPERT will want the rival tradition, the technical fault lines, the proprietary sense against the ordinary one.
 - One concept per session. The try-on requires dwelling; two concepts side by side is a comparison, not an experience (except the deliberate rival contrast of mode A step 3).
 - `clarity` is a self-knowledge field, not a grade: FUZZY honestly recorded is worth more than CLEAR flattered. Revisit fuzzy concepts in later sessions (`list_entries` concepts).
 - The user's definition, always: your formulations are scaffolds they must rebuild in their own words before anything is recorded.
-- Close as always: `log_session` (touched: `c:…`, axes moved), `profile_summary` with `writeSummaryMd: true`.
+- Close as always: `log_session` (touched: `c:…`, axes moved; a concept still FUZZY is the natural `next`), `profile_summary` with `writeSummaryMd: true`.

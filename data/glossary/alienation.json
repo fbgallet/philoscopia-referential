@@ -1,0 +1,12 @@
+{
+  "id": "alienation",
+  "term": { "fr": "Aliénation", "en": "Alienation" },
+  "definition": {
+    "fr": "L'aliénation désigne le fait de devenir étranger à soi-même : une activité ou une puissance propre à l'homme se retourne contre lui et le domine comme une force extérieure. <ph id='hegel'>Hegel</ph> forge le concept, <ph id='marx'>Marx</ph> l'applique au travail, où l'ouvrier ne se reconnaît plus dans ce qu'il produit, dépossédé du fruit et du sens de son activité. <ph id='simone-weil'>Simone Weil</ph> en donne une description saisissante à l'usine. Le mot déborde le travail : on parle d'aliénation religieuse, marchande, technologique.",
+    "en": "Alienation names the fact of becoming a stranger to oneself: an activity or a power proper to human beings turns against them and dominates them like an external force. <ph id='hegel'>Hegel</ph> coins the concept, <ph id='marx'>Marx</ph> applies it to labor, where the worker no longer recognizes themselves in what they produce, dispossessed of the fruit and the meaning of their activity. <ph id='simone-weil'>Simone Weil</ph> gives a searing description of it in the factory. The word reaches beyond labor: one speaks of religious, commercial, technological alienation."
+  },
+  "relatedAxes": ["WORK_MEANING", "SOCIAL_IDENTITY"],
+  "relatedTerms": [],
+  "positions": [{ "axisId": "WORK_MEANING", "poleId": "ALIENATION" }],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

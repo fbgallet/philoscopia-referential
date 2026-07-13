@@ -1,0 +1,161 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/fbgallet/philoscopia-referential/blob/main/schemas/workspace/readings.schema.json",
+  "title": "workspace/readings",
+  "description": "The reading register: works and texts read, with status, appraisal and stances. Part of the user workspace format (my-philosophy/): monolingual, personal, local-first files written by the Philoscopia MCP server and exploration skills. Structure only; write-time rules (e.g. POSITIONED requires a value, ref resolution against the pinned referential) are enforced by the tools.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^[a-z0-9][a-z0-9-]*$"
+      },
+      "title": {
+        "type": "string"
+      },
+      "author": {
+        "type": "string"
+      },
+      "workRef": {
+        "type": "string",
+        "pattern": "^w:[a-z0-9][a-z0-9-]*$"
+      },
+      "figureRef": {
+        "type": "string",
+        "pattern": "^(ph|mv|chr):[a-z0-9][a-z0-9-]*$"
+      },
+      "scope": {
+        "type": "string",
+        "enum": [
+          "WORK",
+          "EXCERPT",
+          "ARTICLE",
+          "OTHER"
+        ]
+      },
+      "status": {
+        "default": "READ",
+        "type": "string",
+        "enum": [
+          "TO_READ",
+          "READING",
+          "READ",
+          "ABANDONED"
+        ]
+      },
+      "appraisal": {
+        "type": "string",
+        "enum": [
+          "ESSENTIAL",
+          "VALUABLE",
+          "MIXED",
+          "DISAPPOINTING"
+        ]
+      },
+      "verdict": {
+        "type": "string"
+      },
+      "notes": {
+        "type": "string"
+      },
+      "agreements": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "statement": {
+              "type": "string",
+              "minLength": 1
+            },
+            "ref": {
+              "anyOf": [
+                {
+                  "type": "string",
+                  "pattern": "^[a-z0-9][a-z0-9-]*$"
+                },
+                {
+                  "type": "string",
+                  "pattern": "^(ax:[A-Z][A-Z0-9_]*|pole:[A-Z][A-Z0-9_]*\\/[A-Z][A-Z0-9_]*|(c|ph|mv|chr|te|w|problem):[a-z0-9][a-z0-9-]*)$"
+                }
+              ]
+            }
+          },
+          "required": [
+            "statement"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "disagreements": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "statement": {
+              "type": "string",
+              "minLength": 1
+            },
+            "ref": {
+              "anyOf": [
+                {
+                  "type": "string",
+                  "pattern": "^[a-z0-9][a-z0-9-]*$"
+                },
+                {
+                  "type": "string",
+                  "pattern": "^(ax:[A-Z][A-Z0-9_]*|pole:[A-Z][A-Z0-9_]*\\/[A-Z][A-Z0-9_]*|(c|ph|mv|chr|te|w|problem):[a-z0-9][a-z0-9-]*)$"
+                }
+              ]
+            }
+          },
+          "required": [
+            "statement"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "relatedAxes": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "pattern": "^ax:[A-Z][A-Z0-9_]*$"
+        }
+      },
+      "anchors": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "pattern": "^(ax:[A-Z][A-Z0-9_]*|pole:[A-Z][A-Z0-9_]*\\/[A-Z][A-Z0-9_]*|(c|ph|mv|chr|te|w|problem):[a-z0-9][a-z0-9-]*)$"
+        }
+      },
+      "quotes": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9-]*$"
+        }
+      },
+      "sessions": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "pattern": "^journal\\/[a-z0-9][a-z0-9-]*\\.md$"
+        }
+      },
+      "createdAt": {
+        "type": "string"
+      },
+      "updatedAt": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "id",
+      "scope",
+      "createdAt",
+      "updatedAt"
+    ],
+    "additionalProperties": false
+  }
+}

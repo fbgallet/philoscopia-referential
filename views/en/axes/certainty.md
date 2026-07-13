@@ -38,6 +38,18 @@ We can hold firm, well-justified beliefs while knowing they might be wrong. Betw
 - **Justify, how far?** : Every reason rests on another reason: does the chain stop at a foundation, turn in a circle, or run off to infinity? This is the skeptic's lever.
 - **The world, or our representations?** : Even granting our perceptions are coherent, do they reach things as they are, or only our representations, with no way to compare the two?
 
+## Arguments
+
+- *Dogmatism* · for : [The cogito](../arguments/dogmatism-cogito.md)
+- *Dogmatism* · against : [The graveyard of certainties](../arguments/dogmatism-history-objection.md)
+- *Dogmatism* · against : [Agrippa's trilemma](../arguments/dogmatism-regress.md)
+- *Skepticism* · for : [The equipollence argument](../arguments/skepticism-equipollence.md)
+- *Skepticism* · against : [The self-refutation objection](../arguments/skepticism-self-refutation.md)
+- *Skepticism* · against : [The success of knowledge](../arguments/skepticism-success-objection.md)
+- *Fallibilism* · for : [Science as revisable knowledge](../arguments/fallibilism-science.md)
+- *Fallibilism* · against : [The half-measure](../arguments/fallibilism-half-measure.md)
+- *Fallibilism* · against : [The problem of induction](../arguments/fallibilism-induction.md)
+
 ## Grounding relations
 
 - *[Source of knowledge](../axes/knowledge-source.md) : Empiricism* grounds *[Relation to certainty](../axes/certainty.md) : Skepticism* : Pressed to its limit, [empiricism](../axes/knowledge-source.md) leads to doubt: if all knowledge comes from the senses, nothing guarantees the truths that outrun them, such as the necessity of a cause or the regularity of the future. This is [Hume](../philosophers/hume.md)'s road, from sensationism to [skepticism](../glossary/skepticism.md). The link stays contested: a moderate empiricism, in Locke, is in no way skeptical.

@@ -1,0 +1,92 @@
+{
+  "id": "desire-blind-affirmation-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "DESIRE", "poleId": "AFFIRMATION" },
+  "name": { "fr": "L'objection du désir aveugle", "en": "The blind-desire objection" },
+  "claim": {
+    "fr": "Dire oui à tous ses désirs, c'est dire oui aussi à ceux qui nous détruisent.",
+    "en": "To say yes to all your desires is to say yes also to those that destroy you."
+  },
+  "summary": {
+    "fr": "L'affirmation ne distingue pas le désir qui élève de celui qui ravage : faute de boussole, elle livre la vie au plus fort de ses penchants, fût-il le pire.",
+    "en": "Affirmation does not tell the desire that uplifts from the one that ravages: lacking a compass, it hands life over to its strongest leanings, even the worst."
+  },
+  "development": [
+    {
+      "fr": "L'affirmation tient sa force de ne rien refuser : elle dit oui à ce qui traverse la vie, sans le juger au nom d'une morale extérieure.",
+      "en": "Affirmation draws its strength from refusing nothing: it says yes to what moves through life, without judging it in the name of an external morality."
+    },
+    {
+      "fr": "Mais tous les désirs n'élèvent pas : il en est qui consument, l'emprise, la jalousie, la soif jamais étanchée d'avoir ou de dominer. Affirmer sans trier, c'est leur dire oui aussi, et leur laisser la vie qu'ils ravagent.",
+      "en": "But not all desires uplift: some consume, obsession, jealousy, the never-slaked thirst to possess or to dominate. To affirm without sorting is to say yes to these too, and to leave them the life they ravage."
+    },
+    {
+      "fr": "Pour distinguer le désir qui augmente la vie de celui qui la défait, il faut bien un critère, donc un examen, donc ce tri même que l'affirmation prétendait congédier.",
+      "en": "To tell the desire that enlarges life from the one that undoes it, one needs a criterion, hence an examination, hence the very sorting that affirmation claimed to dismiss."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc l'affirmation, pour ne pas devenir l'esclave de ses pires penchants, doit emprunter à la sagesse qu'elle refusait : apprendre à choisir parmi ses désirs.",
+    "en": "So affirmation, if it is not to become the slave of its worst leanings, must borrow from the wisdom it refused: learning to choose among one's desires."
+  },
+  "deepenings": [
+    {
+      "id": "which-desires",
+      "label": { "fr": "Tous les désirs se valent-ils ?", "en": "Are all desires equal?" },
+      "targetStep": 1,
+      "development": [
+        {
+          "fr": "<ph id='nietzsche'>Nietzsche</ph> lui-même ne dit pas oui à n'importe quoi : il distingue les forces qui s'affirment, généreuses et créatrices, de celles qui naissent du <c id='ressentiment'>ressentiment</c> et de la rancune contre la vie.",
+          "en": "<ph id='nietzsche'>Nietzsche</ph> himself does not say yes to just anything: he distinguishes the forces that affirm, generous and creative, from those born of <c id='ressentiment'>ressentiment</c> and rancor against life."
+        },
+        {
+          "fr": "Mais alors l'affirmation n'est plus aveugle : elle suppose, elle aussi, de hiérarchiser les désirs, de tenir les uns pour plus nobles que les autres.",
+          "en": "But then affirmation is no longer blind: it too presupposes ranking desires, holding some nobler than others."
+        }
+      ]
+    }
+  ],
+  "difficulty": 2,
+  "source": { "author": { "fr": "Nietzsche", "en": "Nietzsche" }, "figures": [{ "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" }] },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est juste : on ne peut pas dire oui à tout. Certains désirs me défont, et les reconnaître demande de les trier, pas seulement de les suivre.",
+        "en": "That's right: one cannot say yes to everything. Some desires undo me, and recognizing them calls for sorting them, not merely following them."
+      },
+      "hints": [{ "axisId": "DESIRE", "value": { "kind": "weights", "weights": [0.1, 0.8, 0.1] }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous accordez à l'affirmation la limite qui lui manquait : un désir vaut par ce qu'il fait de vous, et cela se discerne.",
+        "en": "You grant affirmation the limit it lacked: a desire is worth what it makes of you, and that can be discerned."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je continue d'affirmer mes désirs, sauf ceux qui me détruisent ou détruisent autrui : ceux-là, je ne les suivrai pas.",
+        "en": "I keep affirming my desires, except those that destroy me or others: those, I will not follow."
+      },
+      "hints": [{ "axisId": "DESIRE", "value": { "kind": "weights", "weights": [0.55, 0.4, 0.05] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous gardez l'élan, en y posant une seule digue : non plus tout désir, mais tout désir qui ne ruine pas la vie qu'il anime.",
+        "en": "You keep the impulse, with a single dike: no longer every desire, but every desire that does not ruin the life it animates."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Ce que vous nommez désir destructeur n'est souvent que la peur des forts désirs. Une vie sans risque n'est pas une vie sauvée, c'est une vie évitée.",
+        "en": "What you call a destructive desire is often just the fear of strong desires. A life without risk is not a life saved, it is a life avoided."
+      },
+      "hints": [{ "axisId": "DESIRE", "value": { "kind": "weights", "weights": [1, 0, 0] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous maintenez l'exigence de l'affirmation : c'est en bridant la vie par prudence qu'on la mutile le plus sûrement.",
+        "en": "You hold to affirmation's demand: it is by curbing life out of caution that we maim it most surely."
+      }
+    }
+  ],
+  "problems": ["destructive-desire", "desire-hierarchy"],
+  "targets": ["desire-affirmation-power"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

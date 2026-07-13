@@ -1,0 +1,69 @@
+{
+  "id": "partiality-partialism-impartial-limits",
+  "kind": "OBJECTS",
+  "position": { "axisId": "PARTIALITY", "poleId": "PARTIALISM" },
+  "name": { "fr": "Les bornes que vous acceptez déjà", "en": "The limits you already accept" },
+  "claim": {
+    "fr": "Vous admettez déjà que la partialité a des limites venues d'ailleurs.",
+    "en": "You already admit that partiality has limits coming from elsewhere."
+  },
+  "development": [
+    {
+      "fr": "Vous donneriez sans remords la dernière place du canot à votre enfant. Mais vous condamneriez le juge qui acquitte son fils, ou le responsable qui réserve à son neveu le marché public.",
+      "en": "You would give the last seat in the lifeboat to your child without remorse. But you would condemn the judge who acquits his son, or the official who reserves the public contract for his nephew."
+    },
+    {
+      "fr": "Ces bornes, vous les acceptez : il est des situations où faire passer les siens devient une faute, et vous le savez.",
+      "en": "These limits, you accept: there are situations where putting your own first becomes a wrong, and you know it."
+    },
+    {
+      "fr": "Or si le lien était à lui seul le fondement, rien ne pourrait s'y opposer ; que vous reconnaissiez des limites, c'est que la partialité répond, au fond, à une exigence d'égalité qui la dépasse.",
+      "en": "Yet if the bond were by itself the foundation, nothing could stand against it; that you recognize limits shows that partiality answers, at bottom, to a demand for equality that goes beyond it."
+    }
+  ],
+  "conclusion": {
+    "fr": "Les bornes que vous mettez à la partialité montrent donc qu'elle relève, en dernier ressort, d'une justice impartiale.",
+    "en": "The limits you place on partiality therefore show that it answers, in the last resort, to an impartial justice."
+  },
+  "difficulty": 3,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "Vous avez raison : si j'admets qu'un juge ne sauve pas son fils, c'est qu'une exigence impartiale prime, même sur les liens.",
+        "en": "You are right: if I admit a judge must not save his son, it is because an impartial demand prevails, even over the bonds."
+      },
+      "hints": [{ "axisId": "PARTIALITY", "value": { "kind": "scalar", "value": -1 }, "weight": 1.5 }],
+      "discussion": {
+        "fr": "Vous reconnaissez à l'impartialité le dernier mot, là où elle entre en conflit avec le lien.",
+        "en": "You grant impartiality the last word, where it conflicts with the bond."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "J'accorde que mes liens doivent compter avec une règle plus large, sans pour autant disparaître : ils ont leur place à l'intérieur d'elle.",
+        "en": "I grant that my bonds must reckon with a wider rule, without thereby vanishing: they have their place within it."
+      },
+      "hints": [{ "axisId": "PARTIALITY", "value": { "kind": "scalar", "value": 0 }, "weight": 0.7 }],
+      "discussion": {
+        "fr": "Vous tenez ensemble la borne impartiale et la priorité aux proches : les cercles concentriques.",
+        "en": "You hold together the impartial limit and priority to those close to us: the concentric circles."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : les limites que j'accepte ne viennent pas d'une morale impartiale, mais d'autres devoirs particuliers, ceux de ma charge ou de ma fonction.",
+        "en": "I refute it: the limits I accept come not from an impartial morality, but from other particular duties, those of my office or my role."
+      },
+      "hints": [{ "axisId": "PARTIALITY", "value": { "kind": "scalar", "value": 1 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous expliquez les bornes par d'autres liens, au public, à la justice, non par l'égalité abstraite.",
+        "en": "You explain the limits by other bonds, to the public, to justice, not by abstract equality."
+      }
+    }
+  ],
+  "targets": ["partiality-partialism-constitutive-bonds"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

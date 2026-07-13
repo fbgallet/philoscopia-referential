@@ -1,0 +1,60 @@
+{
+  "id": "funeral-customs",
+  "title": {
+    "fr": "Chacun ses coutumes ?",
+    "en": "To each their customs?"
+  },
+  "description": {
+    "fr": "Hérodote raconte que le roi Darius interrogea des Grecs, qui brûlaient le corps de leurs morts : à quel prix accepteraient-ils de le manger plutôt ? Horrifiés, ils répondirent qu'aucune somme ne les y déciderait. Puis il posa la question inverse à des Callatiens, qui, eux, mangeaient leurs morts : à quel prix accepteraient-ils de les brûler ? Ils poussèrent les mêmes cris d'horreur. Chacun tenait sa propre coutume pour évidente, et celle de l'autre pour une monstruosité.",
+    "en": "Herodotus tells that King Darius asked some Greeks, who burned their dead, for what price they would agree to eat the bodies instead: horrified, they answered that no sum could persuade them. He then put the reverse question to some Callatians, who ate their dead: for what price would they burn them? They cried out in the same horror. Each held their own custom self-evident, and the other's a monstrosity."
+  },
+  "source": {
+    "author": { "fr": "Hérodote", "en": "Herodotus" },
+    "work": { "fr": "Histoires", "en": "Histories" },
+    "year": -430
+  },
+  "question": {
+    "fr": "Que faut-il conclure d'un tel désaccord entre les peuples ?",
+    "en": "What should we conclude from such disagreement between peoples?"
+  },
+  "axisIds": ["MORAL_SCOPE"],
+  "options": [
+    {
+      "id": "wrong-everywhere",
+      "label": {
+        "fr": "Certaines choses restent bonnes ou mauvaises partout : la coutume ne fait pas tout, et l'on peut juger de l'extérieur.",
+        "en": "Some things stay right or wrong everywhere: custom is not all, and one can judge from outside."
+      },
+      "hints": [{ "axisId": "MORAL_SCOPE", "value": { "kind": "weights", "weights": [1, 0, 0] } }],
+      "discussion": {
+        "fr": "C'est l'universalisme de <ph id='kant'>Kant</ph> : la raison reconnaît des normes valables pour tout être humain, que les usages les respectent ou non.",
+        "en": "This is <ph id='kant'>Kant</ph>'s universalism: reason recognizes norms valid for every human being, whether or not local usage honors them."
+      }
+    },
+    {
+      "id": "each-its-measure",
+      "label": {
+        "fr": "Chaque culture a sa mesure du bien : nul ne peut juger du dehors ce qui vaut chez les autres.",
+        "en": "Each culture has its own measure of good: no one can judge from outside what holds among others."
+      },
+      "hints": [{ "axisId": "MORAL_SCOPE", "value": { "kind": "weights", "weights": [0, 1, 0] } }],
+      "discussion": {
+        "fr": "C'est le relativisme, déjà pressenti par <ph id='montaigne'>Montaigne</ph> : « chacun appelle barbarie ce qui n'est pas de son usage. » La diversité des mœurs serait la preuve qu'aucune ne détient la vérité.",
+        "en": "This is relativism, already sensed by <ph id='montaigne'>Montaigne</ph>: \"each man calls barbarism whatever is not his own custom.\" The variety of mores would prove that none holds the truth."
+      }
+    },
+    {
+      "id": "reason-together",
+      "label": {
+        "fr": "On peut dépasser le désaccord : des humains d'origines différentes peuvent, en raisonnant ensemble, s'accorder sur des règles communes.",
+        "en": "We can move past the disagreement: humans of different origins can, by reasoning together, agree on shared rules."
+      },
+      "hints": [{ "axisId": "MORAL_SCOPE", "value": { "kind": "weights", "weights": [0, 0, 1] } }],
+      "discussion": {
+        "fr": "C'est le constructivisme de <ph id='rawls'>Rawls</ph> et <ph id='habermas'>Habermas</ph> : une norme ne vaut ni parce qu'elle est inscrite dans les choses, ni parce qu'elle est nôtre, mais parce qu'elle sort d'une procédure équitable entre égaux.",
+        "en": "This is the constructivism of <ph id='rawls'>Rawls</ph> and <ph id='habermas'>Habermas</ph>: a norm holds neither because it is inscribed in things nor because it is ours, but because it issues from a fair procedure among equals."
+      }
+    }
+  ],
+  "updatedAt": "2026-07-13T00:00:00.000Z"
+}

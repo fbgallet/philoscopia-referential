@@ -178,6 +178,7 @@
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
       "justification": {
+        "argumentIds": ["death-epicurean-symmetry"],
         "text": {
           "fr": "L'argument repose sur deux prémisses tirées de la physique : tout bien et tout mal résident dans la <c>sensation</c>, et la mort, dissolution des atomes de l'âme, est précisément privation totale de sensation. Il s'ensuit que la mort ne peut être un mal pour personne, car le sujet qui en pâtirait n'existe jamais en même temps qu'elle : <q>tant que nous sommes, elle n'est pas là ; quand elle est là, nous ne sommes plus</q>. La peur de mourir vise donc un néant, et craindre un état où l'on ne sera pas est aussi vain que de s'affliger du temps d'avant sa naissance. Ce raisonnement, deuxième volet du <c id='tetrapharmakos'>tétrapharmakos</c>, retire son objet à l'angoisse qui, selon Épicure, empoisonne toute la vie.",
           "en": "The argument rests on two premises drawn from physics: all good and evil reside in <c>sensation</c>, and death, the dissolution of the soul's atoms, is precisely the total privation of sensation. It follows that death can be an evil for no one, since the subject who would suffer it never coexists with it: <q>while we are, it is not present; when it is present, we are no more</q>. The fear of dying therefore targets a nothingness, and to dread a state in which one will not be is as empty as grieving over the time before one's birth. This reasoning, the second plank of the <c id='tetrapharmakos'>tetrapharmakos</c>, removes the object of the anxiety that, on Epicurus' view, poisons the whole of life."
@@ -938,7 +939,7 @@
       }
     }
   ],
-  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "updatedAt": "2026-07-12T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

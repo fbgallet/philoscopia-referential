@@ -89,23 +89,65 @@
       "id": "tested-by-time",
       "resolution": "LATENT",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "une tradition", "en": "a tradition" },
+      "objectLabel": {
+        "fr": "une tradition",
+        "en": "a tradition"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "sphere": "POLITICAL",
       "keywords": [
-        { "fr": "tradition", "en": "tradition" },
-        { "fr": "ancienneté", "en": "age" },
-        { "fr": "préjugé", "en": "prejudice" },
-        { "fr": "« ça a toujours été ainsi »", "en": "\"it has always been so\"" }
+        {
+          "fr": "tradition",
+          "en": "tradition"
+        },
+        {
+          "fr": "ancienneté",
+          "en": "age"
+        },
+        {
+          "fr": "préjugé",
+          "en": "prejudice"
+        },
+        {
+          "fr": "« ça a toujours été ainsi »",
+          "en": "\"it has always been so\""
+        }
       ],
-      "poles": ["CONSERVATISM", "PROGRESSISM"],
+      "poles": [
+        "CONSERVATISM",
+        "PROGRESSISM"
+      ],
       "anchors": [
-        { "name": { "fr": "Burke", "en": "Burke" }, "kind": "PHILOSOPHER", "slug": "burke" },
-        { "name": { "fr": "Paine", "en": "Paine" }, "kind": "PHILOSOPHER", "slug": "paine" },
-        { "name": { "fr": "Bentham", "en": "Bentham" }, "kind": "PHILOSOPHER", "slug": "bentham" }
+        {
+          "name": {
+            "fr": "Burke",
+            "en": "Burke"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "burke"
+        },
+        {
+          "name": {
+            "fr": "Paine",
+            "en": "Paine"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "paine"
+        },
+        {
+          "name": {
+            "fr": "Bentham",
+            "en": "Bentham"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "bentham"
+        }
       ],
-      "title": { "fr": "Ce qui dure est-il bon ?", "en": "Is what lasts thereby good?" },
+      "title": {
+        "fr": "Ce qui dure est-il bon ?",
+        "en": "Is what lasts thereby good?"
+      },
       "explicitation": {
         "fr": "La durée d'une institution prouve-t-elle sa valeur, ce qui a tenu ayant fait ses preuves, ou « ça a toujours été ainsi » couvre-t-il aussi des injustices qui ont duré tout autant ?",
         "en": "Does an institution's endurance prove its worth, what has held having proven itself, or does \"it has always been so\" also shelter injustices that have lasted just as long?"
@@ -115,49 +157,137 @@
       "id": "inherited-wisdom-or-reason",
       "resolution": "SURFACED",
       "object": "STRUCTURE",
-      "objectLabel": { "fr": "l'ordre hérité", "en": "the inherited order" },
+      "objectLabel": {
+        "fr": "l'ordre hérité",
+        "en": "the inherited order"
+      },
       "mode": "DESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "sagesse accumulée", "en": "accumulated wisdom" },
-        { "fr": "raison constructrice", "en": "constructive reason" },
-        { "fr": "ordre spontané", "en": "spontaneous order" },
-        { "fr": "barrière de Chesterton", "en": "Chesterton's fence" }
+        {
+          "fr": "sagesse accumulée",
+          "en": "accumulated wisdom"
+        },
+        {
+          "fr": "raison constructrice",
+          "en": "constructive reason"
+        },
+        {
+          "fr": "ordre spontané",
+          "en": "spontaneous order"
+        },
+        {
+          "fr": "barrière de Chesterton",
+          "en": "Chesterton's fence"
+        }
       ],
-      "poles": ["CONSERVATISM", "PROGRESSISM"],
+      "poles": [
+        "CONSERVATISM",
+        "PROGRESSISM"
+      ],
       "anchors": [
-        { "name": { "fr": "Burke", "en": "Burke" }, "kind": "PHILOSOPHER", "slug": "burke" },
-        { "name": { "fr": "Hayek", "en": "Hayek" }, "kind": "PHILOSOPHER" },
-        { "name": { "fr": "Oakeshott", "en": "Oakeshott" }, "kind": "PHILOSOPHER" },
-        { "name": { "fr": "Condorcet", "en": "Condorcet" }, "kind": "PHILOSOPHER", "slug": "condorcet" }
+        {
+          "name": {
+            "fr": "Burke",
+            "en": "Burke"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "burke"
+        },
+        {
+          "name": {
+            "fr": "Hayek",
+            "en": "Hayek"
+          },
+          "kind": "PHILOSOPHER"
+        },
+        {
+          "name": {
+            "fr": "Oakeshott",
+            "en": "Oakeshott"
+          },
+          "kind": "PHILOSOPHER"
+        },
+        {
+          "name": {
+            "fr": "Condorcet",
+            "en": "Condorcet"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "condorcet"
+        }
       ],
-      "title": { "fr": "La sagesse des siècles, ou la raison ?", "en": "The wisdom of ages, or reason?" },
+      "title": {
+        "fr": "La sagesse des siècles, ou la raison ?",
+        "en": "The wisdom of ages, or reason?"
+      },
       "explicitation": {
         "fr": "L'ordre hérité condense-t-il un savoir qu'aucune raison individuelle ne peut égaler, imposant la prudence, ou la raison peut-elle examiner les institutions et corriger ce qui s'y est glissé d'injuste ?",
         "en": "Does the inherited order condense a knowledge no individual reason can match, calling for prudence, or can reason audit institutions and correct the injustice that has crept into them?"
       },
-      "ref": { "kind": "THOUGHT_EXPERIMENT", "id": "chestertons-fence" }
+      "ref": {
+        "kind": "THOUGHT_EXPERIMENT",
+        "id": "chestertons-fence"
+      }
     },
     {
       "id": "reform-or-revolution",
       "resolution": "LATENT",
       "object": "RELATION",
-      "objectLabel": { "fr": "le changement social", "en": "social change" },
+      "objectLabel": {
+        "fr": "le changement social",
+        "en": "social change"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "sphere": "POLITICAL",
       "keywords": [
-        { "fr": "réforme", "en": "reform" },
-        { "fr": "révolution", "en": "revolution" },
-        { "fr": "rythme du changement", "en": "pace of change" }
+        {
+          "fr": "réforme",
+          "en": "reform"
+        },
+        {
+          "fr": "révolution",
+          "en": "revolution"
+        },
+        {
+          "fr": "rythme du changement",
+          "en": "pace of change"
+        }
       ],
-      "poles": ["CONSERVATISM", "PROGRESSISM"],
+      "poles": [
+        "CONSERVATISM",
+        "PROGRESSISM"
+      ],
       "anchors": [
-        { "name": { "fr": "Burke", "en": "Burke" }, "kind": "PHILOSOPHER", "slug": "burke" },
-        { "name": { "fr": "Tocqueville", "en": "Tocqueville" }, "kind": "PHILOSOPHER" },
-        { "name": { "fr": "Marx", "en": "Marx" }, "kind": "PHILOSOPHER", "slug": "marx" }
+        {
+          "name": {
+            "fr": "Burke",
+            "en": "Burke"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "burke"
+        },
+        {
+          "name": {
+            "fr": "Tocqueville",
+            "en": "Tocqueville"
+          },
+          "kind": "PHILOSOPHER"
+        },
+        {
+          "name": {
+            "fr": "Marx",
+            "en": "Marx"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "marx"
+        }
       ],
-      "title": { "fr": "Réformer ou refonder ?", "en": "Reform or refound?" },
+      "title": {
+        "fr": "Réformer ou refonder ?",
+        "en": "Reform or refound?"
+      },
       "explicitation": {
         "fr": "Même quand le changement s'impose, faut-il réformer pas à pas, au risque de la lenteur qui laisse durer l'injustice, ou refonder d'un coup, au risque de défaire des équilibres qu'on ne comprenait pas ?",
         "en": "Even when change is called for, should we reform step by step, at the risk of a slowness that lets injustice endure, or refound all at once, at the risk of undoing balances we never understood?"
@@ -167,23 +297,65 @@
       "id": "the-living-and-the-dead",
       "resolution": "LATENT",
       "object": "RELATION",
-      "objectLabel": { "fr": "les générations", "en": "the generations" },
+      "objectLabel": {
+        "fr": "les générations",
+        "en": "the generations"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "sphere": "POLITICAL",
       "keywords": [
-        { "fr": "générations", "en": "generations" },
-        { "fr": "héritage", "en": "inheritance" },
-        { "fr": "« la terre appartient aux vivants »", "en": "\"the earth belongs to the living\"" }
+        {
+          "fr": "générations",
+          "en": "generations"
+        },
+        {
+          "fr": "héritage",
+          "en": "inheritance"
+        },
+        {
+          "fr": "« la terre appartient aux vivants »",
+          "en": "\"the earth belongs to the living\""
+        }
       ],
-      "poles": ["CONSERVATISM", "PROGRESSISM"],
+      "poles": [
+        "CONSERVATISM",
+        "PROGRESSISM"
+      ],
       "anchors": [
-        { "name": { "fr": "Burke", "en": "Burke" }, "kind": "PHILOSOPHER", "slug": "burke" },
-        { "name": { "fr": "Jefferson", "en": "Jefferson" }, "kind": "PHILOSOPHER" },
-        { "name": { "fr": "Paine", "en": "Paine" }, "kind": "PHILOSOPHER", "slug": "paine" }
+        {
+          "name": {
+            "fr": "Burke",
+            "en": "Burke"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "burke"
+        },
+        {
+          "name": {
+            "fr": "Jefferson",
+            "en": "Jefferson"
+          },
+          "kind": "PHILOSOPHER"
+        },
+        {
+          "name": {
+            "fr": "Paine",
+            "en": "Paine"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "paine"
+        }
       ],
-      "doorways": [{ "axis": "FUTURE_GENERATIONS" }],
-      "title": { "fr": "Les vivants, ou l'héritage ?", "en": "The living, or the inheritance?" },
+      "doorways": [
+        {
+          "axis": "FUTURE_GENERATIONS"
+        }
+      ],
+      "title": {
+        "fr": "Les vivants, ou l'héritage ?",
+        "en": "The living, or the inheritance?"
+      },
       "explicitation": {
         "fr": "Les vivants ont-ils le droit de réécrire ce que les morts ont bâti, « la terre appartient aux vivants », ou sommes-nous les dépositaires d'un legs que nous devons transmettre aux générations à venir ?",
         "en": "Do the living have the right to rewrite what the dead built, \"the earth belongs to the living\", or are we the trustees of a legacy we must hand on to the generations to come?"
@@ -193,20 +365,53 @@
       "id": "idea-of-progress",
       "resolution": "LATENT",
       "object": "STRUCTURE",
-      "objectLabel": { "fr": "le cours de l'histoire", "en": "the course of history" },
+      "objectLabel": {
+        "fr": "le cours de l'histoire",
+        "en": "the course of history"
+      },
       "mode": "DESCRIPTIVE",
       "relation": "RELATED",
       "keywords": [
-        { "fr": "progrès", "en": "progress" },
-        { "fr": "perfectibilité", "en": "perfectibility" },
-        { "fr": "déclin", "en": "decline" }
+        {
+          "fr": "progrès",
+          "en": "progress"
+        },
+        {
+          "fr": "perfectibilité",
+          "en": "perfectibility"
+        },
+        {
+          "fr": "déclin",
+          "en": "decline"
+        }
       ],
       "anchors": [
-        { "name": { "fr": "Condorcet", "en": "Condorcet" }, "kind": "PHILOSOPHER", "slug": "condorcet" },
-        { "name": { "fr": "Marx", "en": "Marx" }, "kind": "PHILOSOPHER", "slug": "marx" }
+        {
+          "name": {
+            "fr": "Condorcet",
+            "en": "Condorcet"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "condorcet"
+        },
+        {
+          "name": {
+            "fr": "Marx",
+            "en": "Marx"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "marx"
+        }
       ],
-      "doorways": [{ "axis": "HISTORY_MEANING" }],
-      "title": { "fr": "L'histoire va-t-elle vers le mieux ?", "en": "Does history move toward the better?" },
+      "doorways": [
+        {
+          "axis": "HISTORY_MEANING"
+        }
+      ],
+      "title": {
+        "fr": "L'histoire va-t-elle vers le mieux ?",
+        "en": "Does history move toward the better?"
+      },
       "explicitation": {
         "fr": "Le progressisme suppose que le changement tend vers le meilleur, mais l'histoire a-t-elle une direction, ou « progrès » est-il parfois un autre nom pour une perte ?",
         "en": "Progressivism assumes change tends toward the better, but does history have a direction, or is \"progress\" sometimes another name for a loss?"
@@ -216,18 +421,38 @@
       "id": "progress-chosen-or-imposed",
       "resolution": "LATENT",
       "object": "STRUCTURE",
-      "objectLabel": { "fr": "la transformation technique", "en": "technological change" },
+      "objectLabel": {
+        "fr": "la transformation technique",
+        "en": "technological change"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "RELATED",
       "sphere": "POLITICAL",
       "keywords": [
-        { "fr": "technique", "en": "technology" },
-        { "fr": "progrès subi", "en": "imposed progress" },
-        { "fr": "autonomie de la technique", "en": "autonomy of technology" }
+        {
+          "fr": "technique",
+          "en": "technology"
+        },
+        {
+          "fr": "progrès subi",
+          "en": "imposed progress"
+        },
+        {
+          "fr": "autonomie de la technique",
+          "en": "autonomy of technology"
+        }
       ],
       "anchors": [],
-      "doorways": [{ "axis": "TECHNOLOGY" }],
-      "title": { "fr": "Le progrès, choisi ou subi ?", "en": "Progress, chosen or imposed?" },
+      "doorways": [
+        {
+          "axis": "TECHNOLOGY",
+          "problem": "choosing-our-techniques"
+        }
+      ],
+      "title": {
+        "fr": "Le progrès, choisi ou subi ?",
+        "en": "Progress, chosen or imposed?"
+      },
       "explicitation": {
         "fr": "La technique transforme la société qu'on le veuille ou non : le « progrès » est-il alors une décision politique, ou une force qui nous emporte sans qu'on l'ait votée ?",
         "en": "Technology transforms society whether we will it or not: is \"progress\" then a political decision, or a force that carries us along without our having voted for it?"

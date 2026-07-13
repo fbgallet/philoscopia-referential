@@ -1,0 +1,13 @@
+{
+  "id": "communitarianism",
+  "term": { "fr": "Communautarisme", "en": "Communitarianism" },
+  "aliases": { "fr": ["communautariste"], "en": ["communitarian"] },
+  "definition": {
+    "fr": "Le communautarisme, en philosophie politique, conteste l'image de l'individu abstrait et autosuffisant : notre identité, nos valeurs et nos attachements nous viennent des communautés concrètes qui nous ont formés, famille, nation, culture. La loyauté envers les siens n'y est pas un préjugé à surmonter mais une vertu, et la source réelle de la solidarité. <ph id='walzer'>Walzer</ph>, MacIntyre, Taylor et Sandel le formulent dans les années 1980 contre le libéralisme de <ph id='rawls'>Rawls</ph>. Il s'oppose au <c id='cosmopolitanism'>cosmopolitisme</c>.",
+    "en": "Communitarianism, in political philosophy, challenges the picture of the abstract, self-sufficient individual: our identity, values and attachments come to us from the concrete communities that shaped us, family, nation, culture. Loyalty to one's own is not a prejudice to overcome but a virtue, and the real source of solidarity. <ph id='walzer'>Walzer</ph>, MacIntyre, Taylor and Sandel formulate it in the 1980s against the liberalism of <ph id='rawls'>Rawls</ph>. It stands against <c id='cosmopolitanism'>cosmopolitanism</c>."
+  },
+  "relatedAxes": ["BELONGING", "INDIVIDUAL_SOCIETY", "SOCIAL_CONTRACT"],
+  "relatedTerms": ["cosmopolitanism"],
+  "positions": [{ "axisId": "BELONGING", "poleId": "COMMUNITARIANISM" }],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "control-median-comfort-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "CONTROL_SCOPE", "median": true },
+  "name": { "fr": "Le confort du juste milieu", "en": "The comfort of the middle" },
+  "claim": {
+    "fr": "Se dire « lucide » sur ce qui dépend de soi, n'est-ce pas souvent s'autoriser à en faire peu ?",
+    "en": "To call yourself « clear-eyed » about what depends on you, is that not often a license to do little?"
+  },
+  "summary": {
+    "fr": "Le discernement risque de servir d'alibi : on range volontiers dans l'impossible ce dont le changement nous coûterait, et l'on baptise lucidité le moindre effort.",
+    "en": "Discernment risks serving as an alibi: we readily file under the impossible whatever change would cost us, and call the least effort clear-sightedness."
+  },
+  "development": [
+    {
+      "fr": "La voie du discernement a pour elle le bon sens : qui refuserait de « faire la part des choses » ? C'est même la position que chacun croit déjà tenir.",
+      "en": "The path of discernment has common sense on its side: who would refuse to « weigh things up »? It is even the position everyone believes they already hold."
+    },
+    {
+      "fr": "Mais cette évidence est un piège : il est commode de ranger dans l'« impossible » précisément ce dont le changement nous coûterait. La frontière du possible, on la trace souvent là où s'arrête notre courage, non là où s'arrête notre pouvoir.",
+      "en": "But this obviousness is a trap: it is convenient to file under the « impossible » precisely what change would cost us. We often draw the boundary of the possible where our courage stops, not where our power stops."
+    },
+    {
+      "fr": "Le discernement risque alors de servir d'alibi : il donne bonne conscience à l'inaction en la nommant lucidité, et au renoncement en l'appelant maturité. Le juste milieu peut n'être que la pente du moindre effort.",
+      "en": "Discernment may then serve as an alibi: it eases the conscience of inaction by naming it clear-sightedness, and of giving up by calling it maturity. The middle way may be nothing but the line of least resistance."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc le discernement, faute d'une exigence qui le tienne, peut dégénérer en complaisance : une sagesse de façade pour qui ne veut ni vraiment lutter ni vraiment lâcher prise.",
+    "en": "So discernment, lacking a demand to hold it firm, can degenerate into complacency: a wisdom of façade for those who want neither truly to struggle nor truly to let go."
+  },
+  "difficulty": 2,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "L'objection touche juste : trop souvent, je décrète « impossible » ce qui me demanderait surtout du courage. Mieux vaut pousser l'action plus loin.",
+        "en": "The objection hits home: too often I declare « impossible » what would mainly take courage. Better to push action further."
+      },
+      "hints": [{ "axisId": "CONTROL_SCOPE", "value": { "kind": "scalar", "value": 1 }, "weight": 1.5 }],
+      "discussion": {
+        "fr": "Vous corrigez la frontière vers le haut : dans le doute, présumer que cela dépend de vous, et essayer.",
+        "en": "You correct the boundary upward: when in doubt, presume it depends on you, and try."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "À l'inverse : si je me méfie de mes propres alibis, je me méfie aussi de l'agitation qui se croit toute-puissante. Mieux vaut une acceptation assumée.",
+        "en": "The other way: if I distrust my own alibis, I also distrust the agitation that thinks itself all-powerful. Better an acceptance owned for what it is."
+      },
+      "hints": [{ "axisId": "CONTROL_SCOPE", "value": { "kind": "scalar", "value": -0.5 }, "weight": 0.7 }],
+      "discussion": {
+        "fr": "Vous tirez l'objection de l'autre côté : plutôt qu'un activisme de bonne conscience, une sérénité lucide.",
+        "en": "You pull the objection the other way: rather than a good-conscience activism, a clear-eyed serenity."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : qu'on puisse mal s'en servir ne condamne pas le discernement ; le remède n'est pas de choisir un camp, mais d'exercer ce jugement avec exigence.",
+        "en": "I refute it: that it can be misused does not condemn discernment; the remedy is not to pick a camp, but to exercise that judgment with rigor."
+      },
+      "hints": [{ "axisId": "CONTROL_SCOPE", "value": { "kind": "scalar", "value": 0 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous tenez le discernement pour une tâche, non un confort : se demander sans cesse si l'« impossible » en est vraiment un.",
+        "en": "You hold discernment to be a task, not a comfort: asking yourself endlessly whether the « impossible » truly is."
+      }
+    }
+  ],
+  "problems": ["acceptance-or-resignation"],
+  "targets": ["control-median-practical-wisdom"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

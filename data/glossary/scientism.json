@@ -1,0 +1,13 @@
+{
+  "id": "scientism",
+  "term": { "fr": "Scientisme", "en": "Scientism" },
+  "aliases": { "fr": ["scientiste"], "en": ["scientistic"] },
+  "definition": {
+    "fr": "Le scientisme est la conviction que la science expérimentale est la seule source de connaissance véritable, et qu'elle pourra à terme répondre à toutes les questions, y compris morales, politiques ou métaphysiques. Porté par l'enthousiasme positiviste du XIXe siècle, chez <ph id='comte'>Auguste Comte</ph> et ses héritiers, il fait de la méthode scientifique la mesure de tout discours sensé. Ses critiques y voient une science muée en idéologie, aveugle à ce qui échappe à la mesure, le sens, la valeur, l'expérience vécue. Le mot est le plus souvent péjoratif.",
+    "en": "Scientism is the conviction that experimental science is the only source of genuine knowledge, and that it will eventually answer every question, including moral, political or metaphysical ones. Carried by the positivist enthusiasm of the nineteenth century, in <ph id='comte'>Auguste Comte</ph> and his heirs, it makes the scientific method the measure of all meaningful discourse. Its critics see in it a science turned ideology, blind to whatever escapes measurement, meaning, value, lived experience. The word is most often pejorative."
+  },
+  "relatedAxes": ["SCIENCE_PLACE", "KNOWLEDGE_SOURCE"],
+  "relatedTerms": [],
+  "positions": [{ "axisId": "SCIENCE_PLACE", "poleId": "SCIENTISM" }],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

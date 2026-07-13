@@ -19,6 +19,7 @@
   "poles": [
     {
       "id": "COMMUNITARIANISM",
+      "concept": "communitarianism",
       "label": {
         "fr": "Communautarisme-patriotisme",
         "en": "Communitarianism and patriotism"
@@ -46,6 +47,7 @@
     },
     {
       "id": "COSMOPOLITANISM",
+      "concept": "cosmopolitanism",
       "label": {
         "fr": "Cosmopolitisme",
         "en": "Cosmopolitanism"

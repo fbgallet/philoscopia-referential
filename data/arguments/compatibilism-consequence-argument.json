@@ -1,0 +1,70 @@
+{
+  "id": "compatibilism-consequence-argument",
+  "kind": "OBJECTS",
+  "position": { "axisId": "FREEDOM", "median": true },
+  "name": { "fr": "L'argument de la conséquence", "en": "The consequence argument" },
+  "claim": {
+    "fr": "Si le passé et les lois ne dépendent pas de nous, nos actes non plus.",
+    "en": "If the past and the laws do not depend on us, neither do our acts."
+  },
+  "development": [
+    {
+      "fr": "Si le <c id='determinism'>déterminisme</c> est vrai, mes actes découlent nécessairement de l'état du monde bien avant ma naissance et des lois de la nature.",
+      "en": "If <c id='determinism'>determinism</c> is true, my acts follow necessarily from the state of the world long before my birth and from the laws of nature."
+    },
+    {
+      "fr": "Or je n'ai aucun pouvoir sur ce passé lointain, ni sur les lois de la nature : rien de tout cela n'est en mon pouvoir.",
+      "en": "But I have no power over that distant past, nor over the laws of nature: none of this is up to me."
+    },
+    {
+      "fr": "Et ce dont je n'ai pas le pouvoir, ses conséquences nécessaires échappent elles aussi à mon pouvoir.",
+      "en": "And what is not up to me, its necessary consequences are not up to me either."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc, si tout est déterminé, mes actes ne sont pas en mon pouvoir : redéfinir la liberté ne suffit pas à me les rendre.",
+    "en": "So, if everything is determined, my acts are not up to me: redefining freedom does not suffice to make them mine."
+  },
+  "difficulty": 3,
+  "source": { "author": { "fr": "Peter van Inwagen", "en": "Peter van Inwagen" }, "figures": [{ "name": { "fr": "Peter van Inwagen", "en": "Peter van Inwagen" }, "kind": "PHILOSOPHER", "slug": "van-inwagen" }], "work": { "fr": "Essai sur le libre arbitre", "en": "An Essay on Free Will" }, "year": 1983 },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "L'argument porte : si déterminisme il y a, la liberté s'évanouit vraiment. Je l'admets, et l'idée d'être l'auteur de mes actes avec elle.",
+        "en": "The argument lands: if there is determinism, freedom truly vanishes. I grant it, and with it the idea of being the author of my acts."
+      },
+      "hints": [{ "axisId": "FREEDOM", "value": { "kind": "scalar", "value": 1 }, "weight": 1.5 }],
+      "discussion": {
+        "fr": "Vous tirez la conséquence incompatibiliste jusqu'au bout, du côté du <c id='determinism'>déterminisme</c> : pas de pouvoir réel sur le cours des causes.",
+        "en": "You follow the incompatibilist consequence all the way, on the side of <c id='determinism'>determinism</c>: no real power over the course of causes."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Si la liberté exige vraiment un pouvoir sur les conséquences, alors je doute, plutôt, que tout soit déterminé.",
+        "en": "If freedom truly requires a power over the consequences, then I rather doubt that everything is determined."
+      },
+      "hints": [{ "axisId": "FREEDOM", "value": { "kind": "scalar", "value": -0.5 }, "weight": 0.7 }],
+      "discussion": {
+        "fr": "Vous tirez la même conséquence de l'autre côté : tenant à une liberté réelle, vous refusez le déterminisme strict.",
+        "en": "You draw the same consequence the other way: holding to a real freedom, you reject strict determinism."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : l'argument joue sur « en mon pouvoir ». Agir selon mes raisons EST une forme de pouvoir, même si ces raisons ont une histoire.",
+        "en": "I refute it: the argument trades on \"up to me\". Acting from my reasons IS a form of power, even if those reasons have a history."
+      },
+      "hints": [{ "axisId": "FREEDOM", "value": { "kind": "scalar", "value": 0 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous rejetez le principe de transfert du « non-pouvoir » : le <c id='compatibilism'>compatibilisme</c> redéfinit précisément ce que « pouvoir » veut dire.",
+        "en": "You reject the transfer of \"no power\" principle: <c id='compatibilism'>compatibilism</c> redefines precisely what \"power\" means."
+      }
+    }
+  ],
+  "targets": ["compatibilism-reasons-responsiveness"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

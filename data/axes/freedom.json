@@ -20,6 +20,7 @@
   "poles": [
     {
       "id": "FREE_WILL",
+      "concept": "free-will",
       "label": {
         "fr": "Libre arbitre",
         "en": "Free will"
@@ -54,6 +55,7 @@
     },
     {
       "id": "DETERMINISM",
+      "concept": "determinism",
       "label": {
         "fr": "Déterminisme dur",
         "en": "Hard determinism"

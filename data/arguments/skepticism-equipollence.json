@@ -1,0 +1,54 @@
+{
+  "id": "skepticism-equipollence",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "CERTAINTY", "poleId": "SKEPTICISM" },
+  "name": { "fr": "L'argument de l'équipollence", "en": "The equipollence argument" },
+  "claim": {
+    "fr": "À toute thèse on peut opposer une thèse contraire de force égale.",
+    "en": "To every thesis one can oppose a contrary thesis of equal strength."
+  },
+  "summary": {
+    "fr": "Quand le pour et le contre s'équilibrent, le plus rigoureux est de suspendre son jugement.",
+    "en": "When for and against are evenly balanced, the most rigorous course is to suspend judgment."
+  },
+  "development": [
+    {
+      "fr": "Pour chaque affirmation que je tiens pour vraie, je peux trouver des raisons contraires d'une force comparable : les sens varient d'un témoin à l'autre, et toute preuve s'appuie sur une autre preuve qui reste, elle aussi, discutable.",
+      "en": "For each claim I take to be true, I can find contrary reasons of comparable force: the senses vary from one witness to another, and every proof rests on a further proof that is itself open to dispute."
+    },
+    {
+      "fr": "Or lorsque le pour et le contre s'équilibrent, rien ne justifie de pencher d'un côté plutôt que de l'autre : ce serait choisir sans raison.",
+      "en": "But when the case for and against are in balance, nothing justifies leaning to one side rather than the other: that would be to choose without reason."
+    },
+    {
+      "fr": "Affirmer malgré tout reviendrait à ajouter une croyance que les raisons ne soutiennent pas, et donc à se tromper sur ce qu'on est en droit de tenir pour acquis.",
+      "en": "To affirm regardless would be to add a belief the reasons do not support, and so to be mistaken about what one is entitled to take as settled."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc le plus lucide est de suspendre son jugement, là où aucune raison décisive ne tranche.",
+    "en": "Therefore the most lucid course is to suspend judgment, wherever no decisive reason settles the matter."
+  },
+  "deepenings": [
+    {
+      "id": "agrippa-modes",
+      "label": { "fr": "Pourquoi le contraire a-t-il toujours « force égale » ?", "en": "Why does the contrary always have \"equal force\"?" },
+      "targetStep": 0,
+      "development": [
+        {
+          "fr": "Les sceptiques anciens recensent des « modes » qui rouvrent le débat sur n'importe quel sujet : le désaccord persistant entre les savants, la variation des perceptions selon l'observateur, le fait que toute preuve réclame une preuve.",
+          "en": "The ancient skeptics catalogue \"modes\" that reopen the debate on any subject: the persistent disagreement among the learned, the variation of perceptions across observers, the fact that every proof demands a proof."
+        },
+        {
+          "fr": "Tant que ces leviers restent disponibles, aucune thèse ne s'impose sans qu'on puisse lui opposer un contrepoids : l'équilibre n'est pas un accident, c'est la règle.",
+          "en": "As long as these levers remain available, no thesis prevails without a counterweight being available against it: the balance is no accident, it is the rule."
+        }
+      ],
+      "source": { "author": { "fr": "Sextus Empiricus", "en": "Sextus Empiricus" }, "figures": [{ "name": { "fr": "Sextus Empiricus", "en": "Sextus Empiricus" }, "kind": "PHILOSOPHER", "slug": "sextus-empiricus" }], "work": { "fr": "Esquisses pyrrhoniennes", "en": "Outlines of Pyrrhonism" }, "workId": "outlines-of-pyrrhonism-sextus-empiricus" }
+    }
+  ],
+  "difficulty": 2,
+  "source": { "author": { "fr": "Sextus Empiricus", "en": "Sextus Empiricus" }, "figures": [{ "name": { "fr": "Sextus Empiricus", "en": "Sextus Empiricus" }, "kind": "PHILOSOPHER", "slug": "sextus-empiricus" }], "work": { "fr": "Esquisses pyrrhoniennes", "en": "Outlines of Pyrrhonism" }, "workId": "outlines-of-pyrrhonism-sextus-empiricus" },
+  "test": "skepticism-self-refutation",
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

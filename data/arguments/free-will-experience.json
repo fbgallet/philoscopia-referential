@@ -1,0 +1,30 @@
+{
+  "id": "free-will-experience",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "FREEDOM", "poleId": "FREE_WILL" },
+  "name": { "fr": "L'argument de l'expérience de la délibération", "en": "The argument from the experience of deliberation" },
+  "claim": {
+    "fr": "L'expérience même de délibérer atteste une liberté qu'aucune théorie ne peut effacer.",
+    "en": "The very experience of deliberating attests a freedom no theory can erase."
+  },
+  "development": [
+    {
+      "fr": "Quand je délibère, je fais directement l'épreuve d'un pouvoir : tenir ouverts plusieurs possibles, puis trancher.",
+      "en": "When I deliberate, I directly undergo a power: holding several possibilities open, then settling."
+    },
+    {
+      "fr": "Cette expérience est première : c'est sur elle que toute théorie, y compris déterministe, doit s'appuyer pour être seulement pensée et soutenue.",
+      "en": "This experience is primary: every theory, determinism included, must lean on it merely to be thought and argued."
+    },
+    {
+      "fr": "Récuser au nom d'une théorie ce témoignage immédiat, ce serait scier la branche sur laquelle l'argumentation elle-même est assise.",
+      "en": "To dismiss that immediate testimony in the name of a theory would be to saw off the branch on which the argument itself sits."
+    }
+  ],
+  "conclusion": {
+    "fr": "Le <c id='free-will'>libre arbitre</c> est donc une donnée première, que toute théorie doit respecter avant de la nier.",
+    "en": "<c id='free-will'>Free will</c> is therefore a primary given, which any theory must respect before denying it."
+  },
+  "difficulty": 2,
+  "updatedAt": "2026-06-17T00:00:00.000Z"
+}

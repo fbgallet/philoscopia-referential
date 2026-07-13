@@ -28,6 +28,18 @@ Nous sommes des héritiers : ce que nous avons reçu du passé nous constitue et
 
 *[Burke](../philosophers/burke.md) · [Confucius](../philosophers/confucius.md)*
 
+## Arguments
+
+- *Présentisme* · pour : [Le seul temps qui soit nôtre](../arguments/present-only-time-ours.md)
+- *Présentisme* · contre : [Une vie n'est pas un tas d'instants](../arguments/present-narrative-identity.md)
+- *Présentisme* · contre : [L'instant qui glisse](../arguments/present-shallow-flight.md)
+- *Projet* · pour : [Exister, c'est se projeter](../arguments/project-exist-is-to-project.md)
+- *Projet* · contre : [On remet toujours de vivre](../arguments/project-deferred-life.md)
+- *Projet* · contre : [L'avenir n'est pas à vous](../arguments/project-future-not-ours.md)
+- *Mémoire-transmission* · pour : [Nous sommes des héritiers](../arguments/memory-we-are-heirs.md)
+- *Mémoire-transmission* · contre : [Une vie d'emprunt](../arguments/memory-borrowed-life.md)
+- *Mémoire-transmission* · contre : [Vous ne serez pas là](../arguments/memory-transmission-illusion.md)
+
 ## Relations de fondation
 
 - *[Nature du moi](../axes/self-nature.md) : Faisceau* fonde *[Orientation temporelle](../axes/time-orientation.md) : Présentisme* : S'il n'y a pas de moi permanent mais une succession d'états, alors ni le passé ni l'avenir d'un « je » stable n'ont de prise réelle : seul l'instant présent est habité. Le faisceau fonde le présentisme : à la suite de [Hume](../philosophers/hume.md), se déprendre d'un moi substantiel invite à cueillir le jour plutôt qu'à se projeter ou à regretter.

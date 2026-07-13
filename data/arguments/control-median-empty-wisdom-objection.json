@@ -1,0 +1,73 @@
+{
+  "id": "control-median-empty-wisdom-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "CONTROL_SCOPE", "median": true },
+  "name": { "fr": "La difficulté escamotée", "en": "The difficulty smuggled away" },
+  "claim": {
+    "fr": "Dire qu'il faut distinguer le possible de l'inévitable, est-ce répondre à la question, ou la reposer ?",
+    "en": "To say we must tell the possible from the inevitable, is that to answer the question, or to ask it again?"
+  },
+  "summary": {
+    "fr": "La voie du discernement prescrit de « faire la différence » entre ce qu'on peut changer et ce qu'on doit accepter, mais c'est précisément cette frontière qui était toute la question.",
+    "en": "The path of discernment prescribes telling apart what we can change from what we must accept, but that very boundary was the whole question."
+  },
+  "development": [
+    {
+      "fr": "La voie du discernement tient en une formule : agir sur ce qui dépend de nous, accepter le reste, et savoir faire la différence. Qui n'y souscrirait pas ?",
+      "en": "The path of discernment holds in a single formula: act on what depends on us, accept the rest, and know how to tell the difference. Who would not subscribe to it?"
+    },
+    {
+      "fr": "Mais c'est précisément ce « savoir faire la différence » qui était toute la question. Où passe la frontière du possible ? Le stoïcien la trace au plus près de soi, le prométhéen la repousse sans cesse : leur désaccord porte là-dessus, et le discernement, lui, ne tranche pas, il renvoie chacun à son propre jugement.",
+      "en": "But it is precisely this knowing how to tell the difference that was the whole question. Where does the boundary of the possible fall? The Stoic draws it close to himself, the Promethean keeps pushing it back: their disagreement is about just this, and discernment settles nothing, it sends each back to his own judgment."
+    },
+    {
+      "fr": "Une sagesse qui se contente de dire « cela dépend » risque de n'être pas une troisième voie, mais le nom poli de l'hésitation : on évite de choisir en appelant cela de la mesure.",
+      "en": "A wisdom that contents itself with saying « it depends » risks being no third path, but the polite name for hesitation: one avoids choosing by calling it moderation."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc le discernement, tant qu'il ne dit pas comment tracer la frontière, pourrait n'être qu'une question reformulée en réponse.",
+    "en": "So discernment, as long as it does not say how to draw the boundary, might be only a question rephrased as an answer."
+  },
+  "difficulty": 2,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "Vous avez raison, et je penche du côté sûr : puisque la frontière est incertaine, mieux vaut la tracer au plus près, sur ce qui dépend vraiment de moi.",
+        "en": "You are right, and I lean to the safe side: since the boundary is uncertain, better to draw it close in, on what truly depends on me."
+      },
+      "hints": [{ "axisId": "CONTROL_SCOPE", "value": { "kind": "scalar", "value": -1 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Faute de règle assurée, vous choisissez la prudence stoïcienne : ne compter que sur le for intérieur.",
+        "en": "Lacking a sure rule, you choose Stoic caution: to count on the inner self alone."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "À l'inverse : si l'on ne sait jamais d'avance où est la limite, autant la supposer plus loin et tenter, plutôt que de renoncer trop tôt.",
+        "en": "The other way around: if we never know in advance where the limit lies, better to assume it further off and try, rather than give up too soon."
+      },
+      "hints": [{ "axisId": "CONTROL_SCOPE", "value": { "kind": "scalar", "value": 0.5 }, "weight": 0.7 }],
+      "discussion": {
+        "fr": "Vous tirez l'incertitude du côté de l'action : dans le doute, essayer plutôt que s'incliner.",
+        "en": "You pull the uncertainty toward action: when in doubt, try rather than yield."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : qu'une sagesse ne donne pas de recette ne la condamne pas. Le discernement n'est pas une formule, c'est un jugement à exercer, et c'est lui qui manque aux deux extrêmes.",
+        "en": "I refute it: that a wisdom gives no recipe does not condemn it. Discernment is not a formula, it is a judgment to be exercised, and it is what both extremes lack."
+      },
+      "hints": [{ "axisId": "CONTROL_SCOPE", "value": { "kind": "scalar", "value": 0 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous tenez le discernement pour une tâche, non une esquive : juger au cas par cas est plus exigeant, non moins, que suivre une règle fixe.",
+        "en": "You hold discernment to be a task, not an evasion: judging case by case is more demanding, not less, than following a fixed rule."
+      }
+    }
+  ],
+  "targets": ["control-median-practical-wisdom"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

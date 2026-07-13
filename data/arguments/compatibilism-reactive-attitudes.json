@@ -1,0 +1,35 @@
+{
+  "id": "compatibilism-reactive-attitudes",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "FREEDOM", "median": true },
+  "name": { "fr": "L'argument des attitudes réactives", "en": "The reactive-attitudes argument" },
+  "claim": {
+    "fr": "Tenir l'autre pour responsable n'attend aucune preuve sur le libre arbitre.",
+    "en": "Holding others responsible needs no proof about free will."
+  },
+  "summary": {
+    "fr": "La responsabilité ne tient pas à une métaphysique de la liberté, mais aux réactions par lesquelles nous nous traitons en égaux.",
+    "en": "Responsibility rests not on a metaphysics of freedom, but on the reactions through which we treat one another as equals."
+  },
+  "development": [
+    {
+      "fr": "Envers autrui, nous éprouvons spontanément ressentiment, gratitude ou indignation : ces <kw>attitudes réactives</kw> forment le tissu ordinaire de la vie partagée, et c'est en elles, d'abord, que nous le tenons pour responsable.",
+      "en": "Toward others we spontaneously feel resentment, gratitude or indignation: these <kw>reactive attitudes</kw> form the ordinary fabric of shared life, and it is in them, first of all, that we hold someone responsible."
+    },
+    {
+      "fr": "Or nous ne les réglons pas sur une thèse touchant les causes : nous les suspendons devant un tout jeune enfant ou un malade, non parce qu'une preuve du <c id='determinism'>déterminisme</c> nous y obligerait, mais parce que là, l'autre n'était pas en mesure de nous répondre comme un égal.",
+      "en": "Yet we do not tune them to any thesis about causes: we suspend them before a very young child or a sick person, not because a proof of <c id='determinism'>determinism</c> would compel us to, but because there, the other was in no position to answer us as an equal."
+    },
+    {
+      "fr": "Tenir quelqu'un pour responsable, c'est donc le traiter en partenaire à qui l'on peut demander des comptes ; et à cette attente, tissée dans nos relations mêmes, nous ne saurions renoncer sans cesser de vivre parmi les autres en humains.",
+      "en": "To hold someone responsible is thus to treat them as a partner of whom an account can be asked; and this expectation, woven into our very relationships, we could not give up without ceasing to live among others as human beings."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc on peut se tenir, soi et autrui, pour responsable dans un monde déterminé : non par un pouvoir d'échapper aux causes, mais par les relations où nous nous tenons. C'est la voie du <c id='compatibilism'>compatibilisme</c>.",
+    "en": "So we can hold ourselves and others responsible in a determined world: not through a power to escape causes, but through the relationships in which we stand. This is the path of <c id='compatibilism'>compatibilism</c>."
+  },
+  "difficulty": 2,
+  "source": { "author": { "fr": "Peter Strawson", "en": "Peter Strawson" }, "figures": [{ "name": { "fr": "Peter Strawson", "en": "Peter Strawson" }, "kind": "PHILOSOPHER", "slug": "peter-strawson" }], "work": { "fr": "Liberté et ressentiment", "en": "Freedom and Resentment" }, "year": 1962 },
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

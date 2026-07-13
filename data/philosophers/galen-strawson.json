@@ -1,0 +1,15 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "galen-strawson",
+  "name": { "fr": "Galen Strawson", "en": "Galen Strawson" },
+  "summary": {
+    "fr": "Philosophe britannique contemporain, connu pour son argument contre la responsabilité morale ultime : nul n'étant cause de soi, nul n'est l'auteur dernier de ses actes.",
+    "en": "Contemporary British philosopher known for his argument against ultimate moral responsibility: since no one is the cause of themselves, no one is the ultimate author of their acts."
+  },
+  "nationality": { "fr": "Britannique", "en": "British" },
+  "birth": 1952,
+  "movements": [],
+  "updatedAt": "2026-07-12T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

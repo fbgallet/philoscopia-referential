@@ -37,7 +37,7 @@ The true is what works: an idea is true if it effectively guides action and with
 
 ## Related axes
 
-[The meaning of words](../axes/meaning.md) · [Relation to certainty](../axes/certainty.md) · [Source of knowledge](../axes/knowledge-source.md) · [Status of knowledge](../axes/knowledge-status.md)
+[The meaning of words](../axes/meaning.md) · [Relation to certainty](../axes/certainty.md) · [Source of knowledge](../axes/knowledge-source.md) · [Status of knowledge](../axes/knowledge-status.md) · [Status of norms (metaethics)](../axes/moral-scope.md)
 
 ---
 

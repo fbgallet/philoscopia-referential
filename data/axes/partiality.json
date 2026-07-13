@@ -19,6 +19,7 @@
   "poles": [
     {
       "id": "IMPARTIALISM",
+      "concept": "impartiality",
       "label": {
         "fr": "Impartialisme",
         "en": "Impartialism"
@@ -86,6 +87,298 @@
   "relatedAxes": [
     "BELONGING",
     "MORAL_DEMAND",
-    "SELF_INTEREST"
+    "SELF_INTEREST",
+    "ETHICS_FOUNDATION",
+    "MORAL_CIRCLE"
+  ],
+  "problems": [
+    {
+      "id": "my-own-or-the-stranger",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "le sauvetage",
+        "en": "the rescue"
+      },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "MORAL",
+      "keywords": [
+        {
+          "fr": "une pensée de trop",
+          "en": "one thought too many"
+        },
+        {
+          "fr": "l'incendie de Fénelon",
+          "en": "Godwin's fire case"
+        },
+        {
+          "fr": "obligations spéciales",
+          "en": "special obligations"
+        }
+      ],
+      "poles": [
+        "IMPARTIALISM",
+        "PARTIALISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Godwin",
+            "en": "Godwin"
+          },
+          "kind": "PHILOSOPHER"
+        },
+        {
+          "name": {
+            "fr": "Bernard Williams",
+            "en": "Bernard Williams"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "williams"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "ETHICS_FOUNDATION",
+          "problem": "saving-a-loved-one"
+        }
+      ],
+      "title": {
+        "fr": "Le proche ou l'inconnu",
+        "en": "The loved one or the stranger"
+      },
+      "explicitation": {
+        "fr": "Deux vies sont en péril et une seule peut être sauvée ; si toutes comptent également, qu'un des deux soit un être aimé ne devrait rien changer : le lien est-il une raison morale de sauver d'abord les siens, ou une préférence que la morale exige de surmonter ?",
+        "en": "Two lives are in peril and only one can be saved; if all count equally, that one of the two is someone I love should make no difference: is the bond a moral reason to save one's own first, or a preference morality requires us to overcome?"
+      }
+    },
+    {
+      "id": "duties-from-bonds",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "les liens",
+        "en": "the bonds"
+      },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "MORAL",
+      "keywords": [
+        {
+          "fr": "amour gradué",
+          "en": "graded love"
+        },
+        {
+          "fr": "amour universel",
+          "en": "universal love"
+        },
+        {
+          "fr": "cercles concentriques",
+          "en": "concentric circles"
+        }
+      ],
+      "poles": [
+        "IMPARTIALISM",
+        "PARTIALISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Confucius",
+            "en": "Confucius"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "confucius"
+        },
+        {
+          "name": {
+            "fr": "Mozi",
+            "en": "Mozi"
+          },
+          "kind": "PHILOSOPHER"
+        },
+        {
+          "name": {
+            "fr": "Sidgwick",
+            "en": "Sidgwick"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "sidgwick"
+        }
+      ],
+      "title": {
+        "fr": "Des devoirs nés des liens",
+        "en": "Duties born of bonds"
+      },
+      "explicitation": {
+        "fr": "Mes devoirs envers mes enfants ou mes amis naissent-ils du lien lui-même, qui oblige par sa seule existence, ou sont-ils la part qui me revient d'un souci dû également à tous, parce que chacun veille mieux sur les siens ?",
+        "en": "Do my duties to my children or my friends arise from the bond itself, which obliges by its very existence, or are they my share of a concern owed equally to everyone, because each of us watches best over our own?"
+      }
+    },
+    {
+      "id": "conflict-of-interest",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "la charge publique",
+        "en": "public office"
+      },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "POLITICAL",
+      "keywords": [
+        {
+          "fr": "népotisme",
+          "en": "nepotism"
+        },
+        {
+          "fr": "Euthyphron",
+          "en": "Euthyphro"
+        },
+        {
+          "fr": "trahir son pays ou son ami",
+          "en": "betraying one's country or one's friend"
+        }
+      ],
+      "poles": [
+        "IMPARTIALISM",
+        "PARTIALISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Confucius",
+            "en": "Confucius"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "confucius"
+        },
+        {
+          "name": {
+            "fr": "Platon",
+            "en": "Plato"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "plato"
+        }
+      ],
+      "title": {
+        "fr": "Le conflit d'intérêts",
+        "en": "The conflict of interest"
+      },
+      "explicitation": {
+        "fr": "Fidèle en amitié, dévoué aux siens : ce qui est vertu dans la vie privée devient favoritisme et corruption dès qu'on exerce une charge ; où passe la ligne entre aimer les siens et être injuste envers tous les autres ?",
+        "en": "Loyal in friendship, devoted to one's own: what is a virtue in private life becomes favoritism and corruption once one holds an office; where does the line run between loving one's own and being unjust to everyone else?"
+      }
+    },
+    {
+      "id": "circle-of-sympathy",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "la sympathie humaine",
+        "en": "human sympathy"
+      },
+      "mode": "DESCRIPTIVE",
+      "keywords": [
+        {
+          "fr": "sympathie",
+          "en": "sympathy"
+        },
+        {
+          "fr": "cercle élargi",
+          "en": "the expanding circle"
+        },
+        {
+          "fr": "biais de proximité",
+          "en": "proximity bias"
+        }
+      ],
+      "poles": [
+        "IMPARTIALISM",
+        "PARTIALISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Hume",
+            "en": "Hume"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "hume"
+        },
+        {
+          "name": {
+            "fr": "Singer",
+            "en": "Singer"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "singer"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "MORAL_CIRCLE"
+        }
+      ],
+      "title": {
+        "fr": "Le cercle de la sympathie",
+        "en": "The circle of sympathy"
+      },
+      "explicitation": {
+        "fr": "Notre souci des autres faiblit à mesure qu'ils s'éloignent de nous, dans l'espace, le sang ou la ressemblance : la morale doit-elle bâtir sur cette pente naturelle, ou la corriger comme un préjugé de naissance ?",
+        "en": "Our concern for others weakens as they grow distant from us, in space, in blood or in likeness: should morality build on this natural slope, or correct it like an inborn prejudice?"
+      }
+    },
+    {
+      "id": "kin-to-compatriots",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "la nation",
+        "en": "the nation"
+      },
+      "mode": "PRESCRIPTIVE",
+      "relation": "RELATED",
+      "sphere": "POLITICAL",
+      "keywords": [
+        {
+          "fr": "patriotisme",
+          "en": "patriotism"
+        },
+        {
+          "fr": "cosmopolitisme",
+          "en": "cosmopolitanism"
+        },
+        {
+          "fr": "communautarisme",
+          "en": "communitarianism"
+        }
+      ],
+      "poles": [
+        "IMPARTIALISM",
+        "PARTIALISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "MacIntyre",
+            "en": "MacIntyre"
+          },
+          "kind": "PHILOSOPHER"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "BELONGING"
+        }
+      ],
+      "title": {
+        "fr": "Des proches aux compatriotes",
+        "en": "From kin to compatriots"
+      },
+      "explicitation": {
+        "fr": "Les compatriotes sont des inconnus : le patriotisme prolonge-t-il pourtant envers eux la loyauté due aux proches, comme une famille élargie, ou est-ce un tout autre attachement ? À qui l'on appartient d'abord fait l'objet d'un axe à part.",
+        "en": "Compatriots are strangers: does patriotism nonetheless extend to them the loyalty owed to those close to us, like an enlarged family, or is it an altogether different attachment? Where our belonging goes first is a question with its own axis."
+      }
+    }
   ]
 }

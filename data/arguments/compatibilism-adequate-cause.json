@@ -1,0 +1,61 @@
+{
+  "id": "compatibilism-adequate-cause",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "FREEDOM", "median": true },
+  "name": {
+    "fr": "La liberté comme cause adéquate",
+    "en": "Freedom as adequate cause"
+  },
+  "claim": {
+    "fr": "On est d'autant plus libre qu'on comprend ce qui nous détermine.",
+    "en": "We are freer the more we understand what determines us."
+  },
+  "summary": {
+    "fr": "Pour <ph id='spinoza'>Spinoza</ph>, la liberté n'est pas l'absence de <c id='determinism'>déterminisme</c> mais un degré d'activité : agir depuis sa propre nature comprise, non sous l'effet de passions subies.",
+    "en": "For <ph id='spinoza'>Spinoza</ph>, freedom is not the absence of <c id='determinism'>determinism</c> but a degree of activity: acting from one's own nature understood, not under passions one merely undergoes."
+  },
+  "development": [
+    {
+      "fr": "Un effet peut dépendre de moi de deux façons : ou bien il découle de ma seule nature, et j'en suis la <kw>cause adéquate</kw> ; ou bien il faut, pour l'expliquer, des forces extérieures que je subis, et je n'en suis que la cause partielle.",
+      "en": "An effect can depend on me in two ways: either it follows from my nature alone, and I am its <kw>adequate cause</kw>; or its explanation requires outside forces that I undergo, and I am only its partial cause."
+    },
+    {
+      "fr": "Dans le premier cas je suis actif, et libre d'autant ; dans le second, passif. Or la plupart de nos désirs nous mènent à notre insu : la liberté n'est donc pas tout ou rien, mais une affaire de degré.",
+      "en": "In the first case I am active, and free to that extent; in the second, passive. Yet most of our desires move us unawares: freedom is therefore not all-or-nothing, but a matter of degree."
+    },
+    {
+      "fr": "Ce degré ne croît pas en échappant aux causes, mais en les <kw>comprenant</kw> : sachant pourquoi je désire ce que je désire, j'agis de moi compris, non d'un dehors qui m'agite. Nul pouvoir de faire autrement n'est requis.",
+      "en": "This degree grows not by escaping causes but by <kw>understanding</kw> them: knowing why I desire what I desire, I act from myself understood, not from an outside that stirs me. No power to do otherwise is required."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc on peut être pleinement déterminé et pourtant plus ou moins libre, selon qu'on agit en cause adéquate : la liberté croît avec la connaissance de la nécessité, non avec son abolition.",
+    "en": "So one can be wholly determined and yet more or less free, according to whether one acts as an adequate cause: freedom grows with the knowledge of necessity, not with its abolition."
+  },
+  "difficulty": 3,
+  "source": { "author": { "fr": "Spinoza", "en": "Spinoza" }, "figures": [{ "name": { "fr": "Spinoza", "en": "Spinoza" }, "kind": "PHILOSOPHER", "slug": "spinoza" }], "work": { "fr": "Éthique", "en": "Ethics" }, "workId": "ethics-spinoza", "year": 1677 },
+  "deepenings": [
+    {
+      "id": "adequate-vs-inadequate-cause",
+      "label": { "fr": "Cause adéquate, cause inadéquate", "en": "Adequate cause, inadequate cause" },
+      "targetStep": 0,
+      "summary": {
+        "fr": "La distinction par laquelle Spinoza fait de la liberté une affaire de degré.",
+        "en": "The distinction by which Spinoza makes freedom a matter of degree."
+      },
+      "development": [
+        {
+          "fr": "Je suis cause adéquate quand l'effet s'explique par ma seule nature ; cause inadéquate, ou partielle, quand il faut, pour l'expliquer, faire intervenir autre chose que moi.",
+          "en": "I am an adequate cause when the effect is explained by my nature alone; an inadequate, or partial, cause when explaining it requires bringing in something other than me."
+        },
+        {
+          "fr": "Être actif, c'est produire des effets dont je suis la cause adéquate ; être passif, c'est les subir. Toute la liberté tient dans ce passage de la passivité à l'activité.",
+          "en": "To be active is to produce effects of which I am the adequate cause; to be passive is to undergo them. All of freedom lies in this passage from passivity to activity."
+        }
+      ],
+      "source": { "author": { "fr": "Spinoza", "en": "Spinoza" }, "figures": [{ "name": { "fr": "Spinoza", "en": "Spinoza" }, "kind": "PHILOSOPHER", "slug": "spinoza" }], "work": { "fr": "Éthique, III", "en": "Ethics, III" }, "workId": "ethics-spinoza" }
+    }
+  ],
+  "problems": ["escape-or-understand-causes"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

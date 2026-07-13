@@ -1,0 +1,13 @@
+{
+  "id": "holism",
+  "term": { "fr": "Holisme", "en": "Holism" },
+  "aliases": { "fr": ["holiste"], "en": ["holist"] },
+  "definition": {
+    "fr": "Le holisme, <ety>du grec holos, entier</ety>, affirme que le tout est plus que la somme de ses parties : la société possède ses propres lois et façonne les individus plus qu'elle n'en résulte. Durkheim en fait un principe de méthode, expliquer le social par le social, et <ph id='hegel'>Hegel</ph> une métaphysique où l'individu ne se comprend que dans le tout qui le porte. Il s'oppose à l'<c id='individualism'>individualisme</c> ; on retrouve la même opposition en biologie ou en médecine, entre approche globale et analyse des composants.",
+    "en": "Holism, <ety>from the Greek holos, whole</ety>, holds that the whole is more than the sum of its parts: society has laws of its own and shapes individuals more than it results from them. Durkheim makes it a principle of method, explaining the social by the social, and <ph id='hegel'>Hegel</ph> a metaphysics in which the individual can only be understood within the whole that carries them. It stands against <c id='individualism'>individualism</c>; the same opposition recurs in biology or medicine, between a global approach and the analysis of components."
+  },
+  "relatedAxes": ["INDIVIDUAL_SOCIETY", "REDUCTION_EMERGENCE"],
+  "relatedTerms": ["individualism"],
+  "positions": [{ "axisId": "INDIVIDUAL_SOCIETY", "poleId": "HOLISM" }],
+  "updatedAt": "2026-07-11T00:00:00.000Z"
+}

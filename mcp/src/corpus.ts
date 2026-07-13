@@ -41,6 +41,7 @@ const TYPE_DIRS = {
   c: "glossary",
   te: "thought-experiments",
   w: "works",
+  arg: "arguments",
 } as const;
 
 export type RefPrefix = keyof typeof TYPE_DIRS;
@@ -72,6 +73,36 @@ export function loadCorpus(): Corpus {
       byRef.set(`${prefix}:${entity.id}`, entity);
       if (prefix === "ax") axes.set(entity.id, entity);
     }
+  }
+  // Axis sub-problems are addressable too (`problem:<id>` — the ref grammar of
+  // inquiry anchors and provenance): each is registered with its home axis, so
+  // search can FIND the problem behind a user's question and get_entity can
+  // return it without shipping the whole axis map.
+  for (const axis of axes.values()) {
+    if (!Array.isArray(axis.problems)) continue;
+    for (const problem of axis.problems) {
+      byRef.set(`problem:${problem.id}`, { ...problem, axisId: axis.id, axisLabel: axis.label });
+    }
+  }
+  // Each axis carries a compact list of its canonical arguments ({ref, kind,
+  // on, claim}) so a host sees WHICH reasons/objections exist per pole before
+  // fetching one — mirrors the web build's ax entities. Pole order, SUPPORTS
+  // first; claims stay LocalizedText here (views flatten via pickLocale).
+  const argumentRefsByAxis = new Map<string, any[]>();
+  for (const [ref, entity] of byRef) {
+    if (!ref.startsWith("arg:")) continue;
+    const list = argumentRefsByAxis.get(entity.position.axisId) ?? [];
+    list.push({ ref, kind: entity.kind, on: entity.position.poleId ?? "MEDIAN", claim: entity.claim });
+    argumentRefsByAxis.set(entity.position.axisId, list);
+  }
+  for (const axis of axes.values()) {
+    const list = argumentRefsByAxis.get(axis.id);
+    if (!list?.length) continue;
+    const rank = (a: any) =>
+      a.on === "MEDIAN" ? axis.poles.length : axis.poles.findIndex((p: any) => p.id === a.on);
+    axis.arguments = [...list].sort(
+      (a, b) => rank(a) - rank(b) || (a.kind === b.kind ? 0 : a.kind === "SUPPORTS" ? -1 : 1),
+    );
   }
   return {
     paths,
@@ -113,20 +144,37 @@ export function searchCorpus(
   for (const [ref, entity] of corpus.byRef) {
     if (results.length >= limit) break;
     const name: string =
-      pickLocale(entity.label ?? entity.name ?? entity.term ?? entity.title, locale) ?? entity.id;
+      pickLocale(
+        entity.label ?? entity.name ?? entity.term ?? entity.title ?? entity.claim ?? entity.objectLabel,
+        locale,
+      ) ?? entity.id;
     const haystackParts: string[] = [entity.id, name];
     if (entity.question) haystackParts.push(pickLocale(entity.question, locale));
     if (entity.definition) haystackParts.push(pickLocale(entity.definition, locale));
     if (entity.summary) haystackParts.push(pickLocale(entity.summary, locale));
-    if (entity.poles) {
+    // Problems: the one-sentence explicitation + the search-only keywords.
+    if (entity.explicitation) haystackParts.push(pickLocale(entity.explicitation, locale));
+    if (Array.isArray(entity.keywords)) {
+      for (const keyword of entity.keywords) haystackParts.push(pickLocale(keyword, locale));
+    }
+    if (entity.poles && typeof entity.poles[0] === "object") {
       for (const pole of entity.poles) haystackParts.push(pickLocale(pole.label, locale));
+    }
+    // Arguments: the claim plus their position ids, so "objection FREEDOM"
+    // or a pole name finds the canonical reasons.
+    if (ref.startsWith("arg:")) {
+      haystackParts.push(pickLocale(entity.claim, locale), entity.kind, entity.position.axisId, entity.position.poleId ?? "median");
     }
     if (fold(haystackParts.join(" | ")).includes(needle)) {
       const hint = entity.question
         ? pickLocale(entity.question, locale)
-        : entity.tagline
-          ? pickLocale(entity.tagline, locale)
-          : undefined;
+        : entity.explicitation
+          ? pickLocale(entity.explicitation, locale)
+          : entity.tagline
+            ? pickLocale(entity.tagline, locale)
+            : ref.startsWith("arg:") && entity.name
+              ? pickLocale(entity.claim, locale)
+              : undefined;
       results.push({ ref, name, hint });
     }
   }
@@ -216,6 +264,20 @@ const POSITIONS_FORMAT =
  * pass through whole (their summary is all they have). Axes as axisView. */
 export function entityView(ref: string, flat: any): any {
   if (ref.startsWith("ax:")) return axisView(flat);
+  if (ref.startsWith("problem:")) {
+    // One sub-problem + its home axis; keywords are search-only synonyms.
+    const { keywords: _keywords, ...rest } = flat;
+    return stripMachineFields(rest, false);
+  }
+  if (ref.startsWith("arg:")) {
+    // Response hints are position-scoring machinery, difficulty is site
+    // taxonomy: neither serves a conversation (mirrors the web build's strip).
+    const { difficulty: _difficulty, ...rest } = stripMachineFields(flat, false);
+    if (Array.isArray(rest.responses)) {
+      rest.responses = rest.responses.map(({ hints: _hints, ...response }: any) => response);
+    }
+    return rest;
+  }
   if (!/^(ph|mv|chr):/.test(ref)) return stripMachineFields(flat, false);
   const clean = stripMachineFields(flat, false);
   if (!Array.isArray(clean.entries)) return clean;

@@ -72,6 +72,7 @@ Profile-level fields:
 - **Glossary** (`data/glossary/`) — the concepts referenced by `<c id='…'>` tags. A `figure` field marks a *proprietary* concept (Nietzsche's amor fati); its absence marks a generic tool for thinking. Optional `positions` list the poles the concept carries a stance toward.
 - **Works** (`data/works/`) — the registry behind `<w id='…'>` tags: usage `title` per language, optional `originalTitle`, `author`, `year`, one-line `presentation`.
 - **Thought experiments** (`data/thought-experiments/`) — classic experiments with their `source`, the `question` they sharpen, and the `axisIds` they put under stress.
+- **Arguments** (`data/arguments/`) — the canonical reasons for a position (`SUPPORTS`) and the strongest objections to it (`OBJECTS`), each a chain of reasons (`development`) with optional on-demand `deepenings`. The `position` names the pole (or the axis median) it bears on; `problems` anchors it to the axis's sub-problems; `source.figures` credits the figures behind it; an objection carries its resolution `responses` and `targets` (the supporting arguments it attacks), a supporting argument carries the objection that `test`s it.
 
 ## Conventions
 

@@ -1,0 +1,54 @@
+{
+  "id": "death-immortalist-hope",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "DEATH", "poleId": "IMMORTALISM" },
+  "name": { "fr": "L'argument de l'âme", "en": "The argument from the soul" },
+  "claim": {
+    "fr": "Ce qui pense en nous n'est pas un simple corps, et peut lui survivre.",
+    "en": "What thinks in us is not a mere body, and may outlast it."
+  },
+  "summary": {
+    "fr": "L'esprit saisit des vérités éternelles et ne se décompose pas comme un corps : il est rationnel d'espérer que la mort soit un passage, non un anéantissement.",
+    "en": "The mind grasps eternal truths and does not decompose like a body: it is rational to hope death is a passage, not an annihilation."
+  },
+  "development": [
+    {
+      "fr": "Ce qui pense, juge et aime ne se confond pas avec un organe : la pensée n'a ni poids ni couleur, et elle saisit des vérités qui ne vieillissent pas, comme l'égalité du triangle ou la justice.",
+      "en": "What thinks, judges and loves is not the same as an organ: thought has neither weight nor color, and it grasps truths that do not age, such as the equality of the triangle or justice."
+    },
+    {
+      "fr": "Or ce qui est simple, sans parties, ne peut se défaire comme se défait un corps composé : la fin de l'âme ne se conçoit pas sur le modèle de la décomposition matérielle.",
+      "en": "But what is simple, without parts, cannot fall apart as a composite body does: the end of the soul cannot be conceived on the model of material decomposition."
+    },
+    {
+      "fr": "S'ajoute une exigence morale : il est difficile d'admettre que le juste broyé et le bourreau prospère aient pour destin commun le même pur néant.",
+      "en": "A moral demand is added: it is hard to accept that the crushed just and the prosperous tyrant share one and the same destiny, sheer nothingness."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc il est rationnel d'espérer que la mort ne soit pas l'anéantissement de la personne, mais un passage.",
+    "en": "Therefore it is rational to hope that death is not the annihilation of the person, but a passage."
+  },
+  "deepenings": [
+    {
+      "id": "kant-postulate",
+      "label": { "fr": "Le postulat kantien de l'immortalité", "en": "Kant's postulate of immortality" },
+      "development": [
+        {
+          "fr": "<ph id='kant'>Kant</ph> ne prétend pas prouver l'âme : il en fait un postulat de la raison pratique. La loi morale m'ordonne une perfection que nulle vie finie ne peut atteindre.",
+          "en": "<ph id='kant'>Kant</ph> does not claim to prove the soul: he makes it a postulate of practical reason. The moral law commands a perfection no finite life can reach."
+        },
+        {
+          "fr": "Pour que cette exigence ne soit pas vaine, il faut postuler un progrès sans terme, donc une durée de la personne au-delà de la mort : non un savoir, mais une espérance que la morale rend raisonnable.",
+          "en": "For this demand not to be empty, one must postulate an endless progress, hence a duration of the person beyond death: not a knowledge, but a hope that morality makes reasonable."
+        }
+      ],
+      "source": { "author": { "fr": "Kant", "en": "Kant" }, "figures": [{ "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" }], "work": { "fr": "Critique de la raison pratique", "en": "Critique of Practical Reason" }, "workId": "critique-of-practical-reason-kant", "year": 1788 }
+    }
+  ],
+  "difficulty": 2,
+  "source": { "author": { "fr": "Platon", "en": "Plato" }, "figures": [{ "name": { "fr": "Platon", "en": "Plato" }, "kind": "PHILOSOPHER", "slug": "plato" }], "work": { "fr": "Phédon", "en": "Phaedo" }, "workId": "phaedo-plato" },
+  "test": "death-flight-from-finitude",
+  "problems": ["does-something-survive"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

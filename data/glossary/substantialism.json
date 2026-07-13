@@ -1,0 +1,13 @@
+{
+  "id": "substantialism",
+  "term": { "fr": "Substantialisme", "en": "Substantialism" },
+  "aliases": { "fr": ["substantialiste"], "en": ["substantialist"] },
+  "definition": {
+    "fr": "Le substantialisme affirme que le moi est une substance : un noyau permanent, distinct de ses états, qui demeure identique sous le flux des pensées et des expériences. C'est l'âme des traditions religieuses, la chose pensante de <ph id='descartes'>Descartes</ph>, ou encore l'<c id='atman'>ātman</c> des écoles indiennes orthodoxes. Le faisceau de perceptions de <ph id='hume'>Hume</ph> et le <c id='anatta'>non-soi</c> bouddhique en sont les négations les plus célèbres.",
+    "en": "Substantialism holds that the self is a substance: a permanent core, distinct from its states, remaining identical beneath the flow of thoughts and experiences. It is the soul of the religious traditions, <ph id='descartes'>Descartes</ph>' thinking thing, or again the <c id='atman'>ātman</c> of the orthodox Indian schools. <ph id='hume'>Hume</ph>'s bundle of perceptions and the Buddhist <c id='anatta'>non-self</c> are its most famous negations."
+  },
+  "relatedAxes": ["SELF_NATURE", "CONSCIOUSNESS_NATURE"],
+  "relatedTerms": ["atman", "anatta"],
+  "positions": [{ "axisId": "SELF_NATURE", "poleId": "SUBSTANTIALISM" }],
+  "updatedAt": "2026-07-11T00:00:00.000Z"
+}

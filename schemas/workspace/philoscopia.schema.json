@@ -35,6 +35,50 @@
         "syncedAt"
       ],
       "additionalProperties": false
+    },
+    "user": {
+      "type": "object",
+      "properties": {
+        "expertise": {
+          "type": "string",
+          "enum": [
+            "BEGINNER",
+            "AMATEUR",
+            "EXPERT"
+          ]
+        },
+        "goals": {
+          "type": "string"
+        },
+        "motivations": {
+          "type": "string"
+        },
+        "updatedAt": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "next": {
+      "type": "object",
+      "properties": {
+        "statement": {
+          "type": "string",
+          "minLength": 1
+        },
+        "at": {
+          "type": "string"
+        },
+        "session": {
+          "type": "string",
+          "pattern": "^journal\\/[a-z0-9][a-z0-9-]*\\.md$"
+        }
+      },
+      "required": [
+        "statement",
+        "at"
+      ],
+      "additionalProperties": false
     }
   },
   "required": [

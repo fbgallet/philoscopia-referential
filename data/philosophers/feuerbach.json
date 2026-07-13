@@ -1,0 +1,17 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "feuerbach",
+  "name": { "fr": "Ludwig Feuerbach", "en": "Ludwig Feuerbach" },
+  "aliases": { "fr": ["Feuerbach"], "en": ["Feuerbach"] },
+  "summary": {
+    "fr": "Philosophe allemand issu de la gauche hégélienne, qui interprète la religion comme une projection : en Dieu, l'homme contemple sa propre essence et l'attribue à un autre.",
+    "en": "German philosopher from the Hegelian left who read religion as a projection: in God, human beings contemplate their own essence and ascribe it to another."
+  },
+  "nationality": { "fr": "Allemand", "en": "German" },
+  "birth": 1804,
+  "death": 1872,
+  "movements": [],
+  "updatedAt": "2026-07-12T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

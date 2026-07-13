@@ -37,7 +37,7 @@ Le vrai, c'est ce qui fonctionne : une idée est vraie si elle guide efficacemen
 
 ## Axes liés
 
-[Le sens des mots](../axes/meaning.md) · [Rapport à la certitude](../axes/certainty.md) · [Source de la connaissance](../axes/knowledge-source.md) · [Statut du savoir](../axes/knowledge-status.md)
+[Le sens des mots](../axes/meaning.md) · [Rapport à la certitude](../axes/certainty.md) · [Source de la connaissance](../axes/knowledge-source.md) · [Statut du savoir](../axes/knowledge-status.md) · [Statut des normes (métaéthique)](../axes/moral-scope.md)
 
 ---
 

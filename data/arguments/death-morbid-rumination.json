@@ -1,0 +1,70 @@
+{
+  "id": "death-morbid-rumination",
+  "kind": "OBJECTS",
+  "position": { "axisId": "DEATH", "poleId": "BEING_TOWARD_DEATH" },
+  "name": { "fr": "L'objection de la rumination", "en": "The morbid-rumination objection" },
+  "claim": {
+    "fr": "À force de regarder la mort, on cesse de vivre.",
+    "en": "By dwelling on death, one stops living."
+  },
+  "development": [
+    {
+      "fr": "Faire de la mort le foyer de l'existence risque de teinter chaque instant d'angoisse, au lieu de le libérer pour l'action et la joie.",
+      "en": "Making death the focus of existence risks tinting every moment with dread, instead of freeing it for action and joy."
+    },
+    {
+      "fr": "<ph id='spinoza'>Spinoza</ph> renverse l'idée par avance : « l'homme libre ne pense à rien moins qu'à la mort, et sa sagesse est une méditation non de la mort mais de la vie ».",
+      "en": "<ph id='spinoza'>Spinoza</ph> reverses the idea in advance: \"a free man thinks of nothing less than of death, and his wisdom is a meditation not on death but on life.\""
+    },
+    {
+      "fr": "L'épicurien ajoute : puisque la mort, quand elle vient, n'est plus rien pour nous, lui vouer une attention de chaque instant, c'est se gâcher le présent pour un néant.",
+      "en": "The Epicurean adds: since death, when it comes, is nothing to us, devoting constant attention to it is to spoil the present for a nothingness."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc l'authenticité par la mort peut se retourner en son contraire : une fascination morbide qui appauvrit la vie qu'elle prétend intensifier.",
+    "en": "Therefore authenticity through death can turn into its opposite: a morbid fascination that impoverishes the life it claims to intensify."
+  },
+  "difficulty": 2,
+  "source": { "author": { "fr": "Spinoza, Épicure", "en": "Spinoza, Epicurus" }, "figures": [{ "name": { "fr": "Spinoza", "en": "Spinoza" }, "kind": "PHILOSOPHER", "slug": "spinoza" }, { "name": { "fr": "Épicure", "en": "Epicurus" }, "kind": "PHILOSOPHER", "slug": "epicurus" }], "work": { "fr": "Éthique, IV", "en": "Ethics, IV" }, "workId": "ethics-spinoza" },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est juste : mieux vaut méditer la vie que la mort. Je me tourne vers ce qui se vit, non vers ce qui finit.",
+        "en": "That's right: better to meditate on life than on death. I turn toward what is lived, not toward what ends."
+      },
+      "hints": [{ "axisId": "DEATH", "value": { "kind": "weights", "weights": [0.8, 0.1, 0.1, 0] }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous laissez l'objection trancher : détourner le regard de la fin pour le porter sur le présent, c'est la sagesse épicurienne et spinoziste.",
+        "en": "You let the objection decide: turning the gaze from the end toward the present is the Epicurean and Spinozist wisdom."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je garde la lucidité, mais sans la gravité : savoir ma vie finie, oui, sans en faire une obsession.",
+        "en": "I keep the lucidity, but without the gravity: knowing my life finite, yes, without making it an obsession."
+      },
+      "hints": [{ "axisId": "DEATH", "value": { "kind": "weights", "weights": [0.4, 0.5, 0.1, 0] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous tenez les deux bouts : la conscience de la finitude comme aiguillon, pas comme poison. L'éclairage de la mort sans son ombre.",
+        "en": "You hold both ends: awareness of finitude as a spur, not a poison. The light of death without its shadow."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : regarder la mort en face n'est pas y être obsédé. C'est la résolution lucide, non la rumination, que l'objection caricature.",
+        "en": "I refute it: facing death is not being obsessed with it. It is lucid resolve, not rumination, that the objection caricatures."
+      },
+      "hints": [{ "axisId": "DEATH", "value": { "kind": "weights", "weights": [0.05, 0.9, 0.05, 0] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous distinguez assumer et ressasser : l'être-pour-la-mort est une clarté qui rend à soi, pas une fixation anxieuse. Riposte classique à Spinoza.",
+        "en": "You distinguish facing from brooding: being-toward-death is a clarity that returns you to yourself, not an anxious fixation. The classic reply to Spinoza."
+      }
+    }
+  ],
+  "targets": ["death-being-toward-death"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

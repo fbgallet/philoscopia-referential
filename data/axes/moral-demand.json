@@ -83,6 +83,447 @@
     "PARTIALITY",
     "SELF_INTEREST",
     "FORGIVENESS",
-    "DISTRIBUTIVE_JUSTICE"
+    "DISTRIBUTIVE_JUSTICE",
+    "POLITICAL_LIBERTY",
+    "HUMAN_VISION"
+  ],
+  "problems": [
+    {
+      "id": "rescue-at-distance",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "le secours",
+        "en": "the rescue"
+      },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "MORAL",
+      "keywords": [
+        {
+          "fr": "l'enfant qui se noie",
+          "en": "the drowning child"
+        },
+        {
+          "fr": "devoir d'assistance",
+          "en": "duty of rescue"
+        },
+        {
+          "fr": "altruisme efficace",
+          "en": "effective altruism"
+        },
+        {
+          "fr": "part équitable",
+          "en": "fair share"
+        }
+      ],
+      "poles": [
+        "MINIMALISM",
+        "MAXIMALISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Singer",
+            "en": "Singer"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "singer"
+        },
+        {
+          "name": {
+            "fr": "Peter Unger",
+            "en": "Peter Unger"
+          },
+          "kind": "PHILOSOPHER"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "PARTIALITY",
+          "problem": "my-own-or-the-stranger"
+        }
+      ],
+      "title": {
+        "fr": "L'enfant qui se noie, l'enfant qui a faim",
+        "en": "The drowning child, the starving child"
+      },
+      "explicitation": {
+        "fr": "Chacun accorde qu'il faut sauver l'enfant qui se noie sous nos yeux, fût-ce en ruinant ses vêtements ; mais si la distance ne change rien au devoir, comme le soutient Singer, pourquoi ne s'étend-il pas à tous ceux qu'un don suffirait à sauver ?",
+        "en": "Everyone grants that we must save the child drowning before our eyes, even at the cost of ruining our clothes; but if distance makes no difference to the duty, as Singer argues, why does it not extend to everyone a donation would suffice to save?"
+      }
+    },
+    {
+      "id": "acts-and-omissions",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "l'omission",
+        "en": "the omission"
+      },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "MORAL",
+      "keywords": [
+        {
+          "fr": "tuer ou laisser mourir",
+          "en": "killing or letting die"
+        },
+        {
+          "fr": "devoirs négatifs et positifs",
+          "en": "negative and positive duties"
+        },
+        {
+          "fr": "qui peut et n'empêche, pèche",
+          "en": "who can prevent and does not, sins"
+        }
+      ],
+      "poles": [
+        "MINIMALISM",
+        "MAXIMALISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Philippa Foot",
+            "en": "Philippa Foot"
+          },
+          "kind": "PHILOSOPHER"
+        },
+        {
+          "name": {
+            "fr": "James Rachels",
+            "en": "James Rachels"
+          },
+          "kind": "PHILOSOPHER"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "ETHICS_FOUNDATION",
+          "problem": "consequences-or-the-forbidden-act"
+        }
+      ],
+      "title": {
+        "fr": "Faire et laisser faire",
+        "en": "Doing and allowing"
+      },
+      "explicitation": {
+        "fr": "Laisser mourir quand on pourrait sauver est-il aussi grave que tuer ? Si la différence s'efface, le devoir de ne pas nuire enfle jusqu'à englober tout le mal que nous n'empêchons pas.",
+        "en": "Is letting someone die when we could save them as grave as killing? If the difference dissolves, the duty not to harm swells until it covers all the evil we fail to prevent."
+      }
+    },
+    {
+      "id": "beyond-duty",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "les saints et les héros",
+        "en": "saints and heroes"
+      },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "MORAL",
+      "keywords": [
+        {
+          "fr": "surérogation",
+          "en": "supererogation"
+        },
+        {
+          "fr": "conseils et préceptes",
+          "en": "counsels and precepts"
+        },
+        {
+          "fr": "sacrifice",
+          "en": "sacrifice"
+        }
+      ],
+      "poles": [
+        "MINIMALISM",
+        "MAXIMALISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Thomas d'Aquin",
+            "en": "Aquinas"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "aquinas"
+        },
+        {
+          "name": {
+            "fr": "Urmson",
+            "en": "Urmson"
+          },
+          "kind": "PHILOSOPHER"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "FORGIVENESS",
+          "problem": "owed-or-supererogatory"
+        }
+      ],
+      "title": {
+        "fr": "Les saints et les héros",
+        "en": "Saints and heroes"
+      },
+      "explicitation": {
+        "fr": "L'acte héroïque est admiré, jamais exigé : il y aurait un au-delà du devoir. Mais si tout le bien qu'on peut faire est dû, ces actes qui dépassent le devoir ne sont-ils que des devoirs dont nous nous dispensons ?",
+        "en": "The heroic act is admired, never required: there would be a realm beyond duty. But if all the good we can do is owed, are these acts that exceed duty anything but duties we excuse ourselves from?"
+      }
+    },
+    {
+      "id": "a-life-of-ones-own",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "une vie entière",
+        "en": "a whole life"
+      },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "MORAL",
+      "keywords": [
+        {
+          "fr": "objection d'exigence excessive",
+          "en": "demandingness objection"
+        },
+        {
+          "fr": "intégrité",
+          "en": "integrity"
+        },
+        {
+          "fr": "saints moraux",
+          "en": "moral saints"
+        },
+        {
+          "fr": "prérogative de l'agent",
+          "en": "agent-centered prerogative"
+        }
+      ],
+      "poles": [
+        "MINIMALISM",
+        "MAXIMALISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Bernard Williams",
+            "en": "Bernard Williams"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "williams"
+        },
+        {
+          "name": {
+            "fr": "Susan Wolf",
+            "en": "Susan Wolf"
+          },
+          "kind": "PHILOSOPHER"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "SELF_INTEREST"
+        }
+      ],
+      "title": {
+        "fr": "Une vie à soi",
+        "en": "A life of one's own"
+      },
+      "explicitation": {
+        "fr": "S'il faut donner tant qu'un malheur reste à soulager, que reste-t-il de légitime pour mes projets, mes proches, mes goûts ? Une morale qui absorbe toute la vie exige-t-elle trop, ou est-ce notre confort qui se cherche des excuses ?",
+        "en": "If we must give as long as any misery remains to be relieved, what legitimate room is left for my projects, my loved ones, my tastes? Does a morality that absorbs a whole life demand too much, or is it our comfort looking for excuses?"
+      }
+    },
+    {
+      "id": "consent-enough",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "l'acte consenti",
+        "en": "the consented act"
+      },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "MORAL",
+      "keywords": [
+        {
+          "fr": "principe de non-nuisance",
+          "en": "harm principle"
+        },
+        {
+          "fr": "paternalisme",
+          "en": "paternalism"
+        },
+        {
+          "fr": "devoirs envers soi-même",
+          "en": "duties to oneself"
+        },
+        {
+          "fr": "crimes sans victime",
+          "en": "victimless crimes"
+        }
+      ],
+      "poles": [
+        "MINIMALISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Mill",
+            "en": "Mill"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "mill"
+        },
+        {
+          "name": {
+            "fr": "Ruwen Ogien",
+            "en": "Ruwen Ogien"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "ogien"
+        },
+        {
+          "name": {
+            "fr": "Kant",
+            "en": "Kant"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "kant"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "POLITICAL_LIBERTY"
+        }
+      ],
+      "title": {
+        "fr": "Entre adultes consentants",
+        "en": "Between consenting adults"
+      },
+      "explicitation": {
+        "fr": "Si personne n'est lésé sans son accord, la morale n'a-t-elle plus rien à dire ? Mill lui-même refuse qu'on se vende comme esclave : le consentement suffit-il à tout permettre, ou existe-t-il des torts qu'on se fait à soi-même ?",
+        "en": "If no one is wronged without their consent, does morality have nothing left to say? Mill himself refuses to let anyone sell themselves into slavery: is consent enough to permit everything, or are there wrongs we do to ourselves?"
+      }
+    },
+    {
+      "id": "charity-or-justice",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "l'ordre économique mondial",
+        "en": "the global economic order"
+      },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "POLITICAL",
+      "keywords": [
+        {
+          "fr": "philanthropie",
+          "en": "philanthropy"
+        },
+        {
+          "fr": "justice structurelle",
+          "en": "structural justice"
+        },
+        {
+          "fr": "devoirs négatifs",
+          "en": "negative duties"
+        }
+      ],
+      "poles": [
+        "MINIMALISM",
+        "MAXIMALISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Kant",
+            "en": "Kant"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "kant"
+        },
+        {
+          "name": {
+            "fr": "Pogge",
+            "en": "Pogge"
+          },
+          "kind": "PHILOSOPHER"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "DISTRIBUTIVE_JUSTICE",
+          "problem": "scope-global-justice"
+        }
+      ],
+      "title": {
+        "fr": "La charité ou la justice",
+        "en": "Charity or justice"
+      },
+      "explicitation": {
+        "fr": "Si la misère lointaine tient à des institutions injustes dont nous profitons, donner ne suffit plus : il faudrait réparer et transformer l'ordre, non faire l'aumône. Le don individuel est-il un devoir, ou l'alibi d'une injustice qui continue ?",
+        "en": "If distant misery stems from unjust institutions we benefit from, giving is no longer enough: the duty would be to repair and transform the order, not to give alms. Is individual giving a duty, or the alibi of an ongoing injustice?"
+      }
+    },
+    {
+      "id": "what-humans-can-bear",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "la nature humaine",
+        "en": "human nature"
+      },
+      "mode": "DESCRIPTIVE",
+      "keywords": [
+        {
+          "fr": "devoir implique pouvoir",
+          "en": "ought implies can"
+        },
+        {
+          "fr": "générosité limitée",
+          "en": "confined generosity"
+        },
+        {
+          "fr": "réalisme psychologique",
+          "en": "psychological realism"
+        }
+      ],
+      "poles": [
+        "MINIMALISM",
+        "MAXIMALISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Kant",
+            "en": "Kant"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "kant"
+        },
+        {
+          "name": {
+            "fr": "Hume",
+            "en": "Hume"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "hume"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "HUMAN_VISION",
+          "problem": "perfectibility"
+        }
+      ],
+      "title": {
+        "fr": "Ce qu'un être humain peut porter",
+        "en": "What a human being can bear"
+      },
+      "explicitation": {
+        "fr": "Une exigence qui dépasse nos forces produit-elle du découragement et de l'hypocrisie, ou l'idéal doit-il précisément excéder ce que nous sommes pour nous tirer vers le haut ? Ce que la morale peut demander dépend de ce que l'homme peut donner.",
+        "en": "Does a demand beyond our strength breed discouragement and hypocrisy, or must the ideal exceed what we are precisely in order to pull us upward? What morality may ask depends on what human beings can give."
+      }
+    }
   ]
 }

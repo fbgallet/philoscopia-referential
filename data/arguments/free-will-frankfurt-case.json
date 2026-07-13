@@ -1,0 +1,88 @@
+{
+  "id": "free-will-frankfurt-case",
+  "kind": "OBJECTS",
+  "position": { "axisId": "FREEDOM", "poleId": "FREE_WILL" },
+  "name": { "fr": "Le cas de Frankfurt", "en": "The Frankfurt case" },
+  "claim": {
+    "fr": "On peut être responsable d'un acte qu'on ne pouvait pas ne pas faire.",
+    "en": "One can be responsible for an act one could not have failed to do."
+  },
+  "development": [
+    {
+      "fr": "Imaginez un neurochirurgien qui veut vous voir choisir une certaine option. Il implante dans votre cerveau un dispositif capable de forcer ce choix, mais réglé pour ne s'activer que si vous étiez sur le point de choisir autrement.",
+      "en": "Imagine a neurosurgeon who wants you to make a certain choice. He implants in your brain a device able to force that choice, but set to fire only if you were about to choose otherwise."
+    },
+    {
+      "fr": "Le moment venu, vous faites ce choix de vous-même : le dispositif reste inerte, il n'intervient jamais.",
+      "en": "When the moment comes, you make that choice on your own: the device stays inert, it never intervenes."
+    },
+    {
+      "fr": "Vous ne pouviez pourtant pas faire autrement, le dispositif l'aurait empêché. Et néanmoins, ayant agi de votre propre mouvement, vous êtes bien l'auteur responsable de votre acte.",
+      "en": "Yet you could not have done otherwise, the device would have prevented it. And nonetheless, having acted of your own accord, you are indeed the responsible author of your act."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la responsabilité n'exige pas le pouvoir d'<c id='alternate-possibilities'>agir autrement</c> : l'argument qui fondait le libre arbitre sur la responsabilité ne tient plus.",
+    "en": "So responsibility does not require the power to <c id='alternate-possibilities'>do otherwise</c>: the argument that grounded free will on responsibility no longer holds."
+  },
+  "difficulty": 3,
+  "source": { "author": { "fr": "Harry Frankfurt", "en": "Harry Frankfurt" }, "figures": [{ "name": { "fr": "Harry Frankfurt", "en": "Harry Frankfurt" }, "kind": "PHILOSOPHER", "slug": "frankfurt" }], "work": { "fr": "Possibilités alternatives et responsabilité morale", "en": "Alternate Possibilities and Moral Responsibility" }, "year": 1969 },
+  "deepenings": [
+    {
+      "id": "flicker",
+      "label": { "fr": "La « lueur » de liberté", "en": "The \"flicker\" of freedom" },
+      "targetStep": 2,
+      "development": [
+        {
+          "fr": "On a répliqué qu'une alternative subsiste : vous gardiez au moins le pouvoir de commencer à choisir autrement, ce qui aurait déclenché le dispositif.",
+          "en": "It has been replied that an alternative remains: you still kept at least the power to begin to choose otherwise, which would have triggered the device."
+        },
+        {
+          "fr": "Mais cette « lueur » est bien mince pour porter toute la responsabilité : peut-on vraiment dire qu'un sursaut aussitôt court-circuité fonde notre mérite ou notre faute ?",
+          "en": "But this \"flicker\" is very thin to bear the whole of responsibility: can a flutter at once short-circuited really be said to ground our merit or our fault?"
+        }
+      ]
+    }
+  ],
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "Vous l'accordez : si la responsabilité n'exige pas d'alternatives, ma liberté n'a plus à être ce pouvoir-là.",
+        "en": "You grant it: if responsibility needs no alternatives, my freedom need not be that power."
+      },
+      "hints": [{ "axisId": "FREEDOM", "value": { "kind": "scalar", "value": 0 }, "weight": 2 }],
+      "discussion": {
+        "fr": "C'est la voie du <c id='compatibilism'>compatibilisme</c> : être libre, ce serait agir de son propre mouvement, sans qu'il faille pouvoir faire autrement.",
+        "en": "This is the path of <c id='compatibilism'>compatibilism</c>: to be free would be to act of one's own accord, without needing the power to do otherwise."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je maintiens le libre arbitre, mais j'admets que la responsabilité n'en est pas la preuve.",
+        "en": "I keep free will, but I admit responsibility is not its proof."
+      },
+      "hints": [{ "axisId": "FREEDOM", "value": { "kind": "scalar", "value": -0.3 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous découplez les deux : on peut croire à une liberté réelle sans la faire reposer sur l'argument de la responsabilité.",
+        "en": "You decouple the two: one may believe in a real freedom without resting it on the responsibility argument."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : le dispositif resté inactif ne prouve rien ; une alternative, même minime, demeurait ouverte.",
+        "en": "I refute it: the device that stayed inactive proves nothing; an alternative, however slight, remained open."
+      },
+      "hints": [{ "axisId": "FREEDOM", "value": { "kind": "scalar", "value": -1 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "C'est la réponse de la « lueur » de liberté : tant qu'un véritable pouvoir d'<c id='alternate-possibilities'>agir autrement</c> subsiste, le cas ne mord pas.",
+        "en": "This is the \"flicker\" reply: as long as a genuine power to <c id='alternate-possibilities'>act otherwise</c> survives, the case does not bite."
+      }
+    }
+  ],
+  "problems": ["freedom-without-alternatives"],
+  "targets": ["free-will-responsibility"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

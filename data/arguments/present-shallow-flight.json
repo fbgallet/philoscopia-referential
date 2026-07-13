@@ -1,0 +1,90 @@
+{
+  "id": "present-shallow-flight",
+  "kind": "OBJECTS",
+  "position": { "axisId": "TIME_ORIENTATION", "poleId": "PRESENTISM" },
+  "name": { "fr": "L'instant qui glisse", "en": "The instant that slips by" },
+  "claim": {
+    "fr": "À ne vivre que l'instant, on effleure la vie sans jamais l'habiter.",
+    "en": "By living only the instant, one skims over life without ever inhabiting it."
+  },
+  "summary": {
+    "fr": "Vivre tout entier dans l'instant peut devenir une autre façon de fuir : sauter de sensation en sensation, c'est encore ne pas savoir se tenir en repos avec soi.",
+    "en": "Living wholly in the instant can become another way of fleeing: leaping from sensation to sensation is still not knowing how to stay at rest with oneself."
+  },
+  "development": [
+    {
+      "fr": "Vivre dans le présent, dit-on, c'est se délivrer du regret et de l'attente. Mais l'instant, par nature, ne dure pas : à peine goûté, il faut déjà passer au suivant.",
+      "en": "Living in the present, we are told, frees us from regret and expectation. But the instant, by nature, does not last: barely tasted, one must already move on to the next."
+    },
+    {
+      "fr": "Cette course de plaisir en plaisir, de moment fort en moment fort, ressemble à s'y méprendre à ce que <ph id='pascal'>Pascal</ph> nommait le <c id='divertissement'>divertissement</c> : non pas le repos, mais une agitation qui empêche de se retrouver seul avec soi-même.",
+      "en": "This race from pleasure to pleasure, from one high point to the next, looks all but identical to what <ph id='pascal'>Pascal</ph> called <c id='divertissement'>divertissement</c>: not rest, but a restlessness that keeps us from being alone with ourselves."
+    },
+    {
+      "fr": "Faute d'un fil qui relie ses journées, le présentiste risque une vie sans épaisseur : une succession d'instants vifs et vite oubliés, qui ne se rassemblent en rien, ni œuvre, ni lien durable, ni mémoire.",
+      "en": "Lacking a thread that ties its days together, the presentist risks a life without depth: a succession of vivid, quickly forgotten instants that gather into nothing, no work, no lasting bond, no memory."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc habiter le seul présent n'est peut-être pas la paix, mais une autre fuite, plus douce : celle qui esquive la profondeur au lieu d'esquiver l'ennui.",
+    "en": "So to inhabit the present alone may not be peace, but another flight, a gentler one: the flight that dodges depth instead of dodging boredom."
+  },
+  "deepenings": [
+    {
+      "id": "the-tourist-of-instants",
+      "label": { "fr": "Le touriste de ses propres journées", "en": "A tourist in one's own days" },
+      "targetStep": 2,
+      "development": [
+        {
+          "fr": "On reconnaît cette vie à un signe : tout y est consommé, rien n'y est gardé. Les expériences s'accumulent comme des images sur un écran, sans laisser de trace.",
+          "en": "One recognizes this life by a sign: everything in it is consumed, nothing is kept. Experiences pile up like images on a screen, leaving no trace."
+        },
+        {
+          "fr": "Le reproche n'est pas de jouir du présent, mais de n'en faire que cela : à ne rien laisser mûrir, on traverse ses années en visiteur, jamais en habitant.",
+          "en": "The reproach is not enjoying the present, but doing only that: by letting nothing ripen, one passes through one's years as a visitor, never as a dweller."
+        }
+      ]
+    }
+  ],
+  "difficulty": 2,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est vrai : à ne vivre que l'instant, je ne construis rien qui demeure. Peut-être faut-il un fil plus long que la journée.",
+        "en": "It is true: living only the instant, I build nothing that endures. Perhaps I need a thread longer than the day."
+      },
+      "hints": [{ "axisId": "TIME_ORIENTATION", "value": { "kind": "weights", "weights": [0.2, 0.15, 0.65] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous cherchez une épaisseur que l'instant seul ne donne pas, du côté de ce qui dure et se transmet.",
+        "en": "You are after a depth the instant alone does not give, on the side of what lasts and is passed on."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je garde le présent, mais je veux qu'il laisse une trace : savourer, oui, sans me contenter de papillonner.",
+        "en": "I keep the present, but I want it to leave a trace: to savor, yes, without settling for flitting about."
+      },
+      "hints": [{ "axisId": "TIME_ORIENTATION", "value": { "kind": "weights", "weights": [0.65, 0.1, 0.25] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous distinguez deux présents, celui qui s'étourdit et celui qui s'enracine ; vous tenez au second.",
+        "en": "You distinguish two presents, the one that stuns itself and the one that takes root; you hold to the second."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Confondre l'attention au présent avec l'agitation, c'est tout l'inverse : l'instant pleinement vécu n'est pas une fuite, c'est la seule présence vraie.",
+        "en": "To confuse attention to the present with restlessness gets it backwards: the instant fully lived is no flight, it is the only true presence."
+      },
+      "hints": [{ "axisId": "TIME_ORIENTATION", "value": { "kind": "weights", "weights": [1, 0, 0] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous renversez le reproche : ce n'est pas la présence qui dilue, c'est le souci du passé et de l'avenir qui nous absente du seul temps réel.",
+        "en": "You overturn the reproach: it is not presence that dilutes, it is the care for past and future that absents us from the only real time."
+      }
+    }
+  ],
+  "targets": ["present-only-time-ours"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

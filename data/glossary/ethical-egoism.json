@@ -1,0 +1,12 @@
+{
+  "id": "ethical-egoism",
+  "term": { "fr": "Égoïsme éthique", "en": "Ethical egoism" },
+  "definition": {
+    "fr": "L'égoïsme éthique soutient que chacun doit rechercher son propre intérêt, et que c'est même la seule fin rationnelle de l'action : le dévouement systématique aux autres serait une erreur, voire une servitude. À distinguer de l'égoïsme psychologique, simple constat que nous serions de fait mus par l'intérêt : l'égoïsme éthique, lui, en fait un devoir. Stirner l'ancre dans la souveraineté de l'individu, Ayn Rand dans une apologie de l'intérêt rationnel. Il s'oppose à l'<c id='altruism'>altruisme</c>.",
+    "en": "Ethical egoism holds that each person ought to pursue their own interest, and that this is indeed the only rational end of action: systematic devotion to others would be a mistake, even a servitude. To be distinguished from psychological egoism, the mere claim that we are as a matter of fact driven by self-interest: ethical egoism makes it a duty. Stirner anchors it in the sovereignty of the individual, Ayn Rand in a defense of rational self-interest. It stands against <c id='altruism'>altruism</c>."
+  },
+  "relatedAxes": ["SELF_INTEREST"],
+  "relatedTerms": ["altruism"],
+  "positions": [{ "axisId": "SELF_INTEREST", "poleId": "ETHICAL_EGOISM" }],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

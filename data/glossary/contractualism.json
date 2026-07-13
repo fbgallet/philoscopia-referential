@@ -1,0 +1,13 @@
+{
+  "id": "contractualism",
+  "term": { "fr": "Contractualisme", "en": "Contractualism" },
+  "aliases": { "fr": ["contractualiste", "contrat social"], "en": ["contractualist", "social contract"] },
+  "definition": {
+    "fr": "Le contractualisme fonde la société et le pouvoir politique sur un contrat, réel ou hypothétique, entre individus libres et égaux : l'ordre commun est légitime s'il pouvait être consenti par tous. Partant d'un <c id='etat-de-nature'>état de nature</c>, <ph id='hobbes'>Hobbes</ph> en tire l'État souverain qui protège de la guerre de chacun contre chacun, <ph id='locke'>Locke</ph> un pouvoir limité par les droits naturels, <ph id='rousseau'>Rousseau</ph> la <c id='volonte-generale'>volonté générale</c> ; <ph id='rawls'>Rawls</ph> en renouvelle la méthode au XXe siècle. Il s'oppose à l'idée d'une communauté qui précéderait les individus.",
+    "en": "Contractualism grounds society and political power in a contract, real or hypothetical, between free and equal individuals: the common order is legitimate if everyone could consent to it. Starting from a <c id='etat-de-nature'>state of nature</c>, <ph id='hobbes'>Hobbes</ph> derives the sovereign State that protects from the war of all against all, <ph id='locke'>Locke</ph> a power limited by natural rights, <ph id='rousseau'>Rousseau</ph> the <c id='volonte-generale'>general will</c>; <ph id='rawls'>Rawls</ph> renews the method in the twentieth century. It stands against the idea of a community that would precede individuals."
+  },
+  "relatedAxes": ["SOCIAL_CONTRACT", "AUTHORITY"],
+  "relatedTerms": ["etat-de-nature", "volonte-generale"],
+  "positions": [{ "axisId": "SOCIAL_CONTRACT", "poleId": "CONTRACTUALISM" }],
+  "updatedAt": "2026-07-11T00:00:00.000Z"
+}

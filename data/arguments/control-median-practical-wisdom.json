@@ -1,0 +1,56 @@
+{
+  "id": "control-median-practical-wisdom",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "CONTROL_SCOPE", "median": true },
+  "name": { "fr": "La sagesse de la frontière", "en": "The wisdom of the boundary" },
+  "claim": {
+    "fr": "La sagesse n'est pas de tout accepter ni de tout vouloir changer, mais de savoir distinguer l'un de l'autre.",
+    "en": "Wisdom is neither to accept everything nor to want to change everything, but to know how to tell the one from the other."
+  },
+  "summary": {
+    "fr": "Entre la résignation qui subit tout et l'orgueil qui croit tout pouvoir, le discernement agit là où l'action porte et accueille ce qui ne cède pas.",
+    "en": "Between the resignation that endures everything and the pride that thinks it can do anything, discernment acts where action tells and accepts what does not yield."
+  },
+  "development": [
+    {
+      "fr": "Le tort commun des deux extrêmes est de fixer d'avance la frontière du possible : trop étroite pour le stoïcien, qui range presque tout du côté de l'inévitable ; inexistante pour le prométhéen, qui ne reconnaît aucune limite définitive.",
+      "en": "The shared fault of the two extremes is to fix the boundary of the possible in advance: too narrow for the Stoic, who files almost everything under the inevitable; nonexistent for the Promethean, who admits no final limit."
+    },
+    {
+      "fr": "Or cette frontière n'est ni donnée une fois pour toutes ni partout la même : elle dépend des circonstances, des forces, du moment. La sagesse n'est donc pas une position fixe, mais un jugement à reprendre cas par cas sur ce qui, ici et maintenant, dépend de moi.",
+      "en": "Yet this boundary is neither given once and for all nor the same everywhere: it depends on circumstances, on forces, on the moment. Wisdom is therefore not a fixed position, but a judgment to be taken up case by case about what, here and now, depends on me."
+    },
+    {
+      "fr": "Cette faculté de bien délibérer sur ce qu'on peut faire, les Anciens l'appelaient <c id='phronesis'>prudence</c> : non la timidité, mais l'art d'ajuster l'action à ce que la situation permet. Agir avec énergie sur le possible, accueillir sans amertume l'irréductible, voilà ce qu'elle vise.",
+      "en": "This faculty of deliberating well about what one can do, the ancients called <c id='phronesis'>practical wisdom</c>: not timidity, but the art of fitting action to what the situation allows. To act with energy on the possible, to accept without bitterness the irreducible, this is what it aims at."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la voie juste n'est pas à mi-chemin des deux sagesses, mais au-dessus : c'est le discernement qui décide, à chaque épreuve, de la part de l'action et de la part de l'acceptation.",
+    "en": "So the right path is not halfway between the two wisdoms, but above them: it is discernment that decides, at each ordeal, the share of action and the share of acceptance."
+  },
+  "deepenings": [
+    {
+      "id": "serenity-prayer",
+      "label": { "fr": "La sérénité, le courage, et la sagesse", "en": "Serenity, courage, and wisdom" },
+      "summary": {
+        "fr": "La prière de la sérénité met toute la difficulté dans le dernier mot : savoir faire la différence.",
+        "en": "The serenity prayer puts the whole difficulty in the last word: knowing the difference."
+      },
+      "development": [
+        {
+          "fr": "Une prière qu'on attribue à <per>Reinhold Niebuhr</per> a fixé cette sagesse en une formule devenue célèbre, qu'on peut rendre ainsi : la sérénité d'accepter ce qu'on ne peut changer, le courage de changer ce qui peut l'être, et la sagesse d'en faire la différence.",
+          "en": "A prayer attributed to <per>Reinhold Niebuhr</per> fixed this wisdom in a formula since become famous, which may be rendered thus: the serenity to accept what cannot be changed, the courage to change what can be, and the wisdom to tell the difference."
+        },
+        {
+          "fr": "Tout l'effort tient dans le dernier mot : la différence n'est jamais donnée d'avance, c'est à chacun de la tracer, encore et encore.",
+          "en": "The whole effort lies in the last word: the difference is never given in advance, it is for each of us to draw it, again and again."
+        }
+      ]
+    }
+  ],
+  "difficulty": 2,
+  "test": "control-median-comfort-objection",
+  "problems": ["acceptance-or-resignation"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

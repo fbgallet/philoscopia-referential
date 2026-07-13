@@ -1,0 +1,13 @@
+{
+  "id": "care-ethics",
+  "term": { "fr": "Éthique du care", "en": "Ethics of care" },
+  "aliases": { "fr": ["éthique de la sollicitude"], "en": ["care ethics"] },
+  "definition": {
+    "fr": "L'éthique du care fonde la morale sur l'attention aux personnes vulnérables et sur les relations de soin qui nous lient : nous sommes des êtres dépendants les uns des autres, et non des contractants abstraits. Formulée dans les années 1980 à partir des travaux de la psychologue Carol Gilligan, elle renoue avec une tradition plus ancienne qui fonde la morale sur le sentiment : la <c id='pitie'>pitié</c> chez <ph id='rousseau'>Rousseau</ph>, la compassion chez <ph id='schopenhauer'>Schopenhauer</ph>. Elle conteste ainsi la primauté du <c id='deontologism'>déontologisme</c> et du <c id='consequentialism'>conséquentialisme</c>, qui oublient que la vie morale commence dans le concret des relations.",
+    "en": "The ethics of care grounds morality in attention to vulnerable persons and in the caring relationships that bind us: we are beings who depend on one another, not abstract contracting parties. Framed in the 1980s from the work of the psychologist Carol Gilligan, it reconnects with an older tradition that grounds morality in feeling: <c id='pitie'>pity</c> in <ph id='rousseau'>Rousseau</ph>, compassion in <ph id='schopenhauer'>Schopenhauer</ph>. It thus challenges the primacy of <c id='deontologism'>deontologism</c> and <c id='consequentialism'>consequentialism</c>, which forget that moral life begins in concrete relationships."
+  },
+  "relatedAxes": ["ETHICS_FOUNDATION", "PARTIALITY", "EMOTIONS"],
+  "relatedTerms": ["deontologism", "consequentialism", "virtue-ethics", "pitie"],
+  "positions": [{ "axisId": "ETHICS_FOUNDATION", "poleId": "CARE_ETHICS" }],
+  "updatedAt": "2026-07-11T00:00:00.000Z"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "present-only-time-ours",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "TIME_ORIENTATION", "poleId": "PRESENTISM" },
+  "name": { "fr": "Le seul temps qui soit nôtre", "en": "The only time that is ours" },
+  "claim": {
+    "fr": "De tout le temps, seul le présent nous appartient ; le reste n'existe que dans notre tête.",
+    "en": "Of all time, only the present belongs to us; the rest exists only in our heads."
+  },
+  "summary": {
+    "fr": "Le passé n'est plus, l'avenir n'est pas encore ; vivre ailleurs que dans le présent, c'est confier sa vie à ce qui n'a pas d'existence, et la manquer.",
+    "en": "The past is no more, the future is not yet; to live anywhere but in the present is to entrust one's life to what has no existence, and to miss it."
+  },
+  "development": [
+    {
+      "fr": "Regardez bien : le passé n'est plus, l'avenir n'est pas encore. Le premier ne vit qu'en mémoire, le second qu'en attente, et ni l'un ni l'autre n'ont d'autre lieu que notre esprit. Seul le présent a une réalité ; c'est le seul temps où nous puissions agir, sentir, vivre.",
+      "en": "Look closely: the past is no more, the future is not yet. The first lives only in memory, the second only in expectation, and neither has any place but our mind. Only the present is real; it is the only time in which we can act, feel, live."
+    },
+    {
+      "fr": "Or c'est presque toujours ailleurs que nous logeons notre vie : dans le regret de ce qui fut, dans l'inquiétude de ce qui vient. Nous remettons sans cesse de vivre à un plus tard qui, devenu présent, sera lui aussi dépensé à préparer le suivant.",
+      "en": "Yet it is almost always elsewhere that we lodge our life: in regret for what was, in worry over what is coming. We endlessly defer living to a later time which, once it is the present, will likewise be spent preparing the next."
+    },
+    {
+      "fr": "Revenir au présent, ce n'est donc pas l'insouciance, c'est cesser de se rendre absent au seul temps qui soit réel. <ph id='seneca'>Sénèque</ph> le disait déjà : la vie est bien assez longue pour qui sait l'habiter, et le sage seul vit pleinement, parce qu'il possède son présent au lieu de le dépenser à courir après l'avenir. C'est là qu'est une paix stable, l'<c id='ataraxia'>ataraxie</c>, qui ne tient qu'à nous.",
+      "en": "To come back to the present, then, is not heedlessness, it is to stop absenting oneself from the only time that is real. <ph id='seneca'>Seneca</ph> said it long ago: life is quite long enough for whoever knows how to inhabit it, and the wise alone live fully, because they possess their present instead of spending it chasing the future. There lies a stable peace, <c id='ataraxia'>ataraxia</c>, which depends on us alone."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la sagesse est de ramener sa vie là où elle a lieu : non de mépriser demain, mais de cesser de lui sacrifier le seul jour que nous ayons jamais, aujourd'hui.",
+    "en": "So wisdom is to bring one's life back to where it takes place: not to scorn tomorrow, but to stop sacrificing to it the only day we ever have, today."
+  },
+  "deepenings": [
+    {
+      "id": "no-stable-self",
+      "label": { "fr": "Et s'il n'y avait pas de « moi » qui dure ?", "en": "What if there were no enduring « self »?" },
+      "targetStep": 0,
+      "development": [
+        {
+          "fr": "Pourquoi accorder tant de poids au passé et à l'avenir ? Parce que nous supposons un même « moi » qui les traverse. <ph id='hume'>Hume</ph> en doutait : peut-être ne sommes-nous qu'une succession d'états, un <ax id='SELF_NATURE' pole='BUNDLE_THEORY'>faisceau</ax> de perceptions sans noyau permanent.",
+          "en": "Why grant such weight to past and future? Because we assume one and the same « self » running through them. <ph id='hume'>Hume</ph> doubted it: perhaps we are only a succession of states, a <ax id='SELF_NATURE' pole='BUNDLE_THEORY'>bundle</ax> of perceptions with no permanent core."
+        },
+        {
+          "fr": "Si rien d'un « je » stable ne relie vraiment l'enfant d'hier au vieillard de demain, alors se troubler pour ce moi qui n'est déjà plus, c'est se troubler pour un fantôme ; il ne reste, bien réel, que l'instant qui se vit.",
+          "en": "If nothing of a stable « I » truly links yesterday's child to tomorrow's old man, then to fret over this self that already is no more is to fret over a ghost; what remains, fully real, is only the instant being lived."
+        }
+      ],
+      "source": { "author": { "fr": "Hume", "en": "Hume" }, "figures": [{ "name": { "fr": "Hume", "en": "Hume" }, "kind": "PHILOSOPHER", "slug": "hume" }], "work": { "fr": "Traité de la nature humaine", "en": "A Treatise of Human Nature" }, "workId": "treatise-of-human-nature-hume" }
+    }
+  ],
+  "difficulty": 1,
+  "source": { "author": { "fr": "Sénèque, Épicure", "en": "Seneca, Epicurus" }, "figures": [{ "name": { "fr": "Sénèque", "en": "Seneca" }, "kind": "PHILOSOPHER", "slug": "seneca" }, { "name": { "fr": "Épicure", "en": "Epicurus" }, "kind": "PHILOSOPHER", "slug": "epicurus" }], "work": { "fr": "De la brièveté de la vie ; Lettre à Ménécée", "en": "On the Shortness of Life; Letter to Menoeceus" } },
+  "relatedThoughtExperiment": "the-eternal-return",
+  "test": "present-narrative-identity",
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

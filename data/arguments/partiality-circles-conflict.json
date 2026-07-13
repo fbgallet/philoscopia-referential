@@ -1,0 +1,69 @@
+{
+  "id": "partiality-circles-conflict",
+  "kind": "OBJECTS",
+  "position": { "axisId": "PARTIALITY", "median": true },
+  "name": { "fr": "À l'heure du conflit", "en": "When they collide" },
+  "claim": {
+    "fr": "Quand le principe et le lien s'opposent, votre position doit dire lequel l'emporte.",
+    "en": "When principle and bond collide, your position must say which prevails."
+  },
+  "development": [
+    {
+      "fr": "Une bourse d'études : la justice impartiale la donne à l'inconnu le plus méritant, votre cœur la veut pour votre nièce.",
+      "en": "A scholarship: impartial justice gives it to the most deserving stranger, your heart wants it for your niece."
+    },
+    {
+      "fr": "Là, la voie moyenne doit trancher. Si c'est toujours l'égalité qui l'emporte, vous êtes en vérité impartialiste, et vos cercles de simples repères.",
+      "en": "There, the middle way must decide. If equality always prevails, you are in truth an impartialist, and your circles mere landmarks."
+    },
+    {
+      "fr": "Si c'est toujours le lien, vous êtes en vérité partialiste. La position des cercles semble se dissoudre là même où on l'attendait : au point de conflit.",
+      "en": "If the bond always prevails, you are in truth a partialist. The position of the circles seems to dissolve at the very place it was expected to hold: at the point of conflict."
+    }
+  ],
+  "conclusion": {
+    "fr": "Au moment de choisir, la voie moyenne devrait donc pencher d'un côté, et révéler ainsi le camp auquel elle appartenait.",
+    "en": "At the moment of choice, the middle way should therefore tip to one side, and so reveal the camp it belonged to all along."
+  },
+  "difficulty": 3,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "Vous avez raison : au moment du conflit, c'est l'égalité qui devrait l'emporter ; mes cercles ne sont que des repères commodes.",
+        "en": "You are right: at the point of conflict, equality should prevail; my circles are only convenient landmarks."
+      },
+      "hints": [{ "axisId": "PARTIALITY", "value": { "kind": "scalar", "value": -1 }, "weight": 1.5 }],
+      "discussion": {
+        "fr": "Le conflit vous range du côté impartialiste : la règle prime toujours.",
+        "en": "The conflict places you on the impartialist side: the rule always prevails."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Au contraire : à l'heure de trancher, c'est mon proche que je choisis ; le fondement impartial ne pèse pas lourd.",
+        "en": "On the contrary: when it comes to deciding, it is my own that I choose; the impartial foundation does not weigh much."
+      },
+      "hints": [{ "axisId": "PARTIALITY", "value": { "kind": "scalar", "value": 1 }, "weight": 0.7 }],
+      "discussion": {
+        "fr": "Le conflit vous range du côté partialiste : le lien prime toujours.",
+        "en": "The conflict places you on the partialist side: the bond always prevails."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : le conflit ne dissout pas la position, il la précise ; la règle fixe les bornes, et à l'intérieur d'elles le lien décide.",
+        "en": "I refute it: the conflict does not dissolve the position, it sharpens it; the rule sets the bounds, and within them the bond decides."
+      },
+      "hints": [{ "axisId": "PARTIALITY", "value": { "kind": "scalar", "value": 0 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous répondez que l'impartialité trace des limites infranchissables, et qu'à l'intérieur la partialité a ses droits.",
+        "en": "You answer that impartiality draws uncrossable limits, and that within them partiality has its rights."
+      }
+    }
+  ],
+  "targets": ["partiality-circles-concentric"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

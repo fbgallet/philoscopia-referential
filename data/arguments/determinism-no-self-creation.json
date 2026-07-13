@@ -1,0 +1,32 @@
+{
+  "id": "determinism-no-self-creation",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "FREEDOM", "poleId": "DETERMINISM" },
+  "name": { "fr": "L'argument de l'impossible auto-création", "en": "The impossibility-of-self-creation argument" },
+  "claim": {
+    "fr": "Pour être l'auteur premier de mes choix, il faudrait que je sois <c id='causa-sui'>cause de moi-même</c>.",
+    "en": "To be the ultimate author of my choices, I would have to be the <c id='causa-sui'>cause of myself</c>."
+  },
+  "development": [
+    {
+      "fr": "Mes choix découlent de ce que je suis : mon caractère, mes désirs, les raisons qui me pèsent.",
+      "en": "My choices flow from what I am: my character, my desires, the reasons that weigh on me."
+    },
+    {
+      "fr": "Or ce que je suis, je ne l'ai pas posé à partir de rien : il vient de mon hérédité, de mon histoire, de circonstances que je n'ai pas choisies.",
+      "en": "But what I am, I did not posit out of nothing: it comes from my heredity, my history, circumstances I did not choose."
+    },
+    {
+      "fr": "Pour en être vraiment l'auteur premier, il faudrait m'être créé moi-même, donc exister avant d'exister : la régression n'a pas de terme.",
+      "en": "To be its ultimate author, I would have had to create myself, hence to exist before existing: the regress has no end."
+    }
+  ],
+  "conclusion": {
+    "fr": "Nul n'étant cause de soi, nul n'est l'auteur premier de ses choix.",
+    "en": "Since no one is the cause of themselves, no one is the ultimate author of their choices."
+  },
+  "difficulty": 3,
+  "source": { "author": { "fr": "Galen Strawson", "en": "Galen Strawson" }, "figures": [{ "name": { "fr": "Galen Strawson", "en": "Galen Strawson" }, "kind": "PHILOSOPHER", "slug": "galen-strawson" }], "work": { "fr": "L'impossibilité de la responsabilité morale", "en": "The Impossibility of Moral Responsibility" }, "year": 1994 },
+  "problems": ["agent-causation"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

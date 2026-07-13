@@ -1,0 +1,71 @@
+{
+  "id": "death-flight-from-finitude",
+  "kind": "OBJECTS",
+  "position": { "axisId": "DEATH", "poleId": "IMMORTALISM" },
+  "name": { "fr": "L'objection de la fuite", "en": "The flight objection" },
+  "claim": {
+    "fr": "Espérer survivre pourrait n'être qu'un refus d'accepter notre condition.",
+    "en": "Hoping to survive might be nothing but a refusal to accept our condition."
+  },
+  "development": [
+    {
+      "fr": "L'espérance d'une autre vie naît au plus vif de la peur de finir : elle console exactement là où la mort fait mal, ce qui doit éveiller le soupçon.",
+      "en": "The hope of another life arises at the sharpest point of the fear of ending: it consoles exactly where death hurts, which should arouse suspicion."
+    },
+    {
+      "fr": "Or rien, dans l'expérience, ne vient confirmer cette survie : ni les sciences de la vie, ni l'observation ne montrent une personne sans son corps. L'espérance comble un désir, elle n'établit pas un fait.",
+      "en": "Yet nothing in experience confirms this survival: neither the life sciences nor observation show a person without their body. The hope fills a desire, it does not establish a fact."
+    },
+    {
+      "fr": "Pire, elle peut détourner de la seule vie que nous ayons : à reporter l'essentiel sur un au-delà incertain, on risque de manquer l'ici-bas, le seul temps qui nous soit donné.",
+      "en": "Worse, it can turn us away from the only life we have: by deferring what matters to an uncertain beyond, we risk missing the here and now, the only time given to us."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc l'espérance immortaliste pourrait n'être pas une vérité sur la mort, mais une manière de ne pas la regarder en face.",
+    "en": "Therefore immortalist hope might be not a truth about death, but a way of not facing it."
+  },
+  "difficulty": 2,
+  "source": { "author": { "fr": "Feuerbach, Heidegger", "en": "Feuerbach, Heidegger" }, "figures": [{ "name": { "fr": "Feuerbach", "en": "Feuerbach" }, "kind": "PHILOSOPHER", "slug": "feuerbach" }, { "name": { "fr": "Heidegger", "en": "Heidegger" }, "kind": "PHILOSOPHER", "slug": "heidegger" }] },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est juste : mieux vaut regarder la finitude en face que m'en consoler. Ma seule vie est celle-ci, et c'est à elle de répondre.",
+        "en": "That's right: better to face finitude than console myself for it. My only life is this one, and it is for me to answer to it."
+      },
+      "hints": [{ "axisId": "DEATH", "value": { "kind": "weights", "weights": [0.1, 0.8, 0.1, 0] }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous laissez l'objection trancher : renoncer à l'au-delà pour assumer la finitude, c'est la voie de l'<c id='being-toward-death'>être-pour-la-mort</c>.",
+        "en": "You let the objection decide: giving up the beyond to take on finitude is the path of <c id='being-toward-death'>being-toward-death</c>."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je garde une espérance, mais lucide : non un savoir ni un refuge, plutôt un sens que je donne à ma vie sans m'y dérober.",
+        "en": "I keep a hope, but a lucid one: not a knowledge nor a refuge, rather a meaning I give my life without evading it."
+      },
+      "hints": [{ "axisId": "DEATH", "value": { "kind": "weights", "weights": [0.1, 0.4, 0.5, 0] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous distinguez l'espérance de la fuite : on peut tenir à un sens qui dépasse la mort tout en vivant pleinement l'ici-bas.",
+        "en": "You distinguish hope from flight: one can hold to a meaning beyond death while fully living the here and now."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : qu'une croyance console ne la rend pas fausse, et l'absence de preuve n'est pas une preuve d'absence.",
+        "en": "I refute it: that a belief consoles does not make it false, and the absence of proof is no proof of absence."
+      },
+      "hints": [{ "axisId": "DEATH", "value": { "kind": "weights", "weights": [0, 0, 1, 0] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous séparez l'origine d'une croyance de sa vérité : le « soupçon » psychologique ne réfute pas l'espérance, il en explique seulement l'attrait.",
+        "en": "You separate a belief's origin from its truth: the psychological \"suspicion\" does not refute the hope, it only explains its appeal."
+      }
+    }
+  ],
+  "problems": ["does-something-survive"],
+  "targets": ["death-immortalist-hope"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

@@ -1,0 +1,92 @@
+{
+  "id": "desire-arbitrary-line-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "DESIRE", "poleId": "REASONED_SELECTION" },
+  "name": { "fr": "La frontière introuvable", "en": "The line that cannot be found" },
+  "claim": {
+    "fr": "Le partage entre désirs nécessaires et désirs vains n'a pas de mesure assurée.",
+    "en": "The division between necessary and empty desires has no assured measure."
+  },
+  "summary": {
+    "fr": "Ce qu'une époque tient pour superflu, une autre le croit indispensable : trier les désirs suppose une frontière nette là où il n'y a, peut-être, qu'une habitude.",
+    "en": "What one age holds superfluous, another believes indispensable: sorting desires assumes a clear boundary where there may be only a habit."
+  },
+  "development": [
+    {
+      "fr": "Le tri suppose un critère stable : d'un côté les désirs naturels et nécessaires, de l'autre les désirs vains qu'il faut congédier.",
+      "en": "Sorting assumes a stable criterion: on one side the natural and necessary desires, on the other the empty ones to be dismissed."
+    },
+    {
+      "fr": "Mais cette frontière se déplace sans cesse. Le confort d'hier devient le besoin d'aujourd'hui ; ce qu'un ermite juge superflu, un autre le tient pour vital. Le partage semble dépendre moins de la nature du désir que de l'habitude où l'on vit.",
+      "en": "But this boundary shifts endlessly. Yesterday's comfort becomes today's need; what a hermit judges superfluous, another holds vital. The division seems to depend less on the nature of the desire than on the habits one lives by."
+    },
+    {
+      "fr": "Dès lors, trier ses désirs risque de n'être qu'une façon de justifier le niveau de vie auquel on est accoutumé : on appelle « nécessaire » ce qu'on ne veut pas perdre, et « vain » ce dont on a déjà su se passer.",
+      "en": "Sorting one's desires then risks being merely a way of justifying the standard of living one is used to: we call « necessary » what we do not want to lose, and « empty » what we have already managed to do without."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la sagesse du tri pourrait n'être qu'un arrangement avec soi-même, déguisé en mesure de la nature.",
+    "en": "So the wisdom of sorting might be only an arrangement with oneself, disguised as a measure of nature."
+  },
+  "deepenings": [
+    {
+      "id": "natural-and-necessary",
+      "label": { "fr": "Naturel, nécessaire, vain", "en": "Natural, necessary, empty" },
+      "targetStep": 0,
+      "development": [
+        {
+          "fr": "<ph id='epicurus'>Épicure</ph> distingue trois sortes de désirs : les naturels et nécessaires (manger, s'abriter, être délivré de la douleur), les naturels mais non nécessaires (les mets raffinés plutôt que le pain), et les vains, sans limite naturelle (la richesse, la gloire).",
+          "en": "<ph id='epicurus'>Epicurus</ph> distinguishes three kinds of desire: the natural and necessary (to eat, to be sheltered, to be free of pain), the natural but unnecessary (fine dishes rather than bread), and the empty ones, with no natural limit (wealth, fame)."
+        },
+        {
+          "fr": "L'objection ne nie pas la liste, elle nie qu'elle soit donnée d'avance : où ranger le désir de savoir, de beauté, de reconnaissance ? La nature, ici, ne tranche pas seule.",
+          "en": "The objection does not deny the list, it denies that it is given in advance: where to place the desire for knowledge, for beauty, for recognition? Nature, here, does not decide alone."
+        }
+      ],
+      "source": { "author": { "fr": "Épicure", "en": "Epicurus" }, "figures": [{ "name": { "fr": "Épicure", "en": "Epicurus" }, "kind": "PHILOSOPHER", "slug": "epicurus" }], "work": { "fr": "Lettre à Ménécée", "en": "Letter to Menoeceus" }, "workId": "letter-to-menoeceus-epicurus" }
+    }
+  ],
+  "difficulty": 2,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "Je ne sais pas tracer cette ligne à coup sûr. Plutôt que de classer sans fin mes désirs, mieux vaut apprendre à moins dépendre d'eux.",
+        "en": "I cannot draw this line with certainty. Rather than endlessly classifying my desires, better to learn to depend on them less."
+      },
+      "hints": [{ "axisId": "DESIRE", "value": { "kind": "weights", "weights": [0.15, 0.25, 0.6] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Faute de frontière assurée, vous penchez vers le détachement : si l'on ne sait quel désir garder, peut-être faut-il alléger sa prise sur tous.",
+        "en": "Lacking an assured boundary, you lean toward detachment: if one cannot tell which desire to keep, perhaps one should loosen one's grip on all."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je continue de trier, mais sans prétendre lire la nature : je fais le partage à ma mesure, en le sachant révisable.",
+        "en": "I keep sorting, but without claiming to read nature: I draw the line to my own measure, knowing it is revisable."
+      },
+      "hints": [{ "axisId": "DESIRE", "value": { "kind": "weights", "weights": [0.2, 0.6, 0.2] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous gardez le tri, en lui ôtant sa prétention : non plus une frontière inscrite dans les choses, mais un examen lucide, toujours à refaire.",
+        "en": "You keep the sorting, stripped of its pretension: no longer a boundary inscribed in things, but a lucid examination, always to be redone."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "La frontière bouge à la marge, mais l'essentiel ne bouge pas. Personne n'a jamais eu besoin d'être célèbre pour ne pas souffrir de la faim.",
+        "en": "The boundary moves at the margins, but the core does not. No one ever needed to be famous in order not to go hungry."
+      },
+      "hints": [{ "axisId": "DESIRE", "value": { "kind": "weights", "weights": [0, 1, 0] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous tenez le cœur du critère épicurien : quelques désirs suffisent à vivre bien, et les reconnaître ne demande pas une science exacte, seulement de la lucidité.",
+        "en": "You hold the heart of the Epicurean criterion: a few desires are enough to live well, and recognizing them calls for no exact science, only lucidity."
+      }
+    }
+  ],
+  "problems": ["desire-hierarchy"],
+  "targets": ["desire-reasoned-selection-ataraxia"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

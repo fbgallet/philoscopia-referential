@@ -1,0 +1,52 @@
+{
+  "id": "partiality-impartialism-equal-weight",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "PARTIALITY", "poleId": "IMPARTIALISM" },
+  "name": { "fr": "L'égale valeur de chacun", "en": "The equal worth of each" },
+  "claim": {
+    "fr": "La souffrance d'un inconnu ne pèse pas moins que celle d'un proche.",
+    "en": "A stranger's suffering weighs no less than a loved one's."
+  },
+  "summary": {
+    "fr": "Qu'un être me soit proche est un fait sur moi, non sur le prix de sa peine : la morale demande de compter chacun également.",
+    "en": "That someone is close to me is a fact about me, not about the worth of their pain: morality asks us to count each one equally."
+  },
+  "development": [
+    {
+      "fr": "Une douleur est une douleur, que celui qui l'éprouve soit le mien ou un inconnu : qu'il soit « le mien » est un fait sur moi, non sur le prix de sa peine.",
+      "en": "A pain is a pain, whether the one who feels it is my own or a stranger: that they are \"mine\" is a fact about me, not about the worth of their suffering."
+    },
+    {
+      "fr": "Donner la priorité aux miens du seul fait qu'ils sont miens, c'est une <c id='impartiality'>préférence que la raison ne sait pas justifier</c>, pas plus que privilégier sa nation ou sa couleur.",
+      "en": "To give priority to my own simply because they are mine is a <c id='impartiality'>preference that reason cannot justify</c>, any more than favoring one's nation or one's color."
+    },
+    {
+      "fr": "<ph id='singer'>Singer</ph> le montre par un cas limpide : si je me jette pour sauver l'enfant qui se noie devant moi, ni la distance ni l'absence de lien ne changent ce que je dois à l'enfant qui meurt ailleurs.",
+      "en": "<ph id='singer'>Singer</ph> shows it with a clear case: if I dive in to save the child drowning before me, neither distance nor the absence of a bond changes what I owe to the child dying elsewhere."
+    }
+  ],
+  "conclusion": {
+    "fr": "La morale demande donc de compter chacun également : la partialité envers les siens est un penchant, non une raison juste.",
+    "en": "Morality therefore asks us to count each one equally: partiality toward our own is a leaning, not a just reason."
+  },
+  "deepenings": [
+    {
+      "id": "expanding-circle",
+      "label": { "fr": "Le cercle qui s'élargit", "en": "The expanding circle" },
+      "development": [
+        {
+          "fr": "L'histoire morale ressemble à un cercle de considération qui s'étend : de la famille au clan, puis à la nation, puis à l'humanité, et peut-être un jour aux animaux capables de souffrir.",
+          "en": "Moral history resembles a circle of consideration that widens: from family to clan, then to the nation, then to humanity, and perhaps one day to animals able to suffer."
+        },
+        {
+          "fr": "À chaque élargissement, une frontière qu'on croyait naturelle apparaît après coup comme un simple préjugé.",
+          "en": "With each widening, a boundary once thought natural appears, in hindsight, as a mere prejudice."
+        }
+      ],
+      "source": { "author": { "fr": "Peter Singer", "en": "Peter Singer" }, "figures": [{ "name": { "fr": "Singer", "en": "Singer" }, "kind": "PHILOSOPHER", "slug": "singer" }], "work": { "fr": "Le Cercle de l'altruisme", "en": "The Expanding Circle" }, "year": 1981 }
+    }
+  ],
+  "difficulty": 2,
+  "test": "partiality-impartialism-demandingness",
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

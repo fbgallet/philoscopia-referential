@@ -1,0 +1,87 @@
+{
+  "id": "skepticism-success-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "CERTAINTY", "poleId": "SKEPTICISM" },
+  "name": { "fr": "Le succès de la connaissance", "en": "The success of knowledge" },
+  "claim": {
+    "fr": "Si rien n'était plus assuré que son contraire, comment expliquer que le savoir réussisse ?",
+    "en": "If nothing were more assured than its opposite, how could knowledge ever succeed?"
+  },
+  "development": [
+    {
+      "fr": "Le sceptique soutient qu'à toute affirmation s'oppose une affirmation contraire de force égale : aucune ne mériterait davantage notre assentiment.",
+      "en": "The skeptic holds that to every claim there stands an opposing claim of equal strength: none would deserve our assent more than another."
+    },
+    {
+      "fr": "Pourtant certaines connaissances réussissent là où leur contraire échouerait : l'astronome annonce l'éclipse à la minute près, la médecine fait reculer des maladies, l'ingénieur lance une sonde qui atteint sa cible à des milliards de kilomètres.",
+      "en": "Yet some knowledge succeeds where its opposite would fail: the astronomer announces the eclipse to the minute, medicine pushes back diseases, the engineer launches a probe that reaches its target billions of kilometres away."
+    },
+    {
+      "fr": "Si toutes les thèses se valaient, ces réussites répétées seraient un pur miracle. Le plus simple est d'admettre que certaines croyances sont mieux fondées que leur contraire, sans être pour autant définitives.",
+      "en": "If all theses were of equal worth, these repeated successes would be a sheer miracle. The simplest thing is to admit that some beliefs are better grounded than their opposite, without being definitive for all that."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc l'équilibre parfait des raisons est un leurre : l'expérience tranche, et certaines de nos croyances ont gagné le droit d'être préférées.",
+    "en": "So the perfect balance of reasons is an illusion: experience decides, and some of our beliefs have earned the right to be preferred."
+  },
+  "difficulty": 1,
+  "deepenings": [
+    {
+      "id": "no-miracles",
+      "label": { "fr": "L'argument du non-miracle", "en": "The no-miracles argument" },
+      "targetStep": 1,
+      "development": [
+        {
+          "fr": "Le philosophe <ph>Hilary Putnam</ph> en a fait un argument célèbre : le succès durable de la science serait un miracle si ses théories ne saisissaient rien de réel.",
+          "en": "The philosopher <ph>Hilary Putnam</ph> made it into a famous argument: the lasting success of science would be a miracle if its theories grasped nothing real."
+        },
+        {
+          "fr": "Le sceptique peut répondre que « cela fonctionne » ne prouve pas « cela est vrai » : un instrument efficace peut reposer sur une théorie fausse, comme on a longtemps calculé juste à partir de cieux imaginaires.",
+          "en": "The skeptic may reply that \"it works\" does not prove \"it is true\": an effective instrument can rest on a false theory, just as people long calculated correctly from imaginary heavens."
+        }
+      ],
+      "source": { "author": { "fr": "Hilary Putnam", "en": "Hilary Putnam" }, "figures": [{ "name": { "fr": "Hilary Putnam", "en": "Hilary Putnam" }, "kind": "PHILOSOPHER" }] }
+    }
+  ],
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est vrai : devant de telles réussites, on ne peut pas tout mettre sur le même plan. Certaines vérités sont bel et bien établies.",
+        "en": "True enough: faced with such successes, one cannot put everything on the same footing. Some truths are well and truly established."
+      },
+      "hints": [{ "axisId": "CERTAINTY", "value": { "kind": "scalar", "value": -1 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous reconnaissez à certaines connaissances une solidité qui les met hors de doute : votre position se rapproche du <c id='dogmatism'>dogmatisme</c>.",
+        "en": "You grant some knowledge a solidity that places it beyond doubt: your position moves closer to <c id='dogmatism'>dogmatism</c>."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "J'accorde que tout ne se vaut pas, sans aller jusqu'au définitif : certaines croyances sont mieux fondées, mais aucune n'est à l'abri d'une révision.",
+        "en": "I grant that not everything is of equal worth, without going as far as the definitive: some beliefs are better grounded, but none is safe from revision."
+      },
+      "hints": [{ "axisId": "CERTAINTY", "value": { "kind": "scalar", "value": 0 }, "weight": 0.7 }],
+      "discussion": {
+        "fr": "Vous quittez la suspension générale pour une confiance graduée et révisable : c'est le <c id='fallibilism'>faillibilisme</c>.",
+        "en": "You leave general suspension for a graduated, revisable confidence: this is <c id='fallibilism'>fallibilism</c>."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : qu'une méthode réussisse ne prouve pas qu'elle soit vraie. Bien des théories efficaces ont reposé sur des principes ensuite jugés faux.",
+        "en": "I refute it: that a method succeeds does not prove it true. Many effective theories have rested on principles later judged false."
+      },
+      "hints": [{ "axisId": "CERTAINTY", "value": { "kind": "scalar", "value": 1 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous distinguez l'efficacité de la vérité : prédire n'est pas connaître, et le succès n'achève pas le doute.",
+        "en": "You distinguish effectiveness from truth: to predict is not to know, and success does not end doubt."
+      }
+    }
+  ],
+  "targets": ["skepticism-equipollence"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

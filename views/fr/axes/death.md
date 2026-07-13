@@ -49,6 +49,18 @@ La mort est le mal par excellence, un scandale inacceptable, non un événement 
 - **Vaincre la mort ?** : Et si la mort n'était plus une fatalité mais une maladie à guérir : devons-nous repousser sans fin nos limites par la technique, ou y a-t-il une sagesse à consentir à notre condition mortelle ?
 - **Tout finit : est-ce vain ?** : Puisque la mort efface tout, ce que nous faisons a-t-il encore un sens, ou une chose peut-elle valoir pleinement sans durer toujours ?
 
+## Arguments
+
+- *La mort n'est rien* · pour : [L'argument de la symétrie](../arguments/death-epicurean-symmetry.md)
+- *La mort n'est rien* · contre : [L'objection de l'angoisse](../arguments/death-anxiety-objection.md)
+- *La mort n'est rien* · contre : [L'argument de la privation](../arguments/death-deprivation.md)
+- *Être-pour-la-mort* · pour : [L'argument de l'authenticité](../arguments/death-being-toward-death.md)
+- *Être-pour-la-mort* · contre : [L'objection de la rumination](../arguments/death-morbid-rumination.md)
+- *Être-pour-la-mort* · contre : [L'objection du primat de la mort](../arguments/death-primacy-objection.md)
+- *Immortalisme* · pour : [L'argument de l'âme](../arguments/death-immortalist-hope.md)
+- *Immortalisme* · contre : [L'objection de la fuite](../arguments/death-flight-from-finitude.md)
+- *Immortalisme* · contre : [L'objection de l'identité](../arguments/death-identity-objection.md)
+
 ## Relations de fondation
 
 - *[Existence de Dieu](../axes/god-existence.md) : Athéisme* fonde *[La mort](../axes/death.md) : La mort n'est rien* : Si Dieu n'existe pas et qu'aucune vie ne suit la mort, mourir n'est qu'un retour au néant, où il n'y a personne pour souffrir d'être mort. L'athéisme rejoint la consolation d'[Épicure](../philosophers/epicurus.md) : « la mort n'est rien pour nous », et s'en libérer rend à la vie présente toute sa valeur.

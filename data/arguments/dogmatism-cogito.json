@@ -1,0 +1,55 @@
+{
+  "id": "dogmatism-cogito",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "CERTAINTY", "poleId": "DOGMATISM" },
+  "name": { "fr": "Le cogito", "en": "The cogito" },
+  "claim": {
+    "fr": "Même si je doute de tout, je ne peux douter que je pense.",
+    "en": "Even if I doubt everything, I cannot doubt that I think."
+  },
+  "summary": {
+    "fr": "Le doute lui-même atteste un sujet qui pense : une première vérité que rien ne peut ébranler.",
+    "en": "Doubt itself attests a thinking subject: a first truth that nothing can shake."
+  },
+  "development": [
+    {
+      "fr": "Poussons le <c id='hyperbolic-doubt'>doute</c> aussi loin qu'il aille : admettons qu'un malin génie me trompe sur le monde, sur mon corps, sur les vérités mêmes des mathématiques.",
+      "en": "Let us push <c id='hyperbolic-doubt'>doubt</c> as far as it will go: grant that an evil demon deceives me about the world, about my body, about the very truths of mathematics."
+    },
+    {
+      "fr": "Mais pour être trompé, encore faut-il que je pense ; et si je pense, j'existe, au moins comme chose pensante. Me tromper là-dessus exigerait encore que je pense.",
+      "en": "But to be deceived, I must still think; and if I think, I exist, at least as a thinking thing. To be wrong even about this would still require that I think."
+    },
+    {
+      "fr": "La proposition « je suis, j'existe » est donc vraie chaque fois que je la formule : le doute, loin de l'ébranler, la confirme à chaque tentative pour la nier.",
+      "en": "The proposition \"I am, I exist\" is therefore true each time I frame it: doubt, far from shaking it, confirms it with every attempt to deny it."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc il existe au moins une vérité indubitable : le doute a une limite, et le savoir un point d'appui définitif.",
+    "en": "Therefore there exists at least one indubitable truth: doubt has a limit, and knowledge a definitive foothold."
+  },
+  "deepenings": [
+    {
+      "id": "to-the-criterion",
+      "label": { "fr": "Du cogito au critère de l'évidence", "en": "From the cogito to the criterion of evidence" },
+      "development": [
+        {
+          "fr": "Ce qui rend le cogito irrésistible, dit Descartes, c'est que je le conçois de façon <kw>claire et distincte</kw> : aucune obscurité n'y laisse prise au doute.",
+          "en": "What makes the cogito irresistible, Descartes says, is that I conceive it <kw>clearly and distinctly</kw>: no obscurity in it leaves a hold for doubt."
+        },
+        {
+          "fr": "Or si l'évidence est la marque du vrai dans ce cas, elle peut l'être ailleurs : tout ce que je conçois aussi clairement mérite la même certitude. Le cogito n'est pas une exception, c'est un modèle.",
+          "en": "Now if evidence is the mark of the true in this case, it can be so elsewhere: whatever I conceive just as clearly merits the same certainty. The cogito is not an exception, it is a model."
+        }
+      ],
+      "source": { "author": { "fr": "Descartes", "en": "Descartes" }, "figures": [{ "name": { "fr": "Descartes", "en": "Descartes" }, "kind": "PHILOSOPHER", "slug": "descartes" }], "work": { "fr": "Méditations métaphysiques", "en": "Meditations on First Philosophy" }, "workId": "meditations-descartes", "year": 1641 }
+    }
+  ],
+  "difficulty": 1,
+  "source": { "author": { "fr": "Descartes", "en": "Descartes" }, "figures": [{ "name": { "fr": "Descartes", "en": "Descartes" }, "kind": "PHILOSOPHER", "slug": "descartes" }], "work": { "fr": "Méditations métaphysiques", "en": "Meditations on First Philosophy" }, "workId": "meditations-descartes", "year": 1641 },
+  "relatedThoughtExperiment": "dream-argument",
+  "test": "dogmatism-regress",
+  "problems": ["radical-doubt"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

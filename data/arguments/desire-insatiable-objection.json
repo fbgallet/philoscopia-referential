@@ -1,0 +1,93 @@
+{
+  "id": "desire-insatiable-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "DESIRE", "poleId": "AFFIRMATION" },
+  "name": { "fr": "Le tonneau percé", "en": "The leaky jar" },
+  "claim": {
+    "fr": "Affirmer tous ses désirs, c'est se condamner à n'être jamais comblé.",
+    "en": "To affirm all your desires is to condemn yourself to never being satisfied."
+  },
+  "summary": {
+    "fr": "Le désir satisfait en appelle un autre sans fin : à vouloir toujours davantage, on poursuit un comblement qui recule à mesure qu'on s'en approche.",
+    "en": "A satisfied desire calls up another without end: in always wanting more, we chase a fulfillment that recedes as we approach it."
+  },
+  "development": [
+    {
+      "fr": "Affirmer le désir suppose qu'on puisse, en le suivant, atteindre une forme de plénitude : on veut, on obtient, on jouit.",
+      "en": "Affirming desire assumes that, by following it, one can reach a kind of fullness: we want, we obtain, we enjoy."
+    },
+    {
+      "fr": "Mais le désir comblé ne s'éteint pas, il se déplace : à peine atteint ce qu'on voulait, un nouveau manque se lève, et le plaisir d'avoir cède au désir d'autre chose. <ph id='plato'>Platon</ph> comparait l'âme insatiable à un tonneau percé, qu'on remplit sans jamais le remplir.",
+      "en": "But a satisfied desire does not die out, it shifts: no sooner is the wanted thing reached than a new lack arises, and the pleasure of having gives way to the desire for something else. <ph id='plato'>Plato</ph> compared the insatiable soul to a leaky jar, filled without ever being full."
+    },
+    {
+      "fr": "Qui dit oui à tous ses désirs n'est donc pas le maître de sa vie, mais le serviteur du prochain manque : il court, et ce qu'il poursuit recule d'autant.",
+      "en": "Whoever says yes to all their desires is therefore not the master of their life, but the servant of the next lack: they run, and what they pursue draws back by just as much."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc l'affirmation sans réserve ne mène pas à la plénitude promise, mais à une inquiétude qui ne se referme jamais.",
+    "en": "So unreserved affirmation does not lead to the promised fullness, but to a restlessness that never closes."
+  },
+  "deepenings": [
+    {
+      "id": "pendulum-of-desire",
+      "label": { "fr": "Le pendule du manque et de l'ennui", "en": "The pendulum of lack and boredom" },
+      "targetStep": 1,
+      "development": [
+        {
+          "fr": "Schopenhauer voyait la vie du vouloir comme un balancier : tant que le désir n'est pas comblé, nous souffrons du manque ; sitôt comblé, l'ennui nous gagne, et il faut désirer de nouveau pour y échapper.",
+          "en": "Schopenhauer saw the life of willing as a pendulum: as long as a desire is unmet, we suffer from the lack; once it is met, boredom creeps in, and we must desire anew to escape it."
+        },
+        {
+          "fr": "Le plaisir n'y est jamais qu'un répit passager entre deux peines, jamais un état où l'on pourrait demeurer.",
+          "en": "Pleasure, on this view, is never more than a brief respite between two pains, never a state in which one could rest."
+        }
+      ],
+      "source": { "author": { "fr": "Schopenhauer", "en": "Schopenhauer" }, "figures": [{ "name": { "fr": "Schopenhauer", "en": "Schopenhauer" }, "kind": "PHILOSOPHER", "slug": "schopenhauer" }], "work": { "fr": "Le Monde comme volonté et comme représentation", "en": "The World as Will and Representation" }, "year": 1818 }
+    }
+  ],
+  "difficulty": 1,
+  "source": { "author": { "fr": "Platon, Schopenhauer", "en": "Plato, Schopenhauer" }, "figures": [{ "name": { "fr": "Platon", "en": "Plato" }, "kind": "PHILOSOPHER", "slug": "plato" }, { "name": { "fr": "Schopenhauer", "en": "Schopenhauer" }, "kind": "PHILOSOPHER", "slug": "schopenhauer" }] },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est vrai : suivre tous mes désirs ne mène nulle part. Mieux vaut distinguer ceux qui me comblent vraiment de ceux qui ne font que me relancer.",
+        "en": "True: following all my desires leads nowhere. Better to tell apart those that truly fulfill me from those that merely set me off again."
+      },
+      "hints": [{ "axisId": "DESIRE", "value": { "kind": "weights", "weights": [0.2, 0.7, 0.1] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous passez de l'affirmation au tri : c'est déjà le geste d'<ph id='epicurus'>Épicure</ph>, qui sépare les désirs qui apaisent de ceux qui agitent.",
+        "en": "You move from affirmation to sorting: this is already <ph id='epicurus'>Epicurus</ph>'s gesture, separating the desires that bring calm from those that stir us up."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je continue d'affirmer mes désirs, mais je l'admets : aucun ne donne de repos définitif. C'est l'élan qui vaut, pas l'arrivée.",
+        "en": "I keep affirming my desires, but I admit it: none gives lasting rest. It is the impulse that counts, not the arrival."
+      },
+      "hints": [{ "axisId": "DESIRE", "value": { "kind": "weights", "weights": [0.6, 0.3, 0.1] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous déplacez le prix de la vie du but vers le mouvement : ce n'est plus le comblement qui compte, mais l'intensité de vouloir.",
+        "en": "You shift the worth of a life from the goal to the movement: no longer the fulfillment, but the intensity of wanting."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Ce que vous appelez inquiétude, je l'appelle vie. Un désir qui en relance un autre n'est pas un échec, c'est le signe d'une existence qui ne s'arrête pas.",
+        "en": "What you call restlessness, I call life. A desire that revives another is not a failure, it is the sign of an existence that does not come to a halt."
+      },
+      "hints": [{ "axisId": "DESIRE", "value": { "kind": "weights", "weights": [1, 0, 0] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "C'est la réponse de <ph id='nietzsche'>Nietzsche</ph> : ce qui veut grandir doit vouloir au-delà de soi ; le repos serait ici un appauvrissement.",
+        "en": "This is <ph id='nietzsche'>Nietzsche</ph>'s reply: what wants to grow must want beyond itself; rest, here, would be an impoverishment."
+      }
+    }
+  ],
+  "problems": ["insatiable-desire"],
+  "targets": ["desire-affirmation-power"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

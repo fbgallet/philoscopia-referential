@@ -1,0 +1,13 @@
+{
+  "id": "altruism",
+  "term": { "fr": "Altruisme", "en": "Altruism" },
+  "aliases": { "fr": ["altruiste"], "en": ["altruist", "altruistic"] },
+  "definition": {
+    "fr": "L'altruisme fait du souci désintéressé d'autrui le ressort et la fin de la vie morale : bien agir, c'est chercher le bien de l'autre pour lui-même, jusqu'à faire passer ses intérêts avant les siens. Le mot est forgé par <ph id='comte'>Auguste Comte</ph>, qui l'oppose à l'égoïsme et en fait le cœur de sa morale. <ph id='levinas'>Lévinas</ph> le radicalise en une responsabilité pour autrui qui précède la liberté ; les théories de l'évolution en cherchent, elles, les racines dans l'entraide. Il s'oppose à l'<c id='ethical-egoism'>égoïsme éthique</c>.",
+    "en": "Altruism makes the disinterested concern for others the mainspring and the end of moral life: to act well is to seek the other's good for their own sake, even placing their interests before one's own. The word is coined by <ph id='comte'>Auguste Comte</ph>, who opposes it to egoism and makes it the heart of his morality. <ph id='levinas'>Levinas</ph> radicalizes it into a responsibility for the other that precedes freedom; evolutionary theories, for their part, seek its roots in mutual aid. It stands against <c id='ethical-egoism'>ethical egoism</c>."
+  },
+  "relatedAxes": ["SELF_INTEREST", "PARTIALITY"],
+  "relatedTerms": ["ethical-egoism", "pitie"],
+  "positions": [{ "axisId": "SELF_INTEREST", "poleId": "ALTRUISM" }],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

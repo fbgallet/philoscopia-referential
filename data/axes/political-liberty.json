@@ -19,6 +19,7 @@
   "poles": [
     {
       "id": "NEGATIVE_LIBERTY",
+      "concept": "negative-liberty",
       "label": {
         "fr": "Liberté négative",
         "en": "Negative liberty"
@@ -30,20 +31,30 @@
       "figures": [
         {
           "slug": "constant",
-          "name": { "fr": "Constant", "en": "Constant" }
+          "name": {
+            "fr": "Constant",
+            "en": "Constant"
+          }
         },
         {
           "slug": "berlin",
-          "name": { "fr": "Berlin", "en": "Berlin" }
+          "name": {
+            "fr": "Berlin",
+            "en": "Berlin"
+          }
         },
         {
           "slug": "hayek",
-          "name": { "fr": "Hayek", "en": "Hayek" }
+          "name": {
+            "fr": "Hayek",
+            "en": "Hayek"
+          }
         }
       ]
     },
     {
       "id": "POSITIVE_LIBERTY",
+      "concept": "positive-liberty",
       "label": {
         "fr": "Liberté positive",
         "en": "Positive liberty"
@@ -55,11 +66,17 @@
       "figures": [
         {
           "slug": "rousseau",
-          "name": { "fr": "Rousseau", "en": "Rousseau" }
+          "name": {
+            "fr": "Rousseau",
+            "en": "Rousseau"
+          }
         },
         {
           "slug": "hegel",
-          "name": { "fr": "Hegel", "en": "Hegel" }
+          "name": {
+            "fr": "Hegel",
+            "en": "Hegel"
+          }
         }
       ],
       "nuances": [
@@ -82,11 +99,17 @@
       "figures": [
         {
           "slug": "pettit",
-          "name": { "fr": "Pettit", "en": "Pettit" }
+          "name": {
+            "fr": "Pettit",
+            "en": "Pettit"
+          }
         },
         {
           "slug": "skinner",
-          "name": { "fr": "Skinner", "en": "Skinner" }
+          "name": {
+            "fr": "Skinner",
+            "en": "Skinner"
+          }
         }
       ]
     },
@@ -103,11 +126,17 @@
       "figures": [
         {
           "slug": "sen",
-          "name": { "fr": "Sen", "en": "Sen" }
+          "name": {
+            "fr": "Sen",
+            "en": "Sen"
+          }
         },
         {
           "slug": "nussbaum",
-          "name": { "fr": "Nussbaum", "en": "Nussbaum" }
+          "name": {
+            "fr": "Nussbaum",
+            "en": "Nussbaum"
+          }
         }
       ]
     }
@@ -120,6 +149,7 @@
     "DISTRIBUTIVE_JUSTICE",
     "WHO_DECIDES",
     "INDIVIDUAL_SOCIETY",
-    "FREEDOM"
+    "FREEDOM",
+    "MORAL_DEMAND"
   ]
 }

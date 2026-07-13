@@ -1,0 +1,93 @@
+{
+  "id": "death-anxiety-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "DEATH", "poleId": "EPICUREANISM" },
+  "name": { "fr": "L'objection de l'angoisse", "en": "The anxiety objection" },
+  "claim": {
+    "fr": "Un argument, même juste, ne suffit pas à dissiper la peur de mourir.",
+    "en": "An argument, however sound, is not enough to dispel the fear of dying."
+  },
+  "summary": {
+    "fr": "La crainte de la mort n'est pas une croyance fausse, mais un attachement tenace à l'existence : la déclarer sans objet ne la fait pas taire.",
+    "en": "The fear of death is not a false belief but a stubborn attachment to existence: declaring it groundless does not silence it."
+  },
+  "development": [
+    {
+      "fr": "L'argument épicurien traite la peur de la mort comme une erreur de raisonnement : qui comprend que « la mort n'est rien pour nous » devrait la voir s'évanouir d'elle-même.",
+      "en": "The Epicurean argument treats the fear of death as an error of reasoning: whoever grasps that \"death is nothing to us\" should see it vanish of its own accord."
+    },
+    {
+      "fr": "Mais cette peur n'est pas une simple opinion : c'est l'attachement du vivant à sa propre existence, plus ancien que tout raisonnement et plus obstiné que lui. On peut accorder la conclusion et trembler encore.",
+      "en": "But this fear is not a mere opinion: it is the living being's attachment to its own existence, older than any reasoning and more obstinate than it. One can grant the conclusion and tremble still."
+    },
+    {
+      "fr": "L'expérience le confirme : nul ne contemple sa disparition comme une vérité de géométrie. Ce que l'on redoute n'est pas un état pénible, c'est de ne plus être du tout, et nulle démonstration n'a prise sur ce vertige.",
+      "en": "Experience confirms it: no one contemplates their own vanishing as a truth of geometry. What we dread is not a painful state, it is no longer being at all, and no demonstration has any hold on that vertigo."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la sérénité promise pourrait n'être qu'une victoire de mots : l'<c id='ataraxia'>ataraxie</c> raisonnée laisse parfois intacte l'angoisse qu'elle prétend guérir.",
+    "en": "So the promised serenity may be only a victory of words: reasoned <c id='ataraxia'>ataraxia</c> sometimes leaves intact the very anguish it claims to cure."
+  },
+  "deepenings": [
+    {
+      "id": "fear-and-anguish",
+      "label": { "fr": "Peur et angoisse", "en": "Fear and anguish" },
+      "targetStep": 2,
+      "development": [
+        {
+          "fr": "On distingue la peur, qui a toujours un objet que l'on peut affronter ou fuir, et l'angoisse, qui n'en a pas : devant la mort, ce n'est rien de précis que l'on craint, mais le pur « ne plus être ».",
+          "en": "One distinguishes fear, which always has an object one can face or flee, from anguish, which has none: before death, it is nothing definite that we fear, but the sheer \"no longer being.\""
+        },
+        {
+          "fr": "C'est pourquoi un argument, qui s'adresse toujours à un objet, manque l'angoisse : il réfute une raison de craindre, là où il faudrait apaiser un rapport à soi tout entier.",
+          "en": "This is why an argument, which always addresses an object, misses anguish: it refutes a reason for fearing, where what would need calming is one's whole relation to oneself."
+        }
+      ],
+      "source": { "author": { "fr": "Heidegger", "en": "Heidegger" }, "figures": [{ "name": { "fr": "Heidegger", "en": "Heidegger" }, "kind": "PHILOSOPHER", "slug": "heidegger" }], "work": { "fr": "Être et Temps", "en": "Being and Time" }, "year": 1927 }
+    }
+  ],
+  "difficulty": 2,
+  "source": { "author": { "fr": "Heidegger", "en": "Heidegger" }, "figures": [{ "name": { "fr": "Heidegger", "en": "Heidegger" }, "kind": "PHILOSOPHER", "slug": "heidegger" }] },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est vrai : aucun raisonnement n'apaise vraiment cette peur. Mieux vaut la regarder en face que de la croire dissoute.",
+        "en": "True: no reasoning really calms this fear. Better to face it than to believe it dissolved."
+      },
+      "hints": [{ "axisId": "DEATH", "value": { "kind": "weights", "weights": [0.1, 0.7, 0.2, 0] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous passez de dissoudre la peur à l'affronter : c'est le geste de l'<c id='being-toward-death'>être-pour-la-mort</c>.",
+        "en": "You move from dissolving the fear to facing it: this is the gesture of <c id='being-toward-death'>being-toward-death</c>."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je garde la sérénité, mais comme un exercice à entretenir, non comme une peur déjà vaincue.",
+        "en": "I keep the serenity, but as an exercise to sustain, not as a fear already conquered."
+      },
+      "hints": [{ "axisId": "DEATH", "value": { "kind": "weights", "weights": [0.65, 0.25, 0.1, 0] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous tenez l'<c id='ataraxia'>ataraxie</c> pour une conquête jamais finie, plus honnête qu'une paix décrétée.",
+        "en": "You hold <c id='ataraxia'>ataraxia</c> to be a never-finished conquest, more honest than a peace decreed."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : la peur cède à la raison, pourvu qu'on s'y exerce. L'argument n'est pas un mot, c'est un remède.",
+        "en": "I refute it: fear yields to reason, provided one practices. The argument is not a word, it is a remedy."
+      },
+      "hints": [{ "axisId": "DEATH", "value": { "kind": "weights", "weights": [1, 0, 0, 0] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "C'est, depuis toujours, la réponse <ax id='DEATH' pole='EPICUREANISM'>épicurienne</ax> : joindre au raisonnement un exercice quotidien.",
+        "en": "This is, from the start, the <ax id='DEATH' pole='EPICUREANISM'>Epicurean</ax> reply: to join a daily exercise to the reasoning."
+      }
+    }
+  ],
+  "problems": ["taming-the-fear"],
+  "targets": ["death-epicurean-symmetry"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

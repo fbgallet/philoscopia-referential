@@ -1,0 +1,60 @@
+{
+  "id": "milgram",
+  "title": {
+    "fr": "L'expérience de Milgram",
+    "en": "The Milgram experiment"
+  },
+  "description": {
+    "fr": "Dans une expérience de psychologie restée célèbre, un scientifique demande à des volontaires ordinaires d'infliger à un inconnu des décharges électriques de plus en plus fortes, chaque fois qu'il se trompe, au nom d'une étude sur l'apprentissage. L'inconnu, un complice, crie, supplie, puis se tait. Malgré leur trouble visible, la majorité des volontaires obéit jusqu'à la tension marquée « danger : choc grave », simplement parce qu'une blouse blanche leur répète : « L'expérience exige que vous continuiez. »",
+    "en": "In a famous psychology experiment, a scientist asks ordinary volunteers to inflict ever-stronger electric shocks on a stranger each time he answers wrong, in the name of a study on learning. The stranger, an actor, cries out, pleads, then falls silent. Despite their visible distress, most volunteers obey up to the level marked \"danger: severe shock\", simply because a lab coat keeps repeating: \"The experiment requires that you continue.\""
+  },
+  "nature": "REAL",
+  "source": {
+    "author": { "fr": "Stanley Milgram", "en": "Stanley Milgram" },
+    "year": 1963
+  },
+  "question": {
+    "fr": "Que nous apprend cette obéissance sur l'être humain ?",
+    "en": "What does this obedience teach us about human beings?"
+  },
+  "axisIds": ["HUMAN_VISION"],
+  "options": [
+    {
+      "id": "latent-cruelty",
+      "label": {
+        "fr": "Une méchanceté sommeille en chacun : il suffit d'une permission pour la réveiller.",
+        "en": "A cruelty sleeps in each of us: it takes only a permission to wake it."
+      },
+      "hints": [{ "axisId": "HUMAN_VISION", "value": { "kind": "scalar", "value": 1 } }],
+      "discussion": {
+        "fr": "C'est le pessimisme de <ph id='hobbes'>Hobbes</ph> et de <ph id='freud'>Freud</ph> : l'agressivité est là, contenue par les règles, prête à ressurgir dès qu'elles se relâchent.",
+        "en": "This is the pessimism of <ph id='hobbes'>Hobbes</ph> and <ph id='freud'>Freud</ph>: aggression is there, held down by rules, ready to resurface the moment they loosen."
+      }
+    },
+    {
+      "id": "circumstances-decide",
+      "label": {
+        "fr": "Rien sur notre nature : c'est le dispositif, l'autorité, le cadre qui font agir ainsi ; d'autres conditions produiraient l'inverse.",
+        "en": "Nothing about our nature: it is the setup, the authority, the frame that make people act this way; other conditions would produce the opposite."
+      },
+      "hints": [{ "axisId": "HUMAN_VISION", "value": { "kind": "scalar", "value": 0 } }],
+      "discussion": {
+        "fr": "C'est la « banalité du mal » d'<ph id='arendt'>Arendt</ph> : le pire ne vient pas de monstres mais de gens ordinaires pris dans une situation. Ni bons ni mauvais par nature, nous sommes façonnés par le contexte.",
+        "en": "This is <ph id='arendt'>Arendt</ph>'s \"banality of evil\": the worst comes not from monsters but from ordinary people caught in a situation. Neither good nor evil by nature, we are shaped by context."
+      }
+    },
+    {
+      "id": "moral-sense-resists",
+      "label": {
+        "fr": "Au contraire : ils obéissaient en tremblant, en protestant, et certains refusaient ; le sens moral n'était pas éteint.",
+        "en": "On the contrary: they obeyed trembling, protesting, and some refused; the moral sense was not extinguished."
+      },
+      "hints": [{ "axisId": "HUMAN_VISION", "value": { "kind": "scalar", "value": -1 } }],
+      "discussion": {
+        "fr": "Dans le sillage de <ph id='rousseau'>Rousseau</ph> : la pitié naturelle résiste, visible dans le malaise et la révolte de ceux qui obéissent malgré eux.",
+        "en": "In <ph id='rousseau'>Rousseau</ph>'s wake: natural pity resists, visible in the unease and revolt of those who obey against their will."
+      }
+    }
+  ],
+  "updatedAt": "2026-07-13T00:00:00.000Z"
+}

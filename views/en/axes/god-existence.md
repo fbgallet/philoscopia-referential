@@ -20,7 +20,7 @@ There is a God, creator or ground of the world, personal or not, whose reality g
 
 God does not exist: no divine reality, personal or impersonal, grounds the world, and the idea of God can be explained by human, psychological, or social causes. The meaning of life must be built without recourse to the divine.
 
-*Feuerbach · [Nietzsche](../philosophers/nietzsche.md) · [Russell](../philosophers/russell.md)*
+*[Feuerbach](../philosophers/feuerbach.md) · [Nietzsche](../philosophers/nietzsche.md) · [Russell](../philosophers/russell.md)*
 
 ### Agnosticism (Huxley) (median position)
 

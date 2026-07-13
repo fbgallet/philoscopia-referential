@@ -19,6 +19,7 @@
   "poles": [
     {
       "id": "REALISM",
+      "concept": "realism-of-universals",
       "label": {
         "fr": "Réalisme des universaux",
         "en": "Realism about universals"
@@ -46,6 +47,7 @@
     },
     {
       "id": "NOMINALISM",
+      "concept": "nominalism",
       "label": {
         "fr": "Nominalisme",
         "en": "Nominalism"

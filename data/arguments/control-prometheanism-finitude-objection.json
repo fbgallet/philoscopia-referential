@@ -1,0 +1,74 @@
+{
+  "id": "control-prometheanism-finitude-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "CONTROL_SCOPE", "poleId": "PROMETHEANISM" },
+  "name": { "fr": "Ce qu'aucun progrès ne rejoint", "en": "What no progress reaches" },
+  "claim": {
+    "fr": "Le progrès recule les limites de l'humanité, non celles de votre vie.",
+    "en": "Progress pushes back the limits of humanity, not those of your life."
+  },
+  "summary": {
+    "fr": "Les victoires du savoir sont celles de l'espèce, et statistiques ; l'épreuve, elle, se vit au singulier, là où aucun progrès collectif ne rend l'être perdu ni le temps enfui.",
+    "en": "The victories of knowledge are the species', and statistical; the ordeal is lived in the singular, where no collective progress gives back the one we lost or the time that fled."
+  },
+  "development": [
+    {
+      "fr": "Accordons que le savoir a défait bien des fatalités. Mais ces victoires sont celles de l'espèce, et le plus souvent statistiques : la médecine fait reculer la mortalité, elle n'abolit pas votre mort.",
+      "en": "Grant that knowledge has undone many an inevitability. But these victories are the species', and most often statistical: medicine pushes back mortality, it does not abolish your death."
+    },
+    {
+      "fr": "Or l'épreuve, vous, vous la vivez au singulier : ce deuil-ci, cette maladie-ci, ce temps qui ne reviendra pas. Aucun progrès collectif ne rend l'être perdu, ni ne vous rendra l'âge que vous aviez. Devant cela, l'ambition de transformer reste les mains vides.",
+      "en": "Yet the ordeal, you, you live it in the singular: this grief, this illness, this time that will not return. No collective progress gives back the one who is lost, nor will it give you back the age you were. Before this, the ambition to transform stands empty-handed."
+    },
+    {
+      "fr": "Le prométhéen risque alors de toujours différer la paix : tant qu'il reste une limite à repousser, il ne s'accorde pas le repos, et il en reste toujours une. À mesurer sa sérénité à sa maîtrise, il se condamne à n'être jamais en paix là où, justement, il ne peut rien.",
+      "en": "The Promethean then risks forever deferring peace: as long as a limit remains to be pushed back, he grants himself no rest, and one always remains. By measuring his serenity against his mastery, he condemns himself never to be at peace just where he can do nothing."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc même un progrès sans fin laisse intacte une part d'irréductible, celle où chacun, seul, doit composer avec ce qu'il ne changera pas.",
+    "en": "So even an endless progress leaves intact a share of the irreducible, the one where each of us, alone, must come to terms with what he will not change."
+  },
+  "difficulty": 3,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "L'objection atteint le cœur : sur l'essentiel de ma propre vie, je ne peux pas tout. Il me faut aussi apprendre à accueillir ce que je ne changerai pas.",
+        "en": "The objection reaches the heart: over what is essential in my own life, I cannot do everything. I must also learn to accept what I will not change."
+      },
+      "hints": [{ "axisId": "CONTROL_SCOPE", "value": { "kind": "scalar", "value": 0 }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous faites place à l'irréductible sans renoncer à agir : la voie du discernement, où l'action et l'acceptation se partagent la tâche.",
+        "en": "You make room for the irreducible without giving up on acting: the path of discernment, where action and acceptance share the task."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je maintiens l'élan, mais j'en sépare ma paix : agir de toutes mes forces, sans suspendre ma sérénité au seul résultat.",
+        "en": "I keep the drive, but set my peace apart from it: to act with all my strength, without hanging my serenity on the result alone."
+      },
+      "hints": [{ "axisId": "CONTROL_SCOPE", "value": { "kind": "scalar", "value": 0.3 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous gardez l'ambition tout en desserrant ce qu'elle exige : transformer le monde, sans tout attendre de cette transformation.",
+        "en": "You keep the ambition while loosening what it demands: to transform the world, without expecting everything from that transformation."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : la finitude elle-même est un défi, non une fatalité. Allonger la vie, soulager la perte, repousser la mort, c'est encore du travail à poursuivre.",
+        "en": "I refute it: finitude itself is a challenge, not a fate. To lengthen life, to ease loss, to push back death, this too is work to carry on."
+      },
+      "hints": [{ "axisId": "CONTROL_SCOPE", "value": { "kind": "scalar", "value": 1 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous étendez le projet jusqu'à la finitude : ce qui paraît indépassable aujourd'hui est, pour vous, le chantier de demain.",
+        "en": "You extend the project to finitude itself: what seems insurmountable today is, for you, tomorrow's work site."
+      }
+    }
+  ],
+  "problems": ["tranquillity-or-achievement"],
+  "targets": ["control-prometheanism-progress"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

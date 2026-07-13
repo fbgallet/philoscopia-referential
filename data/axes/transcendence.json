@@ -19,6 +19,7 @@
   "poles": [
     {
       "id": "IMMANENCE",
+      "concept": "immanence",
       "label": {
         "fr": "Immanence",
         "en": "Immanence"
@@ -53,6 +54,7 @@
     },
     {
       "id": "TRANSCENDENCE",
+      "concept": "transcendence",
       "label": {
         "fr": "Transcendance",
         "en": "Transcendence"

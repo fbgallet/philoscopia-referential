@@ -45,6 +45,13 @@
       ],
       "additionalProperties": false
     },
+    "nature": {
+      "type": "string",
+      "enum": [
+        "IMAGINED",
+        "REAL"
+      ]
+    },
     "source": {
       "type": "object",
       "properties": {

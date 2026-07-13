@@ -1,0 +1,52 @@
+{
+  "id": "partiality-partialism-constitutive-bonds",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "PARTIALITY", "poleId": "PARTIALISM" },
+  "name": { "fr": "Les liens qui obligent", "en": "The bonds that bind" },
+  "claim": {
+    "fr": "Le lien lui-même est une raison : je dois aux miens ce que je ne dois à personne d'autre.",
+    "en": "The bond itself is a reason: I owe my own what I owe to no one else."
+  },
+  "summary": {
+    "fr": "La morale prend chair dans des relations concrètes ; le lien y constitue des obligations réelles, qu'aucun calcul n'a créées.",
+    "en": "Morality takes flesh in concrete relationships; there the bond constitutes real obligations that no calculation created."
+  },
+  "development": [
+    {
+      "fr": "La vie morale ne naît pas dans l'abstrait, mais dans des relations concrètes : le soin d'une mère, la fidélité d'un ami, la dette envers ceux qui nous ont élevés.",
+      "en": "Moral life is not born in the abstract, but in concrete relationships: a mother's care, a friend's loyalty, the debt to those who raised us."
+    },
+    {
+      "fr": "Ces liens ne sont pas des préférences arbitraires ; ils constituent des <c id='special-obligations'>obligations réelles</c>, qu'aucun calcul impartial n'a créées et qu'aucun ne peut effacer.",
+      "en": "These bonds are not arbitrary preferences; they constitute <c id='special-obligations'>real obligations</c> that no impartial calculation created and none can erase."
+    },
+    {
+      "fr": "Une « morale » qui traiterait mon enfant comme n'importe quel enfant aurait perdu contact avec la vie morale vécue : le <mv id='confucianism'>soin gradué</mv> que <ph id='confucius'>Confucius</ph> plaçait au cœur de la vertu, ou l'éthique de la sollicitude, attentive d'abord à ceux qui dépendent de nous.",
+      "en": "A \"morality\" that treated my child like any child would have lost touch with moral life as it is lived: the <mv id='confucianism'>graded concern</mv> that <ph id='confucius'>Confucius</ph> placed at the heart of virtue, or the ethics of care, attentive first to those who depend on us."
+    }
+  ],
+  "conclusion": {
+    "fr": "Privilégier les siens n'est donc pas un défaut de la morale : c'en est une part essentielle, là où elle prend chair.",
+    "en": "Favoring one's own is therefore not a flaw in morality: it is an essential part of it, where it takes flesh."
+  },
+  "deepenings": [
+    {
+      "id": "graded-versus-equal-love",
+      "label": { "fr": "L'amour gradué contre l'amour égal", "en": "Graded love against equal love" },
+      "development": [
+        {
+          "fr": "Dans la Chine ancienne, Mozi prêchait un amour égal pour tous, sans distinction de proximité.",
+          "en": "In ancient China, Mozi preached an equal love for all, with no distinction of closeness."
+        },
+        {
+          "fr": "Mencius lui répond qu'un amour sans degrés reviendrait à « renier son père », et que la vertu commence par honorer les siens avant de s'étendre, de proche en proche, au reste des hommes.",
+          "en": "Mencius replies that a love without degrees would amount to \"disowning one's father\", and that virtue begins by honoring one's own before extending, step by step, to the rest of humankind."
+        }
+      ],
+      "source": { "author": { "fr": "Mencius", "en": "Mencius" }, "figures": [{ "name": { "fr": "Mencius", "en": "Mencius" }, "kind": "PHILOSOPHER", "slug": "mencius" }] }
+    }
+  ],
+  "difficulty": 2,
+  "test": "partiality-partialism-impartial-limits",
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

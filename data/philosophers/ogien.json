@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "ogien",
+  "stub": true,
+  "name": {
+    "fr": "Ruwen Ogien",
+    "en": "Ruwen Ogien"
+  },
+  "summary": {
+    "fr": "Philosophe moral français, défenseur d'une « éthique minimale » : la morale se réduit à ne pas nuire à autrui, sans devoirs envers soi-même ni moralisme, contre toutes les formes de paternalisme.",
+    "en": "French moral philosopher and advocate of a \"minimal ethics\": morality reduces to not harming others, with no duties to oneself and no moralism, against every form of paternalism."
+  },
+  "birth": 1947,
+  "death": 2017,
+  "nationality": {
+    "fr": "Français",
+    "en": "French"
+  },
+  "movements": ["analytic-philosophy"],
+  "updatedAt": "2026-07-12T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

@@ -30,9 +30,29 @@ async function main() {
   const ws = new Workspace(workspaceDir, corpus);
 
   let locale = (argValue("--locale") as Locale) ?? "en";
+  // The workspace's user block (expertise, goals, motivations) rides along
+  // with the guide so every session opens in the right register, even before
+  // any tool call.
+  let userContext = "";
   if (ws.exists()) {
     try {
-      locale = ws.manifest().locale === "fr" ? "fr" : "en";
+      const manifest = ws.manifest();
+      locale = manifest.locale === "fr" ? "fr" : "en";
+      const user = manifest.user;
+      if (user) {
+        const parts = [
+          ...(user.expertise ? [`expertise: ${user.expertise}`] : []),
+          ...(user.goals ? [`goals: ${user.goals}`] : []),
+          ...(user.motivations ? [`motivations: ${user.motivations}`] : []),
+        ];
+        if (parts.length > 0) {
+          userContext = `\n\n${
+            locale === "fr"
+              ? "QUI EXPLORE (bloc user du workspace ; registre à adapter en conséquence, voir RÈGLES DE SOIN)"
+              : "WHO IS EXPLORING (the workspace's user block; adapt the register accordingly, see RULES OF CARE)"
+          }\n- ${parts.join("\n- ")}`;
+        }
+      }
     } catch {
       // unreadable manifest: keep the flag/default
     }
@@ -40,7 +60,7 @@ async function main() {
 
   const server = new McpServer(
     { name: "philoscopia", version: "0.1.0" },
-    { instructions: GUIDE[locale] },
+    { instructions: GUIDE[locale] + userContext },
   );
   registerTools(server, corpus, ws, locale);
 

@@ -30,6 +30,16 @@ Moral norms are neither discovered in the nature of things nor merely relative: 
 
 *[Rawls](../philosophers/rawls.md) · [Habermas](../philosophers/habermas.md)*
 
+## Live problems
+
+- **To each their customs?** : Peoples horrify one another with their usages, each holding its own self-evident. Does this deep disagreement prove no morality is true, or can we still judge some better than others? → [To each their customs?](../thought-experiments/funeral-customs.md)
+- **Are there moral truths?** : When I say "that is wrong", am I describing something real, a property of acts, or only my preferences? Nothing in the facts contains an "ought": where, then, would the truth of a moral judgment come from?
+- **Tolerance, how far?** : If all moralities are equal, in whose name condemn slavery or cruelty elsewhere? And is "we must respect other cultures" not itself a rule claimed to hold for all?
+- **Found, imposed, or made?** : Is a norm inscribed in the nature of things, is it merely might dressed up as justice, or do we make it through a fair procedure? And can a rule that is merely constructed still bind?
+- **Rights: natural or instituted?** : Are human rights discovered, inscribed in our nature before any law, or instituted by conventions we could undo?
+- **Which morality?** : Knowing whether a morality can be objective does not yet say which one: is the right measured by consequences, duty, virtues, or care for those close to us?
+- **For whom do norms hold?** : Universal norms, but universal for whom? The status of rules meets the question of the beings they bind and protect: where does the circle of those who count end?
+
 ## Grounding relations
 
 - *[Existence of God](../axes/god-existence.md) : Atheism* grounds *[Status of norms (metaethics)](../axes/moral-scope.md) : Relativism* : If no God guarantees the moral order, some conclude that no norm holds absolutely: "if God does not exist, everything is permitted". The "death of God" proclaimed by [Nietzsche](../philosophers/nietzsche.md) thus shakes the claim of values to universality. The link remains contested: many atheists defend, on the contrary, a rational and universal morality.
@@ -40,7 +50,7 @@ Moral norms are neither discovered in the nature of things nor merely relative: 
 
 ## Related axes
 
-[Nature of rights](../axes/rights-nature.md) · [Criterion of right action](../axes/ethics-foundation.md) · [Moral circle](../axes/moral-circle.md)
+[Nature of rights](../axes/rights-nature.md) · [Criterion of right action](../axes/ethics-foundation.md) · [Moral circle](../axes/moral-circle.md) · [Nature of truth](../axes/truth-nature.md)
 
 ---
 

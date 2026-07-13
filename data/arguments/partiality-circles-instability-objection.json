@@ -1,0 +1,69 @@
+{
+  "id": "partiality-circles-instability-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "PARTIALITY", "median": true },
+  "name": { "fr": "Ni l'un ni l'autre", "en": "Neither one nor the other" },
+  "claim": {
+    "fr": "À vouloir les deux, vous risquez de ne tenir ni l'égalité ni le lien.",
+    "en": "In wanting both, you risk holding neither equality nor the bond."
+  },
+  "development": [
+    {
+      "fr": "La position des cercles paraît sage, mais elle peut n'être qu'instable : ou bien l'égalité commande vraiment, et votre partialité n'est qu'une faiblesse tolérée.",
+      "en": "The position of the circles looks wise, but it may be merely unstable: either equality truly commands, and your partiality is only a tolerated weakness."
+    },
+    {
+      "fr": "Ou bien c'est le lien qui commande, et le « fondement impartial » n'est qu'un habillage commode de votre préférence pour les vôtres.",
+      "en": "Or it is the bond that commands, and the \"impartial foundation\" is only a convenient dressing for your preference for your own."
+    },
+    {
+      "fr": "Entre les deux, on s'appuie tantôt sur l'un, tantôt sur l'autre, selon ce qui arrange : c'est peut-être ne s'appuyer sur rien.",
+      "en": "In between, one leans now on one, now on the other, as it suits: which may be leaning on nothing at all."
+    }
+  ],
+  "conclusion": {
+    "fr": "La voie moyenne pourrait donc n'être qu'un nom poli pour une hésitation entre deux thèses qui, elles, sont claires.",
+    "en": "The middle way might therefore be only a polite name for a hesitation between two theses that are, themselves, clear."
+  },
+  "difficulty": 2,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "Au fond, c'est l'égalité qui commande ; ma partialité n'est qu'une faiblesse tolérée, pas un principe.",
+        "en": "Deep down, it is equality that commands; my partiality is only a tolerated weakness, not a principle."
+      },
+      "hints": [{ "axisId": "PARTIALITY", "value": { "kind": "scalar", "value": -1 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous tranchez par le haut : l'égalité est le vrai fondement, le reste un pis-aller.",
+        "en": "You settle it from above: equality is the true foundation, the rest a makeshift."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Au fond, c'est le lien qui commande ; l'exigence impartiale n'est qu'un habillage de ma préférence pour les miens.",
+        "en": "Deep down, it is the bond that commands; the impartial demand is only a dressing for my preference for my own."
+      },
+      "hints": [{ "axisId": "PARTIALITY", "value": { "kind": "scalar", "value": 1 }, "weight": 0.7 }],
+      "discussion": {
+        "fr": "Vous tranchez par le bas : le lien est le vrai fondement, l'impartialité un décor.",
+        "en": "You settle it from below: the bond is the true foundation, impartiality a backdrop."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : tenir l'égalité au fondement et la gradation dans l'acte n'est pas se contredire, c'est décrire la vie morale telle qu'elle se vit.",
+        "en": "I refute it: holding equality at the foundation and gradation in action is not a contradiction, it describes moral life as it is lived."
+      },
+      "hints": [{ "axisId": "PARTIALITY", "value": { "kind": "scalar", "value": 0 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous tenez les cercles pour une thèse, non une hésitation : un ordre, et non un flottement.",
+        "en": "You hold the circles to be a thesis, not a hesitation: an order, not a wavering."
+      }
+    }
+  ],
+  "targets": ["partiality-circles-concentric"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

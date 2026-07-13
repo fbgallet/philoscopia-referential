@@ -1,0 +1,23 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "gilligan",
+  "stub": true,
+  "name": {
+    "fr": "Carol Gilligan",
+    "en": "Carol Gilligan"
+  },
+  "summary": {
+    "fr": "Psychologue et philosophe américaine, pionnière de l'éthique du care : contre une morale des principes impartiaux, elle a fait entendre « une voix différente », celle du soin concret et des relations qui obligent.",
+    "en": "American psychologist and philosopher, pioneer of the ethics of care: against a morality of impartial principles, she gave a hearing to \"a different voice\", that of concrete care and of the relationships that bind us."
+  },
+  "birth": 1936,
+  "nationality": {
+    "fr": "Américaine",
+    "en": "American"
+  },
+  "movements": [],
+  "updatedAt": "2026-07-13T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

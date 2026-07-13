@@ -22,6 +22,15 @@ Dire la vérité est un devoir, mais seulement envers ceux qui y ont droit. Quan
 
 *Constant*
 
+## Arguments
+
+- *Rigorisme véridique* · pour : [L'argument de la confiance](../arguments/sincerity-rigorism-trust.md)
+- *Rigorisme véridique* · contre : [L'honnêteté sans égard](../arguments/sincerity-honesty-cruelty-objection.md)
+- *Rigorisme véridique* · contre : [La ligne arbitraire](../arguments/sincerity-rigorism-arbitrary-line.md)
+- *Mensonge bienveillant permis* · pour : [Le droit à la vérité](../arguments/sincerity-benevolent-right-to-truth.md)
+- *Mensonge bienveillant permis* · contre : [Le mensonge qui infantilise](../arguments/sincerity-benevolent-paternalism-objection.md)
+- *Mensonge bienveillant permis* · contre : [Le retour du mensonge](../arguments/sincerity-benevolent-trust-collapse.md)
+
 ## Axes liés
 
 [Lettre ou esprit de la règle](../axes/rule-spirit.md)

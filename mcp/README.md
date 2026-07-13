@@ -34,15 +34,16 @@ Guidance — the server also ships `instructions` (injected into the assistant's
 | Tool | Purpose |
 |---|---|
 | `help` | The full usage guide: typical session flow, recording rules, rules of care |
+| `orient` | The session-opening overview, meant to be restated simply to the user: what the referential offers, who the user is (expertise, goals, motivations), where their carnet stands, the thread left open last time, and the session menu |
 
 Referential (read-only):
 
 | Tool | Purpose |
 |---|---|
 | `list_axes` | Compact digest of all axes (id, question, poles), grouped by relation — the entry point |
-| `get_axis` | One axis: poles, stakes, anchor figures (sub-problems split out, see below) |
+| `get_axis` | One axis: poles, stakes, anchor figures, per-pole canonical arguments (sub-problems split out, see below) |
 | `get_axis_problems` | The axis's map of live sub-problems, for in-depth exploration |
-| `get_entity` | Any entity by prefixed ref: `ph:epictetus`, `c:eudaimonia`… — figures arrive as a digest (`full:true` for the whole profile) |
+| `get_entity` | Any entity by prefixed ref: `ph:epictetus`, `c:eudaimonia`, `arg:…` (an argument/objection)… — figures arrive as a digest (`full:true` for the whole profile) |
 | `get_position` | One figure's sourced position on one axis (`axisId`) or several (`axisIds`) |
 | `search` | Substring search across the whole corpus (diacritics-insensitive) |
 | `get_tensions_for` | Position pairs in tension involving an axis |
@@ -52,18 +53,20 @@ Workspace (local files, schema-validated on every write):
 
 | Tool | Purpose |
 |---|---|
-| `init_workspace` | Create `my-philosophy/` (manifest, empty profile and collections) |
+| `init_workspace` | Create `my-philosophy/` (manifest, empty profile and collections), optionally with the user block |
+| `set_user` | Update who the user is: expertise (`BEGINNER` / `AMATEUR` / `EXPERT`), goals and motivations in their own words — the register every session adapts to |
 | `get_profile` / `record_position` | Read and record positions on the axes, with provenance, reasons and an append-only history |
-| `add_entry` / `update_entry` / `list_entries` | Personal beliefs, concepts, loves & hates, open inquiries, practices |
-| `log_session` | Write the session's narrative to `journal/` |
+| `add_entry` / `update_entry` / `list_entries` | Personal beliefs, concepts, loves & hates, open inquiries, practices, kept quotes (the florilège — always verbatim) and the reading register (with a `TO_READ` reading list) |
+| `log_session` | Write the session's narrative to `journal/`; optionally set `next`, the thread to pick up next time (served back by `orient`) |
 | `profile_summary` | Coverage, triggered tensions, ungrounded beliefs, open work; optionally regenerates the readable `summary.md` |
+| `get_syntheses` / `write_synthesis` | Read past profile syntheses and write a new one: a dated, immutable prose portrait in `syntheses/`, crossing positions, carnet and user block (see the `philo-synthesize` skill) |
 | `compact` | Move closed records to `archive/` (nothing is deleted) |
 
 The workspace file format is specified by the published [JSON Schemas](../schemas/workspace/); every write is validated against them, plus the rules schemas cannot carry (a POSITIONED entry needs a value, values must fit the axis's pole shape, referential refs must resolve). The server only ever touches the files the format names: extra files another writer keeps in the same folder (e.g. the web app's local vault: `session.json`, `notes/`, `Inbox.md`) are ignored, and a ref that stopped resolving after a corpus update is surfaced by `profile_summary`, never a write blocker.
 
 ## Going further: the exploration skills
 
-The server alone guides your assistant through the basics (the built-in guide above). For real sessions, six **[exploration skills](../skills/)** add the conversational craft: guided discovery through six doors, Socratic examination with an intensity dial, figure comparison, difficulty-driven text reading, concept work, and formulation training. A skill is just a markdown instruction sheet your assistant reads — nothing executes; the [skills README](../skills/README.md) walks you through setup for each client, including a zero-install option (paste the skill's content into the conversation).
+The server alone guides your assistant through the basics (the built-in guide above). For real sessions, seven **[exploration skills](../skills/)** add the conversational craft: guided discovery through six doors, Socratic examination with an intensity dial, figure comparison, difficulty-driven text reading, concept work, formulation training, and the dated profile synthesis. A skill is just a markdown instruction sheet your assistant reads — nothing executes; the [skills README](../skills/README.md) walks you through setup for each client, including a zero-install option (paste the skill's content into the conversation).
 
 ## What to ask your assistant
 

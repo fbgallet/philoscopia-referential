@@ -17,8 +17,9 @@ import {
   type Locale,
 } from "./corpus.js";
 import { GUIDE } from "./help.js";
+import { computeOrient } from "./orient.js";
 import { computeSummary, renderSummaryMd } from "./summary.js";
-import { COLLECTIONS, type Workspace } from "./workspace.js";
+import { COLLECTIONS, EXPERTISE_LEVELS, type Workspace } from "./workspace.js";
 
 /* eslint-disable @typescript-eslint/no-explicit-any */
 
@@ -48,6 +49,23 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
     async () => asText(GUIDE[locale]),
   );
 
+  server.registerTool(
+    "orient",
+    {
+      title: "Where are we? (session opening)",
+      description:
+        "The opening overview, made to be RESTATED to the user in a few simple sentences (never dumped): what the referential offers, who the user is (expertise, goals, motivations), their carnet's state, the thread left open last time (next), suggested threads to pick up, and the session menu. Call it at the FIRST interaction of every conversation, or whenever the user seems lost.",
+      inputSchema: {},
+    },
+    async () => {
+      try {
+        return asText(computeOrient(corpus, ws, locale));
+      } catch (error) {
+        return asError(error);
+      }
+    },
+  );
+
   // ── Referential access ─────────────────────────────────────────────────
 
   server.registerTool(
@@ -66,7 +84,7 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
     {
       title: "Read one axis",
       description:
-        "One axis (~600 tokens): poles with descriptions and anchor figures, stakes, named median, related axes. Its sub-problem map is separate: problemCount > 0 means get_axis_problems has material.",
+        "One axis (~600 tokens): poles with descriptions and anchor figures, stakes, named median, related axes, plus `arguments` — the canonical reasons (SUPPORTS) and objections (OBJECTS) per pole as {ref, kind, on, claim}; fetch one via get_entity(arg:…) before challenging or grounding a position. Its sub-problem map is separate: problemCount > 0 means get_axis_problems has material.",
       inputSchema: { axisId: z.string().describe("Axis id, e.g. FREEDOM") },
     },
     async ({ axisId }) => {
@@ -101,7 +119,7 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
     {
       title: "Read a referential entity",
       description:
-        "Any entity by prefixed ref: ph:epictetus, mv:stoicism, chr:… (character), c:… (concept), te:… (thought experiment), w:… (work), ax:… (axis). A figure arrives as a DIGEST (~1k tokens): identity, structuring theses, and every position WITHOUT its justification — get_position supplies the justifications you actually discuss. full:true (~5-8k tokens) only for a whole-figure portrait, or when you do not know the figure at all.",
+        "Any entity by prefixed ref: ph:epictetus, mv:stoicism, chr:… (character), c:… (concept), te:… (thought experiment), w:… (work), ax:… (axis), problem:… (one axis sub-problem, with its home axis), arg:… (a corpus argument: its claim, step-by-step development, source, and — for an objection — the resolution options). A figure arrives as a DIGEST (~1k tokens): identity, structuring theses, and every position WITHOUT its justification — get_position supplies the justifications you actually discuss. full:true (~5-8k tokens) only for a whole-figure portrait, or when you do not know the figure at all.",
       inputSchema: {
         ref: z.string().describe("Prefixed ref, e.g. ph:epictetus"),
         full: z.boolean().optional().describe("Whole profile (unknown figure / full portrait)"),
@@ -109,7 +127,7 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
     },
     async ({ ref, full }) => {
       const entity = corpus.byRef.get(ref);
-      if (!entity) return asError(new Error(`"${ref}" not found. Prefixes: ax, ph, mv, chr, c, te, w.`));
+      if (!entity) return asError(new Error(`"${ref}" not found. Prefixes: ax, ph, mv, chr, c, te, w, problem, arg.`));
       const flat = pickLocale(entity, locale);
       return asText(full ? stripMachineFields(flat, ref.startsWith("ax:")) : entityView(ref, flat));
     },
@@ -156,7 +174,7 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
     {
       title: "Search the referential",
       description:
-        "Substring search across axes, philosophers, movements, characters, glossary, thought experiments and works. Returns prefixed refs to feed get_entity/get_axis.",
+        "Substring search across axes, philosophers, movements, characters, glossary, thought experiments, works, axis sub-problems (problem:… hits — the way to find the corpus problem behind a user's question) and arguments (arg:… hits — the canonical reasons and objections for a position). Returns prefixed refs to feed get_entity/get_axis.",
       inputSchema: { query: z.string().min(2), limit: z.number().int().min(1).max(50).optional() },
     },
     async ({ query, limit }) => asText(searchCorpus(corpus, query, locale, limit ?? 20)),
@@ -196,17 +214,55 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
 
   // ── Workspace ──────────────────────────────────────────────────────────
 
+  const userShape = {
+    expertise: z
+      .enum(EXPERTISE_LEVELS)
+      .optional()
+      .describe(
+        "BEGINNER (little background), AMATEUR (cultivated, already initiated) or EXPERT (student/teacher/researcher) — shapes the depth and technicity of every session",
+      ),
+    goals: z
+      .string()
+      .optional()
+      .describe("What they want from this work, in THEIR words (e.g. see clearer on a few questions / rethink their whole philosophy of life / dig into fine-grained problems)"),
+    motivations: z
+      .string()
+      .optional()
+      .describe("What draws them to philosophy, in THEIR words — expected to evolve"),
+  };
+
   server.registerTool(
     "init_workspace",
     {
       title: "Create the workspace",
       description:
-        "Create the my-philosophy/ folder (manifest, empty profile and collections, journal/). Fails if one already exists; foreign files in the folder (a web vault's session.json, notes/…) are left untouched.",
-      inputSchema: { locale: z.enum(["fr", "en"]).optional() },
+        "Create the my-philosophy/ folder (manifest, empty profile and collections, journal/). Fails if one already exists; foreign files in the folder (a web vault's session.json, notes/…) are left untouched. Pass the user block (expertise, goals, motivations) once elicited conversationally — never as a form; it can also come later via set_user.",
+      inputSchema: { locale: z.enum(["fr", "en"]).optional(), user: z.object(userShape).optional() },
     },
     async (args) => {
       try {
-        return asText({ created: ws.init(args.locale ?? locale) });
+        return asText({ created: ws.init(args.locale ?? locale, args.user) });
+      } catch (error) {
+        return asError(error);
+      }
+    },
+  );
+
+  server.registerTool(
+    "set_user",
+    {
+      title: "Update who the user is",
+      description:
+        "Merge a patch into the workspace's user block: expertise (BEGINNER | AMATEUR | EXPERT), goals and motivations in the user's own words. Elicit conversationally, update whenever they evolve; null deletes a field. Served back by orient and injected into future sessions.",
+      inputSchema: {
+        expertise: userShape.expertise,
+        goals: userShape.goals.nullable(),
+        motivations: userShape.motivations.nullable(),
+      },
+    },
+    async (args) => {
+      try {
+        return asText(ws.setUser(args));
       } catch (error) {
         return asError(error);
       }
@@ -288,7 +344,7 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
     {
       title: "Add a workspace entry",
       description:
-        "Append one entry to a personal collection (schema-validated; id generated if omitted). Sentences (statement, definition, why…) are the USER's words. Required per collection — beliefs: statement + mode + adherence (a conviction that IS an axis position goes through record_position instead); inquiries (a live questioning): statement + kind (DOUBT = putting one of their OWN convictions to the test, name it in relatedBeliefs); concepts: term + definition + clarity, or ref (c:…) to adopt a referential concept; affinities (a love or hate): feeling + subject — MODELS live here: an admired figure/lifestyle/school is feeling LOVE + exemplar true (an anti-model: HATE + exemplar true), with figureRef and facets; practices (what they actually DO): statement + kind.",
+        "Append one entry to a personal collection (schema-validated; id generated if omitted). Sentences (statement, definition, why…) are the USER's words. Required per collection — beliefs: statement + mode + adherence (a conviction that IS an axis position goes through record_position instead); inquiries (a live questioning): statement + kind (DOUBT = putting one of their OWN convictions to the test, name it in relatedBeliefs); concepts: term + definition + clarity, or ref (c:…) to adopt a referential concept; affinities (a love or hate): feeling + subject — MODELS live here: an admired figure/lifestyle/school is feeling LOVE + exemplar true (an anti-model: HATE + exemplar true), with figureRef and facets; practices (what they actually DO): statement + kind; quotes (the florilège): text — VERBATIM, exactly as the user provides or as faithfully sourced, NEVER invented, completed or approximated (when unsure of the wording, ask; a plausible pseudo-quote is a betrayal) — plus source, explanation (objective gloss), note (what it does to THEM); readings (the reading register): title (any text) or workRef (w:… when the registry knows the work) + scope — status TO_READ makes it a reading list, half the register's value.",
       inputSchema: {
         collection: z.enum(COLLECTIONS),
         entry: z.object({
@@ -297,11 +353,11 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
           mode: z.enum(["DESCRIPTIVE", "PRESCRIPTIVE"]).optional().describe("beliefs: the is/ought split (you classify)"),
           adherence: z.enum(["STRONG", "MODERATE", "WEAK"]).optional().describe("beliefs"),
           status: z
-            .enum(["HELD", "SUSPENDED", "ABANDONED", "ACTIVE", "DORMANT", "RESOLVED"])
+            .enum(["HELD", "SUSPENDED", "ABANDONED", "ACTIVE", "DORMANT", "RESOLVED", "TO_READ", "READING", "READ"])
             .optional()
-            .describe("beliefs (default HELD) / inquiries (default ACTIVE)"),
+            .describe("beliefs (default HELD) / inquiries (default ACTIVE) / readings (default READ; ABANDONED works here too)"),
           topics: z.array(z.string()).optional().describe("beliefs: free-text themes"),
-          relatedAxes: z.array(z.string()).optional().describe("beliefs/affinities: ax:… refs"),
+          relatedAxes: z.array(z.string()).optional().describe("beliefs/affinities/readings: ax:… refs"),
           grounds: z.array(z.string()).optional().describe("beliefs: belief ids or pole:… refs that ground this one"),
           challengedBy: z.array(z.string()).optional().describe("beliefs: belief ids or refs in tension with it"),
           rationale: z.string().optional().describe("beliefs"),
@@ -310,8 +366,8 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
           definition: z.string().optional().describe("concepts (personal): the user's working definition"),
           clarity: z.enum(["CLEAR", "SOMEWHAT_CLEAR", "FUZZY", "UNDEFINED"]).optional().describe("concepts: honest self-knowledge, not a grade"),
           relatedConcepts: z.array(z.string()).optional().describe("concepts: ids or c:… refs"),
-          note: z.string().optional().describe("concepts (adopted): personal gloss"),
-          notes: z.string().optional().describe("concepts (personal)"),
+          note: z.string().optional().describe("concepts (adopted): personal gloss / quotes: what it does to THEM, why they keep it"),
+          notes: z.string().optional().describe("concepts (personal) / readings: the reading notes proper (markdown)"),
           feeling: z.enum(["LOVE", "HATE"]).optional().describe("affinities"),
           subject: z.string().optional().describe("affinities: the loved/hated thing (a model's name goes here)"),
           category: z
@@ -332,7 +388,7 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
             .describe("inquiries / practices"),
           tensionType: z.enum(["T_T", "T_V"]).optional().describe("inquiries (kind TENSION only): belief↔belief (T_T) or belief↔value (T_V)"),
           priority: z.enum(["HIGH", "MEDIUM", "LOW"]).optional().describe("inquiries"),
-          anchors: z.array(z.string()).optional().describe("inquiries: problem:…/ax:… refs"),
+          anchors: z.array(z.string()).optional().describe("inquiries/quotes/readings: problem:…/ax:…/ph:… refs"),
           relatedBeliefs: z.array(z.string()).optional().describe("inquiries: belief ids (a TENSION's two poles; a DOUBT's tested conviction)"),
           reflections: z.string().optional().describe("inquiries"),
           frequency: z.enum(["DAILY", "WEEKLY", "MONTHLY", "AS_NEEDED"]).optional().describe("practices: neutral cadence descriptor"),
@@ -341,6 +397,28 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
           inspiredBy: z.array(z.string()).optional().describe("practices: ph:…/mv:… refs"),
           servesBeliefs: z.array(z.string()).optional().describe("practices: belief ids this practice serves"),
           feedback: z.string().optional().describe("practices"),
+          text: z.string().optional().describe("quotes: the quotation VERBATIM — never invented or approximated"),
+          source: z.string().optional().describe("quotes: author / work, free text"),
+          quoteRef: z.string().optional().describe("quotes: q:… corpus quote it was promoted from (app-scoped)"),
+          explanation: z.string().optional().describe("quotes: what the quote says (objective gloss; you may propose it)"),
+          title: z.string().optional().describe("readings: the text's title, free text (an article, a handout…)"),
+          author: z.string().optional().describe("readings: the author, free text"),
+          workRef: z.string().optional().describe("readings: w:… ref when the works registry knows it (search first)"),
+          scope: z.enum(["WORK", "EXCERPT", "ARTICLE", "OTHER"]).optional().describe("readings: what was actually read"),
+          appraisal: z
+            .enum(["ESSENTIAL", "VALUABLE", "MIXED", "DISAPPOINTING"])
+            .optional()
+            .describe("readings: the value the READER confers"),
+          verdict: z.string().optional().describe("readings: the appraisal in the reader's own words"),
+          agreements: z
+            .array(z.object({ statement: z.string(), ref: z.string().optional() }))
+            .optional()
+            .describe("readings: where the reader stands WITH the text (ref: a belief id or referential position it echoes)"),
+          disagreements: z
+            .array(z.object({ statement: z.string(), ref: z.string().optional() }))
+            .optional()
+            .describe("readings: where the reader stands AGAINST the text"),
+          quotes: z.array(z.string()).optional().describe("readings: qt-… florilège ids harvested from this reading (add them first)"),
         }),
       },
     },
@@ -403,12 +481,16 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
     {
       title: "Write a journal session",
       description:
-        "Write the session's prose to journal/<date>-<slug>.md with frontmatter (modalities, touched refs). Do it at the end of every conversation; link records to it via their session/sessions fields.",
+        "Write the session's prose to journal/<date>-<slug>.md with frontmatter (modalities, touched refs). Do it at the end of every conversation; link records to it via their session/sessions fields. When a thread stays open, ask the user what to pick up next time and pass it as next (their words): orient serves it back at the next opening.",
       inputSchema: {
         slug: z.string().describe("Short kebab slug, e.g. freedom"),
         content: z.string().describe("The session narrative, markdown"),
         modalities: z.array(z.string()).optional(),
         touched: z.array(z.string()).optional().describe("Refs and ids touched, e.g. ax:FREEDOM"),
+        next: z
+          .string()
+          .optional()
+          .describe("The thread to pick up next time, in the user's words; replaces the previous one"),
       },
     },
     async (args) => {
@@ -433,6 +515,57 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
         const summary = computeSummary(corpus, ws, locale);
         if (writeSummaryMd) renderSummaryMd(corpus, ws, locale);
         return asText(writeSummaryMd ? { ...summary, summaryMd: "summary.md regenerated" } : summary);
+      } catch (error) {
+        return asError(error);
+      }
+    },
+  );
+
+  server.registerTool(
+    "get_syntheses",
+    {
+      title: "Read past profile syntheses",
+      description:
+        "The AI-generated profile portraits already in syntheses/ (from this server or the web app). Without id: a compact list, newest first. With id: that generation in full. Read the previous ones BEFORE writing a new synthesis — the evolution between generations is part of the portrait.",
+      inputSchema: { id: z.string().optional().describe("syn-… id for one generation in full") },
+    },
+    async ({ id }) => {
+      try {
+        const all = ws.syntheses();
+        if (id) {
+          const found = all.find((s) => s.id === id);
+          return found ? asText(found) : asError(new Error(`No synthesis "${id}" in syntheses/.`));
+        }
+        return asText({
+          count: all.length,
+          format: "id · date · scope? · model? — one generation in full via get_syntheses id",
+          entries: [...all].reverse().map((s) => [s.id, s.at.slice(0, 10), s.scope, s.model].filter(Boolean).join(" · ")),
+        });
+      } catch (error) {
+        return asError(error);
+      }
+    },
+  );
+
+  server.registerTool(
+    "write_synthesis",
+    {
+      title: "Write a profile synthesis",
+      description:
+        "Persist one AI-generated profile synthesis to syntheses/syn-<date>-<slug>.md — an immutable, dated generation (never rewritten; a new synthesis is a new file, the history of generations is the record of how the portrait evolved). Only AFTER the user has read the proposed text and amended it (formulation first). Cross positions + carnet + user block to say what none says alone; every claim must be traceable to workspace material.",
+      inputSchema: {
+        text: z.string().describe("The synthesis prose (markdown), as approved by the user"),
+        scope: z
+          .string()
+          .optional()
+          .describe('Perimeter of this generation, e.g. "full profile" or a theme ("freedom and responsibility")'),
+        model: z.string().optional().describe("The model id that generated it, e.g. claude-fable-5"),
+        slug: z.string().optional().describe("Short kebab slug for the filename (defaults from scope)"),
+      },
+    },
+    async (args) => {
+      try {
+        return asText(ws.writeSynthesis(args));
       } catch (error) {
         return asError(error);
       }

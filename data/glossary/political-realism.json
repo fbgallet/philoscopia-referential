@@ -1,0 +1,13 @@
+{
+  "id": "political-realism",
+  "term": { "fr": "Réalisme politique", "en": "Political realism" },
+  "aliases": { "fr": ["réaliste politique"], "en": ["political realist"] },
+  "definition": {
+    "fr": "Le réalisme politique part de « la vérité effective de la chose » plutôt que des républiques imaginaires : gouverner, c'est composer avec les hommes tels qu'ils sont, avec leurs passions et les rapports de force, non tels qu'ils devraient être. <ph id='machiavelli'>Machiavel</ph> en est la figure fondatrice ; <ph id='hobbes'>Hobbes</ph>, puis la tradition réaliste des relations internationales, le prolongent. Il s'oppose à l'utopisme politique et disjoint l'efficacité de la morale idéale.",
+    "en": "Political realism starts from \"the effective truth of the matter\" rather than imagined republics: to govern is to work with human beings as they are, with their passions and the balance of forces, not as they ought to be. <ph id='machiavelli'>Machiavelli</ph> is its founding figure; <ph id='hobbes'>Hobbes</ph>, and then the realist tradition in international relations, extend it. It stands against political utopianism and severs effectiveness from ideal morality."
+  },
+  "relatedAxes": ["POLITICAL_IDEAL", "AUTHORITY", "HUMAN_VISION"],
+  "relatedTerms": [],
+  "positions": [{ "axisId": "POLITICAL_IDEAL", "poleId": "POLITICAL_REALISM" }],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

@@ -19,6 +19,7 @@
   "poles": [
     {
       "id": "THEISM",
+      "concept": "theism",
       "label": {
         "fr": "Théisme",
         "en": "Theism"
@@ -53,6 +54,7 @@
     },
     {
       "id": "ATHEISM",
+      "concept": "atheism",
       "label": {
         "fr": "Athéisme",
         "en": "Atheism"

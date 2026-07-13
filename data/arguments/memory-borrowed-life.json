@@ -1,0 +1,90 @@
+{
+  "id": "memory-borrowed-life",
+  "kind": "OBJECTS",
+  "position": { "axisId": "TIME_ORIENTATION", "poleId": "MEMORY_TRANSMISSION" },
+  "name": { "fr": "Une vie d'emprunt", "en": "A borrowed life" },
+  "claim": {
+    "fr": "Se vouer à l'héritage et à la transmission, c'est risquer de vivre la vie des autres plutôt que la sienne.",
+    "en": "To devote oneself to inheritance and transmission is to risk living the life of others rather than one's own."
+  },
+  "summary": {
+    "fr": "Tourné vers ce qu'on a reçu et ce qu'on doit léguer, on porte des dettes qu'on n'a pas contractées, et l'on remet à d'autres, ou à plus tard, de vivre pour soi.",
+    "en": "Turned toward what one has received and what one must hand on, one carries debts one never contracted, and leaves it to others, or to later, to live for oneself."
+  },
+  "development": [
+    {
+      "fr": "S'orienter vers le passé et la transmission, c'est faire de sa vie le maillon d'une chaîne : recevoir un héritage, honorer ce qu'on doit, transmettre à son tour.",
+      "en": "To orient oneself toward the past and transmission is to make one's life a link in a chain: receiving an inheritance, honoring what one owes, passing it on in turn."
+    },
+    {
+      "fr": "Mais ce maillon, à force d'être au service de la chaîne, finit par ne plus s'appartenir. On vit sous le regard des morts et dans le souci de ceux qui ne sont pas nés, entre une fidélité au passé et un devoir envers l'avenir, sans jamais habiter le présent qui, lui, est bien à soi.",
+      "en": "But this link, by dint of serving the chain, ends up no longer belonging to itself. One lives under the gaze of the dead and in care for those not yet born, between a loyalty to the past and a duty to the future, without ever inhabiting the present, which truly is one's own."
+    },
+    {
+      "fr": "Sous le beau nom de profondeur peut se cacher un poids : des dettes qu'on n'a pas choisies, des rôles qu'on perpétue sans les vouloir. Se définir par ce qu'on a reçu, c'est parfois s'épargner la tâche de devenir soi : faute d'<c id='authenticity'>authenticité</c>, on vit par fidélité une vie qui n'est pas la sienne.",
+      "en": "Under the fine name of depth a weight may hide: debts one did not choose, roles one perpetuates without willing them. To define oneself by what one has received is sometimes to spare oneself the task of becoming oneself: lacking <c id='authenticity'>authenticity</c>, one lives out of loyalty a life that is not one's own."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc l'orientation vers la mémoire peut nous déposséder du seul temps qui nous revienne : à trop honorer ce qui précède et ce qui suit, on oublie de vivre l'entre-deux, qui est notre vie.",
+    "en": "So the orientation toward memory can dispossess us of the only time that is ours: by honoring too much what comes before and after, one forgets to live the in-between, which is our life."
+  },
+  "deepenings": [
+    {
+      "id": "the-weight-of-the-dead",
+      "label": { "fr": "Le poids des morts sur les vivants", "en": "The weight of the dead on the living" },
+      "targetStep": 1,
+      "development": [
+        {
+          "fr": "« La tradition, c'est la démocratie des morts », selon le mot de <per>Chesterton</per> : donner voix à ceux qui nous ont précédés. Mais on peut retourner la formule : pourquoi les morts voteraient-ils sur nos vies ?",
+          "en": "« Tradition is the democracy of the dead », in <per>Chesterton</per>'s phrase: giving a voice to those who came before us. But one can turn the formula around: why should the dead get a vote on our lives?"
+        },
+        {
+          "fr": "Chaque génération hérite d'un monde qu'elle n'a pas fait ; la question n'est pas de le renier, mais de savoir si le recevoir oblige à le perpétuer, ou laisse libre de le reprendre autrement.",
+          "en": "Each generation inherits a world it did not make; the question is not whether to disown it, but whether receiving it obliges one to perpetuate it, or leaves one free to take it up otherwise."
+        }
+      ]
+    }
+  ],
+  "difficulty": 2,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est vrai : je n'ai qu'une vie, et elle est à moi, pas à ceux qui m'ont précédé. À moi de la faire, plutôt que de la recevoir toute faite.",
+        "en": "It is true: I have only one life, and it is mine, not that of those who came before me. It is for me to make it, rather than receive it ready-made."
+      },
+      "hints": [{ "axisId": "TIME_ORIENTATION", "value": { "kind": "weights", "weights": [0.2, 0.65, 0.15] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous passez de l'héritage au projet : recevoir ne suffit pas, il faut se faire soi-même, tourné vers ce qu'on choisit d'entreprendre.",
+        "en": "You pass from inheritance to the project: receiving is not enough, one must make oneself, turned toward what one chooses to undertake."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je tiens à l'héritage, mais je veux le vivre, pas seulement le porter : recevoir pour reprendre à mon compte, non pour répéter.",
+        "en": "I hold to the inheritance, but I want to live it, not merely carry it: to receive so as to take it up as my own, not to repeat."
+      },
+      "hints": [{ "axisId": "TIME_ORIENTATION", "value": { "kind": "weights", "weights": [0.15, 0.15, 0.7] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous gardez la transmission en la rendant vivante : non un poids qu'on subit, mais un legs qu'on s'approprie.",
+        "en": "You keep transmission while making it living: not a weight one endures, but a legacy one makes one's own."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Croire qu'on se fait tout seul est l'illusion la plus naïve : ma langue, mes valeurs, jusqu'à mes révoltes, tout m'a été transmis. L'ignorer ne rend pas plus libre, seulement ingrat.",
+        "en": "To believe one makes oneself alone is the most naive illusion: my language, my values, even my revolts, all were handed down to me. Ignoring it makes one no freer, only ungrateful."
+      },
+      "hints": [{ "axisId": "TIME_ORIENTATION", "value": { "kind": "weights", "weights": [0, 0, 1] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous renversez le reproche : nul ne part de rien, et reconnaître sa dette n'aliène pas, cela enracine.",
+        "en": "You overturn the reproach: no one starts from nothing, and to acknowledge one's debt does not alienate, it roots."
+      }
+    }
+  ],
+  "targets": ["memory-we-are-heirs"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

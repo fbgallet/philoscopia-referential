@@ -1,0 +1,13 @@
+{
+  "id": "asceticism",
+  "term": { "fr": "Ascétisme", "en": "Asceticism" },
+  "aliases": { "fr": ["ascèse", "ascète", "ascétique"], "en": ["ascetic", "ascetical"] },
+  "definition": {
+    "fr": "L'ascétisme, <ety>du grec askêsis, exercice</ety>, est la discipline qui restreint volontairement plaisirs et besoins du corps, jeûne, chasteté, dépouillement, en vue d'un bien tenu pour supérieur : pureté de l'âme, maîtrise de soi, salut, lucidité. Présent dans le monachisme chrétien, le stoïcisme ou les traditions indiennes, il tient le corps pour un obstacle ou un instrument à dompter. <ph id='nietzsche'>Nietzsche</ph> y verra un « idéal ascétique » retournant la vie contre elle-même. Il s'oppose à la célébration des plaisirs.",
+    "en": "Asceticism, <ety>from the Greek askêsis, exercise</ety>, is the discipline that voluntarily restricts the pleasures and needs of the body, fasting, chastity, self-denial, for the sake of a good held to be higher: purity of soul, self-mastery, salvation, lucidity. Found in Christian monasticism, Stoicism or the Indian traditions, it treats the body as an obstacle or an instrument to be tamed. <ph id='nietzsche'>Nietzsche</ph> will see in it an \"ascetic ideal\" that turns life against itself. It stands against the celebration of pleasures."
+  },
+  "relatedAxes": ["BODILY_PLEASURES", "DESIRE"],
+  "relatedTerms": ["hedonism"],
+  "positions": [{ "axisId": "BODILY_PLEASURES", "poleId": "ASCETICISM" }],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

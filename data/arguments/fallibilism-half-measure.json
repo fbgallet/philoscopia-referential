@@ -1,0 +1,86 @@
+{
+  "id": "fallibilism-half-measure",
+  "kind": "OBJECTS",
+  "position": { "axisId": "CERTAINTY", "median": true },
+  "name": { "fr": "La demi-mesure", "en": "The half-measure" },
+  "claim": {
+    "fr": "Un savoir qu'on dit toujours révisable est-il encore un savoir ?",
+    "en": "Is knowledge said to be forever revisable still knowledge at all?"
+  },
+  "development": [
+    {
+      "fr": "Le faillibiliste veut deux choses à la fois : conserver la connaissance, et reconnaître pourtant qu'aucune de ses croyances n'est sûre.",
+      "en": "The fallibilist wants two things at once: to keep knowledge, and yet to admit that none of his beliefs is certain."
+    },
+    {
+      "fr": "Mais « savoir » a d'ordinaire un sens plus exigeant : je ne dis pas que je sais une chose si j'admets en même temps qu'elle pourrait être fausse. Là, ce n'est plus un savoir, c'est une opinion prudente.",
+      "en": "But \"to know\" usually carries a more demanding sense: I do not say I know a thing if I grant at the same time that it might be false. At that point it is no longer knowledge, it is a cautious opinion."
+    },
+    {
+      "fr": "Le faillibiliste paraît alors osciller sans se fixer : ou bien il fait vraiment confiance à certaines de ses croyances, et il rejoint le <c id='dogmatism'>dogmatique</c> ; ou bien il les tient toutes pour incertaines, et il rejoint le <c id='skepticism'>sceptique</c>.",
+      "en": "The fallibilist then seems to waver without settling: either he genuinely trusts some of his beliefs, and he rejoins the <c id='dogmatism'>dogmatist</c>; or he holds them all to be uncertain, and he rejoins the <c id='skepticism'>skeptic</c>."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la voie médiane risque de n'être pas une position, mais une hésitation entre les deux autres.",
+    "en": "So the middle way risks being not a position, but a hesitation between the other two."
+  },
+  "difficulty": 1,
+  "deepenings": [
+    {
+      "id": "knowledge-and-certainty",
+      "label": { "fr": "Savoir et certitude", "en": "Knowledge and certainty" },
+      "targetStep": 1,
+      "development": [
+        {
+          "fr": "La tradition a longtemps défini le savoir comme une croyance vraie et justifiée, à laquelle on ajoutait volontiers une exigence de certitude : on ne saurait que ce dont on ne peut douter.",
+          "en": "Tradition long defined knowledge as a true and justified belief, to which a requirement of certainty was readily added: one would know only what one cannot doubt."
+        },
+        {
+          "fr": "Le faillibiliste conteste précisément ce dernier ajout : exiger la certitude, dit-il, c'est confondre savoir et infaillibilité, et condamner d'avance toute connaissance humaine.",
+          "en": "The fallibilist contests precisely that last addition: to demand certainty, he says, is to confuse knowledge with infallibility, and to condemn all human knowledge in advance."
+        }
+      ]
+    }
+  ],
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "Vous avez raison : une croyance que je sais peut-être fausse n'est pas un savoir. Autant l'admettre et suspendre mon jugement.",
+        "en": "You are right: a belief I know might be false is no knowledge. Better to admit it and suspend my judgment."
+      },
+      "hints": [{ "axisId": "CERTAINTY", "value": { "kind": "scalar", "value": 1 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous tirez la demi-mesure du côté du doute : si l'on ne peut être sûr, mieux vaut ne rien affirmer. C'est le <c id='skepticism'>scepticisme</c>.",
+        "en": "You pull the half-measure toward doubt: if one cannot be sure, better to affirm nothing. This is <c id='skepticism'>skepticism</c>."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Ou alors c'est l'inverse : si je veux vraiment savoir, il me faut bien quelques points fermes sur lesquels m'appuyer.",
+        "en": "Or else the opposite: if I really want to know, I do need a few firm points to lean on."
+      },
+      "hints": [{ "axisId": "CERTAINTY", "value": { "kind": "scalar", "value": -0.5 }, "weight": 0.7 }],
+      "discussion": {
+        "fr": "Vous tirez la demi-mesure du côté des fondations : un vrai savoir réclamerait des certitudes premières. C'est le <c id='dogmatism'>dogmatisme</c>.",
+        "en": "You pull the half-measure toward foundations: real knowledge would require first certainties. This is <c id='dogmatism'>dogmatism</c>."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : tenir une croyance pour la mieux fondée, tout en la sachant révisable, n'a rien d'incohérent. C'est même l'honnêteté de qui sait qu'il peut se tromper.",
+        "en": "I refute it: to hold a belief as the best grounded, while knowing it revisable, is in no way incoherent. It is the very honesty of one who knows he can be wrong."
+      },
+      "hints": [{ "axisId": "CERTAINTY", "value": { "kind": "scalar", "value": 0 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous tenez le <c id='fallibilism'>faillibilisme</c> pour une position franche, non une hésitation : on peut s'engager sans se croire infaillible.",
+        "en": "You hold <c id='fallibilism'>fallibilism</c> to be a straightforward position, not a hesitation: one can commit without believing oneself infallible."
+      }
+    }
+  ],
+  "targets": ["fallibilism-science"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

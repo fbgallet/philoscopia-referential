@@ -1,0 +1,12 @@
+{
+  "id": "individualism",
+  "term": { "fr": "Individualisme", "en": "Individualism" },
+  "definition": {
+    "fr": "L'individualisme, au sens philosophique, tient que la société n'est rien d'autre que les individus qui la composent et leurs interactions : comprendre un phénomène social, c'est le ramener aux choix et aux raisons des personnes. Il porte aussi une thèse morale et politique : l'individu, ses droits et ses intérêts priment sur les exigences du tout, comme dans le libéralisme de <ph id='locke'>Locke</ph> et de <ph id='mill'>Mill</ph>. Rien à voir avec l'égoïsme du langage courant : c'est une manière d'expliquer et de fonder l'ordre social, à l'opposé du <c id='holism'>holisme</c>.",
+    "en": "Individualism, in the philosophical sense, holds that society is nothing over and above the individuals who compose it and their interactions: to understand a social phenomenon is to trace it back to persons' choices and reasons. It also carries a moral and political thesis: the individual, with their rights and interests, comes before the demands of the whole, as in the liberalism of <ph id='locke'>Locke</ph> and <ph id='mill'>Mill</ph>. It has nothing to do with everyday selfishness: it is a way of explaining and grounding the social order, opposite to <c id='holism'>holism</c>."
+  },
+  "relatedAxes": ["INDIVIDUAL_SOCIETY", "SOCIAL_CONTRACT"],
+  "relatedTerms": ["holism", "contractualism"],
+  "positions": [{ "axisId": "INDIVIDUAL_SOCIETY", "poleId": "INDIVIDUALISM" }],
+  "updatedAt": "2026-07-11T00:00:00.000Z"
+}

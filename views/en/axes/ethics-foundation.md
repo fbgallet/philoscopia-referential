@@ -32,7 +32,7 @@ The fundamental moral question is not "what should I do?" but "who should I be?"
 
 Morality is rooted in concrete attentiveness to vulnerable people and in the caring relationships that bind us to one another. Rather than abstract, impartial principles, it values responsiveness, responsibility toward others, and sensitivity to particular situations.
 
-*Gilligan · Noddings*
+*[Gilligan](../philosophers/gilligan.md) · Noddings*
 
 ## Live problems
 

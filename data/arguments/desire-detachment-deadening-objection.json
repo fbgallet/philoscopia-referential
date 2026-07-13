@@ -1,0 +1,90 @@
+{
+  "id": "desire-detachment-deadening-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "DESIRE", "poleId": "DETACHMENT" },
+  "name": { "fr": "Vivre, ou se retirer de la vie ?", "en": "To live, or to withdraw from life?" },
+  "claim": {
+    "fr": "Se détacher de ses désirs, c'est peut-être se retirer de la vie même.",
+    "en": "To detach from your desires may be to withdraw from life itself."
+  },
+  "summary": {
+    "fr": "Le désir est l'élan qui nous porte vers les autres et vers le monde : l'éteindre pour ne plus souffrir risque d'acheter la paix au prix de l'indifférence.",
+    "en": "Desire is the impulse that carries us toward others and toward the world: extinguishing it so as to suffer no more risks buying peace at the price of indifference."
+  },
+  "development": [
+    {
+      "fr": "Le détachement promet la sérénité : ne plus rien attendre de ce qui ne dépend pas de nous, c'est n'être plus blessé par sa perte.",
+      "en": "Detachment promises serenity: to expect nothing more from what does not depend on us is to be no longer wounded by its loss."
+    },
+    {
+      "fr": "Mais ce qui nous attache au monde, c'est justement le désir : aimer, espérer, s'engager, c'est tenir à des choses qu'on peut perdre. Retrancher cet attachement pour se protéger, c'est risquer de ne plus rien aimer assez pour en souffrir, donc de ne plus vraiment aimer.",
+      "en": "But what binds us to the world is precisely desire: to love, to hope, to commit, is to hold to things one can lose. To cut away this attachment in order to protect oneself is to risk no longer loving anything enough to suffer from it, hence no longer truly loving."
+    },
+    {
+      "fr": "La paix gagnée pourrait alors ressembler à une absence : non la plénitude du sage, mais la tiédeur de qui s'est mis hors d'atteinte en se retirant de tout.",
+      "en": "The peace thus gained might then resemble an absence: not the fullness of the sage, but the lukewarmness of one who has put himself out of reach by withdrawing from everything."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc le détachement, poussé jusqu'au bout, menace de confondre la sérénité avec l'indifférence, et la libération avec le renoncement à vivre.",
+    "en": "So detachment, pushed to the end, threatens to confuse serenity with indifference, and liberation with the renunciation of living."
+  },
+  "deepenings": [
+    {
+      "id": "serenity-or-indifference",
+      "label": { "fr": "Sérénité ou indifférence ?", "en": "Serenity or indifference?" },
+      "targetStep": 1,
+      "development": [
+        {
+          "fr": "Les <mv id='stoicism'>stoïciens</mv> distinguaient l'<c id='apatheia'>apatheia</c>, l'affranchissement des passions troublantes, de l'insensibilité : le sage n'est pas de pierre, il aime et agit, mais sans être l'esclave de ce qu'il aime.",
+          "en": "The <mv id='stoicism'>Stoics</mv> distinguished <c id='apatheia'>apatheia</c>, freedom from the troubling passions, from insensibility: the sage is not made of stone, he loves and acts, but without being the slave of what he loves."
+        },
+        {
+          "fr": "L'objection demande si cette distinction tient en pratique : peut-on vraiment tenir à quelqu'un tout en restant prêt à le perdre sans en être atteint, ou bien le détachement finit-il toujours par refroidir ce à quoi il s'applique ?",
+          "en": "The objection asks whether this distinction holds in practice: can one really hold to someone while staying ready to lose them unshaken, or does detachment always end up cooling what it is applied to?"
+        }
+      ]
+    }
+  ],
+  "difficulty": 2,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "Tout éteindre, ce serait trop. Plutôt que me détacher de tout, mieux vaut choisir ce à quoi je tiens et m'alléger du reste.",
+        "en": "Extinguishing everything would be too much. Rather than detach from all, better to choose what I hold to and lighten the rest."
+      },
+      "hints": [{ "axisId": "DESIRE", "value": { "kind": "weights", "weights": [0.15, 0.6, 0.25] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous passez de l'extinction au partage, comme y invitait <ph id='epicurus'>Épicure</ph> : non renoncer à tout désir, mais garder les justes et lâcher les autres.",
+        "en": "You move from extinction to sorting, as <ph id='epicurus'>Epicurus</ph> invited: not renouncing all desire, but keeping the right ones and letting the others go."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je garde la voie du détachement, mais je la sépare de l'indifférence : se libérer de l'emprise des désirs n'oblige pas à cesser d'aimer.",
+        "en": "I keep the path of detachment, but set it apart from indifference: freeing oneself from the grip of desire does not require ceasing to love."
+      },
+      "hints": [{ "axisId": "DESIRE", "value": { "kind": "weights", "weights": [0.05, 0.25, 0.7] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous tenez l'<c id='apatheia'>apatheia</c> dans son sens exact : non le cœur sec, mais le cœur que la perte ne renverse plus.",
+        "en": "You hold <c id='apatheia'>apatheia</c> in its exact sense: not a dry heart, but a heart that loss no longer overthrows."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Ce que vous nommez goût de vivre est souvent ce qui nous tient en servitude. Se détacher n'est pas cesser d'aimer, c'est cesser de craindre de perdre.",
+        "en": "What you call a taste for life is often what keeps us in servitude. To detach is not to stop loving, it is to stop fearing loss."
+      },
+      "hints": [{ "axisId": "DESIRE", "value": { "kind": "weights", "weights": [0, 0, 1] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous tenez à l'exigence du détachement : la vraie liberté commence là où je n'ai plus besoin que les choses soient autrement qu'elles ne sont.",
+        "en": "You hold to detachment's demand: true freedom begins where I no longer need things to be other than they are."
+      }
+    }
+  ],
+  "targets": ["desire-detachment-liberation"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

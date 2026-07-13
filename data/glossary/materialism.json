@@ -1,0 +1,13 @@
+{
+  "id": "materialism",
+  "term": { "fr": "Matérialisme", "en": "Materialism" },
+  "aliases": { "fr": ["matérialiste"], "en": ["materialist"] },
+  "definition": {
+    "fr": "Le matérialisme est la doctrine selon laquelle tout ce qui existe est matériel : la pensée elle-même n'est pas une substance à part, mais un produit de l'organisation de la matière. Esquissé par l'atomisme antique de Démocrite et d'<ph id='epicurus'>Épicure</ph>, radicalisé au XVIIIe siècle par <ph id='la-mettrie'>La Mettrie</ph> et d'Holbach, il se prolonge aujourd'hui dans le physicalisme. Il s'oppose à l'<c id='idealism'>idéalisme</c> comme au <c id='dualism'>dualisme</c>, et n'a rien à voir avec le sens courant du mot, le goût des biens matériels.",
+    "en": "Materialism is the doctrine that everything that exists is material: thought itself is not a separate substance but a product of the organization of matter. Sketched by the ancient atomism of Democritus and <ph id='epicurus'>Epicurus</ph>, radicalized in the eighteenth century by <ph id='la-mettrie'>La Mettrie</ph> and d'Holbach, it lives on today as physicalism. It stands against <c id='idealism'>idealism</c> and <c id='dualism'>dualism</c> alike, and has nothing to do with the everyday sense of the word, a taste for material goods."
+  },
+  "relatedAxes": ["REALITY_NATURE", "CONSCIOUSNESS_NATURE", "REDUCTION_EMERGENCE"],
+  "relatedTerms": ["idealism", "dualism", "mechanism"],
+  "positions": [{ "axisId": "REALITY_NATURE", "poleId": "MATERIALISM" }],
+  "updatedAt": "2026-07-11T00:00:00.000Z"
+}

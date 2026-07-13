@@ -19,6 +19,7 @@
   "poles": [
     {
       "id": "EROS_AS_LACK",
+      "concept": "eros",
       "label": {
         "fr": "Éros-manque",
         "en": "Eros as lack"
@@ -39,6 +40,7 @@
     },
     {
       "id": "AGAPE_AS_GIFT",
+      "concept": "agape",
       "label": {
         "fr": "Agapè-don",
         "en": "Agape as gift"
@@ -86,6 +88,7 @@
     },
     {
       "id": "PHILIA",
+      "concept": "philia",
       "label": {
         "fr": "Philia (amitié)",
         "en": "Philia (friendship)"

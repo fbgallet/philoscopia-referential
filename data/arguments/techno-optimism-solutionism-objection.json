@@ -1,0 +1,72 @@
+{
+  "id": "techno-optimism-solutionism-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "TECHNOLOGY", "poleId": "TECHNO_OPTIMISM" },
+  "name": { "fr": "Le solutionnisme", "en": "Solutionism" },
+  "claim": {
+    "fr": "Attendre de la technique qu'elle répare ce qu'elle abîme oublie qu'elle vit parfois de l'abîmer.",
+    "en": "Expecting technology to repair what it damages forgets that it sometimes lives off the damage."
+  },
+  "summary": {
+    "fr": "L'optimiste range les maux de la technique parmi les défauts à corriger, alors que certains sont le but même du dispositif, ce dont l'industrie qui en vit ne se corrigera pas seule.",
+    "en": "The optimist files technology's harms under fixable defects, when some are the very point of the device, something the industry that lives on them will not fix on its own."
+  },
+  "development": [
+    {
+      "fr": "L'optimiste tient les maux de la technique pour des défauts passagers : à chaque problème, plus d'ingéniosité, un meilleur réglage, une appli mieux pensée. C'est le <kw>solutionnisme</kw>, la confiance que tout problème technique a une solution technique.",
+      "en": "The optimist treats technology's ills as passing defects: to every problem, more ingenuity, a better setting, a smarter app. This is <kw>solutionism</kw>, the faith that every technical problem has a technical solution."
+    },
+    {
+      "fr": "Mais le fil d'actualité qui vous a retenu ce soir n'est pas un outil maladroit qu'on perfectionnera : il fait exactement ce pour quoi il a été conçu. Vous retenir n'est pas son défaut, c'est son métier, car c'est de votre attention que vivent ceux qui le fabriquent.",
+      "en": "But the feed that held you tonight is not a clumsy tool to be perfected: it does exactly what it was designed to do. Holding you is not its flaw, it is its trade, for it is on your attention that those who build it make their living."
+    },
+    {
+      "fr": "Espérer alors que l'industrie qui prospère sur ce ressort le corrige d'elle-même, c'est demander au renard de garder le poulailler. Un mieux viendra peut-être, mais non du seul perfectionnement de l'outil.",
+      "en": "To hope, then, that the industry thriving on this mechanism will correct it of its own accord is to set the fox to guard the henhouse. Improvement may come, but not from refining the tool alone."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc l'optimisme se trompe quand il range parmi les ratés ce qui est, en réalité, le but de la machine.",
+    "en": "So the optimist is mistaken in filing under malfunctions what is, in truth, the machine's very purpose."
+  },
+  "difficulty": 2,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "L'objection porte : quand un dispositif est fait pour me retenir, attendre qu'il se corrige seul est naïf.",
+        "en": "The objection lands: when a device is built to hold me, expecting it to fix itself is naive."
+      },
+      "hints": [{ "axisId": "TECHNOLOGY", "value": { "kind": "scalar", "value": 0.5 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous ne renoncez pas aux promesses de la technique, mais vous cessez d'en attendre le remède à ses propres excès.",
+        "en": "You don't give up on technology's promises, but you stop expecting it to cure its own excesses."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je maintiens ma confiance, mais je la déplace : le progrès viendra des règles et des contre-pouvoirs, pas de la seule bonne volonté des fabricants.",
+        "en": "I keep my confidence, but I shift it: progress will come from rules and countervailing powers, not from the makers' goodwill alone."
+      },
+      "hints": [{ "axisId": "TECHNOLOGY", "value": { "kind": "scalar", "value": 0 }, "weight": 0.7 }],
+      "discussion": {
+        "fr": "Vous gardez l'espoir d'un mieux, mais vous le confiez à la loi et au collectif plutôt qu'à l'outil seul.",
+        "en": "You keep hoping for better, but you entrust it to law and to collective action rather than to the tool alone."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : tout outil neuf a d'abord effrayé, on apprend à s'en servir, et le bilan reste largement positif.",
+        "en": "I refute it: every new tool frightened people at first, we learn to use it, and the balance stays largely positive."
+      },
+      "hints": [{ "axisId": "TECHNOLOGY", "value": { "kind": "scalar", "value": -1 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous tenez le trouble actuel pour un âge d'apprentissage, comme il y en eut pour l'imprimerie ou le téléphone.",
+        "en": "You take the present trouble for a time of learning, as there was for the printing press or the telephone."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-22T00:00:00.000Z"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "libertarianism",
+  "term": { "fr": "Libertarianisme", "en": "Libertarianism" },
+  "aliases": { "fr": ["libertarien"], "en": ["libertarian"] },
+  "definition": {
+    "fr": "Le libertarianisme, en philosophie politique, part de la propriété de soi : chacun s'appartient et possède les fruits de son travail. Une répartition est alors juste dès lors qu'elle procède d'échanges libres et d'acquisitions légitimes, si bien que redistribuer par la contrainte revient à violer des droits individuels. <ph id='nozick'>Nozick</ph> en donne la version classique dans le sillage de <ph id='locke'>Locke</ph>, réduisant l'État au minimum. À ne pas confondre avec le libertarisme sur le <ax id='FREEDOM'>libre arbitre</ax>.",
+    "en": "Libertarianism, in political philosophy, starts from self-ownership: each person owns themselves and the fruits of their labor. A distribution is then just as long as it flows from free exchanges and legitimate acquisitions, so that coercive redistribution amounts to violating individual rights. <ph id='nozick'>Nozick</ph> gives its classic version in the wake of <ph id='locke'>Locke</ph>, reducing the state to a minimum. Not to be confused with libertarianism about <ax id='FREEDOM'>free will</ax>."
+  },
+  "relatedAxes": ["DISTRIBUTIVE_JUSTICE", "RIGHTS_NATURE", "POLITICAL_LIBERTY"],
+  "relatedTerms": ["egalitarianism", "natural-rights"],
+  "positions": [{ "axisId": "DISTRIBUTIVE_JUSTICE", "poleId": "LIBERTARIANISM" }],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

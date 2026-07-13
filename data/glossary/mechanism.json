@@ -1,0 +1,13 @@
+{
+  "id": "mechanism",
+  "term": { "fr": "Mécanisme", "en": "Mechanism" },
+  "aliases": { "fr": ["mécaniste", "mécaniciste"], "en": ["mechanist", "mechanistic"] },
+  "definition": {
+    "fr": "Le mécanisme est la doctrine selon laquelle tout, dans la nature, s'explique par la matière en mouvement et par des lois, sans recourir à des fins ni à des forces vitales. Né avec la révolution scientifique, il réduit le vivant à une machine complexe : <ph id='descartes'>Descartes</ph> tient l'animal pour un automate, <ph id='la-mettrie'>La Mettrie</ph> étend le modèle à l'homme. Il s'oppose au <c id='finalism'>finalisme</c>, qui explique la nature par des fins, et au <c id='vitalism'>vitalisme</c>, qui lui prête un élan propre.",
+    "en": "Mechanism is the doctrine that everything in nature is explained by matter in motion and by laws, with no appeal to ends or vital forces. Born with the scientific revolution, it reduces living beings to complex machines: <ph id='descartes'>Descartes</ph> holds animals to be automata, and <ph id='la-mettrie'>La Mettrie</ph> extends the model to man. It stands against <c id='finalism'>finalism</c>, which explains nature by ends, and against <c id='vitalism'>vitalism</c>, which credits it with an impulse of its own."
+  },
+  "relatedAxes": ["CAUSALITY", "REALITY_NATURE", "REDUCTION_EMERGENCE"],
+  "relatedTerms": ["finalism", "vitalism", "determinism"],
+  "positions": [{ "axisId": "CAUSALITY", "poleId": "MECHANISM" }],
+  "updatedAt": "2026-07-11T00:00:00.000Z"
+}

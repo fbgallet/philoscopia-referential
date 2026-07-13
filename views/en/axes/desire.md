@@ -36,6 +36,18 @@ Desire is the root of dependence and suffering: it binds us to what is beyond ou
 - **Are my desires my own?** : Do my desires arise from me, or do I desire what others desire, what society manufactures for me? If they are not my own, affirming or sorting them takes on a different meaning.
 - **The hierarchy of desires** : Are there higher and lower desires, with some part of us meant to govern the rest, or is this ranking merely a morality imposed on a life that asks for none?
 
+## Arguments
+
+- *Affirmation* · for : [Desire as power](../arguments/desire-affirmation-power.md)
+- *Affirmation* · against : [The blind-desire objection](../arguments/desire-blind-affirmation-objection.md)
+- *Affirmation* · against : [The leaky jar](../arguments/desire-insatiable-objection.md)
+- *Reasoned selection* · for : [The Epicurean measure](../arguments/desire-reasoned-selection-ataraxia.md)
+- *Reasoned selection* · against : [The line that cannot be found](../arguments/desire-arbitrary-line-objection.md)
+- *Reasoned selection* · against : [The shrunken-life objection](../arguments/desire-timid-life-objection.md)
+- *Extinction and detachment* · for : [The root of suffering](../arguments/desire-detachment-liberation.md)
+- *Extinction and detachment* · against : [To live, or to withdraw from life?](../arguments/desire-detachment-deadening-objection.md)
+- *Extinction and detachment* · against : [The desire to desire no more](../arguments/desire-detachment-paradox-objection.md)
+
 ## Grounding relations
 
 - *[Where the sacred resides](../axes/transcendence.md) : Immanence* grounds *[Relation to desire](../axes/desire.md) : Affirmation* : If there is no transcendent order above life to which desire ought to submit, desire ceases to be a fault to correct and becomes the very power by which life affirms itself. Immanence, from [Spinoza](../philosophers/spinoza.md) to [Nietzsche](../philosophers/nietzsche.md), grounds affirmation: there is nothing higher than life in whose name to curb it.

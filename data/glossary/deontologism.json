@@ -1,0 +1,13 @@
+{
+  "id": "deontologism",
+  "term": { "fr": "Déontologisme", "en": "Deontologism" },
+  "aliases": { "fr": ["déontologiste", "déontologique"], "en": ["deontological", "deontology"] },
+  "definition": {
+    "fr": "Le déontologisme fonde la morale sur le devoir, <ety>du grec deon, ce qui doit être fait</ety> : une action est bonne si elle se conforme à des principes valables pour tous, indépendamment de ses conséquences. <ph id='kant'>Kant</ph> en donne la forme la plus rigoureuse avec l'<c id='categorical-imperative'>impératif catégorique</c> : ne pas mentir, ne jamais traiter autrui comme un simple moyen, même quand cela serait utile. Il s'oppose au <c id='consequentialism'>conséquentialisme</c>, qui juge aux effets.",
+    "en": "Deontologism grounds morality in duty, <ety>from the Greek deon, what must be done</ety>: an action is good if it conforms to principles valid for everyone, regardless of its consequences. <ph id='kant'>Kant</ph> gives it its most rigorous form with the <c id='categorical-imperative'>categorical imperative</c>: do not lie, never treat another person as a mere means, even when it would be useful. It stands against <c id='consequentialism'>consequentialism</c>, which judges by effects."
+  },
+  "relatedAxes": ["ETHICS_FOUNDATION"],
+  "relatedTerms": ["consequentialism", "categorical-imperative"],
+  "positions": [{ "axisId": "ETHICS_FOUNDATION", "poleId": "DEONTOLOGISM" }],
+  "updatedAt": "2026-07-11T00:00:00.000Z"
+}

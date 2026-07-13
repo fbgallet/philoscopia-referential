@@ -1,0 +1,54 @@
+{
+  "id": "memory-we-are-heirs",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "TIME_ORIENTATION", "poleId": "MEMORY_TRANSMISSION" },
+  "name": { "fr": "Nous sommes des héritiers", "en": "We are heirs" },
+  "claim": {
+    "fr": "La profondeur d'une vie ne tient ni à l'instant ni au seul projet, mais au fil qui la relie à ceux d'avant et d'après.",
+    "en": "The depth of a life lies neither in the instant nor in the project alone, but in the thread that links it to those before and after."
+  },
+  "summary": {
+    "fr": "Nous recevons une langue, un monde, des biens que nous n'avons pas créés ; les honorer et les transmettre inscrit notre vie brève dans un temps plus long que la nôtre.",
+    "en": "We receive a language, a world, goods we did not create; honoring them and passing them on inscribes our brief life within a time longer than our own."
+  },
+  "development": [
+    {
+      "fr": "Avant de rien projeter ou de rien savourer, nous avons déjà tout reçu : une langue, un savoir, des outils, un monde habitable que d'autres ont bâti et nous ont légué sans que nous l'ayons mérité.",
+      "en": "Before projecting or savoring anything, we have already received everything: a language, a body of knowledge, tools, a habitable world that others built and handed down to us without our having earned it."
+    },
+    {
+      "fr": "Mesurer sa vie à ses seuls plaisirs ou à ses seules réussites, c'est se couper de cette profondeur. Pour <ph id='confucius'>Confucius</ph> comme pour <ph id='burke'>Burke</ph>, la communauté est un <ax id='SOCIAL_CONTRACT' pole='ORGANIC_COMMUNITY'>héritage vivant</ax>, un pacte entre les morts, les vivants et ceux qui ne sont pas encore nés. Honorer ses dettes envers le passé, par la <c id='filial-piety'>piété filiale</c> ou la simple gratitude, c'est reconnaître ce que l'on doit.",
+      "en": "To measure one's life by its pleasures or its successes alone is to cut oneself off from this depth. For <ph id='confucius'>Confucius</ph> as for <ph id='burke'>Burke</ph>, the community is a <ax id='SOCIAL_CONTRACT' pole='ORGANIC_COMMUNITY'>living inheritance</ax>, a pact between the dead, the living and those not yet born. To honor one's debts to the past, through <c id='filial-piety'>filial piety</c> or simple gratitude, is to acknowledge what one owes."
+    },
+    {
+      "fr": "Et transmettre à son tour, un savoir, une mémoire, un monde tenable, c'est donner à sa vie brève une part dans un temps plus vaste. Ce qui passe par nous nous dépasse : voilà qui délivre de la hantise d'« optimiser » des heures qu'on croyait n'avoir qu'à soi.",
+      "en": "And to pass on in turn, a knowledge, a memory, a livable world, is to give one's brief life a share in a vaster time. What passes through us exceeds us: this frees us from the obsession with « optimizing » hours we thought were ours alone."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc bien vivre le temps, c'est se savoir un passage : recevoir avec gratitude, transmettre avec soin, et trouver là une profondeur que ni l'instant ni le projet ne donnent.",
+    "en": "So to live time well is to know oneself a passage: to receive with gratitude, to transmit with care, and to find there a depth that neither the instant nor the project gives."
+  },
+  "deepenings": [
+    {
+      "id": "partnership-of-generations",
+      "label": { "fr": "Un pacte entre les générations", "en": "A pact between the generations" },
+      "targetStep": 1,
+      "development": [
+        {
+          "fr": "<ph id='burke'>Burke</ph> définissait la société comme un partenariat entre ceux qui vivent, ceux qui sont morts et ceux qui doivent naître. La vie de chacun n'en est qu'un moment, mais ce moment porte tout le reste.",
+          "en": "<ph id='burke'>Burke</ph> defined society as a partnership between those who are living, those who are dead and those who are to be born. Each person's life is but one moment of it, yet that moment carries all the rest."
+        },
+        {
+          "fr": "Loin d'écraser l'individu, cette vue le soulage : il n'a pas à tout inventer ni à tout réussir dans le court empan de ses années ; il lui suffit de tenir son maillon, de recevoir et de transmettre fidèlement.",
+          "en": "Far from crushing the individual, this view relieves him: he does not have to invent everything or succeed at everything within the short span of his years; it is enough to hold his link, to receive and to pass on faithfully."
+        }
+      ],
+      "source": { "author": { "fr": "Burke", "en": "Burke" }, "work": { "fr": "Réflexions sur la Révolution de France", "en": "Reflections on the Revolution in France" } }
+    }
+  ],
+  "difficulty": 2,
+  "source": { "author": { "fr": "Confucius, Burke", "en": "Confucius, Burke" }, "figures": [{ "name": { "fr": "Confucius", "en": "Confucius" }, "kind": "PHILOSOPHER", "slug": "confucius" }, { "name": { "fr": "Burke", "en": "Burke" }, "kind": "PHILOSOPHER", "slug": "burke" }], "work": { "fr": "Entretiens ; Réflexions sur la Révolution de France", "en": "Analects; Reflections on the Revolution in France" } },
+  "test": "memory-transmission-illusion",
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

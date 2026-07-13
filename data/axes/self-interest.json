@@ -19,6 +19,7 @@
   "poles": [
     {
       "id": "ETHICAL_EGOISM",
+      "concept": "ethical-egoism",
       "label": {
         "fr": "Égoïsme éthique",
         "en": "Ethical egoism"
@@ -46,6 +47,7 @@
     },
     {
       "id": "ALTRUISM",
+      "concept": "altruism",
       "label": {
         "fr": "Altruisme",
         "en": "Altruism"

@@ -1,0 +1,48 @@
+{
+  "id": "instrumentalism-use-decides",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "TECHNOLOGY", "median": true },
+  "name": { "fr": "Ce n'est pas l'outil, c'est l'usage", "en": "Not the tool, the use" },
+  "claim": {
+    "fr": "Le même fil sert la curiosité d'un esprit libre et l'engourdissement d'un soir de fatigue : c'est l'usage qui tranche.",
+    "en": "The same feed serves a free mind's curiosity and a tired evening's torpor: it is the use that decides."
+  },
+  "summary": {
+    "fr": "Un instrument reçoit son sens de la main qui le tient ; rejeter la faute sur l'objet, c'est se dire agi quand on a seulement cédé.",
+    "en": "An instrument takes its meaning from the hand that holds it; to blame the object is to call oneself driven when one has merely given in."
+  },
+  "development": [
+    {
+      "fr": "Un même couteau coupe le pain et blesse, un même feu réchauffe et détruit. L'instrument reçoit son sens de la main qui le tient et de la fin qu'elle vise. La technique n'échappe pas à cette règle.",
+      "en": "The same knife cuts bread and wounds, the same fire warms and destroys. An instrument takes its meaning from the hand that holds it and the end that hand pursues. Technology is no exception to this rule."
+    },
+    {
+      "fr": "Le fil d'actualité que vous faisiez défiler ce soir, un autre s'en sert pour apprendre une langue, garder le lien avec les siens, organiser une entraide. Ce n'est pas l'objet qui a changé, c'est l'intention et la mesure qu'on y met.",
+      "en": "The feed you were scrolling tonight, another uses to learn a language, keep in touch with loved ones, organize mutual help. It is not the object that has changed, it is the intention and the measure brought to it."
+    },
+    {
+      "fr": "Rejeter la faute sur le dispositif a quelque chose de commode : c'est se dire agi quand on a seulement cédé. Or me reconnaître libre de mon usage, c'est aussi me rendre le pouvoir d'en changer, et reporter mon effort sur <ax id='CONTROL_SCOPE' pole='DICHOTOMY_OF_CONTROL'>ce qui dépend de moi</ax>.",
+      "en": "To pin the blame on the device has something convenient about it: it is to call oneself driven when one has merely given in. Yet to acknowledge myself free in my use is also to give myself the power to change it, and to turn my effort toward <ax id='CONTROL_SCOPE' pole='DICHOTOMY_OF_CONTROL'>what depends on me</ax>."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc placer le remède du côté de l'usage n'est pas naïveté : c'est refuser de m'aliéner à un objet, et garder la main sur ce que je peux vraiment.",
+    "en": "So to place the remedy on the side of use is not naivety: it is to refuse to surrender myself to an object, and to keep my grip on what is truly mine."
+  },
+  "deepenings": [
+    {
+      "id": "blaming-the-object",
+      "label": { "fr": "Se dire agi", "en": "Calling oneself driven" },
+      "targetStep": 2,
+      "development": [
+        {
+          "fr": "Faire de l'objet la cause de ma conduite, c'est emprunter à la <ax id='FREEDOM' pole='DETERMINISM'>logique du déterminisme</ax> pour m'excuser : « ce n'est pas moi, c'est le fil ». Or cette excuse a un prix, elle me retire d'avance le pouvoir de faire autrement.",
+          "en": "To make the object the cause of my conduct is to borrow the <ax id='FREEDOM' pole='DETERMINISM'>logic of determinism</ax> to excuse myself: « it wasn't me, it was the feed ». But this excuse has a price: it strips me in advance of the power to do otherwise."
+        }
+      ]
+    }
+  ],
+  "difficulty": 1,
+  "test": "instrumentalism-captation-objection",
+  "updatedAt": "2026-06-22T00:00:00.000Z"
+}

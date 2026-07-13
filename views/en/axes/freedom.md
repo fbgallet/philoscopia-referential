@@ -44,6 +44,22 @@ Compatibilism gives up free will in the strong sense, the power to have chosen o
 - **Doing as one pleases, or governing oneself?** : Is being free to do what one feels like in the moment, or to govern oneself, at the risk that whoever follows their every desire becomes its slave?
 - **Inner freedom or outer freedom?** : What weighs most in our freedom: our inner dispositions, or the outer constraints of power and society? And does one make the other possible: can one be free in spirit under oppression, or free outwardly without being free within?
 
+## Arguments
+
+- *Free will* · for : [The argument from the experience of deliberation](../arguments/free-will-experience.md)
+- *Free will* · for : [The moral-responsibility argument](../arguments/free-will-responsibility.md)
+- *Free will* · against : [The Frankfurt case](../arguments/free-will-frankfurt-case.md)
+- *Free will* · against : [The illusion argument](../arguments/freedom-determinist-illusion.md)
+- *Hard determinism* · for : [The causal-closure argument](../arguments/determinism-causal-closure.md)
+- *Hard determinism* · for : [The impossibility-of-self-creation argument](../arguments/determinism-no-self-creation.md)
+- *Hard determinism* · against : [The indeterminism objection](../arguments/determinism-indeterminism.md)
+- *Hard determinism* · against : [The responsibility argument](../arguments/determinism-responsibility-objection.md)
+- *Compatibilism* · for : [Freedom as adequate cause](../arguments/compatibilism-adequate-cause.md)
+- *Compatibilism* · for : [The reactive-attitudes argument](../arguments/compatibilism-reactive-attitudes.md)
+- *Compatibilism* · for : [Freedom as the absence of constraint](../arguments/compatibilism-reasons-responsiveness.md)
+- *Compatibilism* · against : [The consequence argument](../arguments/compatibilism-consequence-argument.md)
+- *Compatibilism* · against : [The subterfuge](../arguments/compatibilism-subterfuge.md)
+
 ## Grounding relations
 
 - *[Freedom of the will](../axes/freedom.md) : Hard determinism* grounds *[The meaning of punishment](../axes/punishment.md) : Rehabilitation* : If the offender could not have acted otherwise, punishing him in the name of desert becomes unjustifiable. [Determinism](../glossary/determinism.md) thus steers sanction toward rehabilitation, which reshapes the causes of behaviour rather than avenging a free fault.

@@ -1,0 +1,13 @@
+{
+  "id": "atheism",
+  "term": { "fr": "Athéisme", "en": "Atheism" },
+  "aliases": { "fr": ["athée"], "en": ["atheist"] },
+  "definition": {
+    "fr": "L'athéisme, <ety>du grec a- privatif et theos, dieu</ety>, nie l'existence de Dieu : aucune réalité divine ne fonde le monde, et l'idée même de Dieu s'explique par des causes humaines. Feuerbach y voit la projection de notre propre essence, <ph id='nietzsche'>Nietzsche</ph> proclame la « mort de Dieu » et en tire les conséquences pour la morale, <ph id='russell'>Russell</ph> renvoie la charge de la preuve au croyant. Il se distingue de l'agnosticisme, qui suspend le jugement.",
+    "en": "Atheism, <ety>from the Greek a- privative and theos, god</ety>, denies the existence of God: no divine reality grounds the world, and the very idea of God is explained by human causes. Feuerbach sees in it the projection of our own essence, <ph id='nietzsche'>Nietzsche</ph> proclaims the \"death of God\" and draws its consequences for morality, <ph id='russell'>Russell</ph> puts the burden of proof back on the believer. It differs from agnosticism, which suspends judgment."
+  },
+  "relatedAxes": ["GOD_EXISTENCE", "PROBLEM_OF_EVIL"],
+  "relatedTerms": ["theism", "deisme"],
+  "positions": [{ "axisId": "GOD_EXISTENCE", "poleId": "ATHEISM" }],
+  "updatedAt": "2026-07-11T00:00:00.000Z"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "sincerity-benevolent-trust-collapse",
+  "kind": "OBJECTS",
+  "position": { "axisId": "SINCERITY", "poleId": "BENEVOLENT_LYING_PERMITTED" },
+  "name": { "fr": "Le retour du mensonge", "en": "The lie comes back" },
+  "claim": {
+    "fr": "Le mensonge bienveillant détruit, à terme, ce qu'il prétend protéger.",
+    "en": "The benevolent lie destroys, in the end, what it claims to protect."
+  },
+  "development": [
+    {
+      "fr": "Un mensonge reste rarement secret : un jour, l'autre apprend qu'on lui a menti « pour son bien ».",
+      "en": "A lie seldom stays secret: one day, the other learns that they were lied to \"for their own good\"."
+    },
+    {
+      "fr": "Dès lors, chacune de vos paroles rassurantes devient suspecte : il ne sait plus quand vous le ménagez et quand vous êtes sincère.",
+      "en": "From then on, each of your reassuring words becomes suspect: they no longer know when you are sparing them and when you are sincere."
+    },
+    {
+      "fr": "Une confiance entamée de la sorte ne se répare pas d'un mot ; le mensonge qui voulait épargner une douleur en sème une plus durable.",
+      "en": "A trust damaged this way is not mended with a word; the lie that meant to spare a pain sows a more lasting one."
+    }
+  ],
+  "conclusion": {
+    "fr": "En trompant pour protéger, on échange une peine présente contre une défiance qui, elle, ne guérit pas.",
+    "en": "In deceiving to protect, one trades a present pain for a mistrust that, unlike it, does not heal."
+  },
+  "difficulty": 2,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "Vous avez raison : le prix pour la confiance est trop lourd ; mieux vaut une vérité difficile qu'un mensonge qui ronge le lien.",
+        "en": "You are right: the price paid in trust is too heavy; better a hard truth than a lie that eats away at the bond."
+      },
+      "hints": [{ "axisId": "SINCERITY", "value": { "kind": "scalar", "value": -1 }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous replacez la confiance au-dessus du soulagement immédiat : c'est l'intuition du rigorisme.",
+        "en": "You place trust above immediate relief: this is the rigorist's intuition."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je l'accorde pour mes proches, dont la confiance s'inscrit dans la durée ; mais un mensonge à un inconnu, sans lendemain, ne détruit aucun lien.",
+        "en": "I grant it for those close to me, whose trust extends over time; but a lie to a stranger, with no tomorrow, destroys no bond."
+      },
+      "hints": [{ "axisId": "SINCERITY", "value": { "kind": "scalar", "value": 0.4 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous restreignez la permission aux situations sans avenir commun, où la confiance n'est pas en jeu.",
+        "en": "You restrict the permission to situations with no shared future, where trust is not at stake."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : tous les mensonges ne se découvrent pas, et certains protègent une paix qui valait mieux que la vérité.",
+        "en": "I refute it: not all lies come to light, and some protect a peace that was worth more than the truth."
+      },
+      "hints": [{ "axisId": "SINCERITY", "value": { "kind": "scalar", "value": 1 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous maintenez qu'un mensonge bien gardé peut épargner durablement, sans le retour de bâton supposé.",
+        "en": "You maintain that a well-kept lie can spare lastingly, without the supposed backlash."
+      }
+    }
+  ],
+  "targets": ["sincerity-benevolent-right-to-truth"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

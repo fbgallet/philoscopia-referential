@@ -1,0 +1,71 @@
+{
+  "id": "determinism-indeterminism",
+  "kind": "OBJECTS",
+  "position": { "axisId": "FREEDOM", "poleId": "DETERMINISM" },
+  "name": { "fr": "L'objection de l'indéterminisme", "en": "The indeterminism objection" },
+  "claim": {
+    "fr": "Si la matière même n'est pas déterminée, l'avenir n'est pas écrit d'avance.",
+    "en": "If matter itself is not determined, the future is not written in advance."
+  },
+  "development": [
+    {
+      "fr": "L'argument suppose que tout effet est entièrement fixé par ses causes. Or la physique quantique décrit des événements fondamentaux qui ne sont que <kw>probables</kw>, non déterminés.",
+      "en": "The argument assumes every effect is wholly fixed by its causes. Yet quantum physics describes fundamental events that are merely <kw>probable</kw>, not determined."
+    },
+    {
+      "fr": "Si l'<c id='indeterminism'>indéterminisme</c> vaut au niveau le plus fin, « tout a une cause » ne signifie plus « tout est joué d'avance » : une même cause peut laisser ouvertes plusieurs issues.",
+      "en": "If <c id='indeterminism'>indeterminism</c> holds at the finest level, \"everything has a cause\" no longer means \"everything is settled in advance\": one and the same cause may leave several outcomes open."
+    },
+    {
+      "fr": "La <c id='causal-closure'>clôture causale</c> survit, rien ne surgit de rien ; mais sa conclusion déterministe, elle, ne suit plus : le réseau des causes laisse du jeu.",
+      "en": "<c id='causal-closure'>Causal closure</c> survives, nothing springs from nothing; but its determinist conclusion no longer follows: the web of causes leaves play."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la clôture causale ne prouve pas le <c id='determinism'>déterminisme</c> strict : l'avenir n'est peut-être pas entièrement fixé.",
+    "en": "So causal closure does not prove strict <c id='determinism'>determinism</c>: the future may not be wholly fixed."
+  },
+  "difficulty": 3,
+  "source": { "author": { "fr": "Tradition indéterministe", "en": "Indeterminist tradition" }, "figures": [{ "name": { "fr": "tradition indéterministe", "en": "Indeterminist tradition" }, "kind": "TRADITION" }] },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "L'objection porte : si la matière a du jeu, l'avenir n'est pas écrit, et le déterminisme strict ne tient pas.",
+        "en": "The objection lands: if matter has play, the future is not written, and strict determinism fails."
+      },
+      "hints": [{ "axisId": "FREEDOM", "value": { "kind": "scalar", "value": 0 }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous quittez le déterminisme strict, sans aller jusqu'au libre arbitre : le hasard n'étant pas la liberté, vous vous arrêtez à une position médiane.",
+        "en": "You leave strict determinism without reaching free will: since chance is not freedom, you stop at a middle position."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je maintiens le déterminisme à notre échelle : le hasard quantique se moyenne, et le cerveau reste un système prévisible.",
+        "en": "I keep determinism at our scale: quantum chance averages out, and the brain remains a predictable system."
+      },
+      "hints": [{ "axisId": "FREEDOM", "value": { "kind": "scalar", "value": 0.5 }, "weight": 0.7 }],
+      "discussion": {
+        "fr": "Vous distinguez les échelles : l'indétermination du minuscule ne remonte pas, en pratique, jusqu'à la délibération.",
+        "en": "You distinguish scales: the indeterminacy of the tiny does not, in practice, reach up to deliberation."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : un hasard n'est pas une liberté. Remplacer la nécessité par le dé ne me rend pas davantage l'auteur de mes choix.",
+        "en": "I refute it: chance is not freedom. Replacing necessity with a die does not make me any more the author of my choices."
+      },
+      "hints": [{ "axisId": "FREEDOM", "value": { "kind": "scalar", "value": 1 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Argument décisif contre le libertarisme : l'<c id='indeterminism'>indéterminisme</c> dissout la nécessité mais n'offre aucune prise à un véritable pouvoir de choisir.",
+        "en": "A decisive point against libertarianism: <c id='indeterminism'>indeterminism</c> dissolves necessity but offers no foothold for a genuine power to choose."
+      }
+    }
+  ],
+  "problems": ["causal-closure", "dilemma-necessity-chance"],
+  "targets": ["determinism-causal-closure"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

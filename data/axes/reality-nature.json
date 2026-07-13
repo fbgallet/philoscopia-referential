@@ -19,6 +19,7 @@
   "poles": [
     {
       "id": "MATERIALISM",
+      "concept": "materialism",
       "label": {
         "fr": "Matérialisme",
         "en": "Materialism"
@@ -46,6 +47,7 @@
     },
     {
       "id": "IDEALISM",
+      "concept": "idealism",
       "label": {
         "fr": "Idéalisme",
         "en": "Idealism"
@@ -73,6 +75,7 @@
     },
     {
       "id": "DUALISM",
+      "concept": "dualism",
       "label": {
         "fr": "Dualisme",
         "en": "Dualism"

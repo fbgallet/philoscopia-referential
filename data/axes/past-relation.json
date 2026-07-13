@@ -19,6 +19,7 @@
   "poles": [
     {
       "id": "AMOR_FATI",
+      "concept": "amor-fati",
       "label": {
         "fr": "Amor fati",
         "en": "Amor fati"
@@ -46,6 +47,7 @@
     },
     {
       "id": "REVOLT",
+      "concept": "revolt",
       "label": {
         "fr": "Révolte",
         "en": "Revolt"

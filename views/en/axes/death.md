@@ -49,6 +49,18 @@ Death is the supreme evil, an unacceptable scandal, not an event to greet with s
 - **Defeating death?** : What if death were no longer a fate but a disease to cure: should we push back our limits endlessly through technology, or is there a wisdom in consenting to our mortal condition?
 - **Everything ends: is it in vain?** : Since death erases everything, does what we do still have meaning, or can something be fully worthwhile without lasting forever?
 
+## Arguments
+
+- *Death is nothing* · for : [The symmetry argument](../arguments/death-epicurean-symmetry.md)
+- *Death is nothing* · against : [The anxiety objection](../arguments/death-anxiety-objection.md)
+- *Death is nothing* · against : [The deprivation argument](../arguments/death-deprivation.md)
+- *Being-toward-death* · for : [The authenticity argument](../arguments/death-being-toward-death.md)
+- *Being-toward-death* · against : [The morbid-rumination objection](../arguments/death-morbid-rumination.md)
+- *Being-toward-death* · against : [The primacy-of-death objection](../arguments/death-primacy-objection.md)
+- *Immortalism* · for : [The argument from the soul](../arguments/death-immortalist-hope.md)
+- *Immortalism* · against : [The flight objection](../arguments/death-flight-from-finitude.md)
+- *Immortalism* · against : [The identity objection](../arguments/death-identity-objection.md)
+
 ## Grounding relations
 
 - *[Existence of God](../axes/god-existence.md) : Atheism* grounds *[Death](../axes/death.md) : Death is nothing* : If God does not exist and no life follows death, then to die is only a return to nothingness, where there is no one left to suffer being dead. Atheism meets the consolation of [Epicurus](../philosophers/epicurus.md): "death is nothing to us", and freeing oneself from its fear restores the full value of the present life.

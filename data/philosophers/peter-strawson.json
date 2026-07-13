@@ -1,0 +1,17 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "peter-strawson",
+  "name": { "fr": "Peter Strawson", "en": "Peter Strawson" },
+  "aliases": { "fr": ["P. F. Strawson"], "en": ["P. F. Strawson"] },
+  "summary": {
+    "fr": "Philosophe analytique britannique, auteur de « Liberté et ressentiment », qui fonde la responsabilité morale sur nos attitudes réactives plutôt que sur une preuve du libre arbitre.",
+    "en": "British analytic philosopher, author of Freedom and Resentment, who grounds moral responsibility in our reactive attitudes rather than in a proof of free will."
+  },
+  "nationality": { "fr": "Britannique", "en": "British" },
+  "birth": 1919,
+  "death": 2006,
+  "movements": ["analytic-philosophy"],
+  "updatedAt": "2026-07-12T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

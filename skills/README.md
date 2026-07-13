@@ -1,6 +1,6 @@
 # Exploration skills
 
-Six [agent skills](https://agentskills.io) that turn any capable assistant into a philosophical companion over the [Philoscopia MCP server](../mcp/): they carry the conversational craft (how to conduct a session), while the server carries the data and the persistence.
+Seven [agent skills](https://agentskills.io) that turn any capable assistant into a philosophical companion over the [Philoscopia MCP server](../mcp/): they carry the conversational craft (how to conduct a session), while the server carries the data and the persistence.
 
 | Skill | Job |
 |---|---|
@@ -10,6 +10,7 @@ Six [agent skills](https://agentskills.io) that turn any capable assistant into 
 | [`philo-read`](philo-read/SKILL.md) | Read a philosophical text WITH the person: follow the thread, identify and work its difficulties (comprehension → explanation, receivability → justification), let the text interrogate them |
 | [`philo-concept`](philo-concept/SKILL.md) | Work a concept as an intellectual device: try it on and experience what it changes, or forge one's own through counterexamples |
 | [`philo-articulate`](philo-articulate/SKILL.md) | Train formulating one's thought: one-sentence theses, audience shifts, steelmanning, the minute-essay |
+| [`philo-synthesize`](philo-synthesize/SKILL.md) | Generate the person's profile synthesis: a dated prose portrait crossing positions, carnet and who they are — central values and their order, through-lines, live tensions, blind spots, evolution |
 
 ## What is a "skill", and what does "installing" one mean?
 
@@ -51,11 +52,14 @@ You never call tools yourself — you just talk. Some openers, and the skill the
 - "Here's a passage from the *Enchiridion* — let's read it together." → `philo-read`
 - "What would *amor fati* change in how I see my situation?" → `philo-concept`
 - "Help me say clearly what I think about work." → `philo-articulate`
+- "After all these sessions — what do I actually think, overall?" → `philo-synthesize`
 
 Every session ends the same way: your journal gets the session's narrative, your `summary.md` portrait is refreshed, and everything stays in your local `my-philosophy/` folder — yours to read, edit and version.
 
 ## Design
 
 One session = one conversation = one journal entry. The skills share a common discipline, learned from years of iteration on an earlier system: one axis at a time; `EXPLORING` before `POSITIONED`; always record *provenance* (which door elicited the position) and *reasons* in the user's own words; **formulation first** (before anything is recorded, the user states it in a sentence they'd sign — the assistant's phrasing is at best a scaffold); close with `log_session` and a refreshed `summary.md`. The user's files remain the source of truth, local and private.
+
+Sessions also chain: each conversation opens with the server's `orient` tool (who you are — beginner, cultivated amateur or expert, your goals and motivations — where your carnet stands, the thread you left open) and can close by naming what to pick up next time (`log_session`'s `next`). Every skill scales its register to that user block: the same session is conducted very differently for someone clearing up a few questions and for a researcher digging a fine-grained problem.
 
 And a limit owned plainly: none of this replaces a living conversation with humans, the experience of reading the philosophers themselves, or actually living by one's principles. The skills are built to point toward all three, not to substitute for them.

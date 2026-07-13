@@ -1,0 +1,13 @@
+{
+  "id": "dualism",
+  "term": { "fr": "Dualisme", "en": "Dualism" },
+  "aliases": { "fr": ["dualiste"], "en": ["dualist"] },
+  "definition": {
+    "fr": "Le dualisme affirme que la réalité comporte deux ordres irréductibles : la matière, étendue et mesurable, et l'esprit, immatériel et conscient. <ph id='descartes'>Descartes</ph> en fixe la forme classique en distinguant la chose pensante de la chose étendue, au prix d'un problème durable : comment deux substances si différentes peuvent-elles interagir dans un même être ? Il s'oppose aux monismes que sont le <c id='materialism'>matérialisme</c> et l'<c id='idealism'>idéalisme</c>.",
+    "en": "Dualism holds that reality comprises two irreducible orders: matter, extended and measurable, and mind, immaterial and conscious. <ph id='descartes'>Descartes</ph> fixes its classical form by distinguishing the thinking thing from the extended thing, at the cost of a lasting problem: how can two such different substances interact within one being? It stands against the monisms of <c id='materialism'>materialism</c> and <c id='idealism'>idealism</c>."
+  },
+  "relatedAxes": ["REALITY_NATURE", "CONSCIOUSNESS_NATURE"],
+  "relatedTerms": ["materialism", "idealism"],
+  "positions": [{ "axisId": "REALITY_NATURE", "poleId": "DUALISM" }],
+  "updatedAt": "2026-07-11T00:00:00.000Z"
+}

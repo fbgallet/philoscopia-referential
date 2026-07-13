@@ -1,0 +1,13 @@
+{
+  "id": "social-constructionism",
+  "term": { "fr": "Constructivisme social", "en": "Social constructionism" },
+  "aliases": { "fr": ["construction sociale", "socialement construit"], "en": ["socially constructed", "social construction"] },
+  "definition": {
+    "fr": "Le constructivisme social, aussi dit constructionnisme social, soutient que bien des catégories tenues pour naturelles, le genre, la race, la folie, la valeur, sont en réalité produites par l'histoire, le langage et les rapports sociaux : elles auraient pu être autres. « On ne naît pas femme, on le devient », écrit <ph id='beauvoir'>Beauvoir</ph> ; <ph id='foucault'>Foucault</ph> montre comment les institutions façonnent le fou ou le délinquant, Judith Butler comment le genre se performe. La thèse libère en dénaturalisant, mais on lui objecte de dissoudre toute réalité. Elle s'oppose au naturalisme et au réalisme sociaux.",
+    "en": "Social constructionism holds that many categories taken to be natural, gender, race, madness, value, are in fact produced by history, language and social relations: they could have been otherwise. \"One is not born, but rather becomes, a woman\", writes <ph id='beauvoir'>Beauvoir</ph>; <ph id='foucault'>Foucault</ph> shows how institutions shape the madman or the delinquent, Judith Butler how gender is performed. The thesis liberates by denaturalizing, but is charged with dissolving all reality. It stands against social naturalism and social realism."
+  },
+  "relatedAxes": ["SOCIAL_IDENTITY", "ESSENCE"],
+  "relatedTerms": ["essentialism"],
+  "positions": [{ "axisId": "SOCIAL_IDENTITY", "poleId": "SOCIAL_CONSTRUCTION" }],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

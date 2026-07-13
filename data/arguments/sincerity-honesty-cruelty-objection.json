@@ -1,0 +1,68 @@
+{
+  "id": "sincerity-honesty-cruelty-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "SINCERITY", "poleId": "TRUTHFUL_RIGORISM" },
+  "name": { "fr": "L'honnêteté sans égard", "en": "Honesty without regard" },
+  "claim": {
+    "fr": "Une vérité qui ne ménage jamais personne n'est pas une vertu, mais une dureté.",
+    "en": "A truth that spares no one is not a virtue, but a hardness."
+  },
+  "development": [
+    {
+      "fr": "Dire toute la vérité en toute circonstance peut infliger une peine que rien ne justifie : à un mourant, à un enfant, à qui ne peut plus rien changer à son sort.",
+      "en": "Telling the whole truth in every circumstance can inflict a pain that nothing warrants: on someone dying, on a child, on anyone who can no longer change their lot."
+    },
+    {
+      "fr": "Maintenir le principe quand la franchise ne fait que meurtrir, c'est préférer la pureté d'une règle à la personne même qu'elle devrait servir.",
+      "en": "To hold to the principle when frankness only wounds is to prefer the purity of a rule to the very person it is meant to serve."
+    },
+    {
+      "fr": "Or la <kw>compassion</kw> compte parmi nos devoirs autant que la <kw>véracité</kw> ; les opposer sans reste, c'est sacrifier l'une à l'autre sans vouloir l'avouer.",
+      "en": "Yet <kw>compassion</kw> ranks among our duties as much as <kw>truthfulness</kw>; to set them against each other without remainder is to sacrifice one to the other without admitting it."
+    }
+  ],
+  "conclusion": {
+    "fr": "Une honnêteté qui ne s'autorise aucun ménagement finit donc par confondre la droiture avec l'indifférence.",
+    "en": "An honesty that allows itself no tact ends up confusing uprightness with indifference."
+  },
+  "difficulty": 2,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "L'objection porte : par égard pour autrui, je peux parfois adoucir une vérité, ou la taire.",
+        "en": "The objection lands: out of regard for others, I may at times soften a truth, or leave it unsaid."
+      },
+      "hints": [{ "axisId": "SINCERITY", "value": { "kind": "scalar", "value": 1 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous accordez que la véracité n'est pas le seul devoir : la bienveillance peut, à l'occasion, l'emporter.",
+        "en": "You grant that truthfulness is not the only duty: kindness can, on occasion, take precedence."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je garde le devoir de vérité, mais je choisis le moment et les mots, sans jamais mentir pour autant.",
+        "en": "I keep the duty of truth, but I choose the moment and the words, without ever lying for all that."
+      },
+      "hints": [{ "axisId": "SINCERITY", "value": { "kind": "scalar", "value": -0.5 }, "weight": 0.7 }],
+      "discussion": {
+        "fr": "Vous séparez le mensonge, exclu, du simple tact : on peut tout dire sans tout asséner.",
+        "en": "You separate the lie, which is ruled out, from mere tact: one can say everything without hammering everything home."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : ménager la vérité, c'est déjà commencer à la trahir ; une franchise qui blesse vaut mieux qu'une bonté qui trompe.",
+        "en": "I refute it: to spare the truth is already to begin betraying it; a frankness that wounds is worth more than a kindness that deceives."
+      },
+      "hints": [{ "axisId": "SINCERITY", "value": { "kind": "scalar", "value": -1 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "C'est la fermeté de <ph id='kant'>Kant</ph> : la première entorse consentie ouvre la porte à toutes les suivantes.",
+        "en": "This is <ph id='kant'>Kant</ph>'s firmness: the first exception allowed opens the door to all the rest."
+      }
+    }
+  ],
+  "updatedAt": "2026-06-22T00:00:00.000Z"
+}

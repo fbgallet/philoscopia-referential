@@ -1,0 +1,13 @@
+{
+  "id": "reductionism",
+  "term": { "fr": "Réductionnisme", "en": "Reductionism" },
+  "aliases": { "fr": ["réductionniste"], "en": ["reductionist"] },
+  "definition": {
+    "fr": "Le réductionnisme explique un tout par ses parties les plus simples : comprendre, c'est ramener le complexe à ses éléments et à leurs lois, la vie à la chimie, la pensée aux neurones, le social aux individus. Hérité de l'atomisme de Démocrite, il est le moteur de bien des succès scientifiques. Ses adversaires objectent que certaines propriétés d'un tout, la conscience, le vivant, ne se lisent pas dans ses composants pris séparément. Il s'oppose à l'<c id='emergentism'>émergentisme</c>.",
+    "en": "Reductionism explains a whole by its simplest parts: to understand is to trace the complex back to its elements and their laws, life to chemistry, thought to neurons, the social to individuals. Inherited from the atomism of Democritus, it is the engine of many scientific successes. Its opponents object that certain properties of a whole, consciousness, the living, cannot be read off its components taken separately. It stands against <c id='emergentism'>emergentism</c>."
+  },
+  "relatedAxes": ["REDUCTION_EMERGENCE", "CONSCIOUSNESS_NATURE"],
+  "relatedTerms": ["emergentism", "materialism"],
+  "positions": [{ "axisId": "REDUCTION_EMERGENCE", "poleId": "REDUCTIONISM" }],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

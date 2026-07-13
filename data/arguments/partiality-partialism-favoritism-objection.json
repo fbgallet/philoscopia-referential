@@ -1,0 +1,69 @@
+{
+  "id": "partiality-partialism-favoritism-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "PARTIALITY", "poleId": "PARTIALISM" },
+  "name": { "fr": "La pente du favoritisme", "en": "The slope of favoritism" },
+  "claim": {
+    "fr": "Si le lien suffit à justifier, il excuse aussi le clan contre l'étranger.",
+    "en": "If the bond is enough to justify, it also excuses the clan against the outsider."
+  },
+  "development": [
+    {
+      "fr": "Le mouvement qui me fait passer les miens d'abord nourrit, à plus grande échelle, le népotisme, l'esprit de clan, la fermeture à l'étranger.",
+      "en": "The impulse that makes me put my own first feeds, on a larger scale, nepotism, the clan spirit, the closing of the door to the outsider."
+    },
+    {
+      "fr": "Si le lien est à lui seul une raison suffisante, qu'est-ce qui m'arrête de préférer ma tribu à l'humanité, et de refuser ma porte à qui n'en est pas ?",
+      "en": "If the bond is by itself a sufficient reason, what stops me from preferring my tribe to humanity, and shutting my door on whoever does not belong to it?"
+    },
+    {
+      "fr": "Bien des injustices ne viennent pas de l'oubli des proches, mais de l'excès inverse : la fidélité aux siens érigée en seule loi.",
+      "en": "Many injustices come not from neglecting one's own, but from the opposite excess: loyalty to one's own raised into the only law."
+    }
+  ],
+  "conclusion": {
+    "fr": "Une partialité sans contrepartie ouvre donc la voie aux préférences les plus injustes, faute d'un principe qui la borne.",
+    "en": "A partiality with no counterweight thus opens the way to the most unjust preferences, for lack of a principle to bound it."
+  },
+  "difficulty": 2,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "L'objection porte : si le lien excuse tout, il faut bien un principe d'égalité au-dessus de lui.",
+        "en": "The objection lands: if the bond excuses everything, there must be a principle of equality above it."
+      },
+      "hints": [{ "axisId": "PARTIALITY", "value": { "kind": "scalar", "value": -1 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous reconnaissez qu'au-dessus des liens doit veiller une exigence impartiale.",
+        "en": "You acknowledge that above the bonds an impartial demand must keep watch."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je tiens aux devoirs envers les miens, mais je les soumets à une exigence d'égalité plus large.",
+        "en": "I hold to my duties toward my own, but I submit them to a wider demand for equality."
+      },
+      "hints": [{ "axisId": "PARTIALITY", "value": { "kind": "scalar", "value": 0 }, "weight": 0.7 }],
+      "discussion": {
+        "fr": "Vous logez la partialité à l'intérieur d'un cadre impartial : la voie des cercles concentriques.",
+        "en": "You house partiality within an impartial frame: the path of concentric circles."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : aimer les siens n'est pas du favoritisme ; l'injustice, c'est le népotisme, l'abus d'un pouvoir public, pas l'amour des proches.",
+        "en": "I refute it: loving one's own is not favoritism; injustice is nepotism, the abuse of a public power, not love of those close to us."
+      },
+      "hints": [{ "axisId": "PARTIALITY", "value": { "kind": "scalar", "value": 1 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous distinguez la fidélité légitime du détournement d'un pouvoir qui n'est pas à nous.",
+        "en": "You distinguish legitimate loyalty from the misuse of a power that is not ours to give."
+      }
+    }
+  ],
+  "targets": ["partiality-partialism-constitutive-bonds"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

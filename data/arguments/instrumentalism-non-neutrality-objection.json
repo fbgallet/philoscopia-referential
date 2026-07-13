@@ -1,0 +1,73 @@
+{
+  "id": "instrumentalism-non-neutrality-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "TECHNOLOGY", "median": true },
+  "name": { "fr": "L'outil n'est pas neutre", "en": "No tool is neutral" },
+  "claim": {
+    "fr": "Un objet conçu pour une certaine conduite n'attend pas l'usage : il l'incline déjà.",
+    "en": "An object designed for a certain behaviour does not wait for use: it already inclines it."
+  },
+  "summary": {
+    "fr": "L'idée d'un outil neutre suppose un moyen indifférent ; mais un dispositif pensé pour vous retenir oriente la conduite avant même qu'on en décide.",
+    "en": "The idea of a neutral tool assumes an indifferent means; but a device meant to hold you steers behaviour before one even decides."
+  },
+  "development": [
+    {
+      "fr": "Dire « tout dépend de l'usage » suppose que l'outil est un moyen indifférent, également disponible pour le meilleur et pour le pire. C'est vrai d'un marteau, qui dort dans le tiroir sans rien vous demander.",
+      "en": "To say « everything depends on the use » assumes the tool is an indifferent means, equally available for better or worse. That is true of a hammer, which lies in the drawer asking nothing of you."
+    },
+    {
+      "fr": "Mais le fil d'actualité n'attend pas dans le tiroir : défilement sans fin, notifications, récompenses imprévisibles, tout y est calculé pour que vous restiez. Ce n'est pas un moyen neutre que vous saisissez, c'est un dispositif qui sollicite, oriente, et rend une conduite plus facile que les autres.",
+      "en": "But the feed does not wait in the drawer: endless scrolling, notifications, unpredictable rewards, everything in it is calculated to keep you there. It is not a neutral means you pick up, it is a device that solicits, steers, and makes one behaviour easier than the rest."
+    },
+    {
+      "fr": "Un objet n'impose rien, soit, mais il dispose. La rampe invite à descendre, le banc à s'asseoir, le fil d'actualité à faire défiler encore. Croire l'usage entièrement libre, c'est oublier que la forme même de l'outil a déjà orienté la conduite avant qu'on s'en serve.",
+      "en": "An object imposes nothing, granted, but it disposes. The slide invites you to slide down, the bench to sit, the feed to keep scrolling. To believe use entirely free is to forget that the very form of the tool has already steered behaviour before one uses it."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc « ce n'est pas l'outil, c'est l'usage » est trop court : la frontière entre l'outil et l'usage est précisément ce que l'objet est fait pour déplacer.",
+    "en": "So « it's not the tool, it's the use » is too quick: the line between tool and use is precisely what the object is built to move."
+  },
+  "difficulty": 2,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "L'objection porte : un dispositif fait pour me retenir n'est pas un instrument neutre parmi d'autres.",
+        "en": "The objection lands: a device built to hold me is not a neutral instrument among others."
+      },
+      "hints": [{ "axisId": "TECHNOLOGY", "value": { "kind": "scalar", "value": 1 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous accordez à l'objet une part d'initiative que l'idée d'outil neutre lui refusait.",
+        "en": "You grant the object a share of initiative that the idea of a neutral tool denied it."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je précise ma position : l'outil incline, mais c'est encore à moi de céder ou non ; connaître sa pente ne me dispense pas d'en répondre.",
+        "en": "I refine my position: the tool inclines, but it is still up to me to yield or not; knowing its slope does not excuse me from answering for it."
+      },
+      "hints": [{ "axisId": "TECHNOLOGY", "value": { "kind": "scalar", "value": 0 }, "weight": 0.8 }],
+      "discussion": {
+        "fr": "Vous gardez l'usage au centre, en intégrant la pente de l'objet comme une donnée à connaître.",
+        "en": "You keep use at the centre, taking the object's slope as a fact to be reckoned with."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : une rampe, un banc, un fil, rien de tout cela ne décide à ma place ; l'objet propose, c'est moi qui dispose.",
+        "en": "I refute it: a slide, a bench, a feed, none of these decides in my place; the object proposes, I dispose."
+      },
+      "hints": [{ "axisId": "TECHNOLOGY", "value": { "kind": "scalar", "value": 0 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous maintenez la souveraineté de l'usager : la pente d'un objet n'est jamais qu'une invitation déclinable.",
+        "en": "You maintain the user's sovereignty: an object's slope is never more than an invitation one can decline."
+      }
+    }
+  ],
+  "targets": ["instrumentalism-use-decides"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

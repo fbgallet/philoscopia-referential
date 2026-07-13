@@ -19,6 +19,7 @@
   "poles": [
     {
       "id": "DOGMATISM",
+      "concept": "dogmatism",
       "label": {
         "fr": "Dogmatisme",
         "en": "Dogmatism"
@@ -39,6 +40,7 @@
     },
     {
       "id": "SKEPTICISM",
+      "concept": "skepticism",
       "label": {
         "fr": "Scepticisme",
         "en": "Skepticism"

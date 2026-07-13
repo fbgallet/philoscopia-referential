@@ -4,15 +4,25 @@
 // contract this module enforces (plus the write-time rules JSON Schema cannot
 // express: POSITIONED requires a value, values must fit the axis's shape).
 
-import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
+import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 import { Ajv2020, type ValidateFunction } from "ajv/dist/2020.js";
 import { poleWeight, positionValueText, type Corpus, type Locale } from "./corpus.js";
 
 /* eslint-disable @typescript-eslint/no-explicit-any */
 
-export const COLLECTIONS = ["beliefs", "concepts", "affinities", "inquiries", "practices"] as const;
+export const COLLECTIONS = ["beliefs", "concepts", "affinities", "inquiries", "practices", "quotes", "readings"] as const;
 export type CollectionName = (typeof COLLECTIONS)[number];
+
+export const EXPERTISE_LEVELS = ["BEGINNER", "AMATEUR", "EXPERT"] as const;
+
+/** The manifest's user block: expertise register + goals and motivations in
+ * the user's own words. In setUser patches, null deletes a field. */
+export interface UserBlock {
+  expertise?: (typeof EXPERTISE_LEVELS)[number] | null;
+  goals?: string | null;
+  motivations?: string | null;
+}
 
 const ID_PREFIX: Record<CollectionName, string> = {
   beliefs: "b",
@@ -20,7 +30,14 @@ const ID_PREFIX: Record<CollectionName, string> = {
   affinities: "a",
   inquiries: "q",
   practices: "p",
+  quotes: "qt",
+  readings: "rd",
 };
+
+/** Collections whose generated ids carry the capture date (qt-2026-07-05-…),
+ * per the published format's examples: a florilège and a reading register are
+ * chronological by nature. */
+const DATED_IDS = new Set<CollectionName>(["quotes", "readings"]);
 
 /** Markers of the pre-2026-07 workspace format, detected when a strict-schema
  * validation fails so the error explains the situation instead of a raw ajv
@@ -46,6 +63,8 @@ const LIST_FORMATS: Record<CollectionName, string> = {
   affinities: "id · FEELING[+exemplar] · CATEGORY? · subject (figureRef?)",
   inquiries: "id · KIND[/T_T|T_V]/STATUS[/PRIORITY] · statement",
   practices: "id · KIND[/FREQUENCY] · statement",
+  quotes: 'id · "text" · source?',
+  readings: "id · SCOPE/STATUS[/APPRAISAL] · title (workRef?)",
 };
 
 const compactLine = (name: CollectionName, i: any): string => {
@@ -69,6 +88,16 @@ const compactLine = (name: CollectionName, i: any): string => {
       return [i.id, [i.kind, i.tensionType, i.status, i.priority].filter(Boolean).join("/"), i.statement].join(" · ");
     case "practices":
       return [i.id, [i.kind, i.frequency].filter(Boolean).join("/"), i.statement].join(" · ");
+    case "quotes":
+      return [i.id, `"${i.text}"`, i.source].filter(Boolean).join(" · ");
+    case "readings":
+      return [
+        i.id,
+        [i.scope, i.status, i.appraisal].filter(Boolean).join("/"),
+        i.workRef ? `${i.title ?? i.workRef} (${i.workRef})` : i.title,
+      ]
+        .filter(Boolean)
+        .join(" · ");
   }
 };
 
@@ -148,7 +177,7 @@ export class Workspace {
 
   // ── init ───────────────────────────────────────────────────────────────
 
-  init(locale: Locale): string {
+  init(locale: Locale, user?: UserBlock): string {
     if (this.exists()) throw new Error(`A workspace already exists at ${this.dir}.`);
     try {
       mkdirSync(join(this.dir, "journal"), { recursive: true });
@@ -171,6 +200,7 @@ export class Workspace {
         syncedAt: this.corpus.paths.meta?.bundledAt ?? now,
         ...(this.corpus.paths.meta?.commit ? { commit: this.corpus.paths.meta.commit } : {}),
       },
+      ...(user && Object.keys(user).length > 0 ? { user: { ...user, updatedAt: now } } : {}),
     });
     this.write("profile", { entries: {} });
     for (const name of COLLECTIONS) this.write(name, []);
@@ -180,6 +210,21 @@ export class Workspace {
   manifest(): any {
     this.requireWorkspace();
     return this.read("philoscopia");
+  }
+
+  /** Shallow-merge a patch into the manifest's user block; null deletes a
+   * field. goals/motivations are the USER's words and are expected to evolve. */
+  setUser(patch: UserBlock): any {
+    const manifest = this.manifest();
+    const user: Record<string, any> = { ...(manifest.user ?? {}) };
+    for (const [key, value] of Object.entries(patch)) {
+      if (value === null) delete user[key];
+      else if (value !== undefined) user[key] = value;
+    }
+    user.updatedAt = new Date().toISOString();
+    manifest.user = user;
+    this.write("philoscopia", manifest);
+    return user;
   }
 
   // ── profile ────────────────────────────────────────────────────────────
@@ -332,7 +377,8 @@ export class Workspace {
       throw new Error(`"${entry.ref}" is already adopted in ${name}.json.`);
     }
     if (!entry.id && !entry.ref) {
-      const base: string = entry.statement ?? entry.subject ?? entry.term ?? "entry";
+      const base: string =
+        entry.statement ?? entry.subject ?? entry.term ?? entry.text ?? entry.title ?? entry.workRef?.slice(2) ?? "entry";
       const slug = base
         .toLowerCase()
         .normalize("NFD")
@@ -342,14 +388,15 @@ export class Workspace {
         .split("-")
         .slice(0, 5)
         .join("-");
-      entry.id = `${ID_PREFIX[name]}-${slug}`;
+      const prefix = DATED_IDS.has(name) ? `${ID_PREFIX[name]}-${now.slice(0, 10)}` : ID_PREFIX[name];
+      entry.id = `${prefix}-${slug}`;
       let n = 2;
-      while (items.some((i) => i.id === entry.id)) entry.id = `${ID_PREFIX[name]}-${slug}-${n++}`;
+      while (items.some((i) => i.id === entry.id)) entry.id = `${prefix}-${slug}-${n++}`;
     }
     if (entry.id && items.some((i) => i.id === entry.id)) throw new Error(`Duplicate id "${entry.id}" in ${name}.json.`);
     if (!entry.ref) {
       entry.createdAt ??= now;
-      if (name !== "concepts" && name !== "affinities") entry.updatedAt ??= now;
+      if (name !== "concepts" && name !== "affinities" && name !== "quotes") entry.updatedAt ??= now;
     }
     if (name === "inquiries") entry.status ??= "ACTIVE";
     this.checkRefs(entry);
@@ -366,7 +413,7 @@ export class Workspace {
     if (index < 0) throw new Error(`No entry "${id}" in ${name}.json.`);
     const updated = { ...items[index], ...patch };
     for (const [key, value] of Object.entries(patch)) if (value === null && key !== "resolution") delete updated[key];
-    if ("updatedAt" in items[index] || (name !== "concepts" && name !== "affinities" && !updated.ref)) {
+    if ("updatedAt" in items[index] || (name !== "concepts" && name !== "affinities" && name !== "quotes" && !updated.ref)) {
       updated.updatedAt = new Date().toISOString();
     }
     // Only the refs the patch introduces are gated: a ref already on disk that
@@ -390,6 +437,19 @@ export class Workspace {
         "facets/figureRef describe an exemplar affinity: set exemplar true (a model when LOVE, an anti-model when HATE) or drop them.",
       );
     }
+    if (name === "readings") {
+      if (!entry.title && !entry.workRef) {
+        throw new Error("A reading needs a title (free text) or a workRef (w:… into the works registry).");
+      }
+      if (Array.isArray(entry.quotes)) {
+        const kept = new Set((this.read("quotes") as any[]).map((q) => q.id));
+        for (const id of entry.quotes) {
+          if (!kept.has(id)) {
+            throw new Error(`Reading quote "${id}" is not in quotes.json: add the quote entry first, then link it.`);
+          }
+        }
+      }
+    }
   }
 
   /** Every prefixed ref carried by an entry (list fields + ref/figureRef). */
@@ -398,8 +458,14 @@ export class Workspace {
     for (const key of ["relatedAxes", "anchors", "grounds", "challengedBy", "inspiredBy", "relatedConcepts"]) {
       if (Array.isArray(entry[key])) refs.push(...entry[key]);
     }
-    for (const key of ["ref", "figureRef"]) {
+    for (const key of ["ref", "figureRef", "workRef"]) {
       if (typeof entry[key] === "string") refs.push(entry[key]);
+    }
+    // A reading's agreements/disagreements may each echo a referential position.
+    for (const key of ["agreements", "disagreements"]) {
+      if (Array.isArray(entry[key])) {
+        for (const stance of entry[key]) if (typeof stance?.ref === "string") refs.push(stance.ref);
+      }
     }
     return refs;
   }
@@ -477,7 +543,13 @@ export class Workspace {
 
   // ── journal ────────────────────────────────────────────────────────────
 
-  logSession(args: { slug: string; content: string; modalities?: string[]; touched?: string[] }): string {
+  logSession(args: {
+    slug: string;
+    content: string;
+    modalities?: string[];
+    touched?: string[];
+    next?: string;
+  }): string {
     this.requireWorkspace();
     const date = new Date().toISOString().slice(0, 10);
     const name = `${date}-${args.slug}`.toLowerCase().replace(/[^a-z0-9-]+/g, "-");
@@ -494,8 +566,116 @@ export class Workspace {
     ].join("\n");
     mkdirSync(join(this.dir, "journal"), { recursive: true });
     writeFileSync(join(this.dir, path), `${frontmatter}${args.content.trim()}\n`);
+    // The open thread: kept until a later session replaces it (a session that
+    // sets no next leaves the previous one standing — still not picked up).
+    if (args.next) {
+      const manifest = this.read("philoscopia");
+      manifest.next = { statement: args.next, at: new Date().toISOString(), session: path };
+      this.write("philoscopia", manifest);
+    }
     this.refreshPin();
     return path;
+  }
+
+  /** The latest journal entry (files are date-prefixed, so name order is date
+   * order), with its frontmatter refs. Null when the journal is empty. */
+  lastSession(): { path: string; date: string; slug: string; touched?: string[] } | null {
+    this.requireWorkspace();
+    const journalDir = join(this.dir, "journal");
+    if (!existsSync(journalDir)) return null;
+    const files = readdirSync(journalDir)
+      .filter((f) => /^\d{4}-\d{2}-\d{2}-.+\.md$/.test(f))
+      .sort();
+    const file = files[files.length - 1];
+    if (!file) return null;
+    const date = file.slice(0, 10);
+    const slug = file.slice(11).replace(/(-\d+)?\.md$/, "");
+    const touchedLine = readFileSync(join(journalDir, file), "utf8").match(/^touched: \[(.*)\]$/m);
+    const touched = touchedLine?.[1] ? touchedLine[1].split(",").map((s) => s.trim()) : undefined;
+    return { path: `journal/${file}`, date, slug, ...(touched?.length ? { touched } : {}) };
+  }
+
+  // ── syntheses ──────────────────────────────────────────────────────────
+  // syntheses/<id>.md: AI-generated profile portraits, one immutable dated
+  // generation per file. The frontmatter shape is shared byte-for-byte with
+  // the web app's vault writer (packages/profile/src/vault/syntheses.ts in
+  // the source monorepo), so the two writers union by id with no content
+  // reconciliation. An existing file is NEVER rewritten.
+
+  /** Quote a YAML scalar the way the web writer does (plain when safe). */
+  private static yamlScalar(value: string): string {
+    return /^[A-Za-z0-9_/:.-]+$/.test(value) ? value : `"${value.replace(/\\/g, "\\\\").replace(/"/g, '\\"')}"`;
+  }
+
+  writeSynthesis(args: { text: string; scope?: string; model?: string; slug?: string }): { id: string; path: string } {
+    this.requireWorkspace();
+    const text = args.text.trim();
+    if (!text) throw new Error("A synthesis needs a non-empty text.");
+    const at = new Date().toISOString();
+    const date = at.slice(0, 10);
+    const slug = (args.slug ?? args.scope ?? "profile")
+      .toLowerCase()
+      .normalize("NFD")
+      .replace(/[̀-ͯ]/g, "")
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/^-+|-+$/g, "")
+      .split("-")
+      .slice(0, 5)
+      .join("-");
+    mkdirSync(join(this.dir, "syntheses"), { recursive: true });
+    // Generations are immutable: a colliding id gets a -2/-3… suffix, never a rewrite.
+    let id = `syn-${date}-${slug || "profile"}`;
+    let n = 2;
+    while (existsSync(join(this.dir, "syntheses", `${id}.md`))) id = `syn-${date}-${slug || "profile"}-${n++}`;
+    const lines = [
+      "---",
+      "philoscopia:",
+      "  collection: syntheses",
+      `  id: ${id}`,
+      `at: ${at}`,
+      `date: ${date}`,
+      ...(args.model ? [`model: ${Workspace.yamlScalar(args.model)}`] : []),
+      ...(args.scope ? [`scope: ${Workspace.yamlScalar(args.scope)}`] : []),
+      "---",
+      "",
+      text,
+    ];
+    const path = `syntheses/${id}.md`;
+    writeFileSync(join(this.dir, path), `${lines.join("\n")}\n`);
+    this.refreshPin();
+    return { id, path };
+  }
+
+  /** Parse one syntheses/*.md file; null without a valid philoscopia marker
+   * (stray notes in the folder are ignored, never guessed) — the same
+   * tolerance as the web reader. */
+  private parseSynthesis(raw: string): { id: string; at: string; model?: string; scope?: string; text: string } | null {
+    const fm = raw.match(/^---\n([\s\S]*?)\n---\n?([\s\S]*)$/);
+    if (!fm) return null;
+    const head = fm[1];
+    if (!/^\s*collection:\s*syntheses\s*$/m.test(head)) return null;
+    const id = head.match(/^\s*id:\s*(\S+)\s*$/m)?.[1];
+    const at = head.match(/^at:\s*(\S+)\s*$/m)?.[1];
+    if (!id || !at) return null;
+    const unquote = (v: string | undefined): string | undefined =>
+      v === undefined ? undefined : v.replace(/^"(.*)"$/s, "$1").replace(/\\"/g, '"').replace(/\\\\/g, "\\");
+    const model = unquote(head.match(/^model:\s*(.+?)\s*$/m)?.[1]);
+    const scope = unquote(head.match(/^scope:\s*(.+?)\s*$/m)?.[1]);
+    const body = fm[2].trim();
+    if (!body) return null;
+    return { id, at, text: body, ...(model ? { model } : {}), ...(scope ? { scope } : {}) };
+  }
+
+  /** All valid syntheses in the folder, oldest first. */
+  syntheses(): Array<{ id: string; at: string; model?: string; scope?: string; text: string }> {
+    this.requireWorkspace();
+    const dir = join(this.dir, "syntheses");
+    if (!existsSync(dir)) return [];
+    return readdirSync(dir)
+      .filter((f) => f.endsWith(".md"))
+      .map((f) => this.parseSynthesis(readFileSync(join(dir, f), "utf8")))
+      .filter((s): s is NonNullable<typeof s> => s !== null)
+      .sort((a, b) => a.at.localeCompare(b.at));
   }
 
   // ── compaction ─────────────────────────────────────────────────────────
@@ -511,6 +691,8 @@ export class Workspace {
       practices: () => false, // the format has no closed state for practices
       concepts: () => false,
       affinities: () => false,
+      quotes: () => false, // a florilège only grows
+      readings: (i) => i.status === "ABANDONED",
     };
     const moved: Record<string, number> = {};
     for (const name of COLLECTIONS) {

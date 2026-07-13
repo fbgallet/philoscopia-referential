@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "ellul",
+  "stub": true,
+  "name": {
+    "fr": "Jacques Ellul",
+    "en": "Jacques Ellul"
+  },
+  "summary": {
+    "fr": "Penseur français de la technique : il décrit un « système technicien » devenu autonome, qui n'obéit qu'à sa propre efficacité et façonne la société bien plus qu'il ne la sert.",
+    "en": "French thinker of technology: he described a \"technological system\" grown autonomous, obeying nothing but its own efficiency and shaping society far more than it serves it."
+  },
+  "birth": 1912,
+  "death": 1994,
+  "nationality": {
+    "fr": "Français",
+    "en": "French"
+  },
+  "movements": [],
+  "updatedAt": "2026-07-13T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

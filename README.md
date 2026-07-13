@@ -4,6 +4,8 @@ An open, bilingual (EN/FR) referential for mapping philosophical positions: **72
 
 This referential powers **Philoscopia**, a philosophical companion for discovering the worldviews of philosophers and building one's own. The data is published here so that anyone — researchers, teachers, developers, or anyone with an LLM — can explore, reuse, criticize and improve it.
 
+More than an encyclopedic referential, this is a **didactic** one — distilled from over twenty years of philosophy teaching. Every layer is built so that you (and your AI assistant) can actually *do* philosophy, not just look it up: uncover the positions you already hold, put them to the test against the strongest objections, and build a structured workspace of your own ideas.
+
 ## What's inside
 
 Everything lives under `data/`, one JSON file per entity:
@@ -20,6 +22,7 @@ Everything lives under `data/`, one JSON file per entity:
 | `glossary/` | Definitions of the concepts referenced across the corpus. |
 | `works/` | A registry of the works cited or tagged in the corpus. |
 | `thought-experiments/` | Classic thought experiments (the trolley problem, the experience machine, the ring of Gyges, …) linked to the axes they put under stress. |
+| `arguments/` | The canonical arguments (SUPPORTS) and objections (OBJECTS) bearing on a position: a chain of reasons with optional deepenings, sources, and — for objections — the honest ways out (revise / qualify / hold firm). |
 
 ## Browse the corpus
 
@@ -37,7 +40,7 @@ The full semantics of the model — the three registers, axis types and position
 
 ## Using this data with an LLM
 
-The easiest way: the **[MCP server](mcp/)** (`npx philoscopia-mcp`). It serves the whole referential to any MCP-capable assistant and maintains your own philosophical profile in a local, private `my-philosophy/` folder — plain JSON and markdown you own, validated against the published schemas, no network calls. On top of it, six **[exploration skills](skills/)** give your assistant the conversational craft: `philo-discover` (uncover positions you didn't know you held), `philo-examine` (Socratic testing of a belief), `philo-compare` (face to face with a figure), `philo-read` (follow the thread of a text together), `philo-concept` (experience what a concept changes), `philo-articulate` (train saying what you think).
+The easiest way: the **[MCP server](mcp/)** (`npx philoscopia-mcp`). It serves the whole referential to any MCP-capable assistant and maintains your own philosophical profile in a local, private `my-philosophy/` folder — plain JSON and markdown you own, validated against the published schemas, no network calls. It is the same workspace you build on the Philoscopia site, so the two complete each other. On top of it, six **[exploration skills](skills/)** give your assistant the conversational craft: `philo-discover` (uncover positions you didn't know you held), `philo-examine` (Socratic testing of a belief), `philo-compare` (face to face with a figure), `philo-read` (follow the thread of a text together), `philo-concept` (experience what a concept changes), `philo-articulate` (train saying what you think). Together, server and skills form a coherent, complete set of protocols for exploring one's ideas and putting them to the test.
 
 **What this is not.** Said plainly: an AI companion does not replace a living conversation with humans — a friend, a teacher, a philosopher; it does not replace reading the philosophers themselves, because following the thread of a thought is an experience of its own (the reading skill brings texts *into* the practice precisely for that reason); and it does not replace the lived practice of one's principles. The system is designed to point toward all three.
 

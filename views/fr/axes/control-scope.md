@@ -35,6 +35,18 @@ Entre accepter ce qui ne dépend pas de nous et vouloir tout transformer, il s'a
 - **Espérer, est-ce sage ?** : L'espérance, qui nous lie à des choses hors de notre pouvoir, est-elle une faiblesse qui trouble l'âme, ou le ressort même qui pousse à transformer ce qui peut l'être ?
 - **Faire la paix avec ce qui fut** : Le passé est ce qui ne dépend plus de nous par excellence : faut-il l'accepter pleinement, jusqu'à vouloir qu'il ait été, ou en rester prisonnier par le regret ?
 
+## Arguments
+
+- *Ce qui dépend de nous* · pour : [La citadelle intérieure](../arguments/control-dichotomy-inner-sovereignty.md)
+- *Ce qui dépend de nous* · contre : [Le reproche de résignation](../arguments/control-dichotomy-quietism-objection.md)
+- *Ce qui dépend de nous* · contre : [La liberté du renard](../arguments/control-dichotomy-sour-grapes-objection.md)
+- *Prométhéisme* · pour : [Le possible n'est pas clos](../arguments/control-prometheanism-progress.md)
+- *Prométhéisme* · contre : [Ce qu'aucun progrès ne rejoint](../arguments/control-prometheanism-finitude-objection.md)
+- *Prométhéisme* · contre : [La démesure et le retour du réel](../arguments/control-prometheanism-hubris-objection.md)
+- *Faire la part des choses* · pour : [La sagesse de la frontière](../arguments/control-median-practical-wisdom.md)
+- *Faire la part des choses* · contre : [Le confort du juste milieu](../arguments/control-median-comfort-objection.md)
+- *Faire la part des choses* · contre : [La difficulté escamotée](../arguments/control-median-empty-wisdom-objection.md)
+
 ## Axes liés
 
 [Rapport au désir](../axes/desire.md) · [Espoir](../axes/hope.md) · [Rapport au passé](../axes/past-relation.md) · [Liberté de la volonté](../axes/freedom.md) · [Souverain bien](../axes/sovereign-good.md)

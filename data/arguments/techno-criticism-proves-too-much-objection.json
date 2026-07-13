@@ -1,0 +1,73 @@
+{
+  "id": "techno-criticism-proves-too-much-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "TECHNOLOGY", "poleId": "TECHNO_CRITICISM" },
+  "name": { "fr": "La preuve trop forte", "en": "Proving too much" },
+  "claim": {
+    "fr": "Si aucune technique n'est neutre, le reproche vaut aussi pour le livre, et ne distingue plus rien.",
+    "en": "If no technology is neutral, the charge applies to the book as well, and no longer distinguishes anything."
+  },
+  "summary": {
+    "fr": "Une critique qui condamne toute technique perd tout critère ; pour trier le bon du mauvais dispositif, il faut revenir aux usages et aux fins.",
+    "en": "A critique that condemns all technology loses every criterion; to sort the good device from the bad, one must return to uses and ends."
+  },
+  "development": [
+    {
+      "fr": "Vous dites qu'aucun outil n'est neutre, que tout dispositif nous façonne. Soit. Mais alors le livre aussi nous façonne, et l'écriture, et la cathédrale, et la conversation réglée par la politesse : tout cela oriente l'attention et transforme nos vies.",
+      "en": "You say no tool is neutral, that every device shapes us. Granted. But then the book shapes us too, and writing, and the cathedral, and conversation governed by politeness: all of it steers attention and transforms our lives."
+    },
+    {
+      "fr": "Si « non neutre » se dit de tout, le mot ne sépare plus le fil qui vous capte de la bibliothèque qui vous élève. Une critique qui condamne toute technique ne donne plus aucun moyen de choisir entre elles.",
+      "en": "If « not neutral » is said of everything, the word no longer separates the feed that captures you from the library that elevates you. A critique that condemns all technology gives no means of choosing among them."
+    },
+    {
+      "fr": "Pour distinguer le bon du mauvais dispositif, il faut bien revenir à ce qu'il nous fait, à la fin qu'il sert, donc à son usage et à ses effets. Ce que la défiance voulait éviter, l'examen des usages, la voilà contrainte d'y revenir.",
+      "en": "To tell the good device from the bad, one must after all return to what it does to us, to the end it serves, hence to its use and its effects. What mistrust wished to avoid, the examination of uses, it is now forced to return to."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la critique ne tient qu'à condition de se faire discernante : non « toute technique nous aliène », mais « celle-ci, pour telle raison, nous dessert ».",
+    "en": "So the critique holds only if it becomes discerning: not « all technology alienates us », but « this one, for this reason, does us a disservice »."
+  },
+  "difficulty": 3,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est décisif : condamner la technique en bloc ne distingue plus rien, c'est aux usages et aux fins qu'il faut revenir.",
+        "en": "That is decisive: condemning technology wholesale distinguishes nothing; one must return to uses and ends."
+      },
+      "hints": [{ "axisId": "TECHNOLOGY", "value": { "kind": "scalar", "value": 0 }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous ramenez la critique sur le terrain de l'usage : non plus la technique en général, mais ce dispositif-ci et ses effets.",
+        "en": "You bring the critique back to the ground of use: no longer technology in general, but this device and its effects."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je précise : toute technique nous façonne, mais pas également ; certaines servent nos fins, d'autres nous imposent les leurs.",
+        "en": "I refine it: all technology shapes us, but not equally; some serve our ends, others impose theirs on us."
+      },
+      "hints": [{ "axisId": "TECHNOLOGY", "value": { "kind": "scalar", "value": 0.5 }, "weight": 1.5 }],
+      "discussion": {
+        "fr": "Vous gardez la défiance en la graduant : la non-neutralité admet des degrés, du livre au fil.",
+        "en": "You keep your wariness while grading it: non-neutrality admits of degrees, from the book to the feed."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : il y a là une différence de nature, non de degré ; un dispositif fait pour capter n'est pas un livre qui demande qu'on le lise.",
+        "en": "I refute it: this is a difference in kind, not in degree; a device built to capture is not a book that asks to be read."
+      },
+      "hints": [{ "axisId": "TECHNOLOGY", "value": { "kind": "scalar", "value": 1 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous tracez une frontière nette : entre l'outil qui requiert notre effort et celui qui exploite nos faiblesses, l'écart n'est pas une affaire de plus ou de moins.",
+        "en": "You draw a clear line: between the tool that demands our effort and the one that exploits our weaknesses, the gap is not a matter of more or less."
+      }
+    }
+  ],
+  "targets": ["techno-criticism-autonomous-system"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

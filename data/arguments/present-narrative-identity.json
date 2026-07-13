@@ -1,0 +1,91 @@
+{
+  "id": "present-narrative-identity",
+  "kind": "OBJECTS",
+  "position": { "axisId": "TIME_ORIENTATION", "poleId": "PRESENTISM" },
+  "name": { "fr": "Une vie n'est pas un tas d'instants", "en": "A life is not a heap of instants" },
+  "claim": {
+    "fr": "Une vie humaine n'est pas une suite d'instants, mais une histoire : sans passé ni avenir, elle se défait.",
+    "en": "A human life is not a sequence of instants but a story: without past or future, it comes undone."
+  },
+  "summary": {
+    "fr": "Tenir une promesse, aimer dans la durée, devenir quelqu'un : tout cela suppose un fil qui relie les instants, que le pur présent ne peut pas tenir.",
+    "en": "Keeping a promise, loving over time, becoming someone: all of this presupposes a thread tying the instants together, which the pure present cannot hold."
+  },
+  "development": [
+    {
+      "fr": "Accordons que seul l'instant ait une réalité. Il reste qu'une vie humaine ne se vit pas comme une suite de points sans lien : elle se comprend comme une histoire, qui a un passé dont elle répond et un avenir vers lequel elle tend.",
+      "en": "Grant that only the instant is real. It remains that a human life is not lived as a series of unconnected points: it is understood as a story, with a past it answers for and a future toward which it strains."
+    },
+    {
+      "fr": "Tout ce qui fait le prix d'une existence le suppose. Une promesse engage un moi futur ; l'amour se mesure à sa durée ; un caractère, une œuvre, une amitié se bâtissent dans le temps. Réduire la vie à l'instant, c'est dissoudre la <c id='personal-identity'>personne</c> elle-même, qui n'est quelqu'un que parce qu'elle se tient à travers le temps.",
+      "en": "Everything that makes an existence worthwhile presupposes it. A promise binds a future self; love is measured by its duration; a character, a work, a friendship are built over time. To reduce life to the instant is to dissolve the <c id='personal-identity'>person</c> herself, who is someone only because she holds together across time."
+    },
+    {
+      "fr": "Le présentiste conséquent devrait renoncer à se promettre quoi que ce soit, à compter sur demain, à se reconnaître dans hier. Mais nul ne vit ainsi : même celui qui prône de vivre l'instant fait des projets, garde des fidélités, se souvient.",
+      "en": "The consistent presentist would have to give up promising anything, counting on tomorrow, recognizing himself in yesterday. But no one lives that way: even the one who preaches living in the moment makes plans, keeps loyalties, remembers."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc le pur présent ne suffit pas à porter une vie : il faut bien un fil qui relie les instants, et ce fil, c'est déjà se projeter et se souvenir.",
+    "en": "So the pure present is not enough to carry a life: there must be a thread linking the instants, and that thread is already to project oneself and to remember."
+  },
+  "deepenings": [
+    {
+      "id": "the-promise",
+      "label": { "fr": "Qui tient une promesse ?", "en": "Who keeps a promise?" },
+      "targetStep": 1,
+      "development": [
+        {
+          "fr": "Promettre, c'est lier d'avance un moi que je ne suis pas encore : je réponds aujourd'hui de ce que je ferai demain. <ph id='nietzsche'>Nietzsche</ph> voyait dans l'homme l'animal « qui a le droit de faire des promesses », non parce qu'il vit l'instant, mais parce qu'il le dépasse, en se tenant pour le même d'un bout à l'autre de sa parole.",
+          "en": "To promise is to bind in advance a self I am not yet: today I answer for what I will do tomorrow. <ph id='nietzsche'>Nietzsche</ph> saw in man the animal « entitled to make promises », not because he lives in the instant, but because he goes beyond it, holding himself the same from one end of his word to the other."
+        },
+        {
+          "fr": "Sans cette continuité, ni promesse ni engagement n'auraient de sens : ce qui fait le prix d'une parole, c'est précisément qu'elle traverse le temps.",
+          "en": "Without this continuity, neither promise nor commitment would have any meaning: what makes a word worth anything is precisely that it spans time."
+        }
+      ],
+      "source": { "author": { "fr": "Nietzsche", "en": "Nietzsche" }, "figures": [{ "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" }], "work": { "fr": "Généalogie de la morale", "en": "On the Genealogy of Morality" }, "workId": "on-the-genealogy-of-morality-nietzsche" }
+    }
+  ],
+  "difficulty": 2,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est juste : une vie est une histoire, pas une poussière d'instants. Ce qui compte se construit dans la durée, et donc se projette.",
+        "en": "That is right: a life is a story, not a dust of instants. What matters is built over time, and so it projects ahead."
+      },
+      "hints": [{ "axisId": "TIME_ORIENTATION", "value": { "kind": "weights", "weights": [0.15, 0.7, 0.15] }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous passez du présent au projet : si une vie se tient par un fil, alors vivre, c'est tendre vers ce qu'on veut en faire.",
+        "en": "You pass from the present to the project: if a life holds together by a thread, then to live is to strain toward what one wants to make of it."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je garde le présent comme lieu de la vie, mais je lui rends un fil : on peut habiter l'instant sans renoncer à une histoire.",
+        "en": "I keep the present as the place of life, but I give it back a thread: one can inhabit the instant without giving up a story."
+      },
+      "hints": [{ "axisId": "TIME_ORIENTATION", "value": { "kind": "weights", "weights": [0.6, 0.25, 0.15] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Le présent reste le seul temps vécu, mais traversé par une mémoire et un dessein qui l'empêchent de se défaire.",
+        "en": "The present remains the only time lived, but run through by a memory and a purpose that keep it from coming undone."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "L'histoire que je me raconte est faite, elle aussi, d'instants présents : se souvenir, promettre, ce sont des actes d'aujourd'hui. Le fil ne sort jamais du présent.",
+        "en": "The story I tell myself is itself made of present instants: remembering, promising, these are acts of today. The thread never leaves the present."
+      },
+      "hints": [{ "axisId": "TIME_ORIENTATION", "value": { "kind": "weights", "weights": [1, 0, 0] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Le passé et l'avenir n'existent que comme présents, ceux où l'on se souvient et où l'on prévoit. Vivre l'instant, c'est aussi y tenir son histoire.",
+        "en": "Past and future exist only as presents, the ones in which we remember and foresee. To live the instant is also to hold one's story within it."
+      }
+    }
+  ],
+  "targets": ["present-only-time-ours"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "theodicy",
+  "term": { "fr": "Théodicée", "en": "Theodicy" },
+  "definition": {
+    "fr": "Une théodicée, <ety>du grec theos, dieu, et dikê, justice</ety>, est une tentative de justifier la bonté et la toute-puissance de Dieu malgré l'existence du mal. Le mot est forgé par <ph id='leibniz'>Leibniz</ph>, qui soutient que notre monde, malgré ses maux, est « le meilleur des mondes possibles ». D'autres invoquent le libre arbitre, l'harmonie du tout, ou une fin qui nous dépasse. C'est la grande réponse au <ax id='PROBLEM_OF_EVIL'>problème du mal</ax> ; sa contestation frontale s'appelle l'anti-théodicie.",
+    "en": "A theodicy, <ety>from the Greek theos, god, and dikê, justice</ety>, is an attempt to justify the goodness and omnipotence of God despite the existence of evil. The word is coined by <ph id='leibniz'>Leibniz</ph>, who argues that our world, for all its ills, is \"the best of all possible worlds\". Others appeal to free will, the harmony of the whole, or an end that surpasses us. It is the great answer to the <ax id='PROBLEM_OF_EVIL'>problem of evil</ax>; its head-on refusal is called anti-theodicy."
+  },
+  "relatedAxes": ["PROBLEM_OF_EVIL", "GOD_EXISTENCE"],
+  "relatedTerms": ["theism", "atheism"],
+  "positions": [{ "axisId": "PROBLEM_OF_EVIL", "poleId": "THEODICY" }],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

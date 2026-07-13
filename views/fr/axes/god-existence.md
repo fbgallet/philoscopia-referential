@@ -20,7 +20,7 @@ Il existe un Dieu, créateur ou fondement du monde, personnel ou non, dont la r�
 
 Dieu n'existe pas : aucune réalité divine, personnelle ou impersonnelle, ne fonde le monde, et l'idée de Dieu s'explique par des causes humaines, psychologiques ou sociales. Le sens de la vie est à construire sans recours au divin.
 
-*Feuerbach · [Nietzsche](../philosophers/nietzsche.md) · [Russell](../philosophers/russell.md)*
+*[Feuerbach](../philosophers/feuerbach.md) · [Nietzsche](../philosophers/nietzsche.md) · [Russell](../philosophers/russell.md)*
 
 ### Agnosticisme (Huxley) (position médiane)
 

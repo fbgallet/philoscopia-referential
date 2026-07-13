@@ -1,0 +1,95 @@
+{
+  "id": "freedom-determinist-illusion",
+  "kind": "OBJECTS",
+  "position": { "axisId": "FREEDOM", "poleId": "FREE_WILL" },
+  "name": { "fr": "L'argument de l'illusion", "en": "The illusion argument" },
+  "claim": {
+    "fr": "Ce sentiment de liberté pourrait n'être que l'ignorance de nos causes.",
+    "en": "This feeling of freedom might be nothing but ignorance of our causes."
+  },
+  "development": [
+    {
+      "fr": "Tout état du monde découle de l'état antérieur selon des lois : c'est l'hypothèse <c id='determinism'>déterministe</c>, qui réussit partout ailleurs, de l'astre à la cellule.",
+      "en": "Every state of the world follows from the prior state according to laws: the <c id='determinism'>determinist</c> hypothesis, which succeeds everywhere else, from stars to cells."
+    },
+    {
+      "fr": "Or mon cerveau, qui délibère, est un fragment de ce monde ; ses états suivent donc, eux aussi, de causes antérieures.",
+      "en": "But my brain, which deliberates, is a fragment of that world; its states too therefore follow from prior causes."
+    },
+    {
+      "fr": "Le moment vécu du « choix » n'est alors qu'un maillon de cette chaîne : ressenti de l'intérieur, mais déjà engagé avant que j'en décide.",
+      "en": "The lived moment of \"choice\" is then merely a link in that chain: felt from within, but already under way before I decide it."
+    }
+  ],
+  "conclusion": {
+    "fr": "Le sentiment de choisir librement n'est donc pas une preuve de liberté.",
+    "en": "The feeling of choosing freely is therefore no proof of freedom."
+  },
+  "difficulty": 2,
+  "source": { "author": { "fr": "Spinoza", "en": "Spinoza" }, "figures": [{ "name": { "fr": "Spinoza", "en": "Spinoza" }, "kind": "PHILOSOPHER", "slug": "spinoza" }], "work": { "fr": "Lettre à Schuller", "en": "Letter to Schuller" }, "year": 1674 },
+  "deepenings": [
+    {
+      "id": "libet",
+      "label": { "fr": "Les expériences de Libet", "en": "Libet's experiments" },
+      "targetStep": 2,
+      "development": [
+        {
+          "fr": "Dès les années 1980, <per>Libet</per> observe un « potentiel de préparation » cérébral qui précède de plusieurs centaines de millisecondes la conscience d'avoir décidé.",
+          "en": "From the 1980s, <per>Libet</per> records a cerebral \"readiness potential\" that precedes the awareness of having decided by several hundred milliseconds."
+        },
+        {
+          "fr": "Si l'amorce de l'acte précède la décision consciente, le sentiment de « choisir maintenant » arriverait après coup, comme un commentaire de ce qui est déjà engagé.",
+          "en": "If the act is initiated before the conscious decision, the feeling of \"choosing now\" would come after the fact, as a commentary on what is already under way."
+        }
+      ],
+      "source": { "author": { "fr": "Libet", "en": "Libet" }, "year": 1983 }
+    },
+    {
+      "id": "spinoza-stone",
+      "label": { "fr": "L'image de la pierre, chez Spinoza", "en": "Spinoza's image of the stone" },
+      "summary": { "fr": "La pierre lancée qui se croirait libre de son vol.", "en": "The thrown stone that would think its flight free." },
+      "development": [
+        {
+          "fr": "Spinoza imagine une pierre lancée qui recevrait, le temps de son vol, conscience et pensée. Sentant son mouvement mais ignorant la main qui l'a jetée, elle se croirait libre d'aller où elle va.",
+          "en": "Spinoza imagines a thrown stone that, for the span of its flight, were given consciousness and thought. Feeling its motion but unaware of the hand that cast it, it would believe itself free to go where it goes."
+        },
+        {
+          "fr": "Telle serait notre condition : nous percevons nos désirs et nos décisions, mais non les causes qui les ont produits, et nous prenons cette ignorance pour de la liberté.",
+          "en": "Such would be our condition: we perceive our desires and our decisions, but not the causes that produced them, and we mistake that ignorance for freedom."
+        }
+      ]
+    }
+  ],
+  "responses": [
+    {
+      "id": "revise",
+      "label": { "fr": "L'objection est décisive : mes choix résultent de causes qui m'échappent.", "en": "The objection is decisive: my choices result from causes beyond me." },
+      "hints": [{ "axisId": "FREEDOM", "value": { "kind": "scalar", "value": 1 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous laissez l'objection trancher : votre position bascule vers le <c id='determinism'>déterminisme</c>.",
+        "en": "You let the objection decide: your position slides toward <c id='determinism'>determinism</c>."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": { "fr": "Je maintiens une liberté, mais redéfinie : agir sans contrainte, plutôt qu'un pouvoir absolu de choisir autrement.", "en": "I keep a freedom, but redefined: acting without constraint, rather than an absolute power to choose otherwise." },
+      "hints": [{ "axisId": "FREEDOM", "value": { "kind": "scalar", "value": 0 }, "weight": 0.7 }],
+      "discussion": {
+        "fr": "C'est la voie du <c id='compatibilism'>compatibilisme</c> : la liberté comme absence de contrainte, compatible avec des causes.",
+        "en": "This is the path of <c id='compatibilism'>compatibilism</c>: freedom as absence of constraint, compatible with causes."
+      }
+    },
+    {
+      "id": "refute",
+      "label": { "fr": "Je réfute : que mon choix ait des causes ne montre pas qu'il était contraint ; ma délibération en fait partie.", "en": "I refute it: that my choice has causes does not show it was constrained; my deliberation is one of them." },
+      "hints": [{ "axisId": "FREEDOM", "value": { "kind": "scalar", "value": -1 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous distinguez « avoir une cause » et « être contraint » : une délibération causée peut rester vôtre. Riposte classique au déterminisme.",
+        "en": "You distinguish \"having a cause\" from \"being constrained\": a caused deliberation can still be yours. The classic reply to determinism."
+      }
+    }
+  ],
+  "problems": ["causal-closure"],
+  "targets": ["free-will-experience"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

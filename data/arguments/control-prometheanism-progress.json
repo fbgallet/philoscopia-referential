@@ -1,0 +1,55 @@
+{
+  "id": "control-prometheanism-progress",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "CONTROL_SCOPE", "poleId": "PROMETHEANISM" },
+  "name": { "fr": "Le possible n'est pas clos", "en": "The possible is not closed" },
+  "claim": {
+    "fr": "Tenir une limite pour définitive, c'est souvent ignorer ce que l'effort a déjà rendu possible.",
+    "en": "To treat a limit as final is often to ignore what effort has already made possible."
+  },
+  "summary": {
+    "fr": "La part de l'inévitable n'a cessé de se réduire : ce qu'on prenait pour le destin de l'humanité, le savoir et l'action collective l'ont maintes fois défait.",
+    "en": "The share of the inevitable has not stopped shrinking: what was taken for humanity's destiny, knowledge and collective action have undone time and again."
+  },
+  "development": [
+    {
+      "fr": "L'histoire est jonchée de « fatalités » vaincues : la peste, la famine, la mortalité infantile, des distances qu'on croyait infranchissables. Chaque fois, ce qu'on rangeait dans l'ordre immuable des choses s'est révélé un problème à résoudre.",
+      "en": "History is strewn with conquered « inevitabilities »: plague, famine, infant mortality, distances thought impassable. Each time, what was filed under the immutable order of things turned out to be a problem to be solved."
+    },
+    {
+      "fr": "Ce recul n'a rien de magique : il vient du savoir, qui comprend les causes, et de l'action, souvent collective, qui s'en saisit. <ph id='descartes'>Descartes</ph> assignait à la science de nous rendre « comme maîtres et possesseurs de la nature » ; <ph id='marx'>Marx</ph> ajoutait que les hommes font leur propre histoire, par leur <c id='praxis'>pratique transformatrice</c>.",
+      "en": "This retreat is nothing magical: it comes from knowledge, which grasps causes, and from action, often collective, which takes hold of them. <ph id='descartes'>Descartes</ph> assigned to science the task of making us « as masters and possessors of nature »; <ph id='marx'>Marx</ph> added that men make their own history, through their <c id='praxis'>transforming practice</c>."
+    },
+    {
+      "fr": "Devant une épreuve, présumer la limite franchissable n'est donc pas de la naïveté, c'est tirer la leçon de ce qui a déjà eu lieu. Qui s'incline trop tôt s'interdit des victoires que d'autres, moins résignés, ont su remporter.",
+      "en": "Before an ordeal, to presume the limit can be crossed is therefore no naivety, it is to draw the lesson of what has already happened. Whoever yields too soon denies himself victories that others, less resigned, knew how to win."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc refuser de tenir le donné pour définitif n'est pas de l'orgueil, c'est la condition de tout progrès : on ne change que ce qu'on a d'abord refusé de subir.",
+    "en": "So refusing to treat the given as final is no pride, it is the condition of all progress: we change only what we first refused to endure."
+  },
+  "deepenings": [
+    {
+      "id": "masters-of-nature",
+      "label": { "fr": "« Maîtres et possesseurs de la nature »", "en": "« Masters and possessors of nature »" },
+      "targetStep": 1,
+      "development": [
+        {
+          "fr": "<ph id='descartes'>Descartes</ph> oppose à la philosophie purement spéculative une philosophie pratique qui nous rendrait « comme maîtres et possesseurs de la nature ». Son but premier n'est pas la domination, mais la santé et l'adoucissement de la condition humaine.",
+          "en": "<ph id='descartes'>Descartes</ph> opposes to purely speculative philosophy a practical one that would make us « as masters and possessors of nature ». Its first aim is not domination, but health and the easing of the human condition."
+        },
+        {
+          "fr": "<ph id='marx'>Marx</ph>, plus tard, déplacera l'accent de la nature vers la société : ce sont les rapports humains eux-mêmes qu'il s'agit de transformer.",
+          "en": "<ph id='marx'>Marx</ph>, later, will shift the emphasis from nature to society: it is human relations themselves that are to be transformed."
+        }
+      ],
+      "source": { "author": { "fr": "Descartes", "en": "Descartes" }, "figures": [{ "name": { "fr": "Descartes", "en": "Descartes" }, "kind": "PHILOSOPHER", "slug": "descartes" }], "work": { "fr": "Discours de la méthode", "en": "Discourse on Method" }, "year": 1637 }
+    }
+  ],
+  "difficulty": 1,
+  "source": { "author": { "fr": "Descartes ; Marx", "en": "Descartes; Marx" }, "figures": [{ "name": { "fr": "Descartes", "en": "Descartes" }, "kind": "PHILOSOPHER", "slug": "descartes" }, { "name": { "fr": "Marx", "en": "Marx" }, "kind": "PHILOSOPHER", "slug": "marx" }], "work": { "fr": "Discours de la méthode ; Thèses sur Feuerbach", "en": "Discourse on Method; Theses on Feuerbach" } },
+  "test": "control-prometheanism-finitude-objection",
+  "problems": ["is-hope-wise", "my-power-or-our-power"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

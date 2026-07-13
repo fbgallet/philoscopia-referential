@@ -1,0 +1,13 @@
+{
+  "id": "virtue-ethics",
+  "term": { "fr": "Éthique de la vertu", "en": "Virtue ethics" },
+  "aliases": { "fr": ["éthique des vertus"] },
+  "definition": {
+    "fr": "L'éthique de la vertu déplace la question morale : non pas « que dois-je faire ? », mais « qui dois-je être ? ». Bien agir, c'est agir comme le ferait la personne vertueuse, courageuse, juste, tempérante ; la morale est affaire de caractère, formé par l'habitude, plus que de règles ou de calculs. <ph id='aristotle'>Aristote</ph> en fixe le modèle : les vertus s'acquièrent par la pratique et visent la vie accomplie, l'<c id='eudaimonism'>eudaimonia</c>. Redécouverte au XXe siècle par Anscombe et MacIntyre, elle s'oppose au <c id='consequentialism'>conséquentialisme</c> comme au <c id='deontologism'>déontologisme</c>, jugés aveugles au caractère et à la sagesse pratique, la <c id='phronesis'>phronèsis</c>.",
+    "en": "Virtue ethics shifts the moral question: not \"what should I do?\" but \"who should I be?\". Acting well is acting as the virtuous person would, courageous, just, temperate; morality is a matter of character, formed by habit, more than of rules or calculations. <ph id='aristotle'>Aristotle</ph> sets its model: the virtues are acquired through practice and aim at the accomplished life, <c id='eudaimonism'>eudaimonia</c>. Rediscovered in the twentieth century by Anscombe and MacIntyre, it stands against <c id='consequentialism'>consequentialism</c> and <c id='deontologism'>deontologism</c> alike, judged blind to character and to practical wisdom, <c id='phronesis'>phronesis</c>."
+  },
+  "relatedAxes": ["ETHICS_FOUNDATION", "SOVEREIGN_GOOD"],
+  "relatedTerms": ["consequentialism", "deontologism", "phronesis", "eudaimonism"],
+  "positions": [{ "axisId": "ETHICS_FOUNDATION", "poleId": "VIRTUE_ETHICS" }],
+  "updatedAt": "2026-07-11T00:00:00.000Z"
+}

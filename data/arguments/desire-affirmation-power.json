@@ -1,0 +1,54 @@
+{
+  "id": "desire-affirmation-power",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "DESIRE", "poleId": "AFFIRMATION" },
+  "name": { "fr": "Le désir comme puissance", "en": "Desire as power" },
+  "claim": {
+    "fr": "Le désir n'est pas un manque à combler, mais une force qui produit et qui crée.",
+    "en": "Desire is not a lack to be filled, but a force that produces and creates."
+  },
+  "summary": {
+    "fr": "Loin d'être le signe de ce qui nous manque, le désir est l'élan par lequel la vie s'affirme et s'augmente : le brider, c'est se diminuer.",
+    "en": "Far from being the mark of what we lack, desire is the impulse by which life affirms and enlarges itself: to curb it is to diminish oneself."
+  },
+  "development": [
+    {
+      "fr": "Toute une tradition, de <ph id='plato'>Platon</ph> au <mv id='buddhism'>bouddhisme</mv>, définit le désir comme manque : on ne désire que ce qu'on n'a pas, donc désirer, c'est souffrir, et la sagesse consisterait à désirer moins.",
+      "en": "A whole tradition, from <ph id='plato'>Plato</ph> to <mv id='buddhism'>Buddhism</mv>, defines desire as lack: we desire only what we do not have, so to desire is to suffer, and wisdom would consist in desiring less."
+    },
+    {
+      "fr": "Mais cette définition prend l'effet pour la cause. L'artiste, l'amoureux, le créateur ne désirent pas par défaut de quelque chose : ils débordent d'une force qui cherche à s'exprimer et à produire du nouveau. Le désir est d'abord cette <c id='conatus'>puissance d'exister</c> qui veut s'accroître.",
+      "en": "But this definition takes the effect for the cause. The artist, the lover, the creator do not desire out of a want of something: they overflow with a force that seeks to express itself and to produce the new. Desire is first this <c id='conatus'>power of existing</c> that wants to grow."
+    },
+    {
+      "fr": "Brider cette force au nom de la tranquillité, c'est préférer une vie plus petite à une vie plus grande. Affirmer ses désirs, jusque dans leur risque, c'est dire oui à ce que l'on est et vouloir que la vie aille au-delà d'elle-même.",
+      "en": "To curb this force in the name of tranquility is to prefer a smaller life to a greater one. To affirm one's desires, even in their risk, is to say yes to what one is and to want life to reach beyond itself."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc une vie bonne n'est pas la plus paisible, mais la plus intense : celle qui affirme ses désirs au lieu de s'en défendre.",
+    "en": "So a good life is not the most peaceful, but the most intense: the one that affirms its desires instead of guarding against them."
+  },
+  "deepenings": [
+    {
+      "id": "desire-and-power",
+      "label": { "fr": "Vouloir, c'est vouloir croître", "en": "To will is to will to grow" },
+      "targetStep": 1,
+      "development": [
+        {
+          "fr": "<ph id='spinoza'>Spinoza</ph> nomme <c id='conatus'>conatus</c> l'effort par lequel chaque être tend à persévérer dans son être et à augmenter sa puissance d'agir : le désir n'y est pas une faiblesse, c'est l'essence même de l'homme.",
+          "en": "<ph id='spinoza'>Spinoza</ph> calls <c id='conatus'>conatus</c> the effort by which each being strives to persevere in its being and to increase its power to act: desire here is not a weakness, it is the very essence of man."
+        },
+        {
+          "fr": "<ph id='nietzsche'>Nietzsche</ph> y ajoute la <c id='will-to-power'>volonté de puissance</c> : la vie ne cherche pas seulement à se conserver, elle veut surmonter et créer ; un désir n'est fort que parce qu'une vie veut, à travers lui, devenir plus qu'elle n'est.",
+          "en": "<ph id='nietzsche'>Nietzsche</ph> adds the <c id='will-to-power'>will to power</c>: life does not merely seek to preserve itself, it wills to overcome and to create; a desire is strong only because a life wills, through it, to become more than it is."
+        }
+      ]
+    }
+  ],
+  "difficulty": 2,
+  "source": { "author": { "fr": "Spinoza, Nietzsche", "en": "Spinoza, Nietzsche" }, "figures": [{ "name": { "fr": "Spinoza", "en": "Spinoza" }, "kind": "PHILOSOPHER", "slug": "spinoza" }, { "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" }] },
+  "test": "desire-blind-affirmation-objection",
+  "problems": ["lack-or-power"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

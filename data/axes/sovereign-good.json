@@ -19,6 +19,7 @@
   "poles": [
     {
       "id": "HEDONISM",
+      "concept": "hedonism",
       "label": {
         "fr": "Hédonisme",
         "en": "Hedonism"
@@ -46,6 +47,7 @@
     },
     {
       "id": "EUDAIMONISM",
+      "concept": "eudaimonism",
       "label": {
         "fr": "Eudémonisme",
         "en": "Eudaimonism"

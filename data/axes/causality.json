@@ -19,6 +19,7 @@
   "poles": [
     {
       "id": "MECHANISM",
+      "concept": "mechanism",
       "label": {
         "fr": "Mécanisme",
         "en": "Mechanism"
@@ -46,6 +47,7 @@
     },
     {
       "id": "FINALISM",
+      "concept": "finalism",
       "label": {
         "fr": "Finalisme",
         "en": "Finalism"
@@ -73,6 +75,7 @@
     },
     {
       "id": "VITALISM",
+      "concept": "vitalism",
       "label": {
         "fr": "Vitalisme",
         "en": "Vitalism"

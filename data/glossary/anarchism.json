@@ -1,0 +1,13 @@
+{
+  "id": "anarchism",
+  "term": { "fr": "Anarchisme", "en": "Anarchism" },
+  "aliases": { "fr": ["anarchiste"], "en": ["anarchist"] },
+  "definition": {
+    "fr": "L'anarchisme tient que toute autorité imposée d'en haut, l'État en premier lieu, est une domination illégitime dont il faut s'affranchir. Il ne prône pas le chaos mais un autre ordre, fondé sur la libre association, l'entraide et le fédéralisme : la société peut se coordonner sans maîtres. Proudhon puis Bakounine en donnent les grandes versions au XIXe siècle, entre courants mutualiste, collectiviste et individualiste.",
+    "en": "Anarchism holds that any authority imposed from above, the state first of all, is an illegitimate domination to be shaken off. It calls not for chaos but for another order, founded on free association, mutual aid and federalism: society can coordinate itself without masters. Proudhon and then Bakunin gave its major nineteenth-century versions, across mutualist, collectivist and individualist currents."
+  },
+  "relatedAxes": ["AUTHORITY", "POLITICAL_LIBERTY", "WHO_DECIDES"],
+  "relatedTerms": [],
+  "positions": [{ "axisId": "AUTHORITY", "poleId": "ANARCHISM" }],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

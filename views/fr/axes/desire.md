@@ -36,6 +36,18 @@ Le désir est la racine de la dépendance et de la souffrance : il nous attache 
 - **Mes désirs sont-ils les miens ?** : Mes désirs naissent-ils de moi, ou est-ce que je désire ce que désirent les autres, ce que la société fabrique pour moi ? S'ils ne sont pas les miens, les affirmer ou les trier change de sens.
 - **La hiérarchie des désirs** : Y a-t-il des désirs supérieurs et d'autres inférieurs, qu'une part de nous devrait gouverner, ou ce classement n'est-il qu'une morale qu'on plaque sur une vie qui n'en demande pas ?
 
+## Arguments
+
+- *Affirmation* · pour : [Le désir comme puissance](../arguments/desire-affirmation-power.md)
+- *Affirmation* · contre : [L'objection du désir aveugle](../arguments/desire-blind-affirmation-objection.md)
+- *Affirmation* · contre : [Le tonneau percé](../arguments/desire-insatiable-objection.md)
+- *Tri raisonné* · pour : [La mesure épicurienne](../arguments/desire-reasoned-selection-ataraxia.md)
+- *Tri raisonné* · contre : [La frontière introuvable](../arguments/desire-arbitrary-line-objection.md)
+- *Tri raisonné* · contre : [L'objection de la vie rétrécie](../arguments/desire-timid-life-objection.md)
+- *Extinction-détachement* · pour : [La racine de la souffrance](../arguments/desire-detachment-liberation.md)
+- *Extinction-détachement* · contre : [Vivre, ou se retirer de la vie ?](../arguments/desire-detachment-deadening-objection.md)
+- *Extinction-détachement* · contre : [Le désir de ne plus désirer](../arguments/desire-detachment-paradox-objection.md)
+
 ## Relations de fondation
 
 - *[Où réside le sacré](../axes/transcendence.md) : Immanence* fonde *[Rapport au désir](../axes/desire.md) : Affirmation* : S'il n'existe aucun ordre transcendant au-dessus de la vie auquel le désir devrait se soumettre, le désir cesse d'être une faute à corriger pour devenir la puissance même par laquelle la vie s'affirme. L'immanence, de [Spinoza](../philosophers/spinoza.md) à [Nietzsche](../philosophers/nietzsche.md), fonde l'affirmation : rien de plus haut que la vie au nom de quoi la brider.

@@ -30,6 +30,16 @@ Les normes morales ne sont ni découvertes dans la nature des choses ni simpleme
 
 *[Rawls](../philosophers/rawls.md) · [Habermas](../philosophers/habermas.md)*
 
+## Problèmes vifs
+
+- **Chacun ses coutumes ?** : Des peuples s'horrifient mutuellement de leurs usages, chacun tenant le sien pour évident. Ce désaccord profond prouve-t-il qu'aucune morale n'est vraie, ou peut-on encore juger que certaines valent mieux que d'autres ? → [Chacun ses coutumes ?](../thought-experiments/funeral-customs.md)
+- **Y a-t-il des vérités morales ?** : Quand je dis « c'est mal », est-ce que je décris quelque chose de réel, une propriété des actes, ou seulement mes préférences ? Rien dans les faits ne contient un « il faut » : d'où viendrait alors la vérité d'un jugement moral ?
+- **Tolérer, jusqu'où ?** : Si toutes les morales se valent, au nom de quoi condamner l'esclavage ou la cruauté ailleurs ? Et « il faut respecter les autres cultures » n'est-il pas lui-même une règle qu'on prétend valable pour tous ?
+- **Trouvée, imposée, ou construite ?** : Une norme est-elle inscrite dans la nature des choses, n'est-elle que la loi du plus fort déguisée en justice, ou la fabriquons-nous par une procédure équitable ? Et une règle seulement construite peut-elle encore obliger ?
+- **Les droits : naturels ou institués ?** : Les droits de l'homme sont-ils découverts, inscrits dans notre nature avant toute loi, ou institués par des conventions qu'on pourrait défaire ?
+- **Quelle morale ?** : Savoir si une morale peut être objective ne dit pas encore laquelle : le juste se mesure-t-il aux conséquences, au devoir, aux vertus, ou au soin porté aux proches ?
+- **Pour qui les normes valent-elles ?** : Des normes universelles, mais universelles pour qui ? La question du statut des règles rejoint celle des êtres qu'elles obligent et protègent : où s'arrête le cercle de ceux qui comptent ?
+
 ## Relations de fondation
 
 - *[Existence de Dieu](../axes/god-existence.md) : Athéisme* fonde *[Statut des normes (métaéthique)](../axes/moral-scope.md) : Relativisme* : Si nul Dieu ne garantit l'ordre moral, certains en concluent qu'aucune norme ne vaut absolument : « si Dieu n'existe pas, tout est permis ». La « mort de Dieu » que proclame [Nietzsche](../philosophers/nietzsche.md) ébranle ainsi la prétention des valeurs à l'universalité. Le lien reste contesté : nombre d'athées défendent au contraire une morale rationnelle et universelle.
@@ -40,7 +50,7 @@ Les normes morales ne sont ni découvertes dans la nature des choses ni simpleme
 
 ## Axes liés
 
-[Nature des droits](../axes/rights-nature.md) · [Critère du juste](../axes/ethics-foundation.md) · [Cercle moral](../axes/moral-circle.md)
+[Nature des droits](../axes/rights-nature.md) · [Critère du juste](../axes/ethics-foundation.md) · [Cercle moral](../axes/moral-circle.md) · [Nature de la vérité](../axes/truth-nature.md)
 
 ---
 

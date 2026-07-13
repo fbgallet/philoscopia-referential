@@ -1,0 +1,13 @@
+{
+  "id": "existentialism",
+  "term": { "fr": "Existentialisme", "en": "Existentialism" },
+  "aliases": { "fr": ["existentialiste"], "en": ["existentialist"] },
+  "definition": {
+    "fr": "L'existentialisme tient que, pour l'homme, « l'existence précède l'essence » : nul n'a de nature donnée d'avance, chacun se définit par ses choix et devient ce qu'il fait de lui-même. Cette liberté sans fondement est aussi une charge : nous sommes « condamnés à être libres », responsables, dans l'angoisse et sans excuse. <ph id='sartre'>Sartre</ph> et <ph id='beauvoir'>Beauvoir</ph> en portent la version athée, après Kierkegaard et dans le sillage de Heidegger. Il s'oppose à l'<c id='essentialism'>essentialisme</c>.",
+    "en": "Existentialism holds that, for the human being, \"existence precedes essence\": no one has a nature given in advance, each defines themselves by their choices and becomes what they make of themselves. This groundless freedom is also a burden: we are \"condemned to be free\", responsible, in anguish and without excuse. <ph id='sartre'>Sartre</ph> and <ph id='beauvoir'>Beauvoir</ph> carry its atheist version, after Kierkegaard and in the wake of Heidegger. It stands against <c id='essentialism'>essentialism</c>."
+  },
+  "relatedAxes": ["ESSENCE", "LIFE_MEANING"],
+  "relatedTerms": ["essentialism", "the-absurd"],
+  "positions": [{ "axisId": "ESSENCE", "poleId": "EXISTENTIALISM" }],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

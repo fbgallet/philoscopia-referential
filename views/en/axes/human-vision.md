@@ -26,6 +26,16 @@ Human beings are shot through with selfishness, self-regard, and aggressive driv
 
 Human beings are neither good nor evil by nature: they are malleable. Neither angel nor beast, a person becomes what upbringing, habit and institutions make of them. Our defining trait is this plasticity, this capacity to be shaped, for better and for worse.
 
+## Live problems
+
+- **Ordinary people, an order to carry out** : That ordinary people inflict the worst on a mere order: is it a latent cruelty waking up, or proof that circumstances, not nature, decide our acts? → [The Milgram experiment](../thought-experiments/milgram.md)
+- **Where does evil in humans come from?** : If humans do evil, is that bent in them from the start, a drive or a fallen nature, or does it arise from without, from social comparison and inequality? Depending on the answer, wickedness is our depth or our product.
+- **How far can human beings be changed?** : The wager of education assumes we can remake people, soften them, better them. But are there immovable flaws, a "crooked timber" that no education ever straightens?
+- **Half angel, half beast** : Is the human a divided being, capable at once of the highest and the lowest, great through the very thing that makes it wretched, or is this dramatic image merely a way of ennobling a mere animal by calling it fallen?
+- **Is there a human nature?** : Asking whether humans are good or evil assumes they have a nature. But perhaps there is no given essence: humans would then make themselves, with no received model.
+- **Does genuine altruism exist?** : Do our most generous acts always hide an interest, a need to be loved, a vanity? If no truly disinterested act exists, talk of goodness loses its meaning.
+- **Institutions for angels, or for devils?** : Should laws be designed counting on citizens' virtue, or built so that "even a nation of devils" would be forced to act well? One's vision of humanity governs the kind of institutions one deems necessary.
+
 ## Grounding relations
 
 - *[Vision of humanity](../axes/human-vision.md) : Anthropological optimism* grounds *[Relation to authority](../axes/authority.md) : Anarchism* : If human beings are naturally good and it is society that corrupts them, authority imposed from above looks less like a remedy than the source of the evil. Anthropological optimism feeds anarchism: the fundamental goodness affirmed by [Rousseau](../philosophers/rousseau.md) opens the way to the idea of a society that would organize itself without domination, through free association.
@@ -35,7 +45,7 @@ Human beings are neither good nor evil by nature: they are malleable. Neither an
 
 ## Related axes
 
-[Nature and culture](../axes/human-nature.md) · [Ideal and reality](../axes/political-ideal.md) · [Self-interest and others](../axes/self-interest.md) · [Attention and diversion](../axes/attention.md)
+[Nature and culture](../axes/human-nature.md) · [Ideal and reality](../axes/political-ideal.md) · [Self-interest and others](../axes/self-interest.md) · [Attention and diversion](../axes/attention.md) · [Moral demandingness](../axes/moral-demand.md)
 
 ---
 

@@ -106,5 +106,349 @@
     "HUMAN_PLACE_NATURE",
     "WORK_MEANING",
     "ATTENTION"
+  ],
+  "problems": [
+    {
+      "id": "is-the-tool-neutral",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "l'outil",
+        "en": "the tool"
+      },
+      "mode": "DESCRIPTIVE",
+      "keywords": [
+        {
+          "fr": "neutralité de la technique",
+          "en": "neutrality of technology"
+        },
+        {
+          "fr": "arraisonnement",
+          "en": "enframing"
+        },
+        {
+          "fr": "système technicien",
+          "en": "the technological system"
+        }
+      ],
+      "poles": [
+        "TECHNO_OPTIMISM",
+        "TECHNO_CRITICISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Heidegger",
+            "en": "Heidegger"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "heidegger"
+        },
+        {
+          "name": {
+            "fr": "Ellul",
+            "en": "Ellul"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "ellul"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "ATTENTION",
+          "problem": "captured-attention"
+        }
+      ],
+      "title": {
+        "fr": "L'outil est-il neutre ?",
+        "en": "Is the tool neutral?"
+      },
+      "explicitation": {
+        "fr": "Un outil ne serait ni bon ni mauvais, tout dépendrait de l'usage ; mais une arme, ou un fil d'actualité conçu pour capter le regard, n'ont-ils vraiment aucune pente propre ?",
+        "en": "A tool, we are told, is neither good nor bad in itself, everything depending on its use; but does a weapon, or a news feed engineered to capture the eye, really carry no slope of its own?"
+      }
+    },
+    {
+      "id": "mastering-nature",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "la nature",
+        "en": "nature"
+      },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "VITAL",
+      "keywords": [
+        {
+          "fr": "maîtres et possesseurs de la nature",
+          "en": "masters and possessors of nature"
+        },
+        {
+          "fr": "apprenti sorcier",
+          "en": "the sorcerer's apprentice"
+        },
+        {
+          "fr": "principe responsabilité",
+          "en": "the imperative of responsibility"
+        }
+      ],
+      "poles": [
+        "TECHNO_OPTIMISM",
+        "TECHNO_CRITICISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Descartes",
+            "en": "Descartes"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "descartes"
+        },
+        {
+          "name": {
+            "fr": "Bacon",
+            "en": "Bacon"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "bacon"
+        },
+        {
+          "name": {
+            "fr": "Jonas",
+            "en": "Jonas"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "jonas"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "HUMAN_PLACE_NATURE"
+        }
+      ],
+      "title": {
+        "fr": "La maîtrise de la nature",
+        "en": "The mastery of nature"
+      },
+      "explicitation": {
+        "fr": "Depuis Bacon et Descartes, la technique promet de nous rendre « comme maîtres et possesseurs de la nature » ; elle a fait reculer la faim et la maladie, mais déchaîne aussi des forces que nul ne gouverne : cette maîtrise à moitié tenue est-elle en chemin, ou contradictoire dans son principe ?",
+        "en": "Since Bacon and Descartes, technology has promised to make us \"as it were masters and possessors of nature\"; it has pushed back hunger and disease, but it also unleashes forces no one governs: is this half-kept mastery on its way, or contradictory in its very principle?"
+      }
+    },
+    {
+      "id": "power-outruns-wisdom",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "la civilisation technicienne",
+        "en": "technological civilization"
+      },
+      "mode": "DESCRIPTIVE",
+      "keywords": [
+        {
+          "fr": "décalage prométhéen",
+          "en": "the Promethean gap"
+        },
+        {
+          "fr": "sciences et arts",
+          "en": "the sciences and the arts"
+        },
+        {
+          "fr": "progrès moral",
+          "en": "moral progress"
+        }
+      ],
+      "poles": [
+        "TECHNO_OPTIMISM",
+        "TECHNO_CRITICISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Rousseau",
+            "en": "Rousseau"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "rousseau"
+        },
+        {
+          "name": {
+            "fr": "Günther Anders",
+            "en": "Günther Anders"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "anders"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "HISTORY_MEANING"
+        }
+      ],
+      "title": {
+        "fr": "La puissance et la sagesse",
+        "en": "Power and wisdom"
+      },
+      "explicitation": {
+        "fr": "Les moyens techniques s'accumulent : chaque génération hérite des machines et des savoirs de toutes les précédentes ; la sagesse d'en user, elle, ne se stocke pas et doit être reconquise par chacun. Ce fossé entre la puissance et le discernement est-il un retard qu'une éducation pourrait combler, ou se creuse-t-il par nature ?",
+        "en": "Technical means accumulate: each generation inherits the machines and knowledge of all those before it; the wisdom to use them, however, cannot be stockpiled and must be won anew by each of us. Is this gap between power and discernment a lag that education could close, or does it widen by its very nature?"
+      }
+    },
+    {
+      "id": "remedy-and-poison",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "nos facultés",
+        "en": "our faculties"
+      },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "EXISTENTIAL",
+      "keywords": [
+        {
+          "fr": "pharmakon",
+          "en": "pharmakon"
+        },
+        {
+          "fr": "l'écriture et la mémoire",
+          "en": "writing and memory"
+        },
+        {
+          "fr": "dépendance",
+          "en": "dependence"
+        },
+        {
+          "fr": "intelligence artificielle",
+          "en": "artificial intelligence"
+        }
+      ],
+      "poles": [
+        "TECHNO_OPTIMISM",
+        "TECHNO_CRITICISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Platon",
+            "en": "Plato"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "plato"
+        }
+      ],
+      "title": {
+        "fr": "Le remède et le poison",
+        "en": "The remedy and the poison"
+      },
+      "explicitation": {
+        "fr": "Platon craignait déjà que l'écriture n'affaiblisse la mémoire qu'elle prétendait servir ; chaque outil qui nous prolonge nous décharge d'une capacité, jusqu'à l'assistant qui pense à notre place : où finit le service, où commence la dépossession ?",
+        "en": "Plato already feared that writing would weaken the very memory it claimed to serve; every tool that extends us relieves us of a capacity, down to the assistant that now thinks in our place: where does service end, where does dispossession begin?"
+      }
+    },
+    {
+      "id": "choosing-our-techniques",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "l'adoption des techniques",
+        "en": "the adoption of technologies"
+      },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "POLITICAL",
+      "keywords": [
+        {
+          "fr": "technique autonome",
+          "en": "autonomous technology"
+        },
+        {
+          "fr": "démocratie technique",
+          "en": "technical democracy"
+        },
+        {
+          "fr": "moratoire",
+          "en": "moratorium"
+        }
+      ],
+      "poles": [
+        "TECHNO_OPTIMISM",
+        "TECHNO_CRITICISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Ellul",
+            "en": "Ellul"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "ellul"
+        },
+        {
+          "name": {
+            "fr": "Jonas",
+            "en": "Jonas"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "jonas"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "CONSERVATISM_PROGRESSISM",
+          "problem": "progress-chosen-or-imposed"
+        }
+      ],
+      "title": {
+        "fr": "Choisir ses techniques",
+        "en": "Choosing our technologies"
+      },
+      "explicitation": {
+        "fr": "Nul n'a voté pour le smartphone ni pour l'intelligence artificielle, qui réorganisent pourtant nos vies : l'adoption d'une technique peut-elle être une décision commune, ou est-ce une force qui s'impose et qu'on ne discute qu'après coup ?",
+        "en": "No one voted for the smartphone or for artificial intelligence, yet they reorganize our lives: can the adoption of a technology be a common decision, or is it a force that imposes itself and gets debated only after the fact?"
+      }
+    },
+    {
+      "id": "repair-or-enhance",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "le corps humain",
+        "en": "the human body"
+      },
+      "mode": "PRESCRIPTIVE",
+      "relation": "RELATED",
+      "sphere": "MORAL",
+      "keywords": [
+        {
+          "fr": "transhumanisme",
+          "en": "transhumanism"
+        },
+        {
+          "fr": "bioconservatisme",
+          "en": "bioconservatism"
+        },
+        {
+          "fr": "augmentation",
+          "en": "enhancement"
+        }
+      ],
+      "poles": [
+        "TECHNO_OPTIMISM",
+        "TECHNO_CRITICISM"
+      ],
+      "doorways": [
+        {
+          "axis": "HUMAN_ENHANCEMENT"
+        }
+      ],
+      "title": {
+        "fr": "Réparer ou augmenter l'humain",
+        "en": "Repairing or enhancing the human"
+      },
+      "explicitation": {
+        "fr": "Quand la technique ne transforme plus le monde mais son auteur, soigner glisse vers augmenter : ce seuil est une question à part entière.",
+        "en": "When technology no longer transforms the world but its author, healing shades into enhancing: that threshold is a question in its own right."
+      }
+    }
   ]
 }

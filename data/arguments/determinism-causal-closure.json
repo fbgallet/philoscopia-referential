@@ -1,0 +1,68 @@
+{
+  "id": "determinism-causal-closure",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "FREEDOM", "poleId": "DETERMINISM" },
+  "name": { "fr": "L'argument de la clôture causale", "en": "The causal-closure argument" },
+  "claim": {
+    "fr": "Tout effet a une cause : pourquoi nos décisions y feraient-elles exception ?",
+    "en": "Every effect has a cause: why would our decisions make an exception?"
+  },
+  "development": [
+    {
+      "fr": "Partout où nous cherchons, nous trouvons des causes : à l'examen, aucun phénomène ne se révèle sans antécédent. Le monde physique paraît <c id='causal-closure'>causalement clos</c>, tout effet y ayant une cause elle-même physique.",
+      "en": "Everywhere we look, we find causes: on inspection, no phenomenon turns out to have no antecedent. The physical world appears <c id='causal-closure'>causally closed</c>, every effect within it having a cause that is itself physical."
+    },
+    {
+      "fr": "Une décision est un événement parmi d'autres, porté par un cerveau physique inscrit dans cette même trame causale.",
+      "en": "A decision is one event among others, carried by a physical brain woven into that same causal fabric."
+    },
+    {
+      "fr": "En vertu du <c id='principle-of-sufficient-reason'>principe de raison suffisante</c>, rien n'arrive sans raison qui le détermine ; prêter à la seule volonté un pouvoir sans cause serait une exception sans justification.",
+      "en": "By the <c id='principle-of-sufficient-reason'>principle of sufficient reason</c>, nothing happens without a reason that determines it; to grant the will alone a causeless power would be an exception without justification."
+    }
+  ],
+  "conclusion": {
+    "fr": "Nos décisions sont donc <c id='determinism'>déterminées</c> par leurs causes, comme tout autre événement.",
+    "en": "Our decisions are therefore <c id='determinism'>determined</c> by their causes, like any other event."
+  },
+  "deepenings": [
+    {
+      "id": "why-causes",
+      "label": { "fr": "Pourquoi rien n'arriverait-il sans cause ?", "en": "Why would nothing happen without a cause?" },
+      "targetStep": 0,
+      "development": [
+        {
+          "fr": "Le principe de raison suffisante énonce que, pour tout fait, il existe une raison pour laquelle il est ainsi plutôt qu'autrement.",
+          "en": "The principle of sufficient reason states that, for every fact, there is a reason why it is so rather than otherwise."
+        },
+        {
+          "fr": "Le nier, ce n'est pas découvrir une liberté, c'est renoncer à comprendre : un événement absolument sans cause serait, à la lettre, inintelligible.",
+          "en": "To deny it is not to discover a freedom, it is to give up understanding: an event with no cause at all would be, literally, unintelligible."
+        }
+      ]
+    },
+    {
+      "id": "laplace-demon",
+      "label": { "fr": "Le démon de Laplace", "en": "Laplace's demon" },
+      "development": [
+        {
+          "fr": "<per>Laplace</per> imagine une intelligence qui connaîtrait, à un instant donné, toutes les forces de la nature et la position de tous les êtres.",
+          "en": "<per>Laplace</per> imagines an intelligence that would know, at a given instant, all the forces of nature and the position of every being."
+        },
+        {
+          "fr": "Pour une telle intelligence, écrit-il, rien ne serait incertain : l'avenir, comme le passé, serait présent à ses yeux.",
+          "en": "For such an intelligence, he writes, nothing would be uncertain: the future, like the past, would be present to its eyes."
+        },
+        {
+          "fr": "L'image ne porte pas sur ce que nous pouvons prédire, mais sur ce qu'engage un déterminisme strict : tout, en droit, est déjà fixé.",
+          "en": "The image is not about what we can predict, but about what strict determinism commits us to: everything, in principle, is already settled."
+        }
+      ],
+      "source": { "author": { "fr": "Laplace", "en": "Laplace" }, "work": { "fr": "Essai philosophique sur les probabilités", "en": "A Philosophical Essay on Probabilities" }, "year": 1814 }
+    }
+  ],
+  "difficulty": 1,
+  "test": "determinism-indeterminism",
+  "problems": ["causal-closure"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

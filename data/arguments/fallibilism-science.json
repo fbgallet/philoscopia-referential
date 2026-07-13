@@ -1,0 +1,55 @@
+{
+  "id": "fallibilism-science",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "CERTAINTY", "median": true },
+  "name": { "fr": "La science comme savoir révisable", "en": "Science as revisable knowledge" },
+  "claim": {
+    "fr": "Notre connaissance la plus solide se sait elle-même révisable.",
+    "en": "Our most solid knowledge knows itself to be revisable."
+  },
+  "summary": {
+    "fr": "La science tient ses théories pour les mieux établies sans jamais les croire à l'abri d'une révision : le faillibilisme en acte.",
+    "en": "Science holds its theories as the best established without ever believing them safe from revision: fallibilism in action."
+  },
+  "development": [
+    {
+      "fr": "Regardez comment procède la science, notre forme de savoir la plus fiable : elle ne pose pas de dogmes intouchables, elle propose des théories et les expose sans relâche à l'épreuve des faits.",
+      "en": "Look at how science proceeds, our most reliable form of knowledge: it lays down no untouchable dogmas, it puts forward theories and exposes them tirelessly to the test of the facts."
+    },
+    {
+      "fr": "Quand une théorie échoue, on la corrige ou on la remplace : la mécanique de Newton, longtemps tenue pour définitive, a cédé la place à celle d'Einstein, sans que la connaissance s'effondre pour autant. Elle a progressé.",
+      "en": "When a theory fails, it is corrected or replaced: Newton's mechanics, long held to be definitive, gave way to Einstein's, without knowledge collapsing for all that. It progressed."
+    },
+    {
+      "fr": "Ce savoir-là n'est donc ni un dogme ni un doute : il tient ses meilleurs résultats pour vrais autant qu'on peut l'établir, tout en les sachant <kw>révisables</kw>. La révision n'y est pas une faiblesse, c'est sa méthode même.",
+      "en": "Such knowledge is therefore neither a dogma nor a doubt: it holds its best results to be true as far as can be established, while knowing them <kw>revisable</kw>. Revision is no weakness here, it is its very method."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc on peut savoir sérieusement sans prétendre à des certitudes définitives : le <c id='fallibilism'>faillibilisme</c> n'est pas un compromis mou, c'est l'attitude de notre connaissance la plus sûre.",
+    "en": "So one can know in earnest without claiming definitive certainties: <c id='fallibilism'>fallibilism</c> is no soft compromise, it is the very attitude of our surest knowledge."
+  },
+  "difficulty": 1,
+  "source": { "author": { "fr": "Charles Sanders Peirce", "en": "Charles Sanders Peirce" }, "figures": [{ "name": { "fr": "Charles Sanders Peirce", "en": "Charles Sanders Peirce" }, "kind": "PHILOSOPHER", "slug": "peirce" }] },
+  "deepenings": [
+    {
+      "id": "conjectures-refutations",
+      "label": { "fr": "Conjectures et réfutations", "en": "Conjectures and refutations" },
+      "targetStep": 0,
+      "development": [
+        {
+          "fr": "<ph>Karl Popper</ph> en a fait le cœur de sa philosophie : une théorie scientifique ne se prouve jamais une fois pour toutes, elle se propose comme une conjecture hardie qu'on s'efforce ensuite de réfuter.",
+          "en": "<ph>Karl Popper</ph> made it the heart of his philosophy: a scientific theory is never proved once and for all, it is offered as a bold conjecture that one then strives to refute."
+        },
+        {
+          "fr": "Ce qui distingue une science d'une croyance figée, ce n'est pas qu'elle soit certaine, c'est qu'elle accepte d'avance ce qui pourrait la faire tomber. Sa force tient à sa révisabilité même.",
+          "en": "What distinguishes a science from a fixed belief is not that it is certain, it is that it accepts in advance what could bring it down. Its strength lies in its very revisability."
+        }
+      ],
+      "source": { "author": { "fr": "Karl Popper", "en": "Karl Popper" }, "figures": [{ "name": { "fr": "Popper", "en": "Popper" }, "kind": "PHILOSOPHER", "slug": "popper" }], "work": { "fr": "Conjectures et réfutations", "en": "Conjectures and Refutations" }, "year": 1963 }
+    }
+  ],
+  "test": "fallibilism-induction",
+  "problems": ["living-without-certainty"],
+  "updatedAt": "2026-07-12T00:00:00.000Z"
+}

@@ -34,7 +34,7 @@ const call = async (name, args = {}) => {
 
 // Guidance.
 const tools = await client.listTools();
-check(`18 tools registered (got ${tools.tools.length})`, tools.tools.length === 18);
+check(`22 tools registered (got ${tools.tools.length})`, tools.tools.length === 22);
 
 const instructions = client.getInstructions();
 check("server instructions delivered at init (FR)", Boolean(instructions?.includes("DÉROULÉ TYPE")));
@@ -87,8 +87,33 @@ check("get_tensions_for answers (array)", Array.isArray(tensions));
 const before = await call("get_profile");
 check("get_profile before init errors politely", before.isError && before.text.includes("init_workspace"));
 
-const init = (await call("init_workspace", { locale: "fr" })).json();
+const orientBefore = (await call("orient")).json();
+check(
+  "orient before init: referential counts + invitation to create the carnet",
+  orientBefore.workspace?.initialized === false &&
+    orientBefore.referential?.figures > 0 &&
+    orientBefore.sessionMenu?.length === 6 &&
+    orientBefore.workspace.note.includes("init_workspace"),
+);
+
+const init = (
+  await call("init_workspace", {
+    locale: "fr",
+    user: { expertise: "BEGINNER", goals: "Y voir plus clair sur quelques questions.", motivations: "Un deuil récent." },
+  })
+).json();
 check("init_workspace creates the folder", init.created === workspace);
+const initManifest = JSON.parse(readFileSync(join(workspace, "philoscopia.json"), "utf8"));
+check(
+  "init_workspace persists the user block (expertise + goals + motivations)",
+  initManifest.user?.expertise === "BEGINNER" && Boolean(initManifest.user?.updatedAt),
+);
+
+const patchedUser = (await call("set_user", { expertise: "AMATEUR", motivations: null })).json();
+check(
+  "set_user merges the patch (null deletes a field, goals untouched)",
+  patchedUser.expertise === "AMATEUR" && !("motivations" in patchedUser) && patchedUser.goals?.includes("quelques questions"),
+);
 
 const dup = await call("init_workspace", {});
 check("second init_workspace refuses", dup.isError);
@@ -228,6 +253,74 @@ const adopted = (
 ).json();
 check("adopted referential concept (ref, no id) accepted", adopted.ref === "c:ataraxia" && !adopted.id);
 
+// ── Florilège (quotes) & reading register (readings) ────────────────────────
+
+const today = new Date().toISOString().slice(0, 10);
+const quote = (
+  await call("add_entry", {
+    collection: "quotes",
+    entry: {
+      text: "Ce ne sont pas les choses qui troublent les hommes, mais les jugements qu'ils portent sur les choses.",
+      source: "Épictète, Manuel, §5",
+      explanation: "Le trouble vient de l'opinion, pas de l'événement.",
+      note: "Ma phrase de garde quand tout déraille.",
+      anchors: ["ph:epictetus", "ax:EMOTIONS"],
+    },
+  })
+).json();
+check("quote entry gets a dated qt- id, createdAt, no updatedAt", quote.id?.startsWith(`qt-${today}-`) && Boolean(quote.createdAt) && !("updatedAt" in quote));
+
+const noTitle = await call("add_entry", { collection: "readings", entry: { scope: "WORK" } });
+check("reading without title or workRef is rejected", noTitle.isError && noTitle.text.includes("workRef"));
+
+const badWork = await call("add_entry", {
+  collection: "readings",
+  entry: { workRef: "w:not-a-work", scope: "WORK" },
+});
+check("dangling workRef is rejected", badWork.isError && badWork.text.includes("does not resolve"));
+
+const badQuoteLink = await call("add_entry", {
+  collection: "readings",
+  entry: { workRef: "w:enchiridion-epictetus", scope: "EXCERPT", quotes: ["qt-not-kept"] },
+});
+check("reading linking an unknown quote id is rejected", badQuoteLink.isError && badQuoteLink.text.includes("quotes.json"));
+
+const reading = (
+  await call("add_entry", {
+    collection: "readings",
+    entry: {
+      workRef: "w:enchiridion-epictetus",
+      scope: "EXCERPT",
+      appraisal: "ESSENTIAL",
+      verdict: "Le premier texte qui m'a donné une prise sur mes émotions.",
+      agreements: [{ statement: "Le partage de ce qui dépend de moi est opérant au quotidien." }],
+      disagreements: [{ statement: "L'indifférence aux « choses » me semble intenable en amitié.", ref: "ax:EMOTIONS" }],
+      relatedAxes: ["ax:EMOTIONS"],
+      quotes: [quote.id],
+    },
+  })
+).json();
+check(
+  "reading gets a dated rd- id (from workRef) and status defaults to READ",
+  reading.id?.startsWith(`rd-${today}-enchiridion`) && reading.status === "READ" && reading.quotes[0] === quote.id,
+);
+
+const toRead = (
+  await call("add_entry", {
+    collection: "readings",
+    entry: { title: "La Consolation de Philosophie", author: "Boèce", scope: "WORK", status: "TO_READ" },
+  })
+).json();
+check("reading list entry (TO_READ, free-text title) accepted", toRead.status === "TO_READ" && toRead.id?.startsWith("rd-"));
+
+const readingLines = (await call("list_entries", { collection: "readings", status: "TO_READ" })).json();
+check(
+  "list_entries readings is compact and filters by status",
+  readingLines.count === 1 && readingLines.entries[0].startsWith(toRead.id) && readingLines.entries[0].includes("TO_READ"),
+);
+const quoteLines = (await call("list_entries", { collection: "quotes" })).json();
+check("list_entries quotes serves the florilège compactly", quoteLines.count === 1 && quoteLines.entries[0].includes("jugements"));
+
 // ── Scoped reads ────────────────────────────────────────────────────────────
 
 const digest = (await call("get_profile")).json();
@@ -254,17 +347,42 @@ const session = (
     content: "Discussion « c'est ma nature » ; position compatibiliste consolidée.",
     modalities: ["thought-experiment"],
     touched: ["ax:FREEDOM", "te:its-my-nature"],
+    next: "Reprendre la tension entre ma liberté et mon besoin de sécurité.",
   })
 ).json();
 check("log_session writes the journal file", existsSync(join(workspace, session.written)));
+const nextManifest = JSON.parse(readFileSync(join(workspace, "philoscopia.json"), "utf8"));
+check(
+  "log_session next persists the open thread in the manifest",
+  nextManifest.next?.statement.includes("sécurité") && nextManifest.next?.session === session.written,
+);
+
+const orientAfter = (await call("orient")).json();
+check(
+  "orient after a session: user block, carnet counts, last session, next, threads",
+  orientAfter.workspace?.user?.expertise === "AMATEUR" &&
+    orientAfter.workspace?.carnet?.axesTouched === 1 &&
+    orientAfter.workspace?.lastSession?.path === session.written &&
+    orientAfter.workspace?.next?.statement.includes("sécurité") &&
+    orientAfter.workspace?.threads?.some((t) => t.includes("conviction sur le travail")),
+);
 
 const summary = (await call("profile_summary", { writeSummaryMd: true })).json();
 check(
   "profile_summary computes coverage + major positions",
   summary.coverage.touched === 1 && summary.majorPositions.length === 1,
 );
+check(
+  "profile_summary open work lists the reading list, not finished readings",
+  summary.openWork.openReadings?.includes(toRead.id) && !summary.openWork.openReadings.includes(reading.id),
+);
 const summaryMd = readFileSync(join(workspace, "summary.md"), "utf8");
 check("summary.md rendered in FR with the position", summaryMd.includes("Mes positions structurantes") && summaryMd.includes("Compatibiliste"));
+check("summary.md carries the florilège verbatim", summaryMd.includes("## Florilège") && summaryMd.includes("les jugements qu'ils portent"));
+check(
+  "summary.md lists open readings only",
+  summaryMd.includes("Lectures, en cours et à lire") && summaryMd.includes("Boèce") && !summaryMd.includes("enchiridion"),
+);
 
 // Revision doctrine: a substantive revision is a NEW belief; the old one is retired.
 const revised = (
@@ -311,22 +429,25 @@ const legacyWrite = await call("add_entry", {
 check("legacy fields yield the actionable pre-2026-07 error", legacyWrite.isError && legacyWrite.text.includes("pre-2026-07"));
 writeFileSync(join(workspace, "beliefs.json"), cleanBeliefs);
 
-// Close the DOUBT, then compact: ABANDONED beliefs + RESOLVED inquiries move.
+// Close the DOUBT and abandon the queued reading, then compact: ABANDONED
+// beliefs/readings + RESOLVED inquiries move.
 await call("update_entry", { collection: "inquiries", id: doubt.id, patch: { status: "RESOLVED", resolution: "Conviction reformulée puis retirée." } });
+await call("update_entry", { collection: "readings", id: toRead.id, patch: { status: "ABANDONED" } });
 const compacted = (await call("compact", {})).json();
 check(
-  "compact archives ABANDONED beliefs + RESOLVED inquiries",
-  compacted.moved.beliefs === 1 && compacted.moved.inquiries === 1 && existsSync(join(workspace, "archive/beliefs.json")),
+  "compact archives ABANDONED beliefs/readings + RESOLVED inquiries",
+  compacted.moved.beliefs === 1 && compacted.moved.inquiries === 1 && compacted.moved.readings === 1 && existsSync(join(workspace, "archive/beliefs.json")),
 );
 check(
   "active files keep the live records",
   JSON.parse(readFileSync(join(workspace, "beliefs.json"), "utf8")).length === 1 &&
-    JSON.parse(readFileSync(join(workspace, "inquiries.json"), "utf8")).length === 1,
+    JSON.parse(readFileSync(join(workspace, "inquiries.json"), "utf8")).length === 1 &&
+    JSON.parse(readFileSync(join(workspace, "readings.json"), "utf8")).length === 1,
 );
 
 // No removed-format field or value anywhere: files and tool outputs.
 const everything = [
-  ...["beliefs", "concepts", "affinities", "inquiries", "practices", "profile"].map((n) =>
+  ...["beliefs", "concepts", "affinities", "inquiries", "practices", "quotes", "readings", "profile"].map((n) =>
     readFileSync(join(workspace, `${n}.json`), "utf8"),
   ),
   readFileSync(join(workspace, "archive/beliefs.json"), "utf8"),
@@ -339,6 +460,65 @@ check(
   "no removed-format field or value in any file or output",
   removedMarkers.every((marker) => !everything.includes(marker)),
 );
+
+// ── Syntheses: immutable generations, web-parser-compatible frontmatter ─────
+
+// The reference parser, copied verbatim from the source monorepo
+// (packages/profile/src/vault/syntheses.ts parseSynthesisMarkdown): what the
+// web app's vault reader will accept when it unions the two writers' files.
+const parseSynthesisMarkdown = (text) => {
+  const fm = text.match(/^---\n([\s\S]*?)\n---\n?([\s\S]*)$/);
+  if (!fm) return null;
+  const head = fm[1];
+  if (!/^\s*collection:\s*syntheses\s*$/m.test(head)) return null;
+  const id = head.match(/^\s*id:\s*(\S+)\s*$/m)?.[1];
+  const at = head.match(/^at:\s*(\S+)\s*$/m)?.[1];
+  if (!id || !at) return null;
+  const unquote = (v) =>
+    v === undefined ? undefined : v.replace(/^"(.*)"$/s, "$1").replace(/\\"/g, '"').replace(/\\\\/g, "\\");
+  const model = unquote(head.match(/^model:\s*(.+?)\s*$/m)?.[1]);
+  const scope = unquote(head.match(/^scope:\s*(.+?)\s*$/m)?.[1]);
+  const body = fm[2].trim();
+  if (!body) return null;
+  return { id, at, text: body, ...(model ? { model } : {}), ...(scope ? { scope } : {}) };
+};
+
+const emptySynthesis = await call("write_synthesis", { text: "   " });
+check("write_synthesis refuses an empty text", emptySynthesis.isError);
+
+const synthesisText =
+  "Un fil traverse ce carnet : ce qui trouble n'est pas l'événement mais le jugement (qt du Manuel, position sur FREEDOM).\n\nTension vive : liberté revendiquée contre besoin de sécurité.";
+const syn = (
+  await call("write_synthesis", { text: synthesisText, scope: "profil complet, premier portrait", model: "smoke-model/1.0" })
+).json();
+check("write_synthesis writes syntheses/syn-<date>-<slug>.md", syn.id?.startsWith(`syn-${today}-`) && existsSync(join(workspace, syn.path)));
+
+const parsed = parseSynthesisMarkdown(readFileSync(join(workspace, syn.path), "utf8"));
+check(
+  "the written file round-trips through the monorepo's parseSynthesisMarkdown",
+  parsed?.id === syn.id &&
+    parsed?.text === synthesisText &&
+    parsed?.model === "smoke-model/1.0" &&
+    parsed?.scope === "profil complet, premier portrait" &&
+    !Number.isNaN(Date.parse(parsed?.at)),
+);
+
+const firstFile = readFileSync(join(workspace, syn.path), "utf8");
+const syn2 = (
+  await call("write_synthesis", { text: "Deuxième génération, même périmètre.", scope: "profil complet, premier portrait" })
+).json();
+check(
+  "a same-day generation gets a new suffixed id; the first file is untouched",
+  syn2.id === `${syn.id}-2` && readFileSync(join(workspace, syn.path), "utf8") === firstFile,
+);
+
+const synList = (await call("get_syntheses", {})).json();
+check(
+  "get_syntheses lists the generations newest first",
+  synList.count === 2 && synList.entries[0].startsWith(syn2.id) && synList.entries[1].includes("smoke-model/1.0"),
+);
+const synFull = (await call("get_syntheses", { id: syn.id })).json();
+check("get_syntheses id returns one generation in full", synFull.id === syn.id && synFull.text === synthesisText);
 
 // Web-vault cohabitation: every foreign file is byte-identical after the session.
 check(

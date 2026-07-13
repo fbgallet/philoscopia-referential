@@ -35,6 +35,18 @@ Between accepting what lies beyond us and trying to transform everything, the ta
 - **Is hoping wise?** : Is hope, which binds us to things beyond our power, a weakness that disturbs the soul, or the very spring that drives us to transform what can be transformed?
 - **Making peace with what was** : The past is what is no longer up to us par excellence: should we accept it fully, even to the point of willing that it was, or stay its prisoner through regret?
 
+## Arguments
+
+- *What is up to us* · for : [The inner citadel](../arguments/control-dichotomy-inner-sovereignty.md)
+- *What is up to us* · against : [The charge of resignation](../arguments/control-dichotomy-quietism-objection.md)
+- *What is up to us* · against : [The fox's freedom](../arguments/control-dichotomy-sour-grapes-objection.md)
+- *Prometheanism* · for : [The possible is not closed](../arguments/control-prometheanism-progress.md)
+- *Prometheanism* · against : [What no progress reaches](../arguments/control-prometheanism-finitude-objection.md)
+- *Prometheanism* · against : [Overreach and the world's recoil](../arguments/control-prometheanism-hubris-objection.md)
+- *Knowing the difference* · for : [The wisdom of the boundary](../arguments/control-median-practical-wisdom.md)
+- *Knowing the difference* · against : [The comfort of the middle](../arguments/control-median-comfort-objection.md)
+- *Knowing the difference* · against : [The difficulty smuggled away](../arguments/control-median-empty-wisdom-objection.md)
+
 ## Related axes
 
 [Relation to desire](../axes/desire.md) · [Hope](../axes/hope.md) · [Relation to the past](../axes/past-relation.md) · [Freedom of the will](../axes/freedom.md) · [The highest good](../axes/sovereign-good.md)

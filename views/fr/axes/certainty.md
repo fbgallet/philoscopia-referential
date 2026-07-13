@@ -38,6 +38,18 @@ On peut tenir des croyances solides et justifiées tout en sachant qu'elles pour
 - **Justifier, jusqu'où ?** : Toute raison s'appuie sur une autre raison : la chaîne s'arrête-t-elle sur un fondement, tourne-t-elle en cercle, ou se perd-elle à l'infini ? C'est le levier du sceptique.
 - **Le monde, ou nos représentations ?** : À supposer même que nos perceptions soient cohérentes, atteignent-elles les choses telles qu'elles sont, ou seulement nos représentations, sans moyen de comparer les deux ?
 
+## Arguments
+
+- *Dogmatisme* · pour : [Le cogito](../arguments/dogmatism-cogito.md)
+- *Dogmatisme* · contre : [Le cimetière des certitudes](../arguments/dogmatism-history-objection.md)
+- *Dogmatisme* · contre : [Le trilemme d'Agrippa](../arguments/dogmatism-regress.md)
+- *Scepticisme* · pour : [L'argument de l'équipollence](../arguments/skepticism-equipollence.md)
+- *Scepticisme* · contre : [L'objection d'auto-réfutation](../arguments/skepticism-self-refutation.md)
+- *Scepticisme* · contre : [Le succès de la connaissance](../arguments/skepticism-success-objection.md)
+- *Faillibilisme* · pour : [La science comme savoir révisable](../arguments/fallibilism-science.md)
+- *Faillibilisme* · contre : [La demi-mesure](../arguments/fallibilism-half-measure.md)
+- *Faillibilisme* · contre : [Le problème de l'induction](../arguments/fallibilism-induction.md)
+
 ## Relations de fondation
 
 - *[Source de la connaissance](../axes/knowledge-source.md) : Empirisme* fonde *[Rapport à la certitude](../axes/certainty.md) : Scepticisme* : Poussé à sa limite, l'[empirisme](../axes/knowledge-source.md) conduit au doute : si tout savoir vient des sens, rien ne garantit les vérités qui les dépassent, comme la nécessité d'une cause ou la régularité de l'avenir. C'est le chemin de [Hume](../philosophers/hume.md), du sensualisme au [scepticisme](../glossary/skepticism.md). Le lien reste contesté : un empirisme modéré, chez Locke, n'a rien de sceptique.
