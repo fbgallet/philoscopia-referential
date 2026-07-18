@@ -74,7 +74,7 @@ The examined life 93% · Primacy of action 8%
 
 Every causal explanation already presupposes a world that appears to someone: science itself operates on phenomena given to a consciousness it forgets. From this observation the phenomenologists draw an order of priority: one must first describe faithfully how things give themselves to lived experience, before seeking their cause. The method, against common sense, requires the [epoché](../glossary/epoche.md), the bracketing of our spontaneous theses about the existence of objects, so as to retain only their mode of appearing. This is why Heidegger questions being from the entity that we are, and Merleau-Ponty makes lived perception, not the physiological fact, the first ground of philosophy.
 
-> “We want to go back to the things themselves.” (Husserl, Logical Investigations, II)
+> “We want to go back to the things themselves.”, Logical Investigations, II
 
 *Sources : Husserl, Ideas Pertaining to a Pure Phenomenology (1913) · Husserl, Cartesian Meditations (1931) · Merleau-Ponty, Phenomenology of Perception (1945), preface*
 

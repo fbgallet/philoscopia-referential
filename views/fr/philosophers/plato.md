@@ -24,7 +24,7 @@ Permanence de l'être 90% · Devenir et flux 10%
 
 Le sensible, en perpétuel devenir, ne peut être objet de science : on n'y rencontre rien de stable à connaître. Ce qui est réellement, ce sont les **Formes intelligibles**, immuables et éternelles, dont les choses changeantes ne sont que des participations. Platon accorde pourtant au devenir sa consistance propre : le monde sensible n'est pas rien, il est une image mobile de l'éternité.
 
-> « Qu'est-ce qui est toujours, sans jamais devenir, et qu'est-ce qui devient toujours, sans être jamais ? » (Timée, 27d)
+> « Qu'est-ce qui est toujours, sans jamais devenir, et qu'est-ce qui devient toujours, sans être jamais ? », Timée, 27d
 
 *Sources : Timée, 27d-28a · République, VI-VII · Cratyle, 439c-440*
 
@@ -56,7 +56,7 @@ Idéalisme 70% · Dualisme 30%
 
 L'argument part d'un constat hérité d'Héraclite : le sensible est en flux perpétuel, et de ce qui ne cesse de devenir on ne peut avoir de science. Si pourtant nous connaissons l'égal, le juste, le cercle, c'est qu'il existe des objets stables et intelligibles dont les choses sensibles ne sont que des reflets imparfaits : voilà le degré supérieur de réalité. L'allégorie de la caverne, où les prisonniers prennent les ombres pour le réel, dramatise ce [renversement](../glossary/transcendence.md). Subsiste pourtant un dualisme que Platon ne résorbe pas, deux ordres distincts maintenus côte à côte, dont le rapport de « participation » demeure problématique, comme il le reconnaît lui-même dans le Parménide.
 
-> « De telles personnes ne tiendraient-elles pas pour la réalité rien d'autre que les ombres des objets fabriqués ? » (République, VII, 515c)
+> « De telles personnes ne tiendraient-elles pas pour la réalité rien d'autre que les ombres des objets fabriqués ? », République, VII, 515c
 
 *Sources : République, VII, 514a-518b (allégorie de la caverne) · Timée, 27d-29d*
 
@@ -78,7 +78,7 @@ Transcendance 95% · Immanence 5%
 
 L'analogie du soleil porte l'argument : de même que le soleil rend les choses visibles et les fait croître, le Bien donne aux Idées d'être connues et d'être tout court. Comme cause à la fois de l'intelligibilité et de l'existence, le Bien ne peut être lui-même une essence parmi d'autres : il les surpasse, situé « par delà l'essence ». Platon pousse ainsi la [transcendance](../glossary/transcendence.md) à son point extrême, à l'opposé d'une [immanence](../glossary/immanence.md) qui logerait le principe dans le monde, et fait de toute la dialectique une ascension, hors de la caverne, vers ce principe séparé que l'âme ne contemple qu'au prix d'une conversion du regard.
 
-> « Le Bien n'est pas l'essence, mais bien au-dessus d'elle, la surpassant en dignité et en puissance. » (République, VI, 509b)
+> « Le Bien n'est pas l'essence, mais bien au-dessus d'elle, la surpassant en dignité et en puissance. », République, VI, 509b
 
 *Sources : République, VI, 508e-509b · Banquet, 210a-212a*
 
@@ -90,7 +90,7 @@ Rationalisme 95% · Empirisme 5%
 
 La doctrine répond au paradoxe du Ménon : on ne peut chercher ni ce qu'on sait déjà, ni ce qu'on ignore, faute de pouvoir le reconnaître. Platon en tire que tout apprentissage doit être un ressouvenir, l'[anamnèse](../glossary/anamnesis.md), de Formes que l'âme a contemplées avant la naissance. La preuve est expérimentale, non assertée : interrogé selon la seule méthode des questions, l'esclave du *[Ménon](../works/meno-plato.md)*, qui n'a jamais appris la géométrie, retrouve de lui-même un théorème, ce qui exclut qu'il l'ait reçu des sens. La connaissance vient donc du dedans, de la raison tournée vers l'intelligible, contre tout empirisme.
 
-> « Chercher et apprendre ne sont donc, au total, que réminiscence. » (Ménon, 81d)
+> « Chercher et apprendre ne sont donc, au total, que réminiscence. », Ménon, 81d
 
 *Sources : Ménon, 81a-86c · Phédon, 72e-77a*
 
@@ -132,7 +132,7 @@ Immortalisme 100%
 
 Le *[Phédon](../works/phaedo-plato.md)* ne pose pas la survie, il l'argumente, par quatre preuves enchaînées : la génération des contraires, l'[anamnèse](../glossary/anamnesis.md) qui suppose une connaissance antérieure à la naissance, l'affinité de l'âme avec l'intelligible simple et indestructible, enfin l'argument de l'essence, l'âme portant en elle la vie ne pouvant admettre son contraire. Le raisonnement s'appuie sur le [dualisme](../axes/self-nature.md) de l'âme et du corps : ce qui est simple ne se décompose pas, donc ne périt pas. La mort cesse alors d'être un anéantissement pour devenir le passage de l'âme vers l'intelligible, et la philosophie elle-même, comme détachement du corps, en est l'apprentissage anticipé.
 
-> « Ceux qui s'attachent droitement à la philosophie s'exercent à mourir. » (Phédon, 67e)
+> « Ceux qui s'attachent droitement à la philosophie s'exercent à mourir. », Phédon, 67e
 
 *Sources : Phédon, 64a, 102a-107b · République, X, 614a-621d (mythe d'Er)*
 
@@ -371,6 +371,7 @@ Dans le Phédon, le corps est le tombeau de l'âme : il l'entrave, la trompe par
 
 - **[Nietzsche](../philosophers/nietzsche.md)** (réinterprète) : L'influence ne passe pas par les thèses propres de [Platon](../philosophers/plato.md), mais par son personnage [Calliclès](../characters/callicles.md) : dans le *[Gorgias](../works/gorgias-plato.md)*, Platon met dans sa bouche le droit du plus fort et la dénonciation de la morale des faibles pour mieux les réfuter. [Nietzsche](../philosophers/nietzsche.md) réactive cette position immoraliste, que la critique rapproche de sa morale des maîtres, et la retourne contre la morale d'inspiration socratique et platonicienne.
 - **[Plotin](../philosophers/plotinus.md)** (réinterprète) : [Plotin](../philosophers/plotinus.md) relit [Platon](../philosophers/plato.md) par ses textes, six siècles après, et en tire le [néoplatonisme](../movements/platonism.md) : une métaphysique hiérarchique de l'Un, de l'Intellect et de l'Âme qui dépasse la lettre des dialogues.
+- **[Schopenhauer](../philosophers/schopenhauer.md)** (réinterprète) : [Schopenhauer](../philosophers/schopenhauer.md) nomme [Platon](../philosophers/plato.md) et [Kant](../philosophers/kant.md) ses deux maîtres. Il reprend les Idées platoniciennes, mais les déplace : elles ne sont plus des réalités intelligibles séparées, elles deviennent les degrés éternels d'objectivation du [vouloir](../glossary/vouloir-vivre.md), que seul le [génie](../glossary/genie.md) contemple dans l'expérience esthétique.
 - **[Simone Weil](../philosophers/simone-weil.md)** (réinterprète) : [Weil](../philosophers/simone-weil.md) lit [Platon](../philosophers/plato.md) en mystique : le Bien au-delà de l'être, la conversion du regard hors de la caverne deviennent chez elle attente de Dieu et attention, un platonisme christianisé où le vrai se reçoit plus qu'il ne se conquiert.
 - **[Stoïcisme](../movements/stoicism.md)** (prolonge) : La physique [stoïcienne](../movements/stoicism.md) puise dans le Timée de [Platon](../philosophers/plato.md) l'idée d'un cosmos vivant, ordonné et régi par une providence rationnelle, qu'elle refond en un matérialisme du souffle et du logos immanent.
 - **[Aristote](../philosophers/aristotle.md)** (réagit contre) : Formé vingt ans à l'Académie, [Aristote](../philosophers/aristotle.md) garde de [Platon](../philosophers/plato.md) l'exigence de science et de définition, mais rejette la séparation des Idées : la forme n'existe que dans les substances individuelles, pas dans un monde à part.

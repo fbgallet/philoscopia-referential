@@ -55,7 +55,7 @@ Le vécu qualitatif que nous croyons saisir par introspection est une illusion q
 
 ## Axes liés
 
-[Une machine peut-elle penser](../axes/machine-mind.md) · [Nature de l'esprit et du réel](../axes/reality-nature.md) · [Liberté de la volonté](../axes/freedom.md)
+[Une machine peut-elle penser](../axes/machine-mind.md) · [Nature de l'esprit et du réel](../axes/reality-nature.md) · [Liberté de la volonté](../axes/freedom.md) · [Place de la science](../axes/science-place.md)
 
 ---
 

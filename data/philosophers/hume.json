@@ -171,16 +171,7 @@
           }
         ],
         "strength": "STRONG",
-        "quote": {
-          "text": {
-            "fr": "La raison est, et ne doit être, que l'esclave des passions.",
-            "en": "Reason is, and ought only to be, the slave of the passions."
-          },
-          "source": {
-            "fr": "Traité de la nature humaine, II, 3, 3",
-            "en": "A Treatise of Human Nature, II, 3, 3"
-          }
-        }
+        "quoteId": "la-raison-est-et-ne-doit-hume"
       }
     },
     {
@@ -234,16 +225,7 @@
             "en": "A Treatise of Human Nature, I, part I, sect. 1"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Toutes nos idées ne sont que des copies de nos impressions, ou, en d'autres termes, il nous est impossible de penser quoi que ce soit que nous n'ayons pas auparavant senti.",
-            "en": "All our ideas are nothing but copies of our impressions, or, in other words, it is impossible for us to think of anything which we have not antecedently felt."
-          },
-          "source": {
-            "fr": "Enquête sur l'entendement humain, sect. II",
-            "en": "Enquiry Concerning Human Understanding, sect. II"
-          }
-        },
+        "quoteId": "toutes-nos-idees-ne-sont-que-hume",
         "strength": "STRONG"
       }
     },
@@ -279,16 +261,7 @@
             "en": "A Treatise of Human Nature, I, part III, sect. 6 and 14"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Après une répétition de cas semblables, l'esprit est porté par l'habitude, dès l'apparition d'un événement, à en attendre le compagnon ordinaire... C'est donc le sentiment ou l'impression d'où nous tirons l'idée de pouvoir ou de connexion nécessaire.",
-            "en": "After a repetition of similar instances, the mind is carried by habit, upon the appearance of one event, to expect its usual attendant... This connexion, therefore, which we feel in the mind, is the impression from which we form the idea of power or necessary connexion."
-          },
-          "source": {
-            "fr": "Enquête sur l'entendement humain, sect. VII",
-            "en": "Enquiry Concerning Human Understanding, sect. VII"
-          }
-        },
+        "quoteId": "apres-une-repetition-de-cas-semblables-hume",
         "strength": "STRONG"
       }
     },
@@ -344,16 +317,7 @@
             "en": "A Treatise of Human Nature, I, part IV, sect. 6 (of personal identity)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Pour ma part, quand je pénètre le plus intimement dans ce que j'appelle moi-même, je tombe toujours sur telle ou telle perception particulière... je ne peux jamais me saisir, moi, en aucun moment sans une perception.",
-            "en": "For my part, when I enter most intimately into what I call myself, I always stumble on some particular perception or other... I never can catch myself at any time without a perception."
-          },
-          "source": {
-            "fr": "Traité de la nature humaine, I, IV, 6",
-            "en": "A Treatise of Human Nature, I, IV, 6"
-          }
-        },
+        "quoteId": "pour-ma-part-quand-je-penetre-hume",
         "strength": "STRONG"
       }
     },
@@ -377,16 +341,7 @@
             "en": "A Treatise of Human Nature, II, part III, sect. 3 (of the influencing motives of the will)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "La raison est, et ne doit qu'être, l'esclave des passions, et ne peut prétendre à d'autre rôle qu'à les servir et à leur obéir.",
-            "en": "Reason is, and ought only to be the slave of the passions, and can never pretend to any other office than to serve and obey them."
-          },
-          "source": {
-            "fr": "Traité de la nature humaine, II, III, 3",
-            "en": "A Treatise of Human Nature, II, III, 3"
-          }
-        },
+        "quoteId": "la-raison-est-et-ne-doit-hume-2",
         "strength": "STRONG"
       }
     },
@@ -419,16 +374,7 @@
             "en": "A Treatise of Human Nature, III, part I, sect. 1-2 (morals not derived from reason)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "La morale est plus proprement sentie que jugée.",
-            "en": "Morality is more properly felt than judg'd of."
-          },
-          "source": {
-            "fr": "Traité de la nature humaine, III, I, 2",
-            "en": "A Treatise of Human Nature, III, I, 2"
-          }
-        },
+        "quoteId": "la-morale-est-plus-proprement-sentie-hume",
         "strength": "STRONG"
       }
     },
@@ -483,16 +429,7 @@
             "en": "Enquiry Concerning Human Understanding, sect. X (of miracles)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Un homme sage proportionne sa croyance à l'évidence.",
-            "en": "A wise man proportions his belief to the evidence."
-          },
-          "source": {
-            "fr": "Enquête sur l'entendement humain, sect. X",
-            "en": "Enquiry Concerning Human Understanding, sect. X"
-          }
-        },
+        "quoteId": "un-homme-sage-proportionne-sa-croyance-hume",
         "strength": "STRONG"
       }
     },
@@ -756,16 +693,7 @@
             "en": "Essays, \"Of the Standard of Taste\""
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "La beauté n'est pas une qualité des choses mêmes : elle existe seulement dans l'esprit qui les contemple, et chaque esprit perçoit une beauté différente.",
-            "en": "Beauty is no quality in things themselves: it exists merely in the mind which contemplates them; and each mind perceives a different beauty."
-          },
-          "source": {
-            "fr": "Essais, « De la norme du goût »",
-            "en": "Essays, \"Of the Standard of Taste\""
-          }
-        },
+        "quoteId": "la-beaute-n-est-pas-une-hume",
         "strength": "STRONG"
       }
     },

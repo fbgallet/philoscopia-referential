@@ -54,7 +54,7 @@ Tri raisonné 60% · Affirmation 35% · Extinction-détachement 5%
 
 Mill corrige l'hédonisme de Bentham par une hiérarchie qualitative : tous les désirs et plaisirs ne se valent pas, ceux qui engagent les facultés supérieures sont plus dignes que ceux du corps. Le tri ne porte plus seulement sur la quantité mais sur la qualité des plaisirs, sur un fond d'affirmation de la satisfaction comme fin de la vie.
 
-> « Il vaut mieux être un Socrate insatisfait qu'un imbécile satisfait. » (L'Utilitarisme, ch. II)
+> « Il vaut mieux être un Socrate insatisfait qu'un imbécile satisfait. », L'Utilitarisme, ch. II
 
 *Sources : L'Utilitarisme, ch. II*
 
@@ -76,7 +76,7 @@ Conséquentialisme 100%
 
 Mill cherche à fonder la morale sur un fait, non sur une intuition indémontrable : la seule preuve qu'une chose est désirable, soutient-il, est qu'on la désire effectivement, et chacun désire en dernier ressort le bonheur. De là le [principe du plus grand bonheur](../glossary/greatest-happiness-principle.md) comme unique critère du juste, et le conséquentialisme qu'il oppose à l'intuitionnisme moral comme au [devoir kantien](../glossary/categorical-imperative.md) : il reproche à Kant de ne pouvoir, en pratique, écarter une maxime universalisable qu'en invoquant la désirabilité de ses conséquences, réintroduisant ainsi l'utilité qu'il prétendait congédier.
 
-> « Les actions sont bonnes dans la mesure où elles tendent à promouvoir le bonheur, et mauvaises dans la mesure où elles tendent à produire le contraire du bonheur. » (L'Utilitarisme, ch. 2)
+> « Les actions sont bonnes dans la mesure où elles tendent à promouvoir le bonheur, et mauvaises dans la mesure où elles tendent à produire le contraire du bonheur. », L'Utilitarisme, ch. 2
 
 *Sources : L'Utilitarisme (1863), ch. 2 (la doctrine du plus grand bonheur) · L'Utilitarisme, ch. 1 (critique de l'a priori kantien)*
 
@@ -88,7 +88,7 @@ Hédonisme 70% · Eudémonisme 30%
 
 Contre l'objection ancienne qui ravale l'[hédonisme](../glossary/hedonism.md) au rang d'une morale de pourceaux, Mill répond qu'elle se trompe non sur le plaisir mais sur l'homme : nos facultés supérieures réclament un bonheur d'une autre nature. D'où sa rupture avec le calcul purement quantitatif de [Bentham](../philosophers/bentham.md) : les plaisirs diffèrent aussi en qualité, et ceux de l'intelligence, des sentiments et de l'imagination l'emportent intrinsèquement, parce que celui qui connaît les deux ne consentirait pour rien à descendre. Au cœur de l'argument, un sentiment de dignité que blesserait une existence bornée aux satisfactions du corps, ce qui infléchit l'hédonisme millien vers un épanouissement proche de l'[eudémonisme](../glossary/eudaimonism.md).
 
-> « Il vaut mieux être un homme insatisfait qu'un porc satisfait ; mieux vaut être Socrate insatisfait qu'un imbécile satisfait. » (L'Utilitarisme, ch. 2)
+> « Il vaut mieux être un homme insatisfait qu'un porc satisfait ; mieux vaut être Socrate insatisfait qu'un imbécile satisfait. », L'Utilitarisme, ch. 2
 
 *Sources : L'Utilitarisme, ch. 2 (qualité contre quantité des plaisirs) · L'Utilitarisme, ch. 4 (le bonheur, seule chose désirable comme fin)*
 
@@ -110,7 +110,7 @@ Anarchisme 85% · Autorité 15%
 
 Toute conduite se partage en ce qui ne regarde que l'agent et ce qui touche autrui : de cette distinction Mill tire que la contrainte n'est jamais légitime dans la première sphère, où nul n'est meilleur juge de son bien que l'intéressé lui-même. Le principe de non-nuisance (harm principle) en découle : empêcher le tort fait à autrui est le seul titre du pouvoir social, jamais le bien supposé de la personne. Mill vise ainsi le paternalisme de l'État comme la tyrannie de la majorité, ce despotisme diffus de l'opinion qui, dans une démocratie, menace l'individu plus sûrement que le tyran d'autrefois.
 
-> « Le seul objet qui autorise les hommes, individuellement ou collectivement, à troubler la liberté d'action de quiconque, est la protection de soi-même. » (De la liberté, ch. 1)
+> « Le seul objet qui autorise les hommes, individuellement ou collectivement, à troubler la liberté d'action de quiconque, est la protection de soi-même. », De la liberté, ch. 1
 
 *Sources : De la liberté (1859), ch. 1 (énoncé du principe de non-nuisance) · De la liberté, ch. 1 (la tyrannie de la majorité)*
 
@@ -122,7 +122,7 @@ Individualisme 88% · Holisme 13%
 
 Parce qu'aucune forme de vie ne vaut a priori pour tous et que nul ne sait d'avance ce qui lui convient, Mill érige la liberté en condition d'expériences de vie par lesquelles chacun éprouve et façonne son propre caractère. L'individualité n'est donc pas un simple agrément privé mais le ressort de tout progrès : c'est des esprits originaux que naissent les vérités et les usages nouveaux dont la société entière hérite. D'où sa cible, le despotisme de la coutume et le conformisme qui nivellent les caractères et tarissent cette source, menace d'autant plus pressante que se renforce le pouvoir de l'opinion de masse.
 
-> « La nature humaine n'est pas une machine que l'on construit sur un modèle, mais un arbre qui doit croître et se développer de tous côtés. » (De la liberté, ch. 3)
+> « La nature humaine n'est pas une machine que l'on construit sur un modèle, mais un arbre qui doit croître et se développer de tous côtés. », De la liberté, ch. 3
 
 *Sources : De la liberté, ch. 3 (de l'individualité comme élément du bien-être)*
 
@@ -294,7 +294,7 @@ Scepticisme 78% · Dogmatisme 22%
 
 Réduire une opinion au silence présuppose qu'on la sait fausse, donc qu'on se croit infaillible : or nul ne l'est, et l'histoire est pleine de vérités d'abord persécutées. De cette faillibilité Mill tire l'exigence de débat : étouffer une opinion peut nous priver d'une vérité, et même fausse, elle aiguise par la contradiction la vérité reçue, qui sans cela dégénère en dogme mort, professé sans en saisir le sens. Le doute n'est donc pas chez lui scepticisme paralysant mais condition d'un savoir vivant, ce qui le range, sans renoncer à la vérité, du côté du [faillibilisme](../axes/certainty.md).
 
-> « Réduire au silence une opinion, c'est voler l'humanité ; ceux qui dissentent plus encore que ceux qui la partagent. » (De la liberté, ch. 2)
+> « Réduire au silence une opinion, c'est voler l'humanité ; ceux qui dissentent plus encore que ceux qui la partagent. », De la liberté, ch. 2
 
 *Sources : De la liberté, ch. 2 (l'argument de la faillibilité et le dogme mort)*
 

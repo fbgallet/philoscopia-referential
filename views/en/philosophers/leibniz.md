@@ -64,7 +64,7 @@ Rationalism 93% · Empiricism 7%
 
 Against the empiricism of Locke, for whom nothing is in the understanding that was not first in the senses, Leibniz replies: “nothing, except the understanding itself”. The mind is not a [blank slate](../glossary/tabula-rasa.md) but carries within it [innate ideas](../glossary/innate-ideas.md) in potency, like veins in marble; necessary truths (logic, mathematics, metaphysics) cannot come from experience, which yields only particular cases. This is an avowed [rationalism](../axes/knowledge-source.md), tempered by acknowledging the role of the senses for truths of fact.
 
-> “Nothing is in the intellect that was not first in the senses, except the intellect itself.” (New Essays on Human Understanding, II, 1)
+> “Nothing is in the intellect that was not first in the senses, except the intellect itself.”, New Essays on Human Understanding, II, 1
 
 *Sources : New Essays on Human Understanding, preface and book II, ch. 1 · New Essays, II, 1, §2 (the veins in the marble)*
 
@@ -76,7 +76,7 @@ Dogmatism 95% · Skepticism 5%
 
 Two principles govern all knowledge: that of contradiction, which rules necessary truths, and that of [sufficient reason](../glossary/principle-of-sufficient-reason.md), by which nothing is true without a reason why it is so rather than otherwise. If every truth has its reason, then every truth is in principle analyzable and demonstrable: this is the ground of Leibniz's rationalist [dogmatism](../glossary/dogmatism.md), which pushes the idea to its limit by dreaming of a characteristica universalis, a universal language of concepts, and a calculus ratiocinator in which disagreements would be resolved by reckoning, as between two accountants. Certainty is no longer a distant ideal but the assignable terminus of a regulated procedure.
 
-> “When a controversy arises, there will be no more need of disputation between two philosophers than between two accountants. It will suffice to take their pens, sit down, and say: let us calculate.” (On the Art of Combinations / Letters)
+> “When a controversy arises, there will be no more need of disputation between two philosophers than between two accountants. It will suffice to take their pens, sit down, and say: let us calculate.”, On the Art of Combinations / Letters
 
 *Sources : On the Method of Universality; letters on the characteristica universalis · Monadology, §31-32 (principles of contradiction and of sufficient reason)*
 
@@ -88,7 +88,7 @@ Idealism 85% · Dualism 15%
 
 Whatever is composite presupposes something simple, for an aggregate borrows its reality from its elements: there must therefore exist simple substances, without parts, the monads. But matter, endlessly divisible and extended, is never simple: the true atoms of nature cannot be material but must be of a spiritual order, units whose essence is perception and appetition. Extended matter then has only a derived reality, that of a well-founded phenomenon resulting from the aggregation of monads. This [immaterialism](../axes/reality-nature.md) answers the problem of the unity of the real that Cartesian extension, always divisible, could not ground; it keeps a dualist tint, the order of bodies and that of souls remaining distinct but harmonized.
 
-> “The monads have no windows through which anything could enter or leave.” (Monadology, §7)
+> “The monads have no windows through which anything could enter or leave.”, Monadology, §7
 
 *Sources : Monadology, §1-7 (the monads, simple windowless substances) · Letters to De Volder and Des Bosses (well-founded phenomena)*
 
@@ -110,7 +110,7 @@ Metaphysical optimism 100%
 
 Nothing happens without a [sufficient reason](../glossary/principle-of-sufficient-reason.md), not even creation: if God brought this world into being rather than another among the infinity of possible worlds he conceives, it is because his wisdom and goodness led him to choose the one that realizes the maximum of perfection with the least means, “the best of all possible worlds”. Evil is therefore not a refutation but a calculated part: God permits it where it conditions a greater good of the whole. This optimism answers the scandal of evil by turning an objection against providence into a consequence of divine perfection, the reasoning Voltaire would mock in Candide through Pangloss.
 
-> “It follows from the supreme perfection of God that in producing the universe he chose the best possible plan.” (Monadology, §55; Theodicy)
+> “It follows from the supreme perfection of God that in producing the universe he chose the best possible plan.”, Monadology, §55; Theodicy
 
 *Sources : Theodicy, §8-10 and §225 (the best of all possible worlds) · Discourse on Metaphysics, §3 (God does everything in the most perfect way)*
 
@@ -132,7 +132,7 @@ Hard determinism 55% · Free will 45%
 
 If nothing happens without a [sufficient reason](../glossary/principle-of-sufficient-reason.md), how can the act remain free? Leibniz unties the difficulty by distinguishing two necessities: absolutely necessary is that whose contrary is contradictory (truths of reason); only hypothetically necessary is what presupposes God's free choice of the best. The human act belongs to the second case: it is certain, because inscribed in the person's complete notion, yet not necessary, for its contrary remains logically possible. Motives therefore incline without compelling, and this is precisely what separates Leibniz from the necessitarianism of [Spinoza](../philosophers/spinoza.md), where everything follows from God with geometrical necessity. This refined [compatibilism](../glossary/compatibilism.md) reconciles determination by reasons with contingency, hence a value barely on the determinist side.
 
-> “Reasons incline without necessitating.” (Theodicy)
+> “Reasons incline without necessitating.”, Theodicy
 
 *Sources : Theodicy, §43-53 and §288 (inclining without necessitating) · Discourse on Metaphysics, §13 (the individual notion includes everything, without absolute necessity)*
 
@@ -154,7 +154,7 @@ Coherence 60% · Correspondence 40%
 
 Leibniz distinguishes truths of reason, necessary, whose negation is contradictory, from truths of fact, contingent, grounded in the principle of sufficient reason. In every true proposition the predicate is contained in the subject (praedicatum inest subjecto): truth is an analytic coherence of notions, secured by the divine understanding. A correspondence share remains for truths of fact, yet the heart of the doctrine is the internal coherence of concepts.
 
-> “In every true affirmative proposition the predicate is contained in the subject: praedicatum inest subjecto.” (Discourse on Metaphysics, §8; Generales inquisitiones)
+> “In every true affirmative proposition the predicate is contained in the subject: praedicatum inest subjecto.”, Discourse on Metaphysics, §8; Generales inquisitiones
 
 *Sources : Monadology, §31-36 (truths of reason and truths of fact) · Discourse on Metaphysics, §8 (the predicate is in the subject)*
 
@@ -186,7 +186,7 @@ Emergentism 78% · Reductionism 22%
 
 For Leibniz, perception cannot be explained by mechanics: were one to enter a thinking machine enlarged like a mill, one would find only parts pushing one another, never anything to account for a perception. The life of the soul is thus not reducible to the motions of bodies; it belongs to an order of its own (final causes) harmonized with the mechanical, which leans to the emergentist side.
 
-> “Supposing there were a machine whose structure made it think... on visiting it one would find only parts pushing one another, and never anything to explain a perception.” (Monadology, §17)
+> “Supposing there were a machine whose structure made it think... on visiting it one would find only parts pushing one another, and never anything to explain a perception.”, Monadology, §17
 
 *Sources : Monadology, §17 (the mill argument)*
 

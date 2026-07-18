@@ -82,5 +82,76 @@
       }
     }
   ],
-  "updatedAt": "2026-06-26T00:00:00.000Z"
+  "roles": [
+    {
+      "role": "OBJECTS",
+      "position": { "axisId": "DISTRIBUTIVE_JUSTICE", "poleId": "LIBERTARIANISM" },
+      "attacks": "POSITION",
+      "argumentId": "libertarianism-self-ownership",
+      "problems": ["original-position"],
+      "summary": {
+        "fr": "Derrière un voile où j'ignore ma place, je n'accepterais pas des règles qui me livrent à la misère si je nais du mauvais côté : la seule liberté des échanges ne suffit pas.",
+        "en": "Behind a veil where I do not know my place, I would not accept rules that hand me over to destitution should I be born on the wrong side: the mere freedom of exchange is not enough."
+      },
+      "reconstruction": {
+        "development": [
+          {
+            "fr": "Demandons quelles règles de société chacun choisirait sans savoir la place qu'il y occupera, riche ou pauvre, doué ou infirme.",
+            "en": "Let us ask which rules of society each person would choose without knowing the place they will occupy in it, rich or poor, gifted or infirm."
+          },
+          {
+            "fr": "À cette place, nul ne parierait sur des règles qui laissent un individu sombrer dans la misère au seul motif que ses échanges furent « libres » : on se protégerait d'abord contre le pire.",
+            "en": "In that position, no one would gamble on rules that let a person sink into destitution on the sole ground that their exchanges were 'free': one would first protect against the worst."
+          },
+          {
+            "fr": "Or la justice, c'est ce que des personnes libres et égales accepteraient d'un tel point de vue impartial, non ce qui avantage ceux que la naissance a déjà favorisés.",
+            "en": "Now justice is what free and equal persons would accept from such an impartial standpoint, not what favors those whom birth has already favored."
+          }
+        ],
+        "conclusion": {
+          "fr": "Donc la seule légitimité des transferts ne fait pas une société juste : une répartition qu'aucun de nous n'accepterait sans connaître sa place ne peut être dite équitable.",
+          "en": "So the mere legitimacy of transfers does not make a just society: a distribution none of us would accept without knowing our place cannot be called fair."
+        }
+      },
+      "responses": [
+        {
+          "id": "revise",
+          "label": {
+            "fr": "Sans connaître ma place, je voudrais d'abord protéger les plus faibles. La liberté des échanges ne peut primer sur ce que tous accepteraient.",
+            "en": "Not knowing my place, I would first want to protect the weakest. The freedom of exchange cannot override what all would accept."
+          },
+          "hints": [{ "axisId": "DISTRIBUTIVE_JUSTICE", "value": { "kind": "scalar", "value": -0.6 }, "weight": 2 }],
+          "discussion": {
+            "fr": "Vous basculez vers l'égalitarisme de <ph id='rawls'>Rawls</ph> : l'impartialité prime sur les titres de possession.",
+            "en": "You cross over to <ph id='rawls'>Rawls</ph>'s egalitarianism: impartiality takes precedence over entitlements."
+          }
+        },
+        {
+          "id": "qualify",
+          "label": {
+            "fr": "J'admets qu'il faut un socle en dessous duquel nul ne tombe ; au-dessus, je laisse la liberté jouer.",
+            "en": "I grant that there must be a floor below which no one falls; above it, I let liberty do its work."
+          },
+          "hints": [{ "axisId": "DISTRIBUTIVE_JUSTICE", "value": { "kind": "scalar", "value": 0 }, "weight": 1 }],
+          "discussion": {
+            "fr": "Vous vous arrêtez au suffisantarisme : un filet garanti, puis la liberté des échanges.",
+            "en": "You stop at sufficientarianism: a guaranteed safety net, then the freedom of exchange."
+          }
+        },
+        {
+          "id": "refute",
+          "label": {
+            "fr": "Ce voile est un artifice : on m'y fait raisonner en peureux qui parie contre lui-même. Des personnes réelles et responsables préfèrent la liberté au filet garanti par la contrainte.",
+            "en": "This veil is an artifice: it makes me reason like a coward betting against myself. Real, responsible persons prefer liberty to a safety net secured by coercion."
+          },
+          "hints": [{ "axisId": "DISTRIBUTIVE_JUSTICE", "value": { "kind": "scalar", "value": 1 }, "weight": 0.5 }],
+          "discussion": {
+            "fr": "Vous tenez l'objection de <ph id='nozick'>Nozick</ph> : le voile fausse le choix en imposant l'aversion au risque, donc l'égalité.",
+            "en": "You hold <ph id='nozick'>Nozick</ph>'s objection: the veil skews the choice by imposing risk-aversion, hence equality."
+          }
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
 }

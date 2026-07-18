@@ -47,6 +47,24 @@ Between accepting what lies beyond us and trying to transform everything, the ta
 - *Knowing the difference* · against : [The comfort of the middle](../arguments/control-median-comfort-objection.md)
 - *Knowing the difference* · against : [The difficulty smuggled away](../arguments/control-median-empty-wisdom-objection.md)
 
+## Quotations
+
+> “"Ask of me any boon you like." "Stand out of my sunlight."” — [Diogenes of Sinope](../philosophers/diogenes.md), Diogenes Laertius, Lives, VI, 38
+
+> “Some things are within our power, while others are not.” — [Epictetus](../philosophers/epictetus.md), Enchiridion, §1
+
+> “I no longer look with my eyes but with my spirit, and the blade follows of itself the natural openings.” — [Zhuangzi](../philosophers/zhuangzi.md), ch. 3 (The Secret of Caring for Life)
+
+> “The Dao does nothing, and yet nothing is left undone.” — [Laozi](../philosophers/laozi.md), Dao De Jing, ch. 37
+
+> “They may kill me, banish me, strip me of my rights: Anytus and Meletus can do that, but harm me they cannot.” — [Socrates](../philosophers/socrates.md), Plato, Apology, 30c-d
+
+> “Of things, some are in our power, and others are not.” — [Epictetus](../philosophers/epictetus.md), Enchiridion, §1
+
+> “Nothing in the world is softer and weaker than water; yet for attacking what is hard and strong nothing surpasses it.” — [Laozi](../philosophers/laozi.md), Dao De Jing, ch. 78
+
+> “The wise man loses nothing through any loss, for he carries all his goods within himself.” — [Seneca](../philosophers/seneca.md), On the Constancy of the Wise Man, V
+
 ## Related axes
 
 [Relation to desire](../axes/desire.md) · [Hope](../axes/hope.md) · [Relation to the past](../axes/past-relation.md) · [Freedom of the will](../axes/freedom.md) · [The highest good](../axes/sovereign-good.md)

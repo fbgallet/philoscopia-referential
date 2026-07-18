@@ -24,7 +24,7 @@ Skepticism 100%
 
 The testimony of Aristocles, gathered from Timon, reduces all wisdom to three questions: how are things by nature, what attitude should we take toward them, and what follows from this for us. The answer to the first is what makes Pyrrho original: things are indeterminate, unstable and indiscriminable, so that neither our sensations nor our opinions tell the true or the false. From this verdict about the object, and not from an examination of our faculties, he concludes that we should place no trust in them and remain [without opinion](../glossary/epoche.md). More radical than fallibilism, which revises its beliefs, he refuses even to assert that nothing is knowable, and is content to say that things are "no more this than that".
 
-> “Things are no more this than that, nor both at once, nor neither.” (Aristocles, cited by Eusebius, Preparation for the Gospel, XIV, 18)
+> “Things are no more this than that, nor both at once, nor neither.”, Aristocles, cited by Eusebius, Preparation for the Gospel, XIV, 18
 
 *Sources : Aristocles (after Timon), cited by Eusebius, Preparation for the Gospel, XIV, 18 · Diogenes Laertius, Lives of the Philosophers, IX, 61-108*
 

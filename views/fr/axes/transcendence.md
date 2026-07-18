@@ -29,6 +29,20 @@ Le sacré dépasse ce monde : la vérité, le bien ou Dieu résident dans un ord
 - *[Où réside le sacré](../axes/transcendence.md) : Transcendance* fonde *[Attention et divertissement](../axes/attention.md) : Recueillement* : Si le sens réside dans un ordre qui dépasse le flux des sollicitations, alors rassembler son attention est la condition pour s'y rendre présent. La transcendance fonde le recueillement : contre le divertissement qui nous disperse, [Pascal](../philosophers/pascal.md) tient le silence intérieur et l'attention soutenue pour la voie d'une vie spirituelle.
 - *[Où réside le sacré](../axes/transcendence.md) : Transcendance* fonde *[Le sens de la vie](../axes/life-meaning.md) : Téléologie-providence* : Si le sens et la valeur reposent en un principe qui dépasse le monde donné, la vie humaine reçoit sa destination de cet au-delà. [La transcendance](../glossary/transcendence.md) fonde ainsi une lecture téléologique de l'existence, ordonnée à une fin qui la précède.
 
+## Citations
+
+> « Il n'est aucun lieu où le dao ne soit. » — [Zhuangzi](../philosophers/zhuangzi.md), ch. 22
+
+> « Il n'est aucune des choses dont il est le principe ; il est tel pourtant que, sans qu'on en puisse rien affirmer, ni le nom, ni la raison, nous pouvons cependant dire quelque chose à son sujet. » — [Plotin](../philosophers/plotinus.md), Ennéades, V, 3, 13-14
+
+> « Il n'y a aucune différence entre le saṃsāra et le nirvāṇa ; il n'y a aucune différence entre le nirvāṇa et le saṃsāra. » — [Nāgārjuna](../philosophers/nagarjuna.md), Mūlamadhyamakakārikā, XXV, 19
+
+> « Le Bien n'est pas l'être, mais il est encore au-dessus et au-delà de l'être, le surpassant en dignité et en puissance. » — [Platon](../philosophers/plato.md), République, VI, 509b
+
+> « Le Bien n'est pas l'essence, mais bien au-dessus d'elle, la surpassant en dignité et en puissance. » — [Platon](../philosophers/plato.md), République, VI, 509b
+
+> « Un esprit sacré réside en nous, observateur et gardien de nos biens et de nos maux. » — [Sénèque](../philosophers/seneca.md), Lettres à Lucilius, XLI
+
 ## Axes liés
 
 [Foi et raison](../axes/faith-reason.md) · [Existence de Dieu](../axes/god-existence.md) · [Souverain bien](../axes/sovereign-good.md)

@@ -191,16 +191,7 @@
           "fr": "Un objet fabriqué, un coupe-papier, présuppose dans l'esprit de l'artisan le concept et la fonction qui le définissent : son essence précède son existence. <pb>Faute d'un Dieu artisan, l'homme ne peut être pensé ainsi</pb> : il n'a pas d'essence préalable à réaliser, il existe d'abord et se définit ensuite par ce qu'il fait de lui-même. Le courant retourne ainsi tout l'<mv>essentialisme</mv>, de <ph id='plato'>Platon</ph> à la théologie : il n'y a pas de modèle de l'homme antérieur aux hommes singuliers, et <ph>Kierkegaard</ph> déjà opposait à l'essence hégélienne du système le devenir-soi de l'existant.",
           "en": "A manufactured object, a paper-knife, presupposes in the artisan's mind the concept and function that define it: its essence precedes its existence. <pb>Lacking an artisan God, the human being cannot be thought this way</pb>: there is no prior essence to realize, the person first exists and only then defines themselves by what they make of themselves. The movement thus overturns the whole of <mv>essentialism</mv>, from <ph id='plato'>Plato</ph> to theology: there is no model of man preceding singular men, and <ph>Kierkegaard</ph> already set the existing individual's becoming-a-self against the system's Hegelian essence."
         },
-        "quote": {
-          "text": {
-            "fr": "L'homme existe d'abord, se rencontre, surgit dans le monde, et qu'il se définit après.",
-            "en": "Man first of all exists, encounters himself, surges up in the world, and defines himself afterwards."
-          },
-          "source": {
-            "fr": "Sartre, L'existentialisme est un humanisme",
-            "en": "Sartre, Existentialism Is a Humanism"
-          }
-        },
+        "quoteId": "l-homme-existe-d-abord-se-sartre-2",
         "references": [
           { "fr": "L'existentialisme est un humanisme", "en": "Existentialism Is a Humanism" },
           { "fr": "L'Être et le Néant", "en": "Being and Nothingness" }
@@ -219,16 +210,7 @@
           "fr": "Si l'homme n'a pas d'essence reçue, rien en lui ni hors de lui ne décide à sa place : il est sa liberté même, non parce qu'il jouirait d'un libre arbitre confortable, mais parce qu'aucune valeur, aucune nature, aucun ordre ne le dispense de choisir. D'où le renversement du <c id='determinism'>déterminisme</c> : invoquer ses passions, son milieu ou son caractère pour s'excuser, c'est de la <c id='bad-faith'>mauvaise foi</c>, car ce sont mes choix qui leur donnent prise. <dif>La situation où l'homme est jeté ne contredit pas cette liberté</dif> mais en est la matière : c'est le <c>projet</c> librement assumé qui constitue l'obstacle en obstacle, contre l'illusion qu'on serait agi du dehors.",
           "en": "If the human being has no received essence, nothing within or outside them decides in their stead: they are their freedom itself, not because they enjoy a comfortable free will, but because no value, no nature, no order spares them from choosing. Hence the reversal of <c id='determinism'>determinism</c>: to invoke one's passions, milieu or character as an excuse is <c id='bad-faith'>bad faith</c>, for it is my choices that give them their grip. <dif>The situation into which one is thrown does not contradict this freedom</dif> but is its material: it is the freely assumed <c>project</c> that constitutes an obstacle as an obstacle, against the illusion of being acted on from without."
         },
-        "quote": {
-          "text": {
-            "fr": "L'homme est condamné à être libre. Condamné, parce qu'il ne s'est pas créé lui-même, et par ailleurs cependant libre, parce qu'une fois jeté dans le monde, il est responsable de tout ce qu'il fait.",
-            "en": "Man is condemned to be free; condemned, because he did not create himself, yet nonetheless free, because once thrown into the world, he is responsible for everything he does."
-          },
-          "source": {
-            "fr": "Sartre, L'existentialisme est un humanisme",
-            "en": "Sartre, Existentialism Is a Humanism"
-          }
-        },
+        "quoteId": "l-homme-est-condamne-a-etre-sartre",
         "references": [
           { "fr": "L'Être et le Néant", "en": "Being and Nothingness" },
           { "fr": "L'existentialisme est un humanisme", "en": "Existentialism Is a Humanism" }

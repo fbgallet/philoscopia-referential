@@ -34,6 +34,10 @@ Work answers the needs of life, but it is not the end of existence: leisure, und
 - *[Essence and existence](../axes/essence.md) : Essentialism* grounds *[Meaning of work](../axes/work-meaning.md) : Fulfillment* : If the human being has a nature made of faculties to be actualized, then work, through which one objectifies one's capacities and transforms the world, fulfills as much as it tires. Essentialism grounds work as fulfillment: for [Hegel](../philosophers/hegel.md), it is by shaping the world that the human being forms themselves and wins the recognition of others.
 - *[Social identity](../axes/social-identity.md) : Social realism* grounds *[Meaning of work](../axes/work-meaning.md) : Alienation* : If social categories like class are objective material realities, and not mere ideas, then the relation of production can genuinely dispossess the worker of their activity and of themselves. Social realism grounds alienation: [Marx](../philosophers/marx.md) shows how, under wage labour, work becomes foreign to the one who performs it.
 
+## Quotations
+
+> “The worker therefore does not affirm himself in his labour but denies himself; does not feel content but unhappy.” — [Marx](../philosophers/marx.md), 1844 Manuscripts
+
 ## Related axes
 
 [The meaning of life](../axes/life-meaning.md) · [Relation to technology](../axes/technology.md)

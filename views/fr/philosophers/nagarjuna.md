@@ -65,7 +65,7 @@ Existentialisme 80% · Essentialisme 20%
 
 L'argument est un raisonnement par l'absurde sur la notion même d'essence : une [nature propre](../glossary/svabhava.md) (svabhāva, l'essence qui ferait qu'une chose serait par elle-même, indépendamment du reste) devrait, par définition, être non produite et invariable ; or tout ce que nous rencontrons naît de causes et de conditions, donc varie. Une essence engendrée serait fabriquée, ce qui contredit son concept. Nāgārjuna retourne ainsi contre l'Abhidharma sa propre analyse : les écoles substantialistes décomposaient les choses en facteurs ultimes (dharma) dotés de nature propre ; il montre que ces facteurs, étant eux-mêmes conditionnés, sont à leur tour [vides (śūnyatā)](../glossary/sunyata.md). Il faut le distinguer de l'existentialisme : la chose n'est pas vide d'essence pour se créer librement, mais parce que l'idée d'une essence fixe est incohérente.
 
-> « Que la nature propre puisse être produite par des causes et des conditions, cela n'a pas de sens : produite par des causes et des conditions, la nature propre serait fabriquée. » (Mūlamadhyamakakārikā, XV, 1-2)
+> « Que la nature propre puisse être produite par des causes et des conditions, cela n'a pas de sens : produite par des causes et des conditions, la nature propre serait fabriquée. », Mūlamadhyamakakārikā, XV, 1-2
 
 *Sources : Mūlamadhyamakakārikā (Stances du milieu par excellence), ch. XV (l'examen de la nature propre) · Mūlamadhyamakakārikā, ch. XXIV (l'examen des Nobles Vérités)*
 
@@ -101,7 +101,7 @@ Pragmatisme 50% · Cohérence 40% · Correspondance 10%
 
 La distinction répond à une objection redoutable : si tout est vide, la souffrance, le chemin et l'enseignement du Bouddha le sont aussi, et la vacuité paraît tout ruiner. Nāgārjuna y répond en distinguant deux registres de vérité, non deux mondes : au plan [conventionnel](../glossary/two-truths.md), le langage et les pratiques ordinaires sont pleinement valides ; au plan ultime, rien n'a de [nature propre](../glossary/svabhava.md). Loin de s'exclure, ils se conditionnent : on ne peut montrer du doigt l'ultime qu'en se servant du conventionnel, et qui prend la vacuité pour une thèse ultime sur le réel « se perd, comme on saisit mal un serpent ». La vérité conventionnelle vaut ainsi par sa cohérence d'usage et son efficacité sur le chemin, non par une correspondance à des essences.
 
-> « L'enseignement du Dharma par les bouddhas repose sur deux vérités : la vérité d'enveloppement mondain et la vérité au sens ultime. Sans s'appuyer sur le conventionnel, l'ultime n'est pas enseigné ; sans atteindre l'ultime, le nirvāṇa n'est pas obtenu. » (Mūlamadhyamakakārikā, XXIV, 8-10)
+> « L'enseignement du Dharma par les bouddhas repose sur deux vérités : la vérité d'enveloppement mondain et la vérité au sens ultime. Sans s'appuyer sur le conventionnel, l'ultime n'est pas enseigné ; sans atteindre l'ultime, le nirvāṇa n'est pas obtenu. », Mūlamadhyamakakārikā, XXIV, 8-10
 
 *Sources : Mūlamadhyamakakārikā (Stances du milieu par excellence), XXIV, 8-10 (les deux vérités)*
 
@@ -113,7 +113,7 @@ Mécanisme 60% · Vitalisme 40%
 
 Comment une chose est-elle produite ? L'ouvrage s'ouvre sur ce problème et l'attaque par les quatre branches possibles : une chose ne peut naître ni d'elle-même (elle serait déjà là), ni d'une autre dotée de [nature propre](../glossary/svabhava.md) (deux essences séparées ne sauraient se conditionner), ni des deux, ni sans cause. Si la causalité réelle suppose des termes à nature propre, elle est incohérente. Le pas original n'est pas d'abolir la causalité mais de l'identifier à la vacuité : précisément parce que les choses naissent en dépendance, elles n'ont pas de nature propre. [Coproduction conditionnée (pratītyasamutpāda)](../glossary/pratityasamutpada.md) et [vacuité (śūnyatā)](../glossary/sunyata.md) sont alors deux noms d'un même fait, sans agent ni dessein, ce qui exclut le finalisme.
 
-> « Jamais et nulle part rien n'existe qui soit né de soi, d'autre, des deux, ou sans cause. » (Mūlamadhyamakakārikā, I, 1)
+> « Jamais et nulle part rien n'existe qui soit né de soi, d'autre, des deux, ou sans cause. », Mūlamadhyamakakārikā, I, 1
 
 *Sources : Mūlamadhyamakakārikā (Stances du milieu par excellence), ch. I (l'examen des conditions)*
 
@@ -125,7 +125,7 @@ Immanence 98% · Transcendance 3%
 
 L'argument tire la conséquence de la vacuité universelle : si saṃsāra (le cycle des renaissances conditionnées) et [nirvāṇa (l'extinction)](../glossary/nirvana.md) avaient chacun une [nature propre](../glossary/svabhava.md), un abîme les séparerait et l'on ne pourrait jamais passer de l'un à l'autre. Mais l'un et l'autre sont également [vides (śūnyatā)](../glossary/sunyata.md), donc privés de la frontière essentielle qui les opposerait. Le saut métaphysique vers un au-delà s'effondre : le nirvāṇa n'est pas un autre lieu à rejoindre, c'est le saṃsāra correctement vu, dépouillé de la saisie qui le faisait souffrir. D'où une immanence radicale, sans arrière-monde, qui démarque le Madhyamaka des conceptions du salut comme évasion hors du monde.
 
-> « Il n'y a aucune différence entre le saṃsāra et le nirvāṇa ; il n'y a aucune différence entre le nirvāṇa et le saṃsāra. » (Mūlamadhyamakakārikā, XXV, 19)
+> « Il n'y a aucune différence entre le saṃsāra et le nirvāṇa ; il n'y a aucune différence entre le nirvāṇa et le saṃsāra. », Mūlamadhyamakakārikā, XXV, 19
 
 *Sources : Mūlamadhyamakakārikā (Stances du milieu par excellence), ch. XXV (l'examen du nirvāṇa)*
 

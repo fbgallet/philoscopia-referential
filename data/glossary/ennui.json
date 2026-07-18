@@ -1,0 +1,24 @@
+{
+  "id": "ennui",
+  "term": {
+    "fr": "Ennui",
+    "en": "Boredom"
+  },
+  "aliases": {
+    "fr": [],
+    "en": []
+  },
+  "definition": {
+    "fr": "L'ennui n'est pas, chez <ph id='schopenhauer'>Schopenhauer</ph>, un simple désagrément passager, mais la révélation du vide de l'existence : dès qu'un désir est satisfait et que rien ne nous sollicite plus, la vie découvre qu'elle n'a par elle-même aucun contenu. Il forme l'un des deux pôles entre lesquels le pendule de la vie oscille sans repos, l'autre étant la douleur du désir insatisfait. À la différence du divertissement chez <ph id='pascal'>Pascal</ph>, qui masque notre misère, l'ennui schopenhauerien la met à nu.",
+    "en": "Boredom is not, in <ph id='schopenhauer'>Schopenhauer</ph>, a mere passing discomfort but the revelation of the emptiness of existence: as soon as a desire is satisfied and nothing further solicits us, life discovers that it has, in itself, no content. It forms one of the two poles between which the pendulum of life swings without rest, the other being the pain of unsatisfied desire. Unlike diversion in <ph id='pascal'>Pascal</ph>, which masks our misery, Schopenhauerian boredom lays it bare."
+  },
+  "relatedAxes": [
+    "DESIRE",
+    "ATTENTION",
+    "LIFE_MEANING"
+  ],
+  "relatedTerms": [
+    "vouloir-vivre"
+  ],
+  "updatedAt": "2026-07-13T00:00:00.000Z"
+}

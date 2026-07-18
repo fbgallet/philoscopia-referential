@@ -48,6 +48,16 @@ Seule la vertu, ou la bonne volonté, a une valeur inconditionnelle : la vie bon
 - **Bonheur et sens** : Une vie bonne est-elle forcément heureuse, ou peut-elle être pleine de sens tout en étant difficile, exigeante, parfois malheureuse ?
 - **Seul ou avec les autres** : L'épanouissement se suffit-il à lui-même, ou réclame-t-il des amis et une cité, au point qu'on ne saurait être pleinement heureux à l'écart des autres ?
 - **Connaître ou imaginer le bonheur** : Savons-nous vraiment ce qui nous rendrait heureux, ou le bonheur est-il un idéal mouvant de l'imagination, si indéterminé qu'on ne peut en faire une règle sûre ?
+- **Le beau comme bien suprême** : Et si le bien suprême était le beau : faire de sa vie une œuvre, viser l'intensité des belles formes plutôt que le plaisir, la vertu ou la sérénité ?
+
+## Arguments
+
+- *Hédonisme* · pour : [L'argument du berceau](../arguments/hedonism-cradle-argument.md)
+- *Hédonisme* · contre : [Du désiré au désirable](../arguments/hedonism-natural-not-good-objection.md)
+- *Eudémonisme* · pour : [L'argument de la fonction (ergon)](../arguments/eudaimonism-function-argument.md)
+- *Eudémonisme* · contre : [L'existence sans essence](../arguments/eudaimonism-no-function-objection.md)
+- *Vertu / perfectionnisme moral* · pour : [Le seul bien sans réserve](../arguments/perfectionism-unconditional-good.md)
+- *Vertu / perfectionnisme moral* · contre : [Inconditionnel n'est pas total](../arguments/perfectionism-unconditional-not-whole-objection.md)
 
 ## Relations de fondation
 
@@ -55,6 +65,38 @@ Seule la vertu, ou la bonne volonté, a une valeur inconditionnelle : la vie bon
 - *[Source de la connaissance](../axes/knowledge-source.md) : Empirisme* fonde *[Souverain bien](../axes/sovereign-good.md) : Hédonisme* : Si toute connaissance, y compris celle du bien, vient de l'expérience, c'est dans le plaisir et la douleur éprouvés que se lit ce qui vaut, car ce sont les seules valeurs données directement aux sens. L'empirisme fonde l'hédonisme : [Bentham](../philosophers/bentham.md) fait du plaisir et de la peine les « maîtres souverains » à partir desquels tout bien se mesure.
 - *[Essence et existence](../axes/essence.md) : Essentialisme* fonde *[Souverain bien](../axes/sovereign-good.md) : Eudémonisme* : Si l'être humain a une nature propre, une fonction qui le définit, sa vie est bonne lorsqu'elle accomplit pleinement cette fonction. L'essentialisme fonde l'eudémonisme : [Aristote](../philosophers/aristotle.md) tire le souverain bien de la fonction propre de l'homme, l'exercice excellent de la raison, dont le plaisir n'est que l'accompagnement.
 - *[Nature de l'esprit et du réel](../axes/reality-nature.md) : Matérialisme* fonde *[Souverain bien](../axes/sovereign-good.md) : Hédonisme* : S'il n'existe que des corps et leurs affections, sans âme immortelle ni fin transcendante, le bien ne peut se mesurer qu'au plaisir et à l'absence de douleur. Le matérialisme fonde l'hédonisme : pour [Épicure](../philosophers/epicurus.md), c'est parce que tout est atomes et que rien ne nous attend après la mort que la vie réussie se joue dans le plaisir bien compris.
+
+## Citations
+
+> « Ce n'est pas des richesses que naît la vertu, mais c'est de la vertu que viennent aux hommes les richesses et tous les autres biens. » — [Socrate](../philosophers/socrates.md), Platon, Apologie, 30b
+
+> « Il n'est rien, nulle part dans le monde et même hors du monde, qu'il soit possible de penser comme bon sans restriction, si ce n'est seulement une volonté bonne. » — [Kant](../philosophers/kant.md), Fondements de la métaphysique des mœurs, section I
+
+> « Il vaut mieux être un homme insatisfait qu'un porc satisfait ; mieux vaut être Socrate insatisfait qu'un imbécile satisfait. » — [Mill](../philosophers/mill.md), L'Utilitarisme, ch. 2
+
+> « L'homme ne tend pas au bonheur : seul l'Anglais le fait. » — [Nietzsche](../philosophers/nietzsche.md), Crépuscule des idoles, Maximes et traits, 12
+
+> « La béatitude n'est pas le prix de la vertu, mais la vertu même. » — [Spinoza](../philosophers/spinoza.md), Éthique, V, proposition 42, scolie
+
+> « La béatitude ultime et parfaite ne peut être que dans la vision de l'essence divine. » — [Thomas d'Aquin](../philosophers/aquinas.md), Somme théologique, Ia-IIae, q. 3, a. 8
+
+> « La nature a placé l'humanité sous l'empire de deux maîtres souverains, la douleur et le plaisir. C'est à eux seuls qu'il appartient de montrer ce que nous devons faire comme de déterminer ce que nous ferons. » — [Bentham](../philosophers/bentham.md), Introduction aux principes de la morale et de la législation, ch. I, §1
+
+> « La nature ne réclame pour elle rien d'autre que ceci : que la douleur soit écartée du corps, et que l'esprit jouisse d'un sentiment agréable, libre de soin et de crainte. » — [Lucrèce](../philosophers/lucretius.md), De la nature des choses, II, 16-19
+
+> « La tranquillité suivit la suspension comme l'ombre suit le corps. » — [Sextus Empiricus](../philosophers/sextus-empiricus.md), Esquisses pyrrhoniennes, I, 29
+
+> « La tranquillité suivit la suspension du jugement comme l'ombre suit le corps. » — [Sextus Empiricus](../philosophers/sextus-empiricus.md), Esquisses pyrrhoniennes, I, 29
+
+> « Le bien de l'homme est une activité de l'âme en accord avec la vertu, et s'il y a plusieurs vertus, en accord avec la meilleure et la plus parfaite. » — [Aristote](../philosophers/aristotle.md), Éthique à Nicomaque, I, 7, 1098a
+
+> « Le bien de l'homme est une activité de l'âme en accord avec la vertu. » — [Aristote](../philosophers/aristotle.md), Éthique à Nicomaque, I, 7 (1098a)
+
+> « Le plaisir est le commencement et la fin de la vie bienheureuse. » — [Épicure](../philosophers/epicurus.md), Lettre à Ménécée, 128
+
+> « Le souverain bien est une âme qui méprise les choses du hasard et se réjouit de la vertu. » — [Sénèque](../philosophers/seneca.md), De la vie heureuse, IV
+
+> « Telle est la vie des dieux et des hommes divins et bienheureux : un détachement de tout ce qui est ici-bas, la fuite du seul vers le Seul. » — [Plotin](../philosophers/plotinus.md), Ennéades, VI, 9, 11
 
 ## Axes liés
 

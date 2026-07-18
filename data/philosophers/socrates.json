@@ -100,16 +100,7 @@
             "en": "Plato, Apology, 29d-30a (the philosopher will not stop questioning)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Une vie sans examen ne vaut pas la peine d'être vécue.",
-            "en": "The unexamined life is not worth living."
-          },
-          "source": {
-            "fr": "Platon, Apologie de Socrate, 38a",
-            "en": "Plato, Apology, 38a"
-          }
-        },
+        "quoteId": "une-vie-sans-examen-ne-vaut-socrates",
         "strength": "STRONG"
       }
     },
@@ -154,16 +145,7 @@
             "en": "Plato, Apology, 20e-23b (the oracle and the inquiry)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Ce que je ne sais pas, je ne pense pas non plus le savoir.",
-            "en": "What I do not know, I do not think I know either."
-          },
-          "source": {
-            "fr": "Platon, Apologie, 21d",
-            "en": "Plato, Apology, 21d"
-          }
-        },
+        "quoteId": "ce-que-je-ne-sais-pas-socrates",
         "strength": "STRONG"
       }
     },
@@ -184,16 +166,7 @@
             "en": "Plato, Apology, 29d-30b (the care of the soul)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Ce n'est pas des richesses que naît la vertu, mais c'est de la vertu que viennent aux hommes les richesses et tous les autres biens.",
-            "en": "It is not from wealth that virtue arises, but from virtue that wealth and every other good come to men."
-          },
-          "source": {
-            "fr": "Platon, Apologie, 30b",
-            "en": "Plato, Apology, 30b"
-          }
-        },
+        "quoteId": "ce-n-est-pas-des-richesses-socrates",
         "strength": "STRONG"
       }
     },
@@ -331,16 +304,7 @@
           },
           { "fr": "Platon, Apologie, 41c-d", "en": "Plato, Apology, 41c-d" }
         ],
-        "quote": {
-          "text": {
-            "fr": "On peut me tuer, me bannir, me priver de mes droits : Anytos et Mélétos le peuvent, mais me nuire, non.",
-            "en": "They may kill me, banish me, strip me of my rights: Anytus and Meletus can do that, but harm me they cannot."
-          },
-          "source": {
-            "fr": "Platon, Apologie, 30c-d",
-            "en": "Plato, Apology, 30c-d"
-          }
-        },
+        "quoteId": "on-peut-me-tuer-me-bannir-socrates",
         "strength": "MEDIUM"
       }
     },
@@ -361,16 +325,7 @@
             "en": "Plato, Apology, 40c-41c (the two hypotheses about death)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Craindre la mort n'est rien d'autre que se croire savant sans l'être, c'est croire savoir ce qu'on ne sait pas.",
-            "en": "To fear death is nothing other than to think oneself wise when one is not, to think one knows what one does not know."
-          },
-          "source": {
-            "fr": "Platon, Apologie, 29a",
-            "en": "Plato, Apology, 29a"
-          }
-        },
+        "quoteId": "craindre-la-mort-n-est-rien-socrates",
         "strength": "MEDIUM"
       }
     },

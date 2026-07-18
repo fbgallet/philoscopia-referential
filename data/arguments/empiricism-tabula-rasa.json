@@ -1,0 +1,73 @@
+{
+  "id": "empiricism-tabula-rasa",
+  "kind": "SUPPORTS",
+  "position": {
+    "axisId": "KNOWLEDGE_SOURCE",
+    "poleId": "EMPIRICISM"
+  },
+  "name": {
+    "fr": "La page blanche",
+    "en": "The blank slate"
+  },
+  "claim": {
+    "fr": "L'esprit naît vide ; toutes nos idées, même les plus abstraites, viennent des sens.",
+    "en": "The mind is born empty; all our ideas, even the most abstract, come from the senses."
+  },
+  "summary": {
+    "fr": "Les prétendues idées innées ne sont reconnues ni de l'enfant ni de peuples entiers ; toute idée qu'on examine se ramène à une impression. Rien dans l'entendement qui n'ait d'abord été dans les sens.",
+    "en": "The supposed innate ideas are recognized neither by the child nor by whole peoples; every idea one examines traces back to an impression. Nothing is in the understanding that was not first in the senses."
+  },
+  "development": [
+    {
+      "fr": "Cherchons une idée qui serait en nous avant toute expérience. Les <c id='innate-ideas'>idées prétendues innées</c>, Dieu, l'identité, les premiers principes, devraient être reconnues de tous ; or l'enfant les ignore, et des peuples entiers n'en ont aucune notion.",
+      "en": "Let us seek an idea that would be in us before any experience. The <c id='innate-ideas'>supposedly innate ideas</c>, God, identity, first principles, ought to be recognized by all; yet the child has none of them, and whole peoples have no notion of them."
+    },
+    {
+      "fr": "Toute idée qu'on examine se laisse ramener à une impression reçue : ôtez à un aveugle-né l'expérience des couleurs, l'idée même de couleur lui manque. L'esprit ne forme rien qu'il n'ait d'abord tiré des sens, ou de la réflexion sur ses propres opérations.",
+      "en": "Every idea one examines can be traced back to a received impression: take from a man born blind the experience of colors, and the very idea of color is missing. The mind forms nothing that it has not first drawn from the senses, or from reflection on its own operations."
+    },
+    {
+      "fr": "Rien donc dans l'entendement qui n'ait d'abord été dans les sens : l'esprit est au départ comme une <c id='tabula-rasa'>page blanche</c>, un cabinet vide que l'expérience seule vient meubler.",
+      "en": "Nothing, then, is in the understanding that was not first in the senses: the mind is at the start like a <c id='tabula-rasa'>blank slate</c>, an empty cabinet that experience alone comes to furnish."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc toute connaissance dérive de l'expérience : nos idées ne sont pas un trésor inné, mais le dépôt de ce que nous avons perçu.",
+    "en": "So all knowledge derives from experience: our ideas are no innate treasure, but the deposit of what we have perceived."
+  },
+  "difficulty": 1,
+  "source": {
+    "author": {
+      "fr": "Locke ; Hume",
+      "en": "Locke; Hume"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Locke",
+          "en": "Locke"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "locke"
+      },
+      {
+        "name": {
+          "fr": "Hume",
+          "en": "Hume"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "hume"
+      }
+    ],
+    "work": {
+      "fr": "Essai sur l'entendement humain, I-II",
+      "en": "An Essay concerning Human Understanding, Books I–II"
+    },
+    "year": 1689
+  },
+  "test": "empiricism-idea-of-cause-objection",
+  "problems": [
+    "innate-or-learned"
+  ],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
+}

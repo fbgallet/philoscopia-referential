@@ -76,7 +76,7 @@ Existentialism 98% · Essentialism 3%
 
 A manufactured object, a paper-knife, presupposes in the artisan's mind the concept and function that define it: its essence precedes its existence. Lacking an artisan God, the human being cannot be thought this way: there is no prior essence to realize, the person first exists and only then defines themselves by what they make of themselves. The movement thus overturns the whole of essentialism, from [Plato](../philosophers/plato.md) to theology: there is no model of man preceding singular men, and Kierkegaard already set the existing individual's becoming-a-self against the system's Hegelian essence.
 
-> “Man first of all exists, encounters himself, surges up in the world, and defines himself afterwards.” (Sartre, Existentialism Is a Humanism)
+> “Man first of all exists, encounters himself, surges up in the world, and defines himself afterwards.”, Existentialism Is a Humanism
 
 *Sources : Existentialism Is a Humanism · Being and Nothingness*
 
@@ -88,7 +88,7 @@ Free will 95% · Hard determinism 5%
 
 If the human being has no received essence, nothing within or outside them decides in their stead: they are their freedom itself, not because they enjoy a comfortable free will, but because no value, no nature, no order spares them from choosing. Hence the reversal of [determinism](../glossary/determinism.md): to invoke one's passions, milieu or character as an excuse is [bad faith](../glossary/bad-faith.md), for it is my choices that give them their grip. The situation into which one is thrown does not contradict this freedom but is its material: it is the freely assumed project that constitutes an obstacle as an obstacle, against the illusion of being acted on from without.
 
-> “Man is condemned to be free; condemned, because he did not create himself, yet nonetheless free, because once thrown into the world, he is responsible for everything he does.” (Sartre, Existentialism Is a Humanism)
+> “Man is condemned to be free. Condemned, because he did not create himself, yet nonetheless free, because once thrown into the world, he is responsible for everything he does.”, Existentialism Is a Humanism
 
 *Sources : Being and Nothingness · Existentialism Is a Humanism*
 

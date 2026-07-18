@@ -24,7 +24,7 @@ Just war 100%
 
 The Summa systematizes **just war** under three conditions: the authority of the sovereign (no private person may declare war), a just cause (punishing a fault, repelling injustice), and a rightful intention (aiming at the good and at peace, not vengeance or greed). Force is not evil in itself: it is an instrument of justice when these conditions are met, like the sword entrusted to public power.
 
-> “For a war to be just, three things are necessary: the authority of the sovereign, a just cause, and a rightful intention.” (Summa Theologiae, II-II, q. 40, a. 1)
+> “For a war to be just, three things are necessary: the authority of the sovereign, a just cause, and a rightful intention.”, Summa Theologiae, II-II, q. 40, a. 1
 
 *Sources : Summa Theologiae, II-II, q. 40 · Summa Theologiae, II-II, q. 64, a. 7 (self-defense, double effect)*
 
@@ -46,7 +46,7 @@ Theism 98% · Atheism 3%
 
 Thomas rejects both fideism, which would treat God's existence as a mere matter of faith, and [Anselm](../philosophers/anselm.md)'s ontological argument, which claimed to deduce it from the concept alone: for a finite mind, God's existence is not self-evident, it is demonstrated from effects. Hence the [Five Ways](../glossary/five-ways.md), which all start from a fact of experience (motion, causation, contingency, degrees of perfection, the ordering of ends) and rise, to avoid an infinite regress, to a first term: an unmoved mover, an uncaused cause, a necessary being. Theism is thus held to be rationally established, and not merely believed.
 
-> “Whatever is moved is moved by another; we must therefore arrive at a first mover moved by nothing, and this everyone understands to be God.” (Summa Theologiae, Ia, q. 2, a. 3 (the first way))
+> “Whatever is moved is moved by another; we must therefore arrive at a first mover moved by nothing, and this everyone understands to be God.”, Summa Theologiae, Ia, q. 2, a. 3 (the first way)
 
 *Sources : Summa Theologiae, Ia, q. 2, a. 3 (the Five Ways) · Summa contra Gentiles, I, 13*
 
@@ -58,7 +58,7 @@ Virtue / moral perfectionism 60% · Eudaimonism 35% · Hedonism 5%
 
 Taking up [Aristotle](../philosophers/aristotle.md)'s [eudaimonism](../glossary/eudaimonism.md), Thomas grants that every action aims at a final end, happiness; but he shows that no finite good, neither wealth, nor honour, nor pleasure, nor even philosophical contemplation, can satisfy the human being's natural desire, which is stilled only in the universal good. Now God alone is that good without limit: perfect beatitude can therefore consist only in the [beatific vision](../glossary/beatific-vision.md), the contemplation of the divine essence, unreachable in this life and received by grace. Greek eudaimonism is thus preserved yet surpassed, the sovereign good being referred to a perfecting that nature calls for without being able to attain it on its own.
 
-> “Ultimate and perfect beatitude can lie only in the vision of the divine essence.” (Summa Theologiae, Ia-IIae, q. 3, a. 8)
+> “Ultimate and perfect beatitude can lie only in the vision of the divine essence.”, Summa Theologiae, Ia-IIae, q. 3, a. 8
 
 *Sources : Summa Theologiae, Ia-IIae, q. 1-5*
 
@@ -150,7 +150,7 @@ Empiricism 65% · Rationalism 35%
 
 Thomas refuses [innatism](../glossary/innate-ideas.md) and holds, following [Aristotle](../philosophers/aristotle.md), that all knowledge begins with the senses, the intellect being at first like a [blank slate](../glossary/tabula-rasa.md) on which nothing is written. But the empiricism is tempered: the [agent intellect](../glossary/agent-intellect.md) does not passively receive the sensible, it abstracts from it the intelligible form, drawing the universal out of the perceived particular. Knowledge therefore starts from experience without reducing to it, which keeps Thomas on the empirical side without making him a strict empiricist, the activity of the mind having its irreducible share.
 
-> “There is nothing in the intellect that was not first in the senses.” (Disputed Questions on Truth, q. 2, a. 3, arg. 19)
+> “There is nothing in the intellect that was not first in the senses.”, Disputed Questions on Truth, q. 2, a. 3, arg. 19
 
 *Sources : Summa Theologiae, Ia, q. 84-85*
 
@@ -162,7 +162,7 @@ Correspondence 90% · Coherence 5% · Pragmatism 5%
 
 Thomas gives its classic formula to the correspondence conception: truth is the adequation of thing and intellect, the agreement of thought with what is. But he grounds it theologically: things are true because they conform to the idea God has of them, and our knowledge is true when it is regulated by them. Truth is therefore first in the intellect, divine then human, and the correspondence between mind and the real itself has its origin in God.
 
-> “Truth is the adequation of thing and intellect.” (Disputed Questions on Truth, q. 1, a. 1)
+> “Truth is the adequation of thing and intellect.”, Disputed Questions on Truth, q. 1, a. 1
 
 *Sources : Disputed Questions on Truth, q. 1, a. 1-2*
 
@@ -364,7 +364,7 @@ Agape as gift 55% · Philia (friendship) 35% · Eros as lack 10%
 
 The supreme love is for Thomas charity (caritas), the Latin rendering of [agape](../glossary/agape.md): a love of benevolence that wills the other's good and descends from God toward the creature rather than rising from lack toward the good, as Platonic [eros](../glossary/eros.md) does. But Thomas gives it a precise and decisive definition: charity is a [friendship](../glossary/philia.md) (amicitia) of the human being with God, [Aristotle](../philosophers/aristotle.md)'s very category taken up and transposed: founded on the sharing of beatitude, it supposes, like every friendship, mutual benevolence and a communion. The gift remains primary, since it is God who loves first and makes this friendship possible by grace, yet it takes the reciprocal form of philia, not that of a one-way gift; the old upward thrust of desire toward the good nonetheless persists as a residual share.
 
-> “Charity is a certain friendship of the human being with God.” (Summa Theologiae, IIa-IIae, q. 23, a. 1)
+> “Charity is a kind of friendship between man and God.”, Summa Theologiae, IIa-IIae, q. 23, a. 1
 
 *Sources : Summa Theologiae, IIa-IIae, q. 23 (charity as friendship)*
 

@@ -45,15 +45,34 @@ Since no meaning is given and nothing truly replaces it, the torment comes from 
 - **Meaning without God?** : Does the meaning of existence presuppose a divine order that surpasses us, or can it hold entirely without God, on wholly human grounds?
 - **Happiness or meaning** : Is a successful life necessarily happy, or can it be worthwhile through its meaning while being hard, demanding, at times unhappy?
 
+## Arguments
+
+- *Teleology and providence* · for : [A meaning you give yourself does not bind](../arguments/teleology-found-not-made.md)
+- *Teleology and providence* · against : [The world does not answer](../arguments/teleology-silent-world-objection.md)
+- *Constructed meaning* · for : [Nothing to discover, everything to make](../arguments/constructed-existence-precedes-essence.md)
+- *Constructed meaning* · against : [Will any meaning do?](../arguments/constructed-anything-goes-objection.md)
+- *Absurdism* · for : [Holding out without cheating](../arguments/absurdism-lucid-revolt.md)
+- *Absurdism* · against : [Why revolt?](../arguments/absurdism-revolt-smuggles-value-objection.md)
+- *Renunciation* · for : [Drying up the source of torment](../arguments/renunciation-detach-the-will.md)
+- *Renunciation* · against : [The cure removes the patient](../arguments/renunciation-negates-life-objection.md)
+
 ## Grounding relations
 
 - *[Essence and existence](../axes/essence.md) : Existentialism* grounds *[The meaning of life](../axes/life-meaning.md) : Constructed meaning* : If existence precedes essence, no end is inscribed in advance in human nature. Existentialism therefore entails that the meaning of life is not found but constructed, through the projects and choices each person takes on.
 - *[Existence of God](../axes/god-existence.md) : Theism* grounds *[The meaning of life](../axes/life-meaning.md) : Teleology and providence* : If a creator God willed the world, existence belongs to a design that surpasses it and assigns it an end. Theism grounds the teleological view of meaning: life has a [providence](../glossary/providence.md) to discover and to align one's conduct with, from the [Stoics](../movements/stoicism.md) to Christianity.
 - *[Where the sacred resides](../axes/transcendence.md) : Transcendence* grounds *[The meaning of life](../axes/life-meaning.md) : Teleology and providence* : If meaning and value rest in a principle beyond the given world, human life receives its destination from that beyond. [Transcendence](../glossary/transcendence.md) thus grounds a teleological reading of existence, ordered toward an end that precedes it.
 
+## Quotations
+
+> “One must imagine Sisyphus happy.” — [Camus](../philosophers/camus.md), The Myth of Sisyphus (1942)
+
+> “Our great and glorious masterpiece is to live fitly.” — [Michel de Montaigne](../philosophers/montaigne.md), Essays, III, 13, "Of Experience"
+
+> “To all who are still filled with the will, what remains after its complete abolition is assuredly nothing. But conversely, to those in whom the will has turned and denied itself, it is this very real world of ours, with all its suns and galaxies, that is nothing.” — [Schopenhauer](../philosophers/schopenhauer.md), The World as Will and Representation, §71
+
 ## Related axes
 
-[Tonality of reality](../axes/cosmic-outlook.md) · [Death](../axes/death.md) · [Interiority](../axes/interiority.md) · [The highest good](../axes/sovereign-good.md) · [Temporal orientation](../axes/time-orientation.md) · [Meaning of work](../axes/work-meaning.md) · [Existence of God](../axes/god-existence.md) · [The point of philosophy](../axes/metaphilosophy.md)
+[Tonality of reality](../axes/cosmic-outlook.md) · [Death](../axes/death.md) · [Interiority](../axes/interiority.md) · [The highest good](../axes/sovereign-good.md) · [Temporal orientation](../axes/time-orientation.md) · [Meaning of work](../axes/work-meaning.md) · [Existence of God](../axes/god-existence.md) · [The point of philosophy](../axes/metaphilosophy.md) · [Beauty in life](../axes/aesthetic-life.md)
 
 ---
 

@@ -67,5 +67,145 @@
       }
     }
   ],
-  "updatedAt": "2026-06-26T00:00:00.000Z"
+  "roles": [
+    {
+      "role": "OBJECTS",
+      "position": { "axisId": "SOVEREIGN_GOOD", "poleId": "EUDAIMONISM" },
+      "attacks": "POSITION",
+      "argumentId": "eudaimonism-function-argument",
+      "problems": ["virtue-and-misfortune"],
+      "summary": {
+        "fr": "Si l'épanouissement réclame des biens extérieurs, le souverain bien reste otage de la fortune : la maladie, l'exil, la mort des proches peuvent le briser.",
+        "en": "If flourishing requires external goods, the highest good stays hostage to fortune: illness, exile, the death of loved ones can shatter it."
+      },
+      "reconstruction": {
+        "development": [
+          {
+            "fr": "L'épanouissement, l'eudémoniste le reconnaît, réclame aussi certains biens extérieurs : la santé, des amis, de quoi vivre, un peu de bonne fortune.",
+            "en": "Flourishing, the eudaimonist grants, also requires certain external goods: health, friends, the means to live, a measure of good fortune."
+          },
+          {
+            "fr": "Mais alors le souverain bien dépend de ce que nul ne maîtrise : la maladie, l'exil, la mort des proches peuvent le briser, comme le vieux roi Priam qui perd tout à la fin de sa vie.",
+            "en": "But then the highest good depends on what no one controls: illness, exile, the death of loved ones can shatter it, like old king Priam who loses everything at the end of his life."
+          },
+          {
+            "fr": "Une fin dernière qu'un coup du sort peut arracher n'est pas pleinement nôtre : on aurait bâti sa vie sur ce que la fortune prête et reprend.",
+            "en": "A final end that a stroke of luck can tear away is not fully our own: one would have built one's life on what fortune lends and takes back."
+          }
+        ],
+        "conclusion": {
+          "fr": "Donc ou bien le souverain bien reste otage de la fortune, ou bien il faut le chercher du côté de ce qui, seul, dépend entièrement de nous.",
+          "en": "So either the highest good remains hostage to fortune, or it must be sought on the side of what alone depends entirely on us."
+        }
+      },
+      "responses": [
+        {
+          "id": "revise",
+          "label": {
+            "fr": "Je ne veux pas d'un bonheur que la malchance puisse détruire : ce qui compte vraiment, la fermeté d'âme, la droiture, ne dépend que de moi.",
+            "en": "I do not want a happiness that bad luck can destroy: what really counts, firmness of soul, uprightness, depends on me alone."
+          },
+          "hints": [{ "axisId": "SOVEREIGN_GOOD", "value": { "kind": "weights", "weights": [0.1, 0.15, 0.75] }, "weight": 2 }],
+          "discussion": {
+            "fr": "Vous basculez vers le perfectionnisme moral, la citadelle intérieure : le seul vrai bien serait celui que rien d'extérieur ne peut ôter.",
+            "en": "You cross over to moral perfectionism, the inner citadel: the only true good would be the one nothing external can take away."
+          }
+        },
+        {
+          "id": "qualify",
+          "label": {
+            "fr": "Je garde l'épanouissement comme fin, mais j'apprends à moins suspendre mon bonheur aux biens extérieurs.",
+            "en": "I keep flourishing as my end, but I learn to hang my happiness less on external goods."
+          },
+          "hints": [{ "axisId": "SOVEREIGN_GOOD", "value": { "kind": "weights", "weights": [0.1, 0.5, 0.4] }, "weight": 1 }],
+          "discussion": {
+            "fr": "Un eudémonisme assagi par le souci du contrôle : on garde l'activité comme bien, on desserre la prise de la fortune.",
+            "en": "A eudaimonism tempered by a concern for control: activity is kept as the good, fortune's grip is loosened."
+          }
+        },
+        {
+          "id": "refute",
+          "label": {
+            "fr": "Une vie à l'abri de tout risque n'est pas la plus haute mais la plus pauvre : l'épanouissement vaut justement parce qu'il engage des biens réels, amis, œuvres, qui peuvent être perdus.",
+            "en": "A life sheltered from all risk is not the highest but the poorest: flourishing is worth something precisely because it stakes real goods, friends, works, that can be lost."
+          },
+          "hints": [{ "axisId": "SOVEREIGN_GOOD", "value": { "kind": "weights", "weights": [0.05, 0.85, 0.1] }, "weight": 0.5 }],
+          "discussion": {
+            "fr": "Vous tenez la réponse d'<ph id='aristotle'>Aristote</ph> : la vulnérabilité n'est pas un défaut du bien humain, elle en est le prix.",
+            "en": "You hold <ph id='aristotle'>Aristotle</ph>'s reply: vulnerability is not a flaw in the human good, it is its price."
+          }
+        }
+      ]
+    },
+    {
+      "role": "OBJECTS",
+      "position": { "axisId": "SOVEREIGN_GOOD", "poleId": "MORAL_PERFECTIONISM" },
+      "attacks": "POSITION",
+      "argumentId": "perfectionism-unconditional-good",
+      "problems": ["virtue-and-misfortune"],
+      "summary": {
+        "fr": "Tenir la vertu pour le seul bien oblige à déclarer heureux le juste accablé de malheurs : rendre le bien invulnérable, c'est nier que la perte et la douleur soient de vrais maux.",
+        "en": "Holding virtue to be the only good forces one to call the misfortune-stricken just man happy: making the good invulnerable means denying that loss and pain are real evils."
+      },
+      "reconstruction": {
+        "development": [
+          {
+            "fr": "Le perfectionniste tient la vertu pour le seul bien, et le reste, santé, biens, êtres aimés, pour « indifférent » : le juste demeurerait heureux jusque dans le malheur le plus complet.",
+            "en": "The perfectionist holds virtue to be the only good, and the rest, health, possessions, loved ones, to be 'indifferent': the upright person would stay happy even in the most utter misfortune."
+          },
+          {
+            "fr": "Mais dire cet homme heureux force les mots : la perte de ses enfants, la douleur, l'abandon sont des maux réels, non de simples indifférents.",
+            "en": "But to call this man happy strains language: the loss of his children, the pain, the abandonment are real evils, not mere indifferents."
+          },
+          {
+            "fr": "Rendre le bien invulnérable à la fortune le paie d'un prix : il faut nier que ces pertes soient des maux, et donc appauvrir ce que nous appelons une vie bonne.",
+            "en": "Making the good invulnerable to fortune comes at a price: one must deny that these losses are evils, and so impoverish what we call a good life."
+          }
+        ],
+        "conclusion": {
+          "fr": "Donc la vertu ne suffit peut-être pas au bonheur : reconnaître que l'infortune abîme une vie bonne, c'est admettre des biens que la seule droiture ne donne pas.",
+          "en": "So virtue may not suffice for happiness: to grant that misfortune mars a good life is to admit goods that uprightness alone does not provide."
+        }
+      },
+      "responses": [
+        {
+          "id": "revise",
+          "label": {
+            "fr": "Une vie brisée par le malheur n'est pas réussie, si droite soit-elle : le bonheur veut aussi des liens, une œuvre, une vie qui tienne debout.",
+            "en": "A life shattered by misfortune is not a successful one, however upright: happiness also wants bonds, a work, a life that stands."
+          },
+          "hints": [{ "axisId": "SOVEREIGN_GOOD", "value": { "kind": "weights", "weights": [0.15, 0.7, 0.15] }, "weight": 2 }],
+          "discussion": {
+            "fr": "Vous revenez vers l'eudémonisme : la vertu est une part du bien, non le tout.",
+            "en": "You return toward eudaimonism: virtue is a part of the good, not the whole."
+          }
+        },
+        {
+          "id": "qualify",
+          "label": {
+            "fr": "Je maintiens le primat de la droiture, mais j'accorde que le malheur est un vrai mal : la vertu est le plus haut des biens, sans être le seul.",
+            "en": "I maintain the primacy of uprightness, but grant that misfortune is a real evil: virtue is the highest of goods, without being the only one."
+          },
+          "hints": [{ "axisId": "SOVEREIGN_GOOD", "value": { "kind": "weights", "weights": [0.1, 0.45, 0.45] }, "weight": 1 }],
+          "discussion": {
+            "fr": "Un perfectionnisme adouci, aristotélicien plutôt que stoïcien strict : la vertu prime, mais les autres maux cessent d'être « indifférents ».",
+            "en": "A softened perfectionism, Aristotelian rather than strictly Stoic: virtue comes first, but the other evils cease to be 'indifferent'."
+          }
+        },
+        {
+          "id": "refute",
+          "label": {
+            "fr": "Le sage sur le chevalet souffre, mais il n'est pas malheureux au sens qui compte : il n'a rien perdu de ce qui fait sa valeur. Confondre douleur et malheur, c'est déjà céder à la fortune.",
+            "en": "The sage on the rack suffers, but is not unhappy in the sense that counts: he has lost nothing of what makes his worth. To confuse pain with misfortune is already to yield to fortune."
+          },
+          "hints": [{ "axisId": "SOVEREIGN_GOOD", "value": { "kind": "weights", "weights": [0.05, 0.1, 0.85] }, "weight": 0.5 }],
+          "discussion": {
+            "fr": "Vous tenez la fermeté stoïcienne : la douleur est un mal du corps, non de l'âme ; le seul vrai malheur serait de devenir injuste.",
+            "en": "You hold the Stoic firmness: pain is an evil of the body, not of the soul; the only true misfortune would be to become unjust."
+          }
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
 }

@@ -27,6 +27,10 @@ La hiérarchie des goûts n'a rien de naturel : elle traduit des rapports de cla
 - *[Le beau](../axes/beauty.md) : Beau objectif* fonde *[Hiérarchie des goûts](../axes/taste-hierarchy.md) : Élitisme du goût* : Si certaines choses sont belles en elles-mêmes, alors tous les jugements de goût ne se valent pas : il en est de plus justes, et l'éducation du regard permet de mieux percevoir ce qui est réellement beau. Le beau objectif soutient une hiérarchie des goûts, où l'œil exercé du connaisseur a autorité sur le caprice.
 - *[Le beau](../axes/beauty.md) : Beau subjectif* fonde *[Hiérarchie des goûts](../axes/taste-hierarchy.md) : Égalitarisme du goût* : Si la beauté n'est qu'un sentiment qui varie selon les individus et les cultures, alors aucun goût n'est plus vrai qu'un autre. Le beau subjectif soutient l'égalité des goûts : des goûts et des couleurs on ne discute pas, et nul n'a qualité pour imposer les siens comme la norme.
 
+## Citations
+
+> « À quantité de plaisir égale, le pushpin vaut bien la poésie. » — [Bentham](../philosophers/bentham.md), The Rationale of Reward
+
 ## Axes liés
 
 [Le beau dans la vie](../axes/aesthetic-life.md) · [Le beau](../axes/beauty.md)

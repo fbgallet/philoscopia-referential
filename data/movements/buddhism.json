@@ -49,16 +49,7 @@
           "fr": "L'<kw>impermanence</kw> (anicca) est la première des trois marques de l'existence : tout phénomène conditionné naît, se transforme et cesse, sans qu'aucune substance ne subsiste sous le flux, ni dans les choses ni en nous (<kw>anattā</kw>, le non-soi). Tenir les choses pour stables est précisément l'illusion qui engendre l'attachement et la souffrance ; la sagesse consiste à voir le surgir et le cesser.",
           "en": "<kw>Impermanence</kw> (anicca) is the first of the three marks of existence: every conditioned phenomenon arises, transforms, and ceases, with no substance subsisting beneath the flux, neither in things nor in us (<kw>anattā</kw>, non-self). Taking things to be stable is precisely the illusion that breeds attachment and suffering; wisdom consists in seeing arising and ceasing."
         },
-        "quote": {
-          "text": {
-            "fr": "Tout ce qui est sujet à l'apparition est sujet à la cessation.",
-            "en": "Whatever is subject to arising is subject to ceasing."
-          },
-          "source": {
-            "fr": "Samyutta Nikāya (formule canonique)",
-            "en": "Samyutta Nikāya (canonical formula)"
-          }
-        },
+        "quoteId": "tout-ce-qui-est-sujet-a-samyutta-nikaya",
         "references": [
           {
             "fr": "Dhammapada, 277-279 (les trois marques)",
@@ -246,16 +237,7 @@
           }
         ],
         "strength": "MEDIUM",
-        "quote": {
-          "text": {
-            "fr": "Ne vous fiez pas à l'ouï-dire ni à la tradition, mais quand vous savez par vous-mêmes : ceci est salutaire, alors adoptez-le.",
-            "en": "Do not go by hearsay or tradition, but when you know for yourselves: this is wholesome, then take it up."
-          },
-          "source": {
-            "fr": "Kalama Sutta",
-            "en": "Kalama Sutta"
-          }
-        }
+        "quoteId": "ne-vous-fiez-pas-a-l-kalama-sutta"
       }
     },
     {
@@ -301,16 +283,7 @@
           { "fr": "Nāgārjuna, Mūlamadhyamakakārikā (Stances du milieu)", "en": "Nāgārjuna, Mūlamadhyamakakārikā (Fundamental Verses on the Middle Way)" }
         ],
         "strength": "STRONG",
-        "quote": {
-          "text": {
-            "fr": "La forme est non-soi, la sensation est non-soi, la perception est non-soi, les formations sont non-soi, la conscience est non-soi.",
-            "en": "Form is not-self, feeling is not-self, perception is not-self, formations are not-self, consciousness is not-self."
-          },
-          "source": {
-            "fr": "Anattalakkhaṇa Sutta (Saṃyutta Nikāya 22.59)",
-            "en": "Anattalakkhaṇa Sutta (Saṃyutta Nikāya 22.59)"
-          }
-        }
+        "quoteId": "la-forme-est-non-soi-la-buddha"
       }
     },
     {
@@ -329,16 +302,7 @@
           { "fr": "Dhammapada, ch. XXIV (la soif)", "en": "Dhammapada, ch. XXIV (Craving)" }
         ],
         "strength": "STRONG",
-        "quote": {
-          "text": {
-            "fr": "Voici la noble vérité sur l'origine de la souffrance : c'est cette soif qui produit le renouvellement de l'existence.",
-            "en": "This is the noble truth of the origin of suffering: it is this craving which leads to renewed existence."
-          },
-          "source": {
-            "fr": "Dhammacakkappavattana Sutta (Saṃyutta Nikāya 56.11)",
-            "en": "Dhammacakkappavattana Sutta (Saṃyutta Nikāya 56.11)"
-          }
-        }
+        "quoteId": "voici-la-noble-verite-sur-l-buddha"
       }
     },
     {
@@ -411,16 +375,7 @@
           { "fr": "Satipaṭṭhāna Sutta (le discours sur les fondements de l'attention)", "en": "Satipaṭṭhāna Sutta (the discourse on the foundations of mindfulness)" }
         ],
         "strength": "MEDIUM",
-        "quote": {
-          "text": {
-            "fr": "Tout ce que nous sommes résulte de nos pensées : c'est fondé sur nos pensées, c'est fait de nos pensées.",
-            "en": "All that we are is the result of what we have thought: it is founded on our thoughts, it is made up of our thoughts."
-          },
-          "source": {
-            "fr": "Dhammapada, I, 1",
-            "en": "Dhammapada, I, 1"
-          }
-        }
+        "quoteId": "tout-ce-que-nous-sommes-resulte-buddha"
       }
     },
     {

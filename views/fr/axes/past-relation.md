@@ -26,6 +26,20 @@ Consentir à tout ce qui est arrivé, c'est risquer de bénir aussi l'injustice 
 
 - *[Tonalité du réel](../axes/cosmic-outlook.md) : Pensée tragique* fonde *[Rapport au passé](../axes/past-relation.md) : Révolte* : Si le monde n'est ni rationnel ni bienveillant, si la souffrance et le non-sens sont au cœur du réel, la lucidité refuse à la fois le suicide et l'espérance consolatrice. La pensée tragique fonde alors une attitude de révolte, qui maintient la tension du vivre sans se résigner, comme chez [Camus](../philosophers/camus.md).
 
+## Citations
+
+> « Conduis-moi, Zeus, et toi aussi, Destinée, où que vous m'ayez assigné : je vous suivrai sans faillir. Et si je refuse, devenu mauvais, je n'en suivrai pas moins. » — Cléanthe, Cléanthe, cité par Sénèque, Lettres à Lucilius, 107
+
+> « J'ai pris grand soin de ne pas tourner en dérision les actions humaines, de ne pas les déplorer, de ne pas les détester, mais de les comprendre. » — [Spinoza](../philosophers/spinoza.md), Traité politique, I, 4
+
+> « Je me révolte, donc nous sommes. » — [Camus](../philosophers/camus.md), L'Homme révolté (1951)
+
+> « Les destins conduisent celui qui consent et traînent celui qui résiste. » — [Sénèque](../philosophers/seneca.md), Lettres à Lucilius, CVII
+
+> « Ma formule pour la grandeur de l'homme est amor fati : ne rien vouloir d'autre que ce qui est, ni en avant, ni en arrière, ni dans toute l'éternité. » — [Nietzsche](../philosophers/nietzsche.md), Ecce Homo, « Pourquoi je suis si avisé », §10
+
+> « Tout ce qui s'accorde avec toi, ô Univers, s'accorde avec moi : rien de ce qui vient à temps pour toi n'est pour moi trop tôt ni trop tard. » — [Marc Aurèle](../philosophers/marcus-aurelius.md), Pensées pour moi-même, IV, 23
+
 ## Axes liés
 
 [Périmètre d'action](../axes/control-scope.md) · [Pardon](../axes/forgiveness.md) · [Orientation temporelle](../axes/time-orientation.md)

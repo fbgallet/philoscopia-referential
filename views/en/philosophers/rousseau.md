@@ -44,7 +44,7 @@ Contractualism 95% · Organic community 5%
 
 Since no one has natural authority over his fellow and force creates no right, the legitimate order can rest only on a convention. Rousseau seeks the form of association in which each, giving himself to all, gives himself to no one, and « still obeys only himself »: through each person's alienation to the [general will](../glossary/volonte-generale.md), the subject remains free in obeying a law of which he is co-author. Against [Hobbes](../philosophers/hobbes.md), the pact institutes not a master but a sovereign body politic.
 
-> “To find a form of association by which each, uniting with all, still obeys only himself and remains as free as before.” (Rousseau, The Social Contract, I, 6)
+> “To find a form of association by which each, uniting with all, still obeys only himself and remains as free as before.”, The Social Contract, I, 6
 
 *Sources : Rousseau, The Social Contract, books I-II*
 
@@ -56,7 +56,7 @@ Anthropological optimism 85% · Anthropological pessimism 15%
 
 « Man is naturally good »: his vices lie not in his nature but in the history that has drawn him from it. In the state of nature, self-love and [pity](../glossary/pitie.md) reign, not wickedness; it is property, comparison and [amour-propre](../glossary/amour-de-soi-et-amour-propre.md) that breed inequality and domination. Rousseau thus overturns the dogma of original sin and shifts the fault from nature to society: it is not men who must first be corrected, but institutions.
 
-> “Everything is good as it leaves the hands of the Author of things; everything degenerates in the hands of man.” (Rousseau, Emile, book I)
+> “Everything is good as it leaves the hands of the Author of things; everything degenerates in the hands of man.”, Emile, book I
 
 *Sources : Rousseau, Discourse on the Origin of Inequality · Rousseau, Emile, book I*
 
@@ -68,7 +68,7 @@ Techno-criticism 75% · Techno-optimism 25%
 
 Crowned in 1750 for defending the paradox that the revival of the sciences and arts has corrupted morals, Rousseau strikes at the Enlightenment's cardinal hope: the progress of knowledge and the arts does not bring moral progress, it erodes it. Luxury and the arts polish appearances while softening souls and masking vices beneath civil exteriors. This is no praise of ignorance, but a refusal of the century's central equation between civilization and the improvement of man.
 
-> “Our souls have grown corrupt in proportion as our sciences and arts have advanced toward perfection.” (Rousseau, Discourse on the Sciences and Arts (1750))
+> “Our souls have grown corrupt in proportion as our sciences and arts have advanced toward perfection.”, Discourse on the Sciences and Arts (1750)
 
 *Sources : Rousseau, Discourse on the Sciences and Arts*
 
@@ -80,7 +80,7 @@ Sentimentalism 85% · Intellectualism 15%
 
 Against the intellectualism that makes reason the judge of the good, Rousseau lodges morality in a feeling: conscience, a « divine instinct », makes us love the good before we understand it, and [pity](../glossary/pitie.md), the natural reluctance to see suffering, grounds sociability before any calculation. The heart precedes and overflows reason. This rehabilitation of feeling, unfolded in Julie, or the New Heloise, opens the way to [Romanticism](../movements/romanticism.md).
 
-> “Conscience! conscience! divine instinct, immortal and heavenly voice.” (Rousseau, Emile, Profession of Faith of the Savoyard Vicar)
+> “Conscience! conscience! divine instinct, immortal and heavenly voice.”, Emile, Profession of Faith of the Savoyard Vicar
 
 *Sources : Rousseau, Emile, Profession of Faith of the Savoyard Vicar · Rousseau, Julie, or the New Heloise*
 
@@ -92,7 +92,7 @@ Positive liberty 80% · Republican non-domination 15% · Negative liberty 5%
 
 Liberty is not the absence of hindrance or the right to do anything, but obedience to the law one has prescribed to oneself: a positive liberty, the autonomy of the citizen. Civil man exchanges his natural independence for moral liberty, the only kind that truly makes him master of himself. This is why whoever refuses to obey the [general will](../glossary/volonte-generale.md), Rousseau writes in a formidable phrase, shall be « forced to be free ».
 
-> “Obedience to the law one has prescribed to oneself is liberty.” (Rousseau, The Social Contract, I, 8)
+> “The impulse of mere appetite is slavery, while obedience to a law which we prescribe to ourselves is liberty.”, The Social Contract, I, 8
 
 *Sources : Rousseau, The Social Contract, I, 7-8*
 
@@ -104,7 +104,7 @@ Egalitarianism 85% · Libertarianism 15%
 
 The second Discourse makes inequality the major political evil: born of property, it warps self-love into [amour-propre](../glossary/amour-de-soi-et-amour-propre.md) and institutes domination. There is no real liberty where gaps of fortune allow some to buy and others to sell themselves. A resolutely egalitarian stance, which sets him apart from Lockean property liberalism and will inspire revolutionary thought.
 
-> “That no citizen be rich enough to buy another, and none poor enough to be forced to sell himself.” (Rousseau, The Social Contract, II, 11)
+> “That no citizen be rich enough to buy another, and none poor enough to be forced to sell himself.”, The Social Contract, II, 11
 
 *Sources : Rousseau, Discourse on the Origin of Inequality · Rousseau, The Social Contract, II, 11*
 
@@ -116,7 +116,7 @@ Affirmation 60% · Reasoned selection 35% · Extinction and detachment 5%
 
 Far from Stoic or Buddhist extinction, Rousseau takes desire and imagination to be the very source of the feeling of existence: one enjoys less what one possesses than what one hopes for, and happiness lies in the striving, not in full satisfaction. Yet this affirmation is not without sorting: one must follow the simple desires born of self-love and [pity](../glossary/pitie.md), and beware of those insatiable ones that [amour-propre](../glossary/amour-de-soi-et-amour-propre.md) inflates through comparison.
 
-> “Woe to him who has nothing left to desire! He loses, as it were, all that he possesses.” (Rousseau, Julie, or the New Heloise, VI)
+> “Woe to him who has nothing left to desire! He loses, as it were, all that he possesses.”, Julie, or the New Heloise, VI
 
 *Sources : Rousseau, Julie, or the New Heloise, VI · Rousseau, Emile, book II*
 
@@ -128,7 +128,7 @@ Radical democracy 95% · Epistocracy 5%
 
 Sovereignty resides in the people; it is inalienable and indivisible, and therefore cannot be represented. Rousseau pushes democracy to direct sovereignty, the assembled people themselves making the law, against any epistocracy as against purely representative government. Representation, in his eyes, dispossesses the citizen of the very liberty it claims to serve.
 
-> “The instant a people gives itself representatives, it is no longer free; it no longer exists.” (Rousseau, The Social Contract, III, 15)
+> “The instant a people gives itself representatives, it is no longer free; it no longer exists.”, The Social Contract, III, 15
 
 *Sources : Rousseau, The Social Contract, III, 15*
 

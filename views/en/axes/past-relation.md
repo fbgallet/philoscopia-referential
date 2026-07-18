@@ -26,6 +26,20 @@ To consent to everything that has happened is to risk blessing injustice and evi
 
 - *[Tonality of reality](../axes/cosmic-outlook.md) : Tragic thought* grounds *[Relation to the past](../axes/past-relation.md) : Revolt* : If the world is neither rational nor benevolent, if suffering and meaninglessness lie at the heart of the real, lucidity refuses both suicide and consoling hope. Tragic thought then grounds an attitude of revolt, which keeps the tension of living alive without resignation, as in [Camus](../philosophers/camus.md).
 
+## Quotations
+
+> “Lead me, Zeus, and you too, Destiny, wherever you have appointed me: I shall follow unflinching. And should I refuse, turned coward, I shall follow none the less.” — Cleanthes, Cleanthes, quoted in Seneca, Letters to Lucilius, 107
+
+> “I have taken great care not to deride human actions, nor to bewail them, nor to detest them, but to understand them.” — [Spinoza](../philosophers/spinoza.md), Political Treatise, I, 4
+
+> “I rebel—therefore we exist.” — [Camus](../philosophers/camus.md), The Rebel (1951)
+
+> “Fate leads the willing and drags the unwilling.” — [Seneca](../philosophers/seneca.md), Letters to Lucilius, CVII
+
+> “My formula for greatness in a human being is amor fati: that one wants nothing to be different, not forward, not backward, not in all eternity.” — [Nietzsche](../philosophers/nietzsche.md), Ecce Homo, "Why I Am So Clever", §10
+
+> “All that is in tune with you, O Universe, is in tune with me: nothing that comes in season for you is too early or too late for me.” — [Marcus Aurelius](../philosophers/marcus-aurelius.md), Meditations, IV, 23
+
 ## Related axes
 
 [Scope of action](../axes/control-scope.md) · [Forgiveness](../axes/forgiveness.md) · [Temporal orientation](../axes/time-orientation.md)

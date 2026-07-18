@@ -29,7 +29,7 @@ Technologically altering human nature is a dangerous transgression: it threatens
 
 ## Related axes
 
-[Nature and culture](../axes/human-nature.md) · [Humanity's place in nature](../axes/human-place-nature.md) · [Relation to technology](../axes/technology.md) · [Death](../axes/death.md)
+[Nature and culture](../axes/human-nature.md) · [Humanity's place in nature](../axes/human-place-nature.md) · [Relation to technology](../axes/technology.md) · [Death](../axes/death.md) · [The meaning of suffering](../axes/suffering-meaning.md)
 
 ---
 

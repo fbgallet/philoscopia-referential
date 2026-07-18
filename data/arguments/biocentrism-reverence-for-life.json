@@ -1,0 +1,44 @@
+{
+  "id": "biocentrism-reverence-for-life",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "MORAL_CIRCLE", "poleId": "BIOCENTRISM" },
+  "name": { "fr": "Le respect de la vie", "en": "Reverence for life" },
+  "claim": {
+    "fr": "Chaque être vivant est un centre de vie qui poursuit son propre épanouissement : à ce titre il mérite le respect, non le seul usage.",
+    "en": "Every living being is a center of life pursuing its own flourishing: on that ground it deserves respect, not mere use."
+  },
+  "summary": {
+    "fr": "Tout organisme, sensible ou non, poursuit son propre bien ; et avoir un bien propre ne suppose pas de le ressentir. Ce qui a un bien propre a une valeur qui n'est pas seulement d'usage : le cercle moral s'étend donc à tout le vivant.",
+    "en": "Every organism, sentient or not, pursues its own good; and having a good of one's own does not require feeling it. What has a good of its own has a worth that is not merely instrumental: the moral circle thus extends to all life."
+  },
+  "development": [
+    {
+      "fr": "Tout organisme, plante, insecte ou microbe, est orienté vers son propre bien : il croît, se nourrit, se défend, se reproduit, comme si sa vie était pour lui une fin.",
+      "en": "Every organism, plant, insect, or microbe, is oriented toward its own good: it grows, feeds, defends itself, reproduces, as though its life were an end for it."
+    },
+    {
+      "fr": "Avoir un bien propre, ce n'est pas le ressentir : la plante ne sent rien, mais il y a des choses qui lui sont bonnes ou nuisibles, un accomplissement qui est le sien.",
+      "en": "Having a good of one's own is not feeling it: the plant senses nothing, yet there are things good or harmful for it, a fulfillment that is its own."
+    },
+    {
+      "fr": "Or ce qui a un bien propre a une valeur qui n'est pas seulement notre valeur d'usage : le réduire à un moyen, c'est mépriser la fin qu'il est pour lui-même.",
+      "en": "Now what has a good of its own has a worth that is not merely our use-value: to reduce it to a means is to scorn the end it is for itself."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc le cercle moral s'étend à tout le vivant : non que toutes les vies se vaillent en toute circonstance, mais qu'aucune n'est un simple matériau, et que détruire une vie demande toujours une raison.",
+    "en": "So the moral circle extends to all life: not that all lives are worth the same in every circumstance, but that none is mere material, and that destroying a life always calls for a reason."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": { "fr": "Schweitzer, Paul Taylor", "en": "Schweitzer, Paul Taylor" },
+    "figures": [
+      { "name": { "fr": "Schweitzer", "en": "Schweitzer" }, "kind": "PHILOSOPHER", "slug": "schweitzer" },
+      { "name": { "fr": "Paul Taylor", "en": "Paul Taylor" }, "kind": "PHILOSOPHER" }
+    ],
+    "work": { "fr": "La Civilisation et l'éthique ; Respect for Nature (1986)", "en": "Civilization and Ethics; Respect for Nature (1986)" }
+  },
+  "test": "biocentrism-no-interests-objection",
+  "problems": ["reverence-for-life", "moral-status-criterion"],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

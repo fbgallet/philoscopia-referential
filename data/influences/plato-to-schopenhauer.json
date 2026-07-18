@@ -1,0 +1,25 @@
+{
+  "id": "plato-to-schopenhauer",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "plato"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "schopenhauer"
+  },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='schopenhauer'>Schopenhauer</ph> nomme <ph id='plato'>Platon</ph> et <ph id='kant'>Kant</ph> ses deux maîtres. Il reprend les Idées platoniciennes, mais les déplace : elles ne sont plus des réalités intelligibles séparées, elles deviennent les degrés éternels d'objectivation du <c id='vouloir-vivre'>vouloir</c>, que seul le <c id='genie'>génie</c> contemple dans l'expérience esthétique.",
+    "en": "<ph id='schopenhauer'>Schopenhauer</ph> names <ph id='plato'>Plato</ph> and <ph id='kant'>Kant</ph> his two masters. He takes up the Platonic Ideas but shifts them: no longer separate intelligible realities, they become the eternal grades of the <c id='vouloir-vivre'>will</c>'s objectification, which only <c id='genie'>genius</c> contemplates in aesthetic experience."
+  },
+  "sources": [
+    {
+      "fr": "Schopenhauer, Le Monde comme volonté et comme représentation, livre III (1818)",
+      "en": "Schopenhauer, The World as Will and Representation, Book III (1818)"
+    }
+  ],
+  "updatedAt": "2026-07-13T00:00:00.000Z"
+}

@@ -56,7 +56,7 @@ Eudémonisme 85% · Vertu / perfectionnisme moral 15%
 
 L'argument procède de la fonction propre : comme le bien du flûtiste tient à bien remplir sa fonction, le bien de l'homme tient à l'activité qui lui est spécifique, l'exercice de la raison, que ne partagent ni la plante ni l'animal. Le souverain bien ne peut donc être le plaisir, que poursuit toute bête, contre l'[hédonisme](../glossary/hedonism.md) ; ni un bien extérieur comme l'honneur, qui dépend d'autrui. C'est l'[eudaimonia](../glossary/eudaimonism.md), activité de l'âme conforme à la vertu : un accomplissement actif, et non un état possédé, qui se déploie sur toute une vie et requiert aussi des biens du corps et de la fortune.
 
-> « Le bien de l'homme est une activité de l'âme en accord avec la vertu, et s'il y a plusieurs vertus, en accord avec la meilleure et la plus parfaite. » (Aristote, Éthique à Nicomaque, I, 7, 1098a)
+> « Le bien de l'homme est une activité de l'âme en accord avec la vertu, et s'il y a plusieurs vertus, en accord avec la meilleure et la plus parfaite. », Éthique à Nicomaque, I, 7, 1098a
 
 *Sources : Aristote, Éthique à Nicomaque, I, 7 · Thomas d'Aquin, Somme théologique, I-II, q. 1-5*
 
@@ -68,7 +68,7 @@ L'argument procède de la fonction propre : comme le bien du flûtiste tient à 
 
 On ne devient pas juste en connaissant la justice, contre l'intellectualisme socratique, ni en suivant une règle qui vaudrait identiquement pour tous : la vertu est une disposition stable du caractère, acquise par l'habitude comme un savoir-faire. D'où le [juste milieu](../glossary/golden-mean.md) : le courage n'est pas une quantité fixe mais le point ajusté entre lâcheté et témérité, relatif à nous et variable selon les circonstances. Aucune formule ne peut le fixer d'avance ; seule la [prudence](../glossary/phronesis.md), raison pratique de l'homme expérimenté, le discerne dans le cas concret. C'est pourquoi le bien agir relève du jugement situé, non du calcul ni de l'obéissance.
 
-> « La vertu est une disposition à agir de façon délibérée, consistant en une médiété relative à nous, déterminée par la raison comme la déterminerait l'homme prudent. » (Aristote, Éthique à Nicomaque, II, 6, 1106b-1107a)
+> « La vertu est une disposition à agir de façon délibérée, consistant en une médiété relative à nous, déterminée par la raison comme la déterminerait l'homme prudent. », Éthique à Nicomaque, II, 6, 1106b-1107a
 
 *Sources : Aristote, Éthique à Nicomaque, II, 6 · Thomas d'Aquin, Somme théologique, I-II, q. 55-67*
 
@@ -80,7 +80,7 @@ Finalisme 90% · Mécanisme 10%
 
 Le point de départ est l'observation du vivant : un gland devient chêne et non hêtre, l'organe se développe pour une fonction, signe qu'un terme oriente le processus. Tenir cette régularité pour un pur hasard de la matière, comme le mécanisme de Démocrite, n'explique rien ; il faut, outre la matière, la [cause finale](../glossary/four-causes.md), ce en vue de quoi une chose existe. Le finalisme n'est donc pas projeté sur la nature mais lu en elle, et ce sont les natures internes des êtres, non un démiurge extérieur, qui les portent vers leur fin.
 
-> « Dieu et la nature ne font rien en vain. » (Aristote, Du ciel, I, 4, 271a ; cf. Physique, II, 8)
+> « Dieu et la nature ne font rien en vain. », Du ciel, I, 4, 271a ; cf. Physique, II, 8
 
 *Sources : Aristote, Physique, II, 3 et 8 · Aristote, Métaphysique, A, 3*
 
@@ -132,7 +132,7 @@ Correspondance 90% · Cohérence 10%
 
 La définition aristotélicienne de la vérité est le paradigme de la correspondance : la pensée est vraie quand elle s'accorde à ce qui est dans la chose, formule que la scolastique reprendra comme adéquation de l'intellect et de la chose.
 
-> « Dire de ce qui est qu'il n'est pas, ou de ce qui n'est pas qu'il est, est le faux ; dire de ce qui est qu'il est, et de ce qui n'est pas qu'il n'est pas, est le vrai. » (Aristote, Métaphysique, Γ (livre IV), 7, 1011b)
+> « Dire de ce qui est qu'il n'est pas, ou de ce qui n'est pas qu'il est, est le faux ; dire de ce qui est qu'il est, et de ce qui n'est pas qu'il n'est pas, est le vrai. », Métaphysique, Γ (livre IV), 7, 1011b
 
 *Sources : Aristote, Métaphysique, Γ (livre IV), 7 · Thomas d'Aquin, Questions disputées sur la vérité, q. 1*
 
@@ -184,7 +184,7 @@ Théisme 80% · Athéisme 20%
 
 L'aristotélisme affirme un principe divin, le [premier moteur immobile](../glossary/unmoved-mover.md), cause finale du mouvement de l'univers qu'il meut comme l'aimé meut l'amant. Mais ce dieu d'Aristote est impersonnel : pure pensée se pensant elle-même, il n'est ni créateur ni providence et ne se soucie pas du monde. D'où une position théiste nettement non extrême, qui marque cette impersonnalité, avant que la scolastique ne l'identifie, non sans tension, au Dieu personnel et providentiel.
 
-> « La pensée se pense elle-même en saisissant l'intelligible, et son acte de pensée est pensée de la pensée. » (Aristote, Métaphysique, Λ (livre XII), 9, 1074b)
+> « La pensée se pense elle-même en saisissant l'intelligible, et son acte de pensée est pensée de la pensée. », Métaphysique, Λ (livre XII), 9, 1074b
 
 *Sources : Aristote, Métaphysique, Λ (livre XII), 7 et 9*
 

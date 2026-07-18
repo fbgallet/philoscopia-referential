@@ -39,6 +39,12 @@ Science and religion answer different questions: one describes facts, the other 
 - *[Faith and reason](../axes/faith-reason.md) : Conflict* grounds *[Ethics of belief](../axes/belief-ethics.md) : Evidentialism* : If believing without sufficient evidence betrays the demands of reason, then one has a duty to proportion one's beliefs to the evidence. The thesis of a conflict between faith and reason grounds the evidentialist ethics of belief, of which [Russell](../philosophers/russell.md) is a herald: to hold nothing true beyond what the reasons permit.
 - *[Faith and reason](../axes/faith-reason.md) : Fideism* grounds *[Ethics of belief](../axes/belief-ethics.md) : Non-evidentialism* : If faith is a leap that begins where proof ends, then to believe is a matter of decision, not a constraint of the evidence. Fideism grounds doxastic voluntarism: [Pascal](../philosophers/pascal.md)'s wager invites us to bet on God for want of demonstration, making belief an act of the will.
 
+## Quotations
+
+> “It is faith alone that vividly and certainly embraces the high mysteries of our religion.” — [Michel de Montaigne](../philosophers/montaigne.md), Essays, II, 12, "Apology for Raymond Sebond"
+
+> “I had to deny knowledge in order to make room for faith.” — [Kant](../philosophers/kant.md), Critique of Pure Reason, Preface to the Second Edition (B XXX)
+
 ## Related axes
 
 [The problem of evil](../axes/problem-of-evil.md) · [Ethics of belief](../axes/belief-ethics.md) · [Existence of God](../axes/god-existence.md) · [Place of science](../axes/science-place.md) · [Where the sacred resides](../axes/transcendence.md)

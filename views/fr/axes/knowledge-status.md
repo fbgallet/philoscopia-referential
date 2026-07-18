@@ -29,6 +29,12 @@ Le savoir est une construction historique et sociale : les paradigmes, les insti
 - *[Statut du savoir](../axes/knowledge-status.md) : Réalisme scientifique* fonde *[Méthode scientifique](../axes/scientific-method.md) : Falsificationnisme* : Si la science vise une vérité qu'elle n'atteint jamais avec certitude, alors elle progresse non en prouvant ses théories mais en les exposant à ce qui pourrait les réfuter. Le réalisme scientifique soutient le falsificationnisme : [Popper](../philosophers/popper.md) tient une théorie pour scientifique dans la mesure même où elle prend le risque d'être démentie.
 - *[Identité sociale](../axes/social-identity.md) : Construction sociale* fonde *[Statut du savoir](../axes/knowledge-status.md) : Constructivisme* : Si les catégories par lesquelles nous pensons sont des produits contingents de l'histoire et des rapports de pouvoir, le savoir lui-même n'échappe pas à cette emprise. Le constructionnisme social fonde le constructivisme du savoir : [Foucault](../philosophers/foucault.md) montre que chaque époque détermine, par ses discours et ses institutions, ce qui peut y être tenu pour vrai.
 
+## Citations
+
+> « L'ordre et la connexion des idées sont les mêmes que l'ordre et la connexion des choses. » — [Spinoza](../philosophers/spinoza.md), Éthique, II, proposition 7
+
+> « Les pensées de la classe dominante sont aussi, à toutes les époques, les pensées dominantes. » — [Marx](../philosophers/marx.md), L'Idéologie allemande
+
 ## Axes liés
 
 [Le sens des mots](../axes/meaning.md) · [Justification de la croyance](../axes/epistemic-justification.md) · [Méthode scientifique](../axes/scientific-method.md) · [Place de la science](../axes/science-place.md) · [Nature de la vérité](../axes/truth-nature.md)

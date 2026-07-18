@@ -1,0 +1,42 @@
+{
+  "id": "contemplation-theoria",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "METAPHILOSOPHY", "poleId": "CONTEMPLATION" },
+  "name": { "fr": "La théôria, activité la plus haute", "en": "Theoria, the highest activity" },
+  "claim": {
+    "fr": "Comprendre pour comprendre n'est pas un luxe : c'est l'activité la plus haute dont l'homme soit capable, et elle n'a pas à servir autre chose qu'elle-même.",
+    "en": "Understanding for its own sake is no luxury: it is the highest activity of which man is capable, and it need serve nothing beyond itself."
+  },
+  "summary": {
+    "fr": "Toute activité vise une fin hors d'elle, sauf celle qu'on veut pour elle-même ; or comprendre est désiré pour soi seul, le seul savoir libre. C'est aussi l'activité la plus autosuffisante, qui exerce le plus haut de nous sur le plus haut à connaître : la philosophie accomplit là sa vocation.",
+    "en": "Every activity aims at an end beyond itself, save the one wanted for its own sake; but understanding is desired for itself alone, the one free knowledge. It is also the most self-sufficient activity, exercising the highest in us upon the highest to be known: here philosophy fulfills its vocation."
+  },
+  "development": [
+    {
+      "fr": "Toute autre activité vise une fin hors d'elle : on se soigne pour la santé, on gouverne pour la cité. Mais à chaque fois on peut demander « et cela, pour quoi ? » ; la chaîne doit s'arrêter à ce qu'on veut pour soi-même.",
+      "en": "Every other activity aims at an end beyond itself: one heals for the sake of health, one governs for the sake of the city. But each time one can ask 'and that, for the sake of what?'; the chain must stop at what is wanted for its own sake."
+    },
+    {
+      "fr": "Or comprendre, saisir pourquoi les choses sont comme elles sont, est désiré pour soi seul : « tous les hommes désirent naturellement savoir », et le savoir qui ne sert à rien d'autre est le seul entièrement libre.",
+      "en": "Now understanding, grasping why things are as they are, is desired for itself alone: 'all men by nature desire to know', and the knowledge that serves nothing else is the one entirely free."
+    },
+    {
+      "fr": "C'est aussi l'activité la plus continue et la plus autosuffisante, celle qui exerce ce qu'il y a de plus haut en nous, la pensée, sur ce qu'il y a de plus haut à connaître.",
+      "en": "It is also the most continuous and most self-sufficient activity, the one that exercises what is highest in us, thought, upon what is highest to be known."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la philosophie accomplit sa vocation en comprenant : sa théôria n'est pas une évasion mais la fin à laquelle le reste sert de moyen, la <ax id='SOVEREIGN_GOOD' pole='EUDAIMONISM'>vie selon ce qu'il y a de plus haut</ax> en nous.",
+    "en": "So philosophy fulfills its vocation by understanding: its theoria is not an escape but the end to which the rest is a means, the <ax id='SOVEREIGN_GOOD' pole='EUDAIMONISM'>life according to what is highest</ax> in us."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": { "fr": "Aristote", "en": "Aristotle" },
+    "figures": [{ "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" }],
+    "work": { "fr": "Éthique à Nicomaque, X, 7 ; Métaphysique, A, 1", "en": "Nicomachean Ethics, X, 7; Metaphysics, A, 1" },
+    "workId": "nicomachean-ethics-aristotle"
+  },
+  "test": "contemplation-eleventh-thesis-objection",
+  "problems": ["useless-or-free", "interpret-or-change", "does-philosophy-progress"],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

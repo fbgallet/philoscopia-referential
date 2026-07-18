@@ -224,7 +224,8 @@
       ],
       "doorways": [
         {
-          "axis": "HUMAN_PLACE_NATURE"
+          "axis": "HUMAN_PLACE_NATURE",
+          "problem": "domination-of-nature"
         }
       ],
       "title": {

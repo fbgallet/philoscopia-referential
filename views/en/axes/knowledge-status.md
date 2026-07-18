@@ -29,6 +29,12 @@ Knowledge is a historical and social construction: paradigms, institutions, and 
 - *[Status of knowledge](../axes/knowledge-status.md) : Scientific realism* grounds *[Scientific method](../axes/scientific-method.md) : Falsificationism* : If science aims at a truth it never attains with certainty, then it advances not by proving its theories but by exposing them to what could refute them. Scientific realism supports falsificationism: [Popper](../philosophers/popper.md) holds a theory to be scientific precisely insofar as it takes the risk of being disproved.
 - *[Social identity](../axes/social-identity.md) : Social construction* grounds *[Status of knowledge](../axes/knowledge-status.md) : Constructivism* : If the categories through which we think are contingent products of history and power relations, knowledge itself does not escape that grip. Social constructionism grounds constructivism about knowledge: [Foucault](../philosophers/foucault.md) shows that each era determines, through its discourses and institutions, what may there be held to be true.
 
+## Quotations
+
+> “The order and connection of ideas is the same as the order and connection of things.” — [Spinoza](../philosophers/spinoza.md), Ethics, II, proposition 7
+
+> “The ideas of the ruling class are in every epoch the ruling ideas.” — [Marx](../philosophers/marx.md), The German Ideology
+
 ## Related axes
 
 [The meaning of words](../axes/meaning.md) · [Justification of belief](../axes/epistemic-justification.md) · [Scientific method](../axes/scientific-method.md) · [Place of science](../axes/science-place.md) · [Nature of truth](../axes/truth-nature.md)

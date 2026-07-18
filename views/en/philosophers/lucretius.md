@@ -24,7 +24,7 @@ Materialism 100%
 
 Everything begins from two principles that Lucretius establishes before all else: nothing comes from nothing, nothing returns to nothing. Were it otherwise, anything could spring from anything, with no seed and no season; yet experience shows fixed natures and ordered cycles, so the real reduces to first bodies, the atoms, and the void that lets them move. Outside this pair nothing exists in itself: soul and mind themselves are aggregates of very fine atoms, and there is no room for any immaterial substance. This thoroughgoing materialism, inherited from Democritus and [Epicurus](../philosophers/epicurus.md), Lucretius unfolds into a complete system and makes visible, from the speck of dust dancing in a sunbeam to the infinity of worlds.
 
-> “Nothing is ever created out of nothing by divine power.” (On the Nature of Things, I, 150)
+> “Nothing is ever created out of nothing by divine power.”, On the Nature of Things, I, 150
 
 *Sources : On the Nature of Things, I, 146-264 (nothing from nothing, nothing to nothing) · On the Nature of Things, I, 418-448 (the all is body and void)*
 
@@ -46,7 +46,7 @@ Mechanism 100%
 
 Nature pursues no end and was ordered by no design: things come to be through the merely mechanical encounter of atoms over infinite time, in which every possible combination has formed and only those able to endure have lasted. Hence a famous reversal of finalism: “no bodily member was made for our use”; the order is the reverse, the organ exists first and the use comes after. To seek a purpose in the eye, the hand or the stars is therefore an illusion, and Lucretius mocks those who believe the world made for men. This is a thoroughgoing [mechanism](../axes/causality.md), where only the swerve of the [clinamen](../glossary/clinamen.md) introduces play without reintroducing any end.
 
-> “Nothing was born in the body that we might use it: it is the thing born that creates the use.” (On the Nature of Things, IV, 833-835)
+> “Nothing was born in the body that we might use it: it is the thing born that creates the use.”, On the Nature of Things, IV, 833-835
 
 *Sources : On the Nature of Things, IV, 823-857 (nothing in the body was made in order to serve) · On the Nature of Things, V, 156-234 (the world was not made for men)*
 
@@ -58,7 +58,7 @@ Free will 80% · Hard determinism 20%
 
 If atoms did nothing but fall straight down through the void by their own weight, they would never meet, and necessity would chain every cause to another without end: neither the world-making collisions, nor above all that “will wrested from the fates” which every living thing feels as it surges forward, would be possible. Lucretius therefore posits the [clinamen](../glossary/clinamen.md), the slight swerve, at an undetermined time and place, by which an atom deviates from its fall, breaking the chain of [determinism](../glossary/determinism.md). His is the text that transmits the argument to us: this grain of [indeterminacy](../glossary/indeterminism.md) at the root of matter grounds, against the physicists' fate, the [free will](../glossary/free-will.md) of which we have inner evidence.
 
-> “Whence comes this will wrested from the fates, by which we move wherever pleasure leads each on? The swerve breaks the decrees of fate.” (On the Nature of Things, II, 251-260)
+> “Whence comes this will wrested from the fates, by which we move wherever pleasure leads each on? The swerve breaks the decrees of fate.”, On the Nature of Things, II, 251-260
 
 *Sources : On the Nature of Things, II, 216-293 (the swerve and the will wrested from the fates)*
 
@@ -70,7 +70,7 @@ Theism 70% · Atheism 30%
 
 Lucretius does not deny that the gods exist: made of subtle atoms, they lead an immortal and perfectly peaceful life in the [intermundia](../glossary/intermundia.md), with no care for ours. But he draws a radical consequence: a blessed being has neither anger nor favour, so no [providence](../glossary/providence.md) governs the world, no god made it or rewards and punishes. The proof lies in the very spectacle of nature, too full of flaws to be the work of a divine power. This position is therefore not atheism, of which he was accused, but a theology without [providence](../glossary/providence.md): the gods neither create nor govern anything, and its edge is polemical: “so much wrong could religion prompt”, it is religion, not impiety, that is the true evil to be fought.
 
-> “So much wrong could religion prompt.” (On the Nature of Things, I, 101)
+> “So much wrong could religion prompt.”, On the Nature of Things, I, 101
 
 *Sources : On the Nature of Things, I, 62-101 (religion as source of crimes, the sacrifice of Iphigenia) · On the Nature of Things, V, 146-234 (the gods of the intermundia; the world too flawed to be divine)*
 
@@ -92,7 +92,7 @@ Death is nothing 100%
 
 Since the soul is corporeal and is born, grows and ages with the body, it dissolves with it: all feeling then ceases, and a subject who is no more can suffer no evil. “Death is therefore nothing to us”, a conclusion Epicurus already held; but Lucretius devotes the whole of book III to it and makes of it a long consolation, multiplying proofs of the soul's mortality and the symmetry argument: we do not grieve over the nothingness before our birth, so why dread the one after our death, which resembles it in all things? To wish to survive is to contradict oneself, for the dead will have neither lack nor regret. The consolation widens into a rejoinder spoken by nature herself, who reproaches the living for their ingratitude and their thirst to endure.
 
-> “Death, then, is nothing to us and touches us not at all, since the nature of the mind is held to be mortal.” (On the Nature of Things, III, 830-831)
+> “Death, then, is nothing to us and touches us not at all, since the nature of the mind is held to be mortal.”, On the Nature of Things, III, 830-831
 
 *Sources : On the Nature of Things, III, 417-829 (the mortal soul; death is nothing to us) · On the Nature of Things, III, 830-1094 (the symmetry argument; the diatribe of Nature)*
 
@@ -184,7 +184,7 @@ Hedonism 90% · Eudaimonism 10%
 
 The highest good is pleasure understood as peace, not as enjoyment: the end of the whole of physics is [ataraxia](../glossary/ataraxia.md), the state in which, the fears of the gods and of death dispelled, nothing more troubles the soul. Nature, says Lucretius, asks for only one thing, a body free of pain and a mind freed of care and dread. This definition of the sovereign good is taken over from [Epicurus](../philosophers/epicurus.md); Lucretius makes it the avowed aim of his poem and the famous image of the sage who, from the shore, watches the shipwrecked without peril.
 
-> “Nature cries aloud for nothing else but that pain be kept away from the body, and that the mind enjoy pleasant sensation, free of care and fear.” (On the Nature of Things, II, 16-19)
+> “Nature cries aloud for nothing else but that pain be kept away from the body, and that the mind enjoy pleasant sensation, free of care and fear.”, On the Nature of Things, II, 16-19
 
 *Sources : On the Nature of Things, II, 1-61 (the proem: suave mari magno; nature asks for little)*
 

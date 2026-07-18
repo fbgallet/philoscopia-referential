@@ -32,6 +32,10 @@ Morality demands a great deal: if I can prevent a great harm at a modest cost to
 - **Charity or justice** : If distant misery stems from unjust institutions we benefit from, giving is no longer enough: the duty would be to repair and transform the order, not to give alms. Is individual giving a duty, or the alibi of an ongoing injustice?
 - **What a human being can bear** : Does a demand beyond our strength breed discouragement and hypocrisy, or must the ideal exceed what we are precisely in order to pull us upward? What morality may ask depends on what human beings can give.
 
+## Quotations
+
+> “Waste no more time arguing what a good man should be. Be one.” — [Marcus Aurelius](../philosophers/marcus-aurelius.md), Meditations, X, 16
+
 ## Related axes
 
 [Criterion of right action](../axes/ethics-foundation.md) · [Moral circle](../axes/moral-circle.md) · [Partiality](../axes/partiality.md) · [Self-interest and others](../axes/self-interest.md) · [Forgiveness](../axes/forgiveness.md) · [Distributive justice](../axes/distributive-justice.md) · [Political liberty](../axes/political-liberty.md) · [Vision of humanity](../axes/human-vision.md)

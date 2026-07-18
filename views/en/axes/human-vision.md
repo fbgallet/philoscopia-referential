@@ -36,12 +36,30 @@ Human beings are neither good nor evil by nature: they are malleable. Neither an
 - **Does genuine altruism exist?** : Do our most generous acts always hide an interest, a need to be loved, a vanity? If no truly disinterested act exists, talk of goodness loses its meaning.
 - **Institutions for angels, or for devils?** : Should laws be designed counting on citizens' virtue, or built so that "even a nation of devils" would be forced to act well? One's vision of humanity governs the kind of institutions one deems necessary.
 
+## Arguments
+
+- *Anthropological optimism* · for : [Man is good, society corrupts him](../arguments/optimism-natural-goodness.md)
+- *Anthropological optimism* · against : [No golden age](../arguments/optimism-no-golden-age-objection.md)
+- *Anthropological pessimism* · for : [The crooked timber of humanity](../arguments/pessimism-persistent-drives.md)
+- *Anthropological pessimism* · against : [The statue of Glaucus](../arguments/pessimism-glaucus-statue-objection.md)
+- *Anthropological pessimism* · against : [It is circumstances, not nature](../arguments/pessimism-situationist-objection.md)
+- *Moral plasticity* · for : [Neither angel nor beast](../arguments/plasticity-neither-angel-nor-beast.md)
+- *Moral plasticity* · against : [The timber from which no straight plank is made](../arguments/plasticity-crooked-timber-objection.md)
+
 ## Grounding relations
 
 - *[Vision of humanity](../axes/human-vision.md) : Anthropological optimism* grounds *[Relation to authority](../axes/authority.md) : Anarchism* : If human beings are naturally good and it is society that corrupts them, authority imposed from above looks less like a remedy than the source of the evil. Anthropological optimism feeds anarchism: the fundamental goodness affirmed by [Rousseau](../philosophers/rousseau.md) opens the way to the idea of a society that would organize itself without domination, through free association.
 - *[Vision of humanity](../axes/human-vision.md) : Anthropological pessimism* grounds *[Relation to authority](../axes/authority.md) : Authority* : If man is by nature inclined to violence and self-interest, the absence of a common power leaves him to the war of all against all. Anthropological pessimism thus justifies a strong authority, the only thing able to guarantee civil peace.
 - *[Vision of humanity](../axes/human-vision.md) : Anthropological pessimism* grounds *[Tradition and transformation](../axes/conservatism-progressism.md) : Conservatism* : If human beings are shot through with selfish, aggressive drives that nothing erases, individual reason is too weak to refound the social order from scratch. Anthropological pessimism supports conservatism: [Burke](../philosophers/burke.md) sees in inherited institutions an accumulated wisdom better reformed with prudence than destroyed.
 - *[Vision of humanity](../axes/human-vision.md) : Anthropological pessimism* grounds *[Ideal and reality](../axes/political-ideal.md) : Political realism* : If human nature is lastingly imperfect, hoping for a perfect city invites blindness and the tyranny of good intentions. Anthropological pessimism therefore recommends political realism, attentive to actual balances of power rather than to ideals.
+
+## Quotations
+
+> “Man is at bottom a wild and terrible animal.” — [Schopenhauer](../philosophers/schopenhauer.md), Parerga and Paralipomena, vol. II, § 114 ('On Ethics')
+
+> “Man is something that shall be overcome.” — [Nietzsche](../philosophers/nietzsche.md), Thus Spoke Zarathustra, Prologue, §3
+
+> “Everything is good as it leaves the hands of the Author of things; everything degenerates in the hands of man.” — [Rousseau](../philosophers/rousseau.md), Emile, book I
 
 ## Related axes
 

@@ -31,6 +31,12 @@ Telling the truth is a duty, but only toward those who have a right to it. When 
 - *Benevolent lying permitted* · against : [The lie that infantilizes](../arguments/sincerity-benevolent-paternalism-objection.md)
 - *Benevolent lying permitted* · against : [The lie comes back](../arguments/sincerity-benevolent-trust-collapse.md)
 
+## Quotations
+
+> “On no occasion call yourself a philosopher: be one.” — [Epictetus](../philosophers/epictetus.md), Enchiridion, §46
+
+> “If names are not correct, language is not in accord with the truth of things; then affairs cannot succeed.” — [Confucius](../philosophers/confucius.md), Analects, XIII, 3
+
 ## Related axes
 
 [Letter or spirit of the rule](../axes/rule-spirit.md)

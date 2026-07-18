@@ -106,7 +106,7 @@ Cosmopolitisme 98% · Communautarisme-patriotisme 3%
 
 Si les frontières des cités ne sont que nomos, convention sans fondement dans la nature, alors aucune ne saurait commander l'appartenance d'un être raisonnable : la cité n'a pas plus de droit naturel sur moi que le hasard de ma naissance. De là le mot kosmopolitēs que forge Diogène, le premier à se dire citoyen du monde : non l'amour d'une patrie élargie, mais le refus d'en reconnaître aucune, l'humanité entière prise comme seul horizon. La provocation vise l'orgueil civique grec, qui faisait de l'exilé un déchu : le cynique en fait sa condition revendiquée.
 
-> « On lui demandait d'où il était : « Citoyen du monde », répondit-il. » (Diogène Laërce, Vies, VI, 63)
+> « On lui demandait d'où il était : « Citoyen du monde », répondit-il. », Diogène Laërce, Vies, VI, 63
 
 *Sources : Diogène Laërce, Vies des philosophes illustres, VI, 63*
 
@@ -118,7 +118,7 @@ Ce qui dépend de nous 95% · Prométhéisme 5%
 
 On n'est libre qu'à proportion de ce dont on peut se passer : tout besoin est une prise que le monde, la fortune ou les puissants ont sur nous. Le cynique en tire l'[autarkeia](../glossary/autarkeia.md) (autosuffisance) comme but, vivre de telle sorte que rien d'extérieur ne soit nécessaire et que nul ne détienne donc rien dont nous dépendions. Quand Alexandre, maître du monde connu, lui offrit d'exaucer n'importe quel souhait, Diogène ne demanda que de s'écarter de son soleil : c'est montrer que l'homme le plus dénué, s'il ne désire rien, est plus invulnérable que le plus puissant des rois, lequel reste à la merci de ce qu'il possède.
 
-> « « Demande-moi ce que tu voudras. » « Ôte-toi de mon soleil. » » (Diogène Laërce, Vies, VI, 38)
+> « « Demande-moi ce que tu voudras. » « Ôte-toi de mon soleil. » », Diogène Laërce, Vies, VI, 38
 
 *Sources : Diogène Laërce, Vies, VI, 38*
 

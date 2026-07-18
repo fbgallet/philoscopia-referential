@@ -33,6 +33,10 @@ The artist lives in his own time and cannot wash his hands of it: his work awake
 - *[Beauty](../axes/beauty.md) : Objective beauty* grounds *[Purpose of art](../axes/art-purpose.md) : Truth* : If beauty is a reality bound up with the order and essence of things, then the great work is the one that lets that truth be seen, beyond mere pleasure. Objective beauty grounds the idea of an art of truth: for [Schopenhauer](../philosophers/schopenhauer.md), art suspends the will and discloses the essence of the world that the concept cannot reach.
 - *[Beauty](../axes/beauty.md) : Subjective beauty* grounds *[Purpose of art](../axes/art-purpose.md) : Pleasure* : If beauty is nothing but the pleasure a form gives, then art has no end other than that pleasure itself, without having to serve truth or a cause. Subjective beauty grounds art for art's sake: the work is sufficient unto itself, and subordinating it to an external end would only debase it.
 
+## Quotations
+
+> “Poetry is more philosophical and weightier than history: it speaks of the universal, history of the particular.” — [Aristotle](../philosophers/aristotle.md), Poetics, 9 (1451b)
+
 ## Related axes
 
 [Beauty in life](../axes/aesthetic-life.md) · [Nature of art](../axes/art-nature.md)

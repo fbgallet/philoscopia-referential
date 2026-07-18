@@ -28,9 +28,17 @@ When the evidence is inconclusive and the stakes are vital, we have the right, s
 - *[Faith and reason](../axes/faith-reason.md) : Fideism* grounds *[Ethics of belief](../axes/belief-ethics.md) : Non-evidentialism* : If faith is a leap that begins where proof ends, then to believe is a matter of decision, not a constraint of the evidence. Fideism grounds doxastic voluntarism: [Pascal](../philosophers/pascal.md)'s wager invites us to bet on God for want of demonstration, making belief an act of the will.
 - *[Nature of truth](../axes/truth-nature.md) : Pragmatism* grounds *[Ethics of belief](../axes/belief-ethics.md) : Non-evidentialism* : If an idea is true insofar as it succeeds and makes action fruitful, then, when proof is lacking and the stakes are vital, daring to believe can be legitimate, even fruitful. Pragmatism supports non-evidentialism: [James](../philosophers/william-james.md) claims a "right to believe" where evidence does not decide and where belief engages life.
 
+## Quotations
+
+> “The mind, if it will proceed rationally, ought to examine all the grounds of probability ... and upon a due balancing the whole, reject or receive it, with a more or less firm assent, proportionably to the preponderancy of the greater grounds of probability.” — [Locke](../philosophers/locke.md), Essay Concerning Human Understanding, IV, ch. 15-16 (probability and the degrees of assent)
+
+> “A wise man, therefore, proportions his belief to the evidence.” — [Hume](../philosophers/hume.md), Enquiry Concerning Human Understanding, section X (Of Miracles)
+
+> “A wise man, therefore, proportions his belief to the evidence.” — [Hume](../philosophers/hume.md), Enquiry Concerning Human Understanding, sect. X
+
 ## Related axes
 
-[Relation to certainty](../axes/certainty.md) · [Faith and reason](../axes/faith-reason.md) · [Existence of God](../axes/god-existence.md) · [The highest good](../axes/sovereign-good.md)
+[Relation to certainty](../axes/certainty.md) · [Faith and reason](../axes/faith-reason.md) · [Existence of God](../axes/god-existence.md) · [The highest good](../axes/sovereign-good.md) · [Justification of belief](../axes/epistemic-justification.md)
 
 ---
 

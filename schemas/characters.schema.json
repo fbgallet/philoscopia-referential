@@ -256,50 +256,9 @@
                   "additionalProperties": false
                 }
               },
-              "quote": {
-                "type": "object",
-                "properties": {
-                  "text": {
-                    "type": "object",
-                    "properties": {
-                      "fr": {
-                        "type": "string",
-                        "minLength": 1
-                      },
-                      "en": {
-                        "type": "string",
-                        "minLength": 1
-                      }
-                    },
-                    "required": [
-                      "fr",
-                      "en"
-                    ],
-                    "additionalProperties": false
-                  },
-                  "source": {
-                    "type": "object",
-                    "properties": {
-                      "fr": {
-                        "type": "string",
-                        "minLength": 1
-                      },
-                      "en": {
-                        "type": "string",
-                        "minLength": 1
-                      }
-                    },
-                    "required": [
-                      "fr",
-                      "en"
-                    ],
-                    "additionalProperties": false
-                  }
-                },
-                "required": [
-                  "text"
-                ],
-                "additionalProperties": false
+              "quoteId": {
+                "type": "string",
+                "pattern": "^[a-z0-9][a-z0-9-]*$"
               },
               "strength": {
                 "type": "string",

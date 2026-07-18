@@ -1,0 +1,19 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "plantinga",
+  "name": { "fr": "Plantinga", "en": "Plantinga" },
+  "aliases": {
+    "fr": ["Alvin Plantinga", "plantingien"],
+    "en": ["Alvin Plantinga"]
+  },
+  "summary": {
+    "fr": "Philosophe analytique américain de la religion : il a donné à la défense par le libre arbitre sa forme la plus rigoureuse, montrant qu'un Dieu bon et tout-puissant peut coexister sans contradiction avec le mal, prix d'une liberté réellement créée.",
+    "en": "American analytic philosopher of religion: he gave the free-will defence its most rigorous form, showing that a good and all-powerful God can coexist without contradiction with evil, the price of a genuinely created freedom."
+  },
+  "nationality": { "fr": "Américain", "en": "American" },
+  "birth": 1932,
+  "movements": ["analytic-philosophy"],
+  "updatedAt": "2026-07-13T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

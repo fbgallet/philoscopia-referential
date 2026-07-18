@@ -1,0 +1,44 @@
+{
+  "id": "pathocentrism-can-they-suffer",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "MORAL_CIRCLE", "poleId": "PATHOCENTRISM" },
+  "name": { "fr": "« Peuvent-ils souffrir ? »", "en": "'Can they suffer?'" },
+  "claim": {
+    "fr": "La question n'est pas « peuvent-ils raisonner ? » ni « peuvent-ils parler ? », mais « peuvent-ils souffrir ? ».",
+    "en": "The question is not 'can they reason?' nor 'can they talk?', but 'can they suffer?'."
+  },
+  "summary": {
+    "fr": "Un tort est grave parce qu'il fait du mal à quelqu'un ; or tout être sensible a un intérêt à ne pas souffrir. Écarter cet intérêt au motif de l'espèce, c'est un spécisme de même forme que le racisme : tout être capable de souffrir entre donc dans le cercle moral.",
+    "en": "A wrong is grave because it harms someone; but every sentient being has an interest in not suffering. To set that interest aside on grounds of species is a speciesism of the same form as racism: every being capable of suffering thus enters the moral circle."
+  },
+  "development": [
+    {
+      "fr": "Ce qui rend un tort grave, c'est qu'il fait du mal à quelqu'un : la douleur, la peur, la privation sont des maux pour celui qui les éprouve.",
+      "en": "What makes a wrong grave is that it harms someone: pain, fear, deprivation are evils for the one who undergoes them."
+    },
+    {
+      "fr": "Or un être qui peut souffrir a, de ce fait, un intérêt à ne pas souffrir, un point de vue sur son existence, peu importe qu'il raisonne ou parle.",
+      "en": "Now a being that can suffer has, by that very fact, an interest in not suffering, a point of view on its existence, no matter whether it reasons or speaks."
+    },
+    {
+      "fr": "Écarter cet intérêt au seul motif que son porteur n'est pas de notre espèce, c'est un préjugé de même forme que le racisme : un <kw>spécisme</kw> qui, sans raison pertinente, refuse la <ax id='ETHICS_FOUNDATION' pole='CONSEQUENTIALISM'>considération égale des intérêts</ax>.",
+      "en": "To set that interest aside on the sole ground that its bearer is not of our species is a prejudice of the same form as racism: a <kw>speciesism</kw> that, without any relevant reason, refuses the <ax id='ETHICS_FOUNDATION' pole='CONSEQUENTIALISM'>equal consideration of interests</ax>."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc tout être sensible entre dans le cercle moral, et à intérêts comparables, une souffrance égale pèse d'un poids égal, qu'elle soit humaine ou animale.",
+    "en": "So every sentient being enters the moral circle, and where interests are comparable, an equal suffering weighs equally, whether human or animal."
+  },
+  "difficulty": 1,
+  "source": {
+    "author": { "fr": "Bentham, Singer", "en": "Bentham, Singer" },
+    "figures": [
+      { "name": { "fr": "Bentham", "en": "Bentham" }, "kind": "PHILOSOPHER", "slug": "bentham" },
+      { "name": { "fr": "Singer", "en": "Singer" }, "kind": "PHILOSOPHER", "slug": "singer" }
+    ],
+    "work": { "fr": "Introduction aux principes de la morale et de la législation, ch. XVII", "en": "Introduction to the Principles of Morals and Legislation, ch. XVII" }
+  },
+  "test": "pathocentrism-reverence-objection",
+  "problems": ["moral-status-criterion", "species-privilege", "welfare-or-rights"],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

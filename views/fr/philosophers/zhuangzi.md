@@ -24,7 +24,7 @@ Scepticisme 80% · Dogmatisme 20%
 
 Tout jugement se prononce d'un point de vue, et chaque point de vue a son « ceci » et son « cela » : ce que l'un tient pour vrai, l'autre le tient pour faux, et nul tribunal neutre ne peut les départager sans être lui-même partie. Zhuangzi en tire un scepticisme à l'égard du savoir discursif : les controverses des [confucéens](../philosophers/confucius.md) et des mohistes s'annulent, le rêve ne se distingue pas sûrement de la veille, et l'on ignore même si l'on sait quelque chose. Mais ce doute n'est pas la suspension grecque visant la [tranquillité](../glossary/ataraxia.md) : il est thérapeutique et libérateur, il dissout l'anxiété de devoir avoir raison pour laisser place à un savoir souple, accordé au cours des choses.
 
-> « Comment saurais-je que ce que j'appelle savoir n'est pas de l'ignorance, et que ce que j'appelle ignorance n'est pas du savoir ? » (Zhuangzi, ch. 2 (Discours sur l'égalité des choses))
+> « Comment saurais-je que ce que j'appelle savoir n'est pas de l'ignorance, et que ce que j'appelle ignorance n'est pas du savoir ? », ch. 2 (Discours sur l'égalité des choses)
 
 *Sources : Zhuangzi, ch. 2 (Discours sur l'égalité des choses) · Zhuangzi, ch. 2 (le rêve du papillon)*
 
@@ -46,7 +46,7 @@ La mort n'est rien 55% · Immortalisme 45%
 
 À la mort de sa femme, Zhuangzi chante en battant la mesure sur une jarre : pleurer serait ignorer le cours des choses. La mort n'est pas un néant à craindre ni le passage vers une âme immortelle, mais un moment de la [transformation](../glossary/hua.md) incessante (hua) : les souffles se nouent en vie comme les saisons se succèdent, puis se dénouent et se reforment ailleurs. Qui sait si le mort ne se félicite pas, comme un exilé enfin rentré ? Cette sérénité par insertion dans le grand passage des formes croise l'apaisement épicurien, mais il s'y mêle l'idée que la matière vivante se recompose sans fin, ce qui n'est ni vraiment une extinction ni une immortalité personnelle.
 
-> « La vie et la mort se suivent comme le jour et la nuit. Pourquoi m'en affliger ? » (Zhuangzi, ch. 18 (Parfaite joie))
+> « La vie et la mort se suivent comme le jour et la nuit. Pourquoi m'en affliger ? », ch. 18 (Parfaite joie)
 
 *Sources : Zhuangzi, ch. 18 (Parfaite joie) · Zhuangzi, ch. 6 (Le grand maître)*
 
@@ -58,7 +58,7 @@ Ce qui dépend de nous 90% · Prométhéisme 10%
 
 Le boucher Ding débite un bœuf sans jamais émousser sa lame : il ne tranche pas, il suit les interstices que la bête lui offre, et le couteau passe dans le vide. La parabole donne au [non-agir](../glossary/wu-wei.md) son sens le plus concret : non l'inaction, mais l'action si épousée au réel qu'elle cesse d'être un effort. Contre le volontarisme qui plie les choses à un dessein, l'efficace vient de qui n'impose rien et glisse là où la situation cède, comme le nageur des chutes qui « entre avec le tourbillon et sort avec le remous ». Là où [Laozi](../philosophers/laozi.md) tire le non-agir vers l'art de gouverner, Zhuangzi le déploie comme une maîtrise vécue, presque corporelle, du geste juste.
 
-> « Je ne regarde plus avec les yeux mais avec l'esprit, et la lame suit d'elle-même les interstices naturels. » (Zhuangzi, ch. 3 (Principe vital))
+> « Je ne regarde plus avec les yeux mais avec l'esprit, et la lame suit d'elle-même les interstices naturels. », ch. 3 (Principe vital)
 
 *Sources : Zhuangzi, ch. 3 (le boucher Ding) · Zhuangzi, ch. 19 (le nageur des chutes)*
 
@@ -100,7 +100,7 @@ Membre parmi d'autres 85% · Gardiennage 15%
 
 L'homme n'a ni à maîtriser la nature ni à la gérer en intendant : il lui faut « laisser les choses être ce qu'elles sont » et accorder son agir au leur. Le bonheur des poissons que Zhuangzi prétend connaître en les regardant nager, sa polémique avec [Hui Shi](../philosophers/hui-shi.md) à ce sujet, disent une continuité vécue entre l'homme et le vivant qui rend vaine toute position de surplomb. Suivre le naturel, ce n'est pas exploiter ni protéger, c'est se savoir membre du même flux, exactement à l'opposé du prométhéisme.
 
-> « Vois comme les poissons sortent et folâtrent à leur aise : voilà le bonheur des poissons ! » (Zhuangzi, ch. 17 (Les crues d'automne))
+> « Vois comme les poissons sortent et folâtrent à leur aise : voilà le bonheur des poissons ! », ch. 17 (Les crues d'automne)
 
 *Sources : Zhuangzi, ch. 17 (le bonheur des poissons) · Zhuangzi, ch. 7 (le maître ne s'oppose à rien)*
 
@@ -162,7 +162,7 @@ Vie examinée 75% · Primat de l'action 25%
 
 La sagesse se gagne par un retour au-dedans, le [« jeûne du cœur »](../glossary/xinzhai.md) et l'« oubli assis » qui vident l'esprit de ses calculs et de ses préférences pour le rendre clair comme un miroir. Le sage « emploie son cœur comme un miroir » : il reçoit sans retenir, accueille sans poursuivre. Cette quiétude contemplative prime sur l'engagement actif dans les affaires publiques, que Zhuangzi fuit ; mais elle se prolonge dans une action sans effort, de sorte que le retrait intérieur n'est pas pure inaction.
 
-> « Le sage parfait emploie son cœur comme un miroir : il ne va au-devant de rien et n'accueille rien, il répond et ne retient pas. » (Zhuangzi, ch. 7)
+> « Le sage parfait emploie son cœur comme un miroir : il ne va au-devant de rien et n'accueille rien, il répond et ne retient pas. », ch. 7
 
 *Sources : Zhuangzi, ch. 4 (le jeûne du cœur) · Zhuangzi, ch. 7 (le cœur-miroir)*
 
@@ -204,7 +204,7 @@ Théorie de l'usage 70% · Intention du locuteur 30%
 
 Les mots ne peignent pas les choses : ils servent à les attraper, comme la nasse sert à prendre le poisson, et « la nasse prise, on oublie le poisson ». Leur sens tient à leur usage et à ce qu'ils permettent de faire, non à une correspondance fixe avec un référent, si bien que les disputes des logiciens sur les noms tournent à vide. Cette conception instrumentale et pragmatique du langage, où l'on peut « oublier les mots » une fois leur office rempli, penche du côté d'une théorie de l'usage avec une teinte d'intention.
 
-> « La nasse sert à prendre le poisson : le poisson pris, on oublie la nasse. Les mots servent à saisir l'idée : l'idée saisie, on oublie les mots. » (Zhuangzi, ch. 26)
+> « La nasse sert à prendre le poisson : le poisson pris, on oublie la nasse. Les mots servent à saisir l'idée : l'idée saisie, on oublie les mots. », ch. 26
 
 *Sources : Zhuangzi, ch. 26 (la nasse et le poisson) · Zhuangzi, ch. 2*
 
@@ -226,7 +226,7 @@ Techno-critique 80% · Techno-optimisme 20%
 
 Un vieux jardinier refuse la machine à puiser l'eau qu'on lui propose : « qui se sert de machines acquiert un cœur de machine », et perd la pureté native de l'esprit. La méfiance de Zhuangzi ne porte pas sur l'outil en soi, qu'il manie volontiers dans ses paraboles d'artisans, mais sur l'esprit calculateur et l'astuce que l'instrument fait croître au détriment du [naturel](../glossary/ziran.md). Cette critique du « cœur machinal » le range, comme [Laozi](../philosophers/laozi.md), parmi les ancêtres lointains de la techno-critique, mais à partir du for intérieur plus que de l'ordre politique.
 
-> « Qui se sert de machines fait toutes choses machinalement ; qui fait les choses machinalement acquiert un cœur de machine. » (Zhuangzi, ch. 12)
+> « Qui se sert de machines fait toutes choses machinalement ; qui fait les choses machinalement acquiert un cœur de machine. », ch. 12
 
 *Sources : Zhuangzi, ch. 12 (le jardinier et la machine)*
 

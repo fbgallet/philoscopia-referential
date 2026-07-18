@@ -59,6 +59,128 @@
   "relatedAxes": [
     "HUMAN_PLACE_NATURE",
     "MORAL_CIRCLE",
-    "CONSERVATISM_PROGRESSISM"
+    "CONSERVATISM_PROGRESSISM",
+    "TIME_ORIENTATION",
+    "SOCIAL_CONTRACT",
+    "DISTRIBUTIVE_JUSTICE"
+  ],
+  "problems": [
+    {
+      "id": "non-identity",
+      "resolution": "SURFACED",
+      "object": "RELATION",
+      "objectLabel": { "fr": "les gens du futur", "en": "the people of the future" },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "MORAL",
+      "keywords": [
+        { "fr": "problème de la non-identité", "en": "the non-identity problem" },
+        { "fr": "vue impersonnelle", "en": "the impersonal view" },
+        { "fr": "tort sans victime", "en": "harm without a victim" }
+      ],
+      "poles": ["RESPONSIBILITY_PRINCIPLE", "PRESENT_PRIORITY"],
+      "anchors": [
+        { "name": { "fr": "Parfit", "en": "Parfit" }, "kind": "PHILOSOPHER", "slug": "parfit" }
+      ],
+      "title": { "fr": "Le monde d'après", "en": "The world after" },
+      "explicitation": {
+        "fr": "Nos choix appauvrissent le monde lointain, mais décident aussi qui y naîtra : ces gens n'existeraient pas sous une autre politique. Peut-on leur nuire, si aucun d'eux n'est plus mal loti qu'il ne l'aurait été, faute d'avoir jamais existé autrement ?",
+        "en": "Our choices impoverish the distant world, but also decide who will be born into it: those people would not exist under a different policy. Can we harm them, if none of them is worse off than they would otherwise have been, having never existed otherwise?"
+      },
+      "ref": { "kind": "THOUGHT_EXPERIMENT", "id": "non-identity" }
+    },
+    {
+      "id": "the-absent-claimant",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "un être encore à naître", "en": "a being yet to be born" },
+      "mode": "DESCRIPTIVE",
+      "keywords": [
+        { "fr": "juste épargne", "en": "just savings" },
+        { "fr": "obligation sans réciprocité", "en": "obligation without reciprocity" },
+        { "fr": "sujet de droit", "en": "bearer of rights" }
+      ],
+      "poles": ["PRESENT_PRIORITY", "RESPONSIBILITY_PRINCIPLE"],
+      "anchors": [
+        { "name": { "fr": "Rawls", "en": "Rawls" }, "kind": "PHILOSOPHER", "slug": "rawls" },
+        { "name": { "fr": "Jonas", "en": "Jonas" }, "kind": "PHILOSOPHER", "slug": "jonas" }
+      ],
+      "doorways": [{ "axis": "SOCIAL_CONTRACT" }],
+      "title": { "fr": "Un droit sans sujet ?", "en": "A right with no bearer?" },
+      "explicitation": {
+        "fr": "Un droit semble exiger un titulaire qui existe ; les êtres futurs n'existent pas encore, ne réclament rien, ne peuvent rien pour nous. Peut-il y avoir une obligation sans réciprocité, sans personne pour la porter, ou notre devoir envers eux repose-t-il sur tout autre chose qu'un droit ?",
+        "en": "A right seems to require a bearer who exists; future beings do not yet exist, claim nothing, can do nothing for us. Can there be an obligation with no reciprocity and no one to hold it, or does our duty toward them rest on something other than a right?"
+      }
+    },
+    {
+      "id": "a-duty-to-exist",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "la population à venir", "en": "the population to come" },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "MORAL",
+      "keywords": [
+        { "fr": "conclusion répugnante", "en": "the repugnant conclusion" },
+        { "fr": "asymétrie de la procréation", "en": "the procreation asymmetry" },
+        { "fr": "éthique des populations", "en": "population ethics" }
+      ],
+      "poles": ["RESPONSIBILITY_PRINCIPLE", "PRESENT_PRIORITY"],
+      "anchors": [
+        { "name": { "fr": "Parfit", "en": "Parfit" }, "kind": "PHILOSOPHER", "slug": "parfit" },
+        { "name": { "fr": "Narveson", "en": "Narveson" }, "kind": "PHILOSOPHER" }
+      ],
+      "title": { "fr": "Faire naître, ou ne pas nuire ?", "en": "To bring into being, or only not to harm?" },
+      "explicitation": {
+        "fr": "Avons-nous le devoir de faire naître des gens à venir, ou seulement, s'ils doivent exister, de ne pas leur nuire ? Rien ne semble nous obliger à créer des êtres heureux, tandis que créer des êtres misérables serait un tort ; et vouloir maximiser le bonheur total conduit à préférer une multitude de vies à peine bonnes à une petite humanité épanouie.",
+        "en": "Do we have a duty to bring future people into being, or only, if they are to exist, not to harm them? Nothing seems to require us to create happy beings, whereas creating miserable ones would be a wrong; and seeking to maximise total happiness leads to preferring a multitude of barely-good lives to a small flourishing humanity."
+      }
+    },
+    {
+      "id": "the-discount-rate",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "un bénéfice futur", "en": "a future benefit" },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "POLITICAL",
+      "keywords": [
+        { "fr": "taux d'actualisation", "en": "the discount rate" },
+        { "fr": "préférence pure pour le temps", "en": "pure time preference" },
+        { "fr": "rapport Stern", "en": "the Stern Review" }
+      ],
+      "poles": ["RESPONSIBILITY_PRINCIPLE", "PRESENT_PRIORITY"],
+      "anchors": [
+        { "name": { "fr": "Sidgwick", "en": "Sidgwick" }, "kind": "PHILOSOPHER", "slug": "sidgwick" },
+        { "name": { "fr": "Ramsey", "en": "Ramsey" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "Stern", "en": "Stern" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "Nordhaus", "en": "Nordhaus" }, "kind": "PHILOSOPHER" }
+      ],
+      "title": { "fr": "Un bien lointain vaut-il moins ?", "en": "Is a distant good worth less?" },
+      "explicitation": {
+        "fr": "Un bien ou un mal fait à des gens du futur doit-il compter pour moins du seul fait de sa distance dans le temps, comme le fait le calcul économique qui escompte l'avenir, ou cette préférence pour le présent est-elle une faute morale, un simple manque d'imagination ? Un très faible taux annuel suffit à rendre une catastrophe lointaine presque sans poids aujourd'hui.",
+        "en": "Should a benefit or harm to future people count for less simply because it lies far off in time, as the economic reckoning that discounts the future does, or is that preference for the present a moral error, a mere failure of imagination? A very small annual rate is enough to make a distant catastrophe almost weightless today."
+      }
+    },
+    {
+      "id": "a-fair-share-in-time",
+      "resolution": "LATENT",
+      "relation": "RELATED",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "les ressources entre générations", "en": "resources across generations" },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "POLITICAL",
+      "keywords": [
+        { "fr": "justice intergénérationnelle", "en": "intergenerational justice" },
+        { "fr": "partage du fardeau", "en": "burden-sharing" }
+      ],
+      "poles": ["RESPONSIBILITY_PRINCIPLE", "PRESENT_PRIORITY"],
+      "anchors": [
+        { "name": { "fr": "Rawls", "en": "Rawls" }, "kind": "PHILOSOPHER", "slug": "rawls" }
+      ],
+      "doorways": [{ "axis": "DISTRIBUTIVE_JUSTICE" }],
+      "title": { "fr": "Le partage entre les âges", "en": "A fair share across the ages" },
+      "explicitation": {
+        "fr": "Admettons qu'on doive quelque chose au futur : quel est le juste partage des ressources et des charges entre les générations, combien chaque âge doit-il épargner, et qui paie le coût d'éviter un mal lointain, comme le fardeau climatique ?",
+        "en": "Grant that we owe the future something: what is the fair division of resources and burdens across generations, how much must each age save, and who bears the cost of averting a distant harm, such as the climate burden?"
+      }
+    }
   ]
 }

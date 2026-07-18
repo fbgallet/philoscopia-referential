@@ -1,0 +1,42 @@
+{
+  "id": "world-transformation-praxis",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "METAPHILOSOPHY", "poleId": "WORLD_TRANSFORMATION" },
+  "name": { "fr": "Transformer, non seulement interpréter", "en": "Transform, not merely interpret" },
+  "claim": {
+    "fr": "Une philosophie qui laisse le monde en l'état trahit sa tâche : penser vraiment, c'est travailler à changer ce qui doit l'être.",
+    "en": "A philosophy that leaves the world as it is betrays its task: to think truly is to work to change what must be changed."
+  },
+  "summary": {
+    "fr": "Nulle pensée n'est neutre : décrire l'ordre existant, c'est déjà le conforter. La justesse d'une idée s'éprouve dans la pratique, en changeant le monde et en émancipant ceux qu'il écrase. La philosophie se juge donc à ce qu'elle transforme, non à ce qu'elle contemple.",
+    "en": "No thought is neutral: to describe the existing order is already to shore it up. The soundness of an idea is tested in practice, by changing the world and freeing those it crushes. Philosophy is thus judged by what it transforms, not by what it contemplates."
+  },
+  "development": [
+    {
+      "fr": "Nulle pensée ne flotte hors du monde : elle naît de conditions sociales et, en retour, agit sur elles, en les confortant ou en les ébranlant. Il n'y a pas de point de vue neutre au-dessus de la mêlée.",
+      "en": "No thought floats outside the world: it is born of social conditions and, in turn, acts upon them, shoring them up or shaking them. There is no neutral standpoint above the fray."
+    },
+    {
+      "fr": "Dès lors se contenter de comprendre laisse intactes les dominations qu'on décrit : la neutralité affichée profite toujours à l'ordre en place. Interpréter le monde de mille manières l'a laissé tel quel.",
+      "en": "So contenting oneself with understanding leaves intact the dominations one describes: professed neutrality always benefits the order in place. Interpreting the world in a thousand ways has left it as it was."
+    },
+    {
+      "fr": "La justesse d'une idée ne se prouve pas dans les livres mais dans la <c id='praxis'>pratique</c> : c'est en changeant le monde qu'on l'éprouve, et qu'on émancipe ceux qu'un ordre injuste écrase.",
+      "en": "The soundness of an idea is proven not in books but in <c id='praxis'>practice</c>: it is by changing the world that it is tested, and that one frees those whom an unjust order crushes."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la tâche de la philosophie n'est pas de contempler mais de transformer : une pensée se juge à ce qu'elle libère, et penser sans agir, c'est consentir.",
+    "en": "So philosophy's task is not to contemplate but to transform: a thought is judged by what it frees, and to think without acting is to consent."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": { "fr": "Marx", "en": "Marx" },
+    "figures": [{ "name": { "fr": "Marx", "en": "Marx" }, "kind": "PHILOSOPHER", "slug": "marx" }],
+    "work": { "fr": "Thèses sur Feuerbach, XI", "en": "Theses on Feuerbach, XI" },
+    "year": 1845
+  },
+  "test": "world-transformation-blind-praxis-objection",
+  "problems": ["interpret-or-change", "useless-or-free", "philosophy-for-whom"],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

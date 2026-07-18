@@ -39,6 +39,18 @@ Life cannot be reduced either to mechanics or to a pre-established plan: it is a
 - *[Explaining nature](../axes/causality.md) : Mechanism* grounds *[Humanity's place in nature](../axes/human-place-nature.md) : Mastery* : If nature is but a vast mechanism governed by laws, then to know it is to be able to master it and put it at our service. Mechanism grounds the ideal of mastery: [Descartes](../philosophers/descartes.md) charges science with making us "as masters and possessors of nature", and Bacon makes knowledge a power.
 - *[Explaining nature](../axes/causality.md) : Mechanism* grounds *[Enhancing human nature](../axes/human-enhancement.md) : Transhumanism* : If the living body is a machine governed by physical laws, it can in principle be repaired, augmented and reconfigured like any mechanism. The mechanistic view of the living, which [La Mettrie](../philosophers/la-mettrie.md) once turned into "man a machine", feeds the transhumanism of [Bostrom](../philosophers/bostrom.md), for which human nature is not a sacred given but a perfectible state. The link remains a contestable inference: classical mechanism did not aim at enhancement, but it removes the objection to it in principle.
 
+## Quotations
+
+> “After a repetition of similar instances, the mind is carried by habit, upon the appearance of one event, to expect its usual attendant... This connexion, therefore, which we feel in the mind, is the impression from which we form the idea of power or necessary connexion.” — [Hume](../philosophers/hume.md), Enquiry Concerning Human Understanding, sect. VII
+
+> “God and nature do nothing in vain.” — [Aristotle](../philosophers/aristotle.md), On the Heavens, I, 4, 271a; cf. Physics, II, 8
+
+> “Never and nowhere does anything exist that is arisen from itself, from another, from both, or without a cause.” — [Nāgārjuna](../philosophers/nagarjuna.md), Mūlamadhyamakakārikā, I, 1
+
+> “Nature does nothing in vain.” — [Aristotle](../philosophers/aristotle.md), Politics, I.2 (1253a)
+
+> “Nothing was born in the body that we might use it: it is the thing born that creates the use.” — [Lucretius](../philosophers/lucretius.md), On the Nature of Things, IV, 833-835
+
 ## Related axes
 
 [Freedom of the will](../axes/freedom.md) · [Nature of mind and reality](../axes/reality-nature.md) · [Wholes and parts](../axes/reduction-emergence.md) · [Source of knowledge](../axes/knowledge-source.md) · [Being and becoming](../axes/being-becoming.md)

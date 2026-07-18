@@ -41,6 +41,10 @@
 - *[Individu et société](../axes/individual-society.md) : Holisme* fonde *[Liberté politique](../axes/political-liberty.md) : Liberté positive* : Si l'individu ne se réalise qu'au sein du tout social, être libre n'est pas qu'on me laisse en paix, mais que je prenne part au gouvernement de ma cité. Le holisme soutient la liberté positive : chez [Rousseau](../philosophers/rousseau.md), on n'est libre qu'en obéissant à la loi qu'on s'est prescrite, et chez [Hegel](../philosophers/hegel.md), la liberté s'accomplit dans les institutions.
 - *[Individu et société](../axes/individual-society.md) : Individualisme* fonde *[Liberté politique](../axes/political-liberty.md) : Liberté négative* : Si seuls les individus et leurs choix sont réels, être libre, c'est d'abord disposer d'un espace où nul ne vient interférer. L'individualisme fonde la liberté négative : pour [Mill](../philosophers/mill.md), la société ne peut contraindre l'individu que pour empêcher qu'il ne nuise à autrui.
 
+## Citations
+
+> « L'impulsion du seul appétit est esclavage, et l'obéissance à la loi qu'on s'est prescrite est liberté. » — [Rousseau](../philosophers/rousseau.md), Du contrat social, I, 8
+
 ## Axes liés
 
 [Rapport à l'autorité](../axes/authority.md) · [Justice distributive](../axes/distributive-justice.md) · [Qui doit décider](../axes/who-decides.md) · [Individu et société](../axes/individual-society.md) · [Liberté de la volonté](../axes/freedom.md) · [Exigence morale](../axes/moral-demand.md)

@@ -1,0 +1,65 @@
+{
+  "id": "virtue-ethics-being-good",
+  "kind": "SUPPORTS",
+  "position": {
+    "axisId": "ETHICS_FOUNDATION",
+    "poleId": "VIRTUE_ETHICS"
+  },
+  "name": {
+    "fr": "Qui être, avant que faire",
+    "en": "Who to be, before what to do"
+  },
+  "claim": {
+    "fr": "Ce n'est pas d'avoir choisi de suivre une règle qui rend une action vraiment bonne, mais d'être devenu le genre de personne qui perçoit et fait ce que la situation demande.",
+    "en": "What makes an action truly good is not having chosen to follow a rule, but having become the kind of person who sees and does what the situation calls for."
+  },
+  "summary": {
+    "fr": "Suivre une règle ne garantit pas d'agir bien, on peut l'appliquer de mauvaise grâce ou à contretemps ; ce qui rend l'action bonne avec constance, c'est une disposition durable du caractère, attentive à ce que chaque situation a de particulier.",
+    "en": "Following a rule does not guarantee acting well, one can apply it grudgingly or at the wrong time; what makes action good consistently is a lasting disposition of character, attentive to what is particular in each situation."
+  },
+  "development": [
+    {
+      "fr": "Suivre une règle ne suffit pas à rendre une action bonne à coup sûr : on peut la connaître et l'appliquer de mauvaise grâce, par intérêt, ou au mauvais moment. Le juste occasionnel n'est pas encore l'homme juste.",
+      "en": "Following a rule does not suffice to make an action good for certain: one can know it and apply it grudgingly, out of interest, or at the wrong moment. The occasionally just man is not yet the just man."
+    },
+    {
+      "fr": "Ce qui fait qu'une personne agit bien avec constance, c'est une <kw>disposition durable</kw> du caractère : celui qui est devenu juste fait le juste régulièrement, volontiers, et pour lui-même, sans consulter une règle à chaque fois.",
+      "en": "What makes a person act well consistently is a <kw>lasting disposition</kw> of character: the one who has become just does the just thing regularly, gladly, and for its own sake, without consulting a rule each time."
+    },
+    {
+      "fr": "Et cette disposition, à la différence d'une règle fixée d'avance, reste attentive à ce que chaque situation a de particulier : la personne douée de <c id='phronesis'>sagesse pratique</c> perçoit ce que réclame ce cas précis, là où une règle générale, ne pouvant tout prévoir, doit parfois le trahir.",
+      "en": "And this disposition, unlike a rule fixed in advance, stays attentive to what is particular in each situation: the person endowed with <c id='phronesis'>practical wisdom</c> perceives what this precise case demands, where a general rule, unable to foresee everything, must sometimes betray it."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc le fondement de l'action juste est un bon caractère, non l'observance d'une règle ni le calcul des effets : bien agir, c'est être devenu celui qui voit et accomplit ce que le moment demande.",
+    "en": "So the ground of right action is a good character, not the observance of a rule or the calculation of effects: to act well is to have become the one who sees and does what the moment demands."
+  },
+  "difficulty": 1,
+  "source": {
+    "author": {
+      "fr": "Aristote",
+      "en": "Aristotle"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Aristote",
+          "en": "Aristotle"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "aristotle"
+      }
+    ],
+    "work": {
+      "fr": "Éthique à Nicomaque, II",
+      "en": "Nicomachean Ethics, Book II"
+    },
+    "workId": "nicomachean-ethics-aristotle"
+  },
+  "test": "virtue-ethics-guidance-objection",
+  "problems": [
+    "being-good-or-acting-rightly"
+  ],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
+}

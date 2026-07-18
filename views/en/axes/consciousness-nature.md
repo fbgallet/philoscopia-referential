@@ -55,7 +55,7 @@ The qualitative feel we think we grasp by introspection is an illusion the brain
 
 ## Related axes
 
-[Can a machine think](../axes/machine-mind.md) · [Nature of mind and reality](../axes/reality-nature.md) · [Freedom of the will](../axes/freedom.md)
+[Can a machine think](../axes/machine-mind.md) · [Nature of mind and reality](../axes/reality-nature.md) · [Freedom of the will](../axes/freedom.md) · [Place of science](../axes/science-place.md)
 
 ---
 

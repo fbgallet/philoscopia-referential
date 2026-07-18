@@ -1,0 +1,9 @@
+{
+  "id": "la-nature-est-un-principe-de-aristotle",
+  "text": { "fr": "La nature est un principe de mouvement et de changement.", "en": "Nature is a principle of motion and change." },
+  "author": { "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" },
+  "work": "physics-aristotle",
+  "source": { "fr": "Physique, III, 1 (200b)", "en": "Physics, III.1 (200b)" },
+  "anchors": [{ "axisId": "BEING_BECOMING" }],
+  "updatedAt": "2026-07-18T00:00:00.000Z"
+}

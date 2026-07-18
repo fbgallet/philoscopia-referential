@@ -1,0 +1,9 @@
+{
+  "id": "j-ai-donc-du-abolir-le-kant",
+  "text": { "fr": "J'ai donc dû abolir le savoir afin d'obtenir une place pour la foi.", "en": "I had to deny knowledge in order to make room for faith." },
+  "author": { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" },
+  "work": "critique-of-pure-reason-kant",
+  "source": { "fr": "Critique de la raison pure, Préface de la seconde édition (B XXX)", "en": "Critique of Pure Reason, Preface to the Second Edition (B XXX)" },
+  "anchors": [{ "axisId": "FAITH_REASON" }],
+  "updatedAt": "2026-07-18T00:00:00.000Z"
+}

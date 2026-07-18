@@ -36,7 +36,7 @@ Hédonisme 85% · Eudémonisme 15%
 
 Le critère du bien se lit dans la nature avant tout raisonnement : dès la naissance, tout vivant recherche le [plaisir](../glossary/hedonism.md) et fuit la douleur, sans qu'on le lui apprenne. Ce que l'animal poursuit spontanément est donc le premier bien conforme à notre nature, et nul ne le démontre, pas plus qu'on ne démontre que le feu est chaud. Mais l'argument se retourne contre la jouissance débridée : le plaisir n'a pas de degré au-delà de la suppression de la douleur, si bien que son comble est un état stable, l'absence de souffrance du corps et de trouble de l'âme (l'[ataraxie](../glossary/ataraxia.md)), non l'accumulation de sensations vives. Contre les stoïciens, qui ravalent le plaisir au rang d'[indifférent](../glossary/adiaphora.md) et réservent à la seule vertu le titre de bien, l'épicurisme tient le plaisir pour la fin elle-même, la [prudence](../glossary/phronesis.md) n'étant que l'art de le calculer.
 
-> « Le plaisir est le commencement et la fin de la vie bienheureuse. » (Épicure, Lettre à Ménécée, 128)
+> « Le plaisir est le commencement et la fin de la vie bienheureuse. », Lettre à Ménécée, 128
 
 *Sources : Épicure, Lettre à Ménécée, 128-129 · Épicure, Maximes capitales, III*
 
@@ -48,7 +48,7 @@ La mort n'est rien 95% · Être-pour-la-mort 5%
 
 Tout bien et tout mal résident dans la sensation, et la mort est précisément privation de toute sensation : la physique le garantit, puisque l'âme, faite d'atomes subtils, se disperse quand le corps se défait. De là l'argument décisif : la mort n'est rien pour nous, car tant que nous sommes là, la mort n'y est pas, et quand la mort est là, nous n'y sommes plus ; le sujet qui pourrait pâtir et l'événement redouté ne coexistent jamais. La peur de la mort vise donc un néant et repose sur l'illusion d'assister encore à sa propre absence. Cela vise les terreurs de l'au-delà, châtiments et survie, que l'épicurisme tient pour des fictions sans objet : il n'y a pas de durée infinie à craindre, et une vie limitée mais sans angoisse vaut une éternité.
 
-> « La mort n'est rien pour nous, car ce qui est dissous est sans sensation, et ce qui est sans sensation n'est rien pour nous. » (Épicure, Lettre à Ménécée, 124-125)
+> « La mort n'est rien pour nous, car ce qui est dissous est sans sensation, et ce qui est sans sensation n'est rien pour nous. », Lettre à Ménécée, 124-125
 
 *Sources : Épicure, Lettre à Ménécée, 124-125 · Lucrèce, De la nature des choses, livre III*
 
@@ -60,7 +60,7 @@ Tri raisonné 85% · Extinction-détachement 10% · Affirmation 5%
 
 Si la souffrance vient surtout des désirs déçus, c'est leur objet qu'il faut examiner : un désir naturel et nécessaire (manger, s'abriter, écarter la peur) a une borne et se comble aisément, tandis qu'un désir vain (la richesse, la gloire) est par nature illimité et ne s'apaise jamais, car il repose sur une opinion fausse. La sagesse consiste donc à sélectionner les premiers et à éteindre les seconds : non par renoncement, mais parce que le calcul montre que les biens nécessaires sont faciles à obtenir et que poursuivre l'illimité, c'est se condamner au trouble. Là où le stoïcien suspend tout désir d'objet extérieur, l'épicurien en garde une part, celle qui borne le besoin, et atteint par ce tri l'[autarcie (autarkeia, autosuffisance)](../glossary/autarkeia.md).
 
-> « Parmi les désirs, les uns sont naturels, les autres vains ; et parmi les naturels, les uns sont nécessaires, les autres seulement naturels. » (Épicure, Lettre à Ménécée, 127)
+> « Parmi les désirs, les uns sont naturels, les autres vains ; et parmi les naturels, les uns sont nécessaires, les autres seulement naturels. », Lettre à Ménécée, 127
 
 *Sources : Épicure, Lettre à Ménécée, 127-128 · Épicure, Maximes capitales, XXIX*
 
@@ -82,7 +82,7 @@ Matérialisme 100%
 
 Deux principes sûrs commandent toute la physique : rien ne naît de rien, rien ne retourne au néant, et le mouvement même des corps prouve qu'il existe du vide où ils se meuvent. De là il suit qu'il n'y a que des atomes, particules pleines et insécables, et le vide qui les sépare : tout le reste, qualités, âmes, dieux, n'est qu'arrangement transitoire de ces grains. L'enjeu n'est pas spéculatif mais libérateur : si l'âme elle-même est un agrégat d'atomes qui se dissout à la mort, alors l'au-delà, le jugement et la providence s'effondrent d'un coup, et avec eux les deux grandes peurs. Ce matérialisme, repris de Démocrite mais réorienté vers le bonheur, s'oppose frontalement au cosmos animé d'un [logos](../glossary/logos.md) des stoïciens comme au monde des Idées de [Platon](../philosophers/plato.md).
 
-> « Le tout est fait de corps et de vide. » (Épicure, Lettre à Hérodote, 39-40)
+> « Le tout est fait de corps et de vide. », Lettre à Hérodote, 39-40
 
 *Sources : Épicure, Lettre à Hérodote, 38-44 · Lucrèce, De la nature des choses, livre I*
 
@@ -134,7 +134,7 @@ Ascétisme 60% · Célébration 40%
 
 Contre la caricature de la débauche, Épicure prône une vie sobre : le plaisir visé est surtout catastématique, le plaisir stable du besoin satisfait, plutôt que le plaisir en mouvement (cinétique) de la jouissance. La position penche donc légèrement vers la frugalité, sans condamner le corps.
 
-> « Du pain et de l'eau procurent le plus haut plaisir dès qu'on les porte à une bouche qui a faim. » (Épicure, Sentences vaticanes, 33)
+> « Du pain et de l'eau procurent le plus haut plaisir dès qu'on les porte à une bouche qui a faim. », Sentences vaticanes, 33
 
 *Sources : Épicure, Lettre à Ménécée, 130-131 · Épicure, Sentences vaticanes, 33*
 

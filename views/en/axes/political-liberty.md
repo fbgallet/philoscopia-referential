@@ -41,6 +41,10 @@ To be free is not merely to be unhindered, it is to have the real means to act: 
 - *[Individual and society](../axes/individual-society.md) : Holism* grounds *[Political liberty](../axes/political-liberty.md) : Positive liberty* : If the individual is realized only within the social whole, to be free is not to be left in peace but to take part in the government of one's city. Holism supports positive liberty: in [Rousseau](../philosophers/rousseau.md), one is free only by obeying the law one has prescribed for oneself, and in [Hegel](../philosophers/hegel.md), freedom is fulfilled within institutions.
 - *[Individual and society](../axes/individual-society.md) : Individualism* grounds *[Political liberty](../axes/political-liberty.md) : Negative liberty* : If only individuals and their choices are real, to be free is first of all to have a space where no one interferes. Individualism grounds negative liberty: for [Mill](../philosophers/mill.md), society may constrain the individual only to prevent harm to others.
 
+## Quotations
+
+> “The impulse of mere appetite is slavery, while obedience to a law which we prescribe to ourselves is liberty.” — [Rousseau](../philosophers/rousseau.md), The Social Contract, I, 8
+
 ## Related axes
 
 [Relation to authority](../axes/authority.md) · [Distributive justice](../axes/distributive-justice.md) · [Who should decide](../axes/who-decides.md) · [Individual and society](../axes/individual-society.md) · [Freedom of the will](../axes/freedom.md) · [Moral demandingness](../axes/moral-demand.md)

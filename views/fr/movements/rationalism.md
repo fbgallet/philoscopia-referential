@@ -46,7 +46,7 @@ Rationalisme 93% · Empirisme 7%
 
 Le point décisif est qu'une vérité nécessaire et universelle ne peut venir des sens : ceux-ci ne livrent que des cas particuliers et contingents, jamais le « cela ne peut pas être autrement » des mathématiques. Il faut donc une source non sensible, et ce sera l'[entendement](../glossary/innate-ideas.md) et ses [idées innées](../glossary/innate-ideas.md). [Leibniz](../philosophers/leibniz.md) retourne contre l'[empirisme](../movements/empiricism.md) sa propre maxime : si rien n'est dans l'esprit qui n'ait d'abord été dans les sens, encore faut-il en excepter l'intellect lui-même, dont les structures rendent toute expérience pensable. Là où [Hume](../philosophers/hume.md) ne voit dans les sens que des impressions, [Spinoza](../philosophers/spinoza.md) distingue cette connaissance confuse du premier genre de la connaissance par [idées adéquates](../glossary/adequate-idea.md), seule à saisir les choses par leurs causes.
 
-> « Rien n'est dans l'entendement qui n'ait été d'abord dans les sens, sinon l'entendement lui-même. » (Leibniz, Nouveaux essais sur l'entendement humain, II, 1)
+> « Rien n'est dans l'entendement qui n'ait été d'abord dans les sens, sinon l'entendement lui-même. », Nouveaux essais sur l'entendement humain, II, 1
 
 *Sources : Descartes, Méditations métaphysiques, III · Leibniz, Nouveaux essais sur l'entendement humain, II, 1*
 
@@ -58,7 +58,7 @@ Dogmatisme 93% · Scepticisme 8%
 
 Pour répondre au [scepticisme](../glossary/skepticism.md), il ne suffit pas d'accumuler des opinions probables : il faut une vérité que nul argument ne puisse ébranler. [Descartes](../philosophers/descartes.md) en fait sa stratégie, poussant le [doute hyperbolique](../glossary/hyperbolic-doubt.md) jusqu'à l'hypothèse du malin génie pour ne retenir que ce qui y résiste : l'acte même de penser, qui survit à tout doute possible. Ce roc une fois trouvé, l'enjeu est de propager sa certitude au reste du savoir, et le modèle en est la géométrie : ordonner les connaissances more geometrico, d'axiomes évidents vers leurs conséquences nécessaires, comme [Spinoza](../philosophers/spinoza.md) déduit l'*[Éthique](../works/ethics-spinoza.md)* à la manière des géomètres. La certitude visée n'est pas une assurance psychologique mais l'évidence contraignante de la démonstration.
 
-> « Je pense, donc je suis. » (Descartes, Discours de la méthode, quatrième partie)
+> « Je pense, donc je suis. », Discours de la méthode, IV
 
 *Sources : Descartes, Méditations métaphysiques, II · Spinoza, Éthique, prologue de la partie I*
 
@@ -140,7 +140,7 @@ Réalisme scientifique 90% · Constructivisme 10%
 
 L'école est résolument réaliste sur le savoir : la raison ne construit pas son objet, elle atteint l'ordre réel des choses tel qu'il est en soi. L'ordre et la connexion des idées sont les mêmes que l'ordre et la connexion des choses, écrit Spinoza, l'idée vraie s'accordant avec son idéat. Les idées claires et distinctes de Descartes saisissent l'essence réelle des choses, et l'ordre intelligible des monades chez Leibniz est l'architecture même du réel : connaître, c'est lire la structure du monde, non la fabriquer.
 
-> « L'ordre et la connexion des idées sont les mêmes que l'ordre et la connexion des choses. » (Spinoza, Éthique, II, proposition 7)
+> « L'ordre et la connexion des idées sont les mêmes que l'ordre et la connexion des choses. », Éthique, II, proposition 7
 
 *Sources : Spinoza, Éthique, II, proposition 7 · Descartes, Méditations métaphysiques, V · Leibniz, Monadologie, §§ 56-62*
 

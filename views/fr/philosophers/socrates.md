@@ -44,7 +44,7 @@ Vie examinée 98% · Primat de l'action 3%
 
 Lors de son procès, Socrate refuse d'abandonner la philosophie même pour sauver sa vie : l'enjeu n'est pas de vivre, mais de bien vivre, et l'on ne peut bien vivre sans s'interroger sur soi. L'examen, conduit par l'[elenchos](../glossary/elenchos.md), arrache l'interlocuteur à ses opinions héritées et fait de la connaissance de soi, l'injonction inscrite au fronton du temple de Delphes, la condition d'une vie libre ; une existence non examinée se vit dans l'emprunt et l'illusion.
 
-> « Une vie sans examen ne vaut pas la peine d'être vécue. » (Platon, Apologie de Socrate, 38a)
+> « Une vie sans examen ne vaut pas la peine d'être vécue. », Platon, Apologie de Socrate, 38a
 
 *Sources : Platon, Apologie, 38a (une vie sans examen ne vaut pas d'être vécue) · Platon, Apologie, 29d-30a (le philosophe ne cessera pas d'interroger)*
 
@@ -66,7 +66,7 @@ Scepticisme 75% · Dogmatisme 25%
 
 L'oracle de Delphes ayant déclaré que nul n'était plus sage que lui, Socrate, persuadé de ne rien savoir, enquête pour réfuter le dieu, et découvre que les hommes réputés savants ne savent pas davantage mais croient savoir. Sa supériorité tient tout entière à ce qu'il ne se figure pas connaître ce qu'il ignore : cette [docte ignorance](../glossary/socratic-ignorance.md) n'est pas un [scepticisme](../glossary/skepticism.md) qui renonce au vrai, mais le ressort de l'[elenchos](../glossary/elenchos.md), qui dissout les fausses certitudes pour rouvrir la recherche.
 
-> « Ce que je ne sais pas, je ne pense pas non plus le savoir. » (Platon, Apologie, 21d)
+> « Ce que je ne sais pas, je ne pense pas non plus le savoir. », Platon, Apologie, 21d
 
 *Sources : Platon, Apologie, 20e-23b (l'oracle et l'enquête)*
 
@@ -78,7 +78,7 @@ Vertu / perfectionnisme moral 70% · Eudémonisme 25% · Hédonisme 5%
 
 Socrate exhorte les Athéniens à ne pas se soucier de leur corps, de leurs biens ni de leur réputation autant que de la perfection de leur âme. Le seul bien véritable est l'excellence de l'âme, la vertu : tout le reste n'a de prix que par elle, la richesse même procédant de la vertu et non l'inverse. Le souverain bien n'est donc ni le plaisir ni la simple réussite d'une vie, mais l'état d'une âme rendue bonne.
 
-> « Ce n'est pas des richesses que naît la vertu, mais c'est de la vertu que viennent aux hommes les richesses et tous les autres biens. » (Platon, Apologie, 30b)
+> « Ce n'est pas des richesses que naît la vertu, mais c'est de la vertu que viennent aux hommes les richesses et tous les autres biens. », Platon, Apologie, 30b
 
 *Sources : Platon, Apologie, 29d-30b (le soin de l'âme)*
 
@@ -140,7 +140,7 @@ Ce qui dépend de nous 80% · Prométhéisme 20%
 
 Devant ses juges, Socrate se déclare serein : on peut le tuer ou le bannir, on ne peut pas lui nuire, car le seul mal réel est de rendre son âme mauvaise, et nul ne le peut à sa place. Les biens extérieurs, le corps, la réputation, la vie même, ne sont pas en notre pouvoir et ne sont pas le vrai bien ; la vertu de l'âme, elle, dépend de nous. Les stoïciens bâtiront sur cette intuition leur [dichotomie du contrôle](../glossary/dichotomy-of-control.md).
 
-> « On peut me tuer, me bannir, me priver de mes droits : Anytos et Mélétos le peuvent, mais me nuire, non. » (Platon, Apologie, 30c-d)
+> « On peut me tuer, me bannir, me priver de mes droits : Anytos et Mélétos le peuvent, mais me nuire, non. », Platon, Apologie, 30c-d
 
 *Sources : Platon, Apologie, 30c-d (ils peuvent me tuer, non me nuire) · Platon, Apologie, 41c-d*
 
@@ -152,7 +152,7 @@ La mort n'est rien 50% · Immortalisme 50%
 
 Craindre la mort, dit Socrate, c'est se croire savant sans l'être, car nul ne sait si elle est un mal. De deux choses l'une : ou bien elle est un sommeil sans rêve, et c'est un gain, ou bien elle est un voyage de l'âme vers les morts, et c'est un bonheur ; dans les deux cas l'homme de bien n'a rien à redouter. La démonstration de l'immortalité viendra de Platon ; chez Socrate, la position reste suspendue entre ces deux espérances.
 
-> « Craindre la mort n'est rien d'autre que se croire savant sans l'être, c'est croire savoir ce qu'on ne sait pas. » (Platon, Apologie, 29a)
+> « Craindre la mort n'est rien d'autre que se croire savant sans l'être, c'est croire savoir ce qu'on ne sait pas. », Platon, Apologie, 29a
 
 *Sources : Platon, Apologie, 40c-41c (les deux hypothèses sur la mort)*
 

@@ -1,0 +1,66 @@
+{
+  "id": "the-black-swan",
+  "title": {
+    "fr": "Le cygne noir",
+    "en": "The black swan"
+  },
+  "description": {
+    "fr": "Pendant des siècles, les Européens ont tenu pour évident que tous les cygnes sont blancs : chaque cygne rencontré le confirmait. Puis on découvrit, en Australie, des cygnes noirs. Une seule rencontre a renversé ce que des millions d'observations semblaient établir. Comment, dès lors, la science établit-elle une loi générale, « tous les cygnes sont blancs », valable pour tous les cas à venir, à partir d'observations toujours en nombre fini ?",
+    "en": "For centuries Europeans held it obvious that all swans are white: every swan they met confirmed it. Then, in Australia, black swans were found. A single encounter overturned what millions of observations had seemed to establish. How, then, does science establish a general law, \"all swans are white\", holding for every case to come, from observations that are always finite in number?"
+  },
+  "source": {
+    "author": { "fr": "Popper", "en": "Popper" },
+    "work": { "fr": "La Logique de la découverte scientifique", "en": "The Logic of Scientific Discovery" },
+    "year": 1934
+  },
+  "question": {
+    "fr": "Fonder une loi générale : en accumulant les cas favorables, en cherchant le cas qui la démentirait, ou en ajustant sa probabilité ?",
+    "en": "To ground a general law: by piling up favourable cases, by seeking the case that would disprove it, or by adjusting its probability?"
+  },
+  "axisIds": ["SCIENTIFIC_METHOD"],
+  "options": [
+    {
+      "id": "accumulate",
+      "label": {
+        "fr": "En accumulant les observations : plus on rencontre de cygnes blancs, plus la règle « tous les cygnes sont blancs » est solidement établie. La science part des faits et généralise.",
+        "en": "By accumulating observations: the more white swans one meets, the more firmly the rule \"all swans are white\" is established. Science starts from the facts and generalises."
+      },
+      "hints": [
+        { "axisId": "SCIENTIFIC_METHOD", "value": { "kind": "weights", "weights": [1, 0, 0] } }
+      ],
+      "discussion": {
+        "fr": "C'est la voie de <ph id='bacon'>Bacon</ph> et <ph id='mill'>Mill</ph> ; mais <pb>aucun nombre de cas favorables ne prouve une loi universelle</pb>, c'est le problème de l'<c id='induction'>induction</c>, et le cygne noir montre pourquoi.",
+        "en": "This is the path of <ph id='bacon'>Bacon</ph> and <ph id='mill'>Mill</ph>; but <pb>no number of favourable cases proves a universal law</pb>, the problem of <c id='induction'>induction</c>, and the black swan shows why."
+      }
+    },
+    {
+      "id": "seek-refuter",
+      "label": {
+        "fr": "En cherchant à la démentir : aucun cygne blanc ne prouve la règle, un seul cygne noir la réfute. Une loi vaut tant qu'elle résiste aux tentatives de la briser ; on n'établit pas, on élimine.",
+        "en": "By trying to disprove it: no white swan proves the rule, a single black swan refutes it. A law holds as long as it withstands attempts to break it; one does not establish, one eliminates."
+      },
+      "hints": [
+        { "axisId": "SCIENTIFIC_METHOD", "value": { "kind": "weights", "weights": [0, 1, 0] } }
+      ],
+      "discussion": {
+        "fr": "Pour <ph id='popper'>Popper</ph>, tout tient à l'<kw>asymétrie</kw> entre confirmer et réfuter : est scientifique ce qui prend le risque d'être démenti. <dif>En pratique pourtant, une réfutation n'est jamais tout à fait nette : on peut toujours mettre en cause l'observation ou une hypothèse auxiliaire plutôt que la théorie.</dif>",
+        "en": "For <ph id='popper'>Popper</ph>, everything turns on the <kw>asymmetry</kw> between confirming and refuting: what is scientific is what risks being disproved. <dif>In practice, though, a refutation is never wholly clean: one can always call the observation, or an auxiliary hypothesis, into question rather than the theory.</dif>"
+      }
+    },
+    {
+      "id": "adjust-probability",
+      "label": {
+        "fr": "En ajustant sa probabilité : chaque cygne blanc rend la règle un peu plus probable sans jamais la garantir, un cygne noir la ferait chuter. On ne prouve ni ne réfute d'un coup, on révise ses degrés de croyance.",
+        "en": "By adjusting its probability: each white swan makes the rule a little more probable without ever guaranteeing it, a black one would make it collapse. One neither proves nor refutes at a stroke; one revises one's degrees of belief."
+      },
+      "hints": [
+        { "axisId": "SCIENTIFIC_METHOD", "value": { "kind": "weights", "weights": [0, 0, 1] } }
+      ],
+      "discussion": {
+        "fr": "C'est l'esprit du théorème de Bayes, chez <ph id='ramsey'>Ramsey</ph> et <ph id='carnap'>Carnap</ph> : une voie moyenne, où la preuve ne tranche pas mais déplace la probabilité, à partir de ce qu'on tenait déjà pour plausible.",
+        "en": "This is the spirit of Bayes' theorem, in <ph id='ramsey'>Ramsey</ph> and <ph id='carnap'>Carnap</ph>: a middle way, where evidence does not settle the matter but shifts the probability, starting from what one already held to be plausible."
+      }
+    }
+  ],
+  "updatedAt": "2026-07-13T00:00:00.000Z"
+}

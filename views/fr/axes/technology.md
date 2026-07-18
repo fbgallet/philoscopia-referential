@@ -54,6 +54,16 @@ La technique n'est en elle-même ni bénédiction ni malédiction : c'est un moy
 - *[Explication de la nature](../axes/causality.md) : Finalisme* fonde *[Rapport à la technique](../axes/technology.md) : Techno-critique* : Si la nature et le vivant sont porteurs de fins propres, alors la volonté technique de tout maîtriser et reconfigurer menace un ordre qui nous dépasse. Le finalisme fonde la techno-critique : [Jonas](../philosophers/jonas.md) oppose à la puissance démesurée de la technique un principe de responsabilité envers la vie et les générations futures.
 - *[Place de la science](../axes/science-place.md) : Scientisme* fonde *[Rapport à la technique](../axes/technology.md) : Techno-optimisme* : Si la science est la forme la plus haute du savoir, appelée à résoudre les problèmes humains, alors la technique qui en découle est le grand levier du progrès. Le scientisme fonde le techno-optimisme : de Bacon à [Comte](../philosophers/comte.md), on attend du savoir appliqué qu'il recule le besoin et la souffrance, et l'on tient ses revers pour des défis appelant plus de technique encore.
 
+## Citations
+
+> « Le savoir humain et la puissance humaine coïncident, car ignorer la cause, c'est manquer l'effet. » — [Bacon](../philosophers/bacon.md), Novum Organum, I, §3
+
+> « Nos âmes se sont corrompues à mesure que nos sciences et nos arts se sont avancés à la perfection. » — [Rousseau](../philosophers/rousseau.md), Discours sur les sciences et les arts (1750)
+
+> « Plus il y a d'outils habiles, plus l'État sombre dans le désordre. » — [Laozi](../philosophers/laozi.md), Dao De Jing, ch. 57
+
+> « Qui se sert de machines fait toutes choses machinalement ; qui fait les choses machinalement acquiert un cœur de machine. » — [Zhuangzi](../philosophers/zhuangzi.md), ch. 12
+
 ## Axes liés
 
 [Tradition et transformation](../axes/conservatism-progressism.md) · [Sens de l'histoire](../axes/history-meaning.md) · [Améliorer la nature humaine](../axes/human-enhancement.md) · [Place de l'homme dans la nature](../axes/human-place-nature.md) · [Sens du travail](../axes/work-meaning.md) · [Attention et divertissement](../axes/attention.md)

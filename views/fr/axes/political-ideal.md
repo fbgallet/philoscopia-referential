@@ -27,6 +27,10 @@ Il faut partir de la vérité effective des choses, non des républiques imagina
 - *[Sens de l'histoire](../axes/history-meaning.md) : Sens-direction* fonde *[Idéal et réel](../axes/political-ideal.md) : Utopisme* : Si l'histoire tend nécessairement vers un état meilleur, une société pleinement réconciliée cesse d'être une chimère pour devenir un but qu'on peut viser. Le sens-direction de l'histoire soutient l'utopisme politique : [Marx](../philosophers/marx.md) annonce une fin de la préhistoire humaine où s'abolissent les classes.
 - *[Vision de l'homme](../axes/human-vision.md) : Pessimisme anthropologique* fonde *[Idéal et réel](../axes/political-ideal.md) : Réalisme politique* : Si la nature humaine est durablement imparfaite, espérer une cité parfaite expose à l'aveuglement et à la tyrannie des bonnes intentions. Le pessimisme anthropologique recommande donc un réalisme politique, attentif aux rapports de force réels plutôt qu'aux idéaux.
 
+## Citations
+
+> « Le communisme n'est pas pour nous un état qui doit être créé, un idéal sur lequel la réalité devra se régler. Nous appelons communisme le mouvement réel qui abolit l'état actuel. » — [Marx](../philosophers/marx.md), L'Idéologie allemande, 1846
+
 ## Axes liés
 
 [Rapport à l'autorité](../axes/authority.md) · [Tradition et transformation](../axes/conservatism-progressism.md) · [Justice distributive](../axes/distributive-justice.md) · [Vision de l'homme](../axes/human-vision.md) · [La violence](../axes/violence.md)

@@ -54,7 +54,7 @@ Tri raisonné 70% · Affirmation 15% · Extinction-détachement 15%
 
 Le confucianisme ne condamne pas le désir mais le civilise par les rites et le sens de la convenance : on satisfait ses penchants dans les formes justes et à la juste mesure. L'idéal est l'accord parfait du désir et de la norme, que Confucius dit n'avoir atteint qu'au terme d'une longue culture de soi.
 
-> « À soixante-dix ans, je suivais les désirs de mon cœur sans jamais franchir la règle. » (Entretiens, II.4)
+> « À soixante-dix ans, je suivais les désirs de mon cœur sans jamais franchir la règle. », Entretiens, II.4
 
 *Sources : Entretiens (Lunyu), II.4 et XII.1*
 
@@ -76,7 +76,7 @@ Libre arbitre 60% · Déterminisme dur 40%
 
 Confucius partage le sort entre ce qui relève du Ciel et ce qui dépend de nous : la durée de la vie, la richesse et les honneurs tiennent au décret (ming) que le sage accueille sans s'y aliéner ; mais devenir pleinement humain (ren) ne dépend que de soi. La fortune extérieure est ainsi largement déterminée, tandis que la perfection morale demeure l'œuvre toujours possible d'une volonté.
 
-> « Le vouloir-humain est-il donc loin ? Dès que je le veux, le voici. » (Entretiens, VII.29)
+> « Le vouloir-humain est-il donc loin ? Dès que je le veux, le voici. », Entretiens, VII.29
 
 *Sources : Entretiens (Lunyu), XII.5 et VII.29 · Entretiens, XX.3*
 
@@ -88,7 +88,7 @@ Confucius partage le sort entre ce qui relève du Ciel et ce qui dépend de nous
 
 Parce que la moralité ne se laisse ni codifier en règles ni réduire au calcul des effets, ce qu'il faut former, c'est une personne, son caractère et son discernement situé. De là le déplacement de l'évaluation de l'acte vers l'agent : la mesure du bien est le junzi 君子 (l'homme de noble caractère) habité par le ren 仁 (l'humanité), et cette vertu ne se décrète pas, elle s'acquiert par une longue culture de soi et l'imitation des modèles. La vertu n'est pas l'obéissance à une loi mais une disposition intérieure rendue stable par l'habitude, ce qui ancre la fondation du côté de l'éthique des vertus. Subsiste une part déontologique dans la fidélité aux li 禮 (les rites) et une part de [sollicitude](../axes/ethics-foundation.md) dans le primat de l'affection familiale.
 
-> « Se vaincre soi-même et revenir aux rites, voilà l'humanité (ren). » (Entretiens, XII, 1)
+> « Se vaincre soi-même et revenir aux rites, voilà l'humanité (ren). », Entretiens, XII, 1
 
 *Sources : Entretiens (Lunyu), XII, 1-2 (le ren et la maîtrise de soi par les rites) · Entretiens, IV, 5 et VI, 30 (le junzi ne s'écarte jamais de l'humanité)*
 
@@ -100,7 +100,7 @@ Partialisme 90% · Impartialisme 10%
 
 La vertu d'humanité ne tombe pas du ciel d'un principe abstrait : elle pousse à partir de l'affection vécue dans la famille, puis s'étend par cercles concentriques. La xiao (piété filiale) est donc présentée comme la racine même du ren 仁 (l'humanité), et c'est ce qui justifie une faveur graduée plutôt qu'une égale considération pour tous. Le cas du fils qui couvre la faute de son père, où le maître donne raison à la solidarité familiale contre la dénonciation, est l'épreuve délibérée de cette thèse : si l'on coupait l'amour de sa source affective et partiale, on tarirait la moralité elle-même, contre tout impartialisme qui prétend aimer également les inconnus et les siens.
 
-> « Le droit chemin est là : le père couvre son fils, le fils couvre son père. » (Entretiens, XIII, 18)
+> « Le droit chemin est là : le père couvre son fils, le fils couvre son père. », Entretiens, XIII, 18
 
 *Sources : Entretiens, I, 2 (la piété filiale, racine de l'humanité) · Entretiens, XIII, 18 (le père couvre le fils, le fils couvre le père)*
 
@@ -112,7 +112,7 @@ Conservatisme 95% · Progressisme 5%
 
 Le présupposé est que la [Voie (dao)](../glossary/dao.md) a déjà été pleinement réalisée par les sages rois et les li 禮 (les rites) de la dynastie Zhou, et que le désordre du temps vient de leur dégradation, non d'un manque de nouveauté. Si le bien a un précédent accompli, alors la tâche rationnelle est de restaurer et de transmettre, non d'inventer : se déclarer transmetteur et non créateur n'est donc pas une modestie mais une thèse, le refus de fonder la norme sur l'invention présente. La référence normative est le passé exemplaire, ce qui en fait un [conservateur](../axes/conservatism-progressism.md) au sens fort, à rebours de toute foi dans le progrès.
 
-> « Je transmets et je n'invente pas ; j'aime les Anciens et je leur fais confiance. » (Entretiens, VII, 1)
+> « Je transmets et je n'invente pas ; j'aime les Anciens et je leur fais confiance. », Entretiens, VII, 1
 
 *Sources : Entretiens, VII, 1 (je transmets et n'invente pas, j'aime et je crois aux Anciens) · Entretiens, III, 14 (Confucius suit les Zhou)*
 
@@ -124,7 +124,7 @@ Mémoire-transmission 85% · Présentisme 10% · Projet 5%
 
 Le temps confucéen est orienté vers le passé comme modèle : « ranimer l'ancien pour comprendre le nouveau », telle est la marche du maître. L'étude des Anciens, des rituels et des odes transmet une sagesse à incarner ; l'avenir compte moins comme projet à inventer que comme continuité à préserver. C'est une orientation de [mémoire et de transmission](../axes/time-orientation.md).
 
-> « Qui ranime l'ancien pour comprendre le nouveau est digne d'être un maître. » (Entretiens, II, 11)
+> « Qui ranime l'ancien pour comprendre le nouveau est digne d'être un maître. », Entretiens, II, 11
 
 *Sources : Entretiens, II, 11 (ranimer l'ancien pour connaître le nouveau) · Entretiens, VII, 19 (un homme épris d'antiquité, infatigable à s'instruire)*
 
@@ -166,7 +166,7 @@ Rigorisme véridique 85% · Mensonge bienveillant permis 15%
 
 L'argument part d'une fonction du langage : un nom (« père », « prince », « ami ») n'étiquette pas seulement, il prescrit un devoir attaché au rôle. Dès lors un mot employé de travers, ou démenti par les actes, dérègle l'ordre qu'il était censé tenir, et la zhengming (rectification des noms) devient la condition même d'une société qui fonctionne. La véracité cesse d'être une affaire privée de conscience : la fidélité de la parole (xin) et la sincérité (cheng) sont requises parce que le mensonge et l'écart entre le dire et le faire désagrègent le tissu social. De là un rigorisme de la véracité, où le junzi 君子 (l'homme de bien) rougit que ses paroles dépassent ses actes.
 
-> « Si les noms ne sont pas corrects, le langage n'est pas conforme à la vérité des choses ; alors les affaires ne peuvent réussir. » (Entretiens, XIII, 3)
+> « Si les noms ne sont pas corrects, le langage n'est pas conforme à la vérité des choses ; alors les affaires ne peuvent réussir. », Entretiens, XIII, 3
 
 *Sources : Entretiens, XIII, 3 (la rectification des noms) · Entretiens, XIV, 27 (le junzi a honte que ses paroles dépassent ses actes)*
 
@@ -178,7 +178,7 @@ Vie examinée 65% · Primat de l'action 35%
 
 La voie confucéenne est une culture de soi exigeante : le disciple Zengzi « s'examine chaque jour sur trois points », et le perfectionnement intérieur du ren 仁 (l'humanité) conditionne toute action droite. Mais cette intériorité n'est pas contemplative : elle se vérifie et s'accomplit dans la conduite, le service et les li 禮 (les rites), d'où une position modérée du côté de la vie examinée, équilibrée par le primat de l'agir.
 
-> « Chaque jour je m'examine sur trois points : ai-je été fidèle en agissant pour autrui, sincère envers mes amis, et ai-je pratiqué ce qui m'a été enseigné ? » (Entretiens, I, 4)
+> « Chaque jour je m'examine sur trois points : ai-je été fidèle en agissant pour autrui, sincère envers mes amis, et ai-je pratiqué ce qui m'a été enseigné ? », Entretiens, I, 4
 
 *Sources : Entretiens, I, 4 (Zengzi s'examine chaque jour sur trois points) · Entretiens, IV, 17 (voyant un homme de valeur, songe à l'égaler ; en voyant un médiocre, examine-toi)*
 
@@ -190,7 +190,7 @@ La voie confucéenne est une culture de soi exigeante : le disciple Zengzi « s'
 
 Les li 禮 (les rites) sont une forme indispensable, mais ils ne valent rien sans l'esprit qui les anime : « un homme sans humanité, qu'a-t-il à faire des rites ? ». Le rituel doit être exécuté avec le sentiment juste, et le maître ajuste son enseignement à chaque disciple : la lettre sans le coeur est vide. La pente va donc vers l'[équité et le discernement](../axes/rule-spirit.md), sans abolir la forme rituelle.
 
-> « Un homme sans humanité, qu'a-t-il à faire des rites ? Un homme sans humanité, qu'a-t-il à faire de la musique ? » (Entretiens, III, 3)
+> « Un homme sans humanité, qu'a-t-il à faire des rites ? Un homme sans humanité, qu'a-t-il à faire de la musique ? », Entretiens, III, 3
 
 *Sources : Entretiens, III, 3 (sans humanité, à quoi bon les rites ?) · Entretiens, XI, 22 (le maître répond différemment à chaque disciple)*
 
@@ -202,7 +202,7 @@ Autorité 85% · Anarchisme 15%
 
 L'argument repose sur une psychologie de l'obéissance : la contrainte par les lois et les châtiments n'obtient qu'un évitement sans honte, une soumission extérieure qui se défait dès que la surveillance cesse, tandis que l'exemple vertueux du gouvernant fait naître chez le peuple le sens de l'honneur et une adhésion intériorisée. Mieux vaut donc une autorité qui rayonne, « comme l'étoile polaire » autour de laquelle les astres se rangent, qu'une autorité qui réprime. Cette légitimation de la hiérarchie par le bien des gouvernés s'oppose frontalement au gouvernement par la seule force et la peine, et l'autorité y reste subordonnée à la vertu de qui l'exerce.
 
-> « Gouvernez le peuple par la vertu, maintenez-le par les rites, et il aura le sentiment de l'honneur et viendra à vous. » (Entretiens, II, 3)
+> « Gouvernez le peuple par la vertu, maintenez-le par les rites, et il aura le sentiment de l'honneur et viendra à vous. », Entretiens, II, 3
 
 *Sources : Entretiens, II, 1 (gouverner par la vertu, comme l'étoile polaire) · Entretiens, II, 3 (gouverner par la vertu et les rites plutôt que par les châtiments)*
 
@@ -244,7 +244,7 @@ Altruisme 70% · Égoïsme éthique 30%
 
 Le junzi 君子 (l'homme de bien) se soucie de la justice (yi) là où l'homme de peu se soucie du gain : la vertu d'humanité implique d'aider les autres à se tenir debout et de ne pas leur infliger ce qu'on ne voudrait pas subir (la règle d'or sous forme négative, le shu, réciprocité). C'est une orientation altruiste, sans renoncement de soi : on s'élève soi-même en élevant autrui.
 
-> « Ce que tu ne veux pas qu'on te fasse, ne le fais pas à autrui. » (Entretiens, XV, 24)
+> « Ce que tu ne veux pas qu'on te fasse, ne le fais pas à autrui. », Entretiens, XV, 24
 
 *Sources : Entretiens, IV, 16 (le junzi connaît la justice, l'homme de peu le profit) · Entretiens, XV, 24 et VI, 30 (ne pas infliger à autrui ce qu'on ne veut pas subir ; aider autrui à se tenir debout)*
 
@@ -266,7 +266,7 @@ Culturalisme 80% · Naturalisme 20%
 
 « Par nature les hommes sont proches les uns des autres ; par la pratique ils s'éloignent » : la nature commune ne suffit pas, c'est l'étude, l'habitude et les li 禮 (les rites) qui font la différence morale entre les hommes. Confucius mise sur la formation et la culture (wen) plus que sur un donné inné, d'où une pente culturaliste.
 
-> « Par nature, les hommes sont proches les uns des autres ; par la pratique, ils s'éloignent. » (Entretiens, XVII, 2)
+> « Par nature, les hommes sont proches les uns des autres ; par la pratique, ils s'éloignent. », Entretiens, XVII, 2
 
 *Sources : Entretiens, XVII, 2 (par nature proches, par la pratique éloignés) · Entretiens, XVI, 9 (les degrés du savoir : inné, acquis par l'étude, acquis dans la difficulté)*
 
@@ -328,7 +328,7 @@ Empirisme 65% · Rationalisme 35%
 
 Le savoir confucéen se gagne par l'étude assidue des Anciens, l'observation et l'expérience pratique, conjuguées à la réflexion : « apprendre sans réfléchir est vain, réfléchir sans apprendre est dangereux ». La connaissance n'est pas spéculation pure mais sagesse à appliquer, ancrée dans la tradition et l'examen du réel, d'où une pente empiriste tempérée par l'exigence de réflexion.
 
-> « Apprendre sans réfléchir est vain ; réfléchir sans apprendre est dangereux. » (Entretiens, II, 15)
+> « Apprendre sans réfléchir est vain ; réfléchir sans apprendre est dangereux. », Entretiens, II, 15
 
 *Sources : Entretiens, II, 15 (apprendre sans réfléchir, réfléchir sans apprendre) · Entretiens, VII, 8 et II, 17 (étude active ; savoir ce qu'on sait et ce qu'on ignore)*
 

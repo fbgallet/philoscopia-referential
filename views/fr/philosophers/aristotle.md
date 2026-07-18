@@ -24,7 +24,7 @@ Permanence de l'être 50% · Devenir et flux 50%
 
 Contre Parménide, qui rendait le changement impensable (l'être ne saurait venir du non-être), Aristote distingue la **puissance** et l'**acte** : le devenir n'est pas surgissement du néant mais actualisation de ce qui était en puissance, dans un substrat qui persiste. La substance dure à travers le changement de ses accidents, la forme se réalise dans la matière : l'être et le devenir cessent d'être des rivaux, le devenir est la voie par laquelle les êtres accomplissent leur forme.
 
-> « La nature est un principe de mouvement et de changement. » (Physique, III, 1 (200b))
+> « La nature est un principe de mouvement et de changement. », Physique, III, 1 (200b)
 
 *Sources : Physique, I, 8 · Métaphysique, Θ*
 
@@ -36,7 +36,7 @@ Comprendre le monde 75% · Se transformer soi-même 25%
 
 La science première naît de l'étonnement et se recherche pour elle-même, non pour son utilité : comme l'homme libre, elle est à elle-même sa propre fin. Et la **vie théorétique**, activité de ce qu'il y a de plus divin en nous, est le bonheur le plus haut. Aristote réserve pourtant une part à la visée pratique : l'éthique ne s'étudie pas pour savoir ce qu'est la vertu, mais pour devenir bon.
 
-> « Cette science est la seule de toutes qui soit libre, car seule elle est à elle-même sa propre fin. » (Métaphysique, A, 2 (982b))
+> « Cette science est la seule de toutes qui soit libre, car seule elle est à elle-même sa propre fin. », Métaphysique, A, 2 (982b)
 
 *Sources : Métaphysique, A, 1-2 · Éthique à Nicomaque, X, 7-8 · Éthique à Nicomaque, II, 2 (1103b)*
 
@@ -68,7 +68,7 @@ Eudémonisme 80% · Vertu / perfectionnisme moral 15% · Hédonisme 5%
 
 Si toute action vise une fin, et que les fins s'enchaînent comme moyens, il faut, sous peine de régression à l'infini, une fin dernière voulue pour elle-même et jamais en vue d'autre chose : ce bien suffisant, c'est [l'eudémonie](../glossary/eudaimonism.md). Reste à savoir en quoi elle consiste, et c'est l'**argument de la fonction propre** (ergon) qui tranche : comme le flûtiste a son excellence, l'homme a la sienne, l'activité de la part rationnelle de l'âme accomplie selon la vertu. Le bonheur n'est donc ni le plaisir, ni l'honneur, ni la richesse, mais une activité excellente déployée sur une vie entière, dont la forme la plus haute est la contemplation.
 
-> « Le bien de l'homme est une activité de l'âme en accord avec la vertu. » (Éthique à Nicomaque, I, 7 (1098a))
+> « Le bien de l'homme est une activité de l'âme en accord avec la vertu. », Éthique à Nicomaque, I, 7 (1098a)
 
 *Sources : Éthique à Nicomaque, I, 7 (1097b) · Éthique à Nicomaque, X, 7*
 
@@ -100,7 +100,7 @@ Finalisme 80% · Mécanisme 15% · Vitalisme 5%
 
 Pourquoi une chose advient-elle ? Aristote juge incomplète toute réponse qui n'invoque que la matière ou le choc des corps, comme le faisaient les physiciens présocratiques : il faut quatre [causes](../glossary/four-causes.md) (matérielle, formelle, efficiente, finale), et c'est la cause finale qui les ordonne. Son argument décisif vient du vivant, où l'observation montre des organes faits en vue d'une fonction : le gland devient chêne, l'œil sert à voir. Il étend cette régularité orientée à toute la nature, qui ne fait rien en vain : la fin n'est pas un projet conscient, mais le terme immanent vers lequel un processus tend par sa forme même.
 
-> « La nature ne fait rien en vain. » (Politique, I, 2 (1253a))
+> « La nature ne fait rien en vain. », Politique, I, 2 (1253a)
 
 *Sources : Physique, II, 3 et 8 · Métaphysique, A, 3*
 
@@ -142,7 +142,7 @@ Correspondance 85% · Cohérence 10% · Pragmatisme 5%
 
 Aristote donne la formulation classique de la **correspondance** : la vérité d'un énoncé tient à son accord avec ce qui est.
 
-> « Dire de ce qui est qu'il n'est pas, ou de ce qui n'est pas qu'il est, c'est le faux ; dire de ce qui est qu'il est, et de ce qui n'est pas qu'il n'est pas, c'est le vrai. » (Métaphysique, Γ (IV), 7 (1011b))
+> « Dire de ce qui est qu'il n'est pas, ou de ce qui n'est pas qu'il est, c'est le faux ; dire de ce qui est qu'il est, et de ce qui n'est pas qu'il n'est pas, c'est le vrai. », Métaphysique, Γ (IV), 7 (1011b)
 
 *Sources : Métaphysique, Γ (IV), 7 (1011b)*
 
@@ -164,7 +164,7 @@ Communauté organique 93% · Contractualisme 7%
 
 Contre les sophistes qui tenaient la cité pour une pure convention (nomos) opposée à la nature, Aristote la déduit d'une genèse naturelle : du couple naît la famille, des familles le village, des villages la cité, terme qui réalise enfin l'autosuffisance et le bien vivre. La preuve en est le [logos](../glossary/logos.md) : seul l'homme possède la parole qui distingue le juste de l'injuste, et un tel pouvoir n'aurait pas de fin si l'homme n'était pas fait pour la vie commune. La cité n'est donc pas postérieure à un pacte d'individus déjà constitués, elle est première par nature, et qui peut s'en passer est « une bête ou un dieu ».
 
-> « L'homme est par nature un animal politique. » (Politique, I, 2 (1253a))
+> « L'homme est par nature un animal politique. », Politique, I, 2 (1253a)
 
 *Sources : Politique, I, 2 (1253a)*
 
@@ -176,7 +176,7 @@ Holisme 90% · Individualisme 10%
 
 Le critère de l'antériorité, pour Aristote, n'est pas chronologique mais fonctionnel : est premier ce sans quoi le reste ne peut remplir sa fonction. Or une main séparée du corps n'est plus une main que de nom, faute de pouvoir saisir ; de même l'individu hors de la cité ne peut accomplir sa nature et reste un homme inachevé. La cité est donc par nature antérieure à l'individu comme le tout à la partie, holisme assumé qui n'efface pas pour autant la fin de la cité, le bien vivre de ses citoyens.
 
-> « La cité est par nature antérieure à l'individu, car le tout est nécessairement antérieur à la partie. » (Politique, I, 2 (1253a))
+> « La cité est par nature antérieure à l'individu, car le tout est nécessairement antérieur à la partie. », Politique, I, 2 (1253a)
 
 *Sources : Politique, I, 2 (1253a)*
 
@@ -218,7 +218,7 @@ Théisme 75% · Athéisme 25%
 
 Aristote démontre l'existence d'un [premier moteur immobile](../glossary/unmoved-mover.md), acte pur et cause finale qui meut le monde comme l'aimé meut l'amant, sans être mû. C'est une forme de théisme, mais d'un dieu impersonnel qui ne crée pas, ne gouverne pas la providence et ne connaît pas les particuliers, d'où une valeur retenue loin de l'extrême.
 
-> « La pensée se pense elle-même : elle est pensée de la pensée. » (Métaphysique, Λ (XII), 9 (1074b))
+> « La pensée se pense elle-même : elle est pensée de la pensée. », Métaphysique, Λ (XII), 9 (1074b)
 
 *Sources : Métaphysique, Λ (XII), 7 et 9 · Physique, VIII, 6*
 
@@ -320,7 +320,7 @@ Vérité 45% · Plaisir 30% · Transformation 25%
 
 La poésie procure du plaisir, mais elle vise surtout le vrai : plus philosophique que l'histoire, elle dit l'universel et le possible plutôt que le particulier. La catharsis des passions, purgation de la crainte et de la pitié par la tragédie, ajoute une fonction transformatrice, d'où un poids partagé que penche du côté de la vérité.
 
-> « La poésie est plus philosophique et plus noble que l'histoire : elle énonce le général, l'histoire le particulier. » (Poétique, 9 (1451b))
+> « La poésie est plus philosophique et plus noble que l'histoire : elle énonce le général, l'histoire le particulier. », Poétique, 9 (1451b)
 
 *Sources : Poétique, 6 (1449b) et 9 (1451b)*
 
@@ -348,7 +348,7 @@ Philia (amitié) 90% · Agapè-don 10%
 
 Contre l'[éros](../glossary/eros.md) platonicien qui fait de l'amour un désir du beau qu'on n'a pas, Aristote place au sommet non le manque mais le lien : la [philia](../glossary/philia.md). Dans les livres VIII et IX de l'*[Éthique à Nicomaque](../works/nicomachean-ethics-aristotle.md)*, il distingue trois amitiés selon leur ressort, l'utile, le plaisant et le bien ; les deux premières sont fragiles, car elles aiment l'autre pour ce qu'il procure. L'amitié parfaite, celle des gens de bien qui se veulent mutuellement du bien pour l'autre lui-même, est stable, rare et réciproque, au point que l'ami compte comme un prolongement de soi ; vouloir son bien pour lui seul, sans rien attendre en retour, y garde une part de don au cœur même de la réciprocité. Loin d'être un supplément à la vie bonne, elle en est une part constitutive : nul, fût-il comblé de tous les autres biens, ne choisirait de vivre sans amis.
 
-> « L'ami est un autre soi-même. » (Éthique à Nicomaque, IX, 4)
+> « L'ami est un autre soi-même. », Éthique à Nicomaque, IX, 4
 
 *Sources : Éthique à Nicomaque, VIII-IX (les trois amitiés ; l'ami comme autre soi-même) · Éthique à Nicomaque, IX, 9 (le bonheur et le besoin d'amis)*
 

@@ -1,0 +1,84 @@
+{
+  "id": "contemplation-eleventh-thesis-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "METAPHILOSOPHY", "poleId": "CONTEMPLATION" },
+  "name": { "fr": "La chouette de Minerve arrive trop tard", "en": "The owl of Minerva comes too late" },
+  "attacks": "POSITION",
+  "claim": {
+    "fr": "Les philosophes n'ont fait qu'interpréter le monde de diverses manières ; ce qui importe, c'est de le transformer.",
+    "en": "Philosophers have only interpreted the world in various ways; the point is to change it."
+  },
+  "summary": {
+    "fr": "La contemplation se veut neutre, mais toute pensée surgit d'un rapport de forces : dire l'ordre existant « rationnel », c'est déjà le légitimer. La chouette de Minerve vole au crépuscule ; comprendre sans agir laisse le monde tel quel, donc consent à ses injustices.",
+    "en": "Contemplation claims neutrality, but all thought arises from a balance of forces: to call the existing order 'rational' is already to legitimize it. The owl of Minerva flies at dusk; understanding without acting leaves the world as it is, hence consents to its injustices."
+  },
+  "development": [
+    {
+      "fr": "La contemplation se veut désintéressée, au-dessus des partis : comprendre l'ordre du monde sans prétendre le changer.",
+      "en": "Contemplation claims to be disinterested, above the parties: to understand the order of the world without claiming to change it."
+    },
+    {
+      "fr": "Mais toute pensée surgit d'une situation et d'un rapport de forces : décrire l'ordre existant comme « rationnel » ou « naturel », c'est déjà le légitimer ; se dire neutre, c'est prendre parti pour ce qui est.",
+      "en": "But all thought arises from a situation and a balance of forces: to describe the existing order as 'rational' or 'natural' is already to legitimize it; to call oneself neutral is to take the side of what is."
+    },
+    {
+      "fr": "La chouette de Minerve ne prend son vol qu'au crépuscule : la contemplation arrive toujours trop tard, quand une forme de vie est déjà finie. Comprendre sans agir, c'est laisser le monde tel quel, donc consentir à ses injustices.",
+      "en": "The owl of Minerva takes flight only at dusk: contemplation always comes too late, when a form of life is already over. To understand without acting is to leave the world as it is, hence to consent to its injustices."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc interpréter le monde ne suffit pas : une pensée qui n'en change rien n'est pas neutre mais complice ; sa vraie tâche est de transformer ce qu'elle comprend.",
+    "en": "So interpreting the world is not enough: a thought that changes nothing of it is not neutral but complicit; its true task is to transform what it understands."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": { "fr": "Marx", "en": "Marx" },
+    "figures": [
+      { "name": { "fr": "Marx", "en": "Marx" }, "kind": "PHILOSOPHER", "slug": "marx" },
+      { "name": { "fr": "Hegel", "en": "Hegel" }, "kind": "PHILOSOPHER", "slug": "hegel" }
+    ],
+    "work": { "fr": "Thèses sur Feuerbach, XI", "en": "Theses on Feuerbach, XI" },
+    "year": 1845
+  },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est vrai : comprendre sans agir, c'est laisser faire. La philosophie doit servir l'émancipation, non contempler l'ordre établi.",
+        "en": "True: to understand without acting is to let things be. Philosophy must serve emancipation, not contemplate the established order."
+      },
+      "hints": [{ "axisId": "METAPHILOSOPHY", "value": { "kind": "weights", "weights": [0, 0.75, 0.1, 0.15] }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous rejoignez <ph id='marx'>Marx</ph> : la vérité d'une pensée est dans la pratique qui change le monde.",
+        "en": "You join <ph id='marx'>Marx</ph>: the truth of a thought lies in the practice that changes the world."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "La compréhension garde sa valeur, mais elle doit s'orienter vers la pratique : comprendre pour mieux agir.",
+        "en": "Understanding keeps its worth, but it must be oriented toward practice: to understand in order to act better."
+      },
+      "hints": [{ "axisId": "METAPHILOSOPHY", "value": { "kind": "weights", "weights": [0.4, 0.4, 0.1, 0.1] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Une position mixte : la théorie au service de l'action, sans renoncer à comprendre d'abord.",
+        "en": "A mixed position: theory in the service of action, without giving up on understanding first."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Transformer sans d'abord comprendre, c'est agir en aveugle : les pires désastres politiques sont venus de pensées pressées d'agir. La compréhension n'est pas complice, elle est le préalable de toute action juste.",
+        "en": "To transform without first understanding is to act blind: the worst political disasters came from thought in a hurry to act. Understanding is not complicit, it is the precondition of any just action."
+      },
+      "hints": [{ "axisId": "METAPHILOSOPHY", "value": { "kind": "weights", "weights": [0.8, 0.1, 0.05, 0.05] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "La défense de la contemplation : la hâte d'agir sans comprendre a nourri les idéologies les plus destructrices.",
+        "en": "The defense of contemplation: the rush to act without understanding has fed the most destructive ideologies."
+      }
+    }
+  ],
+  "targets": ["contemplation-theoria"],
+  "problems": ["interpret-or-change"],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

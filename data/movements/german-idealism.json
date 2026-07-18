@@ -46,16 +46,7 @@
           "fr": "L'idéalisme allemand porte l'<ax id='REALITY_NATURE' pole='IDEALISM'>idéalisme</ax> à son sommet : le fond du réel n'est pas la matière mais l'esprit. Mais ce n'est plus l'idéalisme d'un <ph id='berkeley'>Berkeley</ph>, pour qui les choses n'existent qu'en tant que perçues par des esprits finis : c'est un idéalisme absolu, où la nature et l'histoire sont les moments d'un même Esprit qui se pense et se reconnaît dans son autre. <ph id='schelling'>Schelling</ph> pose l'identité de la nature et de l'esprit ; <ph id='hegel'>Hegel</ph> fait de la <c>substance</c> un sujet.",
           "en": "German Idealism carries <ax id='REALITY_NATURE' pole='IDEALISM'>idealism</ax> to its summit: the ground of the real is not matter but mind. Yet it is no longer the idealism of a <ph id='berkeley'>Berkeley</ph>, for whom things exist only insofar as they are perceived by finite minds: it is an absolute idealism, in which nature and history are the moments of one and the same Spirit that thinks itself and recognizes itself in its other. <ph id='schelling'>Schelling</ph> posits the identity of nature and mind; <ph id='hegel'>Hegel</ph> makes <c>substance</c> a subject."
         },
-        "quote": {
-          "text": {
-            "fr": "Tout dépend de ceci : saisir et exprimer le vrai non comme substance, mais tout autant comme sujet.",
-            "en": "Everything turns on grasping and expressing the true not only as substance, but equally as subject."
-          },
-          "source": {
-            "fr": "Hegel, Phénoménologie de l'esprit, Préface",
-            "en": "Hegel, Phenomenology of Spirit, Preface"
-          }
-        },
+        "quoteId": "tout-depend-de-ceci-saisir-et-hegel",
         "references": [
           {
             "fr": "Hegel, Phénoménologie de l'esprit (Préface)",
@@ -83,16 +74,7 @@
           "fr": "Pour l'idéalisme allemand, la philosophie n'est ni exercice de vie ni critique du langage : elle est le savoir qui <ax id='METAPHILOSOPHY' pole='CONTEMPLATION'>embrasse la totalité du réel</ax> dans un <c>système</c>. Contre la limite que <ph id='kant'>Kant</ph> imposait à la raison, elle prétend connaître l'<c>absolu</c> lui-même, non plus au-delà des phénomènes mais comme le tout de ce qui se déploie. <ph id='hegel'>Hegel</ph> en donne l'image fameuse : la pensée vient comprendre son époque une fois celle-ci accomplie.",
           "en": "For German Idealism, philosophy is neither an exercise of life nor a critique of language: it is the knowledge that <ax id='METAPHILOSOPHY' pole='CONTEMPLATION'>embraces the totality of the real</ax> within a <c>system</c>. Against the limit Kant imposed on reason, it claims to know the <c>absolute</c> itself, no longer beyond appearances but as the whole of what unfolds. <ph id='hegel'>Hegel</ph> gives it its famous image: thought comes to understand its age only once that age is complete."
         },
-        "quote": {
-          "text": {
-            "fr": "La chouette de Minerve ne prend son vol qu'à la tombée de la nuit.",
-            "en": "The owl of Minerva takes flight only at the falling of dusk."
-          },
-          "source": {
-            "fr": "Hegel, Principes de la philosophie du droit, Préface",
-            "en": "Hegel, Elements of the Philosophy of Right, Preface"
-          }
-        },
+        "quoteId": "la-chouette-de-minerve-ne-prend-hegel",
         "references": [
           {
             "fr": "Hegel, Principes de la philosophie du droit (Préface)",

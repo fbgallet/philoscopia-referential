@@ -1,0 +1,37 @@
+{
+  "id": "absurdism-lucid-revolt",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "LIFE_MEANING", "poleId": "ABSURDISM" },
+  "name": { "fr": "Tenir sans tricher", "en": "Holding out without cheating" },
+  "claim": {
+    "fr": "Une vie peut valoir pleinement sans sens qui la dépasse : reconnaître l'absurde et le tenir dans la révolte lucide, c'est se réapproprier sa vie sans tricher.",
+    "en": "A life can be fully worth living without a meaning beyond it: to recognize the absurd and hold it in lucid revolt is to reclaim one's life without cheating."
+  },
+  "summary": {
+    "fr": "L'absurde naît du heurt entre notre exigence de sens et le silence du monde. Espérance et renoncement sont deux fuites ; la seule voie lucide est de tenir les deux termes dans la révolte, sans illusion ni abdication.",
+    "en": "The absurd arises from the clash between our demand for meaning and the world's silence. Hope and renunciation are two escapes; the only lucid path is to hold both terms in revolt, without illusion or abdication."
+  },
+  "development": [
+    {
+      "fr": "Notre raison réclame un sens, une raison d'être ; le monde, lui, reste silencieux. De cette confrontation entre notre exigence et le mutisme des choses naît l'<c id='the-absurd'>absurde</c>.",
+      "en": "Our reason demands a meaning, a reason to be; the world, for its part, stays silent. From this confrontation between our demand and the muteness of things arises the <c id='the-absurd'>absurd</c>."
+    },
+    {
+      "fr": "Deux échappatoires se présentent, également malhonnêtes : l'espérance, qui invente un sens caché pour ne pas voir le silence ; et le renoncement, jusqu'au suicide, qui supprime l'exigence pour ne plus souffrir du silence.",
+      "en": "Two escapes present themselves, equally dishonest: hope, which invents a hidden meaning so as not to see the silence; and renunciation, up to suicide, which removes the demand so as to suffer the silence no longer."
+    },
+    {
+      "fr": "Reste une troisième voie, la seule lucide : tenir les deux termes sans les réconcilier, garder l'exigence de sens tout en regardant le silence en face. C'est la <c id='revolt'>révolte</c>, qui ne se paie ni d'illusion ni d'abdication.",
+      "en": "There remains a third path, the only lucid one: to hold both terms without reconciling them, to keep the demand for meaning while looking the silence in the face. This is <c id='revolt'>revolt</c>, paid for by neither illusion nor abdication."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc une vie peut valoir pleinement sans sens qui la dépasse : sa valeur tient à la lucidité et à l'intensité de la révolte, non à une réponse qui ne viendra pas.",
+    "en": "So a life can be fully worth living without a meaning beyond it: its worth lies in the lucidity and intensity of the revolt, not in an answer that will not come."
+  },
+  "difficulty": 2,
+  "source": { "author": { "fr": "Camus", "en": "Camus" }, "figures": [{ "name": { "fr": "Camus", "en": "Camus" }, "kind": "PHILOSOPHER", "slug": "camus" }], "work": { "fr": "Le Mythe de Sisyphe", "en": "The Myth of Sisyphus" }, "workId": "the-myth-of-sisyphus-camus" },
+  "test": "absurdism-revolt-smuggles-value-objection",
+  "problems": ["the-absurd"],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
+}

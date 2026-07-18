@@ -36,9 +36,25 @@ Societies can and must improve: reason allows us to identify inherited injustice
 - *[The meaning of history](../axes/history-meaning.md) : Directional meaning* grounds *[Tradition and transformation](../axes/conservatism-progressism.md) : Progressivism* : If history follows a march toward more reason and freedom, then inherited injustices are not a sacred order but stages to be surpassed. The directional meaning of history grounds progressivism: from Condorcet to [Marx](../philosophers/marx.md), to understand the movement of history is to give oneself the means to hasten it.
 - *[Vision of humanity](../axes/human-vision.md) : Anthropological pessimism* grounds *[Tradition and transformation](../axes/conservatism-progressism.md) : Conservatism* : If human beings are shot through with selfish, aggressive drives that nothing erases, individual reason is too weak to refound the social order from scratch. Anthropological pessimism supports conservatism: [Burke](../philosophers/burke.md) sees in inherited institutions an accumulated wisdom better reformed with prudence than destroyed.
 
+## Quotations
+
+> “I transmit but do not innovate; I trust in and love the ancients.” — [Confucius](../philosophers/confucius.md), Analects (Lunyu), 7.1
+
+> “I transmit and do not create; I love the Ancients and trust them.” — [Confucius](../philosophers/confucius.md), Analects, VII, 1
+
+> “The perfectibility of man is truly indefinite; and the progress of this perfectibility has no other limit than the duration of the globe on which nature has placed us.” — [Condorcet](../philosophers/condorcet.md), Sketch for a Historical Picture of the Progress of the Human Mind (1795)
+
+> “Laws keep their credit not because they are just, but because they are laws.” — [Michel de Montaigne](../philosophers/montaigne.md), Essays, III, 13, "Of Experience"
+
+> “The philosophers have only interpreted the world, in various ways; the point is to change it.” — [Marx](../philosophers/marx.md), Theses on Feuerbach, XI
+
+> “The proletarians have nothing to lose but their chains. They have a world to win.” — [Marx](../philosophers/marx.md), Manifesto of the Communist Party, 1848
+
+> “Sapere aude! Have courage to use your own understanding: this is the motto of the Enlightenment.” — [Kant](../philosophers/kant.md), An Answer to the Question: What Is Enlightenment?
+
 ## Related axes
 
-[The meaning of history](../axes/history-meaning.md) · [Ideal and reality](../axes/political-ideal.md) · [Relation to technology](../axes/technology.md) · [Future generations](../axes/future-generations.md)
+[The meaning of history](../axes/history-meaning.md) · [Ideal and reality](../axes/political-ideal.md) · [Relation to technology](../axes/technology.md) · [Future generations](../axes/future-generations.md) · [Temporal orientation](../axes/time-orientation.md)
 
 ---
 

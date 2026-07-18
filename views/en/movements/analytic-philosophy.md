@@ -22,7 +22,7 @@ Clarifying thought 100%
 
 What unites the analytic tradition is not a thesis about the world but a conception of the philosophical task: to [clarify thought](../axes/metaphilosophy.md). To philosophize is to analyze concepts and arguments, to test their grounds and untangle confusions, often lodged in a misleading grammar. Clarity here is not a preliminary to the work: it is its goal. From [Russell](../philosophers/russell.md)'s logic to the later [Wittgenstein](../philosophers/wittgenstein.md)'s attention to ordinary language, method takes precedence over system.
 
-> “Philosophy is a battle against the bewitchment of our intelligence by means of language.” (Wittgenstein, Philosophical Investigations, § 109)
+> “Philosophy is a battle against the bewitchment of our intelligence by means of language.”, Wittgenstein, Philosophical Investigations, § 109
 
 *Sources : Russell, "On Denoting" (1905) · Wittgenstein, Philosophical Investigations*
 

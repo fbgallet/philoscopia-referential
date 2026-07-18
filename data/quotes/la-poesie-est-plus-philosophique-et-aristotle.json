@@ -1,0 +1,9 @@
+{
+  "id": "la-poesie-est-plus-philosophique-et-aristotle",
+  "text": { "fr": "La poésie est plus philosophique et plus noble que l'histoire : elle énonce le général, l'histoire le particulier.", "en": "Poetry is more philosophical and weightier than history: it speaks of the universal, history of the particular." },
+  "author": { "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" },
+  "work": "poetics-aristotle",
+  "source": { "fr": "Poétique, 9 (1451b)", "en": "Poetics, 9 (1451b)" },
+  "anchors": [{ "axisId": "ART_PURPOSE" }],
+  "updatedAt": "2026-07-18T00:00:00.000Z"
+}

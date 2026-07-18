@@ -50,6 +50,24 @@
 - [La mesure épicurienne](desire-reasoned-selection-ataraxia.md) (pour « Tri raisonné »)
 - [L'objection de la vie rétrécie](desire-timid-life-objection.md) (contre « Tri raisonné »)
 
+## [Justice distributive](../axes/distributive-justice.md)
+
+- [Non mérité n'est pas à redistribuer](egalitarianism-lottery-non-desert-objection.md) (contre « Égalitarisme »)
+- [L'argument de la loterie naturelle](egalitarianism-natural-lottery.md) (pour « Égalitarisme »)
+- [Se posséder n'est pas posséder le monde](libertarianism-self-ownership-world-objection.md) (contre « Libertarianisme »)
+- [L'argument de la propriété de soi](libertarianism-self-ownership.md) (pour « Libertarianisme »)
+- [La doctrine de la suffisance](sufficientarianism-enough.md) (pour « Suffisantarisme »)
+- [L'égalité des rapports, pas seulement du panier](sufficientarianism-relational-objection.md) (contre « Suffisantarisme »)
+
+## [Critère du juste](../axes/ethics-foundation.md)
+
+- [Ce que l'impartialité présuppose](care-ethics-concrete-relations.md) (pour « Éthique du care »)
+- [Le soin peut être injuste](care-ethics-partiality-objection.md) (contre « Éthique du care »)
+- [Seuls comptent les effets](consequentialism-only-results-matter.md) (pour « Conséquentialisme »)
+- [Jamais un simple moyen](deontologism-humanity-as-end.md) (pour « Déontologisme »)
+- [Qui être, avant que faire](virtue-ethics-being-good.md) (pour « Éthique des vertus »)
+- [Que dois-je faire, au juste ?](virtue-ethics-guidance-objection.md) (contre « Éthique des vertus »)
+
 ## [Liberté de la volonté](../axes/freedom.md)
 
 - [La liberté comme cause adéquate](compatibilism-adequate-cause.md) (pour « Compatibilisme »)
@@ -66,6 +84,65 @@
 - [L'argument de la responsabilité morale](free-will-responsibility.md) (pour « Libre arbitre »)
 - [L'argument de l'illusion](freedom-determinist-illusion.md) (contre « Libre arbitre »)
 
+## [Existence de Dieu](../axes/god-existence.md)
+
+- [Ni prouver, ni réfuter](agnosticism-limits-of-reason.md) (pour « Agnosticisme (Huxley) »)
+- [L'origine ne juge pas la vérité](atheism-genetic-fallacy-objection.md) (contre « Athéisme »)
+- [Dieu, projection de l'homme](atheism-projection-argument.md) (pour « Athéisme »)
+- [L'argument de la contingence](theism-contingency-argument.md) (pour « Théisme »)
+- [Le mal contre Dieu](theism-problem-of-evil-objection.md) (contre « Théisme »)
+
+## [Vision de l'homme](../axes/human-vision.md)
+
+- [L'homme est bon, la société le corrompt](optimism-natural-goodness.md) (pour « Optimisme anthropologique »)
+- [Point d'âge d'or](optimism-no-golden-age-objection.md) (contre « Optimisme anthropologique »)
+- [La statue de Glaucus](pessimism-glaucus-statue-objection.md) (contre « Pessimisme anthropologique »)
+- [Le bois tordu de l'humanité](pessimism-persistent-drives.md) (pour « Pessimisme anthropologique »)
+- [Ce sont les circonstances, non la nature](pessimism-situationist-objection.md) (contre « Pessimisme anthropologique »)
+- [Le bois dont rien ne fait une planche droite](plasticity-crooked-timber-objection.md) (contre « Plasticité morale »)
+- [Ni ange ni bête](plasticity-neither-angel-nor-beast.md) (pour « Plasticité morale »)
+
+## [Source de la connaissance](../axes/knowledge-source.md)
+
+- [Concepts et intuitions](criticism-concepts-and-intuitions.md) (pour « Criticisme »)
+- [Prisonniers de nos formes ?](criticism-things-in-themselves-objection.md) (contre « Criticisme »)
+- [D'où vient l'idée de cause ?](empiricism-idea-of-cause-objection.md) (contre « Empirisme »)
+- [La page blanche](empiricism-tabula-rasa.md) (pour « Empirisme »)
+- [Ce que les sens ne peuvent donner](rationalism-necessary-truths.md) (pour « Rationalisme »)
+
+## [Le sens de la vie](../axes/life-meaning.md)
+
+- [Tenir sans tricher](absurdism-lucid-revolt.md) (pour « Absurdisme »)
+- [Pourquoi la révolte ?](absurdism-revolt-smuggles-value-objection.md) (contre « Absurdisme »)
+- [N'importe quel sens ?](constructed-anything-goes-objection.md) (contre « Sens construit »)
+- [Rien à découvrir, tout à faire](constructed-existence-precedes-essence.md) (pour « Sens construit »)
+- [Tarir la source du tourment](renunciation-detach-the-will.md) (pour « Renoncement »)
+- [Le remède supprime le malade](renunciation-negates-life-objection.md) (contre « Renoncement »)
+- [Un sens qu'on se donne n'oblige pas](teleology-found-not-made.md) (pour « Téléologie-providence »)
+- [Le monde ne répond pas](teleology-silent-world-objection.md) (contre « Téléologie-providence »)
+
+## [Le but de la philosophie](../axes/metaphilosophy.md)
+
+- [Dissoudre les faux problèmes](clarification-dissolve-confusions.md) (pour « Clarifier la pensée »)
+- [Ne pas jeter les vraies questions](clarification-real-questions-objection.md) (contre « Clarifier la pensée »)
+- [La chouette de Minerve arrive trop tard](contemplation-eleventh-thesis-objection.md) (contre « Comprendre le monde »)
+- [La théôria, activité la plus haute](contemplation-theoria.md) (pour « Comprendre le monde »)
+- [Se soigner, ou chercher le vrai ?](self-transformation-consolation-objection.md) (contre « Se transformer soi-même »)
+- [La philosophie comme manière de vivre](self-transformation-way-of-life.md) (pour « Se transformer soi-même »)
+- [Agir sans comprendre, c'est agir en aveugle](world-transformation-blind-praxis-objection.md) (contre « Transformer le monde »)
+- [Transformer, non seulement interpréter](world-transformation-praxis.md) (pour « Transformer le monde »)
+
+## [Cercle moral](../axes/moral-circle.md)
+
+- [La dignité de la personne](anthropocentrism-dignity.md) (pour « Anthropocentrisme »)
+- [L'argument des cas marginaux](anthropocentrism-marginal-cases-objection.md) (contre « Anthropocentrisme »)
+- [Un bien, mais pour qui ?](biocentrism-no-interests-objection.md) (contre « Biocentrisme »)
+- [Le respect de la vie](biocentrism-reverence-for-life.md) (pour « Biocentrisme »)
+- [Le tout contre l'individu](ecocentrism-environmental-fascism-objection.md) (contre « Écocentrisme »)
+- [L'éthique de la terre](ecocentrism-land-ethic.md) (pour « Écocentrisme »)
+- [« Peuvent-ils souffrir ? »](pathocentrism-can-they-suffer.md) (pour « Pathocentrisme »)
+- [La sensibilité, une frontière arbitraire ?](pathocentrism-reverence-objection.md) (contre « Pathocentrisme »)
+
 ## [Partialité](../axes/partiality.md)
 
 - [Les cercles concentriques](partiality-circles-concentric.md) (pour « Cercles concentriques »)
@@ -78,6 +155,15 @@
 - [La pente du favoritisme](partiality-partialism-favoritism-objection.md) (contre « Partialisme »)
 - [Les bornes que vous acceptez déjà](partiality-partialism-impartial-limits.md) (contre « Partialisme »)
 
+## [Place de la science](../axes/science-place.md)
+
+- [Conjectures et réfutations](critical-rationalism-conjectures.md) (pour « Rationalisme critique »)
+- [Aucune réfutation n'est pure](critical-rationalism-holism-objection.md) (contre « Rationalisme critique »)
+- [Contre la méthode](pluralism-against-method.md) (pour « Pluralisme épistémique »)
+- [Si tout se vaut, rien ne se sait](pluralism-no-demarcation-objection.md) (contre « Pluralisme épistémique »)
+- [L'argument de la réussite](scientism-self-correction.md) (pour « Scientisme »)
+- [La branche sciée](scientism-self-refutation-objection.md) (contre « Scientisme »)
+
 ## [Sincérité](../axes/sincerity.md)
 
 - [Le mensonge qui infantilise](sincerity-benevolent-paternalism-objection.md) (contre « Mensonge bienveillant permis »)
@@ -86,6 +172,15 @@
 - [L'honnêteté sans égard](sincerity-honesty-cruelty-objection.md) (contre « Rigorisme véridique »)
 - [La ligne arbitraire](sincerity-rigorism-arbitrary-line.md) (contre « Rigorisme véridique »)
 - [L'argument de la confiance](sincerity-rigorism-trust.md) (pour « Rigorisme véridique »)
+
+## [Souverain bien](../axes/sovereign-good.md)
+
+- [L'argument de la fonction (ergon)](eudaimonism-function-argument.md) (pour « Eudémonisme »)
+- [L'existence sans essence](eudaimonism-no-function-objection.md) (contre « Eudémonisme »)
+- [L'argument du berceau](hedonism-cradle-argument.md) (pour « Hédonisme »)
+- [Du désiré au désirable](hedonism-natural-not-good-objection.md) (contre « Hédonisme »)
+- [Le seul bien sans réserve](perfectionism-unconditional-good.md) (pour « Vertu / perfectionnisme moral »)
+- [Inconditionnel n'est pas total](perfectionism-unconditional-not-whole-objection.md) (contre « Vertu / perfectionnisme moral »)
 
 ## [Rapport à la technique](../axes/technology.md)
 

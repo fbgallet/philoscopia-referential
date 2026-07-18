@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "ramsey",
+  "stub": true,
+  "name": {
+    "fr": "Frank Ramsey",
+    "en": "Frank Ramsey"
+  },
+  "summary": {
+    "fr": "Mathématicien et philosophe britannique, mort à vingt-six ans. Il a fondé l'interprétation subjective des probabilités : un degré de croyance se mesure aux paris qu'on est prêt à accepter, et la cohérence de ces paris obéit aux lois des probabilités, socle du bayésianisme.",
+    "en": "British mathematician and philosopher, dead at twenty-six. He founded the subjective interpretation of probability: a degree of belief is measured by the bets one is willing to accept, and the coherence of those bets obeys the laws of probability, the bedrock of Bayesianism."
+  },
+  "birth": 1903,
+  "death": 1930,
+  "nationality": {
+    "fr": "Britannique",
+    "en": "British"
+  },
+  "movements": ["analytic-philosophy"],
+  "updatedAt": "2026-07-13T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

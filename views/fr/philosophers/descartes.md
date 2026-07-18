@@ -54,7 +54,7 @@ Tri raisonné 40% · Affirmation 30% · Extinction-détachement 30%
 
 Descartes tient les passions pour utiles quand elles sont bien réglées : il ne s'agit ni de les supprimer ni de les suivre, mais d'en rendre l'âme maîtresse par le jugement et une volonté ferme. D'inspiration stoïcienne, sa morale par provision borne le vouloir à ce qui dépend de nous et invite à changer ses désirs plutôt que l'ordre du monde. Mais il y joint l'affirmation d'un désir guidé par la raison : la vertu est de faire résolument ce qu'on juge le meilleur, source d'un contentement intérieur même dans l'échec. Détachement, tri et affirmation s'y équilibrent.
 
-> « Tâcher toujours plutôt à me vaincre que la fortune, et à changer mes désirs que l'ordre du monde. » (Discours de la méthode, III)
+> « Tâcher toujours plutôt à me vaincre que la fortune, et à changer mes désirs que l'ordre du monde. », Discours de la méthode, III
 
 *Sources : Discours de la méthode, III · Les passions de l'âme, art. 144-148 et 211-212*
 
@@ -66,7 +66,7 @@ Dogmatisme 90% · Scepticisme 10%
 
 Contre le [scepticisme](../glossary/skepticism.md), Descartes retourne l'arme du doute : il pousse celui-ci jusqu'à l'[hyperbole](../glossary/hyperbolic-doubt.md), supposant un **malin génie** qui le tromperait sur tout, pour voir si quelque chose y résiste. Or l'acte même de douter suppose un sujet qui doute : je puis tout révoquer en doute, sauf que je pense, et donc que je suis. Le cogito n'est pas un dogme posé d'avance mais une certitude conquise par le doute lui-même, point d'appui indubitable d'où l'on peut reconstruire tout le savoir. La conclusion est ainsi fermement [dogmatique](../glossary/dogmatism.md) : une certitude pleine est atteignable, et le scepticisme se réfute en s'exerçant à fond.
 
-> « Je pense, donc je suis. » (Discours de la méthode, IV)
+> « Je pense, donc je suis. », Discours de la méthode, IV
 
 *Sources : Méditations métaphysiques, I et II · Discours de la méthode, IV*
 
@@ -148,7 +148,7 @@ Maîtrise 85% · Gardiennage 10% · Membre parmi d'autres 5%
 
 Dès lors que la nature matérielle n'est plus qu'étendue régie par les lois du mouvement, connaître les forces des corps comme on connaît un mécanisme permet de les appliquer à tous les usages, médecine en tête. Descartes substitue à la **philosophie spéculative** de l'École, qui contemple les essences, une **philosophie pratique** qui transforme : la fin du savoir n'est plus de comprendre un ordre donné mais de l'asservir. La nature cesse d'être une communauté ou une mère pour devenir un domaine à posséder, un programme qui inaugure le rapport technicien moderne au monde.
 
-> « comme maîtres et possesseurs de la nature » (Discours de la méthode, VI)
+> « Au lieu de cette philosophie spéculative qu'on enseigne dans les écoles, on en peut trouver une pratique […] et ainsi nous rendre comme maîtres et possesseurs de la nature. », Discours de la méthode, VI
 
 *Sources : Discours de la méthode, VI*
 
@@ -266,7 +266,7 @@ Descartes ne développe pas d'éthique systématique, mais la **morale par provi
 
 La morale des *[Passions de l'âme](../works/the-passions-of-the-soul-descartes.md)* tient dans une vertu maîtresse, la [générosité](../glossary/generosity.md) : connaître que rien ne nous appartient en propre que la libre disposition de nos volontés, et se sentir une ferme résolution d'en bien user. Le juste se décide moins sur la règle ou les conséquences que sur la qualité de celui qui agit : la générosité est comme la clef de toutes les autres vertus et le remède général contre les dérèglements des passions, ce qui ancre Descartes dans une éthique de la vertu, avec une part de devoir dans la fermeté du jugement.
 
-> « La générosité, qui est comme la clef de toutes les autres vertus. » (Les passions de l'âme, art. 161)
+> « La générosité, qui est comme la clef de toutes les autres vertus. », Les passions de l'âme, art. 161
 
 *Sources : Les passions de l'âme, art. 153-156 et 161 · Lettre à Élisabeth, 18 mai 1645*
 

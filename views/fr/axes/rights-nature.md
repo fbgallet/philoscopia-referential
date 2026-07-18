@@ -46,6 +46,10 @@ Les droits ne sont ni naturels, ni de purs décrets, ni de simples calculs d'uti
 - *[Nature des droits](../axes/rights-nature.md) : Constructivisme politique* fonde *[Justice distributive](../axes/distributive-justice.md) : Égalitarisme* : Si les droits sont les termes d'une coopération équitable choisis entre égaux, une société juste doit corriger les inégalités que nul n'a méritées, celles de la naissance et des talents. Le constructivisme politique fonde l'égalitarisme : [Rawls](../philosophers/rawls.md) n'admet les inégalités que si elles profitent aussi aux plus défavorisés.
 - *[Statut des normes (métaéthique)](../axes/moral-scope.md) : Universalisme* fonde *[Nature des droits](../axes/rights-nature.md) : Droits naturels* : S'il existe des normes morales objectives valables pour tout être raisonnable, alors la personne possède des droits antérieurs à l'État, que nulle loi ne saurait légitimement abolir. L'universalisme moral fonde les droits naturels : chez [Locke](../philosophers/locke.md) comme chez [Kant](../philosophers/kant.md), une loi qui les viole reste injuste, fût-elle parfaitement légale.
 
+## Citations
+
+> « Étant tous égaux et indépendants, nul ne doit nuire à un autre dans sa vie, sa santé, sa liberté ou ses biens. » — [Locke](../philosophers/locke.md), Second traité du gouvernement, §6
+
 ## Axes liés
 
 [Justice distributive](../axes/distributive-justice.md) · [Origine du lien social](../axes/social-contract.md) · [Rapport à l'autorité](../axes/authority.md) · [Statut des normes (métaéthique)](../axes/moral-scope.md) · [Cercle moral](../axes/moral-circle.md)

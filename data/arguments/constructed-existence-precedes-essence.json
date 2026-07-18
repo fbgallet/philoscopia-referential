@@ -1,0 +1,37 @@
+{
+  "id": "constructed-existence-precedes-essence",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "LIFE_MEANING", "poleId": "CONSTRUCTED_MEANING" },
+  "name": { "fr": "Rien à découvrir, tout à faire", "en": "Nothing to discover, everything to make" },
+  "claim": {
+    "fr": "Aucun sens n'est inscrit d'avance dans les choses : c'est à chacun de créer le sien, par ses choix et ses engagements.",
+    "en": "No meaning is inscribed in things in advance: it is for each of us to create our own, through our choices and commitments."
+  },
+  "summary": {
+    "fr": "Puisque rien ne dicte d'avance ce que doit être une vie, cette absence est notre liberté : le sens n'est pas trouvé mais fait, il naît de ce à quoi l'on se voue, et nous rend responsables de ce que nous devenons.",
+    "en": "Since nothing dictates in advance what a life should be, this absence is our freedom: meaning is not found but made, it arises from what one devotes oneself to, and makes us responsible for what we become."
+  },
+  "development": [
+    {
+      "fr": "Aucun sens n'est inscrit d'avance dans les choses : le monde est là, sans mode d'emploi ; nous existons d'abord, sans essence ni fin qui nous seraient données.",
+      "en": "No meaning is inscribed in things in advance: the world is there, with no instructions; we exist first, with no essence or end given to us."
+    },
+    {
+      "fr": "Mais cette absence n'est pas un manque : elle est notre liberté. Puisque rien ne dicte ce que doit être ma vie, c'est à moi de le décider, par mes choix et mes engagements.",
+      "en": "But this absence is not a lack: it is our freedom. Since nothing dictates what my life should be, it is for me to decide, through my choices and commitments."
+    },
+    {
+      "fr": "Le sens n'est donc pas trouvé mais fait : il naît de ce à quoi je me voue, et cet engagement me rend pleinement responsable de ce que je deviens, sans pouvoir m'en décharger sur un ordre reçu.",
+      "en": "Meaning is therefore not found but made: it arises from what I devote myself to, and this commitment makes me fully responsible for what I become, with no received order to unload it onto."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc il n'y a rien à découvrir, tout à faire : le sens d'une vie est ce que chacun crée par ses projets, non un ordre qu'il subit.",
+    "en": "So there is nothing to discover and everything to make: the meaning of a life is what each creates through their projects, not an order they undergo."
+  },
+  "difficulty": 1,
+  "source": { "author": { "fr": "Sartre", "en": "Sartre" }, "figures": [{ "name": { "fr": "Sartre", "en": "Sartre" }, "kind": "PHILOSOPHER", "slug": "sartre" }], "work": { "fr": "L'existentialisme est un humanisme", "en": "Existentialism Is a Humanism" }, "year": 1946 },
+  "test": "constructed-anything-goes-objection",
+  "problems": ["meaning-of-or-in-life"],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
+}

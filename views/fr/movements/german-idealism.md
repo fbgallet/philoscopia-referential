@@ -24,7 +24,7 @@ Idéalisme 95% · Dualisme 5%
 
 L'idéalisme allemand porte l'[idéalisme](../axes/reality-nature.md) à son sommet : le fond du réel n'est pas la matière mais l'esprit. Mais ce n'est plus l'idéalisme d'un [Berkeley](../philosophers/berkeley.md), pour qui les choses n'existent qu'en tant que perçues par des esprits finis : c'est un idéalisme absolu, où la nature et l'histoire sont les moments d'un même Esprit qui se pense et se reconnaît dans son autre. [Schelling](../philosophers/schelling.md) pose l'identité de la nature et de l'esprit ; [Hegel](../philosophers/hegel.md) fait de la substance un sujet.
 
-> « Tout dépend de ceci : saisir et exprimer le vrai non comme substance, mais tout autant comme sujet. » (Hegel, Phénoménologie de l'esprit, Préface)
+> « Tout dépend de ceci : saisir et exprimer le vrai non comme substance, mais tout autant comme sujet. », Phénoménologie de l'esprit, Préface
 
 *Sources : Hegel, Phénoménologie de l'esprit (Préface) · Schelling, Système de l'idéalisme transcendantal*
 
@@ -36,7 +36,7 @@ Comprendre le monde 85% · Transformer le monde 10% · Clarifier la pensée 5%
 
 Pour l'idéalisme allemand, la philosophie n'est ni exercice de vie ni critique du langage : elle est le savoir qui [embrasse la totalité du réel](../axes/metaphilosophy.md) dans un système. Contre la limite que [Kant](../philosophers/kant.md) imposait à la raison, elle prétend connaître l'absolu lui-même, non plus au-delà des phénomènes mais comme le tout de ce qui se déploie. [Hegel](../philosophers/hegel.md) en donne l'image fameuse : la pensée vient comprendre son époque une fois celle-ci accomplie.
 
-> « La chouette de Minerve ne prend son vol qu'à la tombée de la nuit. » (Hegel, Principes de la philosophie du droit, Préface)
+> « La chouette de Minerve ne prend son vol qu'à la tombée de la nuit. », Principes de la philosophie du droit, Préface
 
 *Sources : Hegel, Principes de la philosophie du droit (Préface) · Hegel, Encyclopédie des sciences philosophiques*
 

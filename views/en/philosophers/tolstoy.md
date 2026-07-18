@@ -8,6 +8,10 @@ Russian novelist turned religious and moral thinker: from the Gospel he drew a d
 
 > Stub profile: only this mini-card exists so far; the sourced axis positions remain to be authored. Contributions welcome.
 
+## Influenced by
+
+- **[Schopenhauer](../philosophers/schopenhauer.md)** (continues) : [Tolstoy](../philosophers/tolstoy.md) discovered Schopenhauer in the summer of 1869 and was enthralled, going so far as to hang his portrait in his study. The spiritual crisis of A Confession, the horror at the nothingness of death, the search for renunciation and a universal [compassion](../glossary/compassion.md), owes much to Schopenhauerian pessimism and [asceticism](../glossary/asceticism.md), which Tolstoy then reorients toward the Gospel.
+
 ## Influence on
 
 - **[Gandhi](../philosophers/gandhi.md)** (continues) : [Gandhi](../philosophers/gandhi.md) recognizes in [Tolstoy](../philosophers/tolstoy.md), with whom he corresponds, a master of nonviolence: the law of love and the Christian refusal to return evil for evil, which he transposes into a method of mass political action, satyagraha.

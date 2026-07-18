@@ -44,7 +44,7 @@ Scepticisme 75% · Dogmatisme 25%
 
 L'esprit humain réclame l'unité, la clarté, des certitudes dernières ; le monde lui oppose un silence déraisonnable. De ce divorce naît [l'absurde](../glossary/the-absurd.md) : les vérités absolues que la raison exige ne sont pas à sa portée, et toute pensée qui les promet, religieuse ou systématique, accomplit un **saut** hors de l'évidence. Mais Camus se garde du [scepticisme](../glossary/skepticism.md) intégral, qui se nie en s'affirmant : deux choses au moins restent certaines, l'absurde lui-même et le fait brut d'exister. La lucidité tient dans cet entre-deux, refusant à la fois l'espoir métaphysique et le renoncement à connaître.
 
-> « Je ne sais pas si ce monde a un sens qui le dépasse. Mais je sais que je ne connais pas ce sens et qu'il m'est impossible pour le moment de le connaître. » (Le Mythe de Sisyphe)
+> « Je ne sais pas si ce monde a un sens qui le dépasse. Mais je sais que je ne connais pas ce sens et qu'il m'est impossible pour le moment de le connaître. », Le Mythe de Sisyphe
 
 *Sources : Le Mythe de Sisyphe, Un raisonnement absurde*
 
@@ -56,7 +56,7 @@ Absurdisme 80% · Sens construit 20%
 
 Deux termes sont également certains pour Camus : l'esprit humain réclame de l'unité et du sens, et le monde demeure muet à cette demande. [L'absurde](../glossary/the-absurd.md) ne loge dans aucun des deux mais dans leur **divorce**, dans le face-à-face même : il n'est donc ni une propriété du monde ni un défaut de l'homme, mais une relation qu'on ne peut dissoudre sans supprimer l'un des termes. Aussi le sens n'est-il ni donné d'avance ni purement absent : aucun sens transcendant ne comble le divorce, mais l'homme qui le tient sans fuir se forge des valeurs dans l'instant, d'où une part de sens construit.
 
-> « Il faut imaginer Sisyphe heureux. » (Le Mythe de Sisyphe (1942))
+> « Il faut imaginer Sisyphe heureux. », Le Mythe de Sisyphe (1942)
 
 *Sources : Le Mythe de Sisyphe (1942) · L'Homme révolté (1951)*
 
@@ -108,7 +108,7 @@ Révolte 90% · Amor fati 10%
 
 L'esclave qui dit non à son maître ne refuse pas seulement un ordre : en traçant la limite qu'on ne franchira plus, il affirme qu'il y a en lui quelque chose qui vaut et qui vaut pour tous. Camus tire de ce geste un raisonnement décisif : le non du révolté révèle une valeur qui déborde l'individu, si bien que la [révolte](../glossary/revolt.md) fait passer du constat solitaire de l'absurde à une solidarité, comme le « cogito » faisait passer du doute à la certitude. Le refus de ce qui humilie, et non le consentement au donné, devient ainsi le principe d'une existence digne, et le fondement immanent d'une morale sans Dieu.
 
-> « Je me révolte, donc nous sommes. » (L'Homme révolté (1951))
+> « Je me révolte, donc nous sommes. », L'Homme révolté (1951)
 
 *Sources : L'Homme révolté (1951)*
 
@@ -180,7 +180,7 @@ Révolte / refus 65% · La mort n'est rien 20% · Être-pour-la-mort 15%
 
 La mort est le scandale par excellence : l'horizon qui révèle [l'absurde](../glossary/the-absurd.md) et ruine tout espoir, mais que Camus refuse d'accueillir avec sérénité. À la résignation comme à l'espérance d'un au-delà, il oppose la révolte : mourir irréconcilié, lucide et insurgé, sans appel ni consolation. C'est dans ce refus obstiné, non dans l'acceptation, que l'homme absurde affirme sa grandeur.
 
-> « Il s'agit de mourir irréconcilié et non pas de plein gré. » (Le Mythe de Sisyphe)
+> « Il s'agit de mourir irréconcilié et non pas de plein gré. », Le Mythe de Sisyphe, « La liberté absurde »
 
 *Sources : Le Mythe de Sisyphe · L'Homme révolté*
 

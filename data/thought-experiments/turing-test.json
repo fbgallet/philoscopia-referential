@@ -1,0 +1,62 @@
+{
+  "id": "turing-test",
+  "title": {
+    "fr": "Le jeu de l'imitation",
+    "en": "The Imitation Game"
+  },
+  "description": {
+    "fr": "Turing juge la question « une machine peut-elle penser ? » trop vague, et propose de la remplacer par une épreuve. Un juge dialogue par écrit, sans les voir, avec un être humain et une machine ; à lui de deviner qui est qui. Si, au fil de l'échange, le juge ne parvient plus à démasquer la machine, à quel titre lui refuser la pensée ? Turing y voit moins une preuve qu'un <kw>critère opératoire</kw>, et parie qu'un jour les machines s'y illustreront. Ce qu'on nomme aujourd'hui « test de Turing » en est une version libre : des programmes tiennent la conversation au point de tromper, mais l'épreuve est-elle vraiment franchie, ou n'a-t-elle jamais mesuré ce qu'il fallait ?",
+    "en": "Turing finds the question \"can a machine think?\" too vague, and proposes to replace it with a test. A judge converses in writing, without seeing them, with a human being and a machine; the judge must guess which is which. If, over the exchange, the judge can no longer unmask the machine, on what grounds deny it thought? Turing sees in it less a proof than an <kw>operational criterion</kw>, and wagers that machines will one day succeed at it. What we now call the \"Turing test\" is a loose version of it: programs sustain a conversation well enough to fool us, but is the test really passed, or did it never measure the right thing?"
+  },
+  "source": {
+    "author": { "fr": "Turing", "en": "Turing" },
+    "work": { "fr": "Les ordinateurs et l'intelligence", "en": "Computing Machinery and Intelligence" },
+    "year": 1950
+  },
+  "question": {
+    "fr": "Ne pas pouvoir distinguer une machine d'une personne à la conversation prouve-t-il qu'elle pense, ou le comportement ne prouve-t-il jamais la présence d'un esprit ?",
+    "en": "Does being unable to tell a machine from a person by conversation prove that it thinks, or does behaviour never prove the presence of a mind?"
+  },
+  "axisIds": ["MACHINE_MIND"],
+  "options": [
+    {
+      "id": "passing-is-enough",
+      "label": {
+        "fr": "Réussir l'épreuve suffit : d'un esprit, même chez autrui, nous n'avons jamais d'autre preuve que le comportement.",
+        "en": "Passing the test is enough: of a mind, even in others, we never have any proof but behaviour."
+      },
+      "hints": [
+        { "axisId": "MACHINE_MIND", "value": { "kind": "scalar", "value": -1 } }
+      ],
+      "discussion": {
+        "fr": "l'esprit de la proposition de <ph id='turing'>Turing</ph> : la réussite vaut comme <kw>critère</kw>, non comme preuve décisive ; mais puisque j'accorde la pensée à mes semblables sur leurs seuls propos et gestes, la refuser à la machine qui en fait autant serait un deux poids, deux mesures.",
+        "en": "the spirit of <ph id='turing'>Turing</ph>'s proposal: passing counts as a <kw>criterion</kw>, not a decisive proof; but since I grant thought to my fellows on their words and gestures alone, denying it to a machine that does the same would be a double standard."
+      }
+    },
+    {
+      "id": "a-good-clue",
+      "label": {
+        "fr": "C'est un indice sérieux, sans être une preuve : bien parler rend la pensée plausible, pas certaine.",
+        "en": "It is a serious clue, though not a proof: speaking well makes thought plausible, not certain."
+      },
+      "hints": [
+        { "axisId": "MACHINE_MIND", "value": { "kind": "scalar", "value": -0.5 } }
+      ]
+    },
+    {
+      "id": "imitating-is-not-thinking",
+      "label": {
+        "fr": "Imiter la conversation n'est pas penser : on peut en produire tous les signes sans rien comprendre de ce que l'on dit.",
+        "en": "Imitating conversation is not thinking: one can produce every sign of it without understanding anything one says."
+      },
+      "hints": [
+        { "axisId": "MACHINE_MIND", "value": { "kind": "scalar", "value": 1 } }
+      ],
+      "discussion": {
+        "fr": "l'<obj>objection de <ph id='searle'>Searle</ph></obj>, illustrée par sa <te id='chinese-room'>chambre chinoise</te> : la seule manipulation des signes ne suffirait pas à la <kw>compréhension</kw> ; d'autres, comme la réponse des systèmes, contestent cette conclusion.",
+        "en": "<ph id='searle'>Searle</ph>'s <obj>objection</obj>, dramatized by his <te id='chinese-room'>Chinese Room</te>: mere manipulation of signs would not amount to <kw>understanding</kw>; others, such as the systems reply, contest that conclusion."
+      }
+    }
+  ],
+  "updatedAt": "2026-07-13T00:00:00.000Z"
+}

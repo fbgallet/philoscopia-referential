@@ -36,9 +36,25 @@ Les sociétés peuvent et doivent s'améliorer : la raison permet d'identifier l
 - *[Sens de l'histoire](../axes/history-meaning.md) : Sens-direction* fonde *[Tradition et transformation](../axes/conservatism-progressism.md) : Progressisme* : Si l'histoire suit une marche vers plus de raison et de liberté, alors les injustices héritées ne sont pas un ordre sacré mais des étapes à dépasser. Le sens-direction de l'histoire fonde le progressisme : de Condorcet à [Marx](../philosophers/marx.md), comprendre le mouvement de l'histoire, c'est se donner les moyens de le hâter.
 - *[Vision de l'homme](../axes/human-vision.md) : Pessimisme anthropologique* fonde *[Tradition et transformation](../axes/conservatism-progressism.md) : Conservatisme* : Si l'homme est traversé de pulsions égoïstes et agressives que rien n'efface, la raison individuelle est trop faible pour refonder l'ordre social à neuf. Le pessimisme anthropologique soutient le conservatisme : [Burke](../philosophers/burke.md) voit dans les institutions héritées une sagesse accumulée qu'il vaut mieux réformer avec prudence que détruire.
 
+## Citations
+
+> « Je transmets et je n'invente pas ; je crois aux Anciens et je les aime. » — [Confucius](../philosophers/confucius.md), Entretiens (Lunyu), VII, 1
+
+> « Je transmets et je n'invente pas ; j'aime les Anciens et je leur fais confiance. » — [Confucius](../philosophers/confucius.md), Entretiens, VII, 1
+
+> « La perfectibilité de l'homme est réellement indéfinie ; et le progrès de cette perfectibilité n'a d'autre terme que la durée du globe où la nature nous a jetés. » — [Condorcet](../philosophers/condorcet.md), Esquisse d'un tableau historique des progrès de l'esprit humain (1795)
+
+> « Les lois se maintiennent en crédit, non parce qu'elles sont justes, mais parce qu'elles sont lois. » — [Michel de Montaigne](../philosophers/montaigne.md), Essais, III, 13, « De l'expérience »
+
+> « Les philosophes n'ont fait qu'interpréter le monde de différentes manières ; ce qui importe, c'est de le transformer. » — [Marx](../philosophers/marx.md), Thèses sur Feuerbach, XI
+
+> « Les prolétaires n'ont rien à y perdre que leurs chaînes. Ils ont un monde à y gagner. » — [Marx](../philosophers/marx.md), Manifeste du Parti communiste, 1848
+
+> « Sapere aude ! Aie le courage de te servir de ton propre entendement : telle est la devise des Lumières. » — [Kant](../philosophers/kant.md), Réponse à la question : Qu'est-ce que les Lumières ?
+
 ## Axes liés
 
-[Sens de l'histoire](../axes/history-meaning.md) · [Idéal et réel](../axes/political-ideal.md) · [Rapport à la technique](../axes/technology.md) · [Générations futures](../axes/future-generations.md)
+[Sens de l'histoire](../axes/history-meaning.md) · [Idéal et réel](../axes/political-ideal.md) · [Rapport à la technique](../axes/technology.md) · [Générations futures](../axes/future-generations.md) · [Orientation temporelle](../axes/time-orientation.md)
 
 ---
 

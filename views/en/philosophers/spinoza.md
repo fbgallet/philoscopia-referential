@@ -34,7 +34,7 @@ Hard determinism 98% · Free will 3%
 
 If everything follows from God's nature with the same [necessity](../glossary/determinism.md) as a triangle's properties follow from its essence, no act of will can be an exception. The argument also explains the illusion of [free will](../glossary/free-will.md): like a thrown stone that would believe itself free, we are conscious of our desires but ignorant of the causes that determine them.
 
-> “A stone receives from an external cause that pushes it a certain quantity of motion... Now conceive that this stone, while it continues to move, thinks and knows that it is striving, as far as it can, to move. This stone, surely, since it is conscious only of its striving, will believe itself entirely free.” (Letter 58 to Schuller)
+> “A stone receives from an external cause that pushes it a certain quantity of motion... Now conceive that this stone, while it continues to move, thinks and knows that it is striving, as far as it can, to move. This stone, surely, since it is conscious only of its striving, will believe itself entirely free.”, Letter 58 to Schuller
 
 *Sources : Ethics, I, prop. 29 and appendix · Letter 58 to Schuller (the stone that thinks itself free)*
 
@@ -56,7 +56,7 @@ Theism 75% · Atheism 25%
 
 God exists necessarily, but is not the personal, transcendent God of classical theism: it is the single, infinite substance, identical with Nature (pantheism). Lacking providence or anthropomorphic will, this God is so remote from ordinary theism that Spinoza was charged with atheism; hence an intermediate value on the theist side, affirming a God while flagging its impersonal nature.
 
-> “Whatever is, is in God, and nothing can be or be conceived without God.” (Ethics, I, prop. 15)
+> “Whatever is, is in God, and nothing can be or be conceived without God.”, Ethics, I, prop. 15
 
 *Sources : Ethics, I, prop. 11 (God necessarily exists) · Ethics, I, props. 14-15 (single substance)*
 
@@ -68,7 +68,7 @@ Rationalism 93% · Empiricism 7%
 
 True knowledge proceeds from [adequate ideas](../glossary/adequate-idea.md) by deductive chaining, not from sense experience, the source of confused ideas (the first kind of knowledge). Its summit is the third kind of knowledge, intuitive science, which grasps things in their necessity from the essence of God: an unabashed [rationalism](../axes/knowledge-source.md).
 
-> “This kind of knowledge proceeds from an adequate idea of the formal essence of certain attributes of God to the adequate knowledge of the essence of things.” (Ethics, II, prop. 40, scholium 2)
+> “This kind of knowledge proceeds from an adequate idea of the formal essence of certain attributes of God to the adequate knowledge of the essence of things.”, Ethics, II, prop. 40, scholium 2
 
 *Sources : Ethics, II, prop. 40, scholium 2 (the three kinds of knowledge) · Treatise on the Emendation of the Intellect*
 
@@ -90,7 +90,7 @@ Affirmation 70% · Reasoned selection 30%
 
 Each thing, as a finite mode of God's power, tends to persevere in its being: this [conatus](../glossary/conatus.md) is its actual essence. Desire is therefore not a lack to be filled, against a whole Platonic tradition, but the very affirmation of our being; wisdom does not extinguish it but uses reason to select what increases the [power to act](../glossary/joy.md).
 
-> “Desire is the very essence of man, insofar as it is conceived as determined to do something by a given affection of itself.” (Ethics, III, definitions of the affects, def. 1)
+> “Desire is the very essence of man, insofar as it is conceived as determined to do something by a given affection of itself.”, Ethics, III, definitions of the affects, def. 1
 
 *Sources : Ethics, III, prop. 9, scholium and definitions of the affects (desire, the essence of man) · Ethics, III, props. 6-7 (conatus)*
 
@@ -102,7 +102,7 @@ Eudaimonism 50% · Virtue / moral perfectionism 40% · Hedonism 10%
 
 The summit of knowledge, the third kind, grasps things in God; this [adequate knowledge](../glossary/adequate-idea.md) necessarily generates a joy referred to its cause, the [intellectual love of God](../glossary/intellectual-love-of-god.md). Hence the reversal peculiar to Spinoza: “blessedness is not the reward of virtue, but virtue itself”, for to know adequately is already to be powerful and free.
 
-> “Blessedness is not the reward of virtue, but virtue itself.” (Ethics, V, prop. 42)
+> “Blessedness is not the reward of virtue, but virtue itself.”, Ethics, V, proposition 42, scholium
 
 *Sources : Ethics, V, props. 32-36 (intellectual love of God, blessedness) · Ethics, V, prop. 42 (blessedness is not the reward of virtue but virtue itself)*
 
@@ -114,7 +114,7 @@ Intellectualism 70% · Sentimentalism 30%
 
 Since the affects follow from natural necessity like everything else, blaming them is futile: Spinoza proposes to treat them “as if it were a question of lines and planes”. His therapeutic argument is precise: a passion is a confused idea, hence a passivity; forming a [clear idea](../glossary/adequate-idea.md) of it turns it into an action, so that to understand an affect is already to free oneself from it, not to repress it.
 
-> “I shall treat human actions and appetites just as if it were a question of lines, planes, and bodies.” (Ethics, III, preface)
+> “I shall treat human actions and appetites just as if it were a question of lines, planes, and bodies.”, Ethics, III, preface
 
 *Sources : Ethics, III, preface (studying the affects geometrically) · Ethics, V, prop. 3 (an affect of which we form a clear idea ceases to be a passion)*
 
@@ -126,7 +126,7 @@ Amor fati 93% · Revolt 8%
 
 Understanding that everything happens by [necessity](../glossary/determinism.md) lessens the power of sad passions over the mind: we grieve less over what we know to be inevitable. This serene acceptance of necessity prefigures [amor fati](../glossary/amor-fati.md), without revolt against what must be.
 
-> “I have taken great care not to deride human actions, nor to bewail them, nor to detest them, but to understand them.” (Political Treatise, I, 4)
+> “I have taken great care not to deride human actions, nor to bewail them, nor to detest them, but to understand them.”, Political Treatise, I, 4
 
 *Sources : Ethics, V, prop. 6 (the mind suffers less from affects it refers to necessity)*
 
@@ -298,7 +298,7 @@ Philia (friendship) 60% · Agape as gift 25% · Eros as lack 15%
 
 At the heart of love Spinoza sees neither lack nor gift but a joy: to love is to pass to a greater perfection, a joy referred to the idea of its cause (*[Ethics](../works/ethics-spinoza.md)*, III). Love is therefore not the surge of a void toward what would fill it, but the striving (conatus) of power toward what increases it, which keeps a kinship with [eros](../glossary/eros.md) without its pathos of lack. Among human beings this striving culminates in the friendship of those guided by reason, who agree in nature, are mutually useful and want nothing for themselves that they do not also want for others: a rational [philia](../glossary/philia.md), reciprocal and chosen. At the summit, the [intellectual love of God](../glossary/intellectual-love-of-god.md) exceeds every interpersonal bond: a love without return, in which the sage does not require to be loved back, closer to disinterested gift than to possession.
 
-> “He who loves God cannot strive that God should love him in return.” (Ethics, V, prop. 19)
+> “He who loves God cannot strive that God should love him in return.”, Ethics, V, prop. 19
 
 *Sources : Ethics, III (definition of love); IV, props. 35-37 and 70-71 (the friendship of reasonable people); V, props. 19 and 32-37 (the intellectual love of God)*
 

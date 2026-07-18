@@ -33,6 +33,10 @@ L'artiste vit dans son époque et ne peut s'en laver les mains : son œuvre éve
 - *[Le beau](../axes/beauty.md) : Beau objectif* fonde *[Finalité de l'art](../axes/art-purpose.md) : Vérité* : Si la beauté est une réalité liée à l'ordre et à l'essence des choses, alors la grande œuvre est celle qui donne à voir cette vérité, par-delà l'agrément. Le beau objectif fonde l'idée d'un art de vérité : pour [Schopenhauer](../philosophers/schopenhauer.md), l'art suspend le vouloir et dévoile l'essence du monde que le concept ne peut atteindre.
 - *[Le beau](../axes/beauty.md) : Beau subjectif* fonde *[Finalité de l'art](../axes/art-purpose.md) : Plaisir* : Si le beau n'est rien d'autre que le plaisir qu'une forme procure, alors l'art n'a d'autre fin que ce plaisir même, sans avoir à servir le vrai ni une cause. Le beau subjectif fonde l'art pour l'art : l'œuvre se suffit à elle-même, et la soumettre à une fin extérieure reviendrait à la rabaisser.
 
+## Citations
+
+> « La poésie est plus philosophique et plus noble que l'histoire : elle énonce le général, l'histoire le particulier. » — [Aristote](../philosophers/aristotle.md), Poétique, 9 (1451b)
+
 ## Axes liés
 
 [Le beau dans la vie](../axes/aesthetic-life.md) · [Nature de l'art](../axes/art-nature.md)

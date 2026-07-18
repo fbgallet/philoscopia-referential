@@ -1,0 +1,60 @@
+{
+  "id": "non-identity",
+  "title": {
+    "fr": "Le monde d'après",
+    "en": "The world after"
+  },
+  "description": {
+    "fr": "Deux politiques s'offrent à nous. L'une épargne les ressources ; l'autre les épuise pour un confort immédiat et laissera, dans trois siècles, un monde appauvri. Mais il y a une subtilité : selon la politique choisie, la vie quotidienne, les métiers, les migrations ne seront pas les mêmes, si bien que ce ne sont pas les mêmes couples qui se formeront, ni les mêmes enfants qui naîtront. Les gens qui peupleront le monde appauvri lui doivent donc leur existence même : sous l'autre politique, ils ne seraient jamais nés, et d'autres vivraient à leur place. Leur vie, quoique plus dure, vaut d'être vécue. Peut-on dire alors que nous leur avons nui, puisque aucun d'eux n'est plus mal loti qu'il ne l'aurait été ?",
+    "en": "Two policies lie open to us. One spares resources; the other uses them up for immediate comfort and will leave, three centuries hence, an impoverished world. But there is a subtlety: depending on the policy chosen, daily life, jobs and migrations will differ, so that different couples will meet and different children will be born. The people who will inhabit the impoverished world thus owe it their very existence: under the other policy they would never have been born, and others would live in their place. Their lives, though harder, are worth living. Can we then say we have harmed them, since none of them is worse off than they would otherwise have been?"
+  },
+  "source": {
+    "author": { "fr": "Derek Parfit", "en": "Derek Parfit" },
+    "work": { "fr": "Raisons et personnes", "en": "Reasons and Persons" },
+    "year": 1984
+  },
+  "question": {
+    "fr": "Nos choix appauvrissent le monde futur, mais décident aussi qui y naîtra. Ces gens n'existeraient pas sans nous : leur faisons-nous du tort ?",
+    "en": "Our choices impoverish the future world, but also decide who will be born into it. Those people would not exist without us: are we wronging them?"
+  },
+  "axisIds": ["FUTURE_GENERATIONS"],
+  "options": [
+    {
+      "id": "a-wrecked-world-wrongs",
+      "label": {
+        "fr": "Oui : léguer un monde dévasté est un mal, quels que soient ceux qui devront y vivre. Ce qui compte, c'est le monde qu'on laisse, pas l'identité de ses habitants.",
+        "en": "Yes: bequeathing a devastated world is a wrong, whoever ends up having to live in it. What matters is the world we leave, not the identity of its inhabitants."
+      },
+      "hints": [{ "axisId": "FUTURE_GENERATIONS", "value": { "kind": "scalar", "value": -1 } }],
+      "discussion": {
+        "fr": "C'est la vue impersonnelle : une issue peut être pire sans que personne n'y soit « plus mal loti ». <ph id='parfit'>Parfit</ph>, qui a forgé l'énigme, cherchait justement un principe capable de condamner la pire issue sans victime nommable. <ph id='jonas'>Jonas</ph> le formule autrement : la permanence d'un monde vivable nous est due comme telle.",
+        "en": "This is the impersonal view: an outcome can be worse without anyone in it being \"worse off\". <ph id='parfit'>Parfit</ph>, who coined the puzzle, was looking precisely for a principle able to condemn the worse outcome with no nameable victim. <ph id='jonas'>Jonas</ph> puts it differently: the permanence of a livable world is owed to us as such."
+      }
+    },
+    {
+      "id": "we-owe-a-decent-world",
+      "label": {
+        "fr": "On doit à ceux qui viennent un monde décent, même sans pouvoir désigner de victime précise, mais pas au prix de n'importe quel sacrifice des vivants.",
+        "en": "We owe those to come a decent world, even without being able to name a particular victim, but not at the price of any and every sacrifice of the living."
+      },
+      "hints": [{ "axisId": "FUTURE_GENERATIONS", "value": { "kind": "scalar", "value": 0 } }],
+      "discussion": {
+        "fr": "Une obligation tournée vers l'avenir sans être illimitée : elle reconnaît une dette envers les générations à venir tout en pesant les besoins réels du présent.",
+        "en": "A forward-looking obligation that is not unlimited: it acknowledges a debt to the generations to come while weighing the real needs of the present."
+      }
+    },
+    {
+      "id": "no-victim-no-wrong",
+      "label": {
+        "fr": "Personne n'est plus mal loti qu'il ne l'aurait été, puisque sans notre choix ces gens n'existeraient pas. Nul n'est donc lésé : nos vrais devoirs vont aux vivants réels.",
+        "en": "No one is worse off than they would otherwise have been, since without our choice these people would not exist. No one is wronged, then: our real duties are owed to the actual living."
+      },
+      "hints": [{ "axisId": "FUTURE_GENERATIONS", "value": { "kind": "scalar", "value": 1 } }],
+      "discussion": {
+        "fr": "C'est la vue « affectant des personnes » : un tort suppose quelqu'un de lésé. La non-identité y mord pourtant, car elle semble absoudre des politiques désastreuses ; l'énigme est là pour être résolue, non pour servir de permis.",
+        "en": "This is the person-affecting view: a wrong supposes someone wronged. Non-identity bites here, however, for it seems to absolve disastrous policies; the puzzle is there to be solved, not to serve as a licence."
+      }
+    }
+  ],
+  "updatedAt": "2026-07-13T00:00:00.000Z"
+}

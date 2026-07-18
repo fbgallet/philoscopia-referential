@@ -56,6 +56,34 @@ Desire is the root of dependence and suffering: it binds us to what is beyond ou
 - *[Status of emotions](../axes/emotions.md) : Sentimentalism* grounds *[Relation to desire](../axes/desire.md) : Affirmation* : If our affects are not obstacles to reason but a way of sensing what matters, desire ceases to be an impulse to correct: it reveals what carries us. To hold emotions to be a source of value rather than a disturbance inclines one to affirm one's desires rather than master them, from Romanticism to a sensitive reading of [Nietzsche](../philosophers/nietzsche.md).
 - *[Tonality of reality](../axes/cosmic-outlook.md) : Tragic thought* grounds *[Relation to desire](../axes/desire.md) : Extinction and detachment* : If existence is woven of lack and suffering, and to want is to expose oneself endlessly to loss, then wisdom lies not in fulfilling desires but in releasing them. A tragic view of the world, from [Buddhism](../movements/buddhism.md) to Schopenhauer, grounds detachment: to dry up the thirst rather than chase what escapes.
 
+## Quotations
+
+> “At seventy, I could follow my heart's desire without overstepping the line.” — [Confucius](../philosophers/confucius.md), Analects, II.4
+
+> “So life swings like a pendulum, back and forth, between pain and boredom.” — [Schopenhauer](../philosophers/schopenhauer.md), The World as Will and Representation, §57
+
+> “It is not the man who has little, but the one who craves more, that is poor.” — [Seneca](../philosophers/seneca.md), Letters to Lucilius, II
+
+> “It is better to be Socrates dissatisfied than a fool satisfied.” — [Mill](../philosophers/mill.md), Utilitarianism, ch. II
+
+> “Reason is, and ought only to be, the slave of the passions.” — [Hume](../philosophers/hume.md), A Treatise of Human Nature, II, 3, 3
+
+> “Desire is the very essence of man, insofar as it is conceived as determined to do something by a given affection of itself.” — [Spinoza](../philosophers/spinoza.md), Ethics, III, definitions of the affects, def. 1
+
+> “Woe to him who has nothing left to desire! He loses, as it were, all that he possesses.” — [Rousseau](../philosophers/rousseau.md), Julie, or the New Heloise, VI
+
+> “Seek not that the things which happen should happen as you wish; but wish the things which happen to be as they are, and you will have a tranquil flow of life.” — [Epictetus](../philosophers/epictetus.md), Enchiridion, §8
+
+> “Do not ask that things happen as you wish, but wish them to happen as they do, and your life will go well.” — [Epictetus](../philosophers/epictetus.md), Enchiridion, §8
+
+> “Of desires, some are natural and others vain; and of the natural, some are necessary and others merely natural.” — [Epicurus](../philosophers/epicurus.md), Letter to Menoeceus, 127
+
+> “Of the desires, some are natural and necessary, some natural but not necessary, and some neither natural nor necessary but arising from empty opinion.” — [Epicurus](../philosophers/epicurus.md), Principal Doctrines, XXIX
+
+> “To strive always to master myself rather than fortune, and to change my desires rather than the order of the world.” — [Descartes](../philosophers/descartes.md), Discourse on Method, III
+
+> “This is the noble truth of the origin of suffering: it is this craving which leads to renewed existence.” — [The Buddha](../philosophers/buddha.md), Dhammacakkappavattana Sutta (Saṃyutta Nikāya 56.11)
+
 ## Related axes
 
 [Bodily pleasures](../axes/bodily-pleasures.md) · [Scope of action](../axes/control-scope.md) · [Status of emotions](../axes/emotions.md) · [Freedom of the will](../axes/freedom.md) · [Nature of love](../axes/love-nature.md) · [The highest good](../axes/sovereign-good.md)

@@ -32,13 +32,7 @@
           { "fr": "Platon, Gorgias, 482e-484c (la distinction nature/loi)", "en": "Plato, Gorgias, 482e-484c (the nature/law distinction)" },
           { "fr": "Platon, Gorgias, 483b-d (les faibles font les lois)", "en": "Plato, Gorgias, 483b-d (the weak make the laws)" }
         ],
-        "quote": {
-          "text": {
-            "fr": "La nature démontre qu'il est juste que celui qui vaut mieux ait plus que celui qui vaut moins, et le plus fort que le plus faible.",
-            "en": "Nature herself shows that it is just for the better to have more than the worse, and the more capable than the less."
-          },
-          "source": { "fr": "Platon, Gorgias, 483d", "en": "Plato, Gorgias, 483d" }
-        },
+        "quoteId": "la-nature-demontre-qu-il-est-plato",
         "strength": "STRONG"
       }
     },

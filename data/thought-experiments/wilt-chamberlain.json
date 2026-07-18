@@ -82,5 +82,76 @@
       }
     }
   ],
-  "updatedAt": "2026-06-26T00:00:00.000Z"
+  "roles": [
+    {
+      "role": "OBJECTS",
+      "position": { "axisId": "DISTRIBUTIVE_JUSTICE", "poleId": "EGALITARIANISM" },
+      "attacks": "POSITION",
+      "argumentId": "egalitarianism-natural-lottery",
+      "problems": ["pattern-or-process"],
+      "summary": {
+        "fr": "Maintenir une répartition égale exige d'interdire sans cesse les échanges libres : la liberté défait tout schéma imposé.",
+        "en": "Maintaining an equal distribution requires forbidding free exchanges without end: liberty upsets any imposed pattern."
+      },
+      "reconstruction": {
+        "development": [
+          {
+            "fr": "Partons d'une répartition que l'égalitariste juge parfaitement juste, égale si l'on veut.",
+            "en": "Start from a distribution the egalitarian judges perfectly just, equal if you like."
+          },
+          {
+            "fr": "Chacun, de son plein gré, glisse une petite pièce à qui il admire, un joueur, un artiste ; à la fin, celui-ci est bien plus riche que les autres, sans que personne ait été lésé.",
+            "en": "Each person, of their own free will, slips a small coin to someone they admire, a player, an artist; in the end that person is far richer than the others, without anyone having been wronged."
+          },
+          {
+            "fr": "Si le départ était juste et chaque transfert libre, à quel moment l'injustice serait-elle apparue ? Pour rétablir l'égalité, il faudrait défaire ces échanges, donc interdire aux gens d'user comme ils l'entendent de ce qui leur revient.",
+            "en": "If the starting point was just and each transfer free, at what moment would injustice have arisen? To restore equality, one would have to undo these exchanges, hence forbid people from using as they see fit what is theirs."
+          }
+        ],
+        "conclusion": {
+          "fr": "Donc vouloir maintenir un schéma de répartition, c'est devoir contrôler sans fin la vie des personnes : la liberté défait les schémas.",
+          "en": "So to maintain a pattern of distribution is to have to control people's lives without end: liberty upsets patterns."
+        }
+      },
+      "responses": [
+        {
+          "id": "revise",
+          "label": {
+            "fr": "C'est vrai : tant que le départ et les échanges sont justes, le résultat l'est aussi. Corriger sans fin, ce serait m'interdire de disposer de ce qui m'appartient.",
+            "en": "True: as long as the starting point and the exchanges are just, so is the result. To keep correcting would forbid me from disposing of what is mine."
+          },
+          "hints": [{ "axisId": "DISTRIBUTIVE_JUSTICE", "value": { "kind": "scalar", "value": 0.6 }, "weight": 2 }],
+          "discussion": {
+            "fr": "Vous rejoignez <ph id='nozick'>Nozick</ph> : la justice tient à l'origine des possessions, non à la figure d'ensemble des richesses.",
+            "en": "You join <ph id='nozick'>Nozick</ph>: justice depends on how holdings arose, not on the overall shape of wealth."
+          }
+        },
+        {
+          "id": "qualify",
+          "label": {
+            "fr": "Je ne veux pas figer l'égalité, mais je tiens à ce que nul ne tombe trop bas : peu m'importe l'écart tant que chacun a de quoi vivre dignement.",
+            "en": "I do not want to freeze equality, but I insist that no one falls too low: the gap matters little to me as long as each has the means to live decently."
+          },
+          "hints": [{ "axisId": "DISTRIBUTIVE_JUSTICE", "value": { "kind": "scalar", "value": 0 }, "weight": 1 }],
+          "discussion": {
+            "fr": "Vous glissez vers le suffisantarisme : l'important est le plancher, non l'écart au-dessus.",
+            "en": "You slide toward sufficientarianism: what matters is the floor, not the gap above it."
+          }
+        },
+        {
+          "id": "refute",
+          "label": {
+            "fr": "Ces gestes libres, cumulés, refont des maîtres et des obligés ; une société juste corrige ces écarts en continu, par l'impôt, sans rien « interdire ».",
+            "en": "These free gestures, once they accumulate, remake masters and dependents; a just society corrects such gaps continually, through taxation, without 'forbidding' anything."
+          },
+          "hints": [{ "axisId": "DISTRIBUTIVE_JUSTICE", "value": { "kind": "scalar", "value": -1 }, "weight": 0.5 }],
+          "discussion": {
+            "fr": "Vous tenez la réponse égalitariste : taxer un flux n'interdit aucun échange, il en corrige seulement l'effet cumulé.",
+            "en": "You hold the egalitarian reply: taxing a flow forbids no exchange, it only corrects its accumulated effect."
+          }
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
 }

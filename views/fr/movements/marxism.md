@@ -96,7 +96,7 @@ Sens-direction 93% · Contingence 8%
 
 Le ressort du changement historique est repéré dans une contradiction matérielle : à un certain stade, les forces productives entrent en conflit avec les rapports de production qui les enserrent, et cette tension se résout par une transformation sociale, le plus souvent révolutionnaire. L'histoire cesse alors d'être un chaos d'événements ou l'œuvre des grands hommes : elle obéit à une logique repérable, où chaque mode de production (féodal, bourgeois, communiste) prépare son propre dépassement. C'est tourner contre l'idéalisme de l'histoire (celle de la Providence ou de l'Esprit) une explication tirée de l'économie, et fonder la prévision d'une société sans classes non sur un vœu mais sur une « loi du mouvement social ».
 
-> « L'histoire de toute société jusqu'à nos jours est l'histoire de luttes de classes. » (Marx et Engels, Manifeste du Parti communiste)
+> « L'histoire de toute société jusqu'à nos jours est l'histoire de luttes de classes. », Manifeste du Parti communiste
 
 *Sources : Marx, Contribution à la critique de l'économie politique, préface (1859) · Marx et Engels, Manifeste du Parti communiste (1848)*
 
@@ -118,7 +118,7 @@ Le point de départ n'est pas une idée mais un fait : les hommes doivent d'abor
 
 L'argument part d'une analyse, non d'une indignation : le salaire paie la valeur de la force de travail (ce qu'il faut pour la reproduire), mais l'ouvrier produit davantage que cela, et ce surplus, la plus-value, est capté par le propriétaire des moyens de production. L'exploitation n'est donc pas un abus ni une injustice contingente, mais le mécanisme normal du profit, dissimulé sous l'apparence d'un échange libre et équitable entre salaire et travail. C'est récuser à la fois l'économie politique classique, qui prenait cet échange pour juste, et le libertarianisme de marché : tant que la propriété privée des moyens de production subsiste, l'égalité formelle masque une domination réelle, que seule une société sans classes peut lever.
 
-> « De chacun selon ses capacités, à chacun selon ses besoins. » (Marx, Critique du programme de Gotha)
+> « De chacun selon ses capacités, à chacun selon ses besoins. », Critique du programme de Gotha
 
 *Sources : Marx, Critique du programme de Gotha (1875) · Marx, Le Capital, livre I, section sur la plus-value*
 
@@ -140,7 +140,7 @@ Progressisme 98% · Conservatisme 3%
 
 Si l'exploitation tient à la structure même des rapports de production, alors la réforme ne peut que l'aménager : seul leur renversement la supprime. De là le caractère révolutionnaire du progressisme marxiste, et son refus des autres voies : ni l'attente d'une évolution morale, ni les cités idéales du socialisme utopique, ni la simple critique philosophique ne suffisent, car interpréter le monde le laisse intact. La pensée elle-même n'a de valeur que comme [praxis](../glossary/praxis.md), moment d'une transformation réelle portée par la classe qui n'a « rien à perdre que ses chaînes ». La philosophie cesse d'être contemplation pour devenir une arme, ce que résume la onzième thèse sur Feuerbach.
 
-> « Les philosophes n'ont fait qu'interpréter le monde de différentes manières ; ce qui importe, c'est de le transformer. » (Marx, Thèses sur Feuerbach, XI)
+> « Les philosophes n'ont fait qu'interpréter le monde de différentes manières ; ce qui importe, c'est de le transformer. », Thèses sur Feuerbach, XI
 
 *Sources : Marx, Thèses sur Feuerbach, XI (1845) · Marx et Engels, Manifeste du Parti communiste (1848)*
 
@@ -172,7 +172,7 @@ Athéisme 88% · Théisme 13%
 
 L'athéisme de Marx ne s'arrête pas à nier Dieu : il demande pourquoi les hommes en ont besoin. La religion n'est ni une simple erreur ni une imposture de prêtres, mais à la fois l'expression d'une détresse réelle et la protestation contre elle, une consolation imaginaire qui soulage la souffrance tout en la rendant supportable, donc durable. D'où le déplacement décisif : critiquer le ciel ne sert de rien si l'on ne critique pas la terre, c'est-à-dire les rapports sociaux qui rendent la religion nécessaire. Supprimer l'illusion suppose de supprimer les conditions qui l'appellent, ce qui range le marxisme du côté du matérialisme athée.
 
-> « La religion est le soupir de la créature accablée, l'âme d'un monde sans cœur, l'esprit de conditions dénuées d'esprit. C'est l'opium du peuple. » (Marx, Critique de la philosophie du droit de Hegel, introduction)
+> « La religion est le soupir de la créature accablée, l'âme d'un monde sans cœur, l'esprit de conditions dénuées d'esprit. C'est l'opium du peuple. », Critique de la philosophie du droit de Hegel, introduction
 
 *Sources : Marx, Critique de la philosophie du droit de Hegel, introduction (1844)*
 

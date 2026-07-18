@@ -1,0 +1,9 @@
+{
+  "id": "cette-science-est-la-seule-de-aristotle",
+  "text": { "fr": "Cette science est la seule de toutes qui soit libre, car seule elle est à elle-même sa propre fin.", "en": "This alone of all the sciences is free, for it alone exists for its own sake." },
+  "author": { "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" },
+  "work": "metaphysics-aristotle",
+  "source": { "fr": "Métaphysique, A, 2 (982b)", "en": "Metaphysics, I.2 (982b)" },
+  "anchors": [{ "axisId": "METAPHILOSOPHY" }],
+  "updatedAt": "2026-07-18T00:00:00.000Z"
+}

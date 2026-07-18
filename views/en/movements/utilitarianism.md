@@ -66,7 +66,7 @@ Hard determinism 70% · Free will 30%
 
 Human conduct is governed by two springs, pleasure and pain, a broadly deterministic psychology that allows behavior to be predicted and reformed through sanctions. Responsibility here is no uncaused free will but is reinterpreted in compatibilist terms: utilitarianism attends to the causes that move wills rather than to their supposed spontaneity.
 
-> “Nature has placed mankind under the governance of two sovereign masters, pain and pleasure.” (Bentham, Principles of Morals and Legislation, I)
+> “Nature has placed mankind under the governance of two sovereign masters, pain and pleasure.”, Principles of Morals and Legislation, I
 
 *Sources : Bentham, Introduction to the Principles of Morals and Legislation, I · Mill, A System of Logic, VI*
 
@@ -98,7 +98,7 @@ Consequentialism 100%
 
 Since an action has no worth in itself, only its effect on the world can make it good or bad: all that morally counts is the well-being it creates or destroys. From this ground springs consequentialism, which dismisses together the pure intention of deontology and the excellence of character of [virtue](../glossary/eudaimonism.md) ethics: [Bentham](../philosophers/bentham.md) reduces evaluation to a single measure, the act's tendency to augment or diminish the happiness of the parties concerned, against any rule or tradition claiming an authority independent of outcomes.
 
-> “Nature has placed mankind under the governance of two sovereign masters, pain and pleasure. It is for them alone to point out what we ought to do.” (Bentham, An Introduction to the Principles of Morals and Legislation, ch. 1)
+> “Nature has placed mankind under the governance of two sovereign masters, pain and pleasure. It is for them alone to point out what we ought to do.”, An Introduction to the Principles of Morals and Legislation, ch. 1
 
 *Sources : Bentham, An Introduction to the Principles of Morals and Legislation · Mill, Utilitarianism*
 
@@ -130,7 +130,7 @@ Pathocentrism 90% · Anthropocentrism 10%
 
 Since the good is pleasure and the evil suffering, what grants moral standing can be neither reason nor speech but the capacity to suffer alone: every being with an interest in its pain ceasing counts in the calculus. [Bentham](../philosophers/bentham.md) draws from this criterion a consequence that rationalist moralities refused, the inclusion of animals; Singer reads it as the principle of equal consideration of interests and denounces **speciesism** as a prejudice of the same structure as racism. The moral circle thus widens to all sentient life, by internal consistency rather than by sentiment.
 
-> “The question is not, Can they reason? nor, Can they talk? but, Can they suffer?” (Bentham, An Introduction to the Principles of Morals and Legislation, ch. 17, footnote)
+> “The question is not, Can they reason? nor, Can they talk? but, Can they suffer?”, An Introduction to the Principles of Morals and Legislation, ch. XVII
 
 *Sources : Bentham, An Introduction to the Principles of Morals and Legislation, chapter 17 · Singer, Animal Liberation*
 

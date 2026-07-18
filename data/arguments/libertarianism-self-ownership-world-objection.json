@@ -1,0 +1,81 @@
+{
+  "id": "libertarianism-self-ownership-world-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "DISTRIBUTIVE_JUSTICE", "poleId": "LIBERTARIANISM" },
+  "name": { "fr": "Se posséder n'est pas posséder le monde", "en": "Owning oneself is not owning the world" },
+  "attacks": "REASONING",
+  "claim": {
+    "fr": "M'appartenir ne me donne pas la Terre : nul n'a produit seul les ressources ni la coopération dont sa richesse dépend.",
+    "en": "Owning myself does not hand me the Earth: no one produced alone the resources or the cooperation their wealth depends on."
+  },
+  "summary": {
+    "fr": "L'argument passe de « je me possède » à « je possède les fruits de mon travail ». Mais produire suppose une matière et un monde communs que je n'ai pas créés : la propriété de soi ne s'étend pas d'elle-même à ce qui n'était à personne.",
+    "en": "The argument moves from 'I own myself' to 'I own the fruits of my labor'. But producing presupposes a shared matter and world I did not create: self-ownership does not by itself extend to what belonged to no one."
+  },
+  "development": [
+    {
+      "fr": "L'argument passe de « je me possède » à « je possède les fruits de mon travail », comme si le second découlait du premier.",
+      "en": "The argument moves from 'I own myself' to 'I own the fruits of my labor', as if the second followed from the first."
+    },
+    {
+      "fr": "Mais produire suppose toujours une matière que je n'ai pas créée, la terre, les ressources, et tout un monde d'institutions, de langue et de savoirs hérités, sans quoi mon travail ne vaudrait rien.",
+      "en": "But producing always presupposes a matter I did not create, the land, the resources, and a whole world of institutions, language, and inherited knowledge, without which my labor would be worth nothing."
+    },
+    {
+      "fr": "M'approprier sans limite ces ressources communes, c'est en priver ceux qui s'y trouvaient aussi bien fondés que moi : ma propriété de moi-même ne s'étend pas d'elle-même à ce qui n'était à personne.",
+      "en": "To appropriate these common resources without limit is to deprive those who had as good a claim to them as I did: my ownership of myself does not by itself extend to what belonged to no one."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc de la propriété de soi ne suit pas la propriété pleine de ce qu'on acquiert : une part de toute richesse tient à un monde commun, sur lequel la collectivité garde un titre légitime.",
+    "en": "So full ownership of what one acquires does not follow from ownership of oneself: part of all wealth traces to a common world, over which the collective retains a legitimate title."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": { "fr": "Cohen", "en": "Cohen" },
+    "figures": [{ "name": { "fr": "G. A. Cohen", "en": "G. A. Cohen" }, "kind": "PHILOSOPHER" }],
+    "work": { "fr": "Propriété de soi, liberté et égalité", "en": "Self-Ownership, Freedom, and Equality" },
+    "year": 1995
+  },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est juste : ma richesse doit tout à un monde commun ; il est équitable d'en reverser une part à ceux qui le font tenir.",
+        "en": "Fair enough: my wealth owes everything to a common world; it is only fair to return a share of it to those who keep that world standing."
+      },
+      "hints": [{ "axisId": "DISTRIBUTIVE_JUSTICE", "value": { "kind": "scalar", "value": -0.6 }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous rejoignez l'objection de <ph id='rawls'>Rawls</ph> et de Cohen : la richesse est un produit social, dont le partage relève de la justice.",
+        "en": "You join the objection of <ph id='rawls'>Rawls</ph> and Cohen: wealth is a social product, whose sharing is a matter of justice."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je garde le mérite de ce que je produis, mais j'accorde qu'une part revient au commun : de quoi assurer à chacun un socle décent.",
+        "en": "I keep the merit of what I produce, but grant that a share is owed to the common: enough to secure everyone a decent floor."
+      },
+      "hints": [{ "axisId": "DISTRIBUTIVE_JUSTICE", "value": { "kind": "scalar", "value": 0 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous conjuguez la propriété de soi et un devoir de suffisance, comme les libertariens « de gauche ».",
+        "en": "You combine self-ownership with a duty of sufficiency, like the 'left-libertarians'."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Les ressources ne valent que par le travail qui les met en œuvre ; celui qui défriche crée la valeur. La « part commune » resterait lettre morte sans lui.",
+        "en": "Resources are worth something only through the labor that puts them to work; the one who clears the land creates the value. The 'common share' would stay a dead letter without them."
+      },
+      "hints": [{ "axisId": "DISTRIBUTIVE_JUSTICE", "value": { "kind": "scalar", "value": 1 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous tenez la réplique lockéenne-nozickienne : c'est le travail qui fait la valeur, si bien que le producteur en garde le titre.",
+        "en": "You hold the Lockean-Nozickian reply: it is labor that makes value, so the producer keeps the title to it."
+      }
+    }
+  ],
+  "targets": ["libertarianism-self-ownership"],
+  "problems": ["self-ownership", "liberty-vs-equality"],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
+}

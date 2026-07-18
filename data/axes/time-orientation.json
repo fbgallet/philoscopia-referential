@@ -99,6 +99,196 @@
     "ATTENTION",
     "DEATH",
     "LIFE_MEANING",
-    "PAST_RELATION"
+    "PAST_RELATION",
+    "CONSERVATISM_PROGRESSISM",
+    "FUTURE_GENERATIONS"
+  ],
+  "problems": [
+    {
+      "id": "would-you-live-it-again",
+      "resolution": "SURFACED",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "le temps d'une vie",
+        "en": "the time of a life"
+      },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "sphere": "EXISTENTIAL",
+      "keywords": [
+        { "fr": "éternel retour", "en": "eternal return" },
+        { "fr": "amor fati", "en": "amor fati" }
+      ],
+      "poles": ["PRESENTISM", "PROJECT", "MEMORY_TRANSMISSION"],
+      "anchors": [
+        { "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" }
+      ],
+      "doorways": [{ "axis": "PAST_RELATION" }],
+      "title": {
+        "fr": "Voudriez-vous la revivre ?",
+        "en": "Would you live it again?"
+      },
+      "explicitation": {
+        "fr": "Un démon vous propose de revivre votre vie, identique, à l'infini : la voudriez-vous ? Le test révèle si vous habitez vraiment votre temps, plutôt que de le suspendre à demain ou de le pleurer d'hier.",
+        "en": "A demon offers you to relive your life, identical, endlessly: would you want it? The test reveals whether you truly inhabit your time, rather than hanging it on tomorrow or mourning it as yesterday."
+      },
+      "ref": { "kind": "THOUGHT_EXPERIMENT", "id": "the-eternal-return" }
+    },
+    {
+      "id": "always-deferring-life",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "le temps d'une vie",
+        "en": "the time of a life"
+      },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "sphere": "EXISTENTIAL",
+      "keywords": [
+        { "fr": "brièveté de la vie", "en": "the shortness of life" },
+        { "fr": "« on ne vit jamais »", "en": "\"we never live\"" },
+        { "fr": "remettre à demain", "en": "putting off until tomorrow" }
+      ],
+      "poles": ["PRESENTISM", "PROJECT"],
+      "anchors": [
+        { "name": { "fr": "Sénèque", "en": "Seneca" }, "kind": "PHILOSOPHER", "slug": "seneca" },
+        { "name": { "fr": "Pascal", "en": "Pascal" }, "kind": "PHILOSOPHER", "slug": "pascal" },
+        { "name": { "fr": "Sartre", "en": "Sartre" }, "kind": "PHILOSOPHER", "slug": "sartre" }
+      ],
+      "doorways": [{ "axis": "ATTENTION" }],
+      "title": {
+        "fr": "Vivre, ou se préparer à vivre",
+        "en": "Living, or preparing to live"
+      },
+      "explicitation": {
+        "fr": "On remet sans cesse de vivre à un avenir qui, souvent, ne vient pas : la vie s'écoule pendant qu'on la prépare. Mais à ne plus rien projeter, à renoncer à tout but, ne perd-on pas ce qui donne à l'existence une direction et un élan ?",
+        "en": "We keep deferring living to a future that, often, never comes: life flows away while we prepare it. Yet if we project nothing, if we give up every goal, do we not lose what gives existence a direction and an impetus?"
+      }
+    },
+    {
+      "id": "is-there-a-present",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "l'instant présent",
+        "en": "the present instant"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "la durée", "en": "duration" },
+        { "fr": "l'instant", "en": "the instant" },
+        { "fr": "rétention", "en": "retention" }
+      ],
+      "poles": ["PRESENTISM"],
+      "anchors": [
+        { "name": { "fr": "Augustin", "en": "Augustine" }, "kind": "PHILOSOPHER", "slug": "augustine" },
+        { "name": { "fr": "Bergson", "en": "Bergson" }, "kind": "PHILOSOPHER", "slug": "bergson" },
+        { "name": { "fr": "Husserl", "en": "Husserl" }, "kind": "PHILOSOPHER", "slug": "husserl" }
+      ],
+      "title": {
+        "fr": "Y a-t-il un présent où se tenir ?",
+        "en": "Is there a present to stand in?"
+      },
+      "explicitation": {
+        "fr": "L'instant est un fil de rasoir : le passé n'est plus, l'avenir pas encore, et le présent lui-même n'a aucune durée. « Cueille le jour » repose-t-il alors sur une illusion, ou le temps vécu est-il un flux continu qui porte sans cesse le passé dans le présent ?",
+        "en": "The instant is a razor's edge: the past no longer is, the future not yet, and the present itself has no duration. Does \"seize the day\" then rest on an illusion, or is lived time a continuous flow that ceaselessly carries the past into the present?"
+      }
+    },
+    {
+      "id": "the-weight-of-heritage",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "ce que nous avons reçu",
+        "en": "what we have received"
+      },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "sphere": "EXISTENTIAL",
+      "keywords": [
+        { "fr": "héritage", "en": "heritage" },
+        { "fr": "tradition", "en": "tradition" },
+        { "fr": "le fardeau de l'histoire", "en": "the burden of history" }
+      ],
+      "poles": ["MEMORY_TRANSMISSION"],
+      "anchors": [
+        { "name": { "fr": "Burke", "en": "Burke" }, "kind": "PHILOSOPHER", "slug": "burke" },
+        { "name": { "fr": "Confucius", "en": "Confucius" }, "kind": "PHILOSOPHER", "slug": "confucius" },
+        { "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" },
+        { "name": { "fr": "Paine", "en": "Paine" }, "kind": "PHILOSOPHER", "slug": "paine" }
+      ],
+      "doorways": [{ "axis": "PAST_RELATION" }, { "axis": "CONSERVATISM_PROGRESSISM" }],
+      "title": {
+        "fr": "Le poids de l'héritage",
+        "en": "The weight of heritage"
+      },
+      "explicitation": {
+        "fr": "Nous sommes des héritiers : la fidélité aux racines, aux dettes, aux morts fait-elle la profondeur d'une vie, ou une chaîne qui enferme les vivants dans un passé révolu ? Car trop de mémoire, aussi, peut paralyser.",
+        "en": "We are heirs: does fidelity to roots, to debts, to the dead make the depth of a life, or a chain that shuts the living inside a past that is over? For too much memory, too, can paralyze."
+      }
+    },
+    {
+      "id": "building-for-those-after",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "ceux qui viendront",
+        "en": "those who will come"
+      },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "sphere": "EXISTENTIAL",
+      "keywords": [
+        { "fr": "générations futures", "en": "future generations" },
+        { "fr": "transmission", "en": "transmission" },
+        { "fr": "natalité", "en": "natality" }
+      ],
+      "poles": ["PROJECT", "MEMORY_TRANSMISSION"],
+      "anchors": [
+        { "name": { "fr": "Arendt", "en": "Arendt" }, "kind": "PHILOSOPHER", "slug": "arendt" },
+        { "name": { "fr": "Jonas", "en": "Jonas" }, "kind": "PHILOSOPHER", "slug": "jonas" },
+        { "name": { "fr": "Burke", "en": "Burke" }, "kind": "PHILOSOPHER", "slug": "burke" }
+      ],
+      "doorways": [
+        { "axis": "FUTURE_GENERATIONS", "problem": "the-absent-claimant" },
+        { "axis": "DEATH", "problem": "symbolic-immortality" }
+      ],
+      "title": {
+        "fr": "Pour qui bâtir après soi ?",
+        "en": "For whom to build after oneself?"
+      },
+      "explicitation": {
+        "fr": "Planter un arbre dont on ne verra pas l'ombre : devons-nous quelque chose à ceux qui viendront, qui n'ont rien fait pour nous ? La transmission tourne le présent vers un avenir qui nous dépasse.",
+        "en": "To plant a tree whose shade you will never sit under: do we owe anything to those who will come, who have done nothing for us? Transmission turns the present toward a future that outlasts us."
+      }
+    },
+    {
+      "id": "regret-and-nostalgia",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "son propre passé",
+        "en": "one's own past"
+      },
+      "mode": "PRESCRIPTIVE",
+      "relation": "RELATED",
+      "sphere": "EXISTENTIAL",
+      "keywords": [
+        { "fr": "regret", "en": "regret" },
+        { "fr": "nostalgie", "en": "nostalgia" },
+        { "fr": "l'âge d'or", "en": "the golden age" }
+      ],
+      "doorways": [{ "axis": "PAST_RELATION" }],
+      "title": {
+        "fr": "Le regret et la nostalgie",
+        "en": "Regret and nostalgia"
+      },
+      "explicitation": {
+        "fr": "On peut vivre tourné vers un passé perdu : le regret de ce qui fut, la nostalgie d'un âge d'or. Est-ce honorer ce qui nous a faits, ou déserter le présent pour un pays qui n'existe plus ?",
+        "en": "One can live turned toward a lost past: regret for what was, nostalgia for a golden age. Is it honoring what made us, or deserting the present for a country that no longer exists?"
+      }
+    }
   ]
 }

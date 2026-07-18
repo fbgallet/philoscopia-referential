@@ -34,7 +34,7 @@ Déterminisme dur 98% · Libre arbitre 3%
 
 Si tout découle de la nature de Dieu avec la même [nécessité](../glossary/determinism.md) que les propriétés du triangle découlent de son essence, aucune volonté ne saurait s'en excepter. L'argument explique du même coup l'illusion du [libre arbitre](../glossary/free-will.md) : telle une pierre lancée qui se croirait libre, nous avons conscience de nos désirs mais ignorons les causes qui les déterminent.
 
-> « Une pierre reçoit d'une cause extérieure qui la pousse une certaine quantité de mouvement... Concevez maintenant que cette pierre, tandis qu'elle continue de se mouvoir, pense et sache qu'elle fait effort, autant qu'elle peut, pour se mouvoir. Cette pierre, assurément, puisqu'elle n'a conscience que de son effort, croira être tout à fait libre. » (Lettre 58 à Schuller)
+> « Une pierre reçoit d'une cause extérieure qui la pousse une certaine quantité de mouvement... Concevez maintenant que cette pierre, tandis qu'elle continue de se mouvoir, pense et sache qu'elle fait effort, autant qu'elle peut, pour se mouvoir. Cette pierre, assurément, puisqu'elle n'a conscience que de son effort, croira être tout à fait libre. », Lettre 58 à Schuller
 
 *Sources : Éthique, I, prop. 29 et appendice · Lettre 58 à Schuller (la pierre qui se croit libre)*
 
@@ -56,7 +56,7 @@ Théisme 75% · Athéisme 25%
 
 Dieu existe nécessairement, mais ce n'est pas le Dieu personnel et transcendant du théisme classique : c'est la substance unique, infinie, identique à la Nature (panthéisme). Sans providence ni volonté anthropomorphe, ce Dieu est si éloigné du théisme courant que Spinoza fut accusé d'athéisme ; d'où une valeur intermédiaire du côté du théisme, qui marque l'affirmation d'un Dieu tout en signalant sa nature impersonnelle.
 
-> « Tout ce qui est, est en Dieu, et rien ne peut sans Dieu être ni être conçu. » (Éthique, I, prop. 15)
+> « Tout ce qui est, est en Dieu, et rien ne peut sans Dieu être ni être conçu. », Éthique, I, prop. 15
 
 *Sources : Éthique, I, prop. 11 (Dieu existe nécessairement) · Éthique, I, prop. 15 et 14 (substance unique)*
 
@@ -68,7 +68,7 @@ Rationalisme 93% · Empirisme 7%
 
 La connaissance vraie procède des [idées adéquates](../glossary/adequate-idea.md) par enchaînement déductif, non de l'expérience sensible, source d'idées confuses (premier genre de connaissance). Le sommet est le troisième genre de connaissance, la science intuitive, qui saisit les choses dans leur nécessité à partir de l'essence de Dieu : c'est un [rationalisme](../axes/knowledge-source.md) assumé.
 
-> « Ce genre de connaissance procède de l'idée adéquate de l'essence formelle de certains attributs de Dieu à la connaissance adéquate de l'essence des choses. » (Éthique, II, prop. 40, scolie 2)
+> « Ce genre de connaissance procède de l'idée adéquate de l'essence formelle de certains attributs de Dieu à la connaissance adéquate de l'essence des choses. », Éthique, II, prop. 40, scolie 2
 
 *Sources : Éthique, II, prop. 40, scolie 2 (les trois genres de connaissance) · Traité de la réforme de l'entendement*
 
@@ -90,7 +90,7 @@ Affirmation 70% · Tri raisonné 30%
 
 Chaque chose, comme mode fini de la puissance de Dieu, tend à persévérer dans son être : ce [conatus](../glossary/conatus.md) est son essence actuelle. Le désir n'est donc pas un manque à combler, contre toute une tradition platonicienne, mais l'affirmation même de notre être ; la sagesse ne l'éteint pas, elle sélectionne par la raison ce qui accroît la [puissance d'agir](../glossary/joy.md).
 
-> « Le désir est l'essence même de l'homme, en tant qu'on la conçoit comme déterminée à faire quelque chose par une affection donnée d'elle-même. » (Éthique, III, définitions des affects, déf. 1)
+> « Le désir est l'essence même de l'homme, en tant qu'on la conçoit comme déterminée à faire quelque chose par une affection donnée d'elle-même. », Éthique, III, définitions des affects, déf. 1
 
 *Sources : Éthique, III, prop. 9, scolie et définitions des affects (le désir, essence de l'homme) · Éthique, III, prop. 6-7 (conatus)*
 
@@ -102,7 +102,7 @@ Eudémonisme 50% · Vertu / perfectionnisme moral 40% · Hédonisme 10%
 
 Le sommet de la connaissance, le troisième genre, saisit les choses en Dieu ; cette [connaissance adéquate](../glossary/adequate-idea.md) engendre nécessairement une joie rapportée à sa cause, l'[amour intellectuel de Dieu](../glossary/intellectual-love-of-god.md). D'où le renversement propre à Spinoza : « la béatitude n'est pas le prix de la vertu, mais la vertu même », car connaître adéquatement, c'est déjà être puissant et libre.
 
-> « La béatitude n'est pas le prix de la vertu, mais la vertu même. » (Éthique, V, prop. 42)
+> « La béatitude n'est pas le prix de la vertu, mais la vertu même. », Éthique, V, proposition 42, scolie
 
 *Sources : Éthique, V, prop. 32-36 (amour intellectuel de Dieu, béatitude) · Éthique, V, prop. 42 (la béatitude n'est pas le prix de la vertu mais la vertu même)*
 
@@ -114,7 +114,7 @@ Intellectualisme 70% · Sentimentalisme 30%
 
 Puisque les affects suivent de la nécessité naturelle au même titre que tout le reste, les blâmer est vain : Spinoza propose de les traiter « comme s'il était question de lignes et de plans ». Son argument thérapeutique est précis : une passion est une idée confuse, donc une passivité ; en former une [idée claire](../glossary/adequate-idea.md) la convertit en action, si bien que comprendre un affect, c'est déjà s'en affranchir, non le réprimer.
 
-> « Je traiterai des actions et des appétits humains comme s'il était question de lignes, de plans et de corps. » (Éthique, III, préface)
+> « Je traiterai des actions et des appétits humains comme s'il était question de lignes, de plans et de corps. », Éthique, III, préface
 
 *Sources : Éthique, III, préface (étudier les affects géométriquement) · Éthique, V, prop. 3 (un affect dont on forme une idée claire cesse d'être passion)*
 
@@ -126,7 +126,7 @@ Amor fati 93% · Révolte 8%
 
 Comprendre que tout arrive par [nécessité](../glossary/determinism.md) diminue le pouvoir des passions tristes sur l'esprit : nous nous affligeons moins de ce que nous savons inévitable. Cette acceptation sereine de la nécessité préfigure [l'amor fati](../glossary/amor-fati.md), sans révolte contre ce qui doit être.
 
-> « J'ai pris grand soin de ne pas tourner en dérision les actions humaines, de ne pas les déplorer, de ne pas les détester, mais de les comprendre. » (Traité politique, I, 4)
+> « J'ai pris grand soin de ne pas tourner en dérision les actions humaines, de ne pas les déplorer, de ne pas les détester, mais de les comprendre. », Traité politique, I, 4
 
 *Sources : Éthique, V, prop. 6 (l'esprit pâtit moins des affects qu'il rapporte à la nécessité)*
 
@@ -298,7 +298,7 @@ Philia (amitié) 60% · Agapè-don 25% · Éros-manque 15%
 
 Au fond de l'amour, Spinoza ne voit ni manque ni don mais une joie : aimer, c'est passer à une plus grande perfection, joie rapportée à l'idée de sa cause (*[Éthique](../works/ethics-spinoza.md)*, III). L'amour n'est donc pas l'élan d'un vide vers ce qui le comblerait, mais l'effort (conatus) de la puissance vers ce qui l'accroît, ce qui garde un air de parenté avec l'[éros](../glossary/eros.md) sans en avoir le pathos du manque. Entre les hommes, cet effort culmine dans l'amitié des êtres guidés par la raison, qui s'accordent en nature, se sont mutuellement utiles et ne veulent rien pour eux qu'ils ne veuillent aussi pour autrui : une [philia](../glossary/philia.md) rationnelle, réciproque et choisie. Au sommet, l'[amour intellectuel de Dieu](../glossary/intellectual-love-of-god.md) excède tout lien interpersonnel : amour sans retour où le sage n'exige pas d'être aimé en retour, il tient du don désintéressé plus que de la possession.
 
-> « Qui aime Dieu ne peut faire effort pour que Dieu l'aime en retour. » (Éthique, V, prop. 19)
+> « Qui aime Dieu ne peut faire effort pour que Dieu l'aime en retour. », Éthique, V, prop. 19
 
 *Sources : Éthique, III (définition de l'amour) ; IV, prop. 35-37 et 70-71 (l'amitié des hommes raisonnables) ; V, prop. 19 et 32-37 (l'amour intellectuel de Dieu)*
 

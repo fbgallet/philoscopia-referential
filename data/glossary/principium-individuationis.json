@@ -1,0 +1,36 @@
+{
+  "id": "principium-individuationis",
+  "term": {
+    "fr": "Principium individuationis",
+    "en": "Principium individuationis"
+  },
+  "aliases": {
+    "fr": [
+      "principe d'individuation"
+    ],
+    "en": [
+      "principle of individuation"
+    ]
+  },
+  "definition": {
+    "fr": "Le principium individuationis, <ety>« principe d'individuation » en latin scolastique</ety>, désigne ce qui fait qu'un être est cet individu-ci, distinct de tout autre. <ph id='schopenhauer'>Schopenhauer</ph> reprend l'expression pour nommer l'espace et le temps : ce sont eux qui morcellent l'unique <c id='vouloir-vivre'>Volonté</c> en une multitude d'êtres apparemment séparés. La séparation des individus n'est donc qu'un effet de notre manière de connaître, un voile de <c id='maya'>māyā</c> ; la <c id='compassion'>compassion</c> est l'expérience morale par laquelle ce voile se déchire.",
+    "en": "The principium individuationis, <ety>'principle of individuation' in scholastic Latin</ety>, names what makes a being this particular individual, distinct from every other. <ph id='schopenhauer'>Schopenhauer</ph> takes up the phrase to name space and time: it is they that parcel the single <c id='vouloir-vivre'>Will</c> into a multitude of apparently separate beings. The separateness of individuals is thus only an effect of our way of knowing, a veil of <c id='maya'>māyā</c>; <c id='compassion'>compassion</c> is the moral experience in which this veil tears."
+  },
+  "relatedAxes": [
+    "SELF_NATURE",
+    "MORAL_CIRCLE",
+    "EMOTIONS"
+  ],
+  "relatedTerms": [
+    "maya",
+    "vouloir-vivre",
+    "compassion"
+  ],
+  "positions": [
+    {
+      "axisId": "SELF_NATURE",
+      "poleId": "BUNDLE_THEORY"
+    }
+  ],
+  "updatedAt": "2026-07-13T00:00:00.000Z"
+}

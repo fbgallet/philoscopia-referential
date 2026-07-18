@@ -105,16 +105,7 @@
           }
         ],
         "strength": "STRONG",
-        "quote": {
-          "text": {
-            "fr": "Je ne sais pas si ce monde a un sens qui le dépasse. Mais je sais que je ne connais pas ce sens et qu'il m'est impossible pour le moment de le connaître.",
-            "en": "I do not know whether this world has a meaning that transcends it. But I know that I do not know that meaning and that it is impossible for me just now to know it."
-          },
-          "source": {
-            "fr": "Le Mythe de Sisyphe",
-            "en": "The Myth of Sisyphus"
-          }
-        }
+        "quoteId": "je-ne-sais-pas-si-ce-camus"
       }
     },
     {
@@ -146,16 +137,7 @@
             "en": "The Rebel (1951)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Il faut imaginer Sisyphe heureux.",
-            "en": "One must imagine Sisyphus happy."
-          },
-          "source": {
-            "fr": "Le Mythe de Sisyphe (1942)",
-            "en": "The Myth of Sisyphus (1942)"
-          }
-        },
+        "quoteId": "il-faut-imaginer-sisyphe-heureux-camus",
         "strength": "STRONG"
       }
     },
@@ -283,16 +265,7 @@
             "en": "The Rebel (1951)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Je me révolte, donc nous sommes.",
-            "en": "I rebel, therefore we are."
-          },
-          "source": {
-            "fr": "L'Homme révolté (1951)",
-            "en": "The Rebel (1951)"
-          }
-        },
+        "quoteId": "je-me-revolte-donc-nous-sommes-camus",
         "strength": "STRONG"
       }
     },
@@ -488,16 +461,7 @@
           }
         ],
         "strength": "MEDIUM",
-        "quote": {
-          "text": {
-            "fr": "Il s'agit de mourir irréconcilié et non pas de plein gré.",
-            "en": "What matters is to die unreconciled and not of one's own free will."
-          },
-          "source": {
-            "fr": "Le Mythe de Sisyphe",
-            "en": "The Myth of Sisyphus"
-          }
-        }
+        "quoteId": "il-s-agit-de-mourir-irreconcilie-camus"
       }
     },
     {

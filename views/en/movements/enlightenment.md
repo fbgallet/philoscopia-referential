@@ -46,7 +46,7 @@ Scientism 78% · Epistemic pluralism 22%
 
 The model is the physics of Newton: a handful of mathematical laws accounts for the whole system of the world, with no occult qualities or providential ends. The Enlightenment turns this success into a universal method; what experimental reason has done for the heavens it can do for morals, politics and religion. No authority, tradition, custom or revelation is exempt from examination; everything must appear before the tribunal of reason. This is not yet the scientism of [Comte](../philosophers/comte.md), which will make positive science the only knowledge, but science here becomes the paradigm of legitimate knowledge and the lever of emancipation.
 
-> “Sapere aude! Have the courage to use your own understanding: that is the motto of the Enlightenment.” (Kant, What Is Enlightenment? (1784))
+> “Sapere aude! Have courage to use your own understanding: this is the motto of the Enlightenment.”, An Answer to the Question: What Is Enlightenment?
 
 *Sources : Kant, What Is Enlightenment? · d'Alembert, Preliminary Discourse to the Encyclopédie*
 
@@ -108,7 +108,7 @@ Progressivism 90% · Conservatism 10%
 
 From the accumulation of knowledge and the spread of enlightenment the current draws a new thesis: humanity advances, and that march can be conscious and willed. Institutions and laws are not sacred merely for being old; they must prove their present usefulness, failing which reform is legitimate. [Condorcet](../philosophers/condorcet.md) pushes the idea to a law of history, the human mind progressing by stages toward truth, liberty and happiness. Against this creed [Burke](../philosophers/burke.md) will set the accumulated wisdom of tradition: this is the birth certificate of the divide between progressivism and conservatism.
 
-> “The perfectibility of man is truly indefinite; and the progress of this perfectibility has no other limit than the duration of the globe on which nature has placed us.” (Condorcet, Sketch for a Historical Picture of the Progress of the Human Mind (1795))
+> “The perfectibility of man is truly indefinite; and the progress of this perfectibility has no other limit than the duration of the globe on which nature has placed us.”, Sketch for a Historical Picture of the Progress of the Human Mind (1795)
 
 *Sources : Condorcet, Sketch for a Historical Picture of the Progress of the Human Mind · Turgot, On the Successive Advances of the Human Mind*
 
@@ -130,7 +130,7 @@ Natural rights 70% · Rights from utility 15% · Political constructivism 10% ·
 
 Prior to all society and all positive law, man possesses as his own, by the mere fact of his rational nature, rights that no power has conferred and that none may legitimately abolish: to life, to liberty, to the property of his own person. [Locke](../philosophers/locke.md) makes them the measure of every government, instituted only to secure them. These rights are universal because they flow from a common humanity, not from the privileges of an order or a birth: this is the weapon against absolutism and the society of estates, which the Declaration of 1789 will inscribe into law, « “men are born and remain free and equal in rights” ». [Bentham](../philosophers/bentham.md), from within the century, will nonetheless object that a right without positive law is mere « nonsense upon stilts ».
 
-> “Being all equal and independent, no one ought to harm another in his life, health, liberty, or possessions.” (Locke, Second Treatise of Government, §6)
+> “Being all equal and independent, no one ought to harm another in his life, health, liberty, or possessions.”, Second Treatise of Government, §6
 
 *Sources : Locke, Two Treatises of Government, II · Declaration of the Rights of Man and of the Citizen (1789)*
 
@@ -152,7 +152,7 @@ Contractualism 90% · Organic community 10%
 
 Political society is not a natural order or one willed by God, but a human institution born of the agreement of individuals: its sole source of legitimacy is the consent of the governed, not force, tradition or the divine right of kings. [Locke](../philosophers/locke.md) makes it a revocable pact that the people may renounce if power betrays its end; [Rousseau](../philosophers/rousseau.md) seeks the form in which, uniting with all, each « still obeys only himself » and remains free. Against this founding fiction [Burke](../philosophers/burke.md) will set the organic community, inherited rather than contracted: but it is contractualism that gives the age of revolutions its grammar of legitimacy.
 
-> “Man is born free, and everywhere he is in chains.” (Rousseau, The Social Contract (1762), I, 1)
+> “Man is born free, and everywhere he is in chains.”, The Social Contract (1762), I, 1
 
 *Sources : Rousseau, The Social Contract · Locke, Two Treatises of Government, II*
 

@@ -44,7 +44,7 @@ What is up to us 95% · Prometheanism 5%
 
 The root of all unhappiness, Epictetus argues, is to expect one's happiness from things that are not in our power. Hence the opening move of the *[Enchiridion](../works/enchiridion-epictetus.md)*: sorting our concerns into two classes by the single criterion of mastery, what is wholly up to us (judgments, desires, aversions) and what is not (body, goods, reputation). The [dichotomy](../glossary/dichotomy-of-control.md) is not one thesis among others but the operation that conditions everything that follows: all disturbance arises from having claimed a hold on what eludes us. Where the older Stoics dwelt on cosmic fate, Epictetus brings the division down to the concrete use, here and now, of what is properly mine.
 
-> “Some things are within our power, while others are not.” (Enchiridion, §1)
+> “Some things are within our power, while others are not.”, Enchiridion, §1
 
 *Sources : Enchiridion, §1 · Discourses, I.1*
 
@@ -76,7 +76,7 @@ Extinction and detachment 80% · Reasoned selection 20%
 
 Desire and aversion aim at attaining or avoiding: directed at what is not up to us, they doom us to miss our aim and to suffer what we flee, hence to unhappiness. The first of the three disciplines, that of desire, is to withdraw them from everything external so as to desire only what is in our power, until progress makes desire safe. For the beginner Epictetus goes so far as to recommend suspending desire altogether and using only aversion, and that solely toward what depends on us. A reasoned sorting of the preferred [indifferents](../glossary/adiaphora.md) remains in the background, but the lived tendency is detachment from all that fortune can take back.
 
-> “Do not ask that things happen as you wish, but wish them to happen as they do, and your life will go well.” (Enchiridion, §8)
+> “Do not ask that things happen as you wish, but wish them to happen as they do, and your life will go well.”, Enchiridion, §8
 
 *Sources : Enchiridion, §2 · Enchiridion, §8*
 
@@ -98,7 +98,7 @@ Intellectualism 90% · Sentimentalism 10%
 
 Every passion contains a value judgment about some external thing, of the form "this is bad": it is that judgment, not the event, that constitutes the disturbance. The decisive step is to charge the passion to opinion rather than to the thing: if an emotion rests on a judgment, and a judgment can be revised, then no passion is suffered as a fate, all are correctable by reason. Epictetus draws an unusual ethical corollary: never to blame others or circumstances for our distress, but the use we make of our [impressions](../glossary/phantasia.md). Anger, grief and fear are not alien forces to be subdued but hasty assents to be withdrawn.
 
-> “Men are disturbed not by things, but by the opinions about things.” (Enchiridion, §5)
+> “Men are disturbed not by things, but by the opinions about things.”, Enchiridion, §5
 
 *Sources : Enchiridion, §5*
 
@@ -200,7 +200,7 @@ Fecundity and redemption 80% · Abolitionism 20%
 
 Hardship has the value of training: difficulties are the opponents [providence](../glossary/providence.md) sends us to reveal and strengthen our character, as for the athlete. Suffering, rightly used, is fruitful.
 
-> “It is difficulties that show what men are.” (Discourses, I.24)
+> “It is difficulties that show what men are.”, Discourses, I.24
 
 *Sources : Discourses, I.24 (How to struggle against difficulties) · Discourses, I.6*
 
@@ -232,7 +232,7 @@ Truthful rigorism 85% · Benevolent lying permitted 15%
 
 The one making progress must be of unfailing integrity, matching deeds to judgments and not adorning oneself with what one is not. This demand for inner consistency leans clearly toward a rigorism of truthfulness.
 
-> “On no occasion call yourself a philosopher: be one.” (Enchiridion, §46)
+> “On no occasion call yourself a philosopher: be one.”, Enchiridion, §46
 
 *Sources : Enchiridion, §46 · Enchiridion, §48*
 

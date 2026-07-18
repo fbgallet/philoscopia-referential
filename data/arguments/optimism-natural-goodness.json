@@ -1,0 +1,43 @@
+{
+  "id": "optimism-natural-goodness",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "HUMAN_VISION", "poleId": "ANTHROPOLOGICAL_OPTIMISM" },
+  "name": { "fr": "L'homme est bon, la société le corrompt", "en": "Man is good, society corrupts him" },
+  "claim": {
+    "fr": "L'homme naît bon ; ce sont les inégalités et les rivalités sociales qui éveillent en lui la méchanceté.",
+    "en": "Man is born good; it is social inequalities and rivalries that awaken wickedness in him."
+  },
+  "summary": {
+    "fr": "À l'état de nature, l'homme n'a que l'amour de soi et la pitié, dont aucun ne rend méchant. La méchanceté suppose la comparaison, l'amour-propre, qui naît avec la vie sociale et l'inégalité : ce qu'on prend pour une nature mauvaise est l'effet d'une histoire.",
+    "en": "In the state of nature, man has only self-love and pity, neither of which makes him wicked. Wickedness presupposes comparison, amour-propre, which arises with social life and inequality: what is taken for an evil nature is the effect of a history."
+  },
+  "development": [
+    {
+      "fr": "À l'état de nature, avant la société, l'homme n'a que deux ressorts : l'amour de soi, le soin de sa conservation, et la pitié, la répugnance à voir souffrir son semblable. Ni l'un ni l'autre ne rend méchant : la pitié, au contraire, retient de nuire à autrui.",
+      "en": "In the state of nature, before society, man has only two springs: self-love, the care of his own preservation, and pity, the reluctance to see a fellow creature suffer. Neither of the two makes him wicked: pity, on the contrary, holds him back from harming others."
+    },
+    {
+      "fr": "La méchanceté, l'envie, la cruauté, la soif de dominer, suppose la comparaison : il faut se mesurer aux autres, vouloir être préféré, pour vouloir leur nuire. Or cette comparaison, l'<kw>amour-propre</kw>, naît avec la vie sociale, la propriété, l'inégalité.",
+      "en": "Wickedness, envy, cruelty, the thirst to dominate, presupposes comparison: one must measure oneself against others, wish to be preferred, in order to wish them harm. Now this comparison, <kw>amour-propre</kw>, arises with social life, property, inequality."
+    },
+    {
+      "fr": "Là où l'on croit voir une nature mauvaise, on voit en réalité l'effet d'une histoire : des institutions injustes ont dressé les hommes les uns contre les autres.",
+      "en": "Where one thinks one sees an evil nature, one is really seeing the effect of a history: unjust institutions have set men against one another."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc le mal n'est pas au fond de l'homme mais dans la société qui l'a défiguré : rendre les hommes meilleurs, c'est <ax id='POLITICAL_IDEAL' pole='UTOPIANISM'>réformer les conditions</ax> qui les corrompent, non dompter une nature perverse.",
+    "en": "So evil is not in the depths of man but in the society that has disfigured him: to make men better is to <ax id='POLITICAL_IDEAL' pole='UTOPIANISM'>reform the conditions</ax> that corrupt them, not to tame a perverse nature."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": { "fr": "Rousseau", "en": "Rousseau" },
+    "figures": [{ "name": { "fr": "Rousseau", "en": "Rousseau" }, "kind": "PHILOSOPHER", "slug": "rousseau" }],
+    "work": { "fr": "Discours sur l'origine de l'inégalité", "en": "Discourse on the Origin of Inequality" },
+    "workId": "discourse-on-inequality-rousseau",
+    "year": 1755
+  },
+  "testThoughtExperiment": "milgram",
+  "problems": ["origin-of-evil", "obedience-and-evil"],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

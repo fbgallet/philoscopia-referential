@@ -74,7 +74,7 @@ Dogmatisme 60% · Scepticisme 40%
 
 Contre tout relativisme, Sartre maintient qu'il faut un point de départ absolu, et qu'il n'en est pas d'autre que le cogito : la conscience qui se saisit elle-même, immédiate et à la portée de tous. Mais cette certitude est étroite : elle livre l'existence du sujet, non une essence, une nature humaine ou des valeurs, qui toutes font défaut puisque **l'existence précède l'essence**. Fondationnaliste sur ce seul point d'appui et démuni de toute autre certitude donnée, Sartre se tient près du partage, côté assurance par le cogito, côté vertige pour tout le reste.
 
-> « Il ne peut y avoir de vérité autre, au point de départ, que celle-ci : je pense, donc je suis, c'est là la vérité absolue de la conscience s'atteignant elle-même. » (L'existentialisme est un humanisme)
+> « Il ne peut y avoir de vérité autre, au point de départ, que celle-ci : je pense, donc je suis, c'est là la vérité absolue de la conscience s'atteignant elle-même. », L'existentialisme est un humanisme
 
 *Sources : L'existentialisme est un humanisme · L'Être et le Néant, Introduction (le cogito préréflexif)*
 
@@ -86,7 +86,7 @@ Existentialisme 100%
 
 Pour un objet fabriqué, le coupe-papier, l'essence (le concept de l'artisan) précède l'existence ; la tradition pensait l'homme de même, créé selon une **nature humaine** conçue par Dieu. Ôtez le créateur, et l'ordre s'inverse pour l'homme seul : il existe d'abord, sans définition préalable, et c'est de n'être d'abord rien qu'il tire l'entière responsabilité de se faire.
 
-> « L'homme existe d'abord, se rencontre, surgit dans le monde, et qu'il se définit après. L'homme, tel que le conçoit l'existentialiste, s'il n'est pas définissable, c'est qu'il n'est d'abord rien. Il ne sera qu'ensuite, et il sera tel qu'il se sera fait. » (L'existentialisme est un humanisme)
+> « L'homme existe d'abord, se rencontre, surgit dans le monde, et qu'il se définit après. L'homme, tel que le conçoit l'existentialiste, s'il n'est pas définissable, c'est qu'il n'est d'abord rien. Il ne sera qu'ensuite, et il sera tel qu'il se sera fait. », L'existentialisme est un humanisme
 
 *Sources : L'existentialisme est un humanisme (1946) · L'Être et le Néant, Introduction et 1re partie (le pour-soi)*
 
@@ -98,7 +98,7 @@ Libre arbitre 95% · Déterminisme dur 5%
 
 La liberté n'est pas une propriété de l'homme mais le mode d'être de la conscience : le pour-soi néantise toute situation, qui ne le détermine donc jamais et ne prend sens qu'à la lumière de son projet. Même les obstacles, même la facticité (corps, passé, situation), ne sont des limites que pour une liberté qui les vise ; « condamné », l'homme l'est parce qu'il n'a pas choisi d'être libre et ne peut pourtant pas ne pas choisir.
 
-> « L'homme est condamné à être libre. Condamné, parce qu'il ne s'est pas créé lui-même, et par ailleurs cependant libre, parce qu'une fois jeté dans le monde, il est responsable de tout ce qu'il fait. » (L'existentialisme est un humanisme)
+> « L'homme est condamné à être libre. Condamné, parce qu'il ne s'est pas créé lui-même, et par ailleurs cependant libre, parce qu'une fois jeté dans le monde, il est responsable de tout ce qu'il fait. », L'existentialisme est un humanisme
 
 *Sources : L'Être et le Néant, 4e partie, ch. 1 (être et faire : la liberté) · L'existentialisme est un humanisme (l'homme est condamné à être libre)*
 
@@ -110,7 +110,7 @@ Athéisme 100%
 
 Sartre est résolument athée : son [existentialisme](../movements/existentialism.md) se définit comme la tentative de tirer toutes les conséquences d'une position athée cohérente. Si Dieu n'existe pas, il n'y a aucun artisan divin pour avoir conçu une **essence** de l'homme, et donc aucune valeur inscrite dans un ciel intelligible : tout est à inventer. L'absence de Dieu n'est pas regrettée, elle est le point de départ assumé.
 
-> « L'existentialisme n'est pas autre chose qu'un effort pour tirer toutes les conséquences d'une position athée cohérente. » (L'existentialisme est un humanisme)
+> « L'existentialisme n'est pas autre chose qu'un effort pour tirer toutes les conséquences d'une position athée cohérente. », L'existentialisme est un humanisme
 
 *Sources : L'existentialisme est un humanisme (existentialisme athée) · L'Être et le Néant, conclusion (l'idée de Dieu, en-soi-pour-soi, est contradictoire)*
 
@@ -142,7 +142,7 @@ Narrativisme 75% · Continuité psychologique 25%
 
 Toute conscience est conscience de quelque chose : elle n'est donc aucune substance, aucun moi-chose logé en elle, mais une présence à soi séparée d'elle-même par un néant. C'est cet écart, et non un ego (contre [Descartes](../philosophers/descartes.md) et Husserl), qui fait que le pour-soi « n'est jamais ce qu'il est et est ce qu'il n'est pas » : condition de sa liberté et de sa temporalité.
 
-> « La conscience est un être pour lequel il est dans son être question de son être en tant que cet être implique un être autre que lui : elle n'est jamais ce qu'elle est et est ce qu'elle n'est pas. » (L'Être et le Néant, Introduction)
+> « La conscience est un être pour lequel il est dans son être question de son être en tant que cet être implique un être autre que lui : elle n'est jamais ce qu'elle est et est ce qu'elle n'est pas. », L'Être et le Néant, Introduction
 
 *Sources : L'Être et le Néant, 1re partie, ch. 1 (le pour-soi n'est pas ce qu'il est) · L'Être et le Néant, 2e partie (l'ego transcendant ; cf. La Transcendance de l'Ego)*
 
@@ -164,7 +164,7 @@ Constructivisme 80% · Relativisme 20%
 
 Sans valeurs inscrites dans un ciel intelligible, l'homme les **crée** par ses choix ; mais Sartre refuse d'en conclure au pur arbitraire. Choisir, c'est tenir pour bon ce que l'on choisit, et donc le proposer comme image de l'homme : « en se choisissant, il choisit tous les hommes ». La création des valeurs engage ainsi une responsabilité quasi universelle, sans recourir, comme [Kant](../philosophers/kant.md), à une loi de la raison.
 
-> « Quand nous disons que l'homme se choisit, nous entendons que chacun d'entre nous se choisit, mais par là nous voulons dire aussi qu'en se choisissant il choisit tous les hommes. » (L'existentialisme est un humanisme)
+> « Quand nous disons que l'homme se choisit, nous entendons que chacun d'entre nous se choisit, mais par là nous voulons dire aussi qu'en se choisissant il choisit tous les hommes. », L'existentialisme est un humanisme
 
 *Sources : L'existentialisme est un humanisme (choisir, c'est choisir pour tous)*
 
@@ -196,7 +196,7 @@ Primat de l'action 70% · Vie examinée 30%
 
 La conscience est tout entière tournée vers le dehors : il n'y a pas de vie intérieure repliée sur soi, car la conscience est intentionnelle, toujours conscience de quelque chose, et l'ego lui-même est un objet transcendant, dans le monde. L'homme se révèle non par introspection mais par ses actes et son engagement. La pente va donc vers le primat de l'action, même si la lucidité réflexive reste requise.
 
-> « L'homme n'est rien d'autre que la série de ses actes, il n'est rien d'autre que sa vie. » (L'existentialisme est un humanisme)
+> « L'homme n'est rien d'autre que la série de ses actes, il n'est rien d'autre que sa vie. », L'existentialisme est un humanisme
 
 *Sources : La Transcendance de l'Ego (1936) · L'existentialisme est un humanisme (l'homme est la somme de ses actes)*
 
@@ -218,7 +218,7 @@ Pensée tragique 85% · Optimisme métaphysique 15%
 
 L'existence est contingente et sans justification : l'être-en-soi est de trop, gratuit, et la conscience surgit dans un monde qui ne lui promet rien. La condition humaine est marquée par l'angoisse, le délaissement et le désespoir, et par l'échec de tout désir d'absolu (l'homme est une passion inutile). Cette tonalité tragique de la finitude penche nettement vers la pensée tragique, sans aller cependant jusqu'à un pessimisme défaitiste, puisque la liberté reste un point d'appui.
 
-> « L'homme est une passion inutile. » (L'Être et le Néant, conclusion)
+> « L'homme est une passion inutile. », L'Être et le Néant, conclusion
 
 *Sources : L'Être et le Néant, conclusion (l'homme est une passion inutile) · La Nausée (la contingence, l'être de trop)*
 
@@ -250,7 +250,7 @@ Altruisme 70% · Égoïsme éthique 30%
 
 Vouloir sa propre liberté, c'est du même mouvement vouloir celle d'autrui. Le Sartre engagé, de plus en plus proche du marxisme après 1945, fait de la solidarité et de la lutte contre l'oppression un prolongement de cette exigence. La position penche vers l'altruisme par responsabilité, sans renoncer à l'ancrage de chacun dans son propre projet libre.
 
-> « Je ne puis prendre ma liberté pour but que si je prends également celle des autres pour but. » (L'existentialisme est un humanisme)
+> « Je ne puis prendre ma liberté pour but que si je prends également celle des autres pour but. », L'existentialisme est un humanisme
 
 *Sources : L'existentialisme est un humanisme (vouloir la liberté d'autrui) · Critique de la raison dialectique (1960), l'engagement et la praxis collective*
 
@@ -292,7 +292,7 @@ Lucidité sans espoir 80% · Principe espérance 20%
 
 L'existentialisme assume le désespoir au sens technique : on ne compte que sur ce qui dépend de notre volonté, sans se reposer sur l'espérance d'un secours extérieur, d'une Providence ou d'un sens garanti de l'histoire. Agir sans espoir, ce n'est pas résignation mais lucidité : l'action vaut par elle-même, non par l'attente d'un résultat assuré. La pente va donc vers une lucidité sans espérance, plus que vers le principe espérance.
 
-> « Quoi qu'il en soit des choses que je veux, il y aura toujours cette possibilité que les choses se produisent autrement que je ne veux : il faut agir sans espoir. » (L'existentialisme est un humanisme)
+> « Quoi qu'il en soit des choses que je veux, il y aura toujours cette possibilité que les choses se produisent autrement que je ne veux : il faut agir sans espoir. », L'existentialisme est un humanisme
 
 *Sources : L'existentialisme est un humanisme (l'angoisse, le délaissement, le désespoir)*
 

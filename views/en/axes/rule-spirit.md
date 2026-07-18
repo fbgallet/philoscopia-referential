@@ -22,6 +22,12 @@ No general rule can anticipate every particular case: judging well requires prac
 
 *[Aristotle](../philosophers/aristotle.md)*
 
+## Quotations
+
+> “The more laws and edicts there are, the more thieves and robbers multiply.” — [Laozi](../philosophers/laozi.md), Dao De Jing, ch. 57
+
+> “A man without humaneness, what has he to do with the rites? A man without humaneness, what has he to do with music?” — [Confucius](../philosophers/confucius.md), Analects, III, 3
+
 ## Related axes
 
 [Criterion of right action](../axes/ethics-foundation.md) · [Sincerity](../axes/sincerity.md)

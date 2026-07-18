@@ -24,7 +24,7 @@ Relativisme 60% · Universalisme 20% · Constructivisme 20%
 
 Calliclès démasque la justice reçue comme une invention : les faibles, étant le grand nombre, ont forgé les lois et les mots de « juste » et d'« injuste » pour brider les forts et se garantir l'égalité. Cette justice n'est que [convention](../glossary/physis-nomos.md) (nomos), variable et intéressée ; la seule norme réelle est celle de la nature (physis), où le meilleur commande et détient davantage. Sa position mêle ainsi un relativisme corrosif envers la morale établie et l'affirmation d'un droit naturel du plus fort qu'il tient, lui, pour un fait.
 
-> « La nature démontre qu'il est juste que celui qui vaut mieux ait plus que celui qui vaut moins, et le plus fort que le plus faible. » (Platon, Gorgias, 483d)
+> « La nature démontre qu'il est juste que celui qui vaut mieux ait plus que celui qui vaut moins, et le plus fort que le plus faible. », Gorgias, 483d
 
 *Sources : Platon, Gorgias, 482e-484c (la distinction nature/loi) · Platon, Gorgias, 483b-d (les faibles font les lois)*
 

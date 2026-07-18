@@ -22,7 +22,7 @@ Clarifier la pensée 100%
 
 Ce qui unit la tradition analytique n'est pas une thèse sur le monde mais une idée de la tâche philosophique : [clarifier la pensée](../axes/metaphilosophy.md). Philosopher, c'est analyser concepts et arguments, en éprouver les fondements et dénouer les confusions, souvent nichées dans une grammaire trompeuse. La clarté n'y est pas un préalable au travail : elle en est le but. De la logique de [Russell](../philosophers/russell.md) à l'attention au langage ordinaire du second [Wittgenstein](../philosophers/wittgenstein.md), la méthode prime sur le système.
 
-> « La philosophie est une lutte contre l'ensorcellement de notre entendement par les moyens de notre langage. » (Wittgenstein, Recherches philosophiques, § 109)
+> « La philosophie est une lutte contre l'ensorcellement de notre entendement par les moyens de notre langage. », Wittgenstein, Recherches philosophiques, § 109
 
 *Sources : Russell, « De la dénotation » (1905) · Wittgenstein, Recherches philosophiques*
 

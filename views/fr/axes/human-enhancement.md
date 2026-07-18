@@ -29,7 +29,7 @@ Modifier techniquement la nature humaine est une transgression dangereuse : elle
 
 ## Axes liés
 
-[Nature et culture](../axes/human-nature.md) · [Place de l'homme dans la nature](../axes/human-place-nature.md) · [Rapport à la technique](../axes/technology.md) · [La mort](../axes/death.md)
+[Nature et culture](../axes/human-nature.md) · [Place de l'homme dans la nature](../axes/human-place-nature.md) · [Rapport à la technique](../axes/technology.md) · [La mort](../axes/death.md) · [Sens de la souffrance](../axes/suffering-meaning.md)
 
 ---
 

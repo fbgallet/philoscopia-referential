@@ -45,16 +45,7 @@
           "fr": "La Somme systématise la <kw>guerre juste</kw> en trois conditions : l'autorité du prince (nul particulier ne peut déclarer la guerre), la cause juste (punir une faute, repousser l'injustice) et l'intention droite (viser le bien et la paix, non la vengeance ou la cupidité). La force n'est pas mauvaise en soi : elle est un instrument de la justice quand ces conditions sont réunies, comme le glaive remis au pouvoir public.",
           "en": "The Summa systematizes <kw>just war</kw> under three conditions: the authority of the sovereign (no private person may declare war), a just cause (punishing a fault, repelling injustice), and a rightful intention (aiming at the good and at peace, not vengeance or greed). Force is not evil in itself: it is an instrument of justice when these conditions are met, like the sword entrusted to public power."
         },
-        "quote": {
-          "text": {
-            "fr": "Pour qu'une guerre soit juste, trois conditions sont requises : l'autorité du prince, une cause juste, une intention droite.",
-            "en": "For a war to be just, three things are necessary: the authority of the sovereign, a just cause, and a rightful intention."
-          },
-          "source": {
-            "fr": "Somme théologique, II-II, q. 40, a. 1",
-            "en": "Summa Theologiae, II-II, q. 40, a. 1"
-          }
-        },
+        "quoteId": "pour-qu-une-guerre-soit-juste-aquinas",
         "references": [
           {
             "fr": "Somme théologique, II-II, q. 40",
@@ -109,16 +100,7 @@
           "fr": "Thomas refuse à la fois le fidéisme, qui tiendrait l'existence de Dieu pour une simple affaire de foi, et l'argument <c>ontologique</c> d'<ph id='anselm'>Anselme</ph>, qui prétendait la déduire du seul concept : pour un esprit fini, l'existence de Dieu n'est pas évidente par soi, elle se démontre <stk>à partir des effets</stk>. De là les <c id='five-ways'>cinq voies</c>, qui partent toutes d'un fait d'expérience (le mouvement, la causalité, le contingent, les degrés de perfection, l'ordre des fins) et remontent, pour éviter une régression à l'infini, jusqu'à un premier terme : moteur immobile, cause incausée, être nécessaire. Le théisme est donc tenu pour rationnellement établi, et non pas seulement cru.",
           "en": "Thomas rejects both fideism, which would treat God's existence as a mere matter of faith, and <ph id='anselm'>Anselm</ph>'s <c>ontological</c> argument, which claimed to deduce it from the concept alone: for a finite mind, God's existence is not self-evident, it is demonstrated <stk>from effects</stk>. Hence the <c id='five-ways'>Five Ways</c>, which all start from a fact of experience (motion, causation, contingency, degrees of perfection, the ordering of ends) and rise, to avoid an infinite regress, to a first term: an unmoved mover, an uncaused cause, a necessary being. Theism is thus held to be rationally established, and not merely believed."
         },
-        "quote": {
-          "text": {
-            "fr": "Tout ce qui est mû est mû par un autre ; il faut donc en venir à un premier moteur qui ne soit mû par rien, et c'est lui que tous appellent Dieu.",
-            "en": "Whatever is moved is moved by another; we must therefore arrive at a first mover moved by nothing, and this everyone understands to be God."
-          },
-          "source": {
-            "fr": "Somme théologique, Ia, q. 2, a. 3 (la première voie)",
-            "en": "Summa Theologiae, Ia, q. 2, a. 3 (the first way)"
-          }
-        },
+        "quoteId": "tout-ce-qui-est-mu-est-aquinas",
         "references": [
           {
             "fr": "Somme théologique, Ia, q. 2, a. 3 (les cinq voies)",
@@ -146,16 +128,7 @@
           "fr": "Reprenant l'<c id='eudaimonism'>eudémonisme</c> d'<ph id='aristotle'>Aristote</ph>, Thomas accorde que toute action vise une fin dernière, le bonheur ; mais il montre qu'aucun bien fini, ni richesse, ni honneur, ni plaisir, ni même la contemplation philosophique, ne peut combler le désir naturel de l'homme, qui ne s'apaise que dans le bien universel. Or seul Dieu est ce bien sans limite : la béatitude parfaite ne peut donc consister qu'en la <c id='beatific-vision'>vision béatifique</c>, la contemplation de l'essence divine, inaccessible en cette vie et reçue par grâce. L'eudémonisme grec est ainsi conservé mais dépassé, le souverain bien étant rapporté à un perfectionnement que la nature appelle sans pouvoir l'atteindre seule.",
           "en": "Taking up <ph id='aristotle'>Aristotle</ph>'s <c id='eudaimonism'>eudaimonism</c>, Thomas grants that every action aims at a final end, happiness; but he shows that no finite good, neither wealth, nor honour, nor pleasure, nor even philosophical contemplation, can satisfy the human being's natural desire, which is stilled only in the universal good. Now God alone is that good without limit: perfect beatitude can therefore consist only in the <c id='beatific-vision'>beatific vision</c>, the contemplation of the divine essence, unreachable in this life and received by grace. Greek eudaimonism is thus preserved yet surpassed, the sovereign good being referred to a perfecting that nature calls for without being able to attain it on its own."
         },
-        "quote": {
-          "text": {
-            "fr": "La béatitude ultime et parfaite ne peut être que dans la vision de l'essence divine.",
-            "en": "Ultimate and perfect beatitude can lie only in the vision of the divine essence."
-          },
-          "source": {
-            "fr": "Somme théologique, Ia-IIae, q. 3, a. 8",
-            "en": "Summa Theologiae, Ia-IIae, q. 3, a. 8"
-          }
-        },
+        "quoteId": "la-beatitude-ultime-et-parfaite-ne-aquinas",
         "references": [
           {
             "fr": "Somme théologique, Ia-IIae, q. 1-5",
@@ -367,16 +340,7 @@
           "fr": "Thomas refuse l'<c id='innate-ideas'>innéisme</c> et pose, à la suite d'<ph id='aristotle'>Aristote</ph>, que toute connaissance commence par les sens, l'intellect étant d'abord comme une <c id='tabula-rasa'>table rase</c> où rien n'est écrit. Mais l'empirisme est tempéré : l'<c id='agent-intellect'>intellect agent</c> ne reçoit pas passivement le sensible, il en abstrait la forme intelligible, dégageant l'universel du particulier perçu. La connaissance part donc de l'expérience sans s'y réduire, ce qui maintient Thomas du côté empirique sans en faire un empiriste strict, l'activité de l'esprit ayant sa part irréductible.",
           "en": "Thomas refuses <c id='innate-ideas'>innatism</c> and holds, following <ph id='aristotle'>Aristotle</ph>, that all knowledge begins with the senses, the intellect being at first like a <c id='tabula-rasa'>blank slate</c> on which nothing is written. But the empiricism is tempered: the <c id='agent-intellect'>agent intellect</c> does not passively receive the sensible, it abstracts from it the intelligible form, drawing the universal out of the perceived particular. Knowledge therefore starts from experience without reducing to it, which keeps Thomas on the empirical side without making him a strict empiricist, the activity of the mind having its irreducible share."
         },
-        "quote": {
-          "text": {
-            "fr": "Il n'y a rien dans l'intellect qui n'ait d'abord été dans les sens.",
-            "en": "There is nothing in the intellect that was not first in the senses."
-          },
-          "source": {
-            "fr": "Questions disputées sur la vérité, q. 2, a. 3, arg. 19",
-            "en": "Disputed Questions on Truth, q. 2, a. 3, arg. 19"
-          }
-        },
+        "quoteId": "il-n-y-a-rien-dans-aquinas",
         "references": [
           {
             "fr": "Somme théologique, Ia, q. 84-85",
@@ -400,16 +364,7 @@
           "fr": "Thomas donne sa formule classique à la conception <c>correspondantiste</c> : la vérité est l'<c>adéquation de la chose et de l'intellect</c>, l'accord de la pensée avec ce qui est. Mais il la fonde théologiquement : les choses sont vraies parce qu'elles sont conformes à l'idée que Dieu en a, et notre connaissance est vraie quand elle se règle sur elles. La vérité est donc d'abord dans l'intellect, divin puis humain, et la correspondance entre l'esprit et le réel a elle-même son origine en Dieu.",
           "en": "Thomas gives its classic formula to the <c>correspondence</c> conception: truth is the <c>adequation of thing and intellect</c>, the agreement of thought with what is. But he grounds it theologically: things are true because they conform to the idea God has of them, and our knowledge is true when it is regulated by them. Truth is therefore first in the intellect, divine then human, and the correspondence between mind and the real itself has its origin in God."
         },
-        "quote": {
-          "text": {
-            "fr": "La vérité est l'adéquation de la chose et de l'intellect.",
-            "en": "Truth is the adequation of thing and intellect."
-          },
-          "source": {
-            "fr": "Questions disputées sur la vérité, q. 1, a. 1",
-            "en": "Disputed Questions on Truth, q. 1, a. 1"
-          }
-        },
+        "quoteId": "la-verite-est-l-adequation-de-aquinas",
         "references": [
           {
             "fr": "Questions disputées sur la vérité, q. 1, a. 1-2",
@@ -878,16 +833,7 @@
           "fr": "L'amour suprême est pour Thomas la <c>charité</c> (caritas), traduction latine de l'<c id='agape'>agapè</c> : amour de bienveillance qui veut le bien de l'autre et qui descend de Dieu vers la créature plutôt que de monter du manque vers le bien, comme l'<c id='eros'>éros</c> platonicien. Mais Thomas en donne une définition précise et décisive : la charité est une <c id='philia'>amitié</c> (amicitia) de l'homme avec Dieu, la catégorie même d'<ph id='aristotle'>Aristote</ph> reprise et transposée : fondée sur la communication de la béatitude, elle suppose, comme toute amitié, une bienveillance mutuelle et un partage. Le don reste premier, puisque c'est Dieu qui aime le premier et rend cette amitié possible par grâce, mais il prend la forme réciproque de la philia, non celle d'un don à sens unique ; l'ancien élan du désir vers le bien n'en subsiste pas moins comme une part résiduelle.",
           "en": "The supreme love is for Thomas <c>charity</c> (caritas), the Latin rendering of <c id='agape'>agape</c>: a love of benevolence that wills the other's good and descends from God toward the creature rather than rising from lack toward the good, as Platonic <c id='eros'>eros</c> does. But Thomas gives it a precise and decisive definition: charity is a <c id='philia'>friendship</c> (amicitia) of the human being with God, <ph id='aristotle'>Aristotle</ph>'s very category taken up and transposed: founded on the sharing of beatitude, it supposes, like every friendship, mutual benevolence and a communion. The gift remains primary, since it is God who loves first and makes this friendship possible by grace, yet it takes the reciprocal form of philia, not that of a one-way gift; the old upward thrust of desire toward the good nonetheless persists as a residual share."
         },
-        "quote": {
-          "text": {
-            "fr": "La charité est une certaine amitié de l'homme avec Dieu.",
-            "en": "Charity is a certain friendship of the human being with God."
-          },
-          "source": {
-            "fr": "Somme théologique, IIa-IIae, q. 23, a. 1",
-            "en": "Summa Theologiae, IIa-IIae, q. 23, a. 1"
-          }
-        },
+        "quoteId": "la-charite-est-une-certaine-amitie-aquinas",
         "references": [
           {
             "fr": "Somme théologique, IIa-IIae, q. 23 (la charité comme amitié)",

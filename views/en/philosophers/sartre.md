@@ -74,7 +74,7 @@ Dogmatism 60% · Skepticism 40%
 
 Against all relativism, Sartre insists that there must be an absolute starting point, and that there is none other than the cogito: consciousness grasping itself, immediate and within everyone's reach. But this certainty is narrow: it yields the subject's existence, not an essence, a human nature or values, all of which are wanting, since **existence precedes essence**. Foundationalist on this single foothold yet stripped of any other given certainty, Sartre stands near the divide, on the side of assurance through the cogito, on the side of vertigo for all the rest.
 
-> “There can be no truth other, at the starting point, than this: I think, therefore I am; that is the absolute truth of consciousness attaining itself.” (Existentialism Is a Humanism)
+> “There can be no truth other, at the starting point, than this: I think, therefore I am; that is the absolute truth of consciousness attaining itself.”, Existentialism Is a Humanism
 
 *Sources : Existentialism Is a Humanism · Being and Nothingness, Introduction (the pre-reflective cogito)*
 
@@ -86,7 +86,7 @@ Existentialism 100%
 
 For a manufactured object, the paper-knife, essence (the artisan's concept) precedes existence; tradition thought of man likewise, created according to a **human nature** conceived by God. Remove the creator, and the order reverses for man alone: he exists first, with no prior definition, and it is from being nothing at the outset that he draws the full responsibility of making himself.
 
-> “Man first exists, encounters himself, surges up in the world, and defines himself afterward. If man as the existentialist conceives him is indefinable, it is because at first he is nothing. He will not be anything until later, and then he will be what he makes of himself.” (Existentialism Is a Humanism)
+> “Man first exists, encounters himself, surges up in the world, and defines himself afterward. If man as the existentialist conceives him is indefinable, it is because at first he is nothing. He will not be anything until later, and then he will be what he makes of himself.”, Existentialism Is a Humanism
 
 *Sources : Existentialism Is a Humanism (1946) · Being and Nothingness, Introduction and Part 1 (the for-itself)*
 
@@ -98,7 +98,7 @@ Free will 95% · Hard determinism 5%
 
 Freedom is not a property man has but the mode of being of consciousness: the for-itself nihilates every situation, which therefore never determines it and takes on meaning only in the light of its project. Even obstacles, even facticity (body, past, situation), are limits only for a freedom that aims at them; “condemned” man is, because he did not choose to be free and yet cannot but choose.
 
-> “Man is condemned to be free. Condemned, because he did not create himself, yet nonetheless free, because once thrown into the world, he is responsible for everything he does.” (Existentialism Is a Humanism)
+> “Man is condemned to be free. Condemned, because he did not create himself, yet nonetheless free, because once thrown into the world, he is responsible for everything he does.”, Existentialism Is a Humanism
 
 *Sources : Being and Nothingness, Part 4, ch. 1 (being and doing: freedom) · Existentialism Is a Humanism (man is condemned to be free)*
 
@@ -110,7 +110,7 @@ Atheism 100%
 
 Sartre is resolutely atheist: his [existentialism](../movements/existentialism.md) defines itself as the attempt to draw all the consequences of a coherent atheist position. If God does not exist, there is no divine craftsman to have conceived an **essence** of man, and so no value inscribed in an intelligible heaven: everything must be invented. The absence of God is not lamented, it is the assumed starting point.
 
-> “Existentialism is nothing else but an attempt to draw all the consequences of a coherent atheist position.” (Existentialism Is a Humanism)
+> “Existentialism is nothing else but an attempt to draw all the consequences of a coherent atheist position.”, Existentialism Is a Humanism
 
 *Sources : Existentialism Is a Humanism (atheistic existentialism) · Being and Nothingness, conclusion (the idea of God, in-itself-for-itself, is contradictory)*
 
@@ -142,7 +142,7 @@ Narrativism 75% · Psychological continuity 25%
 
 All consciousness is consciousness of something: it is therefore no substance, no thing-self lodged within it, but a presence to itself separated from itself by a nothingness. It is this gap, not an ego (against [Descartes](../philosophers/descartes.md) and Husserl), that makes the for-itself “never what it is and is what it is not”: the condition of its freedom and its temporality.
 
-> “Consciousness is a being such that in its being its being is in question insofar as this being implies a being other than itself: it is never what it is and is what it is not.” (Being and Nothingness, Introduction)
+> “Consciousness is a being such that in its being its being is in question insofar as this being implies a being other than itself: it is never what it is and is what it is not.”, Being and Nothingness, Introduction
 
 *Sources : Being and Nothingness, Part 1, ch. 1 (the for-itself is not what it is) · Being and Nothingness, Part 2 (the transcendent ego; cf. The Transcendence of the Ego)*
 
@@ -164,7 +164,7 @@ Constructivism 80% · Relativism 20%
 
 With no values inscribed in an intelligible heaven, man **creates** them through his choices; but Sartre refuses to conclude that this is mere arbitrariness. To choose is to hold what one chooses as good, and so to propose it as an image of man: “in choosing himself, he chooses all men”. The creation of values thus carries a near-universal responsibility, without resorting, as [Kant](../philosophers/kant.md) does, to a law of reason.
 
-> “When we say that man chooses himself, we mean that each of us chooses himself, but by that we also mean that in choosing himself he chooses all men.” (Existentialism Is a Humanism)
+> “When we say that man chooses himself, we mean that each of us chooses himself, but by that we also mean that in choosing himself he chooses all men.”, Existentialism Is a Humanism
 
 *Sources : Existentialism Is a Humanism (to choose is to choose for all)*
 
@@ -196,7 +196,7 @@ Primacy of action 70% · The examined life 30%
 
 Consciousness is wholly turned outward: there is no inner life folded upon itself, for consciousness is intentional, always consciousness of something, and the ego itself is a transcendent object, in the world. Man reveals himself not through introspection but through his acts and his engagement. The leaning thus runs toward the primacy of action, even if reflective lucidity remains required.
 
-> “Man is nothing other than the series of his acts, he is nothing other than his life.” (Existentialism Is a Humanism)
+> “Man is nothing other than the series of his acts, he is nothing other than his life.”, Existentialism Is a Humanism
 
 *Sources : The Transcendence of the Ego (1936) · Existentialism Is a Humanism (man is the sum of his acts)*
 
@@ -218,7 +218,7 @@ Tragic thought 85% · Metaphysical optimism 15%
 
 Existence is contingent and without justification: being-in-itself is de trop (superfluous), gratuitous, and consciousness arises in a world that promises it nothing. The human condition is marked by anguish, abandonment and despair, and by the failure of every craving for the absolute (man is a useless passion). This tragic tone of finitude leans clearly toward tragic thought, without however reaching a defeatist pessimism, since freedom remains a foothold.
 
-> “Man is a useless passion.” (Being and Nothingness, conclusion)
+> “Man is a useless passion.”, Being and Nothingness, conclusion
 
 *Sources : Being and Nothingness, conclusion (man is a useless passion) · Nausea (contingency, being superfluous)*
 
@@ -250,7 +250,7 @@ Altruism 70% · Ethical egoism 30%
 
 To will one's own freedom is, by the same movement, to will that of others. The engaged Sartre, drawing ever closer to Marxism after 1945, makes solidarity and the struggle against oppression an extension of this demand. The position leans toward an altruism of responsibility, without giving up each person's grounding in his own free project.
 
-> “I cannot take my freedom as an end unless I take that of others equally as an end.” (Existentialism Is a Humanism)
+> “I cannot take my freedom as an end unless I take that of others equally as an end.”, Existentialism Is a Humanism
 
 *Sources : Existentialism Is a Humanism (willing the freedom of others) · Critique of Dialectical Reason (1960), commitment and collective praxis*
 
@@ -292,7 +292,7 @@ Lucidity without hope 80% · The principle of hope 20%
 
 Existentialism assumes despair in a technical sense: one reckons only on what depends on one's own will, without leaning on the hope of outside rescue, of Providence or of a guaranteed meaning to history. To act without hope is not resignation but lucidity: action is worth something in itself, not through the expectation of an assured outcome. The leaning thus runs toward a lucidity without hope, rather than toward a principle of hope.
 
-> “Whatever the things I want, there will always be this possibility that things come about otherwise than I want: one must act without hope.” (Existentialism Is a Humanism)
+> “Whatever the things I want, there will always be this possibility that things come about otherwise than I want: one must act without hope.”, Existentialism Is a Humanism
 
 *Sources : Existentialism Is a Humanism (anguish, abandonment, despair)*
 

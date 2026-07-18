@@ -31,6 +31,16 @@ Ni renoncement ni débordement : jouir des plaisirs du corps, mais avec mesure. 
 - *[Être ou avoir un corps](../axes/embodiment.md) : Corps-instrument* fonde *[Plaisirs corporels](../axes/bodily-pleasures.md) : Ascétisme* : Si le corps n'est qu'un instrument, voire une prison de l'âme, alors ses plaisirs détournent de l'essentiel et doivent être disciplinés. La conception du corps-instrument fonde l'ascétisme : de [Platon](../philosophers/plato.md), pour qui le corps est le tombeau de l'âme, aux ascètes chrétiens, la maîtrise des désirs libère pour les biens supérieurs.
 - *[Être ou avoir un corps](../axes/embodiment.md) : Corps-sujet* fonde *[Plaisirs corporels](../axes/bodily-pleasures.md) : Célébration* : Si je ne suis pas une âme logée dans une machine mais ce corps vivant lui-même, alors ses plaisirs ne sont pas des pièges mais une part de la vie bonne. La thèse du corps-sujet fonde la célébration des plaisirs corporels : [Nietzsche](../philosophers/nietzsche.md) voit dans le mépris du corps un ressentiment contre la vie, et invite à goûter ses joies avec gratitude.
 
+## Citations
+
+> « Ces deux extrêmes, moines, ne doivent pas être suivis par celui qui a quitté la vie de famille : la poursuite des plaisirs des sens, et la poursuite de la mortification. » — [Le Bouddha](../philosophers/buddha.md), Dhammacakkappavattana Sutta (Saṃyutta Nikāya 56.11)
+
+> « Du pain et de l'eau procurent le plus haut plaisir dès qu'on les porte à une bouche qui a faim. » — [Épicure](../philosophers/epicurus.md), Sentences vaticanes, 33
+
+> « Il n'est pas plus nécessaire que le saint soit un philosophe qu'il n'est nécessaire que le philosophe soit un saint ; de même qu'il n'est pas nécessaire qu'un homme parfaitement beau soit un grand sculpteur, ni qu'un grand sculpteur soit lui-même un bel homme. » — [Schopenhauer](../philosophers/schopenhauer.md), Le Monde comme volonté et comme représentation, §68
+
+> « Le pain et l'eau procurent le plaisir le plus élevé quand on les porte à des lèvres qui en ont besoin. » — [Épicure](../philosophers/epicurus.md), Sentences vaticanes, 59 (cf. Lettre à Ménécée)
+
 ## Axes liés
 
 [Être ou avoir un corps](../axes/embodiment.md) · [Le beau dans la vie](../axes/aesthetic-life.md) · [Rapport au désir](../axes/desire.md) · [Souverain bien](../axes/sovereign-good.md)

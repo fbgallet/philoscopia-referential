@@ -24,7 +24,7 @@ Théorie de l'usage 85% · Référentialisme 15%
 
 Tout le pragmatisme naît d'une règle sur le sens : pour rendre claire une conception, demande quels [effets pratiques concevables](../glossary/pragmatic-maxim.md) aurait son objet, car le sens ne réside nulle part ailleurs que dans ces effets. Dire qu'un diamant est dur, c'est dire qu'il résisterait à la rayure ; une idée dont on ne saurait dériver aucune différence d'expérience concevable n'a tout simplement pas de sens. Le geste rompt avec le référentialisme qui loge le sens dans l'objet nommé : Peirce le place dans la conduite réglée, l'habitude d'action que l'idée engage, ce qui le rapproche d'une théorie du sens comme usage, tout en gardant un ancrage expérimental qui le sépare d'un Wittgenstein. C'est une arme contre la métaphysique verbale, ces disputes où l'on croit penser sans qu'aucune différence pratique ne soit en jeu.
 
-> « Considère quels effets, qui pourraient avoir une portée pratique concevable, nous concevons qu'a l'objet de notre conception. Alors notre conception de ces effets est le tout de notre conception de l'objet. » (Comment rendre nos idées claires (1878))
+> « Considère quels effets, qui pourraient avoir une portée pratique concevable, nous concevons qu'a l'objet de notre conception. Alors notre conception de ces effets est le tout de notre conception de l'objet. », Comment rendre nos idées claires (1878)
 
 *Sources : Comment rendre nos idées claires (1878)*
 
@@ -36,7 +36,7 @@ Pragmatisme 80% · Correspondance 20%
 
 Peirce définit le vrai par le terme idéal de l'enquête, non par sa réussite immédiate : l'opinion vraie est celle sur laquelle tous ceux qui enquêtent sont destinés à finir par s'accorder, et l'objet de cette opinion finale est le réel. La vérité n'est donc ni une copie figée des choses, ni la simple cohérence d'un système, mais le point de convergence vers lequel une [communauté d'enquêteurs](../glossary/community-of-inquiry.md) tend à long terme, pourvu qu'elle pousse la recherche assez loin. Cette définition, qui fait de lui une figure du pôle pragmatiste, garde pourtant un noyau réaliste qui l'éloigne de [James](../philosophers/william-james.md) : le vrai n'est pas « ce qui me réussit » ni ce qu'il m'est utile de croire, mais ce que l'enquête, contrainte par un réel indépendant de nos désirs, est fatalement amenée à reconnaître. L'utilité de l'individu n'y entre pour rien.
 
-> « L'opinion destinée à recevoir à la fin l'accord de tous ceux qui enquêtent, voilà ce que nous entendons par le vrai, et l'objet représenté dans cette opinion est le réel. » (Comment rendre nos idées claires (1878))
+> « L'opinion destinée à recevoir à la fin l'accord de tous ceux qui enquêtent, voilà ce que nous entendons par le vrai, et l'objet représenté dans cette opinion est le réel. », Comment rendre nos idées claires (1878)
 
 *Sources : Comment rendre nos idées claires (1878) · La fixation de la croyance (1877)*
 
@@ -58,7 +58,7 @@ Cohérentisme 60% · Fiabilisme 40%
 
 Peirce attaque de front le [doute hyperbolique](../glossary/hyperbolic-doubt.md) de [Descartes](../philosophers/descartes.md) : on ne peut pas douter à volonté ni feindre un doute qu'on n'a pas, le doute réel naît d'une surprise, d'un heurt de l'expérience, jamais d'une décision. Il refuse aussi l'intuition, cette prétendue connaissance première qui ne dériverait d'aucune autre : toute pensée est inférence à partir de pensées antérieures, signe renvoyant à d'autres signes. Du coup, la justification ne repose sur aucune croyance de base indubitable, mais sur la tenue de l'ensemble : le savoir est un câble dont la solidité vient de la multitude des fibres entrelacées, non une chaîne aussi faible que son maillon le plus fragile. Cette pente cohérentiste se double d'un trait fiabiliste, car ce qui valide une croyance est aussi la fiabilité éprouvée de la méthode qui l'a produite.
 
-> « Le raisonnement ne devrait pas former une chaîne, plus faible que son maillon le plus faible, mais un câble dont les fibres, si ténues soient-elles, sont nombreuses et intimement liées. » (Quelques conséquences de quatre incapacités (1868))
+> « Le raisonnement ne devrait pas former une chaîne, plus faible que son maillon le plus faible, mais un câble dont les fibres, si ténues soient-elles, sont nombreuses et intimement liées. », Quelques conséquences de quatre incapacités (1868)
 
 *Sources : Questions concernant certaines facultés revendiquées pour l'homme (1868) · Quelques conséquences de quatre incapacités (1868)*
 
@@ -110,7 +110,7 @@ Faisceau 60% · Continuité psychologique 20% · Narrativisme 20%
 
 De son refus de l'intuition Peirce tire une conséquence radicale sur le moi : il n'y a pas de conscience de soi immédiate, le moi est une inférence tardive, que l'enfant construit pour rendre compte de ses erreurs et de l'ignorance que les autres lui révèlent. Surtout, puisque toute pensée est signe, l'homme lui-même est un signe : ce que je suis se déploie dans le tissu sémiotique de mes pensées renvoyant à d'autres pensées, sans noyau substantiel sous le flux. On est loin de la chose pensante de [Descartes](../philosophers/descartes.md) ; la position penche vers le faisceau, mais un faisceau réinterprété en termes de signes plutôt que de pures perceptions.
 
-> « Le mot ou le signe que l'homme emploie est l'homme lui-même. » (Quelques conséquences de quatre incapacités (1868))
+> « Le mot ou le signe que l'homme emploie est l'homme lui-même. », Quelques conséquences de quatre incapacités (1868)
 
 *Sources : Quelques conséquences de quatre incapacités (1868)*
 

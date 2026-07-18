@@ -26,6 +26,20 @@ We are first citizens of the world: human dignity does not stop at borders. Loca
 
 - *[The origin of the social bond](../axes/social-contract.md) : Organic community* grounds *[Belonging](../axes/belonging.md) : Communitarianism and patriotism* : If the community precedes the individual and constitutes them, then loyalty to one's own is not a prejudice to overcome but a part of what we are. The organic conception of the social bond grounds communitarianism: our concrete attachments, family, culture, nation, are the real source of solidarity, as the communitarian current, such as MacIntyre, maintains.
 
+## Quotations
+
+> “The cheapest sort of pride is national pride.” — [Schopenhauer](../philosophers/schopenhauer.md), Parerga and Paralipomena, 'Aphorisms on the Wisdom of Life', ch. IV
+
+> “As Antoninus, my city and homeland is Rome; as a man, it is the world.” — [Marcus Aurelius](../philosophers/marcus-aurelius.md), Meditations, VI, 44
+
+> “We are members of one great body... nature made us kin, begetting us from the same principles and for the same ends.” — [Seneca](../philosophers/seneca.md), Letters to Lucilius, XCV
+
+> “When asked where he came from, he said: "I am a citizen of the world."” — [Diogenes of Sinope](../philosophers/diogenes.md), Diogenes Laertius, Lives, VI, 63
+
+> “Working Men of All Countries, Unite!” — [Marx](../philosophers/marx.md), Manifesto of the Communist Party, 1848
+
+> “Live unnoticed.” — [Epicurus](../philosophers/epicurus.md), Fragment 551 Usener (lathe biosas)
+
 ## Related axes
 
 [Partiality](../axes/partiality.md) · [The origin of the social bond](../axes/social-contract.md) · [The highest good](../axes/sovereign-good.md)

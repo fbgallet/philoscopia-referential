@@ -54,7 +54,7 @@ Reasoned selection 70% · Affirmation 15% · Extinction and detachment 15%
 
 Confucianism does not condemn desire but civilizes it through the rites and the sense of propriety: one satisfies one's inclinations in the right forms and to the right measure. The ideal is the perfect accord of desire and norm, which Confucius says he reached only at the end of a long self-cultivation.
 
-> “At seventy, I could follow my heart's desire without overstepping the line.” (Analects, II.4)
+> “At seventy, I could follow my heart's desire without overstepping the line.”, Analects, II.4
 
 *Sources : Analects (Lunyu), II.4 and XII.1*
 
@@ -76,7 +76,7 @@ Free will 60% · Hard determinism 40%
 
 Confucius divides one's lot between what belongs to Heaven and what depends on us: the span of life, wealth and honors hang on the decree (ming) that the sage welcomes without surrendering to it; but to become fully humane (ren) depends on oneself alone. Outer fortune is thus largely determined, while moral perfection remains the ever-possible work of the will.
 
-> “Is humaneness far off? No sooner do I desire it than it is here.” (Analects, VII.29)
+> “Is humaneness far off? No sooner do I desire it than it is here.”, Analects, VII.29
 
 *Sources : Analects (Lunyu), XII.5 and VII.29 · Analects, XX.3*
 
@@ -88,7 +88,7 @@ Virtue ethics 80% · Deontologism 10% · Ethics of care 10%
 
 Because morality can neither be codified into rules nor reduced to a reckoning of outcomes, what must be formed is a person, their character and their situated discernment. Hence the shift of appraisal from the act to the agent: the measure of the good is the junzi 君子 (person of noble character) animated by ren 仁 (humaneness), and this virtue cannot be decreed, it is won through long self-cultivation and the imitation of exemplars. Virtue is not obedience to a law but an inner disposition made stable by habit, which anchors the foundation on the side of virtue ethics. A deontological share remains in fidelity to the li 禮 (rites), and a share of [care](../axes/ethics-foundation.md) in the primacy of familial affection.
 
-> “To master oneself and return to the rites: that is humaneness (ren).” (Analects, XII, 1)
+> “To master oneself and return to the rites: that is humaneness (ren).”, Analects, XII, 1
 
 *Sources : Analects (Lunyu), XII, 1-2 (ren and self-mastery through the rites) · Analects, IV, 5 and VI, 30 (the junzi never departs from humaneness)*
 
@@ -100,7 +100,7 @@ Partialism 90% · Impartialism 10%
 
 Humaneness does not descend from an abstract principle: it grows out of the affection lived in the family and then radiates in concentric circles. Xiao (filial piety) is accordingly presented as the very root of ren 仁 (humaneness), and this is what licenses a graded favour rather than equal regard for all. The case of the son who screens his father's fault, where the master sides with family solidarity against denunciation, is the deliberate test of the thesis: to sever love from its partial, affective source would dry up morality itself, against any impartialism that claims to love strangers and kin alike.
 
-> “Uprightness lies in this: the father screens his son, and the son screens his father.” (Analects, XIII, 18)
+> “Uprightness lies in this: the father screens his son, and the son screens his father.”, Analects, XIII, 18
 
 *Sources : Analects, I, 2 (filial piety, the root of humaneness) · Analects, XIII, 18 (the father screens the son, the son screens the father)*
 
@@ -112,7 +112,7 @@ Conservatism 95% · Progressivism 5%
 
 The premise is that the [Way (dao)](../glossary/dao.md) was already fully realized by the sage-kings and the li 禮 (rites) of the Zhou dynasty, and that the disorder of the age stems from their decay, not from a want of novelty. If the good has an accomplished precedent, the rational task is to restore and transmit it, not to invent: to call oneself a transmitter and not a maker is therefore not modesty but a thesis, the refusal to ground the norm in present invention. The normative reference is the exemplary past, which makes him a [conservative](../axes/conservatism-progressism.md) in the strong sense, against any faith in progress.
 
-> “I transmit and do not create; I love the Ancients and trust them.” (Analects, VII, 1)
+> “I transmit and do not create; I love the Ancients and trust them.”, Analects, VII, 1
 
 *Sources : Analects, VII, 1 (I transmit and do not create, I love and trust the Ancients) · Analects, III, 14 (Confucius follows the Zhou)*
 
@@ -124,7 +124,7 @@ Memory and transmission 85% · Presentism 10% · Project 5%
 
 Confucian time is oriented toward the past as a model: “reviving the old to understand the new” is the master's way. Studying the Ancients, the rituals and the odes transmits a wisdom to embody; the future counts less as a project to invent than as a continuity to preserve. This is an orientation of [memory and transmission](../axes/time-orientation.md).
 
-> “He who revives the old to understand the new is fit to be a teacher.” (Analects, II, 11)
+> “He who revives the old to understand the new is fit to be a teacher.”, Analects, II, 11
 
 *Sources : Analects, II, 11 (reviving the old to know the new) · Analects, VII, 19 (a man fond of antiquity, untiring in his study)*
 
@@ -166,7 +166,7 @@ Truthful rigorism 85% · Benevolent lying permitted 15%
 
 The argument starts from a function of language: a name ("father", "ruler", "friend") does not merely label, it prescribes a duty bound to the role. A word misused, or belied by deeds, therefore unsettles the very order it was meant to uphold, and zhengming (the rectification of names) becomes the condition of a working society. Truthfulness ceases to be a private matter of conscience: trustworthiness of speech (xin) and sincerity (cheng) are demanded because lying and the gap between word and deed dissolve the social fabric. Hence a rigorism of truthfulness, in which the junzi 君子 (person of noble character) is ashamed when his words outrun his deeds.
 
-> “If names are not correct, language is not in accord with the truth of things; then affairs cannot succeed.” (Analects, XIII, 3)
+> “If names are not correct, language is not in accord with the truth of things; then affairs cannot succeed.”, Analects, XIII, 3
 
 *Sources : Analects, XIII, 3 (the rectification of names) · Analects, XIV, 27 (the junzi is ashamed when his words exceed his deeds)*
 
@@ -178,7 +178,7 @@ The examined life 65% · Primacy of action 35%
 
 The Confucian way is a demanding self-cultivation: the disciple Zengzi “examines himself daily on three points”, and the inner perfecting of ren 仁 (humaneness) conditions all right action. Yet this interiority is not contemplative: it is tested and completed in conduct, service and the li 禮 (rites), hence a moderate position on the examined-life side, balanced by the primacy of action.
 
-> “Each day I examine myself on three points: have I been faithful in acting for others, sincere with my friends, and have I practised what was taught to me?” (Analects, I, 4)
+> “Each day I examine myself on three points: have I been faithful in acting for others, sincere with my friends, and have I practised what was taught to me?”, Analects, I, 4
 
 *Sources : Analects, I, 4 (Zengzi examines himself daily on three points) · Analects, IV, 17 (seeing a worthy man, think of equalling him; seeing an unworthy one, examine yourself)*
 
@@ -190,7 +190,7 @@ Equity-phronesis 70% · Legalism 30%
 
 The li 禮 (rites) are an indispensable form, but worthless without the spirit that animates them: “a man without humaneness, what has he to do with the rites?”. Ritual must be performed with the right feeling, and the master tailors his teaching to each disciple: the letter without the heart is empty. The leaning is thus toward [equity and discernment](../axes/rule-spirit.md), without abolishing the ritual form.
 
-> “A man without humaneness, what has he to do with the rites? A man without humaneness, what has he to do with music?” (Analects, III, 3)
+> “A man without humaneness, what has he to do with the rites? A man without humaneness, what has he to do with music?”, Analects, III, 3
 
 *Sources : Analects, III, 3 (without humaneness, what use are the rites?) · Analects, XI, 22 (the master answers each disciple differently)*
 
@@ -202,7 +202,7 @@ Authority 85% · Anarchism 15%
 
 The argument rests on a psychology of obedience: coercion by laws and punishments wins only a shameless avoidance, an outward compliance that dissolves the moment surveillance lifts, whereas the ruler's virtuous example awakens in the people a sense of honour and an internalized assent. Better, then, an authority that radiates, “like the pole star” around which the other stars arrange themselves, than one that represses. This legitimation of hierarchy by the good of the governed stands squarely against rule by force and penalty alone, and authority here remains subordinate to the virtue of the one who wields it.
 
-> “Lead the people by virtue, keep them in order by the rites, and they will have a sense of shame and come to you.” (Analects, II, 3)
+> “Lead the people by virtue, keep them in order by the rites, and they will have a sense of shame and come to you.”, Analects, II, 3
 
 *Sources : Analects, II, 1 (governing by virtue, like the pole star) · Analects, II, 3 (governing by virtue and the rites rather than by punishments)*
 
@@ -244,7 +244,7 @@ Altruism 70% · Ethical egoism 30%
 
 The junzi 君子 (person of noble character) minds righteousness (yi) where the petty man minds gain: humaneness means helping others to stand and not inflicting on them what one would not wish for oneself (the golden rule in negative form, shu, reciprocity). This is an altruistic orientation, without self-renunciation: one raises oneself by raising others.
 
-> “What you do not wish for yourself, do not do to others.” (Analects, XV, 24)
+> “What you do not wish for yourself, do not do to others.”, Analects, XV, 24
 
 *Sources : Analects, IV, 16 (the junzi understands righteousness, the petty man profit) · Analects, XV, 24 and VI, 30 (not inflicting on others what you would not wish; helping others to stand)*
 
@@ -266,7 +266,7 @@ Culturalism 80% · Naturalism 20%
 
 “By nature men are close to one another; by practice they grow apart”: shared nature is not enough, it is study, habit and the li 禮 (rites) that make the moral difference between men. Confucius stakes everything on formation and culture (wen) more than on an innate endowment, hence a culturalist leaning.
 
-> “By nature men are close to one another; through practice they grow far apart.” (Analects, XVII, 2)
+> “By nature men are close to one another; through practice they grow far apart.”, Analects, XVII, 2
 
 *Sources : Analects, XVII, 2 (by nature close, by practice far apart) · Analects, XVI, 9 (the grades of knowing: innate, gained by study, gained through difficulty)*
 
@@ -328,7 +328,7 @@ Empiricism 65% · Rationalism 35%
 
 Confucian knowledge is won by assiduous study of the Ancients, observation and practical experience, joined to reflection: “learning without thought is vain, thought without learning is perilous”. Knowledge is not pure speculation but wisdom to be applied, anchored in tradition and the scrutiny of the real, hence an empiricist leaning tempered by the demand for reflection.
 
-> “Learning without thought is labour lost; thought without learning is perilous.” (Analects, II, 15)
+> “Learning without thought is labour lost; thought without learning is perilous.”, Analects, II, 15
 
 *Sources : Analects, II, 15 (learning without thought, thought without learning) · Analects, VII, 8 and II, 17 (active study; knowing what one knows and does not know)*
 

@@ -22,6 +22,16 @@ Vivre pour autrui est le cœur de la morale : le bien des autres doit passer ava
 
 *[Lévinas](../philosophers/levinas.md) · [Comte](../philosophers/comte.md)*
 
+## Citations
+
+> « Ce que tu ne veux pas qu'on te fasse, ne le fais pas à autrui. » — [Confucius](../philosophers/confucius.md), Entretiens, XV, 24
+
+> « Ce qui n'est pas utile à l'essaim n'est pas utile non plus à l'abeille. » — [Marc Aurèle](../philosophers/marcus-aurelius.md), Pensées pour moi-même, VI, 54
+
+> « Je ne puis prendre ma liberté pour but que si je prends également celle des autres pour but. » — [Sartre](../philosophers/sartre.md), L'existentialisme est un humanisme
+
+> « La bourgeoisie a noyé les frissons sacrés de l'extase religieuse, de l'enthousiasme chevaleresque et de la sentimentalité petite-bourgeoise dans les eaux glacées du calcul égoïste. » — [Marx](../philosophers/marx.md), Manifeste du Parti communiste, 1848
+
 ## Axes liés
 
 [Vision de l'homme](../axes/human-vision.md) · [Individu et société](../axes/individual-society.md) · [Exigence morale](../axes/moral-demand.md) · [Partialité](../axes/partiality.md)

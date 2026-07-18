@@ -34,6 +34,10 @@ Le travail répond aux besoins de la vie, mais il n'est pas la fin de l'existenc
 - *[Essence et existence](../axes/essence.md) : Essentialisme* fonde *[Sens du travail](../axes/work-meaning.md) : Accomplissement* : Si l'être humain a une nature faite de facultés à actualiser, alors le travail, par lequel il objective ses capacités et transforme le monde, l'accomplit autant qu'il le fatigue. L'essentialisme fonde le travail comme accomplissement : pour [Hegel](../philosophers/hegel.md), c'est en façonnant le monde que l'homme se forme lui-même et gagne la reconnaissance d'autrui.
 - *[Identité sociale](../axes/social-identity.md) : Réalisme social* fonde *[Sens du travail](../axes/work-meaning.md) : Aliénation* : Si les catégories sociales comme la classe sont des réalités matérielles objectives, et non de simples idées, alors le rapport de production peut réellement déposséder le travailleur de son activité et de lui-même. Le réalisme social fonde l'aliénation : [Marx](../philosophers/marx.md) montre comment, sous le salariat, le travail devient étranger à celui qui l'accomplit.
 
+## Citations
+
+> « Le travailleur ne s'affirme donc pas dans son travail, mais s'y nie ; ne s'y sent pas à l'aise, mais malheureux. » — [Marx](../philosophers/marx.md), Manuscrits de 1844
+
 ## Axes liés
 
 [Le sens de la vie](../axes/life-meaning.md) · [Rapport à la technique](../axes/technology.md)

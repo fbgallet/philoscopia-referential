@@ -42,6 +42,12 @@ Là où la domination est elle-même une violence installée, exploitation, colo
 
 *L'opinion commune penche vers « Guerre juste ».*
 
+## Citations
+
+> « La violence est l'accoucheuse de toute vieille société grosse d'une société nouvelle. » — [Marx](../philosophers/marx.md), Le Capital, livre I, chap. XXXI
+
+> « Pour qu'une guerre soit juste, trois conditions sont requises : l'autorité du prince, une cause juste, une intention droite. » — [Thomas d'Aquin](../philosophers/aquinas.md), Somme théologique, II-II, q. 40, a. 1
+
 ## Axes liés
 
 [Idéal et réel](../axes/political-ideal.md) · [Rapport à l'autorité](../axes/authority.md) · [Sens de la peine](../axes/punishment.md) · [Origine du lien social](../axes/social-contract.md) · [Pardon](../axes/forgiveness.md)

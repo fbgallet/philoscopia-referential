@@ -24,7 +24,7 @@ Revolt / refusal 70% · Being-toward-death 20% · Death is nothing 10%
 
 For Beauvoir, death is never natural: it is a violence, an unjustifiable scandal that shatters projects and outrages life, however long and consented to. Rather than greet it with serenity, she prefers revolt and indignation, refusing to dress up as meaningful what is only a defeat. The death of loved ones, witnessed up close, appears to her as an unacceptable rupture, not a fulfillment.
 
-> “There is no natural death.” (A Very Easy Death)
+> “There is no such thing as a natural death.”, A Very Easy Death
 
 *Sources : A Very Easy Death · The Coming of Age*
 
@@ -76,7 +76,7 @@ Existentialism 100%
 
 Beauvoir takes up the existentialist thesis that, for the human being, existence precedes essence: no nature defines in advance what one must be. Her formula “one is not born, but rather becomes, a woman” is its most famous application: the **feminine** is not a given essence but a becoming shaped by culture, which each woman must nonetheless take up in a free project.
 
-> “One is not born, but rather becomes, a woman. No biological, psychic, or economic destiny defines the figure that the human female assumes within society.” (The Second Sex, vol. II)
+> “One is not born, but rather becomes, a woman. No biological, psychic, or economic destiny defines the figure that the human female assumes within society.”, The Second Sex, vol. II
 
 *Sources : The Second Sex (1949), vol. II, opening ("one is not born a woman") · The Ethics of Ambiguity (1947)*
 
@@ -98,7 +98,7 @@ Free will 85% · Hard determinism 15%
 
 A freedom is never pure spontaneity: it is always exercised from a body, a history and a social place that open or close the range of its possibles. From this situated character Beauvoir derives her break with the [Sartre](../philosophers/sartre.md) of Being and Nothingness, for whom even the slave remains ontologically free: to say so is to confuse freedom with its bare possibility, and to hide that oppression concretely mutilates freedom by sealing off the future and the means to project oneself. Freedom thus remains the primary fact, yet it can be injured from without, which makes oppression intelligible as a wrong and not merely a misfortune.
 
-> “There is freedom only as engaged, willing itself by willing the disclosure of being through a world.” (The Ethics of Ambiguity)
+> “There is freedom only as engaged, willing itself by willing the disclosure of being through a world.”, The Ethics of Ambiguity
 
 *Sources : The Ethics of Ambiguity (1947), on situated freedom and oppression · The Second Sex (1949), Introduction (the situation of woman)*
 
@@ -320,7 +320,7 @@ Social construction 90% · Social realism 10%
 
 If no biological, psychic or economic destiny settles in advance what a woman is, then **femininity** cannot be an essence: it is the outcome of an elaboration civilization imposes on the human female. Beauvoir here pries apart sex, a bodily given, and the becoming-woman shaped by upbringing, law and the gaze of others, grounding the distinction the theories of gender would take up. The consequence is political: what was built in history can be undone there, against any naturalism that would justify the hierarchy of the sexes by nature.
 
-> “One is not born, but rather becomes, a woman.” (The Second Sex, vol. II)
+> “One is not born, but rather becomes, a woman.”, The Second Sex, vol. II
 
 *Sources : The Second Sex (1949), vol. II, opening*
 

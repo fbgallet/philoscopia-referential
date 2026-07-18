@@ -26,7 +26,7 @@ Devenir et flux 90% · Permanence de l'être 10%
 
 L'**impermanence** (anicca) est la première des trois marques de l'existence : tout phénomène conditionné naît, se transforme et cesse, sans qu'aucune substance ne subsiste sous le flux, ni dans les choses ni en nous (**anattā**, le non-soi). Tenir les choses pour stables est précisément l'illusion qui engendre l'attachement et la souffrance ; la sagesse consiste à voir le surgir et le cesser.
 
-> « Tout ce qui est sujet à l'apparition est sujet à la cessation. » (Samyutta Nikāya (formule canonique))
+> « Tout ce qui est sujet à l'apparition est sujet à la cessation. », SN 56.11, Dhammacakkappavattana Sutta
 
 *Sources : Dhammapada, 277-279 (les trois marques) · Samyutta Nikāya, 56, 11*
 
@@ -88,7 +88,7 @@ Empirisme 70% · Rationalisme 30%
 
 Le bouddhisme fait de l'examen personnel et de l'expérience directe, non de l'autorité ou de la tradition, la source du savoir libérateur. La connaissance décisive procède d'une perception affinée par la méditation, plus que d'une intellection a priori : on éprouve par soi-même la racine de la souffrance et sa cessation, comme on vérifie un remède en l'appliquant.
 
-> « Ne vous fiez pas à l'ouï-dire ni à la tradition, mais quand vous savez par vous-mêmes : ceci est salutaire, alors adoptez-le. » (Kalama Sutta)
+> « Ne vous fiez pas à l'ouï-dire ni à la tradition, mais quand vous savez par vous-mêmes : ceci est salutaire, alors adoptez-le. », Kalama Sutta
 
 *Sources : Kalama Sutta (Anguttara Nikaya III.65) · Satipatthana Sutta*
 
@@ -110,7 +110,7 @@ Faisceau 90% · Continuité psychologique 10%
 
 Cherchez le moi parmi les cinq agrégats (forme, sensation, perception, formations, conscience) et vous ne trouvez que leur flux changeant : aucun d'eux n'est stable, ni vôtre, ni un sujet qui les porterait. De cette analyse le bouddhisme tire le [non-soi (anattā)](../glossary/anatta.md) contre l'[ātman](../glossary/atman.md) des Upaniṣad, ce Soi permanent identifié au [Brahman](../glossary/brahman.md) : là où le [Vedānta](../movements/vedanta.md) postule un sujet immuable sous le devenir, le Bouddha tient que postuler un tel substrat est précisément la méprise (avidyā) qui nourrit l'attachement. Le sujet n'est qu'un faisceau de processus impermanents, ce qui fait du bouddhisme la grande figure historique de la théorie du faisceau.
 
-> « La forme est non-soi, la sensation est non-soi, la perception est non-soi, les formations sont non-soi, la conscience est non-soi. » (Anattalakkhaṇa Sutta (Saṃyutta Nikāya 22.59))
+> « La forme est non-soi, la sensation est non-soi, la perception est non-soi, les formations sont non-soi, la conscience est non-soi. », Anattalakkhaṇa Sutta (Saṃyutta Nikāya 22.59)
 
 *Sources : Anattalakkhaṇa Sutta (le discours sur la caractéristique du non-soi) · Nāgārjuna, Mūlamadhyamakakārikā (Stances du milieu)*
 
@@ -122,7 +122,7 @@ Extinction-détachement 95% · Tri raisonné 5%
 
 Si la souffrance a une cause repérable, elle peut être supprimée en s'attaquant à cette cause : par la [coproduction conditionnée (pratītyasamutpāda)](../glossary/pratityasamutpada.md), la deuxième Noble Vérité remonte de la souffrance à la [soif (taṇhā)](../glossary/tanha.md), ce désir avide qui s'attache aux plaisirs, à l'existence ou à la non-existence et fait tourner la roue des renaissances. De là suit que la libération n'exige pas d'assouvir le désir ni de le réprimer de force, mais d'en éteindre la racine, la soif elle-même : le bouddhisme se range ainsi nettement du côté du détachement, non par mépris du plaisir mais parce que l'avidité est le moteur même du mal-être.
 
-> « Voici la noble vérité sur l'origine de la souffrance : c'est cette soif qui produit le renouvellement de l'existence. » (Dhammacakkappavattana Sutta (Saṃyutta Nikāya 56.11))
+> « Voici la noble vérité sur l'origine de la souffrance : c'est cette soif qui produit le renouvellement de l'existence. », Dhammacakkappavattana Sutta (Saṃyutta Nikāya 56.11)
 
 *Sources : Dhammacakkappavattana Sutta (le sermon de Bénarès) · Dhammapada, ch. XXIV (la soif)*
 
@@ -164,7 +164,7 @@ Vie examinée 85% · Primat de l'action 15%
 
 La transformation visée passe d'abord par l'examen intérieur : observer ses propres états mentaux, ses [impulsions (taṇhā)](../glossary/tanha.md) et ses représentations dans la méditation et l'introspection. La vie bonne se joue dans le travail sur l'esprit plus que dans l'action extérieure, même si la conduite éthique (sīla) en est le support.
 
-> « Tout ce que nous sommes résulte de nos pensées : c'est fondé sur nos pensées, c'est fait de nos pensées. » (Dhammapada, I, 1)
+> « Tout ce que nous sommes résulte de nos pensées : c'est fondé sur nos pensées, c'est fait de nos pensées. », Dhammapada, I, 1
 
 *Sources : Dhammapada, ch. I (les paires) · Satipaṭṭhāna Sutta (le discours sur les fondements de l'attention)*
 

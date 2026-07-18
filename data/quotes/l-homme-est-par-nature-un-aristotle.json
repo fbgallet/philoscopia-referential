@@ -1,0 +1,9 @@
+{
+  "id": "l-homme-est-par-nature-un-aristotle",
+  "text": { "fr": "L'homme est par nature un animal politique.", "en": "Man is by nature a political animal." },
+  "author": { "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" },
+  "work": "politics-aristotle",
+  "source": { "fr": "Politique, I, 2 (1253a)", "en": "Politics, I.2 (1253a)" },
+  "anchors": [{ "axisId": "SOCIAL_CONTRACT" }],
+  "updatedAt": "2026-07-18T00:00:00.000Z"
+}

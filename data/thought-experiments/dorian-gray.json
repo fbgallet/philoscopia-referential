@@ -1,0 +1,60 @@
+{
+  "id": "dorian-gray",
+  "title": {
+    "fr": "Le portrait de Dorian Gray",
+    "en": "The picture of Dorian Gray"
+  },
+  "description": {
+    "fr": "Dorian Gray reste éternellement jeune et beau, libre de vouer sa vie à la seule jouissance des belles sensations et de tout se permettre, tandis qu'un portrait caché vieillit et s'enlaidit à chaque faute, à sa place. Aucun excès ne marque son visage ni ne lui coûte rien. Imaginez qu'on vous propose ce pacte : faire de votre existence une pure quête du beau et du plaisir, affranchie de tout prix moral, puisqu'un autre le paie pour vous.",
+    "en": "Dorian Gray stays forever young and beautiful, free to devote his life to the sheer enjoyment of beautiful sensations and to allow himself anything, while a hidden portrait ages and grows hideous with each misdeed in his place. No excess marks his face or costs him a thing. Imagine you were offered this pact: to make your existence a pure pursuit of beauty and pleasure, freed from any moral price, since another pays it for you."
+  },
+  "source": {
+    "author": { "fr": "Oscar Wilde", "en": "Oscar Wilde" },
+    "work": { "fr": "Le Portrait de Dorian Gray", "en": "The Picture of Dorian Gray" },
+    "year": 1890
+  },
+  "question": {
+    "fr": "Accepteriez-vous ce pacte, et une vie tout entière vouée à la beauté serait-elle la plus haute ?",
+    "en": "Would you accept this pact, and would a life wholly devoted to beauty be the highest one?"
+  },
+  "axisIds": ["AESTHETIC_LIFE"],
+  "options": [
+    {
+      "id": "accept-the-pact",
+      "label": {
+        "fr": "J'accepte. Une vie n'a pas à se justifier devant la morale : la faire belle, intense, accomplie comme une œuvre, voilà le plus haut ; le reste est convention.",
+        "en": "I accept. A life need not justify itself before morality: making it beautiful, intense, accomplished like a work of art, that is the highest thing; the rest is convention."
+      },
+      "hints": [{ "axisId": "AESTHETIC_LIFE", "value": { "kind": "scalar", "value": -0.8 } }],
+      "discussion": {
+        "fr": "C'est l'esthétisme de <ph id='wilde'>Wilde</ph> et <ph id='nietzsche'>Nietzsche</ph> : « l'existence ne se justifie que comme phénomène esthétique ». Mais le roman même montre où mène le pacte : le portrait devient monstrueux, et Dorian finit par se haïr.",
+        "en": "This is the aestheticism of <ph id='wilde'>Wilde</ph> and <ph id='nietzsche'>Nietzsche</ph>: \"existence is justified only as an aesthetic phenomenon.\" Yet the novel itself shows where the pact leads: the portrait turns monstrous, and Dorian comes to loathe himself."
+      }
+    },
+    {
+      "id": "refuse-the-pact",
+      "label": {
+        "fr": "Je refuse. Une beauté payée par le mal, ou coupée de toute droiture, sonne creux : une vie belle mais indifférente au bien n'est pas réussie, elle est vide.",
+        "en": "I refuse. A beauty paid for by wrongdoing, or cut off from all uprightness, rings hollow: a beautiful life indifferent to the good is not a flourishing one, it is empty."
+      },
+      "hints": [{ "axisId": "AESTHETIC_LIFE", "value": { "kind": "scalar", "value": 0.8 } }],
+      "discussion": {
+        "fr": "Vous suivez <ph id='plato'>Platon</ph> et <ph id='tolstoy'>Tolstoï</ph> : le beau qui séduit contre le bien n'est qu'un fard des apparences ; ce qui fait le prix d'une vie, c'est la droiture, pas le raffinement.",
+        "en": "You follow <ph id='plato'>Plato</ph> and <ph id='tolstoy'>Tolstoy</ph>: beauty that seduces against the good is a mere gloss on appearances; what gives a life its worth is uprightness, not refinement."
+      }
+    },
+    {
+      "id": "beauty-not-at-that-price",
+      "label": {
+        "fr": "La beauté, mais pas à ce prix : je veux une vie belle, à condition qu'elle ne se paie pas de mes fautes. Le beau compte vraiment, tant qu'il ne trahit pas le bien.",
+        "en": "Beauty, but not at that price: I want a beautiful life, provided it is not paid for by my wrongs. Beauty truly matters, so long as it does not betray the good."
+      },
+      "hints": [{ "axisId": "AESTHETIC_LIFE", "value": { "kind": "scalar", "value": 0 } }],
+      "discussion": {
+        "fr": "C'est l'intuition du kalokagathia grec : le beau et le bien ne sont pas des rivaux mais s'appellent l'un l'autre ; une beauté qui exige de renoncer au bien s'est déjà corrompue, comme le portrait.",
+        "en": "This is the intuition of the Greek kalokagathia: the beautiful and the good are not rivals but call to one another; a beauty that demands renouncing the good has already corrupted itself, like the portrait."
+      }
+    }
+  ],
+  "updatedAt": "2026-07-13T00:00:00.000Z"
+}

@@ -22,6 +22,10 @@ Governing requires knowledge, like steering a ship or treating the sick. Entrust
 
 *[Plato](../philosophers/plato.md) · Brennan*
 
+## Quotations
+
+> “The instant a people gives itself representatives, it is no longer free; it no longer exists.” — [Rousseau](../philosophers/rousseau.md), The Social Contract, III, 15
+
 ## Related axes
 
 [Political liberty](../axes/political-liberty.md) · [Relation to authority](../axes/authority.md) · [Distributive justice](../axes/distributive-justice.md)

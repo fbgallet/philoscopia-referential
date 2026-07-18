@@ -102,7 +102,7 @@ Ce qui dépend de nous 95% · Prométhéisme 5%
 
 Le monde suit déjà sa propre [ziran 自然 (spontanéité du naturel)](../glossary/ziran.md) : prétendre le redresser par la volonté, la loi ou l'effort calculé, c'est briser cet ordre et engendrer le contraire de ce qu'on vise, comme on ruine une plante en tirant sur ses pousses. De cette observation le taoïsme tire le [wu wei 無為 (le non-agir, l'action sans forçage)](../glossary/wu-wei.md) : non l'inertie, mais une efficacité par épousement plutôt que par contrainte, à l'image de l'eau qui, la plus souple, vient à bout du dur en se pliant à lui. Là où le [confucianisme](../movements/confucianism.md) veut réformer l'homme par l'effort moral et le rituel, le taoïste tient que toute action volontariste aggrave le désordre qu'elle veut corriger : c'est le revers exact d'un [prométhéisme](../glossary/dichotomy-of-control.md) de la maîtrise.
 
-> « Rien au monde n'est plus souple et plus faible que l'eau ; pourtant, pour attaquer ce qui est dur et fort, rien ne la surpasse. » (Laozi, Dao De Jing, ch. 78)
+> « Rien au monde n'est plus souple et plus faible que l'eau ; pourtant, pour attaquer ce qui est dur et fort, rien ne la surpasse. », Dao De Jing, ch. 78
 
 *Sources : Laozi, Dao De Jing (Tao Te King), ch. 43, 78 · Zhuangzi, ch. 6 (Le grand maître vénérable)*
 
@@ -124,7 +124,7 @@ Immanence 93% · Transcendance 8%
 
 Une source qui engendre tout ne peut se tenir hors de ce qu'elle engendre : si le [dao 道 (la Voie)](../glossary/dao.md) est l'origine des dix mille êtres, il les habite tous au lieu de régner sur eux depuis un arrière-monde. Loin du dieu personnel et transcendant qui crée par décret et commande de l'extérieur, le dao est [immanent](../glossary/immanence.md) et impersonnel : il fait croître sans posséder, agit sans s'attribuer le mérite. D'où la provocation de Zhuangzi, interrogé sur le lieu du dao : il est jusque dans la fourmi, le brin d'herbe, la tuile, et même l'ordure, car ce qui est partout ne saurait manquer dans le plus vil.
 
-> « Il n'est aucun lieu où le dao ne soit. » (Zhuangzi, ch. 22)
+> « Il n'est aucun lieu où le dao ne soit. », ch. 22
 
 *Sources : Zhuangzi, ch. 22 (La connaissance voyageait vers le nord) · Laozi, Dao De Jing, ch. 34*
 
@@ -136,7 +136,7 @@ Scepticisme 85% · Dogmatisme 15%
 
 Nommer, c'est découper le réel en catégories opposées (le grand et le petit, le vrai et le faux), or le [dao 道 (la Voie)](../glossary/dao.md) est le fond indivis d'où ces distinctions procèdent : aucun mot ne peut donc le saisir sans le trahir. Le langage convient aux choses délimitées, jamais à la source qui les engendre toutes. Zhuangzi en tire un perspectivisme radical : chaque jugement parle depuis un point de vue situé, la dispute ne fait qu'opposer deux partialités sans juge qui les surplombe, et prétendre trancher universellement, c'est prendre son perchoir pour le centre du monde. D'où un [scepticisme](../glossary/skepticism.md) qui vise moins à nier qu'à dissoudre la prétention au savoir certain et à délivrer du besoin d'avoir raison.
 
-> « Le dao qu'on peut nommer dao n'est pas le dao constant. » (Laozi, Dao De Jing, ch. 1)
+> « Le dao qu'on peut nommer dao n'est pas le dao constant. », Dao De Jing, ch. 1
 
 *Sources : Laozi, Dao De Jing, ch. 1 · Zhuangzi, ch. 2 (De l'égalité des choses)*
 
@@ -158,7 +158,7 @@ Anarchisme 78% · Autorité 22%
 
 Le bon souverain taoïste est celui qui gouverne le moins : il pratique le [wu wei 無為 (le non-agir)](../glossary/wu-wei.md) en politique, allège les lois et les contraintes, et laisse le peuple suivre sa [ziran 自然 (pente naturelle)](../glossary/ziran.md). Multiplier interdits et règlements ne fait qu'accroître le désordre, d'où une inclination libertaire proche de l'anarchisme.
 
-> « Gouverner un grand État, c'est comme faire frire un petit poisson. » (Laozi, Dao De Jing, ch. 60)
+> « Gouverner un grand État, c'est comme faire frire un petit poisson. », Dao De Jing, ch. 60
 
 *Sources : Laozi, Dao De Jing, ch. 57, 60 · Zhuangzi, ch. 11 (Laisser être, ne pas contraindre)*
 

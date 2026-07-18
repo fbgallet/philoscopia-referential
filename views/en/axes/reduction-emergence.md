@@ -26,6 +26,10 @@ The whole is more than the sum of its parts: organization gives rise to new prop
 
 - *[Nature of mind and reality](../axes/reality-nature.md) : Materialism* grounds *[Wholes and parts](../axes/reduction-emergence.md) : Reductionism* : If only matter exists, the properties of wholes must in principle be explained by those of their physical parts. Materialism thereby encourages reductionism, for which the higher level is in principle reducible to the lower.
 
+## Quotations
+
+> “Supposing there were a machine whose structure made it think... on visiting it one would find only parts pushing one another, and never anything to explain a perception.” — [Leibniz](../philosophers/leibniz.md), Monadology, §17
+
 ## Related axes
 
 [Explaining nature](../axes/causality.md) · [Can a machine think](../axes/machine-mind.md) · [Nature of mind and reality](../axes/reality-nature.md) · [Existence of God](../axes/god-existence.md)

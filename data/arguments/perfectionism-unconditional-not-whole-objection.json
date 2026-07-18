@@ -1,0 +1,145 @@
+{
+  "id": "perfectionism-unconditional-not-whole-objection",
+  "kind": "OBJECTS",
+  "position": {
+    "axisId": "SOVEREIGN_GOOD",
+    "poleId": "MORAL_PERFECTIONISM"
+  },
+  "name": {
+    "fr": "Inconditionnel n'est pas total",
+    "en": "Unconditional is not total"
+  },
+  "attacks": "REASONING",
+  "claim": {
+    "fr": "Que la vertu soit le seul bien qu'on ne puisse mal employer prouve qu'elle a une valeur à part, non qu'elle soit à elle seule tout le bien d'une vie.",
+    "en": "That virtue is the only good that cannot be misused proves it has a worth apart, not that it is, by itself, the whole good of a life."
+  },
+  "summary": {
+    "fr": "L'argument établit que la vertu est le seul bien inconditionnel ; mais de « seul bien sans condition » à « seul bien », il y a un saut. La droiture peut commander les autres biens sans les abolir.",
+    "en": "The argument establishes that virtue is the only unconditional good; but from 'only unconditional good' to 'only good' is a leap. Uprightness can command the other goods without abolishing them."
+  },
+  "development": [
+    {
+      "fr": "L'argument établit ceci : la vertu est le seul bien qui reste bon sous tous ses usages, le seul « sans réserve ».",
+      "en": "The argument establishes this: virtue is the only good that stays good under every use, the only one 'without reservation'."
+    },
+    {
+      "fr": "Mais de « seul bien inconditionnel » à « seul bien », il y a un saut : qu'une chose soit la seule à valoir en toute circonstance ne dit pas qu'elle soit la seule à valoir. Le plaisir, la santé, l'amitié peuvent être des biens véritables, quoique conditionnels, c'est-à-dire bons quand ils ne servent pas au mal.",
+      "en": "But from 'only unconditional good' to 'only good' is a leap: that a thing is the only one worth something in every circumstance does not say it is the only one worth something. Pleasure, health, friendship can be genuine goods, though conditional, that is, good when they do not serve evil."
+    },
+    {
+      "fr": "<ph id='kant'>Kant</ph> lui-même le voit : la bonne volonté est le bien sans réserve, mais le souverain bien complet unit la vertu et le bonheur qu'elle mérite, non la vertu seule. La valeur inconditionnelle de la droiture en fait la condition du reste, non son remplacement.",
+      "en": "<ph id='kant'>Kant</ph> himself sees it: the good will is the unconditional good, but the complete highest good unites virtue and the happiness it deserves, not virtue alone. The unconditional worth of uprightness makes it the condition of the rest, not its replacement."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc l'argument prouve que la vertu doit commander les autres biens, non qu'elle les abolit : le souverain bien pourrait être non la droiture seule, mais l'ensemble ordonné des biens sous la conduite de la droiture.",
+    "en": "So the argument proves that virtue must command the other goods, not that it abolishes them: the highest good might be not uprightness alone, but the ordered whole of goods under the guidance of uprightness."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": {
+      "fr": "Kant",
+      "en": "Kant"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Kant",
+          "en": "Kant"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "kant"
+      }
+    ],
+    "work": {
+      "fr": "Critique de la raison pratique, Dialectique, ch. II",
+      "en": "Critique of Practical Reason, Dialectic, ch. II"
+    },
+    "workId": "critique-of-practical-reason-kant"
+  },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "En effet : la droiture est ce qui doit commander, mais une vie bonne veut aussi du bonheur, des liens, une œuvre. La vertu ordonne les biens, elle ne les remplace pas.",
+        "en": "Indeed: uprightness is what must command, but a good life also wants happiness, bonds, a work. Virtue orders the goods, it does not replace them."
+      },
+      "hints": [
+        {
+          "axisId": "SOVEREIGN_GOOD",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.15,
+              0.6,
+              0.25
+            ]
+          },
+          "weight": 1.5
+        }
+      ],
+      "discussion": {
+        "fr": "Vous glissez vers l'eudémonisme : la vertu comme partie architectonique d'un bien complet, non comme tout le bien.",
+        "en": "You slide toward eudaimonism: virtue as the architectonic part of a complete good, not as the whole good."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je garde le primat absolu de la droiture, mais j'admets qu'un bonheur mérité s'y ajoute légitimement : le souverain bien, c'est la vertu d'abord, et le bonheur qu'elle rend digne.",
+        "en": "I keep the absolute primacy of uprightness, but admit that a deserved happiness may legitimately be added: the highest good is virtue first, and the happiness it makes worthy."
+      },
+      "hints": [
+        {
+          "axisId": "SOVEREIGN_GOOD",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.1,
+              0.35,
+              0.55
+            ]
+          },
+          "weight": 0.75
+        }
+      ],
+      "discussion": {
+        "fr": "Vous tenez le « souverain bien » complet de <ph id='kant'>Kant</ph> : la vertu couronnée du bonheur qui lui est proportionné.",
+        "en": "You hold <ph id='kant'>Kant</ph>'s complete 'highest good': virtue crowned with the happiness proportioned to it."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : dès qu'on ajoute à la vertu d'autres biens comme fins, on rouvre la porte à les préférer à elle. Pour que la droiture prime vraiment, il faut qu'elle soit le seul bien, le reste n'étant que sa matière.",
+        "en": "I refute it: as soon as one adds to virtue other goods as ends, one reopens the door to preferring them to it. For uprightness truly to come first, it must be the only good, the rest being merely its matter."
+      },
+      "hints": [
+        {
+          "axisId": "SOVEREIGN_GOOD",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.05,
+              0.1,
+              0.85
+            ]
+          },
+          "weight": 0.5
+        }
+      ],
+      "discussion": {
+        "fr": "Vous tenez la fermeté stoïcienne : tout compromis sur « le seul bien » finit par subordonner la vertu à autre chose.",
+        "en": "You hold the Stoic firmness: any compromise on 'the one good' ends by subordinating virtue to something else."
+      }
+    }
+  ],
+  "problems": [
+    "one-good-or-many"
+  ],
+  "targets": [
+    "perfectionism-unconditional-good"
+  ],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
+}

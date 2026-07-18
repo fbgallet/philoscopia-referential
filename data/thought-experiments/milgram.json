@@ -56,5 +56,76 @@
       }
     }
   ],
-  "updatedAt": "2026-07-13T00:00:00.000Z"
+  "roles": [
+    {
+      "role": "OBJECTS",
+      "position": { "axisId": "HUMAN_VISION", "poleId": "ANTHROPOLOGICAL_OPTIMISM" },
+      "attacks": "POSITION",
+      "argumentId": "optimism-natural-goodness",
+      "problems": ["obedience-and-evil"],
+      "summary": {
+        "fr": "Des gens ordinaires infligent le pire sur un simple ordre, sans haine ni grief : si l'homme était naturellement bon et seulement corrompu par une société injuste, d'où vient qu'il obéisse si aisément ?",
+        "en": "Ordinary people inflict the worst on a mere order, without hatred or grievance: if man were naturally good and only corrupted by an unjust society, how is it that he obeys so readily?"
+      },
+      "reconstruction": {
+        "development": [
+          {
+            "fr": "Des volontaires ordinaires, ni monstres ni misérables, infligent ce qu'ils croient être des décharges dangereuses sur le simple ordre d'un expérimentateur.",
+            "en": "Ordinary volunteers, neither monsters nor wretches, inflict what they believe to be dangerous shocks on the mere order of an experimenter."
+          },
+          {
+            "fr": "Ils le font sans haine, sans grief, sans gain personnel, dans un cadre paisible où nulle inégalité ni misère ne les y pousse.",
+            "en": "They do so without hatred, without grievance, without personal gain, in a peaceful setting where no inequality or misery drives them to it."
+          },
+          {
+            "fr": "Si l'homme était bon par nature et seulement corrompu par une société injuste, d'où viendrait qu'il obéisse si aisément à un ordre de nuire ? La disposition à faire le mal est plus proche de la surface que ne l'admet l'optimisme.",
+            "en": "If man were good by nature and only corrupted by an unjust society, whence would come his obeying so readily an order to harm? The disposition to do evil is closer to the surface than optimism admits."
+          }
+        ],
+        "conclusion": {
+          "fr": "Donc la bonté première n'est pas si assurée : il ne faut ni misère ni injustice pour que l'homme ordinaire fasse le pire, une simple autorité y suffit.",
+          "en": "So primal goodness is not so assured: neither misery nor injustice is needed for the ordinary man to do the worst, a mere authority suffices."
+        }
+      },
+      "responses": [
+        {
+          "id": "revise",
+          "label": {
+            "fr": "Il ne faut pas grand-chose pour que l'homme ordinaire fasse le pire : ce penchant est en nous, non déposé par la seule société.",
+            "en": "It takes little for the ordinary man to do the worst: this bent is in us, not laid down by society alone."
+          },
+          "hints": [{ "axisId": "HUMAN_VISION", "value": { "kind": "scalar", "value": 0.6 }, "weight": 2 }],
+          "discussion": {
+            "fr": "Vous penchez vers le pessimisme de <ph id='hobbes'>Hobbes</ph> et <ph id='freud'>Freud</ph> : l'agressivité est là, prête à ressurgir dès que l'ordre se relâche.",
+            "en": "You lean toward the pessimism of <ph id='hobbes'>Hobbes</ph> and <ph id='freud'>Freud</ph>: aggression is there, ready to resurface the moment order loosens."
+          }
+        },
+        {
+          "id": "qualify",
+          "label": {
+            "fr": "Ni bon ni mauvais : ce sont les circonstances, l'autorité, le dispositif, qui décident. L'homme est ce qu'on en fait.",
+            "en": "Neither good nor evil: it is circumstances, authority, the setup that decide. Man is what he is made into."
+          },
+          "hints": [{ "axisId": "HUMAN_VISION", "value": { "kind": "scalar", "value": 0 }, "weight": 1 }],
+          "discussion": {
+            "fr": "La « banalité du mal » d'<ph id='arendt'>Arendt</ph> : le pire vient de gens ordinaires pris dans une situation, non d'une nature.",
+            "en": "<ph id='arendt'>Arendt</ph>'s 'banality of evil': the worst comes from ordinary people caught in a situation, not from a nature."
+          }
+        },
+        {
+          "id": "refute",
+          "label": {
+            "fr": "C'est justement le dispositif d'autorité qui produit cela : ôtez cette pression sociale, et ces mêmes gens, qui souffrent et résistent, sont secourables.",
+            "en": "It is precisely the apparatus of authority that produces this: remove that social pressure, and these same people, who suffer and resist, are helpful."
+          },
+          "hints": [{ "axisId": "HUMAN_VISION", "value": { "kind": "scalar", "value": -1 }, "weight": 0.5 }],
+          "discussion": {
+            "fr": "La réponse de <ph id='rousseau'>Rousseau</ph> : la pitié naturelle résiste, visible dans le trouble de ceux qui obéissent malgré eux ; c'est la situation, non la nature, qui corrompt.",
+            "en": "<ph id='rousseau'>Rousseau</ph>'s reply: natural pity resists, visible in the distress of those who obey against their will; it is the situation, not nature, that corrupts."
+          }
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
 }

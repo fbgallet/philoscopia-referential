@@ -1,0 +1,73 @@
+{
+  "id": "theism-contingency-argument",
+  "kind": "SUPPORTS",
+  "position": {
+    "axisId": "GOD_EXISTENCE",
+    "poleId": "THEISM"
+  },
+  "name": {
+    "fr": "L'argument de la contingence",
+    "en": "The contingency argument"
+  },
+  "claim": {
+    "fr": "Le monde existe sans avoir à exister ; cette contingence appelle une raison hors d'elle, un être nécessaire.",
+    "en": "The world exists without having to exist; this contingency calls for a reason beyond itself, a necessary being."
+  },
+  "summary": {
+    "fr": "Chaque chose tient son existence d'une autre et aucune ne se suffit ; pour rendre raison de ce qu'il y ait quelque chose plutôt que rien, il faut un être nécessaire, hors de la série des causes.",
+    "en": "Each thing owes its existence to another and none is self-sufficient; to account for there being something rather than nothing, a necessary being is required, outside the series of causes."
+  },
+  "development": [
+    {
+      "fr": "Tout ce qui compose le monde pourrait ne pas être : chaque chose tient son existence d'une autre, les vivants de leurs parents, les corps de leurs causes, et aucune ne porte en elle la raison de son existence.",
+      "en": "Everything that makes up the world could fail to be: each thing owes its existence to another, living beings to their parents, bodies to their causes, and none carries within itself the reason for its existence."
+    },
+    {
+      "fr": "Or additionner ce qui ne se suffit pas ne produit rien qui se suffise : même une chaîne infinie de causes contingentes laisse entière la question de savoir pourquoi il y a quelque chose plutôt que rien. Si tout doit avoir une raison, le <c id='principle-of-sufficient-reason'>principe de raison suffisante</c>, il faut chercher cette raison hors de la série.",
+      "en": "Now adding up what is not self-sufficient produces nothing self-sufficient: even an infinite chain of contingent causes leaves untouched the question of why there is something rather than nothing. If everything must have a reason, the <c id='principle-of-sufficient-reason'>principle of sufficient reason</c>, that reason must be sought outside the series."
+    },
+    {
+      "fr": "Cette raison ne peut être à son tour contingente, sous peine de relancer indéfiniment la question : elle doit être un être <kw>nécessaire</kw>, qui porte en lui la raison de son existence et n'aurait pas pu ne pas être.",
+      "en": "That reason cannot itself be contingent, on pain of raising the question all over again: it must be a <kw>necessary</kw> being, one that carries within itself the reason for its existence and could not have failed to be."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc il existe un être nécessaire, fondement de tout le contingent : ce que les traditions appellent Dieu.",
+    "en": "So there is a necessary being, the ground of everything contingent: what the traditions call God."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": {
+      "fr": "Leibniz ; Thomas d'Aquin",
+      "en": "Leibniz; Aquinas"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Leibniz",
+          "en": "Leibniz"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "leibniz"
+      },
+      {
+        "name": {
+          "fr": "Thomas d'Aquin",
+          "en": "Aquinas"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "aquinas"
+      }
+    ],
+    "work": {
+      "fr": "Principes de la nature et de la grâce, §7-8",
+      "en": "Principles of Nature and Grace, §7–8"
+    },
+    "year": 1714
+  },
+  "test": "theism-problem-of-evil-objection",
+  "problems": [
+    "contingency-cosmological"
+  ],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
+}

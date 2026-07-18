@@ -10,6 +10,26 @@ Imagine you must set the rules of your society, but from behind a "veil of ignor
 
 **Axes at stake** : [Distributive justice](../axes/distributive-justice.md)
 
+## What it does in the debate
+
+### Objects to [Distributive justice](../axes/distributive-justice.md) : Libertarianism — attacks the position
+
+Behind a veil where I do not know my place, I would not accept rules that hand me over to destitution should I be born on the wrong side: the mere freedom of exchange is not enough.
+
+**The argument it makes**
+
+1. Let us ask which rules of society each person would choose without knowing the place they will occupy in it, rich or poor, gifted or infirm.
+2. In that position, no one would gamble on rules that let a person sink into destitution on the sole ground that their exchanges were 'free': one would first protect against the worst.
+3. Now justice is what free and equal persons would accept from such an impartial standpoint, not what favors those whom birth has already favored.
+
+**⇒** So the mere legitimacy of transfers does not make a just society: a distribution none of us would accept without knowing our place cannot be called fair.
+
+- **Not knowing my place, I would first want to protect the weakest. The freedom of exchange cannot override what all would accept.** : You cross over to [Rawls](../philosophers/rawls.md)'s egalitarianism: impartiality takes precedence over entitlements.
+- **I grant that there must be a floor below which no one falls; above it, I let liberty do its work.** : You stop at sufficientarianism: a guaranteed safety net, then the freedom of exchange.
+- **This veil is an artifice: it makes me reason like a coward betting against myself. Real, responsible persons prefer liberty to a safety net secured by coercion.** : You hold [Nozick](../philosophers/nozick.md)'s objection: the veil skews the choice by imposing risk-aversion, hence equality.
+
+**Puts to the test** : [The self-ownership argument](../arguments/libertarianism-self-ownership.md)
+
 **Possible stances** :
 
 - The safest choice is strict equality, sustained over time: that no one ever has more than another.

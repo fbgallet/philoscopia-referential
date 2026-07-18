@@ -59,6 +59,12 @@ La peine doit d'abord réparer le tort et restaurer ce que le crime a rompu : re
 
 - Avec [Liberté de la volonté](../axes/freedom.md) : Si nos actes sont entièrement déterminés, nul n'en est vraiment l'auteur libre ; or punir pour « donner ce qui est mérité » suppose précisément cette responsabilité. Tenir les deux ensemble crée une tension : le rétributivisme réclame un mérite que le déterminisme strict retire.
 
+## Citations
+
+> « Nul homme sensé ne punit parce qu'on a péché, mais afin qu'on ne pèche plus. » — [Sénèque](../philosophers/seneca.md), De la colère, I, 19 (citant Platon)
+
+> « Toute peine est en elle-même un mal. Selon le principe d'utilité, si elle doit être admise, ce n'est que dans la mesure où elle promet d'écarter quelque mal plus grand. » — [Bentham](../philosophers/bentham.md), Introduction aux principes de la morale et de la législation, ch. XIII, §2
+
 ## Axes liés
 
 [Critère du juste](../axes/ethics-foundation.md) · [Pardon](../axes/forgiveness.md) · [Liberté de la volonté](../axes/freedom.md) · [Origine du lien social](../axes/social-contract.md) · [La violence](../axes/violence.md)

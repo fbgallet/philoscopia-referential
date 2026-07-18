@@ -56,5 +56,76 @@
       }
     }
   ],
-  "updatedAt": "2026-06-27T00:00:00.000Z"
+  "roles": [
+    {
+      "role": "OBJECTS",
+      "position": { "axisId": "SOVEREIGN_GOOD", "poleId": "HEDONISM" },
+      "attacks": "POSITION",
+      "argumentId": "hedonism-cradle-argument",
+      "problems": ["happiness-without-reality"],
+      "summary": {
+        "fr": "Si nous refusons de nous brancher à vie, c'est que nous voulons plus que du plaisir : agir vraiment, toucher le réel, être quelqu'un.",
+        "en": "If we refuse to plug in for life, it is because we want more than pleasure: to act for real, to touch the world, to be someone."
+      },
+      "reconstruction": {
+        "development": [
+          {
+            "fr": "Si le plaisir était le seul bien, se brancher à vie sur une machine procurant l'illusion parfaite de tous les plaisirs serait le meilleur choix possible.",
+            "en": "If pleasure were the only good, plugging in for life to a machine giving the perfect illusion of every pleasure would be the best possible choice."
+          },
+          {
+            "fr": "Or presque personne ne s'y brancherait pour toujours : nous voulons faire les choses et non seulement croire les faire, être quelqu'un et non seulement nous éprouver tel, toucher le réel et non le rêver.",
+            "en": "Yet almost no one would plug in forever: we want to do things and not merely believe we do, to be someone and not merely feel ourselves to be, to touch the real and not to dream it."
+          },
+          {
+            "fr": "Ce refus révèle que nous accordons de la valeur à des choses, agir vraiment, être en contact avec le monde, que le seul plaisir ressenti ne contient pas.",
+            "en": "This refusal reveals that we value things, acting for real, being in contact with the world, that felt pleasure alone does not contain."
+          }
+        ],
+        "conclusion": {
+          "fr": "Donc le plaisir n'est pas le souverain bien : une vie de plaisir sans réalité manque quelque chose que nous tenons pour essentiel.",
+          "en": "So pleasure is not the highest good: a life of pleasure without reality lacks something we take to be essential."
+        }
+      },
+      "responses": [
+        {
+          "id": "revise",
+          "label": {
+            "fr": "L'objection touche juste : ce que je veux, ce n'est pas seulement me sentir bien, c'est vivre vraiment, agir, aimer des personnes réelles. Le plaisir accompagne la bonne vie, il n'en est pas la mesure.",
+            "en": "The objection hits home: what I want is not merely to feel good, it is to live for real, to act, to love real people. Pleasure accompanies a good life, it is not its measure."
+          },
+          "hints": [{ "axisId": "SOVEREIGN_GOOD", "value": { "kind": "weights", "weights": [0.15, 0.7, 0.15] }, "weight": 2 }],
+          "discussion": {
+            "fr": "Vous glissez vers l'eudémonisme : le bien est l'accomplissement réel, dont le plaisir n'est qu'un signe.",
+            "en": "You slide toward eudaimonism: the good is real fulfillment, of which pleasure is only a sign."
+          }
+        },
+        {
+          "id": "qualify",
+          "label": {
+            "fr": "Le plaisir reste ma mesure, mais je le veux vécu dans le réel, pas dans une cuve : un plaisir authentique, pas n'importe lequel.",
+            "en": "Pleasure stays my measure, but I want it lived in the real, not in a tank: an authentic pleasure, not just any."
+          },
+          "hints": [{ "axisId": "SOVEREIGN_GOOD", "value": { "kind": "weights", "weights": [0.45, 0.4, 0.15] }, "weight": 1 }],
+          "discussion": {
+            "fr": "La réalité devient une condition du plaisir, non un bien rival : un hédonisme « de la réalité ».",
+            "en": "Reality becomes a condition of pleasure, not a rival good: a hedonism 'of the real'."
+          }
+        },
+        {
+          "id": "refute",
+          "label": {
+            "fr": "Je réfute : si la machine était parfaite, je ne manquerais jamais de rien. Mon refus vient d'une peur du truquage, pas d'une valeur supérieure à mon bien-être.",
+            "en": "I refute it: if the machine were perfect, I would never lack anything. My refusal comes from a fear of the fake, not from a value higher than my wellbeing."
+          },
+          "hints": [{ "axisId": "SOVEREIGN_GOOD", "value": { "kind": "weights", "weights": [0.8, 0.15, 0.05] }, "weight": 0.5 }],
+          "discussion": {
+            "fr": "Vous tenez la réponse de l'hédoniste conséquent : notre répugnance serait un préjugé, non une intuition sur le bien.",
+            "en": "You hold the consistent hedonist's reply: our repugnance would be a prejudice, not an insight into the good."
+          }
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
 }

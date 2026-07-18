@@ -1,0 +1,76 @@
+{
+  "id": "teleology-silent-world-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "LIFE_MEANING", "poleId": "TELEOLOGY" },
+  "name": { "fr": "Le monde ne répond pas", "en": "The world does not answer" },
+  "attacks": "POSITION",
+  "claim": {
+    "fr": "L'ordre qu'on croit déchiffrer, nous l'y projetons : le monde ne donne aucun signe d'une fin voulue pour nous.",
+    "en": "The order we think we decipher, we project onto the world: it gives no sign of an end intended for us."
+  },
+  "summary": {
+    "fr": "La téléologie lit un dessein dans l'ordre du monde ; mais cet ordre s'explique entièrement par des processus aveugles, et rien n'y indique une fin voulue pour nous. Le sens « trouvé » pourrait n'être qu'un sens projeté.",
+    "en": "Teleology reads a design into the order of the world; but that order is fully explained by blind processes, and nothing in it points to an end meant for us. The 'found' meaning could be only a projected one."
+  },
+  "development": [
+    {
+      "fr": "La téléologie affirme lire dans l'ordre du monde un dessein qui nous précède, et qui donnerait à nos vies leur direction.",
+      "en": "Teleology claims to read, in the order of the world, a design that precedes us and that would give our lives their direction."
+    },
+    {
+      "fr": "Mais cet ordre, les lois, l'ajustement des vivants, s'explique entièrement par des processus aveugles, la sélection, la physique, sans qu'aucune intention n'ait à intervenir. On explique le même monde sans supposer de fin.",
+      "en": "But that order, the laws, the fitting of living things, is fully explained by blind processes, selection, physics, without any intention having to intervene. One explains the same world without supposing an end."
+    },
+    {
+      "fr": "Et nulle part le monde ne montre qu'il ait un sens voulu pour nous : à notre demande de sens répond son silence. Lire un dessein dans les choses, c'est y projeter notre propre besoin d'être attendus quelque part.",
+      "en": "And nowhere does the world show that it has a meaning intended for us: to our demand for meaning it answers with silence. To read a design into things is to project onto them our own need to be awaited somewhere."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc le sens que la téléologie dit trouver pourrait bien n'être qu'un sens projeté : rien, dans l'ordre du monde, n'atteste une fin qui nous serait destinée.",
+    "en": "So the meaning teleology claims to find might well be only a projected one: nothing, in the order of the world, attests to an end destined for us."
+  },
+  "difficulty": 2,
+  "source": { "author": { "fr": "Camus", "en": "Camus" }, "figures": [{ "name": { "fr": "Camus", "en": "Camus" }, "kind": "PHILOSOPHER", "slug": "camus" }], "work": { "fr": "Le Mythe de Sisyphe", "en": "The Myth of Sisyphus" }, "workId": "the-myth-of-sisyphus-camus" },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "L'objection porte : je ne trouve nul signe d'un sens inscrit dans les choses. S'il doit y en avoir un, il me faudra le faire, ou tenir sans lui.",
+        "en": "The objection lands: I find no sign of a meaning inscribed in things. If there is to be one, I will have to make it, or hold out without it."
+      },
+      "hints": [{ "axisId": "LIFE_MEANING", "value": { "kind": "weights", "weights": [0.15, 0.35, 0.45, 0.05] }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous quittez la providence pour le sens construit ou la lucidité de l'absurde : rien n'étant donné, tout est à faire ou à affronter.",
+        "en": "You leave providence for constructed meaning or the lucidity of the absurd: nothing being given, everything is to be made or faced."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je garde la confiance en un ordre, mais je cesse de prétendre le déchiffrer clairement : il me dépasse, et je m'y fie sans en lire le détail.",
+        "en": "I keep my trust in an order, but stop claiming to decipher it clearly: it surpasses me, and I trust it without reading its detail."
+      },
+      "hints": [{ "axisId": "LIFE_MEANING", "value": { "kind": "weights", "weights": [0.5, 0.25, 0.2, 0.05] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous tenez une téléologie de la foi : l'ordre est cru plus que lu, confiance dans un sens qui excède ce que nous pouvons en montrer.",
+        "en": "You hold a teleology of faith: the order is believed more than read, trust in a meaning that exceeds what we can show of it."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : que la science explique le mécanisme ne dit rien de la fin. Un ordre si intelligible, où la raison trouve à se reconnaître, plaide encore pour un sens qui nous précède.",
+        "en": "I refute it: that science explains the mechanism says nothing about the end. An order so intelligible, in which reason finds itself reflected, still argues for a meaning that precedes us."
+      },
+      "hints": [{ "axisId": "LIFE_MEANING", "value": { "kind": "weights", "weights": [0.85, 0.05, 0.05, 0.05] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous distinguez le comment du pourquoi : expliquer le mécanisme n'épuise pas la question du sens, et l'intelligibilité du monde reste un indice.",
+        "en": "You distinguish the how from the why: explaining the mechanism does not exhaust the question of meaning, and the world's intelligibility remains a clue."
+      }
+    }
+  ],
+  "problems": ["meaning-inscribed"],
+  "targets": ["teleology-found-not-made"],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
+}

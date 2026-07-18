@@ -46,7 +46,7 @@ Scientisme 78% · Pluralisme épistémique 22%
 
 Le modèle est la physique de Newton : une poignée de lois mathématiques rend raison de tout le système du monde, sans qualités occultes ni fin providentielle. Les Lumières érigent cette réussite en méthode universelle, ce que la raison expérimentale a fait pour les cieux, elle peut le faire pour la morale, la politique et la religion. Aucune autorité, tradition, coutume ou révélation, n'est soustraite à l'examen ; tout doit comparaître devant le tribunal de la raison. Ce n'est pas encore le scientisme de [Comte](../philosophers/comte.md), qui fera de la science positive la seule connaissance, mais la science y devient le paradigme du savoir légitime et le levier de l'émancipation.
 
-> « Sapere aude ! Aie le courage de te servir de ton propre entendement : telle est la devise des Lumières. » (Kant, Qu'est-ce que les Lumières ? (1784))
+> « Sapere aude ! Aie le courage de te servir de ton propre entendement : telle est la devise des Lumières. », Réponse à la question : Qu'est-ce que les Lumières ?
 
 *Sources : Kant, Qu'est-ce que les Lumières ? · d'Alembert, Discours préliminaire de l'Encyclopédie*
 
@@ -108,7 +108,7 @@ Progressisme 90% · Conservatisme 10%
 
 De l'accumulation des connaissances et de la diffusion des lumières, le courant tire une thèse neuve : l'humanité avance, et cette marche peut être consciente et voulue. Les institutions et les lois ne sont pas sacrées du seul fait d'être anciennes ; elles doivent prouver leur utilité présente, faute de quoi la réforme est légitime. [Condorcet](../philosophers/condorcet.md) pousse l'idée jusqu'à une loi de l'histoire, l'esprit humain progressant par étapes vers la vérité, la liberté et le bonheur. Contre ce credo, [Burke](../philosophers/burke.md) dressera la sagesse accumulée de la tradition : c'est l'acte de naissance du clivage entre progressisme et conservatisme.
 
-> « La perfectibilité de l'homme est réellement indéfinie ; et le progrès de cette perfectibilité n'a d'autre terme que la durée du globe où la nature nous a jetés. » (Condorcet, Esquisse d'un tableau historique des progrès de l'esprit humain (1795))
+> « La perfectibilité de l'homme est réellement indéfinie ; et le progrès de cette perfectibilité n'a d'autre terme que la durée du globe où la nature nous a jetés. », Esquisse d'un tableau historique des progrès de l'esprit humain (1795)
 
 *Sources : Condorcet, Esquisse d'un tableau historique des progrès de l'esprit humain · Turgot, Discours sur les progrès successifs de l'esprit humain*
 
@@ -130,7 +130,7 @@ Droits naturels 70% · Droits et utilité 15% · Constructivisme politique 10% �
 
 Avant toute société et toute loi positive, l'homme possède en propre, du seul fait de sa nature raisonnable, des droits que nul pouvoir n'a conférés et que nul ne peut légitimement abolir : à la vie, à la liberté, à la propriété de sa personne. [Locke](../philosophers/locke.md) en fait la mesure de tout gouvernement, institué seulement pour les garantir. Ces droits sont universels parce qu'ils découlent d'une humanité commune, non des privilèges d'un ordre ou d'une naissance : c'est l'arme contre l'absolutisme et la société d'ordres, que la Déclaration de 1789 gravera dans le droit, « « les hommes naissent et demeurent libres et égaux en droits » ». [Bentham](../philosophers/bentham.md), de l'intérieur du siècle, objectera pourtant qu'un droit sans loi positive n'est qu'un « non-sens sur échasses ».
 
-> « Étant tous égaux et indépendants, nul ne doit nuire à un autre dans sa vie, sa santé, sa liberté ou ses biens. » (Locke, Second traité du gouvernement, §6)
+> « Étant tous égaux et indépendants, nul ne doit nuire à un autre dans sa vie, sa santé, sa liberté ou ses biens. », Second traité du gouvernement, §6
 
 *Sources : Locke, Deux traités du gouvernement, II · Déclaration des droits de l'homme et du citoyen (1789)*
 
@@ -152,7 +152,7 @@ Contractualisme 90% · Communauté organique 10%
 
 La société politique n'est pas un ordre naturel ou voulu de Dieu, mais une institution humaine née de l'accord des individus : sa seule source de légitimité est le consentement des gouvernés, non la force ni la tradition ni le droit divin des rois. [Locke](../philosophers/locke.md) en fait un pacte révocable, que le peuple peut dénoncer si le pouvoir trahit sa fin ; [Rousseau](../philosophers/rousseau.md) en cherche la forme où, s'associant à tous, chacun « n'obéisse pourtant qu'à lui-même » et reste libre. Contre cette fiction fondatrice, [Burke](../philosophers/burke.md) opposera la communauté organique, héritée et non contractée : mais c'est le contractualisme qui fournit à l'âge des révolutions sa grammaire de la légitimité.
 
-> « L'homme est né libre, et partout il est dans les fers. » (Rousseau, Du contrat social (1762), I, 1)
+> « L'homme est né libre, et partout il est dans les fers. », Du contrat social (1762), I, 1
 
 *Sources : Rousseau, Du contrat social · Locke, Deux traités du gouvernement, II*
 

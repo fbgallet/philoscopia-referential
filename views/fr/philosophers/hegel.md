@@ -10,6 +10,7 @@ Philosophe allemand de l'esprit et de l'histoire : il pense le réel comme dépl
 
 ## Influencé par
 
+- **[Schopenhauer](../philosophers/schopenhauer.md)** (réagit contre) : Le mépris de [Schopenhauer](../philosophers/schopenhauer.md) pour [Hegel](../philosophers/hegel.md) fut viscéral et public : à Berlin, il programma ses cours à la même heure que lui, et parla devant une salle vide. Contre l'optimisme d'un sens de l'histoire et la toute-puissance du concept, il oppose une métaphysique de la [Volonté](../glossary/vouloir-vivre.md) aveugle, le primat de l'intuition sur le discours, et une histoire sans progrès ni raison.
 - **[Spinoza](../philosophers/spinoza.md)** (réinterprète) : [Hegel](../philosophers/hegel.md) tient le spinozisme pour un passage obligé : « commencer à philosopher, c'est être spinoziste ». Il reprend l'exigence d'un absolu unique, mais reproche à la substance de [Spinoza](../philosophers/spinoza.md) d'être inerte et la refait sujet.
 
 ## Influence sur

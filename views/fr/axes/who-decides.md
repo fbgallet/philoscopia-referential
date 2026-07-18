@@ -22,6 +22,10 @@ Gouverner exige un savoir, comme piloter un navire ou soigner un malade. Confier
 
 *[Platon](../philosophers/plato.md) · Brennan*
 
+## Citations
+
+> « À l'instant qu'un peuple se donne des représentants, il n'est plus libre ; il n'est plus. » — [Rousseau](../philosophers/rousseau.md), Du contrat social, III, 15
+
 ## Axes liés
 
 [Liberté politique](../axes/political-liberty.md) · [Rapport à l'autorité](../axes/authority.md) · [Justice distributive](../axes/distributive-justice.md)

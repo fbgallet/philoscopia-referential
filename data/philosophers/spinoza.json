@@ -82,16 +82,7 @@
             "en": "Letter 58 to Schuller (the stone that thinks itself free)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Une pierre reçoit d'une cause extérieure qui la pousse une certaine quantité de mouvement... Concevez maintenant que cette pierre, tandis qu'elle continue de se mouvoir, pense et sache qu'elle fait effort, autant qu'elle peut, pour se mouvoir. Cette pierre, assurément, puisqu'elle n'a conscience que de son effort, croira être tout à fait libre.",
-            "en": "A stone receives from an external cause that pushes it a certain quantity of motion... Now conceive that this stone, while it continues to move, thinks and knows that it is striving, as far as it can, to move. This stone, surely, since it is conscious only of its striving, will believe itself entirely free."
-          },
-          "source": {
-            "fr": "Lettre 58 à Schuller",
-            "en": "Letter 58 to Schuller"
-          }
-        },
+        "quoteId": "une-pierre-recoit-d-une-cause-spinoza",
         "strength": "STRONG"
       }
     },
@@ -146,16 +137,7 @@
             "en": "Ethics, I, props. 14-15 (single substance)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Tout ce qui est, est en Dieu, et rien ne peut sans Dieu être ni être conçu.",
-            "en": "Whatever is, is in God, and nothing can be or be conceived without God."
-          },
-          "source": {
-            "fr": "Éthique, I, prop. 15",
-            "en": "Ethics, I, prop. 15"
-          }
-        },
+        "quoteId": "tout-ce-qui-est-est-en-spinoza",
         "strength": "STRONG"
       }
     },
@@ -183,16 +165,7 @@
             "en": "Treatise on the Emendation of the Intellect"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Ce genre de connaissance procède de l'idée adéquate de l'essence formelle de certains attributs de Dieu à la connaissance adéquate de l'essence des choses.",
-            "en": "This kind of knowledge proceeds from an adequate idea of the formal essence of certain attributes of God to the adequate knowledge of the essence of things."
-          },
-          "source": {
-            "fr": "Éthique, II, prop. 40, scolie 2",
-            "en": "Ethics, II, prop. 40, scholium 2"
-          }
-        },
+        "quoteId": "ce-genre-de-connaissance-procede-de-spinoza",
         "strength": "STRONG"
       }
     },
@@ -251,16 +224,7 @@
             "en": "Ethics, III, props. 6-7 (conatus)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Le désir est l'essence même de l'homme, en tant qu'on la conçoit comme déterminée à faire quelque chose par une affection donnée d'elle-même.",
-            "en": "Desire is the very essence of man, insofar as it is conceived as determined to do something by a given affection of itself."
-          },
-          "source": {
-            "fr": "Éthique, III, définitions des affects, déf. 1",
-            "en": "Ethics, III, definitions of the affects, def. 1"
-          }
-        },
+        "quoteId": "le-desir-est-l-essence-meme-spinoza",
         "strength": "STRONG"
       }
     },
@@ -292,16 +256,7 @@
             "en": "Ethics, V, prop. 42 (blessedness is not the reward of virtue but virtue itself)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "La béatitude n'est pas le prix de la vertu, mais la vertu même.",
-            "en": "Blessedness is not the reward of virtue, but virtue itself."
-          },
-          "source": {
-            "fr": "Éthique, V, prop. 42",
-            "en": "Ethics, V, prop. 42"
-          }
-        },
+        "quoteId": "la-beatitude-n-est-pas-le-spinoza",
         "strength": "STRONG"
       }
     },
@@ -329,16 +284,7 @@
             "en": "Ethics, V, prop. 3 (an affect of which we form a clear idea ceases to be a passion)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Je traiterai des actions et des appétits humains comme s'il était question de lignes, de plans et de corps.",
-            "en": "I shall treat human actions and appetites just as if it were a question of lines, planes, and bodies."
-          },
-          "source": {
-            "fr": "Éthique, III, préface",
-            "en": "Ethics, III, preface"
-          }
-        },
+        "quoteId": "je-traiterai-des-actions-et-des-spinoza",
         "strength": "STRONG"
       }
     },
@@ -362,16 +308,7 @@
             "en": "Ethics, V, prop. 6 (the mind suffers less from affects it refers to necessity)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "J'ai pris grand soin de ne pas tourner en dérision les actions humaines, de ne pas les déplorer, de ne pas les détester, mais de les comprendre.",
-            "en": "I have taken great care not to deride human actions, nor to bewail them, nor to detest them, but to understand them."
-          },
-          "source": {
-            "fr": "Traité politique, I, 4",
-            "en": "Political Treatise, I, 4"
-          }
-        },
+        "quoteId": "j-ai-pris-grand-soin-de-spinoza",
         "strength": "MEDIUM"
       }
     },
@@ -826,16 +763,7 @@
           "fr": "Au fond de l'amour, Spinoza ne voit ni manque ni don mais une joie : aimer, c'est passer à une plus grande perfection, joie rapportée à l'idée de sa cause (<w id='ethics-spinoza'>Éthique</w>, III). L'amour n'est donc pas l'élan d'un vide vers ce qui le comblerait, mais l'effort (<c>conatus</c>) de la puissance vers ce qui l'accroît, ce qui garde un air de parenté avec l'<c id='eros'>éros</c> sans en avoir le pathos du manque. Entre les hommes, cet effort culmine dans l'amitié des êtres guidés par la raison, qui s'accordent en nature, se sont mutuellement utiles et ne veulent rien pour eux qu'ils ne veuillent aussi pour autrui : une <c id='philia'>philia</c> rationnelle, réciproque et choisie. Au sommet, l'<c id='intellectual-love-of-god'>amour intellectuel de Dieu</c> excède tout lien interpersonnel : amour sans retour où le sage n'exige pas d'être aimé en retour, il tient du don désintéressé plus que de la possession.",
           "en": "At the heart of love Spinoza sees neither lack nor gift but a joy: to love is to pass to a greater perfection, a joy referred to the idea of its cause (<w id='ethics-spinoza'>Ethics</w>, III). Love is therefore not the surge of a void toward what would fill it, but the striving (<c>conatus</c>) of power toward what increases it, which keeps a kinship with <c id='eros'>eros</c> without its pathos of lack. Among human beings this striving culminates in the friendship of those guided by reason, who agree in nature, are mutually useful and want nothing for themselves that they do not also want for others: a rational <c id='philia'>philia</c>, reciprocal and chosen. At the summit, the <c id='intellectual-love-of-god'>intellectual love of God</c> exceeds every interpersonal bond: a love without return, in which the sage does not require to be loved back, closer to disinterested gift than to possession."
         },
-        "quote": {
-          "text": {
-            "fr": "Qui aime Dieu ne peut faire effort pour que Dieu l'aime en retour.",
-            "en": "He who loves God cannot strive that God should love him in return."
-          },
-          "source": {
-            "fr": "Éthique, V, prop. 19",
-            "en": "Ethics, V, prop. 19"
-          }
-        },
+        "quoteId": "qui-aime-dieu-ne-peut-faire-spinoza",
         "references": [
           {
             "fr": "Éthique, III (définition de l'amour) ; IV, prop. 35-37 et 70-71 (l'amitié des hommes raisonnables) ; V, prop. 19 et 32-37 (l'amour intellectuel de Dieu)",

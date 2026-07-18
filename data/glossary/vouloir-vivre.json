@@ -1,0 +1,47 @@
+{
+  "id": "vouloir-vivre",
+  "term": {
+    "fr": "Vouloir-vivre",
+    "en": "Will-to-live"
+  },
+  "aliases": {
+    "fr": [
+      "vouloir-vivre",
+      "Wille zum Leben"
+    ],
+    "en": [
+      "will-to-live",
+      "will to live",
+      "Wille zum Leben"
+    ]
+  },
+  "definition": {
+    "fr": "Le vouloir-vivre (Wille zum Leben) est, chez <ph id='schopenhauer'>Schopenhauer</ph>, le fond même du réel : la <c id='thing-in-itself'>chose en soi</c> kantienne identifiée à une Volonté aveugle, sans raison ni but, qui se manifeste à tous les degrés de la nature, de la gravitation à l'homme, et dont notre corps est l'objectivation immédiate. Ce vouloir n'est pas un choix conscient mais une poussée sans fin, toujours en manque, source de la souffrance universelle ; s'en délivrer suppose de le nier, non de le satisfaire.",
+    "en": "The will-to-live (Wille zum Leben) is, in <ph id='schopenhauer'>Schopenhauer</ph>, the very ground of the real: the Kantian <c id='thing-in-itself'>thing-in-itself</c> identified with a blind Will, without reason or goal, manifest at every grade of nature, from gravitation to man, and of which our body is the immediate objectification. This willing is not a conscious choice but an endless striving, forever in lack, the source of universal suffering; to be delivered from it means to deny it, not to satisfy it."
+  },
+  "relatedAxes": [
+    "REALITY_NATURE",
+    "DESIRE",
+    "COSMIC_OUTLOOK",
+    "LIFE_MEANING"
+  ],
+  "relatedTerms": [
+    "thing-in-itself",
+    "will-to-power",
+    "nirvana"
+  ],
+  "figure": {
+    "slug": "schopenhauer",
+    "name": {
+      "fr": "Schopenhauer",
+      "en": "Schopenhauer"
+    }
+  },
+  "positions": [
+    {
+      "axisId": "COSMIC_OUTLOOK",
+      "poleId": "TRAGIC_THOUGHT"
+    }
+  ],
+  "updatedAt": "2026-07-13T00:00:00.000Z"
+}

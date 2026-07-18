@@ -43,16 +43,7 @@
           "fr": "La devise « <q>Que sais-je ?</q> » n'est pas une thèse mais une question tenue ouverte. Dans l'<w id='essays-montaigne'>Apologie de Raimond Sebond</w>, Montaigne reprend tout l'arsenal des <ph>sceptiques</ph> grecs, diversité des opinions, faiblesse des sens, dépendance de la raison à la coutume, pour rabattre l'orgueil d'une raison qui prétend tout fonder. Mais son <c id='skepticism'>scepticisme</c> ne s'arrête pas à <ph>Pyrrhon</ph> : il refuse l'<c id='epoche'>épochè</c> systématique comme un nouveau dogme, garde l'usage des croyances pour vivre et conduit le doute non vers l'<c id='ataraxia'>ataraxie</c> impassible mais vers la modestie, l'enquête sur soi et la <c id='tolerance'>tolérance</c>. C'est un doute habité, faillibiliste avant la lettre, qui en fait l'aiguillon dont <ph>Descartes</ph> fera, contre lui, son point de départ.",
           "en": "The motto \"<q>What do I know?</q>\" is not a thesis but a question held open. In the <w id='essays-montaigne'>Apology for Raymond Sebond</w>, Montaigne takes up the whole arsenal of the Greek <ph>skeptics</ph>, the diversity of opinions, the weakness of the senses, reason's dependence on custom, to humble the pride of a reason that claims to ground everything. But his <c id='skepticism'>skepticism</c> does not stop at <ph>Pyrrho</ph>: he refuses systematic <c id='epoche'>epochē</c> as a new dogma, keeps the use of beliefs in order to live, and turns doubt not toward an impassive <c id='ataraxia'>ataraxia</c> but toward modesty, self-inquiry and <c id='tolerance'>tolerance</c>. It is an inhabited, fallibilist-before-the-word doubt, the goad from which <ph>Descartes</ph>, against him, would make his starting point."
         },
-        "quote": {
-          "text": {
-            "fr": "Que sais-je ?",
-            "en": "What do I know?"
-          },
-          "source": {
-            "fr": "Essais, II, 12, « Apologie de Raimond Sebond »",
-            "en": "Essays, II, 12, \"Apology for Raymond Sebond\""
-          }
-        },
+        "quoteId": "que-sais-je-montaigne",
         "references": [
           {
             "fr": "Essais, II, 12, « Apologie de Raimond Sebond »",
@@ -76,16 +67,7 @@
           "fr": "Là où la philosophie cherchait des vérités universelles, Montaigne prend un objet inédit : lui-même. L'<c id='epoche'>épochè</c> sceptique, en suspendant les grandes certitudes, dégage paradoxalement le seul terrain qui reste à explorer, l'expérience intérieure d'un homme particulier. Se peindre, non pour s'admirer mais pour atteindre la <stk>condition humaine</stk> à travers un cas singulier, devient une méthode : « <q>chaque homme porte la forme entière de l'humaine condition</q> ». C'est la <c>vie examinée</c> déplacée de la <c id='elenchos'>réfutation</c> socratique vers l'observation patiente de soi.",
           "en": "Where philosophy sought universal truths, Montaigne takes an unprecedented object: himself. Skeptical <c id='epoche'>epochē</c>, by suspending the great certainties, paradoxically clears the one ground left to explore, the inner experience of one particular man. To portray oneself, not out of vanity but to reach the <stk>human condition</stk> through a single case, becomes a method: \"<q>each man bears the whole form of the human condition</q>\". It is the <c>examined life</c> shifted from Socratic <c id='elenchos'>refutation</c> toward patient self-observation."
         },
-        "quote": {
-          "text": {
-            "fr": "Je suis moi-même la matière de mon livre.",
-            "en": "I am myself the matter of my book."
-          },
-          "source": {
-            "fr": "Essais, « Au lecteur »",
-            "en": "Essays, \"To the Reader\""
-          }
-        },
+        "quoteId": "je-suis-moi-meme-la-matiere-montaigne",
         "references": [
           {
             "fr": "Essais, « Au lecteur » et III, 2, « Du repentir »",
@@ -114,16 +96,7 @@
           "fr": "Montaigne ne trouve en lui aucune substance fixe. Le moi est « <q>le branle</q> », un flux d'humeurs, d'opinions et d'états contradictoires d'un instant à l'autre, plus proche d'un faisceau changeant que d'une âme stable. Ce qui le tient pourtant ensemble n'est pas une essence mais, semble-t-il, l'écriture continuée des <w id='essays-montaigne'>Essais</w>, qui ressaisit ce passage dans un autoportrait jamais clos : d'où une part narrative qui tempère le pur <dif>fagotage</dif> des parties. Le moi, chez lui, n'est pas donné, il se compose à mesure qu'on le raconte.",
           "en": "Montaigne finds in himself no fixed substance. The self is \"<q>the sway</q>\", a flux of moods, opinions and states contradictory from one instant to the next, closer to a shifting bundle than to a stable soul. What nonetheless holds it together is no essence but, it seems, the continued writing of the <w id='essays-montaigne'>Essays</w>, which recaptures this passing in a self-portrait never closed: hence a narrative strand that tempers the sheer <dif>patchwork</dif> of the parts. For him the self is not given, it is composed in the very telling."
         },
-        "quote": {
-          "text": {
-            "fr": "Je ne peins pas l'être, je peins le passage.",
-            "en": "I do not portray being, I portray passing."
-          },
-          "source": {
-            "fr": "Essais, III, 2, « Du repentir »",
-            "en": "Essays, III, 2, \"Of Repentance\""
-          }
-        },
+        "quoteId": "je-ne-peins-pas-l-etre-montaigne",
         "references": [
           {
             "fr": "Essais, III, 2, « Du repentir » et II, 1, « De l'inconstance de nos actions »",
@@ -151,16 +124,7 @@
           "fr": "Notre malheur, observe Montaigne, vient de ne jamais habiter le présent : nous errons au-devant ou au-derrière de nous, à craindre l'avenir et regretter le passé, si bien que nous oublions de vivre l'heure qui est là. La sagesse renverse l'effort : non pas se projeter ni accumuler, mais « <q>jouir loyalement de son être</q> », savourer pleinement ce qui se présente, comme <ph>Épicure</ph> mais sans système. Le dernier mot des <w id='essays-montaigne'>Essais</w> n'est plus « apprendre à mourir » mais apprendre à vivre, c'est-à-dire revenir au présent que la peur de la mort nous dérobe.",
           "en": "Our unhappiness, Montaigne observes, comes from never inhabiting the present: we wander ahead of or behind ourselves, fearing the future and regretting the past, so that we forget to live the hour at hand. Wisdom reverses the effort: not to project oneself nor to hoard, but to \"<q>enjoy one's being loyally</q>\", to savor fully what presents itself, like <ph>Epicurus</ph> but without a system. The last word of the <w id='essays-montaigne'>Essays</w> is no longer \"to learn to die\" but to learn to live, that is, to return to the present that fear of death steals from us."
         },
-        "quote": {
-          "text": {
-            "fr": "Nous ne sommes jamais chez nous, nous sommes toujours au-delà.",
-            "en": "We are never at home, we are always beyond ourselves."
-          },
-          "source": {
-            "fr": "Essais, I, 3, « Nos affections s'emportent au-delà de nous »",
-            "en": "Essays, I, 3, \"Our Feelings Reach Out Beyond Us\""
-          }
-        },
+        "quoteId": "nous-ne-sommes-jamais-chez-nous-montaigne",
         "references": [
           {
             "fr": "Essais, I, 20, « Que philosopher c'est apprendre à mourir » et III, 13, « De l'expérience »",
@@ -211,16 +175,7 @@
           "fr": "Dans « Des cannibales », Montaigne retourne le regard de l'Européen sur lui-même : nous tenons pour barbare ce qui s'écarte de nos usages, sans voir que les nôtres seraient tout aussi étranges vus d'ailleurs. « <q>Chacun appelle barbarie ce qui n'est pas de son usage</q> ». La diversité des mœurs à travers le monde montre que nos certitudes morales doivent moins à la <c>raison</c> qu'à la <c id='coutume'>coutume</c>, « <q>autre monde, autres lois </q>». Ce relativisme reste pourtant prudent : il sert à désarmer le fanatisme et la cruauté, non à tout permettre, car la cruauté des conquérants, elle, est jugée pire que celle des « sauvages ».",
           "en": "In \"Of Cannibals\", Montaigne turns the European's gaze back upon himself: we hold barbarous whatever departs from our usages, never seeing that our own would look just as strange from elsewhere. \"<q>Each man calls barbarism whatever is not his own practice</q>\". The diversity of customs across the world shows that our moral certainties owe less to <c>reason</c> than to <c id='coutume'>custom</c>, \"<q>other world, other laws</q>\". This relativism stays prudent, though: it serves to disarm fanaticism and cruelty, not to permit everything, for the cruelty of the conquerors is judged worse than that of the \"savages\"."
         },
-        "quote": {
-          "text": {
-            "fr": "Chacun appelle barbarie ce qui n'est pas de son usage.",
-            "en": "Each man calls barbarism whatever is not his own practice."
-          },
-          "source": {
-            "fr": "Essais, I, 31, « Des cannibales »",
-            "en": "Essays, I, 31, \"Of Cannibals\""
-          }
-        },
+        "quoteId": "chacun-appelle-barbarie-ce-qui-n-montaigne",
         "references": [
           {
             "fr": "Essais, I, 31, « Des cannibales » et II, 12",
@@ -369,16 +324,7 @@
           "fr": "Si nos lois ne tiennent pas à la <c>raison</c> mais à la <c id='coutume'>coutume</c>, le réformateur qui veut les refaire au nom du vrai risque, en ébranlant l'édifice, plus de maux qu'il n'en guérit, comme le montrent les guerres de Religion. Montaigne en tire un conservatisme paradoxal : il faut obéir aux lois « <q>parce qu'elles sont lois</q> », non parce qu'elles sont justes, car leur autorité tient à leur ancienneté, non à leur fondement. Ce n'est pas amour de l'ordre établi mais défiance envers les nouveautés, dont le coût certain l'emporte sur le gain incertain. Un sceptique en politique est volontiers conservateur, faute de certitude pour justifier le risque du changement.",
           "en": "If our laws rest not on <c>reason</c> but on <c id='coutume'>custom</c>, the reformer who would remake them in the name of truth risks, in shaking the edifice, more harm than he cures, as the Wars of Religion show. Montaigne draws from this a paradoxical conservatism: one should obey the laws \"<q>because they are laws</q>\", not because they are just, for their authority lies in their antiquity, not in their foundation. This is not love of the established order but distrust of novelties, whose certain cost outweighs their uncertain gain. A skeptic in politics is readily conservative, for want of any certainty to justify the risk of change."
         },
-        "quote": {
-          "text": {
-            "fr": "Les lois se maintiennent en crédit, non parce qu'elles sont justes, mais parce qu'elles sont lois.",
-            "en": "Laws keep their credit not because they are just, but because they are laws."
-          },
-          "source": {
-            "fr": "Essais, III, 13, « De l'expérience »",
-            "en": "Essays, III, 13, \"Of Experience\""
-          }
-        },
+        "quoteId": "les-lois-se-maintiennent-en-credit-montaigne",
         "references": [
           {
             "fr": "Essais, III, 13, « De l'expérience » et I, 23, « De la coutume »",
@@ -480,16 +426,7 @@
           "fr": "Le ressort de l'<w id='essays-montaigne'>Apologie</w> est d'un <c id='fideisme'>fidéisme</c> paradoxal : en ruinant les prétentions de la <c>raison</c> à prouver quoi que ce soit de Dieu, Montaigne ne détruit pas la foi mais lui ôte ses faux appuis. Une raison incapable d'atteindre la moindre certitude ne saurait fonder la religion, qui ne peut donc tenir que de la grâce et de l'autorité, non de la démonstration. Loin d'opposer foi et raison dans un <dif>conflit</dif>, il les sépare en les hiérarchisant, la faiblesse même de la raison servant d'argument à la soumission croyante.",
           "en": "The mainspring of the <w id='essays-montaigne'>Apology</w> is a paradoxical <c id='fideisme'>fideism</c>: by ruining reason's claim to prove anything of God, Montaigne does not destroy faith but strips it of its false supports. A reason incapable of reaching the slightest certainty cannot ground religion, which can therefore hold only by grace and authority, not by demonstration. Far from setting faith and reason in a <dif>conflict</dif>, he separates them while ranking them, the very weakness of reason serving as an argument for believing submission."
         },
-        "quote": {
-          "text": {
-            "fr": "C'est la foi seule qui embrasse vivement et certainement les hauts mystères de notre religion.",
-            "en": "It is faith alone that vividly and certainly embraces the high mysteries of our religion."
-          },
-          "source": {
-            "fr": "Essais, II, 12, « Apologie de Raimond Sebond »",
-            "en": "Essays, II, 12, \"Apology for Raymond Sebond\""
-          }
-        },
+        "quoteId": "c-est-la-foi-seule-qui-montaigne",
         "references": [
           {
             "fr": "Essais, II, 12, « Apologie de Raimond Sebond »",
@@ -679,16 +616,7 @@
           "fr": "Montaigne ne cherche pas le sens de la vie dans un ordre cosmique ni dans un au-delà, mais dans la qualité de l'existence présente bien vécue. Sans nier une <c>nature</c> à suivre, il fait de la vie un art personnel, une composition de soi au jour le jour plutôt qu'un destin reçu. Le sens n'est pas donné d'en haut, il se fabrique dans la manière d'habiter sa propre vie.",
           "en": "Montaigne seeks the meaning of life neither in a cosmic order nor in an afterlife, but in the quality of a present existence well lived. Without denying a <c>nature</c> to follow, he makes of life a personal art, a day-by-day composition of the self rather than a received destiny. Meaning is not handed down from above, it is fashioned in the way one inhabits one's own life."
         },
-        "quote": {
-          "text": {
-            "fr": "Notre grand et glorieux chef-d'œuvre, c'est vivre à propos.",
-            "en": "Our great and glorious masterpiece is to live fitly."
-          },
-          "source": {
-            "fr": "Essais, III, 13, « De l'expérience »",
-            "en": "Essays, III, 13, \"Of Experience\""
-          }
-        },
+        "quoteId": "notre-grand-et-glorieux-chef-d-montaigne",
         "references": [
           {
             "fr": "Essais, III, 13, « De l'expérience »",
@@ -720,16 +648,7 @@
           "fr": "Reprenant la <c id='philia'>philia</c> d'<ph id='aristotle'>Aristote</ph> mais la portant à l'incandescence, Montaigne réserve, dans le chapitre « De l'amitié » de ses <w id='essays-montaigne'>Essais</w>, le nom d'amitié à un lien unique, librement choisi, qui passe avant l'amour-passion : l'ardeur amoureuse n'est qu'un feu volage et changeant, tandis que l'amitié parfaite est une chaleur constante où deux âmes <q>se mêlent et se confondent l'une en l'autre</q>. Il la dit sans autre fondement qu'elle-même, irréductible à l'utilité, au plaisir ou au devoir de parenté ; chacun s'y donne sans réserve, part de don qui excède le simple échange de bons offices. De sa communion avec <per>La Boétie</per>, il ne sait donner d'autre raison que l'évidence réciproque des deux êtres.",
           "en": "Taking up <ph id='aristotle'>Aristotle</ph>'s <c id='philia'>philia</c> but raising it to a white heat, Montaigne reserves, in the chapter \"On friendship\" of his <w id='essays-montaigne'>Essays</w>, the name of friendship for a single, freely chosen bond that comes before love-as-passion: amorous ardour is but a fickle, shifting fire, whereas perfect friendship is a steady warmth in which two souls <q>mingle and blend into one another</q>. He holds it to have no ground but itself, irreducible to usefulness, to pleasure or to the duty of kinship; in it each gives themselves without reserve, a share of gift that exceeds any mere exchange of good offices. Of his communion with <per>La Boétie</per> he can give no reason other than the mutual self-evidence of the two beings."
         },
-        "quote": {
-          "text": {
-            "fr": "Parce que c'était lui, parce que c'était moi.",
-            "en": "Because it was he, because it was I."
-          },
-          "source": {
-            "fr": "Essais, I, 28 (« De l'amitié »)",
-            "en": "Essays, I, 28 (\"On friendship\")"
-          }
-        },
+        "quoteId": "parce-que-c-etait-lui-parce-montaigne",
         "references": [
           {
             "fr": "Essais, I, 28 (« De l'amitié »)",

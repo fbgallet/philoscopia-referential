@@ -48,10 +48,39 @@ La morale s'enracine dans l'attention concrète portée aux personnes vulnérabl
 - **Une morale trop exigeante ?** : Si seul compte le plus grand bien, la morale semble exiger de tout sacrifier pour les autres, sans limite : peut-elle vraiment réclamer cela, ou doit-elle laisser une place à nos vies propres ?
 - **La règle ou la situation** : Bien agir, est-ce appliquer des principes valables d'avance, ou juger chaque situation dans sa singularité, au risque que la règle et le cas ne coïncident jamais tout à fait ?
 
+## Arguments
+
+- *Conséquentialisme* · pour : [Seuls comptent les effets](../arguments/consequentialism-only-results-matter.md)
+- *Déontologisme* · pour : [Jamais un simple moyen](../arguments/deontologism-humanity-as-end.md)
+- *Éthique des vertus* · pour : [Qui être, avant que faire](../arguments/virtue-ethics-being-good.md)
+- *Éthique des vertus* · contre : [Que dois-je faire, au juste ?](../arguments/virtue-ethics-guidance-objection.md)
+- *Éthique du care* · pour : [Ce que l'impartialité présuppose](../arguments/care-ethics-concrete-relations.md)
+- *Éthique du care* · contre : [Le soin peut être injuste](../arguments/care-ethics-partiality-objection.md)
+
 ## Relations de fondation
 
 - *[Essence et existence](../axes/essence.md) : Essentialisme* fonde *[Critère du juste](../axes/ethics-foundation.md) : Éthique des vertus* : Si l'être humain a une nature et une fonction propres, bien agir, c'est exceller dans l'accomplissement de cette fonction, c'est-à-dire être vertueux. L'essentialisme fonde l'éthique des vertus : [Aristote](../philosophers/aristotle.md) définit le bien de l'homme par l'activité excellente de la raison, affaire de caractère plus que de règles.
 - *[Statut des normes (métaéthique)](../axes/moral-scope.md) : Universalisme* fonde *[Critère du juste](../axes/ethics-foundation.md) : Déontologisme* : S'il existe des normes objectives valables pour tout être raisonnable, le critère du juste est la conformité au devoir, et non le calcul des effets. L'universalisme moral fonde le déontologisme : [Kant](../philosophers/kant.md) tire de la raison un [impératif catégorique](../glossary/categorical-imperative.md) qui vaut sans condition, indépendamment des conséquences.
+
+## Citations
+
+> « Agis uniquement d'après la maxime grâce à laquelle tu peux vouloir en même temps qu'elle devienne une loi universelle. » — [Kant](../philosophers/kant.md), Fondements de la métaphysique des mœurs, section II
+
+> « L'homme de bien recherche en lui-même, l'homme de peu recherche chez les autres. » — [Confucius](../philosophers/confucius.md), Entretiens (Lunyu), XV, 21
+
+> « La générosité, qui est comme la clef de toutes les autres vertus. » — [Descartes](../philosophers/descartes.md), Les passions de l'âme, art. 161
+
+> « La morale est plus proprement sentie que jugée. » — [Hume](../philosophers/hume.md), Traité de la nature humaine, III, I, 2
+
+> « La nature a placé l'humanité sous l'empire de deux maîtres souverains, la peine et le plaisir. C'est à eux seuls qu'il appartient de désigner ce que nous devons faire. » — [Bentham](../philosophers/bentham.md), Introduction aux principes de morale et de législation, chapitre 1
+
+> « La vertu est une disposition à agir de façon délibérée, consistant en une médiété relative à nous, déterminée par la raison comme la déterminerait l'homme prudent. » — [Aristote](../philosophers/aristotle.md), Éthique à Nicomaque, II, 6, 1106b-1107a
+
+> « Les actions sont bonnes dans la mesure où elles tendent à promouvoir le bonheur, et mauvaises dans la mesure où elles tendent à produire le contraire du bonheur. » — [Mill](../philosophers/mill.md), L'Utilitarisme, ch. 2
+
+> « Par principe d'utilité on entend ce principe qui approuve ou désapprouve toute action selon la tendance qu'elle semble avoir à augmenter ou à diminuer le bonheur de la partie dont l'intérêt est en jeu. » — [Bentham](../philosophers/bentham.md), Introduction aux principes de la morale et de la législation, ch. I, §2
+
+> « Se vaincre soi-même et revenir aux rites, voilà l'humanité (ren). » — [Confucius](../philosophers/confucius.md), Entretiens, XII, 1
 
 ## Axes liés
 

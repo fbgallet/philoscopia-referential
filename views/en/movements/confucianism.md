@@ -102,7 +102,7 @@ Empiricism 70% · Rationalism 30%
 
 Confucian knowledge is won through study, observation and the imitation of the ancients, not through innate ideas. To learn is to steep oneself in the texts, the rites and the examples, a patient formation through experience and tradition rather than through rational deduction; the Master himself claims to be not one born wise, but a lover of antiquity, quick to seek it there.
 
-> “I am not one who was born with knowledge; I love the ancients and earnestly seek it there.” (Analects, VII.20)
+> “I am not one who was born with knowledge; I love the ancients and earnestly seek it there.”, Analects, VII.20
 
 *Sources : Analects (Lunyu), VII.1 and VII.20 · Analects, II.15*
 
@@ -124,7 +124,7 @@ Virtue ethics 90% · Deontologism 10%
 
 No law and no calculation can stand in for an upright character: what makes the good is the acquired disposition from which the right act springs naturally, not an external rule one applies. Hence the primacy of self-cultivation (xiushen) over prescription: the moral life is the gradual acquisition of virtues, chief among them ren 仁 (humaneness), whose accomplished figure is the junzi (the person of noble character). This is why Confucianism distrusts solutions by decree, whether the universal love decreed by the Mohists or the order imposed by the penal law of the Legalists: only the transformation of the heart yields a reliable agent.
 
-> “The noble person seeks it in himself; the small person seeks it in others.” (Confucius, Analects (Lunyu), 15.21)
+> “The noble person seeks it in himself; the small person seeks it in others.”, Analects (Lunyu), 15.21
 
 *Sources : Confucius, Analects (Lunyu) · Mencius (Mengzi), 2A6*
 
@@ -146,7 +146,7 @@ Conservatism 90% · Progressivism 10%
 
 Human order has already been realized once, by the sage-kings of antiquity (Yao, Shun, the Zhou): there is therefore an accomplished model to recover, not a Way to invent from scratch. The present is in disorder precisely because it has broken with that model, hence the task: to transmit and revive the inherited rites (li 禮) rather than replace them. This trust in the legacy sets Confucianism apart both from [Daoist](../movements/taoism.md) naturalism, which would undo the artifice of the rites to recover the spontaneity of the [dao](../glossary/dao.md), and from Legalist innovation, which grounds order on new laws indifferent to the past. For the Confucian, moral authority is not decreed: it is received from a tested tradition.
 
-> “I transmit but do not innovate; I trust in and love the ancients.” (Confucius, Analects (Lunyu), 7.1)
+> “I transmit but do not innovate; I trust in and love the ancients.”, Analects (Lunyu), 7.1
 
 *Sources : Confucius, Analects (Lunyu), 7.1 · Confucius, Analects (Lunyu), 3.14*
 
@@ -208,7 +208,7 @@ Authority 85% · Anarchism 15%
 
 Governing by law and punishment yields at best subjects who avoid the penalty without blushing at the fault: coercion regulates acts but leaves hearts untouched, and the order so kept stays external and fragile. Governing by virtue and example, by contrast, gives a sense of shame and a reformed heart, hence an obedience that comes of itself. This is Confucianism's decisive argument against the Legalists: the hierarchical authority it embraces, of ruler and of father alike, is legitimate only as moral and benevolent, never as arbitrary domination, for its efficacy lies in its power to attract rather than to compel.
 
-> “He who governs by virtue may be compared to the pole star, which keeps its place while all the other stars turn toward it.” (Confucius, Analects (Lunyu), 2.1)
+> “He who governs by virtue may be compared to the pole star, which keeps its place while all the other stars turn toward it.”, Analects (Lunyu), 2.1
 
 *Sources : Confucius, Analects (Lunyu), 2.1 · Confucius, Analects (Lunyu), 2.3*
 

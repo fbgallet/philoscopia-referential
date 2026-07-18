@@ -139,16 +139,7 @@
           }
         ],
         "strength": "STRONG",
-        "quote": {
-          "text": {
-            "fr": "À soixante-dix ans, je suivais les désirs de mon cœur sans jamais franchir la règle.",
-            "en": "At seventy, I could follow my heart's desire without overstepping the line."
-          },
-          "source": {
-            "fr": "Entretiens, II.4",
-            "en": "Analects, II.4"
-          }
-        }
+        "quoteId": "a-soixante-dix-ans-je-suivais-confucius"
       }
     },
     {
@@ -199,16 +190,7 @@
           }
         ],
         "strength": "MEDIUM",
-        "quote": {
-          "text": {
-            "fr": "Le vouloir-humain est-il donc loin ? Dès que je le veux, le voici.",
-            "en": "Is humaneness far off? No sooner do I desire it than it is here."
-          },
-          "source": {
-            "fr": "Entretiens, VII.29",
-            "en": "Analects, VII.29"
-          }
-        }
+        "quoteId": "le-vouloir-humain-est-il-donc-confucius"
       }
     },
     {
@@ -240,16 +222,7 @@
             "en": "Analects, IV, 5 and VI, 30 (the junzi never departs from humaneness)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Se vaincre soi-même et revenir aux rites, voilà l'humanité (ren).",
-            "en": "To master oneself and return to the rites: that is humaneness (ren)."
-          },
-          "source": {
-            "fr": "Entretiens, XII, 1",
-            "en": "Analects, XII, 1"
-          }
-        },
+        "quoteId": "se-vaincre-soi-meme-et-revenir-confucius",
         "strength": "STRONG"
       }
     },
@@ -277,16 +250,7 @@
             "en": "Analects, XIII, 18 (the father screens the son, the son screens the father)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Le droit chemin est là : le père couvre son fils, le fils couvre son père.",
-            "en": "Uprightness lies in this: the father screens his son, and the son screens his father."
-          },
-          "source": {
-            "fr": "Entretiens, XIII, 18",
-            "en": "Analects, XIII, 18"
-          }
-        },
+        "quoteId": "le-droit-chemin-est-la-le-confucius",
         "strength": "STRONG"
       }
     },
@@ -314,16 +278,7 @@
             "en": "Analects, III, 14 (Confucius follows the Zhou)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Je transmets et je n'invente pas ; j'aime les Anciens et je leur fais confiance.",
-            "en": "I transmit and do not create; I love the Ancients and trust them."
-          },
-          "source": {
-            "fr": "Entretiens, VII, 1",
-            "en": "Analects, VII, 1"
-          }
-        },
+        "quoteId": "je-transmets-et-je-n-invente-confucius",
         "strength": "STRONG"
       }
     },
@@ -355,16 +310,7 @@
             "en": "Analects, VII, 19 (a man fond of antiquity, untiring in his study)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Qui ranime l'ancien pour comprendre le nouveau est digne d'être un maître.",
-            "en": "He who revives the old to understand the new is fit to be a teacher."
-          },
-          "source": {
-            "fr": "Entretiens, II, 11",
-            "en": "Analects, II, 11"
-          }
-        },
+        "quoteId": "qui-ranime-l-ancien-pour-comprendre-confucius",
         "strength": "STRONG"
       }
     },
@@ -473,16 +419,7 @@
             "en": "Analects, XIV, 27 (the junzi is ashamed when his words exceed his deeds)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Si les noms ne sont pas corrects, le langage n'est pas conforme à la vérité des choses ; alors les affaires ne peuvent réussir.",
-            "en": "If names are not correct, language is not in accord with the truth of things; then affairs cannot succeed."
-          },
-          "source": {
-            "fr": "Entretiens, XIII, 3",
-            "en": "Analects, XIII, 3"
-          }
-        },
+        "quoteId": "si-les-noms-ne-sont-pas-confucius",
         "strength": "STRONG"
       }
     },
@@ -510,16 +447,7 @@
             "en": "Analects, IV, 17 (seeing a worthy man, think of equalling him; seeing an unworthy one, examine yourself)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Chaque jour je m'examine sur trois points : ai-je été fidèle en agissant pour autrui, sincère envers mes amis, et ai-je pratiqué ce qui m'a été enseigné ?",
-            "en": "Each day I examine myself on three points: have I been faithful in acting for others, sincere with my friends, and have I practised what was taught to me?"
-          },
-          "source": {
-            "fr": "Entretiens, I, 4",
-            "en": "Analects, I, 4"
-          }
-        },
+        "quoteId": "chaque-jour-je-m-examine-sur-confucius",
         "strength": "STRONG"
       }
     },
@@ -547,16 +475,7 @@
             "en": "Analects, XI, 22 (the master answers each disciple differently)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Un homme sans humanité, qu'a-t-il à faire des rites ? Un homme sans humanité, qu'a-t-il à faire de la musique ?",
-            "en": "A man without humaneness, what has he to do with the rites? A man without humaneness, what has he to do with music?"
-          },
-          "source": {
-            "fr": "Entretiens, III, 3",
-            "en": "Analects, III, 3"
-          }
-        },
+        "quoteId": "un-homme-sans-humanite-qu-a-confucius",
         "strength": "MEDIUM"
       }
     },
@@ -584,16 +503,7 @@
             "en": "Analects, II, 3 (governing by virtue and the rites rather than by punishments)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Gouvernez le peuple par la vertu, maintenez-le par les rites, et il aura le sentiment de l'honneur et viendra à vous.",
-            "en": "Lead the people by virtue, keep them in order by the rites, and they will have a sense of shame and come to you."
-          },
-          "source": {
-            "fr": "Entretiens, II, 3",
-            "en": "Analects, II, 3"
-          }
-        },
+        "quoteId": "gouvernez-le-peuple-par-la-vertu-confucius",
         "strength": "STRONG"
       }
     },
@@ -706,16 +616,7 @@
             "en": "Analects, XV, 24 and VI, 30 (not inflicting on others what you would not wish; helping others to stand)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Ce que tu ne veux pas qu'on te fasse, ne le fais pas à autrui.",
-            "en": "What you do not wish for yourself, do not do to others."
-          },
-          "source": {
-            "fr": "Entretiens, XV, 24",
-            "en": "Analects, XV, 24"
-          }
-        },
+        "quoteId": "ce-que-tu-ne-veux-pas-confucius",
         "strength": "STRONG"
       }
     },
@@ -774,16 +675,7 @@
             "en": "Analects, XVI, 9 (the grades of knowing: innate, gained by study, gained through difficulty)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Par nature, les hommes sont proches les uns des autres ; par la pratique, ils s'éloignent.",
-            "en": "By nature men are close to one another; through practice they grow far apart."
-          },
-          "source": {
-            "fr": "Entretiens, XVII, 2",
-            "en": "Analects, XVII, 2"
-          }
-        },
+        "quoteId": "par-nature-les-hommes-sont-proches-confucius",
         "strength": "STRONG"
       }
     },
@@ -951,16 +843,7 @@
             "en": "Analects, VII, 8 and II, 17 (active study; knowing what one knows and does not know)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Apprendre sans réfléchir est vain ; réfléchir sans apprendre est dangereux.",
-            "en": "Learning without thought is labour lost; thought without learning is perilous."
-          },
-          "source": {
-            "fr": "Entretiens, II, 15",
-            "en": "Analects, II, 15"
-          }
-        },
+        "quoteId": "apprendre-sans-reflechir-est-vain-reflechir-confucius",
         "strength": "MEDIUM"
       }
     },

@@ -97,5 +97,174 @@
     "KNOWLEDGE_STATUS",
     "KNOWLEDGE_SOURCE",
     "CERTAINTY"
+  ],
+  "problems": [
+    {
+      "id": "the-black-swan",
+      "resolution": "SURFACED",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "une loi universelle", "en": "a universal law" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "cygne noir", "en": "black swan" },
+        { "fr": "asymétrie confirmation/réfutation", "en": "confirmation/refutation asymmetry" },
+        { "fr": "généralisation", "en": "generalisation" }
+      ],
+      "poles": ["INDUCTIVISM", "FALSIFICATIONISM", "BAYESIANISM"],
+      "anchors": [
+        { "name": { "fr": "Popper", "en": "Popper" }, "kind": "PHILOSOPHER", "slug": "popper" },
+        { "name": { "fr": "Bacon", "en": "Bacon" }, "kind": "PHILOSOPHER", "slug": "bacon" },
+        { "name": { "fr": "Mill", "en": "Mill" }, "kind": "PHILOSOPHER", "slug": "mill" }
+      ],
+      "title": { "fr": "Le cygne noir", "en": "The black swan" },
+      "explicitation": {
+        "fr": "Aucun nombre de cygnes blancs ne prouve que tous le sont, mais un seul cygne noir suffit à le démentir : comment, dès lors, établir une loi générale, en accumulant les cas, en cherchant le contre-exemple, ou en pesant les probabilités ?",
+        "en": "No number of white swans proves that all are white, but a single black swan is enough to belie it: how, then, does one establish a general law, by piling up cases, by hunting the counter-example, or by weighing the probabilities?"
+      },
+      "ref": { "kind": "THOUGHT_EXPERIMENT", "id": "the-black-swan" }
+    },
+    {
+      "id": "what-proof-can-do",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "une preuve, une expérience de test", "en": "a piece of evidence, a test" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "asymétrie preuve/réfutation", "en": "proof/refutation asymmetry" },
+        { "fr": "holisme de Duhem-Quine", "en": "Duhem-Quine holism" },
+        { "fr": "hypothèse ad hoc", "en": "ad hoc hypothesis" },
+        { "fr": "expérience cruciale", "en": "crucial experiment" }
+      ],
+      "poles": ["INDUCTIVISM", "FALSIFICATIONISM", "BAYESIANISM"],
+      "anchors": [
+        { "name": { "fr": "Popper", "en": "Popper" }, "kind": "PHILOSOPHER", "slug": "popper" },
+        { "name": { "fr": "Duhem", "en": "Duhem" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "Quine", "en": "Quine" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "Lakatos", "en": "Lakatos" }, "kind": "PHILOSOPHER" }
+      ],
+      "title": { "fr": "Que peut une preuve ?", "en": "What can evidence do?" },
+      "explicitation": {
+        "fr": "Aucune accumulation de preuves ne prouve une loi universelle ; un seul contre-exemple, en revanche, semble suffire à la réfuter : la preuve ne vaudrait donc que par sa force à démentir, jamais à établir. Mais réfute-t-elle même vraiment ? Quand un résultat contredit une théorie, ce n'est jamais elle seule qui est en jeu, mais tout un faisceau d'hypothèses auxiliaires, et l'on peut toujours en sacrifier une pour la sauver. Prouver, réfuter, ou seulement rendre plus ou moins probable : que peut au juste une preuve ?",
+        "en": "No accumulation of evidence proves a universal law; a single counter-example, on the other hand, seems enough to refute it: evidence would then count only by its power to belie, never to establish. But does it even truly refute? When a result contradicts a theory, it is never that theory alone that is at stake, but a whole bundle of auxiliary hypotheses, and one can always sacrifice one of them to save it. Prove, refute, or only make more or less probable: what, exactly, can evidence do?"
+      }
+    },
+    {
+      "id": "measurement",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "l'instrument de mesure", "en": "the measuring instrument" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "instrument chargé de théorie", "en": "theory-laden instrument" },
+        { "fr": "étalonnage", "en": "calibration" },
+        { "fr": "prétention à l'exactitude", "en": "the claim to exactness" }
+      ],
+      "poles": ["INDUCTIVISM"],
+      "anchors": [
+        { "name": { "fr": "Duhem", "en": "Duhem" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "Bachelard", "en": "Bachelard" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "Koyré", "en": "Koyré" }, "kind": "PHILOSOPHER" }
+      ],
+      "title": { "fr": "La mesure et ses instruments", "en": "Measurement and its instruments" },
+      "explicitation": {
+        "fr": "Un instrument n'enregistre pas un fait nu : un thermomètre présuppose toute une théorie de la chaleur, un appareil suppose des hypothèses sur ce qu'il capte, et chaque étalonnage s'appuie sur d'autres mesures, elles-mêmes faillibles. La précision affichée peut ainsi reconduire en silence des théories discutables, et l'exactitude devenir une prétention plus qu'un fait. Jusqu'où une mesure constate-t-elle le réel, plutôt qu'elle ne le met déjà en forme ?",
+        "en": "An instrument does not record a bare fact: a thermometer presupposes a whole theory of heat, an apparatus assumes hypotheses about what it captures, and every calibration rests on other measurements, themselves fallible. The precision it displays may thus silently carry forward debatable theories, and exactness become a pretension rather than a fact. How far does a measurement establish the real, rather than already giving it form?"
+      }
+    },
+    {
+      "id": "no-neutral-facts",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "l'observation", "en": "observation" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "observation chargée de théorie", "en": "theory-laden observation" },
+        { "fr": "il n'y a pas de fait brut", "en": "there are no bare facts" },
+        { "fr": "paradigme", "en": "paradigm" }
+      ],
+      "poles": ["INDUCTIVISM"],
+      "anchors": [
+        { "name": { "fr": "Hanson", "en": "Hanson" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "Kuhn", "en": "Kuhn" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "Popper", "en": "Popper" }, "kind": "PHILOSOPHER", "slug": "popper" }
+      ],
+      "doorways": [{ "axis": "KNOWLEDGE_STATUS" }],
+      "title": { "fr": "Y a-t-il des faits bruts ?", "en": "Are there bare facts?" },
+      "explicitation": {
+        "fr": "La science est censée partir des faits, neutres et donnés. Mais observe-t-on jamais un fait pur ? Ce qu'on remarque, ce qu'on tient pour un résultat, dépend déjà des attentes, des instruments et de la théorie qu'on a en tête : deux savants devant le même ciel n'y voient pas la même chose. Si l'observation est toujours orientée, sur quoi la science prend-elle appui ?",
+        "en": "Science is supposed to start from the facts, neutral and given. But do we ever observe a pure fact? What we notice, what we take for a result, already depends on our expectations, our instruments, and the theory we have in mind: two scientists before the same sky do not see the same thing there. If observation is always oriented, what does science take its support from?"
+      }
+    },
+    {
+      "id": "what-confirms",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "le lien entre preuve et hypothèse", "en": "the link between evidence and hypothesis" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "paradoxe des corbeaux", "en": "raven paradox" },
+        { "fr": "énigme du vert-bleu (grue)", "en": "the grue riddle" },
+        { "fr": "degré de confirmation", "en": "degree of confirmation" }
+      ],
+      "poles": ["INDUCTIVISM", "BAYESIANISM"],
+      "anchors": [
+        { "name": { "fr": "Hempel", "en": "Hempel" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "Goodman", "en": "Goodman" }, "kind": "PHILOSOPHER" }
+      ],
+      "title": { "fr": "Qu'est-ce qui confirme une hypothèse ?", "en": "What confirms a hypothesis?" },
+      "explicitation": {
+        "fr": "« Tous les corbeaux sont noirs » équivaut à « tout ce qui n'est pas noir n'est pas un corbeau », que confirmerait alors une pomme verte, sans qu'on ait vu le moindre corbeau. Et les mêmes observations passées appuient aussi bien des prédictions incompatibles. Qu'est-ce, au juste, qu'une preuve confirme, et de combien ?",
+        "en": "\"All ravens are black\" is equivalent to \"everything non-black is a non-raven\", which a green apple would then confirm, without one's having seen a single raven. And the same past observations equally support incompatible predictions. What, exactly, does a piece of evidence confirm, and by how much?"
+      }
+    },
+    {
+      "id": "problem-of-induction",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "l'inférence de l'observé à l'inobservé", "en": "the inference from observed to unobserved" },
+      "mode": "DESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "problème de l'induction", "en": "problem of induction" },
+        { "fr": "uniformité de la nature", "en": "uniformity of nature" },
+        { "fr": "du particulier à l'universel", "en": "from particular to universal" }
+      ],
+      "anchors": [
+        { "name": { "fr": "Hume", "en": "Hume" }, "kind": "PHILOSOPHER", "slug": "hume" }
+      ],
+      "doorways": [{ "axis": "CERTAINTY", "problem": "humes-induction" }],
+      "title": { "fr": "De l'observé à l'inobservé", "en": "From observed to unobserved" },
+      "explicitation": {
+        "fr": "Une loi générale étend à tous les cas ce qu'on n'a constaté que sur quelques-uns : que le soleil se soit toujours levé ne prouve pas qu'il se lèvera demain, car rien ne garantit que l'inobservé se conduira comme l'observé, ni l'avenir comme le passé. Ce saut, aucune accumulation de preuves ne le comble : c'est le défi que chaque méthode doit relever à sa façon.",
+        "en": "A general law extends to all cases what has been established of only a few: that the sun has always risen does not prove it will rise tomorrow, for nothing guarantees that the unobserved will behave like the observed, nor the future like the past. No accumulation of evidence fills this gap: it is the challenge each method must meet in its own way."
+      }
+    },
+    {
+      "id": "pseudo-science",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "une doctrine qui se dit scientifique", "en": "a doctrine claiming to be scientific" },
+      "mode": "DESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "démarcation", "en": "demarcation" },
+        { "fr": "falsifiabilité", "en": "falsifiability" },
+        { "fr": "pseudo-science", "en": "pseudo-science" }
+      ],
+      "anchors": [
+        { "name": { "fr": "Popper", "en": "Popper" }, "kind": "PHILOSOPHER", "slug": "popper" }
+      ],
+      "doorways": [{ "axis": "SCIENCE_PLACE", "problem": "what-makes-it-science" }],
+      "title": { "fr": "Science ou pseudo-science ?", "en": "Science or pseudo-science?" },
+      "explicitation": {
+        "fr": "Qu'est-ce qui sépare une science d'une doctrine qui en prend les airs, l'astrologie, une théorie que rien ne pourrait démentir ? La question de la démarcation prolonge celle de la méthode.",
+        "en": "What separates a science from a doctrine that puts on its airs, astrology, a theory that nothing could belie? The question of demarcation extends that of method."
+      }
+    }
   ]
 }

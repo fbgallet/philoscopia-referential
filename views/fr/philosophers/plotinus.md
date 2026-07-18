@@ -24,7 +24,7 @@ Transcendance 90% · Immanence 10%
 
 Le principe premier ne peut être ni un être ni une pensée, car tout être est déjà multiple, distinct de ce qu'il pense : pour fonder la multiplicité sans en relever, il faut un [Un](../glossary/the-one.md) absolument simple, « par delà l'être » et par delà l'[intellect](../glossary/nous.md), dont rien ne se dit en propre. Plotin radicalise ainsi le Bien au-dessus de l'essence de [Platon](../philosophers/plato.md) en une transcendance pure. Mais l'[émanation](../glossary/emanation.md) tempère l'éloignement : l'Un déborde sans se diviser ni s'appauvrir, et reste présent à tout ce qui procède de lui, plus intime à l'âme qu'elle-même. D'où une transcendance forte mais non sans une immanence graduée, qui retient d'un score extrême.
 
-> « Il n'est aucune des choses dont il est le principe ; il est tel pourtant que, sans qu'on en puisse rien affirmer, ni le nom, ni la raison, nous pouvons cependant dire quelque chose à son sujet. » (Ennéades, V, 3, 13-14)
+> « Il n'est aucune des choses dont il est le principe ; il est tel pourtant que, sans qu'on en puisse rien affirmer, ni le nom, ni la raison, nous pouvons cependant dire quelque chose à son sujet. », Ennéades, V, 3, 13-14
 
 *Sources : Ennéades, VI, 9 (Du Bien ou de l'Un) · Ennéades, V, 3 et V, 5*
 
@@ -46,7 +46,7 @@ Vertu / perfectionnisme moral 70% · Eudémonisme 30%
 
 Le bonheur ne tient ni au plaisir ni même à la seule vie vertueuse : la vertu n'est qu'un premier degré, une purification qui détache l'âme du sensible et la rend semblable au divin. Le souverain bien véritable est au-delà, dans la contemplation de l'Intellect puis dans l'union avec l'[Un](../glossary/the-one.md), où l'âme rejoint sa source. Plotin reprend l'eudémonisme grec, la vie heureuse comme activité de la meilleure part de nous, mais en déplace le sommet : la félicité n'est plus l'excellence de l'agir mais une remontée contemplative qui passe la vertu morale elle-même. Le sage parfait, déjà uni à l'intelligible, demeure heureux jusque dans l'infortune, car son vrai moi n'y est pas atteint.
 
-> « Telle est la vie des dieux et des hommes divins et bienheureux : un détachement de tout ce qui est ici-bas, la fuite du seul vers le Seul. » (Ennéades, VI, 9, 11)
+> « Telle est la vie des dieux et des hommes divins et bienheureux : un détachement de tout ce qui est ici-bas, la fuite du seul vers le Seul. », Ennéades, VI, 9, 11
 
 *Sources : Ennéades, I, 4 (Du bonheur) · Ennéades, I, 2 (Des vertus)*
 
@@ -138,7 +138,7 @@ Vie examinée 95% · Primat de l'action 5%
 
 Le chemin vers le principe ne passe pas par le dehors mais par un retournement de l'âme sur elle-même : « rentre en toi-même et regarde ». Puisque l'[Un](../glossary/the-one.md) est présent au plus intime de nous, plus proche de l'âme qu'elle-même, c'est en se recueillant, en sculptant sa propre statue intérieure, que l'on s'élève à lui. Cette primauté absolue de l'intériorité contemplative sur l'agir extérieur fait de la vie examinée le tout de la philosophie, et anticipe l'intériorité augustinienne.
 
-> « Rentre en toi-même et regarde : si tu ne te vois pas encore beau, fais comme le sculpteur d'une statue qui doit devenir belle. » (Ennéades, I, 6, 9)
+> « Rentre en toi-même et regarde : si tu ne te vois pas encore beau, fais comme le sculpteur d'une statue qui doit devenir belle. », Ennéades, I, 6, 9
 
 *Sources : Ennéades, I, 6 (Du beau) · Ennéades, VI, 9, 7*
 

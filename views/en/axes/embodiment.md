@@ -40,6 +40,12 @@ I am neither a mind steering a body-machine nor a mere organism. Soul and body f
 - *[Nature of mind and reality](../axes/reality-nature.md) : Materialism* grounds *[Being or having a body](../axes/embodiment.md) : The lived body* : If there is no immaterial soul to inhabit the body, I do not "have" a body the way a pilot has a ship: I am this living organism that perceives, acts and ages. Materialism thus supports the naturalist side of the lived-body thesis, the human being as an animal body shaped by evolution. It does not, however, deliver the "subject" in the sense of [Merleau-Ponty](../philosophers/merleau-ponty.md)'s [phenomenology](../movements/phenomenology.md), where one's own body is the original locus of all perception and meaning, a content that does not follow from materialism alone.
 - *[Nature of consciousness](../axes/consciousness-nature.md) : Substance dualism* grounds *[Being or having a body](../axes/embodiment.md) : The body as instrument* : If I am essentially a mind distinct from matter, my body becomes an instrument I use, even a prison I set myself apart from. Substance dualism supports the body-as-instrument conception, from [Plato](../philosophers/plato.md) to [Descartes](../philosophers/descartes.md), even though the latter eventually insisted on the union of soul and body.
 
+## Quotations
+
+> “What I am is only a little flesh, a little breath, and the ruling part.” — [Marcus Aurelius](../philosophers/marcus-aurelius.md), Meditations, II, 2
+
+> “The act of will and the movement of the body are not two objectively known states linked by causality; they are one and the same thing.” — [Schopenhauer](../philosophers/schopenhauer.md), The World as Will and Representation, §18
+
 ## Related axes
 
 [Nature of the self](../axes/self-nature.md) · [Nature of mind and reality](../axes/reality-nature.md) · [Bodily pleasures](../axes/bodily-pleasures.md)

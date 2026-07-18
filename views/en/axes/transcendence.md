@@ -29,6 +29,20 @@ The sacred surpasses this world: truth, the good, or God belong to a higher orde
 - *[Where the sacred resides](../axes/transcendence.md) : Transcendence* grounds *[Attention and diversion](../axes/attention.md) : Recollection* : If meaning resides in an order that surpasses the flux of solicitations, then gathering one's attention is the condition for becoming present to it. Transcendence grounds recollection: against the distraction that scatters us, [Pascal](../philosophers/pascal.md) holds inner silence and sustained attention to be the way to a spiritual life.
 - *[Where the sacred resides](../axes/transcendence.md) : Transcendence* grounds *[The meaning of life](../axes/life-meaning.md) : Teleology and providence* : If meaning and value rest in a principle beyond the given world, human life receives its destination from that beyond. [Transcendence](../glossary/transcendence.md) thus grounds a teleological reading of existence, ordered toward an end that precedes it.
 
+## Quotations
+
+> “There is no place where the dao is not.” — [Zhuangzi](../philosophers/zhuangzi.md), ch. 22
+
+> “It is none of the things of which it is the source; such is its nature that, though nothing can be affirmed of it, not name, not reason, we can yet say something concerning it.” — [Plotinus](../philosophers/plotinus.md), Enneads, V, 3, 13-14
+
+> “There is no difference at all between saṃsāra and nirvāṇa; there is no difference at all between nirvāṇa and saṃsāra.” — [Nāgārjuna](../philosophers/nagarjuna.md), Mūlamadhyamakakārikā, XXV, 19
+
+> “The Good is not being, but still beyond being, surpassing it in dignity and power.” — [Plato](../philosophers/plato.md), Republic, VI, 509b
+
+> “The Good is not essence, but still transcends essence in dignity and power.” — [Plato](../philosophers/plato.md), Republic, VI, 509b
+
+> “A sacred spirit dwells within us, the observer and guardian of our good and our evil.” — [Seneca](../philosophers/seneca.md), Letters to Lucilius, XLI
+
 ## Related axes
 
 [Faith and reason](../axes/faith-reason.md) · [Existence of God](../axes/god-existence.md) · [The highest good](../axes/sovereign-good.md)

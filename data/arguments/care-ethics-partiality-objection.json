@@ -1,0 +1,75 @@
+{
+  "id": "care-ethics-partiality-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "ETHICS_FOUNDATION", "poleId": "CARE_ETHICS" },
+  "name": { "fr": "Le soin peut être injuste", "en": "Care can be unjust" },
+  "attacks": "POSITION",
+  "claim": {
+    "fr": "Le soin privilégie le proche : sans garde-fou impartial, il peut se faire favoritisme, aveugle à l'étranger et au lointain.",
+    "en": "Care favors those close to us: with no impartial safeguard, it can turn into favoritism, blind to the stranger and the distant."
+  },
+  "summary": {
+    "fr": "La sollicitude fait droit au proche ; mais sans critère impartial pour la corriger, elle peut devenir favoritisme et injustice. La justice exige qu'on tienne compte aussi de ceux qui ne nous touchent pas.",
+    "en": "Care attends to those close to us; but with no impartial criterion to correct it, it can become favoritism and injustice. Justice requires taking into account also those who do not move us."
+  },
+  "development": [
+    {
+      "fr": "Le care fait droit au proche, à celui dont on répond : c'est sa force, mais aussi sa pente naturelle.",
+      "en": "Care attends to those close to us, to the one in our charge: that is its strength, but also its natural slope."
+    },
+    {
+      "fr": "Sans critère impartial pour le corriger, la sollicitude peut devenir favoritisme : je soigne les miens, et l'étranger, le lointain, celui que je n'aime pas cessent de compter. Bien des injustices se parent ainsi des couleurs de l'amour.",
+      "en": "With no impartial criterion to correct it, care can become favoritism: I look after my own, and the stranger, the distant, the one I do not love cease to count. Many injustices thus dress themselves in the colors of love."
+    },
+    {
+      "fr": "Or la justice exige précisément qu'on tienne compte aussi de ceux qui ne nous touchent pas : c'est l'impartialité, que le care récuse, qui garantit qu'on ne sacrifie pas l'absent au présent.",
+      "en": "Yet justice requires precisely that we take into account also those who do not move us: it is impartiality, which care rejects, that ensures we do not sacrifice the absent to the present."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc le soin, seul, ne suffit pas à la morale : il lui faut le point de vue impartial qu'apportent le devoir ou le calcul, sous peine de n'être qu'une préférence pour les siens.",
+    "en": "So care alone does not suffice for morality: it needs the impartial standpoint that duty or calculation provide, on pain of being merely a preference for one's own."
+  },
+  "difficulty": 2,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est juste : mon souci des proches ne peut pas être toute la morale, sinon les lointains ne compteraient jamais. Il faut un principe impartial qui pèse aussi ceux que je ne vois pas.",
+        "en": "True: my concern for those close to me cannot be the whole of morality, or the distant would never count. There must be an impartial principle that weighs those I do not see too."
+      },
+      "hints": [{ "axisId": "ETHICS_FOUNDATION", "value": { "kind": "weights", "weights": [0.2, 0.5, 0.05, 0.25] }, "weight": 1.5 }],
+      "discussion": {
+        "fr": "Vous réintroduisez l'impartialité du devoir ou du calcul comme correctif : le soin oriente, mais la justice arbitre.",
+        "en": "You bring back the impartiality of duty or calculation as a corrective: care orients, but justice arbitrates."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je garde le primat du soin, mais je lui donne une exigence interne : bien soigner, c'est aussi élargir le cercle de sa sollicitude, non s'enfermer dans les siens.",
+        "en": "I keep the primacy of care, but give it an internal demand: to care well is also to widen the circle of one's concern, not to shut oneself in with one's own."
+      },
+      "hints": [{ "axisId": "ETHICS_FOUNDATION", "value": { "kind": "weights", "weights": [0.1, 0.25, 0.05, 0.6] }, "weight": 0.75 }],
+      "discussion": {
+        "fr": "Vous tenez la réponse du care mûri : la sollicitude bien comprise s'étend, du proche au lointain, sans se renier en principe abstrait.",
+        "en": "You hold the reply of a matured care: rightly understood, care extends, from the near to the distant, without denying itself into an abstract principle."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : l'impartialité froide est justement ce qui a permis tant d'injustices « de principe ». Ce n'est pas le soin qu'il faut corriger par la règle, mais la règle qu'il faut ramener au soin.",
+        "en": "I refute it: cold impartiality is precisely what has permitted so many injustices 'on principle'. It is not care that must be corrected by the rule, but the rule that must be brought back to care."
+      },
+      "hints": [{ "axisId": "ETHICS_FOUNDATION", "value": { "kind": "weights", "weights": [0, 0.1, 0.05, 0.85] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous renversez la charge : les grandes injustices se sont souvent faites au nom de principes impartiaux ; le soin est le garde-fou, non le danger.",
+        "en": "You reverse the charge: great injustices have often been done in the name of impartial principles; care is the safeguard, not the danger."
+      }
+    }
+  ],
+  "problems": ["is-morality-impartial"],
+  "targets": ["care-ethics-concrete-relations"],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
+}

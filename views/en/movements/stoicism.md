@@ -26,7 +26,7 @@ Transforming oneself 80% · Understanding the world 20%
 
 Stoic philosophy is an exercise (**askêsis**) more than a body of knowledge: a daily discipline of judgment, desire, and action, whose raw material is the very life of the one who practices it. Physics and logic keep their place, but in the service of the art of living: to know the order of the world is to learn to consent to it.
 
-> “The subject-matter of the art of living is each person's own life.” (Epictetus, Discourses, I.15.2)
+> “The subject-matter of the art of living is each person's own life.”, Discourses, I.15.2
 
 *Sources : Epictetus, Discourses, I.15 · Seneca, Letters to Lucilius, 16*
 
@@ -58,7 +58,7 @@ What is up to us 95% · Prometheanism 5%
 
 The [division](../glossary/dichotomy-of-control.md) is the founding act: only our judgments, desires and impulses are truly up to us, not the body, reputation or fortune. The argument is practical: tying one's good to what is not up to us dooms one to disturbance, whereas concentrating effort on the one masterable domain makes serenity invulnerable to circumstance, even in exile or prison.
 
-> “Of things, some are in our power, and others are not.” (Epictetus, Enchiridion, §1)
+> “Of things, some are in our power, and others are not.”, Enchiridion, §1
 
 *Sources : Epictetus, Enchiridion, §1 · Epictetus, Discourses*
 
@@ -90,7 +90,7 @@ Extinction and detachment 90% · Reasoned selection 10%
 
 The discipline of desire demands desiring only what is [up to us](../glossary/dichotomy-of-control.md) and consenting to the rest: desires for external things are to be suspended, even extinguished. Epictetus advises not to ask that things happen as you wish, but to wish them as they happen.
 
-> “Seek not that the things which happen should happen as you wish; but wish the things which happen to be as they are, and you will have a tranquil flow of life.” (Epictetus, Enchiridion, §8)
+> “Seek not that the things which happen should happen as you wish; but wish the things which happen to be as they are, and you will have a tranquil flow of life.”, Enchiridion, §8
 
 *Sources : Epictetus, Enchiridion, §8*
 
@@ -102,7 +102,7 @@ Amor fati 93% · Revolt 8%
 
 Physics commands ethics: every event is a link in the rational chain of [fate](../glossary/determinism.md), ordered by [providence](../glossary/providence.md). To rebel is therefore both futile and unreasonable, since one fights the very reason one shares in; the [sage](../glossary/the-sage.md) aligns his will with the course of things, not from passive resignation but because he recognises in it the work of the [logos](../glossary/logos.md): “the fates lead the willing and drag the unwilling”.
 
-> “Lead me, Zeus, and you too, Destiny, wherever you have appointed me: I shall follow unflinching. And should I refuse, turned coward, I shall follow none the less.” (Cleanthes, quoted in Seneca, Letters to Lucilius, 107)
+> “Lead me, Zeus, and you too, Destiny, wherever you have appointed me: I shall follow unflinching. And should I refuse, turned coward, I shall follow none the less.”, Cleanthes, quoted in Seneca, Letters to Lucilius, 107
 
 *Sources : Marcus Aurelius, Meditations · Seneca, Letters to Lucilius, 107*
 

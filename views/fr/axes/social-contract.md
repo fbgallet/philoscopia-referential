@@ -30,9 +30,19 @@ L'homme est par nature un être social : la communauté précède l'individu, qu
 - *[Origine du lien social](../axes/social-contract.md) : Communauté organique* fonde *[Appartenance](../axes/belonging.md) : Communautarisme-patriotisme* : Si la communauté précède l'individu et le constitue, alors la loyauté envers les siens n'est pas un préjugé à surmonter mais une part de ce que nous sommes. La conception organique du lien social fonde le communautarisme : nos attaches concrètes, famille, culture, nation, sont la source réelle de la solidarité, comme le soutient le courant communautarien, tel MacIntyre.
 - *[Origine du lien social](../axes/social-contract.md) : Communauté organique* fonde *[Orientation temporelle](../axes/time-orientation.md) : Mémoire-transmission* : Si la communauté est un héritage vivant qui me précède et me constitue, alors bien vivre, c'est recevoir ce legs et le transmettre à mon tour. La conception organique du lien social fonde l'orientation vers la mémoire et la transmission : de [Burke](../philosophers/burke.md) à [Confucius](../philosophers/confucius.md), honorer ses dettes envers le passé et léguer aux générations futures donne à la vie sa profondeur.
 
+## Citations
+
+> « L'homme est né libre, et partout il est dans les fers. » — [Rousseau](../philosophers/rousseau.md), Du contrat social (1762), I, 1
+
+> « L'homme est par nature un animal politique. » — [Aristote](../philosophers/aristotle.md), Politique, I, 2 (1253a)
+
+> « La justice naturelle est un pacte d'utilité conclu en vue de ne pas se nuire les uns aux autres et de ne pas en subir de dommage. » — [Épicure](../philosophers/epicurus.md), Maximes capitales, XXXI
+
+> « Trouver une forme d'association par laquelle chacun, s'unissant à tous, n'obéisse pourtant qu'à lui-même et reste aussi libre qu'auparavant. » — [Rousseau](../philosophers/rousseau.md), Du contrat social, I, 6
+
 ## Axes liés
 
-[Nature des droits](../axes/rights-nature.md) · [Rapport à l'autorité](../axes/authority.md) · [Appartenance](../axes/belonging.md) · [Individu et société](../axes/individual-society.md) · [Justice distributive](../axes/distributive-justice.md) · [La violence](../axes/violence.md)
+[Nature des droits](../axes/rights-nature.md) · [Rapport à l'autorité](../axes/authority.md) · [Appartenance](../axes/belonging.md) · [Individu et société](../axes/individual-society.md) · [Justice distributive](../axes/distributive-justice.md) · [La violence](../axes/violence.md) · [Générations futures](../axes/future-generations.md)
 
 ---
 

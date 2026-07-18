@@ -107,5 +107,204 @@
     "SUFFERING_MEANING",
     "FAITH_REASON",
     "COSMIC_OUTLOOK"
+  ],
+  "problems": [
+    {
+      "id": "epicurus-riddle",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "le mal et les attributs de Dieu", "en": "evil and the attributes of God" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "dilemme", "en": "dilemma" },
+        { "fr": "triade inconsistante", "en": "inconsistent triad" },
+        { "fr": "tout-puissant et bon", "en": "omnipotent and good" },
+        { "fr": "problème logique du mal", "en": "logical problem of evil" }
+      ],
+      "poles": ["THEODICY", "FREE_WILL_DEFENSE", "ANTI_THEODICY", "ARGUMENT_FROM_EVIL"],
+      "anchors": [
+        { "name": { "fr": "Épicure", "en": "Epicurus" }, "kind": "PHILOSOPHER", "slug": "epicurus" },
+        { "name": { "fr": "Hume", "en": "Hume" }, "kind": "PHILOSOPHER", "slug": "hume" },
+        { "name": { "fr": "Mackie", "en": "Mackie" }, "kind": "PHILOSOPHER" }
+      ],
+      "title": { "fr": "L'énigme d'Épicure", "en": "Epicurus's riddle" },
+      "explicitation": {
+        "fr": "Dieu peut-il empêcher le mal sans le vouloir, ou le veut-il sans le pouvoir ? Une des trois choses, sa puissance, sa bonté, ou la réalité du mal, doit céder : laquelle ?",
+        "en": "Can God prevent evil but not want to, or want to but not be able? One of the three, his power, his goodness, or the reality of evil, must give way: which one?"
+      }
+    },
+    {
+      "id": "natural-evil",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "une catastrophe naturelle", "en": "a natural disaster" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "mal naturel", "en": "natural evil" },
+        { "fr": "tremblement de terre de Lisbonne", "en": "Lisbon earthquake" },
+        { "fr": "Candide", "en": "Candide" },
+        { "fr": "« tout est bien »", "en": "\"all is well\"" }
+      ],
+      "poles": ["THEODICY", "FREE_WILL_DEFENSE", "ARGUMENT_FROM_EVIL"],
+      "anchors": [
+        { "name": { "fr": "Voltaire", "en": "Voltaire" }, "kind": "PHILOSOPHER", "slug": "voltaire" },
+        { "name": { "fr": "Leibniz", "en": "Leibniz" }, "kind": "PHILOSOPHER", "slug": "leibniz" },
+        { "name": { "fr": "Rousseau", "en": "Rousseau" }, "kind": "PHILOSOPHER", "slug": "rousseau" }
+      ],
+      "title": { "fr": "Le mal sans coupable", "en": "Evil with no culprit" },
+      "explicitation": {
+        "fr": "Le libre arbitre excuse le mal que font les hommes ; mais le séisme, la maladie, la douleur des bêtes ne sont la faute de personne : que reste-t-il alors pour disculper le créateur ?",
+        "en": "Free will excuses the evil humans do; but the earthquake, disease, the pain of animals are no one's fault: what then remains to absolve the creator?"
+      }
+    },
+    {
+      "id": "gratuitous-evil",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "la masse des souffrances", "en": "the mass of suffering" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "mal gratuit", "en": "gratuitous evil" },
+        { "fr": "le faon de Rowe", "en": "Rowe's fawn" },
+        { "fr": "argument évidentiel", "en": "evidential argument" },
+        { "fr": "quantité du mal", "en": "the amount of evil" }
+      ],
+      "poles": ["ARGUMENT_FROM_EVIL", "THEODICY"],
+      "anchors": [
+        { "name": { "fr": "Hume", "en": "Hume" }, "kind": "PHILOSOPHER", "slug": "hume" },
+        { "name": { "fr": "Rowe", "en": "Rowe" }, "kind": "PHILOSOPHER" }
+      ],
+      "title": { "fr": "Le mal de trop", "en": "One evil too many" },
+      "explicitation": {
+        "fr": "Même sans contradiction stricte, la masse de souffrances apparemment inutiles, un faon agonisant seul dans un feu de forêt, ne rend-elle pas hautement improbable un Dieu bon qui veillerait sur tout ?",
+        "en": "Even without a strict contradiction, does the mass of apparently pointless suffering, a fawn dying alone in a forest fire, not make a good God who watches over all highly improbable?"
+      }
+    },
+    {
+      "id": "justifying-evil",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "l'acte de justifier le mal", "en": "the act of justifying evil" },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "MORAL",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "« je rends mon billet »", "en": "\"I return the ticket\"" },
+        { "fr": "la larme d'un enfant", "en": "a child's tear" },
+        { "fr": "la théodicée en accusation", "en": "theodicy on trial" }
+      ],
+      "poles": ["ANTI_THEODICY", "THEODICY"],
+      "anchors": [
+        { "name": { "fr": "Dostoïevski", "en": "Dostoevsky" }, "kind": "PHILOSOPHER", "slug": "dostoevsky" },
+        { "name": { "fr": "Levinas", "en": "Levinas" }, "kind": "PHILOSOPHER", "slug": "levinas" },
+        { "name": { "fr": "Camus", "en": "Camus" }, "kind": "PHILOSOPHER", "slug": "camus" }
+      ],
+      "doorways": [ { "axis": "SUFFERING_MEANING", "problem": "useless-suffering" } ],
+      "title": { "fr": "Justifier le mal ?", "en": "To justify evil?" },
+      "explicitation": {
+        "fr": "Chercher une raison au malheur de l'innocent, n'est-ce pas déjà une faute, une insulte à sa douleur, et la seule attitude juste devant certains maux n'est-elle pas la révolte ou le silence ?",
+        "en": "Seeking a reason for the innocent's misfortune, is that not already a fault, an insult to their pain, and before some evils is the only fitting stance not revolt or silence?"
+      }
+    },
+    {
+      "id": "reasons-beyond-us",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "l'homme qui demande des comptes à Dieu", "en": "the one who calls God to account" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "raisons cachées", "en": "hidden reasons" },
+        { "fr": "Job", "en": "Job" },
+        { "fr": "le tourbillon", "en": "the whirlwind" },
+        { "fr": "théisme sceptique", "en": "skeptical theism" }
+      ],
+      "poles": ["THEODICY", "FREE_WILL_DEFENSE"],
+      "anchors": [
+        { "name": { "fr": "Thomas d'Aquin", "en": "Aquinas" }, "kind": "PHILOSOPHER", "slug": "aquinas" },
+        { "name": { "fr": "Théisme sceptique", "en": "Skeptical theism" }, "kind": "TRADITION" }
+      ],
+      "doorways": [ { "axis": "FAITH_REASON" } ],
+      "title": { "fr": "Les raisons cachées de Dieu", "en": "God's hidden reasons" },
+      "explicitation": {
+        "fr": "Et si les fins qui justifient le mal excédaient tout entendement humain ? À Job qui réclame des comptes, Dieu ne répond pas par des raisons, mais par la seule immensité de sa création.",
+        "en": "What if the ends that justify evil exceed all human understanding? To Job, who demands an accounting, God answers not with reasons but with the sheer vastness of his creation."
+      }
+    },
+    {
+      "id": "a-limited-god",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "la nature de Dieu", "en": "the nature of God" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "Dieu limité", "en": "a limited God" },
+        { "fr": "après Auschwitz", "en": "after Auschwitz" },
+        { "fr": "théologie du process", "en": "process theology" },
+        { "fr": "dualisme, manichéisme", "en": "dualism, Manichaeism" }
+      ],
+      "poles": ["THEODICY", "ARGUMENT_FROM_EVIL"],
+      "anchors": [
+        { "name": { "fr": "Jonas", "en": "Jonas" }, "kind": "PHILOSOPHER", "slug": "jonas" },
+        { "name": { "fr": "Whitehead", "en": "Whitehead" }, "kind": "PHILOSOPHER", "slug": "whitehead" }
+      ],
+      "doorways": [ { "axis": "COSMIC_OUTLOOK" } ],
+      "title": { "fr": "Et si Dieu ne pouvait pas tout ?", "en": "What if God could not do everything?" },
+      "explicitation": {
+        "fr": "On peut sauver la bonté de Dieu en lui ôtant la toute-puissance : un Dieu qui se retire et se limite, ou face auquel le mal serait un principe rival qu'il ne crée pas.",
+        "en": "One can save God's goodness by taking away his omnipotence: a God who withdraws and limits himself, or before whom evil is a rival principle he does not create."
+      }
+    },
+    {
+      "id": "growth-through-evil",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "une âme qui mûrit", "en": "a soul that matures" },
+      "mode": "DESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "monde pour façonner les âmes", "en": "a world for soul-making" },
+        { "fr": "épreuve", "en": "ordeal" },
+        { "fr": "croissance spirituelle", "en": "spiritual growth" }
+      ],
+      "poles": ["THEODICY"],
+      "anchors": [
+        { "name": { "fr": "Irénée", "en": "Irenaeus" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "Hick", "en": "Hick" }, "kind": "PHILOSOPHER" }
+      ],
+      "doorways": [ { "axis": "SUFFERING_MEANING", "problem": "the-ordeal-that-deepens" } ],
+      "title": { "fr": "L'épreuve qui élève", "en": "The ordeal that raises us" },
+      "explicitation": {
+        "fr": "Peut-être le mal est-il permis pour que les âmes mûrissent, le monde étant « une vallée où se font les âmes » plutôt qu'un paradis tout donné.",
+        "en": "Perhaps evil is permitted so that souls may mature, the world being \"a vale of soul-making\" rather than a paradise given ready-made."
+      }
+    },
+    {
+      "id": "gods-silence",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "Dieu et ceux qui le cherchent", "en": "God and those who seek him" },
+      "mode": "DESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "Dieu caché", "en": "hidden God" },
+        { "fr": "silence", "en": "silence" },
+        { "fr": "déréliction", "en": "abandonment" }
+      ],
+      "poles": ["ARGUMENT_FROM_EVIL", "THEODICY"],
+      "anchors": [
+        { "name": { "fr": "Pascal", "en": "Pascal" }, "kind": "PHILOSOPHER", "slug": "pascal" }
+      ],
+      "doorways": [ { "axis": "GOD_EXISTENCE", "problem": "hiddenness-of-god" } ],
+      "title": { "fr": "Le silence de Dieu", "en": "God's silence" },
+      "explicitation": {
+        "fr": "À côté du mal, une autre absence accuse : celle d'un Dieu qui, s'il existait et nous aimait, ne se laisserait pas chercher en vain.",
+        "en": "Alongside evil, another absence accuses: that of a God who, if he existed and loved us, would not let himself be sought in vain."
+      }
+    }
   ]
 }

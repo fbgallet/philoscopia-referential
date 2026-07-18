@@ -26,7 +26,7 @@ Se transformer soi-même 80% · Comprendre le monde 20%
 
 La philosophie stoïcienne est un exercice (**askêsis**) plus qu'un savoir : une discipline quotidienne du jugement, du désir et de l'action, dont la matière est la vie même de celui qui la pratique. La physique et la logique y gardent leur place, mais au service de l'art de vivre : connaître l'ordre du monde, c'est apprendre à y consentir.
 
-> « La matière de l'art de vivre, c'est la vie de chacun. » (Épictète, Entretiens, I, 15, 2)
+> « La matière de l'art de vivre, c'est la vie de chacun. », Entretiens, I, 15, 2
 
 *Sources : Épictète, Entretiens, I, 15 · Sénèque, Lettres à Lucilius, 16*
 
@@ -58,7 +58,7 @@ Ce qui dépend de nous 95% · Prométhéisme 5%
 
 Le [partage](../glossary/dichotomy-of-control.md) est l'acte fondateur : seuls nos jugements, nos désirs et nos impulsions dépendent vraiment de nous, non le corps, la réputation ni la fortune. L'argument est pratique : attacher son bien à ce qui ne dépend pas de nous voue au trouble, tandis que concentrer l'effort sur le seul domaine maîtrisable rend la sérénité invulnérable aux circonstances, jusque dans l'exil ou la prison.
 
-> « Parmi les choses qui existent, les unes dépendent de nous, les autres ne dépendent pas de nous. » (Épictète, Manuel, §1)
+> « Parmi les choses qui existent, les unes dépendent de nous, les autres ne dépendent pas de nous. », Manuel, §1
 
 *Sources : Épictète, Manuel, §1 · Épictète, Entretiens*
 
@@ -90,7 +90,7 @@ Extinction-détachement 90% · Tri raisonné 10%
 
 La discipline du désir exige de ne désirer que ce qui [dépend de nous](../glossary/dichotomy-of-control.md) et de consentir au reste : il faut suspendre, voire éteindre, les désirs portant sur les choses extérieures. Épictète recommande de ne pas demander que les choses arrivent comme l'on veut, mais de les vouloir comme elles arrivent.
 
-> « Ne cherche pas à ce que les choses arrivent comme tu veux, mais veuille que les choses arrivent comme elles arrivent, et ta vie s'écoulera heureuse. » (Épictète, Manuel, §8)
+> « Ne cherche pas à ce que les choses arrivent comme tu veux, mais veuille que les choses arrivent comme elles arrivent, et ta vie s'écoulera heureuse. », Manuel, §8
 
 *Sources : Épictète, Manuel, §8*
 
@@ -102,7 +102,7 @@ Amor fati 93% · Révolte 8%
 
 La physique commande l'éthique : tout événement est un maillon de la chaîne rationnelle du [destin](../glossary/determinism.md), ordonnée par la [providence](../glossary/providence.md). Se révolter est donc à la fois vain et déraisonnable, puisqu'on combat la raison même dont on participe ; le [sage](../glossary/the-sage.md) accorde sa volonté au cours des choses, non par résignation passive mais parce qu'il y reconnaît l'œuvre du [logos](../glossary/logos.md) : « les destins conduisent qui consent, ils traînent qui refuse ».
 
-> « Conduis-moi, Zeus, et toi aussi, Destinée, où que vous m'ayez assigné : je vous suivrai sans faillir. Et si je refuse, devenu mauvais, je n'en suivrai pas moins. » (Cléanthe, cité par Sénèque, Lettres à Lucilius, 107)
+> « Conduis-moi, Zeus, et toi aussi, Destinée, où que vous m'ayez assigné : je vous suivrai sans faillir. Et si je refuse, devenu mauvais, je n'en suivrai pas moins. », Cléanthe, cité par Sénèque, Lettres à Lucilius, 107
 
 *Sources : Marc Aurèle, Pensées pour moi-même · Sénèque, Lettres à Lucilius, 107*
 

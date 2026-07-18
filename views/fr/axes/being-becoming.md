@@ -30,6 +30,14 @@ On ne se baigne pas deux fois dans le même fleuve : le réel est processus, éc
 
 Le changement n'est ni une illusion ni la dissolution de toute chose : c'est le passage de la puissance à l'acte au sein d'une substance qui persiste. La forme demeure tandis que la matière se transforme : la graine devient arbre sans cesser d'être ce vivant-là. L'être et le devenir ne s'excluent pas ; le devenir est la manière dont les êtres se réalisent. Aristote est l'emblème de cette voie médiane, mais toute pensée de la substance qui persiste à travers le changement l'habite.
 
+## Citations
+
+> « La nature est un principe de mouvement et de changement. » — [Aristote](../philosophers/aristotle.md), Physique, III, 1 (200b)
+
+> « Qu'est-ce qui est toujours, sans jamais devenir, et qu'est-ce qui devient toujours, sans être jamais ? » — [Platon](../philosophers/plato.md), Timée, 27d
+
+> « Tout ce qui est sujet à l'apparition est sujet à la cessation. » — Samyutta Nikāya, SN 56.11, Dhammacakkappavattana Sutta
+
 ## Axes liés
 
 [Nature de l'esprit et du réel](../axes/reality-nature.md) · [Explication de la nature](../axes/causality.md) · [Essence et existence](../axes/essence.md) · [Nature du moi](../axes/self-nature.md) · [Les universaux](../axes/universals.md)

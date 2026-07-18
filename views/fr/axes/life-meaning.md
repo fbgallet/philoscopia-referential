@@ -45,15 +45,34 @@ Puisque aucun sens n'est donné et que rien ne le remplace vraiment, le tourment
 - **Un sens sans Dieu ?** : Le sens de l'existence suppose-t-il un ordre divin qui nous dépasse, ou peut-il tenir entièrement sans Dieu, sur des bases tout humaines ?
 - **Bonheur ou sens** : Une vie réussie est-elle forcément heureuse, ou peut-elle valoir par son sens tout en étant difficile, exigeante, parfois malheureuse ?
 
+## Arguments
+
+- *Téléologie-providence* · pour : [Un sens qu'on se donne n'oblige pas](../arguments/teleology-found-not-made.md)
+- *Téléologie-providence* · contre : [Le monde ne répond pas](../arguments/teleology-silent-world-objection.md)
+- *Sens construit* · pour : [Rien à découvrir, tout à faire](../arguments/constructed-existence-precedes-essence.md)
+- *Sens construit* · contre : [N'importe quel sens ?](../arguments/constructed-anything-goes-objection.md)
+- *Absurdisme* · pour : [Tenir sans tricher](../arguments/absurdism-lucid-revolt.md)
+- *Absurdisme* · contre : [Pourquoi la révolte ?](../arguments/absurdism-revolt-smuggles-value-objection.md)
+- *Renoncement* · pour : [Tarir la source du tourment](../arguments/renunciation-detach-the-will.md)
+- *Renoncement* · contre : [Le remède supprime le malade](../arguments/renunciation-negates-life-objection.md)
+
 ## Relations de fondation
 
 - *[Essence et existence](../axes/essence.md) : Existentialisme* fonde *[Le sens de la vie](../axes/life-meaning.md) : Sens construit* : Si l'existence précède l'essence, aucune fin n'est inscrite d'avance dans la nature humaine. L'existentialisme implique donc que le sens de la vie n'est pas trouvé mais construit, par les projets et les choix que chacun assume.
 - *[Existence de Dieu](../axes/god-existence.md) : Théisme* fonde *[Le sens de la vie](../axes/life-meaning.md) : Téléologie-providence* : Si un Dieu créateur a voulu le monde, l'existence s'inscrit dans un dessein qui la dépasse et lui assigne une fin. Le théisme fonde la conception téléologique du sens : la vie a une [providence](../glossary/providence.md) à découvrir et à laquelle accorder sa conduite, des [stoïciens](../movements/stoicism.md) au christianisme.
 - *[Où réside le sacré](../axes/transcendence.md) : Transcendance* fonde *[Le sens de la vie](../axes/life-meaning.md) : Téléologie-providence* : Si le sens et la valeur reposent en un principe qui dépasse le monde donné, la vie humaine reçoit sa destination de cet au-delà. [La transcendance](../glossary/transcendence.md) fonde ainsi une lecture téléologique de l'existence, ordonnée à une fin qui la précède.
 
+## Citations
+
+> « Il faut imaginer Sisyphe heureux. » — [Camus](../philosophers/camus.md), Le Mythe de Sisyphe (1942)
+
+> « Notre grand et glorieux chef-d'œuvre, c'est vivre à propos. » — [Michel de Montaigne](../philosophers/montaigne.md), Essais, III, 13, « De l'expérience »
+
+> « Pour tous ceux qui sont encore pénétrés du vouloir, ce qui reste après sa suppression complète n'est assurément rien. Mais à l'inverse, pour ceux en qui le vouloir s'est retourné et nié, c'est notre monde si réel, avec tous ses soleils et toutes ses voies lactées, qui est le néant. » — [Schopenhauer](../philosophers/schopenhauer.md), Le Monde comme volonté et comme représentation, §71
+
 ## Axes liés
 
-[Tonalité du réel](../axes/cosmic-outlook.md) · [La mort](../axes/death.md) · [Intériorité](../axes/interiority.md) · [Souverain bien](../axes/sovereign-good.md) · [Orientation temporelle](../axes/time-orientation.md) · [Sens du travail](../axes/work-meaning.md) · [Existence de Dieu](../axes/god-existence.md) · [Le but de la philosophie](../axes/metaphilosophy.md)
+[Tonalité du réel](../axes/cosmic-outlook.md) · [La mort](../axes/death.md) · [Intériorité](../axes/interiority.md) · [Souverain bien](../axes/sovereign-good.md) · [Orientation temporelle](../axes/time-orientation.md) · [Sens du travail](../axes/work-meaning.md) · [Existence de Dieu](../axes/god-existence.md) · [Le but de la philosophie](../axes/metaphilosophy.md) · [Le beau dans la vie](../axes/aesthetic-life.md)
 
 ---
 

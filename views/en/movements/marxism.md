@@ -96,7 +96,7 @@ Directional meaning 93% · Contingency 8%
 
 The mainspring of historical change is located in a material contradiction: at a certain stage the productive forces come into conflict with the relations of production that constrain them, and that tension is resolved by a social, usually revolutionary, transformation. History thereby ceases to be a chaos of events or the work of great men: it obeys a discernible logic in which each mode of production (feudal, bourgeois, communist) prepares its own supersession. This turns against the idealism of history (that of Providence or of Spirit) an explanation drawn from economics, and grounds the forecast of a classless society not on a wish but on a "law of social motion."
 
-> “The history of all hitherto existing society is the history of class struggles.” (Marx and Engels, The Communist Manifesto)
+> “The history of all hitherto existing society is the history of class struggles.”, The Communist Manifesto
 
 *Sources : Marx, A Contribution to the Critique of Political Economy, preface (1859) · Marx and Engels, The Communist Manifesto (1848)*
 
@@ -118,7 +118,7 @@ Egalitarianism 95% · Libertarianism 5%
 
 The argument begins from an analysis, not from indignation: the wage pays the value of labor power (what it costs to reproduce it), but the worker produces more than that, and this surplus, surplus value, is captured by the owner of the means of production. Exploitation is therefore not an abuse or a contingent injustice but the normal mechanism of profit, concealed beneath the appearance of a free and fair exchange of wages for work. This rejects both classical political economy, which took that exchange to be just, and market libertarianism: so long as private ownership of the means of production persists, formal equality masks a real domination that only a classless society can lift.
 
-> “From each according to his ability, to each according to his needs.” (Marx, Critique of the Gotha Programme)
+> “From each according to his ability, to each according to his needs.”, Critique of the Gotha Programme
 
 *Sources : Marx, Critique of the Gotha Programme (1875) · Marx, Capital, vol. I, on surplus value*
 
@@ -140,7 +140,7 @@ Progressivism 98% · Conservatism 3%
 
 If exploitation lies in the very structure of the relations of production, then reform can only manage it: only their overthrow abolishes it. Hence the revolutionary character of Marxist progressivism and its refusal of the alternatives: neither awaiting a moral evolution, nor the ideal cities of utopian socialism, nor mere philosophical critique will do, since to interpret the world leaves it intact. Thought itself has worth only as [praxis](../glossary/praxis.md), a moment of real transformation borne by the class that has "nothing to lose but its chains." Philosophy ceases to be contemplation and becomes a weapon, as the eleventh thesis on Feuerbach sums up.
 
-> “The philosophers have only interpreted the world, in various ways; the point is to change it.” (Marx, Theses on Feuerbach, XI)
+> “The philosophers have only interpreted the world, in various ways; the point is to change it.”, Theses on Feuerbach, XI
 
 *Sources : Marx, Theses on Feuerbach, XI (1845) · Marx and Engels, The Communist Manifesto (1848)*
 
@@ -172,7 +172,7 @@ Atheism 88% · Theism 13%
 
 Marx's atheism does not stop at denying God: it asks why humans need one. Religion is neither a mere error nor a priestly imposture, but at once the expression of real distress and the protest against it, an imaginary consolation that relieves suffering while making it bearable, and so lasting. Hence the decisive shift: to criticize heaven is useless unless one criticizes earth, that is, the social relations that make religion necessary. Abolishing the illusion presupposes abolishing the conditions that call for it, which ranges Marxism on the side of atheist materialism.
 
-> “Religion is the sigh of the oppressed creature, the heart of a heartless world, the soul of soulless conditions. It is the opium of the people.” (Marx, Critique of Hegel's Philosophy of Right, introduction)
+> “Religion is the sigh of the oppressed creature, the heart of a heartless world, the soul of soulless conditions. It is the opium of the people.”, Critique of Hegel's Philosophy of Right, introduction
 
 *Sources : Marx, Critique of Hegel's Philosophy of Right, introduction (1844)*
 

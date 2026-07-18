@@ -35,6 +35,14 @@ Le beau n'est pas une propriété de l'objet, mais il n'est pas non plus une sim
 - *[Le beau](../axes/beauty.md) : Beau subjectif* fonde *[Finalité de l'art](../axes/art-purpose.md) : Plaisir* : Si le beau n'est rien d'autre que le plaisir qu'une forme procure, alors l'art n'a d'autre fin que ce plaisir même, sans avoir à servir le vrai ni une cause. Le beau subjectif fonde l'art pour l'art : l'œuvre se suffit à elle-même, et la soumettre à une fin extérieure reviendrait à la rabaisser.
 - *[Le beau](../axes/beauty.md) : Beau subjectif* fonde *[Hiérarchie des goûts](../axes/taste-hierarchy.md) : Égalitarisme du goût* : Si la beauté n'est qu'un sentiment qui varie selon les individus et les cultures, alors aucun goût n'est plus vrai qu'un autre. Le beau subjectif soutient l'égalité des goûts : des goûts et des couleurs on ne discute pas, et nul n'a qualité pour imposer les siens comme la norme.
 
+## Citations
+
+> « Est beau ce qui plaît universellement sans concept. » — [Kant](../philosophers/kant.md), Critique de la faculté de juger, §9
+
+> « La beauté n'est pas une qualité des choses mêmes : elle existe seulement dans l'esprit qui les contemple, et chaque esprit perçoit une beauté différente. » — [Hume](../philosophers/hume.md), Essais, « De la norme du goût »
+
+> « Une beauté qui d'abord existe éternellement, qui n'est sujette ni à naître ni à périr, ni à croître ni à décroître ; qui de plus n'est point belle en telle partie et laide en telle autre. » — [Platon](../philosophers/plato.md), Banquet, 211a
+
 ## Axes liés
 
 [Nature de l'art](../axes/art-nature.md) · [Hiérarchie des goûts](../axes/taste-hierarchy.md)

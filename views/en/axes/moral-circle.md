@@ -46,10 +46,29 @@ Moral worth attaches to ecological wholes themselves: species, ecosystems, the b
 - **Must we stop using animals?** : If sentient animals truly count, do factory farming, slaughter, and experimentation become wrongs that must end, even to the point of changing our lives and our plates, or can we owe them consideration without giving up the use we make of them?
 - **The individual or the whole** : Ecology values the integrity of the biotic community, even to culling the animals of an invasive species to preserve the whole: does worth lie in the whole, or in each sentient individual that such management sacrifices?
 
+## Arguments
+
+- *Anthropocentrism* · for : [The dignity of the person](../arguments/anthropocentrism-dignity.md)
+- *Anthropocentrism* · against : [The argument from marginal cases](../arguments/anthropocentrism-marginal-cases-objection.md)
+- *Pathocentrism* · for : ['Can they suffer?'](../arguments/pathocentrism-can-they-suffer.md)
+- *Pathocentrism* · against : [Sentience, an arbitrary boundary?](../arguments/pathocentrism-reverence-objection.md)
+- *Biocentrism* · for : [Reverence for life](../arguments/biocentrism-reverence-for-life.md)
+- *Biocentrism* · against : [A good, but for whom?](../arguments/biocentrism-no-interests-objection.md)
+- *Ecocentrism* · for : [The land ethic](../arguments/ecocentrism-land-ethic.md)
+- *Ecocentrism* · against : [The whole against the individual](../arguments/ecocentrism-environmental-fascism-objection.md)
+
 ## Grounding relations
 
 - *[Nature of mind and reality](../axes/reality-nature.md) : Materialism* grounds *[Moral circle](../axes/moral-circle.md) : Pathocentrism* : If the human being is not a soul apart but an animal among animals, no metaphysical boundary radically separates its interests from those of other sentient beings. Materialism supports pathocentrism: what matters morally is not reason but the capacity to suffer, shared with the beasts. [Bentham](../philosophers/bentham.md) concludes that the real question is "can they suffer?", an argument [Singer](../philosophers/singer.md) revives against speciesism.
 - *[Nature of consciousness](../axes/consciousness-nature.md) : Substance dualism* grounds *[Moral circle](../axes/moral-circle.md) : Anthropocentrism* : If only the rational soul confers genuine inwardness, animals, lacking this thinking substance, are nothing but mechanisms without worth of their own. Substance dualism supports moral anthropocentrism: for [Descartes](../philosophers/descartes.md), the "animal-machine" does not enter the circle of our direct duties. The link is looser, however, among anthropocentrists who, like [Kant](../philosophers/kant.md), ground dignity in reason rather than in a soul-substance.
+
+## Quotations
+
+> “Compassion for animals is so intimately bound up with goodness of character that one may confidently assert that whoever is cruel to animals cannot be a good man.” — [Schopenhauer](../philosophers/schopenhauer.md), On the Basis of Morality, §19
+
+> “The question is not, Can they reason? nor, Can they talk? but, Can they suffer?” — [Bentham](../philosophers/bentham.md), An Introduction to the Principles of Morals and Legislation, ch. XVII
+
+> “All tremble at the rod, all fear death. Putting oneself in the place of others, let none kill nor cause to kill.” — [The Buddha](../philosophers/buddha.md), Dhammapada, X, 129
 
 ## Related axes
 

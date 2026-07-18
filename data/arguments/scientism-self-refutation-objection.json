@@ -1,0 +1,81 @@
+{
+  "id": "scientism-self-refutation-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "SCIENCE_PLACE", "poleId": "SCIENTISM" },
+  "name": { "fr": "La branche sciée", "en": "Sawing off the branch" },
+  "attacks": "REASONING",
+  "claim": {
+    "fr": "« Seule la science donne du savoir » n'est pas un énoncé scientifique : c'est une thèse philosophique sur la science, que sa propre règle devrait disqualifier.",
+    "en": "'Only science gives knowledge' is not a scientific statement: it is a philosophical claim about science, one its own rule ought to disqualify."
+  },
+  "summary": {
+    "fr": "L'argument pose un critère : n'est savoir que ce qui s'expose à l'épreuve des faits. Mais l'énoncé scientiste lui-même n'est pas testable ; à son propre critère, il échoue. Il présuppose en outre un monde vécu et des normes de preuve qu'il ne fonde pas.",
+    "en": "The argument sets a criterion: only what exposes itself to the test of facts is knowledge. But the scientistic statement is not itself testable; by its own criterion, it fails. It also presupposes a lifeworld and norms of proof it does not ground."
+  },
+  "development": [
+    {
+      "fr": "L'argument pose un critère : n'est un savoir que ce qui s'expose à l'épreuve publique des faits.",
+      "en": "The argument sets a criterion: only what exposes itself to the public test of facts is knowledge."
+    },
+    {
+      "fr": "Mais l'énoncé « seule la science donne du savoir » n'est lui-même ni une observation ni une théorie testable : c'est une thèse philosophique sur la science.",
+      "en": "But the statement 'only science gives knowledge' is itself neither an observation nor a testable theory: it is a philosophical claim about science."
+    },
+    {
+      "fr": "À son propre critère, il échoue donc : il faudrait le ranger parmi les « opinions » qu'il prétend disqualifier. Il présuppose en outre un monde vécu, des sujets, des normes de preuve, que la science suppose sans les fonder.",
+      "en": "By its own criterion, then, it fails: it would have to be filed among the 'opinions' it claims to disqualify. It moreover presupposes a lifeworld, subjects, norms of proof, which science assumes without grounding."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc le scientisme se scie la branche : le poser, c'est déjà faire une philosophie que sa propre règle interdit, donc reconnaître un savoir qui n'est pas de la science.",
+    "en": "So scientism saws off its own branch: to assert it is already to do a philosophy its own rule forbids, hence to acknowledge a knowledge that is not science."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": { "fr": "Husserl", "en": "Husserl" },
+    "figures": [{ "name": { "fr": "Husserl", "en": "Husserl" }, "kind": "PHILOSOPHER", "slug": "husserl" }],
+    "work": { "fr": "La Crise des sciences européennes", "en": "The Crisis of European Sciences" },
+    "year": 1936
+  },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est vrai : dire la valeur de la science n'est pas de la science. Il y a donc un savoir, philosophique, qui la précède et la juge.",
+        "en": "True: stating the worth of science is not science. There is, then, a knowledge, philosophical, that precedes and judges it."
+      },
+      "hints": [{ "axisId": "SCIENCE_PLACE", "value": { "kind": "scalar", "value": 0.6 }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous rejoignez <ph id='husserl'>Husserl</ph> : la science flotte sur un « monde vécu » qu'elle présuppose et qu'une autre pensée doit élucider.",
+        "en": "You join <ph id='husserl'>Husserl</ph>: science floats on a 'lifeworld' it presupposes and that another kind of thought must elucidate."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "J'accorde que le scientisme se surestime, mais je maintiens que la science reste notre savoir le plus fiable, à condition d'admettre ses limites.",
+        "en": "I grant that scientism overrates itself, but I maintain that science remains our most reliable knowledge, provided it admits its limits."
+      },
+      "hints": [{ "axisId": "SCIENCE_PLACE", "value": { "kind": "scalar", "value": 0 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous glissez vers le rationalisme critique : la science garde son autorité, mais cesse de prétendre tout dire.",
+        "en": "You slide toward critical rationalism: science keeps its authority, but stops claiming to say everything."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Cette « philosophie » n'est qu'un bilan de la réussite des sciences : une généralisation empirique de leurs succès, pas un savoir d'un autre ordre.",
+        "en": "This 'philosophy' is only a summary of the success of the sciences: an empirical generalization from their record, not a knowledge of another order."
+      },
+      "hints": [{ "axisId": "SCIENCE_PLACE", "value": { "kind": "scalar", "value": -1 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "La réplique naturaliste : la thèse scientiste se veut le prolongement de la science, non une métaphysique à part.",
+        "en": "The naturalist reply: the scientistic thesis means to be the extension of science, not a metaphysics apart."
+      }
+    }
+  ],
+  "targets": ["scientism-self-correction"],
+  "problems": ["scientism-self-refuting", "truths-science-cannot-reach"],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

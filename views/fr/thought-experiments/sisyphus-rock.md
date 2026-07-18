@@ -10,6 +10,22 @@ Les dieux avaient condamné Sisyphe à rouler sans cesse un rocher jusqu'au somm
 
 **Axes en jeu** : [Le sens de la vie](../axes/life-meaning.md)
 
+## Ce qu'elle fait dans le débat
+
+### Soutient [Le sens de la vie](../axes/life-meaning.md) : Absurdisme
+
+Sisyphe roule éternellement son rocher, sans espoir ni illusion ; et pourtant, dit Camus, « il faut l'imaginer heureux » : la valeur d'une vie tient à la lucidité de qui l'assume, non à un sens qui la dépasse.
+
+**L'argument qu'elle porte**
+
+1. Sisyphe est condamné à rouler éternellement un rocher au sommet, d'où il retombe aussitôt : effort sans terme ni résultat, image de nos vies quand aucun sens ne vient les couronner.
+2. Il n'a ni espoir d'en finir ni illusion sur sa tâche ; et pourtant, dit [Camus](../philosophers/camus.md), il peut la regarder en face sans amertume : « la lutte elle-même vers les sommets suffit à remplir un cœur d'homme ».
+3. Ni espérance d'un sens caché, ni fuite dans le renoncement : reconnaître l'absurde de sa peine et la faire sienne, c'est reprendre son destin à son compte, dans la conscience et la [révolte](../glossary/revolt.md).
+
+**⇒** Donc on peut vivre pleinement sans sens donné : « il faut imaginer Sisyphe heureux », car la valeur d'une vie tient à la lucidité de qui l'assume, non à un sens qui la dépasserait.
+
+**Vient renforcer** : [Tenir sans tricher](../arguments/absurdism-lucid-revolt.md)
+
 **Positions possibles** :
 
 - Un tel effort n'a de sens que s'il sert une fin qui le dépasse : un ordre, un destin, un Dieu. Sans cela, il faut au moins l'espérer.

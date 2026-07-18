@@ -1,0 +1,70 @@
+{
+  "id": "egalitarianism-natural-lottery",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "DISTRIBUTIVE_JUSTICE", "poleId": "EGALITARIANISM" },
+  "name": { "fr": "L'argument de la loterie naturelle", "en": "The natural lottery argument" },
+  "claim": {
+    "fr": "Nul ne mérite d'être né doué, riche ou bien portant : une société juste ne laisse pas ce tirage au sort décider seul du sort de chacun.",
+    "en": "No one deserves to be born gifted, wealthy, or healthy: a just society does not let that lottery alone decide each person's fate."
+  },
+  "summary": {
+    "fr": "La place d'où chacun part, ses talents, sa naissance, tient à une loterie qu'il n'a pas choisie ; laisser ces avantages fixer les parts récompense l'arbitraire. Le juste est ce que nous choisirions sans connaître notre place, ce qui n'autorise les inégalités que si elles profitent aux plus défavorisés.",
+    "en": "Where each person starts, their talents, their birth, comes down to a lottery they did not choose; letting those advantages set the shares rewards the arbitrary. The just is what we would choose without knowing our place, which permits inequalities only if they benefit the least advantaged."
+  },
+  "development": [
+    {
+      "fr": "La place d'où chacun part dans la vie, sa famille, son époque, ses talents, sa santé, tient à un <kw>tirage au sort</kw> dont il n'est pas l'auteur : personne ne choisit de naître doué plutôt que fragile, dans un milieu aisé plutôt que démuni.",
+      "en": "Where each of us starts out in life, our family, our era, our talents, our health, comes down to a <kw>lottery</kw> we did not author: no one chooses to be born gifted rather than frail, well-off rather than destitute."
+    },
+    {
+      "fr": "Des institutions qui laissent ces avantages non choisis se convertir directement en revenus et en pouvoir récompensent donc ce que nul n'a mérité : elles consacrent la chance, non le seul effort. Car nul n'est l'<ax id='FREEDOM' pole='DETERMINISM'>auteur ultime</ax> des dons qui lui sont échus.",
+      "en": "Institutions that let these unchosen advantages convert directly into income and power therefore reward what no one has earned: they enshrine luck, not effort alone. For no one is the <ax id='FREEDOM' pole='DETERMINISM'>ultimate author</ax> of the gifts that fell to them."
+    },
+    {
+      "fr": "Une règle de partage est équitable si chacun pouvait y consentir sans savoir d'avance quelle place il occupera, riche ou pauvre, doué ou non. Ce point de vue impartial, on peut le figurer par un <te id='veil-of-ignorance'>voile d'ignorance</te>.",
+      "en": "A rule of distribution is fair if each could consent to it without knowing in advance which place they will occupy, rich or poor, gifted or not. This impartial standpoint can be pictured as a <te id='veil-of-ignorance'>veil of ignorance</te>."
+    },
+    {
+      "fr": "Or, à cette place, nul ne parierait sur une société qui l'abandonne s'il tombe au plus bas : on n'accepterait des inégalités que si elles améliorent aussi le sort des plus défavorisés.",
+      "en": "Now, in that position, no one would gamble on a society that abandons them should they fall to the bottom: one would accept inequalities only if they also improve the lot of the least advantaged."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc une société juste corrige les inégalités issues de la loterie naturelle et ne tolère que celles qui profitent aussi aux plus mal lotis : ni nivellement autoritaire, ni loi du plus doué.",
+    "en": "So a just society corrects the inequalities that flow from the natural lottery and tolerates only those that also benefit the worst off: neither authoritarian leveling nor the rule of the most gifted."
+  },
+  "deepenings": [
+    {
+      "id": "why-protect-the-worst-off",
+      "label": { "fr": "Pourquoi protéger d'abord les plus mal lotis", "en": "Why protect the worst off first" },
+      "targetStep": 3,
+      "development": [
+        {
+          "fr": "Derrière le voile, je dois raisonner comme si je pouvais être n'importe qui, y compris la personne la plus défavorisée de la société que je conçois.",
+          "en": "Behind the veil, I must reason as though I could be anyone, including the most disadvantaged person in the society I am designing."
+        },
+        {
+          "fr": "L'enjeu n'est alors pas de maximiser une moyenne où je risquerais de me perdre, mais de rendre la pire place possible la moins mauvaise : je préfère la règle dont l'échelon le plus bas est le plus haut.",
+          "en": "The point, then, is not to maximize an average in which I might get lost, but to make the worst possible place the least bad: I prefer the rule whose lowest rung is the highest."
+        }
+      ],
+      "source": {
+        "author": { "fr": "Rawls", "en": "Rawls" },
+        "figures": [{ "name": { "fr": "Rawls", "en": "Rawls" }, "kind": "PHILOSOPHER", "slug": "rawls" }],
+        "work": { "fr": "Théorie de la justice, §26", "en": "A Theory of Justice, §26" },
+        "workId": "a-theory-of-justice-rawls"
+      }
+    }
+  ],
+  "difficulty": 2,
+  "source": {
+    "author": { "fr": "Rawls", "en": "Rawls" },
+    "figures": [{ "name": { "fr": "Rawls", "en": "Rawls" }, "kind": "PHILOSOPHER", "slug": "rawls" }],
+    "work": { "fr": "Théorie de la justice, §12-13", "en": "A Theory of Justice, §12-13" },
+    "workId": "a-theory-of-justice-rawls",
+    "year": 1971
+  },
+  "testThoughtExperiment": "wilt-chamberlain",
+  "problems": ["desert-and-lottery", "original-position"],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
+}

@@ -24,7 +24,7 @@ Idealism 95% · Dualism 5%
 
 German Idealism carries [idealism](../axes/reality-nature.md) to its summit: the ground of the real is not matter but mind. Yet it is no longer the idealism of a [Berkeley](../philosophers/berkeley.md), for whom things exist only insofar as they are perceived by finite minds: it is an absolute idealism, in which nature and history are the moments of one and the same Spirit that thinks itself and recognizes itself in its other. [Schelling](../philosophers/schelling.md) posits the identity of nature and mind; [Hegel](../philosophers/hegel.md) makes substance a subject.
 
-> “Everything turns on grasping and expressing the true not only as substance, but equally as subject.” (Hegel, Phenomenology of Spirit, Preface)
+> “Everything turns on grasping and expressing the true not only as substance, but equally as subject.”, Phenomenology of Spirit, Preface
 
 *Sources : Hegel, Phenomenology of Spirit (Preface) · Schelling, System of Transcendental Idealism*
 
@@ -36,7 +36,7 @@ Understanding the world 85% · Changing the world 10% · Clarifying thought 5%
 
 For German Idealism, philosophy is neither an exercise of life nor a critique of language: it is the knowledge that [embraces the totality of the real](../axes/metaphilosophy.md) within a system. Against the limit Kant imposed on reason, it claims to know the absolute itself, no longer beyond appearances but as the whole of what unfolds. [Hegel](../philosophers/hegel.md) gives it its famous image: thought comes to understand its age only once that age is complete.
 
-> “The owl of Minerva takes flight only at the falling of dusk.” (Hegel, Elements of the Philosophy of Right, Preface)
+> “The owl of Minerva spreads its wings only with the falling of the dusk.”, Elements of the Philosophy of Right, Preface
 
 *Sources : Hegel, Elements of the Philosophy of Right (Preface) · Hegel, Encyclopedia of the Philosophical Sciences*
 

@@ -56,7 +56,7 @@ Idealism 85% · Dualism 15%
 
 Reality is measured by the stability of being: what stays self-identical is more real than what wavers between being and non-being. Now the sensible, always in becoming, has only a borrowed being, held by participation (the relation by which the sensible derives its being from the intelligible) in the intelligible that grounds it. Hence a hierarchical dualism (the division of the real into two orders, the intelligible and the sensible, soul and body), two worlds but not on a par: the sensible is the shadow, the intelligible the source. The **allegory of the cave** turns this into an argument about the human condition, prisoner of copies until it has converted its gaze. Against materialism, it is not the body that grounds the soul, but the intelligible that grounds the sensible.
 
-> “This dwelling is the prison; the light of the fire in it is the sun; and the upward journey is the ascent of the soul into the intelligible region.” (Plato, Republic, VII, 517b)
+> “This dwelling is the prison; the light of the fire in it is the sun; and the upward journey is the ascent of the soul into the intelligible region.”, Republic, VII, 517b
 
 *Sources : Plato, Republic, 514a-517a, allegory of the cave · Plotinus, Enneads, V*
 
@@ -68,7 +68,7 @@ Transcendence 98% · Immanence 3%
 
 The argument proceeds by a solar analogy: just as the sun lets things be seen and grow without being itself either sight or the things, the Good lets the Forms be known and be, without being itself a Form among them. A principle that makes being possible cannot then rank among the beings it grounds: it must be set [beyond essence](../glossary/transcendence.md). Plotinus radicalises this step by making the One the origin from which all proceeds by emanation, ineffable because prior to every determination. This [transcendence](../glossary/transcendence.md) of the ground sets Platonism apart from the [immanent](../glossary/immanence.md) divine of the Stoics, mixed into the matter of the world.
 
-> “The Good is not being, but still beyond being, surpassing it in dignity and power.” (Plato, Republic, VI, 509b)
+> “The Good is not being, but still beyond being, surpassing it in dignity and power.”, Republic, VI, 509b
 
 *Sources : Plato, Republic, 509b, the Good beyond essence · Plotinus, Enneads, VI, 9, on the One*
 
@@ -110,7 +110,7 @@ Objective beauty 95% · Subjective beauty 5%
 
 Platonism holds an objective beauty: the [Form of the Beautiful](../glossary/theory-of-forms.md) is a reality in itself, eternal and self-identical, of which sensible beauties are only pale participations. Beauty does not depend on the beholder's taste but on an essence that reason can contemplate.
 
-> “A beauty that always is, neither coming to be nor passing away, neither increasing nor diminishing; nor again beautiful in one part and ugly in another.” (Plato, Symposium, 211a)
+> “A beauty that always is, neither coming to be nor passing away, neither increasing nor diminishing; nor again beautiful in one part and ugly in another.”, Symposium, 211a
 
 *Sources : Plato, Symposium, 210a-211d, the ladder of beauty · Plato, Greater Hippias*
 

@@ -54,6 +54,16 @@ Technology is in itself neither blessing nor curse: it is a means, and everythin
 - *[Explaining nature](../axes/causality.md) : Finalism* grounds *[Relation to technology](../axes/technology.md) : Techno-criticism* : If nature and the living are bearers of their own ends, then the technological will to master and reconfigure everything threatens an order that surpasses us. Finalism grounds techno-criticism: [Jonas](../philosophers/jonas.md) sets against the excessive power of technology a principle of responsibility toward life and future generations.
 - *[Place of science](../axes/science-place.md) : Scientism* grounds *[Relation to technology](../axes/technology.md) : Techno-optimism* : If science is the highest form of knowledge, destined to solve human problems, then the technology that flows from it is the great lever of progress. Scientism grounds techno-optimism: from Bacon to [Comte](../philosophers/comte.md), applied knowledge is expected to push back need and suffering, and its setbacks are taken as challenges calling for yet more technology.
 
+## Quotations
+
+> “Human knowledge and human power meet in one, for where the cause is not known the effect cannot be produced.” — [Bacon](../philosophers/bacon.md), Novum Organum, I, §3
+
+> “Our souls have grown corrupt in proportion as our sciences and arts have advanced toward perfection.” — [Rousseau](../philosophers/rousseau.md), Discourse on the Sciences and Arts (1750)
+
+> “The more clever tools there are, the more the state sinks into disorder.” — [Laozi](../philosophers/laozi.md), Dao De Jing, ch. 57
+
+> “Whoever uses machines does all his work mechanically; whoever does his work mechanically grows a machine heart.” — [Zhuangzi](../philosophers/zhuangzi.md), ch. 12
+
 ## Related axes
 
 [Tradition and transformation](../axes/conservatism-progressism.md) · [The meaning of history](../axes/history-meaning.md) · [Enhancing human nature](../axes/human-enhancement.md) · [Humanity's place in nature](../axes/human-place-nature.md) · [Meaning of work](../axes/work-meaning.md) · [Attention and diversion](../axes/attention.md)

@@ -1,0 +1,20 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "dostoevsky",
+  "name": { "fr": "Dostoïevski", "en": "Dostoevsky" },
+  "aliases": {
+    "fr": ["Fiodor Dostoïevski", "dostoïevskien"],
+    "en": ["Fyodor Dostoevsky", "Dostoyevsky"]
+  },
+  "summary": {
+    "fr": "Romancier russe, penseur du mal et de la foi : par la révolte d'Ivan Karamazov, qui « rend son billet » plutôt que d'accepter une harmonie payée par la larme d'un seul enfant, il porte contre toute justification du mal l'objection morale la plus âpre.",
+    "en": "Russian novelist, thinker of evil and faith: through the rebellion of Ivan Karamazov, who \"returns his ticket\" rather than accept a harmony bought with the tears of a single child, he presses the harshest moral objection against any justification of evil."
+  },
+  "nationality": { "fr": "Russe", "en": "Russian" },
+  "birth": 1821,
+  "death": 1881,
+  "movements": [],
+  "updatedAt": "2026-07-13T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

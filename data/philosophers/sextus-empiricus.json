@@ -41,16 +41,7 @@
           "fr": "Le sceptique constate qu'à toute affirmation s'oppose une affirmation de force égale : c'est <c id='isostheneia'>l'équipollence</c> (isosthéneia) des raisons contraires. N'ayant aucun moyen de trancher, il <c id='epoche'>suspend son jugement</c> (épochè), non par décision mais parce que le conflit non résolu l'y contraint. Sextus systématise ce mécanisme dans les <c id='skeptical-modes'>tropes</c> hérités d'<ph>Énésidème</ph> et d'<ph>Agrippa</ph>, qui poussent toute prétention au savoir vers <dif>la régression à l'infini, le cercle ou l'arrêt arbitraire</dif>. Là où <ph id='descartes'>Descartes</ph> fera du doute une étape vers le fondement, Sextus en fait une demeure : aucune certitude définitive n'est accessible, et le sceptique pousse la prudence jusqu'à ne pas même affirmer dogmatiquement qu'il n'y a pas de certitude.",
           "en": "The skeptic observes that to every assertion an assertion of equal strength can be opposed: this is the <c id='isostheneia'>equipollence</c> (isostheneia) of contrary reasons. Having no means to decide, he <c id='epoche'>suspends judgment</c> (epoche), not by choice but because the unresolved conflict compels him to. Sextus systematizes this mechanism in the <c id='skeptical-modes'>modes</c> inherited from <ph>Aenesidemus</ph> and <ph>Agrippa</ph>, which drive every claim to knowledge toward <dif>infinite regress, circularity, or an arbitrary stopping point</dif>. Where <ph id='descartes'>Descartes</ph> would make doubt a stage toward a foundation, Sextus makes it a dwelling: no definitive certainty is attainable, and the skeptic carries caution so far as not even to assert dogmatically that there is no certainty."
         },
-        "quote": {
-          "text": {
-            "fr": "À toute raison s'oppose une raison de force égale.",
-            "en": "To every argument an equal argument is opposed."
-          },
-          "source": {
-            "fr": "Esquisses pyrrhoniennes, I, 12",
-            "en": "Outlines of Pyrrhonism, I, 12"
-          }
-        },
+        "quoteId": "a-toute-raison-s-oppose-une-sextus-empiricus",
         "references": [
           {
             "fr": "Esquisses pyrrhoniennes, I, 8 et 12",
@@ -160,16 +151,7 @@
           "fr": "La fin que vise le sceptique est <c id='ataraxia'>l'ataraxie</c>, l'absence de trouble dans les opinions, accompagnée de la <c id='metriopatheia'>métriopathie</c>, la modération des affections inévitables. Mais le trait remarquable est qu'elle n'est pas poursuivie comme un bien par nature, ce qui serait déjà une thèse dogmatique : Sextus rapporte que la tranquillité survient à qui suspend son jugement, comme l'ombre suit le corps, par une chance que le sceptique constate après coup. Ce n'est ni l'hédonisme du plaisir ni le perfectionnisme de la vertu, mais une forme de vie heureuse obtenue par soustraction, en cessant de tenir les choses pour bonnes ou mauvaises en elles-mêmes.",
           "en": "The end the skeptic aims at is <c id='ataraxia'>ataraxia</c>, the absence of disturbance in matters of opinion, together with <c id='metriopatheia'>metriopatheia</c>, the moderation of unavoidable feelings. But the remarkable trait is that it is not pursued as a good by nature, which would already be a dogmatic thesis: Sextus reports that tranquillity supervenes on whoever suspends judgment, as a shadow follows a body, by a chance the skeptic notes only after the fact. This is neither the hedonism of pleasure nor the perfectionism of virtue, but a happy form of life reached by subtraction, by ceasing to hold things good or bad in themselves."
         },
-        "quote": {
-          "text": {
-            "fr": "La tranquillité suivit la suspension du jugement comme l'ombre suit le corps.",
-            "en": "Tranquillity followed the suspension of judgment as a shadow follows its body."
-          },
-          "source": {
-            "fr": "Esquisses pyrrhoniennes, I, 29",
-            "en": "Outlines of Pyrrhonism, I, 29"
-          }
-        },
+        "quoteId": "la-tranquillite-suivit-la-suspension-du-sextus-empiricus",
         "references": [
           {
             "fr": "Esquisses pyrrhoniennes, I, 25-30 (le but du scepticisme)",

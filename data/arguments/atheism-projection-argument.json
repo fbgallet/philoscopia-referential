@@ -1,0 +1,73 @@
+{
+  "id": "atheism-projection-argument",
+  "kind": "SUPPORTS",
+  "position": {
+    "axisId": "GOD_EXISTENCE",
+    "poleId": "ATHEISM"
+  },
+  "name": {
+    "fr": "Dieu, projection de l'homme",
+    "en": "God as human projection"
+  },
+  "claim": {
+    "fr": "Ce n'est pas Dieu qui a fait l'homme à son image : c'est l'homme qui a fait Dieu à la sienne.",
+    "en": "It is not God who made man in his image: it is man who made God in his."
+  },
+  "summary": {
+    "fr": "Les attributs de Dieu sont nos qualités portées à l'infini, et la croyance s'explique tout entière par des causes humaines, peur, désir, besoin de consolation ; une hypothèse dont on rend compte sans la supposer vraie n'a pas besoin d'un objet réel.",
+    "en": "God's attributes are our own qualities raised to the infinite, and belief is fully explained by human causes, fear, desire, the need for consolation; a hypothesis accounted for without supposing it true needs no real object."
+  },
+  "development": [
+    {
+      "fr": "Considérez les attributs de Dieu : puissance, savoir, bonté, justice, portés à l'infini. Ce sont trait pour trait les qualités humaines, débarrassées de nos limites : l'homme s'y contemple agrandi.",
+      "en": "Consider God's attributes: power, knowledge, goodness, justice, raised to the infinite. They are, trait for trait, human qualities stripped of our limits: man contemplates himself in them, magnified."
+    },
+    {
+      "fr": "Or ce mouvement de <kw>projection</kw> s'explique entièrement par des causes humaines : la peur de la mort, le désir que justice soit faite, le besoin d'une consolation et d'un père qui protège. Nul besoin de Dieu pour comprendre pourquoi les hommes croient en Dieu.",
+      "en": "Now this movement of <kw>projection</kw> is fully explained by human causes: the fear of death, the desire that justice be done, the need for consolation and for a protecting father. No God is needed to understand why humans believe in God."
+    },
+    {
+      "fr": "Une hypothèse dont on peut rendre compte sans la supposer vraie, et qui répond si exactement à nos désirs, perd son crédit : ce que nous aurions inventé de toutes pièces ressemblerait précisément à cela.",
+      "en": "A hypothesis that can be accounted for without supposing it true, and that answers our desires so exactly, loses its credit: what we would have invented from scratch would look precisely like this."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc Dieu n'est pas au ciel mais en nous : une projection de l'humanité, dont l'histoire des religions décrit la fabrique.",
+    "en": "So God is not in heaven but in us: a projection of humanity, whose making the history of religions describes."
+  },
+  "difficulty": 1,
+  "source": {
+    "author": {
+      "fr": "Feuerbach ; Freud",
+      "en": "Feuerbach; Freud"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Feuerbach",
+          "en": "Feuerbach"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "feuerbach"
+      },
+      {
+        "name": {
+          "fr": "Freud",
+          "en": "Freud"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "freud"
+      }
+    ],
+    "work": {
+      "fr": "L'Essence du christianisme, ch. I-II",
+      "en": "The Essence of Christianity, chs. I–II"
+    },
+    "year": 1841
+  },
+  "test": "atheism-genetic-fallacy-objection",
+  "problems": [
+    "projection-and-suspicion"
+  ],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
+}

@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "goldman",
+  "stub": true,
+  "name": {
+    "fr": "Alvin Goldman",
+    "en": "Alvin Goldman"
+  },
+  "summary": {
+    "fr": "Épistémologue américain, principal représentant du fiabilisme : une croyance est justifiée si elle procède d'un processus cognitif fiable (perception, mémoire, raisonnement valide), même si celui qui la tient ne saurait l'argumenter. Pionnier de l'épistémologie sociale.",
+    "en": "American epistemologist, the leading proponent of reliabilism: a belief is justified if it issues from a reliable cognitive process (perception, memory, sound reasoning), even if the one who holds it could not argue for it. A pioneer of social epistemology."
+  },
+  "birth": 1938,
+  "death": 2022,
+  "nationality": {
+    "fr": "Américain",
+    "en": "American"
+  },
+  "movements": ["analytic-philosophy"],
+  "updatedAt": "2026-07-13T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

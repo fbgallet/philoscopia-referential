@@ -1,0 +1,65 @@
+{
+  "id": "deontologism-humanity-as-end",
+  "kind": "SUPPORTS",
+  "position": {
+    "axisId": "ETHICS_FOUNDATION",
+    "poleId": "DEONTOLOGISM"
+  },
+  "name": {
+    "fr": "Jamais un simple moyen",
+    "en": "Never a mere means"
+  },
+  "claim": {
+    "fr": "Une personne a une dignité, non un prix : on ne peut la traiter comme un simple moyen, quel que soit le bien qu'on en tirerait.",
+    "en": "A person has a dignity, not a price: one cannot treat them as a mere means, whatever good might be got from it."
+  },
+  "summary": {
+    "fr": "Les personnes valent comme fins en soi, jamais réductibles à leur utilité ; instrumentaliser quelqu'un « pour le bien » nie cette dignité, et aucun gain ne rachète ce déni. Certains actes sont donc injustes par eux-mêmes.",
+    "en": "Persons are worth something as ends in themselves, never reducible to their usefulness; to use someone 'for the good' denies this dignity, and no gain redeems that denial. Some acts are therefore unjust in themselves."
+  },
+  "development": [
+    {
+      "fr": "Il y a une différence entre les choses, qui ont un prix et se remplacent, et les personnes, qui ont une <c id='categorical-imperative'>dignité</c> : elles valent comme fins en soi, et non par le service qu'on en tire.",
+      "en": "There is a difference between things, which have a price and can be replaced, and persons, who have a <c id='categorical-imperative'>dignity</c>: they are worth something as ends in themselves, not for the service got from them."
+    },
+    {
+      "fr": "Se servir de quelqu'un comme d'un simple moyen, le sacrifier, le tromper, l'instrumentaliser « pour le bien », c'est nier cette dignité, le ravaler au rang de chose utile. Le gain obtenu ne rachète pas ce déni.",
+      "en": "To use someone as a mere means, to sacrifice them, deceive them, instrumentalize them 'for the good', is to deny that dignity, to reduce them to a useful thing. The gain obtained does not redeem that denial."
+    },
+    {
+      "fr": "Certains actes portent donc en eux-mêmes cette atteinte, indépendamment de leurs suites heureuses : ce qui les rend injustes n'est pas leur bilan, mais ce qu'ils font à la personne.",
+      "en": "Some acts therefore carry this violation in themselves, independently of their happy outcomes: what makes them unjust is not their balance sheet, but what they do to the person."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc est juste l'action conforme au devoir, à des principes valables pour tous et respectueux de chacun comme fin ; et certains interdits, comme traiter autrui en pur moyen, tiennent quoi qu'il en coûte.",
+    "en": "So the right action is the one that conforms to duty, to principles valid for all and respectful of each as an end; and some prohibitions, such as treating another as a mere means, hold whatever the cost."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": {
+      "fr": "Kant",
+      "en": "Kant"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Kant",
+          "en": "Kant"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "kant"
+      }
+    ],
+    "work": {
+      "fr": "Fondements de la métaphysique des mœurs, deuxième section",
+      "en": "Groundwork of the Metaphysics of Morals, Second Section"
+    },
+    "workId": "groundwork-of-the-metaphysics-of-morals-kant"
+  },
+  "testThoughtExperiment": "williams-rescue",
+  "problems": [
+    "absolute-prohibitions"
+  ],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
+}

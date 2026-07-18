@@ -72,6 +72,32 @@ La mort est le mal par excellence, un scandale inacceptable, non un événement 
 
 - Avec [Existence de Dieu](../axes/god-existence.md) : Affirmer avec assurance qu'aucun Dieu ni rien de divin n'existe, puis attendre de la mort qu'une âme, ou quelque chose de soi, lui survive, met deux positions en tension : l'espérance immortaliste suppose d'ordinaire un ordre, un jugement ou une réalité spirituelle que l'athéisme refuse. Tenir les deux demande au moins de dire sur quoi repose alors cette survie.
 
+## Citations
+
+> « Celui qui a appris à mourir a désappris à servir. » — [Sénèque](../philosophers/seneca.md), Lettres à Lucilius, XXVI
+
+> « Ceux qui s'attachent droitement à la philosophie s'exercent à mourir. » — [Platon](../philosophers/plato.md), Phédon, 67e
+
+> « Craindre la mort n'est rien d'autre que se croire savant sans l'être, c'est croire savoir ce qu'on ne sait pas. » — [Socrate](../philosophers/socrates.md), Platon, Apologie, 29a
+
+> « Il n'est jamais né et jamais ne meurt ; non engendré, permanent, éternel, il n'est pas tué quand le corps est tué. » — [Śaṅkara](../philosophers/shankara.md), Bhagavad Gītā, II, 20, commentée par Śaṅkara
+
+> « Il n'y a pas de mort naturelle. » — [Beauvoir](../philosophers/beauvoir.md), Une mort très douce
+
+> « Il s'agit de mourir irréconcilié et non pas de plein gré. » — [Camus](../philosophers/camus.md), Le Mythe de Sisyphe, « La liberté absurde »
+
+> « La mort n'est donc rien pour nous et ne nous touche en rien, puisque la nature de l'âme est tenue pour mortelle. » — [Lucrèce](../philosophers/lucretius.md), De la nature des choses, III, 830-831
+
+> « La mort n'est rien pour nous, car ce qui est dissous est sans sensation, et ce qui est sans sensation n'est rien pour nous. » — [Épicure](../philosophers/epicurus.md), Lettre à Ménécée, 124-125
+
+> « La mort n'est rien pour nous ; car ce qui est dissous est privé de sensation, et ce qui est privé de sensation n'est rien pour nous. » — [Épicure](../philosophers/epicurus.md), Maximes capitales, II
+
+> « La vie et la mort se suivent comme le jour et la nuit. Pourquoi m'en affliger ? » — [Zhuangzi](../philosophers/zhuangzi.md), ch. 18 (Parfaite joie)
+
+> « Nous ne tolérerons plus la tyrannie du vieillissement et de la mort. » — [Max More](../philosophers/max-more.md), « Lettre à Dame Nature » (1999)
+
+> « Quitte la vie comme l'olive mûre qui tombe, bénissant la nature qui l'a produite et reconnaissante envers l'arbre qui l'a portée. » — [Marc Aurèle](../philosophers/marcus-aurelius.md), Pensées pour moi-même, IV, 48
+
 ## Axes liés
 
 [Existence de Dieu](../axes/god-existence.md) · [Le sens de la vie](../axes/life-meaning.md) · [Orientation temporelle](../axes/time-orientation.md) · [Nature du moi](../axes/self-nature.md) · [Améliorer la nature humaine](../axes/human-enhancement.md)

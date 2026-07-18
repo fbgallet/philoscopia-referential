@@ -56,6 +56,34 @@ Le désir est la racine de la dépendance et de la souffrance : il nous attache 
 - *[Statut des émotions](../axes/emotions.md) : Sentimentalisme* fonde *[Rapport au désir](../axes/desire.md) : Affirmation* : Si nos affects ne sont pas des obstacles à la raison mais une façon de sentir ce qui compte, le désir cesse d'être une pulsion à redresser : il révèle ce qui nous porte. Tenir les émotions pour une source de valeur plutôt que pour un trouble incline à affirmer ses désirs plutôt qu'à les mater, du romantisme à une lecture sensible de [Nietzsche](../philosophers/nietzsche.md).
 - *[Tonalité du réel](../axes/cosmic-outlook.md) : Pensée tragique* fonde *[Rapport au désir](../axes/desire.md) : Extinction-détachement* : Si l'existence est tissée de manque et de souffrance, et que vouloir, c'est s'exposer sans fin à la perte, la sagesse n'est pas de combler ses désirs mais de s'en délier. Une vision tragique du monde, du [bouddhisme](../movements/buddhism.md) à Schopenhauer, fonde le détachement : tarir la soif plutôt que courir après ce qui échappe.
 
+## Citations
+
+> « À soixante-dix ans, je suivais les désirs de mon cœur sans jamais franchir la règle. » — [Confucius](../philosophers/confucius.md), Entretiens, II.4
+
+> « Ainsi la vie oscille, comme un pendule, de droite à gauche, de la souffrance à l'ennui. » — [Schopenhauer](../philosophers/schopenhauer.md), Le Monde comme volonté et comme représentation, §57
+
+> « Ce n'est pas l'homme qui a peu qui est pauvre, mais celui qui désire davantage. » — [Sénèque](../philosophers/seneca.md), Lettres à Lucilius, II
+
+> « Il vaut mieux être un Socrate insatisfait qu'un imbécile satisfait. » — [Mill](../philosophers/mill.md), L'Utilitarisme, ch. II
+
+> « La raison est, et ne doit être, que l'esclave des passions. » — [Hume](../philosophers/hume.md), Traité de la nature humaine, II, 3, 3
+
+> « Le désir est l'essence même de l'homme, en tant qu'on la conçoit comme déterminée à faire quelque chose par une affection donnée d'elle-même. » — [Spinoza](../philosophers/spinoza.md), Éthique, III, définitions des affects, déf. 1
+
+> « Malheur à qui n'a plus rien à désirer ! il perd pour ainsi dire tout ce qu'il possède. » — [Rousseau](../philosophers/rousseau.md), Julie ou la Nouvelle Héloïse, VI
+
+> « Ne cherche pas à ce que les choses arrivent comme tu veux, mais veuille que les choses arrivent comme elles arrivent, et ta vie s'écoulera heureuse. » — [Épictète](../philosophers/epictetus.md), Manuel, §8
+
+> « Ne demande pas que les choses arrivent comme tu le veux, mais veuille qu'elles arrivent comme elles arrivent, et tu seras heureux. » — [Épictète](../philosophers/epictetus.md), Manuel, §8
+
+> « Parmi les désirs, les uns sont naturels, les autres vains ; et parmi les naturels, les uns sont nécessaires, les autres seulement naturels. » — [Épicure](../philosophers/epicurus.md), Lettre à Ménécée, 127
+
+> « Parmi les désirs, les uns sont naturels et nécessaires, les autres naturels et non nécessaires, les autres ni naturels ni nécessaires, mais nés d'une opinion vide. » — [Épicure](../philosophers/epicurus.md), Maximes capitales, XXIX
+
+> « Tâcher toujours plutôt à me vaincre que la fortune, et à changer mes désirs que l'ordre du monde. » — [Descartes](../philosophers/descartes.md), Discours de la méthode, III
+
+> « Voici la noble vérité sur l'origine de la souffrance : c'est cette soif qui produit le renouvellement de l'existence. » — [Le Bouddha](../philosophers/buddha.md), Dhammacakkappavattana Sutta (Saṃyutta Nikāya 56.11)
+
 ## Axes liés
 
 [Plaisirs corporels](../axes/bodily-pleasures.md) · [Périmètre d'action](../axes/control-scope.md) · [Statut des émotions](../axes/emotions.md) · [Liberté de la volonté](../axes/freedom.md) · [Nature de l'amour](../axes/love-nature.md) · [Souverain bien](../axes/sovereign-good.md)

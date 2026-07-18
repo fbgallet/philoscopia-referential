@@ -1,0 +1,21 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "wilde",
+  "name": { "fr": "Wilde", "en": "Wilde" },
+  "fullName": { "fr": "Oscar Wilde", "en": "Oscar Wilde" },
+  "aliases": {
+    "fr": ["Oscar Wilde"],
+    "en": ["Oscar Wilde"]
+  },
+  "summary": {
+    "fr": "Écrivain irlandais, figure de l'esthétisme : il érige la beauté et l'art en fins souveraines, tient la vie pour une œuvre à composer et l'artiste pour le maître d'une existence affranchie de la morale utilitaire.",
+    "en": "Irish writer, a figure of aestheticism: he sets beauty and art up as sovereign ends, holds life to be a work to be composed and the artist to be the master of an existence freed from utilitarian morality."
+  },
+  "nationality": { "fr": "Irlandais", "en": "Irish" },
+  "birth": 1854,
+  "death": 1900,
+  "movements": [],
+  "updatedAt": "2026-07-13T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

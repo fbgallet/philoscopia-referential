@@ -44,7 +44,7 @@ The examined life 98% · Primacy of action 3%
 
 At his trial, Socrates refuses to give up philosophy even to save his life: what matters is not living but living well, and one cannot live well without examining oneself. The examination, driven by the [elenchus](../glossary/elenchos.md), tears the interlocutor away from inherited opinions and makes self-knowledge, the Delphic injunction, the condition of a free life; an unexamined existence is lived in borrowed views and illusion.
 
-> “The unexamined life is not worth living.” (Plato, Apology, 38a)
+> “The unexamined life is not worth living.”, Plato, Apology, 38a
 
 *Sources : Plato, Apology, 38a (the unexamined life is not worth living) · Plato, Apology, 29d-30a (the philosopher will not stop questioning)*
 
@@ -66,7 +66,7 @@ Skepticism 75% · Dogmatism 25%
 
 After the Delphic oracle declared no one wiser than he, Socrates, convinced he knew nothing, set out to refute the god, and found that men reputed wise knew no more than he but believed they did. His superiority lies wholly in not imagining he knows what he does not: this [learned ignorance](../glossary/socratic-ignorance.md) is no [skepticism](../glossary/skepticism.md) that gives up on truth, but the mainspring of the [elenchus](../glossary/elenchos.md), which dissolves false certainties to reopen the inquiry.
 
-> “What I do not know, I do not think I know either.” (Plato, Apology, 21d)
+> “What I do not know, I do not think I know either.”, Plato, Apology, 21d
 
 *Sources : Plato, Apology, 20e-23b (the oracle and the inquiry)*
 
@@ -78,7 +78,7 @@ Virtue / moral perfectionism 70% · Eudaimonism 25% · Hedonism 5%
 
 Socrates urges the Athenians to care not for their body, their goods or their reputation as much as for the perfection of their soul. The only true good is the soul's excellence, virtue: everything else has worth only through it, wealth itself proceeding from virtue and not the reverse. The sovereign good is therefore neither pleasure nor a merely successful life, but the state of a soul made good.
 
-> “It is not from wealth that virtue arises, but from virtue that wealth and every other good come to men.” (Plato, Apology, 30b)
+> “It is not from wealth that virtue arises, but from virtue that wealth and every other good come to men.”, Plato, Apology, 30b
 
 *Sources : Plato, Apology, 29d-30b (the care of the soul)*
 
@@ -140,7 +140,7 @@ What is up to us 80% · Prometheanism 20%
 
 Before his judges, Socrates declares himself serene: they may kill or banish him, they cannot harm him, for the only real evil is to make one's soul bad, and no one can do that in one's stead. External goods, the body, reputation, life itself, are not in our power and are not the true good; the soul's virtue, by contrast, depends on us. The Stoics would build their [dichotomy of control](../glossary/dichotomy-of-control.md) on this intuition.
 
-> “They may kill me, banish me, strip me of my rights: Anytus and Meletus can do that, but harm me they cannot.” (Plato, Apology, 30c-d)
+> “They may kill me, banish me, strip me of my rights: Anytus and Meletus can do that, but harm me they cannot.”, Plato, Apology, 30c-d
 
 *Sources : Plato, Apology, 30c-d (they can kill me but not harm me) · Plato, Apology, 41c-d*
 
@@ -152,7 +152,7 @@ Death is nothing 50% · Immortalism 50%
 
 To fear death, says Socrates, is to think oneself wise when one is not, for no one knows whether it is an evil. It is one of two things: either a dreamless sleep, and so a gain, or a journey of the soul to the dead, and so a blessing; in both cases the good man has nothing to fear. The proof of immortality will come from Plato; in Socrates the position stays suspended between these two hopes.
 
-> “To fear death is nothing other than to think oneself wise when one is not, to think one knows what one does not know.” (Plato, Apology, 29a)
+> “To fear death is nothing other than to think oneself wise when one is not, to think one knows what one does not know.”, Plato, Apology, 29a
 
 *Sources : Plato, Apology, 40c-41c (the two hypotheses about death)*
 

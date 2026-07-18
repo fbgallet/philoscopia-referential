@@ -106,7 +106,7 @@ Cosmopolitanism 98% · Communitarianism and patriotism 3%
 
 If the borders of cities are only nomos, convention without grounding in nature, then none can command the allegiance of a rational being: a city has no more natural claim on me than the accident of my birth. Hence the word kosmopolitēs that Diogenes coins, the first to call himself a citizen of the world: not love of an enlarged homeland, but the refusal to acknowledge any, all of humanity taken as the only horizon. The provocation strikes at Greek civic pride, which counted the exile as fallen: the Cynic makes that his claimed condition.
 
-> “When asked where he came from, he said: "I am a citizen of the world."” (Diogenes Laertius, Lives, VI, 63)
+> “When asked where he came from, he said: "I am a citizen of the world."”, Diogenes Laertius, Lives, VI, 63
 
 *Sources : Diogenes Laertius, Lives of Eminent Philosophers, VI, 63*
 
@@ -118,7 +118,7 @@ What is up to us 95% · Prometheanism 5%
 
 One is free only in proportion to what one can do without: every need is a hold that the world, fortune or the powerful have on us. From this the Cynic draws [autarkeia](../glossary/autarkeia.md) (self-sufficiency) as the goal, living so that nothing external is necessary and no one therefore holds anything we depend on. When Alexander, master of the known world, offered to grant him any wish, Diogenes asked only that he stand out of his sunlight: this shows that the most destitute of men, if he desires nothing, is more invulnerable than the mightiest of kings, who remains at the mercy of what he owns.
 
-> “"Ask of me any boon you like." "Stand out of my sunlight."” (Diogenes Laertius, Lives, VI, 38)
+> “"Ask of me any boon you like." "Stand out of my sunlight."”, Diogenes Laertius, Lives, VI, 38
 
 *Sources : Diogenes Laertius, Lives, VI, 38*
 

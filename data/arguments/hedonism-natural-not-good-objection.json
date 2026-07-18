@@ -1,0 +1,152 @@
+{
+  "id": "hedonism-natural-not-good-objection",
+  "kind": "OBJECTS",
+  "position": {
+    "axisId": "SOVEREIGN_GOOD",
+    "poleId": "HEDONISM"
+  },
+  "name": {
+    "fr": "Du désiré au désirable",
+    "en": "From desired to desirable"
+  },
+  "attacks": "REASONING",
+  "claim": {
+    "fr": "De ce que nous cherchons tous le plaisir, il ne suit pas qu'il soit le bien : reste à savoir si ce que la nature nous fait vouloir est ce qui vaut d'être voulu.",
+    "en": "That we all seek pleasure does not entail that it is the good: it remains to be seen whether what nature makes us want is what is worth wanting."
+  },
+  "summary": {
+    "fr": "L'argument du berceau conclut du fait au droit ; mais entre « c'est ce que nous désirons » et « c'est ce qui mérite de l'être », il y a un pas que la seule pente de la nature ne franchit pas.",
+    "en": "The cradle argument slides from fact to worth; but between 'this is what we desire' and 'this is what deserves to be desired' lies a step that nature's mere inclination does not take."
+  },
+  "development": [
+    {
+      "fr": "L'argument du berceau conclut du fait au droit : parce que tout être poursuit spontanément le plaisir, le plaisir serait le bien.",
+      "en": "The cradle argument moves from fact to worth: because every creature spontaneously pursues pleasure, pleasure is supposed to be the good."
+    },
+    {
+      "fr": "Mais entre « c'est ce que nous désirons » et « c'est ce qui est désirable, ce qui mérite d'être désiré », il y a un pas que rien ne franchit de soi : l'enfant recherche aussi ce qui le flatte et fuit ce qui le forme, sans qu'on en fasse une règle du bien.",
+      "en": "But between 'this is what we desire' and 'this is desirable, worth desiring' lies a step that nothing crosses on its own: a child also seeks what flatters it and flees what shapes it, yet we make no rule of the good out of that."
+    },
+    {
+      "fr": "La nature nous incline, elle ne nous juge pas : d'une pente spontanée on ne tire pas qu'elle mène au meilleur. Il faudrait montrer en plus que le plaisir <kw>vaut</kw>, non seulement qu'il attire, et cette preuve, le berceau ne la donne pas.",
+      "en": "Nature inclines us; it does not judge for us: from a spontaneous leaning one cannot infer that it leads to the best. One would have to show, in addition, that pleasure <kw>is worth</kw> something, not merely that it attracts, and that proof the cradle does not give."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc l'argument prouve trop peu : il établit que le plaisir est un bien recherché, non qu'il soit le souverain bien ; le passage du désiré au désirable reste à faire.",
+    "en": "So the argument proves too little: it establishes that pleasure is a good we seek, not that it is the highest good; the step from desired to desirable is still to be made."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": {
+      "fr": "Hume ; Moore",
+      "en": "Hume; Moore"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Hume",
+          "en": "Hume"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "hume"
+      },
+      {
+        "name": {
+          "fr": "Moore",
+          "en": "Moore"
+        },
+        "kind": "PHILOSOPHER"
+      }
+    ],
+    "work": {
+      "fr": "Traité de la nature humaine, III, i, 1",
+      "en": "A Treatise of Human Nature, III.i.1"
+    },
+    "workId": "treatise-of-human-nature-hume"
+  },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est vrai : ce que je veux spontanément n'est pas forcément ce qui est bon pour moi. Comprendre, créer, être juste valent peut-être indépendamment du plaisir qu'ils donnent.",
+        "en": "True: what I want spontaneously is not necessarily what is good for me. Understanding, creating, being just may be worth something independently of the pleasure they bring."
+      },
+      "hints": [
+        {
+          "axisId": "SOVEREIGN_GOOD",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.2,
+              0.5,
+              0.3
+            ]
+          },
+          "weight": 1.5
+        }
+      ],
+      "discussion": {
+        "fr": "Vous ouvrez la porte à des biens que l'on peut avoir raison de vouloir, la santé, le savoir, l'amitié, indépendamment de ce qu'on ressent.",
+        "en": "You open the door to goods one may have reason to want, health, knowledge, friendship, independently of what one feels."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je garde le plaisir comme bien premier, mais j'accorde qu'il ne se justifie pas tout seul : encore faut-il que ce soit un plaisir qui ne me dégrade pas.",
+        "en": "I keep pleasure as the first good, but grant that it does not justify itself alone: it still has to be a pleasure that does not debase me."
+      },
+      "hints": [
+        {
+          "axisId": "SOVEREIGN_GOOD",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.5,
+              0.35,
+              0.15
+            ]
+          },
+          "weight": 0.75
+        }
+      ],
+      "discussion": {
+        "fr": "Vous réintroduisez une hiérarchie des plaisirs, dans la ligne de <ph id='mill'>Mill</ph> : tous ne se valent pas, même à intensité égale.",
+        "en": "You reintroduce a hierarchy of pleasures, in the line of <ph id='mill'>Mill</ph>: not all are equal, even at equal intensity."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : chercher au-delà du plaisir un « bien en soi » que personne n'éprouve, c'est inventer une valeur. « Bon » ne veut rien dire d'autre que bon-pour-quelqu'un, c'est-à-dire agréable.",
+        "en": "I refute it: to seek, beyond pleasure, a 'good in itself' that no one experiences is to invent a value. 'Good' means nothing other than good-for-someone, that is, pleasant."
+      },
+      "hints": [
+        {
+          "axisId": "SOVEREIGN_GOOD",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.8,
+              0.15,
+              0.05
+            ]
+          },
+          "weight": 0.5
+        }
+      ],
+      "discussion": {
+        "fr": "Vous tenez la réponse de l'hédoniste : refuser le pas du désiré au désirable, c'est réclamer un bien sans preuve, que rien dans l'expérience ne vient remplir.",
+        "en": "You hold the hedonist's reply: to refuse the step from desired to desirable is to demand a good without proof, one that nothing in experience fills in."
+      }
+    }
+  ],
+  "problems": [
+    "wanted-or-good"
+  ],
+  "targets": [
+    "hedonism-cradle-argument"
+  ],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
+}

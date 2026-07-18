@@ -1,0 +1,81 @@
+{
+  "id": "pessimism-situationist-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "HUMAN_VISION", "poleId": "ANTHROPOLOGICAL_PESSIMISM" },
+  "name": { "fr": "Ce sont les circonstances, non la nature", "en": "It is circumstances, not nature" },
+  "attacks": "POSITION",
+  "claim": {
+    "fr": "Les mêmes hommes sont doux dans de bonnes conditions et cruels dans de mauvaises : ce qui varie ainsi avec la situation n'est pas une nature fixe.",
+    "en": "The same men are gentle in good conditions and cruel in bad ones: what varies so with the situation is not a fixed nature."
+  },
+  "summary": {
+    "fr": "Le pessimisme lit une nature mauvaise dans nos crimes. Mais nos conduites varient énormément avec les circonstances, et le mal massif tient souvent à des exécutants ordinaires plus qu'à des monstres ; l'histoire connaît de vrais reculs de la cruauté. Ce qui change ainsi n'est pas un fond fixe mais une plasticité.",
+    "en": "Pessimism reads an evil nature into our crimes. But our conduct varies enormously with circumstances, and mass evil often owes more to ordinary functionaries than to monsters; history knows real retreats of cruelty. What changes so is not a fixed depth but a plasticity."
+  },
+  "development": [
+    {
+      "fr": "Le pessimisme lit dans nos crimes une nature mauvaise, un fond qui resurgit toujours.",
+      "en": "Pessimism reads in our crimes an evil nature, a depth that always resurfaces."
+    },
+    {
+      "fr": "Mais ces conduites varient énormément avec les circonstances : les mêmes individus, selon qu'ils ont peur ou se sentent en sûreté, qu'ils obéissent ou répondent d'eux-mêmes, se montrent lâches ou courageux, cruels ou secourables. Le mal le plus massif tient souvent moins à des monstres qu'à des exécutants ordinaires et irréfléchis.",
+      "en": "But this conduct varies enormously with circumstances: the same individuals, according to whether they are afraid or feel safe, whether they obey or answer for themselves, show themselves cowardly or brave, cruel or helpful. The most massive evil often owes less to monsters than to ordinary, unreflecting functionaries."
+    },
+    {
+      "fr": "Ce qui change à ce point avec la situation n'est pas une nature fixe : et de fait, l'histoire connaît de vrais reculs de la cruauté, l'esclavage aboli, la torture proscrite, signe qu'on peut refaire les mœurs.",
+      "en": "What changes so with the situation is not a fixed nature: and indeed, history knows real retreats of cruelty, slavery abolished, torture outlawed, a sign that mores can be remade."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc ce que le pessimisme prend pour un fond immuable est surtout l'effet de conditions : changez les circonstances et l'éducation, et ce n'est pas une bonté cachée qu'on libère, mais un être malléable qu'on oriente autrement.",
+    "en": "So what pessimism takes for an immovable depth is above all the effect of conditions: change the circumstances and the education, and it is not a hidden goodness one frees, but a malleable being one orients otherwise."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": { "fr": "Arendt", "en": "Arendt" },
+    "figures": [{ "name": { "fr": "Arendt", "en": "Arendt" }, "kind": "PHILOSOPHER", "slug": "arendt" }],
+    "work": { "fr": "Eichmann à Jérusalem", "en": "Eichmann in Jerusalem" },
+    "year": 1963
+  },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "L'homme n'est pas mauvais : ce sont des conditions injustes qui le rendent tel. Corrigez-les, et sa part bonne reparaît.",
+        "en": "Man is not evil: it is unjust conditions that make him so. Correct them, and his good part reappears."
+      },
+      "hints": [{ "axisId": "HUMAN_VISION", "value": { "kind": "scalar", "value": -0.6 }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous rejoignez l'optimisme : le mal vient du dehors, des circonstances, non d'un fond corrompu.",
+        "en": "You join optimism: evil comes from without, from circumstances, not from a corrupt depth."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Ni fond mauvais ni bonté cachée : un être façonnable, que les circonstances tournent au bien ou au mal.",
+        "en": "Neither an evil depth nor a hidden goodness: a shapeable being, whom circumstances turn to good or evil."
+      },
+      "hints": [{ "axisId": "HUMAN_VISION", "value": { "kind": "scalar", "value": 0 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous vous arrêtez à la plasticité : c'est la situation qui décide, sur un être ni bon ni mauvais.",
+        "en": "You stop at plasticity: it is the situation that decides, upon a being neither good nor evil."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "S'il faut tant d'efforts et d'institutions constantes pour nous tenir décents, c'est bien que la pente sombre est réelle et permanente : l'explication par les seules circonstances décrit le déclencheur, non le combustible.",
+        "en": "If it takes such effort and such constant institutions to keep us decent, then the dark slope is real and permanent: explaining by circumstances alone describes the trigger, not the fuel."
+      },
+      "hints": [{ "axisId": "HUMAN_VISION", "value": { "kind": "scalar", "value": 1 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "La réplique pessimiste : les circonstances révèlent le fond au lieu de le créer ; encore faut-il qu'il y ait de quoi révéler.",
+        "en": "The pessimist reply: circumstances reveal the depth rather than create it; still, there must be something there to reveal."
+      }
+    }
+  ],
+  "targets": ["pessimism-persistent-drives"],
+  "problems": ["obedience-and-evil", "perfectibility"],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

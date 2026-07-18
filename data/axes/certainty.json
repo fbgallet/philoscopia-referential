@@ -270,7 +270,7 @@
       "anchors": [
         { "name": { "fr": "Sextus Empiricus", "en": "Sextus Empiricus" }, "kind": "PHILOSOPHER", "slug": "sextus-empiricus" }
       ],
-      "doorways": [{ "axis": "EPISTEMIC_JUSTIFICATION" }],
+      "doorways": [{ "axis": "EPISTEMIC_JUSTIFICATION", "problem": "regress-of-reasons" }],
       "title": { "fr": "Justifier, jusqu'où ?", "en": "Justify, how far?" },
       "explicitation": {
         "fr": "Toute raison s'appuie sur une autre raison : la chaîne s'arrête-t-elle sur un fondement, tourne-t-elle en cercle, ou se perd-elle à l'infini ? C'est le levier du sceptique.",

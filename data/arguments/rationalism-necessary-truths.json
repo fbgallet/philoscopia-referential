@@ -1,0 +1,73 @@
+{
+  "id": "rationalism-necessary-truths",
+  "kind": "SUPPORTS",
+  "position": {
+    "axisId": "KNOWLEDGE_SOURCE",
+    "poleId": "RATIONALISM"
+  },
+  "name": {
+    "fr": "Ce que les sens ne peuvent donner",
+    "en": "What the senses cannot give"
+  },
+  "claim": {
+    "fr": "« Sept et cinq font douze », « le tout est plus grand que la partie » : des vérités nécessaires et universelles qu'aucune expérience ne pourrait établir.",
+    "en": "'Seven and five make twelve', 'the whole is greater than the part': necessary, universal truths that no experience could establish."
+  },
+  "summary": {
+    "fr": "Les sens ne livrent que du particulier et du contingent ; or nous tenons des vérités nécessaires et universelles, valables avant toute vérification. Ce qui est nécessaire ne peut venir du contingent : sa source est la raison.",
+    "en": "The senses deliver only the particular and the contingent; yet we hold necessary, universal truths, valid before any verification. What is necessary cannot come from the contingent: its source is reason."
+  },
+  "development": [
+    {
+      "fr": "Les sens ne livrent que des faits particuliers et contingents : ce corps-ci est chaud, ce cygne-là est blanc. Ils nous disent ce qui est, ici et maintenant, jamais ce qui doit être ainsi dans tous les cas possibles.",
+      "en": "The senses deliver only particular, contingent facts: this body here is hot, that swan is white. They tell us what is, here and now, never what must be so in every possible case."
+    },
+    {
+      "fr": "Or nous possédons des vérités d'un tout autre ordre : que la somme des angles d'un triangle égale deux droits, que rien ne peut à la fois être et ne pas être. Elles valent nécessairement, partout, avant toute vérification, et aucune addition d'observations ne saurait les fonder ni les infirmer.",
+      "en": "Yet we possess truths of an entirely different order: that the angles of a triangle sum to two right angles, that nothing can at once be and not be. They hold necessarily, everywhere, before any verification, and no amount of observations could ground or refute them."
+    },
+    {
+      "fr": "Ce qui est nécessaire et universel ne peut venir de ce qui est contingent et particulier : la source de ces vérités est donc dans la raison, non dans les sens. « Rien dans l'entendement qui ne vienne des sens, excepté l'entendement lui-même. »",
+      "en": "What is necessary and universal cannot come from what is contingent and particular: the source of these truths is therefore in reason, not in the senses. 'Nothing in the understanding that did not come from the senses, except the understanding itself.'"
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la raison possède des ressources propres, indépendantes de l'expérience : c'est en elle, et non dans les sens, que se fonde le savoir le plus certain.",
+    "en": "So reason possesses resources of its own, independent of experience: it is in reason, not in the senses, that the most certain knowledge is grounded."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": {
+      "fr": "Leibniz ; Descartes",
+      "en": "Leibniz; Descartes"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Leibniz",
+          "en": "Leibniz"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "leibniz"
+      },
+      {
+        "name": {
+          "fr": "Descartes",
+          "en": "Descartes"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "descartes"
+      }
+    ],
+    "work": {
+      "fr": "Nouveaux essais sur l'entendement humain, II, i",
+      "en": "New Essays on Human Understanding, II.i"
+    },
+    "year": 1704
+  },
+  "testThoughtExperiment": "molyneux-problem",
+  "problems": [
+    "knowledge-by-intuition"
+  ],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
+}

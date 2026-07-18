@@ -24,7 +24,7 @@ Scepticisme 85% · Dogmatisme 15%
 
 La devise « « Que sais-je ? » » n'est pas une thèse mais une question tenue ouverte. Dans l'*[Apologie de Raimond Sebond](../works/essays-montaigne.md)*, Montaigne reprend tout l'arsenal des sceptiques grecs, diversité des opinions, faiblesse des sens, dépendance de la raison à la coutume, pour rabattre l'orgueil d'une raison qui prétend tout fonder. Mais son [scepticisme](../glossary/skepticism.md) ne s'arrête pas à Pyrrhon : il refuse l'[épochè](../glossary/epoche.md) systématique comme un nouveau dogme, garde l'usage des croyances pour vivre et conduit le doute non vers l'[ataraxie](../glossary/ataraxia.md) impassible mais vers la modestie, l'enquête sur soi et la [tolérance](../glossary/tolerance.md). C'est un doute habité, faillibiliste avant la lettre, qui en fait l'aiguillon dont Descartes fera, contre lui, son point de départ.
 
-> « Que sais-je ? » (Essais, II, 12, « Apologie de Raimond Sebond »)
+> « Que sais-je ? », Essais, II, 12, « Apologie de Raimond Sebond »
 
 *Sources : Essais, II, 12, « Apologie de Raimond Sebond »*
 
@@ -36,7 +36,7 @@ Vie examinée 93% · Primat de l'action 8%
 
 Là où la philosophie cherchait des vérités universelles, Montaigne prend un objet inédit : lui-même. L'[épochè](../glossary/epoche.md) sceptique, en suspendant les grandes certitudes, dégage paradoxalement le seul terrain qui reste à explorer, l'expérience intérieure d'un homme particulier. Se peindre, non pour s'admirer mais pour atteindre la condition humaine à travers un cas singulier, devient une méthode : « « chaque homme porte la forme entière de l'humaine condition » ». C'est la vie examinée déplacée de la [réfutation](../glossary/elenchos.md) socratique vers l'observation patiente de soi.
 
-> « Je suis moi-même la matière de mon livre. » (Essais, « Au lecteur »)
+> « Je suis moi-même la matière de mon livre. », Essais, « Au lecteur »
 
 *Sources : Essais, « Au lecteur » et III, 2, « Du repentir »*
 
@@ -48,7 +48,7 @@ Narrativisme 45% · Faisceau 40% · Continuité psychologique 15%
 
 Montaigne ne trouve en lui aucune substance fixe. Le moi est « « le branle » », un flux d'humeurs, d'opinions et d'états contradictoires d'un instant à l'autre, plus proche d'un faisceau changeant que d'une âme stable. Ce qui le tient pourtant ensemble n'est pas une essence mais, semble-t-il, l'écriture continuée des *[Essais](../works/essays-montaigne.md)*, qui ressaisit ce passage dans un autoportrait jamais clos : d'où une part narrative qui tempère le pur fagotage des parties. Le moi, chez lui, n'est pas donné, il se compose à mesure qu'on le raconte.
 
-> « Je ne peins pas l'être, je peins le passage. » (Essais, III, 2, « Du repentir »)
+> « Je ne peins pas l'être. Je peins le passage. », Essais, III, 2, « Du repentir »
 
 *Sources : Essais, III, 2, « Du repentir » et II, 1, « De l'inconstance de nos actions »*
 
@@ -60,7 +60,7 @@ Présentisme 80% · Projet 10% · Mémoire-transmission 10%
 
 Notre malheur, observe Montaigne, vient de ne jamais habiter le présent : nous errons au-devant ou au-derrière de nous, à craindre l'avenir et regretter le passé, si bien que nous oublions de vivre l'heure qui est là. La sagesse renverse l'effort : non pas se projeter ni accumuler, mais « « jouir loyalement de son être » », savourer pleinement ce qui se présente, comme Épicure mais sans système. Le dernier mot des *[Essais](../works/essays-montaigne.md)* n'est plus « apprendre à mourir » mais apprendre à vivre, c'est-à-dire revenir au présent que la peur de la mort nous dérobe.
 
-> « Nous ne sommes jamais chez nous, nous sommes toujours au-delà. » (Essais, I, 3, « Nos affections s'emportent au-delà de nous »)
+> « Nous ne sommes jamais chez nous, nous sommes toujours au-delà. », Essais, I, 3, « Nos affections s'emportent au-delà de nous »
 
 *Sources : Essais, I, 20, « Que philosopher c'est apprendre à mourir » et III, 13, « De l'expérience »*
 
@@ -82,7 +82,7 @@ Relativisme 70% · Universalisme 15% · Constructivisme 15%
 
 Dans « Des cannibales », Montaigne retourne le regard de l'Européen sur lui-même : nous tenons pour barbare ce qui s'écarte de nos usages, sans voir que les nôtres seraient tout aussi étranges vus d'ailleurs. « « Chacun appelle barbarie ce qui n'est pas de son usage » ». La diversité des mœurs à travers le monde montre que nos certitudes morales doivent moins à la raison qu'à la [coutume](../glossary/coutume.md), « « autre monde, autres lois  »». Ce relativisme reste pourtant prudent : il sert à désarmer le fanatisme et la cruauté, non à tout permettre, car la cruauté des conquérants, elle, est jugée pire que celle des « sauvages ».
 
-> « Chacun appelle barbarie ce qui n'est pas de son usage. » (Essais, I, 31, « Des cannibales »)
+> « Chacun appelle barbarie ce qui n'est pas de son usage. », Essais, I, 31, « Des cannibales »
 
 *Sources : Essais, I, 31, « Des cannibales » et II, 12*
 
@@ -144,7 +144,7 @@ Conservatisme 85% · Progressisme 15%
 
 Si nos lois ne tiennent pas à la raison mais à la [coutume](../glossary/coutume.md), le réformateur qui veut les refaire au nom du vrai risque, en ébranlant l'édifice, plus de maux qu'il n'en guérit, comme le montrent les guerres de Religion. Montaigne en tire un conservatisme paradoxal : il faut obéir aux lois « « parce qu'elles sont lois » », non parce qu'elles sont justes, car leur autorité tient à leur ancienneté, non à leur fondement. Ce n'est pas amour de l'ordre établi mais défiance envers les nouveautés, dont le coût certain l'emporte sur le gain incertain. Un sceptique en politique est volontiers conservateur, faute de certitude pour justifier le risque du changement.
 
-> « Les lois se maintiennent en crédit, non parce qu'elles sont justes, mais parce qu'elles sont lois. » (Essais, III, 13, « De l'expérience »)
+> « Les lois se maintiennent en crédit, non parce qu'elles sont justes, mais parce qu'elles sont lois. », Essais, III, 13, « De l'expérience »
 
 *Sources : Essais, III, 13, « De l'expérience » et I, 23, « De la coutume »*
 
@@ -186,7 +186,7 @@ Fidéisme 70% · Domaines séparés 20% · Harmonie 5% · Conflit 5%
 
 Le ressort de l'*[Apologie](../works/essays-montaigne.md)* est d'un [fidéisme](../glossary/fideisme.md) paradoxal : en ruinant les prétentions de la raison à prouver quoi que ce soit de Dieu, Montaigne ne détruit pas la foi mais lui ôte ses faux appuis. Une raison incapable d'atteindre la moindre certitude ne saurait fonder la religion, qui ne peut donc tenir que de la grâce et de l'autorité, non de la démonstration. Loin d'opposer foi et raison dans un conflit, il les sépare en les hiérarchisant, la faiblesse même de la raison servant d'argument à la soumission croyante.
 
-> « C'est la foi seule qui embrasse vivement et certainement les hauts mystères de notre religion. » (Essais, II, 12, « Apologie de Raimond Sebond »)
+> « C'est la foi seule qui embrasse vivement et certainement les hauts mystères de notre religion. », Essais, II, 12, « Apologie de Raimond Sebond »
 
 *Sources : Essais, II, 12, « Apologie de Raimond Sebond »*
 
@@ -268,7 +268,7 @@ Sens construit 65% · Téléologie-providence 35%
 
 Montaigne ne cherche pas le sens de la vie dans un ordre cosmique ni dans un au-delà, mais dans la qualité de l'existence présente bien vécue. Sans nier une nature à suivre, il fait de la vie un art personnel, une composition de soi au jour le jour plutôt qu'un destin reçu. Le sens n'est pas donné d'en haut, il se fabrique dans la manière d'habiter sa propre vie.
 
-> « Notre grand et glorieux chef-d'œuvre, c'est vivre à propos. » (Essais, III, 13, « De l'expérience »)
+> « Notre grand et glorieux chef-d'œuvre, c'est vivre à propos. », Essais, III, 13, « De l'expérience »
 
 *Sources : Essais, III, 13, « De l'expérience »*
 
@@ -286,7 +286,7 @@ Philia (amitié) 95% · Agapè-don 5%
 
 Reprenant la [philia](../glossary/philia.md) d'[Aristote](../philosophers/aristotle.md) mais la portant à l'incandescence, Montaigne réserve, dans le chapitre « De l'amitié » de ses *[Essais](../works/essays-montaigne.md)*, le nom d'amitié à un lien unique, librement choisi, qui passe avant l'amour-passion : l'ardeur amoureuse n'est qu'un feu volage et changeant, tandis que l'amitié parfaite est une chaleur constante où deux âmes « se mêlent et se confondent l'une en l'autre ». Il la dit sans autre fondement qu'elle-même, irréductible à l'utilité, au plaisir ou au devoir de parenté ; chacun s'y donne sans réserve, part de don qui excède le simple échange de bons offices. De sa communion avec La Boétie, il ne sait donner d'autre raison que l'évidence réciproque des deux êtres.
 
-> « Parce que c'était lui, parce que c'était moi. » (Essais, I, 28 (« De l'amitié »))
+> « Parce que c'était lui, parce que c'était moi. », Essais, I, 28 (« De l'amitié »)
 
 *Sources : Essais, I, 28 (« De l'amitié »)*
 

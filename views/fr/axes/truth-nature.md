@@ -35,9 +35,27 @@ Le vrai, c'est ce qui fonctionne : une idée est vraie si elle guide efficacemen
 - *[Nature de la vérité](../axes/truth-nature.md) : Correspondance* fonde *[Statut du savoir](../axes/knowledge-status.md) : Réalisme scientifique* : Si la vérité est l'accord d'un énoncé avec une réalité indépendante de nous, alors une science qui réussit décrit, au moins approximativement, le monde tel qu'il est. La conception de la vérité comme correspondance fonde le réalisme scientifique : pour [Popper](../philosophers/popper.md), le progrès des sciences nous rapproche de la vérité sur la structure du réel.
 - *[Nature de la vérité](../axes/truth-nature.md) : Pragmatisme* fonde *[Éthique de la croyance](../axes/belief-ethics.md) : Non-évidentialisme* : Si une idée est vraie pour autant qu'elle réussit et féconde l'action, alors, quand la preuve fait défaut et que l'enjeu est vital, oser croire peut être légitime, voire fécond. Le pragmatisme soutient le non-évidentialisme : [James](../philosophers/william-james.md) revendique un « droit de croire » là où l'évidence ne tranche pas et où la croyance engage la vie.
 
+## Citations
+
+> « C'est dans la pratique que l'homme doit prouver la vérité, c'est-à-dire la réalité et la puissance, l'en-deçà de sa pensée. » — [Marx](../philosophers/marx.md), Thèses sur Feuerbach, II
+
+> « Dans toute proposition affirmative véritable, le prédicat est contenu dans le sujet : praedicatum inest subjecto. » — [Leibniz](../philosophers/leibniz.md), Discours de métaphysique, §8 ; Generales inquisitiones
+
+> « Dire de ce qui est qu'il n'est pas, ou de ce qui n'est pas qu'il est, est le faux ; dire de ce qui est qu'il est, et de ce qui n'est pas qu'il n'est pas, est le vrai. » — [Aristote](../philosophers/aristotle.md), Métaphysique, Γ (livre IV), 7, 1011b
+
+> « Dire de ce qui est qu'il n'est pas, ou de ce qui n'est pas qu'il est, c'est le faux ; dire de ce qui est qu'il est, et de ce qui n'est pas qu'il n'est pas, c'est le vrai. » — [Aristote](../philosophers/aristotle.md), Métaphysique, Γ (IV), 7 (1011b)
+
+> « L'enseignement du Dharma par les bouddhas repose sur deux vérités : la vérité d'enveloppement mondain et la vérité au sens ultime. Sans s'appuyer sur le conventionnel, l'ultime n'est pas enseigné ; sans atteindre l'ultime, le nirvāṇa n'est pas obtenu. » — [Nāgārjuna](../philosophers/nagarjuna.md), Mūlamadhyamakakārikā, XXIV, 8-10
+
+> « L'opinion destinée à recevoir à la fin l'accord de tous ceux qui enquêtent, voilà ce que nous entendons par le vrai, et l'objet représenté dans cette opinion est le réel. » — [Charles Sanders Peirce](../philosophers/peirce.md), Comment rendre nos idées claires (1878)
+
+> « La vérité est l'adéquation de la chose et de l'intellect. » — [Thomas d'Aquin](../philosophers/aquinas.md), Questions disputées sur la vérité, q. 1, a. 1
+
+> « Le vrai, pour le dire très brièvement, n'est que ce qui nous réussit dans l'ordre de la pensée. » — James, Le Pragmatisme, leçon VI
+
 ## Axes liés
 
-[Le sens des mots](../axes/meaning.md) · [Rapport à la certitude](../axes/certainty.md) · [Source de la connaissance](../axes/knowledge-source.md) · [Statut du savoir](../axes/knowledge-status.md) · [Statut des normes (métaéthique)](../axes/moral-scope.md)
+[Le sens des mots](../axes/meaning.md) · [Rapport à la certitude](../axes/certainty.md) · [Source de la connaissance](../axes/knowledge-source.md) · [Statut du savoir](../axes/knowledge-status.md) · [Statut des normes (métaéthique)](../axes/moral-scope.md) · [Justification de la croyance](../axes/epistemic-justification.md)
 
 ---
 

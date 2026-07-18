@@ -83,7 +83,7 @@ Consequentialism 100%
 
 A morality, for Bentham, is worth nothing unless it supplies a public, demonstrable criterion rather than the disguised echo of a personal taste. The rival principles fail this test: the principle of asceticism condemns pleasure for no reason, and the principle of sympathy and antipathy sets up moral sentiment as a rule without answering for it, often masking a bare “I approve” or “I disapprove”. Only an action's tendency to augment or diminish happiness yields an external, checkable measure of right and wrong; any approval that does not reduce to it is mere caprice dressed up as a principle. Hence a thoroughgoing consequentialism: no act is good or bad in itself, independently of its outcomes.
 
-> “By the principle of utility is meant that principle which approves or disapproves of every action whatsoever, according to the tendency which it appears to have to augment or diminish the happiness of the party whose interest is in question.” (An Introduction to the Principles of Morals and Legislation, ch. I, §2)
+> “By the principle of utility is meant that principle which approves or disapproves of every action whatsoever, according to the tendency which it appears to have to augment or diminish the happiness of the party whose interest is in question.”, An Introduction to the Principles of Morals and Legislation, ch. I, §2
 
 *Sources : An Introduction to the Principles of Morals and Legislation, ch. I-II*
 
@@ -95,7 +95,7 @@ Hedonism 100%
 
 Bentham starts from what he takes to be a fact of nature: pleasure and pain are the only two things we actually seek and shun as ends. Good and evil then have no separate content: to call a thing "good" says no more than that it tends to produce pleasure or ward off pain. Hence a [hedonism](../glossary/hedonism.md) at once psychological and moral, welding fact to norm through the same two sovereign masters and leaving no room for a flourishing or perfection distinct from the agreeable, against the objective goods of the Aristotelian tradition.
 
-> “Nature has placed mankind under the governance of two sovereign masters, pain and pleasure. It is for them alone to point out what we ought to do, as well as to determine what we shall do.” (An Introduction to the Principles of Morals and Legislation, ch. I, §1)
+> “Nature has placed mankind under the governance of two sovereign masters, pain and pleasure. It is for them alone to point out what we ought to do, as well as to determine what we shall do.”, An Introduction to the Principles of Morals and Legislation, ch. I, §1
 
 *Sources : An Introduction to the Principles of Morals and Legislation, ch. I, §1*
 
@@ -107,7 +107,7 @@ Pathocentrism 100%
 
 If the sole title to enter the calculus is to be able to feel pleasure and pain, then the boundary of moral consideration must follow sentience, not reason or language. Bentham thus turns back both the Cartesian argument of the animal-machine and the one that once excluded the slave: it is not the faculty of reasoning or talking that grounds a claim to consideration, but the capacity to suffer. The conclusion follows from the consistency of the utilitarian criterion itself: consideration extends to every sentient being, placing him in pathocentrism and making him a precursor of the animal cause.
 
-> “The question is not, Can they reason? nor, Can they talk? but, Can they suffer?” (An Introduction to the Principles of Morals and Legislation, ch. XVII)
+> “The question is not, Can they reason? nor, Can they talk? but, Can they suffer?”, An Introduction to the Principles of Morals and Legislation, ch. XVII
 
 *Sources : An Introduction to the Principles of Morals and Legislation, ch. XVII, §1, footnote (the suffering of animals)*
 
@@ -119,7 +119,7 @@ Egalitarianism 80% · Libertarianism 20%
 
 In reckoning collective happiness, “everybody to count for one, nobody for more than one”: no interest weighs more by reason of rank or birth. This egalitarianism of the count, joined to the idea of the diminishing marginal utility of wealth, inclines Bentham toward a more equal distribution of well-being, without his advocating a strict equality of goods, which would wreck security.
 
-> “Everybody to count for one, nobody for more than one.” (Bentham's maxim, as reported by J. S. Mill)
+> “Everybody to count for one, nobody for more than one.”, Utilitarianism, ch. V
 
 *Sources : Principles of the Civil Code (the diminishing utility of wealth, security and equality) · Maxim reported by J. S. Mill, Utilitarianism, ch. V*
 
@@ -131,7 +131,7 @@ Egalitarianism of taste 100%
 
 Since only the quantity of pleasure enters the balance, there is nowhere to lodge an intrinsic superiority of one pleasure over another: at equal quantity, a vulgar amusement and an art reputed noble are exactly worth the same. To rank pleasures by their dignity would smuggle in a criterion foreign to pleasure, which the [hedonist principle](../glossary/hedonism.md) forbids. This egalitarianism of taste is the breaking point with [Mill](../philosophers/mill.md), who would distinguish higher and lower pleasures precisely to parry the charge of a “doctrine worthy only of swine”: where Mill gives ground, Bentham carries strict quantification through to the end.
 
-> “Quantity of pleasure being equal, pushpin is as good as poetry.” (The Rationale of Reward)
+> “Quantity of pleasure being equal, pushpin is as good as poetry.”, The Rationale of Reward
 
 *Sources : The Rationale of Reward (pushpin is as good as poetry)*
 
@@ -143,7 +143,7 @@ Deterrence 70% · Rehabilitation 30%
 
 Punishment is in itself an evil, a pain, and is justified only by the utility it yields: “all punishment in itself is evil; upon the principle of utility, if it ought at all to be admitted, it ought only to be admitted in as far as it promises to exclude some greater evil”. Its first end is the prevention of offences, chiefly by deterrence and secondarily by the reform of the offender; Bentham explicitly rejects retribution and the lex talionis as an evil added to an evil, with no profit.
 
-> “All punishment in itself is evil. Upon the principle of utility, if it ought at all to be admitted, it ought only to be admitted in as far as it promises to exclude some greater evil.” (An Introduction to the Principles of Morals and Legislation, ch. XIII, §2)
+> “All punishment in itself is evil. Upon the principle of utility, if it ought at all to be admitted, it ought only to be admitted in as far as it promises to exclude some greater evil.”, An Introduction to the Principles of Morals and Legislation, ch. XIII, §2
 
 *Sources : An Introduction to the Principles of Morals and Legislation, ch. XIII-XIV (punishment, its ends and its measure)*
 
@@ -245,7 +245,7 @@ Empiricism 85% · Rationalism 15%
 
 In the [empiricist](../movements/empiricism.md) line of [Locke](../philosophers/locke.md) and Hume, Bentham holds real only what can be observed and measured, and suspects any term that answers to no sensible entity. This drives his critique of fictions: an expression like natural right claims to name a thing while no fact corresponds to it, and is merely a word with which a demand is cloaked rather than justified. His method is thus resolutely inductive and naturalistic, anchored in the experience of pleasures and pains rather than in a priori rational principles, and it is on that ground that he dismisses natural rights.
 
-> “Natural rights is simple nonsense: natural and imprescriptible rights, rhetorical nonsense, nonsense upon stilts.” (Anarchical Fallacies)
+> “Natural rights is simple nonsense: natural and imprescriptible rights, rhetorical nonsense, nonsense upon stilts.”, Anarchical Fallacies
 
 *Sources : Anarchical Fallacies (natural rights, nonsense upon stilts)*
 
@@ -277,7 +277,7 @@ Individualism 80% · Holism 20%
 
 For Bentham, the community is a fiction: its interest is but the sum of the interests of the members who compose it. There is no collective entity with a good of its own above individuals; social happiness is but the aggregate of individual happinesses. This is a clear methodological individualism, the foundation of the whole utilitarian calculus.
 
-> “The interest of the community then is, what? — the sum of the interests of the several members who compose it.” (An Introduction to the Principles of Morals and Legislation, ch. I, §4)
+> “The interest of the community then is, what? — the sum of the interests of the several members who compose it.”, An Introduction to the Principles of Morals and Legislation, ch. I, §4
 
 *Sources : An Introduction to the Principles of Morals and Legislation, ch. I, §4 (the interest of the community, the sum of individual interests)*
 

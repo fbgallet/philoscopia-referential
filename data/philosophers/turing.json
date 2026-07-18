@@ -1,0 +1,20 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "turing",
+  "name": { "fr": "Turing", "en": "Turing" },
+  "aliases": {
+    "fr": ["Alan Turing"],
+    "en": ["Alan Turing"]
+  },
+  "summary": {
+    "fr": "Mathématicien et logicien britannique, l'un des fondateurs de l'informatique : pour dépasser la question « une machine peut-elle penser ? », jugée trop vague, il propose une épreuve, le jeu de l'imitation, où compte non la nature de la machine mais sa capacité à se faire prendre pour un esprit.",
+    "en": "British mathematician and logician, one of the founders of computer science: to get past the question \"can a machine think?\", which he judged too vague, he proposes a test, the imitation game, where what counts is not the machine's nature but its ability to pass for a mind."
+  },
+  "nationality": { "fr": "Britannique", "en": "British" },
+  "birth": 1912,
+  "death": 1954,
+  "movements": ["analytic-philosophy"],
+  "updatedAt": "2026-07-13T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

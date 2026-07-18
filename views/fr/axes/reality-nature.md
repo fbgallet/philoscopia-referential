@@ -39,6 +39,28 @@ Le corps et l'esprit sont deux réalités distinctes : la matière, étendue et 
 - *[Nature de l'esprit et du réel](../axes/reality-nature.md) : Matérialisme* fonde *[Tout et parties](../axes/reduction-emergence.md) : Réductionnisme* : Si seule la matière existe, les propriétés des touts doivent en principe s'expliquer par celles de leurs parties physiques. Le matérialisme encourage ainsi le réductionnisme, pour lequel le supérieur se ramène en droit à l'inférieur.
 - *[Nature de l'esprit et du réel](../axes/reality-nature.md) : Matérialisme* fonde *[Nature de la conscience](../axes/consciousness-nature.md) : Physicalisme réducteur* : Si tout ce qui existe est matériel, la conscience ne peut être qu'une propriété du cerveau : les états mentaux sont des états physiques, que la science finira par identifier. Le matérialisme conduit ainsi au physicalisme réducteur, qui refuse à l'esprit toute réalité distincte de l'activité neuronale.
 
+## Citations
+
+> « Cette demeure, c'est la prison ; la lumière du feu qui s'y trouve, c'est le soleil ; et la montée vers le haut, c'est l'ascension de l'âme vers le lieu intelligible. » — [Platon](../philosophers/plato.md), République, VII, 517b
+
+> « De telles personnes ne tiendraient-elles pas pour la réalité rien d'autre que les ombres des objets fabriqués ? » — [Platon](../philosophers/plato.md), République, VII, 515c
+
+> « Le brahman est réel, le monde est apparence, et le soi n'est rien d'autre que le brahman. » — [Śaṅkara](../philosophers/shankara.md), formule attribuée à Śaṅkara (Brahmajñānāvalīmālā)
+
+> « Le monde est ma représentation. » — [Schopenhauer](../philosophers/schopenhauer.md), Le Monde comme volonté et comme représentation, livre I, §1
+
+> « Le tout est constitué de corps et de vide. » — [Épicure](../philosophers/epicurus.md), Lettre à Hérodote, 39
+
+> « Le tout est fait de corps et de vide. » — [Épicure](../philosophers/epicurus.md), Lettre à Hérodote, 39-40
+
+> « Les monades n'ont point de fenêtres par lesquelles quelque chose y puisse entrer ou sortir. » — [Leibniz](../philosophers/leibniz.md), Monadologie, §7
+
+> « Leur être est d'être perçus ; il n'est pas possible qu'ils aient une existence hors des esprits qui les perçoivent. » — [George Berkeley](../philosophers/berkeley.md), Principes de la connaissance humaine, §3
+
+> « Rien ne se crée jamais de rien par une volonté divine. » — [Lucrèce](../philosophers/lucretius.md), De la nature des choses, I, 150
+
+> « Tout dépend de ceci : saisir et exprimer le vrai non comme substance, mais tout autant comme sujet. » — [Hegel](../philosophers/hegel.md), Phénoménologie de l'esprit, Préface
+
 ## Axes liés
 
 [Les universaux](../axes/universals.md) · [Nature de la conscience](../axes/consciousness-nature.md) · [Être ou avoir un corps](../axes/embodiment.md) · [Explication de la nature](../axes/causality.md) · [Une machine peut-elle penser](../axes/machine-mind.md) · [Tout et parties](../axes/reduction-emergence.md) · [Rapport à la certitude](../axes/certainty.md) · [L'être et le devenir](../axes/being-becoming.md)

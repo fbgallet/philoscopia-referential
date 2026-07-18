@@ -10,6 +10,7 @@ German philosopher of spirit and history: he conceives the real as a rational un
 
 ## Influenced by
 
+- **[Schopenhauer](../philosophers/schopenhauer.md)** (reacts against) : [Schopenhauer](../philosophers/schopenhauer.md)'s contempt for [Hegel](../philosophers/hegel.md) was visceral and public: in Berlin he scheduled his lectures at the same hour as Hegel's, and spoke to an empty room. Against the optimism of a meaning of history and the omnipotence of the concept, he sets a metaphysics of the blind [Will](../glossary/vouloir-vivre.md), the primacy of intuition over discourse, and a history without progress or reason.
 - **[Spinoza](../philosophers/spinoza.md)** (reinterprets) : [Hegel](../philosophers/hegel.md) holds Spinozism to be an unavoidable passage: “to begin to philosophise is to be a Spinozist”. He takes up the demand for a single absolute, but faults [Spinoza](../philosophers/spinoza.md)'s substance for being inert and remakes it as subject.
 
 ## Influence on

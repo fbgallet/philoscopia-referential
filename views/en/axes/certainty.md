@@ -59,6 +59,38 @@ We can hold firm, well-justified beliefs while knowing they might be wrong. Betw
 
 - With [Existence of God](../axes/god-existence.md) : Holding that we can be certain of nothing, then confidently asserting that God does not exist, puts two beliefs in tension: the latter is a strong metaphysical claim, precisely the kind of certainty skepticism refuses. A consistent skepticism would lean toward agnosticism instead.
 
+## Quotations
+
+> “To every argument an equal argument is opposed.” — [Sextus Empiricus](../philosophers/sextus-empiricus.md), Outlines of Pyrrhonism, I, 12
+
+> “To every argument an equal argument is opposed.” — [Sextus Empiricus](../philosophers/sextus-empiricus.md), Outlines of Pyrrhonism, I, 12
+
+> “What I do not know, I do not think I know either.” — [Socrates](../philosophers/socrates.md), Plato, Apology, 21d
+
+> “How do I know that what I call knowing is not really ignorance, and what I call ignorance not really knowing?” — [Zhuangzi](../philosophers/zhuangzi.md), ch. 2 (On the Equality of Things)
+
+> “There are no facts, only interpretations.” — [Nietzsche](../philosophers/nietzsche.md), Posthumous Fragments, autumn 1885-1886, 7[60]
+
+> “There can be no truth other, at the starting point, than this: I think, therefore I am; that is the absolute truth of consciousness attaining itself.” — [Sartre](../philosophers/sartre.md), Existentialism Is a Humanism
+
+> “I freely admit that it was the objection of David Hume that, many years ago, first interrupted my dogmatic slumber.” — [Kant](../philosophers/kant.md), Prolegomena, Preface
+
+> “I do not know whether this world has a meaning that transcends it. But I know that I do not know that meaning and that it is impossible for me just now to know it.” — [Camus](../philosophers/camus.md), The Myth of Sisyphus
+
+> “I think, therefore I am.” — [Descartes](../philosophers/descartes.md), Discourse on Method, IV
+
+> “The dao that can be told is not the constant dao.” — [Laozi](../philosophers/laozi.md), Dao De Jing, ch. 1
+
+> “The Dao that can be named is not the constant Dao.” — [Laozi](../philosophers/laozi.md), Dao De Jing, ch. 1
+
+> “Things are no more this than that, nor both at once, nor neither.” — [Pyrrho](../philosophers/pyrrho.md), Aristocles, cited by Eusebius, Preparation for the Gospel, XIV, 18
+
+> “When a controversy arises, there will be no more need of disputation between two philosophers than between two accountants. It will suffice to take their pens, sit down, and say: let us calculate.” — [Leibniz](../philosophers/leibniz.md), On the Art of Combinations / Letters
+
+> “What do I know?” — [Michel de Montaigne](../philosophers/montaigne.md), Essays, II, 12, "Apology for Raymond Sebond"
+
+> “To silence the expression of an opinion is to rob the human race; those who dissent from it still more than those who hold it.” — [Mill](../philosophers/mill.md), On Liberty, ch. 2
+
 ## Related axes
 
 [Justification of belief](../axes/epistemic-justification.md) · [Ethics of belief](../axes/belief-ethics.md) · [Source of knowledge](../axes/knowledge-source.md) · [Nature of truth](../axes/truth-nature.md) · [Scientific method](../axes/scientific-method.md) · [Nature of mind and reality](../axes/reality-nature.md)

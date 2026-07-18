@@ -1,0 +1,76 @@
+{
+  "id": "absurdism-revolt-smuggles-value-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "LIFE_MEANING", "poleId": "ABSURDISM" },
+  "name": { "fr": "Pourquoi la révolte ?", "en": "Why revolt?" },
+  "attacks": "POSITION",
+  "claim": {
+    "fr": "Si vraiment rien n'a de valeur, la lucidité et la fierté du révolté n'en ont pas non plus : en faire la « bonne » réponse, c'est déjà réintroduire un sens.",
+    "en": "If nothing really has value, the rebel's lucidity and pride have none either: to make them the 'right' answer is already to reintroduce a meaning."
+  },
+  "summary": {
+    "fr": "L'absurdisme érige la révolte lucide en réponse juste ; mais s'il n'y a pas de sens, rien ne rend la révolte préférable à l'indifférence ou au renoncement. Ou ces valeurs tiennent, et l'on sort de l'absurde ; ou elles ne tiennent pas, et la révolte est aussi vaine que ce qu'elle défie.",
+    "en": "Absurdism sets lucid revolt up as the right response; but if there is no meaning, nothing makes revolt preferable to indifference or renunciation. Either these values hold, and one leaves the absurd; or they do not, and revolt is as futile as what it defies."
+  },
+  "development": [
+    {
+      "fr": "L'absurde naît, dit-on, du silence du monde face à notre soif de sens ; et la réponse juste serait la révolte lucide, sans espoir ni résignation.",
+      "en": "The absurd arises, we are told, from the world's silence before our thirst for meaning; and the right response would be lucid revolt, without hope or resignation."
+    },
+    {
+      "fr": "Mais pourquoi « révolte » plutôt qu'indifférence, ou renoncement ? Si vraiment rien n'a de valeur, la lucidité et la fierté du révolté n'en ont pas davantage : les ériger en réponse juste, c'est déjà tenir quelque chose pour meilleur, donc réintroduire un sens.",
+      "en": "But why 'revolt' rather than indifference, or renunciation? If nothing really has value, the rebel's lucidity and pride have no more of it: to set them up as the right response is already to hold something better, and so to reintroduce a meaning."
+    },
+    {
+      "fr": "L'absurdiste est donc pris entre deux termes : ou bien ces valeurs tiennent, et le monde n'est pas le désert de sens qu'il disait ; ou bien elles ne tiennent pas, et sa révolte est aussi vaine que ce qu'elle prétend défier.",
+      "en": "The absurdist is thus caught between two terms: either these values hold, and the world is not the desert of meaning he claimed; or they do not, and his revolt is as futile as what it claims to defy."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc l'absurdisme se contredit : il proclame l'absence de sens tout en faisant de la révolte un sens. Il faut soit reconnaître des valeurs, et sortir de l'absurde, soit renoncer jusqu'à la révolte elle-même.",
+    "en": "So absurdism contradicts itself: it proclaims the absence of meaning while making revolt a meaning. One must either recognize values, and leave the absurd, or renounce even revolt itself."
+  },
+  "difficulty": 3,
+  "source": { "author": { "fr": "Nagel", "en": "Nagel" }, "figures": [{ "name": { "fr": "Nagel", "en": "Nagel" }, "kind": "PHILOSOPHER", "slug": "nagel" }], "work": { "fr": "L'Absurde", "en": "The Absurd" }, "year": 1971 },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "L'objection porte : si je tiens à la lucidité, à la révolte, c'est que ces choses valent pour moi. Alors autant l'assumer et construire un sens, plutôt que le nier tout en le vivant.",
+        "en": "The objection lands: if I care about lucidity, about revolt, then these things matter to me. So better to own it and build a meaning, rather than deny one while living by it."
+      },
+      "hints": [{ "axisId": "LIFE_MEANING", "value": { "kind": "weights", "weights": [0.1, 0.45, 0.15, 0.3] }, "weight": 1.5 }],
+      "discussion": {
+        "fr": "Vous quittez l'absurde par le haut, vers le sens construit : ce que la révolte affirmait en creux, autant l'affirmer pour de bon.",
+        "en": "You leave the absurd upward, toward constructed meaning: what the revolt affirmed by implication, better to affirm outright."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je maintiens l'absurde, mais je rabats l'emphase de la révolte : nul héroïsme, juste la lucidité tranquille de qui vit sans réponse, sans en faire une vertu.",
+        "en": "I keep the absurd, but lower the emphasis on revolt: no heroism, just the quiet lucidity of one who lives without an answer, without making it a virtue."
+      },
+      "hints": [{ "axisId": "LIFE_MEANING", "value": { "kind": "weights", "weights": [0.05, 0.2, 0.6, 0.15] }, "weight": 0.75 }],
+      "discussion": {
+        "fr": "Vous tenez la réponse de <ph id='nagel'>Nagel</ph> : à l'absurde, une pointe d'ironie convient mieux que le pathos de la révolte, sans qu'on quitte l'absurde pour autant.",
+        "en": "You hold <ph id='nagel'>Nagel</ph>'s reply: to the absurd, a touch of irony suits better than the pathos of revolt, without leaving the absurd for all that."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : la révolte n'est pas une valeur de plus, c'est la seule attitude honnête une fois vues et l'exigence et le silence. La tenir n'est pas nier l'absurde, c'est le vivre sans tricher.",
+        "en": "I refute it: revolt is not one more value, it is the only honest attitude once one has seen both the demand and the silence. To hold it is not to deny the absurd, it is to live it without cheating."
+      },
+      "hints": [{ "axisId": "LIFE_MEANING", "value": { "kind": "weights", "weights": [0.05, 0.1, 0.8, 0.05] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous tenez la réponse de <ph id='camus'>Camus</ph> : la révolte n'est pas un sens caché mais la conscience même de l'absurde, maintenue sans repos.",
+        "en": "You hold <ph id='camus'>Camus</ph>'s reply: revolt is not a hidden meaning but the very consciousness of the absurd, kept up without rest."
+      }
+    }
+  ],
+  "problems": ["the-absurd"],
+  "targets": ["absurdism-lucid-revolt"],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
+}

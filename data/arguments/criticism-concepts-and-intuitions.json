@@ -1,0 +1,65 @@
+{
+  "id": "criticism-concepts-and-intuitions",
+  "kind": "SUPPORTS",
+  "position": {
+    "axisId": "KNOWLEDGE_SOURCE",
+    "median": true
+  },
+  "name": {
+    "fr": "Concepts et intuitions",
+    "en": "Concepts and intuitions"
+  },
+  "claim": {
+    "fr": "Les sens donnent la matière, l'esprit les formes qui l'ordonnent : sans concepts les perceptions sont aveugles, sans perceptions les concepts sont vides.",
+    "en": "The senses give the matter, the mind the forms that order it: without concepts perceptions are blind, without perceptions concepts are empty."
+  },
+  "summary": {
+    "fr": "L'empirisme a raison qu'il faut des données des sens, le rationalisme qu'il faut des formes de l'esprit ; la connaissance naît de leur rencontre, la matière venant des sens, la forme, espace, temps, causalité, de l'esprit.",
+    "en": "Empiricism is right that sense data are needed, rationalism that forms of the mind are needed; knowledge arises from their meeting, the matter from the senses, the form, space, time, causality, from the mind."
+  },
+  "development": [
+    {
+      "fr": "L'empirisme a raison sur un point : sans données reçues des sens, l'esprit n'a sur quoi s'exercer. Des concepts qu'aucune intuition ne vient remplir restent vides, de simples mots qui ne connaissent rien.",
+      "en": "Empiricism is right on one point: without data received from the senses, the mind has nothing to work on. Concepts that no intuition comes to fill remain empty, mere words that know nothing."
+    },
+    {
+      "fr": "Le rationalisme a raison sur l'autre : ces données brutes, sans mise en forme, ne seraient qu'un flux sans ordre. C'est l'esprit qui apporte l'espace, le temps, la causalité, cadres sous lesquels seuls quelque chose peut nous apparaître. Des intuitions qu'aucun concept n'ordonne restent aveugles.",
+      "en": "Rationalism is right on the other: these raw data, without form, would be but a flux without order. It is the mind that supplies space, time, causality, the frames under which alone anything can appear to us. Intuitions that no concept orders remain blind."
+    },
+    {
+      "fr": "La connaissance n'est donc ni reçue toute faite du dehors, ni tirée de la seule raison : elle naît de la rencontre des deux, la matière venant des sens, la forme de l'esprit qui la met en ordre.",
+      "en": "Knowledge is therefore neither received ready-made from without, nor drawn from reason alone: it arises from the meeting of the two, the matter from the senses, the form from the mind that orders it."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc ni l'expérience seule ni la raison seule ne fondent le savoir : connaître, c'est mettre en forme, par les cadres de l'esprit, ce que l'expérience nous donne.",
+    "en": "So neither experience alone nor reason alone grounds knowledge: to know is to give form, through the mind's frames, to what experience gives us."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": {
+      "fr": "Kant",
+      "en": "Kant"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Kant",
+          "en": "Kant"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "kant"
+      }
+    ],
+    "work": {
+      "fr": "Critique de la raison pure, Logique transcendantale, introduction (A51/B75)",
+      "en": "Critique of Pure Reason, Transcendental Logic, Introduction (A51/B75)"
+    },
+    "workId": "critique-of-pure-reason-kant"
+  },
+  "test": "criticism-things-in-themselves-objection",
+  "problems": [
+    "mind-shapes-experience"
+  ],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
+}

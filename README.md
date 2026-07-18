@@ -1,6 +1,8 @@
-# Philoscopia — an open referential of philosophical worldviews
+# Philoscopia — an open map of philosophical debates and worldviews, and the tools to build your own philosophical profile
 
-An open, bilingual (EN/FR) referential for mapping philosophical positions: **72 axes** covering the great debates, **sourced profiles** of philosophers and movements, **influence and foundation graphs**, a glossary and a registry of works — all as validated, machine-readable JSON, designed for reuse by humans and LLMs alike.
+**🇬🇧 English · [🇫🇷 Français](README.fr.md)**
+
+An open, bilingual (EN/FR) referential for mapping philosophical positions: **75 axes** covering the great debates, **sourced profiles** of philosophers and movements, **influence and foundation graphs**, a glossary and a registry of works — all as validated, machine-readable JSON, designed for reuse by humans and LLMs alike.
 
 This referential powers **Philoscopia**, a philosophical companion for discovering the worldviews of philosophers and building one's own. The data is published here so that anyone — researchers, teachers, developers, or anyone with an LLM — can explore, reuse, criticize and improve it.
 
@@ -12,7 +14,7 @@ Everything lives under `data/`, one JSON file per entity:
 
 | Folder | What it contains |
 |---|---|
-| `axes/` | The core of the referential: 72 axes of philosophical positions (e.g. free will, the sovereign good, the nature of truth). Each axis defines its poles, its territory and layer (descriptive theory vs value), its type (bipolar, spectrum, …), its related axes, and a map of the live sub-problems it carries. |
+| `axes/` | The core of the referential: 75 axes of philosophical positions (e.g. free will, the sovereign good, the nature of truth). Each axis defines its poles, its territory and layer (descriptive theory vs value), its type (bipolar, spectrum, …), its related axes, and a map of the live sub-problems it carries. |
 | `philosophers/` | Profiles positioning a philosopher on the axes, with **sourced justifications**, a declared/practiced distinction, statuses and salience. Full profiles coexist with lightweight stubs (`"stub": true`) that mark coverage still to be authored. |
 | `movements/` | Same model for schools and movements (Stoicism, utilitarianism, …). |
 | `characters/` | Same model for fictional characters. |

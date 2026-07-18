@@ -85,7 +85,197 @@
   "relatedAxes": [
     "ART_PURPOSE",
     "BODILY_PLEASURES",
+    "LIFE_MEANING",
     "SOVEREIGN_GOOD",
     "TASTE_HIERARCHY"
+  ],
+  "problems": [
+    {
+      "id": "life-as-artwork",
+      "resolution": "SURFACED",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "une vie tout entière",
+        "en": "a whole life"
+      },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "AESTHETIC",
+      "keywords": [
+        { "fr": "faire de sa vie une œuvre", "en": "making one's life a work of art" },
+        { "fr": "esthétique de l'existence", "en": "aesthetics of existence" },
+        { "fr": "stade esthétique", "en": "the aesthetic stage" }
+      ],
+      "poles": ["AESTHETICISM", "ETHICAL_PRIMACY"],
+      "anchors": [
+        { "name": { "fr": "Wilde", "en": "Wilde" }, "kind": "PHILOSOPHER", "slug": "wilde" },
+        { "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" },
+        { "name": { "fr": "Kierkegaard", "en": "Kierkegaard" }, "kind": "PHILOSOPHER", "slug": "kierkegaard" },
+        { "name": { "fr": "Foucault", "en": "Foucault" }, "kind": "PHILOSOPHER", "slug": "foucault" }
+      ],
+      "doorways": [{ "axis": "SOVEREIGN_GOOD" }],
+      "ref": { "kind": "THOUGHT_EXPERIMENT", "id": "dorian-gray" },
+      "title": {
+        "fr": "La vie comme œuvre",
+        "en": "Life as a work of art"
+      },
+      "explicitation": {
+        "fr": "Faire de sa vie une œuvre, viser l'intensité des belles sensations : une telle vie se suffit-elle, ou finit-elle par se vider, indifférente au bien comme au mal et guettée par l'ennui ?",
+        "en": "Making one's life a work of art, seeking the intensity of beautiful sensations: is such a life self-sufficient, or does it end up hollow, indifferent to good and evil and stalked by boredom?"
+      }
+    },
+    {
+      "id": "beauty-and-good",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "une belle action",
+        "en": "a beautiful act"
+      },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "sphere": "AESTHETIC",
+      "keywords": [
+        { "fr": "kalokagathia", "en": "kalokagathia" },
+        { "fr": "belle âme", "en": "beautiful soul" },
+        { "fr": "éducation esthétique", "en": "aesthetic education" }
+      ],
+      "poles": ["AESTHETICISM", "ETHICAL_PRIMACY"],
+      "anchors": [
+        { "name": { "fr": "Schiller", "en": "Schiller" }, "kind": "PHILOSOPHER", "slug": "schiller" },
+        { "name": { "fr": "Shaftesbury", "en": "Shaftesbury" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "Platon", "en": "Plato" }, "kind": "PHILOSOPHER", "slug": "plato" },
+        { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" }
+      ],
+      "doorways": [{ "axis": "ART_PURPOSE" }],
+      "title": {
+        "fr": "Le beau et le bien",
+        "en": "The beautiful and the good"
+      },
+      "explicitation": {
+        "fr": "Le beau et le bien ne font-ils qu'un, ou sont-ils rivaux : la beauté élève-t-elle l'âme vers le bien, ou séduit-elle en flattant les apparences contre le devoir ?",
+        "en": "Are the beautiful and the good one, or are they rivals: does beauty raise the soul toward the good, or seduce it by flattering appearances against duty?"
+      }
+    },
+    {
+      "id": "does-beauty-save",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "l'existence tout entière",
+        "en": "existence as a whole"
+      },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "sphere": "EXISTENTIAL",
+      "keywords": [
+        { "fr": "l'art contre le nihilisme", "en": "art against nihilism" },
+        { "fr": "la beauté sauvera le monde", "en": "beauty will save the world" },
+        { "fr": "contemplation esthétique", "en": "aesthetic contemplation" }
+      ],
+      "poles": ["AESTHETICISM"],
+      "anchors": [
+        { "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" },
+        { "name": { "fr": "Dostoïevski", "en": "Dostoevsky" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "Schopenhauer", "en": "Schopenhauer" }, "kind": "PHILOSOPHER", "slug": "schopenhauer" }
+      ],
+      "doorways": [{ "axis": "LIFE_MEANING" }],
+      "title": {
+        "fr": "La beauté sauve-t-elle ?",
+        "en": "Does beauty save?"
+      },
+      "explicitation": {
+        "fr": "Le beau n'est-il qu'un ornement, ou ce qui rachète une existence par ailleurs absurde ou souffrante et la rend supportable ?",
+        "en": "Is beauty a mere ornament, or what redeems an otherwise absurd or suffering existence and makes it bearable?"
+      }
+    },
+    {
+      "id": "receive-or-create",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "une vie",
+        "en": "a life"
+      },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "sphere": "AESTHETIC",
+      "keywords": [
+        { "fr": "instant exquis", "en": "the exquisite moment" },
+        { "fr": "donner du style à son caractère", "en": "giving style to one's character" },
+        { "fr": "artiste de soi", "en": "artist of oneself" }
+      ],
+      "poles": ["AESTHETICISM"],
+      "anchors": [
+        { "name": { "fr": "Pater", "en": "Pater" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" },
+        { "name": { "fr": "Foucault", "en": "Foucault" }, "kind": "PHILOSOPHER", "slug": "foucault" }
+      ],
+      "title": {
+        "fr": "Jouir du beau ou le créer",
+        "en": "Enjoying beauty or creating it"
+      },
+      "explicitation": {
+        "fr": "La vie esthétique, est-ce recueillir en connaisseur les belles expériences, ou se façonner soi-même comme une œuvre en donnant du style à son existence ?",
+        "en": "Is the aesthetic life about gathering beautiful experiences as a connoisseur, or about fashioning oneself as a work by giving one's existence style?"
+      }
+    },
+    {
+      "id": "is-beauty-objective",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "une belle chose",
+        "en": "a beautiful thing"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "beauté objective", "en": "objective beauty" },
+        { "fr": "des goûts et des couleurs", "en": "no accounting for taste" }
+      ],
+      "poles": ["AESTHETICISM", "ETHICAL_PRIMACY"],
+      "anchors": [
+        { "name": { "fr": "Platon", "en": "Plato" }, "kind": "PHILOSOPHER", "slug": "plato" },
+        { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" }
+      ],
+      "doorways": [{ "axis": "TASTE_HIERARCHY" }],
+      "title": {
+        "fr": "D'où vient la valeur du beau",
+        "en": "Where the value of beauty comes from"
+      },
+      "explicitation": {
+        "fr": "Le beau est-il une perfection réelle des choses, ou seulement un plaisir de goût ? Si tout est affaire de goût, sa prétention à compter dans une vie réussie s'affaiblit.",
+        "en": "Is beauty a real perfection of things, or merely a pleasure of taste? If it is all a matter of taste, its claim to count in a flourishing life weakens."
+      }
+    },
+    {
+      "id": "sensual-beauty",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "les plaisirs esthétiques",
+        "en": "aesthetic pleasures"
+      },
+      "mode": "PRESCRIPTIVE",
+      "relation": "RELATED",
+      "sphere": "AESTHETIC",
+      "keywords": [
+        { "fr": "plaisir des sens", "en": "pleasure of the senses" },
+        { "fr": "sensualité", "en": "sensuality" }
+      ],
+      "poles": ["AESTHETICISM"],
+      "anchors": [
+        { "name": { "fr": "Pater", "en": "Pater" }, "kind": "PHILOSOPHER" }
+      ],
+      "doorways": [{ "axis": "BODILY_PLEASURES" }],
+      "title": {
+        "fr": "Beauté des sens ou de l'esprit",
+        "en": "Beauty of the senses or of the mind"
+      },
+      "explicitation": {
+        "fr": "La vie esthétique tient-elle d'abord aux plaisirs des sens, et tombe alors sous la même suspicion qu'eux, ou d'une forme qui les dépasse ?",
+        "en": "Does the aesthetic life rest first on the pleasures of the senses, falling then under the same suspicion as they do, or on a form that transcends them?"
+      }
+    }
   ]
 }

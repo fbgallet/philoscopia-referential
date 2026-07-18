@@ -197,16 +197,7 @@
           }
         ],
         "strength": "MEDIUM",
-        "quote": {
-          "text": {
-            "fr": "Il ne peut y avoir de vérité autre, au point de départ, que celle-ci : je pense, donc je suis, c'est là la vérité absolue de la conscience s'atteignant elle-même.",
-            "en": "There can be no truth other, at the starting point, than this: I think, therefore I am; that is the absolute truth of consciousness attaining itself."
-          },
-          "source": {
-            "fr": "L'existentialisme est un humanisme",
-            "en": "Existentialism Is a Humanism"
-          }
-        }
+        "quoteId": "il-ne-peut-y-avoir-de-sartre"
       }
     },
     {
@@ -233,16 +224,7 @@
             "en": "Being and Nothingness, Introduction and Part 1 (the for-itself)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "L'homme existe d'abord, se rencontre, surgit dans le monde, et qu'il se définit après. L'homme, tel que le conçoit l'existentialiste, s'il n'est pas définissable, c'est qu'il n'est d'abord rien. Il ne sera qu'ensuite, et il sera tel qu'il se sera fait.",
-            "en": "Man first exists, encounters himself, surges up in the world, and defines himself afterward. If man as the existentialist conceives him is indefinable, it is because at first he is nothing. He will not be anything until later, and then he will be what he makes of himself."
-          },
-          "source": {
-            "fr": "L'existentialisme est un humanisme",
-            "en": "Existentialism Is a Humanism"
-          }
-        },
+        "quoteId": "l-homme-existe-d-abord-se-sartre",
         "strength": "STRONG"
       }
     },
@@ -270,16 +252,7 @@
             "en": "Existentialism Is a Humanism (man is condemned to be free)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "L'homme est condamné à être libre. Condamné, parce qu'il ne s'est pas créé lui-même, et par ailleurs cependant libre, parce qu'une fois jeté dans le monde, il est responsable de tout ce qu'il fait.",
-            "en": "Man is condemned to be free. Condemned, because he did not create himself, yet nonetheless free, because once thrown into the world, he is responsible for everything he does."
-          },
-          "source": {
-            "fr": "L'existentialisme est un humanisme",
-            "en": "Existentialism Is a Humanism"
-          }
-        },
+        "quoteId": "l-homme-est-condamne-a-etre-sartre",
         "strength": "STRONG"
       }
     },
@@ -307,16 +280,7 @@
             "en": "Being and Nothingness, conclusion (the idea of God, in-itself-for-itself, is contradictory)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "L'existentialisme n'est pas autre chose qu'un effort pour tirer toutes les conséquences d'une position athée cohérente.",
-            "en": "Existentialism is nothing else but an attempt to draw all the consequences of a coherent atheist position."
-          },
-          "source": {
-            "fr": "L'existentialisme est un humanisme",
-            "en": "Existentialism Is a Humanism"
-          }
-        },
+        "quoteId": "l-existentialisme-n-est-pas-autre-sartre",
         "strength": "STRONG"
       }
     },
@@ -408,16 +372,7 @@
             "en": "Being and Nothingness, Part 2 (the transcendent ego; cf. The Transcendence of the Ego)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "La conscience est un être pour lequel il est dans son être question de son être en tant que cet être implique un être autre que lui : elle n'est jamais ce qu'elle est et est ce qu'elle n'est pas.",
-            "en": "Consciousness is a being such that in its being its being is in question insofar as this being implies a being other than itself: it is never what it is and is what it is not."
-          },
-          "source": {
-            "fr": "L'Être et le Néant, Introduction",
-            "en": "Being and Nothingness, Introduction"
-          }
-        },
+        "quoteId": "la-conscience-est-un-etre-pour-sartre",
         "strength": "MEDIUM"
       }
     },
@@ -468,16 +423,7 @@
             "en": "Existentialism Is a Humanism (to choose is to choose for all)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Quand nous disons que l'homme se choisit, nous entendons que chacun d'entre nous se choisit, mais par là nous voulons dire aussi qu'en se choisissant il choisit tous les hommes.",
-            "en": "When we say that man chooses himself, we mean that each of us chooses himself, but by that we also mean that in choosing himself he chooses all men."
-          },
-          "source": {
-            "fr": "L'existentialisme est un humanisme",
-            "en": "Existentialism Is a Humanism"
-          }
-        },
+        "quoteId": "quand-nous-disons-que-l-homme-sartre",
         "strength": "STRONG"
       }
     },
@@ -556,16 +502,7 @@
             "en": "Existentialism Is a Humanism (man is the sum of his acts)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "L'homme n'est rien d'autre que la série de ses actes, il n'est rien d'autre que sa vie.",
-            "en": "Man is nothing other than the series of his acts, he is nothing other than his life."
-          },
-          "source": {
-            "fr": "L'existentialisme est un humanisme",
-            "en": "Existentialism Is a Humanism"
-          }
-        },
+        "quoteId": "l-homme-n-est-rien-d-sartre",
         "strength": "MEDIUM"
       }
     },
@@ -620,16 +557,7 @@
             "en": "Nausea (contingency, being superfluous)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "L'homme est une passion inutile.",
-            "en": "Man is a useless passion."
-          },
-          "source": {
-            "fr": "L'Être et le Néant, conclusion",
-            "en": "Being and Nothingness, conclusion"
-          }
-        },
+        "quoteId": "l-homme-est-une-passion-inutile-sartre",
         "strength": "MEDIUM"
       }
     },
@@ -707,16 +635,7 @@
             "en": "Critique of Dialectical Reason (1960), commitment and collective praxis"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Je ne puis prendre ma liberté pour but que si je prends également celle des autres pour but.",
-            "en": "I cannot take my freedom as an end unless I take that of others equally as an end."
-          },
-          "source": {
-            "fr": "L'existentialisme est un humanisme",
-            "en": "Existentialism Is a Humanism"
-          }
-        },
+        "quoteId": "je-ne-puis-prendre-ma-liberte-sartre",
         "strength": "MEDIUM"
       }
     },
@@ -813,16 +732,7 @@
             "en": "Existentialism Is a Humanism (anguish, abandonment, despair)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Quoi qu'il en soit des choses que je veux, il y aura toujours cette possibilité que les choses se produisent autrement que je ne veux : il faut agir sans espoir.",
-            "en": "Whatever the things I want, there will always be this possibility that things come about otherwise than I want: one must act without hope."
-          },
-          "source": {
-            "fr": "L'existentialisme est un humanisme",
-            "en": "Existentialism Is a Humanism"
-          }
-        },
+        "quoteId": "quoi-qu-il-en-soit-des-sartre",
         "strength": "MEDIUM"
       }
     },

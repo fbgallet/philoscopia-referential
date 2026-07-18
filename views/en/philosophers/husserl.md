@@ -54,7 +54,7 @@ Epistemic pluralism 80% · Scientism 20%
 
 Husserl does not contest the fruitfulness of the exact sciences, but their claim to state the real on their own. Since Galileo, nature has been treated as a pure mathematical fabric, and we forget that this garment of idealities covers over the [life-world](../glossary/lebenswelt.md) (Lebenswelt), the sensed, perceived, lived world that is the ground and source of meaning of every theory. The objectivism that takes the measure for the thing itself is an abstraction mistaking itself for the whole: science always presupposes a pre-scientific experience it cannot itself ground. Hence a derived, second place for science, which must be led back to its lived origin rather than set up as the sole measure of truth.
 
-> “The garment of ideas of the mathematical sciences makes us take for true being what is only a method.” (The Crisis of the European Sciences, §9)
+> “The garment of ideas of the mathematical sciences makes us take for true being what is only a method.”, The Crisis of the European Sciences, §9
 
 *Sources : The Crisis of the European Sciences, §9 and §33-34*
 

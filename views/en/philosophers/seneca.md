@@ -34,7 +34,7 @@ What is up to us 95% · Prometheanism 5%
 
 Misfortune comes not from things but from our grip on them: only what we wrongly count as ours can be torn away. From this Seneca draws the [dichotomy of control](../glossary/dichotomy-of-control.md): to count as one's own only one's judgements and desires, surrendering fortune to the chance that gives and reclaims it. Less a speculative thesis than a practical directive, it makes [the wise man](../glossary/the-sage.md) invulnerable by shrinking the surface he offers to blows: what he carries within, no fortune can reach.
 
-> “The wise man loses nothing through any loss, for he carries all his goods within himself.” (On the Constancy of the Wise Man, V)
+> “The wise man loses nothing through any loss, for he carries all his goods within himself.”, On the Constancy of the Wise Man, V
 
 *Sources : Letters to Lucilius, IX (the wise man is self-sufficient) · On the Constancy of the Wise Man, V-VI*
 
@@ -46,7 +46,7 @@ Virtue / moral perfectionism 65% · Eudaimonism 35%
 
 The sovereign good is virtue, the only thing truly good; happiness ([the happy life](../glossary/eudaimonism.md)) follows from it, never the reverse. External goods are [indifferents](../glossary/adiaphora.md): neither wealth, nor health, nor pleasure belongs to the good. Moral perfection thus clearly outweighs any flourishing received from fortune.
 
-> “The highest good is a mind that despises the gifts of chance and takes joy in virtue.” (On the Happy Life, IV)
+> “The highest good is a mind that despises the gifts of chance and takes joy in virtue.”, On the Happy Life, IV
 
 *Sources : On the Happy Life, IV-VII (virtue alone is good) · Letters to Lucilius, LXXVI (the only good is the honourable)*
 
@@ -58,7 +58,7 @@ Intellectualism 95% · Sentimentalism 5%
 
 If a passion such as anger is an [assent](../glossary/synkatathesis.md) of reason to the idea that one has been wronged and must take revenge, then it is no alien force besieging the soul but the soul itself going astray. Hence the consequence Seneca turns against the [Peripatetics](../philosophers/aristotle.md): a passion cannot be moderated, for once assent is given reason has already wholly given way; it must be forestalled at the threshold by refusing the first movement, aiming at [apatheia](../glossary/apatheia.md) (the absence of passions) rather than at a mean. This [intellectualism](../axes/emotions.md) makes the therapy of the affects a discipline of judgement.
 
-> “It is easier to banish dangerous passions than to govern them.” (On Anger, I, 7)
+> “It is easier to banish dangerous passions than to govern them.”, On Anger, I, 7
 
 *Sources : On Anger, I, 8 and II, 1-4 (anger as judgement and assent) · Letters to Lucilius, CXVI (should the passions be moderated or rooted out?)*
 
@@ -70,7 +70,7 @@ Extinction and detachment 70% · Reasoned selection 30%
 
 Happiness comes from limiting desire to necessary and natural goods. Seneca preaches detachment from fortune and superfluous goods, while granting a [reasoned selection](../glossary/adiaphora.md) of preferred indifferents, which may be welcomed without attachment.
 
-> “It is not the man who has little, but the one who craves more, that is poor.” (Letters to Lucilius, II)
+> “It is not the man who has little, but the one who craves more, that is poor.”, Letters to Lucilius, II
 
 *Sources : Letters to Lucilius, II (only the one who craves more is poor) · Letters to Lucilius, XVI and CX (natural and necessary desires)*
 
@@ -82,7 +82,7 @@ Amor fati 98% · Revolt 3%
 
 Since fate will come to pass regardless, the one thing in our power is to walk with it or be dragged behind it: the same course of things leads us, but our assent decides whether it is a yoke or freedom. Seneca thus pushes Stoicism past mere resignation: not to endure what happens but to will it, because [providence](../glossary/providence.md) has ordered it for the good of the whole. This [love of fate](../glossary/amor-fati.md) turns necessity into an object of desire, and the second grief, that of struggling against the inevitable, is the only one we can spare ourselves.
 
-> “Fate leads the willing and drags the unwilling.” (Letters to Lucilius, CVII)
+> “Fate leads the willing and drags the unwilling.”, Letters to Lucilius, CVII
 
 *Sources : Letters to Lucilius, CVII (ducunt volentem fata, quoting Cleanthes) · On the Happy Life, XV (to obey God is freedom)*
 
@@ -94,7 +94,7 @@ Death is nothing 85% · Being-toward-death 15%
 
 Since death is but the natural term of a loan repaid to nature, the evil lies not in it but in the fear of it, a fear that enslaves a whole life to its shadow. Seneca then turns that fear into an instrument of freedom: whoever rehearses dying each day, and holds the door of voluntary exit open, can no longer be coerced by anything or anyone. The meditation on death is thus not morbid but emancipatory, and it matters less for an afterlife, which he does not expect, than for restoring to the present its full worth.
 
-> “He who has learned how to die has unlearned how to be a slave.” (Letters to Lucilius, XXVI)
+> “He who has learned to die has unlearned slavery.”, Letters to Lucilius, XXVI
 
 *Sources : Letters to Lucilius, XXVI and LXX (rehearsing death) · Letters to Lucilius, IV (to rehearse death is to rehearse freedom)*
 
@@ -106,7 +106,7 @@ Presentism 85% · Project 10% · Memory and transmission 5%
 
 The common lament over the shortness of life rests, according to *[On the Shortness of Life](../works/on-the-shortness-of-life-seneca.md)*, on an accounting error: we have not been given little time, we waste a great deal of it. The argument shifts the problem from fate to use: the preoccupied, slaves to a thousand engagements, have never lived, for they keep deferring their life to later. Only the present is properly ours, the past being fixed and the future uncertain; to claim one's time as one defends a possession is to stop squandering it and to begin, at last, to live.
 
-> “It is not that we have a short time to live, but that we waste much of it.” (On the Shortness of Life, I)
+> “It is not that we have a short time to live, but that we waste much of it.”, On the Shortness of Life, I
 
 *Sources : On the Shortness of Life, I-III and XIV (we squander time) · Letters to Lucilius, I (claim your own time for yourself)*
 
@@ -118,7 +118,7 @@ Hard determinism 75% · Free will 25%
 
 Everything is governed by the chain of fate and the necessity of [providence](../glossary/providence.md). Freedom does not lie in escaping it but in consenting to it through reason, a Stoic [compatibilism](../glossary/compatibilism.md): cosmic necessity leaves the inner freedom of assent intact.
 
-> “The maker and ruler of all things himself wrote the decrees of fate, but he follows them: he ordained once, he obeys forever.” (On Providence, V)
+> “The maker and ruler of all things himself wrote the decrees of fate, but he follows them: he ordained once, he obeys forever.”, On Providence, V
 
 *Sources : On Providence, V (God himself is bound by the necessity he once laid down) · Natural Questions, II, 35-38 (fate and the order of causes)*
 
@@ -130,7 +130,7 @@ Theism 80% · Atheism 20%
 
 God is not a personal being separate from the world but the immanent reason that orders the whole, identifiable with fate, [providence](../glossary/providence.md) and nature. A Stoic pantheist theism, affirming a providential divinity while merging it with the order of the world.
 
-> “Would you call it fate? You will not be wrong. Would you call it providence? You will speak rightly. Would you call it nature? You will not sin.” (Natural Questions, II, 45)
+> “Would you call it fate? You will not be wrong. Would you call it providence? You will speak rightly. Would you call it nature? You will not sin.”, Natural Questions, II, 45
 
 *Sources : Natural Questions, II, 45 (the names of God: fate, providence, nature) · Letters to Lucilius, XLI (God is near you, within you)*
 
@@ -142,7 +142,7 @@ Immanence 90% · Transcendence 10%
 
 The divine is not a beyond but an inner presence. The divine reason ([logos](../glossary/logos.md)) pervades all of nature and the human soul is a fragment of it, a markedly immanent conception of the sacred.
 
-> “A sacred spirit dwells within us, the observer and guardian of our good and our evil.” (Letters to Lucilius, XLI)
+> “A sacred spirit dwells within us, the observer and guardian of our good and our evil.”, Letters to Lucilius, XLI
 
 *Sources : Letters to Lucilius, XLI (a sacred spirit dwells within us)*
 
@@ -164,7 +164,7 @@ Fecundity and redemption 93% · Abolitionism 8%
 
 To the problem of the suffering of the just (why does [providence](../glossary/providence.md) let misfortune strike good people?), Seneca answers by denying the premise: what looks like an evil is none, for virtue is proved and forged only under trial, like the soldier at drill or the pilot in the storm. Adversity then ceases to be something to endure and becomes something to desire: the god does not spare those he loves but tests them, and the good man must wrestle misfortune as an athlete wrestles a worthy opponent. Suffering is neither absurd nor redemptive in itself: it is the occasion without which greatness of soul would lie unused.
 
-> “Misfortune is virtue's opportunity.” (On Providence, IV)
+> “Misfortune is virtue's opportunity.”, On Providence, IV
 
 *Sources : On Providence, II-IV (adversity as the exercise of virtue)*
 
@@ -176,7 +176,7 @@ Lucidity without hope 80% · The principle of hope 20%
 
 Citing Hecato, Seneca ties hope to fear as two correlated affects turned toward the future. [The sage](../glossary/the-sage.md) lives in the present and in accepted necessity rather than in the anxious expectation of a better lot, leaning toward lucidity without hope, though without nihilism.
 
-> “Cease to hope and you will cease to fear... the two march in step: anxiety follows hope.” (Letters to Lucilius, V)
+> “Cease to hope and you will cease to fear... the two march in step: anxiety follows hope.”, Letters to Lucilius, V
 
 *Sources : Letters to Lucilius, V (cease to hope and you will cease to fear) · Letters to Lucilius, XIII (we suffer more in imagination than in reality)*
 
@@ -188,7 +188,7 @@ Cosmopolitanism 93% · Communitarianism and patriotism 7%
 
 Seneca distinguishes two commonwealths: the narrow one of our birth, and the great city common to gods and men, measured by the course of the sun. Every human is our fellow citizen by virtue of shared reason, nature having made us kin: a [cosmopolitanism](../axes/belonging.md) grounded in Stoic [appropriation](../glossary/oikeiosis.md).
 
-> “We are members of one great body... nature made us kin, begetting us from the same principles and for the same ends.” (Letters to Lucilius, XCV)
+> “We are members of one great body... nature made us kin, begetting us from the same principles and for the same ends.”, Letters to Lucilius, XCV
 
 *Sources : On the Tranquillity of the Mind, IV (the two commonwealths) · Letters to Lucilius, XCV, 52-53 (nature made us kin)*
 
@@ -240,7 +240,7 @@ Rehabilitation 55% · Deterrence 45%
 
 In On Clemency, addressed to Nero, and in *[On Anger](../works/on-anger-seneca.md)*, Seneca rejects vengeance: one punishes not because a wrong has been done but so that none be done again, looking to the future, not the past. Punishment aims at correcting the offender and deterring others, never at satisfying a retributive anger.
 
-> “No wise man punishes because a wrong has been done, but so that no wrong be done again.” (On Anger, I, 19 (citing Plato))
+> “No wise man punishes because a wrong has been done, but so that no wrong be done again.”, On Anger, I, 19 (citing Plato)
 
 *Sources : On Anger, I, 16 and 19 (punishing to correct, not to avenge) · On Clemency, I (the clemency of the prince)*
 
@@ -262,7 +262,7 @@ The examined life 85% · Primacy of action 15%
 
 Seneca practises and prescribes a daily examination of conscience: each evening, to summon one's soul before itself to judge the day's deeds. Philosophy is first a care of the self, a reflexive return upon the inner life, even if it does not exclude public action.
 
-> “Every day I plead my cause before myself... What fault of yours have you cured today?” (On Anger, III, 36)
+> “Every day I plead my cause before myself... What fault of yours have you cured today?”, On Anger, III, 36
 
 *Sources : On Anger, III, 36 (the evening examination of conscience) · Letters to Lucilius, XVI and XXVIII (philosophy as care of the soul)*
 

@@ -102,7 +102,7 @@ Empirisme 70% · Rationalisme 30%
 
 Le savoir confucéen se gagne par l'étude, l'observation et l'imitation des Anciens, non par des idées innées. Apprendre, c'est s'imprégner des textes, des rites et des exemples, une formation patiente par l'expérience et la tradition plutôt que par déduction rationnelle ; le maître se dit lui-même non point né savant, mais amoureux de l'antiquité et prompt à l'y chercher.
 
-> « Je ne suis pas de ceux qui sont nés avec le savoir ; j'aime les anciens et je m'empresse de les y chercher. » (Entretiens, VII.20)
+> « Je ne suis pas de ceux qui sont nés avec le savoir ; j'aime les anciens et je m'empresse de les y chercher. », Entretiens, VII.20
 
 *Sources : Entretiens (Lunyu), VII.1 et VII.20 · Entretiens, II.15*
 
@@ -124,7 +124,7 @@ La sagesse confucéenne tient dans une **humilité épistémique** mesurée : «
 
 Aucune loi ni aucun calcul ne peut tenir lieu d'un caractère droit : ce qui fait le bien, c'est la disposition acquise d'où l'acte juste jaillit naturellement, et non une règle extérieure qu'on applique. De là le primat de la culture de soi (xiushen) sur la prescription : la vie morale est l'acquisition graduelle des vertus, le ren 仁 (l'humanité) au premier chef, dont la figure achevée est le junzi (l'homme de bien). C'est pourquoi le confucianisme se défie des solutions par décret, qu'il s'agisse de l'amour universel décrété par les Mohistes ou de l'ordre imposé par la loi pénale des Légistes : seule la transformation du cœur produit un agent fiable.
 
-> « L'homme de bien recherche en lui-même, l'homme de peu recherche chez les autres. » (Confucius, Entretiens (Lunyu), XV, 21)
+> « L'homme de bien recherche en lui-même, l'homme de peu recherche chez les autres. », Entretiens (Lunyu), XV, 21
 
 *Sources : Confucius, Entretiens (Lunyu) · Mencius (Mengzi), II A 6*
 
@@ -146,7 +146,7 @@ Conservatisme 90% · Progressisme 10%
 
 L'ordre humain a déjà été réalisé une fois, par les sages-rois de l'antiquité (Yao, Shun, les Zhou) : il existe donc un modèle accompli à ressaisir, et non une voie à inventer de toutes pièces. Le présent est en désordre précisément parce qu'il a rompu avec lui, d'où la tâche : transmettre et raviver les rites (li 禮) reçus plutôt que les remplacer. Cette confiance dans le legs distingue le confucianisme à la fois du naturalisme [taoïste](../movements/taoism.md), qui voudrait défaire l'artifice des rites pour retrouver la spontanéité du [dao](../glossary/dao.md), et de l'innovation légiste, qui fonde l'ordre sur des lois nouvelles indifférentes au passé. Pour le confucéen, l'autorité morale ne se décrète pas : elle se reçoit d'une tradition éprouvée.
 
-> « Je transmets et je n'invente pas ; je crois aux Anciens et je les aime. » (Confucius, Entretiens (Lunyu), VII, 1)
+> « Je transmets et je n'invente pas ; je crois aux Anciens et je les aime. », Entretiens (Lunyu), VII, 1
 
 *Sources : Confucius, Entretiens (Lunyu), VII, 1 · Confucius, Entretiens (Lunyu), III, 14*
 
@@ -208,7 +208,7 @@ Autorité 85% · Anarchisme 15%
 
 Gouverner par la loi et le châtiment obtient au mieux des sujets qui évitent la peine sans rougir de la faute : la contrainte règle les actes mais laisse les cœurs intacts, et l'ordre ainsi tenu reste extérieur et fragile. Gouverner par la vertu et l'exemple, au contraire, donne le sens de la honte et un cœur réformé, donc une obéissance qui vient d'elle-même. C'est l'argument décisif du confucianisme contre les Légistes : l'autorité hiérarchique qu'il assume, du prince comme du père, n'est légitime que morale et bienveillante, jamais domination arbitraire, car son efficacité tient à sa capacité d'attirer plutôt que de forcer.
 
-> « Qui gouverne par la vertu est comparable à l'étoile polaire : elle demeure en place, et toutes les étoiles se tournent vers elle. » (Confucius, Entretiens (Lunyu), II, 1)
+> « Qui gouverne par la vertu est comparable à l'étoile polaire : elle demeure en place, et toutes les étoiles se tournent vers elle. », Entretiens (Lunyu), II, 1
 
 *Sources : Confucius, Entretiens (Lunyu), II, 1 · Confucius, Entretiens (Lunyu), II, 3*
 

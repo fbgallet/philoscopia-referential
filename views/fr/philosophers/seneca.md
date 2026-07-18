@@ -34,7 +34,7 @@ Ce qui dépend de nous 95% · Prométhéisme 5%
 
 Le malheur ne vient pas des choses mais de notre prise sur elles : seul peut nous être arraché ce que nous tenons à tort pour nôtre. De là Sénèque tire la [dichotomie du contrôle](../glossary/dichotomy-of-control.md) : ne compter pour siens que ses jugements et ses désirs, abandonner la fortune au hasard qui la donne et la reprend. C'est moins une thèse spéculative qu'une consigne pratique, qui rend [le sage](../glossary/the-sage.md) invulnérable en réduisant la surface qu'il offre aux coups : ce qu'il porte en lui, nulle fortune ne le touche.
 
-> « Toutes les pertes du sage sont sans dommage, car il porte tout son bien en lui-même. » (De la constance du sage, V)
+> « Toutes les pertes du sage sont sans dommage, car il porte tout son bien en lui-même. », De la constance du sage, V
 
 *Sources : Lettres à Lucilius, IX (le sage se suffit à lui-même) · De la constance du sage, V-VI*
 
@@ -46,7 +46,7 @@ Vertu / perfectionnisme moral 65% · Eudémonisme 35%
 
 Le souverain bien est la vertu, seule véritablement bonne ; le bonheur ([vie heureuse](../glossary/eudaimonism.md)) en découle, jamais l'inverse. Les biens extérieurs sont des [indifférents](../glossary/adiaphora.md) : ni la richesse, ni la santé, ni le plaisir n'entrent dans le bien. Le perfectionnement moral prime donc nettement sur tout épanouissement reçu de la fortune.
 
-> « Le souverain bien est une âme qui méprise les choses du hasard et se réjouit de la vertu. » (De la vie heureuse, IV)
+> « Le souverain bien est une âme qui méprise les choses du hasard et se réjouit de la vertu. », De la vie heureuse, IV
 
 *Sources : De la vie heureuse, IV-VII (la vertu seule est bonne) · Lettres à Lucilius, LXXVI (le seul bien est l'honnête)*
 
@@ -58,7 +58,7 @@ Intellectualisme 95% · Sentimentalisme 5%
 
 Si une passion comme la colère est un [assentiment](../glossary/synkatathesis.md) de la raison à l'idée qu'on a subi un tort et qu'il faut se venger, alors elle n'est pas une force étrangère qui assiège l'âme, mais l'âme elle-même qui se trompe. D'où la conséquence que Sénèque oppose aux [péripatéticiens](../philosophers/aristotle.md) : une passion ne se modère pas, car une fois l'assentiment donné la raison a déjà cédé tout entière ; il faut la prévenir au seuil, en refusant le premier mouvement, pour viser l'[apatheia](../glossary/apatheia.md) (absence de passions) plutôt qu'un juste milieu. Cet [intellectualisme](../axes/emotions.md) fait de la thérapie des affects une discipline du jugement.
 
-> « Il est plus aisé d'écarter les passions dangereuses que de les régler. » (De la colère, I, 7)
+> « Il est plus aisé d'écarter les passions dangereuses que de les régler. », De la colère, I, 7
 
 *Sources : De la colère, I, 8 et II, 1-4 (la colère, jugement et assentiment) · Lettres à Lucilius, CXVI (faut-il modérer les passions ou les retrancher ?)*
 
@@ -70,7 +70,7 @@ Extinction-détachement 70% · Tri raisonné 30%
 
 Le bonheur vient de la limitation des désirs aux biens nécessaires et naturels. Sénèque prône le détachement à l'égard de la fortune et des biens superflus, tout en accordant une [sélection raisonnée](../glossary/adiaphora.md) des préférables, qu'on peut accueillir sans s'y attacher.
 
-> « Ce n'est pas l'homme qui a peu qui est pauvre, mais celui qui désire davantage. » (Lettres à Lucilius, II)
+> « Ce n'est pas l'homme qui a peu qui est pauvre, mais celui qui désire davantage. », Lettres à Lucilius, II
 
 *Sources : Lettres à Lucilius, II (n'est pauvre que qui désire davantage) · Lettres à Lucilius, XVI et CX (les désirs naturels et nécessaires)*
 
@@ -82,7 +82,7 @@ Amor fati 98% · Révolte 3%
 
 Puisque le destin adviendra de toute façon, la seule chose qui dépende de nous est de l'accompagner ou de nous y traîner : le même cours des choses nous mène, mais notre assentiment décide s'il est joug ou liberté. Sénèque pousse donc le stoïcisme au-delà de la simple résignation : non subir ce qui arrive, mais le vouloir, parce que la [providence](../glossary/providence.md) l'a réglé pour le bien du tout. Cet [amour du destin](../glossary/amor-fati.md) transforme la nécessité en objet de désir, et la seconde tristesse, celle de regimber contre l'inévitable, est la seule qu'on puisse s'épargner.
 
-> « Les destins conduisent celui qui consent et traînent celui qui résiste. » (Lettres à Lucilius, CVII)
+> « Les destins conduisent celui qui consent et traînent celui qui résiste. », Lettres à Lucilius, CVII
 
 *Sources : Lettres à Lucilius, CVII (ducunt volentem fata, citant Cléanthe) · De la vie heureuse, XV (obéir à Dieu, c'est la liberté)*
 
@@ -94,7 +94,7 @@ La mort n'est rien 85% · Être-pour-la-mort 15%
 
 La mort n'étant que le terme naturel d'un emprunt rendu à la nature, le mal n'est pas en elle mais dans la crainte qu'on en a, crainte qui asservit toute la vie à son ombre. Sénèque renverse alors la peur en instrument de liberté : qui s'exerce chaque jour à mourir, et tient pour ouverte la porte de la sortie volontaire, ne peut plus être contraint par rien ni par personne. La méditation de la mort n'est donc pas morbide mais émancipatrice, et elle vaut moins pour l'au-delà, qu'il n'attend pas, que pour rendre au présent tout son prix.
 
-> « Celui qui a appris à mourir a désappris à servir. » (Lettres à Lucilius, XXVI)
+> « Celui qui a appris à mourir a désappris à servir. », Lettres à Lucilius, XXVI
 
 *Sources : Lettres à Lucilius, XXVI et LXX (s'exercer à la mort) · Lettres à Lucilius, IV (méditer la mort, c'est méditer la liberté)*
 
@@ -106,7 +106,7 @@ Présentisme 85% · Projet 10% · Mémoire-transmission 5%
 
 La plainte courante sur la brièveté de la vie repose, selon le *[De la brièveté de la vie](../works/on-the-shortness-of-life-seneca.md)*, sur une erreur de comptable : nous n'avons pas reçu peu de temps, nous en perdons beaucoup. L'argument déplace le problème du destin vers l'usage : les affairés, esclaves de mille occupations, n'ont jamais vécu, car ils renvoient sans cesse leur vie à plus tard. Seul le présent nous appartient en propre, le passé étant fixé et l'avenir incertain ; revendiquer son temps comme on défend un bien, c'est cesser de le brader et commencer enfin à vivre.
 
-> « Ce n'est pas que nous ayons peu de temps, c'est que nous en perdons beaucoup. » (De la brièveté de la vie, I)
+> « Ce n'est pas que nous ayons peu de temps, c'est que nous en perdons beaucoup. », De la brièveté de la vie, I
 
 *Sources : De la brièveté de la vie, I-III et XIV (nous gaspillons le temps) · Lettres à Lucilius, I (revendique pour toi ton propre temps)*
 
@@ -118,7 +118,7 @@ Déterminisme dur 75% · Libre arbitre 25%
 
 Tout est régi par l'enchaînement du destin et la nécessité de la [providence](../glossary/providence.md). La liberté n'est pas de s'y soustraire mais d'y consentir par la raison, ce qui relève d'un [compatibilisme](../glossary/compatibilism.md) stoïcien : la nécessité cosmique laisse intacte la liberté intérieure de l'assentiment.
 
-> « Le créateur et maître de toutes choses a lui-même écrit les destins, mais il les suit : il a commandé une fois, il obéit toujours. » (De la providence, V)
+> « Le créateur et maître de toutes choses a lui-même écrit les destins, mais il les suit : il a commandé une fois, il obéit toujours. », De la providence, V
 
 *Sources : De la providence, V (Dieu lui-même est lié par la nécessité qu'il a une fois posée) · Questions naturelles, II, 35-38 (le destin et l'ordre des causes)*
 
@@ -130,7 +130,7 @@ Théisme 80% · Athéisme 20%
 
 Dieu n'est pas un être personnel séparé du monde mais la raison immanente qui ordonne le tout, identifiable au destin, à la [providence](../glossary/providence.md) et à la nature. C'est un théisme panthéiste stoïcien, qui affirme une divinité providentielle tout en la confondant avec l'ordre du monde.
 
-> « Veux-tu l'appeler destin ? tu ne te tromperas pas. Veux-tu l'appeler providence ? tu parleras juste. Veux-tu l'appeler nature ? tu ne pécheras pas. » (Questions naturelles, II, 45)
+> « Veux-tu l'appeler destin ? tu ne te tromperas pas. Veux-tu l'appeler providence ? tu parleras juste. Veux-tu l'appeler nature ? tu ne pécheras pas. », Questions naturelles, II, 45
 
 *Sources : Questions naturelles, II, 45 (les noms de Dieu : destin, providence, nature) · Lettres à Lucilius, XLI (Dieu est près de toi, en toi)*
 
@@ -142,7 +142,7 @@ Immanence 90% · Transcendance 10%
 
 Le divin n'est pas un au-delà mais une présence intérieure. La raison divine ([logos](../glossary/logos.md)) pénètre toute la nature et l'âme humaine en est une parcelle, conception nettement immanente du sacré.
 
-> « Un esprit sacré réside en nous, observateur et gardien de nos biens et de nos maux. » (Lettres à Lucilius, XLI)
+> « Un esprit sacré réside en nous, observateur et gardien de nos biens et de nos maux. », Lettres à Lucilius, XLI
 
 *Sources : Lettres à Lucilius, XLI (un esprit sacré réside en nous)*
 
@@ -164,7 +164,7 @@ Fécondité-rédemption 93% · Abolitionnisme 8%
 
 Au problème du juste qui souffre (pourquoi la [providence](../glossary/providence.md) laisse-t-elle le malheur frapper les gens de bien ?), Sénèque répond en niant la prémisse : ce qui paraît un mal n'en est pas un, car la vertu ne se prouve et ne se forge que sous l'épreuve, comme le soldat à l'exercice ou le pilote dans la tempête. L'adversité cesse alors d'être à supporter pour devenir à désirer : le dieu n'épargne pas ceux qu'il aime, il les éprouve, et l'homme de bien doit lutter contre l'infortune comme l'athlète contre un adversaire à sa mesure. La souffrance n'est ni absurde ni rédemptrice en soi : elle est l'occasion sans laquelle la grandeur d'âme resterait inemployée.
 
-> « Le malheur est l'occasion de la vertu. » (De la providence, IV)
+> « Le malheur est l'occasion de la vertu. », De la providence, IV
 
 *Sources : De la providence, II-IV (l'adversité, exercice de la vertu)*
 
@@ -176,7 +176,7 @@ Lucidité sans espoir 80% · Principe espérance 20%
 
 Sénèque, citant Hécaton, lie l'espoir à la crainte comme deux affects corrélés tournés vers l'avenir. [Le sage](../glossary/the-sage.md) vit dans le présent et la nécessité acceptée plutôt que dans l'attente anxieuse d'un sort meilleur, ce qui le porte vers la lucidité sans espérance, sans nihilisme.
 
-> « Cesse d'espérer et tu cesseras de craindre... ces deux affects marchent du même pas : l'inquiétude suit l'espérance. » (Lettres à Lucilius, V)
+> « Cesse d'espérer et tu cesseras de craindre... ces deux affects marchent du même pas : l'inquiétude suit l'espérance. », Lettres à Lucilius, V
 
 *Sources : Lettres à Lucilius, V (cesse d'espérer et tu cesseras de craindre) · Lettres à Lucilius, XIII (nous souffrons plus par l'imagination que par la réalité)*
 
@@ -188,7 +188,7 @@ Cosmopolitisme 93% · Communautarisme-patriotisme 7%
 
 Sénèque distingue deux cités : celle, restreinte, de notre naissance, et la grande cité commune aux hommes et aux dieux, mesurée par le cours du soleil. Tout homme est notre concitoyen au titre de la raison partagée, la nature nous ayant faits parents : un [cosmopolitisme](../axes/belonging.md) fondé sur l'[appropriation](../glossary/oikeiosis.md) stoïcienne.
 
-> « Nous sommes membres d'un grand corps... la nature nous a faits parents, nous engendrant des mêmes principes et pour les mêmes fins. » (Lettres à Lucilius, XCV)
+> « Nous sommes membres d'un grand corps... la nature nous a faits parents, nous engendrant des mêmes principes et pour les mêmes fins. », Lettres à Lucilius, XCV
 
 *Sources : De la tranquillité de l'âme, IV (les deux républiques) · Lettres à Lucilius, XCV, 52-53 (la nature nous a faits parents)*
 
@@ -240,7 +240,7 @@ Réhabilitation 55% · Dissuasion 45%
 
 Dans le De clementia adressé à Néron, et dans le *[De la colère](../works/on-anger-seneca.md)*, Sénèque refuse la vengeance : on punit non parce qu'on a péché mais pour qu'on ne pèche plus, en regardant l'avenir, non le passé. Le châtiment vise la correction du coupable et la dissuasion d'autrui, jamais la satisfaction d'une colère rétributive.
 
-> « Nul homme sensé ne punit parce qu'on a péché, mais afin qu'on ne pèche plus. » (De la colère, I, 19 (citant Platon))
+> « Nul homme sensé ne punit parce qu'on a péché, mais afin qu'on ne pèche plus. », De la colère, I, 19 (citant Platon)
 
 *Sources : De la colère, I, 16 et 19 (punir pour corriger, non pour se venger) · De la clémence, I (la clémence du prince)*
 
@@ -262,7 +262,7 @@ Vie examinée 85% · Primat de l'action 15%
 
 Sénèque pratique et prescrit l'examen de conscience quotidien : chaque soir, faire comparaître son âme devant elle-même pour juger ses actes du jour. La philosophie est d'abord un soin de soi, un retour réflexif sur la vie intérieure, même s'il n'exclut pas l'action publique.
 
-> « Chaque jour je plaide ma cause devant moi-même... Quel défaut as-tu guéri aujourd'hui ? » (De la colère, III, 36)
+> « Chaque jour je plaide ma cause devant moi-même... Quel défaut as-tu guéri aujourd'hui ? », De la colère, III, 36
 
 *Sources : De la colère, III, 36 (l'examen de conscience du soir) · Lettres à Lucilius, XVI et XXVIII (la philosophie comme soin de l'âme)*
 

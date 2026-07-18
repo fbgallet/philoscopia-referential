@@ -1,0 +1,25 @@
+{
+  "id": "schopenhauer-vs-hegel",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "schopenhauer"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "hegel"
+  },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Le mépris de <ph id='schopenhauer'>Schopenhauer</ph> pour <ph id='hegel'>Hegel</ph> fut viscéral et public : à Berlin, il programma ses cours à la même heure que lui, et parla devant une salle vide. Contre l'optimisme d'un sens de l'histoire et la toute-puissance du concept, il oppose une métaphysique de la <c id='vouloir-vivre'>Volonté</c> aveugle, le primat de l'intuition sur le discours, et une histoire sans progrès ni raison.",
+    "en": "<ph id='schopenhauer'>Schopenhauer</ph>'s contempt for <ph id='hegel'>Hegel</ph> was visceral and public: in Berlin he scheduled his lectures at the same hour as Hegel's, and spoke to an empty room. Against the optimism of a meaning of history and the omnipotence of the concept, he sets a metaphysics of the blind <c id='vouloir-vivre'>Will</c>, the primacy of intuition over discourse, and a history without progress or reason."
+  },
+  "sources": [
+    {
+      "fr": "Schopenhauer, Parerga et Paralipomena (1851) ; préface du Monde comme volonté et comme représentation",
+      "en": "Schopenhauer, Parerga and Paralipomena (1851); preface to The World as Will and Representation"
+    }
+  ],
+  "updatedAt": "2026-07-13T00:00:00.000Z"
+}

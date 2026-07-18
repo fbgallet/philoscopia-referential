@@ -32,6 +32,12 @@ Meaning lies in what the speaker seeks to get recognised: to communicate is to g
 
 *Grice*
 
+## Quotations
+
+> “Consider what effects, that might conceivably have practical bearings, we conceive the object of our conception to have. Then, our conception of these effects is the whole of our conception of the object.” — [Charles Sanders Peirce](../philosophers/peirce.md), How to Make Our Ideas Clear (1878)
+
+> “The trap is for catching fish: once the fish is caught, the trap is forgotten. Words are for grasping the idea: once the idea is grasped, the words are forgotten.” — [Zhuangzi](../philosophers/zhuangzi.md), ch. 26
+
 ## Related axes
 
 [Nature of truth](../axes/truth-nature.md) · [Status of knowledge](../axes/knowledge-status.md) · [The point of philosophy](../axes/metaphilosophy.md)

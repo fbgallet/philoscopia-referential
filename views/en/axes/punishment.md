@@ -59,6 +59,12 @@ Punishment should first of all repair the harm and restore what the crime has br
 
 - With [Freedom of the will](../axes/freedom.md) : If our acts are fully determined, no one is truly their free author; yet punishing to “give what is deserved” presupposes exactly that responsibility. Holding both creates a tension: retributivism demands a desert that strict determinism removes.
 
+## Quotations
+
+> “No wise man punishes because a wrong has been done, but so that no wrong be done again.” — [Seneca](../philosophers/seneca.md), On Anger, I, 19 (citing Plato)
+
+> “All punishment in itself is evil. Upon the principle of utility, if it ought at all to be admitted, it ought only to be admitted in as far as it promises to exclude some greater evil.” — [Bentham](../philosophers/bentham.md), An Introduction to the Principles of Morals and Legislation, ch. XIII, §2
+
 ## Related axes
 
 [Criterion of right action](../axes/ethics-foundation.md) · [Forgiveness](../axes/forgiveness.md) · [Freedom of the will](../axes/freedom.md) · [The origin of the social bond](../axes/social-contract.md) · [Violence](../axes/violence.md)

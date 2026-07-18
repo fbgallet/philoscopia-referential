@@ -24,7 +24,7 @@ Ce qui dépend de nous 93% · Prométhéisme 8%
 
 Contre le volontarisme qui veut plier le cours des choses à un dessein, Laozi observe que l'intervention forcée se retourne contre elle-même : plus on saisit, plus on perd, plus on légifère, plus naissent les voleurs. Le [wu-wei](../glossary/wu-wei.md) n'est pas la passivité mais l'art d'épouser le [cours spontané](../glossary/ziran.md) des choses, comme l'eau qui contourne l'obstacle sans le combattre : agir sans forcer, et tout s'accomplit. C'est l'envers exact du prométhéisme qui mesure l'homme à sa prise sur le monde.
 
-> « Le Dao est constamment non-agissant, et pourtant rien n'est laissé inaccompli. » (Dao De Jing, ch. 37)
+> « Le Dao est constamment non-agissant, et pourtant rien n'est laissé inaccompli. », Dao De Jing, ch. 37
 
 *Sources : Dao De Jing, ch. 37 et 48 · Dao De Jing, ch. 57 et 64*
 
@@ -36,7 +36,7 @@ Techno-critique 90% · Techno-optimisme 10%
 
 Le perfectionnement des moyens n'est pas pour Laozi un progrès mais une source d'agitation et de ruse qui éloigne du [Dao](../glossary/dao.md). Sa cité idéale possède des machines et des armes mais on ne s'en sert pas : la multiplication des outils habiles fait croître l'artifice et le désir, là où la [simplicité](../glossary/ziran.md) ramène à l'essentiel. Cette méfiance envers l'ingéniosité instrumentale, posée bien avant [Heidegger](../philosophers/heidegger.md) et Ellul, fait de lui un ancêtre lointain de la techno-critique.
 
-> « Plus il y a d'outils habiles, plus l'État sombre dans le désordre. » (Dao De Jing, ch. 57)
+> « Plus il y a d'outils habiles, plus l'État sombre dans le désordre. », Dao De Jing, ch. 57
 
 *Sources : Dao De Jing, ch. 80 · Dao De Jing, ch. 57*
 
@@ -68,7 +68,7 @@ Membre parmi d'autres 75% · Gardiennage 25%
 
 « L'homme prend modèle sur la terre, la terre sur le ciel, le ciel sur le Dao, et le Dao sur ce qui est ainsi de soi-même » : loin de dominer la nature, l'homme s'insère dans un emboîtement où il prend rang après elle. Il n'est ni maître ni gardien chargé d'une mission, mais un être parmi d'autres appelé à suivre le [cours spontané](../glossary/ziran.md) du vivant. Cette inscription humble dans l'ordre naturel le rapproche de l'écologie profonde de Næss.
 
-> « L'homme prend modèle sur la terre, la terre sur le ciel, le ciel sur le Dao, et le Dao sur lui-même. » (Dao De Jing, ch. 25)
+> « L'homme prend modèle sur la terre, la terre sur le ciel, le ciel sur le Dao, et le Dao sur lui-même. », Dao De Jing, ch. 25
 
 *Sources : Dao De Jing, ch. 25 · Dao De Jing, ch. 51 et 64*
 
@@ -80,7 +80,7 @@ Anarchisme 78% · Autorité 22%
 
 Le bon prince gouverne par [non-intervention](../glossary/wu-wei.md) : le meilleur souverain est celui dont le peuple sait à peine l'existence, et quand l'ouvrage est accompli, chacun dit « cela s'est fait de soi-même ». Moins l'État légifère, taxe et s'agite, mieux le peuple se porte. Ce n'est pas tout à fait l'anarchisme, puisqu'un sage-roi demeure et qu'un ordre subsiste, mais un gouvernement minimal qui se fait oublier, à l'opposé du légisme contemporain.
 
-> « Gouverner un grand royaume, c'est comme faire frire un petit poisson. » (Dao De Jing, ch. 60)
+> « Gouverner un grand royaume, c'est comme faire frire un petit poisson. », Dao De Jing, ch. 60
 
 *Sources : Dao De Jing, ch. 17 et 60 · Dao De Jing, ch. 57 et 75*
 
@@ -102,7 +102,7 @@ Laozi se défie des codes et des devoirs proclamés : « quand le grand Dao est 
 
 La multiplication des règles est pour Laozi un symptôme de décadence, non un remède. La rectitude ne se laisse pas codifier, elle vient d'un accord souple et vivant avec la situation, ce qui place Laozi du côté de l'esprit contre la lettre, par méfiance même de toute lettre.
 
-> « Plus il y a de lois et d'édits, plus se multiplient les voleurs et les brigands. » (Dao De Jing, ch. 57)
+> « Plus il y a de lois et d'édits, plus se multiplient les voleurs et les brigands. », Dao De Jing, ch. 57
 
 *Sources : Dao De Jing, ch. 57 et 38*
 
@@ -134,7 +134,7 @@ Scepticisme 70% · Dogmatisme 30%
 
 « Le Dao qu'on peut nommer n'est pas le Dao constant » : le réel ultime échappe au langage et aux concepts, qui découpent et figent ce qui est fluide. Laozi raille le savoir affairé et exalte un « savoir ne pas savoir », mais ce n'est pas le [scepticisme](../glossary/skepticism.md) de la suspension : c'est une connaissance plus haute, intuitive et silencieuse, accordée au Dao. Le doute porte sur le savoir discursif, non sur l'accès au vrai, d'où une position médiane penchant vers la défiance.
 
-> « Le Dao qu'on peut nommer n'est pas le Dao constant. » (Dao De Jing, ch. 1)
+> « Le Dao qu'on peut nommer n'est pas le Dao constant. », Dao De Jing, ch. 1
 
 *Sources : Dao De Jing, ch. 1 et 56 · Dao De Jing, ch. 48 et 71*
 

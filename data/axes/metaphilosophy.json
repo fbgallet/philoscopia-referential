@@ -128,5 +128,220 @@
     "SOVEREIGN_GOOD",
     "MEANING",
     "HISTORY_MEANING"
+  ],
+  "problems": [
+    {
+      "id": "useless-or-free",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "l'activité philosophique",
+        "en": "the activity of philosophizing"
+      },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "sphere": "EXISTENTIAL",
+      "keywords": [
+        { "fr": "savoir désintéressé", "en": "disinterested knowledge" },
+        { "fr": "Thalès et le puits", "en": "Thales and the well" },
+        { "fr": "éloge de l'inutile", "en": "in praise of the useless" }
+      ],
+      "poles": ["CONTEMPLATION", "WORLD_TRANSFORMATION", "SELF_TRANSFORMATION", "CLARIFICATION"],
+      "anchors": [
+        { "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" },
+        { "name": { "fr": "Calliclès", "en": "Callicles" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "Hadot", "en": "Hadot" }, "kind": "PHILOSOPHER", "slug": "hadot" }
+      ],
+      "title": {
+        "fr": "À quoi bon ?",
+        "en": "What is the point?"
+      },
+      "explicitation": {
+        "fr": "L'inutilité de la philosophie est-elle sa dignité même, le seul savoir libre qu'on ne poursuit pour rien d'autre, ou un vrai défaut au regard des sciences et de l'action, comme Thalès qui tombe dans un puits en observant les astres, sous le rire de la servante thrace ?",
+        "en": "Is philosophy's uselessness its very dignity, the one free knowledge pursued for nothing beyond itself, or a real defect next to the sciences and to action, like Thales falling into a well while watching the stars, to the laughter of the Thracian servant girl?"
+      }
+    },
+    {
+      "id": "interpret-or-change",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "la pensée et le monde",
+        "en": "thought and the world"
+      },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "sphere": "POLITICAL",
+      "keywords": [
+        { "fr": "onzième thèse sur Feuerbach", "en": "eleventh thesis on Feuerbach" },
+        { "fr": "chouette de Minerve", "en": "owl of Minerva" },
+        { "fr": "engagement", "en": "commitment" }
+      ],
+      "poles": ["CONTEMPLATION", "WORLD_TRANSFORMATION"],
+      "anchors": [
+        { "name": { "fr": "Marx", "en": "Marx" }, "kind": "PHILOSOPHER", "slug": "marx" },
+        { "name": { "fr": "Sartre", "en": "Sartre" }, "kind": "PHILOSOPHER", "slug": "sartre" },
+        { "name": { "fr": "Hegel", "en": "Hegel" }, "kind": "PHILOSOPHER", "slug": "hegel" }
+      ],
+      "doorways": [{ "axis": "HISTORY_MEANING" }],
+      "title": {
+        "fr": "Comprendre ou transformer",
+        "en": "Understanding or transforming"
+      },
+      "explicitation": {
+        "fr": "La philosophie peut-elle se contenter de comprendre, ou toute contemplation est-elle déjà complice, arrivant trop tard comme la chouette de Minerve, quand toute pensée prend en fait parti pour ou contre un ordre ?",
+        "en": "Can philosophy content itself with understanding, or is all contemplation already complicit, arriving too late like the owl of Minerva, when every thought in fact takes sides for or against an order?"
+      }
+    },
+    {
+      "id": "discourse-or-way-of-life",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "la philosophie elle-même",
+        "en": "philosophy itself"
+      },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "sphere": "EXISTENTIAL",
+      "keywords": [
+        { "fr": "exercices spirituels", "en": "spiritual exercises" },
+        { "fr": "philosophie comme art de vivre", "en": "philosophy as an art of living" }
+      ],
+      "poles": ["SELF_TRANSFORMATION", "CONTEMPLATION", "CLARIFICATION"],
+      "anchors": [
+        { "name": { "fr": "Hadot", "en": "Hadot" }, "kind": "PHILOSOPHER", "slug": "hadot" },
+        { "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" },
+        { "name": { "fr": "les stoïciens", "en": "the Stoics" }, "kind": "MOVEMENT", "slug": "stoicism" }
+      ],
+      "doorways": [{ "axis": "SOVEREIGN_GOOD" }],
+      "title": {
+        "fr": "Discours ou manière de vivre",
+        "en": "Discourse or a way of life"
+      },
+      "explicitation": {
+        "fr": "La philosophie est-elle un corps de doctrines, ou d'abord une manière de vivre faite d'exercices qui transforment celui qui les pratique, et qu'on aurait réduite à de la théorie ?",
+        "en": "Is philosophy a body of doctrines, or first of all a way of life made of exercises that transform the one who practices them, since reduced to mere theory?"
+      }
+    },
+    {
+      "id": "real-problems-or-confusions",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "les problèmes philosophiques",
+        "en": "philosophical problems"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "faux problèmes", "en": "pseudo-problems" },
+        { "fr": "nœuds de langage", "en": "knots of language" },
+        { "fr": "dissoudre plutôt que résoudre", "en": "dissolve rather than solve" }
+      ],
+      "poles": ["CLARIFICATION"],
+      "anchors": [
+        { "name": { "fr": "Wittgenstein", "en": "Wittgenstein" }, "kind": "PHILOSOPHER", "slug": "wittgenstein" },
+        { "name": { "fr": "Carnap", "en": "Carnap" }, "kind": "PHILOSOPHER" }
+      ],
+      "doorways": [{ "axis": "MEANING" }],
+      "title": {
+        "fr": "Vrais problèmes ou confusions",
+        "en": "Real problems or confusions"
+      },
+      "explicitation": {
+        "fr": "Les grands problèmes philosophiques sont-ils de vraies questions, ou des nœuds de langage à dissoudre plutôt qu'à résoudre, au risque de jeter avec l'eau du bain les questions qui comptent ?",
+        "en": "Are the great philosophical problems real questions, or knots of language to be dissolved rather than solved, at the risk of throwing out the questions that matter?"
+      }
+    },
+    {
+      "id": "does-philosophy-progress",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "la discipline elle-même",
+        "en": "the discipline itself"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "champ de bataille de la métaphysique", "en": "battlefield of metaphysics" },
+        { "fr": "questions perennes", "en": "perennial questions" },
+        { "fr": "absence de résultats", "en": "absence of results" }
+      ],
+      "poles": ["CONTEMPLATION", "WORLD_TRANSFORMATION", "SELF_TRANSFORMATION", "CLARIFICATION"],
+      "anchors": [
+        { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" },
+        { "name": { "fr": "Wittgenstein", "en": "Wittgenstein" }, "kind": "PHILOSOPHER", "slug": "wittgenstein" },
+        { "name": { "fr": "Jaspers", "en": "Jaspers" }, "kind": "PHILOSOPHER" }
+      ],
+      "title": {
+        "fr": "La philosophie avance-t-elle ?",
+        "en": "Does philosophy make progress?"
+      },
+      "explicitation": {
+        "fr": "Après des siècles, la philosophie n'a pas de résultats acquis comme les sciences et les mêmes questions reviennent : échec à dissoudre de faux problèmes, ou marque de questions qu'on n'est pas censé résoudre une fois pour toutes ?",
+        "en": "After centuries, philosophy has no settled results like the sciences and the same questions keep returning: a failure to dissolve pseudo-problems, or the mark of questions not meant to be settled once and for all?"
+      }
+    },
+    {
+      "id": "philosophy-and-science",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "philosophie et sciences",
+        "en": "philosophy and the sciences"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "loi des trois états", "en": "law of three stages" },
+        { "fr": "épistémologie naturalisée", "en": "naturalized epistemology" }
+      ],
+      "poles": ["CONTEMPLATION"],
+      "anchors": [
+        { "name": { "fr": "Comte", "en": "Comte" }, "kind": "PHILOSOPHER", "slug": "comte" },
+        { "name": { "fr": "Quine", "en": "Quine" }, "kind": "PHILOSOPHER" }
+      ],
+      "doorways": [{ "axis": "SCIENCE_PLACE" }],
+      "title": {
+        "fr": "La philosophie et les sciences",
+        "en": "Philosophy and the sciences"
+      },
+      "explicitation": {
+        "fr": "La philosophie est-elle une proto-science que les sciences détrônent à mesure qu'elles mûrissent, ou pose-t-elle des questions, sur les valeurs, le sens, ses propres présupposés, qu'aucune science ne peut trancher ?",
+        "en": "Is philosophy a proto-science that the sciences dethrone as they mature, or does it ask questions, about values, meaning, its own presuppositions, that no science can settle?"
+      }
+    },
+    {
+      "id": "philosophy-for-whom",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "le philosophe, chacun",
+        "en": "the philosopher, everyone"
+      },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "sphere": "EXISTENTIAL",
+      "keywords": [
+        { "fr": "vie examinée", "en": "the examined life" },
+        { "fr": "ose savoir", "en": "dare to know" },
+        { "fr": "ésotérisme", "en": "esotericism" }
+      ],
+      "anchors": [
+        { "name": { "fr": "Socrate", "en": "Socrates" }, "kind": "PHILOSOPHER", "slug": "socrates" },
+        { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" },
+        { "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" }
+      ],
+      "title": {
+        "fr": "Pour tous ou pour quelques-uns",
+        "en": "For everyone or for the few"
+      },
+      "explicitation": {
+        "fr": "La philosophie est-elle l'examen que chacun doit à sa vie, sur l'agora avec Socrate et sous le mot d'ordre « ose savoir », ou reste-t-elle, par sa difficulté et le loisir qu'elle demande, l'affaire de quelques-uns ?",
+        "en": "Is philosophy the examination each person owes their life, in the agora with Socrates and under the motto \"dare to know,\" or does it remain, through its difficulty and the leisure it demands, the affair of a few?"
+      }
+    }
   ]
 }

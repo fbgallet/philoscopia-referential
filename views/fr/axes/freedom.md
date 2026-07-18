@@ -73,6 +73,28 @@ Le compatibilisme renonce au libre arbitre au sens fort, ce pouvoir de choisir a
 
 - Avec [Sens de la peine](../axes/punishment.md) : Si nos actes sont entièrement déterminés, nul n'en est vraiment l'auteur libre ; or punir pour « donner ce qui est mérité » suppose précisément cette responsabilité. Tenir les deux ensemble crée une tension : le rétributivisme réclame un mérite que le déterminisme strict retire.
 
+## Citations
+
+> « D'où vient cette volonté arrachée aux destins, par quoi nous allons où chacun se porte ? La déclinaison rompt les lois du destin. » — [Lucrèce](../philosophers/lucretius.md), De la nature des choses, II, 251-260
+
+> « Il n'y a de liberté qu'engagée, et qui se veut en voulant le dévoilement de l'être à travers un monde. » — [Beauvoir](../philosophers/beauvoir.md), Pour une morale de l'ambiguïté
+
+> « L'homme est condamné à être libre. Condamné, parce qu'il ne s'est pas créé lui-même, et par ailleurs cependant libre, parce qu'une fois jeté dans le monde, il est responsable de tout ce qu'il fait. » — [Sartre](../philosophers/sartre.md), L'existentialisme est un humanisme
+
+> « La nature a placé l'humanité sous l'empire de deux maîtres souverains, la peine et le plaisir. » — [Bentham](../philosophers/bentham.md), Principes de la morale et de la législation, I
+
+> « Le créateur et maître de toutes choses a lui-même écrit les destins, mais il les suit : il a commandé une fois, il obéit toujours. » — [Sénèque](../philosophers/seneca.md), De la providence, V
+
+> « Le vouloir-humain est-il donc loin ? Dès que je le veux, le voici. » — [Confucius](../philosophers/confucius.md), Entretiens, VII.29
+
+> « Les hommes font leur propre histoire, mais ils ne la font pas arbitrairement, dans des conditions choisies par eux, mais dans des conditions directement données et héritées du passé. » — [Marx](../philosophers/marx.md), Le 18 Brumaire de Louis Bonaparte
+
+> « Les raisons inclinent sans nécessiter. » — [Leibniz](../philosophers/leibniz.md), Essais de théodicée
+
+> « Tu peux faire ce que tu veux ; mais, à tel moment donné de ta vie, tu ne peux vouloir qu'une chose déterminée, et absolument rien d'autre que cette chose. » — [Schopenhauer](../philosophers/schopenhauer.md), Essai sur le libre arbitre, chap. III
+
+> « Une pierre reçoit d'une cause extérieure qui la pousse une certaine quantité de mouvement... Concevez maintenant que cette pierre, tandis qu'elle continue de se mouvoir, pense et sache qu'elle fait effort, autant qu'elle peut, pour se mouvoir. Cette pierre, assurément, puisqu'elle n'a conscience que de son effort, croira être tout à fait libre. » — [Spinoza](../philosophers/spinoza.md), Lettre 58 à Schuller
+
 ## Axes liés
 
 [Explication de la nature](../axes/causality.md) · [Essence et existence](../axes/essence.md) · [Sens de la peine](../axes/punishment.md) · [Nature du moi](../axes/self-nature.md) · [Liberté politique](../axes/political-liberty.md) · [Nature de la conscience](../axes/consciousness-nature.md) · [Périmètre d'action](../axes/control-scope.md) · [Justice distributive](../axes/distributive-justice.md) · [Rapport au désir](../axes/desire.md)

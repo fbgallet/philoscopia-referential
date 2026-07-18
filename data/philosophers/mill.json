@@ -141,16 +141,7 @@
           }
         ],
         "strength": "STRONG",
-        "quote": {
-          "text": {
-            "fr": "Il vaut mieux être un Socrate insatisfait qu'un imbécile satisfait.",
-            "en": "It is better to be Socrates dissatisfied than a fool satisfied."
-          },
-          "source": {
-            "fr": "L'Utilitarisme, ch. II",
-            "en": "Utilitarianism, ch. II"
-          }
-        }
+        "quoteId": "il-vaut-mieux-etre-un-socrate-mill"
       }
     },
     {
@@ -205,16 +196,7 @@
             "en": "Utilitarianism, ch. 1 (critique of the Kantian a priori)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Les actions sont bonnes dans la mesure où elles tendent à promouvoir le bonheur, et mauvaises dans la mesure où elles tendent à produire le contraire du bonheur.",
-            "en": "Actions are right in proportion as they tend to promote happiness, wrong as they tend to produce the reverse of happiness."
-          },
-          "source": {
-            "fr": "L'Utilitarisme, ch. 2",
-            "en": "Utilitarianism, ch. 2"
-          }
-        },
+        "quoteId": "les-actions-sont-bonnes-dans-la-mill",
         "strength": "STRONG"
       }
     },
@@ -246,16 +228,7 @@
             "en": "Utilitarianism, ch. 4 (happiness, the only thing desirable as an end)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Il vaut mieux être un homme insatisfait qu'un porc satisfait ; mieux vaut être Socrate insatisfait qu'un imbécile satisfait.",
-            "en": "It is better to be a human being dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied."
-          },
-          "source": {
-            "fr": "L'Utilitarisme, ch. 2",
-            "en": "Utilitarianism, ch. 2"
-          }
-        },
+        "quoteId": "il-vaut-mieux-etre-un-homme-mill",
         "strength": "STRONG"
       }
     },
@@ -306,16 +279,7 @@
             "en": "On Liberty, ch. 1 (the tyranny of the majority)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Le seul objet qui autorise les hommes, individuellement ou collectivement, à troubler la liberté d'action de quiconque, est la protection de soi-même.",
-            "en": "The only purpose for which power can be rightfully exercised over any member of a civilised community, against his will, is to prevent harm to others."
-          },
-          "source": {
-            "fr": "De la liberté, ch. 1",
-            "en": "On Liberty, ch. 1"
-          }
-        },
+        "quoteId": "le-seul-objet-qui-autorise-les-mill",
         "strength": "STRONG"
       }
     },
@@ -339,16 +303,7 @@
             "en": "On Liberty, ch. 3 (of individuality as one of the elements of well-being)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "La nature humaine n'est pas une machine que l'on construit sur un modèle, mais un arbre qui doit croître et se développer de tous côtés.",
-            "en": "Human nature is not a machine to be built after a model, but a tree, which requires to grow and develop itself on all sides."
-          },
-          "source": {
-            "fr": "De la liberté, ch. 3",
-            "en": "On Liberty, ch. 3"
-          }
-        },
+        "quoteId": "la-nature-humaine-n-est-pas-mill",
         "strength": "STRONG"
       }
     },
@@ -786,16 +741,7 @@
             "en": "On Liberty, ch. 2 (the argument from fallibility and the dead dogma)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Réduire au silence une opinion, c'est voler l'humanité ; ceux qui dissentent plus encore que ceux qui la partagent.",
-            "en": "To silence the expression of an opinion is to rob the human race; those who dissent from it still more than those who hold it."
-          },
-          "source": {
-            "fr": "De la liberté, ch. 2",
-            "en": "On Liberty, ch. 2"
-          }
-        },
+        "quoteId": "reduire-au-silence-une-opinion-c-mill",
         "strength": "STRONG"
       }
     },

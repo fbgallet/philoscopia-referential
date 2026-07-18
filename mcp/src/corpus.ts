@@ -92,7 +92,13 @@ export function loadCorpus(): Corpus {
   for (const [ref, entity] of byRef) {
     if (!ref.startsWith("arg:")) continue;
     const list = argumentRefsByAxis.get(entity.position.axisId) ?? [];
-    list.push({ ref, kind: entity.kind, on: entity.position.poleId ?? "MEDIAN", claim: entity.claim });
+    list.push({
+      ref,
+      kind: entity.kind,
+      on: entity.position.poleId ?? "MEDIAN",
+      ...(entity.attacks ? { attacks: entity.attacks } : {}),
+      claim: entity.claim,
+    });
     argumentRefsByAxis.set(entity.position.axisId, list);
   }
   for (const axis of axes.values()) {
@@ -103,6 +109,29 @@ export function loadCorpus(): Corpus {
     axis.arguments = [...list].sort(
       (a, b) => rank(a) - rank(b) || (a.kind === b.kind ? 0 : a.kind === "SUPPORTS" ? -1 : 1),
     );
+  }
+  // Each axis also carries the thought experiments that play an argumentative
+  // role on it ({ref, role, on, attacks?, engages?, gist}) — mirrors the web
+  // build's ax entities, so a host sees which cases object to / support a voie.
+  const teRolesByAxis = new Map<string, any[]>();
+  for (const [ref, entity] of byRef) {
+    if (!ref.startsWith("te:") || !Array.isArray(entity.roles)) continue;
+    for (const role of entity.roles) {
+      const list = teRolesByAxis.get(role.position.axisId) ?? [];
+      list.push({
+        ref,
+        role: role.role,
+        on: role.position.poleId ?? (role.position.median ? "MEDIAN" : "AXIS"),
+        ...(role.attacks ? { attacks: role.attacks } : {}),
+        ...(role.argumentId ? { engages: `arg:${role.argumentId}` } : {}),
+        gist: role.summary ?? entity.question,
+      });
+      teRolesByAxis.set(role.position.axisId, list);
+    }
+  }
+  for (const axis of axes.values()) {
+    const list = teRolesByAxis.get(axis.id);
+    if (list?.length) axis.thoughtExperiments = list;
   }
   return {
     paths,
@@ -187,9 +216,11 @@ const RELATIONS = ["TRUTH", "SELF", "OTHERS", "WORLD"] as const;
 /**
  * The compact axes digest, grouped by relation: everything an agent needs to
  * PICK an axis, nothing more (get_axis has the rest). Poles are compact
- * "POLE_ID: label" strings; the taxonomy fields (territory/layer/core/type)
- * stay out — the model never selects on them. Token discipline: this lands
- * verbatim in the host's context. Mirrors the web companion's digest.
+ * "POLE_ID: label" strings; the taxonomy fields (territory/layer/type) stay
+ * out — the model never selects on them. `core` IS carried: it drives the
+ * list_axes default view (core axes only, the full map on demand). Token
+ * discipline: this lands verbatim in the host's context. Mirrors the web
+ * companion's digest.
  */
 export function axesDigest(corpus: Corpus, locale: Locale, relation?: string) {
   const groups: Record<string, any[]> = Object.fromEntries(RELATIONS.map((r) => [r, []]));
@@ -200,6 +231,7 @@ export function axesDigest(corpus: Corpus, locale: Locale, relation?: string) {
       question: pickLocale(axis.question, locale),
       poles: axis.poles.map((p: any) => `${p.id}: ${pickLocale(p.label, locale)}`),
       ...(axis.medianLabel ? { median: pickLocale(axis.medianLabel, locale) } : {}),
+      ...(axis.core ? { core: true } : {}),
     });
   }
   return relation ? (groups[relation] ?? []) : groups;
@@ -278,11 +310,58 @@ export function entityView(ref: string, flat: any): any {
     }
     return rest;
   }
+  if (ref.startsWith("te:")) {
+    // Option hints and each role's response hints are position-scoring
+    // machinery, not conversation material (mirrors the web build's te strip);
+    // the roles' reasoning (reconstruction) stays.
+    const clean = stripMachineFields(flat, false);
+    if (Array.isArray(clean.options)) {
+      clean.options = clean.options.map(({ hints: _hints, ...option }: any) => option);
+    }
+    if (Array.isArray(clean.roles)) {
+      clean.roles = clean.roles.map((role: any) =>
+        Array.isArray(role.responses)
+          ? { ...role, responses: role.responses.map(({ hints: _h, ...r }: any) => r) }
+          : role,
+      );
+    }
+    return clean;
+  }
   if (!/^(ph|mv|chr):/.test(ref)) return stripMachineFields(flat, false);
   const clean = stripMachineFields(flat, false);
   if (!Array.isArray(clean.entries)) return clean;
   const { entries, summary: _summary, voice: _voice, ...identity } = clean;
   return { ...identity, positionsFormat: POSITIONS_FORMAT, positions: entries.map(positionLine) };
+}
+
+/** get_entity full:true view (the RICH view — embody a figure, portrait,
+ * unknown figure): the whole file EXCEPT that only the MAJOR/CENTRAL or
+ * structuring positions keep their justifications; the minor ones become
+ * compact lines (get_position widens the one actually discussed). The
+ * justifications are ~85% of a big figure's bytes and the minor ones rarely
+ * speak on turn 1 — this halves what a full read pins into the host context.
+ * Mirrors the web engine's entityRichView. */
+export function entityRichView(ref: string, flat: any): any {
+  const clean = stripMachineFields(flat, ref.startsWith("ax:"));
+  if (!/^(ph|mv|chr):/.test(ref)) return clean;
+  const entries = clean.entries;
+  if (!Array.isArray(entries)) return clean;
+  const structuringAxes = new Set(
+    (Array.isArray(clean.structuring) ? clean.structuring : [])
+      .map((s: any) => s?.axisId)
+      .filter(Boolean),
+  );
+  const isMajor = (e: any) =>
+    e?.salience === "CENTRAL" || e?.salience === "MAJOR" || structuringAxes.has(e?.axisId);
+  const minor = entries.filter((e: any) => !isMajor(e));
+  if (minor.length === 0) return clean;
+  return {
+    ...clean,
+    entries: entries.filter(isMajor),
+    minorPositionsFormat:
+      "AXIS_ID · value · STATUS/EPISTEMIC · SALIENCE · note — justification via get_position",
+    minorPositions: minor.map(positionLine),
+  };
 }
 
 /** One figure's position on ONE axis: the scoped slice behind get_position. */

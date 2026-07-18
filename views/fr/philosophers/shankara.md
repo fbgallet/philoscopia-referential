@@ -24,7 +24,7 @@ Idéalisme 100%
 
 Une seule réalité existe sans second, le [brahman](../glossary/brahman.md), pure conscience : ni la matière ni la multiplicité des choses ne sont des substances autonomes. Le monde des objets n'est pas un pur néant, mais il n'a qu'une réalité empirique (vyāvahārika), surimposée sur le brahman par l'ignorance, comme on voit un serpent là où il n'y a qu'une corde. Cet idéalisme est sui generis : il ne fait pas du monde le contenu d'un esprit fini, à la manière de Berkeley, mais le rapporte tout entier à l'unique conscience absolue dont les choses ne sont que l'apparence. La question n'est donc pas « esprit ou matière ? » mais « le multiple est-il réel ? », à quoi Śaṅkara répond par la non-dualité.
 
-> « Le brahman est réel, le monde est apparence, et le soi n'est rien d'autre que le brahman. » (formule attribuée à Śaṅkara (Brahmajñānāvalīmālā))
+> « Le brahman est réel, le monde est apparence, et le soi n'est rien d'autre que le brahman. », formule attribuée à Śaṅkara (Brahmajñānāvalīmālā)
 
 *Sources : Commentaire sur les Brahma Sūtra, I, 1, 1-4 · Upadeśasāhasrī*
 
@@ -116,7 +116,7 @@ Immortalisme 90% · La mort n'est rien 10%
 
 Le soi ([ātman](../glossary/atman.md)) n'est jamais né et ne meurt jamais : la mort n'affecte que le composé corps-mental, non la conscience qui en est le témoin. À cet égard, Śaṅkara relève de l'immortalisme, la vie présente étant un passage en vue de la délivrance. Mais l'encodage demande une nuance : ce qui est immortel n'est pas l'âme individuelle, qui se défait avec ses renaissances, mais le soi impersonnel identique en tous. Pour qui a réalisé cette identité, la mort n'est même plus un événement à craindre, ce qui ajoute une coloration proche du « la mort n'est rien » : elle ne peut rien retrancher à ce qui, par essence, n'a jamais été dans le temps.
 
-> « Il n'est jamais né et jamais ne meurt ; non engendré, permanent, éternel, il n'est pas tué quand le corps est tué. » (Bhagavad Gītā, II, 20, commentée par Śaṅkara)
+> « Il n'est jamais né et jamais ne meurt ; non engendré, permanent, éternel, il n'est pas tué quand le corps est tué. », Bhagavad Gītā, II, 20, commentée par Śaṅkara
 
 *Sources : Commentaire sur la Bhagavad Gītā, II, 11-30 · Commentaire sur la Kaṭha Upaniṣad*
 

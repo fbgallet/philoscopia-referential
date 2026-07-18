@@ -32,6 +32,10 @@ Ces catégories ne sont ni naturelles ni de simples idées qu'on dissoudrait par
 - *[Identité sociale](../axes/social-identity.md) : Construction sociale* fonde *[Statut du savoir](../axes/knowledge-status.md) : Constructivisme* : Si les catégories par lesquelles nous pensons sont des produits contingents de l'histoire et des rapports de pouvoir, le savoir lui-même n'échappe pas à cette emprise. Le constructionnisme social fonde le constructivisme du savoir : [Foucault](../philosophers/foucault.md) montre que chaque époque détermine, par ses discours et ses institutions, ce qui peut y être tenu pour vrai.
 - *[Identité sociale](../axes/social-identity.md) : Réalisme social* fonde *[Sens du travail](../axes/work-meaning.md) : Aliénation* : Si les catégories sociales comme la classe sont des réalités matérielles objectives, et non de simples idées, alors le rapport de production peut réellement déposséder le travailleur de son activité et de lui-même. Le réalisme social fonde l'aliénation : [Marx](../philosophers/marx.md) montre comment, sous le salariat, le travail devient étranger à celui qui l'accomplit.
 
+## Citations
+
+> « On ne naît pas femme : on le devient. » — [Beauvoir](../philosophers/beauvoir.md), Le Deuxième Sexe, t. II
+
 ## Axes liés
 
 [Nature et culture](../axes/human-nature.md) · [Individu et société](../axes/individual-society.md) · [Essence et existence](../axes/essence.md)

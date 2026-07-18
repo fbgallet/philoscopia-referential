@@ -24,7 +24,7 @@ The examined life 80% · Primacy of action 20%
 
 Since disturbance comes not from things but from the judgment we pass on them, the place where calm is always to be found is no place in the world but the [ruling faculty](../glossary/hegemonikon.md), the part of oneself nothing external can reach. Marcus makes of it a citadel into which one may always withdraw, returning to one's [impressions](../glossary/phantasia.md) to set them back in order. Yet this retreat is no flight from action: the notebook of the *[Meditations](../works/meditations-marcus-aurelius.md)* is that very exercise, left at once to return to one's task as a man and an emperor.
 
-> “Men seek retreats for themselves, in the country, by the sea, in the hills; but nowhere can a man withdraw into more quiet than into his own soul.” (Meditations, IV, 3)
+> “Men seek retreats for themselves, in the country, by the sea, in the hills; but nowhere can a man withdraw into more quiet than into his own soul.”, Meditations, IV, 3
 
 *Sources : Meditations, IV, 3 · Meditations, VII, 59 · Meditations, VIII, 48*
 
@@ -36,7 +36,7 @@ Presentism 85% · Project 10% · Memory and transmission 5%
 
 One can be stripped neither of the past, which is no more, nor of the future, which is not yet: what we lose in dying is only ever that indivisible point, the present instant, the same for the man who dies old and the man who dies young. From this Marcus draws the deflation of posthumous glory, since those who might remember me will die in their turn, and the concentration on the task at hand, to be carried out as if it were the last. This meditation on transience, more insistent in him than in any Stoic, summons us not to enjoy the moment but to inhabit it worthily.
 
-> “No one loses any other life than the one he now lives, nor lives any other than the one he now loses.” (Meditations, II, 14)
+> “No one loses any other life than the one he now lives, nor lives any other than the one he now loses.”, Meditations, II, 14
 
 *Sources : Meditations, II, 14 · Meditations, III, 10 · Meditations, XII, 26*
 
@@ -58,7 +58,7 @@ Death is nothing 60% · Being-toward-death 35% · Immortalism 5%
 
 If everything in the cosmos arises from change and returns to it, death is but one transformation among others, the dissolution of the elements back into the whole they came from: nothing in keeping with [nature](../glossary/logos.md) can be an evil. But Marcus does not merely defuse its terror; he keeps it daily before his eyes to govern present action, so that an acute awareness of death, more than a consolation, becomes the spur to a life rightly lived. His own note is the image of the ripe fruit: to leave life as the olive falls, blessing the earth that bore it.
 
-> “Pass out of life as a ripe olive falls, blessing the nature that produced it and giving thanks to the tree on which it grew.” (Meditations, IV, 48)
+> “Pass out of life as a ripe olive falls, blessing the nature that produced it and giving thanks to the tree on which it grew.”, Meditations, IV, 48
 
 *Sources : Meditations, II, 17 · Meditations, IV, 48 · Meditations, IX, 3*
 
@@ -70,7 +70,7 @@ Intellectualism 93% · Sentimentalism 8%
 
 Like every Stoic, Marcus holds a passion to be an [assent](../glossary/synkatathesis.md) given to a false judgment, hence a correctable error and no fatality; but he turns it above all into the instrument of an ethics of gentleness. The reasoning he urges on himself against anger is tight: the one who wrongs me is mistaken about good and evil, and no one errs willingly; he is my kinsman, born of the same [reason](../glossary/logos.md); he cannot harm me in the one thing that is mine, my [judgment](../glossary/prohairesis.md); and to resent him would add his wrong to my own. Understanding another's ignorance dissolves resentment before it forms.
 
-> “Begin each day by telling yourself: today I shall meet the meddler, the ungrateful, the insolent; but none can bind me to what is base, nor make me angry at a kinsman.” (Meditations, II, 1)
+> “Begin each day by telling yourself: today I shall meet the meddler, the ungrateful, the insolent; but none can bind me to what is base, nor make me angry at a kinsman.”, Meditations, II, 1
 
 *Sources : Meditations, II, 1 · Meditations, XI, 18 · Meditations, IX, 42*
 
@@ -102,7 +102,7 @@ Amor fati 95% · Revolt 5%
 
 If the world is a single living being run through by one [reason](../glossary/logos.md), no event is isolated or accidental: what befalls me was, from all eternity, woven together with me into the fabric of the whole (the [sympatheia](../glossary/sympatheia.md), the cosmic sympathy of things with one another). Marcus goes beyond resignation: not to endure what happens but to love it, since to wish it otherwise would be to demand that the entire universe be otherwise. Revolt is then not so much forbidden as absurd, the part being unable to accuse the whole from which it issues: this is [love of fate](../glossary/amor-fati.md) as the highest form of consent.
 
-> “All that is in tune with you, O Universe, is in tune with me: nothing that comes in season for you is too early or too late for me.” (Meditations, IV, 23)
+> “All that is in tune with you, O Universe, is in tune with me: nothing that comes in season for you is too early or too late for me.”, Meditations, IV, 23
 
 *Sources : Meditations, IV, 23 · Meditations, V, 8 · Meditations, X, 5*
 
@@ -114,7 +114,7 @@ Altruism 83% · Ethical egoism 18%
 
 From the rational and social nature of man, Marcus deduces that my good and the community's are one: endowed with [reason](../glossary/logos.md) like every human being, I am to the city of the world what the limb is to the body, and the limb that severs itself is maimed. Stoic [appropriation](../glossary/oikeiosis.md) takes a singular turn here, for it is an emperor who reminds himself at the threshold of each day that his own task is the just act done for the common good: virtue is no solitary perfection but is turned wholly toward cooperation.
 
-> “What is not good for the swarm is not good for the bee either.” (Meditations, VI, 54)
+> “What is not good for the swarm is not good for the bee either.”, Meditations, VI, 54
 
 *Sources : Meditations, V, 1 · Meditations, VI, 54 · Meditations, VII, 13*
 
@@ -156,7 +156,7 @@ Cosmopolitanism 90% · Communitarianism and patriotism 10%
 
 From the [reason](../glossary/logos.md) common to all men, Marcus concludes to a single city of the world of which each is a citizen before belonging to his homeland. The formula is his own: a citizen of Rome as Antoninus, but a citizen of the world as a man, the first belonging subordinate to the second.
 
-> “As Antoninus, my city and homeland is Rome; as a man, it is the world.” (Meditations, VI, 44)
+> “As Antoninus, my city and homeland is Rome; as a man, it is the world.”, Meditations, VI, 44
 
 *Sources : Meditations, VI, 44 · Meditations, III, 11 · Meditations, IV, 4*
 
@@ -198,7 +198,7 @@ The body as instrument 85% · The lived body 15%
 
 Marcus demeans the body with a famous bluntness: he decomposes it into its elements, a little flesh, blood and bone, reduces food and the union of bodies to their organic processes, and sets against this perishable matter the [ruling faculty](../glossary/hegemonikon.md) alone. The body is but an [instrument](../glossary/adiaphora.md) lent to the soul, which places Marcus squarely on the body-as-instrument side, without yet despising it into a mortifying asceticism.
 
-> “What I am is only a little flesh, a little breath, and the ruling part.” (Meditations, II, 2)
+> “What I am is only a little flesh, a little breath, and the ruling part.”, Meditations, II, 2
 
 *Sources : Meditations, II, 2 · Meditations, VI, 13 · Meditations, VIII, 24*
 
@@ -230,7 +230,7 @@ Fecundity and redemption 70% · Abolitionism 30%
 
 Hardship is neither to be fled nor wept over: the soul turns into material for virtue what claimed to thwart it, and the impediment to action becomes the action itself. The stance sits between Stoic [indifference](../glossary/adiaphora.md), which counts pain as nothing, and the active fecundity of adversity, which makes it the occasion of progress.
 
-> “What stands in the way of action advances action. What blocks the road becomes the road.” (Meditations, V, 20)
+> “What stands in the way of action advances action. What blocks the road becomes the road.”, Meditations, V, 20
 
 *Sources : Meditations, IV, 1 · Meditations, V, 20*
 
@@ -362,7 +362,7 @@ Maximalism 85% · Minimalism 15%
 
 The demand is unrelenting: to stop discoursing on what the good man should be, and to be one, now, without delay or excuse. This call to an effort of every instant, in which each act engages the whole of virtue, is a moral maximalism, tempered only by the [limit of what is up to us](../glossary/dichotomy-of-control.md).
 
-> “Waste no more time arguing what a good man should be. Be one.” (Meditations, X, 16)
+> “Waste no more time arguing what a good man should be. Be one.”, Meditations, X, 16
 
 *Sources : Meditations, V, 1 · Meditations, X, 16 · Meditations, XII, 1*
 

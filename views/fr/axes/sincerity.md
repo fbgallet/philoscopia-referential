@@ -31,6 +31,12 @@ Dire la vérité est un devoir, mais seulement envers ceux qui y ont droit. Quan
 - *Mensonge bienveillant permis* · contre : [Le mensonge qui infantilise](../arguments/sincerity-benevolent-paternalism-objection.md)
 - *Mensonge bienveillant permis* · contre : [Le retour du mensonge](../arguments/sincerity-benevolent-trust-collapse.md)
 
+## Citations
+
+> « Ne dis jamais que tu es philosophe : sois-le. » — [Épictète](../philosophers/epictetus.md), Manuel, §46
+
+> « Si les noms ne sont pas corrects, le langage n'est pas conforme à la vérité des choses ; alors les affaires ne peuvent réussir. » — [Confucius](../philosophers/confucius.md), Entretiens, XIII, 3
+
 ## Axes liés
 
 [Lettre ou esprit de la règle](../axes/rule-spirit.md)

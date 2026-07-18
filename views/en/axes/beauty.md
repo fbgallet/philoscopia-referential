@@ -35,6 +35,14 @@ Beauty is not a property of the object, yet it is not a mere matter of personal 
 - *[Beauty](../axes/beauty.md) : Subjective beauty* grounds *[Purpose of art](../axes/art-purpose.md) : Pleasure* : If beauty is nothing but the pleasure a form gives, then art has no end other than that pleasure itself, without having to serve truth or a cause. Subjective beauty grounds art for art's sake: the work is sufficient unto itself, and subordinating it to an external end would only debase it.
 - *[Beauty](../axes/beauty.md) : Subjective beauty* grounds *[Hierarchy of tastes](../axes/taste-hierarchy.md) : Egalitarianism of taste* : If beauty is only a sentiment that varies across individuals and cultures, then no taste is truer than another. Subjective beauty supports the equality of tastes: there is no disputing about tastes, and no one is entitled to impose their own as the norm.
 
+## Quotations
+
+> “The beautiful is that which pleases universally without a concept.” — [Kant](../philosophers/kant.md), Critique of the Power of Judgment, §9
+
+> “Beauty is no quality in things themselves: it exists merely in the mind which contemplates them; and each mind perceives a different beauty.” — [Hume](../philosophers/hume.md), Essays, "Of the Standard of Taste"
+
+> “A beauty that always is, neither coming to be nor passing away, neither increasing nor diminishing; nor again beautiful in one part and ugly in another.” — [Plato](../philosophers/plato.md), Symposium, 211a
+
 ## Related axes
 
 [Nature of art](../axes/art-nature.md) · [Hierarchy of tastes](../axes/taste-hierarchy.md)

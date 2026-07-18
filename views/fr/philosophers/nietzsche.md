@@ -34,7 +34,7 @@ Eudémonisme 70% · Hédonisme 20% · Vertu / perfectionnisme moral 10%
 
 Nietzsche raille aussi bien le bonheur-plaisir des utilitaristes que la morale du devoir : le bien n'est ni la jouissance ni la vertu désintéressée. Il est l'**élévation de la vie**, l'épanouissement de la puissance et le dépassement de soi, la grande santé de qui ose se créer et dire oui à l'existence. Un eudémonisme transvalué, où la réussite se mesure à la force et à la grandeur, non au confort.
 
-> « L'homme ne tend pas au bonheur ; seul l'Anglais le fait. » (Crépuscule des idoles, Maximes et traits, 12)
+> « L'homme ne tend pas au bonheur : seul l'Anglais le fait. », Crépuscule des idoles, Maximes et traits, 12
 
 *Sources : Crépuscule des idoles, Maximes et traits · Le Gai Savoir, IV-V · Ainsi parlait Zarathoustra*
 
@@ -46,7 +46,7 @@ Empirisme 70% · Rationalisme 30%
 
 Nietzsche retourne la hiérarchie platonicienne : ce n'est pas la raison qui atteindrait le vrai contre des sens trompeurs, ce sont les sens qui ne mentent pas, et la raison qui falsifie leur témoignage du devenir en y substituant l'**être**, l'unité, la chose. L'arrière-monde intelligible, de Platon à Kant, est une fiction née de la décadence. Mais Nietzsche ne verse pas dans l'empirisme naïf : il n'est ni fait brut ni perception immaculée, toute connaissance est interprétation depuis une perspective, commandée par les besoins de la vie et la volonté de puissance. Empirisme du corps et des sens, donc, mais radicalisé en **perspectivisme**.
 
-> « Il n'existe qu'une vision perspective, qu'un connaître perspectif. » (Généalogie de la morale, III, § 12)
+> « Il n'existe qu'une vision perspective, qu'un connaître perspectif. », Généalogie de la morale, III, § 12
 
 *Sources : Crépuscule des idoles, La raison dans la philosophie · Par-delà bien et mal, §§ 16-17*
 
@@ -58,7 +58,7 @@ Fécondité-rédemption 95% · Abolitionnisme 5%
 
 La souffrance est pour Nietzsche une condition de grandissement : ce qui ne me tue pas me rend plus fort, et la discipline de la grande souffrance a produit toutes les élévations de l'humanité. Il méprise explicitement les morales qui font de l'abolition de la souffrance le but suprême.
 
-> « Ce qui ne me fait pas mourir me rend plus fort. » (Crépuscule des idoles, « Maximes et flèches », §8)
+> « Ce qui ne me fait pas mourir me rend plus fort. », Crépuscule des idoles, « Maximes et flèches », §8
 
 *Sources : Par-delà bien et mal, §225 · Crépuscule des idoles, « Maximes et flèches », §8 · Le Gai Savoir, §338*
 
@@ -70,7 +70,7 @@ Amor fati 95% · Révolte 5%
 
 L'[éternel retour](../glossary/eternal-recurrence.md) fonctionne comme une épreuve : si un démon t'annonçait que tu revivras cette vie à l'identique, infiniment, le maudirais-tu, ou serait-ce ta plus grande joie ? Dire oui à chaque instant, c'est l'[amor fati](../glossary/amor-fati.md) : non la résignation de Schopenhauer, mais l'affirmation la plus haute, aimer le nécessaire au point d'en vouloir le retour éternel.
 
-> « Ma formule pour la grandeur de l'homme est amor fati : ne rien vouloir d'autre que ce qui est, ni en avant, ni en arrière, ni dans toute l'éternité. » (Ecce Homo, « Pourquoi je suis si avisé », §10)
+> « Ma formule pour la grandeur de l'homme est amor fati : ne rien vouloir d'autre que ce qui est, ni en avant, ni en arrière, ni dans toute l'éternité. », Ecce Homo, « Pourquoi je suis si avisé », §10
 
 *Sources : Ecce Homo, « Pourquoi je suis si avisé », §10 · Le Gai Savoir, §276 et §341*
 
@@ -82,7 +82,7 @@ Athéisme 95% · Théisme 5%
 
 Nietzsche ne démontre pas l'inexistence de Dieu : il constate que la foi au Dieu moral est devenue intenable dans notre propre culture, minée par l'exigence de vérité qu'elle avait nourrie, et que « nous l'avons tué ». Il en tire la conséquence qu'on n'ose pas regarder : privées de leur socle, nos valeurs suprêmes vacillent, c'est le nihilisme, à la fois danger et chance d'une création de valeurs nouvelles.
 
-> « Dieu est mort ! Dieu reste mort ! Et c'est nous qui l'avons tué ! » (Le Gai Savoir, §125)
+> « Dieu est mort ! Dieu reste mort ! Et c'est nous qui l'avons tué ! », Le Gai Savoir, §125
 
 *Sources : Le Gai Savoir, §125 · L'Antéchrist*
 
@@ -104,7 +104,7 @@ Relativisme 80% · Constructivisme 20%
 
 Plutôt que de demander si les valeurs morales sont vraies, Nietzsche demande ce qu'elles valent et d'où elles viennent : c'est la méthode *[généalogique](../works/on-the-genealogy-of-morality-nietzsche.md)*. Elle découvre que le couple [bien / mal](../glossary/master-slave-morality.md) est né du [ressentiment](../glossary/ressentiment.md) des faibles, renversant le « bon / mauvais » aristocratique. Les morales ne sont donc pas des faits mais les symptômes de types de vie, à évaluer et, au besoin, à **transmuer**.
 
-> « Il n'y a pas de phénomènes moraux, seulement une interprétation morale des phénomènes. » (Par-delà bien et mal, §108)
+> « Il n'y a pas de phénomènes moraux, seulement une interprétation morale des phénomènes. », Par-delà bien et mal, §108
 
 *Sources : Généalogie de la morale · Par-delà bien et mal, §108*
 
@@ -162,7 +162,7 @@ Existentialisme 93% · Essentialisme 7%
 
 « Deviens ce que tu es » : il n'y a pas d'essence humaine fixe à réaliser, mais une tâche de **création de soi**. Le sujet, l'âme, le « je » substantiel sont des illusions grammaticales ; ce que nous sommes est l'œuvre toujours ouverte de l'auto-façonnage, du « donner du style à son caractère ».
 
-> « Deviens ce que tu es. » (Le Gai Savoir, §270 ; Ecce Homo, sous-titre)
+> « Deviens ce que tu es. », Le Gai Savoir, §270 ; Ecce Homo, sous-titre
 
 *Sources : Le Gai Savoir, §290 · Ecce Homo, sous-titre « Comment on devient ce que l'on est »*
 
@@ -174,7 +174,7 @@ Scepticisme 85% · Dogmatisme 15%
 
 Il n'existe pas de regard depuis nulle part : toute connaissance est l'optique d'une [volonté](../glossary/will-to-power.md), une interprétation au service de quelque intérêt vital. L'idéal d'une vérité « objective » et désintéressée est lui-même une valeur, plutôt hostile à la vie. Ce perspectivisme n'est pourtant pas un relativisme plat : on peut hiérarchiser les perspectives selon leur fécondité, et c'est en multipliant les points de vue qu'on gagne en « objectivité ».
 
-> « Il n'y a pas de faits, seulement des interprétations. » (Fragments posthumes, automne 1885-1886, 7[60])
+> « Il n'y a pas de faits, seulement des interprétations. », Fragments posthumes, automne 1885-1886, 7[60]
 
 *Sources : Fragments posthumes, automne 1885-1886, 7[60] · Par-delà bien et mal, §34*
 
@@ -216,7 +216,7 @@ Esthétisme 93% · Primat de l'éthique 8%
 
 Ce n'est qu'en tant que phénomène esthétique que l'existence et le monde sont justifiés à jamais : la thèse de la *[Naissance de la tragédie](../works/the-birth-of-tragedy-nietzsche.md)* subordonne le sens de la vie au registre esthétique plutôt que moral. L'art, et non la morale, est l'activité proprement métaphysique de l'homme.
 
-> « Ce n'est qu'en tant que phénomène esthétique que l'existence et le monde apparaissent comme justifiés à jamais. » (La Naissance de la tragédie, §5)
+> « Ce n'est qu'en tant que phénomène esthétique que l'existence et le monde apparaissent comme justifiés à jamais. », La Naissance de la tragédie, §5
 
 *Sources : La Naissance de la tragédie, §5 et §24 · La Naissance de la tragédie, « Essai d'autocritique », §5*
 
@@ -278,7 +278,7 @@ Pessimisme anthropologique 75% · Optimisme anthropologique 25%
 
 L'homme est une corde tendue entre la bête et le [surhumain](../glossary/ubermensch.md), quelque chose qui doit être surmonté : Nietzsche porte un regard sévère sur l'humanité grégaire, médiocre et marquée par le [ressentiment](../glossary/ressentiment.md) de son temps. Mais ce diagnostic critique s'accompagne d'une confiance dans la possibilité d'une élévation, ce qui tempère le pessimisme.
 
-> « L'homme est quelque chose qui doit être surmonté. » (Ainsi parlait Zarathoustra, Prologue, §3)
+> « L'homme est quelque chose qui doit être surmonté. », Ainsi parlait Zarathoustra, Prologue, §3
 
 *Sources : Ainsi parlait Zarathoustra, Prologue, §3 et §4 · Généalogie de la morale, I, §11*
 

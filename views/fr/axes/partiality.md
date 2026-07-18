@@ -46,6 +46,12 @@ Notre souci des autres se déploie en cercles : intense pour les proches, il s'�
 - *Cercles concentriques* · contre : [À l'heure du conflit](../arguments/partiality-circles-conflict.md)
 - *Cercles concentriques* · contre : [Ni l'un ni l'autre](../arguments/partiality-circles-instability-objection.md)
 
+## Citations
+
+> « Comme une mère protège son unique enfant au péril de sa propre vie, qu'on cultive un cœur sans limites envers tous les êtres. » — [Le Bouddha](../philosophers/buddha.md), Karaṇīya Mettā Sutta (Sutta Nipāta 1.8)
+
+> « Le droit chemin est là : le père couvre son fils, le fils couvre son père. » — [Confucius](../philosophers/confucius.md), Entretiens, XIII, 18
+
 ## Axes liés
 
 [Appartenance](../axes/belonging.md) · [Exigence morale](../axes/moral-demand.md) · [Intérêt propre et autrui](../axes/self-interest.md) · [Critère du juste](../axes/ethics-foundation.md) · [Cercle moral](../axes/moral-circle.md)

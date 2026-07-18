@@ -45,6 +45,20 @@ L'existence précède l'essence : l'être humain n'est d'abord rien de défini, 
 - *[Les universaux](../axes/universals.md) : Nominalisme* fonde *[Essence et existence](../axes/essence.md) : Existentialisme* : Si seuls les individus existent et que les universaux ne sont que des noms, alors il n'y a pas de nature humaine inscrite dans les choses, antérieure aux individus singuliers. Le nominalisme ouvre la voie à l'existentialisme : faute d'essence générale de l'homme, chacun se définit par son existence et ses actes, comme le soutient [Sartre](../philosophers/sartre.md). Le lien est une affinité plus qu'une filiation explicite.
 - *[Les universaux](../axes/universals.md) : Réalisme des universaux* fonde *[Essence et existence](../axes/essence.md) : Essentialisme* : Si les propriétés générales existent réellement et ne sont pas de simples noms, alors les choses ont une nature, une forme qui les définit en propre. Le réalisme des universaux fonde l'essentialisme : que les Idées subsistent à part ([Platon](../philosophers/plato.md)) ou dans les choses mêmes ([Aristote](../philosophers/aristotle.md)), l'essence d'un être est une réalité que la connaissance découvre.
 
+## Citations
+
+> « Deviens ce que tu es. » — [Nietzsche](../philosophers/nietzsche.md), Le Gai Savoir, §270 ; Ecce Homo, sous-titre
+
+> « L'essence humaine n'est pas une abstraction inhérente à l'individu isolé. Dans sa réalité, elle est l'ensemble des rapports sociaux. » — [Marx](../philosophers/marx.md), Thèses sur Feuerbach, VI
+
+> « L'homme existe d'abord, se rencontre, surgit dans le monde, et qu'il se définit après. » — [Sartre](../philosophers/sartre.md), L'existentialisme est un humanisme
+
+> « L'homme existe d'abord, se rencontre, surgit dans le monde, et qu'il se définit après. L'homme, tel que le conçoit l'existentialiste, s'il n'est pas définissable, c'est qu'il n'est d'abord rien. Il ne sera qu'ensuite, et il sera tel qu'il se sera fait. » — [Sartre](../philosophers/sartre.md), L'existentialisme est un humanisme
+
+> « On ne naît pas femme : on le devient. Aucun destin biologique, psychique, économique ne définit la figure que revêt au sein de la société la femelle humaine. » — [Beauvoir](../philosophers/beauvoir.md), Le Deuxième Sexe, t. II
+
+> « Que la nature propre puisse être produite par des causes et des conditions, cela n'a pas de sens : produite par des causes et des conditions, la nature propre serait fabriquée. » — [Nāgārjuna](../philosophers/nagarjuna.md), Mūlamadhyamakakārikā, XV, 1-2
+
 ## Axes liés
 
 [Identité sociale](../axes/social-identity.md) · [Les universaux](../axes/universals.md) · [Liberté de la volonté](../axes/freedom.md) · [Nature et culture](../axes/human-nature.md) · [Nature du moi](../axes/self-nature.md) · [L'être et le devenir](../axes/being-becoming.md)

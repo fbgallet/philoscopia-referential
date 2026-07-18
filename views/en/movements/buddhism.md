@@ -26,7 +26,7 @@ Becoming and flux 90% · Permanence of being 10%
 
 **Impermanence** (anicca) is the first of the three marks of existence: every conditioned phenomenon arises, transforms, and ceases, with no substance subsisting beneath the flux, neither in things nor in us (**anattā**, non-self). Taking things to be stable is precisely the illusion that breeds attachment and suffering; wisdom consists in seeing arising and ceasing.
 
-> “Whatever is subject to arising is subject to ceasing.” (Samyutta Nikāya (canonical formula))
+> “Whatever is subject to arising is subject to ceasing.”, SN 56.11, Dhammacakkappavattana Sutta
 
 *Sources : Dhammapada, 277-279 (the three marks) · Samyutta Nikāya, 56.11*
 
@@ -88,7 +88,7 @@ Empiricism 70% · Rationalism 30%
 
 Buddhism makes personal examination and direct experience, not authority or tradition, the source of liberating knowledge. Decisive knowledge proceeds from a perception refined by meditation, more than from a priori intellection: one tests for oneself the root of suffering and its cessation, as one verifies a remedy by applying it.
 
-> “Do not go by hearsay or tradition, but when you know for yourselves: this is wholesome, then take it up.” (Kalama Sutta)
+> “Do not go by hearsay or tradition, but when you know for yourselves: this is wholesome, then take it up.”, Kalama Sutta
 
 *Sources : Kalama Sutta (Anguttara Nikaya III.65) · Satipatthana Sutta*
 
@@ -110,7 +110,7 @@ Bundle theory 90% · Psychological continuity 10%
 
 Look for the self among the five aggregates (form, feeling, perception, formations, consciousness) and you find only their shifting flux: none of them is stable, none is yours, none is a subject bearing them. From this analysis Buddhism draws [not-self (anattā)](../glossary/anatta.md) against the [ātman](../glossary/atman.md) of the Upaniṣads, that permanent Self identified with [Brahman](../glossary/brahman.md): where [Vedānta](../movements/vedanta.md) posits an unchanging subject beneath becoming, the Buddha holds that positing such a substrate is precisely the delusion (avidyā) that feeds attachment. The subject is only a bundle of impermanent processes, which makes Buddhism the great historical instance of bundle theory.
 
-> “Form is not-self, feeling is not-self, perception is not-self, formations are not-self, consciousness is not-self.” (Anattalakkhaṇa Sutta (Saṃyutta Nikāya 22.59))
+> “Form is not-self, feeling is not-self, perception is not-self, formations are not-self, consciousness is not-self.”, Anattalakkhaṇa Sutta (Saṃyutta Nikāya 22.59)
 
 *Sources : Anattalakkhaṇa Sutta (the discourse on the not-self characteristic) · Nāgārjuna, Mūlamadhyamakakārikā (Fundamental Verses on the Middle Way)*
 
@@ -122,7 +122,7 @@ Extinction and detachment 95% · Reasoned selection 5%
 
 If suffering has a locatable cause, it can be removed by addressing that cause: through [dependent origination (pratītyasamutpāda)](../glossary/pratityasamutpada.md), the second Noble Truth traces suffering back to [craving (taṇhā)](../glossary/tanha.md), the grasping thirst that clings to pleasures, to existence, or to non-existence and keeps the wheel of rebirth turning. It follows that liberation requires neither satisfying desire nor forcibly repressing it, but extinguishing its root, the thirst itself: Buddhism thus falls squarely on the side of detachment, not from contempt for pleasure but because craving is the very engine of dis-ease.
 
-> “This is the noble truth of the origin of suffering: it is this craving which leads to renewed existence.” (Dhammacakkappavattana Sutta (Saṃyutta Nikāya 56.11))
+> “This is the noble truth of the origin of suffering: it is this craving which leads to renewed existence.”, Dhammacakkappavattana Sutta (Saṃyutta Nikāya 56.11)
 
 *Sources : Dhammacakkappavattana Sutta (the sermon at Benares) · Dhammapada, ch. XXIV (Craving)*
 
@@ -164,7 +164,7 @@ The examined life 85% · Primacy of action 15%
 
 The transformation aimed at proceeds first through inner examination: observing one's own mental states, [impulses (taṇhā)](../glossary/tanha.md), and perceptions in meditation and introspection. The good life turns on work upon the mind more than on outward action, even though ethical conduct (sīla) is its support.
 
-> “All that we are is the result of what we have thought: it is founded on our thoughts, it is made up of our thoughts.” (Dhammapada, I, 1)
+> “All that we are is the result of what we have thought: it is founded on our thoughts, it is made up of our thoughts.”, Dhammapada, I, 1
 
 *Sources : Dhammapada, ch. I (The Pairs) · Satipaṭṭhāna Sutta (the discourse on the foundations of mindfulness)*
 

@@ -1,0 +1,81 @@
+{
+  "id": "sufficientarianism-relational-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "DISTRIBUTIVE_JUSTICE", "median": true },
+  "name": { "fr": "L'égalité des rapports, pas seulement du panier", "en": "Equality of relations, not just of the basket" },
+  "attacks": "POSITION",
+  "claim": {
+    "fr": "On peut donner à chacun de quoi vivre et régner encore des maîtres et des obligés : la justice n'est pas qu'un plancher de biens, c'est une manière de se tenir en égaux.",
+    "en": "One can give everyone the means to live and still have masters and dependents: justice is not just a floor of goods, it is a way of standing as equals."
+  },
+  "summary": {
+    "fr": "Le suffisantarisme mesure la justice à un panier de biens. Mais une société peut couvrir tous les besoins et ranger pourtant les gens en supérieurs et inférieurs. Ce qui blesse dans l'inégalité n'est pas seulement le manque, c'est la domination : l'égalité qui compte est celle des rapports.",
+    "en": "Sufficientarianism measures justice by a basket of goods. But a society can meet every need and still sort people into superiors and inferiors. What wounds in inequality is not only the shortfall, it is domination: the equality that counts is equality of relations."
+  },
+  "development": [
+    {
+      "fr": "Le suffisantarisme mesure la justice à un panier de biens : chacun a-t-il assez ? Le seuil atteint, il se déclare satisfait.",
+      "en": "Sufficientarianism measures justice by a basket of goods: does each person have enough? Once the threshold is reached, it declares itself satisfied."
+    },
+    {
+      "fr": "Mais une société peut assurer à tous le nécessaire tout en rangeant les personnes en supérieurs et inférieurs : dépendants d'un patron, d'un mari, d'un bienfaiteur dont il faut quêter la faveur. Le panier est plein, la relation reste celle d'un obligé.",
+      "en": "But a society can secure the necessities for all while still sorting people into superiors and inferiors: dependent on a boss, a husband, a benefactor whose favor must be begged. The basket is full, the relation remains that of a dependent."
+    },
+    {
+      "fr": "Or ce qui blesse dans l'inégalité n'est pas seulement le manque, mais d'avoir à courber l'échine, de valoir moins comme personne. L'égalité qui compte est celle des <ax id='POLITICAL_LIBERTY' pole='NON_DOMINATION'>rapports</ax> : que nul ne se tienne au-dessus d'autrui.",
+      "en": "But what wounds in inequality is not only the shortfall, it is having to bow one's head, to count for less as a person. The equality that counts is equality of <ax id='POLITICAL_LIBERTY' pole='NON_DOMINATION'>relations</ax>: that no one stands above another."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc un plancher de suffisance ne suffit pas : la justice demande aussi que les personnes se tiennent en égales, sans domination, ce qui peut exiger de resserrer des écarts que la seule suffisance laisserait courir.",
+    "en": "So a floor of sufficiency is not enough: justice also requires that people stand as equals, without domination, which may demand narrowing gaps that sufficiency alone would let run."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": { "fr": "Anderson", "en": "Anderson" },
+    "figures": [{ "name": { "fr": "Elizabeth Anderson", "en": "Elizabeth Anderson" }, "kind": "PHILOSOPHER" }],
+    "work": { "fr": "« Quel est le sens de l'égalité ? »", "en": "'What Is the Point of Equality?'" },
+    "year": 1999
+  },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "Donner « assez » ne suffit pas si l'on reste un obligé : une société juste refuse aussi les hiérarchies humiliantes, quitte à resserrer les écarts.",
+        "en": "Giving 'enough' is not enough if one stays a dependent: a just society also refuses humiliating hierarchies, even at the cost of narrowing the gaps."
+      },
+      "hints": [{ "axisId": "DISTRIBUTIVE_JUSTICE", "value": { "kind": "scalar", "value": -0.6 }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous rejoignez l'égalitarisme relationnel d'Anderson : l'égalité vise d'abord des rapports entre pairs, non un montant de biens.",
+        "en": "You join Anderson's relational egalitarianism: equality aims first at relations among peers, not at an amount of goods."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je garde le seuil comme priorité, mais j'ajoute qu'il faut empêcher les rapports de domination, pas seulement combler les manques.",
+        "en": "I keep the threshold as the priority, but add that we must prevent relations of domination, not just fill the shortfalls."
+      },
+      "hints": [{ "axisId": "DISTRIBUTIVE_JUSTICE", "value": { "kind": "scalar", "value": -0.2 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Un suffisantarisme complété par un souci de non-domination : le plancher demeure, mais on surveille aussi le statut des personnes.",
+        "en": "A sufficientarianism completed by a concern for non-domination: the floor remains, but the standing of persons is watched too."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Les rapports d'égaux tiennent à des droits, au respect, à la voix de chacun, non au montant des comptes en banque. Garantir à tous le nécessaire et des droits égaux suffit.",
+        "en": "Relations among equals rest on rights, respect, and everyone's voice, not on the size of bank accounts. Guaranteeing all the necessities and equal rights is enough."
+      },
+      "hints": [{ "axisId": "DISTRIBUTIVE_JUSTICE", "value": { "kind": "scalar", "value": 0 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous découplez le statut des parts : l'égale dignité passe par les droits et le respect, que de grands écarts de fortune ne détruisent pas nécessairement.",
+        "en": "You decouple standing from shares: equal dignity runs through rights and respect, which large gaps in fortune need not necessarily destroy."
+      }
+    }
+  ],
+  "targets": ["sufficientarianism-enough"],
+  "problems": ["relational-equality", "sufficiency-floor"],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
+}

@@ -86,6 +86,222 @@
   "relatedAxes": [
     "PROBLEM_OF_EVIL",
     "COSMIC_OUTLOOK",
-    "HOPE"
+    "HOPE",
+    "HUMAN_ENHANCEMENT"
+  ],
+  "problems": [
+    {
+      "id": "the-ordeal-that-deepens",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "une épreuve traversée",
+        "en": "an ordeal lived through"
+      },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "sphere": "EXISTENTIAL",
+      "keywords": [
+        { "fr": "« ce qui ne me tue pas »", "en": "\"what does not kill me\"" },
+        { "fr": "épreuve", "en": "ordeal" },
+        { "fr": "endurcissement", "en": "hardening" }
+      ],
+      "poles": ["REDEMPTIVE_FECUNDITY", "ABOLITIONISM"],
+      "anchors": [
+        { "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" },
+        { "name": { "fr": "Pascal", "en": "Pascal" }, "kind": "PHILOSOPHER", "slug": "pascal" },
+        { "name": { "fr": "Simone Weil", "en": "Simone Weil" }, "kind": "PHILOSOPHER", "slug": "simone-weil" }
+      ],
+      "doorways": [{ "axis": "PROBLEM_OF_EVIL", "problem": "growth-through-evil" }],
+      "title": {
+        "fr": "L'épreuve qui approfondit",
+        "en": "The ordeal that deepens"
+      },
+      "explicitation": {
+        "fr": "Une épreuve traversée mûrit-elle, approfondit-elle, « ce qui ne me tue pas me rend plus fort » ? Ou n'est-ce là qu'une consolation, tant de douleurs ne faisant qu'écraser, aigrir, détruire ?",
+        "en": "Does an ordeal lived through ripen us, deepen us, \"what does not kill me makes me stronger\"? Or is that only a consolation, so much pain doing nothing but crush, embitter, destroy?"
+      }
+    },
+    {
+      "id": "useless-suffering",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "la douleur de l'innocent",
+        "en": "the innocent's pain"
+      },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "sphere": "MORAL",
+      "keywords": [
+        { "fr": "souffrance inutile", "en": "useless suffering" },
+        { "fr": "la douleur de l'enfant", "en": "the child's pain" },
+        { "fr": "Dostoïevski", "en": "Dostoevsky" }
+      ],
+      "poles": ["ABOLITIONISM"],
+      "anchors": [
+        { "name": { "fr": "Levinas", "en": "Levinas" }, "kind": "PHILOSOPHER", "slug": "levinas" },
+        { "name": { "fr": "Camus", "en": "Camus" }, "kind": "PHILOSOPHER", "slug": "camus" }
+      ],
+      "doorways": [{ "axis": "PROBLEM_OF_EVIL", "problem": "justifying-evil" }],
+      "title": {
+        "fr": "La souffrance inutile",
+        "en": "Useless suffering"
+      },
+      "explicitation": {
+        "fr": "Il est une douleur, celle de l'innocent, de l'enfant, que rien ne rachète et qu'aucun sens ne récupère : prétendre la justifier, n'est-ce pas déjà l'insulter ?",
+        "en": "There is a pain, that of the innocent, of the child, that nothing redeems and no meaning recovers: to claim to justify it, is that not already to insult it?"
+      }
+    },
+    {
+      "id": "pity-born-of-pain",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "le lien à autrui souffrant",
+        "en": "the bond with the suffering other"
+      },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "sphere": "MORAL",
+      "keywords": [
+        { "fr": "compassion", "en": "compassion" },
+        { "fr": "pitié", "en": "pity" },
+        { "fr": "solidarité", "en": "solidarity" }
+      ],
+      "poles": ["REDEMPTIVE_FECUNDITY", "ABOLITIONISM"],
+      "anchors": [
+        { "name": { "fr": "Schopenhauer", "en": "Schopenhauer" }, "kind": "PHILOSOPHER", "slug": "schopenhauer" },
+        { "name": { "fr": "Rousseau", "en": "Rousseau" }, "kind": "PHILOSOPHER", "slug": "rousseau" },
+        { "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" }
+      ],
+      "title": {
+        "fr": "La pitié naît-elle de la douleur ?",
+        "en": "Is pity born of pain?"
+      },
+      "explicitation": {
+        "fr": "Un monde sans souffrance serait-il un monde sans compassion, sans courage, sans solidarité ? La pitié suppose le malheur d'autrui : faut-il pour autant garder le mal pour ses fruits, ou peut-on cueillir les fruits sans l'arbre ?",
+        "en": "Would a world without suffering be a world without compassion, without courage, without solidarity? Pity presupposes another's misfortune: must we then keep the evil for its fruits, or can we pick the fruits without the tree?"
+      }
+    },
+    {
+      "id": "ending-suffering",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "l'existence sensible",
+        "en": "sentient existence"
+      },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "sphere": "VITAL",
+      "keywords": [
+        { "fr": "cessation", "en": "cessation" },
+        { "fr": "nirvana", "en": "nirvana" },
+        { "fr": "projet abolitionniste", "en": "abolitionist project" }
+      ],
+      "poles": ["ABOLITIONISM"],
+      "anchors": [
+        { "name": { "fr": "le bouddhisme", "en": "Buddhism" }, "kind": "MOVEMENT", "slug": "buddhism" },
+        { "name": { "fr": "l'utilitarisme", "en": "utilitarianism" }, "kind": "MOVEMENT", "slug": "utilitarianism" },
+        { "name": { "fr": "le transhumanisme", "en": "transhumanism" }, "kind": "MOVEMENT", "slug": "transhumanism" }
+      ],
+      "doorways": [{ "axis": "HUMAN_ENHANCEMENT" }],
+      "title": {
+        "fr": "En finir avec la souffrance",
+        "en": "Doing away with suffering"
+      },
+      "explicitation": {
+        "fr": "Faut-il viser l'abolition de toute souffrance, par la cessation spirituelle du désir qui l'engendre ou par une ingénierie qui l'effacerait de nos corps ? Une vie sans nulle douleur serait-elle encore humaine, encore désirable ?",
+        "en": "Should we aim at the abolition of all suffering, whether by the spiritual cessation of the desire that breeds it or by an engineering that would erase it from our bodies? Would a life with no pain at all still be human, still desirable?"
+      }
+    },
+    {
+      "id": "the-indifferent",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "l'épreuve et notre jugement",
+        "en": "the ordeal and our judgment"
+      },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "sphere": "EXISTENTIAL",
+      "keywords": [
+        { "fr": "les indifférents", "en": "the indifferents" },
+        { "fr": "« nos jugements sur les choses »", "en": "\"our judgments about things\"" },
+        { "fr": "fermeté", "en": "steadfastness" }
+      ],
+      "poles": ["REDEMPTIVE_FECUNDITY", "ABOLITIONISM"],
+      "anchors": [
+        { "name": { "fr": "Épictète", "en": "Epictetus" }, "kind": "PHILOSOPHER", "slug": "epictetus" },
+        { "name": { "fr": "Marc Aurèle", "en": "Marcus Aurelius" }, "kind": "PHILOSOPHER", "slug": "marcus-aurelius" },
+        { "name": { "fr": "Sénèque", "en": "Seneca" }, "kind": "PHILOSOPHER", "slug": "seneca" }
+      ],
+      "title": {
+        "fr": "Ni bien ni mal : l'indifférent",
+        "en": "Neither good nor evil: the indifferent"
+      },
+      "explicitation": {
+        "fr": "Ce ne sont peut-être pas les choses qui nous troublent, mais nos jugements sur elles : la souffrance ne déciderait pas de notre bonheur, seule le ferait la fermeté avec laquelle on la traverse. Sagesse, ou déni d'un mal bien réel ?",
+        "en": "Perhaps it is not things that trouble us, but our judgments about them: suffering would not decide our happiness, only the steadfastness with which we endure it would. Wisdom, or denial of a very real evil?"
+      }
+    },
+    {
+      "id": "meaning-found-or-lent",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "la place de la souffrance dans un ordre",
+        "en": "suffering's place in an order"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "providence", "en": "providence" },
+        { "fr": "« tout arrive pour une raison »", "en": "\"everything happens for a reason\"" },
+        { "fr": "consolation", "en": "consolation" }
+      ],
+      "poles": ["REDEMPTIVE_FECUNDITY", "ABOLITIONISM"],
+      "anchors": [
+        { "name": { "fr": "Leibniz", "en": "Leibniz" }, "kind": "PHILOSOPHER", "slug": "leibniz" },
+        { "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" },
+        { "name": { "fr": "Freud", "en": "Freud" }, "kind": "PHILOSOPHER", "slug": "freud" }
+      ],
+      "doorways": [{ "axis": "COSMIC_OUTLOOK" }, { "axis": "PROBLEM_OF_EVIL" }],
+      "title": {
+        "fr": "Un sens trouvé, ou prêté ?",
+        "en": "A meaning found, or lent?"
+      },
+      "explicitation": {
+        "fr": "La souffrance porte-t-elle un sens, inscrite dans un ordre qui lui fait une place, ou lui en prêtons-nous un après coup, pour la rendre supportable ?",
+        "en": "Does suffering carry a meaning, set within an order that gives it a place, or do we lend it one after the fact, to make it bearable?"
+      }
+    },
+    {
+      "id": "hope-through-suffering",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "celui qui souffre",
+        "en": "the one who suffers"
+      },
+      "mode": "PRESCRIPTIVE",
+      "relation": "RELATED",
+      "sphere": "EXISTENTIAL",
+      "keywords": [
+        { "fr": "espérance", "en": "hope" },
+        { "fr": "consolation", "en": "consolation" }
+      ],
+      "doorways": [{ "axis": "HOPE" }],
+      "title": {
+        "fr": "Espérer par-delà la souffrance",
+        "en": "Hoping beyond suffering"
+      },
+      "explicitation": {
+        "fr": "Traverser la douleur en espérant un après, une guérison, un salut : est-ce la réponse la plus juste au malheur, ou une évasion qui nous détourne de le regarder en face ?",
+        "en": "To pass through pain while hoping for an after, a healing, a salvation: is that the truest response to misfortune, or an escape that turns us from facing it?"
+      }
+    }
   ]
 }

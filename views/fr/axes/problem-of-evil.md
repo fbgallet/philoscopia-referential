@@ -20,19 +20,30 @@ Le mal n'est qu'apparent ou nécessaire dans la perspective du tout : un Dieu in
 
 Le mal moral est le prix de la liberté : Dieu a voulu des créatures libres, capables d'aimer et de choisir le bien, donc capables aussi de faire le mal. La faute vient de l'homme, non du créateur.
 
-*[Augustin](../philosophers/augustine.md) · Plantinga*
+*[Augustin](../philosophers/augustine.md) · [Plantinga](../philosophers/plantinga.md)*
 
 ### Révolte / anti-théodicie
 
 Vouloir justifier le mal est en soi une faute morale : aucune harmonie finale ne rachète la souffrance d'un seul enfant innocent. Devant le mal, il n'y a pas d'explication acceptable, mais une révolte ou un silence.
 
-*Dostoïevski · [Levinas](../philosophers/levinas.md)*
+*[Dostoïevski](../philosophers/dostoevsky.md) · [Levinas](../philosophers/levinas.md)*
 
 ### Argument du mal (athéisme)
 
 L'existence d'un mal massif et gratuit est incompatible avec un Dieu à la fois bon, tout-puissant et omniscient : ou il ne peut l'empêcher, ou il ne le veut pas. Le mal est le meilleur argument contre Dieu.
 
 *[Épicure](../philosophers/epicurus.md) · [Hume](../philosophers/hume.md)*
+
+## Problèmes vifs
+
+- **L'énigme d'Épicure** : Dieu peut-il empêcher le mal sans le vouloir, ou le veut-il sans le pouvoir ? Une des trois choses, sa puissance, sa bonté, ou la réalité du mal, doit céder : laquelle ?
+- **Le mal sans coupable** : Le libre arbitre excuse le mal que font les hommes ; mais le séisme, la maladie, la douleur des bêtes ne sont la faute de personne : que reste-t-il alors pour disculper le créateur ?
+- **Le mal de trop** : Même sans contradiction stricte, la masse de souffrances apparemment inutiles, un faon agonisant seul dans un feu de forêt, ne rend-elle pas hautement improbable un Dieu bon qui veillerait sur tout ?
+- **Justifier le mal ?** : Chercher une raison au malheur de l'innocent, n'est-ce pas déjà une faute, une insulte à sa douleur, et la seule attitude juste devant certains maux n'est-elle pas la révolte ou le silence ?
+- **Les raisons cachées de Dieu** : Et si les fins qui justifient le mal excédaient tout entendement humain ? À Job qui réclame des comptes, Dieu ne répond pas par des raisons, mais par la seule immensité de sa création.
+- **Et si Dieu ne pouvait pas tout ?** : On peut sauver la bonté de Dieu en lui ôtant la toute-puissance : un Dieu qui se retire et se limite, ou face auquel le mal serait un principe rival qu'il ne crée pas.
+- **L'épreuve qui élève** : Peut-être le mal est-il permis pour que les âmes mûrissent, le monde étant « une vallée où se font les âmes » plutôt qu'un paradis tout donné.
+- **Le silence de Dieu** : À côté du mal, une autre absence accuse : celle d'un Dieu qui, s'il existait et nous aimait, ne se laisserait pas chercher en vain.
 
 ## Relations de fondation
 

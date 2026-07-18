@@ -34,6 +34,10 @@ Le pardon suppose que le coupable reconnaisse sa faute et la regrette : pardonne
 - **Le pardon des peuples** : Une nation peut-elle pardonner, par l'amnistie ou la réconciliation, les crimes commis en son sein, ou le pardon n'a-t-il de sens qu'entre les personnes qui ont vécu le tort ?
 - **Un devoir ou un surcroît ?** : Doit-on le pardon, comme une obligation envers qui se repent, ou est-il un don gratuit, au-delà du devoir, qu'on ne saurait exiger de personne ?
 
+## Citations
+
+> « Pardonner et oublier, c'est jeter par la fenêtre de précieuses expériences qu'on a chèrement acquises. » — [Schopenhauer](../philosophers/schopenhauer.md), Parerga et Paralipomena, « Aphorismes sur la sagesse dans la vie »
+
 ## Axes liés
 
 [Rapport au passé](../axes/past-relation.md) · [Sens de la peine](../axes/punishment.md) · [Exigence morale](../axes/moral-demand.md) · [La violence](../axes/violence.md)

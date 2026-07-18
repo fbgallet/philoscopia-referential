@@ -31,6 +31,16 @@ Neither renunciation nor excess: enjoy the pleasures of the body, but in measure
 - *[Being or having a body](../axes/embodiment.md) : The body as instrument* grounds *[Bodily pleasures](../axes/bodily-pleasures.md) : Asceticism* : If the body is merely an instrument, even a prison of the soul, then its pleasures distract from what is essential and must be disciplined. The body-as-instrument conception grounds asceticism: from [Plato](../philosophers/plato.md), for whom the body is the tomb of the soul, to the Christian ascetics, mastery of desire frees us for the higher goods.
 - *[Being or having a body](../axes/embodiment.md) : The lived body* grounds *[Bodily pleasures](../axes/bodily-pleasures.md) : Celebration* : If I am not a soul housed in a machine but this living body itself, then its pleasures are not traps but a part of the good life. The lived-body thesis grounds the celebration of bodily pleasures: [Nietzsche](../philosophers/nietzsche.md) sees in contempt for the body a resentment against life, and invites us to savour its joys with gratitude.
 
+## Quotations
+
+> “These two extremes, monks, should not be followed by one who has gone forth: the pursuit of sensual pleasure, and the pursuit of self-mortification.” — [The Buddha](../philosophers/buddha.md), Dhammacakkappavattana Sutta (Saṃyutta Nikāya 56.11)
+
+> “Bread and water yield the highest pleasure when brought to hungry lips.” — [Epicurus](../philosophers/epicurus.md), Vatican Sayings, 33
+
+> “It is no more necessary for the saint to be a philosopher than for the philosopher to be a saint; just as it is not necessary for a perfectly beautiful person to be a great sculptor, or for a great sculptor to be a beautiful person.” — [Schopenhauer](../philosophers/schopenhauer.md), The World as Will and Representation, §68
+
+> “Bread and water confer the highest pleasure when one brings them to needy lips.” — [Epicurus](../philosophers/epicurus.md), Vatican Sayings, 59 (cf. Letter to Menoeceus)
+
 ## Related axes
 
 [Being or having a body](../axes/embodiment.md) · [Beauty in life](../axes/aesthetic-life.md) · [Relation to desire](../axes/desire.md) · [The highest good](../axes/sovereign-good.md)

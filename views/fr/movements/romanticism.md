@@ -145,7 +145,7 @@ Vie examinée 85% · Primat de l'action 15%
 
 Le réel le plus haut ne s'atteint pas au-dehors, dans l'action ou le fait, mais au-dedans : rêve, souvenir, nuit, profondeurs obscures du moi deviennent la vraie patrie. Le chemin du romantique vers l'infini passe par la descente en soi plutôt que par la prise sur le monde.
 
-> « Le chemin mystérieux va vers l'intérieur. C'est en nous, ou nulle part, qu'est l'éternité avec ses mondes, le passé et l'avenir. » (Novalis, Pollen)
+> « Le chemin mystérieux va vers l'intérieur. C'est en nous, ou nulle part, qu'est l'éternité avec ses mondes, le passé et l'avenir. », Pollen
 
 *Sources : Novalis, Pollen · Rousseau, Les Rêveries du promeneur solitaire*
 

@@ -24,7 +24,7 @@ Matérialisme 100%
 
 Tout part de deux principes que Lucrèce établit avant toute autre chose : rien ne naît du néant, rien n'y retourne. S'il en allait autrement, tout pourrait sortir de tout, sans semence ni saison ; or l'expérience montre des natures fixes et des cycles réglés, donc le réel se réduit à des corps premiers, les atomes, et au vide qui les laisse se mouvoir. Hors de ce couple, rien n'existe par soi : l'âme et l'esprit eux-mêmes sont des agrégats d'atomes très fins, et il n'y a aucune place pour une substance immatérielle. Ce matérialisme intégral, hérité de Démocrite et d'[Épicure](../philosophers/epicurus.md), Lucrèce le déploie en système complet et le donne à voir, du grain de poussière dansant dans un rayon de soleil jusqu'à l'infini des mondes.
 
-> « Rien ne se crée jamais de rien par une volonté divine. » (De la nature des choses, I, 150)
+> « Rien ne se crée jamais de rien par une volonté divine. », De la nature des choses, I, 150
 
 *Sources : De la nature des choses, I, 146-264 (rien ne naît du néant, rien n'y retourne) · De la nature des choses, I, 418-448 (le tout est corps et vide)*
 
@@ -46,7 +46,7 @@ Mécanisme 100%
 
 La nature ne poursuit aucune fin et ne fut réglée par aucun dessein : les choses se font par la seule rencontre mécanique des atomes au long d'un temps infini, où se sont formées toutes les combinaisons possibles et où n'ont subsisté que celles capables de durer. De là un renversement célèbre du finalisme : « aucun membre du corps ne fut produit pour notre usage », c'est l'inverse, l'organe existe d'abord et l'usage vient après. Chercher un but à l'œil, à la main ou aux astres est donc une illusion, et Lucrèce raille ceux qui croient le monde fait pour les hommes. C'est un [mécanisme](../axes/causality.md) intégral, où seule la déclinaison du [clinamen](../glossary/clinamen.md) introduit du jeu sans réintroduire de fin.
 
-> « Rien dans le corps ne fut produit afin que nous puissions en user : c'est ce qui est né qui crée l'usage. » (De la nature des choses, IV, 833-835)
+> « Rien dans le corps ne fut produit afin que nous puissions en user : c'est ce qui est né qui crée l'usage. », De la nature des choses, IV, 833-835
 
 *Sources : De la nature des choses, IV, 823-857 (rien dans le corps ne fut fait pour servir) · De la nature des choses, V, 156-234 (le monde n'a pas été fait pour les hommes)*
 
@@ -58,7 +58,7 @@ Libre arbitre 80% · Déterminisme dur 20%
 
 Si les atomes ne faisaient que tomber tout droit dans le vide par leur seul poids, ils ne se rencontreraient jamais et la nécessité enchaînerait toute cause à une autre sans fin : ni les chocs créateurs de mondes, ni surtout cette « volonté arrachée aux destins » que chaque vivant éprouve en s'élançant ne seraient possibles. Lucrèce pose donc le [clinamen](../glossary/clinamen.md), l'écart minime, à un instant et un lieu indéterminés, par lequel un atome dévie de sa chute, brisant la chaîne du [déterminisme](../glossary/determinism.md). C'est le texte qui nous transmet l'argument : ce grain d'[indétermination](../glossary/indeterminism.md) à la racine de la matière fonde, contre le destin des physiciens, le [libre arbitre](../glossary/free-will.md) dont nous avons l'évidence intérieure.
 
-> « D'où vient cette volonté arrachée aux destins, par quoi nous allons où chacun se porte ? La déclinaison rompt les lois du destin. » (De la nature des choses, II, 251-260)
+> « D'où vient cette volonté arrachée aux destins, par quoi nous allons où chacun se porte ? La déclinaison rompt les lois du destin. », De la nature des choses, II, 251-260
 
 *Sources : De la nature des choses, II, 216-293 (la déclinaison et la volonté arrachée aux destins)*
 
@@ -70,7 +70,7 @@ Théisme 70% · Athéisme 30%
 
 Lucrèce ne nie pas l'existence des dieux : faits d'atomes subtils, ils mènent une vie immortelle et parfaitement paisible dans les [intermondes](../glossary/intermundia.md), sans nul souci du nôtre. Mais il en tire une conséquence radicale : un être bienheureux n'a ni colère ni faveur, donc nulle [providence](../glossary/providence.md) ne gouverne le monde, nul dieu ne le fit ni ne récompense ou châtie. La preuve en est le spectacle même de la nature, trop pleine de défauts pour être l'ouvrage d'une puissance divine. Cette position n'est donc pas un athéisme, dont on l'accusa, mais une théologie sans [providence](../glossary/providence.md) : les dieux ne créent ni ne gouvernent rien, et la pointe en est polémique : « tant la religion put conseiller de crimes », c'est elle, non l'impiété, qui est le véritable mal à combattre.
 
-> « Tant la religion put conseiller de crimes. » (De la nature des choses, I, 101)
+> « Tant la religion put conseiller de crimes. », De la nature des choses, I, 101
 
 *Sources : De la nature des choses, I, 62-101 (la religion source de crimes, le sacrifice d'Iphigénie) · De la nature des choses, V, 146-234 (les dieux des intermondes ; le monde trop défectueux pour être divin)*
 
@@ -92,7 +92,7 @@ La mort n'est rien 100%
 
 Puisque l'âme est corporelle et naît, croît et vieillit avec le corps, elle se dissout avec lui : tout sentir cesse alors, et un sujet qui n'est plus ne peut éprouver aucun mal. « La mort n'est donc rien pour nous », conclusion qu'Épicure tenait déjà ; mais Lucrèce y consacre tout le livre III et en fait une longue consolation, multipliant les preuves de la mortalité de l'âme et l'argument de la symétrie : nous ne nous affligeons pas du néant d'avant notre naissance, pourquoi craindre celui d'après notre mort, qui lui ressemble en tout ? Vouloir survivre est se contredire, car le mort n'aura plus de manque ni de regret. La consolation s'élargit à une réplique à la nature elle-même, qui reproche aux vivants leur ingratitude et leur soif de durer.
 
-> « La mort n'est donc rien pour nous et ne nous touche en rien, puisque la nature de l'âme est tenue pour mortelle. » (De la nature des choses, III, 830-831)
+> « La mort n'est donc rien pour nous et ne nous touche en rien, puisque la nature de l'âme est tenue pour mortelle. », De la nature des choses, III, 830-831
 
 *Sources : De la nature des choses, III, 417-829 (l'âme mortelle ; la mort n'est rien pour nous) · De la nature des choses, III, 830-1094 (l'argument de la symétrie ; la diatribe de la Nature)*
 
@@ -184,7 +184,7 @@ Hédonisme 90% · Eudémonisme 10%
 
 Le bien suprême est le plaisir entendu comme paix, non comme jouissance : la fin de toute la physique est l'[ataraxie](../glossary/ataraxia.md), l'état où, les peurs des dieux et de la mort dissipées, plus rien ne trouble l'âme. La nature, dit Lucrèce, ne réclame qu'une chose, un corps sans douleur et un esprit affranchi de souci et de crainte. Cette définition du souverain bien est reprise d'[Épicure](../philosophers/epicurus.md) ; Lucrèce en fait le but avoué de son poème et l'image fameuse du sage qui, du rivage, contemple sans péril les naufragés.
 
-> « La nature ne réclame pour elle rien d'autre que ceci : que la douleur soit écartée du corps, et que l'esprit jouisse d'un sentiment agréable, libre de soin et de crainte. » (De la nature des choses, II, 16-19)
+> « La nature ne réclame pour elle rien d'autre que ceci : que la douleur soit écartée du corps, et que l'esprit jouisse d'un sentiment agréable, libre de soin et de crainte. », De la nature des choses, II, 16-19
 
 *Sources : De la nature des choses, II, 1-61 (le proème : suave mari magno ; la nature réclame peu)*
 

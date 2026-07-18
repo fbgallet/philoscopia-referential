@@ -45,16 +45,7 @@
           "fr": "La philosophie est une médecine de l'âme : sa parole est vaine si elle ne soigne aucune souffrance. Jeune ou vieux, il n'est jamais trop tôt ni trop tard pour philosopher, c'est-à-dire pour travailler à la santé de l'âme ; même l'étude de la nature n'a d'autre fin que de dissiper les craintes, des dieux et de la mort, qui troublent la vie.",
           "en": "Philosophy is medicine for the soul: its word is empty if it heals no suffering. Young or old, it is never too early nor too late to philosophize, that is, to work at the health of the soul; even the study of nature has no other end than to dispel the fears, of the gods and of death, that trouble our life."
         },
-        "quote": {
-          "text": {
-            "fr": "Vaine est la parole du philosophe qui ne soigne aucune souffrance humaine.",
-            "en": "Empty is the word of the philosopher that heals no human suffering."
-          },
-          "source": {
-            "fr": "fragment 221 Usener (Porphyre, Lettre à Marcella, 31)",
-            "en": "fr. 221 Usener (Porphyry, Letter to Marcella, 31)"
-          }
-        },
+        "quoteId": "vaine-est-la-parole-du-philosophe-epicurus",
         "references": [
           {
             "fr": "Lettre à Ménécée, 122",
@@ -155,16 +146,7 @@
             "en": "Principal Doctrines, III and XVIII (the limits of pleasure)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Le plaisir est le commencement et la fin de la vie bienheureuse.",
-            "en": "Pleasure is the beginning and the end of the blessed life."
-          },
-          "source": {
-            "fr": "Lettre à Ménécée, 128",
-            "en": "Letter to Menoeceus, 128"
-          }
-        },
+        "quoteId": "le-plaisir-est-le-commencement-et-epicurus",
         "strength": "STRONG"
       }
     },
@@ -193,16 +175,7 @@
             "en": "Principal Doctrines, II"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "La mort n'est rien pour nous ; car ce qui est dissous est privé de sensation, et ce qui est privé de sensation n'est rien pour nous.",
-            "en": "Death is nothing to us; for that which is dissolved is without sensation, and that which lacks sensation is nothing to us."
-          },
-          "source": {
-            "fr": "Maximes capitales, II",
-            "en": "Principal Doctrines, II"
-          }
-        },
+        "quoteId": "la-mort-n-est-rien-pour-epicurus",
         "strength": "STRONG"
       }
     },
@@ -234,16 +207,7 @@
             "en": "Principal Doctrines, XXIX and XXX (the classification of desires)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Parmi les désirs, les uns sont naturels et nécessaires, les autres naturels et non nécessaires, les autres ni naturels ni nécessaires, mais nés d'une opinion vide.",
-            "en": "Of the desires, some are natural and necessary, some natural but not necessary, and some neither natural nor necessary but arising from empty opinion."
-          },
-          "source": {
-            "fr": "Maximes capitales, XXIX",
-            "en": "Principal Doctrines, XXIX"
-          }
-        },
+        "quoteId": "parmi-les-desirs-les-uns-sont-epicurus",
         "strength": "STRONG"
       }
     },
@@ -302,16 +266,7 @@
             "en": "Lucretius, On the Nature of Things, I-II"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Le tout est constitué de corps et de vide.",
-            "en": "The totality of things is made of bodies and void."
-          },
-          "source": {
-            "fr": "Lettre à Hérodote, 39",
-            "en": "Letter to Herodotus, 39"
-          }
-        },
+        "quoteId": "le-tout-est-constitue-de-corps-epicurus",
         "strength": "STRONG"
       }
     },
@@ -366,16 +321,7 @@
             "en": "Principal Doctrines, I (the blessed and incorruptible being knows neither trouble nor anger)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "L'être bienheureux et incorruptible n'a pas de soucis lui-même et n'en cause pas à autrui ; il n'est donc accessible ni à la colère ni à la faveur.",
-            "en": "The blessed and incorruptible being neither has trouble itself nor causes trouble to another; hence it is moved neither by anger nor by favour."
-          },
-          "source": {
-            "fr": "Maximes capitales, I",
-            "en": "Principal Doctrines, I"
-          }
-        },
+        "quoteId": "l-etre-bienheureux-et-incorruptible-n-epicurus",
         "strength": "STRONG"
       }
     },
@@ -484,16 +430,7 @@
             "en": "Principal Doctrines, XV (the wealth required by nature is easily obtained)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Le pain et l'eau procurent le plaisir le plus élevé quand on les porte à des lèvres qui en ont besoin.",
-            "en": "Bread and water confer the highest pleasure when one brings them to needy lips."
-          },
-          "source": {
-            "fr": "Sentences vaticanes, 59 (cf. Lettre à Ménécée)",
-            "en": "Vatican Sayings, 59 (cf. Letter to Menoeceus)"
-          }
-        },
+        "quoteId": "le-pain-et-l-eau-procurent-epicurus",
         "strength": "STRONG"
       }
     },
@@ -575,16 +512,7 @@
             "en": "Principal Doctrines, XIV (security through withdrawal from the crowd)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Vis caché.",
-            "en": "Live unnoticed."
-          },
-          "source": {
-            "fr": "Fragment 551 Usener (lathe biôsas)",
-            "en": "Fragment 551 Usener (lathe biosas)"
-          }
-        },
+        "quoteId": "vis-cache-epicurus",
         "strength": "MEDIUM"
       }
     },
@@ -667,16 +595,7 @@
             "en": "Principal Doctrines, XXXI-XXXVIII (justice as a compact of utility)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "La justice naturelle est un pacte d'utilité conclu en vue de ne pas se nuire les uns aux autres et de ne pas en subir de dommage.",
-            "en": "Natural justice is a compact of advantage, made to the end that men may neither harm one another nor be harmed."
-          },
-          "source": {
-            "fr": "Maximes capitales, XXXI",
-            "en": "Principal Doctrines, XXXI"
-          }
-        },
+        "quoteId": "la-justice-naturelle-est-un-pacte-epicurus",
         "strength": "STRONG"
       }
     },
@@ -878,16 +797,7 @@
           "fr": "Le sage épicurien ne cherche ni la passion ni l'extase de l'union, mais l'<c id='philia'>amitié</c> : de tous les biens que la sagesse procure pour le bonheur de la vie entière, il en fait le plus grand (<w id='principal-doctrines-epicurus'>Maximes capitales</w>, <w id='vatican-sayings-epicurus'>Sentences vaticanes</w>). Née d'abord du besoin de sécurité, elle affranchit de la crainte d'autrui et soutient l'<c id='ataraxia'>ataraxie</c> ; mais Épicure passe du calcul au lien, car le sage finit par chérir l'ami pour lui-même et risquerait au besoin sa vie pour lui. C'est une amitié sans ciel ni instinct d'espèce, réciproque et cultivée dans le <c>Jardin</c> ; seule la trace de son origine utilitaire lui laisse une faible part de manque comblé.",
           "en": "The Epicurean sage seeks neither passion nor the ecstasy of union, but <c id='philia'>friendship</c>: of all the things wisdom provides for the happiness of a whole life, he makes it the greatest (<w id='principal-doctrines-epicurus'>Principal Doctrines</w>, <w id='vatican-sayings-epicurus'>Vatican Sayings</w>). Born at first from the need for security, it frees us from the fear of others and sustains <c id='ataraxia'>ataraxia</c>; yet Epicurus moves from calculation to bond, for the sage comes to cherish the friend for his own sake and would, if need be, risk his life for him. This is a friendship with neither heaven nor the instinct of the species, reciprocal and cultivated in the <c>Garden</c>; only the trace of its utilitarian origin leaves it a slight share of lack being filled."
         },
-        "quote": {
-          "text": {
-            "fr": "De tout ce que la sagesse procure pour le bonheur de la vie entière, de bien loin le plus grand est l'acquisition de l'amitié.",
-            "en": "Of all the things that wisdom provides for the happiness of a whole life, by far the greatest is the possession of friendship."
-          },
-          "source": {
-            "fr": "Maximes capitales, XXVII",
-            "en": "Principal Doctrines, XXVII"
-          }
-        },
+        "quoteId": "de-tout-ce-que-la-sagesse-epicurus",
         "references": [
           {
             "fr": "Maximes capitales, XXVII",

@@ -74,7 +74,7 @@ Empirisme 95% · Rationalisme 5%
 
 Si une idée était vraiment [innée](../glossary/innate-ideas.md), elle serait universellement reconnue ; or ni « ce qui est est » ni aucun principe moral ne l'est des enfants, des idiots ou des peuples lointains. Locke retourne ainsi l'argument cartésien du consentement universel contre [Descartes](../philosophers/descartes.md) et l'école rationaliste : l'esprit à la naissance est une [table rase](../glossary/tabula-rasa.md), et toute idée se laisse retracer jusqu'à la sensation (les objets extérieurs) ou la réflexion (les opérations de l'esprit sur ses propres idées). Le pari est fort : montrer que ces deux seules sources suffisent à composer tout le contenu de la pensée, jusqu'aux notions les plus abstraites.
 
-> « Supposons donc que l'esprit soit, comme on dit, un papier blanc, vide de tout caractère, sans aucune idée : comment vient-il à en être pourvu ? ... À cela je réponds d'un seul mot : par l'expérience. » (Essai sur l'entendement humain, II, ch. 1, §2)
+> « Supposons donc que l'esprit soit, comme on dit, un papier blanc, vide de tout caractère, sans aucune idée : comment vient-il à en être pourvu ? ... À cela je réponds d'un seul mot : par l'expérience. », Essai sur l'entendement humain, II, ch. 1, §2
 
 *Sources : Essai sur l'entendement humain, I (contre les idées innées) et II, ch. 1 (sensation et réflexion)*
 
@@ -106,7 +106,7 @@ Locke distingue l'essence réelle d'une chose (sa constitution interne, inconnue
 
 Puisque notre savoir des faits reste borné au probable, l'usage correct de l'entendement n'est pas de croire fermement, mais de mesurer son assentiment aux preuves : la fermeté de la croyance doit suivre exactement le poids des raisons. D'où une norme proprement évidentialiste, où croire au-delà de ce que les preuves autorisent devient une faute, non contre la prudence, mais contre la raison elle-même. Locke en tire l'arme dirigée contre l'enthousiasme, cette prétention à une lumière intérieure qui dispense de preuve, et fonde sur elle son exigence de tolérance : une conviction non examinée n'autorise personne à l'imposer à autrui.
 
-> « Le degré de notre assentiment doit être réglé sur les fondements de probabilité de la chose. » (Essai sur l'entendement humain, IV, ch. 15-16 (la probabilité et les degrés d'assentiment))
+> « Le degré de notre assentiment doit être réglé sur les fondements de probabilité de la chose. », Essai sur l'entendement humain, IV, ch. 15-16 (la probabilité et les degrés d'assentiment)
 
 *Sources : Essai sur l'entendement humain, IV, ch. 16 (les degrés d'assentiment) et ch. 19 (l'enthousiasme)*
 
@@ -138,7 +138,7 @@ Continuité psychologique 100%
 
 Locke détache l'identité personnelle de la substance, qu'elle soit matérielle ou spirituelle : ce qui fait de moi la même personne dans le temps, c'est la continuité de la conscience, et notamment la mémoire qui rattache mes actions passées à mon présent. La personne est ainsi un terme forensique, lié à l'imputation : une [continuité psychologique](../axes/self-nature.md) avant la lettre.
 
-> « L'identité personnelle s'étend aussi loin que la conscience peut remonter sur une action ou une pensée passée. » (Essai sur l'entendement humain, II, ch. 27, §9)
+> « L'identité personnelle s'étend aussi loin que la conscience peut remonter sur une action ou une pensée passée. », Essai sur l'entendement humain, II, ch. 27, §9
 
 *Sources : Essai sur l'entendement humain, II, ch. 27 (« De l'identité et de la diversité »)*
 
@@ -150,7 +150,7 @@ Culturalisme 88% · Naturalisme 13%
 
 Conséquence directe de la [table rase](../glossary/tabula-rasa.md) : ce que devient un homme tient bien plus à l'éducation, à l'habitude et au milieu qu'à une nature donnée d'avance. Locke estime que la quasi-totalité des différences entre les hommes vient de la formation reçue, ce qui fait de lui un tenant fort du [culturalisme](../axes/human-nature.md).
 
-> « Des hommes que nous rencontrons, neuf sur dix sont ce qu'ils sont, bons ou mauvais, utiles ou non, par leur éducation. » (Quelques pensées sur l'éducation, §1)
+> « Des hommes que nous rencontrons, neuf sur dix sont ce qu'ils sont, bons ou mauvais, utiles ou non, par leur éducation. », Quelques pensées sur l'éducation, §1
 
 *Sources : Quelques pensées sur l'éducation, §1 (« neuf hommes sur dix sont ce qu'ils sont par l'éducation »)*
 
@@ -192,7 +192,7 @@ Libertarianisme 83% · Égalitarisme 18%
 
 Si la terre est donnée en commun à tous, comment un bien peut-il devenir mien sans le consentement de chacun ? La réponse de Locke part d'un titre antérieur à tout pacte : chacun est propriétaire de sa propre personne, donc du travail de son corps. En mêlant ce travail à une chose commune, j'y incorpore quelque chose qui est déjà mien et l'en retire légitimement, sans devoir l'accord d'autrui. La propriété est ainsi un droit naturel fondé sur le travail, antérieur à l'État, ce qui place Locke du côté [libertarien](../axes/distributive-justice.md) de l'axe. Mais la fameuse clause lockéenne, en laisser « assez et d'aussi bon pour les autres », y inscrit d'emblée une limite morale à l'appropriation.
 
-> « Le travail de son corps et l'ouvrage de ses mains sont proprement à lui : ce qu'il a tiré de l'état où la nature l'avait laissé, il y a joint son travail, et y a ajouté quelque chose qui est à lui. » (Traités du gouvernement civil, II, ch. 5, §27)
+> « Le travail de son corps et l'ouvrage de ses mains sont proprement à lui : ce qu'il a tiré de l'état où la nature l'avait laissé, il y a joint son travail, et y a ajouté quelque chose qui est à lui. », Traités du gouvernement civil, II, ch. 5, §27
 
 *Sources : Traités du gouvernement civil, II, ch. 5 (« De la propriété », travail et clause lockéenne)*
 

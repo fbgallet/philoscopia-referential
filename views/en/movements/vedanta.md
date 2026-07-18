@@ -66,7 +66,7 @@ Substantialism 100%
 
 The decisive argument is that of the witness: whatever I can deny or objectify, the body, the sensations, the passing thoughts, I grasp as "that," distinct from the "I" that observes it; this witnessing subject can therefore never be reduced to the object it lights up, and the consciousness that would establish its own annihilation would have, in order to observe it, to remain. This Self-consciousness, the condition of all experience, is uncompounded, and what is uncompounded cannot fall apart: it is eternal, and its identity with [brahman](../glossary/brahman.md) is the very teaching of the "great sayings" of the Upaniṣads. Here Advaita parts squarely from Buddhism: where [anattā (non-self)](../glossary/anatta.md) sees behind the flux of aggregates only an impermanent series without a subject, Advaita retorts that no flux could appear as a flux without a stable consciousness running through it and attesting to it.
 
-> “Thou art that.” (Chāndogya Upaniṣad, VI, 8, 7 (tat tvam asi))
+> “Thou art that.”, Chāndogya Upaniṣad, VI, 8, 7 (tat tvam asi)
 
 *Sources : Bṛhadāraṇyaka Upaniṣad; Chāndogya Upaniṣad, VI, 8 (tat tvam asi) · Śaṅkara, Commentary on the Brahma-Sūtras (Brahma-Sūtra-Bhāṣya)*
 

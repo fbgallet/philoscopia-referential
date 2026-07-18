@@ -44,6 +44,14 @@ We can neither prove that God exists nor prove that he does not: the question ex
 - **Does meaning need God?** : Without God, does life lose all meaning, or can meaning be built entirely on a human scale?
 - **Does morality need God?** : Does the good owe its value to God's will, or is it good independently of him? If God did not exist, would everything be permitted?
 
+## Arguments
+
+- *Theism* · for : [The contingency argument](../arguments/theism-contingency-argument.md)
+- *Theism* · against : [Evil against God](../arguments/theism-problem-of-evil-objection.md)
+- *Atheism* · for : [God as human projection](../arguments/atheism-projection-argument.md)
+- *Atheism* · against : [Origin does not settle truth](../arguments/atheism-genetic-fallacy-objection.md)
+- *Agnosticism (Huxley)* · for : [Neither prove nor refute](../arguments/agnosticism-limits-of-reason.md)
+
 ## Grounding relations
 
 - *[Existence of God](../axes/god-existence.md) : Atheism* grounds *[Death](../axes/death.md) : Death is nothing* : If God does not exist and no life follows death, then to die is only a return to nothingness, where there is no one left to suffer being dead. Atheism meets the consolation of [Epicurus](../philosophers/epicurus.md): "death is nothing to us", and freeing oneself from its fear restores the full value of the present life.
@@ -60,6 +68,32 @@ We can neither prove that God exists nor prove that he does not: the question ex
 
 - With [Death](../axes/death.md) : Confidently asserting that no God and nothing divine exists, then expecting that at death a soul, or something of oneself, survives it, puts two positions in tension: immortalist hope usually presupposes an order, a judgment, or a spiritual reality that atheism rejects. Holding both calls at least for saying what such survival would then rest upon.
 - With [Relation to certainty](../axes/certainty.md) : Holding that we can be certain of nothing, then confidently asserting that God does not exist, puts two beliefs in tension: the latter is a strong metaphysical claim, precisely the kind of certainty skepticism refuses. A consistent skepticism would lean toward agnosticism instead.
+
+## Quotations
+
+> “God is dead! God remains dead! And we have killed him!” — [Nietzsche](../philosophers/nietzsche.md), The Gay Science, §125
+
+> “The blessed and incorruptible being neither has trouble itself nor causes trouble to another; hence it is moved neither by anger nor by favour.” — [Epicurus](../philosophers/epicurus.md), Principal Doctrines, I
+
+> “Existentialism is nothing else but an attempt to draw all the consequences of a coherent atheist position.” — [Sartre](../philosophers/sartre.md), Existentialism Is a Humanism
+
+> “Thought thinks itself in grasping the intelligible, and its thinking is a thinking of thinking.” — [Aristotle](../philosophers/aristotle.md), Metaphysics, Λ (book XII), 9, 1074b
+
+> “Thought thinks itself: it is a thinking of thinking.” — [Aristotle](../philosophers/aristotle.md), Metaphysics, XII (Lambda).9 (1074b)
+
+> “Religion is the sigh of the oppressed creature, the heart of a heartless world, the soul of soulless conditions. It is the opium of the people.” — [Marx](../philosophers/marx.md), Critique of Hegel's Philosophy of Right, introduction
+
+> “Religion is the sigh of the oppressed creature, the heart of a heartless world, the soul of soulless conditions. It is the opium of the people.” — [Marx](../philosophers/marx.md), Critique of Hegel's Philosophy of Right, 1844
+
+> “So much wrong could religion prompt.” — [Lucretius](../philosophers/lucretius.md), On the Nature of Things, I, 101
+
+> “Whatever is, is in God, and nothing can be or be conceived without God.” — [Spinoza](../philosophers/spinoza.md), Ethics, I, prop. 15
+
+> “Whatever is moved is moved by another; we must therefore arrive at a first mover moved by nothing, and this everyone understands to be God.” — [Thomas Aquinas](../philosophers/aquinas.md), Summa Theologiae, Ia, q. 2, a. 3 (the first way)
+
+> “A little philosophy inclineth man's mind to atheism, but depth in philosophy bringeth men's minds about to religion.” — [Bacon](../philosophers/bacon.md), Essays, "Of Atheism"
+
+> “Would you call it fate? You will not be wrong. Would you call it providence? You will speak rightly. Would you call it nature? You will not sin.” — [Seneca](../philosophers/seneca.md), Natural Questions, II, 45
 
 ## Related axes
 

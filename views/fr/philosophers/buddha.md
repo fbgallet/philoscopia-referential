@@ -63,7 +63,7 @@ Faisceau 90% · Continuité psychologique 10%
 
 L'argument procède par recension exhaustive : Gautama passe en revue les cinq agrégats qui composent une personne (forme, sensation, perception, formations, conscience) et montre qu'aucun ne satisfait aux critères d'un soi. Chacun est [impermanent (anicca)](../glossary/anicca.md), donc source de mal-être, et surtout échappe à notre commandement, « qu'il soit ainsi et non autrement » ; or ce qui ne peut ni durer ni être maîtrisé ne saurait être tenu pour « mon soi ». Aucun cinquième terme ne subsistant derrière ces agrégats, il n'y a pas de moi-substance, seulement un faisceau de processus conditionnés : c'est le [non-soi (anattā)](../glossary/anatta.md), qui récuse frontalement l'[ātman](../glossary/atman.md) des Upaniṣad, le Soi permanent identifié au [brahman](../glossary/brahman.md) que la tradition brahmanique tenait pour notre identité véritable.
 
-> « La forme est non-soi, la sensation est non-soi, la perception est non-soi, les formations sont non-soi, la conscience est non-soi. » (Anattalakkhaṇa Sutta (Saṃyutta Nikāya 22.59))
+> « La forme est non-soi, la sensation est non-soi, la perception est non-soi, les formations sont non-soi, la conscience est non-soi. », Anattalakkhaṇa Sutta (Saṃyutta Nikāya 22.59)
 
 *Sources : Anattalakkhaṇa Sutta, Saṃyutta Nikāya 22.59 (le discours sur la caractéristique du non-soi) · Dhammapada, XX, 279 (tous les phénomènes sont sans-soi)*
 
@@ -75,7 +75,7 @@ Extinction-détachement 95% · Tri raisonné 5%
 
 Si toute souffrance est conditionnée, elle a une cause repérable, et la supprimer supprime l'effet : c'est la logique de la [coproduction conditionnée (pratītyasamutpāda)](../glossary/pratityasamutpada.md) appliquée au mal-être. Gautama remonte alors la chaîne et désigne la [soif (taṇhā)](../glossary/tanha.md) comme ce maillon, le désir avide qui s'attache aux plaisirs, à l'existence ou même à la non-existence et relance la roue des renaissances. Le geste est original : il ne moralise pas le désir comme un vice ni ne le célèbre comme une plénitude, il l'identifie froidement comme la cause à éteindre, ce qui place le détachement au centre de la voie et garantit, contre tout fatalisme, que la délivrance est possible.
 
-> « Voici la noble vérité sur l'origine de la souffrance : c'est cette soif qui produit le renouvellement de l'existence. » (Dhammacakkappavattana Sutta (Saṃyutta Nikāya 56.11))
+> « Voici la noble vérité sur l'origine de la souffrance : c'est cette soif qui produit le renouvellement de l'existence. », Dhammacakkappavattana Sutta (Saṃyutta Nikāya 56.11)
 
 *Sources : Dhammacakkappavattana Sutta, Saṃyutta Nikāya 56.11 (le sermon de Bénarès) · Dhammapada, ch. XXIV (la soif)*
 
@@ -107,7 +107,7 @@ Ascétisme 65% · Célébration 35%
 
 Le critère n'est pas moral mais pragmatique : ce qui compte, c'est ce qui conduit effectivement à l'éveil. Or Gautama avait éprouvé dans sa propre chair les deux échecs, la vie de plaisir du palais et les six années de jeûne extrême qui l'avaient laissé exsangue sans l'éveiller ; il en tire que les deux extrêmes manquent leur but. Le premier sermon récuse donc à la fois la quête des plaisirs des sens, « basse et vulgaire », et la mortification, « douloureuse et vaine », pour la seule [Voie du Milieu](../glossary/the-middle-way.md). Sans condamner le corps, il tient les plaisirs sensoriels pour des attachements qui nourrissent la [soif (taṇhā)](../glossary/tanha.md) : la pente reste ascétique, mais réglée et délibérément mesurée, à contre-courant de l'ascétisme radical des renonçants de son temps.
 
-> « Ces deux extrêmes, moines, ne doivent pas être suivis par celui qui a quitté la vie de famille : la poursuite des plaisirs des sens, et la poursuite de la mortification. » (Dhammacakkappavattana Sutta (Saṃyutta Nikāya 56.11))
+> « Ces deux extrêmes, moines, ne doivent pas être suivis par celui qui a quitté la vie de famille : la poursuite des plaisirs des sens, et la poursuite de la mortification. », Dhammacakkappavattana Sutta (Saṃyutta Nikāya 56.11)
 
 *Sources : Dhammacakkappavattana Sutta, Saṃyutta Nikāya 56.11 (les deux extrêmes et la Voie du Milieu)*
 
@@ -139,7 +139,7 @@ Impartialisme 85% · Partialisme 15%
 
 La bienveillance (mettā, l'amour bienveillant) se cultive envers tous les êtres sans distinction : la pratique enseignée consiste à étendre l'amour bienveillant au-delà des proches, à l'indifférent puis à l'ennemi, comme une mère protège son unique enfant. Étendue à tous les vivants, cette bienveillance fait pencher l'enseignement vers un impartialisme bienveillant.
 
-> « Comme une mère protège son unique enfant au péril de sa propre vie, qu'on cultive un cœur sans limites envers tous les êtres. » (Karaṇīya Mettā Sutta (Sutta Nipāta 1.8))
+> « Comme une mère protège son unique enfant au péril de sa propre vie, qu'on cultive un cœur sans limites envers tous les êtres. », Karaṇīya Mettā Sutta (Sutta Nipāta 1.8)
 
 *Sources : Karaṇīya Mettā Sutta, Sutta Nipāta 1.8 (le discours sur l'amour bienveillant) · Dhammapada, ch. I (les paires)*
 
@@ -151,7 +151,7 @@ Pathocentrisme 85% · Biocentrisme 7% · Anthropocentrisme 5% · Écocentrisme 3
 
 La non-violence (ahiṃsā) et le premier précepte, s'abstenir de nuire au vivant, étendent la considération morale à tous les êtres sensibles, capables de souffrir, et non aux seuls humains. Tous craignent le bâton, tous chérissent la vie : la compassion vise expressément l'ensemble des vivants pris dans le cycle des renaissances, ce qui range l'enseignement du côté du pathocentrisme.
 
-> « Tous tremblent devant le bâton, tous craignent la mort. Se mettant à la place des autres, qu'on ne tue ni ne fasse tuer. » (Dhammapada, X, 129)
+> « Tous tremblent devant le bâton, tous craignent la mort. Se mettant à la place des autres, qu'on ne tue ni ne fasse tuer. », Dhammapada, X, 129
 
 *Sources : Dhammapada, ch. X (le bâton), 129-130 · Karaṇīya Mettā Sutta, Sutta Nipāta 1.8 (que tous les êtres soient heureux)*
 
@@ -163,7 +163,7 @@ Vie examinée 85% · Primat de l'action 15%
 
 La transformation visée passe d'abord par l'examen intérieur : observer ses propres états mentaux, ses [impulsions (taṇhā)](../glossary/tanha.md) et ses représentations dans la méditation et l'introspection. La vie bonne se joue dans le travail sur l'esprit plus que dans l'action extérieure, même si la conduite éthique (sīla) en est le support indispensable.
 
-> « Tout ce que nous sommes résulte de nos pensées : c'est fondé sur nos pensées, c'est fait de nos pensées. » (Dhammapada, I, 1)
+> « Tout ce que nous sommes résulte de nos pensées : c'est fondé sur nos pensées, c'est fait de nos pensées. », Dhammapada, I, 1
 
 *Sources : Dhammapada, ch. I (les paires), 1-2 · Satipaṭṭhāna Sutta, Majjhima Nikāya 10 (les fondements de l'attention)*
 

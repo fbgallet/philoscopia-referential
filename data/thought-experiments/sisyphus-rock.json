@@ -9,15 +9,23 @@
     "en": "The gods had condemned Sisyphus to ceaselessly roll a rock to the top of a mountain, from which the stone would fall back of its own weight. They had thought, with some reason, that there is no more dreadful punishment than futile and hopeless labor. Each day, the same effort; each evening, the stone at the bottom. Imagine this life of toil that leads nowhere and never ends: where is meaning to be found, if there is any at all?"
   },
   "source": {
-    "author": { "fr": "Albert Camus", "en": "Albert Camus" },
-    "work": { "fr": "Le Mythe de Sisyphe", "en": "The Myth of Sisyphus" },
+    "author": {
+      "fr": "Albert Camus",
+      "en": "Albert Camus"
+    },
+    "work": {
+      "fr": "Le Mythe de Sisyphe",
+      "en": "The Myth of Sisyphus"
+    },
     "year": 1942
   },
   "question": {
     "fr": "Devant cette vie d'effort sans terme ni résultat, où trouver un sens, ou faut-il renoncer à en chercher un ?",
     "en": "Faced with this life of effort with no end and no result, where can meaning be found, or must we give up looking for one?"
   },
-  "axisIds": ["LIFE_MEANING"],
+  "axisIds": [
+    "LIFE_MEANING"
+  ],
   "options": [
     {
       "id": "transcendent-purpose",
@@ -25,7 +33,20 @@
         "fr": "Un tel effort n'a de sens que s'il sert une fin qui le dépasse : un ordre, un destin, un Dieu. Sans cela, il faut au moins l'espérer.",
         "en": "Such an effort has meaning only if it serves an end beyond itself: an order, a destiny, a God. Failing that, one must at least hope for it."
       },
-      "hints": [{ "axisId": "LIFE_MEANING", "value": { "kind": "weights", "weights": [1, 0, 0, 0] } }],
+      "hints": [
+        {
+          "axisId": "LIFE_MEANING",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              1,
+              0,
+              0,
+              0
+            ]
+          }
+        }
+      ],
       "discussion": {
         "fr": "Vous cherchez le sens dans une fin donnée, au-delà de la tâche : c'est la <ax id='LIFE_MEANING' pole='TELEOLOGY'>téléologie</ax>. Devant l'absurde, <ph id='kierkegaard'>Kierkegaard</ph> y répond par le saut de la foi, non par la résignation.",
         "en": "You look for meaning in a given end, beyond the task itself: this is <ax id='LIFE_MEANING' pole='TELEOLOGY'>teleology</ax>. Faced with the absurd, <ph id='kierkegaard'>Kierkegaard</ph> answers it with the leap of faith, not with resignation."
@@ -37,7 +58,20 @@
         "fr": "Le sens n'est pas dans le rocher, mais dans la manière de le porter : Sisyphe peut faire sien son destin et décider lui-même de ce qui compte.",
         "en": "Meaning is not in the rock, but in the way one carries it: Sisyphus can make his fate his own and decide for himself what counts."
       },
-      "hints": [{ "axisId": "LIFE_MEANING", "value": { "kind": "weights", "weights": [0, 1, 0, 0] } }],
+      "hints": [
+        {
+          "axisId": "LIFE_MEANING",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0,
+              1,
+              0,
+              0
+            ]
+          }
+        }
+      ],
       "discussion": {
         "fr": "Pour vous, aucun sens n'est donné : c'est à nous de le créer par nos choix et nos projets, comme le veut le <ax id='LIFE_MEANING' pole='CONSTRUCTED_MEANING'>sens construit</ax> de <ph id='sartre'>Sartre</ph>.",
         "en": "For you, no meaning is given: it is up to us to create it through our choices and projects, as <ph id='sartre'>Sartre</ph>'s <ax id='LIFE_MEANING' pole='CONSTRUCTED_MEANING'>constructed meaning</ax> would have it."
@@ -49,7 +83,20 @@
         "fr": "Aucun sens, donné ou inventé, n'efface l'absurde. Reste à le regarder en face et à vivre quand même, sans espoir : il faut imaginer Sisyphe heureux.",
         "en": "No meaning, given or invented, erases the absurd. What remains is to face it and live all the same, without hope: one must imagine Sisyphus happy."
       },
-      "hints": [{ "axisId": "LIFE_MEANING", "value": { "kind": "weights", "weights": [0, 0, 1, 0] } }],
+      "hints": [
+        {
+          "axisId": "LIFE_MEANING",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0,
+              0,
+              1,
+              0
+            ]
+          }
+        }
+      ],
       "discussion": {
         "fr": "Vous tenez l'<ax id='LIFE_MEANING' pole='ABSURDISM'>absurdisme</ax> de <ph id='camus'>Camus</ph> : ni l'espérance d'une fin, ni la fuite, mais la révolte lucide, où la lutte elle-même suffit à remplir un cœur d'homme.",
         "en": "You hold to <ph id='camus'>Camus</ph>'s <ax id='LIFE_MEANING' pole='ABSURDISM'>absurdism</ax>: neither the hope of an end nor flight, but lucid revolt, in which the struggle itself is enough to fill a man's heart."
@@ -61,12 +108,62 @@
         "fr": "S'il n'y a rien à trouver, mieux vaut cesser de rouler le rocher en esprit : renoncer à exiger un sens, et apaiser en soi ce désir qui tourmente.",
         "en": "If there is nothing to find, better to stop rolling the rock in one's mind: to give up demanding a meaning, and quiet within oneself the craving that torments."
       },
-      "hints": [{ "axisId": "LIFE_MEANING", "value": { "kind": "weights", "weights": [0, 0, 0, 1] } }],
+      "hints": [
+        {
+          "axisId": "LIFE_MEANING",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0,
+              0,
+              0,
+              1
+            ]
+          }
+        }
+      ],
       "discussion": {
         "fr": "Vous penchez pour le <ax id='LIFE_MEANING' pole='RENUNCIATION'>renoncement</ax> de <ph id='schopenhauer'>Schopenhauer</ph> : puisque aucun sens ne rachète l'effort, la paix vient de l'extinction du vouloir lui-même, non d'une révolte qui s'y accroche encore.",
         "en": "You lean toward <ph id='schopenhauer'>Schopenhauer</ph>'s <ax id='LIFE_MEANING' pole='RENUNCIATION'>renunciation</ax>: since no meaning redeems the effort, peace comes from extinguishing the will itself, not from a revolt that still clings to it."
       }
     }
   ],
-  "updatedAt": "2026-06-27T00:00:00.000Z"
+  "roles": [
+    {
+      "role": "SUPPORTS",
+      "position": {
+        "axisId": "LIFE_MEANING",
+        "poleId": "ABSURDISM"
+      },
+      "argumentId": "absurdism-lucid-revolt",
+      "problems": [
+        "the-absurd"
+      ],
+      "summary": {
+        "fr": "Sisyphe roule éternellement son rocher, sans espoir ni illusion ; et pourtant, dit Camus, « il faut l'imaginer heureux » : la valeur d'une vie tient à la lucidité de qui l'assume, non à un sens qui la dépasse.",
+        "en": "Sisyphus rolls his rock forever, without hope or illusion; and yet, says Camus, 'one must imagine him happy': the worth of a life lies in the lucidity of the one who owns it, not in a meaning beyond it."
+      },
+      "reconstruction": {
+        "development": [
+          {
+            "fr": "Sisyphe est condamné à rouler éternellement un rocher au sommet, d'où il retombe aussitôt : effort sans terme ni résultat, image de nos vies quand aucun sens ne vient les couronner.",
+            "en": "Sisyphus is condemned to roll a rock forever to the summit, from which it at once falls back: effort with no end and no result, an image of our lives when no meaning comes to crown them."
+          },
+          {
+            "fr": "Il n'a ni espoir d'en finir ni illusion sur sa tâche ; et pourtant, dit <ph id='camus'>Camus</ph>, il peut la regarder en face sans amertume : « la lutte elle-même vers les sommets suffit à remplir un cœur d'homme ».",
+            "en": "He has neither hope of ending nor illusion about his task; and yet, says <ph id='camus'>Camus</ph>, he can face it without bitterness: 'the struggle itself toward the heights is enough to fill a man's heart'."
+          },
+          {
+            "fr": "Ni espérance d'un sens caché, ni fuite dans le renoncement : reconnaître l'absurde de sa peine et la faire sienne, c'est reprendre son destin à son compte, dans la conscience et la <c id='revolt'>révolte</c>.",
+            "en": "Neither hope of a hidden meaning nor flight into renunciation: to recognize the absurdity of his toil and make it his own is to take his fate back into his own hands, in awareness and <c id='revolt'>revolt</c>."
+          }
+        ],
+        "conclusion": {
+          "fr": "Donc on peut vivre pleinement sans sens donné : « il faut imaginer Sisyphe heureux », car la valeur d'une vie tient à la lucidité de qui l'assume, non à un sens qui la dépasserait.",
+          "en": "So one can live fully without given meaning: 'one must imagine Sisyphus happy', for the worth of a life lies in the lucidity of the one who owns it, not in a meaning that would surpass it."
+        }
+      }
+    }
+  ],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
 }

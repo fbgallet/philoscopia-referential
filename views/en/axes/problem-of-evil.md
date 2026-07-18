@@ -20,19 +20,30 @@ Evil is only apparent or necessary from the standpoint of the whole: an infinite
 
 Moral evil is the price of freedom: God willed free creatures, able to love and to choose the good, hence also able to do evil. The fault lies with humanity, not the creator.
 
-*[Augustine](../philosophers/augustine.md) · Plantinga*
+*[Augustine](../philosophers/augustine.md) · [Plantinga](../philosophers/plantinga.md)*
 
 ### Revolt / anti-theodicy
 
 To justify evil is itself a moral failing: no final harmony redeems the suffering of a single innocent child. Before evil there is no acceptable explanation, but revolt or silence.
 
-*Dostoevsky · [Levinas](../philosophers/levinas.md)*
+*[Dostoevsky](../philosophers/dostoevsky.md) · [Levinas](../philosophers/levinas.md)*
 
 ### Argument from evil (atheism)
 
 The existence of massive, gratuitous evil is incompatible with a God at once good, all-powerful and all-knowing: either he cannot prevent it, or he will not. Evil is the strongest argument against God.
 
 *[Epicurus](../philosophers/epicurus.md) · [Hume](../philosophers/hume.md)*
+
+## Live problems
+
+- **Epicurus's riddle** : Can God prevent evil but not want to, or want to but not be able? One of the three, his power, his goodness, or the reality of evil, must give way: which one?
+- **Evil with no culprit** : Free will excuses the evil humans do; but the earthquake, disease, the pain of animals are no one's fault: what then remains to absolve the creator?
+- **One evil too many** : Even without a strict contradiction, does the mass of apparently pointless suffering, a fawn dying alone in a forest fire, not make a good God who watches over all highly improbable?
+- **To justify evil?** : Seeking a reason for the innocent's misfortune, is that not already a fault, an insult to their pain, and before some evils is the only fitting stance not revolt or silence?
+- **God's hidden reasons** : What if the ends that justify evil exceed all human understanding? To Job, who demands an accounting, God answers not with reasons but with the sheer vastness of his creation.
+- **What if God could not do everything?** : One can save God's goodness by taking away his omnipotence: a God who withdraws and limits himself, or before whom evil is a rival principle he does not create.
+- **The ordeal that raises us** : Perhaps evil is permitted so that souls may mature, the world being "a vale of soul-making" rather than a paradise given ready-made.
+- **God's silence** : Alongside evil, another absence accuses: that of a God who, if he existed and loved us, would not let himself be sought in vain.
 
 ## Grounding relations
 

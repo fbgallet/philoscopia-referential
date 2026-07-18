@@ -253,16 +253,7 @@
           { "fr": "Marx et Engels, Manifeste du Parti communiste (1848)", "en": "Marx and Engels, The Communist Manifesto (1848)" }
         ],
         "strength": "STRONG",
-        "quote": {
-          "text": {
-            "fr": "L'histoire de toute société jusqu'à nos jours est l'histoire de luttes de classes.",
-            "en": "The history of all hitherto existing society is the history of class struggles."
-          },
-          "source": {
-            "fr": "Marx et Engels, Manifeste du Parti communiste",
-            "en": "Marx and Engels, The Communist Manifesto"
-          }
-        }
+        "quoteId": "l-histoire-de-toute-societe-jusqu-marx-and-engels"
       }
     },
     {
@@ -299,16 +290,7 @@
           { "fr": "Marx, Le Capital, livre I, section sur la plus-value", "en": "Marx, Capital, vol. I, on surplus value" }
         ],
         "strength": "STRONG",
-        "quote": {
-          "text": {
-            "fr": "De chacun selon ses capacités, à chacun selon ses besoins.",
-            "en": "From each according to his ability, to each according to his needs."
-          },
-          "source": {
-            "fr": "Marx, Critique du programme de Gotha",
-            "en": "Marx, Critique of the Gotha Programme"
-          }
-        }
+        "quoteId": "de-chacun-selon-ses-capacites-a-marx"
       }
     },
     {
@@ -345,16 +327,7 @@
           { "fr": "Marx et Engels, Manifeste du Parti communiste (1848)", "en": "Marx and Engels, The Communist Manifesto (1848)" }
         ],
         "strength": "STRONG",
-        "quote": {
-          "text": {
-            "fr": "Les philosophes n'ont fait qu'interpréter le monde de différentes manières ; ce qui importe, c'est de le transformer.",
-            "en": "The philosophers have only interpreted the world, in various ways; the point is to change it."
-          },
-          "source": {
-            "fr": "Marx, Thèses sur Feuerbach, XI",
-            "en": "Marx, Theses on Feuerbach, XI"
-          }
-        }
+        "quoteId": "les-philosophes-n-ont-fait-qu-marx-2"
       }
     },
     {
@@ -408,16 +381,7 @@
           { "fr": "Marx, Critique de la philosophie du droit de Hegel, introduction (1844)", "en": "Marx, Critique of Hegel's Philosophy of Right, introduction (1844)" }
         ],
         "strength": "STRONG",
-        "quote": {
-          "text": {
-            "fr": "La religion est le soupir de la créature accablée, l'âme d'un monde sans cœur, l'esprit de conditions dénuées d'esprit. C'est l'opium du peuple.",
-            "en": "Religion is the sigh of the oppressed creature, the heart of a heartless world, the soul of soulless conditions. It is the opium of the people."
-          },
-          "source": {
-            "fr": "Marx, Critique de la philosophie du droit de Hegel, introduction",
-            "en": "Marx, Critique of Hegel's Philosophy of Right, introduction"
-          }
-        }
+        "quoteId": "la-religion-est-le-soupir-de-marx-2"
       }
     },
     {

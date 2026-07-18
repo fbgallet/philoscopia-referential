@@ -145,7 +145,7 @@ The examined life 85% · Primacy of action 15%
 
 The highest reality is not reached without, in action or fact, but within: dream, memory, night, the dark depths of the self become the true homeland. The Romantic's path toward the infinite runs through the descent into oneself rather than through a grip on the world.
 
-> “The mysterious path leads inward. In us, or nowhere, is eternity with its worlds, the past and the future.” (Novalis, Pollen)
+> “The mysterious path leads inward. In us, or nowhere, is eternity with its worlds, the past and the future.”, Pollen
 
 *Sources : Novalis, Pollen · Rousseau, Reveries of the Solitary Walker*
 

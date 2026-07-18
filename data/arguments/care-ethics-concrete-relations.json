@@ -1,0 +1,37 @@
+{
+  "id": "care-ethics-concrete-relations",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "ETHICS_FOUNDATION", "poleId": "CARE_ETHICS" },
+  "name": { "fr": "Ce que l'impartialité présuppose", "en": "What impartiality presupposes" },
+  "claim": {
+    "fr": "Un principe impartial ne meut personne s'il n'y a d'abord le souci d'un autre : le soin n'est pas une application de la morale, il en est la source.",
+    "en": "An impartial principle moves no one unless there is first concern for another: care is not an application of morality, it is its source."
+  },
+  "summary": {
+    "fr": "L'obligation naît de la rencontre d'un autre qui dépend de nous, non d'un principe abstrait ; les principes impartiaux présupposent ce souci sans pouvoir l'engendrer, et en pesant tous également ils écartent ce qui crée l'obligation réelle.",
+    "en": "Obligation arises from the encounter with another who depends on us, not from an abstract principle; impartial principles presuppose this concern without being able to generate it, and by weighing everyone equally they discard what creates real obligation."
+  },
+  "development": [
+    {
+      "fr": "D'où une exigence morale tire-t-elle sa force ? Non d'un principe contemplé dans l'abstrait, mais de la rencontre d'un autre qui dépend de nous, l'enfant, le malade, celui dont on répond : c'est là que l'obligation prend, pour chacun, sa première prise.",
+      "en": "Where does a moral demand get its force? Not from a principle contemplated in the abstract, but from the encounter with another who depends on us, the child, the sick, the one in our charge: it is there that obligation first takes hold, for each of us."
+    },
+    {
+      "fr": "Un principe impartial ne peut engendrer ce souci, il le présuppose : « accorde à tous un poids égal » ne meut que celui qui tient déjà à quelqu'un, et lui demande d'étendre ce soin. Ôtez tout attachement, le principe ne commande plus personne.",
+      "en": "An impartial principle cannot generate this concern, it presupposes it: 'give each an equal weight' moves only one who already cares about someone, and asks them to extend that care. Remove every attachment, and the principle commands no one."
+    },
+    {
+      "fr": "Et en accordant à chacun le même poids, le point de vue impartial fait abstraction de ce qui crée l'obligation réelle : ce lien précis, cette dépendance, ce besoin. Ce qu'il écarte n'est pas du bruit moral, c'est la substance de la morale.",
+      "en": "And by giving each the same weight, the impartial standpoint abstracts away what creates real obligation: this precise bond, this dependence, this need. What it discards is not moral noise, it is the substance of morality."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc le soin n'est pas une exigence morale parmi d'autres, mais le sol sur lequel les autres tiennent : la morale s'enracine dans la réponse attentive à autrui, et les principes impartiaux n'en sont qu'un prolongement dérivé.",
+    "en": "So care is not one moral demand among others, but the ground on which the others stand: morality is rooted in the attentive response to others, and impartial principles are only a derivative extension of it."
+  },
+  "difficulty": 2,
+  "source": { "author": { "fr": "Gilligan ; Noddings", "en": "Gilligan; Noddings" }, "figures": [{ "name": { "fr": "Gilligan", "en": "Gilligan" }, "kind": "PHILOSOPHER", "slug": "gilligan" }, { "name": { "fr": "Noddings", "en": "Noddings" }, "kind": "PHILOSOPHER" }], "work": { "fr": "Une voix différente", "en": "In a Different Voice" }, "year": 1982 },
+  "test": "care-ethics-partiality-objection",
+  "problems": ["is-morality-impartial"],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
+}

@@ -34,7 +34,7 @@ Eudaimonism 70% · Hedonism 20% · Virtue / moral perfectionism 10%
 
 Nietzsche mocks the pleasure-happiness of the utilitarians as much as the morality of duty: the good is neither enjoyment nor disinterested virtue. It is the **enhancement of life**, the flourishing of power and self-overcoming, the great health of one who dares to create himself and to say yes to existence. A transvalued eudaimonism, where success is measured by strength and greatness, not by comfort.
 
-> “Man does not strive for happiness; only the Englishman does.” (Twilight of the Idols, Maxims and Arrows, 12)
+> “Man does not strive for happiness; only the Englishman does that.”, Twilight of the Idols, Maxims and Arrows, 12
 
 *Sources : Twilight of the Idols, Maxims and Arrows · The Gay Science, IV-V · Thus Spoke Zarathustra*
 
@@ -46,7 +46,7 @@ Empiricism 70% · Rationalism 30%
 
 Nietzsche overturns the Platonic hierarchy: it is not reason that would reach the true against deceiving senses, it is the senses that do not lie, and reason that falsifies their testimony of becoming by substituting **being**, unity, the thing. The intelligible back-world, from Plato to Kant, is a fiction born of decadence. But Nietzsche does not lapse into naive empiricism: there is neither brute fact nor immaculate perception, all knowledge is interpretation from a perspective, governed by the needs of life and the will to power. An empiricism of the body and the senses, then, but radicalized into **perspectivism**.
 
-> “There is only a perspectival seeing, only a perspectival knowing.” (On the Genealogy of Morals, III, § 12)
+> “There is only a perspectival seeing, only a perspectival knowing.”, On the Genealogy of Morals, III, § 12
 
 *Sources : Twilight of the Idols, Reason in Philosophy · Beyond Good and Evil, §§ 16-17*
 
@@ -58,7 +58,7 @@ Fecundity and redemption 95% · Abolitionism 5%
 
 For Nietzsche suffering is a condition of growth: what does not kill me makes me stronger, and the discipline of great suffering has produced every elevation of humanity. He explicitly despises moralities that make the abolition of suffering the supreme goal.
 
-> “What does not kill me makes me stronger.” (Twilight of the Idols, "Maxims and Arrows", §8)
+> “What does not kill me makes me stronger.”, Twilight of the Idols, "Maxims and Arrows", §8
 
 *Sources : Beyond Good and Evil, §225 · Twilight of the Idols, "Maxims and Arrows", §8 · The Gay Science, §338*
 
@@ -70,7 +70,7 @@ Amor fati 95% · Revolt 5%
 
 [Eternal recurrence](../glossary/eternal-recurrence.md) works as a test: if a demon told you that you will relive this very life, identically, infinitely, would you curse him, or would it be your greatest joy? To say yes to every instant is [amor fati](../glossary/amor-fati.md): not Schopenhauer's resignation, but the highest affirmation, to love the necessary so much that one wills its eternal return.
 
-> “My formula for greatness in a human being is amor fati: that one wants nothing to be different, not forward, not backward, not in all eternity.” (Ecce Homo, "Why I Am So Clever", §10)
+> “My formula for greatness in a human being is amor fati: that one wants nothing to be different, not forward, not backward, not in all eternity.”, Ecce Homo, "Why I Am So Clever", §10
 
 *Sources : Ecce Homo, "Why I Am So Clever", §10 · The Gay Science, §276 and §341*
 
@@ -82,7 +82,7 @@ Atheism 95% · Theism 5%
 
 Nietzsche does not prove God's non-existence: he observes that faith in the moral God has become untenable within our own culture, undermined by the very will to truth it had fostered, and that “we have killed him”. He draws the consequence we dare not look at: deprived of their ground, our highest values totter, this is nihilism, at once the danger and the chance of a creation of new values.
 
-> “God is dead! God remains dead! And we have killed him!” (The Gay Science, §125)
+> “God is dead! God remains dead! And we have killed him!”, The Gay Science, §125
 
 *Sources : The Gay Science, §125 · The Antichrist*
 
@@ -104,7 +104,7 @@ Relativism 80% · Constructivism 20%
 
 Rather than asking whether moral values are true, Nietzsche asks what they are worth and where they come from: this is the *[genealogical](../works/on-the-genealogy-of-morality-nietzsche.md)* method. It uncovers that the [good / evil](../glossary/master-slave-morality.md) pair was born of the [ressentiment](../glossary/ressentiment.md) of the weak, inverting the aristocratic « good / bad ». Moralities are thus not facts but symptoms of types of life, to be assessed and, where needed, **transvalued**.
 
-> “There are no moral phenomena, only a moral interpretation of phenomena.” (Beyond Good and Evil, §108)
+> “There are no moral phenomena, only a moral interpretation of phenomena.”, Beyond Good and Evil, §108
 
 *Sources : On the Genealogy of Morality · Beyond Good and Evil, §108*
 
@@ -162,7 +162,7 @@ Existentialism 93% · Essentialism 7%
 
 "Become what you are": there is no fixed human essence to realize, but a task of **self-creation**. The subject, the soul, the substantial "I" are grammatical illusions; what we are is the ever-open work of self-fashioning, of “giving style to one's character”.
 
-> “Become what you are.” (The Gay Science, §270; Ecce Homo, subtitle)
+> “Become what you are.”, The Gay Science, §270; Ecce Homo, subtitle
 
 *Sources : The Gay Science, §290 · Ecce Homo, subtitle "How One Becomes What One Is"*
 
@@ -174,7 +174,7 @@ Skepticism 85% · Dogmatism 15%
 
 There is no view from nowhere: all knowledge is the optics of a [will](../glossary/will-to-power.md), an interpretation in the service of some vital interest. The ideal of an « objective », disinterested truth is itself a value, and a rather life-hostile one. Yet this perspectivism is no flat relativism: perspectives can be ranked by their fruitfulness, and it is by multiplying viewpoints that one gains in « objectivity ».
 
-> “There are no facts, only interpretations.” (Posthumous Fragments, autumn 1885-1886, 7[60])
+> “There are no facts, only interpretations.”, Posthumous Fragments, autumn 1885-1886, 7[60]
 
 *Sources : Posthumous Fragments, autumn 1885-1886, 7[60] · Beyond Good and Evil, §34*
 
@@ -216,7 +216,7 @@ Aestheticism 93% · Primacy of the ethical 8%
 
 It is only as an aesthetic phenomenon that existence and the world are eternally justified: the thesis of *[The Birth of Tragedy](../works/the-birth-of-tragedy-nietzsche.md)* subordinates the meaning of life to the aesthetic rather than the moral register. Art, not morality, is the truly metaphysical activity of man.
 
-> “It is only as an aesthetic phenomenon that existence and the world are eternally justified.” (The Birth of Tragedy, §5)
+> “It is only as an aesthetic phenomenon that existence and the world are eternally justified.”, The Birth of Tragedy, §5
 
 *Sources : The Birth of Tragedy, §5 and §24 · The Birth of Tragedy, "Attempt at a Self-Criticism", §5*
 
@@ -278,7 +278,7 @@ Anthropological pessimism 75% · Anthropological optimism 25%
 
 Man is a rope stretched between beast and [overhuman](../glossary/ubermensch.md), something that shall be overcome: Nietzsche casts a severe gaze on the gregarious, mediocre humanity of his age, marked by [ressentiment](../glossary/ressentiment.md). But this critical diagnosis comes with confidence in the possibility of an elevation, which tempers the pessimism.
 
-> “Man is something that shall be overcome.” (Thus Spoke Zarathustra, Prologue, §3)
+> “Man is something that shall be overcome.”, Thus Spoke Zarathustra, Prologue, §3
 
 *Sources : Thus Spoke Zarathustra, Prologue, §3 and §4 · On the Genealogy of Morality, I, §11*
 

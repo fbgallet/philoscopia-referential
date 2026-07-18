@@ -37,16 +37,7 @@
           "fr": "Puisque le <dif>trouble</dif> ne vient pas des choses mais du jugement qu'on porte sur elles, le lieu où l'on retrouve toujours le calme n'est pas un lieu du monde mais le <c id='hegemonikon'>principe directeur</c>, cette part de soi que rien d'extérieur n'atteint. Marc Aurèle en fait une citadelle où il est toujours loisible de se replier, en revenant à ses <c id='phantasia'>représentations</c> pour y rétablir l'ordre. Mais ce retrait n'est pas une fuite hors de l'action : le carnet des <w id='meditations-marcus-aurelius'>Pensées</w> en est l'exercice même, qu'on quitte aussitôt pour retourner à sa tâche d'homme et d'empereur.",
           "en": "Since <dif>disturbance</dif> comes not from things but from the judgment we pass on them, the place where calm is always to be found is no place in the world but the <c id='hegemonikon'>ruling faculty</c>, the part of oneself nothing external can reach. Marcus makes of it a citadel into which one may always withdraw, returning to one's <c id='phantasia'>impressions</c> to set them back in order. Yet this retreat is no flight from action: the notebook of the <w id='meditations-marcus-aurelius'>Meditations</w> is that very exercise, left at once to return to one's task as a man and an emperor."
         },
-        "quote": {
-          "text": {
-            "fr": "On cherche des retraites à la campagne, au bord de la mer, dans les montagnes ; mais nulle part l'homme ne se retire dans plus de calme que dans sa propre âme.",
-            "en": "Men seek retreats for themselves, in the country, by the sea, in the hills; but nowhere can a man withdraw into more quiet than into his own soul."
-          },
-          "source": {
-            "fr": "Pensées pour moi-même, IV, 3",
-            "en": "Meditations, IV, 3"
-          }
-        },
+        "quoteId": "on-cherche-des-retraites-a-la-marcus-aurelius",
         "references": [
           { "fr": "Pensées pour moi-même, IV, 3", "en": "Meditations, IV, 3" },
           { "fr": "Pensées pour moi-même, VII, 59", "en": "Meditations, VII, 59" },
@@ -66,16 +57,7 @@
           "fr": "On ne peut être dépouillé ni du passé, qui n'est plus, ni de l'avenir, qu'on n'a pas encore : ce qu'on perd en mourant n'est jamais que ce point insécable, l'instant présent, le même pour qui meurt vieux et pour qui meurt jeune. Marc Aurèle en tire la dévaluation de la <stk>gloire posthume</stk>, puisque ceux qui se souviendraient de moi mourront à leur tour, et la concentration sur la tâche du moment, à mener comme si elle était la dernière. Cette méditation de l'éphémère, plus insistante chez lui que chez aucun stoïcien, n'invite pas à jouir de l'instant mais à l'habiter dignement.",
           "en": "One can be stripped neither of the past, which is no more, nor of the future, which is not yet: what we lose in dying is only ever that indivisible point, the present instant, the same for the man who dies old and the man who dies young. From this Marcus draws the deflation of <stk>posthumous glory</stk>, since those who might remember me will die in their turn, and the concentration on the task at hand, to be carried out as if it were the last. This meditation on transience, more insistent in him than in any Stoic, summons us not to enjoy the moment but to inhabit it worthily."
         },
-        "quote": {
-          "text": {
-            "fr": "Personne ne perd d'autre vie que celle qu'il vit, ni n'en vit d'autre que celle qu'il perd.",
-            "en": "No one loses any other life than the one he now lives, nor lives any other than the one he now loses."
-          },
-          "source": {
-            "fr": "Pensées pour moi-même, II, 14",
-            "en": "Meditations, II, 14"
-          }
-        },
+        "quoteId": "personne-ne-perd-d-autre-vie-marcus-aurelius",
         "references": [
           { "fr": "Pensées pour moi-même, II, 14", "en": "Meditations, II, 14" },
           { "fr": "Pensées pour moi-même, III, 10", "en": "Meditations, III, 10" },
@@ -114,16 +96,7 @@
           "fr": "Si tout, dans le cosmos, naît du changement et y retourne, la mort n'est qu'une transformation parmi d'autres, la dissolution des éléments dans le tout d'où ils venaient : rien de ce qui est conforme à la <c id='logos'>nature</c> ne saurait être un mal. Mais Marc Aurèle ne se contente pas d'en désamorcer la terreur ; il la tient chaque jour devant les yeux pour gouverner l'action présente, de sorte que la conscience aiguë de la mort, plus qu'une consolation, devient l'aiguillon d'une vie droite. Sa note propre est l'image du fruit mûr : quitter la vie comme l'olive tombe, en bénissant la terre qui l'a portée.",
           "en": "If everything in the cosmos arises from change and returns to it, death is but one transformation among others, the dissolution of the elements back into the whole they came from: nothing in keeping with <c id='logos'>nature</c> can be an evil. But Marcus does not merely defuse its terror; he keeps it daily before his eyes to govern present action, so that an acute awareness of death, more than a consolation, becomes the spur to a life rightly lived. His own note is the image of the ripe fruit: to leave life as the olive falls, blessing the earth that bore it."
         },
-        "quote": {
-          "text": {
-            "fr": "Quitte la vie comme l'olive mûre qui tombe, bénissant la nature qui l'a produite et reconnaissante envers l'arbre qui l'a portée.",
-            "en": "Pass out of life as a ripe olive falls, blessing the nature that produced it and giving thanks to the tree on which it grew."
-          },
-          "source": {
-            "fr": "Pensées pour moi-même, IV, 48",
-            "en": "Meditations, IV, 48"
-          }
-        },
+        "quoteId": "quitte-la-vie-comme-l-olive-marcus-aurelius",
         "references": [
           { "fr": "Pensées pour moi-même, II, 17", "en": "Meditations, II, 17" },
           { "fr": "Pensées pour moi-même, IV, 48", "en": "Meditations, IV, 48" },
@@ -143,16 +116,7 @@
           "fr": "Comme tout stoïcien, Marc Aurèle tient la passion pour un <c id='synkatathesis'>assentiment</c> donné à un faux jugement, donc pour une erreur corrigible et non une fatalité ; mais il en fait surtout l'instrument d'une éthique de la <c>douceur</c>. Le raisonnement qu'il s'oppose à lui-même contre la <c>colère</c> est serré : celui qui me fait tort se trompe sur le bien et le mal, or nul ne se trompe volontairement ; il est mon parent, né de la même <c id='logos'>raison</c> ; il ne peut me léser dans la seule chose qui soit mienne, mon <c id='prohairesis'>jugement</c> ; lui en vouloir ajouterait à son tort le mien. Comprendre l'ignorance d'autrui dissout le ressentiment avant qu'il se forme.",
           "en": "Like every Stoic, Marcus holds a passion to be an <c id='synkatathesis'>assent</c> given to a false judgment, hence a correctable error and no fatality; but he turns it above all into the instrument of an ethics of <c>gentleness</c>. The reasoning he urges on himself against <c>anger</c> is tight: the one who wrongs me is mistaken about good and evil, and no one errs willingly; he is my kinsman, born of the same <c id='logos'>reason</c>; he cannot harm me in the one thing that is mine, my <c id='prohairesis'>judgment</c>; and to resent him would add his wrong to my own. Understanding another's ignorance dissolves resentment before it forms."
         },
-        "quote": {
-          "text": {
-            "fr": "Dès le matin, dis-toi par avance : je rencontrerai un indiscret, un ingrat, un insolent ; mais aucun ne peut m'enchaîner au mal, ni m'irriter contre un parent.",
-            "en": "Begin each day by telling yourself: today I shall meet the meddler, the ungrateful, the insolent; but none can bind me to what is base, nor make me angry at a kinsman."
-          },
-          "source": {
-            "fr": "Pensées pour moi-même, II, 1",
-            "en": "Meditations, II, 1"
-          }
-        },
+        "quoteId": "des-le-matin-dis-toi-par-marcus-aurelius",
         "references": [
           { "fr": "Pensées pour moi-même, II, 1", "en": "Meditations, II, 1" },
           { "fr": "Pensées pour moi-même, XI, 18", "en": "Meditations, XI, 18" },
@@ -210,16 +174,7 @@
           "fr": "Si le monde est un seul vivant traversé par une même <c id='logos'>raison</c>, aucun événement n'est isolé ni accidentel : ce qui m'advient était de toute éternité tissé avec moi dans la trame du tout (la <c id='sympatheia'>sympatheia</c>, sympathie cosmique des choses entre elles). Marc Aurèle va plus loin que la résignation : non pas supporter ce qui arrive, mais l'aimer, car le souhaiter autre reviendrait à exiger que l'univers entier fût autre. La <stk>révolte</stk> n'est dès lors pas tant interdite qu'absurde, la partie ne pouvant accuser le tout dont elle procède : c'est l'<c id='amor-fati'>amour du destin</c> comme forme la plus haute du consentement.",
           "en": "If the world is a single living being run through by one <c id='logos'>reason</c>, no event is isolated or accidental: what befalls me was, from all eternity, woven together with me into the fabric of the whole (the <c id='sympatheia'>sympatheia</c>, the cosmic sympathy of things with one another). Marcus goes beyond resignation: not to endure what happens but to love it, since to wish it otherwise would be to demand that the entire universe be otherwise. <stk>Revolt</stk> is then not so much forbidden as absurd, the part being unable to accuse the whole from which it issues: this is <c id='amor-fati'>love of fate</c> as the highest form of consent."
         },
-        "quote": {
-          "text": {
-            "fr": "Tout ce qui s'accorde avec toi, ô Univers, s'accorde avec moi : rien de ce qui vient à temps pour toi n'est pour moi trop tôt ni trop tard.",
-            "en": "All that is in tune with you, O Universe, is in tune with me: nothing that comes in season for you is too early or too late for me."
-          },
-          "source": {
-            "fr": "Pensées pour moi-même, IV, 23",
-            "en": "Meditations, IV, 23"
-          }
-        },
+        "quoteId": "tout-ce-qui-s-accorde-avec-marcus-aurelius",
         "references": [
           { "fr": "Pensées pour moi-même, IV, 23", "en": "Meditations, IV, 23" },
           { "fr": "Pensées pour moi-même, V, 8", "en": "Meditations, V, 8" },
@@ -239,16 +194,7 @@
           "fr": "De la nature rationnelle et sociale de l'homme, Marc Aurèle déduit que mon bien et celui de la communauté ne font qu'un : doué de <c id='logos'>raison</c> comme tout être humain, je suis à la cité du monde ce que le membre est au corps, et le membre qui se sépare se mutile. L'<c id='oikeiosis'>appropriation</c> stoïcienne prend ici un tour singulier, car c'est un empereur qui se rappelle au seuil de chaque journée que sa tâche propre est l'acte juste accompli pour le commun : la <c>vertu</c> n'est pas une perfection solitaire mais tout entière tournée vers la coopération.",
           "en": "From the rational and social nature of man, Marcus deduces that my good and the community's are one: endowed with <c id='logos'>reason</c> like every human being, I am to the city of the world what the limb is to the body, and the limb that severs itself is maimed. Stoic <c id='oikeiosis'>appropriation</c> takes a singular turn here, for it is an emperor who reminds himself at the threshold of each day that his own task is the just act done for the common good: <c>virtue</c> is no solitary perfection but is turned wholly toward cooperation."
         },
-        "quote": {
-          "text": {
-            "fr": "Ce qui n'est pas utile à l'essaim n'est pas utile non plus à l'abeille.",
-            "en": "What is not good for the swarm is not good for the bee either."
-          },
-          "source": {
-            "fr": "Pensées pour moi-même, VI, 54",
-            "en": "Meditations, VI, 54"
-          }
-        },
+        "quoteId": "ce-qui-n-est-pas-utile-marcus-aurelius",
         "references": [
           { "fr": "Pensées pour moi-même, V, 1", "en": "Meditations, V, 1" },
           { "fr": "Pensées pour moi-même, VI, 54", "en": "Meditations, VI, 54" },
@@ -325,16 +271,7 @@
           "fr": "De la <c id='logos'>raison</c> commune à tous les hommes, Marc Aurèle conclut à une cité unique du monde dont chacun est citoyen avant d'appartenir à sa patrie. La formule est sienne : citoyen de Rome en tant qu'Antonin, mais citoyen du monde en tant qu'homme, la première appartenance se subordonnant à la seconde.",
           "en": "From the <c id='logos'>reason</c> common to all men, Marcus concludes to a single city of the world of which each is a citizen before belonging to his homeland. The formula is his own: a citizen of Rome as Antoninus, but a citizen of the world as a man, the first belonging subordinate to the second."
         },
-        "quote": {
-          "text": {
-            "fr": "Ma cité et ma patrie, en tant qu'Antonin, c'est Rome ; en tant qu'homme, c'est le monde.",
-            "en": "As Antoninus, my city and homeland is Rome; as a man, it is the world."
-          },
-          "source": {
-            "fr": "Pensées pour moi-même, VI, 44",
-            "en": "Meditations, VI, 44"
-          }
-        },
+        "quoteId": "ma-cite-et-ma-patrie-en-marcus-aurelius",
         "references": [
           { "fr": "Pensées pour moi-même, VI, 44", "en": "Meditations, VI, 44" },
           { "fr": "Pensées pour moi-même, III, 11", "en": "Meditations, III, 11" },
@@ -411,16 +348,7 @@
           "fr": "Marc Aurèle dévalue le corps avec une crudité célèbre : il le décompose en ses éléments, un peu de chair, de sang et d'os, réduit la nourriture et l'union des corps à leurs processus organiques, et oppose à cette matière périssable le seul <c id='hegemonikon'>principe directeur</c>. Le corps n'est qu'un <c id='adiaphora'>instrument</c> prêté à l'âme, ce qui range nettement Marc Aurèle du côté du corps-instrument, sans pourtant le mépriser jusqu'à l'ascèse mortifiante.",
           "en": "Marcus demeans the body with a famous bluntness: he decomposes it into its elements, a little flesh, blood and bone, reduces food and the union of bodies to their organic processes, and sets against this perishable matter the <c id='hegemonikon'>ruling faculty</c> alone. The body is but an <c id='adiaphora'>instrument</c> lent to the soul, which places Marcus squarely on the body-as-instrument side, without yet despising it into a mortifying asceticism."
         },
-        "quote": {
-          "text": {
-            "fr": "Ce que je suis, ce n'est qu'un peu de chair, un peu de souffle, et le principe directeur.",
-            "en": "What I am is only a little flesh, a little breath, and the ruling part."
-          },
-          "source": {
-            "fr": "Pensées pour moi-même, II, 2",
-            "en": "Meditations, II, 2"
-          }
-        },
+        "quoteId": "ce-que-je-suis-ce-n-marcus-aurelius",
         "references": [
           { "fr": "Pensées pour moi-même, II, 2", "en": "Meditations, II, 2" },
           { "fr": "Pensées pour moi-même, VI, 13", "en": "Meditations, VI, 13" },
@@ -478,16 +406,7 @@
           "fr": "L'épreuve n'est ni à fuir ni à pleurer : l'âme convertit en matière de <c>vertu</c> ce qui prétendait l'entraver, et l'obstacle à l'action devient l'action même. Position entre l'<c id='adiaphora'>indifférence</c> stoïcienne, qui tient la douleur pour un rien, et la fécondité active de l'adversité, qui en fait l'occasion du progrès.",
           "en": "Hardship is neither to be fled nor wept over: the soul turns into material for <c>virtue</c> what claimed to thwart it, and the impediment to action becomes the action itself. The stance sits between Stoic <c id='adiaphora'>indifference</c>, which counts pain as nothing, and the active fecundity of adversity, which makes it the occasion of progress."
         },
-        "quote": {
-          "text": {
-            "fr": "Ce qui fait obstacle à l'action sert l'action, et ce qui barre la route devient la route.",
-            "en": "What stands in the way of action advances action. What blocks the road becomes the road."
-          },
-          "source": {
-            "fr": "Pensées pour moi-même, V, 20",
-            "en": "Meditations, V, 20"
-          }
-        },
+        "quoteId": "ce-qui-fait-obstacle-a-l-marcus-aurelius",
         "references": [
           { "fr": "Pensées pour moi-même, IV, 1", "en": "Meditations, IV, 1" },
           { "fr": "Pensées pour moi-même, V, 20", "en": "Meditations, V, 20" }
@@ -730,16 +649,7 @@
           "fr": "L'exigence est sans relâche : ne plus discourir sur ce que doit être l'homme de bien, mais l'être, à l'instant, sans délai ni excuse. Cet appel à l'effort de tous les moments, où chaque acte engage la <c>vertu</c> entière, relève d'un maximalisme moral, tempéré seulement par la <c id='dichotomy-of-control'>limite de ce qui dépend de nous</c>.",
           "en": "The demand is unrelenting: to stop discoursing on what the good man should be, and to be one, now, without delay or excuse. This call to an effort of every instant, in which each act engages the whole of <c>virtue</c>, is a moral maximalism, tempered only by the <c id='dichotomy-of-control'>limit of what is up to us</c>."
         },
-        "quote": {
-          "text": {
-            "fr": "Ne dissertons plus sur ce que doit être l'homme de bien : soyons-le.",
-            "en": "Waste no more time arguing what a good man should be. Be one."
-          },
-          "source": {
-            "fr": "Pensées pour moi-même, X, 16",
-            "en": "Meditations, X, 16"
-          }
-        },
+        "quoteId": "ne-dissertons-plus-sur-ce-que-marcus-aurelius",
         "references": [
           { "fr": "Pensées pour moi-même, V, 1", "en": "Meditations, V, 1" },
           { "fr": "Pensées pour moi-même, X, 16", "en": "Meditations, X, 16" },

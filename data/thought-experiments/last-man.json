@@ -1,0 +1,134 @@
+{
+  "id": "last-man",
+  "title": {
+    "fr": "Le dernier homme",
+    "en": "The last man"
+  },
+  "description": {
+    "fr": "Imaginez que vous soyez le tout dernier être humain. Une catastrophe a emporté tous les autres, et vous-même allez mourir dans quelques instants, sans descendance ni témoin à venir. Devant vous, un dispositif permettrait d'anéantir d'un coup, et sans la moindre douleur, tout ce qui reste de vivant sur la planète : les forêts, les océans, les animaux. Aucun être humain n'existera plus jamais pour s'en réjouir ou en pâtir. Rien de ce que vous ferez ne pourra donc nuire à personne. Poser la main sur ce dispositif, serait-ce commettre une faute, ou un geste indifférent ?",
+    "en": "Imagine you are the very last human being. A catastrophe has carried off all the others, and you yourself will die in a few moments, with no descendants and no witness to come. Before you, a device could wipe out at a stroke, and without the slightest pain, everything still alive on the planet: the forests, the oceans, the animals. No human being will ever again exist to rejoice in it or to suffer from it. Nothing you do can therefore harm anyone. Would laying your hand on that device be a wrong, or a matter of indifference?"
+  },
+  "source": {
+    "author": { "fr": "Richard Routley (Sylvan)", "en": "Richard Routley (Sylvan)" },
+    "work": {
+      "fr": "Faut-il une nouvelle éthique, une éthique de l'environnement ?",
+      "en": "Is There a Need for a New, an Environmental Ethic?"
+    },
+    "year": 1973
+  },
+  "question": {
+    "fr": "Dernier être humain, vous pouvez anéantir sans douleur tout ce qui reste de vie. Est-ce un mal ?",
+    "en": "As the last human being, you could painlessly wipe out all remaining life. Is it wrong?"
+  },
+  "axisIds": ["HUMAN_PLACE_NATURE", "MORAL_CIRCLE"],
+  "options": [
+    {
+      "id": "nothing-lost",
+      "label": {
+        "fr": "Non. Sans plus aucun humain pour en être privé, rien de ce qui avait de la valeur ne subsiste : cette valeur était toujours une valeur pour nous.",
+        "en": "No. With no human left to be deprived of it, nothing that had value remains: that value was always a value for us."
+      },
+      "hints": [{ "axisId": "HUMAN_PLACE_NATURE", "value": { "kind": "weights", "weights": [1, 0, 0] } }],
+      "discussion": {
+        "fr": "C'est la valeur anthropocentrée : la nature vaut comme ressource au service de l'homme, à la manière des « maîtres et possesseurs » de <ph id='descartes'>Descartes</ph> et <ph id='bacon'>Bacon</ph>. Mais l'expérience est conçue pour débusquer ce que son auteur appelait un « chauvinisme humain » : votre hésitation devant ce geste trahit peut-être que la valeur ne tenait pas qu'à nous.",
+        "en": "This is anthropocentric value: nature is worth something as a resource in the service of humanity, in the manner of <ph id='descartes'>Descartes</ph> and <ph id='bacon'>Bacon</ph>'s \"masters and possessors\". But the experiment is designed to flush out what its author called a \"human chauvinism\": your hesitation before the act may betray that the value did not rest on us alone."
+      }
+    },
+    {
+      "id": "a-trust-kept",
+      "label": {
+        "fr": "Je ne le pourrais pas. Ce monde a abrité la vie ; on ne saccage pas ce qui nous fut confié, même sans personne à qui en rendre compte.",
+        "en": "I could not do it. This world sheltered life; one does not lay waste to what was entrusted to us, even with no one left to answer to."
+      },
+      "hints": [{ "axisId": "HUMAN_PLACE_NATURE", "value": { "kind": "weights", "weights": [0, 1, 0] } }],
+      "discussion": {
+        "fr": "C'est la fidélité du gardien selon <ph id='jonas'>Jonas</ph> : notre puissance nous rend responsables de ce qui nous a été remis. Mais le cas serre un paradoxe : un gardien sans plus personne à protéger, ni bénéficiaire ni avenir, garde-t-il encore quelque chose, ou seulement l'idée qu'il s'en fait ?",
+        "en": "This is the guardian's fidelity in <ph id='jonas'>Jonas</ph>: our power makes us responsible for what has been placed in our hands. But the case tightens a paradox: a guardian with no one left to protect, neither beneficiary nor future, does he still keep anything, or only the idea he has of it?"
+      }
+    },
+    {
+      "id": "a-world-that-matters",
+      "label": {
+        "fr": "Ce serait une dévastation. Les forêts, les animaux ne seraient perdus pour personne, mais perdus en eux-mêmes : leur existence valait indépendamment de nous.",
+        "en": "It would be a devastation. The forests, the animals would be lost to no one, yet lost in themselves: their existence had worth independently of us."
+      },
+      "hints": [{ "axisId": "HUMAN_PLACE_NATURE", "value": { "kind": "weights", "weights": [0, 0, 1] } }],
+      "discussion": {
+        "fr": "Vous reconnaissez au vivant une valeur intrinsèque, avec <ph id='naess'>Næss</ph> et l'écologie profonde : ce qui poursuit son propre déploiement vaut par soi, non par son usage. La land ethic de <ph id='leopold'>Leopold</ph>, au cœur de l'<mv id='environmental-ethics'>éthique de l'environnement</mv>, élargit ainsi la communauté morale à « la terre » elle-même.",
+        "en": "You grant the living an intrinsic worth, with <ph id='naess'>Næss</ph> and deep ecology: what pursues its own unfolding is worth something in itself, not through its use. <ph id='leopold'>Leopold</ph>'s land ethic, at the heart of <mv id='environmental-ethics'>environmental ethics</mv>, widens the moral community to \"the land\" itself."
+      }
+    }
+  ],
+  "roles": [
+    {
+      "role": "OBJECTS",
+      "position": { "axisId": "MORAL_CIRCLE", "poleId": "ANTHROPOCENTRISM" },
+      "attacks": "POSITION",
+      "argumentId": "anthropocentrism-dignity",
+      "problems": ["moral-status-criterion"],
+      "summary": {
+        "fr": "Le dernier homme peut anéantir sans douleur toute vie restante : si seuls les humains comptent, le geste serait indifférent ; or il semble une faute grave, signe que la valeur ne tenait pas qu'à nous.",
+        "en": "The last man could painlessly wipe out all remaining life: if only humans count, the act would be indifferent; yet it seems a grave wrong, a sign that value did not rest on us alone."
+      },
+      "reconstruction": {
+        "development": [
+          {
+            "fr": "Soyez le dernier humain, mourant, sans descendance : vous pouvez détruire d'un coup et sans douleur toute la vie restante, forêts, océans, animaux.",
+            "en": "Be the last human, dying, with no descendants: you can destroy at a stroke and without pain all remaining life, forests, oceans, animals."
+          },
+          {
+            "fr": "Aucun humain n'existera plus pour en pâtir ou s'en réjouir : selon l'anthropocentrisme, pour qui toute valeur est valeur pour l'homme, ce geste ne lèse personne et reste indifférent.",
+            "en": "No human will exist any longer to suffer from it or rejoice in it: according to anthropocentrism, for which all value is value for humans, the act wrongs no one and remains indifferent."
+          },
+          {
+            "fr": "Or il nous apparaît comme une dévastation, une faute : ce monde vivant valait, semble-t-il, indépendamment de tout regard humain.",
+            "en": "Yet it strikes us as a devastation, a wrong: this living world had worth, it seems, independently of any human gaze."
+          }
+        ],
+        "conclusion": {
+          "fr": "Donc la valeur n'est pas seulement valeur-pour-nous : si détruire la vie sans nuire à aucun homme reste un mal, c'est que le cercle moral déborde l'humanité.",
+          "en": "So value is not only value-for-us: if destroying life without harming any human remains a wrong, then the moral circle overflows humanity."
+        }
+      },
+      "responses": [
+        {
+          "id": "revise",
+          "label": {
+            "fr": "Ce geste serait un mal : la vie, les écosystèmes valent en eux-mêmes, non par l'usage que nous en faisons.",
+            "en": "The act would be a wrong: life, ecosystems are worth something in themselves, not through the use we make of them."
+          },
+          "hints": [{ "axisId": "MORAL_CIRCLE", "value": { "kind": "weights", "weights": [0, 0.1, 0.4, 0.5] }, "weight": 2 }],
+          "discussion": {
+            "fr": "Vous reconnaissez au vivant une valeur intrinsèque, avec <ph id='naess'>Næss</ph> et <ph id='leopold'>Leopold</ph> : le cercle s'étend à la vie, voire à la terre elle-même.",
+            "en": "You grant the living an intrinsic worth, with <ph id='naess'>Næss</ph> and <ph id='leopold'>Leopold</ph>: the circle extends to life, even to the land itself."
+          }
+        },
+        {
+          "id": "qualify",
+          "label": {
+            "fr": "Au moins les animaux sensibles seraient perdus pour eux-mêmes : la sensibilité, au-delà de l'homme, mérite considération.",
+            "en": "At least sentient animals would be lost for themselves: sentience, beyond humans, deserves consideration."
+          },
+          "hints": [{ "axisId": "MORAL_CIRCLE", "value": { "kind": "weights", "weights": [0.1, 0.6, 0.2, 0.1] }, "weight": 1 }],
+          "discussion": {
+            "fr": "Vous élargissez le cercle aux êtres sensibles, sans aller jusqu'au vivant non conscient.",
+            "en": "You widen the circle to sentient beings, without going as far as non-conscious life."
+          }
+        },
+        {
+          "id": "refute",
+          "label": {
+            "fr": "Mon refus tient à ce que ce monde fut celui des hommes, ou à ce que ce geste dirait de moi : la valeur reste une valeur pour des humains, réels ou imaginés.",
+            "en": "My refusal rests on this world having been the world of humans, or on what the act would say of me: value remains a value for humans, real or imagined."
+          },
+          "hints": [{ "axisId": "MORAL_CIRCLE", "value": { "kind": "weights", "weights": [0.85, 0.1, 0.05, 0] }, "weight": 0.5 }],
+          "discussion": {
+            "fr": "La réponse anthropocentriste : votre scrupule projette encore un regard humain sur le monde, il ne prouve pas une valeur sans nous.",
+            "en": "The anthropocentric reply: your scruple still projects a human gaze onto the world, it does not prove a value without us."
+          }
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

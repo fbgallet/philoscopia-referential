@@ -79,6 +79,202 @@
   "relatedAxes": [
     "CERTAINTY",
     "KNOWLEDGE_SOURCE",
-    "KNOWLEDGE_STATUS"
+    "KNOWLEDGE_STATUS",
+    "BELIEF_ETHICS",
+    "TRUTH_NATURE"
+  ],
+  "problems": [
+    {
+      "id": "vetting-a-claim",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "une affirmation reçue", "en": "a claim received" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "témoignage", "en": "testimony" },
+        { "fr": "confiance", "en": "trust" },
+        { "fr": "faire ses propres recherches", "en": "do your own research" },
+        { "fr": "expertise", "en": "expertise" }
+      ],
+      "poles": ["FOUNDATIONALISM", "COHERENTISM", "RELIABILISM"],
+      "anchors": [
+        { "name": { "fr": "Descartes", "en": "Descartes" }, "kind": "PHILOSOPHER", "slug": "descartes" },
+        { "name": { "fr": "Reid", "en": "Reid" }, "kind": "PHILOSOPHER", "slug": "reid" }
+      ],
+      "title": { "fr": "Faut-il le croire ?", "en": "Should you believe it?" },
+      "explicitation": {
+        "fr": "Face à une affirmation qu'on ne peut vérifier soi-même, qu'est-ce qui rendrait justifié d'y croire : de pouvoir la relier à une évidence de première main, sa cohérence avec tout ce qu'on sait déjà, ou la fiabilité de la source d'où elle vient ?",
+        "en": "Faced with a claim we cannot check for ourselves, what would make believing it justified: being able to trace it to first-hand evidence, its coherence with all we already know, or the reliability of the source it comes from?"
+      }
+    },
+    {
+      "id": "regress-of-reasons",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "la chaîne des raisons", "en": "the chain of reasons" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "régression à l'infini", "en": "infinite regress" },
+        { "fr": "trilemme d'Agrippa", "en": "Agrippa's trilemma" },
+        { "fr": "trilemme de Münchhausen", "en": "Münchhausen trilemma" },
+        { "fr": "croyance de base", "en": "basic belief" }
+      ],
+      "poles": ["FOUNDATIONALISM", "COHERENTISM"],
+      "anchors": [
+        { "name": { "fr": "Sextus Empiricus", "en": "Sextus Empiricus" }, "kind": "PHILOSOPHER", "slug": "sextus-empiricus" },
+        { "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" }
+      ],
+      "title": { "fr": "La chaîne des raisons", "en": "The chain of reasons" },
+      "explicitation": {
+        "fr": "Toute croyance s'appuie sur une raison, qui s'appuie sur une autre : ou bien la chaîne s'arrête sur des croyances qui se justifient d'elles-mêmes, ou bien elle se referme en cercle où chacune soutient les autres, ou bien elle se perd à l'infini. Ces trois issues sont exactement les trois manières de répondre à « qu'est-ce qui justifie une croyance ? ».",
+        "en": "Every belief rests on a reason, which rests on another: either the chain stops at beliefs that justify themselves, or it closes into a circle where each supports the others, or it runs off to infinity. These three exits are exactly the three ways of answering \"what justifies a belief?\"."
+      }
+    },
+    {
+      "id": "self-justifying-belief",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "une croyance de base", "en": "a basic belief" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "le donné", "en": "the given" },
+        { "fr": "mythe du donné", "en": "myth of the given" },
+        { "fr": "évidence première", "en": "first evidence" },
+        { "fr": "perception chargée de théorie", "en": "theory-laden perception" }
+      ],
+      "poles": ["FOUNDATIONALISM"],
+      "anchors": [
+        { "name": { "fr": "Descartes", "en": "Descartes" }, "kind": "PHILOSOPHER", "slug": "descartes" },
+        { "name": { "fr": "Sellars", "en": "Sellars" }, "kind": "PHILOSOPHER" }
+      ],
+      "title": { "fr": "Y a-t-il des évidences premières ?", "en": "Are there first evidences?" },
+      "explicitation": {
+        "fr": "Le fondationnalisme suppose des croyances qui se justifient d'elles-mêmes, une perception ou une évidence si immédiate qu'elle n'a besoin d'aucune autre. Mais perçoit-on jamais rien de pur ? Même « je vois du rouge » mobilise déjà des concepts, une mémoire, un apprentissage : s'il n'existe aucun donné vraiment premier, sur quoi tout l'édifice repose-t-il ?",
+        "en": "Foundationalism assumes beliefs that justify themselves, a perception or an evidence so immediate it needs no other. But do we ever perceive anything pure? Even \"I see red\" already draws on concepts, memory, learning: if there is no truly first given, what does the whole edifice rest on?"
+      }
+    },
+    {
+      "id": "coherent-but-false",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "un système cohérent", "en": "a coherent system" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "objection de l'isolement", "en": "isolation objection" },
+        { "fr": "système clos", "en": "closed system" },
+        { "fr": "contact avec le réel", "en": "contact with reality" },
+        { "fr": "théorie du complot", "en": "conspiracy theory" }
+      ],
+      "poles": ["COHERENTISM"],
+      "anchors": [
+        { "name": { "fr": "Russell", "en": "Russell" }, "kind": "PHILOSOPHER", "slug": "russell" },
+        { "name": { "fr": "Schlick", "en": "Schlick" }, "kind": "PHILOSOPHER" }
+      ],
+      "title": { "fr": "Cohérent, mais faux ?", "en": "Coherent, yet false?" },
+      "explicitation": {
+        "fr": "Un ensemble de croyances peut être parfaitement cohérent et pourtant entièrement détaché du réel : un conte bien construit, un délire systématique, une théorie du complot qui explique tout et absorbe chaque objection. Si la cohérence ne suffit pas à toucher le monde, ne faut-il pas que les croyances répondent aussi à quelque chose du dehors, à l'expérience qui les dément ?",
+        "en": "A set of beliefs can be perfectly coherent and yet wholly cut off from reality: a well-built tale, a systematic delusion, a conspiracy theory that explains everything and absorbs every objection. If coherence is not enough to touch the world, must beliefs not also answer to something outside, to the experience that contradicts them?"
+      }
+    },
+    {
+      "id": "justified-without-knowing-why",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "une croyance bien formée", "en": "a well-formed belief" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "internalisme", "en": "internalism" },
+        { "fr": "externalisme", "en": "externalism" },
+        { "fr": "processus fiable", "en": "reliable process" },
+        { "fr": "accès aux raisons", "en": "access to one's reasons" }
+      ],
+      "poles": ["RELIABILISM"],
+      "anchors": [
+        { "name": { "fr": "Goldman", "en": "Goldman" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "BonJour", "en": "BonJour" }, "kind": "PHILOSOPHER" }
+      ],
+      "title": { "fr": "Faut-il pouvoir se justifier ?", "en": "Must you be able to justify yourself?" },
+      "explicitation": {
+        "fr": "Pour être justifié, faut-il pouvoir donner ses raisons, ou suffit-il que la croyance ait été bien produite ? Un expert « sent » le bon diagnostic sans savoir l'expliquer ; à l'inverse, on hésiterait à dire qu'il sait, celui dont les intuitions tombent juste par un pouvoir qu'il ignore. La justification est-elle dans les raisons qu'on peut donner, ou dans la fiabilité du processus, même invisible à celui qui l'exerce ?",
+        "en": "To be justified, must one be able to give one's reasons, or is it enough that the belief was well produced? An expert \"senses\" the right diagnosis without being able to explain it; conversely, we would hesitate to say he knows, the one whose hunches hit the mark through a power he knows nothing of. Does justification lie in the reasons one can give, or in the reliability of the process, even when invisible to the one who exercises it?"
+      }
+    },
+    {
+      "id": "luck-and-knowledge",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "une croyance vraie par chance", "en": "a belief true by luck" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "problème de Gettier", "en": "Gettier problem" },
+        { "fr": "croyance vraie justifiée", "en": "justified true belief" },
+        { "fr": "chance épistémique", "en": "epistemic luck" },
+        { "fr": "connexion non accidentelle", "en": "non-accidental connection" }
+      ],
+      "poles": ["RELIABILISM"],
+      "anchors": [
+        { "name": { "fr": "Gettier", "en": "Gettier" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "Platon", "en": "Plato" }, "kind": "PHILOSOPHER", "slug": "plato" },
+        { "name": { "fr": "Russell", "en": "Russell" }, "kind": "PHILOSOPHER", "slug": "russell" }
+      ],
+      "title": { "fr": "Vrai par chance", "en": "True by luck" },
+      "explicitation": {
+        "fr": "La définition classique tient le savoir pour une croyance à la fois vraie et justifiée. Or on peut croire une chose pour de bonnes raisons, et qu'elle soit vraie, sans savoir pour autant : l'horloge arrêtée qu'on regarde juste à l'heure qu'elle indique encore, le rocher qu'on prend de loin pour un mouton alors qu'un vrai broute derrière. La croyance est vraie et justifiée, mais elle tombe juste par accident. Faut-il alors redéfinir ce qu'est le savoir, ou durcir ce qu'on est en droit d'exiger d'une justification, jusqu'à ce qu'elle relie la croyance au vrai autrement que par chance ?",
+        "en": "The classic definition holds knowledge to be a belief that is both true and justified. Yet one can believe something for good reasons, and have it be true, without thereby knowing it: the stopped clock we glance at just at the hour it still shows, the rock we take from afar for a sheep while a real one grazes behind it. The belief is true and justified, but it hits the mark by accident. Must we then redefine what knowledge is, or tighten what we are entitled to demand of a justification, until it links belief to truth otherwise than by luck?"
+      }
+    },
+    {
+      "id": "ethics-of-belief",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "l'acte de croire", "en": "the act of believing" },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "EPISTEMIC",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "évidentialisme", "en": "evidentialism" },
+        { "fr": "éthique de la croyance", "en": "ethics of belief" },
+        { "fr": "volonté de croire", "en": "will to believe" }
+      ],
+      "anchors": [
+        { "name": { "fr": "Clifford", "en": "Clifford" }, "kind": "PHILOSOPHER", "slug": "clifford" },
+        { "name": { "fr": "William James", "en": "William James" }, "kind": "PHILOSOPHER", "slug": "william-james" }
+      ],
+      "doorways": [{ "axis": "BELIEF_ETHICS" }],
+      "title": { "fr": "A-t-on le droit de croire ?", "en": "Have we the right to believe?" },
+      "explicitation": {
+        "fr": "Au-delà de ce qui rend une croyance justifiée, est-il permis de croire sans preuve suffisante, ou est-ce une faute, envers soi comme envers les autres ? La question de la garantie prolonge celle du devoir de croire.",
+        "en": "Beyond what makes a belief justified, is it permissible to believe without sufficient evidence, or is it a fault, toward oneself as toward others? The question of warrant extends into that of the duty of belief."
+      }
+    },
+    {
+      "id": "post-truth",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "le vrai comme visée", "en": "truth as the aim" },
+      "mode": "DESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "post-vérité", "en": "post-truth" },
+        { "fr": "faits alternatifs", "en": "alternative facts" },
+        { "fr": "relativisme", "en": "relativism" },
+        { "fr": "indifférence au vrai", "en": "indifference to truth" }
+      ],
+      "anchors": [
+        { "name": { "fr": "Frankfurt", "en": "Frankfurt" }, "kind": "PHILOSOPHER", "slug": "frankfurt" }
+      ],
+      "doorways": [{ "axis": "TRUTH_NATURE" }],
+      "title": { "fr": "L'ère de la post-vérité", "en": "The post-truth age" },
+      "explicitation": {
+        "fr": "Toute la question de la justification suppose qu'il y ait un vrai à atteindre. Mais quand les « faits alternatifs » et l'indifférence au vrai s'installent, est-ce la vérité elle-même qui vacille, ou seulement notre honnêteté à la chercher ?",
+        "en": "The whole question of justification presupposes that there is a truth to reach. But when \"alternative facts\" and indifference to truth take hold, is it truth itself that wavers, or only our honesty in seeking it?"
+      }
+    }
   ]
 }

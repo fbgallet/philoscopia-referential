@@ -1,0 +1,107 @@
+{
+  "id": "eudaimonism-function-argument",
+  "kind": "SUPPORTS",
+  "position": {
+    "axisId": "SOVEREIGN_GOOD",
+    "poleId": "EUDAIMONISM"
+  },
+  "name": {
+    "fr": "L'argument de la fonction (ergon)",
+    "en": "The function argument (ergon)"
+  },
+  "claim": {
+    "fr": "Comme le bon flûtiste est celui qui joue bien, l'homme bon est celui qui accomplit bien ce qui fait l'homme : c'est là son bien.",
+    "en": "Just as the good flautist is the one who plays well, the good human being is the one who does well what makes a human: that is where their good lies."
+  },
+  "summary": {
+    "fr": "Le bien de chaque chose tient à l'accomplissement excellent de sa fonction propre ; celle de l'homme est l'activité de l'âme selon la raison, si bien que son bien est de mener excellemment, toute une vie, cette activité rationnelle.",
+    "en": "The good of anything lies in the excellent performance of its proper function; the human function is the soul's activity in accordance with reason, so the human good is to carry out that rational activity excellently, over a whole life."
+  },
+  "development": [
+    {
+      "fr": "Pour un flûtiste, un sculpteur, un artisan, le bien et le « bien faire » tiennent à leur fonction propre, à l'œuvre qu'ils sont seuls à pouvoir accomplir. Demandons de même : l'homme, en tant qu'homme, a-t-il une œuvre propre ?",
+      "en": "For a flautist, a sculptor, a craftsman, the good and 'doing well' lie in their proper function, in the work they alone can accomplish. Let us ask the same: does the human being, as a human, have a proper work?"
+    },
+    {
+      "fr": "Ni la simple vie, qu'il partage avec les plantes, ni la sensation, qu'il partage avec les animaux, ne lui sont propres : ce qui l'est, c'est l'activité de l'âme selon la raison, la vie d'un être capable de délibérer et de donner forme à sa conduite.",
+      "en": "Neither mere life, which it shares with plants, nor sensation, which it shares with animals, is proper to it: what is proper is the soul's activity in accordance with reason, the life of a being able to deliberate and give form to its conduct."
+    },
+    {
+      "fr": "Or le bien d'une chose est d'accomplir excellemment sa fonction propre. Le bien de l'homme est donc l'exercice de cette activité rationnelle selon l'excellence qui lui convient, la <kw>vertu</kw>, et cela non un jour, mais tout au long d'une vie.",
+      "en": "Now the good of a thing is to perform its proper function excellently. The human good is therefore the exercise of this rational activity in accordance with the excellence proper to it, <kw>virtue</kw>, and this not for a day, but over a whole life."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc le souverain bien n'est ni le plaisir ni la vertu prise à part, mais l'<c id='eudaimonism'>épanouissement</c> : l'activité entière d'une vie humaine menée excellemment, le plaisir la couronnant sans en être le but.",
+    "en": "So the highest good is neither pleasure nor virtue taken apart, but <c id='eudaimonism'>flourishing</c>: the whole activity of a human life carried out excellently, with pleasure crowning it rather than being its aim."
+  },
+  "deepenings": [
+    {
+      "id": "why-reason-not-life-or-sensation",
+      "label": {
+        "fr": "Pourquoi la raison, et non la vie ou la sensation",
+        "en": "Why reason, and not life or sensation"
+      },
+      "targetStep": 1,
+      "development": [
+        {
+          "fr": "<ph id='aristotle'>Aristote</ph> écarte la vie nutritive et la sensation non par mépris, mais par méthode : ce qui définit le bien propre d'un être, c'est ce qu'il ne partage avec nul autre. Croître, se nourrir : les plantes le font ; sentir, se mouvoir : les bêtes aussi.",
+          "en": "<ph id='aristotle'>Aristotle</ph> sets aside nutritive life and sensation not out of contempt, but by method: what defines the proper good of a being is what it shares with no other. Growing, feeding: plants do that; sensing, moving: so do beasts."
+        },
+        {
+          "fr": "Reste en propre à l'homme la part de l'âme qui possède la raison et celle qui peut lui obéir. C'est donc dans une vie guidée par la raison, non dans ce que nous avons de commun avec le reste du vivant, que se joue notre accomplissement.",
+          "en": "What remains proper to the human is the part of the soul that possesses reason and the part that can obey it. It is therefore in a life guided by reason, not in what we have in common with the rest of the living, that our fulfillment is at stake."
+        }
+      ],
+      "source": {
+        "author": {
+          "fr": "Aristote",
+          "en": "Aristotle"
+        },
+        "figures": [
+          {
+            "name": {
+              "fr": "Aristote",
+              "en": "Aristotle"
+            },
+            "kind": "PHILOSOPHER",
+            "slug": "aristotle"
+          }
+        ],
+        "work": {
+          "fr": "Éthique à Nicomaque, I, 7",
+          "en": "Nicomachean Ethics, I, 7"
+        },
+        "workId": "nicomachean-ethics-aristotle"
+      }
+    }
+  ],
+  "difficulty": 1,
+  "source": {
+    "author": {
+      "fr": "Aristote",
+      "en": "Aristotle"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Aristote",
+          "en": "Aristotle"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "aristotle"
+      }
+    ],
+    "work": {
+      "fr": "Éthique à Nicomaque, I, 7",
+      "en": "Nicomachean Ethics, I, 7"
+    },
+    "workId": "nicomachean-ethics-aristotle"
+  },
+  "testThoughtExperiment": "fragility-of-goodness",
+  "problems": [
+    "acting-or-being-well-off",
+    "three-lives"
+  ],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
+}

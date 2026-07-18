@@ -8,6 +8,7 @@ import { z } from "zod";
 import {
   axesDigest,
   axisView,
+  entityRichView,
   entityView,
   pickLocale,
   positionSlice,
@@ -73,10 +74,30 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
     {
       title: "List the axes",
       description:
-        "The axis map (id, question, poles), grouped by relation. Start here to pick an axis; pass relation (TRUTH, SELF, OTHERS or WORLD) to fetch a quarter of it.",
-      inputSchema: { relation: z.enum(["TRUTH", "SELF", "OTHERS", "WORLD"]).optional() },
+        "The axis map (id, question, poles), grouped by relation. Default = the CORE axes only (the referential's backbone, ~2 dozen nodal questions) with a note counting the rest; pass relation (TRUTH, SELF, OTHERS or WORLD) for that quarter's FULL list, or all:true for the whole map. To locate one specific axis, search is cheaper.",
+      inputSchema: {
+        relation: z.enum(["TRUTH", "SELF", "OTHERS", "WORLD"]).optional(),
+        all: z.boolean().optional().describe("The whole 70+ axis map"),
+      },
     },
-    async ({ relation }) => asText(axesDigest(corpus, locale, relation)),
+    async ({ relation, all }) => {
+      const groups = axesDigest(corpus, locale, relation);
+      if (relation || all === true) return asText(groups);
+      // Default: the core (nodal) axes only — the map's backbone. The full map
+      // stays one call away; the note keeps the model from assuming these are
+      // ALL the axes. Mirrors the web companion's list_axes.
+      const core: Record<string, unknown> = {};
+      let rest = 0;
+      for (const [rel, list] of Object.entries(groups as Record<string, Array<{ core?: boolean }>>)) {
+        const kept = list.filter((axis) => axis.core);
+        rest += list.length - kept.length;
+        if (kept.length > 0) core[rel] = kept.map(({ core: _core, ...axis }) => axis);
+      }
+      return asText({
+        ...core,
+        note: `CORE axes only. ${rest} more axes exist: relation:"TRUTH|SELF|OTHERS|WORLD" for a full quarter, all:true for the whole map, or search to locate one.`,
+      });
+    },
   );
 
   server.registerTool(
@@ -119,7 +140,7 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
     {
       title: "Read a referential entity",
       description:
-        "Any entity by prefixed ref: ph:epictetus, mv:stoicism, chr:… (character), c:… (concept), te:… (thought experiment), w:… (work), ax:… (axis), problem:… (one axis sub-problem, with its home axis), arg:… (a corpus argument: its claim, step-by-step development, source, and — for an objection — the resolution options). A figure arrives as a DIGEST (~1k tokens): identity, structuring theses, and every position WITHOUT its justification — get_position supplies the justifications you actually discuss. full:true (~5-8k tokens) only for a whole-figure portrait, or when you do not know the figure at all.",
+        "Any entity by prefixed ref: ph:epictetus, mv:stoicism, chr:… (character), c:… (concept), te:… (thought experiment), w:… (work), ax:… (axis), problem:… (one axis sub-problem, with its home axis), arg:… (a corpus argument: its claim, step-by-step development, source, and — for an objection — the resolution options). A figure arrives as a DIGEST (~1k tokens): identity, structuring theses, and every position WITHOUT its justification — get_position supplies the justifications you actually discuss. full:true (the RICH view, ~2-5k tokens: summary, voice, the justified MAJOR/structuring positions — minor positions stay compact lines, get_position widens one) only for a whole-figure portrait, or when you do not know the figure at all.",
       inputSchema: {
         ref: z.string().describe("Prefixed ref, e.g. ph:epictetus"),
         full: z.boolean().optional().describe("Whole profile (unknown figure / full portrait)"),
@@ -129,7 +150,7 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
       const entity = corpus.byRef.get(ref);
       if (!entity) return asError(new Error(`"${ref}" not found. Prefixes: ax, ph, mv, chr, c, te, w, problem, arg.`));
       const flat = pickLocale(entity, locale);
-      return asText(full ? stripMachineFields(flat, ref.startsWith("ax:")) : entityView(ref, flat));
+      return asText(full ? entityRichView(ref, flat) : entityView(ref, flat));
     },
   );
 
@@ -344,7 +365,7 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
     {
       title: "Add a workspace entry",
       description:
-        "Append one entry to a personal collection (schema-validated; id generated if omitted). Sentences (statement, definition, why…) are the USER's words. Required per collection — beliefs: statement + mode + adherence (a conviction that IS an axis position goes through record_position instead); inquiries (a live questioning): statement + kind (DOUBT = putting one of their OWN convictions to the test, name it in relatedBeliefs); concepts: term + definition + clarity, or ref (c:…) to adopt a referential concept; affinities (a love or hate): feeling + subject — MODELS live here: an admired figure/lifestyle/school is feeling LOVE + exemplar true (an anti-model: HATE + exemplar true), with figureRef and facets; practices (what they actually DO): statement + kind; quotes (the florilège): text — VERBATIM, exactly as the user provides or as faithfully sourced, NEVER invented, completed or approximated (when unsure of the wording, ask; a plausible pseudo-quote is a betrayal) — plus source, explanation (objective gloss), note (what it does to THEM); readings (the reading register): title (any text) or workRef (w:… when the registry knows the work) + scope — status TO_READ makes it a reading list, half the register's value.",
+        "Append one entry to a personal collection (schema-validated; id generated if omitted). Sentences (statement, definition, why…) are the USER's words; enums and per-field markers are on the fields. Required per collection — beliefs: statement + mode + adherence (a conviction that IS an axis position goes through record_position instead). inquiries (a live questioning): statement + kind (DOUBT = putting one of their OWN convictions to the test, named in relatedBeliefs). concepts: term + definition + clarity, or ref (c:…) to adopt a referential concept. affinities (a love or hate): feeling + subject; MODELS live here — an admired figure/lifestyle/school is LOVE + exemplar true (an anti-model: HATE + exemplar true), with figureRef and facets. practices (what they actually DO): statement + kind. quotes (the florilège): text VERBATIM — never invented, completed or approximated — plus source. readings (the reading register): title or workRef (w:…, search first) + scope; status TO_READ makes it a reading list, half the register's value.",
       inputSchema: {
         collection: z.enum(COLLECTIONS),
         entry: z.object({

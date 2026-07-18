@@ -1,0 +1,35 @@
+{
+  "id": "representation",
+  "term": {
+    "fr": "Représentation",
+    "en": "Representation"
+  },
+  "aliases": {
+    "fr": [
+      "Vorstellung"
+    ],
+    "en": [
+      "Vorstellung"
+    ]
+  },
+  "definition": {
+    "fr": "La représentation (Vorstellung) désigne l'objet tel qu'il se présente à un sujet, sous les formes de l'espace, du temps et de la causalité, par opposition à la chose telle qu'elle serait en soi. Le terme est central chez <ph id='kant'>Kant</ph>, mais <ph id='schopenhauer'>Schopenhauer</ph> en fait le premier mot de son système, « le monde est ma représentation » : un phénomène tout entier relatif à un sujet connaissant, dont l'envers, saisi à travers notre propre corps, est le <c id='vouloir-vivre'>vouloir-vivre</c>.",
+    "en": "Representation (Vorstellung) names the object as it presents itself to a subject, under the forms of space, time, and causality, as opposed to the thing as it might be in itself. The term is central in <ph id='kant'>Kant</ph>, but <ph id='schopenhauer'>Schopenhauer</ph> makes it the first word of his system, 'the world is my representation': a phenomenon wholly relative to a knowing subject, whose reverse side, grasped through our own body, is the <c id='vouloir-vivre'>will-to-live</c>."
+  },
+  "relatedAxes": [
+    "REALITY_NATURE",
+    "KNOWLEDGE_SOURCE"
+  ],
+  "relatedTerms": [
+    "thing-in-itself",
+    "idealism",
+    "vouloir-vivre"
+  ],
+  "positions": [
+    {
+      "axisId": "REALITY_NATURE",
+      "poleId": "IDEALISM"
+    }
+  ],
+  "updatedAt": "2026-07-13T00:00:00.000Z"
+}

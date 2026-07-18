@@ -24,7 +24,7 @@ Idéalisme 100%
 
 Berkeley part d'une remarque empiriste simple : tout ce dont j'ai l'idée, je l'ai par les sens, donc comme une perception. Or supposer derrière mes perceptions une matière qui existerait sans être perçue, c'est supposer l'idée d'une chose dont, par définition, je ne puis avoir aucune idée : contradiction. Il retourne ainsi l'empirisme de [Locke](../philosophers/locke.md) contre la matière même : ce que nous appelons les corps n'est qu'une collection réglée d'idées sensibles, et exister, pour elles, c'est être perçues. Reste ce qui perçoit, l'esprit, seule substance véritable. Loin de nier le monde, il prétend le sauver du scepticisme en supprimant le voile d'une matière inconnaissable interposée entre nous et lui.
 
-> « Leur être est d'être perçus ; il n'est pas possible qu'ils aient une existence hors des esprits qui les perçoivent. » (Principes de la connaissance humaine, §3)
+> « Leur être est d'être perçus ; il n'est pas possible qu'ils aient une existence hors des esprits qui les perçoivent. », Principes de la connaissance humaine, §3
 
 *Sources : Principes de la connaissance humaine, §§3-7 · Trois dialogues entre Hylas et Philonous, I*
 

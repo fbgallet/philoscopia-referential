@@ -1,0 +1,81 @@
+{
+  "id": "plasticity-crooked-timber-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "HUMAN_VISION", "median": true },
+  "name": { "fr": "Le bois dont rien ne fait une planche droite", "en": "The timber from which no straight plank is made" },
+  "attacks": "POSITION",
+  "claim": {
+    "fr": "On ne refait pas l'homme à volonté : certains penchants, la peur, l'envie, la préférence pour les siens, reparaissent dans toutes les cultures, quelque éducation qu'on donne.",
+    "en": "One does not remake man at will: certain bents, fear, envy, the preference for one's own, reappear in all cultures, whatever education is given."
+  },
+  "summary": {
+    "fr": "La plasticité parie sur une malléabilité presque sans limite. Mais des traits constants se retrouvent partout et à toutes les époques ; et les entreprises pour fabriquer un « homme nouveau » ont souvent produit la terreur. La malléabilité a des bornes : l'éducation discipline ce fond, ne l'abolit pas.",
+    "en": "Plasticity bets on an almost limitless malleability. But constant traits recur everywhere and in every age; and attempts to manufacture a 'new man' have often produced terror. Malleability has bounds: education disciplines this depth, it does not abolish it."
+  },
+  "development": [
+    {
+      "fr": "La plasticité parie que l'éducation et les institutions peuvent façonner l'homme presque sans limite, pour le meilleur.",
+      "en": "Plasticity bets that education and institutions can shape man almost without limit, for the better."
+    },
+    {
+      "fr": "Mais certains traits se retrouvent partout, à toutes les époques et sous toutes les cultures : la peur de la mort, l'attachement aux siens contre l'étranger, l'envie, la soif de statut. Ce socle constant résiste à toutes les éducations.",
+      "en": "But certain traits recur everywhere, in every age and under every culture: the fear of death, the attachment to one's own against the stranger, envy, the thirst for status. This constant bedrock resists every education."
+    },
+    {
+      "fr": "Et les entreprises pour fabriquer un « homme nouveau », en refaisant de fond en comble les mœurs, n'ont pas produit des anges mais, souvent, la terreur : le bois de l'humanité est trop tordu pour qu'on en tire jamais une planche droite.",
+      "en": "And the attempts to manufacture a 'new man', by remaking mores from top to bottom, have produced not angels but, often, terror: the timber of humanity is too crooked for any straight plank ever to be cut from it."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la malléabilité a des bornes : l'éducation peut discipliner ce fond, non l'abolir. Compter sur une plasticité sans limite, c'est s'exposer à le voir resurgir, d'autant plus violent qu'on l'aura nié.",
+    "en": "So malleability has bounds: education can discipline this depth, not abolish it. To count on a limitless plasticity is to court its return, all the more violent for having been denied."
+  },
+  "difficulty": 3,
+  "source": {
+    "author": { "fr": "Kant, Isaiah Berlin", "en": "Kant, Isaiah Berlin" },
+    "figures": [{ "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" }],
+    "work": { "fr": "Idée d'une histoire universelle au point de vue cosmopolitique", "en": "Idea for a Universal History with a Cosmopolitan Aim" },
+    "year": 1784
+  },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "Sous toutes les cultures, les mêmes passions reviennent : il y a un fond que l'éducation contient sans le refaire.",
+        "en": "Under all cultures, the same passions return: there is a depth that education contains without remaking it."
+      },
+      "hints": [{ "axisId": "HUMAN_VISION", "value": { "kind": "scalar", "value": 0.6 }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous penchez vers le pessimisme : un socle de passions résiste à l'histoire et borne ce que l'éducation peut faire.",
+        "en": "You lean toward pessimism: a bedrock of passions resists history and bounds what education can do."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je garde la plasticité, mais bornée : on peut beaucoup, non tout ; l'éducation compose avec des constantes.",
+        "en": "I keep plasticity, but bounded: much is possible, not all; education works with constants."
+      },
+      "hints": [{ "axisId": "HUMAN_VISION", "value": { "kind": "scalar", "value": 0.25 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Une plasticité tempérée : malléable dans des limites que la nature et l'histoire fixent.",
+        "en": "A tempered plasticity: malleable within limits set by nature and history."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Ces « constantes » sont plus plastiques qu'il n'y paraît : peur, appartenance, statut prennent mille formes selon les cultures. Ce n'est pas le fond qui est fixe, ce sont nos institutions qui manquent d'imagination.",
+        "en": "These 'constants' are more plastic than they seem: fear, belonging, status take a thousand forms across cultures. It is not the depth that is fixed, it is our institutions that lack imagination."
+      },
+      "hints": [{ "axisId": "HUMAN_VISION", "value": { "kind": "scalar", "value": 0 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "La réponse de la plasticité : la variété des cultures montre que les « invariants » sont eux-mêmes façonnés.",
+        "en": "The plasticity reply: the variety of cultures shows that the 'invariants' are themselves shaped."
+      }
+    }
+  ],
+  "targets": ["plasticity-neither-angel-nor-beast"],
+  "problems": ["perfectibility", "institutions-for-devils"],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

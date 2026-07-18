@@ -1,0 +1,80 @@
+{
+  "id": "biocentrism-no-interests-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "MORAL_CIRCLE", "poleId": "BIOCENTRISM" },
+  "name": { "fr": "Un bien, mais pour qui ?", "en": "A good, but for whom?" },
+  "attacks": "POSITION",
+  "claim": {
+    "fr": "Une plante n'a pas d'intérêts, seulement des besoins : sans un sujet à qui son sort puisse faire quelque chose, il n'y a personne à léser.",
+    "en": "A plant has no interests, only needs: without a subject to whom its fate can matter, there is no one to wrong."
+  },
+  "summary": {
+    "fr": "Le biocentrisme accorde une valeur à tout ce qui poursuit son bien. Mais « poursuivre un bien » peut n'être qu'une image, comme l'horloge qui « veut » donner l'heure : un intérêt véritable suppose un sujet capable de ressentir son sort, faute de quoi le respect n'a plus de destinataire.",
+    "en": "Biocentrism grants worth to all that pursues its good. But 'pursuing a good' may be only a metaphor, like the clock that 'wants' to tell the time: a genuine interest requires a subject able to feel its fate, failing which respect has no addressee."
+  },
+  "development": [
+    {
+      "fr": "Le biocentrisme accorde une valeur propre à tout ce qui poursuit son bien, sensible ou non.",
+      "en": "Biocentrism grants a worth of its own to all that pursues its good, sentient or not."
+    },
+    {
+      "fr": "Mais « poursuivre un bien » se dit en deux sens : une horloge « veut » donner l'heure, un virus « veut » se répliquer, sans que rien n'importe à personne. Un intérêt véritable suppose un sujet à qui son sort peut faire quelque chose.",
+      "en": "But 'pursuing a good' is said in two senses: a clock 'wants' to tell the time, a virus 'wants' to replicate, without anything mattering to anyone. A genuine interest presupposes a subject to whom its fate can make a difference."
+    },
+    {
+      "fr": "Sans sensibilité, nul point de vue depuis lequel vivre ou mourir soit bon ou mauvais pour l'organisme : on peut le détruire, on ne le lèse pas ; le « respect » n'a plus de destinataire.",
+      "en": "Without sentience, there is no point of view from which living or dying is good or bad for the organism: one can destroy it, one does not wrong it; 'respect' has no addressee."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la valeur morale requiert un être capable de ressentir son bien : au-dessous de la sensibilité, il y a des mécanismes admirables, non des sujets envers qui l'on aurait des devoirs.",
+    "en": "So moral worth requires a being able to feel its good: below sentience there are admirable mechanisms, not subjects toward whom we would have duties."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": { "fr": "Singer", "en": "Singer" },
+    "figures": [{ "name": { "fr": "Singer", "en": "Singer" }, "kind": "PHILOSOPHER", "slug": "singer" }],
+    "work": { "fr": "Questions d'éthique pratique", "en": "Practical Ethics" }
+  },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est juste : sans un être qui ressent, il n'y a personne à léser. Seule la sensibilité fait entrer dans le cercle.",
+        "en": "Fair enough: without a being that feels, there is no one to wrong. Only sentience brings one into the circle."
+      },
+      "hints": [{ "axisId": "MORAL_CIRCLE", "value": { "kind": "weights", "weights": [0.05, 0.8, 0.12, 0.03] }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous revenez au pathocentrisme : la ligne du cercle est celle des êtres qui ont un point de vue sur leur vie.",
+        "en": "You return to pathocentrism: the line of the circle is that of beings with a point of view on their life."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je place la sensibilité au premier rang, mais je garde un respect pour le vivant qui interdit de le détruire sans raison.",
+        "en": "I place sentience first, but I keep a respect for the living that forbids destroying it without reason."
+      },
+      "hints": [{ "axisId": "MORAL_CIRCLE", "value": { "kind": "weights", "weights": [0.05, 0.45, 0.45, 0.05] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Une position mixte : la souffrance oblige au premier chef, le vivant en général appelle une retenue.",
+        "en": "A mixed position: suffering obligates first of all, life in general calls for restraint."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "La différence n'est pas dans le ressenti mais dans l'orientation vers une fin : un être qui poursuit son propre déploiement n'est pas une horloge, et le mépriser reste une faute.",
+        "en": "The difference lies not in feeling but in orientation toward an end: a being that pursues its own unfolding is not a clock, and to scorn it remains a wrong."
+      },
+      "hints": [{ "axisId": "MORAL_CIRCLE", "value": { "kind": "weights", "weights": [0.03, 0.12, 0.8, 0.05] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "La réponse biocentriste : avoir un télos propre suffit à valoir, indépendamment de la conscience.",
+        "en": "The biocentric reply: having a telos of one's own suffices for worth, independently of consciousness."
+      }
+    }
+  ],
+  "targets": ["biocentrism-reverence-for-life"],
+  "problems": ["reverence-for-life", "moral-status-criterion"],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

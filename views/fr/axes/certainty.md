@@ -59,6 +59,38 @@ On peut tenir des croyances solides et justifiées tout en sachant qu'elles pour
 
 - Avec [Existence de Dieu](../axes/god-existence.md) : Soutenir qu'on ne peut être certain de rien, puis affirmer avec assurance que Dieu n'existe pas, met deux croyances en tension : la seconde est une thèse métaphysique forte, justement le genre de certitude que le scepticisme refuse. Un scepticisme conséquent inclinerait plutôt vers l'agnosticisme.
 
+## Citations
+
+> « À tout argument s'oppose un argument égal. » — [Sextus Empiricus](../philosophers/sextus-empiricus.md), Esquisses pyrrhoniennes, I, 12
+
+> « À toute raison s'oppose une raison de force égale. » — [Sextus Empiricus](../philosophers/sextus-empiricus.md), Esquisses pyrrhoniennes, I, 12
+
+> « Ce que je ne sais pas, je ne pense pas non plus le savoir. » — [Socrate](../philosophers/socrates.md), Platon, Apologie, 21d
+
+> « Comment saurais-je que ce que j'appelle savoir n'est pas de l'ignorance, et que ce que j'appelle ignorance n'est pas du savoir ? » — [Zhuangzi](../philosophers/zhuangzi.md), ch. 2 (Discours sur l'égalité des choses)
+
+> « Il n'y a pas de faits, seulement des interprétations. » — [Nietzsche](../philosophers/nietzsche.md), Fragments posthumes, automne 1885-1886, 7[60]
+
+> « Il ne peut y avoir de vérité autre, au point de départ, que celle-ci : je pense, donc je suis, c'est là la vérité absolue de la conscience s'atteignant elle-même. » — [Sartre](../philosophers/sartre.md), L'existentialisme est un humanisme
+
+> « Je l'avoue franchement, c'est l'objection de David Hume qui, voici bien des années, interrompit mon sommeil dogmatique. » — [Kant](../philosophers/kant.md), Prolégomènes, Préface
+
+> « Je ne sais pas si ce monde a un sens qui le dépasse. Mais je sais que je ne connais pas ce sens et qu'il m'est impossible pour le moment de le connaître. » — [Camus](../philosophers/camus.md), Le Mythe de Sisyphe
+
+> « Je pense, donc je suis. » — [Descartes](../philosophers/descartes.md), Discours de la méthode, IV
+
+> « Le dao qu'on peut nommer dao n'est pas le dao constant. » — [Laozi](../philosophers/laozi.md), Dao De Jing, ch. 1
+
+> « Le Dao qu'on peut nommer n'est pas le Dao constant. » — [Laozi](../philosophers/laozi.md), Dao De Jing, ch. 1
+
+> « Les choses ne sont pas plus ceci que cela, ni les deux à la fois, ni ni l'un ni l'autre. » — [Pyrrhon](../philosophers/pyrrho.md), Aristoclès, cité par Eusèbe, Préparation évangélique, XIV, 18
+
+> « Quand surgira une controverse, il n'y aura pas plus besoin de discuter entre deux philosophes qu'entre deux comptables. Il leur suffira de prendre la plume, de s'asseoir et de se dire : calculons. » — [Leibniz](../philosophers/leibniz.md), De l'art combinatoire / Lettres
+
+> « Que sais-je ? » — [Michel de Montaigne](../philosophers/montaigne.md), Essais, II, 12, « Apologie de Raimond Sebond »
+
+> « Réduire au silence une opinion, c'est voler l'humanité ; ceux qui dissentent plus encore que ceux qui la partagent. » — [Mill](../philosophers/mill.md), De la liberté, ch. 2
+
 ## Axes liés
 
 [Justification de la croyance](../axes/epistemic-justification.md) · [Éthique de la croyance](../axes/belief-ethics.md) · [Source de la connaissance](../axes/knowledge-source.md) · [Nature de la vérité](../axes/truth-nature.md) · [Méthode scientifique](../axes/scientific-method.md) · [Nature de l'esprit et du réel](../axes/reality-nature.md)

@@ -1,0 +1,73 @@
+{
+  "id": "libertarianism-self-ownership",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "DISTRIBUTIVE_JUSTICE", "poleId": "LIBERTARIANISM" },
+  "name": { "fr": "L'argument de la propriété de soi", "en": "The self-ownership argument" },
+  "claim": {
+    "fr": "Je m'appartiens : nul n'a sur mon corps, mon temps et mon travail un droit que je ne lui aie cédé. Ce qui en naît est donc mien.",
+    "en": "I own myself: no one has over my body, my time, and my labor a right that I have not granted them. What comes of it is therefore mine."
+  },
+  "summary": {
+    "fr": "De la propriété de soi découle celle des fruits de son travail et des échanges libres ; une répartition est juste selon la manière dont elle s'est formée, non selon la figure qu'elle dessine. Redistribuer de force revient alors à disposer du travail d'autrui, donc à le posséder en partie.",
+    "en": "From self-ownership follows ownership of the fruits of one's labor and of free exchanges; a distribution is just by how it came about, not by the shape it forms. Forced redistribution then amounts to disposing of another's labor, hence to owning them in part."
+  },
+  "development": [
+    {
+      "fr": "Chacun est propriétaire de lui-même, de son corps, de son temps, de ses forces ; personne d'autre n'y a un droit premier, sinon l'esclavage serait légitime. C'est un <ax id='RIGHTS_NATURE' pole='NATURAL_RIGHTS'>droit sur soi</ax> qu'aucune société ne confère et qu'aucune ne peut retirer.",
+      "en": "Each person owns themselves, their body, their time, their powers; no one else holds a prior right over them, else slavery would be legitimate. It is a <ax id='RIGHTS_NATURE' pole='NATURAL_RIGHTS'>right over oneself</ax> that no society confers and none may withdraw."
+    },
+    {
+      "fr": "Or ce que je produis avec ce qui est mien, et ce que d'autres me cèdent librement en échange, prolonge cette propriété : le fruit du travail et de l'échange libre m'appartient au même titre.",
+      "en": "Now what I produce with what is mine, and what others freely transfer to me in exchange, extends that ownership: the fruit of labor and free exchange belongs to me on the same footing."
+    },
+    {
+      "fr": "Une répartition est alors juste selon la manière dont elle s'est formée, par acquisitions et transferts légitimes, non selon la figure qu'elle dessine à un instant donné : il n'y a pas de « bonne photographie » des richesses à faire respecter.",
+      "en": "A distribution is then just according to how it came about, through legitimate acquisitions and transfers, not according to the shape it forms at a given instant: there is no 'right snapshot' of wealth to be enforced."
+    },
+    {
+      "fr": "Dès lors, prélever de force une part de mes gains pour redessiner cette photographie, c'est disposer de mon travail sans mon accord, donc me traiter comme si j'appartenais en partie à autrui.",
+      "en": "Hence, forcibly taking part of my earnings to redraw that snapshot is to dispose of my labor without my consent, thus to treat me as if I belonged in part to others."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc une redistribution imposée n'est pas un partage équitable mais une atteinte à des droits : la justice porte sur la légitimité des acquisitions, non sur l'égalité du résultat.",
+    "en": "So an imposed redistribution is not a fair sharing but a violation of rights: justice bears on the legitimacy of acquisitions, not on equality of outcome."
+  },
+  "deepenings": [
+    {
+      "id": "original-acquisition",
+      "label": { "fr": "L'acquisition d'origine", "en": "Original acquisition" },
+      "targetStep": 1,
+      "development": [
+        {
+          "fr": "Toute la chaîne des possessions remonte à un premier titre : comment une chose sans maître devient-elle légitimement mienne ?",
+          "en": "The whole chain of holdings goes back to a first title: how does an unowned thing become legitimately mine?"
+        },
+        {
+          "fr": "En y mêlant mon travail, répond <ph id='locke'>Locke</ph>, pourvu qu'il en reste « assez et d'aussi bon » pour les autres. Ce titre d'origine, transmis par échange libre, fonde toute la suite.",
+          "en": "By mixing my labor with it, answers <ph id='locke'>Locke</ph>, provided that 'enough, and as good' is left for others. This original title, passed on by free exchange, grounds all the rest."
+        }
+      ],
+      "source": {
+        "author": { "fr": "Locke", "en": "Locke" },
+        "figures": [{ "name": { "fr": "Locke", "en": "Locke" }, "kind": "PHILOSOPHER", "slug": "locke" }],
+        "work": { "fr": "Second traité du gouvernement, §27", "en": "Second Treatise of Government, §27" },
+        "workId": "two-treatises-of-government-locke"
+      }
+    }
+  ],
+  "difficulty": 2,
+  "source": {
+    "author": { "fr": "Nozick", "en": "Nozick" },
+    "figures": [
+      { "name": { "fr": "Nozick", "en": "Nozick" }, "kind": "PHILOSOPHER", "slug": "nozick" },
+      { "name": { "fr": "Locke", "en": "Locke" }, "kind": "PHILOSOPHER", "slug": "locke" }
+    ],
+    "work": { "fr": "Anarchie, État et utopie", "en": "Anarchy, State, and Utopia" },
+    "workId": "anarchy-state-and-utopia-nozick",
+    "year": 1974
+  },
+  "testThoughtExperiment": "veil-of-ignorance",
+  "problems": ["self-ownership", "pattern-or-process"],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
+}

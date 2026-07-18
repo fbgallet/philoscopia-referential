@@ -83,7 +83,7 @@ Conséquentialisme 100%
 
 Une morale ne vaut, pour Bentham, que si elle offre un critère public et démontrable, et non l'écho déguisé d'un goût personnel. Or les principes rivaux échouent à ce test : le principe d'ascétisme condamne le plaisir sans raison, et le principe de sympathie et d'antipathie érige le sentiment moral en règle sans en répondre, masquant souvent un simple « j'approuve » ou « je désapprouve ». Seule la tendance d'une action à augmenter ou diminuer le bonheur fournit une mesure extérieure et vérifiable du bien et du mal ; toute approbation qui ne s'y ramène pas n'est qu'un caprice déguisé en principe. De là un conséquentialisme intégral : aucune action n'est bonne ou mauvaise en elle-même, indépendamment de ses suites.
 
-> « Par principe d'utilité on entend ce principe qui approuve ou désapprouve toute action selon la tendance qu'elle semble avoir à augmenter ou à diminuer le bonheur de la partie dont l'intérêt est en jeu. » (Introduction aux principes de la morale et de la législation, ch. I, §2)
+> « Par principe d'utilité on entend ce principe qui approuve ou désapprouve toute action selon la tendance qu'elle semble avoir à augmenter ou à diminuer le bonheur de la partie dont l'intérêt est en jeu. », Introduction aux principes de la morale et de la législation, ch. I, §2
 
 *Sources : Introduction aux principes de la morale et de la législation, ch. I-II*
 
@@ -95,7 +95,7 @@ Hédonisme 100%
 
 Bentham part d'un constat qu'il tient pour un fait de nature : plaisir et douleur sont les deux seules choses que nous recherchons et fuyons effectivement comme fins. Le bien et le mal n'ont alors aucun contenu à part : nommer une chose « bonne » ne dit rien de plus que sa tendance à produire du plaisir ou à écarter de la douleur. D'où un [hédonisme](../glossary/hedonism.md) à la fois psychologique et moral, qui soude le constat et la norme par les mêmes deux maîtres souverains et ne laisse aucune place à un épanouissement ou à une perfection distincts de l'agréable, contre les biens objectifs de la tradition aristotélicienne.
 
-> « La nature a placé l'humanité sous l'empire de deux maîtres souverains, la douleur et le plaisir. C'est à eux seuls qu'il appartient de montrer ce que nous devons faire comme de déterminer ce que nous ferons. » (Introduction aux principes de la morale et de la législation, ch. I, §1)
+> « La nature a placé l'humanité sous l'empire de deux maîtres souverains, la douleur et le plaisir. C'est à eux seuls qu'il appartient de montrer ce que nous devons faire comme de déterminer ce que nous ferons. », Introduction aux principes de la morale et de la législation, ch. I, §1
 
 *Sources : Introduction aux principes de la morale et de la législation, ch. I, §1*
 
@@ -107,7 +107,7 @@ Pathocentrisme 100%
 
 Si le seul titre à entrer dans le calcul est de pouvoir éprouver plaisir et douleur, alors la frontière de la considération morale doit suivre la sensibilité, et non la raison ni le langage. Bentham retourne ainsi l'argument cartésien de l'animal-machine et celui qui excluait l'esclave : ce ne sont pas la faculté de raisonner ou de parler qui ouvrent droit à la considération, mais la capacité à pâtir. La conclusion suit par cohérence du critère utilitariste lui-même : la considération s'étend à tout être sensible, ce qui le situe au pathocentrisme et fait de lui un précurseur de la cause animale.
 
-> « La question n'est pas : peuvent-ils raisonner ? ni : peuvent-ils parler ? mais : peuvent-ils souffrir ? » (Introduction aux principes de la morale et de la législation, ch. XVII)
+> « La question n'est pas : peuvent-ils raisonner ? ni : peuvent-ils parler ? mais : peuvent-ils souffrir ? », Introduction aux principes de la morale et de la législation, ch. XVII
 
 *Sources : Introduction aux principes de la morale et de la législation, ch. XVII, §1, note (la souffrance des animaux)*
 
@@ -119,7 +119,7 @@ Si le seul titre à entrer dans le calcul est de pouvoir éprouver plaisir et do
 
 Dans le calcul du bonheur collectif, « chacun doit compter pour un, et nul pour plus d'un » : aucun intérêt ne pèse davantage en raison du rang ou de la naissance. Cet égalitarisme du décompte, conjugué à l'idée de l'utilité marginale décroissante des richesses, oriente Bentham vers une répartition plus égale du bien-être, sans pour autant qu'il prône une stricte égalité des biens, qui ruinerait la sécurité.
 
-> « Chacun doit compter pour un, et nul pour plus d'un. » (Maxime de Bentham, rapportée par J. S. Mill)
+> « Chacun doit compter pour un, et nul pour plus d'un. », L'Utilitarisme, chap. V
 
 *Sources : Principes du code civil (l'utilité décroissante de la richesse, sécurité et égalité) · Formule rapportée par J. S. Mill, L'utilitarisme, ch. V*
 
@@ -131,7 +131,7 @@ Dans le calcul du bonheur collectif, « chacun doit compter pour un, et nul pour
 
 Puisque seule la quantité de plaisir entre dans la balance, il n'y a aucun lieu où inscrire une supériorité intrinsèque d'un plaisir sur un autre : à quantité égale, un divertissement vulgaire et un art réputé noble se valent exactement. Hiérarchiser les plaisirs selon leur dignité réintroduirait en contrebande un critère étranger au plaisir, ce que le [principe hédoniste](../glossary/hedonism.md) interdit. Cet égalitarisme du goût est le point de rupture avec [Mill](../philosophers/mill.md), qui distinguera plaisirs supérieurs et inférieurs précisément pour parer l'objection de la « morale à pourceaux » : là où Mill cède, Bentham assume jusqu'au bout la stricte quantification.
 
-> « À quantité de plaisir égale, le pushpin vaut bien la poésie. » (The Rationale of Reward)
+> « À quantité de plaisir égale, le pushpin vaut bien la poésie. », The Rationale of Reward
 
 *Sources : The Rationale of Reward (le pushpin vaut bien la poésie)*
 
@@ -143,7 +143,7 @@ Dissuasion 70% · Réhabilitation 30%
 
 La peine est en elle-même un mal, une douleur, et ne se justifie que par l'utilité qu'elle produit : « toute peine est en elle-même un mal ; selon le principe d'utilité, si elle doit être admise, ce n'est que dans la mesure où elle promet d'écarter quelque mal plus grand ». Sa fin première est la prévention des délits, surtout par la dissuasion, et accessoirement par l'amendement du coupable ; Bentham récuse explicitement la rétribution et le talion comme un mal ajouté à un mal, sans profit.
 
-> « Toute peine est en elle-même un mal. Selon le principe d'utilité, si elle doit être admise, ce n'est que dans la mesure où elle promet d'écarter quelque mal plus grand. » (Introduction aux principes de la morale et de la législation, ch. XIII, §2)
+> « Toute peine est en elle-même un mal. Selon le principe d'utilité, si elle doit être admise, ce n'est que dans la mesure où elle promet d'écarter quelque mal plus grand. », Introduction aux principes de la morale et de la législation, ch. XIII, §2
 
 *Sources : Introduction aux principes de la morale et de la législation, ch. XIII-XIV (les peines, leurs fins et leur mesure)*
 
@@ -245,7 +245,7 @@ Empirisme 85% · Rationalisme 15%
 
 Dans la lignée [empiriste](../movements/empiricism.md) de [Locke](../philosophers/locke.md) et de Hume, Bentham tient pour réel ce qui s'observe et se mesure, et suspecte tout terme qui ne renvoie à aucune entité sensible. C'est le ressort de sa critique des fictions : une expression comme le droit naturel prétend désigner une chose alors qu'aucun fait ne lui correspond, et n'est qu'un mot dont on couvre une exigence sans la justifier. Sa méthode est donc résolument inductive et naturaliste, ancrée dans l'expérience des plaisirs et des peines plutôt que dans des principes rationnels a priori, et c'est par là qu'il congédie le droit naturel.
 
-> « Les droits naturels, c'est purement et simplement du non-sens : les droits naturels et imprescriptibles, du non-sens sur des échasses. » (Anarchical Fallacies)
+> « Les droits naturels, c'est purement et simplement du non-sens : les droits naturels et imprescriptibles, du non-sens sur des échasses. », Anarchical Fallacies
 
 *Sources : Anarchical Fallacies (les droits naturels, du non-sens sur des échasses)*
 
@@ -277,7 +277,7 @@ Individualisme 80% · Holisme 20%
 
 Pour Bentham, la communauté est une fiction : son intérêt n'est que la somme des intérêts des membres qui la composent. Il n'existe pas d'entité collective dotée d'un bien propre au-dessus des individus ; le bonheur social n'est que l'agrégat des bonheurs individuels. C'est un individualisme méthodologique net, fondement de tout le calcul utilitariste.
 
-> « L'intérêt de la communauté, qu'est-ce donc ? La somme des intérêts des divers membres qui la composent. » (Introduction aux principes de la morale et de la législation, ch. I, §4)
+> « L'intérêt de la communauté, qu'est-ce donc ? La somme des intérêts des divers membres qui la composent. », Introduction aux principes de la morale et de la législation, ch. I, §4
 
 *Sources : Introduction aux principes de la morale et de la législation, ch. I, §4 (l'intérêt de la communauté, somme des intérêts individuels)*
 

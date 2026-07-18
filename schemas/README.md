@@ -13,6 +13,7 @@ to validate or generate files that conform to the referential.
 | characters | [`characters.schema.json`](characters.schema.json) |
 | glossary | [`glossary.schema.json`](glossary.schema.json) |
 | works | [`works.schema.json`](works.schema.json) |
+| quotes | [`quotes.schema.json`](quotes.schema.json) |
 | foundations | [`foundations.schema.json`](foundations.schema.json) |
 | influences | [`influences.schema.json`](influences.schema.json) |
 | tensions | [`tensions.schema.json`](tensions.schema.json) |

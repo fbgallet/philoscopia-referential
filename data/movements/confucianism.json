@@ -271,16 +271,7 @@
           }
         ],
         "strength": "MEDIUM",
-        "quote": {
-          "text": {
-            "fr": "Je ne suis pas de ceux qui sont nés avec le savoir ; j'aime les anciens et je m'empresse de les y chercher.",
-            "en": "I am not one who was born with knowledge; I love the ancients and earnestly seek it there."
-          },
-          "source": {
-            "fr": "Entretiens, VII.20",
-            "en": "Analects, VII.20"
-          }
-        }
+        "quoteId": "je-ne-suis-pas-de-ceux-analects"
       }
     },
     {
@@ -322,16 +313,7 @@
           { "fr": "Mencius (Mengzi), II A 6", "en": "Mencius (Mengzi), 2A6" }
         ],
         "strength": "STRONG",
-        "quote": {
-          "text": {
-            "fr": "L'homme de bien recherche en lui-même, l'homme de peu recherche chez les autres.",
-            "en": "The noble person seeks it in himself; the small person seeks it in others."
-          },
-          "source": {
-            "fr": "Confucius, Entretiens (Lunyu), XV, 21",
-            "en": "Confucius, Analects (Lunyu), 15.21"
-          }
-        }
+        "quoteId": "l-homme-de-bien-recherche-en-confucius"
       }
     },
     {
@@ -368,16 +350,7 @@
           { "fr": "Confucius, Entretiens (Lunyu), III, 14", "en": "Confucius, Analects (Lunyu), 3.14" }
         ],
         "strength": "STRONG",
-        "quote": {
-          "text": {
-            "fr": "Je transmets et je n'invente pas ; je crois aux Anciens et je les aime.",
-            "en": "I transmit but do not innovate; I trust in and love the ancients."
-          },
-          "source": {
-            "fr": "Confucius, Entretiens (Lunyu), VII, 1",
-            "en": "Confucius, Analects (Lunyu), 7.1"
-          }
-        }
+        "quoteId": "je-transmets-et-je-n-invente-confucius-2"
       }
     },
     {
@@ -486,16 +459,7 @@
           { "fr": "Confucius, Entretiens (Lunyu), II, 3", "en": "Confucius, Analects (Lunyu), 2.3" }
         ],
         "strength": "STRONG",
-        "quote": {
-          "text": {
-            "fr": "Qui gouverne par la vertu est comparable à l'étoile polaire : elle demeure en place, et toutes les étoiles se tournent vers elle.",
-            "en": "He who governs by virtue may be compared to the pole star, which keeps its place while all the other stars turn toward it."
-          },
-          "source": {
-            "fr": "Confucius, Entretiens (Lunyu), II, 1",
-            "en": "Confucius, Analects (Lunyu), 2.1"
-          }
-        }
+        "quoteId": "qui-gouverne-par-la-vertu-est-confucius"
       }
     }
   ],

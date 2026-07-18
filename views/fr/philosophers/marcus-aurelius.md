@@ -24,7 +24,7 @@ Vie examinée 80% · Primat de l'action 20%
 
 Puisque le trouble ne vient pas des choses mais du jugement qu'on porte sur elles, le lieu où l'on retrouve toujours le calme n'est pas un lieu du monde mais le [principe directeur](../glossary/hegemonikon.md), cette part de soi que rien d'extérieur n'atteint. Marc Aurèle en fait une citadelle où il est toujours loisible de se replier, en revenant à ses [représentations](../glossary/phantasia.md) pour y rétablir l'ordre. Mais ce retrait n'est pas une fuite hors de l'action : le carnet des *[Pensées](../works/meditations-marcus-aurelius.md)* en est l'exercice même, qu'on quitte aussitôt pour retourner à sa tâche d'homme et d'empereur.
 
-> « On cherche des retraites à la campagne, au bord de la mer, dans les montagnes ; mais nulle part l'homme ne se retire dans plus de calme que dans sa propre âme. » (Pensées pour moi-même, IV, 3)
+> « On cherche des retraites à la campagne, au bord de la mer, dans les montagnes ; mais nulle part l'homme ne se retire dans plus de calme que dans sa propre âme. », Pensées pour moi-même, IV, 3
 
 *Sources : Pensées pour moi-même, IV, 3 · Pensées pour moi-même, VII, 59 · Pensées pour moi-même, VIII, 48*
 
@@ -36,7 +36,7 @@ Présentisme 85% · Projet 10% · Mémoire-transmission 5%
 
 On ne peut être dépouillé ni du passé, qui n'est plus, ni de l'avenir, qu'on n'a pas encore : ce qu'on perd en mourant n'est jamais que ce point insécable, l'instant présent, le même pour qui meurt vieux et pour qui meurt jeune. Marc Aurèle en tire la dévaluation de la gloire posthume, puisque ceux qui se souviendraient de moi mourront à leur tour, et la concentration sur la tâche du moment, à mener comme si elle était la dernière. Cette méditation de l'éphémère, plus insistante chez lui que chez aucun stoïcien, n'invite pas à jouir de l'instant mais à l'habiter dignement.
 
-> « Personne ne perd d'autre vie que celle qu'il vit, ni n'en vit d'autre que celle qu'il perd. » (Pensées pour moi-même, II, 14)
+> « Personne ne perd d'autre vie que celle qu'il vit, ni n'en vit d'autre que celle qu'il perd. », Pensées pour moi-même, II, 14
 
 *Sources : Pensées pour moi-même, II, 14 · Pensées pour moi-même, III, 10 · Pensées pour moi-même, XII, 26*
 
@@ -58,7 +58,7 @@ La mort n'est rien 60% · Être-pour-la-mort 35% · Immortalisme 5%
 
 Si tout, dans le cosmos, naît du changement et y retourne, la mort n'est qu'une transformation parmi d'autres, la dissolution des éléments dans le tout d'où ils venaient : rien de ce qui est conforme à la [nature](../glossary/logos.md) ne saurait être un mal. Mais Marc Aurèle ne se contente pas d'en désamorcer la terreur ; il la tient chaque jour devant les yeux pour gouverner l'action présente, de sorte que la conscience aiguë de la mort, plus qu'une consolation, devient l'aiguillon d'une vie droite. Sa note propre est l'image du fruit mûr : quitter la vie comme l'olive tombe, en bénissant la terre qui l'a portée.
 
-> « Quitte la vie comme l'olive mûre qui tombe, bénissant la nature qui l'a produite et reconnaissante envers l'arbre qui l'a portée. » (Pensées pour moi-même, IV, 48)
+> « Quitte la vie comme l'olive mûre qui tombe, bénissant la nature qui l'a produite et reconnaissante envers l'arbre qui l'a portée. », Pensées pour moi-même, IV, 48
 
 *Sources : Pensées pour moi-même, II, 17 · Pensées pour moi-même, IV, 48 · Pensées pour moi-même, IX, 3*
 
@@ -70,7 +70,7 @@ Intellectualisme 93% · Sentimentalisme 8%
 
 Comme tout stoïcien, Marc Aurèle tient la passion pour un [assentiment](../glossary/synkatathesis.md) donné à un faux jugement, donc pour une erreur corrigible et non une fatalité ; mais il en fait surtout l'instrument d'une éthique de la douceur. Le raisonnement qu'il s'oppose à lui-même contre la colère est serré : celui qui me fait tort se trompe sur le bien et le mal, or nul ne se trompe volontairement ; il est mon parent, né de la même [raison](../glossary/logos.md) ; il ne peut me léser dans la seule chose qui soit mienne, mon [jugement](../glossary/prohairesis.md) ; lui en vouloir ajouterait à son tort le mien. Comprendre l'ignorance d'autrui dissout le ressentiment avant qu'il se forme.
 
-> « Dès le matin, dis-toi par avance : je rencontrerai un indiscret, un ingrat, un insolent ; mais aucun ne peut m'enchaîner au mal, ni m'irriter contre un parent. » (Pensées pour moi-même, II, 1)
+> « Dès le matin, dis-toi par avance : je rencontrerai un indiscret, un ingrat, un insolent ; mais aucun ne peut m'enchaîner au mal, ni m'irriter contre un parent. », Pensées pour moi-même, II, 1
 
 *Sources : Pensées pour moi-même, II, 1 · Pensées pour moi-même, XI, 18 · Pensées pour moi-même, IX, 42*
 
@@ -102,7 +102,7 @@ Amor fati 95% · Révolte 5%
 
 Si le monde est un seul vivant traversé par une même [raison](../glossary/logos.md), aucun événement n'est isolé ni accidentel : ce qui m'advient était de toute éternité tissé avec moi dans la trame du tout (la [sympatheia](../glossary/sympatheia.md), sympathie cosmique des choses entre elles). Marc Aurèle va plus loin que la résignation : non pas supporter ce qui arrive, mais l'aimer, car le souhaiter autre reviendrait à exiger que l'univers entier fût autre. La révolte n'est dès lors pas tant interdite qu'absurde, la partie ne pouvant accuser le tout dont elle procède : c'est l'[amour du destin](../glossary/amor-fati.md) comme forme la plus haute du consentement.
 
-> « Tout ce qui s'accorde avec toi, ô Univers, s'accorde avec moi : rien de ce qui vient à temps pour toi n'est pour moi trop tôt ni trop tard. » (Pensées pour moi-même, IV, 23)
+> « Tout ce qui s'accorde avec toi, ô Univers, s'accorde avec moi : rien de ce qui vient à temps pour toi n'est pour moi trop tôt ni trop tard. », Pensées pour moi-même, IV, 23
 
 *Sources : Pensées pour moi-même, IV, 23 · Pensées pour moi-même, V, 8 · Pensées pour moi-même, X, 5*
 
@@ -114,7 +114,7 @@ Altruisme 83% · Égoïsme éthique 18%
 
 De la nature rationnelle et sociale de l'homme, Marc Aurèle déduit que mon bien et celui de la communauté ne font qu'un : doué de [raison](../glossary/logos.md) comme tout être humain, je suis à la cité du monde ce que le membre est au corps, et le membre qui se sépare se mutile. L'[appropriation](../glossary/oikeiosis.md) stoïcienne prend ici un tour singulier, car c'est un empereur qui se rappelle au seuil de chaque journée que sa tâche propre est l'acte juste accompli pour le commun : la vertu n'est pas une perfection solitaire mais tout entière tournée vers la coopération.
 
-> « Ce qui n'est pas utile à l'essaim n'est pas utile non plus à l'abeille. » (Pensées pour moi-même, VI, 54)
+> « Ce qui n'est pas utile à l'essaim n'est pas utile non plus à l'abeille. », Pensées pour moi-même, VI, 54
 
 *Sources : Pensées pour moi-même, V, 1 · Pensées pour moi-même, VI, 54 · Pensées pour moi-même, VII, 13*
 
@@ -156,7 +156,7 @@ Cosmopolitisme 90% · Communautarisme-patriotisme 10%
 
 De la [raison](../glossary/logos.md) commune à tous les hommes, Marc Aurèle conclut à une cité unique du monde dont chacun est citoyen avant d'appartenir à sa patrie. La formule est sienne : citoyen de Rome en tant qu'Antonin, mais citoyen du monde en tant qu'homme, la première appartenance se subordonnant à la seconde.
 
-> « Ma cité et ma patrie, en tant qu'Antonin, c'est Rome ; en tant qu'homme, c'est le monde. » (Pensées pour moi-même, VI, 44)
+> « Ma cité et ma patrie, en tant qu'Antonin, c'est Rome ; en tant qu'homme, c'est le monde. », Pensées pour moi-même, VI, 44
 
 *Sources : Pensées pour moi-même, VI, 44 · Pensées pour moi-même, III, 11 · Pensées pour moi-même, IV, 4*
 
@@ -198,7 +198,7 @@ Corps-instrument 85% · Corps-sujet 15%
 
 Marc Aurèle dévalue le corps avec une crudité célèbre : il le décompose en ses éléments, un peu de chair, de sang et d'os, réduit la nourriture et l'union des corps à leurs processus organiques, et oppose à cette matière périssable le seul [principe directeur](../glossary/hegemonikon.md). Le corps n'est qu'un [instrument](../glossary/adiaphora.md) prêté à l'âme, ce qui range nettement Marc Aurèle du côté du corps-instrument, sans pourtant le mépriser jusqu'à l'ascèse mortifiante.
 
-> « Ce que je suis, ce n'est qu'un peu de chair, un peu de souffle, et le principe directeur. » (Pensées pour moi-même, II, 2)
+> « Ce que je suis, ce n'est qu'un peu de chair, un peu de souffle, et le principe directeur. », Pensées pour moi-même, II, 2
 
 *Sources : Pensées pour moi-même, II, 2 · Pensées pour moi-même, VI, 13 · Pensées pour moi-même, VIII, 24*
 
@@ -230,7 +230,7 @@ Fécondité-rédemption 70% · Abolitionnisme 30%
 
 L'épreuve n'est ni à fuir ni à pleurer : l'âme convertit en matière de vertu ce qui prétendait l'entraver, et l'obstacle à l'action devient l'action même. Position entre l'[indifférence](../glossary/adiaphora.md) stoïcienne, qui tient la douleur pour un rien, et la fécondité active de l'adversité, qui en fait l'occasion du progrès.
 
-> « Ce qui fait obstacle à l'action sert l'action, et ce qui barre la route devient la route. » (Pensées pour moi-même, V, 20)
+> « Ce qui fait obstacle à l'action sert l'action, et ce qui barre la route devient la route. », Pensées pour moi-même, V, 20
 
 *Sources : Pensées pour moi-même, IV, 1 · Pensées pour moi-même, V, 20*
 
@@ -362,7 +362,7 @@ Maximalisme 85% · Minimalisme 15%
 
 L'exigence est sans relâche : ne plus discourir sur ce que doit être l'homme de bien, mais l'être, à l'instant, sans délai ni excuse. Cet appel à l'effort de tous les moments, où chaque acte engage la vertu entière, relève d'un maximalisme moral, tempéré seulement par la [limite de ce qui dépend de nous](../glossary/dichotomy-of-control.md).
 
-> « Ne dissertons plus sur ce que doit être l'homme de bien : soyons-le. » (Pensées pour moi-même, X, 16)
+> « Ne dissertons plus sur ce que doit être l'homme de bien : soyons-le. », Pensées pour moi-même, X, 16
 
 *Sources : Pensées pour moi-même, V, 1 · Pensées pour moi-même, X, 16 · Pensées pour moi-même, XII, 1*
 

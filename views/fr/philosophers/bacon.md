@@ -24,7 +24,7 @@ Inductivisme 95% · Falsificationnisme 5%
 
 Le syllogisme, reproche Bacon, n'enchaîne que des notions déjà reçues : il ne découvre rien, il habille les préjugés. À cette logique d'**anticipations** de la nature il oppose une logique d'**interprétation** : ne pas voler comme l'abeille de la seule expérience ni filer comme l'araignée de la seule raison, mais remonter pas à pas des faits aux lois. Son [induction](../glossary/induction.md) n'est donc pas la simple énumération qui généralise quelques cas concordants ; c'est une induction **éliminative**, qui dresse des tables de présence, d'absence et de degrés pour écarter méthodiquement les fausses causes et isoler la forme du phénomène. La science ne s'élance d'aucun système préconçu : elle se construit du bas vers le haut, par exclusion.
 
-> « Notre seul espoir réside dans une véritable induction. » (Novum Organum, I, §14)
+> « Notre seul espoir réside dans une véritable induction. », Novum Organum, I, §14
 
 *Sources : Novum Organum, I (aphorismes 19, 95, 105) · Novum Organum, II (tables et exclusion)*
 
@@ -56,7 +56,7 @@ Fiabilisme 80% · Fondationnalisme 15% · Cohérentisme 5%
 
 Avant de bâtir, Bacon veut purger l'esprit de ce qui le fausse : ce sont les quatre [idoles](../glossary/idols-of-the-mind.md) ([idola](../glossary/idols-of-the-mind.md)), les biais systématiques de la connaissance. Idoles de la **tribu**, inhérentes à l'espèce, qui prête à la nature plus d'ordre qu'elle n'en a ; idoles de la **caverne**, propres à chaque individu et à son histoire ; idoles du **forum**, que le langage et les mots mal faits glissent dans la pensée ; idoles du **théâtre**, les systèmes philosophiques reçus comme autant de fables jouées sur scène. Une croyance ne se justifie donc pas en remontant à une intuition première indubitable, mais par la fiabilité du processus qui la produit, une fois l'esprit décrassé de ses idoles et soumis à la règle expérimentale. La garantie est du côté de la méthode, non d'un fondement intérieur.
 
-> « Quatre espèces d'idoles assiègent les esprits humains. » (Novum Organum, I, §39)
+> « Quatre espèces d'idoles assiègent les esprits humains. », Novum Organum, I, §39
 
 *Sources : Novum Organum, I, §38-68 (les idoles)*
 
@@ -68,7 +68,7 @@ Techno-optimisme 95% · Techno-critique 5%
 
 Le savoir ne vaut pas pour la contemplation mais pour ses fruits : connaître les causes, c'est pouvoir produire des effets, et la mesure d'une vérité est l'œuvre qu'elle permet. Bacon en juge par les arts mécaniques, qui n'ont cessé de croître, quand la philosophie d'école piétinait : l'imprimerie, la poudre, la boussole ont plus changé le monde que tous les systèmes. La technique n'est donc pas un sous-produit suspect du savoir, c'est sa fin légitime et le levier du progrès humain, contre la résignation qui tient la condition présente pour indépassable.
 
-> « Le savoir humain et la puissance humaine coïncident, car ignorer la cause, c'est manquer l'effet. » (Novum Organum, I, §3)
+> « Le savoir humain et la puissance humaine coïncident, car ignorer la cause, c'est manquer l'effet. », Novum Organum, I, §3
 
 *Sources : Novum Organum, I, §3, §81 et §129*
 
@@ -80,7 +80,7 @@ Maîtrise 90% · Gardiennage 10%
 
 La chute, pour Bacon, a fait perdre à l'homme son empire sur la création, et la science a pour tâche de le restaurer : commander à la nature pour le « soulagement de la condition humaine ». Mais cette maîtrise repose sur un paradoxe qui la distingue de toute domination naïve : on ne commande à la nature qu'en lui **obéissant**, en se pliant à ses lois pour la fléchir. Connaître d'abord, contraindre ensuite, et seulement dans le sens de ses propres causes. La nature reste une ressource à transformer au service de l'humanité, mais une ressource qui n'obéit qu'à qui l'a d'abord comprise.
 
-> « On ne commande à la nature qu'en lui obéissant. » (Novum Organum, I, §129)
+> « On ne commande à la nature qu'en lui obéissant. », Novum Organum, livre I, aphorisme 3
 
 *Sources : Novum Organum, I, §3 et §129*
 
@@ -172,7 +172,7 @@ Théisme 85% · Athéisme 15%
 
 Bacon professe une foi chrétienne sincère et tient l'existence de Dieu pour assurée : c'est, soutient-il, la philosophie superficielle qui incline à l'athéisme, tandis qu'une connaissance plus profonde de la nature ramène l'esprit à la religion, car l'ordre du monde renvoie à son auteur. Le théisme n'est jamais mis en question, même si Bacon le laisse hors du champ de l'enquête scientifique.
 
-> « Un peu de philosophie incline l'esprit à l'athéisme, mais la profondeur en philosophie ramène les esprits à la religion. » (Essais, « De l'athéisme »)
+> « Un peu de philosophie incline l'esprit à l'athéisme, mais la profondeur en philosophie ramène les esprits à la religion. », Essais, « De l'athéisme »
 
 *Sources : Essais, « De l'athéisme »*
 

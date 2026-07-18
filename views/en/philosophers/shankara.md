@@ -24,7 +24,7 @@ Idealism 100%
 
 A single reality exists without a second, [brahman](../glossary/brahman.md), pure consciousness: neither matter nor the plurality of things are autonomous substances. The world of objects is not sheer nothingness, but it holds only an empirical reality (vyāvahārika), superimposed on brahman by ignorance, as one sees a snake where there is only a rope. This idealism is sui generis: it does not make the world the content of a finite mind, in Berkeley's manner, but refers it wholly to the one absolute consciousness of which things are merely the appearance. The question is thus not "mind or matter?" but "is the manifold real?", to which Śaṅkara answers by non-duality.
 
-> “Brahman is real, the world is appearance, and the self is nothing other than brahman.” (verse attributed to Śaṅkara (Brahmajñānāvalīmālā))
+> “Brahman is real, the world is appearance, and the self is nothing other than brahman.”, verse attributed to Śaṅkara (Brahmajñānāvalīmālā)
 
 *Sources : Commentary on the Brahma Sūtras, I.1.1-4 · Upadeśasāhasrī*
 
@@ -116,7 +116,7 @@ Immortalism 90% · Death is nothing 10%
 
 The self ([ātman](../glossary/atman.md)) is never born and never dies: death touches only the body-mind compound, not the consciousness that witnesses it. In this respect Śaṅkara belongs to immortalism, the present life being a passage toward liberation. But the encoding calls for a nuance: what is immortal is not the individual soul, which unravels with its rebirths, but the impersonal self identical in all. For the one who has realized this identity, death is no longer even an event to fear, which adds a coloring close to "death is nothing": it can subtract nothing from what, in essence, was never in time.
 
-> “It is never born and never dies; unborn, abiding, eternal, it is not slain when the body is slain.” (Bhagavad Gītā, II.20, as commented by Śaṅkara)
+> “It is never born and never dies; unborn, abiding, eternal, it is not slain when the body is slain.”, Bhagavad Gītā, II.20, as commented by Śaṅkara
 
 *Sources : Commentary on the Bhagavad Gītā, II.11-30 · Commentary on the Kaṭha Upaniṣad*
 

@@ -10,6 +10,20 @@ You are crossing a deserted heath and find a watch lying on the ground. You woul
 
 **Axes at stake** : [Existence of God](../axes/god-existence.md) · [Tonality of reality](../axes/cosmic-outlook.md)
 
+## What it does in the debate
+
+### Supports [Existence of God](../axes/god-existence.md) : Theism
+
+The fitted order of the world, like a watch found on the heath, suggests a hand that designed it: the appearance of design argues for an intelligent author.
+
+**The argument it makes**
+
+1. Faced with a watch found on the heath, no one believes it assembled itself: gears fitted to a purpose betray an intelligence that designed them.
+2. Now nature presents adjustments subtler still: the eye fitted to light, the wing to air, down to the constants of the universe, tuned so finely that the slightest variation would have made all life impossible.
+3. Like effects, like causes: if the watch's adjustment proves a watchmaker, the incomparably finer adjustment of the world makes an intelligent author at least probable.
+
+**⇒** So the world's order likely has an author: the appearance of design is serious evidence for the existence of God.
+
 **Possible stances** :
 
 - Such an arrangement cannot be the work of chance: the eye, the living world, the order of the heavens presuppose an author who designed them on purpose.

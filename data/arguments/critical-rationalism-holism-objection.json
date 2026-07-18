@@ -1,0 +1,81 @@
+{
+  "id": "critical-rationalism-holism-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "SCIENCE_PLACE", "median": true },
+  "name": { "fr": "Aucune réfutation n'est pure", "en": "No refutation is clean" },
+  "attacks": "POSITION",
+  "claim": {
+    "fr": "On ne teste jamais une hypothèse seule : un démenti dit qu'une pièce cloche, non laquelle. La réfutabilité ne suffit pas à régler la marche des sciences.",
+    "en": "One never tests a hypothesis alone: a disproof says a piece is at fault, not which one. Falsifiability does not suffice to govern how the sciences move."
+  },
+  "summary": {
+    "fr": "Le rationalisme critique fait de la réfutation le cœur de la science. Mais on ne teste jamais une hypothèse isolée, et l'on peut toujours sauver une théorie en corrigeant une autre pièce ; de fait, les grandes théories tombent pour des raisons historiques autant que logiques. La démarcation nette par la réfutation est un mythe rassurant.",
+    "en": "Critical rationalism makes refutation the heart of science. But one never tests an isolated hypothesis, and one can always save a theory by correcting another piece; in fact, great theories fall for historical as much as logical reasons. Clean demarcation by refutation is a reassuring myth."
+  },
+  "development": [
+    {
+      "fr": "Le rationalisme critique fait de la réfutation le cœur de la science : une théorie tombe dès qu'un fait la contredit.",
+      "en": "Critical rationalism makes refutation the heart of science: a theory falls as soon as a fact contradicts it."
+    },
+    {
+      "fr": "Mais on ne teste jamais une hypothèse seule, toujours avec un faisceau d'hypothèses auxiliaires. Un démenti dit qu'<kw>une</kw> pièce cloche, non laquelle ; on peut toujours sauver la théorie en corrigeant une autre pièce.",
+      "en": "But one never tests a hypothesis alone, always with a bundle of auxiliary hypotheses. A disproof says that <kw>one</kw> piece is at fault, not which; one can always save the theory by correcting another piece."
+    },
+    {
+      "fr": "De fait, aucune grande théorie n'a été lâchée sur une seule anomalie : les communautés savantes changent de cadre pour des raisons historiques, sociales, esthétiques autant que logiques. La « réfutabilité » ne règle pas à elle seule la marche des sciences.",
+      "en": "In fact, no great theory has been dropped over a single anomaly: scientific communities change frameworks for historical, social, aesthetic reasons as much as logical ones. 'Falsifiability' does not by itself govern how the sciences move."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la démarcation nette par la réfutation est un mythe rassurant : la frontière du savoir est plus floue, plus historique, que ne le dit le rationalisme critique.",
+    "en": "So clean demarcation by refutation is a reassuring myth: the boundary of knowledge is blurrier, more historical, than critical rationalism claims."
+  },
+  "difficulty": 3,
+  "source": {
+    "author": { "fr": "Duhem, Quine, Kuhn", "en": "Duhem, Quine, Kuhn" },
+    "figures": [{ "name": { "fr": "Kuhn", "en": "Kuhn" }, "kind": "PHILOSOPHER" }],
+    "work": { "fr": "La Structure des révolutions scientifiques", "en": "The Structure of Scientific Revolutions" },
+    "year": 1962
+  },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est vrai : le choix des théories tient à l'histoire et aux communautés, pas à une règle unique. La méthode est plus lâche, plus plurielle, qu'on ne le croit.",
+        "en": "True: the choice of theories depends on history and on communities, not on a single rule. Method is looser, more plural, than one thinks."
+      },
+      "hints": [{ "axisId": "SCIENCE_PLACE", "value": { "kind": "scalar", "value": 0.6 }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous glissez vers le pluralisme : avec Kuhn et <ph id='feyerabend'>Feyerabend</ph>, la rationalité scientifique est historique, non un algorithme.",
+        "en": "You slide toward pluralism: with Kuhn and <ph id='feyerabend'>Feyerabend</ph>, scientific rationality is historical, not an algorithm."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je garde l'idée d'une science qui se corrige, mais j'admets qu'elle le fait de façon plus collective et historique que ne le dit la réfutation pure.",
+        "en": "I keep the idea of a science that corrects itself, but I grant that it does so more collectively and historically than pure refutation claims."
+      },
+      "hints": [{ "axisId": "SCIENCE_PLACE", "value": { "kind": "scalar", "value": 0.25 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Un rationalisme critique assoupli, attentif à la dimension sociale de la recherche, sans renoncer à l'idée de progrès.",
+        "en": "A softened critical rationalism, alert to the social dimension of research, without giving up the idea of progress."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Sauver une théorie par des rustines a un coût : à la longue, celle qui ne risque plus rien est abandonnée. La réfutation reste la règle, même si elle joue dans la durée, non sur un seul fait.",
+        "en": "Saving a theory with patches has a cost: in the long run, one that no longer risks anything is abandoned. Refutation remains the rule, even if it plays out over time, not on a single fact."
+      },
+      "hints": [{ "axisId": "SCIENCE_PLACE", "value": { "kind": "scalar", "value": 0 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "La réponse de <ph id='popper'>Popper</ph> : les stratagèmes ad hoc appauvrissent une théorie, et la communauté finit par les sanctionner.",
+        "en": "<ph id='popper'>Popper</ph>'s reply: ad hoc stratagems impoverish a theory, and the community eventually penalizes them."
+      }
+    }
+  ],
+  "targets": ["critical-rationalism-conjectures"],
+  "problems": ["what-makes-it-science", "explaining-or-understanding"],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

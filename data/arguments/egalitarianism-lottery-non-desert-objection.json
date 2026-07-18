@@ -1,0 +1,82 @@
+{
+  "id": "egalitarianism-lottery-non-desert-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "DISTRIBUTIVE_JUSTICE", "poleId": "EGALITARIANISM" },
+  "name": { "fr": "Non mérité n'est pas à redistribuer", "en": "Undeserved is not up for redistribution" },
+  "attacks": "REASONING",
+  "claim": {
+    "fr": "Que je n'aie pas mérité mes dons ne donne à personne le droit d'en disposer : l'absence de mérite n'est pas un titre collectif.",
+    "en": "That I did not earn my gifts gives no one the right to dispose of them: the absence of desert is not a collective title."
+  },
+  "summary": {
+    "fr": "L'argument de la loterie tire de « nul ne mérite ses dons » la conclusion « la société peut en redistribuer les fruits ». Mais entre les deux manque une prémisse, que les talents soient un patrimoine commun, qui est justement ce qui est en cause.",
+    "en": "The lottery argument draws from 'no one deserves their gifts' the conclusion 'society may redistribute their fruits'. But between the two a premise is missing, that talents are common property, which is precisely what is at issue."
+  },
+  "development": [
+    {
+      "fr": "L'argument accorde d'abord que nul ne mérite ses talents, puis en conclut que la société peut en redistribuer les fruits.",
+      "en": "The argument first grants that no one deserves their talents, then concludes that society may redistribute their fruits."
+    },
+    {
+      "fr": "Mais « ne pas mériter » quelque chose ne veut pas dire que d'autres y aient droit : de ce que je ne mérite pas la couleur de mes yeux ou l'affection de mes proches, il ne suit pas qu'elles appartiennent à la collectivité.",
+      "en": "But 'not deserving' something does not mean that others have a right to it: from the fact that I do not deserve the color of my eyes or the affection of those close to me, it does not follow that they belong to the collective."
+    },
+    {
+      "fr": "Entre « nul ne mérite ses dons » et « la société peut en disposer », il manque une prémisse : que les talents de chacun soient un <kw>patrimoine commun</kw>. Or c'est justement ce qui est en cause.",
+      "en": "Between 'no one deserves their gifts' and 'society may dispose of them', a premise is missing: that each person's talents are a <kw>common asset</kw>. But that is exactly what is in dispute."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc l'argument saute du non-mérité au redistribuable : ôtez la prémisse cachée d'une propriété collective des talents, et la loterie naturelle ne justifie plus la redistribution.",
+    "en": "So the argument leaps from the undeserved to the redistributable: remove the hidden premise of collective ownership of talents, and the natural lottery no longer justifies redistribution."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": { "fr": "Nozick", "en": "Nozick" },
+    "figures": [{ "name": { "fr": "Nozick", "en": "Nozick" }, "kind": "PHILOSOPHER", "slug": "nozick" }],
+    "work": { "fr": "Anarchie, État et utopie", "en": "Anarchy, State, and Utopia" },
+    "workId": "anarchy-state-and-utopia-nozick",
+    "year": 1974
+  },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est juste : mes dons ne sont peut-être pas mérités, mais ils sont miens ; nul n'a de titre à en disposer sans mon accord.",
+        "en": "Fair enough: my gifts may be undeserved, but they are mine; no one has a title to dispose of them without my consent."
+      },
+      "hints": [{ "axisId": "DISTRIBUTIVE_JUSTICE", "value": { "kind": "scalar", "value": 0.6 }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous rejoignez <ph id='nozick'>Nozick</ph> : la justice tient aux titres de possession, non à un « dû » que la loterie fonderait.",
+        "en": "You join <ph id='nozick'>Nozick</ph>: justice rests on entitlements, not on some 'due' that the lottery would ground."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je maintiens qu'on corrige les pires écarts, mais pas au nom d'un « dû » collectif : plutôt pour garantir à tous un socle décent.",
+        "en": "I still hold that we correct the worst gaps, but not in the name of a collective 'due': rather to guarantee everyone a decent floor."
+      },
+      "hints": [{ "axisId": "DISTRIBUTIVE_JUSTICE", "value": { "kind": "scalar", "value": 0 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous glissez vers le suffisantarisme : on lâche le langage du mérite pour celui du seuil.",
+        "en": "You slide toward sufficientarianism: the language of desert gives way to that of the threshold."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Nul ne se fait seul : mes talents ne valent que dans une société qui les forme, les demande et les rémunère ; leurs fruits sont donc en partie une œuvre commune.",
+        "en": "No one is self-made: my talents are worth something only in a society that trains, demands, and rewards them; their fruits are therefore in part a common work."
+      },
+      "hints": [{ "axisId": "DISTRIBUTIVE_JUSTICE", "value": { "kind": "scalar", "value": -1 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous tenez la réponse de <ph id='rawls'>Rawls</ph> : les talents ne portent leurs fruits que dans un tissu coopératif, qui a donc voix au chapitre sur leur partage.",
+        "en": "You hold <ph id='rawls'>Rawls</ph>'s reply: talents bear fruit only within a cooperative fabric, which therefore has a say in how the fruit is shared."
+      }
+    }
+  ],
+  "targets": ["egalitarianism-natural-lottery"],
+  "problems": ["desert-and-lottery", "self-ownership"],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
+}

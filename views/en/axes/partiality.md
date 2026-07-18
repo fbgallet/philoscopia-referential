@@ -46,6 +46,12 @@ Our concern for others spreads out in circles: intense for those close to us, it
 - *Concentric circles* · against : [When they collide](../arguments/partiality-circles-conflict.md)
 - *Concentric circles* · against : [Neither one nor the other](../arguments/partiality-circles-instability-objection.md)
 
+## Quotations
+
+> “As a mother would protect her only child at the risk of her own life, so let one cultivate a boundless heart toward all beings.” — [The Buddha](../philosophers/buddha.md), Karaṇīya Mettā Sutta (Sutta Nipāta 1.8)
+
+> “Uprightness lies in this: the father screens his son, and the son screens his father.” — [Confucius](../philosophers/confucius.md), Analects, XIII, 18
+
 ## Related axes
 
 [Belonging](../axes/belonging.md) · [Moral demandingness](../axes/moral-demand.md) · [Self-interest and others](../axes/self-interest.md) · [Criterion of right action](../axes/ethics-foundation.md) · [Moral circle](../axes/moral-circle.md)

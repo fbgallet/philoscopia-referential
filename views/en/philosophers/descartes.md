@@ -54,7 +54,7 @@ Reasoned selection 40% · Affirmation 30% · Extinction and detachment 30%
 
 Descartes holds the passions to be useful when well governed: the point is neither to suppress nor to follow them, but to make the soul their master through judgment and a firm will. Stoic in inspiration, his provisional morality bounds the will to what depends on us and counsels changing one's desires rather than the order of the world. Yet he joins to this the affirmation of a desire guided by reason: virtue lies in resolutely doing what one judges best, the source of an inner contentment even in failure. Detachment, sorting and affirmation balance out in him.
 
-> “To strive always to master myself rather than fortune, and to change my desires rather than the order of the world.” (Discourse on Method, III)
+> “To strive always to master myself rather than fortune, and to change my desires rather than the order of the world.”, Discourse on Method, III
 
 *Sources : Discourse on Method, III · The Passions of the Soul, arts. 144-148 and 211-212*
 
@@ -66,7 +66,7 @@ Dogmatism 90% · Skepticism 10%
 
 Against [skepticism](../glossary/skepticism.md), Descartes turns doubt against itself: he drives it to the point of [hyperbole](../glossary/hyperbolic-doubt.md), supposing an **evil genius** who deceives him about everything, to see whether anything withstands it. Yet the very act of doubting presupposes a subject who doubts: I can call everything into doubt except that I am thinking, and therefore that I am. The cogito is no dogma laid down in advance but a certainty won through doubt itself, an indubitable foothold from which the whole of knowledge can be rebuilt. The conclusion is thus firmly [dogmatic](../glossary/dogmatism.md): full certainty is attainable, and skepticism refutes itself when pushed to its limit.
 
-> “I think, therefore I am.” (Discourse on Method, IV)
+> “I think, therefore I am.”, Discourse on Method, IV
 
 *Sources : Meditations on First Philosophy, I and II · Discourse on Method, IV*
 
@@ -148,7 +148,7 @@ Mastery 85% · Stewardship 10% · Member among others 5%
 
 Once material nature is nothing but extension governed by the laws of motion, knowing the forces of bodies as one knows a mechanism allows them to be applied to every use, medicine first of all. Descartes replaces the **speculative philosophy** of the Schools, which contemplates essences, with a **practical philosophy** that transforms: the end of knowledge is no longer to understand a given order but to harness it. Nature ceases to be a community or a mother and becomes a domain to be possessed, a programme that inaugurates the modern technological relation to the world.
 
-> “as masters and possessors of nature” (Discourse on Method, VI)
+> “Instead of that speculative philosophy taught in the schools, we may find a practical one […] and thus render ourselves, as it were, masters and possessors of nature.”, Discourse on Method, VI
 
 *Sources : Discourse on Method, VI*
 
@@ -266,7 +266,7 @@ Virtue ethics 70% · Deontologism 20% · Consequentialism 5% · Ethics of care 5
 
 The morality of *[The Passions of the Soul](../works/the-passions-of-the-soul-descartes.md)* rests on a master virtue, [generosity](../glossary/generosity.md): to know that nothing truly belongs to us but the free disposal of our will, and to feel within ourselves a firm resolution to use it well. The right is decided less by rule or consequence than by the quality of the one who acts: generosity is like the key to all the other virtues and the general remedy against the disorders of the passions, which anchors Descartes in a virtue ethics, with a share of duty in the firmness of judgment.
 
-> “Generosity, which is as it were the key to all the other virtues.” (The Passions of the Soul, art. 161)
+> “Generosity, which is as it were the key to all the other virtues.”, The Passions of the Soul, art. 161
 
 *Sources : The Passions of the Soul, arts. 153-156 and 161 · Letter to Princess Elisabeth, 18 May 1645*
 

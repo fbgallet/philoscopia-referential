@@ -10,6 +10,22 @@ The gods had condemned Sisyphus to ceaselessly roll a rock to the top of a mount
 
 **Axes at stake** : [The meaning of life](../axes/life-meaning.md)
 
+## What it does in the debate
+
+### Supports [The meaning of life](../axes/life-meaning.md) : Absurdism
+
+Sisyphus rolls his rock forever, without hope or illusion; and yet, says Camus, 'one must imagine him happy': the worth of a life lies in the lucidity of the one who owns it, not in a meaning beyond it.
+
+**The argument it makes**
+
+1. Sisyphus is condemned to roll a rock forever to the summit, from which it at once falls back: effort with no end and no result, an image of our lives when no meaning comes to crown them.
+2. He has neither hope of ending nor illusion about his task; and yet, says [Camus](../philosophers/camus.md), he can face it without bitterness: 'the struggle itself toward the heights is enough to fill a man's heart'.
+3. Neither hope of a hidden meaning nor flight into renunciation: to recognize the absurdity of his toil and make it his own is to take his fate back into his own hands, in awareness and [revolt](../glossary/revolt.md).
+
+**⇒** So one can live fully without given meaning: 'one must imagine Sisyphus happy', for the worth of a life lies in the lucidity of the one who owns it, not in a meaning that would surpass it.
+
+**Reinforces** : [Holding out without cheating](../arguments/absurdism-lucid-revolt.md)
+
 **Possible stances** :
 
 - Such an effort has meaning only if it serves an end beyond itself: an order, a destiny, a God. Failing that, one must at least hope for it.

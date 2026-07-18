@@ -27,6 +27,14 @@ Hope distracts us from the present and sets us up for disappointment: it makes u
 - *[Tonality of reality](../axes/cosmic-outlook.md) : Metaphysical optimism* grounds *[Hope](../axes/hope.md) : The principle of hope* : If reality is ordered toward the good and history progresses, hope is not an illusion but a correct reading of the world. Metaphysical optimism grounds the principle of hope: to expect the best is to attune oneself to the very meaning of the real. [Kant](../philosophers/kant.md) indeed ranks hope among reason's cardinal questions, "what may I hope for?".
 - *[Tonality of reality](../axes/cosmic-outlook.md) : Tragic thought* grounds *[Hope](../axes/hope.md) : Lucidity without hope* : If the world is neither rational nor benevolent and no final harmony will redeem suffering, then to hope is to lie to oneself. Tragic thought grounds lucidity without hope: [Camus](../philosophers/camus.md) holds lucid revolt, without consolation, to be worthier than hope, and finds in it a form of freedom.
 
+## Quotations
+
+> “Cease to hope and you will cease to fear... the two march in step: anxiety follows hope.” — [Seneca](../philosophers/seneca.md), Letters to Lucilius, V
+
+> “Two things fill the mind with ever new and increasing admiration: the starry heavens above me and the moral law within me.” — [Kant](../philosophers/kant.md), Critique of Practical Reason, Conclusion
+
+> “Whatever the things I want, there will always be this possibility that things come about otherwise than I want: one must act without hope.” — [Sartre](../philosophers/sartre.md), Existentialism Is a Humanism
+
 ## Related axes
 
 [Scope of action](../axes/control-scope.md) · [Tonality of reality](../axes/cosmic-outlook.md) · [The meaning of suffering](../axes/suffering-meaning.md)

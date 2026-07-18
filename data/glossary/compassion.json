@@ -1,0 +1,41 @@
+{
+  "id": "compassion",
+  "term": {
+    "fr": "Compassion",
+    "en": "Compassion"
+  },
+  "aliases": {
+    "fr": [
+      "Mitleid"
+    ],
+    "en": [
+      "Mitleid"
+    ]
+  },
+  "definition": {
+    "fr": "La compassion (Mitleid) est la participation immédiate à la souffrance d'autrui, au point d'en faire son propre motif d'agir. <ph id='schopenhauer'>Schopenhauer</ph> en fait l'unique fondement de la morale : elle n'est possible que parce que la séparation des individus, le <c id='principium-individuationis'>principium individuationis</c>, est une illusion, et qu'en autrui je me reconnais comme la même <c id='vouloir-vivre'>Volonté</c>. Elle se distingue de la <c id='pitie'>pitié</c> naturelle de <ph id='rousseau'>Rousseau</ph>, simple répugnance à voir souffrir, et rejoint la karuṇā bouddhiste par son arrière-plan métaphysique.",
+    "en": "Compassion (Mitleid) is the immediate participation in another's suffering, to the point of making it one's own motive for acting. <ph id='schopenhauer'>Schopenhauer</ph> makes it the sole foundation of morality: it is possible only because the separateness of individuals, the <c id='principium-individuationis'>principium individuationis</c>, is an illusion, and because in another I recognize myself as the same <c id='vouloir-vivre'>Will</c>. It is distinct from the natural <c id='pitie'>pity</c> of <ph id='rousseau'>Rousseau</ph>, a mere reluctance to see suffering, and comes close to Buddhist karuṇā through its metaphysical background."
+  },
+  "relatedAxes": [
+    "EMOTIONS",
+    "MORAL_CIRCLE",
+    "ETHICS_FOUNDATION",
+    "SELF_INTEREST"
+  ],
+  "relatedTerms": [
+    "pitie",
+    "principium-individuationis",
+    "vouloir-vivre"
+  ],
+  "positions": [
+    {
+      "axisId": "EMOTIONS",
+      "poleId": "SENTIMENTALISM"
+    },
+    {
+      "axisId": "SELF_INTEREST",
+      "poleId": "ALTRUISM"
+    }
+  ],
+  "updatedAt": "2026-07-13T00:00:00.000Z"
+}

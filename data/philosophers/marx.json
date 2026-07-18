@@ -45,16 +45,7 @@
           "fr": "La classe dominante ne cède jamais d'elle-même : l'émancipation du prolétariat passe par la conquête révolutionnaire du pouvoir, et la violence y joue le rôle d'<kw>accoucheuse de l'histoire</kw>, moyen au service d'un ordre nouveau plutôt que valeur en soi. Marx concède pourtant que dans certains pays, aux institutions ouvertes, une transition pacifique n'est pas exclue : la violence est un instrument de l'émancipation, non son essence.",
           "en": "The ruling class never yields of its own accord: the emancipation of the proletariat requires the revolutionary conquest of power, and violence there plays the role of the <kw>midwife of history</kw>, a means in the service of a new order rather than a value in itself. Yet Marx concedes that in certain countries with open institutions a peaceful transition is not ruled out: violence is an instrument of emancipation, not its essence."
         },
-        "quote": {
-          "text": {
-            "fr": "La violence est l'accoucheuse de toute vieille société grosse d'une société nouvelle.",
-            "en": "Force is the midwife of every old society pregnant with a new one."
-          },
-          "source": {
-            "fr": "Le Capital, livre I, chap. XXXI",
-            "en": "Capital, vol. I, ch. 31"
-          }
-        },
+        "quoteId": "la-violence-est-l-accoucheuse-de-marx",
         "references": [
           {
             "fr": "Le Capital, livre I, chap. XXXI",
@@ -86,16 +77,7 @@
           "fr": "La onzième des <kw>Thèses sur Feuerbach</kw> retourne la vocation de la philosophie : interpréter le monde, comme les philosophes s'y sont bornés, laisse intactes les conditions matérielles qui produisent la misère et l'<kw>aliénation</kw>. La critique doit devenir pratique : s'incarner dans les luttes qui transforment les rapports sociaux, jusqu'à ce que la philosophie s'accomplisse en se réalisant.",
           "en": "The eleventh of the <kw>Theses on Feuerbach</kw> overturns philosophy's vocation: interpreting the world, as philosophers have confined themselves to doing, leaves untouched the material conditions that produce misery and <kw>alienation</kw>. Critique must become practical: it must take flesh in the struggles that transform social relations, until philosophy fulfills itself by being realized."
         },
-        "quote": {
-          "text": {
-            "fr": "Les philosophes n'ont fait qu'interpréter le monde de diverses manières ; ce qui importe, c'est de le transformer.",
-            "en": "The philosophers have only interpreted the world, in various ways; the point is to change it."
-          },
-          "source": {
-            "fr": "Thèses sur Feuerbach, XI (1845)",
-            "en": "Theses on Feuerbach, XI (1845)"
-          }
-        },
+        "quoteId": "les-philosophes-n-ont-fait-qu-marx",
         "references": [
           {
             "fr": "Thèses sur Feuerbach, XI",
@@ -255,16 +237,7 @@
           }
         ],
         "strength": "STRONG",
-        "quote": {
-          "text": {
-            "fr": "L'essence humaine n'est pas une abstraction inhérente à l'individu isolé. Dans sa réalité, elle est l'ensemble des rapports sociaux.",
-            "en": "The human essence is no abstraction inherent in the isolated individual. In its reality it is the ensemble of social relations."
-          },
-          "source": {
-            "fr": "Thèses sur Feuerbach, VI",
-            "en": "Theses on Feuerbach, VI"
-          }
-        }
+        "quoteId": "l-essence-humaine-n-est-pas-marx"
       }
     },
     {
@@ -345,16 +318,7 @@
             "en": "Preface to A Contribution to the Critique of Political Economy (1859)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "L'histoire de toute société jusqu'à nos jours n'a été que l'histoire de luttes de classes.",
-            "en": "The history of all hitherto existing society is the history of class struggles."
-          },
-          "source": {
-            "fr": "Manifeste du Parti communiste, 1848",
-            "en": "Manifesto of the Communist Party, 1848"
-          }
-        },
+        "quoteId": "l-histoire-de-toute-societe-jusqu-marx",
         "strength": "STRONG"
       }
     },
@@ -382,16 +346,7 @@
             "en": "Manifesto of the Communist Party, ch. 2 (abolition of private property)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "De chacun selon ses capacités, à chacun selon ses besoins.",
-            "en": "From each according to his ability, to each according to his needs."
-          },
-          "source": {
-            "fr": "Critique du programme de Gotha",
-            "en": "Critique of the Gotha Programme"
-          }
-        },
+        "quoteId": "de-chacun-selon-ses-capacites-a-marx",
         "strength": "STRONG"
       }
     },
@@ -423,16 +378,7 @@
             "en": "Capital, vol. I, on <c>abstract labour</c> and the <c>fetishism</c> of commodities"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Le travailleur ne s'affirme donc pas dans son travail, mais s'y nie ; ne s'y sent pas à l'aise, mais malheureux.",
-            "en": "The worker therefore does not affirm himself in his labour but denies himself; does not feel content but unhappy."
-          },
-          "source": {
-            "fr": "Manuscrits de 1844",
-            "en": "1844 Manuscripts"
-          }
-        },
+        "quoteId": "le-travailleur-ne-s-affirme-donc-marx",
         "strength": "STRONG"
       }
     },
@@ -460,16 +406,7 @@
             "en": "Theses on Feuerbach, XI (changing the world)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Les prolétaires n'ont rien à y perdre que leurs chaînes. Ils ont un monde à y gagner.",
-            "en": "The proletarians have nothing to lose but their chains. They have a world to win."
-          },
-          "source": {
-            "fr": "Manifeste du Parti communiste, 1848",
-            "en": "Manifesto of the Communist Party, 1848"
-          }
-        },
+        "quoteId": "les-proletaires-n-ont-rien-a-marx",
         "strength": "STRONG"
       }
     },
@@ -528,16 +465,7 @@
             "en": "The German Ideology, I (men distinguish themselves as soon as they produce their means of subsistence)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "L'essence humaine n'est pas une abstraction inhérente à l'individu isolé. Dans sa réalité, elle est l'ensemble des rapports sociaux.",
-            "en": "The human essence is no abstraction inherent in each single individual. In its reality it is the ensemble of the social relations."
-          },
-          "source": {
-            "fr": "Thèses sur Feuerbach, VI",
-            "en": "Theses on Feuerbach, VI"
-          }
-        },
+        "quoteId": "l-essence-humaine-n-est-pas-marx",
         "strength": "STRONG"
       }
     },
@@ -561,16 +489,7 @@
             "en": "Contribution to the Critique of Hegel's Philosophy of Right, introduction (1844)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "La religion est le soupir de la créature accablée, l'âme d'un monde sans cœur, l'esprit d'une époque sans esprit. Elle est l'opium du peuple.",
-            "en": "Religion is the sigh of the oppressed creature, the heart of a heartless world, the soul of soulless conditions. It is the opium of the people."
-          },
-          "source": {
-            "fr": "Critique de la philosophie du droit de Hegel, 1844",
-            "en": "Critique of Hegel's Philosophy of Right, 1844"
-          }
-        },
+        "quoteId": "la-religion-est-le-soupir-de-marx",
         "strength": "STRONG"
       }
     },
@@ -598,16 +517,7 @@
             "en": "Grundrisse, introduction (critique of the isolated Robinson Crusoe individual)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Ce n'est pas la conscience des hommes qui détermine leur être ; c'est inversement leur être social qui détermine leur conscience.",
-            "en": "It is not the consciousness of men that determines their being, but, on the contrary, their social being that determines their consciousness."
-          },
-          "source": {
-            "fr": "Préface à la Critique de l'économie politique, 1859",
-            "en": "Preface to the Critique of Political Economy, 1859"
-          }
-        },
+        "quoteId": "ce-n-est-pas-la-conscience-marx",
         "strength": "STRONG"
       }
     },
@@ -662,16 +572,7 @@
             "en": "Theses on Feuerbach, II (truth as a practical question)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Les philosophes n'ont fait qu'interpréter le monde de diverses manières ; ce qui importe, c'est de le transformer.",
-            "en": "The philosophers have only interpreted the world in various ways; the point, however, is to change it."
-          },
-          "source": {
-            "fr": "Thèses sur Feuerbach, XI",
-            "en": "Theses on Feuerbach, XI"
-          }
-        },
+        "quoteId": "les-philosophes-n-ont-fait-qu-marx",
         "strength": "STRONG"
       }
     },
@@ -726,16 +627,7 @@
             "en": "The German Ideology, I (circumstances make men as much as men make circumstances)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Les hommes font leur propre histoire, mais ils ne la font pas arbitrairement, dans des conditions choisies par eux, mais dans des conditions directement données et héritées du passé.",
-            "en": "Men make their own history, but they do not make it as they please; they do not make it under self-selected circumstances, but under circumstances directly given and inherited from the past."
-          },
-          "source": {
-            "fr": "Le 18 Brumaire de Louis Bonaparte",
-            "en": "The Eighteenth Brumaire of Louis Bonaparte"
-          }
-        },
+        "quoteId": "les-hommes-font-leur-propre-histoire-marx",
         "strength": "STRONG"
       }
     },
@@ -763,16 +655,7 @@
             "en": "Preface to A Contribution to the Critique of Political Economy (base and superstructure)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Les pensées de la classe dominante sont aussi, à toutes les époques, les pensées dominantes.",
-            "en": "The ideas of the ruling class are in every epoch the ruling ideas."
-          },
-          "source": {
-            "fr": "L'Idéologie allemande",
-            "en": "The German Ideology"
-          }
-        },
+        "quoteId": "les-pensees-de-la-classe-dominante-marx",
         "strength": "STRONG"
       }
     },
@@ -800,16 +683,7 @@
             "en": "Critique of the Gotha Programme (withering away of the state)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Le pouvoir politique moderne n'est que le comité qui gère les affaires communes de la classe bourgeoise tout entière.",
-            "en": "The modern state power is but a committee for managing the common affairs of the whole bourgeoisie."
-          },
-          "source": {
-            "fr": "Manifeste du Parti communiste, 1848",
-            "en": "Manifesto of the Communist Party, 1848"
-          }
-        },
+        "quoteId": "le-pouvoir-politique-moderne-n-est-marx",
         "strength": "MEDIUM"
       }
     },
@@ -837,16 +711,7 @@
             "en": "Manifesto of the Communist Party, ch. 3 (critique of utopian socialisms)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Le communisme n'est pas pour nous un état qui doit être créé, un idéal sur lequel la réalité devra se régler. Nous appelons communisme le mouvement réel qui abolit l'état actuel.",
-            "en": "Communism is for us not a state of affairs which is to be established, an ideal to which reality will have to adjust itself. We call communism the real movement which abolishes the present state of things."
-          },
-          "source": {
-            "fr": "L'Idéologie allemande, 1846",
-            "en": "The German Ideology, 1846"
-          }
-        },
+        "quoteId": "le-communisme-n-est-pas-pour-marx",
         "strength": "MEDIUM"
       }
     },
@@ -955,16 +820,7 @@
             "en": "Manifesto of the Communist Party, ch. 1 (the icy water of egotistical calculation) and ch. 2"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "La bourgeoisie a noyé les frissons sacrés de l'extase religieuse, de l'enthousiasme chevaleresque et de la sentimentalité petite-bourgeoise dans les eaux glacées du calcul égoïste.",
-            "en": "The bourgeoisie has drowned the most heavenly ecstasies of religious fervour, of chivalrous enthusiasm, of philistine sentimentalism, in the icy water of egotistical calculation."
-          },
-          "source": {
-            "fr": "Manifeste du Parti communiste, 1848",
-            "en": "Manifesto of the Communist Party, 1848"
-          }
-        },
+        "quoteId": "la-bourgeoisie-a-noye-les-frissons-marx",
         "strength": "MEDIUM"
       }
     },
@@ -988,16 +844,7 @@
             "en": "Manifesto of the Communist Party, ch. 2 and conclusion (the workers have no country; workers of all countries)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Prolétaires de tous les pays, unissez-vous !",
-            "en": "Workers of all countries, unite!"
-          },
-          "source": {
-            "fr": "Manifeste du Parti communiste, 1848",
-            "en": "Manifesto of the Communist Party, 1848"
-          }
-        },
+        "quoteId": "proletaires-de-tous-les-pays-unissez-marx",
         "strength": "STRONG"
       }
     },
@@ -1052,16 +899,7 @@
             "en": "The Eighteenth Brumaire of Louis Bonaparte (the poetry of the future)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "La révolution sociale du XIXe siècle ne peut tirer sa poésie du passé, mais seulement de l'avenir.",
-            "en": "The social revolution of the nineteenth century cannot draw its poetry from the past, but only from the future."
-          },
-          "source": {
-            "fr": "Le 18 Brumaire de Louis Bonaparte, 1852",
-            "en": "The Eighteenth Brumaire of Louis Bonaparte, 1852"
-          }
-        },
+        "quoteId": "la-revolution-sociale-du-xixe-siecle-marx",
         "strength": "MEDIUM"
       }
     },
@@ -1093,16 +931,7 @@
             "en": "Theses on Feuerbach, VIII (social life is essentially practical)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "C'est dans la pratique que l'homme doit prouver la vérité, c'est-à-dire la réalité et la puissance, l'en-deçà de sa pensée.",
-            "en": "In practice man must prove the truth, that is, the reality and power, the this-sidedness of his thinking."
-          },
-          "source": {
-            "fr": "Thèses sur Feuerbach, II",
-            "en": "Theses on Feuerbach, II"
-          }
-        },
+        "quoteId": "c-est-dans-la-pratique-que-marx",
         "strength": "STRONG"
       }
     },

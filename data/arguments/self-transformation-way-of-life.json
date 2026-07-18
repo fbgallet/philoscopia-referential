@@ -1,0 +1,47 @@
+{
+  "id": "self-transformation-way-of-life",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "METAPHILOSOPHY", "poleId": "SELF_TRANSFORMATION" },
+  "name": { "fr": "La philosophie comme manière de vivre", "en": "Philosophy as a way of life" },
+  "claim": {
+    "fr": "La philosophie est d'abord un exercice qui transforme celui qui la pratique, non un système de propositions : « vaine est la parole du philosophe qui ne soigne aucune souffrance humaine ».",
+    "en": "Philosophy is first of all an exercise that transforms the one who practices it, not a system of propositions: 'empty is the word of the philosopher that heals no human suffering'."
+  },
+  "summary": {
+    "fr": "Chez les Anciens, philosopher était une manière de vivre faite d'exercices travaillant désirs et peurs, non un corps de doctrines. Ce qui nous trouble tient à nos passions mal réglées, non au manque de théories ; une doctrine qui ne change pas qui la tient reste lettre morte.",
+    "en": "For the Ancients, to philosophize was a way of life made of exercises working on desires and fears, not a body of doctrines. What troubles us lies in our ill-ordered passions, not in a lack of theories; a doctrine that does not change the one who holds it stays a dead letter."
+  },
+  "development": [
+    {
+      "fr": "Chez les Anciens, la philosophie n'était pas un corps de doctrines à apprendre mais une manière de vivre : méditation, examen de soi, préparation aux épreuves, autant d'<kw>exercices</kw> qui travaillaient les désirs, les peurs, les jugements.",
+      "en": "For the Ancients, philosophy was not a body of doctrines to learn but a way of life: meditation, self-examination, preparation for hardship, so many <kw>exercises</kw> that worked on desires, fears, judgments."
+    },
+    {
+      "fr": "Car ce qui nous trouble n'est pas tant l'ignorance de théories que nos passions et nos opinions mal réglées : savoir que la mort n'est rien ne sert de rien si l'on continue de la craindre ; il faut s'exercer à le vivre.",
+      "en": "For what troubles us is not so much ignorance of theories as our ill-ordered passions and opinions: knowing that death is nothing is of no use if one goes on fearing it; one must train oneself to live it."
+    },
+    {
+      "fr": "Une doctrine qui ne change pas celui qui la tient reste lettre morte : la vraie mesure d'une philosophie est la transformation qu'elle opère, le passage d'une vie agitée à une vie plus libre et plus lucide.",
+      "en": "A doctrine that does not change the one who holds it stays a dead letter: the true measure of a philosophy is the transformation it works, the passage from a troubled life to a freer and more lucid one."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la philosophie vaut comme médecine de l'âme et art de vivre : non un discours qu'on ajoute à sa vie, mais un exercice qui la refait.",
+    "en": "So philosophy is worth something as medicine for the soul and an art of living: not a discourse added to one's life, but an exercise that remakes it."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": { "fr": "Hadot, Épicure", "en": "Hadot, Epicurus" },
+    "figures": [
+      { "name": { "fr": "Hadot", "en": "Hadot" }, "kind": "PHILOSOPHER", "slug": "hadot" },
+      { "name": { "fr": "Épicure", "en": "Epicurus" }, "kind": "PHILOSOPHER", "slug": "epicurus" },
+      { "name": { "fr": "les stoïciens", "en": "the Stoics" }, "kind": "MOVEMENT", "slug": "stoicism" }
+    ],
+    "work": { "fr": "Qu'est-ce que la philosophie antique ?", "en": "What Is Ancient Philosophy?" },
+    "workId": "what-is-ancient-philosophy-hadot",
+    "year": 1995
+  },
+  "test": "self-transformation-consolation-objection",
+  "problems": ["discourse-or-way-of-life", "useless-or-free", "philosophy-for-whom"],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

@@ -251,6 +251,259 @@
         "additionalProperties": false
       }
     },
+    "roles": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "role": {
+            "type": "string",
+            "enum": [
+              "OBJECTS",
+              "SUPPORTS",
+              "RAISES_PROBLEM",
+              "TESTS_CONCEPT",
+              "ILLUSTRATES"
+            ]
+          },
+          "position": {
+            "type": "object",
+            "properties": {
+              "axisId": {
+                "type": "string",
+                "pattern": "^[A-Z][A-Z0-9_]*$"
+              },
+              "poleId": {
+                "type": "string",
+                "pattern": "^[A-Z][A-Z0-9_]*$"
+              },
+              "median": {
+                "type": "boolean",
+                "const": true
+              }
+            },
+            "required": [
+              "axisId"
+            ],
+            "additionalProperties": false
+          },
+          "attacks": {
+            "type": "string",
+            "enum": [
+              "POSITION",
+              "REASONING"
+            ]
+          },
+          "argumentId": {
+            "type": "string",
+            "pattern": "^[a-z0-9][a-z0-9-]*$"
+          },
+          "problems": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^[a-z0-9][a-z0-9-]*$"
+            }
+          },
+          "summary": {
+            "type": "object",
+            "properties": {
+              "fr": {
+                "type": "string",
+                "minLength": 1
+              },
+              "en": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "required": [
+              "fr",
+              "en"
+            ],
+            "additionalProperties": false
+          },
+          "reconstruction": {
+            "type": "object",
+            "properties": {
+              "development": {
+                "minItems": 1,
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "fr": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "en": {
+                      "type": "string",
+                      "minLength": 1
+                    }
+                  },
+                  "required": [
+                    "fr",
+                    "en"
+                  ],
+                  "additionalProperties": false
+                }
+              },
+              "conclusion": {
+                "type": "object",
+                "properties": {
+                  "fr": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "en": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "required": [
+                  "fr",
+                  "en"
+                ],
+                "additionalProperties": false
+              }
+            },
+            "required": [
+              "development"
+            ],
+            "additionalProperties": false
+          },
+          "responses": {
+            "minItems": 2,
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "pattern": "^[a-z0-9][a-z0-9-]*$"
+                },
+                "label": {
+                  "type": "object",
+                  "properties": {
+                    "fr": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "en": {
+                      "type": "string",
+                      "minLength": 1
+                    }
+                  },
+                  "required": [
+                    "fr",
+                    "en"
+                  ],
+                  "additionalProperties": false
+                },
+                "hints": {
+                  "minItems": 1,
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "axisId": {
+                        "type": "string",
+                        "pattern": "^[A-Z][A-Z0-9_]*$"
+                      },
+                      "value": {
+                        "oneOf": [
+                          {
+                            "type": "object",
+                            "properties": {
+                              "kind": {
+                                "type": "string",
+                                "const": "scalar"
+                              },
+                              "value": {
+                                "type": "number",
+                                "minimum": -1,
+                                "maximum": 1
+                              }
+                            },
+                            "required": [
+                              "kind",
+                              "value"
+                            ],
+                            "additionalProperties": false
+                          },
+                          {
+                            "type": "object",
+                            "properties": {
+                              "kind": {
+                                "type": "string",
+                                "const": "weights"
+                              },
+                              "weights": {
+                                "minItems": 2,
+                                "type": "array",
+                                "items": {
+                                  "type": "number",
+                                  "minimum": 0,
+                                  "maximum": 1
+                                }
+                              }
+                            },
+                            "required": [
+                              "kind",
+                              "weights"
+                            ],
+                            "additionalProperties": false
+                          }
+                        ]
+                      },
+                      "weight": {
+                        "type": "number",
+                        "minimum": 0,
+                        "maximum": 3
+                      }
+                    },
+                    "required": [
+                      "axisId",
+                      "value"
+                    ],
+                    "additionalProperties": false
+                  }
+                },
+                "discussion": {
+                  "type": "object",
+                  "properties": {
+                    "fr": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "en": {
+                      "type": "string",
+                      "minLength": 1
+                    }
+                  },
+                  "required": [
+                    "fr",
+                    "en"
+                  ],
+                  "additionalProperties": false
+                }
+              },
+              "required": [
+                "id",
+                "label",
+                "hints"
+              ],
+              "additionalProperties": false
+            }
+          }
+        },
+        "required": [
+          "role",
+          "position"
+        ],
+        "additionalProperties": false
+      }
+    },
     "updatedAt": {
       "type": "string"
     }

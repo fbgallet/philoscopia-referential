@@ -64,7 +64,7 @@ Affirmation 55% · Tri raisonné 40% · Extinction-détachement 5%
 
 Hume renverse le primat classique de la raison sur le désir : les passions sont les ressorts légitimes de toute action, que la raison sert sans pouvoir s'y opposer, seules les passions calmes tempérant les violentes. Nulle ascèse, donc, mais l'acceptation des désirs comme données premières de la vie, ordonnées du dedans plutôt que réprimées.
 
-> « La raison est, et ne doit être, que l'esclave des passions. » (Traité de la nature humaine, II, 3, 3)
+> « La raison est, et ne doit être, que l'esclave des passions. », Traité de la nature humaine, II, 3, 3
 
 *Sources : Traité de la nature humaine, II, 3, 3*
 
@@ -86,7 +86,7 @@ Empirisme 98% · Rationalisme 3%
 
 Les perceptions se rangent en deux classes que sépare leur seule force : les impressions, vives et originaires (sensations, passions), et les idées, leurs copies affaiblies dans la pensée. De ce constat Hume tire un principe et un instrument : toute idée simple dérive d'une impression antérieure, donc une idée qui ne renvoie à aucune impression est vide de sens. Plus radical que la [table rase](../glossary/tabula-rasa.md) de [Locke](../philosophers/locke.md), ce critère ne se borne pas à récuser les [idées innées](../glossary/innate-ideas.md) : il devient une machine à dissoudre les pseudo-concepts de la métaphysique (substance, connexion nécessaire), qu'il suffit de sommer de produire leur impression d'origine. C'est l'[empirisme](../movements/empiricism.md) retourné en arme critique, contre le [rationalisme](../movements/rationalism.md) de [Descartes](../philosophers/descartes.md).
 
-> « Toutes nos idées ne sont que des copies de nos impressions, ou, en d'autres termes, il nous est impossible de penser quoi que ce soit que nous n'ayons pas auparavant senti. » (Enquête sur l'entendement humain, sect. II)
+> « Toutes nos idées ne sont que des copies de nos impressions, ou, en d'autres termes, il nous est impossible de penser quoi que ce soit que nous n'ayons pas auparavant senti. », Enquête sur l'entendement humain, sect. II
 
 *Sources : Enquête sur l'entendement humain, sect. II (de l'origine des idées) · Traité de la nature humaine, I, partie I, sect. 1*
 
@@ -98,7 +98,7 @@ Mécanisme 100%
 
 Toute idée doit dériver d'une impression : Hume cherche donc quelle impression nous donne la connexion nécessaire entre une cause et son effet, et n'en trouve aucune. Dans les objets, l'expérience ne livre que succession et conjonction constante ; jamais le lien qui obligerait l'un à suivre l'autre. La nécessité n'est donc pas dans les choses : elle est une habitude (custom) de l'esprit, une attente projetée par la répétition. De là le problème de l'[induction](../glossary/induction.md) : si rien ne nous fait percevoir le lien causal, aucune inférence du passé au futur n'est rationnellement fondée. C'est l'analyse qui, en sapant la causalité comme nécessité objective, tirera [Kant](../philosophers/kant.md) de son sommeil dogmatique. La [finalité](../axes/causality.md) et la force vitale, faute de toute impression, tombent du même coup.
 
-> « Après une répétition de cas semblables, l'esprit est porté par l'habitude, dès l'apparition d'un événement, à en attendre le compagnon ordinaire... C'est donc le sentiment ou l'impression d'où nous tirons l'idée de pouvoir ou de connexion nécessaire. » (Enquête sur l'entendement humain, sect. VII)
+> « Après une répétition de cas semblables, l'esprit est porté par l'habitude, dès l'apparition d'un événement, à en attendre le compagnon ordinaire... C'est donc le sentiment ou l'impression d'où nous tirons l'idée de pouvoir ou de connexion nécessaire. », Enquête sur l'entendement humain, sect. VII
 
 *Sources : Enquête sur l'entendement humain, sect. VII (de l'idée de connexion nécessaire) · Traité de la nature humaine, I, partie III, sect. 6 et 14*
 
@@ -122,7 +122,7 @@ Faisceau 100%
 
 Le même critère vaut pour le moi : s'il existait, il faudrait l'impression qui le donne. Or l'introspection ne livre jamais un sujet permanent, seulement une perception particulière, chaleur, lumière, plaisir ou douleur, qui aussitôt fait place à une autre. Hume en infère qu'il n'y a pas de substance pensante sous les perceptions : le moi n'est qu'un « faisceau de perceptions » (bundle of perceptions) en flux perpétuel. L'[identité personnelle](../glossary/personal-identity.md) que nous lui prêtons est une fiction de l'imagination, qui prend pour identité réelle la ressemblance et la continuité de ses contenus. La thèse vise [Descartes](../philosophers/descartes.md) et toute âme-substance ; c'est l'archétype de la théorie du faisceau.
 
-> « Pour ma part, quand je pénètre le plus intimement dans ce que j'appelle moi-même, je tombe toujours sur telle ou telle perception particulière... je ne peux jamais me saisir, moi, en aucun moment sans une perception. » (Traité de la nature humaine, I, IV, 6)
+> « Pour ma part, quand je pénètre le plus intimement dans ce que j'appelle moi-même, je tombe toujours sur telle ou telle perception particulière... je ne peux jamais me saisir, moi, en aucun moment sans une perception. », Traité de la nature humaine, I, IV, 6
 
 *Sources : Traité de la nature humaine, I, partie IV, sect. 6 (de l'identité personnelle)*
 
@@ -134,7 +134,7 @@ Sentimentalisme 95% · Intellectualisme 5%
 
 La raison n'a que deux emplois : établir des relations d'idées (le démonstratif) ou inférer des faits (le causal) ; or aucun de ces actes ne meut à lui seul la volonté. Hume en conclut que la raison ne saurait produire ni empêcher une action, donc jamais s'opposer à une passion : seule une passion contraire le peut. La raison fixe les moyens, mais les fins viennent du sentiment ; on ne déclare contraire à la raison ni de préférer sa ruine au moindre désagrément d'autrui, car un désir n'est ni vrai ni faux. Renversant l'intellectualisme socratique et stoïcien qui faisait des passions des erreurs de jugement, Hume soutient un sentimentalisme où la raison est subordonnée à l'affect dans tout ce qui touche à l'action et au jugement moral.
 
-> « La raison est, et ne doit qu'être, l'esclave des passions, et ne peut prétendre à d'autre rôle qu'à les servir et à leur obéir. » (Traité de la nature humaine, II, III, 3)
+> « La raison est, et ne doit qu'être, l'esclave des passions, et ne peut prétendre à d'autre rôle qu'à les servir et à leur obéir. », Traité de la nature humaine, II, III, 3
 
 *Sources : Traité de la nature humaine, II, partie III, sect. 3 (des motifs qui influent sur la volonté)*
 
@@ -146,7 +146,7 @@ La raison n'a que deux emplois : établir des relations d'idées (le démonstrat
 
 La distinction du bien et du mal naît d'un sentiment d'approbation ou de désapprobation, non d'une déduction de la raison : la morale se sent plus qu'elle ne se juge. Ce sentiment s'enracine dans la sympathie, capacité à partager les affects d'autrui, qui nous fait approuver les qualités utiles et agréables à soi et aux autres. D'où une éthique du care et du sentiment, avec une composante de vertu (qualités de caractère) et un souci conséquentialiste de l'utilité.
 
-> « La morale est plus proprement sentie que jugée. » (Traité de la nature humaine, III, I, 2)
+> « La morale est plus proprement sentie que jugée. », Traité de la nature humaine, III, I, 2
 
 *Sources : Enquête sur les principes de la morale, sect. I et IX (le sentiment moral, l'utilité) · Traité de la nature humaine, III, partie I, sect. 1-2 (la morale n'est pas tirée de la raison)*
 
@@ -168,7 +168,7 @@ Hume relève un saut illicite dans les traités de morale : les auteurs passent 
 
 Puisque toute croyance de fait repose sur l'expérience, sa fermeté doit se mesurer à la preuve : croire au-delà de ce que l'évidence autorise est une faute épistémique. Hume en tire une arme contre les miracles : un miracle est par définition une violation des lois de la nature, et ces lois sont établies par une expérience uniforme, donc par la preuve la plus complète qui soit. Le poids de l'expérience contraire est ainsi maximal ; aucun témoignage ne peut le surmonter, sauf si sa fausseté serait plus miraculeuse encore que le fait rapporté, ce qui n'arrive jamais. L'argument ne nie pas a priori le surnaturel : il montre qu'un esprit réglé sur la preuve ne saurait y assentir.
 
-> « Un homme sage proportionne sa croyance à l'évidence. » (Enquête sur l'entendement humain, sect. X)
+> « Un homme sage proportionne donc sa croyance à l'évidence. », Enquête sur l'entendement humain, sect. X
 
 *Sources : Enquête sur l'entendement humain, sect. X (des miracles)*
 
@@ -270,7 +270,7 @@ Beau subjectif 85% · Beau objectif 15%
 
 La beauté n'est pas une qualité des choses mais existe dans l'esprit qui les contemple : elle se ramène à un sentiment de plaisir, comme la valeur morale. Hume n'en conclut pas à un pur arbitraire : un « standard du goût » se dégage du verdict des critiques expérimentés et délicats, ce qui tempère le subjectivisme sans le renverser.
 
-> « La beauté n'est pas une qualité des choses mêmes : elle existe seulement dans l'esprit qui les contemple, et chaque esprit perçoit une beauté différente. » (Essais, « De la norme du goût »)
+> « La beauté n'est pas une qualité des choses mêmes : elle existe seulement dans l'esprit qui les contemple, et chaque esprit perçoit une beauté différente. », Essais, « De la norme du goût »
 
 *Sources : Essais, « De la norme du goût »*
 

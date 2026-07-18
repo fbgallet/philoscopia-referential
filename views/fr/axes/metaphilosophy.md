@@ -34,6 +34,43 @@ La philosophie ne délivre ni vérités sur le monde ni recettes de vie : elle a
 
 *[Wittgenstein](../philosophers/wittgenstein.md)*
 
+## Problèmes vifs
+
+- **À quoi bon ?** : L'inutilité de la philosophie est-elle sa dignité même, le seul savoir libre qu'on ne poursuit pour rien d'autre, ou un vrai défaut au regard des sciences et de l'action, comme Thalès qui tombe dans un puits en observant les astres, sous le rire de la servante thrace ?
+- **Comprendre ou transformer** : La philosophie peut-elle se contenter de comprendre, ou toute contemplation est-elle déjà complice, arrivant trop tard comme la chouette de Minerve, quand toute pensée prend en fait parti pour ou contre un ordre ?
+- **Discours ou manière de vivre** : La philosophie est-elle un corps de doctrines, ou d'abord une manière de vivre faite d'exercices qui transforment celui qui les pratique, et qu'on aurait réduite à de la théorie ?
+- **Vrais problèmes ou confusions** : Les grands problèmes philosophiques sont-ils de vraies questions, ou des nœuds de langage à dissoudre plutôt qu'à résoudre, au risque de jeter avec l'eau du bain les questions qui comptent ?
+- **La philosophie avance-t-elle ?** : Après des siècles, la philosophie n'a pas de résultats acquis comme les sciences et les mêmes questions reviennent : échec à dissoudre de faux problèmes, ou marque de questions qu'on n'est pas censé résoudre une fois pour toutes ?
+- **La philosophie et les sciences** : La philosophie est-elle une proto-science que les sciences détrônent à mesure qu'elles mûrissent, ou pose-t-elle des questions, sur les valeurs, le sens, ses propres présupposés, qu'aucune science ne peut trancher ?
+- **Pour tous ou pour quelques-uns** : La philosophie est-elle l'examen que chacun doit à sa vie, sur l'agora avec Socrate et sous le mot d'ordre « ose savoir », ou reste-t-elle, par sa difficulté et le loisir qu'elle demande, l'affaire de quelques-uns ?
+
+## Arguments
+
+- *Comprendre le monde* · pour : [La théôria, activité la plus haute](../arguments/contemplation-theoria.md)
+- *Comprendre le monde* · contre : [La chouette de Minerve arrive trop tard](../arguments/contemplation-eleventh-thesis-objection.md)
+- *Transformer le monde* · pour : [Transformer, non seulement interpréter](../arguments/world-transformation-praxis.md)
+- *Transformer le monde* · contre : [Agir sans comprendre, c'est agir en aveugle](../arguments/world-transformation-blind-praxis-objection.md)
+- *Se transformer soi-même* · pour : [La philosophie comme manière de vivre](../arguments/self-transformation-way-of-life.md)
+- *Se transformer soi-même* · contre : [Se soigner, ou chercher le vrai ?](../arguments/self-transformation-consolation-objection.md)
+- *Clarifier la pensée* · pour : [Dissoudre les faux problèmes](../arguments/clarification-dissolve-confusions.md)
+- *Clarifier la pensée* · contre : [Ne pas jeter les vraies questions](../arguments/clarification-real-questions-objection.md)
+
+## Citations
+
+> « Cette science est la seule de toutes qui soit libre, car seule elle est à elle-même sa propre fin. » — [Aristote](../philosophers/aristotle.md), Métaphysique, A, 2 (982b)
+
+> « La chouette de Minerve ne prend son vol qu'à la tombée de la nuit. » — [Hegel](../philosophers/hegel.md), Principes de la philosophie du droit, Préface
+
+> « La matière de l'art de vivre, c'est la vie de chacun. » — [Épictète](../philosophers/epictetus.md), Entretiens, I, 15, 2
+
+> « La philosophie est une lutte contre l'ensorcellement de notre entendement par les moyens de notre langage. » — [Ludwig Wittgenstein](../philosophers/wittgenstein.md), Wittgenstein, Recherches philosophiques, § 109
+
+> « La philosophie ne peut jamais faire davantage qu'interpréter et expliquer ce qui existe. » — [Schopenhauer](../philosophers/schopenhauer.md), Le Monde comme volonté et comme représentation, §53
+
+> « Les philosophes n'ont fait qu'interpréter le monde de diverses manières ; ce qui importe, c'est de le transformer. » — [Marx](../philosophers/marx.md), Thèses sur Feuerbach, XI (1845)
+
+> « Vaine est la parole du philosophe qui ne soigne aucune souffrance humaine. » — [Épicure](../philosophers/epicurus.md), fragment 221 Usener (Porphyre, Lettre à Marcella, 31)
+
 ## Axes liés
 
 [Place de la science](../axes/science-place.md) · [Le sens de la vie](../axes/life-meaning.md) · [Souverain bien](../axes/sovereign-good.md) · [Le sens des mots](../axes/meaning.md) · [Sens de l'histoire](../axes/history-meaning.md)

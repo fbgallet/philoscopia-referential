@@ -1,0 +1,73 @@
+{
+  "id": "consequentialism-only-results-matter",
+  "kind": "SUPPORTS",
+  "position": {
+    "axisId": "ETHICS_FOUNDATION",
+    "poleId": "CONSEQUENTIALISM"
+  },
+  "name": {
+    "fr": "Seuls comptent les effets",
+    "en": "Only results count"
+  },
+  "claim": {
+    "fr": "Une action ne touche le monde que par ses effets : c'est donc au bien et au mal qu'elle produit qu'il faut la juger, non à l'intention ni à la règle.",
+    "en": "An action touches the world only through its effects: it must therefore be judged by the good and harm it produces, not by intention or by rule."
+  },
+  "summary": {
+    "fr": "Intentions et règles ne valent qu'en vue du bien qu'elles produisent ; reste donc, en dernier ressort, un seul critère non dérivé, la quantité de bien et de mal réellement causée.",
+    "en": "Intentions and rules are worth something only in view of the good they produce; there remains, in the last resort, a single underived criterion, the amount of good and harm actually caused."
+  },
+  "development": [
+    {
+      "fr": "Une action ne change le monde que par ses effets : le bien et le mal réellement produits, la souffrance épargnée ou infligée, les vies sauvées ou perdues.",
+      "en": "An action changes the world only through its effects: the good and harm actually produced, the suffering spared or inflicted, the lives saved or lost."
+    },
+    {
+      "fr": "Ce qu'on invoque d'autre ne vaut qu'en vue de cela : on loue une bonne intention parce qu'elle vise le bien, on suit une règle parce qu'elle produit d'ordinaire de bons résultats. Ôtez tout effet bénéfique, et l'intention pure ou la règle observée ne soulagent personne.",
+      "en": "Whatever else one invokes is worth something only in view of that: we praise a good intention because it aims at the good, we follow a rule because it usually produces good results. Remove every beneficial effect, and pure intention or the observed rule relieve no one."
+    },
+    {
+      "fr": "Reste donc, en dernier ressort, un seul critère qui ne se ramène à aucun autre : la quantité de bien et de mal produite. Juger une action à autre chose, c'est préférer un principe aux êtres réels qu'elle touche.",
+      "en": "There remains, then, in the last resort, a single criterion that reduces to no other: the amount of good and harm produced. To judge an action by anything else is to prefer a principle to the real beings it affects."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc est juste l'action qui produit les meilleures conséquences, par exemple le plus grand bonheur du plus grand nombre : les effets, non les intentions ni les règles, sont la mesure dernière.",
+    "en": "So the right action is the one that produces the best consequences, for instance the greatest happiness for the greatest number: effects, not intentions or rules, are the ultimate measure."
+  },
+  "difficulty": 1,
+  "source": {
+    "author": {
+      "fr": "Mill ; Bentham",
+      "en": "Mill; Bentham"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Mill",
+          "en": "Mill"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "mill"
+      },
+      {
+        "name": {
+          "fr": "Bentham",
+          "en": "Bentham"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "bentham"
+      }
+    ],
+    "work": {
+      "fr": "L'Utilitarisme, ch. II",
+      "en": "Utilitarianism, ch. II"
+    },
+    "year": 1863
+  },
+  "testThoughtExperiment": "trolley-problem",
+  "problems": [
+    "consequences-or-the-forbidden-act"
+  ],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
+}

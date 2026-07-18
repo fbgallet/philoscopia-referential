@@ -1,0 +1,116 @@
+{
+  "id": "perfectionism-unconditional-good",
+  "kind": "SUPPORTS",
+  "position": {
+    "axisId": "SOVEREIGN_GOOD",
+    "poleId": "MORAL_PERFECTIONISM"
+  },
+  "name": {
+    "fr": "Le seul bien sans réserve",
+    "en": "The only unconditional good"
+  },
+  "claim": {
+    "fr": "Le plaisir, la richesse, le talent peuvent servir au pire ; seule la droiture est bonne dans tous les cas. Le vrai bien est celui qu'on ne peut mal employer.",
+    "en": "Pleasure, wealth, talent can serve the worst ends; only uprightness is good in every case. The true good is the one that cannot be misused."
+  },
+  "summary": {
+    "fr": "Tous les biens que l'on cite peuvent être retournés en mal par une mauvaise volonté ; seule la bonne volonté reste bonne sous tous ses usages, car elle est la droiture même de l'usage. Si le souverain bien est ce qui vaut sans condition, c'est la vertu.",
+    "en": "Every good one names can be turned to evil by an ill will; only the good will stays good under every use, because it is the very rightness of the use. If the highest good is what is worth something unconditionally, it is virtue."
+  },
+  "development": [
+    {
+      "fr": "Passons en revue ce qu'on tient pour des biens : l'intelligence, le courage, la richesse, le pouvoir, et jusqu'au bonheur même. Tous ont ceci de commun qu'ils peuvent servir au mal : l'habileté du fourbe, le sang-froid du criminel, la prospérité du tyran les rendent nuisibles.",
+      "en": "Let us review what we take to be goods: intelligence, courage, wealth, power, and even happiness itself. All have this in common, that they can serve evil: the cunning of the deceiver, the cold blood of the criminal, the prosperity of the tyrant make them harmful."
+    },
+    {
+      "fr": "Un bien qui, mal employé, devient un mal n'est donc bon que sous condition : il vaut si celui qui en use le veut bien. Ce qui décide de sa valeur n'est pas lui, mais la <kw>volonté</kw> qui s'en sert.",
+      "en": "A good that, misused, becomes an evil is therefore good only conditionally: it is worth something if the one who uses it wills well. What decides its worth is not the good itself, but the <kw>will</kw> that puts it to use."
+    },
+    {
+      "fr": "Or une seule chose reste bonne quel qu'en soit l'usage, parce qu'elle est précisément la droiture de cet usage : la <kw>bonne volonté</kw>, la vertu, le fait de vouloir le juste pour lui-même. Elle seule ne peut être retournée en mal, car elle est ce par quoi tout le reste devient bon ou mauvais.",
+      "en": "Now one thing alone stays good whatever the use, because it is precisely the rightness of that use: the <kw>good will</kw>, virtue, willing the just for its own sake. It alone cannot be turned to evil, for it is that through which all the rest becomes good or bad."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc seule la vertu a une valeur inconditionnelle ; et si le souverain bien est ce qui vaut sans réserve, alors c'est la droiture morale, non le plaisir ni l'épanouissement, qui mérite ce nom.",
+    "en": "So virtue alone has unconditional worth; and if the highest good is what is worth something without reservation, then it is moral uprightness, not pleasure or flourishing, that deserves the name."
+  },
+  "deepenings": [
+    {
+      "id": "the-stoic-only-good",
+      "label": {
+        "fr": "L'argument stoïcien du seul bien",
+        "en": "The Stoic argument for the one good"
+      },
+      "summary": {
+        "fr": "Est un vrai bien ce qui, en toute circonstance, profite et ne peut jamais nuire ; seule la vertu remplit ce critère.",
+        "en": "A true good is what, in every circumstance, benefits and can never harm; virtue alone meets that test."
+      },
+      "development": [
+        {
+          "fr": "Les <mv id='stoicism'>stoïciens</mv> vont plus loin : est un vrai bien ce qui, en toute circonstance, profite à qui le possède, et ne peut jamais nuire.",
+          "en": "The <mv id='stoicism'>Stoics</mv> go further: a true good is what, in every circumstance, benefits the one who has it, and can never harm."
+        },
+        {
+          "fr": "Or la santé peut amollir, la richesse corrompre, le plaisir asservir : aucun de ces « biens » ne profite à coup sûr. Seule la vertu profite toujours et ne nuit jamais, à qui l'a comme à ceux qui l'entourent.",
+          "en": "Now health can soften, wealth can corrupt, pleasure can enslave: none of these 'goods' benefits for certain. Virtue alone always benefits and never harms, both its holder and those around them."
+        }
+      ],
+      "conclusion": {
+        "fr": "Donc, à ce critère, la vertu seule est un bien ; le reste, santé, richesse, réputation, n'est ni bien ni mal, mais matière « indifférente » qu'elle emploie bien ou mal.",
+        "en": "So, by this test, virtue alone is a good; the rest, health, wealth, reputation, is neither good nor bad, but 'indifferent' matter that virtue uses well or badly."
+      },
+      "source": {
+        "author": {
+          "fr": "les stoïciens",
+          "en": "the Stoics"
+        },
+        "figures": [
+          {
+            "name": {
+              "fr": "les stoïciens",
+              "en": "the Stoics"
+            },
+            "kind": "MOVEMENT",
+            "slug": "stoicism"
+          }
+        ]
+      }
+    }
+  ],
+  "difficulty": 1,
+  "source": {
+    "author": {
+      "fr": "Kant ; les stoïciens",
+      "en": "Kant; the Stoics"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Kant",
+          "en": "Kant"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "kant"
+      },
+      {
+        "name": {
+          "fr": "les stoïciens",
+          "en": "the Stoics"
+        },
+        "kind": "MOVEMENT",
+        "slug": "stoicism"
+      }
+    ],
+    "work": {
+      "fr": "Fondements de la métaphysique des mœurs, première section",
+      "en": "Groundwork of the Metaphysics of Morals, First Section"
+    },
+    "workId": "groundwork-of-the-metaphysics-of-morals-kant"
+  },
+  "testThoughtExperiment": "fragility-of-goodness",
+  "problems": [
+    "success-without-uprightness"
+  ],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
+}

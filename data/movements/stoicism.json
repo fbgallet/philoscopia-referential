@@ -54,16 +54,7 @@
           "fr": "La philosophie stoïcienne est un exercice (<kw>askêsis</kw>) plus qu'un savoir : une discipline quotidienne du jugement, du désir et de l'action, dont la matière est la vie même de celui qui la pratique. La physique et la logique y gardent leur place, mais au service de l'art de vivre : connaître l'ordre du monde, c'est apprendre à y consentir.",
           "en": "Stoic philosophy is an exercise (<kw>askêsis</kw>) more than a body of knowledge: a daily discipline of judgment, desire, and action, whose raw material is the very life of the one who practices it. Physics and logic keep their place, but in the service of the art of living: to know the order of the world is to learn to consent to it."
         },
-        "quote": {
-          "text": {
-            "fr": "La matière de l'art de vivre, c'est la vie de chacun.",
-            "en": "The subject-matter of the art of living is each person's own life."
-          },
-          "source": {
-            "fr": "Épictète, Entretiens, I, 15, 2",
-            "en": "Epictetus, Discourses, I.15.2"
-          }
-        },
+        "quoteId": "la-matiere-de-l-art-de-epictetus",
         "references": [
           {
             "fr": "Épictète, Entretiens, I, 15",
@@ -147,16 +138,7 @@
           { "fr": "Épictète, Entretiens", "en": "Epictetus, Discourses" }
         ],
         "strength": "STRONG",
-        "quote": {
-          "text": {
-            "fr": "Parmi les choses qui existent, les unes dépendent de nous, les autres ne dépendent pas de nous.",
-            "en": "Of things, some are in our power, and others are not."
-          },
-          "source": {
-            "fr": "Épictète, Manuel, §1",
-            "en": "Epictetus, Enchiridion, §1"
-          }
-        }
+        "quoteId": "parmi-les-choses-qui-existent-les-epictetus"
       }
     },
     {
@@ -210,16 +192,7 @@
           { "fr": "Épictète, Manuel, §8", "en": "Epictetus, Enchiridion, §8" }
         ],
         "strength": "STRONG",
-        "quote": {
-          "text": {
-            "fr": "Ne cherche pas à ce que les choses arrivent comme tu veux, mais veuille que les choses arrivent comme elles arrivent, et ta vie s'écoulera heureuse.",
-            "en": "Seek not that the things which happen should happen as you wish; but wish the things which happen to be as they are, and you will have a tranquil flow of life."
-          },
-          "source": {
-            "fr": "Épictète, Manuel, §8",
-            "en": "Epictetus, Enchiridion, §8"
-          }
-        }
+        "quoteId": "ne-cherche-pas-a-ce-que-epictetus"
       }
     },
     {
@@ -238,16 +211,7 @@
           { "fr": "Sénèque, Lettres à Lucilius, 107", "en": "Seneca, Letters to Lucilius, 107" }
         ],
         "strength": "STRONG",
-        "quote": {
-          "text": {
-            "fr": "Conduis-moi, Zeus, et toi aussi, Destinée, où que vous m'ayez assigné : je vous suivrai sans faillir. Et si je refuse, devenu mauvais, je n'en suivrai pas moins.",
-            "en": "Lead me, Zeus, and you too, Destiny, wherever you have appointed me: I shall follow unflinching. And should I refuse, turned coward, I shall follow none the less."
-          },
-          "source": {
-            "fr": "Cléanthe, cité par Sénèque, Lettres à Lucilius, 107",
-            "en": "Cleanthes, quoted in Seneca, Letters to Lucilius, 107"
-          }
-        }
+        "quoteId": "conduis-moi-zeus-et-toi-aussi-cleanthes"
       }
     },
     {

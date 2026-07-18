@@ -45,16 +45,7 @@
           "fr": "Le syllogisme, reproche Bacon, n'enchaîne que des notions déjà reçues : il ne découvre rien, il habille les <pb>préjugés</pb>. À cette logique d'<kw>anticipations</kw> de la nature il oppose une logique d'<kw>interprétation</kw> : ne pas voler comme l'abeille de la seule expérience ni filer comme l'araignée de la seule raison, mais remonter pas à pas des faits aux lois. Son <c id='induction'>induction</c> n'est donc pas la simple énumération qui généralise quelques cas concordants ; c'est une induction <kw>éliminative</kw>, qui dresse des tables de présence, d'absence et de degrés pour écarter méthodiquement les fausses causes et isoler la <c>forme</c> du phénomène. La science ne s'élance d'aucun système préconçu : elle se construit du bas vers le haut, par exclusion.",
           "en": "The syllogism, Bacon objects, only links notions already received: it discovers nothing, it merely dresses up <pb>prejudice</pb>. To this logic of <kw>anticipations</kw> of nature he opposes a logic of <kw>interpretation</kw>: not to fly like the bee from experience alone, nor to spin like the spider from reason alone, but to climb step by step from facts to laws. His <c id='induction'>induction</c> is therefore not the bare enumeration that generalizes from a few agreeing cases; it is an <kw>eliminative</kw> induction, drawing up tables of presence, absence, and degrees so as to rule out false causes methodically and isolate the <c>form</c> of the phenomenon. Science sets out from no preconceived system: it is built from the bottom up, by exclusion."
         },
-        "quote": {
-          "text": {
-            "fr": "Notre seul espoir réside dans une véritable induction.",
-            "en": "The only hope lies in a true induction."
-          },
-          "source": {
-            "fr": "Novum Organum, I, §14",
-            "en": "Novum Organum, I, §14"
-          }
-        },
+        "quoteId": "notre-seul-espoir-reside-dans-une-bacon",
         "references": [
           {
             "fr": "Novum Organum, I (aphorismes 19, 95, 105)",
@@ -132,16 +123,7 @@
           "fr": "Avant de bâtir, Bacon veut purger l'esprit de ce qui le fausse : ce sont les quatre <c id='idols-of-the-mind'>idoles</c> (<c id='idols-of-the-mind'>idola</c>), les biais systématiques de la connaissance. Idoles de la <kw>tribu</kw>, inhérentes à l'espèce, qui prête à la nature plus d'ordre qu'elle n'en a ; idoles de la <kw>caverne</kw>, propres à chaque individu et à son histoire ; idoles du <kw>forum</kw>, que le langage et les mots mal faits glissent dans la pensée ; idoles du <kw>théâtre</kw>, les systèmes philosophiques reçus comme autant de fables jouées sur scène. Une croyance ne se justifie donc pas en remontant à une intuition première indubitable, mais par la <stk>fiabilité</stk> du processus qui la produit, une fois l'esprit décrassé de ses idoles et soumis à la règle expérimentale. La garantie est du côté de la méthode, non d'un fondement intérieur.",
           "en": "Before building, Bacon means to purge the mind of what distorts it: these are the four <c id='idols-of-the-mind'>idols</c> (<c id='idols-of-the-mind'>idola</c>), the systematic biases of knowledge. Idols of the <kw>tribe</kw>, inherent in the species, which lends nature more order than it has; idols of the <kw>cave</kw>, proper to each individual and his history; idols of the <kw>marketplace</kw>, slipped into thought by language and ill-made words; idols of the <kw>theatre</kw>, the received philosophical systems taken as so many fables played out on a stage. A belief is therefore justified not by tracing it back to a first indubitable intuition, but by the <stk>reliability</stk> of the process that produces it, once the mind is scoured of its idols and submitted to the experimental rule. The warrant lies on the side of method, not of an inner foundation."
         },
-        "quote": {
-          "text": {
-            "fr": "Quatre espèces d'idoles assiègent les esprits humains.",
-            "en": "Four kinds of idols beset the human mind."
-          },
-          "source": {
-            "fr": "Novum Organum, I, §39",
-            "en": "Novum Organum, I, §39"
-          }
-        },
+        "quoteId": "quatre-especes-d-idoles-assiegent-les-bacon",
         "references": [
           {
             "fr": "Novum Organum, I, §38-68 (les idoles)",
@@ -165,16 +147,7 @@
           "fr": "Le savoir ne vaut pas pour la contemplation mais pour ses <stk>fruits</stk> : connaître les causes, c'est pouvoir produire des effets, et la mesure d'une vérité est l'œuvre qu'elle permet. Bacon en juge par les arts mécaniques, qui n'ont cessé de croître, quand la philosophie d'école piétinait : l'imprimerie, la poudre, la boussole ont plus changé le monde que tous les systèmes. La technique n'est donc pas un sous-produit suspect du savoir, c'est sa fin légitime et le levier du <stk>progrès</stk> humain, contre la résignation qui tient la condition présente pour indépassable.",
           "en": "Knowledge is worth not for contemplation but for its <stk>fruits</stk>: to know causes is to be able to produce effects, and the measure of a truth is the work it makes possible. Bacon judges this by the mechanical arts, which have grown without cease while the philosophy of the schools stood still: printing, gunpowder, and the compass have changed the world more than all the systems. Technology is thus no suspect by-product of knowledge but its legitimate end and the lever of human <stk>progress</stk>, against the resignation that holds the present condition to be beyond improvement."
         },
-        "quote": {
-          "text": {
-            "fr": "Le savoir humain et la puissance humaine coïncident, car ignorer la cause, c'est manquer l'effet.",
-            "en": "Human knowledge and human power meet in one, for where the cause is not known the effect cannot be produced."
-          },
-          "source": {
-            "fr": "Novum Organum, I, §3",
-            "en": "Novum Organum, I, §3"
-          }
-        },
+        "quoteId": "le-savoir-humain-et-la-puissance-bacon",
         "references": [
           {
             "fr": "Novum Organum, I, §3, §81 et §129",
@@ -198,16 +171,7 @@
           "fr": "La chute, pour Bacon, a fait perdre à l'homme son <stk>empire</stk> sur la création, et la science a pour tâche de le restaurer : commander à la nature pour le <q>soulagement de la condition humaine</q>. Mais cette maîtrise repose sur un paradoxe qui la distingue de toute domination naïve : on ne commande à la nature qu'en lui <kw>obéissant</kw>, en se pliant à ses lois pour la fléchir. Connaître d'abord, contraindre ensuite, et seulement dans le sens de ses propres causes. La nature reste une <stk>ressource</stk> à transformer au service de l'humanité, mais une ressource qui n'obéit qu'à qui l'a d'abord comprise.",
           "en": "The Fall, for Bacon, cost humanity its <stk>dominion</stk> over creation, and science has the task of restoring it: to command nature for the <q>relief of man's estate</q>. But this mastery rests on a paradox that sets it apart from any naive domination: one commands nature only by <kw>obeying</kw> her, by bending to her laws in order to bend her. Know first, then constrain, and only along the grain of her own causes. Nature remains a <stk>resource</stk> to be transformed in the service of humanity, but a resource that obeys only those who have first understood her."
         },
-        "quote": {
-          "text": {
-            "fr": "On ne commande à la nature qu'en lui obéissant.",
-            "en": "Nature, to be commanded, must be obeyed."
-          },
-          "source": {
-            "fr": "Novum Organum, I, §129",
-            "en": "Novum Organum, I, §129"
-          }
-        },
+        "quoteId": "on-ne-commande-a-la-nature-bacon",
         "references": [
           {
             "fr": "Novum Organum, I, §3 et §129",
@@ -427,16 +391,7 @@
           "fr": "Bacon professe une foi chrétienne sincère et tient l'existence de Dieu pour assurée : c'est, soutient-il, la philosophie superficielle qui incline à l'athéisme, tandis qu'une connaissance plus profonde de la nature ramène l'esprit à la <stk>religion</stk>, car l'ordre du monde renvoie à son auteur. Le théisme n'est jamais mis en question, même si Bacon le laisse hors du champ de l'enquête scientifique.",
           "en": "Bacon professes a sincere Christian faith and holds God's existence to be assured: it is, he argues, shallow philosophy that inclines to atheism, while a deeper knowledge of nature brings the mind back to <stk>religion</stk>, for the order of the world points to its author. Theism is never put in question, even though Bacon keeps it outside the field of scientific inquiry."
         },
-        "quote": {
-          "text": {
-            "fr": "Un peu de philosophie incline l'esprit à l'athéisme, mais la profondeur en philosophie ramène les esprits à la religion.",
-            "en": "A little philosophy inclineth man's mind to atheism, but depth in philosophy bringeth men's minds about to religion."
-          },
-          "source": {
-            "fr": "Essais, « De l'athéisme »",
-            "en": "Essays, \"Of Atheism\""
-          }
-        },
+        "quoteId": "un-peu-de-philosophie-incline-l-bacon",
         "references": [
           {
             "fr": "Essais, « De l'athéisme »",

@@ -36,12 +36,30 @@ L'être humain n'est bon ni mauvais par nature : il est malléable. Ni ange ni b
 - **L'altruisme existe-t-il vraiment ?** : Nos actions les plus généreuses cachent-elles toujours un intérêt, un besoin d'être aimé, une vanité ? S'il n'existe aucun acte vraiment désintéressé, parler de bonté perd son sens.
 - **Des institutions pour des anges, ou pour des démons ?** : Faut-il concevoir les lois en comptant sur la vertu des citoyens, ou les bâtir de sorte que « même un peuple de démons » soit contraint d'agir bien ? La vision qu'on a de l'homme commande le type d'institutions qu'on juge nécessaire.
 
+## Arguments
+
+- *Optimisme anthropologique* · pour : [L'homme est bon, la société le corrompt](../arguments/optimism-natural-goodness.md)
+- *Optimisme anthropologique* · contre : [Point d'âge d'or](../arguments/optimism-no-golden-age-objection.md)
+- *Pessimisme anthropologique* · pour : [Le bois tordu de l'humanité](../arguments/pessimism-persistent-drives.md)
+- *Pessimisme anthropologique* · contre : [La statue de Glaucus](../arguments/pessimism-glaucus-statue-objection.md)
+- *Pessimisme anthropologique* · contre : [Ce sont les circonstances, non la nature](../arguments/pessimism-situationist-objection.md)
+- *Plasticité morale* · pour : [Ni ange ni bête](../arguments/plasticity-neither-angel-nor-beast.md)
+- *Plasticité morale* · contre : [Le bois dont rien ne fait une planche droite](../arguments/plasticity-crooked-timber-objection.md)
+
 ## Relations de fondation
 
 - *[Vision de l'homme](../axes/human-vision.md) : Optimisme anthropologique* fonde *[Rapport à l'autorité](../axes/authority.md) : Anarchisme* : Si l'homme est naturellement bon et que c'est la société qui le corrompt, l'autorité imposée d'en haut apparaît moins comme un remède que comme la source du mal. L'optimisme anthropologique nourrit l'anarchisme : la bonté foncière qu'affirme [Rousseau](../philosophers/rousseau.md) ouvre la voie à l'idée d'une société qui s'organiserait sans domination, par la libre association.
 - *[Vision de l'homme](../axes/human-vision.md) : Pessimisme anthropologique* fonde *[Rapport à l'autorité](../axes/authority.md) : Autorité* : Si l'homme est par nature porté à la violence et à l'intérêt propre, l'absence de pouvoir commun le livre à la guerre de tous contre tous. Le pessimisme anthropologique justifie ainsi une autorité forte, seule capable de garantir la paix civile.
 - *[Vision de l'homme](../axes/human-vision.md) : Pessimisme anthropologique* fonde *[Tradition et transformation](../axes/conservatism-progressism.md) : Conservatisme* : Si l'homme est traversé de pulsions égoïstes et agressives que rien n'efface, la raison individuelle est trop faible pour refonder l'ordre social à neuf. Le pessimisme anthropologique soutient le conservatisme : [Burke](../philosophers/burke.md) voit dans les institutions héritées une sagesse accumulée qu'il vaut mieux réformer avec prudence que détruire.
 - *[Vision de l'homme](../axes/human-vision.md) : Pessimisme anthropologique* fonde *[Idéal et réel](../axes/political-ideal.md) : Réalisme politique* : Si la nature humaine est durablement imparfaite, espérer une cité parfaite expose à l'aveuglement et à la tyrannie des bonnes intentions. Le pessimisme anthropologique recommande donc un réalisme politique, attentif aux rapports de force réels plutôt qu'aux idéaux.
+
+## Citations
+
+> « L'homme est au fond un animal sauvage et effroyable. » — [Schopenhauer](../philosophers/schopenhauer.md), Parerga et Paralipomena, t. II, § 114 (« Sur l'éthique »)
+
+> « L'homme est quelque chose qui doit être surmonté. » — [Nietzsche](../philosophers/nietzsche.md), Ainsi parlait Zarathoustra, Prologue, §3
+
+> « Tout est bien sortant des mains de l'Auteur des choses, tout dégénère entre les mains de l'homme. » — [Rousseau](../philosophers/rousseau.md), Émile, livre I
 
 ## Axes liés
 

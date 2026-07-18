@@ -466,6 +466,27 @@
       "anchors": [{ "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" }],
       "title": { "fr": "Connaître ou imaginer le bonheur", "en": "Knowing or imagining happiness" },
       "explicitation": { "fr": "Savons-nous vraiment ce qui nous rendrait heureux, ou le bonheur est-il un idéal mouvant de l'imagination, si indéterminé qu'on ne peut en faire une règle sûre ?", "en": "Do we really know what would make us happy, or is happiness a shifting ideal of the imagination, so indeterminate that no firm rule can be drawn from it?" }
+    },
+    {
+      "id": "aesthetic-life-as-good",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "une vie", "en": "a life" },
+      "mode": "PRESCRIPTIVE",
+      "relation": "RELATED",
+      "sphere": "AESTHETIC",
+      "keywords": [
+        { "fr": "faire de sa vie une œuvre", "en": "making one's life a work of art" },
+        { "fr": "esthétisme", "en": "aestheticism" }
+      ],
+      "poles": ["HEDONISM"],
+      "anchors": [
+        { "name": { "fr": "Wilde", "en": "Wilde" }, "kind": "PHILOSOPHER", "slug": "wilde" },
+        { "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" }
+      ],
+      "doorways": [{ "axis": "AESTHETIC_LIFE", "problem": "life-as-artwork" }],
+      "title": { "fr": "Le beau comme bien suprême", "en": "Beauty as the highest good" },
+      "explicitation": { "fr": "Et si le bien suprême était le beau : faire de sa vie une œuvre, viser l'intensité des belles formes plutôt que le plaisir, la vertu ou la sérénité ?", "en": "What if the highest good were beauty: making one's life a work of art, seeking the intensity of beautiful forms rather than pleasure, virtue, or serenity?" }
     }
   ]
 }

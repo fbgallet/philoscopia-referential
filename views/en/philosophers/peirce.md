@@ -24,7 +24,7 @@ Use theory 85% · Referentialism 15%
 
 The whole of pragmatism is born of a rule about meaning: to make a conception clear, ask what [conceivable practical effects](../glossary/pragmatic-maxim.md) its object would have, for meaning resides nowhere but in those effects. To say a diamond is hard is to say it would resist being scratched; an idea from which no conceivable difference of experience could be drawn simply has no meaning. The move breaks with the referentialism that lodges meaning in the named object: Peirce places it in regulated conduct, the habit of action the idea engages, which brings him close to a theory of meaning as use, while keeping an experimental anchorage that sets him apart from a Wittgenstein. It is a weapon against verbal metaphysics, those disputes where one believes oneself to be thinking though no practical difference is at stake.
 
-> “Consider what effects, that might conceivably have practical bearings, we conceive the object of our conception to have. Then, our conception of these effects is the whole of our conception of the object.” (How to Make Our Ideas Clear (1878))
+> “Consider what effects, that might conceivably have practical bearings, we conceive the object of our conception to have. Then, our conception of these effects is the whole of our conception of the object.”, How to Make Our Ideas Clear (1878)
 
 *Sources : How to Make Our Ideas Clear (1878)*
 
@@ -36,7 +36,7 @@ Pragmatism 80% · Correspondence 20%
 
 Peirce defines the true by the ideal limit of inquiry, not by its immediate success: the true opinion is the one all who inquire are fated to come to agree upon in the end, and the object of that final opinion is the real. Truth is thus neither a frozen copy of things nor the mere coherence of a system, but the point of convergence toward which a [community of inquirers](../glossary/community-of-inquiry.md) tends in the long run, provided it carries the inquiry far enough. This definition, which makes him a figure of the pragmatist pole, nonetheless keeps a realist core that sets him apart from [James](../philosophers/william-james.md): the true is not « what works for me » nor what it is useful for me to believe, but what inquiry, constrained by a real independent of our desires, is fatally led to acknowledge. The individual's utility has no part in it.
 
-> “The opinion which is fated to be ultimately agreed to by all who investigate, is what we mean by the truth, and the object represented in this opinion is the real.” (How to Make Our Ideas Clear (1878))
+> “The opinion which is fated to be ultimately agreed to by all who investigate, is what we mean by the truth, and the object represented in this opinion is the real.”, How to Make Our Ideas Clear (1878)
 
 *Sources : How to Make Our Ideas Clear (1878) · The Fixation of Belief (1877)*
 
@@ -58,7 +58,7 @@ Coherentism 60% · Reliabilism 40%
 
 Peirce attacks head-on [Descartes](../philosophers/descartes.md)'s [hyperbolic doubt](../glossary/hyperbolic-doubt.md): one cannot doubt at will nor feign a doubt one does not have, real doubt is born of a surprise, a jolt of experience, never of a decision. He likewise rejects intuition, that supposed first cognition deriving from no other: all thought is inference from prior thoughts, sign referring to other signs. As a result, justification rests on no indubitable basic belief, but on the holding of the whole: knowledge is a cable whose strength comes from the multitude of intertwined fibres, not a chain as weak as its frailest link. This coherentist bent is doubled by a reliabilist strand, since what validates a belief is also the tested reliability of the method that produced it.
 
-> “Reasoning should not form a chain which is no stronger than its weakest link, but a cable whose fibers may be ever so slender, provided they are sufficiently numerous and intimately connected.” (Some Consequences of Four Incapacities (1868))
+> “Reasoning should not form a chain which is no stronger than its weakest link, but a cable whose fibers may be ever so slender, provided they are sufficiently numerous and intimately connected.”, Some Consequences of Four Incapacities (1868)
 
 *Sources : Questions Concerning Certain Faculties Claimed for Man (1868) · Some Consequences of Four Incapacities (1868)*
 
@@ -110,7 +110,7 @@ Bundle theory 60% · Psychological continuity 20% · Narrativism 20%
 
 From his rejection of intuition Peirce draws a radical consequence about the self: there is no immediate self-consciousness, the self is a late inference, which the child constructs to account for its errors and the ignorance others reveal to it. Above all, since all thought is sign, man himself is a sign: what I am unfolds in the semiotic fabric of my thoughts referring to other thoughts, with no substantial core beneath the flux. We are far from [Descartes](../philosophers/descartes.md)'s thinking thing; the position leans toward the bundle, but a bundle reinterpreted in terms of signs rather than pure perceptions.
 
-> “The word or sign which man uses is the man himself.” (Some Consequences of Four Incapacities (1868))
+> “The word or sign which man uses is the man himself.”, Some Consequences of Four Incapacities (1868)
 
 *Sources : Some Consequences of Four Incapacities (1868)*
 

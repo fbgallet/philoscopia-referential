@@ -24,7 +24,7 @@ Se transformer soi-même 100%
 
 La philosophie est une médecine de l'âme : sa parole est vaine si elle ne soigne aucune souffrance. Jeune ou vieux, il n'est jamais trop tôt ni trop tard pour philosopher, c'est-à-dire pour travailler à la santé de l'âme ; même l'étude de la nature n'a d'autre fin que de dissiper les craintes, des dieux et de la mort, qui troublent la vie.
 
-> « Vaine est la parole du philosophe qui ne soigne aucune souffrance humaine. » (fragment 221 Usener (Porphyre, Lettre à Marcella, 31))
+> « Vaine est la parole du philosophe qui ne soigne aucune souffrance humaine. », fragment 221 Usener (Porphyre, Lettre à Marcella, 31)
 
 *Sources : Lettre à Ménécée, 122 · Maximes capitales, XI*
 
@@ -56,7 +56,7 @@ Hédonisme 90% · Eudémonisme 10%
 
 Le critère est tiré de la nature même du vivant : dès la naissance, tout être recherche le [plaisir](../glossary/hedonism.md) et fuit la douleur, sans qu'aucun raisonnement l'en persuade, ce qui prouve que le plaisir est le bien premier et connaturel. Mais Épicure redéfinit ce que vaut ce plaisir : son sommet n'est pas la jouissance en mouvement, qui ne fait que combler un manque, c'est l'état stable où, le manque une fois comblé, plus rien ne reste à ajouter, l'[ataraxie](../glossary/ataraxia.md) de l'âme et l'aponie du corps. Le plaisir a donc une limite, l'absence de toute douleur, ce qui le rend pleinement accessible et retourne l'objection que le plaisir serait insatiable. C'est là sa rupture avec le plaisir vulgaire et avec l'eudémonisme intellectualiste de [Platon](../philosophers/plato.md) et d'[Aristote](../philosophers/aristotle.md).
 
-> « Le plaisir est le commencement et la fin de la vie bienheureuse. » (Lettre à Ménécée, 128)
+> « Le plaisir est le commencement et la fin de la vie bienheureuse. », Lettre à Ménécée, 128
 
 *Sources : Lettre à Ménécée, 128-129 · Maximes capitales, III et XVIII (limites du plaisir)*
 
@@ -68,7 +68,7 @@ La mort n'est rien 100%
 
 L'argument repose sur deux prémisses tirées de la physique : tout bien et tout mal résident dans la sensation, et la mort, dissolution des atomes de l'âme, est précisément privation totale de sensation. Il s'ensuit que la mort ne peut être un mal pour personne, car le sujet qui en pâtirait n'existe jamais en même temps qu'elle : « tant que nous sommes, elle n'est pas là ; quand elle est là, nous ne sommes plus ». La peur de mourir vise donc un néant, et craindre un état où l'on ne sera pas est aussi vain que de s'affliger du temps d'avant sa naissance. Ce raisonnement, deuxième volet du [tétrapharmakos](../glossary/tetrapharmakos.md), retire son objet à l'angoisse qui, selon Épicure, empoisonne toute la vie.
 
-> « La mort n'est rien pour nous ; car ce qui est dissous est privé de sensation, et ce qui est privé de sensation n'est rien pour nous. » (Maximes capitales, II)
+> « La mort n'est rien pour nous ; car ce qui est dissous est privé de sensation, et ce qui est privé de sensation n'est rien pour nous. », Maximes capitales, II
 
 *Sources : Lettre à Ménécée, 124-125 · Maximes capitales, II*
 
@@ -80,7 +80,7 @@ Tri raisonné 85% · Extinction-détachement 10% · Affirmation 5%
 
 Le malheur vient de désirs qu'on ne peut combler ou dont la satisfaction n'apaise rien : la thérapie consiste donc à trier les désirs selon qu'ils sont fondés en nature et nécessaires au bonheur. Les désirs naturels et nécessaires, peu nombreux, sont faciles à satisfaire ; les désirs vains, nés d'une opinion sans limite comme la gloire ou la richesse, sont insatiables et n'apportent que trouble. La sagesse ne réprime donc pas le désir en bloc, contre l'ascèse cynique, ni ne l'affranchit de toute borne : elle l'instruit, en bornant ce qu'il faut vouloir à ce que la nature réclame et qu'elle rend aisé. C'est une [sélection raisonnée](../axes/desire.md) qui rend le bonheur à la portée de tous.
 
-> « Parmi les désirs, les uns sont naturels et nécessaires, les autres naturels et non nécessaires, les autres ni naturels ni nécessaires, mais nés d'une opinion vide. » (Maximes capitales, XXIX)
+> « Parmi les désirs, les uns sont naturels et nécessaires, les autres naturels et non nécessaires, les autres ni naturels ni nécessaires, mais nés d'une opinion vide. », Maximes capitales, XXIX
 
 *Sources : Lettre à Ménécée, 127-130 · Maximes capitales, XXIX et XXX (classification des désirs)*
 
@@ -102,7 +102,7 @@ Matérialisme 100%
 
 Tout ce qui existe se réduit à des atomes et au vide : rien ne naît du non-être, rien ne s'y dissout, le tout est corps et espace. L'âme elle-même est faite d'atomes très subtils et se dissout à la mort. C'est un matérialisme intégral, hérité de Démocrite et développé par Lucrèce, sans place pour une réalité immatérielle.
 
-> « Le tout est constitué de corps et de vide. » (Lettre à Hérodote, 39)
+> « Le tout est constitué de corps et de vide. », Lettre à Hérodote, 39
 
 *Sources : Lettre à Hérodote, 39-44 (atomes et vide, rien ne naît du néant) · Lucrèce, De la nature des choses, I-II*
 
@@ -124,7 +124,7 @@ Théisme 65% · Athéisme 35%
 
 Épicure part de la prénotion commune des dieux comme êtres bienheureux et incorruptibles, et la prend au sérieux jusqu'au bout : un être parfaitement heureux ne connaît ni colère ni faveur, car le souci et l'effort de gouverner un monde trahiraient un besoin, donc une imperfection. Il s'ensuit que les dieux, relégués dans les intermondes, n'exercent aucune [providence](../glossary/providence.md) et ne distribuent ni récompense ni châtiment : la piété populaire, qui les imagine jaloux et vengeurs, est la véritable impiété. Cette théologie n'est donc pas un athéisme honteux, dont on l'accusa, mais une stratégie thérapeutique, le premier remède du [tétrapharmakos](../glossary/tetrapharmakos.md) qui retire à la peur des dieux son fondement.
 
-> « L'être bienheureux et incorruptible n'a pas de soucis lui-même et n'en cause pas à autrui ; il n'est donc accessible ni à la colère ni à la faveur. » (Maximes capitales, I)
+> « L'être bienheureux et incorruptible n'a pas de soucis lui-même et n'en cause pas à autrui ; il n'est donc accessible ni à la colère ni à la faveur. », Maximes capitales, I
 
 *Sources : Lettre à Ménécée, 123-124 (les dieux bienheureux, sans souci des hommes) · Maximes capitales, I (l'être bienheureux et incorruptible ne connaît ni trouble ni colère)*
 
@@ -166,7 +166,7 @@ Ascétisme 60% · Célébration 40%
 
 Bien que le plaisir soit le bien, Épicure prône une sobriété mesurée : le plus haut plaisir n'est pas l'abondance des jouissances mais l'absence de douleur, qu'un peu de pain et d'eau suffit à procurer. « Quand nous disons que le plaisir est la fin, nous ne parlons pas des plaisirs des débauchés » mais de l'absence de souffrance du corps et de trouble de l'âme. La valeur penche légèrement vers l'ascèse, par frugalité plus que par mépris du corps.
 
-> « Le pain et l'eau procurent le plaisir le plus élevé quand on les porte à des lèvres qui en ont besoin. » (Sentences vaticanes, 59 (cf. Lettre à Ménécée))
+> « Le pain et l'eau procurent le plaisir le plus élevé quand on les porte à des lèvres qui en ont besoin. », Sentences vaticanes, 59 (cf. Lettre à Ménécée)
 
 *Sources : Lettre à Ménécée, 130-132 (l'éloge de la frugalité) · Maximes capitales, XV (la richesse selon la nature est facile à obtenir)*
 
@@ -198,7 +198,7 @@ Communautarisme-patriotisme 60% · Cosmopolitisme 40%
 
 La devise « vis caché » (lathe biôsas) détourne le sage de la vie publique : la cité, ses honneurs et ses ambitions sont sources de trouble, et la sécurité véritable se trouve dans le retrait et l'amitié, non dans l'engagement civique. Cette préférence pour une communauté élective restreinte, le Jardin, plutôt que pour un cosmopolitisme actif, incline légèrement vers le communautarisme.
 
-> « Vis caché. » (Fragment 551 Usener (lathe biôsas))
+> « Vis caché. », Fragment 551 Usener (lathe biôsas)
 
 *Sources : Sentences vaticanes, 58 (se libérer de la prison des affaires publiques) · Maximes capitales, XIV (la sécurité par la retraite loin de la foule)*
 
@@ -230,7 +230,7 @@ Contractualisme 90% · Communauté organique 10%
 
 La justice n'a rien d'absolu ni de naturel en soi : elle est un « pacte d'utilité » conclu pour ne pas se nuire mutuellement, variable selon les lieux et les circonstances. Cette conception conventionnaliste, où le juste se réduit à un contrat fondé sur l'intérêt commun, est un contractualisme avant la lettre.
 
-> « La justice naturelle est un pacte d'utilité conclu en vue de ne pas se nuire les uns aux autres et de ne pas en subir de dommage. » (Maximes capitales, XXXI)
+> « La justice naturelle est un pacte d'utilité conclu en vue de ne pas se nuire les uns aux autres et de ne pas en subir de dommage. », Maximes capitales, XXXI
 
 *Sources : Maximes capitales, XXXI-XXXVIII (la justice comme pacte d'utilité)*
 
@@ -314,7 +314,7 @@ Philia (amitié) 90% · Éros-manque 10%
 
 Le sage épicurien ne cherche ni la passion ni l'extase de l'union, mais l'[amitié](../glossary/philia.md) : de tous les biens que la sagesse procure pour le bonheur de la vie entière, il en fait le plus grand (*[Maximes capitales](../works/principal-doctrines-epicurus.md)*, *[Sentences vaticanes](../works/vatican-sayings-epicurus.md)*). Née d'abord du besoin de sécurité, elle affranchit de la crainte d'autrui et soutient l'[ataraxie](../glossary/ataraxia.md) ; mais Épicure passe du calcul au lien, car le sage finit par chérir l'ami pour lui-même et risquerait au besoin sa vie pour lui. C'est une amitié sans ciel ni instinct d'espèce, réciproque et cultivée dans le Jardin ; seule la trace de son origine utilitaire lui laisse une faible part de manque comblé.
 
-> « De tout ce que la sagesse procure pour le bonheur de la vie entière, de bien loin le plus grand est l'acquisition de l'amitié. » (Maximes capitales, XXVII)
+> « De tout ce que la sagesse procure pour le bonheur de la vie entière, de bien loin le plus grand est l'acquisition de l'amitié. », Maximes capitales, XXVII
 
 *Sources : Maximes capitales, XXVII · Sentences vaticanes, 23, 34 et 52*
 

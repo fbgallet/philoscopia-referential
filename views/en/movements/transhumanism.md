@@ -35,7 +35,7 @@ Immortalism 80% · Revolt / refusal 20%
 
 Transhumanism breaks with the wisdoms of acceptance: death is neither an indifferent nothingness, as for [Epicurus](../philosophers/epicurus.md), nor the horizon that would give life its worth, as for [Heidegger](../philosophers/heidegger.md), but the greatest of harms and a technical problem. Aging is recast as a curable disease. A share of revolt remains: to refuse finitude as an injustice to be fought, not a fate to be tamed.
 
-> “We will no longer tolerate the tyranny of aging and death.” (Max More, 'A Letter to Mother Nature' (1999))
+> “We will no longer tolerate the tyranny of aging and death.”, 'A Letter to Mother Nature' (1999)
 
 *Sources : Bostrom, 'The Fable of the Dragon-Tyrant' · de Grey, Ending Aging*
 

@@ -86,7 +86,7 @@ Empiricism 95% · Rationalism 5%
 
 The lever is a genetic argument: trace any idea back to its source and one finds only an impression of sensation or reflection, never a content given in advance. Locke opens the *[Essay](../works/essay-concerning-human-understanding-locke.md)* by demolishing the universal-consent argument advanced for [innate ideas](../glossary/innate-ideas.md) (no principle is known to children or idiots), which leaves the mind as white paper to be furnished; Hume sharpens the criterion into a polemical weapon, demanding that one exhibit the impression a term derives from, failing which it is empty of meaning. This is the exact reversal of [Descartes](../philosophers/descartes.md)'s [rationalism](../axes/knowledge-source.md), which made the innate idea the bedrock of knowledge.
 
-> “Let us then suppose the mind to be, as we say, white paper, void of all characters, without any ideas. How comes it to be furnished? … To this I answer, in one word, from experience.” (Locke, Essay Concerning Human Understanding, II, 1, §2)
+> “Let us then suppose the mind to be, as we say, white paper, void of all characters, without any ideas. How comes it to be furnished? … To this I answer, in one word, from experience.”, Essay Concerning Human Understanding, II, 1, §2
 
 *Sources : Locke, Essay Concerning Human Understanding, book I (against innate ideas) and II, 1 · Hume, Enquiry Concerning Human Understanding, section II*
 
@@ -148,7 +148,7 @@ Sentimentalism 75% · Intellectualism 25%
 
 Moral sentimentalism is here chiefly Hume's work: it is **passion**, not understanding, that moves us to act and grounds moral distinctions, which rest on a sentiment of approval or blame. This leaning, already foreshadowed by British moral-sense philosophy, is typical of the school without being shared identically by Locke.
 
-> “Reason is, and ought only to be, the slave of the passions.” (Hume, Treatise of Human Nature, II, 3, 3)
+> “Reason is, and ought only to be, the slave of the passions.”, Treatise of Human Nature, II, 3, 3
 
 *Sources : Hume, Treatise of Human Nature, II, 3, 3 and III, 1*
 
@@ -180,7 +180,7 @@ Evidentialism 85% · Non-evidentialism 15%
 
 The school makes the regulation of assent an epistemic duty: Locke holds that one should give one's assent in proportion to the **evidence** and the degrees of probability, and Hume sums up this ethics of belief in his famous maxim about the wise man who proportions his belief to the evidence. To ground knowledge in experience is to require believing only to the measure of what experience attests.
 
-> “A wise man proportions his belief to the evidence.” (Hume, Enquiry Concerning Human Understanding, section X (Of Miracles))
+> “A wise man, therefore, proportions his belief to the evidence.”, Enquiry Concerning Human Understanding, section X (Of Miracles)
 
 *Sources : Locke, Essay Concerning Human Understanding, IV, 15-16 (of probability and the degrees of assent) · Hume, Enquiry Concerning Human Understanding, section X (of miracles)*
 

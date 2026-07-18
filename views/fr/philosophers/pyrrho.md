@@ -24,7 +24,7 @@ Scepticisme 100%
 
 Le témoignage d'Aristoclès, recueilli de Timon, ramène toute la sagesse à trois questions : comment les choses sont-elles par nature, quelle attitude prendre à leur égard, qu'en résulte-t-il pour nous. La réponse à la première fait l'originalité de Pyrrhon : les choses sont indéterminées, instables et indiscernables, si bien que ni nos sensations ni nos opinions ne disent le vrai ou le faux. De ce constat sur l'objet, et non d'un examen des facultés, il tire qu'il ne faut leur accorder aucune confiance et rester [sans opinion](../glossary/epoche.md). Plus radical que le faillibilisme, qui révise ses croyances, il refuse d'affirmer même que rien n'est connaissable, et se contente de dire que les choses ne sont « pas plus ceci que cela ».
 
-> « Les choses ne sont pas plus ceci que cela, ni les deux à la fois, ni ni l'un ni l'autre. » (Aristoclès, cité par Eusèbe, Préparation évangélique, XIV, 18)
+> « Les choses ne sont pas plus ceci que cela, ni les deux à la fois, ni ni l'un ni l'autre. », Aristoclès, cité par Eusèbe, Préparation évangélique, XIV, 18
 
 *Sources : Aristoclès (d'après Timon), cité par Eusèbe, Préparation évangélique, XIV, 18 · Diogène Laërce, Vies des philosophes, IX, 61-108*
 

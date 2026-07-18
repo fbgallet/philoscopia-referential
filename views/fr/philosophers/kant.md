@@ -74,7 +74,7 @@ Dogmatisme 70% · Scepticisme 30%
 
 Réveillé de son **sommeil dogmatique** par [Hume](../philosophers/hume.md), Kant refuse les deux voies opposées : la métaphysique [dogmatique](../glossary/dogmatism.md) qui prétend connaître l'inconditionné, Dieu, l'âme, le monde comme totalité, se perd dans les **antinomies**, où la raison se contredit elle-même ; mais le [scepticisme](../glossary/skepticism.md) humien, qui dissout la nécessité dans l'habitude, est tout aussi intenable. La voie critique tranche : il existe bien une certitude **apodictique**, celle des jugements synthétiques a priori, mais elle ne vaut que des phénomènes, les objets tels qu'ils nous apparaissent sous les formes du sujet, non des choses en soi. Certitude nécessaire et universelle, donc, mais payée d'une borne infranchissable.
 
-> « Je l'avoue franchement, c'est l'objection de David Hume qui, voici bien des années, interrompit mon sommeil dogmatique. » (Prolégomènes, Préface)
+> « Je l'avoue franchement, c'est l'objection de David Hume qui, voici bien des années, interrompit mon sommeil dogmatique. », Prolégomènes, Préface
 
 *Sources : Critique de la raison pure, Préfaces et Dialectique transcendantale · Prolégomènes à toute métaphysique future*
 
@@ -86,7 +86,7 @@ Empirisme 50% · Rationalisme 50%
 
 Le litige entre [rationalisme](../movements/rationalism.md) et [empirisme](../movements/empiricism.md) est insoluble tant qu'on demande à un seul terme de tout porter : l'expérience seule ne fournit jamais de nécessité (objection de [Hume](../philosophers/hume.md) sur la causalité), la raison seule tourne à vide. Kant en tire la solution du jugement synthétique a priori : il existe des formes a priori de la sensibilité et de l'entendement qui structurent toute expérience possible, de sorte que la connaissance commence avec l'expérience sans en dériver tout entière. C'est le « renversement copernicien » appliqué à la connaissance, et la raison pour laquelle l'axe se fixe au centre.
 
-> « Des pensées sans contenu sont vides, des intuitions sans concepts sont aveugles. » (Critique de la raison pure, A51/B75)
+> « Des pensées sans contenu sont vides, des intuitions sans concepts sont aveugles. », Critique de la raison pure, A51/B75
 
 *Sources : Critique de la raison pure, Introduction · Critique de la raison pure, A51/B75*
 
@@ -98,7 +98,7 @@ Déontologisme 90% · Éthique des vertus 10%
 
 Rien n'est bon sans restriction qu'une **volonté bonne** : ni les talents ni le bonheur, qui peuvent servir le mal. Si la valeur morale ne tient ni à l'objet voulu ni aux conséquences, elle ne peut tenir qu'à la forme de la maxime, sa capacité à valoir comme loi pour tous. De là se déduit le [impératif catégorique](../glossary/categorical-imperative.md) : agir seulement d'après une maxime que je puisse vouloir universelle. C'est un déontologisme qui refuse, contre l'[utilitarisme](../movements/utilitarianism.md), de mesurer le devoir au résultat ; la *[Doctrine de la vertu](../works/metaphysics-of-morals-kant.md)* réintroduit les vertus, mais dérivées du devoir, d'où un faible poids résiduel sur ce pôle.
 
-> « Agis uniquement d'après la maxime grâce à laquelle tu peux vouloir en même temps qu'elle devienne une loi universelle. » (Fondements de la métaphysique des mœurs, section II)
+> « Agis uniquement d'après la maxime grâce à laquelle tu peux vouloir en même temps qu'elle devienne une loi universelle. », Fondements de la métaphysique des mœurs, section II
 
 *Sources : Fondements de la métaphysique des mœurs, sections I et II · Métaphysique des mœurs, Doctrine de la vertu*
 
@@ -150,7 +150,7 @@ Beau objectif 50% · Beau subjectif 50%
 
 Le **jugement de goût** est subjectif (il ne repose sur aucun concept de l'objet) mais prétend légitimement à l'universalité. C'est exactement la position médiane nommée de l'axe, l'universalité subjective.
 
-> « Est beau ce qui plaît universellement sans concept. » (Critique de la faculté de juger, §9)
+> « Est beau ce qui plaît universellement sans concept. », Critique de la faculté de juger, §9
 
 *Sources : Critique de la faculté de juger, §6 à §9*
 
@@ -232,7 +232,7 @@ Progressisme 85% · Conservatisme 15%
 
 Les **Lumières** sont la sortie de l'homme hors de sa minorité dont il est lui-même responsable. Kant fait du **libre usage public de la raison** le moteur d'un progrès graduel de l'humanité, ce qui le situe nettement du côté progressiste.
 
-> « Sapere aude ! Aie le courage de te servir de ton propre entendement : telle est la devise des Lumières. » (Réponse à la question : Qu'est-ce que les Lumières ?)
+> « Sapere aude ! Aie le courage de te servir de ton propre entendement : telle est la devise des Lumières. », Réponse à la question : Qu'est-ce que les Lumières ?
 
 *Sources : Réponse à la question : Qu'est-ce que les Lumières ?*
 
@@ -244,7 +244,7 @@ Principe espérance 85% · Lucidité sans espoir 15%
 
 « Que m'est-il permis d'espérer ? » est l'une des trois questions cardinales de la philosophie. Les **postulats de la raison pratique**, liberté, immortalité de l'âme et Dieu, fondent une espérance rationnelle que le **souverain bien**, l'accord de la vertu et du bonheur, est possible : c'est un principe espérance assumé.
 
-> « Deux choses remplissent le cœur d'une admiration toujours nouvelle, le ciel étoilé au-dessus de moi et la loi morale en moi. » (Critique de la raison pratique, Conclusion)
+> « Deux choses remplissent le cœur d'une admiration toujours nouvelle, le ciel étoilé au-dessus de moi et la loi morale en moi. », Critique de la raison pratique, Conclusion
 
 *Sources : Critique de la raison pure, Canon de la raison pure · Critique de la raison pratique, Dialectique*
 
@@ -286,7 +286,7 @@ Vertu / perfectionnisme moral 80% · Eudémonisme 20%
 
 Rien n'est bon sans restriction qu'une **volonté bonne** : la moralité, et non le bonheur, est le bien suprême et la condition de toute valeur. Le souverain bien complet inclut cependant le bonheur, mais seulement proportionné à la vertu et comme la couronnant, d'où un poids [eudémoniste](../glossary/eudaimonism.md) minoritaire et l'exclusion de l'[hédonisme](../glossary/hedonism.md).
 
-> « Il n'est rien, nulle part dans le monde et même hors du monde, qu'il soit possible de penser comme bon sans restriction, si ce n'est seulement une volonté bonne. » (Fondements de la métaphysique des mœurs, section I)
+> « Il n'est rien, nulle part dans le monde et même hors du monde, qu'il soit possible de penser comme bon sans restriction, si ce n'est seulement une volonté bonne. », Fondements de la métaphysique des mœurs, section I
 
 *Sources : Fondements de la métaphysique des mœurs, section I · Critique de la raison pratique, Dialectique, II*
 
@@ -318,7 +318,7 @@ Harmonie 55% · Domaines séparés 30% · Fidéisme 15%
 
 La raison théorique ne peut ni prouver ni réfuter Dieu, mais la raison pratique postule une **foi rationnelle** accordée à la morale. Foi et savoir occupent ainsi des domaines distincts, tout en s'harmonisant sous le primat du pratique, avec une nuance fidéiste car la foi reste affaire de besoin de la raison, non de preuve.
 
-> « J'ai donc dû abolir le savoir afin d'obtenir une place pour la foi. » (Critique de la raison pure, Préface de la seconde édition (B XXX))
+> « J'ai donc dû abolir le savoir afin d'obtenir une place pour la foi. », Critique de la raison pure, Préface de la seconde édition (B XXX)
 
 *Sources : Critique de la raison pure, Préface de la seconde édition (B XXX) · La religion dans les limites de la simple raison*
 
@@ -330,7 +330,7 @@ Autorité 80% · Anarchisme 20%
 
 Kant affirme un devoir d'obéissance au pouvoir établi et nie tout **droit de résistance** ou de révolution, même contre un souverain injuste, car renverser la constitution ruinerait l'état de droit lui-même. Le citoyen garde la liberté de critiquer publiquement par sa plume, mais doit obéir.
 
-> « Raisonnez tant que vous voudrez et sur tout ce que vous voudrez, mais obéissez ! » (Réponse à la question : Qu'est-ce que les Lumières ?)
+> « Raisonnez tant que vous voudrez et sur tout ce que vous voudrez, mais obéissez ! », Réponse à la question : Qu'est-ce que les Lumières ?
 
 *Sources : Métaphysique des mœurs, Doctrine du droit, §49 · Réponse à la question : Qu'est-ce que les Lumières ?*
 

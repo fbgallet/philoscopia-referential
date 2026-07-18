@@ -74,7 +74,7 @@ Vie examinée 93% · Primat de l'action 8%
 
 Toute explication causale présuppose déjà un monde qui apparaît à quelqu'un : la science elle-même opère sur des phénomènes donnés à une conscience qu'elle oublie. De ce constat les phénoménologues tirent un ordre de priorité : il faut d'abord décrire fidèlement comment les choses se donnent au vécu, avant d'en chercher la cause. La méthode, contre le sens commun, requiert l'[épochè](../glossary/epoche.md), mise entre parenthèses de nos thèses spontanées sur l'existence des objets, pour ne retenir que leur mode d'apparaître. C'est pourquoi Heidegger interroge l'être à partir de l'étant que nous sommes, et Merleau-Ponty fait de la perception vécue, non du fait physiologique, le premier sol de la philosophie.
 
-> « Nous voulons revenir aux choses mêmes. » (Husserl, Recherches logiques, II)
+> « Nous voulons revenir aux choses mêmes. », Recherches logiques, II
 
 *Sources : Husserl, Idées directrices pour une phénoménologie (1913) · Husserl, Méditations cartésiennes (1931) · Merleau-Ponty, Phénoménologie de la perception (1945), avant-propos*
 

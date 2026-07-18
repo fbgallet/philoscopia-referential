@@ -51,6 +51,22 @@ Il n'y a pas de moi permanent : seulement un faisceau de perceptions, de pensée
 - *[Nature du moi](../axes/self-nature.md) : Substantialisme* fonde *[Intériorité](../axes/interiority.md) : Vie examinée* : S'il existe en chacun un moi substantiel, une âme distincte du flux des apparences, alors se connaître soi-même devient la tâche la plus haute. Le substantialisme fonde la vie examinée : de Socrate, pour qui une vie sans examen ne vaut pas d'être vécue, à [Augustin](../philosophers/augustine.md) qui rentre en lui-même pour y trouver la vérité.
 - *[Nature du moi](../axes/self-nature.md) : Substantialisme* fonde *[La mort](../axes/death.md) : Immortalisme* : Si le moi est une substance simple, immatérielle, distincte du corps, rien n'impose qu'il périsse lorsque le corps se décompose. Le substantialisme ouvre la voie à l'immortalité de l'âme, comme dans l'argument de [Platon](../philosophers/plato.md) tirant de la simplicité de l'âme son indestructibilité.
 
+## Citations
+
+> « Je ne peins pas l'être. Je peins le passage. » — [Michel de Montaigne](../philosophers/montaigne.md), Essais, III, 2, « Du repentir »
+
+> « L'identité personnelle s'étend aussi loin que la conscience peut remonter sur une action ou une pensée passée. » — [Locke](../philosophers/locke.md), Essai sur l'entendement humain, II, ch. 27, §9
+
+> « La conscience est un être pour lequel il est dans son être question de son être en tant que cet être implique un être autre que lui : elle n'est jamais ce qu'elle est et est ce qu'elle n'est pas. » — [Sartre](../philosophers/sartre.md), L'Être et le Néant, Introduction
+
+> « La forme est non-soi, la sensation est non-soi, la perception est non-soi, les formations sont non-soi, la conscience est non-soi. » — [Le Bouddha](../philosophers/buddha.md), Anattalakkhaṇa Sutta (Saṃyutta Nikāya 22.59)
+
+> « Le mot ou le signe que l'homme emploie est l'homme lui-même. » — [Charles Sanders Peirce](../philosophers/peirce.md), Quelques conséquences de quatre incapacités (1868)
+
+> « Pour ma part, quand je pénètre le plus intimement dans ce que j'appelle moi-même, je tombe toujours sur telle ou telle perception particulière... je ne peux jamais me saisir, moi, en aucun moment sans une perception. » — [Hume](../philosophers/hume.md), Traité de la nature humaine, I, IV, 6
+
+> « Tu es cela. » — Chāndogya Upaniṣad, Chāndogya Upaniṣad, VI, 8, 7 (tat tvam asi)
+
 ## Axes liés
 
 [Être ou avoir un corps](../axes/embodiment.md) · [Essence et existence](../axes/essence.md) · [Liberté de la volonté](../axes/freedom.md) · [Identité sociale](../axes/social-identity.md) · [La mort](../axes/death.md) · [L'être et le devenir](../axes/being-becoming.md)

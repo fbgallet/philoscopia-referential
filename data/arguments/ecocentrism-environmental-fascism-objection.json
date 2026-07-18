@@ -1,0 +1,84 @@
+{
+  "id": "ecocentrism-environmental-fascism-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "MORAL_CIRCLE", "poleId": "ECOCENTRISM" },
+  "name": { "fr": "Le tout contre l'individu", "en": "The whole against the individual" },
+  "attacks": "POSITION",
+  "claim": {
+    "fr": "Si seul le tout compte, alors on peut sacrifier l'individu, y compris l'humain, au nom de l'équilibre : c'est un « fascisme environnemental ».",
+    "en": "If only the whole counts, then the individual, humans included, may be sacrificed in the name of balance: this is an 'environmental fascism'."
+  },
+  "summary": {
+    "fr": "L'écocentrisme place la valeur dans le tout, dont les individus ne sont que des membres. Mais alors un individu peut être sacrifié dès qu'il nuit à l'équilibre. Or l'individu sensible compte pour lui-même, non comme rouage : la valeur ne peut résider dans le seul tout.",
+    "en": "Ecocentrism places worth in the whole, of which individuals are but members. But then an individual may be sacrificed whenever it harms the balance. Yet the sentient individual counts for itself, not as a cog: worth cannot reside in the whole alone."
+  },
+  "development": [
+    {
+      "fr": "L'écocentrisme place la valeur dans le tout, l'intégrité de la communauté biotique, dont les individus ne sont que des membres.",
+      "en": "Ecocentrism places worth in the whole, the integrity of the biotic community, of which individuals are but members."
+    },
+    {
+      "fr": "Mais alors un individu peut être sacrifié dès qu'il nuit à l'équilibre : abattre en masse les animaux d'une espèce surnuméraire, voire, si la logique tient, traiter une population humaine trop nombreuse comme un excès pour la « santé » de l'ensemble.",
+      "en": "But then an individual may be sacrificed whenever it harms the balance: culling en masse the animals of an overabundant species, or even, if the logic holds, treating an overlarge human population as an excess for the 'health' of the whole."
+    },
+    {
+      "fr": "Or nous tenons que l'individu sensible, sa souffrance, sa vie, compte pour lui-même, et non seulement comme rouage d'un système : traiter les êtres comme de simples moyens au service du tout heurte ce que la morale a de plus ferme.",
+      "en": "Yet we hold that the sentient individual, its suffering, its life, counts for itself, and not merely as a cog in a system: treating beings as mere means in the service of the whole offends what is firmest in morality."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la valeur ne peut résider dans le seul tout : une éthique acceptable doit d'abord protéger les individus sensibles, quitte à ne faire de l'intégrité écologique qu'un bien majeur parmi d'autres, non le bien suprême.",
+    "en": "So worth cannot reside in the whole alone: an acceptable ethics must first protect sentient individuals, even if that makes ecological integrity only one major good among others, not the supreme good."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": { "fr": "Regan, Sagoff", "en": "Regan, Sagoff" },
+    "figures": [
+      { "name": { "fr": "Regan", "en": "Regan" }, "kind": "PHILOSOPHER", "slug": "regan" },
+      { "name": { "fr": "Sagoff", "en": "Sagoff" }, "kind": "PHILOSOPHER" }
+    ],
+    "work": { "fr": "Les Droits des animaux", "en": "The Case for Animal Rights" },
+    "year": 1983
+  },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est vrai : rien ne justifie de sacrifier un être qui souffre au nom d'un « tout ». C'est l'individu sensible qui compte d'abord.",
+        "en": "True: nothing justifies sacrificing a being that suffers in the name of a 'whole'. It is the sentient individual that counts first."
+      },
+      "hints": [{ "axisId": "MORAL_CIRCLE", "value": { "kind": "weights", "weights": [0.1, 0.7, 0.1, 0.1] }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous revenez à l'individualisme de <ph id='regan'>Regan</ph> : le sujet d'une vie a des droits qu'aucun équilibre ne peut effacer.",
+        "en": "You return to <ph id='regan'>Regan</ph>'s individualism: the subject-of-a-life has rights that no balance can erase."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je garde la santé des écosystèmes comme un bien majeur, mais elle ne peut primer inconditionnellement sur la vie et la souffrance des individus.",
+        "en": "I keep the health of ecosystems as a major good, but it cannot unconditionally override the life and suffering of individuals."
+      },
+      "hints": [{ "axisId": "MORAL_CIRCLE", "value": { "kind": "weights", "weights": [0.05, 0.35, 0.15, 0.45] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Un écocentrisme tempéré : le tout compte, mais sous la contrainte de ne pas broyer les individus.",
+        "en": "A tempered ecocentrism: the whole counts, but under the constraint of not crushing individuals."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Aucune vie individuelle ne subsiste si le tout s'effondre : préserver la communauté biotique, c'est protéger la condition même de tous les individus, présents et à venir.",
+        "en": "No individual life survives if the whole collapses: to preserve the biotic community is to protect the very condition of all individuals, present and to come."
+      },
+      "hints": [{ "axisId": "MORAL_CIRCLE", "value": { "kind": "weights", "weights": [0.05, 0.1, 0.1, 0.75] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "La réponse holiste : la « charge de fascisme » oublie que hors du tout, aucun individu ne tient.",
+        "en": "The holist reply: the 'charge of fascism' forgets that outside the whole, no individual stands."
+      }
+    }
+  ],
+  "targets": ["ecocentrism-land-ethic"],
+  "problems": ["individual-or-whole", "wild-animal-suffering"],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

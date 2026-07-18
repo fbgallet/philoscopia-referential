@@ -35,9 +35,27 @@ The true is what works: an idea is true if it effectively guides action and with
 - *[Nature of truth](../axes/truth-nature.md) : Correspondence* grounds *[Status of knowledge](../axes/knowledge-status.md) : Scientific realism* : If truth is the agreement of a statement with a reality independent of us, then a successful science describes, at least approximately, the world as it is. The correspondence conception of truth grounds scientific realism: for [Popper](../philosophers/popper.md), the progress of the sciences brings us closer to the truth about the structure of the real.
 - *[Nature of truth](../axes/truth-nature.md) : Pragmatism* grounds *[Ethics of belief](../axes/belief-ethics.md) : Non-evidentialism* : If an idea is true insofar as it succeeds and makes action fruitful, then, when proof is lacking and the stakes are vital, daring to believe can be legitimate, even fruitful. Pragmatism supports non-evidentialism: [James](../philosophers/william-james.md) claims a "right to believe" where evidence does not decide and where belief engages life.
 
+## Quotations
+
+> “In practice man must prove the truth, that is, the reality and power, the this-sidedness of his thinking.” — [Marx](../philosophers/marx.md), Theses on Feuerbach, II
+
+> “In every true affirmative proposition the predicate is contained in the subject: praedicatum inest subjecto.” — [Leibniz](../philosophers/leibniz.md), Discourse on Metaphysics, §8; Generales inquisitiones
+
+> “To say of what is that it is not, or of what is not that it is, is false; while to say of what is that it is, and of what is not that it is not, is true.” — [Aristotle](../philosophers/aristotle.md), Metaphysics, Γ (book IV), 7, 1011b
+
+> “To say of what is that it is not, or of what is not that it is, is false; while to say of what is that it is, and of what is not that it is not, is true.” — [Aristotle](../philosophers/aristotle.md), Metaphysics, IV (Gamma).7 (1011b)
+
+> “The Dharma taught by the buddhas rests on two truths: the conventional, worldly truth and the truth in the ultimate sense. Without relying on the conventional, the ultimate is not taught; without reaching the ultimate, nirvāṇa is not attained.” — [Nāgārjuna](../philosophers/nagarjuna.md), Mūlamadhyamakakārikā, XXIV, 8-10
+
+> “The opinion which is fated to be ultimately agreed to by all who investigate, is what we mean by the truth, and the object represented in this opinion is the real.” — [Charles Sanders Peirce](../philosophers/peirce.md), How to Make Our Ideas Clear (1878)
+
+> “Truth is the adequation of thing and intellect.” — [Thomas Aquinas](../philosophers/aquinas.md), Disputed Questions on Truth, q. 1, a. 1
+
+> “The true, to put it very briefly, is only the expedient in the way of our thinking.” — James, Pragmatism, lecture VI
+
 ## Related axes
 
-[The meaning of words](../axes/meaning.md) · [Relation to certainty](../axes/certainty.md) · [Source of knowledge](../axes/knowledge-source.md) · [Status of knowledge](../axes/knowledge-status.md) · [Status of norms (metaethics)](../axes/moral-scope.md)
+[The meaning of words](../axes/meaning.md) · [Relation to certainty](../axes/certainty.md) · [Source of knowledge](../axes/knowledge-source.md) · [Status of knowledge](../axes/knowledge-status.md) · [Status of norms (metaethics)](../axes/moral-scope.md) · [Justification of belief](../axes/epistemic-justification.md)
 
 ---
 

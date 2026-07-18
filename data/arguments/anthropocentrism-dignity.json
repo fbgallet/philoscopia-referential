@@ -1,0 +1,41 @@
+{
+  "id": "anthropocentrism-dignity",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "MORAL_CIRCLE", "poleId": "ANTHROPOCENTRISM" },
+  "name": { "fr": "La dignité de la personne", "en": "The dignity of the person" },
+  "claim": {
+    "fr": "Seul un être qui peut se donner des raisons et répondre de ses actes est une fin en soi : c'est là ce qui fonde des devoirs de justice.",
+    "en": "Only a being that can give itself reasons and answer for its acts is an end in itself: that is what grounds duties of justice."
+  },
+  "summary": {
+    "fr": "Le statut moral plein tient à la capacité d'être lésé, d'avoir des droits ; or droits et devoirs vont de pair, et seul un être rationnel peut reconnaître un devoir. Animaux et nature relèvent donc de notre bienveillance, non de la justice due à un égal.",
+    "en": "Full moral status rests on being able to be wronged, to hold rights; but rights and duties go together, and only a rational being can recognize a duty. Animals and nature thus fall under our benevolence, not the justice owed to an equal."
+  },
+  "development": [
+    {
+      "fr": "Un être a un statut moral plein quand il peut être <kw>lésé</kw>, avoir des torts à faire valoir, non seulement subir un dommage : on peut blesser une bête, mais peut-on lui « faire injustice » ?",
+      "en": "A being has full moral status when it can be <kw>wronged</kw>, when it has grievances to press, not merely suffer damage: one can injure an animal, but can one 'do it an injustice'?"
+    },
+    {
+      "fr": "Or droits et devoirs vont de pair : n'a de droits que ce qui peut aussi reconnaître des devoirs, entrer dans l'espace des raisons où l'on se rend des comptes, ce qui est le propre des êtres rationnels.",
+      "en": "Now rights and duties go together: only what can also recognize duties, enter the space of reasons where accounts are given, holds rights, and this is proper to rational beings."
+    },
+    {
+      "fr": "Animaux et nature ne peuvent ni promettre, ni consentir, ni répondre de rien : ils relèvent de notre bienveillance, non de la justice ; nous leur devons des égards, non le respect dû à un égal.",
+      "en": "Animals and nature can neither promise, nor consent, nor answer for anything: they fall under our benevolence, not justice; we owe them consideration, not the respect owed to an equal."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc le cercle de la justice est celui des personnes : la cruauté envers les bêtes est un mal parce qu'elle nous dégrade et trahit notre humanité, non parce qu'une injustice serait faite à la bête.",
+    "en": "So the circle of justice is that of persons: cruelty to animals is a wrong because it degrades us and betrays our humanity, not because an injustice is done to the animal."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": { "fr": "Kant", "en": "Kant" },
+    "figures": [{ "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" }],
+    "work": { "fr": "Fondements de la métaphysique des mœurs, II ; Leçons d'éthique", "en": "Groundwork of the Metaphysics of Morals, II; Lectures on Ethics" }
+  },
+  "testThoughtExperiment": "last-man",
+  "problems": ["moral-status-criterion", "species-privilege"],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

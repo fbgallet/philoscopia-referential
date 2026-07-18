@@ -40,6 +40,12 @@ Je ne suis ni un esprit qui pilote un corps-machine, ni un pur organisme. Âme e
 - *[Nature de l'esprit et du réel](../axes/reality-nature.md) : Matérialisme* fonde *[Être ou avoir un corps](../axes/embodiment.md) : Corps-sujet* : S'il n'existe aucune âme immatérielle pour habiter le corps, je ne « possède » pas un corps comme un pilote son navire : je suis cet organisme vivant qui perçoit, agit et vieillit. Le matérialisme appuie ainsi le versant naturaliste du corps-sujet, l'homme comme corps animal façonné par l'évolution. Il ne livre pas pour autant le « sujet » au sens de la [phénoménologie](../movements/phenomenology.md) de [Merleau-Ponty](../philosophers/merleau-ponty.md), où le corps propre est le foyer de toute perception et de tout sens, contenu qui ne se déduit pas du seul matérialisme.
 - *[Nature de la conscience](../axes/consciousness-nature.md) : Dualisme des substances* fonde *[Être ou avoir un corps](../axes/embodiment.md) : Corps-instrument* : Si je suis essentiellement un esprit distinct de la matière, mon corps devient un instrument que j'utilise, voire une prison dont je me distingue. Le dualisme des substances soutient la conception du corps-instrument, de [Platon](../philosophers/plato.md) à [Descartes](../philosophers/descartes.md), même si ce dernier a fini par insister sur l'union de l'âme et du corps.
 
+## Citations
+
+> « Ce que je suis, ce n'est qu'un peu de chair, un peu de souffle, et le principe directeur. » — [Marc Aurèle](../philosophers/marcus-aurelius.md), Pensées pour moi-même, II, 2
+
+> « L'acte de volonté et le mouvement du corps ne sont pas deux états objectivement connus reliés par la causalité : ils sont une seule et même chose. » — [Schopenhauer](../philosophers/schopenhauer.md), Le Monde comme volonté et comme représentation, §18
+
 ## Axes liés
 
 [Nature du moi](../axes/self-nature.md) · [Nature de l'esprit et du réel](../axes/reality-nature.md) · [Plaisirs corporels](../axes/bodily-pleasures.md)

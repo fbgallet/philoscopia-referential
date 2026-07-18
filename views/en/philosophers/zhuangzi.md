@@ -24,7 +24,7 @@ Skepticism 80% · Dogmatism 20%
 
 Every judgment is made from a standpoint, and each standpoint has its "this" and its "that": what one party holds true the other holds false, and no neutral tribunal can settle them without itself being a party. Zhuangzi draws from this a scepticism about discursive knowledge: the controversies of the [Confucians](../philosophers/confucius.md) and the Mohists cancel out, dream cannot be securely told from waking, and one does not even know whether one knows anything. Yet this doubt is not the Greek suspension aimed at [tranquillity](../glossary/ataraxia.md): it is therapeutic and liberating, dissolving the anxiety of having to be right so as to leave room for a supple knowing attuned to the course of things.
 
-> “How do I know that what I call knowing is not really ignorance, and what I call ignorance not really knowing?” (Zhuangzi, ch. 2 (On the Equality of Things))
+> “How do I know that what I call knowing is not really ignorance, and what I call ignorance not really knowing?”, ch. 2 (On the Equality of Things)
 
 *Sources : Zhuangzi, ch. 2 (On the Equality of Things) · Zhuangzi, ch. 2 (the butterfly dream)*
 
@@ -46,7 +46,7 @@ Death is nothing 55% · Immortalism 45%
 
 At his wife's death Zhuangzi sings, drumming on a basin: to weep would be to ignore the course of things. Death is neither a nothingness to fear nor a passage toward an immortal soul, but a moment of ceaseless [transformation](../glossary/hua.md) (hua): the vital breaths knot into life as the seasons follow one another, then unknot and reform elsewhere. Who knows whether the dead one is not rejoicing, like an exile come home at last? This serenity through insertion into the great passage of forms meets the Epicurean appeasement, yet it is laced with the idea that living matter endlessly recomposes itself, which is neither quite an extinction nor a personal immortality.
 
-> “Life and death follow each other like day and night. Why should I grieve over it?” (Zhuangzi, ch. 18 (Perfect Happiness))
+> “Life and death follow each other like day and night. Why should I grieve over it?”, ch. 18 (Perfect Happiness)
 
 *Sources : Zhuangzi, ch. 18 (Perfect Happiness) · Zhuangzi, ch. 6 (The Great Source as Teacher)*
 
@@ -58,7 +58,7 @@ What is up to us 90% · Prometheanism 10%
 
 Cook Ding carves an ox without ever dulling his blade: he does not cut, he follows the openings the carcass offers, and the knife moves through the void. The parable gives [effortless action](../glossary/wu-wei.md) its most concrete sense: not inaction, but action so wedded to the real that it ceases to be effort. Against the voluntarism that bends things to a design, efficacy comes to one who imposes nothing and slips where the situation yields, like the swimmer of the falls who "goes in with the swirl and comes out with the eddy." Where [Laozi](../philosophers/laozi.md) draws non-action toward the art of governing, Zhuangzi unfolds it as a lived, almost bodily mastery of the right gesture.
 
-> “I no longer look with my eyes but with my spirit, and the blade follows of itself the natural openings.” (Zhuangzi, ch. 3 (The Secret of Caring for Life))
+> “I no longer look with my eyes but with my spirit, and the blade follows of itself the natural openings.”, ch. 3 (The Secret of Caring for Life)
 
 *Sources : Zhuangzi, ch. 3 (Cook Ding) · Zhuangzi, ch. 19 (the swimmer of the falls)*
 
@@ -100,7 +100,7 @@ Member among others 85% · Stewardship 15%
 
 The human is neither to master nature nor to manage it as a steward: he must "let things be what they are" and tune his acting to theirs. The happiness of the fish, which Zhuangzi claims to know by watching them swim, and his sparring with [Hui Shi](../philosophers/hui-shi.md) over it, bespeak a lived continuity between the human and the living that makes any vantage of oversight idle. To follow the natural is neither to exploit nor to protect, but to know oneself a member of the same flux, exactly the reverse of Prometheanism.
 
-> “See how the fish come out and dart about at their ease: that is the happiness of fish!” (Zhuangzi, ch. 17 (Autumn Floods))
+> “See how the fish come out and dart about at their ease: that is the happiness of fish!”, ch. 17 (Autumn Floods)
 
 *Sources : Zhuangzi, ch. 17 (the happiness of fish) · Zhuangzi, ch. 7 (Fit for Emperors and Kings)*
 
@@ -162,7 +162,7 @@ The examined life 75% · Primacy of action 25%
 
 Wisdom is won by a turn inward, the ["fasting of the heart"](../glossary/xinzhai.md) and the "sitting in forgetfulness" that empty the mind of its calculations and preferences so as to make it clear as a mirror. The sage "uses his heart like a mirror": he receives without retaining, welcomes without pursuing. This contemplative quietude takes precedence over active engagement in public affairs, which Zhuangzi shuns; yet it is prolonged in an effortless action, so that the inward withdrawal is not pure inaction.
 
-> “The perfect sage uses his heart like a mirror: he goes out to meet nothing and welcomes nothing, he responds and does not retain.” (Zhuangzi, ch. 7)
+> “The perfect sage uses his heart like a mirror: he goes out to meet nothing and welcomes nothing, he responds and does not retain.”, ch. 7
 
 *Sources : Zhuangzi, ch. 4 (the fasting of the heart) · Zhuangzi, ch. 7 (the mirror-heart)*
 
@@ -204,7 +204,7 @@ Use theory 70% · Speaker's intention 30%
 
 Words do not picture things: they serve to catch them, as the fish trap serves to catch the fish, and "the fish caught, one forgets the trap." Their meaning lies in their use and in what they let one do, not in a fixed correspondence with a referent, so that the logicians' disputes about names spin idly. This instrumental, pragmatic conception of language, in which one may "forget the words" once their office is done, leans toward a use theory with a tint of intention.
 
-> “The trap is for catching fish: once the fish is caught, the trap is forgotten. Words are for grasping the idea: once the idea is grasped, the words are forgotten.” (Zhuangzi, ch. 26)
+> “The trap is for catching fish: once the fish is caught, the trap is forgotten. Words are for grasping the idea: once the idea is grasped, the words are forgotten.”, ch. 26
 
 *Sources : Zhuangzi, ch. 26 (the trap and the fish) · Zhuangzi, ch. 2*
 
@@ -226,7 +226,7 @@ Techno-criticism 80% · Techno-optimism 20%
 
 An old gardener refuses the water-drawing machine he is offered: "whoever uses machines acquires a machine heart," and loses the native purity of the spirit. Zhuangzi's distrust bears not on the tool itself, which he gladly wields in his artisan parables, but on the calculating mind and the cunning the instrument breeds at the expense of the [natural](../glossary/ziran.md). This critique of the "machine heart" ranks him, like [Laozi](../philosophers/laozi.md), among the distant ancestors of techno-criticism, but from the inner self rather than the political order.
 
-> “Whoever uses machines does all his work mechanically; whoever does his work mechanically grows a machine heart.” (Zhuangzi, ch. 12)
+> “Whoever uses machines does all his work mechanically; whoever does his work mechanically grows a machine heart.”, ch. 12
 
 *Sources : Zhuangzi, ch. 12 (the gardener and the machine)*
 

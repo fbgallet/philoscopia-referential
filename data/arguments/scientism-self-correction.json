@@ -1,0 +1,65 @@
+{
+  "id": "scientism-self-correction",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "SCIENCE_PLACE", "poleId": "SCIENTISM" },
+  "name": { "fr": "L'argument de la réussite", "en": "The argument from success" },
+  "claim": {
+    "fr": "Là où toute autre approche s'enlise dans des désaccords sans fin, la science converge et prédit : c'est qu'elle seule soumet ses énoncés au verdict des faits.",
+    "en": "Where every other approach sinks into endless disagreement, science converges and predicts: because it alone submits its claims to the verdict of the facts."
+  },
+  "summary": {
+    "fr": "Le partage entre savoir et opinion tient à une épreuve indépendante de nos désirs ; or seule la méthode scientifique l'institue systématiquement, et là où elle s'applique, les désaccords se résorbent. Les « autres voies » ou bien ne disent rien de testable, ou bien ont reculé devant elle : la science est la mesure même du savoir.",
+    "en": "The line between knowledge and opinion rests on a test independent of our wishes; but only the scientific method institutes it systematically, and where it applies, disagreements resolve. The 'other paths' either say nothing testable or have given way to it: science is the very measure of knowledge."
+  },
+  "development": [
+    {
+      "fr": "Le partage entre savoir et simple opinion tient à un point : un savoir peut être corrigé par autre chose que nos désirs, par une épreuve indépendante de qui le tient.",
+      "en": "The line between knowledge and mere opinion rests on one point: knowledge can be corrected by something other than our wishes, by a test independent of who holds it."
+    },
+    {
+      "fr": "Or aucune démarche n'institue cette épreuve aussi systématiquement que la méthode scientifique : elle expose ses énoncés à l'expérience publique et rejette ce qui échoue. Là où elle s'applique, les désaccords se résorbent et les prédictions réussissent, comme aucune théologie ni métaphysique n'y est parvenue.",
+      "en": "Now no approach institutes this test as systematically as the scientific method: it exposes its claims to public experience and discards what fails. Where it applies, disagreements resolve and predictions succeed, as no theology or metaphysics ever managed."
+    },
+    {
+      "fr": "Les prétendues « autres voies » — intuition, révélation, tradition — ou bien ne disent rien qu'une épreuve puisse trancher, ou bien, quand elles le font, ont toujours fini par reculer devant la science : les astres, la maladie, l'esprit.",
+      "en": "The alleged 'other paths' — intuition, revelation, tradition — either say nothing a test could settle, or, when they do, have always ended up retreating before science: the heavens, disease, the mind."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la science n'est pas une source parmi d'autres mais la mesure même du savoir : toute question qui admet une réponse finira par recevoir la sienne.",
+    "en": "So science is not one source among others but the very measure of knowledge: any question that admits of an answer will, in the end, receive its own."
+  },
+  "deepenings": [
+    {
+      "id": "law-of-three-stages",
+      "label": { "fr": "La loi des trois états", "en": "The law of the three stages" },
+      "targetStep": 1,
+      "development": [
+        {
+          "fr": "L'humanité passe, dit <ph id='comte'>Comte</ph>, de l'explication théologique, qui invoque des dieux, à la métaphysique, qui invoque des essences cachées, puis à l'état « positif » où l'on renonce aux causes dernières pour les lois que l'observation établit.",
+          "en": "Humanity passes, says <ph id='comte'>Comte</ph>, from theological explanation, which invokes gods, to metaphysics, which invokes hidden essences, then to the 'positive' stage, where one gives up ultimate causes for the laws that observation establishes."
+        },
+        {
+          "fr": "Chaque domaine, en mûrissant, suit ce chemin et quitte la spéculation pour la science : la physique, la chimie, la biologie l'ont fait ; les affaires humaines elles-mêmes doivent le faire.",
+          "en": "Each field, as it matures, follows this path and leaves speculation for science: physics, chemistry, biology have done so; human affairs themselves are to do the same."
+        }
+      ],
+      "source": {
+        "author": { "fr": "Comte", "en": "Comte" },
+        "figures": [{ "name": { "fr": "Comte", "en": "Comte" }, "kind": "PHILOSOPHER", "slug": "comte" }],
+        "work": { "fr": "Cours de philosophie positive", "en": "The Course in Positive Philosophy" },
+        "workId": "course-positive-philosophy-comte"
+      }
+    }
+  ],
+  "difficulty": 2,
+  "source": {
+    "author": { "fr": "Comte", "en": "Comte" },
+    "figures": [{ "name": { "fr": "Comte", "en": "Comte" }, "kind": "PHILOSOPHER", "slug": "comte" }],
+    "work": { "fr": "Cours de philosophie positive", "en": "The Course in Positive Philosophy" },
+    "workId": "course-positive-philosophy-comte"
+  },
+  "testThoughtExperiment": "marys-room",
+  "problems": ["what-makes-it-science", "explaining-or-understanding", "true-or-useful"],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

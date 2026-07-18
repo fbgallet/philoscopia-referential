@@ -47,6 +47,24 @@ Entre accepter ce qui ne dépend pas de nous et vouloir tout transformer, il s'a
 - *Faire la part des choses* · contre : [Le confort du juste milieu](../arguments/control-median-comfort-objection.md)
 - *Faire la part des choses* · contre : [La difficulté escamotée](../arguments/control-median-empty-wisdom-objection.md)
 
+## Citations
+
+> « « Demande-moi ce que tu voudras. » « Ôte-toi de mon soleil. » » — [Diogène de Sinope](../philosophers/diogenes.md), Diogène Laërce, Vies, VI, 38
+
+> « Il y a des choses qui dépendent de nous et d'autres qui n'en dépendent pas. » — [Épictète](../philosophers/epictetus.md), Manuel, §1
+
+> « Je ne regarde plus avec les yeux mais avec l'esprit, et la lame suit d'elle-même les interstices naturels. » — [Zhuangzi](../philosophers/zhuangzi.md), ch. 3 (Principe vital)
+
+> « Le Dao est constamment non-agissant, et pourtant rien n'est laissé inaccompli. » — [Laozi](../philosophers/laozi.md), Dao De Jing, ch. 37
+
+> « On peut me tuer, me bannir, me priver de mes droits : Anytos et Mélétos le peuvent, mais me nuire, non. » — [Socrate](../philosophers/socrates.md), Platon, Apologie, 30c-d
+
+> « Parmi les choses qui existent, les unes dépendent de nous, les autres ne dépendent pas de nous. » — [Épictète](../philosophers/epictetus.md), Manuel, §1
+
+> « Rien au monde n'est plus souple et plus faible que l'eau ; pourtant, pour attaquer ce qui est dur et fort, rien ne la surpasse. » — [Laozi](../philosophers/laozi.md), Dao De Jing, ch. 78
+
+> « Toutes les pertes du sage sont sans dommage, car il porte tout son bien en lui-même. » — [Sénèque](../philosophers/seneca.md), De la constance du sage, V
+
 ## Axes liés
 
 [Rapport au désir](../axes/desire.md) · [Espoir](../axes/hope.md) · [Rapport au passé](../axes/past-relation.md) · [Liberté de la volonté](../axes/freedom.md) · [Souverain bien](../axes/sovereign-good.md)

@@ -48,6 +48,16 @@ Only virtue, or the good will, has unconditional worth: the good life is the mor
 - **Happiness and meaning** : Is a good life necessarily a happy one, or can it be full of meaning while being hard, demanding, sometimes unhappy?
 - **Alone or with others** : Is flourishing self-sufficient, or does it require friends and a city, so that one cannot be fully happy apart from others?
 - **Knowing or imagining happiness** : Do we really know what would make us happy, or is happiness a shifting ideal of the imagination, so indeterminate that no firm rule can be drawn from it?
+- **Beauty as the highest good** : What if the highest good were beauty: making one's life a work of art, seeking the intensity of beautiful forms rather than pleasure, virtue, or serenity?
+
+## Arguments
+
+- *Hedonism* · for : [The cradle argument](../arguments/hedonism-cradle-argument.md)
+- *Hedonism* · against : [From desired to desirable](../arguments/hedonism-natural-not-good-objection.md)
+- *Eudaimonism* · for : [The function argument (ergon)](../arguments/eudaimonism-function-argument.md)
+- *Eudaimonism* · against : [Existence without essence](../arguments/eudaimonism-no-function-objection.md)
+- *Virtue / moral perfectionism* · for : [The only unconditional good](../arguments/perfectionism-unconditional-good.md)
+- *Virtue / moral perfectionism* · against : [Unconditional is not total](../arguments/perfectionism-unconditional-not-whole-objection.md)
 
 ## Grounding relations
 
@@ -55,6 +65,38 @@ Only virtue, or the good will, has unconditional worth: the good life is the mor
 - *[Source of knowledge](../axes/knowledge-source.md) : Empiricism* grounds *[The highest good](../axes/sovereign-good.md) : Hedonism* : If all knowledge, including knowledge of the good, comes from experience, then it is in felt pleasure and pain that what is worthwhile is read, for they are the only values given directly to the senses. Empiricism grounds hedonism: [Bentham](../philosophers/bentham.md) makes pleasure and pain the 'sovereign masters' by which every good is measured.
 - *[Essence and existence](../axes/essence.md) : Essentialism* grounds *[The highest good](../axes/sovereign-good.md) : Eudaimonism* : If the human being has a proper nature, a function that defines it, then a life is good when it fully accomplishes that function. Essentialism grounds eudaimonism: [Aristotle](../philosophers/aristotle.md) draws the highest good from man's proper function, the excellent exercise of reason, of which pleasure is only the accompaniment.
 - *[Nature of mind and reality](../axes/reality-nature.md) : Materialism* grounds *[The highest good](../axes/sovereign-good.md) : Hedonism* : If only bodies and their affections exist, with no immortal soul or transcendent end, the good can be measured only by pleasure and the absence of pain. Materialism grounds hedonism: for [Epicurus](../philosophers/epicurus.md), it is because all is atoms and nothing awaits us after death that a successful life plays out in well-understood pleasure.
+
+## Quotations
+
+> “It is not from wealth that virtue arises, but from virtue that wealth and every other good come to men.” — [Socrates](../philosophers/socrates.md), Plato, Apology, 30b
+
+> “Nothing in the world, indeed nothing even beyond the world, can possibly be conceived which could be called good without qualification except a good will.” — [Kant](../philosophers/kant.md), Groundwork of the Metaphysics of Morals, section I
+
+> “It is better to be a human being dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied.” — [Mill](../philosophers/mill.md), Utilitarianism, ch. 2
+
+> “Man does not strive for happiness; only the Englishman does that.” — [Nietzsche](../philosophers/nietzsche.md), Twilight of the Idols, Maxims and Arrows, 12
+
+> “Blessedness is not the reward of virtue, but virtue itself.” — [Spinoza](../philosophers/spinoza.md), Ethics, V, proposition 42, scholium
+
+> “Ultimate and perfect beatitude can lie only in the vision of the divine essence.” — [Thomas Aquinas](../philosophers/aquinas.md), Summa Theologiae, Ia-IIae, q. 3, a. 8
+
+> “Nature has placed mankind under the governance of two sovereign masters, pain and pleasure. It is for them alone to point out what we ought to do, as well as to determine what we shall do.” — [Bentham](../philosophers/bentham.md), An Introduction to the Principles of Morals and Legislation, ch. I, §1
+
+> “Nature cries aloud for nothing else but that pain be kept away from the body, and that the mind enjoy pleasant sensation, free of care and fear.” — [Lucretius](../philosophers/lucretius.md), On the Nature of Things, II, 16-19
+
+> “Tranquillity followed the suspension as the shadow follows the body.” — [Sextus Empiricus](../philosophers/sextus-empiricus.md), Outlines of Pyrrhonism, I, 29
+
+> “Tranquillity followed the suspension of judgment as a shadow follows its body.” — [Sextus Empiricus](../philosophers/sextus-empiricus.md), Outlines of Pyrrhonism, I, 29
+
+> “The good of man is an activity of the soul in accordance with virtue, and if there are several virtues, in accordance with the best and most complete.” — [Aristotle](../philosophers/aristotle.md), Nicomachean Ethics, I, 7, 1098a
+
+> “The human good turns out to be activity of the soul in accordance with virtue.” — [Aristotle](../philosophers/aristotle.md), Nicomachean Ethics, I.7 (1098a)
+
+> “Pleasure is the beginning and the end of the blessed life.” — [Epicurus](../philosophers/epicurus.md), Letter to Menoeceus, 128
+
+> “The highest good is a mind that despises the gifts of chance and takes joy in virtue.” — [Seneca](../philosophers/seneca.md), On the Happy Life, IV
+
+> “This is the life of gods and of godlike and blessed men: a deliverance from all things here below, the flight of the alone to the Alone.” — [Plotinus](../philosophers/plotinus.md), Enneads, VI, 9, 11
 
 ## Related axes
 

@@ -1,0 +1,146 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/fbgallet/philoscopia-referential/blob/main/schemas/quotes.schema.json",
+  "title": "quotes",
+  "description": "A verbatim quotation in the registry, the target of a <q id='…'> tag, anchored to the axis positions it expresses. Generated from the source Zod schemas. This captures structure only; cross-file and cross-field rules (reference resolution, graph acyclicity, pole-count-by-type, weights summing to 1, etc.) are enforced by the corpus validator, not expressible in JSON Schema.",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]*$"
+    },
+    "text": {
+      "type": "object",
+      "properties": {
+        "fr": {
+          "type": "string",
+          "minLength": 1
+        },
+        "en": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "fr",
+        "en"
+      ],
+      "additionalProperties": false
+    },
+    "author": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "object",
+          "properties": {
+            "fr": {
+              "type": "string",
+              "minLength": 1
+            },
+            "en": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "required": [
+            "fr",
+            "en"
+          ],
+          "additionalProperties": false
+        },
+        "kind": {
+          "type": "string",
+          "enum": [
+            "PHILOSOPHER",
+            "MOVEMENT",
+            "TRADITION"
+          ]
+        },
+        "slug": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9-]*$"
+        }
+      },
+      "required": [
+        "name",
+        "kind"
+      ],
+      "additionalProperties": false
+    },
+    "work": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]*$"
+    },
+    "source": {
+      "type": "object",
+      "properties": {
+        "fr": {
+          "type": "string",
+          "minLength": 1
+        },
+        "en": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "fr",
+        "en"
+      ],
+      "additionalProperties": false
+    },
+    "anchors": {
+      "minItems": 1,
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "axisId": {
+            "type": "string",
+            "pattern": "^[A-Z][A-Z0-9_]*$"
+          },
+          "poleId": {
+            "type": "string",
+            "pattern": "^[A-Z][A-Z0-9_]*$"
+          },
+          "median": {
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "axisId"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "context": {
+      "type": "object",
+      "properties": {
+        "fr": {
+          "type": "string",
+          "minLength": 1
+        },
+        "en": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "fr",
+        "en"
+      ],
+      "additionalProperties": false
+    },
+    "updatedAt": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "id",
+    "text",
+    "author",
+    "anchors",
+    "updatedAt"
+  ],
+  "additionalProperties": false
+}

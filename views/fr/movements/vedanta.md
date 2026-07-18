@@ -66,7 +66,7 @@ Substantialisme 100%
 
 L'argument décisif est celui du témoin : tout ce que je peux nier ou objectiver, le corps, les sensations, les pensées qui défilent, je le saisis comme « cela », distinct du « je » qui l'observe ; ce sujet-témoin ne peut donc jamais être réduit à l'objet qu'il éclaire, et la conscience qui rendrait possible son propre néant devrait, pour le constater, subsister. Ce Soi-conscience, condition de toute expérience, est non composé, et ce qui n'est pas composé ne peut se défaire : il est éternel, et son identité au [brahman](../glossary/brahman.md) est l'enseignement même des « grandes paroles » des Upaniṣad. C'est ici que l'Advaita se sépare frontalement du bouddhisme : là où l'[anattā (non-soi)](../glossary/anatta.md) ne voit derrière le flux des agrégats qu'une série impermanente sans sujet, l'Advaita rétorque qu'aucun flux ne saurait apparaître comme flux sans une conscience stable qui le traverse et l'atteste.
 
-> « Tu es cela. » (Chāndogya Upaniṣad, VI, 8, 7 (tat tvam asi))
+> « Tu es cela. », Chāndogya Upaniṣad, VI, 8, 7 (tat tvam asi)
 
 *Sources : Bṛhadāraṇyaka Upaniṣad ; Chāndogya Upaniṣad, VI, 8 (tat tvam asi) · Śaṅkara, Commentaire des Brahma-Sūtra (Brahma-Sūtra-Bhāṣya)*
 

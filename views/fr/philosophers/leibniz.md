@@ -64,7 +64,7 @@ Rationalisme 93% · Empirisme 7%
 
 Contre l'empirisme de [Locke](../philosophers/locke.md), pour qui rien n'est dans l'entendement qui n'ait d'abord été dans les sens, Leibniz réplique : « rien, sinon l'entendement lui-même ». L'esprit n'est pas une [table rase](../glossary/tabula-rasa.md) mais porte en lui des [idées innées](../glossary/innate-ideas.md) en puissance, comme des veines dans le marbre ; les vérités nécessaires (logique, mathématiques, métaphysique) ne peuvent venir de l'expérience, qui ne donne que des cas particuliers. C'est un [rationalisme](../axes/knowledge-source.md) affirmé, tempéré par la reconnaissance du rôle des sens pour les vérités de fait.
 
-> « Rien n'est dans l'entendement qui n'ait d'abord été dans les sens, sinon l'entendement lui-même. » (Nouveaux essais sur l'entendement humain, II, 1)
+> « Rien n'est dans l'entendement qui n'ait d'abord été dans les sens, sinon l'entendement lui-même. », Nouveaux essais sur l'entendement humain, II, 1
 
 *Sources : Nouveaux essais sur l'entendement humain, préface et livre II, ch. 1 · Nouveaux essais, II, 1, §2 (les veines dans le marbre)*
 
@@ -76,7 +76,7 @@ Dogmatisme 95% · Scepticisme 5%
 
 Deux principes gouvernent toute la connaissance : celui de contradiction, qui règle les vérités nécessaires, et celui de [raison suffisante](../glossary/principle-of-sufficient-reason.md), selon lequel rien n'est vrai sans une raison qui fasse qu'il en soit ainsi plutôt qu'autrement. Si toute vérité a sa raison, alors toute vérité est en droit analysable et démontrable : c'est le fondement du [dogmatisme](../glossary/dogmatism.md) rationaliste de Leibniz, qui pousse l'idée à sa limite en rêvant d'une characteristica universalis, langue universelle des concepts, et d'un calculus ratiocinator où les désaccords se résoudraient par le calcul, comme entre deux comptables. La certitude n'est plus un idéal lointain mais le terme assignable d'une procédure réglée.
 
-> « Quand surgira une controverse, il n'y aura pas plus besoin de discuter entre deux philosophes qu'entre deux comptables. Il leur suffira de prendre la plume, de s'asseoir et de se dire : calculons. » (De l'art combinatoire / Lettres)
+> « Quand surgira une controverse, il n'y aura pas plus besoin de discuter entre deux philosophes qu'entre deux comptables. Il leur suffira de prendre la plume, de s'asseoir et de se dire : calculons. », De l'art combinatoire / Lettres
 
 *Sources : De la méthode de l'universalité ; lettres sur la characteristica universalis · Monadologie, §31-32 (principes de contradiction et de raison suffisante)*
 
@@ -88,7 +88,7 @@ Idéalisme 85% · Dualisme 15%
 
 Ce qui est composé suppose du simple, car un agrégat n'emprunte sa réalité qu'à ses éléments : il doit donc exister des substances simples, sans parties, les monades. Or la matière, indéfiniment divisible et étendue, n'est jamais simple : les vrais atomes de la nature ne peuvent être matériels mais d'ordre spirituel, des unités dont l'essence est perception et appétition. La matière étendue n'a plus dès lors qu'une réalité dérivée, celle d'un phénomène bien fondé résultant de l'agrégation des monades. Cet [immatérialisme](../axes/reality-nature.md) répond au problème de l'unité du réel que l'étendue cartésienne, toujours sécable, ne pouvait fonder ; il garde une teinte dualiste, l'ordre des corps et celui des âmes restant distincts mais accordés.
 
-> « Les monades n'ont point de fenêtres par lesquelles quelque chose y puisse entrer ou sortir. » (Monadologie, §7)
+> « Les monades n'ont point de fenêtres par lesquelles quelque chose y puisse entrer ou sortir. », Monadologie, §7
 
 *Sources : Monadologie, §1-7 (les monades, substances simples sans fenêtres) · Lettres à De Volder et à Des Bosses (phénomènes bien fondés)*
 
@@ -110,7 +110,7 @@ Optimisme métaphysique 100%
 
 Rien n'arrive sans [raison suffisante](../glossary/principle-of-sufficient-reason.md), pas même la création : si Dieu a fait exister ce monde plutôt qu'un autre parmi l'infinité des mondes possibles qu'il conçoit, c'est que sa sagesse et sa bonté lui ont fait choisir celui qui réalise le maximum de perfection avec le minimum de moyens, « le meilleur des mondes possibles ». Le mal n'y est donc pas un démenti mais une part calculée : Dieu le permet là où il conditionne un plus grand bien d'ensemble. Cet optimisme répond au scandale du mal en transformant une objection contre la providence en conséquence de la perfection divine, raisonnement que Voltaire raillera dans Candide à travers Pangloss.
 
-> « Il s'ensuit de la suprême perfection de Dieu qu'en produisant l'univers il a choisi le meilleur plan possible. » (Monadologie, §55 ; Théodicée)
+> « Il s'ensuit de la suprême perfection de Dieu qu'en produisant l'univers il a choisi le meilleur plan possible. », Monadologie, §55 ; Théodicée
 
 *Sources : Essais de théodicée, §8-10 et §225 (le meilleur des mondes possibles) · Discours de métaphysique, §3 (Dieu fait tout de la manière la plus parfaite)*
 
@@ -132,7 +132,7 @@ Déterminisme dur 55% · Libre arbitre 45%
 
 Si rien n'arrive sans [raison suffisante](../glossary/principle-of-sufficient-reason.md), comment l'acte peut-il rester libre ? Leibniz dénoue la difficulté en distinguant deux nécessités : est absolument nécessaire ce dont le contraire est contradictoire (les vérités de raison) ; n'est qu'hypothétiquement nécessaire ce qui suppose le libre choix divin du meilleur. L'acte humain relève du second cas : il est certain, parce qu'inscrit dans la notion complète de la personne, mais non nécessaire, car son contraire reste logiquement possible. Les motifs inclinent donc sans contraindre, et c'est précisément ce qui sépare Leibniz du nécessitarisme de [Spinoza](../philosophers/spinoza.md), où tout découle de Dieu avec une nécessité géométrique. Ce [compatibilisme](../glossary/compatibilism.md) raffiné concilie détermination par les raisons et contingence, d'où une valeur à peine du côté du déterminisme.
 
-> « Les raisons inclinent sans nécessiter. » (Essais de théodicée)
+> « Les raisons inclinent sans nécessiter. », Essais de théodicée
 
 *Sources : Essais de théodicée, §43-53 et §288 (incliner sans nécessiter) · Discours de métaphysique, §13 (la notion individuelle enveloppe tout, sans nécessité absolue)*
 
@@ -154,7 +154,7 @@ Cohérence 60% · Correspondance 40%
 
 Leibniz distingue les vérités de raison, nécessaires, dont la négation est contradictoire, et les vérités de fait, contingentes, fondées sur le principe de raison suffisante. Dans toute proposition vraie, le prédicat est contenu dans le sujet (praedicatum inest subjecto) : la vérité est une cohérence analytique des notions, garantie par l'entendement divin. La part de correspondance demeure pour les vérités de fait, mais le cœur de la doctrine est la cohérence interne des concepts.
 
-> « Dans toute proposition affirmative véritable, le prédicat est contenu dans le sujet : praedicatum inest subjecto. » (Discours de métaphysique, §8 ; Generales inquisitiones)
+> « Dans toute proposition affirmative véritable, le prédicat est contenu dans le sujet : praedicatum inest subjecto. », Discours de métaphysique, §8 ; Generales inquisitiones
 
 *Sources : Monadologie, §31-36 (vérités de raison et vérités de fait) · Discours de métaphysique, §8 (le prédicat est dans le sujet)*
 
@@ -186,7 +186,7 @@ Contre l'[immanence](../glossary/immanence.md) de [Spinoza](../philosophers/spin
 
 Pour Leibniz, on ne peut expliquer la perception par la mécanique : si l'on entrait dans une machine pensante agrandie comme un moulin, on n'y trouverait que des pièces qui se poussent, jamais de quoi rendre compte d'une perception. La vie de l'âme n'est donc pas réductible aux mouvements des corps ; elle relève d'un ordre propre (les causes finales) accordé au mécanique, ce qui penche du côté émergentiste.
 
-> « Supposant qu'il y eût une machine dont la structure fît penser... on n'y trouverait que des pièces qui se poussent les unes les autres, et jamais de quoi expliquer une perception. » (Monadologie, §17)
+> « Supposant qu'il y eût une machine dont la structure fît penser... on n'y trouverait que des pièces qui se poussent les unes les autres, et jamais de quoi expliquer une perception. », Monadologie, §17
 
 *Sources : Monadologie, §17 (l'argument du moulin)*
 

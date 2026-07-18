@@ -24,7 +24,7 @@ Emancipatory violence 80% · Force as an instrument of politics 20%
 
 The ruling class never yields of its own accord: the emancipation of the proletariat requires the revolutionary conquest of power, and violence there plays the role of the **midwife of history**, a means in the service of a new order rather than a value in itself. Yet Marx concedes that in certain countries with open institutions a peaceful transition is not ruled out: violence is an instrument of emancipation, not its essence.
 
-> “Force is the midwife of every old society pregnant with a new one.” (Capital, vol. I, ch. 31)
+> “Force is the midwife of every old society pregnant with a new one.”, Capital, vol. I, ch. 31
 
 *Sources : Capital, vol. I, ch. 31 · Manifesto of the Communist Party, IV · Amsterdam speech (1872)*
 
@@ -36,7 +36,7 @@ Changing the world 100%
 
 The eleventh of the **Theses on Feuerbach** overturns philosophy's vocation: interpreting the world, as philosophers have confined themselves to doing, leaves untouched the material conditions that produce misery and **alienation**. Critique must become practical: it must take flesh in the struggles that transform social relations, until philosophy fulfills itself by being realized.
 
-> “The philosophers have only interpreted the world, in various ways; the point is to change it.” (Theses on Feuerbach, XI (1845))
+> “The philosophers have only interpreted the world, in various ways; the point is to change it.”, Theses on Feuerbach, XI (1845)
 
 *Sources : Theses on Feuerbach, XI · The German Ideology (1846)*
 
@@ -88,7 +88,7 @@ Existentialism 75% · Essentialism 25%
 
 Marx rejects the idea of a fixed, ahistorical human essence: what human beings are changes with their mode of production. Human nature is not an abstraction lodged in each individual but the precipitate of historically determined social relations; it is a product of history, not a given prior to be fulfilled.
 
-> “The human essence is no abstraction inherent in the isolated individual. In its reality it is the ensemble of social relations.” (Theses on Feuerbach, VI)
+> “The human essence is no abstraction inherent in the isolated individual. In its reality it is the ensemble of social relations.”, Theses on Feuerbach, VI
 
 *Sources : Theses on Feuerbach, VI · The German Ideology, I*
 
@@ -120,7 +120,7 @@ Directional meaning 93% · Contingency 8%
 
 If one seeks the engine of history, it is neither Providence nor the march of ideas that must be questioned but a contradiction internal to societies: the productive forces that men develop eventually clash with the inherited relations of production, and this collision, lived as class struggle, carries one mode of production over into the next. Marx draws from this a [direction](../axes/history-meaning.md) from feudalism through capitalism to communism, guaranteed by no design but extracted from the analysis of material conditions, which sets him apart both from [Hegel](../philosophers/hegel.md)'s theodicy of history and from providential narratives: hence a strongly directional reading, with no transcendent teleology.
 
-> “The history of all hitherto existing society is the history of class struggles.” (Manifesto of the Communist Party, 1848)
+> “The history of all hitherto existing society is the history of class struggles.”, Manifesto of the Communist Party, 1848
 
 *Sources : Manifesto of the Communist Party, ch. 1 · Preface to A Contribution to the Critique of Political Economy (1859)*
 
@@ -132,7 +132,7 @@ Egalitarianism 100%
 
 For Marx, private property in the means of production is no natural right but the very lever of exploitation: it is what allows the worker's surplus labour to be captured, so that distributive justice is won not by sharing better within that framework but by abolishing the framework. Yet he refuses to enshrine abstract equality as an ideal: a right that measures all men by the same standard remains an unequal right, since needs differ. Full communism therefore grounds distribution on need, beyond the horizon of right itself, which makes it a radical [egalitarianism](../axes/distributive-justice.md) opposed to any legitimation of merit or of the market.
 
-> “From each according to his ability, to each according to his needs.” (Critique of the Gotha Programme)
+> “From each according to his ability, to each according to his needs.”, Critique of the Gotha Programme
 
 *Sources : Critique of the Gotha Programme (1875) · Manifesto of the Communist Party, ch. 2 (abolition of private property)*
 
@@ -144,7 +144,7 @@ Alienation 60% · Fulfillment 30% · Necessity, leisure as the end 10%
 
 Labour is in essence the act by which man objectifies himself and recognises himself in what he produces: it is this positive definition that makes its perversion measurable. Yet once the product belongs to another and the worker sells his labour-power as a commodity, what ought to fulfil him maims him: Marx breaks this alienation into four dispossessions, of the product, of the act of producing itself, of man's species-essence, and of other men. Against the economists who take this relation for a natural fact and against Feuerbach, who saw only its religious version, he roots it in private property and the relations of production: the dominant weight therefore goes to [alienation](../axes/work-meaning.md) as the truth of present labour, fulfilment remaining the horizon of emancipated labour.
 
-> “The worker therefore does not affirm himself in his labour but denies himself; does not feel content but unhappy.” (1844 Manuscripts)
+> “The worker therefore does not affirm himself in his labour but denies himself; does not feel content but unhappy.”, 1844 Manuscripts
 
 *Sources : 1844 Manuscripts, first manuscript (alienated labour) · Capital, vol. I, on abstract labour and the fetishism of commodities*
 
@@ -156,7 +156,7 @@ Progressivism 100%
 
 Marx calls not for gradual reform but for a revolutionary overturning of the social order: the proletariat must overthrow the bourgeois state and abolish existing relations of production: a radical [progressivism](../axes/conservatism-progressism.md), hostile to any conservation of the established order.
 
-> “The proletarians have nothing to lose but their chains. They have a world to win.” (Manifesto of the Communist Party, 1848)
+> “The proletarians have nothing to lose but their chains. They have a world to win.”, Manifesto of the Communist Party, 1848
 
 *Sources : Manifesto of the Communist Party, conclusion · Theses on Feuerbach, XI (changing the world)*
 
@@ -178,7 +178,7 @@ Culturalism 90% · Naturalism 10%
 
 To seek the essence of man in the individual taken apart, as a property he would carry within him, is already to commit Feuerbach's error: one ascribes to nature what is the effect of a history. Marx therefore shifts the seat of the human outside the individual, into the web of social relations in which he is caught; man distinguishes himself from the animal as soon as he produces his means of subsistence, and changes with the conditions he produces. The consequence is polemical: there is no eternal human nature to invoke against social change, hence a strongly [culturalist](../axes/human-nature.md) stance, without denying the natural dimension of the producing being.
 
-> “The human essence is no abstraction inherent in each single individual. In its reality it is the ensemble of the social relations.” (Theses on Feuerbach, VI)
+> “The human essence is no abstraction inherent in the isolated individual. In its reality it is the ensemble of social relations.”, Theses on Feuerbach, VI
 
 *Sources : Theses on Feuerbach, VI · The German Ideology, I (men distinguish themselves as soon as they produce their means of subsistence)*
 
@@ -190,7 +190,7 @@ Atheism 100%
 
 Religion is a human production and an illusion, the opium of the people, at once a protest against real misery and a consolation that perpetuates it. The critique of religion, completed by Feuerbach and then traced by Marx to its social roots, is the presupposition of all critique: an avowed [atheism](../axes/god-existence.md) that would dispel heaven in order to transform earth.
 
-> “Religion is the sigh of the oppressed creature, the heart of a heartless world, the soul of soulless conditions. It is the opium of the people.” (Critique of Hegel's Philosophy of Right, 1844)
+> “Religion is the sigh of the oppressed creature, the heart of a heartless world, the soul of soulless conditions. It is the opium of the people.”, Critique of Hegel's Philosophy of Right, 1844
 
 *Sources : Contribution to the Critique of Hegel's Philosophy of Right, introduction (1844)*
 
@@ -202,7 +202,7 @@ Holism 93% · Individualism 7%
 
 For Marx the isolated individual of the classical economists is a fiction: men are intelligible only through the social relations and classes to which they belong. Consciousness, needs, even ideas are determined by social being: a strongly [holist](../axes/individual-society.md) stance, in which the social whole has primacy over the individual considered apart.
 
-> “It is not the consciousness of men that determines their being, but, on the contrary, their social being that determines their consciousness.” (Preface to the Critique of Political Economy, 1859)
+> “It is not the consciousness of men that determines their being, but, on the contrary, their social being that determines their consciousness.”, Preface to the Critique of Political Economy, 1859
 
 *Sources : Preface to A Contribution to the Critique of Political Economy (1859) · Grundrisse, introduction (critique of the isolated Robinson Crusoe individual)*
 
@@ -224,7 +224,7 @@ Primacy of action 93% · The examined life 7%
 
 So long as consciousness is held to be the place where man relates to himself, Feuerbach's materialism stays contemplative: it grasps the real as an object to be internalised, never as an activity to be exercised. Marx overturns this primacy: it is in [praxis](../glossary/praxis.md), the sensuous activity that transforms world and man in a single gesture, that what I am is enacted and proved, not in a reflexive turn upon oneself. Inner examination cut off from action is but one more ideology, and the philosophy that shuts itself within it misses its task: hence a resolute primacy of action over introspection.
 
-> “The philosophers have only interpreted the world in various ways; the point, however, is to change it.” (Theses on Feuerbach, XI)
+> “The philosophers have only interpreted the world, in various ways; the point is to change it.”, Theses on Feuerbach, XI (1845)
 
 *Sources : Theses on Feuerbach, XI · Theses on Feuerbach, II (truth as a practical question)*
 
@@ -246,7 +246,7 @@ Hard determinism 70% · Free will 30%
 
 Material conditions determine men's action without making them mere playthings, for men make their own history yet do not make it as they please, under circumstances they have not chosen. This articulation of social [determination](../glossary/determinism.md) and transformative action leans toward determinism without lapsing into fatalism: freedom is the collective mastery of conditions, not abstract [free will](../glossary/free-will.md).
 
-> “Men make their own history, but they do not make it as they please; they do not make it under self-selected circumstances, but under circumstances directly given and inherited from the past.” (The Eighteenth Brumaire of Louis Bonaparte)
+> “Men make their own history, but they do not make it as they please; they do not make it under self-selected circumstances, but under circumstances directly given and inherited from the past.”, The Eighteenth Brumaire of Louis Bonaparte
 
 *Sources : The Eighteenth Brumaire of Louis Bonaparte (1852) · The German Ideology, I (circumstances make men as much as men make circumstances)*
 
@@ -258,7 +258,7 @@ Constructivism 80% · Scientific realism 20%
 
 The ruling ideas of an age are the ideas of the ruling class: legal, moral and religious thought is ideology, an inverted reflection of the relations of production that masks class interests under the guise of universal truths. Social knowledge is thus largely constructed by material positions, hence a marked [constructivist](../axes/knowledge-status.md) leaning, even though Marx claims a scientific status for his own analysis.
 
-> “The ideas of the ruling class are in every epoch the ruling ideas.” (The German Ideology)
+> “The ideas of the ruling class are in every epoch the ruling ideas.”, The German Ideology
 
 *Sources : The German Ideology, I (the ruling ideas are the ideas of the ruling class) · Preface to A Contribution to the Critique of Political Economy (base and superstructure)*
 
@@ -270,7 +270,7 @@ Anarchism 75% · Authority 25%
 
 The state is conceived as an instrument of class domination, a committee for managing the common affairs of the bourgeoisie; after the transitional dictatorship of the proletariat, the state is meant to wither away in the classless society. The horizon is thus the extinction of coercive power, leaning toward the anarchist pole, without joining the anarchism that would abolish the state with no transitional phase.
 
-> “The modern state power is but a committee for managing the common affairs of the whole bourgeoisie.” (Manifesto of the Communist Party, 1848)
+> “The modern state power is but a committee for managing the common affairs of the whole bourgeoisie.”, Manifesto of the Communist Party, 1848
 
 *Sources : Manifesto of the Communist Party, ch. 1 (the state as committee of the bourgeoisie) · Critique of the Gotha Programme (withering away of the state)*
 
@@ -282,7 +282,7 @@ Political realism 60% · Utopianism 40%
 
 Marx claims to be a scientific socialist and mocks the utopian socialisms that sketch ideal cities without analysing real forces: communism is not an ideal to be established but the real movement which abolishes the present state of things. This grounding in the analysis of material power relations pulls toward political realism, even if the goal, the classless society, retains a utopian charge.
 
-> “Communism is for us not a state of affairs which is to be established, an ideal to which reality will have to adjust itself. We call communism the real movement which abolishes the present state of things.” (The German Ideology, 1846)
+> “Communism is for us not a state of affairs which is to be established, an ideal to which reality will have to adjust itself. We call communism the real movement which abolishes the present state of things.”, The German Ideology, 1846
 
 *Sources : The German Ideology, I (communism as the real movement) · Manifesto of the Communist Party, ch. 3 (critique of utopian socialisms)*
 
@@ -324,7 +324,7 @@ Altruism 65% · Ethical egoism 35%
 
 Marx denounces the bourgeois society that has drowned every human tie in the icy water of egotistical calculation, reducing relations to interest and cash payment. Far from making this egoism a norm, he sees it as the historical product of capitalism, and aims at a community where the free development of each is the condition for the free development of all: a critique of egoism in the name of class solidarity, without idealising an abstract altruism.
 
-> “The bourgeoisie has drowned the most heavenly ecstasies of religious fervour, of chivalrous enthusiasm, of philistine sentimentalism, in the icy water of egotistical calculation.” (Manifesto of the Communist Party, 1848)
+> “The bourgeoisie has drowned the most heavenly ecstasies of religious fervour, of chivalrous enthusiasm, of philistine sentimentalism, in the icy water of egotistical calculation.”, Manifesto of the Communist Party, 1848
 
 *Sources : Manifesto of the Communist Party, ch. 1 (the icy water of egotistical calculation) and ch. 2*
 
@@ -336,7 +336,7 @@ Cosmopolitanism 85% · Communitarianism and patriotism 15%
 
 For Marx the decisive solidarity is not national but of class: the workers have no country, and the proletarian watchword calls for transcending borders in the name of a proletarian internationalism. The relevant community is neither the nation nor abstract humanity, but the world proletariat, which leans strongly toward a class cosmopolitanism.
 
-> “Workers of all countries, unite!” (Manifesto of the Communist Party, 1848)
+> “Working Men of All Countries, Unite!”, Manifesto of the Communist Party, 1848
 
 *Sources : Manifesto of the Communist Party, ch. 2 and conclusion (the workers have no country; workers of all countries)*
 
@@ -358,7 +358,7 @@ Project 80% · Presentism 10% · Memory and transmission 10%
 
 Marx's thought is wholly turned toward a future to be built: the capitalist present has meaning only as a moment of transition toward communist society, and the past is analysed only to illuminate that movement: a resolutely project-oriented stance, one that cannot draw its poetry from the past but only from the future.
 
-> “The social revolution of the nineteenth century cannot draw its poetry from the past, but only from the future.” (The Eighteenth Brumaire of Louis Bonaparte, 1852)
+> “The social revolution of the nineteenth century cannot draw its poetry from the past, but only from the future.”, The Eighteenth Brumaire of Louis Bonaparte, 1852
 
 *Sources : The Eighteenth Brumaire of Louis Bonaparte (the poetry of the future)*
 
@@ -370,7 +370,7 @@ Pragmatism 60% · Correspondence 30% · Coherence 10%
 
 The truth of a thought is proved in praxis, not in pure theory: in practice man must prove the reality and power of his thinking. Whether a thought attains reality is “a practical question”: a strongly pragmatist conception of truth, without renouncing the ambition to grasp the real.
 
-> “In practice man must prove the truth, that is, the reality and power, the this-sidedness of his thinking.” (Theses on Feuerbach, II)
+> “In practice man must prove the truth, that is, the reality and power, the this-sidedness of his thinking.”, Theses on Feuerbach, II
 
 *Sources : Theses on Feuerbach, II · Theses on Feuerbach, VIII (social life is essentially practical)*
 

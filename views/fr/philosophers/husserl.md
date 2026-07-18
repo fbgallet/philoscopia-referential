@@ -54,7 +54,7 @@ Pluralisme épistémique 80% · Scientisme 20%
 
 Husserl ne conteste pas la fécondité des sciences exactes, mais leur prétention à dire seules le réel. Depuis Galilée, la nature est traitée comme un pur tissu mathématique, et l'on oublie que ce vêtement d'idéalités recouvre le [monde de la vie](../glossary/lebenswelt.md) (Lebenswelt), le monde sensible, perçu, vécu, qui est le sol et la source de sens de toute théorie. L'objectivisme qui prend la mesure pour la chose même est une abstraction qui se prend pour le tout : la science présuppose toujours une expérience pré-scientifique qu'elle ne peut fonder elle-même. D'où une place de la science seconde, dérivée, qui doit être reconduite à son origine vécue plutôt qu'érigée en mesure unique du vrai.
 
-> « Le vêtement d'idées des sciences mathématiques fait prendre pour l'être vrai ce qui n'est qu'une méthode. » (La Crise des sciences européennes, §9)
+> « Le vêtement d'idées des sciences mathématiques fait prendre pour l'être vrai ce qui n'est qu'une méthode. », La Crise des sciences européennes, §9
 
 *Sources : La Crise des sciences européennes, §9 et §33-34*
 

@@ -76,7 +76,7 @@ Existentialisme 98% · Essentialisme 3%
 
 Un objet fabriqué, un coupe-papier, présuppose dans l'esprit de l'artisan le concept et la fonction qui le définissent : son essence précède son existence. Faute d'un Dieu artisan, l'homme ne peut être pensé ainsi : il n'a pas d'essence préalable à réaliser, il existe d'abord et se définit ensuite par ce qu'il fait de lui-même. Le courant retourne ainsi tout l'essentialisme, de [Platon](../philosophers/plato.md) à la théologie : il n'y a pas de modèle de l'homme antérieur aux hommes singuliers, et Kierkegaard déjà opposait à l'essence hégélienne du système le devenir-soi de l'existant.
 
-> « L'homme existe d'abord, se rencontre, surgit dans le monde, et qu'il se définit après. » (Sartre, L'existentialisme est un humanisme)
+> « L'homme existe d'abord, se rencontre, surgit dans le monde, et qu'il se définit après. », L'existentialisme est un humanisme
 
 *Sources : L'existentialisme est un humanisme · L'Être et le Néant*
 
@@ -88,7 +88,7 @@ Libre arbitre 95% · Déterminisme dur 5%
 
 Si l'homme n'a pas d'essence reçue, rien en lui ni hors de lui ne décide à sa place : il est sa liberté même, non parce qu'il jouirait d'un libre arbitre confortable, mais parce qu'aucune valeur, aucune nature, aucun ordre ne le dispense de choisir. D'où le renversement du [déterminisme](../glossary/determinism.md) : invoquer ses passions, son milieu ou son caractère pour s'excuser, c'est de la [mauvaise foi](../glossary/bad-faith.md), car ce sont mes choix qui leur donnent prise. La situation où l'homme est jeté ne contredit pas cette liberté mais en est la matière : c'est le projet librement assumé qui constitue l'obstacle en obstacle, contre l'illusion qu'on serait agi du dehors.
 
-> « L'homme est condamné à être libre. Condamné, parce qu'il ne s'est pas créé lui-même, et par ailleurs cependant libre, parce qu'une fois jeté dans le monde, il est responsable de tout ce qu'il fait. » (Sartre, L'existentialisme est un humanisme)
+> « L'homme est condamné à être libre. Condamné, parce qu'il ne s'est pas créé lui-même, et par ailleurs cependant libre, parce qu'une fois jeté dans le monde, il est responsable de tout ce qu'il fait. », L'existentialisme est un humanisme
 
 *Sources : L'Être et le Néant · L'existentialisme est un humanisme*
 

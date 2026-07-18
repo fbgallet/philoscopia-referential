@@ -73,6 +73,28 @@ Compatibilism gives up free will in the strong sense, the power to have chosen o
 
 - With [The meaning of punishment](../axes/punishment.md) : If our acts are fully determined, no one is truly their free author; yet punishing to “give what is deserved” presupposes exactly that responsibility. Holding both creates a tension: retributivism demands a desert that strict determinism removes.
 
+## Quotations
+
+> “Whence comes this will wrested from the fates, by which we move wherever pleasure leads each on? The swerve breaks the decrees of fate.” — [Lucretius](../philosophers/lucretius.md), On the Nature of Things, II, 251-260
+
+> “There is freedom only as engaged, willing itself by willing the disclosure of being through a world.” — [Beauvoir](../philosophers/beauvoir.md), The Ethics of Ambiguity
+
+> “Man is condemned to be free. Condemned, because he did not create himself, yet nonetheless free, because once thrown into the world, he is responsible for everything he does.” — [Sartre](../philosophers/sartre.md), Existentialism Is a Humanism
+
+> “Nature has placed mankind under the governance of two sovereign masters, pain and pleasure.” — [Bentham](../philosophers/bentham.md), Principles of Morals and Legislation, I
+
+> “The maker and ruler of all things himself wrote the decrees of fate, but he follows them: he ordained once, he obeys forever.” — [Seneca](../philosophers/seneca.md), On Providence, V
+
+> “Is humaneness far off? No sooner do I desire it than it is here.” — [Confucius](../philosophers/confucius.md), Analects, VII.29
+
+> “Men make their own history, but they do not make it as they please; they do not make it under self-selected circumstances, but under circumstances directly given and inherited from the past.” — [Marx](../philosophers/marx.md), The Eighteenth Brumaire of Louis Bonaparte
+
+> “Reasons incline without necessitating.” — [Leibniz](../philosophers/leibniz.md), Theodicy
+
+> “You can do what you will; but at any given moment of your life you can will only one determinate thing, and absolutely nothing other than that one thing.” — [Schopenhauer](../philosophers/schopenhauer.md), On the Freedom of the Will, ch. III
+
+> “A stone receives from an external cause that pushes it a certain quantity of motion... Now conceive that this stone, while it continues to move, thinks and knows that it is striving, as far as it can, to move. This stone, surely, since it is conscious only of its striving, will believe itself entirely free.” — [Spinoza](../philosophers/spinoza.md), Letter 58 to Schuller
+
 ## Related axes
 
 [Explaining nature](../axes/causality.md) · [Essence and existence](../axes/essence.md) · [The meaning of punishment](../axes/punishment.md) · [Nature of the self](../axes/self-nature.md) · [Political liberty](../axes/political-liberty.md) · [Nature of consciousness](../axes/consciousness-nature.md) · [Scope of action](../axes/control-scope.md) · [Distributive justice](../axes/distributive-justice.md) · [Relation to desire](../axes/desire.md)

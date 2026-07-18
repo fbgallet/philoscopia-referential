@@ -11,6 +11,7 @@ Figure majeure de la philosophie analytique : pour lui, les problèmes philosoph
 ## Influencé par
 
 - **[Russell](../philosophers/russell.md)** (réinterprète) : Élève de [Russell](../philosophers/russell.md) à Cambridge, [Wittgenstein](../philosophers/wittgenstein.md) reçoit de lui la logique nouvelle et l'analyse comme méthode, mais retourne cet héritage : le Tractatus refond l'atomisme logique en une théorie du langage comme image du monde, jusqu'à cette limite où ce qui compte le plus « ne peut que se montrer ». Russell reconnaîtra en retour la profondeur de son ancien élève.
+- **[Schopenhauer](../philosophers/schopenhauer.md)** (réinterprète) : Le jeune [Wittgenstein](../philosophers/wittgenstein.md) lut Schopenhauer, et le Tractatus en garde la trace : le sujet métaphysique comme « limite du monde » et non partie de lui, un solipsisme qui coïncide avec le réalisme, et surtout une éthique et un « mystique » relégués hors de ce qui peut se dire. La [volonté](../glossary/vouloir-vivre.md) schopenhauerienne y devient le lieu d'un sens qui échappe au langage.
 
 ## Influence sur
 

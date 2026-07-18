@@ -1,0 +1,55 @@
+{
+  "id": "critical-rationalism-conjectures",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "SCIENCE_PLACE", "median": true },
+  "name": {
+    "fr": "Conjectures et réfutations",
+    "en": "Conjectures and refutations"
+  },
+  "claim": {
+    "fr": "La science ne prouve jamais rien définitivement, et n'épuise pas non plus le réel : sa force n'est pas la certitude, mais de s'exposer au démenti et de se corriger.",
+    "en": "Science never proves anything definitively, nor does it exhaust the real: its strength is not certainty, but exposing itself to disproof and correcting itself."
+  },
+  "summary": {
+    "fr": "Aucune observation ne prouve une loi universelle, mais une seule peut la réfuter : est scientifique ce qui est réfutable. La science est ainsi un savoir faillible et non exhaustif ; contre le scientisme, des aspects du réel lui échappent et relèvent d'autres discours, dont il faut pourtant critiquer la prétention à valoir comme savoirs.",
+    "en": "No observation proves a universal law, but a single one can refute it: what is scientific is what is falsifiable. Science is thus a fallible and non-exhaustive knowledge; against scientism, aspects of the real escape it and belong to other discourses, whose claim to count as knowledge must nonetheless be criticized."
+  },
+  "development": [
+    {
+      "fr": "Aucune observation, si nombreuse, ne prouve une loi universelle : mille cygnes blancs n'établissent pas que tous le soient. La science ne procède donc pas en accumulant des preuves.",
+      "en": "No observation, however abundant, proves a universal law: a thousand white swans do not establish that all are. Science therefore does not proceed by piling up proofs."
+    },
+    {
+      "fr": "Mais une seule contre-observation peut réfuter une loi : ce qui fait la valeur d'une théorie, c'est qu'elle interdit des choses observables, qu'elle prend le risque d'avoir tort. Est scientifique ce qui est <kw>réfutable</kw>.",
+      "en": "But a single counter-observation can refute a law: what makes a theory valuable is that it forbids observable things, that it runs the risk of being wrong. What is scientific is what is <kw>falsifiable</kw>."
+    },
+    {
+      "fr": "Cette faillibilité ne fait pourtant pas de la science un discours parmi d'autres : contre le scientisme, qui la tient pour seule habilitée à produire un savoir légitime dans tous les domaines, le rationalisme critique reconnaît qu'elle n'a pas réponse à tout. Mais, pour les domaines de réalité qui se prêtent à l'expérience objective, le savoir scientifique demeure le plus légitime et le plus à même de se rapprocher de la vérité. Le sens, les valeurs et le vécu peuvent relever d'autres formes de discours, telles que l'art, l'éthique ou la métaphysique, dont les prétentions doivent elles aussi pouvoir être examinées et critiquées.",
+      "en": "This fallibility does not, however, make science merely one discourse among others. Against scientism, which holds science to be the only legitimate source of knowledge in every domain, critical rationalism acknowledges that science cannot answer every question. Yet, in domains of reality that lend themselves to objective experience, scientific knowledge remains the most legitimate and the most capable of approaching truth. Meaning, values, and lived experience may belong to other forms of discourse, such as art, ethics, or metaphysics, whose claims should likewise remain open to examination and criticism."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la science n'est ni seule habilitée à tout dire, comme le veut le scientisme, ni un savoir parmi d'autres également valides, comme le veut le pluralisme : elle demeure le modèle de la connaissance rigoureuse, qui reconnaît ses limites sans céder son titre à ce qui ne s'expose pas au démenti.",
+    "en": "So science is neither the only thing entitled to say everything, as scientism would have it, nor one knowledge among others equally valid, as pluralism would have it: it remains the model of rigorous knowledge, one that acknowledges its limits without ceding its title to what does not expose itself to disproof."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": { "fr": "Popper", "en": "Popper" },
+    "figures": [
+      {
+        "name": { "fr": "Popper", "en": "Popper" },
+        "kind": "PHILOSOPHER",
+        "slug": "popper"
+      }
+    ],
+    "work": {
+      "fr": "La Logique de la découverte scientifique",
+      "en": "The Logic of Scientific Discovery"
+    },
+    "workId": "logic-of-scientific-discovery-popper",
+    "year": 1934
+  },
+  "test": "critical-rationalism-holism-objection",
+  "problems": ["what-makes-it-science", "scientism-self-refuting"],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

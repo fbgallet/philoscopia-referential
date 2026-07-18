@@ -64,7 +64,7 @@ Affirmation 55% · Reasoned selection 40% · Extinction and detachment 5%
 
 Hume overturns the classical primacy of reason over desire: the passions are the legitimate springs of all action, which reason serves without being able to oppose them, only the calm passions tempering the violent ones. No asceticism, then, but the acceptance of desires as the primary data of life, ordered from within rather than repressed.
 
-> “Reason is, and ought only to be, the slave of the passions.” (A Treatise of Human Nature, II, 3, 3)
+> “Reason is, and ought only to be, the slave of the passions.”, A Treatise of Human Nature, II, 3, 3
 
 *Sources : A Treatise of Human Nature, II, 3, 3*
 
@@ -86,7 +86,7 @@ Empiricism 98% · Rationalism 3%
 
 Perceptions fall into two classes set apart by their force alone: impressions, vivid and original (sensations, passions), and ideas, their faint copies in thought. From this Hume draws both a principle and an instrument: every simple idea derives from a prior impression, so an idea answering to no impression is empty of meaning. More radical than [Locke](../philosophers/locke.md)'s [blank slate](../glossary/tabula-rasa.md), this test does not merely reject [innate ideas](../glossary/innate-ideas.md): it becomes an engine for dissolving the pseudo-concepts of metaphysics (substance, necessary connection), which one need only challenge to produce their source impression. Empiricism is thus turned into a critical weapon against the [rationalism](../movements/rationalism.md) of [Descartes](../philosophers/descartes.md).
 
-> “All our ideas are nothing but copies of our impressions, or, in other words, it is impossible for us to think of anything which we have not antecedently felt.” (Enquiry Concerning Human Understanding, sect. II)
+> “All our ideas are nothing but copies of our impressions, or, in other words, it is impossible for us to think of anything which we have not antecedently felt.”, Enquiry Concerning Human Understanding, sect. II
 
 *Sources : Enquiry Concerning Human Understanding, sect. II (of the origin of ideas) · A Treatise of Human Nature, I, part I, sect. 1*
 
@@ -98,7 +98,7 @@ Mechanism 100%
 
 Every idea must derive from an impression: so Hume asks which impression yields the necessary connection between a cause and its effect, and finds none. In objects, experience gives only succession and constant conjunction; never the bond that would oblige one to follow the other. Necessity is therefore not in things: it is a habit (custom) of the mind, an expectation projected by repetition. Hence the problem of [induction](../glossary/induction.md): if nothing lets us perceive the causal link, no inference from past to future is rationally grounded. It is this analysis, by undermining causation as objective necessity, that would rouse [Kant](../philosophers/kant.md) from his dogmatic slumber. [Finality](../axes/causality.md) and vital force, answering to no impression, fall with it.
 
-> “After a repetition of similar instances, the mind is carried by habit, upon the appearance of one event, to expect its usual attendant... This connexion, therefore, which we feel in the mind, is the impression from which we form the idea of power or necessary connexion.” (Enquiry Concerning Human Understanding, sect. VII)
+> “After a repetition of similar instances, the mind is carried by habit, upon the appearance of one event, to expect its usual attendant... This connexion, therefore, which we feel in the mind, is the impression from which we form the idea of power or necessary connexion.”, Enquiry Concerning Human Understanding, sect. VII
 
 *Sources : Enquiry Concerning Human Understanding, sect. VII (of the idea of necessary connexion) · A Treatise of Human Nature, I, part III, sect. 6 and 14*
 
@@ -122,7 +122,7 @@ Bundle theory 100%
 
 The same test applies to the self: if it existed, there would be an impression that gives it. But introspection never yields a permanent subject, only some particular perception, heat, light, pleasure or pain, at once replaced by another. Hume infers that there is no thinking substance beneath the perceptions: the self is but a “bundle of perceptions” in perpetual flux. The [personal identity](../glossary/personal-identity.md) we ascribe to it is a fiction of the imagination, mistaking the resemblance and continuity of its contents for a real identity. The thesis targets [Descartes](../philosophers/descartes.md) and every soul-substance; it is the archetype of the bundle theory.
 
-> “For my part, when I enter most intimately into what I call myself, I always stumble on some particular perception or other... I never can catch myself at any time without a perception.” (A Treatise of Human Nature, I, IV, 6)
+> “For my part, when I enter most intimately into what I call myself, I always stumble on some particular perception or other... I never can catch myself at any time without a perception.”, A Treatise of Human Nature, I, IV, 6
 
 *Sources : A Treatise of Human Nature, I, part IV, sect. 6 (of personal identity)*
 
@@ -134,7 +134,7 @@ Sentimentalism 95% · Intellectualism 5%
 
 Reason has only two offices: to relate ideas (the demonstrative) or to infer matters of fact (the causal); yet neither act, by itself, moves the will. Hume concludes that reason can neither produce nor prevent an action, and so can never oppose a passion: only a contrary passion can. Reason settles the means, but ends come from sentiment; it is not contrary to reason to prefer one's own ruin to the slightest unease of another, for a desire is neither true nor false. Overturning the Socratic and Stoic intellectualism that made passions errors of judgement, Hume defends a sentimentalism in which reason is subordinate to affect in everything bearing on action and moral judgement.
 
-> “Reason is, and ought only to be the slave of the passions, and can never pretend to any other office than to serve and obey them.” (A Treatise of Human Nature, II, III, 3)
+> “Reason is, and ought only to be the slave of the passions, and can never pretend to any other office than to serve and obey them.”, A Treatise of Human Nature, II, III, 3
 
 *Sources : A Treatise of Human Nature, II, part III, sect. 3 (of the influencing motives of the will)*
 
@@ -146,7 +146,7 @@ Ethics of care 60% · Consequentialism 20% · Virtue ethics 20%
 
 The distinction of good and evil arises from a sentiment of approval or disapproval, not from a deduction of reason: morality is felt more than judged. This sentiment is rooted in sympathy, the capacity to share others' affects, which makes us approve qualities useful and agreeable to oneself and to others. Hence an ethics of care and sentiment, with a virtue component (qualities of character) and a consequentialist concern for utility.
 
-> “Morality is more properly felt than judg'd of.” (A Treatise of Human Nature, III, I, 2)
+> “Morality is more properly felt than judg'd of.”, A Treatise of Human Nature, III, I, 2
 
 *Sources : Enquiry Concerning the Principles of Morals, sect. I and IX (moral sentiment, utility) · A Treatise of Human Nature, III, part I, sect. 1-2 (morals not derived from reason)*
 
@@ -168,7 +168,7 @@ Evidentialism 100%
 
 Since every factual belief rests on experience, its firmness should be measured by the evidence: to believe beyond what the evidence warrants is an epistemic fault. Hume turns this into a weapon against miracles: a miracle is by definition a violation of the laws of nature, and those laws are established by uniform experience, hence by the fullest proof there is. The weight of contrary experience is therefore maximal; no testimony can overcome it, unless its falsehood would be more miraculous still than the reported fact, which never occurs. The argument does not deny the supernatural a priori: it shows that a mind ruled by evidence cannot assent to it.
 
-> “A wise man proportions his belief to the evidence.” (Enquiry Concerning Human Understanding, sect. X)
+> “A wise man, therefore, proportions his belief to the evidence.”, Enquiry Concerning Human Understanding, sect. X
 
 *Sources : Enquiry Concerning Human Understanding, sect. X (of miracles)*
 
@@ -270,7 +270,7 @@ Subjective beauty 85% · Objective beauty 15%
 
 Beauty is no quality of things but exists in the mind that contemplates them: it reduces to a sentiment of pleasure, like moral worth. Hume does not infer sheer arbitrariness: a “standard of taste” emerges from the verdict of experienced, delicate critics, which tempers the subjectivism without overturning it.
 
-> “Beauty is no quality in things themselves: it exists merely in the mind which contemplates them; and each mind perceives a different beauty.” (Essays, "Of the Standard of Taste")
+> “Beauty is no quality in things themselves: it exists merely in the mind which contemplates them; and each mind perceives a different beauty.”, Essays, "Of the Standard of Taste"
 
 *Sources : Essays, "Of the Standard of Taste"*
 

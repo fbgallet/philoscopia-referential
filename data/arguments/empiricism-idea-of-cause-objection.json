@@ -1,0 +1,141 @@
+{
+  "id": "empiricism-idea-of-cause-objection",
+  "kind": "OBJECTS",
+  "position": {
+    "axisId": "KNOWLEDGE_SOURCE",
+    "poleId": "EMPIRICISM"
+  },
+  "name": {
+    "fr": "D'où vient l'idée de cause ?",
+    "en": "Where does the idea of cause come from?"
+  },
+  "attacks": "POSITION",
+  "claim": {
+    "fr": "Nous ne voyons jamais qu'une chose en suivre une autre, jamais le lien nécessaire : d'où vient alors l'idée de cause, que l'expérience ne montre pas ?",
+    "en": "We never see more than one thing following another, never the necessary link: where, then, does the idea of cause come from, which experience never shows?"
+  },
+  "summary": {
+    "fr": "L'empirisme veut ramener toute idée à une impression ; mais l'idée de connexion nécessaire, qui porte sur tous les cas à venir, ne se lit dans aucune suite de cas observés. Quelque chose est ajouté par l'esprit.",
+    "en": "Empiricism would trace every idea to an impression; but the idea of necessary connection, which reaches to all cases to come, is read in no series of observed cases. Something is added by the mind."
+  },
+  "development": [
+    {
+      "fr": "L'empirisme promet de ramener toute idée à une impression des sens. Mettons-le à l'épreuve sur l'idée de cause : quand une bille en pousse une autre, que percevons-nous exactement ?",
+      "en": "Empiricism promises to trace every idea back to a sense impression. Let us test it on the idea of cause: when one ball strikes another, what exactly do we perceive?"
+    },
+    {
+      "fr": "Deux mouvements qui se suivent, une conjonction constante, mais jamais la force qui produirait l'un par l'autre, ni le lien nécessaire entre eux. L'œil ne voit aucun « il faut » : la nécessité ne se perçoit pas.",
+      "en": "Two motions in succession, a constant conjunction, but never the force that would produce one by the other, nor the necessary link between them. The eye sees no 'must': necessity is not perceived."
+    },
+    {
+      "fr": "Pourtant nous jugeons que la cause produit nécessairement l'effet, et ce jugement vaut pour tous les cas à venir. Or une telle nécessité universelle ne peut se lire dans une collection de cas particuliers et passés : quelque chose y est ajouté qui ne vient pas des sens.",
+      "en": "Yet we judge that the cause necessarily produces the effect, and that judgment holds for all cases to come. But such universal necessity cannot be read off a collection of particular, past cases: something is added that does not come from the senses."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc ou l'idée de connexion nécessaire est une illusion (Hume), ou l'esprit l'apporte de son fonds (Kant) : dans les deux cas, l'expérience seule ne suffit pas à fonder le savoir.",
+    "en": "So either the idea of necessary connection is an illusion (Hume), or the mind supplies it from its own resources (Kant): in either case, experience alone does not suffice to ground knowledge."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": {
+      "fr": "Hume ; Kant",
+      "en": "Hume; Kant"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Hume",
+          "en": "Hume"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "hume"
+      },
+      {
+        "name": {
+          "fr": "Kant",
+          "en": "Kant"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "kant"
+      }
+    ],
+    "work": {
+      "fr": "Traité de la nature humaine, I, iii, 14",
+      "en": "A Treatise of Human Nature, I.iii.14"
+    },
+    "workId": "treatise-of-human-nature-hume"
+  },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est juste : la nécessité que je prête aux causes ne se voit pas. Elle doit venir de l'esprit, qui met en forme ce que les sens lui livrent, plutôt que de l'expérience seule.",
+        "en": "True: the necessity I ascribe to causes is not seen. It must come from the mind, which gives form to what the senses supply, rather than from experience alone."
+      },
+      "hints": [
+        {
+          "axisId": "KNOWLEDGE_SOURCE",
+          "value": {
+            "kind": "scalar",
+            "value": 0
+          },
+          "weight": 2
+        }
+      ],
+      "discussion": {
+        "fr": "Vous glissez vers le criticisme de <ph id='kant'>Kant</ph> : la causalité est une forme que l'entendement impose, non une donnée reçue.",
+        "en": "You slide toward <ph id='kant'>Kant</ph>'s criticism: causality is a form the understanding imposes, not a datum received."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je garde l'empirisme, mais j'accorde que certaines idées, comme la cause ou l'infini, résistent à l'analyse simple : l'expérience reste la source, sans tout expliquer d'un coup.",
+        "en": "I keep empiricism, but grant that some ideas, like cause or infinity, resist simple analysis: experience remains the source, without explaining everything at once."
+      },
+      "hints": [
+        {
+          "axisId": "KNOWLEDGE_SOURCE",
+          "value": {
+            "kind": "scalar",
+            "value": -0.5
+          },
+          "weight": 1
+        }
+      ],
+      "discussion": {
+        "fr": "Vous tenez un empirisme assoupli : la source reste l'expérience, mais vous laissez ouverte la façon dont l'esprit élabore ce qu'elle donne.",
+        "en": "You hold a loosened empiricism: the source stays experience, but you leave open how the mind works up what it gives."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : l'idée de cause n'ajoute rien de mystérieux. C'est une habitude, l'attente formée par la répétition. Nous ne connaissons pas une nécessité, nous anticipons, et cela vient encore de l'expérience.",
+        "en": "I refute it: the idea of cause adds nothing mysterious. It is a habit, the expectation formed by repetition. We do not know a necessity, we anticipate, and that too comes from experience."
+      },
+      "hints": [
+        {
+          "axisId": "KNOWLEDGE_SOURCE",
+          "value": {
+            "kind": "scalar",
+            "value": -1
+          },
+          "weight": 0.5
+        }
+      ],
+      "discussion": {
+        "fr": "Vous tenez la réponse de <ph id='hume'>Hume</ph> lui-même : pas d'idée innée de cause, mais une coutume de l'esprit, produit de l'expérience répétée.",
+        "en": "You hold <ph id='hume'>Hume</ph>'s own reply: no innate idea of cause, but a custom of the mind, the product of repeated experience."
+      }
+    }
+  ],
+  "problems": [
+    "idea-of-cause"
+  ],
+  "targets": [
+    "empiricism-tabula-rasa"
+  ],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
+}

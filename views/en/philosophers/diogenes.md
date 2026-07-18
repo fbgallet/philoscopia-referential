@@ -34,7 +34,7 @@ What is up to us 98% · Prometheanism 3%
 
 One is free only in proportion to what one can do without: every need is a hold that the world, fortune or the powerful have on us. Hence [autarkeia](../glossary/autarkeia.md) (self-sufficiency) as the goal, living so that nothing external is necessary and no one therefore holds anything we depend on. When Alexander, master of the known world, offered to grant him any wish, Diogenes asked only that he stand out of his sunlight: the most destitute of men, if he desires nothing, is more invulnerable than the mightiest of kings, who remains at the mercy of what he owns. The Stoics would later take up this operation as the [dichotomy](../axes/control-scope.md) of control, but Diogenes carries it out through deeds and destitution rather than inner judgment, without turning it into a settled thesis.
 
-> “"Ask of me any boon you like." "Stand out of my sunlight."” (Diogenes Laertius, Lives, VI, 38)
+> “"Ask of me any boon you like." "Stand out of my sunlight."”, Diogenes Laertius, Lives, VI, 38
 
 *Sources : Diogenes Laertius, Lives, VI, 38*
 
@@ -56,7 +56,7 @@ Cosmopolitanism 98% · Communitarianism and patriotism 3%
 
 If the borders of cities are only [nomos](../glossary/physis-nomos.md), convention without grounding in nature, none can command the allegiance of a rational being: a city has no more natural claim on me than the accident of my birth. Hence the word [kosmopolitēs](../glossary/cosmopolitanism.md) that Diogenes is the first to take for himself, a citizen of the world: not love of an enlarged homeland, but the refusal to acknowledge any, all of humanity taken as the only horizon. The provocation strikes at Greek civic pride, which counted the exile as fallen: the banished man of Sinope turns his condition into a claim. The Stoics would inherit the word, but back it with a cosmic city ordered by the [logos](../glossary/logos.md); in Diogenes it stays first of all a gesture of refusal, with no cosmology.
 
-> “When asked where he came from, he said: "I am a citizen of the world."” (Diogenes Laertius, Lives, VI, 63)
+> “When asked where he came from, he said: "I am a citizen of the world."”, Diogenes Laertius, Lives, VI, 63
 
 *Sources : Diogenes Laertius, Lives, VI, 63*
 
@@ -98,7 +98,7 @@ Primacy of action 93% · The examined life 7%
 
 Since philosophy's sole object is to live well, and living well is a matter of conduct, physics, logic and learned disputation are wasted time: one does not become temperate by defining temperance. Hence the primacy of [praxis](../glossary/praxis.md) over theory, which is not lack of culture but consistency. A thesis is refuted by an act as much as by an argument: hearing motion denied, Diogenes, for all reply, stood up and walked. The gesture serves as demonstration, and the sage's life, exposed in public, stands in for a treatise.
 
-> “When someone argued that there is no such thing as motion, he got up and walked about.” (Diogenes Laertius, Lives, VI, 39)
+> “When someone argued that there is no such thing as motion, he got up and walked about.”, Diogenes Laertius, Lives, VI, 39
 
 *Sources : Diogenes Laertius, Lives, VI, 39 and 70-71*
 
@@ -130,7 +130,7 @@ Anarchism 90% · Authority 10%
 
 If institutions, magistracies and civic honours are only [nomos](../glossary/physis-nomos.md), then no established authority holds a natural title to command: Diogenes despises the powerful, mocks the assemblies, and recognises order in nature alone. The distrust comes with no political project to replace what it rejects: by analogy one may read in it an anarchism of the self-sufficient individual rather than a doctrine of the city, and the position stays inferred from anecdotes more than asserted as a thesis. His lamp in broad daylight, searching for a man, is aimed first at the figures of power and reputation.
 
-> “He lit a lamp in broad daylight and said: "I am looking for a man."” (Diogenes Laertius, Lives, VI, 41)
+> “He lit a lamp in broad daylight and said: "I am looking for a man."”, Diogenes Laertius, Lives, VI, 41
 
 *Sources : Diogenes Laertius, Lives, VI, 41*
 

@@ -85,7 +85,7 @@ Pragmatisme 75% · Cohérence 15% · Correspondance 10%
 
 Demander d'une idée si elle « copie » fidèlement un réel donné est, pour James, un faux problème : une copie qu'on ne saurait confronter à son modèle ne fait aucune différence repérable. Reste alors un seul critère opérant : une idée est vraie si, mise à l'épreuve, elle nous guide sans heurt à travers l'expérience, relie nos croyances et tient ses promesses. Le vrai devient ainsi un **processus**, ce qui se vérifie dans le cours de l'enquête, et non une propriété déjà inscrite dans l'énoncé. La thèse vise le réalisme de la correspondance partagé par le [rationalisme](../movements/rationalism.md) comme par l'[empirisme](../movements/empiricism.md) classique : Peirce la tempère pourtant en plaçant à l'horizon de l'enquête indéfiniment poursuivie une opinion finale sur laquelle les chercheurs convergeraient, ce qui réintroduit une forme régulatrice de réalité.
 
-> « Le vrai, pour le dire très brièvement, n'est que ce qui nous réussit dans l'ordre de la pensée. » (James, Le Pragmatisme, leçon VI)
+> « Le vrai, pour le dire très brièvement, n'est que ce qui nous réussit dans l'ordre de la pensée. », Le Pragmatisme, leçon VI
 
 *Sources : Peirce, « Comment rendre nos idées claires » (1878) · James, Le Pragmatisme (1907), leçons II et VI*
 

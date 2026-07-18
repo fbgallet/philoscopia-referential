@@ -1,0 +1,84 @@
+{
+  "id": "anthropocentrism-marginal-cases-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "MORAL_CIRCLE", "poleId": "ANTHROPOCENTRISM" },
+  "name": { "fr": "L'argument des cas marginaux", "en": "The argument from marginal cases" },
+  "attacks": "REASONING",
+  "claim": {
+    "fr": "Si la raison est le critère, alors les nourrissons et les grands handicapés mentaux n'y satisfont pas non plus, et pourtant ils comptent pleinement.",
+    "en": "If reason is the criterion, then infants and the severely cognitively impaired do not meet it either, and yet they count fully."
+  },
+  "summary": {
+    "fr": "L'anthropocentrisme fait de la raison le critère du statut moral ; mais bien des humains n'y satisfont pas. Ou l'on les exclut, ce que nul n'accepte, ou on les inclut par la sensibilité qu'ils partagent avec les bêtes, et le critère vaut alors aussi pour celles-ci.",
+    "en": "Anthropocentrism makes reason the criterion of moral status; but many humans do not meet it. Either we exclude them, which no one accepts, or we include them through the sentience they share with animals, and the criterion then holds for animals too."
+  },
+  "development": [
+    {
+      "fr": "L'argument fait de la raison, de l'agir responsable, le critère du statut moral plein.",
+      "en": "The argument makes reason, responsible agency, the criterion of full moral status."
+    },
+    {
+      "fr": "Mais bien des humains n'y satisfont pas : nourrissons, personnes atteintes de démence profonde, grands handicapés mentaux ne peuvent ni promettre, ni répondre de leurs actes. Nous leur reconnaissons pourtant une pleine dignité.",
+      "en": "But many humans do not meet it: infants, people with advanced dementia, the severely cognitively impaired can neither promise nor answer for their acts. We nonetheless grant them full dignity."
+    },
+    {
+      "fr": "Ou bien l'on maintient le critère et l'on exclut ces humains, ce que nul n'accepte ; ou bien on les inclut par ce qu'ils partagent avec les animaux, la capacité de souffrir et de jouir, et ce critère vaut alors aussi pour les bêtes.",
+      "en": "Either one keeps the criterion and excludes these humans, which no one accepts; or one includes them through what they share with animals, the capacity to suffer and to enjoy, and that criterion then holds for animals too."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la raison ne peut être le vrai critère : ce qui fait entrer dans le cercle moral n'est pas de raisonner, mais de pouvoir souffrir, et cela, bien des animaux le peuvent.",
+    "en": "So reason cannot be the real criterion: what brings a being into the moral circle is not reasoning but the capacity to suffer, and that many animals have."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": { "fr": "Singer, Ryder", "en": "Singer, Ryder" },
+    "figures": [
+      { "name": { "fr": "Singer", "en": "Singer" }, "kind": "PHILOSOPHER", "slug": "singer" },
+      { "name": { "fr": "Ryder", "en": "Ryder" }, "kind": "PHILOSOPHER", "slug": "ryder" }
+    ],
+    "work": { "fr": "La Libération animale", "en": "Animal Liberation" },
+    "year": 1975
+  },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est vrai : si je protège le nourrisson qui ne raisonne pas encore, je ne peux plus exclure l'animal qui souffre au nom de la raison. Le critère, c'est la sensibilité.",
+        "en": "True: if I protect the infant who cannot yet reason, I can no longer exclude the animal that suffers in the name of reason. The criterion is sentience."
+      },
+      "hints": [{ "axisId": "MORAL_CIRCLE", "value": { "kind": "weights", "weights": [0.05, 0.75, 0.15, 0.05] }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous rejoignez <ph id='singer'>Singer</ph> : la frontière morale est la sensibilité, et la privilégier par l'espèce est un spécisme.",
+        "en": "You join <ph id='singer'>Singer</ph>: the moral boundary is sentience, and privileging by species is a speciesism."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "J'accorde une considération aux animaux sensibles, mais je maintiens une différence de degré : la personne garde une dignité que la seule sensibilité ne donne pas.",
+        "en": "I grant consideration to sentient animals, but I maintain a difference of degree: the person keeps a dignity that sentience alone does not confer."
+      },
+      "hints": [{ "axisId": "MORAL_CIRCLE", "value": { "kind": "weights", "weights": [0.4, 0.5, 0.1, 0] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Un anthropocentrisme adouci : les animaux comptent, mais moins ; la hiérarchie demeure, sans être une exclusion.",
+        "en": "A softened anthropocentrism: animals count, but less; the hierarchy remains, without being an exclusion."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Le nourrisson et le grand malade appartiennent à une espèce rationnelle et sont pris dans des liens humains : c'est comme membres de la communauté des personnes qu'ils comptent, non comme simples êtres sensibles.",
+        "en": "The infant and the gravely ill belong to a rational species and are held in human bonds: it is as members of the community of persons that they count, not as mere sentient beings."
+      },
+      "hints": [{ "axisId": "MORAL_CIRCLE", "value": { "kind": "weights", "weights": [0.85, 0.12, 0.03, 0] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "La réponse par la « norme d'espèce » : on compte comme membre d'un genre rationnel, même quand on n'en exerce pas la raison.",
+        "en": "The 'species norm' reply: one counts as a member of a rational kind, even when not exercising its reason."
+      }
+    }
+  ],
+  "targets": ["anthropocentrism-dignity"],
+  "problems": ["species-privilege", "moral-status-criterion"],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

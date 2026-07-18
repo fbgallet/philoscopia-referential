@@ -24,7 +24,7 @@ Scepticisme 100%
 
 Le sceptique constate qu'à toute affirmation s'oppose une affirmation de force égale : c'est [l'équipollence](../glossary/isostheneia.md) (isosthéneia) des raisons contraires. N'ayant aucun moyen de trancher, il [suspend son jugement](../glossary/epoche.md) (épochè), non par décision mais parce que le conflit non résolu l'y contraint. Sextus systématise ce mécanisme dans les [tropes](../glossary/skeptical-modes.md) hérités d'Énésidème et d'Agrippa, qui poussent toute prétention au savoir vers la régression à l'infini, le cercle ou l'arrêt arbitraire. Là où [Descartes](../philosophers/descartes.md) fera du doute une étape vers le fondement, Sextus en fait une demeure : aucune certitude définitive n'est accessible, et le sceptique pousse la prudence jusqu'à ne pas même affirmer dogmatiquement qu'il n'y a pas de certitude.
 
-> « À toute raison s'oppose une raison de force égale. » (Esquisses pyrrhoniennes, I, 12)
+> « À toute raison s'oppose une raison de force égale. », Esquisses pyrrhoniennes, I, 12
 
 *Sources : Esquisses pyrrhoniennes, I, 8 et 12 · Esquisses pyrrhoniennes, I, 164-169 (les cinq tropes d'Agrippa)*
 
@@ -74,7 +74,7 @@ Eudémonisme 85% · Hédonisme 15%
 
 La fin que vise le sceptique est [l'ataraxie](../glossary/ataraxia.md), l'absence de trouble dans les opinions, accompagnée de la [métriopathie](../glossary/metriopatheia.md), la modération des affections inévitables. Mais le trait remarquable est qu'elle n'est pas poursuivie comme un bien par nature, ce qui serait déjà une thèse dogmatique : Sextus rapporte que la tranquillité survient à qui suspend son jugement, comme l'ombre suit le corps, par une chance que le sceptique constate après coup. Ce n'est ni l'hédonisme du plaisir ni le perfectionnisme de la vertu, mais une forme de vie heureuse obtenue par soustraction, en cessant de tenir les choses pour bonnes ou mauvaises en elles-mêmes.
 
-> « La tranquillité suivit la suspension du jugement comme l'ombre suit le corps. » (Esquisses pyrrhoniennes, I, 29)
+> « La tranquillité suivit la suspension du jugement comme l'ombre suit le corps. », Esquisses pyrrhoniennes, I, 29
 
 *Sources : Esquisses pyrrhoniennes, I, 25-30 (le but du scepticisme)*
 

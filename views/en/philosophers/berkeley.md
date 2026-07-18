@@ -24,7 +24,7 @@ Idealism 100%
 
 Berkeley starts from a simple empiricist remark: whatever I have an idea of, I have it through the senses, hence as a perception. But to posit, behind my perceptions, a matter that would exist without being perceived is to posit the idea of a thing of which, by definition, I can have no idea: a contradiction. He thus turns [Locke](../philosophers/locke.md)'s empiricism against matter itself: what we call bodies is only an ordered collection of sensible ideas, and for them to exist is to be perceived. What remains is that which perceives, the mind, the one genuine substance. Far from denying the world, he claims to save it from scepticism by removing the veil of an unknowable matter set between us and it.
 
-> “Their being is to be perceived; nor is it possible they should have any existence out of the minds which perceive them.” (Principles of Human Knowledge, §3)
+> “Their being is to be perceived; nor is it possible they should have any existence out of the minds which perceive them.”, Principles of Human Knowledge, §3
 
 *Sources : Principles of Human Knowledge, §§3-7 · Three Dialogues between Hylas and Philonous, I*
 

@@ -95,6 +95,134 @@
     "FUTURE_GENERATIONS",
     "HUMAN_ENHANCEMENT",
     "MORAL_CIRCLE",
-    "TECHNOLOGY"
+    "TECHNOLOGY",
+    "MORAL_SCOPE"
+  ],
+  "problems": [
+    {
+      "id": "last-man",
+      "resolution": "SURFACED",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "le monde vivant", "en": "the living world" },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "MORAL",
+      "keywords": [
+        { "fr": "valeur intrinsèque de la nature", "en": "intrinsic value of nature" },
+        { "fr": "chauvinisme humain", "en": "human chauvinism" },
+        { "fr": "anthropocentrisme", "en": "anthropocentrism" }
+      ],
+      "poles": ["MASTERY", "STEWARDSHIP", "MEMBER_AMONG_OTHERS"],
+      "anchors": [
+        { "name": { "fr": "Routley (Sylvan)", "en": "Routley (Sylvan)" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "Næss", "en": "Næss" }, "kind": "PHILOSOPHER", "slug": "naess" },
+        { "name": { "fr": "éthique de l'environnement", "en": "environmental ethics" }, "kind": "MOVEMENT", "slug": "environmental-ethics" }
+      ],
+      "doorways": [{ "axis": "MORAL_CIRCLE", "problem": "individual-or-whole" }],
+      "title": { "fr": "Le dernier homme", "en": "The last man" },
+      "explicitation": {
+        "fr": "Si le dernier être humain pouvait, en mourant, anéantir sans témoin toute vie restante, commettrait-il une faute ? La nature n'a-t-elle de valeur que pour nous, ou vaut-elle par elle-même, indépendamment de tout regard humain ?",
+        "en": "If the last human being could, as he died, wipe out all remaining life with no witness, would he do wrong? Does nature have worth only for us, or does it have worth in itself, independent of any human gaze?"
+      },
+      "ref": { "kind": "THOUGHT_EXPERIMENT", "id": "last-man" }
+    },
+    {
+      "id": "a-creature-apart",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": { "fr": "l'être humain", "en": "the human being" },
+      "mode": "DESCRIPTIVE",
+      "keywords": [
+        { "fr": "dignité de l'homme", "en": "the dignity of man" },
+        { "fr": "rupture ou continuité", "en": "rupture or continuity" },
+        { "fr": "l'homme, partie de la nature", "en": "the human as part of nature" }
+      ],
+      "poles": ["MASTERY", "MEMBER_AMONG_OTHERS"],
+      "anchors": [
+        { "name": { "fr": "Pic de la Mirandole", "en": "Pico della Mirandola" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "Descartes", "en": "Descartes" }, "kind": "PHILOSOPHER", "slug": "descartes" },
+        { "name": { "fr": "Spinoza", "en": "Spinoza" }, "kind": "PHILOSOPHER", "slug": "spinoza" },
+        { "name": { "fr": "Darwin", "en": "Darwin" }, "kind": "PHILOSOPHER" }
+      ],
+      "title": { "fr": "Une créature à part ?", "en": "A creature apart?" },
+      "explicitation": {
+        "fr": "L'homme est-il un être à part, tenu par la raison et l'esprit au-dessus de la nature et porteur d'une dignité singulière, ou un vivant issu d'elle, continu avec l'animal et soumis comme lui à ses lois ? La posture qu'on adopte en dépend.",
+        "en": "Is the human a being apart, held by reason and spirit above nature and bearing a singular dignity, or a living creature sprung from it, continuous with the animal and subject like it to its laws? The posture one adopts turns on this."
+      }
+    },
+    {
+      "id": "domination-of-nature",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "la nature comme ressource", "en": "nature as a resource" },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "VITAL",
+      "keywords": [
+        { "fr": "commander à la nature en lui obéissant", "en": "to command nature by obeying it" },
+        { "fr": "arraisonnement", "en": "enframing (Gestell)" },
+        { "fr": "dialectique de la raison", "en": "dialectic of enlightenment" }
+      ],
+      "poles": ["MASTERY", "STEWARDSHIP"],
+      "anchors": [
+        { "name": { "fr": "Bacon", "en": "Bacon" }, "kind": "PHILOSOPHER", "slug": "bacon" },
+        { "name": { "fr": "Heidegger", "en": "Heidegger" }, "kind": "PHILOSOPHER", "slug": "heidegger" },
+        { "name": { "fr": "Descartes", "en": "Descartes" }, "kind": "PHILOSOPHER", "slug": "descartes" },
+        { "name": { "fr": "Adorno", "en": "Adorno" }, "kind": "PHILOSOPHER" }
+      ],
+      "doorways": [{ "axis": "TECHNOLOGY", "problem": "mastering-nature" }],
+      "title": { "fr": "La domination de la nature", "en": "The domination of nature" },
+      "explicitation": {
+        "fr": "Commander à la nature en la comprenant a fait reculer la faim et la maladie ; mais la volonté de la dominer ne se retourne-t-elle pas en domination de l'homme, réduisant le monde à un simple stock disponible ? La maîtrise émancipe-t-elle, ou appauvrit-elle à la fois la nature et nous ?",
+        "en": "To command nature by understanding it has pushed back hunger and disease; but does the will to dominate it not turn into the domination of humankind, reducing the world to a mere stock on call? Does mastery emancipate, or does it impoverish both nature and ourselves?"
+      }
+    },
+    {
+      "id": "sanctuary-or-garden",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": { "fr": "une nature sauvage", "en": "wild nature" },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "AESTHETIC",
+      "keywords": [
+        { "fr": "nature sauvage", "en": "wilderness" },
+        { "fr": "jardin planétaire", "en": "the planetary garden" },
+        { "fr": "réensauvagement", "en": "rewilding" },
+        { "fr": "la fin de la nature", "en": "the end of nature" }
+      ],
+      "poles": ["STEWARDSHIP", "MEMBER_AMONG_OTHERS"],
+      "anchors": [
+        { "name": { "fr": "Thoreau", "en": "Thoreau" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "Gilles Clément", "en": "Gilles Clément" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "éthique de l'environnement", "en": "environmental ethics" }, "kind": "MOVEMENT", "slug": "environmental-ethics" }
+      ],
+      "doorways": [{ "axis": "MORAL_CIRCLE", "problem": "wild-animal-suffering" }],
+      "title": { "fr": "Sanctuaire ou jardin", "en": "Sanctuary or garden" },
+      "explicitation": {
+        "fr": "Faut-il laisser la nature sauvage et intacte, préserver la part que nous n'avons pas faite, ou l'idéal est-il une nature soignée et jardinée, que le soin humain achève au lieu de la violer ? Et reste-t-il seulement une nature « intacte » à sauver ?",
+        "en": "Should nature be left wild and untouched, preserving the part we did not make, or is the ideal a tended, gardened nature that human care completes rather than violates? And is there any \"untouched\" nature left to save at all?"
+      }
+    },
+    {
+      "id": "following-nature",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "l'ordre naturel", "en": "the natural order" },
+      "mode": "DESCRIPTIVE",
+      "keywords": [
+        { "fr": "vivre selon la nature", "en": "live according to nature" },
+        { "fr": "sophisme naturaliste", "en": "the naturalistic fallacy" },
+        { "fr": "équilibre de la nature", "en": "the balance of nature" }
+      ],
+      "poles": ["MEMBER_AMONG_OTHERS", "MASTERY"],
+      "anchors": [
+        { "name": { "fr": "les stoïciens", "en": "the Stoics" }, "kind": "MOVEMENT", "slug": "stoicism" },
+        { "name": { "fr": "Mill", "en": "Mill" }, "kind": "PHILOSOPHER", "slug": "mill" }
+      ],
+      "doorways": [{ "axis": "MORAL_SCOPE", "problem": "found-imposed-or-made" }],
+      "title": { "fr": "Faut-il suivre la nature ?", "en": "Should we follow nature?" },
+      "explicitation": {
+        "fr": "La nature est-elle un ordre sage qu'il faut imiter et respecter, ou une puissance aveugle qui broie et affame sans égard pour le bien ? Dire d'une chose qu'elle est naturelle nous apprend-il quoi que ce soit sur sa valeur ?",
+        "en": "Is nature a wise order to imitate and respect, or a blind power that crushes and starves with no regard for the good? Does calling something natural tell us anything at all about its worth?"
+      }
+    }
   ]
 }

@@ -100,16 +100,7 @@
           "fr": "Le modèle est la physique de <per>Newton</per> : une poignée de lois mathématiques rend raison de tout le système du monde, sans qualités occultes ni fin providentielle. Les Lumières érigent cette réussite en méthode universelle, ce que la raison expérimentale a fait pour les cieux, elle peut le faire pour la morale, la politique et la religion. Aucune autorité, tradition, coutume ou révélation, n'est soustraite à l'examen ; tout doit comparaître devant le tribunal de la raison. Ce n'est pas encore le <c>scientisme</c> de <ph id='comte'>Comte</ph>, qui fera de la science positive la seule connaissance, mais la science y devient le paradigme du savoir légitime et le levier de l'émancipation.",
           "en": "The model is the physics of <per>Newton</per>: a handful of mathematical laws accounts for the whole system of the world, with no occult qualities or providential ends. The Enlightenment turns this success into a universal method; what experimental reason has done for the heavens it can do for morals, politics and religion. No authority, tradition, custom or revelation is exempt from examination; everything must appear before the tribunal of reason. This is not yet the <c>scientism</c> of <ph id='comte'>Comte</ph>, which will make positive science the only knowledge, but science here becomes the paradigm of legitimate knowledge and the lever of emancipation."
         },
-        "quote": {
-          "text": {
-            "fr": "Sapere aude ! Aie le courage de te servir de ton propre entendement : telle est la devise des Lumières.",
-            "en": "Sapere aude! Have the courage to use your own understanding: that is the motto of the Enlightenment."
-          },
-          "source": {
-            "fr": "Kant, Qu'est-ce que les Lumières ? (1784)",
-            "en": "Kant, What Is Enlightenment? (1784)"
-          }
-        },
+        "quoteId": "sapere-aude-aie-le-courage-de-kant",
         "references": [
           { "fr": "Kant, Qu'est-ce que les Lumières ?", "en": "Kant, What Is Enlightenment?" },
           { "fr": "d'Alembert, Discours préliminaire de l'Encyclopédie", "en": "d'Alembert, Preliminary Discourse to the Encyclopédie" }
@@ -218,16 +209,7 @@
           "fr": "De l'accumulation des connaissances et de la diffusion des lumières, le courant tire une thèse neuve : l'humanité avance, et cette marche peut être consciente et voulue. Les institutions et les lois ne sont pas sacrées du seul fait d'être anciennes ; elles doivent prouver leur utilité présente, faute de quoi la réforme est légitime. <ph id='condorcet'>Condorcet</ph> pousse l'idée jusqu'à une loi de l'histoire, l'esprit humain progressant par étapes vers la vérité, la liberté et le bonheur. Contre ce credo, <ph id='burke'>Burke</ph> dressera la sagesse accumulée de la tradition : c'est l'acte de naissance du clivage entre progressisme et conservatisme.",
           "en": "From the accumulation of knowledge and the spread of enlightenment the current draws a new thesis: humanity advances, and that march can be conscious and willed. Institutions and laws are not sacred merely for being old; they must prove their present usefulness, failing which reform is legitimate. <ph id='condorcet'>Condorcet</ph> pushes the idea to a law of history, the human mind progressing by stages toward truth, liberty and happiness. Against this creed <ph id='burke'>Burke</ph> will set the accumulated wisdom of tradition: this is the birth certificate of the divide between progressivism and conservatism."
         },
-        "quote": {
-          "text": {
-            "fr": "La perfectibilité de l'homme est réellement indéfinie ; et le progrès de cette perfectibilité n'a d'autre terme que la durée du globe où la nature nous a jetés.",
-            "en": "The perfectibility of man is truly indefinite; and the progress of this perfectibility has no other limit than the duration of the globe on which nature has placed us."
-          },
-          "source": {
-            "fr": "Condorcet, Esquisse d'un tableau historique des progrès de l'esprit humain (1795)",
-            "en": "Condorcet, Sketch for a Historical Picture of the Progress of the Human Mind (1795)"
-          }
-        },
+        "quoteId": "la-perfectibilite-de-l-homme-est-condorcet",
         "references": [
           { "fr": "Condorcet, Esquisse d'un tableau historique des progrès de l'esprit humain", "en": "Condorcet, Sketch for a Historical Picture of the Progress of the Human Mind" },
           { "fr": "Turgot, Discours sur les progrès successifs de l'esprit humain", "en": "Turgot, On the Successive Advances of the Human Mind" }
@@ -264,16 +246,7 @@
           "fr": "Avant toute société et toute loi positive, l'homme possède en propre, du seul fait de sa nature raisonnable, des droits que nul pouvoir n'a conférés et que nul ne peut légitimement abolir : à la vie, à la liberté, à la propriété de sa personne. <ph id='locke'>Locke</ph> en fait la mesure de tout gouvernement, institué seulement pour les garantir. Ces droits sont universels parce qu'ils découlent d'une humanité commune, non des privilèges d'un ordre ou d'une naissance : c'est l'arme contre l'absolutisme et la société d'ordres, que la Déclaration de 1789 gravera dans le droit, « <q>les hommes naissent et demeurent libres et égaux en droits</q> ». <ph id='bentham'>Bentham</ph>, de l'intérieur du siècle, objectera pourtant qu'un droit sans loi positive n'est qu'un « non-sens sur échasses ».",
           "en": "Prior to all society and all positive law, man possesses as his own, by the mere fact of his rational nature, rights that no power has conferred and that none may legitimately abolish: to life, to liberty, to the property of his own person. <ph id='locke'>Locke</ph> makes them the measure of every government, instituted only to secure them. These rights are universal because they flow from a common humanity, not from the privileges of an order or a birth: this is the weapon against absolutism and the society of estates, which the Declaration of 1789 will inscribe into law, « <q>men are born and remain free and equal in rights</q> ». <ph id='bentham'>Bentham</ph>, from within the century, will nonetheless object that a right without positive law is mere « nonsense upon stilts »."
         },
-        "quote": {
-          "text": {
-            "fr": "Étant tous égaux et indépendants, nul ne doit nuire à un autre dans sa vie, sa santé, sa liberté ou ses biens.",
-            "en": "Being all equal and independent, no one ought to harm another in his life, health, liberty, or possessions."
-          },
-          "source": {
-            "fr": "Locke, Second traité du gouvernement, §6",
-            "en": "Locke, Second Treatise of Government, §6"
-          }
-        },
+        "quoteId": "etant-tous-egaux-et-independants-nul-locke",
         "references": [
           { "fr": "Locke, Deux traités du gouvernement, II", "en": "Locke, Two Treatises of Government, II" },
           { "fr": "Déclaration des droits de l'homme et du citoyen (1789)", "en": "Declaration of the Rights of Man and of the Citizen (1789)" }
@@ -310,16 +283,7 @@
           "fr": "La société politique n'est pas un ordre naturel ou voulu de Dieu, mais une institution humaine née de l'accord des individus : sa seule source de légitimité est le consentement des gouvernés, non la force ni la tradition ni le droit divin des rois. <ph id='locke'>Locke</ph> en fait un pacte révocable, que le peuple peut dénoncer si le pouvoir trahit sa fin ; <ph id='rousseau'>Rousseau</ph> en cherche la forme où, s'associant à tous, chacun « n'obéisse pourtant qu'à lui-même » et reste libre. Contre cette fiction fondatrice, <ph id='burke'>Burke</ph> opposera la communauté organique, héritée et non contractée : mais c'est le contractualisme qui fournit à l'âge des révolutions sa grammaire de la légitimité.",
           "en": "Political society is not a natural order or one willed by God, but a human institution born of the agreement of individuals: its sole source of legitimacy is the consent of the governed, not force, tradition or the divine right of kings. <ph id='locke'>Locke</ph> makes it a revocable pact that the people may renounce if power betrays its end; <ph id='rousseau'>Rousseau</ph> seeks the form in which, uniting with all, each « still obeys only himself » and remains free. Against this founding fiction <ph id='burke'>Burke</ph> will set the organic community, inherited rather than contracted: but it is contractualism that gives the age of revolutions its grammar of legitimacy."
         },
-        "quote": {
-          "text": {
-            "fr": "L'homme est né libre, et partout il est dans les fers.",
-            "en": "Man is born free, and everywhere he is in chains."
-          },
-          "source": {
-            "fr": "Rousseau, Du contrat social (1762), I, 1",
-            "en": "Rousseau, The Social Contract (1762), I, 1"
-          }
-        },
+        "quoteId": "l-homme-est-ne-libre-et-rousseau",
         "references": [
           { "fr": "Rousseau, Du contrat social", "en": "Rousseau, The Social Contract" },
           { "fr": "Locke, Deux traités du gouvernement, II", "en": "Locke, Two Treatises of Government, II" }

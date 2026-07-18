@@ -45,16 +45,7 @@
           "fr": "Tout jugement se prononce d'un point de vue, et chaque point de vue a son « ceci » et son « cela » : ce que l'un tient pour vrai, l'autre le tient pour faux, et nul tribunal neutre ne peut les départager sans être lui-même partie. Zhuangzi en tire un <pb>scepticisme à l'égard du savoir discursif</pb> : les controverses des <ph id='confucius'>confucéens</ph> et des mohistes s'annulent, le rêve ne se distingue pas sûrement de la veille, et l'on ignore même si l'on sait quelque chose. Mais ce doute n'est pas la suspension grecque visant la <c id='ataraxia'>tranquillité</c> : il est thérapeutique et libérateur, il dissout l'anxiété de devoir avoir raison pour laisser place à un savoir souple, accordé au cours des choses.",
           "en": "Every judgment is made from a standpoint, and each standpoint has its \"this\" and its \"that\": what one party holds true the other holds false, and no neutral tribunal can settle them without itself being a party. Zhuangzi draws from this a <pb>scepticism about discursive knowledge</pb>: the controversies of the <ph id='confucius'>Confucians</ph> and the Mohists cancel out, dream cannot be securely told from waking, and one does not even know whether one knows anything. Yet this doubt is not the Greek suspension aimed at <c id='ataraxia'>tranquillity</c>: it is therapeutic and liberating, dissolving the anxiety of having to be right so as to leave room for a supple knowing attuned to the course of things."
         },
-        "quote": {
-          "text": {
-            "fr": "Comment saurais-je que ce que j'appelle savoir n'est pas de l'ignorance, et que ce que j'appelle ignorance n'est pas du savoir ?",
-            "en": "How do I know that what I call knowing is not really ignorance, and what I call ignorance not really knowing?"
-          },
-          "source": {
-            "fr": "Zhuangzi, ch. 2 (Discours sur l'égalité des choses)",
-            "en": "Zhuangzi, ch. 2 (On the Equality of Things)"
-          }
-        },
+        "quoteId": "comment-saurais-je-que-ce-que-zhuangzi",
         "references": [
           {
             "fr": "Zhuangzi, ch. 2 (Discours sur l'égalité des choses)",
@@ -114,16 +105,7 @@
           "fr": "À la mort de sa femme, Zhuangzi chante en battant la mesure sur une jarre : pleurer serait ignorer le cours des choses. La mort n'est pas un néant à craindre ni le passage vers une âme immortelle, mais un moment de la <c id='hua'>transformation</c> incessante (hua) : les souffles se nouent en vie comme les saisons se succèdent, puis se dénouent et se reforment ailleurs. Qui sait si le mort ne se félicite pas, comme un exilé enfin rentré ? Cette sérénité par insertion dans le grand passage des formes croise l'apaisement épicurien, mais il s'y mêle l'idée que la matière vivante se recompose sans fin, ce qui n'est ni vraiment une extinction ni une immortalité personnelle.",
           "en": "At his wife's death Zhuangzi sings, drumming on a basin: to weep would be to ignore the course of things. Death is neither a nothingness to fear nor a passage toward an immortal soul, but a moment of ceaseless <c id='hua'>transformation</c> (hua): the vital breaths knot into life as the seasons follow one another, then unknot and reform elsewhere. Who knows whether the dead one is not rejoicing, like an exile come home at last? This serenity through insertion into the great passage of forms meets the Epicurean appeasement, yet it is laced with the idea that living matter endlessly recomposes itself, which is neither quite an extinction nor a personal immortality."
         },
-        "quote": {
-          "text": {
-            "fr": "La vie et la mort se suivent comme le jour et la nuit. Pourquoi m'en affliger ?",
-            "en": "Life and death follow each other like day and night. Why should I grieve over it?"
-          },
-          "source": {
-            "fr": "Zhuangzi, ch. 18 (Parfaite joie)",
-            "en": "Zhuangzi, ch. 18 (Perfect Happiness)"
-          }
-        },
+        "quoteId": "la-vie-et-la-mort-se-zhuangzi",
         "references": [
           {
             "fr": "Zhuangzi, ch. 18 (Parfaite joie)",
@@ -151,16 +133,7 @@
           "fr": "Le boucher Ding débite un bœuf sans jamais émousser sa lame : il ne tranche pas, il suit les interstices que la bête lui offre, et le couteau passe dans le vide. La parabole donne au <c id='wu-wei'>non-agir</c> son sens le plus concret : non l'inaction, mais l'action si épousée au réel qu'elle cesse d'être un effort. Contre le <stk>volontarisme</stk> qui plie les choses à un dessein, l'efficace vient de qui n'impose rien et glisse là où la situation cède, comme le nageur des chutes qui « entre avec le tourbillon et sort avec le remous ». Là où <ph id='laozi'>Laozi</ph> tire le non-agir vers l'art de gouverner, Zhuangzi le déploie comme une maîtrise vécue, presque corporelle, du geste juste.",
           "en": "Cook Ding carves an ox without ever dulling his blade: he does not cut, he follows the openings the carcass offers, and the knife moves through the void. The parable gives <c id='wu-wei'>effortless action</c> its most concrete sense: not inaction, but action so wedded to the real that it ceases to be effort. Against the <stk>voluntarism</stk> that bends things to a design, efficacy comes to one who imposes nothing and slips where the situation yields, like the swimmer of the falls who \"goes in with the swirl and comes out with the eddy.\" Where <ph id='laozi'>Laozi</ph> draws non-action toward the art of governing, Zhuangzi unfolds it as a lived, almost bodily mastery of the right gesture."
         },
-        "quote": {
-          "text": {
-            "fr": "Je ne regarde plus avec les yeux mais avec l'esprit, et la lame suit d'elle-même les interstices naturels.",
-            "en": "I no longer look with my eyes but with my spirit, and the blade follows of itself the natural openings."
-          },
-          "source": {
-            "fr": "Zhuangzi, ch. 3 (Principe vital)",
-            "en": "Zhuangzi, ch. 3 (The Secret of Caring for Life)"
-          }
-        },
+        "quoteId": "je-ne-regarde-plus-avec-les-zhuangzi",
         "references": [
           {
             "fr": "Zhuangzi, ch. 3 (le boucher Ding)",
@@ -282,16 +255,7 @@
           "fr": "L'homme n'a ni à maîtriser la nature ni à la gérer en intendant : il lui faut « laisser les choses être ce qu'elles sont » et accorder son agir au leur. Le bonheur des poissons que Zhuangzi prétend connaître en les regardant nager, sa polémique avec <ph id='hui-shi'>Hui Shi</ph> à ce sujet, disent une continuité vécue entre l'homme et le vivant qui rend vaine toute position de surplomb. Suivre le naturel, ce n'est pas exploiter ni protéger, c'est se savoir membre du même flux, exactement à l'opposé du prométhéisme.",
           "en": "The human is neither to master nature nor to manage it as a steward: he must \"let things be what they are\" and tune his acting to theirs. The happiness of the fish, which Zhuangzi claims to know by watching them swim, and his sparring with <ph id='hui-shi'>Hui Shi</ph> over it, bespeak a lived continuity between the human and the living that makes any vantage of oversight idle. To follow the natural is neither to exploit nor to protect, but to know oneself a member of the same flux, exactly the reverse of Prometheanism."
         },
-        "quote": {
-          "text": {
-            "fr": "Vois comme les poissons sortent et folâtrent à leur aise : voilà le bonheur des poissons !",
-            "en": "See how the fish come out and dart about at their ease: that is the happiness of fish!"
-          },
-          "source": {
-            "fr": "Zhuangzi, ch. 17 (Les crues d'automne)",
-            "en": "Zhuangzi, ch. 17 (Autumn Floods)"
-          }
-        },
+        "quoteId": "vois-comme-les-poissons-sortent-et-zhuangzi",
         "references": [
           {
             "fr": "Zhuangzi, ch. 17 (le bonheur des poissons)",
@@ -459,16 +423,7 @@
           "fr": "La sagesse se gagne par un retour au-dedans, le <c id='xinzhai'>« jeûne du cœur »</c> et l'« oubli assis » qui vident l'esprit de ses calculs et de ses préférences pour le rendre clair comme un miroir. Le sage « emploie son cœur comme un miroir » : il reçoit sans retenir, accueille sans poursuivre. Cette quiétude contemplative prime sur l'engagement actif dans les affaires publiques, que Zhuangzi fuit ; mais elle se prolonge dans une action sans effort, de sorte que le retrait intérieur n'est pas pure inaction.",
           "en": "Wisdom is won by a turn inward, the <c id='xinzhai'>\"fasting of the heart\"</c> and the \"sitting in forgetfulness\" that empty the mind of its calculations and preferences so as to make it clear as a mirror. The sage \"uses his heart like a mirror\": he receives without retaining, welcomes without pursuing. This contemplative quietude takes precedence over active engagement in public affairs, which Zhuangzi shuns; yet it is prolonged in an effortless action, so that the inward withdrawal is not pure inaction."
         },
-        "quote": {
-          "text": {
-            "fr": "Le sage parfait emploie son cœur comme un miroir : il ne va au-devant de rien et n'accueille rien, il répond et ne retient pas.",
-            "en": "The perfect sage uses his heart like a mirror: he goes out to meet nothing and welcomes nothing, he responds and does not retain."
-          },
-          "source": {
-            "fr": "Zhuangzi, ch. 7",
-            "en": "Zhuangzi, ch. 7"
-          }
-        },
+        "quoteId": "le-sage-parfait-emploie-son-c-zhuangzi",
         "references": [
           {
             "fr": "Zhuangzi, ch. 4 (le jeûne du cœur)",
@@ -582,16 +537,7 @@
           "fr": "Les mots ne peignent pas les choses : ils servent à les attraper, comme la nasse sert à prendre le poisson, et « la nasse prise, on oublie le poisson ». Leur sens tient à leur usage et à ce qu'ils permettent de faire, non à une correspondance fixe avec un référent, si bien que les disputes des logiciens sur les noms tournent à vide. Cette conception instrumentale et pragmatique du langage, où l'on peut « oublier les mots » une fois leur office rempli, penche du côté d'une théorie de l'usage avec une teinte d'intention.",
           "en": "Words do not picture things: they serve to catch them, as the fish trap serves to catch the fish, and \"the fish caught, one forgets the trap.\" Their meaning lies in their use and in what they let one do, not in a fixed correspondence with a referent, so that the logicians' disputes about names spin idly. This instrumental, pragmatic conception of language, in which one may \"forget the words\" once their office is done, leans toward a use theory with a tint of intention."
         },
-        "quote": {
-          "text": {
-            "fr": "La nasse sert à prendre le poisson : le poisson pris, on oublie la nasse. Les mots servent à saisir l'idée : l'idée saisie, on oublie les mots.",
-            "en": "The trap is for catching fish: once the fish is caught, the trap is forgotten. Words are for grasping the idea: once the idea is grasped, the words are forgotten."
-          },
-          "source": {
-            "fr": "Zhuangzi, ch. 26",
-            "en": "Zhuangzi, ch. 26"
-          }
-        },
+        "quoteId": "la-nasse-sert-a-prendre-le-zhuangzi",
         "references": [
           {
             "fr": "Zhuangzi, ch. 26 (la nasse et le poisson)",
@@ -642,16 +588,7 @@
           "fr": "Un vieux jardinier refuse la machine à puiser l'eau qu'on lui propose : « qui se sert de machines acquiert un cœur de machine », et perd la pureté native de l'esprit. La méfiance de Zhuangzi ne porte pas sur l'outil en soi, qu'il manie volontiers dans ses paraboles d'artisans, mais sur l'esprit calculateur et l'astuce que l'instrument fait croître au détriment du <c id='ziran'>naturel</c>. Cette critique du « cœur machinal » le range, comme <ph id='laozi'>Laozi</ph>, parmi les ancêtres lointains de la techno-critique, mais à partir du for intérieur plus que de l'ordre politique.",
           "en": "An old gardener refuses the water-drawing machine he is offered: \"whoever uses machines acquires a machine heart,\" and loses the native purity of the spirit. Zhuangzi's distrust bears not on the tool itself, which he gladly wields in his artisan parables, but on the calculating mind and the cunning the instrument breeds at the expense of the <c id='ziran'>natural</c>. This critique of the \"machine heart\" ranks him, like <ph id='laozi'>Laozi</ph>, among the distant ancestors of techno-criticism, but from the inner self rather than the political order."
         },
-        "quote": {
-          "text": {
-            "fr": "Qui se sert de machines fait toutes choses machinalement ; qui fait les choses machinalement acquiert un cœur de machine.",
-            "en": "Whoever uses machines does all his work mechanically; whoever does his work mechanically grows a machine heart."
-          },
-          "source": {
-            "fr": "Zhuangzi, ch. 12",
-            "en": "Zhuangzi, ch. 12"
-          }
-        },
+        "quoteId": "qui-se-sert-de-machines-fait-zhuangzi",
         "references": [
           {
             "fr": "Zhuangzi, ch. 12 (le jardinier et la machine)",

@@ -44,6 +44,14 @@ On ne peut ni prouver que Dieu existe, ni prouver qu'il n'existe pas : la questi
 - **Le sens a-t-il besoin de Dieu ?** : Sans Dieu, la vie perd-elle tout sens, ou un sens peut-il se construire entièrement à hauteur d'homme ?
 - **La morale a-t-elle besoin de Dieu ?** : Le bien tient-il sa valeur de la volonté de Dieu, ou est-il bon indépendamment de lui ? Si Dieu n'existait pas, tout serait-il permis ?
 
+## Arguments
+
+- *Théisme* · pour : [L'argument de la contingence](../arguments/theism-contingency-argument.md)
+- *Théisme* · contre : [Le mal contre Dieu](../arguments/theism-problem-of-evil-objection.md)
+- *Athéisme* · pour : [Dieu, projection de l'homme](../arguments/atheism-projection-argument.md)
+- *Athéisme* · contre : [L'origine ne juge pas la vérité](../arguments/atheism-genetic-fallacy-objection.md)
+- *Agnosticisme (Huxley)* · pour : [Ni prouver, ni réfuter](../arguments/agnosticism-limits-of-reason.md)
+
 ## Relations de fondation
 
 - *[Existence de Dieu](../axes/god-existence.md) : Athéisme* fonde *[La mort](../axes/death.md) : La mort n'est rien* : Si Dieu n'existe pas et qu'aucune vie ne suit la mort, mourir n'est qu'un retour au néant, où il n'y a personne pour souffrir d'être mort. L'athéisme rejoint la consolation d'[Épicure](../philosophers/epicurus.md) : « la mort n'est rien pour nous », et s'en libérer rend à la vie présente toute sa valeur.
@@ -60,6 +68,32 @@ On ne peut ni prouver que Dieu existe, ni prouver qu'il n'existe pas : la questi
 
 - Avec [La mort](../axes/death.md) : Affirmer avec assurance qu'aucun Dieu ni rien de divin n'existe, puis attendre de la mort qu'une âme, ou quelque chose de soi, lui survive, met deux positions en tension : l'espérance immortaliste suppose d'ordinaire un ordre, un jugement ou une réalité spirituelle que l'athéisme refuse. Tenir les deux demande au moins de dire sur quoi repose alors cette survie.
 - Avec [Rapport à la certitude](../axes/certainty.md) : Soutenir qu'on ne peut être certain de rien, puis affirmer avec assurance que Dieu n'existe pas, met deux croyances en tension : la seconde est une thèse métaphysique forte, justement le genre de certitude que le scepticisme refuse. Un scepticisme conséquent inclinerait plutôt vers l'agnosticisme.
+
+## Citations
+
+> « Dieu est mort ! Dieu reste mort ! Et c'est nous qui l'avons tué ! » — [Nietzsche](../philosophers/nietzsche.md), Le Gai Savoir, §125
+
+> « L'être bienheureux et incorruptible n'a pas de soucis lui-même et n'en cause pas à autrui ; il n'est donc accessible ni à la colère ni à la faveur. » — [Épicure](../philosophers/epicurus.md), Maximes capitales, I
+
+> « L'existentialisme n'est pas autre chose qu'un effort pour tirer toutes les conséquences d'une position athée cohérente. » — [Sartre](../philosophers/sartre.md), L'existentialisme est un humanisme
+
+> « La pensée se pense elle-même en saisissant l'intelligible, et son acte de pensée est pensée de la pensée. » — [Aristote](../philosophers/aristotle.md), Métaphysique, Λ (livre XII), 9, 1074b
+
+> « La pensée se pense elle-même : elle est pensée de la pensée. » — [Aristote](../philosophers/aristotle.md), Métaphysique, Λ (XII), 9 (1074b)
+
+> « La religion est le soupir de la créature accablée, l'âme d'un monde sans cœur, l'esprit de conditions dénuées d'esprit. C'est l'opium du peuple. » — [Marx](../philosophers/marx.md), Critique de la philosophie du droit de Hegel, introduction
+
+> « La religion est le soupir de la créature accablée, l'âme d'un monde sans cœur, l'esprit d'une époque sans esprit. Elle est l'opium du peuple. » — [Marx](../philosophers/marx.md), Critique de la philosophie du droit de Hegel, 1844
+
+> « Tant la religion put conseiller de crimes. » — [Lucrèce](../philosophers/lucretius.md), De la nature des choses, I, 101
+
+> « Tout ce qui est, est en Dieu, et rien ne peut sans Dieu être ni être conçu. » — [Spinoza](../philosophers/spinoza.md), Éthique, I, prop. 15
+
+> « Tout ce qui est mû est mû par un autre ; il faut donc en venir à un premier moteur qui ne soit mû par rien, et c'est lui que tous appellent Dieu. » — [Thomas d'Aquin](../philosophers/aquinas.md), Somme théologique, Ia, q. 2, a. 3 (la première voie)
+
+> « Un peu de philosophie incline l'esprit à l'athéisme, mais la profondeur en philosophie ramène les esprits à la religion. » — [Bacon](../philosophers/bacon.md), Essais, « De l'athéisme »
+
+> « Veux-tu l'appeler destin ? tu ne te tromperas pas. Veux-tu l'appeler providence ? tu parleras juste. Veux-tu l'appeler nature ? tu ne pécheras pas. » — [Sénèque](../philosophers/seneca.md), Questions naturelles, II, 45
 
 ## Axes liés
 

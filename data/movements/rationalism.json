@@ -114,16 +114,7 @@
           "fr": "Le <stk>point décisif</stk> est qu'une vérité nécessaire et universelle ne peut venir des sens : ceux-ci ne livrent que des cas particuliers et contingents, jamais le « cela ne peut pas être autrement » des mathématiques. Il faut donc une source non sensible, et ce sera l'<c id='innate-ideas'>entendement</c> et ses <c id='innate-ideas'>idées innées</c>. <ph id='leibniz'>Leibniz</ph> retourne contre l'<mv id='empiricism'>empirisme</mv> sa propre maxime : si rien n'est dans l'esprit qui n'ait d'abord été dans les sens, encore faut-il en excepter l'intellect lui-même, dont les structures rendent toute expérience pensable. Là où <ph id='hume'>Hume</ph> ne voit dans les sens que des impressions, <ph id='spinoza'>Spinoza</ph> distingue cette connaissance confuse du premier genre de la connaissance par <c id='adequate-idea'>idées adéquates</c>, seule à saisir les choses par leurs causes.",
           "en": "The <stk>decisive point</stk> is that a necessary and universal truth cannot come from the senses: these yield only particular, contingent cases, never the « it cannot be otherwise » of mathematics. A non-sensory source is therefore required, and it is the <c id='innate-ideas'>understanding</c> with its <c id='innate-ideas'>innate ideas</c>. <ph id='leibniz'>Leibniz</ph> turns the <mv id='empiricism'>empiricist</mv> maxim against itself: if nothing is in the mind that was not first in the senses, one must still except the intellect itself, whose structures make any experience thinkable. Where <ph id='hume'>Hume</ph> sees in the senses only impressions, <ph id='spinoza'>Spinoza</ph> sets this confused knowledge of the first kind apart from knowledge through <c id='adequate-idea'>adequate ideas</c>, the only kind that grasps things through their causes."
         },
-        "quote": {
-          "text": {
-            "fr": "Rien n'est dans l'entendement qui n'ait été d'abord dans les sens, sinon l'entendement lui-même.",
-            "en": "Nothing is in the intellect that was not first in the senses, except the intellect itself."
-          },
-          "source": {
-            "fr": "Leibniz, Nouveaux essais sur l'entendement humain, II, 1",
-            "en": "Leibniz, New Essays on Human Understanding, II, 1"
-          }
-        },
+        "quoteId": "rien-n-est-dans-l-entendement-leibniz-2",
         "references": [
           { "fr": "Descartes, Méditations métaphysiques, III", "en": "Descartes, Meditations on First Philosophy, III" },
           { "fr": "Leibniz, Nouveaux essais sur l'entendement humain, II, 1", "en": "Leibniz, New Essays on Human Understanding, II, 1" }
@@ -142,16 +133,7 @@
           "fr": "Pour répondre au <c id='skepticism'>scepticisme</c>, il ne suffit pas d'accumuler des opinions probables : il faut une vérité que nul argument ne puisse ébranler. <ph id='descartes'>Descartes</ph> en fait sa <stk>stratégie</stk>, poussant le <c id='hyperbolic-doubt'>doute hyperbolique</c> jusqu'à l'hypothèse du malin génie pour ne retenir que ce qui y résiste : l'acte même de penser, qui survit à tout doute possible. Ce roc une fois trouvé, l'<dif>enjeu</dif> est de propager sa certitude au reste du savoir, et le modèle en est la géométrie : ordonner les connaissances <c>more geometrico</c>, d'axiomes évidents vers leurs conséquences nécessaires, comme <ph id='spinoza'>Spinoza</ph> déduit l'<w id='ethics-spinoza'>Éthique</w> à la manière des géomètres. La certitude visée n'est pas une assurance psychologique mais l'évidence contraignante de la démonstration.",
           "en": "To answer <c id='skepticism'>skepticism</c> it is not enough to pile up probable opinions: a truth is needed that no argument can shake. <ph id='descartes'>Descartes</ph> makes this his <stk>strategy</stk>, pushing <c id='hyperbolic-doubt'>hyperbolic doubt</c> as far as the hypothesis of the evil demon so as to keep only what survives it: the very act of thinking, which outlasts every possible doubt. Once that rock is found, the <dif>task</dif> is to propagate its certainty to the rest of knowledge, and the model for this is geometry: ordering knowledge <c>more geometrico</c>, from self-evident axioms to their necessary consequences, as <ph id='spinoza'>Spinoza</ph> deduces the <w id='ethics-spinoza'>Ethics</w> in the manner of the geometers. The certainty aimed at is not a psychological assurance but the compelling self-evidence of demonstration."
         },
-        "quote": {
-          "text": {
-            "fr": "Je pense, donc je suis.",
-            "en": "I think, therefore I am."
-          },
-          "source": {
-            "fr": "Descartes, Discours de la méthode, quatrième partie",
-            "en": "Descartes, Discourse on the Method, part four"
-          }
-        },
+        "quoteId": "je-pense-donc-je-suis-descartes",
         "references": [
           { "fr": "Descartes, Méditations métaphysiques, II", "en": "Descartes, Meditations on First Philosophy, II" },
           { "fr": "Spinoza, Éthique, prologue de la partie I", "en": "Spinoza, Ethics, opening of Part I" }
@@ -297,16 +279,7 @@
           "fr": "L'école est résolument réaliste sur le savoir : la raison ne construit pas son objet, elle atteint l'ordre réel des choses tel qu'il est en soi. L'ordre et la connexion des idées sont les mêmes que l'ordre et la connexion des choses, écrit Spinoza, l'idée vraie s'accordant avec son idéat. Les <c>idées claires et distinctes</c> de Descartes saisissent l'essence réelle des choses, et l'ordre intelligible des monades chez Leibniz est l'architecture même du réel : connaître, c'est lire la structure du monde, non la fabriquer.",
           "en": "The school is firmly realist about knowledge: reason does not construct its object, it reaches the real order of things as it is in itself. The order and connection of ideas is the same as the order and connection of things, writes Spinoza, the true idea agreeing with what it represents. Descartes' <c>clear and distinct ideas</c> grasp the real essence of things, and the intelligible order of Leibniz's monads is the very architecture of reality: to know is to read the structure of the world, not to fabricate it."
         },
-        "quote": {
-          "text": {
-            "fr": "L'ordre et la connexion des idées sont les mêmes que l'ordre et la connexion des choses.",
-            "en": "The order and connection of ideas is the same as the order and connection of things."
-          },
-          "source": {
-            "fr": "Spinoza, Éthique, II, proposition 7",
-            "en": "Spinoza, Ethics, II, proposition 7"
-          }
-        },
+        "quoteId": "l-ordre-et-la-connexion-des-spinoza",
         "references": [
           { "fr": "Spinoza, Éthique, II, proposition 7", "en": "Spinoza, Ethics, II, proposition 7" },
           { "fr": "Descartes, Méditations métaphysiques, V", "en": "Descartes, Meditations on First Philosophy, V" },

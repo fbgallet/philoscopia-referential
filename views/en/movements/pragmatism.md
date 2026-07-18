@@ -85,7 +85,7 @@ Pragmatism 75% · Coherence 15% · Correspondence 10%
 
 Asking whether an idea faithfully « copies » a given reality is, for James, a pseudo-problem: a copy we could never set beside its model makes no detectable difference. One workable criterion then remains: an idea is true if, put to the test, it guides us smoothly through experience, knits our beliefs together and keeps its promises. The true thereby becomes a **process**, what gets verified in the course of inquiry, and not a property already lodged in the statement. The thesis targets the correspondence realism shared by [rationalism](../movements/rationalism.md) and classical [empiricism](../movements/empiricism.md) alike: Peirce tempers it, though, by placing at the horizon of indefinitely pursued inquiry a final opinion on which investigators would converge, which reintroduces a regulative form of reality.
 
-> “The true, to put it very briefly, is only the expedient in the way of our thinking.” (James, Pragmatism, lecture VI)
+> “The true, to put it very briefly, is only the expedient in the way of our thinking.”, Pragmatism, lecture VI
 
 *Sources : Peirce, 'How to Make Our Ideas Clear' (1878) · James, Pragmatism (1907), lectures II and VI*
 

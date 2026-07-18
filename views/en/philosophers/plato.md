@@ -24,7 +24,7 @@ Permanence of being 90% · Becoming and flux 10%
 
 The sensible, in perpetual becoming, cannot be an object of knowledge: nothing stable is to be found in it to know. What really is are the **intelligible Forms**, immutable and eternal, of which changing things are only participations. Yet Plato grants becoming its own consistency: the sensible world is not nothing, it is a moving image of eternity.
 
-> “What is that which always is and has no becoming, and what is that which is always becoming and never is?” (Timaeus, 27d)
+> “What is that which always is and has no becoming, and what is that which is always becoming and never is?”, Timaeus, 27d
 
 *Sources : Timaeus, 27d-28a · Republic, VI-VII · Cratylus, 439c-440*
 
@@ -56,7 +56,7 @@ Idealism 70% · Dualism 30%
 
 The argument starts from a premise inherited from Heraclitus: the sensible is in perpetual flux, and of what never ceases to become there can be no science. Yet since we do know the equal, the just, the circle, there must exist stable, intelligible objects of which sensible things are only imperfect reflections: this is the higher degree of reality. The allegory of the cave, where prisoners take shadows for the real, dramatizes this [reversal](../glossary/transcendence.md). A dualism Plato never dissolves remains, two distinct orders held side by side, whose relation of "participation" stays problematic, as he himself concedes in the Parmenides.
 
-> “To them, would not the truth be literally nothing but the shadows of the artificial objects?” (Republic, VII, 515c)
+> “To them, would not the truth be literally nothing but the shadows of the artificial objects?”, Republic, VII, 515c
 
 *Sources : Republic, VII, 514a-518b (allegory of the cave) · Timaeus, 27d-29d*
 
@@ -78,7 +78,7 @@ Transcendence 95% · Immanence 5%
 
 The analogy of the sun carries the argument: just as the sun makes things visible and makes them grow, the Good gives the Forms their being known and their being at all. As the cause of both intelligibility and existence, the Good cannot itself be one essence among others: it surpasses them, set "beyond essence". Plato thus pushes [transcendence](../glossary/transcendence.md) to its extreme, against any [immanence](../glossary/immanence.md) that would lodge the principle within the world, and makes the whole of dialectic an ascent, out of the cave, toward this separate principle that the soul beholds only at the price of a conversion of its gaze.
 
-> “The Good is not essence, but still transcends essence in dignity and power.” (Republic, VI, 509b)
+> “The Good is not essence, but still transcends essence in dignity and power.”, Republic, VI, 509b
 
 *Sources : Republic, VI, 508e-509b · Symposium, 210a-212a*
 
@@ -90,7 +90,7 @@ Rationalism 95% · Empiricism 5%
 
 The doctrine answers the paradox of the Meno: one can seek neither what one already knows nor what one wholly ignores, having no way to recognize it. Plato concludes that all learning must be a recollection, [anamnesis](../glossary/anamnesis.md), of Forms the soul contemplated before birth. The proof is experimental, not asserted: questioned by the method of questions alone, the slave boy of the *[Meno](../works/meno-plato.md)*, who never learned geometry, recovers a theorem on his own, which rules out his having received it through the senses. Knowledge therefore comes from within, from reason turned toward the intelligible, against all empiricism.
 
-> “Seeking and learning are in fact nothing but recollection.” (Meno, 81d)
+> “Seeking and learning are in fact nothing but recollection.”, Meno, 81d
 
 *Sources : Meno, 81a-86c · Phaedo, 72e-77a*
 
@@ -132,7 +132,7 @@ Immortalism 100%
 
 The *[Phaedo](../works/phaedo-plato.md)* does not posit survival, it argues for it, through four linked proofs: the generation of opposites, [recollection](../glossary/anamnesis.md) which presupposes knowledge prior to birth, the soul's affinity with the simple and indestructible intelligible, and finally the essence argument, the soul that carries life within it being unable to admit its contrary. The reasoning rests on the [dualism](../axes/self-nature.md) of soul and body: what is simple does not decompose, hence does not perish. Death then ceases to be annihilation and becomes the soul's passage toward the intelligible, and philosophy itself, as detachment from the body, is its anticipated rehearsal.
 
-> “Those who practise philosophy in the right way are in training for dying.” (Phaedo, 67e)
+> “Those who practise philosophy in the right way are in training for dying.”, Phaedo, 67e
 
 *Sources : Phaedo, 64a, 102a-107b · Republic, X, 614a-621d (myth of Er)*
 
@@ -371,6 +371,7 @@ In the Phaedo, the body is the tomb of the soul: it hinders it, deceives it thro
 
 - **[Nietzsche](../philosophers/nietzsche.md)** (reinterprets) : The influence runs not through [Plato](../philosophers/plato.md)'s own theses but through his character [Callicles](../characters/callicles.md): in the *[Gorgias](../works/gorgias-plato.md)*, Plato puts into his mouth the right of the stronger and the denunciation of the morality of the weak, precisely in order to refute them. [Nietzsche](../philosophers/nietzsche.md) reactivates this immoralist position, which scholars liken to his morality of masters, and turns it against the morality of Socratic and Platonic inspiration.
 - **[Plotinus](../philosophers/plotinus.md)** (reinterprets) : [Plotinus](../philosophers/plotinus.md) rereads [Plato](../philosophers/plato.md) through his texts, six centuries later, and draws from them [Neoplatonism](../movements/platonism.md): a hierarchical metaphysics of the One, the Intellect and the Soul that goes beyond the letter of the dialogues.
+- **[Schopenhauer](../philosophers/schopenhauer.md)** (reinterprets) : [Schopenhauer](../philosophers/schopenhauer.md) names [Plato](../philosophers/plato.md) and [Kant](../philosophers/kant.md) his two masters. He takes up the Platonic Ideas but shifts them: no longer separate intelligible realities, they become the eternal grades of the [will](../glossary/vouloir-vivre.md)'s objectification, which only [genius](../glossary/genie.md) contemplates in aesthetic experience.
 - **[Simone Weil](../philosophers/simone-weil.md)** (reinterprets) : [Weil](../philosophers/simone-weil.md) reads [Plato](../philosophers/plato.md) as a mystic: the Good beyond being, the conversion of the gaze out of the cave become in her the waiting for God and attention, a Christianized Platonism in which the true is received rather than conquered.
 - **[Stoicism](../movements/stoicism.md)** (continues) : [Stoic](../movements/stoicism.md) physics draws from [Plato](../philosophers/plato.md)'s Timaeus the idea of a living cosmos, ordered and governed by a rational providence, which it recasts into a materialism of breath and immanent logos.
 - **[Aristotle](../philosophers/aristotle.md)** (reacts against) : Trained for twenty years at the Academy, [Aristotle](../philosophers/aristotle.md) keeps from [Plato](../philosophers/plato.md) the demand for science and definition, but rejects the separation of the Forms: form exists only in individual substances, not in a world apart.

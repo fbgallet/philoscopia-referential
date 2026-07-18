@@ -45,6 +45,20 @@ Existence precedes essence: a human being is at first nothing definite and makes
 - *[Universals](../axes/universals.md) : Nominalism* grounds *[Essence and existence](../axes/essence.md) : Existentialism* : If only individuals exist and universals are merely names, then there is no human nature inscribed in things, prior to singular individuals. Nominalism opens the way to existentialism: lacking a general essence of the human, each person is defined by their existence and acts, as [Sartre](../philosophers/sartre.md) maintains. The link is an affinity more than an explicit lineage.
 - *[Universals](../axes/universals.md) : Realism about universals* grounds *[Essence and existence](../axes/essence.md) : Essentialism* : If general properties really exist and are not mere names, then things have a nature, a form that defines them in their own right. Realism about universals grounds essentialism: whether the Forms subsist apart ([Plato](../philosophers/plato.md)) or within things themselves ([Aristotle](../philosophers/aristotle.md)), the essence of a being is a reality that knowledge discovers.
 
+## Quotations
+
+> “Become what you are.” — [Nietzsche](../philosophers/nietzsche.md), The Gay Science, §270; Ecce Homo, subtitle
+
+> “The human essence is no abstraction inherent in the isolated individual. In its reality it is the ensemble of social relations.” — [Marx](../philosophers/marx.md), Theses on Feuerbach, VI
+
+> “Man first of all exists, encounters himself, surges up in the world, and defines himself afterwards.” — [Sartre](../philosophers/sartre.md), Existentialism Is a Humanism
+
+> “Man first exists, encounters himself, surges up in the world, and defines himself afterward. If man as the existentialist conceives him is indefinable, it is because at first he is nothing. He will not be anything until later, and then he will be what he makes of himself.” — [Sartre](../philosophers/sartre.md), Existentialism Is a Humanism
+
+> “One is not born, but rather becomes, a woman. No biological, psychic, or economic destiny defines the figure that the human female assumes within society.” — [Beauvoir](../philosophers/beauvoir.md), The Second Sex, vol. II
+
+> “It is not tenable that inherent existence should arise from causes and conditions: an inherent existence arisen from causes and conditions would be something fabricated.” — [Nāgārjuna](../philosophers/nagarjuna.md), Mūlamadhyamakakārikā, XV, 1-2
+
 ## Related axes
 
 [Social identity](../axes/social-identity.md) · [Universals](../axes/universals.md) · [Freedom of the will](../axes/freedom.md) · [Nature and culture](../axes/human-nature.md) · [Nature of the self](../axes/self-nature.md) · [Being and becoming](../axes/being-becoming.md)

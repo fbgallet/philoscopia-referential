@@ -1,0 +1,84 @@
+{
+  "id": "pathocentrism-reverence-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "MORAL_CIRCLE", "poleId": "PATHOCENTRISM" },
+  "name": { "fr": "La sensibilité, une frontière arbitraire ?", "en": "Sentience, an arbitrary boundary?" },
+  "attacks": "POSITION",
+  "claim": {
+    "fr": "Pourquoi la souffrance, et non la vie ? Un arbre, une bactérie poursuivent aussi leur bien : la sensibilité est-elle vraiment la bonne limite ?",
+    "en": "Why suffering, and not life? A tree, a bacterium also pursue their good: is sentience really the right boundary?"
+  },
+  "summary": {
+    "fr": "Le pathocentrisme fait de la souffrance le seuil du statut moral. Mais tout vivant poursuit son bien sans forcément le sentir ; si compter, c'est avoir un bien qui peut être servi ou contrarié, retenir la seule sensibilité pourrait être un nouveau privilège, celui des êtres qui sentent.",
+    "en": "Pathocentrism makes suffering the threshold of moral status. But every living thing pursues its good without necessarily feeling it; if to count is to have a good that can be served or thwarted, keeping sentience alone may be a new privilege, that of beings who feel."
+  },
+  "development": [
+    {
+      "fr": "Le pathocentrisme fait de la capacité de souffrir le seuil du statut moral : en deçà, rien ne compte.",
+      "en": "Pathocentrism makes the capacity to suffer the threshold of moral status: below it, nothing counts."
+    },
+    {
+      "fr": "Mais tout vivant, sensible ou non, poursuit son propre bien : un arbre croît, se répare, résiste ; il « veut vivre » à sa manière, sans le sentir.",
+      "en": "But every living thing, sentient or not, pursues its own good: a tree grows, repairs itself, resists; it 'wills to live' in its own way, without feeling it."
+    },
+    {
+      "fr": "Si compter, c'est avoir un bien qui peut être servi ou contrarié, alors la sensibilité n'est qu'une façon parmi d'autres d'avoir un tel bien : la retenir seule, n'est-ce pas un nouveau privilège, celui des êtres qui sentent ?",
+      "en": "If to count is to have a good that can be served or thwarted, then sentience is only one way among others of having such a good: to keep it alone, is that not a new privilege, that of beings who feel?"
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la frontière de la sensibilité pourrait être aussi arbitraire que celle de l'espèce : ou bien le respect va à toute vie qui poursuit son bien, ou bien il faut dire pourquoi seul le fait de sentir donne un titre.",
+    "en": "So the boundary of sentience might be as arbitrary as that of species: either respect goes to all life that pursues its good, or one must say why feeling alone confers a claim."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": { "fr": "Schweitzer, Paul Taylor", "en": "Schweitzer, Paul Taylor" },
+    "figures": [
+      { "name": { "fr": "Schweitzer", "en": "Schweitzer" }, "kind": "PHILOSOPHER", "slug": "schweitzer" },
+      { "name": { "fr": "Paul Taylor", "en": "Paul Taylor" }, "kind": "PHILOSOPHER" }
+    ],
+    "work": { "fr": "Respect for Nature", "en": "Respect for Nature" },
+    "year": 1986
+  },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est vrai : tout vivant poursuit son bien ; le respect est dû à la vie comme telle, pas seulement à ce qui souffre.",
+        "en": "True: every living thing pursues its good; respect is owed to life as such, not only to what suffers."
+      },
+      "hints": [{ "axisId": "MORAL_CIRCLE", "value": { "kind": "weights", "weights": [0, 0.1, 0.7, 0.2] }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous passez au biocentrisme : avec <ph id='schweitzer'>Schweitzer</ph>, c'est le vouloir-vivre en toute vie qui commande le respect.",
+        "en": "You move to biocentrism: with <ph id='schweitzer'>Schweitzer</ph>, it is the will-to-live in all life that commands respect."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je garde la souffrance comme ce qui pèse le plus, mais j'accorde au vivant non sensible une valeur, moindre, qui appelle des égards.",
+        "en": "I keep suffering as what weighs most, but I grant non-sentient life a worth, lesser, that calls for consideration."
+      },
+      "hints": [{ "axisId": "MORAL_CIRCLE", "value": { "kind": "weights", "weights": [0.05, 0.45, 0.4, 0.1] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Une gradation : la sensibilité au premier rang, la vie en général au second.",
+        "en": "A gradation: sentience first, life in general second."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Un être sans sensibilité n'a pas de point de vue : rien ne lui est bon ou mauvais du dedans. « Poursuivre son bien » n'y est qu'une image ; seul ce qui peut souffrir a des intérêts réels.",
+        "en": "A being without sentience has no point of view: nothing is good or bad for it from within. 'Pursuing its good' is there but a metaphor; only what can suffer has real interests."
+      },
+      "hints": [{ "axisId": "MORAL_CIRCLE", "value": { "kind": "weights", "weights": [0.1, 0.75, 0.12, 0.03] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "La réponse pathocentriste : sans un sujet qui ressent, il n'y a personne à léser, donc pas d'obligation.",
+        "en": "The pathocentrist reply: without a subject that feels, there is no one to wrong, hence no obligation."
+      }
+    }
+  ],
+  "targets": ["pathocentrism-can-they-suffer"],
+  "problems": ["reverence-for-life", "moral-status-criterion"],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

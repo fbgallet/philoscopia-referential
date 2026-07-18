@@ -27,6 +27,10 @@ One must start from the effective truth of things, not from imagined republics. 
 - *[The meaning of history](../axes/history-meaning.md) : Directional meaning* grounds *[Ideal and reality](../axes/political-ideal.md) : Utopianism* : If history tends necessarily toward a better state, a fully reconciled society ceases to be a chimera and becomes a goal one can aim at. The directional meaning of history supports political utopianism: [Marx](../philosophers/marx.md) announces an end to human prehistory in which classes are abolished.
 - *[Vision of humanity](../axes/human-vision.md) : Anthropological pessimism* grounds *[Ideal and reality](../axes/political-ideal.md) : Political realism* : If human nature is lastingly imperfect, hoping for a perfect city invites blindness and the tyranny of good intentions. Anthropological pessimism therefore recommends political realism, attentive to actual balances of power rather than to ideals.
 
+## Quotations
+
+> “Communism is for us not a state of affairs which is to be established, an ideal to which reality will have to adjust itself. We call communism the real movement which abolishes the present state of things.” — [Marx](../philosophers/marx.md), The German Ideology, 1846
+
 ## Related axes
 
 [Relation to authority](../axes/authority.md) · [Tradition and transformation](../axes/conservatism-progressism.md) · [Distributive justice](../axes/distributive-justice.md) · [Vision of humanity](../axes/human-vision.md) · [Violence](../axes/violence.md)

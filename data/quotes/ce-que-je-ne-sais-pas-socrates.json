@@ -1,0 +1,8 @@
+{
+  "id": "ce-que-je-ne-sais-pas-socrates",
+  "text": { "fr": "Ce que je ne sais pas, je ne pense pas non plus le savoir.", "en": "What I do not know, I do not think I know either." },
+  "author": { "name": { "fr": "Socrate", "en": "Socrates" }, "kind": "PHILOSOPHER", "slug": "socrates" },
+  "source": { "fr": "Platon, Apologie, 21d", "en": "Plato, Apology, 21d" },
+  "anchors": [{ "axisId": "CERTAINTY" }],
+  "updatedAt": "2026-07-17T00:00:00.000Z"
+}

@@ -74,7 +74,7 @@ Dogmatism 70% · Skepticism 30%
 
 Roused from his **dogmatic slumber** by [Hume](../philosophers/hume.md), Kant rejects both opposing paths: [dogmatic](../glossary/dogmatism.md) metaphysics, which claims to know the unconditioned, God, the soul, the world as a totality, loses itself in the **antinomies**, where reason contradicts itself; yet Humean [skepticism](../glossary/skepticism.md), dissolving necessity into habit, is just as untenable. The critical path settles it: there is indeed an **apodictic** certainty, that of synthetic a priori judgments, but it holds only of appearances, objects as they appear to us under the forms of the subject, not of things in themselves. A necessary and universal certainty, then, but paid for with an impassable limit.
 
-> “I freely admit that it was the objection of David Hume that, many years ago, first interrupted my dogmatic slumber.” (Prolegomena, Preface)
+> “I freely admit that it was the objection of David Hume that, many years ago, first interrupted my dogmatic slumber.”, Prolegomena, Preface
 
 *Sources : Critique of Pure Reason, Prefaces and Transcendental Dialectic · Prolegomena to Any Future Metaphysics*
 
@@ -86,7 +86,7 @@ Empiricism 50% · Rationalism 50%
 
 The dispute between [rationalism](../movements/rationalism.md) and [empiricism](../movements/empiricism.md) is insoluble so long as one term is asked to carry everything: experience alone never yields necessity ([Hume](../philosophers/hume.md)'s objection about causation), reason alone runs idle. Kant's answer is the synthetic a priori judgment: there are a priori forms of sensibility and understanding that structure any possible experience, so that knowledge begins with experience without deriving wholly from it. This is the “Copernican turn” applied to knowledge, and the reason the axis settles at the centre.
 
-> “Thoughts without content are empty, intuitions without concepts are blind.” (Critique of Pure Reason, A51/B75)
+> “Thoughts without content are empty, intuitions without concepts are blind.”, Critique of Pure Reason, A51/B75
 
 *Sources : Critique of Pure Reason, Introduction · Critique of Pure Reason, A51/B75*
 
@@ -98,7 +98,7 @@ Deontologism 90% · Virtue ethics 10%
 
 Nothing is good without qualification except a **good will**: neither talents nor happiness, which can serve evil. If moral worth lies neither in the object willed nor in the consequences, it can lie only in the form of the maxim, its fitness to hold as a law for all. From this the [categorical imperative](../glossary/categorical-imperative.md) is derived: act only on a maxim I can will to be universal. This is a deontology that refuses, against [utilitarianism](../movements/utilitarianism.md), to measure duty by outcome; the *[Doctrine of Virtue](../works/metaphysics-of-morals-kant.md)* reintroduces the virtues, but as derived from duty, hence a small residual weight on that pole.
 
-> “Act only according to that maxim whereby you can at the same time will that it should become a universal law.” (Groundwork of the Metaphysics of Morals, section II)
+> “Act only according to that maxim whereby you can at the same time will that it should become a universal law.”, Groundwork of the Metaphysics of Morals, section II
 
 *Sources : Groundwork of the Metaphysics of Morals, sections I and II · Metaphysics of Morals, Doctrine of Virtue*
 
@@ -150,7 +150,7 @@ Objective beauty 50% · Subjective beauty 50%
 
 The **judgment of taste** is subjective (it rests on no concept of the object) yet legitimately claims universality. This is exactly the axis's named median position, subjective universality.
 
-> “The beautiful is that which pleases universally without a concept.” (Critique of the Power of Judgment, §9)
+> “The beautiful is that which pleases universally without a concept.”, Critique of the Power of Judgment, §9
 
 *Sources : Critique of the Power of Judgment, §6-§9*
 
@@ -232,7 +232,7 @@ Progressivism 85% · Conservatism 15%
 
 **Enlightenment** is the human being's emergence from his self-incurred immaturity. Kant makes the **free public use of reason** the engine of a gradual progress of humanity, placing him clearly on the progressist side.
 
-> “Sapere aude! Have courage to use your own understanding: this is the motto of the Enlightenment.” (An Answer to the Question: What Is Enlightenment?)
+> “Sapere aude! Have courage to use your own understanding: this is the motto of the Enlightenment.”, An Answer to the Question: What Is Enlightenment?
 
 *Sources : An Answer to the Question: What Is Enlightenment?*
 
@@ -244,7 +244,7 @@ The principle of hope 85% · Lucidity without hope 15%
 
 "What may I hope?" is one of the three cardinal questions of philosophy. The **postulates of practical reason**, freedom, immortality of the soul and God, ground a rational hope that the **highest good**, the accord of virtue and happiness, is possible: an avowed principle of hope.
 
-> “Two things fill the mind with ever new and increasing admiration: the starry heavens above me and the moral law within me.” (Critique of Practical Reason, Conclusion)
+> “Two things fill the mind with ever new and increasing admiration: the starry heavens above me and the moral law within me.”, Critique of Practical Reason, Conclusion
 
 *Sources : Critique of Pure Reason, Canon of Pure Reason · Critique of Practical Reason, Dialectic*
 
@@ -286,7 +286,7 @@ Virtue / moral perfectionism 80% · Eudaimonism 20%
 
 Nothing is good without limitation except a **good will**: morality, not happiness, is the supreme good and the condition of all worth. The complete highest good does include happiness, but only proportioned to virtue and as crowning it, hence a minority [eudaimonist](../glossary/eudaimonism.md) weight and the exclusion of [hedonism](../glossary/hedonism.md).
 
-> “Nothing in the world, indeed nothing even beyond the world, can possibly be conceived which could be called good without qualification except a good will.” (Groundwork of the Metaphysics of Morals, section I)
+> “Nothing in the world, indeed nothing even beyond the world, can possibly be conceived which could be called good without qualification except a good will.”, Groundwork of the Metaphysics of Morals, section I
 
 *Sources : Groundwork of the Metaphysics of Morals, section I · Critique of Practical Reason, Dialectic, II*
 
@@ -318,7 +318,7 @@ Harmony 55% · Separate domains 30% · Fideism 15%
 
 Theoretical reason can neither prove nor refute God, but practical reason postulates a **rational faith** attuned to morality. Faith and knowledge thus occupy distinct domains while harmonising under the primacy of the practical, with a fideist nuance since faith remains a need of reason rather than a matter of proof.
 
-> “I had to deny knowledge in order to make room for faith.” (Critique of Pure Reason, Preface to the Second Edition (B XXX))
+> “I had to deny knowledge in order to make room for faith.”, Critique of Pure Reason, Preface to the Second Edition (B XXX)
 
 *Sources : Critique of Pure Reason, Preface to the Second Edition (B XXX) · Religion within the Bounds of Bare Reason*
 
@@ -330,7 +330,7 @@ Authority 80% · Anarchism 20%
 
 Kant asserts a duty to obey the established power and denies any **right of resistance** or revolution, even against an unjust sovereign, since overturning the constitution would ruin the rule of law itself. The citizen retains the freedom to criticise publicly in writing, but must obey.
 
-> “Argue as much as you will and about what you will, but obey!” (An Answer to the Question: What Is Enlightenment?)
+> “Argue as much as you will and about what you will, but obey!”, An Answer to the Question: What Is Enlightenment?
 
 *Sources : Metaphysics of Morals, Doctrine of Right, §49 · An Answer to the Question: What Is Enlightenment?*
 

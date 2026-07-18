@@ -46,6 +46,10 @@ Rights are neither natural, nor mere decrees, nor simple calculations of utility
 - *[Nature of rights](../axes/rights-nature.md) : Political constructivism* grounds *[Distributive justice](../axes/distributive-justice.md) : Egalitarianism* : If rights are the terms of a fair cooperation chosen among equals, a just society must correct the inequalities no one has deserved, those of birth and talent. Political constructivism grounds egalitarianism: [Rawls](../philosophers/rawls.md) admits inequalities only if they also benefit the least advantaged.
 - *[Status of norms (metaethics)](../axes/moral-scope.md) : Universalism* grounds *[Nature of rights](../axes/rights-nature.md) : Natural rights* : If there are objective moral norms valid for every rational being, then the person holds rights prior to the state, which no law could legitimately abolish. Moral universalism grounds natural rights: for [Locke](../philosophers/locke.md) as for [Kant](../philosophers/kant.md), a law that violates them remains unjust, even if perfectly legal.
 
+## Quotations
+
+> “Being all equal and independent, no one ought to harm another in his life, health, liberty, or possessions.” — [Locke](../philosophers/locke.md), Second Treatise of Government, §6
+
 ## Related axes
 
 [Distributive justice](../axes/distributive-justice.md) · [The origin of the social bond](../axes/social-contract.md) · [Relation to authority](../axes/authority.md) · [Status of norms (metaethics)](../axes/moral-scope.md) · [Moral circle](../axes/moral-circle.md)

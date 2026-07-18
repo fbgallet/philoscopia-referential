@@ -24,7 +24,7 @@ Skepticism 100%
 
 The skeptic observes that to every assertion an assertion of equal strength can be opposed: this is the [equipollence](../glossary/isostheneia.md) (isostheneia) of contrary reasons. Having no means to decide, he [suspends judgment](../glossary/epoche.md) (epoche), not by choice but because the unresolved conflict compels him to. Sextus systematizes this mechanism in the [modes](../glossary/skeptical-modes.md) inherited from Aenesidemus and Agrippa, which drive every claim to knowledge toward infinite regress, circularity, or an arbitrary stopping point. Where [Descartes](../philosophers/descartes.md) would make doubt a stage toward a foundation, Sextus makes it a dwelling: no definitive certainty is attainable, and the skeptic carries caution so far as not even to assert dogmatically that there is no certainty.
 
-> “To every argument an equal argument is opposed.” (Outlines of Pyrrhonism, I, 12)
+> “To every argument an equal argument is opposed.”, Outlines of Pyrrhonism, I, 12
 
 *Sources : Outlines of Pyrrhonism, I, 8 and 12 · Outlines of Pyrrhonism, I, 164-169 (the five modes of Agrippa)*
 
@@ -74,7 +74,7 @@ Eudaimonism 85% · Hedonism 15%
 
 The end the skeptic aims at is [ataraxia](../glossary/ataraxia.md), the absence of disturbance in matters of opinion, together with [metriopatheia](../glossary/metriopatheia.md), the moderation of unavoidable feelings. But the remarkable trait is that it is not pursued as a good by nature, which would already be a dogmatic thesis: Sextus reports that tranquillity supervenes on whoever suspends judgment, as a shadow follows a body, by a chance the skeptic notes only after the fact. This is neither the hedonism of pleasure nor the perfectionism of virtue, but a happy form of life reached by subtraction, by ceasing to hold things good or bad in themselves.
 
-> “Tranquillity followed the suspension of judgment as a shadow follows its body.” (Outlines of Pyrrhonism, I, 29)
+> “Tranquillity followed the suspension of judgment as a shadow follows its body.”, Outlines of Pyrrhonism, I, 29
 
 *Sources : Outlines of Pyrrhonism, I, 25-30 (the goal of skepticism)*
 

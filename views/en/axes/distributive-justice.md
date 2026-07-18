@@ -39,14 +39,33 @@ What matters is neither perfect equality of shares nor the sheer freedom of exch
 - **Does justice stop at borders?** : Do we owe the same distributive justice to all of humanity, or do our duties of sharing stop at the members of our own political community?
 - **Equality against liberty?** : Does every redistribution restrict the liberty of those it taxes, or does real liberty already presuppose a certain equality of means?
 
+## Arguments
+
+- *Egalitarianism* · for : [The natural lottery argument](../arguments/egalitarianism-natural-lottery.md)
+- *Egalitarianism* · against : [Undeserved is not up for redistribution](../arguments/egalitarianism-lottery-non-desert-objection.md)
+- *Libertarianism* · for : [The self-ownership argument](../arguments/libertarianism-self-ownership.md)
+- *Libertarianism* · against : [Owning oneself is not owning the world](../arguments/libertarianism-self-ownership-world-objection.md)
+- *Sufficientarianism* · for : [The doctrine of sufficiency](../arguments/sufficientarianism-enough.md)
+- *Sufficientarianism* · against : [Equality of relations, not just of the basket](../arguments/sufficientarianism-relational-objection.md)
+
 ## Grounding relations
 
 - *[Nature of rights](../axes/rights-nature.md) : Natural rights* grounds *[Distributive justice](../axes/distributive-justice.md) : Libertarianism* : If each person holds inviolable rights, beginning with ownership of themselves and of the fruits of their labour, then redistributing by coercion amounts to violating those rights. Natural rights ground libertarianism: for [Nozick](../philosophers/nozick.md), a distribution is just as soon as it results from free exchanges, and the state must confine itself to protecting persons.
 - *[Nature of rights](../axes/rights-nature.md) : Political constructivism* grounds *[Distributive justice](../axes/distributive-justice.md) : Egalitarianism* : If rights are the terms of a fair cooperation chosen among equals, a just society must correct the inequalities no one has deserved, those of birth and talent. Political constructivism grounds egalitarianism: [Rawls](../philosophers/rawls.md) admits inequalities only if they also benefit the least advantaged.
 
+## Quotations
+
+> “Everybody to count for one, nobody for more than one.” — [Mill](../philosophers/mill.md), Utilitarianism, ch. V
+
+> “From each according to his ability, to each according to his needs.” — [Marx](../philosophers/marx.md), Critique of the Gotha Programme
+
+> “The labour of his body and the work of his hands, we may say, are properly his. Whatsoever then he removes out of the state that nature hath provided ... he hath mixed his labour with, and thereby makes it his property.” — [Locke](../philosophers/locke.md), Two Treatises of Government, II, ch. 5, §27
+
+> “That no citizen be rich enough to buy another, and none poor enough to be forced to sell himself.” — [Rousseau](../philosophers/rousseau.md), The Social Contract, II, 11
+
 ## Related axes
 
-[Political liberty](../axes/political-liberty.md) · [Nature of rights](../axes/rights-nature.md) · [Ideal and reality](../axes/political-ideal.md) · [Who should decide](../axes/who-decides.md) · [The origin of the social bond](../axes/social-contract.md) · [Freedom of the will](../axes/freedom.md) · [Moral demandingness](../axes/moral-demand.md) · [The highest good](../axes/sovereign-good.md)
+[Political liberty](../axes/political-liberty.md) · [Nature of rights](../axes/rights-nature.md) · [Ideal and reality](../axes/political-ideal.md) · [Who should decide](../axes/who-decides.md) · [The origin of the social bond](../axes/social-contract.md) · [Freedom of the will](../axes/freedom.md) · [Moral demandingness](../axes/moral-demand.md) · [The highest good](../axes/sovereign-good.md) · [Future generations](../axes/future-generations.md)
 
 ---
 

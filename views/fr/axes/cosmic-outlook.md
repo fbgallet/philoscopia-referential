@@ -33,6 +33,14 @@ Le monde n'est ni rationnel ni bienveillant : la souffrance, le conflit et le no
 - *[Tonalité du réel](../axes/cosmic-outlook.md) : Pensée tragique* fonde *[Rapport au désir](../axes/desire.md) : Extinction-détachement* : Si l'existence est tissée de manque et de souffrance, et que vouloir, c'est s'exposer sans fin à la perte, la sagesse n'est pas de combler ses désirs mais de s'en délier. Une vision tragique du monde, du [bouddhisme](../movements/buddhism.md) à Schopenhauer, fonde le détachement : tarir la soif plutôt que courir après ce qui échappe.
 - *[Tonalité du réel](../axes/cosmic-outlook.md) : Pensée tragique* fonde *[Espoir](../axes/hope.md) : Lucidité sans espoir* : Si le monde n'est ni rationnel ni bienveillant et qu'aucune harmonie finale ne rachètera la souffrance, alors espérer, c'est se mentir. La pensée tragique fonde la lucidité sans espoir : [Camus](../philosophers/camus.md) tient la révolte lucide, sans consolation, pour plus digne que l'espérance, et y trouve une forme de liberté.
 
+## Citations
+
+> « Il s'ensuit de la suprême perfection de Dieu qu'en produisant l'univers il a choisi le meilleur plan possible. » — [Leibniz](../philosophers/leibniz.md), Monadologie, §55 ; Théodicée
+
+> « L'homme est une passion inutile. » — [Sartre](../philosophers/sartre.md), L'Être et le Néant, conclusion
+
+> « L'optimisme, quand il n'est pas le bavardage inconsidéré de ceux qui n'abritent que des mots sous leurs fronts plats, m'apparaît comme une manière de penser non seulement absurde, mais vraiment infâme : une amère dérision des souffrances innommables de l'humanité. » — [Schopenhauer](../philosophers/schopenhauer.md), Le Monde comme volonté et comme représentation, §59
+
 ## Axes liés
 
 [Le problème du mal](../axes/problem-of-evil.md) · [Espoir](../axes/hope.md) · [Le sens de la vie](../axes/life-meaning.md) · [Sens de la souffrance](../axes/suffering-meaning.md) · [Existence de Dieu](../axes/god-existence.md)

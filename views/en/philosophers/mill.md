@@ -54,7 +54,7 @@ Reasoned selection 60% · Affirmation 35% · Extinction and detachment 5%
 
 Mill corrects Bentham's hedonism with a qualitative hierarchy: not all desires and pleasures are equal, those that engage the higher faculties are worthier than those of the body. The sorting no longer bears on quantity alone but on the quality of pleasures, against a background that affirms satisfaction as the end of life.
 
-> “It is better to be Socrates dissatisfied than a fool satisfied.” (Utilitarianism, ch. II)
+> “It is better to be Socrates dissatisfied than a fool satisfied.”, Utilitarianism, ch. II
 
 *Sources : Utilitarianism, ch. II*
 
@@ -76,7 +76,7 @@ Consequentialism 100%
 
 Mill seeks to ground morality on a fact rather than an undemonstrable intuition: the only proof that a thing is desirable, he argues, is that people actually desire it, and what everyone ultimately desires is happiness. Thence the [greatest happiness principle](../glossary/greatest-happiness-principle.md) as the sole criterion of the right, and the consequentialism he opposes to moral intuitionism and to [Kantian duty](../glossary/categorical-imperative.md) alike: he charges Kant with being unable, in practice, to rule out a universalisable maxim except by invoking the desirability of its consequences, thus smuggling back the very utility he claimed to dismiss.
 
-> “Actions are right in proportion as they tend to promote happiness, wrong as they tend to produce the reverse of happiness.” (Utilitarianism, ch. 2)
+> “Actions are right in proportion as they tend to promote happiness, wrong as they tend to produce the reverse of happiness.”, Utilitarianism, ch. 2
 
 *Sources : Utilitarianism (1863), ch. 2 (the greatest happiness doctrine) · Utilitarianism, ch. 1 (critique of the Kantian a priori)*
 
@@ -88,7 +88,7 @@ Hedonism 70% · Eudaimonism 30%
 
 Against the old objection that brands [hedonism](../glossary/hedonism.md) a doctrine fit for swine, Mill replies that it errs not about pleasure but about man: our higher faculties demand a happiness of another kind. Hence his break with [Bentham](../philosophers/bentham.md)'s purely quantitative calculus: pleasures differ in quality as well, and those of the intellect, the feelings and the imagination intrinsically prevail, because whoever knows both would not consent for anything to sink to the lower. At the heart of the argument lies a sense of dignity that an existence confined to bodily satisfactions would wound, which tilts Mill's hedonism toward a flourishing close to [eudaimonism](../glossary/eudaimonism.md).
 
-> “It is better to be a human being dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied.” (Utilitarianism, ch. 2)
+> “It is better to be a human being dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied.”, Utilitarianism, ch. 2
 
 *Sources : Utilitarianism, ch. 2 (quality versus quantity of pleasures) · Utilitarianism, ch. 4 (happiness, the only thing desirable as an end)*
 
@@ -110,7 +110,7 @@ Anarchism 85% · Authority 15%
 
 All conduct divides into what concerns the agent alone and what affects others: from this distinction Mill draws that coercion is never legitimate in the first sphere, where no one is a better judge of his own good than the person concerned. The harm principle follows: preventing harm to others is the only warrant for social power, never a person's supposed good. Mill thereby targets state paternalism and the tyranny of the majority alike, that diffuse despotism of opinion which, in a democracy, threatens the individual more surely than the tyrant of old.
 
-> “The only purpose for which power can be rightfully exercised over any member of a civilised community, against his will, is to prevent harm to others.” (On Liberty, ch. 1)
+> “The only purpose for which power can be rightfully exercised over any member of a civilised community, against his will, is to prevent harm to others.”, On Liberty, ch. 1
 
 *Sources : On Liberty (1859), ch. 1 (statement of the harm principle) · On Liberty, ch. 1 (the tyranny of the majority)*
 
@@ -122,7 +122,7 @@ Individualism 88% · Holism 13%
 
 Because no form of life holds a priori for everyone and no one knows in advance what suits him, Mill makes liberty the condition of those experiments of living through which each tests and shapes his own character. Individuality is therefore no mere private amenity but the mainspring of all progress: it is from original minds that the new truths and practices the whole of society inherits arise. Hence his target, the despotism of custom and the conformism that level characters and dry up that source, a threat all the more pressing as the power of mass opinion grows.
 
-> “Human nature is not a machine to be built after a model, but a tree, which requires to grow and develop itself on all sides.” (On Liberty, ch. 3)
+> “Human nature is not a machine to be built after a model, but a tree, which requires to grow and develop itself on all sides.”, On Liberty, ch. 3
 
 *Sources : On Liberty, ch. 3 (of individuality as one of the elements of well-being)*
 
@@ -294,7 +294,7 @@ Skepticism 78% · Dogmatism 22%
 
 To silence an opinion presupposes that one knows it false, hence that one believes oneself infallible: yet no one is, and history is full of truths first persecuted. From this fallibility Mill draws the demand for debate: suppressing an opinion may rob us of a truth, and even a false one sharpens, by contradiction, the received truth, which without it decays into a dead dogma professed without grasp of its meaning. Doubt for him is thus no paralysing scepticism but the condition of living knowledge, which ranks him, without surrendering truth, on the side of [fallibilism](../axes/certainty.md).
 
-> “To silence the expression of an opinion is to rob the human race; those who dissent from it still more than those who hold it.” (On Liberty, ch. 2)
+> “To silence the expression of an opinion is to rob the human race; those who dissent from it still more than those who hold it.”, On Liberty, ch. 2
 
 *Sources : On Liberty, ch. 2 (the argument from fallibility and the dead dogma)*
 

@@ -30,9 +30,19 @@ Human beings are social by nature: the community precedes the individual, who ex
 - *[The origin of the social bond](../axes/social-contract.md) : Organic community* grounds *[Belonging](../axes/belonging.md) : Communitarianism and patriotism* : If the community precedes the individual and constitutes them, then loyalty to one's own is not a prejudice to overcome but a part of what we are. The organic conception of the social bond grounds communitarianism: our concrete attachments, family, culture, nation, are the real source of solidarity, as the communitarian current, such as MacIntyre, maintains.
 - *[The origin of the social bond](../axes/social-contract.md) : Organic community* grounds *[Temporal orientation](../axes/time-orientation.md) : Memory and transmission* : If the community is a living inheritance that precedes and constitutes me, then living well means receiving that legacy and passing it on in turn. The organic conception of the social bond grounds the orientation toward memory and transmission: from [Burke](../philosophers/burke.md) to [Confucius](../philosophers/confucius.md), honouring our debts to the past and bequeathing to future generations gives life its depth.
 
+## Quotations
+
+> “Man is born free, and everywhere he is in chains.” — [Rousseau](../philosophers/rousseau.md), The Social Contract (1762), I, 1
+
+> “Man is by nature a political animal.” — [Aristotle](../philosophers/aristotle.md), Politics, I.2 (1253a)
+
+> “Natural justice is a compact of advantage, made to the end that men may neither harm one another nor be harmed.” — [Epicurus](../philosophers/epicurus.md), Principal Doctrines, XXXI
+
+> “To find a form of association by which each, uniting with all, still obeys only himself and remains as free as before.” — [Rousseau](../philosophers/rousseau.md), The Social Contract, I, 6
+
 ## Related axes
 
-[Nature of rights](../axes/rights-nature.md) · [Relation to authority](../axes/authority.md) · [Belonging](../axes/belonging.md) · [Individual and society](../axes/individual-society.md) · [Distributive justice](../axes/distributive-justice.md) · [Violence](../axes/violence.md)
+[Nature of rights](../axes/rights-nature.md) · [Relation to authority](../axes/authority.md) · [Belonging](../axes/belonging.md) · [Individual and society](../axes/individual-society.md) · [Distributive justice](../axes/distributive-justice.md) · [Violence](../axes/violence.md) · [Future generations](../axes/future-generations.md)
 
 ---
 

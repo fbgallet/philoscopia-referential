@@ -14,13 +14,22 @@ Si penser n'est qu'une affaire de fonction, peu importe la matière, alors une m
 
 Penser, c'est traiter de l'information d'une certaine manière, quel que soit le support qui réalise ce traitement. Si une machine accomplit les mêmes fonctions qu'un cerveau, rien ne permet de lui refuser la pensée.
 
-*Turing · Dennett*
+*[Turing](../philosophers/turing.md) · Dennett*
 
 ### Biologisme de la conscience
 
 Manipuler des symboles ne suffit pas à penser : un programme peut simuler la compréhension sans rien comprendre. La conscience est un phénomène biologique, produit par les propriétés causales propres du cerveau vivant.
 
 *[Searle](../philosophers/searle.md)*
+
+## Problèmes vifs
+
+- **La chambre chinoise** : Enfermé dans une pièce, on répond parfaitement en chinois en suivant un manuel, sans comprendre un mot : exécuter un programme, est-ce jamais comprendre, ou seulement en donner tous les signes ? → [La chambre chinoise](../thought-experiments/chinese-room.md)
+- **Le jeu de l'imitation** : Si, dans une conversation à l'aveugle, rien ne distingue la machine d'une personne, faut-il lui accorder la pensée, ou réussir à passer pour un esprit ne prouve-t-il jamais qu'il y en a un ? → [Le jeu de l'imitation](../thought-experiments/turing-test.md)
+- **Une intelligence sans corps** : Un programme traite des signes hors de tout monde ; mais comprendre une situation, agir avec à-propos, suppose peut-être un corps vivant qui l'habite, que la machine désincarnée n'a pas.
+- **Peu importe le support ?** : Si l'organisation exacte de votre cerveau était reproduite par tout un peuple s'échangeant des messages, cet attroupement penserait-il vraiment, ou certaines matières seules donnent-elles un esprit ?
+- **Penser, ou ressentir** : Raisonner est une chose, éprouver en est une autre : une machine pourrait tout calculer sans que « cela fasse quelque chose » d'être elle, la pensée sans la moindre conscience.
+- **Lui devrait-on quelque chose ?** : Si une machine pensait, aurait-elle des intérêts, une dignité, des droits, ou resterait-elle une chose dont on dispose sans lui rien devoir ?
 
 ## Relations de fondation
 

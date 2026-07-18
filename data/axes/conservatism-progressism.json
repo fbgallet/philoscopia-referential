@@ -82,7 +82,8 @@
     "HISTORY_MEANING",
     "POLITICAL_IDEAL",
     "TECHNOLOGY",
-    "FUTURE_GENERATIONS"
+    "FUTURE_GENERATIONS",
+    "TIME_ORIENTATION"
   ],
   "problems": [
     {
@@ -349,7 +350,8 @@
       ],
       "doorways": [
         {
-          "axis": "FUTURE_GENERATIONS"
+          "axis": "FUTURE_GENERATIONS",
+          "problem": "the-absent-claimant"
         }
       ],
       "title": {

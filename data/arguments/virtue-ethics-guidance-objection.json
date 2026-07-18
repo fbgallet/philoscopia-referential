@@ -1,0 +1,75 @@
+{
+  "id": "virtue-ethics-guidance-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "ETHICS_FOUNDATION", "poleId": "VIRTUE_ETHICS" },
+  "name": { "fr": "Que dois-je faire, au juste ?", "en": "But what exactly should I do?" },
+  "attacks": "POSITION",
+  "claim": {
+    "fr": "« Agis comme la personne vertueuse » : mais qui est-elle, sinon celle qui agit bien ? Le critère tourne en rond et ne dit jamais quoi faire.",
+    "en": "'Act as the virtuous person would': but who is she, if not the one who acts well? The criterion goes in a circle and never says what to do."
+  },
+  "summary": {
+    "fr": "L'éthique des vertus définit la bonne action par l'agent vertueux et l'agent vertueux par la bonne action ; le critère tourne en rond et reste muet dans le cas concret, là où une règle ou un calcul, eux, tranchent.",
+    "en": "Virtue ethics defines the right action by the virtuous agent and the virtuous agent by the right action; the criterion goes in a circle and stays silent in the concrete case, where a rule or a calculation do decide."
+  },
+  "development": [
+    {
+      "fr": "L'éthique des vertus donne pour règle : fais ce que ferait la personne vertueuse. Mais qui est cette personne ? Celle qui fait ce qu'il faut faire.",
+      "en": "Virtue ethics offers this rule: do what the virtuous person would do. But who is this person? The one who does what ought to be done."
+    },
+    {
+      "fr": "Le critère tourne en rond : il définit la bonne action par l'agent vertueux, et l'agent vertueux par la bonne action, sans jamais dire, dans le cas concret, ce qu'il faut faire.",
+      "en": "The criterion goes in a circle: it defines the right action by the virtuous agent, and the virtuous agent by the right action, without ever saying, in the concrete case, what ought to be done."
+    },
+    {
+      "fr": "Et lorsque des personnes également estimables jugent en sens contraire, faut-il mentir pour sauver un ami, se battre ou céder, l'appel au caractère reste muet, là où une règle ou un calcul, eux, donnent une réponse.",
+      "en": "And when equally admirable people judge in opposite ways, whether to lie to save a friend, to fight or to yield, the appeal to character stays silent, where a rule or a calculation do give an answer."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc l'éthique des vertus décrit peut-être le bon agent, mais elle ne guide pas l'action : il lui manque le critère que fournissent le devoir ou les conséquences.",
+    "en": "So virtue ethics may describe the good agent, but it does not guide action: it lacks the criterion that duty or consequences provide."
+  },
+  "difficulty": 2,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "L'objection porte : je veux savoir quoi faire, pas seulement qui admirer. Une morale doit donner une règle ou un calcul qui tranche dans le cas concret.",
+        "en": "The objection lands: I want to know what to do, not only whom to admire. A morality must give a rule or a calculation that decides in the concrete case."
+      },
+      "hints": [{ "axisId": "ETHICS_FOUNDATION", "value": { "kind": "weights", "weights": [0.35, 0.4, 0.25, 0] }, "weight": 1.5 }],
+      "discussion": {
+        "fr": "Vous demandez une procédure de décision, du côté du devoir ou des conséquences : c'est ce que l'éthique des vertus se refuse à donner.",
+        "en": "You ask for a decision procedure, on the side of duty or consequences: exactly what virtue ethics refuses to supply."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je garde le primat du caractère, mais j'accorde qu'il faut des repères : les vertus elles-mêmes, être honnête, courageux, juste, indiquent une direction, même sans recette.",
+        "en": "I keep the primacy of character, but grant that we need some markers: the virtues themselves, to be honest, courageous, just, point a direction, even without a recipe."
+      },
+      "hints": [{ "axisId": "ETHICS_FOUNDATION", "value": { "kind": "weights", "weights": [0.15, 0.2, 0.6, 0.05] }, "weight": 0.75 }],
+      "discussion": {
+        "fr": "Vous tenez la réponse par les « règles de vertu » : fais ce qui est honnête, généreux, juste, des repères sans procédure mécanique.",
+        "en": "You hold the reply from 'virtue rules': do what is honest, generous, just, markers without a mechanical procedure."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : l'absence de procédure mécanique n'est pas une absence de guidage. La sagesse pratique guide vraiment ; c'est le rêve d'une règle qui déciderait à notre place qui est illusoire.",
+        "en": "I refute it: the absence of a mechanical procedure is not the absence of guidance. Practical wisdom really does guide; it is the dream of a rule that would decide for us that is the illusion."
+      },
+      "hints": [{ "axisId": "ETHICS_FOUNDATION", "value": { "kind": "weights", "weights": [0.05, 0.1, 0.85, 0] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous tenez la réponse néo-aristotélicienne : aucune règle ne dispense du jugement ; le discernement du sage n'est pas moins un guide pour n'être pas une recette.",
+        "en": "You hold the neo-Aristotelian reply: no rule dispenses with judgment; the sage's discernment is no less a guide for not being a recipe."
+      }
+    }
+  ],
+  "problems": ["rule-or-situation"],
+  "targets": ["virtue-ethics-being-good"],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
+}

@@ -34,7 +34,7 @@ Ce qui dépend de nous 98% · Prométhéisme 3%
 
 On n'est libre qu'à proportion de ce dont on peut se passer : tout besoin est une prise que le monde, la fortune ou les puissants ont sur nous. De là l'[autarkeia](../glossary/autarkeia.md) (autosuffisance) comme but, vivre de telle sorte que rien d'extérieur ne soit nécessaire et que nul ne détienne donc rien dont nous dépendions. Quand Alexandre, maître du monde connu, lui offrit d'exaucer n'importe quel souhait, Diogène ne demanda qu'à ce qu'il s'écartât de son soleil : l'homme le plus dénué, s'il ne désire rien, est plus invulnérable que le plus puissant des rois, lequel reste à la merci de ce qu'il possède. Les stoïciens reprendront plus tard cette opération sous la forme de la [dichotomie](../axes/control-scope.md) du contrôle, mais Diogène la mène par les actes et le dénuement plutôt que par le jugement intérieur, sans en faire une thèse réglée.
 
-> « « Demande-moi ce que tu voudras. » « Ôte-toi de mon soleil. » » (Diogène Laërce, Vies, VI, 38)
+> « « Demande-moi ce que tu voudras. » « Ôte-toi de mon soleil. » », Diogène Laërce, Vies, VI, 38
 
 *Sources : Diogène Laërce, Vies, VI, 38*
 
@@ -56,7 +56,7 @@ Cosmopolitisme 98% · Communautarisme-patriotisme 3%
 
 Si les frontières des cités ne sont que [nomos](../glossary/physis-nomos.md), convention sans fondement dans la nature, aucune ne saurait commander l'appartenance d'un être raisonnable : une cité n'a pas plus de droit naturel sur moi que le hasard de ma naissance. De là le mot [kosmopolitēs](../glossary/cosmopolitanism.md) que Diogène est le premier à se donner, citoyen du monde : non l'amour d'une patrie élargie, mais le refus d'en reconnaître aucune, l'humanité entière prise comme seul horizon. La provocation vise l'orgueil civique grec, qui faisait de l'exilé un déchu : le banni de Sinope retourne sa condition en revendication. Les stoïciens hériteront du mot, mais l'adosseront à une cité cosmique réglée par le [logos](../glossary/logos.md) ; chez Diogène il reste d'abord un geste de refus, sans cosmologie.
 
-> « On lui demandait d'où il était : « Citoyen du monde », répondit-il. » (Diogène Laërce, Vies, VI, 63)
+> « On lui demandait d'où il était : « Citoyen du monde », répondit-il. », Diogène Laërce, Vies, VI, 63
 
 *Sources : Diogène Laërce, Vies, VI, 63*
 
@@ -98,7 +98,7 @@ Primat de l'action 93% · Vie examinée 7%
 
 Puisque la philosophie a pour seul objet de bien vivre, et que bien vivre est affaire de conduite, la physique, la logique et la dispute savante sont du temps perdu : on ne devient pas tempérant en définissant la tempérance. De là le primat de la [praxis](../glossary/praxis.md) sur la théorie, qui n'est pas inculture mais cohérence. Une thèse se réfute par un acte autant que par un argument : entendant nier le mouvement, Diogène, pour toute réplique, se leva et marcha. Le geste vaut démonstration, et la vie du sage, exposée au public, tient lieu de traité.
 
-> « Comme on argumentait qu'il n'y a pas de mouvement, il se leva et se mit à marcher. » (Diogène Laërce, Vies, VI, 39)
+> « Comme on argumentait qu'il n'y a pas de mouvement, il se leva et se mit à marcher. », Diogène Laërce, Vies, VI, 39
 
 *Sources : Diogène Laërce, Vies, VI, 39 et 70-71*
 
@@ -130,7 +130,7 @@ Anarchisme 90% · Autorité 10%
 
 Si les institutions, les magistratures et les honneurs civiques ne sont que [nomos](../glossary/physis-nomos.md), alors aucune autorité établie ne tient un titre naturel à commander : Diogène méprise les puissants, raille les assemblées et ne reconnaît d'ordre qu'à la nature. La défiance va sans projet politique de remplacement : on peut, par analogie, y lire un anarchisme de l'individu autosuffisant plutôt qu'une doctrine de la cité, et la position reste inférée d'anecdotes plus qu'affirmée en thèse. Sa lanterne en plein jour, cherchant un homme, vise d'abord les figures du pouvoir et de la réputation.
 
-> « Ayant allumé une lanterne en plein jour, il disait : « Je cherche un homme. » » (Diogène Laërce, Vies, VI, 41)
+> « Ayant allumé une lanterne en plein jour, il disait : « Je cherche un homme. » », Diogène Laërce, Vies, VI, 41
 
 *Sources : Diogène Laërce, Vies, VI, 41*
 

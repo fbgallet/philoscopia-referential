@@ -24,7 +24,7 @@ Inductivism 95% · Falsificationism 5%
 
 The syllogism, Bacon objects, only links notions already received: it discovers nothing, it merely dresses up prejudice. To this logic of **anticipations** of nature he opposes a logic of **interpretation**: not to fly like the bee from experience alone, nor to spin like the spider from reason alone, but to climb step by step from facts to laws. His [induction](../glossary/induction.md) is therefore not the bare enumeration that generalizes from a few agreeing cases; it is an **eliminative** induction, drawing up tables of presence, absence, and degrees so as to rule out false causes methodically and isolate the form of the phenomenon. Science sets out from no preconceived system: it is built from the bottom up, by exclusion.
 
-> “The only hope lies in a true induction.” (Novum Organum, I, §14)
+> “The only hope lies in a true induction.”, Novum Organum, I, §14
 
 *Sources : Novum Organum, I (aphorisms 19, 95, 105) · Novum Organum, II (tables and exclusion)*
 
@@ -56,7 +56,7 @@ Reliabilism 80% · Foundationalism 15% · Coherentism 5%
 
 Before building, Bacon means to purge the mind of what distorts it: these are the four [idols](../glossary/idols-of-the-mind.md) ([idola](../glossary/idols-of-the-mind.md)), the systematic biases of knowledge. Idols of the **tribe**, inherent in the species, which lends nature more order than it has; idols of the **cave**, proper to each individual and his history; idols of the **marketplace**, slipped into thought by language and ill-made words; idols of the **theatre**, the received philosophical systems taken as so many fables played out on a stage. A belief is therefore justified not by tracing it back to a first indubitable intuition, but by the reliability of the process that produces it, once the mind is scoured of its idols and submitted to the experimental rule. The warrant lies on the side of method, not of an inner foundation.
 
-> “Four kinds of idols beset the human mind.” (Novum Organum, I, §39)
+> “Four kinds of idols beset the human mind.”, Novum Organum, I, §39
 
 *Sources : Novum Organum, I, §38-68 (the idols)*
 
@@ -68,7 +68,7 @@ Techno-optimism 95% · Techno-criticism 5%
 
 Knowledge is worth not for contemplation but for its fruits: to know causes is to be able to produce effects, and the measure of a truth is the work it makes possible. Bacon judges this by the mechanical arts, which have grown without cease while the philosophy of the schools stood still: printing, gunpowder, and the compass have changed the world more than all the systems. Technology is thus no suspect by-product of knowledge but its legitimate end and the lever of human progress, against the resignation that holds the present condition to be beyond improvement.
 
-> “Human knowledge and human power meet in one, for where the cause is not known the effect cannot be produced.” (Novum Organum, I, §3)
+> “Human knowledge and human power meet in one, for where the cause is not known the effect cannot be produced.”, Novum Organum, I, §3
 
 *Sources : Novum Organum, I, §3, §81 and §129*
 
@@ -80,7 +80,7 @@ Mastery 90% · Stewardship 10%
 
 The Fall, for Bacon, cost humanity its dominion over creation, and science has the task of restoring it: to command nature for the “relief of man's estate”. But this mastery rests on a paradox that sets it apart from any naive domination: one commands nature only by **obeying** her, by bending to her laws in order to bend her. Know first, then constrain, and only along the grain of her own causes. Nature remains a resource to be transformed in the service of humanity, but a resource that obeys only those who have first understood her.
 
-> “Nature, to be commanded, must be obeyed.” (Novum Organum, I, §129)
+> “Nature, to be commanded, must be obeyed.”, Novum Organum, Book I, aphorism 3
 
 *Sources : Novum Organum, I, §3 and §129*
 
@@ -172,7 +172,7 @@ Theism 85% · Atheism 15%
 
 Bacon professes a sincere Christian faith and holds God's existence to be assured: it is, he argues, shallow philosophy that inclines to atheism, while a deeper knowledge of nature brings the mind back to religion, for the order of the world points to its author. Theism is never put in question, even though Bacon keeps it outside the field of scientific inquiry.
 
-> “A little philosophy inclineth man's mind to atheism, but depth in philosophy bringeth men's minds about to religion.” (Essays, "Of Atheism")
+> “A little philosophy inclineth man's mind to atheism, but depth in philosophy bringeth men's minds about to religion.”, Essays, "Of Atheism"
 
 *Sources : Essays, "Of Atheism"*
 

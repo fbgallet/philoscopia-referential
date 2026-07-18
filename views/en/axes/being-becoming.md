@@ -30,6 +30,14 @@ You cannot step into the same river twice: the real is process, flow, continuous
 
 Change is neither an illusion nor the dissolution of all things: it is the passage from potentiality to actuality within a substance that persists. The form endures while the matter is transformed: the seed becomes a tree without ceasing to be that living thing. Being and becoming do not exclude each other; becoming is the way beings realize themselves. Aristotle is the emblem of this middle way, but any thought of substance persisting through change inhabits it.
 
+## Quotations
+
+> “Nature is a principle of motion and change.” — [Aristotle](../philosophers/aristotle.md), Physics, III.1 (200b)
+
+> “What is that which always is and has no becoming, and what is that which is always becoming and never is?” — [Plato](../philosophers/plato.md), Timaeus, 27d
+
+> “Whatever is subject to arising is subject to ceasing.” — Samyutta Nikāya, SN 56.11, Dhammacakkappavattana Sutta
+
 ## Related axes
 
 [Nature of mind and reality](../axes/reality-nature.md) · [Explaining nature](../axes/causality.md) · [Essence and existence](../axes/essence.md) · [Nature of the self](../axes/self-nature.md) · [Universals](../axes/universals.md)

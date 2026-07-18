@@ -1,0 +1,81 @@
+{
+  "id": "pluralism-no-demarcation-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "SCIENCE_PLACE", "poleId": "EPISTEMIC_PLURALISM" },
+  "name": { "fr": "Si tout se vaut, rien ne se sait", "en": "If all are equal, nothing is known" },
+  "attacks": "POSITION",
+  "claim": {
+    "fr": "Si aucune méthode n'a le privilège de dire le vrai, qu'est-ce qui distingue un savoir d'une illusion partagée ? L'astrologie aussi réclame son « autre façon de connaître ».",
+    "en": "If no method holds the privilege of telling the truth, what distinguishes knowledge from a shared illusion? Astrology too claims its 'other way of knowing'."
+  },
+  "summary": {
+    "fr": "Le pluralisme refuse à toute méthode le privilège du vrai. Mais sans critère qui expose une prétention au démenti, on ne peut plus corriger une erreur ni trancher entre thèses rivales : l'astrologie et le charlatanisme réclament leur place, et « tout se vaut » revient à « rien ne se sait ».",
+    "en": "Pluralism denies any method the privilege of truth. But without a criterion exposing a claim to disproof, one can no longer correct an error or decide between rival theses: astrology and quackery claim their place, and 'all are equal' comes to 'nothing is known'."
+  },
+  "development": [
+    {
+      "fr": "Le pluralisme refuse d'accorder à une méthode le privilège de dire le vrai : tous les accès au réel se vaudraient en droit.",
+      "en": "Pluralism refuses to grant any method the privilege of telling the truth: all accesses to the real would be equal in principle."
+    },
+    {
+      "fr": "Mais alors qu'est-ce qui distingue un savoir d'une illusion partagée ? L'astrologie, le complotisme, le charlatanisme réclament eux aussi leur « autre façon de connaître ».",
+      "en": "But then what distinguishes knowledge from a shared illusion? Astrology, conspiracy thinking, quackery also claim their 'other way of knowing'."
+    },
+    {
+      "fr": "Sans critère qui expose une prétention au démenti des faits, on ne peut plus corriger une erreur ni trancher entre thèses rivales : « tout se vaut » revient à « rien ne se sait ».",
+      "en": "Without a criterion that exposes a claim to the verdict of the facts, one can no longer correct an error or decide between rival theses: 'all are equal' comes down to 'nothing is known'."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc refuser tout privilège à la méthode qui s'expose aux faits menace de dissoudre la différence même entre savoir et croyance : il faut au moins un critère qui distingue ce qui s'expose au réel de ce qui s'en protège.",
+    "en": "So refusing any privilege to the method that exposes itself to the facts threatens to dissolve the very difference between knowledge and belief: one needs at least a criterion that distinguishes what exposes itself to the real from what shields itself from it."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": { "fr": "Popper", "en": "Popper" },
+    "figures": [{ "name": { "fr": "Popper", "en": "Popper" }, "kind": "PHILOSOPHER", "slug": "popper" }],
+    "work": { "fr": "Conjectures et réfutations", "en": "Conjectures and Refutations" },
+    "year": 1963
+  },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est vrai : sans critère, n'importe quoi se dit « savoir ». La méthode qui s'expose au démenti garde un privilège que rien n'égale.",
+        "en": "True: without a criterion, anything calls itself 'knowledge'. The method that exposes itself to disproof keeps a privilege nothing equals."
+      },
+      "hints": [{ "axisId": "SCIENCE_PLACE", "value": { "kind": "scalar", "value": -0.6 }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous revenez vers le scientisme, ou du moins vers le primat de la méthode : la démarcation redevient nécessaire.",
+        "en": "You return toward scientism, or at least toward the primacy of method: demarcation becomes necessary again."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je maintiens la pluralité des accès, mais j'accorde qu'il faut un garde-fou : ce qui prétend au vrai doit pouvoir être mis à l'épreuve.",
+        "en": "I maintain the plurality of accesses, but grant that a safeguard is needed: what claims truth must be open to being tested."
+      },
+      "hints": [{ "axisId": "SCIENCE_PLACE", "value": { "kind": "scalar", "value": 0 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous vous rapprochez du rationalisme critique : la pluralité demeure, sous la condition d'une exposition au réel.",
+        "en": "You move closer to critical rationalism: plurality remains, under the condition of exposure to the real."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Distinguer le savoir de l'illusion ne réclame pas UNE méthode unique : chaque domaine a ses critères propres, l'art, l'histoire, la clinique, sans se plier à celui de la physique.",
+        "en": "Distinguishing knowledge from illusion does not require ONE single method: each domain has its own criteria, art, history, clinical judgment, without bending to that of physics."
+      },
+      "hints": [{ "axisId": "SCIENCE_PLACE", "value": { "kind": "scalar", "value": 1 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "La réponse pluraliste : les critères de rigueur sont internes à chaque pratique, non importés de la seule science de la nature.",
+        "en": "The pluralist reply: standards of rigor are internal to each practice, not imported from natural science alone."
+      }
+    }
+  ],
+  "targets": ["pluralism-against-method"],
+  "problems": ["what-makes-it-science", "faith-as-a-source"],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

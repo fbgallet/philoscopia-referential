@@ -1,0 +1,37 @@
+{
+  "id": "agnosticism-limits-of-reason",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "GOD_EXISTENCE", "median": true },
+  "name": { "fr": "Ni prouver, ni réfuter", "en": "Neither prove nor refute" },
+  "claim": {
+    "fr": "Aucune preuve ne clôt la question de Dieu ; le plus honnête est de proportionner sa créance à ce qu'on peut savoir, et de suspendre son jugement.",
+    "en": "No proof settles the question of God; the honest course is to proportion belief to what can be known, and to suspend judgment."
+  },
+  "summary": {
+    "fr": "Les preuves de l'existence comme de l'inexistence de Dieu ont toutes été contestées ; or il n'est pas droit d'affirmer plus que la preuve ne permet. Suspendre son jugement n'est pas de l'indifférence : c'est la mesure exacte de ce que la raison peut.",
+    "en": "The proofs of God's existence and of his non-existence have all been contested; and it is not right to assert more than the evidence allows. Suspending judgment is not indifference: it is the exact measure of what reason can do."
+  },
+  "development": [
+    {
+      "fr": "Depuis des siècles, les preuves s'accumulent des deux côtés : arguments cosmologiques, dessein, pari d'un côté ; mal, silence, projections de l'autre. Aucune n'a jamais contraint un esprit honnête et informé, sans quoi le débat serait clos.",
+      "en": "For centuries proofs have piled up on both sides: cosmological arguments, design, the wager on one side; evil, silence, projection on the other. None has ever compelled an honest, informed mind, or the debate would be closed."
+    },
+    {
+      "fr": "Or il est de probité intellectuelle de ne pas affirmer plus que la preuve ne permet : tenir pour certain ce qui ne l'est pas, dans un sens ou dans l'autre, c'est trancher là où l'on ne sait pas, et prendre son désir, de croire ou de nier, pour un savoir.",
+      "en": "Now intellectual honesty requires asserting no more than the evidence allows: to hold as certain what is not, one way or the other, is to decide where one does not know, and to mistake one's desire, to believe or to deny, for knowledge."
+    },
+    {
+      "fr": "Suspendre son jugement n'est donc pas de la tiédeur : c'est reconnaître que la question excède ce que l'expérience et la démonstration peuvent atteindre, et garder son assentiment pour ce qui le mérite.",
+      "en": "Suspending judgment is therefore no lukewarmness: it is recognizing that the question exceeds what experience and demonstration can reach, and reserving one's assent for what deserves it."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc « je ne sais pas » n'est pas un pis-aller mais la position exacte que la preuve autorise : l'agnosticisme est la probité de la raison sur la question de Dieu.",
+    "en": "So \"I do not know\" is no fallback but the exact position the evidence licenses: agnosticism is reason's honesty on the question of God."
+  },
+  "difficulty": 1,
+  "source": { "author": { "fr": "Huxley ; Kant", "en": "Huxley; Kant" }, "figures": [{ "name": { "fr": "Thomas Huxley", "en": "Thomas Huxley" }, "kind": "PHILOSOPHER" }, { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" }], "work": { "fr": "Agnosticisme", "en": "Agnosticism" }, "year": 1889 },
+  "testThoughtExperiment": "pascal-wager",
+  "problems": ["evidence-or-faith"],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
+}

@@ -307,7 +307,7 @@
         { "name": { "fr": "Épicure", "en": "Epicurus" }, "kind": "PHILOSOPHER", "slug": "epicurus" },
         { "name": { "fr": "Leibniz", "en": "Leibniz" }, "kind": "PHILOSOPHER", "slug": "leibniz" }
       ],
-      "doorways": [{ "axis": "PROBLEM_OF_EVIL" }],
+      "doorways": [{ "axis": "PROBLEM_OF_EVIL", "problem": "epicurus-riddle" }],
       "title": { "fr": "Le mal contre Dieu", "en": "Evil against God" },
       "explicitation": { "fr": "Un Dieu à la fois tout-puissant et bon laisserait-il souffrir l'innocent, ou le mal du monde est-il compatible avec son existence ?", "en": "Would a God both all-powerful and good let the innocent suffer, or is the evil of the world compatible with his existence?" }
     },

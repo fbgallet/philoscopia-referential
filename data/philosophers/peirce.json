@@ -45,16 +45,7 @@
           "fr": "Tout le pragmatisme naît d'une règle sur le sens : pour rendre claire une conception, demande quels <c id='pragmatic-maxim'>effets pratiques concevables</c> aurait son objet, car le sens ne réside nulle part ailleurs que dans ces effets. Dire qu'un diamant est dur, c'est dire qu'il résisterait à la rayure ; une idée dont on ne saurait dériver aucune différence d'expérience concevable n'a tout simplement pas de sens. Le geste rompt avec le <c>référentialisme</c> qui loge le sens dans l'objet nommé : Peirce le place dans la conduite réglée, l'habitude d'action que l'idée engage, ce qui le rapproche d'une théorie du sens comme usage, tout en gardant un ancrage expérimental qui le sépare d'un <ph>Wittgenstein</ph>. C'est une arme contre la métaphysique verbale, ces <pb>disputes où l'on croit penser sans qu'aucune différence pratique ne soit en jeu</pb>.",
           "en": "The whole of pragmatism is born of a rule about meaning: to make a conception clear, ask what <c id='pragmatic-maxim'>conceivable practical effects</c> its object would have, for meaning resides nowhere but in those effects. To say a diamond is hard is to say it would resist being scratched; an idea from which no conceivable difference of experience could be drawn simply has no meaning. The move breaks with the <c>referentialism</c> that lodges meaning in the named object: Peirce places it in regulated conduct, the habit of action the idea engages, which brings him close to a theory of meaning as use, while keeping an experimental anchorage that sets him apart from a <ph>Wittgenstein</ph>. It is a weapon against verbal metaphysics, those <pb>disputes where one believes oneself to be thinking though no practical difference is at stake</pb>."
         },
-        "quote": {
-          "text": {
-            "fr": "Considère quels effets, qui pourraient avoir une portée pratique concevable, nous concevons qu'a l'objet de notre conception. Alors notre conception de ces effets est le tout de notre conception de l'objet.",
-            "en": "Consider what effects, that might conceivably have practical bearings, we conceive the object of our conception to have. Then, our conception of these effects is the whole of our conception of the object."
-          },
-          "source": {
-            "fr": "Comment rendre nos idées claires (1878)",
-            "en": "How to Make Our Ideas Clear (1878)"
-          }
-        },
+        "quoteId": "considere-quels-effets-qui-pourraient-avoir-peirce",
         "references": [
           {
             "fr": "Comment rendre nos idées claires (1878)",
@@ -78,16 +69,7 @@
           "fr": "Peirce définit le vrai par le terme idéal de l'enquête, non par sa réussite immédiate : l'opinion vraie est celle sur laquelle tous ceux qui enquêtent sont destinés à finir par s'accorder, et l'objet de cette opinion finale est le réel. La vérité n'est donc ni une copie figée des choses, ni la simple cohérence d'un système, mais le point de convergence vers lequel une <c id='community-of-inquiry'>communauté d'enquêteurs</c> tend à long terme, pourvu qu'elle pousse la recherche assez loin. Cette définition, qui fait de lui une figure du pôle pragmatiste, garde pourtant un noyau réaliste qui l'éloigne de <ph id='william-james'>James</ph> : le vrai n'est pas « ce qui me réussit » ni ce qu'il m'est utile de croire, mais ce que l'enquête, contrainte par un réel indépendant de nos désirs, est fatalement amenée à reconnaître. L'utilité de l'individu n'y entre pour rien.",
           "en": "Peirce defines the true by the ideal limit of inquiry, not by its immediate success: the true opinion is the one all who inquire are fated to come to agree upon in the end, and the object of that final opinion is the real. Truth is thus neither a frozen copy of things nor the mere coherence of a system, but the point of convergence toward which a <c id='community-of-inquiry'>community of inquirers</c> tends in the long run, provided it carries the inquiry far enough. This definition, which makes him a figure of the pragmatist pole, nonetheless keeps a realist core that sets him apart from <ph id='william-james'>James</ph>: the true is not « what works for me » nor what it is useful for me to believe, but what inquiry, constrained by a real independent of our desires, is fatally led to acknowledge. The individual's utility has no part in it."
         },
-        "quote": {
-          "text": {
-            "fr": "L'opinion destinée à recevoir à la fin l'accord de tous ceux qui enquêtent, voilà ce que nous entendons par le vrai, et l'objet représenté dans cette opinion est le réel.",
-            "en": "The opinion which is fated to be ultimately agreed to by all who investigate, is what we mean by the truth, and the object represented in this opinion is the real."
-          },
-          "source": {
-            "fr": "Comment rendre nos idées claires (1878)",
-            "en": "How to Make Our Ideas Clear (1878)"
-          }
-        },
+        "quoteId": "l-opinion-destinee-a-recevoir-a-peirce",
         "references": [
           {
             "fr": "Comment rendre nos idées claires (1878)",
@@ -142,16 +124,7 @@
           "fr": "Peirce attaque de front le <c id='hyperbolic-doubt'>doute hyperbolique</c> de <ph id='descartes'>Descartes</ph> : on ne peut pas douter à volonté ni feindre un doute qu'on n'a pas, le doute réel naît d'une surprise, d'un heurt de l'expérience, jamais d'une décision. Il refuse aussi l'<c>intuition</c>, cette prétendue connaissance première qui ne dériverait d'aucune autre : toute pensée est inférence à partir de pensées antérieures, signe renvoyant à d'autres signes. Du coup, la justification ne repose sur aucune croyance de base indubitable, mais sur la tenue de l'ensemble : le savoir est un câble dont la solidité vient de la multitude des fibres entrelacées, non une chaîne aussi faible que son maillon le plus fragile. Cette pente <c>cohérentiste</c> se double d'un trait fiabiliste, car ce qui valide une croyance est aussi la fiabilité éprouvée de la méthode qui l'a produite.",
           "en": "Peirce attacks head-on <ph id='descartes'>Descartes</ph>'s <c id='hyperbolic-doubt'>hyperbolic doubt</c>: one cannot doubt at will nor feign a doubt one does not have, real doubt is born of a surprise, a jolt of experience, never of a decision. He likewise rejects <c>intuition</c>, that supposed first cognition deriving from no other: all thought is inference from prior thoughts, sign referring to other signs. As a result, justification rests on no indubitable basic belief, but on the holding of the whole: knowledge is a cable whose strength comes from the multitude of intertwined fibres, not a chain as weak as its frailest link. This <c>coherentist</c> bent is doubled by a reliabilist strand, since what validates a belief is also the tested reliability of the method that produced it."
         },
-        "quote": {
-          "text": {
-            "fr": "Le raisonnement ne devrait pas former une chaîne, plus faible que son maillon le plus faible, mais un câble dont les fibres, si ténues soient-elles, sont nombreuses et intimement liées.",
-            "en": "Reasoning should not form a chain which is no stronger than its weakest link, but a cable whose fibers may be ever so slender, provided they are sufficiently numerous and intimately connected."
-          },
-          "source": {
-            "fr": "Quelques conséquences de quatre incapacités (1868)",
-            "en": "Some Consequences of Four Incapacities (1868)"
-          }
-        },
+        "quoteId": "le-raisonnement-ne-devrait-pas-former-peirce",
         "references": [
           {
             "fr": "Questions concernant certaines facultés revendiquées pour l'homme (1868)",
@@ -279,16 +252,7 @@
           "fr": "De son refus de l'<c>intuition</c> Peirce tire une conséquence radicale sur le moi : il n'y a pas de conscience de soi immédiate, le moi est une inférence tardive, que l'enfant construit pour rendre compte de ses erreurs et de l'ignorance que les autres lui révèlent. Surtout, puisque toute pensée est signe, l'homme lui-même est un signe : ce que je suis se déploie dans le tissu sémiotique de mes pensées renvoyant à d'autres pensées, sans noyau substantiel sous le flux. On est loin de la <c>chose pensante</c> de <ph id='descartes'>Descartes</ph> ; la position penche vers le faisceau, mais un faisceau réinterprété en termes de signes plutôt que de pures perceptions.",
           "en": "From his rejection of <c>intuition</c> Peirce draws a radical consequence about the self: there is no immediate self-consciousness, the self is a late inference, which the child constructs to account for its errors and the ignorance others reveal to it. Above all, since all thought is sign, man himself is a sign: what I am unfolds in the semiotic fabric of my thoughts referring to other thoughts, with no substantial core beneath the flux. We are far from <ph id='descartes'>Descartes</ph>'s <c>thinking thing</c>; the position leans toward the bundle, but a bundle reinterpreted in terms of signs rather than pure perceptions."
         },
-        "quote": {
-          "text": {
-            "fr": "Le mot ou le signe que l'homme emploie est l'homme lui-même.",
-            "en": "The word or sign which man uses is the man himself."
-          },
-          "source": {
-            "fr": "Quelques conséquences de quatre incapacités (1868)",
-            "en": "Some Consequences of Four Incapacities (1868)"
-          }
-        },
+        "quoteId": "le-mot-ou-le-signe-que-peirce",
         "references": [
           {
             "fr": "Quelques conséquences de quatre incapacités (1868)",

@@ -42,6 +42,12 @@ Where domination is itself an entrenched violence, exploitation, colonization, a
 
 *Common opinion leans toward « Just war ».*
 
+## Quotations
+
+> “Force is the midwife of every old society pregnant with a new one.” — [Marx](../philosophers/marx.md), Capital, vol. I, ch. 31
+
+> “For a war to be just, three things are necessary: the authority of the sovereign, a just cause, and a rightful intention.” — [Thomas Aquinas](../philosophers/aquinas.md), Summa Theologiae, II-II, q. 40, a. 1
+
 ## Related axes
 
 [Ideal and reality](../axes/political-ideal.md) · [Relation to authority](../axes/authority.md) · [The meaning of punishment](../axes/punishment.md) · [The origin of the social bond](../axes/social-contract.md) · [Forgiveness](../axes/forgiveness.md)

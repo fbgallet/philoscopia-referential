@@ -1,0 +1,43 @@
+{
+  "id": "pluralism-against-method",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "SCIENCE_PLACE", "poleId": "EPISTEMIC_PLURALISM" },
+  "name": { "fr": "Contre la méthode", "en": "Against method" },
+  "claim": {
+    "fr": "Il n'existe pas de méthode unique qui garantirait le vrai : la science elle-même a progressé en violant ses propres règles, et d'autres voies atteignent un réel qu'elle laisse échapper.",
+    "en": "There is no single method that would guarantee truth: science itself advanced by breaking its own rules, and other paths reach a real it lets slip."
+  },
+  "summary": {
+    "fr": "Aucun jeu de règles n'a été suivi par toute la bonne science et par elle seule ; les grandes avancées ont enfreint les canons de leur temps. Si même la science ne doit pas sa réussite à une méthode fixe, aucune ne peut être sacrée comme la seule porte du vrai, et l'art comme le vécu saisissent un réel qui échappe à la mesure.",
+    "en": "No set of rules has been followed by all good science and by it alone; the great advances broke the canons of their day. If even science does not owe its success to a fixed method, none can be crowned as the sole gateway to truth, and art and lived experience grasp a real that measurement lets slip."
+  },
+  "development": [
+    {
+      "fr": "Aucun jeu de règles n'a été suivi par toute la bonne science et par elle seule : les grandes avancées, Copernic, Galilée, se sont faites précisément en enfreignant les canons de leur temps.",
+      "en": "No set of rules has been followed by all good science and by it alone: the great advances, Copernicus, Galileo, were made precisely by breaking the canons of their day."
+    },
+    {
+      "fr": "Si même la science ne doit pas sa réussite à une méthode fixe, aucune méthode ne peut être sacrée comme la seule porte du vrai : la rationalité est plurielle et historique, non un algorithme unique.",
+      "en": "If even science does not owe its success to a fixed method, no method can be crowned as the sole gateway to truth: rationality is plural and historical, not a single algorithm."
+    },
+    {
+      "fr": "De plus, des pans entiers du réel, la qualité vécue d'une expérience, le sens d'une vie, ce qu'une tragédie ou un rite dévoile de l'humain, sont saisis par l'art, le récit, la tradition, et passent à travers le filet de la mesure en troisième personne.",
+      "en": "Moreover, whole swaths of the real, the felt quality of an experience, the meaning of a life, what a tragedy or a rite discloses about the human, are grasped by art, narrative, tradition, and slip through the net of third-person measurement."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la science est une forme puissante de savoir parmi d'autres, non la mesure de toutes : disqualifier d'avance l'art, l'expérience vécue ou les savoirs traditionnels est un dogmatisme, non un résultat.",
+    "en": "So science is one powerful form of knowledge among others, not the measure of all: to disqualify art, lived experience, or traditional knowledge in advance is a dogmatism, not a result."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": { "fr": "Feyerabend", "en": "Feyerabend" },
+    "figures": [{ "name": { "fr": "Feyerabend", "en": "Feyerabend" }, "kind": "PHILOSOPHER", "slug": "feyerabend" }],
+    "work": { "fr": "Contre la méthode", "en": "Against Method" },
+    "workId": "against-method-feyerabend",
+    "year": 1975
+  },
+  "test": "pluralism-no-demarcation-objection",
+  "problems": ["truths-science-cannot-reach", "explaining-or-understanding", "art-as-truth", "the-first-person-given"],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

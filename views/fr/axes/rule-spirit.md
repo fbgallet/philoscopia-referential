@@ -22,6 +22,12 @@ Aucune règle générale ne peut prévoir tous les cas particuliers : bien juger
 
 *[Aristote](../philosophers/aristotle.md)*
 
+## Citations
+
+> « Plus il y a de lois et d'édits, plus se multiplient les voleurs et les brigands. » — [Laozi](../philosophers/laozi.md), Dao De Jing, ch. 57
+
+> « Un homme sans humanité, qu'a-t-il à faire des rites ? Un homme sans humanité, qu'a-t-il à faire de la musique ? » — [Confucius](../philosophers/confucius.md), Entretiens, III, 3
+
 ## Axes liés
 
 [Critère du juste](../axes/ethics-foundation.md) · [Sincérité](../axes/sincerity.md)

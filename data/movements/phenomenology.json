@@ -197,16 +197,7 @@
           { "fr": "Merleau-Ponty, Phénoménologie de la perception (1945), avant-propos", "en": "Merleau-Ponty, Phenomenology of Perception (1945), preface" }
         ],
         "strength": "STRONG",
-        "quote": {
-          "text": {
-            "fr": "Nous voulons revenir aux choses mêmes.",
-            "en": "We want to go back to the things themselves."
-          },
-          "source": {
-            "fr": "Husserl, Recherches logiques, II",
-            "en": "Husserl, Logical Investigations, II"
-          }
-        }
+        "quoteId": "nous-voulons-revenir-aux-choses-memes-husserl"
       }
     },
     {

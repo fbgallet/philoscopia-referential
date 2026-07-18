@@ -1,0 +1,42 @@
+{
+  "id": "sufficientarianism-enough",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "DISTRIBUTIVE_JUSTICE", "median": true },
+  "name": { "fr": "La doctrine de la suffisance", "en": "The doctrine of sufficiency" },
+  "claim": {
+    "fr": "Ce qui est révoltant dans la pauvreté, ce n'est pas que d'autres aient plus, c'est que certains n'aient pas assez.",
+    "en": "What is outrageous about poverty is not that others have more, it is that some do not have enough."
+  },
+  "summary": {
+    "fr": "Ce qui nous indigne dans l'inégalité, c'est le manque, non l'écart. Or égalité et suffisance sont distinctes : on peut niveler sans rien régler, ou couvrir les besoins de tous en laissant de grands écarts. La juste mesure n'est donc pas « autant que les autres » mais « assez pour vivre dignement ».",
+    "en": "What outrages us in inequality is the shortfall, not the gap. But equality and sufficiency are distinct: one can level down without fixing anything, or cover everyone's needs while leaving large gaps. The right measure is thus not 'as much as others' but 'enough to live with dignity'."
+  },
+  "development": [
+    {
+      "fr": "Quand l'inégalité nous indigne, regardons ce qui nous indigne vraiment : non que le riche ait dix maisons, mais que le pauvre n'ait pas de toit. C'est le <kw>manque</kw>, pas l'écart, qui parle à notre sens de la justice.",
+      "en": "When inequality outrages us, let us look at what actually outrages us: not that the rich have ten houses, but that the poor have no roof. It is the <kw>shortfall</kw>, not the gap, that speaks to our sense of justice."
+    },
+    {
+      "fr": "Or l'égalité et la suffisance sont deux choses distinctes : on peut égaliser en <kw>nivelant par le bas</kw>, rendant tout le monde également démuni, sans rien régler ; et l'on peut couvrir les besoins de tous en laissant subsister de grands écarts au-dessus.",
+      "en": "Now equality and sufficiency are two distinct things: one can equalize by <kw>leveling down</kw>, making everyone equally destitute, without fixing anything; and one can meet everyone's needs while leaving large gaps above."
+    },
+    {
+      "fr": "Si c'est le manque qui compte, la juste mesure n'est pas « autant que les autres » mais « assez pour mener une vie digne » : au-dessus de ce seuil, l'écart perd l'essentiel de son poids moral.",
+      "en": "If it is the shortfall that counts, the right measure is not 'as much as others' but 'enough to lead a dignified life': above that threshold, the gap loses most of its moral weight."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la justice ne vise ni l'égalité parfaite des parts ni la seule liberté des échanges, mais un plancher : que nul ne tombe sous le seuil du nécessaire, l'inégalité au-dessus important bien moins.",
+    "en": "So justice aims neither at perfect equality of shares nor at the sheer freedom of exchange, but at a floor: that no one falls below the threshold of the necessary, inequality above it mattering far less."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": { "fr": "Frankfurt", "en": "Frankfurt" },
+    "figures": [{ "name": { "fr": "Frankfurt", "en": "Frankfurt" }, "kind": "PHILOSOPHER", "slug": "frankfurt" }],
+    "work": { "fr": "« L'égalité comme idéal moral »", "en": "'Equality as a Moral Ideal'" },
+    "year": 1987
+  },
+  "test": "sufficientarianism-relational-objection",
+  "problems": ["sufficiency-floor", "need-merit-equality"],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
+}

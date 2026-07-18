@@ -1,0 +1,42 @@
+{
+  "id": "plasticity-neither-angel-nor-beast",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "HUMAN_VISION", "median": true },
+  "name": { "fr": "Ni ange ni bête", "en": "Neither angel nor beast" },
+  "claim": {
+    "fr": "L'homme n'est bon ni mauvais par nature : il est l'animal malléable, qui devient ce que l'éducation et les habitudes font de lui.",
+    "en": "Man is neither good nor evil by nature: he is the malleable animal, who becomes what upbringing and habit make of him."
+  },
+  "summary": {
+    "fr": "Les deux camps citent les mêmes faits retournés, saints et bourreaux, également réels. C'est qu'aucune nature fixe ne les explique : le propre de l'homme est de n'être pas fixé, d'être façonné par l'habitude. La question n'est pas « bon ou mauvais ? » mais « par quoi est-il formé ? ».",
+    "en": "Both camps cite the same facts reversed, saints and torturers, equally real. For no fixed nature explains them: what is proper to man is to be unfixed, shaped by habit. The question is not 'good or evil?' but 'by what is he formed?'."
+  },
+  "development": [
+    {
+      "fr": "Les deux camps s'appuient sur les mêmes faits, retournés : l'un montre des saints, l'autre des bourreaux ; l'un l'entraide, l'autre la guerre. Or ces faits contraires sont également réels.",
+      "en": "Both camps rely on the same facts, reversed: one shows saints, the other torturers; one mutual aid, the other war. Yet these opposing facts are equally real."
+    },
+    {
+      "fr": "C'est qu'aucune nature fixe ne les explique : ce que l'homme a de propre, c'est de n'être pas fixé, d'apprendre, de contracter des habitudes, d'être façonné. La vertu ne lui vient ni par nature ni contre nature : il est par nature apte à la recevoir, et l'<kw>habitude</kw> l'achève.",
+      "en": "For no fixed nature explains them: what is proper to man is to be unfixed, to learn, to contract habits, to be shaped. Virtue comes to him neither by nature nor against nature: he is by nature able to receive it, and <kw>habit</kw> brings it to completion."
+    },
+    {
+      "fr": "Dès lors le même être devient doux ou féroce selon ce qui, en lui, est cultivé ou réveillé : la question « bon ou mauvais ? » est mal posée ; la vraie question est « par quoi est-il formé ? ».",
+      "en": "So the same being becomes gentle or ferocious depending on what, in him, is cultivated or awakened: the question 'good or evil?' is ill-posed; the real question is 'by what is he formed?'."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc l'homme n'est ni ange ni bête, mais capable des deux : sa nature est cette plasticité même, qui rend l'éducation décisive et interdit de parier soit sur une bonté donnée, soit sur une méchanceté fatale.",
+    "en": "So man is neither angel nor beast, but capable of both: his nature is this very plasticity, which makes education decisive and forbids betting either on a given goodness or on a fated wickedness."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": { "fr": "Aristote", "en": "Aristotle" },
+    "figures": [{ "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" }],
+    "work": { "fr": "Éthique à Nicomaque, II, 1", "en": "Nicomachean Ethics, II, 1" },
+    "workId": "nicomachean-ethics-aristotle"
+  },
+  "test": "plasticity-crooked-timber-objection",
+  "problems": ["perfectibility", "half-angel-half-beast", "is-there-a-human-nature"],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

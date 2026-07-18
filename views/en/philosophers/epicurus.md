@@ -24,7 +24,7 @@ Transforming oneself 100%
 
 Philosophy is medicine for the soul: its word is empty if it heals no suffering. Young or old, it is never too early nor too late to philosophize, that is, to work at the health of the soul; even the study of nature has no other end than to dispel the fears, of the gods and of death, that trouble our life.
 
-> “Empty is the word of the philosopher that heals no human suffering.” (fr. 221 Usener (Porphyry, Letter to Marcella, 31))
+> “Empty is the word of the philosopher that heals no human suffering.”, fr. 221 Usener (Porphyry, Letter to Marcella, 31)
 
 *Sources : Letter to Menoeceus, 122 · Principal Doctrines, XI*
 
@@ -56,7 +56,7 @@ Hedonism 90% · Eudaimonism 10%
 
 The criterion is drawn from the very nature of the living being: from birth, every creature pursues [pleasure](../glossary/hedonism.md) and shuns pain without any reasoning persuading it, which proves pleasure to be the first, connatural good. But Epicurus redefines what this pleasure is worth: its summit is not enjoyment in motion, which merely fills a lack, but the stable state in which, once the lack is filled, nothing remains to be added, the [ataraxia](../glossary/ataraxia.md) of the soul and the aponia of the body. Pleasure therefore has a limit, the absence of all pain, which makes it fully attainable and turns back the objection that pleasure is insatiable. This is his break both with vulgar pleasure and with the intellectualist eudaimonism of [Plato](../philosophers/plato.md) and [Aristotle](../philosophers/aristotle.md).
 
-> “Pleasure is the beginning and the end of the blessed life.” (Letter to Menoeceus, 128)
+> “Pleasure is the beginning and the end of the blessed life.”, Letter to Menoeceus, 128
 
 *Sources : Letter to Menoeceus, 128-129 · Principal Doctrines, III and XVIII (the limits of pleasure)*
 
@@ -68,7 +68,7 @@ Death is nothing 100%
 
 The argument rests on two premises drawn from physics: all good and evil reside in sensation, and death, the dissolution of the soul's atoms, is precisely the total privation of sensation. It follows that death can be an evil for no one, since the subject who would suffer it never coexists with it: “while we are, it is not present; when it is present, we are no more”. The fear of dying therefore targets a nothingness, and to dread a state in which one will not be is as empty as grieving over the time before one's birth. This reasoning, the second plank of the [tetrapharmakos](../glossary/tetrapharmakos.md), removes the object of the anxiety that, on Epicurus' view, poisons the whole of life.
 
-> “Death is nothing to us; for that which is dissolved is without sensation, and that which lacks sensation is nothing to us.” (Principal Doctrines, II)
+> “Death is nothing to us; for that which is dissolved is without sensation, and that which lacks sensation is nothing to us.”, Principal Doctrines, II
 
 *Sources : Letter to Menoeceus, 124-125 · Principal Doctrines, II*
 
@@ -80,7 +80,7 @@ Reasoned selection 85% · Extinction and detachment 10% · Affirmation 5%
 
 Unhappiness comes from desires one cannot fulfil, or whose satisfaction soothes nothing: the therapy is therefore to sort desires by whether they are grounded in nature and necessary to happiness. The natural and necessary desires, few in number, are easily met; the empty desires, born of a limitless opinion such as glory or wealth, are insatiable and yield only disturbance. Wisdom thus neither suppresses desire wholesale, against Cynic asceticism, nor frees it from all bounds: it schools it, confining what one should want to what nature demands and makes easy. This is a [reasoned selection](../axes/desire.md) that brings happiness within everyone's reach.
 
-> “Of the desires, some are natural and necessary, some natural but not necessary, and some neither natural nor necessary but arising from empty opinion.” (Principal Doctrines, XXIX)
+> “Of the desires, some are natural and necessary, some natural but not necessary, and some neither natural nor necessary but arising from empty opinion.”, Principal Doctrines, XXIX
 
 *Sources : Letter to Menoeceus, 127-130 · Principal Doctrines, XXIX and XXX (the classification of desires)*
 
@@ -102,7 +102,7 @@ Materialism 100%
 
 All that exists reduces to atoms and void: nothing comes from non-being, nothing dissolves into it, the whole is body and space. The soul itself is made of very fine atoms and dissolves at death. This is a thoroughgoing materialism, inherited from Democritus and developed by Lucretius, with no room for any immaterial reality.
 
-> “The totality of things is made of bodies and void.” (Letter to Herodotus, 39)
+> “The totality of things is made of bodies and void.”, Letter to Herodotus, 39
 
 *Sources : Letter to Herodotus, 39-44 (atoms and void, nothing comes from nothing) · Lucretius, On the Nature of Things, I-II*
 
@@ -124,7 +124,7 @@ Theism 65% · Atheism 35%
 
 Epicurus starts from the common preconception of the gods as blessed and incorruptible beings, and takes it seriously to the end: a perfectly happy being knows neither anger nor favour, for the care and toil of governing a world would betray a need, hence an imperfection. It follows that the gods, set apart in the intermundia, exercise no [providence](../glossary/providence.md) and dispense neither reward nor punishment: popular piety, which pictures them jealous and vengeful, is the real impiety. This theology is therefore not a covert atheism, of which he was accused, but a therapeutic strategy, the first remedy of the [tetrapharmakos](../glossary/tetrapharmakos.md), which removes the ground of the fear of the gods.
 
-> “The blessed and incorruptible being neither has trouble itself nor causes trouble to another; hence it is moved neither by anger nor by favour.” (Principal Doctrines, I)
+> “The blessed and incorruptible being neither has trouble itself nor causes trouble to another; hence it is moved neither by anger nor by favour.”, Principal Doctrines, I
 
 *Sources : Letter to Menoeceus, 123-124 (the blessed gods, unconcerned with men) · Principal Doctrines, I (the blessed and incorruptible being knows neither trouble nor anger)*
 
@@ -166,7 +166,7 @@ Asceticism 60% · Celebration 40%
 
 Although pleasure is the good, Epicurus advocates a measured sobriety: the highest pleasure is not the abundance of enjoyments but the absence of pain, which a little bread and water suffices to procure. “When we say that pleasure is the end, we do not mean the pleasures of the dissolute” but the absence of pain in the body and of trouble in the soul. The value leans slightly toward asceticism, out of frugality rather than contempt for the body.
 
-> “Bread and water confer the highest pleasure when one brings them to needy lips.” (Vatican Sayings, 59 (cf. Letter to Menoeceus))
+> “Bread and water confer the highest pleasure when one brings them to needy lips.”, Vatican Sayings, 59 (cf. Letter to Menoeceus)
 
 *Sources : Letter to Menoeceus, 130-132 (the praise of frugality) · Principal Doctrines, XV (the wealth required by nature is easily obtained)*
 
@@ -198,7 +198,7 @@ Communitarianism and patriotism 60% · Cosmopolitanism 40%
 
 The motto “live unnoticed” (lathe biosas) turns the sage away from public life: the city, its honours and ambitions are sources of disturbance, and true security lies in withdrawal and friendship, not in civic engagement. This preference for a small elective community, the Garden, over an active cosmopolitanism inclines slightly toward communitarianism.
 
-> “Live unnoticed.” (Fragment 551 Usener (lathe biosas))
+> “Live unnoticed.”, Fragment 551 Usener (lathe biosas)
 
 *Sources : Vatican Sayings, 58 (freeing oneself from the prison of public affairs) · Principal Doctrines, XIV (security through withdrawal from the crowd)*
 
@@ -230,7 +230,7 @@ Contractualism 90% · Organic community 10%
 
 Justice is nothing absolute or natural in itself: it is a “compact of utility” made so as not to harm one another, varying with place and circumstance. This conventionalist conception, where the just reduces to a contract grounded in common advantage, is an early form of contractualism.
 
-> “Natural justice is a compact of advantage, made to the end that men may neither harm one another nor be harmed.” (Principal Doctrines, XXXI)
+> “Natural justice is a compact of advantage, made to the end that men may neither harm one another nor be harmed.”, Principal Doctrines, XXXI
 
 *Sources : Principal Doctrines, XXXI-XXXVIII (justice as a compact of utility)*
 
@@ -314,7 +314,7 @@ Philia (friendship) 90% · Eros as lack 10%
 
 The Epicurean sage seeks neither passion nor the ecstasy of union, but [friendship](../glossary/philia.md): of all the things wisdom provides for the happiness of a whole life, he makes it the greatest (*[Principal Doctrines](../works/principal-doctrines-epicurus.md)*, *[Vatican Sayings](../works/vatican-sayings-epicurus.md)*). Born at first from the need for security, it frees us from the fear of others and sustains [ataraxia](../glossary/ataraxia.md); yet Epicurus moves from calculation to bond, for the sage comes to cherish the friend for his own sake and would, if need be, risk his life for him. This is a friendship with neither heaven nor the instinct of the species, reciprocal and cultivated in the Garden; only the trace of its utilitarian origin leaves it a slight share of lack being filled.
 
-> “Of all the things that wisdom provides for the happiness of a whole life, by far the greatest is the possession of friendship.” (Principal Doctrines, XXVII)
+> “Of all the things that wisdom provides for the happiness of a whole life, by far the greatest is the possession of friendship.”, Principal Doctrines, XXVII
 
 *Sources : Principal Doctrines, XXVII · Vatican Sayings, 23, 34 and 52*
 

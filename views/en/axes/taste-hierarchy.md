@@ -27,6 +27,10 @@ The hierarchy of tastes is in no way natural: it expresses relations of class. S
 - *[Beauty](../axes/beauty.md) : Objective beauty* grounds *[Hierarchy of tastes](../axes/taste-hierarchy.md) : Elitism of taste* : If some things are beautiful in themselves, then not all judgments of taste are equal: some are more correct, and educating one's eye lets one better perceive what is truly beautiful. Objective beauty supports a hierarchy of taste, where the trained eye of the connoisseur has authority over mere whim.
 - *[Beauty](../axes/beauty.md) : Subjective beauty* grounds *[Hierarchy of tastes](../axes/taste-hierarchy.md) : Egalitarianism of taste* : If beauty is only a sentiment that varies across individuals and cultures, then no taste is truer than another. Subjective beauty supports the equality of tastes: there is no disputing about tastes, and no one is entitled to impose their own as the norm.
 
+## Quotations
+
+> “Quantity of pleasure being equal, pushpin is as good as poetry.” — [Bentham](../philosophers/bentham.md), The Rationale of Reward
+
 ## Related axes
 
 [Beauty in life](../axes/aesthetic-life.md) · [Beauty](../axes/beauty.md)

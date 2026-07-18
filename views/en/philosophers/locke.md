@@ -74,7 +74,7 @@ Empiricism 95% · Rationalism 5%
 
 If an idea were truly [innate](../glossary/innate-ideas.md), it would be universally acknowledged; yet neither "whatever is, is" nor any moral principle is so to children, idiots or distant peoples. Locke thus turns the Cartesian argument from universal consent against [Descartes](../philosophers/descartes.md) and the rationalist school: the mind at birth is a [blank slate](../glossary/tabula-rasa.md), and every idea can be traced back to sensation (external objects) or reflection (the mind's operations on its own ideas). The wager is bold: to show that these two sources alone suffice to compose the whole content of thought, down to the most abstract notions.
 
-> “Let us suppose the mind to be, as we say, white paper, void of all characters, without any ideas: how comes it to be furnished? ... To this I answer, in one word, from experience.” (Essay Concerning Human Understanding, II, ch. 1, §2)
+> “Let us suppose the mind to be, as we say, white paper, void of all characters, without any ideas: how comes it to be furnished? ... To this I answer, in one word, from experience.”, Essay Concerning Human Understanding, II, ch. 1, §2
 
 *Sources : Essay Concerning Human Understanding, I (against innate ideas) and II, ch. 1 (sensation and reflection)*
 
@@ -106,7 +106,7 @@ Evidentialism 95% · Non-evidentialism 5%
 
 Since our knowledge of matters of fact stays bounded to the probable, the right use of the understanding is not to believe firmly but to measure assent to evidence: the firmness of belief must exactly track the weight of the grounds. Hence a properly evidentialist norm, on which to believe beyond what the proofs warrant becomes a fault, not against prudence, but against reason itself. Locke makes of it the weapon aimed at enthusiasm, the claim to an inner light that dispenses with proof, and grounds on it his demand for toleration: an unexamined conviction entitles no one to impose it on others.
 
-> “The mind, if it will proceed rationally, ought to examine all the grounds of probability ... and upon a due balancing the whole, reject or receive it, with a more or less firm assent, proportionably to the preponderancy of the greater grounds of probability.” (Essay Concerning Human Understanding, IV, ch. 15-16 (probability and the degrees of assent))
+> “The mind, if it will proceed rationally, ought to examine all the grounds of probability ... and upon a due balancing the whole, reject or receive it, with a more or less firm assent, proportionably to the preponderancy of the greater grounds of probability.”, Essay Concerning Human Understanding, IV, ch. 15-16 (probability and the degrees of assent)
 
 *Sources : Essay Concerning Human Understanding, IV, ch. 16 (the degrees of assent) and ch. 19 (enthusiasm)*
 
@@ -138,7 +138,7 @@ Psychological continuity 100%
 
 Locke detaches personal identity from substance, whether material or spiritual: what makes me the same person over time is the continuity of consciousness, and notably the memory linking my past actions to my present. Person is thus a forensic term, bound to imputation: [psychological continuity](../axes/self-nature.md) before the name existed.
 
-> “As far as this consciousness can be extended backwards to any past action or thought, so far reaches the identity of that person.” (Essay Concerning Human Understanding, II, ch. 27, §9)
+> “As far as this consciousness can be extended backwards to any past action or thought, so far reaches the identity of that person.”, Essay Concerning Human Understanding, II, ch. 27, §9
 
 *Sources : Essay Concerning Human Understanding, II, ch. 27 ("Of Identity and Diversity")*
 
@@ -150,7 +150,7 @@ Culturalism 88% · Naturalism 13%
 
 A direct consequence of the [blank slate](../glossary/tabula-rasa.md): what a man becomes owes far more to education, habit and environment than to any nature given in advance. Locke reckons that nearly all the differences among men come from the upbringing they receive, making him a strong proponent of [culturalism](../axes/human-nature.md).
 
-> “Of all the men we meet with, nine parts of ten are what they are, good or evil, useful or not, by their education.” (Some Thoughts Concerning Education, §1)
+> “Of all the men we meet with, nine parts of ten are what they are, good or evil, useful or not, by their education.”, Some Thoughts Concerning Education, §1
 
 *Sources : Some Thoughts Concerning Education, §1 ("nine parts of ten are what they are by their education")*
 
@@ -192,7 +192,7 @@ Libertarianism 83% · Egalitarianism 18%
 
 If the earth is given in common to all, how can a thing become mine without each person's consent? Locke's answer starts from a title prior to any compact: every man owns his own person, and therefore the labour of his body. By mixing that labour with something held in common, I join to it something already mine and rightfully withdraw it, owing no one's agreement. Property is thus a natural right grounded in labour, prior to the state, which places Locke toward the [libertarian](../axes/distributive-justice.md) end of the axis. Yet the famous Lockean proviso, that "enough, and as good" be left for others, inscribes from the outset a moral limit on appropriation.
 
-> “The labour of his body and the work of his hands, we may say, are properly his. Whatsoever then he removes out of the state that nature hath provided ... he hath mixed his labour with, and thereby makes it his property.” (Two Treatises of Government, II, ch. 5, §27)
+> “The labour of his body and the work of his hands, we may say, are properly his. Whatsoever then he removes out of the state that nature hath provided ... he hath mixed his labour with, and thereby makes it his property.”, Two Treatises of Government, II, ch. 5, §27
 
 *Sources : Two Treatises of Government, II, ch. 5 ("Of Property", labour and the Lockean proviso)*
 

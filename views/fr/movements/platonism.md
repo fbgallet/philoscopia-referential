@@ -56,7 +56,7 @@ Idéalisme 85% · Dualisme 15%
 
 Le réel se mesure à la stabilité de l'être : ce qui demeure identique est plus réel que ce qui flotte entre l'être et le non-être. Or le sensible, toujours en devenir, n'a qu'un être emprunté, tenu par participation (le rapport par lequel le sensible tient son être de l'intelligible) à l'intelligible qui le fonde. De là un dualisme (la division du réel en deux ordres, l'intelligible et le sensible, l'âme et le corps) hiérarchisé, deux mondes mais non à égalité : le sensible est l'ombre, l'intelligible la source. L'**allégorie de la caverne** en fait un argument sur la condition humaine, prisonnière des copies tant qu'elle n'a pas converti son regard. Contre le matérialisme, ce n'est pas le corps qui fonde l'âme, mais l'intelligible qui fonde le sensible.
 
-> « Cette demeure, c'est la prison ; la lumière du feu qui s'y trouve, c'est le soleil ; et la montée vers le haut, c'est l'ascension de l'âme vers le lieu intelligible. » (Platon, République, VII, 517b)
+> « Cette demeure, c'est la prison ; la lumière du feu qui s'y trouve, c'est le soleil ; et la montée vers le haut, c'est l'ascension de l'âme vers le lieu intelligible. », République, VII, 517b
 
 *Sources : Platon, République, 514a-517a, allégorie de la caverne · Plotin, Ennéades, V*
 
@@ -68,7 +68,7 @@ Transcendance 98% · Immanence 3%
 
 L'argument procède par analogie solaire : de même que le soleil donne aux choses d'être vues et de croître sans être lui-même la vue ni les choses, le Bien donne aux Idées d'être connues et d'être, sans être lui-même une Idée parmi elles. Un principe qui rend l'être possible ne saurait donc figurer au rang des êtres qu'il fonde : il faut le poser [au-delà de l'essence](../glossary/transcendence.md). Plotin radicalise ce pas en faisant de l'Un l'origine d'où tout procède par émanation, ineffable parce qu'antérieur à toute détermination. Cette [transcendance](../glossary/transcendence.md) du fondement sépare le platonisme du divin [immanent](../glossary/immanence.md) des stoïciens, mêlé à la matière du monde.
 
-> « Le Bien n'est pas l'être, mais il est encore au-dessus et au-delà de l'être, le surpassant en dignité et en puissance. » (Platon, République, VI, 509b)
+> « Le Bien n'est pas l'être, mais il est encore au-dessus et au-delà de l'être, le surpassant en dignité et en puissance. », République, VI, 509b
 
 *Sources : Platon, République, 509b, le Bien au-delà de l'essence · Plotin, Ennéades, VI, 9, sur l'Un*
 
@@ -110,7 +110,7 @@ Beau objectif 95% · Beau subjectif 5%
 
 Le platonisme tient une beauté objective : la [Forme du Beau](../glossary/theory-of-forms.md) est une réalité en soi, éternelle et identique, dont les beautés sensibles ne sont que de pâles participations. Le beau ne dépend pas du goût du spectateur mais d'une essence que la raison peut contempler.
 
-> « Une beauté qui d'abord existe éternellement, qui n'est sujette ni à naître ni à périr, ni à croître ni à décroître ; qui de plus n'est point belle en telle partie et laide en telle autre. » (Platon, Banquet, 211a)
+> « Une beauté qui d'abord existe éternellement, qui n'est sujette ni à naître ni à périr, ni à croître ni à décroître ; qui de plus n'est point belle en telle partie et laide en telle autre. », Banquet, 211a
 
 *Sources : Platon, Banquet, 210a-211d, l'échelle du beau · Platon, Hippias majeur*
 

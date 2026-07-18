@@ -46,10 +46,29 @@ La valeur morale s'attache aux ensembles écologiques eux-mêmes : espèces, éc
 - **Faut-il cesser d'exploiter les animaux ?** : Si les animaux sensibles comptent vraiment, l'élevage industriel, l'abattage et l'expérimentation deviennent-ils des maux qu'il faut cesser, jusqu'à changer nos vies et nos assiettes, ou peut-on leur devoir des égards sans renoncer à s'en servir ?
 - **L'individu ou le tout** : L'écologie valorise l'intégrité de la communauté biotique, quitte à abattre les animaux d'une espèce envahissante pour préserver l'ensemble : la valeur est-elle dans le tout, ou dans chaque individu sensible que cette gestion sacrifie ?
 
+## Arguments
+
+- *Anthropocentrisme* · pour : [La dignité de la personne](../arguments/anthropocentrism-dignity.md)
+- *Anthropocentrisme* · contre : [L'argument des cas marginaux](../arguments/anthropocentrism-marginal-cases-objection.md)
+- *Pathocentrisme* · pour : [« Peuvent-ils souffrir ? »](../arguments/pathocentrism-can-they-suffer.md)
+- *Pathocentrisme* · contre : [La sensibilité, une frontière arbitraire ?](../arguments/pathocentrism-reverence-objection.md)
+- *Biocentrisme* · pour : [Le respect de la vie](../arguments/biocentrism-reverence-for-life.md)
+- *Biocentrisme* · contre : [Un bien, mais pour qui ?](../arguments/biocentrism-no-interests-objection.md)
+- *Écocentrisme* · pour : [L'éthique de la terre](../arguments/ecocentrism-land-ethic.md)
+- *Écocentrisme* · contre : [Le tout contre l'individu](../arguments/ecocentrism-environmental-fascism-objection.md)
+
 ## Relations de fondation
 
 - *[Nature de l'esprit et du réel](../axes/reality-nature.md) : Matérialisme* fonde *[Cercle moral](../axes/moral-circle.md) : Pathocentrisme* : Si l'homme n'est pas une âme à part mais un animal parmi les animaux, aucune frontière métaphysique ne sépare radicalement ses intérêts de ceux des autres êtres sensibles. Le matérialisme soutient le pathocentrisme : ce qui compte moralement n'est pas la raison, mais la capacité de souffrir, partagée avec les bêtes. [Bentham](../philosophers/bentham.md) en tire que la vraie question est « peuvent-ils souffrir ? », argument que [Singer](../philosophers/singer.md) reprend contre le spécisme.
 - *[Nature de la conscience](../axes/consciousness-nature.md) : Dualisme des substances* fonde *[Cercle moral](../axes/moral-circle.md) : Anthropocentrisme* : Si seule l'âme rationnelle confère une intériorité véritable, les animaux, privés de cette substance pensante, ne sont que des mécanismes sans dignité propre. Le dualisme des substances soutient l'anthropocentrisme moral : chez [Descartes](../philosophers/descartes.md), la « bête-machine » n'entre pas dans le cercle de nos devoirs directs. Le lien est toutefois moins net chez les anthropocentristes qui, tel [Kant](../philosophers/kant.md), fondent la dignité sur la raison plutôt que sur une âme-substance.
+
+## Citations
+
+> « La compassion pour les animaux est si étroitement liée à la bonté du caractère qu'on peut affirmer avec assurance que qui est cruel envers les animaux ne saurait être un homme bon. » — [Schopenhauer](../philosophers/schopenhauer.md), Le Fondement de la morale, §19
+
+> « La question n'est pas : peuvent-ils raisonner ? ni : peuvent-ils parler ? mais : peuvent-ils souffrir ? » — [Bentham](../philosophers/bentham.md), Introduction aux principes de la morale et de la législation, ch. XVII
+
+> « Tous tremblent devant le bâton, tous craignent la mort. Se mettant à la place des autres, qu'on ne tue ni ne fasse tuer. » — [Le Bouddha](../philosophers/buddha.md), Dhammapada, X, 129
 
 ## Axes liés
 

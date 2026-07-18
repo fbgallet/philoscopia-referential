@@ -72,6 +72,32 @@ Death is the supreme evil, an unacceptable scandal, not an event to greet with s
 
 - With [Existence of God](../axes/god-existence.md) : Confidently asserting that no God and nothing divine exists, then expecting that at death a soul, or something of oneself, survives it, puts two positions in tension: immortalist hope usually presupposes an order, a judgment, or a spiritual reality that atheism rejects. Holding both calls at least for saying what such survival would then rest upon.
 
+## Quotations
+
+> “He who has learned to die has unlearned slavery.” — [Seneca](../philosophers/seneca.md), Letters to Lucilius, XXVI
+
+> “Those who practise philosophy in the right way are in training for dying.” — [Plato](../philosophers/plato.md), Phaedo, 67e
+
+> “To fear death is nothing other than to think oneself wise when one is not, to think one knows what one does not know.” — [Socrates](../philosophers/socrates.md), Plato, Apology, 29a
+
+> “It is never born and never dies; unborn, abiding, eternal, it is not slain when the body is slain.” — [Śaṅkara](../philosophers/shankara.md), Bhagavad Gītā, II.20, as commented by Śaṅkara
+
+> “There is no such thing as a natural death.” — [Beauvoir](../philosophers/beauvoir.md), A Very Easy Death
+
+> “What matters is to die unreconciled and not of one's own free will.” — [Camus](../philosophers/camus.md), The Myth of Sisyphus, 'Absurd Freedom'
+
+> “Death, then, is nothing to us and touches us not at all, since the nature of the mind is held to be mortal.” — [Lucretius](../philosophers/lucretius.md), On the Nature of Things, III, 830-831
+
+> “Death is nothing to us, for that which is dissolved is without sensation, and that which lacks sensation is nothing to us.” — [Epicurus](../philosophers/epicurus.md), Letter to Menoeceus, 124-125
+
+> “Death is nothing to us; for that which is dissolved is without sensation, and that which lacks sensation is nothing to us.” — [Epicurus](../philosophers/epicurus.md), Principal Doctrines, II
+
+> “Life and death follow each other like day and night. Why should I grieve over it?” — [Zhuangzi](../philosophers/zhuangzi.md), ch. 18 (Perfect Happiness)
+
+> “We will no longer tolerate the tyranny of aging and death.” — [Max More](../philosophers/max-more.md), 'A Letter to Mother Nature' (1999)
+
+> “Pass out of life as a ripe olive falls, blessing the nature that produced it and giving thanks to the tree on which it grew.” — [Marcus Aurelius](../philosophers/marcus-aurelius.md), Meditations, IV, 48
+
 ## Related axes
 
 [Existence of God](../axes/god-existence.md) · [The meaning of life](../axes/life-meaning.md) · [Temporal orientation](../axes/time-orientation.md) · [Nature of the self](../axes/self-nature.md) · [Enhancing human nature](../axes/human-enhancement.md)

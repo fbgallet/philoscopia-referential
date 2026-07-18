@@ -1,0 +1,45 @@
+{
+  "id": "ecocentrism-land-ethic",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "MORAL_CIRCLE", "poleId": "ECOCENTRISM" },
+  "name": { "fr": "L'éthique de la terre", "en": "The land ethic" },
+  "claim": {
+    "fr": "Une chose est juste quand elle tend à préserver l'intégrité, la stabilité et la beauté de la communauté du vivant ; injuste quand elle tend au contraire.",
+    "en": "A thing is right when it tends to preserve the integrity, stability, and beauty of the community of life; wrong when it tends otherwise."
+  },
+  "summary": {
+    "fr": "Aucun vivant n'existe seul : chacun dépend d'un tout, la communauté biotique, que l'éthique des seuls individus ne sait pas juger. Or ces touts portent toute vie individuelle : leur intégrité a une valeur propre, et l'homme n'en est qu'un membre.",
+    "en": "No living thing exists alone: each depends on a whole, the biotic community, which an ethics of individuals alone cannot judge. But those wholes carry all individual life: their integrity has a worth of its own, and the human is but one member of them."
+  },
+  "development": [
+    {
+      "fr": "Aucun vivant n'existe seul : chacun n'est ce qu'il est que par le tout, sols, eaux, plantes, animaux, dont il dépend et qu'il fait tenir en retour, une <kw>communauté biotique</kw>.",
+      "en": "No living thing exists alone: each is what it is only through the whole, soils, waters, plants, animals, on which it depends and which it in turn helps hold together, a <kw>biotic community</kw>."
+    },
+    {
+      "fr": "Une éthique centrée sur les seuls individus manque ce niveau : elle sait juger un acte envers tel animal, non envers une espèce, une rivière, un écosystème, qui peuvent prospérer ou s'effondrer sans être des individus sensibles.",
+      "en": "An ethics centered on individuals alone misses this level: it can judge an act toward this animal, not toward a species, a river, an ecosystem, which can flourish or collapse without being sentient individuals."
+    },
+    {
+      "fr": "Or ce sont ces touts qui portent toute vie individuelle : leur intégrité est la condition de tous les biens particuliers, et possède à ce titre une valeur que la somme des individus ne capte pas.",
+      "en": "Now it is these wholes that carry all individual life: their integrity is the condition of every particular good, and on that ground holds a worth that the sum of individuals does not capture."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc l'homme n'est pas maître de la nature mais <ax id='HUMAN_PLACE_NATURE' pole='MEMBER_AMONG_OTHERS'>membre de la communauté biotique</ax> : le bien ultime est la santé de ce tout, dont chaque être, humain compris, n'est qu'une part.",
+    "en": "So the human is not the master of nature but a <ax id='HUMAN_PLACE_NATURE' pole='MEMBER_AMONG_OTHERS'>member of the biotic community</ax>: the ultimate good is the health of that whole, of which every being, humans included, is but a part."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": { "fr": "Leopold, Næss", "en": "Leopold, Næss" },
+    "figures": [
+      { "name": { "fr": "Leopold", "en": "Leopold" }, "kind": "PHILOSOPHER", "slug": "leopold" },
+      { "name": { "fr": "Næss", "en": "Næss" }, "kind": "PHILOSOPHER", "slug": "naess" }
+    ],
+    "work": { "fr": "Almanach d'un comté des sables, « La land ethic »", "en": "A Sand County Almanac, 'The Land Ethic'" },
+    "year": 1949
+  },
+  "test": "ecocentrism-environmental-fascism-objection",
+  "problems": ["individual-or-whole", "moral-status-criterion"],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

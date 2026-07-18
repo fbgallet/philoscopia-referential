@@ -102,7 +102,7 @@ What is up to us 95% · Prometheanism 5%
 
 The world already follows its own [ziran 自然 (the spontaneity of the natural)](../glossary/ziran.md): to set it right by will, by law or by calculated effort is to break that order and produce the opposite of what one intends, as one kills a plant by pulling at its shoots. From this observation Taoism draws [wu wei 無為 (non-action, action without forcing)](../glossary/wu-wei.md): not inertia, but an efficacy through espousal rather than constraint, like water that, being the most yielding, wears down the hard by giving way to it. Where [Confucianism](../movements/confucianism.md) would reform man through moral effort and ritual, the Taoist holds that all willful action deepens the very disorder it means to mend: it is the exact reverse of a [Promethean](../glossary/dichotomy-of-control.md) drive to mastery.
 
-> “Nothing in the world is softer and weaker than water; yet for attacking what is hard and strong nothing surpasses it.” (Laozi, Dao De Jing, ch. 78)
+> “Nothing in the world is softer and weaker than water; yet for attacking what is hard and strong nothing surpasses it.”, Dao De Jing, ch. 78
 
 *Sources : Laozi, Dao De Jing (Tao Te Ching), ch. 43, 78 · Zhuangzi, ch. 6 (The Great and Venerable Teacher)*
 
@@ -124,7 +124,7 @@ Immanence 93% · Transcendence 8%
 
 A source that engenders everything cannot stand outside what it engenders: if the [dao 道 (the Way)](../glossary/dao.md) is the origin of the ten thousand things, it inhabits them all rather than reigning over them from a world beyond. Far from a personal, transcendent god who creates by decree and commands from without, the dao is [immanent](../glossary/immanence.md) and impersonal: it makes things grow without possessing them, acts without claiming the merit. Hence Zhuangzi's provocation when asked where the dao is: it is in the ant, the blade of grass, the tile, and even the dung, for what is everywhere cannot be missing from the lowliest thing.
 
-> “There is no place where the dao is not.” (Zhuangzi, ch. 22)
+> “There is no place where the dao is not.”, ch. 22
 
 *Sources : Zhuangzi, ch. 22 (Knowledge Wandered North) · Laozi, Dao De Jing, ch. 34*
 
@@ -136,7 +136,7 @@ Skepticism 85% · Dogmatism 15%
 
 To name is to carve reality into opposed categories (great and small, true and false), yet the [dao 道 (the Way)](../glossary/dao.md) is the undivided ground from which those distinctions proceed: no word can grasp it without betraying it. Language fits bounded things, never the source that engenders them all. Zhuangzi draws from this a radical perspectivism: every judgment speaks from a situated standpoint, disputation merely sets two partialities against each other with no judge above them, and to claim a universal verdict is to mistake one's perch for the center of the world. Hence a [skepticism](../glossary/skepticism.md) that aims less to deny than to dissolve the claim to certain knowledge and to free one from the need to be right.
 
-> “The dao that can be told is not the constant dao.” (Laozi, Dao De Jing, ch. 1)
+> “The dao that can be told is not the constant dao.”, Dao De Jing, ch. 1
 
 *Sources : Laozi, Dao De Jing, ch. 1 · Zhuangzi, ch. 2 (On the Equality of Things)*
 
@@ -158,7 +158,7 @@ Anarchism 78% · Authority 22%
 
 The good Taoist ruler is the one who governs least: he practices [wu wei 無為 (non-action)](../glossary/wu-wei.md) in politics, lightens laws and constraints, and lets the people follow their [ziran 自然 (natural bent)](../glossary/ziran.md). Multiplying prohibitions and regulations only increases disorder, hence a libertarian leaning close to anarchism.
 
-> “Governing a great state is like cooking a small fish.” (Laozi, Dao De Jing, ch. 60)
+> “Governing a great state is like cooking a small fish.”, Dao De Jing, ch. 60
 
 *Sources : Laozi, Dao De Jing, ch. 57, 60 · Zhuangzi, ch. 11 (Letting Be and Exercising Forbearance)*
 

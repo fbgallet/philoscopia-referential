@@ -63,7 +63,7 @@ Bundle theory 90% · Psychological continuity 10%
 
 The argument proceeds by exhaustive review: Gautama runs through the five aggregates that make up a person (form, feeling, perception, formations, consciousness) and shows that none meets the criteria for a self. Each is [impermanent (anicca)](../glossary/anicca.md), hence a source of dis-ease, and above all eludes our command, "let it be thus and not otherwise"; yet what can neither last nor be mastered cannot be held as "my self". With no fifth term surviving behind these aggregates, there is no self-substance, only a bundle of conditioned processes: this is [not-self (anattā)](../glossary/anatta.md), which squarely rejects the [ātman](../glossary/atman.md) of the Upaniṣads, the permanent Self identified with [brahman](../glossary/brahman.md) that the Brahmanical tradition held to be our true identity.
 
-> “Form is not-self, feeling is not-self, perception is not-self, formations are not-self, consciousness is not-self.” (Anattalakkhaṇa Sutta (Saṃyutta Nikāya 22.59))
+> “Form is not-self, feeling is not-self, perception is not-self, formations are not-self, consciousness is not-self.”, Anattalakkhaṇa Sutta (Saṃyutta Nikāya 22.59)
 
 *Sources : Anattalakkhaṇa Sutta, Saṃyutta Nikāya 22.59 (the discourse on the not-self characteristic) · Dhammapada, XX, 279 (all phenomena are not-self)*
 
@@ -75,7 +75,7 @@ Extinction and detachment 95% · Reasoned selection 5%
 
 If all suffering is conditioned, it has a locatable cause, and to remove the cause is to remove the effect: this is the logic of [dependent origination (pratītyasamutpāda)](../glossary/pratityasamutpada.md) applied to dis-ease. Gautama then traces the chain back and names [craving (taṇhā)](../glossary/tanha.md) as that link, the grasping thirst that clings to pleasures, to existence, or even to non-existence and sets the wheel of rebirth turning again. The move is original: he neither moralizes desire as a vice nor celebrates it as fullness, but coolly identifies it as the cause to be extinguished, which puts detachment at the centre of the path and guarantees, against any fatalism, that release is possible.
 
-> “This is the noble truth of the origin of suffering: it is this craving which leads to renewed existence.” (Dhammacakkappavattana Sutta (Saṃyutta Nikāya 56.11))
+> “This is the noble truth of the origin of suffering: it is this craving which leads to renewed existence.”, Dhammacakkappavattana Sutta (Saṃyutta Nikāya 56.11)
 
 *Sources : Dhammacakkappavattana Sutta, Saṃyutta Nikāya 56.11 (the sermon at Benares) · Dhammapada, ch. XXIV (Craving)*
 
@@ -107,7 +107,7 @@ Asceticism 65% · Celebration 35%
 
 The criterion is not moral but pragmatic: what counts is what actually leads to awakening. Gautama had tested both failures in his own flesh, the pleasure-life of the palace and the six years of extreme fasting that had left him wasted without awakening him; from this he concludes that both extremes miss their aim. The first sermon accordingly rejects both the pursuit of sensual pleasures, "low and vulgar", and self-mortification, "painful and fruitless", for the [Middle Way](../glossary/the-middle-way.md) alone. Without condemning the body, he treats sensory pleasures as attachments that feed [craving (taṇhā)](../glossary/tanha.md): the leaning stays ascetic, but regulated and deliberately measured, against the grain of the radical asceticism of the renunciants of his time.
 
-> “These two extremes, monks, should not be followed by one who has gone forth: the pursuit of sensual pleasure, and the pursuit of self-mortification.” (Dhammacakkappavattana Sutta (Saṃyutta Nikāya 56.11))
+> “These two extremes, monks, should not be followed by one who has gone forth: the pursuit of sensual pleasure, and the pursuit of self-mortification.”, Dhammacakkappavattana Sutta (Saṃyutta Nikāya 56.11)
 
 *Sources : Dhammacakkappavattana Sutta, Saṃyutta Nikāya 56.11 (the two extremes and the Middle Way)*
 
@@ -139,7 +139,7 @@ Impartialism 85% · Partialism 15%
 
 Loving-kindness (mettā) is cultivated toward all beings without distinction: the practice taught consists in extending loving-kindness beyond loved ones, to the indifferent and then to the enemy, as a mother protects her only child. Extended to all that lives, this benevolence tilts the teaching toward a benevolent impartialism.
 
-> “As a mother would protect her only child at the risk of her own life, so let one cultivate a boundless heart toward all beings.” (Karaṇīya Mettā Sutta (Sutta Nipāta 1.8))
+> “As a mother would protect her only child at the risk of her own life, so let one cultivate a boundless heart toward all beings.”, Karaṇīya Mettā Sutta (Sutta Nipāta 1.8)
 
 *Sources : Karaṇīya Mettā Sutta, Sutta Nipāta 1.8 (the discourse on loving-kindness) · Dhammapada, ch. I (The Pairs)*
 
@@ -151,7 +151,7 @@ Pathocentrism 85% · Biocentrism 7% · Anthropocentrism 5% · Ecocentrism 3%
 
 Non-harming (ahiṃsā) and the first precept, to abstain from harming the living, extend moral consideration to all sentient beings capable of suffering, not to humans alone. All fear the rod, all hold life dear: compassion expressly takes in the whole of living beings caught in the cycle of rebirth, which places the teaching on the pathocentric side.
 
-> “All tremble at the rod, all fear death. Putting oneself in the place of others, let none kill nor cause to kill.” (Dhammapada, X, 129)
+> “All tremble at the rod, all fear death. Putting oneself in the place of others, let none kill nor cause to kill.”, Dhammapada, X, 129
 
 *Sources : Dhammapada, ch. X (Violence), 129-130 · Karaṇīya Mettā Sutta, Sutta Nipāta 1.8 (may all beings be happy)*
 
@@ -163,7 +163,7 @@ The examined life 85% · Primacy of action 15%
 
 The transformation aimed at proceeds first through inner examination: observing one's own mental states, [impulses (taṇhā)](../glossary/tanha.md), and perceptions in meditation and introspection. The good life turns on work upon the mind more than on outward action, even though ethical conduct (sīla) is its indispensable support.
 
-> “All that we are is the result of what we have thought: it is founded on our thoughts, it is made up of our thoughts.” (Dhammapada, I, 1)
+> “All that we are is the result of what we have thought: it is founded on our thoughts, it is made up of our thoughts.”, Dhammapada, I, 1
 
 *Sources : Dhammapada, ch. I (The Pairs), 1-2 · Satipaṭṭhāna Sutta, Majjhima Nikāya 10 (the foundations of mindfulness)*
 

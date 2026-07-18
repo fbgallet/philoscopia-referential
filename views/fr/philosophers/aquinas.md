@@ -24,7 +24,7 @@ Guerre juste 100%
 
 La Somme systématise la **guerre juste** en trois conditions : l'autorité du prince (nul particulier ne peut déclarer la guerre), la cause juste (punir une faute, repousser l'injustice) et l'intention droite (viser le bien et la paix, non la vengeance ou la cupidité). La force n'est pas mauvaise en soi : elle est un instrument de la justice quand ces conditions sont réunies, comme le glaive remis au pouvoir public.
 
-> « Pour qu'une guerre soit juste, trois conditions sont requises : l'autorité du prince, une cause juste, une intention droite. » (Somme théologique, II-II, q. 40, a. 1)
+> « Pour qu'une guerre soit juste, trois conditions sont requises : l'autorité du prince, une cause juste, une intention droite. », Somme théologique, II-II, q. 40, a. 1
 
 *Sources : Somme théologique, II-II, q. 40 · Somme théologique, II-II, q. 64, a. 7 (légitime défense, double effet)*
 
@@ -46,7 +46,7 @@ Théisme 98% · Athéisme 3%
 
 Thomas refuse à la fois le fidéisme, qui tiendrait l'existence de Dieu pour une simple affaire de foi, et l'argument ontologique d'[Anselme](../philosophers/anselm.md), qui prétendait la déduire du seul concept : pour un esprit fini, l'existence de Dieu n'est pas évidente par soi, elle se démontre à partir des effets. De là les [cinq voies](../glossary/five-ways.md), qui partent toutes d'un fait d'expérience (le mouvement, la causalité, le contingent, les degrés de perfection, l'ordre des fins) et remontent, pour éviter une régression à l'infini, jusqu'à un premier terme : moteur immobile, cause incausée, être nécessaire. Le théisme est donc tenu pour rationnellement établi, et non pas seulement cru.
 
-> « Tout ce qui est mû est mû par un autre ; il faut donc en venir à un premier moteur qui ne soit mû par rien, et c'est lui que tous appellent Dieu. » (Somme théologique, Ia, q. 2, a. 3 (la première voie))
+> « Tout ce qui est mû est mû par un autre ; il faut donc en venir à un premier moteur qui ne soit mû par rien, et c'est lui que tous appellent Dieu. », Somme théologique, Ia, q. 2, a. 3 (la première voie)
 
 *Sources : Somme théologique, Ia, q. 2, a. 3 (les cinq voies) · Somme contre les Gentils, I, 13*
 
@@ -58,7 +58,7 @@ Vertu / perfectionnisme moral 60% · Eudémonisme 35% · Hédonisme 5%
 
 Reprenant l'[eudémonisme](../glossary/eudaimonism.md) d'[Aristote](../philosophers/aristotle.md), Thomas accorde que toute action vise une fin dernière, le bonheur ; mais il montre qu'aucun bien fini, ni richesse, ni honneur, ni plaisir, ni même la contemplation philosophique, ne peut combler le désir naturel de l'homme, qui ne s'apaise que dans le bien universel. Or seul Dieu est ce bien sans limite : la béatitude parfaite ne peut donc consister qu'en la [vision béatifique](../glossary/beatific-vision.md), la contemplation de l'essence divine, inaccessible en cette vie et reçue par grâce. L'eudémonisme grec est ainsi conservé mais dépassé, le souverain bien étant rapporté à un perfectionnement que la nature appelle sans pouvoir l'atteindre seule.
 
-> « La béatitude ultime et parfaite ne peut être que dans la vision de l'essence divine. » (Somme théologique, Ia-IIae, q. 3, a. 8)
+> « La béatitude ultime et parfaite ne peut être que dans la vision de l'essence divine. », Somme théologique, Ia-IIae, q. 3, a. 8
 
 *Sources : Somme théologique, Ia-IIae, q. 1-5*
 
@@ -150,7 +150,7 @@ Empirisme 65% · Rationalisme 35%
 
 Thomas refuse l'[innéisme](../glossary/innate-ideas.md) et pose, à la suite d'[Aristote](../philosophers/aristotle.md), que toute connaissance commence par les sens, l'intellect étant d'abord comme une [table rase](../glossary/tabula-rasa.md) où rien n'est écrit. Mais l'empirisme est tempéré : l'[intellect agent](../glossary/agent-intellect.md) ne reçoit pas passivement le sensible, il en abstrait la forme intelligible, dégageant l'universel du particulier perçu. La connaissance part donc de l'expérience sans s'y réduire, ce qui maintient Thomas du côté empirique sans en faire un empiriste strict, l'activité de l'esprit ayant sa part irréductible.
 
-> « Il n'y a rien dans l'intellect qui n'ait d'abord été dans les sens. » (Questions disputées sur la vérité, q. 2, a. 3, arg. 19)
+> « Il n'y a rien dans l'intellect qui n'ait d'abord été dans les sens. », Questions disputées sur la vérité, q. 2, a. 3, arg. 19
 
 *Sources : Somme théologique, Ia, q. 84-85*
 
@@ -162,7 +162,7 @@ Correspondance 90% · Cohérence 5% · Pragmatisme 5%
 
 Thomas donne sa formule classique à la conception correspondantiste : la vérité est l'adéquation de la chose et de l'intellect, l'accord de la pensée avec ce qui est. Mais il la fonde théologiquement : les choses sont vraies parce qu'elles sont conformes à l'idée que Dieu en a, et notre connaissance est vraie quand elle se règle sur elles. La vérité est donc d'abord dans l'intellect, divin puis humain, et la correspondance entre l'esprit et le réel a elle-même son origine en Dieu.
 
-> « La vérité est l'adéquation de la chose et de l'intellect. » (Questions disputées sur la vérité, q. 1, a. 1)
+> « La vérité est l'adéquation de la chose et de l'intellect. », Questions disputées sur la vérité, q. 1, a. 1
 
 *Sources : Questions disputées sur la vérité, q. 1, a. 1-2*
 
@@ -364,7 +364,7 @@ Agapè-don 55% · Philia (amitié) 35% · Éros-manque 10%
 
 L'amour suprême est pour Thomas la charité (caritas), traduction latine de l'[agapè](../glossary/agape.md) : amour de bienveillance qui veut le bien de l'autre et qui descend de Dieu vers la créature plutôt que de monter du manque vers le bien, comme l'[éros](../glossary/eros.md) platonicien. Mais Thomas en donne une définition précise et décisive : la charité est une [amitié](../glossary/philia.md) (amicitia) de l'homme avec Dieu, la catégorie même d'[Aristote](../philosophers/aristotle.md) reprise et transposée : fondée sur la communication de la béatitude, elle suppose, comme toute amitié, une bienveillance mutuelle et un partage. Le don reste premier, puisque c'est Dieu qui aime le premier et rend cette amitié possible par grâce, mais il prend la forme réciproque de la philia, non celle d'un don à sens unique ; l'ancien élan du désir vers le bien n'en subsiste pas moins comme une part résiduelle.
 
-> « La charité est une certaine amitié de l'homme avec Dieu. » (Somme théologique, IIa-IIae, q. 23, a. 1)
+> « La charité est une certaine amitié de l'homme avec Dieu. », Somme théologique, IIa-IIae, q. 23, a. 1
 
 *Sources : Somme théologique, IIa-IIae, q. 23 (la charité comme amitié)*
 

@@ -24,7 +24,7 @@ Relativism 60% · Universalism 20% · Constructivism 20%
 
 Callicles unmasks received justice as a contrivance: the weak, being the majority, framed the laws and the words "just" and "unjust" to bridle the strong and secure equality for themselves. That justice is mere [convention](../glossary/physis-nomos.md) (nomos), variable and self-serving; the only real norm is that of nature (physis), where the better rules and holds more. His position thus blends a corrosive relativism toward established morality with the assertion of a natural right of the stronger that he takes to be a fact.
 
-> “Nature herself shows that it is just for the better to have more than the worse, and the more capable than the less.” (Plato, Gorgias, 483d)
+> “Nature herself shows that it is just for the better to have more than the worse, and the more capable than the less.”, Gorgias, 483d
 
 *Sources : Plato, Gorgias, 482e-484c (the nature/law distinction) · Plato, Gorgias, 483b-d (the weak make the laws)*
 

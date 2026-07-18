@@ -1,0 +1,75 @@
+{
+  "id": "criticism-things-in-themselves-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "KNOWLEDGE_SOURCE", "median": true },
+  "name": { "fr": "Prisonniers de nos formes ?", "en": "Prisoners of our own forms?" },
+  "attacks": "POSITION",
+  "claim": {
+    "fr": "Si l'esprit met en forme tout ce qui lui apparaît, nous ne connaissons jamais les choses telles qu'elles sont, mais seulement telles qu'elles nous apparaissent.",
+    "en": "If the mind gives form to everything that appears to it, we never know things as they are, but only as they appear to us."
+  },
+  "summary": {
+    "fr": "Le criticisme fait de l'espace, du temps et de la causalité des formes imposées par l'esprit ; mais alors tout passe par ce filtre, et nous atteignons le phénomène, jamais la chose en soi. La rigueur se paie d'un enfermement.",
+    "en": "Criticism makes space, time and causality forms imposed by the mind; but then everything passes through that filter, and we reach the appearance, never the thing in itself. The rigor is paid for by a confinement."
+  },
+  "development": [
+    {
+      "fr": "Le criticisme accorde que l'espace, le temps et la causalité ne sont pas dans les choses mais sont des formes que l'esprit impose à toute expérience possible.",
+      "en": "Criticism grants that space, time and causality are not in things but are forms the mind imposes on every possible experience."
+    },
+    {
+      "fr": "Mais alors tout ce que nous connaissons est déjà passé par ce filtre : nous atteignons le phénomène, la chose telle qu'elle nous apparaît, jamais la chose en soi, telle qu'elle serait indépendamment de nos formes.",
+      "en": "But then everything we know has already passed through that filter: we reach the phenomenon, the thing as it appears to us, never the thing in itself, as it would be independently of our forms."
+    },
+    {
+      "fr": "Le savoir gagne en rigueur ce qu'il perd en portée : il vaut pour le monde de notre expérience, mais nous enferme dans nos propres cadres, sans jamais nous rendre le réel tel qu'il est.",
+      "en": "Knowledge gains in rigor what it loses in reach: it holds for the world of our experience, but locks us within our own frames, without ever giving us the real as it is."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la synthèse a un prix : ou l'on accepte de ne connaître que des apparences, ou l'on cherche à rejoindre le réel autrement, du côté de ce que donnent les sens ou de ce que saisit la raison.",
+    "en": "So the synthesis has a price: either one accepts knowing only appearances, or one seeks to reach the real otherwise, on the side of what the senses give or of what reason grasps."
+  },
+  "difficulty": 3,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "L'objection me convainc : ces « formes de l'esprit » sont peut-être une construction de trop. Mieux vaut m'en tenir à ce que l'expérience donne, sans y ajouter des cadres a priori.",
+        "en": "The objection convinces me: these 'forms of the mind' may be one construction too many. Better to hold to what experience gives, without adding a priori frames."
+      },
+      "hints": [{ "axisId": "KNOWLEDGE_SOURCE", "value": { "kind": "scalar", "value": -0.5 }, "weight": 1.5 }],
+      "discussion": {
+        "fr": "Vous inclinez vers l'empirisme : se fier au donné sensible plutôt qu'aux formes imposées, quitte à renoncer à la nécessité que Kant voulait sauver.",
+        "en": "You lean toward empiricism: trusting the sensory given rather than imposed forms, even at the cost of the necessity Kant meant to save."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je garde la synthèse, mais j'en rabats l'ambition : disons que l'esprit organise l'expérience, sans prétendre trancher ce qu'il en est des choses par-delà nos formes.",
+        "en": "I keep the synthesis, but lower its ambition: let us say the mind organizes experience, without claiming to settle how things stand beyond our forms."
+      },
+      "hints": [{ "axisId": "KNOWLEDGE_SOURCE", "value": { "kind": "scalar", "value": -0.2 }, "weight": 0.75 }],
+      "discussion": {
+        "fr": "Vous tenez un criticisme modeste : garder les cadres comme conditions de l'expérience, sans en faire une métaphysique de la chose en soi.",
+        "en": "You hold a modest criticism: keeping the frames as conditions of experience, without making them a metaphysics of the thing in itself."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : connaître les phénomènes n'est pas un pis-aller. « Les choses telles qu'elles sont, indépendamment de toute expérience possible » est une idée vide ; le seul réel dont il vaille de parler est celui que l'esprit et les sens construisent ensemble.",
+        "en": "I refute it: knowing phenomena is no fallback. 'Things as they are, independently of any possible experience' is an empty idea; the only real worth speaking of is the one the mind and the senses build together."
+      },
+      "hints": [{ "axisId": "KNOWLEDGE_SOURCE", "value": { "kind": "scalar", "value": 0 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous tenez la réponse de <ph id='kant'>Kant</ph> : la chose en soi n'est pas un objet manqué mais une limite de la pensée ; le savoir des phénomènes est un vrai savoir.",
+        "en": "You hold <ph id='kant'>Kant</ph>'s reply: the thing in itself is not a missed object but a limit of thought; knowledge of phenomena is genuine knowledge."
+      }
+    }
+  ],
+  "problems": ["mind-shapes-experience"],
+  "targets": ["criticism-concepts-and-intuitions"],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
+}

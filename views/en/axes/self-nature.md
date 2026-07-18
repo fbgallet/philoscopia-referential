@@ -51,6 +51,22 @@ There is no permanent self: only a bundle of perceptions, thoughts and sensation
 - *[Nature of the self](../axes/self-nature.md) : Substantialism* grounds *[Interiority](../axes/interiority.md) : The examined life* : If there exists in each of us a substantial self, a soul distinct from the flow of appearances, then knowing oneself becomes the highest task. Substantialism grounds the examined life: from Socrates, for whom an unexamined life is not worth living, to [Augustine](../philosophers/augustine.md), who turns inward to find truth there.
 - *[Nature of the self](../axes/self-nature.md) : Substantialism* grounds *[Death](../axes/death.md) : Immortalism* : If the self is a simple, immaterial substance distinct from the body, nothing requires it to perish when the body decomposes. Substantialism opens the way to the immortality of the soul, as in [Plato](../philosophers/plato.md)'s argument deriving the soul's indestructibility from its simplicity.
 
+## Quotations
+
+> “I do not portray being: I portray passing.” — [Michel de Montaigne](../philosophers/montaigne.md), Essays, III, 2, "Of Repentance"
+
+> “As far as this consciousness can be extended backwards to any past action or thought, so far reaches the identity of that person.” — [Locke](../philosophers/locke.md), Essay Concerning Human Understanding, II, ch. 27, §9
+
+> “Consciousness is a being such that in its being its being is in question insofar as this being implies a being other than itself: it is never what it is and is what it is not.” — [Sartre](../philosophers/sartre.md), Being and Nothingness, Introduction
+
+> “Form is not-self, feeling is not-self, perception is not-self, formations are not-self, consciousness is not-self.” — [The Buddha](../philosophers/buddha.md), Anattalakkhaṇa Sutta (Saṃyutta Nikāya 22.59)
+
+> “The word or sign which man uses is the man himself.” — [Charles Sanders Peirce](../philosophers/peirce.md), Some Consequences of Four Incapacities (1868)
+
+> “For my part, when I enter most intimately into what I call myself, I always stumble on some particular perception or other... I never can catch myself at any time without a perception.” — [Hume](../philosophers/hume.md), A Treatise of Human Nature, I, IV, 6
+
+> “Thou art that.” — Chāndogya Upaniṣad, Chāndogya Upaniṣad, VI, 8, 7 (tat tvam asi)
+
 ## Related axes
 
 [Being or having a body](../axes/embodiment.md) · [Essence and existence](../axes/essence.md) · [Freedom of the will](../axes/freedom.md) · [Social identity](../axes/social-identity.md) · [Death](../axes/death.md) · [Being and becoming](../axes/being-becoming.md)

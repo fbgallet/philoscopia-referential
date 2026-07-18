@@ -1,0 +1,75 @@
+{
+  "id": "atheism-genetic-fallacy-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "GOD_EXISTENCE", "poleId": "ATHEISM" },
+  "name": { "fr": "L'origine ne juge pas la vérité", "en": "Origin does not settle truth" },
+  "attacks": "REASONING",
+  "claim": {
+    "fr": "Expliquer pourquoi l'on croit ne dit rien de ce que l'on croit : une croyance née d'un désir peut être vraie.",
+    "en": "Explaining why we believe says nothing about what we believe: a belief born of desire can still be true."
+  },
+  "summary": {
+    "fr": "L'argument de la projection conclut de l'origine humaine de la croyance à la fausseté de son objet ; mais origine et vérité sont deux questions distinctes, et confondre l'une avec l'autre est un sophisme.",
+    "en": "The projection argument infers, from the human origin of the belief, the falsity of its object; but origin and truth are two distinct questions, and running them together is a fallacy."
+  },
+  "development": [
+    {
+      "fr": "L'argument de la projection conclut de l'origine de la croyance, nos peurs et nos désirs, à la fausseté de son objet : Dieu n'existerait pas puisque nous avons des raisons humaines d'y croire.",
+      "en": "The projection argument moves from the origin of the belief, our fears and desires, to the falsity of its object: God would not exist since we have human reasons to believe."
+    },
+    {
+      "fr": "Mais l'origine d'une croyance et sa vérité sont deux questions distinctes : désirer qu'une chose existe ne prouve ni qu'elle existe, ni qu'elle n'existe pas. Conclure de la genèse à la fausseté, c'est le <kw>sophisme génétique</kw>.",
+      "en": "But the origin of a belief and its truth are two distinct questions: desiring that something exist proves neither that it exists nor that it does not. To infer falsity from genesis is the <kw>genetic fallacy</kw>."
+    },
+    {
+      "fr": "L'assoiffé qui rêve d'une source n'a pas tort de croire qu'il existe de l'eau : qu'une croyance comble un besoin la rend suspecte, elle ne la rend pas fausse. Il faudrait encore montrer, par ailleurs, que rien ne lui répond.",
+      "en": "The thirsty man who dreams of a spring is not wrong to believe water exists: that a belief meets a need makes it suspect, not false. One would still have to show, on other grounds, that nothing answers to it."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc l'argument montre au mieux que la croyance est humainement explicable, non que Dieu n'existe pas : la projection jette le soupçon, elle ne tranche pas.",
+    "en": "So the argument shows at best that the belief is humanly explicable, not that God does not exist: projection casts suspicion, it does not settle the matter."
+  },
+  "difficulty": 2,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "En effet : mon incroyance reposait trop sur cette explication. Si elle ne prouve rien, la question de Dieu reste plus ouverte que je ne le pensais.",
+        "en": "Indeed: my unbelief leaned too much on that explanation. If it proves nothing, the question of God is more open than I thought."
+      },
+      "hints": [{ "axisId": "GOD_EXISTENCE", "value": { "kind": "scalar", "value": 0 }, "weight": 1.5 }],
+      "discussion": {
+        "fr": "Vous reculez vers la suspension du jugement : l'explication psychologique perd sa force de preuve, et l'agnosticisme redevient tenable.",
+        "en": "You step back toward suspension of judgment: the psychological explanation loses its probative force, and agnosticism becomes tenable again."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je garde mon athéisme, mais j'accorde que la projection ne le prouve pas : elle explique la croyance, pendant que d'autres raisons, le silence du monde, l'inutilité de l'hypothèse, portent le reste.",
+        "en": "I keep my atheism, but grant that projection does not prove it: it explains the belief, while other reasons, the world's silence, the needlessness of the hypothesis, carry the rest."
+      },
+      "hints": [{ "axisId": "GOD_EXISTENCE", "value": { "kind": "scalar", "value": 0.7 }, "weight": 0.75 }],
+      "discussion": {
+        "fr": "Vous rétrogradez la projection au rang d'explication d'appoint : elle rend compte de la croyance une fois l'athéisme établi par ailleurs, à la façon de <ph id='russell'>Russell</ph>.",
+        "en": "You demote projection to a supporting explanation: it accounts for the belief once atheism is established on other grounds, in <ph id='russell'>Russell</ph>'s manner."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : quand une hypothèse ne s'appuie sur aucune preuve indépendante ET s'explique entièrement par nos désirs, la conclusion raisonnable est qu'elle est notre œuvre. Le soupçon, ici, suffit.",
+        "en": "I refute it: when a hypothesis rests on no independent evidence AND is fully explained by our desires, the reasonable conclusion is that it is our own work. Here, suspicion is enough."
+      },
+      "hints": [{ "axisId": "GOD_EXISTENCE", "value": { "kind": "scalar", "value": 1 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous précisez l'argument au lieu de l'abandonner : la genèse ne réfute pas, mais ajoutée à l'absence de preuve, elle emporte la décision.",
+        "en": "You sharpen the argument rather than abandon it: genesis does not refute, but added to the absence of evidence, it carries the decision."
+      }
+    }
+  ],
+  "problems": ["projection-and-suspicion"],
+  "targets": ["atheism-projection-argument"],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
+}

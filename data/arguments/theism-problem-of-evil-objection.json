@@ -1,0 +1,167 @@
+{
+  "id": "theism-problem-of-evil-objection",
+  "kind": "OBJECTS",
+  "position": {
+    "axisId": "GOD_EXISTENCE",
+    "poleId": "THEISM"
+  },
+  "name": {
+    "fr": "Le mal contre Dieu",
+    "en": "Evil against God"
+  },
+  "attacks": "POSITION",
+  "claim": {
+    "fr": "Un Dieu à la fois tout-puissant et bon ne laisserait pas souffrir l'innocent ; or il souffre.",
+    "en": "A God both all-powerful and good would not let the innocent suffer; yet the innocent suffer."
+  },
+  "summary": {
+    "fr": "Si Dieu peut empêcher le mal et veut l'empêcher, pourquoi le mal existe-t-il ? Ou il ne peut pas, ou il ne veut pas, ou il n'est pas : la souffrance de l'innocent pèse contre le Dieu tout-puissant et bon.",
+    "en": "If God can prevent evil and wills to prevent it, why does evil exist? Either he cannot, or he will not, or he is not: the suffering of the innocent weighs against the all-powerful and good God."
+  },
+  "development": [
+    {
+      "fr": "Le théisme affirme un Dieu <kw>tout-puissant</kw>, qui peut empêcher tout mal, et <kw>parfaitement bon</kw>, qui veut l'empêcher.",
+      "en": "Theism affirms a God who is <kw>all-powerful</kw>, able to prevent every evil, and <kw>perfectly good</kw>, willing to prevent it."
+    },
+    {
+      "fr": "Or le mal existe, et pas seulement celui que notre liberté explique : la maladie qui emporte un enfant, la catastrophe qui rase une ville, la souffrance qu'aucun bien visible n'exige.",
+      "en": "Yet evil exists, and not only the kind our freedom explains: the disease that carries off a child, the catastrophe that levels a town, suffering that no visible good requires."
+    },
+    {
+      "fr": "S'il pouvait l'empêcher et le voulait, il n'y en aurait pas ; il y en a. Il faut donc abandonner l'un des termes : la puissance, la bonté, ou l'existence même de ce Dieu, à moins de montrer pourquoi un Dieu bon permettrait ce mal-là.",
+      "en": "If he could prevent it and willed to, there would be none; there is. One of the terms must therefore go: the power, the goodness, or the very existence of this God, unless one can show why a good God would permit that evil."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc, tant que le mal de l'innocent reste sans justification, il pèse comme la plus forte raison de douter du Dieu tout-puissant et bon.",
+    "en": "So, as long as the innocent's suffering stands unjustified, it weighs as the strongest reason to doubt the all-powerful and good God."
+  },
+  "difficulty": 1,
+  "source": {
+    "author": {
+      "fr": "Épicure ; Hume",
+      "en": "Epicurus; Hume"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Épicure",
+          "en": "Epicurus"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "epicurus"
+      },
+      {
+        "name": {
+          "fr": "Hume",
+          "en": "Hume"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "hume"
+      }
+    ],
+    "work": {
+      "fr": "Dialogues sur la religion naturelle, X",
+      "en": "Dialogues concerning Natural Religion, Part X"
+    },
+    "year": 1779
+  },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "L'objection porte : je ne parviens pas à concilier ce mal-là avec un Dieu tout-puissant et bon. Ma confiance en son existence en sort ébranlée.",
+        "en": "The objection lands: I cannot reconcile that evil with an all-powerful and good God. My confidence in his existence comes out shaken."
+      },
+      "hints": [
+        {
+          "axisId": "GOD_EXISTENCE",
+          "value": {
+            "kind": "scalar",
+            "value": 0.3
+          },
+          "weight": 2
+        },
+        {
+          "axisId": "PROBLEM_OF_EVIL",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0,
+              0,
+              0.2,
+              0.8
+            ]
+          },
+          "weight": 1
+        }
+      ],
+      "discussion": {
+        "fr": "Vous donnez au mal la force d'un argument : c'est la voie de l'argument athée du mal, d'<ph id='epicurus'>Épicure</ph> à <ph id='hume'>Hume</ph>.",
+        "en": "You give evil the force of an argument: the path of the atheistic argument from evil, from <ph id='epicurus'>Epicurus</ph> to <ph id='hume'>Hume</ph>."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je maintiens ma foi, mais l'objection m'oblige : il me faut une réponse, la liberté humaine, une âme qui se forme à travers l'épreuve, ou l'aveu que les voies de Dieu nous dépassent.",
+        "en": "I hold to my faith, but the objection binds me: I need an answer, human freedom, a soul formed through trial, or the admission that God's ways exceed us."
+      },
+      "hints": [
+        {
+          "axisId": "GOD_EXISTENCE",
+          "value": {
+            "kind": "scalar",
+            "value": -0.5
+          },
+          "weight": 1
+        },
+        {
+          "axisId": "PROBLEM_OF_EVIL",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.45,
+              0.45,
+              0.1,
+              0
+            ]
+          },
+          "weight": 1
+        }
+      ],
+      "discussion": {
+        "fr": "Vous entrez dans le travail de la <c id='theodicy'>théodicée</c> : justifier Dieu face au mal, ou marquer les limites de ce que nous pouvons en juger.",
+        "en": "You enter the work of <c id='theodicy'>theodicy</c>: justifying God in the face of evil, or marking the limits of what we can judge of it."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : le mal n'est pas une preuve contre Dieu. Un monde libre et régi par des lois comporte cette possibilité, et nous ne sommes pas placés pour juger du tout.",
+        "en": "I refute it: evil is no proof against God. A free, law-governed world carries that possibility, and we are in no position to judge the whole."
+      },
+      "hints": [
+        {
+          "axisId": "GOD_EXISTENCE",
+          "value": {
+            "kind": "scalar",
+            "value": -1
+          },
+          "weight": 0.5
+        }
+      ],
+      "discussion": {
+        "fr": "Vous tenez la ligne de <ph id='leibniz'>Leibniz</ph> et de la défense par le libre arbitre : le mal permis n'est pas le mal voulu.",
+        "en": "You hold the line of <ph id='leibniz'>Leibniz</ph> and the free-will defense: evil permitted is not evil willed."
+      }
+    }
+  ],
+  "problems": [
+    "problem-of-evil"
+  ],
+  "targets": [
+    "theism-contingency-argument"
+  ],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
+}

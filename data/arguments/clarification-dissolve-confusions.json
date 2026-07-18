@@ -1,0 +1,42 @@
+{
+  "id": "clarification-dissolve-confusions",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "METAPHILOSOPHY", "poleId": "CLARIFICATION" },
+  "name": { "fr": "Dissoudre les faux problèmes", "en": "Dissolving pseudo-problems" },
+  "claim": {
+    "fr": "La philosophie ne livre pas de vérités sur le monde : elle clarifie la pensée, et montre que bien des grands problèmes sont des nœuds de langage à dissoudre plutôt qu'à résoudre.",
+    "en": "Philosophy delivers no truths about the world: it clarifies thought, and shows that many of the great problems are knots of language to be dissolved rather than solved."
+  },
+  "summary": {
+    "fr": "Les sciences découvrent des faits ; le propre de la philosophie est un travail sur nos concepts. Bien des problèmes insolubles naissent d'un mésusage du langage ; les dissoudre, c'est en montrer la source. La philosophie apporte de la clarté, non des thèses de plus.",
+    "en": "The sciences discover facts; what is proper to philosophy is a work on our concepts. Many insoluble problems are born of a misuse of language; to dissolve them is to show their source. Philosophy brings clarity, not more theses."
+  },
+  "development": [
+    {
+      "fr": "Les sciences découvrent des faits ; que reste-t-il en propre à la philosophie ? Non un domaine de faits supplémentaires, mais un travail sur nos concepts, nos manières de parler et de raisonner.",
+      "en": "The sciences discover facts; what remains proper to philosophy? Not a further domain of facts, but a work on our concepts, our ways of speaking and reasoning."
+    },
+    {
+      "fr": "Or bien des problèmes réputés insolubles naissent d'un mésusage du langage : on file une métaphore, on traite un mot comme s'il nommait une chose, et l'on s'enferme dans une question sans issue. « Les problèmes philosophiques surgissent quand le langage part en vacances. »",
+      "en": "Now many problems reputed insoluble are born of a misuse of language: one spins out a metaphor, one treats a word as if it named a thing, and one gets locked in a question with no way out. 'Philosophical problems arise when language goes on holiday.'"
+    },
+    {
+      "fr": "La tâche n'est alors pas de trancher ces questions mais de les dissoudre : montrer d'où vient la confusion, et le problème disparaît, comme un nœud qu'on défait, « apprendre à la mouche à sortir de la bouteille à mouches ».",
+      "en": "The task, then, is not to settle these questions but to dissolve them: show where the confusion comes from, and the problem vanishes, like a knot undone, 'to show the fly the way out of the fly-bottle'."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la philosophie n'apporte pas des thèses de plus mais de la clarté : elle apprend à penser, et se mesure aux illusions qu'elle dissipe, non aux doctrines qu'elle édifie.",
+    "en": "So philosophy brings not more theses but clarity: it teaches us to think, and is measured by the illusions it dispels, not by the doctrines it builds."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": { "fr": "Wittgenstein", "en": "Wittgenstein" },
+    "figures": [{ "name": { "fr": "Wittgenstein", "en": "Wittgenstein" }, "kind": "PHILOSOPHER", "slug": "wittgenstein" }],
+    "work": { "fr": "Recherches philosophiques, §109, §309", "en": "Philosophical Investigations, §109, §309" },
+    "year": 1953
+  },
+  "test": "clarification-real-questions-objection",
+  "problems": ["real-problems-or-confusions", "does-philosophy-progress", "philosophy-and-science"],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

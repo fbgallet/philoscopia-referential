@@ -262,16 +262,7 @@
           { "fr": "Zhuangzi, ch. 6 (Le grand maître vénérable)", "en": "Zhuangzi, ch. 6 (The Great and Venerable Teacher)" }
         ],
         "strength": "STRONG",
-        "quote": {
-          "text": {
-            "fr": "Rien au monde n'est plus souple et plus faible que l'eau ; pourtant, pour attaquer ce qui est dur et fort, rien ne la surpasse.",
-            "en": "Nothing in the world is softer and weaker than water; yet for attacking what is hard and strong nothing surpasses it."
-          },
-          "source": {
-            "fr": "Laozi, Dao De Jing, ch. 78",
-            "en": "Laozi, Dao De Jing, ch. 78"
-          }
-        }
+        "quoteId": "rien-au-monde-n-est-plus-laozi"
       }
     },
     {
@@ -308,16 +299,7 @@
           { "fr": "Laozi, Dao De Jing, ch. 34", "en": "Laozi, Dao De Jing, ch. 34" }
         ],
         "strength": "MEDIUM",
-        "quote": {
-          "text": {
-            "fr": "Il n'est aucun lieu où le dao ne soit.",
-            "en": "There is no place where the dao is not."
-          },
-          "source": {
-            "fr": "Zhuangzi, ch. 22",
-            "en": "Zhuangzi, ch. 22"
-          }
-        }
+        "quoteId": "il-n-est-aucun-lieu-ou-zhuangzi"
       }
     },
     {
@@ -336,16 +318,7 @@
           { "fr": "Zhuangzi, ch. 2 (De l'égalité des choses)", "en": "Zhuangzi, ch. 2 (On the Equality of Things)" }
         ],
         "strength": "STRONG",
-        "quote": {
-          "text": {
-            "fr": "Le dao qu'on peut nommer dao n'est pas le dao constant.",
-            "en": "The dao that can be told is not the constant dao."
-          },
-          "source": {
-            "fr": "Laozi, Dao De Jing, ch. 1",
-            "en": "Laozi, Dao De Jing, ch. 1"
-          }
-        }
+        "quoteId": "le-dao-qu-on-peut-nommer-laozi-2"
       }
     },
     {
@@ -381,16 +354,7 @@
           { "fr": "Laozi, Dao De Jing, ch. 57, 60", "en": "Laozi, Dao De Jing, ch. 57, 60" },
           { "fr": "Zhuangzi, ch. 11 (Laisser être, ne pas contraindre)", "en": "Zhuangzi, ch. 11 (Letting Be and Exercising Forbearance)" }
         ],
-        "quote": {
-          "text": {
-            "fr": "Gouverner un grand État, c'est comme faire frire un petit poisson.",
-            "en": "Governing a great state is like cooking a small fish."
-          },
-          "source": {
-            "fr": "Laozi, Dao De Jing, ch. 60",
-            "en": "Laozi, Dao De Jing, ch. 60"
-          }
-        },
+        "quoteId": "gouverner-un-grand-etat-c-est-laozi",
         "strength": "STRONG"
       }
     },

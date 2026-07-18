@@ -46,7 +46,7 @@ Rationalism 93% · Empiricism 7%
 
 The decisive point is that a necessary and universal truth cannot come from the senses: these yield only particular, contingent cases, never the « it cannot be otherwise » of mathematics. A non-sensory source is therefore required, and it is the [understanding](../glossary/innate-ideas.md) with its [innate ideas](../glossary/innate-ideas.md). [Leibniz](../philosophers/leibniz.md) turns the [empiricist](../movements/empiricism.md) maxim against itself: if nothing is in the mind that was not first in the senses, one must still except the intellect itself, whose structures make any experience thinkable. Where [Hume](../philosophers/hume.md) sees in the senses only impressions, [Spinoza](../philosophers/spinoza.md) sets this confused knowledge of the first kind apart from knowledge through [adequate ideas](../glossary/adequate-idea.md), the only kind that grasps things through their causes.
 
-> “Nothing is in the intellect that was not first in the senses, except the intellect itself.” (Leibniz, New Essays on Human Understanding, II, 1)
+> “Nothing is in the intellect that was not first in the senses, except the intellect itself.”, New Essays on Human Understanding, II, 1
 
 *Sources : Descartes, Meditations on First Philosophy, III · Leibniz, New Essays on Human Understanding, II, 1*
 
@@ -58,7 +58,7 @@ Dogmatism 93% · Skepticism 8%
 
 To answer [skepticism](../glossary/skepticism.md) it is not enough to pile up probable opinions: a truth is needed that no argument can shake. [Descartes](../philosophers/descartes.md) makes this his strategy, pushing [hyperbolic doubt](../glossary/hyperbolic-doubt.md) as far as the hypothesis of the evil demon so as to keep only what survives it: the very act of thinking, which outlasts every possible doubt. Once that rock is found, the task is to propagate its certainty to the rest of knowledge, and the model for this is geometry: ordering knowledge more geometrico, from self-evident axioms to their necessary consequences, as [Spinoza](../philosophers/spinoza.md) deduces the *[Ethics](../works/ethics-spinoza.md)* in the manner of the geometers. The certainty aimed at is not a psychological assurance but the compelling self-evidence of demonstration.
 
-> “I think, therefore I am.” (Descartes, Discourse on the Method, part four)
+> “I think, therefore I am.”, Discourse on Method, IV
 
 *Sources : Descartes, Meditations on First Philosophy, II · Spinoza, Ethics, opening of Part I*
 
@@ -140,7 +140,7 @@ Scientific realism 90% · Constructivism 10%
 
 The school is firmly realist about knowledge: reason does not construct its object, it reaches the real order of things as it is in itself. The order and connection of ideas is the same as the order and connection of things, writes Spinoza, the true idea agreeing with what it represents. Descartes' clear and distinct ideas grasp the real essence of things, and the intelligible order of Leibniz's monads is the very architecture of reality: to know is to read the structure of the world, not to fabricate it.
 
-> “The order and connection of ideas is the same as the order and connection of things.” (Spinoza, Ethics, II, proposition 7)
+> “The order and connection of ideas is the same as the order and connection of things.”, Ethics, II, proposition 7
 
 *Sources : Spinoza, Ethics, II, proposition 7 · Descartes, Meditations on First Philosophy, V · Leibniz, Monadology, §§ 56-62*
 

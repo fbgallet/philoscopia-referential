@@ -1,0 +1,25 @@
+{
+  "id": "schopenhauer-to-wittgenstein",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "schopenhauer"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "wittgenstein"
+  },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "Le jeune <ph id='wittgenstein'>Wittgenstein</ph> lut Schopenhauer, et le <w>Tractatus</w> en garde la trace : le sujet métaphysique comme « limite du monde » et non partie de lui, un solipsisme qui coïncide avec le réalisme, et surtout une éthique et un « mystique » relégués hors de ce qui peut se dire. La <c id='vouloir-vivre'>volonté</c> schopenhauerienne y devient le lieu d'un sens qui échappe au langage.",
+    "en": "The young <ph id='wittgenstein'>Wittgenstein</ph> read Schopenhauer, and the <w>Tractatus</w> keeps the trace of it: the metaphysical subject as the 'limit of the world' rather than a part of it, a solipsism that coincides with realism, and above all an ethics and a 'mystical' consigned beyond what can be said. The Schopenhauerian <c id='vouloir-vivre'>will</c> becomes there the seat of a meaning that escapes language."
+  },
+  "sources": [
+    {
+      "fr": "Wittgenstein, Tractatus logico-philosophicus (1921), §§5.6, 6.4",
+      "en": "Wittgenstein, Tractatus Logico-Philosophicus (1921), §§5.6, 6.4"
+    }
+  ],
+  "updatedAt": "2026-07-13T00:00:00.000Z"
+}

@@ -43,13 +43,24 @@ const helpText = (await call("help")).text;
 check("help tool returns the localized guide", helpText.includes("record_position") && helpText.includes("RÈGLES DE SOIN"));
 check("guide routes the six session types", helpText.includes("TYPES DE SESSIONS") && helpText.includes("DIFFICULTÉS"));
 
-const axes = (await call("list_axes")).json();
+const coreAxes = (await call("list_axes")).json();
+const { note: coreNote, ...coreGroups } = coreAxes;
+const coreCount = Object.values(coreGroups).flat().length;
+check(
+  `list_axes default = core axes + note (got ${coreCount})`,
+  coreCount >= 20 && coreCount <= 30 && typeof coreNote === "string" && coreNote.includes("more axes"),
+);
+check("digest is FR-localized", JSON.stringify(coreGroups).includes("Liberté"));
+
+const axes = (await call("list_axes", { all: true })).json();
 const axisCount = Object.values(axes).flat().length;
-check(`list_axes returns the grouped axes (got ${axisCount})`, axisCount >= 70 && Array.isArray(axes.SELF));
-check("digest is FR-localized", JSON.stringify(axes).includes("Liberté"));
+check(`list_axes all:true returns the whole map (got ${axisCount})`, axisCount >= 70 && Array.isArray(axes.SELF));
 
 const relationOnly = (await call("list_axes", { relation: "SELF" })).json();
-check("list_axes relation filter returns one group", Array.isArray(relationOnly) && relationOnly.length === axes.SELF.length);
+check(
+  "list_axes relation filter returns one FULL group (not core-only)",
+  Array.isArray(relationOnly) && relationOnly.length === axes.SELF.length && relationOnly.length > (coreGroups.SELF ?? []).length,
+);
 
 const freedom = (await call("get_axis", { axisId: "freedom" })).json();
 check("get_axis is case-tolerant and localized", freedom.id === "FREEDOM" && typeof freedom.label === "string");
@@ -70,7 +81,15 @@ check(
   Array.isArray(epictetus.positions) && !epictetus.entries && !epictetus.summary && !JSON.stringify(epictetus.positions).includes("justification"),
 );
 const epictetusFull = (await call("get_entity", { ref: "ph:epictetus", full: true })).json();
-check("get_entity full:true returns the whole profile", Array.isArray(epictetusFull.entries) && typeof epictetusFull.summary === "string");
+check(
+  "get_entity full:true returns the RICH view (summary + justified entries)",
+  Array.isArray(epictetusFull.entries) && typeof epictetusFull.summary === "string" &&
+    epictetusFull.entries.every((e) => e.salience !== "MINOR" || (epictetusFull.structuring ?? []).some((st) => st.axisId === e.axisId)),
+);
+check(
+  "rich view lists minor positions compactly (or has none)",
+  !epictetusFull.minorPositions || (Array.isArray(epictetusFull.minorPositions) && typeof epictetusFull.minorPositions[0] === "string"),
+);
 
 const onePosition = (await call("get_position", { ref: "ph:epictetus", axisId: "FREEDOM" })).json();
 check("get_position returns the sourced slice", onePosition.axisId === "FREEDOM" && Boolean(onePosition.position?.justification));

@@ -41,16 +41,7 @@
           "fr": "Ce qui unit la tradition analytique n'est pas une thèse sur le monde mais une idée de la tâche philosophique : <ax id='METAPHILOSOPHY' pole='CLARIFICATION'>clarifier la pensée</ax>. Philosopher, c'est analyser concepts et arguments, en éprouver les fondements et dénouer les confusions, souvent nichées dans une grammaire trompeuse. La clarté n'y est pas un préalable au travail : elle en est le but. De la logique de <ph id='russell'>Russell</ph> à l'attention au langage ordinaire du second <ph id='wittgenstein'>Wittgenstein</ph>, la méthode prime sur le système.",
           "en": "What unites the analytic tradition is not a thesis about the world but a conception of the philosophical task: to <ax id='METAPHILOSOPHY' pole='CLARIFICATION'>clarify thought</ax>. To philosophize is to analyze concepts and arguments, to test their grounds and untangle confusions, often lodged in a misleading grammar. Clarity here is not a preliminary to the work: it is its goal. From <ph id='russell'>Russell</ph>'s logic to the later <ph id='wittgenstein'>Wittgenstein</ph>'s attention to ordinary language, method takes precedence over system."
         },
-        "quote": {
-          "text": {
-            "fr": "La philosophie est une lutte contre l'ensorcellement de notre entendement par les moyens de notre langage.",
-            "en": "Philosophy is a battle against the bewitchment of our intelligence by means of language."
-          },
-          "source": {
-            "fr": "Wittgenstein, Recherches philosophiques, § 109",
-            "en": "Wittgenstein, Philosophical Investigations, § 109"
-          }
-        },
+        "quoteId": "la-philosophie-est-une-lutte-contre-wittgenstein",
         "references": [
           {
             "fr": "Russell, « De la dénotation » (1905)",

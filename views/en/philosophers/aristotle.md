@@ -24,7 +24,7 @@ Permanence of being 50% · Becoming and flux 50%
 
 Against Parmenides, who made change unthinkable (being cannot come from non-being), Aristotle distinguishes **potentiality** and **actuality**: becoming is not an emergence out of nothing but the actualization of what was potential, within a persisting substrate. Substance endures through the change of its accidents, form realizes itself in matter: being and becoming cease to be rivals, becoming is the way beings accomplish their form.
 
-> “Nature is a principle of motion and change.” (Physics, III.1 (200b))
+> “Nature is a principle of motion and change.”, Physics, III.1 (200b)
 
 *Sources : Physics, I.8 · Metaphysics, IX (Theta)*
 
@@ -36,7 +36,7 @@ Understanding the world 75% · Transforming oneself 25%
 
 First science is born of wonder and is pursued for its own sake, not for its usefulness: like the free man, it is its own end. And the **theoretical life**, the activity of what is most divine in us, is the highest happiness. Yet Aristotle keeps a place for the practical aim: we do not study ethics to know what virtue is, but to become good.
 
-> “This alone of all the sciences is free, for it alone exists for its own sake.” (Metaphysics, I.2 (982b))
+> “This alone of all the sciences is free, for it alone exists for its own sake.”, Metaphysics, I.2 (982b)
 
 *Sources : Metaphysics, I.1-2 · Nicomachean Ethics, X.7-8 · Nicomachean Ethics, II.2 (1103b)*
 
@@ -68,7 +68,7 @@ Eudaimonism 80% · Virtue / moral perfectionism 15% · Hedonism 5%
 
 If every action aims at an end, and ends link up as means, then, on pain of infinite regress, there must be a final end willed for its own sake and never for the sake of anything else: this self-sufficient good is [eudaimonia](../glossary/eudaimonism.md). What it consists in is settled by the **function argument** (ergon): as the flute-player has his excellence, the human has his own, the activity of the soul's rational part carried out in accordance with virtue. Happiness is therefore neither pleasure, nor honour, nor wealth, but an excellent activity unfolded over a whole life, whose highest form is contemplation.
 
-> “The human good turns out to be activity of the soul in accordance with virtue.” (Nicomachean Ethics, I.7 (1098a))
+> “The human good turns out to be activity of the soul in accordance with virtue.”, Nicomachean Ethics, I.7 (1098a)
 
 *Sources : Nicomachean Ethics, I.7 (1097b) · Nicomachean Ethics, X.7*
 
@@ -100,7 +100,7 @@ Finalism 80% · Mechanism 15% · Vitalism 5%
 
 Why does a thing come to be? Aristotle finds incomplete any answer that invokes only matter or the collision of bodies, as the Presocratic physicists did: four [causes](../glossary/four-causes.md) are needed (material, formal, efficient, final), and it is the final cause that orders them. His decisive argument comes from living things, where observation reveals organs made for a function: the acorn becomes an oak, the eye serves for seeing. He extends this oriented regularity to all of nature, which does nothing in vain: the end is no conscious plan but the immanent term toward which a process tends by its very form.
 
-> “Nature does nothing in vain.” (Politics, I.2 (1253a))
+> “Nature does nothing in vain.”, Politics, I.2 (1253a)
 
 *Sources : Physics, II.3 and II.8 · Metaphysics, I.3*
 
@@ -142,7 +142,7 @@ Correspondence 85% · Coherence 10% · Pragmatism 5%
 
 Aristotle gives the classic formulation of **correspondence**: the truth of a statement lies in its agreement with what is the case.
 
-> “To say of what is that it is not, or of what is not that it is, is false; while to say of what is that it is, and of what is not that it is not, is true.” (Metaphysics, IV (Gamma).7 (1011b))
+> “To say of what is that it is not, or of what is not that it is, is false; while to say of what is that it is, and of what is not that it is not, is true.”, Metaphysics, IV (Gamma).7 (1011b)
 
 *Sources : Metaphysics, IV (Gamma).7 (1011b)*
 
@@ -164,7 +164,7 @@ Organic community 93% · Contractualism 7%
 
 Against the sophists who held the city to be a mere convention (nomos) opposed to nature, Aristotle derives it from a natural genesis: from the couple comes the household, from households the village, from villages the city, the term that at last achieves self-sufficiency and living well. The proof lies in the [logos](../glossary/logos.md): only the human has the speech that distinguishes the just from the unjust, and such a power would be pointless were the human not made for shared life. The city is therefore not posterior to a pact of already-constituted individuals; it is by nature prior, and whoever can do without it is “either a beast or a god”.
 
-> “Man is by nature a political animal.” (Politics, I.2 (1253a))
+> “Man is by nature a political animal.”, Politics, I.2 (1253a)
 
 *Sources : Politics, I.2 (1253a)*
 
@@ -176,7 +176,7 @@ Holism 90% · Individualism 10%
 
 For Aristotle the criterion of priority is not chronological but functional: prior is that without which the rest cannot fulfil its function. Now a hand severed from the body is a hand only in name, since it can no longer grasp; likewise the individual outside the city cannot fulfil its nature and remains an unfinished human. The city is therefore by nature prior to the individual as the whole to the part, an avowed holism that does not, for all that, erase the city's end, the living-well of its citizens.
 
-> “The city is by nature prior to the individual, for the whole is necessarily prior to the part.” (Politics, I.2 (1253a))
+> “The city is by nature prior to the individual, for the whole is necessarily prior to the part.”, Politics, I.2 (1253a)
 
 *Sources : Politics, I.2 (1253a)*
 
@@ -218,7 +218,7 @@ Theism 75% · Atheism 25%
 
 Aristotle demonstrates the existence of a [first unmoved mover](../glossary/unmoved-mover.md), pure actuality and final cause that moves the world as the beloved moves the lover, without being moved. This is a form of theism, but of an impersonal god that does not create, exercises no providence and does not know particulars, hence a value held well back from the extreme.
 
-> “Thought thinks itself: it is a thinking of thinking.” (Metaphysics, XII (Lambda).9 (1074b))
+> “Thought thinks itself: it is a thinking of thinking.”, Metaphysics, XII (Lambda).9 (1074b)
 
 *Sources : Metaphysics, XII (Lambda).7 and 9 · Physics, VIII.6*
 
@@ -320,7 +320,7 @@ Truth 45% · Pleasure 30% · Transformation 25%
 
 Poetry yields pleasure, but it aims above all at truth: more philosophical than history, it speaks the universal and the possible rather than the particular. The catharsis of the passions, a purgation of fear and pity through tragedy, adds a transformative function, hence a shared weight tilted toward truth.
 
-> “Poetry is more philosophical and weightier than history: it speaks of the universal, history of the particular.” (Poetics, 9 (1451b))
+> “Poetry is more philosophical and weightier than history: it speaks of the universal, history of the particular.”, Poetics, 9 (1451b)
 
 *Sources : Poetics, 6 (1449b) and 9 (1451b)*
 
@@ -348,7 +348,7 @@ Philia (friendship) 90% · Agape as gift 10%
 
 Against Platonic [erōs](../glossary/eros.md), which makes love the desire for a beauty one does not possess, Aristotle sets at the summit not lack but the bond: [philia](../glossary/philia.md). In books VIII and IX of the *[Nicomachean Ethics](../works/nicomachean-ethics-aristotle.md)*, he distinguishes three friendships by their spring, the useful, the pleasant and the good; the first two are fragile, for they love the other for what he provides. Perfect friendship, that of good people who wish each other well for the other's own sake, is stable, rare and reciprocal, to the point that the friend counts as an extension of oneself; to will their good for their sake alone, expecting nothing in return, keeps a share of gift at the very heart of the reciprocity. Far from being a supplement to the good life, it is a constitutive part of it: no one, however well supplied with all other goods, would choose to live without friends.
 
-> “The friend is another self.” (Nicomachean Ethics, IX, 4)
+> “The friend is another self.”, Nicomachean Ethics, IX, 4
 
 *Sources : Nicomachean Ethics, VIII-IX (the three friendships; the friend as another self) · Nicomachean Ethics, IX, 9 (happiness and the need for friends)*
 

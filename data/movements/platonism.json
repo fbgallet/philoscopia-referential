@@ -123,16 +123,7 @@
           "fr": "Le réel se mesure à la stabilité de l'être : ce qui demeure identique est plus réel que ce qui flotte entre l'être et le non-être. Or le sensible, toujours en devenir, n'a qu'un être emprunté, tenu par <c>participation</c> (le rapport par lequel le sensible tient son être de l'intelligible) à l'intelligible qui le fonde. De là un <c>dualisme</c> (la division du réel en deux ordres, l'intelligible et le sensible, l'âme et le corps) hiérarchisé, deux mondes mais non à égalité : le sensible est l'ombre, l'intelligible la source. L'<kw>allégorie de la caverne</kw> en fait un argument sur la condition humaine, prisonnière des copies tant qu'elle n'a pas converti son regard. Contre le matérialisme, ce n'est pas le corps qui fonde l'âme, mais l'intelligible qui fonde le sensible.",
           "en": "Reality is measured by the stability of being: what stays self-identical is more real than what wavers between being and non-being. Now the sensible, always in becoming, has only a borrowed being, held by <c>participation</c> (the relation by which the sensible derives its being from the intelligible) in the intelligible that grounds it. Hence a hierarchical <c>dualism</c> (the division of the real into two orders, the intelligible and the sensible, soul and body), two worlds but not on a par: the sensible is the shadow, the intelligible the source. The <kw>allegory of the cave</kw> turns this into an argument about the human condition, prisoner of copies until it has converted its gaze. Against materialism, it is not the body that grounds the soul, but the intelligible that grounds the sensible."
         },
-        "quote": {
-          "text": {
-            "fr": "Cette demeure, c'est la prison ; la lumière du feu qui s'y trouve, c'est le soleil ; et la montée vers le haut, c'est l'ascension de l'âme vers le lieu intelligible.",
-            "en": "This dwelling is the prison; the light of the fire in it is the sun; and the upward journey is the ascent of the soul into the intelligible region."
-          },
-          "source": {
-            "fr": "Platon, République, VII, 517b",
-            "en": "Plato, Republic, VII, 517b"
-          }
-        },
+        "quoteId": "cette-demeure-c-est-la-prison-plato",
         "references": [
           { "fr": "Platon, République, 514a-517a, allégorie de la caverne", "en": "Plato, Republic, 514a-517a, allegory of the cave" },
           { "fr": "Plotin, Ennéades, V", "en": "Plotinus, Enneads, V" }
@@ -151,16 +142,7 @@
           "fr": "L'argument procède par analogie solaire : de même que le soleil donne aux choses d'être vues et de croître sans être lui-même la vue ni les choses, le Bien donne aux Idées d'être connues et d'être, sans être lui-même une Idée parmi elles. Un principe qui rend l'être possible ne saurait donc figurer au rang des êtres qu'il fonde : il faut le poser <c id='transcendence'>au-delà de l'essence</c>. <ph>Plotin</ph> radicalise ce pas en faisant de l'Un l'origine d'où tout procède par émanation, ineffable parce qu'antérieur à toute détermination. Cette <c id='transcendence'>transcendance</c> du fondement sépare le platonisme du divin <c id='immanence'>immanent</c> des stoïciens, mêlé à la matière du monde.",
           "en": "The argument proceeds by a solar analogy: just as the sun lets things be seen and grow without being itself either sight or the things, the Good lets the Forms be known and be, without being itself a Form among them. A principle that makes being possible cannot then rank among the beings it grounds: it must be set <c id='transcendence'>beyond essence</c>. <ph>Plotinus</ph> radicalises this step by making the One the origin from which all proceeds by emanation, ineffable because prior to every determination. This <c id='transcendence'>transcendence</c> of the ground sets Platonism apart from the <c id='immanence'>immanent</c> divine of the Stoics, mixed into the matter of the world."
         },
-        "quote": {
-          "text": {
-            "fr": "Le Bien n'est pas l'être, mais il est encore au-dessus et au-delà de l'être, le surpassant en dignité et en puissance.",
-            "en": "The Good is not being, but still beyond being, surpassing it in dignity and power."
-          },
-          "source": {
-            "fr": "Platon, République, VI, 509b",
-            "en": "Plato, Republic, VI, 509b"
-          }
-        },
+        "quoteId": "le-bien-n-est-pas-l-plato-2",
         "references": [
           { "fr": "Platon, République, 509b, le Bien au-delà de l'essence", "en": "Plato, Republic, 509b, the Good beyond essence" },
           { "fr": "Plotin, Ennéades, VI, 9, sur l'Un", "en": "Plotinus, Enneads, VI, 9, on the One" }
@@ -233,16 +215,7 @@
           "fr": "Le platonisme tient une beauté objective : la <c id='theory-of-forms'>Forme du Beau</c> est une réalité en soi, éternelle et identique, dont les beautés sensibles ne sont que de pâles participations. Le beau ne dépend pas du goût du spectateur mais d'une essence que la raison peut contempler.",
           "en": "Platonism holds an objective beauty: the <c id='theory-of-forms'>Form of the Beautiful</c> is a reality in itself, eternal and self-identical, of which sensible beauties are only pale participations. Beauty does not depend on the beholder's taste but on an essence that reason can contemplate."
         },
-        "quote": {
-          "text": {
-            "fr": "Une beauté qui d'abord existe éternellement, qui n'est sujette ni à naître ni à périr, ni à croître ni à décroître ; qui de plus n'est point belle en telle partie et laide en telle autre.",
-            "en": "A beauty that always is, neither coming to be nor passing away, neither increasing nor diminishing; nor again beautiful in one part and ugly in another."
-          },
-          "source": {
-            "fr": "Platon, Banquet, 211a",
-            "en": "Plato, Symposium, 211a"
-          }
-        },
+        "quoteId": "une-beaute-qui-d-abord-existe-plato",
         "references": [
           { "fr": "Platon, Banquet, 210a-211d, l'échelle du beau", "en": "Plato, Symposium, 210a-211d, the ladder of beauty" },
           { "fr": "Platon, Hippias majeur", "en": "Plato, Greater Hippias" }

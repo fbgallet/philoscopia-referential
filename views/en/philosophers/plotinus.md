@@ -24,7 +24,7 @@ Transcendence 90% · Immanence 10%
 
 The first principle can be neither a being nor a thought, for every being is already manifold, distinct from what it thinks: to ground multiplicity without belonging to it, there must be an absolutely simple [One](../glossary/the-one.md), "beyond being" and beyond [intellect](../glossary/nous.md), of which nothing can properly be said. Plotinus thus radicalizes [Plato](../philosophers/plato.md)'s Good above essence into a pure transcendence. Yet [emanation](../glossary/emanation.md) tempers the distance: the One overflows without dividing or diminishing itself, and stays present to all that proceeds from it, more inward to the soul than the soul is to itself. Hence a strong transcendence, but not without a graded immanence, which holds the score back from the extreme.
 
-> “It is none of the things of which it is the source; such is its nature that, though nothing can be affirmed of it, not name, not reason, we can yet say something concerning it.” (Enneads, V, 3, 13-14)
+> “It is none of the things of which it is the source; such is its nature that, though nothing can be affirmed of it, not name, not reason, we can yet say something concerning it.”, Enneads, V, 3, 13-14
 
 *Sources : Enneads, VI, 9 (On the Good, or the One) · Enneads, V, 3 and V, 5*
 
@@ -46,7 +46,7 @@ Virtue / moral perfectionism 70% · Eudaimonism 30%
 
 Happiness lies neither in pleasure nor even in the virtuous life alone: virtue is only a first degree, a purification that detaches the soul from the sensible and makes it like the divine. The true sovereign good is beyond, in the contemplation of the Intellect and then in union with the [One](../glossary/the-one.md), where the soul rejoins its source. Plotinus takes up Greek eudaimonism, the happy life as the activity of our best part, but shifts its summit: blessedness is no longer the excellence of action but a contemplative ascent that passes beyond moral virtue itself. The perfect sage, already united to the intelligible, stays happy even in misfortune, for his true self is not reached by it.
 
-> “This is the life of gods and of godlike and blessed men: a deliverance from all things here below, the flight of the alone to the Alone.” (Enneads, VI, 9, 11)
+> “This is the life of gods and of godlike and blessed men: a deliverance from all things here below, the flight of the alone to the Alone.”, Enneads, VI, 9, 11
 
 *Sources : Enneads, I, 4 (On Well-Being) · Enneads, I, 2 (On Virtues)*
 
@@ -138,7 +138,7 @@ The examined life 95% · Primacy of action 5%
 
 The path to the principle runs not through the outside but through a turning of the soul upon itself: "withdraw into yourself and look". Since the [One](../glossary/the-one.md) is present at our innermost, closer to the soul than the soul is to itself, it is by gathering oneself, by sculpting one's own inner statue, that one rises to it. This absolute primacy of contemplative inwardness over outward action makes the examined life the whole of philosophy, and anticipates Augustinian interiority.
 
-> “Withdraw into yourself and look: and if you do not find yourself beautiful yet, act as does the sculptor of a statue that is to be made beautiful.” (Enneads, I, 6, 9)
+> “Withdraw into yourself and look: and if you do not find yourself beautiful yet, act as does the sculptor of a statue that is to be made beautiful.”, Enneads, I, 6, 9
 
 *Sources : Enneads, I, 6 (On Beauty) · Enneads, VI, 9, 7*
 

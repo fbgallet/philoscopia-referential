@@ -44,7 +44,7 @@ Contractualisme 95% · Communauté organique 5%
 
 Puisque nul n'a d'autorité naturelle sur son semblable et que la force ne fait pas droit, l'ordre légitime ne peut reposer que sur une convention. Rousseau cherche la forme d'association où chacun, se donnant à tous, ne se donne à personne, et « n'obéisse pourtant qu'à lui-même » : par l'aliénation de chacun à la [volonté générale](../glossary/volonte-generale.md), le sujet reste libre en obéissant à une loi dont il est coauteur. Contre [Hobbes](../philosophers/hobbes.md), le pacte n'institue pas un maître mais un corps politique souverain.
 
-> « Trouver une forme d'association par laquelle chacun, s'unissant à tous, n'obéisse pourtant qu'à lui-même et reste aussi libre qu'auparavant. » (Rousseau, Du contrat social, I, 6)
+> « Trouver une forme d'association par laquelle chacun, s'unissant à tous, n'obéisse pourtant qu'à lui-même et reste aussi libre qu'auparavant. », Du contrat social, I, 6
 
 *Sources : Rousseau, Du contrat social, livres I-II*
 
@@ -56,7 +56,7 @@ Optimisme anthropologique 85% · Pessimisme anthropologique 15%
 
 « L'homme est naturellement bon » : ses vices ne sont pas dans sa nature mais dans l'histoire qui l'en a écarté. À l'état de nature règnent l'amour de soi et la [pitié](../glossary/pitie.md), non la méchanceté ; ce sont la propriété, les comparaisons et l'[amour-propre](../glossary/amour-de-soi-et-amour-propre.md) qui engendrent l'inégalité et la domination. Rousseau retourne ainsi le dogme du péché originel et déplace la faute de la nature vers la société : ce ne sont pas les hommes qu'il faut d'abord corriger, mais les institutions.
 
-> « Tout est bien sortant des mains de l'Auteur des choses, tout dégénère entre les mains de l'homme. » (Rousseau, Émile, livre I)
+> « Tout est bien sortant des mains de l'Auteur des choses, tout dégénère entre les mains de l'homme. », Émile, livre I
 
 *Sources : Rousseau, Discours sur l'origine de l'inégalité · Rousseau, Émile, livre I*
 
@@ -68,7 +68,7 @@ Techno-critique 75% · Techno-optimisme 25%
 
 Couronné en 1750 pour avoir soutenu le paradoxe que le rétablissement des sciences et des arts a corrompu les mœurs, Rousseau frappe l'espoir cardinal des Lumières : le progrès des lumières et des techniques n'entraîne pas le progrès moral, il l'érode. Le luxe et les arts polissent les apparences tout en amollissant les âmes et en masquant les vices sous des dehors policés. Ce n'est pas l'éloge de l'ignorance, mais le refus de l'équation, centrale au siècle, entre civilisation et amélioration de l'homme.
 
-> « Nos âmes se sont corrompues à mesure que nos sciences et nos arts se sont avancés à la perfection. » (Rousseau, Discours sur les sciences et les arts (1750))
+> « Nos âmes se sont corrompues à mesure que nos sciences et nos arts se sont avancés à la perfection. », Discours sur les sciences et les arts (1750)
 
 *Sources : Rousseau, Discours sur les sciences et les arts*
 
@@ -80,7 +80,7 @@ Sentimentalisme 85% · Intellectualisme 15%
 
 Contre l'intellectualisme qui fait de la raison le juge du bien, Rousseau loge la moralité dans un sentiment : la conscience, « instinct divin », nous fait aimer le bien avant de le comprendre, et la [pitié](../glossary/pitie.md), répugnance naturelle à voir souffrir, fonde la sociabilité avant tout calcul. Le cœur précède et déborde la raison. Cette réhabilitation du sentiment, déployée dans La Nouvelle Héloïse, ouvre la voie au [romantisme](../movements/romanticism.md).
 
-> « Conscience ! conscience ! instinct divin, immortelle et céleste voix. » (Rousseau, Émile, Profession de foi du vicaire savoyard)
+> « Conscience ! conscience ! instinct divin, immortelle et céleste voix. », Émile, Profession de foi du vicaire savoyard
 
 *Sources : Rousseau, Émile, Profession de foi du vicaire savoyard · Rousseau, Julie ou la Nouvelle Héloïse*
 
@@ -92,7 +92,7 @@ Liberté positive 80% · Non-domination républicaine 15% · Liberté négative 
 
 La liberté n'est pas l'absence d'entrave ni le droit de tout faire, mais l'obéissance à la loi qu'on s'est prescrite : une liberté positive, l'autonomie du citoyen. L'homme civil échange son indépendance naturelle contre la liberté morale, seule qui le rende vraiment maître de lui. C'est pourquoi celui qui refuse d'obéir à la [volonté générale](../glossary/volonte-generale.md), écrit Rousseau dans une formule redoutable, sera « forcé d'être libre ».
 
-> « L'obéissance à la loi qu'on s'est prescrite est liberté. » (Rousseau, Du contrat social, I, 8)
+> « L'impulsion du seul appétit est esclavage, et l'obéissance à la loi qu'on s'est prescrite est liberté. », Du contrat social, I, 8
 
 *Sources : Rousseau, Du contrat social, I, 7-8*
 
@@ -104,7 +104,7 @@ La liberté n'est pas l'absence d'entrave ni le droit de tout faire, mais l'obé
 
 Le second Discours fait de l'inégalité le mal politique majeur : née de la propriété, elle dénature l'amour de soi en [amour-propre](../glossary/amour-de-soi-et-amour-propre.md) et institue la domination. Pas de liberté réelle là où les écarts de fortune permettent d'acheter et de se vendre. Position résolument égalitariste, qui le sépare du libéralisme lockéen de la propriété et inspirera la pensée révolutionnaire.
 
-> « Que nul citoyen ne soit assez opulent pour en pouvoir acheter un autre, et nul assez pauvre pour être contraint de se vendre. » (Rousseau, Du contrat social, II, 11)
+> « Que nul citoyen ne soit assez opulent pour en pouvoir acheter un autre, et nul assez pauvre pour être contraint de se vendre. », Du contrat social, II, 11
 
 *Sources : Rousseau, Discours sur l'origine de l'inégalité · Rousseau, Du contrat social, II, 11*
 
@@ -116,7 +116,7 @@ Affirmation 60% · Tri raisonné 35% · Extinction-détachement 5%
 
 Loin de l'extinction stoïcienne ou bouddhiste, Rousseau tient le désir et l'imagination pour la source même du sentiment d'exister : on jouit moins de ce qu'on possède que de ce qu'on espère, et le bonheur est dans l'élan, non dans la pleine satisfaction. Mais cette affirmation n'est pas sans tri : il faut suivre les désirs simples nés de l'amour de soi et de la [pitié](../glossary/pitie.md), et se garder de ceux, insatiables, que l'[amour-propre](../glossary/amour-de-soi-et-amour-propre.md) enfle par la comparaison.
 
-> « Malheur à qui n'a plus rien à désirer ! il perd pour ainsi dire tout ce qu'il possède. » (Rousseau, Julie ou la Nouvelle Héloïse, VI)
+> « Malheur à qui n'a plus rien à désirer ! il perd pour ainsi dire tout ce qu'il possède. », Julie ou la Nouvelle Héloïse, VI
 
 *Sources : Rousseau, Julie ou la Nouvelle Héloïse, VI · Rousseau, Émile, livre II*
 
@@ -128,7 +128,7 @@ Démocratie radicale 95% · Épistocratie 5%
 
 La souveraineté réside dans le peuple ; elle est inaliénable et indivisible, et ne peut donc être représentée. Rousseau pousse la démocratie jusqu'à la souveraineté directe, le peuple assemblé faisant lui-même la loi, contre toute épistocratie comme contre le gouvernement purement représentatif. La représentation, à ses yeux, dépossède le citoyen de la liberté même qu'elle prétend servir.
 
-> « À l'instant qu'un peuple se donne des représentants, il n'est plus libre ; il n'est plus. » (Rousseau, Du contrat social, III, 15)
+> « À l'instant qu'un peuple se donne des représentants, il n'est plus libre ; il n'est plus. », Du contrat social, III, 15
 
 *Sources : Rousseau, Du contrat social, III, 15*
 

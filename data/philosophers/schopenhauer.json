@@ -1,20 +1,1139 @@
 {
   "kind": "PHILOSOPHER",
-  "stub": true,
   "id": "schopenhauer",
-  "name": { "fr": "Schopenhauer", "en": "Schopenhauer" },
+  "name": {
+    "fr": "Schopenhauer",
+    "en": "Schopenhauer"
+  },
+  "fullName": {
+    "fr": "Arthur Schopenhauer",
+    "en": "Arthur Schopenhauer"
+  },
+  "tagline": {
+    "fr": "Le philosophe du vouloir-vivre, de la souffrance et de la délivrance par l'art et la compassion.",
+    "en": "The philosopher of the will-to-live, of suffering, and of deliverance through art and compassion."
+  },
   "aliases": {
-    "fr": ["schopenhauérien", "schopenhauérienne"],
-    "en": ["Schopenhauerian"]
+    "fr": [
+      "schopenhauérien",
+      "schopenhauérienne"
+    ],
+    "en": [
+      "Schopenhauerian"
+    ]
   },
   "summary": {
-    "fr": "Philosophe allemand pessimiste : il voit dans le monde l'expression d'un vouloir-vivre aveugle, dont l'amour n'est que la ruse pour perpétuer l'espèce, et dans l'art une échappée hors du désir.",
-    "en": "German pessimist philosopher: he sees the world as the expression of a blind will-to-live, of which love is merely the ruse to perpetuate the species, and art an escape from desire."
+    "fr": "Philosophe allemand, Schopenhauer publie à trente ans son unique système, <w id='the-world-as-will-and-representation-schopenhauer'>Le Monde comme volonté et comme représentation</w> (1818), qui reste ignoré plus de trente ans avant que les <w id='parerga-and-paralipomena-schopenhauer'>Parerga et Paralipomena</w> (1851) ne lui apportent une célébrité tardive. Héritier revendiqué de <ph id='kant'>Kant</ph> et de <ph id='plato'>Platon</ph>, premier grand philosophe européen à intégrer les Upanishad et le <mv id='buddhism'>bouddhisme</mv> à sa pensée, il bâtit, contre l'optimisme spéculatif de <ph id='hegel'>Hegel</ph> qu'il combattit sa vie durant, une métaphysique du <c id='vouloir-vivre'>vouloir-vivre</c> qui fait de la souffrance le fond de l'existence et cherche la délivrance du côté de l'art, de la <c id='compassion'>compassion</c> et de l'<c id='asceticism'>ascèse</c>. Portée par une prose d'écrivain, sa philosophie a marqué <ph id='nietzsche'>Nietzsche</ph>, <ph id='freud'>Freud</ph> et <ph id='wittgenstein'>Wittgenstein</ph> autant que les artistes, de <per>Wagner</per> à <per>Thomas Mann</per>.",
+    "en": "A German philosopher, Schopenhauer published his single system at thirty, <w id='the-world-as-will-and-representation-schopenhauer'>The World as Will and Representation</w> (1818), which went ignored for more than thirty years before the <w id='parerga-and-paralipomena-schopenhauer'>Parerga and Paralipomena</w> (1851) brought him late fame. An avowed heir of <ph id='kant'>Kant</ph> and <ph id='plato'>Plato</ph>, and the first major European philosopher to draw the Upanishads and <mv id='buddhism'>Buddhism</mv> into his thought, he built, against the speculative optimism of <ph id='hegel'>Hegel</ph> whom he fought all his life, a metaphysics of the <c id='vouloir-vivre'>will-to-live</c> that makes suffering the ground of existence and seeks deliverance in art, <c id='compassion'>compassion</c>, and <c id='asceticism'>asceticism</c>. Written in a novelist's prose, his philosophy marked <ph id='nietzsche'>Nietzsche</ph>, <ph id='freud'>Freud</ph>, and <ph id='wittgenstein'>Wittgenstein</ph> as much as artists, from <per>Wagner</per> to <per>Thomas Mann</per>."
   },
-  "nationality": { "fr": "Allemand", "en": "German" },
+  "nationality": {
+    "fr": "Allemand",
+    "en": "German"
+  },
   "birth": 1788,
   "death": 1860,
   "movements": [],
-  "updatedAt": "2026-06-22T00:00:00.000Z",
-  "validation": { "method": "NOT_VALIDATED" }
+  "entries": [
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.05,
+          0.9,
+          0.05
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le premier livre du <w id='the-world-as-will-and-representation-schopenhauer'>Monde comme volonté et comme représentation</w> part d'un constat kantien radicalisé : le monde n'existe que comme <c id='representation'>représentation</c>, sous les formes a priori de l'espace, du temps et de la causalité. Mais là où <ph id='kant'>Kant</ph> laissait la <c id='thing-in-itself'>chose en soi</c> inconnaissable, Schopenhauer soutient que nous y avons un accès unique : notre corps, connu du dehors comme représentation et du dedans comme volonté. Le matérialisme est réfuté comme la philosophie « du sujet qui s'oublie lui-même dans son calcul » ; son idéalisme reste pourtant singulier, puisque le fond du réel n'est pas esprit mais vouloir aveugle.",
+          "en": "The first book of <w id='the-world-as-will-and-representation-schopenhauer'>The World as Will and Representation</w> begins from a radicalized Kantian premise: the world exists only as <c id='representation'>representation</c>, under the a priori forms of space, time, and causality. But where <ph id='kant'>Kant</ph> left the <c id='thing-in-itself'>thing-in-itself</c> unknowable, Schopenhauer holds that we have a unique access to it: our body, known from without as representation and from within as will. Materialism is refuted as the philosophy 'of the subject that forgets itself in its own reckoning'; his idealism nonetheless remains singular, since the ground of the real is not mind but blind willing."
+        },
+        "references": [
+          {
+            "fr": "Le Monde comme volonté et comme représentation, livre I, §1",
+            "en": "The World as Will and Representation, Book I, §1"
+          }
+        ],
+        "quoteId": "le-monde-est-ma-representation-schopenhauer",
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "COSMIC_OUTLOOK",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.95
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le <c>pessimisme</c> n'est pas chez lui une humeur mais une thèse argumentée : le vouloir étant manque infini, la souffrance est essentielle à la vie et non accidentelle, le plaisir n'étant que la cessation momentanée d'une douleur. Aux systèmes du progrès et de l'harmonie finale, il oppose l'évidence des hôpitaux, des prisons et des champs de bataille.",
+          "en": "For him <c>pessimism</c> is not a mood but an argued thesis: since willing is infinite lack, suffering is essential to life, not accidental, pleasure being merely the momentary cessation of a pain. To the systems of progress and final harmony he opposes the plain evidence of hospitals, prisons, and battlefields."
+        },
+        "references": [
+          {
+            "fr": "Le Monde comme volonté et comme représentation, §59",
+            "en": "The World as Will and Representation, §59"
+          }
+        ],
+        "quoteId": "l-optimisme-quand-il-n-est-schopenhauer",
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.1,
+          0.9
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Vouloir, c'est manquer : tout désir naît d'une privation douloureuse, et sa satisfaction, purement négative, retombe aussitôt dans un nouveau désir ou dans l'<c id='ennui'>ennui</c>, qui découvre le vide de l'existence dès que rien ne l'occupe. La roue d'<chr>Ixion</chr> ne s'arrête un instant que dans la contemplation désintéressée, et ne se brise que dans la négation du vouloir ; à qui ne peut renoncer, les Aphorismes ne concèdent qu'une économie prudente du désir.",
+          "en": "To will is to lack: every desire springs from a painful privation, and its satisfaction, purely negative, falls at once into a new desire or into <c id='ennui'>boredom</c>, which lays bare the emptiness of existence the moment nothing occupies it. The wheel of <chr>Ixion</chr> stops for an instant only in disinterested contemplation, and is broken only in the denial of the will; to those who cannot renounce, the Aphorisms concede no more than a prudent economy of desire."
+        },
+        "references": [
+          {
+            "fr": "Le Monde comme volonté et comme représentation, §57",
+            "en": "The World as Will and Representation, §57"
+          }
+        ],
+        "quoteId": "ainsi-la-vie-oscille-comme-un-schopenhauer",
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.05,
+          0.1,
+          0.85
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le monde n'offre aucune fin à réaliser : le <c id='vouloir-vivre'>vouloir-vivre</c> est sans but et l'histoire n'accomplit rien. La seule issue est sotériologique : que le vouloir, se reconnaissant dans le spectacle universel de la souffrance, se retourne contre lui-même et se nie, par l'<c id='asceticism'>ascèse</c> volontaire dont les saints et les mystiques de toutes les traditions offrent le modèle. Ce « rien » final n'est pas un désespoir mais une délivrance, que Schopenhauer rapproche, dans une lecture personnelle et aujourd'hui discutée des traditions indiennes, du <c id='nirvana'>nirvāṇa</c> bouddhiste.",
+          "en": "The world offers no end to realize: the <c id='vouloir-vivre'>will-to-live</c> is aimless and history accomplishes nothing. The only way out is soteriological: that the will, recognizing itself in the universal spectacle of suffering, turn against itself and deny itself, through the voluntary <c id='asceticism'>asceticism</c> whose model the saints and mystics of every tradition provide. This final 'nothing' is not despair but deliverance, which Schopenhauer likens, in a personal and now contested reading of the Indian traditions, to the Buddhist <c id='nirvana'>nirvāṇa</c>."
+        },
+        "references": [
+          {
+            "fr": "Le Monde comme volonté et comme représentation, §71",
+            "en": "The World as Will and Representation, §71"
+          }
+        ],
+        "quoteId": "pour-tous-ceux-qui-sont-encore-schopenhauer",
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.75
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Contre <ph id='kant'>Kant</ph>, dont il démonte l'impératif catégorique comme une théologie morale déguisée, il soutient qu'une action n'a de valeur morale que si son mobile est la <c id='compassion'>compassion</c>, participation immédiate et désintéressée à la souffrance d'autrui, « phénomène originaire et mystérieux de l'éthique ». La raison n'est qu'un instrument au service du vouloir : elle calcule les moyens, elle ne rend pas bon, et l'égoïste habile n'en est que plus dangereux.",
+          "en": "Against <ph id='kant'>Kant</ph>, whose categorical imperative he dismantles as a disguised moral theology, he holds that an action has moral worth only if its motive is <c id='compassion'>compassion</c>, the immediate and disinterested participation in another's suffering, 'the primal and mysterious phenomenon of ethics.' Reason is merely an instrument in the service of the will: it calculates means, it does not make one good, and the clever egoist is only the more dangerous for it."
+        },
+        "references": [
+          {
+            "fr": "Le Fondement de la morale, §16",
+            "en": "On the Basis of Morality, §16"
+          }
+        ],
+        "quoteId": "cette-compassion-seule-est-le-fondement-schopenhauer",
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "EMBODIMENT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le corps occupe dans le système une position métaphysique unique : il est la seule chose qui nous soit donnée deux fois, comme une représentation parmi d'autres et comme volonté éprouvée du dedans. Cette double connaissance est la clef de voûte de l'édifice : c'est par le corps, non par le raisonnement, que nous savons ce que le monde est en son fond.",
+          "en": "The body holds a unique metaphysical position in the system: it is the only thing given to us twice, as one representation among others and as will felt from within. This double knowledge is the keystone of the whole edifice: it is through the body, not through reasoning, that we know what the world is at bottom."
+        },
+        "references": [
+          {
+            "fr": "Le Monde comme volonté et comme représentation, §18",
+            "en": "The World as Will and Representation, §18"
+          }
+        ],
+        "quoteId": "l-acte-de-volonte-et-le-schopenhauer",
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Athéisme explicite et argumenté : un monde dont la souffrance fait la teneur ne peut être l'œuvre d'un Dieu bon, et le vouloir qui le fonde est aveugle, sans sagesse ni fin. Il salue dans le <mv id='buddhism'>bouddhisme</mv> une haute religion sans Dieu, et tient le panthéisme pour « une manière polie de congédier Dieu », divinisation indue d'un monde misérable.",
+          "en": "An explicit and argued atheism: a world whose very substance is suffering cannot be the work of a good God, and the will that grounds it is blind, without wisdom or aim. He salutes in <mv id='buddhism'>Buddhism</mv> a lofty religion without a God, and takes pantheism to be 'a polite way of dismissing God,' the undue deification of a wretched world."
+        },
+        "references": [
+          {
+            "fr": "Parerga et Paralipomena, t. II, « Sur la religion, un dialogue »",
+            "en": "Parerga and Paralipomena, vol. II, 'On Religion: A Dialogue'"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le mémoire couronné de 1839 établit que tout acte suit nécessairement du caractère inné et des motifs présentés : la liberté d'indifférence est une illusion née de la conscience de faire « ce que je veux », qui masque que je ne choisis pas ce que je veux. Il conserve pourtant, hérité de <ph id='kant'>Kant</ph>, la liberté du <c>caractère intelligible</c> : l'être (esse) est libre, l'agir (operari) est nécessaire, et la responsabilité porte sur ce que nous sommes, non sur tel acte isolé.",
+          "en": "The prize essay of 1839 establishes that every act follows necessarily from the innate character and the motives presented: the freedom of indifference is an illusion born of the consciousness of doing 'what I will,' which masks that I do not choose what I will. Yet he preserves, inherited from <ph id='kant'>Kant</ph>, the freedom of the <c>intelligible character</c>: the being (esse) is free, the acting (operari) is necessary, and responsibility bears on what we are, not on any isolated act."
+        },
+        "references": [
+          {
+            "fr": "Essai sur le libre arbitre, chap. III",
+            "en": "On the Freedom of the Will, ch. III"
+          }
+        ],
+        "quoteId": "tu-peux-faire-ce-que-tu-schopenhauer",
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HUMAN_VISION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'égoïsme sans borne est le ressort naturel de l'homme, jusqu'à la méchanceté désintéressée, cette cruauté qui jouit de la souffrance d'autrui pour elle-même ; la civilisation muselle ce fond sans le transformer. L'État n'est pas un éducateur mais une muselière.",
+          "en": "Boundless egoism is the natural spring of man, up to disinterested malice, that cruelty which delights in another's suffering for its own sake; civilization muzzles this ground without transforming it. The state is not an educator but a muzzle."
+        },
+        "references": [
+          {
+            "fr": "Parerga et Paralipomena, t. II, « Sur l'éthique »",
+            "en": "Parerga and Paralipomena, vol. II, 'On Ethics'"
+          }
+        ],
+        "quoteId": "l-homme-est-au-fond-un-schopenhauer",
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_CIRCLE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.05,
+          0.75,
+          0.15,
+          0.05
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le cercle moral s'étend à tout ce qui souffre : les animaux, manifestations du même vouloir que nous, sont l'objet direct de la <c id='compassion'>compassion</c>, et il reproche au christianisme comme à <ph id='kant'>Kant</ph> d'avoir fait des bêtes de simples choses à notre usage, doctrine qu'il juge « révoltante et abominable ». La frontière morale passe à la sensibilité, non à la raison ; l'arrière-plan reste métaphysique, le même vouloir dans toute la nature, d'où une teinte biocentrique.",
+          "en": "The moral circle extends to everything that suffers: animals, manifestations of the same will as ourselves, are the direct object of <c id='compassion'>compassion</c>, and he reproaches Christianity and <ph id='kant'>Kant</ph> alike for having made beasts into mere things for our use, a doctrine he finds 'revolting and abominable.' The moral boundary runs at sentience, not at reason; the background stays metaphysical, the same will throughout nature, which lends it a biocentric tinge."
+        },
+        "references": [
+          {
+            "fr": "Le Fondement de la morale, §19",
+            "en": "On the Basis of Morality, §19"
+          }
+        ],
+        "quoteId": "la-compassion-pour-les-animaux-est-schopenhauer",
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "LOVE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0.2,
+          0.7,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La Métaphysique de l'amour sexuel, dont il revendique fièrement la nouveauté, démasque dans la passion la ruse du <c id='vouloir-vivre'>vouloir-vivre</c> : l'illusion par laquelle le génie de l'espèce fait servir l'individu, croyant poursuivre son bonheur, à la composition de la génération suivante. L'amour-charité relève, lui, de la compassion, et l'éros comme manque est reconduit à la souffrance.",
+          "en": "The Metaphysics of Sexual Love, whose novelty he proudly claims, unmasks in passion the ruse of the <c id='vouloir-vivre'>will-to-live</c>: the illusion by which the genius of the species makes the individual, thinking he pursues his own happiness, serve the making of the next generation. Love as charity, for its part, belongs to compassion, and eros as lack is traced back to suffering."
+        },
+        "references": [
+          {
+            "fr": "Le Monde comme volonté et comme représentation, t. II, chap. 44, « Métaphysique de l'amour »",
+            "en": "The World as Will and Representation, vol. II, ch. 44, 'The Metaphysics of Sexual Love'"
+          }
+        ],
+        "quoteId": "toute-inclination-amoureuse-si-etheree-qu-schopenhauer",
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ART_PURPOSE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.05,
+          0.55,
+          0.4
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'art délivre une connaissance que la science ne peut atteindre : le <c id='genie'>génie</c>, devenu pur sujet de la connaissance, saisit les Idées, formes éternelles des choses, et les communique. Cette contemplation est en même temps délivrance, car le beau suspend le vouloir et le <c id='sublime'>sublime</c> nous en arrache de haute lutte. La musique tient un rang à part : copie non des Idées mais du vouloir lui-même, elle est la métaphysique du monde rendue audible.",
+          "en": "Art delivers a knowledge that science cannot reach: <c id='genie'>genius</c>, become a pure subject of knowing, grasps the Ideas, the eternal forms of things, and communicates them. This contemplation is at the same time deliverance, for beauty suspends the will and the <c id='sublime'>sublime</c> wrests us from it by main force. Music holds a place apart: a copy not of the Ideas but of the will itself, it is the metaphysics of the world made audible."
+        },
+        "references": [
+          {
+            "fr": "Le Monde comme volonté et comme représentation, livre III, §§34-52",
+            "en": "The World as Will and Representation, Book III, §§34-52"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.05,
+          0,
+          0.4,
+          0.55
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Son éthique décrit plutôt qu'elle ne prescrit : de la compassion découlent les deux vertus cardinales, la justice, ne nuis à personne, et la charité, aide autrui autant que tu peux, incarnées dans des caractères plus que dans des règles. Par son fondement affectif et relationnel, cette morale de la <c id='compassion'>compassion</c> anticipe l'éthique du care ; par sa psychologie des caractères innés, elle garde un air de famille avec l'éthique des vertus ; le formalisme déontologique est expressément récusé.",
+          "en": "His ethics describes rather than prescribes: from compassion flow the two cardinal virtues, justice, harm no one, and loving-kindness, help others as much as you can, embodied in characters more than in rules. By its affective, relational grounding, this ethics of <c id='compassion'>compassion</c> anticipates the ethics of care; by its psychology of innate characters, it keeps a family resemblance to virtue ethics; deontological formalism is expressly rejected."
+        },
+        "references": [
+          {
+            "fr": "Le Fondement de la morale, §§16-22",
+            "en": "On the Basis of Morality, §§16-22"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "BODILY_PLEASURES",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.85
+      },
+      "practicedValue": {
+        "kind": "scalar",
+        "value": 0.2
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'idéal déclaré est l'<c id='asceticism'>ascèse</c> : chasteté, pauvreté volontaire, jeûne, par lesquels le corps, objectivation la plus immédiate du vouloir, est méthodiquement affamé afin de briser le vouloir-vivre. Mais c'est là l'idéal du saint, que le philosophe décrit sans l'incarner : Schopenhauer vivait en rentier gourmet et assumait l'écart, pas plus qu'il n'est requis que le sculpteur soit lui-même beau, le philosophe n'a besoin d'être un saint pour en tracer le portrait.",
+          "en": "The declared ideal is <c id='asceticism'>asceticism</c>: chastity, voluntary poverty, fasting, by which the body, the most immediate objectification of the will, is methodically starved in order to break the will-to-live. But this is the ideal of the saint, which the philosopher describes without embodying it: Schopenhauer lived as a gourmet rentier and owned the gap, no more than a sculptor need be beautiful himself does the philosopher need to be a saint to draw the saint's portrait."
+        },
+        "references": [
+          {
+            "fr": "Le Monde comme volonté et comme représentation, §68",
+            "en": "The World as Will and Representation, §68"
+          }
+        ],
+        "quoteId": "il-n-est-pas-plus-necessaire-schopenhauer",
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "PROBLEM_OF_EVIL",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0,
+          0.4,
+          0.6
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Retournement de <ph id='leibniz'>Leibniz</ph> : ce monde n'est pas le meilleur mais le pire des mondes possibles, car un monde tant soit peu plus mauvais ne pourrait plus subsister. Le mal n'est pas un défaut d'être à excuser mais la teneur positive de l'existence, preuve dirimante contre tout créateur bon ; toute théodicée est dès lors une indécence.",
+          "en": "A reversal of <ph id='leibniz'>Leibniz</ph>: this world is not the best but the worst of all possible worlds, for a world even slightly worse could no longer subsist. Evil is not a deficiency of being to be excused but the positive substance of existence, a decisive proof against any good creator; every theodicy is thereby an indecency."
+        },
+        "references": [
+          {
+            "fr": "Le Monde comme volonté et comme représentation, t. II, chap. 46, « De la vanité et des souffrances de la vie »",
+            "en": "The World as Will and Representation, vol. II, ch. 46, 'On the Vanity and Suffering of Life'"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SCIENCE_PLACE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'étiologie, science des causes, explique les relations réglées entre phénomènes mais laisse entière l'énigme de leur essence intime : elle dit toujours comment, jamais quoi. La science est ainsi souveraine dans son ordre et par principe insuffisante, la métaphysique, l'art et la mystique prenant le relais là où elle s'arrête.",
+          "en": "Etiology, the science of causes, explains the ordered relations between phenomena but leaves whole the riddle of their inner essence: it always says how, never what. Science is thus sovereign in its own order and, in principle, insufficient, with metaphysics, art, and mysticism taking over where it stops."
+        },
+        "references": [
+          {
+            "fr": "Le Monde comme volonté et comme représentation, §17",
+            "en": "The World as Will and Representation, §17"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.2
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le primat revient à l'intuition : le concept ne fait que fixer et conserver, en une monnaie abstraite, ce que la perception seule donne d'abord ; la raison discursive est stérile hors de cette source. Mais l'intuition elle-même est déjà mise en forme par les structures a priori héritées de <ph id='kant'>Kant</ph>, d'où une position mixte qui penche vers l'empirisme sans y être.",
+          "en": "Primacy goes to intuition: the concept only fixes and stores, in abstract coin, what perception alone first gives; discursive reason is sterile away from that source. But intuition is itself already shaped by the a priori structures inherited from <ph id='kant'>Kant</ph>, hence a mixed position that leans toward empiricism without belonging to it."
+        },
+        "references": [
+          {
+            "fr": "Le Monde comme volonté et comme représentation, livre I",
+            "en": "The World as Will and Representation, Book I"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "UNIVERSALS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Les Idées platoniciennes, degrés d'objectivation du vouloir, sont plus réelles que les individus qui les reflètent : à ce niveau il est franchement réaliste. Les concepts abstraits, en revanche, ne sont que des « représentations de représentations », de simples outils de la raison sans réalité propre, ce qui tempère le réalisme d'un versant nominaliste.",
+          "en": "The Platonic Ideas, grades of the will's objectification, are more real than the individuals that reflect them: at that level he is frankly a realist. Abstract concepts, by contrast, are only 'representations of representations,' mere tools of reason with no reality of their own, which tempers the realism with a nominalist side."
+        },
+        "references": [
+          {
+            "fr": "Le Monde comme volonté et comme représentation, livre III",
+            "en": "The World as Will and Representation, Book III"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CONSCIOUSNESS_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.25,
+          0,
+          0.15,
+          0.6,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Double thèse : l'intellect est une fonction du cerveau, phénomène second, tardif et fatigable, ce qui a des accents matérialistes ; mais le fond de toute chose, du minéral à l'homme, est vouloir. C'est moins un panpsychisme au sens strict qu'une doctrine de l'objectivation universelle de la Volonté : ce n'est pas l'esprit qui est partout, mais l'aveugle vouloir.",
+          "en": "A double thesis: the intellect is a function of the brain, a secondary, late, and fatigable phenomenon, which has materialist overtones; but the ground of all things, from the mineral to man, is will. Less a panpsychism in the strict sense than a doctrine of the universal objectification of the Will: it is not mind that is everywhere, but blind willing."
+        },
+        "references": [
+          {
+            "fr": "De la volonté dans la nature",
+            "en": "On the Will in Nature"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.2,
+          0.1,
+          0,
+          0.7
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'individualité ne tient qu'au <c id='principium-individuationis'>principium individuationis</c>, l'espace et le temps qui morcellent l'unique vouloir en une multitude d'êtres séparés ; l'âme-substance est une fiction. Ce qui en nous est indestructible n'est donc pas la personne, vouée à se défaire, mais le vouloir impersonnel qui la traversait.",
+          "en": "Individuality holds only by the <c id='principium-individuationis'>principium individuationis</c>, the space and time that parcel the single will into a multitude of separate beings; the soul-substance is a fiction. What is indestructible in us is therefore not the person, doomed to come undone, but the impersonal will that ran through it."
+        },
+        "references": [
+          {
+            "fr": "Le Monde comme volonté et comme représentation, t. II, chap. 41",
+            "en": "The World as Will and Representation, vol. II, ch. 41"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "FAITH_REASON",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.2,
+          0.55,
+          0.25
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La religion est la « métaphysique du peuple » : vraie sous le voile de l'allégorie, fausse prise à la lettre, elle dit en images ce que la philosophie pense en concepts. Foi et savoir ne peuvent loger de bonne foi dans une même tête, mais le besoin métaphysique qui les nourrit l'un et l'autre est indéracinable.",
+          "en": "Religion is the 'metaphysics of the people': true under the veil of allegory, false taken literally, it says in images what philosophy thinks in concepts. Faith and knowledge cannot honestly lodge in one and the same head, but the metaphysical need that feeds them both is ineradicable."
+        },
+        "references": [
+          {
+            "fr": "Parerga et Paralipomena, t. II, « Sur la religion, un dialogue »",
+            "en": "Parerga and Paralipomena, vol. II, 'On Religion: A Dialogue'"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Tension révélatrice : rien ne justifie la souffrance, et la compassion commande de la soulager partout, ce qui le tire vers l'abolitionnisme ; mais la grande douleur « déniaise », brise l'attachement au vouloir et ouvre la seconde voie vers la délivrance. La souffrance n'a pas de sens, elle a un effet, ce qui interdit de la ranger tout à fait du côté du pur mal à supprimer.",
+          "en": "A revealing tension: nothing justifies suffering, and compassion commands relieving it everywhere, which pulls him toward abolitionism; but great pain 'sobers,' breaks the attachment to willing, and opens the second road to deliverance. Suffering has no meaning, it has an effect, which forbids ranking it wholly on the side of pure evil to be abolished."
+        },
+        "references": [
+          {
+            "fr": "Le Monde comme volonté et comme représentation, §68",
+            "en": "The World as Will and Representation, §68"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HOPE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'espérance est la falsification du jugement par le désir : le vouloir corrompt l'intellect et nous fait tenir pour probable ce que nous souhaitons, prendre nos vœux pour des prévisions. La sagesse consiste à regarder le pire en face et à ne rien attendre, non par amertume, mais pour cesser d'être le jouet de l'illusion.",
+          "en": "Hope is the falsification of judgment by desire: the will corrupts the intellect and makes us hold probable what we wish, mistaking our wishes for forecasts. Wisdom consists in facing the worst and expecting nothing, not out of bitterness, but so as to stop being the plaything of illusion."
+        },
+        "references": [
+          {
+            "fr": "Parerga et Paralipomena, « Aphorismes sur la sagesse dans la vie »",
+            "en": "Parerga and Paralipomena, 'Aphorisms on the Wisdom of Life'"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.35,
+          0.3,
+          0.3,
+          0.05
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Triple consolation contre la peur de la mort : l'argument de symétrie, l'état d'après notre mort n'est autre que celui d'avant notre naissance, donc indifférent ; la mort comme « muse de la philosophie », sans laquelle on ne philosopherait guère ; l'indestructibilité de notre être en soi, le vouloir, qui ne connaît ni temps ni fin, sans pour autant qu'aucune personne survive.",
+          "en": "A threefold consolation against the fear of death: the symmetry argument, the state after our death is none other than the state before our birth, hence a matter of indifference; death as the 'muse of philosophy,' without which one would hardly philosophize; and the indestructibility of our being-in-itself, the will, which knows neither time nor end, though no person survives."
+        },
+        "references": [
+          {
+            "fr": "Le Monde comme volonté et comme représentation, t. II, chap. 41, « Sur la mort »",
+            "en": "The World as Will and Representation, vol. II, ch. 41, 'On Death'"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TIME_ORIENTATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.7,
+          0.1,
+          0.2
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Seul le présent est réel : le passé n'est plus, l'avenir n'est pas encore, et qui vit dans l'attente d'un bonheur futur vit toujours « plus tard », en reportant sa vie. La forme même de l'existence est un présent sans étendue, un point mobile sur lequel il s'agit de se tenir plutôt que de fuir en avant.",
+          "en": "Only the present is real: the past is no longer, the future not yet, and whoever lives in expectation of a future happiness always lives 'later,' deferring his life. The very form of existence is a present without extension, a moving point on which the task is to stand rather than to flee ahead."
+        },
+        "references": [
+          {
+            "fr": "Parerga et Paralipomena, « Aphorismes sur la sagesse dans la vie », chap. V",
+            "en": "Parerga and Paralipomena, 'Aphorisms on the Wisdom of Life', ch. V"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SELF_INTEREST",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'égoïsme est le ressort « colossal » de l'homme empirique, qui rapporte tout à soi et préférerait, dit-il, la destruction du monde à la sienne propre. Mais ce ressort est précisément amoral : seule l'action dont le mobile est le bien d'autrui a une valeur morale, et la vertu ne consiste pas à mieux calculer son intérêt mais à en sortir.",
+          "en": "Egoism is the 'colossal' spring of empirical man, who refers everything to himself and would, he says, sooner see the world destroyed than himself. But this spring is precisely amoral: only an action whose motive is another's good has moral worth, and virtue does not consist in reckoning one's interest better but in stepping outside it."
+        },
+        "references": [
+          {
+            "fr": "Le Fondement de la morale, §14",
+            "en": "On the Basis of Morality, §14"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_DEMAND",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.3
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Sa formule morale a deux étages : « ne nuis à personne » (justice), un devoir strict et pleinement exigible, et « aide chacun autant que tu peux » (charité), qui n'a pas de borne fixe et déborde le simple dû. L'essentiel de l'obligation est négatif, mais la charité vraie est sans mesure, ce qui empêche de le ranger parmi les minimalistes.",
+          "en": "His moral formula has two tiers: 'harm no one' (justice), a strict and fully enforceable duty, and 'help everyone as much as you can' (loving-kindness), which has no fixed bound and overflows mere obligation. The core of obligation is negative, but true charity is without measure, which keeps him from the minimalist camp."
+        },
+        "references": [
+          {
+            "fr": "Le Fondement de la morale, §17",
+            "en": "On the Basis of Morality, §17"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "FORGIVENESS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le caractère étant inné et immuable, celui qui vous a nui une fois porte en lui de le refaire : oublier serait imprudent. Le pardon qui efface l'expérience acquise dilapide un savoir chèrement payé sur les hommes ; on peut cesser d'en vouloir sans effacer ce que la faute a révélé du caractère.",
+          "en": "Since character is innate and unchanging, whoever has wronged you once carries within him the power to do it again: to forget would be imprudent. The forgiveness that erases hard-won experience squanders a dearly bought knowledge of men; one may cease to bear a grudge without erasing what the offence revealed of the character."
+        },
+        "references": [
+          {
+            "fr": "Parerga et Paralipomena, « Aphorismes sur la sagesse dans la vie »",
+            "en": "Parerga and Paralipomena, 'Aphorisms on the Wisdom of Life'"
+          }
+        ],
+        "quoteId": "pardonner-et-oublier-c-est-jeter-schopenhauer",
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HUMAN_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le caractère est inné, constant et hors d'atteinte de l'éducation : velle non discitur, le vouloir ne s'apprend pas. On peut instruire l'intellect et affiner les moyens, jamais changer le fond de ce que quelqu'un veut ; le naturel commande, et le milieu ne fait que lui fournir ses occasions.",
+          "en": "Character is innate, constant, and beyond the reach of education: velle non discitur, willing cannot be taught. One can instruct the intellect and refine the means, never change the ground of what someone wills; nature commands, and circumstance only furnishes its occasions."
+        },
+        "references": [
+          {
+            "fr": "Essai sur le libre arbitre, chap. III",
+            "en": "On the Freedom of the Will, ch. III"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Operari sequitur esse : l'agir suit l'être, chacun n'agit que conformément à ce qu'il est déjà, et l'existence ne fait que dérouler une essence donnée d'avance. C'est l'exact contraire de la liberté existentielle : on ne se fait pas, on se découvre déterminé, et la seule liberté est celle, métaphysique, du caractère intelligible.",
+          "en": "Operari sequitur esse: acting follows being, each acts only in accordance with what he already is, and existence merely unrolls an essence given in advance. It is the exact opposite of existential freedom: one does not make oneself, one discovers oneself determined, and the only freedom is the metaphysical one of the intelligible character."
+        },
+        "references": [
+          {
+            "fr": "Essai sur le libre arbitre, chap. III",
+            "en": "On the Freedom of the Will, ch. III"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "AESTHETIC_LIFE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.2
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'art est un « quiétif » du vouloir, un sabbat où cesse un instant le travail forcé du désir, et à ce titre l'expérience esthétique est le plus haut des biens accessibles dans le monde. Mais elle ne dure pas, le génie n'est pas le saint, et la hiérarchie finale place la sainteté éthique, la négation du vouloir, au-dessus de la seule contemplation du beau.",
+          "en": "Art is a 'quietive' of the will, a Sabbath in which the forced labour of desire ceases for a moment, and as such the aesthetic experience is the highest of the goods accessible within the world. But it does not last, the genius is not the saint, and the final hierarchy places ethical holiness, the denial of the will, above the mere contemplation of beauty."
+        },
+        "references": [
+          {
+            "fr": "Le Monde comme volonté et comme représentation, livres III et IV",
+            "en": "The World as Will and Representation, Books III and IV"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TASTE_HIERARCHY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le <c id='genie'>génie</c> perçoit, dans la même chose, ce que l'homme ordinaire, tout entier livré au vouloir et à l'usage, ne verra jamais : il y a des degrés très inégaux dans la faculté de contempler. Les plaisirs de l'esprit hiérarchisent nettement les hommes, et le « philistin » est défini par son incapacité de jouir sans intérêt.",
+          "en": "The <c id='genie'>genius</c> perceives, in the very same thing, what the ordinary man, wholly given over to willing and to use, will never see: there are highly unequal degrees in the capacity to contemplate. The pleasures of the mind sharply rank men, and the 'philistine' is defined by his incapacity to enjoy without interest."
+        },
+        "references": [
+          {
+            "fr": "Parerga et Paralipomena, « Aphorismes sur la sagesse dans la vie »",
+            "en": "Parerga and Paralipomena, 'Aphorisms on the Wisdom of Life'"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Ce que l'on est importe infiniment plus que ce que l'on a ou ce que l'on représente aux yeux des autres : la source la plus constante du bonheur est la richesse intérieure, seul bien que le sort ne puisse reprendre. D'où le prix de la solitude et du commerce avec soi, contre la dispersion mondaine.",
+          "en": "What one is matters infinitely more than what one has or what one seems in others' eyes: the most constant source of happiness is inner wealth, the one good that fortune cannot take back. Hence the value of solitude and of one's own company, against worldly dispersion."
+        },
+        "references": [
+          {
+            "fr": "Parerga et Paralipomena, « Aphorismes sur la sagesse dans la vie », chap. II",
+            "en": "Parerga and Paralipomena, 'Aphorisms on the Wisdom of Life', ch. II"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ATTENTION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La mort est la « muse de la philosophie » et notre condition ne se comprend qu'à la regarder en face : la sociabilité bruyante, l'agitation mondaine sont surtout la fuite des esprits vides qui ne supportent pas leur propre compagnie. Le recueillement, non la diversion, ouvre à l'essentiel.",
+          "en": "Death is the 'muse of philosophy,' and our condition is understood only by facing it: noisy sociability and worldly bustle are above all the flight of empty minds that cannot bear their own company. Recollection, not diversion, opens onto the essential."
+        },
+        "references": [
+          {
+            "fr": "Parerga et Paralipomena, « Aphorismes sur la sagesse dans la vie »",
+            "en": "Parerga and Paralipomena, 'Aphorisms on the Wisdom of Life'"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "AUTHORITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'État n'a rien d'un éducateur ni d'une fin morale : il naît du contrat par lequel des égoïsmes effrayés, calculant qu'ils perdent plus à subir le tort qu'ils ne gagnent à le commettre, se donnent une muselière commune. Nécessaire contre la méchanceté humaine, il est donc légitime et sans grandeur, et l'anarchisme, qui parie sur une bonté naturelle, est une chimère.",
+          "en": "The state is no educator and has no moral end: it arises from the contract by which frightened egoisms, reckoning that they lose more by suffering wrong than they gain by doing it, give themselves a common muzzle. Necessary against human malice, it is thereby legitimate and without grandeur, and anarchism, which bets on a natural goodness, is a chimera."
+        },
+        "references": [
+          {
+            "fr": "Le Monde comme volonté et comme représentation, §62",
+            "en": "The World as Will and Representation, §62"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "INDIVIDUAL_SOCIETY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La parabole des porcs-épics dit tout : pressés par le froid ils se rapprochent, mais leurs piquants les forcent à s'écarter, et ils finissent par trouver la juste distance, celle de la politesse. L'homme à la riche vie intérieure préfère souffrir un peu du froid que se blesser au contact, et tient la solitude pour un privilège plutôt qu'un manque.",
+          "en": "The parable of the porcupines says it all: pressed by the cold they draw together, but their quills force them apart, and they end by finding the right distance, that of politeness. The man of rich inner life prefers to suffer a little cold than to be pricked by contact, and holds solitude to be a privilege rather than a lack."
+        },
+        "references": [
+          {
+            "fr": "Parerga et Paralipomena, t. II, §396",
+            "en": "Parerga and Paralipomena, vol. II, §396"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "BELONGING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Il raille sans ménagement la fierté nationale, « la plus bon marché » des fiertés, celle de qui, n'ayant rien de personnel dont être fier, se rabat sur la nation qu'il partage avec des millions d'autres. Esprit cosmopolite et polyglotte, nourri d'Orient et d'Occident, il tient la vérité pour sans patrie.",
+          "en": "He mocks national pride without mercy, 'the cheapest' of prides, that of the man who, having nothing personal to be proud of, falls back on the nation he shares with millions of others. A cosmopolitan and polyglot mind, nourished by East and West, he holds truth to have no homeland."
+        },
+        "references": [
+          {
+            "fr": "Parerga et Paralipomena, « Aphorismes sur la sagesse dans la vie », chap. IV",
+            "en": "Parerga and Paralipomena, 'Aphorisms on the Wisdom of Life', ch. IV"
+          }
+        ],
+        "quoteId": "la-plus-pietre-des-fiertes-est-schopenhauer",
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CONSERVATISM_PROGRESSISM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Aucune foi dans le progrès moral ni dans les réformes politiques : la nature humaine ne change pas, seule la muselière peut être mieux ou plus mal ajustée, et l'histoire ne fait que varier le même. Effrayé par la révolution de 1848, il prête sa lorgnette aux soldats visant les émeutiers et lègue une part de sa fortune au fonds de secours des militaires, geste où son pessimisme se fait franchement contre-révolutionnaire.",
+          "en": "No faith in moral progress or political reform: human nature does not change, only the muzzle can be better or worse fitted, and history merely varies the same. Frightened by the 1848 revolution, he lent his opera glass to the soldiers taking aim at the rioters and left part of his fortune to the fund for wounded soldiers, a gesture in which his pessimism turns frankly counter-revolutionary."
+        },
+        "references": [
+          {
+            "fr": "Parerga et Paralipomena ; correspondance et biographie",
+            "en": "Parerga and Paralipomena; correspondence and biography"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HISTORY_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Contre <ph id='hegel'>Hegel</ph> : l'histoire n'est pas une science, car la science connaît le général et l'histoire ne rapporte que le particulier ; elle n'a ni loi ni sens et n'accomplit aucun progrès de l'Esprit. Elle raconte, sous des costumes changeants, l'interminable répétition du même, selon sa devise eadem, sed aliter, les mêmes choses, mais autrement.",
+          "en": "Against <ph id='hegel'>Hegel</ph>: history is not a science, for science knows the general and history reports only the particular; it has neither law nor meaning and accomplishes no progress of Spirit. It tells, in changing costumes, the endless repetition of the same, according to his motto eadem, sed aliter, the same things, but otherwise."
+        },
+        "references": [
+          {
+            "fr": "Le Monde comme volonté et comme représentation, t. II, chap. 38, « De l'histoire »",
+            "en": "The World as Will and Representation, vol. II, ch. 38, 'On History'"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "PUNISHMENT",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.05,
+          0.85,
+          0.05,
+          0.05
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La peine regarde l'avenir, non le passé : châtier pour le mal commis, sans autre fin, serait rendre un mal pour un mal, pure vengeance sans droit. La loi est une menace destinée à contrebalancer par la peur les motifs du crime, et l'exécution ne fait que tenir la promesse de cette menace pour qu'elle garde son crédit dissuasif.",
+          "en": "Punishment looks to the future, not the past: to punish for the wrong already done, with no further end, would be to return evil for evil, mere vengeance without right. The law is a threat meant to counterbalance the motives of crime by fear, and its execution merely keeps the promise of that threat so that it retains its deterrent force."
+        },
+        "references": [
+          {
+            "fr": "Le Monde comme volonté et comme représentation, §62",
+            "en": "The World as Will and Representation, §62"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HUMAN_PLACE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0.15,
+          0.75
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le même vouloir s'objective par degrés dans la gravitation, le cristal, la plante, l'animal et l'homme : notre place dans la nature n'est pas celle d'un maître mais d'un degré parmi d'autres d'une seule et même énergie aveugle. Cette parenté métaphysique fonde des devoirs directs envers l'animal et récuse l'idée que l'homme serait le propriétaire souverain du vivant.",
+          "en": "The same will objectifies itself by degrees in gravitation, the crystal, the plant, the animal, and man: our place in nature is not that of a master but of one grade among others of a single blind energy. This metaphysical kinship grounds direct duties toward animals and rejects the idea that man is the sovereign owner of the living."
+        },
+        "references": [
+          {
+            "fr": "De la volonté dans la nature ; Le Fondement de la morale, §19",
+            "en": "On the Will in Nature; On the Basis of Morality, §19"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "METAPHILOSOPHY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.6,
+          0,
+          0.35,
+          0.05
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La philosophie ne transforme pas le monde et n'édicte pas de règles : elle interprète et déchiffre l'existence donnée, répétant en concepts abstraits l'énigme que le monde pose. Contemplation d'abord, donc ; mais cette compréhension débouche sur la seule chose qui importe vraiment, la question de la délivrance, ce qui la teinte de transformation de soi.",
+          "en": "Philosophy does not transform the world and issues no rules: it interprets and deciphers given existence, repeating in abstract concepts the riddle the world poses. Contemplation first, then; but this understanding opens onto the one thing that truly matters, the question of deliverance, which tinges it with self-transformation."
+        },
+        "references": [
+          {
+            "fr": "Le Monde comme volonté et comme représentation, §53",
+            "en": "The World as Will and Representation, §53"
+          }
+        ],
+        "quoteId": "la-philosophie-ne-peut-jamais-faire-schopenhauer",
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "REALITY_NATURE",
+      "thesis": {
+        "fr": "Le monde est <c id='representation'>représentation</c> pour un sujet et, en son fond, Volonté : un vouloir aveugle, sans raison ni but, dont notre corps est la manifestation immédiate.",
+        "en": "The world is <c id='representation'>representation</c> for a subject and, at bottom, Will: a blind willing, without reason or goal, of which our body is the immediate manifestation."
+      }
+    },
+    {
+      "axisId": "COSMIC_OUTLOOK",
+      "thesis": {
+        "fr": "L'existence est une affaire qui ne couvre pas ses frais : la souffrance est le fond de la vie, et l'optimisme une amère dérision des maux innommables de l'humanité.",
+        "en": "Existence is a business that does not cover its costs: suffering is the ground of life, and optimism a bitter mockery of humanity's unspeakable ills."
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "thesis": {
+        "fr": "Tout désir naît d'un manque, donc d'une souffrance : satisfait, il ne donne qu'un plaisir négatif qui retombe en <c id='ennui'>ennui</c>, et la vie oscille comme un pendule entre la douleur et l'ennui.",
+        "en": "Every desire is born of a lack, hence of suffering: once satisfied, it yields only a negative pleasure that lapses into <c id='ennui'>boredom</c>, and life swings like a pendulum between pain and boredom."
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "thesis": {
+        "fr": "Il n'y a pas de sens à réaliser dans le monde, seulement une délivrance à conquérir contre lui : par la contemplation, la <c id='compassion'>compassion</c> puis l'<c id='asceticism'>ascèse</c>, le <c id='vouloir-vivre'>vouloir-vivre</c> peut se nier lui-même.",
+        "en": "There is no meaning to be realized in the world, only a deliverance to be won against it: through contemplation, <c id='compassion'>compassion</c>, then <c id='asceticism'>asceticism</c>, the <c id='vouloir-vivre'>will-to-live</c> can deny itself."
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "thesis": {
+        "fr": "Le fondement de la morale n'est ni la raison ni le devoir mais la <c id='compassion'>compassion</c> : l'expérience par laquelle la souffrance d'autrui devient immédiatement mon motif, parce que le <c id='principium-individuationis'>principium individuationis</c> qui nous sépare est une illusion.",
+        "en": "The foundation of morality is neither reason nor duty but <c id='compassion'>compassion</c>: the experience by which another's suffering becomes immediately my motive, because the <c id='principium-individuationis'>principium individuationis</c> that separates us is an illusion."
+      }
+    }
+  ],
+  "updatedAt": "2026-07-13T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
 }

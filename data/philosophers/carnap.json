@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "carnap",
+  "stub": true,
+  "name": {
+    "fr": "Rudolf Carnap",
+    "en": "Rudolf Carnap"
+  },
+  "summary": {
+    "fr": "Philosophe allemand, figure majeure du Cercle de Vienne et de l'empirisme logique. Il a cherché à reconstruire le langage de la science sur une base logique et développé une théorie de la probabilité logique, ancêtre des approches bayésiennes de la confirmation.",
+    "en": "German philosopher, a major figure of the Vienna Circle and of logical empiricism. He sought to reconstruct the language of science on a logical basis and developed a theory of logical probability, an ancestor of Bayesian approaches to confirmation."
+  },
+  "birth": 1891,
+  "death": 1970,
+  "nationality": {
+    "fr": "Allemand",
+    "en": "German"
+  },
+  "movements": ["analytic-philosophy"],
+  "updatedAt": "2026-07-13T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

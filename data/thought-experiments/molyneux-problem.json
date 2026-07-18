@@ -9,15 +9,23 @@
     "en": "Imagine a man blind from birth who has learned to tell a cube from a sphere by touch: hands on them, he can say which is which. One day, through an operation, he gains his sight. The cube and the sphere are set before him, without his being able to touch them. Will he be able, by sight alone, to say which is the cube and which the sphere?"
   },
   "source": {
-    "author": { "fr": "Molyneux", "en": "Molyneux" },
-    "work": { "fr": "rapporté dans l'Essai de Locke", "en": "reported in Locke's Essay" },
+    "author": {
+      "fr": "Molyneux",
+      "en": "Molyneux"
+    },
+    "work": {
+      "fr": "rapporté dans l'Essai de Locke",
+      "en": "reported in Locke's Essay"
+    },
     "year": 1688
   },
   "question": {
     "fr": "Reconnaîtra-t-il les formes du seul regard, ou tout est-il à apprendre des sens ?",
     "en": "Will he recognize the shapes by sight alone, or is everything to be learned from the senses?"
   },
-  "axisIds": ["KNOWLEDGE_SOURCE"],
+  "axisIds": [
+    "KNOWLEDGE_SOURCE"
+  ],
   "options": [
     {
       "id": "recognizes-at-once",
@@ -25,7 +33,15 @@
         "fr": "Oui, il les reconnaîtrait aussitôt : l'idée d'un cube, d'une sphère, l'esprit la possède déjà ; l'œil ne fait que retrouver ce que la raison et le toucher savaient.",
         "en": "Yes, he would recognize them at once: the idea of a cube, of a sphere, the mind already holds; the eye merely finds again what reason and touch already knew."
       },
-      "hints": [{ "axisId": "KNOWLEDGE_SOURCE", "value": { "kind": "scalar", "value": 0.7 } }],
+      "hints": [
+        {
+          "axisId": "KNOWLEDGE_SOURCE",
+          "value": {
+            "kind": "scalar",
+            "value": 0.7
+          }
+        }
+      ],
       "discussion": {
         "fr": "<ph id='leibniz'>Leibniz</ph> penchait pour cette réponse : la figure est un objet de raison, commun à la vue et au toucher, que l'esprit peut rapporter à l'idée qu'il en a déjà.",
         "en": "<ph id='leibniz'>Leibniz</ph> leaned toward this answer: shape is an object of reason, common to sight and touch, which the mind can refer to the idea it already holds of it."
@@ -37,7 +53,15 @@
         "fr": "Du seul regard, non : il ne verrait d'abord que des taches sans nom. Mais son esprit n'est pas vide pour autant : il apporte la forme de l'espace où la vue et le toucher viennent se ranger. L'expérience donne la matière, l'esprit le cadre.",
         "en": "By sight alone, no: at first he would see only nameless patches. Yet his mind is not empty for all that: it brings the form of space in which sight and touch come to be ordered. Experience gives the matter, the mind the frame."
       },
-      "hints": [{ "axisId": "KNOWLEDGE_SOURCE", "value": { "kind": "scalar", "value": 0 } }],
+      "hints": [
+        {
+          "axisId": "KNOWLEDGE_SOURCE",
+          "value": {
+            "kind": "scalar",
+            "value": 0
+          }
+        }
+      ],
       "discussion": {
         "fr": "C'est l'esprit de <ph id='kant'>Kant</ph> : percevoir un objet suppose déjà des formes, l'espace au premier chef, que l'esprit met en œuvre ; sans elles, la sensation resterait aveugle.",
         "en": "This is <ph id='kant'>Kant</ph>'s spirit: to perceive an object already presupposes forms, space foremost, that the mind brings to work; without them, sensation would remain blind."
@@ -49,12 +73,123 @@
         "fr": "Non : il ne verrait d'abord que des taches de lumière, dénuées de sens, jusqu'à ce qu'il apprenne, en touchant et en regardant, à les relier. Toutes nos idées, même celle de forme, se construisent par les sens.",
         "en": "No: at first he would see only patches of light, void of meaning, until he learns, by touching and looking, to connect them. All our ideas, even that of shape, are built up through the senses."
       },
-      "hints": [{ "axisId": "KNOWLEDGE_SOURCE", "value": { "kind": "scalar", "value": -0.7 } }],
+      "hints": [
+        {
+          "axisId": "KNOWLEDGE_SOURCE",
+          "value": {
+            "kind": "scalar",
+            "value": -0.7
+          }
+        }
+      ],
       "discussion": {
         "fr": "<ph id='locke'>Locke</ph> et <ph id='berkeley'>Berkeley</ph> répondaient non : rien ne relie d'avance une idée de la vue à une idée du toucher, c'est l'expérience seule qui tisse ce lien. Les cas réels d'opérés vont plutôt dans ce sens.",
         "en": "<ph id='locke'>Locke</ph> and <ph id='berkeley'>Berkeley</ph> answered no: nothing links a visual idea to a tactile one in advance; experience alone weaves that connection. Real cases of the newly-sighted tend to bear this out."
       }
     }
   ],
-  "updatedAt": "2026-06-29T00:00:00.000Z"
+  "roles": [
+    {
+      "role": "OBJECTS",
+      "position": {
+        "axisId": "KNOWLEDGE_SOURCE",
+        "poleId": "RATIONALISM"
+      },
+      "attacks": "POSITION",
+      "argumentId": "rationalism-necessary-truths",
+      "problems": [
+        "innate-or-learned"
+      ],
+      "summary": {
+        "fr": "Si les idées de figure étaient innées, l'aveugle-né devenu voyant les reconnaîtrait d'emblée à l'œil ; qu'il doive les réapprendre par un sens neuf plaide contre l'innéisme, cœur du rationalisme.",
+        "en": "If the ideas of shape were innate, the newly sighted man would recognize them at once by eye; that he must relearn them through a new sense argues against innatism, the core of rationalism."
+      },
+      "reconstruction": {
+        "development": [
+          {
+            "fr": "Si la raison portait en elle des idées innées, la géométrie serait en nous avant toute expérience sensible, indépendante du sens par lequel on l'apprend.",
+            "en": "If reason carried innate ideas within it, geometry would be in us before any sensory experience, independent of the sense through which one learns it."
+          },
+          {
+            "fr": "Or un aveugle-né qui a appris au toucher à distinguer un cube d'une sphère, et qui recouvre soudain la vue, saurait-il les reconnaître à l'œil, sans les toucher ? Molyneux et Locke répondent : non, il devra d'abord apprendre à voir.",
+            "en": "Yet a man born blind who has learned by touch to tell a cube from a sphere, and who suddenly gains sight, would he recognize them by eye, without touching? Molyneux and Locke answer: no, he would first have to learn to see."
+          },
+          {
+            "fr": "Si les idées de figure étaient un fonds inné que la raison déploie, il les reconnaîtrait d'emblée par n'importe quel sens ; qu'il doive les réapprendre montre qu'elles se forgent dans l'expérience, sens par sens.",
+            "en": "If the ideas of shape were an innate stock that reason unfolds, he would recognize them at once through any sense; that he must relearn them shows they are forged in experience, sense by sense."
+          }
+        ],
+        "conclusion": {
+          "fr": "Donc les idées ne sont pas un trésor inné que la raison déploie, mais un acquis de l'expérience : le cas de Molyneux plaide contre l'innéisme, et donc contre le rationalisme.",
+          "en": "So ideas are not an innate treasure that reason unfolds, but something acquired through experience: the Molyneux case argues against innatism, and so against rationalism."
+        }
+      },
+      "responses": [
+        {
+          "id": "revise",
+          "label": {
+            "fr": "Le cas me convainc : les idées de figure ne sont pas innées, il faut apprendre à les voir. La raison seule ne les contient pas, l'expérience y a sa part.",
+            "en": "The case convinces me: the ideas of shape are not innate, one must learn to see them. Reason alone does not contain them, experience has its share."
+          },
+          "hints": [
+            {
+              "axisId": "KNOWLEDGE_SOURCE",
+              "value": {
+                "kind": "scalar",
+                "value": 0
+              },
+              "weight": 2
+            }
+          ],
+          "discussion": {
+            "fr": "Vous reculez du rationalisme vers le criticisme, voire l'empirisme : l'expérience est nécessaire, même si l'esprit met en forme ce qu'elle donne.",
+            "en": "You step back from rationalism toward criticism, even empiricism: experience is necessary, even if the mind gives form to what it provides."
+          }
+        },
+        {
+          "id": "qualify",
+          "label": {
+            "fr": "Je maintiens que la raison a ses ressources propres, mais j'accorde qu'elles ont besoin de l'expérience pour s'exercer : une structure innée, oui, mais éveillée par les sens.",
+            "en": "I maintain that reason has resources of its own, but grant that they need experience to be exercised: an innate structure, yes, but awakened by the senses."
+          },
+          "hints": [
+            {
+              "axisId": "KNOWLEDGE_SOURCE",
+              "value": {
+                "kind": "scalar",
+                "value": 0.4
+              },
+              "weight": 1
+            }
+          ],
+          "discussion": {
+            "fr": "Vous tenez la réponse de <ph id='leibniz'>Leibniz</ph> : les idées sont innées comme des veines dans le marbre, que l'expérience dégage sans les créer.",
+            "en": "You hold <ph id='leibniz'>Leibniz</ph>'s reply: ideas are innate like veins in the marble, which experience uncovers without creating them."
+          }
+        },
+        {
+          "id": "refute",
+          "label": {
+            "fr": "Je réfute : rien ne dit qu'il ne reconnaîtrait pas les figures. La structure de l'espace est peut-être si profondément inscrite qu'il ferait d'emblée le lien entre le vu et le touché.",
+            "en": "I refute it: nothing says he would not recognize the shapes. The structure of space may be so deeply inscribed that he would at once link the seen to the touched."
+          },
+          "hints": [
+            {
+              "axisId": "KNOWLEDGE_SOURCE",
+              "value": {
+                "kind": "scalar",
+                "value": 1
+              },
+              "weight": 0.5
+            }
+          ],
+          "discussion": {
+            "fr": "Vous tenez la ligne innéiste : certaines études sur des opérés de la cataracte relancent le débat, sans le clore.",
+            "en": "You hold the innatist line: some studies of cataract patients reopen the debate without settling it."
+          }
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
 }

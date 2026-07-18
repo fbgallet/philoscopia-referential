@@ -1,0 +1,81 @@
+{
+  "id": "clarification-real-questions-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "METAPHILOSOPHY", "poleId": "CLARIFICATION" },
+  "name": { "fr": "Ne pas jeter les vraies questions", "en": "Do not throw out the real questions" },
+  "attacks": "POSITION",
+  "claim": {
+    "fr": "En traitant les grands problèmes comme des confusions de langage, on risque de congédier les questions mêmes qui donnent son prix à la philosophie.",
+    "en": "By treating the great problems as confusions of language, one risks dismissing the very questions that give philosophy its worth."
+  },
+  "summary": {
+    "fr": "La clarification renvoie au silence bien des problèmes tenus pour des nœuds de langage. Mais le sens, la mort, le juste, le libre ne sont pas des fautes de grammaire : rendre le langage clair n'apprend pas comment vivre ni ce qui est. À trop dissoudre, il ne reste qu'une technique sans objet.",
+    "en": "Clarification consigns to silence many problems held to be knots of language. But meaning, death, the just, the free are not grammatical mistakes: making language clear does not teach how to live or what is. Dissolve too much, and only a technique without an object remains."
+  },
+  "development": [
+    {
+      "fr": "La clarification tient bien des problèmes philosophiques pour des nœuds de langage, à dissoudre plutôt qu'à résoudre : « ce dont on ne peut parler, il faut le taire » <w id='tractatus-logico-philosophicus-wittgenstein'>(Tractatus)</w>.",
+      "en": "Clarification holds many philosophical problems to be knots of language, to be dissolved rather than solved: 'whereof one cannot speak, thereof one must be silent' <w id='tractatus-logico-philosophicus-wittgenstein'>(Tractatus)</w>."
+    },
+    {
+      "fr": "Mais les questions ainsi renvoyées au silence, le sens de la vie, la mort, le juste, le libre, ne sont pas de simples fautes de grammaire : ce sont celles qui pressent chaque existence.",
+      "en": "But the questions thus consigned to silence, the meaning of life, death, the just, the free, are not mere grammatical mistakes: they are the ones that press upon every existence."
+    },
+    {
+      "fr": "Rendre le langage clair n'apprend pas encore comment vivre ni ce qui est : à trop vouloir dissoudre, on risque de ne garder qu'une technique sans objet, une propreté logique qui a renoncé à ce qui comptait.",
+      "en": "Making language clear does not yet teach how to live or what is: in wanting to dissolve too much, one risks keeping only a technique without an object, a logical tidiness that has given up on what mattered."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc clarifier ne peut être toute la tâche : on peut soigner le langage sans avoir répondu à rien, et les « faux problèmes » qu'on écarte sont souvent les vraies questions qu'on ne sait pas traiter.",
+    "en": "So clarifying cannot be the whole task: one can tidy up language without having answered anything, and the 'pseudo-problems' one sets aside are often the real questions one does not know how to handle."
+  },
+  "difficulty": 3,
+  "source": {
+    "author": { "fr": "Heidegger", "en": "Heidegger" },
+    "figures": [{ "name": { "fr": "Heidegger", "en": "Heidegger" }, "kind": "PHILOSOPHER", "slug": "heidegger" }],
+    "work": { "fr": "Qu'est-ce que la métaphysique ?", "en": "What Is Metaphysics?" },
+    "year": 1929
+  },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est vrai : les grandes questions ne sont pas de faux problèmes. La philosophie doit affronter le sens, la mort, le juste, non les congédier.",
+        "en": "True: the great questions are not pseudo-problems. Philosophy must face meaning, death, the just, not dismiss them."
+      },
+      "hints": [{ "axisId": "METAPHILOSOPHY", "value": { "kind": "weights", "weights": [0.6, 0.05, 0.2, 0.15] }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous revenez vers la contemplation : il y a un ordre du réel et un sens à comprendre, que la seule analyse du langage laisse échapper.",
+        "en": "You return toward contemplation: there is an order of the real and a meaning to be understood, which language-analysis alone lets slip."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je garde l'exigence de clarté, mais comme un moyen : clarifier pour mieux poser les vraies questions, non pour s'en débarrasser.",
+        "en": "I keep the demand for clarity, but as a means: to clarify in order to pose the real questions better, not to be rid of them."
+      },
+      "hints": [{ "axisId": "METAPHILOSOPHY", "value": { "kind": "weights", "weights": [0.35, 0.05, 0.1, 0.5] }, "weight": 1 }],
+      "discussion": {
+        "fr": "La clarté au service du fond : dissiper les confusions pour dégager, non pour dissoudre, les questions qui comptent.",
+        "en": "Clarity in the service of substance: dispelling confusions to free, not to dissolve, the questions that matter."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Ces « grandes questions », mal posées, engendrent des siècles de disputes stériles : les clarifier, c'est souvent voir qu'on demandait mal, et rendre enfin traitable ce qui semblait insondable. Dissoudre un faux problème n'est pas fuir, c'est avancer.",
+        "en": "These 'great questions', ill-posed, breed centuries of sterile dispute: to clarify them is often to see that one was asking wrongly, and to make at last tractable what seemed unfathomable. To dissolve a pseudo-problem is not to flee, it is to make progress."
+      },
+      "hints": [{ "axisId": "METAPHILOSOPHY", "value": { "kind": "weights", "weights": [0.1, 0.05, 0.1, 0.75] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "La défense de la clarification : beaucoup d'énigmes métaphysiques se dissolvent dès qu'on voit la confusion grammaticale qui les nourrit.",
+        "en": "The defense of clarification: many metaphysical riddles dissolve as soon as one sees the grammatical confusion that feeds them."
+      }
+    }
+  ],
+  "targets": ["clarification-dissolve-confusions"],
+  "problems": ["real-problems-or-confusions", "does-philosophy-progress"],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

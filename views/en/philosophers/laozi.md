@@ -24,7 +24,7 @@ What is up to us 93% · Prometheanism 8%
 
 Against the voluntarism that would bend the course of things to a design, Laozi observes that forced intervention turns against itself: the more one grasps, the more one loses; the more laws are made, the more thieves arise. [Wu wei](../glossary/wu-wei.md) is not passivity but the art of espousing the [spontaneous course](../glossary/ziran.md) of things, like water that flows around the obstacle without fighting it: act without forcing, and everything is accomplished. It is the exact reverse of the Prometheanism that measures the human by their grip on the world.
 
-> “The Dao does nothing, and yet nothing is left undone.” (Dao De Jing, ch. 37)
+> “The Dao does nothing, and yet nothing is left undone.”, Dao De Jing, ch. 37
 
 *Sources : Dao De Jing, ch. 37 and 48 · Dao De Jing, ch. 57 and 64*
 
@@ -36,7 +36,7 @@ Techno-criticism 90% · Techno-optimism 10%
 
 The refinement of means is for Laozi not progress but a source of agitation and cunning that estranges us from the [Dao](../glossary/dao.md). His ideal community owns machines and weapons but does not use them: multiplying clever tools breeds artifice and desire, whereas [simplicity](../glossary/ziran.md) brings one back to essentials. This distrust of instrumental ingenuity, voiced long before [Heidegger](../philosophers/heidegger.md) and Ellul, makes him a distant ancestor of techno-criticism.
 
-> “The more clever tools there are, the more the state sinks into disorder.” (Dao De Jing, ch. 57)
+> “The more clever tools there are, the more the state sinks into disorder.”, Dao De Jing, ch. 57
 
 *Sources : Dao De Jing, ch. 80 · Dao De Jing, ch. 57*
 
@@ -68,7 +68,7 @@ Member among others 75% · Stewardship 25%
 
 "The human takes the earth as model, the earth the heavens, the heavens the Dao, and the Dao that which is so of itself": far from dominating nature, the human is set within a nesting in which he ranks after it. He is neither master nor steward charged with a mission, but one being among others called to follow the [spontaneous course](../glossary/ziran.md) of the living. This humble inscription within the natural order brings him close to the deep ecology of Næss.
 
-> “The human models himself on the earth, the earth on heaven, heaven on the Dao, and the Dao on itself.” (Dao De Jing, ch. 25)
+> “The human models himself on the earth, the earth on heaven, heaven on the Dao, and the Dao on itself.”, Dao De Jing, ch. 25
 
 *Sources : Dao De Jing, ch. 25 · Dao De Jing, ch. 51 and 64*
 
@@ -80,7 +80,7 @@ Anarchism 78% · Authority 22%
 
 The good prince governs by [non-interference](../glossary/wu-wei.md): the best ruler is the one whose people barely know he exists, and when the work is done, each says "it happened of itself." The less the state legislates, taxes and agitates, the better the people fare. This is not quite anarchism, since a sage-king remains and an order subsists, but a minimal government that effaces itself, the opposite of the contemporary Legalists.
 
-> “Governing a great state is like frying a small fish.” (Dao De Jing, ch. 60)
+> “Governing a great state is like frying a small fish.”, Dao De Jing, ch. 60
 
 *Sources : Dao De Jing, ch. 17 and 60 · Dao De Jing, ch. 57 and 75*
 
@@ -102,7 +102,7 @@ Equity-phronesis 85% · Legalism 15%
 
 The proliferation of rules is for Laozi a symptom of decadence, not a remedy. Rightness cannot be codified; it comes from a supple, living accord with the situation, which places Laozi on the side of the spirit against the letter, out of distrust of every letter.
 
-> “The more laws and edicts there are, the more thieves and robbers multiply.” (Dao De Jing, ch. 57)
+> “The more laws and edicts there are, the more thieves and robbers multiply.”, Dao De Jing, ch. 57
 
 *Sources : Dao De Jing, ch. 57 and 38*
 
@@ -134,7 +134,7 @@ Skepticism 70% · Dogmatism 30%
 
 "The Dao that can be named is not the constant Dao": ultimate reality eludes language and concepts, which carve up and fix what is fluid. Laozi mocks busy knowledge and exalts a "knowing not-knowing," but this is not the [skepticism](../glossary/skepticism.md) of suspended judgment: it is a higher, intuitive and silent knowledge, attuned to the Dao. The doubt bears on discursive knowledge, not on access to truth, hence a median position leaning toward distrust.
 
-> “The Dao that can be named is not the constant Dao.” (Dao De Jing, ch. 1)
+> “The Dao that can be named is not the constant Dao.”, Dao De Jing, ch. 1
 
 *Sources : Dao De Jing, ch. 1 and 56 · Dao De Jing, ch. 48 and 71*
 

@@ -1,0 +1,117 @@
+{
+  "id": "hedonism-cradle-argument",
+  "kind": "SUPPORTS",
+  "position": {
+    "axisId": "SOVEREIGN_GOOD",
+    "poleId": "HEDONISM"
+  },
+  "name": {
+    "fr": "L'argument du berceau",
+    "en": "The cradle argument"
+  },
+  "claim": {
+    "fr": "Avant même de raisonner, tout être fuit la douleur et cherche le plaisir : c'est là que la nature nous montre où est le bien.",
+    "en": "Before it can even reason, every creature flees pain and seeks pleasure: this is where nature shows us where the good lies."
+  },
+  "summary": {
+    "fr": "Là où la nature parle avant l'éducation, chez l'enfant et l'animal, elle recherche le plaisir et fuit la douleur ; ce que tout être poursuit ainsi pour lui-même est la fin dernière que la nature désigne comme le bien.",
+    "en": "Where nature speaks before education does, in the child and the animal, it seeks pleasure and flees pain; what every creature thus pursues for its own sake is the final end that nature marks out as the good."
+  },
+  "development": [
+    {
+      "fr": "Cherchons le bien non dans les théories, mais là où la nature parle d'elle-même, avant que l'éducation et l'opinion ne l'aient recouverte : chez le nouveau-né et chez l'animal, encore intacts de tout préjugé.",
+      "en": "Let us look for the good not in theories, but where nature speaks for itself, before education and opinion have overlaid it: in the newborn and in the animal, still untouched by any prejudice."
+    },
+    {
+      "fr": "Or, spontanément, sans qu'on le leur apprenne, ils recherchent le plaisir et fuient la douleur : c'est le premier mouvement du vivant, le seul qu'aucun raisonnement n'a eu à produire.",
+      "en": "And spontaneously, with no one teaching them, they seek pleasure and flee pain: this is the first movement of the living, the one that no reasoning had to produce."
+    },
+    {
+      "fr": "Ce que tout être poursuit ainsi pour lui-même, et jamais en vue d'autre chose, est ce que nous appelons une fin dernière ; or le plaisir est bien recherché pour lui-même, tandis que la richesse, la santé ou les honneurs ne le sont qu'en vue du contentement qu'ils procurent.",
+      "en": "What every creature thus pursues for its own sake, and never for the sake of anything else, is what we call a final end; and pleasure is indeed sought for itself, whereas wealth, health, or honors are sought only for the contentment they bring."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc le plaisir n'est pas un bien parmi d'autres, mais la fin à laquelle tout le reste se rapporte : le souverain bien que la nature elle-même désigne.",
+    "en": "So pleasure is not one good among others, but the end to which all the rest refers: the highest good that nature itself marks out."
+  },
+  "deepenings": [
+    {
+      "id": "mills-proof",
+      "label": {
+        "fr": "La preuve de Mill",
+        "en": "Mill's proof"
+      },
+      "summary": {
+        "fr": "Une autre voie vers la même conclusion : la seule preuve qu'une chose est désirable, c'est qu'on la désire.",
+        "en": "Another road to the same conclusion: the only proof that a thing is desirable is that people actually desire it."
+      },
+      "development": [
+        {
+          "fr": "<ph id='mill'>Mill</ph> propose une autre voie : la seule preuve qu'une chose est visible, c'est qu'on la voit ; de même, la seule preuve qu'une chose est désirable, c'est qu'on la désire effectivement.",
+          "en": "<ph id='mill'>Mill</ph> offers another road: the only proof that a thing is visible is that people see it; likewise, the only proof that a thing is desirable is that people actually desire it."
+        },
+        {
+          "fr": "Or chacun désire son propre bonheur, et ne le désire pas en vue d'autre chose : le bonheur est donc, pour chacun, une fin en soi ; et ce qui vaut pour chacun vaut pour l'ensemble.",
+          "en": "Now each person desires their own happiness, and does not desire it for the sake of anything else: happiness is therefore, for each, an end in itself; and what holds for each holds for all."
+        }
+      ],
+      "conclusion": {
+        "fr": "Donc le bonheur est une fin désirable, et même la seule que nous poursuivions pour elle-même : le reste n'est désiré que comme un moyen d'y parvenir.",
+        "en": "So happiness is a desirable end, and indeed the only one we pursue for its own sake: everything else is desired only as a means to it."
+      },
+      "source": {
+        "author": {
+          "fr": "Mill",
+          "en": "Mill"
+        },
+        "figures": [
+          {
+            "name": {
+              "fr": "Mill",
+              "en": "Mill"
+            },
+            "kind": "PHILOSOPHER",
+            "slug": "mill"
+          }
+        ],
+        "work": {
+          "fr": "L'Utilitarisme, ch. IV",
+          "en": "Utilitarianism, ch. IV"
+        },
+        "year": 1861
+      }
+    }
+  ],
+  "difficulty": 1,
+  "source": {
+    "author": {
+      "fr": "Épicure",
+      "en": "Epicurus"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Épicure",
+          "en": "Epicurus"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "epicurus"
+      },
+      {
+        "name": {
+          "fr": "Aristippe",
+          "en": "Aristippus"
+        },
+        "kind": "PHILOSOPHER"
+      }
+    ],
+    "work": {
+      "fr": "Lettre à Ménécée",
+      "en": "Letter to Menoeceus"
+    },
+    "workId": "letter-to-menoeceus-epicurus"
+  },
+  "testThoughtExperiment": "experience-machine",
+  "updatedAt": "2026-07-14T00:00:00.000Z"
+}

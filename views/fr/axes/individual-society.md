@@ -29,6 +29,16 @@ Le tout social est plus que la somme de ses parties : il possède ses propres lo
 - *[Individu et société](../axes/individual-society.md) : Individualisme* fonde *[Origine du lien social](../axes/social-contract.md) : Contractualisme* : Si la société n'est rien d'autre que les individus qui la composent, alors l'ordre commun ne peut tirer sa légitimité que d'un accord entre eux. L'individualisme méthodologique fonde le contractualisme : de [Hobbes](../philosophers/hobbes.md) à [Locke](../philosophers/locke.md), ce sont des individus libres et égaux qui instituent le pouvoir par un pacte, et non une communauté qui les précède.
 - *[Individu et société](../axes/individual-society.md) : Individualisme* fonde *[Liberté politique](../axes/political-liberty.md) : Liberté négative* : Si seuls les individus et leurs choix sont réels, être libre, c'est d'abord disposer d'un espace où nul ne vient interférer. L'individualisme fonde la liberté négative : pour [Mill](../philosophers/mill.md), la société ne peut contraindre l'individu que pour empêcher qu'il ne nuise à autrui.
 
+## Citations
+
+> « Ce n'est pas la conscience des hommes qui détermine leur être ; c'est inversement leur être social qui détermine leur conscience. » — [Marx](../philosophers/marx.md), Préface à la Critique de l'économie politique, 1859
+
+> « L'intérêt de la communauté, qu'est-ce donc ? La somme des intérêts des divers membres qui la composent. » — [Bentham](../philosophers/bentham.md), Introduction aux principes de la morale et de la législation, ch. I, §4
+
+> « La cité est par nature antérieure à l'individu, car le tout est nécessairement antérieur à la partie. » — [Aristote](../philosophers/aristotle.md), Politique, I, 2 (1253a)
+
+> « La nature humaine n'est pas une machine que l'on construit sur un modèle, mais un arbre qui doit croître et se développer de tous côtés. » — [Mill](../philosophers/mill.md), De la liberté, ch. 3
+
 ## Axes liés
 
 [Identité sociale](../axes/social-identity.md) · [Liberté politique](../axes/political-liberty.md) · [Intérêt propre et autrui](../axes/self-interest.md) · [Origine du lien social](../axes/social-contract.md)

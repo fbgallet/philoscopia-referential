@@ -24,7 +24,7 @@ Skepticism 85% · Dogmatism 15%
 
 The motto "“What do I know?”" is not a thesis but a question held open. In the *[Apology for Raymond Sebond](../works/essays-montaigne.md)*, Montaigne takes up the whole arsenal of the Greek skeptics, the diversity of opinions, the weakness of the senses, reason's dependence on custom, to humble the pride of a reason that claims to ground everything. But his [skepticism](../glossary/skepticism.md) does not stop at Pyrrho: he refuses systematic [epochē](../glossary/epoche.md) as a new dogma, keeps the use of beliefs in order to live, and turns doubt not toward an impassive [ataraxia](../glossary/ataraxia.md) but toward modesty, self-inquiry and [tolerance](../glossary/tolerance.md). It is an inhabited, fallibilist-before-the-word doubt, the goad from which Descartes, against him, would make his starting point.
 
-> “What do I know?” (Essays, II, 12, "Apology for Raymond Sebond")
+> “What do I know?”, Essays, II, 12, "Apology for Raymond Sebond"
 
 *Sources : Essays, II, 12, "Apology for Raymond Sebond"*
 
@@ -36,7 +36,7 @@ The examined life 93% · Primacy of action 8%
 
 Where philosophy sought universal truths, Montaigne takes an unprecedented object: himself. Skeptical [epochē](../glossary/epoche.md), by suspending the great certainties, paradoxically clears the one ground left to explore, the inner experience of one particular man. To portray oneself, not out of vanity but to reach the human condition through a single case, becomes a method: "“each man bears the whole form of the human condition”". It is the examined life shifted from Socratic [refutation](../glossary/elenchos.md) toward patient self-observation.
 
-> “I am myself the matter of my book.” (Essays, "To the Reader")
+> “I am myself the matter of my book.”, Essays, "To the Reader"
 
 *Sources : Essays, "To the Reader" and III, 2, "Of Repentance"*
 
@@ -48,7 +48,7 @@ Narrativism 45% · Bundle theory 40% · Psychological continuity 15%
 
 Montaigne finds in himself no fixed substance. The self is "“the sway”", a flux of moods, opinions and states contradictory from one instant to the next, closer to a shifting bundle than to a stable soul. What nonetheless holds it together is no essence but, it seems, the continued writing of the *[Essays](../works/essays-montaigne.md)*, which recaptures this passing in a self-portrait never closed: hence a narrative strand that tempers the sheer patchwork of the parts. For him the self is not given, it is composed in the very telling.
 
-> “I do not portray being, I portray passing.” (Essays, III, 2, "Of Repentance")
+> “I do not portray being: I portray passing.”, Essays, III, 2, "Of Repentance"
 
 *Sources : Essays, III, 2, "Of Repentance" and II, 1, "Of the Inconsistency of Our Actions"*
 
@@ -60,7 +60,7 @@ Presentism 80% · Project 10% · Memory and transmission 10%
 
 Our unhappiness, Montaigne observes, comes from never inhabiting the present: we wander ahead of or behind ourselves, fearing the future and regretting the past, so that we forget to live the hour at hand. Wisdom reverses the effort: not to project oneself nor to hoard, but to "“enjoy one's being loyally”", to savor fully what presents itself, like Epicurus but without a system. The last word of the *[Essays](../works/essays-montaigne.md)* is no longer "to learn to die" but to learn to live, that is, to return to the present that fear of death steals from us.
 
-> “We are never at home, we are always beyond ourselves.” (Essays, I, 3, "Our Feelings Reach Out Beyond Us")
+> “We are never at home, we are always beyond ourselves.”, Essays, I, 3, "Our Feelings Reach Out Beyond Us"
 
 *Sources : Essays, I, 20, "That to Philosophize Is to Learn to Die" and III, 13, "Of Experience"*
 
@@ -82,7 +82,7 @@ Relativism 70% · Universalism 15% · Constructivism 15%
 
 In "Of Cannibals", Montaigne turns the European's gaze back upon himself: we hold barbarous whatever departs from our usages, never seeing that our own would look just as strange from elsewhere. "“Each man calls barbarism whatever is not his own practice”". The diversity of customs across the world shows that our moral certainties owe less to reason than to [custom](../glossary/coutume.md), "“other world, other laws”". This relativism stays prudent, though: it serves to disarm fanaticism and cruelty, not to permit everything, for the cruelty of the conquerors is judged worse than that of the "savages".
 
-> “Each man calls barbarism whatever is not his own practice.” (Essays, I, 31, "Of Cannibals")
+> “Each man calls barbarism whatever is not his own practice.”, Essays, I, 31, "Of Cannibals"
 
 *Sources : Essays, I, 31, "Of Cannibals" and II, 12*
 
@@ -144,7 +144,7 @@ Conservatism 85% · Progressivism 15%
 
 If our laws rest not on reason but on [custom](../glossary/coutume.md), the reformer who would remake them in the name of truth risks, in shaking the edifice, more harm than he cures, as the Wars of Religion show. Montaigne draws from this a paradoxical conservatism: one should obey the laws "“because they are laws”", not because they are just, for their authority lies in their antiquity, not in their foundation. This is not love of the established order but distrust of novelties, whose certain cost outweighs their uncertain gain. A skeptic in politics is readily conservative, for want of any certainty to justify the risk of change.
 
-> “Laws keep their credit not because they are just, but because they are laws.” (Essays, III, 13, "Of Experience")
+> “Laws keep their credit not because they are just, but because they are laws.”, Essays, III, 13, "Of Experience"
 
 *Sources : Essays, III, 13, "Of Experience" and I, 23, "Of Custom"*
 
@@ -186,7 +186,7 @@ Fideism 70% · Separate domains 20% · Harmony 5% · Conflict 5%
 
 The mainspring of the *[Apology](../works/essays-montaigne.md)* is a paradoxical [fideism](../glossary/fideisme.md): by ruining reason's claim to prove anything of God, Montaigne does not destroy faith but strips it of its false supports. A reason incapable of reaching the slightest certainty cannot ground religion, which can therefore hold only by grace and authority, not by demonstration. Far from setting faith and reason in a conflict, he separates them while ranking them, the very weakness of reason serving as an argument for believing submission.
 
-> “It is faith alone that vividly and certainly embraces the high mysteries of our religion.” (Essays, II, 12, "Apology for Raymond Sebond")
+> “It is faith alone that vividly and certainly embraces the high mysteries of our religion.”, Essays, II, 12, "Apology for Raymond Sebond"
 
 *Sources : Essays, II, 12, "Apology for Raymond Sebond"*
 
@@ -268,7 +268,7 @@ Constructed meaning 65% · Teleology and providence 35%
 
 Montaigne seeks the meaning of life neither in a cosmic order nor in an afterlife, but in the quality of a present existence well lived. Without denying a nature to follow, he makes of life a personal art, a day-by-day composition of the self rather than a received destiny. Meaning is not handed down from above, it is fashioned in the way one inhabits one's own life.
 
-> “Our great and glorious masterpiece is to live fitly.” (Essays, III, 13, "Of Experience")
+> “Our great and glorious masterpiece is to live fitly.”, Essays, III, 13, "Of Experience"
 
 *Sources : Essays, III, 13, "Of Experience"*
 
@@ -286,7 +286,7 @@ Philia (friendship) 95% · Agape as gift 5%
 
 Taking up [Aristotle](../philosophers/aristotle.md)'s [philia](../glossary/philia.md) but raising it to a white heat, Montaigne reserves, in the chapter "On friendship" of his *[Essays](../works/essays-montaigne.md)*, the name of friendship for a single, freely chosen bond that comes before love-as-passion: amorous ardour is but a fickle, shifting fire, whereas perfect friendship is a steady warmth in which two souls “mingle and blend into one another”. He holds it to have no ground but itself, irreducible to usefulness, to pleasure or to the duty of kinship; in it each gives themselves without reserve, a share of gift that exceeds any mere exchange of good offices. Of his communion with La Boétie he can give no reason other than the mutual self-evidence of the two beings.
 
-> “Because it was he, because it was I.” (Essays, I, 28 ("On friendship"))
+> “Because it was he, because it was I.”, Essays, I, 28 ("On friendship")
 
 *Sources : Essays, I, 28 ("On friendship")*
 

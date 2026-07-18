@@ -44,7 +44,7 @@ Skepticism 75% · Dogmatism 25%
 
 The human mind demands unity, clarity, ultimate certainties; the world answers with an unreasonable silence. From this divorce springs [the absurd](../glossary/the-absurd.md): the absolute truths reason craves lie beyond its reach, and any thought that promises them, religious or systematic, performs a **leap** away from the evidence. Yet Camus guards against wholesale [skepticism](../glossary/skepticism.md), which refutes itself in asserting itself: at least two things remain certain, the absurd itself and the bare fact of existing. Lucidity holds to this middle ground, refusing both metaphysical hope and the surrender of knowing.
 
-> “I do not know whether this world has a meaning that transcends it. But I know that I do not know that meaning and that it is impossible for me just now to know it.” (The Myth of Sisyphus)
+> “I do not know whether this world has a meaning that transcends it. But I know that I do not know that meaning and that it is impossible for me just now to know it.”, The Myth of Sisyphus
 
 *Sources : The Myth of Sisyphus, An Absurd Reasoning*
 
@@ -56,7 +56,7 @@ Absurdism 80% · Constructed meaning 20%
 
 Two terms are equally certain for Camus: the human mind demands unity and meaning, and the world stays silent before that demand. [The absurd](../glossary/the-absurd.md) lodges in neither term but in their **divorce**, in the confrontation itself: it is therefore neither a property of the world nor a defect in man, but a relation that cannot be dissolved without suppressing one of its terms. So meaning is neither given in advance nor purely absent: no transcendent meaning fills the divorce, yet the man who holds it without fleeing forges values in the present, hence a share of constructed meaning.
 
-> “One must imagine Sisyphus happy.” (The Myth of Sisyphus (1942))
+> “One must imagine Sisyphus happy.”, The Myth of Sisyphus (1942)
 
 *Sources : The Myth of Sisyphus (1942) · The Rebel (1951)*
 
@@ -108,7 +108,7 @@ Revolt 90% · Amor fati 10%
 
 The slave who says no to his master refuses more than an order: by drawing the line he will no longer let be crossed, he asserts that something in him is worth defending, and worth it for all. Camus draws from this gesture a decisive argument: the rebel's no reveals a value exceeding the individual, so that [revolt](../glossary/revolt.md) carries us from the solitary acknowledgment of the absurd to a solidarity, as the “cogito” carried Descartes from doubt to certainty. The refusal of what humiliates, not consent to the given, thus becomes the principle of a worthy existence, and the immanent ground of a morality without God.
 
-> “I rebel, therefore we are.” (The Rebel (1951))
+> “I rebel—therefore we exist.”, The Rebel (1951)
 
 *Sources : The Rebel (1951)*
 
@@ -180,7 +180,7 @@ Revolt / refusal 65% · Death is nothing 20% · Being-toward-death 15%
 
 Death is the scandal par excellence: the horizon that reveals [the absurd](../glossary/the-absurd.md) and ruins all hope, but which Camus refuses to greet with serenity. To resignation as much as to the hope of a beyond, he opposes revolt: to die unreconciled, lucid and in revolt, with no appeal and no consolation. It is in this obstinate refusal, not in acceptance, that the absurd man asserts his greatness.
 
-> “What matters is to die unreconciled and not of one's own free will.” (The Myth of Sisyphus)
+> “What matters is to die unreconciled and not of one's own free will.”, The Myth of Sisyphus, 'Absurd Freedom'
 
 *Sources : The Myth of Sisyphus · The Rebel*
 

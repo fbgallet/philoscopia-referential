@@ -29,6 +29,14 @@ Ce que nous prenons pour la nature humaine varie profondément d'une société �
 - *[Nature et culture](../axes/human-nature.md) : Naturalisme* fonde *[Place de l'homme dans la nature](../axes/human-place-nature.md) : Membre parmi d'autres* : Si l'homme est un être naturel parmi les vivants, sans position privilégiée, alors il n'est pas le maître de la nature mais un membre d'une communauté d'interdépendances. Le naturalisme fonde l'idée de l'homme comme membre parmi d'autres : de la continuité darwinienne à l'écologie profonde, toute forme de vie a une valeur propre, indépendante de son utilité pour nous.
 - *[Nature et culture](../axes/human-nature.md) : Naturalisme* fonde *[Nature de l'amour](../axes/love-nature.md) : Ruse de l'espèce* : Si l'homme est d'abord un être naturel mû par des pulsions communes à l'espèce, l'amour cesse d'être un mystère pour devenir le masque du désir de reproduction. Le naturalisme fonde la « ruse de l'espèce » : [Schopenhauer](../philosophers/schopenhauer.md) voit sous la passion la plus exaltée le vouloir-vivre qui se sert des amants pour perpétuer l'espèce.
 
+## Citations
+
+> « Des hommes que nous rencontrons, neuf sur dix sont ce qu'ils sont, bons ou mauvais, utiles ou non, par leur éducation. » — [Locke](../philosophers/locke.md), Quelques pensées sur l'éducation, §1
+
+> « L'essence humaine n'est pas une abstraction inhérente à l'individu isolé. Dans sa réalité, elle est l'ensemble des rapports sociaux. » — [Marx](../philosophers/marx.md), Thèses sur Feuerbach, VI
+
+> « Par nature, les hommes sont proches les uns des autres ; par la pratique, ils s'éloignent. » — [Confucius](../philosophers/confucius.md), Entretiens, XVII, 2
+
 ## Axes liés
 
 [Identité sociale](../axes/social-identity.md) · [Essence et existence](../axes/essence.md) · [Améliorer la nature humaine](../axes/human-enhancement.md) · [Vision de l'homme](../axes/human-vision.md) · [Souverain bien](../axes/sovereign-good.md)

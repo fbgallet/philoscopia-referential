@@ -39,6 +39,12 @@ Science et religion répondent à des questions différentes : l'une décrit les
 - *[Foi et raison](../axes/faith-reason.md) : Conflit* fonde *[Éthique de la croyance](../axes/belief-ethics.md) : Évidentialisme* : Si croire sans preuve suffisante trahit l'exigence rationnelle, alors on a le devoir de proportionner ses croyances aux preuves. La thèse d'un conflit entre foi et raison fonde l'éthique évidentialiste de la croyance, dont [Russell](../philosophers/russell.md) est un héraut : ne rien tenir pour vrai au-delà de ce que les raisons autorisent.
 - *[Foi et raison](../axes/faith-reason.md) : Fidéisme* fonde *[Éthique de la croyance](../axes/belief-ethics.md) : Non-évidentialisme* : Si la foi est un saut qui commence là où la preuve s'arrête, alors croire relève d'une décision, non d'une contrainte de l'évidence. Le fidéisme fonde le volontarisme doxastique : le pari de [Pascal](../philosophers/pascal.md) invite à parier sur Dieu faute de démonstration, faisant de la croyance un acte de la volonté.
 
+## Citations
+
+> « C'est la foi seule qui embrasse vivement et certainement les hauts mystères de notre religion. » — [Michel de Montaigne](../philosophers/montaigne.md), Essais, II, 12, « Apologie de Raimond Sebond »
+
+> « J'ai donc dû abolir le savoir afin d'obtenir une place pour la foi. » — [Kant](../philosophers/kant.md), Critique de la raison pure, Préface de la seconde édition (B XXX)
+
 ## Axes liés
 
 [Le problème du mal](../axes/problem-of-evil.md) · [Éthique de la croyance](../axes/belief-ethics.md) · [Existence de Dieu](../axes/god-existence.md) · [Place de la science](../axes/science-place.md) · [Où réside le sacré](../axes/transcendence.md)

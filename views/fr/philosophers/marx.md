@@ -24,7 +24,7 @@ Violence émancipatrice 80% · La force, instrument du politique 20%
 
 La classe dominante ne cède jamais d'elle-même : l'émancipation du prolétariat passe par la conquête révolutionnaire du pouvoir, et la violence y joue le rôle d'**accoucheuse de l'histoire**, moyen au service d'un ordre nouveau plutôt que valeur en soi. Marx concède pourtant que dans certains pays, aux institutions ouvertes, une transition pacifique n'est pas exclue : la violence est un instrument de l'émancipation, non son essence.
 
-> « La violence est l'accoucheuse de toute vieille société grosse d'une société nouvelle. » (Le Capital, livre I, chap. XXXI)
+> « La violence est l'accoucheuse de toute vieille société grosse d'une société nouvelle. », Le Capital, livre I, chap. XXXI
 
 *Sources : Le Capital, livre I, chap. XXXI · Manifeste du Parti communiste, IV · Discours d'Amsterdam (1872)*
 
@@ -36,7 +36,7 @@ Transformer le monde 100%
 
 La onzième des **Thèses sur Feuerbach** retourne la vocation de la philosophie : interpréter le monde, comme les philosophes s'y sont bornés, laisse intactes les conditions matérielles qui produisent la misère et l'**aliénation**. La critique doit devenir pratique : s'incarner dans les luttes qui transforment les rapports sociaux, jusqu'à ce que la philosophie s'accomplisse en se réalisant.
 
-> « Les philosophes n'ont fait qu'interpréter le monde de diverses manières ; ce qui importe, c'est de le transformer. » (Thèses sur Feuerbach, XI (1845))
+> « Les philosophes n'ont fait qu'interpréter le monde de diverses manières ; ce qui importe, c'est de le transformer. », Thèses sur Feuerbach, XI (1845)
 
 *Sources : Thèses sur Feuerbach, XI · L'Idéologie allemande (1846)*
 
@@ -88,7 +88,7 @@ Existentialisme 75% · Essentialisme 25%
 
 Marx récuse l'idée d'une essence humaine fixe et a-historique : ce que sont les hommes change avec leur mode de production. La nature humaine n'est pas une abstraction logée en chaque individu mais le précipité de rapports sociaux historiquement déterminés ; elle est un produit de l'histoire, non un donné antérieur à accomplir.
 
-> « L'essence humaine n'est pas une abstraction inhérente à l'individu isolé. Dans sa réalité, elle est l'ensemble des rapports sociaux. » (Thèses sur Feuerbach, VI)
+> « L'essence humaine n'est pas une abstraction inhérente à l'individu isolé. Dans sa réalité, elle est l'ensemble des rapports sociaux. », Thèses sur Feuerbach, VI
 
 *Sources : Thèses sur Feuerbach, VI · L'Idéologie allemande, I*
 
@@ -120,7 +120,7 @@ Sens-direction 93% · Contingence 8%
 
 Si l'on cherche le moteur de l'histoire, ce n'est ni la Providence ni la marche des idées qu'il faut interroger mais une contradiction interne aux sociétés : les forces productives que les hommes développent finissent par entrer en conflit avec les rapports de production hérités, et ce heurt, vécu comme lutte des classes, fait passer d'un mode de production au suivant. Marx en tire une [direction](../axes/history-meaning.md) du féodalisme au capitalisme puis au communisme, non garantie par un dessein mais dégagée par l'analyse des conditions matérielles, ce qui le sépare aussi bien de la théodicée de l'histoire chez [Hegel](../philosophers/hegel.md) que des récits providentiels : d'où une lecture fortement directionnelle, sans téléologie transcendante.
 
-> « L'histoire de toute société jusqu'à nos jours n'a été que l'histoire de luttes de classes. » (Manifeste du Parti communiste, 1848)
+> « L'histoire de toute société jusqu'à nos jours n'a été que l'histoire de luttes de classes. », Manifeste du Parti communiste, 1848
 
 *Sources : Manifeste du Parti communiste, ch. 1 · Préface à la Contribution à la critique de l'économie politique (1859)*
 
@@ -132,7 +132,7 @@ Si l'on cherche le moteur de l'histoire, ce n'est ni la Providence ni la marche 
 
 La propriété privée des moyens de production n'est pas, pour Marx, un droit naturel mais le ressort même de l'exploitation : c'est elle qui permet de capter le surtravail de l'ouvrier, si bien que la justice distributive ne s'obtient pas en partageant mieux dans ce cadre mais en abolissant ce cadre. Il refuse pourtant d'ériger l'égalité abstraite en idéal : un droit qui mesure tous les hommes à la même aune reste un droit inégal, car les besoins diffèrent. Le communisme achevé fonde donc la répartition sur le besoin, par-delà l'horizon du droit lui-même, ce qui en fait un [égalitarisme](../axes/distributive-justice.md) radical opposé à toute légitimation du mérite ou du marché.
 
-> « De chacun selon ses capacités, à chacun selon ses besoins. » (Critique du programme de Gotha)
+> « De chacun selon ses capacités, à chacun selon ses besoins. », Critique du programme de Gotha
 
 *Sources : Critique du programme de Gotha (1875) · Manifeste du Parti communiste, ch. 2 (abolition de la propriété privée)*
 
@@ -144,7 +144,7 @@ Aliénation 60% · Accomplissement 30% · Nécessité, le loisir comme fin 10%
 
 Le travail est par essence l'acte par lequel l'homme s'objective et se reconnaît dans ce qu'il produit : c'est cette définition positive qui rend mesurable sa perversion. Or, dès lors que le produit appartient à un autre et que l'ouvrier vend sa force comme une marchandise, ce qui devait l'accomplir le mutile : Marx décompose cette aliénation en quatre dépossessions, du produit, de l'acte même de produire, de l'essence générique de l'homme, et d'autrui. Contre les économistes qui prennent ce rapport pour un fait naturel et contre Feuerbach qui n'en voyait que la version religieuse, il l'enracine dans la propriété privée et les rapports de production : le poids dominant va donc à l'[aliénation](../axes/work-meaning.md) comme vérité du travail présent, l'accomplissement restant l'horizon d'un travail libéré.
 
-> « Le travailleur ne s'affirme donc pas dans son travail, mais s'y nie ; ne s'y sent pas à l'aise, mais malheureux. » (Manuscrits de 1844)
+> « Le travailleur ne s'affirme donc pas dans son travail, mais s'y nie ; ne s'y sent pas à l'aise, mais malheureux. », Manuscrits de 1844
 
 *Sources : Manuscrits de 1844, premier manuscrit (le travail aliéné) · Le Capital, livre I, sur le travail abstrait et le fétichisme*
 
@@ -156,7 +156,7 @@ Progressisme 100%
 
 Marx ne réclame pas une réforme graduelle mais un renversement révolutionnaire de l'ordre social : le prolétariat doit abattre l'État bourgeois et abolir les rapports de production existants : c'est un [progressisme](../axes/conservatism-progressism.md) radical, hostile à toute conservation de l'ordre établi.
 
-> « Les prolétaires n'ont rien à y perdre que leurs chaînes. Ils ont un monde à y gagner. » (Manifeste du Parti communiste, 1848)
+> « Les prolétaires n'ont rien à y perdre que leurs chaînes. Ils ont un monde à y gagner. », Manifeste du Parti communiste, 1848
 
 *Sources : Manifeste du Parti communiste, conclusion · Thèses sur Feuerbach, XI (transformer le monde)*
 
@@ -178,7 +178,7 @@ Culturalisme 90% · Naturalisme 10%
 
 Chercher l'essence de l'homme dans l'individu pris à part, comme une propriété qu'il porterait en lui, c'est déjà commettre l'erreur de Feuerbach : on prête à la nature ce qui est l'effet d'une histoire. Marx déplace donc le siège de l'humain hors de l'individu, dans le réseau des rapports sociaux où il est pris ; l'homme se distingue de l'animal dès qu'il produit ses moyens d'existence, et change avec les conditions qu'il produit. La conséquence est polémique : il n'y a pas de nature humaine éternelle à invoquer contre le changement social, d'où une position fortement [culturaliste](../axes/human-nature.md), sans renier la dimension naturelle de l'être producteur.
 
-> « L'essence humaine n'est pas une abstraction inhérente à l'individu isolé. Dans sa réalité, elle est l'ensemble des rapports sociaux. » (Thèses sur Feuerbach, VI)
+> « L'essence humaine n'est pas une abstraction inhérente à l'individu isolé. Dans sa réalité, elle est l'ensemble des rapports sociaux. », Thèses sur Feuerbach, VI
 
 *Sources : Thèses sur Feuerbach, VI · L'Idéologie allemande, I (les hommes se distinguent dès qu'ils produisent leurs moyens d'existence)*
 
@@ -190,7 +190,7 @@ Athéisme 100%
 
 La religion est une production humaine et une illusion, l'opium du peuple, à la fois protestation contre la misère réelle et consolation qui la perpétue. La critique de la religion, achevée par Feuerbach puis ramenée par Marx à ses racines sociales, est le présupposé de toute critique : un [athéisme](../axes/god-existence.md) assumé, qui veut dissiper le ciel pour transformer la terre.
 
-> « La religion est le soupir de la créature accablée, l'âme d'un monde sans cœur, l'esprit d'une époque sans esprit. Elle est l'opium du peuple. » (Critique de la philosophie du droit de Hegel, 1844)
+> « La religion est le soupir de la créature accablée, l'âme d'un monde sans cœur, l'esprit d'une époque sans esprit. Elle est l'opium du peuple. », Critique de la philosophie du droit de Hegel, 1844
 
 *Sources : Contribution à la critique de la philosophie du droit de Hegel, introduction (1844)*
 
@@ -202,7 +202,7 @@ Holisme 93% · Individualisme 7%
 
 Pour Marx, l'individu isolé des économistes classiques est une fiction : on ne comprend les hommes qu'à partir des rapports sociaux et des classes auxquels ils appartiennent. La conscience, les besoins, jusqu'aux idées, sont déterminés par l'être social : une position fortement [holiste](../axes/individual-society.md), où le tout social prime sur l'individu pensé à part.
 
-> « Ce n'est pas la conscience des hommes qui détermine leur être ; c'est inversement leur être social qui détermine leur conscience. » (Préface à la Critique de l'économie politique, 1859)
+> « Ce n'est pas la conscience des hommes qui détermine leur être ; c'est inversement leur être social qui détermine leur conscience. », Préface à la Critique de l'économie politique, 1859
 
 *Sources : Préface à la Contribution à la critique de l'économie politique (1859) · Grundrisse, introduction (critique de l'individu isolé de Robinson)*
 
@@ -224,7 +224,7 @@ Primat de l'action 93% · Vie examinée 7%
 
 Tant que l'on tient la conscience pour le lieu où l'homme se rapporte à lui-même, le matérialisme de Feuerbach reste contemplatif : il saisit le réel comme objet à intérioriser, jamais comme activité à exercer. Marx renverse ce primat : c'est dans la [praxis](../glossary/praxis.md), l'activité sensible qui transforme le monde et l'homme du même geste, que se joue et se prouve ce que je suis, non dans un retour réflexif sur soi. L'examen intérieur, coupé de l'action, n'est qu'une idéologie de plus, et la philosophie qui s'y enferme manque sa tâche : d'où une primauté résolue de l'action sur l'introspection.
 
-> « Les philosophes n'ont fait qu'interpréter le monde de diverses manières ; ce qui importe, c'est de le transformer. » (Thèses sur Feuerbach, XI)
+> « Les philosophes n'ont fait qu'interpréter le monde de diverses manières ; ce qui importe, c'est de le transformer. », Thèses sur Feuerbach, XI (1845)
 
 *Sources : Thèses sur Feuerbach, XI · Thèses sur Feuerbach, II (la vérité comme question pratique)*
 
@@ -246,7 +246,7 @@ Déterminisme dur 70% · Libre arbitre 30%
 
 Les conditions matérielles déterminent l'action des hommes, mais sans les en rendre simples jouets, car les hommes font leur propre histoire sans la faire arbitrairement, dans des conditions qu'ils n'ont pas choisies. Cette articulation de la [détermination](../glossary/determinism.md) sociale et de l'action transformatrice penche du côté du déterminisme, sans verser dans le fatalisme : la liberté est la maîtrise collective des conditions, non le [libre arbitre](../glossary/free-will.md) abstrait.
 
-> « Les hommes font leur propre histoire, mais ils ne la font pas arbitrairement, dans des conditions choisies par eux, mais dans des conditions directement données et héritées du passé. » (Le 18 Brumaire de Louis Bonaparte)
+> « Les hommes font leur propre histoire, mais ils ne la font pas arbitrairement, dans des conditions choisies par eux, mais dans des conditions directement données et héritées du passé. », Le 18 Brumaire de Louis Bonaparte
 
 *Sources : Le 18 Brumaire de Louis Bonaparte (1852) · L'Idéologie allemande, I (les circonstances font les hommes autant que les hommes font les circonstances)*
 
@@ -258,7 +258,7 @@ Constructivisme 80% · Réalisme scientifique 20%
 
 Les idées dominantes d'une époque sont les idées de la classe dominante : la pensée juridique, morale et religieuse est une idéologie, un reflet inversé des rapports de production qui masque les intérêts de classe sous l'apparence de vérités universelles. Le savoir social est donc largement construit par les positions matérielles, d'où une nette pente [constructiviste](../axes/knowledge-status.md), même si Marx revendique pour sa propre analyse une scientificité.
 
-> « Les pensées de la classe dominante sont aussi, à toutes les époques, les pensées dominantes. » (L'Idéologie allemande)
+> « Les pensées de la classe dominante sont aussi, à toutes les époques, les pensées dominantes. », L'Idéologie allemande
 
 *Sources : L'Idéologie allemande, I (les idées dominantes sont les idées de la classe dominante) · Préface à la Contribution à la critique de l'économie politique (base et superstructure)*
 
@@ -270,7 +270,7 @@ Anarchisme 75% · Autorité 25%
 
 L'État est conçu comme un instrument de domination de classe, un comité qui gère les affaires communes de la classe bourgeoise ; après la dictature du prolétariat transitoire, l'État est appelé à dépérir dans la société sans classes. L'horizon est donc l'extinction du pouvoir coercitif, ce qui penche vers le pôle anarchiste, sans rejoindre l'anarchisme qui veut abolir l'État sans phase de transition.
 
-> « Le pouvoir politique moderne n'est que le comité qui gère les affaires communes de la classe bourgeoise tout entière. » (Manifeste du Parti communiste, 1848)
+> « Le pouvoir politique moderne n'est que le comité qui gère les affaires communes de la classe bourgeoise tout entière. », Manifeste du Parti communiste, 1848
 
 *Sources : Manifeste du Parti communiste, ch. 1 (l'État, comité de la bourgeoisie) · Critique du programme de Gotha (dépérissement de l'État)*
 
@@ -282,7 +282,7 @@ Réalisme politique 60% · Utopisme 40%
 
 Marx se veut un socialiste scientifique et raille les socialismes utopiques qui dessinent des cités idéales sans analyser les forces réelles : le communisme n'est pas un idéal à instaurer mais le mouvement réel qui abolit l'état actuel des choses. Cet ancrage dans l'analyse des rapports de force matériels tire vers le réalisme politique, même si la fin visée, la société sans classes, garde une charge utopique.
 
-> « Le communisme n'est pas pour nous un état qui doit être créé, un idéal sur lequel la réalité devra se régler. Nous appelons communisme le mouvement réel qui abolit l'état actuel. » (L'Idéologie allemande, 1846)
+> « Le communisme n'est pas pour nous un état qui doit être créé, un idéal sur lequel la réalité devra se régler. Nous appelons communisme le mouvement réel qui abolit l'état actuel. », L'Idéologie allemande, 1846
 
 *Sources : L'Idéologie allemande, I (le communisme, mouvement réel) · Manifeste du Parti communiste, ch. 3 (critique des socialismes utopiques)*
 
@@ -324,7 +324,7 @@ Altruisme 65% · Égoïsme éthique 35%
 
 Marx dénonce la société bourgeoise qui a noyé tout lien humain dans les eaux glacées du calcul égoïste, réduisant les rapports à l'intérêt et au paiement comptant. Mais loin d'ériger cet égoïsme en norme, il y voit le produit historique du capitalisme, et vise une communauté où l'épanouissement de chacun serait la condition de celui de tous : c'est une critique de l'égoïsme au nom d'une solidarité de classe, sans idéaliser un altruisme abstrait.
 
-> « La bourgeoisie a noyé les frissons sacrés de l'extase religieuse, de l'enthousiasme chevaleresque et de la sentimentalité petite-bourgeoise dans les eaux glacées du calcul égoïste. » (Manifeste du Parti communiste, 1848)
+> « La bourgeoisie a noyé les frissons sacrés de l'extase religieuse, de l'enthousiasme chevaleresque et de la sentimentalité petite-bourgeoise dans les eaux glacées du calcul égoïste. », Manifeste du Parti communiste, 1848
 
 *Sources : Manifeste du Parti communiste, ch. 1 (les eaux glacées du calcul égoïste) et ch. 2*
 
@@ -336,7 +336,7 @@ Cosmopolitisme 85% · Communautarisme-patriotisme 15%
 
 Pour Marx, la solidarité décisive n'est pas nationale mais de classe : les ouvriers n'ont pas de patrie, et le mot d'ordre prolétaire appelle à dépasser les frontières au nom d'un internationalisme prolétarien. La communauté pertinente n'est ni la nation ni l'humanité abstraite, mais le prolétariat mondial, ce qui penche fortement vers le cosmopolitisme de classe.
 
-> « Prolétaires de tous les pays, unissez-vous ! » (Manifeste du Parti communiste, 1848)
+> « Prolétaires de tous les pays, unissez-vous ! », Manifeste du Parti communiste, 1848
 
 *Sources : Manifeste du Parti communiste, ch. 2 et conclusion (les ouvriers n'ont pas de patrie ; prolétaires de tous les pays)*
 
@@ -358,7 +358,7 @@ Projet 80% · Présentisme 10% · Mémoire-transmission 10%
 
 La pensée de Marx est tout entière tournée vers un avenir à construire : le présent capitaliste n'a de sens que comme moment d'une transition vers la société communiste, et le passé n'est analysé que pour éclairer ce mouvement : une orientation résolument projective, qui ne peut tirer sa poésie du passé mais seulement de l'avenir.
 
-> « La révolution sociale du XIXe siècle ne peut tirer sa poésie du passé, mais seulement de l'avenir. » (Le 18 Brumaire de Louis Bonaparte, 1852)
+> « La révolution sociale du XIXe siècle ne peut tirer sa poésie du passé, mais seulement de l'avenir. », Le 18 Brumaire de Louis Bonaparte, 1852
 
 *Sources : Le 18 Brumaire de Louis Bonaparte (la poésie de l'avenir)*
 
@@ -370,7 +370,7 @@ Pragmatisme 60% · Correspondance 30% · Cohérence 10%
 
 La vérité d'une pensée se prouve dans la praxis, non dans la pure théorie : c'est dans la pratique que l'homme doit prouver la réalité et la puissance de sa pensée. La question de savoir si une pensée atteint la réalité est « une question pratique » : une conception fortement pragmatiste de la vérité, sans renoncer pour autant à l'ambition de saisir le réel.
 
-> « C'est dans la pratique que l'homme doit prouver la vérité, c'est-à-dire la réalité et la puissance, l'en-deçà de sa pensée. » (Thèses sur Feuerbach, II)
+> « C'est dans la pratique que l'homme doit prouver la vérité, c'est-à-dire la réalité et la puissance, l'en-deçà de sa pensée. », Thèses sur Feuerbach, II
 
 *Sources : Thèses sur Feuerbach, II · Thèses sur Feuerbach, VIII (la vie sociale est essentiellement pratique)*
 

@@ -52,7 +52,7 @@
         "type": "array",
         "items": {
           "type": "string",
-          "pattern": "^(ax:[A-Z][A-Z0-9_]*|pole:[A-Z][A-Z0-9_]*\\/[A-Z][A-Z0-9_]*|(c|ph|mv|chr|te|w|problem):[a-z0-9][a-z0-9-]*)$"
+          "pattern": "^(ax:[A-Z][A-Z0-9_]*|pole:[A-Z][A-Z0-9_]*\\/[A-Z][A-Z0-9_]*|(c|ph|mv|chr|te|w|problem|arg):[a-z0-9][a-z0-9-]*)$"
         }
       },
       "relatedBeliefs": {

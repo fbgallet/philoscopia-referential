@@ -1,0 +1,82 @@
+{
+  "id": "pessimism-glaucus-statue-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "HUMAN_VISION", "poleId": "ANTHROPOLOGICAL_PESSIMISM" },
+  "name": { "fr": "La statue de Glaucus", "en": "The statue of Glaucus" },
+  "attacks": "REASONING",
+  "claim": {
+    "fr": "Ce que le pessimiste prend pour la nature de l'homme est une œuvre du temps et de la société : comme la statue marine de Glaucus, l'âme humaine est si défigurée qu'on ne la reconnaît plus.",
+    "en": "What the pessimist takes for the nature of man is a work of time and society: like the sea-worn statue of Glaucus, the human soul is so disfigured that it is no longer recognizable."
+  },
+  "summary": {
+    "fr": "Le pessimiste lit la nature dans l'homme des sociétés, tout de rivalités et de calculs. Mais cet homme n'est plus l'homme originel : à la statue de Glaucus, la mer avait tant rongé les traits qu'elle semblait une bête. Nommer « nature » cette figure défigurée, c'est prendre l'effet de l'histoire pour l'origine.",
+    "en": "The pessimist reads nature into social man, all rivalry and calculation. But this man is no longer the original man: on the statue of Glaucus, the sea had so eaten away the features that it seemed a beast. To call this disfigured figure 'nature' is to take the effect of history for the origin."
+  },
+  "development": [
+    {
+      "fr": "Le pessimiste lit la nature humaine dans l'homme tel qu'il est sous nos yeux : rivalités, calculs, avidité. Il en conclut que tel est notre fond.",
+      "en": "The pessimist reads human nature in man as he is before our eyes: rivalry, calculation, greed. From this he concludes that such is our depth."
+    },
+    {
+      "fr": "Mais l'homme des sociétés n'est plus l'homme originel : à la statue de Glaucus, ce dieu marin, le temps et les tempêtes avaient tant rongé les traits qu'elle ressemblait moins à un dieu qu'à une bête féroce. Ainsi l'âme humaine, altérée par la vie sociale et les passions qu'elle fait naître, a changé au point d'être presque méconnaissable.",
+      "en": "But social man is no longer the original man: on the statue of Glaucus, that sea-god, time and storms had so eaten away the features that it looked less like a god than a wild beast. So too the human soul, altered by social life and the passions it breeds, has changed to the point of being almost unrecognizable."
+    },
+    {
+      "fr": "Décrire cette figure défigurée et la nommer « nature », c'est prendre l'effet pour l'origine : les traits que le pessimiste impute à l'homme en soi sont l'empreinte de son histoire.",
+      "en": "To describe this disfigured figure and call it 'nature' is to take the effect for the origin: the traits the pessimist ascribes to man in himself are the imprint of his history."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc le pessimiste raisonne sur une image abîmée : il faut, sous les couches déposées par la société, retrouver l'homme de la nature avant d'en juger le fond, faute de quoi l'on tient la maladie pour la santé.",
+    "en": "So the pessimist reasons over a damaged image: one must, beneath the layers deposited by society, recover the man of nature before judging his depth, failing which one takes the disease for health."
+  },
+  "difficulty": 3,
+  "source": {
+    "author": { "fr": "Rousseau", "en": "Rousseau" },
+    "figures": [{ "name": { "fr": "Rousseau", "en": "Rousseau" }, "kind": "PHILOSOPHER", "slug": "rousseau" }],
+    "work": { "fr": "Discours sur l'origine de l'inégalité, Préface", "en": "Discourse on the Origin of Inequality, Preface" },
+    "workId": "discourse-on-inequality-rousseau",
+    "year": 1755
+  },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est vrai : la violence que je crois « naturelle » est l'œuvre de la société. Sous cette croûte, l'homme originel n'était pas mauvais.",
+        "en": "True: the violence I think 'natural' is the work of society. Beneath that crust, the original man was not evil."
+      },
+      "hints": [{ "axisId": "HUMAN_VISION", "value": { "kind": "scalar", "value": -0.6 }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous rejoignez <ph id='rousseau'>Rousseau</ph> : la méchanceté est un dépôt de l'histoire, non le fond de l'homme.",
+        "en": "You join <ph id='rousseau'>Rousseau</ph>: wickedness is a deposit of history, not the depth of man."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "J'accorde qu'on ne lit pas la nature dans l'homme social ; mais rien ne dit non plus qu'il fût bon : disons plutôt indéterminé, façonnable.",
+        "en": "I grant that one does not read nature in social man; but nothing says he was good either: say rather undetermined, shapeable."
+      },
+      "hints": [{ "axisId": "HUMAN_VISION", "value": { "kind": "scalar", "value": 0 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous glissez vers la plasticité : l'homme originel n'est ni bon ni mauvais, seulement disponible à être formé.",
+        "en": "You slide toward plasticity: the original man is neither good nor evil, only available to be formed."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Cet « homme originel » intact est une fiction : nous n'avons jamais connu que l'homme en société. Ce qu'on observe partout, à défaut d'un autre, c'est bien cela, la nature humaine.",
+        "en": "This intact 'original man' is a fiction: we have never known any man but man in society. What we observe everywhere, for want of another, just is human nature."
+      },
+      "hints": [{ "axisId": "HUMAN_VISION", "value": { "kind": "scalar", "value": 1 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "La réplique pessimiste : l'homme de nature « pur » est inobservable ; il ne peut servir à disqualifier ce que l'on constate partout.",
+        "en": "The pessimist reply: the 'pure' man of nature is unobservable; it cannot serve to disqualify what is found everywhere."
+      }
+    }
+  ],
+  "targets": ["pessimism-persistent-drives"],
+  "problems": ["origin-of-evil", "is-there-a-human-nature"],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

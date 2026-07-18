@@ -370,7 +370,8 @@
       ],
       "doorways": [
         {
-          "axis": "MACHINE_MIND"
+          "axis": "MACHINE_MIND",
+          "problem": "turing-test"
         }
       ],
       "title": {
@@ -430,7 +431,8 @@
       ],
       "doorways": [
         {
-          "axis": "MACHINE_MIND"
+          "axis": "MACHINE_MIND",
+          "problem": "do-we-owe-it-anything"
         }
       ],
       "title": {
@@ -550,7 +552,8 @@
       ],
       "doorways": [
         {
-          "axis": "HUMAN_PLACE_NATURE"
+          "axis": "HUMAN_PLACE_NATURE",
+          "problem": "sanctuary-or-garden"
         }
       ],
       "title": {
@@ -676,7 +679,8 @@
       ],
       "doorways": [
         {
-          "axis": "HUMAN_PLACE_NATURE"
+          "axis": "HUMAN_PLACE_NATURE",
+          "problem": "last-man"
         }
       ],
       "title": {

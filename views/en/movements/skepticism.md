@@ -61,7 +61,7 @@ Skepticism 98% · Dogmatism 3%
 
 Any claim to know the hidden nature of things presupposes a criterion of the true; yet that criterion would itself need validating by another, and so on without end, or else guarantee itself, which begs the question. The skeptic therefore does not assert that nothing is knowable, which would still be a [dogmatic](../glossary/dogmatism.md) thesis: he observes that for every proof advanced a contrary proof of equal force stands (the [isostheneia](../glossary/isostheneia.md)), and that this unresolved conflict forces [epochē](../glossary/epoche.md). What sets him apart from dogmatists and Academics alike is that he concludes neither to knowledge nor to ignorance: he keeps inquiring, without closing the matter.
 
-> “To every argument an equal argument is opposed.” (Sextus Empiricus, Outlines of Pyrrhonism, I, 12)
+> “To every argument an equal argument is opposed.”, Outlines of Pyrrhonism, I, 12
 
 *Sources : Sextus Empiricus, Outlines of Pyrrhonism, I, 8-10 · Diogenes Laertius, Lives, IX, 78-79*
 
@@ -73,7 +73,7 @@ Eudaimonism 90% · Hedonism 10%
 
 What torments a person, the skeptic argues, is not the event but the opinion held about it, judging it good or bad by nature: whoever pursues what he takes for a good and flees what he takes for an evil knows no rest. To suspend that opinion is therefore to defuse the disturbance at its source. [Ataraxia](../glossary/ataraxia.md) is thus not a goal the skeptic aims at directly, which would make him dependent once more: it supervenes by surprise, as the unexpected fruit of [epochē](../glossary/epoche.md). Here lies the school's paradox: one reaches serenity precisely by giving up the search for it in a knowledge of the good.
 
-> “Tranquillity followed the suspension as the shadow follows the body.” (Sextus Empiricus, Outlines of Pyrrhonism, I, 29)
+> “Tranquillity followed the suspension as the shadow follows the body.”, Outlines of Pyrrhonism, I, 29
 
 *Sources : Sextus Empiricus, Outlines of Pyrrhonism, I, 25-30 · Diogenes Laertius, Lives, IX, 107-108*
 

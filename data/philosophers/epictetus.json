@@ -92,16 +92,7 @@
           "fr": "Le tort de tout malheur, soutient Épictète, est d'attendre son bonheur de choses qui ne sont pas en notre pouvoir. De là le geste premier, qui ouvre le <w id='enchiridion-epictetus'>Manuel</w> : trier nos affaires en deux classes selon le seul critère de la maîtrise, ce qui relève entièrement de nous (jugements, désirs, aversions) et ce qui n'en relève pas (corps, biens, réputation). La <c id='dichotomy-of-control'>dichotomie</c> n'est pas une thèse parmi d'autres mais l'opération qui conditionne toute la suite : tout <stk>trouble</stk> naît d'avoir réclamé une prise sur ce qui nous échappe. Là où les anciens stoïciens parlaient surtout du <c>destin</c> cosmique, Épictète ramène le partage à l'usage concret, ici et maintenant, de ce qui m'appartient en propre.",
           "en": "The root of all unhappiness, Epictetus argues, is to expect one's happiness from things that are not in our power. Hence the opening move of the <w id='enchiridion-epictetus'>Enchiridion</w>: sorting our concerns into two classes by the single criterion of mastery, what is wholly up to us (judgments, desires, aversions) and what is not (body, goods, reputation). The <c id='dichotomy-of-control'>dichotomy</c> is not one thesis among others but the operation that conditions everything that follows: all <stk>disturbance</stk> arises from having claimed a hold on what eludes us. Where the older Stoics dwelt on cosmic <c>fate</c>, Epictetus brings the division down to the concrete use, here and now, of what is properly mine."
         },
-        "quote": {
-          "text": {
-            "fr": "Il y a des choses qui dépendent de nous et d'autres qui n'en dépendent pas.",
-            "en": "Some things are within our power, while others are not."
-          },
-          "source": {
-            "fr": "Manuel, §1",
-            "en": "Enchiridion, §1"
-          }
-        },
+        "quoteId": "il-y-a-des-choses-qui-epictetus",
         "references": [
           {
             "fr": "Manuel, §1",
@@ -191,16 +182,7 @@
           "fr": "Désir et aversion visent à obtenir ou à éviter : portés sur ce qui ne dépend pas de nous, ils nous vouent à manquer notre but et à subir ce que nous fuyons, donc au malheur. La première des trois disciplines, celle du désir, consiste à les rétracter de tout l'extérieur pour ne plus désirer que ce qui est en notre pouvoir, en attendant que le progrès rende le désir sûr. Pour le débutant, Épictète va jusqu'à recommander de suspendre tout désir et de n'user que de l'aversion, et encore seulement à l'égard de ce qui dépend de nous. Un tri raisonné des <c id='adiaphora'>indifférents</c> préférables subsiste en arrière-plan, mais la pente vécue est celle d'un détachement à l'égard de tout ce que la fortune peut reprendre.",
           "en": "Desire and aversion aim at attaining or avoiding: directed at what is not up to us, they doom us to miss our aim and to suffer what we flee, hence to unhappiness. The first of the three disciplines, that of desire, is to withdraw them from everything external so as to desire only what is in our power, until progress makes desire safe. For the beginner Epictetus goes so far as to recommend suspending desire altogether and using only aversion, and that solely toward what depends on us. A reasoned sorting of the preferred <c id='adiaphora'>indifferents</c> remains in the background, but the lived tendency is detachment from all that fortune can take back."
         },
-        "quote": {
-          "text": {
-            "fr": "Ne demande pas que les choses arrivent comme tu le veux, mais veuille qu'elles arrivent comme elles arrivent, et tu seras heureux.",
-            "en": "Do not ask that things happen as you wish, but wish them to happen as they do, and your life will go well."
-          },
-          "source": {
-            "fr": "Manuel, §8",
-            "en": "Enchiridion, §8"
-          }
-        },
+        "quoteId": "ne-demande-pas-que-les-choses-epictetus",
         "references": [
           {
             "fr": "Manuel, §2",
@@ -255,16 +237,7 @@
           "fr": "Toute passion enveloppe un jugement de valeur sur une chose extérieure, du type « ceci est un mal » : c'est ce jugement, non l'événement, qui constitue le <dif>trouble</dif>. Le pas décisif est d'imputer la passion à l'opinion plutôt qu'à la chose : si une émotion repose sur un jugement, et qu'un jugement peut être révisé, alors aucune passion n'est subie comme une fatalité, toutes sont corrigibles par la <c>raison</c>. Épictète en tire une conséquence éthique inhabituelle : ne jamais accuser autrui ni les circonstances de notre malaise, mais l'usage que nous faisons de nos <c id='phantasia'>représentations</c>. La <c>colère</c>, l'affliction, la peur ne sont pas des forces étrangères à dompter mais des assentiments précipités à retirer.",
           "en": "Every passion contains a value judgment about some external thing, of the form \"this is bad\": it is that judgment, not the event, that constitutes the <dif>disturbance</dif>. The decisive step is to charge the passion to opinion rather than to the thing: if an emotion rests on a judgment, and a judgment can be revised, then no passion is suffered as a fate, all are correctable by <c>reason</c>. Epictetus draws an unusual ethical corollary: never to blame others or circumstances for our distress, but the use we make of our <c id='phantasia'>impressions</c>. <c>Anger</c>, grief and fear are not alien forces to be subdued but hasty assents to be withdrawn."
         },
-        "quote": {
-          "text": {
-            "fr": "Ce ne sont pas les choses qui troublent les hommes, mais les jugements qu'ils portent sur les choses.",
-            "en": "Men are disturbed not by things, but by the opinions about things."
-          },
-          "source": {
-            "fr": "Manuel, §5",
-            "en": "Enchiridion, §5"
-          }
-        },
+        "quoteId": "ce-ne-sont-pas-les-choses-epictetus",
         "references": [
           {
             "fr": "Manuel, §5",
@@ -545,16 +518,7 @@
           "fr": "L'épreuve a une valeur d'entraînement : les difficultés sont les adversaires que la <c id='providence'>providence</c> nous envoie pour révéler et fortifier notre caractère, comme à l'athlète. La souffrance, bien utilisée, est féconde.",
           "en": "Hardship has the value of training: difficulties are the opponents <c id='providence'>providence</c> sends us to reveal and strengthen our character, as for the athlete. Suffering, rightly used, is fruitful."
         },
-        "quote": {
-          "text": {
-            "fr": "Ce sont les circonstances difficiles qui montrent les hommes.",
-            "en": "It is difficulties that show what men are."
-          },
-          "source": {
-            "fr": "Entretiens, I, 24",
-            "en": "Discourses, I.24"
-          }
-        },
+        "quoteId": "ce-sont-les-circonstances-difficiles-qui-epictetus",
         "references": [
           {
             "fr": "Entretiens, I, 24 (Comment lutter contre les difficultés)",
@@ -636,16 +600,7 @@
           "fr": "Le progressant doit être d'une intégrité sans faille, accordant ses actes à ses jugements et ne se parant pas de ce qu'il n'est pas. Cette exigence de cohérence intérieure penche nettement vers un rigorisme de la vérité.",
           "en": "The one making progress must be of unfailing integrity, matching deeds to judgments and not adorning oneself with what one is not. This demand for inner consistency leans clearly toward a rigorism of truthfulness."
         },
-        "quote": {
-          "text": {
-            "fr": "Ne dis jamais que tu es philosophe : sois-le.",
-            "en": "On no occasion call yourself a philosopher: be one."
-          },
-          "source": {
-            "fr": "Manuel, §46",
-            "en": "Enchiridion, §46"
-          }
-        },
+        "quoteId": "ne-dis-jamais-que-tu-es-epictetus",
         "references": [
           {
             "fr": "Manuel, §46",

@@ -1,0 +1,80 @@
+{
+  "id": "chinese-room",
+  "title": {
+    "fr": "La chambre chinoise",
+    "en": "The Chinese Room"
+  },
+  "description": {
+    "fr": "Vous êtes enfermé dans une pièce. Par une fente, on vous glisse des feuillets couverts de signes chinois, que vous ne comprenez pas le moins du monde. Mais vous disposez d'un épais manuel, écrit dans votre langue, qui vous dit : « à tel signe, réponds tel autre ». Vous suivez les règles, vous renvoyez des feuillets, et au-dehors un lecteur chinois trouve vos réponses parfaites : pour lui, la pièce comprend le chinois. Vous, pourtant, vous n'avez rien compris. Une machine qui manie nos mots, un agent conversationnel qui répond si bien, fait-il autre chose que vous dans cette pièce ?",
+    "en": "You are locked in a room. Through a slot, sheets covered in Chinese symbols are passed to you, symbols you do not understand in the slightest. But you have a thick rulebook, written in your own language, that tells you: \"to this mark, reply with that one.\" You follow the rules, you pass sheets back, and outside a Chinese reader finds your answers flawless: to them, the room understands Chinese. You, though, have understood nothing. A machine that handles our words, a chatbot that answers so well, is it doing anything other than what you do in that room?"
+  },
+  "source": {
+    "author": { "fr": "Searle", "en": "Searle" },
+    "work": { "fr": "Esprits, cerveaux et programmes", "en": "Minds, Brains, and Programs" },
+    "year": 1980
+  },
+  "question": {
+    "fr": "Exécuter un programme, aussi parfait soit-il, suffit-il à <kw>comprendre</kw>, ou manier des <kw>symboles</kw> selon leur seule forme reste-t-il aveugle à leur <kw>sens</kw> ?",
+    "en": "Is running a program, however flawless, enough to <kw>understand</kw>, or does handling <kw>symbols</kw> by their form alone stay blind to their <kw>meaning</kw>?"
+  },
+  "axisIds": ["MACHINE_MIND"],
+  "options": [
+    {
+      "id": "syntax-not-meaning",
+      "label": {
+        "fr": "La pièce ne comprend rien : agencer des symboles selon leur forme n'est pas saisir leur sens, et exécuter un programme n'y suffit pas.",
+        "en": "The room understands nothing: arranging symbols by their form is not grasping their meaning, and running a program does not suffice for it."
+      },
+      "hints": [
+        { "axisId": "MACHINE_MIND", "value": { "kind": "scalar", "value": 1 } }
+      ],
+      "discussion": {
+        "fr": "l'<arg>argument de <ph id='searle'>Searle</ph></arg> : un programme est purement formel (de la <kw>syntaxe</kw>), tandis que comprendre suppose la signification (la <kw>sémantique</kw>) ; manipuler des symboles selon leur forme ne suffit pas à produire cette <c id='intentionality'>intentionnalité</c>. Un cerveau vivant, aux pouvoirs causaux propres, le pourrait.",
+        "en": "<ph id='searle'>Searle</ph>'s <arg>argument</arg>: a program is purely formal (<kw>syntax</kw>), whereas understanding involves meaning (<kw>semantics</kw>); manipulating symbols by their form is not enough to produce such <c id='intentionality'>intentionality</c>. A living brain, with its own causal powers, could."
+      }
+    },
+    {
+      "id": "the-whole-system",
+      "label": {
+        "fr": "L'homme seul ne comprend pas, mais le système entier, lui, le manuel et la pièce ensemble, comprend bel et bien.",
+        "en": "The man alone does not understand, but the whole system, he and the rulebook and the room together, genuinely does."
+      },
+      "hints": [
+        { "axisId": "MACHINE_MIND", "value": { "kind": "scalar", "value": -0.5 } }
+      ],
+      "discussion": {
+        "fr": "la « réponse systémique » : la compréhension n'est pas dans un composant mais dans l'organisation d'ensemble, comme aucun neurone isolé ne comprend, quoique le cerveau comprenne.",
+        "en": "the \"systems reply\": understanding lies not in any one component but in the organization of the whole, just as no single neuron understands, though the brain does."
+      }
+    },
+    {
+      "id": "unsure",
+      "label": {
+        "fr": "Difficile de trancher : peut-être comprendre n'est-il, au fond, rien de plus que cela.",
+        "en": "Hard to decide: perhaps understanding is, in the end, nothing more than that."
+      },
+      "hints": [
+        { "axisId": "MACHINE_MIND", "value": { "kind": "scalar", "value": 0 } }
+      ],
+      "discussion": {
+        "fr": "une prudence assumée : nous n'avons peut-être pas de critère clair de ce qu'est <kw>comprendre</kw>, ni pour la machine ni pour nous-mêmes.",
+        "en": "a deliberate reserve: we may have no clear criterion of what it is to <kw>understand</kw>, neither for the machine nor for ourselves."
+      }
+    },
+    {
+      "id": "behavior-is-enough",
+      "label": {
+        "fr": "Si un système remplit toutes les fonctions par lesquelles nous comprenons, il comprend : exiger en plus une compréhension cachée est un préjugé.",
+        "en": "If a system carries out all the functions by which we understand, it understands: requiring some hidden understanding on top is a prejudice."
+      },
+      "hints": [
+        { "axisId": "MACHINE_MIND", "value": { "kind": "scalar", "value": -1 } }
+      ],
+      "discussion": {
+        "fr": "la réponse fonctionnaliste : ce qui fait la compréhension, ce sont les rôles causaux et fonctionnels remplis, non l'étoffe qui les réalise ; poser un « comprendre » par-delà ces fonctions est un préjugé sur le support.",
+        "en": "the functionalist reply: what makes understanding is the causal and functional roles carried out, not the stuff that realizes them; positing an \"understanding\" beyond those functions is a prejudice about the substrate."
+      }
+    }
+  ],
+  "updatedAt": "2026-07-13T00:00:00.000Z"
+}

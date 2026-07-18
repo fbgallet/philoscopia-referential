@@ -1,0 +1,76 @@
+{
+  "id": "constructed-anything-goes-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "LIFE_MEANING", "poleId": "CONSTRUCTED_MEANING" },
+  "name": { "fr": "N'importe quel sens ?", "en": "Will any meaning do?" },
+  "attacks": "POSITION",
+  "claim": {
+    "fr": "Si le sens n'est que ma décision, alors une vie vouée à collectionner des capsules « vaudrait » autant qu'une autre. Or nous refusons de le croire.",
+    "en": "If meaning is only my decision, then a life devoted to collecting bottle caps would be 'worth' as much as any other. Yet we refuse to believe it."
+  },
+  "summary": {
+    "fr": "Faire du sens une pure décision, c'est rendre tous les projets équivalents, du plus futile au plus odieux ; mais nous jugeons qu'une vie n'a de sens que vouée à quelque chose qui en vaille objectivement la peine. Le sens n'est donc pas que décidé.",
+    "en": "Making meaning a pure decision makes all projects equivalent, from the most trivial to the most odious; but we judge that a life has meaning only when devoted to something objectively worth it. Meaning is therefore not merely decided."
+  },
+  "development": [
+    {
+      "fr": "Si le sens d'une vie est ce que chacun décide, alors tout projet auquel je me voue lui donne, par ce seul choix, autant de sens qu'un autre.",
+      "en": "If the meaning of a life is what each decides, then any project I devote myself to gives it, by that choice alone, as much meaning as any other."
+    },
+    {
+      "fr": "Il faudrait donc dire qu'une vie passée à collectionner des capsules, ou vouée à une cause haïssable, est aussi pleine de sens qu'une vie d'amour ou de création, pourvu qu'on l'ait choisie. Or nous refusons de le croire.",
+      "en": "One would then have to say that a life spent collecting bottle caps, or devoted to a hateful cause, is as full of meaning as a life of love or creation, provided it was chosen. Yet we refuse to believe it."
+    },
+    {
+      "fr": "Ce refus révèle une exigence que la seule décision ne comble pas : pour qu'une vie ait un sens, il ne suffit pas qu'on s'y attache, il faut encore que la chose en vaille la peine, indépendamment de ce qu'on a décidé.",
+      "en": "This refusal reveals a demand that decision alone does not meet: for a life to have meaning, it is not enough to be attached to something, the thing must also be worth it, independently of what one has decided."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc le sens ne se réduit pas à ce qu'on décide : il requiert que ce à quoi l'on se voue en vaille objectivement la peine, et cette valeur, on ne se la donne pas, on la reconnaît.",
+    "en": "So meaning does not reduce to what one decides: it requires that what one devotes oneself to be objectively worth it, and that worth one does not give oneself, one recognizes it."
+  },
+  "difficulty": 2,
+  "source": { "author": { "fr": "Susan Wolf", "en": "Susan Wolf" }, "figures": [{ "name": { "fr": "Susan Wolf", "en": "Susan Wolf" }, "kind": "PHILOSOPHER", "slug": "susan-wolf" }], "work": { "fr": "Le sens dans la vie et pourquoi il importe", "en": "Meaning in Life and Why It Matters" }, "year": 2010 },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est juste : toutes les vies ne se valent pas selon ce qu'on y voue. Le sens suppose des choses qui en valent vraiment la peine, non seulement des choses qu'on a choisies.",
+        "en": "True: not all lives are equal by what one devotes them to. Meaning presupposes things that are genuinely worth it, not only things one has chosen."
+      },
+      "hints": [{ "axisId": "LIFE_MEANING", "value": { "kind": "weights", "weights": [0.5, 0.15, 0.2, 0.15] }, "weight": 1.5 }],
+      "discussion": {
+        "fr": "Vous réintroduisez une valeur à reconnaître, non à décréter : le sens tient à une rencontre entre ce qui nous engage et ce qui, par soi, mérite l'engagement.",
+        "en": "You reintroduce a worth to be recognized, not decreed: meaning lies in a meeting between what engages us and what, in itself, deserves engagement."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je garde que le sens se construit, mais j'accorde qu'il ne se construit pas n'importe comment : encore faut-il s'engager pour des choses qui valent, non pour n'importe quoi.",
+        "en": "I keep that meaning is constructed, but grant that it is not constructed just anyhow: one must still commit to things that matter, not to just anything."
+      },
+      "hints": [{ "axisId": "LIFE_MEANING", "value": { "kind": "weights", "weights": [0.2, 0.55, 0.2, 0.05] }, "weight": 0.75 }],
+      "discussion": {
+        "fr": "Vous tenez un sens construit mais non arbitraire : la création de sens rencontre des valeurs qui la guident, à la façon de <ph id='susan-wolf'>Susan Wolf</ph>.",
+        "en": "You hold a constructed but non-arbitrary meaning: the making of meaning meets values that guide it, in <ph id='susan-wolf'>Susan Wolf</ph>'s manner."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : cette « valeur objective » que rien ne fonde n'est qu'un dernier fantôme de sens donné. Ce qui compte, c'est l'intensité et la sincérité de l'engagement, non un mérite inscrit dans les choses.",
+        "en": "I refute it: this 'objective worth' that nothing grounds is only a last ghost of given meaning. What counts is the intensity and sincerity of the commitment, not a merit inscribed in things."
+      },
+      "hints": [{ "axisId": "LIFE_MEANING", "value": { "kind": "weights", "weights": [0.05, 0.85, 0.1, 0] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous tenez la ligne existentialiste : nulle valeur n'attend d'être reconnue ; c'est l'engagement lui-même qui fait qu'une chose compte.",
+        "en": "You hold the existentialist line: no value waits to be recognized; it is commitment itself that makes a thing matter."
+      }
+    }
+  ],
+  "problems": ["any-meaning-at-all"],
+  "targets": ["constructed-existence-precedes-essence"],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
+}

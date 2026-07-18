@@ -28,9 +28,17 @@ Quand les preuves ne tranchent pas et que l'enjeu est vital, nous avons le droit
 - *[Foi et raison](../axes/faith-reason.md) : Fidéisme* fonde *[Éthique de la croyance](../axes/belief-ethics.md) : Non-évidentialisme* : Si la foi est un saut qui commence là où la preuve s'arrête, alors croire relève d'une décision, non d'une contrainte de l'évidence. Le fidéisme fonde le volontarisme doxastique : le pari de [Pascal](../philosophers/pascal.md) invite à parier sur Dieu faute de démonstration, faisant de la croyance un acte de la volonté.
 - *[Nature de la vérité](../axes/truth-nature.md) : Pragmatisme* fonde *[Éthique de la croyance](../axes/belief-ethics.md) : Non-évidentialisme* : Si une idée est vraie pour autant qu'elle réussit et féconde l'action, alors, quand la preuve fait défaut et que l'enjeu est vital, oser croire peut être légitime, voire fécond. Le pragmatisme soutient le non-évidentialisme : [James](../philosophers/william-james.md) revendique un « droit de croire » là où l'évidence ne tranche pas et où la croyance engage la vie.
 
+## Citations
+
+> « Le degré de notre assentiment doit être réglé sur les fondements de probabilité de la chose. » — [Locke](../philosophers/locke.md), Essai sur l'entendement humain, IV, ch. 15-16 (la probabilité et les degrés d'assentiment)
+
+> « Un homme sage proportionne donc sa croyance à l'évidence. » — [Hume](../philosophers/hume.md), Enquête sur l'entendement humain, section X (des miracles)
+
+> « Un homme sage proportionne donc sa croyance à l'évidence. » — [Hume](../philosophers/hume.md), Enquête sur l'entendement humain, sect. X
+
 ## Axes liés
 
-[Rapport à la certitude](../axes/certainty.md) · [Foi et raison](../axes/faith-reason.md) · [Existence de Dieu](../axes/god-existence.md) · [Souverain bien](../axes/sovereign-good.md)
+[Rapport à la certitude](../axes/certainty.md) · [Foi et raison](../axes/faith-reason.md) · [Existence de Dieu](../axes/god-existence.md) · [Souverain bien](../axes/sovereign-good.md) · [Justification de la croyance](../axes/epistemic-justification.md)
 
 ---
 

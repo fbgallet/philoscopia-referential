@@ -24,7 +24,7 @@ Révolte / refus 70% · Être-pour-la-mort 20% · La mort n'est rien 10%
 
 Pour Beauvoir, la mort n'est jamais naturelle : c'est une violence, un scandale injustifiable qui brise les projets et fait outrage à la vie, fût-elle longue et consentie. À l'accueillir avec sérénité, elle préfère la révolte et l'indignation, refusant de parer d'un sens ce qui n'est qu'une défaite. La mort des siens, vécue de près, lui apparaît comme une rupture inacceptable, non comme un accomplissement.
 
-> « Il n'y a pas de mort naturelle. » (Une mort très douce)
+> « Il n'y a pas de mort naturelle. », Une mort très douce
 
 *Sources : Une mort très douce · La Vieillesse*
 
@@ -76,7 +76,7 @@ Existentialisme 100%
 
 Beauvoir reprend la thèse existentialiste selon laquelle, pour l'humain, l'existence précède l'essence : aucune nature ne définit d'avance ce qu'il doit être. Sa formule « on ne naît pas femme : on le devient » en est l'application la plus célèbre : le **féminin** n'est pas une essence donnée mais un devenir façonné par la culture, que chacune a pourtant à reprendre dans un projet libre.
 
-> « On ne naît pas femme : on le devient. Aucun destin biologique, psychique, économique ne définit la figure que revêt au sein de la société la femelle humaine. » (Le Deuxième Sexe, t. II)
+> « On ne naît pas femme : on le devient. Aucun destin biologique, psychique, économique ne définit la figure que revêt au sein de la société la femelle humaine. », Le Deuxième Sexe, t. II
 
 *Sources : Le Deuxième Sexe (1949), t. II, ouverture ("on ne naît pas femme") · Pour une morale de l'ambiguïté (1947)*
 
@@ -98,7 +98,7 @@ Libre arbitre 85% · Déterminisme dur 15%
 
 Une liberté n'est jamais pure spontanéité : elle s'exerce toujours depuis un corps, une histoire et une place sociale qui ouvrent ou ferment l'éventail de ses possibles. De ce caractère situé Beauvoir tire son désaccord avec le [Sartre](../philosophers/sartre.md) de L'Être et le Néant, pour qui même l'esclave demeure ontologiquement libre : dire cela, c'est confondre la liberté avec sa simple possibilité, et masquer que l'oppression mutile concrètement la liberté en barrant l'avenir et les moyens de se projeter. La liberté reste donc le fait premier, mais elle peut être lésée du dehors, ce qui rend l'oppression intelligible comme tort et non seulement comme malheur.
 
-> « Il n'y a de liberté qu'engagée, et qui se veut en voulant le dévoilement de l'être à travers un monde. » (Pour une morale de l'ambiguïté)
+> « Il n'y a de liberté qu'engagée, et qui se veut en voulant le dévoilement de l'être à travers un monde. », Pour une morale de l'ambiguïté
 
 *Sources : Pour une morale de l'ambiguïté (1947), sur la liberté située et l'oppression · Le Deuxième Sexe (1949), Introduction (la situation de la femme)*
 
@@ -320,7 +320,7 @@ Construction sociale 90% · Réalisme social 10%
 
 Si aucun destin biologique, psychique ou économique ne fixe d'avance ce qu'est une femme, alors la **féminité** ne peut être une essence : elle est le résultat d'une élaboration que la civilisation impose à la femelle humaine. Beauvoir dissocie ici le sexe, donnée corporelle, et le devenir-femme façonné par l'éducation, le droit et le regard d'autrui, fondant la distinction que reprendront les théories du genre. La conséquence est politique : ce qui s'est construit dans l'histoire peut s'y défaire, contre tout naturalisme qui justifierait la hiérarchie des sexes par la nature.
 
-> « On ne naît pas femme : on le devient. » (Le Deuxième Sexe, t. II)
+> « On ne naît pas femme : on le devient. », Le Deuxième Sexe, t. II
 
 *Sources : Le Deuxième Sexe (1949), t. II, ouverture*
 

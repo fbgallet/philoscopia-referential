@@ -33,6 +33,14 @@ The world is neither rational nor benevolent: suffering, conflict and meaningles
 - *[Tonality of reality](../axes/cosmic-outlook.md) : Tragic thought* grounds *[Relation to desire](../axes/desire.md) : Extinction and detachment* : If existence is woven of lack and suffering, and to want is to expose oneself endlessly to loss, then wisdom lies not in fulfilling desires but in releasing them. A tragic view of the world, from [Buddhism](../movements/buddhism.md) to Schopenhauer, grounds detachment: to dry up the thirst rather than chase what escapes.
 - *[Tonality of reality](../axes/cosmic-outlook.md) : Tragic thought* grounds *[Hope](../axes/hope.md) : Lucidity without hope* : If the world is neither rational nor benevolent and no final harmony will redeem suffering, then to hope is to lie to oneself. Tragic thought grounds lucidity without hope: [Camus](../philosophers/camus.md) holds lucid revolt, without consolation, to be worthier than hope, and finds in it a form of freedom.
 
+## Quotations
+
+> “It follows from the supreme perfection of God that in producing the universe he chose the best possible plan.” — [Leibniz](../philosophers/leibniz.md), Monadology, §55; Theodicy
+
+> “Man is a useless passion.” — [Sartre](../philosophers/sartre.md), Being and Nothingness, conclusion
+
+> “Optimism, when it is not merely the thoughtless talk of those who harbour nothing but words beneath their flat foreheads, seems to me not only an absurd but a truly wicked way of thinking: a bitter mockery of the unspeakable sufferings of humanity.” — [Schopenhauer](../philosophers/schopenhauer.md), The World as Will and Representation, §59
+
 ## Related axes
 
 [The problem of evil](../axes/problem-of-evil.md) · [Hope](../axes/hope.md) · [The meaning of life](../axes/life-meaning.md) · [The meaning of suffering](../axes/suffering-meaning.md) · [Existence of God](../axes/god-existence.md)

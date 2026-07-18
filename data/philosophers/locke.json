@@ -190,16 +190,7 @@
             "en": "Essay Concerning Human Understanding, I (against innate ideas) and II, ch. 1 (sensation and reflection)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Supposons donc que l'esprit soit, comme on dit, un papier blanc, vide de tout caractère, sans aucune idée : comment vient-il à en être pourvu ? ... À cela je réponds d'un seul mot : par l'expérience.",
-            "en": "Let us suppose the mind to be, as we say, white paper, void of all characters, without any ideas: how comes it to be furnished? ... To this I answer, in one word, from experience."
-          },
-          "source": {
-            "fr": "Essai sur l'entendement humain, II, ch. 1, §2",
-            "en": "Essay Concerning Human Understanding, II, ch. 1, §2"
-          }
-        },
+        "quoteId": "supposons-donc-que-l-esprit-soit-locke",
         "strength": "STRONG"
       }
     },
@@ -273,16 +264,7 @@
             "en": "Essay Concerning Human Understanding, IV, ch. 16 (the degrees of assent) and ch. 19 (enthusiasm)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Le degré de notre assentiment doit être réglé sur les fondements de probabilité de la chose.",
-            "en": "The mind, if it will proceed rationally, ought to examine all the grounds of probability ... and upon a due balancing the whole, reject or receive it, with a more or less firm assent, proportionably to the preponderancy of the greater grounds of probability."
-          },
-          "source": {
-            "fr": "Essai sur l'entendement humain, IV, ch. 15-16 (la probabilité et les degrés d'assentiment)",
-            "en": "Essay Concerning Human Understanding, IV, ch. 15-16 (probability and the degrees of assent)"
-          }
-        },
+        "quoteId": "le-degre-de-notre-assentiment-doit-locke",
         "strength": "STRONG"
       }
     },
@@ -366,16 +348,7 @@
             "en": "Essay Concerning Human Understanding, II, ch. 27 (\"Of Identity and Diversity\")"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "L'identité personnelle s'étend aussi loin que la conscience peut remonter sur une action ou une pensée passée.",
-            "en": "As far as this consciousness can be extended backwards to any past action or thought, so far reaches the identity of that person."
-          },
-          "source": {
-            "fr": "Essai sur l'entendement humain, II, ch. 27, §9",
-            "en": "Essay Concerning Human Understanding, II, ch. 27, §9"
-          }
-        },
+        "quoteId": "l-identite-personnelle-s-etend-aussi-locke",
         "strength": "STRONG"
       }
     },
@@ -399,16 +372,7 @@
             "en": "Some Thoughts Concerning Education, §1 (\"nine parts of ten are what they are by their education\")"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Des hommes que nous rencontrons, neuf sur dix sont ce qu'ils sont, bons ou mauvais, utiles ou non, par leur éducation.",
-            "en": "Of all the men we meet with, nine parts of ten are what they are, good or evil, useful or not, by their education."
-          },
-          "source": {
-            "fr": "Quelques pensées sur l'éducation, §1",
-            "en": "Some Thoughts Concerning Education, §1"
-          }
-        },
+        "quoteId": "des-hommes-que-nous-rencontrons-neuf-locke",
         "strength": "STRONG"
       }
     },
@@ -501,16 +465,7 @@
             "en": "Two Treatises of Government, II, ch. 5 (\"Of Property\", labour and the Lockean proviso)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Le travail de son corps et l'ouvrage de ses mains sont proprement à lui : ce qu'il a tiré de l'état où la nature l'avait laissé, il y a joint son travail, et y a ajouté quelque chose qui est à lui.",
-            "en": "The labour of his body and the work of his hands, we may say, are properly his. Whatsoever then he removes out of the state that nature hath provided ... he hath mixed his labour with, and thereby makes it his property."
-          },
-          "source": {
-            "fr": "Traités du gouvernement civil, II, ch. 5, §27",
-            "en": "Two Treatises of Government, II, ch. 5, §27"
-          }
-        },
+        "quoteId": "le-travail-de-son-corps-et-locke",
         "strength": "STRONG"
       }
     },

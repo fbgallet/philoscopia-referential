@@ -34,6 +34,10 @@ Forgiveness presupposes that the wrongdoer acknowledges and regrets their fault:
 - **The forgiveness of peoples** : Can a nation forgive, through amnesty or reconciliation, the crimes committed within it, or does forgiveness make sense only between the persons who lived through the wrong?
 - **A duty, or something more?** : Is forgiveness owed, as an obligation toward the one who repents, or is it a free gift, beyond duty, that can be demanded of no one?
 
+## Quotations
+
+> “To forgive and forget is to throw out of the window precious experience that one has dearly bought.” — [Schopenhauer](../philosophers/schopenhauer.md), Parerga and Paralipomena, 'Aphorisms on the Wisdom of Life'
+
 ## Related axes
 
 [Relation to the past](../axes/past-relation.md) · [The meaning of punishment](../axes/punishment.md) · [Moral demandingness](../axes/moral-demand.md) · [Violence](../axes/violence.md)

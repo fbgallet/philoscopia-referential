@@ -9,15 +9,23 @@
     "en": "A shipwreck: two people are about to drown, and you can save only one. One is a stranger, the other is your spouse. You rush, of course, toward the one you love. But a philosopher stops you: did you first check that morality permitted it, that no impartial reason gave priority to the stranger? <ph id='williams'>Bernard Williams</ph> replies that anyone who needs that check already has \"one thought too many\": she was your spouse, and that should be enough."
   },
   "source": {
-    "author": { "fr": "Bernard Williams", "en": "Bernard Williams" },
-    "work": { "fr": "La fortune morale", "en": "Moral Luck" },
+    "author": {
+      "fr": "Bernard Williams",
+      "en": "Bernard Williams"
+    },
+    "work": {
+      "fr": "La fortune morale",
+      "en": "Moral Luck"
+    },
     "year": 1981
   },
   "question": {
     "fr": "Vous sauvez votre proche, c'est entendu. Mais qu'est-ce qui, au fond, rend ce geste bon ?",
     "en": "You save your loved one, granted. But what, deep down, makes that act good?"
   },
-  "axisIds": ["ETHICS_FOUNDATION"],
+  "axisIds": [
+    "ETHICS_FOUNDATION"
+  ],
   "options": [
     {
       "id": "impartial-calculation",
@@ -25,7 +33,20 @@
         "fr": "Au fond, il faudrait peser : sauver celui dont la vie fera le plus de bien. Ici les vies se valent, alors sauver mon proche est permis.",
         "en": "Deep down, one should weigh it up: save whoever's life will do the most good. Here the lives are equal, so saving my loved one is allowed."
       },
-      "hints": [{ "axisId": "ETHICS_FOUNDATION", "value": { "kind": "weights", "weights": [1, 0, 0, 0] } }],
+      "hints": [
+        {
+          "axisId": "ETHICS_FOUNDATION",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              1,
+              0,
+              0,
+              0
+            ]
+          }
+        }
+      ],
       "discussion": {
         "fr": "Vous jugez l'acte à ses effets : c'est le <ax id='ETHICS_FOUNDATION' pole='CONSEQUENTIALISM'>conséquentialisme</ax>. <ph id='williams'>Williams</ph> objecte qu'une morale qui demande de comparer les vies avant de sauver l'être aimé exige de nous quelque chose de monstrueux.",
         "en": "You judge the act by its effects: this is <ax id='ETHICS_FOUNDATION' pole='CONSEQUENTIALISM'>consequentialism</ax>. <ph id='williams'>Williams</ph> objects that a morality requiring us to compare lives before saving the one we love asks something monstrous of us."
@@ -37,7 +58,20 @@
         "fr": "Il existe une règle, valable pour tous, qui autorise à accorder une priorité aux siens : mon geste est bon parce qu'il reste dans ce que le devoir permet.",
         "en": "There is a rule, valid for everyone, that permits giving priority to one's own: my act is good because it stays within what duty allows."
       },
-      "hints": [{ "axisId": "ETHICS_FOUNDATION", "value": { "kind": "weights", "weights": [0, 1, 0, 0] } }],
+      "hints": [
+        {
+          "axisId": "ETHICS_FOUNDATION",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0,
+              1,
+              0,
+              0
+            ]
+          }
+        }
+      ],
       "discussion": {
         "fr": "Vous cherchez une règle impartiale qui autorise le geste : c'est le <ax id='ETHICS_FOUNDATION' pole='DEONTOLOGISM'>déontologisme</ax>. C'est ici précisément que <ph id='williams'>Williams</ph> voit « une pensée de trop » : il ne faut pas la permission d'une règle pour secourir l'être aimé.",
         "en": "You look for an impartial rule that permits the act: this is <ax id='ETHICS_FOUNDATION' pole='DEONTOLOGISM'>deontologism</ax>. This is exactly where <ph id='williams'>Williams</ph> sees \"one thought too many\": one should not need a rule's permission to rescue the one they love."
@@ -49,7 +83,20 @@
         "fr": "Une personne de bien s'élance sans calculer : cette spontanéité même, ce caractère, voilà ce qui fait la valeur du geste.",
         "en": "A person of good character rushes in without calculating: that very spontaneity, that character, is what makes the act good."
       },
-      "hints": [{ "axisId": "ETHICS_FOUNDATION", "value": { "kind": "weights", "weights": [0, 0, 1, 0] } }],
+      "hints": [
+        {
+          "axisId": "ETHICS_FOUNDATION",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0,
+              0,
+              1,
+              0
+            ]
+          }
+        }
+      ],
       "discussion": {
         "fr": "Vous placez la valeur dans le caractère de qui agit, non dans un calcul ni une règle : c'est l'<ax id='ETHICS_FOUNDATION' pole='VIRTUE_ETHICS'>éthique des vertus</ax>, dont <ph id='williams'>Williams</ph> est proche.",
         "en": "You place the value in the character of the one who acts, not in a calculation or a rule: this is <ax id='ETHICS_FOUNDATION' pole='VIRTUE_ETHICS'>virtue ethics</ax>, which <ph id='williams'>Williams</ph> stands close to."
@@ -61,12 +108,143 @@
         "fr": "J'agis depuis le lien qui m'attache à elle : la morale s'enracine dans ces attachements concrets, pas dans des principes valables pour tous.",
         "en": "I act from the bond that ties me to her: morality is rooted in these concrete attachments, not in principles valid for everyone."
       },
-      "hints": [{ "axisId": "ETHICS_FOUNDATION", "value": { "kind": "weights", "weights": [0, 0, 0, 1] } }],
+      "hints": [
+        {
+          "axisId": "ETHICS_FOUNDATION",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0,
+              0,
+              0,
+              1
+            ]
+          }
+        }
+      ],
       "discussion": {
         "fr": "Vous ancrez la morale dans la relation et la sollicitude, non dans l'impartialité : c'est l'<ax id='ETHICS_FOUNDATION' pole='CARE_ETHICS'>éthique du care</ax>, et cela ouvre la question de la <ax id='PARTIALITY'>partialité</ax> envers les siens.",
         "en": "You root morality in relationship and care, not in impartiality: this is the <ax id='ETHICS_FOUNDATION' pole='CARE_ETHICS'>ethics of care</ax>, and it opens the question of <ax id='PARTIALITY'>partiality</ax> toward one's own."
       }
     }
   ],
-  "updatedAt": "2026-06-27T00:00:00.000Z"
+  "roles": [
+    {
+      "role": "OBJECTS",
+      "position": {
+        "axisId": "ETHICS_FOUNDATION",
+        "poleId": "DEONTOLOGISM"
+      },
+      "attacks": "POSITION",
+      "argumentId": "deontologism-humanity-as-end",
+      "problems": [
+        "saving-a-loved-one"
+      ],
+      "summary": {
+        "fr": "Vérifier qu'il est « permis » de sauver l'être aimé est une pensée de trop : une morale qui fait passer nos attachements par la règle impartiale s'aliène ce qui fait le prix d'une vie morale.",
+        "en": "To check that it is 'permitted' to save the one you love is one thought too many: a morality that routes our attachments through the impartial rule alienates what makes a moral life worth living."
+      },
+      "reconstruction": {
+        "development": [
+          {
+            "fr": "Votre conjoint et un inconnu se noient, vous ne pouvez en sauver qu'un. La morale du devoir vous fait d'abord vérifier qu'il est permis de sauver le vôtre.",
+            "en": "Your spouse and a stranger are drowning, you can save only one. The morality of duty first has you check that it is permitted to save your own."
+          },
+          {
+            "fr": "Mais cette vérification est « une pensée de trop » : celui qui, devant l'être aimé, se demande d'abord si la règle l'autorise a déjà manqué à ce que le lien réclame.",
+            "en": "But this check is 'one thought too many': the person who, before the one they love, first asks whether the rule allows it has already failed what the bond requires."
+          },
+          {
+            "fr": "Une morale qui exige de passer par la règle impartiale, jusque dans nos attachements les plus intimes, s'aliène ce qui fait le prix d'une vie morale : les liens eux-mêmes.",
+            "en": "A morality that requires passing through the impartial rule, even in our most intimate attachments, alienates what makes a moral life worth living: the bonds themselves."
+          }
+        ],
+        "conclusion": {
+          "fr": "Donc l'impartialité du devoir manque le cœur concret de la morale : ce n'est pas la règle qui commande de sauver l'être aimé, c'est le lien, et une morale qui l'oublie demande une pensée de trop.",
+          "en": "So the impartiality of duty misses the concrete heart of morality: it is not the rule that commands saving the one you love, it is the bond, and a morality that forgets this asks one thought too many."
+        }
+      },
+      "responses": [
+        {
+          "id": "revise",
+          "label": {
+            "fr": "L'objection touche juste : devant l'être aimé, invoquer la règle est déjà se tromper de morale. Ce qui oblige d'abord, c'est le lien, non le principe impartial.",
+            "en": "The objection hits home: before the one you love, invoking the rule is already the wrong morality. What obligates first is the bond, not the impartial principle."
+          },
+          "hints": [
+            {
+              "axisId": "ETHICS_FOUNDATION",
+              "value": {
+                "kind": "weights",
+                "weights": [
+                  0,
+                  0.15,
+                  0.15,
+                  0.7
+                ]
+              },
+              "weight": 2
+            }
+          ],
+          "discussion": {
+            "fr": "Vous basculez vers l'éthique du care : la morale part des liens concrets, non de la règle valable pour tous.",
+            "en": "You cross over to the ethics of care: morality starts from concrete bonds, not from the rule valid for all."
+          }
+        },
+        {
+          "id": "qualify",
+          "label": {
+            "fr": "Je garde le devoir, mais je lui retire cette lourdeur : la règle n'a pas à être présente à l'esprit à chaque geste ; elle encadre l'action de loin, sans s'interposer entre moi et l'être aimé.",
+            "en": "I keep duty, but relieve it of that heaviness: the rule need not be present to mind at every act; it frames action from afar, without stepping between me and the one I love."
+          },
+          "hints": [
+            {
+              "axisId": "ETHICS_FOUNDATION",
+              "value": {
+                "kind": "weights",
+                "weights": [
+                  0,
+                  0.5,
+                  0.1,
+                  0.4
+                ]
+              },
+              "weight": 1
+            }
+          ],
+          "discussion": {
+            "fr": "Vous tenez un déontologisme assoupli : le devoir fixe les limites, sans exiger d'être le motif présent de chaque acte.",
+            "en": "You hold a loosened deontologism: duty sets the limits, without demanding to be the present motive of every act."
+          }
+        },
+        {
+          "id": "refute",
+          "label": {
+            "fr": "Je réfute : que sauver son conjoint soit permis est justement ce qui distingue l'amour de la faveur injuste. Sans cette permission de fond, on ne saurait plus pourquoi il serait mal de sauver le sien au mépris de tout.",
+            "en": "I refute it: that saving one's spouse is permitted is exactly what tells love apart from unjust favor. Without that underlying permission, we would no longer know why it is wrong to save one's own in contempt of everything."
+          },
+          "hints": [
+            {
+              "axisId": "ETHICS_FOUNDATION",
+              "value": {
+                "kind": "weights",
+                "weights": [
+                  0,
+                  0.85,
+                  0.05,
+                  0.1
+                ]
+              },
+              "weight": 0.5
+            }
+          ],
+          "discussion": {
+            "fr": "Vous tenez la réponse kantienne : la permission impartiale ne s'oppose pas au lien, elle en garantit la légitimité.",
+            "en": "You hold the Kantian reply: the impartial permission does not oppose the bond, it guarantees its legitimacy."
+          }
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-14T00:00:00.000Z"
 }

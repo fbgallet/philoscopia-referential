@@ -1,0 +1,25 @@
+{
+  "id": "schopenhauer-to-tolstoy",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "schopenhauer"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "tolstoy"
+  },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='tolstoy'>Tolstoï</ph> découvre Schopenhauer à l'été 1869 et s'en enthousiasme, jusqu'à faire accrocher son portrait dans son bureau. La crise spirituelle de <w>Ma confession</w>, l'horreur du néant de la mort, la quête d'un renoncement et d'une <c id='compassion'>compassion</c> universelle, doit beaucoup au pessimisme et à l'<c id='asceticism'>ascèse</c> schopenhaueriens, que Tolstoï réoriente ensuite vers l'Évangile.",
+    "en": "<ph id='tolstoy'>Tolstoy</ph> discovered Schopenhauer in the summer of 1869 and was enthralled, going so far as to hang his portrait in his study. The spiritual crisis of <w>A Confession</w>, the horror at the nothingness of death, the search for renunciation and a universal <c id='compassion'>compassion</c>, owes much to Schopenhauerian pessimism and <c id='asceticism'>asceticism</c>, which Tolstoy then reorients toward the Gospel."
+  },
+  "sources": [
+    {
+      "fr": "Tolstoï, correspondance avec Fet (1869) ; Ma confession (1882)",
+      "en": "Tolstoy, letters to Fet (1869); A Confession (1882)"
+    }
+  ],
+  "updatedAt": "2026-07-13T00:00:00.000Z"
+}

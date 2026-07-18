@@ -39,14 +39,33 @@ Ce qui importe n'est ni l'égalité parfaite des parts, ni la seule liberté des
 - **La justice s'arrête-t-elle aux frontières ?** : Devons-nous la même justice distributive à l'humanité entière, ou nos obligations de partage s'arrêtent-elles aux membres de notre communauté politique ?
 - **L'égalité contre la liberté ?** : Toute redistribution restreint-elle la liberté de ceux que l'on taxe, ou la liberté réelle suppose-t-elle déjà une certaine égalité des moyens ?
 
+## Arguments
+
+- *Égalitarisme* · pour : [L'argument de la loterie naturelle](../arguments/egalitarianism-natural-lottery.md)
+- *Égalitarisme* · contre : [Non mérité n'est pas à redistribuer](../arguments/egalitarianism-lottery-non-desert-objection.md)
+- *Libertarianisme* · pour : [L'argument de la propriété de soi](../arguments/libertarianism-self-ownership.md)
+- *Libertarianisme* · contre : [Se posséder n'est pas posséder le monde](../arguments/libertarianism-self-ownership-world-objection.md)
+- *Suffisantarisme* · pour : [La doctrine de la suffisance](../arguments/sufficientarianism-enough.md)
+- *Suffisantarisme* · contre : [L'égalité des rapports, pas seulement du panier](../arguments/sufficientarianism-relational-objection.md)
+
 ## Relations de fondation
 
 - *[Nature des droits](../axes/rights-nature.md) : Droits naturels* fonde *[Justice distributive](../axes/distributive-justice.md) : Libertarianisme* : Si chacun possède des droits inviolables, à commencer par la propriété de soi et du fruit de son travail, alors redistribuer par la contrainte revient à violer ces droits. Les droits naturels fondent le libertarianisme : pour [Nozick](../philosophers/nozick.md), une répartition est juste dès lors qu'elle résulte d'échanges libres, et l'État doit se borner à protéger les personnes.
 - *[Nature des droits](../axes/rights-nature.md) : Constructivisme politique* fonde *[Justice distributive](../axes/distributive-justice.md) : Égalitarisme* : Si les droits sont les termes d'une coopération équitable choisis entre égaux, une société juste doit corriger les inégalités que nul n'a méritées, celles de la naissance et des talents. Le constructivisme politique fonde l'égalitarisme : [Rawls](../philosophers/rawls.md) n'admet les inégalités que si elles profitent aussi aux plus défavorisés.
 
+## Citations
+
+> « Chacun doit compter pour un, et nul pour plus d'un. » — [Mill](../philosophers/mill.md), L'Utilitarisme, chap. V
+
+> « De chacun selon ses capacités, à chacun selon ses besoins. » — [Marx](../philosophers/marx.md), Critique du programme de Gotha
+
+> « Le travail de son corps et l'ouvrage de ses mains sont proprement à lui : ce qu'il a tiré de l'état où la nature l'avait laissé, il y a joint son travail, et y a ajouté quelque chose qui est à lui. » — [Locke](../philosophers/locke.md), Traités du gouvernement civil, II, ch. 5, §27
+
+> « Que nul citoyen ne soit assez opulent pour en pouvoir acheter un autre, et nul assez pauvre pour être contraint de se vendre. » — [Rousseau](../philosophers/rousseau.md), Du contrat social, II, 11
+
 ## Axes liés
 
-[Liberté politique](../axes/political-liberty.md) · [Nature des droits](../axes/rights-nature.md) · [Idéal et réel](../axes/political-ideal.md) · [Qui doit décider](../axes/who-decides.md) · [Origine du lien social](../axes/social-contract.md) · [Liberté de la volonté](../axes/freedom.md) · [Exigence morale](../axes/moral-demand.md) · [Souverain bien](../axes/sovereign-good.md)
+[Liberté politique](../axes/political-liberty.md) · [Nature des droits](../axes/rights-nature.md) · [Idéal et réel](../axes/political-ideal.md) · [Qui doit décider](../axes/who-decides.md) · [Origine du lien social](../axes/social-contract.md) · [Liberté de la volonté](../axes/freedom.md) · [Exigence morale](../axes/moral-demand.md) · [Souverain bien](../axes/sovereign-good.md) · [Générations futures](../axes/future-generations.md)
 
 ---
 

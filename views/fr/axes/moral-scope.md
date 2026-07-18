@@ -48,9 +48,19 @@ Les normes morales ne sont ni découvertes dans la nature des choses ni simpleme
 - *[Statut des normes (métaéthique)](../axes/moral-scope.md) : Universalisme* fonde *[Critère du juste](../axes/ethics-foundation.md) : Déontologisme* : S'il existe des normes objectives valables pour tout être raisonnable, le critère du juste est la conformité au devoir, et non le calcul des effets. L'universalisme moral fonde le déontologisme : [Kant](../philosophers/kant.md) tire de la raison un [impératif catégorique](../glossary/categorical-imperative.md) qui vaut sans condition, indépendamment des conséquences.
 - *[Statut des normes (métaéthique)](../axes/moral-scope.md) : Universalisme* fonde *[Nature des droits](../axes/rights-nature.md) : Droits naturels* : S'il existe des normes morales objectives valables pour tout être raisonnable, alors la personne possède des droits antérieurs à l'État, que nulle loi ne saurait légitimement abolir. L'universalisme moral fonde les droits naturels : chez [Locke](../philosophers/locke.md) comme chez [Kant](../philosophers/kant.md), une loi qui les viole reste injuste, fût-elle parfaitement légale.
 
+## Citations
+
+> « Chacun appelle barbarie ce qui n'est pas de son usage. » — [Michel de Montaigne](../philosophers/montaigne.md), Essais, I, 31, « Des cannibales »
+
+> « Il n'y a pas de phénomènes moraux, seulement une interprétation morale des phénomènes. » — [Nietzsche](../philosophers/nietzsche.md), Par-delà bien et mal, §108
+
+> « La nature démontre qu'il est juste que celui qui vaut mieux ait plus que celui qui vaut moins, et le plus fort que le plus faible. » — [Platon](../philosophers/plato.md), Gorgias, 483d
+
+> « Quand nous disons que l'homme se choisit, nous entendons que chacun d'entre nous se choisit, mais par là nous voulons dire aussi qu'en se choisissant il choisit tous les hommes. » — [Sartre](../philosophers/sartre.md), L'existentialisme est un humanisme
+
 ## Axes liés
 
-[Nature des droits](../axes/rights-nature.md) · [Critère du juste](../axes/ethics-foundation.md) · [Cercle moral](../axes/moral-circle.md) · [Nature de la vérité](../axes/truth-nature.md)
+[Nature des droits](../axes/rights-nature.md) · [Critère du juste](../axes/ethics-foundation.md) · [Cercle moral](../axes/moral-circle.md) · [Nature de la vérité](../axes/truth-nature.md) · [Place de la science](../axes/science-place.md) · [Place de l'homme dans la nature](../axes/human-place-nature.md)
 
 ---
 

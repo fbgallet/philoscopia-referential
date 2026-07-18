@@ -44,7 +44,7 @@ Ce qui dépend de nous 95% · Prométhéisme 5%
 
 Le tort de tout malheur, soutient Épictète, est d'attendre son bonheur de choses qui ne sont pas en notre pouvoir. De là le geste premier, qui ouvre le *[Manuel](../works/enchiridion-epictetus.md)* : trier nos affaires en deux classes selon le seul critère de la maîtrise, ce qui relève entièrement de nous (jugements, désirs, aversions) et ce qui n'en relève pas (corps, biens, réputation). La [dichotomie](../glossary/dichotomy-of-control.md) n'est pas une thèse parmi d'autres mais l'opération qui conditionne toute la suite : tout trouble naît d'avoir réclamé une prise sur ce qui nous échappe. Là où les anciens stoïciens parlaient surtout du destin cosmique, Épictète ramène le partage à l'usage concret, ici et maintenant, de ce qui m'appartient en propre.
 
-> « Il y a des choses qui dépendent de nous et d'autres qui n'en dépendent pas. » (Manuel, §1)
+> « Il y a des choses qui dépendent de nous et d'autres qui n'en dépendent pas. », Manuel, §1
 
 *Sources : Manuel, §1 · Entretiens, I, 1*
 
@@ -76,7 +76,7 @@ Extinction-détachement 80% · Tri raisonné 20%
 
 Désir et aversion visent à obtenir ou à éviter : portés sur ce qui ne dépend pas de nous, ils nous vouent à manquer notre but et à subir ce que nous fuyons, donc au malheur. La première des trois disciplines, celle du désir, consiste à les rétracter de tout l'extérieur pour ne plus désirer que ce qui est en notre pouvoir, en attendant que le progrès rende le désir sûr. Pour le débutant, Épictète va jusqu'à recommander de suspendre tout désir et de n'user que de l'aversion, et encore seulement à l'égard de ce qui dépend de nous. Un tri raisonné des [indifférents](../glossary/adiaphora.md) préférables subsiste en arrière-plan, mais la pente vécue est celle d'un détachement à l'égard de tout ce que la fortune peut reprendre.
 
-> « Ne demande pas que les choses arrivent comme tu le veux, mais veuille qu'elles arrivent comme elles arrivent, et tu seras heureux. » (Manuel, §8)
+> « Ne demande pas que les choses arrivent comme tu le veux, mais veuille qu'elles arrivent comme elles arrivent, et tu seras heureux. », Manuel, §8
 
 *Sources : Manuel, §2 · Manuel, §8*
 
@@ -98,7 +98,7 @@ Intellectualisme 90% · Sentimentalisme 10%
 
 Toute passion enveloppe un jugement de valeur sur une chose extérieure, du type « ceci est un mal » : c'est ce jugement, non l'événement, qui constitue le trouble. Le pas décisif est d'imputer la passion à l'opinion plutôt qu'à la chose : si une émotion repose sur un jugement, et qu'un jugement peut être révisé, alors aucune passion n'est subie comme une fatalité, toutes sont corrigibles par la raison. Épictète en tire une conséquence éthique inhabituelle : ne jamais accuser autrui ni les circonstances de notre malaise, mais l'usage que nous faisons de nos [représentations](../glossary/phantasia.md). La colère, l'affliction, la peur ne sont pas des forces étrangères à dompter mais des assentiments précipités à retirer.
 
-> « Ce ne sont pas les choses qui troublent les hommes, mais les jugements qu'ils portent sur les choses. » (Manuel, §5)
+> « Ce ne sont pas les choses qui troublent les hommes, mais les jugements qu'ils portent sur les choses. », Manuel, §5
 
 *Sources : Manuel, §5*
 
@@ -200,7 +200,7 @@ Fécondité-rédemption 80% · Abolitionnisme 20%
 
 L'épreuve a une valeur d'entraînement : les difficultés sont les adversaires que la [providence](../glossary/providence.md) nous envoie pour révéler et fortifier notre caractère, comme à l'athlète. La souffrance, bien utilisée, est féconde.
 
-> « Ce sont les circonstances difficiles qui montrent les hommes. » (Entretiens, I, 24)
+> « Ce sont les circonstances difficiles qui montrent les hommes. », Entretiens, I, 24
 
 *Sources : Entretiens, I, 24 (Comment lutter contre les difficultés) · Entretiens, I, 6*
 
@@ -232,7 +232,7 @@ Rigorisme véridique 85% · Mensonge bienveillant permis 15%
 
 Le progressant doit être d'une intégrité sans faille, accordant ses actes à ses jugements et ne se parant pas de ce qu'il n'est pas. Cette exigence de cohérence intérieure penche nettement vers un rigorisme de la vérité.
 
-> « Ne dis jamais que tu es philosophe : sois-le. » (Manuel, §46)
+> « Ne dis jamais que tu es philosophe : sois-le. », Manuel, §46
 
 *Sources : Manuel, §46 · Manuel, §48*
 

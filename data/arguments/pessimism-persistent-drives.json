@@ -1,0 +1,47 @@
+{
+  "id": "pessimism-persistent-drives",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "HUMAN_VISION", "poleId": "ANTHROPOLOGICAL_PESSIMISM" },
+  "name": { "fr": "Le bois tordu de l'humanité", "en": "The crooked timber of humanity" },
+  "claim": {
+    "fr": "L'égoïsme, l'amour-propre et l'agressivité ne s'effacent jamais tout à fait : lois et morale sont des digues, non des remèdes.",
+    "en": "Selfishness, amour-propre, and aggression never quite fade: laws and morality are dams, not cures."
+  },
+  "summary": {
+    "fr": "Ce qui resurgit à chaque effondrement de l'ordre, pillages et cruautés, n'est pas un accident ; nos meilleures conduites elles-mêmes sont minées par l'amour-propre. Les institutions ne guérissent pas cette nature, elles la contiennent : une vie commune vivable doit compter avec ce fond.",
+    "en": "What resurfaces at every collapse of order, pillage and cruelty, is no accident; even our best conduct is undermined by amour-propre. Institutions do not cure this nature, they contain it: a livable common life must reckon with this depth."
+  },
+  "development": [
+    {
+      "fr": "Regardons ce que les hommes font dès que tombent la contrainte et le regard d'autrui : pillages, cruautés, guerres reparaissent à chaque effondrement de l'ordre. Ce qui resurgit si constamment n'est pas un accident de l'histoire.",
+      "en": "Look at what men do the moment constraint and the gaze of others fall away: pillage, cruelty, war reappear at every collapse of order. What resurfaces so constantly is no accident of history."
+    },
+    {
+      "fr": "Nos meilleures conduites elles-mêmes sont minées de l'intérieur : sous la générosité, le besoin d'être aimé ou admiré ; sous la vertu affichée, un <ax id='SELF_INTEREST' pole='ETHICAL_EGOISM'>amour-propre</ax> qui se cherche. La part sombre n'est pas dehors, elle nous habite.",
+      "en": "Even our best conduct is undermined from within: beneath generosity, the need to be loved or admired; beneath displayed virtue, an <ax id='SELF_INTEREST' pole='ETHICAL_EGOISM'>amour-propre</ax> seeking itself. The dark part is not outside, it inhabits us."
+    },
+    {
+      "fr": "Aussi les digues qui nous tiennent, lois, mœurs, institutions, ne guérissent pas cette nature : elles la contiennent. Qu'elles se relâchent, et ce qu'elles retenaient reparaît.",
+      "en": "So the dams that hold us, laws, mores, institutions, do not cure this nature: they contain it. Let them loosen, and what they held back returns."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc l'homme n'est pas un ange que la société aurait déchu, mais un « bois tordu » que rien ne redresse tout à fait : une vie commune vivable exige de compter avec ce fond, non de parier sur une bonté première.",
+    "en": "So man is not an angel whom society brought low, but a 'crooked timber' that nothing quite straightens: a livable common life demands reckoning with this depth, not betting on a primal goodness."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": { "fr": "Freud, Hobbes, Pascal", "en": "Freud, Hobbes, Pascal" },
+    "figures": [
+      { "name": { "fr": "Freud", "en": "Freud" }, "kind": "PHILOSOPHER", "slug": "freud" },
+      { "name": { "fr": "Hobbes", "en": "Hobbes" }, "kind": "PHILOSOPHER", "slug": "hobbes" },
+      { "name": { "fr": "Pascal", "en": "Pascal" }, "kind": "PHILOSOPHER", "slug": "pascal" }
+    ],
+    "work": { "fr": "Malaise dans la civilisation", "en": "Civilization and Its Discontents" },
+    "workId": "civilization-and-its-discontents-freud",
+    "year": 1930
+  },
+  "test": "pessimism-situationist-objection",
+  "problems": ["origin-of-evil", "is-there-real-altruism", "half-angel-half-beast"],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

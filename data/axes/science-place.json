@@ -74,6 +74,240 @@
     "SCIENTIFIC_METHOD",
     "FAITH_REASON",
     "KNOWLEDGE_STATUS",
-    "METAPHILOSOPHY"
+    "METAPHILOSOPHY",
+    "MORAL_SCOPE",
+    "CONSCIOUSNESS_NATURE"
+  ],
+  "problems": [
+    {
+      "id": "truths-science-cannot-reach",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "les questions de la vie",
+        "en": "the questions of life"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "le comment et le pourquoi", "en": "the how and the why" },
+        { "fr": "faits et valeurs", "en": "facts and values" },
+        { "fr": "le sens", "en": "meaning" }
+      ],
+      "poles": ["SCIENTISM", "EPISTEMIC_PLURALISM"],
+      "anchors": [
+        { "name": { "fr": "Wittgenstein", "en": "Wittgenstein" }, "kind": "PHILOSOPHER", "slug": "wittgenstein" },
+        { "name": { "fr": "Weber", "en": "Weber" }, "kind": "PHILOSOPHER", "slug": "weber" }
+      ],
+      "doorways": [{ "axis": "MORAL_SCOPE" }],
+      "title": {
+        "fr": "Le reste, après la science",
+        "en": "The remainder, after science"
+      },
+      "explicitation": {
+        "fr": "La science dit le comment, jamais le pourquoi ni ce qui vaut : elle pourrait répondre à toutes ses questions possibles sans avoir même effleuré ce qui donne son sens à une vie. Reste-t-il des vérités, sur le sens ou sur le bien, hors de sa portée ?",
+        "en": "Science tells the how, never the why or what is worth doing: it could answer all its possible questions without having even touched what gives a life its meaning. Are there truths, about meaning or the good, beyond its reach?"
+      }
+    },
+    {
+      "id": "explaining-or-understanding",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "les affaires humaines",
+        "en": "human affairs"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "expliquer et comprendre", "en": "explaining and understanding" },
+        { "fr": "sciences humaines", "en": "human sciences" },
+        { "fr": "interprétation", "en": "interpretation" }
+      ],
+      "poles": ["SCIENTISM", "EPISTEMIC_PLURALISM"],
+      "anchors": [
+        { "name": { "fr": "Weber", "en": "Weber" }, "kind": "PHILOSOPHER", "slug": "weber" },
+        { "name": { "fr": "Dilthey", "en": "Dilthey" }, "kind": "PHILOSOPHER" }
+      ],
+      "title": {
+        "fr": "Expliquer, ou comprendre ?",
+        "en": "Explaining, or understanding?"
+      },
+      "explicitation": {
+        "fr": "Étudier l'homme, l'histoire, une société, est-ce chercher des causes comme en physique, ou comprendre de l'intérieur un sens et des intentions ? Une seule méthode pour tous les objets, ou d'autres savoirs pour ce qui ne se réduit pas à un mécanisme ?",
+        "en": "To study man, history, a society, is it to seek causes as in physics, or to understand a meaning and intentions from within? One method for all objects, or other kinds of knowledge for what does not reduce to a mechanism?"
+      }
+    },
+    {
+      "id": "the-first-person-given",
+      "resolution": "SURFACED",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "ce qui est vécu",
+        "en": "what is lived"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "monde vécu", "en": "lifeworld" },
+        { "fr": "première personne", "en": "first person" },
+        { "fr": "qualia", "en": "qualia" },
+        { "fr": "intuition", "en": "intuition" }
+      ],
+      "poles": ["EPISTEMIC_PLURALISM"],
+      "anchors": [
+        { "name": { "fr": "Husserl", "en": "Husserl" }, "kind": "PHILOSOPHER", "slug": "husserl" },
+        { "name": { "fr": "Bergson", "en": "Bergson" }, "kind": "PHILOSOPHER", "slug": "bergson" },
+        { "name": { "fr": "Merleau-Ponty", "en": "Merleau-Ponty" }, "kind": "PHILOSOPHER", "slug": "merleau-ponty" }
+      ],
+      "doorways": [{ "axis": "CONSCIOUSNESS_NATURE" }],
+      "title": {
+        "fr": "Ce que seule l'expérience vécue donne",
+        "en": "What only lived experience gives"
+      },
+      "explicitation": {
+        "fr": "Le savoir objectif, en troisième personne, saisit-il ce que c'est que de voir un rouge, de souffrir, d'aimer ? La science présuppose un monde vécu qu'elle-même ne décrit pas, et l'intuition atteint une durée que la mesure laisse échapper.",
+        "en": "Does objective, third-person knowledge grasp what it is to see red, to suffer, to love? Science presupposes a lifeworld it does not itself describe, and intuition reaches a duration that measurement lets slip."
+      },
+      "ref": { "kind": "THOUGHT_EXPERIMENT", "id": "marys-room" }
+    },
+    {
+      "id": "art-as-truth",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "l'œuvre d'art",
+        "en": "the work of art"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "art et vérité", "en": "art and truth" },
+        { "fr": "la tragédie", "en": "tragedy" },
+        { "fr": "dévoilement", "en": "disclosure" }
+      ],
+      "poles": ["EPISTEMIC_PLURALISM"],
+      "anchors": [
+        { "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" },
+        { "name": { "fr": "Heidegger", "en": "Heidegger" }, "kind": "PHILOSOPHER", "slug": "heidegger" },
+        { "name": { "fr": "le romantisme", "en": "Romanticism" }, "kind": "MOVEMENT", "slug": "romanticism" }
+      ],
+      "title": {
+        "fr": "L'art dit-il le vrai ?",
+        "en": "Does art tell the truth?"
+      },
+      "explicitation": {
+        "fr": "La tragédie, le roman, le poème découvrent-ils, sur la condition humaine, des vérités qu'aucun énoncé scientifique ne saurait formuler, ou n'offrent-ils qu'un agrément sans valeur de connaissance ?",
+        "en": "Do tragedy, the novel, the poem disclose truths about the human condition that no scientific statement could formulate, or do they offer only an enjoyment with no knowledge-value?"
+      }
+    },
+    {
+      "id": "scientism-self-refuting",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "la thèse scientiste elle-même",
+        "en": "the scientistic claim itself"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "autoréfutation", "en": "self-refutation" },
+        { "fr": "naturalisme", "en": "naturalism" },
+        { "fr": "une thèse philosophique", "en": "a philosophical claim" }
+      ],
+      "poles": ["SCIENTISM"],
+      "anchors": [
+        { "name": { "fr": "Husserl", "en": "Husserl" }, "kind": "PHILOSOPHER", "slug": "husserl" }
+      ],
+      "doorways": [{ "axis": "METAPHILOSOPHY" }],
+      "title": {
+        "fr": "Le scientisme se réfute-t-il lui-même ?",
+        "en": "Does scientism refute itself?"
+      },
+      "explicitation": {
+        "fr": "« Seule la science donne du savoir » : mais cet énoncé n'est lui-même pas scientifique, c'est une thèse philosophique sur la science. En prétendant tout fonder sur elle, ne se scie-t-il pas la branche ?",
+        "en": "\"Only science gives knowledge\": but this statement is not itself scientific, it is a philosophical claim about science. In claiming to ground everything on science, does it not saw off the branch it sits on?"
+      }
+    },
+    {
+      "id": "what-makes-it-science",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "une théorie",
+        "en": "a theory"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "démarcation", "en": "demarcation" },
+        { "fr": "falsifiabilité", "en": "falsifiability" },
+        { "fr": "pseudo-science", "en": "pseudo-science" }
+      ],
+      "poles": ["SCIENTISM", "EPISTEMIC_PLURALISM"],
+      "anchors": [
+        { "name": { "fr": "Popper", "en": "Popper" }, "kind": "PHILOSOPHER", "slug": "popper" }
+      ],
+      "doorways": [{ "axis": "SCIENTIFIC_METHOD" }],
+      "title": {
+        "fr": "Qu'est-ce qui fait une science ?",
+        "en": "What makes something a science?"
+      },
+      "explicitation": {
+        "fr": "Qu'est-ce qui sépare une science d'une croyance qui s'en donne les apparences, l'astrologie ou une doctrine que rien ne pourrait démentir ? Sa capacité à s'exposer au démenti des faits, ou faut-il un autre critère, à supposer même qu'une frontière nette existe ?",
+        "en": "What separates a science from a belief that puts on its appearances, astrology or a doctrine that nothing could disprove? Its capacity to expose itself to the verdict of the facts, or is another criterion needed, if a sharp boundary exists at all?"
+      }
+    },
+    {
+      "id": "faith-as-a-source",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "la foi, l'expérience mystique",
+        "en": "faith, mystical experience"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "révélation", "en": "revelation" },
+        { "fr": "expérience mystique", "en": "mystical experience" }
+      ],
+      "poles": ["EPISTEMIC_PLURALISM"],
+      "doorways": [{ "axis": "FAITH_REASON" }],
+      "title": {
+        "fr": "Foi et raison",
+        "en": "Faith and reason"
+      },
+      "explicitation": {
+        "fr": "La foi religieuse, l'expérience mystique donnent-elles un accès au réel que la science ne saurait juger, ou relèvent-elles d'une croyance qui n'a rien d'un savoir ?",
+        "en": "Do religious faith and mystical experience give access to the real that science could not judge, or do they belong to a belief that is nothing like knowledge?"
+      }
+    },
+    {
+      "id": "true-or-useful",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "une théorie scientifique",
+        "en": "a scientific theory"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "réalisme scientifique", "en": "scientific realism" },
+        { "fr": "instrumentalisme", "en": "instrumentalism" }
+      ],
+      "poles": ["SCIENTISM"],
+      "doorways": [{ "axis": "KNOWLEDGE_STATUS" }],
+      "title": {
+        "fr": "Le vrai, ou l'utile ?",
+        "en": "The true, or the useful?"
+      },
+      "explicitation": {
+        "fr": "Les théories scientifiques décrivent-elles la réalité telle qu'elle est, jusqu'aux entités qu'on ne voit pas, ou ne sont-elles que des instruments commodes pour prévoir et agir ?",
+        "en": "Do scientific theories describe reality as it is, down to the entities we cannot see, or are they only convenient instruments for prediction and action?"
+      }
+    }
   ]
 }

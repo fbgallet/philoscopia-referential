@@ -10,6 +10,26 @@ Partons d'une société où les richesses sont réparties exactement comme vous 
 
 **Axes en jeu** : [Justice distributive](../axes/distributive-justice.md)
 
+## Ce qu'elle fait dans le débat
+
+### Objecte à [Justice distributive](../axes/distributive-justice.md) : Égalitarisme — attaque la position
+
+Maintenir une répartition égale exige d'interdire sans cesse les échanges libres : la liberté défait tout schéma imposé.
+
+**L'argument qu'elle porte**
+
+1. Partons d'une répartition que l'égalitariste juge parfaitement juste, égale si l'on veut.
+2. Chacun, de son plein gré, glisse une petite pièce à qui il admire, un joueur, un artiste ; à la fin, celui-ci est bien plus riche que les autres, sans que personne ait été lésé.
+3. Si le départ était juste et chaque transfert libre, à quel moment l'injustice serait-elle apparue ? Pour rétablir l'égalité, il faudrait défaire ces échanges, donc interdire aux gens d'user comme ils l'entendent de ce qui leur revient.
+
+**⇒** Donc vouloir maintenir un schéma de répartition, c'est devoir contrôler sans fin la vie des personnes : la liberté défait les schémas.
+
+- **C'est vrai : tant que le départ et les échanges sont justes, le résultat l'est aussi. Corriger sans fin, ce serait m'interdire de disposer de ce qui m'appartient.** : Vous rejoignez [Nozick](../philosophers/nozick.md) : la justice tient à l'origine des possessions, non à la figure d'ensemble des richesses.
+- **Je ne veux pas figer l'égalité, mais je tiens à ce que nul ne tombe trop bas : peu m'importe l'écart tant que chacun a de quoi vivre dignement.** : Vous glissez vers le suffisantarisme : l'important est le plancher, non l'écart au-dessus.
+- **Ces gestes libres, cumulés, refont des maîtres et des obligés ; une société juste corrige ces écarts en continu, par l'impôt, sans rien « interdire ».** : Vous tenez la réponse égalitariste : taxer un flux n'interdit aucun échange, il en corrige seulement l'effet cumulé.
+
+**Met à l'épreuve** : [L'argument de la loterie naturelle](../arguments/egalitarianism-natural-lottery.md)
+
 **Positions possibles** :
 
 - Rien d'injuste : si le départ était juste et chaque transfert libre, le résultat l'est aussi ; corriger reviendrait à interdire des échanges volontaires.

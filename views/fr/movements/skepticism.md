@@ -61,7 +61,7 @@ Scepticisme 98% · Dogmatisme 3%
 
 Toute prétention à connaître la nature cachée des choses suppose un critère du vrai ; or ce critère devrait lui-même être validé par un autre, et ainsi à l'infini, ou bien se garantir lui-même, ce qui est une pétition de principe. Le sceptique n'affirme donc pas que rien n'est connaissable, ce serait encore une thèse [dogmatique](../glossary/dogmatism.md) : il constate que pour chaque preuve avancée se dresse une preuve contraire d'égale force (l'[isosthéneia](../glossary/isostheneia.md)), et que ce conflit irrésolu contraint à l'[épochè](../glossary/epoche.md). Ce qui le sépare des dogmatiques comme des académiciens, c'est qu'il ne conclut ni au savoir ni à l'ignorance : il continue d'enquêter, sans clore.
 
-> « À tout argument s'oppose un argument égal. » (Sextus Empiricus, Esquisses pyrrhoniennes, I, 12)
+> « À tout argument s'oppose un argument égal. », Esquisses pyrrhoniennes, I, 12
 
 *Sources : Sextus Empiricus, Esquisses pyrrhoniennes, I, 8-10 · Diogène Laërce, Vies, IX, 78-79*
 
@@ -73,7 +73,7 @@ Eudémonisme 90% · Hédonisme 10%
 
 Ce qui tourmente l'homme, soutient le sceptique, n'est pas l'événement mais l'opinion qu'il porte sur lui, le jugeant bon ou mauvais par nature : qui poursuit ce qu'il croit un bien et fuit ce qu'il croit un mal ne connaît plus le repos. Dès lors, suspendre cette opinion, c'est désamorcer le trouble à sa source. L'[ataraxia](../glossary/ataraxia.md) n'est donc pas un but que le sceptique vise directement, ce qui le rendrait à nouveau dépendant : elle survient par surcroît, comme le fruit inattendu de l'[épochè](../glossary/epoche.md). C'est là le paradoxe de l'école : on atteint la sérénité en renonçant à la chercher dans un savoir du bien.
 
-> « La tranquillité suivit la suspension comme l'ombre suit le corps. » (Sextus Empiricus, Esquisses pyrrhoniennes, I, 29)
+> « La tranquillité suivit la suspension comme l'ombre suit le corps. », Esquisses pyrrhoniennes, I, 29
 
 *Sources : Sextus Empiricus, Esquisses pyrrhoniennes, I, 25-30 · Diogène Laërce, Vies, IX, 107-108*
 

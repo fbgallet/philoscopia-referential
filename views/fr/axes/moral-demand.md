@@ -32,6 +32,10 @@ La morale exige beaucoup : si je peux empêcher un grand mal au prix d'un sacrif
 - **La charité ou la justice** : Si la misère lointaine tient à des institutions injustes dont nous profitons, donner ne suffit plus : il faudrait réparer et transformer l'ordre, non faire l'aumône. Le don individuel est-il un devoir, ou l'alibi d'une injustice qui continue ?
 - **Ce qu'un être humain peut porter** : Une exigence qui dépasse nos forces produit-elle du découragement et de l'hypocrisie, ou l'idéal doit-il précisément excéder ce que nous sommes pour nous tirer vers le haut ? Ce que la morale peut demander dépend de ce que l'homme peut donner.
 
+## Citations
+
+> « Ne dissertons plus sur ce que doit être l'homme de bien : soyons-le. » — [Marc Aurèle](../philosophers/marcus-aurelius.md), Pensées pour moi-même, X, 16
+
 ## Axes liés
 
 [Critère du juste](../axes/ethics-foundation.md) · [Cercle moral](../axes/moral-circle.md) · [Partialité](../axes/partiality.md) · [Intérêt propre et autrui](../axes/self-interest.md) · [Pardon](../axes/forgiveness.md) · [Justice distributive](../axes/distributive-justice.md) · [Liberté politique](../axes/political-liberty.md) · [Vision de l'homme](../axes/human-vision.md)

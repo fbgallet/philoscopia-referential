@@ -1,0 +1,82 @@
+{
+  "id": "optimism-no-golden-age-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "HUMAN_VISION", "poleId": "ANTHROPOLOGICAL_OPTIMISM" },
+  "name": { "fr": "Point d'âge d'or", "en": "No golden age" },
+  "attacks": "REASONING",
+  "claim": {
+    "fr": "L'état de nature n'est pas un paradis perdu mais une guerre : la rareté et le désir de dominer opposent les hommes avant toute société.",
+    "en": "The state of nature is not a lost paradise but a war: scarcity and the desire to dominate set men against one another before any society."
+  },
+  "summary": {
+    "fr": "L'argument suppose un état de nature paisible. Mais deux hommes qui convoitent une même chose rare, sans juge au-dessus d'eux, deviennent ennemis ; et l'enfant est avide avant toute éducation. La société n'invente pas le conflit, elle le contient.",
+    "en": "The argument assumes a peaceful state of nature. But two men who covet the same scarce thing, with no judge above them, become enemies; and the child is greedy before any upbringing. Society does not invent conflict, it contains it."
+  },
+  "development": [
+    {
+      "fr": "L'argument suppose un état de nature paisible, où l'homme n'a que l'amour de soi et la pitié.",
+      "en": "The argument assumes a peaceful state of nature, where man has only self-love and pity."
+    },
+    {
+      "fr": "Mais deux hommes qui désirent une même chose rare, sans juge au-dessus d'eux, deviennent ennemis : la défiance, la recherche de la gloire, la peur suffisent à la guerre, sans qu'aucune société corruptrice ait à intervenir.",
+      "en": "But two men who desire the same scarce thing, with no judge above them, become enemies: distrust, the pursuit of glory, and fear suffice for war, without any corrupting society having to intervene."
+    },
+    {
+      "fr": "Et l'enfant, avant toute éducation, veut déjà tout pour lui, sans pitié pour le frère qu'il mord : l'avidité et la comparaison sont là dès le berceau, non déposées par les institutions.",
+      "en": "And the child, before any upbringing, already wants everything for himself, with no pity for the brother he bites: greed and comparison are there from the cradle, not laid down by institutions."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc l'homme n'a pas eu d'âge d'or à perdre : la société n'invente pas le conflit, elle le contient. Ôtez-la, et c'est la guerre de tous contre tous qui reparaît, non la bonté.",
+    "en": "So man had no golden age to lose: society does not invent conflict, it contains it. Remove it, and it is the war of all against all that returns, not goodness."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": { "fr": "Hobbes", "en": "Hobbes" },
+    "figures": [{ "name": { "fr": "Hobbes", "en": "Hobbes" }, "kind": "PHILOSOPHER", "slug": "hobbes" }],
+    "work": { "fr": "Léviathan, ch. XIII", "en": "Leviathan, ch. XIII" },
+    "workId": "leviathan-hobbes",
+    "year": 1651
+  },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est vrai : sans lois ni juge, les hommes se font la guerre. Le conflit est en nous, la société n'est qu'une digue.",
+        "en": "True: without laws or judge, men make war on one another. Conflict is in us, society is only a dam."
+      },
+      "hints": [{ "axisId": "HUMAN_VISION", "value": { "kind": "scalar", "value": 0.6 }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous rejoignez <ph id='hobbes'>Hobbes</ph> : la paix n'est pas un don de la nature mais l'œuvre d'un pouvoir qui contient la guerre.",
+        "en": "You join <ph id='hobbes'>Hobbes</ph>: peace is not a gift of nature but the work of a power that contains war."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je n'accorde ni un âge d'or ni une nature mauvaise : l'homme est capable des deux ; tout dépend de ce qui, en lui, est cultivé.",
+        "en": "I grant neither a golden age nor an evil nature: man is capable of both; everything depends on what, in him, is cultivated."
+      },
+      "hints": [{ "axisId": "HUMAN_VISION", "value": { "kind": "scalar", "value": 0 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous glissez vers la plasticité : ni bonté ni méchanceté données, mais un être formé par ses conditions.",
+        "en": "You slide toward plasticity: neither given goodness nor given wickedness, but a being formed by its conditions."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Ce « désir de dominer » n'a rien de naturel : c'est déjà l'amour-propre, un besoin de comparaison qui suppose la vie sociale. Hobbes projette sur l'état de nature l'homme de son temps.",
+        "en": "This 'desire to dominate' is nothing natural: it is already amour-propre, a need for comparison that presupposes social life. Hobbes projects onto the state of nature the man of his own time."
+      },
+      "hints": [{ "axisId": "HUMAN_VISION", "value": { "kind": "scalar", "value": -1 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "La réplique de <ph id='rousseau'>Rousseau</ph> : Hobbes décrit l'homme social, non l'homme naturel, et prend l'effet pour la cause.",
+        "en": "<ph id='rousseau'>Rousseau</ph>'s reply: Hobbes describes social man, not natural man, and takes the effect for the cause."
+      }
+    }
+  ],
+  "targets": ["optimism-natural-goodness"],
+  "problems": ["origin-of-evil", "is-there-real-altruism"],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

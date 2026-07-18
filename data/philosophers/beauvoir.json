@@ -62,16 +62,7 @@
           }
         ],
         "strength": "MEDIUM",
-        "quote": {
-          "text": {
-            "fr": "Il n'y a pas de mort naturelle.",
-            "en": "There is no natural death."
-          },
-          "source": {
-            "fr": "Une mort très douce",
-            "en": "A Very Easy Death"
-          }
-        }
+        "quoteId": "il-n-y-a-pas-de-beauvoir"
       }
     },
     {
@@ -202,16 +193,7 @@
             "en": "The Ethics of Ambiguity (1947)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "On ne naît pas femme : on le devient. Aucun destin biologique, psychique, économique ne définit la figure que revêt au sein de la société la femelle humaine.",
-            "en": "One is not born, but rather becomes, a woman. No biological, psychic, or economic destiny defines the figure that the human female assumes within society."
-          },
-          "source": {
-            "fr": "Le Deuxième Sexe, t. II",
-            "en": "The Second Sex, vol. II"
-          }
-        },
+        "quoteId": "on-ne-nait-pas-femme-on-beauvoir",
         "strength": "STRONG"
       }
     },
@@ -266,16 +248,7 @@
             "en": "The Second Sex (1949), Introduction (the situation of woman)"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "Il n'y a de liberté qu'engagée, et qui se veut en voulant le dévoilement de l'être à travers un monde.",
-            "en": "There is freedom only as engaged, willing itself by willing the disclosure of being through a world."
-          },
-          "source": {
-            "fr": "Pour une morale de l'ambiguïté",
-            "en": "The Ethics of Ambiguity"
-          }
-        },
+        "quoteId": "il-n-y-a-de-liberte-beauvoir",
         "strength": "STRONG"
       }
     },
@@ -845,16 +818,7 @@
             "en": "The Second Sex (1949), vol. II, opening"
           }
         ],
-        "quote": {
-          "text": {
-            "fr": "On ne naît pas femme : on le devient.",
-            "en": "One is not born, but rather becomes, a woman."
-          },
-          "source": {
-            "fr": "Le Deuxième Sexe, t. II",
-            "en": "The Second Sex, vol. II"
-          }
-        },
+        "quoteId": "on-ne-nait-pas-femme-on-beauvoir-2",
         "strength": "STRONG"
       }
     },

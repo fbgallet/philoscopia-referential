@@ -39,6 +39,18 @@ La vie ne se laisse réduire ni à la mécanique ni à un plan préétabli : ell
 - *[Explication de la nature](../axes/causality.md) : Mécanisme* fonde *[Place de l'homme dans la nature](../axes/human-place-nature.md) : Maîtrise* : Si la nature n'est qu'un vaste mécanisme régi par des lois, alors la connaître, c'est pouvoir la maîtriser et la mettre à notre service. Le mécanisme fonde l'idéal de maîtrise : [Descartes](../philosophers/descartes.md) assigne à la science de nous rendre « comme maîtres et possesseurs de la nature », et Bacon fait du savoir un pouvoir.
 - *[Explication de la nature](../axes/causality.md) : Mécanisme* fonde *[Améliorer la nature humaine](../axes/human-enhancement.md) : Transhumanisme* : Si le corps vivant est une machine régie par des lois physiques, il peut en principe être réparé, augmenté et reconfiguré comme tout mécanisme. La conception mécaniste du vivant, dont [La Mettrie](../philosophers/la-mettrie.md) fit jadis « l'homme-machine », nourrit le transhumanisme de [Bostrom](../philosophers/bostrom.md), pour qui la nature humaine n'est pas un donné sacré mais un état perfectible. Le lien reste une inférence contestable : le mécanisme classique ne visait pas l'amélioration, mais il en lève l'interdit de principe.
 
+## Citations
+
+> « Après une répétition de cas semblables, l'esprit est porté par l'habitude, dès l'apparition d'un événement, à en attendre le compagnon ordinaire... C'est donc le sentiment ou l'impression d'où nous tirons l'idée de pouvoir ou de connexion nécessaire. » — [Hume](../philosophers/hume.md), Enquête sur l'entendement humain, sect. VII
+
+> « Dieu et la nature ne font rien en vain. » — [Aristote](../philosophers/aristotle.md), Du ciel, I, 4, 271a ; cf. Physique, II, 8
+
+> « Jamais et nulle part rien n'existe qui soit né de soi, d'autre, des deux, ou sans cause. » — [Nāgārjuna](../philosophers/nagarjuna.md), Mūlamadhyamakakārikā, I, 1
+
+> « La nature ne fait rien en vain. » — [Aristote](../philosophers/aristotle.md), Politique, I, 2 (1253a)
+
+> « Rien dans le corps ne fut produit afin que nous puissions en user : c'est ce qui est né qui crée l'usage. » — [Lucrèce](../philosophers/lucretius.md), De la nature des choses, IV, 833-835
+
 ## Axes liés
 
 [Liberté de la volonté](../axes/freedom.md) · [Nature de l'esprit et du réel](../axes/reality-nature.md) · [Tout et parties](../axes/reduction-emergence.md) · [Source de la connaissance](../axes/knowledge-source.md) · [L'être et le devenir](../axes/being-becoming.md)

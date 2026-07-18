@@ -65,7 +65,7 @@ Existentialism 80% · Essentialism 20%
 
 The argument is a reductio on the very notion of essence: an [inherent existence](../glossary/svabhava.md) (svabhāva, the essence by which a thing would be of itself, independently of everything else) would, by definition, have to be unproduced and unchanging; yet everything we meet arises from causes and conditions, and so changes. An essence that came to be would be fabricated, which contradicts its concept. Nāgārjuna thus turns the Abhidharma's own analysis against it: the substantialist schools resolved things into ultimate factors (dharmas) endowed with inherent existence; he shows that these factors, being themselves conditioned, are in turn [empty (śūnyatā)](../glossary/sunyata.md). It must be distinguished from existentialism: the thing is empty of essence not so that it may freely create itself, but because the notion of a fixed essence is incoherent.
 
-> “It is not tenable that inherent existence should arise from causes and conditions: an inherent existence arisen from causes and conditions would be something fabricated.” (Mūlamadhyamakakārikā, XV, 1-2)
+> “It is not tenable that inherent existence should arise from causes and conditions: an inherent existence arisen from causes and conditions would be something fabricated.”, Mūlamadhyamakakārikā, XV, 1-2
 
 *Sources : Mūlamadhyamakakārikā (Fundamental Verses on the Middle Way), ch. XV (the examination of svabhāva) · Mūlamadhyamakakārikā, ch. XXIV (the examination of the Noble Truths)*
 
@@ -101,7 +101,7 @@ Pragmatism 50% · Coherence 40% · Correspondence 10%
 
 The distinction answers a formidable objection: if everything is empty, then suffering, the path, and the Buddha's teaching are empty too, and emptiness seems to wreck everything. Nāgārjuna meets it by distinguishing two registers of truth, not two worlds: at the [conventional](../glossary/two-truths.md) level, language and ordinary practices are fully valid; at the ultimate level, nothing has [inherent existence](../glossary/svabhava.md). Far from excluding each other, they are mutually conditioning: the ultimate can only be pointed to by means of the conventional, and whoever takes emptiness for an ultimate thesis about the real “is lost, as one is by a wrongly grasped snake”. Conventional truth thus holds by its coherence of usage and its efficacy on the path, not by a correspondence to essences.
 
-> “The Dharma taught by the buddhas rests on two truths: the conventional, worldly truth and the truth in the ultimate sense. Without relying on the conventional, the ultimate is not taught; without reaching the ultimate, nirvāṇa is not attained.” (Mūlamadhyamakakārikā, XXIV, 8-10)
+> “The Dharma taught by the buddhas rests on two truths: the conventional, worldly truth and the truth in the ultimate sense. Without relying on the conventional, the ultimate is not taught; without reaching the ultimate, nirvāṇa is not attained.”, Mūlamadhyamakakārikā, XXIV, 8-10
 
 *Sources : Mūlamadhyamakakārikā (Fundamental Verses on the Middle Way), XXIV, 8-10 (the two truths)*
 
@@ -113,7 +113,7 @@ Mechanism 60% · Vitalism 40%
 
 How is a thing produced? The work opens on this problem and attacks it through its four possible branches: a thing can arise neither from itself (it would already be there), nor from another endowed with [inherent existence](../glossary/svabhava.md) (two separate essences could not condition one another), nor from both, nor without a cause. If real causation presupposes terms with inherent existence, it is incoherent. The original step is not to abolish causation but to identify it with emptiness: precisely because things arise in dependence, they have no inherent existence. [Dependent origination (pratītyasamutpāda)](../glossary/pratityasamutpada.md) and [emptiness (śūnyatā)](../glossary/sunyata.md) are then two names for one fact, with no agent and no design, which excludes finalism.
 
-> “Never and nowhere does anything exist that is arisen from itself, from another, from both, or without a cause.” (Mūlamadhyamakakārikā, I, 1)
+> “Never and nowhere does anything exist that is arisen from itself, from another, from both, or without a cause.”, Mūlamadhyamakakārikā, I, 1
 
 *Sources : Mūlamadhyamakakārikā (Fundamental Verses on the Middle Way), ch. I (the examination of conditions)*
 
@@ -125,7 +125,7 @@ Immanence 98% · Transcendence 3%
 
 The argument draws out the consequence of universal emptiness: if saṃsāra (the cycle of conditioned rebirths) and [nirvāṇa (extinction)](../glossary/nirvana.md) each had an [inherent existence](../glossary/svabhava.md), a gulf would separate them and one could never pass from the one to the other. But both are equally [empty (śūnyatā)](../glossary/sunyata.md), and so lack the essential boundary that would set them in opposition. The metaphysical leap toward a beyond collapses: nirvāṇa is no other place to be reached, it is saṃsāra rightly seen, stripped of the grasping that made it suffering. Hence a radical immanence, with no backworld, which sets Madhyamaka apart from conceptions of salvation as escape out of the world.
 
-> “There is no difference at all between saṃsāra and nirvāṇa; there is no difference at all between nirvāṇa and saṃsāra.” (Mūlamadhyamakakārikā, XXV, 19)
+> “There is no difference at all between saṃsāra and nirvāṇa; there is no difference at all between nirvāṇa and saṃsāra.”, Mūlamadhyamakakārikā, XXV, 19
 
 *Sources : Mūlamadhyamakakārikā (Fundamental Verses on the Middle Way), ch. XXV (the examination of nirvāṇa)*
 
