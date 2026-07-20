@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Locke", "en": "Locke" }, "kind": "PHILOSOPHER", "slug": "locke" },
   "work": "two-treatises-of-government-locke",
   "source": { "fr": "Traités du gouvernement civil, II, ch. 5, §27", "en": "Two Treatises of Government, II, ch. 5, §27" },
-  "anchors": [{ "axisId": "DISTRIBUTIVE_JUSTICE" }],
+  "anchors": [{ "axisId": "DISTRIBUTIVE_JUSTICE", "poleId": "LIBERTARIANISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

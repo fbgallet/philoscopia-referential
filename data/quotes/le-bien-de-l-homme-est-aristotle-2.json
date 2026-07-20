@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" },
   "work": "nicomachean-ethics-aristotle",
   "source": { "fr": "Éthique à Nicomaque, I, 7, 1098a", "en": "Nicomachean Ethics, I, 7, 1098a" },
-  "anchors": [{ "axisId": "SOVEREIGN_GOOD" }],
+  "anchors": [{ "axisId": "SOVEREIGN_GOOD", "poleId": "EUDAIMONISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

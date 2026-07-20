@@ -64,6 +64,7 @@
 - *[Dao De Jing](dao-de-jing-laozi.md)* : Laozi (300 av. J.-C.)
 - *[De la nature des choses](on-the-nature-of-things-lucretius.md)* : Lucrèce (55 av. J.-C.)
 - *[Pensées pour moi-même](meditations-marcus-aurelius.md)* : Marc Aurèle (175)
+- *[De la liberté](on-liberty-mill.md)* : Mill (1859)
 - *[Les Essais](essays-montaigne.md)* : Montaigne (1580)
 - *[Naissance de la tragédie](the-birth-of-tragedy-nietzsche.md)* : Nietzsche (1872)
 - *[Vérité et mensonge au sens extra-moral](on-truth-and-lie-in-a-nonmoral-sense-nietzsche.md)* : Nietzsche (1873)

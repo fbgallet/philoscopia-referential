@@ -3,6 +3,6 @@
   "text": { "fr": "Que nul citoyen ne soit assez opulent pour en pouvoir acheter un autre, et nul assez pauvre pour être contraint de se vendre.", "en": "That no citizen be rich enough to buy another, and none poor enough to be forced to sell himself." },
   "author": { "name": { "fr": "Rousseau", "en": "Rousseau" }, "kind": "PHILOSOPHER", "slug": "rousseau" },
   "source": { "fr": "Du contrat social, II, 11", "en": "The Social Contract, II, 11" },
-  "anchors": [{ "axisId": "DISTRIBUTIVE_JUSTICE" }],
+  "anchors": [{ "axisId": "DISTRIBUTIVE_JUSTICE", "poleId": "EGALITARIANISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

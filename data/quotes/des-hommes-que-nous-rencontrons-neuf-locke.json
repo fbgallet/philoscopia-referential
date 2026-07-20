@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Locke", "en": "Locke" }, "kind": "PHILOSOPHER", "slug": "locke" },
   "work": "some-thoughts-concerning-education-locke",
   "source": { "fr": "Quelques pensées sur l'éducation, §1", "en": "Some Thoughts Concerning Education, §1" },
-  "anchors": [{ "axisId": "HUMAN_NATURE" }],
+  "anchors": [{ "axisId": "HUMAN_NATURE", "poleId": "CULTURALISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

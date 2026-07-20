@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Platon", "en": "Plato" }, "kind": "PHILOSOPHER", "slug": "plato" },
   "work": "gorgias-plato",
   "source": { "fr": "Gorgias, 483d", "en": "Gorgias, 483d" },
-  "anchors": [{ "axisId": "MORAL_SCOPE" }],
+  "anchors": [{ "axisId": "MORAL_SCOPE", "poleId": "UNIVERSALISM_REALISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

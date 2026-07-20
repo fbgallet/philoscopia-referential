@@ -3,6 +3,6 @@
   "text": { "fr": "Étant tous égaux et indépendants, nul ne doit nuire à un autre dans sa vie, sa santé, sa liberté ou ses biens.", "en": "Being all equal and independent, no one ought to harm another in his life, health, liberty, or possessions." },
   "author": { "name": { "fr": "Locke", "en": "Locke" }, "kind": "PHILOSOPHER", "slug": "locke" },
   "source": { "fr": "Second traité du gouvernement, §6", "en": "Second Treatise of Government, §6" },
-  "anchors": [{ "axisId": "RIGHTS_NATURE" }],
+  "anchors": [{ "axisId": "RIGHTS_NATURE", "poleId": "NATURAL_RIGHTS" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

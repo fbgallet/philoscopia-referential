@@ -3,6 +3,6 @@
   "text": { "fr": "Les hommes font leur propre histoire, mais ils ne la font pas arbitrairement, dans des conditions choisies par eux, mais dans des conditions directement données et héritées du passé.", "en": "Men make their own history, but they do not make it as they please; they do not make it under self-selected circumstances, but under circumstances directly given and inherited from the past." },
   "author": { "name": { "fr": "Marx", "en": "Marx" }, "kind": "PHILOSOPHER", "slug": "marx" },
   "source": { "fr": "Le 18 Brumaire de Louis Bonaparte", "en": "The Eighteenth Brumaire of Louis Bonaparte" },
-  "anchors": [{ "axisId": "FREEDOM" }],
+  "anchors": [{ "axisId": "FREEDOM", "poleId": "DETERMINISM" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

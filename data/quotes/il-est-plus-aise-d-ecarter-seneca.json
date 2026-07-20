@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Sénèque", "en": "Seneca" }, "kind": "PHILOSOPHER", "slug": "seneca" },
   "work": "on-anger-seneca",
   "source": { "fr": "De la colère, I, 7", "en": "On Anger, I, 7" },
-  "anchors": [{ "axisId": "EMOTIONS" }],
+  "anchors": [{ "axisId": "EMOTIONS", "poleId": "INTELLECTUALISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

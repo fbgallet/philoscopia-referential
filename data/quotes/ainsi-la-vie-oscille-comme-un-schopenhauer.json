@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Schopenhauer", "en": "Schopenhauer" }, "kind": "PHILOSOPHER", "slug": "schopenhauer" },
   "work": "the-world-as-will-and-representation-schopenhauer",
   "source": { "fr": "Le Monde comme volonté et comme représentation, §57", "en": "The World as Will and Representation, §57" },
-  "anchors": [{ "axisId": "DESIRE" }],
+  "anchors": [{ "axisId": "DESIRE", "poleId": "DETACHMENT" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Descartes", "en": "Descartes" }, "kind": "PHILOSOPHER", "slug": "descartes" },
   "work": "the-passions-of-the-soul-descartes",
   "source": { "fr": "Les passions de l'âme, art. 161", "en": "The Passions of the Soul, art. 161" },
-  "anchors": [{ "axisId": "ETHICS_FOUNDATION" }],
+  "anchors": [{ "axisId": "ETHICS_FOUNDATION", "poleId": "VIRTUE_ETHICS" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

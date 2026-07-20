@@ -3,6 +3,6 @@
   "text": { "fr": "On ne naît pas femme : on le devient. Aucun destin biologique, psychique, économique ne définit la figure que revêt au sein de la société la femelle humaine.", "en": "One is not born, but rather becomes, a woman. No biological, psychic, or economic destiny defines the figure that the human female assumes within society." },
   "author": { "name": { "fr": "Beauvoir", "en": "Beauvoir" }, "kind": "PHILOSOPHER", "slug": "beauvoir" },
   "source": { "fr": "Le Deuxième Sexe, t. II", "en": "The Second Sex, vol. II" },
-  "anchors": [{ "axisId": "ESSENCE" }],
+  "anchors": [{ "axisId": "ESSENCE", "poleId": "EXISTENTIALISM" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" },
   "work": "poetics-aristotle",
   "source": { "fr": "Poétique, 9 (1451b)", "en": "Poetics, 9 (1451b)" },
-  "anchors": [{ "axisId": "ART_PURPOSE" }],
+  "anchors": [{ "axisId": "ART_PURPOSE", "poleId": "ART_TRUTH" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

@@ -16,7 +16,7 @@
 
 **⇒** So philosophy fulfills its vocation by understanding: its theoria is not an escape but the end to which the rest is a means, the [life according to what is highest](../axes/sovereign-good.md) in us.
 
-**Challenged by** : [The owl of Minerva comes too late](../arguments/contemplation-eleventh-thesis-objection.md)
+**Challenged by** : [The owl of Minerva comes too late](../arguments/contemplation-eleventh-thesis-objection.md) · [Science has taken over](../arguments/contemplation-science-takeover-objection.md)
 
 **Bears on the problems** : [What is the point?](../axes/metaphilosophy.md) · [Understanding or transforming](../axes/metaphilosophy.md) · [Does philosophy make progress?](../axes/metaphilosophy.md)
 

@@ -3,6 +3,6 @@
   "text": { "fr": "Quand surgira une controverse, il n'y aura pas plus besoin de discuter entre deux philosophes qu'entre deux comptables. Il leur suffira de prendre la plume, de s'asseoir et de se dire : calculons.", "en": "When a controversy arises, there will be no more need of disputation between two philosophers than between two accountants. It will suffice to take their pens, sit down, and say: let us calculate." },
   "author": { "name": { "fr": "Leibniz", "en": "Leibniz" }, "kind": "PHILOSOPHER", "slug": "leibniz" },
   "source": { "fr": "De l'art combinatoire / Lettres", "en": "On the Art of Combinations / Letters" },
-  "anchors": [{ "axisId": "CERTAINTY" }],
+  "anchors": [{ "axisId": "CERTAINTY", "poleId": "DOGMATISM" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

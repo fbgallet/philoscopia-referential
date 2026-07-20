@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Platon", "en": "Plato" }, "kind": "PHILOSOPHER", "slug": "plato" },
   "work": "symposium-plato",
   "source": { "fr": "Banquet, 211a", "en": "Symposium, 211a" },
-  "anchors": [{ "axisId": "BEAUTY" }],
+  "anchors": [{ "axisId": "BEAUTY", "poleId": "OBJECTIVE_BEAUTY" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

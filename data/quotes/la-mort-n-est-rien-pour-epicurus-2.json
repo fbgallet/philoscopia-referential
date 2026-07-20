@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Épicure", "en": "Epicurus" }, "kind": "PHILOSOPHER", "slug": "epicurus" },
   "work": "letter-to-menoeceus-epicurus",
   "source": { "fr": "Lettre à Ménécée, 124-125", "en": "Letter to Menoeceus, 124-125" },
-  "anchors": [{ "axisId": "DEATH" }],
+  "anchors": [{ "axisId": "DEATH", "poleId": "EPICUREANISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

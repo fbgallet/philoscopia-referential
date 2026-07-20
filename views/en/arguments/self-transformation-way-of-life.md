@@ -16,7 +16,7 @@
 
 **⇒** So philosophy is worth something as medicine for the soul and an art of living: not a discourse added to one's life, but an exercise that remakes it.
 
-**Challenged by** : [To heal oneself, or to seek the truth?](../arguments/self-transformation-consolation-objection.md)
+**Challenged by** : [To heal oneself, or to seek the truth?](../arguments/self-transformation-consolation-objection.md) · [Self-help does it better](../arguments/self-transformation-self-help-objection.md)
 
 **Bears on the problems** : [Discourse or a way of life](../axes/metaphilosophy.md) · [What is the point?](../axes/metaphilosophy.md) · [For everyone or for the few](../axes/metaphilosophy.md)
 

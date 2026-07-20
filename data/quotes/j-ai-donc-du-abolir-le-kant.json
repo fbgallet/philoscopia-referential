@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" },
   "work": "critique-of-pure-reason-kant",
   "source": { "fr": "Critique de la raison pure, Préface de la seconde édition (B XXX)", "en": "Critique of Pure Reason, Preface to the Second Edition (B XXX)" },
-  "anchors": [{ "axisId": "FAITH_REASON" }],
+  "anchors": [{ "axisId": "FAITH_REASON", "poleId": "HARMONY" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

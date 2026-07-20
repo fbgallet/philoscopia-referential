@@ -3,6 +3,6 @@
   "text": { "fr": "L'homme existe d'abord, se rencontre, surgit dans le monde, et qu'il se définit après. L'homme, tel que le conçoit l'existentialiste, s'il n'est pas définissable, c'est qu'il n'est d'abord rien. Il ne sera qu'ensuite, et il sera tel qu'il se sera fait.", "en": "Man first exists, encounters himself, surges up in the world, and defines himself afterward. If man as the existentialist conceives him is indefinable, it is because at first he is nothing. He will not be anything until later, and then he will be what he makes of himself." },
   "author": { "name": { "fr": "Sartre", "en": "Sartre" }, "kind": "PHILOSOPHER", "slug": "sartre" },
   "source": { "fr": "L'existentialisme est un humanisme", "en": "Existentialism Is a Humanism" },
-  "anchors": [{ "axisId": "ESSENCE" }],
+  "anchors": [{ "axisId": "ESSENCE", "poleId": "EXISTENTIALISM" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

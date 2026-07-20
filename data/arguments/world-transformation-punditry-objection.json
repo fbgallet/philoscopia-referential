@@ -1,0 +1,81 @@
+{
+  "id": "world-transformation-punditry-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "METAPHILOSOPHY", "poleId": "WORLD_TRANSFORMATION" },
+  "name": { "fr": "Un avis sur tout, un savoir sur rien", "en": "An opinion on everything, knowledge of nothing" },
+  "attacks": "POSITION",
+  "claim": {
+    "fr": "Si la philosophie se juge à son action sur le monde, son heure est passée : ceux qui le transforment vraiment sont ailleurs, et le philosophe engagé est devenu un commentateur.",
+    "en": "If philosophy is judged by its action on the world, its hour has passed: those who truly transform it are elsewhere, and the engaged philosopher has become a commentator."
+  },
+  "summary": {
+    "fr": "Le monde se transforme par des leviers distincts, l'expertise technique, le pouvoir institutionnel, l'action politique organisée ; le philosophe n'est le maître d'aucun. Il ne pèse plus qu'en devenant figure médiatique, un avis sur tout à l'antenne, régnant sur la <c id='doxa'>doxa</c> et non sur le savoir ; et celui qui refuse ce rôle écrit pour ses pairs. Le <pb>rapport de l'interprétation et de la transformation</pb> se retourne : la promesse d'agir se fait attendre.",
+    "en": "The world is transformed through distinct levers, technical expertise, institutional power, organized political action; the philosopher masters none of them. He now weighs in only by becoming a media figure, an opinion on everything on air, reigning over <c id='doxa'>doxa</c> rather than knowledge; and whoever refuses that role writes for his peers. The <pb>relation of interpreting and transforming</pb> turns back on itself: the promise to act is slow in coming."
+  },
+  "development": [
+    {
+      "fr": "Qui transforme le monde aujourd'hui, et par quel levier ? L'<kw>expertise technique</kw> conçoit les moyens, le <kw>pouvoir institutionnel</kw> décide, l'<kw>action collective organisée</kw> pèse dans le rapport de forces. Le philosophe peut être savant, en histoire, en logique, en droit même ; mais il n'est le maître d'aucun de ces trois leviers, là où les choses se décident.",
+      "en": "Who transforms the world today, and through which lever? <kw>Technical expertise</kw> designs the means, <kw>institutional power</kw> decides, <kw>organized collective action</kw> shifts the balance of forces. The philosopher may be learned, in history, in logic, even in law; but he masters none of these three levers, where things are actually decided."
+    },
+    {
+      "fr": "Quand il veut malgré tout peser sur la vie publique, il devient une figure médiatique : la guerre lundi, l'école mercredi, l'intelligence artificielle vendredi. C'est le procès que <ph id='plato'>Platon</ph> faisait à la rhétorique, produire la persuasion sans le savoir ; le commentateur moderne y retombe, régnant sur l'<c id='doxa'>opinion</c> quand la notoriété tient lieu de compétence.",
+      "en": "When he nevertheless wants to bear on public life, he becomes a media figure: war on Monday, school on Wednesday, artificial intelligence on Friday. It is the charge <ph id='plato'>Plato</ph> brought against rhetoric, producing persuasion without knowledge; the modern commentator falls back into it, reigning over <c id='doxa'>opinion</c> while celebrity does the work of competence."
+    },
+    {
+      "fr": "Celui qui refuse ce rôle n'est pas mieux loti : sa critique sociale demeure dans des revues que lisent ses pairs. Entre le plateau et le séminaire, où est la transformation promise ? Les armes de la critique n'ont, à elles seules, presque jamais suffi à renverser un ordre.",
+      "en": "Whoever refuses that role fares no better: his social critique stays in journals read by his peers. Between the TV set and the seminar room, where is the promised transformation? The weapons of criticism have, on their own, almost never sufficed to overturn an order."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc juger la philosophie à ce qu'elle change reviendrait à la condamner : le monde se transformerait sans elle, et son « engagement » oscillerait entre le commentaire et l'inaudible.",
+    "en": "So judging philosophy by what it changes would amount to condemning it: the world would transform itself without it, and its 'engagement' would swing between commentary and inaudibility."
+  },
+  "difficulty": 1,
+  "source": {
+    "author": { "fr": "Platon", "en": "Plato" },
+    "figures": [{ "name": { "fr": "Platon", "en": "Plato" }, "kind": "PHILOSOPHER", "slug": "plato" }],
+    "work": { "fr": "Gorgias (transposé)", "en": "Gorgias (transposed)" },
+    "workId": "gorgias-plato"
+  },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est vrai : le changement passe par les savoirs spécialisés et les luttes concrètes. La philosophie sert mieux en amont, à comprendre et à clarifier, qu'à prétendre guider l'action.",
+        "en": "True: change comes through specialized knowledge and concrete struggles. Philosophy serves better upstream, understanding and clarifying, than pretending to guide action."
+      },
+      "hints": [{ "axisId": "METAPHILOSOPHY", "value": { "kind": "weights", "weights": [0.45, 0.1, 0.05, 0.4] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous laissez à d'autres le premier rôle : la pensée prépare, d'autres transforment. Reste à ne pas laisser l'amont sans effet sur l'aval.",
+        "en": "You leave the leading role to others: thought prepares, others transform. It remains not to leave the upstream without effect downstream."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Transformer n'est pas commenter : la philosophie agit en armant les débats publics, en formant ceux qui agissent, en portant les fins là où chaque expert ne voit que des moyens. Son action est lente, mais réelle : des idées philosophiques sont devenues des droits et des institutions.",
+        "en": "To transform is not to comment: philosophy acts by arming public debate, by forming those who act, by carrying the question of ends where every expert sees only means. Its action is slow, but real: philosophical ideas have become rights and institutions."
+      },
+      "hints": [{ "axisId": "METAPHILOSOPHY", "value": { "kind": "weights", "weights": [0.1, 0.7, 0.05, 0.15] }, "weight": 1 }],
+      "discussion": {
+        "fr": "L'engagement se redéfinit : non l'avis sur tout, mais le travail des concepts qui finissent, à l'échelle des générations, dans les constitutions.",
+        "en": "Engagement redefined: not an opinion on everything, but the work of concepts that end up, at the scale of generations, in constitutions."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "L'objection prend la caricature pour la chose : le philosophe de plateau est à la philosophie ce que l'astrologue est à l'astronomie. C'est précisément parce que chaque expert ne voit que son domaine qu'il faut une pensée des fins communes : la justice, l'usage des savoirs, la cité. Nul autre ne fait ce travail.",
+        "en": "The objection mistakes the caricature for the thing: the TV philosopher is to philosophy what the astrologer is to astronomy. It is precisely because each expert sees only his own domain that a thinking of common ends is needed: justice, the use of our knowledge, the city. No one else does that work."
+      },
+      "hints": [{ "axisId": "METAPHILOSOPHY", "value": { "kind": "weights", "weights": [0.05, 0.8, 0.05, 0.1] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "La défense de l'engagement : l'éparpillement médiatique est une pathologie, non l'essence ; la pensée des fins n'a pas de spécialiste de rechange.",
+        "en": "The defense of engagement: the media scattering is a pathology, not the essence; the thinking of ends has no replacement specialist."
+      }
+    }
+  ],
+  "targets": ["world-transformation-praxis"],
+  "problems": ["interpret-or-change", "philosophy-for-whom"],
+  "updatedAt": "2026-07-18T00:00:00.000Z"
+}

@@ -3,6 +3,6 @@
   "text": { "fr": "Nous ne sommes jamais chez nous, nous sommes toujours au-delà.", "en": "We are never at home, we are always beyond ourselves." },
   "author": { "name": { "fr": "Michel de Montaigne", "en": "Michel de Montaigne" }, "kind": "PHILOSOPHER", "slug": "montaigne" },
   "source": { "fr": "Essais, I, 3, « Nos affections s'emportent au-delà de nous »", "en": "Essays, I, 3, \"Our Feelings Reach Out Beyond Us\"" },
-  "anchors": [{ "axisId": "TIME_ORIENTATION" }],
+  "anchors": [{ "axisId": "TIME_ORIENTATION", "poleId": "PRESENTISM" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

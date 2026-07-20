@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Schopenhauer", "en": "Schopenhauer" }, "kind": "PHILOSOPHER", "slug": "schopenhauer" },
   "work": "on-the-basis-of-morality-schopenhauer",
   "source": { "fr": "Le Fondement de la morale, §16", "en": "On the Basis of Morality, §16" },
-  "anchors": [{ "axisId": "EMOTIONS" }],
+  "anchors": [{ "axisId": "EMOTIONS", "poleId": "SENTIMENTALISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Spinoza", "en": "Spinoza" }, "kind": "PHILOSOPHER", "slug": "spinoza" },
   "work": "political-treatise-spinoza",
   "source": { "fr": "Traité politique, I, 4", "en": "Political Treatise, I, 4" },
-  "anchors": [{ "axisId": "PAST_RELATION" }],
+  "anchors": [{ "axisId": "PAST_RELATION", "poleId": "AMOR_FATI" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

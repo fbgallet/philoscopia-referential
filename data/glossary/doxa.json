@@ -1,0 +1,12 @@
+{
+  "id": "doxa",
+  "term": { "fr": "Doxa", "en": "Doxa" },
+  "aliases": { "fr": ["opinion"], "en": ["opinion"] },
+  "definition": {
+    "fr": "Chez <ph id='plato'>Platon</ph>, la doxa est l'opinion, à mi-chemin de l'ignorance et de la science. Une opinion peut être droite et suffire à l'action ; mais tant qu'elle n'est pas attachée par un raisonnement qui en rend compte, elle reste instable : qui la tient ne sait ni la défendre ni la retenir, au gré des habiles qui savent la retourner. De là un partage fondateur : la rhétorique qui persuade sans savoir règne sur la doxa, la philosophie cherche l'examen qui la change en connaissance.",
+    "en": "In <ph id='plato'>Plato</ph>, doxa is opinion, halfway between ignorance and knowledge. An opinion can be right and enough to act on; but so long as it is not tied down by an account that explains it, it remains unstable: whoever holds it can neither defend it nor keep hold of it, at the mercy of the clever who know how to turn it around. Hence a founding divide: the rhetoric that persuades without knowing reigns over doxa, philosophy seeks the examination that turns it into knowledge."
+  },
+  "relatedAxes": ["CERTAINTY", "KNOWLEDGE_STATUS", "METAPHILOSOPHY"],
+  "relatedTerms": ["elenchos"],
+  "updatedAt": "2026-07-18T00:00:00.000Z"
+}

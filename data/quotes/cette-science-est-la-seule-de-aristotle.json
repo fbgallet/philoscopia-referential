@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" },
   "work": "metaphysics-aristotle",
   "source": { "fr": "Métaphysique, A, 2 (982b)", "en": "Metaphysics, I.2 (982b)" },
-  "anchors": [{ "axisId": "METAPHILOSOPHY" }],
+  "anchors": [{ "axisId": "METAPHILOSOPHY", "poleId": "CONTEMPLATION" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

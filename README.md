@@ -63,6 +63,12 @@ A note on completeness: some axis sub-problems are marked `"resolution": "LATENT
 - [x] An [MCP server](mcp/) for LLM-driven exploration and self-profiling
 - [x] [Exploration skills](skills/) (guided discovery, Socratic examination, figure comparison)
 
+## Support & follow
+
+If you find Philoscopia useful, you can support our work on **[Ko-fi](https://ko-fi.com/philoscopia)** — one-off or recurring, also possible via [GitHub Sponsors](https://github.com/sponsors/fbgallet).
+
+Follow the project and get in touch on **[X (@fbgallet)](https://x.com/fbgallet)** and **[Bluesky (@fbgallet.bsky.social)](https://bsky.app/profile/fbgallet.bsky.social)**.
+
 ## Licensing
 
 - **Data and documentation** (`data/`, `*.md`): [Creative Commons Attribution-ShareAlike 4.0](LICENSE) (CC BY-SA 4.0). You may share and adapt them, including commercially, provided you credit *Philoscopia — Fabrice Gallet* and license your derivatives under the same terms.

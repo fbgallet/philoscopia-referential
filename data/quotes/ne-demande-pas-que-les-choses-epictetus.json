@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Épictète", "en": "Epictetus" }, "kind": "PHILOSOPHER", "slug": "epictetus" },
   "work": "enchiridion-epictetus",
   "source": { "fr": "Manuel, §8", "en": "Enchiridion, §8" },
-  "anchors": [{ "axisId": "DESIRE" }],
+  "anchors": [{ "axisId": "DESIRE", "poleId": "DETACHMENT" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

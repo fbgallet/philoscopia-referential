@@ -48,11 +48,15 @@ Philosophy delivers neither truths about the world nor recipes for living: it te
 
 - *Understanding the world* · for : [Theoria, the highest activity](../arguments/contemplation-theoria.md)
 - *Understanding the world* · against : [The owl of Minerva comes too late](../arguments/contemplation-eleventh-thesis-objection.md)
+- *Understanding the world* · against : [Science has taken over](../arguments/contemplation-science-takeover-objection.md)
 - *Changing the world* · for : [Transform, not merely interpret](../arguments/world-transformation-praxis.md)
 - *Changing the world* · against : [To act without understanding is to act blind](../arguments/world-transformation-blind-praxis-objection.md)
+- *Changing the world* · against : [An opinion on everything, knowledge of nothing](../arguments/world-transformation-punditry-objection.md)
 - *Transforming oneself* · for : [Philosophy as a way of life](../arguments/self-transformation-way-of-life.md)
 - *Transforming oneself* · against : [To heal oneself, or to seek the truth?](../arguments/self-transformation-consolation-objection.md)
+- *Transforming oneself* · against : [Self-help does it better](../arguments/self-transformation-self-help-objection.md)
 - *Clarifying thought* · for : [Dissolving pseudo-problems](../arguments/clarification-dissolve-confusions.md)
+- *Clarifying thought* · against : [Professors of philosophy, not philosophers](../arguments/clarification-professors-objection.md)
 - *Clarifying thought* · against : [Do not throw out the real questions](../arguments/clarification-real-questions-objection.md)
 
 ## Quotations

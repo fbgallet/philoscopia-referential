@@ -3,6 +3,6 @@
   "text": { "fr": "Il n'y a de liberté qu'engagée, et qui se veut en voulant le dévoilement de l'être à travers un monde.", "en": "There is freedom only as engaged, willing itself by willing the disclosure of being through a world." },
   "author": { "name": { "fr": "Beauvoir", "en": "Beauvoir" }, "kind": "PHILOSOPHER", "slug": "beauvoir" },
   "source": { "fr": "Pour une morale de l'ambiguïté", "en": "The Ethics of Ambiguity" },
-  "anchors": [{ "axisId": "FREEDOM" }],
+  "anchors": [{ "axisId": "FREEDOM", "poleId": "FREE_WILL" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

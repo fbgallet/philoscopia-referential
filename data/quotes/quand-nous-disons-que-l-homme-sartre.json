@@ -3,6 +3,6 @@
   "text": { "fr": "Quand nous disons que l'homme se choisit, nous entendons que chacun d'entre nous se choisit, mais par là nous voulons dire aussi qu'en se choisissant il choisit tous les hommes.", "en": "When we say that man chooses himself, we mean that each of us chooses himself, but by that we also mean that in choosing himself he chooses all men." },
   "author": { "name": { "fr": "Sartre", "en": "Sartre" }, "kind": "PHILOSOPHER", "slug": "sartre" },
   "source": { "fr": "L'existentialisme est un humanisme", "en": "Existentialism Is a Humanism" },
-  "anchors": [{ "axisId": "MORAL_SCOPE" }],
+  "anchors": [{ "axisId": "MORAL_SCOPE", "poleId": "CONSTRUCTIVISM" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

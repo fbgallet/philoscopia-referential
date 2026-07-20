@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Épicure", "en": "Epicurus" }, "kind": "PHILOSOPHER", "slug": "epicurus" },
   "work": "principal-doctrines-epicurus",
   "source": { "fr": "Maximes capitales, XXVII", "en": "Principal Doctrines, XXVII" },
-  "anchors": [{ "axisId": "LOVE_NATURE" }],
+  "anchors": [{ "axisId": "LOVE_NATURE", "poleId": "PHILIA" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

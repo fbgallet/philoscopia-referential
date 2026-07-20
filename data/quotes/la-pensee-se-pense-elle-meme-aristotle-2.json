@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" },
   "work": "metaphysics-aristotle",
   "source": { "fr": "Métaphysique, Λ (livre XII), 9, 1074b", "en": "Metaphysics, Λ (book XII), 9, 1074b" },
-  "anchors": [{ "axisId": "GOD_EXISTENCE" }],
+  "anchors": [{ "axisId": "GOD_EXISTENCE", "poleId": "THEISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

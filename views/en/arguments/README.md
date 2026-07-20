@@ -124,13 +124,17 @@
 ## [The point of philosophy](../axes/metaphilosophy.md)
 
 - [Dissolving pseudo-problems](clarification-dissolve-confusions.md) (for « Clarifying thought »)
+- [Professors of philosophy, not philosophers](clarification-professors-objection.md) (against « Clarifying thought »)
 - [Do not throw out the real questions](clarification-real-questions-objection.md) (against « Clarifying thought »)
 - [The owl of Minerva comes too late](contemplation-eleventh-thesis-objection.md) (against « Understanding the world »)
+- [Science has taken over](contemplation-science-takeover-objection.md) (against « Understanding the world »)
 - [Theoria, the highest activity](contemplation-theoria.md) (for « Understanding the world »)
 - [To heal oneself, or to seek the truth?](self-transformation-consolation-objection.md) (against « Transforming oneself »)
+- [Self-help does it better](self-transformation-self-help-objection.md) (against « Transforming oneself »)
 - [Philosophy as a way of life](self-transformation-way-of-life.md) (for « Transforming oneself »)
 - [To act without understanding is to act blind](world-transformation-blind-praxis-objection.md) (against « Changing the world »)
 - [Transform, not merely interpret](world-transformation-praxis.md) (for « Changing the world »)
+- [An opinion on everything, knowledge of nothing](world-transformation-punditry-objection.md) (against « Changing the world »)
 
 ## [Moral circle](../axes/moral-circle.md)
 
@@ -142,6 +146,14 @@
 - [The land ethic](ecocentrism-land-ethic.md) (for « Ecocentrism »)
 - ['Can they suffer?'](pathocentrism-can-they-suffer.md) (for « Pathocentrism »)
 - [Sentience, an arbitrary boundary?](pathocentrism-reverence-objection.md) (against « Pathocentrism »)
+
+## [Moral demandingness](../axes/moral-demand.md)
+
+- [A life of one's own](maximalism-demandingness-objection.md) (against « Maximalism »)
+- [The pond is not the world](maximalism-pond-disanalogy-objection.md) (against « Maximalism »)
+- [Preventing harm when one can](maximalism-prevent-harm.md) (for « Maximalism »)
+- [Letting die is not innocent](minimalism-acts-omissions-objection.md) (against « Minimalism »)
+- [The harm principle](minimalism-harm-principle.md) (for « Minimalism »)
 
 ## [Partiality](../axes/partiality.md)
 
@@ -175,10 +187,13 @@
 
 ## [The highest good](../axes/sovereign-good.md)
 
+- [Realizing yourself against others](eudaimonism-comparative-self.md) (against « Eudaimonism »)
 - [The function argument (ergon)](eudaimonism-function-argument.md) (for « Eudaimonism »)
 - [Existence without essence](eudaimonism-no-function-objection.md) (against « Eudaimonism »)
 - [The cradle argument](hedonism-cradle-argument.md) (for « Hedonism »)
 - [From desired to desirable](hedonism-natural-not-good-objection.md) (against « Hedonism »)
+- [The great diversion](hedonism-sport-divertissement.md) (against « Hedonism »)
+- [The cult of self-overcoming](perfectionism-cult-of-performance.md) (against « Virtue / moral perfectionism »)
 - [The only unconditional good](perfectionism-unconditional-good.md) (for « Virtue / moral perfectionism »)
 - [Unconditional is not total](perfectionism-unconditional-not-whole-objection.md) (against « Virtue / moral perfectionism »)
 

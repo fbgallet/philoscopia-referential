@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Bacon", "en": "Bacon" }, "kind": "PHILOSOPHER", "slug": "bacon" },
   "work": "essays-bacon",
   "source": { "fr": "Essais, « De l'athéisme »", "en": "Essays, \"Of Atheism\"" },
-  "anchors": [{ "axisId": "GOD_EXISTENCE" }],
+  "anchors": [{ "axisId": "GOD_EXISTENCE", "poleId": "THEISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

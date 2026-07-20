@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Camus", "en": "Camus" }, "kind": "PHILOSOPHER", "slug": "camus" },
   "work": "the-rebel-camus",
   "source": { "fr": "L'Homme révolté (1951)", "en": "The Rebel (1951)" },
-  "anchors": [{ "axisId": "PAST_RELATION" }],
+  "anchors": [{ "axisId": "PAST_RELATION", "poleId": "REVOLT" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

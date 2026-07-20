@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Charles Sanders Peirce", "en": "Charles Sanders Peirce" }, "kind": "PHILOSOPHER", "slug": "peirce" },
   "work": "how-to-make-our-ideas-clear-peirce",
   "source": { "fr": "Comment rendre nos idées claires (1878)", "en": "How to Make Our Ideas Clear (1878)" },
-  "anchors": [{ "axisId": "TRUTH_NATURE" }],
+  "anchors": [{ "axisId": "TRUTH_NATURE", "poleId": "PRAGMATISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

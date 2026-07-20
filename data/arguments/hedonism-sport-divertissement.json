@@ -1,0 +1,110 @@
+{
+  "id": "hedonism-sport-divertissement",
+  "kind": "OBJECTS",
+  "position": { "axisId": "SOVEREIGN_GOOD", "poleId": "HEDONISM" },
+  "name": { "fr": "Le grand divertissement", "en": "The great diversion" },
+  "attacks": "POSITION",
+  "claim": {
+    "fr": "Le plaisir du sport, le pratiquer ou le regarder, est un divertissement au sens de Pascal : un bruit qui nous détourne de nous-mêmes.",
+    "en": "The pleasure of sport, playing it or watching it, is a diversion in Pascal's sense: a noise that turns us away from ourselves."
+  },
+  "summary": {
+    "fr": "Le plaisir pris au sport, l'ivresse de l'effort, le frisson du supporter, remplit le vide sans le combler. C'est le divertissement de Pascal : nous nous étourdissons pour ne pas affronter notre condition. Une vie faite de ces plaisirs fuit les questions qui comptent au lieu d'y répondre.",
+    "en": "The pleasure taken in sport, the rush of effort, the thrill of the fan, fills the void without filling it in. It is Pascal's diversion: we stun ourselves so as not to face our condition. A life made of these pleasures flees the questions that matter instead of answering them."
+  },
+  "development": [
+    {
+      "fr": "La voie du plaisir tient la jouissance pour le bien : la joie de courir, l'endorphine, l'excitation du match seraient à eux seuls de quoi faire une vie heureuse.",
+      "en": "The path of pleasure holds enjoyment to be the good: the joy of running, the endorphins, the excitement of the match would be, on their own, enough to make a happy life."
+    },
+    {
+      "fr": "Mais <ph id='pascal'>Pascal</ph> nous avertit : l'homme ne sait pas demeurer en repos dans une chambre. Il lui faut du bruit, de l'agitation, un lièvre à courir, non pour la prise, mais pour ne pas voir sa condition. C'est ce qu'il nomme le <c id='divertissement'>divertissement</c>.",
+      "en": "But <ph id='pascal'>Pascal</ph> warns us: a human being cannot stay quietly in a room. They need noise, stir, a hare to chase, not for the catch, but so as not to see their condition. This is what he calls <c id='divertissement'>diversion</c>."
+    },
+    {
+      "fr": "Or le sport en est la forme achevée : l'effort qui vide la tête, le stade qui fait crier des foules, le classement qu'on rafraîchit. Le plaisir du supporter est même un plaisir par procuration, l'émotion d'un exploit qui n'est pas le sien.",
+      "en": "And sport is its finished form: the effort that empties the head, the stadium that makes crowds roar, the ranking one keeps refreshing. The fan's pleasure is even a pleasure by proxy, the emotion of a feat that is not their own."
+    },
+    {
+      "fr": "Ce plaisir n'est donc pas un mal, mais une fuite : il remplit le temps pour qu'on ne le sente pas vide, et une vie tout entière remise à ces émotions passe à côté de ce qui, en elle, demandait à être regardé en face.",
+      "en": "This pleasure is therefore not an evil, but a flight: it fills time so that we do not feel it empty, and a whole life handed over to these emotions passes by what, within it, called to be faced."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc ériger ce plaisir en souverain bien, c'est prendre l'étourdissement pour le bonheur : le divertissement apaise l'inquiétude un instant, il ne la résout jamais.",
+    "en": "So to set up this pleasure as the highest good is to take dizziness for happiness: diversion soothes our unease for a moment, it never resolves it."
+  },
+  "deepenings": [
+    {
+      "id": "why-we-flee-rest",
+      "label": { "fr": "Pourquoi nous fuyons le repos", "en": "Why we flee rest" },
+      "targetStep": 1,
+      "summary": {
+        "fr": "Pascal remarque qu'on aime la chasse plus que la prise, l'agitation plus que le but : ce n'est pas le gibier qu'on cherche, c'est de n'avoir pas à s'arrêter.",
+        "en": "Pascal observes that we love the hunt more than the catch, the stir more than the goal: it is not the game we seek, it is not having to stop."
+      },
+      "development": [
+        {
+          "fr": "<ph id='pascal'>Pascal</ph> le montre par un paradoxe : offrez au chasseur le lièvre sans la chasse, il le refuse. Ce n'est donc pas la prise qu'il veut, mais la poursuite, tout ce qui l'empêche de penser.",
+          "en": "<ph id='pascal'>Pascal</ph> shows it by a paradox: offer the hunter the hare without the hunt, and he refuses it. It is not the catch he wants, then, but the pursuit, all that keeps him from thinking."
+        },
+        {
+          "fr": "Laissé sans occupation, l'homme sent monter l'ennui, et derrière lui l'angoisse de sa finitude. Le divertissement est ce voile jeté sur le repos, précisément parce que le repos nous rendrait à nous-mêmes.",
+          "en": "Left with nothing to do, a person feels boredom rise, and behind it the dread of their finitude. Diversion is that veil thrown over rest, precisely because rest would return us to ourselves."
+        }
+      ],
+      "source": {
+        "author": { "fr": "Pascal", "en": "Pascal" },
+        "figures": [{ "name": { "fr": "Pascal", "en": "Pascal" }, "kind": "PHILOSOPHER", "slug": "pascal" }],
+        "work": { "fr": "Pensées", "en": "Pensées" },
+        "year": 1670
+      }
+    }
+  ],
+  "difficulty": 2,
+  "source": {
+    "author": { "fr": "Pascal", "en": "Pascal" },
+    "figures": [{ "name": { "fr": "Pascal", "en": "Pascal" }, "kind": "PHILOSOPHER", "slug": "pascal" }],
+    "work": { "fr": "Pensées", "en": "Pensées" },
+    "year": 1670
+  },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est vrai : les seules sensations fortes finissent par sonner creux. Une vie bonne me demande quelque chose que je construis, pas seulement que je ressens.",
+        "en": "True: strong sensations alone end up ringing hollow. A good life asks of me something I build, not only something I feel."
+      },
+      "hints": [{ "axisId": "SOVEREIGN_GOOD", "value": { "kind": "weights", "weights": [0.2, 0.6, 0.2] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous passez du plaisir à l'<c id='eudaimonism'>accomplissement</c> : ce qu'on bâtit tient mieux qu'un frisson qui retombe.",
+        "en": "You move from pleasure to <c id='eudaimonism'>fulfillment</c>: what one builds holds better than a thrill that fades."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je tiens la joie de jouer pour un vrai bien, mais je l'accorde : tout plaisir n'est pas bon à prendre, et certains ne sont qu'une fuite.",
+        "en": "I hold the joy of play to be a real good, but I grant it: not every pleasure is worth taking, and some are only a flight."
+      },
+      "hints": [{ "axisId": "SOVEREIGN_GOOD", "value": { "kind": "weights", "weights": [0.6, 0.25, 0.15] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous triez déjà vos plaisirs : la joie vivante du corps qui joue n'est pas l'étourdissement du spectateur.",
+        "en": "You are already sorting your pleasures: the living joy of a body at play is not the spectator's dizziness."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "La joie du corps qui court et qui joue n'est pas une fuite, c'est la vie même. Le soupçon de Pascal vise l'agitation vide, pas un plaisir qui me rend présent au monde et à moi.",
+        "en": "The joy of a body that runs and plays is not a flight, it is life itself. Pascal's suspicion targets empty agitation, not a pleasure that makes me present to the world and to myself."
+      },
+      "hints": [{ "axisId": "SOVEREIGN_GOOD", "value": { "kind": "weights", "weights": [1, 0, 0] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous distinguez le divertissement qui endort et le plaisir qui éveille : jouer peut être une présence, non une fuite.",
+        "en": "You distinguish the diversion that dulls from the pleasure that wakes: to play can be a presence, not a flight."
+      }
+    }
+  ],
+  "updatedAt": "2026-07-18T00:00:00.000Z"
+}

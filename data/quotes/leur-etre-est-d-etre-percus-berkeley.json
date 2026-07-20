@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "George Berkeley", "en": "George Berkeley" }, "kind": "PHILOSOPHER", "slug": "berkeley" },
   "work": "principles-of-human-knowledge-berkeley",
   "source": { "fr": "Principes de la connaissance humaine, §3", "en": "Principles of Human Knowledge, §3" },
-  "anchors": [{ "axisId": "REALITY_NATURE" }],
+  "anchors": [{ "axisId": "REALITY_NATURE", "poleId": "IDEALISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

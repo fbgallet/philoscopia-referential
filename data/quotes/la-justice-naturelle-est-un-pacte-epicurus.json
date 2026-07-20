@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Épicure", "en": "Epicurus" }, "kind": "PHILOSOPHER", "slug": "epicurus" },
   "work": "principal-doctrines-epicurus",
   "source": { "fr": "Maximes capitales, XXXI", "en": "Principal Doctrines, XXXI" },
-  "anchors": [{ "axisId": "SOCIAL_CONTRACT" }],
+  "anchors": [{ "axisId": "SOCIAL_CONTRACT", "poleId": "CONTRACTUALISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

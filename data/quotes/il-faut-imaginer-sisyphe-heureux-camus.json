@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Camus", "en": "Camus" }, "kind": "PHILOSOPHER", "slug": "camus" },
   "work": "the-myth-of-sisyphus-camus",
   "source": { "fr": "Le Mythe de Sisyphe (1942)", "en": "The Myth of Sisyphus (1942)" },
-  "anchors": [{ "axisId": "LIFE_MEANING" }],
+  "anchors": [{ "axisId": "LIFE_MEANING", "poleId": "ABSURDISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

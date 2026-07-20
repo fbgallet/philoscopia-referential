@@ -1,0 +1,65 @@
+{
+  "id": "maximalism-prevent-harm",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "MORAL_DEMAND", "poleId": "MAXIMALISM" },
+  "name": { "fr": "Empêcher le mal quand on le peut", "en": "Preventing harm when one can" },
+  "claim": {
+    "fr": "Si je peux empêcher un grand mal au prix d'un sacrifice mineur, je dois le faire, où que soit la victime : nos devoirs ne s'arrêtent pas à l'abstention de nuire.",
+    "en": "If I can prevent a great harm at the cost of a minor sacrifice, I ought to do so, wherever the victim may be: our duties do not stop at refraining from harm."
+  },
+  "summary": {
+    "fr": "La souffrance et la mort évitables sont des maux ; si nous pouvons les empêcher sans rien sacrifier de comparable, nous le devons. Et ce principe ne connaît pas de frontière : ni la distance, ni le nombre, ni l'inaction des autres n'atténuent l'obligation.",
+    "en": "Avoidable suffering and death are evils; if we can prevent them without sacrificing anything comparable, we ought to. And this principle knows no border: neither distance, nor number, nor others' inaction lessens the obligation."
+  },
+  "development": [
+    {
+      "fr": "La souffrance et la mort par manque de nourriture, d'abri ou de soins sont des maux : nul ne le conteste.",
+      "en": "Suffering and death for want of food, shelter, or care are evils: no one disputes it."
+    },
+    {
+      "fr": "Or si nous pouvons empêcher un tel mal sans sacrifier rien de comparable, un peu d'argent, un peu de confort, nous devons le faire : c'est ce que chacun sent devant <te id='drowning-child'>l'enfant qui se noie</te>. Refuser ce principe, c'est dire qu'un enfant qui meurt compte moins que nos petits agréments.",
+      "en": "Now if we can prevent such an evil without sacrificing anything comparable, a little money, a little comfort, we ought to do so: it is what everyone feels before <te id='drowning-child'>the drowning child</te>. To refuse this principle is to say that a dying child counts for less than our small comforts."
+    },
+    {
+      "fr": "Ce principe ne connaît pas de frontière : ni l'éloignement, ni le fait que d'autres pourraient aider, ni le nombre des victimes n'atténuent l'obligation ; ce qui compte est que je puisse agir, et à quel coût.",
+      "en": "This principle knows no border: neither remoteness, nor the fact that others could help, nor the number of victims lessens the obligation; what counts is that I can act, and at what cost."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la morale exige bien plus que « ne pas nuire » : tant qu'un grand mal reste évitable à un coût modeste, ne pas agir, c'est y consentir. L'aide aux plus démunis, où qu'ils soient, est un <ax id='PARTIALITY' pole='IMPARTIALISM'>devoir</ax>, non une faveur.",
+    "en": "So morality demands far more than 'do no harm': as long as a great evil remains preventable at a modest cost, not acting is consenting to it. Helping the most destitute, wherever they are, is a <ax id='PARTIALITY' pole='IMPARTIALISM'>duty</ax>, not a favor."
+  },
+  "deepenings": [
+    {
+      "id": "why-distance-does-not-count",
+      "label": { "fr": "Pourquoi la distance ne compte pas", "en": "Why distance does not count" },
+      "targetStep": 2,
+      "development": [
+        {
+          "fr": "La proximité n'a jamais été une raison morale, seulement une limite pratique : jadis on ne pouvait ni savoir ni agir au loin.",
+          "en": "Proximity was never a moral reason, only a practical limit: once, one could neither know nor act at a distance."
+        },
+        {
+          "fr": "Aujourd'hui qu'on le peut, l'excuse tombe : la mort d'un enfant ne pèse pas moins parce qu'elle a lieu à dix mille kilomètres, et un virement l'atteint aussi sûrement qu'un bras tendu.",
+          "en": "Now that one can, the excuse falls: a child's death weighs no less for happening ten thousand kilometers away, and a transfer reaches him as surely as an outstretched arm."
+        }
+      ],
+      "source": {
+        "author": { "fr": "Singer", "en": "Singer" },
+        "figures": [{ "name": { "fr": "Singer", "en": "Singer" }, "kind": "PHILOSOPHER", "slug": "singer" }],
+        "work": { "fr": "« Famine, richesse et morale »", "en": "'Famine, Affluence, and Morality'" },
+        "year": 1972
+      }
+    }
+  ],
+  "difficulty": 1,
+  "source": {
+    "author": { "fr": "Singer", "en": "Singer" },
+    "figures": [{ "name": { "fr": "Singer", "en": "Singer" }, "kind": "PHILOSOPHER", "slug": "singer" }],
+    "work": { "fr": "« Famine, richesse et morale »", "en": "'Famine, Affluence, and Morality'" },
+    "year": 1972
+  },
+  "test": "maximalism-demandingness-objection",
+  "problems": ["rescue-at-distance", "acts-and-omissions", "charity-or-justice"],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

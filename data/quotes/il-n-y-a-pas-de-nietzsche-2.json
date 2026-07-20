@@ -3,6 +3,6 @@
   "text": { "fr": "Il n'y a pas de faits, seulement des interprétations.", "en": "There are no facts, only interpretations." },
   "author": { "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" },
   "source": { "fr": "Fragments posthumes, automne 1885-1886, 7[60]", "en": "Posthumous Fragments, autumn 1885-1886, 7[60]" },
-  "anchors": [{ "axisId": "CERTAINTY" }],
+  "anchors": [{ "axisId": "CERTAINTY", "poleId": "SKEPTICISM" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

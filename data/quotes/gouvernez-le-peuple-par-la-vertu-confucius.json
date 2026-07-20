@@ -3,6 +3,6 @@
   "text": { "fr": "Gouvernez le peuple par la vertu, maintenez-le par les rites, et il aura le sentiment de l'honneur et viendra à vous.", "en": "Lead the people by virtue, keep them in order by the rites, and they will have a sense of shame and come to you." },
   "author": { "name": { "fr": "Confucius", "en": "Confucius" }, "kind": "PHILOSOPHER", "slug": "confucius" },
   "source": { "fr": "Entretiens, II, 3", "en": "Analects, II, 3" },
-  "anchors": [{ "axisId": "AUTHORITY" }],
+  "anchors": [{ "axisId": "AUTHORITY", "poleId": "AUTHORITY" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

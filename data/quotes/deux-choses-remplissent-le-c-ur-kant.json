@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" },
   "work": "critique-of-practical-reason-kant",
   "source": { "fr": "Critique de la raison pratique, Conclusion", "en": "Critique of Practical Reason, Conclusion" },
-  "anchors": [{ "axisId": "HOPE" }],
+  "anchors": [{ "axisId": "HOPE", "poleId": "HOPE_PRINCIPLE" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

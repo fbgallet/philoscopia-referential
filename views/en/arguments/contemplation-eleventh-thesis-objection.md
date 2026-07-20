@@ -14,7 +14,7 @@
 2. But all thought arises from a situation and a balance of forces: to describe the existing order as 'rational' or 'natural' is already to legitimize it; to call oneself neutral is to take the side of what is.
 3. The owl of Minerva takes flight only at dusk: contemplation always comes too late, when a form of life is already over. To understand without acting is to leave the world as it is, hence to consent to its injustices.
 
-**⇒** So interpreting the world is not enough: a thought that changes nothing of it is not neutral but complicit; its true task is to transform what it understands.
+**⇒** So contemplation fails its own claim: to stand above the parties is already to take a side, and the 'pure' gaze upon the world silently consents to what is.
 
 ## Ways out of the objection
 

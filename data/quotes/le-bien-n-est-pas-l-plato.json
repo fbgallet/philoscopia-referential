@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Platon", "en": "Plato" }, "kind": "PHILOSOPHER", "slug": "plato" },
   "work": "republic-plato",
   "source": { "fr": "République, VI, 509b", "en": "Republic, VI, 509b" },
-  "anchors": [{ "axisId": "TRANSCENDENCE" }],
+  "anchors": [{ "axisId": "TRANSCENDENCE", "poleId": "TRANSCENDENCE" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

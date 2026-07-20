@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Sénèque", "en": "Seneca" }, "kind": "PHILOSOPHER", "slug": "seneca" },
   "work": "letters-to-lucilius-seneca",
   "source": { "fr": "Lettres à Lucilius, II", "en": "Letters to Lucilius, II" },
-  "anchors": [{ "axisId": "DESIRE" }],
+  "anchors": [{ "axisId": "DESIRE", "poleId": "DETACHMENT" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

@@ -3,6 +3,6 @@
   "text": { "fr": "La révolution sociale du XIXe siècle ne peut tirer sa poésie du passé, mais seulement de l'avenir.", "en": "The social revolution of the nineteenth century cannot draw its poetry from the past, but only from the future." },
   "author": { "name": { "fr": "Marx", "en": "Marx" }, "kind": "PHILOSOPHER", "slug": "marx" },
   "source": { "fr": "Le 18 Brumaire de Louis Bonaparte, 1852", "en": "The Eighteenth Brumaire of Louis Bonaparte, 1852" },
-  "anchors": [{ "axisId": "TIME_ORIENTATION" }],
+  "anchors": [{ "axisId": "TIME_ORIENTATION", "poleId": "PROJECT" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

@@ -3,6 +3,6 @@
   "text": { "fr": "La nature humaine n'est pas une machine que l'on construit sur un modèle, mais un arbre qui doit croître et se développer de tous côtés.", "en": "Human nature is not a machine to be built after a model, but a tree, which requires to grow and develop itself on all sides." },
   "author": { "name": { "fr": "Mill", "en": "Mill" }, "kind": "PHILOSOPHER", "slug": "mill" },
   "source": { "fr": "De la liberté, ch. 3", "en": "On Liberty, ch. 3" },
-  "anchors": [{ "axisId": "INDIVIDUAL_SOCIETY" }],
+  "anchors": [{ "axisId": "INDIVIDUAL_SOCIETY", "poleId": "INDIVIDUALISM" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Lucrèce", "en": "Lucretius" }, "kind": "PHILOSOPHER", "slug": "lucretius" },
   "work": "on-the-nature-of-things-lucretius",
   "source": { "fr": "De la nature des choses, IV, 833-835", "en": "On the Nature of Things, IV, 833-835" },
-  "anchors": [{ "axisId": "CAUSALITY" }],
+  "anchors": [{ "axisId": "CAUSALITY", "poleId": "MECHANISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Lucrèce", "en": "Lucretius" }, "kind": "PHILOSOPHER", "slug": "lucretius" },
   "work": "on-the-nature-of-things-lucretius",
   "source": { "fr": "De la nature des choses, II, 251-260", "en": "On the Nature of Things, II, 251-260" },
-  "anchors": [{ "axisId": "FREEDOM" }],
+  "anchors": [{ "axisId": "FREEDOM", "poleId": "FREE_WILL" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

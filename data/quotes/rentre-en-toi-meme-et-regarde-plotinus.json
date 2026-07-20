@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Plotin", "en": "Plotinus" }, "kind": "PHILOSOPHER", "slug": "plotinus" },
   "work": "enneads-plotinus",
   "source": { "fr": "Ennéades, I, 6, 9", "en": "Enneads, I, 6, 9" },
-  "anchors": [{ "axisId": "INTERIORITY" }],
+  "anchors": [{ "axisId": "INTERIORITY", "poleId": "EXAMINED_LIFE" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

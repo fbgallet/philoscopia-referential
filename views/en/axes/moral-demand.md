@@ -32,6 +32,14 @@ Morality demands a great deal: if I can prevent a great harm at a modest cost to
 - **Charity or justice** : If distant misery stems from unjust institutions we benefit from, giving is no longer enough: the duty would be to repair and transform the order, not to give alms. Is individual giving a duty, or the alibi of an ongoing injustice?
 - **What a human being can bear** : Does a demand beyond our strength breed discouragement and hypocrisy, or must the ideal exceed what we are precisely in order to pull us upward? What morality may ask depends on what human beings can give.
 
+## Arguments
+
+- *Minimalism* · for : [The harm principle](../arguments/minimalism-harm-principle.md)
+- *Minimalism* · against : [Letting die is not innocent](../arguments/minimalism-acts-omissions-objection.md)
+- *Maximalism* · for : [Preventing harm when one can](../arguments/maximalism-prevent-harm.md)
+- *Maximalism* · against : [A life of one's own](../arguments/maximalism-demandingness-objection.md)
+- *Maximalism* · against : [The pond is not the world](../arguments/maximalism-pond-disanalogy-objection.md)
+
 ## Quotations
 
 > “Waste no more time arguing what a good man should be. Be one.” — [Marcus Aurelius](../philosophers/marcus-aurelius.md), Meditations, X, 16

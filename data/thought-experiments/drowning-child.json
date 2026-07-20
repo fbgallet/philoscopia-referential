@@ -1,0 +1,137 @@
+{
+  "id": "drowning-child",
+  "title": {
+    "fr": "L'enfant qui se noie",
+    "en": "The Drowning Child"
+  },
+  "description": {
+    "fr": "Vous passez près d'un étang peu profond quand vous apercevez un enfant en train de s'y noyer. Vous pourriez entrer dans l'eau et le sauver sans aucun danger : vous n'y perdriez que vos vêtements, salis ou abîmés, et un rendez-vous manqué. Personne d'autre n'est en vue. Chacun juge qu'un passant qui poursuivrait son chemin pour rester sec serait un monstre. Mais au même moment, ailleurs dans le monde, des enfants meurent de faim ou de maladies évitables, qu'un don modeste suffirait peut-être à sauver.",
+    "en": "You are walking past a shallow pond when you notice a child drowning in it. You could wade in and save the child at no danger to yourself: you would lose only your clothes, muddied or ruined, and a missed appointment. No one else is in sight. Everyone judges that a passer-by who walked on to stay dry would be a monster. Yet at that very moment, elsewhere in the world, children are dying of hunger or preventable disease, whom a modest donation might suffice to save."
+  },
+  "source": {
+    "author": { "fr": "Singer", "en": "Singer" },
+    "work": { "fr": "« Famine, richesse et morale »", "en": "'Famine, Affluence, and Morality'" },
+    "year": 1972
+  },
+  "question": {
+    "fr": "Si l'omission est une faute au bord de l'étang, l'est-elle aussi à distance ? Que nous doit la morale, au juste ?",
+    "en": "If the omission is a wrong at the edge of the pond, is it also one at a distance? What exactly does morality require of us?"
+  },
+  "axisIds": ["MORAL_DEMAND"],
+  "options": [
+    {
+      "id": "rescue-and-beyond",
+      "label": {
+        "fr": "Il faut le sauver, et la leçon vaut au-delà : chaque fois qu'un sacrifice modeste peut empêcher un grand mal, ici ou au loin, je le dois.",
+        "en": "You must save him, and the lesson carries beyond: whenever a modest sacrifice can prevent a great harm, here or far away, I ought to make it."
+      },
+      "hints": [
+        { "axisId": "MORAL_DEMAND", "value": { "kind": "scalar", "value": 1 } }
+      ],
+      "discussion": {
+        "fr": "<ph id='singer'>Singer</ph> : la distance ne change rien au devoir ; ne pas donner, c'est laisser l'enfant dans l'étang.",
+        "en": "<ph id='singer'>Singer</ph>: distance changes nothing about the duty; not giving is leaving the child in the pond."
+      }
+    },
+    {
+      "id": "rescue-here-only",
+      "label": {
+        "fr": "Il faut le sauver, mais parce qu'il est là, sous mes yeux, et que je suis seul à pouvoir agir : cela ne fait pas de moi le débiteur de toute la misère du monde.",
+        "en": "You must save him, but because he is here, before my eyes, and I alone can act: that does not make me the debtor of all the world's misery."
+      },
+      "hints": [
+        { "axisId": "MORAL_DEMAND", "value": { "kind": "scalar", "value": -0.5 } }
+      ],
+      "discussion": {
+        "fr": "le secours d'urgence est un devoir strict ; la misère durable et lointaine relève d'autres réponses, collectives, que le seul don individuel.",
+        "en": "emergency rescue is a strict duty; lasting, distant misery calls for other answers, collective ones, beyond individual giving."
+      }
+    },
+    {
+      "id": "admirable-not-owed",
+      "label": {
+        "fr": "Je le sauverais, bien sûr ; mais au-delà du secours d'urgence, donner relève de la générosité, non du devoir : nul ne peut me l'exiger.",
+        "en": "I would save him, of course; but beyond emergency rescue, giving is a matter of generosity, not of duty: no one may demand it of me."
+      },
+      "hints": [
+        { "axisId": "MORAL_DEMAND", "value": { "kind": "scalar", "value": -1 } }
+      ],
+      "discussion": {
+        "fr": "le minimalisme : le devoir strict s'arrête à ne pas nuire et au secours immédiat ; le reste est vertu, qu'on admire sans l'exiger.",
+        "en": "minimalism: strict duty stops at not harming and immediate rescue; the rest is virtue, admired but not required."
+      }
+    }
+  ],
+  "roles": [
+    {
+      "role": "OBJECTS",
+      "position": { "axisId": "MORAL_DEMAND", "poleId": "MINIMALISM" },
+      "attacks": "POSITION",
+      "argumentId": "minimalism-harm-principle",
+      "problems": ["rescue-at-distance", "acts-and-omissions"],
+      "summary": {
+        "fr": "Le minimaliste lui-même juge monstrueux le passant qui laisse l'enfant se noyer pour rester sec ; or ce passant n'a nui à personne. Le « ne pas nuire » ne couvre donc pas ce que le minimaliste lui-même exige.",
+        "en": "The minimalist himself judges monstrous the passer-by who lets the child drown to stay dry; yet that passer-by harmed no one. 'Do no harm' thus fails to cover what the minimalist himself demands."
+      },
+      "reconstruction": {
+        "development": [
+          {
+            "fr": "Un enfant se noie dans un étang peu profond devant vous ; le sauver ne coûte que des vêtements salis. Le minimaliste lui-même juge qu'un passant qui s'abstiendrait pour rester sec serait un monstre — pourtant ce passant n'a nui à personne.",
+            "en": "A child is drowning in a shallow pond before you; saving him costs only muddied clothes. The minimalist himself judges that a passer-by who refrained in order to stay dry would be a monster — yet that passer-by has harmed no one."
+          },
+          {
+            "fr": "Ce jugement engage un principe : quand on peut empêcher un grand mal au prix d'un sacrifice mineur, s'abstenir est une faute. Le « ne pas nuire » ne couvre donc pas tout ce que nous jugeons nous-mêmes exigible.",
+            "en": "That judgment commits us to a principle: when one can prevent a great harm at the cost of a minor sacrifice, refraining is a wrong. 'Do no harm' thus fails to cover all that we ourselves judge to be required."
+          },
+          {
+            "fr": "Or ni la distance, ni le nombre, ni le fait que d'autres pourraient agir ne semblent des raisons morales d'effacer ce principe : l'enfant lointain qu'un don suffirait à sauver est dans la situation de celui de l'étang.",
+            "en": "And neither distance, nor number, nor the fact that others could act seems a moral reason to erase that principle: the distant child whom a donation would suffice to save is in the situation of the one in the pond."
+          }
+        ],
+        "conclusion": {
+          "fr": "Donc le minimalisme échoue à son propre test : puisqu'il condamne le passant indifférent, il admet déjà que la morale exige plus que ne pas nuire.",
+          "en": "So minimalism fails its own test: since it condemns the indifferent passer-by, it already grants that morality demands more than not harming."
+        }
+      },
+      "responses": [
+        {
+          "id": "revise",
+          "label": {
+            "fr": "Je le reconnais : si l'omission est une faute au bord de l'étang, elle l'est aussi à distance. Ne pas nuire ne suffit pas, il faut aussi secourir.",
+            "en": "I grant it: if the omission is a wrong at the edge of the pond, it is one at a distance too. Not harming is not enough, one must also come to the rescue."
+          },
+          "hints": [{ "axisId": "MORAL_DEMAND", "value": { "kind": "scalar", "value": 0.6 }, "weight": 2 }],
+          "discussion": {
+            "fr": "Vous rejoignez <ph id='singer'>Singer</ph> : le devoir de secours s'étend aussi loin que porte notre pouvoir d'empêcher un grand mal à faible coût.",
+            "en": "You join <ph id='singer'>Singer</ph>: the duty of rescue extends as far as our power to prevent a great harm at small cost."
+          }
+        },
+        {
+          "id": "qualify",
+          "label": {
+            "fr": "J'ajoute au « ne pas nuire » un devoir de secours quand le mal est grave et le coût faible, sans en faire une exigence sans fin.",
+            "en": "I add to 'do no harm' a duty of rescue when the harm is grave and the cost small, without turning it into an endless demand."
+          },
+          "hints": [{ "axisId": "MORAL_DEMAND", "value": { "kind": "scalar", "value": 0 }, "weight": 1 }],
+          "discussion": {
+            "fr": "Un minimalisme élargi : le secours facile devient un devoir, mais borné, sans absorber toute la vie.",
+            "en": "A broadened minimalism: easy rescue becomes a duty, but a bounded one, without absorbing a whole life."
+          }
+        },
+        {
+          "id": "refute",
+          "label": {
+            "fr": "L'étang est trompeur : j'y suis seul, l'urgence unique, le coût ponctuel et l'effet certain. La misère du monde est permanente, incertaine et l'affaire de tous : le devoir strict s'arrête à ne pas nuire et au secours immédiat.",
+            "en": "The pond is misleading: there I am alone, the emergency single, the cost one-off and the effect certain. The world's misery is permanent, uncertain, and everyone's business: strict duty stops at not harming and immediate rescue."
+          },
+          "hints": [{ "axisId": "MORAL_DEMAND", "value": { "kind": "scalar", "value": -1 }, "weight": 0.5 }],
+          "discussion": {
+            "fr": "La réponse minimaliste : ce qui rendait le devoir évident, unicité, urgence, certitude, disparaît dans le cas global.",
+            "en": "The minimalist reply: what made the duty obvious, uniqueness, urgency, certainty, vanishes in the global case."
+          }
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

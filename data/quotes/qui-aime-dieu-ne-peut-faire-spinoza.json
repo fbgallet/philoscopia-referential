@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Spinoza", "en": "Spinoza" }, "kind": "PHILOSOPHER", "slug": "spinoza" },
   "work": "ethics-spinoza",
   "source": { "fr": "Éthique, V, prop. 19", "en": "Ethics, V, prop. 19" },
-  "anchors": [{ "axisId": "LOVE_NATURE" }],
+  "anchors": [{ "axisId": "LOVE_NATURE", "poleId": "PHILIA" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

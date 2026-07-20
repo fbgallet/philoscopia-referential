@@ -63,3 +63,7 @@ One session = one conversation = one journal entry. The skills share a common di
 Sessions also chain: each conversation opens with the server's `orient` tool (who you are — beginner, cultivated amateur or expert, your goals and motivations — where your carnet stands, the thread you left open) and can close by naming what to pick up next time (`log_session`'s `next`). Every skill scales its register to that user block: the same session is conducted very differently for someone clearing up a few questions and for a researcher digging a fine-grained problem.
 
 And a limit owned plainly: none of this replaces a living conversation with humans, the experience of reading the philosophers themselves, or actually living by one's principles. The skills are built to point toward all three, not to substitute for them.
+
+## Support & follow
+
+If this project is useful to you, you can support our work on **[Ko-fi](https://ko-fi.com/philoscopia)** (also via [GitHub Sponsors](https://github.com/sponsors/fbgallet)), and follow along on **[X (@fbgallet)](https://x.com/fbgallet)** and **[Bluesky (@fbgallet.bsky.social)](https://bsky.app/profile/fbgallet.bsky.social)**.

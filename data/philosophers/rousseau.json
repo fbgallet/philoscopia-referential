@@ -7,6 +7,10 @@
     "en": ["Rousseauian", "Rousseauist"]
   },
   "fullName": { "fr": "Jean-Jacques Rousseau", "en": "Jean-Jacques Rousseau" },
+  "tagline": {
+    "fr": "Un homme des <mv id='enlightenment'>Lumières</mv> en rupture avec elles : demander ce que la société a fait de l'homme, et à quelles conditions un ordre politique peut le rendre libre plutôt que le soumettre.",
+    "en": "A man of the <mv id='enlightenment'>Enlightenment</mv> at odds with it: asking what society has made of man, and on what terms a political order might set him free rather than subject him."
+  },
   "nationality": { "fr": "Genevois", "en": "Genevan" },
   "birth": 1712,
   "death": 1778,

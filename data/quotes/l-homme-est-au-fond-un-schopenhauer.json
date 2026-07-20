@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Schopenhauer", "en": "Schopenhauer" }, "kind": "PHILOSOPHER", "slug": "schopenhauer" },
   "work": "parerga-and-paralipomena-schopenhauer",
   "source": { "fr": "Parerga et Paralipomena, t. II, § 114 (« Sur l'éthique »)", "en": "Parerga and Paralipomena, vol. II, § 114 ('On Ethics')" },
-  "anchors": [{ "axisId": "HUMAN_VISION" }],
+  "anchors": [{ "axisId": "HUMAN_VISION", "poleId": "ANTHROPOLOGICAL_PESSIMISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

@@ -3,6 +3,6 @@
   "text": { "fr": "Les lois se maintiennent en crédit, non parce qu'elles sont justes, mais parce qu'elles sont lois.", "en": "Laws keep their credit not because they are just, but because they are laws." },
   "author": { "name": { "fr": "Michel de Montaigne", "en": "Michel de Montaigne" }, "kind": "PHILOSOPHER", "slug": "montaigne" },
   "source": { "fr": "Essais, III, 13, « De l'expérience »", "en": "Essays, III, 13, \"Of Experience\"" },
-  "anchors": [{ "axisId": "CONSERVATISM_PROGRESSISM" }],
+  "anchors": [{ "axisId": "CONSERVATISM_PROGRESSISM", "poleId": "CONSERVATISM" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

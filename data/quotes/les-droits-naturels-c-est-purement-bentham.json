@@ -3,6 +3,6 @@
   "text": { "fr": "Les droits naturels, c'est purement et simplement du non-sens : les droits naturels et imprescriptibles, du non-sens sur des échasses.", "en": "Natural rights is simple nonsense: natural and imprescriptible rights, rhetorical nonsense, nonsense upon stilts." },
   "author": { "name": { "fr": "Bentham", "en": "Bentham" }, "kind": "PHILOSOPHER", "slug": "bentham" },
   "source": { "fr": "Anarchical Fallacies", "en": "Anarchical Fallacies" },
-  "anchors": [{ "axisId": "KNOWLEDGE_SOURCE" }],
+  "anchors": [{ "axisId": "KNOWLEDGE_SOURCE", "poleId": "EMPIRICISM" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

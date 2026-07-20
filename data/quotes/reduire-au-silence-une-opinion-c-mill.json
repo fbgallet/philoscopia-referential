@@ -3,6 +3,6 @@
   "text": { "fr": "Réduire au silence une opinion, c'est voler l'humanité ; ceux qui dissentent plus encore que ceux qui la partagent.", "en": "To silence the expression of an opinion is to rob the human race; those who dissent from it still more than those who hold it." },
   "author": { "name": { "fr": "Mill", "en": "Mill" }, "kind": "PHILOSOPHER", "slug": "mill" },
   "source": { "fr": "De la liberté, ch. 2", "en": "On Liberty, ch. 2" },
-  "anchors": [{ "axisId": "CERTAINTY" }],
+  "anchors": [{ "axisId": "CERTAINTY", "poleId": "SKEPTICISM" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

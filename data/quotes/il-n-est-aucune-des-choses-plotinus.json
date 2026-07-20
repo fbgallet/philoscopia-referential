@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Plotin", "en": "Plotinus" }, "kind": "PHILOSOPHER", "slug": "plotinus" },
   "work": "enneads-plotinus",
   "source": { "fr": "Ennéades, V, 3, 13-14", "en": "Enneads, V, 3, 13-14" },
-  "anchors": [{ "axisId": "TRANSCENDENCE" }],
+  "anchors": [{ "axisId": "TRANSCENDENCE", "poleId": "TRANSCENDENCE" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

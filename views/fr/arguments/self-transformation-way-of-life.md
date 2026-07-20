@@ -16,7 +16,7 @@
 
 **⇒** Donc la philosophie vaut comme médecine de l'âme et art de vivre : non un discours qu'on ajoute à sa vie, mais un exercice qui la refait.
 
-**Contesté par** : [Se soigner, ou chercher le vrai ?](../arguments/self-transformation-consolation-objection.md)
+**Contesté par** : [Se soigner, ou chercher le vrai ?](../arguments/self-transformation-consolation-objection.md) · [Le développement personnel fait mieux](../arguments/self-transformation-self-help-objection.md)
 
 **Porte sur les problèmes** : [Discours ou manière de vivre](../axes/metaphilosophy.md) · [À quoi bon ?](../axes/metaphilosophy.md) · [Pour tous ou pour quelques-uns](../axes/metaphilosophy.md)
 

@@ -3,6 +3,6 @@
   "text": { "fr": "À l'instant qu'un peuple se donne des représentants, il n'est plus libre ; il n'est plus.", "en": "The instant a people gives itself representatives, it is no longer free; it no longer exists." },
   "author": { "name": { "fr": "Rousseau", "en": "Rousseau" }, "kind": "PHILOSOPHER", "slug": "rousseau" },
   "source": { "fr": "Du contrat social, III, 15", "en": "The Social Contract, III, 15" },
-  "anchors": [{ "axisId": "WHO_DECIDES" }],
+  "anchors": [{ "axisId": "WHO_DECIDES", "poleId": "RADICAL_DEMOCRACY" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

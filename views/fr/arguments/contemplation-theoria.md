@@ -16,7 +16,7 @@
 
 **⇒** Donc la philosophie accomplit sa vocation en comprenant : sa théôria n'est pas une évasion mais la fin à laquelle le reste sert de moyen, la [vie selon ce qu'il y a de plus haut](../axes/sovereign-good.md) en nous.
 
-**Contesté par** : [La chouette de Minerve arrive trop tard](../arguments/contemplation-eleventh-thesis-objection.md)
+**Contesté par** : [La chouette de Minerve arrive trop tard](../arguments/contemplation-eleventh-thesis-objection.md) · [La science a pris le relais](../arguments/contemplation-science-takeover-objection.md)
 
 **Porte sur les problèmes** : [À quoi bon ?](../axes/metaphilosophy.md) · [Comprendre ou transformer](../axes/metaphilosophy.md) · [La philosophie avance-t-elle ?](../axes/metaphilosophy.md)
 

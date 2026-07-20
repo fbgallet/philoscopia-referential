@@ -3,6 +3,6 @@
   "text": { "fr": "Je suis moi-même la matière de mon livre.", "en": "I am myself the matter of my book." },
   "author": { "name": { "fr": "Michel de Montaigne", "en": "Michel de Montaigne" }, "kind": "PHILOSOPHER", "slug": "montaigne" },
   "source": { "fr": "Essais, « Au lecteur »", "en": "Essays, \"To the Reader\"" },
-  "anchors": [{ "axisId": "INTERIORITY" }],
+  "anchors": [{ "axisId": "INTERIORITY", "poleId": "EXAMINED_LIFE" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

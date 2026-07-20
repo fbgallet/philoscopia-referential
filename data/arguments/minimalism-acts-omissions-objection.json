@@ -1,0 +1,81 @@
+{
+  "id": "minimalism-acts-omissions-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "MORAL_DEMAND", "poleId": "MINIMALISM" },
+  "name": { "fr": "Laisser mourir n'est pas innocent", "en": "Letting die is not innocent" },
+  "attacks": "REASONING",
+  "claim": {
+    "fr": "Le minimalisme repose sur une frontière nette entre nuire et ne pas aider ; mais laisser mourir quand on pouvait sauver aisément peut être aussi coupable que tuer.",
+    "en": "Minimalism rests on a sharp line between harming and not helping; but letting someone die when one could easily save them can be as culpable as killing."
+  },
+  "summary": {
+    "fr": "Comparez l'homme qui noie son neveu pour hériter et celui qui, venu pour le noyer, le regarde glisser sans un geste : notre jugement ne fait guère de différence. Ce qui compte est le mobile et le résultat, non la différence entre un mouvement et une immobilité : le minimalisme ne peut fonder sur elle un droit à l'indifférence.",
+    "en": "Compare the man who drowns his nephew for the inheritance and the one who, having come to drown him, watches him slip without a gesture: our judgment makes little difference between them. What counts is motive and outcome, not the difference between a movement and a stillness: minimalism cannot build a right to indifference upon it."
+  },
+  "development": [
+    {
+      "fr": "Le minimalisme distingue nettement nuire, qu'il interdit, et ne pas aider, qu'il laisse libre : je ne dois rien tant que je m'abstiens.",
+      "en": "Minimalism draws a sharp line between harming, which it forbids, and not helping, which it leaves free: I owe nothing so long as I refrain."
+    },
+    {
+      "fr": "Mais comparons deux hommes : l'un noie son neveu pour hériter ; l'autre, venu pour le noyer, le voit glisser dans la baignoire et se garde du geste qui l'aurait sauvé sans risque. Le second a-t-il agi moins mal que le premier ?",
+      "en": "But compare two men: one drowns his nephew for the inheritance; the other, having come to drown him, sees him slip in the bath and withholds the gesture that would have saved him at no risk. Did the second act less wrongly than the first?"
+    },
+    {
+      "fr": "Notre jugement dit non : ce qui compte est le mobile et le résultat, non la différence entre un mouvement et une immobilité. Laisser mourir quand on pouvait sauver aisément est une manière de causer la mort.",
+      "en": "Our judgment says no: what counts is the motive and the outcome, not the difference between a movement and a stillness. Letting die when one could easily have saved is a way of causing death."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la frontière entre nuire et ne pas aider n'est pas si nette : si l'omission peut être aussi coupable que l'acte, le minimalisme ne peut fonder sur elle un droit à l'indifférence.",
+    "en": "So the line between harming and not helping is not so sharp: if the omission can be as culpable as the act, minimalism cannot found a right to indifference upon it."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": { "fr": "James Rachels", "en": "James Rachels" },
+    "figures": [{ "name": { "fr": "James Rachels", "en": "James Rachels" }, "kind": "PHILOSOPHER" }],
+    "work": { "fr": "« Euthanasie active et passive »", "en": "'Active and Passive Euthanasia'" },
+    "year": 1975
+  },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est vrai : ce qui compte est ce que je pouvais empêcher, non le geste ou son absence. Mes devoirs incluent le mal que je laisse faire.",
+        "en": "True: what counts is what I could have prevented, not the gesture or its absence. My duties include the harm I let happen."
+      },
+      "hints": [{ "axisId": "MORAL_DEMAND", "value": { "kind": "scalar", "value": 0.6 }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous étendez le devoir aux omissions : la morale exige alors bien plus que l'abstention de nuire.",
+        "en": "You extend duty to omissions: morality then demands far more than refraining from harm."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "J'accorde que certaines omissions sont des fautes, quand le secours était aisé ; mais laisser mourir au loin n'égale pas tuer, et tout le mal du monde n'est pas ma faute.",
+        "en": "I grant that some omissions are wrongs, when rescue was easy; but letting die far away does not equal killing, and all the world's ills are not my fault."
+      },
+      "hints": [{ "axisId": "MORAL_DEMAND", "value": { "kind": "scalar", "value": 0 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Une position intermédiaire : l'omission fautive existe, mais graduée par la proximité, le coût et la certitude du secours.",
+        "en": "An intermediate position: culpable omission exists, but graded by proximity, cost, and the certainty of rescue."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "L'exemple est truqué par le mobile meurtrier : l'oncle immobile voulait la mort. Ôtez cette intention, et la différence entre pousser à l'eau et ne pas plonger est bien réelle.",
+        "en": "The example is rigged by the murderous motive: the motionless uncle wanted the death. Remove that intention, and the difference between pushing into the water and not diving in is real indeed."
+      },
+      "hints": [{ "axisId": "MORAL_DEMAND", "value": { "kind": "scalar", "value": -1 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "La réponse minimaliste : à intention égale les cas se valent, mais dans la vie ordinaire ne pas aider n'est pas vouloir nuire.",
+        "en": "The minimalist reply: with equal intention the cases match, but in ordinary life not helping is not willing harm."
+      }
+    }
+  ],
+  "targets": ["minimalism-harm-principle"],
+  "problems": ["acts-and-omissions"],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

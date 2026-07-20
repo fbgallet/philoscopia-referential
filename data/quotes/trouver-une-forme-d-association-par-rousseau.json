@@ -3,6 +3,6 @@
   "text": { "fr": "Trouver une forme d'association par laquelle chacun, s'unissant à tous, n'obéisse pourtant qu'à lui-même et reste aussi libre qu'auparavant.", "en": "To find a form of association by which each, uniting with all, still obeys only himself and remains as free as before." },
   "author": { "name": { "fr": "Rousseau", "en": "Rousseau" }, "kind": "PHILOSOPHER", "slug": "rousseau" },
   "source": { "fr": "Du contrat social, I, 6", "en": "The Social Contract, I, 6" },
-  "anchors": [{ "axisId": "SOCIAL_CONTRACT" }],
+  "anchors": [{ "axisId": "SOCIAL_CONTRACT", "poleId": "CONTRACTUALISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

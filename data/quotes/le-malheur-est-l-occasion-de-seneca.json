@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Sénèque", "en": "Seneca" }, "kind": "PHILOSOPHER", "slug": "seneca" },
   "work": "on-providence-seneca",
   "source": { "fr": "De la providence, IV", "en": "On Providence, IV" },
-  "anchors": [{ "axisId": "SUFFERING_MEANING" }],
+  "anchors": [{ "axisId": "SUFFERING_MEANING", "poleId": "REDEMPTIVE_FECUNDITY" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

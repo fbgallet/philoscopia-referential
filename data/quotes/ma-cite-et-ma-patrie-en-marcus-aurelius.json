@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Marc Aurèle", "en": "Marcus Aurelius" }, "kind": "PHILOSOPHER", "slug": "marcus-aurelius" },
   "work": "meditations-marcus-aurelius",
   "source": { "fr": "Pensées pour moi-même, VI, 44", "en": "Meditations, VI, 44" },
-  "anchors": [{ "axisId": "BELONGING" }],
+  "anchors": [{ "axisId": "BELONGING", "poleId": "COSMOPOLITANISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

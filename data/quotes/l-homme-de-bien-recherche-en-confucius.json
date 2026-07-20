@@ -3,6 +3,6 @@
   "text": { "fr": "L'homme de bien recherche en lui-même, l'homme de peu recherche chez les autres.", "en": "The noble person seeks it in himself; the small person seeks it in others." },
   "author": { "name": { "fr": "Confucius", "en": "Confucius" }, "kind": "PHILOSOPHER", "slug": "confucius" },
   "source": { "fr": "Entretiens (Lunyu), XV, 21", "en": "Analects (Lunyu), 15.21" },
-  "anchors": [{ "axisId": "ETHICS_FOUNDATION" }],
+  "anchors": [{ "axisId": "ETHICS_FOUNDATION", "poleId": "VIRTUE_ETHICS" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

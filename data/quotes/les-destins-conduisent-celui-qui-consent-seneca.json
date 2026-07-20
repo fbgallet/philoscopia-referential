@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Sénèque", "en": "Seneca" }, "kind": "PHILOSOPHER", "slug": "seneca" },
   "work": "letters-to-lucilius-seneca",
   "source": { "fr": "Lettres à Lucilius, CVII", "en": "Letters to Lucilius, CVII" },
-  "anchors": [{ "axisId": "PAST_RELATION" }],
+  "anchors": [{ "axisId": "PAST_RELATION", "poleId": "AMOR_FATI" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

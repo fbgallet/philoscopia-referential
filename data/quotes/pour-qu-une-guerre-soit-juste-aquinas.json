@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Thomas d'Aquin", "en": "Thomas Aquinas" }, "kind": "PHILOSOPHER", "slug": "aquinas" },
   "work": "summa-theologiae-aquinas",
   "source": { "fr": "Somme théologique, II-II, q. 40, a. 1", "en": "Summa Theologiae, II-II, q. 40, a. 1" },
-  "anchors": [{ "axisId": "VIOLENCE" }],
+  "anchors": [{ "axisId": "VIOLENCE", "poleId": "JUST_WAR" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

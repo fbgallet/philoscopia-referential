@@ -14,7 +14,7 @@
 2. Mais ces conduites varient énormément avec les circonstances : les mêmes individus, selon qu'ils ont peur ou se sentent en sûreté, qu'ils obéissent ou répondent d'eux-mêmes, se montrent lâches ou courageux, cruels ou secourables. Le mal le plus massif tient souvent moins à des monstres qu'à des exécutants ordinaires et irréfléchis.
 3. Ce qui change à ce point avec la situation n'est pas une nature fixe : et de fait, l'histoire connaît de vrais reculs de la cruauté, l'esclavage aboli, la torture proscrite, signe qu'on peut refaire les mœurs.
 
-**⇒** Donc ce que le pessimisme prend pour un fond immuable est surtout l'effet de conditions : changez les circonstances et l'éducation, et ce n'est pas une bonté cachée qu'on libère, mais un être malléable qu'on oriente autrement.
+**⇒** Donc ce que le pessimisme prend pour un fond immuable ne l'est pas : ses preuves mêmes, cruautés d'exécutants ordinaires, reculs historiques de la violence, témoignent de situations qui produisent le mal, non d'une nature qui le sécréterait.
 
 ## Issues face à l'objection
 

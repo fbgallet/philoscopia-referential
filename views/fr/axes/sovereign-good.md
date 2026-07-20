@@ -54,9 +54,12 @@ Seule la vertu, ou la bonne volonté, a une valeur inconditionnelle : la vie bon
 
 - *Hédonisme* · pour : [L'argument du berceau](../arguments/hedonism-cradle-argument.md)
 - *Hédonisme* · contre : [Du désiré au désirable](../arguments/hedonism-natural-not-good-objection.md)
+- *Hédonisme* · contre : [Le grand divertissement](../arguments/hedonism-sport-divertissement.md)
 - *Eudémonisme* · pour : [L'argument de la fonction (ergon)](../arguments/eudaimonism-function-argument.md)
+- *Eudémonisme* · contre : [Se réaliser contre les autres](../arguments/eudaimonism-comparative-self.md)
 - *Eudémonisme* · contre : [L'existence sans essence](../arguments/eudaimonism-no-function-objection.md)
 - *Vertu / perfectionnisme moral* · pour : [Le seul bien sans réserve](../arguments/perfectionism-unconditional-good.md)
+- *Vertu / perfectionnisme moral* · contre : [Le culte du dépassement](../arguments/perfectionism-cult-of-performance.md)
 - *Vertu / perfectionnisme moral* · contre : [Inconditionnel n'est pas total](../arguments/perfectionism-unconditional-not-whole-objection.md)
 
 ## Relations de fondation

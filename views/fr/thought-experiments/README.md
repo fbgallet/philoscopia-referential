@@ -5,6 +5,7 @@
 - [« Je suis comme ça »](its-my-nature.md) (Sartre)
 - [Chacun ses coutumes ?](funeral-customs.md) (Hérodote)
 - [L'anneau de Gygès](ring-of-gyges.md) (Platon)
+- [L'enfant qui se noie](drowning-child.md) (Singer)
 - [L'éternel retour](the-eternal-return.md) (Nietzsche)
 - [L'expérience de Milgram](milgram.md) (Stanley Milgram)
 - [La barrière de Chesterton](chestertons-fence.md) (G.K. Chesterton)

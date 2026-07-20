@@ -3,6 +3,6 @@
   "text": { "fr": "Le brahman est réel, le monde est apparence, et le soi n'est rien d'autre que le brahman.", "en": "Brahman is real, the world is appearance, and the self is nothing other than brahman." },
   "author": { "name": { "fr": "Śaṅkara", "en": "Śaṅkara" }, "kind": "PHILOSOPHER", "slug": "shankara" },
   "source": { "fr": "formule attribuée à Śaṅkara (Brahmajñānāvalīmālā)", "en": "verse attributed to Śaṅkara (Brahmajñānāvalīmālā)" },
-  "anchors": [{ "axisId": "REALITY_NATURE" }],
+  "anchors": [{ "axisId": "REALITY_NATURE", "poleId": "IDEALISM" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

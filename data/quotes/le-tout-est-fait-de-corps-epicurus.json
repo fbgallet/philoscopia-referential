@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Épicure", "en": "Epicurus" }, "kind": "PHILOSOPHER", "slug": "epicurus" },
   "work": "letter-to-herodotus-epicurus",
   "source": { "fr": "Lettre à Hérodote, 39-40", "en": "Letter to Herodotus, 39-40" },
-  "anchors": [{ "axisId": "REALITY_NATURE" }],
+  "anchors": [{ "axisId": "REALITY_NATURE", "poleId": "MATERIALISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

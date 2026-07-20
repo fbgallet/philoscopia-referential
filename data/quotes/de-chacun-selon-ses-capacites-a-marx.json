@@ -3,6 +3,6 @@
   "text": { "fr": "De chacun selon ses capacités, à chacun selon ses besoins.", "en": "From each according to his ability, to each according to his needs." },
   "author": { "name": { "fr": "Marx", "en": "Marx" }, "kind": "PHILOSOPHER", "slug": "marx" },
   "source": { "fr": "Critique du programme de Gotha", "en": "Critique of the Gotha Programme" },
-  "anchors": [{ "axisId": "DISTRIBUTIVE_JUSTICE" }],
+  "anchors": [{ "axisId": "DISTRIBUTIVE_JUSTICE", "poleId": "EGALITARIANISM" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

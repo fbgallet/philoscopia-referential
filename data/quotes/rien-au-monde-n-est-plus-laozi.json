@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Laozi", "en": "Laozi" }, "kind": "PHILOSOPHER", "slug": "laozi" },
   "work": "dao-de-jing-laozi",
   "source": { "fr": "Dao De Jing, ch. 78", "en": "Dao De Jing, ch. 78" },
-  "anchors": [{ "axisId": "CONTROL_SCOPE" }],
+  "anchors": [{ "axisId": "CONTROL_SCOPE", "poleId": "DICHOTOMY_OF_CONTROL" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

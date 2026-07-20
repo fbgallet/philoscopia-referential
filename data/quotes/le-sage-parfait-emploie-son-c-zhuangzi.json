@@ -3,6 +3,6 @@
   "text": { "fr": "Le sage parfait emploie son cœur comme un miroir : il ne va au-devant de rien et n'accueille rien, il répond et ne retient pas.", "en": "The perfect sage uses his heart like a mirror: he goes out to meet nothing and welcomes nothing, he responds and does not retain." },
   "author": { "name": { "fr": "Zhuangzi", "en": "Zhuangzi" }, "kind": "PHILOSOPHER", "slug": "zhuangzi" },
   "source": { "fr": "ch. 7", "en": "ch. 7" },
-  "anchors": [{ "axisId": "INTERIORITY" }],
+  "anchors": [{ "axisId": "INTERIORITY", "poleId": "EXAMINED_LIFE" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

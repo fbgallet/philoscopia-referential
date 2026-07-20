@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Marc Aurèle", "en": "Marcus Aurelius" }, "kind": "PHILOSOPHER", "slug": "marcus-aurelius" },
   "work": "meditations-marcus-aurelius",
   "source": { "fr": "Pensées pour moi-même, II, 14", "en": "Meditations, II, 14" },
-  "anchors": [{ "axisId": "TIME_ORIENTATION" }],
+  "anchors": [{ "axisId": "TIME_ORIENTATION", "poleId": "PRESENTISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

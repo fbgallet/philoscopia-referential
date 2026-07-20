@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Thomas d'Aquin", "en": "Thomas Aquinas" }, "kind": "PHILOSOPHER", "slug": "aquinas" },
   "work": "summa-theologiae-aquinas",
   "source": { "fr": "Somme théologique, Ia, q. 2, a. 3 (la première voie)", "en": "Summa Theologiae, Ia, q. 2, a. 3 (the first way)" },
-  "anchors": [{ "axisId": "GOD_EXISTENCE" }],
+  "anchors": [{ "axisId": "GOD_EXISTENCE", "poleId": "THEISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

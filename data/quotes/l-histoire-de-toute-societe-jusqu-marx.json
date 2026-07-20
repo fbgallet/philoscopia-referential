@@ -3,6 +3,6 @@
   "text": { "fr": "L'histoire de toute société jusqu'à nos jours n'a été que l'histoire de luttes de classes.", "en": "The history of all hitherto existing society is the history of class struggles." },
   "author": { "name": { "fr": "Marx", "en": "Marx" }, "kind": "PHILOSOPHER", "slug": "marx" },
   "source": { "fr": "Manifeste du Parti communiste, 1848", "en": "Manifesto of the Communist Party, 1848" },
-  "anchors": [{ "axisId": "HISTORY_MEANING" }],
+  "anchors": [{ "axisId": "HISTORY_MEANING", "poleId": "DIRECTIONAL_HISTORY" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

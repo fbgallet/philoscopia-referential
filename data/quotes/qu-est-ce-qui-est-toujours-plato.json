@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Platon", "en": "Plato" }, "kind": "PHILOSOPHER", "slug": "plato" },
   "work": "timaeus-plato",
   "source": { "fr": "Timée, 27d", "en": "Timaeus, 27d" },
-  "anchors": [{ "axisId": "BEING_BECOMING" }],
+  "anchors": [{ "axisId": "BEING_BECOMING", "poleId": "PERMANENCE" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

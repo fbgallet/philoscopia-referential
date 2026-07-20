@@ -3,6 +3,6 @@
   "text": { "fr": "Il n'y a pas de mort naturelle.", "en": "There is no such thing as a natural death." },
   "author": { "name": { "fr": "Beauvoir", "en": "Beauvoir" }, "kind": "PHILOSOPHER", "slug": "beauvoir" },
   "source": { "fr": "Une mort très douce", "en": "A Very Easy Death" },
-  "anchors": [{ "axisId": "DEATH" }],
+  "anchors": [{ "axisId": "DEATH", "poleId": "REVOLT" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

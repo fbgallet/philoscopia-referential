@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Spinoza", "en": "Spinoza" }, "kind": "PHILOSOPHER", "slug": "spinoza" },
   "work": "ethics-spinoza",
   "source": { "fr": "Éthique, III, définitions des affects, déf. 1", "en": "Ethics, III, definitions of the affects, def. 1" },
-  "anchors": [{ "axisId": "DESIRE" }],
+  "anchors": [{ "axisId": "DESIRE", "poleId": "AFFIRMATION" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

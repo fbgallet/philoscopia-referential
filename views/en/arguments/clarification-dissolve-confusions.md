@@ -16,7 +16,7 @@
 
 **⇒** So philosophy brings not more theses but clarity: it teaches us to think, and is measured by the illusions it dispels, not by the doctrines it builds.
 
-**Challenged by** : [Do not throw out the real questions](../arguments/clarification-real-questions-objection.md)
+**Challenged by** : [Do not throw out the real questions](../arguments/clarification-real-questions-objection.md) · [Professors of philosophy, not philosophers](../arguments/clarification-professors-objection.md)
 
 **Bears on the problems** : [Real problems or confusions](../axes/metaphilosophy.md) · [Does philosophy make progress?](../axes/metaphilosophy.md) · [Philosophy and the sciences](../axes/metaphilosophy.md)
 

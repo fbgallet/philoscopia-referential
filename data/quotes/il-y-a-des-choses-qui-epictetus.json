@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Épictète", "en": "Epictetus" }, "kind": "PHILOSOPHER", "slug": "epictetus" },
   "work": "enchiridion-epictetus",
   "source": { "fr": "Manuel, §1", "en": "Enchiridion, §1" },
-  "anchors": [{ "axisId": "CONTROL_SCOPE" }],
+  "anchors": [{ "axisId": "CONTROL_SCOPE", "poleId": "DICHOTOMY_OF_CONTROL" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

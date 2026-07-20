@@ -3,6 +3,6 @@
   "text": { "fr": "L'homme est une passion inutile.", "en": "Man is a useless passion." },
   "author": { "name": { "fr": "Sartre", "en": "Sartre" }, "kind": "PHILOSOPHER", "slug": "sartre" },
   "source": { "fr": "L'Être et le Néant, conclusion", "en": "Being and Nothingness, conclusion" },
-  "anchors": [{ "axisId": "COSMIC_OUTLOOK" }],
+  "anchors": [{ "axisId": "COSMIC_OUTLOOK", "poleId": "TRAGIC_THOUGHT" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

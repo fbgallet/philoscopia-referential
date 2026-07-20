@@ -1,0 +1,112 @@
+{
+  "id": "eudaimonism-comparative-self",
+  "kind": "OBJECTS",
+  "position": { "axisId": "SOVEREIGN_GOOD", "poleId": "EUDAIMONISM" },
+  "name": { "fr": "Se réaliser contre les autres", "en": "Realizing yourself against others" },
+  "attacks": "POSITION",
+  "claim": {
+    "fr": "S'accomplir par la réussite, c'est n'être jamais assez : on ne se réalise plus qu'au classement, contre la défaite des autres.",
+    "en": "To fulfill yourself through success is to never be enough: you no longer realize yourself except in the ranking, against the defeat of others."
+  },
+  "summary": {
+    "fr": "L'accomplissement de soi, mesuré à la réussite et au rang, devient un tapis roulant : le but atteint recule aussitôt, et l'on ne s'éprouve qu'en se comparant. C'est l'amour-propre décrit par Rousseau, une réalisation suspendue au regard et à la défaite d'autrui, qui ne connaît pas de repos.",
+    "en": "Self-fulfillment, measured by success and rank, becomes a treadmill: the goal reached recedes at once, and one feels oneself only by comparing. This is the amour-propre described by Rousseau, a fulfillment hung on the gaze and the defeat of others, which knows no rest."
+  },
+  "development": [
+    {
+      "fr": "La voie de l'accomplissement fait du bien le plein déploiement de soi : développer ses talents, mener ses projets, devenir tout ce qu'on peut être.",
+      "en": "The path of fulfillment makes the good the full unfolding of oneself: developing one's talents, carrying out one's projects, becoming all one can be."
+    },
+    {
+      "fr": "Mais dans le sport comme ailleurs, cet accomplissement se mesure vite à la réussite : au chrono, au rang, à la médaille. Or le rang est sans repos, le record battu devient le nouveau plancher, et il y aura toujours plus fort. On ne se réalise plus, on se compare.",
+      "en": "But in sport as elsewhere, this fulfillment is soon measured by success: by the time, the rank, the medal. And rank knows no rest, the record broken becomes the new floor, and there will always be someone stronger. You no longer realize yourself, you compare yourself."
+    },
+    {
+      "fr": "Se comparer, c'est suspendre sa valeur au regard et à la défaite des autres. <ph id='rousseau'>Rousseau</ph> nommait <c id='amour-de-soi-et-amour-propre'>amour-propre</c> cette passion de valoir plus que le voisin, qu'il opposait à l'amour de soi, simple souci de vivre. Elle ne connaît pas de satiété, car son objet n'est pas un bien à atteindre, mais un écart à maintenir.",
+      "en": "To compare yourself is to hang your worth on the gaze and the defeat of others. <ph id='rousseau'>Rousseau</ph> named <c id='amour-de-soi-et-amour-propre'>amour-propre</c> this passion to be worth more than one's neighbor, which he set against amour de soi, the simple concern to live. It knows no satiety, for its object is not a good to reach, but a gap to maintain."
+    },
+    {
+      "fr": "L'accomplissement se retourne alors en <c id='culte-de-la-performance'>course sans fin</c> : non plus déployer ce qu'on est, mais prouver sans cesse qu'on vaut, sous le regard d'un juge, soi ou autrui, que rien ne contente.",
+      "en": "Fulfillment then turns into an <c id='culte-de-la-performance'>endless race</c>: no longer unfolding what one is, but forever proving one's worth, under the gaze of a judge, oneself or others, whom nothing contents."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc faire de la réussite l'accomplissement de soi, c'est troquer une fin qu'on atteint contre une comparaison qui recule toujours : on ne se réalise pas, on s'épuise à ne pas décrocher.",
+    "en": "So to make success into self-fulfillment is to trade an end one reaches for a comparison that always recedes: you do not realize yourself, you wear yourself out not to fall behind."
+  },
+  "deepenings": [
+    {
+      "id": "amour-de-soi-amour-propre",
+      "label": { "fr": "Amour de soi, amour-propre", "en": "Amour de soi, amour-propre" },
+      "targetStep": 2,
+      "summary": {
+        "fr": "Rousseau distingue deux amours de soi : l'un veut vivre et se conserver, l'autre veut primer sur autrui ; le premier se contente, le second, toujours comparatif, jamais.",
+        "en": "Rousseau distinguishes two loves of self: one wants to live and preserve itself, the other wants to prevail over others; the first can be contented, the second, always comparative, never."
+      },
+      "development": [
+        {
+          "fr": "L'amour de soi, dit <ph id='rousseau'>Rousseau</ph>, est le souci naturel de sa propre conservation : il se règle sur ses besoins et s'apaise quand ils sont comblés.",
+          "en": "Amour de soi, says <ph id='rousseau'>Rousseau</ph>, is the natural concern for one's own preservation: it is governed by one's needs and settles once they are met."
+        },
+        {
+          "fr": "L'amour-propre, lui, naît de la vie en société : il ne se compare qu'aux autres et ne jouit que de les surpasser. Voilà pourquoi il est insatiable, car il n'y a pas de rang si haut qu'un autre ne puisse le disputer.",
+          "en": "Amour-propre, by contrast, is born of life in society: it compares itself only to others and enjoys only surpassing them. That is why it is insatiable, for there is no rank so high that another cannot contest it."
+        }
+      ],
+      "source": {
+        "author": { "fr": "Rousseau", "en": "Rousseau" },
+        "figures": [{ "name": { "fr": "Rousseau", "en": "Rousseau" }, "kind": "PHILOSOPHER", "slug": "rousseau" }],
+        "work": { "fr": "Discours sur l'origine de l'inégalité", "en": "Discourse on the Origin of Inequality" },
+        "year": 1755
+      }
+    }
+  ],
+  "difficulty": 2,
+  "source": {
+    "author": { "fr": "Rousseau ; Ehrenberg", "en": "Rousseau; Ehrenberg" },
+    "figures": [
+      { "name": { "fr": "Rousseau", "en": "Rousseau" }, "kind": "PHILOSOPHER", "slug": "rousseau" },
+      { "name": { "fr": "Alain Ehrenberg", "en": "Alain Ehrenberg" }, "kind": "PHILOSOPHER" }
+    ],
+    "work": { "fr": "Discours sur l'origine de l'inégalité ; La Fatigue d'être soi", "en": "Discourse on the Origin of Inequality; The Weariness of the Self" }
+  },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est vrai : mesurer ma réalisation à mon rang ne finit jamais. Autant courir pour la joie de courir, et cesser de me comparer.",
+        "en": "True: measuring my fulfillment by my rank never ends. I might as well run for the joy of running, and stop comparing myself."
+      },
+      "hints": [{ "axisId": "SOVEREIGN_GOOD", "value": { "kind": "weights", "weights": [0.55, 0.25, 0.2] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous quittez la réussite pour le <c id='hedonism'>plaisir</c> même de l'activité : le prix est dans le faire, non dans le résultat.",
+        "en": "You leave success for the <c id='hedonism'>pleasure</c> of the activity itself: the worth is in the doing, not in the result."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je continue de viser l'accomplissement de moi, mais je l'accorde : il ne vaut que s'il cesse de dépendre du classement et du regard des autres.",
+        "en": "I still aim at fulfilling myself, but I grant it: it is worth something only once it stops depending on the ranking and the gaze of others."
+      },
+      "hints": [{ "axisId": "SOVEREIGN_GOOD", "value": { "kind": "weights", "weights": [0.2, 0.65, 0.15] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous distinguez se réaliser et se comparer : déployer ses forces pour soi, non contre autrui.",
+        "en": "You distinguish realizing yourself from comparing yourself: unfolding your powers for yourself, not against others."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Se comparer n'est pas une maladie, c'est un aiguillon. Sans rivaux à ma mesure, je ne saurais ni ce que je vaux ni jusqu'où je peux aller.",
+        "en": "Comparing yourself is not a disease, it is a spur. Without rivals of my measure, I would know neither what I am worth nor how far I can go."
+      },
+      "hints": [{ "axisId": "SOVEREIGN_GOOD", "value": { "kind": "weights", "weights": [0, 1, 0] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous tenez pour l'<c id='agon'>agôn</c> : la rivalité réglée qui révèle le meilleur de soi, plutôt que l'amour-propre qui l'aliène.",
+        "en": "You hold for the <c id='agon'>agôn</c>: the ruled rivalry that reveals the best in oneself, rather than the amour-propre that estranges it."
+      }
+    }
+  ],
+  "updatedAt": "2026-07-18T00:00:00.000Z"
+}

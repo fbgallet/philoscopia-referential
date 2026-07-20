@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Locke", "en": "Locke" }, "kind": "PHILOSOPHER", "slug": "locke" },
   "work": "essay-concerning-human-understanding-locke",
   "source": { "fr": "Essai sur l'entendement humain, IV, ch. 15-16 (la probabilité et les degrés d'assentiment)", "en": "Essay Concerning Human Understanding, IV, ch. 15-16 (probability and the degrees of assent)" },
-  "anchors": [{ "axisId": "BELIEF_ETHICS" }],
+  "anchors": [{ "axisId": "BELIEF_ETHICS", "poleId": "EVIDENTIALISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

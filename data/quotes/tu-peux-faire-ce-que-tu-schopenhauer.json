@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Schopenhauer", "en": "Schopenhauer" }, "kind": "PHILOSOPHER", "slug": "schopenhauer" },
   "work": "on-the-freedom-of-the-will-schopenhauer",
   "source": { "fr": "Essai sur le libre arbitre, chap. III", "en": "On the Freedom of the Will, ch. III" },
-  "anchors": [{ "axisId": "FREEDOM" }],
+  "anchors": [{ "axisId": "FREEDOM", "poleId": "DETERMINISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Schopenhauer", "en": "Schopenhauer" }, "kind": "PHILOSOPHER", "slug": "schopenhauer" },
   "work": "the-world-as-will-and-representation-schopenhauer",
   "source": { "fr": "Le Monde comme volonté et comme représentation, §68", "en": "The World as Will and Representation, §68" },
-  "anchors": [{ "axisId": "BODILY_PLEASURES" }],
+  "anchors": [{ "axisId": "BODILY_PLEASURES", "poleId": "ASCETICISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

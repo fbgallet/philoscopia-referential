@@ -1,0 +1,21 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "thales",
+  "name": { "fr": "Thalès", "en": "Thales" },
+  "fullName": { "fr": "Thalès de Milet", "en": "Thales of Miletus" },
+  "aliases": {
+    "fr": ["Thalès de Milet"],
+    "en": ["Thales of Miletus"]
+  },
+  "summary": {
+    "fr": "Premier nom de la philosophie grecque : astronome, géomètre et sage de Milet, qui chercha dans l'eau le principe de toutes choses. On lui prête la chute dans un puits sous le rire d'une servante, et la fortune des pressoirs à olives : les deux visages de l'« inutilité » philosophique.",
+    "en": "The first name of Greek philosophy: astronomer, geometer and sage of Miletus, who sought in water the principle of all things. Tradition credits him with the fall into a well to a servant girl's laughter, and with the fortune made on olive presses: the two faces of philosophy's 'uselessness'."
+  },
+  "nationality": { "fr": "Grec", "en": "Greek" },
+  "birth": -625,
+  "death": -545,
+  "movements": [],
+  "updatedAt": "2026-07-18T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

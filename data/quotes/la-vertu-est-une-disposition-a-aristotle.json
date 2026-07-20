@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" },
   "work": "nicomachean-ethics-aristotle",
   "source": { "fr": "Éthique à Nicomaque, II, 6, 1106b-1107a", "en": "Nicomachean Ethics, II, 6, 1106b-1107a" },
-  "anchors": [{ "axisId": "ETHICS_FOUNDATION" }],
+  "anchors": [{ "axisId": "ETHICS_FOUNDATION", "poleId": "VIRTUE_ETHICS" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

@@ -3,6 +3,6 @@
   "text": { "fr": "Vis caché.", "en": "Live unnoticed." },
   "author": { "name": { "fr": "Épicure", "en": "Epicurus" }, "kind": "PHILOSOPHER", "slug": "epicurus" },
   "source": { "fr": "Fragment 551 Usener (lathe biôsas)", "en": "Fragment 551 Usener (lathe biosas)" },
-  "anchors": [{ "axisId": "BELONGING" }],
+  "anchors": [{ "axisId": "BELONGING", "poleId": "COMMUNITARIANISM" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

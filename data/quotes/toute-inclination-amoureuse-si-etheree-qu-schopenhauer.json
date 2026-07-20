@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Schopenhauer", "en": "Schopenhauer" }, "kind": "PHILOSOPHER", "slug": "schopenhauer" },
   "work": "the-world-as-will-and-representation-schopenhauer",
   "source": { "fr": "Le Monde comme volonté et comme représentation, t. II, chap. 44", "en": "The World as Will and Representation, vol. II, ch. 44" },
-  "anchors": [{ "axisId": "LOVE_NATURE" }],
+  "anchors": [{ "axisId": "LOVE_NATURE", "poleId": "RUSE_OF_THE_SPECIES" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

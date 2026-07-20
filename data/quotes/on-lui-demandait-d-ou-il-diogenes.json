@@ -3,6 +3,6 @@
   "text": { "fr": "On lui demandait d'où il était : « Citoyen du monde », répondit-il.", "en": "When asked where he came from, he said: \"I am a citizen of the world.\"" },
   "author": { "name": { "fr": "Diogène de Sinope", "en": "Diogenes of Sinope" }, "kind": "PHILOSOPHER", "slug": "diogenes" },
   "source": { "fr": "Diogène Laërce, Vies, VI, 63", "en": "Diogenes Laertius, Lives, VI, 63" },
-  "anchors": [{ "axisId": "BELONGING" }],
+  "anchors": [{ "axisId": "BELONGING", "poleId": "COSMOPOLITANISM" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

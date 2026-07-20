@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Bacon", "en": "Bacon" }, "kind": "PHILOSOPHER", "slug": "bacon" },
   "work": "novum-organum-bacon",
   "source": { "fr": "Novum Organum, livre I, aphorisme 3", "en": "Novum Organum, Book I, aphorism 3" },
-  "anchors": [{ "axisId": "HUMAN_PLACE_NATURE" }],
+  "anchors": [{ "axisId": "HUMAN_PLACE_NATURE", "poleId": "MASTERY" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

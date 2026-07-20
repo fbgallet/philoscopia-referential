@@ -1,0 +1,13 @@
+{
+  "id": "spiritual-exercises",
+  "term": { "fr": "Exercices spirituels", "en": "Spiritual exercises" },
+  "aliases": { "fr": ["exercice spirituel"], "en": ["spiritual exercise"] },
+  "definition": {
+    "fr": "Nom que <ph id='hadot'>Pierre Hadot</ph> a repris et imposé pour désigner les pratiques par lesquelles les écoles antiques faisaient de la philosophie une manière de vivre : méditation des maximes, examen de conscience, préméditation des maux, attention au présent. Ces exercices visent moins à savoir plus qu'à devenir autre : travailler ses désirs, ses peurs et ses jugements pour transformer sa façon d'exister, sans exclure l'étude, qui en fait partie. Le mot « spirituel » garde une résonance religieuse que Hadot assume : il marque que l'exercice engage la personne entière, et non l'intellect seul.",
+    "en": "The name <ph id='hadot'>Pierre Hadot</ph> took up and established for the practices by which the ancient schools made philosophy a way of life: meditating on maxims, examining one's conscience, rehearsing misfortunes in advance, attending to the present. These exercises aim less at knowing more than at becoming other: working on one's desires, fears and judgments so as to transform one's way of existing, without excluding study, which is part of them. The word 'spiritual' keeps a religious resonance that Hadot accepted: it marks that the exercise engages the whole person, not the intellect alone."
+  },
+  "relatedAxes": ["METAPHILOSOPHY", "INTERIORITY"],
+  "relatedTerms": [],
+  "positions": [{ "axisId": "METAPHILOSOPHY", "poleId": "SELF_TRANSFORMATION" }],
+  "updatedAt": "2026-07-18T00:00:00.000Z"
+}

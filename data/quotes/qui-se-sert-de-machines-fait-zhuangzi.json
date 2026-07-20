@@ -3,6 +3,6 @@
   "text": { "fr": "Qui se sert de machines fait toutes choses machinalement ; qui fait les choses machinalement acquiert un cœur de machine.", "en": "Whoever uses machines does all his work mechanically; whoever does his work mechanically grows a machine heart." },
   "author": { "name": { "fr": "Zhuangzi", "en": "Zhuangzi" }, "kind": "PHILOSOPHER", "slug": "zhuangzi" },
   "source": { "fr": "ch. 12", "en": "ch. 12" },
-  "anchors": [{ "axisId": "TECHNOLOGY" }],
+  "anchors": [{ "axisId": "TECHNOLOGY", "poleId": "TECHNO_CRITICISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

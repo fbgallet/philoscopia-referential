@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Platon", "en": "Plato" }, "kind": "PHILOSOPHER", "slug": "plato" },
   "work": "meno-plato",
   "source": { "fr": "Ménon, 81d", "en": "Meno, 81d" },
-  "anchors": [{ "axisId": "KNOWLEDGE_SOURCE" }],
+  "anchors": [{ "axisId": "KNOWLEDGE_SOURCE", "poleId": "RATIONALISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

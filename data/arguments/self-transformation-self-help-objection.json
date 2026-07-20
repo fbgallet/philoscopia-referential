@@ -1,0 +1,80 @@
+{
+  "id": "self-transformation-self-help-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "METAPHILOSOPHY", "poleId": "SELF_TRANSFORMATION" },
+  "name": { "fr": "Le développement personnel fait mieux", "en": "Self-help does it better" },
+  "attacks": "POSITION",
+  "claim": {
+    "fr": "Si la philosophie est un art de vivre, elle a des héritiers qui la dépassent sur son propre terrain : pour bien des difficultés concrètes, les psychothérapies évaluées et le développement personnel font mieux, plus vite, pour plus de monde.",
+    "en": "If philosophy is an art of living, it has heirs that outdo it on its own ground: for many concrete difficulties, evaluated psychotherapies and personal development do better, faster, for more people."
+  },
+  "summary": {
+    "fr": "Le projet de mieux vivre s'est réparti entre des psychothérapies éprouvées, un coaching plus incertain et un rayon de librairie inégal ; la plus rigoureuse de ces voies, la <kw>thérapie cognitive</kw>, se réclame ouvertement d'Épictète et a fait de l'idée que nos troubles naissent de nos jugements un protocole que l'on peut évaluer. Pour bien des difficultés précises, ces héritiers paraîtraient plus praticables que l'original : le <stk>soin de soi</stk> aurait changé de mains.",
+    "en": "The project of living better has been parceled out among proven psychotherapies, more uncertain coaching, and an uneven bookshop shelf; the most rigorous of these paths, <kw>cognitive therapy</kw>, openly claims Epictetus and has turned the idea that our troubles are born of our judgments into a protocol one can evaluate. For many precise difficulties, these heirs would look more practicable than the original: the <stk>care of the self</stk> would have changed hands."
+  },
+  "development": [
+    {
+      "fr": "L'ambition de mieux vivre a changé d'adresse, et elle s'est répartie selon des exigences très inégales : des psychothérapies éprouvées pour les troubles caractérisés, un coaching largement dérégulé pour la performance, un développement personnel de qualité variable pour le tout-venant de l'existence. Toutes ne se valent pas, mais chacune offre une porte que les écoles de sagesse n'ouvrent plus.",
+      "en": "The ambition to live better has changed address, and it has spread across very unequal standards: proven psychotherapies for diagnosed disorders, largely unregulated coaching for performance, self-help of variable quality for the everyday run of life. They are not all worth the same, but each opens a door the schools of wisdom no longer open."
+    },
+    {
+      "fr": "La plus rigoureuse est la <kw>thérapie cognitivo-comportementale</kw>, et son cas est frappant : <ph id='epictetus'>Épictète</ph> écrivait déjà <q>ce ne sont pas les choses qui troublent les hommes, mais les jugements qu'ils portent sur les choses</q>, et ses fondateurs, Albert Ellis puis Aaron Beck, s'en réclamaient explicitement. L'idée, une fois isolée et outillée, s'est laissée transformer en un protocole qu'on évalue, compare et enseigne : ce que la sagesse antique proposait à quelques-uns, cette lignée l'a rendu vérifiable.",
+      "en": "The most rigorous is <kw>cognitive-behavioral therapy</kw>, and its case is striking: <ph id='epictetus'>Epictetus</ph> already wrote <q>men are disturbed not by things, but by the judgments they pass on things</q>, and its founders, Albert Ellis and then Aaron Beck, claimed him explicitly. The idea, once isolated and equipped, let itself be turned into a protocol one evaluates, compares and teaches: what ancient wisdom offered to a few, this lineage has made testable."
+    },
+    {
+      "fr": "La philosophie a ses exercices et même ses manuels, mais ils engagent une réorientation entière de l'existence, adossée à des textes qui demandent du temps et une culture. Qui cherche un soulagement ciblé trouvera plus court : des méthodes graduées, ajustées à une difficulté précise, l'anxiété, le deuil, la confiance, l'attention, et dont on peut au moins mesurer l'effet.",
+      "en": "Philosophy has its exercises and even its handbooks, but they commit you to an entire reorientation of existence, backed by texts that demand time and background. Whoever seeks targeted relief will find shorter routes: graduated methods, fitted to a precise difficulty, anxiety, grief, confidence, attention, and whose effect can at least be measured."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc, à qui veut d'abord aller mieux sur un point précis, la médecine de l'âme a trouvé des praticiens plus commodes, et parfois mieux éprouvés : garder le mot « sagesse » ressemble alors à de la nostalgie, et chercher l'efficace paraît conduire hors de la philosophie.",
+    "en": "So, for whoever wants above all to feel better on a precise point, the medicine of the soul has found more convenient, and sometimes better-tested, practitioners: keeping the word 'wisdom' then looks like nostalgia, and seeking what works seems to lead out of philosophy."
+  },
+  "difficulty": 1,
+  "source": {
+    "author": { "fr": "Seligman (psychologie positive)", "en": "Seligman (positive psychology)" },
+    "work": { "fr": "La Fabrique du bonheur", "en": "Authentic Happiness" },
+    "year": 2002
+  },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est vrai : pour aller mieux, les méthodes évaluées l'emportent. Si la philosophie garde un prix, c'est comme savoir et comme examen, non comme thérapie.",
+        "en": "True: to feel better, evaluated methods win. If philosophy keeps any worth, it is as knowledge and examination, not as therapy."
+      },
+      "hints": [{ "axisId": "METAPHILOSOPHY", "value": { "kind": "weights", "weights": [0.4, 0.05, 0.1, 0.45] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous séparez le soin et la pensée : au manuel le mieux-être, à la philosophie la lucidité. Les Anciens auraient refusé ce partage ; à vous de voir s'il tient.",
+        "en": "You separate care from thought: to the manual, well-being; to philosophy, lucidity. The Ancients would have refused that split; yours to see whether it holds."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "J'emprunte volontiers ces outils, mais ils optimisent une vie dont ils ne questionnent jamais les fins : la philosophie commence où le manuel s'arrête, quand je demande ce qui mérite d'être poursuivi.",
+        "en": "I gladly borrow these tools, but they optimize a life whose ends they never question: philosophy begins where the manual stops, when I ask what deserves to be pursued."
+      },
+      "hints": [{ "axisId": "METAPHILOSOPHY", "value": { "kind": "weights", "weights": [0.1, 0.05, 0.7, 0.15] }, "weight": 1 }],
+      "discussion": {
+        "fr": "La ligne de partage la plus nette : le développement personnel aide à atteindre vos objectifs, la philosophie examine s'ils sont les bons.",
+        "en": "The sharpest dividing line: personal development helps you reach your goals; philosophy examines whether they are the right ones."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "La comparaison manque l'essentiel : même les thérapies qui touchent aux valeurs et aux projets de vie ajustent l'individu à ses propres fins, sans les mettre en question, et c'est leur office ; les <c id='spiritual-exercises'>exercices spirituels</c> des Anciens visaient autre chose, une conversion entière du regard, adossée à une idée du vrai et du bien. L'un soulage, l'autre <dif>interroge les fins</dif> ; et les recettes extraites perdent une part de ce qui les fondait.",
+        "en": "The comparison misses the essential: even the therapies that touch on values and life projects adjust the individual to their own ends, without putting them in question, and that is their office; the <c id='spiritual-exercises'>spiritual exercises</c> of the Ancients aimed at something else, an entire conversion of one's gaze, grounded in an idea of the true and the good. One relieves, the other <dif>questions the ends</dif>; and the extracted recipes lose part of what grounded them."
+      },
+      "hints": [{ "axisId": "METAPHILOSOPHY", "value": { "kind": "weights", "weights": [0.05, 0.05, 0.85, 0.05] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "La défense de l'art de vivre : sans examen des fins, les techniques servent n'importe quel maître, y compris les injonctions du moment.",
+        "en": "The defense of the art of living: without an examination of ends, techniques serve any master, the injunctions of the moment included."
+      }
+    }
+  ],
+  "targets": ["self-transformation-way-of-life"],
+  "problems": ["discourse-or-way-of-life", "useless-or-free"],
+  "updatedAt": "2026-07-18T00:00:00.000Z"
+}

@@ -3,6 +3,6 @@
   "text": { "fr": "Les philosophes n'ont fait qu'interpréter le monde de diverses manières ; ce qui importe, c'est de le transformer.", "en": "The philosophers have only interpreted the world, in various ways; the point is to change it." },
   "author": { "name": { "fr": "Marx", "en": "Marx" }, "kind": "PHILOSOPHER", "slug": "marx" },
   "source": { "fr": "Thèses sur Feuerbach, XI (1845)", "en": "Theses on Feuerbach, XI (1845)" },
-  "anchors": [{ "axisId": "METAPHILOSOPHY" }, { "axisId": "INTERIORITY" }],
+  "anchors": [{ "axisId": "METAPHILOSOPHY", "poleId": "WORLD_TRANSFORMATION" }, { "axisId": "INTERIORITY", "poleId": "PRIMACY_OF_ACTION" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

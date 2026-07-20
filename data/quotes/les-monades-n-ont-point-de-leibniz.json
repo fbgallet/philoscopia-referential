@@ -3,6 +3,6 @@
   "text": { "fr": "Les monades n'ont point de fenêtres par lesquelles quelque chose y puisse entrer ou sortir.", "en": "The monads have no windows through which anything could enter or leave." },
   "author": { "name": { "fr": "Leibniz", "en": "Leibniz" }, "kind": "PHILOSOPHER", "slug": "leibniz" },
   "source": { "fr": "Monadologie, §7", "en": "Monadology, §7" },
-  "anchors": [{ "axisId": "REALITY_NATURE" }],
+  "anchors": [{ "axisId": "REALITY_NATURE", "poleId": "IDEALISM" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

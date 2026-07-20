@@ -85,6 +85,10 @@ cd mcp && npm install && npm run smoke   # build + end-to-end test over stdio
 
 `npm pack`/`npm publish` snapshot `../data` and `../schemas` into the package via the `prepack` hook.
 
+## Support & follow
+
+If this project is useful to you, you can support our work on **[Ko-fi](https://ko-fi.com/philoscopia)** (also via [GitHub Sponsors](https://github.com/sponsors/fbgallet)), and follow along on **[X (@fbgallet)](https://x.com/fbgallet)** and **[Bluesky (@fbgallet.bsky.social)](https://bsky.app/profile/fbgallet.bsky.social)**.
+
 ## License
 
 MIT (code). The bundled corpus is [CC BY-SA 4.0](../LICENSE).

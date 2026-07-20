@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Schopenhauer", "en": "Schopenhauer" }, "kind": "PHILOSOPHER", "slug": "schopenhauer" },
   "work": "parerga-and-paralipomena-schopenhauer",
   "source": { "fr": "Parerga et Paralipomena, « Aphorismes sur la sagesse dans la vie », chap. IV", "en": "Parerga and Paralipomena, 'Aphorisms on the Wisdom of Life', ch. IV" },
-  "anchors": [{ "axisId": "BELONGING" }],
+  "anchors": [{ "axisId": "BELONGING", "poleId": "COSMOPOLITANISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

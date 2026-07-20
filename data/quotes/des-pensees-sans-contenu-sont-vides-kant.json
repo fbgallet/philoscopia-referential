@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" },
   "work": "critique-of-pure-reason-kant",
   "source": { "fr": "Critique de la raison pure, A51/B75", "en": "Critique of Pure Reason, A51/B75" },
-  "anchors": [{ "axisId": "KNOWLEDGE_SOURCE" }],
+  "anchors": [{ "axisId": "KNOWLEDGE_SOURCE", "median": true }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

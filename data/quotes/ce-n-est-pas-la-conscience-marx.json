@@ -3,6 +3,6 @@
   "text": { "fr": "Ce n'est pas la conscience des hommes qui détermine leur être ; c'est inversement leur être social qui détermine leur conscience.", "en": "It is not the consciousness of men that determines their being, but, on the contrary, their social being that determines their consciousness." },
   "author": { "name": { "fr": "Marx", "en": "Marx" }, "kind": "PHILOSOPHER", "slug": "marx" },
   "source": { "fr": "Préface à la Critique de l'économie politique, 1859", "en": "Preface to the Critique of Political Economy, 1859" },
-  "anchors": [{ "axisId": "INDIVIDUAL_SOCIETY" }],
+  "anchors": [{ "axisId": "INDIVIDUAL_SOCIETY", "poleId": "HOLISM" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

@@ -54,9 +54,12 @@ Only virtue, or the good will, has unconditional worth: the good life is the mor
 
 - *Hedonism* · for : [The cradle argument](../arguments/hedonism-cradle-argument.md)
 - *Hedonism* · against : [From desired to desirable](../arguments/hedonism-natural-not-good-objection.md)
+- *Hedonism* · against : [The great diversion](../arguments/hedonism-sport-divertissement.md)
 - *Eudaimonism* · for : [The function argument (ergon)](../arguments/eudaimonism-function-argument.md)
+- *Eudaimonism* · against : [Realizing yourself against others](../arguments/eudaimonism-comparative-self.md)
 - *Eudaimonism* · against : [Existence without essence](../arguments/eudaimonism-no-function-objection.md)
 - *Virtue / moral perfectionism* · for : [The only unconditional good](../arguments/perfectionism-unconditional-good.md)
+- *Virtue / moral perfectionism* · against : [The cult of self-overcoming](../arguments/perfectionism-cult-of-performance.md)
 - *Virtue / moral perfectionism* · against : [Unconditional is not total](../arguments/perfectionism-unconditional-not-whole-objection.md)
 
 ## Grounding relations

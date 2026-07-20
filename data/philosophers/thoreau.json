@@ -1,0 +1,21 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "thoreau",
+  "name": { "fr": "Thoreau", "en": "Thoreau" },
+  "fullName": { "fr": "Henry David Thoreau", "en": "Henry David Thoreau" },
+  "aliases": {
+    "fr": ["Henry David Thoreau"],
+    "en": ["Henry David Thoreau"]
+  },
+  "summary": {
+    "fr": "Écrivain et penseur américain, retiré deux ans dans une cabane au bord de l'étang de Walden pour éprouver ce qu'exige une vie délibérée : simplicité volontaire, désobéissance civile face à l'injustice, défiance envers une philosophie de chaire coupée de la vie.",
+    "en": "American writer and thinker who withdrew for two years to a cabin by Walden Pond to test what a deliberate life demands: voluntary simplicity, civil disobedience in the face of injustice, and distrust of a lectern philosophy cut off from living."
+  },
+  "nationality": { "fr": "Américain", "en": "American" },
+  "birth": 1817,
+  "death": 1862,
+  "movements": [],
+  "updatedAt": "2026-07-18T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Sénèque", "en": "Seneca" }, "kind": "PHILOSOPHER", "slug": "seneca" },
   "work": "on-anger-seneca",
   "source": { "fr": "De la colère, III, 36", "en": "On Anger, III, 36" },
-  "anchors": [{ "axisId": "INTERIORITY" }],
+  "anchors": [{ "axisId": "INTERIORITY", "poleId": "EXAMINED_LIFE" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

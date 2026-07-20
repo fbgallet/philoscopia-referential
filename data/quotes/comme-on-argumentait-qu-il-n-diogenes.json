@@ -3,6 +3,6 @@
   "text": { "fr": "Comme on argumentait qu'il n'y a pas de mouvement, il se leva et se mit à marcher.", "en": "When someone argued that there is no such thing as motion, he got up and walked about." },
   "author": { "name": { "fr": "Diogène de Sinope", "en": "Diogenes of Sinope" }, "kind": "PHILOSOPHER", "slug": "diogenes" },
   "source": { "fr": "Diogène Laërce, Vies, VI, 39", "en": "Diogenes Laertius, Lives, VI, 39" },
-  "anchors": [{ "axisId": "INTERIORITY" }],
+  "anchors": [{ "axisId": "INTERIORITY", "poleId": "PRIMACY_OF_ACTION" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

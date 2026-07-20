@@ -16,7 +16,7 @@
 
 **⇒** Donc la tâche de la philosophie n'est pas de contempler mais de transformer : une pensée se juge à ce qu'elle libère, et penser sans agir, c'est consentir.
 
-**Contesté par** : [Agir sans comprendre, c'est agir en aveugle](../arguments/world-transformation-blind-praxis-objection.md)
+**Contesté par** : [Agir sans comprendre, c'est agir en aveugle](../arguments/world-transformation-blind-praxis-objection.md) · [Un avis sur tout, un savoir sur rien](../arguments/world-transformation-punditry-objection.md)
 
 **Porte sur les problèmes** : [Comprendre ou transformer](../axes/metaphilosophy.md) · [À quoi bon ?](../axes/metaphilosophy.md) · [Pour tous ou pour quelques-uns](../axes/metaphilosophy.md)
 

@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" },
   "work": "beyond-good-and-evil-nietzsche",
   "source": { "fr": "Par-delà bien et mal, §108", "en": "Beyond Good and Evil, §108" },
-  "anchors": [{ "axisId": "MORAL_SCOPE" }],
+  "anchors": [{ "axisId": "MORAL_SCOPE", "poleId": "RELATIVISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

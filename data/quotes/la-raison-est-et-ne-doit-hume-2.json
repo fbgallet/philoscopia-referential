@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Hume", "en": "Hume" }, "kind": "PHILOSOPHER", "slug": "hume" },
   "work": "treatise-of-human-nature-hume",
   "source": { "fr": "Traité de la nature humaine, II, III, 3", "en": "A Treatise of Human Nature, II, III, 3" },
-  "anchors": [{ "axisId": "EMOTIONS" }],
+  "anchors": [{ "axisId": "EMOTIONS", "poleId": "SENTIMENTALISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

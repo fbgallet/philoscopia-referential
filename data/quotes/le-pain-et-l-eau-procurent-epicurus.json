@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Épicure", "en": "Epicurus" }, "kind": "PHILOSOPHER", "slug": "epicurus" },
   "work": "vatican-sayings-epicurus",
   "source": { "fr": "Sentences vaticanes, 59 (cf. Lettre à Ménécée)", "en": "Vatican Sayings, 59 (cf. Letter to Menoeceus)" },
-  "anchors": [{ "axisId": "BODILY_PLEASURES" }],
+  "anchors": [{ "axisId": "BODILY_PLEASURES", "poleId": "ASCETICISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

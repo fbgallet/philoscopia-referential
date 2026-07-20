@@ -3,6 +3,6 @@
   "text": { "fr": "Qui ranime l'ancien pour comprendre le nouveau est digne d'être un maître.", "en": "He who revives the old to understand the new is fit to be a teacher." },
   "author": { "name": { "fr": "Confucius", "en": "Confucius" }, "kind": "PHILOSOPHER", "slug": "confucius" },
   "source": { "fr": "Entretiens, II, 11", "en": "Analects, II, 11" },
-  "anchors": [{ "axisId": "TIME_ORIENTATION" }],
+  "anchors": [{ "axisId": "TIME_ORIENTATION", "poleId": "MEMORY_TRANSMISSION" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

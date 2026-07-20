@@ -1,0 +1,81 @@
+{
+  "id": "maximalism-pond-disanalogy-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "MORAL_DEMAND", "poleId": "MAXIMALISM" },
+  "name": { "fr": "L'étang n'est pas le monde", "en": "The pond is not the world" },
+  "attacks": "REASONING",
+  "claim": {
+    "fr": "L'argument étend le devoir de secours du cas d'urgence à la misère du monde ; mais ce qui rendait le devoir évident, l'unicité, l'urgence, la certitude, disparaît dans le cas global.",
+    "en": "The argument extends the duty of rescue from the emergency case to the world's misery; but what made the duty obvious, uniqueness, urgency, certainty, vanishes in the global case."
+  },
+  "summary": {
+    "fr": "À l'étang, je suis seul à pouvoir sauver, le besoin est immédiat, l'acte ponctuel et l'effet certain ; la misère mondiale est permanente, l'affaire de milliards d'acteurs, et l'effet d'un don incertain. Transporter la même obligation, c'est faire peser sur l'individu ce qui relève d'une action collective et institutionnelle.",
+    "en": "At the pond, I alone can save, the need is immediate, the act one-off and the effect certain; world misery is permanent, the business of billions of agents, and a donation's effect uncertain. Carrying the same obligation over is to lay on the individual what belongs to collective, institutional action."
+  },
+  "development": [
+    {
+      "fr": "L'argument tire d'un cas d'urgence, l'enfant qui se noie devant moi, un devoir général de secourir tous les malheureux du monde.",
+      "en": "The argument draws from an emergency case, the child drowning before me, a general duty to rescue all the world's destitute."
+    },
+    {
+      "fr": "Mais les deux situations diffèrent sur ce qui faisait la force du premier cas : à l'étang je suis seul à pouvoir sauver, le besoin est ici et maintenant, l'acte ponctuel et son effet certain. La misère du monde est permanente, l'affaire de milliards d'acteurs, et l'effet de mon don incertain.",
+      "en": "But the two situations differ on what gave the first case its force: at the pond I alone can save, the need is here and now, the act one-off and its effect certain. The world's misery is permanent, the business of billions of agents, and the effect of my donation uncertain."
+    },
+    {
+      "fr": "Ce qui rendait le devoir évident, l'unicité, l'urgence, la certitude, disparaît dans le cas global : y transporter la même obligation, c'est traiter une condition durable comme une suite d'urgences, et faire peser sur l'individu ce qui relève d'une action collective.",
+      "en": "What made the duty obvious, uniqueness, urgency, certainty, vanishes in the global case: to carry the same obligation over is to treat a lasting condition as a string of emergencies, and to lay on the individual what belongs to collective action."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc de l'étang on ne peut conclure à un devoir individuel illimité : la vraie réponse à la misère du monde est une affaire de justice et d'institutions, non le sacrifice sans fin de chacun.",
+    "en": "So from the pond one cannot conclude to an unlimited individual duty: the true answer to the world's misery is a matter of justice and institutions, not each person's endless sacrifice."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": { "fr": "Pogge", "en": "Pogge" },
+    "figures": [{ "name": { "fr": "Pogge", "en": "Pogge" }, "kind": "PHILOSOPHER" }],
+    "work": { "fr": "World Poverty and Human Rights", "en": "World Poverty and Human Rights" },
+    "year": 2002
+  },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est vrai : le cas global n'est pas l'étang. Mon devoir strict reste de ne pas nuire et de secourir dans l'urgence ; le reste relève des institutions.",
+        "en": "True: the global case is not the pond. My strict duty remains not to harm and to rescue in emergencies; the rest belongs to institutions."
+      },
+      "hints": [{ "axisId": "MORAL_DEMAND", "value": { "kind": "scalar", "value": -0.6 }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous revenez vers le minimalisme, complété par un devoir de justice : réformer les structures plutôt qu'exiger le sacrifice individuel.",
+        "en": "You return toward minimalism, completed by a duty of justice: reforming structures rather than requiring individual sacrifice."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je garde un devoir d'aide personnel, ma part équitable, mais le gros de la tâche revient à l'action collective et aux institutions.",
+        "en": "I keep a personal duty of aid, my fair share, but the bulk of the task falls to collective action and institutions."
+      },
+      "hints": [{ "axisId": "MORAL_DEMAND", "value": { "kind": "scalar", "value": 0 }, "weight": 1 }],
+      "discussion": {
+        "fr": "La voie de la « part équitable » : chacun doit sa contribution, nul ne doit porter seul le poids du monde.",
+        "en": "The 'fair share' path: each owes their contribution, no one owes to carry the world alone."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Ces différences aggravent l'obligation au lieu de l'atténuer : que d'autres n'aident pas ne me dispense pas, et l'incertitude se corrige en donnant aux causes les plus efficaces.",
+        "en": "These differences worsen the obligation rather than lessen it: that others fail to help does not excuse me, and uncertainty is corrected by giving to the most effective causes."
+      },
+      "hints": [{ "axisId": "MORAL_DEMAND", "value": { "kind": "scalar", "value": 1 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "La réponse maximaliste, celle de l'altruisme efficace : l'inaction des autres et l'incertitude sont des paramètres du calcul, non des dispenses.",
+        "en": "The maximalist reply, that of effective altruism: others' inaction and uncertainty are parameters of the calculation, not exemptions."
+      }
+    }
+  ],
+  "targets": ["maximalism-prevent-harm"],
+  "problems": ["rescue-at-distance", "charity-or-justice"],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

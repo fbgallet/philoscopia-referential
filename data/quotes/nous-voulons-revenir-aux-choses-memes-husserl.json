@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Husserl", "en": "Husserl" }, "kind": "PHILOSOPHER", "slug": "husserl" },
   "work": "logical-investigations-husserl",
   "source": { "fr": "Recherches logiques, II", "en": "Logical Investigations, II" },
-  "anchors": [{ "axisId": "INTERIORITY" }],
+  "anchors": [{ "axisId": "INTERIORITY", "poleId": "EXAMINED_LIFE" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

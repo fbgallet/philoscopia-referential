@@ -16,7 +16,7 @@
 
 **⇒** Donc la philosophie n'apporte pas des thèses de plus mais de la clarté : elle apprend à penser, et se mesure aux illusions qu'elle dissipe, non aux doctrines qu'elle édifie.
 
-**Contesté par** : [Ne pas jeter les vraies questions](../arguments/clarification-real-questions-objection.md)
+**Contesté par** : [Ne pas jeter les vraies questions](../arguments/clarification-real-questions-objection.md) · [Des professeurs de philosophie, pas des philosophes](../arguments/clarification-professors-objection.md)
 
 **Porte sur les problèmes** : [Vrais problèmes ou confusions](../axes/metaphilosophy.md) · [La philosophie avance-t-elle ?](../axes/metaphilosophy.md) · [La philosophie et les sciences](../axes/metaphilosophy.md)
 

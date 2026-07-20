@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Thomas d'Aquin", "en": "Thomas Aquinas" }, "kind": "PHILOSOPHER", "slug": "aquinas" },
   "work": "summa-theologiae-aquinas",
   "source": { "fr": "Somme théologique, IIa-IIae, q. 23, a. 1", "en": "Summa Theologiae, IIa-IIae, q. 23, a. 1" },
-  "anchors": [{ "axisId": "LOVE_NATURE" }],
+  "anchors": [{ "axisId": "LOVE_NATURE", "poleId": "AGAPE_AS_GIFT" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

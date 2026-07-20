@@ -1,0 +1,84 @@
+{
+  "id": "maximalism-demandingness-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "MORAL_DEMAND", "poleId": "MAXIMALISM" },
+  "name": { "fr": "Une vie à soi", "en": "A life of one's own" },
+  "attacks": "POSITION",
+  "claim": {
+    "fr": "Poussé jusqu'au bout, le principe maximaliste ne s'arrête jamais : il dévore les projets, les attachements, la vie même de celui qu'il prétend rendre bon.",
+    "en": "Pushed to its end, the maximalist principle never stops: it devours the projects, the attachments, the very life of the one it claims to make good."
+  },
+  "summary": {
+    "fr": "Le principe ne connaît pas de borne : tant qu'un mal reste évitable, je dois donner, jusqu'à avoir moi-même besoin de secours. Mais une vie humaine tient à des attachements poursuivis pour eux-mêmes ; le « saint moral » qui n'agit plus que pour soulager la misère a une vie appauvrie, presque inhumaine. La morale ne peut tout exiger.",
+    "en": "The principle knows no bound: as long as an evil remains preventable, I must give, until I myself need rescue. But a human life rests on attachments pursued for their own sake; the 'moral saint' who acts only to relieve misery has an impoverished, almost inhuman life. Morality cannot demand everything."
+  },
+  "development": [
+    {
+      "fr": "Le principe maximaliste, poussé jusqu'au bout, ne s'arrête jamais : tant qu'un mal reste évitable à un coût moindre que lui, je dois donner, mon temps, mon argent, mes projets, jusqu'au point où j'aurais moi-même besoin d'être secouru.",
+      "en": "The maximalist principle, pushed to its end, never stops: as long as an evil remains preventable at a cost lesser than itself, I must give, my time, my money, my projects, up to the point where I would myself need rescuing."
+    },
+    {
+      "fr": "Mais une vie humaine tient à des attachements et des projets poursuivis pour eux-mêmes, non pour maximiser le bien du monde. Les sommer de céder à chaque instant au calcul du plus grand bien, c'est arracher à l'agent son <kw>intégrité</kw> même.",
+      "en": "But a human life rests on attachments and projects pursued for their own sake, not to maximize the world's good. To summon them to yield at every instant to the calculus of the greater good is to tear from the agent their very <kw>integrity</kw>."
+    },
+    {
+      "fr": "Un « saint moral » qui n'agirait plus que pour soulager la misère aurait une vie appauvrie, sans projets propres, presque inhumaine : non un idéal, mais la dissolution de la personne dans une exigence sans fin.",
+      "en": "A 'moral saint' who acted only to relieve misery would have an impoverished life, without projects of their own, almost inhuman: not an ideal, but the dissolution of the person into an endless demand."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la morale ne peut tout exiger : il faut une part de vie qui m'appartienne, faute de quoi le devoir dévore celui-là même qu'il prétend rendre bon.",
+    "en": "So morality cannot demand everything: there must be a part of life that is my own, failing which duty devours the very person it claims to make good."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": { "fr": "Bernard Williams, Susan Wolf", "en": "Bernard Williams, Susan Wolf" },
+    "figures": [
+      { "name": { "fr": "Bernard Williams", "en": "Bernard Williams" }, "kind": "PHILOSOPHER", "slug": "williams" },
+      { "name": { "fr": "Susan Wolf", "en": "Susan Wolf" }, "kind": "PHILOSOPHER" }
+    ],
+    "work": { "fr": "« Les saints moraux »", "en": "'Moral Saints'" },
+    "year": 1982
+  },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est vrai : une morale qui absorbe toute la vie exige trop. Le devoir strict s'arrête à ne pas nuire ; le reste m'appartient.",
+        "en": "True: a morality that absorbs a whole life demands too much. Strict duty stops at not harming; the rest is mine."
+      },
+      "hints": [{ "axisId": "MORAL_DEMAND", "value": { "kind": "scalar", "value": -0.6 }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous revenez vers le minimalisme : la surérogation existe, le sacrifice s'admire et ne s'exige pas.",
+        "en": "You return toward minimalism: supererogation exists, sacrifice is admired, not required."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je garde un fort devoir d'aide, mais borné : une part équitable, compatible avec mes projets et mes proches, non un sacrifice sans fin.",
+        "en": "I keep a strong duty of aid, but a bounded one: a fair share, compatible with my projects and my loved ones, not an endless sacrifice."
+      },
+      "hints": [{ "axisId": "MORAL_DEMAND", "value": { "kind": "scalar", "value": 0 }, "weight": 1 }],
+      "discussion": {
+        "fr": "Un maximalisme tempéré : l'aide est un devoir réel, mais la morale laisse place à une vie à soi.",
+        "en": "A tempered maximalism: aid is a real duty, but morality leaves room for a life of one's own."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "L'« intégrité » sonne creux face à l'enfant qui meurt : ce sont souvent les privilégiés qui invoquent leur vie à eux pour ne pas partager. L'exigence paraît démesurée parce que le monde l'est.",
+        "en": "'Integrity' rings hollow before a dying child: it is often the privileged who invoke their own life so as not to share. The demand seems excessive because the world is."
+      },
+      "hints": [{ "axisId": "MORAL_DEMAND", "value": { "kind": "scalar", "value": 1 }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "La réponse maximaliste : le confort de l'agent ne fixe pas la mesure du devoir ; c'est l'ampleur du mal évitable qui la fixe.",
+        "en": "The maximalist reply: the agent's comfort does not set the measure of duty; the scale of preventable evil does."
+      }
+    }
+  ],
+  "targets": ["maximalism-prevent-harm"],
+  "problems": ["a-life-of-ones-own", "beyond-duty", "what-humans-can-bear"],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

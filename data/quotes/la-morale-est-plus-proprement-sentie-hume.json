@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Hume", "en": "Hume" }, "kind": "PHILOSOPHER", "slug": "hume" },
   "work": "treatise-of-human-nature-hume",
   "source": { "fr": "Traité de la nature humaine, III, I, 2", "en": "A Treatise of Human Nature, III, I, 2" },
-  "anchors": [{ "axisId": "ETHICS_FOUNDATION" }],
+  "anchors": [{ "axisId": "ETHICS_FOUNDATION", "poleId": "CARE_ETHICS" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

@@ -48,11 +48,15 @@ La philosophie ne délivre ni vérités sur le monde ni recettes de vie : elle a
 
 - *Comprendre le monde* · pour : [La théôria, activité la plus haute](../arguments/contemplation-theoria.md)
 - *Comprendre le monde* · contre : [La chouette de Minerve arrive trop tard](../arguments/contemplation-eleventh-thesis-objection.md)
+- *Comprendre le monde* · contre : [La science a pris le relais](../arguments/contemplation-science-takeover-objection.md)
 - *Transformer le monde* · pour : [Transformer, non seulement interpréter](../arguments/world-transformation-praxis.md)
 - *Transformer le monde* · contre : [Agir sans comprendre, c'est agir en aveugle](../arguments/world-transformation-blind-praxis-objection.md)
+- *Transformer le monde* · contre : [Un avis sur tout, un savoir sur rien](../arguments/world-transformation-punditry-objection.md)
 - *Se transformer soi-même* · pour : [La philosophie comme manière de vivre](../arguments/self-transformation-way-of-life.md)
 - *Se transformer soi-même* · contre : [Se soigner, ou chercher le vrai ?](../arguments/self-transformation-consolation-objection.md)
+- *Se transformer soi-même* · contre : [Le développement personnel fait mieux](../arguments/self-transformation-self-help-objection.md)
 - *Clarifier la pensée* · pour : [Dissoudre les faux problèmes](../arguments/clarification-dissolve-confusions.md)
+- *Clarifier la pensée* · contre : [Des professeurs de philosophie, pas des philosophes](../arguments/clarification-professors-objection.md)
 - *Clarifier la pensée* · contre : [Ne pas jeter les vraies questions](../arguments/clarification-real-questions-objection.md)
 
 ## Citations

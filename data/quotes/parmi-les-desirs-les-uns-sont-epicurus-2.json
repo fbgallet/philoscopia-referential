@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Épicure", "en": "Epicurus" }, "kind": "PHILOSOPHER", "slug": "epicurus" },
   "work": "letter-to-menoeceus-epicurus",
   "source": { "fr": "Lettre à Ménécée, 127", "en": "Letter to Menoeceus, 127" },
-  "anchors": [{ "axisId": "DESIRE" }],
+  "anchors": [{ "axisId": "DESIRE", "poleId": "REASONED_SELECTION" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

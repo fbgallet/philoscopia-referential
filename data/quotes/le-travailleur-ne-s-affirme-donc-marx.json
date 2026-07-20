@@ -3,6 +3,6 @@
   "text": { "fr": "Le travailleur ne s'affirme donc pas dans son travail, mais s'y nie ; ne s'y sent pas à l'aise, mais malheureux.", "en": "The worker therefore does not affirm himself in his labour but denies himself; does not feel content but unhappy." },
   "author": { "name": { "fr": "Marx", "en": "Marx" }, "kind": "PHILOSOPHER", "slug": "marx" },
   "source": { "fr": "Manuscrits de 1844", "en": "1844 Manuscripts" },
-  "anchors": [{ "axisId": "WORK_MEANING" }],
+  "anchors": [{ "axisId": "WORK_MEANING", "poleId": "ALIENATION" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

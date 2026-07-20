@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Épicure", "en": "Epicurus" }, "kind": "PHILOSOPHER", "slug": "epicurus" },
   "work": "principal-doctrines-epicurus",
   "source": { "fr": "Maximes capitales, II", "en": "Principal Doctrines, II" },
-  "anchors": [{ "axisId": "DEATH" }],
+  "anchors": [{ "axisId": "DEATH", "poleId": "EPICUREANISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

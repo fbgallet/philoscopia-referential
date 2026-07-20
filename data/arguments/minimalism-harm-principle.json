@@ -1,0 +1,46 @@
+{
+  "id": "minimalism-harm-principle",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "MORAL_DEMAND", "poleId": "MINIMALISM" },
+  "name": { "fr": "Le principe de non-nuisance", "en": "The harm principle" },
+  "claim": {
+    "fr": "La morale exige peu, mais fermement : ne pas nuire à autrui. Tant que je ne fais de tort à personne, ma vie ne regarde que moi.",
+    "en": "Morality demands little, but demands it firmly: do not harm others. As long as I wrong no one, my life is my own business."
+  },
+  "summary": {
+    "fr": "Un devoir est ce qu'on peut exiger de chacun, au besoin par le blâme ; or on ne peut exiger de tous que le minimum sans lequel la vie commune est impossible : ne pas nuire. Le dévouement est admirable mais ne peut être un dû, sous peine de changer toute vie ordinaire en faute.",
+    "en": "A duty is what may be demanded of everyone, by blame if need be; but all that can be demanded of everyone is the minimum without which common life is impossible: do no harm. Devotion is admirable but cannot be owed, on pain of turning every ordinary life into a fault."
+  },
+  "development": [
+    {
+      "fr": "Un devoir, c'est ce qu'on peut légitimement exiger de chacun, au besoin par le blâme ou la contrainte : sa marque est qu'on peut reprocher à quiconque d'y manquer.",
+      "en": "A duty is what may legitimately be demanded of everyone, by blame or coercion if need be: its mark is that anyone may be reproached for failing it."
+    },
+    {
+      "fr": "Or on ne peut exiger de tous que le minimum sans lequel la vie commune est impossible : ne pas tuer, ne pas voler, ne pas tromper, ne pas nuire. Au-delà, chacun a le droit de mener sa vie à sa guise, dès lors qu'il ne lèse personne.",
+      "en": "Now all that can be demanded of everyone is the minimum without which common life is impossible: do not kill, steal, deceive, harm. Beyond that, each has the right to lead their life as they see fit, so long as they wrong no one."
+    },
+    {
+      "fr": "Faire le bien, se dévouer, se sacrifier, est admirable mais ne peut être un dû : une morale qui érige la sainteté en devoir change toute vie ordinaire en faute, et donne à quiconque un titre à régenter la nôtre.",
+      "en": "Doing good, devoting oneself, sacrificing oneself is admirable but cannot be owed: a morality that makes saintliness a duty turns every ordinary life into a fault, and gives anyone a title to police our own."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la morale se borne à ce qu'on peut exiger de tous, ne pas nuire ; le reste, l'aide, la générosité, le sacrifice, relève de la <ax id='PARTIALITY' pole='PARTIALISM'>vie que chacun mène pour soi</ax>, non du devoir.",
+    "en": "So morality confines itself to what can be demanded of all, not harming; the rest, help, generosity, sacrifice, belongs to the <ax id='PARTIALITY' pole='PARTIALISM'>life each person leads for themselves</ax>, not to duty."
+  },
+  "difficulty": 1,
+  "source": {
+    "author": { "fr": "Mill, Ogien", "en": "Mill, Ogien" },
+    "figures": [
+      { "name": { "fr": "Mill", "en": "Mill" }, "kind": "PHILOSOPHER", "slug": "mill" },
+      { "name": { "fr": "Ruwen Ogien", "en": "Ruwen Ogien" }, "kind": "PHILOSOPHER", "slug": "ogien" }
+    ],
+    "work": { "fr": "De la liberté, I", "en": "On Liberty, I" },
+    "workId": "on-liberty-mill",
+    "year": 1859
+  },
+  "testThoughtExperiment": "drowning-child",
+  "problems": ["consent-enough", "beyond-duty", "a-life-of-ones-own"],
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

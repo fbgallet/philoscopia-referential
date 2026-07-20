@@ -3,6 +3,6 @@
   "text": { "fr": "Voici la noble vérité sur l'origine de la souffrance : c'est cette soif qui produit le renouvellement de l'existence.", "en": "This is the noble truth of the origin of suffering: it is this craving which leads to renewed existence." },
   "author": { "name": { "fr": "Le Bouddha", "en": "The Buddha" }, "kind": "PHILOSOPHER", "slug": "buddha" },
   "source": { "fr": "Dhammacakkappavattana Sutta (Saṃyutta Nikāya 56.11)", "en": "Dhammacakkappavattana Sutta (Saṃyutta Nikāya 56.11)" },
-  "anchors": [{ "axisId": "DESIRE" }],
+  "anchors": [{ "axisId": "DESIRE", "poleId": "DETACHMENT" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

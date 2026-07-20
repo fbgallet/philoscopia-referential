@@ -64,6 +64,7 @@
 - *[Dao De Jing](dao-de-jing-laozi.md)* : Laozi (300 BCE)
 - *[On the Nature of Things](on-the-nature-of-things-lucretius.md)* : Lucretius (55 BCE)
 - *[Meditations](meditations-marcus-aurelius.md)* : Marcus Aurelius (175)
+- *[On Liberty](on-liberty-mill.md)* : Mill (1859)
 - *[The Essays](essays-montaigne.md)* : Montaigne (1580)
 - *[The Birth of Tragedy](the-birth-of-tragedy-nietzsche.md)* : Nietzsche (1872)
 - *[On Truth and Lie in a Nonmoral Sense](on-truth-and-lie-in-a-nonmoral-sense-nietzsche.md)* : Nietzsche (1873)

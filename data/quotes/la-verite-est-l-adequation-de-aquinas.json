@@ -3,6 +3,6 @@
   "text": { "fr": "La vérité est l'adéquation de la chose et de l'intellect.", "en": "Truth is the adequation of thing and intellect." },
   "author": { "name": { "fr": "Thomas d'Aquin", "en": "Thomas Aquinas" }, "kind": "PHILOSOPHER", "slug": "aquinas" },
   "source": { "fr": "Questions disputées sur la vérité, q. 1, a. 1", "en": "Disputed Questions on Truth, q. 1, a. 1" },
-  "anchors": [{ "axisId": "TRUTH_NATURE" }],
+  "anchors": [{ "axisId": "TRUTH_NATURE", "poleId": "CORRESPONDENCE" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

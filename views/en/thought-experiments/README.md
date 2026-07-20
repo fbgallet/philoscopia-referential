@@ -14,6 +14,7 @@
 - [The black swan](the-black-swan.md) (Popper)
 - [The Chinese Room](chinese-room.md) (Searle)
 - [The dream and the evil demon](dream-argument.md) (Descartes)
+- [The Drowning Child](drowning-child.md) (Singer)
 - [The endless life](endless-life.md) (Bernard Williams)
 - [The eternal return](the-eternal-return.md) (Nietzsche)
 - [The experience machine](experience-machine.md) (Robert Nozick)

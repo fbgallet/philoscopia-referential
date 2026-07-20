@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Lucrèce", "en": "Lucretius" }, "kind": "PHILOSOPHER", "slug": "lucretius" },
   "work": "on-the-nature-of-things-lucretius",
   "source": { "fr": "De la nature des choses, II, 16-19", "en": "On the Nature of Things, II, 16-19" },
-  "anchors": [{ "axisId": "SOVEREIGN_GOOD" }],
+  "anchors": [{ "axisId": "SOVEREIGN_GOOD", "poleId": "HEDONISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

@@ -3,6 +3,6 @@
   "text": { "fr": "Une pierre reçoit d'une cause extérieure qui la pousse une certaine quantité de mouvement... Concevez maintenant que cette pierre, tandis qu'elle continue de se mouvoir, pense et sache qu'elle fait effort, autant qu'elle peut, pour se mouvoir. Cette pierre, assurément, puisqu'elle n'a conscience que de son effort, croira être tout à fait libre.", "en": "A stone receives from an external cause that pushes it a certain quantity of motion... Now conceive that this stone, while it continues to move, thinks and knows that it is striving, as far as it can, to move. This stone, surely, since it is conscious only of its striving, will believe itself entirely free." },
   "author": { "name": { "fr": "Spinoza", "en": "Spinoza" }, "kind": "PHILOSOPHER", "slug": "spinoza" },
   "source": { "fr": "Lettre 58 à Schuller", "en": "Letter 58 to Schuller" },
-  "anchors": [{ "axisId": "FREEDOM" }],
+  "anchors": [{ "axisId": "FREEDOM", "poleId": "DETERMINISM" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

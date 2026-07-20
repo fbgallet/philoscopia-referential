@@ -124,13 +124,17 @@
 ## [Le but de la philosophie](../axes/metaphilosophy.md)
 
 - [Dissoudre les faux problèmes](clarification-dissolve-confusions.md) (pour « Clarifier la pensée »)
+- [Des professeurs de philosophie, pas des philosophes](clarification-professors-objection.md) (contre « Clarifier la pensée »)
 - [Ne pas jeter les vraies questions](clarification-real-questions-objection.md) (contre « Clarifier la pensée »)
 - [La chouette de Minerve arrive trop tard](contemplation-eleventh-thesis-objection.md) (contre « Comprendre le monde »)
+- [La science a pris le relais](contemplation-science-takeover-objection.md) (contre « Comprendre le monde »)
 - [La théôria, activité la plus haute](contemplation-theoria.md) (pour « Comprendre le monde »)
 - [Se soigner, ou chercher le vrai ?](self-transformation-consolation-objection.md) (contre « Se transformer soi-même »)
+- [Le développement personnel fait mieux](self-transformation-self-help-objection.md) (contre « Se transformer soi-même »)
 - [La philosophie comme manière de vivre](self-transformation-way-of-life.md) (pour « Se transformer soi-même »)
 - [Agir sans comprendre, c'est agir en aveugle](world-transformation-blind-praxis-objection.md) (contre « Transformer le monde »)
 - [Transformer, non seulement interpréter](world-transformation-praxis.md) (pour « Transformer le monde »)
+- [Un avis sur tout, un savoir sur rien](world-transformation-punditry-objection.md) (contre « Transformer le monde »)
 
 ## [Cercle moral](../axes/moral-circle.md)
 
@@ -142,6 +146,14 @@
 - [L'éthique de la terre](ecocentrism-land-ethic.md) (pour « Écocentrisme »)
 - [« Peuvent-ils souffrir ? »](pathocentrism-can-they-suffer.md) (pour « Pathocentrisme »)
 - [La sensibilité, une frontière arbitraire ?](pathocentrism-reverence-objection.md) (contre « Pathocentrisme »)
+
+## [Exigence morale](../axes/moral-demand.md)
+
+- [Une vie à soi](maximalism-demandingness-objection.md) (contre « Maximalisme »)
+- [L'étang n'est pas le monde](maximalism-pond-disanalogy-objection.md) (contre « Maximalisme »)
+- [Empêcher le mal quand on le peut](maximalism-prevent-harm.md) (pour « Maximalisme »)
+- [Laisser mourir n'est pas innocent](minimalism-acts-omissions-objection.md) (contre « Minimalisme »)
+- [Le principe de non-nuisance](minimalism-harm-principle.md) (pour « Minimalisme »)
 
 ## [Partialité](../axes/partiality.md)
 
@@ -175,10 +187,13 @@
 
 ## [Souverain bien](../axes/sovereign-good.md)
 
+- [Se réaliser contre les autres](eudaimonism-comparative-self.md) (contre « Eudémonisme »)
 - [L'argument de la fonction (ergon)](eudaimonism-function-argument.md) (pour « Eudémonisme »)
 - [L'existence sans essence](eudaimonism-no-function-objection.md) (contre « Eudémonisme »)
 - [L'argument du berceau](hedonism-cradle-argument.md) (pour « Hédonisme »)
 - [Du désiré au désirable](hedonism-natural-not-good-objection.md) (contre « Hédonisme »)
+- [Le grand divertissement](hedonism-sport-divertissement.md) (contre « Hédonisme »)
+- [Le culte du dépassement](perfectionism-cult-of-performance.md) (contre « Vertu / perfectionnisme moral »)
 - [Le seul bien sans réserve](perfectionism-unconditional-good.md) (pour « Vertu / perfectionnisme moral »)
 - [Inconditionnel n'est pas total](perfectionism-unconditional-not-whole-objection.md) (contre « Vertu / perfectionnisme moral »)
 

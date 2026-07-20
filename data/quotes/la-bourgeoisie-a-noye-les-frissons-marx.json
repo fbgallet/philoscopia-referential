@@ -3,6 +3,6 @@
   "text": { "fr": "La bourgeoisie a noyé les frissons sacrés de l'extase religieuse, de l'enthousiasme chevaleresque et de la sentimentalité petite-bourgeoise dans les eaux glacées du calcul égoïste.", "en": "The bourgeoisie has drowned the most heavenly ecstasies of religious fervour, of chivalrous enthusiasm, of philistine sentimentalism, in the icy water of egotistical calculation." },
   "author": { "name": { "fr": "Marx", "en": "Marx" }, "kind": "PHILOSOPHER", "slug": "marx" },
   "source": { "fr": "Manifeste du Parti communiste, 1848", "en": "Manifesto of the Communist Party, 1848" },
-  "anchors": [{ "axisId": "SELF_INTEREST" }],
+  "anchors": [{ "axisId": "SELF_INTEREST", "poleId": "ALTRUISM" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

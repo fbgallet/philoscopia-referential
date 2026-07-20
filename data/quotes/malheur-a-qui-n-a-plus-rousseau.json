@@ -3,6 +3,6 @@
   "text": { "fr": "Malheur à qui n'a plus rien à désirer ! il perd pour ainsi dire tout ce qu'il possède.", "en": "Woe to him who has nothing left to desire! He loses, as it were, all that he possesses." },
   "author": { "name": { "fr": "Rousseau", "en": "Rousseau" }, "kind": "PHILOSOPHER", "slug": "rousseau" },
   "source": { "fr": "Julie ou la Nouvelle Héloïse, VI", "en": "Julie, or the New Heloise, VI" },
-  "anchors": [{ "axisId": "DESIRE" }],
+  "anchors": [{ "axisId": "DESIRE", "poleId": "AFFIRMATION" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

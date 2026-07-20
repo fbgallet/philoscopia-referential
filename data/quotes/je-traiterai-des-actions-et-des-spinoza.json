@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Spinoza", "en": "Spinoza" }, "kind": "PHILOSOPHER", "slug": "spinoza" },
   "work": "ethics-spinoza",
   "source": { "fr": "Éthique, III, préface", "en": "Ethics, III, preface" },
-  "anchors": [{ "axisId": "EMOTIONS" }],
+  "anchors": [{ "axisId": "EMOTIONS", "poleId": "INTELLECTUALISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

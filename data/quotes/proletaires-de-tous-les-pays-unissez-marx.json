@@ -3,6 +3,6 @@
   "text": { "fr": "Prolétaires de tous les pays, unissez-vous !", "en": "Working Men of All Countries, Unite!" },
   "author": { "name": { "fr": "Marx", "en": "Marx" }, "kind": "PHILOSOPHER", "slug": "marx" },
   "source": { "fr": "Manifeste du Parti communiste, 1848", "en": "Manifesto of the Communist Party, 1848" },
-  "anchors": [{ "axisId": "BELONGING" }],
+  "anchors": [{ "axisId": "BELONGING", "poleId": "COSMOPOLITANISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

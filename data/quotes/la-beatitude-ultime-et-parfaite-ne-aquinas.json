@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Thomas d'Aquin", "en": "Thomas Aquinas" }, "kind": "PHILOSOPHER", "slug": "aquinas" },
   "work": "summa-theologiae-aquinas",
   "source": { "fr": "Somme théologique, Ia-IIae, q. 3, a. 8", "en": "Summa Theologiae, Ia-IIae, q. 3, a. 8" },
-  "anchors": [{ "axisId": "SOVEREIGN_GOOD" }],
+  "anchors": [{ "axisId": "SOVEREIGN_GOOD", "poleId": "MORAL_PERFECTIONISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

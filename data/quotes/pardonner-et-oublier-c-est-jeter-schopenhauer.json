@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Schopenhauer", "en": "Schopenhauer" }, "kind": "PHILOSOPHER", "slug": "schopenhauer" },
   "work": "parerga-and-paralipomena-schopenhauer",
   "source": { "fr": "Parerga et Paralipomena, « Aphorismes sur la sagesse dans la vie »", "en": "Parerga and Paralipomena, 'Aphorisms on the Wisdom of Life'" },
-  "anchors": [{ "axisId": "FORGIVENESS" }],
+  "anchors": [{ "axisId": "FORGIVENESS", "poleId": "CONDITIONALISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

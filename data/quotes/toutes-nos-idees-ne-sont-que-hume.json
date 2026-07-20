@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Hume", "en": "Hume" }, "kind": "PHILOSOPHER", "slug": "hume" },
   "work": "enquiry-concerning-human-understanding-hume",
   "source": { "fr": "Enquête sur l'entendement humain, sect. II", "en": "Enquiry Concerning Human Understanding, sect. II" },
-  "anchors": [{ "axisId": "KNOWLEDGE_SOURCE" }],
+  "anchors": [{ "axisId": "KNOWLEDGE_SOURCE", "poleId": "EMPIRICISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

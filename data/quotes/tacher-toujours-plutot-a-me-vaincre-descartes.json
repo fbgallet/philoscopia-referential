@@ -3,6 +3,6 @@
   "text": { "fr": "Tâcher toujours plutôt à me vaincre que la fortune, et à changer mes désirs que l'ordre du monde.", "en": "To strive always to master myself rather than fortune, and to change my desires rather than the order of the world." },
   "author": { "name": { "fr": "Descartes", "en": "Descartes" }, "kind": "PHILOSOPHER", "slug": "descartes" },
   "source": { "fr": "Discours de la méthode, III", "en": "Discourse on Method, III" },
-  "anchors": [{ "axisId": "DESIRE" }],
+  "anchors": [{ "axisId": "DESIRE", "poleId": "REASONED_SELECTION" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

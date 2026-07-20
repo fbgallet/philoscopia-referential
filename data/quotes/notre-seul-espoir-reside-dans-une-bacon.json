@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Bacon", "en": "Bacon" }, "kind": "PHILOSOPHER", "slug": "bacon" },
   "work": "novum-organum-bacon",
   "source": { "fr": "Novum Organum, I, §14", "en": "Novum Organum, I, §14" },
-  "anchors": [{ "axisId": "SCIENTIFIC_METHOD" }],
+  "anchors": [{ "axisId": "SCIENTIFIC_METHOD", "poleId": "INDUCTIVISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

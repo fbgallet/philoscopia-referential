@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" },
   "work": "nicomachean-ethics-aristotle",
   "source": { "fr": "Éthique à Nicomaque, IX, 4", "en": "Nicomachean Ethics, IX, 4" },
-  "anchors": [{ "axisId": "LOVE_NATURE" }],
+  "anchors": [{ "axisId": "LOVE_NATURE", "poleId": "PHILIA" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

@@ -14,7 +14,7 @@
 2. Mais toute pensée surgit d'une situation et d'un rapport de forces : décrire l'ordre existant comme « rationnel » ou « naturel », c'est déjà le légitimer ; se dire neutre, c'est prendre parti pour ce qui est.
 3. La chouette de Minerve ne prend son vol qu'au crépuscule : la contemplation arrive toujours trop tard, quand une forme de vie est déjà finie. Comprendre sans agir, c'est laisser le monde tel quel, donc consentir à ses injustices.
 
-**⇒** Donc interpréter le monde ne suffit pas : une pensée qui n'en change rien n'est pas neutre mais complice ; sa vraie tâche est de transformer ce qu'elle comprend.
+**⇒** Donc la contemplation manque sa propre prétention : se dire au-dessus des partis est déjà prendre parti, et le regard « pur » sur le monde consent en silence à ce qui est.
 
 ## Issues face à l'objection
 

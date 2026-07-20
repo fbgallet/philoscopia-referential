@@ -3,6 +3,6 @@
   "text": { "fr": "La religion est le soupir de la créature accablée, l'âme d'un monde sans cœur, l'esprit de conditions dénuées d'esprit. C'est l'opium du peuple.", "en": "Religion is the sigh of the oppressed creature, the heart of a heartless world, the soul of soulless conditions. It is the opium of the people." },
   "author": { "name": { "fr": "Marx", "en": "Marx" }, "kind": "PHILOSOPHER", "slug": "marx" },
   "source": { "fr": "Critique de la philosophie du droit de Hegel, introduction", "en": "Critique of Hegel's Philosophy of Right, introduction" },
-  "anchors": [{ "axisId": "GOD_EXISTENCE" }],
+  "anchors": [{ "axisId": "GOD_EXISTENCE", "poleId": "ATHEISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

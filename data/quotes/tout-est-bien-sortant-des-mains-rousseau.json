@@ -3,6 +3,6 @@
   "text": { "fr": "Tout est bien sortant des mains de l'Auteur des choses, tout dégénère entre les mains de l'homme.", "en": "Everything is good as it leaves the hands of the Author of things; everything degenerates in the hands of man." },
   "author": { "name": { "fr": "Rousseau", "en": "Rousseau" }, "kind": "PHILOSOPHER", "slug": "rousseau" },
   "source": { "fr": "Émile, livre I", "en": "Emile, book I" },
-  "anchors": [{ "axisId": "HUMAN_VISION" }],
+  "anchors": [{ "axisId": "HUMAN_VISION", "poleId": "ANTHROPOLOGICAL_OPTIMISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

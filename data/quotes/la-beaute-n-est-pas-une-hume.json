@@ -3,6 +3,6 @@
   "text": { "fr": "La beauté n'est pas une qualité des choses mêmes : elle existe seulement dans l'esprit qui les contemple, et chaque esprit perçoit une beauté différente.", "en": "Beauty is no quality in things themselves: it exists merely in the mind which contemplates them; and each mind perceives a different beauty." },
   "author": { "name": { "fr": "Hume", "en": "Hume" }, "kind": "PHILOSOPHER", "slug": "hume" },
   "source": { "fr": "Essais, « De la norme du goût »", "en": "Essays, \"Of the Standard of Taste\"" },
-  "anchors": [{ "axisId": "BEAUTY" }],
+  "anchors": [{ "axisId": "BEAUTY", "poleId": "SUBJECTIVE_BEAUTY" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

@@ -1,0 +1,81 @@
+{
+  "id": "clarification-professors-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "METAPHILOSOPHY", "poleId": "CLARIFICATION" },
+  "name": { "fr": "Des professeurs de philosophie, pas des philosophes", "en": "Professors of philosophy, not philosophers" },
+  "attacks": "POSITION",
+  "claim": {
+    "fr": "Devenue un métier d'université, la philosophie qui promettait d'apprendre à penser ne parle plus guère qu'à ses spécialistes : des articles qui répondent à des articles, dans une langue que le dehors ne lit pas.",
+    "en": "Turned into a university trade, the philosophy that promised to teach thinking now speaks mostly to its own specialists: papers answering papers, in a language the outside world does not read."
+  },
+  "summary": {
+    "fr": "Thoreau visait déjà la philosophie qui se professe sans se vivre : « il y a de nos jours des professeurs de philosophie, mais pas de philosophes ». Étendue à l'université d'aujourd'hui, l'objection soulève une <dif>tension entre la rigueur technique et les problèmes vécus</dif> : à mesure que la <kw>clarté</kw> se raffine entre spécialistes, elle risque de s'éloigner des questions communes, et la demande de sens se reporte souvent sur ceux qui parlent la langue de tous.",
+    "en": "Thoreau already aimed at philosophy professed without being lived: 'there are nowadays professors of philosophy, but not philosophers'. Extended to today's university, the objection raises a <dif>tension between technical rigor and lived problems</dif>: as <kw>clarity</kw> is refined among specialists, it risks drifting from common questions, and the demand for meaning often shifts to those who speak everyone's language."
+  },
+  "development": [
+    {
+      "fr": "L'examen critique s'est fait métier : carrières, revues spécialisées, colloques, querelles d'école. La rigueur y gagne, mais sous une forme si technique, et sur des problèmes si découpés, que le lecteur du dehors n'y reconnaît plus guère ses propres questions.",
+      "en": "Critical examination has become a profession: careers, specialized journals, conferences, sectarian disputes. Rigor gains by it, but in a form so technical, and on problems so finely carved, that the outside reader hardly recognizes their own questions in it anymore."
+    },
+    {
+      "fr": "<q>Il y a de nos jours des professeurs de philosophie, mais pas de philosophes</q>, écrivait <ph id='thoreau'>Thoreau</ph>, qui accordait qu'enseigner est admirable, à condition de vivre ce qu'on enseigne : philosopher, c'est <q>résoudre quelques-uns des problèmes de la vie, non en théorie seulement, mais en pratique</q>. L'objection s'étend d'elle-même à l'université d'aujourd'hui : une clarification qui promettait de dénouer les confusions de chacun consacre une grande part de ses forces à des nœuds qu'elle a elle-même noués.",
+      "en": "<q>There are nowadays professors of philosophy, but not philosophers</q>, wrote <ph id='thoreau'>Thoreau</ph>, who granted that professing is admirable, provided one lives what one teaches: to philosophize is <q>to solve some of the problems of life, not only theoretically, but practically</q>. The objection extends of itself to today's university: a clarification that promised to untie everyone's confusions devotes much of its strength to knots it tied itself."
+    },
+    {
+      "fr": "Pendant que les spécialistes se spécialisent encore, la demande de sens ne disparaît pas : elle se reporte sur d'autres, vulgarisateurs, coachs, idéologues, qui parlent, eux, la langue de tous. Une clarté qui circule si peu laisse le champ libre aux confusions publiques.",
+      "en": "While the specialists grow ever more specialized, the demand for meaning does not go away: it shifts to others, popularizers, coaches, ideologues, who do speak everyone's language. A clarity that circulates so little leaves the field open to public confusions."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc, dans la mesure où elle ne parle qu'à ses spécialistes, la philosophie manquerait sa tâche : une clarté qui ne circule pas ne clarifie rien pour personne, et l'examen des idées, devenu carrière, risquerait de cesser d'être l'examen de la vie.",
+    "en": "So, to the extent that it speaks only to its specialists, philosophy would fail its own task: a clarity that does not circulate clarifies nothing for anyone, and the examination of ideas, turned into a career, would risk ceasing to be the examination of life."
+  },
+  "difficulty": 1,
+  "source": {
+    "author": { "fr": "Thoreau", "en": "Thoreau" },
+    "figures": [{ "name": { "fr": "Thoreau", "en": "Thoreau" }, "kind": "PHILOSOPHER", "slug": "thoreau" }],
+    "work": { "fr": "Walden", "en": "Walden" },
+    "year": 1854
+  },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est vrai : une clarté qui ne sert qu'aux initiés a perdu sa raison d'être. La philosophie doit redevenir un exercice que chacun pratique sur sa propre vie.",
+        "en": "True: clarity that serves only the initiated has lost its point. Philosophy must again become an exercise each person practices on their own life."
+      },
+      "hints": [{ "axisId": "METAPHILOSOPHY", "value": { "kind": "weights", "weights": [0.05, 0.1, 0.5, 0.35] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous faites passer la philosophie du côté de la pratique : moins d'articles, plus d'examen vécu. Le geste de <ph id='thoreau'>Thoreau</ph> lui-même, parti l'éprouver dans les bois.",
+        "en": "You move philosophy over to practice: fewer papers, more lived examination. The move of <ph id='thoreau'>Thoreau</ph> himself, who went to test it in the woods."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "La technicité est le prix de la rigueur, ici comme ailleurs ; mais elle n'est que la moitié du travail, l'autre étant de faire redescendre la clarté dans la langue commune. Une discipline exigeante et une parole publique : l'une sans l'autre échoue.",
+        "en": "Technicality is the price of rigor, here as elsewhere; but it is only half the work, the other half being to bring clarity back down into the common language. A demanding discipline and a public voice: either without the other fails."
+      },
+      "hints": [{ "axisId": "METAPHILOSOPHY", "value": { "kind": "weights", "weights": [0.1, 0.1, 0.1, 0.7] }, "weight": 1 }],
+      "discussion": {
+        "fr": "La clarification assume ses deux faces : le laboratoire et l'agora. L'idéal des <c id='lumieres'>Lumières</c> : oser savoir, et remettre le savoir en circulation.",
+        "en": "Clarification owns both its faces: the laboratory and the agora. The ideal of the <c id='lumieres'>Enlightenment</c>: dare to know, and put knowledge back into circulation."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Reprocher à la philosophie ses spécialistes, c'est lui reprocher d'être devenue sérieuse : nul ne reproche à la physique ses équations. Les clarifications d'hier, la logique, l'analyse du langage, irriguent aujourd'hui le droit, l'informatique, l'éthique médicale ; le travail technique finit le plus souvent par outiller la pensée commune.",
+        "en": "To reproach philosophy for its specialists is to reproach it for having become serious: no one blames physics for its equations. Yesterday's clarifications, logic, the analysis of language, now irrigate law, computing, medical ethics; technical work most often ends up equipping common thought."
+      },
+      "hints": [{ "axisId": "METAPHILOSOPHY", "value": { "kind": "weights", "weights": [0.1, 0.05, 0.05, 0.8] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "La défense du métier : la division du travail intellectuel n'est pas une trahison, et ses produits se diffusent, avec retard mais sûrement.",
+        "en": "The defense of the trade: the division of intellectual labor is no betrayal, and its products spread, late but surely."
+      }
+    }
+  ],
+  "targets": ["clarification-dissolve-confusions"],
+  "problems": ["philosophy-for-whom", "real-problems-or-confusions"],
+  "updatedAt": "2026-07-18T00:00:00.000Z"
+}

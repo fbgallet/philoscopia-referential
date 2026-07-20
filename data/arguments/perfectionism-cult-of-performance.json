@@ -1,0 +1,113 @@
+{
+  "id": "perfectionism-cult-of-performance",
+  "kind": "OBJECTS",
+  "position": { "axisId": "SOVEREIGN_GOOD", "poleId": "MORAL_PERFECTIONISM" },
+  "name": { "fr": "Le culte du dépassement", "en": "The cult of self-overcoming" },
+  "attacks": "POSITION",
+  "claim": {
+    "fr": "À ériger le dépassement de soi en valeur suprême, on se change en son propre bourreau.",
+    "en": "To make self-overcoming the supreme value is to turn yourself into your own torturer."
+  },
+  "summary": {
+    "fr": "Tenir le dépassement pour le bien même installe en soi un juge qui ne désarme jamais : toujours plus fort, meilleur qu'hier, on s'épuise à n'être jamais assez. Loin de libérer, le culte de la performance condamne à l'insatisfaction, et son envers est l'épuisement, le dégoût de soi.",
+    "en": "Holding self-overcoming to be the good itself installs within you a judge that never stands down: always stronger, better than yesterday, you wear yourself out never being enough. Far from freeing, the cult of performance condemns you to dissatisfaction, and its underside is exhaustion, self-disgust."
+  },
+  "development": [
+    {
+      "fr": "La voie du dépassement fait de l'effort sur soi le lieu du bien : se vaincre, se discipliner, aller plus loin qu'hier vaudrait mieux que jouir ou que réussir.",
+      "en": "The path of self-overcoming makes effort on oneself the seat of the good: to conquer oneself, to be disciplined, to go further than yesterday would be worth more than to enjoy or to succeed."
+    },
+    {
+      "fr": "Mais ériger le dépassement en valeur suprême, c'est se donner une mesure sans terme : il y a toujours plus fort, plus rapide, un record à battre, un soi d'hier à humilier. Le <c id='culte-de-la-performance'>culte de la performance</c> installe au cœur de soi un juge qui ne dit jamais « c'est assez ».",
+      "en": "But to make self-overcoming the supreme value is to give oneself a measure with no end: there is always someone stronger, faster, a record to break, a yesterday-self to humble. The <c id='culte-de-la-performance'>cult of performance</c> installs at the heart of oneself a judge that never says \"that is enough\"."
+    },
+    {
+      "fr": "Le sportif en offre l'image : celui qui ne vaut qu'autant qu'il se surpasse s'épuise à le prouver, et vit chaque limite non comme un fait, mais comme une faute. <per>Alain Ehrenberg</per> a nommé cet envers « la fatigue d'être soi » : la dépression comme ombre portée de l'injonction à toujours performer.",
+      "en": "The athlete offers its image: whoever is worth only as much as they surpass themselves wears out proving it, and lives each limit not as a fact, but as a fault. <per>Alain Ehrenberg</per> named this underside \"the weariness of the self\": depression as the shadow cast by the injunction to keep performing."
+    },
+    {
+      "fr": "Ce qui devait forger le caractère le ronge donc : la discipline se retourne en tyrannie intérieure, l'exigence en violence contre soi.",
+      "en": "What was meant to forge character therefore gnaws at it: discipline turns into inner tyranny, demandingness into violence against oneself."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc faire du dépassement le souverain bien, ce n'est pas s'élever, c'est se condamner : une valeur sans mesure devient un maître sans pitié.",
+    "en": "So to make self-overcoming the highest good is not to rise, it is to condemn oneself: a value with no measure becomes a master with no mercy."
+  },
+  "deepenings": [
+    {
+      "id": "from-discipline-to-performance",
+      "label": {
+        "fr": "D'où vient cette injonction à se dépasser",
+        "en": "Where the injunction to surpass oneself comes from"
+      },
+      "targetStep": 2,
+      "summary": {
+        "fr": "Nous serions passés d'une société de la discipline, réglée par le permis et le défendu, à une société de la performance, où seul compte le possible : le soi devient alors sa propre tâche, sans limite qui le repose.",
+        "en": "We are said to have passed from a society of discipline, ruled by the permitted and the forbidden, to a society of performance, where only the possible counts: the self then becomes its own task, with no limit to rest it."
+      },
+      "development": [
+        {
+          "fr": "<per>Ehrenberg</per> situe l'origine de ce mal dans un basculement : hier, l'individu se réglait sur ce qui était permis ou défendu ; aujourd'hui, sur ce qui est possible, sur ce qu'il pourrait accomplir.",
+          "en": "<per>Ehrenberg</per> locates the origin of this ill in a shift: yesterday, the individual measured themselves against what was permitted or forbidden; today, against what is possible, against what they could achieve."
+        },
+        {
+          "fr": "Or rien, au dehors, ne vient plus dire « tu as atteint ta place » : libéré des interdits, le soi devient sa propre tâche infinie, seul responsable de sa réussite comme de son échec, et l'épuisement remplace la faute d'autrefois.",
+          "en": "But nothing outside comes any longer to say \"you have reached your place\": freed from prohibitions, the self becomes its own endless task, alone responsible for its success as for its failure, and exhaustion replaces the guilt of former times."
+        }
+      ],
+      "source": {
+        "author": { "fr": "Ehrenberg", "en": "Ehrenberg" },
+        "figures": [{ "name": { "fr": "Alain Ehrenberg", "en": "Alain Ehrenberg" }, "kind": "PHILOSOPHER" }],
+        "work": { "fr": "La Fatigue d'être soi", "en": "The Weariness of the Self" },
+        "year": 1998
+      }
+    }
+  ],
+  "difficulty": 1,
+  "source": {
+    "author": { "fr": "Ehrenberg", "en": "Ehrenberg" },
+    "figures": [{ "name": { "fr": "Alain Ehrenberg", "en": "Alain Ehrenberg" }, "kind": "PHILOSOPHER" }],
+    "work": { "fr": "Le Culte de la performance ; La Fatigue d'être soi", "en": "The Cult of Performance; The Weariness of the Self" },
+    "year": 1998
+  },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est vrai : le dépassement sans mesure devient un piège. Je préfère chercher à me réaliser, à déployer ce que je peux, plutôt qu'à me punir de n'être jamais assez.",
+        "en": "True: self-overcoming without measure becomes a trap. I would rather seek to realize myself, to unfold what I can, than to punish myself for never being enough."
+      },
+      "hints": [{ "axisId": "SOVEREIGN_GOOD", "value": { "kind": "weights", "weights": [0.15, 0.6, 0.25] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous glissez du perfectionnisme vers l'<c id='eudaimonism'>épanouissement</c> : l'accomplissement de soi plutôt que la surenchère sur soi.",
+        "en": "You slide from perfectionism toward <c id='eudaimonism'>flourishing</c>: fulfilling yourself rather than forever outbidding yourself."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je continue de tenir le dépassement pour un bien, mais je l'accorde : il ne doit pas devenir ce juge intérieur qui ne pardonne rien.",
+        "en": "I still hold self-overcoming to be a good, but I grant it: it must not become that inner judge that forgives nothing."
+      },
+      "hints": [{ "axisId": "SOVEREIGN_GOOD", "value": { "kind": "weights", "weights": [0.1, 0.25, 0.65] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous gardez la vertu de l'effort en lui ôtant sa démesure : se dépasser, sans se maltraiter.",
+        "en": "You keep the virtue of effort while stripping it of its excess: to surpass oneself, without mistreating oneself."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Ce que vous appelez se torturer, je l'appelle exiger de soi. Que le culte de la performance dévoie l'effort ne condamne pas l'effort : c'est l'abus qui est en cause, non la valeur.",
+        "en": "What you call torturing oneself, I call demanding of oneself. That the cult of performance perverts effort does not condemn effort: it is the abuse that is at issue, not the value."
+      },
+      "hints": [{ "axisId": "SOVEREIGN_GOOD", "value": { "kind": "weights", "weights": [0, 0, 1] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous distinguez la vertu du dépassement de sa caricature moderne : l'ascèse choisie n'est pas la performance subie.",
+        "en": "You distinguish the virtue of self-overcoming from its modern caricature: chosen askesis is not performance endured."
+      }
+    }
+  ],
+  "updatedAt": "2026-07-18T00:00:00.000Z"
+}

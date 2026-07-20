@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Épictète", "en": "Epictetus" }, "kind": "PHILOSOPHER", "slug": "epictetus" },
   "work": "enchiridion-epictetus",
   "source": { "fr": "Manuel, §46", "en": "Enchiridion, §46" },
-  "anchors": [{ "axisId": "SINCERITY" }],
+  "anchors": [{ "axisId": "SINCERITY", "poleId": "TRUTHFUL_RIGORISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

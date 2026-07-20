@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Spinoza", "en": "Spinoza" }, "kind": "PHILOSOPHER", "slug": "spinoza" },
   "work": "ethics-spinoza",
   "source": { "fr": "Éthique, II, prop. 40, scolie 2", "en": "Ethics, II, prop. 40, scholium 2" },
-  "anchors": [{ "axisId": "KNOWLEDGE_SOURCE" }],
+  "anchors": [{ "axisId": "KNOWLEDGE_SOURCE", "poleId": "RATIONALISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

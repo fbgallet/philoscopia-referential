@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Épictète", "en": "Epictetus" }, "kind": "PHILOSOPHER", "slug": "epictetus" },
   "work": "enchiridion-epictetus",
   "source": { "fr": "Manuel, §5", "en": "Enchiridion, §5" },
-  "anchors": [{ "axisId": "EMOTIONS" }],
+  "anchors": [{ "axisId": "EMOTIONS", "poleId": "INTELLECTUALISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

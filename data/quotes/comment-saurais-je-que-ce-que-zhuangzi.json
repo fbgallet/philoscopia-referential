@@ -3,6 +3,6 @@
   "text": { "fr": "Comment saurais-je que ce que j'appelle savoir n'est pas de l'ignorance, et que ce que j'appelle ignorance n'est pas du savoir ?", "en": "How do I know that what I call knowing is not really ignorance, and what I call ignorance not really knowing?" },
   "author": { "name": { "fr": "Zhuangzi", "en": "Zhuangzi" }, "kind": "PHILOSOPHER", "slug": "zhuangzi" },
   "source": { "fr": "ch. 2 (Discours sur l'égalité des choses)", "en": "ch. 2 (On the Equality of Things)" },
-  "anchors": [{ "axisId": "CERTAINTY" }],
+  "anchors": [{ "axisId": "CERTAINTY", "poleId": "SKEPTICISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

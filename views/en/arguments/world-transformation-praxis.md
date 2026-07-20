@@ -16,7 +16,7 @@
 
 **⇒** So philosophy's task is not to contemplate but to transform: a thought is judged by what it frees, and to think without acting is to consent.
 
-**Challenged by** : [To act without understanding is to act blind](../arguments/world-transformation-blind-praxis-objection.md)
+**Challenged by** : [To act without understanding is to act blind](../arguments/world-transformation-blind-praxis-objection.md) · [An opinion on everything, knowledge of nothing](../arguments/world-transformation-punditry-objection.md)
 
 **Bears on the problems** : [Understanding or transforming](../axes/metaphilosophy.md) · [What is the point?](../axes/metaphilosophy.md) · [For everyone or for the few](../axes/metaphilosophy.md)
 

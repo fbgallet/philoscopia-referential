@@ -3,6 +3,6 @@
   "text": { "fr": "Le vouloir-humain est-il donc loin ? Dès que je le veux, le voici.", "en": "Is humaneness far off? No sooner do I desire it than it is here." },
   "author": { "name": { "fr": "Confucius", "en": "Confucius" }, "kind": "PHILOSOPHER", "slug": "confucius" },
   "source": { "fr": "Entretiens, VII.29", "en": "Analects, VII.29" },
-  "anchors": [{ "axisId": "FREEDOM" }],
+  "anchors": [{ "axisId": "FREEDOM", "poleId": "FREE_WILL" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

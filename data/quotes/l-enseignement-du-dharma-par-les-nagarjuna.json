@@ -3,6 +3,6 @@
   "text": { "fr": "L'enseignement du Dharma par les bouddhas repose sur deux vérités : la vérité d'enveloppement mondain et la vérité au sens ultime. Sans s'appuyer sur le conventionnel, l'ultime n'est pas enseigné ; sans atteindre l'ultime, le nirvāṇa n'est pas obtenu.", "en": "The Dharma taught by the buddhas rests on two truths: the conventional, worldly truth and the truth in the ultimate sense. Without relying on the conventional, the ultimate is not taught; without reaching the ultimate, nirvāṇa is not attained." },
   "author": { "name": { "fr": "Nāgārjuna", "en": "Nāgārjuna" }, "kind": "PHILOSOPHER", "slug": "nagarjuna" },
   "source": { "fr": "Mūlamadhyamakakārikā, XXIV, 8-10", "en": "Mūlamadhyamakakārikā, XXIV, 8-10" },
-  "anchors": [{ "axisId": "TRUTH_NATURE" }],
+  "anchors": [{ "axisId": "TRUTH_NATURE", "poleId": "PRAGMATISM" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

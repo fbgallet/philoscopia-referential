@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Locke", "en": "Locke" }, "kind": "PHILOSOPHER", "slug": "locke" },
   "work": "essay-concerning-human-understanding-locke",
   "source": { "fr": "Essai sur l'entendement humain, II, 1, §2", "en": "Essay Concerning Human Understanding, II, 1, §2" },
-  "anchors": [{ "axisId": "KNOWLEDGE_SOURCE" }],
+  "anchors": [{ "axisId": "KNOWLEDGE_SOURCE", "poleId": "EMPIRICISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

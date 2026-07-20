@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Platon", "en": "Plato" }, "kind": "PHILOSOPHER", "slug": "plato" },
   "work": "republic-plato",
   "source": { "fr": "République, VII, 515c", "en": "Republic, VII, 515c" },
-  "anchors": [{ "axisId": "REALITY_NATURE" }],
+  "anchors": [{ "axisId": "REALITY_NATURE", "poleId": "IDEALISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

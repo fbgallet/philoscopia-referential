@@ -3,6 +3,6 @@
   "text": { "fr": "Le pouvoir politique moderne n'est que le comité qui gère les affaires communes de la classe bourgeoise tout entière.", "en": "The modern state power is but a committee for managing the common affairs of the whole bourgeoisie." },
   "author": { "name": { "fr": "Marx", "en": "Marx" }, "kind": "PHILOSOPHER", "slug": "marx" },
   "source": { "fr": "Manifeste du Parti communiste, 1848", "en": "Manifesto of the Communist Party, 1848" },
-  "anchors": [{ "axisId": "AUTHORITY" }],
+  "anchors": [{ "axisId": "AUTHORITY", "poleId": "ANARCHISM" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

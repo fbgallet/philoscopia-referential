@@ -3,6 +3,6 @@
   "text": { "fr": "Un homme sans humanité, qu'a-t-il à faire des rites ? Un homme sans humanité, qu'a-t-il à faire de la musique ?", "en": "A man without humaneness, what has he to do with the rites? A man without humaneness, what has he to do with music?" },
   "author": { "name": { "fr": "Confucius", "en": "Confucius" }, "kind": "PHILOSOPHER", "slug": "confucius" },
   "source": { "fr": "Entretiens, III, 3", "en": "Analects, III, 3" },
-  "anchors": [{ "axisId": "RULE_SPIRIT" }],
+  "anchors": [{ "axisId": "RULE_SPIRIT", "poleId": "EQUITY_PHRONESIS" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

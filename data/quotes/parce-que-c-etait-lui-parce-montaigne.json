@@ -3,6 +3,6 @@
   "text": { "fr": "Parce que c'était lui, parce que c'était moi.", "en": "Because it was he, because it was I." },
   "author": { "name": { "fr": "Michel de Montaigne", "en": "Michel de Montaigne" }, "kind": "PHILOSOPHER", "slug": "montaigne" },
   "source": { "fr": "Essais, I, 28 (« De l'amitié »)", "en": "Essays, I, 28 (\"On friendship\")" },
-  "anchors": [{ "axisId": "LOVE_NATURE" }],
+  "anchors": [{ "axisId": "LOVE_NATURE", "poleId": "PHILIA" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

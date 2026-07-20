@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Bacon", "en": "Bacon" }, "kind": "PHILOSOPHER", "slug": "bacon" },
   "work": "novum-organum-bacon",
   "source": { "fr": "Novum Organum, I, §39", "en": "Novum Organum, I, §39" },
-  "anchors": [{ "axisId": "EPISTEMIC_JUSTIFICATION" }],
+  "anchors": [{ "axisId": "EPISTEMIC_JUSTIFICATION", "poleId": "RELIABILISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

@@ -14,7 +14,7 @@
 2. But this conduct varies enormously with circumstances: the same individuals, according to whether they are afraid or feel safe, whether they obey or answer for themselves, show themselves cowardly or brave, cruel or helpful. The most massive evil often owes less to monsters than to ordinary, unreflecting functionaries.
 3. What changes so with the situation is not a fixed nature: and indeed, history knows real retreats of cruelty, slavery abolished, torture outlawed, a sign that mores can be remade.
 
-**⇒** So what pessimism takes for an immovable depth is above all the effect of conditions: change the circumstances and the education, and it is not a hidden goodness one frees, but a malleable being one orients otherwise.
+**⇒** So what pessimism takes for an immovable depth is not one: its own evidence, the cruelties of ordinary functionaries, the historical retreats of violence, testifies to situations that produce evil, not to a nature that would secrete it.
 
 ## Ways out of the objection
 

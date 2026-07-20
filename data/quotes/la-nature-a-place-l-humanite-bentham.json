@@ -3,6 +3,6 @@
   "text": { "fr": "La nature a placé l'humanité sous l'empire de deux maîtres souverains, la douleur et le plaisir. C'est à eux seuls qu'il appartient de montrer ce que nous devons faire comme de déterminer ce que nous ferons.", "en": "Nature has placed mankind under the governance of two sovereign masters, pain and pleasure. It is for them alone to point out what we ought to do, as well as to determine what we shall do." },
   "author": { "name": { "fr": "Bentham", "en": "Bentham" }, "kind": "PHILOSOPHER", "slug": "bentham" },
   "source": { "fr": "Introduction aux principes de la morale et de la législation, ch. I, §1", "en": "An Introduction to the Principles of Morals and Legislation, ch. I, §1" },
-  "anchors": [{ "axisId": "SOVEREIGN_GOOD" }],
+  "anchors": [{ "axisId": "SOVEREIGN_GOOD", "poleId": "HEDONISM" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

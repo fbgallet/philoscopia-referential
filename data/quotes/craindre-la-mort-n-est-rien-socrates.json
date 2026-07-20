@@ -3,6 +3,6 @@
   "text": { "fr": "Craindre la mort n'est rien d'autre que se croire savant sans l'être, c'est croire savoir ce qu'on ne sait pas.", "en": "To fear death is nothing other than to think oneself wise when one is not, to think one knows what one does not know." },
   "author": { "name": { "fr": "Socrate", "en": "Socrates" }, "kind": "PHILOSOPHER", "slug": "socrates" },
   "source": { "fr": "Platon, Apologie, 29a", "en": "Plato, Apology, 29a" },
-  "anchors": [{ "axisId": "DEATH" }],
+  "anchors": [{ "axisId": "DEATH", "poleId": "EPICUREANISM" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

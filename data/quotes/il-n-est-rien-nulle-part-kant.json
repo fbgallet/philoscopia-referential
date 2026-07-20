@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" },
   "work": "groundwork-of-the-metaphysics-of-morals-kant",
   "source": { "fr": "Fondements de la métaphysique des mœurs, section I", "en": "Groundwork of the Metaphysics of Morals, section I" },
-  "anchors": [{ "axisId": "SOVEREIGN_GOOD" }],
+  "anchors": [{ "axisId": "SOVEREIGN_GOOD", "poleId": "MORAL_PERFECTIONISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

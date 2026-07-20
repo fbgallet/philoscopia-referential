@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" },
   "work": "ecce-homo-nietzsche",
   "source": { "fr": "Ecce Homo, « Pourquoi je suis si avisé », §10", "en": "Ecce Homo, \"Why I Am So Clever\", §10" },
-  "anchors": [{ "axisId": "PAST_RELATION" }],
+  "anchors": [{ "axisId": "PAST_RELATION", "poleId": "AMOR_FATI" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

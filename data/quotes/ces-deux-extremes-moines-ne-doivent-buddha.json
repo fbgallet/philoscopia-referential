@@ -3,6 +3,6 @@
   "text": { "fr": "Ces deux extrêmes, moines, ne doivent pas être suivis par celui qui a quitté la vie de famille : la poursuite des plaisirs des sens, et la poursuite de la mortification.", "en": "These two extremes, monks, should not be followed by one who has gone forth: the pursuit of sensual pleasure, and the pursuit of self-mortification." },
   "author": { "name": { "fr": "Le Bouddha", "en": "The Buddha" }, "kind": "PHILOSOPHER", "slug": "buddha" },
   "source": { "fr": "Dhammacakkappavattana Sutta (Saṃyutta Nikāya 56.11)", "en": "Dhammacakkappavattana Sutta (Saṃyutta Nikāya 56.11)" },
-  "anchors": [{ "axisId": "BODILY_PLEASURES" }],
+  "anchors": [{ "axisId": "BODILY_PLEASURES", "poleId": "ASCETICISM" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Hume", "en": "Hume" }, "kind": "PHILOSOPHER", "slug": "hume" },
   "work": "enquiry-concerning-human-understanding-hume",
   "source": { "fr": "Enquête sur l'entendement humain, sect. VII", "en": "Enquiry Concerning Human Understanding, sect. VII" },
-  "anchors": [{ "axisId": "CAUSALITY" }],
+  "anchors": [{ "axisId": "CAUSALITY", "poleId": "MECHANISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

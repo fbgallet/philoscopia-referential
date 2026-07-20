@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" },
   "work": "groundwork-of-the-metaphysics-of-morals-kant",
   "source": { "fr": "Fondements de la métaphysique des mœurs, section II", "en": "Groundwork of the Metaphysics of Morals, section II" },
-  "anchors": [{ "axisId": "ETHICS_FOUNDATION" }],
+  "anchors": [{ "axisId": "ETHICS_FOUNDATION", "poleId": "DEONTOLOGISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

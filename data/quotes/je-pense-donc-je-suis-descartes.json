@@ -3,6 +3,6 @@
   "text": { "fr": "Je pense, donc je suis.", "en": "I think, therefore I am." },
   "author": { "name": { "fr": "Descartes", "en": "Descartes" }, "kind": "PHILOSOPHER", "slug": "descartes" },
   "source": { "fr": "Discours de la méthode, IV", "en": "Discourse on Method, IV" },
-  "anchors": [{ "axisId": "CERTAINTY" }],
+  "anchors": [{ "axisId": "CERTAINTY", "poleId": "DOGMATISM" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

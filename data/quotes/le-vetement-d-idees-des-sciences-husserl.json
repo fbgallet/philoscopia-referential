@@ -3,6 +3,6 @@
   "text": { "fr": "Le vêtement d'idées des sciences mathématiques fait prendre pour l'être vrai ce qui n'est qu'une méthode.", "en": "The garment of ideas of the mathematical sciences makes us take for true being what is only a method." },
   "author": { "name": { "fr": "Husserl", "en": "Husserl" }, "kind": "PHILOSOPHER", "slug": "husserl" },
   "source": { "fr": "La Crise des sciences européennes, §9", "en": "The Crisis of the European Sciences, §9" },
-  "anchors": [{ "axisId": "SCIENCE_PLACE" }],
+  "anchors": [{ "axisId": "SCIENCE_PLACE", "poleId": "EPISTEMIC_PLURALISM" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

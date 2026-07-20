@@ -3,6 +3,6 @@
   "text": { "fr": "Il n'est aucun lieu où le dao ne soit.", "en": "There is no place where the dao is not." },
   "author": { "name": { "fr": "Zhuangzi", "en": "Zhuangzi" }, "kind": "PHILOSOPHER", "slug": "zhuangzi" },
   "source": { "fr": "ch. 22", "en": "ch. 22" },
-  "anchors": [{ "axisId": "TRANSCENDENCE" }],
+  "anchors": [{ "axisId": "TRANSCENDENCE", "poleId": "IMMANENCE" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

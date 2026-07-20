@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Camus", "en": "Camus" }, "kind": "PHILOSOPHER", "slug": "camus" },
   "work": "the-myth-of-sisyphus-camus",
   "source": { "fr": "Le Mythe de Sisyphe, « La liberté absurde »", "en": "The Myth of Sisyphus, 'Absurd Freedom'" },
-  "anchors": [{ "axisId": "DEATH" }],
+  "anchors": [{ "axisId": "DEATH", "poleId": "REVOLT" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

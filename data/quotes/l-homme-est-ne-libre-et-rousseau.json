@@ -3,6 +3,6 @@
   "text": { "fr": "L'homme est né libre, et partout il est dans les fers.", "en": "Man is born free, and everywhere he is in chains." },
   "author": { "name": { "fr": "Rousseau", "en": "Rousseau" }, "kind": "PHILOSOPHER", "slug": "rousseau" },
   "source": { "fr": "Du contrat social (1762), I, 1", "en": "The Social Contract (1762), I, 1" },
-  "anchors": [{ "axisId": "SOCIAL_CONTRACT" }],
+  "anchors": [{ "axisId": "SOCIAL_CONTRACT", "poleId": "CONTRACTUALISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

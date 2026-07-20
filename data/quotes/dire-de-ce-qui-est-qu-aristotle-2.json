@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" },
   "work": "metaphysics-aristotle",
   "source": { "fr": "Métaphysique, Γ (livre IV), 7, 1011b", "en": "Metaphysics, Γ (book IV), 7, 1011b" },
-  "anchors": [{ "axisId": "TRUTH_NATURE" }],
+  "anchors": [{ "axisId": "TRUTH_NATURE", "poleId": "CORRESPONDENCE" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

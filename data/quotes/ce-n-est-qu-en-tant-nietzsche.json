@@ -3,6 +3,6 @@
   "text": { "fr": "Ce n'est qu'en tant que phénomène esthétique que l'existence et le monde apparaissent comme justifiés à jamais.", "en": "It is only as an aesthetic phenomenon that existence and the world are eternally justified." },
   "author": { "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" },
   "source": { "fr": "La Naissance de la tragédie, §5", "en": "The Birth of Tragedy, §5" },
-  "anchors": [{ "axisId": "AESTHETIC_LIFE" }],
+  "anchors": [{ "axisId": "AESTHETIC_LIFE", "poleId": "AESTHETICISM" }],
   "updatedAt": "2026-07-17T00:00:00.000Z"
 }

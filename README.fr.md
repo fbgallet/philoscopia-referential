@@ -63,6 +63,12 @@ Une note sur l'exhaustivité : certains sous-problèmes d'axes sont marqués `"r
 - [x] Un [serveur MCP](mcp/) pour l'exploration pilotée par LLM et l'auto-profilage
 - [x] Des [skills d'exploration](skills/) (découverte guidée, examen socratique, comparaison avec des figures)
 
+## Soutenir & suivre
+
+Si Philoscopia vous est utile, vous pouvez soutenir notre travail sur **[Ko-fi](https://ko-fi.com/philoscopia)** — ponctuel ou récurrent, également possible via [GitHub Sponsors](https://github.com/sponsors/fbgallet).
+
+Suivez le projet et écrivez-nous sur **[X (@fbgallet)](https://x.com/fbgallet)** et **[Bluesky (@fbgallet.bsky.social)](https://bsky.app/profile/fbgallet.bsky.social)**.
+
 ## Licence
 
 - **Données et documentation** (`data/`, `*.md`) : [Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0](LICENSE) (CC BY-SA 4.0). Vous pouvez les partager et les adapter, y compris à des fins commerciales, à condition de créditer *Philoscopia — Fabrice Gallet* et de placer vos dérivés sous les mêmes conditions.

@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Platon", "en": "Plato" }, "kind": "PHILOSOPHER", "slug": "plato" },
   "work": "phaedo-plato",
   "source": { "fr": "Phédon, 67e", "en": "Phaedo, 67e" },
-  "anchors": [{ "axisId": "DEATH" }],
+  "anchors": [{ "axisId": "DEATH", "poleId": "IMMORTALISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }

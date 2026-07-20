@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Épicure", "en": "Epicurus" }, "kind": "PHILOSOPHER", "slug": "epicurus" },
   "work": "letter-to-menoeceus-epicurus",
   "source": { "fr": "Lettre à Ménécée, 128", "en": "Letter to Menoeceus, 128" },
-  "anchors": [{ "axisId": "SOVEREIGN_GOOD" }],
+  "anchors": [{ "axisId": "SOVEREIGN_GOOD", "poleId": "HEDONISM" }],
   "updatedAt": "2026-07-18T00:00:00.000Z"
 }
