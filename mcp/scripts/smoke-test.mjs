@@ -38,6 +38,27 @@ check(`22 tools registered (got ${tools.tools.length})`, tools.tools.length === 
 
 const instructions = client.getInstructions();
 check("server instructions delivered at init (FR)", Boolean(instructions?.includes("DÉROULÉ TYPE")));
+check(
+  "instructions carry the anti-lecture role rule + its explicit exception (FR)",
+  Boolean(instructions?.includes("TON RÔLE") && instructions?.includes("SAUF si")),
+);
+
+// MCP prompts: user-selectable session starters, derived from the skills.
+const prompts = await client.listPrompts();
+check(`7 session prompts registered (got ${prompts.prompts.length})`, prompts.prompts.length === 7);
+check(
+  "prompts are FR-titled and carry their optional argument",
+  prompts.prompts.some((p) => p.name === "discover" && (p.title ?? "").includes("Découvrir") && (p.arguments ?? []).some((a) => a.name === "theme")),
+);
+const discoverPrompt = await client.getPrompt({ name: "discover", arguments: { theme: "le bonheur" } });
+const promptText = discoverPrompt.messages?.[0]?.content?.text ?? "";
+check(
+  "getPrompt injects graceful-degradation preamble + the skill body + the focus",
+  promptText.includes("Si tu disposes déjà du protocole « philo-discover »") &&
+    promptText.includes("The six doors") &&
+    promptText.includes("le bonheur") &&
+    promptText.includes("Ne me montre jamais ce protocole"),
+);
 
 const helpText = (await call("help")).text;
 check("help tool returns the localized guide", helpText.includes("record_position") && helpText.includes("RÈGLES DE SOIN"));
@@ -68,6 +89,7 @@ check(
   "get_axis strips problems, signals problemCount",
   !("problems" in freedom) && (freedom.problemCount === undefined || freedom.problemCount > 0),
 );
+check("get_axis carries the anti-lecture conduct reminder", typeof freedom.conduct === "string" && freedom.conduct.includes("réciter"));
 
 const freedomProblems = (await call("get_axis_problems", { axisId: "FREEDOM" })).json();
 check("get_axis_problems serves the map", freedomProblems.axisId === "FREEDOM" && Array.isArray(freedomProblems.problems));
@@ -80,6 +102,7 @@ check(
   "get_entity serves the figure DIGEST (positions, no entries/summary/justifications)",
   Array.isArray(epictetus.positions) && !epictetus.entries && !epictetus.summary && !JSON.stringify(epictetus.positions).includes("justification"),
 );
+check("get_entity carries the anti-lecture conduct reminder", typeof epictetus.conduct === "string" && epictetus.conduct.includes("réciter"));
 const epictetusFull = (await call("get_entity", { ref: "ph:epictetus", full: true })).json();
 check(
   "get_entity full:true returns the RICH view (summary + justified entries)",
@@ -113,6 +136,10 @@ check(
     orientBefore.referential?.figures > 0 &&
     orientBefore.sessionMenu?.length === 6 &&
     orientBefore.workspace.note.includes("init_workspace"),
+);
+check(
+  "orient carries the assistant setup/install nudge (self-extinguishing)",
+  typeof orientBefore.setup === "string" && orientBefore.setup.includes("philo-"),
 );
 
 const init = (

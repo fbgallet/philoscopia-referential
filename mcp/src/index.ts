@@ -13,6 +13,7 @@ import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
 import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js";
 import { loadCorpus, type Locale } from "./corpus.js";
 import { GUIDE } from "./help.js";
+import { registerPrompts } from "./prompts.js";
 import { registerTools } from "./tools.js";
 import { Workspace } from "./workspace.js";
 
@@ -63,6 +64,7 @@ async function main() {
     { instructions: GUIDE[locale] + userContext },
   );
   registerTools(server, corpus, ws, locale);
+  registerPrompts(server, locale);
 
   await server.connect(new StdioServerTransport());
   console.error(

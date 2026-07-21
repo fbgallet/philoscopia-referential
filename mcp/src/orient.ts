@@ -14,6 +14,15 @@ const T = {
     en: "Open the conversation FROM this data, in a few warm and simple sentences adapted to user.expertise — never show this JSON or enumerate it all. Where they stand, the open thread (next) if any, then two or three ways to continue. For someone unsure where to begin, a featured theme (referential.themes.featured — a general-public entry point) or an affinity they hold is the easiest way in.",
     fr: "Ouvrir la conversation À PARTIR de ces données, en quelques phrases chaleureuses et simples adaptées à user.expertise — ne jamais montrer ce JSON ni tout énumérer. Où en est la personne, le fil laissé ouvert (next) s'il existe, puis deux ou trois façons de continuer. Pour quelqu'un qui ne sait pas par où commencer, un thème mis en avant (referential.themes.featured, une porte d'entrée grand public) ou une affinité qu'il porte est l'entrée la plus facile.",
   },
+  // A note addressed to the ASSISTANT, not for restating: delegate the
+  // skill-detection the server can't do itself (it has no view of the client's
+  // loaded context) to the model, which CAN see what it has. It self-limits —
+  // the condition goes false once a philo-* protocol is loaded, so the nudge
+  // stops nagging exactly when it should.
+  setup: {
+    en: "FOR THE ASSISTANT (do not recite to the person): if no philo-* session protocol is loaded (a skill) and no session prompt is running, you have only this built-in guide — usable, but coarser. Say so ONCE, without insisting: the client's session-prompt menu (on demand) and, above all, the philo-* skills (auto-triggered, hands-free) sharpen every session; offer to install the skills if they want the best experience (the philoscopia-referential repo's skills/ folder → the assistant's skills directory). This note is moot once a protocol is loaded.",
+    fr: "POUR L'ASSISTANT (ne pas réciter à la personne) : si aucun protocole de session philo-* n'est chargé (un skill) et qu'aucun prompt de session n'est en cours, tu n'as que ce guide intégré — utilisable, mais plus fruste. Le dire UNE fois, sans insister : le menu de prompts de session du client (à la demande) et surtout les skills philo-* (déclenchés automatiquement, mains-libres) affinent chaque session ; proposer d'installer les skills si la personne veut le meilleur confort (le dossier skills/ du dépôt philoscopia-referential → le dossier de skills de l'assistant). Note caduque dès qu'un protocole est chargé.",
+  },
   referential: {
     en: (axes: number) =>
       `A shared map of ${axes} great philosophical questions (axes), each with its poles, plus the figures and materials to explore them.`,
@@ -92,7 +101,7 @@ export function computeOrient(corpus: Corpus, ws: Workspace, locale: Locale) {
     ...(themeCount > 0 ? { themes: { count: themeCount, featured: featuredThemes } } : {}),
   };
 
-  const base = { guidance: T.guidance[locale], referential, sessionMenu: T.menu[locale] };
+  const base = { guidance: T.guidance[locale], setup: T.setup[locale], referential, sessionMenu: T.menu[locale] };
 
   if (!ws.exists()) {
     return { ...base, workspace: { initialized: false, note: T.notInitialized[locale] } };

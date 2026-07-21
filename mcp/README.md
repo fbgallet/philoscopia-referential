@@ -64,9 +64,27 @@ Workspace (local files, schema-validated on every write):
 
 The workspace file format is specified by the published [JSON Schemas](../schemas/workspace/); every write is validated against them, plus the rules schemas cannot carry (a POSITIONED entry needs a value, values must fit the axis's pole shape, referential refs must resolve). The server only ever touches the files the format names: extra files another writer keeps in the same folder (e.g. the web app's local vault: `session.json`, `notes/`, `Inbox.md`) are ignored, and a ref that stopped resolving after a corpus update is surfaced by `profile_summary`, never a write blocker.
 
+## Session prompts (nothing to install)
+
+Besides tools, the server exposes **session prompts** — starters your client surfaces in its prompt menu (Claude Desktop's `+`). Pick one and the matching session protocol loads into the conversation, with an optional focus to fill in (a theme, a belief, a figure…):
+
+| Prompt | Starts |
+|---|---|
+| `discover` | Elicit, situate and record what you think about a question |
+| `examine` | Put one of your positions through Socratic examination |
+| `compare` | A face-to-face with a philosopher's or movement's positions |
+| `read` | Read a passage together, in three passes |
+| `concept` | Try a concept on a real situation, or forge your own |
+| `articulate` | Formulation exercises for your own thought |
+| `synthesize` | A dated prose portrait of your whole profile |
+
+Each prompt carries the full protocol of the matching skill — they are generated from the same `SKILL.md`, so they never drift — with **graceful degradation**: if you have installed the skill, the prompt just triggers it; if not, the protocol rides along in the message. Either way, no setup is needed for real guidance, and the menu makes the possibilities **discoverable** — something a silently auto-triggered skill cannot do.
+
 ## Going further: the exploration skills
 
-The server alone guides your assistant through the basics (the built-in guide above). For real sessions, seven **[exploration skills](../skills/)** add the conversational craft: guided discovery through six doors, Socratic examination with an intensity dial, figure comparison, difficulty-driven text reading, concept work, formulation training, and the dated profile synthesis. A skill is just a markdown instruction sheet your assistant reads — nothing executes; the [skills README](../skills/README.md) walks you through setup for each client, including a zero-install option (paste the skill's content into the conversation).
+The server alone guides your assistant through the basics (the built-in guide above), and the session prompts carry the full craft on demand. For the smoothest experience, install the seven **[exploration skills](../skills/)**: guided discovery through six doors, Socratic examination with an intensity dial, figure comparison, difficulty-driven text reading, concept work, formulation training, and the dated profile synthesis. A skill is just a markdown instruction sheet your assistant reads — nothing executes; the [skills README](../skills/README.md) walks you through setup for each client, including a zero-install option (paste the skill's content into the conversation).
+
+Skills and the prompts above are **complementary**: a skill is *auto-triggered* — the assistant reaches for it on its own when your phrasing matches, hands-free, though that match is never guaranteed — while a prompt is *chosen from the menu*, deterministic and self-advertising. Installing the skills gives the hands-free path; the prompts need nothing and share the same source of truth.
 
 ## What to ask your assistant
 

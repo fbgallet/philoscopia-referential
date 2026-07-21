@@ -12,7 +12,7 @@
     "corpus"
   ],
   "scripts": {
-    "build": "tsc -p tsconfig.json",
+    "build": "node scripts/bundle-skills.mjs && tsc -p tsconfig.json",
     "prepack": "npm run build && node scripts/bundle-corpus.mjs",
     "smoke": "npm run build && node scripts/smoke-test.mjs"
   },

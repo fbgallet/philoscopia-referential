@@ -33,6 +33,15 @@ const asError = (error: unknown) => ({
   isError: true as const,
 });
 
+// Point-of-use reminder rider on corpus reads (get_axis, get_entity): the
+// referential is material to make the person think, never a lecture to recite.
+// Reinforces the server's anti-lecture role (see help.ts / orient) exactly
+// where the temptation to dump doctrines is strongest.
+const CONDUCT: Record<Locale, string> = {
+  en: "Material to work WITH, not to recite: use it to draw out and test the person's own thinking (through a door, an objection, a comparison) — don't lay out the doctrines by default.",
+  fr: "Matériau à faire travailler, pas à réciter : sers-t'en pour faire émerger et éprouver la pensée propre de la personne (par une porte, une objection, une comparaison) — n'expose pas les doctrines par défaut.",
+};
+
 const positionValueShape = z.union([
   z.object({ kind: z.literal("scalar"), value: z.number().min(-1).max(1) }),
   z.object({ kind: z.literal("weights"), weights: z.array(z.number().min(0).max(1)).min(2) }),
@@ -111,7 +120,7 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
     async ({ axisId }) => {
       const axis = corpus.axes.get(axisId.toUpperCase());
       if (!axis) return asError(new Error(`Unknown axis "${axisId}". Use list_axes or search.`));
-      return asText(axisView(pickLocale(axis, locale)));
+      return asText({ ...axisView(pickLocale(axis, locale)), conduct: CONDUCT[locale] });
     },
   );
 
@@ -150,7 +159,8 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
       const entity = corpus.byRef.get(ref);
       if (!entity) return asError(new Error(`"${ref}" not found. Prefixes: ax, ph, mv, chr, c, te, w, problem, arg, theme.`));
       const flat = pickLocale(entity, locale);
-      return asText(full ? entityRichView(ref, flat) : entityView(ref, flat));
+      const view = full ? entityRichView(ref, flat) : entityView(ref, flat);
+      return asText({ ...view, conduct: CONDUCT[locale] });
     },
   );
 

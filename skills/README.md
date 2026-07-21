@@ -20,7 +20,12 @@ Division of labor: the **MCP server** gives your assistant the referential (the 
 
 ## Do I need them?
 
-Not strictly: the server alone already carries a built-in guide (your assistant receives it automatically on connection, and can re-read it with the `help` tool), so casual exploration works with no setup. The skills add the finer craft — the six discovery doors, the Socratic intensity dial, the difficulty-driven reading method. For real sessions, they make a large difference.
+Strictly, no — there are now two ways to get real guidance with **nothing to install**:
+
+- The server's **session prompts** — in your client's prompt menu (Claude Desktop's `+`): pick *"Discover what I think"*, *"Examine one of my convictions"*, and so on, and the matching protocol loads into the conversation. Each prompt is generated from these very skill files, so it carries the same craft — and the menu makes the possibilities **discoverable**.
+- The server's **built-in guide** (received automatically on connection, re-readable with the `help` tool) for casual exploration.
+
+So why install the skills? Because a skill is **auto-triggered**: the assistant reaches for it on its own when your phrasing matches (*"help me figure out what I think about free will"*), hands-free — whereas a prompt waits for you to pick it, and you won't always have the right one in mind. Installed skills give the smoothest, hands-free experience; the prompts and the guide are the no-setup fallback. All three share one source of truth, so you lose no method whichever you use.
 
 ## Setup, step by step
 
