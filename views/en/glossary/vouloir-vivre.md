@@ -8,7 +8,7 @@ The will-to-live (Wille zum Leben) is, in [Schopenhauer](../philosophers/schopen
 
 **Carries a stance toward** : [Tonality of reality](../axes/cosmic-outlook.md) : Tragic thought
 
-**At stake in** : [Nature of mind and reality](../axes/reality-nature.md) · [Relation to desire](../axes/desire.md) · [Tonality of reality](../axes/cosmic-outlook.md) · [The meaning of life](../axes/life-meaning.md)
+**At stake in** : [Nature of reality](../axes/reality-nature.md) · [Relation to desire](../axes/desire.md) · [Tonality of reality](../axes/cosmic-outlook.md) · [The meaning of life](../axes/life-meaning.md)
 
 **See also** : [The thing-in-itself](../glossary/thing-in-itself.md) · [Will to power](../glossary/will-to-power.md) · [Nirvāṇa / Nibbāna (extinction, liberation)](../glossary/nirvana.md)
 

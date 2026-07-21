@@ -66,7 +66,7 @@ Peirce attacks head-on [Descartes](../philosophers/descartes.md)'s [hyperbolic d
 
 *positioned · inferable · major*
 
-Inductivism 70% · Bayesianism 30%
+Proof by experience 70% · The calculus of probabilities 30%
 
 None of the three poles captures Peirce exactly, for he added precisely the missing piece: [abduction](../glossary/abduction.md), the inference that invents the hypothesis, upstream of the deduction that draws out its consequences and the [induction](../glossary/induction.md) that tests them. Science for him is this complete cycle, not one of its moments. He is nonetheless ranged on the inductivist side, since he remains an experimenter who grounds everything on the test of facts and makes induction the decisive trial; but he claims to defuse the flaw [Hume](../philosophers/hume.md) denounced by holding that repeated induction corrects itself in the long run. His training as a statistician also gives him a probabilist strand, attentive to frequencies and to error, that foreshadows Bayesianism without reducing to it. What makes science is not a single rule of inference but the long-run self-correction of a [community](../glossary/community-of-inquiry.md) accountable to the real.
 
@@ -134,7 +134,7 @@ Emergentism 85% · Reductionism 15%
 
 *Sources : The Law of Mind (1892)*
 
-### [Nature of mind and reality](../axes/reality-nature.md)
+### [Nature of reality](../axes/reality-nature.md)
 
 *positioned · extrapolated · minor*
 
@@ -153,6 +153,16 @@ Theism 70% · Atheism 30%
 In A Neglected Argument for the Reality of God, Peirce holds that the mind's free reverie, **musement**, leads naturally to the hypothesis of God as to the finest of [abductions](../glossary/abduction.md), a fruitful hypothesis rather than a demonstrated dogma. Peirce's God is less the personal God of the religions than an ordering reality correlated with his growing cosmos, hence a theism real but restrained, with no extreme.
 
 *Sources : A Neglected Argument for the Reality of God (1908)*
+
+### [The value of truth](../axes/truth-value.md)
+
+*positioned · explicit in the texts · minor*
+
+The primacy of truth 75% · Vital illusions 25%
+
+His first rule of reason: do not block the way of inquiry. The methods that fix belief by tenacity or authority procure a real but fragile quiet; only inquiry, which accepts being disappointed by the real, durably stabilizes belief, by settling it on what does not depend on us.
+
+*Sources : The Fixation of Belief (1877)*
 
 ## Influenced by
 

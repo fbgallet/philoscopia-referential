@@ -4,23 +4,27 @@
 
 **Could a machine ever truly think?**
 
-*The world · descriptive (theory) · bipolar*
+*The world · descriptive (theory) · bipolar with median*
 
-If thinking is only a matter of function, the material being beside the point, then a machine could genuinely think, and we might owe it something; if it takes living flesh, even the most brilliant machine merely imitates. To take a position is to say what makes a mind, and what we would grant a machine that seems to think.
+If thinking is only a matter of organization, a machine could genuinely think, and we might owe it something. If running a program is not enough, our machines merely imitate, though an artifact of another kind might one day succeed. And if thought is inseparable from life, the most brilliant machine will remain a thing. To take a position is to say what makes a mind.
 
 ## Poles
 
-### Functionalism
+### The substrate does not matter
 
 To think is to process information in a certain way, whatever the substrate that carries out this processing. If a machine performs the same functions as a brain, there is no ground for denying that it thinks.
 
 *[Turing](../philosophers/turing.md) · Dennett*
 
-### Biological naturalism
+### Only the living think
 
-Manipulating symbols is not enough to think: a program can simulate understanding without understanding anything. Consciousness is a biological phenomenon, produced by the specific causal powers of the living brain.
+Thought is not an abstract organization but the activity of a living being: feeling, wanting, understanding are born with life and its concern to endure. A machine, however brilliant, remains a fabricated thing: it computes, but nothing matters to it.
 
-*[Searle](../philosophers/searle.md)*
+*[Jonas](../philosophers/jonas.md)*
+
+### Not by program alone (median position)
+
+Running a program will never be thinking: simulating understanding is not understanding. But nothing rules out that an artifact might think one day, if it reproduces what matters: the causal powers of the living brain, or a body's engagement with a world.
 
 ## Live problems
 
@@ -33,11 +37,11 @@ Manipulating symbols is not enough to think: a program can simulate understandin
 
 ## Grounding relations
 
-- *[Being or having a body](../axes/embodiment.md) : The lived body* grounds *[Can a machine think](../axes/machine-mind.md) : Biological naturalism* : If thinking is first of all being a living organism coupled to its environment, then manipulating symbols is not enough to understand: a program with neither body nor life does not truly think. The lived-body thesis supports the biological naturalism of [Searle](../philosophers/searle.md), for which mind arises from the causal powers proper to the living brain.
+- *[Being or having a body](../axes/embodiment.md) : The lived body* grounds *[Can a machine think](../axes/machine-mind.md) : Only the living think* : If thinking is first of all being a living organism coupled to its environment, then manipulating symbols is not enough to understand: a program with neither body nor life does not truly think. The lived-body thesis supports the idea that only the living think: for [Jonas](../philosophers/jonas.md), mind is rooted in the organism's life and its concern to endure.
 
 ## Related axes
 
-[Nature of consciousness](../axes/consciousness-nature.md) · [Nature of mind and reality](../axes/reality-nature.md) · [Wholes and parts](../axes/reduction-emergence.md) · [Moral circle](../axes/moral-circle.md)
+[The enigma of consciousness](../axes/consciousness-nature.md) · [Nature of reality](../axes/reality-nature.md) · [Wholes and parts](../axes/reduction-emergence.md) · [Moral circle](../axes/moral-circle.md)
 
 ---
 

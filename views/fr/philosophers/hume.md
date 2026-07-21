@@ -40,7 +40,7 @@ Hume ruine l'argument du dessein et juge la providence inconnaissable : nul sens
 
 *positionné · explicite dans les textes · mineure*
 
-La mort n'est rien 85% · Immortalisme 10% · Révolte / refus 5%
+Se libérer de la crainte 85% · Se préparer au passage 10% · Refuser la mort 5%
 
 Hume réfute l'immortalité de l'âme sur tous les plans, métaphysique, moral et physique : rien n'autorise à croire que la conscience survive à la dissolution du corps. Il affronte d'ailleurs sa propre fin avec une sérénité enjouée, sans crainte ni espérance d'au-delà. La mort est le terme naturel, et la redouter n'a pas plus de sens que de regretter de n'avoir pas existé avant de naître.
 
@@ -130,7 +130,7 @@ Le même critère vaut pour le moi : s'il existait, il faudrait l'impression qui
 
 *positionné · explicite dans les textes · majeure*
 
-Sentimentalisme 95% · Intellectualisme 5%
+Le primat du sentiment 95% · Primauté de la raison 5%
 
 La raison n'a que deux emplois : établir des relations d'idées (le démonstratif) ou inférer des faits (le causal) ; or aucun de ces actes ne meut à lui seul la volonté. Hume en conclut que la raison ne saurait produire ni empêcher une action, donc jamais s'opposer à une passion : seule une passion contraire le peut. La raison fixe les moyens, mais les fins viennent du sentiment ; on ne déclare contraire à la raison ni de préférer sa ruine au moindre désagrément d'autrui, car un désir n'est ni vrai ni faux. Renversant l'intellectualisme socratique et stoïcien qui faisait des passions des erreurs de jugement, Hume soutient un sentimentalisme où la raison est subordonnée à l'affect dans tout ce qui touche à l'action et au jugement moral.
 
@@ -212,7 +212,7 @@ Hume distingue deux objets de l'investigation : les relations d'idées (mathéma
 
 *Sources : Enquête sur l'entendement humain, sect. IV, partie I (relations d'idées et faits)*
 
-### [Nature de l'esprit et du réel](../axes/reality-nature.md)
+### [Nature du réel](../axes/reality-nature.md)
 
 *positionné · inférable · mineure*
 
@@ -288,13 +288,13 @@ Hume récuse l'égoïsme psychologique qui réduirait toute motivation à l'int�
 
 *non applicable*
 
-L'opposition fonctionnalisme / naturalisme biologique sur l'esprit suppose les sciences cognitives et l'intelligence artificielle du XXe siècle. Hume théorise l'esprit comme un faisceau de perceptions associées par des lois (ressemblance, contiguïté, causalité), mais la question de savoir si une machine pourrait penser lui est étrangère.
+L'axe de la pensée des machines suppose les sciences cognitives et l'intelligence artificielle du XXe siècle. Hume théorise l'esprit comme un faisceau de perceptions associées par des lois (ressemblance, contiguïté, causalité), mais la question de savoir si une machine pourrait penser lui est étrangère.
 
 ### [Le problème du mal](../axes/problem-of-evil.md)
 
 *positionné · explicite dans les textes · majeure*
 
-Argument du mal (athéisme) 90% · Révolte / anti-théodicie 10%
+Le mal réfute Dieu 90% · Le mal injustifiable 10%
 
 Dans les Dialogues sur la religion naturelle, Philon reprend les vieilles questions d'Épicure : devant la masse des souffrances du monde, la bonté et la toute-puissance divines ne se laissent pas inférer de la nature. Le mal est l'écueil de la théologie naturelle.
 
@@ -309,6 +309,16 @@ Nominalisme 88% · Réalisme des universaux 13%
 Reprenant Berkeley, Hume nie l'existence d'idées abstraites générales : une idée est toujours particulière, mais un mot général l'associe à d'autres qui se ressemblent et peut les rappeler. Les universaux tiennent aux mots et à l'habitude, non à des réalités.
 
 *Sources : Traité de la nature humaine, I, I, 7*
+
+### [Valeur de la vérité](../axes/truth-value.md)
+
+*positionné · explicite dans les textes · mineure*
+
+Primauté de la vérité 50% · Illusions vitales 50%
+
+Poussée à fond, la raison ne laisse debout ni monde ni moi, et cette lucidité-là est invivable : c'est la nature, non l'argument, qui guérit le philosophe, un dîner, une partie de trictrac, la conversation des amis. Hume assume ce remède d'inattention : ces conclusions sceptiques ne méritent pas qu'on leur sacrifie la vie commune.
+
+*Sources : Traité de la nature humaine, I, 4, 7 (1739)*
 
 ## Influencé par
 

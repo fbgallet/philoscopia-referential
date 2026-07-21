@@ -94,7 +94,7 @@ Loving acceptance of what happens is a central prescription: to will that events
 
 *positioned · explicit in the texts · major*
 
-Intellectualism 90% · Sentimentalism 10%
+The primacy of reason 90% · The primacy of feeling 10%
 
 Every passion contains a value judgment about some external thing, of the form "this is bad": it is that judgment, not the event, that constitutes the disturbance. The decisive step is to charge the passion to opinion rather than to the thing: if an emotion rests on a judgment, and a judgment can be revised, then no passion is suffered as a fate, all are correctable by reason. Epictetus draws an unusual ethical corollary: never to blame others or circumstances for our distress, but the use we make of our [impressions](../glossary/phantasia.md). Anger, grief and fear are not alien forces to be subdued but hasty assents to be withdrawn.
 
@@ -240,7 +240,7 @@ The one making progress must be of unfailing integrity, matching deeds to judgme
 
 *positioned · explicit in the texts · minor*
 
-Death is nothing 70% · Immortalism 20% · Being-toward-death 10%
+Freeing ourselves from the fear 70% · Preparing for the passage 20% · Living in view of one's death 10%
 
 Death "is nothing terrible", but is the opinion about it that makes it so: it is a natural event, the return of the elements to the whole, to be kept daily before one's eyes without fear. The tone meets the Epicurean serenity toward death, with a Stoic cosmic coloring rather than any genuine personal immortality.
 

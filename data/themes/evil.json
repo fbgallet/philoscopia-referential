@@ -1,0 +1,32 @@
+{
+  "id": "evil",
+  "label": {
+    "fr": "Le mal",
+    "en": "Evil"
+  },
+  "aliases": {
+    "fr": [
+      "mal",
+      "méchanceté",
+      "cruauté",
+      "péché",
+      "mal absolu",
+      "barbarie"
+    ],
+    "en": [
+      "evil",
+      "wickedness",
+      "cruelty",
+      "sin",
+      "barbarity"
+    ]
+  },
+  "featured": true,
+  "axes": [
+    "PROBLEM_OF_EVIL",
+    "HUMAN_VISION",
+    "VIOLENCE",
+    "PUNISHMENT",
+    "FORGIVENESS"
+  ]
+}

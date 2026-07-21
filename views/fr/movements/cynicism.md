@@ -62,7 +62,7 @@ Les cyniques mesurent la vie à la nature contre les conventions, mais ne la rap
 
 *positionné · inférable · mineure*
 
-La mort n'est rien 80% · Être-pour-la-mort 10% · Immortalisme 10%
+Se libérer de la crainte 80% · Vivre en vue de sa mort 10% · Se préparer au passage 10%
 
 Les cyniques affichent une indifférence provocante envers la mort : Diogène, dit-on, demande qu'on jette son cadavre par-dessus le mur pour les bêtes, raillant le soin des sépultures, puisqu'il ne sera plus là pour rien sentir. La mort n'est rien qui doive troubler le sage autosuffisant, et la crainte qu'on en a relève des conventions vaines qu'il s'agit justement de défaire.
 
@@ -211,6 +211,16 @@ Universalisme 85% · Relativisme 10% · Constructivisme 5%
 En opposant la nature au nomos, le cynisme suppose un critère du bien indépendant des conventions et valable pour tous : ce qui est conforme à la nature est bon partout, ce qui n'est que coutume locale n'oblige pas. Le sage juge les moeurs au nom d'une norme naturelle universelle plutôt qu'au gré des cités.
 
 *Sources : Diogène Laërce, Vies, VI, 70-71*
+
+### [Valeur de la vérité](../axes/truth-value.md)
+
+*positionné · inférable · mineure*
+
+Primauté de la vérité 80% · Illusions vitales 20%
+
+Falsifier la monnaie des conventions : le programme cynique est une démonétisation des illusions sociales, honneurs, richesses, pudeurs, dont la vie de [Diogène](../philosophers/diogenes.md) est la démonstration vivante. Le franc-parler ([parrhêsia](../glossary/parrhesia.md)) dit le vrai à la face du pouvoir, et la vie selon la nature est une vérité vécue plutôt que démontrée.
+
+*Sources : Diogène Laërce, Vies, VI*
 
 ## Influence sur
 

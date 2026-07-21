@@ -42,7 +42,7 @@ Beautiful and ugly, permitted and forbidden, great and small are not inscribed i
 
 *positioned · explicit in the texts · major*
 
-Death is nothing 55% · Immortalism 45%
+Freeing ourselves from the fear 85% · Preparing for the passage 15%
 
 At his wife's death Zhuangzi sings, drumming on a basin: to weep would be to ignore the course of things. Death is neither a nothingness to fear nor a passage toward an immortal soul, but a moment of ceaseless [transformation](../glossary/hua.md) (hua): the vital breaths knot into life as the seasons follow one another, then unknot and reform elsewhere. Who knows whether the dead one is not rejoicing, like an exile come home at last? This serenity through insertion into the great passage of forms meets the Epicurean appeasement, yet it is laced with the idea that living matter endlessly recomposes itself, which is neither quite an extinction nor a personal immortality.
 
@@ -170,7 +170,7 @@ Wisdom is won by a turn inward, the ["fasting of the heart"](../glossary/xinzhai
 
 *positioned · inferable · minor*
 
-Intellectualism 70% · Sentimentalism 30%
+The primacy of reason 70% · The primacy of feeling 30%
 
 The sage is not unfeeling but does not let himself be "wounded within" by his affects: emotions pass through him like the seasons, with no clinging and no feeding of them. Disturbance arises from the judgment that posits an event as a loss, and it dissolves when one stops sorting the real into gains and losses, as Zhuangzi stops weeping for his wife. The leaning is toward mastery of the passions, but by dissolving distinctions rather than by a rational government in the Stoic manner, which keeps it short of a clear-cut intellectualism.
 
@@ -244,7 +244,7 @@ Zhuangzi's ideal is not moral duty but a light, played existence whose grace is 
 
 *positioned · inferable · minor*
 
-Presentism 80% · Memory and transmission 20%
+Living in the present 80% · Memory and transmission 20%
 
 The sage dwells in what arises at the instant and "travels in the single breath" of the present, without projecting himself into designs for the future, which belong to the forced action he rejects. Unlike [Laozi](../philosophers/laozi.md), more turned toward restoring an original state, Zhuangzi stresses the mobility of the flux and adherence to the metamorphosis under way: a thin ground of return to the [Dao](../glossary/dao.md) before distinctions remains, but the accent falls on the espousal of the present.
 
@@ -311,6 +311,12 @@ The opposition between free will and determinism, forged by Greek and then Chris
 *not applicable*
 
 An anachronistic question: nothing in Zhuangzi's corpus allows positioning him on machine thought without hazardous extrapolation, even though his "machine heart" parable targets the calculating mind, not artificial cognition.
+
+### [The value of truth](../axes/truth-value.md)
+
+*rejects the alternative*
+
+The alternative presupposes fixed distinctions between the true and the illusory that Zhuangzi works to dissolve: the butterfly dream, the sterile disputes of "it is / it is not". Wisdom is neither a conquest of truth nor a chosen illusion, but a free wandering that espouses transformations without freezing them.
 
 ## Influenced by
 

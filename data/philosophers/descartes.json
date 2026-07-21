@@ -14,8 +14,14 @@
     "en": "Making doubt a method rather than a defeat: searching beneath everything we think we know for one firm point on which to rebuild."
   },
   "aliases": {
-    "fr": ["cartésien", "cartésienne", "cartésianisme"],
-    "en": ["Cartesian"]
+    "fr": [
+      "cartésien",
+      "cartésienne",
+      "cartésianisme"
+    ],
+    "en": [
+      "Cartesian"
+    ]
   },
   "summary": {
     "fr": "Mathématicien, physicien et philosophe français, formé chez les jésuites de La Flèche puis longtemps installé aux Provinces-Unies, où il publie l'essentiel de son œuvre à l'écart des autorités universitaires. Tenu pour le père de la philosophie moderne et fondateur du <mv id='rationalism'>rationalisme</mv> continental, il rompt avec la <pb>scolastique aristotélicienne</pb> héritée du Moyen Âge et entreprend, dans le <w id='meditations-descartes'>Discours de la méthode</w> puis les <w id='meditations-descartes'>Méditations métaphysiques</w>, de refonder l'ensemble du savoir sur une méthode unique inspirée des mathématiques. Inventeur de la géométrie analytique, il prépare la physique mécaniste qui culminera chez <ph>Newton</ph>. Sa pensée suscite aussitôt débats et objections, de <ph id='spinoza'>Spinoza</ph> à <ph id='leibniz'>Leibniz</ph>, et structure encore les querelles modernes sur l'esprit, le corps et la connaissance.",
@@ -489,8 +495,8 @@
       "axisId": "MACHINE_MIND",
       "status": "NOT_APPLICABLE",
       "note": {
-        "fr": "Descartes tient les animaux pour des machines et conçoit un test du langage pour distinguer l'homme de l'automate, mais son dualisme situe la pensée hors de toute mécanique : appliquer l'axe fonctionnalisme/naturalisme biologique exigerait une extrapolation anachronique trop forte pour être positionnée.",
-        "en": "Descartes holds animals to be machines and devises a language test to tell man from automaton, yet his dualism places thought outside all mechanism: applying the functionalism / biological-naturalism axis would require an anachronistic extrapolation too strong to be positioned."
+        "fr": "Descartes tient les animaux pour des machines et conçoit un test du langage pour distinguer l'homme de l'automate, mais son dualisme situe la pensée hors de toute mécanique : appliquer l'axe de la pensée des machines exigerait une extrapolation anachronique trop forte pour être positionnée.",
+        "en": "Descartes holds animals to be machines and devises a language test to tell man from automaton, yet his dualism places thought outside all mechanism: applying the machine-thought axis would require an anachronistic extrapolation too strong to be positioned."
       }
     },
     {
@@ -784,7 +790,11 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.9, 0.1, 0]
+        "weights": [
+          0.9,
+          0.1,
+          0
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
@@ -807,7 +817,13 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0, 0.9, 0.1, 0, 0]
+        "weights": [
+          0,
+          0.9,
+          0.1,
+          0,
+          0
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
@@ -853,7 +869,12 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.5, 0.2, 0, 0.3]
+        "weights": [
+          0.5,
+          0.2,
+          0,
+          0.3
+        ]
       },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
@@ -869,6 +890,30 @@
           }
         ],
         "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TRUTH_VALUE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le savoir n'est pas chez lui un luxe spéculatif : il veut distinguer le vrai du faux pour voir clair dans ses actions et conduire sa vie avec assurance. La méthode vise à se défaire des préventions et des jugements précipités, parce qu'une vie bien conduite se règle sur des vérités établies plutôt que sur des opinions reçues.",
+          "en": "Knowledge is for him no speculative luxury: he wants to distinguish the true from the false in order to see clearly into his own actions and conduct his life with confidence. The method aims at shedding prejudice and hasty judgment, because a well-conducted life is regulated by established truths rather than received opinions."
+        },
+        "references": [
+          {
+            "fr": "Discours de la méthode, I (1637)",
+            "en": "Discourse on the Method, I (1637)"
+          }
+        ],
+        "strength": "STRONG",
+        "quoteId": "j-avais-toujours-un-extreme-desir-descartes"
       }
     }
   ],
@@ -909,7 +954,7 @@
       }
     }
   ],
-  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

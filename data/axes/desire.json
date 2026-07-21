@@ -14,6 +14,25 @@
     "fr": "Le désir est à la fois ce qui nous met en mouvement et ce qui nous tourmente : l'éteindre éteint la vie, le suivre sans frein interdit la paix. Se positionner, c'est dire où finit l'élan qui nous fait vivre et où commence la servitude qui nous épuise.",
     "en": "Desire is at once what sets us in motion and what torments us: to extinguish it is to extinguish life, to follow it unchecked is to forfeit peace. To take a position is to say where the drive that makes us live ends and where the servitude that wears us out begins."
   },
+  "aliases": {
+    "fr": [
+      "désir",
+      "plaisir",
+      "manque",
+      "besoin",
+      "tempérance",
+      "ascèse",
+      "jouissance"
+    ],
+    "en": [
+      "desire",
+      "pleasure",
+      "want",
+      "need",
+      "temperance",
+      "asceticism"
+    ]
+  },
   "layer": "VALUE",
   "type": "TRIANGULAR",
   "poles": [
@@ -110,50 +129,146 @@
       "id": "destructive-desire",
       "resolution": "LATENT",
       "object": "RELATION",
-      "objectLabel": { "fr": "un désir nuisible", "en": "a harmful desire" },
+      "objectLabel": {
+        "fr": "un désir nuisible",
+        "en": "a harmful desire"
+      },
       "mode": "PRACTICAL",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "akrasia", "en": "akrasia" },
-        { "fr": "faiblesse de la volonté", "en": "weakness of will" },
-        { "fr": "désir aveugle", "en": "blind desire" }
+        {
+          "fr": "akrasia",
+          "en": "akrasia"
+        },
+        {
+          "fr": "faiblesse de la volonté",
+          "en": "weakness of will"
+        },
+        {
+          "fr": "désir aveugle",
+          "en": "blind desire"
+        }
       ],
       "sphere": "VITAL",
-      "poles": ["AFFIRMATION", "REASONED_SELECTION", "DETACHMENT"],
-      "anchors": [
-        { "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" },
-        { "name": { "fr": "Socrate", "en": "Socrates" }, "kind": "PHILOSOPHER", "slug": "socrates" },
-        { "name": { "fr": "Augustin", "en": "Augustine" }, "kind": "PHILOSOPHER", "slug": "augustine" }
+      "poles": [
+        "AFFIRMATION",
+        "REASONED_SELECTION",
+        "DETACHMENT"
       ],
-      "doorways": [{ "axis": "FREEDOM", "problem": "master-or-slave-of-desires" }],
-      "title": { "fr": "Le désir qui nous détruit", "en": "The desire that destroys us" },
+      "anchors": [
+        {
+          "name": {
+            "fr": "Aristote",
+            "en": "Aristotle"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "aristotle"
+        },
+        {
+          "name": {
+            "fr": "Socrate",
+            "en": "Socrates"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "socrates"
+        },
+        {
+          "name": {
+            "fr": "Augustin",
+            "en": "Augustine"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "augustine"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "FREEDOM",
+          "problem": "master-or-slave-of-desires"
+        }
+      ],
+      "title": {
+        "fr": "Le désir qui nous détruit",
+        "en": "The desire that destroys us"
+      },
       "explicitation": {
         "fr": "Un désir qu'on sait nuisible revient malgré toutes nos décisions : faut-il l'affirmer comme une part de soi, le congédier comme un égarement, ou reconnaître qu'on ne gouverne pas vraiment ses désirs ?",
         "en": "A desire we know to be harmful returns despite every decision against it: should we affirm it as part of ourselves, dismiss it as a stray impulse, or admit that we do not really govern our desires at all?"
       },
-      "practices": ["sorting-desires", "frugal-contentment", "voluntary-discomfort", "throwing-away-the-cup"]
+      "practices": [
+        "sorting-desires",
+        "frugal-contentment",
+        "voluntary-discomfort",
+        "throwing-away-the-cup"
+      ]
     },
     {
       "id": "lack-or-power",
       "resolution": "LATENT",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "le désir", "en": "desire" },
+      "objectLabel": {
+        "fr": "le désir",
+        "en": "desire"
+      },
       "mode": "DESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "manque", "en": "lack" },
-        { "fr": "conatus", "en": "conatus" },
-        { "fr": "puissance", "en": "power" },
-        { "fr": "production du désir", "en": "productive desire" }
+        {
+          "fr": "manque",
+          "en": "lack"
+        },
+        {
+          "fr": "conatus",
+          "en": "conatus"
+        },
+        {
+          "fr": "puissance",
+          "en": "power"
+        },
+        {
+          "fr": "production du désir",
+          "en": "productive desire"
+        }
       ],
-      "poles": ["AFFIRMATION", "DETACHMENT"],
+      "poles": [
+        "AFFIRMATION",
+        "DETACHMENT"
+      ],
       "anchors": [
-        { "name": { "fr": "Platon", "en": "Plato" }, "kind": "PHILOSOPHER", "slug": "plato" },
-        { "name": { "fr": "Spinoza", "en": "Spinoza" }, "kind": "PHILOSOPHER", "slug": "spinoza" },
-        { "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" }
+        {
+          "name": {
+            "fr": "Platon",
+            "en": "Plato"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "plato"
+        },
+        {
+          "name": {
+            "fr": "Spinoza",
+            "en": "Spinoza"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "spinoza"
+        },
+        {
+          "name": {
+            "fr": "Nietzsche",
+            "en": "Nietzsche"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "nietzsche"
+        }
       ],
-      "doorways": [{ "axis": "LOVE_NATURE" }],
-      "title": { "fr": "Manque ou puissance", "en": "Lack or power" },
+      "doorways": [
+        {
+          "axis": "LOVE_NATURE"
+        }
+      ],
+      "title": {
+        "fr": "Manque ou puissance",
+        "en": "Lack or power"
+      },
       "explicitation": {
         "fr": "Désirer, est-ce manquer de ce qu'on n'a pas, donc souffrir d'un vide à combler, ou est-ce l'expression d'une puissance qui déborde et crée ? Selon la réponse, le désir est à apaiser ou à intensifier.",
         "en": "Is desiring a matter of lacking what one does not have, and so suffering an emptiness to be filled, or is it the overflow of a power that creates? On the answer hangs whether desire should be quieted or intensified."
@@ -163,22 +278,58 @@
       "id": "insatiable-desire",
       "resolution": "LATENT",
       "object": "RELATION",
-      "objectLabel": { "fr": "assouvir un désir", "en": "satisfying a desire" },
+      "objectLabel": {
+        "fr": "assouvir un désir",
+        "en": "satisfying a desire"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "insatiabilité", "en": "insatiability" },
-        { "fr": "ennui", "en": "boredom" },
-        { "fr": "tonneau des Danaïdes", "en": "the leaking jar" },
-        { "fr": "tapis roulant hédonique", "en": "hedonic treadmill" }
+        {
+          "fr": "insatiabilité",
+          "en": "insatiability"
+        },
+        {
+          "fr": "ennui",
+          "en": "boredom"
+        },
+        {
+          "fr": "tonneau des Danaïdes",
+          "en": "the leaking jar"
+        },
+        {
+          "fr": "tapis roulant hédonique",
+          "en": "hedonic treadmill"
+        }
       ],
       "sphere": "VITAL",
-      "poles": ["AFFIRMATION", "REASONED_SELECTION", "DETACHMENT"],
-      "anchors": [
-        { "name": { "fr": "Platon", "en": "Plato" }, "kind": "PHILOSOPHER", "slug": "plato" },
-        { "name": { "fr": "Schopenhauer", "en": "Schopenhauer" }, "kind": "PHILOSOPHER", "slug": "schopenhauer" }
+      "poles": [
+        "AFFIRMATION",
+        "REASONED_SELECTION",
+        "DETACHMENT"
       ],
-      "title": { "fr": "La nature insatiable des désirs", "en": "The insatiable nature of desire" },
+      "anchors": [
+        {
+          "name": {
+            "fr": "Platon",
+            "en": "Plato"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "plato"
+        },
+        {
+          "name": {
+            "fr": "Schopenhauer",
+            "en": "Schopenhauer"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "schopenhauer"
+        }
+      ],
+      "title": {
+        "fr": "La nature insatiable des désirs",
+        "en": "The insatiable nature of desire"
+      },
       "explicitation": {
         "fr": "Chaque désir comblé renaît ou cède la place à un autre, et le plaisir retombe aussitôt : assouvir ses désirs peut-il jamais nous combler, ou le désir n'a-t-il pas de terme, et faut-il alors en sortir ?",
         "en": "Every satisfied desire is reborn or gives way to another, and the pleasure subsides at once: can satisfying our desires ever fulfil us, or has desire no end, so that the only way out is to step outside it?"
@@ -188,21 +339,59 @@
       "id": "desires-my-own",
       "resolution": "LATENT",
       "object": "RELATION",
-      "objectLabel": { "fr": "l'origine du désir", "en": "the origin of desire" },
+      "objectLabel": {
+        "fr": "l'origine du désir",
+        "en": "the origin of desire"
+      },
       "mode": "DESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "désir mimétique", "en": "mimetic desire" },
-        { "fr": "désir de reconnaissance", "en": "desire for recognition" },
-        { "fr": "besoins fabriqués", "en": "manufactured needs" }
+        {
+          "fr": "désir mimétique",
+          "en": "mimetic desire"
+        },
+        {
+          "fr": "désir de reconnaissance",
+          "en": "desire for recognition"
+        },
+        {
+          "fr": "besoins fabriqués",
+          "en": "manufactured needs"
+        }
       ],
-      "poles": ["AFFIRMATION", "REASONED_SELECTION"],
+      "poles": [
+        "AFFIRMATION",
+        "REASONED_SELECTION"
+      ],
       "anchors": [
-        { "name": { "fr": "Girard", "en": "Girard" }, "kind": "PHILOSOPHER" },
-        { "name": { "fr": "Hegel", "en": "Hegel" }, "kind": "PHILOSOPHER", "slug": "hegel" },
-        { "name": { "fr": "Rousseau", "en": "Rousseau" }, "kind": "PHILOSOPHER", "slug": "rousseau" }
+        {
+          "name": {
+            "fr": "Girard",
+            "en": "Girard"
+          },
+          "kind": "PHILOSOPHER"
+        },
+        {
+          "name": {
+            "fr": "Hegel",
+            "en": "Hegel"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "hegel"
+        },
+        {
+          "name": {
+            "fr": "Rousseau",
+            "en": "Rousseau"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "rousseau"
+        }
       ],
-      "title": { "fr": "Mes désirs sont-ils les miens ?", "en": "Are my desires my own?" },
+      "title": {
+        "fr": "Mes désirs sont-ils les miens ?",
+        "en": "Are my desires my own?"
+      },
       "explicitation": {
         "fr": "Mes désirs naissent-ils de moi, ou est-ce que je désire ce que désirent les autres, ce que la société fabrique pour moi ? S'ils ne sont pas les miens, les affirmer ou les trier change de sens.",
         "en": "Do my desires arise from me, or do I desire what others desire, what society manufactures for me? If they are not my own, affirming or sorting them takes on a different meaning."
@@ -212,23 +401,67 @@
       "id": "desire-hierarchy",
       "resolution": "LATENT",
       "object": "STRUCTURE",
-      "objectLabel": { "fr": "l'ordre des désirs", "en": "the ordering of desires" },
+      "objectLabel": {
+        "fr": "l'ordre des désirs",
+        "en": "the ordering of desires"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "âme tripartite", "en": "tripartite soul" },
-        { "fr": "désirs de second ordre", "en": "second-order desires" },
-        { "fr": "désirs supérieurs et inférieurs", "en": "higher and lower desires" }
+        {
+          "fr": "âme tripartite",
+          "en": "tripartite soul"
+        },
+        {
+          "fr": "désirs de second ordre",
+          "en": "second-order desires"
+        },
+        {
+          "fr": "désirs supérieurs et inférieurs",
+          "en": "higher and lower desires"
+        }
       ],
       "sphere": "VITAL",
-      "poles": ["REASONED_SELECTION", "AFFIRMATION"],
-      "anchors": [
-        { "name": { "fr": "Platon", "en": "Plato" }, "kind": "PHILOSOPHER", "slug": "plato" },
-        { "name": { "fr": "Frankfurt", "en": "Frankfurt" }, "kind": "PHILOSOPHER", "slug": "frankfurt" },
-        { "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" }
+      "poles": [
+        "REASONED_SELECTION",
+        "AFFIRMATION"
       ],
-      "doorways": [{ "axis": "FREEDOM", "problem": "master-or-slave-of-desires" }],
-      "title": { "fr": "La hiérarchie des désirs", "en": "The hierarchy of desires" },
+      "anchors": [
+        {
+          "name": {
+            "fr": "Platon",
+            "en": "Plato"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "plato"
+        },
+        {
+          "name": {
+            "fr": "Frankfurt",
+            "en": "Frankfurt"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "frankfurt"
+        },
+        {
+          "name": {
+            "fr": "Nietzsche",
+            "en": "Nietzsche"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "nietzsche"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "FREEDOM",
+          "problem": "master-or-slave-of-desires"
+        }
+      ],
+      "title": {
+        "fr": "La hiérarchie des désirs",
+        "en": "The hierarchy of desires"
+      },
       "explicitation": {
         "fr": "Y a-t-il des désirs supérieurs et d'autres inférieurs, qu'une part de nous devrait gouverner, ou ce classement n'est-il qu'une morale qu'on plaque sur une vie qui n'en demande pas ?",
         "en": "Are there higher and lower desires, with some part of us meant to govern the rest, or is this ranking merely a morality imposed on a life that asks for none?"

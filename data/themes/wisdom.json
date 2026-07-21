@@ -1,0 +1,32 @@
+{
+  "id": "wisdom",
+  "label": {
+    "fr": "La sagesse",
+    "en": "Wisdom"
+  },
+  "aliases": {
+    "fr": [
+      "sagesse",
+      "sage",
+      "vie philosophique",
+      "sérénité",
+      "sagesse pratique",
+      "philosophie de vie"
+    ],
+    "en": [
+      "wisdom",
+      "wise",
+      "philosophical life",
+      "serenity",
+      "practical wisdom",
+      "philosophy of life"
+    ]
+  },
+  "featured": true,
+  "axes": [
+    "METAPHILOSOPHY",
+    "CONTROL_SCOPE",
+    "DESIRE",
+    "ATTENTION"
+  ]
+}

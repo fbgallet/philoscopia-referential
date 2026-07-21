@@ -14,8 +14,13 @@
     "en": "\"<q>What do I know?</q>\": a lived, systemless <c id='skepticism'>skepticism</c> that takes the self for its matter."
   },
   "aliases": {
-    "fr": ["montaignien", "montaignienne"],
-    "en": ["Montaignian"]
+    "fr": [
+      "montaignien",
+      "montaignienne"
+    ],
+    "en": [
+      "Montaignian"
+    ]
   },
   "summary": {
     "fr": "Moraliste et magistrat français de la Renaissance, né au château de Montaigne en Périgord et formé très tôt au latin. Après une carrière au parlement de Bordeaux et la mort de son ami <per>La Boétie</per>, il se retire en 1571 dans sa « librairie » pour écrire les <w id='essays-montaigne'>Essais</w>, dont il invente <c id='essai-genre'>le genre</c> et qu'il remanie jusqu'à sa mort. Il écrit dans le fracas des guerres de Religion, dont il fut un négociateur modéré, et tire de l'humanisme antique, surtout des <ph>sceptiques</ph> grecs, de <ph>Sénèque</ph> et de <ph>Plutarque</ph>, une sagesse de la mesure et de la tolérance plutôt qu'une doctrine. Lecture de chevet de <ph>Pascal</ph>, qui le combat, de <ph>Descartes</ph>, qu'il provoque au doute, puis de <ph>Nietzsche</ph> qui l'admire, il reste l'un des premiers à faire de l'examen de sa propre vie le cœur de la philosophie.",
@@ -191,8 +196,8 @@
       "declaredValue": {
         "kind": "weights",
         "weights": [
-          0.85,
-          0.1,
+          0.8,
+          0.15,
           0.05,
           0
         ]
@@ -639,7 +644,12 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0, 0.05, 0, 0.95]
+        "weights": [
+          0,
+          0.05,
+          0,
+          0.95
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
@@ -656,6 +666,30 @@
           }
         ],
         "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRUTH_VALUE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Nul n'a scruté plus honnêtement ses propres faiblesses, mais cette lucidité s'arrête où finit la prise : des questions insolubles, il conclut qu'il fait bon y reposer une tête bien faite. Savoir sur soi ce qui aide à vivre, laisser dormir ce qui ne fait que tourmenter : l'essai perpétuel de soi cohabite avec une incuriosité assumée.",
+          "en": "No one scrutinized his own weaknesses more honestly, yet this lucidity stops where grip ends: of insoluble questions he concludes that they make a good place to rest a well-made head. To know about oneself what helps one live, and let sleep what only torments: the perpetual essaying of oneself coexists with an avowed incuriosity."
+        },
+        "references": [
+          {
+            "fr": "Essais, III, 13 (De l'expérience)",
+            "en": "Essays, III, 13 (Of Experience)"
+          }
+        ],
+        "strength": "STRONG",
+        "quoteId": "o-que-c-est-un-doux-et-mol-montaigne"
       }
     }
   ],
@@ -696,7 +730,7 @@
       }
     }
   ],
-  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

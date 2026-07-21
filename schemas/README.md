@@ -19,6 +19,7 @@ to validate or generate files that conform to the referential.
 | tensions | [`tensions.schema.json`](tensions.schema.json) |
 | thought-experiments | [`thought-experiments.schema.json`](thought-experiments.schema.json) |
 | arguments | [`arguments.schema.json`](arguments.schema.json) |
+| themes | [`themes.schema.json`](themes.schema.json) |
 
 **Scope.** These describe the *structure* of each file (fields, types, enums,
 pole and position-value shapes). The referential also has cross-file and

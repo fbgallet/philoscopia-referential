@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "protagoras",
+  "stub": true,
+  "name": {
+    "fr": "Protagoras",
+    "en": "Protagoras"
+  },
+  "summary": {
+    "fr": "Le plus célèbre des sophistes, auteur de la formule « l'homme est la mesure de toutes choses » ; pour lui, les normes valent par la convention (nomos) que chaque cité se donne, non par nature.",
+    "en": "The most famous of the sophists, author of the saying \"man is the measure of all things\"; for him, norms hold by the convention (nomos) each city gives itself, not by nature."
+  },
+  "birth": -490,
+  "death": -420,
+  "nationality": {
+    "fr": "Grec (Abdère)",
+    "en": "Greek (Abdera)"
+  },
+  "movements": [],
+  "updatedAt": "2026-07-20T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

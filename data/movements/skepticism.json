@@ -10,8 +10,14 @@
     "en": "Suspending judgment before the equal force of opposing arguments, to find <c id='ataraxia'>tranquillity</c>."
   },
   "aliases": {
-    "fr": ["pyrrhonien", "pyrrhonienne"],
-    "en": ["Pyrrhonist", "Pyrrhonian"]
+    "fr": [
+      "pyrrhonien",
+      "pyrrhonienne"
+    ],
+    "en": [
+      "Pyrrhonist",
+      "Pyrrhonian"
+    ]
   },
   "summary": {
     "fr": "Le scepticisme antique remonte à <ph>Pyrrhon d'Élis</ph> (IVe siècle avant notre ère), figure quasi légendaire qui n'écrivit rien et dont l'imperturbabilité, dit-on, ne fléchissait devant aucun danger. Deux courants se distinguent : le scepticisme académique, né quand <ph>Arcésilas</ph> puis Carnéade tournèrent l'Académie de <ph id='plato'>Platon</ph> contre le <c id='dogmatism'>dogmatisme</c> des stoïciens, et le scepticisme pyrrhonien, plus radical, que <ph>Sextus Empiricus</ph> codifie vers 200 dans ses Esquisses pyrrhoniennes, notre principale source. Le problème qu'affronte l'école est celui du critère : comment trancher entre des doctrines rivales qui toutes se prétendent vraies ? Longtemps marginale, cette tradition resurgit à la Renaissance avec la redécouverte de Sextus : elle nourrit le doute de <ph>Montaigne</ph>, le doute méthodique de <ph id='descartes'>Descartes</ph> qui cherche à le surmonter, et plus tard l'empirisme de <ph id='hume'>Hume</ph>.",
@@ -24,15 +30,24 @@
   "keyFigures": [
     {
       "slug": "pyrrho",
-      "name": { "fr": "Pyrrhon", "en": "Pyrrho" }
+      "name": {
+        "fr": "Pyrrhon",
+        "en": "Pyrrho"
+      }
     },
     {
       "slug": "sextus-empiricus",
-      "name": { "fr": "Sextus Empiricus", "en": "Sextus Empiricus" }
+      "name": {
+        "fr": "Sextus Empiricus",
+        "en": "Sextus Empiricus"
+      }
     },
     {
       "slug": "arcesilaus",
-      "name": { "fr": "Arcésilas", "en": "Arcesilaus" }
+      "name": {
+        "fr": "Arcésilas",
+        "en": "Arcesilaus"
+      }
     }
   ],
   "entries": [
@@ -87,7 +102,10 @@
     {
       "axisId": "CERTAINTY",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": 0.95 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.95
+      },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
       "justification": {
@@ -96,8 +114,14 @@
           "en": "Any claim to know the hidden nature of things presupposes a criterion of the true; yet that criterion would itself need validating by another, and so on without end, or else guarantee itself, which begs the question. The skeptic therefore does not assert that nothing is knowable, which would still be a <c id='dogmatism'>dogmatic</c> thesis: he observes that for every proof advanced a contrary proof of equal force stands (the <c id='isostheneia'>isostheneia</c>), and that this unresolved conflict forces <c id='epoche'>epochē</c>. What sets him apart from dogmatists and Academics alike is that he concludes neither to knowledge nor to ignorance: he keeps inquiring, without closing the matter."
         },
         "references": [
-          { "fr": "Sextus Empiricus, Esquisses pyrrhoniennes, I, 8-10", "en": "Sextus Empiricus, Outlines of Pyrrhonism, I, 8-10" },
-          { "fr": "Diogène Laërce, Vies, IX, 78-79", "en": "Diogenes Laertius, Lives, IX, 78-79" }
+          {
+            "fr": "Sextus Empiricus, Esquisses pyrrhoniennes, I, 8-10",
+            "en": "Sextus Empiricus, Outlines of Pyrrhonism, I, 8-10"
+          },
+          {
+            "fr": "Diogène Laërce, Vies, IX, 78-79",
+            "en": "Diogenes Laertius, Lives, IX, 78-79"
+          }
         ],
         "strength": "STRONG",
         "quoteId": "a-tout-argument-s-oppose-un-sextus-empiricus"
@@ -106,7 +130,14 @@
     {
       "axisId": "SOVEREIGN_GOOD",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "weights", "weights": [0.1, 0.9, 0] },
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0.9,
+          0
+        ]
+      },
       "epistemicStatus": "EXPLICIT",
       "salience": "MINOR",
       "justification": {
@@ -115,8 +146,14 @@
           "en": "What torments a person, the skeptic argues, is not the event but the opinion held about it, judging it good or bad by nature: whoever pursues what he takes for a good and flees what he takes for an evil knows no rest. To suspend that opinion is therefore to defuse the disturbance at its source. <c id='ataraxia'>Ataraxia</c> is thus not a goal the skeptic aims at directly, which would make him dependent once more: it supervenes by surprise, as the unexpected fruit of <c id='epoche'>epochē</c>. Here lies the school's paradox: one reaches serenity precisely by giving up the search for it in a knowledge of the good."
         },
         "references": [
-          { "fr": "Sextus Empiricus, Esquisses pyrrhoniennes, I, 25-30", "en": "Sextus Empiricus, Outlines of Pyrrhonism, I, 25-30" },
-          { "fr": "Diogène Laërce, Vies, IX, 107-108", "en": "Diogenes Laertius, Lives, IX, 107-108" }
+          {
+            "fr": "Sextus Empiricus, Esquisses pyrrhoniennes, I, 25-30",
+            "en": "Sextus Empiricus, Outlines of Pyrrhonism, I, 25-30"
+          },
+          {
+            "fr": "Diogène Laërce, Vies, IX, 107-108",
+            "en": "Diogenes Laertius, Lives, IX, 107-108"
+          }
         ],
         "strength": "STRONG",
         "quoteId": "la-tranquillite-suivit-la-suspension-comme-sextus-empiricus"
@@ -125,7 +162,10 @@
     {
       "axisId": "BELIEF_ETHICS",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": -0.8 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
       "justification": {
@@ -134,7 +174,10 @@
           "en": "To grant assent to a thesis about the non-evident nature of things is to hold true what one cannot prove: the skeptic sees this as a fault and abstains on principle. But an objection looms: <dif>would a life without any belief even be livable?</dif> He answers by distinguishing two assents. To the <c id='phantasia'>appearances</c> that force themselves upon him (that it is day, that he is hungry) he yields without resisting, for they are not up for dispute; what he refuses is the further assent that would add \"and so it truly is, by nature.\" He therefore acts, guided by phenomena and customs, while never positing a dogma."
         },
         "references": [
-          { "fr": "Sextus Empiricus, Esquisses pyrrhoniennes, I, 13-24", "en": "Sextus Empiricus, Outlines of Pyrrhonism, I, 13-24" }
+          {
+            "fr": "Sextus Empiricus, Esquisses pyrrhoniennes, I, 13-24",
+            "en": "Sextus Empiricus, Outlines of Pyrrhonism, I, 13-24"
+          }
         ],
         "strength": "MEDIUM"
       }
@@ -142,7 +185,10 @@
     {
       "axisId": "KNOWLEDGE_SOURCE",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": -0.6 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
       "justification": {
@@ -151,8 +197,14 @@
           "en": "Since every rational deduction of the essence of things runs aground on the equipollence of doctrines, all that remains for conduct is what imposes itself without asking our leave: sensory <c id='phantasia'>appearances</c> and phenomena. The skeptic does not erect them into a source of truth; he undergoes them as a purely practical criterion, enough to act on without asserting anything. Sextus' epithet, the Empiricist, marks this reversal: no longer deducing the real from above, by speculative reason, but relying on the given, from below, without claiming to pierce its nature."
         },
         "references": [
-          { "fr": "Sextus Empiricus, Esquisses pyrrhoniennes, I, 21-24", "en": "Sextus Empiricus, Outlines of Pyrrhonism, I, 21-24" },
-          { "fr": "Diogène Laërce, Vies, IX, 105-106", "en": "Diogenes Laertius, Lives, IX, 105-106" }
+          {
+            "fr": "Sextus Empiricus, Esquisses pyrrhoniennes, I, 21-24",
+            "en": "Sextus Empiricus, Outlines of Pyrrhonism, I, 21-24"
+          },
+          {
+            "fr": "Diogène Laërce, Vies, IX, 105-106",
+            "en": "Diogenes Laertius, Lives, IX, 105-106"
+          }
         ],
         "strength": "MEDIUM"
       }
@@ -160,7 +212,14 @@
     {
       "axisId": "DESIRE",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "weights", "weights": [0, 0.2, 0.8] },
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.2,
+          0.8
+        ]
+      },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
       "justification": {
@@ -169,7 +228,10 @@
           "en": "By ceasing to hold anything good or bad by nature, the skeptic frees himself from the vehement desires and aversions that disturb the soul. He feels only the unavoidable affections (hunger, thirst) and meets them with measure: a discipline of detachment, akin to that of the other schools, but grounded in the suspension of judgment rather than in a doctrine of the good."
         },
         "references": [
-          { "fr": "Sextus Empiricus, Esquisses pyrrhoniennes, I, 25-30", "en": "Sextus Empiricus, Outlines of Pyrrhonism, I, 25-30" }
+          {
+            "fr": "Sextus Empiricus, Esquisses pyrrhoniennes, I, 25-30",
+            "en": "Sextus Empiricus, Outlines of Pyrrhonism, I, 25-30"
+          }
         ],
         "strength": "MEDIUM"
       }
@@ -177,7 +239,10 @@
     {
       "axisId": "KNOWLEDGE_STATUS",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": 0.5 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.5
+      },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
       "justification": {
@@ -186,8 +251,14 @@
           "en": "The same thing appears differently according to the animal perceiving it, the sense organ, the subject's state, distance, mixture, or custom: this is the observation that Aenesidemus' ten tropes catalogue and order. Yet to adjudicate these irreconcilable appearances and say which one delivers the real thing, one would need an absolute standpoint, outside every condition of appearance, which no one has. The trope therefore bites exactly where the <c id='dogmatism'>dogmatist</c> claims to describe natures in themselves: we never grasp anything but the relative, which reduces every assertion about essence to <c id='epoche'>epochē</c>."
         },
         "references": [
-          { "fr": "Sextus Empiricus, Esquisses pyrrhoniennes, I, 36-163", "en": "Sextus Empiricus, Outlines of Pyrrhonism, I, 36-163" },
-          { "fr": "Diogène Laërce, Vies, IX, 79-88", "en": "Diogenes Laertius, Lives, IX, 79-88" }
+          {
+            "fr": "Sextus Empiricus, Esquisses pyrrhoniennes, I, 36-163",
+            "en": "Sextus Empiricus, Outlines of Pyrrhonism, I, 36-163"
+          },
+          {
+            "fr": "Diogène Laërce, Vies, IX, 79-88",
+            "en": "Diogenes Laertius, Lives, IX, 79-88"
+          }
         ],
         "strength": "MEDIUM"
       }
@@ -223,6 +294,14 @@
         "fr": "Le sceptique ne soutient ni un bien et un mal universels par nature, ni un relativisme érigé en thèse : il observe que les coutumes morales divergent radicalement d'un peuple à l'autre (le dixième trope) et en conclut qu'on ne peut établir aucune valeur comme bonne par nature. Il suspend son jugement et se conforme, sans y adhérer dogmatiquement, aux lois et aux usages de son pays.",
         "en": "The skeptic upholds neither a good and evil universal by nature nor relativism erected into a thesis: he observes that moral customs diverge radically from one people to another (the tenth trope) and concludes that no value can be established as good by nature. He suspends judgment and conforms, without dogmatic adherence, to the laws and customs of his country."
       }
+    },
+    {
+      "axisId": "TRUTH_VALUE",
+      "status": "REJECTS_ALTERNATIVE",
+      "note": {
+        "fr": "L'école ne choisit ni la vérité ni l'illusion : elle suspend. L'<c id='epoche'>épochè</c> n'est pas une illusion choisie mais le renoncement à trancher, et la tranquillité (<c id='ataraxia'>ataraxie</c>) survient comme l'ombre suit le corps, sans qu'aucune croyance fausse soit embrassée : l'alternative de l'axe présuppose une prise de position sur le vrai que le sceptique refuse précisément d'accorder.",
+        "en": "The school chooses neither truth nor illusion: it suspends. <c id='epoche'>Epochē</c> is not a chosen illusion but the renunciation of settling the matter, and tranquility (<c id='ataraxia'>ataraxia</c>) follows as the shadow follows the body, without any false belief being embraced: the axis's alternative presupposes a stand on truth which the skeptic precisely declines to grant."
+      }
     }
   ],
   "structuring": [
@@ -255,7 +334,7 @@
       }
     }
   ],
-  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

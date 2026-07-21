@@ -144,7 +144,7 @@ L'empirisme conçoit la science comme un savoir des régularités observables pl
 
 *positionné · explicite dans les textes · mineure*
 
-Sentimentalisme 75% · Intellectualisme 25%
+Le primat du sentiment 75% · Primauté de la raison 25%
 
 Le sentimentalisme moral est ici surtout l'œuvre de Hume : ce sont les **passions**, non l'entendement, qui meuvent à l'action et fondent les distinctions morales, lesquelles tiennent à un sentiment d'approbation ou de blâme. Cette inclination, qu'annonce déjà la philosophie britannique du sens moral, reste typique de l'école sans être partagée à l'identique par Locke.
 
@@ -198,7 +198,7 @@ L'empirisme rapporte la vérité des **vérités de fait** à l'accord de nos id
 
 *positionné · explicite dans les textes · majeure*
 
-Inductivisme 80% · Falsificationnisme 10% · Bayésianisme 10%
+La preuve par l'expérience 80% · La réfutation 10% · Le calcul des probabilités 10%
 
 Puisque rien n'est dans l'esprit qui n'ait d'abord été dans les sens, la méthode ne peut être que régressive puis ascendante : on part du donné observable et l'on s'élève aux lois générales par induction, jamais l'inverse. Bacon érige cette marche en règle, dénonçant l'anticipation hâtive qui plaque sur la nature des principes a priori, et lui oppose l'**induction** méthodique, conduite par tables d'absence et de présence. C'est le renversement du modèle rationaliste, qui déduisait le monde de premières vérités évidentes : ici les axiomes ne précèdent pas l'expérience, ils en sont l'aboutissement révisable.
 

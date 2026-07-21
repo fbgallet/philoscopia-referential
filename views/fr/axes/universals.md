@@ -39,7 +39,7 @@ Les genres et les espèces n'existent ni comme des réalités en soi, ni comme d
 
 ## Axes liés
 
-[Essence et existence](../axes/essence.md) · [Nature de l'esprit et du réel](../axes/reality-nature.md) · [L'être et le devenir](../axes/being-becoming.md)
+[Essence et existence](../axes/essence.md) · [Nature du réel](../axes/reality-nature.md) · [L'être et le devenir](../axes/being-becoming.md)
 
 ---
 

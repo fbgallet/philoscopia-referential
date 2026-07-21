@@ -2,7 +2,7 @@
 
 # The morbid-rumination objection
 
-*Objection to [Death](../axes/death.md) : Being-toward-death*
+*Objection to [Death](../axes/death.md) : Living in view of one's death*
 
 **By dwelling on death, one stops living.**
 

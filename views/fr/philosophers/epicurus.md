@@ -64,7 +64,7 @@ Le critère est tiré de la nature même du vivant : dès la naissance, tout êt
 
 *positionné · explicite dans les textes · majeure*
 
-La mort n'est rien 100%
+Se libérer de la crainte 100%
 
 L'argument repose sur deux prémisses tirées de la physique : tout bien et tout mal résident dans la sensation, et la mort, dissolution des atomes de l'âme, est précisément privation totale de sensation. Il s'ensuit que la mort ne peut être un mal pour personne, car le sujet qui en pâtirait n'existe jamais en même temps qu'elle : « tant que nous sommes, elle n'est pas là ; quand elle est là, nous ne sommes plus ». La peur de mourir vise donc un néant, et craindre un état où l'on ne sera pas est aussi vain que de s'affliger du temps d'avant sa naissance. Ce raisonnement, deuxième volet du [tétrapharmakos](../glossary/tetrapharmakos.md), retire son objet à l'angoisse qui, selon Épicure, empoisonne toute la vie.
 
@@ -94,7 +94,7 @@ La souffrance n'a aucune valeur rédemptrice : elle est le mal même que toute l
 
 *Sources : Maximes capitales, IV (la douleur ne dure pas continûment dans la chair) · Diogène Laërce, Vies, X, 118 (le sage heureux même dans les tourments)*
 
-### [Nature de l'esprit et du réel](../axes/reality-nature.md)
+### [Nature du réel](../axes/reality-nature.md)
 
 *positionné · explicite dans les textes · majeure*
 
@@ -174,7 +174,7 @@ Bien que le plaisir soit le bien, Épicure prône une sobriété mesurée : le p
 
 *positionné · inférable · mineure*
 
-Intellectualisme 70% · Sentimentalisme 30%
+Primauté de la raison 70% · Le primat du sentiment 30%
 
 Les troubles de l'âme, surtout les peurs des dieux et de la mort, naissent d'opinions fausses sur la nature : c'est donc la connaissance exacte de la physique qui guérit l'angoisse. « Vaine est la parole du philosophe qui ne soigne aucune souffrance humaine » : la thérapie des passions passe par le raisonnement et la compréhension des limites du désir, ce qui marque une pente intellectualiste.
 
@@ -300,7 +300,7 @@ Le débat techno-optimisme contre techno-criticisme suppose la technique industr
 
 *positionné · inférable · mineure*
 
-Argument du mal (athéisme) 95% · Révolte / anti-théodicie 5%
+Le mal réfute Dieu 95% · Le mal injustifiable 5%
 
 Le dilemme dit épicurien, transmis par Lactance, conclut qu'un Dieu à la fois bon et tout-puissant est incompatible avec l'existence du mal : ou il veut l'empêcher sans le pouvoir, ou il le peut sans le vouloir. Chez Épicure, les dieux bienheureux ne se mêlent pas du monde.
 
@@ -317,6 +317,16 @@ Le sage épicurien ne cherche ni la passion ni l'extase de l'union, mais l'[amit
 > « De tout ce que la sagesse procure pour le bonheur de la vie entière, de bien loin le plus grand est l'acquisition de l'amitié. », Maximes capitales, XXVII
 
 *Sources : Maximes capitales, XXVII · Sentences vaticanes, 23, 34 et 52*
+
+### [Valeur de la vérité](../axes/truth-value.md)
+
+*positionné · explicite dans les textes · mineure*
+
+Primauté de la vérité 60% · Illusions vitales 40%
+
+La connaissance de la nature a une fonction thérapeutique : dissoudre les terreurs des dieux, de la mort et des météores ; sans ces craintes, dit-il, nous n'aurions nul besoin de physique. La vérité vaut ce qu'elle guérit, ni culte du savoir ni illusion consolante : les dieux existent mais ne se mêlent pas de nous, et c'est cette vérité-là qui apaise.
+
+*Sources : Maximes capitales, XI-XII*
 
 ## Influence sur
 

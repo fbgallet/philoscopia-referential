@@ -2,7 +2,7 @@
 
 # Le seul temps qui soit nôtre
 
-*Argument pour [Orientation temporelle](../axes/time-orientation.md) : Présentisme*
+*Argument pour [Orientation temporelle](../axes/time-orientation.md) : Vivre au présent*
 
 **De tout le temps, seul le présent nous appartient ; le reste n'existe que dans notre tête.**
 

@@ -14,6 +14,24 @@
     "fr": "La souffrance nous fait-elle grandir, mûrir, comprendre, ou n'est-elle qu'un mal qu'il faut réduire partout où c'est possible ? Lui prêter une valeur peut conduire à magnifier ou à tolérer l'intolérable ; ne vouloir que l'abolir peut nous faire fuir toute épreuve qui nous aurait fait mûrir. Se positionner, c'est dire quoi faire de notre douleur et de celle des autres.",
     "en": "Does suffering make us grow, mature, understand, or is it only an evil to be reduced wherever we can? Granting it value can lead to glorifying or tolerating the intolerable; wanting only to abolish it can make us flee every ordeal that might have ripened us. To take a position is to say what to do with our own pain and that of others."
   },
+  "aliases": {
+    "fr": [
+      "souffrance",
+      "douleur",
+      "le mal",
+      "épreuve",
+      "malheur",
+      "résilience"
+    ],
+    "en": [
+      "suffering",
+      "pain",
+      "evil",
+      "hardship",
+      "adversity",
+      "resilience"
+    ]
+  },
   "layer": "VALUE",
   "type": "BIPOLAR_MEDIAN",
   "poles": [
@@ -102,17 +120,55 @@
       "relation": "SUBPROBLEM",
       "sphere": "EXISTENTIAL",
       "keywords": [
-        { "fr": "« ce qui ne me tue pas »", "en": "\"what does not kill me\"" },
-        { "fr": "épreuve", "en": "ordeal" },
-        { "fr": "endurcissement", "en": "hardening" }
+        {
+          "fr": "« ce qui ne me tue pas »",
+          "en": "\"what does not kill me\""
+        },
+        {
+          "fr": "épreuve",
+          "en": "ordeal"
+        },
+        {
+          "fr": "endurcissement",
+          "en": "hardening"
+        }
       ],
-      "poles": ["REDEMPTIVE_FECUNDITY", "ABOLITIONISM"],
+      "poles": [
+        "REDEMPTIVE_FECUNDITY",
+        "ABOLITIONISM"
+      ],
       "anchors": [
-        { "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" },
-        { "name": { "fr": "Pascal", "en": "Pascal" }, "kind": "PHILOSOPHER", "slug": "pascal" },
-        { "name": { "fr": "Simone Weil", "en": "Simone Weil" }, "kind": "PHILOSOPHER", "slug": "simone-weil" }
+        {
+          "name": {
+            "fr": "Nietzsche",
+            "en": "Nietzsche"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "nietzsche"
+        },
+        {
+          "name": {
+            "fr": "Pascal",
+            "en": "Pascal"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "pascal"
+        },
+        {
+          "name": {
+            "fr": "Simone Weil",
+            "en": "Simone Weil"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "simone-weil"
+        }
       ],
-      "doorways": [{ "axis": "PROBLEM_OF_EVIL", "problem": "growth-through-evil" }],
+      "doorways": [
+        {
+          "axis": "PROBLEM_OF_EVIL",
+          "problem": "growth-through-evil"
+        }
+      ],
       "title": {
         "fr": "L'épreuve qui approfondit",
         "en": "The ordeal that deepens"
@@ -134,16 +190,46 @@
       "relation": "SUBPROBLEM",
       "sphere": "MORAL",
       "keywords": [
-        { "fr": "souffrance inutile", "en": "useless suffering" },
-        { "fr": "la douleur de l'enfant", "en": "the child's pain" },
-        { "fr": "Dostoïevski", "en": "Dostoevsky" }
+        {
+          "fr": "souffrance inutile",
+          "en": "useless suffering"
+        },
+        {
+          "fr": "la douleur de l'enfant",
+          "en": "the child's pain"
+        },
+        {
+          "fr": "Dostoïevski",
+          "en": "Dostoevsky"
+        }
       ],
-      "poles": ["ABOLITIONISM"],
+      "poles": [
+        "ABOLITIONISM"
+      ],
       "anchors": [
-        { "name": { "fr": "Levinas", "en": "Levinas" }, "kind": "PHILOSOPHER", "slug": "levinas" },
-        { "name": { "fr": "Camus", "en": "Camus" }, "kind": "PHILOSOPHER", "slug": "camus" }
+        {
+          "name": {
+            "fr": "Levinas",
+            "en": "Levinas"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "levinas"
+        },
+        {
+          "name": {
+            "fr": "Camus",
+            "en": "Camus"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "camus"
+        }
       ],
-      "doorways": [{ "axis": "PROBLEM_OF_EVIL", "problem": "justifying-evil" }],
+      "doorways": [
+        {
+          "axis": "PROBLEM_OF_EVIL",
+          "problem": "justifying-evil"
+        }
+      ],
       "title": {
         "fr": "La souffrance inutile",
         "en": "Useless suffering"
@@ -165,15 +251,48 @@
       "relation": "SUBPROBLEM",
       "sphere": "MORAL",
       "keywords": [
-        { "fr": "compassion", "en": "compassion" },
-        { "fr": "pitié", "en": "pity" },
-        { "fr": "solidarité", "en": "solidarity" }
+        {
+          "fr": "compassion",
+          "en": "compassion"
+        },
+        {
+          "fr": "pitié",
+          "en": "pity"
+        },
+        {
+          "fr": "solidarité",
+          "en": "solidarity"
+        }
       ],
-      "poles": ["REDEMPTIVE_FECUNDITY", "ABOLITIONISM"],
+      "poles": [
+        "REDEMPTIVE_FECUNDITY",
+        "ABOLITIONISM"
+      ],
       "anchors": [
-        { "name": { "fr": "Schopenhauer", "en": "Schopenhauer" }, "kind": "PHILOSOPHER", "slug": "schopenhauer" },
-        { "name": { "fr": "Rousseau", "en": "Rousseau" }, "kind": "PHILOSOPHER", "slug": "rousseau" },
-        { "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" }
+        {
+          "name": {
+            "fr": "Schopenhauer",
+            "en": "Schopenhauer"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "schopenhauer"
+        },
+        {
+          "name": {
+            "fr": "Rousseau",
+            "en": "Rousseau"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "rousseau"
+        },
+        {
+          "name": {
+            "fr": "Nietzsche",
+            "en": "Nietzsche"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "nietzsche"
+        }
       ],
       "title": {
         "fr": "La pitié naît-elle de la douleur ?",
@@ -196,17 +315,53 @@
       "relation": "SUBPROBLEM",
       "sphere": "VITAL",
       "keywords": [
-        { "fr": "cessation", "en": "cessation" },
-        { "fr": "nirvana", "en": "nirvana" },
-        { "fr": "projet abolitionniste", "en": "abolitionist project" }
+        {
+          "fr": "cessation",
+          "en": "cessation"
+        },
+        {
+          "fr": "nirvana",
+          "en": "nirvana"
+        },
+        {
+          "fr": "projet abolitionniste",
+          "en": "abolitionist project"
+        }
       ],
-      "poles": ["ABOLITIONISM"],
+      "poles": [
+        "ABOLITIONISM"
+      ],
       "anchors": [
-        { "name": { "fr": "le bouddhisme", "en": "Buddhism" }, "kind": "MOVEMENT", "slug": "buddhism" },
-        { "name": { "fr": "l'utilitarisme", "en": "utilitarianism" }, "kind": "MOVEMENT", "slug": "utilitarianism" },
-        { "name": { "fr": "le transhumanisme", "en": "transhumanism" }, "kind": "MOVEMENT", "slug": "transhumanism" }
+        {
+          "name": {
+            "fr": "le bouddhisme",
+            "en": "Buddhism"
+          },
+          "kind": "MOVEMENT",
+          "slug": "buddhism"
+        },
+        {
+          "name": {
+            "fr": "l'utilitarisme",
+            "en": "utilitarianism"
+          },
+          "kind": "MOVEMENT",
+          "slug": "utilitarianism"
+        },
+        {
+          "name": {
+            "fr": "le transhumanisme",
+            "en": "transhumanism"
+          },
+          "kind": "MOVEMENT",
+          "slug": "transhumanism"
+        }
       ],
-      "doorways": [{ "axis": "HUMAN_ENHANCEMENT" }],
+      "doorways": [
+        {
+          "axis": "HUMAN_ENHANCEMENT"
+        }
+      ],
       "title": {
         "fr": "En finir avec la souffrance",
         "en": "Doing away with suffering"
@@ -228,15 +383,48 @@
       "relation": "SUBPROBLEM",
       "sphere": "EXISTENTIAL",
       "keywords": [
-        { "fr": "les indifférents", "en": "the indifferents" },
-        { "fr": "« nos jugements sur les choses »", "en": "\"our judgments about things\"" },
-        { "fr": "fermeté", "en": "steadfastness" }
+        {
+          "fr": "les indifférents",
+          "en": "the indifferents"
+        },
+        {
+          "fr": "« nos jugements sur les choses »",
+          "en": "\"our judgments about things\""
+        },
+        {
+          "fr": "fermeté",
+          "en": "steadfastness"
+        }
       ],
-      "poles": ["REDEMPTIVE_FECUNDITY", "ABOLITIONISM"],
+      "poles": [
+        "REDEMPTIVE_FECUNDITY",
+        "ABOLITIONISM"
+      ],
       "anchors": [
-        { "name": { "fr": "Épictète", "en": "Epictetus" }, "kind": "PHILOSOPHER", "slug": "epictetus" },
-        { "name": { "fr": "Marc Aurèle", "en": "Marcus Aurelius" }, "kind": "PHILOSOPHER", "slug": "marcus-aurelius" },
-        { "name": { "fr": "Sénèque", "en": "Seneca" }, "kind": "PHILOSOPHER", "slug": "seneca" }
+        {
+          "name": {
+            "fr": "Épictète",
+            "en": "Epictetus"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "epictetus"
+        },
+        {
+          "name": {
+            "fr": "Marc Aurèle",
+            "en": "Marcus Aurelius"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "marcus-aurelius"
+        },
+        {
+          "name": {
+            "fr": "Sénèque",
+            "en": "Seneca"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "seneca"
+        }
       ],
       "title": {
         "fr": "Ni bien ni mal : l'indifférent",
@@ -258,17 +446,57 @@
       "mode": "DESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "providence", "en": "providence" },
-        { "fr": "« tout arrive pour une raison »", "en": "\"everything happens for a reason\"" },
-        { "fr": "consolation", "en": "consolation" }
+        {
+          "fr": "providence",
+          "en": "providence"
+        },
+        {
+          "fr": "« tout arrive pour une raison »",
+          "en": "\"everything happens for a reason\""
+        },
+        {
+          "fr": "consolation",
+          "en": "consolation"
+        }
       ],
-      "poles": ["REDEMPTIVE_FECUNDITY", "ABOLITIONISM"],
+      "poles": [
+        "REDEMPTIVE_FECUNDITY",
+        "ABOLITIONISM"
+      ],
       "anchors": [
-        { "name": { "fr": "Leibniz", "en": "Leibniz" }, "kind": "PHILOSOPHER", "slug": "leibniz" },
-        { "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" },
-        { "name": { "fr": "Freud", "en": "Freud" }, "kind": "PHILOSOPHER", "slug": "freud" }
+        {
+          "name": {
+            "fr": "Leibniz",
+            "en": "Leibniz"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "leibniz"
+        },
+        {
+          "name": {
+            "fr": "Nietzsche",
+            "en": "Nietzsche"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "nietzsche"
+        },
+        {
+          "name": {
+            "fr": "Freud",
+            "en": "Freud"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "freud"
+        }
       ],
-      "doorways": [{ "axis": "COSMIC_OUTLOOK" }, { "axis": "PROBLEM_OF_EVIL" }],
+      "doorways": [
+        {
+          "axis": "COSMIC_OUTLOOK"
+        },
+        {
+          "axis": "PROBLEM_OF_EVIL"
+        }
+      ],
       "title": {
         "fr": "Un sens trouvé, ou prêté ?",
         "en": "A meaning found, or lent?"
@@ -290,10 +518,20 @@
       "relation": "RELATED",
       "sphere": "EXISTENTIAL",
       "keywords": [
-        { "fr": "espérance", "en": "hope" },
-        { "fr": "consolation", "en": "consolation" }
+        {
+          "fr": "espérance",
+          "en": "hope"
+        },
+        {
+          "fr": "consolation",
+          "en": "consolation"
+        }
       ],
-      "doorways": [{ "axis": "HOPE" }],
+      "doorways": [
+        {
+          "axis": "HOPE"
+        }
+      ],
       "title": {
         "fr": "Espérer par-delà la souffrance",
         "en": "Hoping beyond suffering"

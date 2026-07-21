@@ -144,7 +144,7 @@ Empiricism conceives of science as knowledge of observable regularities rather t
 
 *positioned · explicit in the texts · minor*
 
-Sentimentalism 75% · Intellectualism 25%
+The primacy of feeling 75% · The primacy of reason 25%
 
 Moral sentimentalism is here chiefly Hume's work: it is **passion**, not understanding, that moves us to act and grounds moral distinctions, which rest on a sentiment of approval or blame. This leaning, already foreshadowed by British moral-sense philosophy, is typical of the school without being shared identically by Locke.
 
@@ -198,7 +198,7 @@ Empiricism refers the truth of **matters of fact** to the agreement of our ideas
 
 *positioned · explicit in the texts · major*
 
-Inductivism 80% · Falsificationism 10% · Bayesianism 10%
+Proof by experience 80% · Refutation 10% · The calculus of probabilities 10%
 
 Since nothing is in the mind that was not first in the senses, the method can only be regressive then ascending: one starts from the observable given and rises to general laws by induction, never the reverse. Bacon erects this march into a rule, denouncing the hasty anticipation that imposes a priori principles on nature, and sets against it methodical **induction**, conducted through tables of absence and presence. This is the overturning of the rationalist model, which deduced the world from self-evident first truths: here axioms do not precede experience, they are its revisable outcome.
 

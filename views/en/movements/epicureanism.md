@@ -12,7 +12,7 @@ A school founded in Athens by [Epicurus](../philosophers/epicurus.md) around 307
 
 1. [The highest good](../axes/sovereign-good.md) : **[Pleasure](../glossary/hedonism.md) is the sovereign good, yet its summit is not enjoyment but [ataraxia](../glossary/ataraxia.md), the stable state where no pain is left to remove.**
 2. [Death](../axes/death.md) : **Death is nothing to us: while we are, it is not, and when it is, we are no longer; to fear it is to dread a nothing that will never reach us.**
-3. [Nature of mind and reality](../axes/reality-nature.md) : **Nothing exists but atoms and void: the soul itself is an assembly of grains that comes apart at death, with no world beyond and no design.**
+3. [Nature of reality](../axes/reality-nature.md) : **Nothing exists but atoms and void: the soul itself is an assembly of grains that comes apart at death, with no world beyond and no design.**
 4. [Relation to desire](../axes/desire.md) : **Not all desires are equal: satisfying the natural and necessary ones, which have a limit, and extinguishing the vain ones, which have none, is enough to live untroubled.**
 5. [Existence of God](../axes/god-existence.md) : **The gods exist, but being perfectly blessed they take no part in the world: neither anger nor favor is to be expected from them, hence nothing to fear.**
 
@@ -44,7 +44,7 @@ The criterion of the good is read in nature before any reasoning: from birth eve
 
 *positioned · explicit in the texts · major*
 
-Death is nothing 95% · Being-toward-death 5%
+Freeing ourselves from the fear 95% · Living in view of one's death 5%
 
 All good and evil reside in sensation, and death is precisely the privation of all sensation: physics guarantees it, since the soul, made of subtle atoms, scatters when the body comes apart. Hence the decisive argument: death is nothing to us, for while we exist death is not present, and when death is present we no longer exist; the subject that could suffer and the dreaded event never coexist. The fear of death therefore aims at a nothing and rests on the illusion of still witnessing one's own absence. This targets the terrors of the afterlife, punishment and survival, which Epicureanism holds to be fictions without object: there is no infinite span to dread, and a finite but unanxious life is worth an eternity.
 
@@ -74,7 +74,7 @@ For Epicureanism, pain holds no redemptive value: it is an evil to be removed or
 
 *Sources : Epicurus, Principal Doctrines, IV · Philodemus, Tetrapharmakos (Herculaneum)*
 
-### [Nature of mind and reality](../axes/reality-nature.md)
+### [Nature of reality](../axes/reality-nature.md)
 
 *positioned · explicit in the texts · major*
 
@@ -120,7 +120,7 @@ Against the rigorous fate of the Stoics, Epicurus introduces the [clinamen](../g
 
 *positioned · inferable · minor*
 
-Intellectualism 70% · Sentimentalism 30%
+The primacy of reason 70% · The primacy of feeling 30%
 
 Mental disturbances stem from false opinions, above all the fear of the gods and of death: it is by correcting judgment, through the study of nature, that one attains [ataraxia](../glossary/ataraxia.md). Epicureanism thus leans toward intellectualism, yet without the Stoic eradication of the passions, since it grants a positive place to natural affects, such as friendship (philia).
 
@@ -212,13 +212,13 @@ Against the [scepticism](../glossary/skepticism.md) of the Academy, Epicureanism
 
 *positioned · inferable · minor*
 
-Argument from evil (atheism) 95% · Revolt / anti-theodicy 5%
+Evil refutes God 95% · Unjustifiable evil 5%
 
 The gods, perfectly blessed, do not meddle with the world: there is no providence. The dilemma transmitted under Epicurus's name concludes that the world's evil is incompatible with a god at once good and all-powerful.
 
 *Sources : Epicurus, Letter to Menoeceus; Lactantius, On the Anger of God, 13*
 
-### [Nature of consciousness](../axes/consciousness-nature.md)
+### [The enigma of consciousness](../axes/consciousness-nature.md)
 
 *positioned · explicit in the texts · major*
 

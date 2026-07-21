@@ -198,7 +198,7 @@ Painful effort (ponos) is the very means of virtue: Diogenes trains himself to c
 
 *positioned · inferable · minor*
 
-Death is nothing 85% · Immortalism 10% · Being-toward-death 5%
+Freeing ourselves from the fear 85% · Preparing for the passage 10% · Living in view of one's death 5%
 
 Diogenes flaunts a provocative indifference toward death: he asks, it is said, that his corpse be thrown over the wall to the beasts, and mocks the care of burial, since he will no longer be there to feel anything. The fear of dying belongs to the empty conventions he sets out precisely to undo; death is nothing that should trouble the self-sufficient sage. The serenity meets the Epicurean tone, with no promise of personal immortality.
 

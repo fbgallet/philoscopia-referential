@@ -47,7 +47,7 @@ Science et religion répondent à des questions différentes : l'une décrit les
 
 ## Axes liés
 
-[Le problème du mal](../axes/problem-of-evil.md) · [Éthique de la croyance](../axes/belief-ethics.md) · [Existence de Dieu](../axes/god-existence.md) · [Place de la science](../axes/science-place.md) · [Où réside le sacré](../axes/transcendence.md)
+[Le problème du mal](../axes/problem-of-evil.md) · [Éthique de la croyance](../axes/belief-ethics.md) · [Existence de Dieu](../axes/god-existence.md) · [Place de la science](../axes/science-place.md) · [Où réside le sacré](../axes/transcendence.md) · [La source de la morale](../axes/moral-source.md)
 
 ---
 

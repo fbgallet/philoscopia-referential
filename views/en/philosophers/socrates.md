@@ -52,7 +52,7 @@ At his trial, Socrates refuses to give up philosophy even to save his life: what
 
 *positioned · explicit in the texts · major*
 
-Intellectualism 95% · Sentimentalism 5%
+The primacy of reason 95% · The primacy of feeling 5%
 
 If virtue is knowledge, wrongdoing can spring only from a failure of knowledge: no one willingly goes toward what they hold to be evil. Socrates thus denies the possibility of [akrasia](../glossary/akrasia.md), weakness of will: what looks like a passion overpowering reason is really a miscalculation between goods. Against the idea that desire or anger governs us, he makes knowledge the sufficient cause of right action.
 
@@ -148,7 +148,7 @@ Before his judges, Socrates declares himself serene: they may kill or banish him
 
 *positioned · inferable · minor*
 
-Death is nothing 50% · Immortalism 50%
+Freeing ourselves from the fear 50% · Preparing for the passage 50%
 
 To fear death, says Socrates, is to think oneself wise when one is not, for no one knows whether it is an evil. It is one of two things: either a dreamless sleep, and so a gain, or a journey of the soul to the dead, and so a blessing; in both cases the good man has nothing to fear. The proof of immortality will come from Plato; in Socrates the position stays suspended between these two hopes.
 
@@ -245,6 +245,18 @@ Finalism 70% · Mechanism 20% · Vitalism 10%
 Disappointed by the natural philosophers who explain everything by material causes, Socrates recounts having hoped from Anaxagoras that Mind ordered the world for the best, then finding him invoking only mechanisms. What he demands is explanation by the good, the end for the sake of which it is better that things be as they are: a finalism that turns philosophy away from nature toward value.
 
 *Sources : Plato, Phaedo, 97b-99d (the disappointment with Anaxagoras)*
+
+### [The value of truth](../axes/truth-value.md)
+
+*positioned · explicit in the texts · major*
+
+The primacy of truth 95% · Vital illusions 5%
+
+Facing his judges, Socrates prefers death to giving up examination: philosophizing is for him an assigned post one does not desert, and the worst misery is not to suffer but to live in the self-satisfied ignorance of what one thinks one knows. Care of the soul requires putting every opinion to the test, beginning with one's own.
+
+> “The unexamined life is not worth living.”, Plato, Apology, 38a
+
+*Sources : Plato's Apology*
 
 ## Influence on
 

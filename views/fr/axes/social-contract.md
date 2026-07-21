@@ -42,7 +42,7 @@ L'homme est par nature un être social : la communauté précède l'individu, qu
 
 ## Axes liés
 
-[Nature des droits](../axes/rights-nature.md) · [Rapport à l'autorité](../axes/authority.md) · [Appartenance](../axes/belonging.md) · [Individu et société](../axes/individual-society.md) · [Justice distributive](../axes/distributive-justice.md) · [La violence](../axes/violence.md) · [Générations futures](../axes/future-generations.md)
+[Nature des droits](../axes/rights-nature.md) · [Rapport à l'autorité](../axes/authority.md) · [Appartenance](../axes/belonging.md) · [Individu et société](../axes/individual-society.md) · [Justice distributive](../axes/distributive-justice.md) · [La violence](../axes/violence.md) · [Générations futures](../axes/future-generations.md) · [La loi et la conscience](../axes/political-obligation.md)
 
 ---
 

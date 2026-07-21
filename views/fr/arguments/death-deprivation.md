@@ -2,7 +2,7 @@
 
 # L'argument de la privation
 
-*Objection à [La mort](../axes/death.md) : La mort n'est rien*
+*Objection à [La mort](../axes/death.md) : Se libérer de la crainte*
 
 **La mort est un mal parce qu'elle nous prive de tout ce que la vie nous aurait offert.**
 

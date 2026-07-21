@@ -40,7 +40,7 @@ Meaning, for Confucius, is rooted in the Mandate of Heaven (Tian ming): a normat
 
 *positioned · explicit in the texts · minor*
 
-Death is nothing 50% · Immortalism 40% · Being-toward-death 10%
+Freeing ourselves from the fear 50% · Preparing for the passage 40% · Living in view of one's death 10%
 
 Asked about death and the spirits, Confucius redirects attention to life: “you do not yet know how to serve the living, how could you know how to serve the dead?”. He sets aside speculation about the hereafter without denying it, and shifts care onto present conduct. But the cult of ancestors maintains a continuity: the dead remain present through memory and the rites, a form of survival in the lineage.
 
@@ -120,7 +120,7 @@ The premise is that the [Way (dao)](../glossary/dao.md) was already fully realiz
 
 *positioned · explicit in the texts · major*
 
-Memory and transmission 85% · Presentism 10% · Project 5%
+Memory and transmission 85% · Living in the present 10% · Project 5%
 
 Confucian time is oriented toward the past as a model: “reviving the old to understand the new” is the master's way. Studying the Ancients, the rituals and the odes transmits a wisdom to embody; the future counts less as a project to invent than as a continuity to preserve. This is an orientation of [memory and transmission](../axes/time-orientation.md).
 
@@ -230,7 +230,7 @@ The sovereign good is the moral excellence of the accomplished person, the junzi
 
 *positioned · inferable · minor*
 
-Sentimentalism 65% · Intellectualism 35%
+The primacy of feeling 65% · The primacy of reason 35%
 
 Confucian morality does not repress feelings but cultivates and orders them: sincere mourning matters more than strict observance, and it is lived affection, love of one's parents, that grounds xiao (filial piety). The li 禮 (rites) give emotions a fitting form rather than erasing them, hence a moderate sentimentalist leaning, tempered by the demand for discernment.
 

@@ -1,0 +1,12 @@
+{
+  "id": "free-will-grounds-desert",
+  "ground": { "axisId": "FREEDOM", "poleId": "FREE_WILL" },
+  "grounded": { "axisId": "MORAL_RESPONSIBILITY", "poleId": "DESERT" },
+  "kind": "T_V",
+  "strength": "STRONG",
+  "explanation": {
+    "fr": "Si la volonté est réellement libre, si l'agent pouvait agir autrement, alors ses actes lui appartiennent en propre et l'éloge comme le blâme sont mérités. Le <c id='free-will'>libre arbitre</c> fonde le mérite au sens fort : pour <ph id='kant'>Kant</ph>, seule une liberté transcendantale rend la loi morale obligatoire et la faute imputable.",
+    "en": "If the will is genuinely free, if the agent could have acted otherwise, then their acts are properly their own and praise as much as blame is deserved. <c id='free-will'>Free will</c> grounds desert in the strong sense: for <ph id='kant'>Kant</ph>, only a transcendental freedom makes the moral law binding and the fault imputable."
+  },
+  "updatedAt": "2026-07-20T00:00:00.000Z"
+}

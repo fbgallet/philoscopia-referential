@@ -30,7 +30,7 @@ Sartre refuse toute justification rédemptrice de la souffrance : sans Dieu ni p
 
 *positionné · explicite dans les textes · mineure*
 
-La mort n'est rien 75% · Révolte / refus 15% · Immortalisme 10%
+Se libérer de la crainte 75% · Refuser la mort 15% · Se préparer au passage 10%
 
 Sartre récuse explicitement l'être-pour-la-mort de Heidegger : loin d'être ma possibilité la plus propre, qui donnerait sens à ma vie, la mort est un fait absurde et extérieur, la pure suppression de mes possibles. Elle ne s'attend ni ne s'assume comme mienne, elle me livre au regard d'autrui. Le sens vient de la liberté en cours, jamais de la mort, qu'il s'agit moins d'apprivoiser que de ne pas laisser commander la vie.
 
@@ -182,7 +182,7 @@ Sartre refuse toute morale de règles a priori : au jeune homme déchiré entre 
 
 *positionné · explicite dans les textes · mineure*
 
-Sentimentalisme 65% · Intellectualisme 35%
+Le primat du sentiment 65% · Primauté de la raison 35%
 
 Dans son Esquisse d'une théorie des émotions, Sartre tient l'émotion pour une conduite signifiante, non pour un simple trouble subi : c'est une **transformation magique du monde** par laquelle la conscience, ne pouvant agir réellement sur une situation, la métamorphose pour la rendre supportable. L'émotion relève donc d'une intentionnalité et d'un sens, davantage que d'un pur mécanisme intellectualisable ; mais comme elle reste une conduite seconde, dégradée par rapport à l'action lucide, la pente sentimentaliste demeure mesurée.
 
@@ -204,7 +204,7 @@ La conscience est tout entière tournée vers le dehors : il n'y a pas de vie in
 
 *positionné · inférable · mineure*
 
-Projet 80% · Présentisme 15% · Mémoire-transmission 5%
+Projet 80% · Vivre au présent 15% · Mémoire-transmission 5%
 
 Le pour-soi est tendu vers l'avenir : il se définit par le projet, ce vers-quoi il se jette en avant, et n'est jamais figé dans son passé, qu'il a toujours à reprendre et à resignifier. Vivre, c'est se pro-jeter ; le présent lui-même n'a sens que rapporté à ce que l'on se fait être. L'orientation est donc résolument celle du projet, non de la mémoire ni du pur instant.
 
@@ -232,7 +232,7 @@ Sartre nie l'existence d'une **nature humaine** : faute de Dieu pour la concevoi
 
 *Sources : L'existentialisme est un humanisme (il n'y a pas de nature humaine, mais une condition humaine)*
 
-### [Nature de l'esprit et du réel](../axes/reality-nature.md)
+### [Nature du réel](../axes/reality-nature.md)
 
 *positionné · inférable · mineure*
 
@@ -331,6 +331,16 @@ Construction sociale 85% · Réalisme social 15%
 L'existence précède l'essence : aucune nature ne fixe d'avance ce que l'on est. Le Juif, montre Sartre, est en partie fait par la situation et le regard de l'antisémite. Les identités sociales sont construites, non données.
 
 *Sources : Réflexions sur la question juive ; L'existentialisme est un humanisme*
+
+### [Valeur de la vérité](../axes/truth-value.md)
+
+*positionné · explicite dans les textes · majeure*
+
+Primauté de la vérité 85% · Illusions vitales 15%
+
+La conscience étant ce qu'elle n'est pas et n'étant pas ce qu'elle est, la tentation permanente est la mauvaise foi : se raconter qu'on est une nature, un rôle, une chose, pour fuir l'angoisse de sa liberté. L'exigence minimale est de ne pas se masquer sa propre liberté : l'illusion sur soi transforme la liberté en destin.
+
+*Sources : L'Être et le Néant, I (1943)*
 
 ## Influencé par
 

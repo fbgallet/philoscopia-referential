@@ -473,7 +473,7 @@ export class Workspace {
   /** Does a ref resolve in the bundled corpus? Null when it is not a prefixed
    * referential ref (workspace-local ids are the caller's business). */
   private refResolves(ref: string): boolean | null {
-    const match = ref.match(/^(ax|pole|c|ph|mv|chr|te|w|problem):(.+)$/);
+    const match = ref.match(/^(ax|pole|c|ph|mv|chr|te|w|problem|theme):(.+)$/);
     if (!match) return null;
     const [, prefix, rest] = match;
     if (prefix === "pole") {

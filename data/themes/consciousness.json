@@ -1,0 +1,29 @@
+{
+  "id": "consciousness",
+  "label": {
+    "fr": "La conscience",
+    "en": "Consciousness"
+  },
+  "aliases": {
+    "fr": [
+      "conscience",
+      "esprit",
+      "conscience de soi",
+      "conscience morale"
+    ],
+    "en": [
+      "consciousness",
+      "mind",
+      "awareness",
+      "self-awareness",
+      "moral conscience"
+    ]
+  },
+  "axes": [
+    "CONSCIOUSNESS_NATURE",
+    "INTERIORITY",
+    "SELF_NATURE",
+    "MACHINE_MIND",
+    "MORAL_SOURCE"
+  ]
+}

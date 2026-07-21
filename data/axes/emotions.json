@@ -11,25 +11,31 @@
     "en": "Are emotions an obstacle to thought or a source of knowledge?"
   },
   "stakes": {
-    "fr": "Faut-il se défier de ce qu'on ressent, trouble qui brouille le jugement, ou y entendre une perception fine de ce qui compte vraiment ? Se positionner, c'est dire jusqu'où suivre nos émotions quand elles contredisent la raison froide.",
-    "en": "Should we distrust what we feel, a disturbance that clouds judgement, or hear in it a fine perception of what really matters? To take a position is to say how far to follow our emotions when they contradict cold reason."
+    "fr": "Faut-il se défier de ce qu'on ressent, trouble qui brouille le jugement, y entendre une perception fine de ce qui compte, ou apprendre à l'éduquer ? Se positionner, c'est dire quel crédit accorder à nos émotions quand elles contredisent la raison froide, et si la sagesse est de les taire, de les suivre ou de les former.",
+    "en": "Should we distrust what we feel, a disturbance that clouds judgement, hear in it a fine perception of what matters, or learn to train it? To take a position is to say how much credit to give our emotions when they contradict cold reason, and whether wisdom lies in silencing them, following them, or shaping them."
   },
   "layer": "THEORY",
-  "type": "BIPOLAR",
+  "type": "BIPOLAR_MEDIAN",
   "poles": [
     {
       "id": "INTELLECTUALISM",
       "label": {
-        "fr": "Intellectualisme",
-        "en": "Intellectualism"
+        "fr": "Primauté de la raison",
+        "en": "The primacy of reason"
       },
       "description": {
         "fr": "Les émotions troublent le jugement : assentiments précipités ou mouvements confus, elles déforment plus souvent qu'elles ne révèlent ce qui compte. Seule la raison, en les examinant, peut démêler ce qu'elles disent de vrai.",
         "en": "Emotions cloud judgment: hasty assents or confused stirrings, they distort more often than they reveal what matters. Only reason, by examining them, can sort out what truth they carry."
       },
+      "nuances": [
+        {
+          "fr": "Descartes est plus nuancé que le stoïcisme : les passions sont bonnes par nature et utiles à la vie, mais l'âme doit les régler par la connaissance plutôt que les éteindre, ce qui l'incline déjà vers la voie médiane.",
+          "en": "Descartes is more nuanced than Stoicism: the passions are good by nature and useful to life, but the soul must regulate them through knowledge rather than extinguish them, which already inclines him toward the middle way."
+        }
+      ],
       "figures": [
         {
-          "slug": "stoics",
+          "slug": "stoicism",
           "name": {
             "fr": "les stoïciens",
             "en": "the Stoics"
@@ -47,13 +53,19 @@
     {
       "id": "SENTIMENTALISM",
       "label": {
-        "fr": "Sentimentalisme",
-        "en": "Sentimentalism"
+        "fr": "Le primat du sentiment",
+        "en": "The primacy of feeling"
       },
       "description": {
         "fr": "Les émotions ne sont pas l'ennemi de la pensée : elles nous orientent, nous motivent et nous renseignent sur ce qui compte. La raison seule est impuissante à juger et à agir sans le concours du sentiment.",
         "en": "Emotions are not the enemy of thought: they orient us, motivate us, and inform us about what matters. Reason alone is powerless to judge and to act without the help of feeling."
       },
+      "nuances": [
+        {
+          "fr": "Nussbaum nuance le pôle : les émotions sont des jugements de valeur intelligents, donc évaluables et éducables, ce qui la rapproche de la voie médiane plutôt que d'un simple primat du ressenti.",
+          "en": "Nussbaum qualifies the pole: emotions are intelligent value judgments, hence assessable and trainable, which brings her closer to the middle way than to a mere primacy of feeling."
+        }
+      ],
       "figures": [
         {
           "slug": "hume",
@@ -72,6 +84,14 @@
       ]
     }
   ],
+  "medianLabel": {
+    "fr": "Éduquer ses émotions",
+    "en": "Educating the emotions"
+  },
+  "medianDescription": {
+    "fr": "Les émotions ne sont ni un pur trouble ni un oracle : ce sont des dispositions éducables. Mal réglées, elles égarent ; formées par l'habitude et la raison, elles deviennent une perception juste, qui sent le danger, l'injustice ou la peine au bon moment et dans la juste mesure. La sagesse n'est pas de les extirper ni de les suivre aveuglément, mais de les accorder : c'est la voie d'Aristote, pour qui l'homme bien élevé éprouve la bonne émotion envers la bonne personne, au bon degré.",
+    "en": "Emotions are neither a mere disturbance nor an oracle: they are trainable dispositions. Ill-tuned, they lead us astray; shaped by habit and reason, they become an accurate perception, sensing danger, injustice, or grief at the right time and in the right measure. Wisdom lies neither in extirpating them nor in following them blindly, but in tuning them: this is Aristotle's path, for whom the well-raised person feels the right emotion toward the right person, to the right degree."
+  },
   "core": false,
   "difficulty": 1,
   "clusters": [],
@@ -101,8 +121,8 @@
       ],
       "title": { "fr": "L'émotion est-elle un jugement ?", "en": "Is an emotion a judgment?" },
       "explicitation": {
-        "fr": "La peur qui me saisit est-elle une pensée qui évalue un danger, comme le soutiennent les stoïciens puis le cognitivisme contemporain, ou un mouvement du corps éprouvé avant toute pensée, comme le veut William James ? Ce qui juge peut être discuté et corrigé ; ce qui secoue ne peut être qu'apprivoisé.",
-        "en": "Is the fear that grips me a thought appraising a danger, as the Stoics and then contemporary cognitivism hold, or a bodily stirring felt before any thought, as William James would have it? What judges can be argued with and corrected; what shakes us can only be tamed."
+        "fr": "La peur qui me saisit est-elle une pensée qui évalue un danger, comme le soutiennent les stoïciens puis le cognitivisme contemporain, ou le sentiment d'un changement du corps déclenché par la perception, comme le veut William James ? Ce qui juge peut être discuté et corrigé ; ce qui secoue ne peut être qu'apprivoisé.",
+        "en": "Is the fear that grips me a thought appraising a danger, as the Stoics and then contemporary cognitivism hold, or the feeling of a bodily change triggered by perception, as William James would have it? What judges can be argued with and corrected; what shakes us can only be tamed."
       }
     }
   ]

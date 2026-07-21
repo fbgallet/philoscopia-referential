@@ -11,17 +11,17 @@
     "en": "Could a machine ever truly think?"
   },
   "stakes": {
-    "fr": "Si penser n'est qu'une affaire de fonction, peu importe la matière, alors une machine pourrait penser pour de bon, et nous lui devrions peut-être quelque chose ; s'il y faut de la chair vivante, la machine la plus brillante ne fait qu'imiter. Se positionner, c'est dire ce qui fait un esprit, et ce que nous reconnaîtrions à une machine qui semble penser.",
-    "en": "If thinking is only a matter of function, the material being beside the point, then a machine could genuinely think, and we might owe it something; if it takes living flesh, even the most brilliant machine merely imitates. To take a position is to say what makes a mind, and what we would grant a machine that seems to think."
+    "fr": "Si penser n'est qu'une affaire d'organisation, une machine pourrait penser pour de bon, et nous lui devrions peut-être quelque chose. Si exécuter un programme ne suffit pas, nos machines ne font qu'imiter, sans qu'il soit exclu qu'un artefact d'un autre genre y parvienne un jour. Et si la pensée est indissociable de la vie, la plus brillante des machines restera une chose. Se positionner, c'est dire ce qui fait un esprit.",
+    "en": "If thinking is only a matter of organization, a machine could genuinely think, and we might owe it something. If running a program is not enough, our machines merely imitate, though an artifact of another kind might one day succeed. And if thought is inseparable from life, the most brilliant machine will remain a thing. To take a position is to say what makes a mind."
   },
   "layer": "THEORY",
-  "type": "BIPOLAR",
+  "type": "BIPOLAR_MEDIAN",
   "poles": [
     {
       "id": "FUNCTIONALISM",
       "label": {
-        "fr": "Fonctionnalisme",
-        "en": "Functionalism"
+        "fr": "Peu importe le support",
+        "en": "The substrate does not matter"
       },
       "description": {
         "fr": "Penser, c'est traiter de l'information d'une certaine manière, quel que soit le support qui réalise ce traitement. Si une machine accomplit les mêmes fonctions qu'un cerveau, rien ne permet de lui refuser la pensée.",
@@ -45,26 +45,34 @@
       ]
     },
     {
-      "id": "BIOLOGICAL_NATURALISM",
+      "id": "ONLY_LIFE_THINKS",
       "label": {
-        "fr": "Biologisme de la conscience",
-        "en": "Biological naturalism"
+        "fr": "Seul le vivant pense",
+        "en": "Only the living think"
       },
       "description": {
-        "fr": "Manipuler des symboles ne suffit pas à penser : un programme peut simuler la compréhension sans rien comprendre. La conscience est un phénomène biologique, produit par les propriétés causales propres du cerveau vivant.",
-        "en": "Manipulating symbols is not enough to think: a program can simulate understanding without understanding anything. Consciousness is a biological phenomenon, produced by the specific causal powers of the living brain."
+        "fr": "La pensée n'est pas une organisation abstraite mais l'activité d'un être vivant : sentir, vouloir, comprendre naissent avec la vie et son souci de durer. Une machine, si brillante soit-elle, reste une chose fabriquée : elle calcule, mais rien ne lui importe.",
+        "en": "Thought is not an abstract organization but the activity of a living being: feeling, wanting, understanding are born with life and its concern to endure. A machine, however brilliant, remains a fabricated thing: it computes, but nothing matters to it."
       },
       "figures": [
         {
-          "slug": "searle",
+          "slug": "jonas",
           "name": {
-            "fr": "Searle",
-            "en": "Searle"
+            "fr": "Jonas",
+            "en": "Jonas"
           }
         }
       ]
     }
   ],
+  "medianLabel": {
+    "fr": "Pas par simple programme",
+    "en": "Not by program alone"
+  },
+  "medianDescription": {
+    "fr": "Exécuter un programme ne sera jamais penser : simuler la compréhension n'est pas comprendre. Mais rien n'interdit qu'un artefact pense un jour, s'il reproduit ce qui compte : les pouvoirs causaux du cerveau vivant, ou l'engagement d'un corps dans un monde.",
+    "en": "Running a program will never be thinking: simulating understanding is not understanding. But nothing rules out that an artifact might think one day, if it reproduces what matters: the causal powers of the living brain, or a body's engagement with a world."
+  },
   "core": false,
   "difficulty": 2,
   "clusters": [
@@ -90,7 +98,7 @@
         { "fr": "intentionnalité", "en": "intentionality" },
         { "fr": "grands modèles de langage", "en": "large language models" }
       ],
-      "poles": ["FUNCTIONALISM", "BIOLOGICAL_NATURALISM"],
+      "poles": ["FUNCTIONALISM", "ONLY_LIFE_THINKS"],
       "anchors": [
         { "name": { "fr": "Searle", "en": "Searle" }, "kind": "PHILOSOPHER", "slug": "searle" },
         { "name": { "fr": "Turing", "en": "Turing" }, "kind": "PHILOSOPHER", "slug": "turing" }
@@ -114,7 +122,7 @@
         { "fr": "critère comportemental", "en": "behavioural criterion" },
         { "fr": "autres esprits", "en": "other minds" }
       ],
-      "poles": ["FUNCTIONALISM", "BIOLOGICAL_NATURALISM"],
+      "poles": ["FUNCTIONALISM", "ONLY_LIFE_THINKS"],
       "anchors": [
         { "name": { "fr": "Turing", "en": "Turing" }, "kind": "PHILOSOPHER", "slug": "turing" },
         { "name": { "fr": "Searle", "en": "Searle" }, "kind": "PHILOSOPHER", "slug": "searle" }
@@ -138,7 +146,7 @@
         { "fr": "être-au-monde", "en": "being-in-the-world" },
         { "fr": "savoir-faire", "en": "know-how" }
       ],
-      "poles": ["FUNCTIONALISM", "BIOLOGICAL_NATURALISM"],
+      "poles": ["FUNCTIONALISM", "ONLY_LIFE_THINKS"],
       "anchors": [
         { "name": { "fr": "Dreyfus", "en": "Dreyfus" }, "kind": "PHILOSOPHER" },
         { "name": { "fr": "Merleau-Ponty", "en": "Merleau-Ponty" }, "kind": "PHILOSOPHER", "slug": "merleau-ponty" }
@@ -161,7 +169,7 @@
         { "fr": "peuple-cerveau", "en": "China brain" },
         { "fr": "substrat", "en": "substrate" }
       ],
-      "poles": ["FUNCTIONALISM", "BIOLOGICAL_NATURALISM"],
+      "poles": ["FUNCTIONALISM", "ONLY_LIFE_THINKS"],
       "anchors": [
         { "name": { "fr": "Putnam", "en": "Putnam" }, "kind": "PHILOSOPHER" },
         { "name": { "fr": "Block", "en": "Block" }, "kind": "PHILOSOPHER" }
@@ -185,7 +193,7 @@
         { "fr": "zombie", "en": "zombie" },
         { "fr": "problème difficile", "en": "the hard problem" }
       ],
-      "poles": ["FUNCTIONALISM", "BIOLOGICAL_NATURALISM"],
+      "poles": ["FUNCTIONALISM", "ONLY_LIFE_THINKS"],
       "anchors": [
         { "name": { "fr": "Chalmers", "en": "Chalmers" }, "kind": "PHILOSOPHER" },
         { "name": { "fr": "Nagel", "en": "Nagel" }, "kind": "PHILOSOPHER", "slug": "nagel" }
@@ -210,7 +218,7 @@
         { "fr": "droits des IA", "en": "AI rights" },
         { "fr": "sensibilité", "en": "sentience" }
       ],
-      "poles": ["FUNCTIONALISM", "BIOLOGICAL_NATURALISM"],
+      "poles": ["FUNCTIONALISM", "ONLY_LIFE_THINKS"],
       "anchors": [
         { "name": { "fr": "Bentham", "en": "Bentham" }, "kind": "PHILOSOPHER", "slug": "bentham" },
         { "name": { "fr": "Turing", "en": "Turing" }, "kind": "PHILOSOPHER", "slug": "turing" }

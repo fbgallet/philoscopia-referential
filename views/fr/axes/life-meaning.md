@@ -72,7 +72,7 @@ Puisque aucun sens n'est donné et que rien ne le remplace vraiment, le tourment
 
 ## Axes liés
 
-[Tonalité du réel](../axes/cosmic-outlook.md) · [La mort](../axes/death.md) · [Intériorité](../axes/interiority.md) · [Souverain bien](../axes/sovereign-good.md) · [Orientation temporelle](../axes/time-orientation.md) · [Sens du travail](../axes/work-meaning.md) · [Existence de Dieu](../axes/god-existence.md) · [Le but de la philosophie](../axes/metaphilosophy.md) · [Le beau dans la vie](../axes/aesthetic-life.md)
+[Tonalité du réel](../axes/cosmic-outlook.md) · [La mort](../axes/death.md) · [Intériorité](../axes/interiority.md) · [Souverain bien](../axes/sovereign-good.md) · [Orientation temporelle](../axes/time-orientation.md) · [Sens du travail](../axes/work-meaning.md) · [Existence de Dieu](../axes/god-existence.md) · [Le but de la philosophie](../axes/metaphilosophy.md) · [Le beau dans la vie](../axes/aesthetic-life.md) · [La source de la morale](../axes/moral-source.md)
 
 ---
 

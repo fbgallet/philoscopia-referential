@@ -1,0 +1,25 @@
+{
+  "id": "hope",
+  "label": {
+    "fr": "L'espoir",
+    "en": "Hope"
+  },
+  "aliases": {
+    "fr": [
+      "espoir",
+      "espérance",
+      "optimisme",
+      "désespoir"
+    ],
+    "en": [
+      "hope",
+      "hopefulness",
+      "optimism",
+      "despair"
+    ]
+  },
+  "axes": [
+    "HOPE",
+    "COSMIC_OUTLOOK"
+  ]
+}

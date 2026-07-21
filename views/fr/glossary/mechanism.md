@@ -6,7 +6,7 @@ Le mécanisme est la doctrine selon laquelle tout, dans la nature, s'explique pa
 
 **Porte une position vers** : [Explication de la nature](../axes/causality.md) : Mécanisme
 
-**En jeu dans** : [Explication de la nature](../axes/causality.md) · [Nature de l'esprit et du réel](../axes/reality-nature.md) · [Tout et parties](../axes/reduction-emergence.md)
+**En jeu dans** : [Explication de la nature](../axes/causality.md) · [Nature du réel](../axes/reality-nature.md) · [Tout et parties](../axes/reduction-emergence.md)
 
 **Voir aussi** : [Finalisme](../glossary/finalism.md) · [Vitalisme](../glossary/vitalism.md) · [Déterminisme](../glossary/determinism.md)
 

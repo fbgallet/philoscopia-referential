@@ -1,0 +1,12 @@
+{
+  "id": "natural-rights-grounds-resistance",
+  "ground": { "axisId": "RIGHTS_NATURE", "poleId": "NATURAL_RIGHTS" },
+  "grounded": { "axisId": "POLITICAL_OBLIGATION", "poleId": "RESISTANCE" },
+  "kind": "T_V",
+  "strength": "STRONG",
+  "explanation": {
+    "fr": "Si les droits sont naturels, antérieurs à toute loi, un pouvoir qui les viole n'a plus de titre à l'obéissance : le droit de résistance découle directement des droits naturels. C'est l'argument de <ph id='locke'>Locke</ph>, pour qui le peuple garde toujours le pouvoir de destituer un gouvernement qui trahit sa mission de protéger la vie, la liberté et les biens.",
+    "en": "If rights are natural, prior to any law, a power that violates them no longer has title to obedience: the right of resistance follows directly from natural rights. This is <ph id='locke'>Locke</ph>'s argument, for whom the people always retain the power to remove a government that betrays its mission of protecting life, liberty, and property."
+  },
+  "updatedAt": "2026-07-20T00:00:00.000Z"
+}

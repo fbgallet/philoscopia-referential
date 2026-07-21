@@ -8,7 +8,7 @@ The clinamen is the slight swerve by which atoms, in their fall, spontaneously d
 
 **Carries a stance toward** : [Freedom of the will](../axes/freedom.md) : Free will
 
-**At stake in** : [Freedom of the will](../axes/freedom.md) · [Explaining nature](../axes/causality.md) · [Nature of mind and reality](../axes/reality-nature.md)
+**At stake in** : [Freedom of the will](../axes/freedom.md) · [Explaining nature](../axes/causality.md) · [Nature of reality](../axes/reality-nature.md)
 
 **See also** : [Free will](../glossary/free-will.md) · [Determinism](../glossary/determinism.md)
 

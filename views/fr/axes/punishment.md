@@ -67,7 +67,7 @@ La peine doit d'abord réparer le tort et restaurer ce que le crime a rompu : re
 
 ## Axes liés
 
-[Critère du juste](../axes/ethics-foundation.md) · [Pardon](../axes/forgiveness.md) · [Liberté de la volonté](../axes/freedom.md) · [Origine du lien social](../axes/social-contract.md) · [La violence](../axes/violence.md)
+[Critère du juste](../axes/ethics-foundation.md) · [Pardon](../axes/forgiveness.md) · [Liberté de la volonté](../axes/freedom.md) · [Origine du lien social](../axes/social-contract.md) · [La violence](../axes/violence.md) · [La responsabilité morale](../axes/moral-responsibility.md)
 
 ---
 

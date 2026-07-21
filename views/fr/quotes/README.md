@@ -19,6 +19,7 @@
 - « La vertu est une disposition à agir de façon délibérée, consistant en une médiété relative à nous, déterminée par la raison comme la déterminerait l'homme prudent. » — Éthique à Nicomaque, II, 6, 1106b-1107a
 - « Le bien de l'homme est une activité de l'âme en accord avec la vertu, et s'il y a plusieurs vertus, en accord avec la meilleure et la plus parfaite. » — Éthique à Nicomaque, I, 7, 1098a
 - « Le bien de l'homme est une activité de l'âme en accord avec la vertu. » — Éthique à Nicomaque, I, 7 (1098a)
+- « Tous les hommes désirent naturellement savoir. » — Métaphysique, A, 1, 980a
 
 ### [Bacon](../philosophers/bacon.md)
 
@@ -95,6 +96,7 @@
 ### [Descartes](../philosophers/descartes.md)
 
 - « Au lieu de cette philosophie spéculative qu'on enseigne dans les écoles, on en peut trouver une pratique […] et ainsi nous rendre comme maîtres et possesseurs de la nature. » — Discours de la méthode, VI
+- « J'avais toujours un extrême désir d'apprendre à distinguer le vrai d'avec le faux, pour voir clair en mes actions, et marcher avec assurance en cette vie. » — Discours de la méthode, I
 - « Je pense, donc je suis. » — Discours de la méthode, IV
 - « La générosité, qui est comme la clef de toutes les autres vertus. » — Les passions de l'âme, art. 161
 - « Tâcher toujours plutôt à me vaincre que la fortune, et à changer mes désirs que l'ordre du monde. » — Discours de la méthode, III
@@ -292,12 +294,14 @@
 - « Les lois se maintiennent en crédit, non parce qu'elles sont justes, mais parce qu'elles sont lois. » — Essais, III, 13, « De l'expérience »
 - « Notre grand et glorieux chef-d'œuvre, c'est vivre à propos. » — Essais, III, 13, « De l'expérience »
 - « Nous ne sommes jamais chez nous, nous sommes toujours au-delà. » — Essais, I, 3, « Nos affections s'emportent au-delà de nous »
+- « Ô que c'est un doux et mol chevet, et sain, que l'ignorance et l'incuriosité, à reposer une tête bien faite ! » — Essais, III, 13 (De l'expérience)
 - « Parce que c'était lui, parce que c'était moi. » — Essais, I, 28 (« De l'amitié »)
 - « Que sais-je ? » — Essais, II, 12, « Apologie de Raimond Sebond »
 
 ### [Mill](../philosophers/mill.md)
 
 - « Chacun doit compter pour un, et nul pour plus d'un. » — L'Utilitarisme, chap. V
+- « Il vaut mieux être un être humain insatisfait qu'un porc satisfait ; il vaut mieux être Socrate insatisfait qu'un imbécile satisfait. » — L'Utilitarisme, ch. 2
 - « Il vaut mieux être un homme insatisfait qu'un porc satisfait ; mieux vaut être Socrate insatisfait qu'un imbécile satisfait. » — L'Utilitarisme, ch. 2
 - « Il vaut mieux être un Socrate insatisfait qu'un imbécile satisfait. » — L'Utilitarisme, ch. II
 - « La nature humaine n'est pas une machine que l'on construit sur un modèle, mais un arbre qui doit croître et se développer de tous côtés. » — De la liberté, ch. 3
@@ -324,6 +328,7 @@
 - « L'homme est quelque chose qui doit être surmonté. » — Ainsi parlait Zarathoustra, Prologue, §3
 - « L'homme ne tend pas au bonheur : seul l'Anglais le fait. » — Crépuscule des idoles, Maximes et traits, 12
 - « Ma formule pour la grandeur de l'homme est amor fati : ne rien vouloir d'autre que ce qui est, ni en avant, ni en arrière, ni dans toute l'éternité. » — Ecce Homo, « Pourquoi je suis si avisé », §10
+- « Nous avons l'art pour ne pas périr de la vérité. » — Fragments posthumes, printemps 1888, 16 [40]
 
 ### [Novalis](../philosophers/novalis.md)
 

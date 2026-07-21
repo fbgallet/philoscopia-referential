@@ -14,8 +14,18 @@
     "en": "Building summas like cathedrals: joining Christian theology to the resources of <ph id='aristotle'>Aristotle</ph>, convinced that the truths of reason and the truths of faith cannot contradict each other."
   },
   "aliases": {
-    "fr": ["thomisme", "thomiste", "thomistes", "l'Aquinate"],
-    "en": ["Thomism", "Thomist", "Thomists", "Aquinas"]
+    "fr": [
+      "thomisme",
+      "thomiste",
+      "thomistes",
+      "l'Aquinate"
+    ],
+    "en": [
+      "Thomism",
+      "Thomist",
+      "Thomists",
+      "Aquinas"
+    ]
   },
   "summary": {
     "fr": "Né au château de Roccasecca dans le royaume de Sicile, Thomas entre tout jeune chez les <c>dominicains</c>, ordre mendiant voué à la prédication et à l'étude, contre le vœu de sa famille qui le séquestre une année durant. À Paris puis à Cologne, il est l'élève d'<ph id='albert-the-great'>Albert le Grand</ph>, qui lui transmet le goût des sciences de la nature et de l'<ph id='aristotle'>Aristote</ph> redécouvert par les commentateurs arabes, <ph id='avicenna'>Avicenne</ph> et <ph id='averroes'>Averroès</ph>. Maître en théologie à l'Université de Paris au moment où l'aristotélisme inquiète l'autorité ecclésiastique, il entreprend, dans la <w id='summa-theologiae-aquinas'>Somme théologique</w> et la <w id='summa-contra-gentiles-aquinas'>Somme contre les Gentils</w>, de montrer que la raison philosophique et la foi révélée, loin de se contredire, s'accordent. Sa pensée, d'abord contestée puis condamnée en partie en 1277, devient la charpente de la scolastique et, depuis <per>Léon XIII</per>, la philosophie de référence de l'Église catholique.",
@@ -36,7 +46,12 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0, 1, 0, 0]
+        "weights": [
+          0,
+          1,
+          0,
+          0
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MINOR",
@@ -64,7 +79,12 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.05, 0.9, 0, 0.05]
+        "weights": [
+          0.05,
+          0.9,
+          0,
+          0.05
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
@@ -119,7 +139,11 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.05, 0.35, 0.6]
+        "weights": [
+          0.05,
+          0.35,
+          0.6
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
@@ -143,7 +167,11 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.9, 0, 0.1]
+        "weights": [
+          0.9,
+          0,
+          0.1
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
@@ -166,7 +194,12 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.05, 0.25, 0.7, 0]
+        "weights": [
+          0.05,
+          0.25,
+          0.7,
+          0
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
@@ -216,7 +249,12 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.7, 0.1, 0.2, 0]
+        "weights": [
+          0.7,
+          0.1,
+          0.2,
+          0
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
@@ -262,7 +300,11 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.1, 0.85, 0.05]
+        "weights": [
+          0.1,
+          0.85,
+          0.05
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
@@ -285,7 +327,11 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.15, 0.15, 0.7]
+        "weights": [
+          0.15,
+          0.15,
+          0.7
+        ]
       },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
@@ -355,7 +401,11 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.9, 0.05, 0.05]
+        "weights": [
+          0.9,
+          0.05,
+          0.05
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MINOR",
@@ -425,7 +475,12 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.45, 0.45, 0.1, 0]
+        "weights": [
+          0.9,
+          0,
+          0.1,
+          0
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
@@ -475,7 +530,12 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0, 0, 1, 0]
+        "weights": [
+          0,
+          0,
+          1,
+          0
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MINOR",
@@ -498,7 +558,12 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.95, 0.05, 0, 0]
+        "weights": [
+          0.95,
+          0.05,
+          0,
+          0
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
@@ -544,7 +609,11 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.1, 0.7, 0.2]
+        "weights": [
+          0.1,
+          0.7,
+          0.2
+        ]
       },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
@@ -663,7 +732,12 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.85, 0.15, 0, 0]
+        "weights": [
+          0.85,
+          0.15,
+          0,
+          0
+        ]
       },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
@@ -732,7 +806,12 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.9, 0.1, 0, 0]
+        "weights": [
+          0.9,
+          0.1,
+          0,
+          0
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MINOR",
@@ -755,7 +834,11 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.6, 0.3, 0.1]
+        "weights": [
+          0.6,
+          0.3,
+          0.1
+        ]
       },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
@@ -778,7 +861,11 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.4, 0.1, 0.5]
+        "weights": [
+          0.4,
+          0.1,
+          0.5
+        ]
       },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
@@ -824,7 +911,12 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.1, 0.55, 0, 0.35]
+        "weights": [
+          0.1,
+          0.55,
+          0,
+          0.35
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MINOR",
@@ -873,6 +965,33 @@
         "fr": "Question anachronique : le corpus de Thomas d'Aquin ne permet pas de le positionner sur la pensée des machines sans extrapolation hasardeuse.",
         "en": "An anachronistic question: Aquinas's corpus does not allow positioning him on machine thought without hazardous extrapolation."
       }
+    },
+    {
+      "axisId": "TRUTH_VALUE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La fin dernière de l'homme est une opération de l'intelligence : la <c>vision béatifique</c>, connaître Dieu par essence. Le vrai est le bien propre de l'intellect et aucune félicité ne peut reposer sur une erreur ; la grâce n'abolit pas ce désir naturel de connaître, elle l'achève.",
+          "en": "Man's last end is an operation of the intellect: the <c>beatific vision</c>, knowing God by essence. Truth is the proper good of the intellect and no felicity can rest on an error; grace does not abolish this natural desire to know, it completes it."
+        },
+        "references": [
+          {
+            "fr": "Somme théologique, I-II, q. 3",
+            "en": "Summa theologiae, I-II, q. 3"
+          },
+          {
+            "fr": "Somme contre les Gentils, III",
+            "en": "Summa contra Gentiles, III"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
     }
   ],
   "structuring": [
@@ -912,7 +1031,7 @@
       }
     }
   ],
-  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

@@ -1,0 +1,32 @@
+{
+  "id": "truth",
+  "label": {
+    "fr": "La vérité",
+    "en": "Truth"
+  },
+  "aliases": {
+    "fr": [
+      "vérité",
+      "vrai et faux",
+      "objectivité",
+      "mensonge",
+      "post-vérité"
+    ],
+    "en": [
+      "truth",
+      "true and false",
+      "objectivity",
+      "lying",
+      "post-truth"
+    ]
+  },
+  "featured": true,
+  "axes": [
+    "TRUTH_NATURE",
+    "TRUTH_VALUE",
+    "CERTAINTY",
+    "KNOWLEDGE_STATUS",
+    "SINCERITY",
+    "BELIEF_ETHICS"
+  ]
+}

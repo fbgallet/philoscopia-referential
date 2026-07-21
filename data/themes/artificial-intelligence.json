@@ -1,0 +1,34 @@
+{
+  "id": "artificial-intelligence",
+  "label": {
+    "fr": "L'intelligence artificielle",
+    "en": "Artificial intelligence"
+  },
+  "aliases": {
+    "fr": [
+      "intelligence artificielle",
+      "IA",
+      "robots",
+      "algorithmes",
+      "chatgpt",
+      "robot",
+      "apprentissage automatique"
+    ],
+    "en": [
+      "artificial intelligence",
+      "AI",
+      "robots",
+      "algorithms",
+      "chatgpt",
+      "machine learning",
+      "chatbot"
+    ]
+  },
+  "featured": true,
+  "axes": [
+    "MACHINE_MIND",
+    "TECHNOLOGY",
+    "CONSCIOUSNESS_NATURE",
+    "HUMAN_ENHANCEMENT"
+  ]
+}

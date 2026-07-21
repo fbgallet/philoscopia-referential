@@ -1,0 +1,27 @@
+{
+  "id": "equality",
+  "label": {
+    "fr": "L'égalité",
+    "en": "Equality"
+  },
+  "aliases": {
+    "fr": [
+      "égalité",
+      "inégalités",
+      "discrimination",
+      "inégalité",
+      "égalitarisme"
+    ],
+    "en": [
+      "equality",
+      "inequality",
+      "discrimination",
+      "egalitarianism"
+    ]
+  },
+  "axes": [
+    "DISTRIBUTIVE_JUSTICE",
+    "RIGHTS_NATURE",
+    "SOCIAL_IDENTITY"
+  ]
+}

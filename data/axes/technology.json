@@ -14,6 +14,25 @@
     "fr": "Chaque outil nouveau nous libère d'anciennes peines, mais crée des dépendances et des pouvoirs qu'on maîtrise mal ; la technique sert-elle nos fins, ou transforme-t-elle silencieusement nos désirs et jusqu'à ce que nous sommes ? Se positionner, c'est dire si le progrès technique est une promesse à saisir ou une emprise à surveiller.",
     "en": "Each new tool frees us from old burdens, but breeds dependencies and powers we barely control; does technology serve our ends, or silently transform our desires and even who we are? To take a position is to say whether technical progress is a promise to seize or a hold to keep watch over."
   },
+  "aliases": {
+    "fr": [
+      "technique",
+      "technologie",
+      "progrès technique",
+      "machines",
+      "intelligence artificielle",
+      "IA",
+      "numérique"
+    ],
+    "en": [
+      "technology",
+      "technique",
+      "technical progress",
+      "machines",
+      "artificial intelligence",
+      "AI"
+    ]
+  },
   "layer": "VALUE",
   "type": "BIPOLAR_MEDIAN",
   "poles": [

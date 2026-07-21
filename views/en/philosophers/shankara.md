@@ -9,14 +9,14 @@ Master of [Advaita Vedānta](../movements/vedanta.md), the non-dualist branch of
 ## Core positions
 
 1. [Nature of the self](../axes/self-nature.md) : **You are neither your body nor your mind: your true self ([ātman](../glossary/atman.md)) is witness-consciousness, and it is identical to the absolute, [brahman](../glossary/brahman.md).**
-2. [Nature of mind and reality](../axes/reality-nature.md) : **A single reality exists without a second; the world's plurality is but an [appearance](../glossary/maya.md) superimposed on brahman by ignorance, like a snake seen on a rope.**
+2. [Nature of reality](../axes/reality-nature.md) : **A single reality exists without a second; the world's plurality is but an [appearance](../glossary/maya.md) superimposed on brahman by ignorance, like a snake seen on a rope.**
 3. [Interiority](../axes/interiority.md) : **No act and no rite liberates: only [knowledge](../glossary/jnana.md) of the self, by dispelling ignorance, frees, for one does not become brahman, one already is it.**
 4. [Existence of God](../axes/god-existence.md) : **The personal God is real for the one who journeys, but the ultimate is a [brahman](../glossary/brahman.md) without attributes, beyond all personhood: two levels of truth, not two gods.**
 5. [The highest good](../axes/sovereign-good.md) : **The sovereign good, [liberation](../glossary/moksha.md), is not a state to be won but the recognition of what one already is: the very bliss of brahman.**
 
 ## Positions
 
-### [Nature of mind and reality](../axes/reality-nature.md)
+### [Nature of reality](../axes/reality-nature.md)
 
 *positioned · explicit in the texts · major*
 
@@ -112,7 +112,7 @@ Existence belongs to an order whose end is fixed in advance: to leave the cycle 
 
 *positioned · explicit in the texts · minor*
 
-Immortalism 90% · Death is nothing 10%
+Preparing for the passage 90% · Freeing ourselves from the fear 10%
 
 The self ([ātman](../glossary/atman.md)) is never born and never dies: death touches only the body-mind compound, not the consciousness that witnesses it. In this respect Śaṅkara belongs to immortalism, the present life being a passage toward liberation. But the encoding calls for a nuance: what is immortal is not the individual soul, which unravels with its rebirths, but the impersonal self identical in all. For the one who has realized this identity, death is no longer even an event to fear, which adds a coloring close to "death is nothing": it can subtract nothing from what, in essence, was never in time.
 
@@ -134,7 +134,7 @@ Suffering belongs to [saṃsāra](../glossary/samsara.md) and to the ignorance t
 
 *positioned · inferable · minor*
 
-Intellectualism 80% · Sentimentalism 20%
+The primacy of reason 80% · The primacy of feeling 20%
 
 Liberation is reached through knowledge (jñāna), not through emotion or devotion alone: it is ignorance, an error of the intellect, that enslaves, and a right knowing that frees. The preparatory discipline includes tranquillity (śama) and mastery of the passions, which trouble the discernment between the real and the apparent. Affect is thus neither the access route to truth nor the spring of liberation, which leans toward an intellectualism, without emotions being denied at the empirical level.
 
@@ -175,6 +175,16 @@ There is in each a determinate, eternal essence, the self ([ātman](../glossary/
 *not applicable*
 
 An anachronistic question: Śaṅkara's corpus contains nothing that would allow positioning him on machine thought without hazardous extrapolation. At most one may note that witness-consciousness, irreducible to any compound, is in principle not a process one could manufacture.
+
+### [The value of truth](../axes/truth-value.md)
+
+*positioned · explicit in the texts · major*
+
+The primacy of truth 90% · Vital illusions 10%
+
+If bondage is only an illusory superimposition ([māyā](../glossary/maya.md)), no act or rite can undo it: only the knowledge that discriminates the real from the apparent dissolves illusion, as light dispels the snake one thought one saw in the rope. Liberation is not produced by knowledge: it is that very knowledge, recognizing that the self was never bound.
+
+*Sources : Upadeśasāhasrī · Commentaries on the Upaniṣads*
 
 ## Influenced by
 

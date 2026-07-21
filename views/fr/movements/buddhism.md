@@ -44,7 +44,7 @@ Le bouddhisme fonde la morale sur la culture de la vertu (sila) et sur la compas
 
 *positionné · inférable · mineure*
 
-Immortalisme 40% · La mort n'est rien 30% · Être-pour-la-mort 30%
+Se préparer au passage 40% · Se libérer de la crainte 30% · Vivre en vue de sa mort 30%
 
 Pour le bouddhisme, la mort n'est ni anéantissement d'un soi ni survie d'une âme, mais un passage dans le cycle des renaissances réglé par le karma : une simple étape, à préparer pourtant avec soin, car l'état d'esprit du mourant oriente la renaissance, et quelque chose se continue sans qu'aucune âme permanente ne demeure. Une position d'équilibre, jusqu'à la libération qui seule arrête le cycle.
 
@@ -172,7 +172,7 @@ La transformation visée passe d'abord par l'examen intérieur : observer ses pr
 
 *positionné · inférable · mineure*
 
-Intellectualisme 78% · Sentimentalisme 22%
+Primauté de la raison 78% · Le primat du sentiment 22%
 
 La racine ultime de la souffrance et des émotions affligeantes est l'ignorance (avidyā), la méprise sur la nature impermanente et sans-soi du réel. Avidité, haine et illusion se dissolvent par la vue juste et la compréhension pénétrante : c'est par la connaissance que se transforme l'affect, ce qui rapproche le bouddhisme d'un intellectualisme thérapeutique, tempéré par le rôle central de la pratique méditative.
 

@@ -6,7 +6,7 @@ Le substantialisme affirme que le moi est une substance : un noyau permanent, di
 
 **Porte une position vers** : [Nature du moi](../axes/self-nature.md) : Substantialisme
 
-**En jeu dans** : [Nature du moi](../axes/self-nature.md) · [Nature de la conscience](../axes/consciousness-nature.md)
+**En jeu dans** : [Nature du moi](../axes/self-nature.md) · [L'énigme de la conscience](../axes/consciousness-nature.md)
 
 **Voir aussi** : [Ātman (le Soi)](../glossary/atman.md) · [Anattā (non-soi)](../glossary/anatta.md)
 

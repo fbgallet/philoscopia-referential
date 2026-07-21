@@ -14,8 +14,15 @@
     "en": "Philosophy as a remedy for the fear of the gods, of death and of want: true <c id='hedonism'>pleasure</c> is not debauchery but a life <c id='ataraxia'>free of pain and trouble</c>."
   },
   "aliases": {
-    "fr": ["épicurien", "épicurienne", "épicurisme"],
-    "en": ["Epicurean", "Epicureanism"]
+    "fr": [
+      "épicurien",
+      "épicurienne",
+      "épicurisme"
+    ],
+    "en": [
+      "Epicurean",
+      "Epicureanism"
+    ]
   },
   "summary": {
     "fr": "Philosophe grec de l'âge hellénistique, Épicure fonde vers 306 av. J.-C. l'école du Jardin à Athènes, communauté ouverte aux femmes et aux esclaves où l'on vit à l'écart de la cité. Dans un monde déstabilisé par la chute des cités libres, il conçoit la philosophie comme une médecine de l'âme : <q>vaine est la parole du philosophe qui ne soigne aucune souffrance humaine</q>. Reprenant l'<c>atomisme</c> de <ph>Démocrite</ph>, il en tire une physique destinée à délivrer les hommes de la peur des dieux et de la mort, et fonde toute sa morale sur l'analyse du <c id='hedonism'>plaisir</c>. Son œuvre, presque entièrement perdue, nous est connue par trois lettres et les <w id='principal-doctrines-epicurus'>Maximes capitales</w> transmises par <per>Diogène Laërce</per>, et surtout par le grand poème de <ph>Lucrèce</ph>. Longtemps caricaturé en jouisseur et accusé d'impiété, l'épicurisme fut l'un des principaux courants de l'Antiquité, rival du <mv id='stoicism'>stoïcisme</mv>, et nourrit la pensée matérialiste moderne.",
@@ -36,7 +43,12 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0, 0, 1, 0]
+        "weights": [
+          0,
+          0,
+          1,
+          0
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
@@ -155,12 +167,19 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [1, 0, 0, 0]
+        "weights": [
+          1,
+          0,
+          0,
+          0
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
       "justification": {
-        "argumentIds": ["death-epicurean-symmetry"],
+        "argumentIds": [
+          "death-epicurean-symmetry"
+        ],
         "text": {
           "fr": "L'argument repose sur deux prémisses tirées de la physique : tout bien et tout mal résident dans la <c>sensation</c>, et la mort, dissolution des atomes de l'âme, est précisément privation totale de sensation. Il s'ensuit que la mort ne peut être un mal pour personne, car le sujet qui en pâtirait n'existe jamais en même temps qu'elle : <q>tant que nous sommes, elle n'est pas là ; quand elle est là, nous ne sommes plus</q>. La peur de mourir vise donc un néant, et craindre un état où l'on ne sera pas est aussi vain que de s'affliger du temps d'avant sa naissance. Ce raisonnement, deuxième volet du <c id='tetrapharmakos'>tétrapharmakos</c>, retire son objet à l'angoisse qui, selon Épicure, empoisonne toute la vie.",
           "en": "The argument rests on two premises drawn from physics: all good and evil reside in <c>sensation</c>, and death, the dissolution of the soul's atoms, is precisely the total privation of sensation. It follows that death can be an evil for no one, since the subject who would suffer it never coexists with it: <q>while we are, it is not present; when it is present, we are no more</q>. The fear of dying therefore targets a nothingness, and to dread a state in which one will not be is as empty as grieving over the time before one's birth. This reasoning, the second plank of the <c id='tetrapharmakos'>tetrapharmakos</c>, removes the object of the anxiety that, on Epicurus' view, poisons the whole of life."
@@ -788,7 +807,12 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.1, 0, 0, 0.9]
+        "weights": [
+          0.1,
+          0,
+          0,
+          0.9
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
@@ -806,6 +830,29 @@
           {
             "fr": "Sentences vaticanes, 23, 34 et 52",
             "en": "Vatican Sayings, 23, 34 and 52"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRUTH_VALUE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.2
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La connaissance de la nature a une fonction thérapeutique : dissoudre les terreurs des dieux, de la mort et des météores ; sans ces craintes, dit-il, nous n'aurions nul besoin de physique. La vérité vaut ce qu'elle guérit, ni culte du savoir ni illusion consolante : les dieux existent mais ne se mêlent pas de nous, et c'est cette vérité-là qui apaise.",
+          "en": "The knowledge of nature has a therapeutic office: to dissolve the terrors of the gods, of death and of the heavens; without these fears, he says, we would have no need of natural science. Truth is worth what it cures, neither a cult of knowledge nor a consoling illusion: the gods exist but do not concern themselves with us, and it is that very truth which brings peace."
+        },
+        "references": [
+          {
+            "fr": "Maximes capitales, XI-XII",
+            "en": "Principal Doctrines, XI-XII"
           }
         ],
         "strength": "STRONG"
@@ -849,7 +896,7 @@
       }
     }
   ],
-  "updatedAt": "2026-07-12T00:00:00.000Z",
+  "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

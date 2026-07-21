@@ -32,7 +32,7 @@ Puisque le trouble ne vient pas des choses mais du jugement qu'on porte sur elle
 
 *positionné · explicite dans les textes · majeure*
 
-Présentisme 85% · Projet 10% · Mémoire-transmission 5%
+Vivre au présent 85% · Projet 10% · Mémoire-transmission 5%
 
 On ne peut être dépouillé ni du passé, qui n'est plus, ni de l'avenir, qu'on n'a pas encore : ce qu'on perd en mourant n'est jamais que ce point insécable, l'instant présent, le même pour qui meurt vieux et pour qui meurt jeune. Marc Aurèle en tire la dévaluation de la gloire posthume, puisque ceux qui se souviendraient de moi mourront à leur tour, et la concentration sur la tâche du moment, à mener comme si elle était la dernière. Cette méditation de l'éphémère, plus insistante chez lui que chez aucun stoïcien, n'invite pas à jouir de l'instant mais à l'habiter dignement.
 
@@ -54,7 +54,7 @@ Le cosmos est un tout ordonné par le [logos](../glossary/logos.md), et l'homme,
 
 *positionné · explicite dans les textes · majeure*
 
-La mort n'est rien 60% · Être-pour-la-mort 35% · Immortalisme 5%
+Se libérer de la crainte 60% · Vivre en vue de sa mort 35% · Se préparer au passage 5%
 
 Si tout, dans le cosmos, naît du changement et y retourne, la mort n'est qu'une transformation parmi d'autres, la dissolution des éléments dans le tout d'où ils venaient : rien de ce qui est conforme à la [nature](../glossary/logos.md) ne saurait être un mal. Mais Marc Aurèle ne se contente pas d'en désamorcer la terreur ; il la tient chaque jour devant les yeux pour gouverner l'action présente, de sorte que la conscience aiguë de la mort, plus qu'une consolation, devient l'aiguillon d'une vie droite. Sa note propre est l'image du fruit mûr : quitter la vie comme l'olive tombe, en bénissant la terre qui l'a portée.
 
@@ -66,7 +66,7 @@ Si tout, dans le cosmos, naît du changement et y retourne, la mort n'est qu'une
 
 *positionné · explicite dans les textes · majeure*
 
-Intellectualisme 93% · Sentimentalisme 8%
+Primauté de la raison 93% · Le primat du sentiment 8%
 
 Comme tout stoïcien, Marc Aurèle tient la passion pour un [assentiment](../glossary/synkatathesis.md) donné à un faux jugement, donc pour une erreur corrigible et non une fatalité ; mais il en fait surtout l'instrument d'une éthique de la douceur. Le raisonnement qu'il s'oppose à lui-même contre la colère est serré : celui qui me fait tort se trompe sur le bien et le mal, or nul ne se trompe volontairement ; il est mon parent, né de la même [raison](../glossary/logos.md) ; il ne peut me léser dans la seule chose qui soit mienne, mon [jugement](../glossary/prohairesis.md) ; lui en vouloir ajouterait à son tort le mien. Comprendre l'ignorance d'autrui dissout le ressentiment avant qu'il se forme.
 
@@ -318,7 +318,7 @@ L'homme est par nature un être de [raison](../glossary/logos.md) fait pour la s
 
 *positionné · explicite dans les textes · mineure*
 
-Théodicée 90% · Défense par le libre arbitre 10%
+Le mal a ses raisons 100%
 
 Ce qui paraît un mal a sa place dans l'ordre providentiel ou sert d'épreuve à la vertu : rien n'arrive à un homme qu'il ne soit, par nature, fait pour supporter. C'est une [théodicée](../axes/problem-of-evil.md) stoïcienne, complétée d'une part d'imputation du mal moral à l'ignorance plutôt qu'à la malice.
 

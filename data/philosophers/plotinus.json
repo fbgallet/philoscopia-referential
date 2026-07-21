@@ -14,8 +14,13 @@
     "en": "All things flow from the <c id='the-one'>One</c> beyond being: to philosophize is to ascend back to it, \"the flight of the alone to the Alone\"."
   },
   "aliases": {
-    "fr": ["plotinien", "plotinienne"],
-    "en": ["Plotinian"]
+    "fr": [
+      "plotinien",
+      "plotinienne"
+    ],
+    "en": [
+      "Plotinian"
+    ]
   },
   "summary": {
     "fr": "Philosophe de langue grecque de l'Antiquité tardive (vers 204-270), né en Égypte romaine et formé à Alexandrie auprès d'<ph>Ammonios Saccas</ph>, Plotin enseigne ensuite à Rome, où il fonde un cercle de disciples. Il est le principal fondateur de ce qu'on appellera le <mv id='platonism'>néoplatonisme</mv> : non un système nouveau, à ses yeux, mais l'explicitation fidèle de <ph id='plato'>Platon</ph>, qu'il systématise et infléchit vers la mystique. Il n'a écrit que tard et sans souci d'ordre ; ses traités furent réunis et édités après sa mort par son disciple <ph>Porphyre</ph>, qui les classa en six groupes de neuf, les <w id='enneads-plotinus'>Ennéades</w>. Sa pensée des trois principes, l'Un, l'Intellect et l'Âme, irriguera la théologie chrétienne, en particulier <ph id='augustine'>Augustin</ph>, ainsi que les traditions juive et musulmane, jusqu'à la Renaissance florentine.",
@@ -292,8 +297,8 @@
       "salience": "MAJOR",
       "justification": {
         "text": {
-          "fr": "L'<c>âme</c> étant une substance simple, immatérielle et apparentée à l'intelligible, elle ne se décompose pas et survit à la dissolution du corps : Plotin reprend et développe l'<ax id='DEATH' pole='IMMORTALISM'>immortalité</ax> du <w id='phaedo-plato'>Phédon</w> de <ph id='plato'>Platon</ph>. La mort n'est qu'un dépouillement, la libération de l'âme hors de son enveloppe corporelle, et donc rien de redoutable pour qui a déjà appris à vivre tourné vers le haut. Le sage s'y exerce dès cette vie, en détachant son moi véritable du corps.",
-          "en": "The <c>soul</c> being a simple substance, immaterial and akin to the intelligible, it does not decompose and survives the body's dissolution: Plotinus takes up and develops the <ax id='DEATH' pole='IMMORTALISM'>immortality</ax> of <ph id='plato'>Plato</ph>'s <w id='phaedo-plato'>Phaedo</w>. Death is only a stripping away, the liberation of the soul from its bodily envelope, and so nothing to be feared by one who has already learned to live turned upward. The sage rehearses it in this life, by detaching his true self from the body."
+          "fr": "L'<c>âme</c> étant une substance simple, immatérielle et apparentée à l'intelligible, elle ne se décompose pas et survit à la dissolution du corps : Plotin reprend et développe l'<ax id='AFTERLIFE' pole='IMMORTAL_SOUL'>immortalité</ax> du <w id='phaedo-plato'>Phédon</w> de <ph id='plato'>Platon</ph>. La mort n'est qu'un dépouillement, la libération de l'âme hors de son enveloppe corporelle, et donc rien de redoutable pour qui a déjà appris à vivre tourné vers le haut. Le sage s'y exerce dès cette vie, en détachant son moi véritable du corps.",
+          "en": "The <c>soul</c> being a simple substance, immaterial and akin to the intelligible, it does not decompose and survives the body's dissolution: Plotinus takes up and develops the <ax id='AFTERLIFE' pole='IMMORTAL_SOUL'>immortality</ax> of <ph id='plato'>Plato</ph>'s <w id='phaedo-plato'>Phaedo</w>. Death is only a stripping away, the liberation of the soul from its bodily envelope, and so nothing to be feared by one who has already learned to live turned upward. The sage rehearses it in this life, by detaching his true self from the body."
         },
         "references": [
           {
@@ -676,6 +681,33 @@
         "fr": "Question anachronique : les Ennéades ne contiennent rien qui permette de positionner Plotin sur la pensée des machines sans extrapolation hasardeuse.",
         "en": "An anachronistic question: the Enneads contain nothing that would allow positioning Plotinus on machine thought without hazardous extrapolation."
       }
+    },
+    {
+      "axisId": "TRUTH_VALUE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le retournement de l'âme vers l'intelligible n'est pas un savoir de plus mais une conversion : se détourner des images pour remonter vers ce dont elles émanent. Le soin de l'âme tient tout entier dans cette montée, et l'attachement aux reflets est la servitude même.",
+          "en": "The soul's turning toward the intelligible is not one more piece of knowledge but a conversion: turning away from images to ascend toward what they emanate from. The care of the soul lies wholly in this ascent, and attachment to reflections is servitude itself."
+        },
+        "references": [
+          {
+            "fr": "Ennéades, I, 6",
+            "en": "Enneads, I, 6"
+          },
+          {
+            "fr": "Ennéades, IV, 8",
+            "en": "Enneads, IV, 8"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
     }
   ],
   "structuring": [
@@ -715,7 +747,7 @@
       }
     }
   ],
-  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

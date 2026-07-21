@@ -2,6 +2,12 @@
 
 # Arguments
 
+## [After death](../axes/afterlife.md)
+
+- [The flight objection](death-flight-from-finitude.md) (against « The immortal soul »)
+- [The identity objection](death-identity-objection.md) (against « The immortal soul »)
+- [The argument from the soul](death-immortalist-hope.md) (for « The immortal soul »)
+
 ## [Relation to certainty](../axes/certainty.md)
 
 - [The cogito](dogmatism-cogito.md) (for « Dogmatism »)
@@ -28,15 +34,12 @@
 
 ## [Death](../axes/death.md)
 
-- [The anxiety objection](death-anxiety-objection.md) (against « Death is nothing »)
-- [The authenticity argument](death-being-toward-death.md) (for « Being-toward-death »)
-- [The deprivation argument](death-deprivation.md) (against « Death is nothing »)
-- [The symmetry argument](death-epicurean-symmetry.md) (for « Death is nothing »)
-- [The flight objection](death-flight-from-finitude.md) (against « Immortalism »)
-- [The identity objection](death-identity-objection.md) (against « Immortalism »)
-- [The argument from the soul](death-immortalist-hope.md) (for « Immortalism »)
-- [The morbid-rumination objection](death-morbid-rumination.md) (against « Being-toward-death »)
-- [The primacy-of-death objection](death-primacy-objection.md) (against « Being-toward-death »)
+- [The anxiety objection](death-anxiety-objection.md) (against « Freeing ourselves from the fear »)
+- [The authenticity argument](death-being-toward-death.md) (for « Living in view of one's death »)
+- [The deprivation argument](death-deprivation.md) (against « Freeing ourselves from the fear »)
+- [The symmetry argument](death-epicurean-symmetry.md) (for « Freeing ourselves from the fear »)
+- [The morbid-rumination objection](death-morbid-rumination.md) (against « Living in view of one's death »)
+- [The primacy-of-death objection](death-primacy-objection.md) (against « Living in view of one's death »)
 
 ## [Relation to desire](../axes/desire.md)
 
@@ -214,9 +217,9 @@
 - [A borrowed life](memory-borrowed-life.md) (against « Memory and transmission »)
 - [You will not be there](memory-transmission-illusion.md) (against « Memory and transmission »)
 - [We are heirs](memory-we-are-heirs.md) (for « Memory and transmission »)
-- [A life is not a heap of instants](present-narrative-identity.md) (against « Presentism »)
-- [The only time that is ours](present-only-time-ours.md) (for « Presentism »)
-- [The instant that slips by](present-shallow-flight.md) (against « Presentism »)
+- [A life is not a heap of instants](present-narrative-identity.md) (against « Living in the present »)
+- [The only time that is ours](present-only-time-ours.md) (for « Living in the present »)
+- [The instant that slips by](present-shallow-flight.md) (against « Living in the present »)
 - [We always put off living](project-deferred-life.md) (against « Project »)
 - [To exist is to project oneself](project-exist-is-to-project.md) (for « Project »)
 - [The future is not yours](project-future-not-ours.md) (against « Project »)

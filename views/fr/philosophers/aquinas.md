@@ -122,7 +122,7 @@ Thomas hérite des quatre [causes](../glossary/four-causes.md) d'[Aristote](../p
 
 *Sources : Somme théologique, Ia, q. 2, a. 3 (la cinquième voie) ; q. 44, a. 4*
 
-### [Nature de l'esprit et du réel](../axes/reality-nature.md)
+### [Nature du réel](../axes/reality-nature.md)
 
 *positionné · inférable · mineure*
 
@@ -190,7 +190,7 @@ Thomas tient un [libre arbitre](../glossary/free-will.md) réel, qu'il fonde dan
 
 *positionné · explicite dans les textes · majeure*
 
-Théodicée 45% · Défense par le libre arbitre 45% · Révolte / anti-théodicie 10%
+Le mal a ses raisons 90% · Le mal injustifiable 10%
 
 Comment un Dieu bon peut-il laisser exister le mal ? Thomas reprend d'[Augustin](../philosophers/augustine.md) la thèse que le mal n'est pas une chose ni une substance créée par Dieu, mais une privation, un manque d'être ou de bien qui devrait être là, comme la cécité est l'absence de vue. Dieu ne crée donc pas le mal, il permet le mal physique en vue d'un plus grand bien dans l'ordre de l'ensemble, et le mal moral par respect du libre arbitre, sans lequel il n'y aurait ni vertu ni mérite. Le profil mêle ainsi la théodicée (le mal ordonné au bien du tout) et la défense par le libre arbitre héritée d'Augustin.
 
@@ -210,7 +210,7 @@ Dieu est pour Thomas radicalement [transcendant](../glossary/transcendence.md), 
 
 *positionné · explicite dans les textes · mineure*
 
-Immortalisme 100%
+Se préparer au passage 100%
 
 La mort sépare l'âme du corps, mais l'âme intellective, parce qu'elle subsiste par elle-même, ne périt pas : elle survit dans l'attente de la résurrection des corps, où l'homme sera de nouveau complet. La mort n'est donc ni un pur néant ni l'horizon ultime, mais un passage vers la vie éternelle et, pour le juste, vers la vision de Dieu. C'est un immortalisme proprement chrétien, qui conjugue l'immortalité de l'âme et la résurrection de la chair.
 
@@ -250,7 +250,7 @@ Thomas ne condamne pas le désir : les passions et les appétits sont bons en eu
 
 *positionné · inférable · mineure*
 
-Sentimentalisme 65% · Intellectualisme 35%
+Le primat du sentiment 65% · Primauté de la raison 35%
 
 Contre l'idéal stoïcien d'extinction des passions, Thomas leur accorde une valeur morale propre : intégrées à la vertu et réglées par la raison, la compassion, la crainte ou la juste colère parfont l'acte bon au lieu de le troubler. L'homme vertueux n'est pas l'impassible mais celui dont les affects suivent le jugement droit, ce qui penche modérément vers une réhabilitation des émotions sans abdiquer le primat de la raison.
 
@@ -383,6 +383,16 @@ Contre le mépris du corps de certaines traditions, Thomas tient les plaisirs co
 *non applicable*
 
 Question anachronique : le corpus de Thomas d'Aquin ne permet pas de le positionner sur la pensée des machines sans extrapolation hasardeuse.
+
+### [Valeur de la vérité](../axes/truth-value.md)
+
+*positionné · inférable · mineure*
+
+Primauté de la vérité 80% · Illusions vitales 20%
+
+La fin dernière de l'homme est une opération de l'intelligence : la vision béatifique, connaître Dieu par essence. Le vrai est le bien propre de l'intellect et aucune félicité ne peut reposer sur une erreur ; la grâce n'abolit pas ce désir naturel de connaître, elle l'achève.
+
+*Sources : Somme théologique, I-II, q. 3 · Somme contre les Gentils, III*
 
 ## Influencé par
 

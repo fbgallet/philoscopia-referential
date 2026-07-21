@@ -8,7 +8,7 @@ Emanation is, in [Plotinus](../philosophers/plotinus.md), the way in which all r
 
 **Carries a stance toward** : [Explaining nature](../axes/causality.md) : Finalism
 
-**At stake in** : [Explaining nature](../axes/causality.md) · [Nature of mind and reality](../axes/reality-nature.md)
+**At stake in** : [Explaining nature](../axes/causality.md) · [Nature of reality](../axes/reality-nature.md)
 
 **See also** : [the One](../glossary/the-one.md) · [Nous (Intellect)](../glossary/nous.md) · [World-Soul](../glossary/world-soul.md) · [Epistrophē (conversion, reversion)](../glossary/epistrophe.md) · [Hypostasis](../glossary/hypostasis.md)
 

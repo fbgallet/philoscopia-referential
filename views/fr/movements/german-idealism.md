@@ -10,13 +10,13 @@ Grand système post-kantien qui, de [Fichte](../philosophers/fichte.md) à [Hege
 
 ## Positions structurantes
 
-1. [Nature de l'esprit et du réel](../axes/reality-nature.md) : **Le fond du réel n'est pas la matière mais l'[Esprit](../axes/reality-nature.md) qui se pense lui-même : la substance est aussi sujet.**
+1. [Nature du réel](../axes/reality-nature.md) : **Le fond du réel n'est pas la matière mais l'[Esprit](../axes/reality-nature.md) qui se pense lui-même : la substance est aussi sujet.**
 2. [Le but de la philosophie](../axes/metaphilosophy.md) : **La raison, déployée en système, peut connaître l'absolu que [Kant](../philosophers/kant.md) déclarait hors d'atteinte.**
 3. [Sens de l'histoire](../axes/history-meaning.md) : **L'histoire a un sens : elle est le progrès de l'Esprit dans la [conscience de la liberté](../axes/history-meaning.md).**
 
 ## Positions
 
-### [Nature de l'esprit et du réel](../axes/reality-nature.md)
+### [Nature du réel](../axes/reality-nature.md)
 
 *positionné · explicite dans les textes · majeure*
 

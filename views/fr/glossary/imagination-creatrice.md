@@ -8,7 +8,7 @@ Pour le romantisme, l'imagination n'est pas la faculté qui combine des images e
 
 **Porte une position vers** : [Nature de l'art](../axes/art-nature.md) : Création
 
-**En jeu dans** : [Nature de l'art](../axes/art-nature.md) · [Nature de l'esprit et du réel](../axes/reality-nature.md)
+**En jeu dans** : [Nature de l'art](../axes/art-nature.md) · [Nature du réel](../axes/reality-nature.md)
 
 **Voir aussi** : [Génie](../glossary/genie.md) · [Mimésis (imitation)](../glossary/mimesis.md)
 

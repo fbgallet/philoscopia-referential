@@ -14,8 +14,13 @@
     "en": "Tracking freedom in the most concrete of things, a gaze, a moment of shame, an act of <c id='bad-faith'>bad faith</c>: with no ready-made human nature, existing remains a responsibility without excuse."
   },
   "aliases": {
-    "fr": ["sartrien", "sartrienne"],
-    "en": ["Sartrean"]
+    "fr": [
+      "sartrien",
+      "sartrienne"
+    ],
+    "en": [
+      "Sartrean"
+    ]
   },
   "summary": {
     "fr": "Philosophe, romancier et dramaturge français, figure centrale de l'<mv id='existentialism'>existentialisme</mv> athée et de la vie intellectuelle d'après-guerre. Nourri de la <mv id='phenomenology'>phénoménologie</mv> de <ph>Husserl</ph> et <ph>Heidegger</ph>, il bâtit dans <w>L'Être et le Néant</w> (1943) une philosophie de la conscience et de la liberté, qu'il prolonge en morale de l'engagement. Compagnon de <ph id='beauvoir'>Simone de Beauvoir</ph> et animateur des <w>Temps modernes</w>, il incarne l'intellectuel engagé : Résistance, anticolonialisme, refus du prix Nobel en 1964, puis rapprochement avec le <mv id='marxism'>marxisme</mv>.",
@@ -816,6 +821,29 @@
         ],
         "strength": "STRONG"
       }
+    },
+    {
+      "axisId": "TRUTH_VALUE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La conscience étant ce qu'elle n'est pas et n'étant pas ce qu'elle est, la tentation permanente est la <c>mauvaise foi</c> : se raconter qu'on est une nature, un rôle, une chose, pour fuir l'angoisse de sa liberté. L'exigence minimale est de ne pas se masquer sa propre liberté : l'illusion sur soi transforme la liberté en destin.",
+          "en": "Since consciousness is what it is not and is not what it is, the standing temptation is <c>bad faith</c>: telling oneself one is a nature, a role, a thing, so as to flee the anguish of one's freedom. The minimal demand is not to conceal one's freedom from oneself: illusion about oneself turns freedom into fate."
+        },
+        "references": [
+          {
+            "fr": "L'Être et le Néant, I (1943)",
+            "en": "Being and Nothingness, I (1943)"
+          }
+        ],
+        "strength": "STRONG"
+      }
     }
   ],
   "structuring": [
@@ -855,7 +883,7 @@
       }
     }
   ],
-  "updatedAt": "2026-06-23T00:00:00.000Z",
+  "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

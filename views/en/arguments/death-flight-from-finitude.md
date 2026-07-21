@@ -2,7 +2,7 @@
 
 # The flight objection
 
-*Objection to [Death](../axes/death.md) : Immortalism*
+*Objection to [After death](../axes/afterlife.md) : The immortal soul*
 
 **Hoping to survive might be nothing but a refusal to accept our condition.**
 
@@ -24,7 +24,7 @@
 
 **Challenges** : [The argument from the soul](../arguments/death-immortalist-hope.md)
 
-**Bears on the problems** : [Does anything survive?](../axes/death.md)
+**Bears on the problems** : [Believing what we hope?](../axes/afterlife.md)
 
 ---
 

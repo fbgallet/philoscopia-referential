@@ -10,7 +10,7 @@ Living for the moment savours life but can lose its bearings; living for the fut
 
 ## Poles
 
-### Presentism
+### Living in the present
 
 Only the present belongs to us: carpe diem, seize the day. Rather than losing ourselves in regrets or expectations, wisdom consists in fully inhabiting the moment and savoring what is here.
 
@@ -39,9 +39,9 @@ We are heirs: what we have received from the past constitutes us and calls to be
 
 ## Arguments
 
-- *Presentism* · for : [The only time that is ours](../arguments/present-only-time-ours.md)
-- *Presentism* · against : [A life is not a heap of instants](../arguments/present-narrative-identity.md)
-- *Presentism* · against : [The instant that slips by](../arguments/present-shallow-flight.md)
+- *Living in the present* · for : [The only time that is ours](../arguments/present-only-time-ours.md)
+- *Living in the present* · against : [A life is not a heap of instants](../arguments/present-narrative-identity.md)
+- *Living in the present* · against : [The instant that slips by](../arguments/present-shallow-flight.md)
 - *Project* · for : [To exist is to project oneself](../arguments/project-exist-is-to-project.md)
 - *Project* · against : [We always put off living](../arguments/project-deferred-life.md)
 - *Project* · against : [The future is not yours](../arguments/project-future-not-ours.md)
@@ -51,7 +51,7 @@ We are heirs: what we have received from the past constitutes us and calls to be
 
 ## Grounding relations
 
-- *[Nature of the self](../axes/self-nature.md) : Bundle theory* grounds *[Temporal orientation](../axes/time-orientation.md) : Presentism* : If there is no permanent self but a succession of states, then neither the past nor the future of a stable "I" has any real hold: only the present instant is inhabited. Bundle theory grounds presentism: following [Hume](../philosophers/hume.md), letting go of a substantial self invites us to seize the day rather than project ourselves forward or dwell on regret.
+- *[Nature of the self](../axes/self-nature.md) : Bundle theory* grounds *[Temporal orientation](../axes/time-orientation.md) : Living in the present* : If there is no permanent self but a succession of states, then neither the past nor the future of a stable "I" has any real hold: only the present instant is inhabited. Bundle theory grounds presentism: following [Hume](../philosophers/hume.md), letting go of a substantial self invites us to seize the day rather than project ourselves forward or dwell on regret.
 - *[Essence and existence](../axes/essence.md) : Existentialism* grounds *[Temporal orientation](../axes/time-orientation.md) : Project* : If existence precedes essence, the human being is not a given thing but what they make of themselves by projecting toward the future. Existentialism grounds the orientation toward projects: for [Sartre](../philosophers/sartre.md), I am my acts and my commitments to come, and to reduce myself to the present instant would be to give up on myself.
 - *[The origin of the social bond](../axes/social-contract.md) : Organic community* grounds *[Temporal orientation](../axes/time-orientation.md) : Memory and transmission* : If the community is a living inheritance that precedes and constitutes me, then living well means receiving that legacy and passing it on in turn. The organic conception of the social bond grounds the orientation toward memory and transmission: from [Burke](../philosophers/burke.md) to [Confucius](../philosophers/confucius.md), honouring our debts to the past and bequeathing to future generations gives life its depth.
 

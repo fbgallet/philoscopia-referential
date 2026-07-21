@@ -67,7 +67,7 @@ Punishment should first of all repair the harm and restore what the crime has br
 
 ## Related axes
 
-[Criterion of right action](../axes/ethics-foundation.md) · [Forgiveness](../axes/forgiveness.md) · [Freedom of the will](../axes/freedom.md) · [The origin of the social bond](../axes/social-contract.md) · [Violence](../axes/violence.md)
+[Criterion of right action](../axes/ethics-foundation.md) · [Forgiveness](../axes/forgiveness.md) · [Freedom of the will](../axes/freedom.md) · [The origin of the social bond](../axes/social-contract.md) · [Violence](../axes/violence.md) · [Moral responsibility](../axes/moral-responsibility.md)
 
 ---
 

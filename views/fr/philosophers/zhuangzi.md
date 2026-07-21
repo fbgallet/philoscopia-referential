@@ -42,7 +42,7 @@ Le beau et le laid, le permis et le défendu, le grand et le petit ne sont pas i
 
 *positionné · explicite dans les textes · majeure*
 
-La mort n'est rien 55% · Immortalisme 45%
+Se libérer de la crainte 85% · Se préparer au passage 15%
 
 À la mort de sa femme, Zhuangzi chante en battant la mesure sur une jarre : pleurer serait ignorer le cours des choses. La mort n'est pas un néant à craindre ni le passage vers une âme immortelle, mais un moment de la [transformation](../glossary/hua.md) incessante (hua) : les souffles se nouent en vie comme les saisons se succèdent, puis se dénouent et se reforment ailleurs. Qui sait si le mort ne se félicite pas, comme un exilé enfin rentré ? Cette sérénité par insertion dans le grand passage des formes croise l'apaisement épicurien, mais il s'y mêle l'idée que la matière vivante se recompose sans fin, ce qui n'est ni vraiment une extinction ni une immortalité personnelle.
 
@@ -170,7 +170,7 @@ La sagesse se gagne par un retour au-dedans, le [« jeûne du cœur »](../gloss
 
 *positionné · inférable · mineure*
 
-Intellectualisme 70% · Sentimentalisme 30%
+Primauté de la raison 70% · Le primat du sentiment 30%
 
 Le sage n'est pas insensible mais il ne se laisse pas « blesser au-dedans » par ses affects : les émotions le traversent comme les saisons, sans qu'il s'y attache ni ne les nourrisse. Le trouble naît du jugement qui pose un événement comme une perte, et il se dissout quand on cesse de trier le réel en gains et en pertes, comme Zhuangzi cessant de pleurer sa femme. La pente va vers la maîtrise des passions, mais par dissolution des distinctions plutôt que par un gouvernement rationnel à la manière stoïcienne, ce qui la maintient en deçà d'un intellectualisme tranché.
 
@@ -244,7 +244,7 @@ L'idéal de Zhuangzi n'est pas le devoir moral mais une existence légère, jou�
 
 *positionné · inférable · mineure*
 
-Présentisme 80% · Mémoire-transmission 20%
+Vivre au présent 80% · Mémoire-transmission 20%
 
 Le sage habite ce qui advient à l'instant et « voyage dans l'unique souffle » du présent, sans se projeter dans des desseins d'avenir, lesquels relèvent de l'agir forcé qu'il récuse. À la différence de [Laozi](../philosophers/laozi.md), plus tourné vers la restauration d'un état originel, Zhuangzi insiste sur la mobilité du flux et l'adhésion à la métamorphose en cours : il reste un mince fond de retour au [Dao](../glossary/dao.md) d'avant les distinctions, mais l'accent porte sur l'épousaille du présent.
 
@@ -311,6 +311,12 @@ L'opposition entre libre arbitre et déterminisme, forgée par la métaphysique 
 *non applicable*
 
 Question anachronique : rien dans le corpus de Zhuangzi ne permet de le positionner sur la pensée des machines sans extrapolation hasardeuse, même si sa parabole du « cœur de machine » vise l'esprit calculateur, non la cognition artificielle.
+
+### [Valeur de la vérité](../axes/truth-value.md)
+
+*rejette l'alternative*
+
+L'alternative suppose des distinctions fixes entre le vrai et l'illusoire que Zhuangzi s'emploie à dissoudre : rêve du papillon, disputes stériles du « c'est / ce n'est pas ». La sagesse n'est ni conquête de vérité ni illusion choisie, mais un voyage libre qui épouse les transformations sans les figer.
 
 ## Influencé par
 

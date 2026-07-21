@@ -14,6 +14,26 @@
     "fr": "Là où l'on trace le cercle, on décide qui l'on peut utiliser sans scrupule et qui l'on doit épargner : trop étroit, il autorise la cruauté ; trop large, il rend la vie ordinaire impossible. Se positionner, c'est dire qui compte vraiment, et jusqu'où s'étend ce que nous devons aux autres êtres.",
     "en": "Where we draw the circle, we decide whom we may use without scruple and whom we must spare: too narrow, it licenses cruelty; too wide, it makes ordinary life impossible. To take a position is to say who truly counts, and how far what we owe extends to other beings."
   },
+  "aliases": {
+    "fr": [
+      "nature",
+      "animaux",
+      "environnement",
+      "écologie",
+      "le vivant",
+      "cause animale",
+      "biodiversité"
+    ],
+    "en": [
+      "nature",
+      "animals",
+      "environment",
+      "ecology",
+      "living beings",
+      "animal rights",
+      "biodiversity"
+    ]
+  },
   "layer": "VALUE",
   "type": "CATEGORICAL_ORDERED",
   "poles": [

@@ -8,7 +8,7 @@ Anglican bishop and Anglo-Irish philosopher, the third great name of British [em
 
 ## Core positions
 
-1. [Nature of mind and reality](../axes/reality-nature.md) : **There is no matter: “to be is to be perceived”, and bodies are only ordered collections of ideas in minds.**
+1. [Nature of reality](../axes/reality-nature.md) : **There is no matter: “to be is to be perceived”, and bodies are only ordered collections of ideas in minds.**
 2. [Existence of God](../axes/god-existence.md) : **If things exist when no human perceives them, an infinite mind perceives them all: the world is the language by which God speaks to us.**
 3. [Relation to certainty](../axes/certainty.md) : **It is matter that breeds scepticism: remove that veil between us and things, and perception becomes secure knowledge again.**
 4. [Universals](../axes/universals.md) : **One cannot form the idea of a triangle that is no particular triangle: [abstract general ideas](../glossary/abstract-general-ideas.md) are a fiction, and it is this fiction that forged the empty concept of matter.**
@@ -16,7 +16,7 @@ Anglican bishop and Anglo-Irish philosopher, the third great name of British [em
 
 ## Positions
 
-### [Nature of mind and reality](../axes/reality-nature.md)
+### [Nature of reality](../axes/reality-nature.md)
 
 *positioned · explicit in the texts · major*
 

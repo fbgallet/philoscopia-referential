@@ -10,13 +10,13 @@ A grand post-Kantian system which, from [Fichte](../philosophers/fichte.md) thro
 
 ## Core positions
 
-1. [Nature of mind and reality](../axes/reality-nature.md) : **The ground of the real is not matter but [Spirit](../axes/reality-nature.md) thinking itself: substance is also subject.**
+1. [Nature of reality](../axes/reality-nature.md) : **The ground of the real is not matter but [Spirit](../axes/reality-nature.md) thinking itself: substance is also subject.**
 2. [The point of philosophy](../axes/metaphilosophy.md) : **Reason, unfolded into a system, can know the absolute that [Kant](../philosophers/kant.md) declared out of reach.**
 3. [The meaning of history](../axes/history-meaning.md) : **History has a direction: it is the progress of Spirit in the [consciousness of freedom](../axes/history-meaning.md).**
 
 ## Positions
 
-### [Nature of mind and reality](../axes/reality-nature.md)
+### [Nature of reality](../axes/reality-nature.md)
 
 *positioned · explicit in the texts · major*
 

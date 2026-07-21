@@ -29,7 +29,7 @@ Nagarjuna's Mahayana places at the summit the ideal of the bodhisattva, who reno
 
 *positioned · inferable · minor*
 
-Immortalism 40% · Death is nothing 30% · Being-toward-death 30%
+Preparing for the passage 40% · Freeing ourselves from the fear 30% · Living in view of one's death 30%
 
 Nagarjuna takes up the Buddhist view of death as a passage within the cycle of rebirths, but reads it in the light of emptiness: birth and death are themselves empty of inherent nature. Death is therefore neither an absolute terminus nor the survival of a soul, but a conditioned transition, one stage among others, until wisdom undoes the cycle. A balanced position, without the pole of refusal.
 
@@ -81,7 +81,7 @@ Classical Buddhist analysis dissolved the person into aggregates (body, sensatio
 
 At the limit, the emptiness of emptiness (śūnyatā is itself not an inherent nature) forbids reifying even the bundle into an ultimate thesis: the bundle holds at the conventional level, not as a final ontological word.
 
-### [Nature of mind and reality](../axes/reality-nature.md)
+### [Nature of reality](../axes/reality-nature.md)
 
 *contextualist*
 
@@ -163,7 +163,7 @@ The whole project aims at the cessation of suffering and of conditioned rebirth:
 
 *positioned · inferable · minor*
 
-Intellectualism 80% · Sentimentalism 20%
+The primacy of reason 80% · The primacy of feeling 20%
 
 For Nāgārjuna, afflictive affects rest on an intellectual mistake: believing that things have an [inherent existence](../glossary/svabhava.md) and clinging to it. It is therefore right understanding, the seeing of [emptiness (śūnyatā)](../glossary/sunyata.md), that undoes the disturbing emotion at its root. Transformation proceeds through knowledge, which aligns with a therapeutic intellectualism, without denying the role of meditative practice.
 
@@ -208,6 +208,16 @@ Teleology and providence 80% · Constructed meaning 10% · Absurdism 10%
 Like all of [Buddhism](../movements/buddhism.md), Madhyamaka orders existence toward an assignable end: liberation from suffering through the understanding of [emptiness (śūnyatā)](../glossary/sunyata.md). This end is set not by a creator but discovered as the nature of things, hence a teleological structure, which the identity of saṃsāra and [nirvāṇa](../glossary/nirvana.md) brings back entirely into this very world.
 
 *Sources : Mūlamadhyamakakārikā (Fundamental Verses on the Middle Way), ch. XXV (the examination of nirvāṇa)*
+
+### [The value of truth](../axes/truth-value.md)
+
+*positioned · inferable · minor*
+
+The primacy of truth 75% · Vital illusions 25%
+
+The distinction of the [two truths](../glossary/two-truths.md) governs the edifice: conventional truth is indispensable for teaching and for reaching the ultimate, emptiness, but neither of the two may be reified. Whoever scorns the conventional loses the path, whoever stops at it loses the goal.
+
+*Sources : Root Verses on the Middle Way (Mūlamadhyamakakārikā), XXIV*
 
 ## Influenced by
 

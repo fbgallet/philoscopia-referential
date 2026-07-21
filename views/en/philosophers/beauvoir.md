@@ -20,7 +20,7 @@ A French philosopher of the twentieth century, a figure of [existentialism](../m
 
 *positioned · inferable · minor*
 
-Revolt / refusal 70% · Being-toward-death 20% · Death is nothing 10%
+Refusing death 70% · Living in view of one's death 20% · Freeing ourselves from the fear 10%
 
 For Beauvoir, death is never natural: it is a violence, an unjustifiable scandal that shatters projects and outrages life, however long and consented to. Rather than greet it with serenity, she prefers revolt and indignation, refusing to dress up as meaningful what is only a defeat. The death of loved ones, witnessed up close, appears to her as an unacceptable rupture, not a fulfillment.
 
@@ -232,7 +232,7 @@ The human condition is fundamentally ambiguous: we are at once freedom and facti
 
 *Sources : The Ethics of Ambiguity (1947), the ambiguity of the human condition*
 
-### [Nature of mind and reality](../axes/reality-nature.md)
+### [Nature of reality](../axes/reality-nature.md)
 
 *positioned · extrapolated · minor*
 
@@ -266,7 +266,7 @@ Far from any asceticism, Beauvoir reclaims the body and sexuality as full dimens
 
 *positioned · inferable · minor*
 
-Project 80% · Presentism 10% · Memory and transmission 10%
+Project 80% · Living in the present 10% · Memory and transmission 10%
 
 Existence is structured by the project: freedom is defined by the future it aims at and toward which it surpasses itself. Beauvoir conceives oppression precisely as the deprivation of a future, confinement in a repetitive present with no opening onto freely posited ends, which confirms the primacy of the temporality of the project.
 
@@ -333,6 +333,16 @@ Philia (friendship) 70% · Agape as gift 30%
 Beauvoir criticizes the love in which woman alienates herself and makes herself the other's object: the woman in love who loses herself in the beloved, for want of a project of her own, is a figure of bad faith. To this love-as-lack that seeks to complete itself in another, she opposes authentic love, the reciprocal bond of two freedoms that recognize and choose one another without either dissolving into the other. It is an existential [philia](../glossary/philia.md), made of mutual recognition, in which the share of gift lies in each willing the other's freedom as their own.
 
 *Sources : The Second Sex (1949), vol. II, "The Woman in Love"*
+
+### [The value of truth](../axes/truth-value.md)
+
+*positioned · inferable · minor*
+
+The primacy of truth 65% · Vital illusions 35%
+
+The spirit of seriousness is her constant target: submitting to ready-made values as if they were things means fleeing into a false necessity the freedom that carries them. To assume the ambiguity of the human condition, without resolving it into reassuring absolutes, is the first moral requirement.
+
+*Sources : The Ethics of Ambiguity (1947)*
 
 ## Influenced by
 

@@ -8,7 +8,7 @@ For Romanticism, imagination is not the faculty that combines borrowed images bu
 
 **Carries a stance toward** : [Nature of art](../axes/art-nature.md) : Creation
 
-**At stake in** : [Nature of art](../axes/art-nature.md) · [Nature of mind and reality](../axes/reality-nature.md)
+**At stake in** : [Nature of art](../axes/art-nature.md) · [Nature of reality](../axes/reality-nature.md)
 
 **See also** : [Genius](../glossary/genie.md) · [Mimēsis (imitation)](../glossary/mimesis.md)
 

@@ -40,7 +40,7 @@ Chrétien, Locke tient l'homme pour l'ouvrage et la propriété de Dieu, placé 
 
 *positionné · inférable · mineure*
 
-Immortalisme 80% · La mort n'est rien 10% · Être-pour-la-mort 10%
+Se préparer au passage 80% · Se libérer de la crainte 10% · Vivre en vue de sa mort 10%
 
 Chrétien, Locke attend une vie future, mais la fonde sur la résurrection promise plutôt que sur une immortalité naturelle de l'âme, dont il doute (il envisage même une matière capable de penser). C'est Dieu qui ressuscite et récompense, l'au-delà étant un don, non une propriété intrinsèque de l'esprit.
 
@@ -236,7 +236,7 @@ Locke loge la liberté non dans la volonté (la question « la volonté est-elle
 
 *Sources : Essai sur l'entendement humain, II, ch. 21 (« De la puissance », la liberté et la suspension du désir)*
 
-### [Nature de l'esprit et du réel](../axes/reality-nature.md)
+### [Nature du réel](../axes/reality-nature.md)
 
 *positionné · inférable · mineure*
 

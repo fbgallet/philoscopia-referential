@@ -8,7 +8,7 @@ A universal mind of German [rationalism](../movements/rationalism.md), born in L
 
 ## Core positions
 
-1. [Nature of mind and reality](../axes/reality-nature.md) : **The true atoms of nature are not material but spiritual: the real is made of monads, simple windowless substances, each of which expresses the whole universe in its own way.**
+1. [Nature of reality](../axes/reality-nature.md) : **The true atoms of nature are not material but spiritual: the real is made of monads, simple windowless substances, each of which expresses the whole universe in its own way.**
 2. [Tonality of reality](../axes/cosmic-outlook.md) : **Among the infinity of possible worlds, God, wise and good, necessarily chose the best: we live in “the best of all possible worlds”.**
 3. [Explaining nature](../axes/causality.md) : **No substance acts on another: soul and body agree through a pre-established harmony set up in advance by God, like two perfectly synchronized clocks.**
 4. [Relation to certainty](../axes/certainty.md) : **Nothing is without a [sufficient reason](../glossary/principle-of-sufficient-reason.md): since every truth can in principle be demonstrated, one could one day settle disputes by reckoning, as two accountants do.**
@@ -40,7 +40,7 @@ For Leibniz, this world is the best of all possible worlds, chosen by God among 
 
 *positioned · inferable · minor*
 
-Immortalism 90% · Death is nothing 5% · Being-toward-death 5%
+Preparing for the passage 90% · Freeing ourselves from the fear 5% · Living in view of one's death 5%
 
 For Leibniz, no substance truly perishes: the monad is indestructible, and what we call death is only an enfolding and a diminution, not an annihilation. The rational soul moreover keeps its individuality, its memory and its moral identity, the pledge of a personal immortality required by divine justice.
 
@@ -80,7 +80,7 @@ Two principles govern all knowledge: that of contradiction, which rules necessar
 
 *Sources : On the Method of Universality; letters on the characteristica universalis · Monadology, §31-32 (principles of contradiction and of sufficient reason)*
 
-### [Nature of mind and reality](../axes/reality-nature.md)
+### [Nature of reality](../axes/reality-nature.md)
 
 *positioned · explicit in the texts · major*
 
@@ -234,7 +234,7 @@ Happiness consists in a continual progress toward new pleasures and new perfecti
 
 *positioned · inferable · minor*
 
-Intellectualism 85% · Sentimentalism 15%
+The primacy of reason 85% · The primacy of feeling 15%
 
 The whole Leibnizian edifice makes reason the principle of true knowledge and conduct: confused petites perceptions and the passions must be clarified by the understanding, and even love is defined as the pleasure taken in another's perfection, a judgment rather than pure feeling. The leaning is intellectualist, sentiment remaining subordinate to the clarity of ideas.
 
@@ -256,7 +256,7 @@ The transhumanism / bioconservatism debate on the technical alteration of human 
 
 *positioned · explicit in the texts · major*
 
-Theodicy 90% · Free-will defence 10%
+Evil has its reasons 100%
 
 Evil is not a positive reality that God would have produced, but a privation, a limitation inherent in every finite creature (metaphysical evil), from which follow suffering (physical evil) and fault (moral evil). God does not will evil, he only permits it when it is the condition of a greater good in the economy of the whole. This is the theodicy, the word Leibniz coins to “justify God” against the argument from evil: he turns the objection around by showing that a world with no evil at all would be less perfect than ours, and so unworthy of a wise creator. The position is resolutely justificatory rather than tragic or rebellious.
 

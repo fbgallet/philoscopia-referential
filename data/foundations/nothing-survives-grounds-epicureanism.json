@@ -1,0 +1,12 @@
+{
+  "id": "nothing-survives-grounds-epicureanism",
+  "ground": { "axisId": "AFTERLIFE", "poleId": "NOTHING_SURVIVES" },
+  "grounded": { "axisId": "DEATH", "poleId": "EPICUREANISM" },
+  "kind": "T_V",
+  "strength": "STRONG",
+  "explanation": {
+    "fr": "L'argument d'<ph id='epicurus'>Épicure</ph> tient tout entier à l'anéantissement : si la mort est dissolution complète, elle n'est rien pour nous, et la crainte se dissout avec elle. Que quelque chose survive, et la mort redeviendrait quelque chose : c'est la croyance que rien ne survit qui fonde la libération de la crainte.",
+    "en": "<ph id='epicurus'>Epicurus</ph>' argument rests entirely on annihilation: if death is complete dissolution, it is nothing to us, and the fear dissolves with it. Were something to survive, death would become something again: it is the belief that nothing survives that grounds the liberation from fear."
+  },
+  "updatedAt": "2026-07-20T00:00:00.000Z"
+}

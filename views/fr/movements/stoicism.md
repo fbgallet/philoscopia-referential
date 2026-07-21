@@ -76,7 +76,7 @@ Le bien, soutiennent les stoïciens, doit être ce qui profite toujours et ne nu
 
 *positionné · explicite dans les textes · majeure*
 
-Intellectualisme 93% · Sentimentalisme 8%
+Primauté de la raison 93% · Le primat du sentiment 8%
 
 Une passion n'est pas un trouble subi mais un [assentiment](../glossary/synkatathesis.md) donné à une fausse [représentation](../glossary/phantasia.md) de ce qui est bien ou mal, suivi d'une impulsion excessive. Comme l'assentiment dépend de nous, la passion est une erreur corrigible : viser l'[apatheia](../glossary/apatheia.md), ce n'est donc pas étouffer un sentiment mais rectifier le jugement, position bien plus tranchée que la simple modération d'[Aristote](../philosophers/aristotle.md).
 
@@ -186,7 +186,7 @@ Le divin stoïcien n'est pas au-delà du monde : la raison divine est [immanente
 
 *Sources : Cicéron, De la nature des dieux, livre II · Diogène Laërce, Vies, VII, 138-139*
 
-### [Nature de l'esprit et du réel](../axes/reality-nature.md)
+### [Nature du réel](../axes/reality-nature.md)
 
 *positionné · explicite dans les textes · mineure*
 
@@ -260,7 +260,7 @@ Le plaisir corporel n'est qu'un [indifférent](../glossary/adiaphora.md) : ni bi
 
 *positionné · explicite dans les textes · mineure*
 
-La mort n'est rien 65% · Être-pour-la-mort 30% · Immortalisme 5%
+Se libérer de la crainte 65% · Vivre en vue de sa mort 30% · Se préparer au passage 5%
 
 La mort est un processus naturel, conforme à l'ordre du cosmos, et donc un [indifférent](../glossary/adiaphora.md) qu'il ne faut pas craindre. La méditation de la mort (la prémeditation des maux et le memento mori) sert à libérer la vie présente de l'angoisse plutôt qu'à promettre une survie. Marc Aurèle y voit la simple dissolution des éléments dans le tout.
 
@@ -270,7 +270,7 @@ La mort est un processus naturel, conforme à l'ordre du cosmos, et donc un [ind
 
 *positionné · explicite dans les textes · mineure*
 
-Présentisme 70% · Projet 20% · Mémoire-transmission 10%
+Vivre au présent 70% · Projet 20% · Mémoire-transmission 10%
 
 Le stoïcisme appelle à habiter le présent, seul temps dont nous disposons : le passé n'est plus, l'avenir n'est pas encore, et l'on ne peut perdre que l'instant que l'on vit. Marc Aurèle rappelle que chacun ne vit que ce moment fugitif, et qu'y consentir pleinement suffit à la vie bonne.
 
@@ -290,11 +290,21 @@ Espérer et craindre, pour les stoïciens, c'est se projeter dans un avenir qui 
 
 *positionné · explicite dans les textes · majeure*
 
-Théodicée 80% · Défense par le libre arbitre 10% · Argument du mal (athéisme) 10%
+Le mal a ses raisons 90% · Le mal réfute Dieu 10%
 
 Le monde est régi par une raison divine providentielle : ce qui paraît un mal a sa place dans l'ordre rationnel du tout, ou sert d'épreuve à la vertu. Rien n'arrive qui ne soit conforme à la nature universelle.
 
 *Sources : Sénèque, De la providence ; Épictète, Entretiens ; Marc Aurèle, Pensées*
+
+### [Valeur de la vérité](../axes/truth-value.md)
+
+*positionné · explicite dans les textes · mineure*
+
+Primauté de la vérité 80% · Illusions vitales 20%
+
+Le trouble ne vient pas des choses mais des jugements : la discipline de l'assentiment exige de ne rien ajouter aux représentations, de dire de ce qui arrive exactement ce qu'il est. La sérénité stoïcienne n'est pas une consolation mais une exactitude : voir le réel tel qu'il est, c'est déjà cesser d'en souffrir indûment.
+
+*Sources : Épictète, Manuel · Marc Aurèle, Pensées pour moi-même*
 
 ## Influencé par
 

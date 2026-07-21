@@ -4,7 +4,7 @@
 
 Metriopatheia is the moderation of feeling, not its extinction: from the Greek metrion, measure, and pathos, feeling. For the Pyrrhonian sceptic, suspending judgment about what is good or bad "by nature" defuses the bulk of disturbance, but the forced affections remain, hunger, cold, pain, which no suspension abolishes: one feels them with measure rather than suppressing them. This measure is to be distinguished from Stoic [apatheia](../glossary/apatheia.md), which aims at the complete absence of the passions: the sceptic aims at a tranquil life in which an irreducible share of feeling subsists.
 
-**Carries a stance toward** : [Status of emotions](../axes/emotions.md) : Intellectualism
+**Carries a stance toward** : [Status of emotions](../axes/emotions.md) : The primacy of reason
 
 **At stake in** : [Status of emotions](../axes/emotions.md) · [Relation to desire](../axes/desire.md)
 

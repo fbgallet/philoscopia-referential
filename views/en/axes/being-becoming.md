@@ -40,7 +40,7 @@ Change is neither an illusion nor the dissolution of all things: it is the passa
 
 ## Related axes
 
-[Nature of mind and reality](../axes/reality-nature.md) · [Explaining nature](../axes/causality.md) · [Essence and existence](../axes/essence.md) · [Nature of the self](../axes/self-nature.md) · [Universals](../axes/universals.md)
+[Nature of reality](../axes/reality-nature.md) · [Explaining nature](../axes/causality.md) · [Essence and existence](../axes/essence.md) · [Nature of the self](../axes/self-nature.md) · [Universals](../axes/universals.md)
 
 ---
 

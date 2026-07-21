@@ -14,6 +14,24 @@
     "fr": "Le seul lieu de notre pouvoir est-il au-dedans, dans nos jugements et nos désirs, le cours du monde nous échappant entièrement, ou pouvons-nous saisir cet ordre et le refaire à notre main ? Se positionner, c'est dire jusqu'où va notre prise réelle sur les choses, et si la liberté se gagne en nous ou sur le monde.",
     "en": "Is the only seat of our power within, in our judgements and desires, the course of the world wholly beyond us, or can we lay hold of that order and reshape it to our hand? To take a position is to say how far our real grip on things extends, and whether freedom is won within us or out in the world."
   },
+  "aliases": {
+    "fr": [
+      "maîtrise",
+      "contrôle",
+      "ce qui dépend de nous",
+      "lâcher-prise",
+      "acceptation",
+      "stoïcisme"
+    ],
+    "en": [
+      "control",
+      "mastery",
+      "what is up to us",
+      "letting go",
+      "acceptance",
+      "stoicism"
+    ]
+  },
   "layer": "VALUE",
   "type": "BIPOLAR_MEDIAN",
   "poles": [
@@ -92,20 +110,51 @@
       "id": "master-of-our-judgments",
       "resolution": "LATENT",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "nos jugements", "en": "our judgments" },
+      "objectLabel": {
+        "fr": "nos jugements",
+        "en": "our judgments"
+      },
       "mode": "DESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "ce qui dépend de nous", "en": "what is up to us" },
-        { "fr": "déterminisme", "en": "determinism" },
-        { "fr": "maîtrise de soi", "en": "self-mastery" }
+        {
+          "fr": "ce qui dépend de nous",
+          "en": "what is up to us"
+        },
+        {
+          "fr": "déterminisme",
+          "en": "determinism"
+        },
+        {
+          "fr": "maîtrise de soi",
+          "en": "self-mastery"
+        }
       ],
-      "poles": ["DICHOTOMY_OF_CONTROL"],
+      "poles": [
+        "DICHOTOMY_OF_CONTROL"
+      ],
       "anchors": [
-        { "name": { "fr": "Épictète", "en": "Epictetus" }, "kind": "PHILOSOPHER", "slug": "epictetus" },
-        { "name": { "fr": "Spinoza", "en": "Spinoza" }, "kind": "PHILOSOPHER", "slug": "spinoza" }
+        {
+          "name": {
+            "fr": "Épictète",
+            "en": "Epictetus"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "epictetus"
+        },
+        {
+          "name": {
+            "fr": "Spinoza",
+            "en": "Spinoza"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "spinoza"
+        }
       ],
-      "title": { "fr": "Vraiment maître de nos jugements ?", "en": "Truly masters of our own judgments?" },
+      "title": {
+        "fr": "Vraiment maître de nos jugements ?",
+        "en": "Truly masters of our own judgments?"
+      },
       "explicitation": {
         "fr": "Le stoïcisme range nos jugements du côté de ce qui dépend de nous, mais les choisissons-nous vraiment, ou nos opinions, nos émotions et nos désirs nous sont-ils dictés par le corps, l'histoire et les causes qui nous font ? Si même le dedans nous échappe, la dichotomie tient-elle encore ?",
         "en": "Stoicism places our judgments on the side of what is up to us, but do we truly choose them, or are our opinions, emotions and desires dictated to us by the body, our history and the causes that make us? If even the inner world escapes us, does the dichotomy still hold?"
@@ -115,23 +164,65 @@
       "id": "acceptance-or-resignation",
       "resolution": "LATENT",
       "object": "RELATION",
-      "objectLabel": { "fr": "un tort subi", "en": "a wrong suffered" },
+      "objectLabel": {
+        "fr": "un tort subi",
+        "en": "a wrong suffered"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "sphere": "MORAL",
       "keywords": [
-        { "fr": "acceptation", "en": "acceptance" },
-        { "fr": "résignation", "en": "resignation" },
-        { "fr": "quiétisme", "en": "quietism" },
-        { "fr": "passivité", "en": "passivity" }
+        {
+          "fr": "acceptation",
+          "en": "acceptance"
+        },
+        {
+          "fr": "résignation",
+          "en": "resignation"
+        },
+        {
+          "fr": "quiétisme",
+          "en": "quietism"
+        },
+        {
+          "fr": "passivité",
+          "en": "passivity"
+        }
       ],
-      "poles": ["DICHOTOMY_OF_CONTROL", "PROMETHEANISM"],
+      "poles": [
+        "DICHOTOMY_OF_CONTROL",
+        "PROMETHEANISM"
+      ],
       "anchors": [
-        { "name": { "fr": "Épictète", "en": "Epictetus" }, "kind": "PHILOSOPHER", "slug": "epictetus" },
-        { "name": { "fr": "Marc Aurèle", "en": "Marcus Aurelius" }, "kind": "PHILOSOPHER", "slug": "marcus-aurelius" },
-        { "name": { "fr": "Marx", "en": "Marx" }, "kind": "PHILOSOPHER", "slug": "marx" }
+        {
+          "name": {
+            "fr": "Épictète",
+            "en": "Epictetus"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "epictetus"
+        },
+        {
+          "name": {
+            "fr": "Marc Aurèle",
+            "en": "Marcus Aurelius"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "marcus-aurelius"
+        },
+        {
+          "name": {
+            "fr": "Marx",
+            "en": "Marx"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "marx"
+        }
       ],
-      "title": { "fr": "Accepter, ou se résigner ?", "en": "Accept, or resign oneself?" },
+      "title": {
+        "fr": "Accepter, ou se résigner ?",
+        "en": "Accept, or resign oneself?"
+      },
       "explicitation": {
         "fr": "Où passe la frontière entre la sérénité devant l'inévitable et la passivité, voire l'excuse commode, devant un tort qu'un effort pourrait redresser ?",
         "en": "Where is the line between serenity before the inevitable and passivity, even a convenient excuse, before a wrong that effort could put right?"
@@ -141,20 +232,52 @@
       "id": "my-power-or-our-power",
       "resolution": "LATENT",
       "object": "STRUCTURE",
-      "objectLabel": { "fr": "le pouvoir collectif", "en": "collective power" },
+      "objectLabel": {
+        "fr": "le pouvoir collectif",
+        "en": "collective power"
+      },
       "mode": "DESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "action collective", "en": "collective action" },
-        { "fr": "limites du possible", "en": "limits of the possible" },
-        { "fr": "praxis", "en": "praxis" }
+        {
+          "fr": "action collective",
+          "en": "collective action"
+        },
+        {
+          "fr": "limites du possible",
+          "en": "limits of the possible"
+        },
+        {
+          "fr": "praxis",
+          "en": "praxis"
+        }
       ],
-      "poles": ["DICHOTOMY_OF_CONTROL", "PROMETHEANISM"],
+      "poles": [
+        "DICHOTOMY_OF_CONTROL",
+        "PROMETHEANISM"
+      ],
       "anchors": [
-        { "name": { "fr": "Épictète", "en": "Epictetus" }, "kind": "PHILOSOPHER", "slug": "epictetus" },
-        { "name": { "fr": "Marx", "en": "Marx" }, "kind": "PHILOSOPHER", "slug": "marx" }
+        {
+          "name": {
+            "fr": "Épictète",
+            "en": "Epictetus"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "epictetus"
+        },
+        {
+          "name": {
+            "fr": "Marx",
+            "en": "Marx"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "marx"
+        }
       ],
-      "title": { "fr": "Mon pouvoir, ou notre pouvoir ?", "en": "My power, or our power?" },
+      "title": {
+        "fr": "Mon pouvoir, ou notre pouvoir ?",
+        "en": "My power, or our power?"
+      },
       "explicitation": {
         "fr": "Ce qui ne dépend pas de moi seul, la maladie, l'injustice, le cours du monde, dépend peut-être de nous ensemble : à chercher le pouvoir dans le seul for intérieur, la dichotomie ignore-t-elle l'action collective qui déplace les limites du possible ?",
         "en": "What is not up to me alone, illness, injustice, the course of the world, may be up to us together: by seeking power in the inner self alone, does the dichotomy ignore the collective action that shifts the limits of the possible?"
@@ -164,20 +287,47 @@
       "id": "tranquillity-or-achievement",
       "resolution": "LATENT",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "une vie bonne", "en": "a good life" },
+      "objectLabel": {
+        "fr": "une vie bonne",
+        "en": "a good life"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "RELATED",
       "sphere": "EXISTENTIAL",
       "keywords": [
-        { "fr": "ataraxie", "en": "ataraxia" },
-        { "fr": "accomplissement", "en": "achievement" },
-        { "fr": "sérénité", "en": "serenity" }
+        {
+          "fr": "ataraxie",
+          "en": "ataraxia"
+        },
+        {
+          "fr": "accomplissement",
+          "en": "achievement"
+        },
+        {
+          "fr": "sérénité",
+          "en": "serenity"
+        }
       ],
       "anchors": [
-        { "name": { "fr": "Épictète", "en": "Epictetus" }, "kind": "PHILOSOPHER", "slug": "epictetus" }
+        {
+          "name": {
+            "fr": "Épictète",
+            "en": "Epictetus"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "epictetus"
+        }
       ],
-      "doorways": [{ "axis": "SOVEREIGN_GOOD", "problem": "acting-or-being-well-off" }],
-      "title": { "fr": "Sérénité, ou accomplissement ?", "en": "Serenity, or achievement?" },
+      "doorways": [
+        {
+          "axis": "SOVEREIGN_GOOD",
+          "problem": "acting-or-being-well-off"
+        }
+      ],
+      "title": {
+        "fr": "Sérénité, ou accomplissement ?",
+        "en": "Serenity, or achievement?"
+      },
       "explicitation": {
         "fr": "Le bien d'une vie est-il la paix de l'âme que rien ne trouble, ou l'accomplissement actif de qui transforme le monde et y laisse sa marque ?",
         "en": "Is the good of a life the peace of an untroubled soul, or the active achievement of one who transforms the world and leaves a mark on it?"
@@ -187,20 +337,45 @@
       "id": "is-hope-wise",
       "resolution": "LATENT",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "l'espérance", "en": "hope" },
+      "objectLabel": {
+        "fr": "l'espérance",
+        "en": "hope"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "RELATED",
       "sphere": "EXISTENTIAL",
       "keywords": [
-        { "fr": "espérance", "en": "hope" },
-        { "fr": "attente", "en": "expectation" },
-        { "fr": "trouble de l'âme", "en": "disturbance of the soul" }
+        {
+          "fr": "espérance",
+          "en": "hope"
+        },
+        {
+          "fr": "attente",
+          "en": "expectation"
+        },
+        {
+          "fr": "trouble de l'âme",
+          "en": "disturbance of the soul"
+        }
       ],
       "anchors": [
-        { "name": { "fr": "les stoïciens", "en": "the Stoics" }, "kind": "TRADITION" }
+        {
+          "name": {
+            "fr": "les stoïciens",
+            "en": "the Stoics"
+          },
+          "kind": "TRADITION"
+        }
       ],
-      "doorways": [{ "axis": "HOPE" }],
-      "title": { "fr": "Espérer, est-ce sage ?", "en": "Is hoping wise?" },
+      "doorways": [
+        {
+          "axis": "HOPE"
+        }
+      ],
+      "title": {
+        "fr": "Espérer, est-ce sage ?",
+        "en": "Is hoping wise?"
+      },
       "explicitation": {
         "fr": "L'espérance, qui nous lie à des choses hors de notre pouvoir, est-elle une faiblesse qui trouble l'âme, ou le ressort même qui pousse à transformer ce qui peut l'être ?",
         "en": "Is hope, which binds us to things beyond our power, a weakness that disturbs the soul, or the very spring that drives us to transform what can be transformed?"
@@ -210,20 +385,46 @@
       "id": "accepting-the-past",
       "resolution": "LATENT",
       "object": "RELATION",
-      "objectLabel": { "fr": "le passé", "en": "the past" },
+      "objectLabel": {
+        "fr": "le passé",
+        "en": "the past"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "RELATED",
       "sphere": "EXISTENTIAL",
       "keywords": [
-        { "fr": "amor fati", "en": "amor fati" },
-        { "fr": "regret", "en": "regret" },
-        { "fr": "ce qui ne dépend plus de nous", "en": "what is no longer up to us" }
+        {
+          "fr": "amor fati",
+          "en": "amor fati"
+        },
+        {
+          "fr": "regret",
+          "en": "regret"
+        },
+        {
+          "fr": "ce qui ne dépend plus de nous",
+          "en": "what is no longer up to us"
+        }
       ],
       "anchors": [
-        { "name": { "fr": "Sénèque", "en": "Seneca" }, "kind": "PHILOSOPHER", "slug": "seneca" }
+        {
+          "name": {
+            "fr": "Sénèque",
+            "en": "Seneca"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "seneca"
+        }
       ],
-      "doorways": [{ "axis": "PAST_RELATION" }],
-      "title": { "fr": "Faire la paix avec ce qui fut", "en": "Making peace with what was" },
+      "doorways": [
+        {
+          "axis": "PAST_RELATION"
+        }
+      ],
+      "title": {
+        "fr": "Faire la paix avec ce qui fut",
+        "en": "Making peace with what was"
+      },
       "explicitation": {
         "fr": "Le passé est ce qui ne dépend plus de nous par excellence : faut-il l'accepter pleinement, jusqu'à vouloir qu'il ait été, ou en rester prisonnier par le regret ?",
         "en": "The past is what is no longer up to us par excellence: should we accept it fully, even to the point of willing that it was, or stay its prisoner through regret?"

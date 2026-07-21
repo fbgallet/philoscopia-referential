@@ -65,7 +65,7 @@ What matters is neither perfect equality of shares nor the sheer freedom of exch
 
 ## Related axes
 
-[Political liberty](../axes/political-liberty.md) · [Nature of rights](../axes/rights-nature.md) · [Ideal and reality](../axes/political-ideal.md) · [Who should decide](../axes/who-decides.md) · [The origin of the social bond](../axes/social-contract.md) · [Freedom of the will](../axes/freedom.md) · [Moral demandingness](../axes/moral-demand.md) · [The highest good](../axes/sovereign-good.md) · [Future generations](../axes/future-generations.md)
+[Political liberty](../axes/political-liberty.md) · [Nature of rights](../axes/rights-nature.md) · [Ideal and reality](../axes/political-ideal.md) · [Who should decide](../axes/who-decides.md) · [The origin of the social bond](../axes/social-contract.md) · [Freedom of the will](../axes/freedom.md) · [Moral demandingness](../axes/moral-demand.md) · [The highest good](../axes/sovereign-good.md) · [Future generations](../axes/future-generations.md) · [Moral responsibility](../axes/moral-responsibility.md)
 
 ---
 

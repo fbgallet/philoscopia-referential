@@ -50,7 +50,7 @@ Happiness lies neither in pleasure nor even in the virtuous life alone: virtue i
 
 *Sources : Enneads, I, 4 (On Well-Being) · Enneads, I, 2 (On Virtues)*
 
-### [Nature of mind and reality](../axes/reality-nature.md)
+### [Nature of reality](../axes/reality-nature.md)
 
 *positioned · explicit in the texts · major*
 
@@ -64,7 +64,7 @@ The real unfolds as a hierarchy of degrees of being, from the [One](../glossary/
 
 *positioned · explicit in the texts · major*
 
-Theodicy 75% · Revolt / anti-theodicy 25%
+Evil has its reasons 75% · Unjustifiable evil 25%
 
 If all things proceed from a perfectly good principle, whence comes evil? Plotinus refuses to make it a positive principle, a power rivaling the Good: evil has no being of its own, it is [privation](../glossary/privation.md), a lack of good, a defect of being at the lowest degree of the procession. He identifies it with matter as the ultimate limit where the light of the One fades out, not as a force but as an absence. Moral evil is then merely a soul turning away from the higher toward the lower. This dissolution of evil into non-being, which saves the goodness of the whole without denying the reality of our ordeal, is a form of theodicy; it will bequeath to [Augustine](../philosophers/augustine.md) the idea of evil as [privatio boni](../glossary/privation.md).
 
@@ -104,9 +104,9 @@ The self is not the bodily composite but the soul, an immaterial and immortal su
 
 *positioned · explicit in the texts · major*
 
-Immortalism 100%
+Preparing for the passage 100%
 
-The soul being a simple substance, immaterial and akin to the intelligible, it does not decompose and survives the body's dissolution: Plotinus takes up and develops the [immortality](../axes/death.md) of [Plato](../philosophers/plato.md)'s *[Phaedo](../works/phaedo-plato.md)*. Death is only a stripping away, the liberation of the soul from its bodily envelope, and so nothing to be feared by one who has already learned to live turned upward. The sage rehearses it in this life, by detaching his true self from the body.
+The soul being a simple substance, immaterial and akin to the intelligible, it does not decompose and survives the body's dissolution: Plotinus takes up and develops the [immortality](../axes/afterlife.md) of [Plato](../philosophers/plato.md)'s *[Phaedo](../works/phaedo-plato.md)*. Death is only a stripping away, the liberation of the soul from its bodily envelope, and so nothing to be feared by one who has already learned to live turned upward. The sage rehearses it in this life, by detaching his true self from the body.
 
 *Sources : Enneads, IV, 7 (On the Immortality of the Soul) · Enneads, I, 9 (On Leaving the Body)*
 
@@ -176,7 +176,7 @@ Desire turned toward sensible things disperses the soul and chains it to the man
 
 *positioned · inferable · minor*
 
-Intellectualism 85% · Sentimentalism 15%
+The primacy of reason 85% · The primacy of feeling 15%
 
 The passions belong to the compound of soul and body, not to the higher self, which stays unaffected by them: the soul truly itself is not moved, and only its lower part, turned toward the body, suffers. Plotinus therefore holds emotions to be disturbances to be mastered by conversion toward the intelligible, in the intellectualist line, even if his interest bears less on their psychological analysis than on the means of escaping them.
 
@@ -247,6 +247,16 @@ Beauty has worth only as a degree and a springboard upward: sensible beauty refl
 *not applicable*
 
 An anachronistic question: the Enneads contain nothing that would allow positioning Plotinus on machine thought without hazardous extrapolation.
+
+### [The value of truth](../axes/truth-value.md)
+
+*positioned · inferable · minor*
+
+The primacy of truth 80% · Vital illusions 20%
+
+The soul's turning toward the intelligible is not one more piece of knowledge but a conversion: turning away from images to ascend toward what they emanate from. The care of the soul lies wholly in this ascent, and attachment to reflections is servitude itself.
+
+*Sources : Enneads, I, 6 · Enneads, IV, 8*
 
 ## Influenced by
 

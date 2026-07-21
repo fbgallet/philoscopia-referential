@@ -47,7 +47,7 @@ Science and religion answer different questions: one describes facts, the other 
 
 ## Related axes
 
-[The problem of evil](../axes/problem-of-evil.md) · [Ethics of belief](../axes/belief-ethics.md) · [Existence of God](../axes/god-existence.md) · [Place of science](../axes/science-place.md) · [Where the sacred resides](../axes/transcendence.md)
+[The problem of evil](../axes/problem-of-evil.md) · [Ethics of belief](../axes/belief-ethics.md) · [Existence of God](../axes/god-existence.md) · [Place of science](../axes/science-place.md) · [Where the sacred resides](../axes/transcendence.md) · [The source of morality](../axes/moral-source.md)
 
 ---
 

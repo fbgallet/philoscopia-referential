@@ -41,7 +41,7 @@ Le beau est subordonné au bien et à l'utile : un agrément second, voire une s
 
 ## Axes liés
 
-[Finalité de l'art](../axes/art-purpose.md) · [Plaisirs corporels](../axes/bodily-pleasures.md) · [Le sens de la vie](../axes/life-meaning.md) · [Souverain bien](../axes/sovereign-good.md) · [Hiérarchie des goûts](../axes/taste-hierarchy.md)
+[Finalité de l'art](../axes/art-purpose.md) · [Plaisirs corporels](../axes/bodily-pleasures.md) · [Le sens de la vie](../axes/life-meaning.md) · [Souverain bien](../axes/sovereign-good.md) · [Hiérarchie des goûts](../axes/taste-hierarchy.md) · [Valeur de la vérité](../axes/truth-value.md)
 
 ---
 

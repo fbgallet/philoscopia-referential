@@ -54,7 +54,7 @@ Against Stoic indifference, Aristotle holds pain and misfortune to be real evils
 
 *positioned · inferable · minor*
 
-Death is nothing 45% · Revolt / refusal 25% · Immortalism 20% · Being-toward-death 10%
+Freeing ourselves from the fear 45% · Refusing death 25% · Preparing for the passage 20% · Living in view of one's death 10%
 
 Aristotle holds death to be “the most fearful of things”, for it is the end and deprives of all goods: it is a real evil, not a nothing, before which courage finds its meaning in facing it without flight. The soul, the form of the body, perishes with it for the most part, only the intellect (nous) being able to count as eternal, but impersonally. Hence a finitude assumed, tinged with the gravity of a loss.
 
@@ -236,7 +236,7 @@ Aristotle does not repress desire but orders it: appetite (orexis) must obey pra
 
 *positioned · inferable · minor*
 
-Sentimentalism 70% · Intellectualism 30%
+The primacy of feeling 70% · The primacy of reason 30%
 
 Against Socratic intellectualism, Aristotle grants the passions a properly ethical role: trained to the [mean](../glossary/golden-mean.md), fear, anger or pity felt when one ought and toward whom one ought belong to virtue, and character is formed by habituation as much as by reason. The leaning toward sentimentalism stays moderate, reason keeping the lead.
 
@@ -351,6 +351,18 @@ Against Platonic [erōs](../glossary/eros.md), which makes love the desire for a
 > “The friend is another self.”, Nicomachean Ethics, IX, 4
 
 *Sources : Nicomachean Ethics, VIII-IX (the three friendships; the friend as another self) · Nicomachean Ethics, IX, 9 (happiness and the need for friends)*
+
+### [The value of truth](../axes/truth-value.md)
+
+*positioned · explicit in the texts · minor*
+
+The primacy of truth 85% · Vital illusions 15%
+
+The desire to know is not an instrument of happiness: it is constitutive of our nature, and contemplation (theōria), the most self-sufficient and continuous of activities, realizes what is highest in the human being; an accomplished life culminates in knowing, not in usefulness.
+
+> “All men by nature desire to know.”, Metaphysics, I, 1, 980a
+
+*Sources : Metaphysics, I, 1 · Nicomachean Ethics, X*
 
 ## Influenced by
 

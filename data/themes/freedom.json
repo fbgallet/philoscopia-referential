@@ -1,0 +1,34 @@
+{
+  "id": "freedom",
+  "label": {
+    "fr": "La liberté",
+    "en": "Freedom"
+  },
+  "aliases": {
+    "fr": [
+      "liberté",
+      "libre",
+      "libre arbitre",
+      "autonomie",
+      "indépendance",
+      "libertés"
+    ],
+    "en": [
+      "freedom",
+      "free",
+      "free will",
+      "autonomy",
+      "liberty",
+      "independence",
+      "liberties"
+    ]
+  },
+  "featured": true,
+  "axes": [
+    "FREEDOM",
+    "POLITICAL_LIBERTY",
+    "MORAL_RESPONSIBILITY",
+    "ESSENCE",
+    "CONTROL_SCOPE"
+  ]
+}

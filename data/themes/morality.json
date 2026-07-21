@@ -1,0 +1,30 @@
+{
+  "id": "morality",
+  "label": {
+    "fr": "La morale",
+    "en": "Morality"
+  },
+  "aliases": {
+    "fr": [
+      "morale",
+      "éthique",
+      "bien et mal",
+      "valeurs morales"
+    ],
+    "en": [
+      "morality",
+      "ethics",
+      "good and evil",
+      "moral values"
+    ]
+  },
+  "featured": true,
+  "axes": [
+    "ETHICS_FOUNDATION",
+    "MORAL_SOURCE",
+    "MORAL_SCOPE",
+    "MORAL_DEMAND",
+    "MORAL_CIRCLE",
+    "MORAL_RESPONSIBILITY"
+  ]
+}

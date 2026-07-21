@@ -8,7 +8,7 @@ Mary is a brilliant vision scientist: shut all her life in a black-and-white roo
 
 **On seeing red for the first time, does Mary learn something that science had not given her?**
 
-**Axes at stake** : [Place of science](../axes/science-place.md) · [Nature of consciousness](../axes/consciousness-nature.md)
+**Axes at stake** : [Place of science](../axes/science-place.md) · [The enigma of consciousness](../axes/consciousness-nature.md)
 
 ## What it does in the debate
 

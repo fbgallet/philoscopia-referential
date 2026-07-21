@@ -40,7 +40,7 @@ Le sens, pour Confucius, s'enracine dans le Mandat du Ciel (Tian ming) : un ordr
 
 *positionné · explicite dans les textes · mineure*
 
-La mort n'est rien 50% · Immortalisme 40% · Être-pour-la-mort 10%
+Se libérer de la crainte 50% · Se préparer au passage 40% · Vivre en vue de sa mort 10%
 
 Interrogé sur la mort et les esprits, Confucius détourne vers la vie : « tu ne sais pas encore servir les vivants, comment saurais-tu servir les morts ? ». Il écarte la spéculation sur l'au-delà sans la nier, et reporte le soin sur la conduite présente. Mais le culte des ancêtres maintient une continuité : les morts demeurent présents par la mémoire et les rites, une forme de survie dans la lignée.
 
@@ -120,7 +120,7 @@ Le présupposé est que la [Voie (dao)](../glossary/dao.md) a déjà été plein
 
 *positionné · explicite dans les textes · majeure*
 
-Mémoire-transmission 85% · Présentisme 10% · Projet 5%
+Mémoire-transmission 85% · Vivre au présent 10% · Projet 5%
 
 Le temps confucéen est orienté vers le passé comme modèle : « ranimer l'ancien pour comprendre le nouveau », telle est la marche du maître. L'étude des Anciens, des rituels et des odes transmet une sagesse à incarner ; l'avenir compte moins comme projet à inventer que comme continuité à préserver. C'est une orientation de [mémoire et de transmission](../axes/time-orientation.md).
 
@@ -230,7 +230,7 @@ Le bien suprême est l'excellence morale de la personne accomplie, le junzi 君�
 
 *positionné · inférable · mineure*
 
-Sentimentalisme 65% · Intellectualisme 35%
+Le primat du sentiment 65% · Primauté de la raison 35%
 
 La moralité confucéenne ne réprime pas les sentiments mais les cultive et les ordonne : le deuil sincère importe plus que la stricte observance, et c'est l'affection vécue, l'amour des parents, qui fonde la xiao (piété filiale). Les li 禮 (les rites) donnent une forme juste aux émotions plutôt qu'ils ne les effacent, d'où une pente sentimentaliste modérée, tempérée par l'exigence de discernement.
 

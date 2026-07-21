@@ -2,7 +2,7 @@
 
 # L'objection de l'angoisse
 
-*Objection à [La mort](../axes/death.md) : La mort n'est rien*
+*Objection à [La mort](../axes/death.md) : Se libérer de la crainte*
 
 **Un argument, même juste, ne suffit pas à dissiper la peur de mourir.**
 

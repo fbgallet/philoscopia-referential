@@ -24,7 +24,7 @@ Le tout est plus que la somme de ses parties : de l'organisation surgissent des 
 
 ## Relations de fondation
 
-- *[Nature de l'esprit et du réel](../axes/reality-nature.md) : Matérialisme* fonde *[Tout et parties](../axes/reduction-emergence.md) : Réductionnisme* : Si seule la matière existe, les propriétés des touts doivent en principe s'expliquer par celles de leurs parties physiques. Le matérialisme encourage ainsi le réductionnisme, pour lequel le supérieur se ramène en droit à l'inférieur.
+- *[Nature du réel](../axes/reality-nature.md) : Matérialisme* fonde *[Tout et parties](../axes/reduction-emergence.md) : Réductionnisme* : Si seule la matière existe, les propriétés des touts doivent en principe s'expliquer par celles de leurs parties physiques. Le matérialisme encourage ainsi le réductionnisme, pour lequel le supérieur se ramène en droit à l'inférieur.
 
 ## Citations
 
@@ -32,7 +32,7 @@ Le tout est plus que la somme de ses parties : de l'organisation surgissent des 
 
 ## Axes liés
 
-[Explication de la nature](../axes/causality.md) · [Une machine peut-elle penser](../axes/machine-mind.md) · [Nature de l'esprit et du réel](../axes/reality-nature.md) · [Existence de Dieu](../axes/god-existence.md)
+[Explication de la nature](../axes/causality.md) · [Une machine peut-elle penser](../axes/machine-mind.md) · [Nature du réel](../axes/reality-nature.md) · [Existence de Dieu](../axes/god-existence.md)
 
 ---
 

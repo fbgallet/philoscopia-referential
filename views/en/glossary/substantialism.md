@@ -6,7 +6,7 @@ Substantialism holds that the self is a substance: a permanent core, distinct fr
 
 **Carries a stance toward** : [Nature of the self](../axes/self-nature.md) : Substantialism
 
-**At stake in** : [Nature of the self](../axes/self-nature.md) · [Nature of consciousness](../axes/consciousness-nature.md)
+**At stake in** : [Nature of the self](../axes/self-nature.md) · [The enigma of consciousness](../axes/consciousness-nature.md)
 
 **See also** : [Ātman (the Self)](../glossary/atman.md) · [Anattā (non-self)](../glossary/anatta.md)
 

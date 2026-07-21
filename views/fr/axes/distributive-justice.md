@@ -65,7 +65,7 @@ Ce qui importe n'est ni l'égalité parfaite des parts, ni la seule liberté des
 
 ## Axes liés
 
-[Liberté politique](../axes/political-liberty.md) · [Nature des droits](../axes/rights-nature.md) · [Idéal et réel](../axes/political-ideal.md) · [Qui doit décider](../axes/who-decides.md) · [Origine du lien social](../axes/social-contract.md) · [Liberté de la volonté](../axes/freedom.md) · [Exigence morale](../axes/moral-demand.md) · [Souverain bien](../axes/sovereign-good.md) · [Générations futures](../axes/future-generations.md)
+[Liberté politique](../axes/political-liberty.md) · [Nature des droits](../axes/rights-nature.md) · [Idéal et réel](../axes/political-ideal.md) · [Qui doit décider](../axes/who-decides.md) · [Origine du lien social](../axes/social-contract.md) · [Liberté de la volonté](../axes/freedom.md) · [Exigence morale](../axes/moral-demand.md) · [Souverain bien](../axes/sovereign-good.md) · [Générations futures](../axes/future-generations.md) · [La responsabilité morale](../axes/moral-responsibility.md)
 
 ---
 

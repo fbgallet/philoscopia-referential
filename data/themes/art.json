@@ -1,0 +1,29 @@
+{
+  "id": "art",
+  "label": {
+    "fr": "L'art",
+    "en": "Art"
+  },
+  "aliases": {
+    "fr": [
+      "art",
+      "œuvre d'art",
+      "création artistique",
+      "artiste"
+    ],
+    "en": [
+      "art",
+      "artwork",
+      "artistic creation",
+      "artist"
+    ]
+  },
+  "featured": true,
+  "axes": [
+    "ART_NATURE",
+    "ART_PURPOSE",
+    "AESTHETIC_LIFE",
+    "TASTE_HIERARCHY",
+    "BEAUTY"
+  ]
+}

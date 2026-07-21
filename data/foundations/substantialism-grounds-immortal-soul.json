@@ -1,12 +1,12 @@
 {
-  "id": "substantialism-grounds-immortalism",
+  "id": "substantialism-grounds-immortal-soul",
   "ground": { "axisId": "SELF_NATURE", "poleId": "SUBSTANTIALISM" },
-  "grounded": { "axisId": "DEATH", "poleId": "IMMORTALISM" },
-  "kind": "T_V",
+  "grounded": { "axisId": "AFTERLIFE", "poleId": "IMMORTAL_SOUL" },
+  "kind": "T_T",
   "strength": "MEDIUM",
   "explanation": {
     "fr": "Si le moi est une substance simple, immatérielle, distincte du corps, rien n'impose qu'il périsse lorsque le corps se décompose. Le substantialisme ouvre la voie à l'immortalité de l'âme, comme dans l'argument de <ph id='plato'>Platon</ph> tirant de la simplicité de l'âme son indestructibilité.",
     "en": "If the self is a simple, immaterial substance distinct from the body, nothing requires it to perish when the body decomposes. Substantialism opens the way to the immortality of the soul, as in <ph id='plato'>Plato</ph>'s argument deriving the soul's indestructibility from its simplicity."
   },
-  "updatedAt": "2026-06-21T00:00:00.000Z"
+  "updatedAt": "2026-07-20T00:00:00.000Z"
 }

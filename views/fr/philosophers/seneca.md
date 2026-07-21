@@ -54,7 +54,7 @@ Le souverain bien est la vertu, seule véritablement bonne ; le bonheur ([vie he
 
 *positionné · explicite dans les textes · majeure*
 
-Intellectualisme 95% · Sentimentalisme 5%
+Primauté de la raison 95% · Le primat du sentiment 5%
 
 Si une passion comme la colère est un [assentiment](../glossary/synkatathesis.md) de la raison à l'idée qu'on a subi un tort et qu'il faut se venger, alors elle n'est pas une force étrangère qui assiège l'âme, mais l'âme elle-même qui se trompe. D'où la conséquence que Sénèque oppose aux [péripatéticiens](../philosophers/aristotle.md) : une passion ne se modère pas, car une fois l'assentiment donné la raison a déjà cédé tout entière ; il faut la prévenir au seuil, en refusant le premier mouvement, pour viser l'[apatheia](../glossary/apatheia.md) (absence de passions) plutôt qu'un juste milieu. Cet [intellectualisme](../axes/emotions.md) fait de la thérapie des affects une discipline du jugement.
 
@@ -90,7 +90,7 @@ Puisque le destin adviendra de toute façon, la seule chose qui dépende de nous
 
 *positionné · explicite dans les textes · majeure*
 
-La mort n'est rien 85% · Être-pour-la-mort 15%
+Se libérer de la crainte 85% · Vivre en vue de sa mort 15%
 
 La mort n'étant que le terme naturel d'un emprunt rendu à la nature, le mal n'est pas en elle mais dans la crainte qu'on en a, crainte qui asservit toute la vie à son ombre. Sénèque renverse alors la peur en instrument de liberté : qui s'exerce chaque jour à mourir, et tient pour ouverte la porte de la sortie volontaire, ne peut plus être contraint par rien ni par personne. La méditation de la mort n'est donc pas morbide mais émancipatrice, et elle vaut moins pour l'au-delà, qu'il n'attend pas, que pour rendre au présent tout son prix.
 
@@ -102,7 +102,7 @@ La mort n'étant que le terme naturel d'un emprunt rendu à la nature, le mal n'
 
 *positionné · explicite dans les textes · majeure*
 
-Présentisme 85% · Projet 10% · Mémoire-transmission 5%
+Vivre au présent 85% · Projet 10% · Mémoire-transmission 5%
 
 La plainte courante sur la brièveté de la vie repose, selon le *[De la brièveté de la vie](../works/on-the-shortness-of-life-seneca.md)*, sur une erreur de comptable : nous n'avons pas reçu peu de temps, nous en perdons beaucoup. L'argument déplace le problème du destin vers l'usage : les affairés, esclaves de mille occupations, n'ont jamais vécu, car ils renvoient sans cesse leur vie à plus tard. Seul le présent nous appartient en propre, le passé étant fixé et l'avenir incertain ; revendiquer son temps comme on défend un bien, c'est cesser de le brader et commencer enfin à vivre.
 
@@ -296,7 +296,7 @@ L'homme est né pour la communauté et l'entraide : nous sommes les membres d'un
 
 *Sources : Lettres à Lucilius, XCV (les membres d'un même corps) · De l'oisiveté, III-VI (le sage doit servir la grande cité)*
 
-### [Nature de l'esprit et du réel](../axes/reality-nature.md)
+### [Nature du réel](../axes/reality-nature.md)
 
 *positionné · inférable · mineure*
 
@@ -342,7 +342,7 @@ Le débat sur l'augmentation biotechnologique de l'humain n'a aucun équivalent 
 
 *positionné · explicite dans les textes · mineure*
 
-Théodicée 80% · Défense par le libre arbitre 10% · Argument du mal (athéisme) 10%
+Le mal a ses raisons 90% · Le mal réfute Dieu 10%
 
 Dans De la providence, Sénèque demande pourquoi des maux frappent les gens de bien si le monde est régi par la providence : ce ne sont pas des maux mais des épreuves que la raison divine envoie pour exercer et fortifier la vertu. Le mal apparent sert l'ordre du tout.
 

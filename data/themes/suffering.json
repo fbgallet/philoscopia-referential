@@ -1,0 +1,28 @@
+{
+  "id": "suffering",
+  "label": {
+    "fr": "La souffrance",
+    "en": "Suffering"
+  },
+  "aliases": {
+    "fr": [
+      "souffrance",
+      "douleur",
+      "épreuve",
+      "malheur"
+    ],
+    "en": [
+      "suffering",
+      "pain",
+      "hardship",
+      "misfortune"
+    ]
+  },
+  "featured": true,
+  "axes": [
+    "SUFFERING_MEANING",
+    "PROBLEM_OF_EVIL",
+    "COSMIC_OUTLOOK",
+    "HOPE"
+  ]
+}

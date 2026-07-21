@@ -12,7 +12,7 @@
 
 1. [Souverain bien](../axes/sovereign-good.md) : **Le [plaisir](../glossary/hedonism.md) est le souverain bien, mais son comble n'est pas la jouissance : c'est l'[ataraxie](../glossary/ataraxia.md), l'état stable où ne manque plus aucune douleur à supprimer.**
 2. [La mort](../axes/death.md) : **La mort n'est rien pour nous : tant que nous sommes, elle n'est pas, et quand elle est, nous ne sommes plus ; la craindre, c'est redouter un néant qui ne nous atteindra jamais.**
-3. [Nature de l'esprit et du réel](../axes/reality-nature.md) : **Rien n'existe que des atomes et du vide : l'âme elle-même est un assemblage de grains qui se défait à la mort, sans arrière-monde ni dessein.**
+3. [Nature du réel](../axes/reality-nature.md) : **Rien n'existe que des atomes et du vide : l'âme elle-même est un assemblage de grains qui se défait à la mort, sans arrière-monde ni dessein.**
 4. [Rapport au désir](../axes/desire.md) : **Tous les désirs ne se valent pas : satisfaire les naturels et nécessaires, qui ont une borne, et éteindre les vains, qui sont sans limite, suffit à vivre tranquille.**
 5. [Existence de Dieu](../axes/god-existence.md) : **Les dieux existent, mais parfaitement bienheureux ils ne s'occupent en rien du monde : ni colère ni faveur à attendre d'eux, donc rien à en craindre.**
 
@@ -44,7 +44,7 @@ Le critère du bien se lit dans la nature avant tout raisonnement : dès la nais
 
 *positionné · explicite dans les textes · majeure*
 
-La mort n'est rien 95% · Être-pour-la-mort 5%
+Se libérer de la crainte 95% · Vivre en vue de sa mort 5%
 
 Tout bien et tout mal résident dans la sensation, et la mort est précisément privation de toute sensation : la physique le garantit, puisque l'âme, faite d'atomes subtils, se disperse quand le corps se défait. De là l'argument décisif : la mort n'est rien pour nous, car tant que nous sommes là, la mort n'y est pas, et quand la mort est là, nous n'y sommes plus ; le sujet qui pourrait pâtir et l'événement redouté ne coexistent jamais. La peur de la mort vise donc un néant et repose sur l'illusion d'assister encore à sa propre absence. Cela vise les terreurs de l'au-delà, châtiments et survie, que l'épicurisme tient pour des fictions sans objet : il n'y a pas de durée infinie à craindre, et une vie limitée mais sans angoisse vaut une éternité.
 
@@ -74,7 +74,7 @@ Pour l'épicurisme, la douleur n'a aucune valeur rédemptrice : elle est un mal 
 
 *Sources : Épicure, Maximes capitales, IV · Philodème, Tétrapharmakon (Herculanum)*
 
-### [Nature de l'esprit et du réel](../axes/reality-nature.md)
+### [Nature du réel](../axes/reality-nature.md)
 
 *positionné · explicite dans les textes · majeure*
 
@@ -120,7 +120,7 @@ Contre le destin rigoureux des stoïciens, Épicure introduit le [clinamen](../g
 
 *positionné · inférable · mineure*
 
-Intellectualisme 70% · Sentimentalisme 30%
+Primauté de la raison 70% · Le primat du sentiment 30%
 
 Les troubles de l'âme tiennent à de fausses opinions, notamment la crainte des dieux et de la mort : c'est en rectifiant le jugement, par l'étude de la nature, que l'on atteint l'[ataraxie](../glossary/ataraxia.md). L'épicurisme penche donc vers l'intellectualisme, mais sans aller jusqu'à l'éradication stoïcienne des passions, puisqu'il accorde une place positive aux affects naturels, telle l'amitié (philia).
 
@@ -212,13 +212,13 @@ Face au [scepticisme](../glossary/skepticism.md) de l'Académie, l'épicurisme a
 
 *positionné · inférable · mineure*
 
-Argument du mal (athéisme) 95% · Révolte / anti-théodicie 5%
+Le mal réfute Dieu 95% · Le mal injustifiable 5%
 
 Les dieux, parfaitement heureux, ne se mêlent pas du monde : il n'y a pas de providence. Le dilemme transmis sous le nom d'Épicure conclut que le mal du monde est incompatible avec un dieu à la fois bon et tout-puissant.
 
 *Sources : Épicure, Lettre à Ménécée ; Lactance, De la colère de Dieu, 13*
 
-### [Nature de la conscience](../axes/consciousness-nature.md)
+### [L'énigme de la conscience](../axes/consciousness-nature.md)
 
 *positionné · explicite dans les textes · majeure*
 

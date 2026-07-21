@@ -14,6 +14,24 @@
     "fr": "Nous sentons devoir plus à nos enfants, nos amis, nos proches qu'à des inconnus ; pourtant la morale semble réclamer une égale considération pour tous. Privilégier les siens peut glisser vers l'injustice, traiter chacun pareil peut devenir inhumain. Se positionner, c'est dire si aimer les siens et être juste tirent dans le même sens.",
     "en": "We feel we owe more to our children, our friends, our kin than to strangers; yet morality seems to demand equal regard for all. Favouring our own can slide into injustice; treating everyone alike can become inhuman. To take a position is to say whether loving one's own and being just pull the same way."
   },
+  "aliases": {
+    "fr": [
+      "proches",
+      "famille",
+      "favoritisme",
+      "impartialité",
+      "préférence",
+      "loyauté"
+    ],
+    "en": [
+      "loved ones",
+      "family",
+      "favoritism",
+      "impartiality",
+      "preference",
+      "loyalty"
+    ]
+  },
   "layer": "VALUE",
   "type": "BIPOLAR_MEDIAN",
   "poles": [

@@ -2,7 +2,7 @@
 
 # L'argument de l'authenticité
 
-*Argument pour [La mort](../axes/death.md) : Être-pour-la-mort*
+*Argument pour [La mort](../axes/death.md) : Vivre en vue de sa mort*
 
 **C'est en assumant ma mort que je deviens vraiment moi-même.**
 

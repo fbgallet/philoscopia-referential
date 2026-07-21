@@ -20,7 +20,7 @@ A German philosopher and philologist, a professor at Basel at twenty-four before
 
 *positioned · inferable · minor*
 
-Being-toward-death 60% · Death is nothing 35% · Revolt / refusal 5%
+Living in view of one's death 60% · Freeing ourselves from the fear 35% · Refusing death 5%
 
 Nietzsche dismisses the Christian beyond as a slander on life, and likewise refuses to make death an absolute evil: he preaches a **free death**, chosen at the right hour, that crowns existence instead of merely undergoing it. To die one's own death, at the summit, is to make one's end an act and a fulfillment, in the amor fati that says yes even to the eternal return.
 
@@ -142,7 +142,7 @@ From *[The Birth of Tragedy](../works/the-birth-of-tragedy-nietzsche.md)* onward
 
 *positioned · inferable · minor*
 
-Sentimentalism 80% · Intellectualism 20%
+The primacy of feeling 80% · The primacy of reason 20%
 
 His psychology of drives makes affects the real source of thoughts and values: conscious reason is only a late surface of the play of instincts. The position is inferred from this repeated principle rather than from a frontal thesis on the status of emotions.
 
@@ -230,7 +230,7 @@ Genealogy is an anti-teleological method: it tracks the low and contingent begin
 
 *Sources : On the Genealogy of Morality, II, §12 · Twilight of the Idols, "Skirmishes of an Untimely Man", §44*
 
-### [Nature of mind and reality](../axes/reality-nature.md)
+### [Nature of reality](../axes/reality-nature.md)
 
 *positioned · inferable · minor*
 
@@ -264,7 +264,7 @@ Beyond his critique of "morality", Nietzsche's positive ethics prizes traits of 
 
 *positioned · inferable · minor*
 
-Presentism 70% · Project 30%
+Living in the present 70% · Project 30%
 
 [Eternal recurrence](../glossary/eternal-recurrence.md) and [amor fati](../glossary/amor-fati.md) command us to love the moment enough to will its eternal repetition: the weight falls on the fullness of the affirmed present. A share of project remains, since the [overhuman](../glossary/ubermensch.md) is a task to accomplish, but Nietzsche devalues the excess of historical memory that paralyzes action.
 
@@ -301,6 +301,18 @@ Nominalism 90% · Realism about universals 10%
 Concepts arise by equating what is not equal: forgetting singular differences, we forge forms and essences where there are only unique, shifting cases. The universal is a useful fiction, not a reality.
 
 *Sources : On Truth and Lie in an Extra-Moral Sense*
+
+### [The value of truth](../axes/truth-value.md)
+
+*positioned · explicit in the texts · major*
+
+Vital illusions 90% · The primacy of truth 10%
+
+He is the first to turn the question around: whence our willing the true rather than illusion, and what if this will to truth were itself an inherited faith, the last avatar of the ascetic ideal? Life requires perspectives, fictions, art; not that Nietzsche preaches the comfortable lie: his probity is pitiless, but it is exercised in the service of life, which remains the evaluating instance.
+
+> “We have art so that we do not perish of the truth.”, Posthumous fragments, spring 1888, 16 [40]
+
+*Sources : Beyond Good and Evil, §1 (1886) · On the Genealogy of Morality, III (1887)*
 
 ## Influenced by
 

@@ -182,7 +182,7 @@ Laozi does not believe history climbs toward the better: the proper movement of 
 
 *positioned · inferable · minor*
 
-Intellectualism 65% · Sentimentalism 35%
+The primacy of reason 65% · The primacy of feeling 35%
 
 The sage cultivates calm and an empty heart, and one finds "heaven and earth are not benevolent," an image of serenity without sentimentality. Emotional disturbance arises from attachment and desire, that is, from a wrong relation to the course of things, and dissolves in quietude. The leaning is toward mastery of the affects, but without the Stoic intellectualism of a judging reason: rather an appeasement through return to the natural.
 
@@ -192,7 +192,7 @@ The sage cultivates calm and an empty heart, and one finds "heaven and earth are
 
 *positioned · inferable · minor*
 
-Presentism 65% · Memory and transmission 35%
+Living in the present 65% · Memory and transmission 35%
 
 The Taoist sage dwells in the present moment and the flowing course, without projecting himself into designs for the future, which belong precisely to the forced action he rejects. Yet there remains an orientation toward an original state to be recovered, the Dao before distinctions, which lends his thought a strand of memory-return. The future as project is all but absent.
 
@@ -239,6 +239,12 @@ The opposition between free will and determinism, forged by Greek and then Chris
 *not applicable*
 
 An anachronistic question: nothing in Laozi's corpus allows positioning him on machine thought without hazardous extrapolation.
+
+### [The value of truth](../axes/truth-value.md)
+
+*rejects the alternative*
+
+The way that can be spoken is not the constant way: what matters can be neither formulated nor possessed, and to grasp at it as a truth is to miss it. The alternative between lucidity and illusion presupposes a sayable truth that Laozi refuses from the outset; wisdom is a practical attunement to the course of things, not a possession of knowledge.
 
 ## Influence on
 

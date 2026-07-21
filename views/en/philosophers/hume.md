@@ -40,7 +40,7 @@ Hume ruins the argument from design and judges providence unknowable: no meaning
 
 *positioned · explicit in the texts · minor*
 
-Death is nothing 85% · Immortalism 10% · Revolt / refusal 5%
+Freeing ourselves from the fear 85% · Preparing for the passage 10% · Refusing death 5%
 
 Hume refutes the immortality of the soul on every ground, metaphysical, moral and physical: nothing warrants the belief that consciousness survives the dissolution of the body. He faces his own end, moreover, with a cheerful serenity, without fear or hope of a beyond. Death is the natural terminus, and to dread it makes no more sense than to regret not having existed before being born.
 
@@ -130,7 +130,7 @@ The same test applies to the self: if it existed, there would be an impression t
 
 *positioned · explicit in the texts · major*
 
-Sentimentalism 95% · Intellectualism 5%
+The primacy of feeling 95% · The primacy of reason 5%
 
 Reason has only two offices: to relate ideas (the demonstrative) or to infer matters of fact (the causal); yet neither act, by itself, moves the will. Hume concludes that reason can neither produce nor prevent an action, and so can never oppose a passion: only a contrary passion can. Reason settles the means, but ends come from sentiment; it is not contrary to reason to prefer one's own ruin to the slightest unease of another, for a desire is neither true nor false. Overturning the Socratic and Stoic intellectualism that made passions errors of judgement, Hume defends a sentimentalism in which reason is subordinate to affect in everything bearing on action and moral judgement.
 
@@ -212,7 +212,7 @@ Hume distinguishes two objects of inquiry: relations of ideas (mathematical, cer
 
 *Sources : Enquiry Concerning Human Understanding, sect. IV, part I (relations of ideas and matters of fact)*
 
-### [Nature of mind and reality](../axes/reality-nature.md)
+### [Nature of reality](../axes/reality-nature.md)
 
 *positioned · inferable · minor*
 
@@ -288,13 +288,13 @@ Hume rejects the psychological egoism that would reduce all motivation to self-i
 
 *not applicable*
 
-The functionalism / biological-naturalism opposition about mind presupposes 20th-century cognitive science and artificial intelligence. Hume theorizes the mind as a bundle of perceptions associated by laws (resemblance, contiguity, causation), but the question whether a machine could think is foreign to him.
+The machine-thought axis presupposes 20th-century cognitive science and artificial intelligence. Hume theorizes the mind as a bundle of perceptions associated by laws (resemblance, contiguity, causation), but the question whether a machine could think is foreign to him.
 
 ### [The problem of evil](../axes/problem-of-evil.md)
 
 *positioned · explicit in the texts · major*
 
-Argument from evil (atheism) 90% · Revolt / anti-theodicy 10%
+Evil refutes God 90% · Unjustifiable evil 10%
 
 In the Dialogues Concerning Natural Religion, Philo revives Epicurus's old questions: faced with the world's mass of suffering, divine goodness and omnipotence cannot be inferred from nature. Evil is the reef on which natural theology runs aground.
 
@@ -309,6 +309,16 @@ Nominalism 88% · Realism about universals 13%
 Following Berkeley, Hume denies that abstract general ideas exist: an idea is always particular, but a general word ties it to others that resemble it and can recall them. Universals are a matter of words and habit, not of realities.
 
 *Sources : A Treatise of Human Nature, I, I, 7*
+
+### [The value of truth](../axes/truth-value.md)
+
+*positioned · explicit in the texts · minor*
+
+The primacy of truth 50% · Vital illusions 50%
+
+Pushed to the limit, reason leaves neither world nor self standing, and that lucidity is unlivable: it is nature, not argument, that cures the philosopher, a dinner, a game of backgammon, the conversation of friends. Hume owns this remedy of inattention: those skeptical conclusions do not deserve the sacrifice of common life.
+
+*Sources : A Treatise of Human Nature, I, 4, 7 (1739)*
 
 ## Influenced by
 

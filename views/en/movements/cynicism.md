@@ -62,7 +62,7 @@ The Cynics measure life against nature as opposed to conventions, but refer it t
 
 *positioned · inferable · minor*
 
-Death is nothing 80% · Being-toward-death 10% · Immortalism 10%
+Freeing ourselves from the fear 80% · Living in view of one's death 10% · Preparing for the passage 10%
 
 The Cynics flaunt a provocative indifference toward death: Diogenes, it is said, asks that his corpse be thrown over the wall to the beasts, mocking the care of burial, since he will no longer be there to feel anything. Death is nothing that should trouble the self-sufficient sage, and the fear of it belongs to the empty conventions he sets out precisely to undo.
 
@@ -211,6 +211,16 @@ Universalism 85% · Relativism 10% · Constructivism 5%
 By opposing nature to nomos, Cynicism presupposes a criterion of the good independent of conventions and valid for all: what accords with nature is good everywhere, what is merely local custom does not bind. The sage judges customs in the name of a universal natural norm rather than according to each city.
 
 *Sources : Diogenes Laertius, Lives, VI, 70-71*
+
+### [The value of truth](../axes/truth-value.md)
+
+*positioned · inferable · minor*
+
+The primacy of truth 80% · Vital illusions 20%
+
+Defacing the currency of conventions: the Cynic program is a demonetizing of social illusions, honours, riches, proprieties, of which the life of [Diogenes](../philosophers/diogenes.md) is the living demonstration. Frank speech ([parrhēsia](../glossary/parrhesia.md)) tells the truth to the face of power, and life according to nature is a truth lived rather than demonstrated.
+
+*Sources : Diogenes Laertius, Lives, VI*
 
 ## Influence on
 

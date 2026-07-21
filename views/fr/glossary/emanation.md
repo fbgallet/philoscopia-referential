@@ -8,7 +8,7 @@ L'émanation est, chez [Plotin](../philosophers/plotinus.md), le mode selon lequ
 
 **Porte une position vers** : [Explication de la nature](../axes/causality.md) : Finalisme
 
-**En jeu dans** : [Explication de la nature](../axes/causality.md) · [Nature de l'esprit et du réel](../axes/reality-nature.md)
+**En jeu dans** : [Explication de la nature](../axes/causality.md) · [Nature du réel](../axes/reality-nature.md)
 
 **Voir aussi** : [l'Un (le principe premier)](../glossary/the-one.md) · [l'Intellect (Noûs)](../glossary/nous.md) · [l'Âme du monde](../glossary/world-soul.md) · [Épistrophè (la conversion, le retour)](../glossary/epistrophe.md) · [Hypostase](../glossary/hypostasis.md)
 

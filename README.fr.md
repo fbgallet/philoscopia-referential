@@ -2,7 +2,7 @@
 
 **[🇬🇧 English](README.md) · 🇫🇷 Français**
 
-Un référentiel ouvert et bilingue (EN/FR) pour cartographier les positions philosophiques : **75 axes** couvrant les grands débats, des **profils sourcés** de philosophes et de mouvements, des **graphes d'influence et de fondation**, un glossaire et un registre des œuvres — le tout en JSON validé et lisible par machine, conçu pour être réutilisé aussi bien par des humains que par des LLM.
+Un référentiel ouvert et bilingue (EN/FR) pour cartographier les positions philosophiques : **80 axes** couvrant les grands débats, des **profils sourcés** de philosophes et de mouvements, des **graphes d'influence et de fondation**, un glossaire et un registre des œuvres — le tout en JSON validé et lisible par machine, conçu pour être réutilisé aussi bien par des humains que par des LLM.
 
 Ce référentiel alimente **Philoscopia**, un compagnon philosophique pour découvrir les visions du monde des philosophes et construire la sienne. Les données sont publiées ici afin que chacun — chercheurs, enseignants, développeurs, ou quiconque dispose d'un LLM — puisse les explorer, les réutiliser, les critiquer et les améliorer.
 
@@ -14,7 +14,8 @@ Tout se trouve sous `data/`, un fichier JSON par entité :
 
 | Dossier | Contenu |
 |---|---|
-| `axes/` | Le cœur du référentiel : 75 axes de positions philosophiques (p. ex. le libre arbitre, le souverain bien, la nature de la vérité). Chaque axe définit ses pôles, son territoire et son plan (théorie descriptive ou valeur), son type (bipolaire, spectre, …), ses axes apparentés, et une carte des sous-problèmes vivants qu'il porte. |
+| `axes/` | Le cœur du référentiel : 80 axes de positions philosophiques (p. ex. le libre arbitre, le souverain bien, la nature de la vérité). Chaque axe définit ses pôles, son territoire et son plan (théorie descriptive ou valeur), son type (bipolaire, spectre, …), ses axes apparentés, et une carte des sous-problèmes vivants qu'il porte. |
+| `themes/` | Une strate de découverte pour débutants : des mots d'entrée grand public (thèmes de vie et notions du programme scolaire — la liberté, le bonheur, la justice, …) reliés chacun aux axes qui les traitent. Une porte d'entrée simple et claire dans le référentiel, sans en connaître le vocabulaire des axes ; les thèmes `featured` apparaissent en premier. |
 | `philosophers/` | Des profils situant un philosophe sur les axes, avec des **justifications sourcées**, une distinction déclaré/pratiqué, des statuts et une saillance. Des profils complets coexistent avec des ébauches légères (`"stub": true`) qui signalent une couverture encore à rédiger. |
 | `movements/` | Le même modèle pour les écoles et les mouvements (stoïcisme, utilitarisme, …). |
 | `characters/` | Le même modèle pour les personnages de fiction. |
@@ -25,6 +26,8 @@ Tout se trouve sous `data/`, un fichier JSON par entité :
 | `works/` | Un registre des œuvres citées ou balisées dans le corpus. |
 | `thought-experiments/` | Des expériences de pensée classiques (le tramway, la machine à expériences, l'anneau de Gygès, …) reliées aux axes qu'elles mettent à l'épreuve. |
 | `arguments/` | Les arguments canoniques (SUPPORTS) et les objections (OBJECTS) qui portent sur une position : une chaîne de raisons avec des approfondissements facultatifs, des sources, et — pour les objections — les issues honnêtes (réviser / nuancer / maintenir). |
+
+La plupart des entités (thèmes, axes, philosophes, mouvements, glossaire, personnages) portent aussi des **`aliases`** — des listes bilingues de noms alternatifs et de termes de recherche courants — pour qu'un lecteur ou un LLM atteigne la bonne entrée à partir des mots qu'il emploierait naturellement, et pas seulement de son identifiant canonique.
 
 ## Parcourir le corpus
 

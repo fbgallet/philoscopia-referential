@@ -2,7 +2,7 @@
 
 # L'argument de l'âme
 
-*Argument pour [La mort](../axes/death.md) : Immortalisme*
+*Argument pour [Après la mort](../axes/afterlife.md) : L'âme immortelle*
 
 **Ce qui pense en nous n'est pas un simple corps, et peut lui survivre.**
 
@@ -27,7 +27,7 @@
 
 **Contesté par** : [L'objection de la fuite](../arguments/death-flight-from-finitude.md) · [L'objection de l'identité](../arguments/death-identity-objection.md)
 
-**Porte sur les problèmes** : [Quelque chose survit-il ?](../axes/death.md)
+**Porte sur les problèmes** : [Penser sans cerveau ?](../axes/afterlife.md)
 
 ---
 

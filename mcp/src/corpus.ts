@@ -42,6 +42,7 @@ const TYPE_DIRS = {
   te: "thought-experiments",
   w: "works",
   arg: "arguments",
+  theme: "themes",
 } as const;
 
 export type RefPrefix = keyof typeof TYPE_DIRS;
@@ -186,6 +187,14 @@ export function searchCorpus(
     if (Array.isArray(entity.keywords)) {
       for (const keyword of entity.keywords) haystackParts.push(pickLocale(keyword, locale));
     }
+    // Aliases: lay synonyms (theme discovery, axis aliases) — search-only, and
+    // per-locale STRING ARRAYS (not LocalizedText), so index directly without
+    // pickLocale. Lets "bonheur"/"happiness" find the theme whose label is
+    // "Le bonheur" and, in time, an axis whose label is technical.
+    if (entity.aliases) {
+      const list = entity.aliases[locale] ?? entity.aliases.en;
+      if (Array.isArray(list)) for (const alias of list) haystackParts.push(alias);
+    }
     if (entity.poles && typeof entity.poles[0] === "object") {
       for (const pole of entity.poles) haystackParts.push(pickLocale(pole.label, locale));
     }
@@ -201,9 +210,11 @@ export function searchCorpus(
           ? pickLocale(entity.explicitation, locale)
           : entity.tagline
             ? pickLocale(entity.tagline, locale)
-            : ref.startsWith("arg:") && entity.name
-              ? pickLocale(entity.claim, locale)
-              : undefined;
+            : ref.startsWith("theme:") && Array.isArray(entity.axes)
+              ? entity.axes.join(", ")
+              : ref.startsWith("arg:") && entity.name
+                ? pickLocale(entity.claim, locale)
+                : undefined;
       results.push({ ref, name, hint });
     }
   }

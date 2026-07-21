@@ -1,0 +1,31 @@
+{
+  "id": "work",
+  "label": {
+    "fr": "Le travail",
+    "en": "Work"
+  },
+  "aliases": {
+    "fr": [
+      "travail",
+      "métier",
+      "emploi",
+      "labeur",
+      "boulot",
+      "chômage",
+      "sens du travail"
+    ],
+    "en": [
+      "work",
+      "job",
+      "labor",
+      "labour",
+      "unemployment",
+      "meaning of work"
+    ]
+  },
+  "featured": true,
+  "axes": [
+    "WORK_MEANING",
+    "TECHNOLOGY"
+  ]
+}

@@ -48,7 +48,7 @@ Le confucianisme inscrit le sens dans le Mandat du Ciel, ordre normatif et Voie 
 
 *positionné · explicite dans les textes · mineure*
 
-La mort n'est rien 50% · Immortalisme 40% · Être-pour-la-mort 10%
+Se libérer de la crainte 50% · Se préparer au passage 40% · Vivre en vue de sa mort 10%
 
 Le confucianisme détourne de la spéculation sur l'au-delà pour reporter le soin sur la vie et les devoirs présents, mais entoure la mort de rites et perpétue le culte des ancêtres. Les défunts demeurent ainsi présents dans la mémoire et la piété de la lignée : non un anéantissement à craindre, ni vraiment une survie de l'âme, mais une continuité par la piété filiale et la transmission.
 
@@ -174,7 +174,7 @@ Puisque la personne n'existe que prise dans ses relations, l'ordre social ne se 
 
 *positionné · explicite dans les textes · mineure*
 
-Mémoire-transmission 80% · Présentisme 10% · Projet 10%
+Mémoire-transmission 80% · Vivre au présent 10% · Projet 10%
 
 Le confucianisme oriente l'existence vers la transmission : le passé des sages-rois est le modèle à étudier, à ressaisir et à léguer, et le culte des ancêtres ancre le présent dans la continuité des générations. Apprendre, c'est revisiter l'ancien pour en tirer le neuf : la mémoire est le ressort de la vie morale et politique.
 

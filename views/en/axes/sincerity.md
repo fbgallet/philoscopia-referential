@@ -39,7 +39,7 @@ Telling the truth is a duty, but only toward those who have a right to it. When 
 
 ## Related axes
 
-[Letter or spirit of the rule](../axes/rule-spirit.md)
+[Letter or spirit of the rule](../axes/rule-spirit.md) · [The value of truth](../axes/truth-value.md)
 
 ---
 

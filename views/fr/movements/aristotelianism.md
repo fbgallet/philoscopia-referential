@@ -32,7 +32,7 @@ L'aristotélisme tient la douleur et l'infortune pour de véritables maux, contr
 
 *positionné · inférable · mineure*
 
-La mort n'est rien 45% · Révolte / refus 25% · Immortalisme 20% · Être-pour-la-mort 10%
+Se libérer de la crainte 45% · Refuser la mort 25% · Se préparer au passage 20% · Vivre en vue de sa mort 10%
 
 L'aristotélisme tient la mort pour la fin naturelle du composé d'âme et de corps : un mal réel, qui prive de tous les biens, mais à affronter avec courage plutôt qu'à fuir ou à nier. Sauf l'intellect, dont l'éternité reste impersonnelle, rien de la personne ne survit : une finitude lucide, qui reconnaît à la mort sa gravité sans en faire ni un rien ni un passage.
 
@@ -202,7 +202,7 @@ Le désir n'est ni à affirmer sans frein ni à éteindre, mais à ordonner par 
 
 *positionné · inférable · mineure*
 
-Intellectualisme 60% · Sentimentalisme 40%
+Primauté de la raison 60% · Le primat du sentiment 40%
 
 Contre l'intellectualisme socratique, l'aristotélisme accorde aux passions un rôle proprement éthique : éprouver la crainte, la colère ou la pitié quand il faut, envers qui il faut et comme il faut, c'est cela la vertu. Les émotions bien éduquées ont une dimension cognitive et accompagnent le jugement droit, sans pour autant le fonder à elles seules : la position est modérée, légèrement du côté du jugement.
 

@@ -1,0 +1,539 @@
+{
+  "id": "MORAL_SOURCE",
+  "relation": "OTHERS",
+  "territory": "MORALS",
+  "label": {
+    "fr": "La source de la morale",
+    "en": "The source of morality"
+  },
+  "question": {
+    "fr": "D'où la morale tire-t-elle son autorité ?",
+    "en": "What gives morality its authority?"
+  },
+  "stakes": {
+    "fr": "Chacun sent que certaines choses ne se font pas, mais d'où cette exigence tire-t-elle sa force ? Si le bien est fondé en Dieu, une société qui perd la foi risque de perdre aussi la morale, et la formule prêtée à Dostoïevski menace : si Dieu n'existe pas, tout est permis. Si la morale tient à la raison, au sentiment ou à un accord hérité, elle survit à la sécularisation, mais il reste à expliquer pourquoi elle oblige encore celui qui ne veut plus jouer le jeu. Se positionner, c'est dire ce qui soutient réellement nos devoirs, et ce qui en resterait le jour où ce soutien vacille.",
+    "en": "Everyone feels that some things are simply not done, but where does that demand get its force? If the good is grounded in God, a society that loses its faith risks losing its morality too, and the line ascribed to Dostoevsky looms: if God does not exist, everything is permitted. If morality rests on reason, on feeling, or on an inherited agreement, it survives secularization, but it remains to be explained why it still binds those who no longer want to play along. To take a position is to say what really upholds our duties, and what would be left of them the day that support gives way."
+  },
+  "aliases": {
+    "fr": [
+      "fondement de la morale",
+      "conscience morale",
+      "loi morale",
+      "sentiment moral",
+      "d'où vient le bien"
+    ],
+    "en": [
+      "source of morality",
+      "moral conscience",
+      "moral law",
+      "moral sense",
+      "where good comes from"
+    ]
+  },
+  "layer": "THEORY",
+  "type": "CATEGORICAL",
+  "poles": [
+    {
+      "id": "DIVINE_GROUND",
+      "label": {
+        "fr": "Fondée en Dieu",
+        "en": "Grounded in God"
+      },
+      "description": {
+        "fr": "Le bien tient son autorité de Dieu : c'est parce qu'un Dieu bon veut, ordonne ou incarne le bien que nos devoirs obligent absolument. La raison peut lire la loi morale, mais elle ne la fonde pas ; sans ce garant, il ne resterait que des préférences et des calculs, sans rien qui interdise vraiment.",
+        "en": "The good owes its authority to God: it is because a good God wills, commands, or embodies the good that our duties bind absolutely. Reason can read the moral law, but it does not ground it; without this guarantor, only preferences and calculations would remain, with nothing that truly forbids."
+      },
+      "nuances": [
+        {
+          "fr": "Le pôle abrite une querelle interne : le bien est-il bien parce que Dieu le veut (volontarisme, Ockham), ou Dieu le veut-il parce qu'il est bien ? Thomas d'Aquin fraie une voie médiane : le bien s'enracine dans la nature même de Dieu, ni décret arbitraire ni mesure extérieure, et sa loi reste lisible par la raison naturelle.",
+          "en": "The pole houses an internal quarrel: is the good good because God wills it (voluntarism, Ockham), or does God will it because it is good? Thomas Aquinas opens a middle path: the good is rooted in God's very nature, neither arbitrary decree nor external standard, and his law remains readable by natural reason."
+        }
+      ],
+      "figures": [
+        {
+          "slug": "aquinas",
+          "name": {
+            "fr": "Thomas d'Aquin",
+            "en": "Thomas Aquinas"
+          }
+        },
+        {
+          "slug": "dostoevsky",
+          "name": {
+            "fr": "Dostoïevski",
+            "en": "Dostoevsky"
+          }
+        }
+      ]
+    },
+    {
+      "id": "LAW_OF_REASON",
+      "label": {
+        "fr": "La loi de la raison",
+        "en": "The law of reason"
+      },
+      "description": {
+        "fr": "L'obligation morale vaut pour tout être raisonnable : une exigence que la raison découvre ou qu'elle se donne, comme une vérité qui ne dépend d'aucun décret. Croyant ou non, quiconque raisonne se heurte aux mêmes devoirs ; c'est l'universalité de la raison, non une volonté supérieure, qui fait la force de la morale.",
+        "en": "Moral obligation holds for every rational being: a demand that reason discovers or gives itself, like a truth that depends on no decree. Believer or not, whoever reasons runs up against the same duties; it is the universality of reason, not a higher will, that gives morality its force."
+      },
+      "nuances": [
+        {
+          "fr": "Leibniz, théiste, loge le bien dans les vérités éternelles de l'entendement divin, antérieures à toute volonté : cas limite qui fonde la morale en raison tout en la situant en Dieu.",
+          "en": "Leibniz, a theist, lodges the good in the eternal truths of the divine understanding, prior to any will: a limit case that grounds morality in reason while locating it in God."
+        }
+      ],
+      "figures": [
+        {
+          "slug": "kant",
+          "name": {
+            "fr": "Kant",
+            "en": "Kant"
+          }
+        },
+        {
+          "slug": "leibniz",
+          "name": {
+            "fr": "Leibniz",
+            "en": "Leibniz"
+          }
+        }
+      ]
+    },
+    {
+      "id": "MORAL_SENTIMENT",
+      "label": {
+        "fr": "Le sentiment moral",
+        "en": "Moral sentiment"
+      },
+      "description": {
+        "fr": "La morale s'enracine dans une sensibilité naturelle : sympathie, pitié, répugnance à voir souffrir. La raison éclaire, compare et corrige, mais elle ne crée pas l'obligation ; c'est le cœur qui distingue d'abord le bien du mal, et une nature humaine partagée explique que les morales, par-delà leurs variations, se ressemblent tant.",
+        "en": "Morality is rooted in a natural sensibility: sympathy, pity, revulsion at the sight of suffering. Reason clarifies, compares, and corrects, but it does not create obligation; the heart is what first tells good from evil, and a shared human nature explains why moralities, beneath their variations, resemble one another so much."
+      },
+      "nuances": [
+        {
+          "fr": "Mencius en donne la version chinoise classique : quatre germes innés (compassion, honte, déférence, sens du juste) que la culture morale fait croître.",
+          "en": "Mencius gives its classic Chinese version: four innate sprouts (compassion, shame, deference, a sense of right) that moral cultivation makes grow."
+        },
+        {
+          "fr": "Chez Hume, la sympathie fonde la morale commune, mais la justice naît d'une convention utile : le pôle du sentiment communique ici avec celui de la convention.",
+          "en": "In Hume, sympathy grounds common morality, but justice arises from a useful convention: the sentiment pole communicates here with the convention pole."
+        }
+      ],
+      "figures": [
+        {
+          "slug": "hume",
+          "name": {
+            "fr": "Hume",
+            "en": "Hume"
+          }
+        },
+        {
+          "slug": "rousseau",
+          "name": {
+            "fr": "Rousseau",
+            "en": "Rousseau"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HUMAN_CONVENTION",
+      "label": {
+        "fr": "Une convention tacite",
+        "en": "A tacit convention"
+      },
+      "description": {
+        "fr": "La morale repose sur un accord tacite, sédimenté par l'histoire d'une société : une tradition de jugements partagés sur ce qui se fait et ne se fait pas. Ni loi d'une raison pure, ni simple élan du cœur, cette convention tient parce que nous la reconduisons ensemble ; son autorité est réelle, mais immanente, située, et donc révisable.",
+        "en": "Morality rests on a tacit agreement, sedimented by a society's history: a tradition of shared judgments about what is done and what is not. Neither the law of a pure reason nor a mere impulse of the heart, this convention holds because we renew it together; its authority is real, but immanent, situated, and therefore revisable."
+      },
+      "nuances": [
+        {
+          "fr": "Deux lectures se partagent le pôle : affirmative (Xunzi : les rites, artifice des sages, civilisent et obligent pleinement), démystifiante (Nietzsche : la généalogie révèle une fabrication et destitue l'absolu ; Mackie : nos jugements moraux reposent sur une erreur).",
+          "en": "Two readings share the pole: an affirmative one (Xunzi: the rites, an artifice of the sages, civilize and genuinely bind) and a debunking one (Nietzsche: genealogy reveals a fabrication and deposes the absolute; Mackie: our moral judgments rest on an error)."
+        }
+      ],
+      "figures": [
+        {
+          "slug": "xunzi",
+          "name": {
+            "fr": "Xunzi",
+            "en": "Xunzi"
+          }
+        },
+        {
+          "slug": "nietzsche",
+          "name": {
+            "fr": "Nietzsche",
+            "en": "Nietzsche"
+          }
+        }
+      ]
+    }
+  ],
+  "core": true,
+  "difficulty": 2,
+  "clusters": [],
+  "relatedAxes": [
+    "ETHICS_FOUNDATION",
+    "MORAL_SCOPE",
+    "GOD_EXISTENCE",
+    "FAITH_REASON",
+    "RIGHTS_NATURE",
+    "HUMAN_NATURE",
+    "LIFE_MEANING"
+  ],
+  "problems": [
+    {
+      "id": "euthyphro-dilemma",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "le rapport de Dieu au bien",
+        "en": "God's relation to the good"
+      },
+      "mode": "DESCRIPTIVE",
+      "keywords": [
+        {
+          "fr": "Euthyphron",
+          "en": "Euthyphro"
+        },
+        {
+          "fr": "volontarisme",
+          "en": "voluntarism"
+        },
+        {
+          "fr": "arbitraire divin",
+          "en": "divine arbitrariness"
+        }
+      ],
+      "poles": [
+        "DIVINE_GROUND",
+        "LAW_OF_REASON"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Platon",
+            "en": "Plato"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "plato"
+        },
+        {
+          "name": {
+            "fr": "Leibniz",
+            "en": "Leibniz"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "leibniz"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "GOD_EXISTENCE"
+        }
+      ],
+      "title": {
+        "fr": "Le dilemme d'Euthyphron",
+        "en": "The Euthyphro dilemma"
+      },
+      "explicitation": {
+        "fr": "Le bien est-il bien parce que Dieu le veut, ou Dieu le veut-il parce qu'il est bien ? Une branche rend la morale arbitraire, l'autre semble la rendre indépendante de Dieu ; les théologiens cherchent depuis une voie entre les deux.",
+        "en": "Is the good good because God wills it, or does God will it because it is good? One branch makes morality arbitrary, the other seems to make it independent of God; theologians have been seeking a way between the two ever since."
+      }
+    },
+    {
+      "id": "everything-permitted",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "la morale sans garant",
+        "en": "morality without a guarantor"
+      },
+      "mode": "DESCRIPTIVE",
+      "keywords": [
+        {
+          "fr": "tout est permis",
+          "en": "everything is permitted"
+        },
+        {
+          "fr": "sécularisation",
+          "en": "secularization"
+        },
+        {
+          "fr": "nihilisme",
+          "en": "nihilism"
+        }
+      ],
+      "poles": [
+        "DIVINE_GROUND",
+        "LAW_OF_REASON",
+        "MORAL_SENTIMENT",
+        "HUMAN_CONVENTION"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Dostoïevski",
+            "en": "Dostoevsky"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "dostoevsky"
+        },
+        {
+          "name": {
+            "fr": "Sartre",
+            "en": "Sartre"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "sartre"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "GOD_EXISTENCE",
+          "problem": "morality-needs-god"
+        },
+        {
+          "axis": "LIFE_MEANING"
+        }
+      ],
+      "title": {
+        "fr": "Sans Dieu, tout est permis ?",
+        "en": "Without God, is everything permitted?"
+      },
+      "explicitation": {
+        "fr": "Si aucun garant transcendant ne soutient nos devoirs, gardent-ils leur force d'obliger, ou deviennent-ils des choix qu'on peut toujours défaire ? Les sociétés sécularisées mettent la formule à l'épreuve chaque jour.",
+        "en": "If no transcendent guarantor upholds our duties, do they keep their binding force, or do they become choices that can always be undone? Secularized societies put the phrase to the test every day."
+      }
+    },
+    {
+      "id": "almighty-and-the-good",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "la volonté de Dieu",
+        "en": "God's will"
+      },
+      "mode": "DESCRIPTIVE",
+      "keywords": [
+        {
+          "fr": "toute-puissance",
+          "en": "omnipotence"
+        },
+        {
+          "fr": "vérités éternelles",
+          "en": "eternal truths"
+        },
+        {
+          "fr": "intellectualisme",
+          "en": "intellectualism"
+        }
+      ],
+      "poles": [
+        "DIVINE_GROUND"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Descartes",
+            "en": "Descartes"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "descartes"
+        },
+        {
+          "name": {
+            "fr": "Ockham",
+            "en": "Ockham"
+          },
+          "kind": "PHILOSOPHER"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "GOD_EXISTENCE"
+        }
+      ],
+      "title": {
+        "fr": "La toute-puissance et le bien",
+        "en": "Omnipotence and the good"
+      },
+      "explicitation": {
+        "fr": "Si Dieu est tout-puissant, le bien dépend-il de sa volonté au point qu'il aurait pu commander autre chose ? Descartes l'ose pour les vérités éternelles, Ockham pour certains préceptes de la loi morale, et l'arbitraire menace.",
+        "en": "If God is all-powerful, does the good depend on his will to the point that he could have commanded otherwise? Descartes ventures it for the eternal truths, Ockham for certain precepts of the moral law, and arbitrariness looms."
+      }
+    },
+    {
+      "id": "can-nature-oblige",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "l'autorité d'un sentiment",
+        "en": "the authority of a feeling"
+      },
+      "mode": "DESCRIPTIVE",
+      "keywords": [
+        {
+          "fr": "loi de Hume",
+          "en": "Hume's law"
+        },
+        {
+          "fr": "de l'être au devoir-être",
+          "en": "from is to ought"
+        }
+      ],
+      "poles": [
+        "LAW_OF_REASON",
+        "MORAL_SENTIMENT"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Hume",
+            "en": "Hume"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "hume"
+        },
+        {
+          "name": {
+            "fr": "Kant",
+            "en": "Kant"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "kant"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "MORAL_SCOPE",
+          "problem": "are-there-moral-truths"
+        }
+      ],
+      "title": {
+        "fr": "Un sentiment peut-il obliger ?",
+        "en": "Can a feeling bind?"
+      },
+      "explicitation": {
+        "fr": "Constater que la nature nous a faits compatissants décrit un fait ; en conclure que nous devons l'être franchit le pas de l'être au devoir. Si la morale n'est qu'un sentiment, que répondre à celui qui ne le ressent pas ?",
+        "en": "Observing that nature made us compassionate states a fact; concluding that we ought to be so crosses the step from is to ought. If morality is only a feeling, what do we say to someone who does not feel it?"
+      }
+    },
+    {
+      "id": "can-convention-bind",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "la coutume",
+        "en": "custom"
+      },
+      "mode": "DESCRIPTIVE",
+      "keywords": [
+        {
+          "fr": "nomos et physis",
+          "en": "nomos and physis"
+        },
+        {
+          "fr": "coutume",
+          "en": "custom"
+        },
+        {
+          "fr": "réformateur",
+          "en": "reformer"
+        }
+      ],
+      "poles": [
+        "HUMAN_CONVENTION"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Xunzi",
+            "en": "Xunzi"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "xunzi"
+        },
+        {
+          "name": {
+            "fr": "Protagoras",
+            "en": "Protagoras"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "protagoras"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "RIGHTS_NATURE"
+        }
+      ],
+      "title": {
+        "fr": "La force de la coutume",
+        "en": "The force of custom"
+      },
+      "explicitation": {
+        "fr": "Une règle qui ne tient qu'à notre accord peut-elle obliger celui qui s'en retire ? La coutume oblige tant qu'on la partage, mais le réformateur qui la conteste semble en appeler à autre chose qu'elle.",
+        "en": "Can a rule that rests only on our agreement bind someone who withdraws from it? Custom binds as long as it is shared, but the reformer who contests it seems to appeal to something beyond it."
+      }
+    },
+    {
+      "id": "does-genealogy-debunk",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "l'histoire de la morale",
+        "en": "the history of morality"
+      },
+      "mode": "DESCRIPTIVE",
+      "keywords": [
+        {
+          "fr": "généalogie",
+          "en": "genealogy"
+        },
+        {
+          "fr": "ressentiment",
+          "en": "ressentiment"
+        },
+        {
+          "fr": "démystification",
+          "en": "debunking"
+        }
+      ],
+      "poles": [
+        "HUMAN_CONVENTION"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Nietzsche",
+            "en": "Nietzsche"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "nietzsche"
+        },
+        {
+          "name": {
+            "fr": "Mackie",
+            "en": "Mackie"
+          },
+          "kind": "PHILOSOPHER"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "HUMAN_NATURE"
+        }
+      ],
+      "title": {
+        "fr": "Expliquer la morale, est-ce la détruire ?",
+        "en": "Does explaining morality destroy it?"
+      },
+      "explicitation": {
+        "fr": "Si l'on peut raconter comment nos valeurs ont été fabriquées (histoire, évolution, ressentiment), leur prétention à l'absolu s'effondre-t-elle, ou l'origine d'une norme ne dit-elle rien de sa validité ?",
+        "en": "If we can tell how our values were fabricated (history, evolution, ressentiment), does their claim to the absolute collapse, or does a norm's origin say nothing about its validity?"
+      }
+    }
+  ]
+}

@@ -186,7 +186,7 @@ Une méfiance primitiviste traverse le taoïsme : les inventions et les machines
 
 *positionné · inférable · mineure*
 
-Intellectualisme 70% · Sentimentalisme 30%
+Primauté de la raison 70% · Le primat du sentiment 30%
 
 Zhuangzi cultive une équanimité qui n'est pas refus des affects mais refus de s'y laisser enchaîner : comprendre que tout est transformation incessante apaise le trouble. Le sage ne laisse ni le gain ni la perte, ni la joie ni la peine altérer la paix intérieure ; il accueille les événements comme le cours naturel des choses, sans s'y attacher.
 
@@ -196,7 +196,7 @@ Zhuangzi cultive une équanimité qui n'est pas refus des affects mais refus de 
 
 *positionné · explicite dans les textes · mineure*
 
-La mort n'est rien 55% · Immortalisme 35% · Être-pour-la-mort 10%
+Se libérer de la crainte 55% · Se préparer au passage 35% · Vivre en vue de sa mort 10%
 
 Les trois pôles de cet axe cernent mal la vision taoïste : la mort n'y est ni néant à apprivoiser ni promesse d'immortalité de l'âme, mais un simple moment de la transformation universelle, comparable au passage des saisons. À la mort de sa femme, Zhuangzi cesse de pleurer et chante en battant la mesure sur une jarre, comprenant qu'elle dort désormais dans la grande chambre du cosmos. La crainte de la mort s'y dissout dans le consentement au changement.
 
@@ -222,7 +222,7 @@ La voie taoïste passe par un travail intérieur de vacuité : le jeûne du cœu
 
 *Sources : Zhuangzi, ch. 4 (Dans le monde des hommes) · Zhuangzi, ch. 6 (Le grand maître vénérable)*
 
-### [Nature de l'esprit et du réel](../axes/reality-nature.md)
+### [Nature du réel](../axes/reality-nature.md)
 
 *positionné · inférable · mineure*
 

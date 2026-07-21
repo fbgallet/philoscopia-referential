@@ -9,14 +9,14 @@ Maître de l'[Advaita Vedānta](../movements/vedanta.md), la branche non-dualist
 ## Positions structurantes
 
 1. [Nature du moi](../axes/self-nature.md) : **Tu n'es ni ton corps ni ton mental : ton soi véritable ([ātman](../glossary/atman.md)) est la conscience-témoin, et elle est identique à l'absolu, le [brahman](../glossary/brahman.md).**
-2. [Nature de l'esprit et du réel](../axes/reality-nature.md) : **Une seule réalité existe sans second ; la multiplicité du monde n'est qu'une [apparence](../glossary/maya.md) surimposée sur le brahman par l'ignorance, comme un serpent vu sur une corde.**
+2. [Nature du réel](../axes/reality-nature.md) : **Une seule réalité existe sans second ; la multiplicité du monde n'est qu'une [apparence](../glossary/maya.md) surimposée sur le brahman par l'ignorance, comme un serpent vu sur une corde.**
 3. [Intériorité](../axes/interiority.md) : **Aucun acte ni aucun rite ne délivre : seule la [connaissance](../glossary/jnana.md) du soi, en dissipant l'ignorance, libère, car on ne devient pas le brahman, on l'est déjà.**
 4. [Existence de Dieu](../axes/god-existence.md) : **Le Dieu personnel est réel pour qui chemine, mais l'ultime est un [brahman](../glossary/brahman.md) sans attributs, au-delà de toute personne : deux niveaux de vérité, non deux dieux.**
 5. [Souverain bien](../axes/sovereign-good.md) : **Le bien suprême, la [délivrance](../glossary/moksha.md), n'est pas un état à conquérir mais la reconnaissance de ce que l'on est déjà : la félicité même du brahman.**
 
 ## Positions
 
-### [Nature de l'esprit et du réel](../axes/reality-nature.md)
+### [Nature du réel](../axes/reality-nature.md)
 
 *positionné · explicite dans les textes · majeure*
 
@@ -112,7 +112,7 @@ L'existence s'inscrit dans un ordre dont la fin est fixée d'avance : sortir du 
 
 *positionné · explicite dans les textes · mineure*
 
-Immortalisme 90% · La mort n'est rien 10%
+Se préparer au passage 90% · Se libérer de la crainte 10%
 
 Le soi ([ātman](../glossary/atman.md)) n'est jamais né et ne meurt jamais : la mort n'affecte que le composé corps-mental, non la conscience qui en est le témoin. À cet égard, Śaṅkara relève de l'immortalisme, la vie présente étant un passage en vue de la délivrance. Mais l'encodage demande une nuance : ce qui est immortel n'est pas l'âme individuelle, qui se défait avec ses renaissances, mais le soi impersonnel identique en tous. Pour qui a réalisé cette identité, la mort n'est même plus un événement à craindre, ce qui ajoute une coloration proche du « la mort n'est rien » : elle ne peut rien retrancher à ce qui, par essence, n'a jamais été dans le temps.
 
@@ -134,7 +134,7 @@ La souffrance appartient au [saṃsāra](../glossary/samsara.md) et à l'ignoran
 
 *positionné · inférable · mineure*
 
-Intellectualisme 80% · Sentimentalisme 20%
+Primauté de la raison 80% · Le primat du sentiment 20%
 
 La délivrance s'obtient par la connaissance (jñāna), non par l'émotion ni la seule dévotion : c'est l'ignorance, erreur de l'intellect, qui asservit, et c'est un savoir juste qui libère. La discipline préalable inclut la tranquillité (śama) et la maîtrise des passions, qui troublent le discernement entre le réel et l'apparent. L'affect n'est donc pas la voie d'accès à la vérité ni le ressort de la libération, ce qui penche du côté d'un intellectualisme, sans que les émotions soient pour autant niées au plan empirique.
 
@@ -175,6 +175,16 @@ Il y a en chacun une essence éternelle et déterminée, le soi ([ātman](../glo
 *non applicable*
 
 Question anachronique : le corpus de Śaṅkara ne contient rien qui permette de le positionner sur la pensée des machines sans extrapolation hasardeuse. On peut tout au plus noter que la conscience-témoin, irréductible à tout composé, n'est par principe pas un processus que l'on pourrait fabriquer.
+
+### [Valeur de la vérité](../axes/truth-value.md)
+
+*positionné · explicite dans les textes · majeure*
+
+Primauté de la vérité 90% · Illusions vitales 10%
+
+Si la servitude n'est qu'une surimposition illusoire ([māyā](../glossary/maya.md)), aucun acte ni aucun rite ne peut en délivrer : seule la connaissance qui discrimine le réel de l'apparent dissout l'illusion, comme la lumière dissipe le serpent qu'on croyait voir dans la corde. La délivrance n'est pas produite par le savoir : elle est ce savoir même, reconnaître que le soi n'a jamais été lié.
+
+*Sources : Upadeśasāhasrī · Commentaires aux Upaniṣad*
 
 ## Influencé par
 

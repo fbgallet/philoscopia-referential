@@ -8,7 +8,7 @@ La Naturphilosophie est la philosophie de la nature élaborée par [Schelling](.
 
 **Porte une position vers** : [Explication de la nature](../axes/causality.md) : Vitalisme
 
-**En jeu dans** : [Explication de la nature](../axes/causality.md) · [Nature de l'esprit et du réel](../axes/reality-nature.md)
+**En jeu dans** : [Explication de la nature](../axes/causality.md) · [Nature du réel](../axes/reality-nature.md)
 
 ---
 

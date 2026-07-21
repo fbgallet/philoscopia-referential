@@ -1,7 +1,7 @@
 {
   "id": "death-identity-objection",
   "kind": "OBJECTS",
-  "position": { "axisId": "DEATH", "poleId": "IMMORTALISM" },
+  "position": { "axisId": "AFTERLIFE", "poleId": "IMMORTAL_SOUL" },
   "name": { "fr": "L'objection de l'identité", "en": "The identity objection" },
   "claim": {
     "fr": "Même si quelque chose survit, rien ne garantit que ce soit encore moi.",
@@ -69,8 +69,8 @@
       },
       "hints": [{ "axisId": "DEATH", "value": { "kind": "weights", "weights": [0.1, 0.3, 0.6, 0] }, "weight": 1 }],
       "discussion": {
-        "fr": "Vous déplacez l'espérance du « moi qui dure » vers <ax id='DEATH' pole='IMMORTALISM'>un sens qui excède la personne</ax>.",
-        "en": "You shift the hope from the \"self that endures\" toward <ax id='DEATH' pole='IMMORTALISM'>a meaning that exceeds the person</ax>."
+        "fr": "Vous déplacez l'espérance du « moi qui dure » vers <ax id='DEATH' pole='PASSAGE'>un sens qui excède la personne</ax>.",
+        "en": "You shift the hope from the \"self that endures\" toward <ax id='DEATH' pole='PASSAGE'>a meaning that exceeds the person</ax>."
       }
     },
     {
@@ -86,7 +86,7 @@
       }
     }
   ],
-  "problems": ["does-something-survive"],
+  "problems": ["who-would-survive"],
   "targets": ["death-immortalist-hope"],
   "updatedAt": "2026-07-12T00:00:00.000Z"
 }

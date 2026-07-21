@@ -39,7 +39,7 @@ Dire la vérité est un devoir, mais seulement envers ceux qui y ont droit. Quan
 
 ## Axes liés
 
-[Lettre ou esprit de la règle](../axes/rule-spirit.md)
+[Lettre ou esprit de la règle](../axes/rule-spirit.md) · [Valeur de la vérité](../axes/truth-value.md)
 
 ---
 

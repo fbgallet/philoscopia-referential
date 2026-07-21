@@ -122,7 +122,7 @@ Thomas inherits [Aristotle](../philosophers/aristotle.md)'s four [causes](../glo
 
 *Sources : Summa Theologiae, Ia, q. 2, a. 3 (the fifth way); q. 44, a. 4*
 
-### [Nature of mind and reality](../axes/reality-nature.md)
+### [Nature of reality](../axes/reality-nature.md)
 
 *positioned · inferable · minor*
 
@@ -190,7 +190,7 @@ Thomas holds a real [free will](../glossary/free-will.md), which he grounds in t
 
 *positioned · explicit in the texts · major*
 
-Theodicy 45% · Free-will defence 45% · Revolt / anti-theodicy 10%
+Evil has its reasons 90% · Unjustifiable evil 10%
 
 How can a good God allow evil to exist? Thomas takes from [Augustine](../philosophers/augustine.md) the thesis that evil is not a thing nor a substance created by God, but a privation, a lack of being or of good that ought to be there, as blindness is the absence of sight. God therefore does not create evil; he permits physical evil for the sake of a greater good in the order of the whole, and moral evil out of respect for free will, without which there would be neither virtue nor merit. The profile thus blends theodicy (evil ordered to the good of the whole) and the free-will defence inherited from Augustine.
 
@@ -210,7 +210,7 @@ God is for Thomas radically [transcendent](../glossary/transcendence.md), distin
 
 *positioned · explicit in the texts · minor*
 
-Immortalism 100%
+Preparing for the passage 100%
 
 Death separates the soul from the body, but the intellective soul, because it subsists in itself, does not perish: it survives awaiting the resurrection of bodies, where the human being will once again be complete. Death is therefore neither sheer nothingness nor the ultimate horizon, but a passage toward eternal life and, for the just, toward the vision of God. This is a properly Christian immortalism, joining the immortality of the soul to the resurrection of the flesh.
 
@@ -250,7 +250,7 @@ Thomas does not condemn desire: the passions and appetites are good in themselve
 
 *positioned · inferable · minor*
 
-Sentimentalism 65% · Intellectualism 35%
+The primacy of feeling 65% · The primacy of reason 35%
 
 Against the Stoic ideal of extinguishing the passions, Thomas grants them a properly moral value: integrated into virtue and ordered by reason, compassion, fear or just anger perfect the good act instead of disturbing it. The virtuous person is not the impassive one but the one whose affects follow right judgment, which leans moderately toward a rehabilitation of the emotions without giving up the primacy of reason.
 
@@ -383,6 +383,16 @@ Against the contempt for the body found in certain traditions, Thomas holds bodi
 *not applicable*
 
 An anachronistic question: Aquinas's corpus does not allow positioning him on machine thought without hazardous extrapolation.
+
+### [The value of truth](../axes/truth-value.md)
+
+*positioned · inferable · minor*
+
+The primacy of truth 80% · Vital illusions 20%
+
+Man's last end is an operation of the intellect: the beatific vision, knowing God by essence. Truth is the proper good of the intellect and no felicity can rest on an error; grace does not abolish this natural desire to know, it completes it.
+
+*Sources : Summa theologiae, I-II, q. 3 · Summa contra Gentiles, III*
 
 ## Influenced by
 

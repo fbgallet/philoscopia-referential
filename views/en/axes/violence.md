@@ -50,7 +50,7 @@ Where domination is itself an entrenched violence, exploitation, colonization, a
 
 ## Related axes
 
-[Ideal and reality](../axes/political-ideal.md) · [Relation to authority](../axes/authority.md) · [The meaning of punishment](../axes/punishment.md) · [The origin of the social bond](../axes/social-contract.md) · [Forgiveness](../axes/forgiveness.md)
+[Ideal and reality](../axes/political-ideal.md) · [Relation to authority](../axes/authority.md) · [The meaning of punishment](../axes/punishment.md) · [The origin of the social bond](../axes/social-contract.md) · [Forgiveness](../axes/forgiveness.md) · [Law and conscience](../axes/political-obligation.md)
 
 ---
 

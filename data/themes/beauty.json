@@ -1,0 +1,36 @@
+{
+  "id": "beauty",
+  "label": {
+    "fr": "La beauté",
+    "en": "Beauty"
+  },
+  "aliases": {
+    "fr": [
+      "beauté",
+      "beau",
+      "laid",
+      "goût esthétique",
+      "joli",
+      "laideur",
+      "sublime",
+      "charme"
+    ],
+    "en": [
+      "beauty",
+      "beautiful",
+      "ugly",
+      "aesthetic taste",
+      "pretty",
+      "ugliness",
+      "sublime",
+      "charm"
+    ]
+  },
+  "featured": true,
+  "axes": [
+    "BEAUTY",
+    "TASTE_HIERARCHY",
+    "ART_NATURE",
+    "AESTHETIC_LIFE"
+  ]
+}

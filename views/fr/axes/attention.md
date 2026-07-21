@@ -36,7 +36,7 @@ Se divertir n'est pas trahir sa vie, c'est la rendre habitable : nul ne peut reg
 
 ## Axes liés
 
-[Intériorité](../axes/interiority.md) · [Orientation temporelle](../axes/time-orientation.md) · [Vision de l'homme](../axes/human-vision.md) · [Rapport à la technique](../axes/technology.md)
+[Intériorité](../axes/interiority.md) · [Orientation temporelle](../axes/time-orientation.md) · [Vision de l'homme](../axes/human-vision.md) · [Rapport à la technique](../axes/technology.md) · [Valeur de la vérité](../axes/truth-value.md)
 
 ---
 

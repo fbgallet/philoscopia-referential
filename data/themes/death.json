@@ -1,0 +1,33 @@
+{
+  "id": "death",
+  "label": {
+    "fr": "La mort",
+    "en": "Death"
+  },
+  "aliases": {
+    "fr": [
+      "mort",
+      "mourir",
+      "mortalité",
+      "finitude",
+      "deuil",
+      "décès",
+      "fin de vie"
+    ],
+    "en": [
+      "death",
+      "dying",
+      "mortality",
+      "finitude",
+      "grief",
+      "passing",
+      "end of life"
+    ]
+  },
+  "featured": true,
+  "axes": [
+    "DEATH",
+    "AFTERLIFE",
+    "LIFE_MEANING"
+  ]
+}

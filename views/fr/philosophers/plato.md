@@ -8,7 +8,7 @@ Athénien né dans une famille aristocratique, disciple de Socrate dont la conda
 
 ## Positions structurantes
 
-1. [Nature de l'esprit et du réel](../axes/reality-nature.md) : **Le monde sensible n'est pas le vrai réel : derrière lui existent des [Idées](../glossary/theory-of-forms.md) intelligibles, éternelles et immuables, dont les choses ne sont que des copies imparfaites.**
+1. [Nature du réel](../axes/reality-nature.md) : **Le monde sensible n'est pas le vrai réel : derrière lui existent des [Idées](../glossary/theory-of-forms.md) intelligibles, éternelles et immuables, dont les choses ne sont que des copies imparfaites.**
 2. [Source de la connaissance](../axes/knowledge-source.md) : **Apprendre, c'est se ressouvenir : par l'[anamnèse](../glossary/anamnesis.md), l'âme retrouve les Idées qu'elle a contemplées avant la naissance, non par les sens mais par la raison.**
 3. [Qui doit décider](../axes/who-decides.md) : **Gouverner est un savoir, non une affaire d'opinion : tant que les philosophes ne seront pas rois, les cités ne cesseront pas leurs maux.**
 4. [La mort](../axes/death.md) : **L'âme est immortelle : la mort n'est pas un anéantissement mais sa séparation d'avec le corps, et bien philosopher, c'est s'exercer à mourir.**
@@ -48,7 +48,7 @@ Platon est l'une des sources majeures de l'essentialisme : chaque chose sensible
 
 *Sources : Phédon, 74a-75d · République, V, 476a-480a*
 
-### [Nature de l'esprit et du réel](../axes/reality-nature.md)
+### [Nature du réel](../axes/reality-nature.md)
 
 *positionné · explicite dans les textes · majeure*
 
@@ -128,7 +128,7 @@ Le *[Timée](../works/timaeus-plato.md)* présente un **Démiurge**, dieu artisa
 
 *positionné · explicite dans les textes · majeure*
 
-Immortalisme 100%
+Se préparer au passage 100%
 
 Le *[Phédon](../works/phaedo-plato.md)* ne pose pas la survie, il l'argumente, par quatre preuves enchaînées : la génération des contraires, l'[anamnèse](../glossary/anamnesis.md) qui suppose une connaissance antérieure à la naissance, l'affinité de l'âme avec l'intelligible simple et indestructible, enfin l'argument de l'essence, l'âme portant en elle la vie ne pouvant admettre son contraire. Le raisonnement s'appuie sur le [dualisme](../axes/self-nature.md) de l'âme et du corps : ce qui est simple ne se décompose pas, donc ne périt pas. La mort cesse alors d'être un anéantissement pour devenir le passage de l'âme vers l'intelligible, et la philosophie elle-même, comme détachement du corps, en est l'apprentissage anticipé.
 
@@ -220,7 +220,7 @@ Contre le relativisme de Protagoras, pour qui « l'homme est la mesure de toutes
 
 *positionné · explicite dans les textes · majeure*
 
-Intellectualisme 90% · Sentimentalisme 10%
+Primauté de la raison 90% · Le primat du sentiment 10%
 
 L'[âme est tripartite](../glossary/tripartite-soul.md) et c'est la raison qui doit gouverner : l'image du **char ailé** du *[Phèdre](../works/phaedrus-plato.md)* montre le cocher (l'intellect) maîtrisant le cheval docile (l'ardeur) et le cheval rétif (l'appétit). Les passions ne sont pas des guides mais des forces à discipliner et à ordonner sous le commandement du logos.
 
@@ -361,6 +361,16 @@ Corps-instrument 95% · Corps-sujet 5%
 Dans le Phédon, le corps est le tombeau de l'âme : il l'entrave, la trompe par les sens et la détourne de la contemplation du vrai. Le philosophe s'exerce à mourir, c'est-à-dire à séparer l'âme du corps. Le moi véritable est l'âme.
 
 *Sources : Phédon, 64a-67b*
+
+### [Valeur de la vérité](../axes/truth-value.md)
+
+*positionné · explicite dans les textes · majeure*
+
+Primauté de la vérité 90% · Illusions vitales 10%
+
+La sortie de la caverne est douloureuse, éblouissante, et pourtant seule libératrice : rester parmi les ombres, c'est prendre des reflets pour le réel et vivre enchaîné sans le savoir ; connaître n'est pas un ornement du bonheur mais la conversion de l'âme entière vers ce qui est. Reste que le philosophe-roi administre à la cité un mensonge noble : la primauté du vrai vaut d'abord pour l'âme qui s'éduque, et Platon assume que l'ordre commun puisse, lui, reposer sur un mythe.
+
+*Sources : République, VII · République, III*
 
 ## Influencé par
 

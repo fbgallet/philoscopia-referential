@@ -30,7 +30,7 @@ Sartre refuses any redemptive justification of suffering: without God or provide
 
 *positioned · explicit in the texts · minor*
 
-Death is nothing 75% · Revolt / refusal 15% · Immortalism 10%
+Freeing ourselves from the fear 75% · Refusing death 15% · Preparing for the passage 10%
 
 Sartre explicitly rejects Heidegger's being-toward-death: far from being my ownmost possibility, which would give my life meaning, death is an absurd, external fact, the sheer suppression of my possibilities. It is neither awaited nor assumed as mine, it hands me over to the gaze of others. Meaning comes from freedom in progress, never from death, which is less to be tamed than to be kept from governing life.
 
@@ -182,7 +182,7 @@ Sartre rejects any morality of a priori rules: to the young man torn between sta
 
 *positioned · explicit in the texts · minor*
 
-Sentimentalism 65% · Intellectualism 35%
+The primacy of feeling 65% · The primacy of reason 35%
 
 In his Sketch for a Theory of the Emotions, Sartre takes emotion to be a meaningful conduct, not a mere undergone disturbance: it is a **magical transformation of the world** by which consciousness, unable to act really on a situation, metamorphoses it to make it bearable. Emotion thus belongs to intentionality and meaning rather than to pure intellectualizable mechanism; but since it remains a second-order conduct, degraded relative to lucid action, the sentimentalist leaning stays moderate.
 
@@ -204,7 +204,7 @@ Consciousness is wholly turned outward: there is no inner life folded upon itsel
 
 *positioned · inferable · minor*
 
-Project 80% · Presentism 15% · Memory and transmission 5%
+Project 80% · Living in the present 15% · Memory and transmission 5%
 
 The for-itself is stretched toward the future: it defines itself by the project, that toward which it throws itself forward, and is never fixed in its past, which it must always take up and re-signify. To live is to pro-ject oneself; the present itself has meaning only in relation to what one makes oneself be. The orientation is therefore resolutely that of the project, not of memory nor of the bare instant.
 
@@ -232,7 +232,7 @@ Sartre denies any **human nature**: lacking a God to conceive it, there is no co
 
 *Sources : Existentialism Is a Humanism (there is no human nature, but a human condition)*
 
-### [Nature of mind and reality](../axes/reality-nature.md)
+### [Nature of reality](../axes/reality-nature.md)
 
 *positioned · inferable · minor*
 
@@ -331,6 +331,16 @@ Social construction 85% · Social realism 15%
 Existence precedes essence: no nature fixes in advance what one is. The Jew, Sartre shows, is in part made by the situation and the antisemite's gaze. Social identities are constructed, not given.
 
 *Sources : Anti-Semite and Jew; Existentialism Is a Humanism*
+
+### [The value of truth](../axes/truth-value.md)
+
+*positioned · explicit in the texts · major*
+
+The primacy of truth 85% · Vital illusions 15%
+
+Since consciousness is what it is not and is not what it is, the standing temptation is bad faith: telling oneself one is a nature, a role, a thing, so as to flee the anguish of one's freedom. The minimal demand is not to conceal one's freedom from oneself: illusion about oneself turns freedom into fate.
+
+*Sources : Being and Nothingness, I (1943)*
 
 ## Influenced by
 

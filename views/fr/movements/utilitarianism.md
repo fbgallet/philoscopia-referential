@@ -32,7 +32,7 @@ L'utilitarisme n'assigne à la vie aucune fin transcendante : son sens se mesure
 
 *positionné · inférable · mineure*
 
-La mort n'est rien 78% · Révolte / refus 15% · Immortalisme 7%
+Se libérer de la crainte 78% · Refuser la mort 15% · Se préparer au passage 7%
 
 L'utilitarisme, naturaliste et séculier, ne s'appuie sur aucune doctrine ferme de l'au-delà : Bentham tient la mort pour la simple cessation de la sensibilité, Mill laisse l'immortalité indécidable. La mort est donc avant tout la fin de la capacité de plaisir et de peine, ce qui justifie qu'on cherche à la retarder et à en réduire les souffrances, plus qu'à l'investir de sens.
 

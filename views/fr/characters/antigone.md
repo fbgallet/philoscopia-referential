@@ -65,9 +65,9 @@ Ce qui la met en mouvement n'est pas un devoir abstrait envers tous les morts, m
 
 *positionné · explicite dans les textes · majeure*
 
-**Déclarée** : Immortalisme 80% · Être-pour-la-mort 20%
+**Déclarée** : Se préparer au passage 80% · Vivre en vue de sa mort 20%
 
-**Pratiquée** : Immortalisme 80% · Être-pour-la-mort 20%
+**Pratiquée** : Se préparer au passage 80% · Vivre en vue de sa mort 20%
 
 <spo>Antigone marche vers la mort en comptant y retrouver les siens : elle reposera chère à Polynice près de celui qui lui est cher, accueillie chez Hadès par son père, sa mère et son frère. Elle déclare que mourir avant l'heure est pour elle un gain, et son acceptation lucide du tombeau donne à sa mort la valeur d'un accomplissement choisi.</spo>
 

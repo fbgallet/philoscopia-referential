@@ -2,7 +2,7 @@
 
 # The identity objection
 
-*Objection to [Death](../axes/death.md) : Immortalism*
+*Objection to [After death](../axes/afterlife.md) : The immortal soul*
 
 **Even if something survives, nothing guarantees it would still be me.**
 
@@ -31,7 +31,7 @@
 
 **Challenges** : [The argument from the soul](../arguments/death-immortalist-hope.md)
 
-**Bears on the problems** : [Does anything survive?](../axes/death.md)
+**Bears on the problems** : [Would it still be me?](../axes/afterlife.md)
 
 ---
 

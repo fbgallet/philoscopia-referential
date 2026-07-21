@@ -8,7 +8,7 @@ Naturphilosophie is the philosophy of nature developed by [Schelling](../philoso
 
 **Carries a stance toward** : [Explaining nature](../axes/causality.md) : Vitalism
 
-**At stake in** : [Explaining nature](../axes/causality.md) · [Nature of mind and reality](../axes/reality-nature.md)
+**At stake in** : [Explaining nature](../axes/causality.md) · [Nature of reality](../axes/reality-nature.md)
 
 ---
 

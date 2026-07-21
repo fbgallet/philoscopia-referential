@@ -1,0 +1,24 @@
+{
+  "id": "solitude",
+  "label": {
+    "fr": "La solitude",
+    "en": "Solitude"
+  },
+  "aliases": {
+    "fr": [
+      "solitude",
+      "seul",
+      "isolement"
+    ],
+    "en": [
+      "solitude",
+      "alone",
+      "loneliness",
+      "isolation"
+    ]
+  },
+  "axes": [
+    "BELONGING",
+    "INTERIORITY"
+  ]
+}

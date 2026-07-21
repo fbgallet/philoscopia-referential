@@ -10,7 +10,7 @@ Tradition fondée par [Karl Marx](../philosophers/marx.md) et Friedrich Engels, 
 
 ## Positions structurantes
 
-1. [Nature de l'esprit et du réel](../axes/reality-nature.md) : **Ce n'est pas la conscience qui détermine la vie, mais la vie qui détermine la conscience : les idées, le droit et la religion ne sont que les reflets de la base matérielle.**
+1. [Nature du réel](../axes/reality-nature.md) : **Ce n'est pas la conscience qui détermine la vie, mais la vie qui détermine la conscience : les idées, le droit et la religion ne sont que les reflets de la base matérielle.**
 2. [Sens de l'histoire](../axes/history-meaning.md) : **L'histoire de toute société est l'histoire de la lutte des classes : ses modes de production se succèdent par la contradiction entre forces productives et rapports sociaux, jusqu'à la société sans classes.**
 3. [Justice distributive](../axes/distributive-justice.md) : **Le profit naît de la plus-value arrachée au travail non payé : l'exploitation n'est pas un abus mais la loi normale du capital, que seule l'abolition de la propriété privée des moyens de production peut lever.**
 4. [Sens du travail](../axes/work-meaning.md) : **Le travail devrait réaliser l'homme ; sous le capital il le mutile : l'ouvrier est aliéné de son produit, de son activité, de sa nature générique et des autres.**
@@ -100,7 +100,7 @@ Le ressort du changement historique est repéré dans une contradiction matérie
 
 *Sources : Marx, Contribution à la critique de l'économie politique, préface (1859) · Marx et Engels, Manifeste du Parti communiste (1848)*
 
-### [Nature de l'esprit et du réel](../axes/reality-nature.md)
+### [Nature du réel](../axes/reality-nature.md)
 
 *positionné · explicite dans les textes · majeure*
 

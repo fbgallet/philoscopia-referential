@@ -1,0 +1,26 @@
+{
+  "id": "j-avais-toujours-un-extreme-desir-descartes",
+  "text": {
+    "fr": "J'avais toujours un extrême désir d'apprendre à distinguer le vrai d'avec le faux, pour voir clair en mes actions, et marcher avec assurance en cette vie.",
+    "en": "I always had an intense desire to learn to distinguish the true from the false, in order to see clearly into my own actions and to walk with confidence in this life."
+  },
+  "author": {
+    "name": {
+      "fr": "Descartes",
+      "en": "Descartes"
+    },
+    "kind": "PHILOSOPHER",
+    "slug": "descartes"
+  },
+  "source": {
+    "fr": "Discours de la méthode, I",
+    "en": "Discourse on the Method, I"
+  },
+  "anchors": [
+    {
+      "axisId": "TRUTH_VALUE",
+      "poleId": "PRIMACY_OF_TRUTH"
+    }
+  ],
+  "updatedAt": "2026-07-19T00:00:00.000Z"
+}

@@ -2,6 +2,12 @@
 
 # Arguments
 
+## [Après la mort](../axes/afterlife.md)
+
+- [L'objection de la fuite](death-flight-from-finitude.md) (contre « L'âme immortelle »)
+- [L'objection de l'identité](death-identity-objection.md) (contre « L'âme immortelle »)
+- [L'argument de l'âme](death-immortalist-hope.md) (pour « L'âme immortelle »)
+
 ## [Rapport à la certitude](../axes/certainty.md)
 
 - [Le cogito](dogmatism-cogito.md) (pour « Dogmatisme »)
@@ -28,15 +34,12 @@
 
 ## [La mort](../axes/death.md)
 
-- [L'objection de l'angoisse](death-anxiety-objection.md) (contre « La mort n'est rien »)
-- [L'argument de l'authenticité](death-being-toward-death.md) (pour « Être-pour-la-mort »)
-- [L'argument de la privation](death-deprivation.md) (contre « La mort n'est rien »)
-- [L'argument de la symétrie](death-epicurean-symmetry.md) (pour « La mort n'est rien »)
-- [L'objection de la fuite](death-flight-from-finitude.md) (contre « Immortalisme »)
-- [L'objection de l'identité](death-identity-objection.md) (contre « Immortalisme »)
-- [L'argument de l'âme](death-immortalist-hope.md) (pour « Immortalisme »)
-- [L'objection de la rumination](death-morbid-rumination.md) (contre « Être-pour-la-mort »)
-- [L'objection du primat de la mort](death-primacy-objection.md) (contre « Être-pour-la-mort »)
+- [L'objection de l'angoisse](death-anxiety-objection.md) (contre « Se libérer de la crainte »)
+- [L'argument de l'authenticité](death-being-toward-death.md) (pour « Vivre en vue de sa mort »)
+- [L'argument de la privation](death-deprivation.md) (contre « Se libérer de la crainte »)
+- [L'argument de la symétrie](death-epicurean-symmetry.md) (pour « Se libérer de la crainte »)
+- [L'objection de la rumination](death-morbid-rumination.md) (contre « Vivre en vue de sa mort »)
+- [L'objection du primat de la mort](death-primacy-objection.md) (contre « Vivre en vue de sa mort »)
 
 ## [Rapport au désir](../axes/desire.md)
 
@@ -214,9 +217,9 @@
 - [Une vie d'emprunt](memory-borrowed-life.md) (contre « Mémoire-transmission »)
 - [Vous ne serez pas là](memory-transmission-illusion.md) (contre « Mémoire-transmission »)
 - [Nous sommes des héritiers](memory-we-are-heirs.md) (pour « Mémoire-transmission »)
-- [Une vie n'est pas un tas d'instants](present-narrative-identity.md) (contre « Présentisme »)
-- [Le seul temps qui soit nôtre](present-only-time-ours.md) (pour « Présentisme »)
-- [L'instant qui glisse](present-shallow-flight.md) (contre « Présentisme »)
+- [Une vie n'est pas un tas d'instants](present-narrative-identity.md) (contre « Vivre au présent »)
+- [Le seul temps qui soit nôtre](present-only-time-ours.md) (pour « Vivre au présent »)
+- [L'instant qui glisse](present-shallow-flight.md) (contre « Vivre au présent »)
 - [On remet toujours de vivre](project-deferred-life.md) (contre « Projet »)
 - [Exister, c'est se projeter](project-exist-is-to-project.md) (pour « Projet »)
 - [L'avenir n'est pas à vous](project-future-not-ours.md) (contre « Projet »)

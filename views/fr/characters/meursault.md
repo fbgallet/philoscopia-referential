@@ -43,9 +43,9 @@ Meursault déclare simplement ne pas croire en Dieu et tient la question pour sa
 
 *positionné · explicite dans les textes · majeure*
 
-**Déclarée** : Présentisme 80% · Projet 10% · Mémoire-transmission 10%
+**Déclarée** : Vivre au présent 80% · Projet 10% · Mémoire-transmission 10%
 
-**Pratiquée** : Présentisme 80% · Mémoire-transmission 15% · Projet 5%
+**Pratiquée** : Vivre au présent 80% · Mémoire-transmission 15% · Projet 5%
 
 Tout ce qui occupe et comble Meursault tient dans l'instant des sensations : le bain avec Marie, la cigarette fumée près du cercueil, le dimanche passé à regarder la rue du balcon. Quand son patron lui offre une situation à Paris, il la décline sans projet ni ambition, jugeant qu'on ne change jamais vraiment de vie. Privé de ce présent, il n'use du souvenir que pour tuer le temps, signe qu'il vivait jusque-là sans le secours d'aucun avenir ni d'aucun passé.
 
@@ -65,7 +65,7 @@ Quand Marie lui demande s'il l'aime, Meursault répond simplement que non sans d
 
 *positionné · inférable · mineure*
 
-**Pratiquée** : Sentimentalisme 70% · Intellectualisme 30%
+**Pratiquée** : Le primat du sentiment 70% · Primauté de la raison 30%
 
 Sa conduite n'est jamais gouvernée par la délibération rationnelle mais par les états du corps : la fatigue à l'enterrement, le soleil et la chaleur qui accablent sa conduite sur la plage. Il rapporte ses affects sans les maîtriser ni les juger, mais il ne leur prête pas non plus de vérité morale : c'est un sentimentalisme de fait, sensoriel, non revendiqué.
 
@@ -75,9 +75,9 @@ Sa conduite n'est jamais gouvernée par la délibération rationnelle mais par l
 
 *positionné · explicite dans les textes · majeure*
 
-**Déclarée** : La mort n'est rien 60% · Être-pour-la-mort 40%
+**Déclarée** : Se libérer de la crainte 60% · Vivre en vue de sa mort 40%
 
-**Pratiquée** : La mort n'est rien 60% · Être-pour-la-mort 40%
+**Pratiquée** : Se libérer de la crainte 60% · Vivre en vue de sa mort 40%
 
 <spo>Dans sa cellule, Meursault apprivoise sa mort : puisque tout le monde est condamné, mourir à trente ans ou à soixante-dix importe peu, et il écarte tout au-delà, ne souhaitant qu'une vie où il pourrait se souvenir de celle-ci. Cette confrontation lucide avec l'exécution, loin de le briser, le rend disponible au bonheur d'avoir vécu.</spo>
 

@@ -14,6 +14,26 @@
     "fr": "Une même action peut être approuvée ou condamnée selon qu'on regarde ses résultats, la règle qu'elle suit, le caractère qu'elle révèle ou l'attention qu'elle porte à autrui. Se positionner, c'est choisir laquelle de ces boussoles suivre quand elles n'indiquent pas la même direction.",
     "en": "One and the same action can be approved or condemned depending on whether we look at its results, the rule it follows, the character it reveals, or the care it shows toward others. To take a position is to choose which of these compasses to follow when they do not point the same way."
   },
+  "aliases": {
+    "fr": [
+      "morale",
+      "éthique",
+      "devoir",
+      "bien et mal",
+      "action juste",
+      "utilitarisme",
+      "conséquences"
+    ],
+    "en": [
+      "morality",
+      "ethics",
+      "duty",
+      "right and wrong",
+      "good and evil",
+      "utilitarianism",
+      "consequences"
+    ]
+  },
   "layer": "VALUE",
   "type": "CATEGORICAL",
   "poles": [
@@ -126,7 +146,9 @@
     "PARTIALITY",
     "PUNISHMENT",
     "RULE_SPIRIT",
-    "GOD_EXISTENCE"
+    "GOD_EXISTENCE",
+    "MORAL_SOURCE",
+    "MORAL_RESPONSIBILITY"
   ],
   "problems": [
     {
@@ -683,6 +705,9 @@
         }
       ],
       "doorways": [
+        {
+          "axis": "MORAL_SOURCE"
+        },
         {
           "axis": "MORAL_SCOPE",
           "problem": "are-there-moral-truths"

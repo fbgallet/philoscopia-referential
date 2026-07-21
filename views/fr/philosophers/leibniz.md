@@ -8,7 +8,7 @@ Esprit universel du [rationalisme](../movements/rationalism.md) allemand, né à
 
 ## Positions structurantes
 
-1. [Nature de l'esprit et du réel](../axes/reality-nature.md) : **Les véritables atomes de la nature ne sont pas matériels mais spirituels : le réel est fait de monades, substances simples sans fenêtres dont chacune exprime tout l'univers à sa façon.**
+1. [Nature du réel](../axes/reality-nature.md) : **Les véritables atomes de la nature ne sont pas matériels mais spirituels : le réel est fait de monades, substances simples sans fenêtres dont chacune exprime tout l'univers à sa façon.**
 2. [Tonalité du réel](../axes/cosmic-outlook.md) : **Parmi l'infinité des mondes possibles, Dieu, sage et bon, a nécessairement choisi le meilleur : nous vivons dans « le meilleur des mondes possibles ».**
 3. [Explication de la nature](../axes/causality.md) : **Nulle substance n'agit sur une autre : l'âme et le corps s'accordent par une harmonie préétablie réglée d'avance par Dieu, comme deux horloges parfaitement synchrones.**
 4. [Rapport à la certitude](../axes/certainty.md) : **Rien n'est sans [raison suffisante](../glossary/principle-of-sufficient-reason.md) : tout vrai pouvant en droit se démontrer, on pourrait un jour trancher les querelles en calculant comme deux comptables.**
@@ -40,7 +40,7 @@ Pour Leibniz, ce monde est le meilleur des mondes possibles, choisi par Dieu par
 
 *positionné · inférable · mineure*
 
-Immortalisme 90% · La mort n'est rien 5% · Être-pour-la-mort 5%
+Se préparer au passage 90% · Se libérer de la crainte 5% · Vivre en vue de sa mort 5%
 
 Chez Leibniz, aucune substance ne périt vraiment : la monade est indestructible, et ce qu'on nomme mort n'est qu'une enveloppe et une diminution, non un anéantissement. L'âme rationnelle conserve de surcroît son individualité, sa mémoire et son identité morale, gage d'une immortalité personnelle requise par la justice divine.
 
@@ -80,7 +80,7 @@ Deux principes gouvernent toute la connaissance : celui de contradiction, qui r�
 
 *Sources : De la méthode de l'universalité ; lettres sur la characteristica universalis · Monadologie, §31-32 (principes de contradiction et de raison suffisante)*
 
-### [Nature de l'esprit et du réel](../axes/reality-nature.md)
+### [Nature du réel](../axes/reality-nature.md)
 
 *positionné · explicite dans les textes · majeure*
 
@@ -234,7 +234,7 @@ Le bonheur consiste dans un progrès continuel vers de nouveaux plaisirs et de n
 
 *positionné · inférable · mineure*
 
-Intellectualisme 85% · Sentimentalisme 15%
+Primauté de la raison 85% · Le primat du sentiment 15%
 
 Tout l'édifice leibnizien fait de la raison le principe de la connaissance vraie et de la conduite : les petites perceptions confuses et les passions doivent être éclairées par l'entendement, et l'amour même se définit comme le plaisir pris à la perfection d'autrui, jugement plutôt que pur sentiment. La pente est intellectualiste, le sentiment restant subordonné à la clarté des idées.
 
@@ -256,7 +256,7 @@ Le débat transhumanisme / bioconservatisme sur la modification technique de la 
 
 *positionné · explicite dans les textes · majeure*
 
-Théodicée 90% · Défense par le libre arbitre 10%
+Le mal a ses raisons 100%
 
 Le mal n'est pas une réalité positive que Dieu aurait produite, mais une privation, une limitation inhérente à toute créature finie (mal métaphysique), dont découlent la souffrance (mal physique) et la faute (mal moral). Dieu ne veut pas le mal, il le permet seulement lorsqu'il est la condition d'un bien plus grand dans l'économie du tout. C'est la théodicée, mot que Leibniz forge pour « justifier Dieu » face à l'argument du mal : il transforme l'objection en montrant qu'un monde sans aucun mal serait moins parfait que le nôtre, et donc indigne d'un créateur sage. La position est résolument justificatrice plutôt que tragique ou révoltée.
 

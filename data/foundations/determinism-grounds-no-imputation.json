@@ -1,0 +1,12 @@
+{
+  "id": "determinism-grounds-no-imputation",
+  "ground": { "axisId": "FREEDOM", "poleId": "DETERMINISM" },
+  "grounded": { "axisId": "MORAL_RESPONSIBILITY", "poleId": "NO_IMPUTATION" },
+  "kind": "T_V",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si tout acte découle de causes antérieures, nul n'est l'auteur ultime de ce qu'il fait, et l'imputation perd son fondement : c'est le chemin qui mène de <ph id='spinoza'>Spinoza</ph> à Nietzsche vers l'innocence du devenir. Le lien n'est pas nécessaire : Spinoza lui-même garde la sanction comme instrument, et P.F. Strawson tient nos attitudes réactives pour indépendantes de la thèse déterministe.",
+    "en": "If every act follows from prior causes, no one is the ultimate author of what they do, and imputation loses its ground: this is the path leading from <ph id='spinoza'>Spinoza</ph> to Nietzsche toward the innocence of becoming. The link is not necessary: Spinoza himself keeps sanction as an instrument, and P.F. Strawson holds our reactive attitudes to be independent of the determinist thesis."
+  },
+  "updatedAt": "2026-07-20T00:00:00.000Z"
+}

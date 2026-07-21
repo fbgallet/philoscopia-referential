@@ -8,7 +8,7 @@
 
 ## Positions structurantes
 
-1. [Nature de l'esprit et du réel](../axes/reality-nature.md) : **Il n'y a pas de matière : « être, c'est être perçu », et les corps ne sont que des collections réglées d'idées dans des esprits.**
+1. [Nature du réel](../axes/reality-nature.md) : **Il n'y a pas de matière : « être, c'est être perçu », et les corps ne sont que des collections réglées d'idées dans des esprits.**
 2. [Existence de Dieu](../axes/god-existence.md) : **Si les choses existent quand nul homme ne les perçoit, c'est qu'un esprit infini les perçoit toutes : le monde est le langage par lequel Dieu nous parle.**
 3. [Rapport à la certitude](../axes/certainty.md) : **C'est la matière qui engendre le scepticisme : ôtez ce voile entre nous et les choses, et la perception redevient un savoir sûr.**
 4. [Les universaux](../axes/universals.md) : **On ne peut former l'idée d'un triangle qui ne soit aucun triangle particulier : les [idées générales abstraites](../glossary/abstract-general-ideas.md) sont une fiction, et c'est elle qui a forgé le concept vide de matière.**
@@ -16,7 +16,7 @@
 
 ## Positions
 
-### [Nature de l'esprit et du réel](../axes/reality-nature.md)
+### [Nature du réel](../axes/reality-nature.md)
 
 *positionné · explicite dans les textes · majeure*
 

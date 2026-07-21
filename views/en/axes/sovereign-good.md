@@ -6,7 +6,7 @@
 
 *The self · value · triangular · core axis*
 
-This ultimate end silently ranks all our trade-offs: health, work, relationships, and pleasures have worth only in relation to it. To mistake the highest good is to succeed at a life that was never one's own.
+"The highest good" is the classical name for happiness in the fullest sense: not the mood of a moment, but what makes an entire life a good one, what the Greeks called eudaimonia. What it consists in is another matter, and the question is far from idle: what fills a life with pleasure can drain it of meaning, and what makes it virtuous can cost it its happiness. Depending on the answer we give, often without ever putting it to ourselves, we do not pursue the same life, and an age does not set itself the same ideal of success.
 
 ## Poles
 
@@ -38,7 +38,7 @@ Only virtue, or the good will, has unconditional worth: the good life is the mor
 - **Virtue in the face of misfortune** → [The Just Man Struck by Misfortune](../thought-experiments/fragility-of-goodness.md)
 - **Succeeding without uprightness**
 - **Quantity or quality of pleasures** : Is a good life measured by the sum of its pleasures, or are some pleasures worth more than others, regardless of their intensity?
-- **The happy fool** : Is a lucid life better, even if troubled by what it discovers, than a happy life in ignorance? Is truth part of the good?
+- **The happy fool** : Does a happiness built on ignorance still count as a successful life, or is the good then missing one of its ingredients?
 - **Enjoyment or tranquillity** : Is the highest good to enjoy as much as possible, or to free oneself from disturbance and pain, even at the cost of desiring only what is necessary?
 - **One good, or many?** : Is there a single supreme good that orders all the others, or plural and incommensurable goods that can conflict with no common measure?
 - **The three lives** : Among the life of pleasure, the active life turned toward the city, and the contemplative life, which deserves to be called the highest?
@@ -67,7 +67,7 @@ Only virtue, or the good will, has unconditional worth: the good life is the mor
 - *[Tonality of reality](../axes/cosmic-outlook.md) : Metaphysical optimism* grounds *[The highest good](../axes/sovereign-good.md) : Virtue / moral perfectionism* : If the world is a rational and providential order, to live well is to attune one's will to that order, that is, to virtue, whatever it costs in pleasure. Trust in a rational cosmos grounds moral perfectionism: for the Stoics, only virtue, in accord with the world's [logos](../glossary/logos.md), has unconditional worth.
 - *[Source of knowledge](../axes/knowledge-source.md) : Empiricism* grounds *[The highest good](../axes/sovereign-good.md) : Hedonism* : If all knowledge, including knowledge of the good, comes from experience, then it is in felt pleasure and pain that what is worthwhile is read, for they are the only values given directly to the senses. Empiricism grounds hedonism: [Bentham](../philosophers/bentham.md) makes pleasure and pain the 'sovereign masters' by which every good is measured.
 - *[Essence and existence](../axes/essence.md) : Essentialism* grounds *[The highest good](../axes/sovereign-good.md) : Eudaimonism* : If the human being has a proper nature, a function that defines it, then a life is good when it fully accomplishes that function. Essentialism grounds eudaimonism: [Aristotle](../philosophers/aristotle.md) draws the highest good from man's proper function, the excellent exercise of reason, of which pleasure is only the accompaniment.
-- *[Nature of mind and reality](../axes/reality-nature.md) : Materialism* grounds *[The highest good](../axes/sovereign-good.md) : Hedonism* : If only bodies and their affections exist, with no immortal soul or transcendent end, the good can be measured only by pleasure and the absence of pain. Materialism grounds hedonism: for [Epicurus](../philosophers/epicurus.md), it is because all is atoms and nothing awaits us after death that a successful life plays out in well-understood pleasure.
+- *[Nature of reality](../axes/reality-nature.md) : Materialism* grounds *[The highest good](../axes/sovereign-good.md) : Hedonism* : If only bodies and their affections exist, with no immortal soul or transcendent end, the good can be measured only by pleasure and the absence of pain. Materialism grounds hedonism: for [Epicurus](../philosophers/epicurus.md), it is because all is atoms and nothing awaits us after death that a successful life plays out in well-understood pleasure.
 
 ## Quotations
 
@@ -103,7 +103,7 @@ Only virtue, or the good will, has unconditional worth: the good life is the mor
 
 ## Related axes
 
-[Beauty in life](../axes/aesthetic-life.md) · [Bodily pleasures](../axes/bodily-pleasures.md) · [Relation to desire](../axes/desire.md) · [The meaning of life](../axes/life-meaning.md) · [Nature and culture](../axes/human-nature.md) · [Scope of action](../axes/control-scope.md) · [Interiority](../axes/interiority.md) · [Where the sacred resides](../axes/transcendence.md) · [Belonging](../axes/belonging.md) · [Ethics of belief](../axes/belief-ethics.md) · [Distributive justice](../axes/distributive-justice.md) · [The point of philosophy](../axes/metaphilosophy.md)
+[Beauty in life](../axes/aesthetic-life.md) · [Bodily pleasures](../axes/bodily-pleasures.md) · [Relation to desire](../axes/desire.md) · [The meaning of life](../axes/life-meaning.md) · [Nature and culture](../axes/human-nature.md) · [Scope of action](../axes/control-scope.md) · [Interiority](../axes/interiority.md) · [Where the sacred resides](../axes/transcendence.md) · [Belonging](../axes/belonging.md) · [Ethics of belief](../axes/belief-ethics.md) · [Distributive justice](../axes/distributive-justice.md) · [The point of philosophy](../axes/metaphilosophy.md) · [The value of truth](../axes/truth-value.md)
 
 ---
 

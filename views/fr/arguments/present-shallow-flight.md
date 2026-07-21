@@ -2,7 +2,7 @@
 
 # L'instant qui glisse
 
-*Objection à [Orientation temporelle](../axes/time-orientation.md) : Présentisme*
+*Objection à [Orientation temporelle](../axes/time-orientation.md) : Vivre au présent*
 
 **À ne vivre que l'instant, on effleure la vie sans jamais l'habiter.**
 

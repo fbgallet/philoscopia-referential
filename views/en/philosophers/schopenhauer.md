@@ -8,7 +8,7 @@ A German philosopher, Schopenhauer published his single system at thirty, *[The 
 
 ## Core positions
 
-1. [Nature of mind and reality](../axes/reality-nature.md) : **The world is [representation](../glossary/representation.md) for a subject and, at bottom, Will: a blind willing, without reason or goal, of which our body is the immediate manifestation.**
+1. [Nature of reality](../axes/reality-nature.md) : **The world is [representation](../glossary/representation.md) for a subject and, at bottom, Will: a blind willing, without reason or goal, of which our body is the immediate manifestation.**
 2. [Tonality of reality](../axes/cosmic-outlook.md) : **Existence is a business that does not cover its costs: suffering is the ground of life, and optimism a bitter mockery of humanity's unspeakable ills.**
 3. [Relation to desire](../axes/desire.md) : **Every desire is born of a lack, hence of suffering: once satisfied, it yields only a negative pleasure that lapses into [boredom](../glossary/ennui.md), and life swings like a pendulum between pain and boredom.**
 4. [The meaning of life](../axes/life-meaning.md) : **There is no meaning to be realized in the world, only a deliverance to be won against it: through contemplation, [compassion](../glossary/compassion.md), then [asceticism](../glossary/asceticism.md), the [will-to-live](../glossary/vouloir-vivre.md) can deny itself.**
@@ -16,7 +16,7 @@ A German philosopher, Schopenhauer published his single system at thirty, *[The 
 
 ## Positions
 
-### [Nature of mind and reality](../axes/reality-nature.md)
+### [Nature of reality](../axes/reality-nature.md)
 
 *positioned · explicit in the texts · major*
 
@@ -68,7 +68,7 @@ The world offers no end to realize: the [will-to-live](../glossary/vouloir-vivre
 
 *positioned · explicit in the texts · major*
 
-Sentimentalism 88% · Intellectualism 13%
+The primacy of feeling 88% · The primacy of reason 13%
 
 Against [Kant](../philosophers/kant.md), whose categorical imperative he dismantles as a disguised moral theology, he holds that an action has moral worth only if its motive is [compassion](../glossary/compassion.md), the immediate and disinterested participation in another's suffering, 'the primal and mysterious phenomenon of ethics.' Reason is merely an instrument in the service of the will: it calculates means, it does not make one good, and the clever egoist is only the more dangerous for it.
 
@@ -184,7 +184,7 @@ The declared ideal is [asceticism](../glossary/asceticism.md): chastity, volunta
 
 *positioned · explicit in the texts · minor*
 
-Argument from evil (atheism) 60% · Revolt / anti-theodicy 40%
+Evil refutes God 60% · Unjustifiable evil 40%
 
 A reversal of [Leibniz](../philosophers/leibniz.md): this world is not the best but the worst of all possible worlds, for a world even slightly worse could no longer subsist. Evil is not a deficiency of being to be excused but the positive substance of existence, a decisive proof against any good creator; every theodicy is thereby an indecency.
 
@@ -220,7 +220,7 @@ The Platonic Ideas, grades of the will's objectification, are more real than the
 
 *Sources : The World as Will and Representation, Book III*
 
-### [Nature of consciousness](../axes/consciousness-nature.md)
+### [The enigma of consciousness](../axes/consciousness-nature.md)
 
 *positioned · inferable · minor*
 
@@ -274,7 +274,7 @@ Hope is the falsification of judgment by desire: the will corrupts the intellect
 
 *positioned · explicit in the texts · minor*
 
-Death is nothing 35% · Being-toward-death 30% · Immortalism 30% · Revolt / refusal 5%
+Freeing ourselves from the fear 50% · Living in view of one's death 35% · Preparing for the passage 10% · Refusing death 5%
 
 A threefold consolation against the fear of death: the symmetry argument, the state after our death is none other than the state before our birth, hence a matter of indifference; death as the 'muse of philosophy,' without which one would hardly philosophize; and the indestructibility of our being-in-itself, the will, which knows neither time nor end, though no person survives.
 
@@ -284,7 +284,7 @@ A threefold consolation against the fear of death: the symmetry argument, the st
 
 *positioned · explicit in the texts · minor*
 
-Presentism 70% · Memory and transmission 20% · Project 10%
+Living in the present 70% · Memory and transmission 20% · Project 10%
 
 Only the present is real: the past is no longer, the future not yet, and whoever lives in expectation of a future happiness always lives 'later,' deferring his life. The very form of existence is a present without extension, a moving point on which the task is to stand rather than to flee ahead.
 
@@ -465,6 +465,16 @@ Philosophy does not transform the world and issues no rules: it interprets and d
 > “Philosophy can never do more than interpret and explain what exists.”, The World as Will and Representation, §53
 
 *Sources : The World as Will and Representation, §53*
+
+### [The value of truth](../axes/truth-value.md)
+
+*positioned · inferable · minor*
+
+The primacy of truth 80% · Vital illusions 20%
+
+The whole edifice rests on the refusal of consolations: optimism is not merely false but indecent before the world's suffering, and seeing to the bottom of the Will is the condition of all wisdom. Deliverance comes through more lucidity, contemplation and the negation of willing, never through a better-chosen illusion.
+
+*Sources : The World as Will and Representation (1818)*
 
 ## Influenced by
 

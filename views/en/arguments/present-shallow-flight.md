@@ -2,7 +2,7 @@
 
 # The instant that slips by
 
-*Objection to [Temporal orientation](../axes/time-orientation.md) : Presentism*
+*Objection to [Temporal orientation](../axes/time-orientation.md) : Living in the present*
 
 **By living only the instant, one skims over life without ever inhabiting it.**
 

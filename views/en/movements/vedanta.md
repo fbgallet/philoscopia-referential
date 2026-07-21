@@ -10,7 +10,7 @@ Vedānta ("the end of the Veda") is the great tradition that interprets the Upan
 
 ## Core positions
 
-1. [Nature of mind and reality](../axes/reality-nature.md) : **Only [brahman](../glossary/brahman.md), pure consciousness, is real; the plurality of the world is mere [māyā](../glossary/maya.md), appearance superimposed on the one absolute.**
+1. [Nature of reality](../axes/reality-nature.md) : **Only [brahman](../glossary/brahman.md), pure consciousness, is real; the plurality of the world is mere [māyā](../glossary/maya.md), appearance superimposed on the one absolute.**
 2. [Nature of the self](../axes/self-nature.md) : **The [Self (ātman)](../glossary/atman.md) is identical with [brahman](../glossary/brahman.md): "thou art that" (tat tvam asi), and no flux of aggregates could appear without this permanent witness.**
 3. [Existence of God](../axes/god-existence.md) : **The ultimate absolute is without attributes (nirguṇa); the personal creator God is only its conventional (vyāvahārika) figure, seen through [māyā](../glossary/maya.md).**
 4. [The meaning of suffering](../axes/suffering-meaning.md) : **Suffering arises from an error of knowledge, not from being: like the fear of a snake that was only a rope, it is dispelled, not redeemed.**
@@ -48,7 +48,7 @@ At the empirical level, the embodied self (jiva) is bound by karma and wrapped i
 
 *Sources : Shankara, Commentary on the Brahma Sutras · Upanishads (Katha, Mundaka)*
 
-### [Nature of mind and reality](../axes/reality-nature.md)
+### [Nature of reality](../axes/reality-nature.md)
 
 *positioned · explicit in the texts · major*
 
@@ -134,7 +134,7 @@ The Advaitic path is wholly turned toward interiority: liberation is decided in 
 
 *positioned · inferable · minor*
 
-Intellectualism 80% · Sentimentalism 20%
+The primacy of reason 80% · The primacy of feeling 20%
 
 Since bondage rests on a cognitive error, avidyā (ignorance), it is knowledge, not the cultivation of feeling, that transforms the subject. Emotions and attachment are effects of the false identification with body and mind, which discrimination (viveka) between the real and the apparent comes to correct. The lever of liberation is intellectual, which inclines toward intellectualism.
 
@@ -176,7 +176,7 @@ The knowledge that liberates falls under neither empiricism nor pure rationalism
 
 *positioned · inferable · minor*
 
-Immortalism 60% · Death is nothing 20% · Being-toward-death 20%
+Preparing for the passage 60% · Freeing ourselves from the fear 20% · Living in view of one's death 20%
 
 For Vedanta, the Self (atman) is eternal and does not die: death reaches only the body and the empirical person, while the atman transmigrates from life to life according to karma. It is therefore first an immortalism (the Self survives, indestructible), coupled with a passage (death is but a stage) and a preparation (dying well orients what follows), until the liberation (moksha) that dissolves transmigration itself.
 

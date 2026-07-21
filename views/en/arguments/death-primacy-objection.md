@@ -2,7 +2,7 @@
 
 # The primacy-of-death objection
 
-*Objection to [Death](../axes/death.md) : Being-toward-death*
+*Objection to [Death](../axes/death.md) : Living in view of one's death*
 
 **It is not death, but life and others, that return us to ourselves.**
 

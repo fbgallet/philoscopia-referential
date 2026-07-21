@@ -1,0 +1,512 @@
+{
+  "id": "AFTERLIFE",
+  "relation": "SELF",
+  "territory": "EXISTENCE",
+  "label": {
+    "fr": "Après la mort",
+    "en": "After death"
+  },
+  "question": {
+    "fr": "Quelque chose de nous survit-il à la mort ?",
+    "en": "Does something of us survive death?"
+  },
+  "stakes": {
+    "fr": "C'est peut-être la plus ancienne question humaine : les tombes sont plus vieilles que l'écriture. Si une âme survit, si quelque chose renaît, la mort change de sens et la vie présente devient préparation, épreuve ou passage ; si rien ne survit, tout ce qui compte doit tenir entre la naissance et la fin. Se positionner, c'est dire ce que la mort termine vraiment, et ce qu'on peut, sans se payer de mots, espérer lui voir échapper.",
+    "en": "It may be humanity's oldest question: graves are older than writing. If a soul survives, if something is reborn, death changes meaning and this life becomes a preparation, a trial, or a passage; if nothing survives, everything that matters must fit between birth and the end. To take a position is to say what death really ends, and what we can honestly hope escapes it."
+  },
+  "aliases": {
+    "fr": [
+      "au-delà",
+      "vie après la mort",
+      "âme",
+      "immortalité",
+      "réincarnation",
+      "survie"
+    ],
+    "en": [
+      "afterlife",
+      "life after death",
+      "soul",
+      "immortality",
+      "reincarnation",
+      "survival"
+    ]
+  },
+  "layer": "THEORY",
+  "type": "TRIANGULAR",
+  "poles": [
+    {
+      "id": "IMMORTAL_SOUL",
+      "label": {
+        "fr": "L'âme immortelle",
+        "en": "The immortal soul"
+      },
+      "description": {
+        "fr": "Quelque chose en nous n'est pas du corps et ne meurt pas avec lui : une âme, un principe spirituel, qui poursuit son existence après la dissolution du corps. La mort n'est alors pas une fin mais une séparation ; ce que nous avons de plus propre est précisément ce qui ne peut pas mourir.",
+        "en": "Something in us is not of the body and does not die with it: a soul, a spiritual principle, whose existence continues after the body dissolves. Death is then not an end but a separation; what is most our own is precisely what cannot die."
+      },
+      "nuances": [
+        {
+          "fr": "Dans les monothéismes, la survie de l'âme s'achève en résurrection : pour Thomas d'Aquin, l'âme séparée subsiste, mais la personne n'est complète qu'au corps retrouvé. Le mode de la survie (âme immortelle par nature, ou personne rétablie par un acte de Dieu) est la querelle interne du pôle.",
+          "en": "In the monotheisms, the soul's survival is completed by resurrection: for Thomas Aquinas, the separated soul subsists, but the person is whole only once the body is restored. The mode of survival (a soul immortal by nature, or a person restored by an act of God) is the pole's internal quarrel."
+        }
+      ],
+      "figures": [
+        {
+          "slug": "plato",
+          "name": {
+            "fr": "Platon",
+            "en": "Plato"
+          }
+        },
+        {
+          "slug": "plotinus",
+          "name": {
+            "fr": "Plotin",
+            "en": "Plotinus"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REBIRTH",
+      "label": {
+        "fr": "La renaissance",
+        "en": "Rebirth"
+      },
+      "description": {
+        "fr": "La mort n'est pas une fin mais un relais : quelque chose se poursuit de vie en vie, héritant des actes accomplis. Nul créateur n'est requis pour que cette loi opère, la mémoire n'accompagne généralement pas le passage, et ce qui renaît n'est pas forcément une âme : la vie présente hérite des précédentes et prépare les suivantes.",
+        "en": "Death is not an end but a relay: something continues from life to life, inheriting the deeds done. No creator is required for this law to operate, memory does not usually accompany the passage, and what is reborn need not be a soul: this life inherits from previous ones and prepares the next."
+      },
+      "nuances": [
+        {
+          "fr": "Dans le bouddhisme, la renaissance se fait sans âme : un flux de conditions se transmet, comme une flamme en allume une autre, sans substance qui voyage.",
+          "en": "In Buddhism, rebirth takes place without a soul: a stream of conditions is passed on, as one flame lights another, with no substance that travels."
+        },
+        {
+          "fr": "Dans l'Advaita de Shankara, la renaissance est réelle au plan conventionnel mais n'est pas le dernier mot : la délivrance est précisément la fin des renaissances, avec l'ignorance qui entretient l'illusion d'un soi séparé.",
+          "en": "In Shankara's Advaita, rebirth is real at the conventional level but not the last word: liberation is precisely the end of rebirths, along with the ignorance that sustains the illusion of a separate self."
+        }
+      ],
+      "figures": [
+        {
+          "slug": "buddha",
+          "name": {
+            "fr": "Bouddha",
+            "en": "Buddha"
+          }
+        },
+        {
+          "slug": "shankara",
+          "name": {
+            "fr": "Shankara",
+            "en": "Shankara"
+          }
+        }
+      ]
+    },
+    {
+      "id": "NOTHING_SURVIVES",
+      "label": {
+        "fr": "Rien ne survit",
+        "en": "Nothing survives"
+      },
+      "description": {
+        "fr": "La personne finit avec le corps : la conscience, née de la matière organisée, se défait avec elle. Ce qui demeure n'est pas elle : des œuvres, des enfants, une mémoire chez d'autres, des traces qui durent tant qu'on les porte. La seule éternité disponible est celle des choses faites, non de celui qui les a faites.",
+        "en": "The person ends with the body: consciousness, born of organized matter, comes undone with it. What remains is not the person: works, children, a memory in others, traces that last as long as someone carries them. The only eternity available is that of things done, not of the one who did them."
+      },
+      "nuances": [
+        {
+          "fr": "L'immortalité symbolique (survivre dans ses œuvres, sa descendance, la mémoire, de Diotime à Arendt) n'est pas une survie de la personne : c'est une réponse existentielle au fait qu'il n'y en a pas. Elle se discute ici et sur l'axe des attitudes devant la mort.",
+          "en": "Symbolic immortality (living on in one's works, descendants, and memory, from Diotima to Arendt) is not survival of the person: it is an existential answer to the fact that there is none. It is discussed here and on the axis of attitudes toward death."
+        }
+      ],
+      "figures": [
+        {
+          "slug": "epicurus",
+          "name": {
+            "fr": "Épicure",
+            "en": "Epicurus"
+          }
+        },
+        {
+          "slug": "lucretius",
+          "name": {
+            "fr": "Lucrèce",
+            "en": "Lucretius"
+          }
+        }
+      ]
+    }
+  ],
+  "core": true,
+  "difficulty": 1,
+  "clusters": [],
+  "relatedAxes": [
+    "DEATH",
+    "GOD_EXISTENCE",
+    "SELF_NATURE",
+    "CONSCIOUSNESS_NATURE",
+    "TRUTH_VALUE",
+    "TRANSCENDENCE",
+    "REALITY_NATURE"
+  ],
+  "problems": [
+    {
+      "id": "who-would-survive",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "le survivant",
+        "en": "the survivor"
+      },
+      "mode": "DESCRIPTIVE",
+      "keywords": [
+        {
+          "fr": "identité personnelle",
+          "en": "personal identity"
+        },
+        {
+          "fr": "re-création",
+          "en": "re-creation"
+        },
+        {
+          "fr": "mémoire",
+          "en": "memory"
+        }
+      ],
+      "poles": [
+        "IMMORTAL_SOUL",
+        "REBIRTH"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Locke",
+            "en": "Locke"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "locke"
+        },
+        {
+          "name": {
+            "fr": "van Inwagen",
+            "en": "van Inwagen"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "van-inwagen"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "SELF_NATURE"
+        }
+      ],
+      "title": {
+        "fr": "Serait-ce encore moi ?",
+        "en": "Would it still be me?"
+      },
+      "explicitation": {
+        "fr": "Une âme sans mémoire, un corps re-créé, un flux qui renaît sous une autre forme : à quelles conditions le survivant serait-il moi, et non un autre qui me ressemble ou me continue ?",
+        "en": "A soul without memory, a re-created body, a stream reborn in another form: under what conditions would the survivor be me, and not someone else who resembles or continues me?"
+      }
+    },
+    {
+      "id": "resurrection-or-soul",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "la personne ressuscitée",
+        "en": "the resurrected person"
+      },
+      "mode": "DESCRIPTIVE",
+      "keywords": [
+        {
+          "fr": "résurrection",
+          "en": "resurrection"
+        },
+        {
+          "fr": "Athènes et Jérusalem",
+          "en": "Athens and Jerusalem"
+        },
+        {
+          "fr": "re-création divine",
+          "en": "divine re-creation"
+        }
+      ],
+      "poles": [
+        "IMMORTAL_SOUL"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Thomas d'Aquin",
+            "en": "Thomas Aquinas"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "aquinas"
+        },
+        {
+          "name": {
+            "fr": "van Inwagen",
+            "en": "van Inwagen"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "van-inwagen"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "GOD_EXISTENCE"
+        }
+      ],
+      "title": {
+        "fr": "Âme immortelle ou résurrection ?",
+        "en": "Immortal soul or resurrection?"
+      },
+      "explicitation": {
+        "fr": "La survie tient-elle à la nature de l'âme, ou à un acte de Dieu qui rétablit la personne entière, corps compris ? Athènes et Jérusalem divergent ici, et le corps re-créé pose une énigme : serait-il le même, ou une copie parfaite ?",
+        "en": "Does survival rest on the soul's nature, or on an act of God restoring the whole person, body included? Athens and Jerusalem part ways here, and the re-created body poses a riddle: would it be the same one, or a perfect copy?"
+      }
+    },
+    {
+      "id": "rebirth-without-self",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "ce qui renaît",
+        "en": "what is reborn"
+      },
+      "mode": "DESCRIPTIVE",
+      "keywords": [
+        {
+          "fr": "non-soi",
+          "en": "non-self"
+        },
+        {
+          "fr": "karma",
+          "en": "karma"
+        },
+        {
+          "fr": "flux de conditions",
+          "en": "stream of conditions"
+        }
+      ],
+      "poles": [
+        "REBIRTH"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Bouddha",
+            "en": "Buddha"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "buddha"
+        },
+        {
+          "name": {
+            "fr": "Nagarjuna",
+            "en": "Nagarjuna"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "nagarjuna"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "SELF_NATURE"
+        }
+      ],
+      "title": {
+        "fr": "Renaître sans âme ?",
+        "en": "Reborn without a soul?"
+      },
+      "explicitation": {
+        "fr": "Si aucun soi substantiel ne voyage de vie en vie, qu'est-ce qui renaît, et en quel sens mes actes présents concernent-ils celui qui en héritera le fruit ? La flamme qui en allume une autre est-elle la même ou une autre ?",
+        "en": "If no substantial self travels from life to life, what is reborn, and in what sense do my present deeds concern the one who will inherit their fruit? Is the flame that lights another the same flame or another?"
+      }
+    },
+    {
+      "id": "thought-without-brain",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "l'esprit et le cerveau",
+        "en": "mind and brain"
+      },
+      "mode": "DESCRIPTIVE",
+      "keywords": [
+        {
+          "fr": "dépendance au cerveau",
+          "en": "dependence on the brain"
+        },
+        {
+          "fr": "arguments de Lucrèce",
+          "en": "Lucretius' arguments"
+        },
+        {
+          "fr": "l'instrument et le musicien",
+          "en": "the instrument and the musician"
+        }
+      ],
+      "poles": [
+        "IMMORTAL_SOUL",
+        "NOTHING_SURVIVES"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Lucrèce",
+            "en": "Lucretius"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "lucretius"
+        },
+        {
+          "name": {
+            "fr": "Descartes",
+            "en": "Descartes"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "descartes"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "CONSCIOUSNESS_NATURE"
+        }
+      ],
+      "title": {
+        "fr": "Penser sans cerveau ?",
+        "en": "Thinking without a brain?"
+      },
+      "explicitation": {
+        "fr": "L'esprit naît, mûrit et défaille avec le corps, s'enivre avec lui, s'éteint sous un choc : ces liaisons prouvent-elles que la pensée meurt avec la chair, ou seulement que l'instrument conditionne l'usage sans être le musicien ?",
+        "en": "The mind is born, matures, and fails with the body, is befuddled by its wine, goes out under a blow: do these bonds prove that thought dies with the flesh, or only that the instrument conditions the playing without being the musician?"
+      }
+    },
+    {
+      "id": "believing-what-we-hope",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "la croyance en la survie",
+        "en": "belief in survival"
+      },
+      "mode": "DESCRIPTIVE",
+      "keywords": [
+        {
+          "fr": "projection",
+          "en": "projection"
+        },
+        {
+          "fr": "consolation",
+          "en": "consolation"
+        },
+        {
+          "fr": "prendre ses désirs pour la réalité",
+          "en": "wishful thinking"
+        }
+      ],
+      "poles": [
+        "IMMORTAL_SOUL",
+        "REBIRTH"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Feuerbach",
+            "en": "Feuerbach"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "feuerbach"
+        },
+        {
+          "name": {
+            "fr": "Freud",
+            "en": "Freud"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "freud"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "GOD_EXISTENCE",
+          "problem": "projection-and-suspicion"
+        },
+        {
+          "axis": "TRUTH_VALUE"
+        }
+      ],
+      "title": {
+        "fr": "Croire ce qu'on espère ?",
+        "en": "Believing what we hope?"
+      },
+      "explicitation": {
+        "fr": "La survie est ce que nous avons le plus de raisons de désirer et le moins de moyens de vérifier : la croyance qui console est-elle par là suspecte, ou l'origine d'un espoir ne dit-elle rien de sa vérité ?",
+        "en": "Survival is what we have most reason to desire and least means to verify: is a consoling belief thereby suspect, or does the origin of a hope say nothing about its truth?"
+      }
+    },
+    {
+      "id": "surviving-in-our-works",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "les traces laissées",
+        "en": "the traces left behind"
+      },
+      "mode": "DESCRIPTIVE",
+      "keywords": [
+        {
+          "fr": "immortalité symbolique",
+          "en": "symbolic immortality"
+        },
+        {
+          "fr": "postérité",
+          "en": "posterity"
+        },
+        {
+          "fr": "Diotime",
+          "en": "Diotima"
+        }
+      ],
+      "poles": [
+        "NOTHING_SURVIVES"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Platon (Diotime)",
+            "en": "Plato (Diotima)"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "plato"
+        },
+        {
+          "name": {
+            "fr": "Arendt",
+            "en": "Arendt"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "arendt"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "DEATH",
+          "problem": "symbolic-immortality"
+        }
+      ],
+      "title": {
+        "fr": "Survivre dans ses œuvres ?",
+        "en": "Living on in one's works?"
+      },
+      "explicitation": {
+        "fr": "Les œuvres, les enfants, la mémoire prolongent un nom, non une conscience : cette immortalité par procuration mérite-t-elle le mot de survie, ou n'est-elle qu'une consolation qui en détourne le sens ?",
+        "en": "Works, children, and memory prolong a name, not a consciousness: does this immortality by proxy deserve the word survival, or is it a consolation that changes the subject?"
+      }
+    }
+  ]
+}

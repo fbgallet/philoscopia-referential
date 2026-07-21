@@ -1,0 +1,23 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "pereboom",
+  "stub": true,
+  "name": {
+    "fr": "Derk Pereboom",
+    "en": "Derk Pereboom"
+  },
+  "summary": {
+    "fr": "Philosophe américain contemporain, principal défenseur de l'<c id='free-will'>incompatibilisme</c> dur : nul ne mérite au fond blâme ni châtiment, mais on peut protéger et réformer sur le modèle d'une « quarantaine », sans invoquer de mérite.",
+    "en": "Contemporary American philosopher, the leading defender of hard <c id='free-will'>incompatibilism</c>: no one basically deserves blame or punishment, yet we may protect and reform on a \"quarantine\" model, without invoking desert."
+  },
+  "birth": 1957,
+  "nationality": {
+    "fr": "Américain",
+    "en": "American"
+  },
+  "movements": [],
+  "updatedAt": "2026-07-20T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

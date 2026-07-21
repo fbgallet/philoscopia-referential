@@ -1,0 +1,35 @@
+{
+  "id": "others",
+  "label": {
+    "fr": "Autrui",
+    "en": "Others"
+  },
+  "aliases": {
+    "fr": [
+      "autrui",
+      "les autres",
+      "altérité",
+      "prochain",
+      "relation aux autres",
+      "empathie",
+      "altruisme"
+    ],
+    "en": [
+      "others",
+      "other people",
+      "otherness",
+      "neighbor",
+      "relation to others",
+      "empathy",
+      "altruism"
+    ]
+  },
+  "axes": [
+    "SELF_INTEREST",
+    "PARTIALITY",
+    "BELONGING",
+    "INDIVIDUAL_SOCIETY",
+    "FORGIVENESS",
+    "MORAL_CIRCLE"
+  ]
+}

@@ -110,7 +110,7 @@ Le sommet de la connaissance, le troisième genre, saisit les choses en Dieu ; c
 
 *positionné · explicite dans les textes · majeure*
 
-Intellectualisme 70% · Sentimentalisme 30%
+Primauté de la raison 70% · Le primat du sentiment 30%
 
 Puisque les affects suivent de la nécessité naturelle au même titre que tout le reste, les blâmer est vain : Spinoza propose de les traiter « comme s'il était question de lignes et de plans ». Son argument thérapeutique est précis : une passion est une idée confuse, donc une passivité ; en former une [idée claire](../glossary/adequate-idea.md) la convertit en action, si bien que comprendre un affect, c'est déjà s'en affranchir, non le réprimer.
 
@@ -150,7 +150,7 @@ Chercher son propre utile est le fondement même de la vertu, mais l'utile bien 
 
 *Sources : Éthique, IV, prop. 18, scolie (chercher son utile, fondement de la vertu) · Éthique, IV, prop. 35, corollaire (rien de plus utile à l'homme que l'homme)*
 
-### [Nature de l'esprit et du réel](../axes/reality-nature.md)
+### [Nature du réel](../axes/reality-nature.md)
 
 *positionné · inférable · mineure*
 
@@ -234,7 +234,7 @@ La tristesse est toujours le passage à une moindre perfection, une diminution d
 
 *positionné · inférable · mineure*
 
-La mort n'est rien 70% · Immortalisme 20% · Être-pour-la-mort 5% · Révolte / refus 5%
+Se libérer de la crainte 70% · Se préparer au passage 20% · Vivre en vue de sa mort 5% · Refuser la mort 5%
 
 Pour l'homme libre, la crainte de mourir est une passion née d'[idées inadéquates](../glossary/adequate-idea.md), à dissoudre par la connaissance : l'homme libre ne pense à rien moins qu'à la mort. L'éternité de l'esprit qu'il évoque n'est pas une survie personnelle dans la durée, d'où une part résiduelle d'immortalisme. Et si tout être s'efforce de persévérer dans l'être (conatus), ce refus métaphysique de sa propre destruction reste second devant la sérénité du sage.
 
@@ -260,7 +260,7 @@ L'Éthique est démontrée « à la manière des géomètres » : tout le savoir
 
 *Sources : Éthique, I ; Traité de la réforme de l'entendement*
 
-### [Nature de la conscience](../axes/consciousness-nature.md)
+### [L'énigme de la conscience](../axes/consciousness-nature.md)
 
 *positionné · inférable · mineure*
 
@@ -301,6 +301,16 @@ Au fond de l'amour, Spinoza ne voit ni manque ni don mais une joie : aimer, c'es
 > « Qui aime Dieu ne peut faire effort pour que Dieu l'aime en retour. », Éthique, V, prop. 19
 
 *Sources : Éthique, III (définition de l'amour) ; IV, prop. 35-37 et 70-71 (l'amitié des hommes raisonnables) ; V, prop. 19 et 32-37 (l'amour intellectuel de Dieu)*
+
+### [Valeur de la vérité](../axes/truth-value.md)
+
+*positionné · explicite dans les textes · majeure*
+
+Primauté de la vérité 95% · Illusions vitales 5%
+
+Comprendre est l'unique salut : chaque idée adéquate accroît la puissance d'agir, et la béatitude n'est rien d'autre que l'amour intellectuel qui naît de la connaissance du troisième genre. L'illusion n'est pas d'abord une faute mais une impuissance, une idée mutilée qui nous fait subir ; il ne s'agit ni de railler ni de maudire, mais de comprendre, parce que comprendre est déjà être libre.
+
+*Sources : Éthique, IV-V · Traité politique, I*
 
 ## Influencé par
 

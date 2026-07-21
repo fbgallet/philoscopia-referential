@@ -8,7 +8,7 @@ Le vouloir-vivre (Wille zum Leben) est, chez [Schopenhauer](../philosophers/scho
 
 **Porte une position vers** : [Tonalité du réel](../axes/cosmic-outlook.md) : Pensée tragique
 
-**En jeu dans** : [Nature de l'esprit et du réel](../axes/reality-nature.md) · [Rapport au désir](../axes/desire.md) · [Tonalité du réel](../axes/cosmic-outlook.md) · [Le sens de la vie](../axes/life-meaning.md)
+**En jeu dans** : [Nature du réel](../axes/reality-nature.md) · [Rapport au désir](../axes/desire.md) · [Tonalité du réel](../axes/cosmic-outlook.md) · [Le sens de la vie](../axes/life-meaning.md)
 
 **Voir aussi** : [La chose en soi](../glossary/thing-in-itself.md) · [Volonté de puissance](../glossary/will-to-power.md) · [Nirvāṇa / Nibbāna (extinction, libération)](../glossary/nirvana.md)
 

@@ -10,8 +10,12 @@
     "en": "The dialectician who refuses to turn <c id='sunyata'>emptiness</c> into a doctrine: testing every claim that a thing <c id='svabhava'>exists by itself</c>, and showing that it holds only through dependence."
   },
   "aliases": {
-    "fr": ["Nagarjuna"],
-    "en": ["Nagarjuna"]
+    "fr": [
+      "Nagarjuna"
+    ],
+    "en": [
+      "Nagarjuna"
+    ]
   },
   "summary": {
     "fr": "Penseur indien du <mv id='buddhism'>bouddhisme</mv> mahāyāna, actif vers 150-250 de notre ère (dates incertaines), tenu pour le fondateur de l'école <c id='the-middle-way'>Madhyamaka (la Voie du Milieu)</c>, l'un des deux grands courants philosophiques du Mahāyāna. Son œuvre maîtresse, les <w>Stances du milieu par excellence (Mūlamadhyamakakārikā)</w>, mène une critique serrée, chapitre après chapitre, des catégories que les écoles bouddhiques antérieures, en particulier l'Abhidharma, tenaient pour les composants ultimes du réel. Là où le <ph id='buddha'>Bouddha</ph> visait surtout la délivrance du <c id='dukkha'>mal-être (duḥkha)</c>, Nāgārjuna en tire les conséquences logiques et métaphysiques, au risque que sa critique paraisse tout dissoudre, d'où l'objection sceptique à laquelle répond la <w>Vigrahavyāvartanī (Réfutation des objections)</w>. Commenté par <c>Candrakīrti</c> et Bhāviveka, il devient une référence centrale du bouddhisme tibétain, où le Madhyamaka est l'aboutissement du cursus philosophique, comme du bouddhisme d'Asie de l'Est, dont l'école <c>Sanlun</c> (les « Trois Traités ») prolonge sa pensée en Chine.",
@@ -498,6 +502,29 @@
         ],
         "strength": "MEDIUM"
       }
+    },
+    {
+      "axisId": "TRUTH_VALUE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La distinction des <c id='two-truths'>deux vérités</c> règle l'édifice : la vérité conventionnelle est indispensable pour enseigner et pour atteindre l'ultime, la vacuité, mais ni l'une ni l'autre ne doit être substantialisée. Qui méprise le conventionnel se prive du chemin, qui s'y arrête se prive du but.",
+          "en": "The distinction of the <c id='two-truths'>two truths</c> governs the edifice: conventional truth is indispensable for teaching and for reaching the ultimate, emptiness, but neither of the two may be reified. Whoever scorns the conventional loses the path, whoever stops at it loses the goal."
+        },
+        "references": [
+          {
+            "fr": "Stances du milieu (Mūlamadhyamakakārikā), XXIV",
+            "en": "Root Verses on the Middle Way (Mūlamadhyamakakārikā), XXIV"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
     }
   ],
   "structuring": [
@@ -530,7 +557,7 @@
       }
     }
   ],
-  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

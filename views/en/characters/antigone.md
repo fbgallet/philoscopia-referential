@@ -65,9 +65,9 @@ What sets her in motion is not an abstract duty toward all the dead, but a face:
 
 *positioned · explicit in the texts · major*
 
-**Declared** : Immortalism 80% · Being-toward-death 20%
+**Declared** : Preparing for the passage 80% · Living in view of one's death 20%
 
-**Practiced** : Immortalism 80% · Being-toward-death 20%
+**Practiced** : Preparing for the passage 80% · Living in view of one's death 20%
 
 <spo>Antigone walks toward death expecting to be reunited with her own: she will rest dear to Polynices beside the one dear to her, welcomed in Hades by her father, her mother and her brother. She declares that dying before her time is a gain for her, and her lucid acceptance of the tomb gives her death the value of a chosen fulfilment.</spo>
 

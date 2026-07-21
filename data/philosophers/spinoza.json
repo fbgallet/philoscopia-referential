@@ -14,8 +14,14 @@
     "en": "Understanding the passions through their causes rather than judging them: suffering less, acting more, and making of that lucidity a joy."
   },
   "aliases": {
-    "fr": ["spinoziste", "spinozisme"],
-    "en": ["Spinozist", "Spinozism"]
+    "fr": [
+      "spinoziste",
+      "spinozisme"
+    ],
+    "en": [
+      "Spinozist",
+      "Spinozism"
+    ]
   },
   "summary": {
     "fr": "Penseur <mv id='rationalism'>rationaliste</mv> du Siècle d'or hollandais, héritier de <ph id='descartes'>Descartes</ph> et de la tradition juive d'Amsterdam, dont sa communauté l'exclut à vingt-trois ans pour ses idées. Polisseur de lentilles refusant les honneurs académiques, il expose dans <w id='ethics-spinoza'>l'Éthique</w>, écrite <kw>more geometrico</kw> et publiée après sa mort, un système qui part de Dieu pour repenser la liberté, les passions et le bonheur. Longtemps maudit comme athée, il est redécouvert au XIXe siècle et demeure une référence majeure de la philosophie de l'immanence.",
@@ -754,7 +760,12 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.15, 0.25, 0, 0.6]
+        "weights": [
+          0.15,
+          0.25,
+          0,
+          0.6
+        ]
       },
       "epistemicStatus": "INFERABLE",
       "salience": "MAJOR",
@@ -771,6 +782,33 @@
           }
         ],
         "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TRUTH_VALUE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Comprendre est l'unique salut : chaque <c>idée adéquate</c> accroît la puissance d'agir, et la <c>béatitude</c> n'est rien d'autre que l'amour intellectuel qui naît de la connaissance du troisième genre. L'illusion n'est pas d'abord une faute mais une impuissance, une idée mutilée qui nous fait subir ; il ne s'agit ni de railler ni de maudire, mais de comprendre, parce que comprendre est déjà être libre.",
+          "en": "Understanding is the sole salvation: each <c>adequate idea</c> increases our power of acting, and <c>beatitude</c> is nothing but the intellectual love born of knowledge of the third kind. Illusion is not first a fault but an impotence, a mutilated idea that makes us passive; the task is neither to mock nor to curse, but to understand, because understanding is already being free."
+        },
+        "references": [
+          {
+            "fr": "Éthique, IV-V",
+            "en": "Ethics, IV-V"
+          },
+          {
+            "fr": "Traité politique, I",
+            "en": "Political Treatise, I"
+          }
+        ],
+        "strength": "STRONG"
       }
     }
   ],
@@ -811,7 +849,7 @@
       }
     }
   ],
-  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

@@ -8,7 +8,7 @@ Philosophe allemand des Lumières, professeur à Königsberg dont il ne sortit j
 
 ## Positions structurantes
 
-1. [Nature de l'esprit et du réel](../axes/reality-nature.md) : **Nous ne connaissons jamais les choses telles qu'elles sont en soi, mais seulement les phénomènes : c'est l'esprit qui, par ses formes a priori, constitue l'objet de la connaissance.**
+1. [Nature du réel](../axes/reality-nature.md) : **Nous ne connaissons jamais les choses telles qu'elles sont en soi, mais seulement les phénomènes : c'est l'esprit qui, par ses formes a priori, constitue l'objet de la connaissance.**
 2. [Source de la connaissance](../axes/knowledge-source.md) : **Toute connaissance commence avec l'expérience, mais n'en dérive pas tout entière : sans concepts les intuitions sont aveugles, sans intuitions les concepts sont vides.**
 3. [Critère du juste](../axes/ethics-foundation.md) : **Une action n'a de valeur morale que par devoir, jamais par ses conséquences : agis seulement d'après une maxime que tu puisses vouloir comme [loi universelle](../glossary/categorical-imperative.md).**
 4. [Liberté de la volonté](../axes/freedom.md) : **Comme phénomène l'homme est entièrement [déterminé](../glossary/determinism.md), mais comme [chose en soi](../glossary/thing-in-itself.md) il est [libre](../glossary/free-will.md) : « tu dois » implique « tu peux ».**
@@ -40,7 +40,7 @@ Le sens de la vie tient pour Kant à la vocation morale : devenir digne du bonhe
 
 *positionné · explicite dans les textes · mineure*
 
-Immortalisme 80% · La mort n'est rien 10% · Être-pour-la-mort 10%
+Se préparer au passage 80% · Se libérer de la crainte 10% · Vivre en vue de sa mort 10%
 
 La raison théorique ne peut prouver que l'âme survit au corps, mais la raison pratique le postule : la loi morale commande une perfection que nulle vie finie n'achève, ce qui exige un progrès indéfini, donc l'immortalité de l'âme. Immortalité non démontrée mais postulée, croyance rationnelle adossée à la moralité.
 
@@ -178,13 +178,13 @@ La peine est exigée par la justice elle-même, comme **rétribution** proportio
 
 *positionné · extrapolé · mineure*
 
-Biologisme de la conscience 75% · Fonctionnalisme 25%
+Seul le vivant pense 75% · Peu importe le support 25%
 
 Question moderne, étrangère au corpus : on peut toutefois conjecturer que Kant refuserait d'attribuer la pensée à un pur mécanisme, car la pensée exige la **spontanéité de l'aperception**, et il oppose l'organisme, qui s'auto-organise, à la montre, simple machine. Lecture spéculative, à présenter comme telle.
 
 *Sources : Critique de la raison pure, déduction transcendantale (B131-B132) · Critique de la faculté de juger, §65*
 
-### [Nature de l'esprit et du réel](../axes/reality-nature.md)
+### [Nature du réel](../axes/reality-nature.md)
 
 *positionné · explicite dans les textes · majeure*
 
@@ -353,6 +353,18 @@ Droits naturels 85% · Constructivisme politique 15%
 Le droit se déduit a priori de la raison, non de l'utilité ni du seul droit positif : tout homme possède, en vertu de son humanité, un droit inné à la liberté, fondé sur la dignité de la personne comme fin en soi. Une version rationnelle des droits naturels.
 
 *Sources : Métaphysique des mœurs, Doctrine du droit*
+
+### [Valeur de la vérité](../axes/truth-value.md)
+
+*positionné · explicite dans les textes · mineure*
+
+Primauté de la vérité 80% · Illusions vitales 20%
+
+Oser savoir : sortir de la minorité dont on est soi-même responsable exige de ne s'en remettre qu'à son propre entendement, et partout où une vérité peut être établie, dans le champ de l'expérience possible, elle prime sans partage. Mais la critique borne ce champ : au-delà, la raison ne connaît plus, et prétendre y savoir serait dogmatisme ; la foi rationnelle n'y remplace pas une vérité disponible, elle occupe une place que le savoir ne peut structurellement remplir.
+
+> « Sapere aude ! Aie le courage de te servir de ton propre entendement : telle est la devise des Lumières. », Réponse à la question : Qu'est-ce que les Lumières ?
+
+*Sources : Qu'est-ce que les Lumières ? (1784) · Critique de la raison pure, préface B (1787)*
 
 ## Influencé par
 

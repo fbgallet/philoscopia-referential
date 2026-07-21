@@ -44,7 +44,7 @@ Buddhism grounds morality on the cultivation of virtue (sila) and on compassion 
 
 *positioned · inferable · minor*
 
-Immortalism 40% · Death is nothing 30% · Being-toward-death 30%
+Preparing for the passage 40% · Freeing ourselves from the fear 30% · Living in view of one's death 30%
 
 For Buddhism, death is neither the annihilation of a self nor the survival of a soul, but a passage within the cycle of rebirths governed by karma: a mere stage, yet one to be carefully prepared, since the dying person's state of mind orients the rebirth, and something continues without any permanent soul remaining. A balanced position, until the liberation that alone halts the cycle.
 
@@ -172,7 +172,7 @@ The transformation aimed at proceeds first through inner examination: observing 
 
 *positioned · inferable · minor*
 
-Intellectualism 78% · Sentimentalism 22%
+The primacy of reason 78% · The primacy of feeling 22%
 
 The ultimate root of suffering and afflictive emotions is ignorance (avidyā), the misapprehension of the impermanent, selfless nature of reality. Greed, hatred, and delusion dissolve through right view and penetrating understanding: it is by knowledge that affect is transformed, which aligns Buddhism with a therapeutic intellectualism, tempered by the central role of meditative practice.
 

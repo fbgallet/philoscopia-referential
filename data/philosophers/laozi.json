@@ -14,8 +14,14 @@
     "en": "<c id='wu-wei'>Non-action</c>: water, which never struggles, wears down the rock."
   },
   "aliases": {
-    "fr": ["Lao-Tseu", "Lao Tseu"],
-    "en": ["Lao Tzu", "Lao-tzu"]
+    "fr": [
+      "Lao-Tseu",
+      "Lao Tseu"
+    ],
+    "en": [
+      "Lao Tzu",
+      "Lao-tzu"
+    ]
   },
   "summary": {
     "fr": "Sage chinois semi-légendaire, traditionnellement situé au VIe siècle avant notre ère et présenté par la tradition comme un archiviste de la cour des Zhou et un aîné de <ph id='confucius'>Confucius</ph>. La critique historique tient désormais le personnage pour incertain et date le <w id='dao-de-jing-laozi'>Dao De Jing</w> qu'on lui attribue plutôt des IVe-IIIe siècles avant notre ère. Ce bref recueil d'aphorismes, devenu l'un des textes les plus traduits au monde, est le socle du <mv id='taoism'>taoïsme</mv> : il y déploie le <c id='dao'>Dao</c>, voie ineffable et source de toute chose, le <c id='wu-wei'>wu-wei</c> (non-agir) et le <c id='ziran'>ziran</c> (la spontanéité naturelle). En réaction au ritualisme confucéen et aux écoles légistes, sa pensée a irrigué la culture chinoise, le bouddhisme chan (zen) et, en Occident, tout un courant écologique et anti-productiviste.",
@@ -589,6 +595,14 @@
         "fr": "Question anachronique : rien dans le corpus de Laozi ne permet de le positionner sur la pensée des machines sans extrapolation hasardeuse.",
         "en": "An anachronistic question: nothing in Laozi's corpus allows positioning him on machine thought without hazardous extrapolation."
       }
+    },
+    {
+      "axisId": "TRUTH_VALUE",
+      "status": "REJECTS_ALTERNATIVE",
+      "note": {
+        "fr": "La voie qui peut être énoncée n'est pas la voie constante : ce qui importe ne se laisse ni formuler ni posséder, et vouloir le saisir comme une vérité le manque. L'alternative entre lucidité et illusion suppose un vrai dicible que Laozi récuse d'emblée ; la sagesse est un accord pratique avec le cours des choses, pas une possession de savoir.",
+        "en": "The way that can be spoken is not the constant way: what matters can be neither formulated nor possessed, and to grasp at it as a truth is to miss it. The alternative between lucidity and illusion presupposes a sayable truth that Laozi refuses from the outset; wisdom is a practical attunement to the course of things, not a possession of knowledge."
+      }
     }
   ],
   "structuring": [
@@ -628,7 +642,7 @@
       }
     }
   ],
-  "updatedAt": "2026-06-29T00:00:00.000Z",
+  "updatedAt": "2026-07-20T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

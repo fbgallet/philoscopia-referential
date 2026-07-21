@@ -8,7 +8,7 @@ A Roman poet and philosopher of the first century BCE, of whom almost nothing is
 
 ## Core positions
 
-1. [Nature of mind and reality](../axes/reality-nature.md) : **There exist only atoms and void: nothing comes from nothing or returns to it, and all the real, down to the soul, is but matter in motion.**
+1. [Nature of reality](../axes/reality-nature.md) : **There exist only atoms and void: nothing comes from nothing or returns to it, and all the real, down to the soul, is but matter in motion.**
 2. [Death](../axes/death.md) : **[Death](../axes/death.md) is nothing to us: the soul dissolves with the body, and to fear the nothingness after death is as vain as to weep over the one before birth.**
 3. [Existence of God](../axes/god-existence.md) : **The gods exist, at peace in the [intermundia](../glossary/intermundia.md), but govern nothing: “so much wrong could religion prompt”, and it is from religion, not the gods, that we must be freed.**
 4. [Freedom of the will](../axes/freedom.md) : **An atom can swerve from its fall without cause, the [clinamen](../glossary/clinamen.md): this grain of indeterminacy breaks the chain of fate and saves the “will wrested from the fates”.**
@@ -16,7 +16,7 @@ A Roman poet and philosopher of the first century BCE, of whom almost nothing is
 
 ## Positions
 
-### [Nature of mind and reality](../axes/reality-nature.md)
+### [Nature of reality](../axes/reality-nature.md)
 
 *positioned · explicit in the texts · major*
 
@@ -78,7 +78,7 @@ Lucretius does not deny that the gods exist: made of subtle atoms, they lead an 
 
 *positioned · inferable · major*
 
-Argument from evil (atheism) 85% · Revolt / anti-theodicy 15%
+Evil refutes God 85% · Unjustifiable evil 15%
 
 Lucretius does not reason about a good and all-powerful God, but turns the argument from design on its head: if the world had been made for us by gods, it would not be so “gravely flawed”. Yet the greater part of the globe is devoured by mountains, forests and seas, the climate afflicts men, the soil resists their toil, wild beasts and diseases strike them, and the newborn is cast naked and wailing on the shore of life. So many defects prove that nature is the work of no providence: this is less a theodicy than a [proof from evil](../axes/problem-of-evil.md) of the absence of divine design.
 
@@ -88,7 +88,7 @@ Lucretius does not reason about a good and all-powerful God, but turns the argum
 
 *positioned · explicit in the texts · major*
 
-Death is nothing 100%
+Freeing ourselves from the fear 100%
 
 Since the soul is corporeal and is born, grows and ages with the body, it dissolves with it: all feeling then ceases, and a subject who is no more can suffer no evil. “Death is therefore nothing to us”, a conclusion Epicurus already held; but Lucretius devotes the whole of book III to it and makes of it a long consolation, multiplying proofs of the soul's mortality and the symmetry argument: we do not grieve over the nothingness before our birth, so why dread the one after our death, which resembles it in all things? To wish to survive is to contradict oneself, for the dead will have neither lack nor regret. The consolation widens into a rejoinder spoken by nature herself, who reproaches the living for their ingratitude and their thirst to endure.
 
@@ -212,7 +212,7 @@ Suffering has no redemptive value: it is the very evil that the whole poem seeks
 
 *positioned · inferable · minor*
 
-Intellectualism 75% · Sentimentalism 25%
+The primacy of reason 75% · The primacy of feeling 25%
 
 The passions that gnaw at the soul, dread of the underworld, thirst for honours, the fury of love, arise from false opinions about the nature of things: it is therefore knowledge, not exhortation, that calms them. “This terror of the mind, this darkness, can be dispelled neither by the sun nor by daylight, but only by the aspect and the law of nature.” The therapy proceeds through the light of physical knowledge, which marks a clear intellectualist leaning, attested too by the famous demystifying analysis of erotic passion in book IV.
 
@@ -273,6 +273,16 @@ The pursuit of honours and power, which throws men against one another, is ranke
 *not applicable*
 
 The question of machine minds presupposes debates foreign to antiquity; Lucretius holds no position on this contemporary problem.
+
+### [The value of truth](../axes/truth-value.md)
+
+*positioned · explicit in the texts · minor*
+
+The primacy of truth 65% · Vital illusions 35%
+
+Knowing the causes frees us from religio and from the fear of death: that is the Epicurean core. But Lucretius adds an avowal about manner: as the physician rims the cup of wormwood with honey, he coats an austere doctrine with poetry, sweetness in the service of truth, never in its place.
+
+*Sources : On the Nature of Things, I and IV*
 
 ## Influenced by
 

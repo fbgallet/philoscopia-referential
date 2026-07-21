@@ -10,7 +10,7 @@ Le Vedānta (« fin du Veda ») est la grande tradition qui interprète les Upan
 
 ## Positions structurantes
 
-1. [Nature de l'esprit et du réel](../axes/reality-nature.md) : **Seul le [brahman](../glossary/brahman.md), conscience pure, est réel ; la pluralité du monde n'est que [māyā](../glossary/maya.md), apparence superposée à l'absolu un.**
+1. [Nature du réel](../axes/reality-nature.md) : **Seul le [brahman](../glossary/brahman.md), conscience pure, est réel ; la pluralité du monde n'est que [māyā](../glossary/maya.md), apparence superposée à l'absolu un.**
 2. [Nature du moi](../axes/self-nature.md) : **Le [Soi (ātman)](../glossary/atman.md) est identique au [brahman](../glossary/brahman.md) : « tu es cela » (tat tvam asi), et nul flux d'agrégats ne saurait apparaître sans ce témoin permanent.**
 3. [Existence de Dieu](../axes/god-existence.md) : **L'absolu ultime est sans attributs (nirguṇa) ; le Dieu personnel créateur n'en est que la figure conventionnelle (vyāvahārika), vue à travers la [māyā](../glossary/maya.md).**
 4. [Sens de la souffrance](../axes/suffering-meaning.md) : **La souffrance procède d'une erreur de connaissance, non de l'être : comme la peur d'un serpent qui n'était qu'une corde, elle se dissipe, elle ne se rachète pas.**
@@ -48,7 +48,7 @@ Au plan empirique, le moi incarné (jiva) est lié par le karma et enveloppé da
 
 *Sources : Shankara, Commentaire des Brahma-sutra · Upanishads (Katha, Mundaka)*
 
-### [Nature de l'esprit et du réel](../axes/reality-nature.md)
+### [Nature du réel](../axes/reality-nature.md)
 
 *positionné · explicite dans les textes · majeure*
 
@@ -134,7 +134,7 @@ La voie advaitique est tout entière tournée vers l'intériorité : la libérat
 
 *positionné · inférable · mineure*
 
-Intellectualisme 80% · Sentimentalisme 20%
+Primauté de la raison 80% · Le primat du sentiment 20%
 
 Comme la servitude tient à une erreur cognitive, la avidyā (ignorance), c'est le savoir, et non la culture des sentiments, qui transforme le sujet. Les émotions et l'attachement sont des effets de la fausse identification au corps et au mental, que la discrimination (viveka) entre le réel et l'apparent vient corriger. Le ressort de la libération est intellectuel, ce qui incline vers l'intellectualisme.
 
@@ -176,7 +176,7 @@ La connaissance qui libère ne relève ni de l'empirisme ni du rationalisme pur 
 
 *positionné · inférable · mineure*
 
-Immortalisme 60% · La mort n'est rien 20% · Être-pour-la-mort 20%
+Se préparer au passage 60% · Se libérer de la crainte 20% · Vivre en vue de sa mort 20%
 
 Pour le védânta, le Soi (atman) est éternel et ne meurt pas : la mort n'atteint que le corps et la personne empirique, tandis que l'atman transmigre de vie en vie selon le karma. C'est donc d'abord un immortalisme (le Soi survit, indestructible), doublé d'un passage (la mort n'est qu'une étape) et d'une préparation (bien mourir oriente la suite), jusqu'à la libération (moksha) qui dissout la transmigration elle-même.
 

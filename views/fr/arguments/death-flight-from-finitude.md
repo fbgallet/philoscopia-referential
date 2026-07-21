@@ -2,7 +2,7 @@
 
 # L'objection de la fuite
 
-*Objection à [La mort](../axes/death.md) : Immortalisme*
+*Objection à [Après la mort](../axes/afterlife.md) : L'âme immortelle*
 
 **Espérer survivre pourrait n'être qu'un refus d'accepter notre condition.**
 
@@ -24,7 +24,7 @@
 
 **Conteste** : [L'argument de l'âme](../arguments/death-immortalist-hope.md)
 
-**Porte sur les problèmes** : [Quelque chose survit-il ?](../axes/death.md)
+**Porte sur les problèmes** : [Croire ce qu'on espère ?](../axes/afterlife.md)
 
 ---
 

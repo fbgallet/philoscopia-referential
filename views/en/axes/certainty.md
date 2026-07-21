@@ -93,7 +93,7 @@ We can hold firm, well-justified beliefs while knowing they might be wrong. Betw
 
 ## Related axes
 
-[Justification of belief](../axes/epistemic-justification.md) · [Ethics of belief](../axes/belief-ethics.md) · [Source of knowledge](../axes/knowledge-source.md) · [Nature of truth](../axes/truth-nature.md) · [Scientific method](../axes/scientific-method.md) · [Nature of mind and reality](../axes/reality-nature.md)
+[Justification of belief](../axes/epistemic-justification.md) · [Ethics of belief](../axes/belief-ethics.md) · [Source of knowledge](../axes/knowledge-source.md) · [Nature of truth](../axes/truth-nature.md) · [Scientific method](../axes/scientific-method.md) · [Nature of reality](../axes/reality-nature.md) · [The value of truth](../axes/truth-value.md)
 
 ---
 

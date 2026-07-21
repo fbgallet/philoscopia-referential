@@ -14,6 +14,25 @@
     "fr": "Tout vient-il des sens, qui pourtant nous trompent parfois, ou l'esprit possède-t-il des vérités qu'aucune expérience ne saurait fournir ? Faire reposer le savoir sur la seule expérience le prive de certitude ; sur la seule raison, le coupe du monde réel. Se positionner, c'est dire à quoi se fier en dernier ressort pour connaître.",
     "en": "Does everything come from the senses, which nonetheless deceive us at times, or does the mind hold truths no experience could supply? Resting knowledge on experience alone deprives it of certainty; on reason alone, it cuts it off from the real world. To take a position is to say what to rely on, in the last resort, in order to know."
   },
+  "aliases": {
+    "fr": [
+      "connaissance",
+      "raison",
+      "expérience",
+      "empirisme",
+      "rationalisme",
+      "sens",
+      "savoir"
+    ],
+    "en": [
+      "knowledge",
+      "reason",
+      "experience",
+      "empiricism",
+      "rationalism",
+      "senses"
+    ]
+  },
   "layer": "THEORY",
   "type": "BIPOLAR_MEDIAN",
   "poles": [
@@ -91,46 +110,123 @@
       "id": "innate-or-learned",
       "resolution": "SURFACED",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "une idée innée", "en": "an innate idea" },
+      "objectLabel": {
+        "fr": "une idée innée",
+        "en": "an innate idea"
+      },
       "mode": "DESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "idées innées", "en": "innate ideas" },
-        { "fr": "page blanche", "en": "blank slate" },
-        { "fr": "problème de Molyneux", "en": "Molyneux's problem" }
+        {
+          "fr": "idées innées",
+          "en": "innate ideas"
+        },
+        {
+          "fr": "page blanche",
+          "en": "blank slate"
+        },
+        {
+          "fr": "problème de Molyneux",
+          "en": "Molyneux's problem"
+        }
       ],
-      "poles": ["EMPIRICISM", "RATIONALISM"],
+      "poles": [
+        "EMPIRICISM",
+        "RATIONALISM"
+      ],
       "anchors": [
-        { "name": { "fr": "Locke", "en": "Locke" }, "kind": "PHILOSOPHER", "slug": "locke" },
-        { "name": { "fr": "Leibniz", "en": "Leibniz" }, "kind": "PHILOSOPHER", "slug": "leibniz" }
+        {
+          "name": {
+            "fr": "Locke",
+            "en": "Locke"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "locke"
+        },
+        {
+          "name": {
+            "fr": "Leibniz",
+            "en": "Leibniz"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "leibniz"
+        }
       ],
-      "title": { "fr": "Inné ou appris ?", "en": "Innate or learned?" },
+      "title": {
+        "fr": "Inné ou appris ?",
+        "en": "Innate or learned?"
+      },
       "explicitation": {
         "fr": "Naissons-nous l'esprit vide, une page blanche que les sens remplissent, ou possédons-nous déjà, avant toute expérience, des idées ou des structures que l'expérience ne fait que réveiller ?",
         "en": "Are we born with an empty mind, a blank page the senses fill in, or do we already possess, before any experience, ideas or structures that experience merely awakens?"
       },
-      "ref": { "kind": "THOUGHT_EXPERIMENT", "id": "molyneux-problem" }
+      "ref": {
+        "kind": "THOUGHT_EXPERIMENT",
+        "id": "molyneux-problem"
+      }
     },
     {
       "id": "knowledge-by-intuition",
       "resolution": "LATENT",
       "object": "RELATION",
-      "objectLabel": { "fr": "la saisie immédiate", "en": "immediate grasp" },
+      "objectLabel": {
+        "fr": "la saisie immédiate",
+        "en": "immediate grasp"
+      },
       "mode": "DESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "intuition", "en": "intuition" },
-        { "fr": "scientia intuitiva", "en": "scientia intuitiva" },
-        { "fr": "le cœur (Pascal)", "en": "the heart (Pascal)" },
-        { "fr": "intuition des essences", "en": "intuition of essences" }
+        {
+          "fr": "intuition",
+          "en": "intuition"
+        },
+        {
+          "fr": "scientia intuitiva",
+          "en": "scientia intuitiva"
+        },
+        {
+          "fr": "le cœur (Pascal)",
+          "en": "the heart (Pascal)"
+        },
+        {
+          "fr": "intuition des essences",
+          "en": "intuition of essences"
+        }
       ],
-      "poles": ["EMPIRICISM", "RATIONALISM"],
+      "poles": [
+        "EMPIRICISM",
+        "RATIONALISM"
+      ],
       "anchors": [
-        { "name": { "fr": "Spinoza", "en": "Spinoza" }, "kind": "PHILOSOPHER", "slug": "spinoza" },
-        { "name": { "fr": "Pascal", "en": "Pascal" }, "kind": "PHILOSOPHER", "slug": "pascal" },
-        { "name": { "fr": "Husserl", "en": "Husserl" }, "kind": "PHILOSOPHER", "slug": "husserl" }
+        {
+          "name": {
+            "fr": "Spinoza",
+            "en": "Spinoza"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "spinoza"
+        },
+        {
+          "name": {
+            "fr": "Pascal",
+            "en": "Pascal"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "pascal"
+        },
+        {
+          "name": {
+            "fr": "Husserl",
+            "en": "Husserl"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "husserl"
+        }
       ],
-      "title": { "fr": "Le savoir par intuition", "en": "Knowledge by intuition" },
+      "title": {
+        "fr": "Le savoir par intuition",
+        "en": "Knowledge by intuition"
+      },
       "explicitation": {
         "fr": "Certaines connaissances semblent venir d'un seul coup, ni par un raisonnement ni par les sens : l'évidence d'un principe, la saisie soudaine d'une essence, la certitude du cœur. Est-ce une forme supérieure de raison, une sorte d'expérience, ou une illusion qui se pare du nom de savoir ?",
         "en": "Some knowledge seems to come all at once, neither by reasoning nor through the senses: the self-evidence of a principle, the sudden grasp of an essence, the certainty of the heart. Is it a higher form of reason, a kind of experience, or an illusion that borrows the name of knowledge?"
@@ -140,21 +236,56 @@
       "id": "idea-of-cause",
       "resolution": "LATENT",
       "object": "RELATION",
-      "objectLabel": { "fr": "l'idée de cause", "en": "the idea of cause" },
+      "objectLabel": {
+        "fr": "l'idée de cause",
+        "en": "the idea of cause"
+      },
       "mode": "DESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "connexion nécessaire", "en": "necessary connection" },
-        { "fr": "conjonction constante", "en": "constant conjunction" },
-        { "fr": "principe de copie", "en": "copy principle" }
+        {
+          "fr": "connexion nécessaire",
+          "en": "necessary connection"
+        },
+        {
+          "fr": "conjonction constante",
+          "en": "constant conjunction"
+        },
+        {
+          "fr": "principe de copie",
+          "en": "copy principle"
+        }
       ],
-      "poles": ["EMPIRICISM"],
+      "poles": [
+        "EMPIRICISM"
+      ],
       "anchors": [
-        { "name": { "fr": "Hume", "en": "Hume" }, "kind": "PHILOSOPHER", "slug": "hume" },
-        { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" }
+        {
+          "name": {
+            "fr": "Hume",
+            "en": "Hume"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "hume"
+        },
+        {
+          "name": {
+            "fr": "Kant",
+            "en": "Kant"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "kant"
+        }
       ],
-      "doorways": [{ "axis": "CAUSALITY" }],
-      "title": { "fr": "D'où vient l'idée de cause ?", "en": "Where does the idea of cause come from?" },
+      "doorways": [
+        {
+          "axis": "CAUSALITY"
+        }
+      ],
+      "title": {
+        "fr": "D'où vient l'idée de cause ?",
+        "en": "Where does the idea of cause come from?"
+      },
       "explicitation": {
         "fr": "L'empirisme veut ramener toute idée à une impression des sens. Mais quand une bille en pousse une autre, nous ne voyons que deux mouvements qui se suivent, jamais la force ni le lien nécessaire entre eux : d'où nous vient alors l'idée de cause ?",
         "en": "Empiricism would trace every idea back to a sense impression. But when one ball strikes another, we see only two motions in succession, never the force or the necessary link between them: where, then, does the idea of cause come from?"
@@ -164,19 +295,44 @@
       "id": "mind-shapes-experience",
       "resolution": "LATENT",
       "object": "STRUCTURE",
-      "objectLabel": { "fr": "les cadres de l'expérience", "en": "the frames of experience" },
+      "objectLabel": {
+        "fr": "les cadres de l'expérience",
+        "en": "the frames of experience"
+      },
       "mode": "DESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "révolution copernicienne", "en": "Copernican revolution" },
-        { "fr": "formes de la sensibilité", "en": "forms of intuition" },
-        { "fr": "espace et temps", "en": "space and time" }
+        {
+          "fr": "révolution copernicienne",
+          "en": "Copernican revolution"
+        },
+        {
+          "fr": "formes de la sensibilité",
+          "en": "forms of intuition"
+        },
+        {
+          "fr": "espace et temps",
+          "en": "space and time"
+        }
       ],
-      "poles": ["EMPIRICISM", "RATIONALISM"],
+      "poles": [
+        "EMPIRICISM",
+        "RATIONALISM"
+      ],
       "anchors": [
-        { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" }
+        {
+          "name": {
+            "fr": "Kant",
+            "en": "Kant"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "kant"
+        }
       ],
-      "title": { "fr": "L'esprit met-il en forme l'expérience ?", "en": "Does the mind give form to experience?" },
+      "title": {
+        "fr": "L'esprit met-il en forme l'expérience ?",
+        "en": "Does the mind give form to experience?"
+      },
       "explicitation": {
         "fr": "Et si l'esprit ne recevait pas seulement le monde mais le mettait en forme ? L'espace, le temps, la causalité seraient alors moins des choses observées que des cadres que nous imposons à toute expérience possible.",
         "en": "What if the mind did not merely receive the world but gave it form? Space, time, causality would then be less things observed than frames we impose on every possible experience."
@@ -186,15 +342,31 @@
       "id": "emotions-as-knowledge",
       "resolution": "LATENT",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "une émotion", "en": "an emotion" },
+      "objectLabel": {
+        "fr": "une émotion",
+        "en": "an emotion"
+      },
       "mode": "DESCRIPTIVE",
       "relation": "RELATED",
       "keywords": [
-        { "fr": "émotions", "en": "emotions" },
-        { "fr": "intuition affective", "en": "affective insight" }
+        {
+          "fr": "émotions",
+          "en": "emotions"
+        },
+        {
+          "fr": "intuition affective",
+          "en": "affective insight"
+        }
       ],
-      "doorways": [{ "axis": "EMOTIONS" }],
-      "title": { "fr": "Les émotions, une source de savoir ?", "en": "Emotions, a source of knowledge?" },
+      "doorways": [
+        {
+          "axis": "EMOTIONS"
+        }
+      ],
+      "title": {
+        "fr": "Les émotions, une source de savoir ?",
+        "en": "Emotions, a source of knowledge?"
+      },
       "explicitation": {
         "fr": "Au-delà des sens et de la raison, nos émotions nous font-elles connaître quelque chose du monde et de nous-mêmes, ou ne font-elles qu'obscurcir le jugement ?",
         "en": "Beyond the senses and reason, do our emotions let us know something of the world and of ourselves, or do they only cloud judgment?"
@@ -204,15 +376,32 @@
       "id": "senses-deceive",
       "resolution": "LATENT",
       "object": "RELATION",
-      "objectLabel": { "fr": "la perception sensible", "en": "sense perception" },
+      "objectLabel": {
+        "fr": "la perception sensible",
+        "en": "sense perception"
+      },
       "mode": "DESCRIPTIVE",
       "relation": "RELATED",
       "keywords": [
-        { "fr": "illusion", "en": "illusion" },
-        { "fr": "le rêve", "en": "dreaming" }
+        {
+          "fr": "illusion",
+          "en": "illusion"
+        },
+        {
+          "fr": "le rêve",
+          "en": "dreaming"
+        }
       ],
-      "doorways": [{ "axis": "CERTAINTY", "problem": "radical-doubt" }],
-      "title": { "fr": "Les sens nous trompent-ils ?", "en": "Do the senses deceive us?" },
+      "doorways": [
+        {
+          "axis": "CERTAINTY",
+          "problem": "radical-doubt"
+        }
+      ],
+      "title": {
+        "fr": "Les sens nous trompent-ils ?",
+        "en": "Do the senses deceive us?"
+      },
       "explicitation": {
         "fr": "Si les sens peuvent nous tromper jusqu'à la racine, comme dans le rêve, peut-on encore faire reposer sur eux un savoir solide ?",
         "en": "If the senses can deceive us to the very root, as in dreams, can solid knowledge still be made to rest on them?"

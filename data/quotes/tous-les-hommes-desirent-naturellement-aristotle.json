@@ -1,0 +1,26 @@
+{
+  "id": "tous-les-hommes-desirent-naturellement-aristotle",
+  "text": {
+    "fr": "Tous les hommes désirent naturellement savoir.",
+    "en": "All men by nature desire to know."
+  },
+  "author": {
+    "name": {
+      "fr": "Aristote",
+      "en": "Aristotle"
+    },
+    "kind": "PHILOSOPHER",
+    "slug": "aristotle"
+  },
+  "source": {
+    "fr": "Métaphysique, A, 1, 980a",
+    "en": "Metaphysics, I, 1, 980a"
+  },
+  "anchors": [
+    {
+      "axisId": "TRUTH_VALUE",
+      "poleId": "PRIMACY_OF_TRUTH"
+    }
+  ],
+  "updatedAt": "2026-07-19T00:00:00.000Z"
+}

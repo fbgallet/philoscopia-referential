@@ -1,12 +1,12 @@
 [English version](../../en/axes/consciousness-nature.md)
 
-# Nature de la conscience
+# L'énigme de la conscience
 
-**Quelle est la nature de la conscience et son rapport à la réalité physique ?**
+**Une science du cerveau peut-elle expliquer entièrement l'expérience vécue ?**
 
 *Le monde · descriptif (théorie) · catégoriel*
 
-Mes états vécus, la douleur, le rouge que je vois, le goût du café, ne sont-ils que des processus cérébraux, ou bien quelque chose leur échappe-t-il ? La place de l'esprit dans la nature, et ce qu'une science du cerveau pourra jamais expliquer, se jouent ici.
+La douleur, le rouge que je vois, le goût du café : les sciences cognitives décrivent de mieux en mieux les mécanismes cérébraux qui les accompagnent, mais expliquent-elles ce que cela fait de les vivre ? Se positionner, c'est dire si le vécu est un mécanisme comme les autres, une illusion de l'introspection, ou le signe que l'esprit excède ce que les neurosciences pourront jamais saisir.
 
 ## Pôles
 
@@ -18,7 +18,7 @@ La conscience n'est rien d'autre que l'activité du cerveau : les états mentaux
 
 ### Dualisme des substances
 
-L'esprit et le corps sont deux substances distinctes : la conscience n'est pas le cerveau, mais une réalité d'une autre nature, l'âme, qui pourrait en principe exister à part. C'est la vision spontanée, et celle de nombreuses religions.
+Le cerveau n'expliquera jamais entièrement l'expérience, car la conscience n'est pas son produit : elle est une réalité d'une autre nature, l'âme, qui pourrait en principe exister à part. C'est la vision spontanée de beaucoup, et celle de nombreuses religions.
 
 *[Descartes](../philosophers/descartes.md) · Swinburne*
 
@@ -46,16 +46,17 @@ Le vécu qualitatif que nous croyons saisir par introspection est une illusion q
 
 ## Relations de fondation
 
-- *[Nature de l'esprit et du réel](../axes/reality-nature.md) : Dualisme* fonde *[Nature de la conscience](../axes/consciousness-nature.md) : Dualisme des substances* : Si la réalité comprend deux substances irréductibles, la matière étendue et la pensée, alors ma conscience relève de la seconde : elle n'est pas le cerveau, mais une réalité d'une autre nature. Le dualisme métaphysique fonde directement le dualisme des substances en philosophie de l'esprit, dont [Descartes](../philosophers/descartes.md) donne la formulation classique.
-- *[Nature de l'esprit et du réel](../axes/reality-nature.md) : Matérialisme* fonde *[Nature de la conscience](../axes/consciousness-nature.md) : Physicalisme réducteur* : Si tout ce qui existe est matériel, la conscience ne peut être qu'une propriété du cerveau : les états mentaux sont des états physiques, que la science finira par identifier. Le matérialisme conduit ainsi au physicalisme réducteur, qui refuse à l'esprit toute réalité distincte de l'activité neuronale.
-- *[Nature de la conscience](../axes/consciousness-nature.md) : Dualisme des substances* fonde *[Cercle moral](../axes/moral-circle.md) : Anthropocentrisme* : Si seule l'âme rationnelle confère une intériorité véritable, les animaux, privés de cette substance pensante, ne sont que des mécanismes sans dignité propre. Le dualisme des substances soutient l'anthropocentrisme moral : chez [Descartes](../philosophers/descartes.md), la « bête-machine » n'entre pas dans le cercle de nos devoirs directs. Le lien est toutefois moins net chez les anthropocentristes qui, tel [Kant](../philosophers/kant.md), fondent la dignité sur la raison plutôt que sur une âme-substance.
-- *[Nature de la conscience](../axes/consciousness-nature.md) : Dualisme des substances* fonde *[Être ou avoir un corps](../axes/embodiment.md) : Corps-instrument* : Si je suis essentiellement un esprit distinct de la matière, mon corps devient un instrument que j'utilise, voire une prison dont je me distingue. Le dualisme des substances soutient la conception du corps-instrument, de [Platon](../philosophers/plato.md) à [Descartes](../philosophers/descartes.md), même si ce dernier a fini par insister sur l'union de l'âme et du corps.
-- *[Nature de la conscience](../axes/consciousness-nature.md) : Dualisme des substances* fonde *[Liberté de la volonté](../axes/freedom.md) : Libre arbitre* : Si l'esprit n'appartient pas à l'ordre mécanique de la matière, la volonté échappe au déterminisme des causes physiques et peut se déterminer elle-même. Le dualisme des substances soutient ainsi le [libre arbitre](../glossary/free-will.md), en soustrayant la décision à l'enchaînement des causes naturelles.
-- *[Nature de la conscience](../axes/consciousness-nature.md) : Dualisme des substances* fonde *[Nature du moi](../axes/self-nature.md) : Substantialisme* : Si l'esprit est une substance distincte du corps, le moi qui dit « je » est cette chose pensante, identique à elle-même sous le flux des expériences. Le dualisme des substances fonde le substantialisme : l'[identité personnelle](../glossary/personal-identity.md) repose sur la permanence de l'âme, et non sur la mémoire ou le récit. C'est la position de [Descartes](../philosophers/descartes.md).
+- *[Nature du réel](../axes/reality-nature.md) : Dualisme* fonde *[L'énigme de la conscience](../axes/consciousness-nature.md) : Dualisme des substances* : Si la réalité comprend deux substances irréductibles, la matière étendue et la pensée, alors ma conscience relève de la seconde : elle n'est pas le cerveau, mais une réalité d'une autre nature. Le dualisme métaphysique fonde directement le dualisme des substances en philosophie de l'esprit, dont [Descartes](../philosophers/descartes.md) donne la formulation classique.
+- *[Nature du réel](../axes/reality-nature.md) : Matérialisme* fonde *[L'énigme de la conscience](../axes/consciousness-nature.md) : Physicalisme réducteur* : Si tout ce qui existe est matériel, la conscience ne peut être qu'une propriété du cerveau : les états mentaux sont des états physiques, que la science finira par identifier. Le matérialisme conduit ainsi au physicalisme réducteur, qui refuse à l'esprit toute réalité distincte de l'activité neuronale.
+- *[L'énigme de la conscience](../axes/consciousness-nature.md) : Dualisme des substances* fonde *[Cercle moral](../axes/moral-circle.md) : Anthropocentrisme* : Si seule l'âme rationnelle confère une intériorité véritable, les animaux, privés de cette substance pensante, ne sont que des mécanismes sans dignité propre. Le dualisme des substances soutient l'anthropocentrisme moral : chez [Descartes](../philosophers/descartes.md), la « bête-machine » n'entre pas dans le cercle de nos devoirs directs. Le lien est toutefois moins net chez les anthropocentristes qui, tel [Kant](../philosophers/kant.md), fondent la dignité sur la raison plutôt que sur une âme-substance.
+- *[L'énigme de la conscience](../axes/consciousness-nature.md) : Dualisme des substances* fonde *[Être ou avoir un corps](../axes/embodiment.md) : Corps-instrument* : Si je suis essentiellement un esprit distinct de la matière, mon corps devient un instrument que j'utilise, voire une prison dont je me distingue. Le dualisme des substances soutient la conception du corps-instrument, de [Platon](../philosophers/plato.md) à [Descartes](../philosophers/descartes.md), même si ce dernier a fini par insister sur l'union de l'âme et du corps.
+- *[L'énigme de la conscience](../axes/consciousness-nature.md) : Dualisme des substances* fonde *[Liberté de la volonté](../axes/freedom.md) : Libre arbitre* : Si l'esprit n'appartient pas à l'ordre mécanique de la matière, la volonté échappe au déterminisme des causes physiques et peut se déterminer elle-même. Le dualisme des substances soutient ainsi le [libre arbitre](../glossary/free-will.md), en soustrayant la décision à l'enchaînement des causes naturelles.
+- *[L'énigme de la conscience](../axes/consciousness-nature.md) : Dualisme des substances* fonde *[Après la mort](../axes/afterlife.md) : L'âme immortelle* : Si l'esprit est une substance distincte du corps, sa survie devient concevable : le dualisme des substances est le socle métaphysique de l'âme immortelle, de [Platon](../philosophers/plato.md) à [Descartes](../philosophers/descartes.md).
+- *[L'énigme de la conscience](../axes/consciousness-nature.md) : Dualisme des substances* fonde *[Nature du moi](../axes/self-nature.md) : Substantialisme* : Si l'esprit est une substance distincte du corps, le moi qui dit « je » est cette chose pensante, identique à elle-même sous le flux des expériences. Le dualisme des substances fonde le substantialisme : l'[identité personnelle](../glossary/personal-identity.md) repose sur la permanence de l'âme, et non sur la mémoire ou le récit. C'est la position de [Descartes](../philosophers/descartes.md).
 
 ## Axes liés
 
-[Une machine peut-elle penser](../axes/machine-mind.md) · [Nature de l'esprit et du réel](../axes/reality-nature.md) · [Liberté de la volonté](../axes/freedom.md) · [Place de la science](../axes/science-place.md)
+[Une machine peut-elle penser](../axes/machine-mind.md) · [Nature du réel](../axes/reality-nature.md) · [Liberté de la volonté](../axes/freedom.md) · [Place de la science](../axes/science-place.md) · [Après la mort](../axes/afterlife.md)
 
 ---
 

@@ -76,7 +76,7 @@ Crowned in 1750 for defending the paradox that the revival of the sciences and a
 
 *positioned · explicit in the texts · major*
 
-Sentimentalism 85% · Intellectualism 15%
+The primacy of feeling 85% · The primacy of reason 15%
 
 Against the intellectualism that makes reason the judge of the good, Rousseau lodges morality in a feeling: conscience, a « divine instinct », makes us love the good before we understand it, and [pity](../glossary/pitie.md), the natural reluctance to see suffering, grounds sociability before any calculation. The heart precedes and overflows reason. This rehabilitation of feeling, unfolded in Julie, or the New Heloise, opens the way to [Romanticism](../movements/romanticism.md).
 
@@ -256,7 +256,7 @@ To the egoism that society manufactures through [amour-propre](../glossary/amour
 
 *positioned · inferable · minor*
 
-Presentism 60% · Project 20% · Memory and transmission 20%
+Living in the present 60% · Project 20% · Memory and transmission 20%
 
 In the Reveries, Rousseau describes those moments when, with neither past nor future, the soul suffices to itself in the pure « feeling of existence ». Happiness lies neither in the project nor in memory, but in full presence to the moment and to nature. This prizing of the lived present will inspire the Romantic sensibility.
 
@@ -271,6 +271,16 @@ Universalism 55% · Constructivism 25% · Relativism 20%
 Conscience, the « infallible judge of good and evil », speaks in every man: its verdicts depend not on local customs but on a feeling common to the species. Rousseau thus maintains a moral universalism, even though, as legislator for Poland or Corsica, he acknowledges that institutions must be fitted to the particular genius of each people.
 
 *Sources : Rousseau, Emile, Profession of Faith of the Savoyard Vicar · Rousseau, Considerations on the Government of Poland*
+
+### [The value of truth](../axes/truth-value.md)
+
+*positioned · inferable · minor*
+
+The primacy of truth 50% · Vital illusions 50%
+
+It is not truth that corrupts but presumption: we go astray not through what we do not know, but through what we think we know. Émile's education therefore delays the truths that cannot yet be either understood or verified, religion, metaphysics, conventions, and admits knowledge only in the measure of its present usefulness and of the pupil's experience; ignorance there is a lesser evil than error, and conscience a surer guide than reasoning.
+
+*Sources : Emile, or On Education, II-III (1762) · Emile, IV (Profession of Faith of the Savoyard Vicar)*
 
 ## Influenced by
 

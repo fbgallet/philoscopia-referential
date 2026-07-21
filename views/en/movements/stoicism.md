@@ -76,7 +76,7 @@ The good, the Stoics argue, must be what always benefits and never harms; yet he
 
 *positioned · explicit in the texts · major*
 
-Intellectualism 93% · Sentimentalism 8%
+The primacy of reason 93% · The primacy of feeling 8%
 
 A passion is not an undergone disturbance but an [assent](../glossary/synkatathesis.md) given to a false [representation](../glossary/phantasia.md) of what is good or bad, followed by an excessive impulse. Since assent is up to us, a passion is a correctable error: to aim at [apatheia](../glossary/apatheia.md) is therefore not to stifle a feeling but to rectify the judgment, a far sharper position than [Aristotle](../philosophers/aristotle.md)'s mere moderation.
 
@@ -186,7 +186,7 @@ The Stoic divine is not beyond the world: divine reason is [immanent](../glossar
 
 *Sources : Cicero, On the Nature of the Gods, book II · Diogenes Laertius, Lives, VII, 138-139*
 
-### [Nature of mind and reality](../axes/reality-nature.md)
+### [Nature of reality](../axes/reality-nature.md)
 
 *positioned · explicit in the texts · minor*
 
@@ -260,7 +260,7 @@ Bodily pleasure is a mere [indifferent](../glossary/adiaphora.md): neither good 
 
 *positioned · explicit in the texts · minor*
 
-Death is nothing 65% · Being-toward-death 30% · Immortalism 5%
+Freeing ourselves from the fear 65% · Living in view of one's death 30% · Preparing for the passage 5%
 
 Death is a natural process, in keeping with the order of the cosmos, and therefore an [indifferent](../glossary/adiaphora.md) not to be feared. The meditation on death (the premeditation of evils and the memento mori) serves to free present life from anxiety rather than to promise survival. Marcus Aurelius sees in it the mere dissolution of the elements back into the whole.
 
@@ -270,7 +270,7 @@ Death is a natural process, in keeping with the order of the cosmos, and therefo
 
 *positioned · explicit in the texts · minor*
 
-Presentism 70% · Project 20% · Memory and transmission 10%
+Living in the present 70% · Project 20% · Memory and transmission 10%
 
 Stoicism calls for inhabiting the present, the only time we possess: the past is no more, the future not yet, and one can lose only the moment one is living. Marcus Aurelius reminds himself that each person lives only this fleeting instant, and that consenting to it fully suffices for the good life.
 
@@ -290,11 +290,21 @@ To hope and to fear, for the Stoics, is to cast oneself into a future not up to 
 
 *positioned · explicit in the texts · major*
 
-Theodicy 80% · Free-will defence 10% · Argument from evil (atheism) 10%
+Evil has its reasons 90% · Evil refutes God 10%
 
 The world is governed by a providential divine reason: what appears as evil has its place in the rational order of the whole, or serves as a trial for virtue. Nothing happens that is not in accord with universal nature.
 
 *Sources : Seneca, On Providence; Epictetus, Discourses; Marcus Aurelius, Meditations*
+
+### [The value of truth](../axes/truth-value.md)
+
+*positioned · explicit in the texts · minor*
+
+The primacy of truth 80% · Vital illusions 20%
+
+Disturbance comes not from things but from judgments: the discipline of assent requires adding nothing to impressions, saying of what happens exactly what it is. Stoic serenity is not a consolation but an exactness: to see the real as it is, is already to cease suffering from it unduly.
+
+*Sources : Epictetus, Handbook · Marcus Aurelius, Meditations*
 
 ## Influenced by
 

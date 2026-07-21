@@ -6,35 +6,41 @@
 
 *The self · value · categorical · core axis*
 
-Whether we take it for sheer nothingness, for the horizon that gives life its worth, for a passage toward a beyond, or for an outrage to be fought, living is not the same thing. The end that awaits us secretly governs the urgency, or the serenity, with which we move through our days.
+Faced with death, the first reaction is not a philosophy: it is fear. The whole question is what to do with it. Should we cure it, by understanding what makes it vain? Convert it into lucidity, because numbered days weigh more than days without number? Soothe it by preparing for a passage? Or concede that it is right, and refuse death as the evil above all others? Whether some part of us survives is another question, with its own axis: to take a position here is to choose what to do with one's own finitude, and with the fear that comes with it.
 
 ## Poles
 
-### Death is nothing
+### Freeing ourselves from the fear
 
-Death is nothing to us: as long as we exist, it is not here, and when it is here, we no longer exist. Fearing it is therefore irrational, and freeing ourselves from this fear lets us enjoy the present life serenely.
+The fear of death is a surer evil than death itself: it poisons the whole of life. It must be cured through understanding, by thinking death through to the end and discovering that it is nothing to us, or that it is nature's own course; a mind freed from this fear can at last enjoy what is.
 
-*[Epicurus](../philosophers/epicurus.md)*
+- The reasons for the cure vary: nothing to us (Epicurus: where I am, death is not), consent to natural transformation (Zhuangzi, the Stoics). So many paths to the same freedom.
 
-### Being-toward-death
+*[Epicurus](../philosophers/epicurus.md) · [Lucretius](../philosophers/lucretius.md)*
 
-Far from being a mere final event, death is my ownmost possibility: facing it lucidly tears us away from everyday distraction and opens the way to an authentic existence. It is by knowing ourselves mortal that we truly become ourselves.
+### Living in view of one's death
 
-*[Heidegger](../philosophers/heidegger.md)*
+Not to flee one's mortality but to hold it in view: knowing my possibilities are numbered is what makes them mine and gives each choice its weight. This lucidity is not morbid; it is the price of an authentic existence, wrested from distraction and from the anonymous "one dies" that never concerns anyone.
 
-### Immortalism
+- The exercise is ancient: the Stoics' meditation on death, the memento mori, the early Montaigne (to philosophize is to learn to die).
 
-Death is not the end of everything: the soul, or something of us, survives the body. The present life is then understood as a preparation or a passage, and death loses its character of absolute defeat.
+*[Heidegger](../philosophers/heidegger.md) · [Seneca](../philosophers/seneca.md)*
 
-*[Plato](../philosophers/plato.md) · religions*
+### Preparing for the passage
 
-### Revolt / refusal
+Death is not a wall but a threshold: the right attitude is to prepare for it by the way one lives, and to approach it with trust. This is the ars moriendi of the traditions: learning to die well is part of learning to live well, and the serenity of the final passage is cultivated starting now.
 
-Death is the supreme evil, an unacceptable scandal, not an event to greet with serenity. The right attitude is not to resign oneself to it but to refuse it: to rise against it in lucid revolt, or to seek to push it back and defeat it.
+- What the passage promises depends on one's belief about survival (soul, resurrection, rebirth, liberation), which is decided on its own axis; what is decided here is the attitude: preparation, trust, hope.
+
+*[Plato](../philosophers/plato.md) · [Thomas Aquinas](../philosophers/aquinas.md)*
+
+### Refusing death
+
+Death is a real evil, the absolute scandal: nothing justifies or redeems it. The right attitude is not to tame it but to refuse it, from the metaphysical revolt that never blesses the unacceptable to the concrete fight to push it back or defeat it. To consent would be to betray what is irreplaceable in life.
 
 *[Camus](../philosophers/camus.md) · [Beauvoir](../philosophers/beauvoir.md)*
 
-*Common opinion leans toward « Revolt / refusal ».*
+*Common opinion leans toward « Refusing death ».*
 
 ## Live problems
 
@@ -51,26 +57,19 @@ Death is the supreme evil, an unacceptable scandal, not an event to greet with s
 
 ## Arguments
 
-- *Death is nothing* · for : [The symmetry argument](../arguments/death-epicurean-symmetry.md)
-- *Death is nothing* · against : [The anxiety objection](../arguments/death-anxiety-objection.md)
-- *Death is nothing* · against : [The deprivation argument](../arguments/death-deprivation.md)
-- *Being-toward-death* · for : [The authenticity argument](../arguments/death-being-toward-death.md)
-- *Being-toward-death* · against : [The morbid-rumination objection](../arguments/death-morbid-rumination.md)
-- *Being-toward-death* · against : [The primacy-of-death objection](../arguments/death-primacy-objection.md)
-- *Immortalism* · for : [The argument from the soul](../arguments/death-immortalist-hope.md)
-- *Immortalism* · against : [The flight objection](../arguments/death-flight-from-finitude.md)
-- *Immortalism* · against : [The identity objection](../arguments/death-identity-objection.md)
+- *Freeing ourselves from the fear* · for : [The symmetry argument](../arguments/death-epicurean-symmetry.md)
+- *Freeing ourselves from the fear* · against : [The anxiety objection](../arguments/death-anxiety-objection.md)
+- *Freeing ourselves from the fear* · against : [The deprivation argument](../arguments/death-deprivation.md)
+- *Living in view of one's death* · for : [The authenticity argument](../arguments/death-being-toward-death.md)
+- *Living in view of one's death* · against : [The morbid-rumination objection](../arguments/death-morbid-rumination.md)
+- *Living in view of one's death* · against : [The primacy-of-death objection](../arguments/death-primacy-objection.md)
 
 ## Grounding relations
 
-- *[Existence of God](../axes/god-existence.md) : Atheism* grounds *[Death](../axes/death.md) : Death is nothing* : If God does not exist and no life follows death, then to die is only a return to nothingness, where there is no one left to suffer being dead. Atheism meets the consolation of [Epicurus](../philosophers/epicurus.md): "death is nothing to us", and freeing oneself from its fear restores the full value of the present life.
-- *[Essence and existence](../axes/essence.md) : Existentialism* grounds *[Death](../axes/death.md) : Being-toward-death* : If the human being has no given essence and is only what they make of themselves, then it is by assuming their own finitude that they tear themselves from dispersion and become authentically themselves. Existentialism grounds being-toward-death: [Heidegger](../philosophers/heidegger.md) makes death, once assumed, one's ownmost possibility, the one that reveals existence to itself.
-- *[Nature of the self](../axes/self-nature.md) : Substantialism* grounds *[Death](../axes/death.md) : Immortalism* : If the self is a simple, immaterial substance distinct from the body, nothing requires it to perish when the body decomposes. Substantialism opens the way to the immortality of the soul, as in [Plato](../philosophers/plato.md)'s argument deriving the soul's indestructibility from its simplicity.
-- *[Existence of God](../axes/god-existence.md) : Theism* grounds *[Death](../axes/death.md) : Immortalism* : If a personal and just God exists, the hope of a soul that survives him and receives his judgement becomes coherent. Theism thus supports immortalism, for which death is not the final annihilation of the person.
-
-## Tensions
-
-- With [Existence of God](../axes/god-existence.md) : Confidently asserting that no God and nothing divine exists, then expecting that at death a soul, or something of oneself, survives it, puts two positions in tension: immortalist hope usually presupposes an order, a judgment, or a spiritual reality that atheism rejects. Holding both calls at least for saying what such survival would then rest upon.
+- *[Existence of God](../axes/god-existence.md) : Atheism* grounds *[Death](../axes/death.md) : Freeing ourselves from the fear* : If God does not exist and no life follows death, then to die is only a return to nothingness, where there is no one left to suffer being dead. Atheism meets the consolation of [Epicurus](../philosophers/epicurus.md): "death is nothing to us", and freeing oneself from its fear restores the full value of the present life.
+- *[Essence and existence](../axes/essence.md) : Existentialism* grounds *[Death](../axes/death.md) : Living in view of one's death* : If the human being has no given essence and is only what they make of themselves, then it is by assuming their own finitude that they tear themselves from dispersion and become authentically themselves. Existentialism grounds being-toward-death: [Heidegger](../philosophers/heidegger.md) makes death, once assumed, one's ownmost possibility, the one that reveals existence to itself.
+- *[After death](../axes/afterlife.md) : The immortal soul* grounds *[Death](../axes/death.md) : Preparing for the passage* : Preparing for death as for a passage supposes there is something beyond the threshold: belief in a soul that survives grounds the attitude of trust and preparation, as in [Plato](../philosophers/plato.md), where to philosophize is to practice dying.
+- *[After death](../axes/afterlife.md) : Nothing survives* grounds *[Death](../axes/death.md) : Freeing ourselves from the fear* : [Epicurus](../philosophers/epicurus.md)' argument rests entirely on annihilation: if death is complete dissolution, it is nothing to us, and the fear dissolves with it. Were something to survive, death would become something again: it is the belief that nothing survives that grounds the liberation from fear.
 
 ## Quotations
 
@@ -100,7 +99,7 @@ Death is the supreme evil, an unacceptable scandal, not an event to greet with s
 
 ## Related axes
 
-[Existence of God](../axes/god-existence.md) · [The meaning of life](../axes/life-meaning.md) · [Temporal orientation](../axes/time-orientation.md) · [Nature of the self](../axes/self-nature.md) · [Enhancing human nature](../axes/human-enhancement.md)
+[Existence of God](../axes/god-existence.md) · [The meaning of life](../axes/life-meaning.md) · [Temporal orientation](../axes/time-orientation.md) · [Nature of the self](../axes/self-nature.md) · [Enhancing human nature](../axes/human-enhancement.md) · [After death](../axes/afterlife.md)
 
 ---
 

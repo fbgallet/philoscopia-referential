@@ -140,7 +140,7 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
     {
       title: "Read a referential entity",
       description:
-        "Any entity by prefixed ref: ph:epictetus, mv:stoicism, chr:… (character), c:… (concept), te:… (thought experiment), w:… (work), ax:… (axis), problem:… (one axis sub-problem, with its home axis), arg:… (a corpus argument: its claim, step-by-step development, source, and — for an objection — the resolution options). A figure arrives as a DIGEST (~1k tokens): identity, structuring theses, and every position WITHOUT its justification — get_position supplies the justifications you actually discuss. full:true (the RICH view, ~2-5k tokens: summary, voice, the justified MAJOR/structuring positions — minor positions stay compact lines, get_position widens one) only for a whole-figure portrait, or when you do not know the figure at all.",
+        "Any entity by prefixed ref: ph:epictetus, mv:stoicism, chr:… (character), c:… (concept), te:… (thought experiment), w:… (work), ax:… (axis), problem:… (one axis sub-problem, with its home axis), arg:… (a corpus argument: its claim, step-by-step development, source, and — for an objection — the resolution options), theme:… (a discovery theme: the axes that treat a general-public notion, e.g. theme:happiness → SOVEREIGN_GOOD, DESIRE, …). A figure arrives as a DIGEST (~1k tokens): identity, structuring theses, and every position WITHOUT its justification — get_position supplies the justifications you actually discuss. full:true (the RICH view, ~2-5k tokens: summary, voice, the justified MAJOR/structuring positions — minor positions stay compact lines, get_position widens one) only for a whole-figure portrait, or when you do not know the figure at all.",
       inputSchema: {
         ref: z.string().describe("Prefixed ref, e.g. ph:epictetus"),
         full: z.boolean().optional().describe("Whole profile (unknown figure / full portrait)"),
@@ -148,7 +148,7 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
     },
     async ({ ref, full }) => {
       const entity = corpus.byRef.get(ref);
-      if (!entity) return asError(new Error(`"${ref}" not found. Prefixes: ax, ph, mv, chr, c, te, w, problem, arg.`));
+      if (!entity) return asError(new Error(`"${ref}" not found. Prefixes: ax, ph, mv, chr, c, te, w, problem, arg, theme.`));
       const flat = pickLocale(entity, locale);
       return asText(full ? entityRichView(ref, flat) : entityView(ref, flat));
     },
@@ -195,7 +195,7 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
     {
       title: "Search the referential",
       description:
-        "Substring search across axes, philosophers, movements, characters, glossary, thought experiments, works, axis sub-problems (problem:… hits — the way to find the corpus problem behind a user's question) and arguments (arg:… hits — the canonical reasons and objections for a position). Returns prefixed refs to feed get_entity/get_axis.",
+        "Substring search across axes, philosophers, movements, characters, glossary, thought experiments, works, axis sub-problems (problem:… hits — the way to find the corpus problem behind a user's question), arguments (arg:… hits — the canonical reasons and objections for a position) and discovery themes (theme:… hits — a lay/school notion mapped to the axes that treat it; get_entity a theme for its curated axis list). Returns prefixed refs to feed get_entity/get_axis.",
       inputSchema: { query: z.string().min(2), limit: z.number().int().min(1).max(50).optional() },
     },
     async ({ query, limit }) => asText(searchCorpus(corpus, query, locale, limit ?? 20)),
@@ -378,7 +378,7 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
             .optional()
             .describe("beliefs (default HELD) / inquiries (default ACTIVE) / readings (default READ; ABANDONED works here too)"),
           topics: z.array(z.string()).optional().describe("beliefs: free-text themes"),
-          relatedAxes: z.array(z.string()).optional().describe("beliefs/affinities/readings: ax:… refs"),
+          relatedAxes: z.array(z.string()).optional().describe("beliefs/readings: ax:… refs. affinities: ax:… or theme:… — a lay love/hate attaches naturally to a theme (e.g. theme:freedom), the general-public entry point over the axes"),
           grounds: z.array(z.string()).optional().describe("beliefs: belief ids or pole:… refs that ground this one"),
           challengedBy: z.array(z.string()).optional().describe("beliefs: belief ids or refs in tension with it"),
           rationale: z.string().optional().describe("beliefs"),

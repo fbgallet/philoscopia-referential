@@ -1,0 +1,30 @@
+{
+  "id": "technology",
+  "label": {
+    "fr": "La technique",
+    "en": "Technology"
+  },
+  "aliases": {
+    "fr": [
+      "technique",
+      "technologie",
+      "machines",
+      "outils",
+      "numérique"
+    ],
+    "en": [
+      "technology",
+      "technique",
+      "machines",
+      "tools",
+      "digital"
+    ]
+  },
+  "axes": [
+    "TECHNOLOGY",
+    "HUMAN_ENHANCEMENT",
+    "MACHINE_MIND",
+    "ATTENTION",
+    "WORK_MEANING"
+  ]
+}

@@ -2,7 +2,7 @@
 
 **🇬🇧 English · [🇫🇷 Français](README.fr.md)**
 
-An open, bilingual (EN/FR) referential for mapping philosophical positions: **75 axes** covering the great debates, **sourced profiles** of philosophers and movements, **influence and foundation graphs**, a glossary and a registry of works — all as validated, machine-readable JSON, designed for reuse by humans and LLMs alike.
+An open, bilingual (EN/FR) referential for mapping philosophical positions: **80 axes** covering the great debates, **sourced profiles** of philosophers and movements, **influence and foundation graphs**, a glossary and a registry of works — all as validated, machine-readable JSON, designed for reuse by humans and LLMs alike.
 
 This referential powers **Philoscopia**, a philosophical companion for discovering the worldviews of philosophers and building one's own. The data is published here so that anyone — researchers, teachers, developers, or anyone with an LLM — can explore, reuse, criticize and improve it.
 
@@ -14,7 +14,8 @@ Everything lives under `data/`, one JSON file per entity:
 
 | Folder | What it contains |
 |---|---|
-| `axes/` | The core of the referential: 75 axes of philosophical positions (e.g. free will, the sovereign good, the nature of truth). Each axis defines its poles, its territory and layer (descriptive theory vs value), its type (bipolar, spectrum, …), its related axes, and a map of the live sub-problems it carries. |
+| `axes/` | The core of the referential: 80 axes of philosophical positions (e.g. free will, the sovereign good, the nature of truth). Each axis defines its poles, its territory and layer (descriptive theory vs value), its type (bipolar, spectrum, …), its related axes, and a map of the live sub-problems it carries. |
+| `themes/` | A beginner-friendly discovery layer: everyday entry words (life themes and school-programme notions — freedom, happiness, justice, …) each mapped to the axes that treat them. A simple, clear way into the referential without knowing its axis vocabulary; `featured` themes surface first. |
 | `philosophers/` | Profiles positioning a philosopher on the axes, with **sourced justifications**, a declared/practiced distinction, statuses and salience. Full profiles coexist with lightweight stubs (`"stub": true`) that mark coverage still to be authored. |
 | `movements/` | Same model for schools and movements (Stoicism, utilitarianism, …). |
 | `characters/` | Same model for fictional characters. |
@@ -25,6 +26,8 @@ Everything lives under `data/`, one JSON file per entity:
 | `works/` | A registry of the works cited or tagged in the corpus. |
 | `thought-experiments/` | Classic thought experiments (the trolley problem, the experience machine, the ring of Gyges, …) linked to the axes they put under stress. |
 | `arguments/` | The canonical arguments (SUPPORTS) and objections (OBJECTS) bearing on a position: a chain of reasons with optional deepenings, sources, and — for objections — the honest ways out (revise / qualify / hold firm). |
+
+Most entities (themes, axes, philosophers, movements, glossary, characters) also carry **`aliases`** — bilingual lists of alternative names and everyday search terms — so a reader or LLM can reach the right entry from the words they'd naturally use, not just its canonical id.
 
 ## Browse the corpus
 

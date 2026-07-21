@@ -110,7 +110,7 @@ The summit of knowledge, the third kind, grasps things in God; this [adequate kn
 
 *positioned · explicit in the texts · major*
 
-Intellectualism 70% · Sentimentalism 30%
+The primacy of reason 70% · The primacy of feeling 30%
 
 Since the affects follow from natural necessity like everything else, blaming them is futile: Spinoza proposes to treat them “as if it were a question of lines and planes”. His therapeutic argument is precise: a passion is a confused idea, hence a passivity; forming a [clear idea](../glossary/adequate-idea.md) of it turns it into an action, so that to understand an affect is already to free oneself from it, not to repress it.
 
@@ -150,7 +150,7 @@ Seeking one's own advantage is the very foundation of virtue, but advantage righ
 
 *Sources : Ethics, IV, prop. 18, scholium (seeking one's advantage, the foundation of virtue) · Ethics, IV, prop. 35, corollary (nothing more useful to man than man)*
 
-### [Nature of mind and reality](../axes/reality-nature.md)
+### [Nature of reality](../axes/reality-nature.md)
 
 *positioned · inferable · minor*
 
@@ -234,7 +234,7 @@ Sadness is always the passage to a lesser perfection, a diminution of the power 
 
 *positioned · inferable · minor*
 
-Death is nothing 70% · Immortalism 20% · Being-toward-death 5% · Revolt / refusal 5%
+Freeing ourselves from the fear 70% · Preparing for the passage 20% · Living in view of one's death 5% · Refusing death 5%
 
 For the free man, the fear of dying is a passion born of [inadequate ideas](../glossary/adequate-idea.md), to be dissolved through knowledge: a free man thinks of nothing less than of death. The eternity of the mind he speaks of is no personal survival in duration, hence a residual share of immortalism. And though every being strives to persevere in its being (conatus), this metaphysical refusal of its own destruction stays secondary to the sage's serenity.
 
@@ -260,7 +260,7 @@ The Ethics is demonstrated "in the geometrical manner": all knowledge is deduced
 
 *Sources : Ethics, I; Treatise on the Emendation of the Intellect*
 
-### [Nature of consciousness](../axes/consciousness-nature.md)
+### [The enigma of consciousness](../axes/consciousness-nature.md)
 
 *positioned · inferable · minor*
 
@@ -301,6 +301,16 @@ At the heart of love Spinoza sees neither lack nor gift but a joy: to love is to
 > “He who loves God cannot strive that God should love him in return.”, Ethics, V, prop. 19
 
 *Sources : Ethics, III (definition of love); IV, props. 35-37 and 70-71 (the friendship of reasonable people); V, props. 19 and 32-37 (the intellectual love of God)*
+
+### [The value of truth](../axes/truth-value.md)
+
+*positioned · explicit in the texts · major*
+
+The primacy of truth 95% · Vital illusions 5%
+
+Understanding is the sole salvation: each adequate idea increases our power of acting, and beatitude is nothing but the intellectual love born of knowledge of the third kind. Illusion is not first a fault but an impotence, a mutilated idea that makes us passive; the task is neither to mock nor to curse, but to understand, because understanding is already being free.
+
+*Sources : Ethics, IV-V · Political Treatise, I*
 
 ## Influenced by
 

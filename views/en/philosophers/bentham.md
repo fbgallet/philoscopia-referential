@@ -39,7 +39,7 @@ Bentham assigns life no cosmic or providential end: the only meaning is the one 
 
 *positioned · inferable · minor*
 
-Death is nothing 85% · Revolt / refusal 10% · Immortalism 5%
+Freeing ourselves from the fear 85% · Refusing death 10% · Preparing for the passage 5%
 
 A materialist and enemy of fictions, Bentham acknowledges no hereafter: death is the simple cessation of sensibility, hence neither to be feared nor surrounded with superstition. He pushes the consequence so far as to bequeath his body to science and have it preserved as an **auto-icon**, a lucid gesture against the religious terror of death.
 
@@ -295,7 +295,7 @@ No pleasure is bad in itself: the pleasures of sense appear on the same footing 
 
 *positioned · inferable · minor*
 
-Intellectualism 75% · Sentimentalism 25%
+The primacy of reason 75% · The primacy of feeling 25%
 
 Bentham distrusts moral sentiments set up as rules: the principle of sympathy and antipathy approves or condemns at the whim of feeling, without giving a reason, and often masks prejudice. To affective spontaneity he opposes the felicific calculus, a reflective, quasi-arithmetic procedure for weighing pleasures and pains. Morality thus rests on methodical reasoning rather than on emotion.
 

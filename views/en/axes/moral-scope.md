@@ -60,7 +60,7 @@ Moral norms are neither discovered in the nature of things nor merely relative: 
 
 ## Related axes
 
-[Nature of rights](../axes/rights-nature.md) · [Criterion of right action](../axes/ethics-foundation.md) · [Moral circle](../axes/moral-circle.md) · [Nature of truth](../axes/truth-nature.md) · [Place of science](../axes/science-place.md) · [Humanity's place in nature](../axes/human-place-nature.md)
+[Nature of rights](../axes/rights-nature.md) · [Criterion of right action](../axes/ethics-foundation.md) · [Moral circle](../axes/moral-circle.md) · [Nature of truth](../axes/truth-nature.md) · [Place of science](../axes/science-place.md) · [Humanity's place in nature](../axes/human-place-nature.md) · [The source of morality](../axes/moral-source.md)
 
 ---
 

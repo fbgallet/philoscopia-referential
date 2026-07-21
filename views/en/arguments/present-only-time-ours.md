@@ -2,7 +2,7 @@
 
 # The only time that is ours
 
-*Argument for [Temporal orientation](../axes/time-orientation.md) : Presentism*
+*Argument for [Temporal orientation](../axes/time-orientation.md) : Living in the present*
 
 **Of all time, only the present belongs to us; the rest exists only in our heads.**
 

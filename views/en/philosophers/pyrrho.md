@@ -52,7 +52,7 @@ If nothing is good or bad by nature, then no object deserves to be pursued or fe
 
 *positioned · inferable · major*
 
-Intellectualism 80% · Sentimentalism 20%
+The primacy of reason 80% · The primacy of feeling 20%
 
 Disturbance, for Pyrrho, arises from the opinion that a thing is good or bad: remove the judgment, and the emotion that depended on it falls away. This is an intellectualism of the passions, shared with the Stoics, but he pushes it further than they do, since he withdraws not only false judgments but the very act of judging things. One nuance holds him back from the extreme: tradition grants that the sage still suffers in the body, from cold or pain, affections no suspension abolishes. Diogenes Laertius indeed reports that Pyrrho, caught one day fleeing a dog, admitted it is hard to strip the human being away entirely.
 
@@ -124,7 +124,7 @@ Pyrrho's skepticism is first an attitude turned toward the testing of appearance
 
 Holding things to be indeterminate, Pyrrho can adopt no theory of the true, whether by correspondence, coherence or otherwise, without contradicting his own suspension. He holds to what appears and takes no stand on what would be true "by nature".
 
-### [Nature of mind and reality](../axes/reality-nature.md)
+### [Nature of reality](../axes/reality-nature.md)
 
 *not applicable*
 

@@ -1,0 +1,30 @@
+{
+  "id": "religion",
+  "label": {
+    "fr": "La religion",
+    "en": "Religion"
+  },
+  "aliases": {
+    "fr": [
+      "religion",
+      "foi",
+      "croyance religieuse",
+      "prière"
+    ],
+    "en": [
+      "religion",
+      "faith",
+      "religious belief",
+      "prayer"
+    ]
+  },
+  "featured": true,
+  "axes": [
+    "GOD_EXISTENCE",
+    "FAITH_REASON",
+    "TRANSCENDENCE",
+    "PROBLEM_OF_EVIL",
+    "MORAL_SOURCE",
+    "AFTERLIFE"
+  ]
+}

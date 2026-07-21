@@ -1,0 +1,32 @@
+{
+  "id": "emotions",
+  "label": {
+    "fr": "Les émotions",
+    "en": "Emotions"
+  },
+  "aliases": {
+    "fr": [
+      "émotions",
+      "sentiments",
+      "passions",
+      "affects",
+      "sentiment",
+      "affect",
+      "affectivité"
+    ],
+    "en": [
+      "emotions",
+      "feelings",
+      "passions",
+      "affects",
+      "feeling",
+      "affect"
+    ]
+  },
+  "featured": true,
+  "axes": [
+    "EMOTIONS",
+    "INTERIORITY",
+    "DESIRE"
+  ]
+}

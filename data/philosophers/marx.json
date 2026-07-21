@@ -14,8 +14,17 @@
     "en": "Reading ideas through the labour, property and social conflicts that shape them, and making thought a tool for intervening in history."
   },
   "aliases": {
-    "fr": ["marxiste", "marxisme", "marxien", "marxienne"],
-    "en": ["Marxist", "Marxism", "Marxian"]
+    "fr": [
+      "marxiste",
+      "marxisme",
+      "marxien",
+      "marxienne"
+    ],
+    "en": [
+      "Marxist",
+      "Marxism",
+      "Marxian"
+    ]
   },
   "summary": {
     "fr": "Philosophe et économiste allemand du XIXe siècle, formé à l'école de <ph id='hegel'>Hegel</ph> qu'il rejoint d'abord parmi les jeunes hégéliens avant de rompre avec eux. Exilé à Paris puis à Londres après l'échec des révolutions de 1848, il mène sa <pb>critique de l'économie politique</pb> en lecteur des économistes anglais (Smith, Ricardo) et compagnon de lutte d'Engels, avec qui il rédige le <w>Manifeste du Parti communiste</w>. Son œuvre maîtresse, <w>Le Capital</w>, dont il ne publie de son vivant que le premier livre, ausculte les rouages du capitalisme là où ses prédécesseurs n'en décrivaient que la surface. Animateur de la Première Internationale, il meurt sans avoir vu triompher la révolution qu'il annonçait, mais sa pensée façonnera une part décisive de la politique, des sciences sociales et de la philosophie du XXe siècle.",
@@ -36,7 +45,12 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0, 0, 0.2, 0.8]
+        "weights": [
+          0,
+          0,
+          0.2,
+          0.8
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MINOR",
@@ -68,7 +82,12 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0, 1, 0, 0]
+        "weights": [
+          0,
+          1,
+          0,
+          0
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
@@ -1047,6 +1066,29 @@
         ],
         "strength": "MEDIUM"
       }
+    },
+    {
+      "axisId": "TRUTH_VALUE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La religion est à ses yeux un bonheur illusoire qui console d'une misère réelle : la critique ne vise pas la croyance pour elle-même, mais la situation sociale qui rend cette consolation nécessaire. Renoncer aux illusions n'a de sens que pour transformer les conditions qui les produisent ; la lucidité ne vaut pas comme bien contemplatif, elle est une condition de l'émancipation.",
+          "en": "Religion is in his eyes an illusory happiness that consoles for a real misery: criticism does not target the belief for its own sake, but the social situation that makes such consolation necessary. Renouncing illusions only makes sense in order to transform the conditions that produce them; lucidity is not valued as a contemplative good, it is a condition of emancipation."
+        },
+        "references": [
+          {
+            "fr": "Critique de la Philosophie du droit de Hegel, Introduction (1844)",
+            "en": "Critique of Hegel's Philosophy of Right, Introduction (1844)"
+          }
+        ],
+        "strength": "STRONG"
+      }
     }
   ],
   "structuring": [
@@ -1086,7 +1128,7 @@
       }
     }
   ],
-  "updatedAt": "2026-07-02T00:00:00.000Z",
+  "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

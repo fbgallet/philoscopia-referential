@@ -1,0 +1,32 @@
+{
+  "id": "happiness",
+  "label": {
+    "fr": "Le bonheur",
+    "en": "Happiness"
+  },
+  "aliases": {
+    "fr": [
+      "bonheur",
+      "être heureux",
+      "bien-être",
+      "vie heureuse",
+      "joie de vivre",
+      "épanouissement personnel"
+    ],
+    "en": [
+      "happiness",
+      "being happy",
+      "well-being",
+      "happy life",
+      "joy of living"
+    ]
+  },
+  "featured": true,
+  "axes": [
+    "SOVEREIGN_GOOD",
+    "DESIRE",
+    "CONTROL_SCOPE",
+    "LIFE_MEANING",
+    "BODILY_PLEASURES"
+  ]
+}

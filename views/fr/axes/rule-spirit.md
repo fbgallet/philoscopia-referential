@@ -30,7 +30,7 @@ Aucune règle générale ne peut prévoir tous les cas particuliers : bien juger
 
 ## Axes liés
 
-[Critère du juste](../axes/ethics-foundation.md) · [Sincérité](../axes/sincerity.md)
+[Critère du juste](../axes/ethics-foundation.md) · [Sincérité](../axes/sincerity.md) · [La loi et la conscience](../axes/political-obligation.md)
 
 ---
 

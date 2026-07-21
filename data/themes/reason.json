@@ -1,0 +1,28 @@
+{
+  "id": "reason",
+  "label": {
+    "fr": "La raison",
+    "en": "Reason"
+  },
+  "aliases": {
+    "fr": [
+      "raison",
+      "rationalité",
+      "rationnel",
+      "logique"
+    ],
+    "en": [
+      "reason",
+      "rationality",
+      "rational",
+      "logic"
+    ]
+  },
+  "axes": [
+    "KNOWLEDGE_SOURCE",
+    "CERTAINTY",
+    "EMOTIONS",
+    "FAITH_REASON",
+    "EPISTEMIC_JUSTIFICATION"
+  ]
+}

@@ -14,8 +14,15 @@
     "en": "Setting reason to examine its own powers: distinguishing what it can know from what it can only think, sacrificing neither science nor freedom."
   },
   "aliases": {
-    "fr": ["kantien", "kantienne", "kantisme"],
-    "en": ["Kantian", "Kantianism"]
+    "fr": [
+      "kantien",
+      "kantienne",
+      "kantisme"
+    ],
+    "en": [
+      "Kantian",
+      "Kantianism"
+    ]
   },
   "summary": {
     "fr": "Philosophe allemand des <mv>Lumières</mv>, professeur à Königsberg dont il ne sortit jamais, figure pivot de la philosophie moderne entre l'<mv id='rationalism'>héritage rationaliste</mv> de <ph id='leibniz'>Leibniz</ph> et l'<mv id='empiricism'>empirisme</mv> de <ph id='hume'>Hume</ph>, qui dit l'avoir <q>tiré de son sommeil dogmatique</q>. Après une longue période « précritique », il publie tardivement, à près de soixante ans, les trois <w>Critiques</w> où il entreprend de soumettre la <c>raison</c> elle-même à un tribunal, pour mesurer ce qu'elle peut connaître, ce qu'elle doit faire et ce qu'il lui est permis d'espérer. Son œuvre commande tout l'<mv>idéalisme allemand</mv> qui le suit (<ph id='hegel'>Hegel</ph>) et reste, du néokantisme à <ph id='rawls'>Rawls</ph>, une référence vivante de l'éthique et de la philosophie politique.",
@@ -920,6 +927,34 @@
         ],
         "strength": "STRONG"
       }
+    },
+    {
+      "axisId": "TRUTH_VALUE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Oser savoir : sortir de la minorité dont on est soi-même responsable exige de ne s'en remettre qu'à son propre entendement, et partout où une vérité peut être établie, dans le champ de l'expérience possible, elle prime sans partage. Mais la critique borne ce champ : au-delà, la raison ne connaît plus, et prétendre y savoir serait dogmatisme ; la <c>foi rationnelle</c> n'y remplace pas une vérité disponible, elle occupe une place que le savoir ne peut structurellement remplir.",
+          "en": "Dare to know: leaving the minority for which one is oneself responsible requires relying on one's own understanding alone, and wherever a truth can be established, within the field of possible experience, it prevails without rival. But critique bounds that field: beyond it reason no longer knows, and claiming knowledge there would be dogmatism; <c>rational faith</c> does not replace an available truth there, it occupies a place that knowledge structurally cannot fill."
+        },
+        "references": [
+          {
+            "fr": "Qu'est-ce que les Lumières ? (1784)",
+            "en": "What Is Enlightenment? (1784)"
+          },
+          {
+            "fr": "Critique de la raison pure, préface B (1787)",
+            "en": "Critique of Pure Reason, B preface (1787)"
+          }
+        ],
+        "strength": "STRONG",
+        "quoteId": "sapere-aude-aie-le-courage-de-kant"
+      }
     }
   ],
   "structuring": [
@@ -959,7 +994,7 @@
       }
     }
   ],
-  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

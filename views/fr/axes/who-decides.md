@@ -28,7 +28,7 @@ Gouverner exige un savoir, comme piloter un navire ou soigner un malade. Confier
 
 ## Axes liés
 
-[Liberté politique](../axes/political-liberty.md) · [Rapport à l'autorité](../axes/authority.md) · [Justice distributive](../axes/distributive-justice.md)
+[Liberté politique](../axes/political-liberty.md) · [Rapport à l'autorité](../axes/authority.md) · [Justice distributive](../axes/distributive-justice.md) · [Valeur de la vérité](../axes/truth-value.md) · [La loi et la conscience](../axes/political-obligation.md)
 
 ---
 

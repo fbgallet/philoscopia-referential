@@ -14,8 +14,13 @@
     "en": "Asking of every idea what difference it makes in experience: the founder of <mv id='pragmatism'>pragmatism</mv> makes thought a collective, corrigible inquiry, oriented toward an agreement to come."
   },
   "aliases": {
-    "fr": ["peircien", "peircienne"],
-    "en": ["Peircean"]
+    "fr": [
+      "peircien",
+      "peircienne"
+    ],
+    "en": [
+      "Peircean"
+    ]
   },
   "summary": {
     "fr": "Logicien, savant et philosophe américain, fondateur du <mv id='pragmatism'>pragmatisme</mv> et de la <c id='semiotics'>sémiotique</c> moderne. Formé aux sciences exactes, géodésien au service de l'État pendant trente ans, il publie en 1877-1878 dans le Popular Science Monthly la série des Illustrations de la logique de la science, dont <w id='the-fixation-of-belief-peirce'>La fixation de la croyance</w> et <w id='how-to-make-our-ideas-clear-peirce'>Comment rendre nos idées claires</w> posent la <c id='pragmatic-maxim'>maxime pragmatique</c>. C'est <ph id='william-james'>William James</ph> qui, en la reprenant, popularise le mot « pragmatisme » ; jugeant l'usage de James trop subjectif, Peirce rebaptise sa propre doctrine « <kw>pragmaticisme</kw> », mot « assez laid pour être à l'abri des ravisseurs ». Tenu à l'écart de l'université, il meurt dans la misère, laissant une œuvre immense et dispersée, redécouverte au XXe siècle, qui irrigue <ph id='dewey'>Dewey</ph>, la logique et la philosophie du langage.",
@@ -36,7 +41,11 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.15, 0.85, 0]
+        "weights": [
+          0.15,
+          0.85,
+          0
+        ]
       },
       "epistemicStatus": "INFERABLE",
       "salience": "MAJOR",
@@ -60,7 +69,11 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.2, 0, 0.8]
+        "weights": [
+          0.2,
+          0,
+          0.8
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
@@ -115,7 +128,11 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0, 0.6, 0.4]
+        "weights": [
+          0,
+          0.6,
+          0.4
+        ]
       },
       "epistemicStatus": "INFERABLE",
       "salience": "MAJOR",
@@ -143,7 +160,11 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.7, 0, 0.3]
+        "weights": [
+          0.7,
+          0,
+          0.3
+        ]
       },
       "epistemicStatus": "INFERABLE",
       "salience": "MAJOR",
@@ -243,7 +264,12 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0, 0.2, 0.2, 0.6]
+        "weights": [
+          0,
+          0.2,
+          0.2,
+          0.6
+        ]
       },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
@@ -267,7 +293,11 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.1, 0.5, 0.4]
+        "weights": [
+          0.1,
+          0.5,
+          0.4
+        ]
       },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
@@ -317,7 +347,11 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.15, 0.85, 0]
+        "weights": [
+          0.15,
+          0.85,
+          0
+        ]
       },
       "epistemicStatus": "EXTRAPOLATED",
       "salience": "MINOR",
@@ -356,6 +390,29 @@
           }
         ],
         "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TRUTH_VALUE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Sa première règle de la raison : ne pas barrer la route de l'enquête. Les méthodes qui fixent la croyance par ténacité ou autorité procurent une quiétude réelle mais fragile ; seule l'<c>enquête</c>, qui accepte d'être déçue par le réel, stabilise durablement la croyance en la réglant sur ce qui ne dépend pas de nous.",
+          "en": "His first rule of reason: do not block the way of inquiry. The methods that fix belief by tenacity or authority procure a real but fragile quiet; only <c>inquiry</c>, which accepts being disappointed by the real, durably stabilizes belief, by settling it on what does not depend on us."
+        },
+        "references": [
+          {
+            "fr": "La Fixation de la croyance (1877)",
+            "en": "The Fixation of Belief (1877)"
+          }
+        ],
+        "strength": "STRONG"
       }
     }
   ],
@@ -396,7 +453,7 @@
       }
     }
   ],
-  "updatedAt": "2026-06-29T00:00:00.000Z",
+  "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

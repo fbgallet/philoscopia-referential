@@ -12,7 +12,7 @@ Founder of [phenomenology](../movements/phenomenology.md), first a mathematician
 2. [Essence and existence](../axes/essence.md) : **We see essences as we see colours: by free variation, consciousness grasps a thing's necessary invariant, its ideal essence, not a mere word.**
 3. [Source of knowledge](../axes/knowledge-source.md) : **Between empiricism and rationalism, a third way: every giving intuition is a source of right, and we intuit the general too, not sensation alone.**
 4. [Place of science](../axes/science-place.md) : **Science has forgotten its ground: the perceived, lived [life-world](../glossary/lebenswelt.md) precedes and grounds every idealisation, which Galilean objectivism wrongly takes for being itself.**
-5. [Nature of mind and reality](../axes/reality-nature.md) : **The world has meaning and being only as the correlate of a consciousness that constitutes it: a transcendental idealism that describes the world without denying it.**
+5. [Nature of reality](../axes/reality-nature.md) : **The world has meaning and being only as the correlate of a consciousness that constitutes it: a transcendental idealism that describes the world without denying it.**
 
 ## Positions
 
@@ -58,7 +58,7 @@ Husserl does not contest the fruitfulness of the exact sciences, but their claim
 
 *Sources : The Crisis of the European Sciences, §9 and §33-34*
 
-### [Nature of mind and reality](../axes/reality-nature.md)
+### [Nature of reality](../axes/reality-nature.md)
 
 *positioned · inferable · major*
 

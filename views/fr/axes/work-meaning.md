@@ -4,7 +4,7 @@
 
 **Le travail nous accomplit-il, nous aliène-t-il, ou n'est-il qu'une nécessité ?**
 
-*Le monde · descriptif (théorie) · triangulaire*
+*Le monde · valeur · triangulaire*
 
 Le travail est-il le lieu où l'on se réalise et trouve sa place parmi les autres, ou ce qui nous épuise et nous dépossède, du temps pris sur le reste de l'existence ? Y voir un accomplissement peut nous réduire à notre métier ; n'y voir qu'une corvée peut vider de sens une part énorme de nos journées. Se positionner, c'est dire quelle place le travail mérite dans une vie réussie.
 

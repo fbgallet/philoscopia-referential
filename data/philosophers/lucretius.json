@@ -14,8 +14,13 @@
     "en": "Physics as a poem: singing of atoms, the void and the whole of nature, to free us from the fear of the gods and of death."
   },
   "aliases": {
-    "fr": ["lucrétien", "lucrétienne"],
-    "en": ["Lucretian"]
+    "fr": [
+      "lucrétien",
+      "lucrétienne"
+    ],
+    "en": [
+      "Lucretian"
+    ]
   },
   "summary": {
     "fr": "Poète et philosophe romain du Ier siècle av. J.-C., dont on ne sait presque rien sinon qu'il composa, en pleine crise de la République, le <w id='on-the-nature-of-things-lucretius'>De rerum natura</w>, vaste poème didactique en six livres qui est la plus complète exposition antique de l'épicurisme parvenue jusqu'à nous. Il y transpose en vers latins la physique de <ph id='epicurus'>Épicure</ph>, héritée de l'<c>atomisme</c> de <ph>Démocrite</ph> : il n'y a que des atomes et du <c>vide</c>, la nature ne fut faite ni par les dieux ni pour les hommes, et son but avoué est thérapeutique, délivrer l'humanité de la crainte des dieux et de la mort qui empoisonne la vie. Disciple fervent plus qu'inventeur de doctrine, Lucrèce donne pourtant à l'épicurisme une voix propre : la grandeur sombre du <c id='sublime'>sublime</c> matérialiste, une polémique sans concession contre la <c>religion</c> comme source de maux, et une histoire naturelle de l'humanité au livre V. Presque oublié, son poème est retrouvé en 1417 par <per>Poggio Bracciolini</per> et devient l'une des sources majeures du <c>matérialisme</c> et de la libre pensée modernes, de <ph>Gassendi</ph> à <ph>Montaigne</ph> et aux <c id='lumieres'>Lumières</c>.",
@@ -36,7 +41,11 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [1, 0, 0]
+        "weights": [
+          1,
+          0,
+          0
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
@@ -91,7 +100,11 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [1, 0, 0]
+        "weights": [
+          1,
+          0,
+          0
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
@@ -171,7 +184,12 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0, 0, 0.15, 0.85]
+        "weights": [
+          0,
+          0,
+          0.15,
+          0.85
+        ]
       },
       "epistemicStatus": "INFERABLE",
       "salience": "MAJOR",
@@ -194,7 +212,12 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [1, 0, 0, 0]
+        "weights": [
+          1,
+          0,
+          0,
+          0
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
@@ -222,7 +245,12 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0, 0, 0, 1]
+        "weights": [
+          0,
+          0,
+          0,
+          1
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MINOR",
@@ -422,7 +450,11 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.9, 0.1, 0]
+        "weights": [
+          0.9,
+          0.1,
+          0
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
@@ -446,7 +478,11 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.05, 0.85, 0.1]
+        "weights": [
+          0.05,
+          0.85,
+          0.1
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
@@ -546,7 +582,12 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.05, 0.65, 0.3, 0]
+        "weights": [
+          0.05,
+          0.65,
+          0.3,
+          0
+        ]
       },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
@@ -592,7 +633,12 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.7, 0, 0.3, 0]
+        "weights": [
+          0.7,
+          0,
+          0.3,
+          0
+        ]
       },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
@@ -640,6 +686,29 @@
         "fr": "La question de l'esprit des machines suppose des débats étrangers à l'Antiquité ; Lucrèce n'a aucune position sur ce problème contemporain.",
         "en": "The question of machine minds presupposes debates foreign to antiquity; Lucretius holds no position on this contemporary problem."
       }
+    },
+    {
+      "axisId": "TRUTH_VALUE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.3
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Connaître les causes délivre de la religio et de la peur de la mort : voilà le cœur épicurien. Mais Lucrèce ajoute un aveu sur la manière : comme le médecin borde de miel la coupe d'absinthe, il enduit de poésie une doctrine austère, la douceur au service du vrai, jamais à sa place.",
+          "en": "Knowing the causes frees us from religio and from the fear of death: that is the Epicurean core. But Lucretius adds an avowal about manner: as the physician rims the cup of wormwood with honey, he coats an austere doctrine with poetry, sweetness in the service of truth, never in its place."
+        },
+        "references": [
+          {
+            "fr": "De la nature des choses, I et IV",
+            "en": "On the Nature of Things, I and IV"
+          }
+        ],
+        "strength": "STRONG"
+      }
     }
   ],
   "structuring": [
@@ -679,7 +748,7 @@
       }
     }
   ],
-  "updatedAt": "2026-06-29T00:00:00.000Z",
+  "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

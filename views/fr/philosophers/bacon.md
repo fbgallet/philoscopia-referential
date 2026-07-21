@@ -20,7 +20,7 @@ Homme d'État et philosophe anglais de la Renaissance, lord chancelier sous Jacq
 
 *positionné · explicite dans les textes · majeure*
 
-Inductivisme 95% · Falsificationnisme 5%
+La preuve par l'expérience 95% · La réfutation 5%
 
 Le syllogisme, reproche Bacon, n'enchaîne que des notions déjà reçues : il ne découvre rien, il habille les préjugés. À cette logique d'**anticipations** de la nature il oppose une logique d'**interprétation** : ne pas voler comme l'abeille de la seule expérience ni filer comme l'araignée de la seule raison, mais remonter pas à pas des faits aux lois. Son [induction](../glossary/induction.md) n'est donc pas la simple énumération qui généralise quelques cas concordants ; c'est une induction **éliminative**, qui dresse des tables de présence, d'absence et de degrés pour écarter méthodiquement les fausses causes et isoler la forme du phénomène. La science ne s'élance d'aucun système préconçu : elle se construit du bas vers le haut, par exclusion.
 
@@ -175,6 +175,16 @@ Bacon professe une foi chrétienne sincère et tient l'existence de Dieu pour as
 > « Un peu de philosophie incline l'esprit à l'athéisme, mais la profondeur en philosophie ramène les esprits à la religion. », Essais, « De l'athéisme »
 
 *Sources : Essais, « De l'athéisme »*
+
+### [Valeur de la vérité](../axes/truth-value.md)
+
+*positionné · explicite dans les textes · mineure*
+
+Primauté de la vérité 75% · Illusions vitales 25%
+
+La connaissance commence par une purge : les idoles, de la tribu, de la caverne, du forum, du théâtre, sont les illusions naturelles et acquises qui déforment l'entendement, et la méthode s'emploie d'abord à les dissiper. La vérité ainsi conquise ne vaut pas pour elle seule : elle se prouve par ses œuvres, au service de la condition humaine.
+
+*Sources : Novum Organum, I (1620)*
 
 ## Influencé par
 

@@ -2,7 +2,7 @@
 
 # The authenticity argument
 
-*Argument for [Death](../axes/death.md) : Being-toward-death*
+*Argument for [Death](../axes/death.md) : Living in view of one's death*
 
 **It is by taking on my death that I truly become myself.**
 

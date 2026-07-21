@@ -73,7 +73,7 @@
         "type": "array",
         "items": {
           "type": "string",
-          "pattern": "^ax:[A-Z][A-Z0-9_]*$"
+          "pattern": "^(ax:[A-Z][A-Z0-9_]*|theme:[a-z0-9][a-z0-9-]*)$"
         }
       },
       "createdAt": {

@@ -41,7 +41,7 @@ Beauty is subordinate to the good and the useful: a secondary pleasure, even a s
 
 ## Related axes
 
-[Purpose of art](../axes/art-purpose.md) · [Bodily pleasures](../axes/bodily-pleasures.md) · [The meaning of life](../axes/life-meaning.md) · [The highest good](../axes/sovereign-good.md) · [Hierarchy of tastes](../axes/taste-hierarchy.md)
+[Purpose of art](../axes/art-purpose.md) · [Bodily pleasures](../axes/bodily-pleasures.md) · [The meaning of life](../axes/life-meaning.md) · [The highest good](../axes/sovereign-good.md) · [Hierarchy of tastes](../axes/taste-hierarchy.md) · [The value of truth](../axes/truth-value.md)
 
 ---
 

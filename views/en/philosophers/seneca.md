@@ -54,7 +54,7 @@ The sovereign good is virtue, the only thing truly good; happiness ([the happy l
 
 *positioned · explicit in the texts · major*
 
-Intellectualism 95% · Sentimentalism 5%
+The primacy of reason 95% · The primacy of feeling 5%
 
 If a passion such as anger is an [assent](../glossary/synkatathesis.md) of reason to the idea that one has been wronged and must take revenge, then it is no alien force besieging the soul but the soul itself going astray. Hence the consequence Seneca turns against the [Peripatetics](../philosophers/aristotle.md): a passion cannot be moderated, for once assent is given reason has already wholly given way; it must be forestalled at the threshold by refusing the first movement, aiming at [apatheia](../glossary/apatheia.md) (the absence of passions) rather than at a mean. This [intellectualism](../axes/emotions.md) makes the therapy of the affects a discipline of judgement.
 
@@ -90,7 +90,7 @@ Since fate will come to pass regardless, the one thing in our power is to walk w
 
 *positioned · explicit in the texts · major*
 
-Death is nothing 85% · Being-toward-death 15%
+Freeing ourselves from the fear 85% · Living in view of one's death 15%
 
 Since death is but the natural term of a loan repaid to nature, the evil lies not in it but in the fear of it, a fear that enslaves a whole life to its shadow. Seneca then turns that fear into an instrument of freedom: whoever rehearses dying each day, and holds the door of voluntary exit open, can no longer be coerced by anything or anyone. The meditation on death is thus not morbid but emancipatory, and it matters less for an afterlife, which he does not expect, than for restoring to the present its full worth.
 
@@ -102,7 +102,7 @@ Since death is but the natural term of a loan repaid to nature, the evil lies no
 
 *positioned · explicit in the texts · major*
 
-Presentism 85% · Project 10% · Memory and transmission 5%
+Living in the present 85% · Project 10% · Memory and transmission 5%
 
 The common lament over the shortness of life rests, according to *[On the Shortness of Life](../works/on-the-shortness-of-life-seneca.md)*, on an accounting error: we have not been given little time, we waste a great deal of it. The argument shifts the problem from fate to use: the preoccupied, slaves to a thousand engagements, have never lived, for they keep deferring their life to later. Only the present is properly ours, the past being fixed and the future uncertain; to claim one's time as one defends a possession is to stop squandering it and to begin, at last, to live.
 
@@ -296,7 +296,7 @@ Man is born for community and mutual aid: we are the limbs of one great body, an
 
 *Sources : Letters to Lucilius, XCV (the limbs of one body) · On Leisure, III-VI (the sage must serve the great commonwealth)*
 
-### [Nature of mind and reality](../axes/reality-nature.md)
+### [Nature of reality](../axes/reality-nature.md)
 
 *positioned · inferable · minor*
 
@@ -342,7 +342,7 @@ The debate on the biotechnological enhancement of the human has no equivalent wi
 
 *positioned · explicit in the texts · minor*
 
-Theodicy 80% · Free-will defence 10% · Argument from evil (atheism) 10%
+Evil has its reasons 90% · Evil refutes God 10%
 
 In On Providence, Seneca asks why misfortunes strike good men if the world is governed by providence: they are not evils but trials the divine reason sends to exercise and strengthen virtue. Apparent evil serves the order of the whole.
 

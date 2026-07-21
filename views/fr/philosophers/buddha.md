@@ -125,7 +125,7 @@ L'existence a une fin assignable et un sens orienté : se libérer de la souffra
 
 *positionné · inférable · majeure*
 
-Intellectualisme 75% · Sentimentalisme 25%
+Primauté de la raison 75% · Le primat du sentiment 25%
 
 La racine ultime de la souffrance et des émotions affligeantes est l'ignorance (avidyā), la méprise sur la nature impermanente et sans-soi du réel. Les trois poisons, avidité, haine et illusion, se dissolvent par la vue juste et la compréhension pénétrante : c'est par la connaissance que l'affect se transforme, ce qui imprime à l'enseignement une pente intellectualiste, tempérée par le rôle central de la pratique méditative et de la culture du cœur (mettā).
 
@@ -187,7 +187,7 @@ L'enseignement de Gautama ne reconnaît pas de Dieu créateur, et la délivrance
 
 *positionné · inférable · mineure*
 
-Immortalisme 40% · La mort n'est rien 30% · Être-pour-la-mort 30%
+Se préparer au passage 40% · Se libérer de la crainte 30% · Vivre en vue de sa mort 30%
 
 Pour le Bouddha, la mort n'est ni l'anéantissement d'un soi (il n'y a pas de soi permanent, [anattā](../glossary/anatta.md)) ni la survie d'une âme, mais un passage dans le cycle des renaissances commandé par le karma : une simple étape, à préparer pourtant avec soin, car l'état d'esprit du mourant oriente sa renaissance, et quelque chose se continue sans qu'aucune âme ne demeure. Une position d'équilibre, jusqu'à la libération qui seule arrête le cycle.
 
@@ -212,6 +212,16 @@ Scepticisme 60% · Dogmatisme 40%
 Gautama invite à ne pas croire sur la seule autorité, la tradition ou le raisonnement, mais à éprouver par soi-même ce qui mène au bien et à l'apaisement : c'est le célèbre conseil aux Kālāma. Cette défiance envers les spéculations dogmatiques et les « vues » figées, jointe au refus de trancher les questions vaines, marque une retenue critique modérée, sans verser dans le scepticisme intégral puisque la voie, elle, est tenue pour vérifiable.
 
 *Sources : Kālāma Sutta, Aṅguttara Nikāya 3.65 (ne pas croire sur la seule autorité) · Cūḷamālukya Sutta, Majjhima Nikāya 63 (la parabole de la flèche, les questions laissées sans réponse)*
+
+### [Valeur de la vérité](../axes/truth-value.md)
+
+*positionné · explicite dans les textes · majeure*
+
+Primauté de la vérité 80% · Illusions vitales 20%
+
+À la racine de la souffrance il n'y a pas une faute mais une méprise : l'ignorance ([avidyā](../glossary/avidya.md)) qui prend l'impermanent pour durable et le sans-soi pour un moi. Le chemin est une thérapeutique du regard, voir les choses telles qu'elles sont ; l'enseignement lui-même n'est qu'un radeau, un moyen qu'on laisse une fois l'autre rive atteinte.
+
+*Sources : Majjhima Nikāya (parabole du radeau)*
 
 ## Influence sur
 

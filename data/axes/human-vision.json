@@ -14,6 +14,24 @@
     "fr": "Croire l'humain bon, c'est pouvoir lui faire confiance, alléger les règles, parier sur la liberté ; le croire porté au mal, c'est juger nécessaires lois, contrôles et garde-fous pour tenir la vie commune. Se positionner, c'est dire jusqu'où faire confiance aux autres, et de combien de contraintes une société a besoin.",
     "en": "To believe humans good is to be able to trust them, loosen the rules, bet on freedom; to believe them prone to evil is to deem laws, controls, and safeguards necessary to hold common life together. To take a position is to say how far to trust others, and how many constraints a society needs."
   },
+  "aliases": {
+    "fr": [
+      "nature humaine",
+      "bien et mal",
+      "l'homme est-il bon",
+      "optimisme",
+      "pessimisme",
+      "méchanceté"
+    ],
+    "en": [
+      "human nature",
+      "good and evil",
+      "is man good",
+      "optimism",
+      "pessimism",
+      "wickedness"
+    ]
+  },
   "layer": "THEORY",
   "type": "BIPOLAR_MEDIAN",
   "poles": [
@@ -96,16 +114,45 @@
       },
       "mode": "DESCRIPTIVE",
       "keywords": [
-        { "fr": "banalité du mal", "en": "banality of evil" },
-        { "fr": "obéissance à l'autorité", "en": "obedience to authority" },
-        { "fr": "situationnisme", "en": "situationism" }
+        {
+          "fr": "banalité du mal",
+          "en": "banality of evil"
+        },
+        {
+          "fr": "obéissance à l'autorité",
+          "en": "obedience to authority"
+        },
+        {
+          "fr": "situationnisme",
+          "en": "situationism"
+        }
       ],
-      "poles": ["ANTHROPOLOGICAL_OPTIMISM", "ANTHROPOLOGICAL_PESSIMISM"],
+      "poles": [
+        "ANTHROPOLOGICAL_OPTIMISM",
+        "ANTHROPOLOGICAL_PESSIMISM"
+      ],
       "anchors": [
-        { "name": { "fr": "Arendt", "en": "Arendt" }, "kind": "PHILOSOPHER", "slug": "arendt" },
-        { "name": { "fr": "Hobbes", "en": "Hobbes" }, "kind": "PHILOSOPHER", "slug": "hobbes" }
+        {
+          "name": {
+            "fr": "Arendt",
+            "en": "Arendt"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "arendt"
+        },
+        {
+          "name": {
+            "fr": "Hobbes",
+            "en": "Hobbes"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "hobbes"
+        }
       ],
-      "ref": { "kind": "THOUGHT_EXPERIMENT", "id": "milgram" },
+      "ref": {
+        "kind": "THOUGHT_EXPERIMENT",
+        "id": "milgram"
+      },
       "title": {
         "fr": "Des gens ordinaires, un ordre à exécuter",
         "en": "Ordinary people, an order to carry out"
@@ -125,17 +172,60 @@
       },
       "mode": "DESCRIPTIVE",
       "keywords": [
-        { "fr": "amour-propre", "en": "amour-propre" },
-        { "fr": "pulsion de mort", "en": "death drive" },
-        { "fr": "péché originel", "en": "original sin" },
-        { "fr": "société corruptrice", "en": "corrupting society" }
+        {
+          "fr": "amour-propre",
+          "en": "amour-propre"
+        },
+        {
+          "fr": "pulsion de mort",
+          "en": "death drive"
+        },
+        {
+          "fr": "péché originel",
+          "en": "original sin"
+        },
+        {
+          "fr": "société corruptrice",
+          "en": "corrupting society"
+        }
       ],
-      "poles": ["ANTHROPOLOGICAL_OPTIMISM", "ANTHROPOLOGICAL_PESSIMISM"],
+      "poles": [
+        "ANTHROPOLOGICAL_OPTIMISM",
+        "ANTHROPOLOGICAL_PESSIMISM"
+      ],
       "anchors": [
-        { "name": { "fr": "Rousseau", "en": "Rousseau" }, "kind": "PHILOSOPHER", "slug": "rousseau" },
-        { "name": { "fr": "Augustin", "en": "Augustine" }, "kind": "PHILOSOPHER", "slug": "augustine" },
-        { "name": { "fr": "Freud", "en": "Freud" }, "kind": "PHILOSOPHER", "slug": "freud" },
-        { "name": { "fr": "Hobbes", "en": "Hobbes" }, "kind": "PHILOSOPHER", "slug": "hobbes" }
+        {
+          "name": {
+            "fr": "Rousseau",
+            "en": "Rousseau"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "rousseau"
+        },
+        {
+          "name": {
+            "fr": "Augustin",
+            "en": "Augustine"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "augustine"
+        },
+        {
+          "name": {
+            "fr": "Freud",
+            "en": "Freud"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "freud"
+        },
+        {
+          "name": {
+            "fr": "Hobbes",
+            "en": "Hobbes"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "hobbes"
+        }
       ],
       "title": {
         "fr": "D'où vient le mal en l'homme ?",
@@ -156,17 +246,55 @@
       },
       "mode": "DESCRIPTIVE",
       "keywords": [
-        { "fr": "perfectibilité", "en": "perfectibility" },
-        { "fr": "éducabilité", "en": "educability" },
-        { "fr": "bois tordu de l'humanité", "en": "crooked timber of humanity" }
+        {
+          "fr": "perfectibilité",
+          "en": "perfectibility"
+        },
+        {
+          "fr": "éducabilité",
+          "en": "educability"
+        },
+        {
+          "fr": "bois tordu de l'humanité",
+          "en": "crooked timber of humanity"
+        }
       ],
-      "poles": ["ANTHROPOLOGICAL_OPTIMISM", "ANTHROPOLOGICAL_PESSIMISM"],
+      "poles": [
+        "ANTHROPOLOGICAL_OPTIMISM",
+        "ANTHROPOLOGICAL_PESSIMISM"
+      ],
       "anchors": [
-        { "name": { "fr": "Rousseau", "en": "Rousseau" }, "kind": "PHILOSOPHER", "slug": "rousseau" },
-        { "name": { "fr": "Condorcet", "en": "Condorcet" }, "kind": "PHILOSOPHER", "slug": "condorcet" },
-        { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" }
+        {
+          "name": {
+            "fr": "Rousseau",
+            "en": "Rousseau"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "rousseau"
+        },
+        {
+          "name": {
+            "fr": "Condorcet",
+            "en": "Condorcet"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "condorcet"
+        },
+        {
+          "name": {
+            "fr": "Kant",
+            "en": "Kant"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "kant"
+        }
       ],
-      "doorways": [{ "axis": "MORAL_DEMAND", "problem": "what-humans-can-bear" }],
+      "doorways": [
+        {
+          "axis": "MORAL_DEMAND",
+          "problem": "what-humans-can-bear"
+        }
+      ],
       "title": {
         "fr": "Jusqu'où peut-on changer l'homme ?",
         "en": "How far can human beings be changed?"
@@ -186,14 +314,35 @@
       },
       "mode": "DESCRIPTIVE",
       "keywords": [
-        { "fr": "grandeur et misère", "en": "greatness and wretchedness" },
-        { "fr": "roseau pensant", "en": "thinking reed" }
+        {
+          "fr": "grandeur et misère",
+          "en": "greatness and wretchedness"
+        },
+        {
+          "fr": "roseau pensant",
+          "en": "thinking reed"
+        }
       ],
-      "poles": ["ANTHROPOLOGICAL_OPTIMISM", "ANTHROPOLOGICAL_PESSIMISM"],
+      "poles": [
+        "ANTHROPOLOGICAL_OPTIMISM",
+        "ANTHROPOLOGICAL_PESSIMISM"
+      ],
       "anchors": [
-        { "name": { "fr": "Pascal", "en": "Pascal" }, "kind": "PHILOSOPHER", "slug": "pascal" }
+        {
+          "name": {
+            "fr": "Pascal",
+            "en": "Pascal"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "pascal"
+        }
       ],
-      "doorways": [{ "axis": "ATTENTION", "problem": "pascal-restlessness" }],
+      "doorways": [
+        {
+          "axis": "ATTENTION",
+          "problem": "pascal-restlessness"
+        }
+      ],
       "title": {
         "fr": "Mi-ange, mi-bête",
         "en": "Half angel, half beast"
@@ -214,14 +363,38 @@
       "mode": "DESCRIPTIVE",
       "relation": "RELATED",
       "keywords": [
-        { "fr": "nature humaine", "en": "human nature" },
-        { "fr": "l'existence précède l'essence", "en": "existence precedes essence" }
+        {
+          "fr": "nature humaine",
+          "en": "human nature"
+        },
+        {
+          "fr": "l'existence précède l'essence",
+          "en": "existence precedes essence"
+        }
       ],
       "anchors": [
-        { "name": { "fr": "Sartre", "en": "Sartre" }, "kind": "PHILOSOPHER", "slug": "sartre" },
-        { "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" }
+        {
+          "name": {
+            "fr": "Sartre",
+            "en": "Sartre"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "sartre"
+        },
+        {
+          "name": {
+            "fr": "Aristote",
+            "en": "Aristotle"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "aristotle"
+        }
       ],
-      "doorways": [{ "axis": "HUMAN_NATURE" }],
+      "doorways": [
+        {
+          "axis": "HUMAN_NATURE"
+        }
+      ],
       "title": {
         "fr": "Y a-t-il une nature humaine ?",
         "en": "Is there a human nature?"
@@ -242,14 +415,37 @@
       "mode": "DESCRIPTIVE",
       "relation": "RELATED",
       "keywords": [
-        { "fr": "égoïsme psychologique", "en": "psychological egoism" },
-        { "fr": "amour-propre caché", "en": "hidden self-love" }
+        {
+          "fr": "égoïsme psychologique",
+          "en": "psychological egoism"
+        },
+        {
+          "fr": "amour-propre caché",
+          "en": "hidden self-love"
+        }
       ],
       "anchors": [
-        { "name": { "fr": "Hobbes", "en": "Hobbes" }, "kind": "PHILOSOPHER", "slug": "hobbes" },
-        { "name": { "fr": "La Rochefoucauld", "en": "La Rochefoucauld" }, "kind": "PHILOSOPHER" }
+        {
+          "name": {
+            "fr": "Hobbes",
+            "en": "Hobbes"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "hobbes"
+        },
+        {
+          "name": {
+            "fr": "La Rochefoucauld",
+            "en": "La Rochefoucauld"
+          },
+          "kind": "PHILOSOPHER"
+        }
       ],
-      "doorways": [{ "axis": "SELF_INTEREST" }],
+      "doorways": [
+        {
+          "axis": "SELF_INTEREST"
+        }
+      ],
       "title": {
         "fr": "L'altruisme existe-t-il vraiment ?",
         "en": "Does genuine altruism exist?"
@@ -271,15 +467,45 @@
       "sphere": "POLITICAL",
       "relation": "RELATED",
       "keywords": [
-        { "fr": "un peuple de démons", "en": "a nation of devils" },
-        { "fr": "tout homme est un fripon", "en": "every man a knave" }
+        {
+          "fr": "un peuple de démons",
+          "en": "a nation of devils"
+        },
+        {
+          "fr": "tout homme est un fripon",
+          "en": "every man a knave"
+        }
       ],
       "anchors": [
-        { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" },
-        { "name": { "fr": "Madison", "en": "Madison" }, "kind": "PHILOSOPHER" },
-        { "name": { "fr": "Hume", "en": "Hume" }, "kind": "PHILOSOPHER", "slug": "hume" }
+        {
+          "name": {
+            "fr": "Kant",
+            "en": "Kant"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "kant"
+        },
+        {
+          "name": {
+            "fr": "Madison",
+            "en": "Madison"
+          },
+          "kind": "PHILOSOPHER"
+        },
+        {
+          "name": {
+            "fr": "Hume",
+            "en": "Hume"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "hume"
+        }
       ],
-      "doorways": [{ "axis": "POLITICAL_IDEAL" }],
+      "doorways": [
+        {
+          "axis": "POLITICAL_IDEAL"
+        }
+      ],
       "title": {
         "fr": "Des institutions pour des anges, ou pour des démons ?",
         "en": "Institutions for angels, or for devils?"

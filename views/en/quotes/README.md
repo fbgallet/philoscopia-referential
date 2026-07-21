@@ -23,6 +23,7 @@
 - “Virtue is a state of character concerned with choice, lying in a mean relative to us, this being determined by reason and in the way the person of practical wisdom would determine it.” — Nicomachean Ethics, II, 6, 1106b-1107a
 - “The good of man is an activity of the soul in accordance with virtue, and if there are several virtues, in accordance with the best and most complete.” — Nicomachean Ethics, I, 7, 1098a
 - “The human good turns out to be activity of the soul in accordance with virtue.” — Nicomachean Ethics, I.7 (1098a)
+- “All men by nature desire to know.” — Metaphysics, I, 1, 980a
 
 ### [Bacon](../philosophers/bacon.md)
 
@@ -99,6 +100,7 @@
 ### [Descartes](../philosophers/descartes.md)
 
 - “Instead of that speculative philosophy taught in the schools, we may find a practical one […] and thus render ourselves, as it were, masters and possessors of nature.” — Discourse on Method, VI
+- “I always had an intense desire to learn to distinguish the true from the false, in order to see clearly into my own actions and to walk with confidence in this life.” — Discourse on the Method, I
 - “I think, therefore I am.” — Discourse on Method, IV
 - “Generosity, which is as it were the key to all the other virtues.” — The Passions of the Soul, art. 161
 - “To strive always to master myself rather than fortune, and to change my desires rather than the order of the world.” — Discourse on Method, III
@@ -283,12 +285,14 @@
 - “Laws keep their credit not because they are just, but because they are laws.” — Essays, III, 13, "Of Experience"
 - “Our great and glorious masterpiece is to live fitly.” — Essays, III, 13, "Of Experience"
 - “We are never at home, we are always beyond ourselves.” — Essays, I, 3, "Our Feelings Reach Out Beyond Us"
+- “Oh, what a soft and delightful pillow, and a healthy one, is ignorance and incuriosity, for resting a well-made head!” — Essays, III, 13 (Of Experience)
 - “Because it was he, because it was I.” — Essays, I, 28 ("On friendship")
 - “What do I know?” — Essays, II, 12, "Apology for Raymond Sebond"
 
 ### [Mill](../philosophers/mill.md)
 
 - “Everybody to count for one, nobody for more than one.” — Utilitarianism, ch. V
+- “It is better to be a human being dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied.” — Utilitarianism, ch. 2
 - “It is better to be a human being dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied.” — Utilitarianism, ch. 2
 - “It is better to be Socrates dissatisfied than a fool satisfied.” — Utilitarianism, ch. II
 - “Human nature is not a machine to be built after a model, but a tree, which requires to grow and develop itself on all sides.” — On Liberty, ch. 3
@@ -315,6 +319,7 @@
 - “Man is something that shall be overcome.” — Thus Spoke Zarathustra, Prologue, §3
 - “Man does not strive for happiness; only the Englishman does that.” — Twilight of the Idols, Maxims and Arrows, 12
 - “My formula for greatness in a human being is amor fati: that one wants nothing to be different, not forward, not backward, not in all eternity.” — Ecce Homo, "Why I Am So Clever", §10
+- “We have art so that we do not perish of the truth.” — Posthumous fragments, spring 1888, 16 [40]
 
 ### [Novalis](../philosophers/novalis.md)
 

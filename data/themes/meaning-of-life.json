@@ -1,0 +1,33 @@
+{
+  "id": "meaning-of-life",
+  "label": {
+    "fr": "Le sens de la vie",
+    "en": "The meaning of life"
+  },
+  "aliases": {
+    "fr": [
+      "sens de la vie",
+      "sens de l'existence",
+      "pourquoi vivre",
+      "absurde",
+      "à quoi bon",
+      "vanité de l'existence"
+    ],
+    "en": [
+      "meaning of life",
+      "meaning of existence",
+      "why live",
+      "absurd",
+      "what's the point",
+      "vanity of life"
+    ]
+  },
+  "featured": true,
+  "axes": [
+    "LIFE_MEANING",
+    "COSMIC_OUTLOOK",
+    "TRANSCENDENCE",
+    "SOVEREIGN_GOOD",
+    "HOPE"
+  ]
+}

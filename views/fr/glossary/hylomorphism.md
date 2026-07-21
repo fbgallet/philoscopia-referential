@@ -8,7 +8,7 @@ L'hylémorphisme (du grec hulê, matière, et morphê, forme) est la thèse d'[A
 
 **Porte une position vers** : [Tout et parties](../axes/reduction-emergence.md) : Émergentisme
 
-**En jeu dans** : [Essence et existence](../axes/essence.md) · [Tout et parties](../axes/reduction-emergence.md) · [Nature de l'esprit et du réel](../axes/reality-nature.md)
+**En jeu dans** : [Essence et existence](../axes/essence.md) · [Tout et parties](../axes/reduction-emergence.md) · [Nature du réel](../axes/reality-nature.md)
 
 **Voir aussi** : [Les quatre causes](../glossary/four-causes.md)
 

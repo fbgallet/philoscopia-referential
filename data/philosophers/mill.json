@@ -14,8 +14,13 @@
     "en": "How far may society constrain an individual who harms no one? A <mv id='utilitarianism'>utilitarian</mv> in love with liberty, for whom the common happiness feeds on singular freedoms rather than crushing them."
   },
   "aliases": {
-    "fr": ["millien", "millienne"],
-    "en": ["Millian"]
+    "fr": [
+      "millien",
+      "millienne"
+    ],
+    "en": [
+      "Millian"
+    ]
   },
   "summary": {
     "fr": "Figure majeure du libéralisme britannique et héritier de l'<mv id='utilitarianism'>utilitarisme</mv> de <ph id='bentham'>Bentham</ph>, philosophe, économiste, logicien et réformateur, il fut soumis dès l'enfance par son père James Mill à une éducation intensive destinée à en faire le porte-parole du <c>radicalisme philosophique</c>. La crise de dépression qu'il traverse à vingt ans le conduit à élargir cet héritage, en y faisant droit à la culture des sentiments, à la liberté individuelle et à une conception plus exigeante du bonheur. Empiriste rigoureux dans le <w>Système de logique</w>, il expose sa morale dans <w>L'Utilitarisme</w>, sa philosophie politique dans <w>De la liberté</w> et son féminisme dans <w>L'Asservissement des femmes</w>, tout en siégeant au Parlement. Penseur charnière du XIXe siècle, il demeure une référence centrale des débats sur la liberté, la démocratie et le fondement de la morale.",
@@ -27,7 +32,10 @@
     "fr": "Anglais",
     "en": "English"
   },
-  "movements": ["utilitarianism", "liberalism"],
+  "movements": [
+    "utilitarianism",
+    "liberalism"
+  ],
   "entries": [
     {
       "axisId": "SUFFERING_MEANING",
@@ -904,6 +912,30 @@
         ],
         "strength": "STRONG"
       }
+    },
+    {
+      "axisId": "TRUTH_VALUE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le refus d'échanger les facultés supérieures contre une satisfaction plus facile suggère que le bonheur humain inclut une exigence de dignité et de développement, même au prix de l'insatisfaction ; la préférence pour la lucidité s'en déduit plus qu'elle ne s'y affirme.",
+          "en": "The refusal to exchange the higher faculties for an easier contentment suggests that human happiness includes a demand for dignity and development, even at the price of discontent; the preference for lucidity follows from this more than it is asserted in it."
+        },
+        "references": [
+          {
+            "fr": "L'Utilitarisme, ch. 2 (1861)",
+            "en": "Utilitarianism, ch. 2 (1861)"
+          }
+        ],
+        "strength": "MEDIUM",
+        "quoteId": "il-vaut-mieux-etre-socrate-insatisfait-mill"
+      }
     }
   ],
   "structuring": [
@@ -943,7 +975,7 @@
       }
     }
   ],
-  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

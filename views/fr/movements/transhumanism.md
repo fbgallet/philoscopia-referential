@@ -31,9 +31,9 @@ Là où le bioconservatisme voit dans la nature humaine une limite à respecter,
 
 *positionné · explicite dans les textes · majeure*
 
-Immortalisme 80% · Révolte / refus 20%
+Refuser la mort 100%
 
-Le transhumanisme rompt avec les sagesses de l'acceptation : la mort n'est ni un néant indifférent, comme chez [Épicure](../philosophers/epicurus.md), ni l'horizon qui donnerait son prix à la vie, comme chez [Heidegger](../philosophers/heidegger.md), mais le plus grand des dommages et un problème technique. Le vieillissement y est requalifié en maladie guérissable. Subsiste une part de révolte : refuser la finitude comme une injustice à combattre, non comme un destin à apprivoiser.
+Le transhumanisme rompt avec les sagesses de l'acceptation : la mort n'est ni un néant indifférent, comme chez [Épicure](../philosophers/epicurus.md), ni l'horizon qui donnerait son prix à la vie, comme chez [Heidegger](../philosophers/heidegger.md), mais le plus grand des dommages et un problème technique. Le vieillissement y est requalifié en maladie guérissable. C'est la révolte portée à son terme : refuser la finitude comme une injustice à combattre, non comme un destin à apprivoiser.
 
 > « Nous ne tolérerons plus la tyrannie du vieillissement et de la mort. », « Lettre à Dame Nature » (1999)
 

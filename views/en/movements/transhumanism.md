@@ -31,9 +31,9 @@ Where bioconservatism sees in human nature a limit to be respected, transhumanis
 
 *positioned · explicit in the texts · major*
 
-Immortalism 80% · Revolt / refusal 20%
+Refusing death 100%
 
-Transhumanism breaks with the wisdoms of acceptance: death is neither an indifferent nothingness, as for [Epicurus](../philosophers/epicurus.md), nor the horizon that would give life its worth, as for [Heidegger](../philosophers/heidegger.md), but the greatest of harms and a technical problem. Aging is recast as a curable disease. A share of revolt remains: to refuse finitude as an injustice to be fought, not a fate to be tamed.
+Transhumanism breaks with the wisdoms of acceptance: death is neither an indifferent nothingness, as for [Epicurus](../philosophers/epicurus.md), nor the horizon that would give life its worth, as for [Heidegger](../philosophers/heidegger.md), but the greatest of harms and a technical problem. Aging is recast as a curable disease. It is revolt carried to its conclusion: to refuse finitude as an injustice to be fought, not a fate to be tamed.
 
 > “We will no longer tolerate the tyranny of aging and death.”, 'A Letter to Mother Nature' (1999)
 

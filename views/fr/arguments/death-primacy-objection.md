@@ -2,7 +2,7 @@
 
 # L'objection du primat de la mort
 
-*Objection à [La mort](../axes/death.md) : Être-pour-la-mort*
+*Objection à [La mort](../axes/death.md) : Vivre en vue de sa mort*
 
 **Ce n'est pas la mort, mais la vie et les autres, qui nous rendent à nous-mêmes.**
 

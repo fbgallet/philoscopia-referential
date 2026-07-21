@@ -198,7 +198,7 @@ L'effort pénible (ponos) est le moyen même de la vertu : Diogène s'entraîne 
 
 *positionné · inférable · mineure*
 
-La mort n'est rien 85% · Immortalisme 10% · Être-pour-la-mort 5%
+Se libérer de la crainte 85% · Se préparer au passage 10% · Vivre en vue de sa mort 5%
 
 Diogène affiche une indifférence provocante envers la mort : il demande, dit-on, qu'on jette son cadavre par-dessus le mur pour les bêtes, et raille le soin des sépultures, puisqu'il ne sera plus là pour rien sentir. La crainte de mourir relève des conventions vaines qu'il s'agit précisément de défaire ; la mort n'est rien qui doive troubler le sage autosuffisant. La sérénité rejoint le ton épicurien, sans aucune promesse d'immortalité personnelle.
 

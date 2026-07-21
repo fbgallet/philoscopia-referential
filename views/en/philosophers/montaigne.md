@@ -56,7 +56,7 @@ Montaigne finds in himself no fixed substance. The self is "“the sway”", a f
 
 *positioned · explicit in the texts · major*
 
-Presentism 80% · Project 10% · Memory and transmission 10%
+Living in the present 80% · Project 10% · Memory and transmission 10%
 
 Our unhappiness, Montaigne observes, comes from never inhabiting the present: we wander ahead of or behind ourselves, fearing the future and regretting the past, so that we forget to live the hour at hand. Wisdom reverses the effort: not to project oneself nor to hoard, but to "“enjoy one's being loyally”", to savor fully what presents itself, like Epicurus but without a system. The last word of the *[Essays](../works/essays-montaigne.md)* is no longer "to learn to die" but to learn to live, that is, to return to the present that fear of death steals from us.
 
@@ -90,7 +90,7 @@ In "Of Cannibals", Montaigne turns the European's gaze back upon himself: we hol
 
 *positioned · explicit in the texts · major*
 
-Death is nothing 85% · Being-toward-death 10% · Immortalism 5%
+Freeing ourselves from the fear 80% · Living in view of one's death 15% · Preparing for the passage 5%
 
 The young Montaigne, following Seneca and Cicero, holds that "“to philosophize is to learn to die”": to rehearse death ceaselessly so as to disarm it. The mature Montaigne overturns this voluntarist Stoicism: thinking too much about death poisons life. Better to trust nature, which "“will teach you well enough”" to die when the time comes, as peasants do without philosophy. Death ceases to be an ordeal to prepare for and becomes a natural term to welcome without fear, in a serenity colored more by Epicureanism than by any hope of an afterlife.
 
@@ -214,7 +214,7 @@ Montaigne distrusts abstract reasonings, which can prove a thing and its opposit
 
 *positioned · inferable · minor*
 
-Sentimentalism 65% · Intellectualism 35%
+The primacy of feeling 65% · The primacy of reason 35%
 
 Montaigne admires Stoic constancy without holding himself bound to it: to claim to root out the passions is, in the ordinary man, a playacting ill-suited to our nature. Better to know one's emotions, to accompany and temper them than to deny them, and he readily portrays himself angry, fearful or troubled, without shame. A supple regulation rather than a mastery, which gives the affects their place as companions of the human condition.
 
@@ -289,6 +289,18 @@ Taking up [Aristotle](../philosophers/aristotle.md)'s [philia](../glossary/phili
 > “Because it was he, because it was I.”, Essays, I, 28 ("On friendship")
 
 *Sources : Essays, I, 28 ("On friendship")*
+
+### [The value of truth](../axes/truth-value.md)
+
+*positioned · explicit in the texts · minor*
+
+The primacy of truth 50% · Vital illusions 50%
+
+No one scrutinized his own weaknesses more honestly, yet this lucidity stops where grip ends: of insoluble questions he concludes that they make a good place to rest a well-made head. To know about oneself what helps one live, and let sleep what only torments: the perpetual essaying of oneself coexists with an avowed incuriosity.
+
+> “Oh, what a soft and delightful pillow, and a healthy one, is ignorance and incuriosity, for resting a well-made head!”, Essays, III, 13 (Of Experience)
+
+*Sources : Essays, III, 13 (Of Experience)*
 
 ## Influenced by
 

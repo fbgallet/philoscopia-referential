@@ -39,7 +39,7 @@ Bentham n'assigne à la vie aucune fin cosmique ou providentielle : le seul sens
 
 *positionné · inférable · mineure*
 
-La mort n'est rien 85% · Révolte / refus 10% · Immortalisme 5%
+Se libérer de la crainte 85% · Refuser la mort 10% · Se préparer au passage 5%
 
 Matérialiste et ennemi des fictions, Bentham ne reconnaît aucun au-delà : la mort est la simple cessation de la sensibilité, donc ni à craindre ni à entourer de superstitions. Il pousse la conséquence jusqu'à léguer son corps à la science et le faire conserver en **auto-icône**, geste lucide contre la terreur religieuse de la mort.
 
@@ -295,7 +295,7 @@ Aucun plaisir n'est mauvais en lui-même : les plaisirs des sens figurent au mê
 
 *positionné · inférable · mineure*
 
-Intellectualisme 75% · Sentimentalisme 25%
+Primauté de la raison 75% · Le primat du sentiment 25%
 
 Bentham se défie des sentiments moraux érigés en règles : le principe de sympathie et d'antipathie approuve ou condamne au gré du sentiment, sans en rendre raison, et masque souvent des préjugés. À la spontanéité affective il oppose le calcul félicifique, procédure réflexive et quasi arithmétique de pesée des plaisirs et des peines. La morale relève ainsi d'un raisonnement méthodique plutôt que de l'émotion.
 

@@ -76,6 +76,23 @@
       ],
       "additionalProperties": false
     },
+    "aliases": {
+      "type": "object",
+      "properties": {
+        "fr": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "en": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
     "layer": {
       "type": "string",
       "enum": [

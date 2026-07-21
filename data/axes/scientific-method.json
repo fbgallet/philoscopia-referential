@@ -7,25 +7,25 @@
     "en": "Scientific method"
   },
   "question": {
-    "fr": "Comment la science établit-elle ses vérités ?",
-    "en": "How does science establish its truths?"
+    "fr": "Comment la science s'y prend-elle pour justifier ses affirmations ?",
+    "en": "How does science go about justifying its claims?"
   },
   "stakes": {
-    "fr": "La science inspire confiance, mais comment fonde-t-elle au juste ses résultats : en généralisant l'observation, en s'exposant à la réfutation, ou en calculant des probabilités ? Ce qu'on attend d'une preuve scientifique, et ce qui sépare la science de la simple croyance, en dépend.",
-    "en": "Science commands trust, but how exactly does it ground its results: by generalising from observation, by exposing itself to refutation, or by computing probabilities? What we expect of scientific proof, and what separates science from mere belief, depends on it."
+    "fr": "La science inspire confiance, mais comment justifie-t-elle au juste ses affirmations : en les prouvant par l'expérience, en les exposant à la réfutation, ou en calculant leur probabilité ? Ce qu'on attend d'une preuve scientifique, et ce qui sépare la science de la simple croyance, en dépend.",
+    "en": "Science commands trust, but how exactly does it justify its claims: by proving them through experience, by exposing them to refutation, or by computing their probability? What we expect of scientific proof, and what separates science from mere belief, depends on it."
   },
   "layer": "THEORY",
   "type": "TRIANGULAR",
   "poles": [
     {
-      "id": "INDUCTIVISM",
+      "id": "CONFIRMATIONISM",
       "label": {
-        "fr": "Inductivisme",
-        "en": "Inductivism"
+        "fr": "La preuve par l'expérience",
+        "en": "Proof by experience"
       },
       "description": {
-        "fr": "La science part des faits : en observant des régularités répétées, on en tire des lois générales. L'accumulation d'observations concordantes confirme une hypothèse et fonde notre connaissance de la nature.",
-        "en": "Science starts from facts: by observing repeated regularities, we draw general laws. The accumulation of agreeing observations confirms a hypothesis and grounds our knowledge of nature."
+        "fr": "L'expérience a le pouvoir de prouver : une observation bien conduite, une expérimentation rigoureuse peuvent établir une loi ou confirmer une hypothèse. C'est en accumulant des preuves positives que la science gagne en certitude ; l'expérience n'est pas seulement une source d'idées, elle est le tribunal qui les valide.",
+        "en": "Experience has the power to prove: a well-conducted observation, a rigorous experiment can establish a law or confirm a hypothesis. It is by accumulating positive evidence that science gains in certainty; experience is not merely a source of ideas, it is the tribunal that validates them."
       },
       "figures": [
         {
@@ -39,16 +39,16 @@
       ],
       "nuances": [
         {
-          "fr": "Bacon prône une induction expérimentale et éliminative, non une simple généralisation par énumération.",
-          "en": "Bacon advocates an experimental, eliminative induction, not mere generalization by enumeration."
+          "fr": "La preuve procède par induction : Bacon prône une induction expérimentale et éliminative, non une simple généralisation par énumération, et Mill en codifie les méthodes (concordance, différence).",
+          "en": "Proof proceeds by induction: Bacon advocates an experimental, eliminative induction, not mere generalization by enumeration, and Mill codifies its methods (agreement, difference)."
         }
       ]
     },
     {
       "id": "FALSIFICATIONISM",
       "label": {
-        "fr": "Falsificationnisme",
-        "en": "Falsificationism"
+        "fr": "La réfutation",
+        "en": "Refutation"
       },
       "description": {
         "fr": "On ne prouve jamais une théorie, on peut seulement la réfuter. Une hypothèse est scientifique si elle s'expose à une expérience qui pourrait la démentir ; tant qu'elle y résiste, elle est corroborée, jamais établie une fois pour toutes.",
@@ -64,8 +64,8 @@
     {
       "id": "BAYESIANISM",
       "label": {
-        "fr": "Bayésianisme",
-        "en": "Bayesianism"
+        "fr": "Le calcul des probabilités",
+        "en": "The calculus of probabilities"
       },
       "description": {
         "fr": "Connaître, c'est ajuster des degrés de croyance. Chaque observation révise la probabilité d'une hypothèse selon le théorème de Bayes : une preuve ne prouve pas, elle rend plus ou moins probable, à partir de ce que l'on croyait déjà.",
@@ -85,6 +85,10 @@
         {
           "fr": "Carnap relève d'une probabilité logique, précurseur du bayésianisme plus que du bayésianisme subjectif.",
           "en": "Carnap's logical probability is a precursor to Bayesianism rather than subjective Bayesianism proper."
+        },
+        {
+          "fr": "Le bayésianisme se veut souvent moins un rival qu'un cadre englobant : il reconstruit la confirmation comme une hausse de probabilité et la réfutation comme le cas limite d'un démenti qui la fait chuter.",
+          "en": "Bayesianism often means to be less a rival than an encompassing framework: it reconstructs confirmation as a rise in probability and refutation as the limiting case of a disconfirmation that drives it down."
         }
       ]
     }
@@ -111,7 +115,7 @@
         { "fr": "asymétrie confirmation/réfutation", "en": "confirmation/refutation asymmetry" },
         { "fr": "généralisation", "en": "generalisation" }
       ],
-      "poles": ["INDUCTIVISM", "FALSIFICATIONISM", "BAYESIANISM"],
+      "poles": ["CONFIRMATIONISM", "FALSIFICATIONISM", "BAYESIANISM"],
       "anchors": [
         { "name": { "fr": "Popper", "en": "Popper" }, "kind": "PHILOSOPHER", "slug": "popper" },
         { "name": { "fr": "Bacon", "en": "Bacon" }, "kind": "PHILOSOPHER", "slug": "bacon" },
@@ -137,7 +141,7 @@
         { "fr": "hypothèse ad hoc", "en": "ad hoc hypothesis" },
         { "fr": "expérience cruciale", "en": "crucial experiment" }
       ],
-      "poles": ["INDUCTIVISM", "FALSIFICATIONISM", "BAYESIANISM"],
+      "poles": ["CONFIRMATIONISM", "FALSIFICATIONISM", "BAYESIANISM"],
       "anchors": [
         { "name": { "fr": "Popper", "en": "Popper" }, "kind": "PHILOSOPHER", "slug": "popper" },
         { "name": { "fr": "Duhem", "en": "Duhem" }, "kind": "PHILOSOPHER" },
@@ -162,7 +166,7 @@
         { "fr": "étalonnage", "en": "calibration" },
         { "fr": "prétention à l'exactitude", "en": "the claim to exactness" }
       ],
-      "poles": ["INDUCTIVISM"],
+      "poles": ["CONFIRMATIONISM"],
       "anchors": [
         { "name": { "fr": "Duhem", "en": "Duhem" }, "kind": "PHILOSOPHER" },
         { "name": { "fr": "Bachelard", "en": "Bachelard" }, "kind": "PHILOSOPHER" },
@@ -186,7 +190,7 @@
         { "fr": "il n'y a pas de fait brut", "en": "there are no bare facts" },
         { "fr": "paradigme", "en": "paradigm" }
       ],
-      "poles": ["INDUCTIVISM"],
+      "poles": ["CONFIRMATIONISM"],
       "anchors": [
         { "name": { "fr": "Hanson", "en": "Hanson" }, "kind": "PHILOSOPHER" },
         { "name": { "fr": "Kuhn", "en": "Kuhn" }, "kind": "PHILOSOPHER" },
@@ -211,7 +215,7 @@
         { "fr": "énigme du vert-bleu (grue)", "en": "the grue riddle" },
         { "fr": "degré de confirmation", "en": "degree of confirmation" }
       ],
-      "poles": ["INDUCTIVISM", "BAYESIANISM"],
+      "poles": ["CONFIRMATIONISM", "BAYESIANISM"],
       "anchors": [
         { "name": { "fr": "Hempel", "en": "Hempel" }, "kind": "PHILOSOPHER" },
         { "name": { "fr": "Goodman", "en": "Goodman" }, "kind": "PHILOSOPHER" }
@@ -264,6 +268,74 @@
       "explicitation": {
         "fr": "Qu'est-ce qui sépare une science d'une doctrine qui en prend les airs, l'astrologie, une théorie que rien ne pourrait démentir ? La question de la démarcation prolonge celle de la méthode.",
         "en": "What separates a science from a doctrine that puts on its airs, astrology, a theory that nothing could belie? The question of demarcation extends that of method."
+      }
+    },
+    {
+      "id": "one-method-or-many",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "les sciences de l'esprit et de la société", "en": "the sciences of mind and society" },
+      "mode": "DESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "expliquer et comprendre", "en": "explaining and understanding" },
+        { "fr": "sciences humaines", "en": "human sciences" },
+        { "fr": "Verstehen", "en": "Verstehen" }
+      ],
+      "anchors": [
+        { "name": { "fr": "Dilthey", "en": "Dilthey" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "Weber", "en": "Weber" }, "kind": "PHILOSOPHER", "slug": "weber" }
+      ],
+      "doorways": [{ "axis": "KNOWLEDGE_STATUS" }],
+      "title": { "fr": "Une seule méthode, ou plusieurs ?", "en": "One method, or many?" },
+      "explicitation": {
+        "fr": "La méthode qui éprouve les lois de la nature vaut-elle pour l'histoire, la société, l'esprit ? Expliquer par des causes, comme en physique, ou comprendre du dedans des significations, comme le veulent Dilthey et Weber : les sciences humaines ont-elles leur logique propre, ou une seule méthode gouverne-t-elle tout savoir ?",
+        "en": "Does the method that tests the laws of nature hold for history, society, the mind? To explain by causes, as in physics, or to understand meanings from within, as Dilthey and Weber would have it: do the human sciences have their own logic, or does a single method govern all knowledge?"
+      }
+    },
+    {
+      "id": "against-method",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "la règle méthodique elle-même", "en": "the methodological rule itself" },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        { "fr": "anarchisme méthodologique", "en": "methodological anarchism" },
+        { "fr": "tout est bon", "en": "anything goes" },
+        { "fr": "pluralisme des méthodes", "en": "pluralism of methods" }
+      ],
+      "poles": ["CONFIRMATIONISM", "FALSIFICATIONISM", "BAYESIANISM"],
+      "anchors": [
+        { "name": { "fr": "Feyerabend", "en": "Feyerabend" }, "kind": "PHILOSOPHER" }
+      ],
+      "title": { "fr": "Y a-t-il une méthode ?", "en": "Is there a method at all?" },
+      "explicitation": {
+        "fr": "Et s'il n'existait aucune règle universelle du bon raisonnement scientifique ? Feyerabend soutient que les grandes découvertes ont souvent enfreint les canons de la méthode, et qu'en science « tout est bon » : la logique qu'on reconstruit après coup ne serait pas ce qui fait avancer le savoir.",
+        "en": "What if there were no universal rule of sound scientific reasoning? Feyerabend argues that the great discoveries often broke the canons of method, and that in science \"anything goes\": the logic reconstructed after the fact is not what actually advances knowledge."
+      }
+    },
+    {
+      "id": "science-in-practice",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": { "fr": "le travail réel des laboratoires", "en": "the actual work of laboratories" },
+      "mode": "DESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        { "fr": "revue par les pairs", "en": "peer review" },
+        { "fr": "consensus et réplication", "en": "consensus and replication" },
+        { "fr": "modèles et simulations", "en": "models and simulations" }
+      ],
+      "anchors": [
+        { "name": { "fr": "Kuhn", "en": "Kuhn" }, "kind": "PHILOSOPHER" },
+        { "name": { "fr": "Latour", "en": "Latour" }, "kind": "PHILOSOPHER" }
+      ],
+      "doorways": [{ "axis": "KNOWLEDGE_STATUS" }],
+      "title": { "fr": "La science telle qu'elle se fait", "en": "Science as it is actually done" },
+      "explicitation": {
+        "fr": "La logique des philosophes décrit-elle ce que font vraiment les laboratoires, la discussion, le consensus, la revue par les pairs, la construction de modèles et les simulations ? Ou la méthode réelle est-elle d'abord une pratique sociale, que la reconstruction logique idéalise après coup ?",
+        "en": "Does the philosophers' logic describe what laboratories actually do, the discussion, the consensus, peer review, the building of models and simulations? Or is the real method first a social practice, which the logical reconstruction idealizes after the fact?"
       }
     }
   ]

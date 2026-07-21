@@ -94,7 +94,7 @@ L'acceptation aimante de ce qui arrive est une prescription centrale : vouloir q
 
 *positionné · explicite dans les textes · majeure*
 
-Intellectualisme 90% · Sentimentalisme 10%
+Primauté de la raison 90% · Le primat du sentiment 10%
 
 Toute passion enveloppe un jugement de valeur sur une chose extérieure, du type « ceci est un mal » : c'est ce jugement, non l'événement, qui constitue le trouble. Le pas décisif est d'imputer la passion à l'opinion plutôt qu'à la chose : si une émotion repose sur un jugement, et qu'un jugement peut être révisé, alors aucune passion n'est subie comme une fatalité, toutes sont corrigibles par la raison. Épictète en tire une conséquence éthique inhabituelle : ne jamais accuser autrui ni les circonstances de notre malaise, mais l'usage que nous faisons de nos [représentations](../glossary/phantasia.md). La colère, l'affliction, la peur ne sont pas des forces étrangères à dompter mais des assentiments précipités à retirer.
 
@@ -240,7 +240,7 @@ Le progressant doit être d'une intégrité sans faille, accordant ses actes à 
 
 *positionné · explicite dans les textes · mineure*
 
-La mort n'est rien 70% · Immortalisme 20% · Être-pour-la-mort 10%
+Se libérer de la crainte 70% · Se préparer au passage 20% · Vivre en vue de sa mort 10%
 
 La mort « n'est rien de terrible », mais une opinion qui la rend telle : c'est un événement naturel, le retour des éléments au tout, qu'il faut tenir devant les yeux chaque jour sans le craindre. Le ton rejoint la sérénité épicurienne face à la mort, avec une coloration cosmique stoïcienne plutôt qu'une véritable immortalité personnelle.
 

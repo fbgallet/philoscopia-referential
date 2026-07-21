@@ -123,7 +123,7 @@ Une même chose paraît autrement selon l'animal qui la perçoit, l'organe, l'é
 
 Le sceptique pyrrhonien suspend son jugement sur l'existence et la nature des dieux, question dogmatique par excellence : il n'affirme ni le théisme ni l'athéisme. Sextus expose les arguments pour et contre l'existence du divin et conclut à l'équipollence, donc à la [épochè](../glossary/epoche.md) ; dans la vie courante, il se conforme sans croyance aux usages religieux de sa cité.
 
-### [Nature de l'esprit et du réel](../axes/reality-nature.md)
+### [Nature du réel](../axes/reality-nature.md)
 
 *contextualiste*
 
@@ -140,6 +140,12 @@ Adopter une définition de la vérité (correspondance, cohérence, utilité) re
 *contextualiste*
 
 Le sceptique ne soutient ni un bien et un mal universels par nature, ni un relativisme érigé en thèse : il observe que les coutumes morales divergent radicalement d'un peuple à l'autre (le dixième trope) et en conclut qu'on ne peut établir aucune valeur comme bonne par nature. Il suspend son jugement et se conforme, sans y adhérer dogmatiquement, aux lois et aux usages de son pays.
+
+### [Valeur de la vérité](../axes/truth-value.md)
+
+*rejette l'alternative*
+
+L'école ne choisit ni la vérité ni l'illusion : elle suspend. L'[épochè](../glossary/epoche.md) n'est pas une illusion choisie mais le renoncement à trancher, et la tranquillité ([ataraxie](../glossary/ataraxia.md)) survient comme l'ombre suit le corps, sans qu'aucune croyance fausse soit embrassée : l'alternative de l'axe présuppose une prise de position sur le vrai que le sceptique refuse précisément d'accorder.
 
 ## Influence sur
 

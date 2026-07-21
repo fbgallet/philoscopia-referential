@@ -1,0 +1,28 @@
+{
+  "id": "power",
+  "label": {
+    "fr": "Le pouvoir",
+    "en": "Power"
+  },
+  "aliases": {
+    "fr": [
+      "pouvoir",
+      "domination",
+      "tyrannie",
+      "puissance"
+    ],
+    "en": [
+      "power",
+      "domination",
+      "tyranny",
+      "might"
+    ]
+  },
+  "axes": [
+    "AUTHORITY",
+    "WHO_DECIDES",
+    "POLITICAL_OBLIGATION",
+    "VIOLENCE",
+    "SOCIAL_CONTRACT"
+  ]
+}

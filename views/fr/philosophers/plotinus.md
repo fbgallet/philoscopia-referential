@@ -50,7 +50,7 @@ Le bonheur ne tient ni au plaisir ni même à la seule vie vertueuse : la vertu 
 
 *Sources : Ennéades, I, 4 (Du bonheur) · Ennéades, I, 2 (Des vertus)*
 
-### [Nature de l'esprit et du réel](../axes/reality-nature.md)
+### [Nature du réel](../axes/reality-nature.md)
 
 *positionné · explicite dans les textes · majeure*
 
@@ -64,7 +64,7 @@ Le réel se déploie en une hiérarchie de degrés d'être, de l'[Un](../glossar
 
 *positionné · explicite dans les textes · majeure*
 
-Théodicée 75% · Révolte / anti-théodicie 25%
+Le mal a ses raisons 75% · Le mal injustifiable 25%
 
 Si tout procède d'un principe parfaitement bon, d'où vient le mal ? Plotin refuse d'en faire un principe positif, une puissance rivale du Bien : le mal n'a pas d'être propre, il est [privation](../glossary/privation.md), manque de bien, défaut d'être au degré le plus bas de la procession. Il l'identifie à la matière comme limite ultime où la lumière de l'Un s'éteint, non comme une force mais comme une absence. Le mal moral n'est dès lors qu'une âme qui se détourne du supérieur vers l'inférieur. Cette résorption du mal dans le non-être, qui sauve la bonté du tout sans nier la réalité de notre épreuve, est une forme de théodicie ; elle léguera à [Augustin](../philosophers/augustine.md) l'idée du mal comme [privatio boni](../glossary/privation.md).
 
@@ -104,9 +104,9 @@ Le moi n'est pas le composé corporel mais l'âme, substance immatérielle et im
 
 *positionné · explicite dans les textes · majeure*
 
-Immortalisme 100%
+Se préparer au passage 100%
 
-L'âme étant une substance simple, immatérielle et apparentée à l'intelligible, elle ne se décompose pas et survit à la dissolution du corps : Plotin reprend et développe l'[immortalité](../axes/death.md) du *[Phédon](../works/phaedo-plato.md)* de [Platon](../philosophers/plato.md). La mort n'est qu'un dépouillement, la libération de l'âme hors de son enveloppe corporelle, et donc rien de redoutable pour qui a déjà appris à vivre tourné vers le haut. Le sage s'y exerce dès cette vie, en détachant son moi véritable du corps.
+L'âme étant une substance simple, immatérielle et apparentée à l'intelligible, elle ne se décompose pas et survit à la dissolution du corps : Plotin reprend et développe l'[immortalité](../axes/afterlife.md) du *[Phédon](../works/phaedo-plato.md)* de [Platon](../philosophers/plato.md). La mort n'est qu'un dépouillement, la libération de l'âme hors de son enveloppe corporelle, et donc rien de redoutable pour qui a déjà appris à vivre tourné vers le haut. Le sage s'y exerce dès cette vie, en détachant son moi véritable du corps.
 
 *Sources : Ennéades, IV, 7 (De l'immortalité de l'âme) · Ennéades, I, 9 (Du suicide raisonnable)*
 
@@ -176,7 +176,7 @@ Le désir tourné vers les choses sensibles disperse l'âme et l'enchaîne au mu
 
 *positionné · inférable · mineure*
 
-Intellectualisme 85% · Sentimentalisme 15%
+Primauté de la raison 85% · Le primat du sentiment 15%
 
 Les passions appartiennent au composé de l'âme et du corps, non au moi supérieur, qui en reste indemne : l'âme vraiment elle-même n'est pas affectée, et c'est seulement sa part inférieure, tournée vers le corps, qui pâtit. Plotin tient donc les émotions pour des troubles à dominer par la conversion vers l'intelligible, dans la lignée intellectualiste, même si son intérêt se porte moins sur leur analyse psychologique que sur le moyen de leur échapper.
 
@@ -247,6 +247,16 @@ Le beau n'a de prix que comme degré et tremplin vers le haut : la beauté sensi
 *non applicable*
 
 Question anachronique : les Ennéades ne contiennent rien qui permette de positionner Plotin sur la pensée des machines sans extrapolation hasardeuse.
+
+### [Valeur de la vérité](../axes/truth-value.md)
+
+*positionné · inférable · mineure*
+
+Primauté de la vérité 80% · Illusions vitales 20%
+
+Le retournement de l'âme vers l'intelligible n'est pas un savoir de plus mais une conversion : se détourner des images pour remonter vers ce dont elles émanent. Le soin de l'âme tient tout entier dans cette montée, et l'attachement aux reflets est la servitude même.
+
+*Sources : Ennéades, I, 6 · Ennéades, IV, 8*
 
 ## Influencé par
 

@@ -126,7 +126,7 @@ La déduction a besoin de prémisses : pour démontrer les propriétés d'une ch
 
 *positionné · inférable · mineure*
 
-Intellectualisme 83% · Sentimentalisme 18%
+Primauté de la raison 83% · Le primat du sentiment 18%
 
 Les passions relèvent de l'idée confuse et doivent être maîtrisées par l'entendement : Descartes en propose une analyse mécanique et un art de les régler par la connaissance, et Spinoza tient qu'une passion cesse d'être passion dès que nous en formons une idée claire et distincte. La rectification de l'affect par la raison rapproche l'école d'un intellectualisme moral.
 

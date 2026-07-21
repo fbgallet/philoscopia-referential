@@ -14,8 +14,13 @@
     "en": "Refusing consolations and despair alike: facing a world that guarantees no meaning, seeking a lucid, <c id='revolt'>rebellious</c> way to live."
   },
   "aliases": {
-    "fr": ["camusien", "camusienne"],
-    "en": ["Camusian"]
+    "fr": [
+      "camusien",
+      "camusienne"
+    ],
+    "en": [
+      "Camusian"
+    ]
   },
   "summary": {
     "fr": "Écrivain, journaliste et philosophe français né dans l'Algérie coloniale en 1913, dans une famille pauvre de pieds-noirs. Reporter à Alger puis résistant à Paris où il dirige le journal clandestin <w>Combat</w>, il aborde la philosophie en romancier et en dramaturge autant qu'en essayiste, avec <w id='the-stranger-camus'>L'Étranger</w> et <w id='the-myth-of-sisyphus-camus'>Le Mythe de Sisyphe</w> (1942), puis <w id='the-plague-camus'>La Peste</w> (1947) et <w id='the-rebel-camus'>L'Homme révolté</w> (1951). Sa question constante est celle du sens et de la conduite à tenir dans un monde qui ne répond pas à notre demande. Ce dernier essai, par sa critique des révolutions au nom de l'Histoire, provoque sa rupture éclatante avec <ph id='sartre'>Sartre</ph> et les <mv id='existentialism'>existentialistes</mv>, dont il a toujours refusé l'étiquette. Prix Nobel de littérature en 1957, mort en 1960 dans un accident de voiture, il reste une référence majeure d'une pensée méditerranéenne de la <c>mesure</c>, attentive aux limites.",
@@ -731,6 +736,29 @@
         ],
         "strength": "STRONG"
       }
+    },
+    {
+      "axisId": "TRUTH_VALUE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Maintenir l'<c id='the-absurd'>absurde</c> exige de ne truquer aucun des deux termes : toute consolation qui prête au monde un sens caché est une esquive, un <pb>suicide philosophique</pb>. La lucidité n'est pas tristesse mais honneur de vivre : voir clair et vivre quand même, sans appel, est la seule grandeur accessible.",
+          "en": "Keeping the <c id='the-absurd'>absurd</c> alive requires rigging neither of its two terms: any consolation that lends the world a hidden meaning is an evasion, a <pb>philosophical suicide</pb>. Lucidity is not sadness but the honour of living: to see clearly and live all the same, without appeal, is the only greatness within reach."
+        },
+        "references": [
+          {
+            "fr": "Le Mythe de Sisyphe (1942)",
+            "en": "The Myth of Sisyphus (1942)"
+          }
+        ],
+        "strength": "STRONG"
+      }
     }
   ],
   "structuring": [
@@ -770,7 +798,7 @@
       }
     }
   ],
-  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

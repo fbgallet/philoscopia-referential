@@ -10,8 +10,13 @@
     "en": "Writing in dialogues to put our opinions to the test: a movement of ascent from the world that changes toward what does not change, up to the Good."
   },
   "aliases": {
-    "fr": ["platonicien", "platonicienne"],
-    "en": ["Platonic"]
+    "fr": [
+      "platonicien",
+      "platonicienne"
+    ],
+    "en": [
+      "Platonic"
+    ]
   },
   "summary": {
     "fr": "Athénien né dans une famille aristocratique, disciple de <ph>Socrate</ph> dont la condamnation à mort le détourna de la carrière politique, Platon (vers 428-348 av. J.-C.) fonde vers 387 l'Académie, qui survivra près de neuf siècles. Tout son œuvre est écrite en dialogues, où la voix de Socrate mène l'enquête : ce choix littéraire fait de la <c>dialectique</c>, l'examen contradictoire des opinions, la méthode même de la philosophie. Il y affronte le défi des <per>sophistes</per> et du <pb>relativisme</pb> de son temps, la question « comment vivre et gouverner justement ? » héritée du procès de Socrate, et celle d'un savoir stable dans un monde changeant. De la <w id='republic-plato'>République</w> au <w id='timaeus-plato'>Timée</w> et aux <w id='laws-plato'>Lois</w>, son influence est telle que toute la tradition occidentale a pu être lue, selon le mot de Whitehead, comme « une série de notes en bas de page à Platon ».",
@@ -323,7 +328,12 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0, 0, 1, 0]
+        "weights": [
+          0,
+          0,
+          1,
+          0
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
@@ -979,6 +989,33 @@
         ],
         "strength": "STRONG"
       }
+    },
+    {
+      "axisId": "TRUTH_VALUE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La sortie de la caverne est douloureuse, éblouissante, et pourtant seule libératrice : rester parmi les ombres, c'est prendre des reflets pour le réel et vivre enchaîné sans le savoir ; connaître n'est pas un ornement du bonheur mais la conversion de l'âme entière vers ce qui est. Reste que le philosophe-roi administre à la cité un <pb>mensonge noble</pb> : la primauté du vrai vaut d'abord pour l'âme qui s'éduque, et Platon assume que l'ordre commun puisse, lui, reposer sur un mythe.",
+          "en": "Leaving the cave is painful, blinding, and yet the only liberation: to stay among the shadows is to take reflections for reality and live in chains without knowing it; knowing is not an ornament of happiness but the conversion of the whole soul toward what is. Yet the philosopher-king administers a <pb>noble lie</pb> to the city: the primacy of truth holds first for the soul being educated, and Plato accepts that the common order may itself rest on a myth."
+        },
+        "references": [
+          {
+            "fr": "République, VII",
+            "en": "Republic, VII"
+          },
+          {
+            "fr": "République, III",
+            "en": "Republic, III"
+          }
+        ],
+        "strength": "STRONG"
+      }
     }
   ],
   "structuring": [
@@ -1018,7 +1055,7 @@
       }
     }
   ],
-  "updatedAt": "2026-07-02T00:00:00.000Z",
+  "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

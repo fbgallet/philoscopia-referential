@@ -14,8 +14,13 @@
     "en": "Where do our values come from, and what are they worth? Philosophizing as a physician of culture: sounding out our moralities to tell what affirms life from what denies it."
   },
   "aliases": {
-    "fr": ["nietzschéen", "nietzschéenne"],
-    "en": ["Nietzschean"]
+    "fr": [
+      "nietzschéen",
+      "nietzschéenne"
+    ],
+    "en": [
+      "Nietzschean"
+    ]
   },
   "summary": {
     "fr": "Philosophe et philologue allemand, professeur à Bâle à vingt-quatre ans avant que la maladie ne l'écarte. D'abord marqué par <ph>Schopenhauer</ph> et le compositeur <per>Wagner</per>, dont il se détache, il mène une critique radicale de la métaphysique, de la morale et du christianisme, dans un style d'aphorismes et de <c>généalogie</c>. Sombré dans la folie en 1889, longtemps défiguré par des récupérations posthumes, il s'impose comme l'une des sources majeures de la pensée du XXe siècle, de la psychanalyse à l'existentialisme.",
@@ -792,6 +797,34 @@
         ],
         "strength": "MEDIUM"
       }
+    },
+    {
+      "axisId": "TRUTH_VALUE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le premier, il retourne la question : d'où vient que nous voulions le vrai plutôt que l'illusion, et si cette <c>volonté de vérité</c> était elle-même une foi héritée, le dernier avatar de l'idéal ascétique ? La vie exige des perspectives, des fictions, de l'art ; non que Nietzsche prêche le mensonge confortable : sa <c>probité</c> est impitoyable, mais elle s'exerce au service de la vie, qui reste l'instance qui évalue.",
+          "en": "He is the first to turn the question around: whence our willing the true rather than illusion, and what if this <c>will to truth</c> were itself an inherited faith, the last avatar of the ascetic ideal? Life requires perspectives, fictions, art; not that Nietzsche preaches the comfortable lie: his <c>probity</c> is pitiless, but it is exercised in the service of life, which remains the evaluating instance."
+        },
+        "references": [
+          {
+            "fr": "Par-delà bien et mal, §1 (1886)",
+            "en": "Beyond Good and Evil, §1 (1886)"
+          },
+          {
+            "fr": "Généalogie de la morale, III (1887)",
+            "en": "On the Genealogy of Morality, III (1887)"
+          }
+        ],
+        "strength": "STRONG",
+        "quoteId": "nous-avons-l-art-pour-ne-pas-nietzsche"
+      }
     }
   ],
   "structuring": [
@@ -831,7 +864,7 @@
       }
     }
   ],
-  "updatedAt": "2026-06-23T00:00:00.000Z",
+  "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

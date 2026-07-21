@@ -1,0 +1,18 @@
+{
+  "id": "free-will-grounds-theodicy",
+  "ground": {
+    "axisId": "FREEDOM",
+    "poleId": "FREE_WILL"
+  },
+  "grounded": {
+    "axisId": "PROBLEM_OF_EVIL",
+    "poleId": "THEODICY"
+  },
+  "kind": "T_T",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si la volonté est réellement libre et que cette liberté a un prix inestimable, le mal moral peut se comprendre comme la rançon de créatures capables de choisir. Le <c id='free-will'>libre arbitre</c> fonde ainsi l'une des grandes justifications du mal : pour <ph id='augustine'>Augustin</ph>, la faute vient de l'homme, non de Dieu.",
+    "en": "If the will is genuinely free and this freedom is of inestimable worth, moral evil can be understood as the price of creatures able to choose. <c id='free-will'>Free will</c> thus grounds one of the great justifications of evil: for <ph id='augustine'>Augustine</ph>, the fault lies with humanity, not with God."
+  },
+  "updatedAt": "2026-07-20T00:00:00.000Z"
+}

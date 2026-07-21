@@ -37,7 +37,7 @@ Hope distracts us from the present and sets us up for disappointment: it makes u
 
 ## Related axes
 
-[Scope of action](../axes/control-scope.md) · [Tonality of reality](../axes/cosmic-outlook.md) · [The meaning of suffering](../axes/suffering-meaning.md)
+[Scope of action](../axes/control-scope.md) · [Tonality of reality](../axes/cosmic-outlook.md) · [The meaning of suffering](../axes/suffering-meaning.md) · [The value of truth](../axes/truth-value.md)
 
 ---
 

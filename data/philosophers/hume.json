@@ -14,8 +14,13 @@
     "en": "The most serene of <c id='skepticism'>skeptics</c>: putting human nature through the sieve of experience, finding habit beneath our surest beliefs and feeling beneath our moral judgments."
   },
   "aliases": {
-    "fr": ["humien", "humienne"],
-    "en": ["Humean"]
+    "fr": [
+      "humien",
+      "humienne"
+    ],
+    "en": [
+      "Humean"
+    ]
   },
   "summary": {
     "fr": "Philosophe, historien et essayiste écossais, figure majeure des Lumières d'Édimbourg et de l'<mv id='empiricism'>empirisme</mv> britannique, dans le sillage de <ph id='locke'>Locke</ph> et de <ph>Berkeley</ph>. Refusé par l'université pour soupçon d'irreligion, il vécut de sa plume, d'une <w id='treatise-of-human-nature-hume'>somme</w> de jeunesse passée d'abord inaperçue à une célèbre <w id='enquiry-concerning-human-understanding-hume'>Enquête</w>, des Essais et une monumentale Histoire d'Angleterre. Son projet : appliquer la <c>méthode expérimentale</c> de <per>Newton</per> à l'esprit humain, pour voir jusqu'où l'observation, sans hypothèse métaphysique, peut conduire l'analyse de la connaissance, des passions et de la morale. Tenu pour un sceptique sulfureux de son vivant, il devint l'aiguillon de la philosophie moderne : c'est lui, dira <ph id='kant'>Kant</ph>, qui le tira de son <q>sommeil dogmatique</q>.",
@@ -724,8 +729,8 @@
       "axisId": "MACHINE_MIND",
       "status": "NOT_APPLICABLE",
       "note": {
-        "fr": "L'opposition fonctionnalisme / naturalisme biologique sur l'esprit suppose les sciences cognitives et l'intelligence artificielle du XXe siècle. Hume théorise l'esprit comme un <c>faisceau de perceptions</c> associées par des lois (ressemblance, contiguïté, causalité), mais la question de savoir si une machine pourrait penser lui est étrangère.",
-        "en": "The functionalism / biological-naturalism opposition about mind presupposes 20th-century cognitive science and artificial intelligence. Hume theorizes the mind as a <c>bundle of perceptions</c> associated by laws (resemblance, contiguity, causation), but the question whether a machine could think is foreign to him."
+        "fr": "L'axe de la pensée des machines suppose les sciences cognitives et l'intelligence artificielle du XXe siècle. Hume théorise l'esprit comme un <c>faisceau de perceptions</c> associées par des lois (ressemblance, contiguïté, causalité), mais la question de savoir si une machine pourrait penser lui est étrangère.",
+        "en": "The machine-thought axis presupposes 20th-century cognitive science and artificial intelligence. Hume theorizes the mind as a <c>bundle of perceptions</c> associated by laws (resemblance, contiguity, causation), but the question whether a machine could think is foreign to him."
       }
     },
     {
@@ -778,6 +783,29 @@
         ],
         "strength": "STRONG"
       }
+    },
+    {
+      "axisId": "TRUTH_VALUE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Poussée à fond, la raison ne laisse debout ni monde ni moi, et cette lucidité-là est invivable : c'est la nature, non l'argument, qui guérit le philosophe, un dîner, une partie de trictrac, la conversation des amis. Hume assume ce remède d'inattention : ces conclusions sceptiques ne méritent pas qu'on leur sacrifie la vie commune.",
+          "en": "Pushed to the limit, reason leaves neither world nor self standing, and that lucidity is unlivable: it is nature, not argument, that cures the philosopher, a dinner, a game of backgammon, the conversation of friends. Hume owns this remedy of inattention: those skeptical conclusions do not deserve the sacrifice of common life."
+        },
+        "references": [
+          {
+            "fr": "Traité de la nature humaine, I, 4, 7 (1739)",
+            "en": "A Treatise of Human Nature, I, 4, 7 (1739)"
+          }
+        ],
+        "strength": "STRONG"
+      }
     }
   ],
   "structuring": [
@@ -817,7 +845,7 @@
       }
     }
   ],
-  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

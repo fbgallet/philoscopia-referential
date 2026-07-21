@@ -6,29 +6,31 @@
 
 *The world · descriptive (theory) · categorical*
 
-The suffering of the innocent is the harshest test for anyone who believes in a good and all-powerful God: either evil can be reconciled with him, or it is excused by our freedom, or it refutes him. To take a position is to say whether faith can stand before misfortune, or breaks on it.
+The suffering of the innocent is the harshest test for anyone who believes in a good and all-powerful God. Before it, four paths part ways: justifying evil, giving up divine omnipotence, refusing all justification, or concluding that no such God exists. To take a position is to say whether faith can stand before misfortune, and at what cost.
 
 ## Poles
 
-### Theodicy
+### Evil has its reasons
 
-Evil is only apparent or necessary from the standpoint of the whole: an infinitely wise God created the best of all possible worlds, where each evil contributes to a higher good we fail to see.
+A good and all-powerful God can permit evil: for the good of the whole, for the freedom of his creatures, to let souls mature, or for reasons beyond our understanding. Faith holds: even when opaque, evil has a meaning.
 
-*[Leibniz](../philosophers/leibniz.md)*
+- Plantinga's "defence" does not claim to know God's reasons: it only establishes that evil is not logically incompatible with his existence.
 
-### Free-will defence
+*[Leibniz](../philosophers/leibniz.md) · [Augustine](../philosophers/augustine.md)*
 
-Moral evil is the price of freedom: God willed free creatures, able to love and to choose the good, hence also able to do evil. The fault lies with humanity, not the creator.
+### A limited God
 
-*[Augustine](../philosophers/augustine.md) · [Plantinga](../philosophers/plantinga.md)*
+God's goodness is saved by limiting his power: a God who withdraws or limits himself so that the world may be, and who suffers with it more than he governs it. Evil is not willed by God: it is what he cannot prevent.
 
-### Revolt / anti-theodicy
+*[Jonas](../philosophers/jonas.md) · [Whitehead](../philosophers/whitehead.md)*
+
+### Unjustifiable evil
 
 To justify evil is itself a moral failing: no final harmony redeems the suffering of a single innocent child. Before evil there is no acceptable explanation, but revolt or silence.
 
 *[Dostoevsky](../philosophers/dostoevsky.md) · [Levinas](../philosophers/levinas.md)*
 
-### Argument from evil (atheism)
+### Evil refutes God
 
 The existence of massive, gratuitous evil is incompatible with a God at once good, all-powerful and all-knowing: either he cannot prevent it, or he will not. Evil is the strongest argument against God.
 
@@ -47,9 +49,9 @@ The existence of massive, gratuitous evil is incompatible with a God at once goo
 
 ## Grounding relations
 
-- *[Freedom of the will](../axes/freedom.md) : Free will* grounds *[The problem of evil](../axes/problem-of-evil.md) : Free-will defence* : If the will is genuinely free and this freedom is of inestimable worth, moral evil can be understood as the price of creatures able to choose. [Free will](../glossary/free-will.md) grounds the defence that bears its name against the problem of evil: for [Augustine](../philosophers/augustine.md), the fault lies with humanity, not with God.
-- *[Existence of God](../axes/god-existence.md) : Theism* grounds *[The problem of evil](../axes/problem-of-evil.md) : Theodicy* : If God is at once good, wise and all-powerful, the existence of evil must be justified rather than allowed to ruin faith. Theism pushes toward theodicy: [Leibniz](../philosophers/leibniz.md) holds that this world, for all its evils, is the best of all possible worlds. Other believers, however, refuse any justification of evil, a sign that the link is in no way necessary.
-- *[The problem of evil](../axes/problem-of-evil.md) : Theodicy* grounds *[Tonality of reality](../axes/cosmic-outlook.md) : Metaphysical optimism* : If every evil contributes to a higher good in the best of all possible worlds, then reality is fundamentally ordered and oriented toward the good. Theodicy grounds metaphysical optimism: in [Leibniz](../philosophers/leibniz.md), evil is only a local shadow within an overall harmonious picture.
+- *[Freedom of the will](../axes/freedom.md) : Free will* grounds *[The problem of evil](../axes/problem-of-evil.md) : Evil has its reasons* : If the will is genuinely free and this freedom is of inestimable worth, moral evil can be understood as the price of creatures able to choose. [Free will](../glossary/free-will.md) thus grounds one of the great justifications of evil: for [Augustine](../philosophers/augustine.md), the fault lies with humanity, not with God.
+- *[Existence of God](../axes/god-existence.md) : Theism* grounds *[The problem of evil](../axes/problem-of-evil.md) : Evil has its reasons* : If God is at once good, wise and all-powerful, the existence of evil must be justified rather than allowed to ruin faith. Theism pushes toward theodicy: [Leibniz](../philosophers/leibniz.md) holds that this world, for all its evils, is the best of all possible worlds. Other believers, however, refuse any justification of evil, a sign that the link is in no way necessary.
+- *[The problem of evil](../axes/problem-of-evil.md) : Evil has its reasons* grounds *[Tonality of reality](../axes/cosmic-outlook.md) : Metaphysical optimism* : If every evil contributes to a higher good in the best of all possible worlds, then reality is fundamentally ordered and oriented toward the good. Theodicy grounds metaphysical optimism: in [Leibniz](../philosophers/leibniz.md), evil is only a local shadow within an overall harmonious picture.
 
 ## Related axes
 

@@ -9,15 +9,17 @@
 - [Nature of truth](truth-nature.md) : What makes a statement true?
 - [Place of science](science-place.md) : Is science the only valid path to knowledge?
 - [Relation to certainty](certainty.md) : Can we reach definitive certainties?
-- [Scientific method](scientific-method.md) : How does science establish its truths?
+- [Scientific method](scientific-method.md) : How does science go about justifying its claims?
 - [Source of knowledge](knowledge-source.md) : Where does our knowledge come from: sensory experience or reason?
 - [Status of knowledge](knowledge-status.md) : Does science describe the world as it is, or does it construct its own objects?
 - [The meaning of words](meaning.md) : Where do words get their meaning?
 - [The point of philosophy](metaphilosophy.md) : What is philosophy for?
+- [The value of truth](truth-value.md) : Should we want the truth at any cost, or do some illusions help us live?
 - [Universals](universals.md) : Do general properties exist, or are they merely names?
 
 ## The self
 
+- [After death](afterlife.md) : Does something of us survive death?
 - [Attention and diversion](attention.md) : Is diverting oneself a flight from what matters, or an art of living?
 - [Being or having a body](embodiment.md) : Am I my body, or do I have a body?
 - [Bodily pleasures](bodily-pleasures.md) : Should we distrust the pleasures of the body, or celebrate them?
@@ -45,9 +47,11 @@
 - [Forgiveness](forgiveness.md) : Should forgiveness be unconditional, or does it depend on the wrongdoer's repentance?
 - [Ideal and reality](political-ideal.md) : Should politics aim at the ideal city, or work with human beings as they are?
 - [Individual and society](individual-society.md) : To understand social life, should we start from individuals or from the social whole?
+- [Law and conscience](political-obligation.md) : Can it be right to disobey the law?
 - [Letter or spirit of the rule](rule-spirit.md) : Should rules be applied to the letter or according to their spirit?
 - [Moral circle](moral-circle.md) : To whom do we owe moral consideration?
 - [Moral demandingness](moral-demand.md) : How much does morality demand of us?
+- [Moral responsibility](moral-responsibility.md) : Should we assign blame and credit?
 - [Nature of love](love-nature.md) : What lies at the heart of love: a lack, a gift, or something else?
 - [Nature of rights](rights-nature.md) : Where do rights come from?
 - [Partiality](partiality.md) : Is it right to give moral priority to those close to us?
@@ -60,6 +64,7 @@
 - [The meaning of history](history-meaning.md) : Does human history follow a direction, or is it sheer contingency?
 - [The meaning of punishment](punishment.md) : Why punish: to repay the wrong, to deter, or to rehabilitate?
 - [The origin of the social bond](social-contract.md) : Does society rest on an agreement between individuals, or on a community that precedes them?
+- [The source of morality](moral-source.md) : What gives morality its authority?
 - [Tradition and transformation](conservatism-progressism.md) : Should we preserve the legacy of our institutions, or transform society in the name of progress?
 - [Violence](violence.md) : Can violence be legitimate?
 - [Who should decide](who-decides.md) : Do political decisions belong to everyone, or first to the most competent?
@@ -79,11 +84,11 @@
 - [Meaning of work](work-meaning.md) : Does work fulfill us, alienate us, or is it merely a necessity?
 - [Nature and culture](human-nature.md) : Are human behaviors explained primarily by nature or by culture?
 - [Nature of art](art-nature.md) : Does art imitate reality, or does it create something radically new?
-- [Nature of consciousness](consciousness-nature.md) : What is the nature of consciousness and its relation to physical reality?
-- [Nature of mind and reality](reality-nature.md) : What is reality made of: matter, mind, or both?
+- [Nature of reality](reality-nature.md) : What is reality made of: matter, mind, or both?
 - [Purpose of art](art-purpose.md) : What is art for: to give pleasure, to reveal truth, or to transform the world?
 - [Relation to technology](technology.md) : Does technological progress improve the human condition?
 - [Status of emotions](emotions.md) : Are emotions an obstacle to thought or a source of knowledge?
+- [The enigma of consciousness](consciousness-nature.md) : Can a science of the brain fully explain lived experience?
 - [The problem of evil](problem-of-evil.md) : Is evil compatible with a good and all-powerful God?
 - [Vision of humanity](human-vision.md) : Are human beings fundamentally good or inclined toward evil?
 - [Where the sacred resides](transcendence.md) : Does the sacred reside in this very world, or in a beyond that surpasses it?

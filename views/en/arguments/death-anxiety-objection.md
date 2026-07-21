@@ -2,7 +2,7 @@
 
 # The anxiety objection
 
-*Objection to [Death](../axes/death.md) : Death is nothing*
+*Objection to [Death](../axes/death.md) : Freeing ourselves from the fear*
 
 **An argument, however sound, is not enough to dispel the fear of dying.**
 

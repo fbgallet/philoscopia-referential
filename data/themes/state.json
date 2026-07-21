@@ -1,0 +1,29 @@
+{
+  "id": "state",
+  "label": {
+    "fr": "L'État",
+    "en": "The state"
+  },
+  "aliases": {
+    "fr": [
+      "état",
+      "gouvernement",
+      "souveraineté",
+      "institutions"
+    ],
+    "en": [
+      "state",
+      "government",
+      "sovereignty",
+      "institutions"
+    ]
+  },
+  "axes": [
+    "POLITICAL_OBLIGATION",
+    "AUTHORITY",
+    "POLITICAL_LIBERTY",
+    "SOCIAL_CONTRACT",
+    "WHO_DECIDES",
+    "POLITICAL_IDEAL"
+  ]
+}

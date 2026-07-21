@@ -4,7 +4,7 @@
 
 **Does work fulfill us, alienate us, or is it merely a necessity?**
 
-*The world · descriptive (theory) · triangular*
+*The world · value · triangular*
 
 Is work the place where we realize ourselves and find our place among others, or what wears us down and dispossesses us, time taken from the rest of our existence? Seeing it as fulfilment can reduce us to our jobs; seeing it as mere drudgery can drain a huge part of our days of meaning. To take a position is to say what place work deserves in a good life.
 

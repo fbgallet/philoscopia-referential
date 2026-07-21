@@ -2,7 +2,7 @@
 
 # L'argument de la symétrie
 
-*Argument pour [La mort](../axes/death.md) : La mort n'est rien*
+*Argument pour [La mort](../axes/death.md) : Se libérer de la crainte*
 
 **La mort ne peut être un mal, car là où elle est, nous ne sommes plus.**
 

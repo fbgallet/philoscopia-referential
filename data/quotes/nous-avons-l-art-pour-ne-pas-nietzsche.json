@@ -1,0 +1,26 @@
+{
+  "id": "nous-avons-l-art-pour-ne-pas-nietzsche",
+  "text": {
+    "fr": "Nous avons l'art pour ne pas périr de la vérité.",
+    "en": "We have art so that we do not perish of the truth."
+  },
+  "author": {
+    "name": {
+      "fr": "Nietzsche",
+      "en": "Nietzsche"
+    },
+    "kind": "PHILOSOPHER",
+    "slug": "nietzsche"
+  },
+  "source": {
+    "fr": "Fragments posthumes, printemps 1888, 16 [40]",
+    "en": "Posthumous fragments, spring 1888, 16 [40]"
+  },
+  "anchors": [
+    {
+      "axisId": "TRUTH_VALUE",
+      "poleId": "VITAL_ILLUSION"
+    }
+  ],
+  "updatedAt": "2026-07-19T00:00:00.000Z"
+}

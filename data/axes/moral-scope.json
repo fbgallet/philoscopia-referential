@@ -14,6 +14,24 @@
     "fr": "Si la morale vaut partout, on peut condamner l'esclavage ou la torture où qu'ils se pratiquent, au risque d'imposer nos normes comme mesure de toutes ; si elle dépend des cultures, on respecte les différences, mais on perd tout droit de dénoncer la cruauté ailleurs. Se positionner, c'est dire si « c'est leur culture » clôt toute discussion morale.",
     "en": "If morality holds everywhere, we can condemn slavery or torture wherever they are practised, at the risk of imposing our norms as the measure of all; if it depends on cultures, we respect differences but lose any right to denounce cruelty elsewhere. To take a position is to say whether \"it's their culture\" ends every moral argument."
   },
+  "aliases": {
+    "fr": [
+      "relativisme moral",
+      "universalisme",
+      "métaéthique",
+      "valeurs universelles",
+      "tolérance",
+      "cultures"
+    ],
+    "en": [
+      "moral relativism",
+      "universalism",
+      "metaethics",
+      "universal values",
+      "tolerance",
+      "cultures"
+    ]
+  },
   "layer": "THEORY",
   "type": "TRIANGULAR",
   "poles": [
@@ -112,16 +130,46 @@
       },
       "mode": "DESCRIPTIVE",
       "keywords": [
-        { "fr": "argument de la diversité", "en": "argument from disagreement" },
-        { "fr": "ethnocentrisme", "en": "ethnocentrism" },
-        { "fr": "coutume", "en": "custom" }
+        {
+          "fr": "argument de la diversité",
+          "en": "argument from disagreement"
+        },
+        {
+          "fr": "ethnocentrisme",
+          "en": "ethnocentrism"
+        },
+        {
+          "fr": "coutume",
+          "en": "custom"
+        }
       ],
-      "poles": ["UNIVERSALISM_REALISM", "RELATIVISM", "CONSTRUCTIVISM"],
+      "poles": [
+        "UNIVERSALISM_REALISM",
+        "RELATIVISM",
+        "CONSTRUCTIVISM"
+      ],
       "anchors": [
-        { "name": { "fr": "Montaigne", "en": "Montaigne" }, "kind": "PHILOSOPHER", "slug": "montaigne" },
-        { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" }
+        {
+          "name": {
+            "fr": "Montaigne",
+            "en": "Montaigne"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "montaigne"
+        },
+        {
+          "name": {
+            "fr": "Kant",
+            "en": "Kant"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "kant"
+        }
       ],
-      "ref": { "kind": "THOUGHT_EXPERIMENT", "id": "funeral-customs" },
+      "ref": {
+        "kind": "THOUGHT_EXPERIMENT",
+        "id": "funeral-customs"
+      },
       "title": {
         "fr": "Chacun ses coutumes ?",
         "en": "To each their customs?"
@@ -141,18 +189,60 @@
       },
       "mode": "DESCRIPTIVE",
       "keywords": [
-        { "fr": "réalisme moral", "en": "moral realism" },
-        { "fr": "théorie de l'erreur", "en": "error theory" },
-        { "fr": "loi de Hume", "en": "Hume's law" },
-        { "fr": "être et devoir-être", "en": "is and ought" }
+        {
+          "fr": "réalisme moral",
+          "en": "moral realism"
+        },
+        {
+          "fr": "théorie de l'erreur",
+          "en": "error theory"
+        },
+        {
+          "fr": "loi de Hume",
+          "en": "Hume's law"
+        },
+        {
+          "fr": "être et devoir-être",
+          "en": "is and ought"
+        }
       ],
-      "poles": ["UNIVERSALISM_REALISM", "RELATIVISM"],
+      "poles": [
+        "UNIVERSALISM_REALISM",
+        "RELATIVISM"
+      ],
       "anchors": [
-        { "name": { "fr": "Platon", "en": "Plato" }, "kind": "PHILOSOPHER", "slug": "plato" },
-        { "name": { "fr": "Hume", "en": "Hume" }, "kind": "PHILOSOPHER", "slug": "hume" },
-        { "name": { "fr": "Mackie", "en": "Mackie" }, "kind": "PHILOSOPHER" }
+        {
+          "name": {
+            "fr": "Platon",
+            "en": "Plato"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "plato"
+        },
+        {
+          "name": {
+            "fr": "Hume",
+            "en": "Hume"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "hume"
+        },
+        {
+          "name": {
+            "fr": "Mackie",
+            "en": "Mackie"
+          },
+          "kind": "PHILOSOPHER"
+        }
       ],
-      "doorways": [{ "axis": "ETHICS_FOUNDATION" }, { "axis": "TRUTH_NATURE" }],
+      "doorways": [
+        {
+          "axis": "ETHICS_FOUNDATION"
+        },
+        {
+          "axis": "TRUTH_NATURE"
+        }
+      ],
       "title": {
         "fr": "Y a-t-il des vérités morales ?",
         "en": "Are there moral truths?"
@@ -172,14 +262,39 @@
       },
       "mode": "DESCRIPTIVE",
       "keywords": [
-        { "fr": "paradoxe de la tolérance", "en": "paradox of tolerance" },
-        { "fr": "relativisme de la distance", "en": "relativism of distance" },
-        { "fr": "autoréfutation", "en": "self-refutation" }
+        {
+          "fr": "paradoxe de la tolérance",
+          "en": "paradox of tolerance"
+        },
+        {
+          "fr": "relativisme de la distance",
+          "en": "relativism of distance"
+        },
+        {
+          "fr": "autoréfutation",
+          "en": "self-refutation"
+        }
       ],
-      "poles": ["RELATIVISM"],
+      "poles": [
+        "RELATIVISM"
+      ],
       "anchors": [
-        { "name": { "fr": "Williams", "en": "Williams" }, "kind": "PHILOSOPHER", "slug": "williams" },
-        { "name": { "fr": "Montaigne", "en": "Montaigne" }, "kind": "PHILOSOPHER", "slug": "montaigne" }
+        {
+          "name": {
+            "fr": "Williams",
+            "en": "Williams"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "williams"
+        },
+        {
+          "name": {
+            "fr": "Montaigne",
+            "en": "Montaigne"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "montaigne"
+        }
       ],
       "title": {
         "fr": "Tolérer, jusqu'où ?",
@@ -200,17 +315,66 @@
       },
       "mode": "DESCRIPTIVE",
       "keywords": [
-        { "fr": "nomos et physis", "en": "nomos and physis" },
-        { "fr": "loi du plus fort", "en": "might makes right" },
-        { "fr": "voile d'ignorance", "en": "veil of ignorance" },
-        { "fr": "procédure équitable", "en": "fair procedure" }
+        {
+          "fr": "nomos et physis",
+          "en": "nomos and physis"
+        },
+        {
+          "fr": "loi du plus fort",
+          "en": "might makes right"
+        },
+        {
+          "fr": "voile d'ignorance",
+          "en": "veil of ignorance"
+        },
+        {
+          "fr": "procédure équitable",
+          "en": "fair procedure"
+        }
       ],
-      "poles": ["UNIVERSALISM_REALISM", "RELATIVISM", "CONSTRUCTIVISM"],
+      "poles": [
+        "UNIVERSALISM_REALISM",
+        "RELATIVISM",
+        "CONSTRUCTIVISM"
+      ],
       "anchors": [
-        { "name": { "fr": "Thrasymaque", "en": "Thrasymachus" }, "kind": "PHILOSOPHER", "slug": "thrasymachus" },
-        { "name": { "fr": "Platon", "en": "Plato" }, "kind": "PHILOSOPHER", "slug": "plato" },
-        { "name": { "fr": "Rawls", "en": "Rawls" }, "kind": "PHILOSOPHER", "slug": "rawls" },
-        { "name": { "fr": "Habermas", "en": "Habermas" }, "kind": "PHILOSOPHER", "slug": "habermas" }
+        {
+          "name": {
+            "fr": "Thrasymaque",
+            "en": "Thrasymachus"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "thrasymachus"
+        },
+        {
+          "name": {
+            "fr": "Platon",
+            "en": "Plato"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "plato"
+        },
+        {
+          "name": {
+            "fr": "Rawls",
+            "en": "Rawls"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "rawls"
+        },
+        {
+          "name": {
+            "fr": "Habermas",
+            "en": "Habermas"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "habermas"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "MORAL_SOURCE"
+        }
       ],
       "title": {
         "fr": "Trouvée, imposée, ou construite ?",
@@ -232,14 +396,38 @@
       "mode": "DESCRIPTIVE",
       "relation": "RELATED",
       "keywords": [
-        { "fr": "droits naturels", "en": "natural rights" },
-        { "fr": "droit positif", "en": "positive law" }
+        {
+          "fr": "droits naturels",
+          "en": "natural rights"
+        },
+        {
+          "fr": "droit positif",
+          "en": "positive law"
+        }
       ],
       "anchors": [
-        { "name": { "fr": "Locke", "en": "Locke" }, "kind": "PHILOSOPHER", "slug": "locke" },
-        { "name": { "fr": "Bentham", "en": "Bentham" }, "kind": "PHILOSOPHER", "slug": "bentham" }
+        {
+          "name": {
+            "fr": "Locke",
+            "en": "Locke"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "locke"
+        },
+        {
+          "name": {
+            "fr": "Bentham",
+            "en": "Bentham"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "bentham"
+        }
       ],
-      "doorways": [{ "axis": "RIGHTS_NATURE" }],
+      "doorways": [
+        {
+          "axis": "RIGHTS_NATURE"
+        }
+      ],
       "title": {
         "fr": "Les droits : naturels ou institués ?",
         "en": "Rights: natural or instituted?"
@@ -261,9 +449,16 @@
       "sphere": "MORAL",
       "relation": "RELATED",
       "keywords": [
-        { "fr": "vertu, devoir, conséquences", "en": "virtue, duty, consequences" }
+        {
+          "fr": "vertu, devoir, conséquences",
+          "en": "virtue, duty, consequences"
+        }
       ],
-      "doorways": [{ "axis": "ETHICS_FOUNDATION" }],
+      "doorways": [
+        {
+          "axis": "ETHICS_FOUNDATION"
+        }
+      ],
       "title": {
         "fr": "Quelle morale ?",
         "en": "Which morality?"
@@ -284,9 +479,16 @@
       "mode": "DESCRIPTIVE",
       "relation": "RELATED",
       "keywords": [
-        { "fr": "cercle moral", "en": "moral circle" }
+        {
+          "fr": "cercle moral",
+          "en": "moral circle"
+        }
       ],
-      "doorways": [{ "axis": "MORAL_CIRCLE" }],
+      "doorways": [
+        {
+          "axis": "MORAL_CIRCLE"
+        }
+      ],
       "title": {
         "fr": "Pour qui les normes valent-elles ?",
         "en": "For whom do norms hold?"
@@ -303,6 +505,7 @@
     "MORAL_CIRCLE",
     "TRUTH_NATURE",
     "SCIENCE_PLACE",
-    "HUMAN_PLACE_NATURE"
+    "HUMAN_PLACE_NATURE",
+    "MORAL_SOURCE"
   ]
 }

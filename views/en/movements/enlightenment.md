@@ -54,7 +54,7 @@ The model is the physics of Newton: a handful of mathematical laws accounts for 
 
 *positioned · explicit in the texts · minor*
 
-Inductivism 80% · Bayesianism 20%
+Proof by experience 80% · The calculus of probabilities 20%
 
 Hostile to a priori systems and gratuitous hypotheses, the Enlightenment makes observation and experiment the source of all physics: one rises from facts to laws by [induction](../glossary/induction.md), in the manner of [Bacon](../philosophers/bacon.md), whom the Encyclopédie claims as its patron. [Hume](../philosophers/hume.md) nonetheless radicalizes this programme by showing that induction itself is grounded not in reason but in habit. In parallel, the calculus of probabilities of Laplace and [Condorcet](../philosophers/condorcet.md) opens a quantitative path to uncertainty.
 
@@ -255,6 +255,16 @@ Conflict 45% · Separate domains 30% · Harmony 25%
 On religion the current makes common front even where it diverges about God: reason, not revelation or the Church, is judge in the last instance. Many hold revealed religion to be incompatible with it, mixed with superstition and fanaticism: it is the « Infamous Thing » that [Voltaire](../philosophers/voltaire.md) would « crush ». Others substitute for it a natural religion, or [deism](../glossary/deisme.md), attuned to reason: a clockmaker God without miracles or clergy. From this primacy follow the cardinal demand of [tolerance](../glossary/tolerance.md) and the separation of the civil from the religious: [Locke](../philosophers/locke.md) shows that no one can be compelled to believe, and that salvation is no concern of the State.
 
 *Sources : Voltaire, Treatise on Tolerance · Locke, A Letter Concerning Toleration*
+
+### [The value of truth](../axes/truth-value.md)
+
+*positioned · explicit in the texts · major*
+
+The primacy of truth 90% · Vital illusions 10%
+
+The movement defines itself by a wager: the spread of light emancipates, darkness enslaves. To dare to know, uproot prejudice, publish the Encyclopédie, is to hold that no moral or political progress can be bought at the price of maintained ignorance, and that tutelages live off the darkness they cultivate.
+
+*Sources : Kant, What Is Enlightenment? (1784) · The Encyclopédie (1751-1772)*
 
 ## Influenced by
 

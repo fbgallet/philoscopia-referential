@@ -1,0 +1,26 @@
+{
+  "id": "nature",
+  "label": {
+    "fr": "La nature",
+    "en": "Nature"
+  },
+  "aliases": {
+    "fr": [
+      "nature",
+      "naturel",
+      "monde naturel"
+    ],
+    "en": [
+      "nature",
+      "natural",
+      "natural world"
+    ]
+  },
+  "axes": [
+    "HUMAN_NATURE",
+    "HUMAN_PLACE_NATURE",
+    "MORAL_CIRCLE",
+    "CAUSALITY",
+    "FUTURE_GENERATIONS"
+  ]
+}

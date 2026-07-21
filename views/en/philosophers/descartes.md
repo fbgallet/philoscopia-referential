@@ -8,7 +8,7 @@ French mathematician, physicist and philosopher, schooled by the Jesuits at La F
 
 ## Core positions
 
-1. [Nature of consciousness](../axes/consciousness-nature.md) : **Mind and body are two really distinct substances: I can conceive the thinking thing with nothing corporeal, so my essence is to think, not to be extended.**
+1. [The enigma of consciousness](../axes/consciousness-nature.md) : **Mind and body are two really distinct substances: I can conceive the thinking thing with nothing corporeal, so my essence is to think, not to be extended.**
 2. [Relation to certainty](../axes/certainty.md) : **I can doubt everything except that I doubt: “I think, therefore I am” withstands the most [radical doubt](../glossary/hyperbolic-doubt.md) and becomes the indubitable ground of all knowledge.**
 3. [Source of knowledge](../axes/knowledge-source.md) : **The senses deceive: only reason, by the intuition of simple natures and deduction, reaches the true, starting from [innate ideas](../glossary/innate-ideas.md) that experience did not put in us.**
 4. [Existence of God](../axes/god-existence.md) : **A perfect God exists and cannot deceive me: his veracity alone guarantees that my clear and distinct ideas are true, and so lifts doubt.**
@@ -40,7 +40,7 @@ Descartes believes in a provident God and in the immortality of the soul, which 
 
 *positioned · explicit in the texts · minor*
 
-Immortalism 90% · Death is nothing 5% · Being-toward-death 5%
+Preparing for the passage 90% · Freeing ourselves from the fear 5% · Living in view of one's death 5%
 
 Cartesian dualism really separates the soul, a thinking substance, from the body, an extended substance: nothing in the nature of the mind depends on the body, whose death therefore cannot reach it. Descartes presents it as an explicit aim of the Meditations to demonstrate, against the libertines, the immortality of the soul. Death is but the breakdown of a machine, the soul surviving it.
 
@@ -90,7 +90,7 @@ Descartes makes the will the infinite faculty of the soul, that in which we most
 
 *Sources : Meditations on First Philosophy, IV · The Passions of the Soul, arts. 41 and 152*
 
-### [Nature of mind and reality](../axes/reality-nature.md)
+### [Nature of reality](../axes/reality-nature.md)
 
 *positioned · explicit in the texts · major*
 
@@ -166,7 +166,7 @@ For Descartes, the new science has a practical end: to yield techniques, mechani
 
 *positioned · explicit in the texts · major*
 
-Intellectualism 80% · Sentimentalism 20%
+The primacy of reason 80% · The primacy of feeling 20%
 
 In *[The Passions of the Soul](../works/the-passions-of-the-soul-descartes.md)*, the passions are motions of the soul caused by the body's spirits: they are neither to be suppressed nor blindly followed, but governed by reason and a firm will. Mastery lies in an enlightened use of judgment, which leans toward **intellectualism** without denying the worth of well-ordered passions.
 
@@ -186,7 +186,7 @@ Descartes conceives a unified knowledge: all the sciences are but one single hum
 
 *not applicable*
 
-Descartes holds animals to be machines and devises a language test to tell man from automaton, yet his dualism places thought outside all mechanism: applying the functionalism / biological-naturalism axis would require an anachronistic extrapolation too strong to be positioned.
+Descartes holds animals to be machines and devises a language test to tell man from automaton, yet his dualism places thought outside all mechanism: applying the machine-thought axis would require an anachronistic extrapolation too strong to be positioned.
 
 ### [Interiority](../axes/interiority.md)
 
@@ -300,7 +300,7 @@ The project of the Meditations on First Philosophy is expressly foundationalist:
 
 *Sources : Meditations on First Philosophy, I-II*
 
-### [Nature of consciousness](../axes/consciousness-nature.md)
+### [The enigma of consciousness](../axes/consciousness-nature.md)
 
 *positioned · explicit in the texts · major*
 
@@ -329,6 +329,18 @@ Eros as lack 50% · Philia (friendship) 30% · Agape as gift 20%
 In *[The Passions of the Soul](../works/the-passions-of-the-soul-descartes.md)*, love is a passion, an emotion of the soul caused by the body's spirits, that inclines the will to join itself to objects which appear suitable to it. Descartes distinguishes two loves: the love of concupiscence, which desires for oneself what one lacks, and the love of benevolence, which wills the good of the beloved. To the passion undergone is added [generosity](../glossary/generosity.md), the firm disposition to make good use of one's free will, to esteem others and to unite with them, which governs and ennobles love instead of merely suffering it.
 
 *Sources : The Passions of the Soul, arts. 79-83 (love); arts. 153-156 (generosity)*
+
+### [The value of truth](../axes/truth-value.md)
+
+*positioned · explicit in the texts · minor*
+
+The primacy of truth 75% · Vital illusions 25%
+
+Knowledge is for him no speculative luxury: he wants to distinguish the true from the false in order to see clearly into his own actions and conduct his life with confidence. The method aims at shedding prejudice and hasty judgment, because a well-conducted life is regulated by established truths rather than received opinions.
+
+> “I always had an intense desire to learn to distinguish the true from the false, in order to see clearly into my own actions and to walk with confidence in this life.”, Discourse on the Method, I
+
+*Sources : Discourse on the Method, I (1637)*
 
 ## Influenced by
 

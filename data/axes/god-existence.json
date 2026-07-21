@@ -14,6 +14,24 @@
     "fr": "De la réponse dépendent l'origine du monde, l'existence d'une justice au-delà des tribunaux humains, le fondement de nos valeurs et ce qui nous attend après la mort. Peu de questions engagent à ce point la forme entière qu'on donne à sa vie, et aucune n'admet de preuve qui clôt le débat.",
     "en": "On the answer hang the origin of the world, the existence of a justice beyond human courts, the foundation of our values, and what awaits us after death. Few questions bear so heavily on the whole shape we give our life, and none admits a proof that ends the debate."
   },
+  "aliases": {
+    "fr": [
+      "dieu",
+      "religion",
+      "foi",
+      "croyance",
+      "athéisme",
+      "théisme"
+    ],
+    "en": [
+      "god",
+      "religion",
+      "faith",
+      "belief",
+      "atheism",
+      "theism"
+    ]
+  },
   "layer": "THEORY",
   "type": "BIPOLAR_MEDIAN",
   "poles": [
@@ -110,137 +128,389 @@
     "ETHICS_FOUNDATION",
     "BELIEF_ETHICS",
     "COSMIC_OUTLOOK",
-    "REDUCTION_EMERGENCE"
+    "REDUCTION_EMERGENCE",
+    "MORAL_SOURCE",
+    "AFTERLIFE"
   ],
   "problems": [
     {
       "id": "ontological-argument",
       "resolution": "LATENT",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "Dieu", "en": "God" },
+      "objectLabel": {
+        "fr": "Dieu",
+        "en": "God"
+      },
       "mode": "DESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "argument ontologique", "en": "ontological argument" },
-        { "fr": "a priori", "en": "a priori" },
-        { "fr": "perfection", "en": "perfection" },
-        { "fr": "déduction", "en": "deduction" }
+        {
+          "fr": "argument ontologique",
+          "en": "ontological argument"
+        },
+        {
+          "fr": "a priori",
+          "en": "a priori"
+        },
+        {
+          "fr": "perfection",
+          "en": "perfection"
+        },
+        {
+          "fr": "déduction",
+          "en": "deduction"
+        }
       ],
-      "poles": ["THEISM"],
+      "poles": [
+        "THEISM"
+      ],
       "anchors": [
-        { "name": { "fr": "Anselme", "en": "Anselm" }, "kind": "PHILOSOPHER", "slug": "anselm" },
-        { "name": { "fr": "Descartes", "en": "Descartes" }, "kind": "PHILOSOPHER", "slug": "descartes" },
-        { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" }
+        {
+          "name": {
+            "fr": "Anselme",
+            "en": "Anselm"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "anselm"
+        },
+        {
+          "name": {
+            "fr": "Descartes",
+            "en": "Descartes"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "descartes"
+        },
+        {
+          "name": {
+            "fr": "Kant",
+            "en": "Kant"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "kant"
+        }
       ],
-      "title": { "fr": "Prouver Dieu par l'idée seule", "en": "Proving God from the idea alone" },
-      "explicitation": { "fr": "Peut-on, à partir de la seule idée d'un être parfait, conclure qu'il existe nécessairement, ou l'existence ne se déduit-elle jamais d'un concept ?", "en": "Can one conclude, from the mere idea of a perfect being, that it necessarily exists, or is existence never deduced from a concept?" }
+      "title": {
+        "fr": "Prouver Dieu par l'idée seule",
+        "en": "Proving God from the idea alone"
+      },
+      "explicitation": {
+        "fr": "Peut-on, à partir de la seule idée d'un être parfait, conclure qu'il existe nécessairement, ou l'existence ne se déduit-elle jamais d'un concept ?",
+        "en": "Can one conclude, from the mere idea of a perfect being, that it necessarily exists, or is existence never deduced from a concept?"
+      }
     },
     {
       "id": "religious-experience",
       "resolution": "LATENT",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "Dieu", "en": "God" },
+      "objectLabel": {
+        "fr": "Dieu",
+        "en": "God"
+      },
       "mode": "DESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "mystique", "en": "mysticism" },
-        { "fr": "numineux", "en": "the numinous" },
-        { "fr": "croyance immédiate", "en": "basic belief" },
-        { "fr": "sentiment religieux", "en": "religious feeling" }
+        {
+          "fr": "mystique",
+          "en": "mysticism"
+        },
+        {
+          "fr": "numineux",
+          "en": "the numinous"
+        },
+        {
+          "fr": "croyance immédiate",
+          "en": "basic belief"
+        },
+        {
+          "fr": "sentiment religieux",
+          "en": "religious feeling"
+        }
       ],
-      "poles": ["THEISM"],
+      "poles": [
+        "THEISM"
+      ],
       "anchors": [
-        { "name": { "fr": "William James", "en": "William James" }, "kind": "PHILOSOPHER", "slug": "william-james" },
-        { "name": { "fr": "Otto", "en": "Otto" }, "kind": "PHILOSOPHER" }
+        {
+          "name": {
+            "fr": "William James",
+            "en": "William James"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "william-james"
+        },
+        {
+          "name": {
+            "fr": "Otto",
+            "en": "Otto"
+          },
+          "kind": "PHILOSOPHER"
+        }
       ],
-      "doorways": [{ "axis": "FAITH_REASON" }],
-      "title": { "fr": "L'expérience du divin", "en": "The experience of the divine" },
-      "explicitation": { "fr": "Croire en Dieu, est-ce le conclure d'arguments, ou s'en remettre à une expérience intérieure tenue pour une rencontre directe, qui se passerait de preuve ?", "en": "Is believing in God a matter of inferring it from arguments, or of relying on an inner experience held to be a direct encounter, one that would need no proof?" }
+      "doorways": [
+        {
+          "axis": "FAITH_REASON"
+        }
+      ],
+      "title": {
+        "fr": "L'expérience du divin",
+        "en": "The experience of the divine"
+      },
+      "explicitation": {
+        "fr": "Croire en Dieu, est-ce le conclure d'arguments, ou s'en remettre à une expérience intérieure tenue pour une rencontre directe, qui se passerait de preuve ?",
+        "en": "Is believing in God a matter of inferring it from arguments, or of relying on an inner experience held to be a direct encounter, one that would need no proof?"
+      }
     },
     {
       "id": "the-ineffable",
       "resolution": "LATENT",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "Dieu", "en": "God" },
+      "objectLabel": {
+        "fr": "Dieu",
+        "en": "God"
+      },
       "mode": "DESCRIPTIVE",
       "relation": "RELATED",
       "keywords": [
-        { "fr": "ineffable", "en": "the ineffable" },
-        { "fr": "théologie négative", "en": "negative theology" },
-        { "fr": "apophatisme", "en": "apophaticism" }
+        {
+          "fr": "ineffable",
+          "en": "the ineffable"
+        },
+        {
+          "fr": "théologie négative",
+          "en": "negative theology"
+        },
+        {
+          "fr": "apophatisme",
+          "en": "apophaticism"
+        }
       ],
       "anchors": [
-        { "name": { "fr": "Pseudo-Denys", "en": "Pseudo-Dionysius" }, "kind": "PHILOSOPHER" },
-        { "name": { "fr": "Maïmonide", "en": "Maimonides" }, "kind": "PHILOSOPHER", "slug": "maimonides" }
+        {
+          "name": {
+            "fr": "Pseudo-Denys",
+            "en": "Pseudo-Dionysius"
+          },
+          "kind": "PHILOSOPHER"
+        },
+        {
+          "name": {
+            "fr": "Maïmonide",
+            "en": "Maimonides"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "maimonides"
+        }
       ],
-      "doorways": [{ "axis": "TRANSCENDENCE" }],
-      "title": { "fr": "Un Dieu au-delà des mots", "en": "A God beyond words" },
-      "explicitation": { "fr": "Si Dieu excède tout concept, peut-on seulement affirmer ou nier son existence, ou la question suppose-t-elle à tort qu'il est un objet parmi d'autres ?", "en": "If God exceeds every concept, can one even affirm or deny his existence, or does the question wrongly assume he is one object among others?" }
+      "doorways": [
+        {
+          "axis": "TRANSCENDENCE"
+        }
+      ],
+      "title": {
+        "fr": "Un Dieu au-delà des mots",
+        "en": "A God beyond words"
+      },
+      "explicitation": {
+        "fr": "Si Dieu excède tout concept, peut-on seulement affirmer ou nier son existence, ou la question suppose-t-elle à tort qu'il est un objet parmi d'autres ?",
+        "en": "If God exceeds every concept, can one even affirm or deny his existence, or does the question wrongly assume he is one object among others?"
+      }
     },
     {
       "id": "contingency-cosmological",
       "resolution": "LATENT",
       "object": "RELATION",
-      "objectLabel": { "fr": "le monde", "en": "the world" },
+      "objectLabel": {
+        "fr": "le monde",
+        "en": "the world"
+      },
       "mode": "DESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "argument cosmologique", "en": "cosmological argument" },
-        { "fr": "raison suffisante", "en": "sufficient reason" },
-        { "fr": "néant", "en": "nothingness" },
-        { "fr": "création", "en": "creation" }
+        {
+          "fr": "argument cosmologique",
+          "en": "cosmological argument"
+        },
+        {
+          "fr": "raison suffisante",
+          "en": "sufficient reason"
+        },
+        {
+          "fr": "néant",
+          "en": "nothingness"
+        },
+        {
+          "fr": "création",
+          "en": "creation"
+        }
       ],
-      "poles": ["THEISM", "ATHEISM"],
+      "poles": [
+        "THEISM",
+        "ATHEISM"
+      ],
       "anchors": [
-        { "name": { "fr": "Leibniz", "en": "Leibniz" }, "kind": "PHILOSOPHER", "slug": "leibniz" },
-        { "name": { "fr": "Thomas d'Aquin", "en": "Aquinas" }, "kind": "PHILOSOPHER", "slug": "aquinas" },
-        { "name": { "fr": "Russell", "en": "Russell" }, "kind": "PHILOSOPHER", "slug": "russell" }
+        {
+          "name": {
+            "fr": "Leibniz",
+            "en": "Leibniz"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "leibniz"
+        },
+        {
+          "name": {
+            "fr": "Thomas d'Aquin",
+            "en": "Aquinas"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "aquinas"
+        },
+        {
+          "name": {
+            "fr": "Russell",
+            "en": "Russell"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "russell"
+        }
       ],
-      "title": { "fr": "Pourquoi y a-t-il quelque chose plutôt que rien ?", "en": "Why is there something rather than nothing?" },
-      "explicitation": { "fr": "Le monde existe sans avoir à exister : faut-il, pour rendre raison de cette contingence, un être nécessaire qui ne dépende de rien, ou le monde est-il simplement là, fait brut sans explication ?", "en": "The world exists without having to exist: does accounting for this contingency require a necessary being that depends on nothing, or is the world simply there, a brute fact with no explanation?" }
+      "title": {
+        "fr": "Pourquoi y a-t-il quelque chose plutôt que rien ?",
+        "en": "Why is there something rather than nothing?"
+      },
+      "explicitation": {
+        "fr": "Le monde existe sans avoir à exister : faut-il, pour rendre raison de cette contingence, un être nécessaire qui ne dépende de rien, ou le monde est-il simplement là, fait brut sans explication ?",
+        "en": "The world exists without having to exist: does accounting for this contingency require a necessary being that depends on nothing, or is the world simply there, a brute fact with no explanation?"
+      }
     },
     {
       "id": "first-cause-or-regress",
       "resolution": "LATENT",
       "object": "RELATION",
-      "objectLabel": { "fr": "la série des causes", "en": "the series of causes" },
+      "objectLabel": {
+        "fr": "la série des causes",
+        "en": "the series of causes"
+      },
       "mode": "DESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "moteur immobile", "en": "unmoved mover" },
-        { "fr": "cause de soi", "en": "self-caused" },
-        { "fr": "fondement ultime", "en": "ultimate ground" },
-        { "fr": "commencement", "en": "first beginning" }
+        {
+          "fr": "moteur immobile",
+          "en": "unmoved mover"
+        },
+        {
+          "fr": "cause de soi",
+          "en": "self-caused"
+        },
+        {
+          "fr": "fondement ultime",
+          "en": "ultimate ground"
+        },
+        {
+          "fr": "commencement",
+          "en": "first beginning"
+        }
       ],
-      "poles": ["THEISM", "ATHEISM"],
+      "poles": [
+        "THEISM",
+        "ATHEISM"
+      ],
       "anchors": [
-        { "name": { "fr": "Thomas d'Aquin", "en": "Aquinas" }, "kind": "PHILOSOPHER", "slug": "aquinas" },
-        { "name": { "fr": "Hume", "en": "Hume" }, "kind": "PHILOSOPHER", "slug": "hume" },
-        { "name": { "fr": "Russell", "en": "Russell" }, "kind": "PHILOSOPHER", "slug": "russell" }
+        {
+          "name": {
+            "fr": "Thomas d'Aquin",
+            "en": "Aquinas"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "aquinas"
+        },
+        {
+          "name": {
+            "fr": "Hume",
+            "en": "Hume"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "hume"
+        },
+        {
+          "name": {
+            "fr": "Russell",
+            "en": "Russell"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "russell"
+        }
       ],
-      "title": { "fr": "Une première cause, ou une régression sans fin ?", "en": "A first cause, or an endless regress?" },
-      "explicitation": { "fr": "La série des causes doit-elle avoir un premier terme qui ne dépend de rien, et pourquoi ce terme échapperait-il à la question qu'on pose à tout le reste ?", "en": "Must the series of causes have a first term that depends on nothing, and why would that term escape the question we put to everything else?" }
+      "title": {
+        "fr": "Une première cause, ou une régression sans fin ?",
+        "en": "A first cause, or an endless regress?"
+      },
+      "explicitation": {
+        "fr": "La série des causes doit-elle avoir un premier terme qui ne dépend de rien, et pourquoi ce terme échapperait-il à la question qu'on pose à tout le reste ?",
+        "en": "Must the series of causes have a first term that depends on nothing, and why would that term escape the question we put to everything else?"
+      }
     },
     {
       "id": "god-of-the-philosophers",
       "resolution": "LATENT",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "Dieu", "en": "God" },
+      "objectLabel": {
+        "fr": "Dieu",
+        "en": "God"
+      },
       "mode": "DESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "Dieu personnel", "en": "personal God" },
-        { "fr": "premier moteur", "en": "prime mover" },
-        { "fr": "panthéisme", "en": "pantheism" },
-        { "fr": "Mémorial", "en": "the Memorial" }
+        {
+          "fr": "Dieu personnel",
+          "en": "personal God"
+        },
+        {
+          "fr": "premier moteur",
+          "en": "prime mover"
+        },
+        {
+          "fr": "panthéisme",
+          "en": "pantheism"
+        },
+        {
+          "fr": "Mémorial",
+          "en": "the Memorial"
+        }
       ],
-      "poles": ["THEISM"],
+      "poles": [
+        "THEISM"
+      ],
       "anchors": [
-        { "name": { "fr": "Pascal", "en": "Pascal" }, "kind": "PHILOSOPHER", "slug": "pascal" },
-        { "name": { "fr": "Spinoza", "en": "Spinoza" }, "kind": "PHILOSOPHER", "slug": "spinoza" },
-        { "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" }
+        {
+          "name": {
+            "fr": "Pascal",
+            "en": "Pascal"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "pascal"
+        },
+        {
+          "name": {
+            "fr": "Spinoza",
+            "en": "Spinoza"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "spinoza"
+        },
+        {
+          "name": {
+            "fr": "Aristote",
+            "en": "Aristotle"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "aristotle"
+        }
       ],
-      "title": { "fr": "Le Dieu des philosophes", "en": "The God of the philosophers" },
+      "title": {
+        "fr": "Le Dieu des philosophes",
+        "en": "The God of the philosophers"
+      },
       "explicitation": {
         "fr": "« Dieu d'Abraham, Dieu d'Isaac, Dieu de Jacob, non des philosophes et des savants » : le Dieu dont la raison démontre l'existence, premier moteur, fondement ou substance, est-il encore celui que l'on prie, ou la preuve n'atteint-elle jamais qu'un principe impersonnel ?",
         "en": "\"God of Abraham, God of Isaac, God of Jacob, not of the philosophers and the learned\": is the God whose existence reason demonstrates, prime mover, ground or substance, still the one people pray to, or does proof only ever reach an impersonal principle?"
@@ -250,189 +520,552 @@
       "id": "miracles-and-testimony",
       "resolution": "LATENT",
       "object": "RELATION",
-      "objectLabel": { "fr": "un miracle", "en": "a miracle" },
+      "objectLabel": {
+        "fr": "un miracle",
+        "en": "a miracle"
+      },
       "mode": "DESCRIPTIVE",
       "relation": "RELATED",
       "keywords": [
-        { "fr": "révélation", "en": "revelation" },
-        { "fr": "lois de la nature", "en": "laws of nature" },
-        { "fr": "surnaturel", "en": "the supernatural" },
-        { "fr": "crédibilité", "en": "credibility" }
+        {
+          "fr": "révélation",
+          "en": "revelation"
+        },
+        {
+          "fr": "lois de la nature",
+          "en": "laws of nature"
+        },
+        {
+          "fr": "surnaturel",
+          "en": "the supernatural"
+        },
+        {
+          "fr": "crédibilité",
+          "en": "credibility"
+        }
       ],
-      "poles": ["THEISM"],
-      "anchors": [{ "name": { "fr": "Hume", "en": "Hume" }, "kind": "PHILOSOPHER", "slug": "hume" }],
-      "doorways": [{ "axis": "FAITH_REASON" }],
-      "title": { "fr": "Croire un miracle", "en": "Believing a miracle" },
-      "explicitation": { "fr": "Un témoignage peut-il rendre croyable un événement qui contredit le cours régulier de la nature, ou est-il toujours plus probable que le témoin se trompe ?", "en": "Can testimony make believable an event that contradicts the regular course of nature, or is it always more likely that the witness is mistaken?" }
+      "poles": [
+        "THEISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Hume",
+            "en": "Hume"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "hume"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "FAITH_REASON"
+        }
+      ],
+      "title": {
+        "fr": "Croire un miracle",
+        "en": "Believing a miracle"
+      },
+      "explicitation": {
+        "fr": "Un témoignage peut-il rendre croyable un événement qui contredit le cours régulier de la nature, ou est-il toujours plus probable que le témoin se trompe ?",
+        "en": "Can testimony make believable an event that contradicts the regular course of nature, or is it always more likely that the witness is mistaken?"
+      }
     },
     {
       "id": "design-and-order",
       "resolution": "SURFACED",
       "object": "STRUCTURE",
-      "objectLabel": { "fr": "l'ordre du monde", "en": "the order of the world" },
+      "objectLabel": {
+        "fr": "l'ordre du monde",
+        "en": "the order of the world"
+      },
       "mode": "DESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "dessein", "en": "design" },
-        { "fr": "horloger", "en": "watchmaker" },
-        { "fr": "finalité", "en": "teleology" },
-        { "fr": "multivers", "en": "multiverse" }
+        {
+          "fr": "dessein",
+          "en": "design"
+        },
+        {
+          "fr": "horloger",
+          "en": "watchmaker"
+        },
+        {
+          "fr": "finalité",
+          "en": "teleology"
+        },
+        {
+          "fr": "multivers",
+          "en": "multiverse"
+        }
       ],
-      "poles": ["THEISM", "ATHEISM"],
+      "poles": [
+        "THEISM",
+        "ATHEISM"
+      ],
       "anchors": [
-        { "name": { "fr": "Paley", "en": "Paley" }, "kind": "PHILOSOPHER" },
-        { "name": { "fr": "Darwin", "en": "Darwin" }, "kind": "PHILOSOPHER" },
-        { "name": { "fr": "Dawkins", "en": "Dawkins" }, "kind": "PHILOSOPHER" }
+        {
+          "name": {
+            "fr": "Paley",
+            "en": "Paley"
+          },
+          "kind": "PHILOSOPHER"
+        },
+        {
+          "name": {
+            "fr": "Darwin",
+            "en": "Darwin"
+          },
+          "kind": "PHILOSOPHER"
+        },
+        {
+          "name": {
+            "fr": "Dawkins",
+            "en": "Dawkins"
+          },
+          "kind": "PHILOSOPHER"
+        }
       ],
-      "doorways": [{ "axis": "COSMIC_OUTLOOK" }, { "axis": "REDUCTION_EMERGENCE" }],
-      "title": { "fr": "L'ordre du monde a-t-il un auteur ?", "en": "Does the world's order have an author?" },
-      "explicitation": { "fr": "L'ordre, la complexité et le réglage si précis du monde réclament-ils un auteur, ou peuvent-ils naître de processus aveugles comme la sélection naturelle ?", "en": "Do the order, complexity, and fine tuning of the world call for an author, or can they arise from blind processes such as natural selection?" },
-      "ref": { "kind": "THOUGHT_EXPERIMENT", "id": "design-argument" }
+      "doorways": [
+        {
+          "axis": "COSMIC_OUTLOOK"
+        },
+        {
+          "axis": "REDUCTION_EMERGENCE"
+        }
+      ],
+      "title": {
+        "fr": "L'ordre du monde a-t-il un auteur ?",
+        "en": "Does the world's order have an author?"
+      },
+      "explicitation": {
+        "fr": "L'ordre, la complexité et le réglage si précis du monde réclament-ils un auteur, ou peuvent-ils naître de processus aveugles comme la sélection naturelle ?",
+        "en": "Do the order, complexity, and fine tuning of the world call for an author, or can they arise from blind processes such as natural selection?"
+      },
+      "ref": {
+        "kind": "THOUGHT_EXPERIMENT",
+        "id": "design-argument"
+      }
     },
     {
       "id": "problem-of-evil",
       "resolution": "LATENT",
       "object": "STRUCTURE",
-      "objectLabel": { "fr": "le mal dans le monde", "en": "evil in the world" },
+      "objectLabel": {
+        "fr": "le mal dans le monde",
+        "en": "evil in the world"
+      },
       "mode": "DESCRIPTIVE",
       "relation": "RELATED",
       "keywords": [
-        { "fr": "omnipotence", "en": "omnipotence" },
-        { "fr": "providence", "en": "providence" },
-        { "fr": "athéisme", "en": "atheism" },
-        { "fr": "Plantinga", "en": "Plantinga" }
+        {
+          "fr": "omnipotence",
+          "en": "omnipotence"
+        },
+        {
+          "fr": "providence",
+          "en": "providence"
+        },
+        {
+          "fr": "athéisme",
+          "en": "atheism"
+        },
+        {
+          "fr": "Plantinga",
+          "en": "Plantinga"
+        }
       ],
-      "poles": ["THEISM", "ATHEISM"],
+      "poles": [
+        "THEISM",
+        "ATHEISM"
+      ],
       "anchors": [
-        { "name": { "fr": "Épicure", "en": "Epicurus" }, "kind": "PHILOSOPHER", "slug": "epicurus" },
-        { "name": { "fr": "Leibniz", "en": "Leibniz" }, "kind": "PHILOSOPHER", "slug": "leibniz" }
+        {
+          "name": {
+            "fr": "Épicure",
+            "en": "Epicurus"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "epicurus"
+        },
+        {
+          "name": {
+            "fr": "Leibniz",
+            "en": "Leibniz"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "leibniz"
+        }
       ],
-      "doorways": [{ "axis": "PROBLEM_OF_EVIL", "problem": "epicurus-riddle" }],
-      "title": { "fr": "Le mal contre Dieu", "en": "Evil against God" },
-      "explicitation": { "fr": "Un Dieu à la fois tout-puissant et bon laisserait-il souffrir l'innocent, ou le mal du monde est-il compatible avec son existence ?", "en": "Would a God both all-powerful and good let the innocent suffer, or is the evil of the world compatible with his existence?" }
+      "doorways": [
+        {
+          "axis": "PROBLEM_OF_EVIL",
+          "problem": "epicurus-riddle"
+        }
+      ],
+      "title": {
+        "fr": "Le mal contre Dieu",
+        "en": "Evil against God"
+      },
+      "explicitation": {
+        "fr": "Un Dieu à la fois tout-puissant et bon laisserait-il souffrir l'innocent, ou le mal du monde est-il compatible avec son existence ?",
+        "en": "Would a God both all-powerful and good let the innocent suffer, or is the evil of the world compatible with his existence?"
+      }
     },
     {
       "id": "hiddenness-of-god",
       "resolution": "LATENT",
       "object": "RELATION",
-      "objectLabel": { "fr": "Dieu et ceux qui le cherchent", "en": "God and those who seek him" },
+      "objectLabel": {
+        "fr": "Dieu et ceux qui le cherchent",
+        "en": "God and those who seek him"
+      },
       "mode": "DESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "Dieu caché", "en": "hidden God" },
-        { "fr": "incroyance sincère", "en": "nonresistant nonbelief" },
-        { "fr": "déréliction", "en": "divine abandonment" },
-        { "fr": "Schellenberg", "en": "Schellenberg" }
+        {
+          "fr": "Dieu caché",
+          "en": "hidden God"
+        },
+        {
+          "fr": "incroyance sincère",
+          "en": "nonresistant nonbelief"
+        },
+        {
+          "fr": "déréliction",
+          "en": "divine abandonment"
+        },
+        {
+          "fr": "Schellenberg",
+          "en": "Schellenberg"
+        }
       ],
-      "poles": ["THEISM", "ATHEISM"],
+      "poles": [
+        "THEISM",
+        "ATHEISM"
+      ],
       "anchors": [
-        { "name": { "fr": "Pascal", "en": "Pascal" }, "kind": "PHILOSOPHER", "slug": "pascal" },
-        { "name": { "fr": "Schellenberg", "en": "Schellenberg" }, "kind": "PHILOSOPHER" }
+        {
+          "name": {
+            "fr": "Pascal",
+            "en": "Pascal"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "pascal"
+        },
+        {
+          "name": {
+            "fr": "Schellenberg",
+            "en": "Schellenberg"
+          },
+          "kind": "PHILOSOPHER"
+        }
       ],
-      "title": { "fr": "Le silence de Dieu", "en": "God's silence" },
-      "explicitation": { "fr": "Si Dieu existait et nous aimait, se laisserait-il chercher en vain par ceux qui le cherchent sincèrement, ou son silence est-il un signe de plus contre son existence ?", "en": "If God existed and loved us, would he let those who sincerely seek him search in vain, or is his silence one more sign against his existence?" }
+      "title": {
+        "fr": "Le silence de Dieu",
+        "en": "God's silence"
+      },
+      "explicitation": {
+        "fr": "Si Dieu existait et nous aimait, se laisserait-il chercher en vain par ceux qui le cherchent sincèrement, ou son silence est-il un signe de plus contre son existence ?",
+        "en": "If God existed and loved us, would he let those who sincerely seek him search in vain, or is his silence one more sign against his existence?"
+      }
     },
     {
       "id": "the-wager",
       "resolution": "SURFACED",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "croire", "en": "to believe" },
+      "objectLabel": {
+        "fr": "croire",
+        "en": "to believe"
+      },
       "mode": "PRACTICAL",
       "relation": "RELATED",
       "keywords": [
-        { "fr": "raison prudentielle", "en": "prudential reason" },
-        { "fr": "espérance mathématique", "en": "expected value" },
-        { "fr": "volontarisme doxastique", "en": "doxastic voluntarism" },
-        { "fr": "incertitude", "en": "uncertainty" }
+        {
+          "fr": "raison prudentielle",
+          "en": "prudential reason"
+        },
+        {
+          "fr": "espérance mathématique",
+          "en": "expected value"
+        },
+        {
+          "fr": "volontarisme doxastique",
+          "en": "doxastic voluntarism"
+        },
+        {
+          "fr": "incertitude",
+          "en": "uncertainty"
+        }
       ],
-      "anchors": [{ "name": { "fr": "Pascal", "en": "Pascal" }, "kind": "PHILOSOPHER", "slug": "pascal" }],
-      "doorways": [{ "axis": "BELIEF_ETHICS" }],
-      "title": { "fr": "Le pari de la croyance", "en": "The wager of belief" },
-      "explicitation": { "fr": "Même sans preuve, n'a-t-on pas intérêt à croire, puisqu'on aurait tout à gagner si Dieu existe et peu à perdre sinon ? Mais peut-on décider de croire par calcul ?", "en": "Even without proof, is it not in our interest to believe, since we would have everything to gain if God exists and little to lose otherwise? But can one decide to believe by calculation?" },
-      "ref": { "kind": "THOUGHT_EXPERIMENT", "id": "pascal-wager" }
+      "anchors": [
+        {
+          "name": {
+            "fr": "Pascal",
+            "en": "Pascal"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "pascal"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "BELIEF_ETHICS"
+        }
+      ],
+      "title": {
+        "fr": "Le pari de la croyance",
+        "en": "The wager of belief"
+      },
+      "explicitation": {
+        "fr": "Même sans preuve, n'a-t-on pas intérêt à croire, puisqu'on aurait tout à gagner si Dieu existe et peu à perdre sinon ? Mais peut-on décider de croire par calcul ?",
+        "en": "Even without proof, is it not in our interest to believe, since we would have everything to gain if God exists and little to lose otherwise? But can one decide to believe by calculation?"
+      },
+      "ref": {
+        "kind": "THOUGHT_EXPERIMENT",
+        "id": "pascal-wager"
+      }
     },
     {
       "id": "projection-and-suspicion",
       "resolution": "LATENT",
       "object": "RELATION",
-      "objectLabel": { "fr": "la croyance en Dieu", "en": "belief in God" },
+      "objectLabel": {
+        "fr": "la croyance en Dieu",
+        "en": "belief in God"
+      },
       "mode": "DESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "illusion", "en": "illusion" },
-        { "fr": "aliénation", "en": "alienation" },
-        { "fr": "soupçon", "en": "suspicion" },
-        { "fr": "sophisme génétique", "en": "genetic fallacy" }
+        {
+          "fr": "illusion",
+          "en": "illusion"
+        },
+        {
+          "fr": "aliénation",
+          "en": "alienation"
+        },
+        {
+          "fr": "soupçon",
+          "en": "suspicion"
+        },
+        {
+          "fr": "sophisme génétique",
+          "en": "genetic fallacy"
+        }
       ],
-      "poles": ["ATHEISM"],
+      "poles": [
+        "ATHEISM"
+      ],
       "anchors": [
-        { "name": { "fr": "Feuerbach", "en": "Feuerbach" }, "kind": "PHILOSOPHER" },
-        { "name": { "fr": "Freud", "en": "Freud" }, "kind": "PHILOSOPHER", "slug": "freud" },
-        { "name": { "fr": "Marx", "en": "Marx" }, "kind": "PHILOSOPHER", "slug": "marx" },
-        { "name": { "fr": "Durkheim", "en": "Durkheim" }, "kind": "PHILOSOPHER" }
+        {
+          "name": {
+            "fr": "Feuerbach",
+            "en": "Feuerbach"
+          },
+          "kind": "PHILOSOPHER"
+        },
+        {
+          "name": {
+            "fr": "Freud",
+            "en": "Freud"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "freud"
+        },
+        {
+          "name": {
+            "fr": "Marx",
+            "en": "Marx"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "marx"
+        },
+        {
+          "name": {
+            "fr": "Durkheim",
+            "en": "Durkheim"
+          },
+          "kind": "PHILOSOPHER"
+        }
       ],
-      "title": { "fr": "Dieu, projection de l'homme ?", "en": "God, a projection of man?" },
-      "explicitation": { "fr": "Si la croyance en Dieu s'explique par des besoins humains, peur, désir, ordre social, faut-il en conclure qu'il n'existe pas, ou expliquer pourquoi l'on croit ne dit-il rien de la vérité de la croyance ?", "en": "If belief in God can be explained by human needs, fear, desire, social order, must we conclude that he does not exist, or does explaining why we believe say nothing about whether the belief is true?" }
+      "title": {
+        "fr": "Dieu, projection de l'homme ?",
+        "en": "God, a projection of man?"
+      },
+      "explicitation": {
+        "fr": "Si la croyance en Dieu s'explique par des besoins humains, peur, désir, ordre social, faut-il en conclure qu'il n'existe pas, ou expliquer pourquoi l'on croit ne dit-il rien de la vérité de la croyance ?",
+        "en": "If belief in God can be explained by human needs, fear, desire, social order, must we conclude that he does not exist, or does explaining why we believe say nothing about whether the belief is true?"
+      }
     },
     {
       "id": "evidence-or-faith",
       "resolution": "LATENT",
       "object": "RELATION",
-      "objectLabel": { "fr": "croire", "en": "to believe" },
+      "objectLabel": {
+        "fr": "croire",
+        "en": "to believe"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "RELATED",
       "keywords": [
-        { "fr": "évidentialisme", "en": "evidentialism" },
-        { "fr": "fidéisme", "en": "fideism" },
-        { "fr": "éthique de la croyance", "en": "ethics of belief" },
-        { "fr": "théière de Russell", "en": "Russell's teapot" }
+        {
+          "fr": "évidentialisme",
+          "en": "evidentialism"
+        },
+        {
+          "fr": "fidéisme",
+          "en": "fideism"
+        },
+        {
+          "fr": "éthique de la croyance",
+          "en": "ethics of belief"
+        },
+        {
+          "fr": "théière de Russell",
+          "en": "Russell's teapot"
+        }
       ],
       "sphere": "EPISTEMIC",
-      "poles": ["ATHEISM", "THEISM"],
-      "anchors": [
-        { "name": { "fr": "Clifford", "en": "Clifford" }, "kind": "PHILOSOPHER", "slug": "clifford" },
-        { "name": { "fr": "Flew", "en": "Flew" }, "kind": "PHILOSOPHER" },
-        { "name": { "fr": "Kierkegaard", "en": "Kierkegaard" }, "kind": "PHILOSOPHER", "slug": "kierkegaard" },
-        { "name": { "fr": "William James", "en": "William James" }, "kind": "PHILOSOPHER", "slug": "william-james" }
+      "poles": [
+        "ATHEISM",
+        "THEISM"
       ],
-      "doorways": [{ "axis": "BELIEF_ETHICS" }, { "axis": "FAITH_REASON" }],
-      "title": { "fr": "Faut-il des preuves pour croire ?", "en": "Does belief require proof?" },
-      "explicitation": { "fr": "N'a-t-on le droit de croire que sur preuves, ou la foi est-elle un pari légitime qui n'a pas à se justifier devant le tribunal des preuves ?", "en": "May one believe only on the strength of proof, or is faith a legitimate venture that need not justify itself before the tribunal of evidence?" }
+      "anchors": [
+        {
+          "name": {
+            "fr": "Clifford",
+            "en": "Clifford"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "clifford"
+        },
+        {
+          "name": {
+            "fr": "Flew",
+            "en": "Flew"
+          },
+          "kind": "PHILOSOPHER"
+        },
+        {
+          "name": {
+            "fr": "Kierkegaard",
+            "en": "Kierkegaard"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "kierkegaard"
+        },
+        {
+          "name": {
+            "fr": "William James",
+            "en": "William James"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "william-james"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "BELIEF_ETHICS"
+        },
+        {
+          "axis": "FAITH_REASON"
+        }
+      ],
+      "title": {
+        "fr": "Faut-il des preuves pour croire ?",
+        "en": "Does belief require proof?"
+      },
+      "explicitation": {
+        "fr": "N'a-t-on le droit de croire que sur preuves, ou la foi est-elle un pari légitime qui n'a pas à se justifier devant le tribunal des preuves ?",
+        "en": "May one believe only on the strength of proof, or is faith a legitimate venture that need not justify itself before the tribunal of evidence?"
+      }
     },
     {
       "id": "meaning-needs-god",
       "resolution": "LATENT",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "une vie", "en": "a life" },
+      "objectLabel": {
+        "fr": "une vie",
+        "en": "a life"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "RELATED",
       "keywords": [
-        { "fr": "nihilisme", "en": "nihilism" },
-        { "fr": "absurde", "en": "the absurd" },
-        { "fr": "vide existentiel", "en": "existential void" }
+        {
+          "fr": "nihilisme",
+          "en": "nihilism"
+        },
+        {
+          "fr": "absurde",
+          "en": "the absurd"
+        },
+        {
+          "fr": "vide existentiel",
+          "en": "existential void"
+        }
       ],
       "sphere": "EXISTENTIAL",
-      "doorways": [{ "axis": "LIFE_MEANING" }],
-      "title": { "fr": "Le sens a-t-il besoin de Dieu ?", "en": "Does meaning need God?" },
-      "explicitation": { "fr": "Sans Dieu, la vie perd-elle tout sens, ou un sens peut-il se construire entièrement à hauteur d'homme ?", "en": "Without God, does life lose all meaning, or can meaning be built entirely on a human scale?" }
+      "doorways": [
+        {
+          "axis": "LIFE_MEANING"
+        }
+      ],
+      "title": {
+        "fr": "Le sens a-t-il besoin de Dieu ?",
+        "en": "Does meaning need God?"
+      },
+      "explicitation": {
+        "fr": "Sans Dieu, la vie perd-elle tout sens, ou un sens peut-il se construire entièrement à hauteur d'homme ?",
+        "en": "Without God, does life lose all meaning, or can meaning be built entirely on a human scale?"
+      }
     },
     {
       "id": "morality-needs-god",
       "resolution": "LATENT",
       "object": "STRUCTURE",
-      "objectLabel": { "fr": "la morale", "en": "morality" },
+      "objectLabel": {
+        "fr": "la morale",
+        "en": "morality"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "RELATED",
       "keywords": [
-        { "fr": "Euthyphron", "en": "Euthyphro" },
-        { "fr": "théonomie", "en": "divine command theory" },
-        { "fr": "sécularisme", "en": "secular ethics" },
-        { "fr": "relativisme", "en": "relativism" }
+        {
+          "fr": "Euthyphron",
+          "en": "Euthyphro"
+        },
+        {
+          "fr": "théonomie",
+          "en": "divine command theory"
+        },
+        {
+          "fr": "sécularisme",
+          "en": "secular ethics"
+        },
+        {
+          "fr": "relativisme",
+          "en": "relativism"
+        }
       ],
       "sphere": "MORAL",
-      "doorways": [{ "axis": "ETHICS_FOUNDATION" }],
-      "title": { "fr": "La morale a-t-elle besoin de Dieu ?", "en": "Does morality need God?" },
-      "explicitation": { "fr": "Le bien tient-il sa valeur de la volonté de Dieu, ou est-il bon indépendamment de lui ? Si Dieu n'existait pas, tout serait-il permis ?", "en": "Does the good owe its value to God's will, or is it good independently of him? If God did not exist, would everything be permitted?" }
+      "doorways": [
+        {
+          "axis": "ETHICS_FOUNDATION"
+        },
+        {
+          "axis": "MORAL_SOURCE",
+          "problem": "everything-permitted"
+        }
+      ],
+      "title": {
+        "fr": "La morale a-t-elle besoin de Dieu ?",
+        "en": "Does morality need God?"
+      },
+      "explicitation": {
+        "fr": "Le bien tient-il sa valeur de la volonté de Dieu, ou est-il bon indépendamment de lui ? Si Dieu n'existait pas, tout serait-il permis ?",
+        "en": "Does the good owe its value to God's will, or is it good independently of him? If God did not exist, would everything be permitted?"
+      }
     }
   ]
 }

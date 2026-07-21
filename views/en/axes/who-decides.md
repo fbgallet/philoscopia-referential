@@ -28,7 +28,7 @@ Governing requires knowledge, like steering a ship or treating the sick. Entrust
 
 ## Related axes
 
-[Political liberty](../axes/political-liberty.md) · [Relation to authority](../axes/authority.md) · [Distributive justice](../axes/distributive-justice.md)
+[Political liberty](../axes/political-liberty.md) · [Relation to authority](../axes/authority.md) · [Distributive justice](../axes/distributive-justice.md) · [The value of truth](../axes/truth-value.md) · [Law and conscience](../axes/political-obligation.md)
 
 ---
 

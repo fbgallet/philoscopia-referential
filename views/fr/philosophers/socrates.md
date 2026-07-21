@@ -52,7 +52,7 @@ Lors de son procès, Socrate refuse d'abandonner la philosophie même pour sauve
 
 *positionné · explicite dans les textes · majeure*
 
-Intellectualisme 95% · Sentimentalisme 5%
+Primauté de la raison 95% · Le primat du sentiment 5%
 
 Si la vertu est un savoir, la mauvaise action ne peut venir que d'un défaut de savoir : nul ne se porte volontairement vers ce qu'il tient pour un mal. Socrate nie ainsi la possibilité de l'[acrasie](../glossary/akrasia.md), la faiblesse de la volonté : ce qu'on prend pour une passion l'emportant sur la raison n'est qu'une erreur de mesure entre les biens. Contre l'idée que le désir ou la colère nous gouvernent, il fait de la connaissance la cause suffisante de l'action droite.
 
@@ -148,7 +148,7 @@ Devant ses juges, Socrate se déclare serein : on peut le tuer ou le bannir, on 
 
 *positionné · inférable · mineure*
 
-La mort n'est rien 50% · Immortalisme 50%
+Se libérer de la crainte 50% · Se préparer au passage 50%
 
 Craindre la mort, dit Socrate, c'est se croire savant sans l'être, car nul ne sait si elle est un mal. De deux choses l'une : ou bien elle est un sommeil sans rêve, et c'est un gain, ou bien elle est un voyage de l'âme vers les morts, et c'est un bonheur ; dans les deux cas l'homme de bien n'a rien à redouter. La démonstration de l'immortalité viendra de Platon ; chez Socrate, la position reste suspendue entre ces deux espérances.
 
@@ -245,6 +245,18 @@ Finalisme 70% · Mécanisme 20% · Vitalisme 10%
 Déçu par les physiciens qui expliquent tout par des causes matérielles, Socrate raconte avoir espéré d'Anaxagore que l'Intelligence ordonnât le monde selon le meilleur, puis l'avoir trouvé n'invoquant que des mécanismes. Ce qu'il réclame, c'est l'explication par le bien, la fin en vue de laquelle il vaut mieux que les choses soient ainsi : un finalisme qui détourne la philosophie de la nature vers la valeur.
 
 *Sources : Platon, Phédon, 97b-99d (la déception devant Anaxagore)*
+
+### [Valeur de la vérité](../axes/truth-value.md)
+
+*positionné · explicite dans les textes · majeure*
+
+Primauté de la vérité 95% · Illusions vitales 5%
+
+Devant ses juges, Socrate préfère la mort à l'abandon de l'examen : philosopher est pour lui un poste assigné qu'on ne déserte pas, et la pire misère n'est pas de souffrir mais de vivre dans l'ignorance satisfaite de ce qu'on croit savoir. Le soin de l'âme passe par la mise à l'épreuve de toute opinion, la sienne d'abord.
+
+> « Une vie sans examen ne vaut pas la peine d'être vécue. », Platon, Apologie de Socrate, 38a
+
+*Sources : Apologie de Socrate (Platon)*
 
 ## Influence sur
 

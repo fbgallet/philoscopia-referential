@@ -186,7 +186,7 @@ A primitivist distrust runs through Taoism: contrivances and machines breed the 
 
 *positioned · inferable · minor*
 
-Intellectualism 70% · Sentimentalism 30%
+The primacy of reason 70% · The primacy of feeling 30%
 
 Zhuangzi cultivates an equanimity that is not the refusal of feeling but the refusal of being enslaved to it: understanding that all is ceaseless transformation calms disturbance. The sage lets neither gain nor loss, neither joy nor grief disturb his inner peace; he welcomes events as the natural course of things, without clinging to them.
 
@@ -196,7 +196,7 @@ Zhuangzi cultivates an equanimity that is not the refusal of feeling but the ref
 
 *positioned · explicit in the texts · minor*
 
-Death is nothing 55% · Immortalism 35% · Being-toward-death 10%
+Freeing ourselves from the fear 55% · Preparing for the passage 35% · Living in view of one's death 10%
 
 The three poles of this axis fit the Taoist view poorly: death is neither a nothingness to be tamed nor the promise of an immortal soul, but simply a moment of universal transformation, like the turning of the seasons. At his wife's death, Zhuangzi stops weeping and sings while drumming on a basin, understanding that she now sleeps in the great chamber of the cosmos. The fear of death dissolves into consent to change.
 
@@ -222,7 +222,7 @@ The Taoist path goes through an inner work of emptiness: the fasting of the hear
 
 *Sources : Zhuangzi, ch. 4 (In the World of Men) · Zhuangzi, ch. 6 (The Great and Venerable Teacher)*
 
-### [Nature of mind and reality](../axes/reality-nature.md)
+### [Nature of reality](../axes/reality-nature.md)
 
 *positioned · inferable · minor*
 

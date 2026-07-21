@@ -8,7 +8,7 @@ Mathématicien, physicien et philosophe français, formé chez les jésuites de 
 
 ## Positions structurantes
 
-1. [Nature de la conscience](../axes/consciousness-nature.md) : **L'esprit et le corps sont deux substances réellement distinctes : je puis concevoir la chose pensante sans rien de corporel, donc mon essence est de penser, non d'être étendu.**
+1. [L'énigme de la conscience](../axes/consciousness-nature.md) : **L'esprit et le corps sont deux substances réellement distinctes : je puis concevoir la chose pensante sans rien de corporel, donc mon essence est de penser, non d'être étendu.**
 2. [Rapport à la certitude](../axes/certainty.md) : **Je puis douter de tout, sauf que je doute : « je pense, donc je suis » résiste au [doute le plus radical](../glossary/hyperbolic-doubt.md) et devient le sol indubitable de tout le savoir.**
 3. [Source de la connaissance](../axes/knowledge-source.md) : **Les sens trompent : seule la raison, par l'intuition de natures simples et la déduction, atteint le vrai, à partir d'[idées innées](../glossary/innate-ideas.md) que l'expérience n'a pas mises en nous.**
 4. [Existence de Dieu](../axes/god-existence.md) : **Un Dieu parfait existe et ne saurait me tromper : sa véracité seule garantit que mes idées claires et distinctes sont vraies, et lève ainsi le doute.**
@@ -40,7 +40,7 @@ Descartes croit en un Dieu provident et en l'immortalité de l'âme, qui inscriv
 
 *positionné · explicite dans les textes · mineure*
 
-Immortalisme 90% · La mort n'est rien 5% · Être-pour-la-mort 5%
+Se préparer au passage 90% · Se libérer de la crainte 5% · Vivre en vue de sa mort 5%
 
 Le dualisme cartésien sépare réellement l'âme, substance pensante, du corps, substance étendue : rien dans la nature de l'esprit ne dépend du corps, dont la mort ne saurait donc l'atteindre. Descartes présente comme un but explicite des Méditations de démontrer, contre les libertins, l'immortalité de l'âme. La mort n'est que la défaillance d'une machine, l'âme lui survivant.
 
@@ -90,7 +90,7 @@ Descartes fait de la volonté la faculté infinie de l'âme, ce par quoi nous so
 
 *Sources : Méditations métaphysiques, IV · Les passions de l'âme, art. 41 et 152*
 
-### [Nature de l'esprit et du réel](../axes/reality-nature.md)
+### [Nature du réel](../axes/reality-nature.md)
 
 *positionné · explicite dans les textes · majeure*
 
@@ -166,7 +166,7 @@ Pour Descartes, la science nouvelle a une fin pratique : produire des techniques
 
 *positionné · explicite dans les textes · majeure*
 
-Intellectualisme 80% · Sentimentalisme 20%
+Primauté de la raison 80% · Le primat du sentiment 20%
 
 Dans *[Les passions de l'âme](../works/the-passions-of-the-soul-descartes.md)*, les passions sont des mouvements de l'âme causés par les esprits du corps : elles ne sont ni à supprimer ni à suivre aveuglément, mais à régler par la raison et par une volonté ferme. La maîtrise tient à un usage éclairé du jugement, ce qui penche vers **l'intellectualisme** sans rejeter la valeur des passions bien ordonnées.
 
@@ -186,7 +186,7 @@ Descartes pense un savoir unifié : toutes les sciences ne sont qu'une seule et 
 
 *non applicable*
 
-Descartes tient les animaux pour des machines et conçoit un test du langage pour distinguer l'homme de l'automate, mais son dualisme situe la pensée hors de toute mécanique : appliquer l'axe fonctionnalisme/naturalisme biologique exigerait une extrapolation anachronique trop forte pour être positionnée.
+Descartes tient les animaux pour des machines et conçoit un test du langage pour distinguer l'homme de l'automate, mais son dualisme situe la pensée hors de toute mécanique : appliquer l'axe de la pensée des machines exigerait une extrapolation anachronique trop forte pour être positionnée.
 
 ### [Intériorité](../axes/interiority.md)
 
@@ -300,7 +300,7 @@ Le projet des Méditations métaphysiques est expressément fondationnaliste : a
 
 *Sources : Méditations métaphysiques, I-II*
 
-### [Nature de la conscience](../axes/consciousness-nature.md)
+### [L'énigme de la conscience](../axes/consciousness-nature.md)
 
 *positionné · explicite dans les textes · majeure*
 
@@ -329,6 +329,18 @@ Le moi véritable est la chose pensante ; le corps est une machine, distincte de
 Dans *[Les passions de l'âme](../works/the-passions-of-the-soul-descartes.md)*, l'amour est une passion, une émotion de l'âme causée par les esprits du corps, qui incline la volonté à se joindre aux objets qui paraissent lui convenir. Descartes y distingue deux amours : l'amour de concupiscence, qui désire pour soi ce dont on manque, et l'amour de bienveillance, qui veut le bien de l'aimé. À la passion reçue s'ajoute la [générosité](../glossary/generosity.md), disposition ferme à bien user de son libre arbitre, à estimer autrui et à s'unir à lui, qui règle et ennoblit l'amour au lieu de le subir.
 
 *Sources : Les passions de l'âme, art. 79-83 (l'amour) ; art. 153-156 (la générosité)*
+
+### [Valeur de la vérité](../axes/truth-value.md)
+
+*positionné · explicite dans les textes · mineure*
+
+Primauté de la vérité 75% · Illusions vitales 25%
+
+Le savoir n'est pas chez lui un luxe spéculatif : il veut distinguer le vrai du faux pour voir clair dans ses actions et conduire sa vie avec assurance. La méthode vise à se défaire des préventions et des jugements précipités, parce qu'une vie bien conduite se règle sur des vérités établies plutôt que sur des opinions reçues.
+
+> « J'avais toujours un extrême désir d'apprendre à distinguer le vrai d'avec le faux, pour voir clair en mes actions, et marcher avec assurance en cette vie. », Discours de la méthode, I
+
+*Sources : Discours de la méthode, I (1637)*
 
 ## Influencé par
 

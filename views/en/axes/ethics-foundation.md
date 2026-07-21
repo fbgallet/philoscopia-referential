@@ -84,7 +84,7 @@ Morality is rooted in concrete attentiveness to vulnerable people and in the car
 
 ## Related axes
 
-[Moral circle](../axes/moral-circle.md) · [Moral demandingness](../axes/moral-demand.md) · [Status of norms (metaethics)](../axes/moral-scope.md) · [Partiality](../axes/partiality.md) · [The meaning of punishment](../axes/punishment.md) · [Letter or spirit of the rule](../axes/rule-spirit.md) · [Existence of God](../axes/god-existence.md)
+[Moral circle](../axes/moral-circle.md) · [Moral demandingness](../axes/moral-demand.md) · [Status of norms (metaethics)](../axes/moral-scope.md) · [Partiality](../axes/partiality.md) · [The meaning of punishment](../axes/punishment.md) · [Letter or spirit of the rule](../axes/rule-spirit.md) · [Existence of God](../axes/god-existence.md) · [The source of morality](../axes/moral-source.md) · [Moral responsibility](../axes/moral-responsibility.md)
 
 ---
 

@@ -30,7 +30,7 @@ Phenomenology holds meaning to be constituted, not found ready-made in things: t
 
 *positioned · explicit in the texts · minor*
 
-Being-toward-death 85% · Death is nothing 10% · Immortalism 5%
+Living in view of one's death 85% · Freeing ourselves from the fear 10% · Preparing for the passage 5%
 
 With Heidegger, phenomenology makes death a structure of existence: Dasein is being-toward-death, and it is by resolutely anticipating its ownmost, insuperable and non-shareable end that it tears itself from the idle talk of the "they" and authentically takes hold of itself. Death is not a distant event but what, here and now, individualizes existence and gives it its weight.
 
@@ -92,7 +92,7 @@ The fulcrum is intentionality, taken over from Brentano: all consciousness is co
 
 *positioned · inferable · minor*
 
-Sentimentalism 70% · Intellectualism 30%
+The primacy of feeling 70% · The primacy of reason 30%
 
 Against reducing affects to merely subjective, irrational states, the phenomenological tradition grants them a cognitive reach: moods open a distinctive access to the world. Heidegger makes attunement (Stimmung) a fundamental mode through which Dasein finds itself always already disclosed to its world, anxiety revealing its very being; Sartre analyzes emotion as a meaningful way of apprehending the world, not a mere disturbance. Affect is thus held to be disclosive, without thereby making feeling the foundation of morality.
 

@@ -29,7 +29,7 @@ Le Mahayana de Nagarjuna place au sommet l'idéal du bodhisattva, qui renonce à
 
 *positionné · inférable · mineure*
 
-Immortalisme 40% · La mort n'est rien 30% · Être-pour-la-mort 30%
+Se préparer au passage 40% · Se libérer de la crainte 30% · Vivre en vue de sa mort 30%
 
 Nagarjuna reprend la vue bouddhiste de la mort comme passage dans le cycle des renaissances, mais la lit à la lumière de la vacuité : naissance et mort sont elles-mêmes vides de nature propre. La mort n'est donc ni un terme absolu ni la survie d'une âme, mais une transition conditionnée, une étape parmi d'autres, jusqu'à ce que la sagesse défasse le cycle. Position d'équilibre, sans le pôle du refus.
 
@@ -81,7 +81,7 @@ L'analyse bouddhique classique dissolvait la personne en agrégats (corps, sensa
 
 À la limite, la vacuité de la vacuité (śūnyatā n'est pas non plus une nature propre) interdit de réifier même le faisceau en une thèse ultime : le faisceau vaut au plan conventionnel, non comme dernier mot ontologique.
 
-### [Nature de l'esprit et du réel](../axes/reality-nature.md)
+### [Nature du réel](../axes/reality-nature.md)
 
 *contextualiste*
 
@@ -163,7 +163,7 @@ Tout le projet vise la cessation de la souffrance et des renaissances conditionn
 
 *positionné · inférable · mineure*
 
-Intellectualisme 80% · Sentimentalisme 20%
+Primauté de la raison 80% · Le primat du sentiment 20%
 
 Pour Nāgārjuna, les affects affligeants tiennent à une méprise intellectuelle : croire que les choses ont une [nature propre](../glossary/svabhava.md) et s'y attacher. C'est donc une compréhension juste, la vue de la [vacuité (śūnyatā)](../glossary/sunyata.md), qui défait l'émotion perturbatrice à sa racine. La transformation passe par la connaissance, ce qui rapproche d'un intellectualisme thérapeutique, sans nier le rôle de la pratique méditative.
 
@@ -208,6 +208,16 @@ Téléologie-providence 80% · Sens construit 10% · Absurdisme 10%
 Comme tout le [bouddhisme](../movements/buddhism.md), le Madhyamaka ordonne l'existence à une fin assignable : la libération de la souffrance par la compréhension de la [vacuité (śūnyatā)](../glossary/sunyata.md). Ce terme n'est pas posé par un créateur mais découvert comme la nature des choses, d'où une structure téléologique, que l'identité de saṃsāra et de [nirvāṇa](../glossary/nirvana.md) rapatrie tout entière dans ce monde-ci.
 
 *Sources : Mūlamadhyamakakārikā (Stances du milieu par excellence), ch. XXV (l'examen du nirvāṇa)*
+
+### [Valeur de la vérité](../axes/truth-value.md)
+
+*positionné · inférable · mineure*
+
+Primauté de la vérité 75% · Illusions vitales 25%
+
+La distinction des [deux vérités](../glossary/two-truths.md) règle l'édifice : la vérité conventionnelle est indispensable pour enseigner et pour atteindre l'ultime, la vacuité, mais ni l'une ni l'autre ne doit être substantialisée. Qui méprise le conventionnel se prive du chemin, qui s'y arrête se prive du but.
+
+*Sources : Stances du milieu (Mūlamadhyamakakārikā), XXIV*
 
 ## Influencé par
 

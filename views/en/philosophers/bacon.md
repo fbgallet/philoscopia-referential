@@ -20,7 +20,7 @@ An English Renaissance statesman and philosopher, Lord Chancellor under James I,
 
 *positioned · explicit in the texts · major*
 
-Inductivism 95% · Falsificationism 5%
+Proof by experience 95% · Refutation 5%
 
 The syllogism, Bacon objects, only links notions already received: it discovers nothing, it merely dresses up prejudice. To this logic of **anticipations** of nature he opposes a logic of **interpretation**: not to fly like the bee from experience alone, nor to spin like the spider from reason alone, but to climb step by step from facts to laws. His [induction](../glossary/induction.md) is therefore not the bare enumeration that generalizes from a few agreeing cases; it is an **eliminative** induction, drawing up tables of presence, absence, and degrees so as to rule out false causes methodically and isolate the form of the phenomenon. Science sets out from no preconceived system: it is built from the bottom up, by exclusion.
 
@@ -175,6 +175,16 @@ Bacon professes a sincere Christian faith and holds God's existence to be assure
 > “A little philosophy inclineth man's mind to atheism, but depth in philosophy bringeth men's minds about to religion.”, Essays, "Of Atheism"
 
 *Sources : Essays, "Of Atheism"*
+
+### [The value of truth](../axes/truth-value.md)
+
+*positioned · explicit in the texts · minor*
+
+The primacy of truth 75% · Vital illusions 25%
+
+Knowledge begins with a purge: the idols, of the tribe, the cave, the marketplace, the theatre, are the natural and acquired illusions that distort the understanding, and the method's first task is to dispel them. The truth so won is not prized for itself alone: it proves itself by its works, in the service of the human condition.
+
+*Sources : Novum Organum, I (1620)*
 
 ## Influenced by
 

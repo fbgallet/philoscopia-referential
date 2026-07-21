@@ -4,23 +4,27 @@
 
 **Une machine pourrait-elle un jour véritablement penser ?**
 
-*Le monde · descriptif (théorie) · bipolaire*
+*Le monde · descriptif (théorie) · bipolaire à médiane*
 
-Si penser n'est qu'une affaire de fonction, peu importe la matière, alors une machine pourrait penser pour de bon, et nous lui devrions peut-être quelque chose ; s'il y faut de la chair vivante, la machine la plus brillante ne fait qu'imiter. Se positionner, c'est dire ce qui fait un esprit, et ce que nous reconnaîtrions à une machine qui semble penser.
+Si penser n'est qu'une affaire d'organisation, une machine pourrait penser pour de bon, et nous lui devrions peut-être quelque chose. Si exécuter un programme ne suffit pas, nos machines ne font qu'imiter, sans qu'il soit exclu qu'un artefact d'un autre genre y parvienne un jour. Et si la pensée est indissociable de la vie, la plus brillante des machines restera une chose. Se positionner, c'est dire ce qui fait un esprit.
 
 ## Pôles
 
-### Fonctionnalisme
+### Peu importe le support
 
 Penser, c'est traiter de l'information d'une certaine manière, quel que soit le support qui réalise ce traitement. Si une machine accomplit les mêmes fonctions qu'un cerveau, rien ne permet de lui refuser la pensée.
 
 *[Turing](../philosophers/turing.md) · Dennett*
 
-### Biologisme de la conscience
+### Seul le vivant pense
 
-Manipuler des symboles ne suffit pas à penser : un programme peut simuler la compréhension sans rien comprendre. La conscience est un phénomène biologique, produit par les propriétés causales propres du cerveau vivant.
+La pensée n'est pas une organisation abstraite mais l'activité d'un être vivant : sentir, vouloir, comprendre naissent avec la vie et son souci de durer. Une machine, si brillante soit-elle, reste une chose fabriquée : elle calcule, mais rien ne lui importe.
 
-*[Searle](../philosophers/searle.md)*
+*[Jonas](../philosophers/jonas.md)*
+
+### Pas par simple programme (position médiane)
+
+Exécuter un programme ne sera jamais penser : simuler la compréhension n'est pas comprendre. Mais rien n'interdit qu'un artefact pense un jour, s'il reproduit ce qui compte : les pouvoirs causaux du cerveau vivant, ou l'engagement d'un corps dans un monde.
 
 ## Problèmes vifs
 
@@ -33,11 +37,11 @@ Manipuler des symboles ne suffit pas à penser : un programme peut simuler la co
 
 ## Relations de fondation
 
-- *[Être ou avoir un corps](../axes/embodiment.md) : Corps-sujet* fonde *[Une machine peut-elle penser](../axes/machine-mind.md) : Biologisme de la conscience* : Si penser, c'est d'abord être un organisme vivant couplé à son milieu, alors manipuler des symboles ne suffit pas à comprendre : un programme sans corps ni vie ne pense pas vraiment. La thèse du corps-sujet soutient le biologisme de la conscience de [Searle](../philosophers/searle.md), pour qui l'esprit naît des pouvoirs causaux propres au cerveau vivant.
+- *[Être ou avoir un corps](../axes/embodiment.md) : Corps-sujet* fonde *[Une machine peut-elle penser](../axes/machine-mind.md) : Seul le vivant pense* : Si penser, c'est d'abord être un organisme vivant couplé à son milieu, alors manipuler des symboles ne suffit pas à comprendre : un programme sans corps ni vie ne pense pas vraiment. La thèse du corps-sujet soutient l'idée que seul le vivant pense : pour [Jonas](../philosophers/jonas.md), l'esprit s'enracine dans la vie de l'organisme et son souci de durer.
 
 ## Axes liés
 
-[Nature de la conscience](../axes/consciousness-nature.md) · [Nature de l'esprit et du réel](../axes/reality-nature.md) · [Tout et parties](../axes/reduction-emergence.md) · [Cercle moral](../axes/moral-circle.md)
+[L'énigme de la conscience](../axes/consciousness-nature.md) · [Nature du réel](../axes/reality-nature.md) · [Tout et parties](../axes/reduction-emergence.md) · [Cercle moral](../axes/moral-circle.md)
 
 ---
 

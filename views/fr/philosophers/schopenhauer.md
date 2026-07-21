@@ -8,7 +8,7 @@ Philosophe allemand, Schopenhauer publie à trente ans son unique système, *[Le
 
 ## Positions structurantes
 
-1. [Nature de l'esprit et du réel](../axes/reality-nature.md) : **Le monde est [représentation](../glossary/representation.md) pour un sujet et, en son fond, Volonté : un vouloir aveugle, sans raison ni but, dont notre corps est la manifestation immédiate.**
+1. [Nature du réel](../axes/reality-nature.md) : **Le monde est [représentation](../glossary/representation.md) pour un sujet et, en son fond, Volonté : un vouloir aveugle, sans raison ni but, dont notre corps est la manifestation immédiate.**
 2. [Tonalité du réel](../axes/cosmic-outlook.md) : **L'existence est une affaire qui ne couvre pas ses frais : la souffrance est le fond de la vie, et l'optimisme une amère dérision des maux innommables de l'humanité.**
 3. [Rapport au désir](../axes/desire.md) : **Tout désir naît d'un manque, donc d'une souffrance : satisfait, il ne donne qu'un plaisir négatif qui retombe en [ennui](../glossary/ennui.md), et la vie oscille comme un pendule entre la douleur et l'ennui.**
 4. [Le sens de la vie](../axes/life-meaning.md) : **Il n'y a pas de sens à réaliser dans le monde, seulement une délivrance à conquérir contre lui : par la contemplation, la [compassion](../glossary/compassion.md) puis l'[ascèse](../glossary/asceticism.md), le [vouloir-vivre](../glossary/vouloir-vivre.md) peut se nier lui-même.**
@@ -16,7 +16,7 @@ Philosophe allemand, Schopenhauer publie à trente ans son unique système, *[Le
 
 ## Positions
 
-### [Nature de l'esprit et du réel](../axes/reality-nature.md)
+### [Nature du réel](../axes/reality-nature.md)
 
 *positionné · explicite dans les textes · majeure*
 
@@ -68,7 +68,7 @@ Le monde n'offre aucune fin à réaliser : le [vouloir-vivre](../glossary/vouloi
 
 *positionné · explicite dans les textes · majeure*
 
-Sentimentalisme 88% · Intellectualisme 13%
+Le primat du sentiment 88% · Primauté de la raison 13%
 
 Contre [Kant](../philosophers/kant.md), dont il démonte l'impératif catégorique comme une théologie morale déguisée, il soutient qu'une action n'a de valeur morale que si son mobile est la [compassion](../glossary/compassion.md), participation immédiate et désintéressée à la souffrance d'autrui, « phénomène originaire et mystérieux de l'éthique ». La raison n'est qu'un instrument au service du vouloir : elle calcule les moyens, elle ne rend pas bon, et l'égoïste habile n'en est que plus dangereux.
 
@@ -184,7 +184,7 @@ L'idéal déclaré est l'[ascèse](../glossary/asceticism.md) : chasteté, pauvr
 
 *positionné · explicite dans les textes · mineure*
 
-Argument du mal (athéisme) 60% · Révolte / anti-théodicie 40%
+Le mal réfute Dieu 60% · Le mal injustifiable 40%
 
 Retournement de [Leibniz](../philosophers/leibniz.md) : ce monde n'est pas le meilleur mais le pire des mondes possibles, car un monde tant soit peu plus mauvais ne pourrait plus subsister. Le mal n'est pas un défaut d'être à excuser mais la teneur positive de l'existence, preuve dirimante contre tout créateur bon ; toute théodicée est dès lors une indécence.
 
@@ -220,7 +220,7 @@ Les Idées platoniciennes, degrés d'objectivation du vouloir, sont plus réelle
 
 *Sources : Le Monde comme volonté et comme représentation, livre III*
 
-### [Nature de la conscience](../axes/consciousness-nature.md)
+### [L'énigme de la conscience](../axes/consciousness-nature.md)
 
 *positionné · inférable · mineure*
 
@@ -274,7 +274,7 @@ L'espérance est la falsification du jugement par le désir : le vouloir corromp
 
 *positionné · explicite dans les textes · mineure*
 
-La mort n'est rien 35% · Être-pour-la-mort 30% · Immortalisme 30% · Révolte / refus 5%
+Se libérer de la crainte 50% · Vivre en vue de sa mort 35% · Se préparer au passage 10% · Refuser la mort 5%
 
 Triple consolation contre la peur de la mort : l'argument de symétrie, l'état d'après notre mort n'est autre que celui d'avant notre naissance, donc indifférent ; la mort comme « muse de la philosophie », sans laquelle on ne philosopherait guère ; l'indestructibilité de notre être en soi, le vouloir, qui ne connaît ni temps ni fin, sans pour autant qu'aucune personne survive.
 
@@ -284,7 +284,7 @@ Triple consolation contre la peur de la mort : l'argument de symétrie, l'état 
 
 *positionné · explicite dans les textes · mineure*
 
-Présentisme 70% · Mémoire-transmission 20% · Projet 10%
+Vivre au présent 70% · Mémoire-transmission 20% · Projet 10%
 
 Seul le présent est réel : le passé n'est plus, l'avenir n'est pas encore, et qui vit dans l'attente d'un bonheur futur vit toujours « plus tard », en reportant sa vie. La forme même de l'existence est un présent sans étendue, un point mobile sur lequel il s'agit de se tenir plutôt que de fuir en avant.
 
@@ -465,6 +465,16 @@ La philosophie ne transforme pas le monde et n'édicte pas de règles : elle int
 > « La philosophie ne peut jamais faire davantage qu'interpréter et expliquer ce qui existe. », Le Monde comme volonté et comme représentation, §53
 
 *Sources : Le Monde comme volonté et comme représentation, §53*
+
+### [Valeur de la vérité](../axes/truth-value.md)
+
+*positionné · inférable · mineure*
+
+Primauté de la vérité 80% · Illusions vitales 20%
+
+Tout l'édifice repose sur le refus des consolations : l'optimisme n'est pas seulement faux mais indécent devant la souffrance du monde, et voir le fond de la Volonté est la condition de toute sagesse. La délivrance passe par plus de lucidité, contemplation et négation du vouloir, jamais par une illusion mieux choisie.
+
+*Sources : Le Monde comme volonté et comme représentation (1818)*
 
 ## Influencé par
 

@@ -11,8 +11,8 @@
     "en": "Is evil compatible with a good and all-powerful God?"
   },
   "stakes": {
-    "fr": "La souffrance des innocents est l'épreuve la plus dure pour qui croit en un Dieu bon et tout-puissant : ou bien le mal se laisse réconcilier avec lui, ou bien il s'excuse par notre liberté, ou bien il le ruine. Se positionner, c'est dire si la foi peut tenir devant le malheur, ou s'y brise.",
-    "en": "The suffering of the innocent is the harshest test for anyone who believes in a good and all-powerful God: either evil can be reconciled with him, or it is excused by our freedom, or it refutes him. To take a position is to say whether faith can stand before misfortune, or breaks on it."
+    "fr": "La souffrance des innocents est l'épreuve la plus dure pour qui croit en un Dieu bon et tout-puissant. Devant elle, quatre voies se séparent : justifier le mal, renoncer à la toute-puissance divine, refuser toute justification, ou conclure que ce Dieu n'existe pas. Se positionner, c'est dire si la foi peut tenir devant le malheur, et à quel prix.",
+    "en": "The suffering of the innocent is the harshest test for anyone who believes in a good and all-powerful God. Before it, four paths part ways: justifying evil, giving up divine omnipotence, refusing all justification, or concluding that no such God exists. To take a position is to say whether faith can stand before misfortune, and at what cost."
   },
   "layer": "THEORY",
   "type": "CATEGORICAL",
@@ -21,46 +21,56 @@
       "id": "THEODICY",
       "concept": "theodicy",
       "label": {
-        "fr": "Théodicée",
-        "en": "Theodicy"
+        "fr": "Le mal a ses raisons",
+        "en": "Evil has its reasons"
       },
       "description": {
-        "fr": "Le mal n'est qu'apparent ou nécessaire dans la perspective du tout : un Dieu infiniment sage a créé le meilleur des mondes possibles, où chaque mal concourt à un bien supérieur que nous ne voyons pas.",
-        "en": "Evil is only apparent or necessary from the standpoint of the whole: an infinitely wise God created the best of all possible worlds, where each evil contributes to a higher good we fail to see."
+        "fr": "Un Dieu bon et tout-puissant peut permettre le mal : pour un bien d'ensemble, pour la liberté des créatures, pour faire mûrir les âmes, ou pour des raisons qui excèdent notre entendement. La foi tient : même opaque, le mal a un sens.",
+        "en": "A good and all-powerful God can permit evil: for the good of the whole, for the freedom of his creatures, to let souls mature, or for reasons beyond our understanding. Faith holds: even when opaque, evil has a meaning."
       },
       "figures": [
         {
           "slug": "leibniz",
           "name": { "fr": "Leibniz", "en": "Leibniz" }
+        },
+        {
+          "slug": "augustine",
+          "name": { "fr": "Augustin", "en": "Augustine" }
+        }
+      ],
+      "nuances": [
+        {
+          "fr": "La « défense » de Plantinga ne prétend pas connaître les raisons de Dieu : elle établit seulement que le mal n'est pas logiquement incompatible avec son existence.",
+          "en": "Plantinga's \"defence\" does not claim to know God's reasons: it only establishes that evil is not logically incompatible with his existence."
         }
       ]
     },
     {
-      "id": "FREE_WILL_DEFENSE",
+      "id": "LIMITED_GOD",
       "label": {
-        "fr": "Défense par le libre arbitre",
-        "en": "Free-will defence"
+        "fr": "Un Dieu limité",
+        "en": "A limited God"
       },
       "description": {
-        "fr": "Le mal moral est le prix de la liberté : Dieu a voulu des créatures libres, capables d'aimer et de choisir le bien, donc capables aussi de faire le mal. La faute vient de l'homme, non du créateur.",
-        "en": "Moral evil is the price of freedom: God willed free creatures, able to love and to choose the good, hence also able to do evil. The fault lies with humanity, not the creator."
+        "fr": "On sauve la bonté de Dieu en limitant sa puissance : un Dieu qui se retire ou se limite pour laisser être le monde, et qui souffre avec lui plus qu'il ne le gouverne. Le mal n'est pas voulu par Dieu : il est ce qu'il ne peut pas empêcher.",
+        "en": "God's goodness is saved by limiting his power: a God who withdraws or limits himself so that the world may be, and who suffers with it more than he governs it. Evil is not willed by God: it is what he cannot prevent."
       },
       "figures": [
         {
-          "slug": "augustine",
-          "name": { "fr": "Augustin", "en": "Augustine" }
+          "slug": "jonas",
+          "name": { "fr": "Jonas", "en": "Jonas" }
         },
         {
-          "slug": "plantinga",
-          "name": { "fr": "Plantinga", "en": "Plantinga" }
+          "slug": "whitehead",
+          "name": { "fr": "Whitehead", "en": "Whitehead" }
         }
       ]
     },
     {
       "id": "ANTI_THEODICY",
       "label": {
-        "fr": "Révolte / anti-théodicie",
-        "en": "Revolt / anti-theodicy"
+        "fr": "Le mal injustifiable",
+        "en": "Unjustifiable evil"
       },
       "description": {
         "fr": "Vouloir justifier le mal est en soi une faute morale : aucune harmonie finale ne rachète la souffrance d'un seul enfant innocent. Devant le mal, il n'y a pas d'explication acceptable, mais une révolte ou un silence.",
@@ -80,8 +90,8 @@
     {
       "id": "ARGUMENT_FROM_EVIL",
       "label": {
-        "fr": "Argument du mal (athéisme)",
-        "en": "Argument from evil (atheism)"
+        "fr": "Le mal réfute Dieu",
+        "en": "Evil refutes God"
       },
       "description": {
         "fr": "L'existence d'un mal massif et gratuit est incompatible avec un Dieu à la fois bon, tout-puissant et omniscient : ou il ne peut l'empêcher, ou il ne le veut pas. Le mal est le meilleur argument contre Dieu.",
@@ -122,7 +132,7 @@
         { "fr": "tout-puissant et bon", "en": "omnipotent and good" },
         { "fr": "problème logique du mal", "en": "logical problem of evil" }
       ],
-      "poles": ["THEODICY", "FREE_WILL_DEFENSE", "ANTI_THEODICY", "ARGUMENT_FROM_EVIL"],
+      "poles": ["THEODICY", "LIMITED_GOD", "ANTI_THEODICY", "ARGUMENT_FROM_EVIL"],
       "anchors": [
         { "name": { "fr": "Épicure", "en": "Epicurus" }, "kind": "PHILOSOPHER", "slug": "epicurus" },
         { "name": { "fr": "Hume", "en": "Hume" }, "kind": "PHILOSOPHER", "slug": "hume" },
@@ -147,7 +157,7 @@
         { "fr": "Candide", "en": "Candide" },
         { "fr": "« tout est bien »", "en": "\"all is well\"" }
       ],
-      "poles": ["THEODICY", "FREE_WILL_DEFENSE", "ARGUMENT_FROM_EVIL"],
+      "poles": ["THEODICY", "LIMITED_GOD", "ARGUMENT_FROM_EVIL"],
       "anchors": [
         { "name": { "fr": "Voltaire", "en": "Voltaire" }, "kind": "PHILOSOPHER", "slug": "voltaire" },
         { "name": { "fr": "Leibniz", "en": "Leibniz" }, "kind": "PHILOSOPHER", "slug": "leibniz" },
@@ -222,7 +232,7 @@
         { "fr": "le tourbillon", "en": "the whirlwind" },
         { "fr": "théisme sceptique", "en": "skeptical theism" }
       ],
-      "poles": ["THEODICY", "FREE_WILL_DEFENSE"],
+      "poles": ["THEODICY"],
       "anchors": [
         { "name": { "fr": "Thomas d'Aquin", "en": "Aquinas" }, "kind": "PHILOSOPHER", "slug": "aquinas" },
         { "name": { "fr": "Théisme sceptique", "en": "Skeptical theism" }, "kind": "TRADITION" }
@@ -247,7 +257,7 @@
         { "fr": "théologie du process", "en": "process theology" },
         { "fr": "dualisme, manichéisme", "en": "dualism, Manichaeism" }
       ],
-      "poles": ["THEODICY", "ARGUMENT_FROM_EVIL"],
+      "poles": ["LIMITED_GOD", "THEODICY", "ARGUMENT_FROM_EVIL"],
       "anchors": [
         { "name": { "fr": "Jonas", "en": "Jonas" }, "kind": "PHILOSOPHER", "slug": "jonas" },
         { "name": { "fr": "Whitehead", "en": "Whitehead" }, "kind": "PHILOSOPHER", "slug": "whitehead" }

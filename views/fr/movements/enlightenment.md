@@ -54,7 +54,7 @@ Le modèle est la physique de Newton : une poignée de lois mathématiques rend 
 
 *positionné · explicite dans les textes · mineure*
 
-Inductivisme 80% · Bayésianisme 20%
+La preuve par l'expérience 80% · Le calcul des probabilités 20%
 
 Hostiles aux systèmes a priori et aux hypothèses gratuites, les Lumières font de l'observation et de l'expérience la source de toute physique : on remonte des faits aux lois par [induction](../glossary/induction.md), à la manière de [Bacon](../philosophers/bacon.md) dont l'Encyclopédie se réclame. [Hume](../philosophers/hume.md) radicalise pourtant ce programme en montrant que l'induction elle-même ne se fonde pas en raison, mais sur l'habitude. Parallèlement, le calcul des probabilités de Laplace et de [Condorcet](../philosophers/condorcet.md) ouvre une voie quantitative à l'incertitude.
 
@@ -255,6 +255,16 @@ Conflit 45% · Domaines séparés 30% · Harmonie 25%
 Sur la religion, le courant fait front commun là même où il diverge sur Dieu : la raison, non la révélation ni l'Église, est juge en dernière instance. Beaucoup tiennent la religion révélée pour incompatible avec elle, mêlée de superstition et de fanatisme : c'est l'« Infâme » que [Voltaire](../philosophers/voltaire.md) veut « écraser ». D'autres lui substituent une religion naturelle, ou [déisme](../glossary/deisme.md), accordée à la raison : un Dieu horloger sans miracles ni clergé. De ce primat découle l'exigence majeure de [tolérance](../glossary/tolerance.md), et la séparation du civil et du religieux : [Locke](../philosophers/locke.md) montre que nul ne peut être contraint de croire, et que le salut ne regarde pas l'État.
 
 *Sources : Voltaire, Traité sur la tolérance · Locke, Lettre sur la tolérance*
+
+### [Valeur de la vérité](../axes/truth-value.md)
+
+*positionné · explicite dans les textes · majeure*
+
+Primauté de la vérité 90% · Illusions vitales 10%
+
+Le mouvement se définit par un pari : la diffusion des lumières affranchit, l'obscurité asservit. Oser savoir, arracher les préjugés, publier l'Encyclopédie, c'est tenir que nul progrès moral ou politique ne s'achète au prix d'une ignorance entretenue, et que les tutelles vivent des ténèbres qu'elles cultivent.
+
+*Sources : Kant, Qu'est-ce que les Lumières ? (1784) · L'Encyclopédie (1751-1772)*
 
 ## Influencé par
 

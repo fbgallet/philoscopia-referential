@@ -1,0 +1,452 @@
+{
+  "id": "POLITICAL_OBLIGATION",
+  "relation": "OTHERS",
+  "territory": "POWER_JUSTICE",
+  "label": {
+    "fr": "La loi et la conscience",
+    "en": "Law and conscience"
+  },
+  "question": {
+    "fr": "Peut-il être juste de désobéir à la loi ?",
+    "en": "Can it be right to disobey the law?"
+  },
+  "stakes": {
+    "fr": "Toute loi peut un jour heurter la conscience : décret inique, ordre qu'on ne peut pas suivre sans se trahir. Obéir quand même, c'est protéger ce qui rend la vie commune possible ; désobéir, c'est affirmer qu'au-dessus des lois il y a autre chose, au risque que chacun ne suive plus que son propre jugement. D'Antigone aux grandes désobéissances de l'histoire, la question revient à chaque génération. Se positionner, c'est dire ce que l'on doit à la loi quand elle commande ce que la conscience refuse.",
+    "en": "Any law may one day clash with conscience: an iniquitous decree, an order one cannot follow without betraying oneself. To obey nonetheless is to protect what makes common life possible; to disobey is to affirm that above the laws there is something else, at the risk that each person will follow only their own judgment. From Antigone to the great disobediences of history, the question returns with each generation. To take a position is to say what we owe the law when it commands what conscience refuses."
+  },
+  "aliases": {
+    "fr": [
+      "état",
+      "loi",
+      "obéissance",
+      "désobéissance civile",
+      "autorité",
+      "politique",
+      "révolte"
+    ],
+    "en": [
+      "state",
+      "law",
+      "obedience",
+      "civil disobedience",
+      "authority",
+      "politics",
+      "revolt"
+    ]
+  },
+  "layer": "VALUE",
+  "type": "CATEGORICAL_ORDERED",
+  "commonOpinion": "CIVIL_DISOBEDIENCE",
+  "poles": [
+    {
+      "id": "OBEY_STILL",
+      "label": {
+        "fr": "Obéissance coûte que coûte",
+        "en": "Obedience at all costs"
+      },
+      "description": {
+        "fr": "La loi oblige même quand elle déplaît : c'est l'obéissance de tous qui rend la vie commune possible, et qui s'en dispense au nom de sa conscience défait ce qui protège chacun. On conteste, on plaide, on cherche à changer la loi par les voies qu'elle ouvre ; on ne l'enfreint pas. Subir une loi mauvaise reste moins grave que de ruiner l'autorité de toutes les lois.",
+        "en": "The law binds even when it displeases: it is everyone's obedience that makes common life possible, and whoever exempts themselves in the name of conscience undoes what protects all. One contests, one pleads, one seeks to change the law by the means it provides; one does not break it. Enduring a bad law remains a lesser evil than ruining the authority of all laws."
+      },
+      "nuances": [
+        {
+          "fr": "Kant durcit la position : nul droit de résistance, jamais ; mais liberté entière de la plume, le citoyen obéit et critique publiquement.",
+          "en": "Kant hardens the position: no right of resistance, ever; but full freedom of the pen, the citizen obeys and criticizes publicly."
+        },
+        {
+          "fr": "Hobbes lui-même garde une limite : le sujet doit tout au souverain, sauf de renoncer à se défendre, car nul n'est tenu d'obéir à l'ordre de se tuer ou de s'accuser. L'obéissance est quasi totale, non absolue.",
+          "en": "Hobbes himself keeps one limit: the subject owes everything to the sovereign except the surrender of self-defence, for no one is bound to obey an order to kill or incriminate themselves. Obedience is near-total, not absolute."
+        }
+      ],
+      "figures": [
+        {
+          "slug": "socrates",
+          "name": {
+            "fr": "Socrate",
+            "en": "Socrates"
+          }
+        },
+        {
+          "slug": "hobbes",
+          "name": {
+            "fr": "Hobbes",
+            "en": "Hobbes"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CIVIL_DISOBEDIENCE",
+      "label": {
+        "fr": "Désobéissance civile",
+        "en": "Civil disobedience"
+      },
+      "description": {
+        "fr": "Quand une loi commande l'inacceptable, la conscience a le droit, parfois le devoir, de désobéir : publiquement, sans violence, en acceptant la sanction. Cette désobéissance en plein jour n'est pas une trahison de la loi mais un appel qui lui est adressé : elle vise à réveiller le sens de la justice de la communauté, non à se soustraire à la règle commune.",
+        "en": "When a law commands the unacceptable, conscience has the right, sometimes the duty, to disobey: openly, without violence, accepting the penalty. This disobedience in broad daylight is not a betrayal of the law but an appeal addressed to it: it aims to awaken the community's sense of justice, not to escape the common rule."
+      },
+      "nuances": [
+        {
+          "fr": "Rawls en donne la théorie : dans une société presque juste, une infraction publique et non violente dont on assume les conséquences légales, adressée au sens de la justice de la majorité et réservée aux injustices graves.",
+          "en": "Rawls gives it its theory: in a nearly just society, a public and nonviolent breach whose legal consequences one accepts, addressed to the majority's sense of justice and reserved for grave injustice."
+        },
+        {
+          "fr": "King : enfreindre une loi inique en acceptant la prison, c'est témoigner du plus haut respect pour le droit.",
+          "en": "King: to break an unjust law while accepting prison is to show the highest respect for law."
+        },
+        {
+          "fr": "La publicité et l'acceptation de la peine caractérisent surtout le modèle de Rawls et de King ; l'objection de conscience de Thoreau, refus individuel de payer l'impôt, en est la forme la plus solitaire.",
+          "en": "Publicity and acceptance of the penalty mark above all the model of Rawls and King; Thoreau's conscientious objection, an individual refusal to pay tax, is its most solitary form."
+        }
+      ],
+      "figures": [
+        {
+          "slug": "thoreau",
+          "name": {
+            "fr": "Thoreau",
+            "en": "Thoreau"
+          }
+        },
+        {
+          "slug": "gandhi",
+          "name": {
+            "fr": "Gandhi",
+            "en": "Gandhi"
+          }
+        }
+      ]
+    },
+    {
+      "id": "RESISTANCE",
+      "label": {
+        "fr": "Résistance à l'oppression",
+        "en": "Resistance to oppression"
+      },
+      "description": {
+        "fr": "Quand le pouvoir lui-même trahit sa raison d'être, viole les droits qu'il devait protéger et gouverne contre ceux qu'il devait servir, l'obligation cesse : il n'y a plus de loi à respecter, seulement une force à laquelle on a le droit de résister. La résistance n'est alors pas un crime contre l'ordre : c'est le pouvoir qui a rompu le pacte le premier.",
+        "en": "When power itself betrays its reason for being, violates the rights it was meant to protect, and governs against those it was meant to serve, the obligation ceases: there is no longer a law to respect, only a force one has the right to resist. Resistance is then not a crime against order: it is power that broke the pact first."
+      },
+      "nuances": [
+        {
+          "fr": "Les monarchomaques et la tradition du droit de résistance en font, avant Locke, un recours réglé contre le tyran, non une licence de révolte permanente.",
+          "en": "The monarchomachs and the right-of-resistance tradition made it, before Locke, a regulated recourse against the tyrant, not a license for permanent revolt."
+        }
+      ],
+      "figures": [
+        {
+          "slug": "locke",
+          "name": {
+            "fr": "Locke",
+            "en": "Locke"
+          }
+        }
+      ]
+    }
+  ],
+  "core": true,
+  "difficulty": 1,
+  "clusters": [],
+  "relatedAxes": [
+    "AUTHORITY",
+    "SOCIAL_CONTRACT",
+    "WHO_DECIDES",
+    "VIOLENCE",
+    "RIGHTS_NATURE",
+    "RULE_SPIRIT"
+  ],
+  "problems": [
+    {
+      "id": "crito",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "la dette envers les lois",
+        "en": "the debt owed to the laws"
+      },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "POLITICAL",
+      "keywords": [
+        {
+          "fr": "Criton",
+          "en": "Crito"
+        },
+        {
+          "fr": "persuader ou obéir",
+          "en": "persuade or obey"
+        },
+        {
+          "fr": "évasion",
+          "en": "escape"
+        }
+      ],
+      "poles": [
+        "OBEY_STILL",
+        "CIVIL_DISOBEDIENCE"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Socrate",
+            "en": "Socrates"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "socrates"
+        },
+        {
+          "name": {
+            "fr": "Platon",
+            "en": "Plato"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "plato"
+        }
+      ],
+      "title": {
+        "fr": "Persuader ou obéir",
+        "en": "Persuade or obey"
+      },
+      "explicitation": {
+        "fr": "Condamné à tort, Socrate refuse l'évasion : les Lois l'ont élevé, il a toute sa vie accepté leurs bienfaits, et il peut les persuader mais non les trahir. L'injustice d'un verdict autorise-t-elle à rompre avec ce qui nous a faits ?",
+        "en": "Condemned unjustly, Socrates refuses to escape: the Laws raised him, he accepted their benefits his whole life, and he may persuade them but not betray them. Does the injustice of a verdict permit breaking with what made us?"
+      }
+    },
+    {
+      "id": "antigone-two-laws",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "les lois non écrites",
+        "en": "the unwritten laws"
+      },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "POLITICAL",
+      "keywords": [
+        {
+          "fr": "Antigone",
+          "en": "Antigone"
+        },
+        {
+          "fr": "lois non écrites",
+          "en": "unwritten laws"
+        },
+        {
+          "fr": "loi injuste, loi nulle",
+          "en": "an unjust law is no law"
+        }
+      ],
+      "poles": [
+        "CIVIL_DISOBEDIENCE",
+        "RESISTANCE"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Thomas d'Aquin",
+            "en": "Thomas Aquinas"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "aquinas"
+        },
+        {
+          "name": {
+            "fr": "Locke",
+            "en": "Locke"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "locke"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "RIGHTS_NATURE"
+        }
+      ],
+      "title": {
+        "fr": "Les lois non écrites",
+        "en": "The unwritten laws"
+      },
+      "explicitation": {
+        "fr": "Antigone enterre son frère contre le décret de la cité, au nom de lois que nul n'a écrites : s'il existe un droit au-dessus des lois, une loi qui le viole est-elle encore une loi, ou seulement un ordre ?",
+        "en": "Antigone buries her brother against the city's decree, in the name of laws no one has written: if there is a right above the laws, is a law that violates it still a law, or merely an order?"
+      }
+    },
+    {
+      "id": "why-obey-at-all",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "le fondement de l'obligation",
+        "en": "the ground of obligation"
+      },
+      "mode": "DESCRIPTIVE",
+      "keywords": [
+        {
+          "fr": "consentement tacite",
+          "en": "tacit consent"
+        },
+        {
+          "fr": "fair-play",
+          "en": "fair play"
+        },
+        {
+          "fr": "anarchisme philosophique",
+          "en": "philosophical anarchism"
+        }
+      ],
+      "poles": [
+        "OBEY_STILL",
+        "CIVIL_DISOBEDIENCE",
+        "RESISTANCE"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Hume",
+            "en": "Hume"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "hume"
+        },
+        {
+          "name": {
+            "fr": "Wolff",
+            "en": "Wolff"
+          },
+          "kind": "PHILOSOPHER"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "SOCIAL_CONTRACT"
+        }
+      ],
+      "title": {
+        "fr": "Pourquoi obéir, au fond ?",
+        "en": "Why obey at all?"
+      },
+      "explicitation": {
+        "fr": "Nul n'a signé de contrat, et rester dans un pays n'est pas consentir : autant dire, avec Hume, qu'on consent au capitaine en restant à bord en pleine mer. Si ni le consentement, ni l'équité, ni l'utilité ne fondent un devoir général d'obéir, l'obligation politique est-elle une illusion ?",
+        "en": "No one signed a contract, and staying in a country is not consenting: one might as well say, with Hume, that one consents to the captain by remaining aboard on the open sea. If neither consent, nor fairness, nor utility grounds a general duty to obey, is political obligation an illusion?"
+      }
+    },
+    {
+      "id": "who-judges-injustice",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "le jugement d'injustice",
+        "en": "the judgment of injustice"
+      },
+      "mode": "DESCRIPTIVE",
+      "keywords": [
+        {
+          "fr": "conscience",
+          "en": "conscience"
+        },
+        {
+          "fr": "jugement privé",
+          "en": "private judgment"
+        },
+        {
+          "fr": "ordre commun",
+          "en": "common order"
+        }
+      ],
+      "poles": [
+        "OBEY_STILL",
+        "CIVIL_DISOBEDIENCE"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Hobbes",
+            "en": "Hobbes"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "hobbes"
+        },
+        {
+          "name": {
+            "fr": "Rawls",
+            "en": "Rawls"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "rawls"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "WHO_DECIDES"
+        }
+      ],
+      "title": {
+        "fr": "Injuste selon qui ?",
+        "en": "Unjust according to whom?"
+      },
+      "explicitation": {
+        "fr": "Une loi n'arrive jamais étiquetée injuste : quelqu'un en juge. Si chaque conscience décide des lois qui l'obligent, que reste-t-il de la loi commune ; et si nulle ne le peut, comment l'injustice se dénoncerait-elle jamais ?",
+        "en": "A law never arrives labeled unjust: someone judges it so. If each conscience decides which laws bind it, what remains of the law shared by all; and if none may, how would injustice ever be denounced?"
+      }
+    },
+    {
+      "id": "how-far-resistance",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "les moyens de la résistance",
+        "en": "the means of resistance"
+      },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "POLITICAL",
+      "keywords": [
+        {
+          "fr": "non-violence",
+          "en": "nonviolence"
+        },
+        {
+          "fr": "désobéissance et sabotage",
+          "en": "disobedience and sabotage"
+        },
+        {
+          "fr": "lutte armée",
+          "en": "armed struggle"
+        }
+      ],
+      "poles": [
+        "CIVIL_DISOBEDIENCE",
+        "RESISTANCE"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Gandhi",
+            "en": "Gandhi"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "gandhi"
+        },
+        {
+          "name": {
+            "fr": "Locke",
+            "en": "Locke"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "locke"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "VIOLENCE"
+        }
+      ],
+      "title": {
+        "fr": "Jusqu'où résister ?",
+        "en": "How far may one resist?"
+      },
+      "explicitation": {
+        "fr": "De la grève au sabotage, du refus de l'impôt à la lutte armée : la désobéissance juste a-t-elle des limites internes, la publicité, la non-violence, ou l'oppression extrême lève-t-elle toutes les bornes ?",
+        "en": "From the strike to sabotage, from tax refusal to armed struggle: does just disobedience have internal limits, publicity, nonviolence, or does extreme oppression lift every bound?"
+      }
+    }
+  ]
+}

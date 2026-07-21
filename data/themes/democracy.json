@@ -1,0 +1,28 @@
+{
+  "id": "democracy",
+  "label": {
+    "fr": "La démocratie",
+    "en": "Democracy"
+  },
+  "aliases": {
+    "fr": [
+      "démocratie",
+      "vote",
+      "élections",
+      "peuple"
+    ],
+    "en": [
+      "democracy",
+      "voting",
+      "elections",
+      "the people"
+    ]
+  },
+  "featured": true,
+  "axes": [
+    "WHO_DECIDES",
+    "AUTHORITY",
+    "POLITICAL_LIBERTY",
+    "POLITICAL_IDEAL"
+  ]
+}

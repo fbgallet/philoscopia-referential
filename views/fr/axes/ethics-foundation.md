@@ -84,7 +84,7 @@ La morale s'enracine dans l'attention concrète portée aux personnes vulnérabl
 
 ## Axes liés
 
-[Cercle moral](../axes/moral-circle.md) · [Exigence morale](../axes/moral-demand.md) · [Statut des normes (métaéthique)](../axes/moral-scope.md) · [Partialité](../axes/partiality.md) · [Sens de la peine](../axes/punishment.md) · [Lettre ou esprit de la règle](../axes/rule-spirit.md) · [Existence de Dieu](../axes/god-existence.md)
+[Cercle moral](../axes/moral-circle.md) · [Exigence morale](../axes/moral-demand.md) · [Statut des normes (métaéthique)](../axes/moral-scope.md) · [Partialité](../axes/partiality.md) · [Sens de la peine](../axes/punishment.md) · [Lettre ou esprit de la règle](../axes/rule-spirit.md) · [Existence de Dieu](../axes/god-existence.md) · [La source de la morale](../axes/moral-source.md) · [La responsabilité morale](../axes/moral-responsibility.md)
 
 ---
 

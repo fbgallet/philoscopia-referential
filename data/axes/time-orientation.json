@@ -14,14 +14,33 @@
     "fr": "Vivre pour l'instant savoure la vie mais peut perdre le cap ; vivre pour l'avenir construit et prépare, mais sacrifie parfois aujourd'hui à un demain qui ne vient pas ; vivre depuis le passé honore ses racines, mais peut y enfermer. Se positionner, c'est dire où poser le poids d'une vie.",
     "en": "Living for the moment savours life but can lose its bearings; living for the future builds and prepares, but sometimes sacrifices today to a tomorrow that never comes; living from the past honours one's roots, but can imprison us in them. To take a position is to say where to place the weight of a life."
   },
+  "aliases": {
+    "fr": [
+      "temps",
+      "présent",
+      "avenir",
+      "passé",
+      "mémoire",
+      "carpe diem",
+      "projet"
+    ],
+    "en": [
+      "time",
+      "present",
+      "future",
+      "past",
+      "memory",
+      "carpe diem"
+    ]
+  },
   "layer": "VALUE",
   "type": "TRIANGULAR",
   "poles": [
     {
       "id": "PRESENTISM",
       "label": {
-        "fr": "Présentisme",
-        "en": "Presentism"
+        "fr": "Vivre au présent",
+        "en": "Living in the present"
       },
       "description": {
         "fr": "Seul le présent nous appartient : carpe diem, cueille le jour. Plutôt que de se perdre dans les regrets ou les attentes, la sagesse consiste à habiter pleinement l'instant et à goûter ce qui est là.",
@@ -116,14 +135,35 @@
       "relation": "SUBPROBLEM",
       "sphere": "EXISTENTIAL",
       "keywords": [
-        { "fr": "éternel retour", "en": "eternal return" },
-        { "fr": "amor fati", "en": "amor fati" }
+        {
+          "fr": "éternel retour",
+          "en": "eternal return"
+        },
+        {
+          "fr": "amor fati",
+          "en": "amor fati"
+        }
       ],
-      "poles": ["PRESENTISM", "PROJECT", "MEMORY_TRANSMISSION"],
+      "poles": [
+        "PRESENTISM",
+        "PROJECT",
+        "MEMORY_TRANSMISSION"
+      ],
       "anchors": [
-        { "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" }
+        {
+          "name": {
+            "fr": "Nietzsche",
+            "en": "Nietzsche"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "nietzsche"
+        }
       ],
-      "doorways": [{ "axis": "PAST_RELATION" }],
+      "doorways": [
+        {
+          "axis": "PAST_RELATION"
+        }
+      ],
       "title": {
         "fr": "Voudriez-vous la revivre ?",
         "en": "Would you live it again?"
@@ -132,7 +172,10 @@
         "fr": "Un démon vous propose de revivre votre vie, identique, à l'infini : la voudriez-vous ? Le test révèle si vous habitez vraiment votre temps, plutôt que de le suspendre à demain ou de le pleurer d'hier.",
         "en": "A demon offers you to relive your life, identical, endlessly: would you want it? The test reveals whether you truly inhabit your time, rather than hanging it on tomorrow or mourning it as yesterday."
       },
-      "ref": { "kind": "THOUGHT_EXPERIMENT", "id": "the-eternal-return" }
+      "ref": {
+        "kind": "THOUGHT_EXPERIMENT",
+        "id": "the-eternal-return"
+      }
     },
     {
       "id": "always-deferring-life",
@@ -146,17 +189,54 @@
       "relation": "SUBPROBLEM",
       "sphere": "EXISTENTIAL",
       "keywords": [
-        { "fr": "brièveté de la vie", "en": "the shortness of life" },
-        { "fr": "« on ne vit jamais »", "en": "\"we never live\"" },
-        { "fr": "remettre à demain", "en": "putting off until tomorrow" }
+        {
+          "fr": "brièveté de la vie",
+          "en": "the shortness of life"
+        },
+        {
+          "fr": "« on ne vit jamais »",
+          "en": "\"we never live\""
+        },
+        {
+          "fr": "remettre à demain",
+          "en": "putting off until tomorrow"
+        }
       ],
-      "poles": ["PRESENTISM", "PROJECT"],
+      "poles": [
+        "PRESENTISM",
+        "PROJECT"
+      ],
       "anchors": [
-        { "name": { "fr": "Sénèque", "en": "Seneca" }, "kind": "PHILOSOPHER", "slug": "seneca" },
-        { "name": { "fr": "Pascal", "en": "Pascal" }, "kind": "PHILOSOPHER", "slug": "pascal" },
-        { "name": { "fr": "Sartre", "en": "Sartre" }, "kind": "PHILOSOPHER", "slug": "sartre" }
+        {
+          "name": {
+            "fr": "Sénèque",
+            "en": "Seneca"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "seneca"
+        },
+        {
+          "name": {
+            "fr": "Pascal",
+            "en": "Pascal"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "pascal"
+        },
+        {
+          "name": {
+            "fr": "Sartre",
+            "en": "Sartre"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "sartre"
+        }
       ],
-      "doorways": [{ "axis": "ATTENTION" }],
+      "doorways": [
+        {
+          "axis": "ATTENTION"
+        }
+      ],
       "title": {
         "fr": "Vivre, ou se préparer à vivre",
         "en": "Living, or preparing to live"
@@ -177,15 +257,47 @@
       "mode": "DESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "la durée", "en": "duration" },
-        { "fr": "l'instant", "en": "the instant" },
-        { "fr": "rétention", "en": "retention" }
+        {
+          "fr": "la durée",
+          "en": "duration"
+        },
+        {
+          "fr": "l'instant",
+          "en": "the instant"
+        },
+        {
+          "fr": "rétention",
+          "en": "retention"
+        }
       ],
-      "poles": ["PRESENTISM"],
+      "poles": [
+        "PRESENTISM"
+      ],
       "anchors": [
-        { "name": { "fr": "Augustin", "en": "Augustine" }, "kind": "PHILOSOPHER", "slug": "augustine" },
-        { "name": { "fr": "Bergson", "en": "Bergson" }, "kind": "PHILOSOPHER", "slug": "bergson" },
-        { "name": { "fr": "Husserl", "en": "Husserl" }, "kind": "PHILOSOPHER", "slug": "husserl" }
+        {
+          "name": {
+            "fr": "Augustin",
+            "en": "Augustine"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "augustine"
+        },
+        {
+          "name": {
+            "fr": "Bergson",
+            "en": "Bergson"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "bergson"
+        },
+        {
+          "name": {
+            "fr": "Husserl",
+            "en": "Husserl"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "husserl"
+        }
       ],
       "title": {
         "fr": "Y a-t-il un présent où se tenir ?",
@@ -208,18 +320,64 @@
       "relation": "SUBPROBLEM",
       "sphere": "EXISTENTIAL",
       "keywords": [
-        { "fr": "héritage", "en": "heritage" },
-        { "fr": "tradition", "en": "tradition" },
-        { "fr": "le fardeau de l'histoire", "en": "the burden of history" }
+        {
+          "fr": "héritage",
+          "en": "heritage"
+        },
+        {
+          "fr": "tradition",
+          "en": "tradition"
+        },
+        {
+          "fr": "le fardeau de l'histoire",
+          "en": "the burden of history"
+        }
       ],
-      "poles": ["MEMORY_TRANSMISSION"],
+      "poles": [
+        "MEMORY_TRANSMISSION"
+      ],
       "anchors": [
-        { "name": { "fr": "Burke", "en": "Burke" }, "kind": "PHILOSOPHER", "slug": "burke" },
-        { "name": { "fr": "Confucius", "en": "Confucius" }, "kind": "PHILOSOPHER", "slug": "confucius" },
-        { "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" },
-        { "name": { "fr": "Paine", "en": "Paine" }, "kind": "PHILOSOPHER", "slug": "paine" }
+        {
+          "name": {
+            "fr": "Burke",
+            "en": "Burke"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "burke"
+        },
+        {
+          "name": {
+            "fr": "Confucius",
+            "en": "Confucius"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "confucius"
+        },
+        {
+          "name": {
+            "fr": "Nietzsche",
+            "en": "Nietzsche"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "nietzsche"
+        },
+        {
+          "name": {
+            "fr": "Paine",
+            "en": "Paine"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "paine"
+        }
       ],
-      "doorways": [{ "axis": "PAST_RELATION" }, { "axis": "CONSERVATISM_PROGRESSISM" }],
+      "doorways": [
+        {
+          "axis": "PAST_RELATION"
+        },
+        {
+          "axis": "CONSERVATISM_PROGRESSISM"
+        }
+      ],
       "title": {
         "fr": "Le poids de l'héritage",
         "en": "The weight of heritage"
@@ -241,19 +399,58 @@
       "relation": "SUBPROBLEM",
       "sphere": "EXISTENTIAL",
       "keywords": [
-        { "fr": "générations futures", "en": "future generations" },
-        { "fr": "transmission", "en": "transmission" },
-        { "fr": "natalité", "en": "natality" }
+        {
+          "fr": "générations futures",
+          "en": "future generations"
+        },
+        {
+          "fr": "transmission",
+          "en": "transmission"
+        },
+        {
+          "fr": "natalité",
+          "en": "natality"
+        }
       ],
-      "poles": ["PROJECT", "MEMORY_TRANSMISSION"],
+      "poles": [
+        "PROJECT",
+        "MEMORY_TRANSMISSION"
+      ],
       "anchors": [
-        { "name": { "fr": "Arendt", "en": "Arendt" }, "kind": "PHILOSOPHER", "slug": "arendt" },
-        { "name": { "fr": "Jonas", "en": "Jonas" }, "kind": "PHILOSOPHER", "slug": "jonas" },
-        { "name": { "fr": "Burke", "en": "Burke" }, "kind": "PHILOSOPHER", "slug": "burke" }
+        {
+          "name": {
+            "fr": "Arendt",
+            "en": "Arendt"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "arendt"
+        },
+        {
+          "name": {
+            "fr": "Jonas",
+            "en": "Jonas"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "jonas"
+        },
+        {
+          "name": {
+            "fr": "Burke",
+            "en": "Burke"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "burke"
+        }
       ],
       "doorways": [
-        { "axis": "FUTURE_GENERATIONS", "problem": "the-absent-claimant" },
-        { "axis": "DEATH", "problem": "symbolic-immortality" }
+        {
+          "axis": "FUTURE_GENERATIONS",
+          "problem": "the-absent-claimant"
+        },
+        {
+          "axis": "DEATH",
+          "problem": "symbolic-immortality"
+        }
       ],
       "title": {
         "fr": "Pour qui bâtir après soi ?",
@@ -276,11 +473,24 @@
       "relation": "RELATED",
       "sphere": "EXISTENTIAL",
       "keywords": [
-        { "fr": "regret", "en": "regret" },
-        { "fr": "nostalgie", "en": "nostalgia" },
-        { "fr": "l'âge d'or", "en": "the golden age" }
+        {
+          "fr": "regret",
+          "en": "regret"
+        },
+        {
+          "fr": "nostalgie",
+          "en": "nostalgia"
+        },
+        {
+          "fr": "l'âge d'or",
+          "en": "the golden age"
+        }
       ],
-      "doorways": [{ "axis": "PAST_RELATION" }],
+      "doorways": [
+        {
+          "axis": "PAST_RELATION"
+        }
+      ],
       "title": {
         "fr": "Le regret et la nostalgie",
         "en": "Regret and nostalgia"

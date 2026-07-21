@@ -92,7 +92,7 @@ The torment of desire comes, for Sextus, from holding certain objects to be good
 
 *positioned · inferable · minor*
 
-Intellectualism 75% · Sentimentalism 25%
+The primacy of reason 75% · The primacy of feeling 25%
 
 Sextus shares with the Stoics the idea that disturbance arises from a judgment, the opinion that a thing is good or bad by nature, and that withdrawing that judgment brings calm. This is an intellectualism of the passions: the cure runs through the suspension of opinion. But he parts from them on one decisive point: he does not suppress all feeling, granting that the skeptic still suffers cold or thirst, "forced" affections that no suspension abolishes. Hence a clearly intellectualist position, held back from the extreme by this share of irreducible affect.
 
@@ -164,7 +164,7 @@ Having no truth in whose name to reform the established order, the skeptic regul
 
 To locate the sacred in immanence or transcendence presupposes a thesis on the nature of the divine, which Sextus precisely suspends (see GOD_EXISTENCE). He follows worship by custom without deciding anything about the nature of what he honors.
 
-### [Nature of mind and reality](../axes/reality-nature.md)
+### [Nature of reality](../axes/reality-nature.md)
 
 *not applicable*
 

@@ -64,7 +64,7 @@ The criterion is drawn from the very nature of the living being: from birth, eve
 
 *positioned · explicit in the texts · major*
 
-Death is nothing 100%
+Freeing ourselves from the fear 100%
 
 The argument rests on two premises drawn from physics: all good and evil reside in sensation, and death, the dissolution of the soul's atoms, is precisely the total privation of sensation. It follows that death can be an evil for no one, since the subject who would suffer it never coexists with it: “while we are, it is not present; when it is present, we are no more”. The fear of dying therefore targets a nothingness, and to dread a state in which one will not be is as empty as grieving over the time before one's birth. This reasoning, the second plank of the [tetrapharmakos](../glossary/tetrapharmakos.md), removes the object of the anxiety that, on Epicurus' view, poisons the whole of life.
 
@@ -94,7 +94,7 @@ Suffering has no redemptive value: it is the very evil that the whole of Epicure
 
 *Sources : Principal Doctrines, IV (pain does not last continuously in the flesh) · Diogenes Laertius, Lives, X, 118 (the sage happy even amid torments)*
 
-### [Nature of mind and reality](../axes/reality-nature.md)
+### [Nature of reality](../axes/reality-nature.md)
 
 *positioned · explicit in the texts · major*
 
@@ -174,7 +174,7 @@ Although pleasure is the good, Epicurus advocates a measured sobriety: the highe
 
 *positioned · inferable · minor*
 
-Intellectualism 70% · Sentimentalism 30%
+The primacy of reason 70% · The primacy of feeling 30%
 
 The troubles of the soul, above all the fears of the gods and of death, arise from false opinions about nature: it is therefore exact knowledge of physics that cures anxiety. “Empty is the word of the philosopher that heals no human suffering”: the therapy of the passions proceeds through reasoning and an understanding of the limits of desire, which marks an intellectualist leaning.
 
@@ -300,7 +300,7 @@ The debate between techno-optimism and techno-criticism presupposes modern indus
 
 *positioned · inferable · minor*
 
-Argument from evil (atheism) 95% · Revolt / anti-theodicy 5%
+Evil refutes God 95% · Unjustifiable evil 5%
 
 The so-called Epicurean dilemma, transmitted by Lactantius, concludes that a God at once good and all-powerful is incompatible with the existence of evil: either he wishes to prevent it and cannot, or he can and will not. For Epicurus, the blessed gods do not meddle with the world.
 
@@ -317,6 +317,16 @@ The Epicurean sage seeks neither passion nor the ecstasy of union, but [friendsh
 > “Of all the things that wisdom provides for the happiness of a whole life, by far the greatest is the possession of friendship.”, Principal Doctrines, XXVII
 
 *Sources : Principal Doctrines, XXVII · Vatican Sayings, 23, 34 and 52*
+
+### [The value of truth](../axes/truth-value.md)
+
+*positioned · explicit in the texts · minor*
+
+The primacy of truth 60% · Vital illusions 40%
+
+The knowledge of nature has a therapeutic office: to dissolve the terrors of the gods, of death and of the heavens; without these fears, he says, we would have no need of natural science. Truth is worth what it cures, neither a cult of knowledge nor a consoling illusion: the gods exist but do not concern themselves with us, and it is that very truth which brings peace.
+
+*Sources : Principal Doctrines, XI-XII*
 
 ## Influence on
 

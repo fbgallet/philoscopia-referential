@@ -43,9 +43,9 @@ Meursault simply declares that he does not believe in God and holds the question
 
 *positioned · explicit in the texts · major*
 
-**Declared** : Presentism 80% · Project 10% · Memory and transmission 10%
+**Declared** : Living in the present 80% · Project 10% · Memory and transmission 10%
 
-**Practiced** : Presentism 80% · Memory and transmission 15% · Project 5%
+**Practiced** : Living in the present 80% · Memory and transmission 15% · Project 5%
 
 Everything that occupies and fulfills Meursault holds within the instant of sensation: swimming with Marie, the cigarette smoked beside the coffin, the Sunday spent watching the street from the balcony. When his boss offers him a post in Paris, he declines it with no project or ambition, judging that one never really changes one's life. Deprived of that present, he uses memory only to kill time, a sign that he had lived until then with no recourse to any future or any past.
 
@@ -65,7 +65,7 @@ When Marie asks whether he loves her, Meursault simply answers that he probably 
 
 *positioned · inferable · minor*
 
-**Practiced** : Sentimentalism 70% · Intellectualism 30%
+**Practiced** : The primacy of feeling 70% · The primacy of reason 30%
 
 His conduct is never governed by rational deliberation but by bodily states: fatigue at the funeral, the sun and heat that overwhelm his conduct on the beach. He reports his affects without mastering or judging them, yet he grants them no moral truth either: a de facto, sensory sentimentalism, never claimed as a doctrine.
 
@@ -75,9 +75,9 @@ His conduct is never governed by rational deliberation but by bodily states: fat
 
 *positioned · explicit in the texts · major*
 
-**Declared** : Death is nothing 60% · Being-toward-death 40%
+**Declared** : Freeing ourselves from the fear 60% · Living in view of one's death 40%
 
-**Practiced** : Death is nothing 60% · Being-toward-death 40%
+**Practiced** : Freeing ourselves from the fear 60% · Living in view of one's death 40%
 
 <spo>In his cell, Meursault tames his death: since everyone is condemned, dying at thirty or at seventy matters little, and he dismisses any afterlife, wishing only for a life in which he could remember this one. This lucid confrontation with execution, far from breaking him, makes him open to the happiness of having lived.</spo>
 

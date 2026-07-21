@@ -8,7 +8,7 @@ An Athenian born into an aristocratic family, a disciple of Socrates whose execu
 
 ## Core positions
 
-1. [Nature of mind and reality](../axes/reality-nature.md) : **The sensible world is not what is truly real: behind it exist intelligible [Forms](../glossary/theory-of-forms.md), eternal and unchanging, of which things are only imperfect copies.**
+1. [Nature of reality](../axes/reality-nature.md) : **The sensible world is not what is truly real: behind it exist intelligible [Forms](../glossary/theory-of-forms.md), eternal and unchanging, of which things are only imperfect copies.**
 2. [Source of knowledge](../axes/knowledge-source.md) : **To learn is to recollect: through [anamnesis](../glossary/anamnesis.md), the soul recovers the Forms it contemplated before birth, not by the senses but by reason.**
 3. [Who should decide](../axes/who-decides.md) : **Governing is a knowledge, not a matter of opinion: until philosophers become kings, cities will not cease from their ills.**
 4. [Death](../axes/death.md) : **The soul is immortal: death is no annihilation but its separation from the body, and to philosophize rightly is to practise dying.**
@@ -48,7 +48,7 @@ Plato is one of the major sources of essentialism: each sensible thing is what i
 
 *Sources : Phaedo, 74a-75d · Republic, V, 476a-480a*
 
-### [Nature of mind and reality](../axes/reality-nature.md)
+### [Nature of reality](../axes/reality-nature.md)
 
 *positioned · explicit in the texts · major*
 
@@ -128,7 +128,7 @@ The *[Timaeus](../works/timaeus-plato.md)* presents a **Demiurge**, a good craft
 
 *positioned · explicit in the texts · major*
 
-Immortalism 100%
+Preparing for the passage 100%
 
 The *[Phaedo](../works/phaedo-plato.md)* does not posit survival, it argues for it, through four linked proofs: the generation of opposites, [recollection](../glossary/anamnesis.md) which presupposes knowledge prior to birth, the soul's affinity with the simple and indestructible intelligible, and finally the essence argument, the soul that carries life within it being unable to admit its contrary. The reasoning rests on the [dualism](../axes/self-nature.md) of soul and body: what is simple does not decompose, hence does not perish. Death then ceases to be annihilation and becomes the soul's passage toward the intelligible, and philosophy itself, as detachment from the body, is its anticipated rehearsal.
 
@@ -220,7 +220,7 @@ Against the relativism of Protagoras, for whom "man is the measure of all things
 
 *positioned · explicit in the texts · major*
 
-Intellectualism 90% · Sentimentalism 10%
+The primacy of reason 90% · The primacy of feeling 10%
 
 The [soul is tripartite](../glossary/tripartite-soul.md) and reason must govern it: the image of the **winged chariot** in the *[Phaedrus](../works/phaedrus-plato.md)* shows the charioteer (intellect) mastering the obedient horse (spirit) and the unruly horse (appetite). The passions are not guides but forces to be disciplined and ordered under the command of logos.
 
@@ -361,6 +361,16 @@ The body as instrument 95% · The lived body 5%
 In the Phaedo, the body is the tomb of the soul: it hinders it, deceives it through the senses and turns it away from the contemplation of truth. The philosopher practises dying, that is, separating soul from body. The true self is the soul.
 
 *Sources : Phaedo, 64a-67b*
+
+### [The value of truth](../axes/truth-value.md)
+
+*positioned · explicit in the texts · major*
+
+The primacy of truth 90% · Vital illusions 10%
+
+Leaving the cave is painful, blinding, and yet the only liberation: to stay among the shadows is to take reflections for reality and live in chains without knowing it; knowing is not an ornament of happiness but the conversion of the whole soul toward what is. Yet the philosopher-king administers a noble lie to the city: the primacy of truth holds first for the soul being educated, and Plato accepts that the common order may itself rest on a myth.
+
+*Sources : Republic, VII · Republic, III*
 
 ## Influenced by
 

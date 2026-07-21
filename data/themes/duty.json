@@ -1,0 +1,28 @@
+{
+  "id": "duty",
+  "label": {
+    "fr": "Le devoir",
+    "en": "Duty"
+  },
+  "aliases": {
+    "fr": [
+      "devoir",
+      "obligation",
+      "obligation morale",
+      "ce qu'il faut faire"
+    ],
+    "en": [
+      "duty",
+      "obligation",
+      "moral obligation",
+      "what one ought to do"
+    ]
+  },
+  "axes": [
+    "ETHICS_FOUNDATION",
+    "MORAL_DEMAND",
+    "MORAL_SOURCE",
+    "MORAL_SCOPE",
+    "PARTIALITY"
+  ]
+}

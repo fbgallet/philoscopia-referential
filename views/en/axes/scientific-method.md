@@ -2,33 +2,34 @@
 
 # Scientific method
 
-**How does science establish its truths?**
+**How does science go about justifying its claims?**
 
 *Truth · descriptive (theory) · triangular*
 
-Science commands trust, but how exactly does it ground its results: by generalising from observation, by exposing itself to refutation, or by computing probabilities? What we expect of scientific proof, and what separates science from mere belief, depends on it.
+Science commands trust, but how exactly does it justify its claims: by proving them through experience, by exposing them to refutation, or by computing their probability? What we expect of scientific proof, and what separates science from mere belief, depends on it.
 
 ## Poles
 
-### Inductivism
+### Proof by experience
 
-Science starts from facts: by observing repeated regularities, we draw general laws. The accumulation of agreeing observations confirms a hypothesis and grounds our knowledge of nature.
+Experience has the power to prove: a well-conducted observation, a rigorous experiment can establish a law or confirm a hypothesis. It is by accumulating positive evidence that science gains in certainty; experience is not merely a source of ideas, it is the tribunal that validates them.
 
-- Bacon advocates an experimental, eliminative induction, not mere generalization by enumeration.
+- Proof proceeds by induction: Bacon advocates an experimental, eliminative induction, not mere generalization by enumeration, and Mill codifies its methods (agreement, difference).
 
 *[Bacon](../philosophers/bacon.md) · [Mill](../philosophers/mill.md)*
 
-### Falsificationism
+### Refutation
 
 A theory is never proven, only refuted. A hypothesis is scientific if it exposes itself to an experiment that could disprove it; as long as it withstands them, it is corroborated, never established once and for all.
 
 *[Popper](../philosophers/popper.md)*
 
-### Bayesianism
+### The calculus of probabilities
 
 To know is to adjust degrees of belief. Each observation revises the probability of a hypothesis by Bayes' theorem: evidence does not prove, it makes more or less probable, starting from what one already believed.
 
 - Carnap's logical probability is a precursor to Bayesianism rather than subjective Bayesianism proper.
+- Bayesianism often means to be less a rival than an encompassing framework: it reconstructs confirmation as a rise in probability and refutation as the limiting case of a disconfirmation that drives it down.
 
 *[Ramsey](../philosophers/ramsey.md) · [Carnap](../philosophers/carnap.md)*
 
@@ -41,11 +42,14 @@ To know is to adjust degrees of belief. Each observation revises the probability
 - **What confirms a hypothesis?** : "All ravens are black" is equivalent to "everything non-black is a non-raven", which a green apple would then confirm, without one's having seen a single raven. And the same past observations equally support incompatible predictions. What, exactly, does a piece of evidence confirm, and by how much?
 - **From observed to unobserved** : A general law extends to all cases what has been established of only a few: that the sun has always risen does not prove it will rise tomorrow, for nothing guarantees that the unobserved will behave like the observed, nor the future like the past. No accumulation of evidence fills this gap: it is the challenge each method must meet in its own way.
 - **Science or pseudo-science?** : What separates a science from a doctrine that puts on its airs, astrology, a theory that nothing could belie? The question of demarcation extends that of method.
+- **One method, or many?** : Does the method that tests the laws of nature hold for history, society, the mind? To explain by causes, as in physics, or to understand meanings from within, as Dilthey and Weber would have it: do the human sciences have their own logic, or does a single method govern all knowledge?
+- **Is there a method at all?** : What if there were no universal rule of sound scientific reasoning? Feyerabend argues that the great discoveries often broke the canons of method, and that in science "anything goes": the logic reconstructed after the fact is not what actually advances knowledge.
+- **Science as it is actually done** : Does the philosophers' logic describe what laboratories actually do, the discussion, the consensus, peer review, the building of models and simulations? Or is the real method first a social practice, which the logical reconstruction idealizes after the fact?
 
 ## Grounding relations
 
-- *[Source of knowledge](../axes/knowledge-source.md) : Empiricism* grounds *[Scientific method](../axes/scientific-method.md) : Inductivism* : If all knowledge comes from experience, science must start from facts and rise, by observing repeated regularities, to general laws. Empiricism grounds inductivism: from Bacon to [Mill](../philosophers/mill.md), it is the methodical accumulation of observations that establishes our knowledge of nature.
-- *[Status of knowledge](../axes/knowledge-status.md) : Scientific realism* grounds *[Scientific method](../axes/scientific-method.md) : Falsificationism* : If science aims at a truth it never attains with certainty, then it advances not by proving its theories but by exposing them to what could refute them. Scientific realism supports falsificationism: [Popper](../philosophers/popper.md) holds a theory to be scientific precisely insofar as it takes the risk of being disproved.
+- *[Source of knowledge](../axes/knowledge-source.md) : Empiricism* grounds *[Scientific method](../axes/scientific-method.md) : Proof by experience* : If all knowledge comes from experience, then it falls to experience to prove: science starts from facts and confirms its laws through the methodical observation of regularities. Empiricism thus grounds the trust in experimental proof, from Bacon to [Mill](../philosophers/mill.md), for whom the accumulation of observations establishes our knowledge of nature.
+- *[Status of knowledge](../axes/knowledge-status.md) : Scientific realism* grounds *[Scientific method](../axes/scientific-method.md) : Refutation* : If science aims at a truth it never attains with certainty, then it advances not by proving its theories but by exposing them to what could refute them. Scientific realism supports falsificationism: [Popper](../philosophers/popper.md) holds a theory to be scientific precisely insofar as it takes the risk of being disproved.
 
 ## Quotations
 

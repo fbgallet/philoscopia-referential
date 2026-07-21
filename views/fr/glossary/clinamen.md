@@ -8,7 +8,7 @@ Le clinamen est l'infime écart par lequel les atomes, dans leur chute, dévient
 
 **Porte une position vers** : [Liberté de la volonté](../axes/freedom.md) : Libre arbitre
 
-**En jeu dans** : [Liberté de la volonté](../axes/freedom.md) · [Explication de la nature](../axes/causality.md) · [Nature de l'esprit et du réel](../axes/reality-nature.md)
+**En jeu dans** : [Liberté de la volonté](../axes/freedom.md) · [Explication de la nature](../axes/causality.md) · [Nature du réel](../axes/reality-nature.md)
 
 **Voir aussi** : [Libre arbitre](../glossary/free-will.md) · [Déterminisme](../glossary/determinism.md)
 

@@ -8,7 +8,7 @@ Poète et philosophe romain du Ier siècle av. J.-C., dont on ne sait presque ri
 
 ## Positions structurantes
 
-1. [Nature de l'esprit et du réel](../axes/reality-nature.md) : **Il n'existe que des atomes et du vide : rien ne naît du néant ni n'y retourne, et tout le réel, jusqu'à l'âme, n'est que matière en mouvement.**
+1. [Nature du réel](../axes/reality-nature.md) : **Il n'existe que des atomes et du vide : rien ne naît du néant ni n'y retourne, et tout le réel, jusqu'à l'âme, n'est que matière en mouvement.**
 2. [La mort](../axes/death.md) : **La [mort](../axes/death.md) n'est rien pour nous : l'âme se dissout avec le corps, et craindre le néant d'après la mort est aussi vain que de pleurer celui d'avant la naissance.**
 3. [Existence de Dieu](../axes/god-existence.md) : **Les dieux existent, paisibles dans les [intermondes](../glossary/intermundia.md), mais ne gouvernent rien : « tant la religion put conseiller de crimes », et c'est d'elle, non des dieux, qu'il faut se délivrer.**
 4. [Liberté de la volonté](../axes/freedom.md) : **Un atome peut dévier sans cause de sa chute, le [clinamen](../glossary/clinamen.md) : ce grain d'indétermination brise la chaîne du destin et sauve la « volonté arrachée aux destins ».**
@@ -16,7 +16,7 @@ Poète et philosophe romain du Ier siècle av. J.-C., dont on ne sait presque ri
 
 ## Positions
 
-### [Nature de l'esprit et du réel](../axes/reality-nature.md)
+### [Nature du réel](../axes/reality-nature.md)
 
 *positionné · explicite dans les textes · majeure*
 
@@ -78,7 +78,7 @@ Lucrèce ne nie pas l'existence des dieux : faits d'atomes subtils, ils mènent 
 
 *positionné · inférable · majeure*
 
-Argument du mal (athéisme) 85% · Révolte / anti-théodicie 15%
+Le mal réfute Dieu 85% · Le mal injustifiable 15%
 
 Lucrèce ne raisonne pas sur un Dieu bon et tout-puissant, mais retourne l'argument du dessein : si le monde avait été fait pour nous par des dieux, il ne serait pas si « gravement vicié ». Or la plus grande part du globe est dévorée par les montagnes, les forêts et les mers, le climat afflige les hommes, la terre se refuse au labeur, les bêtes féroces et les maladies les frappent, et le nouveau-né est jeté nu, vagissant, sur le rivage de la vie. Tant de défauts prouvent que la nature n'est l'œuvre d'aucune providence : c'est moins une théodicée qu'une [preuve par le mal](../axes/problem-of-evil.md) de l'absence de dessein divin.
 
@@ -88,7 +88,7 @@ Lucrèce ne raisonne pas sur un Dieu bon et tout-puissant, mais retourne l'argum
 
 *positionné · explicite dans les textes · majeure*
 
-La mort n'est rien 100%
+Se libérer de la crainte 100%
 
 Puisque l'âme est corporelle et naît, croît et vieillit avec le corps, elle se dissout avec lui : tout sentir cesse alors, et un sujet qui n'est plus ne peut éprouver aucun mal. « La mort n'est donc rien pour nous », conclusion qu'Épicure tenait déjà ; mais Lucrèce y consacre tout le livre III et en fait une longue consolation, multipliant les preuves de la mortalité de l'âme et l'argument de la symétrie : nous ne nous affligeons pas du néant d'avant notre naissance, pourquoi craindre celui d'après notre mort, qui lui ressemble en tout ? Vouloir survivre est se contredire, car le mort n'aura plus de manque ni de regret. La consolation s'élargit à une réplique à la nature elle-même, qui reproche aux vivants leur ingratitude et leur soif de durer.
 
@@ -212,7 +212,7 @@ La souffrance n'a aucune valeur rédemptrice : elle est le mal même que tout le
 
 *positionné · inférable · mineure*
 
-Intellectualisme 75% · Sentimentalisme 25%
+Primauté de la raison 75% · Le primat du sentiment 25%
 
 Les passions qui rongent l'âme, terreurs des enfers, soif d'honneurs, fureur de l'amour, naissent d'opinions fausses sur la nature des choses : c'est donc la connaissance, non l'exhortation, qui les apaise. « Cette terreur de l'âme, ces ténèbres, ce n'est ni le soleil ni le jour qui peuvent les dissiper, mais l'aspect et la loi de la nature. » La thérapie passe par la lumière du savoir physique, ce qui marque une nette pente intellectualiste, dont témoigne aussi la fameuse analyse démystifiante de la passion amoureuse au livre IV.
 
@@ -273,6 +273,16 @@ La poursuite des honneurs et du pouvoir, qui jette les hommes les uns contre les
 *non applicable*
 
 La question de l'esprit des machines suppose des débats étrangers à l'Antiquité ; Lucrèce n'a aucune position sur ce problème contemporain.
+
+### [Valeur de la vérité](../axes/truth-value.md)
+
+*positionné · explicite dans les textes · mineure*
+
+Primauté de la vérité 65% · Illusions vitales 35%
+
+Connaître les causes délivre de la religio et de la peur de la mort : voilà le cœur épicurien. Mais Lucrèce ajoute un aveu sur la manière : comme le médecin borde de miel la coupe d'absinthe, il enduit de poésie une doctrine austère, la douceur au service du vrai, jamais à sa place.
+
+*Sources : De la nature des choses, I et IV*
 
 ## Influencé par
 

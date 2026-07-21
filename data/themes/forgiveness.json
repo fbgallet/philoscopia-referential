@@ -1,0 +1,26 @@
+{
+  "id": "forgiveness",
+  "label": {
+    "fr": "Le pardon",
+    "en": "Forgiveness"
+  },
+  "aliases": {
+    "fr": [
+      "pardon",
+      "pardonner",
+      "vengeance",
+      "rancune"
+    ],
+    "en": [
+      "forgiveness",
+      "forgiving",
+      "revenge",
+      "resentment"
+    ]
+  },
+  "axes": [
+    "FORGIVENESS",
+    "PUNISHMENT",
+    "VIOLENCE"
+  ]
+}

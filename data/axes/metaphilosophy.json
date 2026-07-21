@@ -14,6 +14,22 @@
     "fr": "Quiconque ouvre un livre de philosophie en attend quelque chose : comprendre enfin le monde, changer la société, apprendre à mieux vivre, ou se défaire des questions mal posées, quand une opinion répandue ne la juge pas tout simplement inutile, dépassée par les sciences. Les philosophes eux-mêmes n'ont cessé de se disputer leur propre vocation ; ce site, qui vous invite à élaborer votre vision du monde, prend lui-même position dans ce débat.",
     "en": "Anyone who opens a book of philosophy expects something from it: finally understanding the world, changing society, learning to live better, or shedding badly posed questions — when a widespread opinion does not simply deem it useless, superseded by the sciences. Philosophers themselves have never stopped quarreling over their own vocation; this site, which invites you to build your own worldview, itself takes a stand in that debate."
   },
+  "aliases": {
+    "fr": [
+      "philosophie",
+      "à quoi sert la philosophie",
+      "sagesse",
+      "penser",
+      "métaphilosophie"
+    ],
+    "en": [
+      "philosophy",
+      "what is philosophy for",
+      "wisdom",
+      "thinking",
+      "metaphilosophy"
+    ]
+  },
   "layer": "VALUE",
   "type": "CATEGORICAL",
   "poles": [
@@ -142,15 +158,49 @@
       "relation": "SUBPROBLEM",
       "sphere": "EXISTENTIAL",
       "keywords": [
-        { "fr": "savoir désintéressé", "en": "disinterested knowledge" },
-        { "fr": "Thalès et le puits", "en": "Thales and the well" },
-        { "fr": "éloge de l'inutile", "en": "in praise of the useless" }
+        {
+          "fr": "savoir désintéressé",
+          "en": "disinterested knowledge"
+        },
+        {
+          "fr": "Thalès et le puits",
+          "en": "Thales and the well"
+        },
+        {
+          "fr": "éloge de l'inutile",
+          "en": "in praise of the useless"
+        }
       ],
-      "poles": ["CONTEMPLATION", "WORLD_TRANSFORMATION", "SELF_TRANSFORMATION", "CLARIFICATION"],
+      "poles": [
+        "CONTEMPLATION",
+        "WORLD_TRANSFORMATION",
+        "SELF_TRANSFORMATION",
+        "CLARIFICATION"
+      ],
       "anchors": [
-        { "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" },
-        { "name": { "fr": "Calliclès", "en": "Callicles" }, "kind": "PHILOSOPHER" },
-        { "name": { "fr": "Hadot", "en": "Hadot" }, "kind": "PHILOSOPHER", "slug": "hadot" }
+        {
+          "name": {
+            "fr": "Aristote",
+            "en": "Aristotle"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "aristotle"
+        },
+        {
+          "name": {
+            "fr": "Calliclès",
+            "en": "Callicles"
+          },
+          "kind": "PHILOSOPHER"
+        },
+        {
+          "name": {
+            "fr": "Hadot",
+            "en": "Hadot"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "hadot"
+        }
       ],
       "title": {
         "fr": "À quoi bon ?",
@@ -173,17 +223,54 @@
       "relation": "SUBPROBLEM",
       "sphere": "POLITICAL",
       "keywords": [
-        { "fr": "onzième thèse sur Feuerbach", "en": "eleventh thesis on Feuerbach" },
-        { "fr": "chouette de Minerve", "en": "owl of Minerva" },
-        { "fr": "engagement", "en": "commitment" }
+        {
+          "fr": "onzième thèse sur Feuerbach",
+          "en": "eleventh thesis on Feuerbach"
+        },
+        {
+          "fr": "chouette de Minerve",
+          "en": "owl of Minerva"
+        },
+        {
+          "fr": "engagement",
+          "en": "commitment"
+        }
       ],
-      "poles": ["CONTEMPLATION", "WORLD_TRANSFORMATION"],
+      "poles": [
+        "CONTEMPLATION",
+        "WORLD_TRANSFORMATION"
+      ],
       "anchors": [
-        { "name": { "fr": "Marx", "en": "Marx" }, "kind": "PHILOSOPHER", "slug": "marx" },
-        { "name": { "fr": "Sartre", "en": "Sartre" }, "kind": "PHILOSOPHER", "slug": "sartre" },
-        { "name": { "fr": "Hegel", "en": "Hegel" }, "kind": "PHILOSOPHER", "slug": "hegel" }
+        {
+          "name": {
+            "fr": "Marx",
+            "en": "Marx"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "marx"
+        },
+        {
+          "name": {
+            "fr": "Sartre",
+            "en": "Sartre"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "sartre"
+        },
+        {
+          "name": {
+            "fr": "Hegel",
+            "en": "Hegel"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "hegel"
+        }
       ],
-      "doorways": [{ "axis": "HISTORY_MEANING" }],
+      "doorways": [
+        {
+          "axis": "HISTORY_MEANING"
+        }
+      ],
       "title": {
         "fr": "Comprendre ou transformer",
         "en": "Understanding or transforming"
@@ -205,16 +292,51 @@
       "relation": "SUBPROBLEM",
       "sphere": "EXISTENTIAL",
       "keywords": [
-        { "fr": "exercices spirituels", "en": "spiritual exercises" },
-        { "fr": "philosophie comme art de vivre", "en": "philosophy as an art of living" }
+        {
+          "fr": "exercices spirituels",
+          "en": "spiritual exercises"
+        },
+        {
+          "fr": "philosophie comme art de vivre",
+          "en": "philosophy as an art of living"
+        }
       ],
-      "poles": ["SELF_TRANSFORMATION", "CONTEMPLATION", "CLARIFICATION"],
+      "poles": [
+        "SELF_TRANSFORMATION",
+        "CONTEMPLATION",
+        "CLARIFICATION"
+      ],
       "anchors": [
-        { "name": { "fr": "Hadot", "en": "Hadot" }, "kind": "PHILOSOPHER", "slug": "hadot" },
-        { "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" },
-        { "name": { "fr": "les stoïciens", "en": "the Stoics" }, "kind": "MOVEMENT", "slug": "stoicism" }
+        {
+          "name": {
+            "fr": "Hadot",
+            "en": "Hadot"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "hadot"
+        },
+        {
+          "name": {
+            "fr": "Nietzsche",
+            "en": "Nietzsche"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "nietzsche"
+        },
+        {
+          "name": {
+            "fr": "les stoïciens",
+            "en": "the Stoics"
+          },
+          "kind": "MOVEMENT",
+          "slug": "stoicism"
+        }
       ],
-      "doorways": [{ "axis": "SOVEREIGN_GOOD" }],
+      "doorways": [
+        {
+          "axis": "SOVEREIGN_GOOD"
+        }
+      ],
       "title": {
         "fr": "Discours ou manière de vivre",
         "en": "Discourse or a way of life"
@@ -235,16 +357,44 @@
       "mode": "DESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "faux problèmes", "en": "pseudo-problems" },
-        { "fr": "nœuds de langage", "en": "knots of language" },
-        { "fr": "dissoudre plutôt que résoudre", "en": "dissolve rather than solve" }
+        {
+          "fr": "faux problèmes",
+          "en": "pseudo-problems"
+        },
+        {
+          "fr": "nœuds de langage",
+          "en": "knots of language"
+        },
+        {
+          "fr": "dissoudre plutôt que résoudre",
+          "en": "dissolve rather than solve"
+        }
       ],
-      "poles": ["CLARIFICATION"],
+      "poles": [
+        "CLARIFICATION"
+      ],
       "anchors": [
-        { "name": { "fr": "Wittgenstein", "en": "Wittgenstein" }, "kind": "PHILOSOPHER", "slug": "wittgenstein" },
-        { "name": { "fr": "Carnap", "en": "Carnap" }, "kind": "PHILOSOPHER" }
+        {
+          "name": {
+            "fr": "Wittgenstein",
+            "en": "Wittgenstein"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "wittgenstein"
+        },
+        {
+          "name": {
+            "fr": "Carnap",
+            "en": "Carnap"
+          },
+          "kind": "PHILOSOPHER"
+        }
       ],
-      "doorways": [{ "axis": "MEANING" }],
+      "doorways": [
+        {
+          "axis": "MEANING"
+        }
+      ],
       "title": {
         "fr": "Vrais problèmes ou confusions",
         "en": "Real problems or confusions"
@@ -265,15 +415,49 @@
       "mode": "DESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "champ de bataille de la métaphysique", "en": "battlefield of metaphysics" },
-        { "fr": "questions perennes", "en": "perennial questions" },
-        { "fr": "absence de résultats", "en": "absence of results" }
+        {
+          "fr": "champ de bataille de la métaphysique",
+          "en": "battlefield of metaphysics"
+        },
+        {
+          "fr": "questions perennes",
+          "en": "perennial questions"
+        },
+        {
+          "fr": "absence de résultats",
+          "en": "absence of results"
+        }
       ],
-      "poles": ["CONTEMPLATION", "WORLD_TRANSFORMATION", "SELF_TRANSFORMATION", "CLARIFICATION"],
+      "poles": [
+        "CONTEMPLATION",
+        "WORLD_TRANSFORMATION",
+        "SELF_TRANSFORMATION",
+        "CLARIFICATION"
+      ],
       "anchors": [
-        { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" },
-        { "name": { "fr": "Wittgenstein", "en": "Wittgenstein" }, "kind": "PHILOSOPHER", "slug": "wittgenstein" },
-        { "name": { "fr": "Jaspers", "en": "Jaspers" }, "kind": "PHILOSOPHER" }
+        {
+          "name": {
+            "fr": "Kant",
+            "en": "Kant"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "kant"
+        },
+        {
+          "name": {
+            "fr": "Wittgenstein",
+            "en": "Wittgenstein"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "wittgenstein"
+        },
+        {
+          "name": {
+            "fr": "Jaspers",
+            "en": "Jaspers"
+          },
+          "kind": "PHILOSOPHER"
+        }
       ],
       "title": {
         "fr": "La philosophie avance-t-elle ?",
@@ -295,15 +479,40 @@
       "mode": "DESCRIPTIVE",
       "relation": "RELATED",
       "keywords": [
-        { "fr": "loi des trois états", "en": "law of three stages" },
-        { "fr": "épistémologie naturalisée", "en": "naturalized epistemology" }
+        {
+          "fr": "loi des trois états",
+          "en": "law of three stages"
+        },
+        {
+          "fr": "épistémologie naturalisée",
+          "en": "naturalized epistemology"
+        }
       ],
-      "poles": ["CONTEMPLATION"],
+      "poles": [
+        "CONTEMPLATION"
+      ],
       "anchors": [
-        { "name": { "fr": "Comte", "en": "Comte" }, "kind": "PHILOSOPHER", "slug": "comte" },
-        { "name": { "fr": "Quine", "en": "Quine" }, "kind": "PHILOSOPHER" }
+        {
+          "name": {
+            "fr": "Comte",
+            "en": "Comte"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "comte"
+        },
+        {
+          "name": {
+            "fr": "Quine",
+            "en": "Quine"
+          },
+          "kind": "PHILOSOPHER"
+        }
       ],
-      "doorways": [{ "axis": "SCIENCE_PLACE" }],
+      "doorways": [
+        {
+          "axis": "SCIENCE_PLACE"
+        }
+      ],
       "title": {
         "fr": "La philosophie et les sciences",
         "en": "Philosophy and the sciences"
@@ -325,14 +534,44 @@
       "relation": "SUBPROBLEM",
       "sphere": "EXISTENTIAL",
       "keywords": [
-        { "fr": "vie examinée", "en": "the examined life" },
-        { "fr": "ose savoir", "en": "dare to know" },
-        { "fr": "ésotérisme", "en": "esotericism" }
+        {
+          "fr": "vie examinée",
+          "en": "the examined life"
+        },
+        {
+          "fr": "ose savoir",
+          "en": "dare to know"
+        },
+        {
+          "fr": "ésotérisme",
+          "en": "esotericism"
+        }
       ],
       "anchors": [
-        { "name": { "fr": "Socrate", "en": "Socrates" }, "kind": "PHILOSOPHER", "slug": "socrates" },
-        { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" },
-        { "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" }
+        {
+          "name": {
+            "fr": "Socrate",
+            "en": "Socrates"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "socrates"
+        },
+        {
+          "name": {
+            "fr": "Kant",
+            "en": "Kant"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "kant"
+        },
+        {
+          "name": {
+            "fr": "Nietzsche",
+            "en": "Nietzsche"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "nietzsche"
+        }
       ],
       "title": {
         "fr": "Pour tous ou pour quelques-uns",

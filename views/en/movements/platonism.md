@@ -11,7 +11,7 @@ A tradition issuing from the Academy, the school [Plato](../philosophers/plato.m
 ## Core positions
 
 1. [Universals](../axes/universals.md) : **The Beautiful, the Just, the Circle exist in themselves, separate from the things that imitate them: these [Forms](../glossary/theory-of-forms.md) are more real than the sensible, not mere names nor forms immanent in things.**
-2. [Nature of mind and reality](../axes/reality-nature.md) : **The sensible world is but the shadow of the intelligible world: what we take for reality is only a play of copies, and the philosopher alone leaves the cave for the light of the Forms.**
+2. [Nature of reality](../axes/reality-nature.md) : **The sensible world is but the shadow of the intelligible world: what we take for reality is only a play of copies, and the philosopher alone leaves the cave for the light of the Forms.**
 3. [Source of knowledge](../axes/knowledge-source.md) : **To know is not to gather sensations but to recollect: through [recollection](../glossary/anamnesis.md), the soul recovers within itself the Forms it contemplated before birth.**
 4. [Where the sacred resides](../axes/transcendence.md) : **The supreme principle, the Good then the One, stands [beyond being and essence](../glossary/transcendence.md): source of all reality, it is itself none of the things of which it is the cause.**
 5. [Being or having a body](../axes/embodiment.md) : **The immortal soul, akin to the Forms, is the true self; the body is but a tomb from which one must loosen oneself to contemplate truth.**
@@ -48,7 +48,7 @@ The priority of essence follows from the separation of the Forms: if the Form ex
 
 *Sources : Plato, Republic, books VI-VII · Plato, Phaedo, 100b-102a*
 
-### [Nature of mind and reality](../axes/reality-nature.md)
+### [Nature of reality](../axes/reality-nature.md)
 
 *positioned · explicit in the texts · major*
 
@@ -128,7 +128,7 @@ Platonic eros is desire born of lack: child of Poros and Penia, it seeks to poss
 
 *positioned · explicit in the texts · minor*
 
-Immortalism 100%
+Preparing for the passage 100%
 
 Platonism affirms the immortality of the soul, argued in the *[Phaedo](../works/phaedo-plato.md)* from its kinship with the Forms and its simple, indissoluble nature. Death is but the separation of soul and body, and the philosopher rehearses it throughout his life.
 
@@ -178,7 +178,7 @@ Against the relativism of the sophists, for whom man is the measure of all thing
 
 *positioned · explicit in the texts · minor*
 
-Intellectualism 88% · Sentimentalism 13%
+The primacy of reason 88% · The primacy of feeling 13%
 
 Platonism is intellectualist (the doctrine that subordinates the passions to reason and makes knowledge the condition of acting well): in the image of the winged chariot, a figure of the [tripartite soul](../glossary/tripartite-soul.md), reason is the charioteer who must guide and master the two horses, spirit and appetite. The passions are not evil in themselves, but they have worth only when disciplined and subjected to the rule of reason.
 
@@ -264,7 +264,7 @@ The argument from kinship draws its conclusion from the metaphysics of the Forms
 
 *Sources : Plato, Phaedo*
 
-### [Nature of consciousness](../axes/consciousness-nature.md)
+### [The enigma of consciousness](../axes/consciousness-nature.md)
 
 *positioned · explicit in the texts · major*
 

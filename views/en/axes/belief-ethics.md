@@ -6,7 +6,7 @@
 
 *Truth · value · bipolar*
 
-Demanding proof for everything guards against error, but leaves us in doubt just where we must nonetheless believe in order to love, commit, or hope. To take a position is to say whether believing without guarantee is an offence against reason or a necessity of life.
+To believe commits us: the shipowner who talked himself into trusting, without proof, that his vessel would hold answers for the wreck, for he had no right to believe it. Must we then proportion every belief to the evidence, or are there cases, friendship, commitment, faith, where refusing to believe for want of a guarantee would itself be a fault? To take a position is to say what we owe to evidence when we form our beliefs, and what we are accountable for in holding them.
 
 ## Poles
 
@@ -38,7 +38,7 @@ When the evidence is inconclusive and the stakes are vital, we have the right, s
 
 ## Related axes
 
-[Relation to certainty](../axes/certainty.md) · [Faith and reason](../axes/faith-reason.md) · [Existence of God](../axes/god-existence.md) · [The highest good](../axes/sovereign-good.md) · [Justification of belief](../axes/epistemic-justification.md)
+[Relation to certainty](../axes/certainty.md) · [Faith and reason](../axes/faith-reason.md) · [Existence of God](../axes/god-existence.md) · [The highest good](../axes/sovereign-good.md) · [Justification of belief](../axes/epistemic-justification.md) · [The value of truth](../axes/truth-value.md)
 
 ---
 

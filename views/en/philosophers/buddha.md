@@ -125,7 +125,7 @@ Existence has an assignable end and a directed meaning: to be freed from sufferi
 
 *positioned · inferable · major*
 
-Intellectualism 75% · Sentimentalism 25%
+The primacy of reason 75% · The primacy of feeling 25%
 
 The ultimate root of suffering and afflictive emotions is ignorance (avidyā), the misapprehension of the impermanent, selfless nature of reality. The three poisons, greed, hatred, and delusion, dissolve through right view and penetrating understanding: it is by knowledge that affect is transformed, which gives the teaching an intellectualist leaning, tempered by the central role of meditative practice and the cultivation of the heart (mettā).
 
@@ -187,7 +187,7 @@ Gautama's teaching acknowledges no creator God, and release depends on no divine
 
 *positioned · inferable · minor*
 
-Immortalism 40% · Death is nothing 30% · Being-toward-death 30%
+Preparing for the passage 40% · Freeing ourselves from the fear 30% · Living in view of one's death 30%
 
 For the Buddha, death is neither the annihilation of a self (there is no permanent self, [anattā](../glossary/anatta.md)) nor the survival of a soul, but a passage within the cycle of rebirths governed by karma: a mere stage, yet one to be carefully prepared, since the dying person's state of mind orients the rebirth, and something continues without any soul remaining. A balanced position, until the liberation that alone halts the cycle.
 
@@ -212,6 +212,16 @@ Skepticism 60% · Dogmatism 40%
 Gautama urges not to believe on the strength of authority, tradition, or reasoning alone, but to test for oneself what leads to good and to peace: this is the famous counsel to the Kālāmas. This wariness toward dogmatic speculation and fixed "views", joined to the refusal to settle idle questions, marks a moderate critical reserve, without lapsing into thoroughgoing skepticism, since the path itself is held to be verifiable.
 
 *Sources : Kālāma Sutta, Aṅguttara Nikāya 3.65 (do not believe on authority alone) · Cūḷamālukya Sutta, Majjhima Nikāya 63 (the parable of the arrow, the undeclared questions)*
+
+### [The value of truth](../axes/truth-value.md)
+
+*positioned · explicit in the texts · major*
+
+The primacy of truth 80% · Vital illusions 20%
+
+At the root of suffering lies not a fault but a mistake: ignorance ([avidyā](../glossary/avidya.md)), which takes the impermanent for lasting and the selfless for a self. The path is a therapeutics of seeing, beholding things as they are; the teaching itself is only a raft, a means to be left behind once the far shore is reached.
+
+*Sources : Majjhima Nikāya (the raft parable)*
 
 ## Influence on
 

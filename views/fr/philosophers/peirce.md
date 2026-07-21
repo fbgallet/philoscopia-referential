@@ -66,7 +66,7 @@ Peirce attaque de front le [doute hyperbolique](../glossary/hyperbolic-doubt.md)
 
 *positionné · inférable · majeure*
 
-Inductivisme 70% · Bayésianisme 30%
+La preuve par l'expérience 70% · Le calcul des probabilités 30%
 
 Aucun des trois pôles ne capte exactement Peirce, qui a précisément ajouté une pièce manquante : l'[abduction](../glossary/abduction.md), l'inférence qui invente l'hypothèse, en amont de la déduction qui en tire les conséquences et de l'[induction](../glossary/induction.md) qui les met à l'épreuve. La science est pour lui ce cycle complet, non l'un de ses moments. On le range malgré tout du côté de l'inductivisme, car il reste un expérimentateur qui fonde tout sur l'épreuve des faits et fait de l'induction le test décisif ; mais il prétend en désamorcer le défaut, dénoncé par [Hume](../philosophers/hume.md), en faisant valoir qu'une induction répétée se corrige elle-même à la longue. Sa formation de statisticien lui donne aussi un versant probabiliste, attentif aux fréquences et à l'erreur, qui annonce le bayésianisme sans s'y réduire. Ce qui fait la science n'est pas une règle d'inférence unique mais l'autocorrection sur le long terme d'une [communauté](../glossary/community-of-inquiry.md) réglée sur le réel.
 
@@ -134,7 +134,7 @@ Le [synéchisme](../glossary/synechism.md), principe de continuité, commande ch
 
 *Sources : La loi de l'esprit (1892)*
 
-### [Nature de l'esprit et du réel](../axes/reality-nature.md)
+### [Nature du réel](../axes/reality-nature.md)
 
 *positionné · extrapolé · mineure*
 
@@ -153,6 +153,16 @@ Théisme 70% · Athéisme 30%
 Dans Un argument négligé en faveur de la réalité de Dieu, Peirce soutient que la libre rêverie de l'esprit, le **musement**, conduit naturellement à l'hypothèse de Dieu comme à la plus belle des [abductions](../glossary/abduction.md), hypothèse féconde plutôt que dogme démontré. Le Dieu de Peirce est moins le Dieu personnel des religions qu'une réalité ordonnatrice corrélée à son cosmos en croissance, d'où un théisme réel mais retenu, sans extrême.
 
 *Sources : Un argument négligé en faveur de la réalité de Dieu (1908)*
+
+### [Valeur de la vérité](../axes/truth-value.md)
+
+*positionné · explicite dans les textes · mineure*
+
+Primauté de la vérité 75% · Illusions vitales 25%
+
+Sa première règle de la raison : ne pas barrer la route de l'enquête. Les méthodes qui fixent la croyance par ténacité ou autorité procurent une quiétude réelle mais fragile ; seule l'enquête, qui accepte d'être déçue par le réel, stabilise durablement la croyance en la réglant sur ce qui ne dépend pas de nous.
+
+*Sources : La Fixation de la croyance (1877)*
 
 ## Influencé par
 

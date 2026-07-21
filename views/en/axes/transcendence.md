@@ -45,7 +45,7 @@ The sacred surpasses this world: truth, the good, or God belong to a higher orde
 
 ## Related axes
 
-[Faith and reason](../axes/faith-reason.md) · [Existence of God](../axes/god-existence.md) · [The highest good](../axes/sovereign-good.md)
+[Faith and reason](../axes/faith-reason.md) · [Existence of God](../axes/god-existence.md) · [The highest good](../axes/sovereign-good.md) · [After death](../axes/afterlife.md)
 
 ---
 

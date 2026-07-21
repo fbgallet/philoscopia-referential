@@ -20,7 +20,7 @@ Philosophe française du XXe siècle, figure du [existentialisme](../movements/e
 
 *positionné · inférable · mineure*
 
-Révolte / refus 70% · Être-pour-la-mort 20% · La mort n'est rien 10%
+Refuser la mort 70% · Vivre en vue de sa mort 20% · Se libérer de la crainte 10%
 
 Pour Beauvoir, la mort n'est jamais naturelle : c'est une violence, un scandale injustifiable qui brise les projets et fait outrage à la vie, fût-elle longue et consentie. À l'accueillir avec sérénité, elle préfère la révolte et l'indignation, refusant de parer d'un sens ce qui n'est qu'une défaite. La mort des siens, vécue de près, lui apparaît comme une rupture inacceptable, non comme un accomplissement.
 
@@ -232,7 +232,7 @@ La condition humaine est foncièrement ambiguë : nous sommes à la fois libert�
 
 *Sources : Pour une morale de l'ambiguïté (1947), l'ambiguïté de la condition humaine*
 
-### [Nature de l'esprit et du réel](../axes/reality-nature.md)
+### [Nature du réel](../axes/reality-nature.md)
 
 *positionné · extrapolé · mineure*
 
@@ -266,7 +266,7 @@ Loin de tout ascétisme, Beauvoir revendique le corps et la sexualité comme dim
 
 *positionné · inférable · mineure*
 
-Projet 80% · Présentisme 10% · Mémoire-transmission 10%
+Projet 80% · Vivre au présent 10% · Mémoire-transmission 10%
 
 L'existence est structurée par le projet : la liberté se définit par l'avenir qu'elle vise et vers lequel elle se dépasse. Beauvoir pense l'oppression précisément comme la privation d'avenir, l'enfermement dans un présent répétitif sans ouverture sur des fins librement posées, ce qui confirme le primat de la temporalité du projet.
 
@@ -333,6 +333,16 @@ Philia (amitié) 70% · Agapè-don 30%
 Beauvoir critique l'amour où la femme s'aliène et se fait l'objet de l'autre : l'amoureuse qui se perd dans l'aimé, faute de projet propre, est une figure de la mauvaise foi. À cet amour-manque qui veut se compléter dans un autre, elle oppose l'amour authentique, lien réciproque de deux libertés qui se reconnaissent et se choisissent sans que l'une se dissolve dans l'autre. C'est une [philia](../glossary/philia.md) existentielle, faite de reconnaissance mutuelle, où la part de don tient à ce que chacun veut la liberté de l'autre comme la sienne.
 
 *Sources : Le Deuxième Sexe (1949), t. II, « L'amoureuse »*
+
+### [Valeur de la vérité](../axes/truth-value.md)
+
+*positionné · inférable · mineure*
+
+Primauté de la vérité 65% · Illusions vitales 35%
+
+L'esprit de sérieux est sa cible constante : se soumettre à des valeurs toutes faites comme à des choses, c'est fuir dans une fausse nécessité la liberté qui les porte. Assumer l'ambiguïté de la condition humaine, sans la résoudre par des absolus rassurants, est la première exigence morale.
+
+*Sources : Pour une morale de l'ambiguïté (1947)*
 
 ## Influencé par
 

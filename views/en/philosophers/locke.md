@@ -40,7 +40,7 @@ A Christian, Locke holds man to be the workmanship and property of God, set in t
 
 *positioned · inferable · minor*
 
-Immortalism 80% · Death is nothing 10% · Being-toward-death 10%
+Preparing for the passage 80% · Freeing ourselves from the fear 10% · Living in view of one's death 10%
 
 A Christian, Locke looks for a future life, but grounds it on the promised resurrection rather than on a natural immortality of the soul, which he doubts (he even entertains a matter capable of thinking). It is God who raises and rewards, the hereafter being a gift, not an intrinsic property of the mind.
 
@@ -236,7 +236,7 @@ Locke locates liberty not in the will (the question "is the will free?" is ill-f
 
 *Sources : Essay Concerning Human Understanding, II, ch. 21 ("Of Power", liberty and the suspension of desire)*
 
-### [Nature of mind and reality](../axes/reality-nature.md)
+### [Nature of reality](../axes/reality-nature.md)
 
 *positioned · inferable · minor*
 

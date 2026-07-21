@@ -6,7 +6,7 @@
 
 *La vérité · valeur · bipolaire*
 
-Exiger une preuve pour tout met à l'abri de l'erreur, mais condamne au doute là où il faut pourtant croire pour aimer, s'engager ou espérer. Se positionner, c'est dire si croire sans garantie est une faute contre la raison ou une nécessité de la vie.
+Croire engage : l'armateur qui s'est persuadé sans preuve que son navire tiendrait la mer répond du naufrage, car il n'avait pas le droit de le croire. Faut-il alors proportionner toute croyance aux preuves, ou existe-t-il des cas, l'amitié, l'engagement, la foi, où se refuser à croire faute de garantie serait aussi une faute ? Se positionner, c'est dire ce que nous devons à la preuve quand nous formons nos croyances, et de quoi nous sommes comptables en les tenant.
 
 ## Pôles
 
@@ -38,7 +38,7 @@ Quand les preuves ne tranchent pas et que l'enjeu est vital, nous avons le droit
 
 ## Axes liés
 
-[Rapport à la certitude](../axes/certainty.md) · [Foi et raison](../axes/faith-reason.md) · [Existence de Dieu](../axes/god-existence.md) · [Souverain bien](../axes/sovereign-good.md) · [Justification de la croyance](../axes/epistemic-justification.md)
+[Rapport à la certitude](../axes/certainty.md) · [Foi et raison](../axes/faith-reason.md) · [Existence de Dieu](../axes/god-existence.md) · [Souverain bien](../axes/sovereign-good.md) · [Justification de la croyance](../axes/epistemic-justification.md) · [Valeur de la vérité](../axes/truth-value.md)
 
 ---
 

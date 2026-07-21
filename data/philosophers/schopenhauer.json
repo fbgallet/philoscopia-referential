@@ -637,9 +637,9 @@
       "declaredValue": {
         "kind": "weights",
         "weights": [
+          0.5,
           0.35,
-          0.3,
-          0.3,
+          0.1,
           0.05
         ]
       },
@@ -1093,6 +1093,29 @@
         "quoteId": "la-philosophie-ne-peut-jamais-faire-schopenhauer",
         "strength": "STRONG"
       }
+    },
+    {
+      "axisId": "TRUTH_VALUE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Tout l'édifice repose sur le refus des consolations : l'optimisme n'est pas seulement faux mais indécent devant la souffrance du monde, et voir le fond de la <c>Volonté</c> est la condition de toute sagesse. La délivrance passe par plus de lucidité, contemplation et négation du vouloir, jamais par une illusion mieux choisie.",
+          "en": "The whole edifice rests on the refusal of consolations: optimism is not merely false but indecent before the world's suffering, and seeing to the bottom of the <c>Will</c> is the condition of all wisdom. Deliverance comes through more lucidity, contemplation and the negation of willing, never through a better-chosen illusion."
+        },
+        "references": [
+          {
+            "fr": "Le Monde comme volonté et comme représentation (1818)",
+            "en": "The World as Will and Representation (1818)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
     }
   ],
   "structuring": [
@@ -1132,7 +1155,7 @@
       }
     }
   ],
-  "updatedAt": "2026-07-13T00:00:00.000Z",
+  "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

@@ -1,0 +1,18 @@
+{
+  "id": "theism-grounds-divine-ground",
+  "ground": {
+    "axisId": "GOD_EXISTENCE",
+    "poleId": "THEISM"
+  },
+  "grounded": {
+    "axisId": "MORAL_SOURCE",
+    "poleId": "DIVINE_GROUND"
+  },
+  "kind": "T_T",
+  "strength": "STRONG",
+  "explanation": {
+    "fr": "Fonder la morale en Dieu suppose d'abord que Dieu existe : le théisme est le sol sur lequel seul le commandement divin peut obliger. C'est le sens du mot prêté par <ph id='dostoevsky'>Dostoïevski</ph> à Ivan Karamazov : si Dieu n'existe pas, tout est permis.",
+    "en": "Grounding morality in God first supposes that God exists: theism is the ground on which divine command alone can bind. That is the point of the line <ph id='dostoevsky'>Dostoevsky</ph> gives Ivan Karamazov: if God does not exist, everything is permitted."
+  },
+  "updatedAt": "2026-07-20T00:00:00.000Z"
+}

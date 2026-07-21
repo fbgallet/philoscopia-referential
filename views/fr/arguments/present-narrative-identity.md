@@ -2,7 +2,7 @@
 
 # Une vie n'est pas un tas d'instants
 
-*Objection à [Orientation temporelle](../axes/time-orientation.md) : Présentisme*
+*Objection à [Orientation temporelle](../axes/time-orientation.md) : Vivre au présent*
 
 **Une vie humaine n'est pas une suite d'instants, mais une histoire : sans passé ni avenir, elle se défait.**
 

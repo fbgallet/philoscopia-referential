@@ -126,7 +126,7 @@ Deduction needs premises: to demonstrate a thing's properties one must start fro
 
 *positioned · inferable · minor*
 
-Intellectualism 83% · Sentimentalism 18%
+The primacy of reason 83% · The primacy of feeling 18%
 
 The passions stem from confused ideas and must be mastered by the understanding: Descartes offers a mechanical analysis and an art of governing them through knowledge, and Spinoza holds that an emotion ceases to be a passion as soon as we form a clear and distinct idea of it. Correcting affect by reason draws the school toward a moral intellectualism.
 

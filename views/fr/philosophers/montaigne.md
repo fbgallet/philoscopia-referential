@@ -56,7 +56,7 @@ Montaigne ne trouve en lui aucune substance fixe. Le moi est « « le branle » 
 
 *positionné · explicite dans les textes · majeure*
 
-Présentisme 80% · Projet 10% · Mémoire-transmission 10%
+Vivre au présent 80% · Projet 10% · Mémoire-transmission 10%
 
 Notre malheur, observe Montaigne, vient de ne jamais habiter le présent : nous errons au-devant ou au-derrière de nous, à craindre l'avenir et regretter le passé, si bien que nous oublions de vivre l'heure qui est là. La sagesse renverse l'effort : non pas se projeter ni accumuler, mais « « jouir loyalement de son être » », savourer pleinement ce qui se présente, comme Épicure mais sans système. Le dernier mot des *[Essais](../works/essays-montaigne.md)* n'est plus « apprendre à mourir » mais apprendre à vivre, c'est-à-dire revenir au présent que la peur de la mort nous dérobe.
 
@@ -90,7 +90,7 @@ Dans « Des cannibales », Montaigne retourne le regard de l'Européen sur lui-m
 
 *positionné · explicite dans les textes · majeure*
 
-La mort n'est rien 85% · Être-pour-la-mort 10% · Immortalisme 5%
+Se libérer de la crainte 80% · Vivre en vue de sa mort 15% · Se préparer au passage 5%
 
 Le jeune Montaigne, suivant Sénèque et Cicéron, tient que « « philosopher c'est apprendre à mourir » » : préméditer sans cesse la mort pour la désarmer. Le Montaigne mûr renverse ce stoïcisme volontariste : à trop penser la mort, on s'empoisonne la vie. Mieux vaut s'en remettre à la nature, qui « « vous apprendra suffisamment » » à mourir le moment venu, comme les paysans le font sans philosophie. La mort cesse d'être une épreuve à préparer pour devenir un terme naturel à accueillir sans le craindre, dans une sérénité de coloration épicurienne plus que d'espérance d'au-delà.
 
@@ -214,7 +214,7 @@ Montaigne se défie des raisonnements abstraits, qui peuvent prouver une chose e
 
 *positionné · inférable · mineure*
 
-Sentimentalisme 65% · Intellectualisme 35%
+Le primat du sentiment 65% · Primauté de la raison 35%
 
 Montaigne admire la constance stoïcienne sans s'y croire tenu : prétendre extirper les passions est, chez l'homme ordinaire, une comédie qui sied mal à notre nature. Mieux vaut connaître ses émotions, les accompagner et les modérer que les nier, et il se peint volontiers colère, craintif ou troublé, sans honte. Une régulation souple plutôt qu'une maîtrise, qui fait place aux affects comme à des compagnes de la condition humaine.
 
@@ -289,6 +289,18 @@ Reprenant la [philia](../glossary/philia.md) d'[Aristote](../philosophers/aristo
 > « Parce que c'était lui, parce que c'était moi. », Essais, I, 28 (« De l'amitié »)
 
 *Sources : Essais, I, 28 (« De l'amitié »)*
+
+### [Valeur de la vérité](../axes/truth-value.md)
+
+*positionné · explicite dans les textes · mineure*
+
+Primauté de la vérité 50% · Illusions vitales 50%
+
+Nul n'a scruté plus honnêtement ses propres faiblesses, mais cette lucidité s'arrête où finit la prise : des questions insolubles, il conclut qu'il fait bon y reposer une tête bien faite. Savoir sur soi ce qui aide à vivre, laisser dormir ce qui ne fait que tourmenter : l'essai perpétuel de soi cohabite avec une incuriosité assumée.
+
+> « Ô que c'est un doux et mol chevet, et sain, que l'ignorance et l'incuriosité, à reposer une tête bien faite ! », Essais, III, 13 (De l'expérience)
+
+*Sources : Essais, III, 13 (De l'expérience)*
 
 ## Influencé par
 

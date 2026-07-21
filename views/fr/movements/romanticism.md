@@ -41,7 +41,7 @@ Le romantisme ne nie pas le divin, il le déplace : contre le Dieu lointain et l
 
 *positionné · explicite dans les textes · majeure*
 
-Sentimentalisme 90% · Intellectualisme 10%
+Le primat du sentiment 90% · Primauté de la raison 10%
 
 Au primat des Lumières pour la raison froide, le romantisme oppose la vérité du sentiment : c'est par le cœur, l'enthousiasme et la passion, non par le calcul, que l'homme accède au plus profond de lui-même et du monde. [Rousseau](../philosophers/rousseau.md) en avait donné le mot d'ordre en réhabilitant la sensibilité contre les raisonneurs ; le Sturm und Drang puis les romantiques en font le ressort de l'art et de la connaissance. L'émotion n'est plus une faiblesse à maîtriser mais une faculté qui révèle.
 
@@ -229,7 +229,7 @@ Héritier de [Rousseau](../philosophers/rousseau.md), le romantisme tient l'homm
 
 *Sources : Rousseau, Émile, ou De l'éducation · Schiller, Poésie naïve et sentimentale*
 
-### [Nature de l'esprit et du réel](../axes/reality-nature.md)
+### [Nature du réel](../axes/reality-nature.md)
 
 *positionné · inférable · mineure*
 
@@ -278,6 +278,16 @@ Téléologie-providence 60% · Sens construit 30% · Absurdisme 10%
 Le monde n'est ni un mécanisme indifférent ni un chaos absurde : il est traversé d'un sens, d'un esprit qui s'y déploie et auquel l'homme est appelé à répondre. Le sentiment romantique de l'infini et la nostalgie d'une unité perdue supposent que l'existence a une direction et une profondeur, fût-elle voilée : le sens n'est pas à inventer de toutes pièces mais à pressentir et à retrouver dans la nature, l'art et l'histoire.
 
 *Sources : Novalis, Les Disciples à Saïs · Schelling, Idées pour une philosophie de la nature*
+
+### [Valeur de la vérité](../axes/truth-value.md)
+
+*positionné · inférable · mineure*
+
+Illusions vitales 60% · Primauté de la vérité 40%
+
+Contre l'analyse qui dissèque et désenchante, le romantisme tient l'imagination, le mythe et le sentiment pour des organes de vie plus profonds que la raison démonstrative. Ce que l'entendement réduit parfois à l'illusion, poésie, symbole, nuit, y devient un accès au réel que la clarté manque : le désenchantement du monde n'est pas un progrès mais une perte.
+
+*Sources : Novalis, Fragments · Schiller, Lettres sur l'éducation esthétique (1795)*
 
 ## Influencé par
 

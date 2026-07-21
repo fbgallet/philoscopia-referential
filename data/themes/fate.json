@@ -1,0 +1,29 @@
+{
+  "id": "fate",
+  "label": {
+    "fr": "Le destin",
+    "en": "Fate"
+  },
+  "aliases": {
+    "fr": [
+      "destin",
+      "destinée",
+      "fatalité",
+      "providence",
+      "hasard"
+    ],
+    "en": [
+      "fate",
+      "destiny",
+      "fatalism",
+      "providence",
+      "chance"
+    ]
+  },
+  "axes": [
+    "FREEDOM",
+    "COSMIC_OUTLOOK",
+    "CONTROL_SCOPE",
+    "HISTORY_MEANING"
+  ]
+}

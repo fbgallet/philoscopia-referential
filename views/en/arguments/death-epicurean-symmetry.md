@@ -2,7 +2,7 @@
 
 # The symmetry argument
 
-*Argument for [Death](../axes/death.md) : Death is nothing*
+*Argument for [Death](../axes/death.md) : Freeing ourselves from the fear*
 
 **Death cannot be an evil, for where it is, we no longer are.**
 

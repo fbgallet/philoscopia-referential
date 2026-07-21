@@ -1,0 +1,31 @@
+{
+  "id": "time",
+  "label": {
+    "fr": "Le temps",
+    "en": "Time"
+  },
+  "aliases": {
+    "fr": [
+      "temps",
+      "durée",
+      "instant",
+      "éternité",
+      "éphémère"
+    ],
+    "en": [
+      "time",
+      "duration",
+      "moment",
+      "eternity",
+      "fleeting"
+    ]
+  },
+  "featured": true,
+  "axes": [
+    "TIME_ORIENTATION",
+    "PAST_RELATION",
+    "BEING_BECOMING",
+    "HISTORY_MEANING",
+    "FUTURE_GENERATIONS"
+  ]
+}

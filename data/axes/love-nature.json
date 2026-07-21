@@ -14,6 +14,24 @@
     "fr": "Aimer, est-ce vouloir s'emparer de ce qui nous manque, se donner sans rien attendre, être joué par des forces qui nous dépassent, ou bâtir un lien choisi qui se cultive ? Selon la réponse, l'amour peut durer ou s'éteindre une fois comblé, et il n'attend pas de nous la même chose. Se positionner, c'est dire ce qu'on cherche vraiment quand on dit aimer.",
     "en": "To love, is it to want to seize what we lack, to give without expecting anything, to be played by forces that surpass us, or to build a chosen bond that is cultivated? Depending on the answer, love may last or die out once fulfilled, and it does not ask the same thing of us. To take a position is to say what we are really seeking when we say we love."
   },
+  "aliases": {
+    "fr": [
+      "amour",
+      "amitié",
+      "éros",
+      "désir amoureux",
+      "attachement",
+      "couple"
+    ],
+    "en": [
+      "love",
+      "friendship",
+      "eros",
+      "romantic love",
+      "attachment",
+      "relationships"
+    ]
+  },
   "layer": "THEORY",
   "type": "CATEGORICAL",
   "poles": [
@@ -126,21 +144,59 @@
       "id": "love-and-the-will",
       "resolution": "LATENT",
       "object": "RELATION",
-      "objectLabel": { "fr": "aimer", "en": "loving" },
+      "objectLabel": {
+        "fr": "aimer",
+        "en": "loving"
+      },
       "mode": "DESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "engagement", "en": "commitment" },
-        { "fr": "passion subie", "en": "passion undergone" },
-        { "fr": "promesse", "en": "promise" },
-        { "fr": "coup de foudre", "en": "falling in love" }
+        {
+          "fr": "engagement",
+          "en": "commitment"
+        },
+        {
+          "fr": "passion subie",
+          "en": "passion undergone"
+        },
+        {
+          "fr": "promesse",
+          "en": "promise"
+        },
+        {
+          "fr": "coup de foudre",
+          "en": "falling in love"
+        }
       ],
       "anchors": [
-        { "name": { "fr": "Kierkegaard", "en": "Kierkegaard" }, "kind": "PHILOSOPHER", "slug": "kierkegaard" },
-        { "name": { "fr": "Proust", "en": "Proust" }, "kind": "PHILOSOPHER" },
-        { "name": { "fr": "Schopenhauer", "en": "Schopenhauer" }, "kind": "PHILOSOPHER", "slug": "schopenhauer" }
+        {
+          "name": {
+            "fr": "Kierkegaard",
+            "en": "Kierkegaard"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "kierkegaard"
+        },
+        {
+          "name": {
+            "fr": "Proust",
+            "en": "Proust"
+          },
+          "kind": "PHILOSOPHER"
+        },
+        {
+          "name": {
+            "fr": "Schopenhauer",
+            "en": "Schopenhauer"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "schopenhauer"
+        }
       ],
-      "title": { "fr": "Aimer se décide-t-il ?", "en": "Is love something we decide?" },
+      "title": {
+        "fr": "Aimer se décide-t-il ?",
+        "en": "Is love something we decide?"
+      },
       "explicitation": {
         "fr": "L'amour est-il une promesse que la volonté peut tenir dans la durée, comme l'engagement voulu par Kierkegaard, ou une passion qui nous saisit et nous quitte sans nous consulter, comme chez Proust et Schopenhauer ?",
         "en": "Is love a promise the will can keep over time, the commitment Kierkegaard calls for, or a passion that seizes us and leaves us without asking, as in Proust and Schopenhauer?"

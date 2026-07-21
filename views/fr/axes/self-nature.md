@@ -45,11 +45,11 @@ Il n'y a pas de moi permanent : seulement un faisceau de perceptions, de pensée
 
 ## Relations de fondation
 
-- *[Nature du moi](../axes/self-nature.md) : Faisceau* fonde *[Orientation temporelle](../axes/time-orientation.md) : Présentisme* : S'il n'y a pas de moi permanent mais une succession d'états, alors ni le passé ni l'avenir d'un « je » stable n'ont de prise réelle : seul l'instant présent est habité. Le faisceau fonde le présentisme : à la suite de [Hume](../philosophers/hume.md), se déprendre d'un moi substantiel invite à cueillir le jour plutôt qu'à se projeter ou à regretter.
+- *[Nature du moi](../axes/self-nature.md) : Faisceau* fonde *[Orientation temporelle](../axes/time-orientation.md) : Vivre au présent* : S'il n'y a pas de moi permanent mais une succession d'états, alors ni le passé ni l'avenir d'un « je » stable n'ont de prise réelle : seul l'instant présent est habité. Le faisceau fonde le présentisme : à la suite de [Hume](../philosophers/hume.md), se déprendre d'un moi substantiel invite à cueillir le jour plutôt qu'à se projeter ou à regretter.
 - *[Nature du moi](../axes/self-nature.md) : Faisceau* fonde *[Rapport au désir](../axes/desire.md) : Extinction-détachement* : S'il n'y a pas de moi substantiel mais un simple flux d'états (la thèse de l'[anatta](../glossary/anatta.md)), le désir, qui s'agrippe au monde au nom d'un soi à satisfaire, repose sur une illusion. Reconnaître l'absence de moi défait l'attachement par la racine : le détachement n'est plus un effort de volonté, mais la conséquence d'une vue juste.
-- *[Nature de la conscience](../axes/consciousness-nature.md) : Dualisme des substances* fonde *[Nature du moi](../axes/self-nature.md) : Substantialisme* : Si l'esprit est une substance distincte du corps, le moi qui dit « je » est cette chose pensante, identique à elle-même sous le flux des expériences. Le dualisme des substances fonde le substantialisme : l'[identité personnelle](../glossary/personal-identity.md) repose sur la permanence de l'âme, et non sur la mémoire ou le récit. C'est la position de [Descartes](../philosophers/descartes.md).
+- *[L'énigme de la conscience](../axes/consciousness-nature.md) : Dualisme des substances* fonde *[Nature du moi](../axes/self-nature.md) : Substantialisme* : Si l'esprit est une substance distincte du corps, le moi qui dit « je » est cette chose pensante, identique à elle-même sous le flux des expériences. Le dualisme des substances fonde le substantialisme : l'[identité personnelle](../glossary/personal-identity.md) repose sur la permanence de l'âme, et non sur la mémoire ou le récit. C'est la position de [Descartes](../philosophers/descartes.md).
 - *[Nature du moi](../axes/self-nature.md) : Substantialisme* fonde *[Intériorité](../axes/interiority.md) : Vie examinée* : S'il existe en chacun un moi substantiel, une âme distincte du flux des apparences, alors se connaître soi-même devient la tâche la plus haute. Le substantialisme fonde la vie examinée : de Socrate, pour qui une vie sans examen ne vaut pas d'être vécue, à [Augustin](../philosophers/augustine.md) qui rentre en lui-même pour y trouver la vérité.
-- *[Nature du moi](../axes/self-nature.md) : Substantialisme* fonde *[La mort](../axes/death.md) : Immortalisme* : Si le moi est une substance simple, immatérielle, distincte du corps, rien n'impose qu'il périsse lorsque le corps se décompose. Le substantialisme ouvre la voie à l'immortalité de l'âme, comme dans l'argument de [Platon](../philosophers/plato.md) tirant de la simplicité de l'âme son indestructibilité.
+- *[Nature du moi](../axes/self-nature.md) : Substantialisme* fonde *[Après la mort](../axes/afterlife.md) : L'âme immortelle* : Si le moi est une substance simple, immatérielle, distincte du corps, rien n'impose qu'il périsse lorsque le corps se décompose. Le substantialisme ouvre la voie à l'immortalité de l'âme, comme dans l'argument de [Platon](../philosophers/plato.md) tirant de la simplicité de l'âme son indestructibilité.
 
 ## Citations
 
@@ -69,7 +69,7 @@ Il n'y a pas de moi permanent : seulement un faisceau de perceptions, de pensée
 
 ## Axes liés
 
-[Être ou avoir un corps](../axes/embodiment.md) · [Essence et existence](../axes/essence.md) · [Liberté de la volonté](../axes/freedom.md) · [Identité sociale](../axes/social-identity.md) · [La mort](../axes/death.md) · [L'être et le devenir](../axes/being-becoming.md)
+[Être ou avoir un corps](../axes/embodiment.md) · [Essence et existence](../axes/essence.md) · [Liberté de la volonté](../axes/freedom.md) · [Identité sociale](../axes/social-identity.md) · [La mort](../axes/death.md) · [L'être et le devenir](../axes/being-becoming.md) · [Après la mort](../axes/afterlife.md)
 
 ---
 

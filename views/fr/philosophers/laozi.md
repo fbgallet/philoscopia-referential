@@ -182,7 +182,7 @@ Laozi ne croit pas que l'histoire monte vers le mieux : le mouvement propre du D
 
 *positionné · inférable · mineure*
 
-Intellectualisme 65% · Sentimentalisme 35%
+Primauté de la raison 65% · Le primat du sentiment 35%
 
 Le sage cultive le calme et le vide du cœur, et l'on retrouve « le ciel et la terre ne sont pas bienveillants », image d'une sérénité sans attendrissement. Le trouble émotionnel naît de l'attachement et du désir, c'est-à-dire d'un mauvais rapport au cours des choses, et se dissout dans la quiétude. La pente est à la maîtrise des affects, mais sans l'intellectualisme stoïcien d'une raison qui juge : c'est plutôt un apaisement par le retour au naturel.
 
@@ -192,7 +192,7 @@ Le sage cultive le calme et le vide du cœur, et l'on retrouve « le ciel et la 
 
 *positionné · inférable · mineure*
 
-Présentisme 65% · Mémoire-transmission 35%
+Vivre au présent 65% · Mémoire-transmission 35%
 
 Le sage taoïste habite l'instant présent et le cours qui s'écoule, sans se projeter dans des desseins d'avenir, lesquels relèvent justement de l'agir forcé qu'il récuse. Subsiste pourtant une orientation vers un état originel à retrouver, le Dao d'avant les distinctions, qui donne à sa pensée une part de mémoire-retour. L'avenir comme projet, lui, est presque absent.
 
@@ -239,6 +239,12 @@ L'opposition entre libre arbitre et déterminisme, forgée par la métaphysique 
 *non applicable*
 
 Question anachronique : rien dans le corpus de Laozi ne permet de le positionner sur la pensée des machines sans extrapolation hasardeuse.
+
+### [Valeur de la vérité](../axes/truth-value.md)
+
+*rejette l'alternative*
+
+La voie qui peut être énoncée n'est pas la voie constante : ce qui importe ne se laisse ni formuler ni posséder, et vouloir le saisir comme une vérité le manque. L'alternative entre lucidité et illusion suppose un vrai dicible que Laozi récuse d'emblée ; la sagesse est un accord pratique avec le cours des choses, pas une possession de savoir.
 
 ## Influence sur
 

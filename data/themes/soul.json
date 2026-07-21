@@ -1,0 +1,27 @@
+{
+  "id": "soul",
+  "label": {
+    "fr": "L'âme et l'esprit",
+    "en": "Soul and mind"
+  },
+  "aliases": {
+    "fr": [
+      "âme",
+      "esprit",
+      "spirituel",
+      "immatériel"
+    ],
+    "en": [
+      "soul",
+      "mind",
+      "spirit",
+      "immaterial"
+    ]
+  },
+  "axes": [
+    "CONSCIOUSNESS_NATURE",
+    "AFTERLIFE",
+    "SELF_NATURE",
+    "REALITY_NATURE"
+  ]
+}

@@ -12,7 +12,7 @@ Fondateur de la [phénoménologie](../movements/phenomenology.md), d'abord math�
 2. [Essence et existence](../axes/essence.md) : **On voit les essences comme on voit des couleurs : par variation libre, la conscience saisit l'invariant nécessaire d'une chose, son essence idéale, et non un simple mot.**
 3. [Source de la connaissance](../axes/knowledge-source.md) : **Entre l'empirisme et le rationalisme, une troisième voie : toute intuition donatrice fait droit, et l'on intuitionne aussi le général, non la seule sensation.**
 4. [Place de la science](../axes/science-place.md) : **La science a oublié son sol : le [monde de la vie](../glossary/lebenswelt.md), perçu et vécu, précède et fonde toute idéalisation, que l'objectivisme galiléen prend à tort pour l'être même.**
-5. [Nature de l'esprit et du réel](../axes/reality-nature.md) : **Le monde n'a de sens et d'être que comme corrélat d'une conscience qui le constitue : un idéalisme transcendantal qui décrit le monde, sans le nier.**
+5. [Nature du réel](../axes/reality-nature.md) : **Le monde n'a de sens et d'être que comme corrélat d'une conscience qui le constitue : un idéalisme transcendantal qui décrit le monde, sans le nier.**
 
 ## Positions
 
@@ -58,7 +58,7 @@ Husserl ne conteste pas la fécondité des sciences exactes, mais leur prétenti
 
 *Sources : La Crise des sciences européennes, §9 et §33-34*
 
-### [Nature de l'esprit et du réel](../axes/reality-nature.md)
+### [Nature du réel](../axes/reality-nature.md)
 
 *positionné · inférable · majeure*
 

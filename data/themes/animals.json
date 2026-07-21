@@ -1,0 +1,36 @@
+{
+  "id": "animals",
+  "label": {
+    "fr": "Les animaux",
+    "en": "Animals"
+  },
+  "aliases": {
+    "fr": [
+      "animaux",
+      "animal",
+      "cause animale",
+      "condition animale",
+      "végétarisme",
+      "végétarien",
+      "végan",
+      "antispécisme",
+      "bien-être animal"
+    ],
+    "en": [
+      "animals",
+      "animal",
+      "animal rights",
+      "animal welfare",
+      "vegetarianism",
+      "vegetarian",
+      "vegan",
+      "antispeciesism"
+    ]
+  },
+  "featured": true,
+  "axes": [
+    "MORAL_CIRCLE",
+    "HUMAN_PLACE_NATURE",
+    "HUMAN_NATURE"
+  ]
+}

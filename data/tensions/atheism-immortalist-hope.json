@@ -1,8 +1,8 @@
 {
   "id": "atheism-immortalist-hope",
-  "kind": "T_V",
+  "kind": "T_T",
   "a": { "axisId": "GOD_EXISTENCE", "predicate": { "kind": "scalarRange", "min": 0.6, "max": 1 } },
-  "b": { "axisId": "DEATH", "predicate": { "kind": "minPoleWeight", "poleId": "IMMORTALISM", "min": 0.5 } },
+  "b": { "axisId": "AFTERLIFE", "predicate": { "kind": "minPoleWeight", "poleId": "IMMORTAL_SOUL", "min": 0.5 } },
   "explanation": {
     "fr": "Affirmer avec assurance qu'aucun Dieu ni rien de divin n'existe, puis attendre de la mort qu'une âme, ou quelque chose de soi, lui survive, met deux positions en tension : l'espérance immortaliste suppose d'ordinaire un ordre, un jugement ou une réalité spirituelle que l'athéisme refuse. Tenir les deux demande au moins de dire sur quoi repose alors cette survie.",
     "en": "Confidently asserting that no God and nothing divine exists, then expecting that at death a soul, or something of oneself, survives it, puts two positions in tension: immortalist hope usually presupposes an order, a judgment, or a spiritual reality that atheism rejects. Holding both calls at least for saying what such survival would then rest upon."

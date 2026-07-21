@@ -14,8 +14,12 @@
     "en": "Am I a man who dreamed he was a butterfly, or a butterfly dreaming he is a man?"
   },
   "aliases": {
-    "fr": ["Tchouang-tseu"],
-    "en": ["Chuang Tzu"]
+    "fr": [
+      "Tchouang-tseu"
+    ],
+    "en": [
+      "Chuang Tzu"
+    ]
   },
   "summary": {
     "fr": "Penseur <mv id='taoism'>taoïste</mv> chinois de la période des Royaumes combattants, traditionnellement situé au IVe siècle avant notre ère et présenté comme un petit fonctionnaire qui aurait refusé une charge ministérielle pour rester libre. Il donne son nom au <w id='zhuangzi-zhuangzi'>Zhuangzi</w>, recueil composite dont les sept « Chapitres intérieurs » lui sont attribués : un tissu de paraboles, de dialogues et de provocations logiques où l'humour fait office d'argument. Là où <ph id='laozi'>Laozi</ph> énonce le <c id='dao'>Dao</c> en aphorismes cosmiques et politiques, Zhuangzi le radicalise sur le terrain de l'existence singulière et de la connaissance : il y mène une critique des distinctions, du langage et de l'utilité dont le rêve du papillon, le boucher Ding et le bonheur des poissons sont les emblèmes. En réaction au moralisme <ph id='confucius'>confucéen</ph> et au logicien <ph id='hui-shi'>Hui Shi</ph>, son interlocuteur favori, sa pensée a irrigué le bouddhisme chan (zen) et inspiré toute une tradition de spontanéité poétique et picturale.",
@@ -92,9 +96,9 @@
       "declaredValue": {
         "kind": "weights",
         "weights": [
-          0.55,
+          0.85,
           0,
-          0.45,
+          0.15,
           0
         ]
       },
@@ -802,6 +806,14 @@
         "fr": "Question anachronique : rien dans le corpus de Zhuangzi ne permet de le positionner sur la pensée des machines sans extrapolation hasardeuse, même si sa parabole du « cœur de machine » vise l'esprit calculateur, non la cognition artificielle.",
         "en": "An anachronistic question: nothing in Zhuangzi's corpus allows positioning him on machine thought without hazardous extrapolation, even though his \"machine heart\" parable targets the calculating mind, not artificial cognition."
       }
+    },
+    {
+      "axisId": "TRUTH_VALUE",
+      "status": "REJECTS_ALTERNATIVE",
+      "note": {
+        "fr": "L'alternative suppose des distinctions fixes entre le vrai et l'illusoire que Zhuangzi s'emploie à dissoudre : rêve du papillon, disputes stériles du « c'est / ce n'est pas ». La sagesse n'est ni conquête de vérité ni illusion choisie, mais un voyage libre qui épouse les transformations sans les figer.",
+        "en": "The alternative presupposes fixed distinctions between the true and the illusory that Zhuangzi works to dissolve: the butterfly dream, the sterile disputes of \"it is / it is not\". Wisdom is neither a conquest of truth nor a chosen illusion, but a free wandering that espouses transformations without freezing them."
+      }
     }
   ],
   "structuring": [
@@ -841,7 +853,7 @@
       }
     }
   ],
-  "updatedAt": "2026-06-29T00:00:00.000Z",
+  "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

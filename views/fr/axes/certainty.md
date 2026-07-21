@@ -93,7 +93,7 @@ On peut tenir des croyances solides et justifiées tout en sachant qu'elles pour
 
 ## Axes liés
 
-[Justification de la croyance](../axes/epistemic-justification.md) · [Éthique de la croyance](../axes/belief-ethics.md) · [Source de la connaissance](../axes/knowledge-source.md) · [Nature de la vérité](../axes/truth-nature.md) · [Méthode scientifique](../axes/scientific-method.md) · [Nature de l'esprit et du réel](../axes/reality-nature.md)
+[Justification de la croyance](../axes/epistemic-justification.md) · [Éthique de la croyance](../axes/belief-ethics.md) · [Source de la connaissance](../axes/knowledge-source.md) · [Nature de la vérité](../axes/truth-nature.md) · [Méthode scientifique](../axes/scientific-method.md) · [Nature du réel](../axes/reality-nature.md) · [Valeur de la vérité](../axes/truth-value.md)
 
 ---
 

@@ -6,7 +6,7 @@ Mechanism is the doctrine that everything in nature is explained by matter in mo
 
 **Carries a stance toward** : [Explaining nature](../axes/causality.md) : Mechanism
 
-**At stake in** : [Explaining nature](../axes/causality.md) · [Nature of mind and reality](../axes/reality-nature.md) · [Wholes and parts](../axes/reduction-emergence.md)
+**At stake in** : [Explaining nature](../axes/causality.md) · [Nature of reality](../axes/reality-nature.md) · [Wholes and parts](../axes/reduction-emergence.md)
 
 **See also** : [Finalism](../glossary/finalism.md) · [Vitalism](../glossary/vitalism.md) · [Determinism](../glossary/determinism.md)
 

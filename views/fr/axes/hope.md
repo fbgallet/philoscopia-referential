@@ -37,7 +37,7 @@ L'espoir détourne du présent et prépare la déception : il nous fait vivre da
 
 ## Axes liés
 
-[Périmètre d'action](../axes/control-scope.md) · [Tonalité du réel](../axes/cosmic-outlook.md) · [Sens de la souffrance](../axes/suffering-meaning.md)
+[Périmètre d'action](../axes/control-scope.md) · [Tonalité du réel](../axes/cosmic-outlook.md) · [Sens de la souffrance](../axes/suffering-meaning.md) · [Valeur de la vérité](../axes/truth-value.md)
 
 ---
 

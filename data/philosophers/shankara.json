@@ -14,8 +14,14 @@
     "en": "\"<q>Thou art that</q>\": the self and the absolute are one, and to know it liberates."
   },
   "aliases": {
-    "fr": ["Shankara", "Shankaracharya"],
-    "en": ["Shankara", "Shankaracharya"]
+    "fr": [
+      "Shankara",
+      "Shankaracharya"
+    ],
+    "en": [
+      "Shankara",
+      "Shankaracharya"
+    ]
   },
   "summary": {
     "fr": "Maître de l'<mv id='vedanta'>Advaita Vedānta</mv>, la branche non-dualiste du Vedānta, traditionnellement situé en Inde vers 700-750 (sa datation reste discutée). Il systématise une lecture des <w>Upaniṣad</w> où le soi (<c id='atman'>ātman</c>) et l'absolu (<c id='brahman'>brahman</c>) sont une seule et même réalité, contre les écoles dualistes et ritualistes de son temps. On lui doit de grands commentaires (<w>bhāṣya</w>) sur les <w id='brahma-sutras-badarayana'>Brahma Sūtra</w> de <ph id='badarayana'>Bādarāyaṇa</ph>, sur les principales <w>Upaniṣad</w> et sur la <w>Bhagavad Gītā</w>, ainsi que des traités didactiques comme l'<w id='upadesasahasri-shankara'>Upadeśasāhasrī</w>. Héritier de <ph id='gaudapada'>Gauḍapāda</ph>, il fait de la voie de la connaissance (<c id='jnana'>jñāna</c>) le cœur de sa doctrine, et la tradition lui rattache la fondation de monastères (maṭha) qui pérenniseront son école. Son non-dualisme reste à ce jour le courant le plus influent de la philosophie hindoue.",
@@ -36,7 +42,11 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0, 1, 0]
+        "weights": [
+          0,
+          1,
+          0
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
@@ -64,7 +74,12 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [1, 0, 0, 0]
+        "weights": [
+          1,
+          0,
+          0,
+          0
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
@@ -199,7 +214,11 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0, 0.6, 0.4]
+        "weights": [
+          0,
+          0.6,
+          0.4
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
@@ -226,7 +245,11 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0, 0.15, 0.85]
+        "weights": [
+          0,
+          0.15,
+          0.85
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
@@ -253,7 +276,12 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.85, 0.15, 0, 0]
+        "weights": [
+          0.85,
+          0.15,
+          0,
+          0
+        ]
       },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
@@ -280,7 +308,12 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.1, 0, 0.9, 0]
+        "weights": [
+          0.1,
+          0,
+          0.9,
+          0
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MINOR",
@@ -445,6 +478,33 @@
         "fr": "Question anachronique : le corpus de Śaṅkara ne contient rien qui permette de le positionner sur la pensée des machines sans extrapolation hasardeuse. On peut tout au plus noter que la conscience-témoin, irréductible à tout composé, n'est par principe pas un processus que l'on pourrait fabriquer.",
         "en": "An anachronistic question: Śaṅkara's corpus contains nothing that would allow positioning him on machine thought without hazardous extrapolation. At most one may note that witness-consciousness, irreducible to any compound, is in principle not a process one could manufacture."
       }
+    },
+    {
+      "axisId": "TRUTH_VALUE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si la servitude n'est qu'une surimposition illusoire (<c id='maya'>māyā</c>), aucun acte ni aucun rite ne peut en délivrer : seule la connaissance qui discrimine le réel de l'apparent dissout l'illusion, comme la lumière dissipe le serpent qu'on croyait voir dans la corde. La délivrance n'est pas produite par le savoir : elle est ce savoir même, reconnaître que le soi n'a jamais été lié.",
+          "en": "If bondage is only an illusory superimposition (<c id='maya'>māyā</c>), no act or rite can undo it: only the knowledge that discriminates the real from the apparent dissolves illusion, as light dispels the snake one thought one saw in the rope. Liberation is not produced by knowledge: it is that very knowledge, recognizing that the self was never bound."
+        },
+        "references": [
+          {
+            "fr": "Upadeśasāhasrī",
+            "en": "Upadeśasāhasrī"
+          },
+          {
+            "fr": "Commentaires aux Upaniṣad",
+            "en": "Commentaries on the Upaniṣads"
+          }
+        ],
+        "strength": "STRONG"
+      }
     }
   ],
   "structuring": [
@@ -484,7 +544,7 @@
       }
     }
   ],
-  "updatedAt": "2026-06-29T00:00:00.000Z",
+  "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

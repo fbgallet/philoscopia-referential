@@ -1,0 +1,34 @@
+{
+  "id": "ecology",
+  "label": {
+    "fr": "L'écologie",
+    "en": "Ecology"
+  },
+  "aliases": {
+    "fr": [
+      "écologie",
+      "environnement",
+      "climat",
+      "planète",
+      "biodiversité",
+      "réchauffement climatique",
+      "développement durable",
+      "nature"
+    ],
+    "en": [
+      "ecology",
+      "environment",
+      "climate",
+      "planet",
+      "biodiversity",
+      "global warming",
+      "sustainability"
+    ]
+  },
+  "featured": true,
+  "axes": [
+    "MORAL_CIRCLE",
+    "FUTURE_GENERATIONS",
+    "HUMAN_PLACE_NATURE"
+  ]
+}

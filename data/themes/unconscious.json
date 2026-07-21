@@ -1,0 +1,27 @@
+{
+  "id": "unconscious",
+  "label": {
+    "fr": "L'inconscient",
+    "en": "The unconscious"
+  },
+  "aliases": {
+    "fr": [
+      "inconscient",
+      "psychanalyse",
+      "refoulement",
+      "pulsions"
+    ],
+    "en": [
+      "unconscious",
+      "psychoanalysis",
+      "repression",
+      "drives"
+    ]
+  },
+  "axes": [
+    "INTERIORITY",
+    "SELF_NATURE",
+    "EMOTIONS",
+    "MORAL_RESPONSIBILITY"
+  ]
+}

@@ -2,7 +2,7 @@
 
 # The deprivation argument
 
-*Objection to [Death](../axes/death.md) : Death is nothing*
+*Objection to [Death](../axes/death.md) : Freeing ourselves from the fear*
 
 **Death is an evil because it deprives us of all that life would have offered us.**
 

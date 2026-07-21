@@ -11,8 +11,8 @@ import type { Workspace } from "./workspace.js";
 
 const T = {
   guidance: {
-    en: "Open the conversation FROM this data, in a few warm and simple sentences adapted to user.expertise — never show this JSON or enumerate it all. Where they stand, the open thread (next) if any, then two or three ways to continue.",
-    fr: "Ouvrir la conversation À PARTIR de ces données, en quelques phrases chaleureuses et simples adaptées à user.expertise — ne jamais montrer ce JSON ni tout énumérer. Où en est la personne, le fil laissé ouvert (next) s'il existe, puis deux ou trois façons de continuer.",
+    en: "Open the conversation FROM this data, in a few warm and simple sentences adapted to user.expertise — never show this JSON or enumerate it all. Where they stand, the open thread (next) if any, then two or three ways to continue. For someone unsure where to begin, a featured theme (referential.themes.featured — a general-public entry point) or an affinity they hold is the easiest way in.",
+    fr: "Ouvrir la conversation À PARTIR de ces données, en quelques phrases chaleureuses et simples adaptées à user.expertise — ne jamais montrer ce JSON ni tout énumérer. Où en est la personne, le fil laissé ouvert (next) s'il existe, puis deux ou trois façons de continuer. Pour quelqu'un qui ne sait pas par où commencer, un thème mis en avant (referential.themes.featured, une porte d'entrée grand public) ou une affinité qu'il porte est l'entrée la plus facile.",
   },
   referential: {
     en: (axes: number) =>
@@ -68,6 +68,16 @@ export function computeOrient(corpus: Corpus, ws: Workspace, locale: Locale) {
   const byRelation: Record<string, number> = {};
   for (const axis of axesList) byRelation[axis.relation] = (byRelation[axis.relation] ?? 0) + 1;
 
+  // Themes: the general-public entry points. featured = the curated selection to
+  // offer someone unsure where to begin (a life theme, a school-programme notion).
+  const featuredThemes: string[] = [];
+  let themeCount = 0;
+  for (const [ref, entity] of corpus.byRef) {
+    if (!ref.startsWith("theme:")) continue;
+    themeCount += 1;
+    if (entity.featured) featuredThemes.push(pickLocale(entity.label, locale));
+  }
+
   const referential = {
     what: T.referential[locale](axesList.length),
     axesByRelation: byRelation,
@@ -77,6 +87,7 @@ export function computeOrient(corpus: Corpus, ws: Workspace, locale: Locale) {
     thoughtExperiments: countByPrefix(corpus, "te"),
     works: countByPrefix(corpus, "w"),
     liveProblems: countByPrefix(corpus, "problem"),
+    ...(themeCount > 0 ? { themes: { count: themeCount, featured: featuredThemes } } : {}),
   };
 
   const base = { guidance: T.guidance[locale], referential, sessionMenu: T.menu[locale] };

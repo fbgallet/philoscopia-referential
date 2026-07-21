@@ -60,7 +60,7 @@ Les normes morales ne sont ni découvertes dans la nature des choses ni simpleme
 
 ## Axes liés
 
-[Nature des droits](../axes/rights-nature.md) · [Critère du juste](../axes/ethics-foundation.md) · [Cercle moral](../axes/moral-circle.md) · [Nature de la vérité](../axes/truth-nature.md) · [Place de la science](../axes/science-place.md) · [Place de l'homme dans la nature](../axes/human-place-nature.md)
+[Nature des droits](../axes/rights-nature.md) · [Critère du juste](../axes/ethics-foundation.md) · [Cercle moral](../axes/moral-circle.md) · [Nature de la vérité](../axes/truth-nature.md) · [Place de la science](../axes/science-place.md) · [Place de l'homme dans la nature](../axes/human-place-nature.md) · [La source de la morale](../axes/moral-source.md)
 
 ---
 

@@ -1,8 +1,33 @@
 {
   "id": "sapere-aude-aie-le-courage-de-kant",
-  "text": { "fr": "Sapere aude ! Aie le courage de te servir de ton propre entendement : telle est la devise des Lumières.", "en": "Sapere aude! Have courage to use your own understanding: this is the motto of the Enlightenment." },
-  "author": { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" },
-  "source": { "fr": "Réponse à la question : Qu'est-ce que les Lumières ?", "en": "An Answer to the Question: What Is Enlightenment?" },
-  "anchors": [{ "axisId": "CONSERVATISM_PROGRESSISM", "poleId": "PROGRESSISM" }, { "axisId": "SCIENCE_PLACE" }],
-  "updatedAt": "2026-07-17T00:00:00.000Z"
+  "text": {
+    "fr": "Sapere aude ! Aie le courage de te servir de ton propre entendement : telle est la devise des Lumières.",
+    "en": "Sapere aude! Have courage to use your own understanding: this is the motto of the Enlightenment."
+  },
+  "author": {
+    "name": {
+      "fr": "Kant",
+      "en": "Kant"
+    },
+    "kind": "PHILOSOPHER",
+    "slug": "kant"
+  },
+  "source": {
+    "fr": "Réponse à la question : Qu'est-ce que les Lumières ?",
+    "en": "An Answer to the Question: What Is Enlightenment?"
+  },
+  "anchors": [
+    {
+      "axisId": "CONSERVATISM_PROGRESSISM",
+      "poleId": "PROGRESSISM"
+    },
+    {
+      "axisId": "SCIENCE_PLACE"
+    },
+    {
+      "axisId": "TRUTH_VALUE",
+      "poleId": "PRIMACY_OF_TRUTH"
+    }
+  ],
+  "updatedAt": "2026-07-19T00:00:00.000Z"
 }

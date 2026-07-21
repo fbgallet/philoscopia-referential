@@ -1,0 +1,29 @@
+{
+  "id": "attention",
+  "label": {
+    "fr": "L'attention",
+    "en": "Attention"
+  },
+  "aliases": {
+    "fr": [
+      "attention",
+      "distraction",
+      "divertissement",
+      "réseaux sociaux",
+      "concentration"
+    ],
+    "en": [
+      "attention",
+      "distraction",
+      "entertainment",
+      "social media",
+      "focus"
+    ]
+  },
+  "featured": true,
+  "axes": [
+    "ATTENTION",
+    "TECHNOLOGY",
+    "INTERIORITY"
+  ]
+}

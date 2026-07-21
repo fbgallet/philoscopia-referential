@@ -6,7 +6,7 @@ Le réductionnisme explique un tout par ses parties les plus simples : comprendr
 
 **Porte une position vers** : [Tout et parties](../axes/reduction-emergence.md) : Réductionnisme
 
-**En jeu dans** : [Tout et parties](../axes/reduction-emergence.md) · [Nature de la conscience](../axes/consciousness-nature.md)
+**En jeu dans** : [Tout et parties](../axes/reduction-emergence.md) · [L'énigme de la conscience](../axes/consciousness-nature.md)
 
 **Voir aussi** : [Émergentisme](../glossary/emergentism.md) · [Matérialisme](../glossary/materialism.md)
 

@@ -52,7 +52,7 @@ Si rien n'est bon ou mauvais par nature, alors aucun objet ne mérite qu'on le p
 
 *positionné · inférable · majeure*
 
-Intellectualisme 80% · Sentimentalisme 20%
+Primauté de la raison 80% · Le primat du sentiment 20%
 
 Le trouble, pour Pyrrhon, naît de l'opinion qu'une chose est bonne ou mauvaise : ôtez le jugement, l'émotion qui en dépendait tombe. C'est un intellectualisme des passions, partagé avec les stoïciens, mais il le pousse plus loin qu'eux, car il retire non seulement les faux jugements mais l'acte même de juger les choses. Une nuance le retient de l'extrême : la tradition reconnaît que le sage souffre encore du corps, du froid ou de la douleur, affections que nulle suspension n'abolit. Diogène Laërce rapporte d'ailleurs que Pyrrhon, surpris un jour à fuir un chien, avoua qu'il est difficile de dépouiller entièrement l'homme.
 
@@ -124,7 +124,7 @@ Le scepticisme de Pyrrhon est d'abord une attitude tournée vers l'épreuve des 
 
 Tenant les choses pour indéterminées, Pyrrhon ne peut adopter aucune théorie du vrai, par correspondance, cohérence ou autre, sans contredire sa propre suspension. Il s'en tient à ce qui apparaît et ne se prononce pas sur ce qui serait vrai « par nature ».
 
-### [Nature de l'esprit et du réel](../axes/reality-nature.md)
+### [Nature du réel](../axes/reality-nature.md)
 
 *non applicable*
 

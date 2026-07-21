@@ -136,7 +136,7 @@ Because the value disclosed in [revolt](../glossary/revolt.md) is never that of 
 
 *positioned · explicit in the texts · major*
 
-Presentism 80% · Project 10% · Memory and transmission 10%
+Living in the present 80% · Project 10% · Memory and transmission 10%
 
 Deprived of transcendent meaning, absurd man bets on the quantity of experiences rather than their quality or any future project: to exhaust the present, to multiply lived moments. This is the **presentism** exalted through Don Juan and the actor in *[The Myth of Sisyphus](../works/the-myth-of-sisyphus-camus.md)*.
 
@@ -176,7 +176,7 @@ Universalism 60% · Constructivism 30% · Relativism 10%
 
 *positioned · inferable · minor*
 
-Revolt / refusal 65% · Death is nothing 20% · Being-toward-death 15%
+Refusing death 65% · Freeing ourselves from the fear 20% · Living in view of one's death 15%
 
 Death is the scandal par excellence: the horizon that reveals [the absurd](../glossary/the-absurd.md) and ruins all hope, but which Camus refuses to greet with serenity. To resignation as much as to the hope of a beyond, he opposes revolt: to die unreconciled, lucid and in revolt, with no appeal and no consolation. It is in this obstinate refusal, not in acceptance, that the absurd man asserts his greatness.
 
@@ -284,11 +284,21 @@ A question foreign to Camus's work: nothing in his texts allows positioning him 
 
 *positioned · explicit in the texts · major*
 
-Revolt / anti-theodicy 85% · Argument from evil (atheism) 15%
+Unjustifiable evil 85% · Evil refutes God 15%
 
 In The Plague, before a child's agony, Rieux refuses to love a creation in which children are tortured. No harmony, no salvation justifies this suffering: a flat refusal of all theodicy, the revolt against an order that would demand it.
 
 *Sources : The Plague, IV; The Rebel*
+
+### [The value of truth](../axes/truth-value.md)
+
+*positioned · explicit in the texts · major*
+
+The primacy of truth 90% · Vital illusions 10%
+
+Keeping the [absurd](../glossary/the-absurd.md) alive requires rigging neither of its two terms: any consolation that lends the world a hidden meaning is an evasion, a philosophical suicide. Lucidity is not sadness but the honour of living: to see clearly and live all the same, without appeal, is the only greatness within reach.
+
+*Sources : The Myth of Sisyphus (1942)*
 
 ## Influenced by
 

@@ -1,0 +1,26 @@
+{
+  "id": "progress",
+  "label": {
+    "fr": "Le progrès",
+    "en": "Progress"
+  },
+  "aliases": {
+    "fr": [
+      "progrès",
+      "innovation",
+      "décadence"
+    ],
+    "en": [
+      "progress",
+      "innovation",
+      "decline"
+    ]
+  },
+  "axes": [
+    "CONSERVATISM_PROGRESSISM",
+    "TECHNOLOGY",
+    "HUMAN_ENHANCEMENT",
+    "HISTORY_MEANING",
+    "HOPE"
+  ]
+}

@@ -36,7 +36,7 @@ To divert oneself is not to betray one's life but to make it livable: no one can
 
 ## Related axes
 
-[Interiority](../axes/interiority.md) · [Temporal orientation](../axes/time-orientation.md) · [Vision of humanity](../axes/human-vision.md) · [Relation to technology](../axes/technology.md)
+[Interiority](../axes/interiority.md) · [Temporal orientation](../axes/time-orientation.md) · [Vision of humanity](../axes/human-vision.md) · [Relation to technology](../axes/technology.md) · [The value of truth](../axes/truth-value.md)
 
 ---
 

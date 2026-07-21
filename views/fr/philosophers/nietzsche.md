@@ -20,7 +20,7 @@ Philosophe et philologue allemand, professeur à Bâle à vingt-quatre ans avant
 
 *positionné · inférable · mineure*
 
-Être-pour-la-mort 60% · La mort n'est rien 35% · Révolte / refus 5%
+Vivre en vue de sa mort 60% · Se libérer de la crainte 35% · Refuser la mort 5%
 
 Nietzsche congédie l'au-delà chrétien comme une calomnie de la vie, et refuse aussi de faire de la mort un mal absolu : il prêche une **mort libre**, choisie à la bonne heure, qui couronne l'existence au lieu de la subir. Mourir sa propre mort, au sommet, c'est faire de sa fin un acte et un accomplissement, dans l'amor fati qui dit oui jusqu'à l'éternel retour.
 
@@ -142,7 +142,7 @@ Dès la *[Naissance de la tragédie](../works/the-birth-of-tragedy-nietzsche.md)
 
 *positionné · inférable · mineure*
 
-Sentimentalisme 80% · Intellectualisme 20%
+Le primat du sentiment 80% · Primauté de la raison 20%
 
 Sa psychologie des pulsions fait des affects la source réelle des pensées et des valeurs : la raison consciente n'est qu'une surface tardive du jeu des instincts. La position est déduite de ce principe répété plutôt que d'une thèse frontale sur le statut des émotions.
 
@@ -230,7 +230,7 @@ La généalogie est une méthode anti-téléologique : elle traque le commenceme
 
 *Sources : Généalogie de la morale, II, §12 · Crépuscule des idoles, « Flâneries inactuelles », §44*
 
-### [Nature de l'esprit et du réel](../axes/reality-nature.md)
+### [Nature du réel](../axes/reality-nature.md)
 
 *positionné · inférable · mineure*
 
@@ -264,7 +264,7 @@ Au-delà de sa critique de « la » morale, l'éthique positive de Nietzsche val
 
 *positionné · inférable · mineure*
 
-Présentisme 70% · Projet 30%
+Vivre au présent 70% · Projet 30%
 
 L'[éternel retour](../glossary/eternal-recurrence.md) et l'[amor fati](../glossary/amor-fati.md) commandent d'aimer l'instant assez pour en vouloir l'éternelle répétition : le poids tombe sur la plénitude du présent affirmé. Une part de projet demeure, car le [surhumain](../glossary/ubermensch.md) est une tâche à accomplir, mais Nietzsche dévalorise l'excès de mémoire historique qui paralyse l'action.
 
@@ -301,6 +301,18 @@ Nominalisme 90% · Réalisme des universaux 10%
 Les concepts naissent en égalant ce qui n'est pas égal : oubliant les différences singulières, nous forgeons des formes et des essences là où il n'y a que des cas uniques et changeants. L'universel est une fiction utile, non une réalité.
 
 *Sources : Vérité et mensonge au sens extra-moral*
+
+### [Valeur de la vérité](../axes/truth-value.md)
+
+*positionné · explicite dans les textes · majeure*
+
+Illusions vitales 90% · Primauté de la vérité 10%
+
+Le premier, il retourne la question : d'où vient que nous voulions le vrai plutôt que l'illusion, et si cette volonté de vérité était elle-même une foi héritée, le dernier avatar de l'idéal ascétique ? La vie exige des perspectives, des fictions, de l'art ; non que Nietzsche prêche le mensonge confortable : sa probité est impitoyable, mais elle s'exerce au service de la vie, qui reste l'instance qui évalue.
+
+> « Nous avons l'art pour ne pas périr de la vérité. », Fragments posthumes, printemps 1888, 16 [40]
+
+*Sources : Par-delà bien et mal, §1 (1886) · Généalogie de la morale, III (1887)*
 
 ## Influencé par
 

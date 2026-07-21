@@ -1,0 +1,30 @@
+{
+  "id": "knowledge",
+  "label": {
+    "fr": "La connaissance",
+    "en": "Knowledge"
+  },
+  "aliases": {
+    "fr": [
+      "connaissance",
+      "savoir",
+      "connaître",
+      "apprendre",
+      "comprendre"
+    ],
+    "en": [
+      "knowledge",
+      "knowing",
+      "learning",
+      "understanding"
+    ]
+  },
+  "featured": true,
+  "axes": [
+    "KNOWLEDGE_SOURCE",
+    "KNOWLEDGE_STATUS",
+    "EPISTEMIC_JUSTIFICATION",
+    "CERTAINTY",
+    "BELIEF_ETHICS"
+  ]
+}

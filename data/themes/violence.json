@@ -1,0 +1,32 @@
+{
+  "id": "violence",
+  "label": {
+    "fr": "La violence",
+    "en": "Violence"
+  },
+  "aliases": {
+    "fr": [
+      "violence",
+      "guerre",
+      "agression",
+      "conflit",
+      "cruauté",
+      "brutalité"
+    ],
+    "en": [
+      "violence",
+      "war",
+      "aggression",
+      "conflict",
+      "cruelty",
+      "brutality"
+    ]
+  },
+  "featured": true,
+  "axes": [
+    "VIOLENCE",
+    "PUNISHMENT",
+    "AUTHORITY",
+    "HUMAN_VISION"
+  ]
+}

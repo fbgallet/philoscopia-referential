@@ -14,8 +14,13 @@
     "en": "Philosophizing from lived experience: womanhood, old age, everything once held to be natural destiny, rethought as a socially shaped <c>situation</c>, and therefore open to change."
   },
   "aliases": {
-    "fr": ["beauvoirien", "beauvoirienne"],
-    "en": ["Beauvoirian"]
+    "fr": [
+      "beauvoirien",
+      "beauvoirienne"
+    ],
+    "en": [
+      "Beauvoirian"
+    ]
   },
   "summary": {
     "fr": "Philosophe française du XXe siècle, figure du <mv id='existentialism'>existentialisme</mv> aux côtés de <ph id='sartre'>Sartre</ph>, formée à la <mv id='phenomenology'>phénoménologie</mv> de <ph>Husserl</ph> et de <ph id='merleau-ponty'>Merleau-Ponty</ph>. Romancière, mémorialiste et théoricienne, elle est surtout l'autrice du <w>Deuxième Sexe</w> (1949), enquête qui croise biologie, histoire, psychanalyse et marxisme pour comprendre la condition faite aux femmes, et de <w>Pour une morale de l'ambiguïté</w> (1947), où elle tente l'éthique que l'existentialisme avait promise sans l'écrire. Longtemps reçue comme la disciple de Sartre, elle est aujourd'hui relue comme une penseuse à part entière, fondatrice du féminisme philosophique contemporain et source majeure des théories du genre.",
@@ -827,7 +832,12 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0, 0.3, 0, 0.7]
+        "weights": [
+          0,
+          0.3,
+          0,
+          0.7
+        ]
       },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
@@ -840,6 +850,29 @@
           {
             "fr": "Le Deuxième Sexe (1949), t. II, « L'amoureuse »",
             "en": "The Second Sex (1949), vol. II, \"The Woman in Love\""
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TRUTH_VALUE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'<c>esprit de sérieux</c> est sa cible constante : se soumettre à des valeurs toutes faites comme à des choses, c'est fuir dans une fausse nécessité la liberté qui les porte. Assumer l'<c>ambiguïté</c> de la condition humaine, sans la résoudre par des absolus rassurants, est la première exigence morale.",
+          "en": "The <c>spirit of seriousness</c> is her constant target: submitting to ready-made values as if they were things means fleeing into a false necessity the freedom that carries them. To assume the <c>ambiguity</c> of the human condition, without resolving it into reassuring absolutes, is the first moral requirement."
+        },
+        "references": [
+          {
+            "fr": "Pour une morale de l'ambiguïté (1947)",
+            "en": "The Ethics of Ambiguity (1947)"
           }
         ],
         "strength": "MEDIUM"
@@ -883,7 +916,7 @@
       }
     }
   ],
-  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

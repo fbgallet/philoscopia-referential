@@ -30,7 +30,7 @@ No general rule can anticipate every particular case: judging well requires prac
 
 ## Related axes
 
-[Criterion of right action](../axes/ethics-foundation.md) · [Sincerity](../axes/sincerity.md)
+[Criterion of right action](../axes/ethics-foundation.md) · [Sincerity](../axes/sincerity.md) · [Law and conscience](../axes/political-obligation.md)
 
 ---
 

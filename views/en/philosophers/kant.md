@@ -8,7 +8,7 @@ German Enlightenment philosopher, a professor at Königsberg he never left, a pi
 
 ## Core positions
 
-1. [Nature of mind and reality](../axes/reality-nature.md) : **We never know things as they are in themselves, only phenomena: it is the mind that, through its a priori forms, constitutes the object of knowledge.**
+1. [Nature of reality](../axes/reality-nature.md) : **We never know things as they are in themselves, only phenomena: it is the mind that, through its a priori forms, constitutes the object of knowledge.**
 2. [Source of knowledge](../axes/knowledge-source.md) : **All knowledge begins with experience but does not all derive from it: without concepts intuitions are blind, without intuitions concepts are empty.**
 3. [Criterion of right action](../axes/ethics-foundation.md) : **An action has moral worth only when done from duty, never from its consequences: act only on a maxim you can will as a [universal law](../glossary/categorical-imperative.md).**
 4. [Freedom of the will](../axes/freedom.md) : **As a phenomenon the human being is fully [determined](../glossary/determinism.md), but as a [thing in itself](../glossary/thing-in-itself.md) he is [free](../glossary/free-will.md): "you ought" implies "you can".**
@@ -40,7 +40,7 @@ The meaning of life, for Kant, lies in the moral vocation: to become worthy of h
 
 *positioned · explicit in the texts · minor*
 
-Immortalism 80% · Death is nothing 10% · Being-toward-death 10%
+Preparing for the passage 80% · Freeing ourselves from the fear 10% · Living in view of one's death 10%
 
 Theoretical reason cannot prove that the soul survives the body, but practical reason postulates it: the moral law commands a perfection that no finite life completes, which requires an indefinite progress, hence the immortality of the soul. An immortality not demonstrated but postulated, a rational belief resting on morality.
 
@@ -178,13 +178,13 @@ Punishment is demanded by justice itself, as **retribution** proportionate to th
 
 *positioned · extrapolated · minor*
 
-Biological naturalism 75% · Functionalism 25%
+Only the living think 75% · The substrate does not matter 25%
 
 A modern question, foreign to the corpus: one may nevertheless conjecture that Kant would refuse to ascribe thought to pure mechanism, since thinking requires the **spontaneity of apperception**, and he opposes the self-organizing organism to the watch, a mere machine. A speculative reading, to be presented as such.
 
 *Sources : Critique of Pure Reason, Transcendental Deduction (B131-B132) · Critique of the Power of Judgment, §65*
 
-### [Nature of mind and reality](../axes/reality-nature.md)
+### [Nature of reality](../axes/reality-nature.md)
 
 *positioned · explicit in the texts · major*
 
@@ -353,6 +353,18 @@ Natural rights 85% · Political constructivism 15%
 Right is derived a priori from reason, not from utility nor from positive law alone: every human being possesses, by virtue of their humanity, an innate right to freedom, grounded in the dignity of the person as an end in itself. A rational version of natural rights.
 
 *Sources : The Metaphysics of Morals, Doctrine of Right*
+
+### [The value of truth](../axes/truth-value.md)
+
+*positioned · explicit in the texts · minor*
+
+The primacy of truth 80% · Vital illusions 20%
+
+Dare to know: leaving the minority for which one is oneself responsible requires relying on one's own understanding alone, and wherever a truth can be established, within the field of possible experience, it prevails without rival. But critique bounds that field: beyond it reason no longer knows, and claiming knowledge there would be dogmatism; rational faith does not replace an available truth there, it occupies a place that knowledge structurally cannot fill.
+
+> “Sapere aude! Have courage to use your own understanding: this is the motto of the Enlightenment.”, An Answer to the Question: What Is Enlightenment?
+
+*Sources : What Is Enlightenment? (1784) · Critique of Pure Reason, B preface (1787)*
 
 ## Influenced by
 

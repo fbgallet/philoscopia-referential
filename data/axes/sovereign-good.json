@@ -11,8 +11,28 @@
     "en": "What makes a life truly good: pleasure, flourishing, or virtue?"
   },
   "stakes": {
-    "fr": "Cette fin dernière hiérarchise en silence tous nos arbitrages : santé, travail, liens, plaisirs n'ont de valeur que rapportés à elle. Se tromper de bien suprême, c'est réussir une vie qui n'était pas la sienne.",
-    "en": "This ultimate end silently ranks all our trade-offs: health, work, relationships, and pleasures have worth only in relation to it. To mistake the highest good is to succeed at a life that was never one's own."
+    "fr": "« Souverain bien » est le nom classique du bonheur au sens plein : non l'humeur d'un instant, mais ce qui fait qu'une vie entière est réussie, ce que les Grecs nommaient eudaimonia. Reste à savoir en quoi il consiste, et la question n'a rien d'anodin : ce qui remplit une vie de plaisir peut la vider de sens, ce qui la rend vertueuse peut la priver de bonheur. Selon la réponse qu'on lui donne, souvent sans se la formuler, on ne poursuit pas la même vie, et une époque ne se fait pas le même idéal de réussite.",
+    "en": "\"The highest good\" is the classical name for happiness in the fullest sense: not the mood of a moment, but what makes an entire life a good one, what the Greeks called eudaimonia. What it consists in is another matter, and the question is far from idle: what fills a life with pleasure can drain it of meaning, and what makes it virtuous can cost it its happiness. Depending on the answer we give, often without ever putting it to ourselves, we do not pursue the same life, and an age does not set itself the same ideal of success."
+  },
+  "aliases": {
+    "fr": [
+      "bonheur",
+      "vie bonne",
+      "épanouissement",
+      "eudémonie",
+      "vie réussie",
+      "vertu",
+      "bien-être"
+    ],
+    "en": [
+      "happiness",
+      "the good life",
+      "flourishing",
+      "eudaimonia",
+      "well-being",
+      "wellbeing",
+      "virtue"
+    ]
   },
   "layer": "VALUE",
   "type": "TRIANGULAR",
@@ -109,384 +129,1023 @@
     "BELONGING",
     "BELIEF_ETHICS",
     "DISTRIBUTIVE_JUSTICE",
-    "METAPHILOSOPHY"
+    "METAPHILOSOPHY",
+    "TRUTH_VALUE"
   ],
   "problems": [
     {
       "id": "happiness-without-reality",
       "resolution": "SURFACED",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "une vie", "en": "a life" },
+      "objectLabel": {
+        "fr": "une vie",
+        "en": "a life"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "machine à expériences", "en": "experience machine" },
-        { "fr": "simulation", "en": "simulation" },
-        { "fr": "authenticité", "en": "authenticity" },
-        { "fr": "illusion", "en": "illusion" }
+        {
+          "fr": "machine à expériences",
+          "en": "experience machine"
+        },
+        {
+          "fr": "simulation",
+          "en": "simulation"
+        },
+        {
+          "fr": "authenticité",
+          "en": "authenticity"
+        },
+        {
+          "fr": "illusion",
+          "en": "illusion"
+        }
       ],
       "sphere": "VITAL",
-      "poles": ["HEDONISM", "EUDAIMONISM"],
-      "anchors": [
-        { "name": { "fr": "Nozick", "en": "Nozick" }, "kind": "PHILOSOPHER", "slug": "nozick" },
-        { "name": { "fr": "Bentham", "en": "Bentham" }, "kind": "PHILOSOPHER", "slug": "bentham" }
+      "poles": [
+        "HEDONISM",
+        "EUDAIMONISM"
       ],
-      "title": { "fr": "Le bonheur sans la réalité", "en": "Happiness without reality" },
-      "explicitation": { "fr": "Une vie de plaisir parfait mais entièrement simulée serait-elle le souverain bien, ou la vie la plus haute exige-t-elle le contact avec le réel, et non le seul sentiment du bonheur ?", "en": "Would a life of perfect but wholly simulated pleasure be the highest good, or does the highest life require contact with reality, and not merely the feeling of happiness?" },
-      "ref": { "kind": "THOUGHT_EXPERIMENT", "id": "experience-machine" }
+      "anchors": [
+        {
+          "name": {
+            "fr": "Nozick",
+            "en": "Nozick"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "nozick"
+        },
+        {
+          "name": {
+            "fr": "Bentham",
+            "en": "Bentham"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "bentham"
+        }
+      ],
+      "title": {
+        "fr": "Le bonheur sans la réalité",
+        "en": "Happiness without reality"
+      },
+      "explicitation": {
+        "fr": "Une vie de plaisir parfait mais entièrement simulée serait-elle le souverain bien, ou la vie la plus haute exige-t-elle le contact avec le réel, et non le seul sentiment du bonheur ?",
+        "en": "Would a life of perfect but wholly simulated pleasure be the highest good, or does the highest life require contact with reality, and not merely the feeling of happiness?"
+      },
+      "ref": {
+        "kind": "THOUGHT_EXPERIMENT",
+        "id": "experience-machine"
+      }
     },
     {
       "id": "desire-or-feeling",
       "resolution": "LATENT",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "une vie", "en": "a life" },
+      "objectLabel": {
+        "fr": "une vie",
+        "en": "a life"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "satisfaction des désirs", "en": "desire satisfaction" },
-        { "fr": "exigence d'expérience", "en": "experience requirement" },
-        { "fr": "accomplissement", "en": "fulfilment" }
+        {
+          "fr": "satisfaction des désirs",
+          "en": "desire satisfaction"
+        },
+        {
+          "fr": "exigence d'expérience",
+          "en": "experience requirement"
+        },
+        {
+          "fr": "accomplissement",
+          "en": "fulfilment"
+        }
       ],
       "sphere": "VITAL",
-      "poles": ["HEDONISM", "EUDAIMONISM"],
-      "anchors": [
-        { "name": { "fr": "Parfit", "en": "Parfit" }, "kind": "PHILOSOPHER", "slug": "parfit" },
-        { "name": { "fr": "Railton", "en": "Railton" }, "kind": "PHILOSOPHER" }
+      "poles": [
+        "HEDONISM",
+        "EUDAIMONISM"
       ],
-      "title": { "fr": "Désirer ou ressentir", "en": "Wanting or feeling" },
-      "explicitation": { "fr": "Le bien-être, est-ce ce que l'on ressent, ou l'accomplissement de ce que l'on veut vraiment, même quand on n'en éprouve jamais la satisfaction, comme un enfant qui prospère après notre mort ?", "en": "Is wellbeing what one feels, or the fulfilment of what one truly wants, even when one never experiences that fulfilment, like a child who flourishes after our death?" }
+      "anchors": [
+        {
+          "name": {
+            "fr": "Parfit",
+            "en": "Parfit"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "parfit"
+        },
+        {
+          "name": {
+            "fr": "Railton",
+            "en": "Railton"
+          },
+          "kind": "PHILOSOPHER"
+        }
+      ],
+      "title": {
+        "fr": "Désirer ou ressentir",
+        "en": "Wanting or feeling"
+      },
+      "explicitation": {
+        "fr": "Le bien-être, est-ce ce que l'on ressent, ou l'accomplissement de ce que l'on veut vraiment, même quand on n'en éprouve jamais la satisfaction, comme un enfant qui prospère après notre mort ?",
+        "en": "Is wellbeing what one feels, or the fulfilment of what one truly wants, even when one never experiences that fulfilment, like a child who flourishes after our death?"
+      }
     },
     {
       "id": "moment-or-whole-life",
       "resolution": "LATENT",
       "object": "RELATION",
-      "objectLabel": { "fr": "le cours d'une vie", "en": "the course of a life" },
+      "objectLabel": {
+        "fr": "le cours d'une vie",
+        "en": "the course of a life"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "forme d'une vie", "en": "shape of a life" },
-        { "fr": "récit", "en": "narrative" },
-        { "fr": "trajectoire", "en": "trajectory" }
+        {
+          "fr": "forme d'une vie",
+          "en": "shape of a life"
+        },
+        {
+          "fr": "récit",
+          "en": "narrative"
+        },
+        {
+          "fr": "trajectoire",
+          "en": "trajectory"
+        }
       ],
       "sphere": "EXISTENTIAL",
       "anchors": [
-        { "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" },
-        { "name": { "fr": "Velleman", "en": "Velleman" }, "kind": "PHILOSOPHER" }
+        {
+          "name": {
+            "fr": "Aristote",
+            "en": "Aristotle"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "aristotle"
+        },
+        {
+          "name": {
+            "fr": "Velleman",
+            "en": "Velleman"
+          },
+          "kind": "PHILOSOPHER"
+        }
       ],
-      "title": { "fr": "L'instant ou la vie entière", "en": "The moment or the whole life" },
-      "explicitation": { "fr": "Une vie vaut-elle par la somme de ses bons moments, ou par sa forme d'ensemble, de sorte qu'une vie qui s'élève vaudrait mieux qu'une vie qui décline, à plaisir total égal ?", "en": "Is a life worth the sum of its good moments, or its overall shape, so that a life rising would be worth more than one declining, at equal total pleasure?" }
+      "title": {
+        "fr": "L'instant ou la vie entière",
+        "en": "The moment or the whole life"
+      },
+      "explicitation": {
+        "fr": "Une vie vaut-elle par la somme de ses bons moments, ou par sa forme d'ensemble, de sorte qu'une vie qui s'élève vaudrait mieux qu'une vie qui décline, à plaisir total égal ?",
+        "en": "Is a life worth the sum of its good moments, or its overall shape, so that a life rising would be worth more than one declining, at equal total pleasure?"
+      }
     },
     {
       "id": "wanted-or-good",
       "resolution": "LATENT",
       "object": "STRUCTURE",
-      "objectLabel": { "fr": "le bien-être", "en": "wellbeing" },
+      "objectLabel": {
+        "fr": "le bien-être",
+        "en": "wellbeing"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "liste objective", "en": "objective list" },
-        { "fr": "subjectif", "en": "subjective" },
-        { "fr": "capabilités", "en": "capabilities" }
+        {
+          "fr": "liste objective",
+          "en": "objective list"
+        },
+        {
+          "fr": "subjectif",
+          "en": "subjective"
+        },
+        {
+          "fr": "capabilités",
+          "en": "capabilities"
+        }
       ],
       "sphere": "VITAL",
-      "poles": ["EUDAIMONISM"],
-      "anchors": [
-        { "name": { "fr": "Nussbaum", "en": "Nussbaum" }, "kind": "PHILOSOPHER", "slug": "nussbaum" },
-        { "name": { "fr": "Finnis", "en": "Finnis" }, "kind": "PHILOSOPHER" }
+      "poles": [
+        "EUDAIMONISM"
       ],
-      "title": { "fr": "Ce qu'on veut ou ce qui est bon", "en": "What we want or what is good" },
-      "explicitation": { "fr": "Le bien-être dépend-il entièrement de ce que chacun désire ou ressent, ou certaines choses, comme la santé, l'amitié ou la connaissance, sont-elles bonnes pour nous que nous les voulions ou non ?", "en": "Does wellbeing depend entirely on what each of us desires or feels, or are some things, such as health, friendship, or knowledge, good for us whether we want them or not?" }
+      "anchors": [
+        {
+          "name": {
+            "fr": "Nussbaum",
+            "en": "Nussbaum"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "nussbaum"
+        },
+        {
+          "name": {
+            "fr": "Finnis",
+            "en": "Finnis"
+          },
+          "kind": "PHILOSOPHER"
+        }
+      ],
+      "title": {
+        "fr": "Ce qu'on veut ou ce qui est bon",
+        "en": "What we want or what is good"
+      },
+      "explicitation": {
+        "fr": "Le bien-être dépend-il entièrement de ce que chacun désire ou ressent, ou certaines choses, comme la santé, l'amitié ou la connaissance, sont-elles bonnes pour nous que nous les voulions ou non ?",
+        "en": "Does wellbeing depend entirely on what each of us desires or feels, or are some things, such as health, friendship, or knowledge, good for us whether we want them or not?"
+      }
     },
     {
       "id": "measuring-wellbeing",
       "resolution": "LATENT",
       "object": "STRUCTURE",
-      "objectLabel": { "fr": "le bien-être", "en": "wellbeing" },
+      "objectLabel": {
+        "fr": "le bien-être",
+        "en": "wellbeing"
+      },
       "mode": "DESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "calcul des plaisirs", "en": "felicific calculus" },
-        { "fr": "mesure", "en": "measurement" },
-        { "fr": "comparaison", "en": "comparison" }
+        {
+          "fr": "calcul des plaisirs",
+          "en": "felicific calculus"
+        },
+        {
+          "fr": "mesure",
+          "en": "measurement"
+        },
+        {
+          "fr": "comparaison",
+          "en": "comparison"
+        }
       ],
       "sphere": "VITAL",
-      "poles": ["HEDONISM"],
-      "anchors": [
-        { "name": { "fr": "Bentham", "en": "Bentham" }, "kind": "PHILOSOPHER", "slug": "bentham" },
-        { "name": { "fr": "Mill", "en": "Mill" }, "kind": "PHILOSOPHER", "slug": "mill" }
+      "poles": [
+        "HEDONISM"
       ],
-      "title": { "fr": "Peut-on mesurer le bonheur ?", "en": "Can happiness be measured?" },
-      "explicitation": { "fr": "Plaisirs et peines se laissent-ils additionner et comparer, comme le voulait le calcul des plaisirs, ou y a-t-il dans le bien-être quelque chose qui échappe à toute mesure commune ?", "en": "Can pleasures and pains be summed and compared, as the felicific calculus would have it, or is there in wellbeing something that escapes any common measure?" }
+      "anchors": [
+        {
+          "name": {
+            "fr": "Bentham",
+            "en": "Bentham"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "bentham"
+        },
+        {
+          "name": {
+            "fr": "Mill",
+            "en": "Mill"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "mill"
+        }
+      ],
+      "title": {
+        "fr": "Peut-on mesurer le bonheur ?",
+        "en": "Can happiness be measured?"
+      },
+      "explicitation": {
+        "fr": "Plaisirs et peines se laissent-ils additionner et comparer, comme le voulait le calcul des plaisirs, ou y a-t-il dans le bien-être quelque chose qui échappe à toute mesure commune ?",
+        "en": "Can pleasures and pains be summed and compared, as the felicific calculus would have it, or is there in wellbeing something that escapes any common measure?"
+      }
     },
     {
       "id": "virtue-and-misfortune",
       "resolution": "SURFACED",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "une vie", "en": "a life" },
+      "objectLabel": {
+        "fr": "une vie",
+        "en": "a life"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "fortune", "en": "fortune" },
-        { "fr": "chance", "en": "luck" },
-        { "fr": "Priam", "en": "Priam" }
+        {
+          "fr": "fortune",
+          "en": "fortune"
+        },
+        {
+          "fr": "chance",
+          "en": "luck"
+        },
+        {
+          "fr": "Priam",
+          "en": "Priam"
+        }
       ],
       "sphere": "MORAL",
-      "poles": ["MORAL_PERFECTIONISM", "EUDAIMONISM"],
-      "anchors": [
-        { "name": { "fr": "les stoïciens", "en": "the Stoics" }, "kind": "MOVEMENT", "slug": "stoicism" },
-        { "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" }
+      "poles": [
+        "MORAL_PERFECTIONISM",
+        "EUDAIMONISM"
       ],
-      "doorways": [{ "axis": "CONTROL_SCOPE" }],
-      "title": { "fr": "La vertu face au malheur", "en": "Virtue in the face of misfortune" },
-      "ref": { "kind": "THOUGHT_EXPERIMENT", "id": "fragility-of-goodness" }
+      "anchors": [
+        {
+          "name": {
+            "fr": "les stoïciens",
+            "en": "the Stoics"
+          },
+          "kind": "MOVEMENT",
+          "slug": "stoicism"
+        },
+        {
+          "name": {
+            "fr": "Aristote",
+            "en": "Aristotle"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "aristotle"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "CONTROL_SCOPE"
+        }
+      ],
+      "title": {
+        "fr": "La vertu face au malheur",
+        "en": "Virtue in the face of misfortune"
+      },
+      "ref": {
+        "kind": "THOUGHT_EXPERIMENT",
+        "id": "fragility-of-goodness"
+      }
     },
     {
       "id": "success-without-uprightness",
       "resolution": "LATENT",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "une vie", "en": "a life" },
+      "objectLabel": {
+        "fr": "une vie",
+        "en": "a life"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "immoralisme", "en": "immoralism" },
-        { "fr": "tyran", "en": "tyrant" },
-        { "fr": "Calliclès", "en": "Callicles" }
+        {
+          "fr": "immoralisme",
+          "en": "immoralism"
+        },
+        {
+          "fr": "tyran",
+          "en": "tyrant"
+        },
+        {
+          "fr": "Calliclès",
+          "en": "Callicles"
+        }
       ],
       "sphere": "MORAL",
-      "poles": ["HEDONISM", "EUDAIMONISM", "MORAL_PERFECTIONISM"],
-      "anchors": [
-        { "name": { "fr": "Platon", "en": "Plato" }, "kind": "PHILOSOPHER", "slug": "plato" },
-        { "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" }
+      "poles": [
+        "HEDONISM",
+        "EUDAIMONISM",
+        "MORAL_PERFECTIONISM"
       ],
-      "title": { "fr": "Réussir sans la droiture", "en": "Succeeding without uprightness" }
+      "anchors": [
+        {
+          "name": {
+            "fr": "Platon",
+            "en": "Plato"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "plato"
+        },
+        {
+          "name": {
+            "fr": "Nietzsche",
+            "en": "Nietzsche"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "nietzsche"
+        }
+      ],
+      "title": {
+        "fr": "Réussir sans la droiture",
+        "en": "Succeeding without uprightness"
+      }
     },
     {
       "id": "pleasure-quality",
       "resolution": "LATENT",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "une vie", "en": "a life" },
+      "objectLabel": {
+        "fr": "une vie",
+        "en": "a life"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "plaisirs supérieurs", "en": "higher pleasures" },
-        { "fr": "hiérarchie", "en": "hierarchy" },
-        { "fr": "Mill", "en": "Mill" }
+        {
+          "fr": "plaisirs supérieurs",
+          "en": "higher pleasures"
+        },
+        {
+          "fr": "hiérarchie",
+          "en": "hierarchy"
+        },
+        {
+          "fr": "Mill",
+          "en": "Mill"
+        }
       ],
       "sphere": "VITAL",
-      "poles": ["HEDONISM"],
-      "anchors": [{ "name": { "fr": "Mill", "en": "Mill" }, "kind": "PHILOSOPHER", "slug": "mill" }],
-      "doorways": [{ "axis": "BODILY_PLEASURES" }],
-      "title": { "fr": "Quantité ou qualité des plaisirs", "en": "Quantity or quality of pleasures" },
-      "explicitation": { "fr": "Une vie bonne se mesure-t-elle à la somme des plaisirs, ou certains plaisirs valent-ils plus que d'autres, indépendamment de leur intensité ?", "en": "Is a good life measured by the sum of its pleasures, or are some pleasures worth more than others, regardless of their intensity?" }
+      "poles": [
+        "HEDONISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Mill",
+            "en": "Mill"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "mill"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "BODILY_PLEASURES"
+        }
+      ],
+      "title": {
+        "fr": "Quantité ou qualité des plaisirs",
+        "en": "Quantity or quality of pleasures"
+      },
+      "explicitation": {
+        "fr": "Une vie bonne se mesure-t-elle à la somme des plaisirs, ou certains plaisirs valent-ils plus que d'autres, indépendamment de leur intensité ?",
+        "en": "Is a good life measured by the sum of its pleasures, or are some pleasures worth more than others, regardless of their intensity?"
+      }
     },
     {
       "id": "happy-fool",
       "resolution": "LATENT",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "une vie", "en": "a life" },
+      "objectLabel": {
+        "fr": "une vie",
+        "en": "a life"
+      },
       "mode": "PRESCRIPTIVE",
-      "relation": "SUBPROBLEM",
+      "relation": "RELATED",
       "keywords": [
-        { "fr": "aveuglement", "en": "blindness" },
-        { "fr": "naïveté", "en": "naivety" },
-        { "fr": "désillusion", "en": "disillusion" }
+        {
+          "fr": "aveuglement",
+          "en": "blindness"
+        },
+        {
+          "fr": "naïveté",
+          "en": "naivety"
+        },
+        {
+          "fr": "désillusion",
+          "en": "disillusion"
+        }
       ],
       "sphere": "EXISTENTIAL",
-      "doorways": [{ "axis": "BELIEF_ETHICS" }],
-      "title": { "fr": "L'imbécile heureux", "en": "The happy fool" },
-      "explicitation": { "fr": "Vaut-il mieux une vie lucide, même troublée par ce qu'elle découvre, qu'une vie heureuse dans l'ignorance ? La vérité fait-elle partie du bien ?", "en": "Is a lucid life better, even if troubled by what it discovers, than a happy life in ignorance? Is truth part of the good?" }
+      "doorways": [
+        {
+          "axis": "TRUTH_VALUE",
+          "problem": "lucid-or-happy"
+        }
+      ],
+      "title": {
+        "fr": "L'imbécile heureux",
+        "en": "The happy fool"
+      },
+      "explicitation": {
+        "fr": "Un bonheur bâti sur l'ignorance compte-t-il encore comme une vie réussie, ou manque-t-il au bien un de ses ingrédients ?",
+        "en": "Does a happiness built on ignorance still count as a successful life, or is the good then missing one of its ingredients?"
+      }
     },
     {
       "id": "joy-or-tranquillity",
       "resolution": "LATENT",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "une vie", "en": "a life" },
+      "objectLabel": {
+        "fr": "une vie",
+        "en": "a life"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "ataraxie", "en": "ataraxia" },
-        { "fr": "sérénité", "en": "serenity" },
-        { "fr": "modération", "en": "moderation" }
+        {
+          "fr": "ataraxie",
+          "en": "ataraxia"
+        },
+        {
+          "fr": "sérénité",
+          "en": "serenity"
+        },
+        {
+          "fr": "modération",
+          "en": "moderation"
+        }
       ],
       "sphere": "VITAL",
-      "poles": ["HEDONISM"],
-      "anchors": [
-        { "name": { "fr": "Épicure", "en": "Epicurus" }, "kind": "PHILOSOPHER", "slug": "epicurus" },
-        { "name": { "fr": "les stoïciens", "en": "the Stoics" }, "kind": "MOVEMENT", "slug": "stoicism" }
+      "poles": [
+        "HEDONISM"
       ],
-      "doorways": [{ "axis": "DESIRE" }],
-      "title": { "fr": "Jouissance ou tranquillité", "en": "Enjoyment or tranquillity" },
-      "explicitation": { "fr": "Le souverain bien est-il de jouir le plus possible, ou de se libérer du trouble et de la douleur, quitte à ne désirer que le nécessaire ?", "en": "Is the highest good to enjoy as much as possible, or to free oneself from disturbance and pain, even at the cost of desiring only what is necessary?" }
+      "anchors": [
+        {
+          "name": {
+            "fr": "Épicure",
+            "en": "Epicurus"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "epicurus"
+        },
+        {
+          "name": {
+            "fr": "les stoïciens",
+            "en": "the Stoics"
+          },
+          "kind": "MOVEMENT",
+          "slug": "stoicism"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "DESIRE"
+        }
+      ],
+      "title": {
+        "fr": "Jouissance ou tranquillité",
+        "en": "Enjoyment or tranquillity"
+      },
+      "explicitation": {
+        "fr": "Le souverain bien est-il de jouir le plus possible, ou de se libérer du trouble et de la douleur, quitte à ne désirer que le nécessaire ?",
+        "en": "Is the highest good to enjoy as much as possible, or to free oneself from disturbance and pain, even at the cost of desiring only what is necessary?"
+      }
     },
     {
       "id": "one-good-or-many",
       "resolution": "LATENT",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "une vie", "en": "a life" },
+      "objectLabel": {
+        "fr": "une vie",
+        "en": "a life"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "monisme", "en": "monism" },
-        { "fr": "dilemme tragique", "en": "tragic dilemma" },
-        { "fr": "valeurs", "en": "values" }
+        {
+          "fr": "monisme",
+          "en": "monism"
+        },
+        {
+          "fr": "dilemme tragique",
+          "en": "tragic dilemma"
+        },
+        {
+          "fr": "valeurs",
+          "en": "values"
+        }
       ],
       "anchors": [
-        { "name": { "fr": "Platon", "en": "Plato" }, "kind": "PHILOSOPHER", "slug": "plato" },
-        { "name": { "fr": "Berlin", "en": "Berlin" }, "kind": "PHILOSOPHER", "slug": "berlin" }
+        {
+          "name": {
+            "fr": "Platon",
+            "en": "Plato"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "plato"
+        },
+        {
+          "name": {
+            "fr": "Berlin",
+            "en": "Berlin"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "berlin"
+        }
       ],
-      "title": { "fr": "Un bien ou plusieurs ?", "en": "One good, or many?" },
-      "explicitation": { "fr": "Existe-t-il un bien suprême qui ordonne tous les autres, ou des biens pluriels et incommensurables qui peuvent entrer en conflit sans mesure commune ?", "en": "Is there a single supreme good that orders all the others, or plural and incommensurable goods that can conflict with no common measure?" }
+      "title": {
+        "fr": "Un bien ou plusieurs ?",
+        "en": "One good, or many?"
+      },
+      "explicitation": {
+        "fr": "Existe-t-il un bien suprême qui ordonne tous les autres, ou des biens pluriels et incommensurables qui peuvent entrer en conflit sans mesure commune ?",
+        "en": "Is there a single supreme good that orders all the others, or plural and incommensurable goods that can conflict with no common measure?"
+      }
     },
     {
       "id": "three-lives",
       "resolution": "LATENT",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "une vie", "en": "a life" },
+      "objectLabel": {
+        "fr": "une vie",
+        "en": "a life"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "théôria", "en": "theoria" },
-        { "fr": "otium", "en": "otium" },
-        { "fr": "engagement", "en": "engagement" }
+        {
+          "fr": "théôria",
+          "en": "theoria"
+        },
+        {
+          "fr": "otium",
+          "en": "otium"
+        },
+        {
+          "fr": "engagement",
+          "en": "engagement"
+        }
       ],
-      "poles": ["HEDONISM", "EUDAIMONISM"],
-      "anchors": [{ "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" }],
-      "doorways": [{ "axis": "INTERIORITY" }],
-      "title": { "fr": "Les trois vies", "en": "The three lives" },
-      "explicitation": { "fr": "Entre la vie de plaisir, la vie active tournée vers la cité et la vie contemplative, laquelle mérite le nom de vie la plus haute ?", "en": "Among the life of pleasure, the active life turned toward the city, and the contemplative life, which deserves to be called the highest?" }
+      "poles": [
+        "HEDONISM",
+        "EUDAIMONISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Aristote",
+            "en": "Aristotle"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "aristotle"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "INTERIORITY"
+        }
+      ],
+      "title": {
+        "fr": "Les trois vies",
+        "en": "The three lives"
+      },
+      "explicitation": {
+        "fr": "Entre la vie de plaisir, la vie active tournée vers la cité et la vie contemplative, laquelle mérite le nom de vie la plus haute ?",
+        "en": "Among the life of pleasure, the active life turned toward the city, and the contemplative life, which deserves to be called the highest?"
+      }
     },
     {
       "id": "acting-or-being-well-off",
       "resolution": "LATENT",
       "object": "RELATION",
-      "objectLabel": { "fr": "l'activité de l'âme, la satisfaction des désirs", "en": "the soul's activity, the satisfaction of desires" },
+      "objectLabel": {
+        "fr": "l'activité de l'âme, la satisfaction des désirs",
+        "en": "the soul's activity, the satisfaction of desires"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "energeia", "en": "energeia" },
-        { "fr": "eu prattein", "en": "eu prattein" },
-        { "fr": "oisiveté", "en": "idleness" }
+        {
+          "fr": "energeia",
+          "en": "energeia"
+        },
+        {
+          "fr": "eu prattein",
+          "en": "eu prattein"
+        },
+        {
+          "fr": "oisiveté",
+          "en": "idleness"
+        }
       ],
-      "poles": ["EUDAIMONISM"],
-      "anchors": [{ "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" }],
-      "title": { "fr": "Agir ou être comblé", "en": "Acting or being well-off" },
-      "explicitation": { "fr": "Le bonheur est-il une activité, une manière de déployer son âme jour après jour, ou l'état de qui possède tout pour être heureux, quoi qu'il fasse ?", "en": "Is happiness an activity, a way of exercising one's soul day after day, or the state of one who has all they need to be happy, whatever they do?" }
+      "poles": [
+        "EUDAIMONISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Aristote",
+            "en": "Aristotle"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "aristotle"
+        }
+      ],
+      "title": {
+        "fr": "Agir ou être comblé",
+        "en": "Acting or being well-off"
+      },
+      "explicitation": {
+        "fr": "Le bonheur est-il une activité, une manière de déployer son âme jour après jour, ou l'état de qui possède tout pour être heureux, quoi qu'il fasse ?",
+        "en": "Is happiness an activity, a way of exercising one's soul day after day, or the state of one who has all they need to be happy, whatever they do?"
+      }
     },
     {
       "id": "good-beyond-this-world",
       "resolution": "LATENT",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "une vie", "en": "a life" },
+      "objectLabel": {
+        "fr": "une vie",
+        "en": "a life"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "spiritualité", "en": "spirituality" },
-        { "fr": "mystique", "en": "mysticism" },
-        { "fr": "au-delà", "en": "the beyond" }
+        {
+          "fr": "spiritualité",
+          "en": "spirituality"
+        },
+        {
+          "fr": "mystique",
+          "en": "mysticism"
+        },
+        {
+          "fr": "au-delà",
+          "en": "the beyond"
+        }
       ],
       "sphere": "SACRED",
       "anchors": [
-        { "name": { "fr": "Augustin", "en": "Augustine" }, "kind": "PHILOSOPHER", "slug": "augustine" },
-        { "name": { "fr": "Thomas d'Aquin", "en": "Aquinas" }, "kind": "PHILOSOPHER", "slug": "aquinas" }
+        {
+          "name": {
+            "fr": "Augustin",
+            "en": "Augustine"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "augustine"
+        },
+        {
+          "name": {
+            "fr": "Thomas d'Aquin",
+            "en": "Aquinas"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "aquinas"
+        }
       ],
-      "doorways": [{ "axis": "LIFE_MEANING" }, { "axis": "TRANSCENDENCE" }],
-      "title": { "fr": "Un bien hors de ce monde ?", "en": "A good beyond this world?" },
-      "explicitation": { "fr": "Le bien suprême est-il accessible ici-bas, ou réside-t-il ailleurs : l'union à Dieu, le salut, une béatitude que ni le plaisir ni la vertu terrestres ne donnent ?", "en": "Is the highest good attainable here below, or does it lie elsewhere: union with God, salvation, a beatitude that neither earthly pleasure nor virtue can give?" }
+      "doorways": [
+        {
+          "axis": "LIFE_MEANING"
+        },
+        {
+          "axis": "TRANSCENDENCE"
+        }
+      ],
+      "title": {
+        "fr": "Un bien hors de ce monde ?",
+        "en": "A good beyond this world?"
+      },
+      "explicitation": {
+        "fr": "Le bien suprême est-il accessible ici-bas, ou réside-t-il ailleurs : l'union à Dieu, le salut, une béatitude que ni le plaisir ni la vertu terrestres ne donnent ?",
+        "en": "Is the highest good attainable here below, or does it lie elsewhere: union with God, salvation, a beatitude that neither earthly pleasure nor virtue can give?"
+      }
     },
     {
       "id": "vocation-or-self-invention",
       "resolution": "LATENT",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "une vie", "en": "a life" },
+      "objectLabel": {
+        "fr": "une vie",
+        "en": "a life"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "RELATED",
       "keywords": [
-        { "fr": "essence", "en": "essence" },
-        { "fr": "existentialisme", "en": "existentialism" },
-        { "fr": "destin", "en": "destiny" }
+        {
+          "fr": "essence",
+          "en": "essence"
+        },
+        {
+          "fr": "existentialisme",
+          "en": "existentialism"
+        },
+        {
+          "fr": "destin",
+          "en": "destiny"
+        }
       ],
       "sphere": "EXISTENTIAL",
-      "poles": ["EUDAIMONISM"],
-      "anchors": [
-        { "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" },
-        { "name": { "fr": "Sartre", "en": "Sartre" }, "kind": "PHILOSOPHER", "slug": "sartre" }
+      "poles": [
+        "EUDAIMONISM"
       ],
-      "doorways": [{ "axis": "HUMAN_NATURE" }],
-      "title": { "fr": "Vocation ou invention de soi", "en": "Vocation or self-invention" },
-      "explicitation": { "fr": "La vie bonne est-elle d'accomplir une nature ou une fonction qui nous est donnée, ou n'y a-t-il aucune nature fixe, chacun ayant à inventer ce qui, pour lui, fait une vie bonne ?", "en": "Is the good life the fulfillment of a nature or function given to us, or is there no fixed nature, each person having to invent what, for them, makes a life good?" }
+      "anchors": [
+        {
+          "name": {
+            "fr": "Aristote",
+            "en": "Aristotle"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "aristotle"
+        },
+        {
+          "name": {
+            "fr": "Sartre",
+            "en": "Sartre"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "sartre"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "HUMAN_NATURE"
+        }
+      ],
+      "title": {
+        "fr": "Vocation ou invention de soi",
+        "en": "Vocation or self-invention"
+      },
+      "explicitation": {
+        "fr": "La vie bonne est-elle d'accomplir une nature ou une fonction qui nous est donnée, ou n'y a-t-il aucune nature fixe, chacun ayant à inventer ce qui, pour lui, fait une vie bonne ?",
+        "en": "Is the good life the fulfillment of a nature or function given to us, or is there no fixed nature, each person having to invent what, for them, makes a life good?"
+      }
     },
     {
       "id": "happiness-or-meaning",
       "resolution": "LATENT",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "une vie", "en": "a life" },
+      "objectLabel": {
+        "fr": "une vie",
+        "en": "a life"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "RELATED",
       "keywords": [
-        { "fr": "signification", "en": "significance" },
-        { "fr": "engagement", "en": "engagement" },
-        { "fr": "valeur", "en": "value" }
+        {
+          "fr": "signification",
+          "en": "significance"
+        },
+        {
+          "fr": "engagement",
+          "en": "engagement"
+        },
+        {
+          "fr": "valeur",
+          "en": "value"
+        }
       ],
       "sphere": "EXISTENTIAL",
-      "anchors": [{ "name": { "fr": "Susan Wolf", "en": "Susan Wolf" }, "kind": "PHILOSOPHER", "slug": "susan-wolf" }],
-      "doorways": [{ "axis": "LIFE_MEANING" }],
-      "title": { "fr": "Bonheur et sens", "en": "Happiness and meaning" },
-      "explicitation": { "fr": "Une vie bonne est-elle forcément heureuse, ou peut-elle être pleine de sens tout en étant difficile, exigeante, parfois malheureuse ?", "en": "Is a good life necessarily a happy one, or can it be full of meaning while being hard, demanding, sometimes unhappy?" }
+      "anchors": [
+        {
+          "name": {
+            "fr": "Susan Wolf",
+            "en": "Susan Wolf"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "susan-wolf"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "LIFE_MEANING"
+        }
+      ],
+      "title": {
+        "fr": "Bonheur et sens",
+        "en": "Happiness and meaning"
+      },
+      "explicitation": {
+        "fr": "Une vie bonne est-elle forcément heureuse, ou peut-elle être pleine de sens tout en étant difficile, exigeante, parfois malheureuse ?",
+        "en": "Is a good life necessarily a happy one, or can it be full of meaning while being hard, demanding, sometimes unhappy?"
+      }
     },
     {
       "id": "solitary-or-social",
       "resolution": "LATENT",
       "object": "STRUCTURE",
-      "objectLabel": { "fr": "la cité, les liens", "en": "the city, our bonds" },
+      "objectLabel": {
+        "fr": "la cité, les liens",
+        "en": "the city, our bonds"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "RELATED",
       "keywords": [
-        { "fr": "amitié", "en": "friendship" },
-        { "fr": "autarcie", "en": "self-sufficiency" },
-        { "fr": "communauté", "en": "community" }
+        {
+          "fr": "amitié",
+          "en": "friendship"
+        },
+        {
+          "fr": "autarcie",
+          "en": "self-sufficiency"
+        },
+        {
+          "fr": "communauté",
+          "en": "community"
+        }
       ],
-      "poles": ["EUDAIMONISM"],
-      "anchors": [{ "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" }],
-      "doorways": [{ "axis": "BELONGING" }],
-      "title": { "fr": "Seul ou avec les autres", "en": "Alone or with others" },
-      "explicitation": { "fr": "L'épanouissement se suffit-il à lui-même, ou réclame-t-il des amis et une cité, au point qu'on ne saurait être pleinement heureux à l'écart des autres ?", "en": "Is flourishing self-sufficient, or does it require friends and a city, so that one cannot be fully happy apart from others?" }
+      "poles": [
+        "EUDAIMONISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Aristote",
+            "en": "Aristotle"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "aristotle"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "BELONGING"
+        }
+      ],
+      "title": {
+        "fr": "Seul ou avec les autres",
+        "en": "Alone or with others"
+      },
+      "explicitation": {
+        "fr": "L'épanouissement se suffit-il à lui-même, ou réclame-t-il des amis et une cité, au point qu'on ne saurait être pleinement heureux à l'écart des autres ?",
+        "en": "Is flourishing self-sufficient, or does it require friends and a city, so that one cannot be fully happy apart from others?"
+      }
     },
     {
       "id": "knowing-or-imagining-happiness",
       "resolution": "LATENT",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "une vie", "en": "a life" },
+      "objectLabel": {
+        "fr": "une vie",
+        "en": "a life"
+      },
       "mode": "DESCRIPTIVE",
       "relation": "RELATED",
       "keywords": [
-        { "fr": "indétermination", "en": "indeterminacy" },
-        { "fr": "prévision", "en": "foresight" },
-        { "fr": "Kant", "en": "Kant" }
+        {
+          "fr": "indétermination",
+          "en": "indeterminacy"
+        },
+        {
+          "fr": "prévision",
+          "en": "foresight"
+        },
+        {
+          "fr": "Kant",
+          "en": "Kant"
+        }
       ],
-      "anchors": [{ "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" }],
-      "title": { "fr": "Connaître ou imaginer le bonheur", "en": "Knowing or imagining happiness" },
-      "explicitation": { "fr": "Savons-nous vraiment ce qui nous rendrait heureux, ou le bonheur est-il un idéal mouvant de l'imagination, si indéterminé qu'on ne peut en faire une règle sûre ?", "en": "Do we really know what would make us happy, or is happiness a shifting ideal of the imagination, so indeterminate that no firm rule can be drawn from it?" }
+      "anchors": [
+        {
+          "name": {
+            "fr": "Kant",
+            "en": "Kant"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "kant"
+        }
+      ],
+      "title": {
+        "fr": "Connaître ou imaginer le bonheur",
+        "en": "Knowing or imagining happiness"
+      },
+      "explicitation": {
+        "fr": "Savons-nous vraiment ce qui nous rendrait heureux, ou le bonheur est-il un idéal mouvant de l'imagination, si indéterminé qu'on ne peut en faire une règle sûre ?",
+        "en": "Do we really know what would make us happy, or is happiness a shifting ideal of the imagination, so indeterminate that no firm rule can be drawn from it?"
+      }
     },
     {
       "id": "aesthetic-life-as-good",
       "resolution": "LATENT",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "une vie", "en": "a life" },
+      "objectLabel": {
+        "fr": "une vie",
+        "en": "a life"
+      },
       "mode": "PRESCRIPTIVE",
       "relation": "RELATED",
       "sphere": "AESTHETIC",
       "keywords": [
-        { "fr": "faire de sa vie une œuvre", "en": "making one's life a work of art" },
-        { "fr": "esthétisme", "en": "aestheticism" }
+        {
+          "fr": "faire de sa vie une œuvre",
+          "en": "making one's life a work of art"
+        },
+        {
+          "fr": "esthétisme",
+          "en": "aestheticism"
+        }
       ],
-      "poles": ["HEDONISM"],
+      "poles": [
+        "HEDONISM"
+      ],
       "anchors": [
-        { "name": { "fr": "Wilde", "en": "Wilde" }, "kind": "PHILOSOPHER", "slug": "wilde" },
-        { "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" }
+        {
+          "name": {
+            "fr": "Wilde",
+            "en": "Wilde"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "wilde"
+        },
+        {
+          "name": {
+            "fr": "Nietzsche",
+            "en": "Nietzsche"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "nietzsche"
+        }
       ],
-      "doorways": [{ "axis": "AESTHETIC_LIFE", "problem": "life-as-artwork" }],
-      "title": { "fr": "Le beau comme bien suprême", "en": "Beauty as the highest good" },
-      "explicitation": { "fr": "Et si le bien suprême était le beau : faire de sa vie une œuvre, viser l'intensité des belles formes plutôt que le plaisir, la vertu ou la sérénité ?", "en": "What if the highest good were beauty: making one's life a work of art, seeking the intensity of beautiful forms rather than pleasure, virtue, or serenity?" }
+      "doorways": [
+        {
+          "axis": "AESTHETIC_LIFE",
+          "problem": "life-as-artwork"
+        }
+      ],
+      "title": {
+        "fr": "Le beau comme bien suprême",
+        "en": "Beauty as the highest good"
+      },
+      "explicitation": {
+        "fr": "Et si le bien suprême était le beau : faire de sa vie une œuvre, viser l'intensité des belles formes plutôt que le plaisir, la vertu ou la sérénité ?",
+        "en": "What if the highest good were beauty: making one's life a work of art, seeking the intensity of beautiful forms rather than pleasure, virtue, or serenity?"
+      }
     }
   ]
 }

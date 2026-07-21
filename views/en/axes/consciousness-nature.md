@@ -1,12 +1,12 @@
 [Version française](../../fr/axes/consciousness-nature.md)
 
-# Nature of consciousness
+# The enigma of consciousness
 
-**What is the nature of consciousness and its relation to physical reality?**
+**Can a science of the brain fully explain lived experience?**
 
 *The world · descriptive (theory) · categorical*
 
-My lived states, pain, the red I see, the taste of coffee, are they nothing but brain processes, or does something in them escape? The place of mind in nature, and what a science of the brain could ever hope to explain, are at play here.
+Pain, the red I see, the taste of coffee: cognitive science describes ever more finely the brain mechanisms that accompany them, but does it explain what it is like to undergo them? To take a position is to say whether lived experience is a mechanism like any other, an illusion of introspection, or the sign that the mind exceeds anything neuroscience will ever grasp.
 
 ## Poles
 
@@ -18,7 +18,7 @@ Consciousness is nothing but the brain's activity: mental states are physical st
 
 ### Substance dualism
 
-Mind and body are two distinct substances: consciousness is not the brain but a reality of another nature, the soul, which could in principle exist apart. This is the spontaneous view, and that of many religions.
+The brain will never fully explain experience, because consciousness is not its product: it is a reality of another nature, the soul, which could in principle exist apart. This is the spontaneous view of many, and that of many religions.
 
 *[Descartes](../philosophers/descartes.md) · Swinburne*
 
@@ -46,16 +46,17 @@ The qualitative feel we think we grasp by introspection is an illusion the brain
 
 ## Grounding relations
 
-- *[Nature of mind and reality](../axes/reality-nature.md) : Dualism* grounds *[Nature of consciousness](../axes/consciousness-nature.md) : Substance dualism* : If reality comprises two irreducible substances, extended matter and thought, then my consciousness belongs to the second: it is not the brain but a reality of another nature. Metaphysical dualism directly grounds substance dualism in the philosophy of mind, of which [Descartes](../philosophers/descartes.md) gives the classic formulation.
-- *[Nature of mind and reality](../axes/reality-nature.md) : Materialism* grounds *[Nature of consciousness](../axes/consciousness-nature.md) : Reductive physicalism* : If everything that exists is material, consciousness can only be a property of the brain: mental states are physical states that science will eventually identify. Materialism thus leads to reductive physicalism, which denies mind any reality distinct from neural activity.
-- *[Nature of consciousness](../axes/consciousness-nature.md) : Substance dualism* grounds *[Moral circle](../axes/moral-circle.md) : Anthropocentrism* : If only the rational soul confers genuine inwardness, animals, lacking this thinking substance, are nothing but mechanisms without worth of their own. Substance dualism supports moral anthropocentrism: for [Descartes](../philosophers/descartes.md), the "animal-machine" does not enter the circle of our direct duties. The link is looser, however, among anthropocentrists who, like [Kant](../philosophers/kant.md), ground dignity in reason rather than in a soul-substance.
-- *[Nature of consciousness](../axes/consciousness-nature.md) : Substance dualism* grounds *[Being or having a body](../axes/embodiment.md) : The body as instrument* : If I am essentially a mind distinct from matter, my body becomes an instrument I use, even a prison I set myself apart from. Substance dualism supports the body-as-instrument conception, from [Plato](../philosophers/plato.md) to [Descartes](../philosophers/descartes.md), even though the latter eventually insisted on the union of soul and body.
-- *[Nature of consciousness](../axes/consciousness-nature.md) : Substance dualism* grounds *[Freedom of the will](../axes/freedom.md) : Free will* : If the mind does not belong to the mechanical order of matter, the will escapes the determinism of physical causes and can determine itself. Substance dualism thus supports [free will](../glossary/free-will.md), by removing decision from the chain of natural causes.
-- *[Nature of consciousness](../axes/consciousness-nature.md) : Substance dualism* grounds *[Nature of the self](../axes/self-nature.md) : Substantialism* : If the mind is a substance distinct from the body, the self that says "I" is this thinking thing, identical to itself beneath the flow of experiences. Substance dualism grounds substantialism: [personal identity](../glossary/personal-identity.md) rests on the permanence of the soul, not on memory or narrative. This is [Descartes](../philosophers/descartes.md)' position.
+- *[Nature of reality](../axes/reality-nature.md) : Dualism* grounds *[The enigma of consciousness](../axes/consciousness-nature.md) : Substance dualism* : If reality comprises two irreducible substances, extended matter and thought, then my consciousness belongs to the second: it is not the brain but a reality of another nature. Metaphysical dualism directly grounds substance dualism in the philosophy of mind, of which [Descartes](../philosophers/descartes.md) gives the classic formulation.
+- *[Nature of reality](../axes/reality-nature.md) : Materialism* grounds *[The enigma of consciousness](../axes/consciousness-nature.md) : Reductive physicalism* : If everything that exists is material, consciousness can only be a property of the brain: mental states are physical states that science will eventually identify. Materialism thus leads to reductive physicalism, which denies mind any reality distinct from neural activity.
+- *[The enigma of consciousness](../axes/consciousness-nature.md) : Substance dualism* grounds *[Moral circle](../axes/moral-circle.md) : Anthropocentrism* : If only the rational soul confers genuine inwardness, animals, lacking this thinking substance, are nothing but mechanisms without worth of their own. Substance dualism supports moral anthropocentrism: for [Descartes](../philosophers/descartes.md), the "animal-machine" does not enter the circle of our direct duties. The link is looser, however, among anthropocentrists who, like [Kant](../philosophers/kant.md), ground dignity in reason rather than in a soul-substance.
+- *[The enigma of consciousness](../axes/consciousness-nature.md) : Substance dualism* grounds *[Being or having a body](../axes/embodiment.md) : The body as instrument* : If I am essentially a mind distinct from matter, my body becomes an instrument I use, even a prison I set myself apart from. Substance dualism supports the body-as-instrument conception, from [Plato](../philosophers/plato.md) to [Descartes](../philosophers/descartes.md), even though the latter eventually insisted on the union of soul and body.
+- *[The enigma of consciousness](../axes/consciousness-nature.md) : Substance dualism* grounds *[Freedom of the will](../axes/freedom.md) : Free will* : If the mind does not belong to the mechanical order of matter, the will escapes the determinism of physical causes and can determine itself. Substance dualism thus supports [free will](../glossary/free-will.md), by removing decision from the chain of natural causes.
+- *[The enigma of consciousness](../axes/consciousness-nature.md) : Substance dualism* grounds *[After death](../axes/afterlife.md) : The immortal soul* : If the mind is a substance distinct from the body, its survival becomes conceivable: substance dualism is the metaphysical ground of the immortal soul, from [Plato](../philosophers/plato.md) to [Descartes](../philosophers/descartes.md).
+- *[The enigma of consciousness](../axes/consciousness-nature.md) : Substance dualism* grounds *[Nature of the self](../axes/self-nature.md) : Substantialism* : If the mind is a substance distinct from the body, the self that says "I" is this thinking thing, identical to itself beneath the flow of experiences. Substance dualism grounds substantialism: [personal identity](../glossary/personal-identity.md) rests on the permanence of the soul, not on memory or narrative. This is [Descartes](../philosophers/descartes.md)' position.
 
 ## Related axes
 
-[Can a machine think](../axes/machine-mind.md) · [Nature of mind and reality](../axes/reality-nature.md) · [Freedom of the will](../axes/freedom.md) · [Place of science](../axes/science-place.md)
+[Can a machine think](../axes/machine-mind.md) · [Nature of reality](../axes/reality-nature.md) · [Freedom of the will](../axes/freedom.md) · [Place of science](../axes/science-place.md) · [After death](../axes/afterlife.md)
 
 ---
 

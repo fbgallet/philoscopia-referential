@@ -14,8 +14,14 @@
     "en": "A diagnosis, not a pessimism: <c id='dukkha'>unsatisfactoriness (dukkha)</c> arises from <c id='tanha'>craving (taṇhā)</c> and the illusion of a self, and there is a path to extinguish it."
   },
   "aliases": {
-    "fr": ["Siddhartha Gautama", "Gautama Bouddha"],
-    "en": ["Siddhartha Gautama", "Gautama Buddha"]
+    "fr": [
+      "Siddhartha Gautama",
+      "Gautama Bouddha"
+    ],
+    "en": [
+      "Siddhartha Gautama",
+      "Gautama Buddha"
+    ]
   },
   "summary": {
     "fr": "L'Éveillé, fondateur du <mv id='buddhism'>bouddhisme</mv>, maître errant du nord-est de l'Inde dont la tradition situe la vie entre 563 et 483 avant notre ère, dates traditionnelles et débattues. Né prince du clan des Shakya, la tradition le montre quittant son palais à la vue de la maladie, de la vieillesse et de la mort, puis menant six ans la vie d'un renonçant et d'un ascète avant de connaître l'éveil sous l'arbre de la Bodhi, à Bodh Gaya. Il prêche d'abord à Bénarès, rassemble autour de lui une communauté de moines et de laïcs, la <c>communauté (saṅgha)</c>, et enseigne quarante ans durant. Sa parole, d'abord transmise oralement, est fixée des siècles plus tard dans les <w>discours (suttas)</w> du Canon pāli. Son enseignement part d'un constat, l'omniprésence du mal-être dans l'existence, et cherche moins à expliquer le monde qu'à en délivrer : aux grandes questions métaphysiques qui n'aident pas à cette délivrance, Gautama oppose un <kw>silence</kw> délibéré, comme le blessé d'une flèche n'a pas à connaître l'archer avant qu'on l'extraie. Diffusé du Sri Lanka à l'Asie de l'Est, son enseignement a donné naissance à l'une des grandes traditions philosophiques et spirituelles du monde.",
@@ -151,7 +157,15 @@
     {
       "axisId": "SELF_NATURE",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "weights", "weights": [0, 0.1, 0, 0.9] },
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.1,
+          0,
+          0.9
+        ]
+      },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
       "justification": {
@@ -160,8 +174,14 @@
           "en": "The argument proceeds by exhaustive review: Gautama runs through the five aggregates that make up a person (form, feeling, perception, formations, consciousness) and shows that none meets the criteria for a self. Each is <c id='anicca'>impermanent (anicca)</c>, hence a source of dis-ease, and above all eludes our command, \"let it be thus and not otherwise\"; yet what can neither last nor be mastered cannot be held as \"my self\". With no fifth term surviving behind these aggregates, there is no self-substance, only a bundle of conditioned processes: this is <c id='anatta'>not-self (anattā)</c>, which squarely rejects the <c id='atman'>ātman</c> of the Upaniṣads, the permanent Self identified with <c id='brahman'>brahman</c> that the Brahmanical tradition held to be our true identity."
         },
         "references": [
-          { "fr": "Anattalakkhaṇa Sutta, Saṃyutta Nikāya 22.59 (le discours sur la caractéristique du non-soi)", "en": "Anattalakkhaṇa Sutta, Saṃyutta Nikāya 22.59 (the discourse on the not-self characteristic)" },
-          { "fr": "Dhammapada, XX, 279 (tous les phénomènes sont sans-soi)", "en": "Dhammapada, XX, 279 (all phenomena are not-self)" }
+          {
+            "fr": "Anattalakkhaṇa Sutta, Saṃyutta Nikāya 22.59 (le discours sur la caractéristique du non-soi)",
+            "en": "Anattalakkhaṇa Sutta, Saṃyutta Nikāya 22.59 (the discourse on the not-self characteristic)"
+          },
+          {
+            "fr": "Dhammapada, XX, 279 (tous les phénomènes sont sans-soi)",
+            "en": "Dhammapada, XX, 279 (all phenomena are not-self)"
+          }
         ],
         "strength": "STRONG",
         "quoteId": "la-forme-est-non-soi-la-buddha"
@@ -170,7 +190,14 @@
     {
       "axisId": "DESIRE",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "weights", "weights": [0, 0.05, 0.95] },
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.05,
+          0.95
+        ]
+      },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
       "justification": {
@@ -179,8 +206,14 @@
           "en": "If all suffering is conditioned, it has a locatable cause, and to remove the cause is to remove the effect: this is the logic of <c id='pratityasamutpada'>dependent origination (pratītyasamutpāda)</c> applied to dis-ease. Gautama then traces the chain back and names <c id='tanha'>craving (taṇhā)</c> as that link, the grasping thirst that clings to pleasures, to existence, or even to non-existence and sets the wheel of rebirth turning again. The move is original: he neither moralizes desire as a vice nor celebrates it as fullness, but coolly identifies it as the cause to be extinguished, which puts detachment at the centre of the path and guarantees, against any fatalism, that release is possible."
         },
         "references": [
-          { "fr": "Dhammacakkappavattana Sutta, Saṃyutta Nikāya 56.11 (le sermon de Bénarès)", "en": "Dhammacakkappavattana Sutta, Saṃyutta Nikāya 56.11 (the sermon at Benares)" },
-          { "fr": "Dhammapada, ch. XXIV (la soif)", "en": "Dhammapada, ch. XXIV (Craving)" }
+          {
+            "fr": "Dhammacakkappavattana Sutta, Saṃyutta Nikāya 56.11 (le sermon de Bénarès)",
+            "en": "Dhammacakkappavattana Sutta, Saṃyutta Nikāya 56.11 (the sermon at Benares)"
+          },
+          {
+            "fr": "Dhammapada, ch. XXIV (la soif)",
+            "en": "Dhammapada, ch. XXIV (Craving)"
+          }
         ],
         "strength": "STRONG",
         "quoteId": "voici-la-noble-verite-sur-l-buddha"
@@ -189,7 +222,10 @@
     {
       "axisId": "SUFFERING_MEANING",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": 0.85 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.85
+      },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
       "justification": {
@@ -198,8 +234,14 @@
           "en": "The <c id='four-noble-truths'>Four Noble Truths</c> follow a physician's procedure: state the malady (<c id='dukkha'>suffering (dukkha)</c>, the unsatisfactoriness that pervades even pleasures, because they are impermanent), isolate its cause, affirm that one can be cured of it, prescribe the treatment. The whole weight of the argument rests on the third truth: if the cause is conditioned, its cessation is genuinely attainable, here and now. <stk>Suffering therefore has no redemptive value</stk>, it is neither a punishment to expiate nor a trial to be exalted, but a pathological state to be abolished, which sharply separates Gautama from the wisdoms that sacralize ordeal or resign themselves to dis-ease."
         },
         "references": [
-          { "fr": "Dhammacakkappavattana Sutta, Saṃyutta Nikāya 56.11 (le sermon de Bénarès)", "en": "Dhammacakkappavattana Sutta, Saṃyutta Nikāya 56.11 (the sermon at Benares)" },
-          { "fr": "Dhammapada, ch. XX (le chemin)", "en": "Dhammapada, ch. XX (The Path)" }
+          {
+            "fr": "Dhammacakkappavattana Sutta, Saṃyutta Nikāya 56.11 (le sermon de Bénarès)",
+            "en": "Dhammacakkappavattana Sutta, Saṃyutta Nikāya 56.11 (the sermon at Benares)"
+          },
+          {
+            "fr": "Dhammapada, ch. XX (le chemin)",
+            "en": "Dhammapada, ch. XX (The Path)"
+          }
         ],
         "strength": "STRONG"
       }
@@ -207,7 +249,10 @@
     {
       "axisId": "ATTENTION",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": -0.9 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
       "justification": {
@@ -216,8 +261,14 @@
           "en": "<c id='sati'>Mindfulness</c> (sati, continuous present attention) is one limb of the <c id='the-middle-way'>Middle Way</c> (the <c id='eightfold-path'>Eightfold Path</c>) and the heart of practice. The Satipaṭṭhāna Sutta teaches gathering attention upon the body, feelings, mind, and phenomena, against mental scattering. Gautama's teaching is thus a discipline of recollection par excellence."
         },
         "references": [
-          { "fr": "Satipaṭṭhāna Sutta, Majjhima Nikāya 10 (le discours sur les fondements de l'attention)", "en": "Satipaṭṭhāna Sutta, Majjhima Nikāya 10 (the discourse on the foundations of mindfulness)" },
-          { "fr": "Dhammapada, ch. II (la vigilance)", "en": "Dhammapada, ch. II (Heedfulness)" }
+          {
+            "fr": "Satipaṭṭhāna Sutta, Majjhima Nikāya 10 (le discours sur les fondements de l'attention)",
+            "en": "Satipaṭṭhāna Sutta, Majjhima Nikāya 10 (the discourse on the foundations of mindfulness)"
+          },
+          {
+            "fr": "Dhammapada, ch. II (la vigilance)",
+            "en": "Dhammapada, ch. II (Heedfulness)"
+          }
         ],
         "strength": "STRONG"
       }
@@ -225,7 +276,10 @@
     {
       "axisId": "BODILY_PLEASURES",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": -0.3 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.3
+      },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
       "justification": {
@@ -234,7 +288,10 @@
           "en": "The criterion is not moral but pragmatic: what counts is what actually leads to awakening. Gautama had tested both failures in his own flesh, the pleasure-life of the palace and the six years of extreme fasting that had left him wasted without awakening him; from this he concludes that both extremes miss their aim. The first sermon accordingly rejects both the pursuit of sensual pleasures, \"low and vulgar\", and self-mortification, \"painful and fruitless\", for the <c id='the-middle-way'>Middle Way</c> alone. Without condemning the body, he treats sensory pleasures as attachments that feed <c id='tanha'>craving (taṇhā)</c>: the leaning stays ascetic, but regulated and deliberately measured, against the grain of the radical asceticism of the renunciants of his time."
         },
         "references": [
-          { "fr": "Dhammacakkappavattana Sutta, Saṃyutta Nikāya 56.11 (les deux extrêmes et la Voie du Milieu)", "en": "Dhammacakkappavattana Sutta, Saṃyutta Nikāya 56.11 (the two extremes and the Middle Way)" }
+          {
+            "fr": "Dhammacakkappavattana Sutta, Saṃyutta Nikāya 56.11 (les deux extrêmes et la Voie du Milieu)",
+            "en": "Dhammacakkappavattana Sutta, Saṃyutta Nikāya 56.11 (the two extremes and the Middle Way)"
+          }
         ],
         "strength": "STRONG",
         "quoteId": "ces-deux-extremes-moines-ne-doivent-buddha"
@@ -243,7 +300,15 @@
     {
       "axisId": "LIFE_MEANING",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "weights", "weights": [0.85, 0.1, 0.05, 0] },
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.85,
+          0.1,
+          0.05,
+          0
+        ]
+      },
       "epistemicStatus": "INFERABLE",
       "salience": "MAJOR",
       "justification": {
@@ -252,8 +317,14 @@
           "en": "Existence has an assignable end and a directed meaning: to be freed from suffering and the cycle of rebirths so as to reach <c id='nirvana'>nirvāṇa</c> (the going-out of greed, hatred, and delusion). The whole path is ordered toward this <stk>goal</stk>, giving the teaching a teleological structure, even though the end is set not by a creator but discovered as the nature of things."
         },
         "references": [
-          { "fr": "Dhammacakkappavattana Sutta, Saṃyutta Nikāya 56.11 (le sermon de Bénarès)", "en": "Dhammacakkappavattana Sutta, Saṃyutta Nikāya 56.11 (the sermon at Benares)" },
-          { "fr": "Dhammapada, ch. XXVI (le brahmane)", "en": "Dhammapada, ch. XXVI (The Brahmin)" }
+          {
+            "fr": "Dhammacakkappavattana Sutta, Saṃyutta Nikāya 56.11 (le sermon de Bénarès)",
+            "en": "Dhammacakkappavattana Sutta, Saṃyutta Nikāya 56.11 (the sermon at Benares)"
+          },
+          {
+            "fr": "Dhammapada, ch. XXVI (le brahmane)",
+            "en": "Dhammapada, ch. XXVI (The Brahmin)"
+          }
         ],
         "strength": "MEDIUM"
       }
@@ -261,7 +332,10 @@
     {
       "axisId": "EMOTIONS",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": -0.5 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
       "epistemicStatus": "INFERABLE",
       "salience": "MAJOR",
       "justification": {
@@ -270,8 +344,14 @@
           "en": "The ultimate root of suffering and afflictive emotions is <c>ignorance (avidyā)</c>, the misapprehension of the impermanent, selfless nature of reality. The <dif>three poisons</dif>, greed, hatred, and delusion, dissolve through right view and penetrating understanding: it is by knowledge that affect is transformed, which gives the teaching an intellectualist leaning, tempered by the central role of meditative practice and the cultivation of the heart (<c>mettā</c>)."
         },
         "references": [
-          { "fr": "Dhammacakkappavattana Sutta, Saṃyutta Nikāya 56.11 (l'ignorance et la vue juste)", "en": "Dhammacakkappavattana Sutta, Saṃyutta Nikāya 56.11 (ignorance and right view)" },
-          { "fr": "Dhammapada, ch. XX (le chemin)", "en": "Dhammapada, ch. XX (The Path)" }
+          {
+            "fr": "Dhammacakkappavattana Sutta, Saṃyutta Nikāya 56.11 (l'ignorance et la vue juste)",
+            "en": "Dhammacakkappavattana Sutta, Saṃyutta Nikāya 56.11 (ignorance and right view)"
+          },
+          {
+            "fr": "Dhammapada, ch. XX (le chemin)",
+            "en": "Dhammapada, ch. XX (The Path)"
+          }
         ],
         "strength": "MEDIUM"
       }
@@ -279,7 +359,10 @@
     {
       "axisId": "PARTIALITY",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": -0.7 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
       "justification": {
@@ -288,8 +371,14 @@
           "en": "<c>Loving-kindness (mettā)</c> is cultivated toward all beings without distinction: the practice taught consists in extending loving-kindness beyond loved ones, to the indifferent and then to the enemy, as a mother protects her only child. Extended to all that lives, this benevolence tilts the teaching toward a benevolent impartialism."
         },
         "references": [
-          { "fr": "Karaṇīya Mettā Sutta, Sutta Nipāta 1.8 (le discours sur l'amour bienveillant)", "en": "Karaṇīya Mettā Sutta, Sutta Nipāta 1.8 (the discourse on loving-kindness)" },
-          { "fr": "Dhammapada, ch. I (les paires)", "en": "Dhammapada, ch. I (The Pairs)" }
+          {
+            "fr": "Karaṇīya Mettā Sutta, Sutta Nipāta 1.8 (le discours sur l'amour bienveillant)",
+            "en": "Karaṇīya Mettā Sutta, Sutta Nipāta 1.8 (the discourse on loving-kindness)"
+          },
+          {
+            "fr": "Dhammapada, ch. I (les paires)",
+            "en": "Dhammapada, ch. I (The Pairs)"
+          }
         ],
         "strength": "MEDIUM",
         "quoteId": "comme-une-mere-protege-son-unique-buddha"
@@ -298,7 +387,15 @@
     {
       "axisId": "MORAL_CIRCLE",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "weights", "weights": [0.05, 0.85, 0.07, 0.03] },
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.05,
+          0.85,
+          0.07,
+          0.03
+        ]
+      },
       "epistemicStatus": "EXPLICIT",
       "salience": "MINOR",
       "justification": {
@@ -307,8 +404,14 @@
           "en": "<c>Non-harming (ahiṃsā)</c> and the first precept, to abstain from harming the living, extend moral consideration to all sentient beings capable of suffering, not to humans alone. All fear the rod, all hold life dear: compassion expressly takes in the whole of living beings caught in the cycle of rebirth, which places the teaching on the pathocentric side."
         },
         "references": [
-          { "fr": "Dhammapada, ch. X (le bâton), 129-130", "en": "Dhammapada, ch. X (Violence), 129-130" },
-          { "fr": "Karaṇīya Mettā Sutta, Sutta Nipāta 1.8 (que tous les êtres soient heureux)", "en": "Karaṇīya Mettā Sutta, Sutta Nipāta 1.8 (may all beings be happy)" }
+          {
+            "fr": "Dhammapada, ch. X (le bâton), 129-130",
+            "en": "Dhammapada, ch. X (Violence), 129-130"
+          },
+          {
+            "fr": "Karaṇīya Mettā Sutta, Sutta Nipāta 1.8 (que tous les êtres soient heureux)",
+            "en": "Karaṇīya Mettā Sutta, Sutta Nipāta 1.8 (may all beings be happy)"
+          }
         ],
         "strength": "STRONG",
         "quoteId": "tous-tremblent-devant-le-baton-tous-buddha"
@@ -317,7 +420,10 @@
     {
       "axisId": "INTERIORITY",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": -0.7 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
       "justification": {
@@ -326,8 +432,14 @@
           "en": "The transformation aimed at proceeds first through inner examination: observing one's own mental states, <c id='tanha'>impulses (taṇhā)</c>, and perceptions in meditation and introspection. The good life turns on work upon the mind more than on outward action, even though <c>ethical conduct (sīla)</c> is its indispensable support."
         },
         "references": [
-          { "fr": "Dhammapada, ch. I (les paires), 1-2", "en": "Dhammapada, ch. I (The Pairs), 1-2" },
-          { "fr": "Satipaṭṭhāna Sutta, Majjhima Nikāya 10 (les fondements de l'attention)", "en": "Satipaṭṭhāna Sutta, Majjhima Nikāya 10 (the foundations of mindfulness)" }
+          {
+            "fr": "Dhammapada, ch. I (les paires), 1-2",
+            "en": "Dhammapada, ch. I (The Pairs), 1-2"
+          },
+          {
+            "fr": "Satipaṭṭhāna Sutta, Majjhima Nikāya 10 (les fondements de l'attention)",
+            "en": "Satipaṭṭhāna Sutta, Majjhima Nikāya 10 (the foundations of mindfulness)"
+          }
         ],
         "strength": "MEDIUM",
         "quoteId": "tout-ce-que-nous-sommes-resulte-buddha"
@@ -336,7 +448,10 @@
     {
       "axisId": "CONTROL_SCOPE",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": -0.6 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
       "justification": {
@@ -345,8 +460,14 @@
           "en": "A decisive part of suffering springs from our claim to master what eludes us: one cannot command the aggregates \"let them be thus and not otherwise\", and trying to hold the impermanent only feeds <c id='tanha'>craving (taṇhā)</c>. Wisdom consists in loosening that grip and working the one domain genuinely open to effort, one's own mind, which brings Gautama close to an economy of control centered on inwardness."
         },
         "references": [
-          { "fr": "Anattalakkhaṇa Sutta, Saṃyutta Nikāya 22.59 (on ne peut commander aux agrégats)", "en": "Anattalakkhaṇa Sutta, Saṃyutta Nikāya 22.59 (one cannot command the aggregates)" },
-          { "fr": "Dhammapada, ch. III (l'esprit)", "en": "Dhammapada, ch. III (The Mind)" }
+          {
+            "fr": "Anattalakkhaṇa Sutta, Saṃyutta Nikāya 22.59 (on ne peut commander aux agrégats)",
+            "en": "Anattalakkhaṇa Sutta, Saṃyutta Nikāya 22.59 (one cannot command the aggregates)"
+          },
+          {
+            "fr": "Dhammapada, ch. III (l'esprit)",
+            "en": "Dhammapada, ch. III (The Mind)"
+          }
         ],
         "strength": "MEDIUM"
       }
@@ -394,7 +515,10 @@
     {
       "axisId": "ESSENCE",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": 0.5 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.5
+      },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
       "justification": {
@@ -403,8 +527,14 @@
           "en": "<c id='anicca'>Impermanence (anicca)</c> and <c id='anatta'>not-self (anattā)</c> deny any fixed, substantial essence of beings: nothing has a stable nature of its own, all is conditioned process, arisen from causes and bound to dissolve. There is no substance-soul to be discovered beforehand, only a becoming to be understood, which sets Gautama clearly apart from essentialism without thereby making him a modern existentialist."
         },
         "references": [
-          { "fr": "Anattalakkhaṇa Sutta, Saṃyutta Nikāya 22.59 (les agrégats sont impermanents et non-soi)", "en": "Anattalakkhaṇa Sutta, Saṃyutta Nikāya 22.59 (the aggregates are impermanent and not-self)" },
-          { "fr": "Dhammapada, XX, 277-279 (tout est impermanent, sans-soi)", "en": "Dhammapada, XX, 277-279 (all is impermanent, not-self)" }
+          {
+            "fr": "Anattalakkhaṇa Sutta, Saṃyutta Nikāya 22.59 (les agrégats sont impermanents et non-soi)",
+            "en": "Anattalakkhaṇa Sutta, Saṃyutta Nikāya 22.59 (the aggregates are impermanent and not-self)"
+          },
+          {
+            "fr": "Dhammapada, XX, 277-279 (tout est impermanent, sans-soi)",
+            "en": "Dhammapada, XX, 277-279 (all is impermanent, not-self)"
+          }
         ],
         "strength": "MEDIUM"
       }
@@ -412,7 +542,10 @@
     {
       "axisId": "CERTAINTY",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": 0.2 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.2
+      },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
       "justification": {
@@ -421,10 +554,39 @@
           "en": "Gautama urges not to believe on the strength of authority, tradition, or reasoning alone, but to test for oneself what leads to good and to peace: this is the famous counsel to the Kālāmas. This wariness toward dogmatic speculation and fixed \"views\", joined to the refusal to settle idle questions, marks a moderate critical reserve, without lapsing into thoroughgoing skepticism, since the path itself is held to be verifiable."
         },
         "references": [
-          { "fr": "Kālāma Sutta, Aṅguttara Nikāya 3.65 (ne pas croire sur la seule autorité)", "en": "Kālāma Sutta, Aṅguttara Nikāya 3.65 (do not believe on authority alone)" },
-          { "fr": "Cūḷamālukya Sutta, Majjhima Nikāya 63 (la parabole de la flèche, les questions laissées sans réponse)", "en": "Cūḷamālukya Sutta, Majjhima Nikāya 63 (the parable of the arrow, the undeclared questions)" }
+          {
+            "fr": "Kālāma Sutta, Aṅguttara Nikāya 3.65 (ne pas croire sur la seule autorité)",
+            "en": "Kālāma Sutta, Aṅguttara Nikāya 3.65 (do not believe on authority alone)"
+          },
+          {
+            "fr": "Cūḷamālukya Sutta, Majjhima Nikāya 63 (la parabole de la flèche, les questions laissées sans réponse)",
+            "en": "Cūḷamālukya Sutta, Majjhima Nikāya 63 (the parable of the arrow, the undeclared questions)"
+          }
         ],
         "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TRUTH_VALUE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "À la racine de la souffrance il n'y a pas une faute mais une méprise : l'ignorance (<c id='avidya'>avidyā</c>) qui prend l'impermanent pour durable et le sans-soi pour un moi. Le chemin est une thérapeutique du regard, voir les choses telles qu'elles sont ; l'enseignement lui-même n'est qu'un radeau, un moyen qu'on laisse une fois l'autre rive atteinte.",
+          "en": "At the root of suffering lies not a fault but a mistake: ignorance (<c id='avidya'>avidyā</c>), which takes the impermanent for lasting and the selfless for a self. The path is a therapeutics of seeing, beholding things as they are; the teaching itself is only a raft, a means to be left behind once the far shore is reached."
+        },
+        "references": [
+          {
+            "fr": "Majjhima Nikāya (parabole du radeau)",
+            "en": "Majjhima Nikāya (the raft parable)"
+          }
+        ],
+        "strength": "STRONG"
       }
     }
   ],
@@ -458,7 +620,7 @@
       }
     }
   ],
-  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

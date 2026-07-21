@@ -6,29 +6,31 @@
 
 *Le monde · descriptif (théorie) · catégoriel*
 
-La souffrance des innocents est l'épreuve la plus dure pour qui croit en un Dieu bon et tout-puissant : ou bien le mal se laisse réconcilier avec lui, ou bien il s'excuse par notre liberté, ou bien il le ruine. Se positionner, c'est dire si la foi peut tenir devant le malheur, ou s'y brise.
+La souffrance des innocents est l'épreuve la plus dure pour qui croit en un Dieu bon et tout-puissant. Devant elle, quatre voies se séparent : justifier le mal, renoncer à la toute-puissance divine, refuser toute justification, ou conclure que ce Dieu n'existe pas. Se positionner, c'est dire si la foi peut tenir devant le malheur, et à quel prix.
 
 ## Pôles
 
-### Théodicée
+### Le mal a ses raisons
 
-Le mal n'est qu'apparent ou nécessaire dans la perspective du tout : un Dieu infiniment sage a créé le meilleur des mondes possibles, où chaque mal concourt à un bien supérieur que nous ne voyons pas.
+Un Dieu bon et tout-puissant peut permettre le mal : pour un bien d'ensemble, pour la liberté des créatures, pour faire mûrir les âmes, ou pour des raisons qui excèdent notre entendement. La foi tient : même opaque, le mal a un sens.
 
-*[Leibniz](../philosophers/leibniz.md)*
+- La « défense » de Plantinga ne prétend pas connaître les raisons de Dieu : elle établit seulement que le mal n'est pas logiquement incompatible avec son existence.
 
-### Défense par le libre arbitre
+*[Leibniz](../philosophers/leibniz.md) · [Augustin](../philosophers/augustine.md)*
 
-Le mal moral est le prix de la liberté : Dieu a voulu des créatures libres, capables d'aimer et de choisir le bien, donc capables aussi de faire le mal. La faute vient de l'homme, non du créateur.
+### Un Dieu limité
 
-*[Augustin](../philosophers/augustine.md) · [Plantinga](../philosophers/plantinga.md)*
+On sauve la bonté de Dieu en limitant sa puissance : un Dieu qui se retire ou se limite pour laisser être le monde, et qui souffre avec lui plus qu'il ne le gouverne. Le mal n'est pas voulu par Dieu : il est ce qu'il ne peut pas empêcher.
 
-### Révolte / anti-théodicie
+*[Jonas](../philosophers/jonas.md) · [Whitehead](../philosophers/whitehead.md)*
+
+### Le mal injustifiable
 
 Vouloir justifier le mal est en soi une faute morale : aucune harmonie finale ne rachète la souffrance d'un seul enfant innocent. Devant le mal, il n'y a pas d'explication acceptable, mais une révolte ou un silence.
 
 *[Dostoïevski](../philosophers/dostoevsky.md) · [Levinas](../philosophers/levinas.md)*
 
-### Argument du mal (athéisme)
+### Le mal réfute Dieu
 
 L'existence d'un mal massif et gratuit est incompatible avec un Dieu à la fois bon, tout-puissant et omniscient : ou il ne peut l'empêcher, ou il ne le veut pas. Le mal est le meilleur argument contre Dieu.
 
@@ -47,9 +49,9 @@ L'existence d'un mal massif et gratuit est incompatible avec un Dieu à la fois 
 
 ## Relations de fondation
 
-- *[Liberté de la volonté](../axes/freedom.md) : Libre arbitre* fonde *[Le problème du mal](../axes/problem-of-evil.md) : Défense par le libre arbitre* : Si la volonté est réellement libre et que cette liberté a un prix inestimable, le mal moral peut se comprendre comme la rançon de créatures capables de choisir. Le [libre arbitre](../glossary/free-will.md) fonde la défense du même nom face au problème du mal : pour [Augustin](../philosophers/augustine.md), la faute vient de l'homme, non de Dieu.
-- *[Existence de Dieu](../axes/god-existence.md) : Théisme* fonde *[Le problème du mal](../axes/problem-of-evil.md) : Théodicée* : Si Dieu est à la fois bon, sage et tout-puissant, l'existence du mal exige d'être justifiée plutôt que de ruiner la foi. Le théisme pousse à la théodicée : [Leibniz](../philosophers/leibniz.md) soutient que ce monde, malgré ses maux, est le meilleur des mondes possibles. D'autres croyants refusent pourtant toute justification du mal, signe que le lien n'a rien de nécessaire.
-- *[Le problème du mal](../axes/problem-of-evil.md) : Théodicée* fonde *[Tonalité du réel](../axes/cosmic-outlook.md) : Optimisme métaphysique* : Si chaque mal concourt à un bien supérieur dans le meilleur des mondes possibles, alors le réel est fondamentalement ordonné et orienté vers le bien. La théodicée fonde l'optimisme métaphysique : chez [Leibniz](../philosophers/leibniz.md), le mal n'est qu'une ombre locale dans un tableau d'ensemble harmonieux.
+- *[Liberté de la volonté](../axes/freedom.md) : Libre arbitre* fonde *[Le problème du mal](../axes/problem-of-evil.md) : Le mal a ses raisons* : Si la volonté est réellement libre et que cette liberté a un prix inestimable, le mal moral peut se comprendre comme la rançon de créatures capables de choisir. Le [libre arbitre](../glossary/free-will.md) fonde ainsi l'une des grandes justifications du mal : pour [Augustin](../philosophers/augustine.md), la faute vient de l'homme, non de Dieu.
+- *[Existence de Dieu](../axes/god-existence.md) : Théisme* fonde *[Le problème du mal](../axes/problem-of-evil.md) : Le mal a ses raisons* : Si Dieu est à la fois bon, sage et tout-puissant, l'existence du mal exige d'être justifiée plutôt que de ruiner la foi. Le théisme pousse à la théodicée : [Leibniz](../philosophers/leibniz.md) soutient que ce monde, malgré ses maux, est le meilleur des mondes possibles. D'autres croyants refusent pourtant toute justification du mal, signe que le lien n'a rien de nécessaire.
+- *[Le problème du mal](../axes/problem-of-evil.md) : Le mal a ses raisons* fonde *[Tonalité du réel](../axes/cosmic-outlook.md) : Optimisme métaphysique* : Si chaque mal concourt à un bien supérieur dans le meilleur des mondes possibles, alors le réel est fondamentalement ordonné et orienté vers le bien. La théodicée fonde l'optimisme métaphysique : chez [Leibniz](../philosophers/leibniz.md), le mal n'est qu'une ombre locale dans un tableau d'ensemble harmonieux.
 
 ## Axes liés
 

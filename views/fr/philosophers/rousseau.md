@@ -76,7 +76,7 @@ Couronné en 1750 pour avoir soutenu le paradoxe que le rétablissement des scie
 
 *positionné · explicite dans les textes · majeure*
 
-Sentimentalisme 85% · Intellectualisme 15%
+Le primat du sentiment 85% · Primauté de la raison 15%
 
 Contre l'intellectualisme qui fait de la raison le juge du bien, Rousseau loge la moralité dans un sentiment : la conscience, « instinct divin », nous fait aimer le bien avant de le comprendre, et la [pitié](../glossary/pitie.md), répugnance naturelle à voir souffrir, fonde la sociabilité avant tout calcul. Le cœur précède et déborde la raison. Cette réhabilitation du sentiment, déployée dans La Nouvelle Héloïse, ouvre la voie au [romantisme](../movements/romanticism.md).
 
@@ -256,7 +256,7 @@ Altruisme 70% · Égoïsme éthique 30%
 
 *positionné · inférable · mineure*
 
-Présentisme 60% · Projet 20% · Mémoire-transmission 20%
+Vivre au présent 60% · Projet 20% · Mémoire-transmission 20%
 
 Dans les Rêveries, Rousseau décrit ces instants où, sans passé ni avenir, l'âme se suffit à elle-même dans le pur « sentiment de l'existence ». Le bonheur n'est ni dans le projet ni dans la mémoire, mais dans la présence pleine à l'instant et à la nature. Cette valorisation du présent éprouvé inspirera la sensibilité romantique.
 
@@ -271,6 +271,16 @@ Universalisme 55% · Constructivisme 25% · Relativisme 20%
 La conscience, « juge infaillible du bien et du mal », parle en tout homme : ses verdicts ne dépendent pas des coutumes locales mais d'un sentiment commun à l'espèce. Rousseau maintient ainsi un universalisme moral, même s'il reconnaît, en législateur de la Pologne ou de la Corse, que les institutions doivent s'ajuster au génie particulier de chaque peuple.
 
 *Sources : Rousseau, Émile, Profession de foi du vicaire savoyard · Rousseau, Considérations sur le gouvernement de Pologne*
+
+### [Valeur de la vérité](../axes/truth-value.md)
+
+*positionné · inférable · mineure*
+
+Primauté de la vérité 50% · Illusions vitales 50%
+
+Ce n'est pas la vérité qui corrompt, c'est la présomption : on ne s'égare point par ce qu'on ne sait pas, mais par ce qu'on croit savoir. L'éducation d'Émile retarde donc les vérités qui ne peuvent encore être ni comprises ni vérifiées, religion, métaphysique, conventions, et n'admet un savoir qu'à la mesure de son utilité présente et de l'expérience de l'élève ; l'ignorance y est un moindre mal que l'erreur, et la conscience un guide plus sûr que le raisonnement.
+
+*Sources : Émile ou De l'éducation, II-III (1762) · Émile, IV (Profession de foi du vicaire savoyard)*
 
 ## Influencé par
 

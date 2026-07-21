@@ -8,7 +8,7 @@ Hylomorphism (from Greek hule, matter, and morphe, form) is [Aristotle](../philo
 
 **Carries a stance toward** : [Wholes and parts](../axes/reduction-emergence.md) : Emergentism
 
-**At stake in** : [Essence and existence](../axes/essence.md) · [Wholes and parts](../axes/reduction-emergence.md) · [Nature of mind and reality](../axes/reality-nature.md)
+**At stake in** : [Essence and existence](../axes/essence.md) · [Wholes and parts](../axes/reduction-emergence.md) · [Nature of reality](../axes/reality-nature.md)
 
 **See also** : [The four causes](../glossary/four-causes.md)
 

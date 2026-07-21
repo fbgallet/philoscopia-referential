@@ -3,16 +3,16 @@
   "relation": "WORLD",
   "territory": "MIND_CONSCIOUSNESS",
   "label": {
-    "fr": "Nature de la conscience",
-    "en": "Nature of consciousness"
+    "fr": "L'énigme de la conscience",
+    "en": "The enigma of consciousness"
   },
   "question": {
-    "fr": "Quelle est la nature de la conscience et son rapport à la réalité physique ?",
-    "en": "What is the nature of consciousness and its relation to physical reality?"
+    "fr": "Une science du cerveau peut-elle expliquer entièrement l'expérience vécue ?",
+    "en": "Can a science of the brain fully explain lived experience?"
   },
   "stakes": {
-    "fr": "Mes états vécus, la douleur, le rouge que je vois, le goût du café, ne sont-ils que des processus cérébraux, ou bien quelque chose leur échappe-t-il ? La place de l'esprit dans la nature, et ce qu'une science du cerveau pourra jamais expliquer, se jouent ici.",
-    "en": "My lived states, pain, the red I see, the taste of coffee, are they nothing but brain processes, or does something in them escape? The place of mind in nature, and what a science of the brain could ever hope to explain, are at play here."
+    "fr": "La douleur, le rouge que je vois, le goût du café : les sciences cognitives décrivent de mieux en mieux les mécanismes cérébraux qui les accompagnent, mais expliquent-elles ce que cela fait de les vivre ? Se positionner, c'est dire si le vécu est un mécanisme comme les autres, une illusion de l'introspection, ou le signe que l'esprit excède ce que les neurosciences pourront jamais saisir.",
+    "en": "Pain, the red I see, the taste of coffee: cognitive science describes ever more finely the brain mechanisms that accompany them, but does it explain what it is like to undergo them? To take a position is to say whether lived experience is a mechanism like any other, an illusion of introspection, or the sign that the mind exceeds anything neuroscience will ever grasp."
   },
   "layer": "THEORY",
   "type": "CATEGORICAL",
@@ -45,8 +45,8 @@
         "en": "Substance dualism"
       },
       "description": {
-        "fr": "L'esprit et le corps sont deux substances distinctes : la conscience n'est pas le cerveau, mais une réalité d'une autre nature, l'âme, qui pourrait en principe exister à part. C'est la vision spontanée, et celle de nombreuses religions.",
-        "en": "Mind and body are two distinct substances: consciousness is not the brain but a reality of another nature, the soul, which could in principle exist apart. This is the spontaneous view, and that of many religions."
+        "fr": "Le cerveau n'expliquera jamais entièrement l'expérience, car la conscience n'est pas son produit : elle est une réalité d'une autre nature, l'âme, qui pourrait en principe exister à part. C'est la vision spontanée de beaucoup, et celle de nombreuses religions.",
+        "en": "The brain will never fully explain experience, because consciousness is not its product: it is a reality of another nature, the soul, which could in principle exist apart. This is the spontaneous view of many, and that of many religions."
       },
       "figures": [
         {
@@ -138,6 +138,7 @@
     "MACHINE_MIND",
     "REALITY_NATURE",
     "FREEDOM",
-    "SCIENCE_PLACE"
+    "SCIENCE_PLACE",
+    "AFTERLIFE"
   ]
 }

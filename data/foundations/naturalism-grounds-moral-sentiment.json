@@ -1,0 +1,18 @@
+{
+  "id": "naturalism-grounds-moral-sentiment",
+  "ground": {
+    "axisId": "HUMAN_NATURE",
+    "poleId": "NATURALISM"
+  },
+  "grounded": {
+    "axisId": "MORAL_SOURCE",
+    "poleId": "MORAL_SENTIMENT"
+  },
+  "kind": "T_T",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Si nos conduites s'enracinent dans une nature humaine stable, une sensibilité morale innée devient possible : la sympathie de <ph id='hume'>Hume</ph>, la pitié de <ph id='rousseau'>Rousseau</ph> ou les germes de <ph id='mencius'>Mencius</ph> supposent que le cœur moral est donné par la nature avant d'être façonné par la culture.",
+    "en": "If our conduct is rooted in a stable human nature, an innate moral sensibility becomes possible: <ph id='hume'>Hume</ph>'s sympathy, <ph id='rousseau'>Rousseau</ph>'s pity, or <ph id='mencius'>Mencius</ph>'s sprouts suppose that the moral heart is given by nature before being shaped by culture."
+  },
+  "updatedAt": "2026-07-20T00:00:00.000Z"
+}

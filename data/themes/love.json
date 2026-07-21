@@ -1,0 +1,32 @@
+{
+  "id": "love",
+  "label": {
+    "fr": "L'amour",
+    "en": "Love"
+  },
+  "aliases": {
+    "fr": [
+      "amour",
+      "aimer",
+      "couple",
+      "passion amoureuse",
+      "amoureux",
+      "sentiment amoureux",
+      "romantisme"
+    ],
+    "en": [
+      "love",
+      "loving",
+      "romance",
+      "romantic passion",
+      "falling in love",
+      "in love"
+    ]
+  },
+  "featured": true,
+  "axes": [
+    "LOVE_NATURE",
+    "DESIRE",
+    "PARTIALITY"
+  ]
+}

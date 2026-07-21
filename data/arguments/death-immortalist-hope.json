@@ -1,7 +1,7 @@
 {
   "id": "death-immortalist-hope",
   "kind": "SUPPORTS",
-  "position": { "axisId": "DEATH", "poleId": "IMMORTALISM" },
+  "position": { "axisId": "AFTERLIFE", "poleId": "IMMORTAL_SOUL" },
   "name": { "fr": "L'argument de l'âme", "en": "The argument from the soul" },
   "claim": {
     "fr": "Ce qui pense en nous n'est pas un simple corps, et peut lui survivre.",
@@ -49,6 +49,6 @@
   "difficulty": 2,
   "source": { "author": { "fr": "Platon", "en": "Plato" }, "figures": [{ "name": { "fr": "Platon", "en": "Plato" }, "kind": "PHILOSOPHER", "slug": "plato" }], "work": { "fr": "Phédon", "en": "Phaedo" }, "workId": "phaedo-plato" },
   "test": "death-flight-from-finitude",
-  "problems": ["does-something-survive"],
+  "problems": ["thought-without-brain"],
   "updatedAt": "2026-07-12T00:00:00.000Z"
 }

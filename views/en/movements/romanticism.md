@@ -41,7 +41,7 @@ Romanticism does not deny the divine, it displaces it: against the remote God an
 
 *positioned · explicit in the texts · major*
 
-Sentimentalism 90% · Intellectualism 10%
+The primacy of feeling 90% · The primacy of reason 10%
 
 To the Enlightenment's primacy of cold reason, Romanticism opposes the truth of feeling: it is through the heart, enthusiasm and passion, not through calculation, that one reaches the deepest in oneself and in the world. [Rousseau](../philosophers/rousseau.md) had given the watchword by rehabilitating sensibility against the reasoners; the Sturm und Drang and then the Romantics make it the mainspring of art and of knowledge. Emotion is no longer a weakness to be mastered but a faculty that reveals.
 
@@ -229,7 +229,7 @@ Heir to [Rousseau](../philosophers/rousseau.md), Romanticism holds the human bei
 
 *Sources : Rousseau, Emile, or On Education · Schiller, On Naive and Sentimental Poetry*
 
-### [Nature of mind and reality](../axes/reality-nature.md)
+### [Nature of reality](../axes/reality-nature.md)
 
 *positioned · inferable · minor*
 
@@ -278,6 +278,16 @@ Teleology and providence 60% · Constructed meaning 30% · Absurdism 10%
 The world is neither an indifferent mechanism nor an absurd chaos: it is shot through with a meaning, a spirit unfolding within it to which the human being is called to respond. The Romantic feeling of the infinite and the longing for a lost unity presuppose that existence has a direction and a depth, however veiled: meaning is not to be invented from nothing but to be sensed and recovered in nature, art and history.
 
 *Sources : Novalis, The Novices of Sais · Schelling, Ideas for a Philosophy of Nature*
+
+### [The value of truth](../axes/truth-value.md)
+
+*positioned · inferable · minor*
+
+Vital illusions 60% · The primacy of truth 40%
+
+Against the analysis that dissects and disenchants, Romanticism holds imagination, myth and feeling to be organs of life deeper than demonstrative reason. What the understanding sometimes reduces to illusion, poetry, symbol, night, becomes there an access to the real that clarity misses: the disenchantment of the world is not a progress but a loss.
+
+*Sources : Novalis, Fragments · Schiller, Letters on the Aesthetic Education of Man (1795)*
 
 ## Influenced by
 

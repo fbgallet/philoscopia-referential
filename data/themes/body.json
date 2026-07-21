@@ -1,0 +1,31 @@
+{
+  "id": "body",
+  "label": {
+    "fr": "Le corps",
+    "en": "The body"
+  },
+  "aliases": {
+    "fr": [
+      "corps",
+      "chair",
+      "incarnation",
+      "sensations",
+      "corporel",
+      "physique"
+    ],
+    "en": [
+      "body",
+      "flesh",
+      "embodiment",
+      "sensations",
+      "bodily",
+      "physical"
+    ]
+  },
+  "axes": [
+    "EMBODIMENT",
+    "BODILY_PLEASURES",
+    "HUMAN_ENHANCEMENT",
+    "DESIRE"
+  ]
+}

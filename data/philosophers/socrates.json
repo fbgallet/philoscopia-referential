@@ -10,8 +10,12 @@
     "en": "The philosopher who wrote nothing: to question relentlessly, hold virtue to be knowledge, and be wise only in knowing oneself ignorant."
   },
   "aliases": {
-    "fr": ["socratique"],
-    "en": ["Socratic"]
+    "fr": [
+      "socratique"
+    ],
+    "en": [
+      "Socratic"
+    ]
   },
   "summary": {
     "fr": "Figure inaugurale de la philosophie occidentale, Athénien du Ve siècle avant notre ère qui n'écrivit rien : on ne le connaît qu'à travers ses disciples, surtout <ph id='plato'>Platon</ph> et <per>Xénophon</per>, la caricature qu'en donna le comique <per>Aristophane</per> et le témoignage d'<ph id='aristotle'>Aristote</ph>, d'où le <pb>problème socratique</pb>, la difficulté de distinguer l'homme de ses portraits. Fils d'un tailleur de pierre et d'une accoucheuse, il délaissa l'étude de la nature pour interroger ses concitoyens sur la vertu, le juste et le beau, déambulant sur l'agora et pratiquant un questionnement serré, l'<c id='elenchos'>elenchos</c>, qui démasquait les fausses certitudes. Accusé d'impiété et de corrompre la jeunesse, il fut condamné à mort par un tribunal athénien et but la ciguë ; sa défense, rapportée par Platon dans l'<w id='apology-plato'>Apologie</w>, en a fait le modèle du philosophe qui meurt pour sa mission. Il inspira directement les petites écoles socratiques, dont les <mv id='cynicism'>cyniques</mv>, et, par Platon, toute la tradition ultérieure.",
@@ -82,7 +86,10 @@
     {
       "axisId": "INTERIORITY",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": -0.95 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.95
+      },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
       "justification": {
@@ -107,7 +114,10 @@
     {
       "axisId": "EMOTIONS",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": -0.9 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
       "justification": {
@@ -131,7 +141,10 @@
     {
       "axisId": "CERTAINTY",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": 0.5 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.5
+      },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
       "justification": {
@@ -152,7 +165,14 @@
     {
       "axisId": "SOVEREIGN_GOOD",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "weights", "weights": [0.05, 0.25, 0.7] },
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.05,
+          0.25,
+          0.7
+        ]
+      },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
       "justification": {
@@ -173,7 +193,10 @@
     {
       "axisId": "UNIVERSALS",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": -0.6 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
       "epistemicStatus": "INFERABLE",
       "salience": "MAJOR",
       "justification": {
@@ -197,7 +220,14 @@
     {
       "axisId": "MORAL_SCOPE",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "weights", "weights": [0.75, 0.15, 0.1] },
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.75,
+          0.15,
+          0.1
+        ]
+      },
       "epistemicStatus": "INFERABLE",
       "salience": "MAJOR",
       "justification": {
@@ -221,7 +251,15 @@
     {
       "axisId": "ETHICS_FOUNDATION",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "weights", "weights": [0, 0.1, 0.9, 0] },
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.1,
+          0.9,
+          0
+        ]
+      },
       "epistemicStatus": "INFERABLE",
       "salience": "MAJOR",
       "justification": {
@@ -241,7 +279,10 @@
     {
       "axisId": "GOD_EXISTENCE",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": -0.6 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
       "justification": {
@@ -265,7 +306,15 @@
     {
       "axisId": "LIFE_MEANING",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "weights", "weights": [0.8, 0.2, 0, 0] },
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.8,
+          0.2,
+          0,
+          0
+        ]
+      },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
       "justification": {
@@ -289,7 +338,10 @@
     {
       "axisId": "CONTROL_SCOPE",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": -0.6 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
       "justification": {
@@ -302,7 +354,10 @@
             "fr": "Platon, Apologie, 30c-d (ils peuvent me tuer, non me nuire)",
             "en": "Plato, Apology, 30c-d (they can kill me but not harm me)"
           },
-          { "fr": "Platon, Apologie, 41c-d", "en": "Plato, Apology, 41c-d" }
+          {
+            "fr": "Platon, Apologie, 41c-d",
+            "en": "Plato, Apology, 41c-d"
+          }
         ],
         "quoteId": "on-peut-me-tuer-me-bannir-socrates",
         "strength": "MEDIUM"
@@ -311,7 +366,15 @@
     {
       "axisId": "DEATH",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "weights", "weights": [0.5, 0, 0.5, 0] },
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.5,
+          0,
+          0.5,
+          0
+        ]
+      },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
       "justification": {
@@ -332,7 +395,10 @@
     {
       "axisId": "KNOWLEDGE_SOURCE",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": 0.45 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.45
+      },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
       "justification": {
@@ -356,7 +422,14 @@
     {
       "axisId": "DESIRE",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "weights", "weights": [0.1, 0.5, 0.4] },
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0.5,
+          0.4
+        ]
+      },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
       "justification": {
@@ -380,7 +453,10 @@
     {
       "axisId": "BODILY_PLEASURES",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": -0.1 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.1
+      },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
       "justification": {
@@ -404,7 +480,10 @@
     {
       "axisId": "AUTHORITY",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": -0.35 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.35
+      },
       "epistemicStatus": "EXPLICIT",
       "salience": "MINOR",
       "justification": {
@@ -428,7 +507,10 @@
     {
       "axisId": "WHO_DECIDES",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": 0.6 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
       "epistemicStatus": "INFERABLE",
       "salience": "MAJOR",
       "justification": {
@@ -452,7 +534,15 @@
     {
       "axisId": "PUNISHMENT",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "weights", "weights": [0, 0, 0.85, 0.15] },
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0,
+          0.85,
+          0.15
+        ]
+      },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
       "justification": {
@@ -472,7 +562,10 @@
     {
       "axisId": "HUMAN_VISION",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": -0.3 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.3
+      },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
       "justification": {
@@ -492,7 +585,10 @@
     {
       "axisId": "AESTHETIC_LIFE",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": 0.5 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.5
+      },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
       "justification": {
@@ -520,7 +616,14 @@
     {
       "axisId": "CAUSALITY",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "weights", "weights": [0.2, 0.7, 0.1] },
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.2,
+          0.7,
+          0.1
+        ]
+      },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
       "justification": {
@@ -535,6 +638,30 @@
           }
         ],
         "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TRUTH_VALUE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Devant ses juges, Socrate préfère la mort à l'abandon de l'examen : philosopher est pour lui un poste assigné qu'on ne déserte pas, et la pire misère n'est pas de souffrir mais de vivre dans l'ignorance satisfaite de ce qu'on croit savoir. Le soin de l'âme passe par la mise à l'épreuve de toute opinion, la sienne d'abord.",
+          "en": "Facing his judges, Socrates prefers death to giving up examination: philosophizing is for him an assigned post one does not desert, and the worst misery is not to suffer but to live in the self-satisfied ignorance of what one thinks one knows. Care of the soul requires putting every opinion to the test, beginning with one's own."
+        },
+        "references": [
+          {
+            "fr": "Apologie de Socrate (Platon)",
+            "en": "Plato's Apology"
+          }
+        ],
+        "strength": "STRONG",
+        "quoteId": "une-vie-sans-examen-ne-vaut-socrates"
       }
     }
   ],
@@ -575,7 +702,7 @@
       }
     }
   ],
-  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

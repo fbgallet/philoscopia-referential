@@ -14,6 +14,26 @@
     "fr": "Corriger les écarts de richesse peut bafouer la liberté et le mérite de chacun ; les laisser tels quels peut consacrer la chance, l'héritage et la force. Se positionner, c'est dire ce qui revient vraiment à chacun, et ce que nous nous devons les uns aux autres.",
     "en": "Correcting gaps in wealth can trample each person's freedom and merit; leaving them as they are can enshrine luck, inheritance, and force. To take a position is to say what truly belongs to each, and what we owe one another."
   },
+  "aliases": {
+    "fr": [
+      "justice",
+      "égalité",
+      "inégalités",
+      "équité",
+      "répartition",
+      "richesse",
+      "redistribution"
+    ],
+    "en": [
+      "justice",
+      "equality",
+      "inequality",
+      "fairness",
+      "distribution",
+      "wealth",
+      "redistribution"
+    ]
+  },
   "layer": "VALUE",
   "type": "BIPOLAR_MEDIAN",
   "poles": [
@@ -96,7 +116,8 @@
     "FREEDOM",
     "MORAL_DEMAND",
     "SOVEREIGN_GOOD",
-    "FUTURE_GENERATIONS"
+    "FUTURE_GENERATIONS",
+    "MORAL_RESPONSIBILITY"
   ],
   "problems": [
     {

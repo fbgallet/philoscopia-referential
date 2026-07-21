@@ -50,7 +50,7 @@ Là où la domination est elle-même une violence installée, exploitation, colo
 
 ## Axes liés
 
-[Idéal et réel](../axes/political-ideal.md) · [Rapport à l'autorité](../axes/authority.md) · [Sens de la peine](../axes/punishment.md) · [Origine du lien social](../axes/social-contract.md) · [Pardon](../axes/forgiveness.md)
+[Idéal et réel](../axes/political-ideal.md) · [Rapport à l'autorité](../axes/authority.md) · [Sens de la peine](../axes/punishment.md) · [Origine du lien social](../axes/social-contract.md) · [Pardon](../axes/forgiveness.md) · [La loi et la conscience](../axes/political-obligation.md)
 
 ---
 

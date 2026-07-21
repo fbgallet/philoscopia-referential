@@ -11,8 +11,8 @@
     "en": "Can we legitimately believe without sufficient evidence?"
   },
   "stakes": {
-    "fr": "Exiger une preuve pour tout met à l'abri de l'erreur, mais condamne au doute là où il faut pourtant croire pour aimer, s'engager ou espérer. Se positionner, c'est dire si croire sans garantie est une faute contre la raison ou une nécessité de la vie.",
-    "en": "Demanding proof for everything guards against error, but leaves us in doubt just where we must nonetheless believe in order to love, commit, or hope. To take a position is to say whether believing without guarantee is an offence against reason or a necessity of life."
+    "fr": "Croire engage : l'armateur qui s'est persuadé sans preuve que son navire tiendrait la mer répond du naufrage, car il n'avait pas le droit de le croire. Faut-il alors proportionner toute croyance aux preuves, ou existe-t-il des cas, l'amitié, l'engagement, la foi, où se refuser à croire faute de garantie serait aussi une faute ? Se positionner, c'est dire ce que nous devons à la preuve quand nous formons nos croyances, et de quoi nous sommes comptables en les tenant.",
+    "en": "To believe commits us: the shipowner who talked himself into trusting, without proof, that his vessel would hold answers for the wreck, for he had no right to believe it. Must we then proportion every belief to the evidence, or are there cases, friendship, commitment, faith, where refusing to believe for want of a guarantee would itself be a fault? To take a position is to say what we owe to evidence when we form our beliefs, and what we are accountable for in holding them."
   },
   "layer": "VALUE",
   "type": "BIPOLAR",
@@ -73,6 +73,7 @@
     "FAITH_REASON",
     "GOD_EXISTENCE",
     "SOVEREIGN_GOOD",
-    "EPISTEMIC_JUSTIFICATION"
+    "EPISTEMIC_JUSTIFICATION",
+    "TRUTH_VALUE"
   ]
 }

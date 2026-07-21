@@ -40,7 +40,7 @@ Le changement n'est ni une illusion ni la dissolution de toute chose : c'est le 
 
 ## Axes liés
 
-[Nature de l'esprit et du réel](../axes/reality-nature.md) · [Explication de la nature](../axes/causality.md) · [Essence et existence](../axes/essence.md) · [Nature du moi](../axes/self-nature.md) · [Les universaux](../axes/universals.md)
+[Nature du réel](../axes/reality-nature.md) · [Explication de la nature](../axes/causality.md) · [Essence et existence](../axes/essence.md) · [Nature du moi](../axes/self-nature.md) · [Les universaux](../axes/universals.md)
 
 ---
 

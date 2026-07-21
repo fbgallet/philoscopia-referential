@@ -1,0 +1,12 @@
+{
+  "id": "empiricism-grounds-confirmationism",
+  "ground": { "axisId": "KNOWLEDGE_SOURCE", "poleId": "EMPIRICISM" },
+  "grounded": { "axisId": "SCIENTIFIC_METHOD", "poleId": "CONFIRMATIONISM" },
+  "kind": "T_T",
+  "strength": "STRONG",
+  "explanation": {
+    "fr": "Si toute connaissance vient de l'expérience, alors c'est à l'expérience de prouver : la science part des faits et confirme ses lois par l'observation méthodique de régularités. L'empirisme fonde ainsi la confiance dans la preuve expérimentale, de Bacon à <ph id='mill'>Mill</ph>, pour qui l'accumulation d'observations établit notre savoir de la nature.",
+    "en": "If all knowledge comes from experience, then it falls to experience to prove: science starts from facts and confirms its laws through the methodical observation of regularities. Empiricism thus grounds the trust in experimental proof, from Bacon to <ph id='mill'>Mill</ph>, for whom the accumulation of observations establishes our knowledge of nature."
+  },
+  "updatedAt": "2026-07-21T00:00:00.000Z"
+}

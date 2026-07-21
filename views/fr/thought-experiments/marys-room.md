@@ -8,7 +8,7 @@ Mary est une brillante spécialiste de la vision : enfermée depuis toujours dan
 
 **En voyant le rouge pour la première fois, Mary apprend-elle quelque chose que la science ne lui avait pas donné ?**
 
-**Axes en jeu** : [Place de la science](../axes/science-place.md) · [Nature de la conscience](../axes/consciousness-nature.md)
+**Axes en jeu** : [Place de la science](../axes/science-place.md) · [L'énigme de la conscience](../axes/consciousness-nature.md)
 
 ## Ce qu'elle fait dans le débat
 

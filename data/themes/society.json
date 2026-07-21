@@ -1,0 +1,30 @@
+{
+  "id": "society",
+  "label": {
+    "fr": "La société",
+    "en": "Society"
+  },
+  "aliases": {
+    "fr": [
+      "société",
+      "social",
+      "vivre ensemble",
+      "communauté",
+      "lien social"
+    ],
+    "en": [
+      "society",
+      "social",
+      "living together",
+      "community",
+      "social bond"
+    ]
+  },
+  "axes": [
+    "INDIVIDUAL_SOCIETY",
+    "SOCIAL_CONTRACT",
+    "SOCIAL_IDENTITY",
+    "CONSERVATISM_PROGRESSISM",
+    "BELONGING"
+  ]
+}

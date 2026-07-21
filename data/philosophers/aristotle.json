@@ -14,8 +14,15 @@
     "en": "From animals to constitutions, observing, distinguishing and classifying: seeking, on a human scale, what makes a flourishing life."
   },
   "aliases": {
-    "fr": ["aristotélicien", "aristotélicienne", "aristotélisme"],
-    "en": ["Aristotelian", "Aristotelianism"]
+    "fr": [
+      "aristotélicien",
+      "aristotélicienne",
+      "aristotélisme"
+    ],
+    "en": [
+      "Aristotelian",
+      "Aristotelianism"
+    ]
   },
   "summary": {
     "fr": "Né à Stagire en Macédoine, Aristote rejoint à dix-sept ans l'Académie de <ph id='plato'>Platon</ph>, où il étudie une vingtaine d'années avant de devenir précepteur du jeune Alexandre, puis de fonder à Athènes sa propre école, le Lycée. Encyclopédiste de l'Antiquité, il écrit sur la logique, la physique, la biologie, la métaphysique, l'éthique, la politique et la poétique, fondant ou réorganisant la plupart de ces disciplines. Sa méthode part des phénomènes observés et des opinions reçues (les <kw>endoxa</kw>), recense les difficultés, puis cherche les causes et les principes : une démarche d'enquête patiente, souvent dirigée contre les thèses de son maître. Transmise par les commentateurs grecs, puis arabes et latins, sa pensée devient au Moyen Âge « le Philosophe » par excellence et la charpente de la scolastique, avant d'être combattue par la science moderne et sans cesse relue jusqu'à aujourd'hui.",
@@ -27,7 +34,9 @@
     "fr": "Grec",
     "en": "Greek"
   },
-  "movements": ["aristotelianism"],
+  "movements": [
+    "aristotelianism"
+  ],
   "entries": [
     {
       "axisId": "BEING_BECOMING",
@@ -62,7 +71,12 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.75, 0, 0.25, 0]
+        "weights": [
+          0.75,
+          0,
+          0.25,
+          0
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
@@ -153,7 +167,11 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.05, 0.8, 0.15]
+        "weights": [
+          0.05,
+          0.8,
+          0.15
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
@@ -181,7 +199,12 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.05, 0.05, 0.9, 0]
+        "weights": [
+          0.05,
+          0.05,
+          0.9,
+          0
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
@@ -204,7 +227,12 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.85, 0.15, 0, 0]
+        "weights": [
+          0.85,
+          0.15,
+          0,
+          0
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
@@ -231,7 +259,11 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.15, 0.8, 0.05]
+        "weights": [
+          0.15,
+          0.8,
+          0.05
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
@@ -332,7 +364,11 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.85, 0.1, 0.05]
+        "weights": [
+          0.85,
+          0.1,
+          0.05
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MINOR",
@@ -431,7 +467,11 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.1, 0.1, 0.8]
+        "weights": [
+          0.1,
+          0.1,
+          0.8
+        ]
       },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
@@ -454,7 +494,12 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.9, 0.1, 0, 0]
+        "weights": [
+          0.9,
+          0.1,
+          0,
+          0
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MINOR",
@@ -532,7 +577,11 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.1, 0.8, 0.1]
+        "weights": [
+          0.1,
+          0.8,
+          0.1
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
@@ -693,7 +742,11 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.8, 0.15, 0.05]
+        "weights": [
+          0.8,
+          0.15,
+          0.05
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MINOR",
@@ -739,7 +792,11 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.3, 0.45, 0.25]
+        "weights": [
+          0.3,
+          0.45,
+          0.25
+        ]
       },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
@@ -794,7 +851,12 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0, 0.1, 0, 0.9]
+        "weights": [
+          0,
+          0.1,
+          0,
+          0.9
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
@@ -815,6 +877,34 @@
           }
         ],
         "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRUTH_VALUE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le désir de connaître n'est pas un instrument du bonheur : il est constitutif de notre nature, et la <c>contemplation</c> (theōria), l'activité la plus autarcique et la plus continue, réalise ce qu'il y a de plus haut en l'homme ; une vie accomplie culmine dans le connaître, non dans l'utile.",
+          "en": "The desire to know is not an instrument of happiness: it is constitutive of our nature, and <c>contemplation</c> (theōria), the most self-sufficient and continuous of activities, realizes what is highest in the human being; an accomplished life culminates in knowing, not in usefulness."
+        },
+        "references": [
+          {
+            "fr": "Métaphysique, A, 1",
+            "en": "Metaphysics, I, 1"
+          },
+          {
+            "fr": "Éthique à Nicomaque, X",
+            "en": "Nicomachean Ethics, X"
+          }
+        ],
+        "strength": "STRONG",
+        "quoteId": "tous-les-hommes-desirent-naturellement-aristotle"
       }
     }
   ],
@@ -855,7 +945,7 @@
       }
     }
   ],
-  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

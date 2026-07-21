@@ -9,16 +9,18 @@
 - [Le but de la philosophie](metaphilosophy.md) : À quoi sert la philosophie ?
 - [Le sens des mots](meaning.md) : D'où les mots tiennent-ils leur sens ?
 - [Les universaux](universals.md) : Les propriétés générales existent-elles, ou ne sont-elles que des noms ?
-- [Méthode scientifique](scientific-method.md) : Comment la science établit-elle ses vérités ?
+- [Méthode scientifique](scientific-method.md) : Comment la science s'y prend-elle pour justifier ses affirmations ?
 - [Nature de la vérité](truth-nature.md) : Qu'est-ce qui rend une affirmation vraie ?
 - [Place de la science](science-place.md) : La science est-elle la seule voie d'accès valable à la connaissance ?
 - [Rapport à la certitude](certainty.md) : Pouvons-nous atteindre des certitudes définitives ?
 - [Source de la connaissance](knowledge-source.md) : D'où vient notre connaissance : de l'expérience sensible ou de la raison ?
 - [Statut du savoir](knowledge-status.md) : La science décrit-elle le monde tel qu'il est, ou construit-elle ses propres objets ?
+- [Valeur de la vérité](truth-value.md) : Faut-il vouloir la vérité à tout prix, ou certaines illusions aident-elles à vivre ?
 
 ## Le soi
 
 - [Améliorer la nature humaine](human-enhancement.md) : Devons-nous utiliser la technique pour améliorer la nature humaine au-delà du soin ?
+- [Après la mort](afterlife.md) : Quelque chose de nous survit-il à la mort ?
 - [Attention et divertissement](attention.md) : Se divertir, est-ce fuir ce qui compte ou un art de vivre ?
 - [Espoir](hope.md) : L'espoir est-il une force qui fait vivre et agir, ou une illusion dont il faut se déprendre ?
 - [Essence et existence](essence.md) : Avons-nous une nature qui nous précède, ou devenons-nous ce que nous choisissons d'être ?
@@ -48,6 +50,9 @@
 - [Individu et société](individual-society.md) : Pour comprendre la vie sociale, faut-il partir des individus ou du tout social ?
 - [Intérêt propre et autrui](self-interest.md) : Quelle place accorder à notre propre intérêt face à celui des autres ?
 - [Justice distributive](distributive-justice.md) : Comment les richesses et les ressources doivent-elles être réparties dans la société ?
+- [La loi et la conscience](political-obligation.md) : Peut-il être juste de désobéir à la loi ?
+- [La responsabilité morale](moral-responsibility.md) : Faut-il attribuer des torts ou des mérites ?
+- [La source de la morale](moral-source.md) : D'où la morale tire-t-elle son autorité ?
 - [La violence](violence.md) : La violence peut-elle être légitime ?
 - [Lettre ou esprit de la règle](rule-spirit.md) : Faut-il appliquer les règles à la lettre ou selon leur esprit ?
 - [Liberté politique](political-liberty.md) : Qu'est-ce qu'être politiquement libre ?
@@ -72,13 +77,13 @@
 - [Foi et raison](faith-reason.md) : Quel rapport la foi entretient-elle avec la raison : accord, conflit ou indifférence ?
 - [Générations futures](future-generations.md) : Avons-nous des devoirs envers les générations futures ?
 - [Hiérarchie des goûts](taste-hierarchy.md) : Existe-t-il des plaisirs esthétiques supérieurs à d'autres, ou toute hiérarchie des goûts est-elle une construction sociale ?
+- [L'énigme de la conscience](consciousness-nature.md) : Une science du cerveau peut-elle expliquer entièrement l'expérience vécue ?
 - [L'être et le devenir](being-becoming.md) : Le réel est-il, au fond, ce qui demeure ou ce qui devient ?
 - [Le beau](beauty.md) : La beauté est-elle dans les choses elles-mêmes ou dans le regard de celui qui les contemple ?
 - [Le beau dans la vie](aesthetic-life.md) : Le beau est-il au cœur d'une vie réussie, ou un luxe secondaire au regard de l'éthique et de l'utile ?
 - [Le problème du mal](problem-of-evil.md) : Le mal est-il compatible avec un Dieu bon et tout-puissant ?
 - [Nature de l'art](art-nature.md) : L'art imite-t-il le réel ou crée-t-il quelque chose de radicalement nouveau ?
-- [Nature de l'esprit et du réel](reality-nature.md) : De quoi la réalité est-elle faite : de matière, d'esprit, ou des deux ?
-- [Nature de la conscience](consciousness-nature.md) : Quelle est la nature de la conscience et son rapport à la réalité physique ?
+- [Nature du réel](reality-nature.md) : De quoi la réalité est-elle faite : de matière, d'esprit, ou des deux ?
 - [Nature et culture](human-nature.md) : Les comportements humains s'expliquent-ils d'abord par la nature ou par la culture ?
 - [Où réside le sacré](transcendence.md) : Le sacré réside-t-il dans ce monde même ou dans un au-delà qui le dépasse ?
 - [Place de l'homme dans la nature](human-place-nature.md) : Quelle place l'être humain doit-il occuper dans la nature : maître, gardien ou simple membre ?

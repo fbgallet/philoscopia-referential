@@ -54,7 +54,7 @@ Contre l'indifférence stoïcienne, Aristote tient la douleur et le malheur pour
 
 *positionné · inférable · mineure*
 
-La mort n'est rien 45% · Révolte / refus 25% · Immortalisme 20% · Être-pour-la-mort 10%
+Se libérer de la crainte 45% · Refuser la mort 25% · Se préparer au passage 20% · Vivre en vue de sa mort 10%
 
 Aristote tient la mort pour « la plus redoutable des choses », car elle est la fin et prive de tous les biens : c'est un mal réel, non un rien, devant lequel le courage trouve son sens en l'affrontant sans le fuir. L'âme, forme du corps, périt avec lui pour l'essentiel, seul l'intellect (nous) pouvant être tenu pour éternel, mais de façon impersonnelle. D'où une finitude assumée, teintée de la gravité d'une perte.
 
@@ -236,7 +236,7 @@ Aristote ne réprime pas le désir mais l'ordonne : l'appétit (orexis) doit ob�
 
 *positionné · inférable · mineure*
 
-Sentimentalisme 70% · Intellectualisme 30%
+Le primat du sentiment 70% · Primauté de la raison 30%
 
 Contre l'intellectualisme socratique, Aristote accorde aux passions un rôle éthique propre : éduquées au [juste milieu](../glossary/golden-mean.md), la crainte, la colère ou la pitié ressenties quand il faut et envers qui il faut font partie de la vertu, et le caractère se forme par habituation autant que par raison. L'orientation vers le sentimentalisme reste modérée, la raison gardant la direction.
 
@@ -351,6 +351,18 @@ Contre l'[éros](../glossary/eros.md) platonicien qui fait de l'amour un désir 
 > « L'ami est un autre soi-même. », Éthique à Nicomaque, IX, 4
 
 *Sources : Éthique à Nicomaque, VIII-IX (les trois amitiés ; l'ami comme autre soi-même) · Éthique à Nicomaque, IX, 9 (le bonheur et le besoin d'amis)*
+
+### [Valeur de la vérité](../axes/truth-value.md)
+
+*positionné · explicite dans les textes · mineure*
+
+Primauté de la vérité 85% · Illusions vitales 15%
+
+Le désir de connaître n'est pas un instrument du bonheur : il est constitutif de notre nature, et la contemplation (theōria), l'activité la plus autarcique et la plus continue, réalise ce qu'il y a de plus haut en l'homme ; une vie accomplie culmine dans le connaître, non dans l'utile.
+
+> « Tous les hommes désirent naturellement savoir. », Métaphysique, A, 1, 980a
+
+*Sources : Métaphysique, A, 1 · Éthique à Nicomaque, X*
 
 ## Influencé par
 

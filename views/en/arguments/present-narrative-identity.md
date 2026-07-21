@@ -2,7 +2,7 @@
 
 # A life is not a heap of instants
 
-*Objection to [Temporal orientation](../axes/time-orientation.md) : Presentism*
+*Objection to [Temporal orientation](../axes/time-orientation.md) : Living in the present*
 
 **A human life is not a sequence of instants but a story: without past or future, it comes undone.**
 

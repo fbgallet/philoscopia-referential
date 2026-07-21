@@ -6,7 +6,7 @@ Reductionism explains a whole by its simplest parts: to understand is to trace t
 
 **Carries a stance toward** : [Wholes and parts](../axes/reduction-emergence.md) : Reductionism
 
-**At stake in** : [Wholes and parts](../axes/reduction-emergence.md) · [Nature of consciousness](../axes/consciousness-nature.md)
+**At stake in** : [Wholes and parts](../axes/reduction-emergence.md) · [The enigma of consciousness](../axes/consciousness-nature.md)
 
 **See also** : [Emergentism](../glossary/emergentism.md) · [Materialism](../glossary/materialism.md)
 

@@ -27,6 +27,7 @@ What we take for human nature varies profoundly from one society to another: rul
 - *[Nature and culture](../axes/human-nature.md) : Culturalism* grounds *[Status of norms (metaethics)](../axes/moral-scope.md) : Relativism* : If man is shaped through and through by his culture rather than by a shared nature, his moral norms vary with the societies that produce them. Culturalism thus supports relativism, for which good and evil only have meaning within a given cultural frame.
 - *[Nature and culture](../axes/human-nature.md) : Culturalism* grounds *[Social identity](../axes/social-identity.md) : Social construction* : If what we take for human nature varies from one society to another, then the categories that classify us, gender first of all, are products of history and not natural givens. Culturalism grounds social construction: [Beauvoir](../philosophers/beauvoir.md) sums it up: "one is not born, but rather becomes, a woman".
 - *[Nature and culture](../axes/human-nature.md) : Naturalism* grounds *[Humanity's place in nature](../axes/human-place-nature.md) : Member among others* : If the human being is a natural being among the living, with no privileged position, then they are not the master of nature but a member of a web of interdependence. Naturalism grounds the idea of the human as one member among others: from Darwinian continuity to deep ecology, every form of life has a worth of its own, independent of its usefulness to us.
+- *[Nature and culture](../axes/human-nature.md) : Naturalism* grounds *[The source of morality](../axes/moral-source.md) : Moral sentiment* : If our conduct is rooted in a stable human nature, an innate moral sensibility becomes possible: [Hume](../philosophers/hume.md)'s sympathy, [Rousseau](../philosophers/rousseau.md)'s pity, or [Mencius](../philosophers/mencius.md)'s sprouts suppose that the moral heart is given by nature before being shaped by culture.
 - *[Nature and culture](../axes/human-nature.md) : Naturalism* grounds *[Nature of love](../axes/love-nature.md) : Ruse of the species* : If the human being is first of all a natural being driven by impulses shared with the species, love ceases to be a mystery and becomes the mask of the drive to reproduce. Naturalism grounds the "ruse of the species": [Schopenhauer](../philosophers/schopenhauer.md) sees beneath the most exalted passion the will-to-live that uses lovers to perpetuate the species.
 
 ## Quotations
@@ -39,7 +40,7 @@ What we take for human nature varies profoundly from one society to another: rul
 
 ## Related axes
 
-[Social identity](../axes/social-identity.md) · [Essence and existence](../axes/essence.md) · [Enhancing human nature](../axes/human-enhancement.md) · [Vision of humanity](../axes/human-vision.md) · [The highest good](../axes/sovereign-good.md)
+[Social identity](../axes/social-identity.md) · [Essence and existence](../axes/essence.md) · [Enhancing human nature](../axes/human-enhancement.md) · [Vision of humanity](../axes/human-vision.md) · [The highest good](../axes/sovereign-good.md) · [The source of morality](../axes/moral-source.md) · [Moral responsibility](../axes/moral-responsibility.md)
 
 ---
 

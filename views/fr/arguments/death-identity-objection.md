@@ -2,7 +2,7 @@
 
 # L'objection de l'identité
 
-*Objection à [La mort](../axes/death.md) : Immortalisme*
+*Objection à [Après la mort](../axes/afterlife.md) : L'âme immortelle*
 
 **Même si quelque chose survit, rien ne garantit que ce soit encore moi.**
 
@@ -31,7 +31,7 @@
 
 **Conteste** : [L'argument de l'âme](../arguments/death-immortalist-hope.md)
 
-**Porte sur les problèmes** : [Quelque chose survit-il ?](../axes/death.md)
+**Porte sur les problèmes** : [Serait-ce encore moi ?](../axes/afterlife.md)
 
 ---
 

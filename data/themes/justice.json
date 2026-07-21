@@ -1,0 +1,35 @@
+{
+  "id": "justice",
+  "label": {
+    "fr": "La justice",
+    "en": "Justice"
+  },
+  "aliases": {
+    "fr": [
+      "justice",
+      "juste et injuste",
+      "droit",
+      "équité",
+      "injustice",
+      "équitable",
+      "tribunal"
+    ],
+    "en": [
+      "justice",
+      "just and unjust",
+      "law",
+      "fairness",
+      "injustice",
+      "fair",
+      "court"
+    ]
+  },
+  "featured": true,
+  "axes": [
+    "DISTRIBUTIVE_JUSTICE",
+    "PUNISHMENT",
+    "RIGHTS_NATURE",
+    "RULE_SPIRIT",
+    "MORAL_SCOPE"
+  ]
+}

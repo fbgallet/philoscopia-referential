@@ -2,7 +2,7 @@
 
 # L'objection de la rumination
 
-*Objection à [La mort](../axes/death.md) : Être-pour-la-mort*
+*Objection à [La mort](../axes/death.md) : Vivre en vue de sa mort*
 
 **À force de regarder la mort, on cesse de vivre.**
 

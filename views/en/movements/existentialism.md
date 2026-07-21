@@ -106,7 +106,7 @@ Because existence precedes essence, meaning cannot pre-exist the individual who 
 
 *positioned · explicit in the texts · major*
 
-Project 80% · Presentism 10% · Memory and transmission 10%
+Project 80% · Living in the present 10% · Memory and transmission 10%
 
 A being without essence cannot be defined by what it already is, only by what it reaches toward: existence is project, a thrust toward a future it has to be. [Heidegger](../philosophers/heidegger.md) names this structure being-ahead-of-itself, and [Sartre](../philosophers/sartre.md) takes it up: it is the aimed-at future that retrospectively illuminates the past and gives it its meaning, not the reverse. The primacy of the future thus sets the movement apart from the wisdoms of the present such as [Stoicism](../movements/stoicism.md) or [Epicureanism](../movements/epicureanism.md), for whom living well is gathering the instant: here, to live is to project oneself and never to coincide with oneself.
 
@@ -116,7 +116,7 @@ A being without essence cannot be defined by what it already is, only by what it
 
 *positioned · explicit in the texts · minor*
 
-Being-toward-death 80% · Death is nothing 15% · Revolt / refusal 5%
+Living in view of one's death 80% · Freeing ourselves from the fear 15% · Refusing death 5%
 
 In the existential tradition, finitude is no external accident but what individualizes existence: for Heidegger, Dasein (being-there) is being-toward-death, and resolute anticipation of one's own death wrests one from inauthenticity, the opposite of [authenticity](../glossary/authenticity.md). [Sartre](../philosophers/sartre.md) qualifies this thesis, but the movement unanimously rejects consoling immortality.
 
@@ -166,7 +166,7 @@ The direct corollary of the thesis of existence without prior essence is the ref
 
 *positioned · inferable · minor*
 
-Sentimentalism 75% · Intellectualism 25%
+The primacy of feeling 75% · The primacy of reason 25%
 
 Affects are not mere disturbances to be mastered by reason: anguish, nausea, and despair are disclosive moods that reveal the human condition, its freedom and its contingency. Kierkegaard's anxiety before the possible and [Sartre](../philosophers/sartre.md)'s anguish before freedom grant access to a truth that intellectual analysis alone would miss.
 

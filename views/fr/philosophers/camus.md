@@ -136,7 +136,7 @@ Parce que la valeur découverte dans la [révolte](../glossary/revolt.md) n'est 
 
 *positionné · explicite dans les textes · majeure*
 
-Présentisme 80% · Projet 10% · Mémoire-transmission 10%
+Vivre au présent 80% · Projet 10% · Mémoire-transmission 10%
 
 Privé de sens transcendant, l'homme absurde mise sur la quantité d'expériences plutôt que sur leur qualité ou un projet d'avenir : épuiser le présent, multiplier les instants vécus. C'est le **présentisme** exalté par Don Juan et le comédien dans *[Le Mythe de Sisyphe](../works/the-myth-of-sisyphus-camus.md)*.
 
@@ -176,7 +176,7 @@ La [révolte](../glossary/revolt.md) pose une limite quasi universelle, un « no
 
 *positionné · inférable · mineure*
 
-Révolte / refus 65% · La mort n'est rien 20% · Être-pour-la-mort 15%
+Refuser la mort 65% · Se libérer de la crainte 20% · Vivre en vue de sa mort 15%
 
 La mort est le scandale par excellence : l'horizon qui révèle [l'absurde](../glossary/the-absurd.md) et ruine tout espoir, mais que Camus refuse d'accueillir avec sérénité. À la résignation comme à l'espérance d'un au-delà, il oppose la révolte : mourir irréconcilié, lucide et insurgé, sans appel ni consolation. C'est dans ce refus obstiné, non dans l'acceptation, que l'homme absurde affirme sa grandeur.
 
@@ -284,11 +284,21 @@ Question étrangère à l'œuvre de Camus : rien dans ses textes ne permet de le
 
 *positionné · explicite dans les textes · majeure*
 
-Révolte / anti-théodicie 85% · Argument du mal (athéisme) 15%
+Le mal injustifiable 85% · Le mal réfute Dieu 15%
 
 Dans La Peste, devant l'agonie d'un enfant, Rieux refuse d'aimer une création où des enfants sont torturés. Aucune harmonie, aucun salut ne justifie cette souffrance : c'est le refus net de toute théodicée, la révolte contre un ordre qui l'exigerait.
 
 *Sources : La Peste, IV ; L'Homme révolté*
+
+### [Valeur de la vérité](../axes/truth-value.md)
+
+*positionné · explicite dans les textes · majeure*
+
+Primauté de la vérité 90% · Illusions vitales 10%
+
+Maintenir l'[absurde](../glossary/the-absurd.md) exige de ne truquer aucun des deux termes : toute consolation qui prête au monde un sens caché est une esquive, un suicide philosophique. La lucidité n'est pas tristesse mais honneur de vivre : voir clair et vivre quand même, sans appel, est la seule grandeur accessible.
+
+*Sources : Le Mythe de Sisyphe (1942)*
 
 ## Influencé par
 

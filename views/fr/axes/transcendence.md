@@ -45,7 +45,7 @@ Le sacré dépasse ce monde : la vérité, le bien ou Dieu résident dans un ord
 
 ## Axes liés
 
-[Foi et raison](../axes/faith-reason.md) · [Existence de Dieu](../axes/god-existence.md) · [Souverain bien](../axes/sovereign-good.md)
+[Foi et raison](../axes/faith-reason.md) · [Existence de Dieu](../axes/god-existence.md) · [Souverain bien](../axes/sovereign-good.md) · [Après la mort](../axes/afterlife.md)
 
 ---
 

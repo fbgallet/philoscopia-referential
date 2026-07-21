@@ -40,7 +40,7 @@ Mill makes meaning depend on no cosmic purpose, which he holds undecidable: he l
 
 *positioned · inferable · minor*
 
-Death is nothing 70% · Immortalism 20% · Revolt / refusal 10%
+Freeing ourselves from the fear 70% · Preparing for the passage 20% · Refusing death 10%
 
 Mill judges the immortality of the soul neither provable nor refutable by reason: experience rather pleads for the end of consciousness with the body, but the question stays open. He grants that the hope of a future life, though without secure foundation, may have value for conduct, without one's being able to rely on it as on knowledge.
 
@@ -322,7 +322,7 @@ The depressive crisis Mill undergoes at twenty reveals to him the insufficiency 
 
 *positioned · inferable · minor*
 
-Sentimentalism 57% · Intellectualism 43%
+The primacy of feeling 57% · The primacy of reason 43%
 
 Trained by his father in the cult of analysis and reasoning, Mill realises after his crisis that intellect alone withers: one must also cultivate the feelings and sensibility, which poetry and art nourish. Without denying reason's primacy in knowledge, he gives the emotions their due as an irreducible part of a good life, hence a near-central position.
 
@@ -338,7 +338,7 @@ The question of machine minds (artificial intelligence, functionalism) postdates
 
 *positioned · explicit in the texts · major*
 
-Inductivism 85% · Falsificationism 10% · Bayesianism 5%
+Proof by experience 85% · Refutation 10% · The calculus of probabilities 5%
 
 The System of Logic codifies induction: it is the experimental methods (agreement, difference) that, from the observation of regularities, establish the laws of nature. Scientific knowledge is built from the particular toward the general.
 
@@ -363,6 +363,18 @@ Negative liberty 80% · Positive liberty 10% · Capability freedom 10%
 The principle of On Liberty is negative: the only legitimate ground for constraining an individual is to prevent harm to others. Over himself, over his own body and mind, each is sovereign. Liberty is measured by the space shielded from interference.
 
 *Sources : On Liberty, ch. I*
+
+### [The value of truth](../axes/truth-value.md)
+
+*positioned · inferable · minor*
+
+The primacy of truth 70% · Vital illusions 30%
+
+The refusal to exchange the higher faculties for an easier contentment suggests that human happiness includes a demand for dignity and development, even at the price of discontent; the preference for lucidity follows from this more than it is asserted in it.
+
+> “It is better to be a human being dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied.”, Utilitarianism, ch. 2
+
+*Sources : Utilitarianism, ch. 2 (1861)*
 
 ## Influenced by
 

@@ -1,0 +1,28 @@
+{
+  "id": "friendship",
+  "label": {
+    "fr": "L'amitié",
+    "en": "Friendship"
+  },
+  "aliases": {
+    "fr": [
+      "amitié",
+      "amis",
+      "fraternité",
+      "ami",
+      "camaraderie"
+    ],
+    "en": [
+      "friendship",
+      "friends",
+      "brotherhood",
+      "companionship"
+    ]
+  },
+  "featured": true,
+  "axes": [
+    "LOVE_NATURE",
+    "BELONGING",
+    "SELF_INTEREST"
+  ]
+}

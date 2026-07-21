@@ -32,7 +32,7 @@ Since disturbance comes not from things but from the judgment we pass on them, t
 
 *positioned · explicit in the texts · major*
 
-Presentism 85% · Project 10% · Memory and transmission 5%
+Living in the present 85% · Project 10% · Memory and transmission 5%
 
 One can be stripped neither of the past, which is no more, nor of the future, which is not yet: what we lose in dying is only ever that indivisible point, the present instant, the same for the man who dies old and the man who dies young. From this Marcus draws the deflation of posthumous glory, since those who might remember me will die in their turn, and the concentration on the task at hand, to be carried out as if it were the last. This meditation on transience, more insistent in him than in any Stoic, summons us not to enjoy the moment but to inhabit it worthily.
 
@@ -54,7 +54,7 @@ The cosmos is a whole ordered by the [logos](../glossary/logos.md), and man, a f
 
 *positioned · explicit in the texts · major*
 
-Death is nothing 60% · Being-toward-death 35% · Immortalism 5%
+Freeing ourselves from the fear 60% · Living in view of one's death 35% · Preparing for the passage 5%
 
 If everything in the cosmos arises from change and returns to it, death is but one transformation among others, the dissolution of the elements back into the whole they came from: nothing in keeping with [nature](../glossary/logos.md) can be an evil. But Marcus does not merely defuse its terror; he keeps it daily before his eyes to govern present action, so that an acute awareness of death, more than a consolation, becomes the spur to a life rightly lived. His own note is the image of the ripe fruit: to leave life as the olive falls, blessing the earth that bore it.
 
@@ -66,7 +66,7 @@ If everything in the cosmos arises from change and returns to it, death is but o
 
 *positioned · explicit in the texts · major*
 
-Intellectualism 93% · Sentimentalism 8%
+The primacy of reason 93% · The primacy of feeling 8%
 
 Like every Stoic, Marcus holds a passion to be an [assent](../glossary/synkatathesis.md) given to a false judgment, hence a correctable error and no fatality; but he turns it above all into the instrument of an ethics of gentleness. The reasoning he urges on himself against anger is tight: the one who wrongs me is mistaken about good and evil, and no one errs willingly; he is my kinsman, born of the same [reason](../glossary/logos.md); he cannot harm me in the one thing that is mine, my [judgment](../glossary/prohairesis.md); and to resent him would add his wrong to my own. Understanding another's ignorance dissolves resentment before it forms.
 
@@ -318,7 +318,7 @@ Man is by nature a being of [reason](../glossary/logos.md) made for society; vir
 
 *positioned · explicit in the texts · minor*
 
-Theodicy 90% · Free-will defence 10%
+Evil has its reasons 100%
 
 What seems an evil has its place in the providential order or serves as a trial of virtue: nothing befalls a man that he is not, by nature, fitted to bear. A Stoic [theodicy](../axes/problem-of-evil.md), rounded out by charging moral evil to ignorance rather than malice.
 

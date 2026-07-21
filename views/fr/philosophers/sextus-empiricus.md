@@ -92,7 +92,7 @@ Le tourment du désir vient, selon Sextus, de tenir certains objets pour bons ou
 
 *positionné · inférable · mineure*
 
-Intellectualisme 75% · Sentimentalisme 25%
+Primauté de la raison 75% · Le primat du sentiment 25%
 
 Sextus partage avec les stoïciens l'idée que le trouble naît d'un jugement, l'opinion qu'une chose est bonne ou mauvaise par nature, et que retirer ce jugement apaise. C'est un intellectualisme des passions : la thérapeutique passe par la suspension de l'opinion. Mais il s'en écarte sur un point décisif : il ne supprime pas toute affection, reconnaissant que le sceptique souffre encore du froid ou de la soif, affections « forcées » qu'aucune suspension n'abolit. D'où une position nettement intellectualiste mais retenue de l'extrême par cette part d'affect irréductible.
 
@@ -164,7 +164,7 @@ N'ayant aucune vérité au nom de laquelle réformer l'ordre établi, le sceptiq
 
 Localiser le sacré dans l'immanence ou la transcendance suppose une thèse sur la nature du divin, que Sextus suspend précisément (voir GOD_EXISTENCE). Il suit le culte par coutume sans rien décider de la nature de ce qu'il honore.
 
-### [Nature de l'esprit et du réel](../axes/reality-nature.md)
+### [Nature du réel](../axes/reality-nature.md)
 
 *non applicable*
 

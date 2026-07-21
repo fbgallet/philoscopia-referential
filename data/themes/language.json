@@ -1,0 +1,26 @@
+{
+  "id": "language",
+  "label": {
+    "fr": "Le langage",
+    "en": "Language"
+  },
+  "aliases": {
+    "fr": [
+      "langage",
+      "langue",
+      "mots",
+      "parole",
+      "signification"
+    ],
+    "en": [
+      "language",
+      "words",
+      "speech",
+      "signification"
+    ]
+  },
+  "axes": [
+    "MEANING",
+    "UNIVERSALS"
+  ]
+}

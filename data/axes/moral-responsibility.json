@@ -1,0 +1,300 @@
+{
+  "id": "MORAL_RESPONSIBILITY",
+  "relation": "OTHERS",
+  "territory": "MORALS",
+  "label": {
+    "fr": "La responsabilité morale",
+    "en": "Moral responsibility"
+  },
+  "question": {
+    "fr": "Faut-il attribuer des torts ou des mérites ?",
+    "en": "Should we assign blame and credit?"
+  },
+  "stakes": {
+    "fr": "Féliciter un enfant, en vouloir à un ami, être fier d'une réussite, s'en vouloir d'une faute : nous passons nos journées à attribuer des torts et des mérites. Mais ce que chacun est, talents comme penchants, s'est largement fait sans lui, et l'on peut admirer une compétence en sachant que son acquisition n'a rien dû à la volonté. Savoir si nos actes sont déterminés est une question voisine, qui a son propre axe ; ici se décide une attitude : prendre le mérite et la faute au sérieux, les garder comme des outils, ou s'en déprendre. Se positionner, c'est dire ce que nous nous devons les uns aux autres en fait d'éloge, de reproche et de pardon, et ce que deviendraient nos liens si l'on cessait de tenir des comptes.",
+    "en": "Praising a child, resenting a friend, taking pride in a success, blaming ourselves for a fault: we spend our days assigning blame and credit. Yet what each of us is, talents as much as leanings, was largely made without us, and one can admire a skill while knowing its acquisition owed nothing to the will. Whether our acts are determined is a neighbouring question, with its own axis; what is decided here is an attitude: to take merit and fault seriously, to keep them as tools, or to let go of them. To take a position is to say what we owe one another in praise, reproach, and forgiveness, and what would become of our bonds if we stopped keeping accounts."
+  },
+  "layer": "VALUE",
+  "type": "CATEGORICAL_ORDERED",
+  "poles": [
+    {
+      "id": "DESERT",
+      "label": {
+        "fr": "Rendre à chacun son dû",
+        "en": "Giving each their due"
+      },
+      "description": {
+        "fr": "Il faut attribuer torts et mérites, car ils sont réels : quand l'acte est volontaire, fait en connaissance de cause et sans contrainte, l'éloge et le blâme sont dus, non simplement utiles. Refuser de les attribuer, ce serait ne plus voir des actions mais des événements, et ne plus traiter personne en auteur de sa vie.",
+        "en": "Blame and merit should be assigned, for they are real: when an act is voluntary, done knowingly and without constraint, praise and blame are owed, not merely useful. To refuse to assign them would be to see no longer actions but events, and to treat no one as the author of their life."
+      },
+      "nuances": [
+        {
+          "fr": "Deux justifications se partagent le pôle : le mérite est réel, fondé dans la liberté (Kant), ou la pratique d'attribution se suffit, tissée dans nos attitudes réactives sans besoin de métaphysique (P.F. Strawson). La querelle se joue dans les problèmes de l'axe.",
+          "en": "Two justifications share the pole: merit is real, grounded in freedom (Kant), or the practice of assigning it stands on its own, woven into our reactive attitudes with no need of metaphysics (P.F. Strawson). The quarrel plays out in the axis's problems."
+        }
+      ],
+      "figures": [
+        {
+          "slug": "aristotle",
+          "name": {
+            "fr": "Aristote",
+            "en": "Aristotle"
+          }
+        },
+        {
+          "slug": "kant",
+          "name": {
+            "fr": "Kant",
+            "en": "Kant"
+          }
+        }
+      ]
+    },
+    {
+      "id": "INSTRUMENTAL",
+      "label": {
+        "fr": "Corriger, non châtier",
+        "en": "Correct, not retaliate"
+      },
+      "description": {
+        "fr": "Il faut continuer de répondre aux actes, blâmer, sanctionner, féliciter, non parce que c'est mérité au fond, mais parce que c'est efficace : comprendre n'empêche pas d'agir. On renonce au ressentiment, pas à la réponse ; la question n'est plus « le mérite-t-il ? » mais « qu'est-ce qui rendra les choses meilleures ? ».",
+        "en": "We should keep responding to acts, blaming, sanctioning, praising, not because it is deserved at bottom, but because it works: understanding does not rule out acting. We give up resentment, not response; the question is no longer \"is it deserved?\" but \"what will make things better?\"."
+      },
+      "nuances": [
+        {
+          "fr": "Versions contemporaines : la sanction comme quarantaine (Pereboom, protéger sans mérite) ou comme éducation des conduites (Schlick). Spinoza en donne la forme classique : comprendre les causes dissout le ressentiment, non la fermeté de la cité.",
+          "en": "Contemporary versions: sanction as quarantine (Pereboom, protecting without desert) or as the shaping of conduct (Schlick). Spinoza gives the classic form: understanding causes dissolves resentment, not the firmness of the city."
+        }
+      ],
+      "figures": [
+        {
+          "slug": "spinoza",
+          "name": {
+            "fr": "Spinoza",
+            "en": "Spinoza"
+          }
+        }
+      ]
+    },
+    {
+      "id": "NO_IMPUTATION",
+      "label": {
+        "fr": "Ne plus tenir de comptes",
+        "en": "Keeping no accounts"
+      },
+      "description": {
+        "fr": "Il faut se déprendre de l'attribution même : nul n'est l'auteur ultime de ce qu'il est, et nos actes sortent de nous comme les fruits de l'arbre. À la place du reproche et de la fierté viennent d'autres réponses : comprendre, plaindre, se réjouir ou rire, comme on répond à la beauté d'un geste ou à la tristesse d'un naufrage, sans chercher de coupable. Ce n'est pas l'indifférence : c'est la fin du tribunal, non la fin des affects.",
+        "en": "We should let go of assignment itself: no one is the ultimate author of what they are, and our acts issue from us as fruit from a tree. In place of reproach and pride come other responses: to understand, to pity, to rejoice or to laugh, as one responds to the beauty of a gesture or the sorrow of a shipwreck, without seeking a culprit. This is not indifference: it is the end of the tribunal, not the end of feeling."
+      },
+      "nuances": [
+        {
+          "fr": "Galen Strawson en donne la forme logique : pour être responsable de ses actes, il faudrait être responsable de ce qu'on est, et ainsi à l'infini.",
+          "en": "Galen Strawson gives the logical form: to be responsible for one's acts, one would have to be responsible for what one is, and so on to infinity."
+        },
+        {
+          "fr": "Les affects de remplacement varient : compassion pour l'ignorant ou l'abîmé (déjà chez Socrate, nul n'est méchant volontairement), chagrin sans ressentiment (Pereboom), gaieté nietzschéenne devant l'innocence du devenir.",
+          "en": "The feelings that replace them vary: compassion for the ignorant or the damaged (already in Socrates, no one is wicked willingly), sorrow without resentment (Pereboom), Nietzschean gaiety before the innocence of becoming."
+        }
+      ],
+      "figures": [
+        {
+          "slug": "nietzsche",
+          "name": {
+            "fr": "Nietzsche",
+            "en": "Nietzsche"
+          }
+        }
+      ]
+    }
+  ],
+  "core": false,
+  "difficulty": 3,
+  "clusters": [],
+  "relatedAxes": [
+    "FREEDOM",
+    "PUNISHMENT",
+    "ETHICS_FOUNDATION",
+    "FORGIVENESS",
+    "DISTRIBUTIVE_JUSTICE",
+    "HUMAN_NATURE"
+  ],
+  "problems": [
+    {
+      "id": "lottery-of-merit",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "la part de chance dans le mérite",
+        "en": "the part of luck in merit"
+      },
+      "mode": "DESCRIPTIVE",
+      "keywords": [
+        { "fr": "chance morale", "en": "moral luck" },
+        { "fr": "chauffard", "en": "reckless driver" },
+        { "fr": "talents non choisis", "en": "unchosen talents" }
+      ],
+      "poles": ["DESERT", "INSTRUMENTAL", "NO_IMPUTATION"],
+      "anchors": [
+        { "name": { "fr": "Nagel", "en": "Nagel" }, "kind": "PHILOSOPHER", "slug": "nagel" },
+        { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" }
+      ],
+      "doorways": [
+        { "axis": "FREEDOM" },
+        { "axis": "DISTRIBUTIVE_JUSTICE", "problem": "desert-and-lottery" }
+      ],
+      "title": {
+        "fr": "La loterie du mérite",
+        "en": "The lottery of merit"
+      },
+      "explicitation": {
+        "fr": "Deux chauffards identiques, un enfant traverse devant un seul : le hasard fait l'un meurtrier et l'autre chanceux. Et ce que nous louons, talents, caractère, n'a pas été choisi davantage : si la chance imprègne tout, que reste-t-il du mérite propre ?",
+        "en": "Two identical reckless drivers, a child crosses in front of only one: chance makes one a killer and the other lucky. And what we praise, talents, character, was no more chosen: if luck pervades everything, what remains of merit properly one's own?"
+      }
+    },
+    {
+      "id": "responsible-for-ones-character",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "la disposition acquise",
+        "en": "the acquired disposition"
+      },
+      "mode": "DESCRIPTIVE",
+      "keywords": [
+        { "fr": "ivresse", "en": "drunkenness" },
+        { "fr": "responsabilité du caractère", "en": "responsibility for character" },
+        { "fr": "régression à l'infini", "en": "infinite regress" }
+      ],
+      "poles": ["DESERT", "NO_IMPUTATION"],
+      "anchors": [
+        { "name": { "fr": "Aristote", "en": "Aristotle" }, "kind": "PHILOSOPHER", "slug": "aristotle" },
+        { "name": { "fr": "Galen Strawson", "en": "Galen Strawson" }, "kind": "PHILOSOPHER", "slug": "galen-strawson" }
+      ],
+      "title": {
+        "fr": "Responsable de son caractère ?",
+        "en": "Responsible for one's character?"
+      },
+      "explicitation": {
+        "fr": "L'homme ivre ne se contrôle plus, mais il s'est rendu tel, verre après verre : pour Aristote, on impute la disposition qu'on a laissée croître. Mais pour être comptable de son caractère, ne faudrait-il pas l'avoir choisi, et ainsi à l'infini ?",
+        "en": "The drunk man no longer controls himself, but he made himself so, glass after glass: for Aristotle, we impute the disposition one has let grow. Yet to be accountable for one's character, would one not have to have chosen it, and so on to infinity?"
+      }
+    },
+    {
+      "id": "does-determinism-excuse",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "l'excuse universelle",
+        "en": "the universal excuse"
+      },
+      "mode": "DESCRIPTIVE",
+      "keywords": [
+        { "fr": "excuse", "en": "excuse" },
+        { "fr": "causes de l'acte", "en": "causes of the act" },
+        { "fr": "comprendre et excuser", "en": "understanding and excusing" }
+      ],
+      "poles": ["DESERT", "INSTRUMENTAL", "NO_IMPUTATION"],
+      "anchors": [
+        { "name": { "fr": "Spinoza", "en": "Spinoza" }, "kind": "PHILOSOPHER", "slug": "spinoza" },
+        { "name": { "fr": "P.F. Strawson", "en": "P.F. Strawson" }, "kind": "PHILOSOPHER", "slug": "peter-strawson" }
+      ],
+      "doorways": [{ "axis": "FREEDOM", "problem": "could-have-done-otherwise" }],
+      "title": {
+        "fr": "Tout comprendre, est-ce tout excuser ?",
+        "en": "Does understanding all excuse all?"
+      },
+      "explicitation": {
+        "fr": "Si chaque acte a ses causes, l'excuse valable pour l'un, la tumeur, la contrainte, devrait valoir pour tous, et plus personne ne serait blâmable. À moins que l'excuse ne distingue précisément entre des causes, et que comprendre ne soit pas excuser.",
+        "en": "If every act has its causes, the excuse valid for one, the tumour, the constraint, should hold for all, and no one would be to blame. Unless the excuse precisely distinguishes between causes, and understanding is not excusing."
+      }
+    },
+    {
+      "id": "giving-up-resentment",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "le ressentiment",
+        "en": "resentment"
+      },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "MORAL",
+      "keywords": [
+        { "fr": "attitudes réactives", "en": "reactive attitudes" },
+        { "fr": "ressentiment", "en": "resentment" },
+        { "fr": "gratitude", "en": "gratitude" }
+      ],
+      "poles": ["INSTRUMENTAL", "NO_IMPUTATION"],
+      "anchors": [
+        { "name": { "fr": "P.F. Strawson", "en": "P.F. Strawson" }, "kind": "PHILOSOPHER", "slug": "peter-strawson" },
+        { "name": { "fr": "Spinoza", "en": "Spinoza" }, "kind": "PHILOSOPHER", "slug": "spinoza" }
+      ],
+      "doorways": [{ "axis": "FORGIVENESS" }],
+      "title": {
+        "fr": "Peut-on renoncer au ressentiment ?",
+        "en": "Can we give up resentment?"
+      },
+      "explicitation": {
+        "fr": "Un monde guéri du ressentiment serait-il plus doux ou moins humain ? Renoncer à en vouloir, est-ce une sagesse accessible, ou la fin des relations de personne à personne ?",
+        "en": "Would a world cured of resentment be gentler or less human? To give up holding things against people, is that an attainable wisdom, or the end of person-to-person relations?"
+      }
+    },
+    {
+      "id": "from-blame-to-punishment",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "la peine méritée",
+        "en": "deserved punishment"
+      },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "POLITICAL",
+      "keywords": [
+        { "fr": "rétribution", "en": "retribution" },
+        { "fr": "dette", "en": "debt" },
+        { "fr": "protéger et dissuader", "en": "protect and deter" }
+      ],
+      "poles": ["DESERT", "INSTRUMENTAL"],
+      "anchors": [
+        { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" },
+        { "name": { "fr": "Bentham", "en": "Bentham" }, "kind": "PHILOSOPHER", "slug": "bentham" }
+      ],
+      "doorways": [{ "axis": "PUNISHMENT", "problem": "deserving-ones-punishment" }],
+      "title": {
+        "fr": "Du blâme à la peine",
+        "en": "From blame to punishment"
+      },
+      "explicitation": {
+        "fr": "Si nul ne mérite au fond, la rétribution s'effondre, mais faut-il la pleurer ? Protéger, dissuader et réparer suffisent peut-être à fonder la peine, sans jamais parler de dette.",
+        "en": "If no one deserves at bottom, retribution collapses, but is it to be mourned? Protecting, deterring, and repairing may suffice to ground punishment, without ever speaking of a debt."
+      }
+    },
+    {
+      "id": "desert-or-practice",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "le fondement de l'attribution",
+        "en": "the ground of assignment"
+      },
+      "mode": "DESCRIPTIVE",
+      "keywords": [
+        { "fr": "attitudes réactives", "en": "reactive attitudes" },
+        { "fr": "mérite fondé", "en": "grounded desert" },
+        { "fr": "pratique nécessaire", "en": "necessary practice" }
+      ],
+      "poles": ["DESERT"],
+      "anchors": [
+        { "name": { "fr": "Kant", "en": "Kant" }, "kind": "PHILOSOPHER", "slug": "kant" },
+        { "name": { "fr": "P.F. Strawson", "en": "P.F. Strawson" }, "kind": "PHILOSOPHER", "slug": "peter-strawson" }
+      ],
+      "title": {
+        "fr": "Mérite réel ou pratique nécessaire ?",
+        "en": "Real merit or necessary practice?"
+      },
+      "explicitation": {
+        "fr": "Attribuer des torts suppose-t-il un mérite fondé en métaphysique, ou la pratique se porte-t-elle elle-même, aucune découverte sur le déterminisme ne pouvant nous faire traiter les personnes en objets ?",
+        "en": "Does assigning blame presuppose a merit grounded in metaphysics, or does the practice carry itself, no discovery about determinism able to make us treat persons as objects?"
+      }
+    }
+  ]
+}

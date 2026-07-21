@@ -10,7 +10,7 @@ Vivre pour l'instant savoure la vie mais peut perdre le cap ; vivre pour l'aveni
 
 ## Pôles
 
-### Présentisme
+### Vivre au présent
 
 Seul le présent nous appartient : carpe diem, cueille le jour. Plutôt que de se perdre dans les regrets ou les attentes, la sagesse consiste à habiter pleinement l'instant et à goûter ce qui est là.
 
@@ -39,9 +39,9 @@ Nous sommes des héritiers : ce que nous avons reçu du passé nous constitue et
 
 ## Arguments
 
-- *Présentisme* · pour : [Le seul temps qui soit nôtre](../arguments/present-only-time-ours.md)
-- *Présentisme* · contre : [Une vie n'est pas un tas d'instants](../arguments/present-narrative-identity.md)
-- *Présentisme* · contre : [L'instant qui glisse](../arguments/present-shallow-flight.md)
+- *Vivre au présent* · pour : [Le seul temps qui soit nôtre](../arguments/present-only-time-ours.md)
+- *Vivre au présent* · contre : [Une vie n'est pas un tas d'instants](../arguments/present-narrative-identity.md)
+- *Vivre au présent* · contre : [L'instant qui glisse](../arguments/present-shallow-flight.md)
 - *Projet* · pour : [Exister, c'est se projeter](../arguments/project-exist-is-to-project.md)
 - *Projet* · contre : [On remet toujours de vivre](../arguments/project-deferred-life.md)
 - *Projet* · contre : [L'avenir n'est pas à vous](../arguments/project-future-not-ours.md)
@@ -51,7 +51,7 @@ Nous sommes des héritiers : ce que nous avons reçu du passé nous constitue et
 
 ## Relations de fondation
 
-- *[Nature du moi](../axes/self-nature.md) : Faisceau* fonde *[Orientation temporelle](../axes/time-orientation.md) : Présentisme* : S'il n'y a pas de moi permanent mais une succession d'états, alors ni le passé ni l'avenir d'un « je » stable n'ont de prise réelle : seul l'instant présent est habité. Le faisceau fonde le présentisme : à la suite de [Hume](../philosophers/hume.md), se déprendre d'un moi substantiel invite à cueillir le jour plutôt qu'à se projeter ou à regretter.
+- *[Nature du moi](../axes/self-nature.md) : Faisceau* fonde *[Orientation temporelle](../axes/time-orientation.md) : Vivre au présent* : S'il n'y a pas de moi permanent mais une succession d'états, alors ni le passé ni l'avenir d'un « je » stable n'ont de prise réelle : seul l'instant présent est habité. Le faisceau fonde le présentisme : à la suite de [Hume](../philosophers/hume.md), se déprendre d'un moi substantiel invite à cueillir le jour plutôt qu'à se projeter ou à regretter.
 - *[Essence et existence](../axes/essence.md) : Existentialisme* fonde *[Orientation temporelle](../axes/time-orientation.md) : Projet* : Si l'existence précède l'essence, l'homme n'est pas une chose donnée mais ce qu'il se fait en se projetant vers l'avenir. L'existentialisme fonde l'orientation vers le projet : pour [Sartre](../philosophers/sartre.md), je suis mes actes et mes engagements à venir, et me réduire à l'instant présent serait renoncer à moi-même.
 - *[Origine du lien social](../axes/social-contract.md) : Communauté organique* fonde *[Orientation temporelle](../axes/time-orientation.md) : Mémoire-transmission* : Si la communauté est un héritage vivant qui me précède et me constitue, alors bien vivre, c'est recevoir ce legs et le transmettre à mon tour. La conception organique du lien social fonde l'orientation vers la mémoire et la transmission : de [Burke](../philosophers/burke.md) à [Confucius](../philosophers/confucius.md), honorer ses dettes envers le passé et léguer aux générations futures donne à la vie sa profondeur.
 

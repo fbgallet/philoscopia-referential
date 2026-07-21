@@ -1,0 +1,26 @@
+{
+  "id": "il-vaut-mieux-etre-socrate-insatisfait-mill",
+  "text": {
+    "fr": "Il vaut mieux être un être humain insatisfait qu'un porc satisfait ; il vaut mieux être Socrate insatisfait qu'un imbécile satisfait.",
+    "en": "It is better to be a human being dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied."
+  },
+  "author": {
+    "name": {
+      "fr": "Mill",
+      "en": "Mill"
+    },
+    "kind": "PHILOSOPHER",
+    "slug": "mill"
+  },
+  "source": {
+    "fr": "L'Utilitarisme, ch. 2",
+    "en": "Utilitarianism, ch. 2"
+  },
+  "anchors": [
+    {
+      "axisId": "TRUTH_VALUE",
+      "poleId": "PRIMACY_OF_TRUTH"
+    }
+  ],
+  "updatedAt": "2026-07-19T00:00:00.000Z"
+}

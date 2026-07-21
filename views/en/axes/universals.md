@@ -39,7 +39,7 @@ Genera and species exist neither as realities in themselves nor as mere words. T
 
 ## Related axes
 
-[Essence and existence](../axes/essence.md) · [Nature of mind and reality](../axes/reality-nature.md) · [Being and becoming](../axes/being-becoming.md)
+[Essence and existence](../axes/essence.md) · [Nature of reality](../axes/reality-nature.md) · [Being and becoming](../axes/being-becoming.md)
 
 ---
 

@@ -11,7 +11,7 @@ Tradition issue de l'Académie, l'école que [Platon](../philosophers/plato.md) 
 ## Positions structurantes
 
 1. [Les universaux](../axes/universals.md) : **Le Beau, le Juste, le Cercle existent en eux-mêmes, séparés des choses qui les imitent : ces [Idées](../glossary/theory-of-forms.md) sont plus réelles que le sensible, non de simples noms ni des formes immanentes.**
-2. [Nature de l'esprit et du réel](../axes/reality-nature.md) : **Le monde sensible n'est que l'ombre du monde intelligible : ce que nous prenons pour le réel n'est qu'un jeu de copies, et le philosophe seul sort de la caverne vers la lumière des Idées.**
+2. [Nature du réel](../axes/reality-nature.md) : **Le monde sensible n'est que l'ombre du monde intelligible : ce que nous prenons pour le réel n'est qu'un jeu de copies, et le philosophe seul sort de la caverne vers la lumière des Idées.**
 3. [Source de la connaissance](../axes/knowledge-source.md) : **Connaître, ce n'est pas recueillir des sensations mais se ressouvenir : l'âme, par la [réminiscence](../glossary/anamnesis.md), retrouve en elle les Idées qu'elle a contemplées avant la naissance.**
 4. [Où réside le sacré](../axes/transcendence.md) : **Le principe suprême, le Bien puis l'Un, se tient [au-delà de l'être et de l'essence](../glossary/transcendence.md) : source de toute réalité, il n'est lui-même aucune des choses dont il est la cause.**
 5. [Être ou avoir un corps](../axes/embodiment.md) : **L'âme immortelle, apparentée aux Idées, est le moi véritable ; le corps n'est qu'un tombeau dont il faut se délier pour contempler le vrai.**
@@ -48,7 +48,7 @@ Le primat de l'essence découle de la séparation des Idées : si la Forme exist
 
 *Sources : Platon, République, livres VI-VII · Platon, Phédon, 100b-102a*
 
-### [Nature de l'esprit et du réel](../axes/reality-nature.md)
+### [Nature du réel](../axes/reality-nature.md)
 
 *positionné · explicite dans les textes · majeure*
 
@@ -128,7 +128,7 @@ L'éros platonicien est désir né d'un manque : enfant de Poros et de Penia, il
 
 *positionné · explicite dans les textes · mineure*
 
-Immortalisme 100%
+Se préparer au passage 100%
 
 Le platonisme affirme l'immortalité de l'âme, démontrée dans le *[Phédon](../works/phaedo-plato.md)* par sa parenté avec les Idées et son caractère simple et indissoluble. La mort n'est que la séparation de l'âme et du corps, et le philosophe s'y exerce sa vie durant.
 
@@ -178,7 +178,7 @@ Contre le relativisme des sophistes, pour qui l'homme est la mesure de toutes ch
 
 *positionné · explicite dans les textes · mineure*
 
-Intellectualisme 88% · Sentimentalisme 13%
+Primauté de la raison 88% · Le primat du sentiment 13%
 
 Le platonisme est intellectualiste (doctrine qui subordonne les passions à la raison et fait du savoir la condition du bien agir) : dans l'image du char ailé, figure de l'[âme tripartite](../glossary/tripartite-soul.md), la raison est le cocher qui doit conduire et maîtriser les deux chevaux, l'ardeur et l'appétit. Les passions ne sont pas mauvaises en elles-mêmes, mais elles n'ont de valeur que disciplinées et soumises au gouvernement de la raison.
 
@@ -264,7 +264,7 @@ L'argument de la parenté tire la conclusion de la métaphysique des Idées : ce
 
 *Sources : Platon, Phédon*
 
-### [Nature de la conscience](../axes/consciousness-nature.md)
+### [L'énigme de la conscience](../axes/consciousness-nature.md)
 
 *positionné · explicite dans les textes · majeure*
 

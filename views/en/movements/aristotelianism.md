@@ -32,7 +32,7 @@ Aristotelianism holds pain and misfortune to be genuine evils, against Stoic ind
 
 *positioned · inferable · minor*
 
-Death is nothing 45% · Revolt / refusal 25% · Immortalism 20% · Being-toward-death 10%
+Freeing ourselves from the fear 45% · Refusing death 25% · Preparing for the passage 20% · Living in view of one's death 10%
 
 Aristotelianism holds death to be the natural end of the compound of soul and body: a real evil, which deprives of all goods, but to be faced with courage rather than fled or denied. Except for the intellect, whose eternity remains impersonal, nothing of the person survives: a lucid finitude, which grants death its gravity without making of it either a nothing or a passage.
 
@@ -202,7 +202,7 @@ Desire is neither to be affirmed without restraint nor extinguished, but ordered
 
 *positioned · inferable · minor*
 
-Intellectualism 60% · Sentimentalism 40%
+The primacy of reason 60% · The primacy of feeling 40%
 
 Against Socratic intellectualism, Aristotelianism grants the passions a properly ethical role: to feel fear, anger or pity when one ought, toward whom one ought and as one ought is itself virtue. Well-trained emotions carry a cognitive dimension and accompany sound judgement, without grounding it on their own: the position is moderate, leaning slightly toward judgement.
 

@@ -1,0 +1,29 @@
+{
+  "id": "self",
+  "label": {
+    "fr": "Le moi",
+    "en": "The self"
+  },
+  "aliases": {
+    "fr": [
+      "moi",
+      "identité",
+      "identité personnelle",
+      "qui suis-je"
+    ],
+    "en": [
+      "self",
+      "identity",
+      "personal identity",
+      "who am i"
+    ]
+  },
+  "featured": true,
+  "axes": [
+    "SELF_NATURE",
+    "ESSENCE",
+    "SOCIAL_IDENTITY",
+    "EMBODIMENT",
+    "INTERIORITY"
+  ]
+}

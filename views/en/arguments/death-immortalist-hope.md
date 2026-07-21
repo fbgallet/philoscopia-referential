@@ -2,7 +2,7 @@
 
 # The argument from the soul
 
-*Argument for [Death](../axes/death.md) : Immortalism*
+*Argument for [After death](../axes/afterlife.md) : The immortal soul*
 
 **What thinks in us is not a mere body, and may outlast it.**
 
@@ -27,7 +27,7 @@
 
 **Challenged by** : [The flight objection](../arguments/death-flight-from-finitude.md) · [The identity objection](../arguments/death-identity-objection.md)
 
-**Bears on the problems** : [Does anything survive?](../axes/death.md)
+**Bears on the problems** : [Thinking without a brain?](../axes/afterlife.md)
 
 ---
 

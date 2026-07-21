@@ -106,7 +106,7 @@ Parce que l'existence précède l'essence, le sens ne saurait préexister à l'e
 
 *positionné · explicite dans les textes · majeure*
 
-Projet 80% · Présentisme 10% · Mémoire-transmission 10%
+Projet 80% · Vivre au présent 10% · Mémoire-transmission 10%
 
 Un être sans essence ne peut se définir par ce qu'il est déjà, mais seulement par ce vers quoi il se porte : l'existence est projet, élan vers un avenir qu'elle a à être. [Heidegger](../philosophers/heidegger.md) nomme cette structure le devancement, et [Sartre](../philosophers/sartre.md) la reprend : c'est l'avenir visé qui éclaire rétrospectivement le passé et lui confère son sens, non l'inverse. Le primat du futur distingue ainsi le courant des sagesses du présent comme le [stoïcisme](../movements/stoicism.md) ou l'[épicurisme](../movements/epicureanism.md), pour qui bien vivre, c'est recueillir l'instant : ici, vivre, c'est se projeter et ne jamais coïncider avec soi.
 
@@ -116,7 +116,7 @@ Un être sans essence ne peut se définir par ce qu'il est déjà, mais seulemen
 
 *positionné · explicite dans les textes · mineure*
 
-Être-pour-la-mort 80% · La mort n'est rien 15% · Révolte / refus 5%
+Vivre en vue de sa mort 80% · Se libérer de la crainte 15% · Refuser la mort 5%
 
 Dans la tradition existentielle, la finitude n'est pas un accident extérieur mais ce qui individualise l'existence : pour Heidegger, le Dasein (l'être-là) est être-pour-la-mort, et l'anticipation résolue de sa mort propre arrache à l'inauthenticité, contraire de l'[authenticité](../glossary/authenticity.md). [Sartre](../philosophers/sartre.md) nuance cette thèse, mais le courant refuse unanimement l'immortalité consolatrice.
 
@@ -166,7 +166,7 @@ Le corollaire direct de la thèse de l'existence sans essence préalable est le 
 
 *positionné · inférable · mineure*
 
-Sentimentalisme 75% · Intellectualisme 25%
+Le primat du sentiment 75% · Primauté de la raison 25%
 
 Les affects ne sont pas de simples troubles à maîtriser par la raison : l'angoisse, la nausée ou le désespoir sont des tonalités révélatrices qui dévoilent la condition humaine, sa liberté et sa contingence. L'angoisse kierkegaardienne devant le possible et l'angoisse sartrienne devant la liberté donnent accès à une vérité que l'analyse intellectuelle seule manquerait.
 

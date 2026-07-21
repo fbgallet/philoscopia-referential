@@ -123,7 +123,7 @@ The same thing appears differently according to the animal perceiving it, the se
 
 The Pyrrhonian skeptic suspends judgment on the existence and nature of the gods, a dogmatic question par excellence: he affirms neither theism nor atheism. Sextus lays out the arguments for and against the divine and concludes to equipollence, hence to [epochē](../glossary/epoche.md); in ordinary life he conforms, without belief, to the religious customs of his city.
 
-### [Nature of mind and reality](../axes/reality-nature.md)
+### [Nature of reality](../axes/reality-nature.md)
 
 *contextualist*
 
@@ -140,6 +140,12 @@ To adopt a definition of truth (correspondence, coherence, usefulness) would be 
 *contextualist*
 
 The skeptic upholds neither a good and evil universal by nature nor relativism erected into a thesis: he observes that moral customs diverge radically from one people to another (the tenth trope) and concludes that no value can be established as good by nature. He suspends judgment and conforms, without dogmatic adherence, to the laws and customs of his country.
+
+### [The value of truth](../axes/truth-value.md)
+
+*rejects the alternative*
+
+The school chooses neither truth nor illusion: it suspends. [Epochē](../glossary/epoche.md) is not a chosen illusion but the renunciation of settling the matter, and tranquility ([ataraxia](../glossary/ataraxia.md)) follows as the shadow follows the body, without any false belief being embraced: the axis's alternative presupposes a stand on truth which the skeptic precisely declines to grant.
 
 ## Influence on
 

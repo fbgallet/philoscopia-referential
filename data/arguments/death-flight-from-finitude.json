@@ -1,7 +1,7 @@
 {
   "id": "death-flight-from-finitude",
   "kind": "OBJECTS",
-  "position": { "axisId": "DEATH", "poleId": "IMMORTALISM" },
+  "position": { "axisId": "AFTERLIFE", "poleId": "IMMORTAL_SOUL" },
   "name": { "fr": "L'objection de la fuite", "en": "The flight objection" },
   "claim": {
     "fr": "Espérer survivre pourrait n'être qu'un refus d'accepter notre condition.",
@@ -65,7 +65,7 @@
       }
     }
   ],
-  "problems": ["does-something-survive"],
+  "problems": ["believing-what-we-hope"],
   "targets": ["death-immortalist-hope"],
   "updatedAt": "2026-07-12T00:00:00.000Z"
 }

@@ -30,7 +30,7 @@ La phénoménologie tient le sens pour constitué, non trouvé tout fait dans le
 
 *positionné · explicite dans les textes · mineure*
 
-Être-pour-la-mort 85% · La mort n'est rien 10% · Immortalisme 5%
+Vivre en vue de sa mort 85% · Se libérer de la crainte 10% · Se préparer au passage 5%
 
 Avec Heidegger, la phénoménologie fait de la mort une structure de l'existence : le Dasein est être-pour-la-mort, et c'est en anticipant résolument sa fin la plus propre, indépassable et non partageable, qu'il s'arrache au bavardage du « on » et se ressaisit authentiquement. La mort n'est pas un événement lointain mais ce qui, dès maintenant, individualise et donne son poids à l'exister.
 
@@ -92,7 +92,7 @@ Le point d'appui est l'intentionnalité reprise de Brentano : toute conscience e
 
 *positionné · inférable · mineure*
 
-Sentimentalisme 70% · Intellectualisme 30%
+Le primat du sentiment 70% · Primauté de la raison 30%
 
 Contre la réduction des affects à de simples états subjectifs irrationnels, la tradition phénoménologique leur reconnaît une portée cognitive : les tonalités affectives ouvrent un accès propre au monde. Heidegger fait de la disposition affective (Stimmung) un mode fondamental par lequel le Dasein se trouve d'emblée ouvert à son monde, l'angoisse révélant son être même ; Sartre analyse l'émotion comme une manière signifiante d'appréhender le monde, non une simple perturbation. L'affect est ainsi tenu pour révélant, sans pour autant ériger le sentiment en fondement de la morale.
 

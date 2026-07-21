@@ -3,16 +3,16 @@
   "relation": "WORLD",
   "territory": "MIND_CONSCIOUSNESS",
   "label": {
-    "fr": "Nature de l'esprit et du réel",
-    "en": "Nature of mind and reality"
+    "fr": "Nature du réel",
+    "en": "Nature of reality"
   },
   "question": {
     "fr": "De quoi la réalité est-elle faite : de matière, d'esprit, ou des deux ?",
     "en": "What is reality made of: matter, mind, or both?"
   },
   "stakes": {
-    "fr": "Selon ce qu'on tient pour fondamental, nos pensées, notre conscience et le sens même de nos expériences ont un statut très différent : simple résultat de processus physiques, ou réalité qu'on ne peut entièrement y réduire. De là dépend aussi notre place dans le monde, et ce qu'une science du réel peut espérer expliquer.",
-    "en": "Depending on what we take to be fundamental, our thoughts, our consciousness, and the very meaning of our experiences have a very different status: a mere result of physical processes, or a reality that cannot be fully reduced to them. On this too depend our place in the world, and what a science of the real can hope to explain."
+    "fr": "De quoi le monde est-il fait, au fond ? Dire que tout est matière, que tout est esprit, ou que le réel comporte deux ordres irréductibles, c'est fixer l'arrière-plan de tout le reste : ce que sont Dieu, la vie, la pensée, et ce qu'une connaissance du monde peut espérer atteindre. La question est la plus ancienne et la plus abstraite de la métaphysique, mais chaque vision du monde y répond, souvent sans le savoir.",
+    "en": "What, at bottom, is the world made of? To say that everything is matter, that everything is mind, or that reality comprises two irreducible orders is to set the background for everything else: what God, life, and thought are, and what an understanding of the world can hope to achieve. The question is the oldest and most abstract in metaphysics, yet every worldview answers it, often without realizing it."
   },
   "layer": "THEORY",
   "type": "CATEGORICAL",
@@ -53,10 +53,17 @@
         "en": "Idealism"
       },
       "description": {
-        "fr": "La réalité est fondamentalement de nature spirituelle ou mentale : ce que nous appelons le monde n'existe que pour un esprit qui le perçoit ou le pense. La matière, loin d'être première, dépend de l'esprit.",
-        "en": "Reality is fundamentally spiritual or mental in nature: what we call the world exists only for a mind that perceives or thinks it. Matter, far from being primary, depends on mind."
+        "fr": "Le fond du réel n'est pas la matière, mais l'idée : des réalités intelligibles, que seule la pensée peut saisir, font que les choses sont ce qu'elles sont. Selon les versions, le monde sensible participe d'essences qui existent indépendamment de nos esprits, déploie une pensée qui s'y réalise, ou n'existe que pour un esprit qui le perçoit. La matière, loin d'être première, en dépend.",
+        "en": "At bottom, the real is not matter but idea: intelligible realities, which thought alone can grasp, make things what they are. Depending on the version, the sensible world participates in essences that exist independently of our minds, unfolds a thought that realizes itself in it, or exists only for a mind that perceives it. Matter, far from being primary, depends on it."
       },
       "figures": [
+        {
+          "slug": "plato",
+          "name": {
+            "fr": "Platon",
+            "en": "Plato"
+          }
+        },
         {
           "slug": "berkeley",
           "name": {
@@ -81,8 +88,8 @@
         "en": "Dualism"
       },
       "description": {
-        "fr": "Le corps et l'esprit sont deux réalités distinctes : la matière, étendue et mesurable, et la pensée, immatérielle et consciente. Aucune des deux ne se réduit à l'autre, même si elles interagissent en nous.",
-        "en": "Body and mind are two distinct realities: matter, extended and measurable, and thought, immaterial and conscious. Neither can be reduced to the other, even though they interact within us."
+        "fr": "Le réel comporte deux ordres irréductibles : la matière, étendue et mesurable, et l'esprit, immatériel et conscient. Aucun des deux ne se réduit à l'autre, même s'ils se rencontrent en nous, où corps et pensée interagissent.",
+        "en": "Reality comprises two irreducible orders: matter, extended and measurable, and mind, immaterial and conscious. Neither reduces to the other, even though they meet in us, where body and thought interact."
       },
       "figures": [
         {
@@ -90,6 +97,13 @@
           "name": {
             "fr": "Descartes",
             "en": "Descartes"
+          }
+        },
+        {
+          "slug": "popper",
+          "name": {
+            "fr": "Popper",
+            "en": "Popper"
           }
         }
       ]
@@ -108,6 +122,7 @@
     "MACHINE_MIND",
     "REDUCTION_EMERGENCE",
     "CERTAINTY",
-    "BEING_BECOMING"
+    "BEING_BECOMING",
+    "AFTERLIFE"
   ]
 }

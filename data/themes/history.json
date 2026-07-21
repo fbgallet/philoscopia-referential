@@ -1,0 +1,26 @@
+{
+  "id": "history",
+  "label": {
+    "fr": "L'histoire",
+    "en": "History"
+  },
+  "aliases": {
+    "fr": [
+      "histoire",
+      "passé",
+      "mémoire collective",
+      "héritage"
+    ],
+    "en": [
+      "history",
+      "past",
+      "collective memory",
+      "heritage"
+    ]
+  },
+  "axes": [
+    "HISTORY_MEANING",
+    "PAST_RELATION",
+    "CONSERVATISM_PROGRESSISM"
+  ]
+}

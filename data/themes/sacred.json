@@ -1,0 +1,29 @@
+{
+  "id": "sacred",
+  "label": {
+    "fr": "Le sacré",
+    "en": "The sacred"
+  },
+  "aliases": {
+    "fr": [
+      "sacré",
+      "spiritualité",
+      "spirituel",
+      "transcendance",
+      "mystique"
+    ],
+    "en": [
+      "sacred",
+      "spirituality",
+      "spiritual",
+      "transcendence",
+      "mystical"
+    ]
+  },
+  "axes": [
+    "TRANSCENDENCE",
+    "GOD_EXISTENCE",
+    "COSMIC_OUTLOOK",
+    "FAITH_REASON"
+  ]
+}

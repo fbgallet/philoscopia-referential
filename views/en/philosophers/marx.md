@@ -8,7 +8,7 @@ A nineteenth-century German philosopher and economist, trained in the school of 
 
 ## Core positions
 
-1. [Nature of mind and reality](../axes/reality-nature.md) : **It is not ideas that drive history but the way men produce their life: consciousness is determined by social being, not the reverse.**
+1. [Nature of reality](../axes/reality-nature.md) : **It is not ideas that drive history but the way men produce their life: consciousness is determined by social being, not the reverse.**
 2. [Meaning of work](../axes/work-meaning.md) : **Under capitalism, the labour that should fulfil man maims him: dispossessed of the product and of the very act of producing, the worker becomes a stranger to himself.**
 3. [The meaning of history](../axes/history-meaning.md) : **All history is the history of class struggle: the conflict between productive forces and relations of production pushes societies from feudalism to communism.**
 4. [Interiority](../axes/interiority.md) : **The truth of a thought is proved not in contemplation but in [praxis](../glossary/praxis.md): the philosophers have interpreted the world, the point is to change it.**
@@ -160,7 +160,7 @@ Marx calls not for gradual reform but for a revolutionary overturning of the soc
 
 *Sources : Manifesto of the Communist Party, conclusion · Theses on Feuerbach, XI (changing the world)*
 
-### [Nature of mind and reality](../axes/reality-nature.md)
+### [Nature of reality](../axes/reality-nature.md)
 
 *positioned · explicit in the texts · major*
 
@@ -354,7 +354,7 @@ The vices imputed to human nature, selfishness, greed, aggression, are for Marx 
 
 *positioned · inferable · minor*
 
-Project 80% · Presentism 10% · Memory and transmission 10%
+Project 80% · Living in the present 10% · Memory and transmission 10%
 
 Marx's thought is wholly turned toward a future to be built: the capitalist present has meaning only as a moment of transition toward communist society, and the past is analysed only to illuminate that movement: a resolutely project-oriented stance, one that cannot draw its poetry from the past but only from the future.
 
@@ -419,6 +419,16 @@ Capability freedom 60% · Positive liberty 40%
 Formal liberty is worthless without the material conditions to exercise it: true emancipation requires overcoming alienation and the realm of necessity, so that the free development of each becomes the condition for the free development of all. A positive, real freedom, an effective capacity to act.
 
 *Sources : Economic and Philosophic Manuscripts of 1844; Capital, III; The Communist Manifesto*
+
+### [The value of truth](../axes/truth-value.md)
+
+*positioned · explicit in the texts · minor*
+
+The primacy of truth 75% · Vital illusions 25%
+
+Religion is in his eyes an illusory happiness that consoles for a real misery: criticism does not target the belief for its own sake, but the social situation that makes such consolation necessary. Renouncing illusions only makes sense in order to transform the conditions that produce them; lucidity is not valued as a contemplative good, it is a condition of emancipation.
+
+*Sources : Critique of Hegel's Philosophy of Right, Introduction (1844)*
 
 ## Influenced by
 

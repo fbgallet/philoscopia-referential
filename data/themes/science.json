@@ -1,0 +1,29 @@
+{
+  "id": "science",
+  "label": {
+    "fr": "La science",
+    "en": "Science"
+  },
+  "aliases": {
+    "fr": [
+      "science",
+      "scientifique",
+      "preuve",
+      "expérimentation"
+    ],
+    "en": [
+      "science",
+      "scientific",
+      "evidence",
+      "experiment"
+    ]
+  },
+  "featured": true,
+  "axes": [
+    "SCIENCE_PLACE",
+    "SCIENTIFIC_METHOD",
+    "KNOWLEDGE_STATUS",
+    "CAUSALITY",
+    "REDUCTION_EMERGENCE"
+  ]
+}

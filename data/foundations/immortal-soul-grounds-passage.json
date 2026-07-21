@@ -1,0 +1,12 @@
+{
+  "id": "immortal-soul-grounds-passage",
+  "ground": { "axisId": "AFTERLIFE", "poleId": "IMMORTAL_SOUL" },
+  "grounded": { "axisId": "DEATH", "poleId": "PASSAGE" },
+  "kind": "T_V",
+  "strength": "MEDIUM",
+  "explanation": {
+    "fr": "Se préparer à la mort comme à un passage suppose qu'il y ait quelque chose au-delà du seuil : la croyance en une âme qui survit fonde l'attitude de confiance et de préparation, comme chez <ph id='plato'>Platon</ph>, où philosopher, c'est s'exercer à mourir.",
+    "en": "Preparing for death as for a passage supposes there is something beyond the threshold: belief in a soul that survives grounds the attitude of trust and preparation, as in <ph id='plato'>Plato</ph>, where to philosophize is to practice dying."
+  },
+  "updatedAt": "2026-07-20T00:00:00.000Z"
+}

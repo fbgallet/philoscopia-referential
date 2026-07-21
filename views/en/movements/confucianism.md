@@ -48,7 +48,7 @@ Confucianism sets meaning within the Mandate of Heaven, a normative order and Wa
 
 *positioned · explicit in the texts · minor*
 
-Death is nothing 50% · Immortalism 40% · Being-toward-death 10%
+Freeing ourselves from the fear 50% · Preparing for the passage 40% · Living in view of one's death 10%
 
 Confucianism turns away from speculation about the hereafter to shift care onto present life and duties, but surrounds death with rites and perpetuates the cult of ancestors. The dead thus remain present in the memory and piety of the lineage: not an annihilation to be feared, nor truly a survival of the soul, but a continuity through filial piety and transmission.
 
@@ -174,7 +174,7 @@ Since the person exists only as caught within its relations, social order is not
 
 *positioned · explicit in the texts · minor*
 
-Memory and transmission 80% · Presentism 10% · Project 10%
+Memory and transmission 80% · Living in the present 10% · Project 10%
 
 Confucianism orients existence toward transmission: the past of the sage-kings is the model to study, recover, and hand down, and the veneration of ancestors anchors the present in the continuity of the generations. To learn is to revisit the old so as to draw the new from it: memory is the mainspring of moral and political life.
 

@@ -40,7 +40,7 @@ Mill ne fait dépendre le sens d'aucune finalité cosmique, qu'il tient pour ind
 
 *positionné · inférable · mineure*
 
-La mort n'est rien 70% · Immortalisme 20% · Révolte / refus 10%
+Se libérer de la crainte 70% · Se préparer au passage 20% · Refuser la mort 10%
 
 Mill juge l'immortalité de l'âme ni prouvable ni réfutable par la raison : l'expérience plaide plutôt pour la fin de la conscience avec le corps, mais la question reste ouverte. Il concède que l'espérance d'une vie future, sans fondement assuré, peut avoir une valeur pour la conduite, sans qu'on puisse s'y appuyer comme sur un savoir.
 
@@ -322,7 +322,7 @@ La crise de dépression que Mill traverse à vingt ans lui révèle l'insuffisan
 
 *positionné · inférable · mineure*
 
-Sentimentalisme 57% · Intellectualisme 43%
+Le primat du sentiment 57% · Primauté de la raison 43%
 
 Formé par son père dans le culte de l'analyse et du raisonnement, Mill mesure après sa crise que le seul intellect dessèche : il faut aussi cultiver les sentiments et la sensibilité, que la poésie et l'art nourrissent. Sans renier la primauté de la raison dans la connaissance, il fait droit aux émotions comme part irréductible d'une vie bonne, d'où une position quasi centrale.
 
@@ -338,7 +338,7 @@ La question de l'esprit des machines (intelligence artificielle, fonctionnalisme
 
 *positionné · explicite dans les textes · majeure*
 
-Inductivisme 85% · Falsificationnisme 10% · Bayésianisme 5%
+La preuve par l'expérience 85% · La réfutation 10% · Le calcul des probabilités 5%
 
 Le Système de logique codifie l'induction : ce sont les méthodes expérimentales (concordance, différence) qui, à partir de l'observation des régularités, établissent les lois de la nature. La connaissance scientifique se construit du particulier vers le général.
 
@@ -363,6 +363,18 @@ Liberté négative 80% · Liberté positive 10% · Liberté-capabilité 10%
 Le principe de De la liberté est négatif : le seul motif légitime de contraindre un individu est d'empêcher qu'il ne nuise à autrui. Sur lui-même, sur son corps et son esprit, chacun est souverain. La liberté se mesure à l'espace soustrait à l'interférence.
 
 *Sources : De la liberté, ch. I*
+
+### [Valeur de la vérité](../axes/truth-value.md)
+
+*positionné · inférable · mineure*
+
+Primauté de la vérité 70% · Illusions vitales 30%
+
+Le refus d'échanger les facultés supérieures contre une satisfaction plus facile suggère que le bonheur humain inclut une exigence de dignité et de développement, même au prix de l'insatisfaction ; la préférence pour la lucidité s'en déduit plus qu'elle ne s'y affirme.
+
+> « Il vaut mieux être un être humain insatisfait qu'un porc satisfait ; il vaut mieux être Socrate insatisfait qu'un imbécile satisfait. », L'Utilitarisme, ch. 2
+
+*Sources : L'Utilitarisme, ch. 2 (1861)*
 
 ## Influencé par
 

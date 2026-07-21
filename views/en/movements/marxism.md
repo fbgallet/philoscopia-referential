@@ -10,7 +10,7 @@ A tradition founded by [Karl Marx](../philosophers/marx.md) and Friedrich Engels
 
 ## Core positions
 
-1. [Nature of mind and reality](../axes/reality-nature.md) : **It is not consciousness that determines life, but life that determines consciousness: ideas, law and religion are only reflections of the material base.**
+1. [Nature of reality](../axes/reality-nature.md) : **It is not consciousness that determines life, but life that determines consciousness: ideas, law and religion are only reflections of the material base.**
 2. [The meaning of history](../axes/history-meaning.md) : **The history of all society is the history of class struggle: its modes of production succeed one another through the contradiction between productive forces and social relations, all the way to the classless society.**
 3. [Distributive justice](../axes/distributive-justice.md) : **Profit arises from the surplus value extracted from unpaid labor: exploitation is not an abuse but the normal law of capital, which only the abolition of private ownership of the means of production can lift.**
 4. [Meaning of work](../axes/work-meaning.md) : **Labor ought to realize the human being; under capital it cripples him: the worker is alienated from his product, his activity, his species-being and from others.**
@@ -100,7 +100,7 @@ The mainspring of historical change is located in a material contradiction: at a
 
 *Sources : Marx, A Contribution to the Critique of Political Economy, preface (1859) · Marx and Engels, The Communist Manifesto (1848)*
 
-### [Nature of mind and reality](../axes/reality-nature.md)
+### [Nature of reality](../axes/reality-nature.md)
 
 *positioned · explicit in the texts · major*
 

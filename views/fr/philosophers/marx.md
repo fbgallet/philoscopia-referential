@@ -8,7 +8,7 @@ Philosophe et économiste allemand du XIXe siècle, formé à l'école de [Hegel
 
 ## Positions structurantes
 
-1. [Nature de l'esprit et du réel](../axes/reality-nature.md) : **Ce ne sont pas les idées qui font l'histoire, mais la manière dont les hommes produisent leur vie : la conscience est déterminée par l'être social, non l'inverse.**
+1. [Nature du réel](../axes/reality-nature.md) : **Ce ne sont pas les idées qui font l'histoire, mais la manière dont les hommes produisent leur vie : la conscience est déterminée par l'être social, non l'inverse.**
 2. [Sens du travail](../axes/work-meaning.md) : **Sous le capitalisme, le travail qui devrait accomplir l'homme le mutile : dépossédé du produit et de l'acte même de produire, l'ouvrier devient étranger à lui-même.**
 3. [Sens de l'histoire](../axes/history-meaning.md) : **Toute l'histoire est l'histoire de la lutte des classes : le conflit entre forces productives et rapports de production pousse les sociétés du féodalisme au communisme.**
 4. [Intériorité](../axes/interiority.md) : **La vérité d'une pensée ne se prouve pas dans la contemplation mais dans la [praxis](../glossary/praxis.md) : les philosophes ont interprété le monde, il s'agit de le transformer.**
@@ -160,7 +160,7 @@ Marx ne réclame pas une réforme graduelle mais un renversement révolutionnair
 
 *Sources : Manifeste du Parti communiste, conclusion · Thèses sur Feuerbach, XI (transformer le monde)*
 
-### [Nature de l'esprit et du réel](../axes/reality-nature.md)
+### [Nature du réel](../axes/reality-nature.md)
 
 *positionné · explicite dans les textes · majeure*
 
@@ -354,7 +354,7 @@ Les vices imputés à la nature humaine, égoisme, cupidité, agressivité, sont
 
 *positionné · inférable · mineure*
 
-Projet 80% · Présentisme 10% · Mémoire-transmission 10%
+Projet 80% · Vivre au présent 10% · Mémoire-transmission 10%
 
 La pensée de Marx est tout entière tournée vers un avenir à construire : le présent capitaliste n'a de sens que comme moment d'une transition vers la société communiste, et le passé n'est analysé que pour éclairer ce mouvement : une orientation résolument projective, qui ne peut tirer sa poésie du passé mais seulement de l'avenir.
 
@@ -419,6 +419,16 @@ Liberté-capabilité 60% · Liberté positive 40%
 La liberté formelle ne vaut rien sans les conditions matérielles de l'exercer : la véritable émancipation suppose de dépasser l'aliénation et le règne de la nécessité, pour que le libre développement de chacun soit la condition du libre développement de tous. Une liberté positive et réelle, capacité effective d'agir.
 
 *Sources : Manuscrits de 1844 ; Le Capital, III ; Manifeste*
+
+### [Valeur de la vérité](../axes/truth-value.md)
+
+*positionné · explicite dans les textes · mineure*
+
+Primauté de la vérité 75% · Illusions vitales 25%
+
+La religion est à ses yeux un bonheur illusoire qui console d'une misère réelle : la critique ne vise pas la croyance pour elle-même, mais la situation sociale qui rend cette consolation nécessaire. Renoncer aux illusions n'a de sens que pour transformer les conditions qui les produisent ; la lucidité ne vaut pas comme bien contemplatif, elle est une condition de l'émancipation.
+
+*Sources : Critique de la Philosophie du droit de Hegel, Introduction (1844)*
 
 ## Influencé par
 

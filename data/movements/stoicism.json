@@ -10,8 +10,15 @@
     "en": "A discipline of judgment first of all: directing effort at <c id='dichotomy-of-control'>what is up to us</c>, without demanding that the world obey."
   },
   "aliases": {
-    "fr": ["stoïcien", "stoïcienne", "les stoïciens"],
-    "en": ["Stoic", "Stoics"]
+    "fr": [
+      "stoïcien",
+      "stoïcienne",
+      "les stoïciens"
+    ],
+    "en": [
+      "Stoic",
+      "Stoics"
+    ]
   },
   "summary": {
     "fr": "École fondée à Athènes par <ph>Zénon de Citium</ph> vers 300 avant notre ère, qui enseignait sous le « Portique peint » (stoa poikilè) dont elle tire son nom. Système complet de logique, de physique et d'éthique, le stoïcisme fut porté par <ph>Chrysippe</ph> puis, à Rome, par <ph>Sénèque</ph>, <ph>Épictète</ph> et l'empereur <ph>Marc Aurèle</ph>. Sa morale de la sagesse et de la maîtrise de soi a profondément marqué le christianisme, <ph id='spinoza'>Spinoza</ph>, <ph id='kant'>Kant</ph> et jusqu'aux courants contemporains de développement personnel.",
@@ -24,19 +31,31 @@
   "keyFigures": [
     {
       "slug": "zeno-of-citium",
-      "name": { "fr": "Zénon de Citium", "en": "Zeno of Citium" }
+      "name": {
+        "fr": "Zénon de Citium",
+        "en": "Zeno of Citium"
+      }
     },
     {
       "slug": "seneca",
-      "name": { "fr": "Sénèque", "en": "Seneca" }
+      "name": {
+        "fr": "Sénèque",
+        "en": "Seneca"
+      }
     },
     {
       "slug": "epictetus",
-      "name": { "fr": "Épictète", "en": "Epictetus" }
+      "name": {
+        "fr": "Épictète",
+        "en": "Epictetus"
+      }
     },
     {
       "slug": "marcus-aurelius",
-      "name": { "fr": "Marc Aurèle", "en": "Marcus Aurelius" }
+      "name": {
+        "fr": "Marc Aurèle",
+        "en": "Marcus Aurelius"
+      }
     }
   ],
   "entries": [
@@ -45,7 +64,12 @@
       "status": "POSITIONED",
       "declaredValue": {
         "kind": "weights",
-        "weights": [0.2, 0, 0.8, 0]
+        "weights": [
+          0.2,
+          0,
+          0.8,
+          0
+        ]
       },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
@@ -125,7 +149,10 @@
     {
       "axisId": "CONTROL_SCOPE",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": -0.9 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
       "justification": {
@@ -134,8 +161,14 @@
           "en": "The <c id='dichotomy-of-control'>division</c> is the founding act: only our judgments, desires and impulses are truly up to us, not the body, reputation or fortune. The argument is practical: tying one's good to what is not up to us dooms one to disturbance, whereas concentrating effort on the one masterable domain makes serenity invulnerable to circumstance, even in exile or prison."
         },
         "references": [
-          { "fr": "Épictète, Manuel, §1", "en": "Epictetus, Enchiridion, §1" },
-          { "fr": "Épictète, Entretiens", "en": "Epictetus, Discourses" }
+          {
+            "fr": "Épictète, Manuel, §1",
+            "en": "Epictetus, Enchiridion, §1"
+          },
+          {
+            "fr": "Épictète, Entretiens",
+            "en": "Epictetus, Discourses"
+          }
         ],
         "strength": "STRONG",
         "quoteId": "parmi-les-choses-qui-existent-les-epictetus"
@@ -144,7 +177,14 @@
     {
       "axisId": "SOVEREIGN_GOOD",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "weights", "weights": [0, 0.15, 0.85] },
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.15,
+          0.85
+        ]
+      },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
       "justification": {
@@ -153,8 +193,14 @@
           "en": "The good, the Stoics argue, must be what always benefits and never harms; yet health, wealth or pleasure can be misused: they are not goods but <c id='adiaphora'>indifferents</c>, at most « preferred ». Only virtue, the right use of reason, meets the criterion, hence the school's most disputed thesis, against <ph id='aristotle'>Aristotle</ph>: it <c id='eudaimonism'>suffices for happiness</c>, and the sage stays happy even amid torments."
         },
         "references": [
-          { "fr": "Sénèque, Lettres à Lucilius", "en": "Seneca, Letters to Lucilius" },
-          { "fr": "Cicéron, Des fins des biens et des maux, livre III", "en": "Cicero, On Moral Ends, book III" }
+          {
+            "fr": "Sénèque, Lettres à Lucilius",
+            "en": "Seneca, Letters to Lucilius"
+          },
+          {
+            "fr": "Cicéron, Des fins des biens et des maux, livre III",
+            "en": "Cicero, On Moral Ends, book III"
+          }
         ],
         "strength": "STRONG"
       }
@@ -162,7 +208,10 @@
     {
       "axisId": "EMOTIONS",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": -0.85 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.85
+      },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
       "justification": {
@@ -171,8 +220,14 @@
           "en": "A passion is not an undergone disturbance but an <c id='synkatathesis'>assent</c> given to a false <c id='phantasia'>representation</c> of what is good or bad, followed by an excessive impulse. Since assent is up to us, a passion is a correctable error: to aim at <c id='apatheia'>apatheia</c> is therefore not to stifle a feeling but to rectify the judgment, a far sharper position than <ph id='aristotle'>Aristotle</ph>'s mere moderation."
         },
         "references": [
-          { "fr": "Sénèque, De la colère", "en": "Seneca, On Anger" },
-          { "fr": "Cicéron, Tusculanes, livres III-IV", "en": "Cicero, Tusculan Disputations, books III-IV" }
+          {
+            "fr": "Sénèque, De la colère",
+            "en": "Seneca, On Anger"
+          },
+          {
+            "fr": "Cicéron, Tusculanes, livres III-IV",
+            "en": "Cicero, Tusculan Disputations, books III-IV"
+          }
         ],
         "strength": "STRONG"
       }
@@ -180,7 +235,14 @@
     {
       "axisId": "DESIRE",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "weights", "weights": [0, 0.1, 0.9] },
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.1,
+          0.9
+        ]
+      },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
       "justification": {
@@ -189,7 +251,10 @@
           "en": "The discipline of desire demands desiring only what is <c id='dichotomy-of-control'>up to us</c> and consenting to the rest: desires for external things are to be suspended, even extinguished. Epictetus advises not to ask that things happen as you wish, but to wish them as they happen."
         },
         "references": [
-          { "fr": "Épictète, Manuel, §8", "en": "Epictetus, Enchiridion, §8" }
+          {
+            "fr": "Épictète, Manuel, §8",
+            "en": "Epictetus, Enchiridion, §8"
+          }
         ],
         "strength": "STRONG",
         "quoteId": "ne-cherche-pas-a-ce-que-epictetus"
@@ -198,7 +263,10 @@
     {
       "axisId": "PAST_RELATION",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": -0.85 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.85
+      },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
       "justification": {
@@ -207,8 +275,14 @@
           "en": "Physics commands ethics: every event is a link in the rational chain of <c id='determinism'>fate</c>, ordered by <c id='providence'>providence</c>. To rebel is therefore both futile and unreasonable, since one fights the very reason one shares in; the <c id='the-sage'>sage</c> aligns his will with the course of things, not from passive resignation but because he recognises in it the work of the <c id='logos'>logos</c>: <q>the fates lead the willing and drag the unwilling</q>."
         },
         "references": [
-          { "fr": "Marc Aurèle, Pensées pour moi-même", "en": "Marcus Aurelius, Meditations" },
-          { "fr": "Sénèque, Lettres à Lucilius, 107", "en": "Seneca, Letters to Lucilius, 107" }
+          {
+            "fr": "Marc Aurèle, Pensées pour moi-même",
+            "en": "Marcus Aurelius, Meditations"
+          },
+          {
+            "fr": "Sénèque, Lettres à Lucilius, 107",
+            "en": "Seneca, Letters to Lucilius, 107"
+          }
         ],
         "strength": "STRONG",
         "quoteId": "conduis-moi-zeus-et-toi-aussi-cleanthes"
@@ -217,7 +291,15 @@
     {
       "axisId": "LIFE_MEANING",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "weights", "weights": [0.9, 0.1, 0, 0] },
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.9,
+          0.1,
+          0,
+          0
+        ]
+      },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
       "justification": {
@@ -226,8 +308,14 @@
           "en": "The cosmos is a single living being pervaded by the <c id='logos'>logos</c>, the divine reason; man is a part of it endowed with a fragment of that reason. « Living according to nature » therefore means living according to reason, one's own and that of the whole, which coincides with virtue. The meaning of existence is not to be invented: it lies in the right place one holds within the rational order, against an Epicurean world of indifferent atoms."
         },
         "references": [
-          { "fr": "Marc Aurèle, Pensées pour moi-même", "en": "Marcus Aurelius, Meditations" },
-          { "fr": "Cicéron, De la nature des dieux, livre II", "en": "Cicero, On the Nature of the Gods, book II" }
+          {
+            "fr": "Marc Aurèle, Pensées pour moi-même",
+            "en": "Marcus Aurelius, Meditations"
+          },
+          {
+            "fr": "Cicéron, De la nature des dieux, livre II",
+            "en": "Cicero, On the Nature of the Gods, book II"
+          }
         ],
         "strength": "STRONG"
       }
@@ -235,7 +323,10 @@
     {
       "axisId": "FREEDOM",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": 0.15 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.15
+      },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
       "justification": {
@@ -244,8 +335,14 @@
           "en": "<dif>Stoicism asserts thoroughgoing causal <c id='determinism'>determinism</c> (fate) while holding that our <c id='synkatathesis'>assent</c> is in our power</dif>: the classic <c id='compatibilism'>compatibilist</c> position, illustrated by Chrysippus' cylinder, which rolls from an external push but according to its own shape. The position tilts slightly toward determinism, since fate links all causes."
         },
         "references": [
-          { "fr": "Cicéron, Du destin", "en": "Cicero, On Fate" },
-          { "fr": "Aulu-Gelle, Nuits attiques, VII, 2", "en": "Aulus Gellius, Attic Nights, VII, 2" }
+          {
+            "fr": "Cicéron, Du destin",
+            "en": "Cicero, On Fate"
+          },
+          {
+            "fr": "Aulu-Gelle, Nuits attiques, VII, 2",
+            "en": "Aulus Gellius, Attic Nights, VII, 2"
+          }
         ],
         "strength": "STRONG"
       }
@@ -253,7 +350,10 @@
     {
       "axisId": "BELONGING",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": 0.8 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.8
+      },
       "epistemicStatus": "EXPLICIT",
       "salience": "MINOR",
       "justification": {
@@ -262,8 +362,14 @@
           "en": "The Stoics articulated ancient cosmopolitanism: every human being, as a rational creature, is a citizen of the world before being a citizen of any particular city. Marcus Aurelius calls himself a citizen of Rome as Antoninus, but a citizen of the world as a man."
         },
         "references": [
-          { "fr": "Marc Aurèle, Pensées pour moi-même, VI, 44", "en": "Marcus Aurelius, Meditations, VI, 44" },
-          { "fr": "Épictète, Entretiens, I, 9", "en": "Epictetus, Discourses, I, 9" }
+          {
+            "fr": "Marc Aurèle, Pensées pour moi-même, VI, 44",
+            "en": "Marcus Aurelius, Meditations, VI, 44"
+          },
+          {
+            "fr": "Épictète, Entretiens, I, 9",
+            "en": "Epictetus, Discourses, I, 9"
+          }
         ],
         "strength": "STRONG"
       }
@@ -271,7 +377,15 @@
     {
       "axisId": "ETHICS_FOUNDATION",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "weights", "weights": [0, 0.1, 0.9, 0] },
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.1,
+          0.9,
+          0
+        ]
+      },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
       "justification": {
@@ -280,8 +394,14 @@
           "en": "Stoic ethics is a virtue ethics par excellence: moral good lies in excellence of character and rightness of intention, not in consequences nor in obedience to an external rule. Virtue, one and indivisible, is the only good and suffices for happiness, and it is virtue that qualifies the agent as wise."
         },
         "references": [
-          { "fr": "Cicéron, Des fins des biens et des maux, livre III", "en": "Cicero, On Moral Ends, book III" },
-          { "fr": "Diogène Laërce, Vies, VII", "en": "Diogenes Laertius, Lives, VII" }
+          {
+            "fr": "Cicéron, Des fins des biens et des maux, livre III",
+            "en": "Cicero, On Moral Ends, book III"
+          },
+          {
+            "fr": "Diogène Laërce, Vies, VII",
+            "en": "Diogenes Laertius, Lives, VII"
+          }
         ],
         "strength": "STRONG"
       }
@@ -289,7 +409,10 @@
     {
       "axisId": "CERTAINTY",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": -0.7 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
       "epistemicStatus": "EXPLICIT",
       "salience": "MAJOR",
       "justification": {
@@ -298,8 +421,14 @@
           "en": "<dif>Against the <c id='skepticism'>skepticism</c> of the New Academy, the Stoics are <c id='dogmatism'>dogmatists</c>: they hold that certain knowledge is possible through the <c id='kataleptic-impression'>kataleptic impression</c></dif>, an impression so clear and distinct that it grasps its object and can come only from what is real. It is the criterion of truth and the foundation of the <c id='the-sage'>sage</c>'s science."
         },
         "references": [
-          { "fr": "Cicéron, Académiques", "en": "Cicero, Academica" },
-          { "fr": "Diogène Laërce, Vies, VII, 46", "en": "Diogenes Laertius, Lives, VII, 46" }
+          {
+            "fr": "Cicéron, Académiques",
+            "en": "Cicero, Academica"
+          },
+          {
+            "fr": "Diogène Laërce, Vies, VII, 46",
+            "en": "Diogenes Laertius, Lives, VII, 46"
+          }
         ],
         "strength": "STRONG"
       }
@@ -307,7 +436,10 @@
     {
       "axisId": "ATTENTION",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": -0.8 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
       "epistemicStatus": "EXPLICIT",
       "salience": "MINOR",
       "justification": {
@@ -316,8 +448,14 @@
           "en": "Prosochē, the vigilant attention turned at every moment upon the judgments and impulses of the <c id='hegemonikon'>ruling faculty</c> (the hēgemonikon), is the fundamental attitude of the practicing Stoic. Marcus Aurelius constantly reminds himself to watch over his <c id='phantasia'>impressions</c>: the aim is to recollect oneself rather than be scattered."
         },
         "references": [
-          { "fr": "Marc Aurèle, Pensées pour moi-même, III, 4", "en": "Marcus Aurelius, Meditations, III, 4" },
-          { "fr": "Épictète, Entretiens, IV, 12", "en": "Epictetus, Discourses, IV, 12" }
+          {
+            "fr": "Marc Aurèle, Pensées pour moi-même, III, 4",
+            "en": "Marcus Aurelius, Meditations, III, 4"
+          },
+          {
+            "fr": "Épictète, Entretiens, IV, 12",
+            "en": "Epictetus, Discourses, IV, 12"
+          }
         ],
         "strength": "STRONG"
       }
@@ -325,7 +463,10 @@
     {
       "axisId": "GOD_EXISTENCE",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": -0.7 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
       "epistemicStatus": "EXPLICIT",
       "salience": "MINOR",
       "justification": {
@@ -334,8 +475,14 @@
           "en": "Stoicism is theistic, but with a pantheist theism: god is not a transcendent person but is identified with the <c id='logos'>logos</c>, the seminal reason and <c id='providence'>providence</c> that pervades and animates the whole cosmos. Zeno and Cleanthes, in the Hymn to Zeus, celebrate this immanent divinity that orders all things."
         },
         "references": [
-          { "fr": "Cléanthe, Hymne à Zeus", "en": "Cleanthes, Hymn to Zeus" },
-          { "fr": "Cicéron, De la nature des dieux, livre II", "en": "Cicero, On the Nature of the Gods, book II" }
+          {
+            "fr": "Cléanthe, Hymne à Zeus",
+            "en": "Cleanthes, Hymn to Zeus"
+          },
+          {
+            "fr": "Cicéron, De la nature des dieux, livre II",
+            "en": "Cicero, On the Nature of the Gods, book II"
+          }
         ],
         "strength": "STRONG"
       }
@@ -343,7 +490,10 @@
     {
       "axisId": "TRANSCENDENCE",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": -0.85 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.85
+      },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
       "justification": {
@@ -352,8 +502,14 @@
           "en": "The Stoic divine is not beyond the world: divine reason is <c id='immanence'>immanent</c>, mixed with matter as a breath (the <c>pneuma</c>) running through and structuring reality. There is no <c id='transcendence'>transcendence</c>, no world beyond, only this single, rational, divine cosmos."
         },
         "references": [
-          { "fr": "Cicéron, De la nature des dieux, livre II", "en": "Cicero, On the Nature of the Gods, book II" },
-          { "fr": "Diogène Laërce, Vies, VII, 138-139", "en": "Diogenes Laertius, Lives, VII, 138-139" }
+          {
+            "fr": "Cicéron, De la nature des dieux, livre II",
+            "en": "Cicero, On the Nature of the Gods, book II"
+          },
+          {
+            "fr": "Diogène Laërce, Vies, VII, 138-139",
+            "en": "Diogenes Laertius, Lives, VII, 138-139"
+          }
         ],
         "strength": "MEDIUM"
       }
@@ -361,7 +517,14 @@
     {
       "axisId": "REALITY_NATURE",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "weights", "weights": [0.85, 0.05, 0.1] },
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.85,
+          0.05,
+          0.1
+        ]
+      },
       "epistemicStatus": "EXPLICIT",
       "salience": "MINOR",
       "justification": {
@@ -370,8 +533,14 @@
           "en": "Stoic physics is corporealist: only what acts or is acted upon exists, and only bodies can do so. Even the soul and the divine are corporeal, made of a subtle breath, the <c>pneuma</c>. This is a materialism, though one infused with internal reason, which sets Stoicism apart from Platonic idealism."
         },
         "references": [
-          { "fr": "Diogène Laërce, Vies, VII, 134-135", "en": "Diogenes Laertius, Lives, VII, 134-135" },
-          { "fr": "Sénèque, Lettres à Lucilius, 65", "en": "Seneca, Letters to Lucilius, 65" }
+          {
+            "fr": "Diogène Laërce, Vies, VII, 134-135",
+            "en": "Diogenes Laertius, Lives, VII, 134-135"
+          },
+          {
+            "fr": "Sénèque, Lettres à Lucilius, 65",
+            "en": "Seneca, Letters to Lucilius, 65"
+          }
         ],
         "strength": "STRONG"
       }
@@ -379,7 +548,14 @@
     {
       "axisId": "CAUSALITY",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "weights", "weights": [0.25, 0.75, 0] },
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.25,
+          0.75,
+          0
+        ]
+      },
       "epistemicStatus": "EXPLICIT",
       "salience": "MINOR",
       "justification": {
@@ -388,8 +564,14 @@
           "en": "The Stoic cosmos is ordered by <c id='providence'>providence</c>: fate is the rational chaining of all causes, directed toward the good of the whole. Causality is therefore fundamentally finalist, teleological, even as it unfolds as an unbreakable chain of causes that nothing interrupts."
         },
         "references": [
-          { "fr": "Cicéron, Du destin", "en": "Cicero, On Fate" },
-          { "fr": "Cicéron, De la nature des dieux, livre II", "en": "Cicero, On the Nature of the Gods, book II" }
+          {
+            "fr": "Cicéron, Du destin",
+            "en": "Cicero, On Fate"
+          },
+          {
+            "fr": "Cicéron, De la nature des dieux, livre II",
+            "en": "Cicero, On the Nature of the Gods, book II"
+          }
         ],
         "strength": "STRONG"
       }
@@ -397,7 +579,14 @@
     {
       "axisId": "MORAL_SCOPE",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "weights", "weights": [0.9, 0.05, 0.05] },
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.9,
+          0.05,
+          0.05
+        ]
+      },
       "epistemicStatus": "EXPLICIT",
       "salience": "MINOR",
       "justification": {
@@ -406,8 +595,14 @@
           "en": "Stoic morality is universalist: there is a <kw>natural law</kw>, the expression of the single <c id='logos'>logos</c>, binding on all rational beings everywhere. Good and evil depend neither on convention nor on cities: to live according to nature is to live according to this reason common to all humankind."
         },
         "references": [
-          { "fr": "Cicéron, De la République, livre III", "en": "Cicero, On the Republic, book III" },
-          { "fr": "Marc Aurèle, Pensées pour moi-même, IV, 4", "en": "Marcus Aurelius, Meditations, IV, 4" }
+          {
+            "fr": "Cicéron, De la République, livre III",
+            "en": "Cicero, On the Republic, book III"
+          },
+          {
+            "fr": "Marc Aurèle, Pensées pour moi-même, IV, 4",
+            "en": "Marcus Aurelius, Meditations, IV, 4"
+          }
         ],
         "strength": "STRONG"
       }
@@ -415,7 +610,10 @@
     {
       "axisId": "SELF_INTEREST",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": 0.6 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
       "epistemicStatus": "EXPLICIT",
       "salience": "MINOR",
       "justification": {
@@ -424,8 +622,14 @@
           "en": "The doctrine of <c id='oikeiosis'>oikeiōsis</c> describes the natural extension of belonging: starting from concern for oneself, it widens in concentric circles to embrace family, city, then all of humanity. The Stoic <c id='the-sage'>sage</c> thus comes to treat another's good as his own, beyond narrow self-interest."
         },
         "references": [
-          { "fr": "Cicéron, Des fins des biens et des maux, livre III", "en": "Cicero, On Moral Ends, book III" },
-          { "fr": "Hiéroclès, Éléments d'éthique", "en": "Hierocles, Elements of Ethics" }
+          {
+            "fr": "Cicéron, Des fins des biens et des maux, livre III",
+            "en": "Cicero, On Moral Ends, book III"
+          },
+          {
+            "fr": "Hiéroclès, Éléments d'éthique",
+            "en": "Hierocles, Elements of Ethics"
+          }
         ],
         "strength": "STRONG"
       }
@@ -433,7 +637,10 @@
     {
       "axisId": "PARTIALITY",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": -0.55 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.55
+      },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
       "justification": {
@@ -442,8 +649,14 @@
           "en": "Stoic cosmopolitanism implies equal concern for every rational being: since all humans share the same <c id='logos'>logos</c> and form a single world-city, the <c id='the-sage'>sage</c> in principle owes them impartial regard. Hierocles even urges drawing the circles of <c id='oikeiosis'>oikeiōsis</c> inward, treating the most distant as kin."
         },
         "references": [
-          { "fr": "Hiéroclès, Éléments d'éthique", "en": "Hierocles, Elements of Ethics" },
-          { "fr": "Marc Aurèle, Pensées pour moi-même, VII, 13", "en": "Marcus Aurelius, Meditations, VII, 13" }
+          {
+            "fr": "Hiéroclès, Éléments d'éthique",
+            "en": "Hierocles, Elements of Ethics"
+          },
+          {
+            "fr": "Marc Aurèle, Pensées pour moi-même, VII, 13",
+            "en": "Marcus Aurelius, Meditations, VII, 13"
+          }
         ],
         "strength": "MEDIUM"
       }
@@ -451,7 +664,10 @@
     {
       "axisId": "SUFFERING_MEANING",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": -0.7 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
       "epistemicStatus": "EXPLICIT",
       "salience": "MINOR",
       "justification": {
@@ -460,8 +676,14 @@
           "en": "For the Stoics, hardship is not an evil but the occasion to exercise virtue: adversity reveals and strengthens the <c id='the-sage'>sage</c> as training reveals the athlete. Seneca writes that the divine tests good men as a stern father does, and that no excellence shows itself without a difficulty to overcome."
         },
         "references": [
-          { "fr": "Sénèque, De la providence", "en": "Seneca, On Providence" },
-          { "fr": "Épictète, Entretiens, I, 24", "en": "Epictetus, Discourses, I, 24" }
+          {
+            "fr": "Sénèque, De la providence",
+            "en": "Seneca, On Providence"
+          },
+          {
+            "fr": "Épictète, Entretiens, I, 24",
+            "en": "Epictetus, Discourses, I, 24"
+          }
         ],
         "strength": "STRONG"
       }
@@ -469,7 +691,10 @@
     {
       "axisId": "BODILY_PLEASURES",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": -0.45 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.45
+      },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
       "justification": {
@@ -478,8 +703,14 @@
           "en": "Bodily pleasure is a mere <c id='adiaphora'>indifferent</c>: neither good nor evil, it warrants neither pursuit nor cult. Without condemning the body, the Stoics commend a disciplined sobriety and training in doing without the superfluous, so that nothing external holds the soul in its power. The tendency is ascetic, but moderate."
         },
         "references": [
-          { "fr": "Sénèque, Lettres à Lucilius, 18", "en": "Seneca, Letters to Lucilius, 18" },
-          { "fr": "Épictète, Manuel, §33", "en": "Epictetus, Enchiridion, §33" }
+          {
+            "fr": "Sénèque, Lettres à Lucilius, 18",
+            "en": "Seneca, Letters to Lucilius, 18"
+          },
+          {
+            "fr": "Épictète, Manuel, §33",
+            "en": "Epictetus, Enchiridion, §33"
+          }
         ],
         "strength": "MEDIUM"
       }
@@ -487,7 +718,15 @@
     {
       "axisId": "DEATH",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "weights", "weights": [0.65, 0.3, 0.05, 0] },
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.65,
+          0.3,
+          0.05,
+          0
+        ]
+      },
       "epistemicStatus": "EXPLICIT",
       "salience": "MINOR",
       "justification": {
@@ -496,8 +735,14 @@
           "en": "Death is a natural process, in keeping with the order of the cosmos, and therefore an <c id='adiaphora'>indifferent</c> not to be feared. The meditation on death (the premeditation of evils and the memento mori) serves to free present life from anxiety rather than to promise survival. Marcus Aurelius sees in it the mere dissolution of the elements back into the whole."
         },
         "references": [
-          { "fr": "Sénèque, Lettres à Lucilius, 26", "en": "Seneca, Letters to Lucilius, 26" },
-          { "fr": "Marc Aurèle, Pensées pour moi-même, II, 17", "en": "Marcus Aurelius, Meditations, II, 17" }
+          {
+            "fr": "Sénèque, Lettres à Lucilius, 26",
+            "en": "Seneca, Letters to Lucilius, 26"
+          },
+          {
+            "fr": "Marc Aurèle, Pensées pour moi-même, II, 17",
+            "en": "Marcus Aurelius, Meditations, II, 17"
+          }
         ],
         "strength": "STRONG"
       }
@@ -505,7 +750,14 @@
     {
       "axisId": "TIME_ORIENTATION",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "weights", "weights": [0.7, 0.2, 0.1] },
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.7,
+          0.2,
+          0.1
+        ]
+      },
       "epistemicStatus": "EXPLICIT",
       "salience": "MINOR",
       "justification": {
@@ -514,8 +766,14 @@
           "en": "Stoicism calls for inhabiting the present, the only time we possess: the past is no more, the future not yet, and one can lose only the moment one is living. Marcus Aurelius reminds himself that each person lives only this fleeting instant, and that consenting to it fully suffices for the good life."
         },
         "references": [
-          { "fr": "Marc Aurèle, Pensées pour moi-même, III, 10", "en": "Marcus Aurelius, Meditations, III, 10" },
-          { "fr": "Sénèque, De la brièveté de la vie", "en": "Seneca, On the Shortness of Life" }
+          {
+            "fr": "Marc Aurèle, Pensées pour moi-même, III, 10",
+            "en": "Marcus Aurelius, Meditations, III, 10"
+          },
+          {
+            "fr": "Sénèque, De la brièveté de la vie",
+            "en": "Seneca, On the Shortness of Life"
+          }
         ],
         "strength": "STRONG"
       }
@@ -523,7 +781,10 @@
     {
       "axisId": "HOPE",
       "status": "POSITIONED",
-      "declaredValue": { "kind": "scalar", "value": 0.5 },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.5
+      },
       "epistemicStatus": "INFERABLE",
       "salience": "MINOR",
       "justification": {
@@ -532,8 +793,14 @@
           "en": "To hope and to fear, for the Stoics, is to cast oneself into a future not up to us and to surrender to disturbance: these movements of the soul are to be corrected. Wisdom lies in seeing lucidly what is, consenting to fate, and expecting nothing from outside. The stance is not despair but a lucidity without hope."
         },
         "references": [
-          { "fr": "Sénèque, Lettres à Lucilius, 5", "en": "Seneca, Letters to Lucilius, 5" },
-          { "fr": "Épictète, Manuel, §8", "en": "Epictetus, Enchiridion, §8" }
+          {
+            "fr": "Sénèque, Lettres à Lucilius, 5",
+            "en": "Seneca, Letters to Lucilius, 5"
+          },
+          {
+            "fr": "Épictète, Manuel, §8",
+            "en": "Epictetus, Enchiridion, §8"
+          }
         ],
         "strength": "MEDIUM"
       }
@@ -544,8 +811,8 @@
       "declaredValue": {
         "kind": "weights",
         "weights": [
-          0.8,
-          0.1,
+          0.9,
+          0,
           0,
           0.1
         ]
@@ -561,6 +828,33 @@
           {
             "fr": "Sénèque, De la providence ; Épictète, Entretiens ; Marc Aurèle, Pensées",
             "en": "Seneca, On Providence; Epictetus, Discourses; Marcus Aurelius, Meditations"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRUTH_VALUE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le trouble ne vient pas des choses mais des jugements : la discipline de l'<c>assentiment</c> exige de ne rien ajouter aux représentations, de dire de ce qui arrive exactement ce qu'il est. La sérénité stoïcienne n'est pas une consolation mais une exactitude : voir le réel tel qu'il est, c'est déjà cesser d'en souffrir indûment.",
+          "en": "Disturbance comes not from things but from judgments: the discipline of <c>assent</c> requires adding nothing to impressions, saying of what happens exactly what it is. Stoic serenity is not a consolation but an exactness: to see the real as it is, is already to cease suffering from it unduly."
+        },
+        "references": [
+          {
+            "fr": "Épictète, Manuel",
+            "en": "Epictetus, Handbook"
+          },
+          {
+            "fr": "Marc Aurèle, Pensées pour moi-même",
+            "en": "Marcus Aurelius, Meditations"
           }
         ],
         "strength": "STRONG"
@@ -604,7 +898,7 @@
       }
     }
   ],
-  "updatedAt": "2026-07-02T00:00:00.000Z",
+  "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

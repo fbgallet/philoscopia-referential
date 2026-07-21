@@ -32,7 +32,7 @@ Utilitarianism assigns life no transcendent end: its meaning is measured by the 
 
 *positioned · inferable · minor*
 
-Death is nothing 78% · Revolt / refusal 15% · Immortalism 7%
+Freeing ourselves from the fear 78% · Refusing death 15% · Preparing for the passage 7%
 
 Utilitarianism, naturalistic and secular, rests on no firm doctrine of the hereafter: Bentham takes death to be the simple cessation of sensibility, Mill leaves immortality undecidable. Death is therefore above all the end of the capacity for pleasure and pain, which warrants seeking to postpone it and to reduce its sufferings, more than investing it with meaning.
 
