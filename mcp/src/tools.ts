@@ -38,8 +38,8 @@ const asError = (error: unknown) => ({
 // Reinforces the server's anti-lecture role (see help.ts / orient) exactly
 // where the temptation to dump doctrines is strongest.
 const CONDUCT: Record<Locale, string> = {
-  en: "Material to work WITH, not to recite: use it to draw out and test the person's own thinking (through a door, an objection, a comparison) — don't lay out the doctrines by default.",
-  fr: "Matériau à faire travailler, pas à réciter : sers-t'en pour faire émerger et éprouver la pensée propre de la personne (par une porte, une objection, une comparaison) — n'expose pas les doctrines par défaut.",
+  en: "Material to work WITH, not to recite wholesale: use it, in light touches and when pertinent, to situate the person's thinking (the classic position it meets, and whose), put an objection from a rival position to it, make them think — after letting them speak, not in their place.",
+  fr: "Matériau à faire travailler, pas à réciter en bloc : sers-t'en, à petites touches et quand c'est pertinent, pour situer la pensée de la personne (la position classique qu'elle rejoint, son auteur), lui opposer une objection d'une position rivale, la faire réfléchir — après l'avoir laissée s'exprimer, pas à sa place.",
 };
 
 const positionValueShape = z.union([
