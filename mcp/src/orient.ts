@@ -70,12 +70,14 @@ export function computeOrient(corpus: Corpus, ws: Workspace, locale: Locale) {
 
   // Themes: the general-public entry points. featured = the curated selection to
   // offer someone unsure where to begin (a life theme, a school-programme notion).
-  const featuredThemes: string[] = [];
+  // Each carries its ref so a picked theme goes straight to get_entity (no search
+  // round-trip); ref is already the `theme:<id>` byRef key.
+  const featuredThemes: { ref: string; label: string }[] = [];
   let themeCount = 0;
   for (const [ref, entity] of corpus.byRef) {
     if (!ref.startsWith("theme:")) continue;
     themeCount += 1;
-    if (entity.featured) featuredThemes.push(pickLocale(entity.label, locale));
+    if (entity.featured) featuredThemes.push({ ref, label: pickLocale(entity.label, locale) });
   }
 
   const referential = {
