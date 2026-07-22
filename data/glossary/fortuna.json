@@ -1,0 +1,12 @@
+{
+  "id": "fortuna",
+  "term": { "fr": "Fortune", "en": "Fortune" },
+  "aliases": { "fr": ["fortuna"], "en": ["fortuna"] },
+  "definition": {
+    "fr": "La fortune désigne la part de nos vies qui échappe à notre maîtrise : le hasard, les circonstances, le cours changeant des choses. La tradition antique et médiévale, des stoïciens à <ph id='boethius'>Boèce</ph>, invite à s'en détacher, la <q>roue de la Fortune</q> élevant et abaissant les hommes sans justice. <ph id='machiavelli'>Machiavel</ph> lui donne un sens actif : la fortune arbitre environ la moitié de nos actions, l'autre revenant à la <c id='virtu-machiavelli'>virtù</c> ; il faut l'affronter comme un fleuve qu'on endigue, et elle sourit aux audacieux.",
+    "en": "Fortune names the share of our lives that escapes our mastery: chance, circumstances, the shifting course of things. The ancient and medieval tradition, from the Stoics to <ph id='boethius'>Boethius</ph>, urges detachment from it, the <q>wheel of Fortune</q> raising and lowering men without justice. <ph id='machiavelli'>Machiavelli</ph> gives it an active sense: fortune arbitrates about half our actions, the other half falling to <c id='virtu-machiavelli'>virtù</c>; it must be faced like a river to be dammed, and it smiles on the daring."
+  },
+  "relatedAxes": ["CONTROL_SCOPE", "HISTORY_MEANING", "HOPE"],
+  "relatedTerms": ["virtu-machiavelli"],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

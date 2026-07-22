@@ -10,7 +10,7 @@ British philosopher, a student of Wittgenstein, who revived virtue ethics (1958)
 
 ## Influenced by
 
-- **[Ludwig Wittgenstein](../philosophers/wittgenstein.md)** (continues) : [Wittgenstein](../philosophers/wittgenstein.md)'s student, translator and literary executor, [Anscombe](../philosophers/anscombe.md) extends his manner: she carries the attention to ordinary language toward action and intention, founding contemporary philosophy of action.
+- **[Wittgenstein](../philosophers/wittgenstein.md)** (continues) : [Wittgenstein](../philosophers/wittgenstein.md)'s student, translator and literary executor, [Anscombe](../philosophers/anscombe.md) extends his manner: she carries the attention to ordinary language toward action and intention, founding contemporary philosophy of action.
 
 ---
 

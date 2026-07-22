@@ -1,0 +1,93 @@
+{
+  "id": "death-revolt-ressentiment",
+  "kind": "OBJECTS",
+  "position": { "axisId": "DEATH", "poleId": "REVOLT" },
+  "name": { "fr": "Le soupçon du ressentiment", "en": "The suspicion of ressentiment" },
+  "claim": {
+    "fr": "La révolte contre la mort pourrait n'être qu'une vengeance contre la vie même, déguisée en amour de la vie.",
+    "en": "Revolt against death may be nothing but a revenge against life itself, disguised as love of life."
+  },
+  "summary": {
+    "fr": "La même finitude borne nos jours et leur donne leur poids : dire non à la mort, c'est peut-être dire non à la vie telle qu'elle est, par ressentiment plus que par amour.",
+    "en": "The same finitude bounds our days and gives them their weight: to say no to death may be to say no to life as it is, out of resentment more than love."
+  },
+  "development": [
+    {
+      "fr": "<ph id='nietzsche'>Nietzsche</ph> voyait dans la révolte contre le temps et l'irréversible « l'esprit de vengeance » : le refus rancunier de ce qui fut et de ce qui doit finir. Se révolter contre la mort, ce serait en vouloir à l'existence de sa condition même.",
+      "en": "<ph id='nietzsche'>Nietzsche</ph> saw in the revolt against time and the irreversible the \"spirit of revenge\": the rancorous refusal of what was and of what must end. To revolt against death would be to hold existence against its very condition."
+    },
+    {
+      "fr": "Or la mortalité ne se détache pas du reste : c'est la même finitude qui borne nos jours et qui leur donne leur saveur, leur urgence, leur poids. Dire non à la mort, c'est dire non à la vie telle qu'elle est, la seule qui soit.",
+      "en": "But mortality cannot be detached from the rest: it is the same finitude that bounds our days and gives them their savor, their urgency, their weight. To say no to death is to say no to life as it is, the only one there is."
+    },
+    {
+      "fr": "Le refus prend alors le visage de ce qu'il combattait : non plus un amour de la vie, mais une rancune contre elle. La force, dit Nietzsche, n'est pas de maudire ce qui finit, mais de l'aimer au point de le vouloir éternellement : c'est l'<c id='amor-fati'>amor fati</c>.",
+      "en": "The refusal then takes on the face of what it fought: no longer a love of life, but a grudge against it. Strength, says Nietzsche, is not to curse what ends, but to love it enough to will it eternally: this is <c id='amor-fati'>amor fati</c>."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc votre révolte demande à s'examiner : est-elle le comble de l'amour de vivre, ou un <c id='ressentiment'>ressentiment</c> contre la vie qui, à force de refuser la mort, refuse aussi le prix qu'elle donne aux jours ?",
+    "en": "So your revolt calls for self-examination: is it the height of the love of living, or a <c id='ressentiment'>ressentiment</c> against life that, in refusing death, also refuses the worth death gives to our days?"
+  },
+  "deepenings": [
+    {
+      "id": "eternal-return",
+      "label": { "fr": "Voudriez-vous cette vie une infinité de fois ?", "en": "Would you want this life an infinity of times?" },
+      "targetStep": 2,
+      "development": [
+        {
+          "fr": "<ph id='nietzsche'>Nietzsche</ph> propose une épreuve : un démon t'annonce que tu revivras cette vie, dans le moindre détail, un nombre infini de fois. Le maudirais-tu, ou serait-ce « le plus divin » que tu aies jamais entendu ?",
+          "en": "<ph id='nietzsche'>Nietzsche</ph> offers a test: a demon tells you that you will live this life again, down to the smallest detail, an infinite number of times. Would you curse him, or would it be \"the most divine\" thing you ever heard?"
+        },
+        {
+          "fr": "Celui qui pourrait vouloir l'éternel retour n'a plus rien à refuser, la mort comprise : il a fait de la finitude non un scandale, mais la forme même de son consentement à vivre.",
+          "en": "Whoever could will the eternal return has nothing left to refuse, death included: he has made finitude not a scandal, but the very form of his consent to living."
+        }
+      ],
+      "source": { "author": { "fr": "Nietzsche", "en": "Nietzsche" }, "figures": [{ "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" }], "work": { "fr": "Le Gai Savoir", "en": "The Gay Science" }, "year": 1882 }
+    }
+  ],
+  "difficulty": 2,
+  "source": { "author": { "fr": "Nietzsche", "en": "Nietzsche" }, "figures": [{ "name": { "fr": "Nietzsche", "en": "Nietzsche" }, "kind": "PHILOSOPHER", "slug": "nietzsche" }], "work": { "fr": "Ainsi parlait Zarathoustra ; Le Gai Savoir", "en": "Thus Spoke Zarathustra; The Gay Science" } },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "Il a raison : mon refus était un « non » à la condition même de vivre. Je préfère apprendre à dire oui, la mort comprise.",
+        "en": "He is right: my refusal was a \"no\" to the very condition of living. I would rather learn to say yes, death included."
+      },
+      "hints": [{ "axisId": "DEATH", "value": { "kind": "weights", "weights": [0.5, 0.3, 0, 0.2] }, "weight": 2 }],
+      "discussion": {
+        "fr": "Vous passez du refus à l'<c id='amor-fati'>amor fati</c> : consentir à la mort comme au cours même de la vie, non par résignation mais par amour du réel.",
+        "en": "You move from refusal to <c id='amor-fati'>amor fati</c>: consenting to death as to the very course of life, not out of resignation but out of love for the real."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je peux aimer la vie et refuser encore de bénir la mort : mon « non » vise ce qui la détruit, non la vie qui l'inclut. Une révolte lucide, non vengeresse.",
+        "en": "I can love life and still refuse to bless death: my \"no\" is aimed at what destroys life, not at the life that includes it. A lucid revolt, not a vengeful one."
+      },
+      "hints": [{ "axisId": "DEATH", "value": { "kind": "weights", "weights": [0.1, 0.15, 0, 0.75] }, "weight": 1 }],
+      "discussion": {
+        "fr": "C'est la révolte de <ph id='camus'>Camus</ph> plus que le ressentiment : un refus sans espoir ni haine, qui aime trop la vie pour bénir ce qui l'éteint.",
+        "en": "This is <ph id='camus'>Camus</ph>'s revolt rather than ressentiment: a refusal without hope or hatred, one that loves life too much to bless what snuffs it out."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : nommer « ressentiment » l'amour de la vie, c'est le désarmer. Mon refus de la mort est la forme même de mon « oui » à vivre.",
+        "en": "I refute it: to call the love of life \"ressentiment\" is to disarm it. My refusal of death is the very form of my \"yes\" to living."
+      },
+      "hints": [{ "axisId": "DEATH", "value": { "kind": "weights", "weights": [0, 0, 0, 1] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "Vous retournez l'objection : loin de nier la vie, la révolte en est la passion la plus haute, celle qui ne cède rien de ce qu'elle aime.",
+        "en": "You turn the objection around: far from denying life, revolt is its highest passion, the one that yields nothing of what it loves."
+      }
+    }
+  ],
+  "targets": ["death-lucid-revolt"],
+  "problems": ["finitude-a-good"],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

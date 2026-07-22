@@ -1,0 +1,12 @@
+{
+  "id": "il-faut-etre-renard-pour-connaitre-machiavelli",
+  "text": {
+    "fr": "Il faut donc être renard pour connaître les pièges, et lion pour effrayer les loups.",
+    "en": "One must therefore be a fox to recognize snares, and a lion to frighten off the wolves."
+  },
+  "author": { "name": { "fr": "Machiavel", "en": "Machiavelli" }, "kind": "PHILOSOPHER", "slug": "machiavelli" },
+  "work": "the-prince-machiavelli",
+  "source": { "fr": "Le Prince, chap. XVIII", "en": "The Prince, ch. XVIII" },
+  "anchors": [{ "axisId": "SINCERITY", "poleId": "BENEVOLENT_LYING_PERMITTED" }],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

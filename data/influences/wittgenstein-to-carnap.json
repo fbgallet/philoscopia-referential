@@ -1,0 +1,16 @@
+{
+  "id": "wittgenstein-to-carnap",
+  "from": { "kind": "PHILOSOPHER", "slug": "wittgenstein" },
+  "to": { "kind": "PHILOSOPHER", "slug": "carnap" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "Le Tractatus fut le livre de chevet du Cercle de Vienne : <ph id='carnap'>Carnap</ph> et les positivistes logiques y lurent une charte du <c>vérificationnisme</c>, réduisant le sens à la vérifiabilité empirique. Wittgenstein s'en démarqua : ils avaient manqué, disait-il, ce que le livre montrait sans le dire, l'éthique et le mystique. Le malentendu fonde une part de la philosophie analytique.",
+    "en": "The Tractatus was the bedside book of the Vienna Circle: <ph id='carnap'>Carnap</ph> and the logical positivists read into it a charter of <c>verificationism</c>, reducing meaning to empirical verifiability. Wittgenstein distanced himself: they had missed, he said, what the book showed without saying, the ethical and the mystical. The misunderstanding grounds part of analytic philosophy."
+  },
+  "sources": [
+    { "fr": "Tractatus logico-philosophicus ; le Cercle de Vienne (Schlick, Carnap)", "en": "Tractatus Logico-Philosophicus; the Vienna Circle (Schlick, Carnap)" }
+  ],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

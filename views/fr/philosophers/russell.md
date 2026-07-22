@@ -16,7 +16,7 @@ Logicien et philosophe britannique : rationaliste et athée, il tient la croyanc
 
 ## Influence sur
 
-- **[Ludwig Wittgenstein](../philosophers/wittgenstein.md)** (réinterprète) : Élève de [Russell](../philosophers/russell.md) à Cambridge, [Wittgenstein](../philosophers/wittgenstein.md) reçoit de lui la logique nouvelle et l'analyse comme méthode, mais retourne cet héritage : le Tractatus refond l'atomisme logique en une théorie du langage comme image du monde, jusqu'à cette limite où ce qui compte le plus « ne peut que se montrer ». Russell reconnaîtra en retour la profondeur de son ancien élève.
+- **[Wittgenstein](../philosophers/wittgenstein.md)** (réinterprète) : Élève de [Russell](../philosophers/russell.md) à Cambridge, [Wittgenstein](../philosophers/wittgenstein.md) reçoit de lui la logique nouvelle et l'analyse comme méthode, mais retourne cet héritage : le Tractatus refond l'atomisme logique en une théorie du langage comme image du monde, jusqu'à cette limite où ce qui compte le plus « ne peut que se montrer ». Russell reconnaîtra en retour la profondeur de son ancien élève.
 
 ---
 

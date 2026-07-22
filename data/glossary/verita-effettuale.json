@@ -1,0 +1,14 @@
+{
+  "id": "verita-effettuale",
+  "term": { "fr": "Vérité effective", "en": "Effectual truth" },
+  "aliases": { "fr": ["vérité effective", "verità effettuale"], "en": ["effectual truth", "verità effettuale"] },
+  "definition": {
+    "fr": "La <q>vérité effective de la chose</q> (verità effettuale della cosa) est, chez <ph id='machiavelli'>Machiavel</ph>, la réalité opérante d'une situation, ce qui s'y fait et y produit des effets, par opposition à sa représentation idéale ou souhaitable. Fonder la politique sur elle, plutôt que sur les <pb>républiques imaginées</pb> qui n'ont jamais existé, c'est le geste du <c id='political-realism'>réalisme politique</c> : on gouverne des hommes tels qu'ils sont, non tels qu'ils devraient être.",
+    "en": "The <q>effectual truth of the thing</q> (verità effettuale della cosa) is, for <ph id='machiavelli'>Machiavelli</ph>, the operative reality of a situation, what is actually done in it and produces effects, as opposed to its ideal or desirable image. To ground politics on it, rather than on <pb>imagined republics</pb> that have never existed, is the gesture of <c id='political-realism'>political realism</c>: one governs people as they are, not as they ought to be."
+  },
+  "relatedAxes": ["POLITICAL_IDEAL", "KNOWLEDGE_SOURCE", "TRUTH_NATURE"],
+  "relatedTerms": ["political-realism"],
+  "figure": { "slug": "machiavelli", "name": { "fr": "Machiavel", "en": "Machiavelli" } },
+  "positions": [{ "axisId": "POLITICAL_IDEAL", "poleId": "POLITICAL_REALISM" }],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

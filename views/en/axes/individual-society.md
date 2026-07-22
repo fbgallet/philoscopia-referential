@@ -39,6 +39,8 @@ The social whole is more than the sum of its parts: it has laws of its own and e
 
 > “Human nature is not a machine to be built after a model, but a tree, which requires to grow and develop itself on all sides.” — [Mill](../philosophers/mill.md), On Liberty, ch. 3
 
+> “I that is We, and We that is I.” — [Hegel](../philosophers/hegel.md), Phenomenology of Spirit, ch. IV (self-consciousness)
+
 ## Related axes
 
 [Social identity](../axes/social-identity.md) · [Political liberty](../axes/political-liberty.md) · [Self-interest and others](../axes/self-interest.md) · [The origin of the social bond](../axes/social-contract.md)

@@ -1,0 +1,13 @@
+{
+  "id": "sittlichkeit",
+  "term": { "fr": "Sittlichkeit (vie éthique)", "en": "Sittlichkeit (ethical life)" },
+  "aliases": { "fr": ["Sittlichkeit", "éthicité"], "en": ["Sittlichkeit", "ethical life"] },
+  "definition": {
+    "fr": "La Sittlichkeit, « vie éthique » ou « éthicité », désigne chez <ph id='hegel'>Hegel</ph> la moralité concrète, réalisée dans les institutions et les mœurs d'une communauté (les Sitten), par opposition à la Moralität, la moralité subjective de la conscience individuelle et du devoir abstrait. Elle se déploie en trois moments : la famille, la société civile et l'État. C'est en elle, non dans le for intérieur solitaire, que la liberté devient effective. <ety>De l'allemand Sitten, les mœurs, les coutumes.</ety>",
+    "en": "Sittlichkeit, \"ethical life\", designates for <ph id='hegel'>Hegel</ph> concrete morality, realized in the institutions and mores of a community (the Sitten), as opposed to Moralität, the subjective morality of individual conscience and abstract duty. It unfolds in three moments: the family, civil society and the state. It is in it, not in the solitary inner self, that freedom becomes actual. <ety>From the German Sitten, mores, customs.</ety>"
+  },
+  "relatedAxes": ["INDIVIDUAL_SOCIETY", "ETHICS_FOUNDATION", "MORAL_SOURCE"],
+  "relatedTerms": ["geist"],
+  "figure": { "slug": "hegel", "name": { "fr": "Hegel", "en": "Hegel" } },
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

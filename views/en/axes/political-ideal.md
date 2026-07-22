@@ -29,6 +29,8 @@ One must start from the effective truth of things, not from imagined republics. 
 
 ## Quotations
 
+> “It has seemed to me more fitting to go directly to the effectual truth of the thing than to the imagination of it. Many have imagined republics and principalities that have never been seen or known to exist in truth.” — [Machiavelli](../philosophers/machiavelli.md), The Prince, ch. XV
+
 > “Communism is for us not a state of affairs which is to be established, an ideal to which reality will have to adjust itself. We call communism the real movement which abolishes the present state of things.” — [Marx](../philosophers/marx.md), The German Ideology, 1846
 
 ## Related axes

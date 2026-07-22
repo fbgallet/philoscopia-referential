@@ -1,0 +1,15 @@
+{
+  "id": "l-histoire-du-monde-est-le-hegel",
+  "text": {
+    "fr": "L'histoire du monde est le progrès dans la conscience de la liberté.",
+    "en": "World history is the progress in the consciousness of freedom."
+  },
+  "author": { "name": { "fr": "Hegel", "en": "Hegel" }, "kind": "PHILOSOPHER", "slug": "hegel" },
+  "source": { "fr": "Leçons sur la philosophie de l'histoire, Introduction", "en": "Lectures on the Philosophy of History, Introduction" },
+  "anchors": [{ "axisId": "HISTORY_MEANING", "poleId": "DIRECTIONAL_HISTORY" }],
+  "context": {
+    "fr": "Formule des Leçons, transmise par les éditeurs à partir des notes de cours.",
+    "en": "A formula from the Lectures, transmitted by the editors from lecture notes."
+  },
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

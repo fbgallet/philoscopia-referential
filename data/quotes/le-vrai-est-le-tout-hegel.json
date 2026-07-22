@@ -1,0 +1,13 @@
+{
+  "id": "le-vrai-est-le-tout-hegel",
+  "text": { "fr": "Le vrai est le tout.", "en": "The true is the whole." },
+  "author": { "name": { "fr": "Hegel", "en": "Hegel" }, "kind": "PHILOSOPHER", "slug": "hegel" },
+  "work": "phenomenology-of-spirit-hegel",
+  "source": { "fr": "Phénoménologie de l'esprit, Préface", "en": "Phenomenology of Spirit, Preface" },
+  "anchors": [{ "axisId": "TRUTH_NATURE", "poleId": "COHERENCE" }],
+  "context": {
+    "fr": "Le tout n'est cependant que l'essence qui s'achève par son développement : la vérité est un résultat, non un point de départ.",
+    "en": "The whole, however, is only the essence completing itself through its development: truth is a result, not a starting point."
+  },
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

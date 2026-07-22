@@ -49,6 +49,8 @@ Le vrai, c'est ce qui fonctionne : une idée est vraie si elle guide efficacemen
 
 > « La vérité est l'adéquation de la chose et de l'intellect. » — [Thomas d'Aquin](../philosophers/aquinas.md), Questions disputées sur la vérité, q. 1, a. 1
 
+> « Le vrai est le tout. » — [Hegel](../philosophers/hegel.md), Phénoménologie de l'esprit, Préface
+
 > « Le vrai, pour le dire très brièvement, n'est que ce qui nous réussit dans l'ordre de la pensée. » — James, Le Pragmatisme, leçon VI
 
 ## Axes liés

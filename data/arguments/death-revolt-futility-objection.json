@@ -1,0 +1,93 @@
+{
+  "id": "death-revolt-futility-objection",
+  "kind": "OBJECTS",
+  "position": { "axisId": "DEATH", "poleId": "REVOLT" },
+  "name": { "fr": "L'objection de la révolte impuissante", "en": "The objection of impotent revolt" },
+  "claim": {
+    "fr": "Se révolter contre la mort ne change rien à la mort, et gâte la seule chose qui reste : le présent.",
+    "en": "Revolting against death changes nothing about death, and spoils the one thing that remains: the present."
+  },
+  "summary": {
+    "fr": "La mort n'est pas une injustice qu'un tribunal réformerait, mais une loi de la nature : s'y acharner épuise sans rien gagner et empoisonne les jours qui restent.",
+    "en": "Death is not an injustice a court could overturn but a law of nature: railing at it exhausts us for nothing and poisons the days that remain."
+  },
+  "development": [
+    {
+      "fr": "La révolte suppose un adversaire qu'on peut fléchir. Or la mort n'est pas une injustice qu'un tribunal réformerait : c'est une loi de la nature, aussi sourde à notre colère que la pluie ou la vieillesse.",
+      "en": "Revolt presupposes an adversary that can be swayed. But death is not an injustice a court could overturn: it is a law of nature, as deaf to our anger as the rain or old age."
+    },
+    {
+      "fr": "Se dresser contre l'inévitable, c'est livrer un combat perdu d'avance. <ph id='epictetus'>Épictète</ph> le disait : ce ne sont pas les choses qui nous troublent, mais nos jugements sur elles ; exiger que la nature soit autre qu'elle n'est, c'est se condamner à souffrir.",
+      "en": "To rise up against the inevitable is to wage a battle lost in advance. <ph id='epictetus'>Epictetus</ph> said it: it is not things that trouble us but our judgments about them; to demand that nature be other than it is condemns us to suffer."
+    },
+    {
+      "fr": "Pire : à fixer la mort comme un ennemi, on lui laisse dévorer chaque instant présent. Le révolté souffre deux fois, de devoir mourir, et de sa rage de devoir mourir, quand la sagesse serait de consentir pour vivre.",
+      "en": "Worse: by fixing on death as an enemy, we let it devour every present moment. The rebel suffers twice, from having to die and from his rage at having to die, when wisdom would be to consent in order to live."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la révolte pourrait n'être qu'une agitation stérile : elle ne recule pas la mort d'une heure, et vole au présent la sérénité qui, seule, en dépend.",
+    "en": "So revolt may be no more than a sterile agitation: it does not push death back by a single hour, and it robs the present of the serenity that alone depends on us."
+  },
+  "deepenings": [
+    {
+      "id": "the-free-man",
+      "label": { "fr": "« Un homme libre ne pense à rien moins qu'à la mort »", "en": "\"A free man thinks of nothing less than of death\"" },
+      "targetStep": 1,
+      "development": [
+        {
+          "fr": "<ph id='spinoza'>Spinoza</ph> écrit que « l'homme libre ne pense à rien moins qu'à la mort, et sa sagesse est une méditation, non de la mort, mais de la vie ».",
+          "en": "<ph id='spinoza'>Spinoza</ph> writes that \"a free man thinks of nothing less than of death, and his wisdom is a meditation not on death but on life.\""
+        },
+        {
+          "fr": "Se libérer n'est pas vaincre la mort, mais cesser de la placer au centre : comprendre qu'elle suit de l'ordre des choses désarme la révolte sans rien nier de la vie.",
+          "en": "To be free is not to defeat death but to stop placing it at the center: understanding that it follows from the order of things disarms revolt without denying anything of life."
+        }
+      ],
+      "source": { "author": { "fr": "Spinoza", "en": "Spinoza" }, "figures": [{ "name": { "fr": "Spinoza", "en": "Spinoza" }, "kind": "PHILOSOPHER", "slug": "spinoza" }], "work": { "fr": "Éthique", "en": "Ethics" }, "year": 1677 }
+    }
+  ],
+  "difficulty": 2,
+  "source": { "author": { "fr": "Épictète, Spinoza", "en": "Epictetus, Spinoza" }, "figures": [{ "name": { "fr": "Épictète", "en": "Epictetus" }, "kind": "PHILOSOPHER", "slug": "epictetus" }, { "name": { "fr": "Spinoza", "en": "Spinoza" }, "kind": "PHILOSOPHER", "slug": "spinoza" }] },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est vrai : m'acharner contre ce que je ne peux changer empoisonne mes jours. Mieux vaut une sérénité lucide.",
+        "en": "True: railing against what I cannot change poisons my days. A lucid serenity is better."
+      },
+      "hints": [{ "axisId": "DEATH", "value": { "kind": "weights", "weights": [0.6, 0.2, 0, 0.2] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous inclinez vers la <ax id='DEATH' pole='EPICUREANISM'>libération de la crainte</ax> : consentir à ce qui ne dépend pas de nous pour vivre en paix.",
+        "en": "You lean toward <ax id='DEATH' pole='EPICUREANISM'>freeing yourself from the fear</ax>: consenting to what does not depend on us in order to live in peace."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je maintiens mon refus, mais je le tourne vers cette mort-ci, évitable, injuste, prématurée, non vers la mortalité en soi.",
+        "en": "I hold to my refusal, but I turn it toward this death here, the avoidable, unjust, premature death, not toward mortality as such."
+      },
+      "hints": [{ "axisId": "DEATH", "value": { "kind": "weights", "weights": [0.15, 0.15, 0, 0.7] }, "weight": 1 }],
+      "discussion": {
+        "fr": "Vous distinguez deux refus : la révolte contre la mort injuste, le consentement à la finitude, une position que beaucoup tiennent sans le savoir.",
+        "en": "You distinguish two refusals: revolt against unjust death, consent to finitude, a position many hold without knowing it."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Je réfute : consentir à ce qui nous écrase n'est pas sagesse mais résignation ; la lucidité commande de dire non.",
+        "en": "I refute it: to consent to what crushes us is not wisdom but resignation; lucidity commands us to say no."
+      },
+      "hints": [{ "axisId": "DEATH", "value": { "kind": "weights", "weights": [0, 0, 0, 1] }, "weight": 0.5 }],
+      "discussion": {
+        "fr": "C'est le cœur de la <ax id='DEATH' pole='REVOLT'>révolte</ax> : refuser de confondre l'apaisement et la vérité.",
+        "en": "This is the heart of <ax id='DEATH' pole='REVOLT'>revolt</ax>: refusing to mistake appeasement for truth."
+      }
+    }
+  ],
+  "targets": ["death-lucid-revolt"],
+  "problems": ["taming-the-fear"],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

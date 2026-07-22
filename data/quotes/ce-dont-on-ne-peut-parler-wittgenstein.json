@@ -1,0 +1,16 @@
+{
+  "id": "ce-dont-on-ne-peut-parler-wittgenstein",
+  "text": {
+    "fr": "Ce dont on ne peut parler, il faut le taire.",
+    "en": "Whereof one cannot speak, thereof one must be silent."
+  },
+  "author": { "name": { "fr": "Wittgenstein", "en": "Wittgenstein" }, "kind": "PHILOSOPHER", "slug": "wittgenstein" },
+  "work": "tractatus-logico-philosophicus-wittgenstein",
+  "source": { "fr": "Tractatus logico-philosophicus, 7 (la dernière proposition)", "en": "Tractatus Logico-Philosophicus, 7 (the last proposition)" },
+  "anchors": [{ "axisId": "TRANSCENDENCE", "poleId": "TRANSCENDENCE" }],
+  "context": {
+    "fr": "Le silence du Tractatus sur l'éthique et le mystique est révérenciel : ce qui compte le plus se montre au lieu de se dire.",
+    "en": "The Tractatus's silence about the ethical and the mystical is reverent: what matters most shows itself rather than being said."
+  },
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

@@ -38,8 +38,11 @@
 - [The authenticity argument](death-being-toward-death.md) (for « Living in view of one's death »)
 - [The deprivation argument](death-deprivation.md) (against « Freeing ourselves from the fear »)
 - [The symmetry argument](death-epicurean-symmetry.md) (for « Freeing ourselves from the fear »)
+- [Lucid revolt](death-lucid-revolt.md) (for « Refusing death »)
 - [The morbid-rumination objection](death-morbid-rumination.md) (against « Living in view of one's death »)
 - [The primacy-of-death objection](death-primacy-objection.md) (against « Living in view of one's death »)
+- [The objection of impotent revolt](death-revolt-futility-objection.md) (against « Refusing death »)
+- [The suspicion of ressentiment](death-revolt-ressentiment.md) (against « Refusing death »)
 
 ## [Relation to desire](../axes/desire.md)
 

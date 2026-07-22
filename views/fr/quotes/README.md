@@ -132,7 +132,12 @@
 
 ### [Hegel](../philosophers/hegel.md)
 
+- « Le beau est l'apparaître sensible de l'Idée. » — Leçons d'esthétique, Introduction
+- « L'histoire du monde est le progrès dans la conscience de la liberté. » — Leçons sur la philosophie de l'histoire, Introduction
 - « La chouette de Minerve ne prend son vol qu'à la tombée de la nuit. » — Principes de la philosophie du droit, Préface
+- « La philosophie est son temps saisi dans la pensée. » — Principes de la philosophie du droit, Préface
+- « Le vrai est le tout. » — Phénoménologie de l'esprit, Préface
+- « Moi qui est nous, et nous qui est moi. » — Phénoménologie de l'esprit, ch. IV (l'autoconscience)
 - « Tout dépend de ceci : saisir et exprimer le vrai non comme substance, mais tout autant comme sujet. » — Phénoménologie de l'esprit, Préface
 
 ### Homère
@@ -222,9 +227,12 @@
 - « Rien ne se crée jamais de rien par une volonté divine. » — De la nature des choses, I, 150
 - « Tant la religion put conseiller de crimes. » — De la nature des choses, I, 101
 
-### [Ludwig Wittgenstein](../philosophers/wittgenstein.md)
+### [Machiavel](../philosophers/machiavelli.md)
 
-- « La philosophie est une lutte contre l'ensorcellement de notre entendement par les moyens de notre langage. » — Wittgenstein, Recherches philosophiques, § 109
+- « Chacun voit ce que tu parais, mais peu sentent ce que tu es. » — Le Prince, chap. XVIII
+- « Il faut donc être renard pour connaître les pièges, et lion pour effrayer les loups. » — Le Prince, chap. XVIII
+- « Il m'a paru plus convenable de suivre la vérité effective de la chose que sa représentation imaginaire. Beaucoup ont imaginé des républiques et des principautés qu'on n'a jamais vues ni connues comme existant en réalité. » — Le Prince, chap. XV
+- « Je juge qu'il peut être vrai que la fortune soit l'arbitre de la moitié de nos actions, mais qu'elle nous en laisse gouverner l'autre moitié, ou presque. » — Le Prince, chap. XXV
 
 ### [Marc Aurèle](../philosophers/marcus-aurelius.md)
 
@@ -437,6 +445,14 @@
 - « La vérité est l'adéquation de la chose et de l'intellect. » — Questions disputées sur la vérité, q. 1, a. 1
 - « Pour qu'une guerre soit juste, trois conditions sont requises : l'autorité du prince, une cause juste, une intention droite. » — Somme théologique, II-II, q. 40, a. 1
 - « Tout ce qui est mû est mû par un autre ; il faut donc en venir à un premier moteur qui ne soit mû par rien, et c'est lui que tous appellent Dieu. » — Somme théologique, Ia, q. 2, a. 3 (la première voie)
+
+### [Wittgenstein](../philosophers/wittgenstein.md)
+
+- « Ce dont on ne peut parler, il faut le taire. » — Tractatus logico-philosophicus, 7 (la dernière proposition)
+- « La philosophie est une lutte contre l'ensorcellement de notre entendement par les moyens de notre langage. » — Wittgenstein, Recherches philosophiques, § 109
+- « Le sens d'un mot est son usage dans la langue. » — Recherches philosophiques, §43
+- « Les questions que nous posons et nos doutes reposent sur ce que certaines propositions sont soustraites au doute, comme les gonds sur lesquels ceux-là tournent. » — De la certitude, §341 (notes posthumes)
+- « Quel est ton but en philosophie ? Montrer à la mouche l'issue hors du piège à mouches. » — Recherches philosophiques, §309
 
 ### [Zhuangzi](../philosophers/zhuangzi.md)
 

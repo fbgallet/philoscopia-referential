@@ -1,0 +1,12 @@
+{
+  "id": "il-m-a-paru-plus-convenable-de-machiavelli",
+  "text": {
+    "fr": "Il m'a paru plus convenable de suivre la vérité effective de la chose que sa représentation imaginaire. Beaucoup ont imaginé des républiques et des principautés qu'on n'a jamais vues ni connues comme existant en réalité.",
+    "en": "It has seemed to me more fitting to go directly to the effectual truth of the thing than to the imagination of it. Many have imagined republics and principalities that have never been seen or known to exist in truth."
+  },
+  "author": { "name": { "fr": "Machiavel", "en": "Machiavelli" }, "kind": "PHILOSOPHER", "slug": "machiavelli" },
+  "work": "the-prince-machiavelli",
+  "source": { "fr": "Le Prince, chap. XV", "en": "The Prince, ch. XV" },
+  "anchors": [{ "axisId": "POLITICAL_IDEAL", "poleId": "POLITICAL_REALISM" }],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

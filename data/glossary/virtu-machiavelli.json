@@ -1,0 +1,12 @@
+{
+  "id": "virtu-machiavelli",
+  "term": { "fr": "Virtù", "en": "Virtù" },
+  "definition": {
+    "fr": "Chez <ph id='machiavelli'>Machiavel</ph>, la virtù n'est pas la vertu morale mais l'excellence propre de l'homme d'action : l'énergie, l'audace, la présence d'esprit et la souplesse par lesquelles il saisit l'<c>occasion</c>, tient tête à la <c id='fortuna'>fortune</c> et impose sa forme aux événements. Un fondateur, un capitaine, un peuple peuvent en être doués. Elle se mesure au succès, non à la bonté, et vaut d'autant plus qu'elle sait s'accorder à la qualité des temps. <ety>De l'italien virtù, du latin virtus, force et valeur, dérivé de vir, l'homme.</ety>",
+    "en": "For <ph id='machiavelli'>Machiavelli</ph>, virtù is not moral virtue but the excellence proper to the man of action: the energy, boldness, presence of mind and suppleness by which he seizes the <c>occasion</c>, stands up to <c id='fortuna'>fortune</c> and imposes his form on events. A founder, a captain, a people can possess it. It is measured by success, not by goodness, and is worth all the more for knowing how to fit the quality of the times. <ety>From the Italian virtù, from the Latin virtus, strength and worth, derived from vir, man.</ety>"
+  },
+  "relatedAxes": ["CONTROL_SCOPE", "ETHICS_FOUNDATION", "HISTORY_MEANING"],
+  "relatedTerms": ["fortuna"],
+  "figure": { "slug": "machiavelli", "name": { "fr": "Machiavel", "en": "Machiavelli" } },
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

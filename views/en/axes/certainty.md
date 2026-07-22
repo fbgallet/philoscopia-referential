@@ -81,6 +81,8 @@ We can hold firm, well-justified beliefs while knowing they might be wrong. Betw
 
 > “Things are no more this than that, nor both at once, nor neither.” — [Pyrrho](../philosophers/pyrrho.md), Aristocles, cited by Eusebius, Preparation for the Gospel, XIV, 18
 
+> “The questions that we raise and our doubts depend on the fact that some propositions are exempt from doubt, are as it were like hinges on which those turn.” — [Wittgenstein](../philosophers/wittgenstein.md), On Certainty, §341 (posthumous notes)
+
 > “When a controversy arises, there will be no more need of disputation between two philosophers than between two accountants. It will suffice to take their pens, sit down, and say: let us calculate.” — [Leibniz](../philosophers/leibniz.md), On the Art of Combinations / Letters
 
 > “What do I know?” — [Michel de Montaigne](../philosophers/montaigne.md), Essays, II, 12, "Apology for Raymond Sebond"

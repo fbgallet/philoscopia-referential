@@ -10,7 +10,7 @@ Philosophe britannique, élève de Wittgenstein, qui relança l'éthique des ver
 
 ## Influencé par
 
-- **[Ludwig Wittgenstein](../philosophers/wittgenstein.md)** (prolonge) : Élève, traductrice et exécutrice littéraire de [Wittgenstein](../philosophers/wittgenstein.md), [Anscombe](../philosophers/anscombe.md) prolonge sa manière : elle porte l'attention au langage ordinaire vers l'action et l'intention, fondant la philosophie de l'action contemporaine.
+- **[Wittgenstein](../philosophers/wittgenstein.md)** (prolonge) : Élève, traductrice et exécutrice littéraire de [Wittgenstein](../philosophers/wittgenstein.md), [Anscombe](../philosophers/anscombe.md) prolonge sa manière : elle porte l'attention au langage ordinaire vers l'action et l'intention, fondant la philosophie de l'action contemporaine.
 
 ---
 

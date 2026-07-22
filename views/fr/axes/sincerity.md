@@ -33,6 +33,10 @@ Dire la vérité est un devoir, mais seulement envers ceux qui y ont droit. Quan
 
 ## Citations
 
+> « Chacun voit ce que tu parais, mais peu sentent ce que tu es. » — [Machiavel](../philosophers/machiavelli.md), Le Prince, chap. XVIII
+
+> « Il faut donc être renard pour connaître les pièges, et lion pour effrayer les loups. » — [Machiavel](../philosophers/machiavelli.md), Le Prince, chap. XVIII
+
 > « Ne dis jamais que tu es philosophe : sois-le. » — [Épictète](../philosophers/epictetus.md), Manuel, §46
 
 > « Si les noms ne sont pas corrects, le langage n'est pas conforme à la vérité des choses ; alors les affaires ne peuvent réussir. » — [Confucius](../philosophers/confucius.md), Entretiens, XIII, 3

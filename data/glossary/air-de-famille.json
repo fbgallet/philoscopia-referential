@@ -1,0 +1,13 @@
+{
+  "id": "air-de-famille",
+  "term": { "fr": "Air de famille", "en": "Family resemblance" },
+  "aliases": { "fr": ["air de famille", "ressemblance de famille"], "en": ["family resemblance", "Familienähnlichkeit"] },
+  "definition": {
+    "fr": "L'air de famille (Familienähnlichkeit) désigne, chez <ph id='wittgenstein'>Wittgenstein</ph>, le mode de parenté des cas que recouvre un même mot général sans qu'aucun trait unique leur soit commun. Comme les membres d'une famille se ressemblent par un réseau de traits qui se chevauchent, les yeux, la démarche, le tempérament, sans qu'un seul soit partagé par tous, les « jeux » n'ont pas d'essence commune, seulement des similitudes croisées. Le concept congédie l'exigence d'une définition par genre et différence.",
+    "en": "Family resemblance (Familienähnlichkeit) designates, for <ph id='wittgenstein'>Wittgenstein</ph>, the kinship of the cases a single general word covers without any one feature being common to them all. Just as the members of a family resemble one another through a network of overlapping traits, the eyes, the gait, the temperament, without a single one being shared by all, \"games\" have no common essence, only criss-crossing similarities. The concept dismisses the demand for a definition by genus and differentia."
+  },
+  "relatedAxes": ["UNIVERSALS", "MEANING", "ESSENCE"],
+  "relatedTerms": ["jeu-de-langage"],
+  "figure": { "slug": "wittgenstein", "name": { "fr": "Wittgenstein", "en": "Wittgenstein" } },
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

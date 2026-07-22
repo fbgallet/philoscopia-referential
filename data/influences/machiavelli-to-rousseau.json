@@ -1,0 +1,16 @@
+{
+  "id": "machiavelli-to-rousseau",
+  "from": { "kind": "PHILOSOPHER", "slug": "machiavelli" },
+  "to": { "kind": "PHILOSOPHER", "slug": "rousseau" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='rousseau'>Rousseau</ph> revendique ouvertement Machiavel : sous couleur de donner des leçons aux rois, <w id='the-prince-machiavelli'>Le Prince</w> en donnerait de grandes aux peuples, « le livre des républicains ». Il hérite du Machiavel des <w id='discourses-on-livy-machiavelli'>Discours</w>, l'amour de la liberté et la méfiance envers les grands, en l'intégrant à sa théorie de la souveraineté populaire.",
+    "en": "<ph id='rousseau'>Rousseau</ph> openly claims Machiavelli: under the guise of teaching kings, <w id='the-prince-machiavelli'>The Prince</w> gives great lessons to peoples, \"the book of republicans.\" He inherits the Machiavelli of the <w id='discourses-on-livy-machiavelli'>Discourses</w>, the love of liberty and the distrust of the great, folding it into his theory of popular sovereignty."
+  },
+  "sources": [
+    { "fr": "Rousseau, Du contrat social, III, 6 (note)", "en": "Rousseau, The Social Contract, III.6 (note)" }
+  ],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

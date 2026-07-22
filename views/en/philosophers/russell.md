@@ -16,7 +16,7 @@ British logician and philosopher: a rationalist and atheist, he holds religious 
 
 ## Influence on
 
-- **[Ludwig Wittgenstein](../philosophers/wittgenstein.md)** (reinterprets) : [Russell](../philosophers/russell.md)'s student at Cambridge, [Wittgenstein](../philosophers/wittgenstein.md) received from him the new logic and analysis as method, but turned that inheritance around: the Tractatus recasts logical atomism into a theory of language as a picture of the world, up to that limit where what matters most "can only show itself". Russell, in turn, acknowledged the depth of his former pupil.
+- **[Wittgenstein](../philosophers/wittgenstein.md)** (reinterprets) : [Russell](../philosophers/russell.md)'s student at Cambridge, [Wittgenstein](../philosophers/wittgenstein.md) received from him the new logic and analysis as method, but turned that inheritance around: the Tractatus recasts logical atomism into a theory of language as a picture of the world, up to that limit where what matters most "can only show itself". Russell, in turn, acknowledged the depth of his former pupil.
 
 ---
 

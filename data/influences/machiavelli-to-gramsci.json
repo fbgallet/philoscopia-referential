@@ -1,0 +1,16 @@
+{
+  "id": "machiavelli-to-gramsci",
+  "from": { "kind": "PHILOSOPHER", "slug": "machiavelli" },
+  "to": { "kind": "PHILOSOPHER", "slug": "gramsci" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='gramsci'>Gramsci</ph> reprend Machiavel dans ses <w>Cahiers de prison</w> : le « Prince moderne » n'est plus un homme mais le parti révolutionnaire, prince collectif qui, tel le mythe machiavélien, cristallise et organise la volonté collective. La virtù du fondateur devient l'hégémonie construite par l'organisation.",
+    "en": "<ph id='gramsci'>Gramsci</ph> takes up Machiavelli in his <w>Prison Notebooks</w>: the \"Modern Prince\" is no longer a man but the revolutionary party, a collective prince that, like the Machiavellian myth, crystallizes and organizes the collective will. The founder's virtù becomes hegemony built through organization."
+  },
+  "sources": [
+    { "fr": "Gramsci, Cahiers de prison, « Notes sur Machiavel » (Le Prince moderne)", "en": "Gramsci, Prison Notebooks, \"Notes on Machiavelli\" (The Modern Prince)" }
+  ],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

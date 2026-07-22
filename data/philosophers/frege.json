@@ -1,0 +1,17 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "frege",
+  "name": { "fr": "Frege", "en": "Frege" },
+  "aliases": { "fr": ["frégéen"], "en": ["Fregean"] },
+  "summary": {
+    "fr": "Logicien et philosophe allemand, fondateur de la logique moderne et une des sources de la philosophie analytique : il tente de refonder l'arithmétique sur la seule logique et distingue le sens (Sinn) de la référence (Bedeutung).",
+    "en": "German logician and philosopher, founder of modern logic and one of the sources of analytic philosophy: he seeks to refound arithmetic on logic alone and distinguishes sense (Sinn) from reference (Bedeutung)."
+  },
+  "nationality": { "fr": "Allemand", "en": "German" },
+  "birth": 1848,
+  "death": 1925,
+  "movements": ["analytic-philosophy"],
+  "updatedAt": "2026-07-22T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

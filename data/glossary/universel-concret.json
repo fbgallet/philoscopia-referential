@@ -1,0 +1,13 @@
+{
+  "id": "universel-concret",
+  "term": { "fr": "Universel concret", "en": "Concrete universal" },
+  "aliases": { "fr": ["universel concret"], "en": ["concrete universal"] },
+  "definition": {
+    "fr": "L'universel concret (das konkrete Allgemeine) est, chez <ph id='hegel'>Hegel</ph>, l'universel qui ne se tient pas au-dessus de ses cas comme une abstraction indifférente, mais qui se particularise lui-même et vit dans ses individus. Contre l'universel abstrait, simple marque commune obtenue en effaçant les différences (« l'animal en général »), le <c>concept</c>, l'État ou l'esprit sont des touts qui se différencient de l'intérieur et n'existent que dans et par leurs moments particuliers.",
+    "en": "The concrete universal (das konkrete Allgemeine) is, for <ph id='hegel'>Hegel</ph>, the universal that does not stand above its cases as an indifferent abstraction, but particularizes itself and lives in its individuals. Against the abstract universal, a mere common mark obtained by erasing differences (\"animal in general\"), the <c>concept</c>, the state or spirit are wholes that differentiate themselves from within and exist only in and through their particular moments."
+  },
+  "relatedAxes": ["UNIVERSALS", "INDIVIDUAL_SOCIETY"],
+  "relatedTerms": ["aufhebung"],
+  "figure": { "slug": "hegel", "name": { "fr": "Hegel", "en": "Hegel" } },
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

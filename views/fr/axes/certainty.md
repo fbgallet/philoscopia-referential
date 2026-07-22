@@ -81,6 +81,8 @@ On peut tenir des croyances solides et justifiées tout en sachant qu'elles pour
 
 > « Les choses ne sont pas plus ceci que cela, ni les deux à la fois, ni ni l'un ni l'autre. » — [Pyrrhon](../philosophers/pyrrho.md), Aristoclès, cité par Eusèbe, Préparation évangélique, XIV, 18
 
+> « Les questions que nous posons et nos doutes reposent sur ce que certaines propositions sont soustraites au doute, comme les gonds sur lesquels ceux-là tournent. » — [Wittgenstein](../philosophers/wittgenstein.md), De la certitude, §341 (notes posthumes)
+
 > « Quand surgira une controverse, il n'y aura pas plus besoin de discuter entre deux philosophes qu'entre deux comptables. Il leur suffira de prendre la plume, de s'asseoir et de se dire : calculons. » — [Leibniz](../philosophers/leibniz.md), De l'art combinatoire / Lettres
 
 > « Que sais-je ? » — [Michel de Montaigne](../philosophers/montaigne.md), Essais, II, 12, « Apologie de Raimond Sebond »

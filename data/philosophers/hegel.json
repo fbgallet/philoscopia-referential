@@ -1,20 +1,534 @@
 {
   "kind": "PHILOSOPHER",
-  "stub": true,
   "id": "hegel",
   "name": { "fr": "Hegel", "en": "Hegel" },
+  "fullName": {
+    "fr": "Georg Wilhelm Friedrich Hegel",
+    "en": "Georg Wilhelm Friedrich Hegel"
+  },
+  "tagline": {
+    "fr": "Penser le réel comme un procès rationnel qui avance par ses propres contradictions : rien n'a de vérité isolé, tout ne se comprend que dans le tout, et l'esprit ne se saisit qu'après coup.",
+    "en": "Thinking the real as a rational process that advances through its own contradictions: nothing has truth in isolation, all is understood only within the whole, and spirit grasps itself only after the fact."
+  },
   "aliases": {
     "fr": ["hégélien", "hégélienne", "hégélianisme"],
     "en": ["Hegelian", "Hegelianism"]
   },
   "summary": {
-    "fr": "Philosophe allemand de l'esprit et de l'histoire : il pense le réel comme déploiement rationnel, et la liberté comme accomplie dans les institutions de l'État, non contre elles.",
-    "en": "German philosopher of spirit and history: he conceives the real as a rational unfolding, and freedom as fulfilled within the institutions of the state, not against them."
+    "fr": "Sommet et point de bascule de l'<mv id='german-idealism'>idéalisme allemand</mv>, il bâtit après <ph id='kant'>Kant</ph>, <ph id='fichte'>Fichte</ph> et <ph id='schelling'>Schelling</ph> le système le plus ambitieux de la philosophie moderne : une <c>dialectique</c> où l'être, la nature et l'esprit se déploient et se comprennent comme les moments d'un même procès rationnel. Il achève à Iéna la <w id='phenomenology-of-spirit-hegel'>Phénoménologie de l'esprit</w> en 1806, à l'heure où Napoléon entre dans la ville (elle paraît l'année suivante), rédige à Nuremberg la <w id='science-of-logic-hegel'>Science de la logique</w> (1812-1816), puis règne depuis Berlin sur la vie philosophique allemande, où paraissent les <w id='philosophy-of-right-hegel'>Principes de la philosophie du droit</w>. À sa mort, son école éclate entre hégéliens de droite et de gauche, dont sort <ph id='marx'>Marx</ph> : peu de pensées auront autant marqué l'histoire, la politique et l'art des deux siècles suivants.",
+    "en": "The summit and turning point of <mv id='german-idealism'>German idealism</mv>, he builds, after <ph id='kant'>Kant</ph>, <ph id='fichte'>Fichte</ph> and <ph id='schelling'>Schelling</ph>, the most ambitious system of modern philosophy: a <c>dialectic</c> in which being, nature and spirit unfold and understand themselves as the moments of one rational process. He finishes the <w id='phenomenology-of-spirit-hegel'>Phenomenology of Spirit</w> at Jena in 1806, as Napoleon enters the city (it appears the following year), writes the <w id='science-of-logic-hegel'>Science of Logic</w> (1812–1816) at Nuremberg, then, from Berlin, reigns over German philosophical life, where the <w id='philosophy-of-right-hegel'>Elements of the Philosophy of Right</w> appear. At his death his school splits between Hegelian right and left, out of which comes <ph id='marx'>Marx</ph>: few bodies of thought have so marked the history, politics and art of the two following centuries."
   },
   "nationality": { "fr": "Allemand", "en": "German" },
   "birth": 1770,
   "death": 1831,
   "movements": ["german-idealism"],
-  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "entries": [
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 1, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le vrai ne se laisse pas penser comme une matière inerte que l'esprit observerait du dehors : il faut le saisir aussi comme sujet. Le réel est l'<c>Idée</c> qui se déploie, s'extériorise, puis revient à soi en se connaissant ; sa structure est rationnelle, et la matière n'a de vérité que par la pensée qui la traverse. <dif>Que la portée de cet idéalisme soit cosmique ou seulement logique partage encore les lecteurs.</dif>",
+          "en": "The true cannot be thought as inert matter that mind would observe from outside: it must be grasped also as subject. The real is the <c>Idea</c> that unfolds, externalizes itself, then returns to itself in knowing itself; its structure is rational, and matter has truth only through the thought that runs through it. <dif>Whether the reach of this idealism is cosmic or merely logical still divides readers.</dif>"
+        },
+        "references": [
+          { "fr": "Phénoménologie de l'esprit, Préface", "en": "Phenomenology of Spirit, Preface" },
+          { "fr": "Science de la logique, Doctrine du concept", "en": "Science of Logic, Doctrine of the Concept" }
+        ],
+        "quoteId": "tout-depend-de-ceci-saisir-et-hegel",
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "BEING_BECOMING",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.8 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Rien de fixe n'est premier : l'être pur, entièrement indéterminé, est indiscernable du néant, et leur vérité est le <c>devenir</c>. Toute détermination naît d'une négation, et toute figure porte en elle la contradiction qui la pousse au-delà d'elle-même, pour être <c id='aufhebung'>relevée</c> (aufgehoben) dans une figure plus riche. Contre l'être immobile de <ph id='parmenides'>Parménide</ph>, la vérité est procès. La triade « thèse, antithèse, synthèse » n'est d'ailleurs pas de lui.",
+          "en": "Nothing fixed comes first: pure being, wholly indeterminate, is indistinguishable from nothing, and their truth is <c>becoming</c>. Every determination arises from a negation, and every figure carries within it the contradiction that drives it beyond itself, to be <c id='aufhebung'>sublated</c> (aufgehoben) in a richer figure. Against <ph id='parmenides'>Parmenides</ph>'s motionless being, truth is process. The triad \"thesis, antithesis, synthesis\" is, incidentally, not his."
+        },
+        "references": [
+          { "fr": "Science de la logique, Doctrine de l'être (l'être, le néant, le devenir)", "en": "Science of Logic, Doctrine of Being (being, nothing, becoming)" },
+          { "fr": "Encyclopédie des sciences philosophiques, §§86-88", "en": "Encyclopedia of the Philosophical Sciences, §§86-88" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HISTORY_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.95 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'histoire n'est pas un chaos d'accidents mais un procès orienté : le progrès dans la conscience de la liberté, de l'Orient où un seul est libre au monde moderne où tous le sont. Sa direction ne s'impose pourtant pas comme une fatalité linéaire : elle s'accomplit à travers la contingence et les passions. C'est la <c id='ruse-de-la-raison'>ruse de la raison</c>, qui se sert des fins privées des grands hommes pour réaliser, à leur insu, sa fin universelle. Le tribunal de l'histoire, mot emprunté à <per>Schiller</per>, juge les peuples.",
+          "en": "History is not a chaos of accidents but an oriented process: progress in the consciousness of freedom, from the Orient where one is free to the modern world where all are. Yet its direction is not imposed as a linear fate: it is accomplished through contingency and passion. This is the <c id='ruse-de-la-raison'>cunning of reason</c>, which uses the private ends of great men to realize, unbeknownst to them, its universal end. The court of history, a phrase borrowed from <per>Schiller</per>, judges the peoples."
+        },
+        "references": [
+          { "fr": "Leçons sur la philosophie de l'histoire, Introduction (Leçons)", "en": "Lectures on the Philosophy of History, Introduction (Lectures)" },
+          { "fr": "Principes de la philosophie du droit, §340-342", "en": "Elements of the Philosophy of Right, §340-342" }
+        ],
+        "quoteId": "l-histoire-du-monde-est-le-hegel",
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "INDIVIDUAL_SOCIETY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.9 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La société n'est pas une somme d'individus qui lui préexisteraient : c'est le tout éthique, la <c id='sittlichkeit'>Sittlichkeit</c>, qui a sur eux la priorité, non chronologique mais conceptuelle, et où seul ils accèdent à leur liberté substantielle. Famille, société civile et État sont les moments d'un <c id='universel-concret'>universel concret</c> qui se particularise en ses membres et vit en eux. L'individu abstrait, antérieur à toute communauté, est une fiction.",
+          "en": "Society is not a sum of individuals that would preexist it: it is the ethical whole, <c id='sittlichkeit'>Sittlichkeit</c>, which has priority over them, not chronological but conceptual, and in which alone they attain their substantial freedom. Family, civil society and state are the moments of a <c id='universel-concret'>concrete universal</c> that particularizes itself in its members and lives in them. The abstract individual, prior to any community, is a fiction."
+        },
+        "references": [
+          { "fr": "Principes de la philosophie du droit, §142-157 (la vie éthique)", "en": "Elements of the Philosophy of Right, §142-157 (ethical life)" },
+          { "fr": "Principes de la philosophie du droit, §257-258 (l'État)", "en": "Elements of the Philosophy of Right, §257-258 (the state)" }
+        ],
+        "quoteId": "moi-qui-est-nous-et-nous-hegel",
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "POLITICAL_LIBERTY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.05, 0.85, 0.1, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Être libre, ce n'est pas suivre son bon plaisir : le libre arbitre (<c>Willkür</c>) qui choisit entre des désirs donnés n'en produit pas le contenu, il n'est qu'une liberté apparente, celle du vide qui, en politique, tourne à la fureur de destruction. La liberté véritable est la volonté qui se veut elle-même et se trouve <q>chez soi dans l'autre</q> : elle s'accomplit dans les institutions rationnelles, non contre elles.",
+          "en": "To be free is not to follow one's caprice: the arbitrary will (<c>Willkür</c>) that chooses among given desires does not produce their content; it is only an apparent freedom, the freedom of the void that, in politics, turns into the frenzy of destruction. True freedom is the will that wills itself and finds itself <q>at home in the other</q>: it is fulfilled in rational institutions, not against them."
+        },
+        "references": [
+          { "fr": "Principes de la philosophie du droit, Introduction §§4-29 (§5 la liberté du vide, §15 le Willkür)", "en": "Elements of the Philosophy of Right, Introduction §§4-29 (§5 the freedom of the void, §15 Willkür)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRUTH_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.05, 0.9, 0.05] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La vérité n'est pas l'accord d'une proposition isolée avec un fait : elle réside dans le système entier qui se développe et se médiatise lui-même. Une détermination prise à part est toujours unilatérale ; elle ne devient vraie qu'à sa place dans l'ensemble qui l'engendre et la dépasse. Ce n'est pas un simple accord interne des énoncés : le vrai est l'adéquation d'une chose à son concept, atteinte quand le tout s'est pleinement déployé.",
+          "en": "Truth is not the agreement of an isolated proposition with a fact: it resides in the entire system that develops and mediates itself. A determination taken apart is always one-sided; it becomes true only in its place within the whole that engenders and surpasses it. This is not a mere internal consistency of statements: the true is the adequacy of a thing to its concept, reached when the whole has fully unfolded."
+        },
+        "references": [
+          { "fr": "Phénoménologie de l'esprit, Préface", "en": "Phenomenology of Spirit, Preface" }
+        ],
+        "quoteId": "le-vrai-est-le-tout-hegel",
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "METAPHILOSOPHY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.85, 0, 0.15, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La philosophie ne prescrit pas au monde ce qu'il doit être : elle vient toujours trop tard pour cela, quand une figure de la vie a déjà vieilli et qu'on ne peut plus que la comprendre. Elle saisit son temps par la pensée, elle ne le devance pas. D'où sa réserve envers les réformateurs qui opposent au réel le vœu d'un devoir-être. Et <dif>« ce qui est rationnel est effectif » ne bénit pas le donné</dif> : effectif (wirklich) ne désigne pas tout ce qui existe, mais ce qui accomplit son concept.",
+          "en": "Philosophy does not prescribe to the world what it ought to be: it always comes too late for that, when a shape of life has already grown old and can only be understood. It grasps its own time in thought, it does not run ahead of it. Hence its reserve toward reformers who set against the real the wish of an ought-to-be. And <dif>\"what is rational is actual\" does not bless the given</dif>: actual (wirklich) does not mean everything that exists, but what fulfills its concept."
+        },
+        "references": [
+          { "fr": "Principes de la philosophie du droit, Préface", "en": "Elements of the Philosophy of Right, Preface" },
+          { "fr": "Encyclopédie des sciences philosophiques, §6 remarque (le sens de « effectif »)", "en": "Encyclopedia of the Philosophical Sciences, §6 Remark (the sense of \"actual\")" }
+        ],
+        "quoteId": "la-chouette-de-minerve-ne-prend-hegel",
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SOCIAL_CONTRACT",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.9 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'État n'est pas un contrat par lequel des individus déjà constitués s'associeraient pour protéger leurs intérêts : ce serait le confondre avec la société civile et dissoudre le substantiel dans le choix arbitraire. Il est l'effectivité de l'Idée éthique, premier par rapport aux individus non dans le temps mais par le concept, le tout où seuls l'universel et le particulier se réconcilient. Hegel crédite <ph id='rousseau'>Rousseau</ph> d'avoir fondé l'État sur la volonté et la liberté, mais lui refuse d'en faire la volonté arbitraire d'individus additionnés plutôt que la volonté rationnelle.",
+          "en": "The state is not a contract by which already-constituted individuals would associate to protect their interests: that would confuse it with civil society and dissolve the substantial into arbitrary choice. It is the actuality of the ethical Idea, first in relation to individuals not in time but in concept, the whole in which alone the universal and the particular are reconciled. Hegel credits <ph id='rousseau'>Rousseau</ph> with grounding the state on will and freedom, but refuses to make it the arbitrary will of summed individuals rather than the rational will."
+        },
+        "references": [
+          { "fr": "Principes de la philosophie du droit, §257-258 (et remarque du §258)", "en": "Elements of the Philosophy of Right, §257-258 (and the §258 Remark)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.8 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le doute et le scepticisme ne sont pas le dernier mot mais un moment que la pensée traverse et intègre : la <w id='phenomenology-of-spirit-hegel'>Phénoménologie</w> est le chemin par lequel la conscience s'élève au <c>savoir absolu</c>, où l'objet n'est plus un en-soi étranger mais l'esprit lui-même. Le système atteint donc une vérité définitive, non par un dogme posé d'emblée, mais comme résultat d'un parcours qui a éprouvé le négatif. Ce savoir absolu n'est pas une omniscience, mais la forme où le sujet se reconnaît dans l'objet.",
+          "en": "Doubt and skepticism are not the last word but a moment thought passes through and integrates: the <w id='phenomenology-of-spirit-hegel'>Phenomenology</w> is the path by which consciousness rises to <c>absolute knowing</c>, where the object is no longer an alien in-itself but spirit itself. The system therefore attains a definitive truth, not by a dogma posited at the outset, but as the result of a course that has endured the negative. This absolute knowing is not omniscience, but the form in which the subject recognizes itself in the object."
+        },
+        "references": [
+          { "fr": "Phénoménologie de l'esprit, ch. VIII (le savoir absolu)", "en": "Phenomenology of Spirit, ch. VIII (absolute knowing)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "PUNISHMENT",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.9, 0.05, 0.05, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le crime nie le droit ; la peine est la <q>négation de cette négation</q>, qui annule le crime et rétablit le droit. La dissuasion traite le criminel comme un chien qu'on menace du bâton ; le rétributivisme, lui, l'honore comme un être rationnel, car sa peine est contenue dans son acte même et constitue son propre droit. La mesure n'est pas le talion littéral, mais l'équivalence de valeur entre le crime et la peine.",
+          "en": "Crime negates right; punishment is the <q>negation of that negation</q>, which annuls the crime and restores right. Deterrence treats the criminal like a dog threatened with a stick; retributivism, by contrast, honors him as a rational being, for his punishment is contained in his very deed and constitutes his own right. The measure is not literal like-for-like, but the equivalence of value between crime and punishment."
+        },
+        "references": [
+          { "fr": "Principes de la philosophie du droit, §90-103 (§99 la négation de la négation, §100 le criminel honoré, §99 add. le bâton et le chien)", "en": "Elements of the Philosophy of Right, §90-103 (§99 negation of the negation, §100 the criminal honored, §99 Add. the stick and the dog)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "FAITH_REASON",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 0.9, 0, 0.1] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Foi et raison ne s'opposent pas : religion et philosophie ont le même objet, le vrai, mais sous deux formes. La religion le saisit en <c>représentations</c> (Vorstellung), récits et images ; la philosophie le pense dans le <c>concept</c> (Begriff). La philosophie ne détruit donc pas la religion : elle en relève le contenu à sa forme la plus haute.",
+          "en": "Faith and reason do not oppose each other: religion and philosophy have the same object, the true, but under two forms. Religion grasps it in <c>representations</c> (Vorstellung), narratives and images; philosophy thinks it in the <c>concept</c> (Begriff). Philosophy therefore does not destroy religion: it raises its content to its highest form."
+        },
+        "references": [
+          { "fr": "Encyclopédie des sciences philosophiques, §573", "en": "Encyclopedia of the Philosophical Sciences, §573" },
+          { "fr": "Leçons sur la philosophie de la religion (Leçons)", "en": "Lectures on the Philosophy of Religion (Lectures)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "PROBLEM_OF_EVIL",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.9, 0.05, 0.05, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La philosophie de l'histoire est une <c>théodicée</c> : elle justifie la raison à l'œuvre dans le monde, non en niant le mal, mais en le traversant. L'histoire est un <kw>abattoir</kw> où sont sacrifiés le bonheur des peuples et la vertu des individus, et pourtant rien de grand ne s'y fait sans passion : le négatif est le moteur par lequel l'esprit s'accomplit. C'est une théodicée sans providence extérieure, immanente au procès.",
+          "en": "The philosophy of history is a <c>theodicy</c>: it justifies reason at work in the world, not by denying evil but by passing through it. History is a <kw>slaughter-bench</kw> on which the happiness of peoples and the virtue of individuals are sacrificed, and yet nothing great is done there without passion: the negative is the motor by which spirit fulfills itself. It is a theodicy without external providence, immanent to the process."
+        },
+        "references": [
+          { "fr": "Leçons sur la philosophie de l'histoire, Introduction (Leçons)", "en": "Lectures on the Philosophy of History, Introduction (Lectures)" },
+          { "fr": "Phénoménologie de l'esprit, Préface (la puissance du négatif)", "en": "Phenomenology of Spirit, Preface (the power of the negative)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.5 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le divin n'est pas un au-delà séparé posé hors du monde : l'Absolu est l'<c id='geist'>esprit</c> qui vient à soi dans la nature, l'histoire et la conscience humaine. Il n'y a pas d'arrière-monde intact, mais un procès où l'infini se réalise dans le fini et s'y reconnaît. Reste que cet Absolu excède tout moment fini, ce qui interdit d'en faire un pur naturalisme immanent : d'où une position d'immanence, mais nuancée.",
+          "en": "The divine is not a separate beyond posited outside the world: the Absolute is <c id='geist'>spirit</c> coming to itself in nature, history and human consciousness. There is no intact world-behind, but a process in which the infinite realizes itself in the finite and recognizes itself there. Yet this Absolute exceeds every finite moment, which forbids reducing it to a pure immanent naturalism: hence a position of immanence, but a qualified one."
+        },
+        "references": [
+          { "fr": "Encyclopédie des sciences philosophiques, §553-577 (l'esprit absolu)", "en": "Encyclopedia of the Philosophical Sciences, §553-577 (absolute spirit)" },
+          { "fr": "Leçons sur la philosophie de la religion (Leçons)", "en": "Lectures on the Philosophy of Religion (Lectures)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.4 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Hegel affirme Dieu, mais comme <c id='geist'>Esprit</c> qui se sait, non comme le créateur transcendant et personnel du théisme classique : la religion et la philosophie en ont le même contenu, que la première se représente et que la seconde pense. Ce Dieu ainsi repensé fut lu aussi bien comme le Dieu chrétien (hégéliens de droite) que comme l'humanité divinisée (hégéliens de gauche, dont <ph id='feuerbach'>Feuerbach</ph> et <ph id='marx'>Marx</ph>) : <dif>le débat sur son théisme reste ouvert</dif>.",
+          "en": "Hegel affirms God, but as <c id='geist'>Spirit</c> that knows itself, not as the transcendent, personal creator of classical theism: religion and philosophy have the same content, which the former represents and the latter thinks. This God, thus rethought, was read both as the Christian God (Right Hegelians) and as divinized humanity (Left Hegelians, among them <ph id='feuerbach'>Feuerbach</ph> and <ph id='marx'>Marx</ph>): <dif>the debate over his theism remains open</dif>."
+        },
+        "references": [
+          { "fr": "Encyclopédie des sciences philosophiques, §1 et §573", "en": "Encyclopedia of the Philosophical Sciences, §1 and §573" },
+          { "fr": "Leçons sur la philosophie de la religion (Leçons)", "en": "Lectures on the Philosophy of Religion (Lectures)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "COSMIC_OUTLOOK",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.75 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Malgré l'abattoir de l'histoire, le monde est au fond rationnel et ordonné vers le bien : le mal et la souffrance sont des moments que le tout <c id='aufhebung'>relève</c> et réconcilie. La <c>réconciliation</c> (Versöhnung) de l'esprit avec l'effectivité, non la résignation au tragique, est le dernier mot du système.",
+          "en": "Despite the slaughter-bench of history, the world is at bottom rational and ordered toward the good: evil and suffering are moments that the whole <c id='aufhebung'>sublates</c> and reconciles. The <c>reconciliation</c> (Versöhnung) of spirit with actuality, not resignation to the tragic, is the last word of the system."
+        },
+        "references": [
+          { "fr": "Principes de la philosophie du droit, Préface", "en": "Elements of the Philosophy of Right, Preface" },
+          { "fr": "Leçons sur la philosophie de l'histoire (Leçons)", "en": "Lectures on the Philosophy of History (Lectures)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.05, 0.2, 0.75, 0] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La morale du seul devoir, chez <ph id='kant'>Kant</ph>, est un <kw>formalisme vide</kw> : de la pure forme de la loi, l'universalisabilité sans contradiction, aucun devoir déterminé ne se déduit, et l'on peut y faire tenir « qu'il y ait de la propriété » comme le contraire. Le bien n'a de contenu que dans la <c id='sittlichkeit'>vie éthique</c> concrète, les mœurs et institutions où l'individu se forme, non dans la conscience morale abstraite (Moralität).",
+          "en": "The morality of duty alone, in <ph id='kant'>Kant</ph>, is an <kw>empty formalism</kw>: from the mere form of law, non-contradictory universalizability, no determinate duty follows, and one can make it hold that \"there ought to be property\" as well as the contrary. The good has content only in concrete <c id='sittlichkeit'>ethical life</c>, the mores and institutions in which the individual is formed, not in abstract moral conscience (Moralität)."
+        },
+        "references": [
+          { "fr": "Principes de la philosophie du droit, §135 remarque (le formalisme vide)", "en": "Elements of the Philosophy of Right, §135 Remark (the empty formalism)" },
+          { "fr": "Principes de la philosophie du droit, §142 sq. (la Sittlichkeit)", "en": "Elements of the Philosophy of Right, §142 ff. (Sittlichkeit)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MORAL_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.05, 0.55, 0, 0.4] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La question n'est plus ici ce qui rend une action bonne, mais d'où la morale tire son autorité. Contre le commandement d'un Dieu transcendant comme contre la loi purement formelle de la raison, et sans se réduire au sentiment, Hegel enracine l'obligation dans la raison devenue concrète : l'esprit objectivé dans les mœurs et les institutions d'une communauté, les <c>Sitten</c> dont la <c id='sittlichkeit'>Sittlichkeit</c> tire son nom. L'autorité du bien est ainsi immanente et historique, mais rationnelle, non une convention arbitraire et révisable.",
+          "en": "The question here is no longer what makes an action good, but where morality draws its authority. Against the command of a transcendent God as against the purely formal law of reason, and without reducing to sentiment, Hegel roots obligation in reason become concrete: spirit objectified in the mores and institutions of a community, the <c>Sitten</c> from which <c id='sittlichkeit'>Sittlichkeit</c> takes its name. The authority of the good is thus immanent and historical, yet rational, not an arbitrary and revisable convention."
+        },
+        "references": [
+          { "fr": "Principes de la philosophie du droit, §142-156 (les mœurs, la Sittlichkeit)", "en": "Elements of the Philosophy of Right, §142-156 (mores, Sittlichkeit)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "UNIVERSALS",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.65 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Contre l'universel abstrait, simple marque commune obtenue en effaçant les différences, Hegel pense l'<c id='universel-concret'>universel concret</c> : un universel qui se particularise lui-même et vit dans ses individus, comme le concept ou l'État. Les universaux sont donc réels, mais comme structure qui s'actualise, ni Formes séparées ni purs noms.",
+          "en": "Against the abstract universal, a mere common mark obtained by erasing differences, Hegel thinks the <c id='universel-concret'>concrete universal</c>: a universal that particularizes itself and lives in its individuals, like the concept or the state. Universals are therefore real, but as a structure that actualizes itself, neither separate Forms nor mere names."
+        },
+        "references": [
+          { "fr": "Science de la logique, Doctrine du concept", "en": "Science of Logic, Doctrine of the Concept" },
+          { "fr": "Encyclopédie des sciences philosophiques, §163-165", "en": "Encyclopedia of the Philosophical Sciences, §163-165" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CAUSALITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.1, 0.85, 0.05] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La nature et l'esprit ne s'expliquent pas par le seul mécanisme : une téléologie immanente y est à l'œuvre, non un dessein imposé du dehors, mais la fin que le concept se donne à lui-même en se réalisant. Le tout précède et oriente le développement de ses parties.",
+          "en": "Nature and spirit are not explained by mechanism alone: an immanent teleology is at work in them, not a design imposed from outside, but the end the concept gives itself in realizing itself. The whole precedes and orients the development of its parts."
+        },
+        "references": [
+          { "fr": "Encyclopédie des sciences philosophiques, §204-212 (la téléologie)", "en": "Encyclopedia of the Philosophical Sciences, §204-212 (teleology)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.7 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La souffrance et le négatif ne sont pas de purs maux à supprimer : ils sont le <q>travail du négatif</q>, la puissance par laquelle l'esprit se déchire, s'éprouve et s'élève. La vie de l'esprit est celle qui « supporte la mort et se maintient en elle » : rien ne mûrit sans passer par la déchirure.",
+          "en": "Suffering and the negative are not pure evils to be abolished: they are the <q>labour of the negative</q>, the power by which spirit tears itself apart, tests itself and rises. The life of spirit is the one that \"endures death and maintains itself in it\": nothing ripens without passing through the rending."
+        },
+        "references": [
+          { "fr": "Phénoménologie de l'esprit, Préface (la puissance du négatif)", "en": "Phenomenology of Spirit, Preface (the power of the negative)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "WORK_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.65, 0.35, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le travail forme celui qui l'accomplit : c'est en façonnant la chose que le serf de la <c>dialectique du maître et de l'esclave</c> se donne une conscience de soi que le maître, jouisseur oisif, a perdue. Mais Hegel voit aussi, dans la société civile moderne, le travail qui dépossède et engendre la plèbe misérable, amorçant l'analyse de l'<c id='alienation'>aliénation</c> que <ph id='marx'>Marx</ph> reprendra.",
+          "en": "Work forms the one who performs it: it is by shaping the thing that the bondsman of the <c>master–slave dialectic</c> gains a self-consciousness that the master, an idle consumer, has lost. But Hegel also sees, in modern civil society, the work that dispossesses and produces the wretched rabble, beginning the analysis of <c id='alienation'>alienation</c> that <ph id='marx'>Marx</ph> would take up."
+        },
+        "references": [
+          { "fr": "Phénoménologie de l'esprit, ch. IV (maître et esclave)", "en": "Phenomenology of Spirit, ch. IV (lordship and bondage)" },
+          { "fr": "Principes de la philosophie du droit, §189-245 (système des besoins, la plèbe)", "en": "Elements of the Philosophy of Right, §189-245 (the system of needs, the rabble)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ART_PURPOSE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.05, 0.9, 0.05] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'art n'a pas pour seule fin le plaisir : il donne à l'Idée une forme sensible, et il est ainsi l'une des trois manières, avec la religion et la philosophie, dont l'esprit absolu se sait. Mais parce que l'intériorité moderne déborde toute forme sensible, l'art, du côté de sa vocation la plus haute, est pour nous « chose du passé » : non qu'on cesse d'en produire, mais qu'il n'est plus le lieu où se dit le plus haut.",
+          "en": "Art's sole end is not pleasure: it gives the Idea a sensuous form, and is thus one of the three ways, with religion and philosophy, in which absolute spirit knows itself. But because modern inwardness overflows every sensuous form, art, on the side of its highest vocation, is for us \"a thing of the past\": not that we stop making it, but that it is no longer where the highest is uttered."
+        },
+        "references": [
+          { "fr": "Leçons d'esthétique, Introduction (Leçons)", "en": "Lectures on Aesthetics, Introduction (Lectures)" }
+        ],
+        "quoteId": "l-apparaitre-sensible-de-l-idee-hegel",
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "AUTHORITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.4 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'État rationnel n'est ni le pouvoir arbitraire d'un maître ni l'absence d'autorité : Hegel défend une monarchie constitutionnelle articulée en pouvoirs, corporations et états (Stände), où l'autorité vaut par sa rationalité et non par la seule force. L'ordre est nécessaire, mais un ordre où la loi rationnelle prime.",
+          "en": "The rational state is neither the arbitrary power of a master nor the absence of authority: Hegel defends a constitutional monarchy articulated into powers, corporations and estates (Stände), where authority holds by its rationality and not by force alone. Order is necessary, but an order in which rational law prevails."
+        },
+        "references": [
+          { "fr": "Principes de la philosophie du droit, §273-320 (la constitution)", "en": "Elements of the Philosophy of Right, §273-320 (the constitution)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "WHO_DECIDES",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.35 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Hegel se défie de la démocratie directe, où le grand nombre risque de n'être qu'une masse informe livrée à l'opinion : la volonté rationnelle s'incarne d'abord dans les institutions et la <kw>classe universelle</kw> des fonctionnaires, non dans le seul suffrage de tous. Mais les corporations, les états (Stände) et l'opinion publique donnent au grand nombre une voix médiatisée : ce n'est pas une pure technocratie, plutôt une compétence ordonnée où le nombre est représenté sans être souverain.",
+          "en": "Hegel distrusts direct democracy, where the many risk being but a formless mass given over to opinion: the rational will is embodied first in institutions and in the <kw>universal class</kw> of civil servants, not in the vote of all alone. But the corporations, the estates (Stände) and public opinion give the many a mediated voice: it is not a pure technocracy, rather an ordered competence in which the many are represented without being sovereign."
+        },
+        "references": [
+          { "fr": "Principes de la philosophie du droit, §287-297 et §303-305 (le pouvoir gouvernemental, la classe universelle)", "en": "Elements of the Philosophy of Right, §287-297 and §303-305 (the executive, the universal class)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MORAL_RESPONSIBILITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.9, 0.1, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Tenir le criminel pour responsable et lui infliger ce qu'il mérite, c'est l'honorer comme un être rationnel, auteur de son acte, et non le traiter en animal qu'on dresse par la menace. Le mérite et la faute sont réels, non de simples instruments d'utilité sociale.",
+          "en": "To hold the criminal responsible and inflict on him what he deserves is to honor him as a rational being, author of his deed, and not to treat him as an animal trained by threat. Merit and fault are real, not mere instruments of social utility."
+        },
+        "references": [
+          { "fr": "Principes de la philosophie du droit, §100", "en": "Elements of the Philosophy of Right, §100" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.15 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La liberté véritable est une self-détermination réconciliée avec la nécessité : être libre, c'est vouloir rationnellement et se reconnaître dans ce qui nous détermine, non échapper à toute détermination. D'où un compatibilisme, à égale distance du libre arbitre indéterminé qui choisirait sans raison et du déterminisme qui nierait la volonté.",
+          "en": "True freedom is a self-determination reconciled with necessity: to be free is to will rationally and to recognize oneself in what determines us, not to escape all determination. Hence a compatibilism, equidistant from the indeterminate free will that would choose without reason and the determinism that would deny the will."
+        },
+        "references": [
+          { "fr": "Principes de la philosophie du droit, Introduction §4-7", "en": "Elements of the Philosophy of Right, Introduction §4-7" }
+        ],
+        "strength": "MEDIUM"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "REALITY_NATURE",
+      "thesis": {
+        "fr": "Le vrai ne se pense pas comme une substance inerte que l'esprit connaîtrait du dehors : il est aussi sujet, l'<c>Idée</c> qui se déploie, s'extériorise et revient à soi en se sachant. C'est l'idéalisme absolu.",
+        "en": "The true is not to be thought as an inert substance that mind would know from outside: it is also subject, the <c>Idea</c> that unfolds, externalizes itself and returns to itself in knowing itself. This is absolute idealism."
+      }
+    },
+    {
+      "axisId": "BEING_BECOMING",
+      "thesis": {
+        "fr": "Rien de fixe n'est premier : l'être pur, indéterminé, est indiscernable du néant, et leur vérité est le <c>devenir</c> ; toute figure porte la contradiction qui la <c id='aufhebung'>relève</c> (aufhebt) plus haut.",
+        "en": "Nothing fixed comes first: pure being, indeterminate, is indistinguishable from nothing, and their truth is <c>becoming</c>; every figure carries the contradiction that <c id='aufhebung'>sublates</c> (aufhebt) it to a higher level."
+      }
+    },
+    {
+      "axisId": "HISTORY_MEANING",
+      "thesis": {
+        "fr": "L'histoire n'est pas un chaos d'accidents mais un procès orienté vers la liberté : par la <c id='ruse-de-la-raison'>ruse de la raison</c>, les passions des grands hommes accomplissent, à leur insu, une fin universelle qui les dépasse.",
+        "en": "History is not a chaos of accidents but a process oriented toward freedom: through the <c id='ruse-de-la-raison'>cunning of reason</c>, the passions of great men accomplish, unbeknownst to them, a universal end that surpasses them."
+      }
+    },
+    {
+      "axisId": "INDIVIDUAL_SOCIETY",
+      "thesis": {
+        "fr": "L'individu n'a sa liberté substantielle que dans le tout éthique qui le précède : la <c id='sittlichkeit'>vie éthique</c> n'est pas une contrainte extérieure, elle est la substance où il devient enfin lui-même.",
+        "en": "The individual has substantial freedom only within the ethical whole that precedes them: <c id='sittlichkeit'>ethical life</c> is not an external constraint, it is the substance in which they finally become themselves."
+      }
+    },
+    {
+      "axisId": "POLITICAL_LIBERTY",
+      "thesis": {
+        "fr": "Être libre n'est pas suivre son bon plaisir (<c>Willkür</c>) : c'est se déterminer par la raison et <q>être chez soi dans l'autre</q> ; la liberté ne s'affirme pas contre les institutions, elle s'y accomplit.",
+        "en": "To be free is not to follow one's caprice (<c>Willkür</c>): it is to determine oneself by reason and to <q>be at home in the other</q>; freedom is not asserted against institutions, it is fulfilled in them."
+      }
+    },
+    {
+      "axisId": "TRUTH_NATURE",
+      "thesis": {
+        "fr": "Aucune vérité ne tient isolée : elle n'est réelle que comme le système entier qui se développe et se médiatise lui-même ; une proposition prise à part est toujours unilatérale, vraie seulement à sa place dans l'ensemble qui la dépasse.",
+        "en": "No truth stands alone: it is real only as the entire system that develops and mediates itself; a proposition taken in isolation is always one-sided, true only in its place within the whole that surpasses it."
+      }
+    }
+  ],
+  "updatedAt": "2026-07-22T00:00:00.000Z",
   "validation": { "method": "NOT_VALIDATED" }
 }

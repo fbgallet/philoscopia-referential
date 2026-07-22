@@ -285,6 +285,7 @@ Ce n'est pas la vérité qui corrompt, c'est la présomption : on ne s'égare po
 ## Influencé par
 
 - **[Hobbes](../philosophers/hobbes.md)** (réagit contre) : [Rousseau](../philosophers/rousseau.md) renverse l'[état de nature](../glossary/etat-de-nature.md) de [Hobbes](../philosophers/hobbes.md) : loin d'être une « guerre de tous contre tous », il est paisible, et l'homme y est naturellement bon, mû par l'amour de soi et la [pitié](../glossary/pitie.md), non par la peur et l'orgueil. Hobbes, lui reproche Rousseau, a projeté sur l'homme naturel les passions de l'homme déjà social ; ce n'est pas la nature mais la société qui rend l'homme méchant.
+- **[Machiavel](../philosophers/machiavelli.md)** (réinterprète) : [Rousseau](../philosophers/rousseau.md) revendique ouvertement Machiavel : sous couleur de donner des leçons aux rois, *[Le Prince](../works/the-prince-machiavelli.md)* en donnerait de grandes aux peuples, « le livre des républicains ». Il hérite du Machiavel des *[Discours](../works/discourses-on-livy-machiavelli.md)*, l'amour de la liberté et la méfiance envers les grands, en l'intégrant à sa théorie de la souveraineté populaire.
 
 ## Influence sur
 

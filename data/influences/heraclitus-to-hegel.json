@@ -1,0 +1,16 @@
+{
+  "id": "heraclitus-to-hegel",
+  "from": { "kind": "PHILOSOPHER", "slug": "heraclitus" },
+  "to": { "kind": "PHILOSOPHER", "slug": "hegel" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='hegel'>Hegel</ph> reconnaît en <ph id='heraclitus'>Héraclite</ph> le penseur du devenir et de l'unité des contraires : « il n'est pas une proposition d'Héraclite que je n'aie reprise dans ma Logique », dit-il, faisant du flux héraclitéen un moment de sa propre dialectique de l'être et du néant.",
+    "en": "<ph id='hegel'>Hegel</ph> recognizes in <ph id='heraclitus'>Heraclitus</ph> the thinker of becoming and of the unity of opposites: \"there is no proposition of Heraclitus which I have not taken up in my Logic\", he says, making the Heraclitean flux a moment of his own dialectic of being and nothing."
+  },
+  "sources": [
+    { "fr": "Leçons sur l'histoire de la philosophie", "en": "Lectures on the History of Philosophy" }
+  ],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

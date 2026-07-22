@@ -1,0 +1,13 @@
+{
+  "id": "jeu-de-langage",
+  "term": { "fr": "Jeu de langage", "en": "Language-game" },
+  "aliases": { "fr": ["jeu de langage", "jeux de langage"], "en": ["language-game", "Sprachspiel"] },
+  "definition": {
+    "fr": "Le jeu de langage (Sprachspiel) est, chez <ph id='wittgenstein'>Wittgenstein</ph> tardif, l'unité où le langage prend sens : non un système abstrait, mais une activité réglée où mots, gestes et pratique s'entrelacent, comme donner des ordres, décrire, raconter ou prier. Le sens d'un mot n'est pas l'objet qu'il nomme mais son usage dans un tel jeu, lui-même enchâssé dans une <c id='forme-de-vie'>forme de vie</c>. Il y a une multiplicité irréductible de jeux de langage, qu'aucune essence commune ne chapeaute.",
+    "en": "The language-game (Sprachspiel) is, for the late <ph id='wittgenstein'>Wittgenstein</ph>, the unit in which language means: not an abstract system, but a rule-governed activity in which words, gestures and practice interweave, such as giving orders, describing, telling a story or praying. The meaning of a word is not the object it names but its use in such a game, itself embedded in a <c id='forme-de-vie'>form of life</c>. There is an irreducible multiplicity of language-games, over which no common essence presides."
+  },
+  "relatedAxes": ["MEANING", "METAPHILOSOPHY", "UNIVERSALS"],
+  "relatedTerms": ["air-de-famille", "forme-de-vie"],
+  "figure": { "slug": "wittgenstein", "name": { "fr": "Wittgenstein", "en": "Wittgenstein" } },
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

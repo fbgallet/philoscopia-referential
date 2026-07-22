@@ -38,8 +38,11 @@
 - [L'argument de l'authenticité](death-being-toward-death.md) (pour « Vivre en vue de sa mort »)
 - [L'argument de la privation](death-deprivation.md) (contre « Se libérer de la crainte »)
 - [L'argument de la symétrie](death-epicurean-symmetry.md) (pour « Se libérer de la crainte »)
+- [La révolte lucide](death-lucid-revolt.md) (pour « Refuser la mort »)
 - [L'objection de la rumination](death-morbid-rumination.md) (contre « Vivre en vue de sa mort »)
 - [L'objection du primat de la mort](death-primacy-objection.md) (contre « Vivre en vue de sa mort »)
+- [L'objection de la révolte impuissante](death-revolt-futility-objection.md) (contre « Refuser la mort »)
+- [Le soupçon du ressentiment](death-revolt-ressentiment.md) (contre « Refuser la mort »)
 
 ## [Rapport au désir](../axes/desire.md)
 

@@ -132,7 +132,12 @@
 
 ### [Hegel](../philosophers/hegel.md)
 
+- “The beautiful is the sensuous shining of the Idea.” — Lectures on Aesthetics, Introduction
+- “World history is the progress in the consciousness of freedom.” — Lectures on the Philosophy of History, Introduction
 - “The owl of Minerva spreads its wings only with the falling of the dusk.” — Elements of the Philosophy of Right, Preface
+- “Philosophy is its own time comprehended in thought.” — Elements of the Philosophy of Right, Preface
+- “The true is the whole.” — Phenomenology of Spirit, Preface
+- “I that is We, and We that is I.” — Phenomenology of Spirit, ch. IV (self-consciousness)
 - “Everything turns on grasping and expressing the true not only as substance, but equally as subject.” — Phenomenology of Spirit, Preface
 
 ### Homer
@@ -213,9 +218,12 @@
 - “Nothing is ever created out of nothing by divine power.” — On the Nature of Things, I, 150
 - “So much wrong could religion prompt.” — On the Nature of Things, I, 101
 
-### [Ludwig Wittgenstein](../philosophers/wittgenstein.md)
+### [Machiavelli](../philosophers/machiavelli.md)
 
-- “Philosophy is a battle against the bewitchment of our intelligence by means of language.” — Wittgenstein, Philosophical Investigations, § 109
+- “Everyone sees what you appear to be, but few perceive what you are.” — The Prince, ch. XVIII
+- “One must therefore be a fox to recognize snares, and a lion to frighten off the wolves.” — The Prince, ch. XVIII
+- “It has seemed to me more fitting to go directly to the effectual truth of the thing than to the imagination of it. Many have imagined republics and principalities that have never been seen or known to exist in truth.” — The Prince, ch. XV
+- “I judge it may be true that fortune is the arbiter of half our actions, but that she still leaves the other half, or nearly so, for us to govern.” — The Prince, ch. XXV
 
 ### [Marcus Aurelius](../philosophers/marcus-aurelius.md)
 
@@ -437,6 +445,14 @@
 - “Truth is the adequation of thing and intellect.” — Disputed Questions on Truth, q. 1, a. 1
 - “For a war to be just, three things are necessary: the authority of the sovereign, a just cause, and a rightful intention.” — Summa Theologiae, II-II, q. 40, a. 1
 - “Whatever is moved is moved by another; we must therefore arrive at a first mover moved by nothing, and this everyone understands to be God.” — Summa Theologiae, Ia, q. 2, a. 3 (the first way)
+
+### [Wittgenstein](../philosophers/wittgenstein.md)
+
+- “Whereof one cannot speak, thereof one must be silent.” — Tractatus Logico-Philosophicus, 7 (the last proposition)
+- “Philosophy is a battle against the bewitchment of our intelligence by means of language.” — Wittgenstein, Philosophical Investigations, § 109
+- “The meaning of a word is its use in the language.” — Philosophical Investigations, §43
+- “The questions that we raise and our doubts depend on the fact that some propositions are exempt from doubt, are as it were like hinges on which those turn.” — On Certainty, §341 (posthumous notes)
+- “What is your aim in philosophy? — To show the fly the way out of the fly-bottle.” — Philosophical Investigations, §309
 
 ### [Zhuangzi](../philosophers/zhuangzi.md)
 

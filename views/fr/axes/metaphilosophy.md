@@ -67,11 +67,15 @@ La philosophie ne délivre ni vérités sur le monde ni recettes de vie : elle a
 
 > « La matière de l'art de vivre, c'est la vie de chacun. » — [Épictète](../philosophers/epictetus.md), Entretiens, I, 15, 2
 
+> « La philosophie est son temps saisi dans la pensée. » — [Hegel](../philosophers/hegel.md), Principes de la philosophie du droit, Préface
+
 > « La philosophie est une lutte contre l'ensorcellement de notre entendement par les moyens de notre langage. » — [Ludwig Wittgenstein](../philosophers/wittgenstein.md), Wittgenstein, Recherches philosophiques, § 109
 
 > « La philosophie ne peut jamais faire davantage qu'interpréter et expliquer ce qui existe. » — [Schopenhauer](../philosophers/schopenhauer.md), Le Monde comme volonté et comme représentation, §53
 
 > « Les philosophes n'ont fait qu'interpréter le monde de diverses manières ; ce qui importe, c'est de le transformer. » — [Marx](../philosophers/marx.md), Thèses sur Feuerbach, XI (1845)
+
+> « Quel est ton but en philosophie ? Montrer à la mouche l'issue hors du piège à mouches. » — [Wittgenstein](../philosophers/wittgenstein.md), Recherches philosophiques, §309
 
 > « Vaine est la parole du philosophe qui ne soigne aucune souffrance humaine. » — [Épicure](../philosophers/epicurus.md), fragment 221 Usener (Porphyre, Lettre à Marcella, 31)
 

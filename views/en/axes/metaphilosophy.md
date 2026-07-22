@@ -67,11 +67,15 @@ Philosophy delivers neither truths about the world nor recipes for living: it te
 
 > “The subject-matter of the art of living is each person's own life.” — [Epictetus](../philosophers/epictetus.md), Discourses, I.15.2
 
+> “Philosophy is its own time comprehended in thought.” — [Hegel](../philosophers/hegel.md), Elements of the Philosophy of Right, Preface
+
 > “Philosophy is a battle against the bewitchment of our intelligence by means of language.” — [Ludwig Wittgenstein](../philosophers/wittgenstein.md), Wittgenstein, Philosophical Investigations, § 109
 
 > “Philosophy can never do more than interpret and explain what exists.” — [Schopenhauer](../philosophers/schopenhauer.md), The World as Will and Representation, §53
 
 > “The philosophers have only interpreted the world, in various ways; the point is to change it.” — [Marx](../philosophers/marx.md), Theses on Feuerbach, XI (1845)
+
+> “What is your aim in philosophy? — To show the fly the way out of the fly-bottle.” — [Wittgenstein](../philosophers/wittgenstein.md), Philosophical Investigations, §309
 
 > “Empty is the word of the philosopher that heals no human suffering.” — [Epicurus](../philosophers/epicurus.md), fr. 221 Usener (Porphyry, Letter to Marcella, 31)
 

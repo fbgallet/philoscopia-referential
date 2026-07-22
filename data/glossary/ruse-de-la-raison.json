@@ -1,0 +1,13 @@
+{
+  "id": "ruse-de-la-raison",
+  "term": { "fr": "Ruse de la raison", "en": "Cunning of reason" },
+  "aliases": { "fr": ["ruse de la raison"], "en": ["cunning of reason", "List der Vernunft"] },
+  "definition": {
+    "fr": "La ruse de la raison (List der Vernunft) est le procédé par lequel, selon <ph id='hegel'>Hegel</ph>, la <ax id='HISTORY_MEANING'>raison réalise sa fin dans l'histoire</ax> sans s'y exposer directement : elle laisse les individus poursuivre leurs passions particulières, l'ambition d'un <per>César</per> ou d'un <per>Napoléon</per>, et se sert de ces intérêts privés pour accomplir, à leur insu, son dessein universel, tandis qu'eux s'y usent et disparaissent. Le mal et la passion deviennent ainsi les instruments du progrès de la liberté.",
+    "en": "The cunning of reason (List der Vernunft) is the device by which, according to <ph id='hegel'>Hegel</ph>, <ax id='HISTORY_MEANING'>reason realizes its end in history</ax> without exposing itself directly: it lets individuals pursue their particular passions, the ambition of a <per>Caesar</per> or a <per>Napoleon</per>, and uses these private interests to accomplish, unbeknownst to them, its universal design, while they wear themselves out and vanish. Evil and passion thus become the instruments of freedom's progress."
+  },
+  "relatedAxes": ["HISTORY_MEANING", "PROBLEM_OF_EVIL", "CAUSALITY"],
+  "relatedTerms": ["geist"],
+  "figure": { "slug": "hegel", "name": { "fr": "Hegel", "en": "Hegel" } },
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

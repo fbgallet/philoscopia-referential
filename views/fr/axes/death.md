@@ -63,6 +63,9 @@ La mort est un mal réel, le scandale absolu : rien ne la justifie ni ne la rach
 - *Vivre en vue de sa mort* · pour : [L'argument de l'authenticité](../arguments/death-being-toward-death.md)
 - *Vivre en vue de sa mort* · contre : [L'objection de la rumination](../arguments/death-morbid-rumination.md)
 - *Vivre en vue de sa mort* · contre : [L'objection du primat de la mort](../arguments/death-primacy-objection.md)
+- *Refuser la mort* · pour : [La révolte lucide](../arguments/death-lucid-revolt.md)
+- *Refuser la mort* · contre : [L'objection de la révolte impuissante](../arguments/death-revolt-futility-objection.md)
+- *Refuser la mort* · contre : [Le soupçon du ressentiment](../arguments/death-revolt-ressentiment.md)
 
 ## Relations de fondation
 

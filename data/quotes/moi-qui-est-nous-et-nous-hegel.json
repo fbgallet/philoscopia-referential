@@ -1,0 +1,16 @@
+{
+  "id": "moi-qui-est-nous-et-nous-hegel",
+  "text": {
+    "fr": "Moi qui est nous, et nous qui est moi.",
+    "en": "I that is We, and We that is I."
+  },
+  "author": { "name": { "fr": "Hegel", "en": "Hegel" }, "kind": "PHILOSOPHER", "slug": "hegel" },
+  "work": "phenomenology-of-spirit-hegel",
+  "source": { "fr": "Phénoménologie de l'esprit, ch. IV (l'autoconscience)", "en": "Phenomenology of Spirit, ch. IV (self-consciousness)" },
+  "anchors": [{ "axisId": "INDIVIDUAL_SOCIETY", "poleId": "HOLISM" }],
+  "context": {
+    "fr": "L'esprit comme reconnaissance réciproque : la conscience de soi n'existe qu'en étant reconnue par une autre.",
+    "en": "Spirit as reciprocal recognition: self-consciousness exists only in being recognized by another."
+  },
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

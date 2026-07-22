@@ -53,6 +53,8 @@ Between accepting what lies beyond us and trying to transform everything, the ta
 
 > “Endure, my heart; you have borne worse before this.” — Homer, Odyssey, XX, 18
 
+> “I judge it may be true that fortune is the arbiter of half our actions, but that she still leaves the other half, or nearly so, for us to govern.” — [Machiavelli](../philosophers/machiavelli.md), The Prince, ch. XXV
+
 > “I no longer look with my eyes but with my spirit, and the blade follows of itself the natural openings.” — [Zhuangzi](../philosophers/zhuangzi.md), ch. 3 (The Secret of Caring for Life)
 
 > “The Dao does nothing, and yet nothing is left undone.” — [Laozi](../philosophers/laozi.md), Dao De Jing, ch. 37

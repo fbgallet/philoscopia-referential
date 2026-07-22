@@ -1,0 +1,13 @@
+{
+  "id": "geist",
+  "term": { "fr": "Esprit (Geist)", "en": "Spirit (Geist)" },
+  "aliases": { "fr": ["Geist"], "en": ["Geist"] },
+  "definition": {
+    "fr": "Le Geist, l'« esprit », est le concept central de <ph id='hegel'>Hegel</ph> : non une substance psychique individuelle, mais la réalité spirituelle qui se produit elle-même en s'objectivant dans la nature, l'histoire, les institutions et l'art, et qui vient progressivement à se savoir. Il se déploie de l'esprit subjectif (l'individu) à l'esprit objectif (droit, morale, État) puis à l'esprit absolu (art, religion, philosophie). L'Absolu lui-même est Esprit : « Moi qui est nous, et nous qui est moi ».",
+    "en": "Geist, \"spirit\", is <ph id='hegel'>Hegel</ph>'s central concept: not an individual psychic substance, but the spiritual reality that produces itself by objectifying itself in nature, history, institutions and art, and that gradually comes to know itself. It unfolds from subjective spirit (the individual) to objective spirit (law, morality, the state) and then to absolute spirit (art, religion, philosophy). The Absolute itself is Spirit: \"I that is We, and We that is I\"."
+  },
+  "relatedAxes": ["REALITY_NATURE", "TRANSCENDENCE", "GOD_EXISTENCE"],
+  "relatedTerms": ["aufhebung", "sittlichkeit"],
+  "figure": { "slug": "hegel", "name": { "fr": "Hegel", "en": "Hegel" } },
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

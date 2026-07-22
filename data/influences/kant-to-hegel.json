@@ -1,0 +1,16 @@
+{
+  "id": "kant-to-hegel",
+  "from": { "kind": "PHILOSOPHER", "slug": "kant" },
+  "to": { "kind": "PHILOSOPHER", "slug": "hegel" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='hegel'>Hegel</ph> hérite de <ph id='kant'>Kant</ph> l'unité du sujet et les antinomies de la raison, mais lui reproche la chose en soi inconnaissable, reste de dualisme, et le caractère seulement subjectif des catégories : ce que Kant tenait pour les limites de la raison, Hegel en fait le moteur dialectique du réel lui-même.",
+    "en": "<ph id='hegel'>Hegel</ph> inherits from <ph id='kant'>Kant</ph> the unity of the subject and the antinomies of reason, but reproaches him with the unknowable thing-in-itself, a residue of dualism, and the merely subjective status of the categories: what Kant took for the limits of reason, Hegel makes the dialectical motor of the real itself."
+  },
+  "sources": [
+    { "fr": "Foi et savoir (1802) ; Science de la logique", "en": "Faith and Knowledge (1802); Science of Logic" }
+  ],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

@@ -1,28 +1,230 @@
 {
   "kind": "PHILOSOPHER",
   "id": "wittgenstein",
-  "stub": true,
-  "name": {
-    "fr": "Ludwig Wittgenstein",
-    "en": "Ludwig Wittgenstein"
+  "name": { "fr": "Wittgenstein", "en": "Wittgenstein" },
+  "fullName": { "fr": "Ludwig Wittgenstein", "en": "Ludwig Wittgenstein" },
+  "tagline": {
+    "fr": "Deux fois il a cru en finir avec la philosophie : non une doctrine mais une activité, qui ne résout pas les problèmes mais les dissout, en montrant qu'ils naissent des pièges de notre langage.",
+    "en": "Twice he thought he had put an end to philosophy: not a doctrine but an activity, which does not solve problems but dissolves them, by showing that they are born of the traps of our language."
   },
   "aliases": {
-    "fr": ["wittgensteinien", "wittgensteinienne"],
+    "fr": ["wittgensteinien", "wittgensteinienne", "wittgensteinisme"],
     "en": ["Wittgensteinian"]
   },
   "summary": {
-    "fr": "Figure majeure de la philosophie analytique : pour lui, les problèmes philosophiques naissent des pièges que nous tend notre langage, et la philosophie n'est pas une doctrine mais une activité de clarification, qui dissout les faux problèmes comme on montre à la mouche la sortie de la bouteille.",
-    "en": "A major figure of analytic philosophy: on his view, philosophical problems arise from the traps our language sets for us, and philosophy is not a doctrine but an activity of clarification, dissolving false problems the way one shows the fly the way out of the fly-bottle."
+    "fr": "Figure centrale de la <mv id='analytic-philosophy'>philosophie analytique</mv>, il l'a bouleversée deux fois. Ingénieur devenu logicien auprès de <ph id='russell'>Russell</ph> à Cambridge, il écrit au front et en captivité durant la Grande Guerre le <w id='tractatus-logico-philosophicus-wittgenstein'>Tractatus logico-philosophicus</w> (1921), croit avoir résolu tous les problèmes philosophiques et quitte la discipline : il donne sa fortune, enseigne dans des villages autrichiens. Revenu à Cambridge en 1929, il retourne sa première pensée dans les <w id='philosophical-investigations-wittgenstein'>Recherches philosophiques</w> (posthumes, 1953), abandonnant la <c>théorie du langage-image</c> pour les « jeux de langage » et le sens comme usage. De ces deux Wittgenstein sont sortis le positivisme logique, la philosophie du langage ordinaire et une part de la philosophie de l'esprit contemporaine.",
+    "en": "A central figure of <mv id='analytic-philosophy'>analytic philosophy</mv>, he overturned it twice. An engineer turned logician under <ph id='russell'>Russell</ph> at Cambridge, he wrote at the front and in captivity during the Great War the <w id='tractatus-logico-philosophicus-wittgenstein'>Tractatus Logico-Philosophicus</w> (1921), believed he had solved every philosophical problem, and left the discipline: he gave away his fortune and taught in Austrian villages. Returning to Cambridge in 1929, he turned his early thought inside out in the <w id='philosophical-investigations-wittgenstein'>Philosophical Investigations</w> (posthumous, 1953), abandoning the <c>picture theory of language</c> for \"language-games\" and meaning as use. Out of these two Wittgensteins came logical positivism, ordinary-language philosophy, and part of contemporary philosophy of mind."
   },
+  "nationality": { "fr": "Autrichien puis britannique", "en": "Austrian, later British" },
   "birth": 1889,
   "death": 1951,
-  "nationality": {
-    "fr": "Autrichien puis britannique",
-    "en": "Austrian, later British"
-  },
   "movements": ["analytic-philosophy"],
-  "updatedAt": "2026-07-03T00:00:00.000Z",
-  "validation": {
-    "method": "NOT_VALIDATED"
-  }
+  "entries": [
+    {
+      "axisId": "METAPHILOSOPHY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 0, 0.2, 0.8] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Contre l'idée que la philosophie découvrirait des vérités ou construirait des théories, Wittgenstein la tient, tôt et tard, pour une activité : <q>non une doctrine mais une activité</q> de clarification. Les problèmes philosophiques ne sont pas résolus mais dissous, comme on guérit d'un mauvais sortilège du langage, en indiquant à la mouche l'issue hors du piège. Elle laisse tout en l'état : elle ne change rien au monde ni à l'usage ordinaire, seulement à notre compréhension.",
+          "en": "Against the idea that philosophy would discover truths or build theories, Wittgenstein holds it, early and late, to be an activity: <q>not a doctrine but an activity</q> of clarification. Philosophical problems are not solved but dissolved, as one is cured of a bad spell of language, by showing the fly the way out of the bottle. It leaves everything as it is: it changes nothing in the world or in ordinary usage, only our understanding."
+        },
+        "references": [
+          { "fr": "Tractatus logico-philosophicus, 4.111-4.112, 6.53-6.54", "en": "Tractatus Logico-Philosophicus, 4.111-4.112, 6.53-6.54" },
+          { "fr": "Recherches philosophiques, §§109, 116, 124-133, 255, 309", "en": "Philosophical Investigations, §§109, 116, 124-133, 255, 309" }
+        ],
+        "quoteId": "la-philosophie-est-une-lutte-contre-wittgenstein",
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MEANING",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.1, 0.9, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le jeune Wittgenstein tenait le sens d'un nom pour l'objet qu'il désigne ; le tardif renverse cette <c>« image augustinienne »</c> du langage : le mot tient son sens du rôle qu'il joue dans une pratique réglée, un <c id='jeu-de-langage'>jeu de langage</c>. Wittgenstein garde pourtant sa prudence : il n'en fait pas une théorie générale du sens, « pour une grande classe de cas, non pour tous », fidèle à son refus des thèses.",
+          "en": "The young Wittgenstein took the meaning of a name to be the object it stands for; the later Wittgenstein overturns this <c>\"Augustinian picture\"</c> of language: a word gets its meaning from the role it plays in a rule-governed practice, a <c id='jeu-de-langage'>language-game</c>. Yet Wittgenstein keeps his caution: he does not make it a general theory of meaning, \"for a large class of cases, though not for all\", faithful to his refusal of theses."
+        },
+        "references": [
+          { "fr": "Recherches philosophiques, §43 ; §7, §23 (jeux de langage) ; §§65-67", "en": "Philosophical Investigations, §43; §7, §23 (language-games); §§65-67" }
+        ],
+        "quoteId": "le-sens-d-un-mot-est-son-usage-wittgenstein",
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.6 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Tous les faits du monde sont sur un même plan, contingents : la valeur ne s'y trouve donc pas. <q>Le sens du monde doit être hors du monde</q> ; l'éthique est transcendantale, elle ne se laisse pas mettre en mots. Ce qui compte le plus, l'éthique et le mystique, ne peut qu'être montré, non dit. Ce silence est révérenciel, non nihiliste : Wittgenstein tient l'essentiel du Tractatus pour ce qu'il n'y a pas écrit. C'est la position du Tractatus ; le Wittgenstein tardif abandonnera la machinerie du dire et du montrer.",
+          "en": "All the facts of the world are on one level, contingent: value is therefore not to be found in it. <q>The sense of the world must lie outside the world</q>; ethics is transcendental, it cannot be put into words. What matters most, ethics and the mystical, can only be shown, not said. This silence is reverent, not nihilistic: Wittgenstein held the essential part of the Tractatus to be what he did not write in it. This is the position of the Tractatus; the later Wittgenstein will abandon the saying/showing machinery."
+        },
+        "references": [
+          { "fr": "Tractatus logico-philosophicus, 6.41, 6.421, 6.522, 6.44, 7", "en": "Tractatus Logico-Philosophicus, 6.41, 6.421, 6.522, 6.44, 7" },
+          { "fr": "Conférence sur l'éthique (1929)", "en": "A Lecture on Ethics (1929)" }
+        ],
+        "quoteId": "ce-dont-on-ne-peut-parler-wittgenstein",
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.4 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Certaines propositions (« voici une main », « la Terre existait avant ma naissance ») ne sont ni objets de savoir ni objets de doute : elles sont les <c id='propositions-gonds'>gonds</c> sur lesquels la porte de l'enquête tourne, le lit du fleuve où coule le reste de nos pensées. Le doute les présuppose (<q>le jeu du doute présuppose déjà la certitude</q>), si bien que le scepticisme radical se détruit lui-même. Elles ne sont pourtant pas un savoir dogmatique fondé sur des raisons, et peuvent se déplacer avec le temps : ni dogmatisme, ni scepticisme, ni faillibilisme, mais une certitude-cadre que cet axe ne peut qu'approcher.",
+          "en": "Some propositions (\"here is a hand\", \"the earth existed long before my birth\") are neither objects of knowledge nor of doubt: they are the <c id='propositions-gonds'>hinges</c> on which the door of inquiry turns, the riverbed in which the rest of our thoughts flow. Doubt presupposes them (<q>the game of doubting itself presupposes certainty</q>), so that radical skepticism destroys itself. Yet they are not a dogmatic knowledge grounded on reasons, and can shift over time: neither dogmatism, nor skepticism, nor fallibilism, but a framework-certainty that this axis can only approximate."
+        },
+        "references": [
+          { "fr": "De la certitude, §§341-343, §§94-99, §115 (notes posthumes)", "en": "On Certainty, §§341-343, §§94-99, §115 (posthumous notes)" }
+        ],
+        "quoteId": "les-questions-que-nous-posons-wittgenstein",
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "UNIVERSALS",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.55 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Contre l'idée qu'un mot général recouvre une essence commune, Wittgenstein invite à regarder plutôt qu'à supposer : les « jeux » n'ont aucun trait unique partagé, seulement un réseau de similitudes qui se recoupent, comme les traits d'une famille, un <c id='air-de-famille'>air de famille</c>. Le vieux problème des universaux est dissous, non résolu : l'erreur était de présupposer qu'il fallait un commun. Ni réalisme des Formes ni nominalisme classique, mais une déflation par l'usage.",
+          "en": "Against the idea that a general word covers a common essence, Wittgenstein invites us to look rather than to suppose: \"games\" share no single feature, only a network of criss-crossing similarities, like the features of a family, a <c id='air-de-famille'>family resemblance</c>. The old problem of universals is dissolved, not solved: the error was to presuppose that there had to be something common. Neither a realism of Forms nor a classical nominalism, but a deflation through use."
+        },
+        "references": [
+          { "fr": "Recherches philosophiques, §§65-67 (§66, « ne pense pas, regarde ! »)", "en": "Philosophical Investigations, §§65-67 (§66, \"don't think, but look!\")" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SCIENCE_PLACE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.7 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Wittgenstein n'est pas contre la science, mais contre le <c>scientisme</c> : l'idolâtrie de la méthode, du « progrès » et de la généralité, projetée sur la philosophie. Le philosophe qui « aspire à la généralité » et méprise le cas particulier singe la science ; or la philosophie, l'éthique, la religion sont des jeux de langage distincts, non des sciences déficientes. Il doute même que « l'âge de la science et de la technique » soit celui où l'humain trouve son sens.",
+          "en": "Wittgenstein is not against science, but against <c>scientism</c>: the idolatry of method, of \"progress\" and of generality, projected onto philosophy. The philosopher who \"craves generality\" and despises the particular case apes science; but philosophy, ethics and religion are distinct language-games, not deficient sciences. He even doubts that \"the age of science and technology\" is where the human finds its meaning."
+        },
+        "references": [
+          { "fr": "Le Cahier bleu (l'ouverture, l'« aspiration à la généralité ») ; Tractatus, 6.371-6.372", "en": "The Blue Book (opening, the \"craving for generality\"); Tractatus, 6.371-6.372" },
+          { "fr": "Remarques mêlées (Culture and Value)", "en": "Culture and Value" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "FAITH_REASON",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.5, 0, 0, 0.5] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La croyance religieuse n'est pas une hypothèse rivale de la science : le croyant et l'incroyant sont « sur un tout autre plan ». C'est une <c>image</c> qui règle toute une vie, un engagement inconditionnel, non une conclusion tirée de preuves. D'où une position à la fois fidéiste (la foi comme engagement, non comme démonstration) et de domaines séparés (un autre plan que le factuel). Le « fidéisme wittgensteinien » est d'ailleurs une étiquette de ses critiques, non de lui.",
+          "en": "Religious belief is not a hypothesis rivalling science: believer and unbeliever are \"on an entirely different plane\". It is a <c>picture</c> that regulates a whole life, an unconditional commitment, not a conclusion drawn from proofs. Hence a position at once fideist (faith as commitment, not demonstration) and of separate domains (a plane other than the factual). \"Wittgensteinian fideism\" is, moreover, a label coined by his critics, not by him."
+        },
+        "references": [
+          { "fr": "Leçons sur la croyance religieuse (1938) ; Remarques mêlées", "en": "Lectures on Religious Belief (1938); Culture and Value" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HUMAN_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.3 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le fond où s'arrête la justification, ce sont les <c id='forme-de-vie'>formes de vie</c> : l'accord dans le langage n'est pas un accord d'opinions mais un « accord dans la forme de vie », enraciné dans des réactions humaines communes, « le comportement commun des hommes ». Sa pensée penche ainsi vers un naturalisme des réactions partagées, sans nier la variété culturelle des jeux de langage.",
+          "en": "The bedrock where justification ends is the <c id='forme-de-vie'>forms of life</c>: agreement in language is not an agreement in opinions but an \"agreement in form of life\", rooted in shared human reactions, \"the common behaviour of mankind\". His thought thus leans toward a naturalism of shared reactions, without denying the cultural variety of language-games."
+        },
+        "references": [
+          { "fr": "Recherches philosophiques, §19, §23, §206, §241", "en": "Philosophical Investigations, §19, §23, §206, §241" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CONSCIOUSNESS_NATURE",
+      "status": "REJECTS_ALTERNATIVE",
+      "note": {
+        "fr": "Wittgenstein récuse le cadre même de la question. Contre le « théâtre intérieur » cartésien comme contre le behaviorisme, l'<c>argument du langage privé</c> montre qu'un mot renvoyant à une sensation purement privée n'aurait aucun critère de correction, donc aucun sens : « un processus intérieur a besoin de critères extérieurs ». Le <te>scarabée dans la boîte</te> : ce que chacun seul verrait dans sa boîte « n'a aucune place dans le jeu de langage, la boîte pourrait même être vide ». Le problème métaphysique de la conscience repose sur une illusion grammaticale (Recherches, §§243-293, §580).",
+        "en": "Wittgenstein rejects the very framing of the question. Against the Cartesian \"inner theatre\" as against behaviourism, the <c>private-language argument</c> shows that a word referring to a purely private sensation would have no criterion of correctness, hence no meaning: \"an inner process stands in need of outward criteria\". The <te>beetle in the box</te>: what each person alone would see in their box \"has no place in the language-game at all, the box might even be empty\". The metaphysical problem of consciousness rests on a grammatical illusion (Investigations, §§243-293, §580)."
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "REJECTS_ALTERNATIVE",
+      "note": {
+        "fr": "Le <w id='tractatus-logico-philosophicus-wittgenstein'>Tractatus</w> tient le monde pour <q>la totalité des faits, non des choses</q> (<c>atomisme logique</c>), sans trancher entre matière et esprit. Le Wittgenstein tardif tient la question métaphysique elle-même, matérialisme, idéalisme ou dualisme, pour une confusion grammaticale à dissoudre, non une alternative à trancher.",
+        "en": "The <w id='tractatus-logico-philosophicus-wittgenstein'>Tractatus</w> holds the world to be <q>the totality of facts, not of things</q> (<c>logical atomism</c>), without deciding between matter and mind. The late Wittgenstein holds the metaphysical question itself, materialism, idealism or dualism, to be a grammatical confusion to be dissolved, not an alternative to be settled."
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "CONTEXTUALIST",
+      "note": {
+        "fr": "Wittgenstein n'affirme pas l'existence de Dieu comme un fait, mais ne tient pas non plus la croyance pour une hypothèse fausse : traiter le débat comme un désaccord d'opinions factuelles serait une erreur de catégorie. Le mystique, c'est <q>non pas comment le monde est, mais qu'il est</q> ; « Dieu ne se révèle pas dans le monde ». La question change de sens selon le jeu de langage où elle se pose (Tractatus, 6.432, 6.44).",
+        "en": "Wittgenstein does not assert the existence of God as a fact, but neither does he hold belief to be a false hypothesis: to treat the dispute as a disagreement of factual opinions would be a category mistake. The mystical is <q>not how the world is, but that it is</q>; \"God does not reveal himself in the world\". The question changes its sense depending on the language-game in which it is raised (Tractatus, 6.432, 6.44)."
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "METAPHILOSOPHY",
+      "thesis": {
+        "fr": "La philosophie n'est pas une doctrine mais une activité : elle ne découvre pas de vérités et ne bâtit pas de théories : elle clarifie, et <pb>dissout les faux problèmes</pb> nés des pièges du langage au lieu de les résoudre.",
+        "en": "Philosophy is not a doctrine but an activity: it discovers no truths and builds no theories: it clarifies, and <pb>dissolves the false problems</pb> born of the traps of language rather than solving them."
+      }
+    },
+    {
+      "axisId": "MEANING",
+      "thesis": {
+        "fr": "Le sens d'un mot n'est ni l'objet qu'il nomme ni une image mentale, mais son usage dans la pratique : on l'apprend en voyant comment les mots fonctionnent dans les <c id='jeu-de-langage'>jeux de langage</c>.",
+        "en": "The meaning of a word is neither the object it names nor a mental image, but its use in practice: one learns it by seeing how words function in <c id='jeu-de-langage'>language-games</c>."
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "thesis": {
+        "fr": "Le sens du monde est hors du monde : la valeur, l'éthique, le mystique ne se laissent pas dire, seulement <c>montrer</c> ; sur eux, il faut se taire.",
+        "en": "The sense of the world lies outside the world: value, ethics, the mystical cannot be said, only <c>shown</c>; on them, one must remain silent."
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "thesis": {
+        "fr": "Certaines propositions ne sont ni sues ni mises en doute : elles sont les <c id='propositions-gonds'>gonds</c> sur lesquels tourne toute enquête, tenues fermes non par des preuves mais par notre pratique.",
+        "en": "Some propositions are neither known nor doubted: they are the <c id='propositions-gonds'>hinges</c> on which all inquiry turns, held fast not by proofs but by our practice."
+      }
+    },
+    {
+      "axisId": "UNIVERSALS",
+      "thesis": {
+        "fr": "Il n'y a pas d'essence commune à tout ce qu'un mot général recouvre : les « jeux » ne partagent qu'un réseau de ressemblances qui se chevauchent, un <c id='air-de-famille'>air de famille</c>, non un trait unique.",
+        "en": "There is no common essence to everything a general word covers: \"games\" share only a network of overlapping resemblances, a <c id='air-de-famille'>family resemblance</c>, not a single feature."
+      }
+    }
+  ],
+  "updatedAt": "2026-07-22T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
 }

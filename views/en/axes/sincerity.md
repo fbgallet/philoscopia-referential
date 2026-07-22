@@ -33,6 +33,10 @@ Telling the truth is a duty, but only toward those who have a right to it. When 
 
 ## Quotations
 
+> “Everyone sees what you appear to be, but few perceive what you are.” — [Machiavelli](../philosophers/machiavelli.md), The Prince, ch. XVIII
+
+> “One must therefore be a fox to recognize snares, and a lion to frighten off the wolves.” — [Machiavelli](../philosophers/machiavelli.md), The Prince, ch. XVIII
+
 > “On no occasion call yourself a philosopher: be one.” — [Epictetus](../philosophers/epictetus.md), Enchiridion, §46
 
 > “If names are not correct, language is not in accord with the truth of things; then affairs cannot succeed.” — [Confucius](../philosophers/confucius.md), Analects, XIII, 3

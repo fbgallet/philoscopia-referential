@@ -1,0 +1,16 @@
+{
+  "id": "machiavelli-to-hobbes",
+  "from": { "kind": "PHILOSOPHER", "slug": "machiavelli" },
+  "to": { "kind": "PHILOSOPHER", "slug": "hobbes" },
+  "directness": "INDIRECT",
+  "mode": "CONTINUES",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "Comme <ph id='machiavelli'>Machiavel</ph>, <ph id='hobbes'>Hobbes</ph> fonde la politique sur l'homme tel qu'il est, mû par la crainte et l'intérêt, non sur un idéal. Il systématise l'anthropologie sombre en science géométrique de l'État, mais déplace la source de l'ordre du côté du contrat et du souverain absolu, là où Machiavel la voyait dans la virtù du fondateur et le conflit des humeurs.",
+    "en": "Like <ph id='machiavelli'>Machiavelli</ph>, <ph id='hobbes'>Hobbes</ph> grounds politics on man as he is, driven by fear and interest, not on an ideal. He systematizes the dark anthropology into a geometric science of the state, but shifts the source of order to the contract and the absolute sovereign, where Machiavelli located it in the founder's virtù and the clash of humors."
+  },
+  "sources": [
+    { "fr": "Filiation réaliste classiquement relevée (F. Meinecke, L'Idée de la raison d'État)", "en": "Realist filiation classically noted (F. Meinecke, The Idea of Reason of State)" }
+  ],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

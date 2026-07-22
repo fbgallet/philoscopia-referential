@@ -285,6 +285,7 @@ It is not truth that corrupts but presumption: we go astray not through what we 
 ## Influenced by
 
 - **[Hobbes](../philosophers/hobbes.md)** (reacts against) : [Rousseau](../philosophers/rousseau.md) reverses [Hobbes](../philosophers/hobbes.md)'s [state of nature](../glossary/etat-de-nature.md): far from a « war of all against all », it is peaceful, and man within it is naturally good, moved by self-love and [pity](../glossary/pitie.md), not by fear and pride. Hobbes, Rousseau charges, projected onto natural man the passions of already-social man; it is not nature but society that makes man wicked.
+- **[Machiavelli](../philosophers/machiavelli.md)** (reinterprets) : [Rousseau](../philosophers/rousseau.md) openly claims Machiavelli: under the guise of teaching kings, *[The Prince](../works/the-prince-machiavelli.md)* gives great lessons to peoples, "the book of republicans." He inherits the Machiavelli of the *[Discourses](../works/discourses-on-livy-machiavelli.md)*, the love of liberty and the distrust of the great, folding it into his theory of popular sovereignty.
 
 ## Influence on
 

@@ -15,6 +15,7 @@ Russian novelist turned religious and moral thinker: from the Gospel he drew a d
 ## Influence on
 
 - **[Gandhi](../philosophers/gandhi.md)** (continues) : [Gandhi](../philosophers/gandhi.md) recognizes in [Tolstoy](../philosophers/tolstoy.md), with whom he corresponds, a master of nonviolence: the law of love and the Christian refusal to return evil for evil, which he transposes into a method of mass political action, satyagraha.
+- **[Wittgenstein](../philosophers/wittgenstein.md)** (continues) : At the front in 1914, [Wittgenstein](../philosophers/wittgenstein.md) read and reread [Tolstoy](../philosophers/tolstoy.md)'s “The Gospel in Brief”, which sustained him and which he pressed on everyone. From it comes part of his ethical and religious seriousness: value is not argued but lived; what matters, in the Tractatus, is the ethics one cannot say.
 
 ---
 

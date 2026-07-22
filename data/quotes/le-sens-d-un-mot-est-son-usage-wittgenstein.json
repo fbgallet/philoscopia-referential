@@ -1,0 +1,16 @@
+{
+  "id": "le-sens-d-un-mot-est-son-usage-wittgenstein",
+  "text": {
+    "fr": "Le sens d'un mot est son usage dans la langue.",
+    "en": "The meaning of a word is its use in the language."
+  },
+  "author": { "name": { "fr": "Wittgenstein", "en": "Wittgenstein" }, "kind": "PHILOSOPHER", "slug": "wittgenstein" },
+  "work": "philosophical-investigations-wittgenstein",
+  "source": { "fr": "Recherches philosophiques, §43", "en": "Philosophical Investigations, §43" },
+  "anchors": [{ "axisId": "MEANING", "poleId": "USE_THEORY" }],
+  "context": {
+    "fr": "Wittgenstein le limite aussitôt : « pour une grande classe de cas, non pour tous ». Ce n'est pas une théorie générale du sens, mais une méthode.",
+    "en": "Wittgenstein at once qualifies it: \"for a large class of cases, though not for all\". It is not a general theory of meaning, but a method."
+  },
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

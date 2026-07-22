@@ -44,6 +44,9 @@
 - *[Principes de la connaissance humaine](principles-of-human-knowledge-berkeley.md)* : George Berkeley (1710)
 - *[Trois dialogues entre Hylas et Philonous](three-dialogues-berkeley.md)* : George Berkeley (1713)
 - *[Qu'est-ce que la philosophie antique ?](what-is-ancient-philosophy-hadot.md)* : Hadot (1995)
+- *[Phénoménologie de l'esprit](phenomenology-of-spirit-hegel.md)* : Hegel (1807)
+- *[Science de la logique](science-of-logic-hegel.md)* : Hegel (1812)
+- *[Principes de la philosophie du droit](philosophy-of-right-hegel.md)* : Hegel (1820)
 - *[Léviathan](leviathan-hobbes.md)* : Hobbes (1651)
 - *[L'Iliade](iliad-homer.md)* : Homère (750 av. J.-C.)
 - *[L'Odyssée](odyssey-homer.md)* : Homère (750 av. J.-C.)
@@ -65,6 +68,10 @@
 - *[Métaphysique des mœurs](metaphysics-of-morals-kant.md)* : Kant (1797)
 - *[Dao De Jing](dao-de-jing-laozi.md)* : Laozi (300 av. J.-C.)
 - *[De la nature des choses](on-the-nature-of-things-lucretius.md)* : Lucrèce (55 av. J.-C.)
+- *[Le Prince](the-prince-machiavelli.md)* : Machiavel (1513)
+- *[La Mandragore](mandragola-machiavelli.md)* : Machiavel (1518)
+- *[Histoires florentines](florentine-histories-machiavelli.md)* : Machiavel (1525)
+- *[Discours sur la première décade de Tite-Live](discourses-on-livy-machiavelli.md)* : Machiavel (1531)
 - *[Pensées pour moi-même](meditations-marcus-aurelius.md)* : Marc Aurèle (175)
 - *[De la liberté](on-liberty-mill.md)* : Mill (1859)
 - *[Les Essais](essays-montaigne.md)* : Montaigne (1580)
@@ -110,6 +117,7 @@
 - *[Somme contre les Gentils](summa-contra-gentiles-aquinas.md)* : Thomas d'Aquin (1264)
 - *[Somme théologique](summa-theologiae-aquinas.md)* : Thomas d'Aquin (1274)
 - *[Tractatus logico-philosophicus](tractatus-logico-philosophicus-wittgenstein.md)* : Wittgenstein (1921)
+- *[Recherches philosophiques](philosophical-investigations-wittgenstein.md)* : Wittgenstein (1953)
 - *[Zhuangzi](zhuangzi-zhuangzi.md)* : Zhuangzi (300 av. J.-C.)
 
 ---

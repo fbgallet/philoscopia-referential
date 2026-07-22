@@ -1,0 +1,12 @@
+{
+  "id": "chacun-voit-ce-que-tu-parais-machiavelli",
+  "text": {
+    "fr": "Chacun voit ce que tu parais, mais peu sentent ce que tu es.",
+    "en": "Everyone sees what you appear to be, but few perceive what you are."
+  },
+  "author": { "name": { "fr": "Machiavel", "en": "Machiavelli" }, "kind": "PHILOSOPHER", "slug": "machiavelli" },
+  "work": "the-prince-machiavelli",
+  "source": { "fr": "Le Prince, chap. XVIII", "en": "The Prince, ch. XVIII" },
+  "anchors": [{ "axisId": "SINCERITY", "poleId": "BENEVOLENT_LYING_PERMITTED" }],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

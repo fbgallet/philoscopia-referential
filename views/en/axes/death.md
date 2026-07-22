@@ -63,6 +63,9 @@ Death is a real evil, the absolute scandal: nothing justifies or redeems it. The
 - *Living in view of one's death* · for : [The authenticity argument](../arguments/death-being-toward-death.md)
 - *Living in view of one's death* · against : [The morbid-rumination objection](../arguments/death-morbid-rumination.md)
 - *Living in view of one's death* · against : [The primacy-of-death objection](../arguments/death-primacy-objection.md)
+- *Refusing death* · for : [Lucid revolt](../arguments/death-lucid-revolt.md)
+- *Refusing death* · against : [The objection of impotent revolt](../arguments/death-revolt-futility-objection.md)
+- *Refusing death* · against : [The suspicion of ressentiment](../arguments/death-revolt-ressentiment.md)
 
 ## Grounding relations
 

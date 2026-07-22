@@ -35,6 +35,8 @@ The artist lives in his own time and cannot wash his hands of it: his work awake
 
 ## Quotations
 
+> “The beautiful is the sensuous shining of the Idea.” — [Hegel](../philosophers/hegel.md), Lectures on Aesthetics, Introduction
+
 > “Poetry is more philosophical and weightier than history: it speaks of the universal, history of the particular.” — [Aristotle](../philosophers/aristotle.md), Poetics, 9 (1451b)
 
 ## Related axes

@@ -1,0 +1,12 @@
+{
+  "id": "montrer-a-la-mouche-la-sortie-wittgenstein",
+  "text": {
+    "fr": "Quel est ton but en philosophie ? Montrer à la mouche l'issue hors du piège à mouches.",
+    "en": "What is your aim in philosophy? — To show the fly the way out of the fly-bottle."
+  },
+  "author": { "name": { "fr": "Wittgenstein", "en": "Wittgenstein" }, "kind": "PHILOSOPHER", "slug": "wittgenstein" },
+  "work": "philosophical-investigations-wittgenstein",
+  "source": { "fr": "Recherches philosophiques, §309", "en": "Philosophical Investigations, §309" },
+  "anchors": [{ "axisId": "METAPHILOSOPHY", "poleId": "CLARIFICATION" }],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

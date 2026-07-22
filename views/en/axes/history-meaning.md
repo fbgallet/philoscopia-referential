@@ -33,6 +33,8 @@ History has neither plan nor destination: it results from human actions with unf
 
 > “The history of all hitherto existing society is the history of class struggles.” — [Marx](../philosophers/marx.md), Manifesto of the Communist Party, 1848
 
+> “World history is the progress in the consciousness of freedom.” — [Hegel](../philosophers/hegel.md), Lectures on the Philosophy of History, Introduction
+
 ## Related axes
 
 [Tradition and transformation](../axes/conservatism-progressism.md) · [Relation to technology](../axes/technology.md) · [The point of philosophy](../axes/metaphilosophy.md)

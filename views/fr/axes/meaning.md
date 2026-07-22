@@ -38,6 +38,8 @@ Le sens tient à ce que celui qui parle cherche à faire reconnaître : communiq
 
 > « La nasse sert à prendre le poisson : le poisson pris, on oublie la nasse. Les mots servent à saisir l'idée : l'idée saisie, on oublie les mots. » — [Zhuangzi](../philosophers/zhuangzi.md), ch. 26
 
+> « Le sens d'un mot est son usage dans la langue. » — [Wittgenstein](../philosophers/wittgenstein.md), Recherches philosophiques, §43
+
 ## Axes liés
 
 [Nature de la vérité](../axes/truth-nature.md) · [Statut du savoir](../axes/knowledge-status.md) · [Le but de la philosophie](../axes/metaphilosophy.md)

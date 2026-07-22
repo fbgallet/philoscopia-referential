@@ -1,18 +1,25 @@
 {
   "kind": "PHILOSOPHER",
   "id": "machiavelli",
-  "stub": true,
   "name": {
     "fr": "Machiavel",
     "en": "Machiavelli"
   },
+  "fullName": {
+    "fr": "Nicolas Machiavel",
+    "en": "Niccolò Machiavelli"
+  },
+  "tagline": {
+    "fr": "Arracher la politique à la morale pour la regarder en face : par quels ressorts réels, jusqu'à la ruse et à la force, on prend, on fonde et l'on garde le pouvoir.",
+    "en": "Wresting politics from morality to look it in the face: by what real springs, up to cunning and force, power is seized, founded and kept."
+  },
   "aliases": {
-    "fr": ["machiavélique", "machiavélisme"],
+    "fr": ["machiavélique", "machiavélisme", "machiavélien", "machiavélienne"],
     "en": ["Machiavellian", "Machiavellianism"]
   },
   "summary": {
-    "fr": "Secrétaire de la république de Florence et fondateur de la pensée politique moderne : il décrit le pouvoir tel qu'il s'exerce et non tel qu'il devrait être, apprenant au prince à user de la force et de la ruse quand la nécessité l'exige, pour fonder et maintenir l'État.",
-    "en": "Secretary of the Florentine republic and founder of modern political thought: he describes power as it is actually exercised, not as it ought to be, teaching the prince to use force and cunning when necessity demands, to found and preserve the state."
+    "fr": "Haut fonctionnaire de la République de Florence, chargé quatorze ans durant des affaires diplomatiques et militaires, il observe de près le pouvoir en acte, de <per>César Borgia</per> aux cours de France et de l'Empire. Écarté puis emprisonné au retour des <per>Médicis</per> en 1512, il écrit dans la disgrâce, sur ses terres de Sant'Andrea, <w id='the-prince-machiavelli'>Le Prince</w> (1513) et les <w id='discourses-on-livy-machiavelli'>Discours sur la première décade de Tite-Live</w>, rompant avec la tradition du <kw>miroir des princes</kw> pour fonder une science de la politique tirée de l'histoire romaine et de l'expérience. Républicain de conviction autant que théoricien du pouvoir princier, il a laissé son nom à une manière, le « machiavélisme », qui trahit souvent sa pensée : moins un éloge du mal qu'une lucidité désenchantée sur les ressorts de l'action collective. Longtemps lu comme le maître des tyrans, il est aujourd'hui reconnu comme le premier penseur politique moderne, revendiqué par la tradition réaliste comme par le républicanisme.",
+    "en": "A senior official of the Florentine Republic, in charge of its diplomatic and military affairs for fourteen years, he observed power at close range in action, from <per>Cesare Borgia</per> to the courts of France and the Empire. Cast out and imprisoned when the <per>Medici</per> returned in 1512, he wrote in disgrace, on his farm at Sant'Andrea, <w id='the-prince-machiavelli'>The Prince</w> (1513) and the <w id='discourses-on-livy-machiavelli'>Discourses on the First Decade of Livy</w>, breaking with the mirror-of-princes tradition to found a science of politics drawn from Roman history and from experience. A republican by conviction as much as a theorist of princely power, he gave his name to a manner, \"Machiavellianism,\" that often betrays his thought: less a praise of evil than a disenchanted lucidity about the springs of collective action. Long read as the master of tyrants, he is now recognized as the first modern political thinker, claimed by the realist tradition and by republicanism alike."
   },
   "birth": 1469,
   "death": 1527,
@@ -21,7 +28,370 @@
     "en": "Italian"
   },
   "movements": [],
-  "updatedAt": "2026-07-02T00:00:00.000Z",
+  "entries": [
+    {
+      "axisId": "POLITICAL_IDEAL",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 1 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Contre tout le genre du miroir des princes, Machiavel refuse de peindre la cité comme elle devrait être : l'écart entre <q>comme on vit</q> et <q>comme on devrait vivre</q> est tel que celui qui poursuit l'idéal court à sa perte au milieu de tant d'hommes qui ne sont pas bons. D'où sa règle de méthode : aller à la <c id='verita-effettuale'>vérité effective</c> et tirer la maxime des cas, l'histoire romaine et l'expérience, non d'une <pb>république imaginaire</pb>.",
+          "en": "Against the whole genre of the mirror-of-princes, Machiavelli refuses to depict the city as it ought to be: the gap between <q>how one lives</q> and <q>how one ought to live</q> is such that whoever pursues the ideal comes to grief among so many who are not good. Hence his rule of method: go to the <c id='verita-effettuale'>effectual truth</c> and draw the maxim from cases, from Roman history and experience, not from an <pb>imagined republic</pb>."
+        },
+        "references": [
+          { "fr": "Le Prince, chap. XV", "en": "The Prince, ch. XV" },
+          { "fr": "Le Prince, Épître dédicatoire", "en": "The Prince, Dedicatory Letter" },
+          { "fr": "Discours sur la première décade de Tite-Live, préface du livre I", "en": "Discourses on Livy, Book I, Preface" }
+        ],
+        "quoteId": "il-m-a-paru-plus-convenable-de-machiavelli",
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.9, 0, 0.1, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Machiavel ne juge pas l'action au principe mais à l'effet : là où il n'est pas de juge à qui recourir, <q>on regarde à la fin</q>, et les moyens qui gardent l'État seront tenus pour honorables. Le prince doit donc apprendre à pouvoir n'être pas bon, non par goût du mal, mais parce que la politique, sphère de la <c>nécessité</c>, obéit à une logique propre, disjointe de la morale privée. La part de « vertu » qui subsiste n'est pas morale : c'est la <c id='virtu-machiavelli'>virtù</c>, efficacité et non bonté.",
+          "en": "Machiavelli judges action not by principle but by effect: where there is no judge to appeal to, <q>one looks to the end</q>, and the means that keep the state will be held honorable. The prince must therefore learn to be able not to be good, not from a taste for evil, but because politics, the sphere of <c>necessity</c>, obeys a logic of its own, severed from private morality. The residue of \"virtue\" that remains is not moral: it is <c id='virtu-machiavelli'>virtù</c>, efficacy and not goodness."
+        },
+        "references": [
+          { "fr": "Le Prince, chap. XV et XVIII", "en": "The Prince, chs. XV and XVIII" },
+          { "fr": "Discours sur la première décade de Tite-Live, I, 9", "en": "Discourses on Livy, I.9" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "VIOLENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 0, 1, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La cruauté n'est pas louée en soi : elle se juge à son emploi. <kw>Bien usées</kw> sont celles qu'on inflige d'un seul coup, par nécessité de se garantir, puis qu'on convertit au plus grand bien des sujets ; <kw>mal usées</kw>, celles qui croissent avec le temps. Les offenses se font toutes ensemble, les bienfaits se distillent ; et comme l'amour tient à un lien que les hommes rompent à leur avantage, tandis que la crainte tient à la peur du châtiment, <q>il est plus sûr d'être craint qu'aimé</q>, pourvu qu'on évite d'être haï.",
+          "en": "Cruelty is not praised in itself: it is judged by its use. <kw>Well used</kw> are those inflicted all at once, out of the necessity of securing oneself, and then turned to the greatest benefit of the subjects; <kw>badly used</kw>, those that grow with time. Injuries are done all together, benefits are meted out slowly; and since love hangs on a bond that men break to their advantage, whereas fear hangs on the dread of punishment, <q>it is safer to be feared than loved</q>, provided one avoids being hated."
+        },
+        "references": [
+          { "fr": "Le Prince, chap. VIII (Agathocle)", "en": "The Prince, ch. VIII (Agathocles)" },
+          { "fr": "Le Prince, chap. VII (César Borgia, Remirro de Orco)", "en": "The Prince, ch. VII (Cesare Borgia, Remirro de Orco)" },
+          { "fr": "Le Prince, chap. XVII (être craint ou aimé)", "en": "The Prince, ch. XVII (to be feared or loved)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CONTROL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.35 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Contre le fatalisme qui remet tout au sort ou à Dieu, Machiavel réserve à l'homme la moitié du jeu : la <c id='fortuna'>fortune</c> règle une part de nos actions, mais nous laisse gouverner l'autre. La <c id='virtu-machiavelli'>virtù</c> est cette part active : élever, quand le temps est calme, des digues contre le fleuve qui débordera, saisir l'<c>occasion</c>, accorder sa manière à la qualité des temps. Il penche pour l'audace, car la fortune cède aux hardis.",
+          "en": "Against the fatalism that leaves everything to chance or to God, Machiavelli reserves half the game for man: <c id='fortuna'>fortune</c> rules one part of our actions but leaves us to govern the other. <c id='virtu-machiavelli'>Virtù</c> is that active part: to raise, while the weather is calm, dikes against the river that will overflow, to seize the <c>occasion</c>, to fit one's manner to the quality of the times. He leans toward boldness, for fortune yields to the daring."
+        },
+        "references": [
+          { "fr": "Le Prince, chap. XXV", "en": "The Prince, ch. XXV" },
+          { "fr": "Le Prince, chap. VI (l'occasion)", "en": "The Prince, ch. VI (the occasion)" }
+        ],
+        "quoteId": "je-juge-qu-il-peut-etre-vrai-machiavelli",
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SINCERITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.9 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Puisque les hommes sont mauvais et ne te garderont pas leur foi, tu n'es pas tenu de garder la tienne quand elle te nuit et que les raisons qui te la firent promettre sont éteintes. Le prince doit combattre en homme par les lois et en bête par la force, et parmi les bêtes être <c>renard</c> pour flairer les pièges autant que <c>lion</c> pour effrayer les loups. Reste alors l'essentiel : non ce qu'il est, mais ce qu'il paraît, car peu de gens touchent au vrai quand la majorité s'arrête à l'apparence.",
+          "en": "Since men are wicked and will not keep faith with you, you are not bound to keep yours when it harms you and the reasons that made you promise are spent. The prince must fight as a man by the laws and as a beast by force, and among beasts be a <c>fox</c> to scent snares as much as a <c>lion</c> to frighten off wolves. What then remains is the essential thing: not what he is but what he seems, for few touch the truth while the many stop at appearances."
+        },
+        "references": [
+          { "fr": "Le Prince, chap. XVIII (comment les princes doivent tenir leur parole)", "en": "The Prince, ch. XVIII (in what mode faith should be kept by princes)" }
+        ],
+        "quoteId": "chacun-voit-ce-que-tu-parais-machiavelli",
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "POLITICAL_LIBERTY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.1, 0.25, 0.65, 0] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le peuple, dans les <w id='discourses-on-livy-machiavelli'>Discours</w>, ne désire qu'une chose : n'être ni commandé ni opprimé. La liberté qu'il défend est d'abord l'indépendance à l'égard de tout pouvoir arbitraire, au-dehors comme au-dedans. Ce <c>vivere libero</c>, étayé par le gouvernement mixte et par des lois nées du conflit des ordres, fait de Machiavel une source de la tradition républicaine de la <ax id='POLITICAL_LIBERTY' pole='NON_DOMINATION'>non-domination</ax>, plus que de la seule liberté-absence-d'entrave.",
+          "en": "The people, in the <w id='discourses-on-livy-machiavelli'>Discourses</w>, desire one thing only: not to be commanded or oppressed. The liberty they defend is first of all independence from any arbitrary power, abroad as at home. This <c>vivere libero</c>, upheld by mixed government and by laws born of the conflict of the orders, makes Machiavelli a source of the republican tradition of <ax id='POLITICAL_LIBERTY' pole='NON_DOMINATION'>non-domination</ax>, more than of mere liberty-as-absence-of-interference."
+        },
+        "references": [
+          { "fr": "Le Prince, chap. IX (le peuple et les grands)", "en": "The Prince, ch. IX (the people and the great)" },
+          { "fr": "Discours sur la première décade de Tite-Live, I, 4 et I, 16", "en": "Discourses on Livy, I.4 and I.16" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HUMAN_VISION",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.75 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Qui institue une république doit <q>présupposer tous les hommes méchants</q>, prêts à suivre leur malignité dès qu'ils en ont la libre occasion : c'est un postulat de législateur, non une métaphysique de la chute. Les hommes sont <q>ingrats, changeants, simulateurs, fuyards devant le péril, avides de gain</q>. Mais ce mal n'est pas figé : de bonnes lois et l'aiguillon de la nécessité peuvent les rendre bons, ce qui écarte le pessimisme absolu.",
+          "en": "Whoever founds a republic must <q>presuppose all men wicked</q>, ready to follow their malice as soon as they have free occasion: this is a legislator's postulate, not a metaphysics of the fall. Men are <q>ungrateful, fickle, dissemblers, evaders of danger, greedy for gain</q>. But this evil is not fixed: good laws and the goad of necessity can make them good, which keeps it short of an absolute pessimism."
+        },
+        "references": [
+          { "fr": "Le Prince, chap. XVII", "en": "The Prince, ch. XVII" },
+          { "fr": "Discours sur la première décade de Tite-Live, I, 3", "en": "Discourses on Livy, I.3" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HUMAN_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.7 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si l'histoire instruit l'action présente, c'est que la nature humaine ne varie pas : en toute cité et tout peuple se retrouvent <q>les mêmes désirs et les mêmes humeurs</q>, et il en fut toujours ainsi. Les deux humeurs, celle du peuple et celle des grands, traversent toutes les sociétés. Contre l'idée d'un homme entièrement façonné par sa culture, Machiavel parie sur des constantes anthropologiques qui rendent le passé imitable.",
+          "en": "If history instructs present action, it is because human nature does not vary: in every city and people one finds <q>the same desires and the same humors</q>, and it was ever so. The two humors, that of the people and that of the great, run through all societies. Against the idea of a human being wholly shaped by culture, Machiavelli wagers on anthropological constants that make the past worth imitating."
+        },
+        "references": [
+          { "fr": "Discours sur la première décade de Tite-Live, I, 39", "en": "Discourses on Livy, I.39" },
+          { "fr": "Discours sur la première décade de Tite-Live, I, 4 et préface du livre I", "en": "Discourses on Livy, I.4 and Book I Preface" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HISTORY_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.3 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'histoire n'a ni providence ni progrès : les régimes tournent en un cercle de six formes, chacune se corrompant en la suivante, et nul État n'échappe à la décadence sinon en revenant périodiquement à ses <c>principes</c> premiers. Cette récurrence, aggravée par le rôle immense de la <c id='fortuna'>fortune</c>, exclut toute direction d'ensemble : le sens de l'histoire est un retour, non une flèche.",
+          "en": "History has neither providence nor progress: regimes turn in a circle of six forms, each corrupting into the next, and no state escapes decay except by periodically returning to its first <c>principles</c>. This recurrence, compounded by the immense role of <c id='fortuna'>fortune</c>, rules out any overall direction: the meaning of history is a return, not an arrow."
+        },
+        "references": [
+          { "fr": "Discours sur la première décade de Tite-Live, I, 2", "en": "Discourses on Livy, I.2" },
+          { "fr": "Discours sur la première décade de Tite-Live, III, 1 (le retour aux principes)", "en": "Discourses on Livy, III.1 (return to first principles)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.6 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Son savoir se dit tiré d'une <q>longue expérience des choses modernes et d'une continuelle lecture des anciennes</q> : c'est de l'observation des cas, diplomatiques et historiques, que se dégagent les maximes, non d'une déduction a priori. Une méthode empirique et inductive appliquée aux affaires humaines.",
+          "en": "His knowledge, he says, is drawn from a <q>long experience of modern things and a continual reading of ancient ones</q>: it is from the observation of cases, diplomatic and historical, that the maxims emerge, not from a priori deduction. An empirical, inductive method applied to human affairs."
+        },
+        "references": [
+          { "fr": "Le Prince, Épître dédicatoire", "en": "The Prince, Dedicatory Letter" },
+          { "fr": "Discours sur la première décade de Tite-Live, préface du livre I", "en": "Discourses on Livy, Book I, Preface" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "PUNISHMENT",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.3, 0.7, 0, 0] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Punir vise l'effet politique, non le mérite : la crainte du châtiment est le lien le plus sûr des sujets, et le supplice exemplaire de <per>Remirro de Orco</per>, exposé fendu en deux sur la place de Cesena, laisse le peuple à la fois satisfait et stupéfait. Dissuasion et apaisement de l'opinion l'emportent sur la réparation ou l'amendement.",
+          "en": "Punishment aims at political effect, not desert: the dread of punishment is the surest bond of subjects, and the exemplary execution of <per>Remirro de Orco</per>, left cleft in two on the square at Cesena, leaves the people at once satisfied and stunned. Deterrence and the appeasement of opinion prevail over reparation or reform."
+        },
+        "references": [
+          { "fr": "Le Prince, chap. VII (Remirro de Orco)", "en": "The Prince, ch. VII (Remirro de Orco)" },
+          { "fr": "Le Prince, chap. XVII (la crainte du châtiment)", "en": "The Prince, ch. XVII (the dread of punishment)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "AUTHORITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.4 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Fonder ou réformer un État exige d'être seul, d'une autorité quasi absolue ; mais durer exige l'inverse, un gouvernement mixte et des lois au-dessus des hommes. Machiavel tient l'ordre coercitif pour nécessaire, contre toute anarchie, tout en logeant la liberté durable dans le <c>constitutionnalisme</c> romain.",
+          "en": "To found or reform a state one must be alone, wielding a near-absolute authority; but to endure demands the opposite, a mixed government and laws set above men. Machiavelli holds coercive order to be necessary, against all anarchy, while lodging lasting liberty in Roman <c>constitutionalism</c>."
+        },
+        "references": [
+          { "fr": "Discours sur la première décade de Tite-Live, I, 9 (le fondateur seul)", "en": "Discourses on Livy, I.9 (the sole founder)" },
+          { "fr": "Discours sur la première décade de Tite-Live, I, 2 (le gouvernement mixte)", "en": "Discourses on Livy, I.2 (mixed government)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "WHO_DECIDES",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.2 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Contre le préjugé qui méprise la foule, Machiavel juge <q>la multitude plus sage et plus constante qu'un prince</q> lorsqu'elle est réglée par les lois, et rapproche la <q>voix du peuple de celle de Dieu</q>. Mais fonder ou sauver un État revient à un seul : sa confiance dans le grand nombre reste tempérée par le rôle de l'homme d'exception.",
+          "en": "Against the prejudice that despises the crowd, Machiavelli judges <q>the multitude wiser and more constant than a prince</q> when it is ordered by laws, and likens the <q>voice of the people to the voice of God</q>. But to found or save a state falls to one man: his trust in the many stays tempered by the role of the exceptional individual."
+        },
+        "references": [
+          { "fr": "Discours sur la première décade de Tite-Live, I, 58", "en": "Discourses on Livy, I.58" },
+          { "fr": "Discours sur la première décade de Tite-Live, I, 9", "en": "Discourses on Livy, I.9" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TIME_ORIENTATION",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.3, 0.15, 0.55] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le remède au présent se cherche au passé : il faut imiter les Anciens et ramener sans cesse le corps politique vers ses commencements. Cette orientation vers la mémoire et l'exemple romain cohabite avec un sens aigu de l'<c>occasion</c> présente, qu'il faut saisir sans tarder.",
+          "en": "The remedy for the present is sought in the past: one must imitate the ancients and keep drawing the body politic back toward its beginnings. This orientation toward memory and the Roman example coexists with a keen sense of the present <c>occasion</c>, which must be seized without delay."
+        },
+        "references": [
+          { "fr": "Discours sur la première décade de Tite-Live, préface du livre I ; III, 1", "en": "Discourses on Livy, Book I Preface; III.1" },
+          { "fr": "Le Prince, chap. XIV (lire les histoires)", "en": "The Prince, ch. XIV (reading histories)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "INDIVIDUAL_SOCIETY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.5 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La cité n'est pas pour Machiavel une somme d'individus mais un corps traversé de forces collectives, les deux <c>humeurs</c> du peuple et des grands, dont le heurt produit les lois et la liberté. Le salut de ce corps, la <c>patrie</c>, prime la conscience individuelle, du prince comme du citoyen.",
+          "en": "The city is for Machiavelli not a sum of individuals but a body run through with collective forces, the two <c>humors</c> of the people and the great, whose clash produces laws and liberty. The salvation of this body, the <c>fatherland</c>, takes precedence over individual conscience, the prince's as much as the citizen's."
+        },
+        "references": [
+          { "fr": "Discours sur la première décade de Tite-Live, I, 4", "en": "Discourses on Livy, I.4" },
+          { "fr": "Le Prince, chap. IX", "en": "The Prince, ch. IX" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "RULE_SPIRIT",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.5 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Nulle règle ne vaut en tout temps : le succès tient à l'accord entre la manière d'agir et la qualité des temps, et celui qui n'infléchit pas sa conduite quand ils changent se perd. La sagesse pratique prime la règle fixe, mais au service de l'efficacité, non de l'équité.",
+          "en": "No rule holds for all times: success depends on the match between one's manner of acting and the quality of the times, and whoever does not bend his conduct when they change is undone. Practical wisdom prevails over the fixed rule, but in the service of effectiveness, not of equity."
+        },
+        "references": [
+          { "fr": "Le Prince, chap. XXV", "en": "The Prince, ch. XXV" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SOCIAL_CONTRACT",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.3 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'État ne naît pas d'un pacte entre égaux consentants : il est institué par la force et la <c id='virtu-machiavelli'>virtù</c> d'un fondateur, puis maintenu par les <q>bonnes lois et les bonnes armes</q>. Machiavel précède le contractualisme et n'en partage pas la source : la légitimité vient de la fondation et de l'effet, non du consentement.",
+          "en": "The state is not born of a pact among consenting equals: it is instituted by the force and the <c id='virtu-machiavelli'>virtù</c> of a founder, then maintained by <q>good laws and good arms</q>. Machiavelli precedes contractualism and does not share its source: legitimacy comes from founding and from effect, not from consent."
+        },
+        "references": [
+          { "fr": "Discours sur la première décade de Tite-Live, I, 9", "en": "Discourses on Livy, I.9" },
+          { "fr": "Le Prince, chap. XII (les bonnes lois et les bonnes armes)", "en": "The Prince, ch. XII (good laws and good arms)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "NO_POSITION",
+      "note": {
+        "fr": "Machiavel n'argumente jamais l'existence de Dieu. Il aborde la religion comme <c>instrument du gouvernement</c>, le rôle civique de <per>Numa</per> étant pour Rome aussi décisif que les armes de <per>Romulus</per>, et reproche au christianisme d'avoir <q>rendu le monde faible</q> en glorifiant l'humilité et la contemplation contre la vigueur civique (<w id='discourses-on-livy-machiavelli'>Discours</w>, I, 11 et II, 2). Sa question n'est pas la vérité de la religion, mais ses effets sur la cité.",
+        "en": "Machiavelli never argues for the existence of God. He treats religion as an <c>instrument of government</c>, Numa's civic role being for Rome as decisive as <per>Romulus</per>'s arms, and reproaches Christianity with having <q>made the world weak</q> by glorifying humility and contemplation over civic vigor (<w id='discourses-on-livy-machiavelli'>Discourses</w>, I.11 and II.2). His question is not the truth of religion but its effects on the city."
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "POLITICAL_IDEAL",
+      "thesis": {
+        "fr": "Il faut partir de la <c id='verita-effettuale'>vérité effective</c> des choses, non des <pb>républiques imaginées</pb> qui n'ont jamais existé : qui délaisse ce qui se fait pour ce qui devrait se faire apprend sa ruine plutôt que son salut.",
+        "en": "One must start from the <c id='verita-effettuale'>effectual truth</c> of things, not from <pb>imagined republics</pb> that have never existed: whoever forsakes what is done for what ought to be done learns his ruin rather than his preservation."
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "thesis": {
+        "fr": "En politique, une action se juge à ses résultats, non à sa conformité aux règles morales : le prince doit <q>apprendre à pouvoir n'être pas bon</q>, et en user selon la nécessité.",
+        "en": "In politics an action is judged by its results, not by its conformity to moral rules: the prince must <q>learn to be able not to be good</q>, and use it or not according to necessity."
+      }
+    },
+    {
+      "axisId": "VIOLENCE",
+      "thesis": {
+        "fr": "La cruauté n'est ni bonne ni mauvaise en soi : <kw>bien usée</kw>, faite d'un seul coup par nécessité puis convertie en utilité pour les sujets, elle assure l'État ; distillée dans la durée, elle le perd.",
+        "en": "Cruelty is neither good nor evil in itself: <kw>well used</kw>, done all at once out of necessity and then turned to the subjects' benefit, it secures the state; drawn out over time, it ruins it."
+      }
+    },
+    {
+      "axisId": "CONTROL_SCOPE",
+      "thesis": {
+        "fr": "La fortune n'est maîtresse que de la moitié de nos actions : l'autre moitié, la <c id='virtu-machiavelli'>virtù</c> la gouverne, élevant des digues contre son fleuve et saisissant l'occasion d'un cœur hardi.",
+        "en": "Fortune is mistress of only half our actions: the other half is governed by <c id='virtu-machiavelli'>virtù</c>, which raises dikes against her flood and seizes the occasion with a bold heart."
+      }
+    },
+    {
+      "axisId": "SINCERITY",
+      "thesis": {
+        "fr": "Le prince doit savoir être <c>renard</c> autant que <c>lion</c> : ce qui gouverne n'est pas ce qu'il est, mais ce que tous voient de lui, et il ne tiendra pas sa parole quand elle se retourne contre lui.",
+        "en": "The prince must know how to be a <c>fox</c> as much as a <c>lion</c>: what governs is not what he is but what everyone sees of him, and he will not keep his word when it turns against him."
+      }
+    },
+    {
+      "axisId": "POLITICAL_LIBERTY",
+      "thesis": {
+        "fr": "Un peuple n'est libre que s'il ne dépend du pouvoir arbitraire de personne, au-dehors comme au-dedans : ce <c>vivere libero</c> ne naît pas de la concorde, mais du conflit réglé entre le peuple et les grands.",
+        "en": "A people is free only if it depends on no one's arbitrary power, abroad as at home: this <c>vivere libero</c> is born not of concord but of the ordered conflict between the people and the great."
+      }
+    }
+  ],
+  "updatedAt": "2026-07-22T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

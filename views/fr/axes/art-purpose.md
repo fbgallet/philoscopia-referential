@@ -35,6 +35,8 @@ L'artiste vit dans son époque et ne peut s'en laver les mains : son œuvre éve
 
 ## Citations
 
+> « Le beau est l'apparaître sensible de l'Idée. » — [Hegel](../philosophers/hegel.md), Leçons d'esthétique, Introduction
+
 > « La poésie est plus philosophique et plus noble que l'histoire : elle énonce le général, l'histoire le particulier. » — [Aristote](../philosophers/aristotle.md), Poétique, 9 (1451b)
 
 ## Axes liés

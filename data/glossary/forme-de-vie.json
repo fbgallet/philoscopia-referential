@@ -1,0 +1,13 @@
+{
+  "id": "forme-de-vie",
+  "term": { "fr": "Forme de vie", "en": "Form of life" },
+  "aliases": { "fr": ["forme de vie", "formes de vie"], "en": ["form of life", "Lebensform"] },
+  "definition": {
+    "fr": "La forme de vie (Lebensform) est, chez <ph id='wittgenstein'>Wittgenstein</ph> tardif, le fond ultime où s'arrête la justification : l'ensemble des activités, réactions et accords pratiques dans lesquels un langage est enraciné. « Ce qui doit être accepté, le donné, ce sont les formes de vie. » L'accord qui rend le langage possible n'est pas un accord d'opinions mais un accord dans la forme de vie ; c'est là le socle où « la bêche se retourne ».",
+    "en": "The form of life (Lebensform) is, for the late <ph id='wittgenstein'>Wittgenstein</ph>, the ultimate bedrock where justification ends: the whole of the activities, reactions and practical agreements in which a language is rooted. \"What has to be accepted, the given, is forms of life.\" The agreement that makes language possible is not an agreement in opinions but an agreement in form of life; this is the bedrock where \"the spade is turned\"."
+  },
+  "relatedAxes": ["HUMAN_NATURE", "MEANING", "METAPHILOSOPHY"],
+  "relatedTerms": ["jeu-de-langage"],
+  "figure": { "slug": "wittgenstein", "name": { "fr": "Wittgenstein", "en": "Wittgenstein" } },
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

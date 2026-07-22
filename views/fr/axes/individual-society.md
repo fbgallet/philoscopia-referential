@@ -39,6 +39,8 @@ Le tout social est plus que la somme de ses parties : il possède ses propres lo
 
 > « La nature humaine n'est pas une machine que l'on construit sur un modèle, mais un arbre qui doit croître et se développer de tous côtés. » — [Mill](../philosophers/mill.md), De la liberté, ch. 3
 
+> « Moi qui est nous, et nous qui est moi. » — [Hegel](../philosophers/hegel.md), Phénoménologie de l'esprit, ch. IV (l'autoconscience)
+
 ## Axes liés
 
 [Identité sociale](../axes/social-identity.md) · [Liberté politique](../axes/political-liberty.md) · [Intérêt propre et autrui](../axes/self-interest.md) · [Origine du lien social](../axes/social-contract.md)

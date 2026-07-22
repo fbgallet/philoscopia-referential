@@ -1,0 +1,13 @@
+{
+  "id": "propositions-gonds",
+  "term": { "fr": "Propositions-gonds", "en": "Hinge propositions" },
+  "aliases": { "fr": ["propositions-gonds", "propositions charnières"], "en": ["hinge propositions", "hinges"] },
+  "definition": {
+    "fr": "Les propositions-gonds sont, chez le dernier <ph id='wittgenstein'>Wittgenstein</ph> (De la certitude), ces propositions qui ne sont ni sues ni mises en doute (« voici une main », « la Terre existait avant ma naissance ») mais qui forment le cadre rendant possibles le savoir et le doute. « Si je veux que la porte tourne, les gonds doivent tenir » : elles sont tenues fermes non par des preuves mais par notre pratique, et le scepticisme qui prétendrait les révoquer scie la branche sur laquelle il est assis.",
+    "en": "Hinge propositions are, in the last <ph id='wittgenstein'>Wittgenstein</ph> (On Certainty), those propositions neither known nor doubted (\"here is a hand\", \"the earth existed long before my birth\") but which form the frame that makes knowledge and doubt possible. \"If I want the door to turn, the hinges must stay put\": they are held fast not by proofs but by our practice, and the skepticism that would revoke them saws off the branch it sits on."
+  },
+  "relatedAxes": ["CERTAINTY", "KNOWLEDGE_STATUS", "METAPHILOSOPHY"],
+  "relatedTerms": ["forme-de-vie"],
+  "figure": { "slug": "wittgenstein", "name": { "fr": "Wittgenstein", "en": "Wittgenstein" } },
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

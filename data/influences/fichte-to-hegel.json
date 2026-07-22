@@ -1,0 +1,16 @@
+{
+  "id": "fichte-to-hegel",
+  "from": { "kind": "PHILOSOPHER", "slug": "fichte" },
+  "to": { "kind": "PHILOSOPHER", "slug": "hegel" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "De <ph id='fichte'>Fichte</ph>, <ph id='hegel'>Hegel</ph> retient le Moi comme activité qui se pose elle-même et le primat du pratique ; mais il refuse de laisser le non-Moi, la nature, comme un devoir-être que le Moi ne rejoint jamais, une « mauvaise infinité » : il faut réconcilier les opposés, non les opposer sans fin.",
+    "en": "From <ph id='fichte'>Fichte</ph>, <ph id='hegel'>Hegel</ph> keeps the I as self-positing activity and the primacy of the practical; but he refuses to leave the not-I, nature, as an ought-to-be the I never reaches, a \"bad infinity\": one must reconcile opposites, not oppose them endlessly."
+  },
+  "sources": [
+    { "fr": "Différence des systèmes de Fichte et de Schelling (1801)", "en": "The Difference Between Fichte's and Schelling's Systems of Philosophy (1801)" }
+  ],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

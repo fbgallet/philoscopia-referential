@@ -12,6 +12,7 @@
     "en": "Hero of <per>Homer</per>'s <w id='odyssey-homer'>Odyssey</w>, Odysseus is the king of Ithaca held ten years far from home after the Trojan War, whose end his ruse of the wooden horse had precipitated. Where the <chr>Achilles</chr> of the <w id='iliad-homer'>Iliad</w> embodies force and brief <c>glory</c>, Odysseus is the hero of cunning intelligence, patience and return: his epic is no conquest but a long crossing of trials, temptations and traps toward his home, his wife <chr>Penelope</chr> and his kingdom. An inexhaustible figure, he was in turn raised into an enduring sage by the <mv id='stoicism'>Stoics</mv>, damned as a sacrilegious explorer by <per>Dante</per>, reread by <ph id='horkheimer'>Horkheimer</ph> and <ph id='adorno'>Adorno</ph>, in <w>Dialectic of Enlightenment</w>, as the first face of <c id='raison-instrumentale'>instrumental reason</c>, and transposed by <per>Joyce</per> into a single Dublin day."
   },
   "work": {
+    "workId": "odyssey-homer",
     "title": { "fr": "L'Odyssée", "en": "The Odyssey" },
     "author": { "fr": "Homère", "en": "Homer" },
     "year": -750,

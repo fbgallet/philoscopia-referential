@@ -38,6 +38,8 @@ Meaning lies in what the speaker seeks to get recognised: to communicate is to g
 
 > “The trap is for catching fish: once the fish is caught, the trap is forgotten. Words are for grasping the idea: once the idea is grasped, the words are forgotten.” — [Zhuangzi](../philosophers/zhuangzi.md), ch. 26
 
+> “The meaning of a word is its use in the language.” — [Wittgenstein](../philosophers/wittgenstein.md), Philosophical Investigations, §43
+
 ## Related axes
 
 [Nature of truth](../axes/truth-nature.md) · [Status of knowledge](../axes/knowledge-status.md) · [The point of philosophy](../axes/metaphilosophy.md)

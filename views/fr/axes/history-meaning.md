@@ -33,6 +33,8 @@ L'histoire n'a ni plan ni destination : elle résulte d'actions humaines aux con
 
 > « L'histoire de toute société jusqu'à nos jours n'a été que l'histoire de luttes de classes. » — [Marx](../philosophers/marx.md), Manifeste du Parti communiste, 1848
 
+> « L'histoire du monde est le progrès dans la conscience de la liberté. » — [Hegel](../philosophers/hegel.md), Leçons sur la philosophie de l'histoire, Introduction
+
 ## Axes liés
 
 [Tradition et transformation](../axes/conservatism-progressism.md) · [Rapport à la technique](../axes/technology.md) · [Le but de la philosophie](../axes/metaphilosophy.md)

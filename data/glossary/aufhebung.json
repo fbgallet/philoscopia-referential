@@ -1,0 +1,13 @@
+{
+  "id": "aufhebung",
+  "term": { "fr": "Aufhebung", "en": "Aufhebung" },
+  "aliases": { "fr": ["relève", "sursomption"], "en": ["sublation", "supersession"] },
+  "definition": {
+    "fr": "L'Aufhebung (« relève », parfois « sursomption » ou « dépassement ») est, chez <ph id='hegel'>Hegel</ph>, le geste central de la <c>dialectique</c> : le verbe allemand aufheben a un double sens, à la fois nier et conserver, que Hegel appelle « l'un des concepts les plus importants de la philosophie ». Une figure de la pensée, une fois contredite, n'est pas simplement supprimée : elle est annulée dans son unilatéralité, gardée dans ce qu'elle avait de vrai, et élevée à un niveau plus haut. <ety>De l'allemand aufheben, lever, supprimer et conserver.</ety>",
+    "en": "Aufhebung (\"sublation\", sometimes \"supersession\") is, for <ph id='hegel'>Hegel</ph>, the central gesture of the <c>dialectic</c>: the German verb aufheben has a double sense, both to negate and to preserve, which Hegel calls \"one of the most important concepts in philosophy\". A figure of thought, once contradicted, is not simply cancelled: it is annulled in its one-sidedness, kept in what was true in it, and raised to a higher level. <ety>From the German aufheben, to lift, to abolish and to preserve.</ety>"
+  },
+  "relatedAxes": ["BEING_BECOMING", "HISTORY_MEANING", "TRUTH_NATURE"],
+  "relatedTerms": ["geist"],
+  "figure": { "slug": "hegel", "name": { "fr": "Hegel", "en": "Hegel" } },
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

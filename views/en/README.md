@@ -3,14 +3,14 @@
 # Corpus
 
 - [Axes](axes/README.md) (80)
-- [Philosophers](philosophers/README.md) (166)
+- [Philosophers](philosophers/README.md) (167)
 - [Movements](movements/README.md) (24)
 - [Characters](characters/README.md) (4)
-- [Glossary](glossary/README.md) (237)
-- [Works](works/README.md) (109)
-- [Quotations](quotes/README.md) (291)
+- [Glossary](glossary/README.md) (249)
+- [Works](works/README.md) (117)
+- [Quotations](quotes/README.md) (304)
 - [Thought experiments](thought-experiments/README.md) (29)
-- [Arguments](arguments/README.md) (159)
+- [Arguments](arguments/README.md) (162)
 
 ---
 

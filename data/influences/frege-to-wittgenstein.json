@@ -1,0 +1,16 @@
+{
+  "id": "frege-to-wittgenstein",
+  "from": { "kind": "PHILOSOPHER", "slug": "frege" },
+  "to": { "kind": "PHILOSOPHER", "slug": "wittgenstein" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='wittgenstein'>Wittgenstein</ph> vint à la philosophie par la logique de <ph id='frege'>Frege</ph>, qu'il alla consulter avant que Frege ne l'adresse à <ph id='russell'>Russell</ph>. Le Tractatus hérite de son exigence logique, de la distinction du sens et de la référence et du principe de contexte ; le Wittgenstein tardif s'en éloigne en cherchant le sens dans l'usage, non dans une pensée logique idéale.",
+    "en": "<ph id='wittgenstein'>Wittgenstein</ph> came to philosophy through <ph id='frege'>Frege</ph>'s logic, whom he consulted before Frege sent him on to <ph id='russell'>Russell</ph>. The Tractatus inherits his logical rigour, the distinction of sense and reference, and the context principle; the later Wittgenstein moves away from him, seeking meaning in use rather than in an ideal logical thought."
+  },
+  "sources": [
+    { "fr": "Tractatus logico-philosophicus (Préface) ; Recherches philosophiques", "en": "Tractatus Logico-Philosophicus (Preface); Philosophical Investigations" }
+  ],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

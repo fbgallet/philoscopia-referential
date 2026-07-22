@@ -29,6 +29,8 @@ Il faut partir de la vérité effective des choses, non des républiques imagina
 
 ## Citations
 
+> « Il m'a paru plus convenable de suivre la vérité effective de la chose que sa représentation imaginaire. Beaucoup ont imaginé des républiques et des principautés qu'on n'a jamais vues ni connues comme existant en réalité. » — [Machiavel](../philosophers/machiavelli.md), Le Prince, chap. XV
+
 > « Le communisme n'est pas pour nous un état qui doit être créé, un idéal sur lequel la réalité devra se régler. Nous appelons communisme le mouvement réel qui abolit l'état actuel. » — [Marx](../philosophers/marx.md), L'Idéologie allemande, 1846
 
 ## Axes liés

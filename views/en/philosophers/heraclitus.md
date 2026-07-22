@@ -10,6 +10,7 @@ Presocratic thinker of becoming: everything flows, one cannot step into the same
 
 ## Influence on
 
+- **[Hegel](../philosophers/hegel.md)** (continues) : [Hegel](../philosophers/hegel.md) recognizes in [Heraclitus](../philosophers/heraclitus.md) the thinker of becoming and of the unity of opposites: "there is no proposition of Heraclitus which I have not taken up in my Logic", he says, making the Heraclitean flux a moment of his own dialectic of being and nothing.
 - **[Stoicism](../movements/stoicism.md)** (continues) : [Stoicism](../movements/stoicism.md) takes up from [Heraclitus](../philosophers/heraclitus.md) its physics of fire and logos: a rational, divine principle pervades and orders a cosmos in perpetual becoming, down to the conflagration that reabsorbs and regenerates it.
 
 ---

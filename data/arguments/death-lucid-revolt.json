@@ -1,0 +1,55 @@
+{
+  "id": "death-lucid-revolt",
+  "kind": "SUPPORTS",
+  "position": { "axisId": "DEATH", "poleId": "REVOLT" },
+  "name": { "fr": "La révolte lucide", "en": "Lucid revolt" },
+  "claim": {
+    "fr": "Consentir à la mort, c'est bénir l'inacceptable ; la seule attitude digne d'une conscience qui aime la vie est de la refuser.",
+    "en": "To consent to death is to bless the unacceptable; the only attitude worthy of a consciousness that loves life is to refuse it."
+  },
+  "summary": {
+    "fr": "Appeler la mort « naturelle » ou « douce », c'est excuser ce qui détruit l'irremplaçable ; la refuser sans illusion, c'est rester fidèle au prix de vivre.",
+    "en": "To call death \"natural\" or \"gentle\" is to excuse what destroys the irreplaceable; to refuse it without illusion is to stay faithful to the worth of living."
+  },
+  "development": [
+    {
+      "fr": "Rien ne rend la mort acceptable : elle anéantit un être unique, sans retour ni réparation. <ph id='beauvoir'>Beauvoir</ph>, au chevet de sa mère mourante, refuse le mot qui console : « il n'y a pas de mort naturelle », toute mort est une violence indue, même lorsqu'on la sait venir et qu'on y consent.",
+      "en": "Nothing makes death acceptable: it annihilates a unique being, beyond return or repair. <ph id='beauvoir'>Beauvoir</ph>, at her dying mother's bedside, refuses the word that consoles: \"there is no natural death,\" every death is an undue violence, even when one knows it is coming and consents to it."
+    },
+    {
+      "fr": "Les sagesses de l'acceptation, en la disant « rien », « passage » ou « cours de la nature », lui donnent raison d'avance : elles apaisent le mourant en désarmant sa protestation. Mais s'accorder à ce qui nous nie, c'est trahir ce que la vie a d'irremplaçable.",
+      "en": "The wisdoms of acceptance, by calling it \"nothing,\" \"passage\" or \"the course of nature,\" grant it the victory in advance: they soothe the dying by disarming their protest. But to come to terms with what negates us is to betray what is irreplaceable in life."
+    },
+    {
+      "fr": "La réponse d'une conscience lucide n'est donc ni l'illusion ni la résignation, mais la <c id='revolt'>révolte</c> : avec <ph id='camus'>Camus</ph>, garder les yeux ouverts sur le scandale et refuser de s'y réconcilier, du refus intérieur qui ne bénit rien jusqu'au combat concret pour reculer la mort.",
+      "en": "The response of a lucid consciousness is therefore neither illusion nor resignation, but <c id='revolt'>revolt</c>: with <ph id='camus'>Camus</ph>, to keep one's eyes open on the scandal and refuse to be reconciled with it, from the inner refusal that blesses nothing to the concrete fight to push death back."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc refuser la mort n'est pas la nier : c'est la seule fidélité possible à la vie qu'elle menace, le « non » qui donne sa forme à notre « oui ».",
+    "en": "So to refuse death is not to deny it: it is the only fidelity possible to the life it threatens, the \"no\" that gives our \"yes\" its form."
+  },
+  "deepenings": [
+    {
+      "id": "revolt-not-victory",
+      "label": { "fr": "La révolte ne vise pas à vaincre", "en": "Revolt does not aim to win" },
+      "targetStep": 2,
+      "development": [
+        {
+          "fr": "<ph id='camus'>Camus</ph> distingue la révolte du désespoir comme de l'espérance : le révolté ne croit pas vaincre la mort, mais il refuse de s'incliner devant elle. « Vivre, c'est faire vivre l'absurde », et le faire vivre, « c'est d'abord le regarder ».",
+          "en": "<ph id='camus'>Camus</ph> sets revolt apart from despair as much as from hope: the rebel does not believe he will defeat death, but he refuses to bow before it. \"To live is to keep the absurd alive,\" and to keep it alive \"is first of all to look at it.\""
+        },
+        {
+          "fr": "Sa dignité est là : non dans une victoire impossible, mais dans une tension maintenue, une lucidité qui ne cède ni à la consolation ni à l'abdication.",
+          "en": "Its dignity lies there: not in an impossible victory, but in a tension held, a lucidity that yields neither to consolation nor to abdication."
+        }
+      ],
+      "source": { "author": { "fr": "Camus", "en": "Camus" }, "figures": [{ "name": { "fr": "Camus", "en": "Camus" }, "kind": "PHILOSOPHER", "slug": "camus" }], "work": { "fr": "Le Mythe de Sisyphe", "en": "The Myth of Sisyphus" }, "year": 1942 }
+    }
+  ],
+  "difficulty": 2,
+  "source": { "author": { "fr": "Beauvoir, Camus", "en": "Beauvoir, Camus" }, "figures": [{ "name": { "fr": "Simone de Beauvoir", "en": "Simone de Beauvoir" }, "kind": "PHILOSOPHER", "slug": "beauvoir" }, { "name": { "fr": "Camus", "en": "Camus" }, "kind": "PHILOSOPHER", "slug": "camus" }], "work": { "fr": "Une mort très douce ; Le Mythe de Sisyphe", "en": "A Very Easy Death; The Myth of Sisyphus" } },
+  "test": "death-revolt-ressentiment",
+  "problems": ["the-death-of-others"],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

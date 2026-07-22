@@ -1,0 +1,16 @@
+{
+  "id": "hegel-vs-feuerbach",
+  "from": { "kind": "PHILOSOPHER", "slug": "hegel" },
+  "to": { "kind": "PHILOSOPHER", "slug": "feuerbach" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='feuerbach'>Feuerbach</ph>, hégélien de gauche, retourne <ph id='hegel'>Hegel</ph> contre lui-même : ce que Hegel appelle Dieu ou Esprit absolu n'est que l'essence de l'homme, projetée et aliénée dans un ciel. La théologie doit se renverser en anthropologie, et l'idéalisme reposer sur la nature sensible.",
+    "en": "<ph id='feuerbach'>Feuerbach</ph>, a Left Hegelian, turns <ph id='hegel'>Hegel</ph> against himself: what Hegel calls God or absolute Spirit is only the essence of man, projected and alienated into a heaven. Theology must be reversed into anthropology, and idealism grounded on sensuous nature."
+  },
+  "sources": [
+    { "fr": "Feuerbach, L'Essence du christianisme (1841)", "en": "Feuerbach, The Essence of Christianity (1841)" }
+  ],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

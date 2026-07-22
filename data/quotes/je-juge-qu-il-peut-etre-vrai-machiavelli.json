@@ -1,0 +1,12 @@
+{
+  "id": "je-juge-qu-il-peut-etre-vrai-machiavelli",
+  "text": {
+    "fr": "Je juge qu'il peut être vrai que la fortune soit l'arbitre de la moitié de nos actions, mais qu'elle nous en laisse gouverner l'autre moitié, ou presque.",
+    "en": "I judge it may be true that fortune is the arbiter of half our actions, but that she still leaves the other half, or nearly so, for us to govern."
+  },
+  "author": { "name": { "fr": "Machiavel", "en": "Machiavelli" }, "kind": "PHILOSOPHER", "slug": "machiavelli" },
+  "work": "the-prince-machiavelli",
+  "source": { "fr": "Le Prince, chap. XXV", "en": "The Prince, ch. XXV" },
+  "anchors": [{ "axisId": "CONTROL_SCOPE" }],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

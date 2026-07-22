@@ -1,0 +1,16 @@
+{
+  "id": "tolstoy-to-wittgenstein",
+  "from": { "kind": "PHILOSOPHER", "slug": "tolstoy" },
+  "to": { "kind": "PHILOSOPHER", "slug": "wittgenstein" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "Au front, en 1914, <ph id='wittgenstein'>Wittgenstein</ph> lit et relit <q>L'Évangile en abrégé</q> de <ph id='tolstoy'>Tolstoï</ph>, qui le porte et qu'il recommande à tous. De là une part de sa gravité éthique et religieuse : la valeur ne s'argumente pas, elle se vit ; ce qui compte, dans le Tractatus, est l'éthique qu'on ne peut dire.",
+    "en": "At the front in 1914, <ph id='wittgenstein'>Wittgenstein</ph> read and reread <ph id='tolstoy'>Tolstoy</ph>'s <q>The Gospel in Brief</q>, which sustained him and which he pressed on everyone. From it comes part of his ethical and religious seriousness: value is not argued but lived; what matters, in the Tractatus, is the ethics one cannot say."
+  },
+  "sources": [
+    { "fr": "Correspondance de guerre ; L'Évangile en abrégé (Tolstoï)", "en": "Wartime correspondence; Tolstoy, The Gospel in Brief" }
+  ],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

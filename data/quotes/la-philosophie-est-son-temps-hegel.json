@@ -1,0 +1,16 @@
+{
+  "id": "la-philosophie-est-son-temps-hegel",
+  "text": {
+    "fr": "La philosophie est son temps saisi dans la pensée.",
+    "en": "Philosophy is its own time comprehended in thought."
+  },
+  "author": { "name": { "fr": "Hegel", "en": "Hegel" }, "kind": "PHILOSOPHER", "slug": "hegel" },
+  "work": "philosophy-of-right-hegel",
+  "source": { "fr": "Principes de la philosophie du droit, Préface", "en": "Elements of the Philosophy of Right, Preface" },
+  "anchors": [{ "axisId": "METAPHILOSOPHY", "poleId": "CONTEMPLATION" }],
+  "context": {
+    "fr": "La philosophie comprend son époque après coup, elle ne prescrit pas au monde ce qu'il doit être.",
+    "en": "Philosophy comprehends its age after the fact; it does not prescribe to the world what it ought to be."
+  },
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

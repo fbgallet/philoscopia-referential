@@ -49,6 +49,8 @@ The true is what works: an idea is true if it effectively guides action and with
 
 > “Truth is the adequation of thing and intellect.” — [Thomas Aquinas](../philosophers/aquinas.md), Disputed Questions on Truth, q. 1, a. 1
 
+> “The true is the whole.” — [Hegel](../philosophers/hegel.md), Phenomenology of Spirit, Preface
+
 > “The true, to put it very briefly, is only the expedient in the way of our thinking.” — James, Pragmatism, lecture VI
 
 ## Related axes

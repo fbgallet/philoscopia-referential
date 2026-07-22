@@ -1,0 +1,16 @@
+{
+  "id": "aristotle-to-hegel",
+  "from": { "kind": "PHILOSOPHER", "slug": "aristotle" },
+  "to": { "kind": "PHILOSOPHER", "slug": "hegel" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='hegel'>Hegel</ph> tient <ph id='aristotle'>Aristote</ph> pour l'un des plus spéculatifs des penseurs : il lui reprend l'actualité (energeia), la fin immanente et l'universel qui n'existe que dans ses individus, contre l'universel abstrait, et clôt son Encyclopédie sur une citation de la Métaphysique, la pensée de la pensée.",
+    "en": "<ph id='hegel'>Hegel</ph> holds <ph id='aristotle'>Aristotle</ph> to be one of the most speculative of thinkers: he takes from him actuality (energeia), immanent end, and the universal that exists only in its individuals, against the abstract universal, and closes his Encyclopedia with a citation from the Metaphysics, thought thinking itself."
+  },
+  "sources": [
+    { "fr": "Encyclopédie, §577 ; Leçons sur l'histoire de la philosophie", "en": "Encyclopedia, §577; Lectures on the History of Philosophy" }
+  ],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

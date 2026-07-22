@@ -1,0 +1,16 @@
+{
+  "id": "schelling-vs-hegel",
+  "from": { "kind": "PHILOSOPHER", "slug": "schelling" },
+  "to": { "kind": "PHILOSOPHER", "slug": "hegel" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Amis et alliés de jeunesse, <ph id='schelling'>Schelling</ph> et <ph id='hegel'>Hegel</ph> rompent en 1807 : Hegel raille l'Absolu schellingien, identité indifférenciée atteinte d'emblée par l'intuition, comme « la nuit où toutes les vaches sont noires », et lui oppose le travail patient du concept, seul chemin vers l'Absolu.",
+    "en": "Friends and allies in their youth, <ph id='schelling'>Schelling</ph> and <ph id='hegel'>Hegel</ph> break in 1807: Hegel mocks the Schellingian Absolute, an undifferentiated identity reached at once by intuition, as \"the night in which all cows are black\", and sets against it the patient labor of the concept, the only path to the Absolute."
+  },
+  "sources": [
+    { "fr": "Phénoménologie de l'esprit, Préface", "en": "Phenomenology of Spirit, Preface" }
+  ],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

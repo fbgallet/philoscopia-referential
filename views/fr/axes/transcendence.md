@@ -31,6 +31,8 @@ Le sacré dépasse ce monde : la vérité, le bien ou Dieu résident dans un ord
 
 ## Citations
 
+> « Ce dont on ne peut parler, il faut le taire. » — [Wittgenstein](../philosophers/wittgenstein.md), Tractatus logico-philosophicus, 7 (la dernière proposition)
+
 > « Il n'est aucun lieu où le dao ne soit. » — [Zhuangzi](../philosophers/zhuangzi.md), ch. 22
 
 > « Il n'est aucune des choses dont il est le principe ; il est tel pourtant que, sans qu'on en puisse rien affirmer, ni le nom, ni la raison, nous pouvons cependant dire quelque chose à son sujet. » — [Plotin](../philosophers/plotinus.md), Ennéades, V, 3, 13-14

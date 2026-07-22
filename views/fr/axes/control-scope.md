@@ -53,6 +53,8 @@ Entre accepter ce qui ne dépend pas de nous et vouloir tout transformer, il s'a
 
 > « Endure, mon cœur : tu as déjà supporté pire. » — Homère, Odyssée, XX, 18
 
+> « Je juge qu'il peut être vrai que la fortune soit l'arbitre de la moitié de nos actions, mais qu'elle nous en laisse gouverner l'autre moitié, ou presque. » — [Machiavel](../philosophers/machiavelli.md), Le Prince, chap. XXV
+
 > « Je ne regarde plus avec les yeux mais avec l'esprit, et la lame suit d'elle-même les interstices naturels. » — [Zhuangzi](../philosophers/zhuangzi.md), ch. 3 (Principe vital)
 
 > « Le Dao est constamment non-agissant, et pourtant rien n'est laissé inaccompli. » — [Laozi](../philosophers/laozi.md), Dao De Jing, ch. 37

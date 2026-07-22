@@ -31,6 +31,8 @@ The sacred surpasses this world: truth, the good, or God belong to a higher orde
 
 ## Quotations
 
+> “Whereof one cannot speak, thereof one must be silent.” — [Wittgenstein](../philosophers/wittgenstein.md), Tractatus Logico-Philosophicus, 7 (the last proposition)
+
 > “There is no place where the dao is not.” — [Zhuangzi](../philosophers/zhuangzi.md), ch. 22
 
 > “It is none of the things of which it is the source; such is its nature that, though nothing can be affirmed of it, not name, not reason, we can yet say something concerning it.” — [Plotinus](../philosophers/plotinus.md), Enneads, V, 3, 13-14

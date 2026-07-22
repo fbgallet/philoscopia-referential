@@ -44,6 +44,9 @@
 - *[A Treatise Concerning the Principles of Human Knowledge](principles-of-human-knowledge-berkeley.md)* : George Berkeley (1710)
 - *[Three Dialogues between Hylas and Philonous](three-dialogues-berkeley.md)* : George Berkeley (1713)
 - *[What Is Ancient Philosophy?](what-is-ancient-philosophy-hadot.md)* : Hadot (1995)
+- *[Phenomenology of Spirit](phenomenology-of-spirit-hegel.md)* : Hegel (1807)
+- *[Science of Logic](science-of-logic-hegel.md)* : Hegel (1812)
+- *[Elements of the Philosophy of Right](philosophy-of-right-hegel.md)* : Hegel (1820)
 - *[Leviathan](leviathan-hobbes.md)* : Hobbes (1651)
 - *[The Iliad](iliad-homer.md)* : Homer (750 BCE)
 - *[The Odyssey](odyssey-homer.md)* : Homer (750 BCE)
@@ -65,6 +68,10 @@
 - *[Metaphysics of Morals](metaphysics-of-morals-kant.md)* : Kant (1797)
 - *[Dao De Jing](dao-de-jing-laozi.md)* : Laozi (300 BCE)
 - *[On the Nature of Things](on-the-nature-of-things-lucretius.md)* : Lucretius (55 BCE)
+- *[The Prince](the-prince-machiavelli.md)* : Machiavelli (1513)
+- *[The Mandrake](mandragola-machiavelli.md)* : Machiavelli (1518)
+- *[Florentine Histories](florentine-histories-machiavelli.md)* : Machiavelli (1525)
+- *[Discourses on the First Decade of Livy](discourses-on-livy-machiavelli.md)* : Machiavelli (1531)
 - *[Meditations](meditations-marcus-aurelius.md)* : Marcus Aurelius (175)
 - *[On Liberty](on-liberty-mill.md)* : Mill (1859)
 - *[The Essays](essays-montaigne.md)* : Montaigne (1580)
@@ -110,6 +117,7 @@
 - *[Summa contra Gentiles](summa-contra-gentiles-aquinas.md)* : Thomas Aquinas (1264)
 - *[Summa Theologiae](summa-theologiae-aquinas.md)* : Thomas Aquinas (1274)
 - *[Tractatus Logico-Philosophicus](tractatus-logico-philosophicus-wittgenstein.md)* : Wittgenstein (1921)
+- *[Philosophical Investigations](philosophical-investigations-wittgenstein.md)* : Wittgenstein (1953)
 - *[Zhuangzi](zhuangzi-zhuangzi.md)* : Zhuangzi (300 BCE)
 
 ---
