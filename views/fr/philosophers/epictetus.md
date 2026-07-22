@@ -44,7 +44,7 @@ Ce qui dépend de nous 95% · Prométhéisme 5%
 
 Le tort de tout malheur, soutient Épictète, est d'attendre son bonheur de choses qui ne sont pas en notre pouvoir. De là le geste premier, qui ouvre le *[Manuel](../works/enchiridion-epictetus.md)* : trier nos affaires en deux classes selon le seul critère de la maîtrise, ce qui relève entièrement de nous (jugements, désirs, aversions) et ce qui n'en relève pas (corps, biens, réputation). La [dichotomie](../glossary/dichotomy-of-control.md) n'est pas une thèse parmi d'autres mais l'opération qui conditionne toute la suite : tout trouble naît d'avoir réclamé une prise sur ce qui nous échappe. Là où les anciens stoïciens parlaient surtout du destin cosmique, Épictète ramène le partage à l'usage concret, ici et maintenant, de ce qui m'appartient en propre.
 
-> « Il y a des choses qui dépendent de nous et d'autres qui n'en dépendent pas. », Manuel, §1
+> « Parmi les choses qui existent, les unes dépendent de nous, les autres ne dépendent pas de nous. », Manuel, §1
 
 *Sources : Manuel, §1 · Entretiens, I, 1*
 
@@ -76,7 +76,7 @@ Extinction-détachement 80% · Tri raisonné 20%
 
 Désir et aversion visent à obtenir ou à éviter : portés sur ce qui ne dépend pas de nous, ils nous vouent à manquer notre but et à subir ce que nous fuyons, donc au malheur. La première des trois disciplines, celle du désir, consiste à les rétracter de tout l'extérieur pour ne plus désirer que ce qui est en notre pouvoir, en attendant que le progrès rende le désir sûr. Pour le débutant, Épictète va jusqu'à recommander de suspendre tout désir et de n'user que de l'aversion, et encore seulement à l'égard de ce qui dépend de nous. Un tri raisonné des [indifférents](../glossary/adiaphora.md) préférables subsiste en arrière-plan, mais la pente vécue est celle d'un détachement à l'égard de tout ce que la fortune peut reprendre.
 
-> « Ne demande pas que les choses arrivent comme tu le veux, mais veuille qu'elles arrivent comme elles arrivent, et tu seras heureux. », Manuel, §8
+> « Ne cherche pas à ce que les choses arrivent comme tu veux, mais veuille que les choses arrivent comme elles arrivent, et ta vie s'écoulera heureuse. », Manuel, §8
 
 *Sources : Manuel, §2 · Manuel, §8*
 

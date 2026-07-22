@@ -86,7 +86,7 @@ Empiricism 95% · Rationalism 5%
 
 The lever is a genetic argument: trace any idea back to its source and one finds only an impression of sensation or reflection, never a content given in advance. Locke opens the *[Essay](../works/essay-concerning-human-understanding-locke.md)* by demolishing the universal-consent argument advanced for [innate ideas](../glossary/innate-ideas.md) (no principle is known to children or idiots), which leaves the mind as white paper to be furnished; Hume sharpens the criterion into a polemical weapon, demanding that one exhibit the impression a term derives from, failing which it is empty of meaning. This is the exact reversal of [Descartes](../philosophers/descartes.md)'s [rationalism](../axes/knowledge-source.md), which made the innate idea the bedrock of knowledge.
 
-> “Let us then suppose the mind to be, as we say, white paper, void of all characters, without any ideas. How comes it to be furnished? … To this I answer, in one word, from experience.”, Essay Concerning Human Understanding, II, 1, §2
+> “Let us suppose the mind to be, as we say, white paper, void of all characters, without any ideas: how comes it to be furnished? ... To this I answer, in one word, from experience.”, Essay Concerning Human Understanding, II, ch. 1, §2
 
 *Sources : Locke, Essay Concerning Human Understanding, book I (against innate ideas) and II, 1 · Hume, Enquiry Concerning Human Understanding, section II*
 
@@ -148,7 +148,7 @@ The primacy of feeling 75% · The primacy of reason 25%
 
 Moral sentimentalism is here chiefly Hume's work: it is **passion**, not understanding, that moves us to act and grounds moral distinctions, which rest on a sentiment of approval or blame. This leaning, already foreshadowed by British moral-sense philosophy, is typical of the school without being shared identically by Locke.
 
-> “Reason is, and ought only to be, the slave of the passions.”, Treatise of Human Nature, II, 3, 3
+> “Reason is, and ought only to be, the slave of the passions.”, A Treatise of Human Nature, II, 3, 3
 
 *Sources : Hume, Treatise of Human Nature, II, 3, 3 and III, 1*
 
@@ -180,7 +180,7 @@ Evidentialism 85% · Non-evidentialism 15%
 
 The school makes the regulation of assent an epistemic duty: Locke holds that one should give one's assent in proportion to the **evidence** and the degrees of probability, and Hume sums up this ethics of belief in his famous maxim about the wise man who proportions his belief to the evidence. To ground knowledge in experience is to require believing only to the measure of what experience attests.
 
-> “A wise man, therefore, proportions his belief to the evidence.”, Enquiry Concerning Human Understanding, section X (Of Miracles)
+> “A wise man, therefore, proportions his belief to the evidence.”, Enquiry Concerning Human Understanding, sect. X
 
 *Sources : Locke, Essay Concerning Human Understanding, IV, 15-16 (of probability and the degrees of assent) · Hume, Enquiry Concerning Human Understanding, section X (of miracles)*
 
@@ -213,6 +213,10 @@ Nominalism 85% · Realism about universals 15%
 Nominalism follows directly from the sensory origin of ideas: every perception is of a particular, this triangle, this shade, never of a universal in general, which therefore has no corresponding idea in the mind. Locke still admitted abstract ideas obtained by separation; Berkeley objects that one cannot form the idea of a triangle that is neither equilateral nor scalene, and reduces the general to a sign standing in for all its likes. Generality thus passes into **language**, not into things, which dismisses [Platonic](../movements/platonism.md) Forms and realist essences as entities with no purchase in experience.
 
 *Sources : Locke, Essay, III; Hume, Treatise, I, I, 7*
+
+## Influenced by
+
+- **[Rationalism](../movements/rationalism.md)** (reacts against) : British [empiricism](../movements/empiricism.md) defines itself against [rationalism](../movements/rationalism.md): the first book of [Locke](../philosophers/locke.md)'s *[Essay](../works/essay-concerning-human-understanding-locke.md)* sets out to refute innate principles, before the second derives all our ideas from experience, first sensation then reflection. Against the order of reasons deduced a priori, it sets the patient gathering of simple ideas.
 
 ## Influence on
 

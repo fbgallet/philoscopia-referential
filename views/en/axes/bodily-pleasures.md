@@ -35,11 +35,9 @@ Neither renunciation nor excess: enjoy the pleasures of the body, but in measure
 
 > “These two extremes, monks, should not be followed by one who has gone forth: the pursuit of sensual pleasure, and the pursuit of self-mortification.” — [The Buddha](../philosophers/buddha.md), Dhammacakkappavattana Sutta (Saṃyutta Nikāya 56.11)
 
-> “Bread and water yield the highest pleasure when brought to hungry lips.” — [Epicurus](../philosophers/epicurus.md), Vatican Sayings, 33
-
 > “It is no more necessary for the saint to be a philosopher than for the philosopher to be a saint; just as it is not necessary for a perfectly beautiful person to be a great sculptor, or for a great sculptor to be a beautiful person.” — [Schopenhauer](../philosophers/schopenhauer.md), The World as Will and Representation, §68
 
-> “Bread and water confer the highest pleasure when one brings them to needy lips.” — [Epicurus](../philosophers/epicurus.md), Vatican Sayings, 59 (cf. Letter to Menoeceus)
+> “Bread and water confer the highest pleasure when one brings them to needy lips.” — [Epicurus](../philosophers/epicurus.md), Letter to Menoeceus, 130-131
 
 ## Related axes
 

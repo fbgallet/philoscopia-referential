@@ -182,6 +182,10 @@ Pour le védânta, le Soi (atman) est éternel et ne meurt pas : la mort n'attei
 
 *Sources : Bhagavad-Gita, II · Katha Upanishad*
 
+## Influencé par
+
+- **[Bouddhisme](../movements/buddhism.md)** (réinterprète) : L'[Advaita Vedānta](../movements/vedanta.md) se forge dans un débat serré avec le [bouddhisme](../movements/buddhism.md) : [Gauḍapāda](../philosophers/gaudapada.md) puis [Śaṅkara](../philosophers/shankara.md) reprennent les outils dialectiques de la vacuité et des deux vérités, mais pour les recouler dans le non-dualisme des Upaniṣad, où l'absolu n'est pas vide mais Brahman. La proximité fut telle que les rivaux traitèrent Śaṅkara de « bouddhiste masqué ».
+
 ## Influence sur
 
 - **[Schopenhauer](../philosophers/schopenhauer.md)** (réinterprète) : [Schopenhauer](../philosophers/schopenhauer.md) puise dans les Upaniṣad et le [Vedānta](../movements/vedanta.md), qu'il vénère, le motif du voile des apparences (Māyā) et l'unité métaphysique derrière la pluralité, qu'il retraduit dans sa philosophie de la volonté.

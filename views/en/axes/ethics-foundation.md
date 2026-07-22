@@ -72,7 +72,7 @@ Morality is rooted in concrete attentiveness to vulnerable people and in the car
 
 > “Morality is more properly felt than judg'd of.” — [Hume](../philosophers/hume.md), A Treatise of Human Nature, III, I, 2
 
-> “Nature has placed mankind under the governance of two sovereign masters, pain and pleasure. It is for them alone to point out what we ought to do.” — [Bentham](../philosophers/bentham.md), An Introduction to the Principles of Morals and Legislation, ch. 1
+> “Nature has placed mankind under the governance of two sovereign masters, pain and pleasure. It is for them alone to point out what we ought to do, as well as to determine what we shall do.” — [Bentham](../philosophers/bentham.md), An Introduction to the Principles of Morals and Legislation, ch. I, §1
 
 > “Virtue is a state of character concerned with choice, lying in a mean relative to us, this being determined by reason and in the way the person of practical wisdom would determine it.” — [Aristotle](../philosophers/aristotle.md), Nicomachean Ethics, II, 6, 1106b-1107a
 

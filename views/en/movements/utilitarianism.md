@@ -66,7 +66,7 @@ Hard determinism 70% · Free will 30%
 
 Human conduct is governed by two springs, pleasure and pain, a broadly deterministic psychology that allows behavior to be predicted and reformed through sanctions. Responsibility here is no uncaused free will but is reinterpreted in compatibilist terms: utilitarianism attends to the causes that move wills rather than to their supposed spontaneity.
 
-> “Nature has placed mankind under the governance of two sovereign masters, pain and pleasure.”, Principles of Morals and Legislation, I
+> “Nature has placed mankind under the governance of two sovereign masters, pain and pleasure. It is for them alone to point out what we ought to do, as well as to determine what we shall do.”, An Introduction to the Principles of Morals and Legislation, ch. I, §1
 
 *Sources : Bentham, Introduction to the Principles of Morals and Legislation, I · Mill, A System of Logic, VI*
 
@@ -98,7 +98,7 @@ Consequentialism 100%
 
 Since an action has no worth in itself, only its effect on the world can make it good or bad: all that morally counts is the well-being it creates or destroys. From this ground springs consequentialism, which dismisses together the pure intention of deontology and the excellence of character of [virtue](../glossary/eudaimonism.md) ethics: [Bentham](../philosophers/bentham.md) reduces evaluation to a single measure, the act's tendency to augment or diminish the happiness of the parties concerned, against any rule or tradition claiming an authority independent of outcomes.
 
-> “Nature has placed mankind under the governance of two sovereign masters, pain and pleasure. It is for them alone to point out what we ought to do.”, An Introduction to the Principles of Morals and Legislation, ch. 1
+> “Nature has placed mankind under the governance of two sovereign masters, pain and pleasure. It is for them alone to point out what we ought to do, as well as to determine what we shall do.”, An Introduction to the Principles of Morals and Legislation, ch. I, §1
 
 *Sources : Bentham, An Introduction to the Principles of Morals and Legislation · Mill, Utilitarianism*
 

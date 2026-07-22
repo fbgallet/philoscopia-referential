@@ -51,7 +51,7 @@ Between accepting what lies beyond us and trying to transform everything, the ta
 
 > “"Ask of me any boon you like." "Stand out of my sunlight."” — [Diogenes of Sinope](../philosophers/diogenes.md), Diogenes Laertius, Lives, VI, 38
 
-> “Some things are within our power, while others are not.” — [Epictetus](../philosophers/epictetus.md), Enchiridion, §1
+> “Endure, my heart; you have borne worse before this.” — Homer, Odyssey, XX, 18
 
 > “I no longer look with my eyes but with my spirit, and the blade follows of itself the natural openings.” — [Zhuangzi](../philosophers/zhuangzi.md), ch. 3 (The Secret of Caring for Life)
 

@@ -1,0 +1,16 @@
+{
+  "id": "raison-instrumentale",
+  "term": { "fr": "Raison instrumentale", "en": "Instrumental reason" },
+  "aliases": {
+    "fr": ["raison instrumentale", "rationalité instrumentale"],
+    "en": ["instrumental reason", "instrumental rationality"]
+  },
+  "definition": {
+    "fr": "La raison instrumentale est la raison réduite au calcul des moyens en vue d'une fin, indifférente à la valeur des fins elles-mêmes : une pensée qui n'évalue plus que l'efficacité. <ph id='horkheimer'>Horkheimer</ph> et <ph id='adorno'>Adorno</ph> en font, dans la Dialectique de la raison, le ressort d'une domination : en apprenant à maîtriser la nature par le calcul, l'humanité étend le même schéma de contrôle sur les autres hommes et sur elle-même. Ils lisent <chr id='odysseus'>Ulysse</chr>, qui se lie au mât et renonce pour survivre, comme la première figure de ce sujet calculateur qui se domine lui-même pour dominer le monde.",
+    "en": "Instrumental reason is reason reduced to the calculation of means toward an end, indifferent to the worth of the ends themselves: a thought that assesses only efficiency. <ph id='horkheimer'>Horkheimer</ph> and <ph id='adorno'>Adorno</ph>, in Dialectic of Enlightenment, make it the mainspring of domination: by learning to master nature through calculation, humanity extends the same scheme of control over other people and over itself. They read <chr id='odysseus'>Odysseus</chr>, who binds himself to the mast and renounces in order to survive, as the first figure of this calculating subject who masters himself in order to master the world."
+  },
+  "relatedAxes": ["SCIENCE_PLACE", "TECHNOLOGY"],
+  "relatedTerms": [],
+  "figure": { "slug": "horkheimer", "name": { "fr": "Horkheimer", "en": "Horkheimer" } },
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

@@ -63,8 +63,6 @@ We can hold firm, well-justified beliefs while knowing they might be wrong. Betw
 
 > “To every argument an equal argument is opposed.” — [Sextus Empiricus](../philosophers/sextus-empiricus.md), Outlines of Pyrrhonism, I, 12
 
-> “To every argument an equal argument is opposed.” — [Sextus Empiricus](../philosophers/sextus-empiricus.md), Outlines of Pyrrhonism, I, 12
-
 > “What I do not know, I do not think I know either.” — [Socrates](../philosophers/socrates.md), Plato, Apology, 21d
 
 > “How do I know that what I call knowing is not really ignorance, and what I call ignorance not really knowing?” — [Zhuangzi](../philosophers/zhuangzi.md), ch. 2 (On the Equality of Things)
@@ -78,8 +76,6 @@ We can hold firm, well-justified beliefs while knowing they might be wrong. Betw
 > “I do not know whether this world has a meaning that transcends it. But I know that I do not know that meaning and that it is impossible for me just now to know it.” — [Camus](../philosophers/camus.md), The Myth of Sisyphus
 
 > “I think, therefore I am.” — [Descartes](../philosophers/descartes.md), Discourse on Method, IV
-
-> “The dao that can be told is not the constant dao.” — [Laozi](../philosophers/laozi.md), Dao De Jing, ch. 1
 
 > “The Dao that can be named is not the constant Dao.” — [Laozi](../philosophers/laozi.md), Dao De Jing, ch. 1
 

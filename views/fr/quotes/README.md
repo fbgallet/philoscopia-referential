@@ -5,20 +5,16 @@
 ### [Aristote](../philosophers/aristotle.md)
 
 - « Cette science est la seule de toutes qui soit libre, car seule elle est à elle-même sa propre fin. » — Métaphysique, A, 2 (982b)
-- « Dieu et la nature ne font rien en vain. » — Du ciel, I, 4, 271a ; cf. Physique, II, 8
-- « Dire de ce qui est qu'il n'est pas, ou de ce qui n'est pas qu'il est, est le faux ; dire de ce qui est qu'il est, et de ce qui n'est pas qu'il n'est pas, est le vrai. » — Métaphysique, Γ (livre IV), 7, 1011b
 - « Dire de ce qui est qu'il n'est pas, ou de ce qui n'est pas qu'il est, c'est le faux ; dire de ce qui est qu'il est, et de ce qui n'est pas qu'il n'est pas, c'est le vrai. » — Métaphysique, Γ (IV), 7 (1011b)
 - « L'ami est un autre soi-même. » — Éthique à Nicomaque, IX, 4
 - « L'homme est par nature un animal politique. » — Politique, I, 2 (1253a)
 - « La cité est par nature antérieure à l'individu, car le tout est nécessairement antérieur à la partie. » — Politique, I, 2 (1253a)
 - « La nature est un principe de mouvement et de changement. » — Physique, III, 1 (200b)
 - « La nature ne fait rien en vain. » — Politique, I, 2 (1253a)
-- « La pensée se pense elle-même en saisissant l'intelligible, et son acte de pensée est pensée de la pensée. » — Métaphysique, Λ (livre XII), 9, 1074b
-- « La pensée se pense elle-même : elle est pensée de la pensée. » — Métaphysique, Λ (XII), 9 (1074b)
+- « La pensée se pense elle-même en saisissant l'intelligible, et son acte de pensée est pensée de la pensée. » — Métaphysique, Λ (XII), 9 (1074b)
 - « La poésie est plus philosophique et plus noble que l'histoire : elle énonce le général, l'histoire le particulier. » — Poétique, 9 (1451b)
 - « La vertu est une disposition à agir de façon délibérée, consistant en une médiété relative à nous, déterminée par la raison comme la déterminerait l'homme prudent. » — Éthique à Nicomaque, II, 6, 1106b-1107a
-- « Le bien de l'homme est une activité de l'âme en accord avec la vertu, et s'il y a plusieurs vertus, en accord avec la meilleure et la plus parfaite. » — Éthique à Nicomaque, I, 7, 1098a
-- « Le bien de l'homme est une activité de l'âme en accord avec la vertu. » — Éthique à Nicomaque, I, 7 (1098a)
+- « Le bien de l'homme est une activité de l'âme en accord avec la vertu, et s'il y a plusieurs vertus, en accord avec la meilleure et la plus parfaite. » — Éthique à Nicomaque, I, 7 (1098a)
 - « Tous les hommes désirent naturellement savoir. » — Métaphysique, A, 1, 980a
 
 ### [Bacon](../philosophers/bacon.md)
@@ -33,15 +29,12 @@
 
 - « Il n'y a de liberté qu'engagée, et qui se veut en voulant le dévoilement de l'être à travers un monde. » — Pour une morale de l'ambiguïté
 - « Il n'y a pas de mort naturelle. » — Une mort très douce
-- « On ne naît pas femme : on le devient. » — Le Deuxième Sexe, t. II
 - « On ne naît pas femme : on le devient. Aucun destin biologique, psychique, économique ne définit la figure que revêt au sein de la société la femelle humaine. » — Le Deuxième Sexe, t. II
 
 ### [Bentham](../philosophers/bentham.md)
 
 - « À quantité de plaisir égale, le pushpin vaut bien la poésie. » — The Rationale of Reward
 - « L'intérêt de la communauté, qu'est-ce donc ? La somme des intérêts des divers membres qui la composent. » — Introduction aux principes de la morale et de la législation, ch. I, §4
-- « La nature a placé l'humanité sous l'empire de deux maîtres souverains, la peine et le plaisir. » — Principes de la morale et de la législation, I
-- « La nature a placé l'humanité sous l'empire de deux maîtres souverains, la peine et le plaisir. C'est à eux seuls qu'il appartient de désigner ce que nous devons faire. » — Introduction aux principes de morale et de législation, chapitre 1
 - « La nature a placé l'humanité sous l'empire de deux maîtres souverains, la douleur et le plaisir. C'est à eux seuls qu'il appartient de montrer ce que nous devons faire comme de déterminer ce que nous ferons. » — Introduction aux principes de la morale et de la législation, ch. I, §1
 - « La question n'est pas : peuvent-ils raisonner ? ni : peuvent-ils parler ? mais : peuvent-ils souffrir ? » — Introduction aux principes de la morale et de la législation, ch. XVII
 - « Les droits naturels, c'est purement et simplement du non-sens : les droits naturels et imprescriptibles, du non-sens sur des échasses. » — Anarchical Fallacies
@@ -81,7 +74,6 @@
 - « Ce que tu ne veux pas qu'on te fasse, ne le fais pas à autrui. » — Entretiens, XV, 24
 - « Chaque jour je m'examine sur trois points : ai-je été fidèle en agissant pour autrui, sincère envers mes amis, et ai-je pratiqué ce qui m'a été enseigné ? » — Entretiens, I, 4
 - « Gouvernez le peuple par la vertu, maintenez-le par les rites, et il aura le sentiment de l'honneur et viendra à vous. » — Entretiens, II, 3
-- « Je transmets et je n'invente pas ; je crois aux Anciens et je les aime. » — Entretiens (Lunyu), VII, 1
 - « Je transmets et je n'invente pas ; j'aime les Anciens et je leur fais confiance. » — Entretiens, VII, 1
 - « L'homme de bien recherche en lui-même, l'homme de peu recherche chez les autres. » — Entretiens (Lunyu), XV, 21
 - « Le droit chemin est là : le père couvre son fils, le fils couvre son père. » — Entretiens, XIII, 18
@@ -116,26 +108,20 @@
 
 - « Ce ne sont pas les choses qui troublent les hommes, mais les jugements qu'ils portent sur les choses. » — Manuel, §5
 - « Ce sont les circonstances difficiles qui montrent les hommes. » — Entretiens, I, 24
-- « Il y a des choses qui dépendent de nous et d'autres qui n'en dépendent pas. » — Manuel, §1
 - « La matière de l'art de vivre, c'est la vie de chacun. » — Entretiens, I, 15, 2
 - « Ne cherche pas à ce que les choses arrivent comme tu veux, mais veuille que les choses arrivent comme elles arrivent, et ta vie s'écoulera heureuse. » — Manuel, §8
-- « Ne demande pas que les choses arrivent comme tu le veux, mais veuille qu'elles arrivent comme elles arrivent, et tu seras heureux. » — Manuel, §8
 - « Ne dis jamais que tu es philosophe : sois-le. » — Manuel, §46
 - « Parmi les choses qui existent, les unes dépendent de nous, les autres ne dépendent pas de nous. » — Manuel, §1
 
 ### [Épicure](../philosophers/epicurus.md)
 
 - « De tout ce que la sagesse procure pour le bonheur de la vie entière, de bien loin le plus grand est l'acquisition de l'amitié. » — Maximes capitales, XXVII
-- « Du pain et de l'eau procurent le plus haut plaisir dès qu'on les porte à une bouche qui a faim. » — Sentences vaticanes, 33
 - « L'être bienheureux et incorruptible n'a pas de soucis lui-même et n'en cause pas à autrui ; il n'est donc accessible ni à la colère ni à la faveur. » — Maximes capitales, I
 - « La justice naturelle est un pacte d'utilité conclu en vue de ne pas se nuire les uns aux autres et de ne pas en subir de dommage. » — Maximes capitales, XXXI
-- « La mort n'est rien pour nous, car ce qui est dissous est sans sensation, et ce qui est sans sensation n'est rien pour nous. » — Lettre à Ménécée, 124-125
-- « La mort n'est rien pour nous ; car ce qui est dissous est privé de sensation, et ce qui est privé de sensation n'est rien pour nous. » — Maximes capitales, II
-- « Le pain et l'eau procurent le plaisir le plus élevé quand on les porte à des lèvres qui en ont besoin. » — Sentences vaticanes, 59 (cf. Lettre à Ménécée)
+- « La mort n'est rien pour nous ; car lorsque nous sommes, la mort n'est pas là, et lorsque la mort est là, nous ne sommes plus. » — Lettre à Ménécée, 125
+- « Le pain et l'eau procurent le plaisir le plus élevé quand on les porte à des lèvres qui en ont besoin. » — Lettre à Ménécée, 130-131
 - « Le plaisir est le commencement et la fin de la vie bienheureuse. » — Lettre à Ménécée, 128
 - « Le tout est constitué de corps et de vide. » — Lettre à Hérodote, 39
-- « Le tout est fait de corps et de vide. » — Lettre à Hérodote, 39-40
-- « Parmi les désirs, les uns sont naturels, les autres vains ; et parmi les naturels, les uns sont nécessaires, les autres seulement naturels. » — Lettre à Ménécée, 127
 - « Parmi les désirs, les uns sont naturels et nécessaires, les autres naturels et non nécessaires, les autres ni naturels ni nécessaires, mais nés d'une opinion vide. » — Maximes capitales, XXIX
 - « Vaine est la parole du philosophe qui ne soigne aucune souffrance humaine. » — fragment 221 Usener (Porphyre, Lettre à Marcella, 31)
 - « Vis caché. » — Fragment 551 Usener (lathe biôsas)
@@ -149,17 +135,19 @@
 - « La chouette de Minerve ne prend son vol qu'à la tombée de la nuit. » — Principes de la philosophie du droit, Préface
 - « Tout dépend de ceci : saisir et exprimer le vrai non comme substance, mais tout autant comme sujet. » — Phénoménologie de l'esprit, Préface
 
+### Homère
+
+- « Endure, mon cœur : tu as déjà supporté pire. » — Odyssée, XX, 18
+- « Il vit les cités de bien des hommes et connut leur esprit. » — Odyssée, I, 3
+
 ### [Hume](../philosophers/hume.md)
 
 - « Après une répétition de cas semblables, l'esprit est porté par l'habitude, dès l'apparition d'un événement, à en attendre le compagnon ordinaire... C'est donc le sentiment ou l'impression d'où nous tirons l'idée de pouvoir ou de connexion nécessaire. » — Enquête sur l'entendement humain, sect. VII
 - « La beauté n'est pas une qualité des choses mêmes : elle existe seulement dans l'esprit qui les contemple, et chaque esprit perçoit une beauté différente. » — Essais, « De la norme du goût »
 - « La morale est plus proprement sentie que jugée. » — Traité de la nature humaine, III, I, 2
-- « La raison est, et ne doit qu'être, l'esclave des passions, et ne peut prétendre à d'autre rôle qu'à les servir et à leur obéir. » — Traité de la nature humaine, II, III, 3
-- « La raison est et ne doit être que l'esclave des passions. » — Traité de la nature humaine, II, 3, 3
 - « La raison est, et ne doit être, que l'esclave des passions. » — Traité de la nature humaine, II, 3, 3
 - « Pour ma part, quand je pénètre le plus intimement dans ce que j'appelle moi-même, je tombe toujours sur telle ou telle perception particulière... je ne peux jamais me saisir, moi, en aucun moment sans une perception. » — Traité de la nature humaine, I, IV, 6
 - « Toutes nos idées ne sont que des copies de nos impressions, ou, en d'autres termes, il nous est impossible de penser quoi que ce soit que nous n'ayons pas auparavant senti. » — Enquête sur l'entendement humain, sect. II
-- « Un homme sage proportionne donc sa croyance à l'évidence. » — Enquête sur l'entendement humain, section X (des miracles)
 - « Un homme sage proportionne donc sa croyance à l'évidence. » — Enquête sur l'entendement humain, sect. X
 
 ### [Husserl](../philosophers/husserl.md)
@@ -189,11 +177,9 @@
 
 ### [Laozi](../philosophers/laozi.md)
 
-- « Gouverner un grand État, c'est comme faire frire un petit poisson. » — Dao De Jing, ch. 60
 - « Gouverner un grand royaume, c'est comme faire frire un petit poisson. » — Dao De Jing, ch. 60
 - « L'homme prend modèle sur la terre, la terre sur le ciel, le ciel sur le Dao, et le Dao sur lui-même. » — Dao De Jing, ch. 25
 - « Le Dao est constamment non-agissant, et pourtant rien n'est laissé inaccompli. » — Dao De Jing, ch. 37
-- « Le dao qu'on peut nommer dao n'est pas le dao constant. » — Dao De Jing, ch. 1
 - « Le Dao qu'on peut nommer n'est pas le Dao constant. » — Dao De Jing, ch. 1
 - « Plus il y a d'outils habiles, plus l'État sombre dans le désordre. » — Dao De Jing, ch. 57
 - « Plus il y a de lois et d'édits, plus se multiplient les voleurs et les brigands. » — Dao De Jing, ch. 57
@@ -215,7 +201,6 @@
 - « Les monades n'ont point de fenêtres par lesquelles quelque chose y puisse entrer ou sortir. » — Monadologie, §7
 - « Les raisons inclinent sans nécessiter. » — Essais de théodicée
 - « Quand surgira une controverse, il n'y aura pas plus besoin de discuter entre deux philosophes qu'entre deux comptables. Il leur suffira de prendre la plume, de s'asseoir et de se dire : calculons. » — De l'art combinatoire / Lettres
-- « Rien n'est dans l'entendement qui n'ait été d'abord dans les sens, sinon l'entendement lui-même. » — Nouveaux essais sur l'entendement humain, II, 1
 - « Rien n'est dans l'entendement qui n'ait d'abord été dans les sens, sinon l'entendement lui-même. » — Nouveaux essais sur l'entendement humain, II, 1
 - « Supposant qu'il y eût une machine dont la structure fît penser... on n'y trouverait que des pièces qui se poussent les unes les autres, et jamais de quoi expliquer une perception. » — Monadologie, §17
 
@@ -226,7 +211,6 @@
 - « L'identité personnelle s'étend aussi loin que la conscience peut remonter sur une action ou une pensée passée. » — Essai sur l'entendement humain, II, ch. 27, §9
 - « Le degré de notre assentiment doit être réglé sur les fondements de probabilité de la chose. » — Essai sur l'entendement humain, IV, ch. 15-16 (la probabilité et les degrés d'assentiment)
 - « Le travail de son corps et l'ouvrage de ses mains sont proprement à lui : ce qu'il a tiré de l'état où la nature l'avait laissé, il y a joint son travail, et y a ajouté quelque chose qui est à lui. » — Traités du gouvernement civil, II, ch. 5, §27
-- « Supposons donc que l'esprit soit, comme on dit, une page blanche, vierge de tout caractère, sans aucune idée. Comment vient-il à être rempli ? … À cela je réponds d'un mot : de l'expérience. » — Essai sur l'entendement humain, II, 1, §2
 - « Supposons donc que l'esprit soit, comme on dit, un papier blanc, vide de tout caractère, sans aucune idée : comment vient-il à en être pourvu ? ... À cela je réponds d'un seul mot : par l'expérience. » — Essai sur l'entendement humain, II, ch. 1, §2
 
 ### [Lucrèce](../philosophers/lucretius.md)
@@ -263,7 +247,6 @@
 - « L'essence humaine n'est pas une abstraction inhérente à l'individu isolé. Dans sa réalité, elle est l'ensemble des rapports sociaux. » — Thèses sur Feuerbach, VI
 - « L'histoire de toute société jusqu'à nos jours n'a été que l'histoire de luttes de classes. » — Manifeste du Parti communiste, 1848
 - « La bourgeoisie a noyé les frissons sacrés de l'extase religieuse, de l'enthousiasme chevaleresque et de la sentimentalité petite-bourgeoise dans les eaux glacées du calcul égoïste. » — Manifeste du Parti communiste, 1848
-- « La religion est le soupir de la créature accablée, l'âme d'un monde sans cœur, l'esprit de conditions dénuées d'esprit. C'est l'opium du peuple. » — Critique de la philosophie du droit de Hegel, introduction
 - « La religion est le soupir de la créature accablée, l'âme d'un monde sans cœur, l'esprit d'une époque sans esprit. Elle est l'opium du peuple. » — Critique de la philosophie du droit de Hegel, 1844
 - « La révolution sociale du XIXe siècle ne peut tirer sa poésie du passé, mais seulement de l'avenir. » — Le 18 Brumaire de Louis Bonaparte, 1852
 - « La violence est l'accoucheuse de toute vieille société grosse d'une société nouvelle. » — Le Capital, livre I, chap. XXXI
@@ -272,7 +255,6 @@
 - « Le travailleur ne s'affirme donc pas dans son travail, mais s'y nie ; ne s'y sent pas à l'aise, mais malheureux. » — Manuscrits de 1844
 - « Les hommes font leur propre histoire, mais ils ne la font pas arbitrairement, dans des conditions choisies par eux, mais dans des conditions directement données et héritées du passé. » — Le 18 Brumaire de Louis Bonaparte
 - « Les pensées de la classe dominante sont aussi, à toutes les époques, les pensées dominantes. » — L'Idéologie allemande
-- « Les philosophes n'ont fait qu'interpréter le monde de différentes manières ; ce qui importe, c'est de le transformer. » — Thèses sur Feuerbach, XI
 - « Les philosophes n'ont fait qu'interpréter le monde de diverses manières ; ce qui importe, c'est de le transformer. » — Thèses sur Feuerbach, XI (1845)
 - « Les prolétaires n'ont rien à y perdre que leurs chaînes. Ils ont un monde à y gagner. » — Manifeste du Parti communiste, 1848
 - « Prolétaires de tous les pays, unissez-vous ! » — Manifeste du Parti communiste, 1848
@@ -302,8 +284,6 @@
 
 - « Chacun doit compter pour un, et nul pour plus d'un. » — L'Utilitarisme, chap. V
 - « Il vaut mieux être un être humain insatisfait qu'un porc satisfait ; il vaut mieux être Socrate insatisfait qu'un imbécile satisfait. » — L'Utilitarisme, ch. 2
-- « Il vaut mieux être un homme insatisfait qu'un porc satisfait ; mieux vaut être Socrate insatisfait qu'un imbécile satisfait. » — L'Utilitarisme, ch. 2
-- « Il vaut mieux être un Socrate insatisfait qu'un imbécile satisfait. » — L'Utilitarisme, ch. II
 - « La nature humaine n'est pas une machine que l'on construit sur un modèle, mais un arbre qui doit croître et se développer de tous côtés. » — De la liberté, ch. 3
 - « Le seul objet qui autorise les hommes, individuellement ou collectivement, à troubler la liberté d'action de quiconque, est la protection de soi-même. » — De la liberté, ch. 1
 - « Les actions sont bonnes dans la mesure où elles tendent à promouvoir le bonheur, et mauvaises dans la mesure où elles tendent à produire le contraire du bonheur. » — L'Utilitarisme, ch. 2
@@ -342,7 +322,6 @@
 - « De telles personnes ne tiendraient-elles pas pour la réalité rien d'autre que les ombres des objets fabriqués ? » — République, VII, 515c
 - « La nature démontre qu'il est juste que celui qui vaut mieux ait plus que celui qui vaut moins, et le plus fort que le plus faible. » — Gorgias, 483d
 - « Le Bien n'est pas l'être, mais il est encore au-dessus et au-delà de l'être, le surpassant en dignité et en puissance. » — République, VI, 509b
-- « Le Bien n'est pas l'essence, mais bien au-dessus d'elle, la surpassant en dignité et en puissance. » — République, VI, 509b
 - « Qu'est-ce qui est toujours, sans jamais devenir, et qu'est-ce qui devient toujours, sans être jamais ? » — Timée, 27d
 - « Une beauté qui d'abord existe éternellement, qui n'est sujette ni à naître ni à périr, ni à croître ni à décroître ; qui de plus n'est point belle en telle partie et laide en telle autre. » — Banquet, 211a
 
@@ -384,7 +363,6 @@
 - « L'existentialisme n'est pas autre chose qu'un effort pour tirer toutes les conséquences d'une position athée cohérente. » — L'existentialisme est un humanisme
 - « L'homme est condamné à être libre. Condamné, parce qu'il ne s'est pas créé lui-même, et par ailleurs cependant libre, parce qu'une fois jeté dans le monde, il est responsable de tout ce qu'il fait. » — L'existentialisme est un humanisme
 - « L'homme est une passion inutile. » — L'Être et le Néant, conclusion
-- « L'homme existe d'abord, se rencontre, surgit dans le monde, et qu'il se définit après. » — L'existentialisme est un humanisme
 - « L'homme existe d'abord, se rencontre, surgit dans le monde, et qu'il se définit après. L'homme, tel que le conçoit l'existentialiste, s'il n'est pas définissable, c'est qu'il n'est d'abord rien. Il ne sera qu'ensuite, et il sera tel qu'il se sera fait. » — L'existentialisme est un humanisme
 - « L'homme n'est rien d'autre que la série de ses actes, il n'est rien d'autre que sa vie. » — L'existentialisme est un humanisme
 - « La conscience est un être pour lequel il est dans son être question de son être en tant que cet être implique un être autre que lui : elle n'est jamais ce qu'elle est et est ce qu'elle n'est pas. » — L'Être et le Néant, Introduction
@@ -429,8 +407,6 @@
 ### [Sextus Empiricus](../philosophers/sextus-empiricus.md)
 
 - « À tout argument s'oppose un argument égal. » — Esquisses pyrrhoniennes, I, 12
-- « À toute raison s'oppose une raison de force égale. » — Esquisses pyrrhoniennes, I, 12
-- « La tranquillité suivit la suspension comme l'ombre suit le corps. » — Esquisses pyrrhoniennes, I, 29
 - « La tranquillité suivit la suspension du jugement comme l'ombre suit le corps. » — Esquisses pyrrhoniennes, I, 29
 
 ### [Socrate](../philosophers/socrates.md)

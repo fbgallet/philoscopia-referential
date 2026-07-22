@@ -52,8 +52,6 @@ Reality comprises two irreducible orders: matter, extended and measurable, and m
 
 > “The totality of things is made of bodies and void.” — [Epicurus](../philosophers/epicurus.md), Letter to Herodotus, 39
 
-> “The universe consists of bodies and void.” — [Epicurus](../philosophers/epicurus.md), Letter to Herodotus, 39-40
-
 > “The monads have no windows through which anything could enter or leave.” — [Leibniz](../philosophers/leibniz.md), Monadology, §7
 
 > “Their being is to be perceived; nor is it possible they should have any existence out of the minds which perceive them.” — [George Berkeley](../philosophers/berkeley.md), Principles of Human Knowledge, §3

@@ -1,0 +1,16 @@
+{
+  "id": "stoicism-to-kant",
+  "from": { "kind": "MOVEMENT", "slug": "stoicism" },
+  "to": { "kind": "PHILOSOPHER", "slug": "kant" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "Lecteur de Cicéron et de Sénèque, <ph id='kant'>Kant</ph> recueille de la morale <mv id='stoicism'>stoïcienne</mv> la thèse que la vertu est le seul bien inconditionné, qu'il transpose en bonne volonté, et la discipline du jugement, qu'il mue en devoir accompli par pur respect de la loi. L'<c id='apatheia'>apatheia</c> devient chez lui maîtrise de soi rationnelle, et le cosmopolitisme du Portique, un droit cosmopolitique. Il ne revendique pourtant jamais cette dette, transmise pour partie par Rousseau et l'école wolffienne.",
+    "en": "A reader of Cicero and Seneca, <ph id='kant'>Kant</ph> takes from <mv id='stoicism'>Stoic</mv> ethics the thesis that virtue is the only unconditioned good, which he transposes into the good will, and the discipline of judgment, which he turns into duty done out of pure respect for the law. Apatheia becomes in him a rational self-command, and the cosmopolitanism of the Porch a cosmopolitan right. Yet he never claims this debt, transmitted in part through Rousseau and the Wolffian school."
+  },
+  "sources": [
+    { "fr": "Kant, Fondements de la métaphysique des mœurs ; Doctrine de la vertu (Ak. 6:408-409) ; K. Reich, « Kant et l'éthique grecque »", "en": "Kant, Groundwork of the Metaphysics of Morals; The Doctrine of Virtue (Ak. 6:408-409); Klaus Reich, 'Kant and Greek Ethics'" }
+  ],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

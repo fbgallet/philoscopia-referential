@@ -178,6 +178,7 @@ Every justification, on pain of an infinite regress, must come to rest on princi
 
 - **[The Enlightenment](../movements/enlightenment.md)** (continues) : From [rationalism](../movements/rationalism.md) the Enlightenment inherits confidence in a reason able to judge on its own, and [Descartes](../philosophers/descartes.md)'s methodical doubt as a weapon against prejudice. The current's radical wing also extends, more underground, [Spinozism](../philosophers/spinoza.md) and its critique of revealed religion.
 - **[Kant](../philosophers/kant.md)** (synthesizes) : [Kant](../philosophers/kant.md) takes from [rationalism](../movements/rationalism.md) the demand for a priori knowledge, universal and necessary, but confines it to the conditions of possible experience: pure concepts know nothing beyond appearances.
+- **[Empiricism](../movements/empiricism.md)** (reacts against) : British [empiricism](../movements/empiricism.md) defines itself against [rationalism](../movements/rationalism.md): the first book of [Locke](../philosophers/locke.md)'s *[Essay](../works/essay-concerning-human-understanding-locke.md)* sets out to refute innate principles, before the second derives all our ideas from experience, first sensation then reflection. Against the order of reasons deduced a priori, it sets the patient gathering of simple ideas.
 
 ---
 

@@ -316,6 +316,7 @@ Comprendre est l'unique salut : chaque idée adéquate accroît la puissance d'a
 
 - **[Descartes](../philosophers/descartes.md)** (réinterprète) : [Spinoza](../philosophers/spinoza.md) reprend l'exigence démonstrative et la méthode de [Descartes](../philosophers/descartes.md), mais retourne sa métaphysique : au lieu de deux substances et d'un Dieu extérieur, une seule substance infinie dont tout est un mode.
 - **[Machiavel](../philosophers/machiavelli.md)** (réinterprète) : [Spinoza](../philosophers/spinoza.md) salue en [Machiavel](../philosophers/machiavelli.md) un esprit très pénétrant et reprend son réalisme, l'analyse des hommes tels qu'ils sont ; mais il met cette lucidité au service d'une fin inverse, la démocratie et la liberté, non le maintien du prince.
+- **[Stoïcisme](../movements/stoicism.md)** (réinterprète) : L'Éthique de [Spinoza](../philosophers/spinoza.md) reprend le geste thérapeutique du [stoïcisme](../movements/stoicism.md) : la servitude naît des passions, la liberté de leur compréhension, et l'on se délivre du trouble en connaissant la nécessité. Mais Spinoza ne prône ni l'indifférence ni le durcissement du cœur : la sagesse culmine pour lui dans la joie active et l'amour intellectuel de Dieu, non dans l'[apatheia](../glossary/apatheia.md) du sage stoïcien.
 
 ## Influence sur
 

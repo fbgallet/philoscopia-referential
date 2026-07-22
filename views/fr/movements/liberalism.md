@@ -49,6 +49,10 @@ Toutes ses variantes s'accordent qu'il existe des droits qui limitent le pouvoir
 
 - **[Les Lumières](../movements/enlightenment.md)** (prolonge) : Le libéralisme politique prolonge les [Lumières](../movements/enlightenment.md) : il y puise les droits naturels de l'individu, la tolérance, le gouvernement fondé sur le consentement et la défiance envers tout pouvoir absolu. [Montesquieu](../philosophers/montesquieu.md) ajoute la séparation des pouvoirs comme garantie contre le despotisme. Des Lumières le libéralisme retient l'individu majeur, capable de se conduire par sa propre raison.
 
+## Influence sur
+
+- **[Marxisme](../movements/marxism.md)** (réagit contre) : Le [marxisme](../movements/marxism.md) se construit comme la critique du [libéralisme](../movements/liberalism.md) : derrière l'égalité formelle des droits et la liberté du marché, [Marx](../philosophers/marx.md) dénonce les rapports de production qui asservissent le travail et fait des droits bourgeois l'idéologie d'une classe. Il en retient pourtant l'horizon d'émancipation, qu'il veut porter du droit politique à la vie réelle.
+
 ---
 
 *Généré depuis le corpus JSON de `data/`. Ne pas éditer à la main, voir [CONTRIBUTING](../../../CONTRIBUTING.md).*

@@ -39,8 +39,6 @@ Le sacré dépasse ce monde : la vérité, le bien ou Dieu résident dans un ord
 
 > « Le Bien n'est pas l'être, mais il est encore au-dessus et au-delà de l'être, le surpassant en dignité et en puissance. » — [Platon](../philosophers/plato.md), République, VI, 509b
 
-> « Le Bien n'est pas l'essence, mais bien au-dessus d'elle, la surpassant en dignité et en puissance. » — [Platon](../philosophers/plato.md), République, VI, 509b
-
 > « Un esprit sacré réside en nous, observateur et gardien de nos biens et de nos maux. » — [Sénèque](../philosophers/seneca.md), Lettres à Lucilius, XLI
 
 ## Axes liés

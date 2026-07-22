@@ -63,8 +63,6 @@ On peut tenir des croyances solides et justifiées tout en sachant qu'elles pour
 
 > « À tout argument s'oppose un argument égal. » — [Sextus Empiricus](../philosophers/sextus-empiricus.md), Esquisses pyrrhoniennes, I, 12
 
-> « À toute raison s'oppose une raison de force égale. » — [Sextus Empiricus](../philosophers/sextus-empiricus.md), Esquisses pyrrhoniennes, I, 12
-
 > « Ce que je ne sais pas, je ne pense pas non plus le savoir. » — [Socrate](../philosophers/socrates.md), Platon, Apologie, 21d
 
 > « Comment saurais-je que ce que j'appelle savoir n'est pas de l'ignorance, et que ce que j'appelle ignorance n'est pas du savoir ? » — [Zhuangzi](../philosophers/zhuangzi.md), ch. 2 (Discours sur l'égalité des choses)
@@ -78,8 +76,6 @@ On peut tenir des croyances solides et justifiées tout en sachant qu'elles pour
 > « Je ne sais pas si ce monde a un sens qui le dépasse. Mais je sais que je ne connais pas ce sens et qu'il m'est impossible pour le moment de le connaître. » — [Camus](../philosophers/camus.md), Le Mythe de Sisyphe
 
 > « Je pense, donc je suis. » — [Descartes](../philosophers/descartes.md), Discours de la méthode, IV
-
-> « Le dao qu'on peut nommer dao n'est pas le dao constant. » — [Laozi](../philosophers/laozi.md), Dao De Jing, ch. 1
 
 > « Le Dao qu'on peut nommer n'est pas le Dao constant. » — [Laozi](../philosophers/laozi.md), Dao De Jing, ch. 1
 

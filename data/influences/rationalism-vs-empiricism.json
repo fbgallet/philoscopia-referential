@@ -1,0 +1,16 @@
+{
+  "id": "rationalism-vs-empiricism",
+  "from": { "kind": "MOVEMENT", "slug": "rationalism" },
+  "to": { "kind": "MOVEMENT", "slug": "empiricism" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "L'<mv id='empiricism'>empirisme</mv> britannique se définit contre le <mv id='rationalism'>rationalisme</mv> : le premier livre de l'<w id='essay-concerning-human-understanding-locke'>Essai</w> de <ph id='locke'>Locke</ph> entreprend de réfuter les principes innés, avant que le second ne fasse dériver toutes nos idées de l'expérience, sensation puis réflexion. À l'ordre des raisons déduites a priori, il oppose la patiente collecte des idées simples.",
+    "en": "British <mv id='empiricism'>empiricism</mv> defines itself against <mv id='rationalism'>rationalism</mv>: the first book of <ph id='locke'>Locke</ph>'s <w id='essay-concerning-human-understanding-locke'>Essay</w> sets out to refute innate principles, before the second derives all our ideas from experience, first sensation then reflection. Against the order of reasons deduced a priori, it sets the patient gathering of simple ideas."
+  },
+  "sources": [
+    { "fr": "Locke, Essai sur l'entendement humain, livre I", "en": "Locke, An Essay Concerning Human Understanding, Book I" }
+  ],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

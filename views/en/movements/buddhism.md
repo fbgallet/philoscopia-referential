@@ -218,9 +218,14 @@ A being itself subject to becoming and suffering cannot be the source of salvati
 
 *Sources : Brahmajāla Sutta (the discourse on the all-embracing net) · Aggañña Sutta (the discourse on origins)*
 
+## Influenced by
+
+- **[Taoism](../movements/taoism.md)** (synthesizes) : Entering China, [Buddhism](../movements/buddhism.md) blends with the [Taoist](../movements/taoism.md) sensibility: first translated through the vocabulary of the dao and wu wei, it gives rise to Chan, the ancestor of Zen, where Indian meditation weds the naturalness and spontaneity dear to [Zhuangzi](../philosophers/zhuangzi.md). The filiation is rarely claimed as such, yet the Chan school bears its imprint.
+
 ## Influence on
 
 - **[Schopenhauer](../philosophers/schopenhauer.md)** (reinterprets) : [Schopenhauer](../philosophers/schopenhauer.md) finds in [Buddhism](../movements/buddhism.md) an Eastern confirmation of his thought: the centrality of suffering, detachment, and the denial of the will to live as a path of deliverance.
+- **[Vedānta (Advaita)](../movements/vedanta.md)** (reinterprets) : [Advaita Vedānta](../movements/vedanta.md) is forged in a close debate with [Buddhism](../movements/buddhism.md): [Gauḍapāda](../philosophers/gaudapada.md) and then [Śaṅkara](../philosophers/shankara.md) take up the dialectical tools of emptiness and the two truths, only to recast them in the non-dualism of the Upaniṣads, where the absolute is not void but Brahman. So close was the proximity that rivals called Śaṅkara a “crypto-Buddhist”.
 
 ---
 

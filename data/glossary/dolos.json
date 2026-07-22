@@ -1,0 +1,12 @@
+{
+  "id": "dolos",
+  "term": { "fr": "Dolos (la ruse)", "en": "Dolos (guile)" },
+  "aliases": { "fr": ["dolos"], "en": ["dolos"] },
+  "definition": {
+    "fr": "Le dolos désigne, en grec, la ruse concrète : le piège, la tromperie habile, le stratagème qui prend l'adversaire au dépourvu. Il est l'œuvre de la <c id='metis'>mètis</c>, dont il est le produit tangible : le cheval de bois, chef-d'œuvre de dolos, emporte Troie là où dix ans d'assaut avaient échoué. <chr id='odysseus'>Ulysse</chr> en est le maître, et la déesse <chr>Athéna</chr> l'en aime.",
+    "en": "Dolos, in Greek, names the concrete ruse: the trap, the skilled deception, the stratagem that catches the adversary off guard. It is the work of <c id='metis'>mētis</c>, its tangible product: the wooden horse, a masterpiece of dolos, takes Troy where ten years of assault had failed. <chr id='odysseus'>Odysseus</chr> is its master, and the goddess <chr>Athena</chr> loves him for it."
+  },
+  "relatedAxes": ["SINCERITY", "RULE_SPIRIT"],
+  "relatedTerms": ["metis"],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

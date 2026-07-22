@@ -38,15 +38,13 @@ Societies can and must improve: reason allows us to identify inherited injustice
 
 ## Quotations
 
-> “I transmit but do not innovate; I trust in and love the ancients.” — [Confucius](../philosophers/confucius.md), Analects (Lunyu), 7.1
-
 > “I transmit and do not create; I love the Ancients and trust them.” — [Confucius](../philosophers/confucius.md), Analects, VII, 1
 
 > “The perfectibility of man is truly indefinite; and the progress of this perfectibility has no other limit than the duration of the globe on which nature has placed us.” — [Condorcet](../philosophers/condorcet.md), Sketch for a Historical Picture of the Progress of the Human Mind (1795)
 
 > “Laws keep their credit not because they are just, but because they are laws.” — [Michel de Montaigne](../philosophers/montaigne.md), Essays, III, 13, "Of Experience"
 
-> “The philosophers have only interpreted the world, in various ways; the point is to change it.” — [Marx](../philosophers/marx.md), Theses on Feuerbach, XI
+> “The philosophers have only interpreted the world, in various ways; the point is to change it.” — [Marx](../philosophers/marx.md), Theses on Feuerbach, XI (1845)
 
 > “The proletarians have nothing to lose but their chains. They have a world to win.” — [Marx](../philosophers/marx.md), Manifesto of the Communist Party, 1848
 

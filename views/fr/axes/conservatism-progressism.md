@@ -38,15 +38,13 @@ Les sociétés peuvent et doivent s'améliorer : la raison permet d'identifier l
 
 ## Citations
 
-> « Je transmets et je n'invente pas ; je crois aux Anciens et je les aime. » — [Confucius](../philosophers/confucius.md), Entretiens (Lunyu), VII, 1
-
 > « Je transmets et je n'invente pas ; j'aime les Anciens et je leur fais confiance. » — [Confucius](../philosophers/confucius.md), Entretiens, VII, 1
 
 > « La perfectibilité de l'homme est réellement indéfinie ; et le progrès de cette perfectibilité n'a d'autre terme que la durée du globe où la nature nous a jetés. » — [Condorcet](../philosophers/condorcet.md), Esquisse d'un tableau historique des progrès de l'esprit humain (1795)
 
 > « Les lois se maintiennent en crédit, non parce qu'elles sont justes, mais parce qu'elles sont lois. » — [Michel de Montaigne](../philosophers/montaigne.md), Essais, III, 13, « De l'expérience »
 
-> « Les philosophes n'ont fait qu'interpréter le monde de différentes manières ; ce qui importe, c'est de le transformer. » — [Marx](../philosophers/marx.md), Thèses sur Feuerbach, XI
+> « Les philosophes n'ont fait qu'interpréter le monde de diverses manières ; ce qui importe, c'est de le transformer. » — [Marx](../philosophers/marx.md), Thèses sur Feuerbach, XI (1845)
 
 > « Les prolétaires n'ont rien à y perdre que leurs chaînes. Ils ont un monde à y gagner. » — [Marx](../philosophers/marx.md), Manifeste du Parti communiste, 1848
 

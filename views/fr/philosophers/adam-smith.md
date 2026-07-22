@@ -11,6 +11,7 @@ Philosophe et économiste écossais des [Lumières](../movements/enlightenment.m
 ## Influencé par
 
 - **[Hume](../philosophers/hume.md)** (prolonge) : Ami intime de [Hume](../philosophers/hume.md), [Smith](../philosophers/adam-smith.md) prolonge sa morale des sentiments : la sympathie est le ressort du jugement moral. Il la refond toutefois autour du spectateur impartial, tribunal intérieur qui corrige nos partialités.
+- **[Stoïcisme](../movements/stoicism.md)** (prolonge) : La Théorie des sentiments moraux fait de la maîtrise de soi, que [Adam Smith](../philosophers/adam-smith.md) nomme self-command, la vertu qui couronne les autres, et son spectateur impartial reprend le mouvement [stoïcien](../movements/stoicism.md) de l'[oikeiôsis](../glossary/oikeiosis.md), l'extension du souci de soi jusqu'à autrui. Smith consacre de longues pages aux stoïciens, tout en jugeant leur apathie trop sévère pour la sympathie qui fonde sa morale.
 
 ---
 

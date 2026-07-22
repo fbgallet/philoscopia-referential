@@ -43,8 +43,6 @@ La vie ne se laisse réduire ni à la mécanique ni à un plan préétabli : ell
 
 > « Après une répétition de cas semblables, l'esprit est porté par l'habitude, dès l'apparition d'un événement, à en attendre le compagnon ordinaire... C'est donc le sentiment ou l'impression d'où nous tirons l'idée de pouvoir ou de connexion nécessaire. » — [Hume](../philosophers/hume.md), Enquête sur l'entendement humain, sect. VII
 
-> « Dieu et la nature ne font rien en vain. » — [Aristote](../philosophers/aristotle.md), Du ciel, I, 4, 271a ; cf. Physique, II, 8
-
 > « Jamais et nulle part rien n'existe qui soit né de soi, d'autre, des deux, ou sans cause. » — [Nāgārjuna](../philosophers/nagarjuna.md), Mūlamadhyamakakārikā, I, 1
 
 > « La nature ne fait rien en vain. » — [Aristote](../philosophers/aristotle.md), Politique, I, 2 (1253a)

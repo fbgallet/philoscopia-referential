@@ -51,8 +51,6 @@ L'existence précède l'essence : l'être humain n'est d'abord rien de défini, 
 
 > « L'essence humaine n'est pas une abstraction inhérente à l'individu isolé. Dans sa réalité, elle est l'ensemble des rapports sociaux. » — [Marx](../philosophers/marx.md), Thèses sur Feuerbach, VI
 
-> « L'homme existe d'abord, se rencontre, surgit dans le monde, et qu'il se définit après. » — [Sartre](../philosophers/sartre.md), L'existentialisme est un humanisme
-
 > « L'homme existe d'abord, se rencontre, surgit dans le monde, et qu'il se définit après. L'homme, tel que le conçoit l'existentialiste, s'il n'est pas définissable, c'est qu'il n'est d'abord rien. Il ne sera qu'ensuite, et il sera tel qu'il se sera fait. » — [Sartre](../philosophers/sartre.md), L'existentialisme est un humanisme
 
 > « On ne naît pas femme : on le devient. Aucun destin biologique, psychique, économique ne définit la figure que revêt au sein de la société la femelle humaine. » — [Beauvoir](../philosophers/beauvoir.md), Le Deuxième Sexe, t. II

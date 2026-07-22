@@ -134,7 +134,7 @@ The primacy of feeling 95% · The primacy of reason 5%
 
 Reason has only two offices: to relate ideas (the demonstrative) or to infer matters of fact (the causal); yet neither act, by itself, moves the will. Hume concludes that reason can neither produce nor prevent an action, and so can never oppose a passion: only a contrary passion can. Reason settles the means, but ends come from sentiment; it is not contrary to reason to prefer one's own ruin to the slightest unease of another, for a desire is neither true nor false. Overturning the Socratic and Stoic intellectualism that made passions errors of judgement, Hume defends a sentimentalism in which reason is subordinate to affect in everything bearing on action and moral judgement.
 
-> “Reason is, and ought only to be the slave of the passions, and can never pretend to any other office than to serve and obey them.”, A Treatise of Human Nature, II, III, 3
+> “Reason is, and ought only to be, the slave of the passions.”, A Treatise of Human Nature, II, 3, 3
 
 *Sources : A Treatise of Human Nature, II, part III, sect. 3 (of the influencing motives of the will)*
 

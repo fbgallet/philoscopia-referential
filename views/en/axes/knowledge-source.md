@@ -68,6 +68,8 @@ Knowledge comes neither from experience alone nor from reason alone, but from th
 
 > “There is nothing in the intellect that was not first in the senses.” — [Thomas Aquinas](../philosophers/aquinas.md), Disputed Questions on Truth, q. 2, a. 3, arg. 19
 
+> “He saw the cities of many men and knew their minds.” — Homer, Odyssey, I, 3
+
 > “I am not one who was born with knowledge; I love the ancients and earnestly seek it there.” — Analects, Analects, VII.20
 
 > “Natural rights is simple nonsense: natural and imprescriptible rights, rhetorical nonsense, nonsense upon stilts.” — [Bentham](../philosophers/bentham.md), Anarchical Fallacies
@@ -75,10 +77,6 @@ Knowledge comes neither from experience alone nor from reason alone, but from th
 > “Do not go by hearsay or tradition, but when you know for yourselves: this is wholesome, then take it up.” — Kalama Sutta, Kalama Sutta
 
 > “Nothing is in the intellect that was not first in the senses, except the intellect itself.” — [Leibniz](../philosophers/leibniz.md), New Essays on Human Understanding, II, 1
-
-> “Nothing is in the intellect that was not first in the senses, except the intellect itself.” — [Leibniz](../philosophers/leibniz.md), New Essays on Human Understanding, II, 1
-
-> “Let us then suppose the mind to be, as we say, white paper, void of all characters, without any ideas. How comes it to be furnished? … To this I answer, in one word, from experience.” — [Locke](../philosophers/locke.md), Essay Concerning Human Understanding, II, 1, §2
 
 > “Let us suppose the mind to be, as we say, white paper, void of all characters, without any ideas: how comes it to be furnished? ... To this I answer, in one word, from experience.” — [Locke](../philosophers/locke.md), Essay Concerning Human Understanding, II, ch. 1, §2
 

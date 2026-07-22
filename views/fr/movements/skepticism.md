@@ -73,7 +73,7 @@ Eudémonisme 90% · Hédonisme 10%
 
 Ce qui tourmente l'homme, soutient le sceptique, n'est pas l'événement mais l'opinion qu'il porte sur lui, le jugeant bon ou mauvais par nature : qui poursuit ce qu'il croit un bien et fuit ce qu'il croit un mal ne connaît plus le repos. Dès lors, suspendre cette opinion, c'est désamorcer le trouble à sa source. L'[ataraxia](../glossary/ataraxia.md) n'est donc pas un but que le sceptique vise directement, ce qui le rendrait à nouveau dépendant : elle survient par surcroît, comme le fruit inattendu de l'[épochè](../glossary/epoche.md). C'est là le paradoxe de l'école : on atteint la sérénité en renonçant à la chercher dans un savoir du bien.
 
-> « La tranquillité suivit la suspension comme l'ombre suit le corps. », Esquisses pyrrhoniennes, I, 29
+> « La tranquillité suivit la suspension du jugement comme l'ombre suit le corps. », Esquisses pyrrhoniennes, I, 29
 
 *Sources : Sextus Empiricus, Esquisses pyrrhoniennes, I, 25-30 · Diogène Laërce, Vies, IX, 107-108*
 
@@ -146,6 +146,10 @@ Le sceptique ne soutient ni un bien et un mal universels par nature, ni un relat
 *rejette l'alternative*
 
 L'école ne choisit ni la vérité ni l'illusion : elle suspend. L'[épochè](../glossary/epoche.md) n'est pas une illusion choisie mais le renoncement à trancher, et la tranquillité ([ataraxie](../glossary/ataraxia.md)) survient comme l'ombre suit le corps, sans qu'aucune croyance fausse soit embrassée : l'alternative de l'axe présuppose une prise de position sur le vrai que le sceptique refuse précisément d'accorder.
+
+## Influencé par
+
+- **[Platonisme](../movements/platonism.md)** (réinterprète) : Le [scepticisme](../movements/skepticism.md) académique naît à l'intérieur même de l'Académie de [Platon](../philosophers/plato.md) : [Arcésilas](../philosophers/arcesilaus.md), puis Carnéade, retournent la dialectique de l'école contre le [dogmatisme](../glossary/dogmatism.md), faisant de la suspension du jugement la vraie fidélité à la méthode socratique de l'examen. La recherche platonicienne du savoir se renverse ainsi en art de n'affirmer rien.
 
 ## Influence sur
 

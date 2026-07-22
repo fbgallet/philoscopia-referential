@@ -136,7 +136,7 @@ Scepticisme 85% · Dogmatisme 15%
 
 Nommer, c'est découper le réel en catégories opposées (le grand et le petit, le vrai et le faux), or le [dao 道 (la Voie)](../glossary/dao.md) est le fond indivis d'où ces distinctions procèdent : aucun mot ne peut donc le saisir sans le trahir. Le langage convient aux choses délimitées, jamais à la source qui les engendre toutes. Zhuangzi en tire un perspectivisme radical : chaque jugement parle depuis un point de vue situé, la dispute ne fait qu'opposer deux partialités sans juge qui les surplombe, et prétendre trancher universellement, c'est prendre son perchoir pour le centre du monde. D'où un [scepticisme](../glossary/skepticism.md) qui vise moins à nier qu'à dissoudre la prétention au savoir certain et à délivrer du besoin d'avoir raison.
 
-> « Le dao qu'on peut nommer dao n'est pas le dao constant. », Dao De Jing, ch. 1
+> « Le Dao qu'on peut nommer n'est pas le Dao constant. », Dao De Jing, ch. 1
 
 *Sources : Laozi, Dao De Jing, ch. 1 · Zhuangzi, ch. 2 (De l'égalité des choses)*
 
@@ -158,7 +158,7 @@ Anarchisme 78% · Autorité 22%
 
 Le bon souverain taoïste est celui qui gouverne le moins : il pratique le [wu wei 無為 (le non-agir)](../glossary/wu-wei.md) en politique, allège les lois et les contraintes, et laisse le peuple suivre sa [ziran 自然 (pente naturelle)](../glossary/ziran.md). Multiplier interdits et règlements ne fait qu'accroître le désordre, d'où une inclination libertaire proche de l'anarchisme.
 
-> « Gouverner un grand État, c'est comme faire frire un petit poisson. », Dao De Jing, ch. 60
+> « Gouverner un grand royaume, c'est comme faire frire un petit poisson. », Dao De Jing, ch. 60
 
 *Sources : Laozi, Dao De Jing, ch. 57, 60 · Zhuangzi, ch. 11 (Laisser être, ne pas contraindre)*
 
@@ -245,6 +245,10 @@ L'univers taoïste est foncièrement bienveillant et fiable pour qui s'accorde �
 ## Influencé par
 
 - **[Confucianisme](../movements/confucianism.md)** (réagit contre) : Le [taoïsme](../movements/taoism.md) se définit en partie contre le [confucianisme](../movements/confucianism.md) : là où celui-ci fonde l'ordre sur le rite et la vertu sociale, le Zhuangzi raille les convenances et oppose le spontané et le non-agir.
+
+## Influence sur
+
+- **[Bouddhisme](../movements/buddhism.md)** (synthétise) : En pénétrant en Chine, le [bouddhisme](../movements/buddhism.md) se fond avec la sensibilité [taoïste](../movements/taoism.md) : traduit d'abord au moyen du vocabulaire du dao et du wu wei, il donne naissance au Chan, l'ancêtre du Zen, où la méditation indienne épouse le naturel et la spontanéité chers à [Zhuangzi](../philosophers/zhuangzi.md). La filiation est rarement revendiquée, mais l'école Chan en porte l'empreinte.
 
 ---
 

@@ -64,7 +64,7 @@ Desire is the root of dependence and suffering: it binds us to what is beyond ou
 
 > “It is not the man who has little, but the one who craves more, that is poor.” — [Seneca](../philosophers/seneca.md), Letters to Lucilius, II
 
-> “It is better to be Socrates dissatisfied than a fool satisfied.” — [Mill](../philosophers/mill.md), Utilitarianism, ch. II
+> “It is better to be a human being dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied.” — [Mill](../philosophers/mill.md), Utilitarianism, ch. 2
 
 > “Reason is, and ought only to be, the slave of the passions.” — [Hume](../philosophers/hume.md), A Treatise of Human Nature, II, 3, 3
 
@@ -73,10 +73,6 @@ Desire is the root of dependence and suffering: it binds us to what is beyond ou
 > “Woe to him who has nothing left to desire! He loses, as it were, all that he possesses.” — [Rousseau](../philosophers/rousseau.md), Julie, or the New Heloise, VI
 
 > “Seek not that the things which happen should happen as you wish; but wish the things which happen to be as they are, and you will have a tranquil flow of life.” — [Epictetus](../philosophers/epictetus.md), Enchiridion, §8
-
-> “Do not ask that things happen as you wish, but wish them to happen as they do, and your life will go well.” — [Epictetus](../philosophers/epictetus.md), Enchiridion, §8
-
-> “Of desires, some are natural and others vain; and of the natural, some are necessary and others merely natural.” — [Epicurus](../philosophers/epicurus.md), Letter to Menoeceus, 127
 
 > “Of the desires, some are natural and necessary, some natural but not necessary, and some neither natural nor necessary but arising from empty opinion.” — [Epicurus](../philosophers/epicurus.md), Principal Doctrines, XXIX
 

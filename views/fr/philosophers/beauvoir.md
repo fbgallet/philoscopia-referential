@@ -320,7 +320,7 @@ Construction sociale 90% · Réalisme social 10%
 
 Si aucun destin biologique, psychique ou économique ne fixe d'avance ce qu'est une femme, alors la **féminité** ne peut être une essence : elle est le résultat d'une élaboration que la civilisation impose à la femelle humaine. Beauvoir dissocie ici le sexe, donnée corporelle, et le devenir-femme façonné par l'éducation, le droit et le regard d'autrui, fondant la distinction que reprendront les théories du genre. La conséquence est politique : ce qui s'est construit dans l'histoire peut s'y défaire, contre tout naturalisme qui justifierait la hiérarchie des sexes par la nature.
 
-> « On ne naît pas femme : on le devient. », Le Deuxième Sexe, t. II
+> « On ne naît pas femme : on le devient. Aucun destin biologique, psychique, économique ne définit la figure que revêt au sein de la société la femelle humaine. », Le Deuxième Sexe, t. II
 
 *Sources : Le Deuxième Sexe (1949), t. II, ouverture*
 

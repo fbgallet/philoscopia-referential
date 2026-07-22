@@ -316,6 +316,7 @@ Understanding is the sole salvation: each adequate idea increases our power of a
 
 - **[Descartes](../philosophers/descartes.md)** (reinterprets) : [Spinoza](../philosophers/spinoza.md) takes up the demonstrative rigour and method of [Descartes](../philosophers/descartes.md), but overturns his metaphysics: instead of two substances and an external God, a single infinite substance of which everything is a mode.
 - **[Machiavelli](../philosophers/machiavelli.md)** (reinterprets) : [Spinoza](../philosophers/spinoza.md) salutes [Machiavelli](../philosophers/machiavelli.md) as a most penetrating mind and takes up his realism, the analysis of human beings as they are; but he puts that lucidity in the service of an opposite end, democracy and freedom, not the preservation of the prince.
+- **[Stoicism](../movements/stoicism.md)** (reinterprets) : Spinoza's Ethics takes up the therapeutic gesture of [Stoicism](../movements/stoicism.md): bondage arises from the passions, freedom from understanding them, and one is delivered from disturbance by knowing necessity. Yet [Spinoza](../philosophers/spinoza.md) commends neither indifference nor a hardening of the heart: for him wisdom culminates in active joy and the intellectual love of God, not in the [apatheia](../glossary/apatheia.md) of the Stoic sage.
 
 ## Influence on
 

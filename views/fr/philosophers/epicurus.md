@@ -68,7 +68,7 @@ Se libérer de la crainte 100%
 
 L'argument repose sur deux prémisses tirées de la physique : tout bien et tout mal résident dans la sensation, et la mort, dissolution des atomes de l'âme, est précisément privation totale de sensation. Il s'ensuit que la mort ne peut être un mal pour personne, car le sujet qui en pâtirait n'existe jamais en même temps qu'elle : « tant que nous sommes, elle n'est pas là ; quand elle est là, nous ne sommes plus ». La peur de mourir vise donc un néant, et craindre un état où l'on ne sera pas est aussi vain que de s'affliger du temps d'avant sa naissance. Ce raisonnement, deuxième volet du [tétrapharmakos](../glossary/tetrapharmakos.md), retire son objet à l'angoisse qui, selon Épicure, empoisonne toute la vie.
 
-> « La mort n'est rien pour nous ; car ce qui est dissous est privé de sensation, et ce qui est privé de sensation n'est rien pour nous. », Maximes capitales, II
+> « La mort n'est rien pour nous ; car lorsque nous sommes, la mort n'est pas là, et lorsque la mort est là, nous ne sommes plus. », Lettre à Ménécée, 125
 
 *Sources : Lettre à Ménécée, 124-125 · Maximes capitales, II*
 
@@ -166,7 +166,7 @@ Ascétisme 60% · Célébration 40%
 
 Bien que le plaisir soit le bien, Épicure prône une sobriété mesurée : le plus haut plaisir n'est pas l'abondance des jouissances mais l'absence de douleur, qu'un peu de pain et d'eau suffit à procurer. « Quand nous disons que le plaisir est la fin, nous ne parlons pas des plaisirs des débauchés » mais de l'absence de souffrance du corps et de trouble de l'âme. La valeur penche légèrement vers l'ascèse, par frugalité plus que par mépris du corps.
 
-> « Le pain et l'eau procurent le plaisir le plus élevé quand on les porte à des lèvres qui en ont besoin. », Sentences vaticanes, 59 (cf. Lettre à Ménécée)
+> « Le pain et l'eau procurent le plaisir le plus élevé quand on les porte à des lèvres qui en ont besoin. », Lettre à Ménécée, 130-131
 
 *Sources : Lettre à Ménécée, 130-132 (l'éloge de la frugalité) · Maximes capitales, XV (la richesse selon la nature est facile à obtenir)*
 

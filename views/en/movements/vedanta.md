@@ -182,6 +182,10 @@ For Vedanta, the Self (atman) is eternal and does not die: death reaches only th
 
 *Sources : Bhagavad Gita, II · Katha Upanishad*
 
+## Influenced by
+
+- **[Buddhism](../movements/buddhism.md)** (reinterprets) : [Advaita Vedānta](../movements/vedanta.md) is forged in a close debate with [Buddhism](../movements/buddhism.md): [Gauḍapāda](../philosophers/gaudapada.md) and then [Śaṅkara](../philosophers/shankara.md) take up the dialectical tools of emptiness and the two truths, only to recast them in the non-dualism of the Upaniṣads, where the absolute is not void but Brahman. So close was the proximity that rivals called Śaṅkara a “crypto-Buddhist”.
+
 ## Influence on
 
 - **[Schopenhauer](../philosophers/schopenhauer.md)** (reinterprets) : [Schopenhauer](../philosophers/schopenhauer.md) draws from the Upaniṣads and [Vedānta](../movements/vedanta.md), which he revered, the motif of the veil of appearances (Māyā) and the metaphysical unity behind plurality, which he retranslates into his philosophy of the will.

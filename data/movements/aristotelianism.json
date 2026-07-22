@@ -14,8 +14,8 @@
     "en": ["Aristotelian", "Aristotelians", "Peripatetic school", "Peripatetics"]
   },
   "summary": {
-    "fr": "Tradition issue de l'école que <ph id='aristotle'>Aristote</ph> fonda au Lycée d'Athènes vers 335 avant notre ère, où ses disciples, les Péripatéticiens, enseignaient en se promenant. Formé chez <ph id='plato'>Platon</ph> mais en rupture avec lui, Aristote bâtit le premier système encyclopédique de la philosophie, de la logique à la biologie, à partir de l'observation patiente du monde sensible plutôt que de la contemplation d'un monde des Idées. Après une longue éclipse, son œuvre est commentée et prolongée par <ph>Averroès</ph> dans le monde arabo-musulman, puis intégrée au christianisme par <ph>Thomas d'Aquin</ph> : l'aristotélisme devient l'ossature de la <c>scolastique</c> médiévale et la référence dominante des universités, jusqu'à ce que la science moderne conteste son finalisme. Sa logique, son éthique de la vertu et son vocabulaire métaphysique irriguent encore la pensée occidentale.",
-    "en": "A tradition stemming from the school <ph id='aristotle'>Aristotle</ph> founded at the Lyceum in Athens around 335 BCE, where his disciples, the Peripatetics, taught while walking about. Trained under <ph id='plato'>Plato</ph> but breaking with him, Aristotle built philosophy's first encyclopaedic system, from logic to biology, out of the patient observation of the sensible world rather than the contemplation of a realm of Ideas. After a long eclipse, his work was commented on and extended by <ph>Averroes</ph> in the Arab-Muslim world, then absorbed into Christianity by <ph>Thomas Aquinas</ph>: Aristotelianism became the backbone of medieval <c>scholasticism</c> and the dominant authority of the universities, until modern science challenged its finalism. Its logic, its virtue ethics and its metaphysical vocabulary still run through Western thought."
+    "fr": "Tradition issue de l'école que <ph id='aristotle'>Aristote</ph> fonda au Lycée d'Athènes vers 335 avant notre ère, où ses disciples, les Péripatéticiens, enseignaient en se promenant. Formé chez <ph id='plato'>Platon</ph> mais en rupture avec lui, Aristote bâtit le premier système encyclopédique de la philosophie, de la logique à la biologie, à partir de l'observation patiente du monde sensible plutôt que de la contemplation d'un monde des Idées. Après une longue éclipse, son œuvre est commentée et prolongée par <ph>Averroès</ph> dans le monde arabo-musulman, puis intégrée au christianisme par <ph>Thomas d'Aquin</ph> : l'aristotélisme devient l'ossature de la <c id='scholasticism'>scolastique</c> médiévale et la référence dominante des universités, jusqu'à ce que la science moderne conteste son finalisme. Sa logique, son éthique de la vertu et son vocabulaire métaphysique irriguent encore la pensée occidentale.",
+    "en": "A tradition stemming from the school <ph id='aristotle'>Aristotle</ph> founded at the Lyceum in Athens around 335 BCE, where his disciples, the Peripatetics, taught while walking about. Trained under <ph id='plato'>Plato</ph> but breaking with him, Aristotle built philosophy's first encyclopaedic system, from logic to biology, out of the patient observation of the sensible world rather than the contemplation of a realm of Ideas. After a long eclipse, his work was commented on and extended by <ph>Averroes</ph> in the Arab-Muslim world, then absorbed into Christianity by <ph>Thomas Aquinas</ph>: Aristotelianism became the backbone of medieval <c id='scholasticism'>scholasticism</c> and the dominant authority of the universities, until modern science challenged its finalism. Its logic, its virtue ethics and its metaphysical vocabulary still run through Western thought."
   },
   "period": {
     "from": -335,
@@ -121,7 +121,7 @@
           "fr": "L'argument procède de la fonction propre : comme le bien du flûtiste tient à bien remplir sa fonction, le bien de l'homme tient à l'activité qui lui est spécifique, l'exercice de la raison, que ne partagent ni la plante ni l'animal. Le souverain bien ne peut donc être le plaisir, que poursuit toute bête, contre l'<c id='hedonism'>hédonisme</c> ; ni un bien extérieur comme l'honneur, qui dépend d'autrui. C'est l'<c id='eudaimonism'>eudaimonia</c>, activité de l'âme conforme à la vertu : un accomplissement actif, et non un état possédé, qui se déploie sur toute une vie et requiert aussi des biens du corps et de la fortune.",
           "en": "The argument proceeds from the proper function: as the flute-player's good lies in performing his function well, the human good lies in the activity specific to humans, the exercise of reason, which neither plant nor animal shares. The sovereign good thus cannot be pleasure, which every beast pursues, against <c id='hedonism'>hedonism</c>; nor an external good like honour, which depends on others. It is <c id='eudaimonism'>eudaimonia</c>, an activity of the soul in accord with virtue: an active fulfilment, not a possessed state, unfolding across a whole life and requiring also goods of body and fortune."
         },
-        "quoteId": "le-bien-de-l-homme-est-aristotle-2",
+        "quoteId": "le-bien-de-l-homme-est-aristotle",
         "references": [
           { "fr": "Aristote, Éthique à Nicomaque, I, 7", "en": "Aristotle, Nicomachean Ethics, I, 7" },
           { "fr": "Thomas d'Aquin, Somme théologique, I-II, q. 1-5", "en": "Thomas Aquinas, Summa Theologiae, I-II, qq. 1-5" }
@@ -159,7 +159,7 @@
           "fr": "Le point de départ est l'observation du vivant : un gland devient chêne et non hêtre, l'organe se développe pour une fonction, signe qu'un terme oriente le processus. Tenir cette régularité pour un pur hasard de la matière, comme le mécanisme de Démocrite, n'explique rien ; il faut, outre la matière, la <c id='four-causes'>cause finale</c>, ce <dif>en vue de quoi</dif> une chose existe. Le finalisme n'est donc pas projeté sur la nature mais lu en elle, et ce sont les natures internes des êtres, non un démiurge extérieur, qui les portent vers leur fin.",
           "en": "The starting point is the observation of living things: an acorn becomes an oak and not a beech, an organ develops for a function, signs that an end orients the process. To treat this regularity as a mere accident of matter, as Democritus' mechanism does, explains nothing; beyond matter one needs the <c id='four-causes'>final cause</c>, the <dif>that-for-the-sake-of-which</dif> a thing exists. Finalism is thus not projected onto nature but read within it, and it is the internal natures of beings, not an external craftsman, that carry them toward their end."
         },
-        "quoteId": "dieu-et-la-nature-ne-font-aristotle",
+        "quoteId": "la-nature-ne-fait-rien-en-aristotle",
         "references": [
           { "fr": "Aristote, Physique, II, 3 et 8", "en": "Aristotle, Physics, II, 3 and 8" },
           { "fr": "Aristote, Métaphysique, A, 3", "en": "Aristotle, Metaphysics, A, 3" }
@@ -249,7 +249,7 @@
           "fr": "La définition aristotélicienne de la vérité est le paradigme de la correspondance : la pensée est vraie quand elle s'accorde à ce qui est dans la chose, formule que la scolastique reprendra comme adéquation de l'intellect et de la chose.",
           "en": "The Aristotelian definition of truth is the paradigm of correspondence: thought is true when it accords with what is in the thing, a formula scholasticism would restate as the adequation of intellect and thing."
         },
-        "quoteId": "dire-de-ce-qui-est-qu-aristotle-2",
+        "quoteId": "dire-de-ce-qui-est-qu-aristotle",
         "references": [
           { "fr": "Aristote, Métaphysique, Γ (livre IV), 7", "en": "Aristotle, Metaphysics, Γ (book IV), 7" },
           { "fr": "Thomas d'Aquin, Questions disputées sur la vérité, q. 1", "en": "Thomas Aquinas, Disputed Questions on Truth, q. 1" }
@@ -336,7 +336,7 @@
           "fr": "L'aristotélisme affirme un principe divin, le <c id='unmoved-mover'>premier moteur immobile</c>, cause finale du mouvement de l'univers qu'il meut comme l'aimé meut l'amant. Mais ce dieu d'Aristote est impersonnel : pure pensée se pensant elle-même, il n'est ni créateur ni providence et ne se soucie pas du monde. D'où une position théiste nettement non extrême, qui marque cette impersonnalité, <dif>avant que la scolastique ne l'identifie, non sans tension, au Dieu personnel et providentiel</dif>.",
           "en": "Aristotelianism affirms a divine principle, the <c id='unmoved-mover'>unmoved mover</c>, the final cause of the universe's motion, which it moves as the beloved moves the lover. Yet Aristotle's god is impersonal: pure thought thinking itself, it is neither creator nor providence and takes no concern for the world. Hence a clearly non-extreme theist position that marks this impersonality, <dif>before scholasticism identified it, not without tension, with the personal and providential God</dif>."
         },
-        "quoteId": "la-pensee-se-pense-elle-meme-aristotle-2",
+        "quoteId": "la-pensee-se-pense-elle-meme-aristotle",
         "references": [
           { "fr": "Aristote, Métaphysique, Λ (livre XII), 7 et 9", "en": "Aristotle, Metaphysics, Λ (book XII), 7 and 9" }
         ],

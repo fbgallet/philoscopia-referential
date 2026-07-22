@@ -72,7 +72,7 @@ La morale s'enracine dans l'attention concrète portée aux personnes vulnérabl
 
 > « La morale est plus proprement sentie que jugée. » — [Hume](../philosophers/hume.md), Traité de la nature humaine, III, I, 2
 
-> « La nature a placé l'humanité sous l'empire de deux maîtres souverains, la peine et le plaisir. C'est à eux seuls qu'il appartient de désigner ce que nous devons faire. » — [Bentham](../philosophers/bentham.md), Introduction aux principes de morale et de législation, chapitre 1
+> « La nature a placé l'humanité sous l'empire de deux maîtres souverains, la douleur et le plaisir. C'est à eux seuls qu'il appartient de montrer ce que nous devons faire comme de déterminer ce que nous ferons. » — [Bentham](../philosophers/bentham.md), Introduction aux principes de la morale et de la législation, ch. I, §1
 
 > « La vertu est une disposition à agir de façon délibérée, consistant en une médiété relative à nous, déterminée par la raison comme la déterminerait l'homme prudent. » — [Aristote](../philosophers/aristotle.md), Éthique à Nicomaque, II, 6, 1106b-1107a
 

@@ -277,6 +277,7 @@ What thinks cannot be of the same nature as what is thought from without: the so
 ## Influence on
 
 - **[Boethius](../philosophers/boethius.md)** (reinterprets) : [Boethius](../philosophers/boethius.md)'s Consolation of Philosophy breathes late [Platonism](../movements/platonism.md): the soul's ascent toward the Good, an ordering providence, evil deprived of being, in a prose that Christianises the heritage without citing it.
+- **[Skepticism](../movements/skepticism.md)** (reinterprets) : Academic [skepticism](../movements/skepticism.md) is born within [Plato](../philosophers/plato.md)'s own Academy: [Arcesilaus](../philosophers/arcesilaus.md), and then Carneades, turn the school's dialectic against [dogmatism](../glossary/dogmatism.md), making the suspension of judgment the true fidelity to the Socratic method of examination. The Platonic search for knowledge thus reverses into an art of asserting nothing.
 - **[Nietzsche](../philosophers/nietzsche.md)** (reacts against) : [Nietzsche](../philosophers/nietzsche.md) defines his task as an “inversion of Platonism”: against [Platonism](../movements/platonism.md) and its “true world” that devalues the sensible, he means to restore innocence to the earth and the body.
 
 ---

@@ -1,0 +1,16 @@
+{
+  "id": "liberalism-vs-marxism",
+  "from": { "kind": "MOVEMENT", "slug": "liberalism" },
+  "to": { "kind": "MOVEMENT", "slug": "marxism" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Le <mv id='marxism'>marxisme</mv> se construit comme la critique du <mv id='liberalism'>libéralisme</mv> : derrière l'égalité formelle des droits et la liberté du marché, <ph id='marx'>Marx</ph> dénonce les rapports de production qui asservissent le travail et fait des droits bourgeois l'idéologie d'une classe. Il en retient pourtant l'horizon d'émancipation, qu'il veut porter du droit politique à la vie réelle.",
+    "en": "<mv id='marxism'>Marxism</mv> builds itself as the critique of <mv id='liberalism'>liberalism</mv>: behind the formal equality of rights and the freedom of markets, <ph id='marx'>Marx</ph> exposes the relations of production that enslave labour, and treats bourgeois rights as the ideology of a class. He nonetheless retains its horizon of emancipation, which he means to carry beyond political rights, into real life."
+  },
+  "sources": [
+    { "fr": "Marx, Sur la question juive ; Marx et Engels, Manifeste du parti communiste ; Marx, Le Capital", "en": "Marx, On the Jewish Question; Marx and Engels, Manifesto of the Communist Party; Marx, Capital" }
+  ],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

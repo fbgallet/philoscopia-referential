@@ -1,0 +1,16 @@
+{
+  "id": "buddhism-to-vedanta",
+  "from": { "kind": "MOVEMENT", "slug": "buddhism" },
+  "to": { "kind": "MOVEMENT", "slug": "vedanta" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "L'<mv id='vedanta'>Advaita Vedānta</mv> se forge dans un débat serré avec le <mv id='buddhism'>bouddhisme</mv> : <ph id='gaudapada'>Gauḍapāda</ph> puis <ph id='shankara'>Śaṅkara</ph> reprennent les outils dialectiques de la vacuité et des deux vérités, mais pour les recouler dans le non-dualisme des Upaniṣad, où l'absolu n'est pas vide mais Brahman. La proximité fut telle que les rivaux traitèrent Śaṅkara de <q>bouddhiste masqué</q>.",
+    "en": "<mv id='vedanta'>Advaita Vedānta</mv> is forged in a close debate with <mv id='buddhism'>Buddhism</mv>: <ph id='gaudapada'>Gauḍapāda</ph> and then <ph id='shankara'>Śaṅkara</ph> take up the dialectical tools of emptiness and the two truths, only to recast them in the non-dualism of the Upaniṣads, where the absolute is not void but Brahman. So close was the proximity that rivals called Śaṅkara a <q>crypto-Buddhist</q>."
+  },
+  "sources": [
+    { "fr": "Gauḍapāda, Māṇḍūkya-kārikā ; Śaṅkara, Brahma-sūtra-bhāṣya, II.2 ; R. King, Early Advaita Vedānta and Buddhism", "en": "Gauḍapāda, Māṇḍūkya-kārikā; Śaṅkara, Brahma-sūtra-bhāṣya, II.2; R. King, Early Advaita Vedānta and Buddhism" }
+  ],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

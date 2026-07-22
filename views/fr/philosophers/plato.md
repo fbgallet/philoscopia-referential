@@ -78,7 +78,7 @@ Transcendance 95% · Immanence 5%
 
 L'analogie du soleil porte l'argument : de même que le soleil rend les choses visibles et les fait croître, le Bien donne aux Idées d'être connues et d'être tout court. Comme cause à la fois de l'intelligibilité et de l'existence, le Bien ne peut être lui-même une essence parmi d'autres : il les surpasse, situé « par delà l'essence ». Platon pousse ainsi la [transcendance](../glossary/transcendence.md) à son point extrême, à l'opposé d'une [immanence](../glossary/immanence.md) qui logerait le principe dans le monde, et fait de toute la dialectique une ascension, hors de la caverne, vers ce principe séparé que l'âme ne contemple qu'au prix d'une conversion du regard.
 
-> « Le Bien n'est pas l'essence, mais bien au-dessus d'elle, la surpassant en dignité et en puissance. », République, VI, 509b
+> « Le Bien n'est pas l'être, mais il est encore au-dessus et au-delà de l'être, le surpassant en dignité et en puissance. », République, VI, 509b
 
 *Sources : République, VI, 508e-509b · Banquet, 210a-212a*
 

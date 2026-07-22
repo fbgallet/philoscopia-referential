@@ -4,7 +4,7 @@
 
 *335 BCE – 1274*
 
-A tradition stemming from the school [Aristotle](../philosophers/aristotle.md) founded at the Lyceum in Athens around 335 BCE, where his disciples, the Peripatetics, taught while walking about. Trained under [Plato](../philosophers/plato.md) but breaking with him, Aristotle built philosophy's first encyclopaedic system, from logic to biology, out of the patient observation of the sensible world rather than the contemplation of a realm of Ideas. After a long eclipse, his work was commented on and extended by Averroes in the Arab-Muslim world, then absorbed into Christianity by Thomas Aquinas: Aristotelianism became the backbone of medieval scholasticism and the dominant authority of the universities, until modern science challenged its finalism. Its logic, its virtue ethics and its metaphysical vocabulary still run through Western thought.
+A tradition stemming from the school [Aristotle](../philosophers/aristotle.md) founded at the Lyceum in Athens around 335 BCE, where his disciples, the Peripatetics, taught while walking about. Trained under [Plato](../philosophers/plato.md) but breaking with him, Aristotle built philosophy's first encyclopaedic system, from logic to biology, out of the patient observation of the sensible world rather than the contemplation of a realm of Ideas. After a long eclipse, his work was commented on and extended by Averroes in the Arab-Muslim world, then absorbed into Christianity by Thomas Aquinas: Aristotelianism became the backbone of medieval [scholasticism](../glossary/scholasticism.md) and the dominant authority of the universities, until modern science challenged its finalism. Its logic, its virtue ethics and its metaphysical vocabulary still run through Western thought.
 
 **Key figures** : [Aristotle](../philosophers/aristotle.md) · [Thomas Aquinas](../philosophers/aquinas.md) · [Averroes](../philosophers/averroes.md)
 
@@ -56,7 +56,7 @@ Eudaimonism 85% · Virtue / moral perfectionism 15%
 
 The argument proceeds from the proper function: as the flute-player's good lies in performing his function well, the human good lies in the activity specific to humans, the exercise of reason, which neither plant nor animal shares. The sovereign good thus cannot be pleasure, which every beast pursues, against [hedonism](../glossary/hedonism.md); nor an external good like honour, which depends on others. It is [eudaimonia](../glossary/eudaimonism.md), an activity of the soul in accord with virtue: an active fulfilment, not a possessed state, unfolding across a whole life and requiring also goods of body and fortune.
 
-> “The good of man is an activity of the soul in accordance with virtue, and if there are several virtues, in accordance with the best and most complete.”, Nicomachean Ethics, I, 7, 1098a
+> “The good of man is an activity of the soul in accordance with virtue, and if there are several virtues, in accordance with the best and most complete.”, Nicomachean Ethics, I.7 (1098a)
 
 *Sources : Aristotle, Nicomachean Ethics, I, 7 · Thomas Aquinas, Summa Theologiae, I-II, qq. 1-5*
 
@@ -80,7 +80,7 @@ Finalism 90% · Mechanism 10%
 
 The starting point is the observation of living things: an acorn becomes an oak and not a beech, an organ develops for a function, signs that an end orients the process. To treat this regularity as a mere accident of matter, as Democritus' mechanism does, explains nothing; beyond matter one needs the [final cause](../glossary/four-causes.md), the that-for-the-sake-of-which a thing exists. Finalism is thus not projected onto nature but read within it, and it is the internal natures of beings, not an external craftsman, that carry them toward their end.
 
-> “God and nature do nothing in vain.”, On the Heavens, I, 4, 271a; cf. Physics, II, 8
+> “Nature does nothing in vain.”, Politics, I.2 (1253a)
 
 *Sources : Aristotle, Physics, II, 3 and 8 · Aristotle, Metaphysics, A, 3*
 
@@ -132,7 +132,7 @@ Correspondence 90% · Coherence 10%
 
 The Aristotelian definition of truth is the paradigm of correspondence: thought is true when it accords with what is in the thing, a formula scholasticism would restate as the adequation of intellect and thing.
 
-> “To say of what is that it is not, or of what is not that it is, is false; while to say of what is that it is, and of what is not that it is not, is true.”, Metaphysics, Γ (book IV), 7, 1011b
+> “To say of what is that it is not, or of what is not that it is, is false; while to say of what is that it is, and of what is not that it is not, is true.”, Metaphysics, IV (Gamma).7 (1011b)
 
 *Sources : Aristotle, Metaphysics, Γ (book IV), 7 · Thomas Aquinas, Disputed Questions on Truth, q. 1*
 
@@ -184,7 +184,7 @@ Theism 80% · Atheism 20%
 
 Aristotelianism affirms a divine principle, the [unmoved mover](../glossary/unmoved-mover.md), the final cause of the universe's motion, which it moves as the beloved moves the lover. Yet Aristotle's god is impersonal: pure thought thinking itself, it is neither creator nor providence and takes no concern for the world. Hence a clearly non-extreme theist position that marks this impersonality, before scholasticism identified it, not without tension, with the personal and providential God.
 
-> “Thought thinks itself in grasping the intelligible, and its thinking is a thinking of thinking.”, Metaphysics, Λ (book XII), 9, 1074b
+> “Thought thinks itself in grasping the intelligible, and its thinking is a thinking of thinking.”, Metaphysics, XII (Lambda).9 (1074b)
 
 *Sources : Aristotle, Metaphysics, Λ (book XII), 7 and 9*
 

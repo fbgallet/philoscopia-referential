@@ -1,0 +1,16 @@
+{
+  "id": "stoicism-vs-kant",
+  "from": { "kind": "MOVEMENT", "slug": "stoicism" },
+  "to": { "kind": "PHILOSOPHER", "slug": "kant" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='kant'>Kant</ph> rompt avec l'<c id='eudaimonism'>eudémonisme</c> antique dont le <mv id='stoicism'>stoïcisme</mv> est le plus haut représentant : faire de la recherche du bonheur le ressort de la vertu, c'est pour lui verser dans l'hétéronomie. Il récuse la thèse que la vertu suffise au souverain bien, et rend au bonheur une place seulement espérée, proportionnée au mérite, jamais un motif moral valable.",
+    "en": "<ph id='kant'>Kant</ph> breaks with the ancient <c id='eudaimonism'>eudaimonism</c> of which <mv id='stoicism'>Stoicism</mv> is the highest representative: to make the pursuit of happiness the mainspring of virtue is, for him, to lapse into heteronomy. He rejects the thesis that virtue suffices for the highest good, and grants happiness only a hoped-for place, proportioned to desert, never a valid moral motive."
+  },
+  "sources": [
+    { "fr": "Kant, Critique de la raison pratique (Dialectique, Ak. 5:111-114 ; 5:126) ; Religion dans les limites de la simple raison, 6:57n", "en": "Kant, Critique of Practical Reason (Dialectic, Ak. 5:111-114; 5:126); Religion within the Bounds of Bare Reason, 6:57n" }
+  ],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

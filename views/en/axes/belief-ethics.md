@@ -32,8 +32,6 @@ When the evidence is inconclusive and the stakes are vital, we have the right, s
 
 > “The mind, if it will proceed rationally, ought to examine all the grounds of probability ... and upon a due balancing the whole, reject or receive it, with a more or less firm assent, proportionably to the preponderancy of the greater grounds of probability.” — [Locke](../philosophers/locke.md), Essay Concerning Human Understanding, IV, ch. 15-16 (probability and the degrees of assent)
 
-> “A wise man, therefore, proportions his belief to the evidence.” — [Hume](../philosophers/hume.md), Enquiry Concerning Human Understanding, section X (Of Miracles)
-
 > “A wise man, therefore, proportions his belief to the evidence.” — [Hume](../philosophers/hume.md), Enquiry Concerning Human Understanding, sect. X
 
 ## Related axes

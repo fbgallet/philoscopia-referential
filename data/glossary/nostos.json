@@ -1,0 +1,12 @@
+{
+  "id": "nostos",
+  "term": { "fr": "Nostos (le retour)", "en": "Nostos (the homecoming)" },
+  "aliases": { "fr": ["nostos"], "en": ["nostos"] },
+  "definition": {
+    "fr": "Le nostos est, dans l'épopée grecque, le retour du héros à son pays natal après la guerre ou l'errance : non un simple déplacement, mais la restauration de son rang, de son foyer et de son identité. Il donne son ressort à toute l'<w id='odyssey-homer'>Odyssée</w>, dont <chr id='odysseus'>Ulysse</chr> est le héros par excellence, celui qui refuse l'oubli et l'immortalité pour regagner Ithaque. De nostos et d'algos, la douleur, vient d'ailleurs notre mot <ety>nostalgie</ety>, le mal de qui en est privé.",
+    "en": "Nostos, in Greek epic, is the hero's return to his native land after war or wandering: not a mere journey but the restoration of his rank, his household and his identity. It drives the whole <w id='odyssey-homer'>Odyssey</w>, whose hero <chr id='odysseus'>Odysseus</chr> is its paragon, the one who refuses oblivion and immortality to regain Ithaca. From nostos and algos, pain, comes, indeed, our word <ety>nostalgia</ety>, the ache of one deprived of it."
+  },
+  "relatedAxes": ["BELONGING", "TIME_ORIENTATION"],
+  "relatedTerms": [],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "endure-mon-coeur-homer",
+  "text": {
+    "fr": "Endure, mon cœur : tu as déjà supporté pire.",
+    "en": "Endure, my heart; you have borne worse before this."
+  },
+  "author": { "name": { "fr": "Homère", "en": "Homer" }, "kind": "TRADITION" },
+  "work": "odyssey-homer",
+  "source": { "fr": "Odyssée, XX, 18", "en": "Odyssey, XX, 18" },
+  "anchors": [{ "axisId": "CONTROL_SCOPE" }],
+  "context": {
+    "fr": "Rentré chez lui et déguisé, Ulysse contient sa fureur en s'adressant à son propre cœur pour qu'il tienne.",
+    "en": "Home again and in disguise, Odysseus checks his fury by addressing his own heart, bidding it hold fast."
+  },
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

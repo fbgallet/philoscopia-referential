@@ -76,7 +76,7 @@ Existentialism 98% · Essentialism 3%
 
 A manufactured object, a paper-knife, presupposes in the artisan's mind the concept and function that define it: its essence precedes its existence. Lacking an artisan God, the human being cannot be thought this way: there is no prior essence to realize, the person first exists and only then defines themselves by what they make of themselves. The movement thus overturns the whole of essentialism, from [Plato](../philosophers/plato.md) to theology: there is no model of man preceding singular men, and Kierkegaard already set the existing individual's becoming-a-self against the system's Hegelian essence.
 
-> “Man first of all exists, encounters himself, surges up in the world, and defines himself afterwards.”, Existentialism Is a Humanism
+> “Man first exists, encounters himself, surges up in the world, and defines himself afterward. If man as the existentialist conceives him is indefinable, it is because at first he is nothing. He will not be anything until later, and then he will be what he makes of himself.”, Existentialism Is a Humanism
 
 *Sources : Existentialism Is a Humanism · Being and Nothingness*
 

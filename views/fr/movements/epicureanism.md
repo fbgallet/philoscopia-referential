@@ -48,7 +48,7 @@ Se libérer de la crainte 95% · Vivre en vue de sa mort 5%
 
 Tout bien et tout mal résident dans la sensation, et la mort est précisément privation de toute sensation : la physique le garantit, puisque l'âme, faite d'atomes subtils, se disperse quand le corps se défait. De là l'argument décisif : la mort n'est rien pour nous, car tant que nous sommes là, la mort n'y est pas, et quand la mort est là, nous n'y sommes plus ; le sujet qui pourrait pâtir et l'événement redouté ne coexistent jamais. La peur de la mort vise donc un néant et repose sur l'illusion d'assister encore à sa propre absence. Cela vise les terreurs de l'au-delà, châtiments et survie, que l'épicurisme tient pour des fictions sans objet : il n'y a pas de durée infinie à craindre, et une vie limitée mais sans angoisse vaut une éternité.
 
-> « La mort n'est rien pour nous, car ce qui est dissous est sans sensation, et ce qui est sans sensation n'est rien pour nous. », Lettre à Ménécée, 124-125
+> « La mort n'est rien pour nous ; car lorsque nous sommes, la mort n'est pas là, et lorsque la mort est là, nous ne sommes plus. », Lettre à Ménécée, 125
 
 *Sources : Épicure, Lettre à Ménécée, 124-125 · Lucrèce, De la nature des choses, livre III*
 
@@ -60,7 +60,7 @@ Tri raisonné 85% · Extinction-détachement 10% · Affirmation 5%
 
 Si la souffrance vient surtout des désirs déçus, c'est leur objet qu'il faut examiner : un désir naturel et nécessaire (manger, s'abriter, écarter la peur) a une borne et se comble aisément, tandis qu'un désir vain (la richesse, la gloire) est par nature illimité et ne s'apaise jamais, car il repose sur une opinion fausse. La sagesse consiste donc à sélectionner les premiers et à éteindre les seconds : non par renoncement, mais parce que le calcul montre que les biens nécessaires sont faciles à obtenir et que poursuivre l'illimité, c'est se condamner au trouble. Là où le stoïcien suspend tout désir d'objet extérieur, l'épicurien en garde une part, celle qui borne le besoin, et atteint par ce tri l'[autarcie (autarkeia, autosuffisance)](../glossary/autarkeia.md).
 
-> « Parmi les désirs, les uns sont naturels, les autres vains ; et parmi les naturels, les uns sont nécessaires, les autres seulement naturels. », Lettre à Ménécée, 127
+> « Parmi les désirs, les uns sont naturels et nécessaires, les autres naturels et non nécessaires, les autres ni naturels ni nécessaires, mais nés d'une opinion vide. », Maximes capitales, XXIX
 
 *Sources : Épicure, Lettre à Ménécée, 127-128 · Épicure, Maximes capitales, XXIX*
 
@@ -82,7 +82,7 @@ Matérialisme 100%
 
 Deux principes sûrs commandent toute la physique : rien ne naît de rien, rien ne retourne au néant, et le mouvement même des corps prouve qu'il existe du vide où ils se meuvent. De là il suit qu'il n'y a que des atomes, particules pleines et insécables, et le vide qui les sépare : tout le reste, qualités, âmes, dieux, n'est qu'arrangement transitoire de ces grains. L'enjeu n'est pas spéculatif mais libérateur : si l'âme elle-même est un agrégat d'atomes qui se dissout à la mort, alors l'au-delà, le jugement et la providence s'effondrent d'un coup, et avec eux les deux grandes peurs. Ce matérialisme, repris de Démocrite mais réorienté vers le bonheur, s'oppose frontalement au cosmos animé d'un [logos](../glossary/logos.md) des stoïciens comme au monde des Idées de [Platon](../philosophers/plato.md).
 
-> « Le tout est fait de corps et de vide. », Lettre à Hérodote, 39-40
+> « Le tout est constitué de corps et de vide. », Lettre à Hérodote, 39
 
 *Sources : Épicure, Lettre à Hérodote, 38-44 · Lucrèce, De la nature des choses, livre I*
 
@@ -134,7 +134,7 @@ Ascétisme 60% · Célébration 40%
 
 Contre la caricature de la débauche, Épicure prône une vie sobre : le plaisir visé est surtout catastématique, le plaisir stable du besoin satisfait, plutôt que le plaisir en mouvement (cinétique) de la jouissance. La position penche donc légèrement vers la frugalité, sans condamner le corps.
 
-> « Du pain et de l'eau procurent le plus haut plaisir dès qu'on les porte à une bouche qui a faim. », Sentences vaticanes, 33
+> « Le pain et l'eau procurent le plaisir le plus élevé quand on les porte à des lèvres qui en ont besoin. », Lettre à Ménécée, 130-131
 
 *Sources : Épicure, Lettre à Ménécée, 130-131 · Épicure, Sentences vaticanes, 33*
 
@@ -236,7 +236,7 @@ L'âme est corporelle : un assemblage d'atomes très fins qui se dissout à la m
 
 - **[Hobbes](../philosophers/hobbes.md)** (réinterprète) : Le matérialisme de l'[épicurisme](../movements/epicureanism.md) parvient à [Hobbes](../philosophers/hobbes.md) par un relais documenté mais indirect, son ami Gassendi, restaurateur d'Épicure dans le cercle de Mersenne : atomes, crainte et pacte y préfigurent sa physique et son contrat.
 - **[Utilitarisme](../movements/utilitarianism.md)** (réinterprète) : Filiation reconstruite, non revendiquée : l'hédonisme de l'[épicurisme](../movements/epicureanism.md), qui mesure le bien au plaisir et à l'absence de trouble, préfigure de loin le calcul des peines et des plaisirs de l'[utilitarisme](../movements/utilitarianism.md), que Bentham refonde toutefois sur le bonheur collectif.
-- **[Stoïcisme](../movements/stoicism.md)** (réagit contre) : Rivalité fondatrice de l'époque hellénistique : le [stoïcisme](../movements/stoicism.md) forge nombre de ses thèses contre l'[épicurisme](../movements/epicureanism.md), opposant à la déviation des atomes et au plaisir la providence, le destin et la vertu comme seul bien.
+- **[Stoïcisme](../movements/stoicism.md)** (réagit contre) : Rivalité majeure de l'époque hellénistique : de [Chrysippe](../philosophers/chrysippus.md) aux dialogues où Cicéron la rapporte, le [stoïcisme](../movements/stoicism.md) affûte ses thèses contre l'[épicurisme](../movements/epicureanism.md), opposant à la déviation des atomes et au plaisir la providence, le destin et la vertu comme seul bien.
 
 ---
 

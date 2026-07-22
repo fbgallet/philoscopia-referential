@@ -83,7 +83,7 @@ Compatibilism gives up free will in the strong sense, the power to have chosen o
 
 > “Man is condemned to be free. Condemned, because he did not create himself, yet nonetheless free, because once thrown into the world, he is responsible for everything he does.” — [Sartre](../philosophers/sartre.md), Existentialism Is a Humanism
 
-> “Nature has placed mankind under the governance of two sovereign masters, pain and pleasure.” — [Bentham](../philosophers/bentham.md), Principles of Morals and Legislation, I
+> “Nature has placed mankind under the governance of two sovereign masters, pain and pleasure. It is for them alone to point out what we ought to do, as well as to determine what we shall do.” — [Bentham](../philosophers/bentham.md), An Introduction to the Principles of Morals and Legislation, ch. I, §1
 
 > “The maker and ruler of all things himself wrote the decrees of fate, but he follows them: he ordained once, he obeys forever.” — [Seneca](../philosophers/seneca.md), On Providence, V
 

@@ -44,7 +44,7 @@ What is up to us 95% · Prometheanism 5%
 
 The root of all unhappiness, Epictetus argues, is to expect one's happiness from things that are not in our power. Hence the opening move of the *[Enchiridion](../works/enchiridion-epictetus.md)*: sorting our concerns into two classes by the single criterion of mastery, what is wholly up to us (judgments, desires, aversions) and what is not (body, goods, reputation). The [dichotomy](../glossary/dichotomy-of-control.md) is not one thesis among others but the operation that conditions everything that follows: all disturbance arises from having claimed a hold on what eludes us. Where the older Stoics dwelt on cosmic fate, Epictetus brings the division down to the concrete use, here and now, of what is properly mine.
 
-> “Some things are within our power, while others are not.”, Enchiridion, §1
+> “Of things, some are in our power, and others are not.”, Enchiridion, §1
 
 *Sources : Enchiridion, §1 · Discourses, I.1*
 
@@ -76,7 +76,7 @@ Extinction and detachment 80% · Reasoned selection 20%
 
 Desire and aversion aim at attaining or avoiding: directed at what is not up to us, they doom us to miss our aim and to suffer what we flee, hence to unhappiness. The first of the three disciplines, that of desire, is to withdraw them from everything external so as to desire only what is in our power, until progress makes desire safe. For the beginner Epictetus goes so far as to recommend suspending desire altogether and using only aversion, and that solely toward what depends on us. A reasoned sorting of the preferred [indifferents](../glossary/adiaphora.md) remains in the background, but the lived tendency is detachment from all that fortune can take back.
 
-> “Do not ask that things happen as you wish, but wish them to happen as they do, and your life will go well.”, Enchiridion, §8
+> “Seek not that the things which happen should happen as you wish; but wish the things which happen to be as they are, and you will have a tranquil flow of life.”, Enchiridion, §8
 
 *Sources : Enchiridion, §2 · Enchiridion, §8*
 

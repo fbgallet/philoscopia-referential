@@ -52,8 +52,6 @@ Le réel comporte deux ordres irréductibles : la matière, étendue et mesurabl
 
 > « Le tout est constitué de corps et de vide. » — [Épicure](../philosophers/epicurus.md), Lettre à Hérodote, 39
 
-> « Le tout est fait de corps et de vide. » — [Épicure](../philosophers/epicurus.md), Lettre à Hérodote, 39-40
-
 > « Les monades n'ont point de fenêtres par lesquelles quelque chose y puisse entrer ou sortir. » — [Leibniz](../philosophers/leibniz.md), Monadologie, §7
 
 > « Leur être est d'être perçus ; il n'est pas possible qu'ils aient une existence hors des esprits qui les perçoivent. » — [George Berkeley](../philosophers/berkeley.md), Principes de la connaissance humaine, §3

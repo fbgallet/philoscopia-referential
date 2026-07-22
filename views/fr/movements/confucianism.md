@@ -146,7 +146,7 @@ Conservatisme 90% · Progressisme 10%
 
 L'ordre humain a déjà été réalisé une fois, par les sages-rois de l'antiquité (Yao, Shun, les Zhou) : il existe donc un modèle accompli à ressaisir, et non une voie à inventer de toutes pièces. Le présent est en désordre précisément parce qu'il a rompu avec lui, d'où la tâche : transmettre et raviver les rites (li 禮) reçus plutôt que les remplacer. Cette confiance dans le legs distingue le confucianisme à la fois du naturalisme [taoïste](../movements/taoism.md), qui voudrait défaire l'artifice des rites pour retrouver la spontanéité du [dao](../glossary/dao.md), et de l'innovation légiste, qui fonde l'ordre sur des lois nouvelles indifférentes au passé. Pour le confucéen, l'autorité morale ne se décrète pas : elle se reçoit d'une tradition éprouvée.
 
-> « Je transmets et je n'invente pas ; je crois aux Anciens et je les aime. », Entretiens (Lunyu), VII, 1
+> « Je transmets et je n'invente pas ; j'aime les Anciens et je leur fais confiance. », Entretiens, VII, 1
 
 *Sources : Confucius, Entretiens (Lunyu), VII, 1 · Confucius, Entretiens (Lunyu), III, 14*
 

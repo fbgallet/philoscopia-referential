@@ -49,6 +49,10 @@ All its variants agree that there exist rights which limit power and which no ma
 
 - **[The Enlightenment](../movements/enlightenment.md)** (continues) : Political liberalism extends the [Enlightenment](../movements/enlightenment.md): from it, it draws the natural rights of the individual, toleration, government founded on consent, and distrust of any absolute power. [Montesquieu](../philosophers/montesquieu.md) adds the separation of powers as a safeguard against despotism. From the Enlightenment liberalism keeps the individual come of age, capable of conducting themselves by their own reason.
 
+## Influence on
+
+- **[Marxism](../movements/marxism.md)** (reacts against) : [Marxism](../movements/marxism.md) builds itself as the critique of [liberalism](../movements/liberalism.md): behind the formal equality of rights and the freedom of markets, [Marx](../philosophers/marx.md) exposes the relations of production that enslave labour, and treats bourgeois rights as the ideology of a class. He nonetheless retains its horizon of emancipation, which he means to carry beyond political rights, into real life.
+
 ---
 
 *Generated from the JSON corpus in `data/`. Do not edit by hand; see [CONTRIBUTING](../../../CONTRIBUTING.md).*

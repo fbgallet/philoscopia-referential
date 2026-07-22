@@ -35,11 +35,9 @@ Ni renoncement ni débordement : jouir des plaisirs du corps, mais avec mesure. 
 
 > « Ces deux extrêmes, moines, ne doivent pas être suivis par celui qui a quitté la vie de famille : la poursuite des plaisirs des sens, et la poursuite de la mortification. » — [Le Bouddha](../philosophers/buddha.md), Dhammacakkappavattana Sutta (Saṃyutta Nikāya 56.11)
 
-> « Du pain et de l'eau procurent le plus haut plaisir dès qu'on les porte à une bouche qui a faim. » — [Épicure](../philosophers/epicurus.md), Sentences vaticanes, 33
-
 > « Il n'est pas plus nécessaire que le saint soit un philosophe qu'il n'est nécessaire que le philosophe soit un saint ; de même qu'il n'est pas nécessaire qu'un homme parfaitement beau soit un grand sculpteur, ni qu'un grand sculpteur soit lui-même un bel homme. » — [Schopenhauer](../philosophers/schopenhauer.md), Le Monde comme volonté et comme représentation, §68
 
-> « Le pain et l'eau procurent le plaisir le plus élevé quand on les porte à des lèvres qui en ont besoin. » — [Épicure](../philosophers/epicurus.md), Sentences vaticanes, 59 (cf. Lettre à Ménécée)
+> « Le pain et l'eau procurent le plaisir le plus élevé quand on les porte à des lèvres qui en ont besoin. » — [Épicure](../philosophers/epicurus.md), Lettre à Ménécée, 130-131
 
 ## Axes liés
 

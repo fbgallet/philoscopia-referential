@@ -78,7 +78,7 @@ Transcendence 95% · Immanence 5%
 
 The analogy of the sun carries the argument: just as the sun makes things visible and makes them grow, the Good gives the Forms their being known and their being at all. As the cause of both intelligibility and existence, the Good cannot itself be one essence among others: it surpasses them, set "beyond essence". Plato thus pushes [transcendence](../glossary/transcendence.md) to its extreme, against any [immanence](../glossary/immanence.md) that would lodge the principle within the world, and makes the whole of dialectic an ascent, out of the cave, toward this separate principle that the soul beholds only at the price of a conversion of its gaze.
 
-> “The Good is not essence, but still transcends essence in dignity and power.”, Republic, VI, 509b
+> “The Good is not being, but still beyond being, surpassing it in dignity and power.”, Republic, VI, 509b
 
 *Sources : Republic, VI, 508e-509b · Symposium, 210a-212a*
 

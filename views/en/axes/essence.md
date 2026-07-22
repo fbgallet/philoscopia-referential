@@ -51,8 +51,6 @@ Existence precedes essence: a human being is at first nothing definite and makes
 
 > “The human essence is no abstraction inherent in the isolated individual. In its reality it is the ensemble of social relations.” — [Marx](../philosophers/marx.md), Theses on Feuerbach, VI
 
-> “Man first of all exists, encounters himself, surges up in the world, and defines himself afterwards.” — [Sartre](../philosophers/sartre.md), Existentialism Is a Humanism
-
 > “Man first exists, encounters himself, surges up in the world, and defines himself afterward. If man as the existentialist conceives him is indefinable, it is because at first he is nothing. He will not be anything until later, and then he will be what he makes of himself.” — [Sartre](../philosophers/sartre.md), Existentialism Is a Humanism
 
 > “One is not born, but rather becomes, a woman. No biological, psychic, or economic destiny defines the figure that the human female assumes within society.” — [Beauvoir](../philosophers/beauvoir.md), The Second Sex, vol. II

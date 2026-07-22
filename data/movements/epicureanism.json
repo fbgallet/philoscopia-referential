@@ -93,7 +93,7 @@
           "fr": "Tout bien et tout mal résident dans la sensation, et la mort est précisément privation de toute sensation : la physique le garantit, puisque l'âme, faite d'<c>atomes</c> subtils, se disperse quand le corps se défait. De là l'argument décisif : <arg>la mort n'est rien pour nous, car tant que nous sommes là, la mort n'y est pas, et quand la mort est là, nous n'y sommes plus</arg> ; le sujet qui pourrait pâtir et l'événement redouté ne coexistent jamais. La peur de la mort vise donc un néant et repose sur l'illusion d'assister encore à sa propre absence. Cela vise les terreurs de l'au-delà, châtiments et survie, que l'épicurisme tient pour des fictions sans objet : il n'y a pas de durée infinie à craindre, et une vie limitée mais sans angoisse vaut une éternité.",
           "en": "All good and evil reside in sensation, and death is precisely the privation of all sensation: physics guarantees it, since the soul, made of subtle <c>atoms</c>, scatters when the body comes apart. Hence the decisive argument: <arg>death is nothing to us, for while we exist death is not present, and when death is present we no longer exist</arg>; the subject that could suffer and the dreaded event never coexist. The fear of death therefore aims at a nothing and rests on the illusion of still witnessing one's own absence. This targets the terrors of the afterlife, punishment and survival, which Epicureanism holds to be fictions without object: there is no infinite span to dread, and a finite but unanxious life is worth an eternity."
         },
-        "quoteId": "la-mort-n-est-rien-pour-epicurus-2",
+        "quoteId": "la-mort-n-est-rien-pour-epicurus",
         "references": [
           { "fr": "Épicure, Lettre à Ménécée, 124-125", "en": "Epicurus, Letter to Menoeceus, 124-125" },
           { "fr": "Lucrèce, De la nature des choses, livre III", "en": "Lucretius, On the Nature of Things, book III" }
@@ -112,7 +112,7 @@
           "fr": "Si la souffrance vient surtout des désirs déçus, c'est leur objet qu'il faut examiner : un désir naturel et nécessaire (manger, s'abriter, écarter la peur) a une borne et se comble aisément, tandis qu'un désir vain (la richesse, la gloire) est par nature illimité et ne s'apaise jamais, car il repose sur une opinion fausse. <arg>La sagesse consiste donc à sélectionner les premiers et à éteindre les seconds</arg> : non par renoncement, mais parce que le calcul montre que les biens nécessaires sont faciles à obtenir et que poursuivre l'illimité, c'est se condamner au trouble. Là où le stoïcien suspend tout désir d'objet extérieur, l'épicurien en garde une part, celle qui borne le besoin, et atteint par ce tri l'<c id='autarkeia'>autarcie (autarkeia, autosuffisance)</c>.",
           "en": "If suffering springs chiefly from thwarted desires, it is their object that must be examined: a natural and necessary desire (food, shelter, freedom from fear) has a limit and is easily filled, whereas a vain desire (wealth, glory) is by nature unlimited and never quieted, for it rests on a false opinion. <arg>Wisdom therefore consists in selecting the first and extinguishing the rest</arg>: not by renunciation, but because the reckoning shows that necessary goods are easy to obtain and that pursuing the unlimited is to doom oneself to disturbance. Where the Stoic suspends every desire for an external object, the Epicurean keeps a part of it, the part that bounds need, and through this sorting attains <c id='autarkeia'>self-sufficiency (autarkeia)</c>."
         },
-        "quoteId": "parmi-les-desirs-les-uns-sont-epicurus-2",
+        "quoteId": "parmi-les-desirs-les-uns-sont-epicurus",
         "references": [
           { "fr": "Épicure, Lettre à Ménécée, 127-128", "en": "Epicurus, Letter to Menoeceus, 127-128" },
           { "fr": "Épicure, Maximes capitales, XXIX", "en": "Epicurus, Principal Doctrines, XXIX" }
@@ -149,7 +149,7 @@
           "fr": "Deux principes sûrs commandent toute la physique : rien ne naît de rien, rien ne retourne au néant, et le mouvement même des corps prouve qu'il existe du vide où ils se meuvent. De là il suit qu'il n'y a que des <c>atomes</c>, particules pleines et insécables, et le vide qui les sépare : tout le reste, qualités, âmes, dieux, n'est qu'arrangement transitoire de ces grains. L'enjeu n'est pas spéculatif mais libérateur : si l'âme elle-même est un agrégat d'atomes qui se dissout à la mort, alors l'au-delà, le jugement et la providence s'effondrent d'un coup, et avec eux les deux grandes peurs. Ce matérialisme, repris de Démocrite mais réorienté vers le bonheur, s'oppose frontalement au cosmos animé d'un <c id='logos'>logos</c> des stoïciens comme au monde des Idées de <ph id='plato'>Platon</ph>.",
           "en": "Two sure principles govern the whole physics: nothing comes from nothing and nothing returns to nothing, and the very motion of bodies proves there is void in which they move. From this it follows that there exist only <c>atoms</c>, full and indivisible particles, and the void that separates them: everything else, qualities, souls, gods, is but a transient arrangement of these grains. The stake is not speculative but liberating: if the soul itself is an aggregate of atoms that dissolves at death, then the afterlife, judgment and providence collapse at a stroke, and with them the two great fears. This materialism, taken from Democritus but redirected toward happiness, stands squarely against the Stoics' cosmos animated by a <c id='logos'>logos</c> and against <ph id='plato'>Plato</ph>'s world of Forms."
         },
-        "quoteId": "le-tout-est-fait-de-corps-epicurus",
+        "quoteId": "le-tout-est-constitue-de-corps-epicurus",
         "references": [
           { "fr": "Épicure, Lettre à Hérodote, 38-44", "en": "Epicurus, Letter to Herodotus, 38-44" },
           { "fr": "Lucrèce, De la nature des choses, livre I", "en": "Lucretius, On the Nature of Things, book I" }
@@ -240,7 +240,7 @@
           "fr": "Contre la caricature de la débauche, Épicure prône une vie sobre : le plaisir visé est surtout <c>catastématique</c>, le plaisir stable du besoin satisfait, plutôt que le plaisir en mouvement (cinétique) de la jouissance. La position penche donc légèrement vers la frugalité, sans condamner le corps.",
           "en": "Against the caricature of debauchery, Epicurus advocates a sober life: the pleasure sought is chiefly <c>katastematic</c>, the stable pleasure of satisfied need, rather than the kinetic pleasure of enjoyment. The position thus leans slightly toward frugality, without condemning the body."
         },
-        "quoteId": "du-pain-et-de-l-eau-epicurus",
+        "quoteId": "le-pain-et-l-eau-procurent-epicurus",
         "references": [
           { "fr": "Épicure, Lettre à Ménécée, 130-131", "en": "Epicurus, Letter to Menoeceus, 130-131" },
           { "fr": "Épicure, Sentences vaticanes, 33", "en": "Epicurus, Vatican Sayings, 33" }

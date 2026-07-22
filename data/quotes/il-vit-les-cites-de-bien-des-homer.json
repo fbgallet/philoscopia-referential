@@ -1,0 +1,16 @@
+{
+  "id": "il-vit-les-cites-de-bien-des-homer",
+  "text": {
+    "fr": "Il vit les cités de bien des hommes et connut leur esprit.",
+    "en": "He saw the cities of many men and knew their minds."
+  },
+  "author": { "name": { "fr": "Homère", "en": "Homer" }, "kind": "TRADITION" },
+  "work": "odyssey-homer",
+  "source": { "fr": "Odyssée, I, 3", "en": "Odyssey, I, 3" },
+  "anchors": [{ "axisId": "KNOWLEDGE_SOURCE", "poleId": "EMPIRICISM" }],
+  "context": {
+    "fr": "Le proème loue le savoir d'Ulysse, acquis non par le raisonnement mais par l'expérience de son errance à travers le monde.",
+    "en": "The proem praises Odysseus's knowledge, gained not by reasoning but through the experience of his wandering across the world."
+  },
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

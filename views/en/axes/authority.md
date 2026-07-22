@@ -35,8 +35,6 @@ Power is necessary, but it is legitimate only if it is limited. Between the obed
 
 > “He lit a lamp in broad daylight and said: "I am looking for a man."” — [Diogenes of Sinope](../philosophers/diogenes.md), Diogenes Laertius, Lives, VI, 41
 
-> “Governing a great state is like cooking a small fish.” — [Laozi](../philosophers/laozi.md), Dao De Jing, ch. 60
-
 > “Governing a great state is like frying a small fish.” — [Laozi](../philosophers/laozi.md), Dao De Jing, ch. 60
 
 > “Lead the people by virtue, keep them in order by the rites, and they will have a sense of shame and come to you.” — [Confucius](../philosophers/confucius.md), Analects, II, 3

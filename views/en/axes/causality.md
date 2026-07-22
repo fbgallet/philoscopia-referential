@@ -43,8 +43,6 @@ Life cannot be reduced either to mechanics or to a pre-established plan: it is a
 
 > “After a repetition of similar instances, the mind is carried by habit, upon the appearance of one event, to expect its usual attendant... This connexion, therefore, which we feel in the mind, is the impression from which we form the idea of power or necessary connexion.” — [Hume](../philosophers/hume.md), Enquiry Concerning Human Understanding, sect. VII
 
-> “God and nature do nothing in vain.” — [Aristotle](../philosophers/aristotle.md), On the Heavens, I, 4, 271a; cf. Physics, II, 8
-
 > “Never and nowhere does anything exist that is arisen from itself, from another, from both, or without a cause.” — [Nāgārjuna](../philosophers/nagarjuna.md), Mūlamadhyamakakārikā, I, 1
 
 > “Nature does nothing in vain.” — [Aristotle](../philosophers/aristotle.md), Politics, I.2 (1253a)

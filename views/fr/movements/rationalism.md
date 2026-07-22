@@ -46,7 +46,7 @@ Rationalisme 93% · Empirisme 7%
 
 Le point décisif est qu'une vérité nécessaire et universelle ne peut venir des sens : ceux-ci ne livrent que des cas particuliers et contingents, jamais le « cela ne peut pas être autrement » des mathématiques. Il faut donc une source non sensible, et ce sera l'[entendement](../glossary/innate-ideas.md) et ses [idées innées](../glossary/innate-ideas.md). [Leibniz](../philosophers/leibniz.md) retourne contre l'[empirisme](../movements/empiricism.md) sa propre maxime : si rien n'est dans l'esprit qui n'ait d'abord été dans les sens, encore faut-il en excepter l'intellect lui-même, dont les structures rendent toute expérience pensable. Là où [Hume](../philosophers/hume.md) ne voit dans les sens que des impressions, [Spinoza](../philosophers/spinoza.md) distingue cette connaissance confuse du premier genre de la connaissance par [idées adéquates](../glossary/adequate-idea.md), seule à saisir les choses par leurs causes.
 
-> « Rien n'est dans l'entendement qui n'ait été d'abord dans les sens, sinon l'entendement lui-même. », Nouveaux essais sur l'entendement humain, II, 1
+> « Rien n'est dans l'entendement qui n'ait d'abord été dans les sens, sinon l'entendement lui-même. », Nouveaux essais sur l'entendement humain, II, 1
 
 *Sources : Descartes, Méditations métaphysiques, III · Leibniz, Nouveaux essais sur l'entendement humain, II, 1*
 
@@ -178,6 +178,7 @@ Toute justification, sous peine de régression à l'infini, doit s'arrêter sur 
 
 - **[Les Lumières](../movements/enlightenment.md)** (prolonge) : Du [rationalisme](../movements/rationalism.md), les Lumières héritent la confiance dans une raison capable de juger seule, et le doute méthodique de [Descartes](../philosophers/descartes.md) comme arme contre les préjugés. Le versant radical du courant prolonge aussi, de façon plus souterraine, le [spinozisme](../philosophers/spinoza.md) et sa critique des religions révélées.
 - **[Kant](../philosophers/kant.md)** (synthétise) : [Kant](../philosophers/kant.md) reprend du [rationalisme](../movements/rationalism.md) l'exigence d'un savoir a priori, universel et nécessaire, mais la limite aux conditions de l'expérience possible : les concepts purs ne connaissent rien hors des phénomènes.
+- **[Empirisme](../movements/empiricism.md)** (réagit contre) : L'[empirisme](../movements/empiricism.md) britannique se définit contre le [rationalisme](../movements/rationalism.md) : le premier livre de l'*[Essai](../works/essay-concerning-human-understanding-locke.md)* de [Locke](../philosophers/locke.md) entreprend de réfuter les principes innés, avant que le second ne fasse dériver toutes nos idées de l'expérience, sensation puis réflexion. À l'ordre des raisons déduites a priori, il oppose la patiente collecte des idées simples.
 
 ---
 

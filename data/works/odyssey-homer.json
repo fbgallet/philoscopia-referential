@@ -1,0 +1,12 @@
+{
+  "id": "odyssey-homer",
+  "title": { "fr": "L'Odyssée", "en": "The Odyssey" },
+  "originalTitle": "Ὀδύσσεια",
+  "author": { "slug": "homer", "name": { "fr": "Homère", "en": "Homer" } },
+  "year": -750,
+  "presentation": {
+    "fr": "Épopée grecque attribuée à <per>Homère</per> (VIIIᵉ siècle av. J.-C.), en vingt-quatre chants. Elle raconte le retour d'<chr id='odysseus'>Ulysse</chr> vers Ithaque après la guerre de Troie : dix années d'errance, d'épreuves et de ruses, tandis que sa femme Pénélope tient tête aux prétendants. Texte fondateur de la littérature occidentale, c'est le grand poème du voyage, de la ruse et du retour.",
+    "en": "Greek epic attributed to <per>Homer</per> (8th century BCE), in twenty-four books. It tells of <chr id='odysseus'>Odysseus</chr>'s return to Ithaca after the Trojan War: ten years of wandering, trials and ruses, while his wife Penelope holds off the suitors. A foundational text of Western literature, it is the great poem of the voyage, of cunning and of homecoming."
+  },
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

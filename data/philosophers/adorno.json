@@ -1,0 +1,17 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "adorno",
+  "name": { "fr": "Adorno", "en": "Adorno" },
+  "fullName": { "fr": "Theodor W. Adorno", "en": "Theodor W. Adorno" },
+  "summary": {
+    "fr": "Philosophe et sociologue allemand de l'École de Francfort : avec Horkheimer, dans la Dialectique de la raison, il analyse comment la raison des Lumières, en se faisant instrument de domination de la nature, se retourne en nouvelle barbarie ; théoricien d'une « dialectique négative » rétive à toute réconciliation.",
+    "en": "German philosopher and sociologist of the Frankfurt School: with Horkheimer, in Dialectic of Enlightenment, he analyzes how Enlightenment reason, by becoming an instrument for dominating nature, turns into a new barbarism; theorist of a \"negative dialectics\" resistant to any reconciliation."
+  },
+  "nationality": { "fr": "Allemand", "en": "German" },
+  "birth": 1903,
+  "death": 1969,
+  "movements": [],
+  "updatedAt": "2026-07-22T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

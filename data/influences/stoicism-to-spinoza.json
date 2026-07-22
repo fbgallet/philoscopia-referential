@@ -1,0 +1,16 @@
+{
+  "id": "stoicism-to-spinoza",
+  "from": { "kind": "MOVEMENT", "slug": "stoicism" },
+  "to": { "kind": "PHILOSOPHER", "slug": "spinoza" },
+  "directness": "INDIRECT",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "L'Éthique de <ph id='spinoza'>Spinoza</ph> reprend le geste thérapeutique du <mv id='stoicism'>stoïcisme</mv> : la servitude naît des passions, la liberté de leur compréhension, et l'on se délivre du trouble en connaissant la nécessité. Mais Spinoza ne prône ni l'indifférence ni le durcissement du cœur : la sagesse culmine pour lui dans la joie active et l'amour intellectuel de Dieu, non dans l'<c id='apatheia'>apatheia</c> du sage stoïcien.",
+    "en": "Spinoza's Ethics takes up the therapeutic gesture of <mv id='stoicism'>Stoicism</mv>: bondage arises from the passions, freedom from understanding them, and one is delivered from disturbance by knowing necessity. Yet <ph id='spinoza'>Spinoza</ph> commends neither indifference nor a hardening of the heart: for him wisdom culminates in active joy and the intellectual love of God, not in the <c id='apatheia'>apatheia</c> of the Stoic sage."
+  },
+  "sources": [
+    { "fr": "Spinoza, Éthique, III-V ; S. James, « Spinoza the Stoic »", "en": "Spinoza, Ethics, III-V; Susan James, 'Spinoza the Stoic'" }
+  ],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

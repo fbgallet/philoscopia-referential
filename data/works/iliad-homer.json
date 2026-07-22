@@ -1,0 +1,12 @@
+{
+  "id": "iliad-homer",
+  "title": { "fr": "L'Iliade", "en": "The Iliad" },
+  "originalTitle": "Ἰλιάς",
+  "author": { "slug": "homer", "name": { "fr": "Homère", "en": "Homer" } },
+  "year": -750,
+  "presentation": {
+    "fr": "Épopée grecque attribuée à <per>Homère</per>, en vingt-quatre chants, sur quelques semaines de la dernière année de la guerre de Troie. Centrée sur la colère d'Achille, c'est le grand poème de la guerre, de l'honneur héroïque et de la force, où <chr id='odysseus'>Ulysse</chr> se distingue déjà par son éloquence et sa ruse.",
+    "en": "Greek epic attributed to <per>Homer</per>, in twenty-four books, covering a few weeks of the final year of the Trojan War. Centered on the wrath of Achilles, it is the great poem of war, of heroic honor and of force, where <chr id='odysseus'>Odysseus</chr> already stands out for his eloquence and cunning."
+  },
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

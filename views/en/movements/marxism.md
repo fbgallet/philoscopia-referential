@@ -140,7 +140,7 @@ Progressivism 98% · Conservatism 3%
 
 If exploitation lies in the very structure of the relations of production, then reform can only manage it: only their overthrow abolishes it. Hence the revolutionary character of Marxist progressivism and its refusal of the alternatives: neither awaiting a moral evolution, nor the ideal cities of utopian socialism, nor mere philosophical critique will do, since to interpret the world leaves it intact. Thought itself has worth only as [praxis](../glossary/praxis.md), a moment of real transformation borne by the class that has "nothing to lose but its chains." Philosophy ceases to be contemplation and becomes a weapon, as the eleventh thesis on Feuerbach sums up.
 
-> “The philosophers have only interpreted the world, in various ways; the point is to change it.”, Theses on Feuerbach, XI
+> “The philosophers have only interpreted the world, in various ways; the point is to change it.”, Theses on Feuerbach, XI (1845)
 
 *Sources : Marx, Theses on Feuerbach, XI (1845) · Marx and Engels, The Communist Manifesto (1848)*
 
@@ -172,7 +172,7 @@ Atheism 88% · Theism 13%
 
 Marx's atheism does not stop at denying God: it asks why humans need one. Religion is neither a mere error nor a priestly imposture, but at once the expression of real distress and the protest against it, an imaginary consolation that relieves suffering while making it bearable, and so lasting. Hence the decisive shift: to criticize heaven is useless unless one criticizes earth, that is, the social relations that make religion necessary. Abolishing the illusion presupposes abolishing the conditions that call for it, which ranges Marxism on the side of atheist materialism.
 
-> “Religion is the sigh of the oppressed creature, the heart of a heartless world, the soul of soulless conditions. It is the opium of the people.”, Critique of Hegel's Philosophy of Right, introduction
+> “Religion is the sigh of the oppressed creature, the heart of a heartless world, the soul of soulless conditions. It is the opium of the people.”, Critique of Hegel's Philosophy of Right, 1844
 
 *Sources : Marx, Critique of Hegel's Philosophy of Right, introduction (1844)*
 
@@ -245,6 +245,10 @@ Capability freedom 60% · Positive liberty 40%
 Formal rights (to vote, to contract, to own) leave economic compulsion intact: the worker "free" to sell his labor power is just as free to starve if he refuses. Marxism therefore holds political emancipation to be real but insufficient, and sets against it a concrete freedom, the effective capacity for self-realization, which presupposes abolishing the rule of economic necessity and alienation. Freedom is not a legal status but a material condition to be won: the free development of each becomes possible only where that of all is too, which subordinates political liberty to the transformation of the relations of production.
 
 *Sources : Marx, 1844 Manuscripts; Capital, III*
+
+## Influenced by
+
+- **[Liberalism](../movements/liberalism.md)** (reacts against) : [Marxism](../movements/marxism.md) builds itself as the critique of [liberalism](../movements/liberalism.md): behind the formal equality of rights and the freedom of markets, [Marx](../philosophers/marx.md) exposes the relations of production that enslave labour, and treats bourgeois rights as the ideology of a class. He nonetheless retains its horizon of emancipation, which he means to carry beyond political rights, into real life.
 
 ## Influence on
 

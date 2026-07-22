@@ -218,9 +218,14 @@ Un être lui-même soumis au devenir et à la souffrance ne saurait être la sou
 
 *Sources : Brahmajāla Sutta (le discours du filet de Brahmā) · Aggañña Sutta (le discours sur les origines)*
 
+## Influencé par
+
+- **[Taoïsme](../movements/taoism.md)** (synthétise) : En pénétrant en Chine, le [bouddhisme](../movements/buddhism.md) se fond avec la sensibilité [taoïste](../movements/taoism.md) : traduit d'abord au moyen du vocabulaire du dao et du wu wei, il donne naissance au Chan, l'ancêtre du Zen, où la méditation indienne épouse le naturel et la spontanéité chers à [Zhuangzi](../philosophers/zhuangzi.md). La filiation est rarement revendiquée, mais l'école Chan en porte l'empreinte.
+
 ## Influence sur
 
 - **[Schopenhauer](../philosophers/schopenhauer.md)** (réinterprète) : [Schopenhauer](../philosophers/schopenhauer.md) trouve dans le [bouddhisme](../movements/buddhism.md) une confirmation orientale de sa pensée : la centralité de la souffrance, le détachement et la négation du vouloir-vivre comme voie de délivrance.
+- **[Vedānta (Advaita)](../movements/vedanta.md)** (réinterprète) : L'[Advaita Vedānta](../movements/vedanta.md) se forge dans un débat serré avec le [bouddhisme](../movements/buddhism.md) : [Gauḍapāda](../philosophers/gaudapada.md) puis [Śaṅkara](../philosophers/shankara.md) reprennent les outils dialectiques de la vacuité et des deux vérités, mais pour les recouler dans le non-dualisme des Upaniṣad, où l'absolu n'est pas vide mais Brahman. La proximité fut telle que les rivaux traitèrent Śaṅkara de « bouddhiste masqué ».
 
 ---
 

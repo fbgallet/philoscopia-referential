@@ -68,17 +68,15 @@ La connaissance ne vient ni de la seule expérience, ni de la seule raison, mais
 
 > « Il n'y a rien dans l'intellect qui n'ait d'abord été dans les sens. » — [Thomas d'Aquin](../philosophers/aquinas.md), Questions disputées sur la vérité, q. 2, a. 3, arg. 19
 
+> « Il vit les cités de bien des hommes et connut leur esprit. » — Homère, Odyssée, I, 3
+
 > « Je ne suis pas de ceux qui sont nés avec le savoir ; j'aime les anciens et je m'empresse de les y chercher. » — Entretiens, Entretiens, VII.20
 
 > « Les droits naturels, c'est purement et simplement du non-sens : les droits naturels et imprescriptibles, du non-sens sur des échasses. » — [Bentham](../philosophers/bentham.md), Anarchical Fallacies
 
 > « Ne vous fiez pas à l'ouï-dire ni à la tradition, mais quand vous savez par vous-mêmes : ceci est salutaire, alors adoptez-le. » — Kalama Sutta, Kalama Sutta
 
-> « Rien n'est dans l'entendement qui n'ait été d'abord dans les sens, sinon l'entendement lui-même. » — [Leibniz](../philosophers/leibniz.md), Nouveaux essais sur l'entendement humain, II, 1
-
 > « Rien n'est dans l'entendement qui n'ait d'abord été dans les sens, sinon l'entendement lui-même. » — [Leibniz](../philosophers/leibniz.md), Nouveaux essais sur l'entendement humain, II, 1
-
-> « Supposons donc que l'esprit soit, comme on dit, une page blanche, vierge de tout caractère, sans aucune idée. Comment vient-il à être rempli ? … À cela je réponds d'un mot : de l'expérience. » — [Locke](../philosophers/locke.md), Essai sur l'entendement humain, II, 1, §2
 
 > « Supposons donc que l'esprit soit, comme on dit, un papier blanc, vide de tout caractère, sans aucune idée : comment vient-il à en être pourvu ? ... À cela je réponds d'un seul mot : par l'expérience. » — [Locke](../philosophers/locke.md), Essai sur l'entendement humain, II, ch. 1, §2
 

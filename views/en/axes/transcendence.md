@@ -39,8 +39,6 @@ The sacred surpasses this world: truth, the good, or God belong to a higher orde
 
 > “The Good is not being, but still beyond being, surpassing it in dignity and power.” — [Plato](../philosophers/plato.md), Republic, VI, 509b
 
-> “The Good is not essence, but still transcends essence in dignity and power.” — [Plato](../philosophers/plato.md), Republic, VI, 509b
-
 > “A sacred spirit dwells within us, the observer and guardian of our good and our evil.” — [Seneca](../philosophers/seneca.md), Letters to Lucilius, XLI
 
 ## Related axes

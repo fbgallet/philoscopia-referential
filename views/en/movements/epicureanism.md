@@ -48,7 +48,7 @@ Freeing ourselves from the fear 95% · Living in view of one's death 5%
 
 All good and evil reside in sensation, and death is precisely the privation of all sensation: physics guarantees it, since the soul, made of subtle atoms, scatters when the body comes apart. Hence the decisive argument: death is nothing to us, for while we exist death is not present, and when death is present we no longer exist; the subject that could suffer and the dreaded event never coexist. The fear of death therefore aims at a nothing and rests on the illusion of still witnessing one's own absence. This targets the terrors of the afterlife, punishment and survival, which Epicureanism holds to be fictions without object: there is no infinite span to dread, and a finite but unanxious life is worth an eternity.
 
-> “Death is nothing to us, for that which is dissolved is without sensation, and that which lacks sensation is nothing to us.”, Letter to Menoeceus, 124-125
+> “Death is nothing to us; for so long as we exist, death is not with us, and when death comes, then we do not exist.”, Letter to Menoeceus, 125
 
 *Sources : Epicurus, Letter to Menoeceus, 124-125 · Lucretius, On the Nature of Things, book III*
 
@@ -60,7 +60,7 @@ Reasoned selection 85% · Extinction and detachment 10% · Affirmation 5%
 
 If suffering springs chiefly from thwarted desires, it is their object that must be examined: a natural and necessary desire (food, shelter, freedom from fear) has a limit and is easily filled, whereas a vain desire (wealth, glory) is by nature unlimited and never quieted, for it rests on a false opinion. Wisdom therefore consists in selecting the first and extinguishing the rest: not by renunciation, but because the reckoning shows that necessary goods are easy to obtain and that pursuing the unlimited is to doom oneself to disturbance. Where the Stoic suspends every desire for an external object, the Epicurean keeps a part of it, the part that bounds need, and through this sorting attains [self-sufficiency (autarkeia)](../glossary/autarkeia.md).
 
-> “Of desires, some are natural and others vain; and of the natural, some are necessary and others merely natural.”, Letter to Menoeceus, 127
+> “Of the desires, some are natural and necessary, some natural but not necessary, and some neither natural nor necessary but arising from empty opinion.”, Principal Doctrines, XXIX
 
 *Sources : Epicurus, Letter to Menoeceus, 127-128 · Epicurus, Principal Doctrines, XXIX*
 
@@ -82,7 +82,7 @@ Materialism 100%
 
 Two sure principles govern the whole physics: nothing comes from nothing and nothing returns to nothing, and the very motion of bodies proves there is void in which they move. From this it follows that there exist only atoms, full and indivisible particles, and the void that separates them: everything else, qualities, souls, gods, is but a transient arrangement of these grains. The stake is not speculative but liberating: if the soul itself is an aggregate of atoms that dissolves at death, then the afterlife, judgment and providence collapse at a stroke, and with them the two great fears. This materialism, taken from Democritus but redirected toward happiness, stands squarely against the Stoics' cosmos animated by a [logos](../glossary/logos.md) and against [Plato](../philosophers/plato.md)'s world of Forms.
 
-> “The universe consists of bodies and void.”, Letter to Herodotus, 39-40
+> “The totality of things is made of bodies and void.”, Letter to Herodotus, 39
 
 *Sources : Epicurus, Letter to Herodotus, 38-44 · Lucretius, On the Nature of Things, book I*
 
@@ -134,7 +134,7 @@ Asceticism 60% · Celebration 40%
 
 Against the caricature of debauchery, Epicurus advocates a sober life: the pleasure sought is chiefly katastematic, the stable pleasure of satisfied need, rather than the kinetic pleasure of enjoyment. The position thus leans slightly toward frugality, without condemning the body.
 
-> “Bread and water yield the highest pleasure when brought to hungry lips.”, Vatican Sayings, 33
+> “Bread and water confer the highest pleasure when one brings them to needy lips.”, Letter to Menoeceus, 130-131
 
 *Sources : Epicurus, Letter to Menoeceus, 130-131 · Epicurus, Vatican Sayings, 33*
 
@@ -236,7 +236,7 @@ The soul is corporeal: an assembly of very fine atoms that dissolves at death li
 
 - **[Hobbes](../philosophers/hobbes.md)** (reinterprets) : The materialism of [Epicureanism](../movements/epicureanism.md) reaches [Hobbes](../philosophers/hobbes.md) through a documented but indirect relay, his friend Gassendi, restorer of Epicurus in Mersenne's circle: atoms, fear and covenant there prefigure his physics and his contract.
 - **[Utilitarianism](../movements/utilitarianism.md)** (reinterprets) : A reconstructed, unclaimed filiation: the hedonism of [Epicureanism](../movements/epicureanism.md), which measures the good by pleasure and the absence of disturbance, distantly prefigures the calculus of pains and pleasures of [Utilitarianism](../movements/utilitarianism.md), which Bentham nonetheless refounds on collective happiness.
-- **[Stoicism](../movements/stoicism.md)** (reacts against) : A founding rivalry of the Hellenistic age: [Stoicism](../movements/stoicism.md) forges many of its theses against [Epicureanism](../movements/epicureanism.md), setting against the swerve of atoms and pleasure the doctrines of providence, fate and virtue as the only good.
+- **[Stoicism](../movements/stoicism.md)** (reacts against) : A major rivalry of the Hellenistic age: from [Chrysippus](../philosophers/chrysippus.md) to the dialogues in which Cicero reports it, [Stoicism](../movements/stoicism.md) hones its theses against [Epicureanism](../movements/epicureanism.md), setting against the swerve of atoms and pleasure the doctrines of providence, fate and virtue as the only good.
 
 ---
 

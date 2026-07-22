@@ -66,7 +66,7 @@ Déterminisme dur 70% · Libre arbitre 30%
 
 La conduite humaine est gouvernée par deux ressorts, le plaisir et la peine, une psychologie largement déterministe qui permet de prévoir et de réformer les comportements par les sanctions. La responsabilité n'y est pas un libre arbitre incausé mais se réinterprète en termes compatibilistes : l'utilitarisme s'attache aux causes qui meuvent les volontés plus qu'à leur prétendue spontanéité.
 
-> « La nature a placé l'humanité sous l'empire de deux maîtres souverains, la peine et le plaisir. », Principes de la morale et de la législation, I
+> « La nature a placé l'humanité sous l'empire de deux maîtres souverains, la douleur et le plaisir. C'est à eux seuls qu'il appartient de montrer ce que nous devons faire comme de déterminer ce que nous ferons. », Introduction aux principes de la morale et de la législation, ch. I, §1
 
 *Sources : Bentham, Introduction aux principes de la morale et de la législation, I · Mill, Système de logique, VI*
 
@@ -98,7 +98,7 @@ Conséquentialisme 100%
 
 Une action ne valant rien en elle-même, seul son effet sur le monde peut la rendre bonne ou mauvaise : tout ce qui compte moralement est le bien-être qu'elle produit ou détruit. De ce ground naît le conséquentialisme, qui congédie ensemble l'intention pure de la déontologie et l'excellence du caractère de l'éthique de la [vertu](../glossary/eudaimonism.md) : [Bentham](../philosophers/bentham.md) ramène l'évaluation à une mesure unique, la tendance de l'acte à accroître ou diminuer le bonheur des parties concernées, contre toute règle ou tradition qui se réclamerait d'une autorité indépendante des résultats.
 
-> « La nature a placé l'humanité sous l'empire de deux maîtres souverains, la peine et le plaisir. C'est à eux seuls qu'il appartient de désigner ce que nous devons faire. », Introduction aux principes de morale et de législation, chapitre 1
+> « La nature a placé l'humanité sous l'empire de deux maîtres souverains, la douleur et le plaisir. C'est à eux seuls qu'il appartient de montrer ce que nous devons faire comme de déterminer ce que nous ferons. », Introduction aux principes de la morale et de la législation, ch. I, §1
 
 *Sources : Bentham, Introduction aux principes de morale et de législation · Mill, L'Utilitarisme*
 

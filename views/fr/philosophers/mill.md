@@ -54,7 +54,7 @@ Tri raisonné 60% · Affirmation 35% · Extinction-détachement 5%
 
 Mill corrige l'hédonisme de Bentham par une hiérarchie qualitative : tous les désirs et plaisirs ne se valent pas, ceux qui engagent les facultés supérieures sont plus dignes que ceux du corps. Le tri ne porte plus seulement sur la quantité mais sur la qualité des plaisirs, sur un fond d'affirmation de la satisfaction comme fin de la vie.
 
-> « Il vaut mieux être un Socrate insatisfait qu'un imbécile satisfait. », L'Utilitarisme, ch. II
+> « Il vaut mieux être un être humain insatisfait qu'un porc satisfait ; il vaut mieux être Socrate insatisfait qu'un imbécile satisfait. », L'Utilitarisme, ch. 2
 
 *Sources : L'Utilitarisme, ch. II*
 
@@ -88,7 +88,7 @@ Hédonisme 70% · Eudémonisme 30%
 
 Contre l'objection ancienne qui ravale l'[hédonisme](../glossary/hedonism.md) au rang d'une morale de pourceaux, Mill répond qu'elle se trompe non sur le plaisir mais sur l'homme : nos facultés supérieures réclament un bonheur d'une autre nature. D'où sa rupture avec le calcul purement quantitatif de [Bentham](../philosophers/bentham.md) : les plaisirs diffèrent aussi en qualité, et ceux de l'intelligence, des sentiments et de l'imagination l'emportent intrinsèquement, parce que celui qui connaît les deux ne consentirait pour rien à descendre. Au cœur de l'argument, un sentiment de dignité que blesserait une existence bornée aux satisfactions du corps, ce qui infléchit l'hédonisme millien vers un épanouissement proche de l'[eudémonisme](../glossary/eudaimonism.md).
 
-> « Il vaut mieux être un homme insatisfait qu'un porc satisfait ; mieux vaut être Socrate insatisfait qu'un imbécile satisfait. », L'Utilitarisme, ch. 2
+> « Il vaut mieux être un être humain insatisfait qu'un porc satisfait ; il vaut mieux être Socrate insatisfait qu'un imbécile satisfait. », L'Utilitarisme, ch. 2
 
 *Sources : L'Utilitarisme, ch. 2 (qualité contre quantité des plaisirs) · L'Utilitarisme, ch. 4 (le bonheur, seule chose désirable comme fin)*
 

@@ -76,7 +76,7 @@ Existentialisme 98% · Essentialisme 3%
 
 Un objet fabriqué, un coupe-papier, présuppose dans l'esprit de l'artisan le concept et la fonction qui le définissent : son essence précède son existence. Faute d'un Dieu artisan, l'homme ne peut être pensé ainsi : il n'a pas d'essence préalable à réaliser, il existe d'abord et se définit ensuite par ce qu'il fait de lui-même. Le courant retourne ainsi tout l'essentialisme, de [Platon](../philosophers/plato.md) à la théologie : il n'y a pas de modèle de l'homme antérieur aux hommes singuliers, et Kierkegaard déjà opposait à l'essence hégélienne du système le devenir-soi de l'existant.
 
-> « L'homme existe d'abord, se rencontre, surgit dans le monde, et qu'il se définit après. », L'existentialisme est un humanisme
+> « L'homme existe d'abord, se rencontre, surgit dans le monde, et qu'il se définit après. L'homme, tel que le conçoit l'existentialiste, s'il n'est pas définissable, c'est qu'il n'est d'abord rien. Il ne sera qu'ensuite, et il sera tel qu'il se sera fait. », L'existentialisme est un humanisme
 
 *Sources : L'existentialisme est un humanisme · L'Être et le Néant*
 

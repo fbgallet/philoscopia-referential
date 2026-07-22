@@ -34,7 +34,7 @@ Ces catégories ne sont ni naturelles ni de simples idées qu'on dissoudrait par
 
 ## Citations
 
-> « On ne naît pas femme : on le devient. » — [Beauvoir](../philosophers/beauvoir.md), Le Deuxième Sexe, t. II
+> « On ne naît pas femme : on le devient. Aucun destin biologique, psychique, économique ne définit la figure que revêt au sein de la société la femelle humaine. » — [Beauvoir](../philosophers/beauvoir.md), Le Deuxième Sexe, t. II
 
 ## Axes liés
 

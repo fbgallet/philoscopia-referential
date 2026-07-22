@@ -54,7 +54,7 @@ Reasoned selection 60% · Affirmation 35% · Extinction and detachment 5%
 
 Mill corrects Bentham's hedonism with a qualitative hierarchy: not all desires and pleasures are equal, those that engage the higher faculties are worthier than those of the body. The sorting no longer bears on quantity alone but on the quality of pleasures, against a background that affirms satisfaction as the end of life.
 
-> “It is better to be Socrates dissatisfied than a fool satisfied.”, Utilitarianism, ch. II
+> “It is better to be a human being dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied.”, Utilitarianism, ch. 2
 
 *Sources : Utilitarianism, ch. II*
 

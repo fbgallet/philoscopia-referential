@@ -53,9 +53,7 @@ Emotions are neither a mere disturbance nor an oracle: they are trainable dispos
 
 > “I shall treat human actions and appetites just as if it were a question of lines, planes, and bodies.” — [Spinoza](../philosophers/spinoza.md), Ethics, III, preface
 
-> “Reason is, and ought only to be the slave of the passions, and can never pretend to any other office than to serve and obey them.” — [Hume](../philosophers/hume.md), A Treatise of Human Nature, II, III, 3
-
-> “Reason is, and ought only to be, the slave of the passions.” — [Hume](../philosophers/hume.md), Treatise of Human Nature, II, 3, 3
+> “Reason is, and ought only to be, the slave of the passions.” — [Hume](../philosophers/hume.md), A Treatise of Human Nature, II, 3, 3
 
 ## Related axes
 

@@ -68,7 +68,7 @@ Eudémonisme 80% · Vertu / perfectionnisme moral 15% · Hédonisme 5%
 
 Si toute action vise une fin, et que les fins s'enchaînent comme moyens, il faut, sous peine de régression à l'infini, une fin dernière voulue pour elle-même et jamais en vue d'autre chose : ce bien suffisant, c'est [l'eudémonie](../glossary/eudaimonism.md). Reste à savoir en quoi elle consiste, et c'est l'**argument de la fonction propre** (ergon) qui tranche : comme le flûtiste a son excellence, l'homme a la sienne, l'activité de la part rationnelle de l'âme accomplie selon la vertu. Le bonheur n'est donc ni le plaisir, ni l'honneur, ni la richesse, mais une activité excellente déployée sur une vie entière, dont la forme la plus haute est la contemplation.
 
-> « Le bien de l'homme est une activité de l'âme en accord avec la vertu. », Éthique à Nicomaque, I, 7 (1098a)
+> « Le bien de l'homme est une activité de l'âme en accord avec la vertu, et s'il y a plusieurs vertus, en accord avec la meilleure et la plus parfaite. », Éthique à Nicomaque, I, 7 (1098a)
 
 *Sources : Éthique à Nicomaque, I, 7 (1097b) · Éthique à Nicomaque, X, 7*
 
@@ -218,7 +218,7 @@ Théisme 75% · Athéisme 25%
 
 Aristote démontre l'existence d'un [premier moteur immobile](../glossary/unmoved-mover.md), acte pur et cause finale qui meut le monde comme l'aimé meut l'amant, sans être mû. C'est une forme de théisme, mais d'un dieu impersonnel qui ne crée pas, ne gouverne pas la providence et ne connaît pas les particuliers, d'où une valeur retenue loin de l'extrême.
 
-> « La pensée se pense elle-même : elle est pensée de la pensée. », Métaphysique, Λ (XII), 9 (1074b)
+> « La pensée se pense elle-même en saisissant l'intelligible, et son acte de pensée est pensée de la pensée. », Métaphysique, Λ (XII), 9 (1074b)
 
 *Sources : Métaphysique, Λ (XII), 7 et 9 · Physique, VIII, 6*
 

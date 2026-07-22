@@ -78,11 +78,7 @@ We can neither prove that God exists nor prove that he does not: the question ex
 
 > “Existentialism is nothing else but an attempt to draw all the consequences of a coherent atheist position.” — [Sartre](../philosophers/sartre.md), Existentialism Is a Humanism
 
-> “Thought thinks itself in grasping the intelligible, and its thinking is a thinking of thinking.” — [Aristotle](../philosophers/aristotle.md), Metaphysics, Λ (book XII), 9, 1074b
-
-> “Thought thinks itself: it is a thinking of thinking.” — [Aristotle](../philosophers/aristotle.md), Metaphysics, XII (Lambda).9 (1074b)
-
-> “Religion is the sigh of the oppressed creature, the heart of a heartless world, the soul of soulless conditions. It is the opium of the people.” — [Marx](../philosophers/marx.md), Critique of Hegel's Philosophy of Right, introduction
+> “Thought thinks itself in grasping the intelligible, and its thinking is a thinking of thinking.” — [Aristotle](../philosophers/aristotle.md), Metaphysics, XII (Lambda).9 (1074b)
 
 > “Religion is the sigh of the oppressed creature, the heart of a heartless world, the soul of soulless conditions. It is the opium of the people.” — [Marx](../philosophers/marx.md), Critique of Hegel's Philosophy of Right, 1844
 

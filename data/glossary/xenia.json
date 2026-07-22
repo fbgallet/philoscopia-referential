@@ -1,0 +1,12 @@
+{
+  "id": "xenia",
+  "term": { "fr": "Xenia (hospitalité)", "en": "Xenia (guest-friendship)" },
+  "aliases": { "fr": ["xenia", "xénie"], "en": ["xenia"] },
+  "definition": {
+    "fr": "La xenia est, dans le monde homérique, le lien sacré et réciproque qui unit l'hôte et son invité, placé sous la garde de Zeus hospitalier : accueillir, nourrir, protéger et faire des présents à l'étranger, à charge pour lui de rendre un jour la pareille. La violer, comme le Cyclope qui dévore ses hôtes ou les prétendants qui pillent la maison d'<chr id='odysseus'>Ulysse</chr>, est une faute majeure qui appelle le châtiment. Tout le monde de l'<w id='odyssey-homer'>Odyssée</w> se juge à l'aune de ce devoir.",
+    "en": "Xenia, in the Homeric world, is the sacred, reciprocal bond uniting host and guest under the guard of Zeus the protector of strangers: to welcome, feed, shelter and give gifts to the stranger, who in turn owes the like one day. To violate it, as the Cyclops does in devouring his guests, or the suitors in plundering <chr id='odysseus'>Odysseus</chr>'s house, is a grave offense that calls for punishment. The whole world of the <w id='odyssey-homer'>Odyssey</w> is judged by this duty."
+  },
+  "relatedAxes": ["PARTIALITY"],
+  "relatedTerms": [],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

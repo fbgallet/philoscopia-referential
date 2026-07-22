@@ -87,9 +87,7 @@ La mort est un mal réel, le scandale absolu : rien ne la justifie ni ne la rach
 
 > « La mort n'est donc rien pour nous et ne nous touche en rien, puisque la nature de l'âme est tenue pour mortelle. » — [Lucrèce](../philosophers/lucretius.md), De la nature des choses, III, 830-831
 
-> « La mort n'est rien pour nous, car ce qui est dissous est sans sensation, et ce qui est sans sensation n'est rien pour nous. » — [Épicure](../philosophers/epicurus.md), Lettre à Ménécée, 124-125
-
-> « La mort n'est rien pour nous ; car ce qui est dissous est privé de sensation, et ce qui est privé de sensation n'est rien pour nous. » — [Épicure](../philosophers/epicurus.md), Maximes capitales, II
+> « La mort n'est rien pour nous ; car lorsque nous sommes, la mort n'est pas là, et lorsque la mort est là, nous ne sommes plus. » — [Épicure](../philosophers/epicurus.md), Lettre à Ménécée, 125
 
 > « La vie et la mort se suivent comme le jour et la nuit. Pourquoi m'en affliger ? » — [Zhuangzi](../philosophers/zhuangzi.md), ch. 18 (Parfaite joie)
 

@@ -87,9 +87,7 @@ Death is a real evil, the absolute scandal: nothing justifies or redeems it. The
 
 > “Death, then, is nothing to us and touches us not at all, since the nature of the mind is held to be mortal.” — [Lucretius](../philosophers/lucretius.md), On the Nature of Things, III, 830-831
 
-> “Death is nothing to us, for that which is dissolved is without sensation, and that which lacks sensation is nothing to us.” — [Epicurus](../philosophers/epicurus.md), Letter to Menoeceus, 124-125
-
-> “Death is nothing to us; for that which is dissolved is without sensation, and that which lacks sensation is nothing to us.” — [Epicurus](../philosophers/epicurus.md), Principal Doctrines, II
+> “Death is nothing to us; for so long as we exist, death is not with us, and when death comes, then we do not exist.” — [Epicurus](../philosophers/epicurus.md), Letter to Menoeceus, 125
 
 > “Life and death follow each other like day and night. Why should I grieve over it?” — [Zhuangzi](../philosophers/zhuangzi.md), ch. 18 (Perfect Happiness)
 

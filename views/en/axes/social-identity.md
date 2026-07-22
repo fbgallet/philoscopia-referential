@@ -34,7 +34,7 @@ These categories are neither natural nor mere ideas that thought could dissolve:
 
 ## Quotations
 
-> “One is not born, but rather becomes, a woman.” — [Beauvoir](../philosophers/beauvoir.md), The Second Sex, vol. II
+> “One is not born, but rather becomes, a woman. No biological, psychic, or economic destiny defines the figure that the human female assumes within society.” — [Beauvoir](../philosophers/beauvoir.md), The Second Sex, vol. II
 
 ## Related axes
 

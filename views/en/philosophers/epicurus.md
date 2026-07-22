@@ -68,7 +68,7 @@ Freeing ourselves from the fear 100%
 
 The argument rests on two premises drawn from physics: all good and evil reside in sensation, and death, the dissolution of the soul's atoms, is precisely the total privation of sensation. It follows that death can be an evil for no one, since the subject who would suffer it never coexists with it: “while we are, it is not present; when it is present, we are no more”. The fear of dying therefore targets a nothingness, and to dread a state in which one will not be is as empty as grieving over the time before one's birth. This reasoning, the second plank of the [tetrapharmakos](../glossary/tetrapharmakos.md), removes the object of the anxiety that, on Epicurus' view, poisons the whole of life.
 
-> “Death is nothing to us; for that which is dissolved is without sensation, and that which lacks sensation is nothing to us.”, Principal Doctrines, II
+> “Death is nothing to us; for so long as we exist, death is not with us, and when death comes, then we do not exist.”, Letter to Menoeceus, 125
 
 *Sources : Letter to Menoeceus, 124-125 · Principal Doctrines, II*
 
@@ -166,7 +166,7 @@ Asceticism 60% · Celebration 40%
 
 Although pleasure is the good, Epicurus advocates a measured sobriety: the highest pleasure is not the abundance of enjoyments but the absence of pain, which a little bread and water suffices to procure. “When we say that pleasure is the end, we do not mean the pleasures of the dissolute” but the absence of pain in the body and of trouble in the soul. The value leans slightly toward asceticism, out of frugality rather than contempt for the body.
 
-> “Bread and water confer the highest pleasure when one brings them to needy lips.”, Vatican Sayings, 59 (cf. Letter to Menoeceus)
+> “Bread and water confer the highest pleasure when one brings them to needy lips.”, Letter to Menoeceus, 130-131
 
 *Sources : Letter to Menoeceus, 130-132 (the praise of frugality) · Principal Doctrines, XV (the wealth required by nature is easily obtained)*
 

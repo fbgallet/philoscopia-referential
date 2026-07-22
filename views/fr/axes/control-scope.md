@@ -51,7 +51,7 @@ Entre accepter ce qui ne dépend pas de nous et vouloir tout transformer, il s'a
 
 > « « Demande-moi ce que tu voudras. » « Ôte-toi de mon soleil. » » — [Diogène de Sinope](../philosophers/diogenes.md), Diogène Laërce, Vies, VI, 38
 
-> « Il y a des choses qui dépendent de nous et d'autres qui n'en dépendent pas. » — [Épictète](../philosophers/epictetus.md), Manuel, §1
+> « Endure, mon cœur : tu as déjà supporté pire. » — Homère, Odyssée, XX, 18
 
 > « Je ne regarde plus avec les yeux mais avec l'esprit, et la lame suit d'elle-même les interstices naturels. » — [Zhuangzi](../philosophers/zhuangzi.md), ch. 3 (Principe vital)
 

@@ -41,8 +41,6 @@ The true is what works: an idea is true if it effectively guides action and with
 
 > “In every true affirmative proposition the predicate is contained in the subject: praedicatum inest subjecto.” — [Leibniz](../philosophers/leibniz.md), Discourse on Metaphysics, §8; Generales inquisitiones
 
-> “To say of what is that it is not, or of what is not that it is, is false; while to say of what is that it is, and of what is not that it is not, is true.” — [Aristotle](../philosophers/aristotle.md), Metaphysics, Γ (book IV), 7, 1011b
-
 > “To say of what is that it is not, or of what is not that it is, is false; while to say of what is that it is, and of what is not that it is not, is true.” — [Aristotle](../philosophers/aristotle.md), Metaphysics, IV (Gamma).7 (1011b)
 
 > “The Dharma taught by the buddhas rests on two truths: the conventional, worldly truth and the truth in the ultimate sense. Without relying on the conventional, the ultimate is not taught; without reaching the ultimate, nirvāṇa is not attained.” — [Nāgārjuna](../philosophers/nagarjuna.md), Mūlamadhyamakakārikā, XXIV, 8-10

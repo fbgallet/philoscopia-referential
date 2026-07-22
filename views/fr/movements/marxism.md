@@ -140,7 +140,7 @@ Progressisme 98% · Conservatisme 3%
 
 Si l'exploitation tient à la structure même des rapports de production, alors la réforme ne peut que l'aménager : seul leur renversement la supprime. De là le caractère révolutionnaire du progressisme marxiste, et son refus des autres voies : ni l'attente d'une évolution morale, ni les cités idéales du socialisme utopique, ni la simple critique philosophique ne suffisent, car interpréter le monde le laisse intact. La pensée elle-même n'a de valeur que comme [praxis](../glossary/praxis.md), moment d'une transformation réelle portée par la classe qui n'a « rien à perdre que ses chaînes ». La philosophie cesse d'être contemplation pour devenir une arme, ce que résume la onzième thèse sur Feuerbach.
 
-> « Les philosophes n'ont fait qu'interpréter le monde de différentes manières ; ce qui importe, c'est de le transformer. », Thèses sur Feuerbach, XI
+> « Les philosophes n'ont fait qu'interpréter le monde de diverses manières ; ce qui importe, c'est de le transformer. », Thèses sur Feuerbach, XI (1845)
 
 *Sources : Marx, Thèses sur Feuerbach, XI (1845) · Marx et Engels, Manifeste du Parti communiste (1848)*
 
@@ -172,7 +172,7 @@ Athéisme 88% · Théisme 13%
 
 L'athéisme de Marx ne s'arrête pas à nier Dieu : il demande pourquoi les hommes en ont besoin. La religion n'est ni une simple erreur ni une imposture de prêtres, mais à la fois l'expression d'une détresse réelle et la protestation contre elle, une consolation imaginaire qui soulage la souffrance tout en la rendant supportable, donc durable. D'où le déplacement décisif : critiquer le ciel ne sert de rien si l'on ne critique pas la terre, c'est-à-dire les rapports sociaux qui rendent la religion nécessaire. Supprimer l'illusion suppose de supprimer les conditions qui l'appellent, ce qui range le marxisme du côté du matérialisme athée.
 
-> « La religion est le soupir de la créature accablée, l'âme d'un monde sans cœur, l'esprit de conditions dénuées d'esprit. C'est l'opium du peuple. », Critique de la philosophie du droit de Hegel, introduction
+> « La religion est le soupir de la créature accablée, l'âme d'un monde sans cœur, l'esprit d'une époque sans esprit. Elle est l'opium du peuple. », Critique de la philosophie du droit de Hegel, 1844
 
 *Sources : Marx, Critique de la philosophie du droit de Hegel, introduction (1844)*
 
@@ -245,6 +245,10 @@ Liberté-capabilité 60% · Liberté positive 40%
 Les droits formels (voter, contracter, posséder) laissent intacte la contrainte économique : l'ouvrier « libre » de vendre sa force de travail l'est aussi de mourir de faim s'il refuse. Le marxisme tient donc l'émancipation politique pour réelle mais insuffisante, et lui oppose une liberté concrète, la capacité effective de se réaliser, qui suppose d'abolir le règne de la nécessité économique et l'aliénation. La liberté n'est pas un statut juridique mais une condition matérielle à conquérir : le libre développement de chacun ne devient possible que là où celui de tous l'est aussi, ce qui subordonne la liberté politique à la transformation des rapports de production.
 
 *Sources : Marx, Manuscrits de 1844 ; Le Capital, III*
+
+## Influencé par
+
+- **[Libéralisme](../movements/liberalism.md)** (réagit contre) : Le [marxisme](../movements/marxism.md) se construit comme la critique du [libéralisme](../movements/liberalism.md) : derrière l'égalité formelle des droits et la liberté du marché, [Marx](../philosophers/marx.md) dénonce les rapports de production qui asservissent le travail et fait des droits bourgeois l'idéologie d'une classe. Il en retient pourtant l'horizon d'émancipation, qu'il veut porter du droit politique à la vie réelle.
 
 ## Influence sur
 

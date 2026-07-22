@@ -64,7 +64,7 @@ Le désir est la racine de la dépendance et de la souffrance : il nous attache 
 
 > « Ce n'est pas l'homme qui a peu qui est pauvre, mais celui qui désire davantage. » — [Sénèque](../philosophers/seneca.md), Lettres à Lucilius, II
 
-> « Il vaut mieux être un Socrate insatisfait qu'un imbécile satisfait. » — [Mill](../philosophers/mill.md), L'Utilitarisme, ch. II
+> « Il vaut mieux être un être humain insatisfait qu'un porc satisfait ; il vaut mieux être Socrate insatisfait qu'un imbécile satisfait. » — [Mill](../philosophers/mill.md), L'Utilitarisme, ch. 2
 
 > « La raison est, et ne doit être, que l'esclave des passions. » — [Hume](../philosophers/hume.md), Traité de la nature humaine, II, 3, 3
 
@@ -73,10 +73,6 @@ Le désir est la racine de la dépendance et de la souffrance : il nous attache 
 > « Malheur à qui n'a plus rien à désirer ! il perd pour ainsi dire tout ce qu'il possède. » — [Rousseau](../philosophers/rousseau.md), Julie ou la Nouvelle Héloïse, VI
 
 > « Ne cherche pas à ce que les choses arrivent comme tu veux, mais veuille que les choses arrivent comme elles arrivent, et ta vie s'écoulera heureuse. » — [Épictète](../philosophers/epictetus.md), Manuel, §8
-
-> « Ne demande pas que les choses arrivent comme tu le veux, mais veuille qu'elles arrivent comme elles arrivent, et tu seras heureux. » — [Épictète](../philosophers/epictetus.md), Manuel, §8
-
-> « Parmi les désirs, les uns sont naturels, les autres vains ; et parmi les naturels, les uns sont nécessaires, les autres seulement naturels. » — [Épicure](../philosophers/epicurus.md), Lettre à Ménécée, 127
 
 > « Parmi les désirs, les uns sont naturels et nécessaires, les autres naturels et non nécessaires, les autres ni naturels ni nécessaires, mais nés d'une opinion vide. » — [Épicure](../philosophers/epicurus.md), Maximes capitales, XXIX
 

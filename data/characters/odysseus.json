@@ -1,0 +1,351 @@
+{
+  "kind": "CHARACTER",
+  "id": "odysseus",
+  "name": { "fr": "Ulysse", "en": "Odysseus" },
+  "aliases": { "en": ["Ulysses"] },
+  "tagline": {
+    "fr": "Un héroïsme de la ruse et de l'endurance, non de la force : celui qui traverse tout le connu pour ne regagner qu'une île, et choisit d'être mortel.",
+    "en": "A heroism of cunning and endurance rather than force: the man who crosses all the known world only to regain a single island, and chooses to be mortal."
+  },
+  "summary": {
+    "fr": "Héros de l'<w id='odyssey-homer'>Odyssée</w> d'<per>Homère</per>, Ulysse est le roi d'Ithaque retenu dix ans loin de chez lui après la guerre de Troie, dont sa ruse du cheval de bois avait précipité la fin. Là où l'<chr>Achille</chr> de l'<w id='iliad-homer'>Iliade</w> incarne la force et la <c>gloire</c> brève, Ulysse est le héros de l'intelligence retorse, de la patience et du retour : son épopée n'est pas une conquête mais une longue traversée d'épreuves, de tentations et de pièges vers sa maison, sa femme <chr>Pénélope</chr> et son royaume. Figure inépuisable, il fut tour à tour érigé en sage endurant par les <mv id='stoicism'>stoïciens</mv>, damné en explorateur sacrilège par <per>Dante</per>, relu par <ph id='horkheimer'>Horkheimer</ph> et <ph id='adorno'>Adorno</ph>, dans la <w>Dialectique de la raison</w>, comme le premier visage de la <c id='raison-instrumentale'>raison instrumentale</c>, et transposé par <per>Joyce</per> dans une seule journée dublinoise.",
+    "en": "Hero of <per>Homer</per>'s <w id='odyssey-homer'>Odyssey</w>, Odysseus is the king of Ithaca held ten years far from home after the Trojan War, whose end his ruse of the wooden horse had precipitated. Where the <chr>Achilles</chr> of the <w id='iliad-homer'>Iliad</w> embodies force and brief <c>glory</c>, Odysseus is the hero of cunning intelligence, patience and return: his epic is no conquest but a long crossing of trials, temptations and traps toward his home, his wife <chr>Penelope</chr> and his kingdom. An inexhaustible figure, he was in turn raised into an enduring sage by the <mv id='stoicism'>Stoics</mv>, damned as a sacrilegious explorer by <per>Dante</per>, reread by <ph id='horkheimer'>Horkheimer</ph> and <ph id='adorno'>Adorno</ph>, in <w>Dialectic of Enlightenment</w>, as the first face of <c id='raison-instrumentale'>instrumental reason</c>, and transposed by <per>Joyce</per> into a single Dublin day."
+  },
+  "work": {
+    "title": { "fr": "L'Odyssée", "en": "The Odyssey" },
+    "author": { "fr": "Homère", "en": "Homer" },
+    "year": -750,
+    "medium": "MYTH"
+  },
+  "entries": [
+    {
+      "axisId": "RULE_SPIRIT",
+      "status": "POSITIONED",
+      "practicedValue": { "kind": "scalar", "value": 0.7 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Dès le premier vers, Homère le dit « aux mille tours » : son excellence n'est pas la force du bras mais la <c id='metis'>mètis</c>, l'intelligence qui invente la parade ajustée à chaque situation. Là où dix ans de siège échouent, le cheval de bois emporte Troie ; enfermé dans l'antre du Cyclope, il ne se fie pas au courage mais à un <c>stratagème</c>, le vin et le nom « Personne ». Sa règle n'est jamais fixée d'avance : il lit le cas singulier et façonne à sa mesure la <c>ruse</c> qui convient, faisant de l'adaptation au particulier, non de l'application d'un principe, la forme même de l'habileté.",
+          "en": "From the very first line, Homer calls him the man \"of many turns\": his excellence is not the strength of the arm but <c id='metis'>mētis</c>, the intelligence that invents the parry fitted to each situation. Where ten years of siege fail, the wooden horse takes Troy; shut in the Cyclops's cave, he trusts not courage but a <c>stratagem</c>, the wine and the name \"Nobody\". His rule is never fixed in advance: he reads the singular case and shapes to its measure the <c>ruse</c> that fits, making adaptation to the particular, not the application of a principle, the very form of skill."
+        },
+        "references": [
+          { "fr": "Homère, Odyssée, I, 1-4 (le proème : l'homme « aux mille tours »)", "en": "Homer, Odyssey, I, 1-4 (the proem: the man \"of many turns\")" },
+          { "fr": "Odyssée, VIII (le chant de Démodocos sur le cheval de bois)", "en": "Odyssey, VIII (Demodocus's song of the wooden horse)" },
+          { "fr": "Odyssée, IX, 345-414 (l'antre du Cyclope et le nom « Personne »)", "en": "Odyssey, IX, 345-414 (the Cyclops's cave and the name \"Nobody\")" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "BELONGING",
+      "status": "POSITIONED",
+      "practicedValue": { "kind": "scalar", "value": -0.7 },
+      "declaredValue": { "kind": "scalar", "value": -0.7 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Toute l'Odyssée est tendue par un seul désir, le <c id='nostos'>nostos</c>, le retour : Ulysse traverse le monde connu, refuse les îles où l'on pourrait s'établir heureux et oublieux, pour ne regagner qu'Ithaque, sa terre rocailleuse. Retenu par la nymphe <chr>Calypso</chr>, il passe ses jours sur le rivage à pleurer vers la mer et sa maison. Le lit conjugal qu'il a taillé lui-même dans un olivier vivant, enraciné dans le sol, dit assez que pour lui l'<c>identité</c> et le bonheur tiennent à un <c>enracinement</c>, non à l'ailleurs.",
+          "en": "The whole Odyssey is strung on a single desire, <c id='nostos'>nostos</c>, the return: Odysseus crosses the known world and refuses the islands where he might settle, happy and forgetful, only to regain Ithaca, his rocky land. Held by the nymph <chr>Calypso</chr>, he spends his days on the shore weeping toward the sea and his home. The marriage bed he carved himself from a living olive tree, rooted in the ground, says plainly enough that for him <c>identity</c> and happiness rest on <c>rootedness</c>, not on the elsewhere."
+        },
+        "references": [
+          { "fr": "Odyssée, V, 151-158 (les pleurs vers la mer sur l'île de Calypso)", "en": "Odyssey, V, 151-158 (weeping toward the sea on Calypso's island)" },
+          { "fr": "Odyssée, XXIII, 183-204 (le lit taillé dans l'olivier enraciné)", "en": "Odyssey, XXIII, 183-204 (the bed carved from the rooted olive tree)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SINCERITY",
+      "status": "POSITIONED",
+      "practicedValue": { "kind": "scalar", "value": 0.8 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Ulysse est le grand menteur de l'épopée, et le poème ne l'en blâme pas : il forge des « récits crétois » où il se donne une fausse identité, se déguise en mendiant pour rentrer chez lui, trompe le Cyclope comme ses hôtes. Quand <chr>Athéna</chr> le démasque, elle ne le réprimande pas mais sourit et l'aime pour cette virtuosité du <c id='dolos'>dolos</c>, la ruse : la déesse partage son goût du <c>mensonge</c> habile. Sa parole sert la fin poursuivie plus qu'elle ne dit le vrai ; encore cette ruse a-t-elle sa contrepartie, quand l'orgueil le trahit et que, nommé triomphant, il nargue le Cyclope au risque de tout perdre.",
+          "en": "Odysseus is the epic's great liar, and the poem does not blame him for it: he forges \"Cretan tales\" in which he gives himself a false identity, disguises himself as a beggar to get home, deceives the Cyclops as he does his hosts. When <chr>Athena</chr> unmasks him, she does not reproach him but smiles and loves him for this virtuosity of <c id='dolos'>dolos</c>, guile: the goddess shares his taste for the skilled <c>lie</c>. His speech serves the end he pursues more than it tells the truth; yet this cunning has its counterpart, when pride betrays him and, naming himself in triumph, he taunts the Cyclops at the risk of losing everything."
+        },
+        "references": [
+          { "fr": "Odyssée, XIII, 256-286 ; XIV, 191-359 ; XIX (les récits crétois)", "en": "Odyssey, XIII, 256-286; XIV, 191-359; XIX (the Cretan tales)" },
+          { "fr": "Odyssée, XIII, 287-302 (Athéna admire et loue sa ruse)", "en": "Odyssey, XIII, 287-302 (Athena admires and praises his cunning)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "practicedValue": { "kind": "scalar", "value": -0.5 },
+      "declaredValue": { "kind": "scalar", "value": -0.5 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "<chr>Calypso</chr> lui offre l'<c>immortalité</c> et l'éternelle jeunesse s'il reste ; il refuse, pour retrouver <chr>Pénélope</chr>, mortelle, et sa vie d'homme périssable. Ce n'est pas qu'il méprise la vie, qu'il défend au contraire farouchement contre tous les périls, mais qu'aucune survie hors de chez lui ne vaut à ses yeux le retour. Ce choix place ainsi toute la valeur du côté de l'existence finie et terrestre, non d'un au-delà ou d'un état supérieur : sans nier les dieux, omniprésents dans son monde, Ulysse fait de la vie mortelle, avec son terme, le bien qu'il préfère, la <c>finitude</c> assumée contre ce qui la transcenderait.",
+          "en": "<chr>Calypso</chr> offers him <c>immortality</c> and eternal youth if he stays; he refuses, to regain <chr>Penelope</chr>, mortal, and his perishable life as a man. It is not that he scorns life, which on the contrary he defends fiercely against every peril, but that no survival away from home is worth the return to him. This choice thus places all worth on the side of finite, earthly existence, not of a beyond or a higher state: without denying the gods, omnipresent in his world, Odysseus makes mortal life, with its ending, the good he prefers, <c>finitude</c> embraced against whatever would transcend it."
+        },
+        "references": [
+          { "fr": "Odyssée, V, 203-224 (le refus de Calypso : Pénélope mortelle préférée à la déesse)", "en": "Odyssey, V, 203-224 (the refusal of Calypso: mortal Penelope preferred to the goddess)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "practicedValue": { "kind": "weights", "weights": [0.2, 0.7, 0.1] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Ulysse ne réprime pas ses <c>désirs</c> et ne s'en rend pas esclave : il les gouverne par calcul. Averti du chant mortel des <chr>Sirènes</chr>, il ne se bouche pas les oreilles comme ses hommes mais se fait attacher au mât pour l'entendre sans y céder, satisfaisant le désir de savoir tout en s'ôtant d'avance le pouvoir d'y succomber. Ni ascèse ni débordement, mais une économie du <c>désir</c> réglée par la fin.",
+          "en": "Odysseus neither represses his <c>desires</c> nor becomes their slave: he governs them by calculation. Warned of the Sirens' deadly song, he does not stop his ears like his men but has himself bound to the mast to hear it without yielding, satisfying the desire to know while stripping himself in advance of the power to succumb. Not asceticism, not excess, but an economy of <c>desire</c> ruled by the end."
+        },
+        "references": [
+          { "fr": "Odyssée, XII, 39-54, 158-200 (les Sirènes et l'attache au mât)", "en": "Odyssey, XII, 39-54, 158-200 (the Sirens and the binding to the mast)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TIME_ORIENTATION",
+      "status": "POSITIONED",
+      "practicedValue": { "kind": "weights", "weights": [0.1, 0.6, 0.3] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'existence d'Ulysse est structurée par un <c>projet</c> unique qui lui donne sens et direction, le retour, auquel il subordonne années, plaisirs et détours. Mais ce projet est tout entier tourné vers la restauration d'un passé : retrouver son rang, son épouse, son fils, remettre en ordre la maison de ses pères. Le grand voyageur n'est pas un homme du présent ni de la nouveauté : il tend en avant pour rétablir ce qui fut, liant l'élan du projet à la <c>mémoire</c> de l'origine.",
+          "en": "Odysseus's existence is structured by a single <c>project</c> that gives it sense and direction, the return, to which he subordinates years, pleasures and detours. Yet this project is wholly turned toward the restoration of a past: to regain his rank, his wife, his son, to set his fathers' house back in order. The great traveler is no man of the present or of novelty: he strains forward in order to re-establish what once was, binding the drive of the project to the <c>memory</c> of his origin."
+        },
+        "references": [
+          { "fr": "Odyssée (le retour comme fin de dix ans d'épreuves)", "en": "Odyssey (the return as the end of ten years of trials)" },
+          { "fr": "Odyssée, XVI-XXIII (les reconnaissances de Télémaque, d'Eumée, d'Euryclée, de Pénélope)", "en": "Odyssey, XVI-XXIII (the recognitions of Telemachus, Eumaeus, Eurycleia, Penelope)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "PARTIALITY",
+      "status": "POSITIONED",
+      "practicedValue": { "kind": "scalar", "value": 0.7 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Ce qui meut Ulysse n'est pas un devoir envers l'humanité mais l'attachement aux siens. Le monde de l'Odyssée est réglé par la <c id='xenia'>xenia</c>, le lien sacré d'hospitalité, et Ulysse en tire une ligne de partage nette entre ceux à qui il doit tout et qu'il récompense, le porcher <chr>Eumée</chr>, la nourrice <chr>Euryclée</chr>, le vieux chien <chr>Argos</chr>, et ceux qui ont trahi la maison. Sa justice honore d'abord la <c>fidélité</c> envers son propre foyer.",
+          "en": "What moves Odysseus is not a duty toward humanity but attachment to his own. The world of the Odyssey is ruled by <c id='xenia'>xenia</c>, the sacred bond of hospitality, and from it Odysseus draws a sharp dividing line between those to whom he owes everything and rewards, the swineherd <chr>Eumaeus</chr>, the nurse <chr>Eurycleia</chr>, the old dog <chr>Argos</chr>, and those who have betrayed the house. His justice honors first of all <c>loyalty</c> to his own hearth."
+        },
+        "references": [
+          { "fr": "Odyssée, XIV (la fidélité du porcher Eumée)", "en": "Odyssey, XIV (the loyalty of the swineherd Eumaeus)" },
+          { "fr": "Odyssée, XVII, 291-327 (le vieux chien Argos)", "en": "Odyssey, XVII, 291-327 (the old dog Argos)" },
+          { "fr": "Odyssée, XIX, 386-475 (la reconnaissance par Euryclée)", "en": "Odyssey, XIX, 386-475 (the recognition by Eurycleia)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CONTROL_SCOPE",
+      "status": "POSITIONED",
+      "practicedValue": { "kind": "scalar", "value": -0.1 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Face à l'adversité, Ulysse ne se résigne pas mais ne prétend pas non plus tout plier : il fait la part des choses. Il agit sans relâche là où il a prise, bâtissant son radeau, forçant les ruses, mais endure ce qui le dépasse, la colère de <chr>Poséidon</chr>, les années perdues, l'attente. Au plus fort de la fureur, il s'adresse à son propre cœur et lui ordonne de tenir. Cette <c>maîtrise de soi</c>, qui distingue le modifiable de l'inévitable, a fait de lui plus tard le sage endurant des <mv id='stoicism'>stoïciens</mv>.",
+          "en": "Facing adversity, Odysseus neither resigns himself nor claims to bend everything: he distinguishes the two. He acts tirelessly where he has a grip, building his raft, forcing his ruses, but endures what is beyond him, the wrath of <chr>Poseidon</chr>, the lost years, the waiting. At the height of his fury he addresses his own heart and orders it to hold. This <c>self-mastery</c>, which distinguishes the changeable from the inevitable, later made him the enduring sage of the <mv id='stoicism'>Stoics</mv>."
+        },
+        "references": [
+          { "fr": "Odyssée, XX, 18-21 (« Endure, mon cœur »)", "en": "Odyssey, XX, 18-21 (\"Endure, my heart\")" },
+          { "fr": "Odyssée, V (le radeau et l'endurance en mer)", "en": "Odyssey, V (the raft and endurance at sea)" },
+          { "fr": "Odyssée, I, V (la colère de Poséidon)", "en": "Odyssey, I, V (the wrath of Poseidon)" }
+        ],
+        "quoteId": "endure-mon-coeur-homer",
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "status": "POSITIONED",
+      "practicedValue": { "kind": "scalar", "value": 0.5 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La vie d'Ulysse est d'abord <c>action</c>, entreprise et engagement dans le monde, plus que retrait contemplatif : il agit, navigue, négocie, gouverne. Sa valeur est dans l'intelligence jetée dans l'épreuve, non dans l'examen de soi ; mais ses soliloques, ses récits et ses larmes montrent qu'il n'est pas pour autant sans <c>vie intérieure</c>, et que l'opposition n'est chez lui jamais tranchée.",
+          "en": "Odysseus's life is first of all <c>action</c>, enterprise and engagement with the world, more than contemplative withdrawal: he acts, sails, negotiates, governs. His worth lies in intelligence thrown into the ordeal, not in self-examination; yet his soliloquies, his narratives and his tears show he is not, for all that, without an <c>inner life</c>, and that in him the opposition is never clear-cut."
+        },
+        "references": [
+          { "fr": "Odyssée, IX-XII (le récit de ses entreprises aux Phéaciens)", "en": "Odyssey, IX-XII (the narration of his exploits to the Phaeacians)" },
+          { "fr": "Odyssée, XIII-XXII (l'action patiente du retour)", "en": "Odyssey, XIII-XXII (the patient action of the return)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "VIOLENCE",
+      "status": "POSITIONED",
+      "practicedValue": { "kind": "weights", "weights": [0.05, 0.5, 0.45, 0] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La violence, chez Ulysse, se veut toujours commandée par une fin et légitimée par un tort : le cheval de bois emporte une guerre juste à ses yeux ; son retour affronte des prétendants qui ont violé l'<c id='xenia'>hospitalité</c>, dilapidé ses biens et courtisé sa femme. Il n'exalte pas la force pour elle-même, à la façon d'un <chr id='callicles'>Calliclès</chr> : il en use comme instrument, quand la ruse ne suffit plus, au service d'un droit qu'il estime bafoué. Reste que la rigueur impitoyable de sa vengeance excède la mesure d'un simple droit rétabli, et que le poème laisse affleurer la <dif>difficulté d'une justice qui verse dans la violence</dif>.",
+          "en": "Violence, in Odysseus, always claims to be commanded by an end and legitimated by a wrong: the wooden horse wins a war he holds to be just; his return confronts suitors who have violated <c id='xenia'>hospitality</c>, squandered his goods and courted his wife. He does not exalt force for its own sake, in the manner of a <chr id='callicles'>Callicles</chr>: he uses it as an instrument, when cunning no longer suffices, in the service of a right he judges trampled. Yet the pitiless severity of his vengeance exceeds the measure of a mere right restored, and the poem lets the <dif>difficulty of a justice that tips into violence</dif> come to the surface."
+        },
+        "references": [
+          { "fr": "Odyssée, VIII (le cheval de bois)", "en": "Odyssey, VIII (the wooden horse)" },
+          { "fr": "Odyssée, XXII (l'affrontement final avec les prétendants)", "en": "Odyssey, XXII (the final confrontation with the suitors)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "PUNISHMENT",
+      "status": "POSITIONED",
+      "practicedValue": { "kind": "weights", "weights": [0.8, 0.1, 0, 0.1] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Rentré chez lui, Ulysse ne cherche ni à corriger ni à dissuader : il rend leur dû à ceux qui ont trahi la maison. La faute, pour lui, appelle un <c>châtiment</c> à sa mesure, et sa justice domestique est <c>rétributive</c> : rétablir l'ordre lésé, c'est faire payer l'offense, au risque d'une rigueur que le poème donne à sentir.",
+          "en": "Home again, Odysseus seeks neither to correct nor to deter: he renders their due to those who have betrayed the house. The fault, for him, calls for a <c>punishment</c> to its measure, and his domestic justice is <c>retributive</c>: to restore the order that was wronged is to make the offense pay, at the risk of a harshness the poem lets one feel."
+        },
+        "references": [
+          { "fr": "Odyssée, XXI-XXII (le retour au foyer et l'affrontement avec les prétendants)", "en": "Odyssey, XXI-XXII (the return to the household and the confrontation with the suitors)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HUMAN_VISION",
+      "status": "POSITIONED",
+      "practicedValue": { "kind": "scalar", "value": 0.3 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Ulysse ne se fie à personne sur parole : il éprouve la loyauté avant de se découvrir, sonde ses serviteurs, teste jusqu'à <chr>Pénélope</chr> et son vieux père. Cette défiance méthodique trahit une vue prudente, sans illusion, des hommes, prompts à la traîtrise dès que l'occasion s'offre ; mais elle n'équivaut pas à un pessimisme foncier, puisque le poème lui donne aussi de retrouver, chez quelques-uns, une fidélité sans faille.",
+          "en": "Odysseus trusts no one on their word: he tests loyalty before revealing himself, sounds out his servants, tries even <chr>Penelope</chr> and his aged father. This methodical wariness betrays a cautious, unillusioned view of men, quick to treachery once the chance offers; but it does not amount to a settled pessimism, since the poem also grants him, in a few, an unfailing fidelity."
+        },
+        "references": [
+          { "fr": "Odyssée, XIII-XXIV (le déguisement et les mises à l'épreuve de la loyauté)", "en": "Odyssey, XIII-XXIV (the disguise and the testing of loyalties)" },
+          { "fr": "Odyssée, XXIII (l'épreuve du lit, que Pénélope retourne contre lui)", "en": "Odyssey, XXIII (the test of the bed, which Penelope turns back against him)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "AUTHORITY",
+      "status": "POSITIONED",
+      "practicedValue": { "kind": "scalar", "value": -0.5 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Ulysse n'est pas un contempteur de l'ordre : il est le roi légitime d'Ithaque, et tout son retour vise à restaurer une <c>autorité</c> légitime usurpée par les prétendants. Il commande, exige l'obéissance des siens, rétablit la hiérarchie du foyer et du royaume ; là où <chr id='antigone'>Antigone</chr> dresse la conscience contre le pouvoir, lui incarne le pouvoir légitime qui reprend son dû, même si la paix finale n'est scellée que par l'intervention d'<chr>Athéna</chr>, signe que cette restauration lui échappe encore en partie.",
+          "en": "Odysseus is no scorner of order: he is the lawful king of Ithaca, and his whole return aims to restore a legitimate <c>authority</c> usurped by the suitors. He commands, demands obedience from his own, re-establishes the hierarchy of hearth and kingdom; where <chr id='antigone'>Antigone</chr> sets conscience against power, he embodies the legitimate power that takes back its due, even though the final peace is sealed only by the intervention of <chr>Athena</chr>, a sign that this restoration still partly escapes him."
+        },
+        "references": [
+          { "fr": "Odyssée, XXI-XXII (l'épreuve de l'arc et la reprise du foyer) ; XXIV (la paix scellée par Athéna)", "en": "Odyssey, XXI-XXII (the contest of the bow and the retaking of the household); XXIV (the peace sealed by Athena)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "practicedValue": { "kind": "scalar", "value": -0.5 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le savoir d'Ulysse ne vient pas du raisonnement pur mais de l'<c>expérience</c> du monde : le proème le loue d'avoir vu les cités de bien des hommes et connu leur esprit. C'est en parcourant, en éprouvant, en observant qu'il apprend, chaque épreuve ajoutant à sa connaissance des hommes et des choses. Son intelligence est celle de qui a beaucoup vu, non de qui a beaucoup déduit.",
+          "en": "Odysseus's knowledge comes not from pure reasoning but from <c>experience</c> of the world: the proem praises him for having seen the cities of many men and known their minds. It is by roaming, undergoing, observing that he learns, each ordeal adding to his knowledge of men and things. His intelligence is that of one who has seen much, not of one who has deduced much."
+        },
+        "references": [
+          { "fr": "Odyssée, I, 3 (le proème)", "en": "Odyssey, I, 3 (the proem)" }
+        ],
+        "quoteId": "il-vit-les-cites-de-bien-des-homer",
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "BODILY_PLEASURES",
+      "status": "POSITIONED",
+      "practicedValue": { "kind": "scalar", "value": 0.3 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Ulysse n'a rien d'un <ax id='BODILY_PLEASURES' pole='ASCETICISM'>ascète</ax> : il goûte le bon repas, le vin, le sommeil, le lit d'une déesse comme celui de son épouse ; les <c>plaisirs</c> du corps ont chez lui leur place pleine et sans culpabilité. Il tend à ne pas s'y abandonner au point d'oublier sa fin, en homme qui veut rester maître de son cap ; encore l'Odyssée le montre-t-elle aussi s'attarder, une année entière chez Circé, oublieux un temps du retour, preuve que cette maîtrise n'a rien d'infaillible.",
+          "en": "Odysseus is nothing of an <ax id='BODILY_PLEASURES' pole='ASCETICISM'>ascetic</ax>: he savors the good meal, wine, sleep, the bed of a goddess as of his wife; bodily <c>pleasures</c> have their full and guiltless place with him. He tends not to abandon himself to them to the point of forgetting his end, as a man who means to stay master of his course; yet the Odyssey also shows him lingering, a whole year with Circe, forgetful of his return for a time, proof that this mastery is by no means infallible."
+        },
+        "references": [
+          { "fr": "Odyssée, VIII-X (les festins chez Alcinoos et Circé)", "en": "Odyssey, VIII-X (the feasts with Alcinous and Circe)" },
+          { "fr": "Odyssée, V, X (Calypso et Circé)", "en": "Odyssey, V, X (Calypso and Circe)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "practicedValue": { "kind": "weights", "weights": [0.25, 0.7, 0.05] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Pour Ulysse, le bien d'une vie n'est ni le plaisir ni l'oubli bienheureux qu'offre Calypso, mais l'accomplissement de sa propre vie : redevenir pleinement qui il est, roi, époux et père, dans sa maison retrouvée. Il quitte la volupté immortelle pour cette tâche d'une existence menée à son terme et à sa forme, plus proche d'un <c id='eudaimonism'>eudémonisme</c> concret, l'épanouissement d'une vie entière, que d'une simple recherche du <c>plaisir</c>.",
+          "en": "For Odysseus, the good of a life is neither pleasure nor the blissful oblivion Calypso offers, but the fulfilment of his own life: to become fully who he is again, king, husband and father, in his recovered home. He leaves immortal delight for this task of an existence carried through to its end and its form, closer to a concrete <c id='eudaimonism'>eudaimonism</c>, the flourishing of a whole life, than to a mere pursuit of <c>pleasure</c>."
+        },
+        "references": [
+          { "fr": "Odyssée, V, 203-224 (le refus de Calypso)", "en": "Odyssey, V, 203-224 (the refusal of Calypso)" },
+          { "fr": "Odyssée, XIII-XXIII (la reconquête de son foyer)", "en": "Odyssey, XIII-XXIII (the recovery of his household)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "RULE_SPIRIT",
+      "thesis": {
+        "fr": "Là où la force se brise, la ruse ouvre un passage : à chaque situation sa feinte, et l'intelligence qui épouse le cas particulier vaut mieux que le courage qui fonce.",
+        "en": "Where force shatters, cunning opens a way through: to each situation its own feint, and the intelligence that fits the particular case is worth more than the courage that charges in."
+      }
+    },
+    {
+      "axisId": "BELONGING",
+      "thesis": {
+        "fr": "Nulle île enchantée ne vaut la mienne : à travers tout le connu, je ne cherche qu'à regagner ma terre, ma maison et les miens.",
+        "en": "No enchanted island is worth my own: across all the known world, I seek only to regain my land, my house and my own people."
+      }
+    },
+    {
+      "axisId": "SINCERITY",
+      "thesis": {
+        "fr": "Mentir n'est pas trahir : la parole est une arme, et la feinte bien placée sauve là où la franchise perd.",
+        "en": "To lie is not to betray: speech is a weapon, and the well-placed feint saves where frankness loses."
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "thesis": {
+        "fr": "Une déesse m'offrait de ne jamais vieillir ni mourir ; j'ai préféré ma femme mortelle et ma vie d'homme : le prix d'une existence, c'est de finir.",
+        "en": "A goddess offered me never to age or die; I chose my mortal wife and my life as a man: the price of an existence is to end."
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "thesis": {
+        "fr": "Je ne fuis pas le chant des Sirènes : je m'attache au mât pour l'entendre sans périr, jouir et vouloir, oui, mais sans jamais cesser d'être le maître à bord.",
+        "en": "I do not flee the Sirens' song: I bind myself to the mast to hear it without perishing, to enjoy and to desire, yet never cease to be master aboard."
+      }
+    }
+  ],
+  "updatedAt": "2026-07-22T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

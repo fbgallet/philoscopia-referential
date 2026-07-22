@@ -1,9 +1,0 @@
-{
-  "id": "il-y-a-des-choses-qui-epictetus",
-  "text": { "fr": "Il y a des choses qui dépendent de nous et d'autres qui n'en dépendent pas.", "en": "Some things are within our power, while others are not." },
-  "author": { "name": { "fr": "Épictète", "en": "Epictetus" }, "kind": "PHILOSOPHER", "slug": "epictetus" },
-  "work": "enchiridion-epictetus",
-  "source": { "fr": "Manuel, §1", "en": "Enchiridion, §1" },
-  "anchors": [{ "axisId": "CONTROL_SCOPE", "poleId": "DICHOTOMY_OF_CONTROL" }],
-  "updatedAt": "2026-07-18T00:00:00.000Z"
-}

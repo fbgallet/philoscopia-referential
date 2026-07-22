@@ -32,8 +32,6 @@ Quand les preuves ne tranchent pas et que l'enjeu est vital, nous avons le droit
 
 > « Le degré de notre assentiment doit être réglé sur les fondements de probabilité de la chose. » — [Locke](../philosophers/locke.md), Essai sur l'entendement humain, IV, ch. 15-16 (la probabilité et les degrés d'assentiment)
 
-> « Un homme sage proportionne donc sa croyance à l'évidence. » — [Hume](../philosophers/hume.md), Enquête sur l'entendement humain, section X (des miracles)
-
 > « Un homme sage proportionne donc sa croyance à l'évidence. » — [Hume](../philosophers/hume.md), Enquête sur l'entendement humain, sect. X
 
 ## Axes liés

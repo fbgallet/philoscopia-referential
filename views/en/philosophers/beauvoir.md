@@ -320,7 +320,7 @@ Social construction 90% · Social realism 10%
 
 If no biological, psychic or economic destiny settles in advance what a woman is, then **femininity** cannot be an essence: it is the outcome of an elaboration civilization imposes on the human female. Beauvoir here pries apart sex, a bodily given, and the becoming-woman shaped by upbringing, law and the gaze of others, grounding the distinction the theories of gender would take up. The consequence is political: what was built in history can be undone there, against any naturalism that would justify the hierarchy of the sexes by nature.
 
-> “One is not born, but rather becomes, a woman.”, The Second Sex, vol. II
+> “One is not born, but rather becomes, a woman. No biological, psychic, or economic destiny defines the figure that the human female assumes within society.”, The Second Sex, vol. II
 
 *Sources : The Second Sex (1949), vol. II, opening*
 

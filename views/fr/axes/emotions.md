@@ -53,9 +53,7 @@ Les émotions ne sont ni un pur trouble ni un oracle : ce sont des dispositions 
 
 > « Je traiterai des actions et des appétits humains comme s'il était question de lignes, de plans et de corps. » — [Spinoza](../philosophers/spinoza.md), Éthique, III, préface
 
-> « La raison est, et ne doit qu'être, l'esclave des passions, et ne peut prétendre à d'autre rôle qu'à les servir et à leur obéir. » — [Hume](../philosophers/hume.md), Traité de la nature humaine, II, III, 3
-
-> « La raison est et ne doit être que l'esclave des passions. » — [Hume](../philosophers/hume.md), Traité de la nature humaine, II, 3, 3
+> « La raison est, et ne doit être, que l'esclave des passions. » — [Hume](../philosophers/hume.md), Traité de la nature humaine, II, 3, 3
 
 ## Axes liés
 

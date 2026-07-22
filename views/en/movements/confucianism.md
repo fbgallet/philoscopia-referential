@@ -146,7 +146,7 @@ Conservatism 90% · Progressivism 10%
 
 Human order has already been realized once, by the sage-kings of antiquity (Yao, Shun, the Zhou): there is therefore an accomplished model to recover, not a Way to invent from scratch. The present is in disorder precisely because it has broken with that model, hence the task: to transmit and revive the inherited rites (li 禮) rather than replace them. This trust in the legacy sets Confucianism apart both from [Daoist](../movements/taoism.md) naturalism, which would undo the artifice of the rites to recover the spontaneity of the [dao](../glossary/dao.md), and from Legalist innovation, which grounds order on new laws indifferent to the past. For the Confucian, moral authority is not decreed: it is received from a tested tradition.
 
-> “I transmit but do not innovate; I trust in and love the ancients.”, Analects (Lunyu), 7.1
+> “I transmit and do not create; I love the Ancients and trust them.”, Analects, VII, 1
 
 *Sources : Confucius, Analects (Lunyu), 7.1 · Confucius, Analects (Lunyu), 3.14*
 

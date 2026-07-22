@@ -75,7 +75,7 @@ Seule la vertu, ou la bonne volonté, a une valeur inconditionnelle : la vie bon
 
 > « Il n'est rien, nulle part dans le monde et même hors du monde, qu'il soit possible de penser comme bon sans restriction, si ce n'est seulement une volonté bonne. » — [Kant](../philosophers/kant.md), Fondements de la métaphysique des mœurs, section I
 
-> « Il vaut mieux être un homme insatisfait qu'un porc satisfait ; mieux vaut être Socrate insatisfait qu'un imbécile satisfait. » — [Mill](../philosophers/mill.md), L'Utilitarisme, ch. 2
+> « Il vaut mieux être un être humain insatisfait qu'un porc satisfait ; il vaut mieux être Socrate insatisfait qu'un imbécile satisfait. » — [Mill](../philosophers/mill.md), L'Utilitarisme, ch. 2
 
 > « L'homme ne tend pas au bonheur : seul l'Anglais le fait. » — [Nietzsche](../philosophers/nietzsche.md), Crépuscule des idoles, Maximes et traits, 12
 
@@ -87,13 +87,9 @@ Seule la vertu, ou la bonne volonté, a une valeur inconditionnelle : la vie bon
 
 > « La nature ne réclame pour elle rien d'autre que ceci : que la douleur soit écartée du corps, et que l'esprit jouisse d'un sentiment agréable, libre de soin et de crainte. » — [Lucrèce](../philosophers/lucretius.md), De la nature des choses, II, 16-19
 
-> « La tranquillité suivit la suspension comme l'ombre suit le corps. » — [Sextus Empiricus](../philosophers/sextus-empiricus.md), Esquisses pyrrhoniennes, I, 29
-
 > « La tranquillité suivit la suspension du jugement comme l'ombre suit le corps. » — [Sextus Empiricus](../philosophers/sextus-empiricus.md), Esquisses pyrrhoniennes, I, 29
 
-> « Le bien de l'homme est une activité de l'âme en accord avec la vertu, et s'il y a plusieurs vertus, en accord avec la meilleure et la plus parfaite. » — [Aristote](../philosophers/aristotle.md), Éthique à Nicomaque, I, 7, 1098a
-
-> « Le bien de l'homme est une activité de l'âme en accord avec la vertu. » — [Aristote](../philosophers/aristotle.md), Éthique à Nicomaque, I, 7 (1098a)
+> « Le bien de l'homme est une activité de l'âme en accord avec la vertu, et s'il y a plusieurs vertus, en accord avec la meilleure et la plus parfaite. » — [Aristote](../philosophers/aristotle.md), Éthique à Nicomaque, I, 7 (1098a)
 
 > « Le plaisir est le commencement et la fin de la vie bienheureuse. » — [Épicure](../philosophers/epicurus.md), Lettre à Ménécée, 128
 

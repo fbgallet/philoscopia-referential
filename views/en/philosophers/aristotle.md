@@ -68,7 +68,7 @@ Eudaimonism 80% · Virtue / moral perfectionism 15% · Hedonism 5%
 
 If every action aims at an end, and ends link up as means, then, on pain of infinite regress, there must be a final end willed for its own sake and never for the sake of anything else: this self-sufficient good is [eudaimonia](../glossary/eudaimonism.md). What it consists in is settled by the **function argument** (ergon): as the flute-player has his excellence, the human has his own, the activity of the soul's rational part carried out in accordance with virtue. Happiness is therefore neither pleasure, nor honour, nor wealth, but an excellent activity unfolded over a whole life, whose highest form is contemplation.
 
-> “The human good turns out to be activity of the soul in accordance with virtue.”, Nicomachean Ethics, I.7 (1098a)
+> “The good of man is an activity of the soul in accordance with virtue, and if there are several virtues, in accordance with the best and most complete.”, Nicomachean Ethics, I.7 (1098a)
 
 *Sources : Nicomachean Ethics, I.7 (1097b) · Nicomachean Ethics, X.7*
 
@@ -218,7 +218,7 @@ Theism 75% · Atheism 25%
 
 Aristotle demonstrates the existence of a [first unmoved mover](../glossary/unmoved-mover.md), pure actuality and final cause that moves the world as the beloved moves the lover, without being moved. This is a form of theism, but of an impersonal god that does not create, exercises no providence and does not know particulars, hence a value held well back from the extreme.
 
-> “Thought thinks itself: it is a thinking of thinking.”, Metaphysics, XII (Lambda).9 (1074b)
+> “Thought thinks itself in grasping the intelligible, and its thinking is a thinking of thinking.”, Metaphysics, XII (Lambda).9 (1074b)
 
 *Sources : Metaphysics, XII (Lambda).7 and 9 · Physics, VIII.6*
 

@@ -35,8 +35,6 @@ Un pouvoir est nécessaire, mais il n'est légitime que s'il est limité. Entre 
 
 > « Ayant allumé une lanterne en plein jour, il disait : « Je cherche un homme. » » — [Diogène de Sinope](../philosophers/diogenes.md), Diogène Laërce, Vies, VI, 41
 
-> « Gouverner un grand État, c'est comme faire frire un petit poisson. » — [Laozi](../philosophers/laozi.md), Dao De Jing, ch. 60
-
 > « Gouverner un grand royaume, c'est comme faire frire un petit poisson. » — [Laozi](../philosophers/laozi.md), Dao De Jing, ch. 60
 
 > « Gouvernez le peuple par la vertu, maintenez-le par les rites, et il aura le sentiment de l'honneur et viendra à vous. » — [Confucius](../philosophers/confucius.md), Entretiens, II, 3

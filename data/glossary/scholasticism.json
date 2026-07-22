@@ -1,0 +1,12 @@
+{
+  "id": "scholasticism",
+  "term": { "fr": "Scolastique", "en": "Scholasticism" },
+  "aliases": { "fr": ["scholastique"], "en": ["scholastic", "schoolmen"] },
+  "definition": {
+    "fr": "Méthode d'enseignement et de pensée des écoles et universités médiévales, du XIᵉ au XVᵉ siècle, dont le nom vient du latin <ety>scholasticus, « de l'école »</ety> : elle procède par commentaire des autorités et par question disputée, où l'on oppose objections et réponses pour accorder la raison avec la foi révélée. Ce n'est pas à proprement parler un courant aux thèses partagées, mais un style de travail intellectuel : ses maîtres s'opposent sur presque tout, de la querelle des universaux, entre <c id='realism-of-universals'>réalisme</c> et <c id='nominalism'>nominalisme</c>, jusqu'à la liberté de la volonté. Au sens strict, la scolastique est celle des écoles latines chrétiennes ; mais on nomme aussi de la sorte le même geste chez les penseurs juifs et musulmans, d'<ph id='averroes'>Averroès</ph> et <ph id='maimonides'>Maïmonide</ph> à <ph id='aquinas'>Thomas d'Aquin</ph> : un prolongement disparate d'<ph id='aristotle'>Aristote</ph>, dont on pense la révélation avec les instruments de la logique et de la métaphysique.",
+    "en": "An approach to teaching and thought in the medieval schools and universities, from the eleventh to the fifteenth century, whose name comes from the Latin <ety>scholasticus, 'of the school'</ety>: it works by commentary on authorities and by the disputed question, weighing objections and replies to reconcile reason with revealed faith. It is not, strictly speaking, a current with shared theses, but a style of intellectual work: its masters disagree on almost everything, from the quarrel of universals, between <c id='realism-of-universals'>realism</c> and <c id='nominalism'>nominalism</c>, to the freedom of the will. In the strict sense scholasticism is that of the Latin Christian schools, but the same undertaking among Jewish and Muslim thinkers, from <ph id='averroes'>Averroes</ph> and <ph id='maimonides'>Maimonides</ph> to <ph id='aquinas'>Thomas Aquinas</ph>, goes by the same name: a disparate prolongation of <ph id='aristotle'>Aristotle</ph>, whose logic and metaphysics are used to think through revelation."
+  },
+  "relatedAxes": ["GOD_EXISTENCE", "ESSENCE", "KNOWLEDGE_SOURCE"],
+  "relatedTerms": ["realism-of-universals", "nominalism", "natural-law", "analogy-of-being"],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "metis",
+  "term": { "fr": "Mètis (intelligence rusée)", "en": "Mētis (cunning intelligence)" },
+  "aliases": { "fr": ["mètis", "mêtis"], "en": ["metis", "mētis"] },
+  "definition": {
+    "fr": "La mètis est, dans la culture grecque, une forme d'intelligence pratique faite d'adresse, de prévoyance, de vivacité et d'adaptation au cas particulier : l'art de la parade juste, de la feinte et du bon moment (kairos), par où le faible ou le rusé l'emporte sur le fort. <chr id='odysseus'>Ulysse</chr>, « aux mille tours », en est la figure héroïque, comme la déesse <chr>Athéna</chr> l'est chez les dieux. Distincte du savoir théorique comme de la force, elle s'apparente à la <c id='phronesis'>prudence</c> pratique qu'<ph id='aristotle'>Aristote</ph> théorisera plus tard.",
+    "en": "Mētis, in Greek culture, is a form of practical intelligence made of skill, foresight, quickness and adaptation to the particular case: the art of the fitting stratagem, the feint and the right moment (kairos), by which the weak or the wily prevail over the strong. <chr id='odysseus'>Odysseus</chr>, the man \"of many turns\", is its heroic figure, as the goddess <chr>Athena</chr> is among the gods. Distinct from theoretical knowledge as from force, it is akin to the practical <c id='phronesis'>wisdom</c> that <ph id='aristotle'>Aristotle</ph> would later theorize."
+  },
+  "relatedAxes": ["RULE_SPIRIT"],
+  "relatedTerms": ["phronesis", "dolos"],
+  "positions": [{ "axisId": "RULE_SPIRIT", "poleId": "EQUITY_PHRONESIS" }],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

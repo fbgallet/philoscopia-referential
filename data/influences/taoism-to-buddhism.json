@@ -1,0 +1,16 @@
+{
+  "id": "taoism-to-buddhism",
+  "from": { "kind": "MOVEMENT", "slug": "taoism" },
+  "to": { "kind": "MOVEMENT", "slug": "buddhism" },
+  "directness": "INDIRECT",
+  "mode": "SYNTHESIZES",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "En pénétrant en Chine, le <mv id='buddhism'>bouddhisme</mv> se fond avec la sensibilité <mv id='taoism'>taoïste</mv> : traduit d'abord au moyen du vocabulaire du <c>dao</c> et du <c>wu wei</c>, il donne naissance au Chan, l'ancêtre du Zen, où la méditation indienne épouse le naturel et la spontanéité chers à <ph id='zhuangzi'>Zhuangzi</ph>. La filiation est rarement revendiquée, mais l'école Chan en porte l'empreinte.",
+    "en": "Entering China, <mv id='buddhism'>Buddhism</mv> blends with the <mv id='taoism'>Taoist</mv> sensibility: first translated through the vocabulary of the <c>dao</c> and <c>wu wei</c>, it gives rise to Chan, the ancestor of Zen, where Indian meditation weds the naturalness and spontaneity dear to <ph id='zhuangzi'>Zhuangzi</ph>. The filiation is rarely claimed as such, yet the Chan school bears its imprint."
+  },
+  "sources": [
+    { "fr": "Heinrich Dumoulin, Zen Buddhism: A History, vol. 1", "en": "Heinrich Dumoulin, Zen Buddhism: A History, vol. 1" }
+  ],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

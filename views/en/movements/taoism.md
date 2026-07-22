@@ -136,7 +136,7 @@ Skepticism 85% · Dogmatism 15%
 
 To name is to carve reality into opposed categories (great and small, true and false), yet the [dao 道 (the Way)](../glossary/dao.md) is the undivided ground from which those distinctions proceed: no word can grasp it without betraying it. Language fits bounded things, never the source that engenders them all. Zhuangzi draws from this a radical perspectivism: every judgment speaks from a situated standpoint, disputation merely sets two partialities against each other with no judge above them, and to claim a universal verdict is to mistake one's perch for the center of the world. Hence a [skepticism](../glossary/skepticism.md) that aims less to deny than to dissolve the claim to certain knowledge and to free one from the need to be right.
 
-> “The dao that can be told is not the constant dao.”, Dao De Jing, ch. 1
+> “The Dao that can be named is not the constant Dao.”, Dao De Jing, ch. 1
 
 *Sources : Laozi, Dao De Jing, ch. 1 · Zhuangzi, ch. 2 (On the Equality of Things)*
 
@@ -158,7 +158,7 @@ Anarchism 78% · Authority 22%
 
 The good Taoist ruler is the one who governs least: he practices [wu wei 無為 (non-action)](../glossary/wu-wei.md) in politics, lightens laws and constraints, and lets the people follow their [ziran 自然 (natural bent)](../glossary/ziran.md). Multiplying prohibitions and regulations only increases disorder, hence a libertarian leaning close to anarchism.
 
-> “Governing a great state is like cooking a small fish.”, Dao De Jing, ch. 60
+> “Governing a great state is like frying a small fish.”, Dao De Jing, ch. 60
 
 *Sources : Laozi, Dao De Jing, ch. 57, 60 · Zhuangzi, ch. 11 (Letting Be and Exercising Forbearance)*
 
@@ -245,6 +245,10 @@ The Taoist universe is fundamentally benign and trustworthy for whoever attunes 
 ## Influenced by
 
 - **[Confucianism](../movements/confucianism.md)** (reacts against) : [Taoism](../movements/taoism.md) partly defines itself against [Confucianism](../movements/confucianism.md): where the latter grounds order in ritual and social virtue, the Zhuangzi mocks propriety and sets against it spontaneity and non-action.
+
+## Influence on
+
+- **[Buddhism](../movements/buddhism.md)** (synthesizes) : Entering China, [Buddhism](../movements/buddhism.md) blends with the [Taoist](../movements/taoism.md) sensibility: first translated through the vocabulary of the dao and wu wei, it gives rise to Chan, the ancestor of Zen, where Indian meditation weds the naturalness and spontaneity dear to [Zhuangzi](../philosophers/zhuangzi.md). The filiation is rarely claimed as such, yet the Chan school bears its imprint.
 
 ---
 

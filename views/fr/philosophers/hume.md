@@ -134,7 +134,7 @@ Le primat du sentiment 95% · Primauté de la raison 5%
 
 La raison n'a que deux emplois : établir des relations d'idées (le démonstratif) ou inférer des faits (le causal) ; or aucun de ces actes ne meut à lui seul la volonté. Hume en conclut que la raison ne saurait produire ni empêcher une action, donc jamais s'opposer à une passion : seule une passion contraire le peut. La raison fixe les moyens, mais les fins viennent du sentiment ; on ne déclare contraire à la raison ni de préférer sa ruine au moindre désagrément d'autrui, car un désir n'est ni vrai ni faux. Renversant l'intellectualisme socratique et stoïcien qui faisait des passions des erreurs de jugement, Hume soutient un sentimentalisme où la raison est subordonnée à l'affect dans tout ce qui touche à l'action et au jugement moral.
 
-> « La raison est, et ne doit qu'être, l'esclave des passions, et ne peut prétendre à d'autre rôle qu'à les servir et à leur obéir. », Traité de la nature humaine, II, III, 3
+> « La raison est, et ne doit être, que l'esclave des passions. », Traité de la nature humaine, II, 3, 3
 
 *Sources : Traité de la nature humaine, II, partie III, sect. 3 (des motifs qui influent sur la volonté)*
 

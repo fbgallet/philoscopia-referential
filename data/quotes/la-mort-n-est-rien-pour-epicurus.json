@@ -1,9 +1,9 @@
 {
   "id": "la-mort-n-est-rien-pour-epicurus",
-  "text": { "fr": "La mort n'est rien pour nous ; car ce qui est dissous est privé de sensation, et ce qui est privé de sensation n'est rien pour nous.", "en": "Death is nothing to us; for that which is dissolved is without sensation, and that which lacks sensation is nothing to us." },
+  "text": { "fr": "La mort n'est rien pour nous ; car lorsque nous sommes, la mort n'est pas là, et lorsque la mort est là, nous ne sommes plus.", "en": "Death is nothing to us; for so long as we exist, death is not with us, and when death comes, then we do not exist." },
   "author": { "name": { "fr": "Épicure", "en": "Epicurus" }, "kind": "PHILOSOPHER", "slug": "epicurus" },
-  "work": "principal-doctrines-epicurus",
-  "source": { "fr": "Maximes capitales, II", "en": "Principal Doctrines, II" },
+  "work": "letter-to-menoeceus-epicurus",
+  "source": { "fr": "Lettre à Ménécée, 125", "en": "Letter to Menoeceus, 125" },
   "anchors": [{ "axisId": "DEATH", "poleId": "EPICUREANISM" }],
-  "updatedAt": "2026-07-18T00:00:00.000Z"
+  "updatedAt": "2026-07-22T00:00:00.000Z"
 }

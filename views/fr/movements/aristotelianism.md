@@ -4,7 +4,7 @@
 
 *335 av. J.-C. – 1274*
 
-Tradition issue de l'école que [Aristote](../philosophers/aristotle.md) fonda au Lycée d'Athènes vers 335 avant notre ère, où ses disciples, les Péripatéticiens, enseignaient en se promenant. Formé chez [Platon](../philosophers/plato.md) mais en rupture avec lui, Aristote bâtit le premier système encyclopédique de la philosophie, de la logique à la biologie, à partir de l'observation patiente du monde sensible plutôt que de la contemplation d'un monde des Idées. Après une longue éclipse, son œuvre est commentée et prolongée par Averroès dans le monde arabo-musulman, puis intégrée au christianisme par Thomas d'Aquin : l'aristotélisme devient l'ossature de la scolastique médiévale et la référence dominante des universités, jusqu'à ce que la science moderne conteste son finalisme. Sa logique, son éthique de la vertu et son vocabulaire métaphysique irriguent encore la pensée occidentale.
+Tradition issue de l'école que [Aristote](../philosophers/aristotle.md) fonda au Lycée d'Athènes vers 335 avant notre ère, où ses disciples, les Péripatéticiens, enseignaient en se promenant. Formé chez [Platon](../philosophers/plato.md) mais en rupture avec lui, Aristote bâtit le premier système encyclopédique de la philosophie, de la logique à la biologie, à partir de l'observation patiente du monde sensible plutôt que de la contemplation d'un monde des Idées. Après une longue éclipse, son œuvre est commentée et prolongée par Averroès dans le monde arabo-musulman, puis intégrée au christianisme par Thomas d'Aquin : l'aristotélisme devient l'ossature de la [scolastique](../glossary/scholasticism.md) médiévale et la référence dominante des universités, jusqu'à ce que la science moderne conteste son finalisme. Sa logique, son éthique de la vertu et son vocabulaire métaphysique irriguent encore la pensée occidentale.
 
 **Figures majeures** : [Aristote](../philosophers/aristotle.md) · [Thomas d'Aquin](../philosophers/aquinas.md) · [Averroès](../philosophers/averroes.md)
 
@@ -56,7 +56,7 @@ Eudémonisme 85% · Vertu / perfectionnisme moral 15%
 
 L'argument procède de la fonction propre : comme le bien du flûtiste tient à bien remplir sa fonction, le bien de l'homme tient à l'activité qui lui est spécifique, l'exercice de la raison, que ne partagent ni la plante ni l'animal. Le souverain bien ne peut donc être le plaisir, que poursuit toute bête, contre l'[hédonisme](../glossary/hedonism.md) ; ni un bien extérieur comme l'honneur, qui dépend d'autrui. C'est l'[eudaimonia](../glossary/eudaimonism.md), activité de l'âme conforme à la vertu : un accomplissement actif, et non un état possédé, qui se déploie sur toute une vie et requiert aussi des biens du corps et de la fortune.
 
-> « Le bien de l'homme est une activité de l'âme en accord avec la vertu, et s'il y a plusieurs vertus, en accord avec la meilleure et la plus parfaite. », Éthique à Nicomaque, I, 7, 1098a
+> « Le bien de l'homme est une activité de l'âme en accord avec la vertu, et s'il y a plusieurs vertus, en accord avec la meilleure et la plus parfaite. », Éthique à Nicomaque, I, 7 (1098a)
 
 *Sources : Aristote, Éthique à Nicomaque, I, 7 · Thomas d'Aquin, Somme théologique, I-II, q. 1-5*
 
@@ -80,7 +80,7 @@ Finalisme 90% · Mécanisme 10%
 
 Le point de départ est l'observation du vivant : un gland devient chêne et non hêtre, l'organe se développe pour une fonction, signe qu'un terme oriente le processus. Tenir cette régularité pour un pur hasard de la matière, comme le mécanisme de Démocrite, n'explique rien ; il faut, outre la matière, la [cause finale](../glossary/four-causes.md), ce en vue de quoi une chose existe. Le finalisme n'est donc pas projeté sur la nature mais lu en elle, et ce sont les natures internes des êtres, non un démiurge extérieur, qui les portent vers leur fin.
 
-> « Dieu et la nature ne font rien en vain. », Du ciel, I, 4, 271a ; cf. Physique, II, 8
+> « La nature ne fait rien en vain. », Politique, I, 2 (1253a)
 
 *Sources : Aristote, Physique, II, 3 et 8 · Aristote, Métaphysique, A, 3*
 
@@ -132,7 +132,7 @@ Correspondance 90% · Cohérence 10%
 
 La définition aristotélicienne de la vérité est le paradigme de la correspondance : la pensée est vraie quand elle s'accorde à ce qui est dans la chose, formule que la scolastique reprendra comme adéquation de l'intellect et de la chose.
 
-> « Dire de ce qui est qu'il n'est pas, ou de ce qui n'est pas qu'il est, est le faux ; dire de ce qui est qu'il est, et de ce qui n'est pas qu'il n'est pas, est le vrai. », Métaphysique, Γ (livre IV), 7, 1011b
+> « Dire de ce qui est qu'il n'est pas, ou de ce qui n'est pas qu'il est, c'est le faux ; dire de ce qui est qu'il est, et de ce qui n'est pas qu'il n'est pas, c'est le vrai. », Métaphysique, Γ (IV), 7 (1011b)
 
 *Sources : Aristote, Métaphysique, Γ (livre IV), 7 · Thomas d'Aquin, Questions disputées sur la vérité, q. 1*
 
@@ -184,7 +184,7 @@ Théisme 80% · Athéisme 20%
 
 L'aristotélisme affirme un principe divin, le [premier moteur immobile](../glossary/unmoved-mover.md), cause finale du mouvement de l'univers qu'il meut comme l'aimé meut l'amant. Mais ce dieu d'Aristote est impersonnel : pure pensée se pensant elle-même, il n'est ni créateur ni providence et ne se soucie pas du monde. D'où une position théiste nettement non extrême, qui marque cette impersonnalité, avant que la scolastique ne l'identifie, non sans tension, au Dieu personnel et providentiel.
 
-> « La pensée se pense elle-même en saisissant l'intelligible, et son acte de pensée est pensée de la pensée. », Métaphysique, Λ (livre XII), 9, 1074b
+> « La pensée se pense elle-même en saisissant l'intelligible, et son acte de pensée est pensée de la pensée. », Métaphysique, Λ (XII), 9 (1074b)
 
 *Sources : Aristote, Métaphysique, Λ (livre XII), 7 et 9*
 

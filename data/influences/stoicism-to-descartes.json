@@ -1,0 +1,16 @@
+{
+  "id": "stoicism-to-descartes",
+  "from": { "kind": "MOVEMENT", "slug": "stoicism" },
+  "to": { "kind": "PHILOSOPHER", "slug": "descartes" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "La troisième maxime de la morale par provision de <ph id='descartes'>Descartes</ph>, <q>tâcher toujours plutôt à me vaincre que la fortune, et à changer mes désirs que l'ordre du monde</q>, fait sien le partage <mv id='stoicism'>stoïcien</mv> entre <c id='dichotomy-of-control'>ce qui dépend de nous</c> et ce qui n'en dépend pas. La générosité des Passions de l'âme prolonge cette maîtrise de soi, mais Descartes la refonde sur le <c id='free-will'>libre arbitre</c> plutôt que sur le consentement au destin.",
+    "en": "The third maxim of <ph id='descartes'>Descartes</ph>'s provisional morality, <q>to try always to conquer myself rather than fortune, and to change my desires rather than the order of the world</q>, makes its own the <mv id='stoicism'>Stoic</mv> division between <c id='dichotomy-of-control'>what is up to us</c> and what is not. The générosité of the Passions of the Soul carries this self-mastery forward, but Descartes refounds it on <c id='free-will'>free will</c> rather than on consent to fate."
+  },
+  "sources": [
+    { "fr": "Descartes, Discours de la méthode, IIIᵉ partie ; Les passions de l'âme, art. 153 ; lettres à Élisabeth", "en": "Descartes, Discourse on Method, part III; The Passions of the Soul, art. 153; letters to Elisabeth" }
+  ],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

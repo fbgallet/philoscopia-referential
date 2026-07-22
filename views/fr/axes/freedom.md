@@ -83,7 +83,7 @@ Le compatibilisme renonce au libre arbitre au sens fort, ce pouvoir de choisir a
 
 > « L'homme est condamné à être libre. Condamné, parce qu'il ne s'est pas créé lui-même, et par ailleurs cependant libre, parce qu'une fois jeté dans le monde, il est responsable de tout ce qu'il fait. » — [Sartre](../philosophers/sartre.md), L'existentialisme est un humanisme
 
-> « La nature a placé l'humanité sous l'empire de deux maîtres souverains, la peine et le plaisir. » — [Bentham](../philosophers/bentham.md), Principes de la morale et de la législation, I
+> « La nature a placé l'humanité sous l'empire de deux maîtres souverains, la douleur et le plaisir. C'est à eux seuls qu'il appartient de montrer ce que nous devons faire comme de déterminer ce que nous ferons. » — [Bentham](../philosophers/bentham.md), Introduction aux principes de la morale et de la législation, ch. I, §1
 
 > « Le créateur et maître de toutes choses a lui-même écrit les destins, mais il les suit : il a commandé une fois, il obéit toujours. » — [Sénèque](../philosophers/seneca.md), De la providence, V
 

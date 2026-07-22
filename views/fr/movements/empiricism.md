@@ -86,7 +86,7 @@ Empirisme 95% · Rationalisme 5%
 
 Le levier est un argument génétique : si l'on remonte n'importe quelle idée jusqu'à sa source, on ne trouve jamais qu'une impression de sensation ou de réflexion, jamais un contenu donné d'avance. Locke ouvre l'*[Essai](../works/essay-concerning-human-understanding-locke.md)* en démolissant l'argument du consentement universel invoqué pour les [idées innées](../glossary/innate-ideas.md) (nul principe n'est connu des enfants ni des idiots), ce qui laisse l'esprit comme un papier blanc à remplir ; Hume durcit le critère en une arme polémique, sommant d'exhiber l'impression d'où dérive un terme, faute de quoi il est vide de sens. C'est l'inversion exacte du [rationalisme](../axes/knowledge-source.md) de [Descartes](../philosophers/descartes.md), qui faisait de l'idée innée le socle du savoir.
 
-> « Supposons donc que l'esprit soit, comme on dit, une page blanche, vierge de tout caractère, sans aucune idée. Comment vient-il à être rempli ? … À cela je réponds d'un mot : de l'expérience. », Essai sur l'entendement humain, II, 1, §2
+> « Supposons donc que l'esprit soit, comme on dit, un papier blanc, vide de tout caractère, sans aucune idée : comment vient-il à en être pourvu ? ... À cela je réponds d'un seul mot : par l'expérience. », Essai sur l'entendement humain, II, ch. 1, §2
 
 *Sources : Locke, Essai sur l'entendement humain, livre I (contre les idées innées) et II, 1 · Hume, Enquête sur l'entendement humain, section II*
 
@@ -148,7 +148,7 @@ Le primat du sentiment 75% · Primauté de la raison 25%
 
 Le sentimentalisme moral est ici surtout l'œuvre de Hume : ce sont les **passions**, non l'entendement, qui meuvent à l'action et fondent les distinctions morales, lesquelles tiennent à un sentiment d'approbation ou de blâme. Cette inclination, qu'annonce déjà la philosophie britannique du sens moral, reste typique de l'école sans être partagée à l'identique par Locke.
 
-> « La raison est et ne doit être que l'esclave des passions. », Traité de la nature humaine, II, 3, 3
+> « La raison est, et ne doit être, que l'esclave des passions. », Traité de la nature humaine, II, 3, 3
 
 *Sources : Hume, Traité de la nature humaine, II, 3, 3 et III, 1*
 
@@ -180,7 +180,7 @@ Si l'esprit est à la naissance une [table rase](../glossary/tabula-rasa.md), al
 
 L'école fait de la régulation de l'assentiment un devoir épistémique : Locke soutient que l'on doit accorder son adhésion à proportion des **preuves** et des degrés de probabilité, et Hume résume cette éthique de la croyance par sa maxime fameuse sur le sage qui proportionne sa croyance aux preuves. Fonder le savoir sur l'expérience commande de ne croire qu'à la mesure de ce qu'elle atteste.
 
-> « Un homme sage proportionne donc sa croyance à l'évidence. », Enquête sur l'entendement humain, section X (des miracles)
+> « Un homme sage proportionne donc sa croyance à l'évidence. », Enquête sur l'entendement humain, sect. X
 
 *Sources : Locke, Essai sur l'entendement humain, IV, 15-16 (de la probabilité et des degrés d'assentiment) · Hume, Enquête sur l'entendement humain, section X (des miracles)*
 
@@ -213,6 +213,10 @@ Nominalisme 85% · Réalisme des universaux 15%
 Le nominalisme découle directement de l'origine sensible des idées : toute perception est d'un particulier, ce triangle-ci, cette teinte-ci, jamais d'un universel en général, qui n'a donc pas d'idée correspondante dans l'esprit. Locke admettait encore des idées abstraites obtenues par séparation ; Berkeley objecte qu'on ne saurait former l'idée d'un triangle qui ne soit ni équilatéral ni scalène, et réduit le général à un signe tenant lieu de tous ses semblables. La généralité passe ainsi dans le **langage**, non dans les choses, ce qui congédie les Formes [platoniciennes](../movements/platonism.md) et les essences réalistes comme des entités sans appui dans l'expérience.
 
 *Sources : Locke, Essai, III ; Hume, Traité, I, I, 7*
+
+## Influencé par
+
+- **[Rationalisme](../movements/rationalism.md)** (réagit contre) : L'[empirisme](../movements/empiricism.md) britannique se définit contre le [rationalisme](../movements/rationalism.md) : le premier livre de l'*[Essai](../works/essay-concerning-human-understanding-locke.md)* de [Locke](../philosophers/locke.md) entreprend de réfuter les principes innés, avant que le second ne fasse dériver toutes nos idées de l'expérience, sensation puis réflexion. À l'ordre des raisons déduites a priori, il oppose la patiente collecte des idées simples.
 
 ## Influence sur
 

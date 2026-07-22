@@ -277,6 +277,7 @@ Ce qui pense ne peut être de même nature que ce qui est pensé du dehors : l'�
 ## Influence sur
 
 - **[Boèce](../philosophers/boethius.md)** (réinterprète) : La Consolation de Philosophie de [Boèce](../philosophers/boethius.md) respire le [platonisme](../movements/platonism.md) tardif : remontée de l'âme vers le Bien, providence ordonnatrice, mal privé d'être, dans une prose qui christianise l'héritage sans le citer.
+- **[Scepticisme](../movements/skepticism.md)** (réinterprète) : Le [scepticisme](../movements/skepticism.md) académique naît à l'intérieur même de l'Académie de [Platon](../philosophers/plato.md) : [Arcésilas](../philosophers/arcesilaus.md), puis Carnéade, retournent la dialectique de l'école contre le [dogmatisme](../glossary/dogmatism.md), faisant de la suspension du jugement la vraie fidélité à la méthode socratique de l'examen. La recherche platonicienne du savoir se renverse ainsi en art de n'affirmer rien.
 - **[Nietzsche](../philosophers/nietzsche.md)** (réagit contre) : [Nietzsche](../philosophers/nietzsche.md) définit sa tâche comme un « renversement du platonisme » : contre le [platonisme](../movements/platonism.md) et son « monde vrai » qui dévalorise le sensible, il veut rendre à la terre et au corps leur innocence.
 
 ---

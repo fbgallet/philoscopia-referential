@@ -1,0 +1,17 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "horkheimer",
+  "name": { "fr": "Horkheimer", "en": "Horkheimer" },
+  "fullName": { "fr": "Max Horkheimer", "en": "Max Horkheimer" },
+  "summary": {
+    "fr": "Philosophe et sociologue allemand, directeur de l'Institut de recherche sociale de Francfort et fondateur de la « théorie critique » : avec Adorno, dans la Dialectique de la raison, il montre comment la raison réduite au calcul et à l'efficacité (la raison « instrumentale ») devient un moyen de domination.",
+    "en": "German philosopher and sociologist, director of the Frankfurt Institute for Social Research and founder of \"critical theory\": with Adorno, in Dialectic of Enlightenment, he shows how reason reduced to calculation and efficiency (\"instrumental\" reason) becomes a means of domination."
+  },
+  "nationality": { "fr": "Allemand", "en": "German" },
+  "birth": 1895,
+  "death": 1973,
+  "movements": [],
+  "updatedAt": "2026-07-22T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

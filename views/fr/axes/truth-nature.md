@@ -41,8 +41,6 @@ Le vrai, c'est ce qui fonctionne : une idée est vraie si elle guide efficacemen
 
 > « Dans toute proposition affirmative véritable, le prédicat est contenu dans le sujet : praedicatum inest subjecto. » — [Leibniz](../philosophers/leibniz.md), Discours de métaphysique, §8 ; Generales inquisitiones
 
-> « Dire de ce qui est qu'il n'est pas, ou de ce qui n'est pas qu'il est, est le faux ; dire de ce qui est qu'il est, et de ce qui n'est pas qu'il n'est pas, est le vrai. » — [Aristote](../philosophers/aristotle.md), Métaphysique, Γ (livre IV), 7, 1011b
-
 > « Dire de ce qui est qu'il n'est pas, ou de ce qui n'est pas qu'il est, c'est le faux ; dire de ce qui est qu'il est, et de ce qui n'est pas qu'il n'est pas, c'est le vrai. » — [Aristote](../philosophers/aristotle.md), Métaphysique, Γ (IV), 7 (1011b)
 
 > « L'enseignement du Dharma par les bouddhas repose sur deux vérités : la vérité d'enveloppement mondain et la vérité au sens ultime. Sans s'appuyer sur le conventionnel, l'ultime n'est pas enseigné ; sans atteindre l'ultime, le nirvāṇa n'est pas obtenu. » — [Nāgārjuna](../philosophers/nagarjuna.md), Mūlamadhyamakakārikā, XXIV, 8-10

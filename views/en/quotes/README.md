@@ -9,20 +9,16 @@
 ### [Aristotle](../philosophers/aristotle.md)
 
 - “This alone of all the sciences is free, for it alone exists for its own sake.” — Metaphysics, I.2 (982b)
-- “God and nature do nothing in vain.” — On the Heavens, I, 4, 271a; cf. Physics, II, 8
-- “To say of what is that it is not, or of what is not that it is, is false; while to say of what is that it is, and of what is not that it is not, is true.” — Metaphysics, Γ (book IV), 7, 1011b
 - “To say of what is that it is not, or of what is not that it is, is false; while to say of what is that it is, and of what is not that it is not, is true.” — Metaphysics, IV (Gamma).7 (1011b)
 - “The friend is another self.” — Nicomachean Ethics, IX, 4
 - “Man is by nature a political animal.” — Politics, I.2 (1253a)
 - “The city is by nature prior to the individual, for the whole is necessarily prior to the part.” — Politics, I.2 (1253a)
 - “Nature is a principle of motion and change.” — Physics, III.1 (200b)
 - “Nature does nothing in vain.” — Politics, I.2 (1253a)
-- “Thought thinks itself in grasping the intelligible, and its thinking is a thinking of thinking.” — Metaphysics, Λ (book XII), 9, 1074b
-- “Thought thinks itself: it is a thinking of thinking.” — Metaphysics, XII (Lambda).9 (1074b)
+- “Thought thinks itself in grasping the intelligible, and its thinking is a thinking of thinking.” — Metaphysics, XII (Lambda).9 (1074b)
 - “Poetry is more philosophical and weightier than history: it speaks of the universal, history of the particular.” — Poetics, 9 (1451b)
 - “Virtue is a state of character concerned with choice, lying in a mean relative to us, this being determined by reason and in the way the person of practical wisdom would determine it.” — Nicomachean Ethics, II, 6, 1106b-1107a
-- “The good of man is an activity of the soul in accordance with virtue, and if there are several virtues, in accordance with the best and most complete.” — Nicomachean Ethics, I, 7, 1098a
-- “The human good turns out to be activity of the soul in accordance with virtue.” — Nicomachean Ethics, I.7 (1098a)
+- “The good of man is an activity of the soul in accordance with virtue, and if there are several virtues, in accordance with the best and most complete.” — Nicomachean Ethics, I.7 (1098a)
 - “All men by nature desire to know.” — Metaphysics, I, 1, 980a
 
 ### [Bacon](../philosophers/bacon.md)
@@ -37,15 +33,12 @@
 
 - “There is freedom only as engaged, willing itself by willing the disclosure of being through a world.” — The Ethics of Ambiguity
 - “There is no such thing as a natural death.” — A Very Easy Death
-- “One is not born, but rather becomes, a woman.” — The Second Sex, vol. II
 - “One is not born, but rather becomes, a woman. No biological, psychic, or economic destiny defines the figure that the human female assumes within society.” — The Second Sex, vol. II
 
 ### [Bentham](../philosophers/bentham.md)
 
 - “Quantity of pleasure being equal, pushpin is as good as poetry.” — The Rationale of Reward
 - “The interest of the community then is, what? — the sum of the interests of the several members who compose it.” — An Introduction to the Principles of Morals and Legislation, ch. I, §4
-- “Nature has placed mankind under the governance of two sovereign masters, pain and pleasure.” — Principles of Morals and Legislation, I
-- “Nature has placed mankind under the governance of two sovereign masters, pain and pleasure. It is for them alone to point out what we ought to do.” — An Introduction to the Principles of Morals and Legislation, ch. 1
 - “Nature has placed mankind under the governance of two sovereign masters, pain and pleasure. It is for them alone to point out what we ought to do, as well as to determine what we shall do.” — An Introduction to the Principles of Morals and Legislation, ch. I, §1
 - “The question is not, Can they reason? nor, Can they talk? but, Can they suffer?” — An Introduction to the Principles of Morals and Legislation, ch. XVII
 - “Natural rights is simple nonsense: natural and imprescriptible rights, rhetorical nonsense, nonsense upon stilts.” — Anarchical Fallacies
@@ -85,7 +78,6 @@
 - “What you do not wish for yourself, do not do to others.” — Analects, XV, 24
 - “Each day I examine myself on three points: have I been faithful in acting for others, sincere with my friends, and have I practised what was taught to me?” — Analects, I, 4
 - “Lead the people by virtue, keep them in order by the rites, and they will have a sense of shame and come to you.” — Analects, II, 3
-- “I transmit but do not innovate; I trust in and love the ancients.” — Analects (Lunyu), 7.1
 - “I transmit and do not create; I love the Ancients and trust them.” — Analects, VII, 1
 - “The noble person seeks it in himself; the small person seeks it in others.” — Analects (Lunyu), 15.21
 - “Uprightness lies in this: the father screens his son, and the son screens his father.” — Analects, XIII, 18
@@ -116,26 +108,20 @@
 
 - “Men are disturbed not by things, but by the opinions about things.” — Enchiridion, §5
 - “It is difficulties that show what men are.” — Discourses, I.24
-- “Some things are within our power, while others are not.” — Enchiridion, §1
 - “The subject-matter of the art of living is each person's own life.” — Discourses, I.15.2
 - “Seek not that the things which happen should happen as you wish; but wish the things which happen to be as they are, and you will have a tranquil flow of life.” — Enchiridion, §8
-- “Do not ask that things happen as you wish, but wish them to happen as they do, and your life will go well.” — Enchiridion, §8
 - “On no occasion call yourself a philosopher: be one.” — Enchiridion, §46
 - “Of things, some are in our power, and others are not.” — Enchiridion, §1
 
 ### [Epicurus](../philosophers/epicurus.md)
 
 - “Of all the things that wisdom provides for the happiness of a whole life, by far the greatest is the possession of friendship.” — Principal Doctrines, XXVII
-- “Bread and water yield the highest pleasure when brought to hungry lips.” — Vatican Sayings, 33
 - “The blessed and incorruptible being neither has trouble itself nor causes trouble to another; hence it is moved neither by anger nor by favour.” — Principal Doctrines, I
 - “Natural justice is a compact of advantage, made to the end that men may neither harm one another nor be harmed.” — Principal Doctrines, XXXI
-- “Death is nothing to us, for that which is dissolved is without sensation, and that which lacks sensation is nothing to us.” — Letter to Menoeceus, 124-125
-- “Death is nothing to us; for that which is dissolved is without sensation, and that which lacks sensation is nothing to us.” — Principal Doctrines, II
-- “Bread and water confer the highest pleasure when one brings them to needy lips.” — Vatican Sayings, 59 (cf. Letter to Menoeceus)
+- “Death is nothing to us; for so long as we exist, death is not with us, and when death comes, then we do not exist.” — Letter to Menoeceus, 125
+- “Bread and water confer the highest pleasure when one brings them to needy lips.” — Letter to Menoeceus, 130-131
 - “Pleasure is the beginning and the end of the blessed life.” — Letter to Menoeceus, 128
 - “The totality of things is made of bodies and void.” — Letter to Herodotus, 39
-- “The universe consists of bodies and void.” — Letter to Herodotus, 39-40
-- “Of desires, some are natural and others vain; and of the natural, some are necessary and others merely natural.” — Letter to Menoeceus, 127
 - “Of the desires, some are natural and necessary, some natural but not necessary, and some neither natural nor necessary but arising from empty opinion.” — Principal Doctrines, XXIX
 - “Empty is the word of the philosopher that heals no human suffering.” — fr. 221 Usener (Porphyry, Letter to Marcella, 31)
 - “Live unnoticed.” — Fragment 551 Usener (lathe biosas)
@@ -149,17 +135,19 @@
 - “The owl of Minerva spreads its wings only with the falling of the dusk.” — Elements of the Philosophy of Right, Preface
 - “Everything turns on grasping and expressing the true not only as substance, but equally as subject.” — Phenomenology of Spirit, Preface
 
+### Homer
+
+- “Endure, my heart; you have borne worse before this.” — Odyssey, XX, 18
+- “He saw the cities of many men and knew their minds.” — Odyssey, I, 3
+
 ### [Hume](../philosophers/hume.md)
 
 - “After a repetition of similar instances, the mind is carried by habit, upon the appearance of one event, to expect its usual attendant... This connexion, therefore, which we feel in the mind, is the impression from which we form the idea of power or necessary connexion.” — Enquiry Concerning Human Understanding, sect. VII
 - “Beauty is no quality in things themselves: it exists merely in the mind which contemplates them; and each mind perceives a different beauty.” — Essays, "Of the Standard of Taste"
 - “Morality is more properly felt than judg'd of.” — A Treatise of Human Nature, III, I, 2
-- “Reason is, and ought only to be the slave of the passions, and can never pretend to any other office than to serve and obey them.” — A Treatise of Human Nature, II, III, 3
-- “Reason is, and ought only to be, the slave of the passions.” — Treatise of Human Nature, II, 3, 3
 - “Reason is, and ought only to be, the slave of the passions.” — A Treatise of Human Nature, II, 3, 3
 - “For my part, when I enter most intimately into what I call myself, I always stumble on some particular perception or other... I never can catch myself at any time without a perception.” — A Treatise of Human Nature, I, IV, 6
 - “All our ideas are nothing but copies of our impressions, or, in other words, it is impossible for us to think of anything which we have not antecedently felt.” — Enquiry Concerning Human Understanding, sect. II
-- “A wise man, therefore, proportions his belief to the evidence.” — Enquiry Concerning Human Understanding, section X (Of Miracles)
 - “A wise man, therefore, proportions his belief to the evidence.” — Enquiry Concerning Human Understanding, sect. X
 
 ### [Husserl](../philosophers/husserl.md)
@@ -189,11 +177,9 @@
 
 ### [Laozi](../philosophers/laozi.md)
 
-- “Governing a great state is like cooking a small fish.” — Dao De Jing, ch. 60
 - “Governing a great state is like frying a small fish.” — Dao De Jing, ch. 60
 - “The human models himself on the earth, the earth on heaven, heaven on the Dao, and the Dao on itself.” — Dao De Jing, ch. 25
 - “The Dao does nothing, and yet nothing is left undone.” — Dao De Jing, ch. 37
-- “The dao that can be told is not the constant dao.” — Dao De Jing, ch. 1
 - “The Dao that can be named is not the constant Dao.” — Dao De Jing, ch. 1
 - “The more clever tools there are, the more the state sinks into disorder.” — Dao De Jing, ch. 57
 - “The more laws and edicts there are, the more thieves and robbers multiply.” — Dao De Jing, ch. 57
@@ -207,7 +193,6 @@
 - “Reasons incline without necessitating.” — Theodicy
 - “When a controversy arises, there will be no more need of disputation between two philosophers than between two accountants. It will suffice to take their pens, sit down, and say: let us calculate.” — On the Art of Combinations / Letters
 - “Nothing is in the intellect that was not first in the senses, except the intellect itself.” — New Essays on Human Understanding, II, 1
-- “Nothing is in the intellect that was not first in the senses, except the intellect itself.” — New Essays on Human Understanding, II, 1
 - “Supposing there were a machine whose structure made it think... on visiting it one would find only parts pushing one another, and never anything to explain a perception.” — Monadology, §17
 
 ### [Locke](../philosophers/locke.md)
@@ -217,7 +202,6 @@
 - “As far as this consciousness can be extended backwards to any past action or thought, so far reaches the identity of that person.” — Essay Concerning Human Understanding, II, ch. 27, §9
 - “The mind, if it will proceed rationally, ought to examine all the grounds of probability ... and upon a due balancing the whole, reject or receive it, with a more or less firm assent, proportionably to the preponderancy of the greater grounds of probability.” — Essay Concerning Human Understanding, IV, ch. 15-16 (probability and the degrees of assent)
 - “The labour of his body and the work of his hands, we may say, are properly his. Whatsoever then he removes out of the state that nature hath provided ... he hath mixed his labour with, and thereby makes it his property.” — Two Treatises of Government, II, ch. 5, §27
-- “Let us then suppose the mind to be, as we say, white paper, void of all characters, without any ideas. How comes it to be furnished? … To this I answer, in one word, from experience.” — Essay Concerning Human Understanding, II, 1, §2
 - “Let us suppose the mind to be, as we say, white paper, void of all characters, without any ideas: how comes it to be furnished? ... To this I answer, in one word, from experience.” — Essay Concerning Human Understanding, II, ch. 1, §2
 
 ### [Lucretius](../philosophers/lucretius.md)
@@ -254,7 +238,6 @@
 - “The human essence is no abstraction inherent in the isolated individual. In its reality it is the ensemble of social relations.” — Theses on Feuerbach, VI
 - “The history of all hitherto existing society is the history of class struggles.” — Manifesto of the Communist Party, 1848
 - “The bourgeoisie has drowned the most heavenly ecstasies of religious fervour, of chivalrous enthusiasm, of philistine sentimentalism, in the icy water of egotistical calculation.” — Manifesto of the Communist Party, 1848
-- “Religion is the sigh of the oppressed creature, the heart of a heartless world, the soul of soulless conditions. It is the opium of the people.” — Critique of Hegel's Philosophy of Right, introduction
 - “Religion is the sigh of the oppressed creature, the heart of a heartless world, the soul of soulless conditions. It is the opium of the people.” — Critique of Hegel's Philosophy of Right, 1844
 - “The social revolution of the nineteenth century cannot draw its poetry from the past, but only from the future.” — The Eighteenth Brumaire of Louis Bonaparte, 1852
 - “Force is the midwife of every old society pregnant with a new one.” — Capital, vol. I, ch. 31
@@ -263,7 +246,6 @@
 - “The worker therefore does not affirm himself in his labour but denies himself; does not feel content but unhappy.” — 1844 Manuscripts
 - “Men make their own history, but they do not make it as they please; they do not make it under self-selected circumstances, but under circumstances directly given and inherited from the past.” — The Eighteenth Brumaire of Louis Bonaparte
 - “The ideas of the ruling class are in every epoch the ruling ideas.” — The German Ideology
-- “The philosophers have only interpreted the world, in various ways; the point is to change it.” — Theses on Feuerbach, XI
 - “The philosophers have only interpreted the world, in various ways; the point is to change it.” — Theses on Feuerbach, XI (1845)
 - “The proletarians have nothing to lose but their chains. They have a world to win.” — Manifesto of the Communist Party, 1848
 - “Working Men of All Countries, Unite!” — Manifesto of the Communist Party, 1848
@@ -293,8 +275,6 @@
 
 - “Everybody to count for one, nobody for more than one.” — Utilitarianism, ch. V
 - “It is better to be a human being dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied.” — Utilitarianism, ch. 2
-- “It is better to be a human being dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied.” — Utilitarianism, ch. 2
-- “It is better to be Socrates dissatisfied than a fool satisfied.” — Utilitarianism, ch. II
 - “Human nature is not a machine to be built after a model, but a tree, which requires to grow and develop itself on all sides.” — On Liberty, ch. 3
 - “The only purpose for which power can be rightfully exercised over any member of a civilised community, against his will, is to prevent harm to others.” — On Liberty, ch. 1
 - “Actions are right in proportion as they tend to promote happiness, wrong as they tend to produce the reverse of happiness.” — Utilitarianism, ch. 2
@@ -333,7 +313,6 @@
 - “To them, would not the truth be literally nothing but the shadows of the artificial objects?” — Republic, VII, 515c
 - “Nature herself shows that it is just for the better to have more than the worse, and the more capable than the less.” — Gorgias, 483d
 - “The Good is not being, but still beyond being, surpassing it in dignity and power.” — Republic, VI, 509b
-- “The Good is not essence, but still transcends essence in dignity and power.” — Republic, VI, 509b
 - “What is that which always is and has no becoming, and what is that which is always becoming and never is?” — Timaeus, 27d
 - “A beauty that always is, neither coming to be nor passing away, neither increasing nor diminishing; nor again beautiful in one part and ugly in another.” — Symposium, 211a
 
@@ -375,7 +354,6 @@
 - “Existentialism is nothing else but an attempt to draw all the consequences of a coherent atheist position.” — Existentialism Is a Humanism
 - “Man is condemned to be free. Condemned, because he did not create himself, yet nonetheless free, because once thrown into the world, he is responsible for everything he does.” — Existentialism Is a Humanism
 - “Man is a useless passion.” — Being and Nothingness, conclusion
-- “Man first of all exists, encounters himself, surges up in the world, and defines himself afterwards.” — Existentialism Is a Humanism
 - “Man first exists, encounters himself, surges up in the world, and defines himself afterward. If man as the existentialist conceives him is indefinable, it is because at first he is nothing. He will not be anything until later, and then he will be what he makes of himself.” — Existentialism Is a Humanism
 - “Man is nothing other than the series of his acts, he is nothing other than his life.” — Existentialism Is a Humanism
 - “Consciousness is a being such that in its being its being is in question insofar as this being implies a being other than itself: it is never what it is and is what it is not.” — Being and Nothingness, Introduction
@@ -420,8 +398,6 @@
 ### [Sextus Empiricus](../philosophers/sextus-empiricus.md)
 
 - “To every argument an equal argument is opposed.” — Outlines of Pyrrhonism, I, 12
-- “To every argument an equal argument is opposed.” — Outlines of Pyrrhonism, I, 12
-- “Tranquillity followed the suspension as the shadow follows the body.” — Outlines of Pyrrhonism, I, 29
 - “Tranquillity followed the suspension of judgment as a shadow follows its body.” — Outlines of Pyrrhonism, I, 29
 
 ### [Socrates](../philosophers/socrates.md)

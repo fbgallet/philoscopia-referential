@@ -87,13 +87,9 @@ Only virtue, or the good will, has unconditional worth: the good life is the mor
 
 > “Nature cries aloud for nothing else but that pain be kept away from the body, and that the mind enjoy pleasant sensation, free of care and fear.” — [Lucretius](../philosophers/lucretius.md), On the Nature of Things, II, 16-19
 
-> “Tranquillity followed the suspension as the shadow follows the body.” — [Sextus Empiricus](../philosophers/sextus-empiricus.md), Outlines of Pyrrhonism, I, 29
-
 > “Tranquillity followed the suspension of judgment as a shadow follows its body.” — [Sextus Empiricus](../philosophers/sextus-empiricus.md), Outlines of Pyrrhonism, I, 29
 
-> “The good of man is an activity of the soul in accordance with virtue, and if there are several virtues, in accordance with the best and most complete.” — [Aristotle](../philosophers/aristotle.md), Nicomachean Ethics, I, 7, 1098a
-
-> “The human good turns out to be activity of the soul in accordance with virtue.” — [Aristotle](../philosophers/aristotle.md), Nicomachean Ethics, I.7 (1098a)
+> “The good of man is an activity of the soul in accordance with virtue, and if there are several virtues, in accordance with the best and most complete.” — [Aristotle](../philosophers/aristotle.md), Nicomachean Ethics, I.7 (1098a)
 
 > “Pleasure is the beginning and the end of the blessed life.” — [Epicurus](../philosophers/epicurus.md), Letter to Menoeceus, 128
 

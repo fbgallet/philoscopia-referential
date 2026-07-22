@@ -1,0 +1,16 @@
+{
+  "id": "stoicism-to-adam-smith",
+  "from": { "kind": "MOVEMENT", "slug": "stoicism" },
+  "to": { "kind": "PHILOSOPHER", "slug": "adam-smith" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "La Théorie des sentiments moraux fait de la maîtrise de soi, que <ph id='adam-smith'>Adam Smith</ph> nomme self-command, la vertu qui couronne les autres, et son spectateur impartial reprend le mouvement <mv id='stoicism'>stoïcien</mv> de l'<c id='oikeiosis'>oikeiôsis</c>, l'extension du souci de soi jusqu'à autrui. Smith consacre de longues pages aux stoïciens, tout en jugeant leur apathie trop sévère pour la sympathie qui fonde sa morale.",
+    "en": "The Theory of Moral Sentiments makes self-command, <ph id='adam-smith'>Adam Smith</ph>'s name for self-mastery, the virtue that crowns the others, and its impartial spectator takes up the <mv id='stoicism'>Stoic</mv> movement of <c id='oikeiosis'>oikeiōsis</c>, the widening of self-concern to embrace others. Smith devotes long pages to the Stoics, while judging their apathy too severe for the sympathy that grounds his own morality."
+  },
+  "sources": [
+    { "fr": "Adam Smith, Théorie des sentiments moraux, parties VI-VII", "en": "Adam Smith, The Theory of Moral Sentiments, parts VI-VII" }
+  ],
+  "updatedAt": "2026-07-22T00:00:00.000Z"
+}

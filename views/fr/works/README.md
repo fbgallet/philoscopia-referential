@@ -45,6 +45,8 @@
 - *[Trois dialogues entre Hylas et Philonous](three-dialogues-berkeley.md)* : George Berkeley (1713)
 - *[Qu'est-ce que la philosophie antique ?](what-is-ancient-philosophy-hadot.md)* : Hadot (1995)
 - *[Léviathan](leviathan-hobbes.md)* : Hobbes (1651)
+- *[L'Iliade](iliad-homer.md)* : Homère (750 av. J.-C.)
+- *[L'Odyssée](odyssey-homer.md)* : Homère (750 av. J.-C.)
 - *[Recherches logiques](logical-investigations-husserl.md)* : Husserl (1901)
 - *[Idées directrices pour une phénoménologie (Ideen I)](ideas-i-husserl.md)* : Husserl (1913)
 - *[Méditations cartésiennes](cartesian-meditations-husserl.md)* : Husserl (1931)

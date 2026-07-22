@@ -78,11 +78,7 @@ On ne peut ni prouver que Dieu existe, ni prouver qu'il n'existe pas : la questi
 
 > « L'existentialisme n'est pas autre chose qu'un effort pour tirer toutes les conséquences d'une position athée cohérente. » — [Sartre](../philosophers/sartre.md), L'existentialisme est un humanisme
 
-> « La pensée se pense elle-même en saisissant l'intelligible, et son acte de pensée est pensée de la pensée. » — [Aristote](../philosophers/aristotle.md), Métaphysique, Λ (livre XII), 9, 1074b
-
-> « La pensée se pense elle-même : elle est pensée de la pensée. » — [Aristote](../philosophers/aristotle.md), Métaphysique, Λ (XII), 9 (1074b)
-
-> « La religion est le soupir de la créature accablée, l'âme d'un monde sans cœur, l'esprit de conditions dénuées d'esprit. C'est l'opium du peuple. » — [Marx](../philosophers/marx.md), Critique de la philosophie du droit de Hegel, introduction
+> « La pensée se pense elle-même en saisissant l'intelligible, et son acte de pensée est pensée de la pensée. » — [Aristote](../philosophers/aristotle.md), Métaphysique, Λ (XII), 9 (1074b)
 
 > « La religion est le soupir de la créature accablée, l'âme d'un monde sans cœur, l'esprit d'une époque sans esprit. Elle est l'opium du peuple. » — [Marx](../philosophers/marx.md), Critique de la philosophie du droit de Hegel, 1844
 

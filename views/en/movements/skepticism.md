@@ -73,7 +73,7 @@ Eudaimonism 90% · Hedonism 10%
 
 What torments a person, the skeptic argues, is not the event but the opinion held about it, judging it good or bad by nature: whoever pursues what he takes for a good and flees what he takes for an evil knows no rest. To suspend that opinion is therefore to defuse the disturbance at its source. [Ataraxia](../glossary/ataraxia.md) is thus not a goal the skeptic aims at directly, which would make him dependent once more: it supervenes by surprise, as the unexpected fruit of [epochē](../glossary/epoche.md). Here lies the school's paradox: one reaches serenity precisely by giving up the search for it in a knowledge of the good.
 
-> “Tranquillity followed the suspension as the shadow follows the body.”, Outlines of Pyrrhonism, I, 29
+> “Tranquillity followed the suspension of judgment as a shadow follows its body.”, Outlines of Pyrrhonism, I, 29
 
 *Sources : Sextus Empiricus, Outlines of Pyrrhonism, I, 25-30 · Diogenes Laertius, Lives, IX, 107-108*
 
@@ -146,6 +146,10 @@ The skeptic upholds neither a good and evil universal by nature nor relativism e
 *rejects the alternative*
 
 The school chooses neither truth nor illusion: it suspends. [Epochē](../glossary/epoche.md) is not a chosen illusion but the renunciation of settling the matter, and tranquility ([ataraxia](../glossary/ataraxia.md)) follows as the shadow follows the body, without any false belief being embraced: the axis's alternative presupposes a stand on truth which the skeptic precisely declines to grant.
+
+## Influenced by
+
+- **[Platonism](../movements/platonism.md)** (reinterprets) : Academic [skepticism](../movements/skepticism.md) is born within [Plato](../philosophers/plato.md)'s own Academy: [Arcesilaus](../philosophers/arcesilaus.md), and then Carneades, turn the school's dialectic against [dogmatism](../glossary/dogmatism.md), making the suspension of judgment the true fidelity to the Socratic method of examination. The Platonic search for knowledge thus reverses into an art of asserting nothing.
 
 ## Influence on
 
