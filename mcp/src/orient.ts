@@ -18,10 +18,14 @@ const T = {
   // skill-detection the server can't do itself (it has no view of the client's
   // loaded context) to the model, which CAN see what it has. It self-limits —
   // the condition goes false once a philo-* protocol is loaded, so the nudge
-  // stops nagging exactly when it should.
+  // stops nagging exactly when it should. TIMING matters as much as the
+  // content: this note rides along with notInitialized on a first session, and
+  // a welcome that asks for an install before giving any value drives people
+  // away — hence the explicit ban on raising it at the first exchange, and the
+  // ordering (the free, immediate prompt menu before the effortful install).
   setup: {
-    en: "FOR THE ASSISTANT (do not recite to the person): if no philo-* session protocol is loaded (a skill) and no session prompt is running, you have only this built-in guide — usable, but coarser. Say so ONCE, without insisting: the client's session-prompt menu (on demand) and, above all, the philo-* skills (auto-triggered, hands-free) sharpen every session; offer to install the skills if they want the best experience (the philoscopia-referential repo's skills/ folder → the assistant's skills directory). This note is moot once a protocol is loaded.",
-    fr: "POUR L'ASSISTANT (ne pas réciter à la personne) : si aucun protocole de session philo-* n'est chargé (un skill) et qu'aucun prompt de session n'est en cours, tu n'as que ce guide intégré — utilisable, mais plus fruste. Le dire UNE fois, sans insister : le menu de prompts de session du client (à la demande) et surtout les skills philo-* (déclenchés automatiquement, mains-libres) affinent chaque session ; proposer d'installer les skills si la personne veut le meilleur confort (le dossier skills/ du dépôt philoscopia-referential → le dossier de skills de l'assistant). Note caduque dès qu'un protocole est chargé.",
+    en: "FOR THE ASSISTANT (do not recite to the person): if no philo-* session protocol is loaded (a skill) and no session prompt is running, you are working from the built-in guide alone — usable, but coarser. DO NOT raise it at the first exchange: the person must taste something first (welcome, getting acquainted, a first exploration); asking for an install before giving anything drives people away. The right moment: the close of the first session, or when they hit something this guide handles poorly. Then, once and without insisting — first the client's session-prompt menu (immediate, nothing to install), then the philo-* skills (auto-triggered, hands-free) if they want the best experience (the philoscopia-referential repo's skills/ folder → the assistant's skills directory). This note is moot once a protocol is loaded.",
+    fr: "POUR L'ASSISTANT (ne pas réciter à la personne) : si aucun protocole de session philo-* n'est chargé (un skill) et qu'aucun prompt de session n'est en cours, tu mènes avec le seul guide intégré — utilisable, mais plus fruste. N'EN PARLE PAS au premier échange : la personne doit d'abord goûter quelque chose (accueil, faire connaissance, une première exploration) ; demander un effort d'installation avant d'avoir rien donné fait fuir. Le bon moment : la clôture de la première session, ou quand elle bute sur quelque chose que ce guide rend mal. Alors, une fois et sans insister — d'abord le menu de prompts de session du client (immédiat, rien à installer), puis les skills philo-* (déclenchés automatiquement, mains-libres) si elle veut le meilleur confort (dossier skills/ du dépôt philoscopia-referential → dossier de skills de l'assistant). Note caduque dès qu'un protocole est chargé.",
   },
   referential: {
     en: (axes: number) =>
@@ -45,6 +49,7 @@ const T = {
   },
   menu: {
     en: [
+      "PROBLEMATIZE — “what is there to think about here?”: raise a question of your own and see what makes it philosophical",
       "DISCOVER — “what do I really think about…?”: explore a question and elicit your position",
       "EXAMINE — “challenge my belief”: Socratic testing of a conviction",
       "COMPARE — “which philosopher am I close to?”: face-to-face with a figure",
@@ -53,6 +58,7 @@ const T = {
       "ARTICULATE — “help me say what I think”: formulation exercises",
     ],
     fr: [
+      "QUESTIONNER — « qu'y a-t-il à penser là-dedans ? » : faire naître votre propre question et voir ce qui la rend philosophique",
       "DÉCOUVRIR — « qu'est-ce que je pense vraiment de… ? » : explorer une question et dégager votre position",
       "EXAMINER — « mets ma conviction à l'épreuve » : examen socratique d'une croyance",
       "COMPARER — « de quel philosophe suis-je proche ? » : face-à-face avec une figure",

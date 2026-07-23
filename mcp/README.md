@@ -70,6 +70,7 @@ Besides tools, the server exposes **session prompts** — starters your client s
 
 | Prompt | Starts |
 |---|---|
+| `problematize` | Let a real philosophical question emerge from what you love, hate or take for granted |
 | `discover` | Elicit, situate and record what you think about a question |
 | `examine` | Put one of your positions through Socratic examination |
 | `compare` | A face-to-face with a philosopher's or movement's positions |
@@ -82,7 +83,7 @@ Each prompt carries the full protocol of the matching skill — they are generat
 
 ## Going further: the exploration skills
 
-The server alone guides your assistant through the basics (the built-in guide above), and the session prompts carry the full craft on demand. For the smoothest experience, install the seven **[exploration skills](../skills/)**: guided discovery through six doors, Socratic examination with an intensity dial, figure comparison, difficulty-driven text reading, concept work, formulation training, and the dated profile synthesis. A skill is just a markdown instruction sheet your assistant reads — nothing executes; the [skills README](../skills/README.md) walks you through setup for each client, including a zero-install option (paste the skill's content into the conversation).
+The server alone guides your assistant through the basics (the built-in guide above), and the session prompts carry the full craft on demand. For the smoothest experience, install the eight **[exploration skills](../skills/)**: raising a genuine question from your own material, guided discovery through six doors, Socratic examination with an intensity dial, figure comparison, difficulty-driven text reading, concept work, formulation training, and the dated profile synthesis. A skill is just a markdown instruction sheet your assistant reads — nothing executes; the [skills README](../skills/README.md) walks you through setup for each client, including a zero-install option (paste the skill's content into the conversation).
 
 Skills and the prompts above are **complementary**: a skill is *auto-triggered* — the assistant reaches for it on its own when your phrasing matches, hands-free, though that match is never guaranteed — while a prompt is *chosen from the menu*, deterministic and self-advertising. Installing the skills gives the hands-free path; the prompts need nothing and share the same source of truth.
 

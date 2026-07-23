@@ -29,6 +29,22 @@ interface PromptMeta {
 // NOT restated here. Array order is the order offered to the user.
 const PROMPTS: PromptMeta[] = [
   {
+    id: "problematize",
+    slug: "philo-problematize",
+    title: { fr: "Trouver ma question", en: "Find my question" },
+    blurb: {
+      fr: "Faire naître une question philosophique à partir de ce qui vous tient à cœur, ou vous familiariser avec le questionnement philosophique en vous exerçant à en tirer une de n'importe quel sujet ordinaire, et voir ce qui la distingue d'une question scientifique ou psychologique.",
+      en: "Let a philosophical question emerge from something you care about, or get familiar with philosophical questioning by training yourself to draw one out of any ordinary subject, and see what sets it apart from a scientific or psychological one.",
+    },
+    arg: {
+      name: "material",
+      description: {
+        fr: "Ce dont vous voulez partir : une chose qui vous tient à cœur, vous agace ou vous paraît évidente. Facultatif : sans rien, on partira d'un sujet ordinaire, en exercice, pour vous familiariser avec le questionnement philosophique.",
+        en: "What to start from: something you care about, something that irritates you, something you find obvious. Optional: leave it empty and we start from an ordinary subject, as an exercise in getting familiar with philosophical questioning.",
+      },
+    },
+  },
+  {
     id: "discover",
     slug: "philo-discover",
     title: { fr: "Découvrir ce que je pense", en: "Discover what I think" },

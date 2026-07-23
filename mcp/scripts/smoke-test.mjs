@@ -45,7 +45,7 @@ check(
 
 // MCP prompts: user-selectable session starters, derived from the skills.
 const prompts = await client.listPrompts();
-check(`7 session prompts registered (got ${prompts.prompts.length})`, prompts.prompts.length === 7);
+check(`8 session prompts registered (got ${prompts.prompts.length})`, prompts.prompts.length === 8);
 check(
   "prompts are FR-titled and carry their optional argument",
   prompts.prompts.some((p) => p.name === "discover" && (p.title ?? "").includes("Découvrir") && (p.arguments ?? []).some((a) => a.name === "theme")),
@@ -62,7 +62,7 @@ check(
 
 const helpText = (await call("help")).text;
 check("help tool returns the localized guide", helpText.includes("record_position") && helpText.includes("RÈGLES DE SOIN"));
-check("guide routes the six session types", helpText.includes("TYPES DE SESSIONS") && helpText.includes("DIFFICULTÉS"));
+check("guide routes the seven session types", helpText.includes("TYPES DE SESSIONS") && helpText.includes("DIFFICULTÉS"));
 
 const coreAxes = (await call("list_axes")).json();
 const { note: coreNote, ...coreGroups } = coreAxes;
@@ -134,12 +134,14 @@ check(
   "orient before init: referential counts + invitation to create the carnet",
   orientBefore.workspace?.initialized === false &&
     orientBefore.referential?.figures > 0 &&
-    orientBefore.sessionMenu?.length === 6 &&
+    orientBefore.sessionMenu?.length === 7 &&
     orientBefore.workspace.note.includes("init_workspace"),
 );
 check(
-  "orient carries the assistant setup/install nudge (self-extinguishing)",
-  typeof orientBefore.setup === "string" && orientBefore.setup.includes("philo-"),
+  "orient's setup nudge is self-extinguishing AND timed (never at the first exchange)",
+  typeof orientBefore.setup === "string" &&
+    orientBefore.setup.includes("philo-") &&
+    orientBefore.setup.includes("premier échange"),
 );
 
 const init = (

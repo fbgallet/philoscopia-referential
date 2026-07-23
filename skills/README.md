@@ -1,9 +1,10 @@
 # Exploration skills
 
-Seven [agent skills](https://agentskills.io) that turn any capable assistant into a philosophical companion over the [Philoscopia MCP server](../mcp/): they carry the conversational craft (how to conduct a session), while the server carries the data and the persistence.
+Eight [agent skills](https://agentskills.io) that turn any capable assistant into a philosophical companion over the [Philoscopia MCP server](../mcp/): they carry the conversational craft (how to conduct a session), while the server carries the data and the persistence.
 
 | Skill | Job |
 |---|---|
+| [`philo-problematize`](philo-problematize/SKILL.md) | Make a genuine philosophical question emerge from the person's own material, sort it against the scientific, psychological, historical or self-help answers, and keep it as a live inquiry |
 | [`philo-discover`](philo-discover/SKILL.md) | Elicit positions the person doesn't know they hold, through six doors (common opinions, thought experiments, dilemmas, loves & hates, theories, quotes) |
 | [`philo-examine`](philo-examine/SKILL.md) | Test an existing position or belief with Socratic rigor (objections, roots, tensions, alternatives, livability) |
 | [`philo-compare`](philo-compare/SKILL.md) | Compare the person's profile with a philosopher or movement, and mine the differences |
@@ -51,6 +52,7 @@ Then, depending on your assistant:
 
 You never call tools yourself — you just talk. Some openers, and the skill they summon:
 
+- "I'm curious about philosophy but I wouldn't know what to ask." → `philo-problematize`
 - "I'd like to find out what I really think about freedom." → `philo-discover`
 - "Challenge my belief that hard work always pays off — don't go easy." → `philo-examine`
 - "Compare me with Spinoza." → `philo-compare`
